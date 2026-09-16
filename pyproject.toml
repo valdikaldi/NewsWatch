@@ -1,0 +1,21 @@
+[project]
+name = "newswatch"
+version = "0.1.0"
+description = "Add your description here"
+authors = [
+    { name = "Valdimar", email = "56283052+valdikaldi@users.noreply.github.com" }
+]
+requires-python = ">=3.10"
+dependencies = [
+    "feedparser>=6.0.14",
+    "python-dotenv>=1.2.3",
+    "requests>=2.34.2",
+    "trafilatura>=2.2.0",
+]
+
+[project.scripts]
+newswatch = "newswatch:main"
+
+[build-system]
+requires = ["uv_build>=0.12.15,<0.13.0"]
+build-backend = "uv_build"

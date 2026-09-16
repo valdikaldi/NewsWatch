@@ -1,0 +1,91 @@
+ceid,language_country,gl,country,hl,display_language
+US:en,English (United States),us,United States,en,English
+AU:en,English (Australia),au,Australia,en,English
+IL:en,English (Israel),il,Israel,en,English
+AR:es-419,Español (Argentina),ar,Argentina,es-419,Spanish (Latin America)
+BW:en,English (Botswana),bw,Botswana,en,English
+CA:en,English (Canada),ca,Canada,en,English
+ET:en,English (Ethiopia),et,Ethiopia,en,English
+GH:en,English (Ghana),gh,Ghana,en,English
+IN:en,English (India),in,India,en,English
+ID:en,English (Indonesia),id,Indonesia,en,English
+IE:en,English (Ireland),ie,Ireland,en,English
+KE:en,English (Kenya),ke,Kenya,en,English
+LV:en,English (Latvia),lv,Latvia,en,English
+MY:en,English (Malaysia),my,Malaysia,en,English
+NA:en,English (Namibia),na,Namibia,en,English
+NZ:en,English (New Zealand),nz,New Zealand,en,English
+NG:en,English (Nigeria),ng,Nigeria,en,English
+PK:en,English (Pakistan),pk,Pakistan,en,English
+PH:en,English (Philippines),ph,Philippines,en,English
+SG:en,English (Singapore),sg,Singapore,en,English
+ZA:en,English (South Africa),za,South Africa,en,English
+TZ:en,English (Tanzania),tz,"Tanzania, United Republic of",en,English
+UG:en,English (Uganda),ug,Uganda,en,English
+GB:en,English (United Kingdom),uk,United Kingdom,en,English
+ZW:en,English (Zimbabwe),zw,Zimbabwe,en,English
+ID:id,Bahasa Indonesia (Indonesia),id,Indonesia,id,Indonesian
+MY:ms,Bahasa Melayu (Malaysia),my,Malaysia,ms,Malay
+ES:ca,Català (Espanya),es,Spain,ca,Catalan
+CZ:cs,Čeština (Česko),cz,Czech Republic,cs,Czech
+DE:de,Deutsch (Deutschland),de,Germany,de,German
+AT:de,Deutsch (Österreich),at,Austria,de,German
+CH:de,Deutsch (Schweiz),ch,Switzerland,de,German
+EE:et,Eesti keel (Eesti),ee,Estonia,et,Estonian
+CL:es-419,Español (Chile),cl,Chile,es-419,Spanish (Latin America)
+CO:es-419,Español (Colombia),co,Colombia,es-419,Spanish (Latin America)
+CU:es-419,Español (Cuba),cu,Cuba,es-419,Spanish (Latin America)
+ES:es,Español (España),es,Spain,es,Spanish
+US:es-419,Español (Estados Unidos),us,United States,es-419,Spanish (Latin America)
+MX:es-419,Español (México),mx,Mexico,es-419,Spanish (Latin America)
+PE:es-419,Español (Perú),pe,Peru,es-419,Spanish (Latin America)
+VE:es-419,Español (Venezuela),ve,Venezuela,es-419,Spanish (Latin America)
+BE:fr,Français (Belgique),be,Belgium,fr,French
+CA:fr,Français (Canada),ca,Canada,fr-CA,French (Canadian)
+FR:fr,Français (France),fr,France,fr,French
+MA:fr,Français (Maroc),ma,Morocco,fr,French
+SN:fr,Français (Sénégal),sn,Senegal,fr,French
+CH:fr,Français (Suisse),ch,Switzerland,fr,French
+IT:it,Italiano (Italia),it,Italy,it,Italian
+LV:lv,Latviešu (Latvija),lv,Latvia,lv,Latvian
+LT:lt,Lietuvių (Lietuva),lt,Lithuania,lt,Lithuanian
+HU:hu,Magyar (Magyarország),hu,Hungary,hu,Hungarian
+BE:nl,Nederlands (België),be,Belgium,nl,Dutch
+NL:nl,Nederlands (Nederland),nl,Netherlands,nl,Dutch
+NO:no,Norsk (Norge),no,Norway,no,Norwegian (Bokmal)
+PL:pl,Polski (Polska),pl,Poland,pl,Polish
+BR:pt-419,Português (Brasil),br,Brazil,pt-BR,Portuguese (Brazil)
+PT:pt-150,Português (Portugal),pt,Portugal,pt-PT,Portuguese (Portugal)
+RO:ro,Română (România),ro,Romania,ro,Romanian
+SK:sk,Slovenčina (Slovensko),sk,Slovakia,sk,Slovak
+SI:sl,Slovenščina (Slovenija),si,Slovenia,sl,Slovenian
+FI:fi,Suomen kieli (Suomi),fi,Finland,fi,Finnish
+SE:sv,Svenska (Sverige),se,Sweden,sv,Swedish
+VN:vi,Tiếng Việt (Việt Nam),vn,Viet Nam,vi,Vietnamese
+TR:tr,Türkçe (Türkiye),tr,Turkey,tr,Turkish
+GR:el,Ελληνικά (Ελλάδα),gr,Greece,el,Greek
+BG:bg,Български (България),bg,Bulgaria,bg,Bulgarian
+RU:ru,Русский (Россия),ru,Russian Federation,ru,Russian
+UA:ru,Русский (Украина),ua,Ukraine,ru,Russian
+RS:sr,Српски (Србија),cs,Serbia and Montenegro,sr,Serbian
+UA:uk,Українська (Україна),ua,Ukraine,uk,Ukrainian
+IL:he,עברית (ישראל),il,Israel,iw,Hebrew
+AE:ar,العربية (الإمارات العربية المتحدة),ae,United Arab Emirates,ar,Arabic
+SA:ar,العربية (المملكة العربية السعودية),sa,Saudi Arabia,ar,Arabic
+LB:ar,العربية (لبنان),lb,Lebanon,ar,Arabic
+EG:ar,العربية (مصر),eg,Egypt,ar,Arabic
+IN:mr,मराठी (भारत),in,India,mr,Marathi
+IN:hi,हिन्दी (भारत),in,India,hi,Hindi
+BD:bn,বাংলা (বাংলাদেশ),bd,Bangladesh,bn,Bengali
+IN:bn,বাংলা (ভারত),in,India,bn,Bengali
+IN:pa,ਪੰਜਾਬੀ (ਭਾਰਤ),in,India,pa,Punjabi
+IN:gu,ગુજરાતી (ભારત),in,India,gu,Gujarati
+IN:ta,தமிழ் (இந்தியா),in,India,ta,Tamil
+IN:te,తెలుగు (భారతదేశం),in,India,te,Telugu
+IN:ml,മലയാളം (ഇന്ത്യ),in,India,ml,Malayam
+TH:th,ไทย (ไทย),th,Thailand,th,Thai
+CN:zh-Hans,中文 (中国),cn,China,zh-CN,Chinese (Simplified)
+TW:zh-Hant,中文 (台灣),tw,"Taiwan, Province of China",zh-TW,Chinese (Traditional)
+HK:zh-Hant,中文 (香港),hk,Hong Kong,zh-TW,Chinese (Traditional)
+JP:ja,日本語 (日本),jp,Japan,ja,Japanese
+KR:ko,한국어 (대한민국),kr,"Korea, Republic of",ko,Korean
