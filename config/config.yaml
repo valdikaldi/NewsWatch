@@ -1,0 +1,37 @@
+# NewsWatch Configuration
+#
+# This file defines what NewsWatch monitors and how often it notifies you.
+#
+# Each job is one monitoring task. Jobs run independently — each has its own
+# articles.md and state.json inside data/<job-slug>/.
+#
+# Job NAMES MUST be unique.
+
+settings:
+  # How often to email updates. The collector runs daily regardless.
+  #   1  = email every day (when there's something new)
+  #   7  = email once a week
+  #   30 = email once a month
+  interval_days: 7
+
+  # Where to send notifications.
+  email: "test@test.com"
+
+  # Maximum articles kept per job. When exceeded, oldest are dropped.
+  max_articles: 50
+
+
+jobs:
+  - name: "Apple News"
+    query: "Apple Inc"
+    exact_match: true
+    include_site: null       # e.g. "bbc.com" to restrict; null = all sites
+    locale: "US:en"          # ceid from assets/locales.csv
+    time_range: "7d"         # 1h, 1d, 7d, 1m, 1y, or null for no filter
+
+  - name: "Microsoft News"
+    query: "Microsoft"
+    exact_match: false
+    include_site: null
+    locale: "US:en"
+    time_range: "7d"
