@@ -69,3 +69,10 @@ def job_state_path(job_name: str) -> Path:
     # Return the state.json path for a given job
     # ==================================
     return job_data_dir(job_name) / "state.json"
+
+
+def job_articles_json_path(job_name: str) -> Path:
+    # ===============================
+    # Return the articles.json path for a job. Does not create anything.
+    # ===============================
+    return job_data_dir(job_name) / "articles.json"

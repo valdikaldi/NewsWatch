@@ -70,44 +70,94 @@ def save_state(job_name: str, state: AppState) -> None:
 # ============================================================
 
 
-def is_new_article(article: Article, state: AppState) -> bool:
-
+def is_new_article(article: Article, state: AppState, seen_ids: set[str]) -> bool:
     # ============================================================
-    # Decide whether an article should be added to the job's markdown.
-
+    # Decide whether an article should be added to the job's articles.json.
+    #
     # An article is new if:
-    #   1. Its ID is not already in state.seen_ids, AND
+    #   1. Its ID is not in seen_ids, AND
     #   2. It has a valid published date, AND
-    #   3. last_run is None — first run accepts everything with a date
-    #   4. Its published date is after state.last_run
+    #   3. Its published date is after state.last_run
+    #      (or last_run is None — first run accepts everything with a date).
+    #
+    # `seen_ids` is the set of IDs currently in the job's articles.json.
     # ============================================================
-
-
-    # RULE 1 : already in markdown 
-    if article.id in state.seen_ids:
-        return False
 
     
-    # RULE 2 : date is missing or unparseable then  discard  
+    # Rule 1: already in the store
+    if article.id in seen_ids:
+        return False
+
+    # Rule 2: date is missing or unparseable — discard
     if not article.published:
         return False
 
-    # RULE 3 : first run then accept everything with a valid date   
+    # Rule 3: first run — accept everything with a valid date
     if state.last_run is None:
         return True
 
-
-    # RULE 4: only accept articles if they are newer than our last check 
-    try: 
+    # Rule 4: only accept articles newer than our last check
+    try:
         article_dt = datetime.fromisoformat(article.published)
         last_run_dt = datetime.fromisoformat(state.last_run)
-
     except ValueError:
-        # one of the time stamps was malformed, treat as not new 
-
         return False
 
-    return article_dt > last_run_dt 
+    return article_dt > last_run_dt
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# def is_new_article(article: Article, state: AppState) -> bool:
+
+#     # ============================================================
+#     # Decide whether an article should be added to the job's markdown.
+
+#     # An article is new if:
+#     #   1. Its ID is not already in state.seen_ids, AND
+#     #   2. It has a valid published date, AND
+#     #   3. last_run is None — first run accepts everything with a date
+#     #   4. Its published date is after state.last_run
+#     # ============================================================
+
+
+#     # RULE 1 : already in markdown 
+#     if article.id in state.seen_ids:
+#         return False
+
+    
+#     # RULE 2 : date is missing or unparseable then  discard  
+#     if not article.published:
+#         return False
+
+#     # RULE 3 : first run then accept everything with a valid date   
+#     if state.last_run is None:
+#         return True
+
+
+#     # RULE 4: only accept articles if they are newer than our last check 
+#     try: 
+#         article_dt = datetime.fromisoformat(article.published)
+#         last_run_dt = datetime.fromisoformat(state.last_run)
+
+#     except ValueError:
+#         # one of the time stamps was malformed, treat as not new 
+
+#         return False
+
+#     return article_dt > last_run_dt 
         
 
         

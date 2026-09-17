@@ -78,7 +78,20 @@ class Config:
 
 @dataclass
 class AppState:
-    last_run: str | None = None 
-    last_sent: str | None = None 
+
+    # ========================================== 
+    #    The program's memory for a single job.
+
+    # Note: seen article IDs are NOT stored here. They are derived from
+    # articles.json at runtime, which is the single source of truth.
+
+    # Fields:
+    #     last_run:              ISO 8601 UTC timestamp of the last collector run.
+    #     last_sent:             ISO 8601 UTC timestamp of the last email sent.
+    #     new_since_last_send:   True if new articles arrived since the last email.
+    # ========================================== 
+
+    last_run: str | None = None
+    last_sent: str | None = None
     new_since_last_send: bool = False
-    seen_ids: list[str] = field(default_factory=list)
+    # seen_ids: list[str] = field(default_factory=list)
