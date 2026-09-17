@@ -17,7 +17,7 @@ settings:
   # Where to send notifications.
   email: "test@test.com"
 
-  # Maximum articles kept per job. When exceeded, oldest are dropped.
+  # Maximum articles kept per job. When exceeded, oldest are dropped (slider)
   max_articles: 50
 
 

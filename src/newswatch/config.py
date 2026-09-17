@@ -1,43 +1,11 @@
-from dataclasses import dataclass, field
 from pathlib import Path
 
 import yaml
 
+from src.newswatch.models import JobConfig, Config, Settings
 from src.newswatch.paths import CONFIG_FILE
 
 
-@dataclass
-class JobConfig:
-    # ===========================
-    # One monitoring job
-    # ===========================
-
-    name: str
-    query: str
-    exact_match: bool = True
-    include_site: str | None = None
-    locale: str = "US:en"
-    time_range: str | None = "7d"
-
-
-@dataclass
-class Settings:
-    # ===========================
-    # Global settings shared across all jobs 
-    # ===========================
-    
-    interval_days: int = 7
-    email: str = ""
-    max_articles: int = 50
-
-
-@dataclass
-class Config:
-    # ===========================
-    # The full configuration
-    # ===========================
-    settings: Settings
-    jobs: list[JobConfig] = field(default_factory=list)
 
 
 def load_config(path: Path = CONFIG_FILE) -> Config:
@@ -59,7 +27,7 @@ def load_config(path: Path = CONFIG_FILE) -> Config:
     if not isinstance(raw, dict):
         raise ValueError("config.yaml must be a YAML mapping at the top level.")
 
-    # --- Settings ---
+    # ================= Settings =================
     settings_raw = raw.get("settings", {})
     if not settings_raw.get("email"):
         raise ValueError("config.yaml is missing 'settings.email'.")
@@ -76,7 +44,7 @@ def load_config(path: Path = CONFIG_FILE) -> Config:
     if settings.max_articles < 1:
         raise ValueError("settings.max_articles must be at least 1.")
 
-    # --- Jobs ---
+    # ================= Jobs =================
     jobs_raw = raw.get("jobs", [])
     if not jobs_raw:
         raise ValueError("config.yaml must define at least one job.")
