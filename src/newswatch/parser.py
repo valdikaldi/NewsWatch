@@ -39,7 +39,7 @@ def normalize_published(raw:str) -> str:
     # convert To UTC so alll timestamps are directly comparable 
     dt = dt.astimezone(timezone.utc)
 
-    return dt.isoformat() #retuzrn the date time as  ISO 8601 string 
+    return dt.isoformat() #return the date time as  ISO 8601 string 
 
 
 def parse_entry(entry) -> Article:

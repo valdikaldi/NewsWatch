@@ -44,6 +44,16 @@ def job_data_dir(job_name: str) -> Path:
 
 
 
+def ensure_job_dir(job_name: str) -> Path:
+    # ==================================
+    # Create the job's data folder if it doesn't exist. 
+    # Returns the path
+    # ==================================
+
+    path = job_data_dir(job_name)
+    path.mkdir(parents=True, exist_ok=True)
+    return path
+
 
 def job_articles_path(job_name: str) -> Path:
     # ==================================
