@@ -1,8 +1,44 @@
 # NewsWatch — Microsoft News
 
-_Last updated: 2026-09-17T20:33:58.565194+00:00 · 50 articles_
+_Last updated: 2026-09-18T12:18:43.304377+00:00 · 50 articles_
 
 ---
+
+## Microsoft fixes broken copy and paste for Excel 2016 users - BleepingComputer
+
+- **URL:** https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVEk5akRIRlFiY0J3bnRMZjNac2RaazBjVkpVSDk2NzFWNjRVeERtcXlJeWkwWXBxdVZjSEhLdFpsX3hneXhjMjlzVVhKa2tHZ2ZwNmpEb2J6cG90TTJiSHFPcWZmT0JQaFU1Y013aW5lTE55Q1p1d0F5VFE3VzNtMnk3NWhCYUZ3dE1PcHZxOVJBcktxTV9mUnQtVXBXa1oxXzF5Tk90YkRubXfSAbABQVVfeXFMTzNqXzhwc1ktcFpud3ZqNm9GOXByWlgxSHNhY3dkU1NfcFVHNlAyUVdleWhSbnB4cjg3TTFhcDdSRVU0OEE2bDVIQm5vQnljemx2bTZBREcwQjREeTc2TVRvdi1ZSTJTQ3pwSUNtVjZtWWdqNWZrd2E0aGF5Znh2SWN6cFNSRUNJampyUjZTeDN6cjZjV3MwM1JhQnd3Zk84S09hQlM0b05UUDlVQVhxX3M?oc=5
+- **Source:** BleepingComputer
+- **Published:** 2026-09-18T07:35:31+00:00
+
+## Microsoft exec called AI the ‘largest theft of labor’ in history, court records show - The Washington Post
+
+- **URL:** https://news.google.com/rss/articles/CBMiwAFBVV95cUxPUm5JUWVLTF8yTV9JX2c5eFRtVm1PbE42LTg4eEVLTWRSVkctRUZ1M3l1dDZnYWxfSXdheDRmeWl2VVdQU0JSX1VFeXRqM2cxZVE3T0J0dVpkcGlQVGVYUnZCT1puSTgwUVFSbENObzZ3MjRZX01lM0hIVFl1ZjNodlJHYTUwZUE4eTFYSUNUaUNyRHZoNXRNRG4tTTZQc1AzQkVVVkRqU1ZJMU5iQXFfcDlUS05KajBUcVlkaHdtbzI?oc=5
+- **Source:** The Washington Post
+- **Published:** 2026-09-18T04:47:05+00:00
+
+## Microsoft and OpenAI Workers Worry About ‘Largest Theft of Labor’ in History - The New York Times
+
+- **URL:** https://news.google.com/rss/articles/CBMikAFBVV95cUxQdjJISmtEZlhmekd2TjBndTBlcUNSZmR5VjBPaGR1bXRSTU5yZ293Ulk0YUhpdHlHY0hyUTNweTFqSmdMc1JjWVJkQXZ5MmVpdHozLTJQVk5jcVJtN1M1RWc5dFdMZTJrM2hLbnVGemVCX0JtRGRGbEtNZG14cDJtOU5tZmhUa1RlVTlmYXRHMVM?oc=5
+- **Source:** The New York Times
+- **Published:** 2026-09-18T01:12:52+00:00
+
+## Available now: GPT-5.1 in Microsoft Copilot Studio - Microsoft
+
+- **URL:** https://news.google.com/rss/articles/CBMirwFBVV95cUxQbF92eFVNY3JtMGlIMDB4X2p3MDl5Y3ROZWZfZ0RvQk5DT05iMmFOaEZxZ2NVNDNUQlUxWUhBVnQ5NkoxRHBWRVoxYmtFMXNlMzNzNm80SXI2eGlRMm1ERVJzSUQ0X1gzZDlzUXc2eUo3VTVya05wMlhZbEhNbll5SlRFQWhDQ1p3SHRJeFEwbFhjTDBJbDBRRlp4ZURNMjA1bWlHbC1mSEpueFp0Wkpz?oc=5
+- **Source:** Microsoft
+- **Published:** 2026-09-18T01:11:49+00:00
+
+## Six architecture lessons for startups building enterprise AI agents - Microsoft
+
+- **URL:** https://news.google.com/rss/articles/CBMiswFBVV95cUxOd2RIb0JPb0dLMjFNVWJrakozTEVnSTFLOGwwdWlpX193T0QwQ05jY0laazJlMWYtZGxjZElBNF9NX2JaMjlYUHd1SnZVY2kyYS1MQ2RTWWwwYU1aYzQyTFU4QVRiTEVfRGNHYXRFUHJDcEVGWi1GUUgxdXczU0VFQThBdmRqQ3R1UzR0ZHUtUUR6QWNvVEotUFdmd2gtZnNkRUM0dklrb3p5YUFWekVGbVpDQQ?oc=5
+- **Source:** Microsoft
+- **Published:** 2026-09-17T23:34:12+00:00
+
+## OpenAI, Microsoft executives' quotes on AI training threaten copyright defense, news outlets argue - Reuters
+
+- **URL:** https://news.google.com/rss/articles/CBMi0wFBVV95cUxONHczYjIxX2dqTUpmMjBubHYzSTZCTVhBdmhHZDdOY1Zia05tQzhzY3hFc0pWR0czakY2c2ROUnlOZm1TbGNyTFk4UGc5REVTYzJmekFoRnFNS2lPeEhKVDctVkJXaHhldkZJanpqenFwZWtVT3JnQ0JYTmVja2ZKcS1EMTMwS0NpNzdVczhhRUVWLXF5aF9qRXBPVFJXSFljQWdwT0FWUjVBbDQ4YkVOdUNBS1ZtR0YzaXM2YnlYQ3VpQmt2YnVqNEEzejM3bjM0cDZj?oc=5
+- **Source:** Reuters
+- **Published:** 2026-09-17T21:48:26+00:00
 
 ## Inside Track - Building a career in IT with a growth mindset: Kanu Priya’s Microsoft journey - Microsoft
 
@@ -267,39 +303,3 @@ _Last updated: 2026-09-17T20:33:58.565194+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMiowFBVV95cUxQMlZtaGRyZGNzSHVRX2VTTDFIYVRyR1BVcU1OVFNNZUNWbXVfR0Z0VWhDbWNzdml3Yk5PZWwyWE9JWXhQb2J4T29iSFZ0ZWpVSHBnbElndG5zRE9kQkFySGd4aWNNRkpKM0tUY1hncW4xZktJZHQ3VjdvVjNndl9VMVc4S2hTV0ZheGVIbTczNm9wUDF3OFZJLVAzdXFmVVZuS0FB?oc=5
 - **Source:** The Business Journals
 - **Published:** 2026-09-15T22:06:00+00:00
-
-## Protecting customer privacy means standing up for transparency - The Official Microsoft Blog
-
-- **URL:** https://news.google.com/rss/articles/CBMitwFBVV95cUxPZjRhOWpTem8yRWpFdkswdWFhNlhxS0I0bDJDOVcyMEU4a3JrQkhTZWpxeFNiRkdfYUZwMXNBM1JhRTVlNERiZ1VoME0wRmVHVmNVbHpMWU04SC1vRXdMN0hlVmQyeHQzVGNHVExOQ0xOY1dGdTVEZDVteDdHTUpvUG9aX1I0UzNJcXh5SlBLNDJiWE9aZ3EzdmNIVHh1MXVqLVczUVRRTWdCREthczFZdEUwQUoySlk?oc=5
-- **Source:** The Official Microsoft Blog
-- **Published:** 2026-09-15T21:43:46+00:00
-
-## Microsoft announces Windows and Surface event for October 7th - The Verge
-
-- **URL:** https://news.google.com/rss/articles/CBMilwFBVV95cUxPbzN3VXhubjR0WGdpc3FqZGU3b1VIMmhMZC16QjVaS1pWcE1EVW9NNVdOcDBjelVQYVZzazNOYl8yWmRPUE45aVJYYUNoYmNZSXloY1Z6VWhIakR4MmVHc0w0dHJmQmJxYXl2U3Rfc2NQYVB1eXRhdTJaRVpGR3VuaUJzNFctWFBlbWd4ZjJ4bC02aU5Kc2tN?oc=5
-- **Source:** The Verge
-- **Published:** 2026-09-15T20:36:59+00:00
-
-## Microsoft Issues Emergency Fixes After Massive Patch Tuesday - Dark Reading
-
-- **URL:** https://news.google.com/rss/articles/CBMikgFBVV95cUxOMFJwdHVFNGV2ZDllR2VGZW9majRXdFNrQ1VVU3lNOFNHaVBEZlpMb29sUW1ETlJMOUhDSzkzU09tVjVHZHo4SndnQzRsS1dFdDQxYW12NGk2enlOUGhVSTYyV2ZjTTJTeDNGWUFjX1JBbnRKRzBxZGQ0cV85dURndDB6ZE1teVA0bHFWNTA5cENuUQ?oc=5
-- **Source:** Dark Reading
-- **Published:** 2026-09-15T20:29:54+00:00
-
-## Microsoft Reacts To Xbox Game Pass Rumor That Could Change The Service In A Big Way - GameSpot
-
-- **URL:** https://news.google.com/rss/articles/CBMiugFBVV95cUxNVHZpNGVvOU8tRVZYeGdOOG43WHhOTTRoSFBzLWs5eXJYZ0tKY0E0TlNveUJaUjJfbmtwRWdDRlluVkVKUzVJV2QxZXFLbjdQN2NSeldEU0c4T0lFTkNMSW4wekpXR2l6enpKTVVQaGp5TW9PTFljU1JuV1paamZjTFFMSDEtM1dxdWtzWUZCNWFXQi1FMmlqZ3B3bWJkdEJUbkFQQk9qOG9meVZNMWpUTEZGTXdEdVhsY3c?oc=5
-- **Source:** GameSpot
-- **Published:** 2026-09-15T19:46:50+00:00
-
-## Microsoft Flight Simulator Announces A Marketplace Exclusive: The Airbus A380 - Microsoft Flight Simulator
-
-- **URL:** https://news.google.com/rss/articles/CBMicEFVX3lxTE5lQkhrU0h3ZU1Bb1Rab01YMHh2WjVVbWtPeW80ejlzNzZXdzlSREF1Rk9pVEowUVVKU3VidDFDSklCc0hrXzN2ZjczSEdNRGhuMktacThEWlNDMnNtTDFoQUVwZzd6MUJMNjFTOGh5WTc?oc=5
-- **Source:** Microsoft Flight Simulator
-- **Published:** 2026-09-15T17:07:34+00:00
-
-## Microsoft to pay record $2.5M penalty for violating data center emissions permit in Leesburg - Loudoun Times-Mirror
-
-- **URL:** https://news.google.com/rss/articles/CBMilgJBVV95cUxQcjV4ZGR5TFJxT2lxY2RrMTRqcHEyUXE0Mm44N3p2a19BTGZFLVNvMEpMb0h0bDVtMEhsUHhOVFh1b3NLeUZCRjRRMnJ1NTM5Y3piNFo3c1cyd25OZGpvRFBrNzlkSjVzcHU1OExyeVplRDdybkNraUg5RHdhd2xfZ3RfZ1ZWT0xRUWstaFA0RWtkNUtZSnZGcXdrTDMtcW54Rk5OYkxOM1JFdm9wdU16TjJLcE81ZVYyWFVzVlZ2REF6bHltN25UWXN1OHhvZHFaS3hIdE9TcjhSOWhUTDNBZ1ZfZnIxY0s2U1pwNzByWlhWazRPOHlKck42TVQ4MkY5emtESURSZm9INTdjbVBQOTJ2WXVKQQ?oc=5
-- **Source:** Loudoun Times-Mirror
-- **Published:** 2026-09-15T17:00:00+00:00

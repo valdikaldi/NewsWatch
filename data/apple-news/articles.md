@@ -1,8 +1,38 @@
 # NewsWatch — Apple News
 
-_Last updated: 2026-09-17T20:33:55.570926+00:00 · 50 articles_
+_Last updated: 2026-09-18T12:18:40.514575+00:00 · 50 articles_
 
 ---
+
+## Key facts: Apple Inc. $109.4B rev; A20 Pro tops PCs; iPhone Duo - TradingView
+
+- **URL:** https://news.google.com/rss/articles/CBMivAFBVV95cUxNN1FrM1lLR0lvVGpXUjZSSnpjcDk0ajAxTVFKUk5Wb3Z6dEpRcWVSWEJTWk94ZFJwYjFheExCNlVITi0tTWg2WDlENnNBQzY0cjJkNVFPaFR1RVl0QWNvRnBkZzA2dHNHSVo1QmhUT2J0VlBTTFBPUGlINnhldmpxNENhOHIxbk1kVkhTQ1padE1JVHd5aUIydTJiUHVCaEpzNkpNdDZCbnZmWE5LMTM4RTNmMGtzMktkR21faQ?oc=5
+- **Source:** TradingView
+- **Published:** 2026-09-18T07:15:07+00:00
+
+## Apple Inc. : UBS remains Neutral - marketscreener.com
+
+- **URL:** https://news.google.com/rss/articles/CBMiigFBVV95cUxNa0dxV3Zza05xVVFJNnVNWEI3WGJRVHMtMXdjVFN5QTA0ME45STROVzRyUWxxNEEweTFQbmtOb0IyMjRaLTBWenNOR2N4Rkhid3M5ODczRzBhNHR6eXJ1TDdkbzdlUDkwcjgtNEV1T3ZNMWc1cE5qdlZETGc1bU5wV0JvYk9Lckd1NEE?oc=5
+- **Source:** marketscreener.com
+- **Published:** 2026-09-18T07:14:27+00:00
+
+## SpaceXAI, Apple Must Show Texas Judge Antitrust Deal Terms - Law360
+
+- **URL:** https://news.google.com/rss/articles/CBMiVkFVX3lxTE9wV0IwQTE2WUJ2ZlZXd1ZQcnIxNFI1RUo4aFdWRTdfZ2p6ZElPbVkwelMtV291LXBRdHVxci1IdFZKWnFOSnRkUTRyQ3g5cWVEMzBlWS1B0gFWQVVfeXFMT3BXQjBBMTZZQnZmVld3VlBycjE0UjVFSjhoV1ZFN19nanpkSU9tWTB6Uy1Xb3UtcFF0dXFyLUh0VkpacU5KdGRRNHJDeDlxZUQzMGVZLUE?oc=5
+- **Source:** Law360
+- **Published:** 2026-09-18T00:42:00+00:00
+
+## Apple (NASDAQ: AAPL) exec’s stock sale comes with 180K units still to vest - Stock Titan
+
+- **URL:** https://news.google.com/rss/articles/CBMipgFBVV95cUxQNmhQZGJTS0ZjNDVENGI5UjRRUkZYeXhwbFBJcWdkdDZfb2xWUTBlZEJBSllGOHBoc0NzZnlhbm5LdkhCajB4MUNJVWNSZTU5Z2R6d1VBajBvbmN3ZjJlZ3NWa1BoUVBYQzZkS3BjSDZuZGcyaTBIYm95ZXBXeE5SaXEyeUQ1d2VDWjI4VHV6NkxQMUlRRmpZNkk4VmpsNlJmcXJxbER3?oc=5
+- **Source:** Stock Titan
+- **Published:** 2026-09-17T22:31:03+00:00
+
+## Apple's Quality Is Tempting, But I'm Put Off By The Valuation (NASDAQ:AAPL) - Seeking Alpha
+
+- **URL:** https://news.google.com/rss/articles/CBMingFBVV95cUxPdXl3SUU1ZFdnbVhnVGswVDB4WWthQ2xuY0tFWTlDM0p3cEhRdC1ucU5SaVo3ZHVVdUNtZFJBSUxXY18taWNiZnFiWHFKLTJtMjBXSmhEbFNXY2o3NjdNd1lqYUdZWV9XZ0JCejdKd0M0ZDNGaFdCNkI1bGhUQ3o3ZEpKbUt2SXNVaXczbHNyTWlqYmdPSC04MURabGQ0Zw?oc=5
+- **Source:** Seeking Alpha
+- **Published:** 2026-09-17T22:05:33+00:00
 
 ## Apple's iPhone 18 lineup keeps Bank of America bullish - Proactive financial news
 
@@ -273,33 +303,3 @@ _Last updated: 2026-09-17T20:33:55.570926+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMioAFBVV95cUxQNXU0VExFNk5yUnlwMmtsdnFQMHBGZENsWThLSDFZelJyUXZuVVJTMTZEb1JocGh5MGtXc1Ftb0ZUc3k3SEJTMWtnSnNXY1Btb2FlMmg4Y194T25JOWs5bWpIMGhLY1Z4b082bXB0VVR4SFRVV05JOFhOWGZLX0xCTklxeGw0RnNWWVZrV3J6WFVaTnVQbXV6WGY4QTA4b3ZL?oc=5
 - **Source:** tradingview.com
 - **Published:** 2026-09-15T14:18:52+00:00
-
-## Apple: The New iPhone Cycle Cannot Justify This Valuation - Seeking Alpha
-
-- **URL:** https://news.google.com/rss/articles/CBMingFBVV95cUxOWEJqZkRHV3J2UGIwSWpYc242LXZ6SGVVb1Q1TEttVDktanNacVpKRmtRc1E5WEYtbTRwTzdPMUhvTHhqQ19TWFQzanZSY3hmSE5aZVczU0IyQkJEUC1BczZHaWNZQjMwNWlnc1oyY3hlUTVNQ1RmQlB4eTFzYVRhV3JYdnhNTHBUZEZ4NWl0TUlCMzlsaDZkSlJzYmVOZw?oc=5
-- **Source:** Seeking Alpha
-- **Published:** 2026-09-15T13:36:44+00:00
-
-## Indian consumer regulator escalates probe into Apple's software warranty terms: report (AAPL:NASDAQ) - Seeking Alpha
-
-- **URL:** https://news.google.com/rss/articles/CBMivwFBVV95cUxPTlhaT0R0c0hCWE01dHdjZGk3cGN0d3pOVjJXWnVLeWNhU3RFblYydkpUaHVwMmRBaDZ6dUxscDRCTkdvUGxFdGJ2Y1Q4RC1Qcm42eHctNnFGNmQ3VW11cFpWUDB4Z2FCdWREcWxRQUVqWHc0NWtHVEZ5YTRkVTYyZnRuWVFXcng1R0NTZ2E0X1RWaW5HRlBqU3hRek5YMUR2SGpOLW9jRW5pOUo3VGFOeVltYmVPQjBzZVJMbnVDRQ?oc=5
-- **Source:** Seeking Alpha
-- **Published:** 2026-09-15T09:58:57+00:00
-
-## Amazon (NASDAQ: AMZN) Sets $60 Billion Ceiling With Qualcomm (NASDAQ: QCOM) As Apple (NASDAQ: AAPL) Cuts Modem Ties - foreignpolicyjournal.com
-
-- **URL:** https://news.google.com/rss/articles/CBMi6gFBVV95cUxNTXRhOEo0WXd0MWotbTNDbURkOThDRnB1N0xMVlVLY3ZQYmVOaHY3bkRJWGF6Tm92T3dMV3d2VFZhekw1RTBTX3Y5UUc0NVRiN29tWTdEQXdzOElTWndjaTlYTVhLdmt5QkZTZGVLTFIzZE02Ui16cEJTRlp3V2J1dHk5WC1NUjVPcDZxQTVNUjkwV0pLZjd6ZC1pT2RCQjR3QXAzRDNjdUZMV2ZVQURDTVFja2F0cUNndnRKTDVSX2RzRXQ2U3ZhckZqenB3cFBXXzFWM3VSNDdBYkJqSzFRTVhrSlFuQUh0cUE?oc=5
-- **Source:** foreignpolicyjournal.com
-- **Published:** 2026-09-15T09:37:00+00:00
-
-## Apple Gives Siri AI Makeover With iOS 27, Caps Usage; Gene Munster Flags 'Way to Long, 5-15 Seconds' Response Time - tradingview.com
-
-- **URL:** https://news.google.com/rss/articles/CBMi_AFBVV95cUxOYjJLNlhvSGJLU21PMHRQcTF6NkJUcXBNdHF1Zk5ZWnY0YU1WU0o5aXBEUGc5amk1d1Q4RXRISjV6VmZaVEFCZUwzS2xtSXktN2JOd0E5Y0dSNjR0TWJZSkZPYmxSVnJMWjcxN3NoT1czOElZOUY4NFhxdEo5MnJMSFNYelQ4OWZVb1ZKQkd6WmZNYVZVLXQwcDRnTjJTTzI0SkxWTE0tck1zcmRWaDVKaVpySWhUVE84OGlLVUtoQlpXSFhpMEVoQW1nWnMtNlY4Si1FeUtkdGFrb09PemI4TGdGYzM4ZWhQMWV1VmY1ZGNrcGlaTzVZcThMdm8?oc=5
-- **Source:** tradingview.com
-- **Published:** 2026-09-15T09:27:40+00:00
-
-## Apple’s Supreme Court brief argues the Epic injunction never covered commissions - The Mac Observer
-
-- **URL:** https://news.google.com/rss/articles/CBMiowFBVV95cUxQQU1JZmdGMmNibXQ2ZG9JdE4weHpycmxWZDNYaG02cUVfU1pIcDd5R092cnBCcXZyZWQ1YmpvX1h4b3Q0QUdlMXdaYzJBalo5b3huYkEwZFNZOXZ4NWZ5bm5FU2JJMVNJVUY2ZGZSbHhaLUxfTzJ4U0kyVUhVQ09fSnJXTElTQzU0bWlFUXBQOGtxdndOSnVqd0d3UVhhM1pHejQw?oc=5
-- **Source:** The Mac Observer
-- **Published:** 2026-09-15T05:55:40+00:00

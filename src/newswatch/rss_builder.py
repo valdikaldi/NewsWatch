@@ -27,7 +27,7 @@ LOCALES = load_locales()
 
 
 
-def build_feed_url(query:str, exact_match: bool = True, include_site: str | None = None, locale:str = "US:en", time_range: str | None = "7d",) -> str:
+def build_feed_url(query:str, exact_match: bool = True, include_site: str | None = None, locale:str = "US:en", time_range: str | None = "1d",) -> str:
     # =========================================================
     # Build a google news rss search url for a given query 
     # =========================================================
