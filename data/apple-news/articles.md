@@ -1,8 +1,176 @@
 # NewsWatch — Apple News
 
-_Last updated: 2026-09-18T12:18:40.514575+00:00 · 50 articles_
+_Last updated: 2026-09-19T15:01:22.180679+00:00 · 50 articles_
 
 ---
+
+## Consumer Tech News (Sep 14-Sep 18): DOE Backs Quantum Computer With Self-Correcting Errors, OpenAI Faces - Benzinga
+
+- **URL:** https://news.google.com/rss/articles/CBMiiwJBVV95cUxQeWFwVG1tTW9Gem9KTjZzYk9fQ094bXNCLUhoanUzUXhyeEd5aUtUTEJ2QzZqMnoyV1dQdnJLeXRaSVJTdFA5VWwzMWRRNjRZLXEwZlYtZkV0cFhwN3FINlJIMVVMbW9qSmRZR3l3dmJfejhMSzgtelZib0huZFBDUWRxdWZJTHdaZVRMR1VVVEJmR3BlV2hZb0xUbDRfX2dPMmtES1o0b3g3OUtPTVlIeFRKd2lzc3NiNmd5a1U2LXhuOWJrTEhTY2l3YUQ1bTVmR0pCdjF1UTRYTENQelo5MFo1V2FzMjNhajdrOVZvVHptVjFHaTlVTlZrVF9QaFg4UnI3YjVVUS1jc1E?oc=5
+- **Source:** Benzinga
+- **Published:** 2026-09-19T13:11:13+00:00
+
+## Intel, Apple, Nvidia and More: 5 Stocks Investors Couldn't Stop Buzzing About This Week - Benzinga
+
+- **URL:** https://news.google.com/rss/articles/CBMi1wFBVV95cUxNV2V6UENZZXNsLUcxdGVERmlzSGtoa2pIM0otZ01zZTRFM2dJUmNQamh3NEcxVEtLVDRsMmhNTXI2bGZ5Wkk5cThxN1p5Y0dyZ0QzQlByX2dvWWZkQVR3MXBNakVDOHZBdlczY29XYnhBN3hxLUxpLXVXN3Y3b19kWGw4cm1IYVJETlNIR0hDUlFuTjdCTjVsVDI1NWZnQ1BvR1dSMExENEktWHZMeVdLRDU5S2ZvNk5nb1FuZ1B1Z01pbkRnS2gtNm9lZFRKeGpZUEttV1J3NA?oc=5
+- **Source:** Benzinga
+- **Published:** 2026-09-19T12:30:24+00:00
+
+## Apple stock gains on a $380 target raise - AD HOC NEWS
+
+- **URL:** https://news.google.com/rss/articles/CBMipAFBVV95cUxPODlnQVlDZzNKS196alE2MGdaVUFlT3BSTGIxUnZzaEpITjhDWkliRzNnX1JFWmpGOGptWGNfQzl4aExYcEplZlJHNVNJRVE0YmZyV00yUUo5aVRJd3RwcWNkLTRERmw0N3hhMDlPN0pUcWxJanhzdDNwZlNpbDdLTkU2N1ZmaGZwdkY5dTF2VXJnc0ZJU1hOdi0wMnFJTWFZMENTZg?oc=5
+- **Source:** AD HOC NEWS
+- **Published:** 2026-09-19T09:44:52+00:00
+
+## Albanese begins internet safety, Security Council push in the United States - SBS
+
+- **URL:** https://news.google.com/rss/articles/CBMimAFBVV95cUxPb3VZZEtsb3NFUlVIckdfU2JCQVdvaWgxTEJFMFJkS05CX1Zxdi1xblRTYXhYQkQwQUhScUxJMlJuTVNSR1pyU0FkeUV5aUhOQUpYQnJhd21UWGE4RzRBWU1Va25id1hEdVhCUnMxRjM2cGF2OG5LMFpnX1BuY1BVaVJERFJ3QjQ0YVdkelNORzBvVGpWXzFvMQ?oc=5
+- **Source:** SBS
+- **Published:** 2026-09-19T03:29:14+00:00
+
+## Musk's Companies Drop Apple Antitrust Claims, but OpenAI Fight Goes On - International Business Times, Singapore Edition
+
+- **URL:** https://news.google.com/rss/articles/CBMilAFBVV95cUxPZHViM09JcThOeGtBRHB5QVF0UFIwR0VKVHRpM0pWRkpkQ2RxTFkxNW1kejlrNEpHUTk3Sy1wVU1qUWpoWmM1NlJWaHM4clp0M0tBU3RCaWI0NXgtT0hFcVd3eURyRlNqblVtWFRzazhiTnExdzV4NEp5M3ZfLXNGNWRIVlRlRnVFSmlqUzFDNFZfQzIw?oc=5
+- **Source:** International Business Times, Singapore Edition
+- **Published:** 2026-09-19T03:20:01+00:00
+
+## Apple Foldable iPhone Gets Wall Street's Nod, But Retail Balks At The Price - Stocktwits
+
+- **URL:** https://news.google.com/rss/articles/CBMihgJBVV95cUxNYWdLX3NvSFdjazJfUjdIakVEOFFmN09VV21kdlpNaUF4WkY4Ql9BNlE1dG40MWVwNGR3WnA1blFrR2Z2di1pU29reHNrejFJcEdDd3ktNDZvbnI3UmM5VXFiRGpDN1piOW00MGVOOXdzSUhlZzRCa1kwSWFtMXc5S3hadzJIcm4xYjhObjdlLWI1TFFSVHJHWXZBMmJfOUszX09hMWpJZzNCbzVSOEVPVE9UdUY1cVdoaEdhSjNJQXBNTll0Rk45MXJIQWRiRmZuS3B4emRLVEc1clBJbWljT1NQS3JHaS15NThJWGRmNnhSMmExYW5sTFZoRjFNNVBRUFI3MnNn?oc=5
+- **Source:** Stocktwits
+- **Published:** 2026-09-19T01:46:48+00:00
+
+## Kraken Seeks US Launch for Single-Stock Perpetual Futures Trading - CryptoRank
+
+- **URL:** https://news.google.com/rss/articles/CBMimwFBVV95cUxNcjdFdmxVOV9TQmVjVEZUODl4bXlPTkxNRi1aZ3EwNnZIRW9xTWI0TTlkT2VIa1FWSUJ4aEtxQ1RFb3RzekFLMEZDbEpoalZ1S2gyY0hCT0dWVXJTUHF2elFfdC1GSlZVQkhUOUU3a2VyeENjd2hRN25LajRISl94MXNpSU82aGFVTDRBaGJJdEN1Xy1Za0E5emszdw?oc=5
+- **Source:** CryptoRank
+- **Published:** 2026-09-19T00:11:18+00:00
+
+## Apple Says Ex-Worker Took 33 Files, Wiped Mac For OpenAI - law360.com
+
+- **URL:** https://news.google.com/rss/articles/CBMitwFBVV95cUxOc2doMG53NHhuMTBrZlNnVHIyeHUwU09WMGtiVWJlcDgzaUZZSGFLMVdnWnJ4YjdHckh3X1RvN0ZzbGVlV3B2YWgwR0ZsRmdES05KNWNHM3FJcUhETWFlWThrbzA3YlhfRk9WcWdWNkd5MmFZaWdYM2plczJMTnRYN3QzdlBRa2dxbzFhM2pJUlBWT205bFhoYnJiM2luNXVjdHVHZFY4dGJHVm1yR19NaFFQZ3FkOGfSAXJBVV95cUxQRmRET3gtTFh6WHJXMG8wdGlmRzZ2amxEbFZweGg3SGZEV1VveFZIV3M1UlZQNW11Q3JOR2JMNzN5SDRJOVdqQ25MNjYxcUp6ZGlWdHo2TnIwalZmSlhBdWhYWDVIamJRRlpjcHUxakxxUHc?oc=5
+- **Source:** law360.com
+- **Published:** 2026-09-18T23:19:00+00:00
+
+## Pacific Wealth Management Invests $625,000 in Apple Inc. $AAPL - InsuranceNewsNet
+
+- **URL:** https://news.google.com/rss/articles/CBMinAFBVV95cUxNYjZmdmVIWmZPTEVjMlNfZUYzRTFMR2xBVFdXN0FER0dfSTdDa2VPQ0lLNXlsYXIyR01oTmw0MXBYVGRlTGRqRmlGWkJNNzRvWnVMMlNzNUoza2FYd2RQMkZXODlYU1Z4R19YU3JGdkZxTzhJd3RDOHJ6ZDR3NlkxWFdzc1Z3MEEyRThUMGN4WjljS042dEl3UjBQTHc?oc=5
+- **Source:** InsuranceNewsNet
+- **Published:** 2026-09-18T22:20:52+00:00
+
+## OpenAI Can't See SpaceXAI, Apple Antitrust Settlement Terms - law360.com
+
+- **URL:** https://news.google.com/rss/articles/CBMiVkFVX3lxTFByMWJNN0ZVQU1kMUp5NWp2a0tkUzJrV29obHo2cS05ZnZnVkJXdHlvU1BkVTFZWV9CVXNBcWxVVWxrNXNwbWhGT0FYcE1EbG9GelFRamFB0gFWQVVfeXFMUHIxYk03RlVBTWQxSnk1anZrS2RTMmtXb2hsejZxLTlmdmdWQld0eW9TUGRVMVlZX0JVc0FxbFVVbGs1c3BtaEZPQVhwTURsb0Z6UVFqYUE?oc=5
+- **Source:** law360.com
+- **Published:** 2026-09-18T21:56:00+00:00
+
+## Is Apple Inc. (NASDAQ:AAPL) Entering A New Bluechip Stocks Test? - Kalkine Media
+
+- **URL:** https://news.google.com/rss/articles/CBMipgFBVV95cUxPaVUydTBHd2hSQkM0ZGZnd0U5dDRqaTRaYWhxNVpRcVpmZXgyOVpvd3IwRFpxRl95N1hYWG1kam01azJrYjBrMkcyUVZzZVAtTEtXS0Yyc29DeDlHVDBlQkZUSEtyNW1JQnNtNmxaUzI5dUVsT1FYXzVjdGZJVHFtM3RQaG92TGVIX0FRcnZZV0lOb1ppeU55SjlmYWJCRUJsTEQzeXdn?oc=5
+- **Source:** Kalkine Media
+- **Published:** 2026-09-18T21:29:00+00:00
+
+## Dynamic Island gets smaller as iPhone 18 Pro moves its infrared Face ID camera under the display - AppleMagazine - AppleMagazine
+
+- **URL:** https://news.google.com/rss/articles/CBMid0FVX3lxTFBkNG5pUnlrZXVRRDdMWTlZd21tVFh0YzI5OGplclFBSTZIcWJaZnZINjhpUXlEQ0hJS3N6OXZfV1BfeXRQMW9TT3plRkEwenRCVm5sRmtFaUdtRzFUbHphRk4wYTlIb2J3eHJoR3NLNlZMZ3QzN25F0gF3QVVfeXFMUGQ0bmlSeWtldVFEN0xZOVl3bW1UWHRjMjk4amVyUUFJNkhxYlpmdkg2OGlReURDSElLc3o5dl9XUF95dFAxb1NPemVGQTB6dEJWbmxGa0VpR21HMVRsemFGTjBhOUhvYnd4cmhHc0s2VkxndDM3bkU?oc=5
+- **Source:** AppleMagazine
+- **Published:** 2026-09-18T21:03:04+00:00
+
+## Congressman Ditches Magnificent Seven Stocks for Consumer Staples: Here's What He Bought - Benzinga
+
+- **URL:** https://news.google.com/rss/articles/CBMi1wFBVV95cUxNMHl4VnVVUXczNk1tMWNhU29IME81cERHRTJHeXpZcWhaeGl6U3lqME5oRTJyRFY4eW1nUWduR2VyQXZqWmlQN0lXNVdydmd5ZTVlNl8tbm9MWjEwQS1jbkRGREdMWFpPQ3JHMWR1cFIwYWJXcGk5MjJiOWZWQWNyazd2WFVsSjJYODYwSGkwaVJuWF9ycjdqNFBsZFlFbGlGX1VaQzAwcERqcm9XVFNZWS1YQTE5RUtfLTUxdVZXQVVxak9zTmliZ2QzaUVYbEFyX1J3Q3NBTQ?oc=5
+- **Source:** Benzinga
+- **Published:** 2026-09-18T20:12:53+00:00
+
+## Apple's iPhone 18 goes on sale as customers line up at stores worldwide - Fox Business
+
+- **URL:** https://news.google.com/rss/articles/CBMiogFBVV95cUxPeEdRbG9FbEhxZnBfTzVLclhGNlo3Q0JmNG5MRlZ1V1ZlQnZqenpnc1BUWng3aFNhY0I3b3N5bmRSbFExU3gxVVYzYjlmWWNlejBUVVQ0OUNNT1lFWmc5ODJsRDF6UnQxRHhIMzVCcl9PZGktSmdJYlcwZ1BkRHQxWnhHdEdrQjRvVDA2X05YaDJCNGNoZGlTN0RORTFuNFlyREHSAacBQVVfeXFMTVNaMG5ZNTQwb2lsLWx4WUViSTd6NTZaMlhZbDNNbEJZeFQ0SHhmVUZEcEJBRk5lQlc2OE4yZ1VSR0F4NWJ5eHNlNTdOVVNrbHNOckEyRTZXT0lEOU9CeUdId0xOMWpMcVUtTFNBNy1WRFJHRDlyWHRaZ0p2X0lKZE0zTGNFaTkxWV9DNUxfWFd1MFJZTkhSN2tJY0U2WnhQVVVQdFcxaHc?oc=5
+- **Source:** Fox Business
+- **Published:** 2026-09-18T18:50:00+00:00
+
+## Apple iPhone 18 Pre-Orders Show Muted Wait Times In Key Markets - pc-tablet.com
+
+- **URL:** https://news.google.com/rss/articles/CBMimAFBVV95cUxOMm0xOU40NS1kMnNmY1RiaDlkamdtZGpXWjg1anh1OG13ampfZERLSTJxSTJQSy1YQVhaUUhzT1MyUmhmVEV3NVJNOFhZdEh4SnVtUHFCcHVvQnZ4ZEsxYzRoZ2tMdjRLdEQwVEVHVmZ0TEw5V0dxV1ZzcTRCdW1GdUlkSXRlSV9oMjJuNGJad3U5alNvZzg4eA?oc=5
+- **Source:** pc-tablet.com
+- **Published:** 2026-09-18T18:25:31+00:00
+
+## Apple Raised Stakes with its $2000-Priced Foldable. But Can it Be the New Growth Engine? - Yahoo Finance
+
+- **URL:** https://news.google.com/rss/articles/CBMilwFBVV95cUxNVGFFdWRIOFphZXhScEdNN2dCSGtuY1d0QUMtVldfTmFmU2pzTklDZ1Etdko2WV9reXAwaUtEZkpfRmNsYWdCRUIzZnlweGhmN1hPNnlVLVBaYzR1ampkSFp0ZTVnZkR2T19DLWRmSHBrZWswbzdyVzJDY25WR0F5anhhV3hwQnpJRnY5eU4zMDVwVDJjdkJR?oc=5
+- **Source:** Yahoo Finance
+- **Published:** 2026-09-18T18:11:54+00:00
+
+## AirPods Too Quiet? How to Tell Dirt From an iPhone Setting - AppleMagazine - AppleMagazine
+
+- **URL:** https://news.google.com/rss/articles/CBMieEFVX3lxTE5sbHJnLTlZNF9UejBDVmpydVlNaTRsQ3ZuZmVZZHFxbnVsbXFydmRueDFnQXV6TkYza2swUlJhR21qQ0JHc0dwcDZPZUE1M1loS3V5QjZuTURkRFFjdmZSVVhGYTh2ZTBCNDJ5X1M3WjllVFJOQ0VPR9IBeEFVX3lxTE5sbHJnLTlZNF9UejBDVmpydVlNaTRsQ3ZuZmVZZHFxbnVsbXFydmRueDFnQXV6TkYza2swUlJhR21qQ0JHc0dwcDZPZUE1M1loS3V5QjZuTURkRFFjdmZSVVhGYTh2ZTBCNDJ5X1M3WjllVFJOQ0VPRw?oc=5
+- **Source:** AppleMagazine
+- **Published:** 2026-09-18T17:48:14+00:00
+
+## Day 1 sales of iPhone 18 Pro 15-28% higher than 17 Pro, shows data - Business Standard
+
+- **URL:** https://news.google.com/rss/articles/CBMi0wFBVV95cUxNVG5CRXk4VTVvRm9uTi1sM0FJc1UxbGt4ajN3OFJoQVZSWHNVTDhuQjRrY1FRbDVjakVBN1YzRHJ5RnFfTEM3UXFpMi14VGlrcnVNQTlJelFsV2xjbWtpSlhfNVh2RFdqWjlRTE9hdjNsZlNjajA5eDg3c3hvVERqWkx5Si1LVkRITDlDRU9wX0x0X0xMNHlqdEQxRTFUeU1PTlJYOW1qR2ZMRVN4VmdLMkJGdVVrR0I5RFViTURsb2FyNWFVcjQxcHlEc2VBZ19ueGZz0gHTAUFVX3lxTE1UbkJFeThVNW9Gb25OLWwzQUlzVTFsa3hqM3c4UmhBVlJYc1VMOG5CNGtjUVFsNWNqRUE3VjNEcnlGcV9MQzdRcWkyLXhUaWtydU1BOUl6UWxXbGNta2lKWF81WHZEV2paOVFMT2F2M2xmU2NqMDl4ODdzeG9URGpaTHlKLUtWREhMOUNFT3BfTHRfTEw0eWp0RDFFMVR5TU9OUlg5bWpHZkxFU3hWZ0syQkZ1VWtHQjlEVWJNRGxvYXI1YVVyNDFweURzZUFnX254ZnM?oc=5
+- **Source:** Business Standard
+- **Published:** 2026-09-18T17:46:55+00:00
+
+## Apple Insider Jennifer Newstead Executes Multiple Transactions Including Sale of 1,438 Shares - Kalkine Media
+
+- **URL:** https://news.google.com/rss/articles/CBMi1gFBVV95cUxNZENsQlBNMUJiVkRMRkNtTThXT2FVV0FfZHZuSU5ZNG4tZ0FFREZSZ3RvRWg0Sy1jTUowcjN0UDV1MWZUdTJNOWQ1RUpQUFRUUjR6bHlQcWhHU2ZRRTl0cVhsTlJOaXUyckl4NmdIcWpPd0FueEl6eXFvaUFLaGdXdm9EOXl4ckxSWjVLSUdKUG13Ti0wWEtCLUdGWlJ1M3pGWDBkYTV3Z3VOenpNZWxpRWp5aEdLWFhjWjZ2UDhkZS1zUGpqZ3ZyOG1jUjlEcU1FVlhNNEp3?oc=5
+- **Source:** Kalkine Media
+- **Published:** 2026-09-18T17:40:00+00:00
+
+## US judge denies OpenAI bid to review X Corp’s settlement with Apple - reuters.com
+
+- **URL:** https://news.google.com/rss/articles/CBMitwFBVV95cUxNNkJWS0R0SnJfTDFlYl9PZGhfeXRZb3NoR3BKaDhoaTNhUkxyTFBXYzhfRjcwWWVTTTllSDdRczM1czNreUxLWVhfMVZpWEVSZXdHMktuQmlTeTZrbXIzUklhcVdob3lNTGIxRnJsWXJUXzE2ZXJkOUhZZERyS2otVWRtc1hRdTdUcVJ4bmYxYnVWX3A4elp6N2Q5bXdPcGp1N2pBRkVoVGJibEtadmJTWF9ia3hmVXM?oc=5
+- **Source:** reuters.com
+- **Published:** 2026-09-18T17:29:43+00:00
+
+## Apple TV's Emmy Sweep Adds Momentum to AAPL's Services Business - The Globe and Mail
+
+- **URL:** https://news.google.com/rss/articles/CBMi3wFBVV95cUxPcWhWNjhGTHQ3YkNmSWVoS2hDUUEzTV80aXlvQk5zUTNVVDRIZnFRUWpQN1dMSHRvX0FxQ3QxSURZdTh0bmtZY0pSMnltMXNjZVJfRC01VmJpNWhiSjJobWM3Mk9aVmlJZ0JybkJ2TWNUVGo0OHhQQ3BTMENhV1EtVm43NFFheVlCVVNtNTVKODExbkNOUjFzcGZQNkpsRktuNnVJUVRObUFSZ0RxUlVlZ1FXcXJSSE9BcTl1RlpnUERHYS02MUtmdnNiNlRzQlVmR0RwbzlRY3NkaWZVM3ln?oc=5
+- **Source:** The Globe and Mail
+- **Published:** 2026-09-18T17:24:32+00:00
+
+## Brothers premiere reunites Matthew McConaughey and Woody Harrelson ahead of Apple TV debut - AppleMagazine - AppleMagazine
+
+- **URL:** https://news.google.com/rss/articles/CBMigAFBVV95cUxPUWVxZGhHWkQ2UTV1ZWV5bjhvekdFaXltT2FMS3dRWkRZbFpSNm50TXNkX1JUYTBjVV9jNTg1ZG9ObUtUOHpWSTFSQ01LdGZLRVVvWWphR251TC1pY1FIcEhHekllNjZMNVJuekpGYlRfWWxOa2Q3ckVPa1dMVjlMYdIBhgFBVV95cUxPTzJ3ZXF0ejJHY1Z0SnlSRF94bFVsa2tRVEhrb3Zib19EUGM4WmpNdmFWVWd4ZXFpVmtiUHA1VWYwc1JMRHZxMFo5QTQ5REVpaEtNOExueklLam5UVm51ejJvNkV6NmlJTl83TXBJOS1YV21lWWNpaWhPR3A4N19vSnNoa3Y5Zw?oc=5
+- **Source:** AppleMagazine
+- **Published:** 2026-09-18T17:17:54+00:00
+
+## Warren Buffett's road to investing glory - reuters.com
+
+- **URL:** https://news.google.com/rss/articles/CBMilwFBVV95cUxNbFRWMFI1VzlpT1o1ai1nYlFkc2JmZ2t1TVZpMjl4aTN5TjZKalZpWklfYi11eUNkR01oM3lqV3MxS2x4TVFLVk5ERG5qS1hEaUNFUGtHQXVtY0dwY3R1bUtRaUJ1czd5MlVQRFI3TGtmN0ZrdERtSmtPbWRxN3dWeDQ2WlJqZl9xQ3N1TWh5RHZUN2VzZWJN?oc=5
+- **Source:** reuters.com
+- **Published:** 2026-09-18T16:56:55+00:00
+
+## Over half of Apple users plan to upgrade to iPhone 18: survey - Seeking Alpha
+
+- **URL:** https://news.google.com/rss/articles/CBMinwFBVV95cUxNN1J5Z205a0xvZzktaGtpMThINnRkVlBHMjRFdlZtSm5iRDJkbElSSGFwLVhYT0lZOHYwcGd0Z1kwbU00VFlpWTk4MUNIWk9jcDR6X0lRMUNkZ3RQaWgyVzJKUlJkbGZIU25KWmFVSXM1anlTUW1sMW5GX2NZcUJpZ0tDM2dSSGhmV2hXb1NsQ05GVWNDNzRiUThFcGEtWTQ?oc=5
+- **Source:** Seeking Alpha
+- **Published:** 2026-09-18T16:22:47+00:00
+
+## Apple TV's Emmy Sweep Adds Momentum to AAPL's Services Business - Yahoo Finance
+
+- **URL:** https://news.google.com/rss/articles/CBMimAFBVV95cUxNRWNVSDRXZzJrYVdPajBESXdrWXFVOTJJX3Vma0toVjNSMGFCU3NLT3pYQkUtMWxKc0d6YWR4cC1rWFhzQWowNUVSU1pzYVh0a18yU1h5QTFjZVhpajRyeTgyUnJ6c2o0NVJkQXp4ZnI5OF9BRVA2ZDE0Y2tac3FOSGdRVVd4dUgxb194bDdVMmFXODJvRFpYUg?oc=5
+- **Source:** Yahoo Finance
+- **Published:** 2026-09-18T16:20:00+00:00
+
+## Early buyers snap up iPhone 18 Pro models - Taipei Times
+
+- **URL:** https://news.google.com/rss/articles/CBMidkFVX3lxTE5ielUwdG9IRTFaaFRzSjBwWVc4ZC1SaG1zWGZSQ0k2QS1nWGV6RmFseVFVUDlZSkRMQXpLZjZsZmNpb0pRbUotcVhhaHhyeVl3NDdPb3ViT0VOWW82ZW1vYnluR0V6dTFMNEFkYjktVUtfNVpyVGc?oc=5
+- **Source:** Taipei Times
+- **Published:** 2026-09-18T16:00:00+00:00
+
+## Oregon woman’s lawsuit alleges Apple AirTag enabled stalking by ex-boyfriend - OregonLive.com
+
+- **URL:** https://news.google.com/rss/articles/CBMipAFBVV95cUxQYUxQWHUxMVNmQ0xkclhCcmpDaW5XNHV1SnlKcXpVMHZnWk5mM2tmV09uZDVLQlJfQXdCbWJ0QmJQMzNWc1pLOHlUR1VHTXgtWEg5SmI0MTBtbWRCajN1VnAtVjVaZ0hiZllQSnRSWDhqdTBkUWl3X0ZpYWlNUUxhVXRuLTU0N3h1Vk5pMG5lSkNBck1TVVBOZ0VZcjBxRmNRUnJxQtIBuAFBVV95cUxPbjRZOWItNWxMbm00Zk1mMWlmTXdQTmJEeENVQWdXcktHcUVCQTZGVG1vRzBHM2o5WnV3V3M4elVIbHF5X2tkLVdUNG1vc2l3bjFQYXhFMm8xVHU4MUxJa2dwOXFWVE5oUHZ1d0l3cC14ZjFFUkZxaFNGN214RWF4TFlYOWc1VHIzbkRKV1ZRel9fYzNPUklrN3F5S0EzOUFLUUNwSTg0dXZwZU5YOUx3OElHcG1oVlhj?oc=5
+- **Source:** OregonLive.com
+- **Published:** 2026-09-18T15:30:00+00:00
+
+## Qualcomm Inc Stock (QCOM) Moved Down by 4.88% on Sep 18: Key Drivers Unveiled - TradingKey
+
+- **URL:** https://news.google.com/rss/articles/CBMiiwFBVV95cUxOYndzVFVOLTBmUkRGNTRVLU5ZazZpaXhUUUZ6aEpjLXdEdDJ4RnI1c004b05KNHk3VEtCQkpoc2FSRllnLUhrNnhfcGp0ak5sRFpfZWFSdU9sUTU1YzNvMFVFbG1hT3U2ZmxUNFJ1OU9QTGRTelNwQTVKMFVtNHc1V21ZdjVZQi1aeVV3?oc=5
+- **Source:** TradingKey
+- **Published:** 2026-09-18T15:15:23+00:00
 
 ## Key facts: Apple Inc. $109.4B rev; A20 Pro tops PCs; iPhone Duo - TradingView
 
@@ -135,171 +303,3 @@ _Last updated: 2026-09-18T12:18:40.514575+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMitwFBVV95cUxNNXhCOHczbjVYNGJ0Q1ZBNHZtZThMQ1V1WjhZaHRkOGNDbWZRZTdSQWVWWVNDM1VYQVpDWVdVZjRhVVhWZVVlU0tGNmtXc2tPWDNnck0wdnJTNmhpZmpwSXB1TEZuZVl6Q0Z3YUFUemtULU56YWlBYVgxdXQzTEhjR0cxbXdvNkd2QndXUFcwY1BYbV8xajBSNXBhZTR1dDhBZDZJb294VFlKTzZpemhYd2tDS1VteEU?oc=5
 - **Source:** tradingview.com
 - **Published:** 2026-09-16T20:20:58+00:00
-
-## Widow’s Bay makes Emmy history with 14 wins in its first season - AppleMagazine - AppleMagazine
-
-- **URL:** https://news.google.com/rss/articles/CBMiakFVX3lxTE1LaE5hRXdTWDcxNGw2TlJ4MG5OY1AwdTU5eWNGN1BUaGdWakhsVXRzZ2M2MjFNTnBoc3VoRkExcHlLRXFZX2VGd1JaaWJqTGYwNjljLXJkb1k0VVlySGQ5QnJxc1BFbDJVVEHSAW9BVV95cUxNcTY0RjdsUGRUVHhhZUhfRmJKUFNsNE5pWGZhNUtFQS1hQ2h0c3dZYURpamdsZTZ0ZWwxQ0hSdkozT3hpYURqQXlfTEN2WlhDY0lKYjdRYkhUU2FSalItZHJsenVHdkQzWEFjdmpsTGs?oc=5
-- **Source:** AppleMagazine
-- **Published:** 2026-09-16T19:10:06+00:00
-
-## CPI | OpenAI Challenges Secrecy of Musk Companies’ Apple Deal - PYMNTS.com
-
-- **URL:** https://news.google.com/rss/articles/CBMikgFBVV95cUxQdmVsb1dKdzdyLUxXNU9ndkRMQ3NEZDdoejdPUWhBSEUwM0xOUG5oMi0yVDBHdnExckNfWGZIWEFDNUtLTXpZRnduZ1diTmVIMlVjU01HVTBXUUtEd0VDMjBKVTBSek5kdlJiUC1LQ1hMZ3lGUGJoTWNraGNFQVk3azBrX3hyR0NTWENEMmEyNlBhZw?oc=5
-- **Source:** PYMNTS.com
-- **Published:** 2026-09-16T18:35:19+00:00
-
-## Apple, Nvidia Eye Major Entry into AI Servers: Report - Benzinga
-
-- **URL:** https://news.google.com/rss/articles/CBMipwFBVV95cUxQcV9LaEs3blRUS3BmUVoxYkFXbERNZnpKMWh5RUlGOEtqUmZCLVY4U2JWZG4zZms0U1dfbDVRMjk5RllOUW9VY1JhcUJrQ0M3VXdHTWppZTl5V2tISTFlaDdWZjNFNTltNXl0M1J3ejRkT1dSeWRjU2MxU1NvdUJWSTZRWUhLb2FvRTg3MDVtUlNtUXZ1TnBJbzd0ZndXZy1lNVdzSmtTQQ?oc=5
-- **Source:** Benzinga
-- **Published:** 2026-09-16T16:56:30+00:00
-
-## Verizon, Apple Dodge Automated Replies Patent Suits in Texas - Bloomberg Law News
-
-- **URL:** https://news.google.com/rss/articles/CBMinAFBVV95cUxNZkNsSGs1MjdjTzZ5cXFxWVZJY21La2YyWHNTdXV2WnhleDV1WDBVWWw2UVp5X3ZfTDQ3cmc0U2RkRTRUSWI1X1JUa3JFaEswOERyOEoyWURqdk1CaGFNVmltRVFCRE1NWm5Hc1I4UXI5dTFINFpMb0VEVVBqRkNscF9tclhlWHlPQlcxVGNKdWhQZVVJTnZBQUNMcUs?oc=5
-- **Source:** Bloomberg Law News
-- **Published:** 2026-09-16T16:32:00+00:00
-
-## Apple considers building servers with in-house chips and Nvidia networking equipment: report - Seeking Alpha
-
-- **URL:** https://news.google.com/rss/articles/CBMiyAFBVV95cUxNYUNDX2psOVFBb1E3R0x6ZHd5cDgzcThiMk1IWFZUQ0l2WXAtSDB3S3pWZXNpajNNT0hHTnlVb3dGZXI4TmR6dUtTMmttSlVscl95TFRLVlhYT20za05zWGhlOHE4YVpEc3ZMLVpfUTBtVFJfY3VBWDBuekNJX3o4WTRtRVBrRkJCc3QwM0N0NV80dDBrcDAtMUI5bVQ3a3JmQVRQcEN3dmJ5UVFyS2gwdzNubWNfdU0xVUZUbUxsYXg5ak0zaXRvdw?oc=5
-- **Source:** Seeking Alpha
-- **Published:** 2026-09-16T15:09:33+00:00
-
-## Apple Stock Rises as AAPL Develops AI Servers With Its Own Chips - CryptoRank
-
-- **URL:** https://news.google.com/rss/articles/CBMipAFBVV95cUxNZG4wWHNjZFlQeHBVMW9YLV9KQWtjQUhBZVJOVV9VYnlSUzJmbXd2Um4yTGItamlfazlpcW9qV1U1VUhEcjJQMVBtM0F6RFV4VkxPejBMNmpTLWc4S0xINEVfdlRBcGFlV25CZEY3ZVdzRDNGV1QzWHlIRUsyT3pvZ0xJY1BVLXNSeXpFcEs1MmNXZGE2Z2pBeTJpRVJlcVdnYi1Ucw?oc=5
-- **Source:** CryptoRank
-- **Published:** 2026-09-16T14:21:03+00:00
-
-## Apple Stock Surges After Its Biggest Product Launch in Years—Can It Last? - The Globe and Mail
-
-- **URL:** https://news.google.com/rss/articles/CBMi7AFBVV95cUxQX0JyeFd0clAwZjlmNkxLQW1zbHJZdjJzamJEUjZhcVR6aF91NHBWNEtMNC1ubHBGWU5BQ3RVcDI0QUxHZ0c4cUJzVFR5UUFSYUR0NUlHNTFKNkJmRjBmR1ozZHBnbGZoMXBpQlRJU0pGZ1RDencwX1ZjSURtSng0MzRKa1oxcnNLWEJTVmNUc2NfSFY2N01NbjFwWnJBeWFEcUpIeDhJcGdrV3VqS0RiMWJoT2F6bV9UaVJIY25XZXZTV0NEQlpvajJYX2hPU19VWlpFY2I0czRUQzJXTlo3RU9XWktfM053WUFIbg?oc=5
-- **Source:** The Globe and Mail
-- **Published:** 2026-09-16T14:20:00+00:00
-
-## Jim Cramer Says Apple (NASDAQ: AAPL) Foldable iPhone Duo Could Generate "Off The Charts" Demand - foreignpolicyjournal.com
-
-- **URL:** https://news.google.com/rss/articles/CBMi1gFBVV95cUxQb0ZnNXBFOWE4RWtoOENybEQ1RzBvcE9ObWFySEhraW1TU3I1UTZMMmxQVjVGVWZUOGtDYUp4M296Y242Qk5keEczQkdZRkpBZEtKdHNFckxnLS1NX2tfVHgwOVI0ZUFrZW0xOXNpdU5VOVJlOW9GeWRCUTJxMXl4bFUwZVdMWlhENk9pVy1URFRiX20tbTltWFJpZHBnY2hvTnhiYmgzcGhfOE1CeFFMX2txOHc2dDRKTjF5azZiem1Dek9ZR1daOEphX18xdlRIWV9vWE5B?oc=5
-- **Source:** foreignpolicyjournal.com
-- **Published:** 2026-09-16T14:16:00+00:00
-
-## Apple Is Developing Enterprise Server for AI Age, Report Says - Yahoo! Finance Canada
-
-- **URL:** https://news.google.com/rss/articles/CBMijwFBVV95cUxNN21qRVRXN09CTi0tZk1Yb0NjS0U3NUhkZmFEeXJnN0xpUlZWOEU0THZoY1cycG5yUHlVcGdIWDZaZ2xoaThJV2ZjcDB5Z2FMTm5WVW1ibTFrR2FFUldXTm5vN0RhbnFTMXB4MXdlYWF2M3N3MXZxNGFISXEtRXQ3UzZXVHFkRkJBVDVvclZUOA?oc=5
-- **Source:** Yahoo! Finance Canada
-- **Published:** 2026-09-16T13:34:10+00:00
-
-## Apple’s Siri update highlights shift toward AI agents (AAPL:NASDAQ) - Seeking Alpha
-
-- **URL:** https://news.google.com/rss/articles/CBMilAFBVV95cUxNTHVSTF9MbW5SY2pyd19xdnlhSGlhR1FqdEM2bjdqSkU4R0pCVkQ0TDNYRGJ0SDRmMmpQcFZ3cFViWmtfRTNkdVNqZEN2U0F2aG1iY3E2RTJGMFBUbUhRakhoMVNMSjNpeWpzN1VvZW8yUGRCalVLSlRwQlhuMktuWExEYktyOGJCWXh6cnJCeVRidnIz?oc=5
-- **Source:** Seeking Alpha
-- **Published:** 2026-09-16T12:58:32+00:00
-
-## Samsung Retakes Smartphone Throne, Apple Scores Record Share - tradingview.com
-
-- **URL:** https://news.google.com/rss/articles/CBMiaEFVX3lxTE04UVdGeVQ5QmtFSWZyRVJmMFNmLVh6dThZNFRTUTlaZWFrY3J1VHhjcVE5TlN3dzc4MElpSHB3QkVnd24xcGRNNnk2QzlYQW5OUVpibmJaRWprd3dQYjRDTlJxY1g2V1lZ?oc=5
-- **Source:** tradingview.com
-- **Published:** 2026-09-16T10:58:04+00:00
-
-## Elon Musk’s X And SpaceXAI Dropped Apple From Their Antitrust Fight Without Explaining Why — Now a Federa - Benzinga
-
-- **URL:** https://news.google.com/rss/articles/CBMikgJBVV95cUxNTE12by1LZUFvZmRyb2I4RWNKSVJIeEpkZEVteVR2UXVPVnNwYzZXLWpsbzk2TjRsTmgzUk0xeEZ4QVl0SE1OTHcwQmJ4QzNRNE5pNE5PbV81WnZWa0RHdGVBamhaSlZQZ096NHYtZkRKbEJMZkNYNHBkakJYeGJCbmpSTkwzeExKTjBBTjR2TXY1NnNuU3QtR08yTVZzRFFzRzhIMUV2NE13WWxDWEVMTGVjM2owMV9QRzNaWVhfRnRSMkZxS0txNVA3dnE4d29sS2NKUnVVMXZ1YndOUUs2bEUzUDkzS1RDYjBybUxGcHBGSkNWajdyNVc5N0xJbnh6LWIzXy1yVnhBbWRTNUhwOURn?oc=5
-- **Source:** Benzinga
-- **Published:** 2026-09-16T10:23:07+00:00
-
-## Apple’s Patent Spat Signals Potential Shift at Trade Commission - Bloomberg Law News
-
-- **URL:** https://news.google.com/rss/articles/CBMioAFBVV95cUxOVGlvenhSY0xuZmY2Q281bDEtWXFTcU84YXJIbGQ1VENTZms0bUpCYXFadmhDOVNyR2pJd1E3SkFCVEZBaWkydUNvc2k0M3o2NHVyczY4NjhaajJyejBSX0M0SUNOYXZaTHI4TzI0QmlsY1ZVVm5pZEYyVzQ1VDhhdzJiVjdvM1NFOFhfMXM0WWdjRU9UUmJiY1U2b1ZrUkd1?oc=5
-- **Source:** Bloomberg Law News
-- **Published:** 2026-09-16T09:00:00+00:00
-
-## GM using split-screen approach to integrate Apple CarPlay after infotainment backlash - Automotive News
-
-- **URL:** https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWW85WUpzZWZ1QW1VTkR5bVQ5dUtpMFlmQXJGaXU0Zkl3NzRUUXhVNmhraGtJa3BwTkg1VlFna2JfazZ2cXRZZ3VGN2hNNDdqaF9sdk0ycGdlWU5YdDVRTkM4b3J4SFBVNnRsTHhlclFHanJSbDk1UWxreko4UTlaVUs1ZkgyQWQ1?oc=5
-- **Source:** Automotive News
-- **Published:** 2026-09-15T22:10:00+00:00
-
-## Siri AI arrives with personal context, app actions, and a new privacy architecture - AppleMagazine - AppleMagazine
-
-- **URL:** https://news.google.com/rss/articles/CBMidkFVX3lxTE9uMjNkN1NoWGFReEVLeERhQXBra0lvbTlIdkw1LXMxREtSczVxSUNuNTh1ZUxpeW1QNG1fbU9iQnowT3JKX1ZaVTJzZHdmQ3Y4NUgyOVZhd0FBWGo3Z1IzanRtMklFWGI4MmtOMVQyT1FpX2dseUHSAXZBVV95cUxPbjIzZDdTaFhhUXhFS3hEYUFwa2tJb205SHZMNS1zMURLUnM1cUlDbjU4dWVMaXltUDRtX21PYkJ6ME9ySl9WWlUyc2R3ZkN2ODVIMjlWYXdBQVhqN2dSM2p0bTJJRVhiODJrTjFUMk9RaV9nbHlB?oc=5
-- **Source:** AppleMagazine
-- **Published:** 2026-09-15T20:39:15+00:00
-
-## Apple asks U.S. Supreme Court to vacate App Store contempt finding, arguing it never violated the order’s text - MacDailyNews
-
-- **URL:** https://news.google.com/rss/articles/CBMi3AFBVV95cUxQWTBsZ3p0RDVpd0daWnYzakY2N2dpNUFGUmJWdmdTSWlFamlXTDVoZzRwcVN5U0twNGkxS0FqYTRqWnZSc0NpcnhTYkhIeWQySkswbXhTdVA5WHhYWlFMekZVMmNXYnAtNkw2REFQaE01cEZvWWZZYkVBdmVoSTc4WXV4bVZQeTZBRUNENmtpcDNBdU8tNVZXdnRrOG9HeWpYUkpUd0pCTjRwcmpSZTNhcm1IUVJVeHo1SEt0NGVYQjloVHRXajZheEpHWFRhN19JNWtQRG9CdFA1empC0gHiAUFVX3lxTFA2WFdGemVIMWpJRVdoaUlMdVN2dkdSTDJEMWdGMTl0VGFYVS15djhKRVVCNkVxSXFvcUU3bGtjaU5VSlkyTEhUUlBMWkdlNGpIeFVKSjBKUC1kOGpfTkwzQkRVYkc2QVJxN3dNVXlkYmVGUU00NU5relNKSUpvN2haN2UyUHhsNTlRVVE0NHMzclZoNkdXRU9RdHBfSnNGaDdheC1HT2tYMUROdzNaWjI4Y3h3clUwUzlsSXFWcWxCTkp0VUNHRmRKcXdoY0lBVnJ0UmdMS0F6RW8wWHVlNkJjaGc?oc=5
-- **Source:** MacDailyNews
-- **Published:** 2026-09-15T19:30:04+00:00
-
-## Pinduoduo Undercuts Apple on iPhone 18 Pro Ahead of China Debut - Caixin Global
-
-- **URL:** https://news.google.com/rss/articles/CBMiugFBVV95cUxNd3pQN1ZVeDNJQmo0YTVhQ0R1ellOejNHMVhiUmlvWV9mWXJCVkdfNXM2TTBmbWQ1bUdtQmRQWXAtY1R2QkhhNzBuYTZycDN0cXpjYll1aEVQVThxY3hHYjhnRlFJSXJoOGpMM2plM1dyTEpMU1BUal8yRU1UcUFjenlvWkxGVEpkcWZ4MmdOQ2VpNjNESFlsM3drbzczdkhQSkt1U1JFSjk2UEtiNi1DUzVOQWNSX0JVX2c?oc=5
-- **Source:** Caixin Global
-- **Published:** 2026-09-15T18:51:00+00:00
-
-## Apple software updates bring Siri AI and faster performance across devices - AppleMagazine - AppleMagazine
-
-- **URL:** https://news.google.com/rss/articles/CBMickFVX3lxTE1NWlR6SG1nQ2g4WkNDcWhQZExIRTBmUTNKN2l5MEpibnNjZ2p0WmozdnJXRE8zSWZmSVl4U2toN1NPaHdCRUFob2c3ZngtV2xUNUtPM3NCMm8zbGI1MEpNaV94eV8tcEZYYkRUSkFHbC1YZ9IBd0FVX3lxTFBiZXVUek5UTmJLUjd6RnYyZng2MTFPNzZNMGFsSHJ3TEE5QmFfemdjS2hXRUxoZVZFQ0NLS25LeDVLazJFd2lVTUxCdFB6cWE5ejlUZl9zaDZ6V2pjVTJaRmIyN05nTzBhdUo3U2R2YzJ3S3FjT0Fn?oc=5
-- **Source:** AppleMagazine
-- **Published:** 2026-09-15T18:41:03+00:00
-
-## Apple just launched its new iPhones. Here are 16 more products coming soon - The Mercury News
-
-- **URL:** https://news.google.com/rss/articles/CBMiswFBVV95cUxNdkVnUGM4V1YwSFE4OTQ1Y2dJbjJEMHUxVU5oaU1iVnVoWXB1YTY1QXk4SWxOaG1qV1FZX3VnSERYWUZlWWxaQ1EyVjV6N0hKUW1UVnN5VzJVWFdhUG45ZDFZdXVzNU9WNzN5Qm5uS2NzUDVWTnQtMmFLc09KcHpFU2h0ZlhrNHBrSHRaLUVFMjIyV1pSVVFOR0Z3RnVDVFB1Zmlzbjk2d0ZMR0xWbW1MZnEwd9IBuAFBVV95cUxNeVZrWXpLMFptLS1ZYzRuVk9KamJwOHlhWnlYaUZ2cUJtR3ptcUhFc3pad2g0QWp5dTZ0ejJYSFBSSmppWldHbnIzbWpQdklLWlRYaFdOdE13aExuNFRSb3pzZmt0T0V0Mno1TEMxZlR1bUZTRGhjZTNwQ1hjMXFYQ0JHdlMyTi1pUk4wTHVQV1VUb1Rrc05XSEsxVnU5X3IxWWR1MjhiZ3JnNDZNU0ZXTXFBdE9LZjVF?oc=5
-- **Source:** The Mercury News
-- **Published:** 2026-09-15T18:07:04+00:00
-
-## Elon Musk’s xAI resolves claims against Apple over AI competition - The Mercury News
-
-- **URL:** https://news.google.com/rss/articles/CBMioAFBVV95cUxOcWF5U0kyeW5XTXM3VlNDaG44ZW5EbVo3TGIwVXVLLUNYOUpReGduUEttWXprcGUwTV9DYVNrOGY2QmlTcHpBSnpCbTNmNHlzLVVwMWwtTEtPRF9WeEM4cXpGM2dlOWV1bFZfNjkwak16cWtnQkFGcFpJR1AwSkx6YmUyM0NkNTQ4RGZuNXJrY0U2dHBnc19MMzM2bnpPZklr0gGmAUFVX3lxTFAzVU5ORzBlVGxKM2JhUVVtT0tUbVBTSnNaZ010b2hkUFhVRXNYZklDeGdFYy1NNjRhQmdQRGxPVlZ0dDdiVEV3aFJvbGcxUWxnRGVFNElVai1feXFQUFVqZnItZFVtYXJ6bDNyci1EM3ZjRWJiUEFNX1Yzb3h4U1R6Xy13WDVtXzhEWklBU0xGclp6QWF6SFkxZk54T1NkY2FoY2xRVVE?oc=5
-- **Source:** The Mercury News
-- **Published:** 2026-09-15T18:06:26+00:00
-
-## iCloud+ gets an upgrade in 100 countries: Free Apple TV, Arcade, and new Music Select - Macworld
-
-- **URL:** https://news.google.com/rss/articles/CBMixgFBVV95cUxOVlF1UEw3X3NpTDI1aG9WSUpLVU1jV0ZQLTlZNWxRZ1JIVE1mMEdKWGpGZGljQjg2TjJLWHh5UFg5ejZpQlRmMUpMRncxUVpGcTViNXhWdDUzdDlNY0s1aUg3MlI5RFBGTGZtYzBFd3NxSU00X1VKd3dqWFBTN19zZjROYXpvTGFJQVRKVlNyblFKbjJzX1BiQmM4dlY4dUhHUUNMRVNnOW5WUG1yMDA1YUJfYXR2eFc2TDFpWW95RnlxWWN3Ync?oc=5
-- **Source:** Macworld
-- **Published:** 2026-09-15T18:05:11+00:00
-
-## Apple: The iPhone Duo Holds The Key To China's Recovery (NASDAQ:AAPL) - Seeking Alpha
-
-- **URL:** https://news.google.com/rss/articles/CBMimAFBVV95cUxQOHZJSGFjQ3hZVkFmbko5U0h4WHlERXFsLWs2TS00UkYzR0xjUF9hTnhGYUp5UUlhaVBTU1pzelZEajVOUXZQT0E0OExqcUdjcndKcFFmUXdmNjZ4VF9OTms0QTItVHNiWnhYaHhjZ1Q5WFdtVm1MY3BIcngzblZJN1ZGa00wWDNQT1lSM1pLbXdZTTV2cVJRYg?oc=5
-- **Source:** Seeking Alpha
-- **Published:** 2026-09-15T17:51:49+00:00
-
-## iPhone Duo brings Apple into the foldable era with iOS 27 - AppleMagazine - AppleMagazine
-
-- **URL:** https://news.google.com/rss/articles/CBMibEFVX3lxTE5LQlR5Ui14cjE2dEZHcXNFOXVvVzc4bDVrMU5vNy1LNUQ1VG9pWThZZnBhNkY4U1lpZ2lRaTRxT0taS1N4TE1GWHlQdlVQdDVzQ3ZpeEdtWGc1VXlLUkQ3dVh6T1Y1eHFVeTJQTdIBckFVX3lxTE9SMlBnbW9FYkNOUUpRSkV1c2ViTndXdE5UX1NGYlJUVnNEeVNSbUNSVU9pWFJMSkE3aTVTYm5YWnlfWU5KQ1ZOTmpYbDliNnZfb082NDI5Nk03WVh4NjBPLVhkRWhMS3ppc2ZaNWFsM2NFZw?oc=5
-- **Source:** AppleMagazine
-- **Published:** 2026-09-15T17:36:47+00:00
-
-## Skyworks gains 12% on Apple component hopes and Qorvo merger progress - Yahoo Finance
-
-- **URL:** https://news.google.com/rss/articles/CBMinwFBVV95cUxQR2xNcXpBX0Rpa3VoSWt4WEJCSjh1anVITWlySUFQa2hNd0UwTnJXeW5qTU1kVjU4eFJMaHRnUGp6LWdjZmdkbVFQSEstaFFvOGtyeGduTmt2Vm13T1BWTW94TDZSWkw1UnpQY0laQmJqemRydk91M09qVndPRE1GemRCZXBtcUZrRWdXcnFtbVBJQWhNYS00RDRPcmttWkE?oc=5
-- **Source:** Yahoo Finance
-- **Published:** 2026-09-15T17:34:00+00:00
-
-## Apple’s Cheapest AirPods No Longer Feel Like a Compromise - Bloomberg.com
-
-- **URL:** https://news.google.com/rss/articles/CBMiwAFBVV95cUxORHdfaE1QdUViWFJmLTdqRWZKNW9zSkRycEh2Nl9rZ1hOeHlRaXY4WDdMZGduX0hiQ001OU1jejgwREJsaWp2WXduNGhDWW5oMVVtanAybzdXVU1rRm5XT2xDY1NMN0RpVjNfOXUzQTBZTjMtTExfYkRINnhaZ3BYdm5NUVRoa3JoUHdSWEN5X05ERGdEUjZQWnN3OVRYMWs3dEJ1ei1VV05wMkYyTnp5RGx0TkRacEFpT0xPMTV6X1Q?oc=5
-- **Source:** Bloomberg.com
-- **Published:** 2026-09-15T17:00:14+00:00
-
-## Apple TV Enjoys Record-Breaking Emmy Night After Price Hike - Apple (NASDAQ:AAPL) - Benzinga
-
-- **URL:** https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbUU3TWZlNFItUFo1SWJVQVRtdjVjTW01eVhmVWoyM3F3ZUdGbGxCYlg4bmlHaS11ODBfNzdWZXhJdE54b2lYVDZFaUktUmhXS05MWGZSM09HcTlSYnY5ZndMWW42R1JtdzB2Sk5ISFpiZEZiXzZpRFFPajRpc1B3TWRiYnFPcTV0Qjk1Qk5XZ2V1RzFiUm1SYmF5aFNqOUhseGcyb1JBT0c?oc=5
-- **Source:** Benzinga
-- **Published:** 2026-09-15T15:51:20+00:00
-
-## Apple's "Widow's Bay" sweeps Emmys with 14 wins (AAPL:NASDAQ) - Seeking Alpha
-
-- **URL:** https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNExBczQ4UE9pNF9ObE9hZG9SRy16dnlETjVkUGZzenpORWJZbGxYTmpSajhCcHR5VEFrdGt1bURvdkRHSExtMkxRQTdoSEdVTFYyZGU3dEFDb0hlV2NEU1NCZ0tlUXlIVUc2Z25vV18wM1RkRy10Wjd5UktYdkhVbnpqVWFOaG1H?oc=5
-- **Source:** Seeking Alpha
-- **Published:** 2026-09-15T15:03:20+00:00
-
-## What's Going On With Apple Stock Tuesday? - tradingview.com
-
-- **URL:** https://news.google.com/rss/articles/CBMioAFBVV95cUxQNXU0VExFNk5yUnlwMmtsdnFQMHBGZENsWThLSDFZelJyUXZuVVJTMTZEb1JocGh5MGtXc1Ftb0ZUc3k3SEJTMWtnSnNXY1Btb2FlMmg4Y194T25JOWs5bWpIMGhLY1Z4b082bXB0VVR4SFRVV05JOFhOWGZLX0xCTklxeGw0RnNWWVZrV3J6WFVaTnVQbXV6WGY4QTA4b3ZL?oc=5
-- **Source:** tradingview.com
-- **Published:** 2026-09-15T14:18:52+00:00
