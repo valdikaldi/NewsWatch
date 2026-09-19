@@ -12,7 +12,7 @@ settings:
   #   1  = email every day (when there's something new)
   #   7  = email once a week
   #   30 = email once a month
-  interval_days: 7
+  interval_days: 1
 
   # Where to send notifications.
   email: "mydevtester00001@gmail.com"
