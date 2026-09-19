@@ -24,7 +24,7 @@ NewsWatch watches the news for any search query you define, tracks new articles,
     ├── data/                Runtime data (one folder per job)
     │   └── <job-slug>/
     │       ├── articles.json    Source of truth — structured article data
-    │       ├── articles.md      Generated — human-readable view
+    │       ├── articles.md      Generated — human-readable views
     │       └── state.json       Program memory (last run, last sent)
     ├── scratch/             Throwaway test scripts (not shipped)
     ├── src/newswatch/       Application code
@@ -38,7 +38,7 @@ NewsWatch watches the news for any search query you define, tracks new articles,
     │   ├── rss_fetcher.py       Fetches RSS feeds
     │   ├── parser.py            Converts feed entries to Article objects
     │   └── collector.py         Orchestrates fetch → dedupe → save per job
-    ├── main.py              Entry point (wired in Step 7)
+    ├── main.py              Entry point 
     ├── pyproject.toml       Project metadata and dependencies
     ├── uv.lock              Locked dependency versions
     └── TODO.md              Project roadmap
