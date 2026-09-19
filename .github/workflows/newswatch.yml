@@ -1,0 +1,67 @@
+
+name: NewsWatch           # name of this  workflow
+
+on:                       # [TRIGGERS] when the newswatch program should run        
+  schedule:
+    - cron: "0 6 * * *"
+    # 0    6    *    *    *
+    # │    │    │    │    │
+    # │    │    │    │    └── day of week (any)
+    # │    │    │    └─────── month (any)
+    # │    │    └──────────── day of month (any)
+    # │    └───────────────── hour (6 = 06:00)
+    # └────────────────────── minute (0 = on the hour)
+    # aka :  every day, at 06:00 UTC.
+
+
+  workflow_dispatch:          # allow manual trigger as well
+
+permissions:
+  contents: write
+
+jobs:                           # what this workflow does ! 
+  runs-on: ubuntu-latest        # which machine
+  steps:                        # sequence of commands to run 
+
+      # downloads your repository onto the runner. Without this, the machine is empty.
+      # actions/checkout is an official GitHub action. @v4 pins it to a specific major version.
+    - name: Checkout repository
+      uses: actions/checkout@v4
+
+    # install "uv" 
+    - name: Install uv
+      uses: astral-sh/setup-uv@v7 #using uv library version 7
+      with:
+        - enable-cache: true #caches uv's package cache between runs, make runs faster 
+
+    # setup python ! installs the Python version pinned in .python-version file
+    # so we will use the right python version !
+    - name: Set Up Python 
+      run: uv python install
+
+    # install dependencies 
+    # --- installs every package in pyproject.toml at the exact versions in uv.lock
+    - name: Install Dependencies 
+      run: uv sync --locked 
+
+    # run the app
+    - name: Run NewsWatch
+      env: 
+        MAIL_USERNAME: ${{ secrets.MAIL_USERNAME }}
+        MAIL_PASSWORD: ${{ secrets.MAIL_PASSWORD }}
+      run: uv run python -m main
+
+
+    # Last but not least commit CHANGES
+    # only if there are any changes 
+
+    - name: Commit Changes
+      run: |                   #<---multi line string! pass all lines together as the shell script
+        git config user.name "github-actions[bot]"
+        git config user.email "github-actions[bot]@users.noreply.github.com"
+        git add data/
+        git diff --staged --quiet || git commit -m "chore: update articles [skip ci]"
+        git push
+
+    - name: Summary
+        run: echo "NewsWatch completed successfully."
