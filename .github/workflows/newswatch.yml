@@ -20,36 +20,37 @@ permissions:
   contents: write
 
 jobs:                           # what this workflow does ! 
-  runs-on: ubuntu-latest        # which machine
-  steps:                        # sequence of commands to run 
+  run:
+    runs-on: ubuntu-latest        # which machine
+    steps:                        # sequence of commands to run 
 
-      # downloads your repository onto the runner. Without this, the machine is empty.
-      # actions/checkout is an official GitHub action. @v4 pins it to a specific major version.
-    - name: Checkout repository
-      uses: actions/checkout@v4
+        # downloads your repository onto the runner. Without this, the machine is empty.
+        # actions/checkout is an official GitHub action. @v4 pins it to a specific major version.
+      - name: Checkout repository
+        uses: actions/checkout@v4
 
-    # install "uv" 
-    - name: Install uv
-      uses: astral-sh/setup-uv@v7 #using uv library version 7
-      with:
-        - enable-cache: true #caches uv's package cache between runs, make runs faster 
+      # install "uv" 
+      - name: Install uv
+        uses: astral-sh/setup-uv@v7 #using uv library version 7
+        with:
+          enable-cache: true #caches uv's package cache between runs, make runs faster 
 
-    # setup python ! installs the Python version pinned in .python-version file
-    # so we will use the right python version !
-    - name: Set Up Python 
-      run: uv python install
+      # setup python ! installs the Python version pinned in .python-version file
+      # so we will use the right python version !
+      - name: Set Up Python 
+        run: uv python install
 
-    # install dependencies 
-    # --- installs every package in pyproject.toml at the exact versions in uv.lock
-    - name: Install Dependencies 
-      run: uv sync --locked 
+      # install dependencies 
+      # --- installs every package in pyproject.toml at the exact versions in uv.lock
+      - name: Install Dependencies 
+        run: uv sync --locked 
 
-    # run the app
-    - name: Run NewsWatch
-      env: 
-        MAIL_USERNAME: ${{ secrets.MAIL_USERNAME }}
-        MAIL_PASSWORD: ${{ secrets.MAIL_PASSWORD }}
-      run: uv run python -m main
+      # run the app
+      - name: Run NewsWatch
+        env: 
+          MAIL_USERNAME: ${{ secrets.MAIL_USERNAME }}
+          MAIL_PASSWORD: ${{ secrets.MAIL_PASSWORD }}
+        run: uv run python -m main
 
 
     # Last but not least commit CHANGES
