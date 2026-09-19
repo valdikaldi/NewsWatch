@@ -64,4 +64,4 @@ jobs:                           # what this workflow does !
         git push
 
     - name: Summary
-        run: echo "NewsWatch completed successfully."
+      run: echo "NewsWatch completed successfully."
