@@ -4,6 +4,13 @@ Automated news monitoring and alerting.
 
 NewsWatch watches the news for any search query you define, tracks new articles, and sends periodic email digests. It uses Google News RSS, runs on GitHub Actions, and stores everything as plain files — no database required.
 
+
+## Demo
+
+<video src="./assets/demo.mp4" controls></video>
+
+
+
 ## What It Does
 
 - Monitors **multiple search queries** (called *jobs*) independently
