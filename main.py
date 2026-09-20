@@ -19,6 +19,9 @@ from src.newswatch.render import render_markdown
 from src.newswatch.state import load_state, save_state
 from src.newswatch.store import load_articles
 
+from src.newswatch.render_email import render_html_email
+
+
 
 def process_job(job, settings) -> dict:
     # ===============================================================
@@ -43,11 +46,17 @@ def process_job(job, settings) -> dict:
 
     # =====>  3. Load articles and render email body 
     articles = load_articles(job.name)
-    body = render_markdown(job.name, articles)
+    plain_body = render_markdown(job.name, articles)
+    html_body = render_html_email(job.name, articles)
     subject = f"NewsWatch: {job.name} ({len(articles)} articles)"
 
     # =====>  4. Send 
-    send_email(to=settings.email, subject=subject, body=body)
+    send_email(
+        to=settings.email,
+        subject=subject,
+        body=plain_body,
+        html_body=html_body,
+    )
 
     # =====>  5. Mark as sent and persist state 
     mark_sent(state)

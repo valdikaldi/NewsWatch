@@ -40,29 +40,35 @@ def _get_credentials() -> tuple[str, str]:
     return username, password
 
 
-def send_email(to: str, subject: str, body: str) -> None:
-    # ============================================================
-    # Send a plain-text email.
-
+def send_email(to: str, subject: str, body: str, html_body: str | None = None ) -> None:
+    # Send an email, optionally with an HTML alternative.
+    #
     # Args:
     #     to: Recipient email address.
     #     subject: Email subject line.
-    #     body: Plain-text body.
-
+    #     body: Plain-text body (always required).
+    #     html_body: Optional HTML body. When provided, the email is
+    #                multipart/alternative (both versions sent).
+    #
     # Raises:
     #     RuntimeError: if credentials are missing.
     #     smtplib.SMTPException: on delivery failure.
-    # ============================================================
-    
+
     username, password = _get_credentials()
 
     msg = EmailMessage()
     msg["From"] = username
     msg["To"] = to
     msg["Subject"] = subject
+
+    # Plain text is always set first (RFC 2046 order)
     msg.set_content(body)
 
+    # HTML is added as an alternative part
+    if html_body:
+        msg.add_alternative(html_body, subtype="html")
+
     with smtplib.SMTP(SMTP_HOST, SMTP_PORT) as server:
-        server.starttls()              # upgrade to encrypted connection
+        server.starttls()
         server.login(username, password)
         server.send_message(msg)
