@@ -1,8 +1,122 @@
 # NewsWatch — Apple News
 
-_Last updated: 2026-09-19T15:14:49.891162+00:00 · 29 articles_
+_Last updated: 2026-09-20T10:59:42.620710+00:00 · 48 articles_
 
 ---
+
+## Trump Says Don Jr. Repaid Kremlev for Bahamas Wedding Gifts - Apple (NASDAQ:AAPL), Boeing (NYSE:BA) - Benzinga
+
+- **URL:** https://news.google.com/rss/articles/CBMirAFBVV95cUxQcTBjV2dreU9CYlNYamc2OXM1OUtZNGFaaFY3VGdhZ1FKZGFKb3Z2Zk5sNmU1Q1VUcVltdk05eEppc2ZSNkE3cTVNT3k5VmZIZDBVSENBbmlGMjFQZm1HSGx2dkRBOHBMZ3JYOFdtSFdaUEV1djc5cVl5UFB4MFJ4NUtKTWVjbEdoQ0E3Vm1zOE5KYlNoNUZqUTV0dzk1cXlVbXNRdENCNjVSVFFZ?oc=5
+- **Source:** Benzinga
+- **Published:** 2026-09-20T06:02:29+00:00
+
+## RCEL Price Today: Avita Medical, Inc. Stock Price, Quote & Chart | MEXC - MEXC
+
+- **URL:** https://news.google.com/rss/articles/CBMiT0FVX3lxTE5lX0ZIM2s5djd6Q1R1UUtkaFIwMFNBRS1TT2tvYklVYWRiTm1QMkNZR2llNnhqMEtGckVMNVRoY3VjRmRDXzR4TGcxTVM1dG8?oc=5
+- **Source:** MEXC
+- **Published:** 2026-09-20T04:20:09+00:00
+
+## NEUP Price Today: Neuphoria Therapeutics Inc. Stock Price, Quote & Chart | MEXC - MEXC
+
+- **URL:** https://news.google.com/rss/articles/CBMiT0FVX3lxTE00Z0UzQzJzT2llQnlYUC1HZ2VfSVVDeXpkbGtWcTRGVHFzdnRWNjFKWWdBWTlVRlhtOGRqSWFwQUlDVWE2NUYxazFFdDdKcFE?oc=5
+- **Source:** MEXC
+- **Published:** 2026-09-20T04:20:07+00:00
+
+## DRK Price Today: DarkHorse Technologies Inc. Stock Price, Quote & Chart | MEXC - MEXC
+
+- **URL:** https://news.google.com/rss/articles/CBMiTkFVX3lxTE5ZaThlVGFXY0pnUGhNNWk4dnJnYXlJQVRxeXluQ055OU14azlNZFZpT3NPdmY0OFYxUDRRX0Q5dWVjcFFWbkRRRG1lVkx3Zw?oc=5
+- **Source:** MEXC
+- **Published:** 2026-09-20T04:20:07+00:00
+
+## Apple's Tim Cook sees Australia's social media curbs as 'world-leading', PM says - marketscreener.com
+
+- **URL:** https://news.google.com/rss/articles/CBMiygFBVV95cUxQVjY4d1RfLTVXZEpQRTVhcjdIaWVyQkE1bDl6S0tGWS1tRUZxdXFvc2xFeTlrdTJ3eE5FZ3d0VWJJcFdKcDhtcmFhZ1JpbjlmWWNtQ3BUaEJMdjFqbnJQVmtSUVRka25GVjQyMlBDMDE1cnNjSU9WZXFCcnBwTXJjcWY3SmtQX3Rya05rTVAzYXdVZVhoTC1xZzVqUk9aTk02ZjBjdlQ3czFUenRmRG90Nm9jT25KaGZ0U3M2Rk5PejJLYUtpNGZDNmxn?oc=5
+- **Source:** marketscreener.com
+- **Published:** 2026-09-20T01:02:20+00:00
+
+## Apple Challenges UK Directive on iPhone Backdoor Access - rswebsols.com
+
+- **URL:** https://news.google.com/rss/articles/CBMiqgFBVV95cUxPc1pJbDZydUhQa1k3M2Q2bWFtVVFZQ1FPRlJ2dTJOSl93Q1JaU3pndm5GMzBZV2RKclU5SHlsbTVFTUZQVGkzazBRZ19jVndqZ0F4UkF6dVROWlRpd1RMZHcyTnRmYW9peXBtTnlMazl1ZEt0S3dfcEtKTEdGTmo0cG1lZGU1cFlaZnJLckQwVXFkMTR0UEFyUmM5a0N6Q2VSOThYT0hEYldFQQ?oc=5
+- **Source:** rswebsols.com
+- **Published:** 2026-09-20T00:00:00+00:00
+
+## We came to meet Tim Cook, but left with just a few photos - SBS
+
+- **URL:** https://news.google.com/rss/articles/CBMi3gFBVV95cUxPNFNneHEyNThHa3RoZW05a21ER0stTnF6YjBRbTN6blFiMTRIdHhGZVAzRWdIaHp3SFg3RHVoVFFoZG82UklyVjlIdWctcTZrTzNYVG04SF9lLTdaVFdVd2lRenZKZWhuWTdpLUZ3dWdiSUhMcVlPQ0IwUnM4LUlrR0NqeGdRUDkyeE5XVDgxUHIwMXBBdVVMdFZGVmtfdnlsQW1vZXNnZk5xXzNYTDJ2ZjRQWk9wbm5TcE9NckJFVUlZWmxpLXlUTlp0S2lXb0RxZkJwblhHN3BOdzgxN0E?oc=5
+- **Source:** SBS
+- **Published:** 2026-09-19T21:30:28+00:00
+
+## Why Did AAPL, QTTB, CSX Stocks Surge To 52-Week Highs Today? - Stocktwits
+
+- **URL:** https://news.google.com/rss/articles/CBMivgFBVV95cUxOVkkySzRZa1ViWlJPNktHSlFSVDA0azM4RV82bnpheDdTdk5PYkVBazhLOUFnXzV3aUZmenA5M1d2RjBFcEE0emhZc0JZLXM0UFMxVDlmZnNzekU5NlA5NDU0eU1GLXhjS3psazdpTzJHdFpjUFItcEQ0Z21sQ09naHhTbU9tbnozQWhhdG5ZajVpTWxBWVR6V1RYNWVSZGpBNHNlZUN4bmZCM2NCUjd1eEFQYmFEXzVKWW9JS3lR?oc=5
+- **Source:** Stocktwits
+- **Published:** 2026-09-19T20:50:37+00:00
+
+## Apple iPhone 16 128GB - 6.1-Inch OLED Display - AD HOC NEWS
+
+- **URL:** https://news.google.com/rss/articles/CBMioAFBVV95cUxOZldHMmV2dVlHQWU0ZTJvbVpGZzQyWW9hVE9UVjRZMTJRVkpVaWlwSkZ2SHR0SFl0Rm55eUFDaUQ2UVRYX3d1Z2sxZTQtY3hnU2k3dFRuMWsxLXYxaThGMkxCeEI2Yy1uNUZ6T1NFdElNcEc3eWJnZGlhMko0SGNSQVNQVkYxOWhmT0hDbGpxb1N6eHRyWi05Qm1BVGVZcFBj?oc=5
+- **Source:** AD HOC NEWS
+- **Published:** 2026-09-19T20:14:36+00:00
+
+## Apple iPhone 17 256GB - Storage Boost And Camera Upgrades For 2026 - AD HOC NEWS
+
+- **URL:** https://news.google.com/rss/articles/CBMivAFBVV95cUxPMDlhWUN0ZG1BejdGRGpkSG41OEs5MUl5d1QyeVdrdnRuekhKSnZxaGRreXlmTVlQRldqUjJ4SmREbkUtUUk3WHBsOEV1V0VqdWh2UmVac1FDSEJFa3Q5N1QyQzd2aXNrZ2o2QVZMWGtQTlptY2lCbS1BMkc0U0pRcnRXbkE5UUotUFFrWkFSWVh3bnVFSjV1a2swcFNIWlhkaHphcWlKMmRadDVrTTI3WXkyMUI0ZmNrY2hMVQ?oc=5
+- **Source:** AD HOC NEWS
+- **Published:** 2026-09-19T20:11:45+00:00
+
+## AAPL Stock Gains — Apple Reportedly Eyes Foldable iPhone, Camera-Equipped AirPods Launches In 2027 - Stocktwits
+
+- **URL:** https://news.google.com/rss/articles/CBMi1AFBVV95cUxQWGtNOTlQelFyMkJVelNVejNjQWQ5ME9lTHlkd2dJWnExazNscTRiSWVhWG1KTlVXOXBpSnEyeWZpNmdldHQxV2lwcU1OZ29HNVI4Z2pHbTFOclRzdHROSEhqMFBjekZwRU84TzF6UE0yN0NyanA2UnpoM29rakxkUXlPVEpLcHFMdTd2Rll3T0NjdElvc0xJeDVtZnBUSE9BTGdXWW9YendCMjRvdkZySkNQRDBDU2R3cUNhM0pXbHhZMkJpOUNaclZMT2M4UzhGUThEWQ?oc=5
+- **Source:** Stocktwits
+- **Published:** 2026-09-19T19:26:26+00:00
+
+## AAPL Stock In Focus — Apple, DOJ Discuss Antitrust Settlement As iPhone Maker Seeks To Resolve 2024 Lawsuit - Stocktwits
+
+- **URL:** https://news.google.com/rss/articles/CBMi_AFBVV95cUxQVmdlaXJfaG1TYUJLb2poemsyNHVWcnhvLXBFUy1hR3ZIZE43a2VfNFhtMWZaM0VvZTM3LWJzQlJLYWo4ZHBiMmxoa3hZQTd3TFhvbXhrQjlGTFQ3SVY0dTdBdU5NSDc2bWlFeFZZeXd1RmZSS2FiYzluR1VOZXdzbmM1ZWpfRll6Rk1aYzFDSEg3WC1OaS04OTZHLWJPT2EyUTU1TWd6NjhRdnhkRWlOOWRGZEU4T0JBYkZ3OHZvOGlWdHR6NnpkT20zT2I5MGFHTjRfZ293d2lpOGRoenRDd1VLRU1sVmtsRFc1QTdJLTNNZ21XLTZCVHhCakc?oc=5
+- **Source:** Stocktwits
+- **Published:** 2026-09-19T19:12:10+00:00
+
+## Apple Watch Series 10 GPS 42mm - Thinner Design, Bigger Screen and Sleep Apnea Alerts - AD HOC NEWS
+
+- **URL:** https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRDY4cXVyQ19ZbnZiNTV4QjJvU3F2dWlCNjdpTVlTRDR2R1gxU3BVMklyZkFOWEJPZWptVlRkdFRndjZDV2xVWEkwVnNfM2tzcTZ0a3F2cjdMQ2lYOUtweUFYczNQY0s4enduczdnekx2WjNHeHlISWFYVHlsYXBpd0VyZEdIVmRRZmFYSzZHU3F1OEQ1ZkF5NDNZQ2puX3RUc2NqTlNwT1lKbG1DTWltWW1xQzljaFFjblhGVEdDejhTT2M?oc=5
+- **Source:** AD HOC NEWS
+- **Published:** 2026-09-19T19:07:53+00:00
+
+## Why Did AAPL, FBRX, RTX Stocks Surge To 52-Week Highs Today? - Stocktwits
+
+- **URL:** https://news.google.com/rss/articles/CBMivgFBVV95cUxQX0lqLWlJX0YzYnhVLVFlOHFGS3NaQXhIWERkLTF1dERhTDJTRVRrOXNjazVoTjcwQkQ0aS1Lem5jSHFEdjdycXQxVks3ZGNvTUtqYnRGWFVjLWpiZWszNXdQZnNEU3pHNXQ4RWZfWDVqTk1ZdUx1eTFpWEoyN25UQjU0bVF6YnVSbUVuOG1pdmpHSWdIa29UaDZ1Nl9Rcm9WckVPREJLOUJOVkx1U0xiTFNfYjBQUUZ5QW4tdWJ3?oc=5
+- **Source:** Stocktwits
+- **Published:** 2026-09-19T18:42:23+00:00
+
+## Who plays the final piano chord on ‘A Day in the Life’ by The Beatles? - faroutmagazine.co.uk
+
+- **URL:** https://news.google.com/rss/articles/CBMiiwFBVV95cUxOOEh1dE5GZW1PSHRud09hQW5wRjZnSHFxTW9iYUVyTjR1NFBEc0Y3MGxBanFmNElkQ1RiS3hHTHJDczFRQ29vb2d4TU1jWTJjWmJZNTNIYmpRSnVacFlMdGJOcTd0OE8ySml1TGdMRmxjQUNrZ2JNYld6U3VzVG1HdnVUZkNqYjRTQTM4?oc=5
+- **Source:** faroutmagazine.co.uk
+- **Published:** 2026-09-19T18:07:51+00:00
+
+## Apple Vision Pro 1TB - High Capacity Mixed Reality Headset With 23 Million Pixels - AD HOC NEWS
+
+- **URL:** https://news.google.com/rss/articles/CBMixwFBVV95cUxPaFFvTklMZzNKOHE3b2dIQ2dBZEEzS0hIeVd0M1cxbENmTTAxbUx3NFFTQWJFc015YUdUV28zUjZsS0NGblRrNUJfSnhtb3NrU2tUM18yVFliUVJiVUVoTVV5QjBERkJNRmRWSUwzUm82Zy1kVHFMVzVmY3dYYWpwQ2lVVVZrNlFvTmV1R0ZGMWtsLXItMl9jZHh3X0pwOWZBSEM5bTdJeVU4NGp0Mm9oUzJHVUJlUWo3b05XTC1lN0ZISVhPMlhR?oc=5
+- **Source:** AD HOC NEWS
+- **Published:** 2026-09-19T17:28:39+00:00
+
+## Warren Buffett Leaves Berkshire Hathaway: 3 Rules to Copy the Oracle of Omaha’s Investment Style - Benzinga
+
+- **URL:** https://news.google.com/rss/articles/CBMi8AFBVV95cUxNcjFkVGdiQzlXMFFaZFN5endPS3czSGtOR3ctbTdXVHRTYkxHWEo3NGNuaTBDQVdESGo2Vzk0MkJXTnFkX3JLczU3YU1JcDhpZVdUclRzSnBjM1ZkNy1sX1A3R0Nhcnh3X0gzUmhTWDRUTnhfRndQcWs1SzRSOUFFVzVUeFlHVDVLQV9BNG1qdWFpU2JFRm5ZZXdTR21rcHFTdm91TzNsUDFCWTBWVUIwbmhXWUgzZ280QzBvS09OdmJfZHUwQXZqd19sM3hHS19HVGdpN3EwU05pN2RHQkd2VFpYWmdNUlNrODFXUzhzOS0?oc=5
+- **Source:** Benzinga
+- **Published:** 2026-09-19T17:00:15+00:00
+
+## Coinbase Derivatives Files to List Stock and ETF Perpetual Futures in the US - CryptoRank
+
+- **URL:** https://news.google.com/rss/articles/CBMihgFBVV95cUxPSnh2Rk5lbUt6bEhYWFlhZGRlY3RQekZNLW84TWZVNzZlRXh5Ni1xQjkwbVdkYmdKWkV3MlFuMnBXNmRzSlRUQWVMRzgwcEtOeDNWaU9xNkRkdnRzR010QTJDdktydDZneHNibjdZbHdnc00xZEFiR0JHSS1GaUMzSzdNSExTdw?oc=5
+- **Source:** CryptoRank
+- **Published:** 2026-09-19T16:25:34+00:00
+
+## US Stocks Close: Dow Rises 500 Points, Philadelphia Semiconductor Index Falls Over 4%; Memory, Optical Communication Stocks Extend Losses, Software Stocks Rebound; Apple Hits $5 Trillion Market Cap, SanDisk Falls Below $1,100 Mark - TradingKey
+
+- **URL:** https://news.google.com/rss/articles/CBMi5gFBVV95cUxOMmxxS3ZOTmltbV93MkJianRIOU91X2NaVXJxa0tRWmM4cEZJWGdHUWhVcWNXbUFaa0Z2cjJ6cVc5QkQ1WVI5azNzUDJRM1ZVSWVDU2NnODBYckR4VFQwbVlqT2tZeGstQVJnSVB5MGVucGwyOFdLQnBnWUdmZGs4MTZHTUlvN1hVSVpnZ013V29tZ0l6WXZBMS0wZllCYlUzSGlVal9XckxEeG81dHBMWnNkdks3OWZYSXN2QTlSTHBpRkdrdGhFWmRmMzJzTGQtZ09tR1VJWmktbF9oQ2dzVGxvOFg1Zw?oc=5
+- **Source:** TradingKey
+- **Published:** 2026-09-19T16:14:10+00:00
 
 ## Consumer Tech News (Sep 14-Sep 18): DOE Backs Quantum Computer With Self-Correcting Errors, OpenAI Faces - Benzinga
 
