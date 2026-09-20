@@ -7,9 +7,12 @@ NewsWatch watches the news for any search query you define, tracks new articles,
 
 ## Demo
 
- <img width="800" height="606" alt="demo" src="https://github.com/user-attachments/assets/ad435a65-6d4f-4522-98ec-57b2eb1b1cd4" />
+<!-- <img width="799" height="554" alt="demo" src="https://github.com/user-attachments/assets/18f6abd8-3e78-4781-b9ff-c784e2605179" /> -->
+<p align="center">
+  <img width="799" height="554" alt="demo" src="https://github.com/user-attachments/assets/18f6abd8-3e78-4781-b9ff-c784e2605179" />
+</p>
 
-
+ 
 ## What It Does
 
 - Monitors **multiple search queries** (called *jobs*) independently
