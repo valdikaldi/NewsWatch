@@ -7,8 +7,7 @@ NewsWatch watches the news for any search query you define, tracks new articles,
 
 ## Demo
 
-<video src="./assets/demo.mp4" controls></video>
-
+ <img width="800" height="606" alt="demo" src="https://github.com/user-attachments/assets/ad435a65-6d4f-4522-98ec-57b2eb1b1cd4" />
 
 
 ## What It Does
