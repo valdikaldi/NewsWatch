@@ -60,6 +60,7 @@ def send_email(to: str, subject: str, body: str, html_body: str | None = None ) 
     msg["From"] = username
     msg["To"] = to
     msg["Subject"] = subject
+    
 
     # Plain text is always set first (RFC 2046 order)
     msg.set_content(body)
