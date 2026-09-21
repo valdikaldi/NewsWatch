@@ -90,3 +90,20 @@ Job names must be unique. Each job gets its own folder under `data/`.
 ## Status
 
 Work in progress....
+
+
+## Add Features :
+
+- [ ] Global enrichment setup — store `article_text`, add enrichment step/schema fields, cache models, update email template with fallbacks, process only new articles, truncate text (~5000 chars), and fail soft per feature.
+- [ ] AI Summary — generate a max-5-sentence summary with DistilBART/BART/FLAN-T5, store `ai_summary`, and render under the article title.
+- [ ] “Why This Matters” — prompt FLAN-T5 for one sentence tied to the user query, store `why_it_matters`, and show under the summary.
+- [ ] Sentiment Indicator — run VADER, map compound score to Positive/Neutral/Negative, store label/score, and render a badge without using it as main ranking.
+- [ ] Topic / Category Detection — zero-shot classify with BART-MNLI or use embedding similarity, store top topics, render tags, and cache the model.
+- [ ] Article Type Badge — start rule-based for News/Analysis/Opinion/Interview/Press release/Research, store `article_type`, and render a badge.
+- [ ] Named Entity Recognition — run spaCy `en_core_web_sm`, group PERSON/ORG/GPE entities, store `entities`, and render people/orgs mentioned.
+- [ ] Keyword Extraction — use YAKE with `n=2, top=5`, store `keywords`, and render as tags in the email.
+- [ ] Duplicate / Near-Duplicate Detection — embed with `all-MiniLM-L6-v2`, compare cosine similarity > 0.85, store group/count/sources, and collapse duplicate cards while keeping all links.
+- [ ] Read Time — compute `max(1, round(words / 200))`, store `read_time_minutes`, and render next to article metadata.
+- [ ] Daily AI Digest — compute article/publisher/topic/type counts, pick top 3 stories, and insert a concise briefing before the article list.
+- [ ] Suggested Implementation Order — do read time, sentiment, keywords, article type, NER, AI summary, why-this-matters, topics, duplicates, then daily digest.
+- [ ] GitHub Actions Notes — cache Hugging Face/Torch/spaCy models, prefer small models, set timeout, fail soft, log enrichment errors, truncate inputs, process new articles only, and keep HTML responsive.
