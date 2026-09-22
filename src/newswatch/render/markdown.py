@@ -1,3 +1,8 @@
+
+# =======================================
+# Render articles as markdown 
+# =======================================
+
 from datetime import datetime, timezone
 
 from src.newswatch.models import Article

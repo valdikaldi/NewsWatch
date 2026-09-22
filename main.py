@@ -15,12 +15,10 @@ from src.newswatch.collector import collect_job
 from src.newswatch.config import load_config
 from src.newswatch.mailer import send_email
 from src.newswatch.notifier import mark_sent, should_notify
-from src.newswatch.render import render_markdown
 from src.newswatch.state import load_state, save_state
 from src.newswatch.store import load_articles
 
-from src.newswatch.render_email import render_html_email
-
+from src.newswatch.render import render_html_email, render_markdown
 
 
 def process_job(job, settings) -> dict:
