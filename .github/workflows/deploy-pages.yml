@@ -1,0 +1,59 @@
+name: Deploy Dashboard
+
+on:
+  # Rebuild whenever main receives a push.
+  # This includes the daily data commits from newswatch.yml.
+  push:
+    branches: ["main"]
+
+  # Allow manual trigger from the Actions tab.
+  workflow_dispatch:
+
+# Permissions required for GitHub Pages deployment.
+permissions:
+  contents: read    # checkout the repo
+  pages: write      # deploy to Pages
+  id-token: write   # OIDC authentication for Pages
+
+# Allow only one concurrent deployment.
+# If a new push arrives while a deploy is running, cancel the old one.
+concurrency:
+  group: "pages"
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Install uv
+        uses: astral-sh/setup-uv@v7
+        with:
+          enable-cache: true
+
+      - name: Set up Python
+        run: uv python install
+
+      - name: Install dependencies
+        run: uv sync --locked
+
+      - name: Build dashboard
+        run: uv run python -m generate_site
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
