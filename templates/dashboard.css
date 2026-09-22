@@ -1,0 +1,530 @@
+/* ============================================================
+   NewsWatch Dashboard — Professional Stylesheet
+
+   Structure:
+     1. Theme tokens (light + dark)
+     2. Reset & base
+     3. Page layout
+     4. Site header
+     5. Grid & cards
+     6. Card header (query, options, stats)
+     7. Card body (articles)
+     8. Footer
+     9. Responsive
+   ============================================================ */
+
+
+/* ============================================================
+   1. THEME TOKENS — LIGHT (default)
+   ============================================================ */
+:root {
+  /* Surfaces */
+  --bg:              #f3f4f6;
+  --card-bg:         #ffffff;
+  --card-border:     #e8eaed;
+  --card-radius:     16px;
+
+  /* Text */
+  --text:            #111827;
+  --text-muted:      #6b7280;
+  --text-faint:      #9ca3af;
+
+  /* Lines */
+  --divider:         #e5e7eb;
+
+  /* Shadows */
+  --shadow-sm:       0 1px 2px rgba(17, 24, 39, 0.05);
+  --shadow-md:       0 10px 30px -12px rgba(17, 24, 39, 0.15);
+
+  /* Pills */
+  --pill-bg:         #eef0f3;
+  --pill-text:       #4b5563;
+
+  /* Scrollbar */
+  --scrollbar:       #cbd2dc;
+  --scrollbar-hover: #9aa3b1;
+
+  /* Toggle button */
+  --toggle-bg:       #ffffff;
+  --toggle-border:   #e5e7eb;
+
+  /* Footer */
+  --footer-bg:       #111827;
+  --footer-fg:       #ffffff;
+  --footer-muted:    rgba(255, 255, 255, 0.6);
+}
+
+
+/* ============================================================
+   1b. THEME TOKENS — DARK
+   ============================================================ */
+:root[data-theme="dark"] {
+  --bg:              #0b1220;
+  --card-bg:         #111a2c;
+  --card-border:     #1e293b;
+
+  --text:            #f1f5f9;
+  --text-muted:      #94a3b8;
+  --text-faint:      #64748b;
+
+  --divider:         #1e293b;
+
+  --shadow-sm:       0 1px 2px rgba(0, 0, 0, 0.5);
+  --shadow-md:       0 10px 30px -12px rgba(0, 0, 0, 0.6);
+
+  --pill-bg:         #1e293b;
+  --pill-text:       #cbd5e1;
+
+  --scrollbar:       #334155;
+  --scrollbar-hover: #475569;
+
+  --toggle-bg:       #111a2c;
+  --toggle-border:   #1e293b;
+
+  --footer-bg:       #050810;
+  --footer-fg:       #ffffff;
+  --footer-muted:    rgba(255, 255, 255, 0.5);
+}
+
+
+/* ============================================================
+   2. RESET & BASE
+   ============================================================ */
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  height: 100%;
+}
+
+body {
+  min-height: 100vh;
+  font-family: "Roboto", -apple-system, BlinkMacSystemFont, "Segoe UI", Arial, sans-serif;
+  font-size: 15px;
+  line-height: 1.55;
+  color: var(--text);
+  background: var(--bg);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  transition:
+    background-color 0.25s ease,
+    color 0.25s ease;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+
+/* ============================================================
+   3. PAGE LAYOUT — flex column that fills viewport
+   ============================================================ */
+.page {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  max-width: 1480px;
+  margin: 0 auto;
+  padding: 64px 40px 0;
+}
+
+
+/* ============================================================
+   4. SITE HEADER
+   ============================================================ */
+.site-header {
+  flex: 0 0 auto;
+  position: relative;
+  text-align: center;
+  margin-bottom: 48px;
+}
+
+.site-header h1 {
+  margin: 0 0 10px;
+  font-size: 56px;
+  font-weight: 900;
+  letter-spacing: -0.035em;
+  line-height: 1.05;
+  color: var(--text);
+}
+
+.site-header h1 .emoji {
+  margin-right: 8px;
+  /* Force color rendering for the emoji */
+  font-family: "Apple Color Emoji", "Segoe UI Emoji", "Noto Color Emoji", sans-serif;
+}
+
+.site-header .subtitle {
+  margin: 0 0 20px;
+  font-size: 18px;
+  font-weight: 400;
+  color: var(--text-muted);
+}
+
+.site-header .generated {
+  margin: 0;
+  font-size: 13px;
+  font-weight: 500;
+  color: var(--text-faint);
+}
+
+
+/* Theme toggle button */
+.theme-toggle {
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 46px;
+  height: 46px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0;
+  border: 1px solid var(--toggle-border);
+  border-radius: 12px;
+  background: var(--toggle-bg);
+  color: var(--text-muted);
+  cursor: pointer;
+  transition:
+    transform 0.15s ease,
+    color 0.15s ease,
+    background-color 0.25s ease,
+    border-color 0.25s ease;
+}
+
+.theme-toggle:hover {
+  color: var(--text);
+  transform: translateY(-1px);
+}
+
+.theme-toggle:focus-visible {
+  outline: 2px solid var(--text-muted);
+  outline-offset: 2px;
+}
+
+.theme-toggle svg {
+  width: 20px;
+  height: 20px;
+}
+
+/* Show moon in light mode, sun in dark mode */
+.theme-toggle .icon-sun  { display: none; }
+.theme-toggle .icon-moon { display: block; }
+
+:root[data-theme="dark"] .theme-toggle .icon-sun  { display: block; }
+:root[data-theme="dark"] .theme-toggle .icon-moon { display: none; }
+
+
+/* ============================================================
+   5. GRID & CARDS
+   ============================================================ */
+.grid {
+  flex: 1 1 auto;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(420px, 1fr));
+  grid-auto-rows: minmax(540px, 1fr);
+  gap: 32px;
+  min-height: 0;
+  padding-bottom: 48px;
+}
+
+.card {
+  display: flex;
+  flex-direction: column;
+  min-height: 0;
+  background: var(--card-bg);
+  border: 1px solid var(--card-border);
+  border-radius: var(--card-radius);
+  box-shadow: var(--shadow-sm), var(--shadow-md);
+  overflow: hidden;
+  transition:
+    background-color 0.25s ease,
+    border-color 0.25s ease;
+}
+
+.card-accent {
+  flex: 0 0 auto;
+  height: 4px;
+  background: var(--accent, #2563eb);
+}
+
+
+/* ============================================================
+   6. CARD HEADER
+   ============================================================ */
+.card-header {
+  flex: 0 0 auto;
+  padding: 30px 32px 24px;
+  border-bottom: 1px solid var(--divider);
+}
+
+.card-header .eyebrow {
+  margin-bottom: 10px;
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  color: var(--accent, #2563eb);
+}
+
+.card-header .query {
+  margin: 0 0 22px;
+  font-size: 30px;
+  font-weight: 900;
+  letter-spacing: -0.025em;
+  line-height: 1.15;
+  color: var(--text);
+  word-break: break-word;
+}
+
+/* Search options row */
+.search-options {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 14px 32px;
+  margin: 0 0 22px;
+}
+
+.search-options li {
+  display: inline-flex;
+  align-items: baseline;
+  gap: 8px;
+}
+
+.search-options .k {
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--text-faint);
+}
+
+.search-options .v {
+  font-size: 15px;
+  font-weight: 500;
+  color: var(--text);
+}
+
+/* Stats row */
+.card-stats {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 10px;
+  padding-top: 18px;
+  border-top: 1px solid var(--divider);
+}
+
+.stat-total {
+  margin-right: 6px;
+  font-size: 15px;
+  font-weight: 700;
+  color: var(--text);
+}
+
+.stat-pill {
+  display: inline-block;
+  padding: 5px 12px;
+  border-radius: 999px;
+  background: var(--pill-bg);
+  color: var(--pill-text);
+  font-size: 13px;
+  font-weight: 500;
+}
+
+.stat-pill-muted {
+  opacity: 0.65;
+}
+
+
+/* ============================================================
+   7. CARD BODY — scrollable article list
+   ============================================================ */
+.card-body {
+  flex: 1 1 auto;
+  min-height: 0;
+  overflow-y: auto;
+  padding: 4px 0;
+  scrollbar-width: thin;
+  scrollbar-color: var(--scrollbar) transparent;
+}
+
+.card-body::-webkit-scrollbar {
+  width: 10px;
+}
+
+.card-body::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+.card-body::-webkit-scrollbar-thumb {
+  background: var(--scrollbar);
+  border-radius: 5px;
+  border: 3px solid var(--card-bg);
+  background-clip: padding-box;
+}
+
+.card-body::-webkit-scrollbar-thumb:hover {
+  background: var(--scrollbar-hover);
+  background-clip: padding-box;
+  border: 3px solid var(--card-bg);
+}
+
+/* Article */
+.article {
+  padding: 22px 32px;
+}
+
+/* Visible divider between consecutive articles */
+.article + .article {
+  border-top: 1px solid var(--divider);
+}
+
+.article a {
+  display: block;
+  margin-bottom: 8px;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 1.45;
+  color: var(--text);
+  transition: color 0.15s ease;
+}
+
+.article a:hover {
+  color: var(--accent, #2563eb);
+}
+
+.article .meta {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 6px;
+  font-size: 13px;
+  color: var(--text-muted);
+}
+
+.article .meta .source {
+  font-weight: 700;
+  color: var(--accent, #2563eb);
+}
+
+.article .meta .dot {
+  color: var(--text-faint);
+}
+
+
+/* ============================================================
+   8. FOOTER
+   ============================================================ */
+.site-footer {
+  flex: 0 0 auto;
+  margin: 0 -40px;
+  padding: 56px 40px;
+  background: var(--footer-bg);
+  text-align: center;
+  transition: background-color 0.25s ease;
+}
+
+.footer-mark {
+  margin-bottom: 6px;
+  font-size: 26px;
+  font-weight: 900;
+  letter-spacing: -0.025em;
+  color: var(--footer-fg);
+}
+
+.footer-sub {
+  font-size: 14px;
+  font-weight: 400;
+  color: var(--footer-muted);
+}
+
+
+/* ============================================================
+   9. RESPONSIVE
+   ============================================================ */
+@media (max-width: 900px) {
+  .page {
+    padding: 40px 20px 0;
+  }
+
+  .site-header {
+    margin-bottom: 32px;
+  }
+
+  .site-header h1 {
+    font-size: 40px;
+  }
+
+  .site-header .subtitle {
+    font-size: 16px;
+  }
+
+  .theme-toggle {
+    top: -8px;
+    right: -8px;
+    width: 42px;
+    height: 42px;
+  }
+
+  /* Stack cards vertically; let them size naturally */
+  .grid {
+    grid-template-columns: 1fr;
+    grid-auto-rows: auto;
+    gap: 20px;
+    padding-bottom: 32px;
+  }
+
+  .card-body {
+    max-height: 480px;
+  }
+
+  .card-header {
+    padding: 22px 20px 18px;
+  }
+
+  .card-header .query {
+    font-size: 22px;
+  }
+
+  .search-options {
+    gap: 12px 22px;
+  }
+
+  .search-options .v {
+    font-size: 14px;
+  }
+
+  .article {
+    padding: 20px;
+  }
+
+  .article a {
+    font-size: 15px;
+  }
+
+  .site-footer {
+    margin: 0 -20px;
+    padding: 40px 20px;
+  }
+
+  .footer-mark {
+    font-size: 22px;
+  }
+}
