@@ -15,11 +15,21 @@ and sends periodic email digests — powered by Google News RSS and GitHub Actio
 
 <br><br>
 
-<img width="799" alt="demo" src="https://github.com/user-attachments/assets/18f6abd8-3e78-4781-b9ff-c784e2605179" />
 
 </div>
 
----
+<!-- --- -->
+
+
+## 📧 Email Digest
+
+When new articles arrive, NewsWatch sends a styled HTML email — plain-text fallback included for clients that don't render HTML.
+
+
+<img width="799" alt="demo" src="https://github.com/user-attachments/assets/18f6abd8-3e78-4781-b9ff-c784e2605179" />
+
+The email is generated from `templates/email.mjml` (compiled to `templates/email.html`) and rendered at runtime with Jinja2. MJML handles the email-client compatibility quirks — inline CSS, table-based layout, Outlook workarounds — so the design looks consistent across Gmail, Outlook, and Apple Mail.
+
 
 ## ✨ What It Does
 
