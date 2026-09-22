@@ -30,7 +30,7 @@ When new articles arrive, NewsWatch sends a styled HTML email — plain-text fal
  -->
 
 <div align="center">
-  <img width="700" alt="email digest" src="https://github.com/user-attachments/assets/REPLACE-WITH-YOUR-EMAIL-SCREENSHOT" />
+  <img width="700" alt="email digest" src="https://github.com/user-attachments/assets/18f6abd8-3e78-4781-b9ff-c784e2605179" />
 </div>
 
 The email is generated from `templates/email.mjml` (compiled to `templates/email.html`) and rendered at runtime with Jinja2. MJML handles the email-client compatibility quirks — inline CSS, table-based layout, Outlook workarounds — so the design looks consistent across Gmail, Outlook, and Apple Mail.
