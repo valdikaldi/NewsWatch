@@ -1,92 +1,174 @@
-# NewsWatch
+<div align="center">
 
-Automated news monitoring and alerting.
+# 📰 NewsWatch
 
-NewsWatch watches the news for any search query you define, tracks new articles, and sends periodic email digests. It uses Google News RSS, runs on GitHub Actions, and stores everything as plain files — no database required.
+### Automated news monitoring and alerting
 
+Watches the news for any search query you define, tracks new articles,<br>
+and sends periodic email digests — powered by Google News RSS and GitHub Actions.
 
-## Demo
+<br>
 
-<!-- <img width="799" height="554" alt="demo" src="https://github.com/user-attachments/assets/18f6abd8-3e78-4781-b9ff-c784e2605179" /> -->
-<p align="center">
-  <img width="799" height="554" alt="demo" src="https://github.com/user-attachments/assets/18f6abd8-3e78-4781-b9ff-c784e2605179" />
-</p>
+<a href="https://valdikaldi.github.io/NewsWatch/">
+  <img src="https://img.shields.io/badge/🌐_Live_Dashboard-valdikaldi.github.io-2563eb?style=for-the-badge" alt="Live Dashboard">
+</a>
 
- 
-## What It Does
+<br><br>
+
+<img width="799" alt="demo" src="https://github.com/user-attachments/assets/18f6abd8-3e78-4781-b9ff-c784e2605179" />
+
+</div>
+
+---
+
+## ✨ What It Does
 
 - Monitors **multiple search queries** (called *jobs*) independently
 - Fetches articles from Google News RSS, filtered by locale, site, and recency
 - Deduplicates by URL hash and publication date
 - Keeps the newest 50 articles per job (configurable)
-- Sends email digests on a schedule you control (per day, week, or month)
+- Sends styled HTML email digests on a schedule you control
 - Only emails when there's actually something new
+- Publishes a public dashboard to GitHub Pages
 
-## Project Structure
+---
 
-    newswatch/
-    ├── assets/              Static resources
-    │   ├── locales.csv      Google News locale codes (ceid, hl, gl)
-    │   └── README.md        Source attribution for locales.csv
-    ├── config/
-    │   └── config.yaml      User settings: jobs, interval, email
-    ├── data/                Runtime data (one folder per job)
-    │   └── <job-slug>/
-    │       ├── articles.json    Source of truth — structured article data
-    │       ├── articles.md      Generated — human-readable views
-    │       └── state.json       Program memory (last run, last sent)
-    ├── scratch/             Throwaway test scripts (not shipped)
-    ├── src/newswatch/       Application code
-    │   ├── models.py            Dataclasses (Article, AppState, JobConfig, ...)
-    │   ├── paths.py             All filesystem paths
-    │   ├── config.py            Loads and validates config.yaml
-    │   ├── state.py             Loads/saves state.json + dedupe rule
-    │   ├── store.py             Loads/saves articles.json + trim
-    │   ├── render.py            Renders articles as markdown
-    │   ├── rss_builder.py       Builds Google News RSS URLs
-    │   ├── rss_fetcher.py       Fetches RSS feeds
-    │   ├── parser.py            Converts feed entries to Article objects
-    │   └── collector.py         Orchestrates fetch → dedupe → save per job
-    ├── main.py              Entry point 
-    ├── pyproject.toml       Project metadata and dependencies
-    ├── uv.lock              Locked dependency versions
-    └── TODO.md              Project roadmap
+## 🌐 Live Dashboard
 
-## Setup
+Every monitored query appears on a public page, updated automatically whenever new data arrives:
+
+**https://valdikaldi.github.io/NewsWatch/**
+
+ 
+
+## 📁 Project Structure
+
+ 
+```
+newswatch/
+├── .github/workflows/
+│   ├── newswatch.yml          Daily cron: collect + email
+│   └── deploy-pages.yml       On push: rebuild the dashboard
+├── assets/
+│   ├── locales.csv            Google News locale codes (ceid, hl, gl)
+│   └── README.md              Source attribution
+├── config/
+│   └── config.yaml            User settings: jobs, interval, email
+├── data/
+│   └── <job-slug>/            One folder per job
+│       ├── articles.json      Source of truth — structured article data
+│       ├── articles.md        Generated — human-readable view
+│       └── state.json         Program memory (last run, last sent)
+├── templates/
+│   ├── email.mjml             Email design (source)
+│   ├── email.html             Email design (compiled)
+│   ├── dashboard.html         Dashboard markup
+│   └── dashboard.css          Dashboard styles
+├── src/newswatch/
+│   ├── models.py              Dataclasses
+│   ├── paths.py               Filesystem paths
+│   ├── config.py              Loads and validates config.yaml
+│   ├── state.py               Loads/saves state.json + dedupe rule
+│   ├── store.py               Loads/saves articles.json + trim
+│   ├── rss_builder.py         Builds Google News RSS URLs
+│   ├── rss_fetcher.py         Fetches RSS feeds
+│   ├── parser.py              Converts feed entries to Article objects
+│   ├── collector.py           Orchestrates fetch → dedupe → save per job
+│   ├── notifier.py            Decides whether to send an email
+│   ├── mailer.py              Sends email via SMTP
+│   └── render/
+│       ├── _jinja.py          Shared Jinja2 setup
+│       ├── markdown.py        Renders articles as markdown
+│       ├── email_html.py      Renders the HTML email
+│       └── dashboard.py       Renders the dashboard
+├── main.py                    Entry point: collect → notify → email
+├── generate_site.py           Entry point: build the dashboard
+├── pyproject.toml
+├── uv.lock
+└── TODO.md
+```
+
+---
+
+## ⚙️ Setup
 
 Requires [uv](https://docs.astral.sh/uv/).
 
-    uv sync
+```bash
+uv sync
+```
 
-## Running Locally
+---
 
-The project uses the src-layout, so modules are run as packages:
+## 🚀 Running Locally
 
-    uv run python -m src.newswatch.rss_builder
-    uv run python -m scratch.scratch_test_collector
+Modules are run as packages (src-layout):
 
-Do **not** run scripts directly (e.g. `uv run src/newswatch/rss_builder.py`) —
-the src-layout requires module-style invocation.
+```bash
+uv run python -m main                          # collect + email
+uv run python -m generate_site                 # build the dashboard
+```
 
-## Configuration
+> Do **not** run scripts directly (e.g. `uv run src/newswatch/rss_builder.py`) — the src-layout requires module-style invocation.
+
+## 🔧 Configuration
 
 Edit `config/config.yaml`:
 
-    settings:
-      interval_days: 7
-      email: "you@example.com"
-      max_articles: 50
+```yaml
+settings:
+  interval_days: 7
+  email: "you@example.com"
+  max_articles: 50
 
-    jobs:
-      - name: "Apple News"
-        query: "Apple Inc"
-        exact_match: true
-        include_site: null
-        locale: "US:en"
-        time_range: "7d"
+jobs:
+  - name: "Apple News"
+    query: "Apple Inc"
+    exact_match: true
+    include_site: null
+    locale: "US:en"
+    time_range: "7d"
+
+  - name: "Microsoft News"
+    query: "Microsoft"
+    exact_match: false
+    include_site: null
+    locale: "US:en"
+    time_range: "7d"
+```
+
+**Settings**
+
+| Field | Description |
+|---|---|
+| `interval_days` | How often to email. The collector runs daily regardless — this controls notification frequency only. |
+| `email` | Where digests are sent. |
+| `max_articles` | Maximum articles kept per job. Oldest are dropped when exceeded. |
+
+**Job fields**
+
+| Field | Description |
+|---|---|
+| `name` | Unique label. Used for the dashboard card and the `data/<slug>/` folder. |
+| `query` | Search term sent to Google News. |
+| `exact_match` | `true` wraps the query in quotes for phrase matching. |
+| `include_site` | Restrict results to a domain (e.g. `"bbc.com"`), or `null` for all sites. |
+| `locale` | A `ceid` from `assets/locales.csv` (e.g. `"US:en"`, `"GB:en"`, `"DE:de"`). |
+| `time_range` | Google News `when:` filter — `"1h"`, `"1d"`, `"7d"`, `"1m"`, `"1y"`, or `null` for all time. |
 
 Job names must be unique. Each job gets its own folder under `data/`.
 
+Credentials (`MAIL_USERNAME`, `MAIL_PASSWORD`) live in `.env` locally and in **GitHub repository secrets** when deployed.
+
+---
+
+## 🛠 Tech
+
+Python · [uv](https://docs.astral.sh/uv/) · [feedparser](https://github.com/kurtmckee/feedparser) · [Jinja2](https://jinja.palletsprojects.com/) · [MJML](https://mjml.io/) · GitHub Actions · GitHub Pages
+
+
+
+---
 ## Status
 
 Work in progress....
