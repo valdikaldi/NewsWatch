@@ -2,8 +2,12 @@ name: NewsWatch
  
 on: # [TRIGGERS] when the newswatch program should run        
   schedule:
+    #  5-23/2 =>  "start at hour 5, go up to hour 23, in steps of 2.
+    # Runs at:  05:00, 07:00, 09:00, 11:00, 13:00, 15:00, 17:00, 19:00, 21:00, 23:00 — 10 runs per day.
+    - cron: "0 5-23/2 * * *"
+
     # Every day at 06:00 UTC (07:00/08:00 in Berlin)
-    - cron: "0 6 * * *"
+    # - cron: "0 6 * * *"
     # 0    6    *    *    *
     # │    │    │    │    │
     # │    │    │    │    └── day of week (any)
@@ -15,19 +19,25 @@ on: # [TRIGGERS] when the newswatch program should run
 
   workflow_dispatch:
 
+
 permissions:
-  contents: write
+  contents: write    # commit data back to the repo
+  actions: write     # trigger the deploy-pages workflow
+
+
 
 jobs: # what this workflow does ! 
   run:
-    runs-on: ubuntu-latest # which machine
+    runs-on: ubuntu-24.04 # which machine
 
     steps:  # sequence of commands to ruN
 
         # downloads your repository onto the runner. Without this, the machine is empty.
         # actions/checkout is an official GitHub action. @v4 pins it to a specific major version.
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
+        # uses: actions/checkout@v4
+
 
       - name: Install uv
         uses: astral-sh/setup-uv@v7
@@ -58,12 +68,24 @@ jobs: # what this workflow does !
         # Last but not least commit CHANGES
         # only if there are any changes 
       - name: Commit Changes
-        run: |                                       #<---multi line string! pass all lines together as the shell script
+        id: commit
+        run: |
           git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git config user.email "56283052+valdikaldi@users.noreply.github.com"
           git add data/
-          git diff --staged --quiet || git commit -m "chore: update articles [skip ci]"
-          git push
+          if git diff --staged --quiet; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+          else
+            git commit -m "chore: update articles [skip ci]"
+            git push
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          fi
 
+      - name: Trigger dashboard rebuild
+        if: steps.commit.outputs.changed == 'true'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: gh workflow run deploy-pages.yml
+        
       - name: Summary
         run: echo "NewsWatch completed successfully."
