@@ -1,8 +1,26 @@
 # NewsWatch — Apple News
 
-_Last updated: 2026-09-26T11:06:07.248134+00:00 · 50 articles_
+_Last updated: 2026-09-26T19:03:38.440677+00:00 · 50 articles_
 
 ---
+
+## Apple Inc. (NASDAQ:AAPL) Debuts Foldable Handset As Refreshed iPhone Lineup Reaches Buyers - Kalkine Media
+
+- **URL:** https://news.google.com/rss/articles/CBMiygFBVV95cUxOaVF3bzJyRS1XMndPZWF4bGdQeGNwWlhDTFotSDJBRVBoSkMtOGwtUGREVXQzcEh3WGVUdGFMeXdQQzlqa0R6cTBDdnpzbVMwc19lcVNVRjNFMnJ0NURpMGwzTFpaMHlHWS03NzFJSk9FV3pIVzNxeXVObEI5Ni1sc1lXLXdrUlhWTU14UklpZ29oWWo1TVFUeThQRVRQZk12WmFnTnpQdUNqWmV4TG1mZklWX3pHWjBSb1FWY095WW5DdW95MzZ2Y3Z3?oc=5
+- **Source:** Kalkine Media
+- **Published:** 2026-09-26T15:38:00+00:00
+
+## US jury says Apple owes record $5.7 billion in haptic technology patent case - Reuters
+
+- **URL:** https://news.google.com/rss/articles/CBMiwgFBVV95cUxPOXduWFl4SXl1dlNpaDVMVUdxbENVSGFqV3hFYnl2ZE8yTTRNZVAxZFpwTERQZzExTmg1ZG5IdHFtRjg5cUtGaU1pNndEa0UzMzg1YWJWc203ZnVOajF3MUM2RGhQTllJTXRub05McENSTExBQVhQUm1aYlZIN3RyR2RfN1V4cjZ1bktEVjV4bk5WdFowdVZENlhWOE0wU1Y0T25LRk8tbjBFendGaVhNdlp5aUZNWFM4YUhKdzhNNFFLUQ?oc=5
+- **Source:** Reuters
+- **Published:** 2026-09-26T14:33:34+00:00
+
+## Leaked Apple Code Suggests New HomePod mini Colors and an Unchanged Apple TV 4K Design - AppleMagazine - AppleMagazine
+
+- **URL:** https://news.google.com/rss/articles/CBMidEFVX3lxTE9TdDktMXVPbDZkTU9KSy1XTXNOSkp4NWR4WTZBcGdTSVZWTTk3ZDhTM2ZrdVBXZzZ0WVRwRVhJMWUwaEljb2gxZFI2V2l3Q0hPS0lydkx6ampEVFhKNGtsNXR0RndOSWlsbGxLQXlpS0NSeUhh0gF6QVVfeXFMTnZIM1BHbTN2RmpxMEVkcWljVXZxZVhkUlNJSWVXR1hxUEdxb1lFbmRkcjFsaVF1SUNSRS1Pd2Z1dDhIWXl4bUk1c3l0ZmxVbmlfT2RGQUhrS0VKZXIwZ2hVeHBGbmRmeTRkY1FHZm42T2FtNTRxMG9oamc?oc=5
+- **Source:** AppleMagazine
+- **Published:** 2026-09-26T11:21:45+00:00
 
 ## 10,144 Shares in Apple Inc. $AAPL Bought by Veratis Advisors Inc. - MarketBeat
 
@@ -285,21 +303,3 @@ _Last updated: 2026-09-26T11:06:07.248134+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMiugFBVV95cUxQQXZKbXNYS0ZwTzJvb21RZjFwZHJ0QXJlN2VvRzJjVE11TXY4c0pYUGhuT0lhU01wMFR4VGFfRWhibVdicXVnaHdEampwODZHZ2g2MnZNSDVEWW9Zc0s0UTZnS1hoQ3hGcjRuUHFUSnFCbVg4T3JUWUc2UUVRZGE1RW9NTFJPbzladHFFSU8zVzAxcDM5Q3VycnBBR1ppVHJCVGcxTnhMSmg4YjZtZjJvYzFDdWZIMFFwUnc?oc=5
 - **Source:** TradingView
 - **Published:** 2026-09-25T17:02:00+00:00
-
-## What Is Going on With Qualcomm Stock on Friday? - TradingView
-
-- **URL:** https://news.google.com/rss/articles/CBMiqAFBVV95cUxQYU9RRGVreU9YWE5vM0UzZGRDekxuRHlKWkJrT2ZWMXQ3SkFMT0lHTUlXTU9VaFVXMHdvekZ1UXdISWhfeVIybEtOekdmWHFfNVU1X0tMTXFGWHFYdVAxVnBmNU4yVkRnUG9uUVRlTWxYaHlKRnlaQUZaTVZTZWdpY3R6cS1iT3g0cFNrQnNvcGY1TzlMU0xxVm9PRmJnY3BkOVRWaHQ5S2s?oc=5
-- **Source:** TradingView
-- **Published:** 2026-09-25T17:01:18+00:00
-
-## Apple: Why I'm Betting Against This Valuable Company (Rating Downgrade) (NASDAQ:AAPL) - Seeking Alpha
-
-- **URL:** https://news.google.com/rss/articles/CBMirAFBVV95cUxNSjhxSnV1akE0RG1qQTM5SmNldWFvYlR1OFpPbFFzeWtXYjZ1ZHR5YURaWlRWQXhkNnplU1FleWgtNWRqV1JlUWNyajQ0dEVvWllnQS1kMWtkTlBRNUpzTFRiOEpyb0lWTC10emd6ME1SWUxWeUIyUm1PMTBBLUhKM3lyVG40S0YyOEZETmhueDlGTVhYVG1tRGFvNHFRclNQbVdXTlYzRXcydGZh?oc=5
-- **Source:** Seeking Alpha
-- **Published:** 2026-09-25T14:01:41+00:00
-
-## Apple hit with another lawsuit over AirTag stalking after class action fails - topclassactions.com
-
-- **URL:** https://news.google.com/rss/articles/CBMi1AFBVV95cUxPdDBVcGlRUGNHbUpjUWZWaUlSZnlHb2ZNX045d3pxaUNyWk44MGN1Qk9qS0RNMEp5ellQS0NRV29leGF4SDBxclJ4aVRZZ3Z1aVRfLTNWUUdaMVZUWC1DVnpnLTBlOGlIRTlZR2NIZ1NITmJmUHpmLTBfVGNkZm9VQk9wYmZTYXo0WURTdlBVTzJqTkxacGlWRWJQcGtlLVdjNi1qbWU3N2VJekV0LWE3QkVGdWo0aURFS1NLd1FFTUlidVEyamhDNnAyNGxJai1ZQXF3cA?oc=5
-- **Source:** topclassactions.com
-- **Published:** 2026-09-25T14:01:05+00:00
