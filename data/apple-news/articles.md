@@ -1,8 +1,14 @@
 # NewsWatch — Apple News
 
-_Last updated: 2026-09-26T19:03:38.440677+00:00 · 50 articles_
+_Last updated: 2026-09-26T23:17:44.363535+00:00 · 50 articles_
 
 ---
+
+## Apple owes Taction Technology $5.7B for violating haptics patents - Seeking Alpha
+
+- **URL:** https://news.google.com/rss/articles/CBMinwFBVV95cUxOR3dBWVdHeXkyTWtrRFd2YjBRblBMU00tZmlFaUpoOFV2alJxWWV1SGdIUDBTemtqcF9uVkdBTWg4TktqQXZwVnlVRmRvdlNYWE9xUDJfMTBWcFdVd1FyemJJNTNDcmY1bVd6em5qejFHX0tZazkyWUZTNnFMSGo0NWlDS0lIN0wzZ25wSXpNbWVBRjc2TmYwTDBqejVEcWc?oc=5
+- **Source:** Seeking Alpha
+- **Published:** 2026-09-26T21:31:04+00:00
 
 ## Apple Inc. (NASDAQ:AAPL) Debuts Foldable Handset As Refreshed iPhone Lineup Reaches Buyers - Kalkine Media
 
@@ -297,9 +303,3 @@ _Last updated: 2026-09-26T19:03:38.440677+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMifkFVX3lxTFAzTWJpMzl3NG5TX1h3UjA3N202QXJGX0tfaG5zZ1JIZUZTSHBhZkM2d3diZk9wMHFNNjF4eVphYldWS3VBTm9va0ZBRUVLREt1cXdxeUllRzM4bFNrNEFLcFl4cjRkU200VzZVNW45RGgtdFhPdUU2QWFxRWxwZw?oc=5
 - **Source:** Money.ca
 - **Published:** 2026-09-25T17:02:20+00:00
-
-## Alphabet vs. Apple: Which Consumer AI Tech Stock Has an Edge Now? - TradingView
-
-- **URL:** https://news.google.com/rss/articles/CBMiugFBVV95cUxQQXZKbXNYS0ZwTzJvb21RZjFwZHJ0QXJlN2VvRzJjVE11TXY4c0pYUGhuT0lhU01wMFR4VGFfRWhibVdicXVnaHdEampwODZHZ2g2MnZNSDVEWW9Zc0s0UTZnS1hoQ3hGcjRuUHFUSnFCbVg4T3JUWUc2UUVRZGE1RW9NTFJPbzladHFFSU8zVzAxcDM5Q3VycnBBR1ppVHJCVGcxTnhMSmg4YjZtZjJvYzFDdWZIMFFwUnc?oc=5
-- **Source:** TradingView
-- **Published:** 2026-09-25T17:02:00+00:00
