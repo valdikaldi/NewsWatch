@@ -84,7 +84,8 @@ jobs: # what this workflow does !
       - name: Trigger dashboard rebuild
         if: steps.commit.outputs.changed == 'true'
         env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+            GH_TOKEN: ${{ secrets.PAT_DEPLOY }}   
+          # GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: gh workflow run deploy-pages.yml
         
       - name: Summary
