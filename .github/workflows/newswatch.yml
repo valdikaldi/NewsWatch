@@ -4,7 +4,9 @@ on: # [TRIGGERS] when the newswatch program should run
   schedule:
     #  5-23/2 =>  "start at hour 5, go up to hour 23, in steps of 2.
     # Runs at:  05:00, 07:00, 09:00, 11:00, 13:00, 15:00, 17:00, 19:00, 21:00, 23:00 — 10 runs per day.
-    - cron: "0 5-23/2 * * *"
+    # - cron: "0 5-23/2 * * *"
+    - cron: "0 4-22/2 * * *"   # UTC+1 equivalent germany winter
+
 
     # Every day at 06:00 UTC (07:00/08:00 in Berlin)
     # - cron: "0 6 * * *"
