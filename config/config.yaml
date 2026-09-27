@@ -35,3 +35,24 @@ jobs:
     include_site: null
     locale: "US:en"
     time_range: "1d"
+  
+  - name: "Iceland News"
+    query: "Iceland"
+    exact_match: false
+    include_site: null
+    locale: "US:en"
+    time_range: "1d"
+  
+  - name: "fusion energy News"
+    query: "fusion energy"
+    exact_match: false
+    include_site: null
+    locale: "US:en"
+    time_range: "1d"
+
+  - name: "Oil News"
+    query: "Oil"
+    exact_match: false
+    include_site: null
+    locale: "US:en"
+    time_range: "1d"
