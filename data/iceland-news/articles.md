@@ -1,8 +1,26 @@
 # NewsWatch — Iceland News
 
-_Last updated: 2026-09-27T18:24:01.223693+00:00 · 46 articles_
+_Last updated: 2026-09-27T19:35:07.744660+00:00 · 49 articles_
 
 ---
+
+## Iceland FM Hits Back At Netanyahu Over â€˜Moral Cowardsâ€™ Remark At UN - NDTV
+
+- **URL:** https://news.google.com/rss/articles/CBMiowFBVV95cUxPNVZRZ0RlQ1EzMTZ1aTNadmtfd3ZQZG5jNUdDc19fQXhZU2I0c3NDdkF1VC1aeERVUF95QlNvZHFGcG5UWGdRRHpXOVNMTjh3WE1xQ3NuUWJ2SUNXd2xLVGxONHNDM0tMQ0xwZDdsQ0dSR01UQTV5TDBBS0R2VGxjWUVPZlNFd0p4amZNNldFaThLcTFINUFsRDhtOFlrWktZNE1R?oc=5
+- **Source:** NDTV
+- **Published:** 2026-09-27T19:25:23+00:00
+
+## Walz travels to Denmark, Sweden, Iceland for trade push - kimt.com
+
+- **URL:** https://news.google.com/rss/articles/CBMiyAFBVV95cUxOVlc1Y19pSHBMZVJ5VklzWk5jNkxQTi0wRTgySmV5WTdkNV9UYjRBV3BUNDFnblZ5OWM3VVdGYVd1Rm4xWC1oZE9FUjBaZE10NkFOa05aTk9tdVZNRXVCeXBBdnRULXo2RXhYT0wxSlZBTzdwTU02MWl1VWFIU0dPaDBiVEFUZjRNbVlad0d1by1qNVEtMnVzLW9RQWtxSHJ5NGxTZXZZUEF3T3lESll0UnpBYnh2U0lWUXptSUZ1UVpTVkZLcU54cw?oc=5
+- **Source:** kimt.com
+- **Published:** 2026-09-27T18:44:00+00:00
+
+## ‘MORAL COWARDS ARE THOSE…’: Iceland FM’s Stunning Reply To ‘War Criminal’ Netanyahu | Full Speech - timesofindia.indiatimes.com
+
+- **URL:** https://news.google.com/rss/articles/CBMi_gFBVV95cUxOa3JpRkdKRWZ1Q0kzUzV3a3lnNWhoMFNsaXNFX3NOQTFuaGVDbVkxczUtVTZ1VzdMY19WLXE5eVY0RFVJd182MnlmNHJ5eXBVYjVNQTZaOVptVW41VkFnZTBPa0pjNHEtMkxBa3BwcFpoV0d4TnlkMVNjMFRZYnZNZmZfTi1qbFRKU256ZnBGWFZyVnF6RUZCVU15R0E2OGktcGZlRFFfS2NoMzg5VWlkQWNUazhHLWFfS2ZYUWNUSUk5V1pDX1dOMm4wVWxEZVhlTEM1RFNjLVl2X2ZCemozVVdBS1hPSnFCWWdzbzcyS3NodFB0NTE3WHFkTFRaUdIBgwJBVV95cUxPa3BITmxUQnVCOUN2Q1pkWFRQbEYxSjRBSDl0ck9CMWFBUjg4ZGhndlNaUWY5VDRLeEVYWDVabk9zcmNjaWVRVGJVR0FVdUljY1NCcHAtbVVkczYtM2Q0VUpxaHJ3dmcyTmxCcDZuRW05WXluaFJMVXNTbmlhNjVHNkZTRmhySzNJSzM4aEYxSk5fZTJtYWpheGtYTWU2ZzF4VV9KNjJwbFFyekh1NjRrNnk4bG9NSHZGb1VMMmVVcXl3MFk1ZzZ1d0J1bkhNOUpMb1lZazVnRDd1MHVpLTBLcE5QZ2hvZzhBcmRPcUV6bUpSRURUS0xQNkFmTHNZMEJtWjlz?oc=5
+- **Source:** timesofindia.indiatimes.com
+- **Published:** 2026-09-27T18:34:23+00:00
 
 ## Are Americans Still Welcome in Iceland? - Guide to Iceland
 

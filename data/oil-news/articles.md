@@ -1,8 +1,44 @@
 # NewsWatch — Oil News
 
-_Last updated: 2026-09-27T18:24:03.900413+00:00 · 50 articles_
+_Last updated: 2026-09-27T19:35:08.884998+00:00 · 50 articles_
 
 ---
+
+## BLM oil and gas lease sale in Ohio generates over $11m in revenue - athensindependent.com
+
+- **URL:** https://news.google.com/rss/articles/CBMia0FVX3lxTE1UZy1VWVFvVS1iN0l5c1R6ODAzS2RnWmJrT1hXZnlhZ2NmTEpIOHh0S1hNVG10Qk1zdWVjQWh4bEJHRTN2Y0xXVEdpRVZTYXF6YkVxLXFFbmF1cWJIRkloNnc1cjhoTThMYUtr?oc=5
+- **Source:** athensindependent.com
+- **Published:** 2026-09-27T19:19:25+00:00
+
+## Bessent says Iran will have 'nothing left to trade' within two weeks as oil lifeline dries up - Fox News
+
+- **URL:** https://news.google.com/rss/articles/CBMinwFBVV95cUxOQzhpTnJMY2lqempYZGZfOHVhWkJHUWxWcGlzVEdJOFhkSjU1RG9abmN1MVdqVHFqZ0h2aTdtVklMSHdGdjlRZ2ZHRGFjWnA0bFVNZHBNQXI3dlJTX1EweElzRFEwWjJyaTZkbFQ5VU1NbjFPRmQ1U3dyVkVRT2h3c0UyUjIybXJOa1pyOFh0UlZkV3I3VHc2dVkyenFQaEHSAaQBQVVfeXFMT2hrMWhpZTdibi1pOG5VdDc5VU5fU1ZEQlFXbWN3c2FHUkNiazFzRHZvY0UyeTk2THliMDNVU084bGtIR0M2Tm9UY3ZNMExrNnVXaTRhZkU4R2dtZ2lWVjlKRm5vV3duWGZUX0VaVmZJUVJMcEp2VldtLVFTQzRzckUyNXBaNVgyVVpUYU1wSk1lNFhCejM3RHZ3ZTdaVklfcTJPNko?oc=5
+- **Source:** Fox News
+- **Published:** 2026-09-27T19:12:17+00:00
+
+## Crude oil prices drop on U.S.-Iran talks but St... - Pluang
+
+- **URL:** https://news.google.com/rss/articles/CBMinAFBVV95cUxQcEQ5T0pEYlVwTDdDV3FtN2Y0NTlKN202TlpCejFXcXZzaUJCcThyZXZOMWhjR3k0MWR4b1JZazMtREM2TWNlYS1xRU9CTkJXNmlWd1NPZm5wX3g3MXJJRERiZWJPYV9jalRxOU5XN3c2YVloZFEyYzNkeDM1VEZfSzZ2QXQwQURLa0xjaU5udEdOVWFTS2dlT3VVRGQ?oc=5
+- **Source:** Pluang
+- **Published:** 2026-09-27T18:54:55+00:00
+
+## Oil News: Truce Talk Pressures WTI and Brent as Hormuz Risk Persists - FXEmpire
+
+- **URL:** https://news.google.com/rss/articles/CBMiugFBVV95cUxPWldxX1ZacFhIcTlLVU90MVNTbnJKS3lxaVhhQnVISFo2M1ZzN3RRaWxVeGRKOGR4YmFwb0hkci12NzQ1cnZFYjVmSEYxcVBxVG1pNjBrSGt4aEsyNUN3OThMVVJVa3lLQVlNdWJJS1ZTdC1QeUZNVklJSzNieno1cnU1VDdOUld0VFlheWI3bHNyUmxSOVkyc2tXSkg0TXhBQndPZFhIaEhHYWtWYWswbWpjVVRPWnVNOHc?oc=5
+- **Source:** FXEmpire
+- **Published:** 2026-09-27T18:43:55+00:00
+
+## Tunisia : 8.2% drop in oil production - Africa24 TV
+
+- **URL:** https://news.google.com/rss/articles/CBMiakFVX3lxTE0yLW01ekxYM2NSVmh6S1Y2b3hrMWFWY0R2eUJMUEJ0dnJaV2pyWHozOHA4OXlxdU5PZHFzRERGSkJkYjZBdzJ5andqbXpnUHF0djQyNEFaV0YwUmRoa0dHVEZ5NzBHWEdKZ1E?oc=5
+- **Source:** Africa24 TV
+- **Published:** 2026-09-27T18:43:02+00:00
+
+## Ghalibaf Responds to U.S. Claims About Strait of Hormuz - WANA News Agency
+
+- **URL:** https://news.google.com/rss/articles/CBMif0FVX3lxTE5yeWtJekwxMkt1N055cnJLV3RoMGU0c2FvM01aLWt4T2ZOZEU2UWs5a3IzdWVhOW8yanRLOC04eXp0OTB0Y0pVbWloajRyU1p1d2R5MlZoVWJ1MWpIWURTSTdtdXRfR2JiYnRIbUdwWVBDT1FkOGlOemNRZU9kSG8?oc=5
+- **Source:** WANA News Agency
+- **Published:** 2026-09-27T18:41:10+00:00
 
 ## Pregame Photos: Colts vs. Texans, Week 3 - Colts.com
 
@@ -267,39 +303,3 @@ _Last updated: 2026-09-27T18:24:03.900413+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMitgFBVV95cUxOazBXQ1hMUHFhTW83N2I4N2luak9BMTlSWmpPUUZJQ050NE1hcFBkQXBmQ2NKRC1Kam5sQjFPYVJUOGxDNTJkWXllQzg2Tkp1THF2ZjhEeGVlc1VzLTQ4M3lVMnpyVzdkTDV6b3RLUlBkS2FDbXZucWZwTlVxdEtqc3BYc0FmRmU5TnlaY1FoVEY0UVpSemQwQVg3MXp0TnpjWEtTSkVvYUVlRk1WVjlyTXVLbG9xZw?oc=5
 - **Source:** WSET
 - **Published:** 2026-09-27T12:36:39+00:00
-
-## Petrobras signs oil and gas MoU with Mozambique’s ENH - Ocean Energy Resources
-
-- **URL:** https://news.google.com/rss/articles/CBMinwFBVV95cUxPSVFoOXdiSGdpUVkwbThoWE9jcHhwbTZvdURvWUxpZUtqY2dpN2tTNXh5RWdyNE9GcDQzVnl1YlZpUmFfbjV5OGt3SGdGRGQ4TUFJNDFILVpUUmYzbUF0RktRNGlDSHNwUldiYS03SkNPR09EdDRHWGRiX1JhWkZpemRyOVZWLUNmaEc1RzFHa3pFZDJCcjV6T2R0dWFlbGM?oc=5
-- **Source:** Ocean Energy Resources
-- **Published:** 2026-09-27T12:24:36+00:00
-
-## Sen. Kevin Cramer: American refineries for American oil - Grand Forks Herald
-
-- **URL:** https://news.google.com/rss/articles/CBMipAFBVV95cUxNcGdjcUtGQjZYRWVoRFE1aUFfSVJ6NnlxRFlsUVhFSUhBNFdRRjdhNTAyMnoyMl9pU1RiUHJpUlZNOFBNZDFTX3BhNThyMU1zcHpURFl3d0liaGd5XzFUSHgycDVlaGdUUUNUQ19KblFMajdycFJ4ZGJMdDBoT2hDVjJEVjc4SkFYZFNSVy1qNi14N19TQS1qMXI3bTBmcVp6eU8tOQ?oc=5
-- **Source:** Grand Forks Herald
-- **Published:** 2026-09-27T12:24:13+00:00
-
-## Market ignores yields and oil prices? - Moomoo
-
-- **URL:** https://news.google.com/rss/articles/CBMigAFBVV95cUxPZHoyZWltZ2FjWVNNdGhFQmlhd0xZd0llU2dPTTJIN1l1MTMxOWxRT0RZV2lwQUNjalc2YkxKelF1S25NZlJjcU10VWJYV2RBM2luZHoyM05sY093Q1UxaS1YNmVMaUgycTdZLV90OGVjbDhXQ0lkaGpKQnVRN2JTdw?oc=5
-- **Source:** Moomoo
-- **Published:** 2026-09-27T12:21:49+00:00
-
-## Susan Collins and Angus King Urge Donald Trump to Release Heating Oil Reserve Supplies as Costs Rise - The Maine Wire
-
-- **URL:** https://news.google.com/rss/articles/CBMi1AFBVV95cUxNXy1Dd3NadkUzMUltTHh0LUFITUI5dGVPZ3dtdkx6VUpHU2VDYnFVUkxwb09YMml5bkUxcU1GZ0kwYlBGNzA5aHB4bEVzQWcyQWttLWxUM0FXSnpmanF2cnBCSTctcEFjT2drOXhjWXlrNU5lREVkVHlsSDlxX29sM0h0NlpSdS1DbE00dDc5RXMwZEEyWXAyeGplWTl0ZFhKX2Vpa0R4OGZkMWp3NlpseTdtR29JMENoNUtRZGZ5YUpWTFJYZlkyVnowNzNvX1Z6UVJ6dg?oc=5
-- **Source:** The Maine Wire
-- **Published:** 2026-09-27T12:19:23+00:00
-
-## Crunch time: Fuel price spike squeezes French baguette bakers as heating oil costs soar - ABC News - Breaking News, Latest News and Videos
-
-- **URL:** https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWWo0WTBTVzZ5dHc4YWgwX1o3S29DMXN1YjIyQnYxU0FaZGNxdEpGckZ1VTFweGtqeFdxbzU4U2FEWDFFQkhiMlUxRzhMc3hMcTVLbmRseDlkNFREeTBJX0szQTJuNW50LUZFckhDMVZwWjRJUjNZSU9yN2h4cHk1T2stMjZ3UjRfMXZ3azF6SzRBNlBaWXFlbTh2dWtDUXpCVlhXMDR0MFVlVE3SAbABQVVfeXFMTzUyb05RTllEdGUwNVhhSUo0U1dlM2x3X1ZtMi1zYlRpdDBSWmVva1Ytb2lOS1pyOHhIMFlMcUh0by1iNmZZRVQ2WjV0dEhoTHk2bkZ3NTZCcG5VeXlPZHZKb291SFZtMS1VN3kyZkVWM0dtTkpxeEI5aGhkMnJLcms3YkUwbl9zazZQUkNpLVM4dk1mMl9ad2J4OE1pSlNRNDU5ZEg5Yk1IUjhZc3gwcnI?oc=5
-- **Source:** ABC News - Breaking News, Latest News and Videos
-- **Published:** 2026-09-27T12:19:18+00:00
-
-## Iraq imports petrol through Syria in another US-backed step towards closer ties - thenationalnews.com
-
-- **URL:** https://news.google.com/rss/articles/CBMid0FVX3lxTE0yeFMycGdZUUd5UExtNEJCYzc3SU1yZUVXTkpEdEZrZFNUNmYtRUFnUzdsTzNRUnA2UzIwNFJLLTRNZGtsTVVLMFFmNzJFUktyTmJoU3d1clZKSl9QNWZURV9JODIwdlc0V3VNSV80d2E4VlpfRjh3?oc=5
-- **Source:** thenationalnews.com
-- **Published:** 2026-09-27T12:13:09+00:00

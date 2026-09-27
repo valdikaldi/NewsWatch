@@ -1,8 +1,20 @@
 # NewsWatch — Microsoft News
 
-_Last updated: 2026-09-27T18:24:00.797604+00:00 · 50 articles_
+_Last updated: 2026-09-27T19:35:05.795211+00:00 · 50 articles_
 
 ---
+
+## From the Editor’s Desk: How Microsoft Ends ⭐ - Thurrott.com
+
+- **URL:** https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMnVSbENyOWxiaFVSUFdaZ0h5YUxMQnVGSk1HMEZxT2M4YTU0QzRkOXNqZWVMa2hILW1vUmlnS2lveC1aVlBUQzY2OVQ5SUF1akJsZzFkYzczY0xQVldJU3QxUURBSmMwbnlLd240Q3dwN3JUVkxSb0dJV1F4WDRJS25BWkxtZHRyNEJpandQQWRSOUxyMk83RndxV2dVSktoX3AwTDBjb3Iwclk?oc=5
+- **Source:** Thurrott.com
+- **Published:** 2026-09-27T19:04:08+00:00
+
+## Microsoft pauses the rollout of KB5002907 update because of Office 2016 and 2019 deactivations - BetaNews
+
+- **URL:** https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZHp6OURORl9NV0JBNUFGVTVQRWN1NTFRYzEyZUp0eW1uSmd6ZUFTYzBvVTNrdkhaMkNWQnR6Unlud2RMU2tKWUIta3VXbEw2SUdoUDJIVGl3TFdTM09pbllXbjNHNGFGcG9RNkJtWnJLaDl5NjVsTUc1bEZ3X1B0RnN1bHVLRTV1UEpZT2ZKb1l4Yk1SZVhPVklvcjBBSFZ6ZGFxc2hKQ29mVUpFeUdlSlJEaldESXgzdGJsMUhTWHBlUQ?oc=5
+- **Source:** BetaNews
+- **Published:** 2026-09-27T18:51:59+00:00
 
 ## Microsoft CEO Says “Streamlining” by Xbox Team is “Great to See” in the Wake of Layoffs - GamingBolt
 
@@ -291,15 +303,3 @@ _Last updated: 2026-09-27T18:24:00.797604+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMif0FVX3lxTE0zUXNUS2NqQkhNZXczZW5mMkNRSHZDNm1EUG5UdmhqYkpNNEg5eG9vNXRrLVQxRkxfRW1JeTJneUlRS2FFUUdkc1BVQnlfUW5xRk9tb3diVDkwd05HcWtqUE15RmNjalNYcU1GVnFIT3J3cTJZbElMNkJBdEVPRVnSAYQBQVVfeXFMTm9sdS1mSHl5LS1mSGZYTWVDS2lBeXdjM0xkblNCOHFtQjFQelVZZURvck9UNTBFcDJ2NDVLOEY5QjRjWUpoUVNXN0plX191dEE2amg2VzIzdXFnczVxbnJZOGtsQUJqNGxadXVJTDhYVWQ0ZnlIS3d2cTRQSHY2VVpCQnV4?oc=5
 - **Source:** CyberSecurityNews
 - **Published:** 2026-09-27T05:16:54+00:00
-
-## Microsoft Outlook's new feature will stop you from accidentally sending embarrassing typos to your boss - XDA
-
-- **URL:** https://news.google.com/rss/articles/CBMizwFBVV95cUxPT0NHN3dpbGlTT3ZsWmhDN0ltMGg4M1hoNHU5bFVod0ZuLWdfZ09tUHZSaVVFSkdvYnVQcnBnU3o2bS1SUUtOd2pBUXdhSlM2OHZENDBabTExNllfWEU2RTVkdTAtTUxoblFuVWZwQTE3WmdUaG5xcjhMekdEVk1tdkxNZHhBZnZrdDZ6SzZoTmdmWF8zd1NIOEJhV2tYVEpjeUNOXzJ4UGk5ZEl4WVY3ZHNBOEpYdlRPQXZLZ3BYZnd5SDk4ZVNCc1UtTEhndjA?oc=5
-- **Source:** XDA
-- **Published:** 2026-09-27T04:51:20+00:00
-
-## Despite canning the Copilot+ brand, "most people love" its AI assistant, says Microsoft - XDA
-
-- **URL:** https://news.google.com/rss/articles/CBMitAFBVV95cUxOb1IxNFZTV0RLZXFRaUdhaWtVeENhSURzMnF3bGh6TExJcDJkbXhOMkJnajhoSVZnUFlyZnMwRFpMZVFMZUNXX3daR3c2QThIQThWTDVacDVUSFR6bFlqRnIxU1ZXQi1VbzRlUTRYZ2tNcUZWRFlXdHB0ZEZZeGE3VVBPM1ZsVXJkUWVYUlVHbUNJZUVqQVo1ZlhpOWMwUjJnbW53UVZCR2tqbm80TkRwaWJldHk?oc=5
-- **Source:** XDA
-- **Published:** 2026-09-27T04:20:10+00:00
