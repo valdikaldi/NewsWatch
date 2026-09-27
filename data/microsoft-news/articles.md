@@ -1,8 +1,68 @@
 # NewsWatch — Microsoft News
 
-_Last updated: 2026-09-27T15:01:04.007960+00:00 · 50 articles_
+_Last updated: 2026-09-27T18:24:00.797604+00:00 · 50 articles_
 
 ---
+
+## Microsoft CEO Says “Streamlining” by Xbox Team is “Great to See” in the Wake of Layoffs - GamingBolt
+
+- **URL:** https://news.google.com/rss/articles/CBMiqgFBVV95cUxQLXlVWUtvSU5yaVNFcFNOaVp4V2hURUV4QmszcDR3UFpjcmdYUjhqQUs3VW1RbG9qS09rR0h0eVZfdFE1ZG9xZ3ZsWVpwNlpfSjktV3l1Y0g2OXc3T2twTktrR0xQU2QxV3pCWGZ4MmtYVGpCWTVWNU5VMFNLRmEtM2ZGY2FPSDhVQlZ3SVlXQVdjM2xmYzJ0bFZDcGwweVRXVUEzTUdnWGVoQQ?oc=5
+- **Source:** GamingBolt
+- **Published:** 2026-09-27T18:16:59+00:00
+
+## Microsoft's latest Xbox layoffs have reportedly gutted the Age of Empires studio, cancelling its next game - XDA
+
+- **URL:** https://news.google.com/rss/articles/CBMi0gFBVV95cUxQdGRHbXhDeURGRGRQQW40TWlIUGxsclB0VkM1a1M5RnA1U3VicDVnM3RFQnJxZXlyU29PRDNjQl9rMFRXbVB3NEJjZXpmVzBtWUFWOE45M0lwUE13R3Fqd1Bmd1o2X1hZX3lKV0VfWEpxcXdja01ydHZIbUloUVdFbTM3Qzh1WDEweWpmYXpsTDhkRmhzR3RfOE5aaGFac1hJSVVJTlJyZ2dRdkkyRjl2M3RSSUZjM0ljZWQySTliTzZvdGpKVTRSZW0ybjZ4aVJQeVE?oc=5
+- **Source:** XDA
+- **Published:** 2026-09-27T17:03:51+00:00
+
+## Microsoft releases .NET SDK for AG-UI agent-user interaction protocol - InfoWorld
+
+- **URL:** https://news.google.com/rss/articles/CBMitgFBVV95cUxQZGxsOWlQQ2kxOXhjYWRjVlU4SWFHaElfSmlFNW1VOF8yMEVKQjl5YUVGUS13VzhpeW1rVi14Q0t4QW1QdmptRHByazBhVGNEbWdIQnBhSkoxaTUyRW1ickRLeVNFUkFCSGx4cWxxczBXbV9PdGM4UkZwclVjMUtkb2lReU1EVmowaS1uUEo1cFRPMlVBZ1ZvYkdxVlF5U3pLSUdOd1NkM0lFRVloM2V5U1R4Ujk0dw?oc=5
+- **Source:** InfoWorld
+- **Published:** 2026-09-27T15:54:19+00:00
+
+## Microsoft's AI-driven growth pushes price targe... - pluang.com
+
+- **URL:** https://news.google.com/rss/articles/CBMiogFBVV95cUxQUENtb1JJSS1oZjg5NWR4ek5NMkpzTWREdE5MUVZwUmlmOHRRYlhBcGdhbGVpdXd5VVpyWVBhbWw3WWZGRENvNVFfZzYyOVFlX3NXMXN1SG5WZ0paVVJEM0gtLVNuMmtKVDhINTQycWxoSmNIOHZ1RnQ1b3VORVE2R3ZGdHZRczBpc2FEREQxSW9hUkVNNXo4SHNFcUxwSll5blE?oc=5
+- **Source:** pluang.com
+- **Published:** 2026-09-27T15:44:36+00:00
+
+## Microsoft's Copilot Now 24/7 AI Work Operating System - 조선일보
+
+- **URL:** https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbGJyM05kbGZCczktbzlZdk54NHEyRWV3M0x3MThQbWxvaGstLTMxaFZzWGhiUGFFczdETHd6NldYeU4xQ0JhSllhQ09RZ1hySTVHZTc5WURuVFVtSVE0T2lxUm0zV2pkU0xiTjdLYjg5bFlBblk0Zm5UU2YwdEFEbzlNcWtfalNC?oc=5
+- **Source:** 조선일보
+- **Published:** 2026-09-27T15:40:05+00:00
+
+## Microsoft’s AI Investment Could Pay Off for Years. Here’s My Price Target - Yahoo Finance
+
+- **URL:** https://news.google.com/rss/articles/CBMingFBVV95cUxNNkdtd1pvSllLczBUQzhWMjVXWlFPTXhaaXYxM2tZY2F0RnVWbE4tRVl6T04tWUo2VUx6TWdDYnlpblFMdlhuX3NvNEdUemFqWUw2bDcwOHUzdXh5Q3cxYTYtbXNkdUxlcWJOZjZJeXNqbUFzN2JGSTRmenBIMDYxMzlxSy1ENUY0S01nX2JNOXVwc3luTG5rX050akZEUQ?oc=5
+- **Source:** Yahoo Finance
+- **Published:** 2026-09-27T15:30:44+00:00
+
+## Microsoft’s AI Investment Could Pay Off for Years. Here’s My Price Target - 24/7 Wall St.
+
+- **URL:** https://news.google.com/rss/articles/CBMitAFBVV95cUxQbnZJV3FQWnkxQmQ2Qy1BN0c4MVNLcnY5SDM5NnZtVDFXbHhRYVdYSkhiT25TN05adnh1RmtVS0VrQUVidDFqOFlMamdUc0I1eEZ5NUJNNDROeTN2Zzl5QktHc2M0UDJZWWM3VER4YXdTMXVVdkhtdDRsS01UeV9PNHdNUkZQLUd1bzJiQ1p5cnBtc2pFalRrRDNfRjJPV19nRzNLWHY0SVNpY0RkaS1wbWxqeEc?oc=5
+- **Source:** 24/7 Wall St.
+- **Published:** 2026-09-27T15:30:00+00:00
+
+## Bill Gates says global AI framework ‘more difficult’ to create than Cold War nuclear limitations - Anadolu Ajansı
+
+- **URL:** https://news.google.com/rss/articles/CBMi3wFBVV95cUxQSDFteWNDc2kzZXV4UWRaaGFLRWNGcjd5Z0w0WlF3Y05KSXFkQWlReGx2ZUFrTnVpTU0wV1V6eGhqdTRqdENBa1p4aEtEZWduRUZEb1BEbHplNjQ4UEhMOEJ0cGlxdVF0MV9jLTJDanZ3blF0U2ZXRTFfcThPR1Nta2VtVEhJcm4xRGlKV00yUTRHdkJGbVhzdGtCWjFncFhlUDZLQ3ZfZ3ZfckE4M2NtdVduMEI2THM3cWZDX0VFVFpJQ1ljSzhxaDFXTHlDdS1TeFBCX1ZxYU9nTVRyOWVR?oc=5
+- **Source:** Anadolu Ajansı
+- **Published:** 2026-09-27T15:26:48+00:00
+
+## Evlar Beat Maker Studio - Music Maker & Drum Machine – Безкоштовне завантаження та інсталяція у Windows - Microsoft
+
+- **URL:** https://news.google.com/rss/articles/CBMimwFBVV95cUxNREJBV0dpVC1yVFNMajVPT29WeVAzdkpiYmpBS0Jra2YydUFaeUhWbUc1SlZ6TDM5ZEpJT1dfY1Jyc181ZjNpblRJRFJvY285aFpoNmdVQ1pPWmFPZVpzLUV0RHBfOFk1dEZzcG1DS0ZPMWVOZ1lrYXpwUURKS095Tktxc0t3d3ZLQ1ZQTWZldDNaN2FxUDRZeEV6OA?oc=5
+- **Source:** Microsoft
+- **Published:** 2026-09-27T15:15:52+00:00
+
+## Microsoft and Chevron Sign 20-Year Power Deal For Texas Data Center - EnergyNow.com
+
+- **URL:** https://news.google.com/rss/articles/CBMinwFBVV95cUxQNmtOMnRJVnZpV0VpVE1FdDZhSGJtLWtoY0Q0ODhXaVpfdzBmQU16X3A3MUw5TEo2T0VoRTBwZXlvX19kLXcyMFVXUE9yNGpxekRWcG4wOFQzYVJiMHJVWTEtY0JiOVhyeXlhaS1EX1ZaRDhPN1Q4S2tCOTlNT216eVl5WnhBeFpNa2RDOVBhWk1CdElYMWZ6eHZqSFBjN1k?oc=5
+- **Source:** EnergyNow.com
+- **Published:** 2026-09-27T15:08:15+00:00
 
 ## Microsoft Excel can now store multiple values in a single cell - Tech Edition
 
@@ -243,63 +303,3 @@ _Last updated: 2026-09-27T15:01:04.007960+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMitAFBVV95cUxOb1IxNFZTV0RLZXFRaUdhaWtVeENhSURzMnF3bGh6TExJcDJkbXhOMkJnajhoSVZnUFlyZnMwRFpMZVFMZUNXX3daR3c2QThIQThWTDVacDVUSFR6bFlqRnIxU1ZXQi1VbzRlUTRYZ2tNcUZWRFlXdHB0ZEZZeGE3VVBPM1ZsVXJkUWVYUlVHbUNJZUVqQVo1ZlhpOWMwUjJnbW53UVZCR2tqbm80TkRwaWJldHk?oc=5
 - **Source:** XDA
 - **Published:** 2026-09-27T04:20:10+00:00
-
-## 3 Cloud And AI Stocks Retail Investors Are Watching After Microsoft Copilot Expansion - Yahoo Finance
-
-- **URL:** https://news.google.com/rss/articles/CBMikgFBVV95cUxQalpkbktjdTVXaWxiNzBkQS10SHNWTVRxZk1LTzBDUFdSZHl0WFR0enpJemx1S2hHanRXN1ZRZVlKajh2ZXhfMGdGYWlnQ3lJUkR6aTRXYkQxQ21yQUdlS1hPMjJtWkNrZFk1cTh5cGdSb3VjaGx6UGMwMXZXeTJXR1NXY1pTUDlTbE9GMGxEUEpCQQ?oc=5
-- **Source:** Yahoo Finance
-- **Published:** 2026-09-27T04:16:00+00:00
-
-## Last chance: Get Microsoft Office for $33 - Mashable
-
-- **URL:** https://news.google.com/rss/articles/CBMingFBVV95cUxPUkpSN0FpY1pvWVp5b19UU1hEQi0zZ1oxc20wc0FBQnVtUU9icy03eGJqYUExZk42R2VXQWQ3eXA1ZmdjU3Q0RC1abVY5OGFGdDVZMUlWY0REcE8tR3ROa1dGNTNlZHp5WkIxajlINEF6cDFTdU4xUWwxQS1KUnh2M0hsbFByOVIzdGtlNmRTenhjb0swZDNlSnE1OFNaUQ?oc=5
-- **Source:** Mashable
-- **Published:** 2026-09-27T04:14:54+00:00
-
-## Top Places to Register Microsoft Email Accounts - timesdaily.com
-
-- **URL:** https://news.google.com/rss/articles/CBMivwFBVV95cUxQc28tcC1xa0JBd1hvUmxlRU42bXNVWEZ2ZGNjR0xrWmoyQmNsOTFFa1QwN0JLYm1nWTRKSy02WjZiTEY0ODRwc3JHNlBHdnN0ZWRzOEhVLWpCbEYyOW5scGVJZUhoWFBLWC1ZTzJTUlNKaTZ6dlpjNU1lUEh0ZGVwSk03Qk5xT1RseDZ2NlBfM21raUs1M3J3WDZZUlJJLUl6YmxuRzJzUTRxZ1UxQ0xkdi0weTA2bGFkMTM1VkVaYw?oc=5
-- **Source:** timesdaily.com
-- **Published:** 2026-09-27T03:53:39+00:00
-
-## Constellation Energy (CEG) Following The Microsoft Deal Still Looks Undervalued - simplywall.st
-
-- **URL:** https://news.google.com/rss/articles/CBMi1AFBVV95cUxPYmJDRDIzTVZYZHpEU1hoQnRhejVxWVRISld4cnd4UmNKNzhPeDBJU1pFRFc5SXgxTVplY0pLMUFxRHpkV09qUHRZdzhLbVJFQlA3Q0hVZmVQTW9FeUdRMmVyX1hhMXNVWExIbW0wdFRUbm5pSFhRY0Znb1RQM2pEM0pMWEZCa3FZLWlwc0xMekJ5dWV1SUI2TGpTRzltWXZ6Z0dINS1TQW9LQlR3d1BzOEZybmhFeWZIMEVZVm83SjE4MGlpLVdPN3RhOTltVnlySlhIb9IB2gFBVV95cUxPNFloRVUwUWJOQURPTlIyMjM4dHJkUWFUWUE4TkNQaHV6QXVWdExxeUZRcG8wLUxEdUtMTmpKQkJwTUp4R3VjWUY5ZVBERldHdHpUdHpqR3hXaFdPejFqQXo2RUJMWUF3UzR2c25Bd3VSMUJZU0h2eE9TMmd1bEp2dTVacU8xOF9xNEJ4WExYRUVzT2tqR2gxWjVjdFhpOEFqankwSHl1S0pTLVptM0tlb2RxZEd4RURmSkU4U1YzZmhZT3ZXWnlhOWdxeVZVSXV6dDVKRUtjMDNGQQ?oc=5
-- **Source:** simplywall.st
-- **Published:** 2026-09-27T02:52:01+00:00
-
-## Microsoft (MSFT) Surged 8% After Earnings - Azure Hit 43%, Copilot 30M Seats, Capex Steady - tradingkey.com
-
-- **URL:** https://news.google.com/rss/articles/CBMi1gFBVV95cUxPaF9pM0tpSHRxU3cyUjR3cng0bElLN09DQlR0QmJLZkptZ3FSUDQwZG9BR3lCdGtyckdjenRQYjR3V2pFdFZsSjJ5aldIM1RiTXFDZjlzTy1XckdramlEZ0pSSmpNdG1jbktESU9JR25wVWQycHNWVnIxY183blRURzU2Q0l0SHlwcXRQNW9xdmcwRkJWWFlzeVBNVUpIcFYyVWVWQWxUc0lWTVpGVE5LejExUjJfcUVBT0NMel96ckpyWDVuSUdXX0FpLUlmekhRTi1YSUpB?oc=5
-- **Source:** tradingkey.com
-- **Published:** 2026-09-27T02:01:00+00:00
-
-## Microsoft Unveils Copilot as AI OS for Enterprise Workflows - 조선일보
-
-- **URL:** https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZUNXQ3kxbUxINFl6cGpsbXpiOW9SN09XbkRnNTJEOGszMGR0RkE2SGxzcXY4N3pfaktFSzcyN09SNkhTd19vb3RRMlQ1ZDI2QW9aS2VUSnkwdFN6X2RmeXczMDdVT2JTSEFEbHU0SXc3eGtPdUFVb18zemExT0FOLUYzT2k3bVFm?oc=5
-- **Source:** 조선일보
-- **Published:** 2026-09-27T01:34:05+00:00
-
-## Microsoft (MSFT) Q4 FY2026 Earnings Preview: $87.7B Revenue, Azure 40%, FY2027 Capex $255-260B - tradingkey.com
-
-- **URL:** https://news.google.com/rss/articles/CBMi0AFBVV95cUxPT2M0bHI1V2FiTVJMUTNtUHpkNFQ2a2RKUUtHSTZ3NnphY1lqLWU1MEJacTZKNW1XNXZMZlUyU24ydzZ1dUlJdUxzV3ZhNUdYamhib1pqTFJycnh3TDZSRUFHdVc2WXpPS2d4Q0xHYXYzMDVnZW1hWXRpUWc2aFpfYm44MkVCUHU2UjNXVVpZbGZ6SE0wUUJZdFVTNzZtX284OXRsd1FLY2FDYzRVbnNfU1I2ZHVHc3FOTmxxdU9hQTVTYzhJREdwM0ZMRlZGS0VP?oc=5
-- **Source:** tradingkey.com
-- **Published:** 2026-09-27T01:19:40+00:00
-
-## Road Dash – Бесплатно преземање и играње на Windows - Microsoft
-
-- **URL:** https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBCRDJVbE1FclNIWTdtS2ZseDBReGx0blFOVVFiWkRPV2E0QmFKR2ktZWZQVVBYNFdDV1Y4dzZlZVdpdnU0SmROVlZJWm5OVjZjbGhFYW9XenZ5eHRldnozaUxzbktUUlE?oc=5
-- **Source:** Microsoft
-- **Published:** 2026-09-27T00:56:11+00:00
-
-## Microsoft (NASDAQ: MSFT) Consolidates Copilot Into Single Enterprise AI Platform With Flexible Pricing - foreignpolicyjournal.com
-
-- **URL:** https://news.google.com/rss/articles/CBMi4gFBVV95cUxQZkxGdzc3bmo4dllQSllpZk5NOUF1X080MFg1VEx4dTBDTjZYMm04d3A2Y0xfRFhYenoxdzJjUHVMZDA4ZEM4T293YVRTME9PdHp3SXMtQkVuUTRSTUozbmhMazFTWC1HcUZyUGVvTmhUemJxMWIzWUxWd0VCajMyYWxFQm9Zem15OExub091TmJCMUJ4U3d1eUJ3RUhnZ3dVWFU2ZlhtdUUwYW9yZWJtTEdtR2VuekV2aGdnbHkxQ0MyRG9iNTdRcW9SRXBJS3JHTnpUdU9FRVN1LW1tUzlzYUJn?oc=5
-- **Source:** foreignpolicyjournal.com
-- **Published:** 2026-09-27T00:55:00+00:00
-
-## MSFT Stock Gains After Microsoft Grows India Cloud Footprint In Battle With Google Cloud, AWS - Stocktwits
-
-- **URL:** https://news.google.com/rss/articles/CBMi2AFBVV95cUxQdE9IbEFXQ0RYT2hKYmM0bG96cmpIQ2wwUUFDRkJITzAxdHZxUE84Mi1Kc0xOc29vdmJ2YWVabzR1dV96Qk9mVXBSZEFaQ3lORVJSZTlwUlNndE9rR0dSYnVmaW1VbUdtdXFvYnNfNGV2VEI2Q1JOaUtwUXZzUmJobG4ycnp5MVVjdVl0QU8tcE1YbGh1TFFCZVkzUHhNbjNkeWNHS3pPdUJDckZEQjBXc0lfRHpuVEg2YnYyWGM1TUx5MVhmb2tqZW1oeG9JdHN2dnJBV0pBZmM?oc=5
-- **Source:** Stocktwits
-- **Published:** 2026-09-27T00:25:20+00:00
