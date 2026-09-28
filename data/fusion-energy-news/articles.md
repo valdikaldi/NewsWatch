@@ -1,8 +1,140 @@
 # NewsWatch — fusion energy News
 
-_Last updated: 2026-09-28T10:39:33.210415+00:00 · 33 articles_
+_Last updated: 2026-09-28T19:21:18.721630+00:00 · 50 articles_
 
 ---
+
+## Daedal ups fusion measurement infrastructure - Nuclear Engineering International
+
+- **URL:** https://news.google.com/rss/articles/CBMihAFBVV95cUxNNG9ZdXZHRUtZNDdMeDQ4ZUtUazh6enMzTG9HbmVPR2dTR0FjdUQ4d0RwZ24xdjhFQ0dfSFJvWHljVEczQWVHd2xGX2NoT19uLWZkdExQNWZDV1o2NjBBbXQ4LVZIYTgzVzRZYWkzWkFPekJZR3RNZE5iRXp6MzJoTXFZajc?oc=5
+- **Source:** Nuclear Engineering International
+- **Published:** 2026-09-28T18:12:15+00:00
+
+## Bam and Giannis Bring Dragon Ball Energy to Miami Heat Media Day - The Source Magazine
+
+- **URL:** https://news.google.com/rss/articles/CBMinwFBVV95cUxPcUUydlpjQ1lQb0ZJUDNCRG85YkxVS3dReGt5Y2VBZ0NXUFhfUHduTmh1ZE9Gc0ZGUUdtLU43ZGdJRGtzZHhMNVlrQzVLdmY1Wk9SMENWMi1yTUkyaGR2b1N4VjcydWpRd0dSZ0VDWlNkTzNwcFVQbFVvbHk0bnZZM1l1ejNjRVFERkdSSS1Id3dVaFpOUmtlWGVoTTREaTg?oc=5
+- **Source:** The Source Magazine
+- **Published:** 2026-09-28T17:11:15+00:00
+
+## Refinyx Acquires Northvolt's 134-Patent Battery Recycling Technology With Qarlbo Energy - energynews.pro
+
+- **URL:** https://news.google.com/rss/articles/CBMisgFBVV95cUxPeTFHNTQ2Yy1RbDB5VkZvXzNiVC1sdklycDhEV0xGUTNIZEs5dDNHZGZqcmhIRkVndmFoTmpRVUU5bWhpVlUzN3RsVEpBcXNBREt4M2FHY3FUeWVLdVY1WDcxMUpaaFB5TTUzZlhFT3NaMkVTcko3MmFtamZzTU5vd0hISXFVbHM3cjhwbXNudWU3WUlVbnRHZTk1Q2FSZ1NiOG5yeW04eEsxdEs0U2gyV3ZR?oc=5
+- **Source:** energynews.pro
+- **Published:** 2026-09-28T16:37:08+00:00
+
+## Research, engineering and industry converge - ITER
+
+- **URL:** https://news.google.com/rss/articles/CBMif0FVX3lxTE5URUo4VzREOFc0V2o2b2dsNXE4SEt5WERERnRyMzljVWVqbHJxOFJjLU54dnlwVk9pZGZzNjlRdkhmbHBYeXNJaGg4ZW5ybDFwX0RDaUVtQWtqekwzYlg2M2pmOEdkUkVyLTdRTk4xanFscUFhcTdwT1BhLXZmSEU?oc=5
+- **Source:** ITER
+- **Published:** 2026-09-28T16:35:03+00:00
+
+## ITER test facility earns international accreditation - ITER
+
+- **URL:** https://news.google.com/rss/articles/CBMijAFBVV95cUxQVTJhaWdCVER4Y042UEk3dW1tSnBzMzNrVTE1V3JxSXRFRWVuaTdzUm1zTXJZZDBkT05tMGNSb3lIenVQU3AxdjVEaFZfb0RUSGlKZG5lLVYzZUloSUFDS2Z2cEZCbWdwSzh2Rk9rNWtnNEVYNVdNVEJRdHR1a09mNmxhNGhsQTFueVFYbQ?oc=5
+- **Source:** ITER
+- **Published:** 2026-09-28T16:35:02+00:00
+
+## UK aims to build on fusion research record to establish industrial base - World Nuclear News
+
+- **URL:** https://news.google.com/rss/articles/CBMitgFBVV95cUxNWlhCQ0pHZHNOU3RkOVN3VG5BbTlvMjF0NGRSTjhvaENyMDBKVVlpU05HZkg3YVlvUDlCRkhETUIwdDNPN1JWX1FEdlhtaC1kdndpV2pLczB5RFpjOVlfWWpDU01RX2RwQWtmMmFlaDl1b2x1eGx2WnhBTFpveGdlSUV4QVhRMWduQVBpTG1OOWNJVnVLbUpYZGlQOTV2aU02TUhtbGcwSDBPVWMwUG02TnZvTUxHdw?oc=5
+- **Source:** World Nuclear News
+- **Published:** 2026-09-28T16:27:52+00:00
+
+## Democrats request information from NRC, Nieh over regulatory overhaul - American Nuclear Society -- ANS
+
+- **URL:** https://news.google.com/rss/articles/CBMiqwFBVV95cUxNajQ4NzZZMDdxVEw3MEpTT2R1a244a3p5QkF0RER6VFh0YW0yY2EtNDRweGEtM24yN0s3bWFWaTRubkF3bmdMeFNGaVpDbFZWSGxpVU5QcWgyZjNoUTV5eEFMTXdVeXZOQWtxdXRXTUUzaEJ0VUR6dWVYbDk0ZFdqa0s5WG1pajZicFZLcG02UmphZnBfa1RKR1BqNlpkWUNEckwxY0JoMG82N1E?oc=5
+- **Source:** American Nuclear Society -- ANS
+- **Published:** 2026-09-28T16:10:28+00:00
+
+## CFS' Brandon Sorbom and Helion’s David Kirtley join Disrupt 2026 - TechCrunch
+
+- **URL:** https://news.google.com/rss/articles/CBMi8wFBVV95cUxNZGNxaE5EZk85amxkRzN5VkNfd0F4US1HbUNMNkRrM0F5ZHpaUTI1c1NybDU2UWFmOGFELVZrZkpJY3pDQ3BKM0FWSENuQzZkYUN0MGwtRnJMQjNONFNfVjItREp0cTR5SGdfb0dWXzNTa0I3M3hUTmZONFFaMU5JdDFaM1FTMkRRM0xUWmVHckwteUJyd1dUbmlmZ0FLdFlCWVpsYUJWb3VqSm96emZsOU0tZmpWRDNlYlJSTXVUeHFmOWpoMGZQbl9BSndzdU5iWFdualBDWWt3SnNBN0Z0dThkdWdxRmNpMEdOSk02dG1UTEk?oc=5
+- **Source:** TechCrunch
+- **Published:** 2026-09-28T15:00:00+00:00
+
+## Standardizing analysis of energy technologies - MIT Energy Initiative
+
+- **URL:** https://news.google.com/rss/articles/CBMilwFBVV95cUxOekkzOVIySWktOExDbHEzTTdJX1JyVnU2b1lpcVR1c3dNZFZJbUNvZ3Z5T2RUYjhLNWlGQ3RFNkI2NkxjUkhYWGFvUm1PSVN5WTljLU85aDhjM1djS0REc0pkeUVZUjZkNWxieDRLZmdxT1VwcVhCQk1xV2p5SEZqOW1hVHZ2UUtxNFF3S1Z5RFBkQWdQTkp3?oc=5
+- **Source:** MIT Energy Initiative
+- **Published:** 2026-09-28T14:45:17+00:00
+
+## NN Asks: How can the nuclear industry ensure trust in AI-driven decisions? - American Nuclear Society -- ANS
+
+- **URL:** https://news.google.com/rss/articles/CBMisgFBVV95cUxNUkpzd21qeGc4VXd1Xy1TQkxPUEVvaHAxV1pxYmhTTzdHT1NSaVJCOWNlM25zQ1pRQlBDVkxIWWQyQmk5RXhLYmJvZDhsZkhibzdQMGJLVnEyeG9vZ1RYc2Z4NlQ0RUdJQU9JSkI4ZEZtWWt3SElDZHJUY1NmVjhtcUtnN3NRY1oyMlpWOFFrQklzOC0zS1JmNG9tMVF1SG9QR01fUFBYdHQ3NE41dXJYbGNB?oc=5
+- **Source:** American Nuclear Society -- ANS
+- **Published:** 2026-09-28T14:35:30+00:00
+
+## THE WEEK OF SEPT 28, 2026 - AIP.ORG
+
+- **URL:** https://news.google.com/rss/articles/CBMidkFVX3lxTE9EREZ4UENLdnQ4MUNpUUhMTDR6Qy01Wlg5X29PQmxGYlBFQm9JbHpYTWJRdW1lVjRFWkI0QmhENTkyX1JuSE5nLWNONGRIT0xDVEQ5bzZRbjFlVGhQOHFvZ1FWZzVvV0Y0Vkw5N0FtRDNRQ2ZhMXc?oc=5
+- **Source:** AIP.ORG
+- **Published:** 2026-09-28T14:24:29+00:00
+
+## Tokio Marine GX builds nine-partner ecosystem one year after launch - Insurance Business
+
+- **URL:** https://news.google.com/rss/articles/CBMi0wFBVV95cUxPVGxQOFBFOHQ2REluMHhXR3ZmUmcwSURFaUJHTktNeEx1cXB3WkxLNFF0RE5YVlcxdENJd2Nxd0puSlo0NEV1bHI0d19RVWRBWkhHWE1XMzRlZ3lXRjJnclhIbTFHQlFjUHgydXZ1c3RDRDlNZExRT1FqVk1BdkZmREd1ejJwMDVNS0xqMk5zeFg1cUZWcmpzekhpTG1Yc0lYTVBEcC1GSW8ySktKay16aXBhUm5aanNZc0ZnUnlxNUpMN0ZKcjc4RzJlVGN3eW5MVjJR?oc=5
+- **Source:** Insurance Business
+- **Published:** 2026-09-28T14:20:33+00:00
+
+## Daedal Systems Secures $4.0 Million to Standardize Fusion Plasma Diagnostics - TipRanks
+
+- **URL:** https://news.google.com/rss/articles/CBMiwAFBVV95cUxPaExFUnFlTkZHd3dBcUJVWjRjb2l1bEp2cEUwbUdENDY2SHRWOUFXMUxiSmk3eGN1YzlseTE4ckRhXzV3RU9KY3NNYzY4RGxVLWpNV0dxenJVUXp0QTJWbHkwcVZoeTNtODVMeEIxLUdGNXJZMk5SdlNVYmRKQ2xOMTFPeTJBeDNjVVpwN2NUdWlkYkpIaUQtTF9fSndiajJvZjBOVUoxa0FIOVgxVzVQQ0FZMFBXUlVGcFMwcjJhSVM?oc=5
+- **Source:** TipRanks
+- **Published:** 2026-09-28T14:16:41+00:00
+
+## UKAEA & the PPPL partner for advanced fusion supercomputing - MEM Magazine
+
+- **URL:** https://news.google.com/rss/articles/CBMirwFBVV95cUxQNUEydEtFZVdEa0lhQkZUa2V1S05ZMmlPWHRpMHVKUkRHYmhuQ1VVb3pVb29PdnFvZmJyVldwNVBlMUhxLW93azRZaHNRa1V0NGhzbW9GTFB5NV9XbUttcEF0bFZ2QTlTRGI4TVF2dnhFUmNzNmFFM2pRQXlWelRyZTFtZU1QdmlJTXNkWmhHNm9UQThtenlmY1ZyZXlBbzVBZUlkN0ptNFVxNXEyZkpZ?oc=5
+- **Source:** MEM Magazine
+- **Published:** 2026-09-28T13:52:10+00:00
+
+## Seattle-area Helion softens its ambitious fusion timeline - axios.com
+
+- **URL:** https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTmtYM3JxbUV4aDdSU2tEYUJ3NVB0UWRvb0JtRmtfNG1mUWpYYno1NndKZTBpNTFGbmpNMl9pb3hxSEJuRmlXeWRxRjhNWmx4MHRxa0RRNU1pbEhJWWpCR0xKV3hkMnd4V2NEZE1jM2Nja3FoVVRhWlEyUGh2dk9wMFNxYU5kUGg2MHJ6Q05icGJZX2d3ZDd3dUpYcExKT3ZDZzhZLU0zcTRnSUU?oc=5
+- **Source:** axios.com
+- **Published:** 2026-09-28T13:32:46+00:00
+
+## China Completes Major Superconducting Magnet for Fusion Project - Sada Elbalad English
+
+- **URL:** https://news.google.com/rss/articles/CBMihwFBVV95cUxPckJmYXRkS3F6SFB1R2dMYzlYUHR6RVlycWxFU0Z1dlhSU2dqSm5qeURzODRfOHVxUkhYNGpBX3BmcHBBcmkxbnZHUmNDLW4tOXBySEhnRFo0WlYxY0tnNGI5Z2FzbllwN2RGZC1XN1FoSEhYcGt4UFJySFFVRWhTVHBvQzZQN1k?oc=5
+- **Source:** Sada Elbalad English
+- **Published:** 2026-09-28T13:05:42+00:00
+
+## Chinese commercial reactor achieves nuclear fusion with clean hydrogen-boron fuel - South China Morning Post
+
+- **URL:** https://news.google.com/rss/articles/CBMihgJBVV95cUxPaTMtQXk5c0cyV0kyTEZoM05MYlhkc2RCSDdsaElnM0ktdDJYWm9COHVTZ1dxX3hRbWdCRzM2aVAwMjhfY1VGMV9XUVBRbkN1RXlZcWZLbkxXZU8tY3NiQlNfN1FldFNLbWlzUFBkRDJqZTZCdURMRjRFdnlHZmZ1VlJzdXBqVWR5Z1BkXzNfM0YtcFFTTTlYY1ZCbndPa3NVZ2VfNDB6TUdKSi01cDFLOXJjWC0tTXQzN0IwdTM0dllSMkx3T0JpSjM4WVp5UHVKaTN6OEJLMlBiMEczUk1zZHNoUUVlRUxBMnVyQlJOQktBV2ZaZXpBOWlBNHBSQnQ5TEZrck1B?oc=5
+- **Source:** South China Morning Post
+- **Published:** 2026-09-28T13:00:20+00:00
+
+## Daedal Systems Raises US$4.035M to Build Measurement Infrastructure for the Global Fusion Industry - PR Newswire
+
+- **URL:** https://news.google.com/rss/articles/CBMi6AFBVV95cUxNVE9vWDlVV2R5aVhrd05jUGVEU0hQTVAzaGNsOHpuR19fZ0txSGZFUjl5aWxuZU4zbmpTb0tpT1o0NnVUaWRBUUk4SE9fb0xPRy04azFoWXJvYVNPS3UtZks0dzFod2dkT0VZMDFwY1g0c3hyZnVhclRRVnEyaTJTUHQxLU85ZnNoY19iNzVOYjNNei1JdjVzQjl6YkVUMG5FYTdtRS04X1RJR3lLbUFYRG9LR3ZvTnU3OHZpblpra205NHMyVmRQYk5YMDZQUU83TWxZSTZsSUN0aEloS3pfeWpMd0dkMmVZ?oc=5
+- **Source:** PR Newswire
+- **Published:** 2026-09-28T12:38:00+00:00
+
+## BRICS has showcased technologies that could shape the future — from the ‘artificial sun’ to AI - akchabar.kg
+
+- **URL:** https://news.google.com/rss/articles/CBMizgFBVV95cUxOb2tfODZteHJ5OTVxeldlTVprOV9CVmJ1eEI5U24zVVp2R1g5X0t5Ri1vOTF1Z2hDVGowMDVuNTlNcGc0aEpqd3RVY1VXTkt4eUs5RGszQ1dUOHFMbk02RWlUYkhpbjhyeDdHTW8xRXcySjVieWJjdzUzZkQzNXptcHhBcmE1dFZuUDZ2Y0lWbmloU01wdlh1RVJpSVkya1Q0Qno2ejBMWVhQRHVJUnZ6a0RVenFGVWtJWWtiOU5VMlFjNlZERkZCWWY5RzBUUQ?oc=5
+- **Source:** akchabar.kg
+- **Published:** 2026-09-28T12:14:00+00:00
+
+## Legislation introduced to solidify American leadership in fusion - Daily Energy Insider
+
+- **URL:** https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQWtvZUhpRW1obGozTnBvRVJCc3U0cndxRjZmcDJ0NGRpWnY1dVZFRTlvVk12Nm95QWNqZGJUbGVpMGZNRUo2MUVvelEzbThoM2R4enJwM1M4UUhjQzFqdTAtYW1EcjNadlg3YldSMUZIVDFoQktuUlVnN2hLZ1lFS2NBaV92a3V5dU4yUFhMbm51V2FXblprRnp1bVZCSE1aYVFsd3o2MERqRzQ?oc=5
+- **Source:** Daily Energy Insider
+- **Published:** 2026-09-28T11:59:53+00:00
+
+## PhD Defence Weihua Wu | Ellipsometric Detection of Hydrogen Permeation Through Ultrathin Al2O3 and Y2O3 Layers - Universiteit Twente
+
+- **URL:** https://news.google.com/rss/articles/CBMi9gFBVV95cUxNNzNoUUVpVFBZTm9La1JlMEhqRHd3UExyNEJ2cHdJbHU0aGtmc3F5N2FUN3RvYWZQTGpkODk3VG05NTBrZDRHXzJmTVdVV3dtXzNBcFpaTThKWGs1R0xHYTZtdHV1bkFwNkcyLW5jbVpnUGlWV3FNSnRrRFRXaFFhNEtOMUVCQzY5WjlySUx4V0FRdGdlWG1aTlNEQnYybDJPazNubmpTeTRCNm1iSVlEZEhncnZ2c1ltdmRnQ1FvblN6YzZ1YWlab0twa1ZxQ3BjYzgyOExpaElpYThwQ1QzUVVKclFkSDR3Um1KU1lseTd1bnZtMnc?oc=5
+- **Source:** Universiteit Twente
+- **Published:** 2026-09-28T11:56:19+00:00
+
+## Superconducting Materials Market Report Examines Leading Companies And Growth Opportunities - openPR.com
+
+- **URL:** https://news.google.com/rss/articles/CBMilwFBVV95cUxNcnk0c1RwUEl4cnYtaHEwTnhWOTNXWFNxRVlGV3RZMkJqbFVYMTdrMEs0Q0pGSXVKTlhQQlpxYnR6dkNUN2tlVG43Z215VVJKcEYyaldHNkVCMGFCWU5La0tjMkk5RkZHd0RsQjhodVFBX2hPVnlHampheHZVNkphTkJjSnl6MFIwY3BjZGRtUFduaGFNZ3RR?oc=5
+- **Source:** openPR.com
+- **Published:** 2026-09-28T11:39:20+00:00
 
 ## Europe’s AI demand could set off nuclear energy boom, says JP Morgan - Euronews.com
 
@@ -171,33 +303,3 @@ _Last updated: 2026-09-28T10:39:33.210415+00:00 · 33 articles_
 - **URL:** https://news.google.com/rss/articles/CBMiiAFBVV95cUxORUd4UEE3eEpiY2pOYWFTai05Yjd4UlcydFlqWTkweFViQlBUNTRnWkc5Uk9uYnYwY1hqNnJVR19QSl9LQVpwM2RUel8tMlcwazB2bjVHakZiMWlXeFo2aFhDaWpkbWo1Tzd2b2YxRzNpeUpkNURzNjcyZlFQWHZULUI2dWluWVJu?oc=5
 - **Source:** Neutron Bytes
 - **Published:** 2026-09-26T21:17:50+00:00
-
-## G. Love & Special Sauce 30th Anniversary Tour Coming to Rams Head On Stage - Eye On Annapolis
-
-- **URL:** https://news.google.com/rss/articles/CBMisAFBVV95cUxOU0xSOG4yQlhUWWZEMm9iajN1a1ZEZzlhZ29HWW0teXk5SjJvWm5xNC1jdU5hZV9ORzVOc0VMZEg4aV83bTNGWW9YUWJmcXh3RU9IOUhIeC1TNGRyTk1ESk53SVB1bnF2R25Td2FvWlNrMUgxTjRCbDlJZmlUUDltLW80S0ZsNXlNX3hmQWNpSFBfTG9ybks2bFZUYUNtVXFZQ0hhUEM0UUJjYXdaVVNOSw?oc=5
-- **Source:** Eye On Annapolis
-- **Published:** 2026-09-26T20:47:00+00:00
-
-## Monster Energy Kalei Interview | From Call of Duty Lobbies to Twitch Stardom - Monster Energy
-
-- **URL:** https://news.google.com/rss/articles/CBMikwFBVV95cUxNZnJ5ak4wN3FxYThpVTlSU0JtRDZqMmJyb09RaGVHZW5yWTNSVmpZMXloVS1mR0s1dGZrVWRGemtId0JFQ1FSZUxCMnFBSnJzUlNrTExrUVRCS29FOFZrSGFUVmdyX3ktWWZYQ2ZmU3JwM3VhSmY0WVFYMFUzemJicWpPci0zS0VTR21POHdNZU01bEU?oc=5
-- **Source:** Monster Energy
-- **Published:** 2026-09-26T20:37:19+00:00
-
-## SPINALL – Top Mama | MP3 Download - Voxtrendy
-
-- **URL:** https://news.google.com/rss/articles/CBMijgFBVV95cUxPVXZzRWEtSjVUWkFNU1NsUHJCaWxjbmZaU2N3ZU1JamxJMkxiRzBGQ3hNVnhyUzRrZVdrTi0tX0o5dm91cWg1QW5RWkxLcm5QY3NhNF9WSEowX0d3WXFIR09KUk9UNzg0WDYwOGpaLVQ4MExkdUozc0dXWEE4VjNpWkVvWGZ2QnRrLWFMN2lB?oc=5
-- **Source:** Voxtrendy
-- **Published:** 2026-09-26T20:32:21+00:00
-
-## Mayour – Ikebe O’clock ft. Smur Lee - six9ja.com
-
-- **URL:** https://news.google.com/rss/articles/CBMib0FVX3lxTE1sYlg0MDhaMGc0NUVOcFpOOER0Wlc5VUxqSjhLWjBvU2JXWGs3VEdzdDdlSUNRcThSQ0ItdlZiRWtZOHF2UGYyTk5la3JQVmhYY3B1Rm9sak5TQkpyOWNUNzhWMmZHMElpTEQ5Y1hZZw?oc=5
-- **Source:** six9ja.com
-- **Published:** 2026-09-26T19:48:19+00:00
-
-## Daily Times Chronicle Events - Reuters Events: Fusion Energy 2026 - Homenewshere.com
-
-- **URL:** https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVmxZREJzV2FDbFROellCa0tzNTFkZTI1U3gzeGdfSjZlMEVVWXd4NzN6RHZHYlZrellVeF8yY042WnRwSkNvdlExakgzUnNtQ2RwR1hsb3hPRGtNYWQ5WTVvQ29KVkJJYWZVdmFjRThiajdVV25veTlzRzJNejk4UlVjdG9LOTNSUzNlaUZnTnlKZ0M5dzd3WlhVZkktYVRrTXdXSUVmM0E?oc=5
-- **Source:** Homenewshere.com
-- **Published:** 2026-09-26T19:33:15+00:00
