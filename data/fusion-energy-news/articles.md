@@ -1,8 +1,62 @@
 # NewsWatch — fusion energy News
 
-_Last updated: 2026-09-27T22:51:58.693271+00:00 · 24 articles_
+_Last updated: 2026-09-28T10:39:33.210415+00:00 · 33 articles_
 
 ---
+
+## Europe’s AI demand could set off nuclear energy boom, says JP Morgan - Euronews.com
+
+- **URL:** https://news.google.com/rss/articles/CBMipAFBVV95cUxPR3NmYkNOcnBHeTRGTlIxUVNFbHNsNzIta0YzZlRXRGhpOVo2SzlIRVVfd1Z2eGxzdDEwS1RialJCVkUxQ19Hd0ZpZTJsWDhya2FhNktnQXEzaVozZlZmWHpWbzhrb0pseGFnS29DTl9ENXF6eUJRRndJdC1qMHNJMHVVLW10Y0VSbFVEZTJaYm1Za0M5ekgwVTItM3p6OV8xYWJUSg?oc=5
+- **Source:** Euronews.com
+- **Published:** 2026-09-28T10:16:33+00:00
+
+## DJ Rox – Apocalypse Ft Tidiane Mario MP3 DOWNLOAD - CitiMuzik
+
+- **URL:** https://news.google.com/rss/articles/CBMijwFBVV95cUxQR2UwTTBmd1pHeXNMUkd6VnFQeW10ZDd2OHdRZXBONzhGeEt1UDEweDB3c2JxOUJiZjFwYVBFTDA4QlJYMDUxYzZYbXFONUNGNnNxM1NrYmpxSTkwaEFmY1RvV094aXBpdHBQMkxmWUxIR1BLZ2J0RGxuQnpxb1ZfVUlUeEFpVXF5V2VoWGNGRQ?oc=5
+- **Source:** CitiMuzik
+- **Published:** 2026-09-28T10:04:13+00:00
+
+## Vospa – Bila Wewe MP3 DOWNLOAD - CitiMuzik
+
+- **URL:** https://news.google.com/rss/articles/CBMidkFVX3lxTE8tOTU2R0Vad19QT0NyOUtwMU1odV9DbTlKUkFsUlQ3RngwRF9iSWhLRGkyLTVORUhERlRiREpKZlQ5aWZLckR6bUw5UVNSXzVKa1VFb2hhWWRPeHFJTVpMRExYNjNOVnpCZUROQXBNYTJtT1hoeUE?oc=5
+- **Source:** CitiMuzik
+- **Published:** 2026-09-28T09:54:06+00:00
+
+## Virginia Beach comes together to honor lives lost to suicide and more headlines - Virginia Mercury
+
+- **URL:** https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTEk0WGR3ZjRtcVVyMUQtNWk3VXRuWWpQbGlUV3BqY2Fmc1JYSDllRGRVLWZnejdIckYyRU5oclhyNTBJTnBlVWtPRkxpZmlEeVFMeDRicTZiY1J6alhrMmpmYldZV0hHOXByNTNwRE5FbkRhRHN4TXlMX3pQMHVDaDltajhYaHRHMjlWd3MySlVYOFJkSW5vZzV6cEltalFUN1RhVGtldXZpdVRsQnFOY1BSVk1vUEtOcER3?oc=5
+- **Source:** Virginia Mercury
+- **Published:** 2026-09-28T09:27:47+00:00
+
+## The Power of Hitachi’s Manufacturing and Talent on the Front Lines of Fusion Development - hitachi.com
+
+- **URL:** https://news.google.com/rss/articles/CBMiekFVX3lxTE4yV2NRZkRqbWJfVkgyMWExNGQwTWc3eHNMbTNyS1l4WXlpVXRDQ1A0eDlDZmE1LWx5OUNJTWQxY3hnNnNrdnNWWVNROURtdEFIM3FMaUxpLW9DY2wxZnh1RzZGV0dpUm1CT044dUpTR001c05ZZFNpZ3N3?oc=5
+- **Source:** hitachi.com
+- **Published:** 2026-09-28T08:37:49+00:00
+
+## Wellington startup uses AI to transform beauty shopping - WellingtonNZ
+
+- **URL:** https://news.google.com/rss/articles/CBMijgFBVV95cUxNaHZtWDdoM1BBdkpIOXl1VVo3dWlrbjNLbkRzUFR6YWxhekJhOUYzdVJOb1o1U3FmNXl4dU1jdl96aHlzc1gwM19ZTXIzMC1vMW9rS0FneTIwX2szbjdCei1kSmtwaXNKakJvYll4NU9kZU5EdHMwdGVHeHYwWXlEd3hUNU5kYVZSVE5iUzln?oc=5
+- **Source:** WellingtonNZ
+- **Published:** 2026-09-28T06:51:10+00:00
+
+## Vietnamese professor at top US public school behind $44M research on earthquakes, aircraft - VnExpress International
+
+- **URL:** https://news.google.com/rss/articles/CBMi4wFBVV95cUxQY3c3cnVsRUdOS1cwOUIyNFI3UEUtdlBYLW1IYm1ENTg1cXNRdXJWTm1tMmE5ZzM2X0ZYTlF1NnpOWnNIUlNyTkFDOWYyR2psUk1WQklsZVpob0FOUEU4WTZxLW5LTmgyY3pmSndxTDZLN2RuVDhJRTROMlBwQUJCWDFUc0RCcG9UdmstSjNpNmEwbmJLaG80TEhjZ3pXdEU4dDNOcUZuYkNLV3g4REdxcjViLW9qc3pnbl9vWUR0UmZseHNvZTdsNC00RjNyb1VHNE1DT3c2MExRbXk4ZEZ5MlBSSQ?oc=5
+- **Source:** VnExpress International
+- **Published:** 2026-09-28T05:15:00+00:00
+
+## Design Union unveils Domo retreat facilities in Lekki - The Nation Newspaper
+
+- **URL:** https://news.google.com/rss/articles/CBMijAFBVV95cUxOVU8tRlFTODZiTU1VamJSRWh5TmUyQnM5dHFTd2MxTUltaVJ5RjgzdWhkc3BiR3ZkaFpTdzUwcW9ibzZQSTNzR29pOUQ5WnF2Z3A4NEUzWURnTXg5OFdPZ3ppWEFaRDhoZE9rV3pfQUQ1LUNuSlI1RXpsM05KTWtXSHAzbzVRVDZ0SjV1cg?oc=5
+- **Source:** The Nation Newspaper
+- **Published:** 2026-09-28T04:28:35+00:00
+
+## When Machines Can Do Everything, What Is Left for Humans? - semivision
+
+- **URL:** https://news.google.com/rss/articles/CBMigwFBVV95cUxOVzJyZ3VBaVdyQW10MFhmemdqd0x6akdvdUlHU2tYbXU3aURfUjB6Nlo3UGRIWmJySTZnVVM1Rm1GeFUzdWJnd1BLNVR0RHBBd2EyOUJSYVlwSGlKcWhDY3E2Z01HeTJCdGhvWUltMzVFNFhGaGFQWFpvU21tRGpwM29Obw?oc=5
+- **Source:** semivision
+- **Published:** 2026-09-28T02:46:50+00:00
 
 ## Foreign Secy Vikram Misri meets US Congressional delegation, discusses Russia Sanctions Bill and strategic ties - lokmattimes.com
 

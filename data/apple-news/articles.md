@@ -1,8 +1,188 @@
 # NewsWatch — Apple News
 
-_Last updated: 2026-09-27T22:51:35.283405+00:00 · 50 articles_
+_Last updated: 2026-09-28T10:39:31.699302+00:00 · 50 articles_
 
 ---
+
+## Apple Had the Blueprint for a Lighter Vision Pro But Scrapped It—Now Meta’s $1,299 VR Glasses Could Succe - Benzinga
+
+- **URL:** https://news.google.com/rss/articles/CBMiigJBVV95cUxNakdwXzVKZk1vV21DWHV2ZEE4ZmV1S3ZNSnotYWR2ZE81N0xYY09IWllhVlBXOENyaHUwSUs1RUJqWVhvUjk1cUx2bE1zNjdKNGtrSVMzVi1xZXpEcWNCcnp6RkNBTkhMV1M1MEQ0OHZlejIzX0RUZmppOUhla3BWTEVBTzlQNmhJTERaa09zZ21oNm1SbVR3M0Rnd0NZT2gtMHFOT3FaWFdfYUpUOFBzUFZKd0h1WXhIMnFSakFFTVBrZk4yYXp1dEExSVJQRzRoLXFjMlI1cW5adTFRZ1M2anlqclJLTjdGZWRJbllka3lPaDJoVTBXTHpzMXlHNFNtcjNjc1U1SVFwQQ?oc=5
+- **Source:** Benzinga
+- **Published:** 2026-09-28T10:13:28+00:00
+
+## 95,277 Shares of Apple Inc. $AAPL Acquired by Strategic Global Advisors LLC - MarketBeat
+
+- **URL:** https://news.google.com/rss/articles/CBMizgFBVV95cUxQVzZCUXpGN0hsWUVmdzA3bHg5TW5tSWhwTEgyLUVnVFZ2MDdRWk1XNjl2RTFicmdMMV9VUzBXYWdudG84VUlzamozZEhzbWYxdGlhc0s2Y0p6dTZ5UUk5d0dlRE43SDU3V3J5b0p6eU1USFY3TTRQYjFaWTdyWjJqNHJ5YU1INWl5cUkzUUtfRWRTWHlPbjFUOVFjQXZ3N0RaTy04RDdSWVZMVW5ZbnhtVi1PZkpCXzM5bXZ5YzFfSkItLXdtODJvTjFkQlhJQQ?oc=5
+- **Source:** MarketBeat
+- **Published:** 2026-09-28T07:31:38+00:00
+
+## 23,000 Shares in Apple Inc. $AAPL Bought by Vantage Point Financial LLC - MarketBeat
+
+- **URL:** https://news.google.com/rss/articles/CBMiyAFBVV95cUxQTmFRMlFQSHB3ZG55dTZWQldBR3ZCMHNJbmhZV0swSHJwVWNmWTNaU1Y3ZndOd1lrWERxam1mb29wMDl4eXRuY0lnWGZkZDVEeEJHakpici16R0huQTZWekVqdzNWaTU1X1pPTEdsLWdHazM1R0dJQVRvT2FialZBQ2tSeXFEeTNYU1BBdzcxUm5CRmJNWmtyMmxCY2xYLVJ4NDlQUkhKNVNjRGtqemxjbW1pcEtORlBTb1RLZ3NPeDRVZnJVT1FWSg?oc=5
+- **Source:** MarketBeat
+- **Published:** 2026-09-28T07:31:38+00:00
+
+## Sonoma Private Wealth LLC Makes New $3.65 Million Investment in Apple Inc. $AAPL - MarketBeat
+
+- **URL:** https://news.google.com/rss/articles/CBMi0wFBVV95cUxObl9Wa3NCRXdLckVWaEFLcWI2S1k0S3lGTUtJSGRBZ0dXdGR6SEptSWRWMTdfS24zZ3diNmxqRDQyUXhaWWxxTzluQW5yQ0dUQkMwZjNjMi1DUFBzMW82MjJlNDg4RC1pVGVzQVFKTkVoU1drU3hIVjBYaVgybUE1cGpRWmhHbWUxajhGM255ZzJKSWx4aTIwTmx0ZjhES2FpM3FTT0NoZDRkUGJoS0k2eGRwa3lFYXBqOGN4ckRNbUc0dUhEUlpXQzdOdUtfcEUxUlF3?oc=5
+- **Source:** MarketBeat
+- **Published:** 2026-09-28T07:31:38+00:00
+
+## 10,790 Shares of Apple Inc. $AAPL Purchased by Windsor Advisory Group LLC - MarketBeat
+
+- **URL:** https://news.google.com/rss/articles/CBMiywFBVV95cUxQdDZINk5PVEhzZXVwaTVhOFJzMWY3c1padktsbV9nVTVTbTAtVVpzeDdFSGFWV0dZMkI3T0s1dDRBVmllMlBvSFpPMTRfT0ZwVkVMdjlseHQ4czBLWUpCWW9nbS1Fdnh6dC1NRHM2Z3c5SzdpUF8yYUZIN2lROHFta1hzdDR3MG1raldmNF9NM1BDTzNZODdCank0djdHVE5MNmp0VG1nY3d6MnFjWWRGNmV4OFVSMVJ2V29RUGFoZW5LQmxYb0xNS25Qbw?oc=5
+- **Source:** MarketBeat
+- **Published:** 2026-09-28T07:31:38+00:00
+
+## Wallace Capital Management Inc. Makes New Investment in Apple Inc. $AAPL - MarketBeat
+
+- **URL:** https://news.google.com/rss/articles/CBMiygFBVV95cUxPV0Zobk9LM19VSUI2TWtkUDh1d0pnT1R5eEFjX3dhcDloVEtsMWV2WVpvM0pGXzlzSE1URGp3UEVKaXkwYWh3X3d5ZlA1d1Ztb3FHcnIxdzJPREN3TGZSalZXVVFFcWdKenAwZXNVY3pjc0tfeVlYNXNKSTdvX3BGZWViOTZJVFhQYVVjeF9NblpIRmZrbHJ0czRiV2tDQlgwMV9wazQwN0JsZzVsRVF0VXhuYjZxNTc2Z3NBRWRERndWRmlRSTNFS0ZR?oc=5
+- **Source:** MarketBeat
+- **Published:** 2026-09-28T07:31:37+00:00
+
+## 22,437 Shares in Apple Inc. $AAPL Bought by Pinnacle Family Advisors LLC - MarketBeat
+
+- **URL:** https://news.google.com/rss/articles/CBMiygFBVV95cUxNYmhUaHVUYTZ3MUE5UC1jVnlRRnozSGZ5bHJrZ2lDOGtWaE90TS03cVhoZ2xqZHd2Rko1dWpHTUJrMmRCR3F3NkdYbnBRcnlrM3o4VWlyVmd2eTlJOFZUZV9hZzQyYW9NdXUxYUZUcWtDSVY0S3NKd0lvclVMWm5sWTZxX3pvV2FjYWJTU0lYVm1LN2RQZ05SY3FnSDZZTHo0UjBFdlZKUFNRQndJVzRYd0R1blc4VUR5NFdXanNyMDhGTkVVZ1JDY0Zn?oc=5
+- **Source:** MarketBeat
+- **Published:** 2026-09-28T07:17:36+00:00
+
+## Magnolia Capital Advisors LLC Buys New Position in Apple Inc. $AAPL - MarketBeat
+
+- **URL:** https://news.google.com/rss/articles/CBMixAFBVV95cUxObTNZelFtYTBnOWhwSk51TmNQbENhTUdUaFFSeVZPelEwMExweWROT0UtQ0EtR2pFV1dWX1dXMXpvc3BmeUxJdWZtR2NpdEt1U0R4N0dHVUFBNW9XbXNxX3NWTnp1Wlk5aWlLdzQ5NGtCM0trYUlCZUJ0bWFrZDYyVzdsR3pSc2Z6Q0NNTEZnSnZDNVdGaFdYU0p3SnhzdktKMjNETGNTcWJVLTJTZFdjRjkzZ0h5c3Q3RDQxZ1lGWTJaY01K?oc=5
+- **Source:** MarketBeat
+- **Published:** 2026-09-28T07:17:36+00:00
+
+## 2,800 Shares of Apple Inc. $AAPL Acquired by American Capital Management Inc. - MarketBeat
+
+- **URL:** https://news.google.com/rss/articles/CBMizwFBVV95cUxPU3o0cEpvTHY3Z042MURrNFluR2ljbmFXTVBHeFJ1ODBsb1NmOWNzdFM5eFNLeklkbEVJeHpISWd2Y2xMRGIxYm42Y1dibVdFMjltVkxhMGhxQ1A1VEp2X2JSSC14Zm1yUXotSmZLQWlIbzdKaDEzRWdFOUpLVFlQNjdPS21mVU1MUG81eFZiXy1WOGVfTVFfM1JMR1Z0eVJOazlNQjc1ZEhwMndUdzRzSHZDOUxuMTZpazJUaHhSbU1HR2QyYVZiU0ZBZFNRbnM?oc=5
+- **Source:** MarketBeat
+- **Published:** 2026-09-28T07:17:35+00:00
+
+## Permanens Capital L.P. Purchases New Position in Apple Inc. $AAPL - MarketBeat
+
+- **URL:** https://news.google.com/rss/articles/CBMivwFBVV95cUxORXNHaHhiU2Z2YVpaWDJIREt2Q045cmlvd05UdC1PWDB3ZDF2V1RFMy01VUdEMXNxZllscVI2OWpyOWZmU19QNzcyeWQ1ZmVxcy02OTZjUkRIQURvMFROOWx5UDV2U2VYQ0pmTDJLSldVd1pxY1c5NDdMOUVQbGp0am5LX1RxTjRpS2pxR1kxaEh1bkoyV3BqNTBidl9vallWdHVrd25HbXRNUGhnWlpZdXVvQVpGeWliTzlBblVvSQ?oc=5
+- **Source:** MarketBeat
+- **Published:** 2026-09-28T07:17:35+00:00
+
+## Palogic Value Management L.P. Acquires 92,876 Shares of Apple Inc. $AAPL - MarketBeat
+
+- **URL:** https://news.google.com/rss/articles/CBMixwFBVV95cUxPalk3TlJONkJfUXJKTFJmbFRJOWptY3ZpYUpyZkRrUC13WnI2RWNwVmZfSjJ4Tm9Jb2ttNXRTZWJtNmx6UUdhTm1JakIxc3UxbjlYbXpLWFVtYWJuNE9pUFcza0lCMTktMWNrRnd3WVJvRDZxNlhIM0hzcllrdFR1MkZYVXRzbnp0bUoyUjJPUTMxZFhwUGlER2RmTldBSmpmYzJhbzhBSEQxQnBxTXMtcWJ0aU92WXdRSFFqRkp1QUVKTVFUN0tB?oc=5
+- **Source:** MarketBeat
+- **Published:** 2026-09-28T07:17:35+00:00
+
+## 17,403 Shares of Apple Inc. $AAPL Acquired by Gallagher Fiduciary Advisors LLC - MarketBeat
+
+- **URL:** https://news.google.com/rss/articles/CBMi0gFBVV95cUxOSTVFQzEtcjhVVHBnenFtM2FwX2dzaXU2eHJsSVRHRTNlN0JuRFo2VllJZHNTNU9qM0N3Y3ZoU0xWWTVoVXhHeW83OUlvczJSOHd4cjdiMm1obkd6RGlXTVB5UndTTWhwQjJFZllEeGNrd2dlVWgxdkpWX0hyb2FnMWtNRVFPdlRJYVFsY2MybGJUeGJnVDNzNzlhXy1wUVZMVXBaSmNnbUNJTjY2UTdoNHdzVUc2SlJRVjFUOWhZNTkzV18yQWdXNjlOeXB2d1lyamc?oc=5
+- **Source:** MarketBeat
+- **Published:** 2026-09-28T07:17:35+00:00
+
+## Apple Inc. $AAPL Shares Newly Bought by Blodgett Wealth Advisors LLC - MarketBeat
+
+- **URL:** https://news.google.com/rss/articles/CBMixgFBVV95cUxNdzhXZTJ5akZDMHVLUGJNZjdZZkNjcmRvZDhmTzNsc2JPTHIzNTFOTzAxcHNZMVhZa2wzUURGZWt1alJRRndPa2JmT0xrc0JtUVh6eUdFWEZ1N2FTaEo5VmR2YWRqT0xyRVRaUzFtQjhwOEFQRTV1S1R1SjdoLXQyQ3c3WUNDR0pDY3FWRFFvc0ZXT04zNEkzZS0tNTdJVmZLNUdQRUxQZzZxUEx0cEs5aGtHTmd1dUwxUEhmbGVQY1lTMU54b0E?oc=5
+- **Source:** MarketBeat
+- **Published:** 2026-09-28T07:17:35+00:00
+
+## Bcwm LLC Buys 29,257 Shares of Apple Inc. $AAPL - MarketBeat
+
+- **URL:** https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZklJOW4tWWxfQnNXS1FnM3A2TjFBYUNueERkRHNabUU2SjlkN00wWTF6cDFzRC1mUExkSENQWWtRRWZwUWJLMVZjNDJxd3pSTS1CUmdWVTZVQlhkX2pxanE3dzZtbkk0WUNlRWplX3UtTHlUT2NlMnY5YlhzLUhsZFppb3BDcjZxMlY2NGZGNlpYWTItbHVrY1AyNno5TUVSeDliMzVGN3Q?oc=5
+- **Source:** MarketBeat
+- **Published:** 2026-09-28T07:17:34+00:00
+
+## Apple Inc. $AAPL Shares Newly Purchased by Bank of America Corp DE - MarketBeat
+
+- **URL:** https://news.google.com/rss/articles/CBMiwwFBVV95cUxNa3ZsMVJzc3NLQmpvTl92dzFINnZfSTJKcmJVcklnY0VNQ2J1bzBRVm1ReFotOEt4N09hUHZjaVY3WTVpZkZVVlpuYXJObFhOVHdpbGVMRUIzdVdpZEVJVy1ZRlVnSHBCZ2VJdlFuS1BpV1NqUkJRanpyX1RGRF9MX2NHakhkd3VUb2tXdXBtNi10dmwzWUlMRzh1UnptNll4SW5RelVqT1lHakw4eHN5cEtkV2tYM1dBWHlyQUk2R3V6QlU?oc=5
+- **Source:** MarketBeat
+- **Published:** 2026-09-28T07:17:34+00:00
+
+## Port Capital LLC Makes New $13.91 Million Investment in Apple Inc. $AAPL - MarketBeat
+
+- **URL:** https://news.google.com/rss/articles/CBMiyAFBVV95cUxQdVZLQ2U2bkdYWWdRZW15MkJCUzItQkNaUFIzQk80emJzTnEyU0oweFFTN2pnNlV6eEV1NVBkeVVIVXBpc3BGVllEd1ZkTE9EQ0pBRUpyaEFjT3drbC1ZcE94WG9fblBMSlhQZ2xTbDdlbUdaZWpBaWdQa0N0azI0MmVvMlJuZ2FmSURmdlZNUF9LM1JkVDlNVV82VW9INXRJNDZCblpXX3pNTEFUVmlBSzF0MDZkdjVZLVA3SWV4OHhVRnhuVEt0Sw?oc=5
+- **Source:** MarketBeat
+- **Published:** 2026-09-28T07:17:34+00:00
+
+## Pingora Partners LLC Buys New Shares in Apple Inc. $AAPL - MarketBeat
+
+- **URL:** https://news.google.com/rss/articles/CBMitgFBVV95cUxNejF3dlN4RmZaMGR2Mlc4Tnp4UjVrS3hnMTBEREZCWlUwZko3M3BFd2RuNDUyNVJKSXFocXpXT3FjdnhxM25xaU9SSWVlbFJYLXN6bHBhZFFiSEVTa3V6aTlPYXJWYzZLYTN0SWFVblVSUWNCMDN6MzN0SFhRRjdUWlhrRGVSRFJPMnlBd2hOSURCelRGTzIzSXc5dXc4SWItQzAyak0wVzF6Q1VCU1VJOVJYM1BiZw?oc=5
+- **Source:** MarketBeat
+- **Published:** 2026-09-28T07:17:34+00:00
+
+## Philadelphia Investment Partners LLC Purchases New Shares in Apple Inc. $AAPL - MarketBeat
+
+- **URL:** https://news.google.com/rss/articles/CBMi0gFBVV95cUxQWFQ0TzNHTDlUb0lKTHMzWGVvRG5hY3pCZEU3QW8zam1OZEwxWmlkLTJkeUpSdjB6RlZYTklxeE5QVzNyRm9WS3pLVkRJX2xsdXhXSVNaQk5weldBeXo1VlNGRFBrR3FaVmNGSWc1UHZvSGY5Mi1aTXdPTWJ4dHI4end5YXAzSDdEN2tyTkpuRHlQZy1sMFRaOTNjbVpwa1NlR2VtRkRqRHE4SGhmcVExdGx3VGNYckhZSFpQYXhHeXdxMm9SUnAzVXZVclp3dHcyNVE?oc=5
+- **Source:** MarketBeat
+- **Published:** 2026-09-28T07:17:34+00:00
+
+## Apple Inc. $AAPL Shares Newly Purchased by Perennial Investment Advisors LLC - MarketBeat
+
+- **URL:** https://news.google.com/rss/articles/CBMi0AFBVV95cUxNVHRMYm9zcDJjVVF3Ynh4MzN5TGxTbmlzODlISC1SNWFVOEx6eG1Ba1ptbGpPaGctUkkwOGFvSmdtcG1sRnhnR0c1cmZsdzlDV3lBc2QtV0JCZ1pzQTdJdzA0bzRxTGV5LWt1ZmJ6OTIzV0ppdkhlSTNQZG00cm1FLXlLWUFjUi1EUmtJaTVfMjlNb2RhZ1BhRUxWTVBGZk5zQzJ4Tm9FMjBEQldHTVlTRUZfSWFMaUJZd3B6c08zZ0hQcmhGTWR4V0RFdmN6STFj?oc=5
+- **Source:** MarketBeat
+- **Published:** 2026-09-28T07:17:34+00:00
+
+## Apple Inc. $AAPL Shares Newly Acquired by Caisse de depot et placement du Quebec - MarketBeat
+
+- **URL:** https://news.google.com/rss/articles/CBMi1gFBVV95cUxPb04yMmpoZmJGaklXTE5oWlhMX1pzNG5MZlI4bUNXQWszTy1lMkpmeEdsck8xemQ2clRQQ2ExbldWdW1kVmg2cm9nbS1uNGVZTjR6RTR5MTlPQkU5cngtOXJZYmxSWWZWZlBWbTF3OGM1SXN5S1FERUttemNKUmYzTWlscEluV2hoNDZhYzZBbkl4U3otNzUwU3JYbGtXSlRQNGFTbV9CS2E5RUZxQ2V1VDhqVWxqQ1Z5b1dNNHlXYWZDMVpXcVVYeE93X0dfMmlOc2RDM1F3?oc=5
+- **Source:** MarketBeat
+- **Published:** 2026-09-28T07:17:34+00:00
+
+## Apple Inc. $AAPL Shares Sold by GFG Capital LLC - MarketBeat
+
+- **URL:** https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWl9heDZndnBJOFFjS2RuQmtSR3ZXLUNzNVNMYjlwX2hFSWJ3QXJ2ZmtoT3NseFZxUGduNWp1cm9GbllmSW9FSTZXWUtSMnlJZVV3Vl9LTW1iZWdIQzZyQk5uWkpKMzFnZDdHczZOcU5acnI3NE5KX1Vyc05tS1loLVoyZTRZMUo2d0pxamNYc2k3QUZvZU9JSnFuLXo4OXN1dG9sRVpxcTVOQQ?oc=5
+- **Source:** MarketBeat
+- **Published:** 2026-09-28T07:17:34+00:00
+
+## Apple Inc. $AAPL Shares Newly Bought by Axim Planning & Wealth - MarketBeat
+
+- **URL:** https://news.google.com/rss/articles/CBMiuwFBVV95cUxPT09nc3VFNmowNkRKWm5TNUE2UEF5dld6TmpRQzgzSG5pNTgwU01QcS02eDg3YUhiQWFXZWQ4ZnhOV3hxZ2tXS3J4NFFBQTdlOWgwYVhrajhLLXc3R2tFQWtJTTVQeXFNNzN3NG9nbWVnbWF2NldlVzc0dE00S3JhallRWldfTzExWnJiaUJjc1N6T01GZXUyZ2dIcUhFeVhINEdNdGZ5QldGLURlQnJXdmhISmhzTEdPaElj?oc=5
+- **Source:** MarketBeat
+- **Published:** 2026-09-28T07:17:34+00:00
+
+## Freestone Grove Partners LP Acquires New Shares in Apple Inc. $AAPL - MarketBeat
+
+- **URL:** https://news.google.com/rss/articles/CBMixAFBVV95cUxPZnY5UzBMeDFoR0VmZ2JVeHk4TW1EZ1J5SlZpczB1eUdqdDlKV2x2RmZkQ2R6dWJIeUpYOUgtSkI2M2t5R3pld2swd3ZYVVpTSG1RX3BWMTNkcWlfWktJWlRFdmRrUFkxZDk4MVpjTUpCZWR1REhISmlGdUlEb2VGS2NxN0FVS3ZBRUNtNTNZYXFYU2Q0U3dzaF9PYmNESnlHeFFqQWMyR21LSjNnekFiZ2Z1eGhBdklReUNVUzFaTThIUUJB?oc=5
+- **Source:** MarketBeat
+- **Published:** 2026-09-28T07:17:34+00:00
+
+## Apple Inc. $AAPL Shares Newly Purchased by Ausdal Financial Partners Inc. - MarketBeat
+
+- **URL:** https://news.google.com/rss/articles/CBMiywFBVV95cUxQWjVwU0VISHFBMm1xTVcxTU5DZHF1M3ZhMFVKQ19taGN3Rm91eGltNFp4ZVlEMWpzT1QwQWs4RExXZWZaU192TllwWWNPQ1BkcDVrUndTcXlMSDJNek1hbC1ITTJRc2lBUXFwWWdITWh1aFFNUGx1ZzFYWTFjRGRIX3FhU0Z5M2NNWGxya2xBU3ROMllPTTB6bWljVlh5Z1F1WVUtTVJpZm1lYk15WEJISm9VdzFPY25OYzREVy1NNXRKdVc1U05RSThxQQ?oc=5
+- **Source:** MarketBeat
+- **Published:** 2026-09-28T07:17:34+00:00
+
+## 15,642 Shares in Apple Inc. $AAPL Bought by Birmingham Capital Management Co. Inc. AL - MarketBeat
+
+- **URL:** https://news.google.com/rss/articles/CBMi2AFBVV95cUxNSG5wUkRCUk9NQWc3dlE5Yzg2bTZiU3VuRmFQVzFLejlwdDRRQ0lrVVA3MjAxcnZrbG5lZUg1R25ZeFlsaTRVczc3eVAtXzhNV3VwS05fQjlFSWtuMWY3djg5bGZpQjR0ZnctQzRwR3lCV3QzZC1pUmVMZmVCZ2xMSzRKdURYalRzZ0dQU0RvMl9vYW53dWxqeUtBdWw2akpTYnZZRHRVQW5VY2l1WHhLRHhCR2NRdkFvVHc2QlVsUFZ1eG8yM0NnTUc1blhxTkJVSkMxOGkzZFo?oc=5
+- **Source:** MarketBeat
+- **Published:** 2026-09-28T07:17:34+00:00
+
+## Arini Capital Management Ltd Buys 80,600 Shares of Apple Inc. $AAPL - MarketBeat
+
+- **URL:** https://news.google.com/rss/articles/CBMiwwFBVV95cUxORWlKOEpGVWp3RWRKeHhlUG1UQWZKSFBRU3lhc0h6eDlmQmhVRVpuN2RhVFctenVvbHhuYkRBNlhDZDY1alNGMDBFRWVQVGNVWmdDQVNveFNOT0J1dEVSMDZuUDB4VHdCaUxzQ1NrVDQ3czRoNmpMQ1V6bWJkZVZpaUtxcWdYWXpGUjJRbUwyMUFHNGV0MVFtazBVZVpBSk1jZXFydG9qOERpcFM3cmZXSVMzN0ZUTzFsVHVBLVJ6X2FlN2c?oc=5
+- **Source:** MarketBeat
+- **Published:** 2026-09-28T07:17:34+00:00
+
+## 31,205 Shares in Apple Inc. $AAPL Purchased by Pine Ridge Advisers LLC - MarketBeat
+
+- **URL:** https://news.google.com/rss/articles/CBMixwFBVV95cUxPc0ZtZ3AzVVlzOUk3WEpvSVFiYzF1S1AzekFYemlja0NGVnhPdVA3REtkdjU0QUV2T3NuZjBxVHBqb3ZVVjV6WDloUDN3Qzg2aWNuNkdtSnUxUmJUOE5SdzNKcEV6d0JrZ0x2bnRmUjVMd0NIY2FScG1xT0VMSE9VS3RteG5EemlOMzJsWlE0MzE3Q2VxdnVZOFRUMHkxTXhBVFBaaUlYZXdpNmJ1ZTRhZDVOaThTUDEwZFcwZ2VLQXRQalhSdzI0?oc=5
+- **Source:** MarketBeat
+- **Published:** 2026-09-28T07:17:34+00:00
+
+## Berkshire Hathaway Inc Acquires 227,917,808 Shares of Apple Inc. $AAPL - MarketBeat
+
+- **URL:** https://news.google.com/rss/articles/CBMixgFBVV95cUxOLU9FM2J2SVhBX2tzZUY1ZTBkM3RSTmVOWnZlVktHR2xpT29IRGhLbmw5R19sR0FETWhHa0V3bUk0RlNvcTl3MDh5TTdjVWtyZVR2WVJIeEl0bzMwaVpnUnFSUEZjRUtWV3ctOF9YMk1uVlYzVVVTaTN0SUZCMEd3bjFVZENoejVTY1M5c25JcmJ3LUxGb2hNNWJNOUNkWExUNXd2cUlUeDFPUGtLcHF1d2RhWWU1Q0hRWDZCVGxUZHRMOGpkVXc?oc=5
+- **Source:** MarketBeat
+- **Published:** 2026-09-28T07:13:41+00:00
+
+## Apple (AAPL)’s Premium iPhone Strategy Faces a Test Beyond Early Adopters - Yahoo Finance
+
+- **URL:** https://news.google.com/rss/articles/CBMimwFBVV95cUxPdlQ3RDZ2TlBodmtFVEFLbXo5d1YzbGQ0dnJqUHotUjRyY2Q3SXhXWWQxdS1USEMySWI3WnNmeFFrOEoyeHJQWkYzSVByVFVzTTRjN1NDOWxMbS1vQ2ZzeEpEREcwX0FXalZkdEZUVlFubVBKYk80aWdfLW9VU0FDRTk2Y3d1d2o3N3JyZWFKa0Y2enR4ZDM0Y0VFYw?oc=5
+- **Source:** Yahoo Finance
+- **Published:** 2026-09-28T00:32:00+00:00
+
+## Apple (AAPL) Opens the Ternus Era with a Foldable iPhone. Can Premium Devices Lift Revenue? - Yahoo Finance
+
+- **URL:** https://news.google.com/rss/articles/CBMikgFBVV95cUxOcWhFN1RQcFRpazM5a2p2QWx3SW1VR2ZaZGRxQnpRLWpHdEQtVnVkemhjMEU1eE5GVHU2WXpVd2lqcFgwa0FVVzNKOWdSSlQ5VERxeUNTdW9UR1JuVjNFT3pYSnZhUmhrS0tPTUlhc0s3OG5lMVRaRjFzQXhvM0ExSXpjckN5NTdUUUlFOVhQM3pZZw?oc=5
+- **Source:** Yahoo Finance
+- **Published:** 2026-09-27T23:44:33+00:00
 
 ## Apple hit with another lawsuit over AirTag stalking after class action fails - Top Class Actions
 
@@ -123,183 +303,3 @@ _Last updated: 2026-09-27T22:51:35.283405+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMi5wFBVV95cUxOWWxBdVhTektVVWtrSkVmLXludDNkZmJmMW55THkzeU1qTk5HbVQzRGliYm5fZTAxU3RiYkJ6eG03N2xYSWtQYUJNVzBqYkpPcWxIMUJPZTVoeVZkeVBKRDJWMkRReHNyel9VVE5vSEFkbXBGckpwTUZjMnNTbmpZQ190NWs5OGZwbTJXMi0zWTZGRmxwLUVVb0JROC03UmR0aWVBei1CQVhFZEZDaUZKUzVNT2h5WlQ5V1hnREN3TlNOcE1wcHRmMl9OY2prU1J4TnJyQTQ2VTdleTJnUGoyMWxfVU43RzA?oc=5
 - **Source:** MarketBeat
 - **Published:** 2026-09-27T07:47:59+00:00
-
-## Trajan Wealth LLC Purchases New Shares in Apple Inc. $AAPL - MarketBeat
-
-- **URL:** https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSmZxZ1k2am40M3BWRS1LMVBsVmhIWHh5YmJMWWVfUGZtNmdTQTJoamdubURNdF9ZVmR5eGNjMllzR2tZU1ZFRzM2WFdzcWt1Nk5vY29yUHpYbEMxZFlyYVRYMUxaYU5ldEhzSDhJX3JEWEllUGd0VEFJYUlVdnIzSld6ZnM0RU1MUlljNF9aVDNhNU9kVS1YWmF1dVNJa2xLWVNJOXgwMWZSR3VIZjZYQlFRSW5tTVlJ?oc=5
-- **Source:** MarketBeat
-- **Published:** 2026-09-27T07:46:49+00:00
-
-## Valtrion Capital Management LLC Buys 9,386 Shares of Apple Inc. $AAPL - MarketBeat
-
-- **URL:** https://news.google.com/rss/articles/CBMixgFBVV95cUxPcEctelhHdzlJaVdVZU44cU1uSUU0QVJvRkkwdHJYWGtQMGxCUW83cVBUNTJaX0M1TzlUSkNSWC0tQkttWVpBbUJPNTVGNXhDUUp5dVRmdWFITlJTSnJpYUV5RXZOaEJ3bW1pQXBQMnlBallrMHZPbWkzNUFuc1lMd3NLQkJndVhTYnpaMGNJUlN0WVBVaUVyVnNTV1ktRTZ3YWl6ckM1Mm9TZDFTbzJlMWtNYkJsLVFOWXBqYzdtSU5kcE01blE?oc=5
-- **Source:** MarketBeat
-- **Published:** 2026-09-27T07:46:37+00:00
-
-## Primecap Management Co. CA Purchases New Holdings in Apple Inc. $AAPL - MarketBeat
-
-- **URL:** https://news.google.com/rss/articles/CBMixgFBVV95cUxNNTY4R09nX0tPZ2VISzVaZ3ZnemFvY1piYk1kSzQtWTgyQ0hickdWZU0yWVNGTWhhZldMbTJVeFhoVWJ0eHZ3SnZkc2hnWVFRbmpjekpXNkFhcFhuTmdTOFJ0WmRjZ29aZDRnaDVfZkcyVXRLRld5blZaODB0ZWstd3dJSDAzaGQ2SEo0cXo0Wnl6cTJNWWE3QlNyRTY0cWpGaFUxNUxHb2NDLUVEcUtJVUx1NzVDRzVfMU9VRFdhOWVPd2kyVnc?oc=5
-- **Source:** MarketBeat
-- **Published:** 2026-09-27T07:24:29+00:00
-
-## Osterweis Capital Management Inc. Purchases 239,818 Shares of Apple Inc. $AAPL - MarketBeat
-
-- **URL:** https://news.google.com/rss/articles/CBMi0AFBVV95cUxQWVdrb3VFY1hVck9XMzBveFkxek53Q2V5WkRodFJ5OWRXc0dWZk9HNGpmZWNaSnJpRTlfajgtaUFNUGQ2RGRzVko2SXhxVzFSMTlQT2tRdGJDeUtZUkIxcEhiaHE1WHIzWjZIMVBydno4d1lYZUxfNjFJWXRGVnBsSU1veU5za19YdktBTk9rU19vN3FNUW5icTRkVXdLNFA5TEhDTHVCLVJ3dUpacUU2RDZOYkoyY1lEd2dDRG53U0h3ZWRZUnZ6aUFWYkREcm9R?oc=5
-- **Source:** MarketBeat
-- **Published:** 2026-09-27T07:24:29+00:00
-
-## Palisade Capital Management LP Buys New Stake in Apple Inc. $AAPL - MarketBeat
-
-- **URL:** https://news.google.com/rss/articles/CBMiwgFBVV95cUxQemJkcVVQTkpEajNaLUcxWVdYaDNZR0FkUnVWMFBQOVJTajREMkVROFZ6ZzIxZlBPek5sTG5qb2gzN3YtS2RwYkVZOWk1QWxaWDZYWVEtSENHNUh6NENXWlFiY2huSGdUTzkybXN3OW5fdmJfOGk0c2NHcEdRSUFHZUFNeW9MSi1OeGhEa0tMLTNMX0pDZFNHYnhZcm11M3VsYWVpR1NDaWxrOEVmVGItMkdDbWJkcExoNlk0ZjNWUHZSdw?oc=5
-- **Source:** MarketBeat
-- **Published:** 2026-09-27T07:24:29+00:00
-
-## 18,980 Shares in Apple Inc. $AAPL Bought by Royal Capital Wealth Management LLC - MarketBeat
-
-- **URL:** https://news.google.com/rss/articles/CBMi0wFBVV95cUxObXM5eDQ4dDJBUDl5b0xFekxGbUVaeFZiNm1rZmpxLXF6aVk3MHZ5eTBENnphU3lGMmczemtHcTliZGdOTXZ2S1Z0SXlPaGVGSEdWWVZhX3hTdHdKWXhoRXhHekZ6VEo5b1paRFppcnFvNXQxLU1XLXdxNkJtUndkczdUOW55NE1aV29USDVNYXlxSTRJRi0yYkhYQVF4bHltMWZpN0NwUW1rT21xUUs2dEdLTUJtTml0Q01CcDV3akQ0d1FKLXhIYmVPenE0UzlHekx3?oc=5
-- **Source:** MarketBeat
-- **Published:** 2026-09-27T07:24:29+00:00
-
-## 15,512 Shares of Apple Inc. $AAPL Bought by Nicholas Investment Partners LP - MarketBeat
-
-- **URL:** https://news.google.com/rss/articles/CBMizgFBVV95cUxNME5ITTEtNGNSMjVFYWZCVWhpdU5SR20xcU9PLVZqanllNFJTWjJEVHdIaVJFU1QyRlJ4RlBtenBsSWg0Y28zZTN6bnFVVGFETFF2bTNOTmFDZjNhTmtoelRjZHBxZk10V3JfWGVWMEgtbTFBRTB2MGpNZTZzcHNJSVkzWFRQRUtLQTZfR3QwdnJMSzFhbDA4QmRzbEdCRFUwX0JvLVBtSmpTUk1yNG83d0xUTXZOMmN0NG5sazRIcThBUE1aSWpvTkd4ZmNfUQ?oc=5
-- **Source:** MarketBeat
-- **Published:** 2026-09-27T07:24:29+00:00
-
-## Apple Inc. $AAPL Shares Newly Acquired by PMV Capital Advisers LLC - MarketBeat
-
-- **URL:** https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdmZFdGQ0OTVseDA3NnBfN0ZVZEFFdHR1QjhLTi1IOGtBS2dZd2t2a0pOUEVZUEVraGNIYWlPSTRjNFRGeWFIeng2NndCSThLMTNkN0h6cnRRX25XTm9kXzJaTUNOUkd0Q3E1LUhfUnAybllZRTdOcUV3a1gzQTFZbWdreXJ2TnRnakVacFdhNklNRENZU1BzMGFJd1lCNUlvdDhMcXc1aUFLUGRUVHBuRXZwUDhlcm0wSXloQkNYWElXWUE?oc=5
-- **Source:** MarketBeat
-- **Published:** 2026-09-27T07:24:29+00:00
-
-## Apple Inc. $AAPL Stock Holdings Boosted by RPg Family Wealth Advisory LLC - MarketBeat
-
-- **URL:** https://news.google.com/rss/articles/CBMizAFBVV95cUxPRjVEekFLYzhXek5tRE12b2xlellURkVUYmFXMjd1WjVHa1hwaERudWN3cDdwQ1NuS3BxN0lEMHRhX0ltcmdEUVVxV2J3aFI1Rkt2QmZNcEFXTDAxYV9ZQnYweGdYT0VzZWNVVXZkOVZDX3h6VlNmNmU0V2x0ZzlhYXBJZENhYkpiOTdnQlZwWWJQVGNHaGFWX3F4OEt5VF8yYjRWZ2VKYzZ5Y0x3blVVaTBGbHhoM1V3b1RMbE15SzVMUVAwYldUT3U2dHI?oc=5
-- **Source:** MarketBeat
-- **Published:** 2026-09-27T07:24:29+00:00
-
-## Roberts Glore & Co. Inc. IL Makes New $18.47 Million Investment in Apple Inc. $AAPL - MarketBeat
-
-- **URL:** https://news.google.com/rss/articles/CBMi0gFBVV95cUxQbjFhQm9ZRDRMcUZMMFJ3MnNqNGRWSzlQQXhIWmExbGxIYTJzd3hCMGxhMkpuYmFLeTB6WlBiTEd4OVhiUVFRLXkyUW1qSzNhc1VOQnpLRDJudDJnV3NRZlcwNWpnWGR0TWtuckpBUFA2SU51VzB4SWxsekgwN2E0dmJLYjZJX0NPbDNiU2NpbmFxdVVWcEt6YUJoVV9tcTZ1ckw3VVJLN2JhbVNLQVdYS1pFZXduNGNRQVpLTDViSWZkbFBUS0VpNHlJS3h0U0RwN3c?oc=5
-- **Source:** MarketBeat
-- **Published:** 2026-09-27T07:24:29+00:00
-
-## AFT Forsyth & Company Inc. Buys 36,428 Shares of Apple Inc. $AAPL - MarketBeat
-
-- **URL:** https://news.google.com/rss/articles/CBMivAFBVV95cUxNTkxHLU9maS1vaUt0eXJUNDB6eXJELVowRG04R0dUOEc2Zl8zeU1iRkVXc0ZJY3ItN3Y2X3F3T1VYaDkwWFdHejhRODk5S1Y4M0h0XzZ0V3FwQ2wtajJHczU1UkRBSTFQbFBjLU5HMG11a3NwSUZzcXRkV1Vhbi1XUThVcFRWUmF2VjdiU0RfcTZXMlBQN0JJUmRjeU9nMFlkNzVGZDFWUnRLUEMzX2FtUWdURnpYbzZwUjgtTw?oc=5
-- **Source:** MarketBeat
-- **Published:** 2026-09-27T07:10:29+00:00
-
-## 65,334 Shares of Apple Inc. $AAPL Purchased by Councilmark Asset Management LLC - MarketBeat
-
-- **URL:** https://news.google.com/rss/articles/CBMi0wFBVV95cUxOTlpzMmpydEh1XzIzZ2IzUkZxSzV2ekdwc1M0TG1Rc2FGX2tuNURTY3E1Q0t2UE5vU2xEQ2s5WDBodTVZS3pyeHdvemVSdXpZeV9OcnJfR05ZN280enNIcWdDMzQwY01EclJLQ1liUmR5SGJKei1nZWY3cXJjUUZfOUNlYUtEMkgwZzlibU83bWRNeC03a0MwTjAwUXltZmpwdm9mOWxKTndBNnNzcTJ2cW9hRzZIeWh4UVpvMzJDa01rU3dZRmNWSG12Z1dFdTNwWWVr?oc=5
-- **Source:** MarketBeat
-- **Published:** 2026-09-27T07:10:29+00:00
-
-## Canada Pension Plan Investment Board Acquires 26,489,978 Shares of Apple Inc. $AAPL - MarketBeat
-
-- **URL:** https://news.google.com/rss/articles/CBMi1wFBVV95cUxQeDc3VUJySDRqVFhzRzh3RmJDVjFMU3RtZV8tYlBoYWwzdWxNS3RkeWR2TEZTR3FDak1rSmxEeFQteEpjcWZlaEdvVUtVVWVhOXUtTlRlcFpvcWs5aXZqX1Y5OE1XbHVkWm5hVkNmc3ZOVUxVaU9taWJPa2Vzcmg0cV9nUTBlQnJNMnBEeDhSaE1JRWIyY2FvLTRMQnNIRUoxeEFNNXNnVkJkX3NWWXRmQWYtVFVUemRrcnd0YTNHRUZNd0NpOUxHakxtNjJGbGR0X0pHTXc2QQ?oc=5
-- **Source:** MarketBeat
-- **Published:** 2026-09-27T07:10:28+00:00
-
-## EFG International AG Makes New Investment in Apple Inc. $AAPL - MarketBeat
-
-- **URL:** https://news.google.com/rss/articles/CBMivAFBVV95cUxPb0NrdU8zQTIzNFM5d25FcGtlTnd1alUzeVNjcUdtVlVuSkg4MFducDdqMUR0ZjVmNVFsNWwxYTZtRjdFX0JBT2dzUk1KZWRoWk50SXlsS095U1N4TXA0ZGNVbjBUNkk1czh5RnRVSHNwbDdsOFZUVlkyNDFZbk94RjBYeFhjN3dUbHNiV1M0UHREWkRSQUNOVjQ1QjlLRFpDcUhNbXVVc1l6UUM2amZjbVNlMnRHOVJLazZLMA?oc=5
-- **Source:** MarketBeat
-- **Published:** 2026-09-27T07:10:27+00:00
-
-## 472,108 Shares in Apple Inc. $AAPL Acquired by Castleark Management LLC - MarketBeat
-
-- **URL:** https://news.google.com/rss/articles/CBMiyAFBVV95cUxOenVJRFJtdzNvcFhiYTBJSV9BcUhHR3dPYlZ5eVRJUDl2OEtPSnlEMGJKdXU5TVAtTWV1NktTLVNkYXNYNmxrdmhXVHpDbnRCOVBVT3liT01HYnpVWDdldkE0eWxHbmMySG1IM2UxeWs2dnhKUnY1SFAwVlY3NnhoT21SOE1lTW1OTmR3dU5tVld6N1ZocFRYLXhZU0hOaWR5UnJIaERBRThiZHFZc2ZsWkNDZjFpY0dQaTJnT3NwNkRxenJNek9QaQ?oc=5
-- **Source:** MarketBeat
-- **Published:** 2026-09-27T07:10:26+00:00
-
-## Apple Inc. $AAPL Shares Newly Purchased by Cooper Haims Advisors LLC - MarketBeat
-
-- **URL:** https://news.google.com/rss/articles/CBMixgFBVV95cUxNeDNZYVBxNWhtanJsNFBRdk5BQ2c5MlJaVjRuR2FzMDE0WFl6LXFnVmNEeFB2LWRQbXdhdHp1UFRFNFhLU0VlNDdEZzJ6UHUzdGMtbC1LX1poSEhMVVY0OEh5ZkVvRmt0cTJ0djRZSTNERk5mQ3JSR2t3UURfRG5RTDZOVXdQcUl4aVh1MWZ3ZVpVdnVnal9ueWRxbnZrRlBRQUVVSzdhY2dXTUF6dW0zaWhydXI4anMwOFAtT0JnNk13NHI1N1E?oc=5
-- **Source:** MarketBeat
-- **Published:** 2026-09-27T07:10:26+00:00
-
-## 21,970 Shares in Apple Inc. $AAPL Bought by First Bancorp Inc ME - MarketBeat
-
-- **URL:** https://news.google.com/rss/articles/CBMivwFBVV95cUxOeGMwSWE2Sm95RVlDcmpTU1FVT1pLOVhfc1VFQzB1Vk92dF82Z1BPeHkxTG82Yk11NFJqbGQ5eUZhOE5GTW9ET0hBWUFfcmRrTjBoa2p1NEVsNDhrdkZLcHFUSFROeG81YTA4OXVlWm1OdmtBSDdNRGtkMVREUGRJU0hYNkdsWHFfU0Y1WV9sbmFMYzFyYTNtR3dKT1NQZllIU1FPX3lzOVFGVjA0NFpvN0VfUFo4d3NvLUpENHVZOA?oc=5
-- **Source:** MarketBeat
-- **Published:** 2026-09-27T07:07:10+00:00
-
-## Apple ordered to pay US$5.7b in US patent case - The Malaysian Reserve
-
-- **URL:** https://news.google.com/rss/articles/CBMikwFBVV95cUxOdjBORHptWFkwSTA3elc5dEpGQThGZjZFREppMHZwN3BkYVN6NlRwWWFGSjk4cDVVMWhybnFqTU9Vd2tqa2p6Wm5xbHdMeWZoVlNMenF5Z1ZmcG5LeXJjVGNGcks2Yko2UkVKYjRqR3VWRWhKWFZYbEh2SGoweXBPSVBaUEw0cjlPU01Ua1BKcGJYNmM?oc=5
-- **Source:** The Malaysian Reserve
-- **Published:** 2026-09-27T07:04:25+00:00
-
-## Apple owes Taction Technology $5.7B for violating haptics patents - Seeking Alpha
-
-- **URL:** https://news.google.com/rss/articles/CBMinwFBVV95cUxOR3dBWVdHeXkyTWtrRFd2YjBRblBMU00tZmlFaUpoOFV2alJxWWV1SGdIUDBTemtqcF9uVkdBTWg4TktqQXZwVnlVRmRvdlNYWE9xUDJfMTBWcFdVd1FyemJJNTNDcmY1bVd6em5qejFHX0tZazkyWUZTNnFMSGo0NWlDS0lIN0wzZ25wSXpNbWVBRjc2TmYwTDBqejVEcWc?oc=5
-- **Source:** Seeking Alpha
-- **Published:** 2026-09-26T21:31:04+00:00
-
-## Apple Inc. (NASDAQ:AAPL) Debuts Foldable Handset As Refreshed iPhone Lineup Reaches Buyers - Kalkine Media
-
-- **URL:** https://news.google.com/rss/articles/CBMiygFBVV95cUxOaVF3bzJyRS1XMndPZWF4bGdQeGNwWlhDTFotSDJBRVBoSkMtOGwtUGREVXQzcEh3WGVUdGFMeXdQQzlqa0R6cTBDdnpzbVMwc19lcVNVRjNFMnJ0NURpMGwzTFpaMHlHWS03NzFJSk9FV3pIVzNxeXVObEI5Ni1sc1lXLXdrUlhWTU14UklpZ29oWWo1TVFUeThQRVRQZk12WmFnTnpQdUNqWmV4TG1mZklWX3pHWjBSb1FWY095WW5DdW95MzZ2Y3Z3?oc=5
-- **Source:** Kalkine Media
-- **Published:** 2026-09-26T15:38:00+00:00
-
-## US jury says Apple owes record $5.7 billion in haptic technology patent case - Reuters
-
-- **URL:** https://news.google.com/rss/articles/CBMiwgFBVV95cUxPOXduWFl4SXl1dlNpaDVMVUdxbENVSGFqV3hFYnl2ZE8yTTRNZVAxZFpwTERQZzExTmg1ZG5IdHFtRjg5cUtGaU1pNndEa0UzMzg1YWJWc203ZnVOajF3MUM2RGhQTllJTXRub05McENSTExBQVhQUm1aYlZIN3RyR2RfN1V4cjZ1bktEVjV4bk5WdFowdVZENlhWOE0wU1Y0T25LRk8tbjBFendGaVhNdlp5aUZNWFM4YUhKdzhNNFFLUQ?oc=5
-- **Source:** Reuters
-- **Published:** 2026-09-26T14:33:34+00:00
-
-## Leaked Apple Code Suggests New HomePod mini Colors and an Unchanged Apple TV 4K Design - AppleMagazine - AppleMagazine
-
-- **URL:** https://news.google.com/rss/articles/CBMidEFVX3lxTE9TdDktMXVPbDZkTU9KSy1XTXNOSkp4NWR4WTZBcGdTSVZWTTk3ZDhTM2ZrdVBXZzZ0WVRwRVhJMWUwaEljb2gxZFI2V2l3Q0hPS0lydkx6ampEVFhKNGtsNXR0RndOSWlsbGxLQXlpS0NSeUhh0gF6QVVfeXFMTnZIM1BHbTN2RmpxMEVkcWljVXZxZVhkUlNJSWVXR1hxUEdxb1lFbmRkcjFsaVF1SUNSRS1Pd2Z1dDhIWXl4bUk1c3l0ZmxVbmlfT2RGQUhrS0VKZXIwZ2hVeHBGbmRmeTRkY1FHZm42T2FtNTRxMG9oamc?oc=5
-- **Source:** AppleMagazine
-- **Published:** 2026-09-26T11:21:45+00:00
-
-## 10,144 Shares in Apple Inc. $AAPL Bought by Veratis Advisors Inc. - MarketBeat
-
-- **URL:** https://news.google.com/rss/articles/CBMivwFBVV95cUxQOVV2dTFMY1phZEV6SDhBZS12THJGRTEzNUJfR3hHWWU2UWRnZ2pmT3BCeGFNMmdsaDV2YUVSVW04R05KNDFrWEJJTTVQM2VRby1GdmNuUkNQclNBM3lpcE43TEVLYVRYamVJQnh2bmNXaHA2N1BZS05QQ3VzTHN1SEdZSEVpendLWFBvUXN2RDI3c0JsZFhKUXFrdGhZVGgxY21CdVktaHhLVUhDeE1RN2ViOG9pTkpPUVcwNFV5aw?oc=5
-- **Source:** MarketBeat
-- **Published:** 2026-09-26T07:38:03+00:00
-
-## Vega Investment Solutions Makes New $10.46 Million Investment in Apple Inc. $AAPL - MarketBeat
-
-- **URL:** https://news.google.com/rss/articles/CBMi1AFBVV95cUxOUnN3WmZFTS1fODJyQ3hsVjV2cUs2UElOWEhlcG96bl9keEZHbnBKd1c0QTU1c0N1Y1ZiLVRZRGstc3daRk9kbHhNR2ZBX1B0WG9McHduVkVZV2dxX0pCanRxM2hWTUJ3NFJFRTVSNC1DdndOeHRTQWMyU1ZOVUFnb2ZROTQzX0RNaV9OTmtLV2VlUTAwM3k4NVh5Y2xGYUJiYW1MenQ4LXY4VW5BX3BKVGFjMWxtUzFuVUFqblotMVdnS3lHQjZrWjB0SXR4UlNBdWc5Xw?oc=5
-- **Source:** MarketBeat
-- **Published:** 2026-09-26T07:38:02+00:00
-
-## Wilmar Advisors LLC Makes New $30.67 Million Investment in Apple Inc. $AAPL - MarketBeat
-
-- **URL:** https://news.google.com/rss/articles/CBMizAFBVV95cUxQa3IwVE95ODEwS3F5eUtPc2xpR21vWldISDhldktYZ3FzenFqYUp2a0xabWlzV1VhR2VnOUR6d0hVbUY2LVQ3Uk5PZE9zRmJaQy1PSmFoVjY5c1Q5Y1UxU2Z6TV9SMUREcWF5NTFGR0FpcU10WEwxTkFfTUoyNXJva1RmOGZyektONzZ1aFBTbERIR1JuYnI3M0w0akQxOWZGS2gyWTBLVndPSE95dkJfdGpiS0FPbkNzdkd5MkpDQjYxTWxlQ0c0QWtOdXA?oc=5
-- **Source:** MarketBeat
-- **Published:** 2026-09-26T07:38:02+00:00
-
-## 8,712 Shares of Apple Inc. $AAPL Acquired by Tandem Financial LLC - MarketBeat
-
-- **URL:** https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVms3VXBaYmZqSTJfUEJWMlEtQWRueUhpWVdBdE1kTGh5LWhaNFdsSGN0QzlEVXJpb1BWMHQtWGdKQmduWi1MWmloX3hwR3M3c3R6RkQ4SU83QktvS01CaExSUTlZeEVWYVdJV1B4LTdCcU1mc29SaGRSWG9UYmJPRzdVS3NNcHppWEtHa2d5Z0NaWjB4RDJfUEhZekRiQnlaVjVDNUtWSWJXLVpLWFJLR3hqV05JM0lDVENRelNvUWI?oc=5
-- **Source:** MarketBeat
-- **Published:** 2026-09-26T07:36:12+00:00
-
-## Peak Asset Management LLC Buys New Position in Apple Inc. $AAPL - MarketBeat
-
-- **URL:** https://news.google.com/rss/articles/CBMivwFBVV95cUxOeUd1QUduSkhRUlhVY0hGUXR6cnNfLU1CUHJULWJvTzlqU1o4NE9nc2FSM2lSTTFDcEdSSmJoWWdaZy1QX3NJaUpESU5TNVJ6YVdJaVZNeklGWkRjOC1MT1pwQXltNndrVlFnc3F5Ui13YTZPSWZSdlh1Sms2S2lyVG8wQjVIVWg5b1AyZVFuYTRQSGgzVmtubVhZU1FldVNaNlMyUVNIVlE5OUdIRnhlZ0dRWGhsVmlJbDB0Q05aUQ?oc=5
-- **Source:** MarketBeat
-- **Published:** 2026-09-26T07:36:11+00:00
-
-## Womack Financial LLC Makes New Investment in Apple Inc. $AAPL - MarketBeat
-
-- **URL:** https://news.google.com/rss/articles/CBMivAFBVV95cUxPNEdPMHVITVVMN2lodDZwNWc3dFI3ck1HWFVmaWFfa2RVaXUwTndPa1RsWFJtSUowNVQ0blcxUXRlUnRNZEo5Sks2WExWNWY0eExZQ1BETDZBdE9VNlpqOUo3bDg5UWFsU0VmTnE4eklvbVgzNVNxaFhsTk9wUlZTWDdIZHBaWFE1YUt0bmN1Wk9JTG1UdUNOQVYxOHpReVFRUXJKTkpCc2pGMnhqZldrUFlaOTJPeTE2ME5ZaA?oc=5
-- **Source:** MarketBeat
-- **Published:** 2026-09-26T07:36:11+00:00
-
-## Visionary Wealth Advisors Buys New Position in Apple Inc. $AAPL - MarketBeat
-
-- **URL:** https://news.google.com/rss/articles/CBMivwFBVV95cUxOSjVJcDJqdUZHbzEyUjIzRE02bThWa2ltcl9lUS0td09CNTNRTVVrQUJ3c1AzcEYzaHFfZjNFWGFtSDhYRHFOSFZiSEF0bG9CRFFfWUZOUlNIRlZaZXZQQmkxQWg3TV9nbS1fcXFQd1didjNMNDI3T3M5VDlqYTZXZXhlcXlCcmE0Z0pKRTdqNm1OaktfWXk1QTdtTnkyS0pCWnE2NHJFV0l2SDBCU01naHMwWE9PNjhpNGZsOWI0NA?oc=5
-- **Source:** MarketBeat
-- **Published:** 2026-09-26T07:36:11+00:00
-
-## Apple Inc. $AAPL Shares Newly Purchased by Wood Tarver Financial Group LLC - MarketBeat
-
-- **URL:** https://news.google.com/rss/articles/CBMizgFBVV95cUxOTWp2QVVjc0doelk0dU1BdVJ5R2JsX2NCNVRpVGRLNWpYYnZqYlpxNklNWExaR0prTFdHd1pEaDVpUmdhWlBnS1ZMYWhsbERSM2o3S2JwYThaX08zQnhwYW1MUUs3SHhEVWFwbjFTb2dqMXJyVlNVZlktYlV0U1pmR0I4Tjk5cmFqQUI3N2thclltTnFhZE9PV2Y3S0pYLXMxcXBVQWdYS0J2ZlVVMjBnNVhKTVFZWWVwejNiNlJ2RDlfaFZUVENNckNpZHQ2Zw?oc=5
-- **Source:** MarketBeat
-- **Published:** 2026-09-26T07:36:11+00:00
