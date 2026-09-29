@@ -1,8 +1,86 @@
 # NewsWatch — Apple News
 
-_Last updated: 2026-09-29T10:27:22.861860+00:00 · 50 articles_
+_Last updated: 2026-09-29T17:47:00.844942+00:00 · 50 articles_
 
 ---
+
+## 'Beyond Spring and Fall': Apple Prepares Organization Restructure for Accelerating Product Launches - Benzinga
+
+- **URL:** https://news.google.com/rss/articles/CBMi4wFBVV95cUxQQkVRajZVdmRpRDROUHR6NkRjckZ6QmpDeVFwelFYR0h3Y1JfeDJhaUFvbFVjV1d1SnVHNktIVWd3ZEZlbC1SaUh0OFdpeDd1a2g5WTUtUURTa3Q3ajlZUWFPOVBCYjRBaWF3UjBPeG5FWjNqS1c5U0hsVWtKYTdsNW5KanFzTG1MNnZsX1ZxWk0wTkNwSGZqV0VKN1c5V1d4dzJ3RU1zM2Jqc1pfNHRXeVJPMDJuNVJjcl95a3lRMzh3QmstS0hTR1hTNjFaY2pEdnVPZ052UmhHc093U0o3R25OSQ?oc=5
+- **Source:** Benzinga
+- **Published:** 2026-09-29T17:19:55+00:00
+
+## Apple streamlines management as analysts urge faster AI innovation - Proactive financial news
+
+- **URL:** https://news.google.com/rss/articles/CBMi0wFBVV95cUxPNnhpWDg0Zm1xQk8tRHl4SjRIYnJ4TEdQT2xCcHV2cUN1UzgwZHFNQ21ib2hfZ3VBZ1pRTFRPSndsd1AxVWRtVFBCeDlZeWFtcGxFUDJSTmxlb3hINGNleG1pWEdVcHFHUWxHLWg2ZFN3ZVZiN0dhZ3NSa2NXZkxlQTBBcXpZQk9vM25oVy1xMDYxS2dnN3J3WFJkOUxNSEpJcW91UGI1ZmN3bEN5NlVDS2dZdVRyY3ZRaV9kT0xOelZGWWV5ZnYwd1d2T0JLZW40ZWRJ?oc=5
+- **Source:** Proactive financial news
+- **Published:** 2026-09-29T16:39:00+00:00
+
+## Apple's Ternus eyes engineering-led overhaul, Bloomberg News reports - Reuters
+
+- **URL:** https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVS1iZU1pQXkzLXgxVDY2UVRGRUUtQTROZkFDbDFDZWgyalpCczN6U3F5Wm9rVmJqSlVQbVJGNkN2WVEwVEZEQ3VFWmlqNmpUSmZxSGtDU25LdUlVUWhXem9HYWI3V3N0c2wtRDVlSmpZVlVWWF9SMVAxbnMyYUY3ckFKakI1NnUtdk1JY1EyaTFFNTBUSUZmZU04S1ozNGlnYWh3cWpXQkpCdGI4ZFJrN09HS3FfODZjZGVDa3JzR20zRWs?oc=5
+- **Source:** Reuters
+- **Published:** 2026-09-29T16:17:53+00:00
+
+## Watch Apple's New CEO Starts to Reshape the Company - Bloomberg.com
+
+- **URL:** https://news.google.com/rss/articles/CBMiogFBVV95cUxOTFp4QUlNM0VTQlNzOFBqWHE4Y3Y3aldOQjRaSDJraVlESVhhbGhaaVpLLWs1STZSN3FqVXlEVjZ2M2RGd3JaQnExUTRrVm5Gc2Z1NjQyZWFRR2NRWlcwZ25HNWI5Y3hzV0hidkhoeHZvZDkydG5RNmRvbFBIcHNodHdRRWxPdk1TTmN0QktCX3I2RFZmSTNhc0ZSZXdWSDlJS3c?oc=5
+- **Source:** Bloomberg.com
+- **Published:** 2026-09-29T16:03:19+00:00
+
+## Apple CEO Ternus plots restructure to supercharge products, report says - Yahoo! Finance Canada
+
+- **URL:** https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZ3RwVEZMTzNiazgwWHZua1VabGIzdm9QWUlIX240aGdGaDBOVzRoTWkwWjNHRDVRMkszaC02bVdHV2NVMWQ4S01abGt3UGpMSy1PVWVRNzhMeDRLRFUzcTI4Zkt1aDVYN3FjOE5jY3A0NDBZTFlpUnY1dXJGTDBQTG82YXhHLXdNSEJN?oc=5
+- **Source:** Yahoo! Finance Canada
+- **Published:** 2026-09-29T16:00:11+00:00
+
+## Apple CEO Ternus may look to unveil products faster, become more experimental: report (AAPL:NASDAQ) - Seeking Alpha
+
+- **URL:** https://news.google.com/rss/articles/CBMivgFBVV95cUxPWEZSU1c3T2kwNzlkdVNxTF9uZVpoY3RQSGRURHE2d1A5Tk5lcDJ0OFZGTHNuS3J4Tnd2RDJzNlBuTGdYU3g4NkQxMUE0RWpXOEM5S19Yc3lhY05NMlhKSWRXaEJkdFRzWVdMcEZSaWY3cUtzOTZ5dXZPR0drRGQ5ZkhoSTl3ejUwMmIwdDJLLXdoM3lvMW9MWE8zRExFWlF6T2VtTUhGanhfc0QwTGxzVGZBbGVvd0YyUkhvVVRB?oc=5
+- **Source:** Seeking Alpha
+- **Published:** 2026-09-29T15:36:53+00:00
+
+## Apple’s New CEO Seeks to Make Company Run Faster and Leaner - Bloomberg.com
+
+- **URL:** https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNzZ0Ync2N2hyREdnU0lJMktVRDVrcEk0SHRmMjczWGtPUF9sa1Q3cFFyZ0hCa2Q1S2Q2TW8yT0picm1nVmY1NnFHS2NZb2ZNbFdCUXBWWHhJSDduSXJxMWktaG5XbmFwQ29CTXhwUzBlZ0c2TGhMbVo1cU9EVFI5RXJ5R1B2THAwQ1Bqc1pONUVpTXlISU92YnUzUDZhQzV6VkR2QUlZTUlxS2hPVDZpRTB0UGZHb01U?oc=5
+- **Source:** Bloomberg.com
+- **Published:** 2026-09-29T15:14:42+00:00
+
+## Apple could see increased risk as Muse, AI agents race to capture intent: BofA (AAPL:NASDAQ) - Seeking Alpha
+
+- **URL:** https://news.google.com/rss/articles/CBMitAFBVV95cUxOLUhMbHJnNUxuR2FhRm5mY25YdnBBczdGVlRvOVZlZTVUcHNuRkJ1MS1ScUZRMlo5bWF5dGlDbkpWY28yM1RkZmY2djA0b05MN3NNdkFZMVAwWE41dnJXaTFMeGdGSGY3cm0zQkswSzBCWTYzMTMtdTBERGFiR3J4T21hNXlUeEZfVU1ENFBKNnF4cFBaNENjQWcyUFl5RFMxNjYxbjQzTWF2Z0hrSkRVN3VFSmo?oc=5
+- **Source:** Seeking Alpha
+- **Published:** 2026-09-29T14:54:42+00:00
+
+## AAPL Forecast — Price Target — Prediction for 2027 - TradingView
+
+- **URL:** https://news.google.com/rss/articles/CBMidkFVX3lxTFBQMDNOejNiMklVWElSWUNJWmpSbXpzaXhEZ2pXWlVhY3c3aXFYZ2NZTlRWdUZzZV9Ca3IzN3NHNXNjVGtBZDJYbHc4VkVjd19FVm40bDJXclg4MkxReERnMmhEUU5QVTVzYnRUclBPRTF1aUcxTHc?oc=5
+- **Source:** TradingView
+- **Published:** 2026-09-29T14:27:09+00:00
+
+## Apple Could Keep Every iPhone Sale Yet Lose Discovery Referral, BofA Warns — Says Muse Concerns Are Overdone - TradingView
+
+- **URL:** https://news.google.com/rss/articles/CBMi-gFBVV95cUxPOGlYQjdmcjVOZGlObXZhajdfVzVtOGNPRjllcFBHTVJobTM5T2R4ZUlBcEU0WDJlX05nRXF6TTlvakNVZFd3aWRuTi11Q1Y1QjJ3MTZ3dXhaYUwzUTR5UWR6a3JVLUZGU2REeXdhdDhGelhRVHc4cDhPa0NZcXpCRU5fVHItZmhhXzdrRTQzakl2UGNmTWliVGJXZ1pwbXlVbFJrVW5EeGlhUGVvZmg3TTBqMUxneElRLXc5eWwxWGtlcmxrajBlVjlKa0hUMW5BOWVjcDBnby1kMThTMGdwT2hWWU9NQnEyemwwUGRlQzlHQlhMbU1mM0dB?oc=5
+- **Source:** TradingView
+- **Published:** 2026-09-29T14:25:29+00:00
+
+## Apple fixes critical flaw potentially tied to 'sophisticated' attack - thestreet.com
+
+- **URL:** https://news.google.com/rss/articles/CBMirwFBVV95cUxNcFRjSjNrNGRvU09nbFJLVDJTbUNXcTRPaXhrMENacHZRYWFpdUVuSXhLWGNNbnF1SlE3cjVwWHZzTzRudlZKOUR6dVF6OW5rOHNjblp1OEoxMVE1Z2duVExrTkdydVFNc0lNcW5aUWRmU2FjZ21aQnp5TWVXV2VBVkJUY2tMcHFvSkFnQnRpbUdKcXVlS1d0ZjlOTUF0WlNwRTk3ZFJDeTlpdTVtcm0w?oc=5
+- **Source:** thestreet.com
+- **Published:** 2026-09-29T14:12:20+00:00
+
+## Apple (NASDAQ: AAPL) Faces Positioning Challenge With $1,999 Foldable iPhone Duo Launch - foreignpolicyjournal.com
+
+- **URL:** https://news.google.com/rss/articles/CBMiywFBVV95cUxNeTVVS2U4OV9KTVpJMk8zVEZQYm9OR3pPM3R4VE1wLWVhSWczaUZnQWF3OXYyMXp6UHhvOExkaDJNUnRjeExaR29GRmlCc20zVmdSMXMwOWRzTENyMUZHUnl2UTZNeWcyUmd6NUJ5RFY5SFpFSVhvMEJoXzlvdEY4QXk5WkJRTE5RRy1hRnpibExNM2FWdUxiQjQtRFNMQVVNUDl5bHpsRnU1WXI0bEZJU3NLcl9Vc2tNNWR0V0syb2dRS2F0a2tCLVFjZw?oc=5
+- **Source:** foreignpolicyjournal.com
+- **Published:** 2026-09-29T13:14:00+00:00
+
+## Apple stock trades at EUR 297.05 as BofA cuts its target - AD HOC NEWS
+
+- **URL:** https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSjZuWUhUM1ZxTktLSG1BcXJpSVhTN2YwbWpvSmJhMmpicm5TRk04UnllYXUzYTJhMHk3SHFTOUFTYkZTcUw0OWUxbE95TVI5RWM0M3NlREdsenBMT3llNDBpOUMteVdUVGd0QmZURld4UU4wWW42MVRldGdtY2VMZVphZG9wNHdMV0UtSDFTbUlSay1wZjlRWkJBNkhkMERZWF9UMF9kUzMtTHpjcS1sRmdQT1dIZlRCWmw4?oc=5
+- **Source:** AD HOC NEWS
+- **Published:** 2026-09-29T11:08:29+00:00
 
 ## Redwood Investment Management LLC Buys New Shares in Apple Inc. $AAPL - MarketBeat
 
@@ -225,81 +303,3 @@ _Last updated: 2026-09-29T10:27:22.861860+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMiowFBVV95cUxQSGFHSzd4S3lEUjNKVms2dFJwYkdpTGk4SEpvei1NSmFsb01ESExIY1RWSGF6YUJwNVAzNFNuRlJJaGYzNVU1Q0NKVUt1WGlwSG5XamV1YU5iX0tNcmNUekVaS2FxRWhJQzhjT3NmWTZwWjZ5d2JJUTNLbUVfdVFzcjl5VEVDX1FFZi1PYkR1dk1OeGNLUUpvMTUycG9HOFRSbmdF?oc=5
 - **Source:** Bloomberg Law News
 - **Published:** 2026-09-28T18:41:00+00:00
-
-## Apple (NASDAQ: AAPL) CEO John Ternus Bets On Foldable iPhone And Premium Pricing To Drive Revenue Growth - foreignpolicyjournal.com
-
-- **URL:** https://news.google.com/rss/articles/CBMi5AFBVV95cUxOdk9xMndsQ2o3eTVwOXNMS1JQcFRfZ3JCM2JGWGpUcXNrWE1vWHludy1DYVRNdTNBdXVOV3c3QlBKd0dIRUtSalZsN2xQRkVTeWttaUVtck5UVTVQakdOTVZGZmIyT1VlSmJqaTkyTXVVN3lreC15UXJrTmJtd0NpWmUwME9ObDBjZkRHdzFFNmMzSFFtYkhPNVhlaEppV2R1cDU0Vm9KME1hQ1R0bkdMT1I5Sm11b2dpTkdFanBGNU5YRkdmUEtjQ0JEaU43QU9QZXRUVzJzQnpjcng4aWFRVzRyd2o?oc=5
-- **Source:** foreignpolicyjournal.com
-- **Published:** 2026-09-28T18:36:00+00:00
-
-## Jury hits Apple with record $5.7 billion verdict over iPhone and Apple Watch Taptic Engine - MacDailyNews
-
-- **URL:** https://news.google.com/rss/articles/CBMixAFBVV95cUxOMDFDS0NCMHROeHJYcG53Zmtwb2x3R1hwQTFWMHJDcHY3TEJwNnBvcTdqU2djWktqdHlTd0ttNzBybHMyNHR2d3lfX0R0eExMR04tV1pxSDZud05mNWdoeS1fdTZLUko0dkFWTnEwejJ4U1AzODdaeFlLeXBTVy01R29tOHhaSzFualdvRHZrSVJPSnFvZWNCeTNxM3BZZVNsZW9SeFdUdlMwS1dTbnNUcUdQNGRkLVV5NnE0bVlyTmdwdjRx0gHKAUFVX3lxTE5tcHFzWVZHMU5zczRBcnFhWXBCT0ZMUHRad2FvTEpFbmhVUnh0aVNZVDNzSW1KTUJqWTRNMXJMYUFfY3poRzZiNXY4QU1ob0tKRWVUUlNFY3ptNFVHRXlLeUlXdjFxa21KVklCdGVBcjU5em9sajhFV01lTjRldXRJblJiTE1TYWN6MklrNWxHWXdibU9obC1PRkd0X2NDVVRwaXlKNHZjcW1LX3FLLVNDY05aVEhKLVpZZVl5WjRvTEltV3V2MGx0Z3c?oc=5
-- **Source:** MacDailyNews
-- **Published:** 2026-09-28T17:30:25+00:00
-
-## Apple likely seeing 'healthy' iPhone 18 Pro demand, JPMorgan says (AAPL:NASDAQ) - Seeking Alpha
-
-- **URL:** https://news.google.com/rss/articles/CBMiogFBVV95cUxOT0I0N1YzNWN1TXhHRXIwb1Vyb0JGUE5zRC1jVlhDaUU1b3ZnemdwVGVxbjBZSWV2OTg1NUprZElNekp3Ny1HaTBnQ3dGMkMzS3FMYjZBWnAwVWY3RjRNMThza2sxMWxQMUtBbTVrbGpRdlhZTmVSVE92OURlVTNTd0pBdEwyRXNDTHBJSjJLbDVveEhFNGV0WlJlcTBfSjdHR0E?oc=5
-- **Source:** Seeking Alpha
-- **Published:** 2026-09-28T17:15:21+00:00
-
-## Is Apple (NASDAQ:AAPL) Entering A New Chapter With Its Foldable Push? - Kalkine Media
-
-- **URL:** https://news.google.com/rss/articles/CBMirgFBVV95cUxQREhva3BrS1BNNHk5dlFSbVU5Y2piSHp2YzNEVWpPUkFDQk5tcFJ1Sll6M0xpUm4zTmp5aFBPN1JKSWIzZEFsVTlBMDB4Y09fREdlSkI5SDVzSEJYUlVQdUJzdHYxZC1rUE5vWkxORTJBVFJ6TDJGem1tMFdQUndyMjN4bDlVMlVSbnI4TnNiNmplcGpUTWlOWmJReFVTWWFqTWRyVHRWcHVBbGZ1VXc?oc=5
-- **Source:** Kalkine Media
-- **Published:** 2026-09-28T17:01:00+00:00
-
-## Burford Capital shares gain on $5.7B Apple patent verdict - Yahoo Finance Australia
-
-- **URL:** https://news.google.com/rss/articles/CBMihAFBVV95cUxPZ2VXTzUwNDdxcHNCVmhNZUtEVEJLVS16ZjNyeVdPU3ZBYndacHZCaXJxWWc0RHdMa3Z5R1ZPYkJvZlY1QW9tWFVhTDBWMkl6ZFdiQVhiQVhLTGNwQ3hEc3VxRElzR3lsSkZxV2lvSXdPbkltdU5JVDBncEhEUWc2N3JNWWg?oc=5
-- **Source:** Yahoo Finance Australia
-- **Published:** 2026-09-28T15:18:11+00:00
-
-## Burford Is Due to Collect $1.4 Billion From Apple Patent Verdict - Bloomberg Law News
-
-- **URL:** https://news.google.com/rss/articles/CBMitgFBVV95cUxPalRXVnZpb0tFVVVTUTB3eEt5LW55SlVIaGdFVEZRV010MTFtLWpPX0lPRjl1a1JTODhvcUlkdmhPZ3QzTFk4NmRTalk2Q1lINWtxZ285VWUtbU5qMkFzMFdndzJGamdTMzJTaEZkbWs0cXVpQU9vZTk0NFBFS1VuZmFtQnVvVkhlOVRpU3Y3U1JpT3dXakp3YjlUT0RrVmRoMnpEb1NZOXkzTXdBZ0FlNExnZERzQQ?oc=5
-- **Source:** Bloomberg Law News
-- **Published:** 2026-09-28T15:03:00+00:00
-
-## Litigation funder Burford says it would be entitled to $1.4 billion of Apple patent verdict - Reuters
-
-- **URL:** https://news.google.com/rss/articles/CBMixwFBVV95cUxNajZyMFI5bHRHbDJuMU5pWHl1UmU3OTQ4N2lYZEJnSHBVcWhGTDZZV1p1ZnNSVE1YTVZ4YkpWYnExanNwYWN6dzlUd3BDRzV0RGowV1diOXVtR3NHNVlIcS1fVFdzTVN3RGFqMXFyWmR6YWFYRXFIOGl2aG02NTh0MWQ5dEpnb19mcHUyLVZPcXg1TDQ3anNlZF8ybGZiVUNvUHB1cjVlbzJBclNLZ2hoQW1CSEszWkpEelM1MWgtV2NaNTJ5dl84?oc=5
-- **Source:** Reuters
-- **Published:** 2026-09-28T14:39:13+00:00
-
-## Apple stock reports USD 109.42 billion in quarterly revenue - AD HOC NEWS
-
-- **URL:** https://news.google.com/rss/articles/CBMivwFBVV95cUxQOUdqc1F2UkdBbHJadkNWRlBNUURBT3pyc1FSY3pweFgxX3NzX0RwMnBNWFQwOUpmSmRGSDFtTmM5YTN4OGJEVGdxMmlrQjhDYnRESDkwMXZHMFFTbUM1Y2ZZZlNWUWpkU2lRTXRQb3V1c3l5eTVZM0owdzJtaWI1YnhuOXZ3ZUN3WDl4TkVDbmVCTkRqVHk3VjdDa0ZBS1dEMGp1c09KSFBjS1h5Y2hCV05FSDBmVWhnOENMUWxWMA?oc=5
-- **Source:** AD HOC NEWS
-- **Published:** 2026-09-28T13:54:13+00:00
-
-## Apple upgraded to Buy as price hikes offset mem... - Pluang
-
-- **URL:** https://news.google.com/rss/articles/CBMikwFBVV95cUxOak9BSEhlYS1FQnFrOU4tOElzTm1pMGNZVGRMcWRFY1B6WWdyb0MzRlZKeHpiaGVYRUtHOWYxRUZnZFQzWUdUNzY0QzlvYnh4bG9hLVhydmlrMllRaTJGc0h3ckVQalVSZGw0eVpMcC1SR3pxeURpcTE2QWZEc20zR0dFdWlmNlU0VS04WDJjUkRKTjQ?oc=5
-- **Source:** Pluang
-- **Published:** 2026-09-28T13:28:50+00:00
-
-## Apple: I Was Wrong, Margin Math Is Now In Its Favor (Rating Upgrade) (NASDAQ:AAPL) - Seeking Alpha
-
-- **URL:** https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMEZxbm5HSEtMRWhrUFRSbkRYdUpveFd1b2ZMSGx3dm54Wk9zWnNYMGhlZnJrMEI5alNoYmZjRXo3b2JMOG41enFoZXJXeEM0V2w1Z3NsanVGU3RydnpzMV9nOTY2dW5nNk9jSTlWQVJwY2VMVFlTaEFDVVNKQ0w2WHpHY0l3RldHbk9tX01BZlF6eFBGdGEySkxwVmVPdmRHdDlKSXdpRnE?oc=5
-- **Source:** Seeking Alpha
-- **Published:** 2026-09-28T12:56:13+00:00
-
-## Apple Inc. : JP Morgan keeps its Buy rating - marketscreener.com
-
-- **URL:** https://news.google.com/rss/articles/CBMimAFBVV95cUxQUlNBY3JPMk1Id3g2UkF1V21SN0QwVEd4SnRWT1czaHBrY2MtQW5hLUFqV2laZnR2RE54Z2ZERVhnLUkyMHZYMmFFTGFfUlpoS29YS0pHZHk5bzhMMTNjUjZtWXhVdHkxamZzX1dLaUFhS2M0akp6dXlCLVYtR2h4am5EdzZvaXk1SFQ2SGhCYVE4bjllb0xVZA?oc=5
-- **Source:** marketscreener.com
-- **Published:** 2026-09-28T12:45:00+00:00
-
-## Apple Inc. (AAPL) Stock Forecasts - Yahoo Finance
-
-- **URL:** https://news.google.com/rss/articles/CBMihgFBVV95cUxQMkhEZFF1SHNSc0FINmNUSkNfZzU0NjhDajdMYXpxMTViN3RLYlB5Z09tSzE0X3A2VHF2cWYtMThiRzN1Y09oWlVrWkdRTVc2RXB0ODJpSmhLRU5LYkpjS0Y2Y29EeG5yOThQQkxOOUR4ZGZPZDVfZGtrMk01bktObXZ0MWZHQQ?oc=5
-- **Source:** Yahoo Finance
-- **Published:** 2026-09-28T12:13:12+00:00
-
-## UK Tribunal revives consumer case against Apple, Amazon (AAPL:NASDAQ) - Seeking Alpha
-
-- **URL:** https://news.google.com/rss/articles/CBMilwFBVV95cUxQVVVaS2xHWk9iSjRJdVdkZTNjaDdZYVphZ3NhQkNYYjNKYldiYlgwOTZYRzdvVGxsNUpkZVhrTl9FMGwtUGZMbmVrdU1uRnQxSDNlUWdzM2pIdVlna1dFZVFrLTZNa2VKWUxwZFVoMkpOcndFLWVobGpVdjVNdUdLZHhSRW1aM0x3WHd3Vkt3Wk1IdFVQQXFv?oc=5
-- **Source:** Seeking Alpha
-- **Published:** 2026-09-28T11:29:46+00:00
