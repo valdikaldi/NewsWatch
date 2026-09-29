@@ -1,8 +1,38 @@
 # NewsWatch — fusion energy News
 
-_Last updated: 2026-09-28T19:21:18.721630+00:00 · 50 articles_
+_Last updated: 2026-09-29T00:14:23.809431+00:00 · 50 articles_
 
 ---
+
+## American Fusion (OTCQB: AMFN) Expands Texatron Trademark Patent Portfolio as Uplisting Plans Advance - openPR.com
+
+- **URL:** https://news.google.com/rss/articles/CBMikwFBVV95cUxPMzNiM2gxUVd2M3pIaEdBdFVDOWxqRGpXazJjVXpfdXZIRkVoX3UxU1EyNFBXaVFNeE5sNVpPUEk2aEdra0xtV01RTFZrVXF4WDBLMklRYS1zZGpoUnV6N2NCOU5nZ1MzRkUwRUdRUHJDcHFXWGxTMENMZVd3QWFfSlFtenM1UEVqblFvWFY4Njg2YTQ?oc=5
+- **Source:** openPR.com
+- **Published:** 2026-09-28T22:34:04+00:00
+
+## Companies From Uranium Mining to Fusion Meet Institutional Investors at the Inaugural ROTH Emerging Nuclear Technology Conference - StreetInsider
+
+- **URL:** https://news.google.com/rss/articles/CBMimAJBVV95cUxOQmQtZTdxQ3hEVHpTcVFrNDNHOTdOdEZfMmJOM3NQdmhqVHJhbFplcXlDM1NJM1hwZjAwQmZFVEJsMUdxak9MZ2VUclhKbURYVnVJUGFseWVHZ1RkMlM1RjlVSlBlSTZlYk9xdFV2aHZ2NGVpOU9zWjVQaFdXM0JacmlzZ0tLRGRPN2ZwclJKRnV1VW45UjZFSFZBWWJsa21SZGtSakUtcnl0Zm43cTB6bU95b29hSThGWGE2T1ptcHd4bFBldTV3dkFmbnM1LUNhMGltRGpPam9BdjZJR0lnek9lY2FPYktaeG9FcTVlemlFS0otcGtLQVN5Qy1FUTBrTlZycVMwbkFKS3lGeGdtcW0yVlJKbmsx?oc=5
+- **Source:** StreetInsider
+- **Published:** 2026-09-28T22:25:54+00:00
+
+## Italy Passes Legislation in Support of Nuclear Fission and Fusion Energy - Fusion Industry Association
+
+- **URL:** https://news.google.com/rss/articles/CBMitgFBVV95cUxQeGI5dWJZOXU1bEVsa1RQMkk1bzN1X2VudG5KM0lmWGxYMlBKd3hsbU43UXpKeWpwb29CVVhSNGdQbnlvSld0YTMtQTJzWkliOEdKZl93VmF5UlpHR296RmllamZvR3YxWm5CeHM5bXE0SlU3VGFNeUhVNnExaXROV09fM2ozRVdqdEhNQlJXemU3SVNYZmRZeF9KaVYtbXNnWVBmS05wclNhRjRIeXczOTFHZTJudw?oc=5
+- **Source:** Fusion Industry Association
+- **Published:** 2026-09-28T22:25:30+00:00
+
+## Commercialization of fusion energy will ‘change everything,’ lawmaker says - Nextgov/FCW
+
+- **URL:** https://news.google.com/rss/articles/CBMivwFBVV95cUxNcFNtTEh0aFJka09CQVlCZ2k3eUJyWGxiMnhaUG1WMHNUTWNEd3hZb05jVDg0WEsyMVFKWlhnM3drelVnT1JuMmR3NTY3eHA1NlhIOUswckRfYWpoaHc4cU9jbGRmUXVSZi1pRFJxMFUwX1dERlhLNHVwam9zM3BZRnZQUVhFQktiNjNEbG1ZdVAtU3ZDcVdDa21mVzNGeG14UzI0ZkRTZW5OQjZvT0xkRWxXd0lJeUw0aXRnNmRSUQ?oc=5
+- **Source:** Nextgov/FCW
+- **Published:** 2026-09-28T21:43:00+00:00
+
+## Pennacchio: Caldwell Resignation Does Not End Questions About NJ Voter Rolls • New Jersey Legislative SRO, NJ - NJ Senate Republican
+
+- **URL:** https://news.google.com/rss/articles/CBMiX0FVX3lxTE1pLUd2NjJxb25wUURqY1hIbGZUSEQzTzljNUpzYi05NlBpZHJBODBDeVZjdUt0WkJFd04xUU9BZkFPUFFCTy1kaTNQMzJNUWVJR3kzQjc3LTE0UWYzWUxv?oc=5
+- **Source:** NJ Senate Republican
+- **Published:** 2026-09-28T20:52:15+00:00
 
 ## Daedal ups fusion measurement infrastructure - Nuclear Engineering International
 
@@ -273,33 +303,3 @@ _Last updated: 2026-09-28T19:21:18.721630+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMibkFVX3lxTE95c1o5UjlzdEdISGFFMlVQWTJwMFJQTzl3UjNzbXdCcU41Mmg1ZU5hcDhBX2ZwR0VLNllZTnI3SHhMM3RRY3dOYmZ0aFRpckJNODdSdmhPNktXcFF6Wkk4NDVwV0QxNEktYWgzck1B?oc=5
 - **Source:** Exophase
 - **Published:** 2026-09-27T05:05:23+00:00
-
-## Tyla & Future – Game Time - Tooxclusive
-
-- **URL:** https://news.google.com/rss/articles/CBMia0FVX3lxTE42bm5RaDBiSGVZdFhyX3Z1SFoxX3FtYUV4WlRNVWRlMUJQMndjckNZbkF6ZUxWWTFZVV96aDc3MnNlOEo2cDFjOTdZblg4Zk1sdlJzOW9nT1RIOVdwYUdxWlFGaTcwWkxndHFR?oc=5
-- **Source:** Tooxclusive
-- **Published:** 2026-09-27T01:56:45+00:00
-
-## Dow, S&P 500, Nasdaq Futures Edge Higher On Cooling Inflation Signs, Strong Big Bank Earnings: IBM, APLD, SKYH, NBIS in Focus - Stocktwits
-
-- **URL:** https://news.google.com/rss/articles/CBMi7wFBVV95cUxNX1BJT0x5Qk50S2xEMTRjNkNqdUs4dUtYRlgyYk9OTlowYURNUEw1OGRRcHNCb2phSXRpbVE5eHBsNzZSczQ2MFZxNF91QVhkUkV2ZkVFRExwdW5rWDlTWUJKTkdOZTZQUXJ6MkhtMjZqSnU4b2djQmhtQzZVUWtTOU9uSjRBUWg0M3VEY1dfLVAwNkxyVEVXR0haWFFQLXlFd2Y4UG8wV0d2d19xUGp3d0o4WHNPZEhGTEl1Rm1SRzF3SDZpZnI5X05hT2M0cGVsYzZPdlpWZVRCaFZHeG95RkVoQlc2TDFFLXBxNmdHYw?oc=5
-- **Source:** Stocktwits
-- **Published:** 2026-09-27T01:13:30+00:00
-
-## Your Top Destination for League of Legends Esports News and Leaks - Sheep Esports
-
-- **URL:** https://news.google.com/rss/articles/CBMiW0FVX3lxTE5kbmdEeVlJd3lVdmcxSHJkZnVsNHFxTndNbDdwZ2RjYk9wMHhuVUwydU8wMjhPTHl4eV9iYVZDc1JKaUxKc2xIRjBBUGlSU3V2bU1IXzdYTFlUMVE?oc=5
-- **Source:** Sheep Esports
-- **Published:** 2026-09-26T22:45:59+00:00
-
-## Netherlands moves to industrialise fusion energy - IO+
-
-- **URL:** https://news.google.com/rss/articles/CBMigAFBVV95cUxPc0ZiQkVpVXFqTEhlVUFOWGxQR3BsTUlzYmhRSWpUbktPdldhLTZGVmpEMFRkYUpPYlpYbUZzNWROM3ljQnc5bmRKbXl6NDE4YXlMVHpiS0tNSXB3MEVocVNuTURFZVJzNlg1bG8xX2VWVlZDemoyQWlEMVRLSGZ0bg?oc=5
-- **Source:** IO+
-- **Published:** 2026-09-26T21:20:25+00:00
-
-## Kairos & Samsung in $100M Deal for EPC Services - Neutron Bytes
-
-- **URL:** https://news.google.com/rss/articles/CBMiiAFBVV95cUxORUd4UEE3eEpiY2pOYWFTai05Yjd4UlcydFlqWTkweFViQlBUNTRnWkc5Uk9uYnYwY1hqNnJVR19QSl9LQVpwM2RUel8tMlcwazB2bjVHakZiMWlXeFo2aFhDaWpkbWo1Tzd2b2YxRzNpeUpkNURzNjcyZlFQWHZULUI2dWluWVJu?oc=5
-- **Source:** Neutron Bytes
-- **Published:** 2026-09-26T21:17:50+00:00

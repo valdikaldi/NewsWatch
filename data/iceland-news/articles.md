@@ -1,8 +1,38 @@
 # NewsWatch — Iceland News
 
-_Last updated: 2026-09-28T19:21:15.435725+00:00 · 50 articles_
+_Last updated: 2026-09-29T00:14:23.206514+00:00 · 50 articles_
 
 ---
+
+## Luxembourg vs Iceland prediction and betting tips 29 September 2026 - Dailysports
+
+- **URL:** https://news.google.com/rss/articles/CBMivwFBVV95cUxQUzRtVUxSeExLZUJTNmZIV29zWmVFMTB1SEEwYXpienRDN2hoVEtidi15aDJ6Ty01cTNuaG9mOXhLVDNXQTFGSDZMWS1EdzV2WTRFS29sVWpwMldpa1oxdDBFbUMxM3BDdVpyV04tYzRhNU9jMlZuZk9JbHRlRmY4eThyVnhnVS1LdDh2WEhPb0ZhRW9QT1Rkc3lJeXJZTDJpMVd3QnZKS1RHbExOS2R6TlphandCbzNCYmt5Z3JDMA?oc=5
+- **Source:** Dailysports
+- **Published:** 2026-09-29T00:02:36+00:00
+
+## Iceland's land-based fish farmers call on government to speed up industry framework - Fish Farmer
+
+- **URL:** https://news.google.com/rss/articles/CBMizgFBVV95cUxNdWNtMHNHdmE5b3ltdzJRamVZSjlZRXpqSTBpUF9QS2dmV0w4MEFhTFpqRk5uSy1aT1dEZVBHTjJPYzZkU0hxN0VvemZZeDhfdVZoemVCQ3dmczgxcHdlNVJUUUN0d2ZOMnMwVzQ5ek94amRkcTZxSzI2cGc0eTZzT0N3cV83MzJhMDExaUZ6YTJ6TEd1ano0eGJXOHViaWJwNXItV0FSSDZCMTBvUnZWMTNrVkNhSGgxYzBnMy1iUkllZEtaVlQyMmE3eDlqdw?oc=5
+- **Source:** Fish Farmer
+- **Published:** 2026-09-28T22:57:38+00:00
+
+## Free US Shipping - The Reykjavík Grapevine
+
+- **URL:** https://news.google.com/rss/articles/CBMiW0FVX3lxTFBESWRtOXJXNlFscExrMU5zbF90MzRlWEUyV1E5UUJvb3doR0ZISEFqSGRWZUQxRHE2blN2MHZLV0RBUDAxOUxJUVlUYTlBdVJ0WXRtTHhTZWJzS1E?oc=5
+- **Source:** The Reykjavík Grapevine
+- **Published:** 2026-09-28T21:33:21+00:00
+
+## Icelandair Mechanics Strike Threatens Iceland's Fresh Seafood Export Pipeline - Seafoodnews
+
+- **URL:** https://news.google.com/rss/articles/CBMiugFBVV95cUxNX2J0b010VWZIYkNvWk1IVmpkd3VBejBWY0pUMGN6TkF0bV9jMnRZMndfQWp0VjNhcWo0N3VhVV81S05mblhHZHJSX1Vxc2RpOFRaZ0E0aUI0aXpQVml5dkpNQUlNWXJQbWY0WnJ3S1RVMUJFalkxemdWMGZ0Z0xaQW51RmlrY3JVbFZfZ3NiWHJpS3FWeXFxNTVIcGIzVHZ0ek1VRHloWDVqQmNWNzJzeW90MHhqZjJBYXc?oc=5
+- **Source:** Seafoodnews
+- **Published:** 2026-09-28T20:14:38+00:00
+
+## Watch Luxembourg vs Iceland - TOD
+
+- **URL:** https://news.google.com/rss/articles/CBMinAFBVV95cUxNUTJ2bmtzaDM3Q2kxeHhtblk5bXdHWHFjblBQeDJpdlpDMnZxYVNDaWlBZW5GdWxyZF9BLTRPMlFvMFh2amkyZTlQRHM0Y0dzNkwxeU1qOVRrNHpiRHZjTHdVTm5nRjZ2OVRxVklfd3ZKd05pTEdRUjhwVndpd1BoaDRwRnQ2TklQd2E2dnc4X0pGYWlOcXNaNXIxR1U?oc=5
+- **Source:** TOD
+- **Published:** 2026-09-28T19:33:14+00:00
 
 ## Luxembourg vs Iceland Preview & Prediction | 2026-27 UEFA Nations League | League C - thestatszone.com
 
@@ -273,33 +303,3 @@ _Last updated: 2026-09-28T19:21:15.435725+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMiyAFBVV95cUxOVlc1Y19pSHBMZVJ5VklzWk5jNkxQTi0wRTgySmV5WTdkNV9UYjRBV3BUNDFnblZ5OWM3VVdGYVd1Rm4xWC1oZE9FUjBaZE10NkFOa05aTk9tdVZNRXVCeXBBdnRULXo2RXhYT0wxSlZBTzdwTU02MWl1VWFIU0dPaDBiVEFUZjRNbVlad0d1by1qNVEtMnVzLW9RQWtxSHJ5NGxTZXZZUEF3T3lESll0UnpBYnh2U0lWUXptSUZ1UVpTVkZLcU54cw?oc=5
 - **Source:** kimt.com
 - **Published:** 2026-09-27T18:44:00+00:00
-
-## ‘MORAL COWARDS ARE THOSE…’: Iceland FM’s Stunning Reply To ‘War Criminal’ Netanyahu | Full Speech - timesofindia.indiatimes.com
-
-- **URL:** https://news.google.com/rss/articles/CBMi_gFBVV95cUxOa3JpRkdKRWZ1Q0kzUzV3a3lnNWhoMFNsaXNFX3NOQTFuaGVDbVkxczUtVTZ1VzdMY19WLXE5eVY0RFVJd182MnlmNHJ5eXBVYjVNQTZaOVptVW41VkFnZTBPa0pjNHEtMkxBa3BwcFpoV0d4TnlkMVNjMFRZYnZNZmZfTi1qbFRKU256ZnBGWFZyVnF6RUZCVU15R0E2OGktcGZlRFFfS2NoMzg5VWlkQWNUazhHLWFfS2ZYUWNUSUk5V1pDX1dOMm4wVWxEZVhlTEM1RFNjLVl2X2ZCemozVVdBS1hPSnFCWWdzbzcyS3NodFB0NTE3WHFkTFRaUdIBgwJBVV95cUxPa3BITmxUQnVCOUN2Q1pkWFRQbEYxSjRBSDl0ck9CMWFBUjg4ZGhndlNaUWY5VDRLeEVYWDVabk9zcmNjaWVRVGJVR0FVdUljY1NCcHAtbVVkczYtM2Q0VUpxaHJ3dmcyTmxCcDZuRW05WXluaFJMVXNTbmlhNjVHNkZTRmhySzNJSzM4aEYxSk5fZTJtYWpheGtYTWU2ZzF4VV9KNjJwbFFyekh1NjRrNnk4bG9NSHZGb1VMMmVVcXl3MFk1ZzZ1d0J1bkhNOUpMb1lZazVnRDd1MHVpLTBLcE5QZ2hvZzhBcmRPcUV6bUpSRURUS0xQNkFmTHNZMEJtWjlz?oc=5
-- **Source:** timesofindia.indiatimes.com
-- **Published:** 2026-09-27T18:34:23+00:00
-
-## Are Americans Still Welcome in Iceland? - Guide to Iceland
-
-- **URL:** https://news.google.com/rss/articles/CBMiggFBVV95cUxQdC01eURxTjZ6SzhKcEoxbGRsazU3NmEwQVM5VU8yQ1FzcFRXcTZtTjdnT2tCa2thTGdVcHpNMUFzeklUZ0lITUI0YUMtWjBtaG50eU4tbkJDUGdtNmRkVGFES19aN3RMOUItX3d5SDByQjR1cTFmdVFKdUkzUVl6TUFB?oc=5
-- **Source:** Guide to Iceland
-- **Published:** 2026-09-27T17:03:51+00:00
-
-## Major magnitude 7.4 earthquake - Iceland: 89.4 km NE of Fontur on Sunday, Sep 27, 2026, at 03:10 pm (Reykjavik time) - Volcano Discovery
-
-- **URL:** https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVGY2RnlNalREallmNERZNDhhS2hOYnBGRkpQZzRNWW0wdS0wRHp4YnJQeVo0R241MDJtbWVkaFEzUFpob1ZXbVNuYkdxMDh3bjlRZ0dEZmx4Ny1hUkhpWU83em9jS01NMzU2RlpfOC1nVjhBNFJkUUFiYzdfU1ZKZEo3UWdVN2E1TjhOWWJEWi1VY3FHc1RKZEwza3BWUkJXTWNabnJDY3pQaEdSaUJpVEZ1bmItVzN0ODdv?oc=5
-- **Source:** Volcano Discovery
-- **Published:** 2026-09-27T16:25:00+00:00
-
-## Iceland hits back at Netanyahu’s ‘moral cowards’ remarks - en.bd-pratidin.com
-
-- **URL:** https://news.google.com/rss/articles/CBMiaEFVX3lxTFAySW9aMUdHa0dlaWJGc1MwSDZDYVpSTEdhUzRwZEpnVmI1aHdUamk0VWhFYzZYSHVQd3I1T002Q29tZnBUNy1HUlFDRFBZMEozZ1BkTndSRldKNDdnMlRfNUZneWd0VDYy?oc=5
-- **Source:** en.bd-pratidin.com
-- **Published:** 2026-09-27T16:05:50+00:00
-
-## Small bites from the UN: Canada's wider view, one chaotic rumor and reframing someone else's words - Dallas News
-
-- **URL:** https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWWFjTFpiNHl2U2x3dzFxazJSRXEtamxxRnRkMGdmc2dYc3JOQkt2V3Q3dWMyeURBMGZUWFhwUV9PeGxVREJKM1FjZmRuaXlsY0lXMTNXMFg4T0EwNnVPODdXV0ttaVhaTThCM0ltY3gzTVRqTkdfekg3V1l2OTB1Qk4zZnBCd0tWbXY4RUx5MmJHaWlOTTZQcmwwVTRUdGpCS0FGQVBFeVktUQ?oc=5
-- **Source:** Dallas News
-- **Published:** 2026-09-27T15:30:24+00:00
