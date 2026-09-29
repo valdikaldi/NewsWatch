@@ -1,8 +1,32 @@
 # NewsWatch — fusion energy News
 
-_Last updated: 2026-09-29T17:47:02.744206+00:00 · 50 articles_
+_Last updated: 2026-09-29T21:58:03.556652+00:00 · 50 articles_
 
 ---
+
+## See inside ORNL's new Translational Research Capability - knoxnews.com
+
+- **URL:** https://news.google.com/rss/articles/CBMiwgFBVV95cUxPa1oySEg4eDZIVHpISl9jTi1UeHA5Mmd3ZGpfV1lNcEdSdS1rNjRSMm9WWUxsd29PNDNvZVNVblowQ0pTdmJYZ2o5NGZVQlBKbFVCWEoxVFdNUEQxSVpCM1czdGkyZXBMX1o1X2hHcDMtcGJXZk5Bck45cXlfSG9KVHZoZ25raDFrZFFIemxTY1ZkNHgyMFRGV1RpTzdjc1lGZ09JMkwwbWU2YlhTLVRUNHFWQlM1YWt5VWRCSUxYY3gtdw?oc=5
+- **Source:** knoxnews.com
+- **Published:** 2026-09-29T20:08:00+00:00
+
+## Geothermal Start-Up Quaise Taps Fusion Firm for Next-Gen Tech - Energy Intelligence
+
+- **URL:** https://news.google.com/rss/articles/CBMickFVX3lxTE9pVzdYQkRNMFJyMjNEQTMzbEdCRHBON3lDTmxtRVNCVFBWUWkwZUYyMXp3Ukt0Y3ZXX1JJWUE1YXY4RWluVWt6ZVhYZFRkZDlQeHpGTVRSQnJ1VDEtVER0aG5LS2pCZ1BiVXU0eUVaQmZsUQ?oc=5
+- **Source:** Energy Intelligence
+- **Published:** 2026-09-29T19:37:00+00:00
+
+## OpenStar Technologies, PPPL Partner to Advance Fusion Energy - Mirage News
+
+- **URL:** https://news.google.com/rss/articles/CBMiiAFBVV95cUxOV2lKendmX2p1UXB2UTNROVNTcVg5elZfa1BVU0hUUEo0dkdnbm1nX29RM3Z1cmRlR0pZSE5PR2FjNk04a0hPYzdsc21GbDNRVlhGcHFWcmlyaWZ1UU45T1MzbjNfc01iVTBwbWw1Zk5kWmwxQWlLUHMxYXQ1dTlaYXdNVGJtdmxT?oc=5
+- **Source:** Mirage News
+- **Published:** 2026-09-29T18:36:00+00:00
+
+## $4M funding backs plasma systems designed to work across different fusion reactors - Interesting Engineering
+
+- **URL:** https://news.google.com/rss/articles/CBMikwFBVV95cUxPcEJYZ1FOc3dKbkJpU1pWWFQ5bUZQS2VrUm92YVFadUNWRDlWaEdySTR1OU00Y0M0d2NSN242V1NmaEJpNDBnWW5BY0c1dWhHOTRvMlMyc2ZuNGhvS1ZQZmQxQzIzVXVnNTZkY2N4bFBSNk8xbmtKaFBCeXRUR1dZbm1YdTZUWTByRFVxbWJuYS1STE0?oc=5
+- **Source:** Interesting Engineering
+- **Published:** 2026-09-29T18:34:00+00:00
 
 ## Japan's fusion energy startup to begin power-on tests at pilot reactor in 2027 - channelnewsasia.com
 
@@ -279,27 +303,3 @@ _Last updated: 2026-09-29T17:47:02.744206+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMi8wFBVV95cUxNZGNxaE5EZk85amxkRzN5VkNfd0F4US1HbUNMNkRrM0F5ZHpaUTI1c1NybDU2UWFmOGFELVZrZkpJY3pDQ3BKM0FWSENuQzZkYUN0MGwtRnJMQjNONFNfVjItREp0cTR5SGdfb0dWXzNTa0I3M3hUTmZONFFaMU5JdDFaM1FTMkRRM0xUWmVHckwteUJyd1dUbmlmZ0FLdFlCWVpsYUJWb3VqSm96emZsOU0tZmpWRDNlYlJSTXVUeHFmOWpoMGZQbl9BSndzdU5iWFdualBDWWt3SnNBN0Z0dThkdWdxRmNpMEdOSk02dG1UTEk?oc=5
 - **Source:** TechCrunch
 - **Published:** 2026-09-28T15:00:00+00:00
-
-## Standardizing analysis of energy technologies - MIT Energy Initiative
-
-- **URL:** https://news.google.com/rss/articles/CBMilwFBVV95cUxOekkzOVIySWktOExDbHEzTTdJX1JyVnU2b1lpcVR1c3dNZFZJbUNvZ3Z5T2RUYjhLNWlGQ3RFNkI2NkxjUkhYWGFvUm1PSVN5WTljLU85aDhjM1djS0REc0pkeUVZUjZkNWxieDRLZmdxT1VwcVhCQk1xV2p5SEZqOW1hVHZ2UUtxNFF3S1Z5RFBkQWdQTkp3?oc=5
-- **Source:** MIT Energy Initiative
-- **Published:** 2026-09-28T14:45:17+00:00
-
-## NN Asks: How can the nuclear industry ensure trust in AI-driven decisions? - American Nuclear Society -- ANS
-
-- **URL:** https://news.google.com/rss/articles/CBMisgFBVV95cUxNUkpzd21qeGc4VXd1Xy1TQkxPUEVvaHAxV1pxYmhTTzdHT1NSaVJCOWNlM25zQ1pRQlBDVkxIWWQyQmk5RXhLYmJvZDhsZkhibzdQMGJLVnEyeG9vZ1RYc2Z4NlQ0RUdJQU9JSkI4ZEZtWWt3SElDZHJUY1NmVjhtcUtnN3NRY1oyMlpWOFFrQklzOC0zS1JmNG9tMVF1SG9QR01fUFBYdHQ3NE41dXJYbGNB?oc=5
-- **Source:** American Nuclear Society -- ANS
-- **Published:** 2026-09-28T14:35:30+00:00
-
-## THE WEEK OF SEPT 28, 2026 - AIP.ORG
-
-- **URL:** https://news.google.com/rss/articles/CBMidkFVX3lxTE9EREZ4UENLdnQ4MUNpUUhMTDR6Qy01Wlg5X29PQmxGYlBFQm9JbHpYTWJRdW1lVjRFWkI0QmhENTkyX1JuSE5nLWNONGRIT0xDVEQ5bzZRbjFlVGhQOHFvZ1FWZzVvV0Y0Vkw5N0FtRDNRQ2ZhMXc?oc=5
-- **Source:** AIP.ORG
-- **Published:** 2026-09-28T14:24:29+00:00
-
-## Tokio Marine GX builds nine-partner ecosystem one year after launch - Insurance Business
-
-- **URL:** https://news.google.com/rss/articles/CBMi0wFBVV95cUxPVGxQOFBFOHQ2REluMHhXR3ZmUmcwSURFaUJHTktNeEx1cXB3WkxLNFF0RE5YVlcxdENJd2Nxd0puSlo0NEV1bHI0d19RVWRBWkhHWE1XMzRlZ3lXRjJnclhIbTFHQlFjUHgydXZ1c3RDRDlNZExRT1FqVk1BdkZmREd1ejJwMDVNS0xqMk5zeFg1cUZWcmpzekhpTG1Yc0lYTVBEcC1GSW8ySktKay16aXBhUm5aanNZc0ZnUnlxNUpMN0ZKcjc4RzJlVGN3eW5MVjJR?oc=5
-- **Source:** Insurance Business
-- **Published:** 2026-09-28T14:20:33+00:00

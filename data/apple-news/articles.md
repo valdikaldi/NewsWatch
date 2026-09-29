@@ -1,8 +1,20 @@
 # NewsWatch — Apple News
 
-_Last updated: 2026-09-29T17:47:00.844942+00:00 · 50 articles_
+_Last updated: 2026-09-29T21:58:00.759268+00:00 · 50 articles_
 
 ---
+
+## Apple Faces New AI Threat From Meta’s Muse - Meta Platforms (NASDAQ:META) - Benzinga
+
+- **URL:** https://news.google.com/rss/articles/CBMimwFBVV95cUxNUkx3eTJubTNVcGM0eklRTFlucXRrenE4NHNhOGc3Y0VtTzlvaFppdkVKRWZoZlR1RkFxUDRxZm10ZjZyYjVZUFlKZW9xbU5sQ1dQZzRLNXNfYldBVEtJdWxoVUVtWlN0QkZMSjZJODNGWnlqZy0zcF9CUWU5bVI5djQ3Wm9jZGZJb09HY2ZPNl91b3dCZ2Nia091MA?oc=5
+- **Source:** Benzinga
+- **Published:** 2026-09-29T21:18:31+00:00
+
+## CPI | Apple and Amazon Hit With Revived UK Competition Case - PYMNTS.com
+
+- **URL:** https://news.google.com/rss/articles/CBMikAFBVV95cUxPUUh4cktHMEJzbzZ5akYycndWVGdRWURXV1VOYmh1YUFOSXhHQVFCUzhiTDVVdDlSZVZvZmc1TGxkQWUxRURaUFBBaXg2Znk0Z1Vya0ZONXp6ZUpMaVhOUXpzODFSdER1VzIzQ0YzbkRTeV9jU25JRWpZZlg3UEVEMEtpVjNhWjExSHdhenFJT2g?oc=5
+- **Source:** PYMNTS.com
+- **Published:** 2026-09-29T18:26:47+00:00
 
 ## 'Beyond Spring and Fall': Apple Prepares Organization Restructure for Accelerating Product Launches - Benzinga
 
@@ -291,15 +303,3 @@ _Last updated: 2026-09-29T17:47:00.844942+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMimwFBVV95cUxPcWd0V3lRTlp6MFk4TTJwWlQweFJVZ3dCRlU2S1h0MVpweTBTWDVkd3dBRklyLXRxdGZheXBPWjBxdkVNU1M4bjBtRlJFRVFObmRTejlyMFNVUTk4SjVIdFJ3d1dCeDBMczRhV0s3SmloakhZOWpxTm85T0lCLU9FNk85eXJXblBlOG5nOC1uRGMzNklNR2NHWFhvWQ?oc=5
 - **Source:** PYMNTS.com
 - **Published:** 2026-09-28T19:53:36+00:00
-
-## Federal Circuit Upholds PTAB Obviousness Finding in Apple IPR of Speech Recognition Patent - ipwatchdog.com
-
-- **URL:** https://news.google.com/rss/articles/CBMiwwFBVV95cUxOcENmLU1zTlRKS2JfTk43cURoVFdqaXljVXRFV0RYbzhXbk9mdnhiMHBOa213QXhVZGJ2MzQ4THpGMFBDUWFGMlhwRTRnRWVZQVBkZ0ZwSTlESzNaMnRfV3BPcmViSlIyS1ZyVXhsOXpZdTJELXlaM2s0VVYzenVTQ2liY0Nyc0d2TVNRb0RLSlpieHBqdk9OZnNUWFZ0c1JRY1k5SzRYRzRhZTRyZ2lSbUp0OFA5djJFbFVSX3ZmLVFaQ3c?oc=5
-- **Source:** ipwatchdog.com
-- **Published:** 2026-09-28T19:53:20+00:00
-
-## Apple Accused of Patent Infringement With Biometric Tech Feature - Bloomberg Law News
-
-- **URL:** https://news.google.com/rss/articles/CBMiowFBVV95cUxQSGFHSzd4S3lEUjNKVms2dFJwYkdpTGk4SEpvei1NSmFsb01ESExIY1RWSGF6YUJwNVAzNFNuRlJJaGYzNVU1Q0NKVUt1WGlwSG5XamV1YU5iX0tNcmNUekVaS2FxRWhJQzhjT3NmWTZwWjZ5d2JJUTNLbUVfdVFzcjl5VEVDX1FFZi1PYkR1dk1OeGNLUUpvMTUycG9HOFRSbmdF?oc=5
-- **Source:** Bloomberg Law News
-- **Published:** 2026-09-28T18:41:00+00:00
