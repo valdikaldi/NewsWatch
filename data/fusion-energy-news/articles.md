@@ -1,8 +1,140 @@
 # NewsWatch — fusion energy News
 
-_Last updated: 2026-09-29T00:14:23.809431+00:00 · 50 articles_
+_Last updated: 2026-09-29T10:27:24.262679+00:00 · 50 articles_
 
 ---
+
+## Niobium Tin (Nb3Sn) Superconducting Wire Market 2026: Fusion - openPR.com
+
+- **URL:** https://news.google.com/rss/articles/CBMimAFBVV95cUxOekhhUE1PdWpVUFB5YTdsSHd1TzQ1WnlLbVZVUlM4anZlVi1HdGRLRmJ5QjJCVzhQdXp4UTFlMEctbTRzNHRxbHdKd1VLRU42Xy05dERKOU5ucEVHN25QcmR2ZDh5ckpxbVFJSHpyQkNOeXFzckJtakViZkxDR1cyNVVlNkZONGFUZEFkRlg4MFFiSDRZMjNVLQ?oc=5
+- **Source:** openPR.com
+- **Published:** 2026-09-29T09:48:19+00:00
+
+## JA launches new DC-coupled hybrid battery and latest-gen AC-coupled solution - Engineer Live
+
+- **URL:** https://news.google.com/rss/articles/CBMipAFBVV95cUxNNjg3ZEdhcTdjMVZHWmVQbU9KbFRUOE4tUFJUaUstenUyNWcxM1RpZkM3SmNtZVpJWTJlcHlRQkRYY01TVkpMWjVlTzdNLUh1TEFFVzV6dG9NRDNJR1dReFBmM2FpZzM4MXFQYThINWFNNUZESEZkS0pISDRGdnFQYXlubncxRVlEQ2JKRTJDWVVpbzN1bEFVeEx1WHZBME9hY3BGVg?oc=5
+- **Source:** Engineer Live
+- **Published:** 2026-09-29T09:39:07+00:00
+
+## Beyond AI: China bets on quantum, chips and fusion in five year tech plan - business-standard.com
+
+- **URL:** https://news.google.com/rss/articles/CBMi8gFBVV95cUxOakNlTHdoOUUxUzFZejlGUERzbjVPS1VRUi11WnAwQW1HdlhnbDAzMDNQYjNfMnljSzNsY1IxVVhJeXhZN3hkSkVUNG1xVmFTbExHOWc5NHBoQkU4ZkJMTlM0SUx2OUhqUTZreVQ2NWpOdmhudHhDU2stZG5DZDFNQm9td0k4SFRlZVV2NnYtYVJQcE5PRVFNMlJRdkxfOHltckZtN1JUVWxXcng3VUw5dExyWFlxYlp5Y0J2djVVVDdSUkJ1NmpTUzh4QWJ2TGVwRnk3UkNmNlVHSURYN2RlNUtxU1pkM1h1cEVNbTgzc29zUdIB9wFBVV95cUxQcWczdDZFM0xITGpOZXNVUnBPTWZMRGZGUkJ2ODZxVS12QVYwWXFINTJscV9VZUs3WXU0QWp5ZFl2MHFYOXVHcmZWSEJOUC16azNvNFRnUUJfMFJGTnZZOUtGVXNpd2lia2VaVkMwQXFUb09VeG1vZFVfQVZWSzAzWFFmZ1YxcXFCTkJMbERkemdyNE1pb21xOF96SXNic3lFTFR0QTVQUy1lUERiNVlKVWYzUTdtTG5DOW5xeWJWOUI5TnhVUEhvTzM1a1FCR0hRNDJGN2MyWjk4ZS14XzF5dUxFbHhUMkNUSV81ajBDZUJKT25yLTk0?oc=5
+- **Source:** business-standard.com
+- **Published:** 2026-09-29T09:35:29+00:00
+
+## LOCAL EVENTS CALENDAR - The Herald
+
+- **URL:** https://news.google.com/rss/articles/CBMikgFBVV95cUxPZHJydlV2MkdubmFsRXBXcUVKY1dkNjBuNk9kYTA4eHNWU3NqbHhramF2R0hGb19NRmpVYjZhYS1SZlJlVnQ2bGU0VmhBaW4wWmtxTWpNSThPSm9UOXg2Wk01bDkwVmM0LWZtQ0dBZ3BtclJ4Q3JNOEd3QWxKWExOT2JrcUg0cnBScXZMNHVsSlJ3QQ?oc=5
+- **Source:** The Herald
+- **Published:** 2026-09-29T09:08:32+00:00
+
+## European Energy Ministers Coordinate Response to Price Surge in Dublin - energynews.pro
+
+- **URL:** https://news.google.com/rss/articles/CBMinAFBVV95cUxOekhjSU5qakJvNkJrNS1qM2tudTMtSUJnYTVGMmVoU1FqQWUtWnJNbzBLS21keG5NV2dYR3NoNXNaWktubHE5VmJGZHdJVGxHZzhNcnJuQXFTT01SYnFtcXY5aDRSWjZwOXVGb0Y2UkQ3Mk1iQ1RxcEdfZHRSZWk5RHVxbHlkTzlJQTh1MFdyM19DZkRtU0RQd3FKdFI?oc=5
+- **Source:** energynews.pro
+- **Published:** 2026-09-29T09:04:38+00:00
+
+## TotalEnergies and Ile-de-France Chamber of Agriculture Launch €500,000 Partnership in Seine-et-Marne - energynews.pro
+
+- **URL:** https://news.google.com/rss/articles/CBMiwgFBVV95cUxQaGNabEloRlIwdWxWLVNORGMtOHV2cnVDOFB1QkVxNjRiUUNralp1MWk1ZDVnX29uTC1GVUowSnNYR2pUMm9JM0c1N05JU3J2N3Y1UnhxRUpCbVJVMzZZWDZCTGpMWk04dWpJLWFaTGphU0VDTUF0MWRvUXUyb0p4WW1Yc1JsZkw0aHdfM0RmeVRITDcwaEtWcUY4MEtfRmVqa2o4TnAyT2phVWFmQkZ0djcxZXBKYnJsdXduNjhiQXdXdw?oc=5
+- **Source:** energynews.pro
+- **Published:** 2026-09-29T08:36:15+00:00
+
+## Stark Power Raises $85 Million From Bank Hapoalim for U.S. Expansion - energynews.pro
+
+- **URL:** https://news.google.com/rss/articles/CBMilgFBVV95cUxNZFVGUEM5V3Z6MmhUTWwxWjRhcTA4eGpHdk8yQ3lTTUtzVG5haGc3X1h3cm1KWFV5TWhkZ0p2Rkkybk1WSVZ1VUhiTVpRTXJTLUdkRW1LOXBWTkpiU2kwUU9Ub3pFTngwX05jWTJzZXhBYWZVU2U4MlFCemJxaXJSSE9Yd09ZaHoySWNuLTlQdVJldFl0UEE?oc=5
+- **Source:** energynews.pro
+- **Published:** 2026-09-29T08:21:06+00:00
+
+## JA launches DC-Coupled Hybrid Battery and Latest-Gen AC-Coupled Solution - Installer Online
+
+- **URL:** https://news.google.com/rss/articles/CBMitwFBVV95cUxNLVVDaGMtRXU5TmIwX3FCWTdZYlE1TXNjX0ZURTFOclNLS0xCUjNIV1VfNmFZZTVMVDF2RFdVaUNGMHZCcWFBaHRYQW1xRUZFUDVWOGV4SGEzWTVFMDNUWVI4cDJlNV9tRTQ2dmZ6WlpiQURicmE2SXQwVFlEcVdBc0dxZlpHcXBfZXhjbm1SMkc1TDBYdUkwZW9pM1BFTGh3d1ZKQkotX01sQm54RmdFTmRyenJpcTg?oc=5
+- **Source:** Installer Online
+- **Published:** 2026-09-29T08:00:47+00:00
+
+## IDB and IAEA Sign Cooperation Agreement on Nuclear Energy - energynews.pro
+
+- **URL:** https://news.google.com/rss/articles/CBMiiwFBVV95cUxPM2RqNWc0UDVuaFFjb09kTWNGRTN2UUpyRjFRVnF1ZzVpeUZRZ1N3SFdMZTRkSldQMzI5eUZpTTZrRjZmWF9fbW9rNGFNc19ZNDNueDZ6SVY3LVlFM3YxdFJRcVJvazhWY3BLMGFWbGdyOTd2T0ZvcWRyVTUzRV80SU11WXZKek16RnU4?oc=5
+- **Source:** energynews.pro
+- **Published:** 2026-09-29T07:52:26+00:00
+
+## Gore on AI’s True Perils Existential Risk, Not Data Center Emissions, Should Keep Us Awake - Vocal
+
+- **URL:** https://news.google.com/rss/articles/CBMirwFBVV95cUxQTXI5enlLajZhcXN5REdjeHlHa3VNTnROUjd4N3RsZk5JQXRFcXJTRGRQSmR3UHpkV1lZMkdWNVBRVXlMMk5Zc3dYV21JXzc3T3RKSkRhVTAyNy1LakoxWDRDcVVwbFRKT1otT2c1cnhVQkx5cU8ySWRDRmF0UXFxbFNmT2tDRGRwTEhZTC1DR0FqQklMank2RTdPVjdBMm1CaWhGTW1OS3JlR21VZ2VF?oc=5
+- **Source:** Vocal
+- **Published:** 2026-09-29T07:49:25+00:00
+
+## Syria Launches Transit of 32,000 Tons of Oil Products to Iraq - energynews.pro
+
+- **URL:** https://news.google.com/rss/articles/CBMijwFBVV95cUxOVS1kR09hM1h2bDNwVUVqV2VuX1JfUGo4ZmNCTG9XSHJoSmdLTWxvSlVHcXNSM0Q4OEV3ZWlQZVlrZDRvMXdRWUVtYUhlM0w0V3psbFVHbDZVdXZ5X3lTSmxJQ0RxdVBBM3phX19GNjdiUU9zbGhkWk80V3NuLS1qZ2F1d1pSazRPclMxUDZnRQ?oc=5
+- **Source:** energynews.pro
+- **Published:** 2026-09-29T07:21:08+00:00
+
+## Gigaphoton evaluates L300KZ excimer laser for advanced materials pulsed laser deposition - eeherald.com
+
+- **URL:** https://news.google.com/rss/articles/CBMid0FVX3lxTE03ckRiNG9ac0p3LTVYemdQNlN3SW0xX2s4VVJBNnJ1VmtfZlQzaXdnRlh5ZjBuUUJ1dXJ6blJVWlVqUjhJSnFuMXhZbXJIZ0o4ZGJqOUNSU0s3N01jeENMOWdtUjZxNGpGZkRicmI3dnEzS2ZzVnZV?oc=5
+- **Source:** eeherald.com
+- **Published:** 2026-09-29T07:18:52+00:00
+
+## Music in the Grove sets October show - Knox TN Today
+
+- **URL:** https://news.google.com/rss/articles/CBMic0FVX3lxTE1yN1J1dE9BWnNFNUpIWjVBQUNELTFUNnNsTmFnZTI2aUt2N1NaemNLVXd3ampUbHZKN1hfZVZhSmoxb0JkUld2em9FZU04LWI1NFhGY2plOTVXS0hmRk4wX3FSUTE1MDJyVDFWVEVaeXJLUEE?oc=5
+- **Source:** Knox TN Today
+- **Published:** 2026-09-29T07:16:15+00:00
+
+## Renewable Energy Unions Call for Protests in Paris and Montpellier - energynews.pro
+
+- **URL:** https://news.google.com/rss/articles/CBMilwFBVV95cUxPZ3F5TS0wSU1XRElSV1BnbzF3YUZrM2JHU05McklsUDV2RG55XzBBeEJZTFo3T2xLZ3Bja1A3Zk5Yczk0WGprYnpYZW44VjUyVkJLSzVGTEdSSWtHbzNXc3AyLXRQMHlmYnZjTDFwejBmdEJCYURTejFQdTljTjQ5Y2tHcHhqTk5PeFoyekxwUVVHVHFzTDVv?oc=5
+- **Source:** energynews.pro
+- **Published:** 2026-09-29T07:07:49+00:00
+
+## The UK Commits £2.5 Billion to Build Its Fusion Energy Industry - energynews.pro
+
+- **URL:** https://news.google.com/rss/articles/CBMikAFBVV95cUxPbXY5WEJ5VnpoT2lnSldMUmZtTUJTSEozR0sxUU9RQ0xRcll0eExaY0ZkNkJKYUEtZmFlTDItRkNFSDV3bjZZVXJrYjlCaG85U2dMcW5DTTM4bS1fajQ2UWVRSzN2aTZpRXhKXy1YbU1lZ0JBZC1nNUdDUEZlUFJld2FUYUJDVGtFTUxiOTFtMEU?oc=5
+- **Source:** energynews.pro
+- **Published:** 2026-09-29T06:51:33+00:00
+
+## Energy UROP: the intersection of research experience and real-world solutions - MIT Energy Initiative
+
+- **URL:** https://news.google.com/rss/articles/CBMirgFBVV95cUxPX0NkQmxPVXRnYVBzMW9XOEI2NDAyeFVlZEF5NjFxdEtvMEQtZ2xNTGRHSGRXVDhuMXhmRUlEMEZGemo5MDFsSXl6YlhNRDE5TVhQN0VfVWVBSk1FY2VEbzdJSjU0anUybi1UVlp1UURzWlhHbGJXXzZVRDNua3hPVTE5RUhuSDhVUGZnNE5uWldBWXZLRXVnaTNhdldWR1F5SDA2OFJaS20tQmowLXc?oc=5
+- **Source:** MIT Energy Initiative
+- **Published:** 2026-09-29T06:40:58+00:00
+
+## IRENA Reports 2,500-GW Backlog in Global Grid Connections - energynews.pro
+
+- **URL:** https://news.google.com/rss/articles/CBMiigFBVV95cUxQMDFscTBXWVlBMkxUX3BfRmg0LVVRUkZYcEZnenhvSHdoUEdLWVRLME51eTluLXZGTGVMREZzTVFTMzVzZmt3aVRSQ05RRzFUQVVTZnV5RkZNM1ZPWkdQazJWMWdzVlBTd21RTVBqQVRPaHZqLWZsSDd1dlh6TG95Uk1pQURmOHE2anc?oc=5
+- **Source:** energynews.pro
+- **Published:** 2026-09-29T06:36:23+00:00
+
+## JA expands C&I-BESS offering with the latest generation of DC-coupled hybrid system and AC-coupled solution - assetphysics
+
+- **URL:** https://news.google.com/rss/articles/CBMizAFBVV95cUxPZ3k1TGNMV1htdjV2UHdiS3BicHNxd0s0MXF5cFd4b1g0OEg4U3M5MnZTVUJDdTg3THFKRGRvQXl6ZjNfSnpVTUFsYVpVVDdsdlNDR1lKc1dCeFUwd1hZdG5wTktqanRua1VZZnNLVkZvTTFHNVNKdy1YZDZPelBwY0hNQ1F3VmM4TkVTdklPaGQ0MzUtUy1rNUw4ekFBdHFfVk9VdGZkTFREYXpTS2czd3J6a0U3ZUdzR3VMNml6aVlFWW9aMVAxb2J3ejY?oc=5
+- **Source:** assetphysics
+- **Published:** 2026-09-29T06:29:12+00:00
+
+## Freemelt signs new contract with F4E to advance tungsten manufacturing knowhow - marketscreener.com
+
+- **URL:** https://news.google.com/rss/articles/CBMiywFBVV95cUxOVElLeTZPVDBFc1JoUFdpX2s0MWo5MmpZWVdBdUllSnNlYU5GZ0lTc0J1N2doU3dIMW05REozcUc2QnB1RzBvZ3hmaFpUS3VxbmR1NlNHRXhLS0hFM0RMZGUwemhaM1FIOGRDeTVjSlplTWNxQjRiUlNKUjhxQ2V2NHh2aGJwSHpQeUdubERqTTk4WXUtQUZGQXhPYllpb2lHeUFwWmVXZTZ4VXpkTUlEbUdfUUVadEVrTGFGZzN3MkRmSzlDSDl6T2lKMA?oc=5
+- **Source:** marketscreener.com
+- **Published:** 2026-09-29T06:11:09+00:00
+
+## Mobiis Wins Major ITER Control Systems Contract in Fusion Project Consortium - TipRanks
+
+- **URL:** https://news.google.com/rss/articles/CBMixwFBVV95cUxOTXNDb185Tmg2b3I1eFpsaFpYWURoSmk5N0RjRGV6eHRHbFlTWGVUdUl6TnBxbTBYcWN1WVgtZ1dwZEdneGxoOVVyUnRqV3FUN29FZFhtQnlGOGcwZDlLU19Jck5lS0tEYzRmbG5MZkZWV3pSMkQ0NDN1UENGcnNLaVVGNUtpNGRuVVAxR0Jqc1czYXJZdDdtM042UkRDRXlwdGpPYWtINUc2QkdpYnlCZ0FFbjVlaURtczVnOWFldWlCR0NNTWVj?oc=5
+- **Source:** TipRanks
+- **Published:** 2026-09-29T05:51:14+00:00
+
+## PPPL contract extended amidst AI research ventures, concerns over facility management - The Daily Princetonian
+
+- **URL:** https://news.google.com/rss/articles/CBMi8gFBVV95cUxNMnZ1Nk1PMEZtQnpGSDFuaUE4bTBIcjF1VzR1NXhWRHQ0ZGNDdkJyLVhyTlRFTVpiMGo3TnZ6aEp5RTV0Nl9KSGU1MDVmU2dEVnllbXFEWU5zaXhvX2FTX2FUWTIxTkNWNDl5OFk4VzFzTUF5RnlpZ0pTXzZHdkkyNFBseHFCX2NQU2JIcjBuUGNKeFdCZTVfOHp5aC1HYWlycVNQQnlqRXNEOTlvUzZZamJZQzlKa2ZBTGUtTmo1bG1SaWh2N2xJR1FqWHR1N0xzYkZ3bXgtMW5YUEVab1M5bjd1TzcwM2lZdGVBM1ZhUmpVQQ?oc=5
+- **Source:** The Daily Princetonian
+- **Published:** 2026-09-29T05:44:00+00:00
+
+## India’s ‘artificial sun’: How close is fusion power to reality? - theweek.in
+
+- **URL:** https://news.google.com/rss/articles/CBMiowFBVV95cUxQZW40OGFDSFM0ejFJTm5lNnJpZVlJNGFab19hZXZvMlNBVDlubTN3WWZFOHhCMm9qMTY1MmptR3lkaGJRd1BPQkF6R0todFhvcmQ4R1J0a2VUWmF6NE5Hczg3ZXB0Y2xPdE5WY2VyblgzczlVVk1RYk9YeS00RUx4MHRVV201TDF2clBZVGZITGN6Z0NBbW1xVldaaWt2RWRCVkhB0gGoAUFVX3lxTE82Y3FKdHNlaXduVGtmVUJfM2tCbngxczRyeDEyX2FMdVpFZzc5SHJVa1VUSHRiOFpjTlVqRUNPMV9yRmoxYU1ITl9GN0pTc3NOUkFXQ2l3enFIUXZpNlh1VmM4TVUwVGhEeW0xNXdzSkc0bnRpcmVlaWVqWjdSdmFIZDdGcnNoQ1N0REhCUUFlS3hBVVhldnB5ZDVFWnNrN3hteFgyUHlWLQ?oc=5
+- **Source:** theweek.in
+- **Published:** 2026-09-29T05:37:57+00:00
 
 ## American Fusion (OTCQB: AMFN) Expands Texatron Trademark Patent Portfolio as Uplisting Plans Advance - openPR.com
 
@@ -171,135 +303,3 @@ _Last updated: 2026-09-29T00:14:23.809431+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMipAFBVV95cUxPR3NmYkNOcnBHeTRGTlIxUVNFbHNsNzIta0YzZlRXRGhpOVo2SzlIRVVfd1Z2eGxzdDEwS1RialJCVkUxQ19Hd0ZpZTJsWDhya2FhNktnQXEzaVozZlZmWHpWbzhrb0pseGFnS29DTl9ENXF6eUJRRndJdC1qMHNJMHVVLW10Y0VSbFVEZTJaYm1Za0M5ekgwVTItM3p6OV8xYWJUSg?oc=5
 - **Source:** Euronews.com
 - **Published:** 2026-09-28T10:16:33+00:00
-
-## DJ Rox – Apocalypse Ft Tidiane Mario MP3 DOWNLOAD - CitiMuzik
-
-- **URL:** https://news.google.com/rss/articles/CBMijwFBVV95cUxQR2UwTTBmd1pHeXNMUkd6VnFQeW10ZDd2OHdRZXBONzhGeEt1UDEweDB3c2JxOUJiZjFwYVBFTDA4QlJYMDUxYzZYbXFONUNGNnNxM1NrYmpxSTkwaEFmY1RvV094aXBpdHBQMkxmWUxIR1BLZ2J0RGxuQnpxb1ZfVUlUeEFpVXF5V2VoWGNGRQ?oc=5
-- **Source:** CitiMuzik
-- **Published:** 2026-09-28T10:04:13+00:00
-
-## Vospa – Bila Wewe MP3 DOWNLOAD - CitiMuzik
-
-- **URL:** https://news.google.com/rss/articles/CBMidkFVX3lxTE8tOTU2R0Vad19QT0NyOUtwMU1odV9DbTlKUkFsUlQ3RngwRF9iSWhLRGkyLTVORUhERlRiREpKZlQ5aWZLckR6bUw5UVNSXzVKa1VFb2hhWWRPeHFJTVpMRExYNjNOVnpCZUROQXBNYTJtT1hoeUE?oc=5
-- **Source:** CitiMuzik
-- **Published:** 2026-09-28T09:54:06+00:00
-
-## Virginia Beach comes together to honor lives lost to suicide and more headlines - Virginia Mercury
-
-- **URL:** https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTEk0WGR3ZjRtcVVyMUQtNWk3VXRuWWpQbGlUV3BqY2Fmc1JYSDllRGRVLWZnejdIckYyRU5oclhyNTBJTnBlVWtPRkxpZmlEeVFMeDRicTZiY1J6alhrMmpmYldZV0hHOXByNTNwRE5FbkRhRHN4TXlMX3pQMHVDaDltajhYaHRHMjlWd3MySlVYOFJkSW5vZzV6cEltalFUN1RhVGtldXZpdVRsQnFOY1BSVk1vUEtOcER3?oc=5
-- **Source:** Virginia Mercury
-- **Published:** 2026-09-28T09:27:47+00:00
-
-## The Power of Hitachi’s Manufacturing and Talent on the Front Lines of Fusion Development - hitachi.com
-
-- **URL:** https://news.google.com/rss/articles/CBMiekFVX3lxTE4yV2NRZkRqbWJfVkgyMWExNGQwTWc3eHNMbTNyS1l4WXlpVXRDQ1A0eDlDZmE1LWx5OUNJTWQxY3hnNnNrdnNWWVNROURtdEFIM3FMaUxpLW9DY2wxZnh1RzZGV0dpUm1CT044dUpTR001c05ZZFNpZ3N3?oc=5
-- **Source:** hitachi.com
-- **Published:** 2026-09-28T08:37:49+00:00
-
-## Wellington startup uses AI to transform beauty shopping - WellingtonNZ
-
-- **URL:** https://news.google.com/rss/articles/CBMijgFBVV95cUxNaHZtWDdoM1BBdkpIOXl1VVo3dWlrbjNLbkRzUFR6YWxhekJhOUYzdVJOb1o1U3FmNXl4dU1jdl96aHlzc1gwM19ZTXIzMC1vMW9rS0FneTIwX2szbjdCei1kSmtwaXNKakJvYll4NU9kZU5EdHMwdGVHeHYwWXlEd3hUNU5kYVZSVE5iUzln?oc=5
-- **Source:** WellingtonNZ
-- **Published:** 2026-09-28T06:51:10+00:00
-
-## Vietnamese professor at top US public school behind $44M research on earthquakes, aircraft - VnExpress International
-
-- **URL:** https://news.google.com/rss/articles/CBMi4wFBVV95cUxQY3c3cnVsRUdOS1cwOUIyNFI3UEUtdlBYLW1IYm1ENTg1cXNRdXJWTm1tMmE5ZzM2X0ZYTlF1NnpOWnNIUlNyTkFDOWYyR2psUk1WQklsZVpob0FOUEU4WTZxLW5LTmgyY3pmSndxTDZLN2RuVDhJRTROMlBwQUJCWDFUc0RCcG9UdmstSjNpNmEwbmJLaG80TEhjZ3pXdEU4dDNOcUZuYkNLV3g4REdxcjViLW9qc3pnbl9vWUR0UmZseHNvZTdsNC00RjNyb1VHNE1DT3c2MExRbXk4ZEZ5MlBSSQ?oc=5
-- **Source:** VnExpress International
-- **Published:** 2026-09-28T05:15:00+00:00
-
-## Design Union unveils Domo retreat facilities in Lekki - The Nation Newspaper
-
-- **URL:** https://news.google.com/rss/articles/CBMijAFBVV95cUxOVU8tRlFTODZiTU1VamJSRWh5TmUyQnM5dHFTd2MxTUltaVJ5RjgzdWhkc3BiR3ZkaFpTdzUwcW9ibzZQSTNzR29pOUQ5WnF2Z3A4NEUzWURnTXg5OFdPZ3ppWEFaRDhoZE9rV3pfQUQ1LUNuSlI1RXpsM05KTWtXSHAzbzVRVDZ0SjV1cg?oc=5
-- **Source:** The Nation Newspaper
-- **Published:** 2026-09-28T04:28:35+00:00
-
-## When Machines Can Do Everything, What Is Left for Humans? - semivision
-
-- **URL:** https://news.google.com/rss/articles/CBMigwFBVV95cUxOVzJyZ3VBaVdyQW10MFhmemdqd0x6akdvdUlHU2tYbXU3aURfUjB6Nlo3UGRIWmJySTZnVVM1Rm1GeFUzdWJnd1BLNVR0RHBBd2EyOUJSYVlwSGlKcWhDY3E2Z01HeTJCdGhvWUltMzVFNFhGaGFQWFpvU21tRGpwM29Obw?oc=5
-- **Source:** semivision
-- **Published:** 2026-09-28T02:46:50+00:00
-
-## Foreign Secy Vikram Misri meets US Congressional delegation, discusses Russia Sanctions Bill and strategic ties - lokmattimes.com
-
-- **URL:** https://news.google.com/rss/articles/CBMi5wFBVV95cUxNbmcxU2dRUUtrZ1NmRHpPR0haa1g0b3NkVEI1NEVXTEcwMDJPbXZTM3c1S2xBRjJwWWN6S0JvXzBaeHFkYnZwLUFncmUtTzJaZVRISTVTMlByMzlyNm12aTJDSkllcmg3bVR0SlJpYTNvOTFyeDZzWTREaDBvSkcwX0E5T1FGSmVJLUtjb2VVcU9teTFYXzVQNkFoSGNhUmZUSUZvVEQyVUloenI0U3lLYWdRSjBfbVBadjRlNFdEU2dQcVd2M2pYbFAyMjdmZjI1dEpJRFVpVWdGQ2FORlpxM3dlTEhwMjQ?oc=5
-- **Source:** lokmattimes.com
-- **Published:** 2026-09-27T15:52:28+00:00
-
-## Oshemeni – Emathswaleni - six9ja.com
-
-- **URL:** https://news.google.com/rss/articles/CBMiYkFVX3lxTE9qOHFqdm1wZTRfMm81X0luY0tySTN3TElFNGxzUFFxb0JsbWZSWUYxeTZnSEZTekxITnhFQ0FuWnVydGhRbkhncTltMDNQRWl4RnhROUx1WDFTTkI2U013NmRR?oc=5
-- **Source:** six9ja.com
-- **Published:** 2026-09-27T14:41:06+00:00
-
-## Jamtoberfest '26 takes place October 3rd in Flanders - NewJerseyStage.com
-
-- **URL:** https://news.google.com/rss/articles/CBMipwFBVV95cUxQQzRmbnV5M19RV3pURlhIb3ktc2VwUVZWVmtQaEgxWkVNTWVYSUpLbUlvaE5VNmQ5WmFaV1VtRzYzSDdZcVhqcWRkWnkxa1pQbzFUWXN0MFd5QlZTa2g4UVp1M3phdGRSdU1pMGNoUk1Rdk02UDluX1M4NW5hZ1J2Z3JrQVp5YXJpZUp1bmg2bURGbDFmYk1leTB0b3p3Tk9wMFNRYmNuZw?oc=5
-- **Source:** NewJerseyStage.com
-- **Published:** 2026-09-27T13:34:49+00:00
-
-## Sustainable Nuclear Power in Italy: Franco Cotana on Costs, Safety and New Reactors - italiareportusa.com
-
-- **URL:** https://news.google.com/rss/articles/CBMiwwFBVV95cUxNeWZmaUc1WHpoNkxBUExhMHJnbDBVb0lxRGN1TGx5dlNUVC1Ra2J5c0E4MFpodnZ6NTVMeEVjQzNzZmVZSmRFU0ItVXZGejB5Z0h1UWs2YTJvSWRpYXpsMk5MMHZDX21OSW94ZmpCTWJOSkFDWVNyZkhQQlhrT21sSWQ5Zkg0Z0RPS0l2SGZ0Rk9WNEZaZU1XbUpINmgyT2FhRDNIR2dsWDl5bjdjWFlVVkdvZWxDcGtTSGhheGowZ1dKSW_SAcMBQVVfeXFMTXlmZmlHNVh6aDZMQVBMYTByZ2wwVW9JcURjdUxseXZTVFQtUWtieXNBODBaaHZ2ejU1THhFY0Mzc2ZlWUpkRVNCLVV2RnoweWdIdVFrNmEyb0lkaWF6bDJOTDB2Q19tTklveGZqQk1iTkpBQ1lTcmZIUEJYa09tbElkOWZINGdET0tJdkhmdEZPVjRGWmVNV21KSDZoMk9hYUQzSEdnbFg5eW43Y1hZVVZHb2VsQ3BrU0hoYXhqMGdXSklv?oc=5
-- **Source:** italiareportusa.com
-- **Published:** 2026-09-27T13:15:23+00:00
-
-## California listing shows dirt backyard with AI staging, and commenters call it 'false advertising' - The Cool Down
-
-- **URL:** https://news.google.com/rss/articles/CBMiiwFBVV95cUxOYTBfOG1HQjk5N0p1LWVVQ1lUTzZZVE9GcEJoTTZTYXkzd2ZNcUJaWm9Udjh3TUJqX25MeDZGTXNzNkp4UkRLSlF2Uk5JemtBRl9DNngtV1dPaGhLdjVqTzBXcWw4dnl4aXlFQkU5bTZFZ1RvM1ZIOXZ3Q1loVmVGYVhkOUE0OXhsMW93?oc=5
-- **Source:** The Cool Down
-- **Published:** 2026-09-27T12:06:00+00:00
-
-## A New Chapter in India's Nuclear Journey - PIB
-
-- **URL:** https://news.google.com/rss/articles/CBMid0FVX3lxTE85cUxVNHlLY3lYZFliZENOb25QQ3I1cUktRUQyV284Nm5fZm8ySkl2UHprVHBzTVlKLXdzbWZEdWt5bjgybEloV29RR2VCMFBrNXRwVGFzejN1WjJGbjhYdFJkX1lCSF9CdlFXOGlFVHRpZUV6V21Z?oc=5
-- **Source:** PIB
-- **Published:** 2026-09-27T12:04:15+00:00
-
-## In Germany, one of the country's biggest nuclear plants is becoming a fusion laser lab - Yahoo Tech
-
-- **URL:** https://news.google.com/rss/articles/CBMilgFBVV95cUxQOTRUYUNDME9WWXh1NnczVXU4UXVnaFhBa1poQWNuaEJ3bGtLTFgwR21ZNFZmaENaLTZRQU9zYUxVa24wUWRXdnE4QVhGZE1HWEQ3Nk95eEhZMEtYWmxnQTVoeVVSUFA2U0pfbUVSVWNHdWFodEhVNGhsZmZ2MVp1R096TUQ2bm4zaTVjdE5jYWJ5bGMtblE?oc=5
-- **Source:** Yahoo Tech
-- **Published:** 2026-09-27T11:55:00+00:00
-
-## California homeowner on NEM 3.0 gets first negative PG&E bill, thanks to August battery exports - The Cool Down
-
-- **URL:** https://news.google.com/rss/articles/CBMimgFBVV95cUxNTk5UWUN6eFFDRlBaVlRfOUpBY29Zc1hKWnJqSUpDQ2h4RFZmb3RKaWU3MG4wbThRcjRjYnF5c21LMWpVNTVrRVdIaTM1dGRJdFRrUWt4bVVRTklGU1BOT3VzWHJ1VFVPTmJiZnM4SmNtVE5OX1JMN1ZjTFF0aTJsZ3dGaXBqeWNWZnA3cWdXR2pWZ0pYZ2NBQ29B?oc=5
-- **Source:** The Cool Down
-- **Published:** 2026-09-27T11:44:00+00:00
-
-## Magwe ZA - Bujwa Test Ft. thesiix | 2026 Music | Mp3 Download - Voxtrendy
-
-- **URL:** https://news.google.com/rss/articles/CBMie0FVX3lxTE96NGlFUExHSFRnVHhuLTdmWWNHTmFhdk5iZ2p3dVI0cUpDUFpTNkhYQmNlamJ4WERUdm9OWnA2Slp1c0s1RzgzUlZNSWFtYlBtT1VDdnMyMDZ3eXBUTXFPY0V1QXBkMUp5LWRBaVE1aXdmMTZab3FaX3JaVQ?oc=5
-- **Source:** Voxtrendy
-- **Published:** 2026-09-27T10:48:47+00:00
-
-## AI Chips Are 10× More Efficient. Data Center Power Demand Keeps Exploding - HackerNoon
-
-- **URL:** https://news.google.com/rss/articles/CBMimgFBVV95cUxNcndGbGtDZHhmWjNmM290YmhFN2VLUFlxT2hTdktoSnd4UXJEa0hzQU1VdFh0RkxQdWV4cEtFX3U0MFhMRFU0eUd1MnZqdTNqbHplUFBsemF1R0hZaU1pZFJxUVVMeldXMVptU2tQYUphTUh3bGU1Qm1OODZnU1c3N21JdTUyNWo0TFdBQkM1eUpEcW03RW1YTVN3?oc=5
-- **Source:** HackerNoon
-- **Published:** 2026-09-27T10:18:23+00:00
-
-## Italian Senate approves return to nuclear power, EDF targets first reactor in 2035 - oEnergetice.cz
-
-- **URL:** https://news.google.com/rss/articles/CBMivgFBVV95cUxNaFJ5Z2MxN0poWmxZMklzQ19QeS1WNXltWkJaY3pKNDNwOWtkNTBNRi15S3BraXdJS25Zc0RLNjdzU011Y1BfNmh6Y1NKSUJlbVlmNl9ockJRa3l1N0lWWm5KckFOLS1ydTdrYmF6dUVtTmZmTVRwLXVkYmhqWHpqVGtjSy1aNS1hb0tvZmVsSjk2MEs0eEtELWxxUmpYb241eVBHWkFwTk1ZMkxrWDVwZkw3b2hFNThRZjJ5OE53?oc=5
-- **Source:** oEnergetice.cz
-- **Published:** 2026-09-27T06:37:00+00:00
-
-## California, New York sue Trump over offshore wind buybacks, say they'll raise power bills - The Cool Down
-
-- **URL:** https://news.google.com/rss/articles/CBMijgFBVV95cUxOb2xpRnBHcnktbWpfUm56Tk4zWTYwZTlXYm5DbFlYM3VDUk4xU3p2RE51ZG9meWxXeE81Y0NGSDdLTGZXRk56Y3JWVV9uTGRvT210WkV6RW9PTlN5WWFNOTRNa3k3NVlUX29DczQ0THRuN0ZLOWNPRU5iY3pvWG45bzhuSUp0cmgtamptYmxR?oc=5
-- **Source:** The Cool Down
-- **Published:** 2026-09-27T06:03:00+00:00
-
-## Small fusion reactors compete to generate reliable, safe electricity - TelegraphHerald.com
-
-- **URL:** https://news.google.com/rss/articles/CBMimwFBVV95cUxPbkRDcVVpNEF3UEllU1dSdG51SEVKWHByY0Fad3RxZUkzME13WjE4VzBnSzZLWU04U005d1J2MzBIS3EycWJ2T0VLODQ5TWNERTRnXzRQaGlQdWc3eXNMOWdZSEZsUXg2MVVuNkMwLUR5MWxkeWN2Qml6OV9KUS1KSTVNbmxQYXVpSWh3Q0dhMWl3clhaN01lZFdKQQ?oc=5
-- **Source:** TelegraphHerald.com
-- **Published:** 2026-09-27T06:00:00+00:00
-
-## Nova Origin Achievements - Steam - Exophase
-
-- **URL:** https://news.google.com/rss/articles/CBMibkFVX3lxTE95c1o5UjlzdEdISGFFMlVQWTJwMFJQTzl3UjNzbXdCcU41Mmg1ZU5hcDhBX2ZwR0VLNllZTnI3SHhMM3RRY3dOYmZ0aFRpckJNODdSdmhPNktXcFF6Wkk4NDVwV0QxNEktYWgzck1B?oc=5
-- **Source:** Exophase
-- **Published:** 2026-09-27T05:05:23+00:00
