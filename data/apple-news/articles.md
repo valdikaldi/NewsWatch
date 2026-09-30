@@ -1,8 +1,50 @@
 # NewsWatch — Apple News
 
-_Last updated: 2026-09-29T21:58:00.759268+00:00 · 50 articles_
+_Last updated: 2026-09-30T01:12:22.140069+00:00 · 50 articles_
 
 ---
+
+## Form 4 Apple Inc For: 29 September - Investing.com India
+
+- **URL:** https://news.google.com/rss/articles/CBMimgFBVV95cUxQNVVMeDZJT0t6UUtqSjJNT0pidGhjQ0F2R1UzY0lYV2NGMk5HR0hnczRuTTVSLTVrcVZydm9LS1d0RGwybDhibnU3bF9HbGVoSGtjZEwydFJ2d2lEMFJNTU8xX2pyblR1dmpoOVNzNzFFdzNoMnZzTDNQNmRhVmUzY2k4cHAyYjROc0dRaDlmbHh6ODBYWWtraEN3?oc=5
+- **Source:** Investing.com India
+- **Published:** 2026-09-30T00:00:47+00:00
+
+## A Look at Apple Inc (AAPL) After 2.7% Decline -- GF Value $287.2 - GuruFocus
+
+- **URL:** https://news.google.com/rss/articles/CBMirwFBVV95cUxNcTZFZklncUxXN3VFOEpOWUw5T3pVbWhXSkVRMlJ3RjVEaDR4ZmNKTGNOSkZpbGhiWlJfX3F2WjRuY0lzbUVOdmQzU1BjVThjMEN3c05qejBMZDBheEtKRTNUNFdHX0lLV0U3VzVQQXItckRGdmJjNU1pZGdEWndyTl8zY0NZLXQyRjNRTnkwam1SeTRRUXNMampRaTNjak52akhFUkpVTmktR2IxVEZr?oc=5
+- **Source:** GuruFocus
+- **Published:** 2026-09-29T23:33:41+00:00
+
+## Apple (AAPL) awards Jennifer Newstead performance shares with 0%–200% of target eligible to vest. - Stock Titan
+
+- **URL:** https://news.google.com/rss/articles/CBMipgFBVV95cUxNMURmRndCV200ZGM5SDExRXIxa3p3bUQ2SlUwNnVDM3BXeTMwTFBLQmEwaDN0ekZpZkpDRkYtMExYdnU1bkJpYUROUXg3V1pFRUdlU2ZUTTNJb2NPTUdaelZqV1BIbkFqQnRmc0RRamVWeWlZWTFFQzRSQUNHdTM4WU1DQ0FQa0xybGllWjVFbUJNN1c0em5IMHkzaFJHTXRQSVpoVzd3?oc=5
+- **Source:** Stock Titan
+- **Published:** 2026-09-29T22:42:30+00:00
+
+## An Apple (AAPL) executive’s stock award could vest at 0% to 200% of target, depending on shareholder returns. - Stock Titan
+
+- **URL:** https://news.google.com/rss/articles/CBMipgFBVV95cUxPRTBhRjlKTXpWUTJueXhUM3haSVBTQXZNVFc1V0RlU2VuM2VwWndzNXdmMjB3cEhPLTUzeDctRHpxOWQ3LXEzSlloZ3VKQ284ZlpXcFFrajJFeGM5TXl5UW9OUURiRGg5QjMtRlhHX2tFRVY5MlpMSHYtZEpWVFUwZjBIRmNNbnBsQWVhSFhjbFpyUk1EZE5WUHBQNnNTUEdfbVp2YWdn?oc=5
+- **Source:** Stock Titan
+- **Published:** 2026-09-29T22:39:40+00:00
+
+## Up to 200% of a target stock award could vest for Apple (AAPL) CFO Kevan Parekh, based on shareholder returns. - Stock Titan
+
+- **URL:** https://news.google.com/rss/articles/CBMipgFBVV95cUxNTzF4ejFuY2RfU3h1YW5pWkNHTHlWejJPMzc5N2RkekRJb0MxcEJNT0VoUXVRaGNxSVAzUmxXeHktYjJaeXR2V2ZMV1I0NmNTbEdOaGt4Z0xpc1hoeUNZM0lZeFJQdEtrQy1KOFBuY2cwV01oYXJjTnNTNmM5YXNVNFZHdEVBT0NhRXRmUkxpclI1TFlmZVRUYzhETVQzZG04SVB3a0lR?oc=5
+- **Source:** Stock Titan
+- **Published:** 2026-09-29T22:36:56+00:00
+
+## An Apple (AAPL) CEO stock award may vest at 0% to 200% of its target, depending on shareholder returns. - Stock Titan
+
+- **URL:** https://news.google.com/rss/articles/CBMipgFBVV95cUxPdDZPNVFXU0M5NGdKTUpKV1ZnNUhfRi1qQW9JVXB1Y3RHbkFuQjBLY3VxMnZobm13M21PUzNwQ0JvclMtaURPUGU5MVhzbGNmYmVTZFBfQWQtNElEQkFLUGt0cDZRX1U1TTlLM1BBTnRSWWY4d0dtRjJLZlY3N3dwQ3FkRHJUOHc3WTNYenptckNoT0ppYnU1UVZhbUhjRTRwUEk2ZzBn?oc=5
+- **Source:** Stock Titan
+- **Published:** 2026-09-29T22:34:13+00:00
+
+## Tim Cook’s Apple (AAPL) stock award could vest at twice its target, depending on shareholder returns. - Stock Titan
+
+- **URL:** https://news.google.com/rss/articles/CBMipgFBVV95cUxPLVFCbGNWR0pHbFhVZE9WNGVxRVh2eFBacmFpX2hwRXdsWmd1MnIyUlJ4T3FORTFodDBCM3NacTJERmFXUkFWR2pDSHFoNzdwdURfWlM5VmpWOGxxNVZraUNGc3J3dFZycXJCTWNlQXRQeFF2TVRSVEpmYUhrWGlzZzZnVE5ZTjZ6Uzl0RzNKNHBmUWRzb01JUXFNclVlTU02eHhJYkFn?oc=5
+- **Source:** Stock Titan
+- **Published:** 2026-09-29T22:30:54+00:00
 
 ## Apple Faces New AI Threat From Meta’s Muse - Meta Platforms (NASDAQ:META) - Benzinga
 
@@ -261,45 +303,3 @@ _Last updated: 2026-09-29T21:58:00.759268+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMiuwFBVV95cUxQWEtXUG9uZzRrVHhmQmRnM0dmQWMyTUJtX0ZQWGRFd1JUZWNJVE5yTHRfMXVoZmNEdnlwWWxJRjI3dEs3dHNWMVhOaFRpUFNKU25XdW5iUllDUzdqcUVjRjZLS3d5blI2S0Y3c3R0UGt2QXM4blI1anMzYUpMa0dUamc2T3lqSjhjMVE4UGpQSldOY1ZMd0tRMFRSTWJ0X2xqYV85ZlRQR0RyODQ3WEJSZm9hbkJjcUVVZFNr?oc=5
 - **Source:** MarketBeat
 - **Published:** 2026-09-29T07:09:00+00:00
-
-## Key facts: Jury Orders Apple (AAPL) to Pay $5.7B; Burford Claims $1.4B - TradingView
-
-- **URL:** https://news.google.com/rss/articles/CBMixAFBVV95cUxQWERxUmhERW5Tc3JPYXlUb0gwZkJyTTRFTHhKZEw2Yk14ZTJYOU1YQmt0TjgwT0N2aG5leUdlTWhicDlDOHRJTHZaOVZSd1hyaUxlRmE0MDBUZ042UzRoTXBTNDRsaFMyREIya3NHRE5sc2drYVMxY0Y3cGpzNXdKNTZLZFRhYjk1SGpzeUF6aUVac2xsYTNmcDZ3ZDhoVngydllGZGI4djl1QVVrNUx2RVVZQXY5TGlGMFZxYzZPaXF1NHZo?oc=5
-- **Source:** TradingView
-- **Published:** 2026-09-29T07:00:00+00:00
-
-## SlowMist CISO Reveals Apple Security Update Fixes Crypto - coinfomania.com
-
-- **URL:** https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcWRyR0lSbTIxSmJyRnZRbm5HaUtveWYyeXV5QUgwWnZSY290MUtzdHZTcEctd1R6dWJtYndEUkFBN1RFb3dfaThWT0ZTSmZoX0xhdHh0NGlzcjU2QTBrYmthM21DOHJmam9OazR3QWJleGsyX1pmV0dWcVVPQjlvUHowR1VEMTBO?oc=5
-- **Source:** coinfomania.com
-- **Published:** 2026-09-29T03:50:31+00:00
-
-## Apple Briefs Set Stage For Challenge To Record $5.7B Verdict - Law360
-
-- **URL:** https://news.google.com/rss/articles/CBMiVkFVX3lxTE9VMjc5NXI5QzJaSXBuVDNUck45b1FubjJNRlNSalJRYWtCa2hyMWtMd3lrVE9nb0JUUHIwTnRBTXJfUG85cFdSU1Jsdk92UjVFSUU4X2h30gFWQVVfeXFMT1UyNzk1cjlDMlpJcG5UM1RyTjlvUW5uMk1GU1JqUlFha0JraHIxa0x3eWtUT2dvQlRQcjBOdEFNcl9QbzlwV1JTUmx2T3ZSNUVJRThfaHc?oc=5
-- **Source:** Law360
-- **Published:** 2026-09-29T02:07:00+00:00
-
-## Nothing Debuts $399 ‘Pro’ Headphones with Glass, Metal Design - Bloomberg.com
-
-- **URL:** https://news.google.com/rss/articles/CBMixgFBVV95cUxPYnFpa19OejFxaVF5QklNOWJMZWl2WkM0NjVjbnA2VTd5bHNtaU5ONFhBTThRX1c3MDhBb3cwN1lsWTRYMlNtMnNqWFN0TkV5QmhsejAxejRrVGhVcExKREVMU3Q2clphdkNlQkdjOXM2NzREZ2RGR1k3UUZMSkEtbTQtWHhFSURJb3d2LURGd3d5ckJweVl5VUc0MVhzWXpDR2NwejBHM2FVZ1J6SUNwT1ZHT2EtR3FUc1pXVWJlTHl1MGhwY3c?oc=5
-- **Source:** Bloomberg.com
-- **Published:** 2026-09-29T01:00:00+00:00
-
-## This Is Not a Feature Vector: Zentian v. Apple - Patently-O
-
-- **URL:** https://news.google.com/rss/articles/CBMijwFBVV95cUxPTmlZVmgxX3hGSF84ZXNJT2doRHR5eHZJY1NKZUVKaE10SDltSHJhbU9OZmRSOFdLWFRpSG5BeXpMN05JcXJ0MWtXemlPdFZZclhMaldIRlpGb1RhSnpmemxqU205SDR4UWtmZlVPNy1uN05iRGZxRi1JOXRYWUUxWGxPV0dHR3JxaTVuYzlocw?oc=5
-- **Source:** Patently-O
-- **Published:** 2026-09-29T00:46:42+00:00
-
-## ANTITRUST—N.D. Cal.: Card issuers get class certification in suit against Apple alleging Apple Pay monopoly - VitalLaw.com
-
-- **URL:** https://news.google.com/rss/articles/CBMiggJBVV95cUxNR2c4NlJUYU0xNXYxTVFiLW43TGZTaHAzR1pNX0w3cGtZT0dxSkczTHhTTzdFa19RMlNfRmUtVklCU1BFLUpoclhvMDBTWDZobE5GWEdocndnX1FPd0VyQ2NrcmNhbWUza1hjcFJKZUg0aVdyZmk4T3l2cnd3czMtY2J4VWhXX3FIUVpFY3NvV2cwWk5Jd041TTVxelh6WE5rR1dwOVA2TnVIWTh1c0F4Z0lXMVBxNnotWTJ6QlZJa0RyeUwxX0dkVjlZcW9rWU5jZ0J5TjFORHN2dFJDZUxpNURYaURQNlBueGIwRERfOVRtWGRpNm4tS3cwVDBSbDRJSnc?oc=5
-- **Source:** VitalLaw.com
-- **Published:** 2026-09-28T21:49:39+00:00
-
-## CPI | Apple, Amazon Consumer Case Revived in UK Competition Tribunal - PYMNTS.com
-
-- **URL:** https://news.google.com/rss/articles/CBMimwFBVV95cUxPcWd0V3lRTlp6MFk4TTJwWlQweFJVZ3dCRlU2S1h0MVpweTBTWDVkd3dBRklyLXRxdGZheXBPWjBxdkVNU1M4bjBtRlJFRVFObmRTejlyMFNVUTk4SjVIdFJ3d1dCeDBMczRhV0s3SmloakhZOWpxTm85T0lCLU9FNk85eXJXblBlOG5nOC1uRGMzNklNR2NHWFhvWQ?oc=5
-- **Source:** PYMNTS.com
-- **Published:** 2026-09-28T19:53:36+00:00

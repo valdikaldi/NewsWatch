@@ -1,8 +1,20 @@
 # NewsWatch — fusion energy News
 
-_Last updated: 2026-09-29T21:58:03.556652+00:00 · 50 articles_
+_Last updated: 2026-09-30T01:12:27.117930+00:00 · 50 articles_
 
 ---
+
+## China reaches 100 million hydrogen-boron fusion reactions per second - Interesting Engineering
+
+- **URL:** https://news.google.com/rss/articles/CBMiwgFBVV95cUxNck5ZVXY5TFZubk5FQ2Y3ZkpITlF1YzZKMjVRcFZQWFJ0S3FRdGVZQUtpY3RFa19OaEJPb2pGYUZjQm15SWw2TDk4MEJhNU5IMHJyMkRjY2F5UUVJWF9ULU1WM0h4QXgwYUUxM2p4d25fRmJ4QjRNWVpqTE9aUHRFeEgyVHdhVjhSaUpqWmJ4a05Sc2lOQ243UnZWMHJ4NjVSOUdLVzNjSjByM0ZVWjNHTnV3UktoYlQyRFg1ZklsLXBwdw?oc=5
+- **Source:** Interesting Engineering
+- **Published:** 2026-09-30T01:02:00+00:00
+
+## Fusion-built gyrotron to blast rock for deep geothermal energy - Interesting Engineering
+
+- **URL:** https://news.google.com/rss/articles/CBMimAFBVV95cUxOR3VmbmtMSEJsY005dDJrNUNUYldVTFNjNjVKRGMzaS1UYVE4a1V1cFlZN3g0anR3d3ZoNHMwVzBJVUF6X21ZekpmekYxYWpqVHpkb0YxVVd5eUVWeGY0QTJvWTl2Y3dOVWhleEktcE9aWTVaLWw4WjEzMkZNV29mZ2sxcmx3aEtlTlVCYkN5NlBoR0VoeXgycg?oc=5
+- **Source:** Interesting Engineering
+- **Published:** 2026-09-29T22:38:00+00:00
 
 ## See inside ORNL's new Translational Research Capability - knoxnews.com
 
@@ -291,15 +303,3 @@ _Last updated: 2026-09-29T21:58:03.556652+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMitgFBVV95cUxNWlhCQ0pHZHNOU3RkOVN3VG5BbTlvMjF0NGRSTjhvaENyMDBKVVlpU05HZkg3YVlvUDlCRkhETUIwdDNPN1JWX1FEdlhtaC1kdndpV2pLczB5RFpjOVlfWWpDU01RX2RwQWtmMmFlaDl1b2x1eGx2WnhBTFpveGdlSUV4QVhRMWduQVBpTG1OOWNJVnVLbUpYZGlQOTV2aU02TUhtbGcwSDBPVWMwUG02TnZvTUxHdw?oc=5
 - **Source:** World Nuclear News
 - **Published:** 2026-09-28T16:27:52+00:00
-
-## Democrats request information from NRC, Nieh over regulatory overhaul - American Nuclear Society -- ANS
-
-- **URL:** https://news.google.com/rss/articles/CBMiqwFBVV95cUxNajQ4NzZZMDdxVEw3MEpTT2R1a244a3p5QkF0RER6VFh0YW0yY2EtNDRweGEtM24yN0s3bWFWaTRubkF3bmdMeFNGaVpDbFZWSGxpVU5QcWgyZjNoUTV5eEFMTXdVeXZOQWtxdXRXTUUzaEJ0VUR6dWVYbDk0ZFdqa0s5WG1pajZicFZLcG02UmphZnBfa1RKR1BqNlpkWUNEckwxY0JoMG82N1E?oc=5
-- **Source:** American Nuclear Society -- ANS
-- **Published:** 2026-09-28T16:10:28+00:00
-
-## CFS' Brandon Sorbom and Helion’s David Kirtley join Disrupt 2026 - TechCrunch
-
-- **URL:** https://news.google.com/rss/articles/CBMi8wFBVV95cUxNZGNxaE5EZk85amxkRzN5VkNfd0F4US1HbUNMNkRrM0F5ZHpaUTI1c1NybDU2UWFmOGFELVZrZkpJY3pDQ3BKM0FWSENuQzZkYUN0MGwtRnJMQjNONFNfVjItREp0cTR5SGdfb0dWXzNTa0I3M3hUTmZONFFaMU5JdDFaM1FTMkRRM0xUWmVHckwteUJyd1dUbmlmZ0FLdFlCWVpsYUJWb3VqSm96emZsOU0tZmpWRDNlYlJSTXVUeHFmOWpoMGZQbl9BSndzdU5iWFdualBDWWt3SnNBN0Z0dThkdWdxRmNpMEdOSk02dG1UTEk?oc=5
-- **Source:** TechCrunch
-- **Published:** 2026-09-28T15:00:00+00:00

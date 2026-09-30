@@ -1,8 +1,14 @@
 # NewsWatch — Iceland News
 
-_Last updated: 2026-09-29T21:58:01.857189+00:00 · 50 articles_
+_Last updated: 2026-09-30T01:12:26.703008+00:00 · 50 articles_
 
 ---
+
+## Icelandic salmon farmer prepares for senior board change - Fish Farmer
+
+- **URL:** https://news.google.com/rss/articles/CBMitgFBVV95cUxOdDNFSFR5cHRQQ0ZZTi03OGZxb1RRMHlhQ2xRZjBkVXhqS2hTS00wRFJ5R2pKYU9Db2FkQmUxcG1BSnYzQTFCYW81bW5EUnZVemZfY0VwNEEzX1NuTWkxbmF2cVpZd3J4MmotMmZfdDRaSEhZSGdTVDhReXVESWhmZDMzd1Bjd042c1NoV21TMzNOekNvSGZXMWVTQlNZdUlBY1hFcFdtREZBdXdoeW5PbDZneTNKQQ?oc=5
+- **Source:** Fish Farmer
+- **Published:** 2026-09-29T23:02:08+00:00
 
 ## Iceland Rejects EU Accession Talks After Close-Fought Referendum | APT Honda (RmZw1N93DG) - Unisba Media
 
@@ -297,9 +303,3 @@ _Last updated: 2026-09-29T21:58:01.857189+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMinAFBVV95cUxQX3pGaGNPQlFYLXprb3JLZHVoWEd3WjVMM0FFcU41ckE3UGQyTjJyWU96cUhMS2hhMFN2ME5MaThkWHZsSzVnTGZndUtKNlR1MmxOWW53SEl1ckJPUk1DMGh3VTBVV3Y2QzJsakg1YkNxcUtyM3lreVhJT3g2ZHJZV3A4cXVhTHpBUWIwMGhsWFdYWWtGNFZjblhNR2Q?oc=5
 - **Source:** RTL Today
 - **Published:** 2026-09-29T09:42:54+00:00
-
-## “In moments like this, I feel nothing but gratitude for being in the right place at the right time,” says astrophotographer on award-winning aurora picture taken on a trip to Iceland - Digital Camera World
-
-- **URL:** https://news.google.com/rss/articles/CBMi6AJBVV95cUxNb004WnRpWXNMZWNwVmI1WThmOTExNGlNaWNteVVPM0QwQ2R0WDNId2ItbEZDLUJkZjJOYlB4T1NDTVB4Z0F0bHZaaUE0LWFhcV9ObHhsdnF6OFdFVWN2OGNwb21sRUFtbkRpM1ZiNG0wMmI4UmI1R2FzV202bUl4SmcyTXF0eXMxUERxdF9JdURLX3Q2U01ZWkx2Qm9xbVZUY2hiay0tX0NIc05uaE1ONmZEV29SRVNEa1RDQjBHeXdwcGtwOERFM2V1ZVJqMzNsUlhQdGthYzlleUdRYy1iczBaVHJWTVJ0MHc0alpfVUJRWkU0N1JYay1qRXRYS19lZ05tbERCcUZQSHZ2OHM4RUJGMUJOMERGSk5zN0poT043VVdIa29LcXBWckJFVDRiQ1pWbnZuNkN4QU5rZW1LSjR2Zi1IbXRPUUEyS0RrLWlFX1VOYXV5UkdMTHY5a0wzZkx0bTE0Zkw?oc=5
-- **Source:** Digital Camera World
-- **Published:** 2026-09-29T09:25:00+00:00
