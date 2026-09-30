@@ -1,8 +1,86 @@
 # NewsWatch — Iceland News
 
-_Last updated: 2026-09-30T01:12:26.703008+00:00 · 50 articles_
+_Last updated: 2026-09-30T10:19:24.643494+00:00 · 50 articles_
 
 ---
+
+## Heavy Rain and Strong Winds Prompt Travel Warnings in Iceland - Iceland Review
+
+- **URL:** https://news.google.com/rss/articles/CBMiowFBVV95cUxPQVJ3dTR3bU9teHpiSzMyY1RZNm1PSFNFTzBuM2ZwU2RqLUp3bmdfZTRiSHRBMVdkMkNLMXNKYWhjdThELWZJVTE5RnhYZVBaOThyenhHRkJOSGNEOWxxc0lRQ0t5ckVkT09wSmVaZ09uVVJxdjgyZGY3TngzUUhoX0VLVlZkbTJWaUowMG9uMC0yT3U4Mi1JTWNSbGhJd2FhM3RR?oc=5
+- **Source:** Iceland Review
+- **Published:** 2026-09-30T09:30:58+00:00
+
+## Luxembourg vs Iceland - Highlights - Tapmad
+
+- **URL:** https://news.google.com/rss/articles/CBMiekFVX3lxTE5jWW9oY01rbWdVSWpwQl8wXzFJeklUYlAxa0dnQkxDaVEtYWNVSWxST3FzV09KNm9xYkdoRHpOZzVCUjZQMG5aZ0luSWhUY3JCc05fdnZzWUZXWEN6T1dSYnBPOUozNmZqY0pMcFlKWHdscGRhRDQ3RGVn?oc=5
+- **Source:** Tapmad
+- **Published:** 2026-09-30T09:21:34+00:00
+
+## Luxembourg suffer 3-0 defeat to Iceland as injury problems mount - Luxembourg Times
+
+- **URL:** https://news.google.com/rss/articles/CBMitAFBVV95cUxNWVBPMnB5SmdYQy13M1N5WWRtanB4LXVDVlFUTDEzYmRhRWRoRlMxdkdnclJycnJDd2U4aGR4eGRPMWpWd1hjU0ZhOGFqZ3B6ZXBlWnpOSTJVWUtETnRpdHhjR2oxeUpLT0FMNEFPRXlWZlhLQUY1RTBuWkdqbnh4MVdtZ1FDbnJSSnR3NVV2UzNzckdsQm1FZ0NwUlVkY0kyeWJsc1FkN2VmTEVua05vNko4bU8?oc=5
+- **Source:** Luxembourg Times
+- **Published:** 2026-09-30T09:09:37+00:00
+
+## How Buildner's Iceland Slow Sauna Competition Winners Respond to a Volcanic Landscape - ArchDaily
+
+- **URL:** https://news.google.com/rss/articles/CBMiugFBVV95cUxNUUowTmFwTUdKcF91MWVJVENmVk5TTUZqbzJKOVNMcUhBbVFqdHRZNDBGbGZ1ZXpSdVBYcDJtQ00xTnVUbVY4RVVUVGpaaUNfY3o3OVVTVllnZjZ0TEQ1VGF1THkzMmZPdUwyQUhwTGlYd295elJFSkgtOXRjTnprQVdzV1ZNQzkxMmlNaklNbEczT2UzY0JFUE0xT0JvNURnd21nS0RFOEhQNURGalpQQnZMWXR3MjVFMVE?oc=5
+- **Source:** ArchDaily
+- **Published:** 2026-09-30T09:00:00+00:00
+
+## Rovers forward gets goal and assist in comfortable Nations League victory - Lancashire Telegraph
+
+- **URL:** https://news.google.com/rss/articles/CBMipAFBVV95cUxNNUFTT3BmLTJla2ppQklhLU5LcTZucnplZWpNeG1zV3NTME05ZXhwNUNxVlo5bUZiSW9IYWhGdkozZVlsZjZNZms4U3ZocGtQRlpqSmc2TGs0b3N0Vk8wbENWMEtUMWFoeWlheVZIam9VLV9Za1lpaFVvalhFU05kaUd4MXNzc0tKekdOanppaUJZc0ZvbXhXVW9qUmJIVGVQWTVJRA?oc=5
+- **Source:** Lancashire Telegraph
+- **Published:** 2026-09-30T08:31:21+00:00
+
+## The Best Airlines to Fly to Iceland, by Country - Guide to Iceland
+
+- **URL:** https://news.google.com/rss/articles/CBMieEFVX3lxTE9VN0pabzJLTVRoNHR5RXRRUUw2YlVNYTdybzdHTkdsaHpYemJ3R29fWDZOaUk5djZVdDdxRkdqaWNvbGFjc3hkNTduUU9od3YzQnZLdUZQVVdRMEhfbTJBVFFGRjlUT3U0V0ZIcGZyS2pnRnQ4eEliZw?oc=5
+- **Source:** Guide to Iceland
+- **Published:** 2026-09-30T08:01:48+00:00
+
+## Edda Karlsdottir - Iceland - Player profile - FIBA U16 Women's European Championship Division B - fiba.basketball
+
+- **URL:** https://news.google.com/rss/articles/CBMiywFBVV95cUxPWUtlN2dZZVlIRHFQdGNFT1hnbU84QXJ4UlhzQ2FReUV3bXBSbUR6aWREX1FxNk5qSVF2aDBUSXluMFZUdGQ5MUNZYWZGc0pkN1hrZVRpTGpLRjJhUEVwdkoycVRmZzllVGVsTnpmY2xRR0FtaVg3SGJIdERnZjVGdnMwNEtneVp5aUhtMllUUndfSjJrYWhhMFFhTG16TV9XQXM2MHJ4dlUzdXhjXzJyWGI4WTgyQ21KYTZEdzkwSjlORjV0dnZsMFIxNA?oc=5
+- **Source:** fiba.basketball
+- **Published:** 2026-09-30T06:49:57+00:00
+
+## Nations League setback: Luxembourg suffer 3-0 defeat at home as attack falters and defence slips - RTL Today
+
+- **URL:** https://news.google.com/rss/articles/CBMitwFBVV95cUxQY2VxWS10dGlqZ1NfWnI5OXZJZGRvWHFmRHg1cjdDU0xvQmp0eUFJVVJxWEZTUlhVdHBTVjlrcm52RTItcEJWNExFQ29rUUFaUi1UR29aUWk5TE1EU0NMTE8yM095TVdQSllueDhKM1NQYlIwN04wQTBBOWtDVzlRVmxwWG1kRmhQNTJzQ3E3cDdva2NTZUNCLUU5NGFHaGlobldNNzU4Y3phU0k5SHBzWjZfV1dubjA?oc=5
+- **Source:** RTL Today
+- **Published:** 2026-09-30T05:37:42+00:00
+
+## Iceland leaves aquaculture bill off parliamentary agenda; return yet to be decided - Baird Maritime
+
+- **URL:** https://news.google.com/rss/articles/CBMipAFBVV95cUxNWmh6NEpXejhGMHFYTThlSzQ0U3RTbzRkSEhpRlJkRWNreXVrMGpZNnZlcGdhSnFzek5SRS01U2NlUGx2dXhTNGt6ZVRhczhiRjNWVHhsSzhqU0dUWlZXazNyTXRNdS02MzFKY0FObmJrUlI0bTlmb1B0NWl5R29Nb0JXcmF1cFc1bHdWSE5iT2VNblZ3bGpNZGpabWIzOFBHMjYtc9IBpAFBVV95cUxNWmh6NEpXejhGMHFYTThlSzQ0U3RTbzRkSEhpRlJkRWNreXVrMGpZNnZlcGdhSnFzek5SRS01U2NlUGx2dXhTNGt6ZVRhczhiRjNWVHhsSzhqU0dUWlZXazNyTXRNdS02MzFKY0FObmJrUlI0bTlmb1B0NWl5R29Nb0JXcmF1cFc1bHdWSE5iT2VNblZ3bGpNZGpabWIzOFBHMjYtcw?oc=5
+- **Source:** Baird Maritime
+- **Published:** 2026-09-30T05:28:06+00:00
+
+## Iceland: shelves aquaculture reform for current parliamentary session - Salmon Business
+
+- **URL:** https://news.google.com/rss/articles/CBMiogFBVV95cUxNM2lGSDZOOUdyUFBQT3V2Nkw4ZGw5Nk1TeUNEZkR0NUtqeEFDVE1HcGxjX0V1UkxESWVUaGFVQU1pUGVVbnNKcklWMklzSFUxdDFQb3JHeFltWFFEXzAyOGdSU2VqaURQaFR1Ukp2emt0MTBZWFhiOG5HUkJQeDl4eFRTbnluSXNWZHZJX3R2cGNlajRZYl9GX19MdThIR0N6SkE?oc=5
+- **Source:** Salmon Business
+- **Published:** 2026-09-30T05:08:22+00:00
+
+## Luxembourg vs Iceland: Where to watch, live stream, TV channel and kick-off time | Goal.com US - goal.com
+
+- **URL:** https://news.google.com/rss/articles/CBMirAFBVV95cUxOeGNqb0RSUHp5SzFSWi1xeHhIUXJrcDQtOGZSNVhhQ1BQWkdhU0tkclk5T19yOXBaR0hFbUlDY1RZRTl2M2dvODAwdlZ2UDVnajI1Q19SUnBlMkQyYnhBaDJpclBfWWtFQkllN05OVG1JLVVFUE9QUm9hMUlFMDhSYjAyODJUN0JNYTVEZHZWMW1UMUprNVNsVHlYQXp5cnQ3TnFEVlBtYUYzMlpX?oc=5
+- **Source:** goal.com
+- **Published:** 2026-09-30T04:27:53+00:00
+
+## Jet2 launches 'once-in-a-lifetime' Iceland trip at Bournemouth Airport for 2028 - Yahoo News UK
+
+- **URL:** https://news.google.com/rss/articles/CBMiggFBVV95cUxQYi1RQnVXeDAwcXBiNldKM3U5eFpxVGg5dE9LTXc0VHZBdmNiWlRoVGprekpUMGdJWXQ3Uk5mTzRvSjd1TUc5NE0yVjAzcldXdXFJOVhzd21kdGhsYklQdVpXVThpWmdHVjNIaWIwVWxRcEpJd3RGM25uUHhCbE1QWURR?oc=5
+- **Source:** Yahoo News UK
+- **Published:** 2026-09-30T04:00:00+00:00
+
+## Watch Luxembourg vs Iceland - tod.tv
+
+- **URL:** https://news.google.com/rss/articles/CBMinAFBVV95cUxNUTJ2bmtzaDM3Q2kxeHhtblk5bXdHWHFjblBQeDJpdlpDMnZxYVNDaWlBZW5GdWxyZF9BLTRPMlFvMFh2amkyZTlQRHM0Y0dzNkwxeU1qOVRrNHpiRHZjTHdVTm5nRjZ2OVRxVklfd3ZKd05pTEdRUjhwVndpd1BoaDRwRnQ2TklQd2E2dnc4X0pGYWlOcXNaNXIxR1U?oc=5
+- **Source:** tod.tv
+- **Published:** 2026-09-30T03:37:51+00:00
 
 ## Icelandic salmon farmer prepares for senior board change - Fish Farmer
 
@@ -225,81 +303,3 @@ _Last updated: 2026-09-30T01:12:26.703008+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMilAFBVV95cUxNb1NyMWtUaEQycHBSQmNhWjlSX2JLenY3QUlmQUdWcmkyakRsamxjLXh2UDhlSDBPQTY2MnNTelM4VnhoU2hPMi1jSFRkNXU1U1dRRnNvUmRub1JHNVROMzVmQ0V0SGJ6N1pBR3RkWWRpdDJjQlRZM1ltZGk4anlDWno5R1dnNEdTVGFHTmo1QlVubm5h?oc=5
 - **Source:** The Reykjavík Grapevine
 - **Published:** 2026-09-29T11:51:21+00:00
-
-## Jet2 brings back 'once-in-a-lifetime' Iceland trips from Newcastle Airport - Chronicle Live
-
-- **URL:** https://news.google.com/rss/articles/CBMimwFBVV95cUxOazFaSjQ3SWd5R3RicnQxOEpMLTV2VXJlTTdPSDI4aGRlWlotZkZXeGROYmt6clV2bjg3MktjVDFjdWRkd09UQ3RjYnREajgzZHRxc3h0cVQ0bUxHcE92bzBybDJYbU11akJDRTJqd3hGUEN4R1czcDJVQ0ZveWNMbmYxRGl3ZzJnTEhWRmpGWng3Zk1IZS05RzNyY9IBoAFBVV95cUxOWllVV3hJNmRkRWRTckdkUXJBejlyU0lZZWVYcXhyeUNRNHBxeW92Tlo0b0RhdUp4RkJoY1NVcEx6UUI4UTIwNUdMTkhycHJnRTQyVGZ4MTEyZUZSNjlPQUVNMS1qVDJyaGFaX3dKVVkxelZoQTc2cHVPUlZweFF4NnZzUkJWNEJMUmtIS24xa0hPaXVwbW42eU81V1pnVzlT?oc=5
-- **Source:** Chronicle Live
-- **Published:** 2026-09-29T11:39:00+00:00
-
-## Pre-match Luxembourg vs Iceland, UEFA Nations League Round 2 - BeSoccer Livescore
-
-- **URL:** https://news.google.com/rss/articles/CBMikgFBVV95cUxQbWdHSjlLV1d5OVRQbTBKNTlqa2NQcEtaMWt3TThsbUJOQnlOZ2Q4UURYbkxaN1pNR05FaXRmZnc5NnhGM1paUnZqQkdKTkw0Smtua2dmMnlFZzIxSmFtNlcyZk14TmY4MFAzdGpUYUQ2SWZiTGlZcXFHM3FnN2kzemNGUGpZM2ZjWlBTRU5Fb1BSUQ?oc=5
-- **Source:** BeSoccer Livescore
-- **Published:** 2026-09-29T11:29:09+00:00
-
-## Iceland (u21) vs Switzerland (u21) - Odds, Live Scores and Detailed Stats - BettingOdds.com
-
-- **URL:** https://news.google.com/rss/articles/CBMiogFBVV95cUxQVzQwdzh5Y25OUHJmRnI5d2U1SWVfcThhOUltaDh3TGc5LTQ5WnFVOUlucmhfUjN2QmpJYjdOaHc4NkRTQTJBalV1bUoyVnc4blNhU3RhSVZSYnY1SUJEU3laUFFXTDNmX1FpSjZFVzRYaTA3NEtUSEduQnpWdVNfVXFGTENHM3hwRTBhVlZCOEpQYlZKZ2k1eVRFejJ0QUxHcVE?oc=5
-- **Source:** BettingOdds.com
-- **Published:** 2026-09-29T11:00:58+00:00
-
-## Ísafjörður Cruise Income Forecast to Fall by ISK 1 Billion - Iceland Review
-
-- **URL:** https://news.google.com/rss/articles/CBMihgFBVV95cUxNbkpPUzNDMmJmNGx2NWdEWWtVclFoMnVCZjc4RkFYNHJ5YjNZNnhEYkN6Q2NWSXdBSEdTQmVZTXM1MEktVlZITmU4UU1ZUEVoeVA2cHZQOU5HUjB1anpjR2dCQnJYN3hZUXI1YnBJSDZ2NG5XOE1PR1VfcE1ydy1SSHcyQ2EwZw?oc=5
-- **Source:** Iceland Review
-- **Published:** 2026-09-29T11:00:30+00:00
-
-## Iceland In 72 Hours For Travelers Who Hate The Cold - Forbes
-
-- **URL:** https://news.google.com/rss/articles/CBMiowFBVV95cUxPWTlyQkh5S09MaXpoNTZhazhnUy1SbVROVzZiTEwwVDA5dlVEYjZLY1cwQ3FxbHB6MlhMZTh3NzdlMzRkcVFsbkdBNFZwRzlhTDNwOEI3enJXdkk4WDVJOU5Hajc2ZTlGRUZOc0gtc3R5TVU4WC1lajdJYnV4eFdLWDdJVk5FTGFUbnhZNW40eGxpM3RpNU1QTl9PWkFNV253ZFlV?oc=5
-- **Source:** Forbes
-- **Published:** 2026-09-29T11:00:00+00:00
-
-## Northern Lights in Iceland - ANews
-
-- **URL:** https://news.google.com/rss/articles/CBMickFVX3lxTE51UXdjRGFNOFBfdk5ncUVWeVhWLV92Rkczd2ozYW05Z3BiZS1McWtsMjc3TWtGODlST1FFaDlyeHhlQ3VCczZjVTY5SE94S1VTV1J1Q0tNeDlDd2UtNVhnd19DcFYwRTNrSVpwWnZpbnNGQdIBd0FVX3lxTFBQWmNiQlhIdTBZUUUzSnlQT1dWV2VlcXdLZW5Zb0d1Uml4T0w5a0NQMlROanVRMEFYUHVMd24xbDVzNHVtcGlxYU4wRzR2TGlkTU1FeElpdDNjVWYwYzVRcVFwa05EajdwQ2s2aVYwUFBwZVhIOExB?oc=5
-- **Source:** ANews
-- **Published:** 2026-09-29T10:55:50+00:00
-
-## Adventure lovers, Iceland's ice caves are a must-visit - NewsBytes
-
-- **URL:** https://news.google.com/rss/articles/CBMikgFBVV95cUxNem8zNWZ1TTV1enBUazVCeVBNY3Q3V09rODJqNE9UbUY1RV9Takx4M2N6NmVRRHUxTFlwNmt0blVHTnNTcVZyemFrVGdEa211T0RwVF9OZEdjU0xyMlc1ZkdhZVktNy1uN1NzTUstbGNvS2gzUUltcURMazBtME5ZYnc0T2FpeHFoMUI2aDBFNW5fdw?oc=5
-- **Source:** NewsBytes
-- **Published:** 2026-09-29T10:52:19+00:00
-
-## “Setting a terrible example” - mbl.is
-
-- **URL:** https://news.google.com/rss/articles/CBMijwFBVV95cUxOU0VpNGZrQ09vOVJUN3N1UlZVMGc2aV9TV2x5NjQ4SDlzZl9XZzdPSzYzT2J1R2ZTY1l1QklzQlZXakZwQXFHWk5zQkRLSGtDSENuY1Bvdjk1S1BiUVhuYkVjd3VmSUNMY0kyTFVadVRlVE5zY0k4aEF2YTI2LVFjYWE3RVB0RThKb25DLVpIdw?oc=5
-- **Source:** mbl.is
-- **Published:** 2026-09-29T10:47:00+00:00
-
-## Jet2 launches direct flights and winter city breaks to Iceland from Manchester Airport - secretmanchester.com
-
-- **URL:** https://news.google.com/rss/articles/CBMihgFBVV95cUxOU2VtQV9fa1Q5ZlZNM1dlZGh4T1VqV2lOZzBYUHV3bGVKc094cERfeTMtOHlYT3NxemtndXdYd3Noc1MzOEFlR1JEX3I1TFloVlk0M0prc2Y4TVFMcUlNajZETXZQVW5ybTNXbllxRkwwd3AyeVBuczlYTkE2WDBaTUxaYldPZw?oc=5
-- **Source:** secretmanchester.com
-- **Published:** 2026-09-29T10:45:12+00:00
-
-## A game for all: Taking football into diverse communities in Iceland, France and Ukraine - UEFA.com
-
-- **URL:** https://news.google.com/rss/articles/CBMi0AFBVV95cUxOb1RodS1ONlFYQWYzRGVwbEZIRDRBSE1KMk4zdy1UZ3ZXbGU0Zzk4S19rangwVDdVRXJyVEI2b2FKM1BTMDAxOVRNVDhVQTZQSHpXaDdTQlhza0dheEp0cFZTbWdVaml6OWNGUlF2Zl9MQXYyYjZLaXgwVXR4elV0MjFscjhkMncwbUF5ZUlSZ0stWEZicUhfbHh0cU5ZMkFKVjd2TnBSZVppTHIyY1U2TTBKaS1Fa0kyb0pUR2ZuZUZrbjR4c2tjbGFwSzc1bTNm?oc=5
-- **Source:** UEFA.com
-- **Published:** 2026-09-29T10:38:57+00:00
-
-## Where was The Odyssey filmed? (with maps) - The Worldwide Guide To Movie Locations
-
-- **URL:** https://news.google.com/rss/articles/CBMiXEFVX3lxTFBwdkNrYUs1R0h4X1ozWmt0NkNOcnl5RVRNXzNIcWZ1YmNyaGNvWHNKYVRyZlJQWV9haWV0cC12S2x1TU1QUWllbUEzLWg3cEhpc2p3VTliVFZoSHpn?oc=5
-- **Source:** The Worldwide Guide To Movie Locations
-- **Published:** 2026-09-29T10:28:11+00:00
-
-## Icelandair to End Halifax Flights in October - Iceland Review
-
-- **URL:** https://news.google.com/rss/articles/CBMihwFBVV95cUxPUDlqVC1TVTJ2Tl9lZjVSbFF1R0IxazFPWHJEb3ZhaThwbERQbGxGWnd5SjFDOWZORGthTEVfYS1QRU0xb3ZiTEZnWDlYdkxfemlBWklzaklBS1BQNF9oUlpCY1A2b29XNG1ETG1LUWItLXp0bVphdXFORHpxc2dMdFVtNzZpTTA?oc=5
-- **Source:** Iceland Review
-- **Published:** 2026-09-29T10:11:59+00:00
-
-## UEFA Nations League: Luxembourg vs Iceland, with English commentary - RTL Today
-
-- **URL:** https://news.google.com/rss/articles/CBMinAFBVV95cUxQX3pGaGNPQlFYLXprb3JLZHVoWEd3WjVMM0FFcU41ckE3UGQyTjJyWU96cUhMS2hhMFN2ME5MaThkWHZsSzVnTGZndUtKNlR1MmxOWW53SEl1ckJPUk1DMGh3VTBVV3Y2QzJsakg1YkNxcUtyM3lreVhJT3g2ZHJZV3A4cXVhTHpBUWIwMGhsWFdYWWtGNFZjblhNR2Q?oc=5
-- **Source:** RTL Today
-- **Published:** 2026-09-29T09:42:54+00:00

@@ -1,8 +1,98 @@
 # NewsWatch — fusion energy News
 
-_Last updated: 2026-09-30T01:12:27.117930+00:00 · 50 articles_
+_Last updated: 2026-09-30T10:19:25.102851+00:00 · 50 articles_
 
 ---
+
+## With national holidays approaching, Chinese workers demand a proper break - 朝日新聞
+
+- **URL:** https://news.google.com/rss/articles/CBMiXkFVX3lxTE9BbkY4SUk1NGk1TmhZRFRJcmQ4aXRpOUZudkNjTHpyUnN6ZmpiVWQzRURUMXZZa0FVQWlnUE9Wc29RcVBRY2lHZEJDbjZQS3NBbEw4ZkJXS0J6SUNHX3c?oc=5
+- **Source:** 朝日新聞
+- **Published:** 2026-09-30T07:14:15+00:00
+
+## Nepal holds a day of mourning after floods kill at least 1,300 people - 朝日新聞
+
+- **URL:** https://news.google.com/rss/articles/CBMiXkFVX3lxTE9yNWlYVlVUZllYMzhkeFhRUllicXFUcWI3ZHplVFBWNGhYcHdFa05LaGdkeXU4WXdHdUhqbVNjS01TakFBc1NVNU5kcU5uSnJ5WmZ4aEplZ2JocVhvVmc?oc=5
+- **Source:** 朝日新聞
+- **Published:** 2026-09-30T07:12:14+00:00
+
+## Trump set to tout Korean investment in Alaska LNG, other projects - 朝日新聞
+
+- **URL:** https://news.google.com/rss/articles/CBMiXkFVX3lxTE5XcTlLMnFxcGJaRVhMa0F5NWo2eUtmOW1XcjFhRFdqZG01eUJObTBSQzdUWXIwamttOVhkXzZfcDBLVGYxemhVRlpKSnRWaExFUWpXdjQ1bXJvZXV6cHc?oc=5
+- **Source:** 朝日新聞
+- **Published:** 2026-09-30T07:11:36+00:00
+
+## China and U.S. agree to establish AI safety channel and continue trade and military talks - 朝日新聞
+
+- **URL:** https://news.google.com/rss/articles/CBMiXkFVX3lxTE1Ga0VFQ1R6NElJSlU5RGR4VExQZm5GVHhUV1lXWmQxdWM5MjJXUTJmWEZqbUtfVzNuU1RtTG9rZEFOUXhWOU5HNFBscDVQVWhROXNSc0hoWHZnU3hHclE?oc=5
+- **Source:** 朝日新聞
+- **Published:** 2026-09-30T07:07:26+00:00
+
+## Fujikura signs CFS tape order for over 10,000 km - Mugglehead Investment Magazine
+
+- **URL:** https://news.google.com/rss/articles/CBMiggFBVV95cUxPSW0yX3JRSjAydHM0cTVYemdsWDdRVTgxQWRkQzBDWWx4Tjl5MVZZNEFoODVnMVlCLWs3dUp6WWN1dHVSY1YwVGRGanVNVmpHZGJsZ2VCODY4LTNyZjVBX0VSN1pkMXNaSmRHQnVUbEtJc1FwRDhTYmNVUjNNWVAyaHBR?oc=5
+- **Source:** Mugglehead Investment Magazine
+- **Published:** 2026-09-30T06:50:48+00:00
+
+## Survey: 35% of young singles don’t have plans to get hitched - 朝日新聞
+
+- **URL:** https://news.google.com/rss/articles/CBMiXkFVX3lxTFB4N0JLS1NDUVVBeUZoak81UTZ0OHN2aVVYblF2MVFpVjVObkRTMHlrUXRMRnJnWVVfYjJUU0VOWWxuNHdQWG92cm1RZmNUdnAyekNuQmUzVkktOUhpZ0E?oc=5
+- **Source:** 朝日新聞
+- **Published:** 2026-09-30T06:39:18+00:00
+
+## Ranked: The Countries Building the Most Nuclear Power – Visual Capitalist - EnergyNow.com
+
+- **URL:** https://news.google.com/rss/articles/CBMiowFBVV95cUxNdEt5SDJ1Y3UwcUxhYUZ6dTFsQkFoQ1QyRVQ4R3IwSk9lcHZyTThvUXVnT2xaUmg4dVFSZjhBUkdrbUdCbXNLVzlWdDlYbEpPX1BDU2dwVEF4aFFsakJ5Y2hWV2pVSkJEcTZRZnJoOGc5TU0wdE1hYll1Q3dIM1RXM281a3l2WUxvOG5YZ29wNDR4bC1YWExVdFJfTjVwLUEzd3c4?oc=5
+- **Source:** EnergyNow.com
+- **Published:** 2026-09-30T06:31:08+00:00
+
+## Zenithon AI raises $10M to build world models for fusion reactors and rockets - Tech Funding News
+
+- **URL:** https://news.google.com/rss/articles/CBMijgFBVV95cUxOSGZXNWtQLWt0OXZDRm80MTNieWhYQk5oV1RsbEhSLWdLN3Q5cEFKZFlockxpZkxiR1dRdW04emltNC15elhJZngxTWM1UnVNMThOMkJYZzV1aUpKMHlVdENnZVZXNVhXVDByeENReUI2V01BelFrOHl2Si1CQnZzZW5TZE1pTEhIWVpzU0Rn?oc=5
+- **Source:** Tech Funding News
+- **Published:** 2026-09-30T06:02:44+00:00
+
+## Commonwealth Fusion Systems Secures $1 Billion to Advance First Commercial Power Plant - streamlinefeed.co.ke
+
+- **URL:** https://news.google.com/rss/articles/CBMiuwFBVV95cUxONlBzLUdxdWgyMzJRUkk3R0V4SjhsVFNoWFc3OGxkbVRBdGxkZ3c2TUZQY2hEaFJJQVlvekxqcGhpUldCeEhuSG9yV0pYSHJEMm1nUmJHSVdqTmRHbzNMZ0F4YnNZVl8tYURLZ1ZRMUZCM0lRMVdRdnNmZUNQS1AtcU5VZHdQUGdQSlJGX2JVdHVIZ1o0NFpXM0RzMTlpRFJEYTdDcGpiQjJDX2ltd01TbWFOUXlhMWkxblU0?oc=5
+- **Source:** streamlinefeed.co.ke
+- **Published:** 2026-09-30T05:59:14+00:00
+
+## CFS Orders Over 10,000 Kilometers of Superconducting Tape From Fujikura - Securities.io
+
+- **URL:** https://news.google.com/rss/articles/CBMinwFBVV95cUxPMXBmMy1XUUluSHRXcW5lZUdXc0hyLTgySm5qT0JmOW1od1QxTzlUT0FyNlotWTR6eXNyVEdMMTdxdTM4NndxMEg3S2lHVXUtdFJ2LTk1SzhnSjRHYVE4NGtvOGpzM3NjYXdnVF9sQk9xTzY2eEgxd2tOMUkycEMzcVJXT0hBTzNTMzFEM2VockNIWlRFd0FKZl9ONk5YTEk?oc=5
+- **Source:** Securities.io
+- **Published:** 2026-09-30T04:31:02+00:00
+
+## Commonwealth Fusion Systems Places Largest Single Purchase Order of HTS Tape with Fujikura to Accelerate Development of ARC Power Plants - PR Newswire
+
+- **URL:** https://news.google.com/rss/articles/CBMinAJBVV95cUxNN3dBR0xjdXhjSEZMcVF6SXJGeDlOemhWUjRKSFRGYl9DT0ZydUFmSGpWcDZMQkpJYXI0al9ZWXd5YlJiNVVmNjZzdnNqN2xZV3g1WEU5eW1jZ1BWNU1malpyd3VjU2hNZTdnSUIycUN4ZkxlSm90TkJVdGI1ZFJQZlE3RUtPWmU4MTZzcDhvbjE1SVl4VVdsMkZoMXZCZ2txOWwxY0hnRG1rUU1VaFlHVVRoYUFFbHM5S3Q1SVIyemgyYTNVSDFHS1psd05paDlIbjVIV3ZhSVhFWjhsUGpTNnQtNE9sdWg5eUxjc3UyT3NFdDlWbUltbjZ0LXI2Mk1UX3hNbkg1NTE0SzY4cVNJeGsyR0FLVnh5T1JSQw?oc=5
+- **Source:** PR Newswire
+- **Published:** 2026-09-30T04:01:00+00:00
+
+## King Charles’ alma mater picks Wakayama for 1st school abroad - 朝日新聞
+
+- **URL:** https://news.google.com/rss/articles/CBMiXkFVX3lxTE1VNTZRc0VaRTVqUDlVUXZEU1JHU3B5Y21LS0V2N29YN3U0XzF0dzFPcnBXR19oTUdub3pEQTZqSXp5UzFxUDlWZTcwNDZnazFPamdlVWE5d1pVTWQ0c1E?oc=5
+- **Source:** 朝日新聞
+- **Published:** 2026-09-30T03:19:57+00:00
+
+## China fuels rush to turn AI video into an industry - 朝日新聞
+
+- **URL:** https://news.google.com/rss/articles/CBMiXkFVX3lxTE1mb0ZHanE2QnhPRHFhWmpUa0ZvejRvdDFzd2J0ZVJ2NFB5U3o1NjY5eXk0MzJMblhmWm9BVkJnYk92XzB6Zm1uUGR6VzRjRzlGUXVXS3NidjFZdjVpeWc?oc=5
+- **Source:** 朝日新聞
+- **Published:** 2026-09-30T03:17:06+00:00
+
+## ITER vacuum vessel exempted from fission-based regulation - American Nuclear Society -- ANS
+
+- **URL:** https://news.google.com/rss/articles/CBMimwFBVV95cUxOTm5oeGVqWnF0VFdQenpuTTdEa2E3OWpva1AzZExHcUNpd3dtanFjZjBZVUw5MGdRaWM2aC1MTTF4SGo5aHBPblRmTDlhMnc3ZkM4Rko3c0JVTmJFdjNUNGFhb1k2TDhCaVk4ZG1OZFV5SnhWT1gtUDV3SmprQ1lWZGRnU2g4WUxnT3VCSmJpRjVVRXg3V3BPM1kxRQ?oc=5
+- **Source:** American Nuclear Society -- ANS
+- **Published:** 2026-09-30T03:16:55+00:00
+
+## Government to Invest 4 Trillion Won in Seven Key Future Technologies Next Year... Over 200 Trillion Won in R&D Over 5 Years - 아시아경제
+
+- **URL:** https://news.google.com/rss/articles/CBMib0FVX3lxTE5ySS1BelV1aTdhQURDX015Rms1RWZiQm1WNDNSUjU0YnIwWkVOWnFyc1hfcVJqbHZycUxzdkRKWFhjcll2bEJCc3VHYUZNM0pTNzJKX3NWRGVpQ3BFeGRQb252b19ndW5MdDE4YUZZTQ?oc=5
+- **Source:** 아시아경제
+- **Published:** 2026-09-30T03:00:00+00:00
 
 ## China reaches 100 million hydrogen-boron fusion reactions per second - Interesting Engineering
 
@@ -213,93 +303,3 @@ _Last updated: 2026-09-30T01:12:27.117930+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMizAFBVV95cUxPZ3k1TGNMV1htdjV2UHdiS3BicHNxd0s0MXF5cFd4b1g0OEg4U3M5MnZTVUJDdTg3THFKRGRvQXl6ZjNfSnpVTUFsYVpVVDdsdlNDR1lKc1dCeFUwd1hZdG5wTktqanRua1VZZnNLVkZvTTFHNVNKdy1YZDZPelBwY0hNQ1F3VmM4TkVTdklPaGQ0MzUtUy1rNUw4ekFBdHFfVk9VdGZkTFREYXpTS2czd3J6a0U3ZUdzR3VMNml6aVlFWW9aMVAxb2J3ejY?oc=5
 - **Source:** assetphysics
 - **Published:** 2026-09-29T06:29:12+00:00
-
-## Freemelt signs new contract with F4E to advance tungsten manufacturing knowhow - marketscreener.com
-
-- **URL:** https://news.google.com/rss/articles/CBMiywFBVV95cUxOVElLeTZPVDBFc1JoUFdpX2s0MWo5MmpZWVdBdUllSnNlYU5GZ0lTc0J1N2doU3dIMW05REozcUc2QnB1RzBvZ3hmaFpUS3VxbmR1NlNHRXhLS0hFM0RMZGUwemhaM1FIOGRDeTVjSlplTWNxQjRiUlNKUjhxQ2V2NHh2aGJwSHpQeUdubERqTTk4WXUtQUZGQXhPYllpb2lHeUFwWmVXZTZ4VXpkTUlEbUdfUUVadEVrTGFGZzN3MkRmSzlDSDl6T2lKMA?oc=5
-- **Source:** marketscreener.com
-- **Published:** 2026-09-29T06:11:09+00:00
-
-## Mobiis Wins Major ITER Control Systems Contract in Fusion Project Consortium - TipRanks
-
-- **URL:** https://news.google.com/rss/articles/CBMixwFBVV95cUxOTXNDb185Tmg2b3I1eFpsaFpYWURoSmk5N0RjRGV6eHRHbFlTWGVUdUl6TnBxbTBYcWN1WVgtZ1dwZEdneGxoOVVyUnRqV3FUN29FZFhtQnlGOGcwZDlLU19Jck5lS0tEYzRmbG5MZkZWV3pSMkQ0NDN1UENGcnNLaVVGNUtpNGRuVVAxR0Jqc1czYXJZdDdtM042UkRDRXlwdGpPYWtINUc2QkdpYnlCZ0FFbjVlaURtczVnOWFldWlCR0NNTWVj?oc=5
-- **Source:** TipRanks
-- **Published:** 2026-09-29T05:51:14+00:00
-
-## PPPL contract extended amidst AI research ventures, concerns over facility management - The Daily Princetonian
-
-- **URL:** https://news.google.com/rss/articles/CBMi8gFBVV95cUxNMnZ1Nk1PMEZtQnpGSDFuaUE4bTBIcjF1VzR1NXhWRHQ0ZGNDdkJyLVhyTlRFTVpiMGo3TnZ6aEp5RTV0Nl9KSGU1MDVmU2dEVnllbXFEWU5zaXhvX2FTX2FUWTIxTkNWNDl5OFk4VzFzTUF5RnlpZ0pTXzZHdkkyNFBseHFCX2NQU2JIcjBuUGNKeFdCZTVfOHp5aC1HYWlycVNQQnlqRXNEOTlvUzZZamJZQzlKa2ZBTGUtTmo1bG1SaWh2N2xJR1FqWHR1N0xzYkZ3bXgtMW5YUEVab1M5bjd1TzcwM2lZdGVBM1ZhUmpVQQ?oc=5
-- **Source:** The Daily Princetonian
-- **Published:** 2026-09-29T05:44:00+00:00
-
-## India’s ‘artificial sun’: How close is fusion power to reality? - theweek.in
-
-- **URL:** https://news.google.com/rss/articles/CBMiowFBVV95cUxQZW40OGFDSFM0ejFJTm5lNnJpZVlJNGFab19hZXZvMlNBVDlubTN3WWZFOHhCMm9qMTY1MmptR3lkaGJRd1BPQkF6R0todFhvcmQ4R1J0a2VUWmF6NE5Hczg3ZXB0Y2xPdE5WY2VyblgzczlVVk1RYk9YeS00RUx4MHRVV201TDF2clBZVGZITGN6Z0NBbW1xVldaaWt2RWRCVkhB0gGoAUFVX3lxTE82Y3FKdHNlaXduVGtmVUJfM2tCbngxczRyeDEyX2FMdVpFZzc5SHJVa1VUSHRiOFpjTlVqRUNPMV9yRmoxYU1ITl9GN0pTc3NOUkFXQ2l3enFIUXZpNlh1VmM4TVUwVGhEeW0xNXdzSkc0bnRpcmVlaWVqWjdSdmFIZDdGcnNoQ1N0REhCUUFlS3hBVVhldnB5ZDVFWnNrN3hteFgyUHlWLQ?oc=5
-- **Source:** theweek.in
-- **Published:** 2026-09-29T05:37:57+00:00
-
-## American Fusion (OTCQB: AMFN) Expands Texatron Trademark Patent Portfolio as Uplisting Plans Advance - openPR.com
-
-- **URL:** https://news.google.com/rss/articles/CBMikwFBVV95cUxPMzNiM2gxUVd2M3pIaEdBdFVDOWxqRGpXazJjVXpfdXZIRkVoX3UxU1EyNFBXaVFNeE5sNVpPUEk2aEdra0xtV01RTFZrVXF4WDBLMklRYS1zZGpoUnV6N2NCOU5nZ1MzRkUwRUdRUHJDcHFXWGxTMENMZVd3QWFfSlFtenM1UEVqblFvWFY4Njg2YTQ?oc=5
-- **Source:** openPR.com
-- **Published:** 2026-09-28T22:34:04+00:00
-
-## Companies From Uranium Mining to Fusion Meet Institutional Investors at the Inaugural ROTH Emerging Nuclear Technology Conference - StreetInsider
-
-- **URL:** https://news.google.com/rss/articles/CBMimAJBVV95cUxOQmQtZTdxQ3hEVHpTcVFrNDNHOTdOdEZfMmJOM3NQdmhqVHJhbFplcXlDM1NJM1hwZjAwQmZFVEJsMUdxak9MZ2VUclhKbURYVnVJUGFseWVHZ1RkMlM1RjlVSlBlSTZlYk9xdFV2aHZ2NGVpOU9zWjVQaFdXM0JacmlzZ0tLRGRPN2ZwclJKRnV1VW45UjZFSFZBWWJsa21SZGtSakUtcnl0Zm43cTB6bU95b29hSThGWGE2T1ptcHd4bFBldTV3dkFmbnM1LUNhMGltRGpPam9BdjZJR0lnek9lY2FPYktaeG9FcTVlemlFS0otcGtLQVN5Qy1FUTBrTlZycVMwbkFKS3lGeGdtcW0yVlJKbmsx?oc=5
-- **Source:** StreetInsider
-- **Published:** 2026-09-28T22:25:54+00:00
-
-## Italy Passes Legislation in Support of Nuclear Fission and Fusion Energy - Fusion Industry Association
-
-- **URL:** https://news.google.com/rss/articles/CBMitgFBVV95cUxQeGI5dWJZOXU1bEVsa1RQMkk1bzN1X2VudG5KM0lmWGxYMlBKd3hsbU43UXpKeWpwb29CVVhSNGdQbnlvSld0YTMtQTJzWkliOEdKZl93VmF5UlpHR296RmllamZvR3YxWm5CeHM5bXE0SlU3VGFNeUhVNnExaXROV09fM2ozRVdqdEhNQlJXemU3SVNYZmRZeF9KaVYtbXNnWVBmS05wclNhRjRIeXczOTFHZTJudw?oc=5
-- **Source:** Fusion Industry Association
-- **Published:** 2026-09-28T22:25:30+00:00
-
-## Commercialization of fusion energy will ‘change everything,’ lawmaker says - Nextgov/FCW
-
-- **URL:** https://news.google.com/rss/articles/CBMivwFBVV95cUxNcFNtTEh0aFJka09CQVlCZ2k3eUJyWGxiMnhaUG1WMHNUTWNEd3hZb05jVDg0WEsyMVFKWlhnM3drelVnT1JuMmR3NTY3eHA1NlhIOUswckRfYWpoaHc4cU9jbGRmUXVSZi1pRFJxMFUwX1dERlhLNHVwam9zM3BZRnZQUVhFQktiNjNEbG1ZdVAtU3ZDcVdDa21mVzNGeG14UzI0ZkRTZW5OQjZvT0xkRWxXd0lJeUw0aXRnNmRSUQ?oc=5
-- **Source:** Nextgov/FCW
-- **Published:** 2026-09-28T21:43:00+00:00
-
-## Pennacchio: Caldwell Resignation Does Not End Questions About NJ Voter Rolls • New Jersey Legislative SRO, NJ - NJ Senate Republican
-
-- **URL:** https://news.google.com/rss/articles/CBMiX0FVX3lxTE1pLUd2NjJxb25wUURqY1hIbGZUSEQzTzljNUpzYi05NlBpZHJBODBDeVZjdUt0WkJFd04xUU9BZkFPUFFCTy1kaTNQMzJNUWVJR3kzQjc3LTE0UWYzWUxv?oc=5
-- **Source:** NJ Senate Republican
-- **Published:** 2026-09-28T20:52:15+00:00
-
-## Daedal ups fusion measurement infrastructure - Nuclear Engineering International
-
-- **URL:** https://news.google.com/rss/articles/CBMihAFBVV95cUxNNG9ZdXZHRUtZNDdMeDQ4ZUtUazh6enMzTG9HbmVPR2dTR0FjdUQ4d0RwZ24xdjhFQ0dfSFJvWHljVEczQWVHd2xGX2NoT19uLWZkdExQNWZDV1o2NjBBbXQ4LVZIYTgzVzRZYWkzWkFPekJZR3RNZE5iRXp6MzJoTXFZajc?oc=5
-- **Source:** Nuclear Engineering International
-- **Published:** 2026-09-28T18:12:15+00:00
-
-## Bam and Giannis Bring Dragon Ball Energy to Miami Heat Media Day - The Source Magazine
-
-- **URL:** https://news.google.com/rss/articles/CBMinwFBVV95cUxPcUUydlpjQ1lQb0ZJUDNCRG85YkxVS3dReGt5Y2VBZ0NXUFhfUHduTmh1ZE9Gc0ZGUUdtLU43ZGdJRGtzZHhMNVlrQzVLdmY1Wk9SMENWMi1yTUkyaGR2b1N4VjcydWpRd0dSZ0VDWlNkTzNwcFVQbFVvbHk0bnZZM1l1ejNjRVFERkdSSS1Id3dVaFpOUmtlWGVoTTREaTg?oc=5
-- **Source:** The Source Magazine
-- **Published:** 2026-09-28T17:11:15+00:00
-
-## Refinyx Acquires Northvolt's 134-Patent Battery Recycling Technology With Qarlbo Energy - energynews.pro
-
-- **URL:** https://news.google.com/rss/articles/CBMisgFBVV95cUxPeTFHNTQ2Yy1RbDB5VkZvXzNiVC1sdklycDhEV0xGUTNIZEs5dDNHZGZqcmhIRkVndmFoTmpRVUU5bWhpVlUzN3RsVEpBcXNBREt4M2FHY3FUeWVLdVY1WDcxMUpaaFB5TTUzZlhFT3NaMkVTcko3MmFtamZzTU5vd0hISXFVbHM3cjhwbXNudWU3WUlVbnRHZTk1Q2FSZ1NiOG5yeW04eEsxdEs0U2gyV3ZR?oc=5
-- **Source:** energynews.pro
-- **Published:** 2026-09-28T16:37:08+00:00
-
-## Research, engineering and industry converge - ITER
-
-- **URL:** https://news.google.com/rss/articles/CBMif0FVX3lxTE5URUo4VzREOFc0V2o2b2dsNXE4SEt5WERERnRyMzljVWVqbHJxOFJjLU54dnlwVk9pZGZzNjlRdkhmbHBYeXNJaGg4ZW5ybDFwX0RDaUVtQWtqekwzYlg2M2pmOEdkUkVyLTdRTk4xanFscUFhcTdwT1BhLXZmSEU?oc=5
-- **Source:** ITER
-- **Published:** 2026-09-28T16:35:03+00:00
-
-## ITER test facility earns international accreditation - ITER
-
-- **URL:** https://news.google.com/rss/articles/CBMijAFBVV95cUxQVTJhaWdCVER4Y042UEk3dW1tSnBzMzNrVTE1V3JxSXRFRWVuaTdzUm1zTXJZZDBkT05tMGNSb3lIenVQU3AxdjVEaFZfb0RUSGlKZG5lLVYzZUloSUFDS2Z2cEZCbWdwSzh2Rk9rNWtnNEVYNVdNVEJRdHR1a09mNmxhNGhsQTFueVFYbQ?oc=5
-- **Source:** ITER
-- **Published:** 2026-09-28T16:35:02+00:00
-
-## UK aims to build on fusion research record to establish industrial base - World Nuclear News
-
-- **URL:** https://news.google.com/rss/articles/CBMitgFBVV95cUxNWlhCQ0pHZHNOU3RkOVN3VG5BbTlvMjF0NGRSTjhvaENyMDBKVVlpU05HZkg3YVlvUDlCRkhETUIwdDNPN1JWX1FEdlhtaC1kdndpV2pLczB5RFpjOVlfWWpDU01RX2RwQWtmMmFlaDl1b2x1eGx2WnhBTFpveGdlSUV4QVhRMWduQVBpTG1OOWNJVnVLbUpYZGlQOTV2aU02TUhtbGcwSDBPVWMwUG02TnZvTUxHdw?oc=5
-- **Source:** World Nuclear News
-- **Published:** 2026-09-28T16:27:52+00:00
