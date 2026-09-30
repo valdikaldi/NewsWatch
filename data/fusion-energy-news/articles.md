@@ -1,8 +1,62 @@
 # NewsWatch — fusion energy News
 
-_Last updated: 2026-09-30T17:42:46.310651+00:00 · 50 articles_
+_Last updated: 2026-09-30T21:56:56.530582+00:00 · 50 articles_
 
 ---
+
+## New measurement of diamond phase change could mean increased ICF energy gain - American Nuclear Society -- ANS
+
+- **URL:** https://news.google.com/rss/articles/CBMitgFBVV95cUxNdmFudXpfajNhRVJSOXoxUW12RVNZTC1XbW1TTmNZNnRacnhGUFpoRUN6VUdoQVlaZlhObVBTNktHZFpXbVFsWjR1OVhkQmg2TGplLWZrOGIwQW16bTlHamJ2NldvTU5TX0w4Y3RrQ2NjajM3bE9uZ3VseFpTc1JBOE4yOEotMHN3bFk2Zll0NUkzaXh4R3UtZG9FOEUxa1hOVW1DbWhZNDFFakhSdkZfTmR3eUlkUQ?oc=5
+- **Source:** American Nuclear Society -- ANS
+- **Published:** 2026-09-30T20:40:52+00:00
+
+## Bill Gates-backed nuclear fusion firm inks record 6,200-mile reactor tape deal for grids - Interesting Engineering
+
+- **URL:** https://news.google.com/rss/articles/CBMihAFBVV95cUxQWnQ0d0VUaUZoWlBqSFZQX0I5ekpNeHFMLWVTSHNtQXpjbnlrbUJ2YTlkbmRxVkowU1VWbXR3QXpTSzV5ZFhqYU5fNlNNTXNvdlpkMUZab1E1Y3czMWwxU2w0VFJuRmRlaUZFV0w2Um5WZmtaQ0hjcHpFTGsxMzh6UF9UX1k?oc=5
+- **Source:** Interesting Engineering
+- **Published:** 2026-09-30T20:40:00+00:00
+
+## China Completes World’s Largest Superconducting Fusion Magnet - News Agency of Nigeria
+
+- **URL:** https://news.google.com/rss/articles/CBMihwFBVV95cUxQUXVPUzJ4cmhhZUpWTVcxRnlYN2VRRDcycWRvbHdlOTl0OFY0X1JnMmx2eEZZTjhOaHpYTkREc256VllVS2VxR3JLSWVERTJvYy1RSGZVNHlBemRqZGptU3hOeW1pUWNZS1J3bDQ0QS00ZXBMMmZCY3QzcVp1TWNEYzF6bllhQlU?oc=5
+- **Source:** News Agency of Nigeria
+- **Published:** 2026-09-30T20:16:52+00:00
+
+## Trump Media’s Merger With Nuclear Fusion Company Moves Closer to Completion - The New York Times
+
+- **URL:** https://news.google.com/rss/articles/CBMijAFBVV95cUxPaFZDbmg5blhLSHh5RklYekZWWjF2clBjQWJYS3hwY2w2eGFPNDBnX2FWZndZZkgxS3dNOHVyYWdaYzRxVGg3bXI5N2VkWUd5M3dmYm1HdjBVbHJXeXphNEhDQmFvQjh4YS12Y1lKUEVLdWxNNVEtRWdpRkdIeENNT0FlT0JWOEEtVHlwUQ?oc=5
+- **Source:** The New York Times
+- **Published:** 2026-09-30T20:12:30+00:00
+
+## Healey's fusion push clashes with Pilgrim wastewater fight, critic says - State House News Service
+
+- **URL:** https://news.google.com/rss/articles/CBMihAJBVV95cUxQVnR4NnpKYmVfVVVJNFlMVHJIaW1ldUVZYk5EVmJXMy00XzdUNlMyWThDTG1CSmRrWHJWNTBIelNfaGVGWk5lRDRVanl1RkpLQk9sdVVlaWNPdVJWODJjUjUySmRNRk9MS1ExT0lXaklNSEk0LUpreEs4bmk3VU16WVlCcndRelFkMUVqX0hTYU9vdzg5QndHenA1eDJ5N001UkpDcjQ1U0R6NTIyMWFTTVJvbnBaQmVlTjVNU1NrYzZ2bHRDalpOQ2MtaHlrd3B4Z0FpbTJDcmtsYlhSMlRKUXNCeXlFRGlRMjRnUnZxSUxjeVhCVE9qSUlsYnhtX19rbWVFZQ?oc=5
+- **Source:** State House News Service
+- **Published:** 2026-09-30T19:40:00+00:00
+
+## Commonwealth Fusion inks deal for over 6,200 miles of high-tech tape critical to operating fusion power plants - Worcester Business Journal
+
+- **URL:** https://news.google.com/rss/articles/CBMi1wFBVV95cUxNS1o1OFJtUzh3T28wVkJHQ2dKTmZaR2MwYWlrSTBNSjllRm10NnlYVmZWZmZIYUNFVENLU21MejZQaEktb1lPZk5aT3p6VHI5dGFTLU1ubUVzYUVvam9Wa1JaaTY5ZlUxMExxS2lVaUR5ZXlJRWlTZ0hjbDRJNmZWSEFkM0gwVHhiWUktUkpyWVhxdHpXQU1mX3BsZzBxWWQ0R21TQWVzSElwem0tQnY2cGNQM1NBdzktelpkWWVZVjBZbE1YemFmZmlCOE1WRW5jdk5jaWt5TQ?oc=5
+- **Source:** Worcester Business Journal
+- **Published:** 2026-09-30T18:52:14+00:00
+
+## California Invests In Fusion And Quantum Research. - Quantum Zeitgeist
+
+- **URL:** https://news.google.com/rss/articles/CBMijwFBVV95cUxNYUpCYjlSNzV5WVVqTmN1NVZUVUNtX3FaTVY3em1rZmtnYXp5ek16aEdQRTVTWXo2N1U2WllKZExORVotc21Hb0J0Q2p5ZmJiaXh2eGFEMVN3V3FTV01sZE5ObGl5MlM0Qmg4YzBVMC0zMVdMRzZVTE9Qa1ZTb1FLbERCOXFrS1ZQQUdXWUlzbw?oc=5
+- **Source:** Quantum Zeitgeist
+- **Published:** 2026-09-30T18:30:06+00:00
+
+## From SPARC to ARC: CFS prepares for a first-of-a-kind fusion plant - American Nuclear Society -- ANS
+
+- **URL:** https://news.google.com/rss/articles/CBMiowFBVV95cUxQV0NaOVRCaE1wMkdneDVRVHdVdl9iMTR5TjJJa2pLNFZNTzRocVBHYThfOUlCVXZNOTdoWmZ0dzhfZVdZYVVZdDhnU0RfcjBVZWJOQVFDTm1NOVF0X3NIOXhScXp0LThqQ242UXA3TmllWm1xTGZVQmFhVjhhZGFiWDdSdXhCQ1RfLTdHb3N4d2VlRlhjaEx2eElGajNCOWJuS2xv?oc=5
+- **Source:** American Nuclear Society -- ANS
+- **Published:** 2026-09-30T18:21:31+00:00
+
+## Fusion Diplomats Juggle Cooperation and Competition - Energy Intelligence
+
+- **URL:** https://news.google.com/rss/articles/CBMickFVX3lxTE9BWEw3MFVQdkFfTTFubUxlNy02aXJMNXNVWDZGcE1XcWRvQTlmeFNmQ1JBb1MwbHJ3RHQ0LTZrTGNnQTlIV2xneDlJNGxxYjNFcU84anhUZnJJOTBCVEtfNGVuVVJyd2oxM1gxVVJBRU5OQQ?oc=5
+- **Source:** Energy Intelligence
+- **Published:** 2026-09-30T18:05:11+00:00
 
 ## Governor Newsom signs legislation to accelerate California’s fusion industry, announces major investment for quantum research - California State Portal | CA.gov
 
@@ -249,57 +303,3 @@ _Last updated: 2026-09-30T17:42:46.310651+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMiswFBVV95cUxOOHZqdXBGVkk0R1JQaUJPOW9hQlU4QldDTG9NYW96ZS1ldkZHY2VtZFVOdlFfZnh4LWM0NG5lVkpGajFCRlZaTDR0azRMaU4tVDU2Ml9YXzFQVXdKQUVkT1R5NndpTGNDOWVWaWRUVW9pZEhfM2RpaU5xZUp3eU5RY3pLTUJGVVhsdHl5cGQ2YTFYRFY2ZEZRY3d2MkpTbDVQdlhvdFdUMzgxNHlxTmtYNzBQcw?oc=5
 - **Source:** Stock Titan
 - **Published:** 2026-09-29T12:00:00+00:00
-
-## Niobium Tin (Nb3Sn) Superconducting Wire Market 2026: Fusion - openPR.com
-
-- **URL:** https://news.google.com/rss/articles/CBMimAFBVV95cUxOekhhUE1PdWpVUFB5YTdsSHd1TzQ1WnlLbVZVUlM4anZlVi1HdGRLRmJ5QjJCVzhQdXp4UTFlMEctbTRzNHRxbHdKd1VLRU42Xy05dERKOU5ucEVHN25QcmR2ZDh5ckpxbVFJSHpyQkNOeXFzckJtakViZkxDR1cyNVVlNkZONGFUZEFkRlg4MFFiSDRZMjNVLQ?oc=5
-- **Source:** openPR.com
-- **Published:** 2026-09-29T09:48:19+00:00
-
-## JA launches new DC-coupled hybrid battery and latest-gen AC-coupled solution - Engineer Live
-
-- **URL:** https://news.google.com/rss/articles/CBMipAFBVV95cUxNNjg3ZEdhcTdjMVZHWmVQbU9KbFRUOE4tUFJUaUstenUyNWcxM1RpZkM3SmNtZVpJWTJlcHlRQkRYY01TVkpMWjVlTzdNLUh1TEFFVzV6dG9NRDNJR1dReFBmM2FpZzM4MXFQYThINWFNNUZESEZkS0pISDRGdnFQYXlubncxRVlEQ2JKRTJDWVVpbzN1bEFVeEx1WHZBME9hY3BGVg?oc=5
-- **Source:** Engineer Live
-- **Published:** 2026-09-29T09:39:07+00:00
-
-## Beyond AI: China bets on quantum, chips and fusion in five year tech plan - business-standard.com
-
-- **URL:** https://news.google.com/rss/articles/CBMi8gFBVV95cUxOakNlTHdoOUUxUzFZejlGUERzbjVPS1VRUi11WnAwQW1HdlhnbDAzMDNQYjNfMnljSzNsY1IxVVhJeXhZN3hkSkVUNG1xVmFTbExHOWc5NHBoQkU4ZkJMTlM0SUx2OUhqUTZreVQ2NWpOdmhudHhDU2stZG5DZDFNQm9td0k4SFRlZVV2NnYtYVJQcE5PRVFNMlJRdkxfOHltckZtN1JUVWxXcng3VUw5dExyWFlxYlp5Y0J2djVVVDdSUkJ1NmpTUzh4QWJ2TGVwRnk3UkNmNlVHSURYN2RlNUtxU1pkM1h1cEVNbTgzc29zUdIB9wFBVV95cUxQcWczdDZFM0xITGpOZXNVUnBPTWZMRGZGUkJ2ODZxVS12QVYwWXFINTJscV9VZUs3WXU0QWp5ZFl2MHFYOXVHcmZWSEJOUC16azNvNFRnUUJfMFJGTnZZOUtGVXNpd2lia2VaVkMwQXFUb09VeG1vZFVfQVZWSzAzWFFmZ1YxcXFCTkJMbERkemdyNE1pb21xOF96SXNic3lFTFR0QTVQUy1lUERiNVlKVWYzUTdtTG5DOW5xeWJWOUI5TnhVUEhvTzM1a1FCR0hRNDJGN2MyWjk4ZS14XzF5dUxFbHhUMkNUSV81ajBDZUJKT25yLTk0?oc=5
-- **Source:** business-standard.com
-- **Published:** 2026-09-29T09:35:29+00:00
-
-## LOCAL EVENTS CALENDAR - The Herald
-
-- **URL:** https://news.google.com/rss/articles/CBMikgFBVV95cUxPZHJydlV2MkdubmFsRXBXcUVKY1dkNjBuNk9kYTA4eHNWU3NqbHhramF2R0hGb19NRmpVYjZhYS1SZlJlVnQ2bGU0VmhBaW4wWmtxTWpNSThPSm9UOXg2Wk01bDkwVmM0LWZtQ0dBZ3BtclJ4Q3JNOEd3QWxKWExOT2JrcUg0cnBScXZMNHVsSlJ3QQ?oc=5
-- **Source:** The Herald
-- **Published:** 2026-09-29T09:08:32+00:00
-
-## European Energy Ministers Coordinate Response to Price Surge in Dublin - energynews.pro
-
-- **URL:** https://news.google.com/rss/articles/CBMinAFBVV95cUxOekhjSU5qakJvNkJrNS1qM2tudTMtSUJnYTVGMmVoU1FqQWUtWnJNbzBLS21keG5NV2dYR3NoNXNaWktubHE5VmJGZHdJVGxHZzhNcnJuQXFTT01SYnFtcXY5aDRSWjZwOXVGb0Y2UkQ3Mk1iQ1RxcEdfZHRSZWk5RHVxbHlkTzlJQTh1MFdyM19DZkRtU0RQd3FKdFI?oc=5
-- **Source:** energynews.pro
-- **Published:** 2026-09-29T09:04:38+00:00
-
-## TotalEnergies and Ile-de-France Chamber of Agriculture Launch €500,000 Partnership in Seine-et-Marne - energynews.pro
-
-- **URL:** https://news.google.com/rss/articles/CBMiwgFBVV95cUxQaGNabEloRlIwdWxWLVNORGMtOHV2cnVDOFB1QkVxNjRiUUNralp1MWk1ZDVnX29uTC1GVUowSnNYR2pUMm9JM0c1N05JU3J2N3Y1UnhxRUpCbVJVMzZZWDZCTGpMWk04dWpJLWFaTGphU0VDTUF0MWRvUXUyb0p4WW1Yc1JsZkw0aHdfM0RmeVRITDcwaEtWcUY4MEtfRmVqa2o4TnAyT2phVWFmQkZ0djcxZXBKYnJsdXduNjhiQXdXdw?oc=5
-- **Source:** energynews.pro
-- **Published:** 2026-09-29T08:36:15+00:00
-
-## Stark Power Raises $85 Million From Bank Hapoalim for U.S. Expansion - energynews.pro
-
-- **URL:** https://news.google.com/rss/articles/CBMilgFBVV95cUxNZFVGUEM5V3Z6MmhUTWwxWjRhcTA4eGpHdk8yQ3lTTUtzVG5haGc3X1h3cm1KWFV5TWhkZ0p2Rkkybk1WSVZ1VUhiTVpRTXJTLUdkRW1LOXBWTkpiU2kwUU9Ub3pFTngwX05jWTJzZXhBYWZVU2U4MlFCemJxaXJSSE9Yd09ZaHoySWNuLTlQdVJldFl0UEE?oc=5
-- **Source:** energynews.pro
-- **Published:** 2026-09-29T08:21:06+00:00
-
-## JA launches DC-Coupled Hybrid Battery and Latest-Gen AC-Coupled Solution - Installer Online
-
-- **URL:** https://news.google.com/rss/articles/CBMitwFBVV95cUxNLVVDaGMtRXU5TmIwX3FCWTdZYlE1TXNjX0ZURTFOclNLS0xCUjNIV1VfNmFZZTVMVDF2RFdVaUNGMHZCcWFBaHRYQW1xRUZFUDVWOGV4SGEzWTVFMDNUWVI4cDJlNV9tRTQ2dmZ6WlpiQURicmE2SXQwVFlEcVdBc0dxZlpHcXBfZXhjbm1SMkc1TDBYdUkwZW9pM1BFTGh3d1ZKQkotX01sQm54RmdFTmRyenJpcTg?oc=5
-- **Source:** Installer Online
-- **Published:** 2026-09-29T08:00:47+00:00
-
-## IDB and IAEA Sign Cooperation Agreement on Nuclear Energy - energynews.pro
-
-- **URL:** https://news.google.com/rss/articles/CBMiiwFBVV95cUxPM2RqNWc0UDVuaFFjb09kTWNGRTN2UUpyRjFRVnF1ZzVpeUZRZ1N3SFdMZTRkSldQMzI5eUZpTTZrRjZmWF9fbW9rNGFNc19ZNDNueDZ6SVY3LVlFM3YxdFJRcVJvazhWY3BLMGFWbGdyOTd2T0ZvcWRyVTUzRV80SU11WXZKek16RnU4?oc=5
-- **Source:** energynews.pro
-- **Published:** 2026-09-29T07:52:26+00:00

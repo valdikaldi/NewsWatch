@@ -1,8 +1,62 @@
 # NewsWatch — Iceland News
 
-_Last updated: 2026-09-30T17:42:45.847528+00:00 · 50 articles_
+_Last updated: 2026-09-30T21:56:56.154634+00:00 · 50 articles_
 
 ---
+
+## Iceland: RÚV board wants to continue boycott for 2027 - ESCToday.com
+
+- **URL:** https://news.google.com/rss/articles/CBMilwFBVV95cUxQRkZlRWRwR1pVQXlUWW02Tk1FNnR0Y3JlVlM0Nmp2RzE0NHQzZGtqR1Y0bGsxaXRZcnRwOEpyOWpUNFdpMC1nbGdwTlBlMWE4OU5vdk44alRsUEVFRWcyM2FyYXpIR2NEcFdqVVJwZk9zRkZkYkpVeW1FOU5zMjQzSDVQaURPcjR0MXVrbWEwXzA4OHJaTUdJ?oc=5
+- **Source:** ESCToday.com
+- **Published:** 2026-09-30T20:37:49+00:00
+
+## Nations League highlights: Luxembourg 0-3 Iceland - UEFA.com
+
+- **URL:** https://news.google.com/rss/articles/CBMi2gFBVV95cUxQeWs5bjR4LVJ2S2V5YXpUQTRKZ0dxWG1CVXVKSUhHZzU0MFd4Um5DTFBrbUM5VTMwMHkyTDlCVEVsTjdWT1NFa0ZLWE5CZXZINmxocThHSHhYaTAxRUZHdHpPMDdyZTJkaXNjeTF0Zk5mU3NmREVZcGJUNzR4T3IxeXNMTGs5TlU5NjJvVmRiZGJZRTZ0eFBSX0wzWDc3RWVIWEJCdExuTE02ZGk0WElGNnd1eFBkcFRsRVBKVkM2WU05SVZiYXVXTURqOC1jbDdBMDNCWWE5bVpSdw?oc=5
+- **Source:** UEFA.com
+- **Published:** 2026-09-30T20:37:03+00:00
+
+## Gaddavír Give Us a Walk Through Icelandic Hardcore’s Past & Present - No Echo
+
+- **URL:** https://news.google.com/rss/articles/CBMibkFVX3lxTE5KQlZyc2l2eFROcnBSX0Z6eERoaVg4X3J1S0dxd1Fxd3pxZnBQY2pqcGYzZ2ExcEs4d0pDTjRKZGpaNEZ2Q0d5cjA0TE9tM1BuX09lQThSWmhRT2NwbmNrc0YtSVZYUXZsUzhCeXhR?oc=5
+- **Source:** No Echo
+- **Published:** 2026-09-30T20:32:14+00:00
+
+## Iceland: Eurovision 2027 boycott backed by broadcaster’s board - Eurovisionworld
+
+- **URL:** https://news.google.com/rss/articles/CBMilwFBVV95cUxQekVhMGlxSmRYSVh0cDNnNkJ4LVBKcGRiSDd1bGJDVUNxYy1NNi1EMnFyRTA4MTYxRjRkLTdnU21PMDlIWUE5UDBxY2lHSi15Q0laUEtmZzNCWnFSN0Y4ZzFuWXRCbDlRdzlzNGE2SGQ5STRwVldvYmd3WWtsYWp5WEVFQzhjck90REd5ZHUzaXlxa1dYQU1N?oc=5
+- **Source:** Eurovisionworld
+- **Published:** 2026-09-30T20:18:00+00:00
+
+## 🇮🇸 Iceland: RÚV Board Supports Continued Eurovision Boycott - Eurovoix
+
+- **URL:** https://news.google.com/rss/articles/CBMikAFBVV95cUxPUXF2aG44bm01V1ZCeGtNT0hOQ1BMTGd2b0k4LTE3cHdxbHpxZUNhRmQ3MzJjZWRjR0s0Y1N3MEN5VW11NmlZb3N4dG1kdFZub1RUWE9faVUzWHhIS044cHA1aG03WF94OTM0cFgwN0lWa19JbTBmNVpWYjBEaDREUWlPTHFvejE0dWEweDB2M04?oc=5
+- **Source:** Eurovoix
+- **Published:** 2026-09-30T20:13:33+00:00
+
+## Birgir Halldorsson - Iceland - Player profile - FIBA U18 European Championship Division B | FIBA Basketball Events - fiba.basketball
+
+- **URL:** https://news.google.com/rss/articles/CBMixAFBVV95cUxNZkpHbjdlY2UzcUI5WEFCNUsxUkxCRkotdU9EU3o2NFROSkdWQ0NISkpTc2w4ODZ5cTFmSDhKWXdvUS1GZ1VoMmZGVkxEbFFWT0RlbTVXeDA1X3dnR0wzQUw1V3pud2cxUnh0N3Fha052cXVJcV9JUmsxS242ZFZ5RFRVU2xqajl6ZjJDVTEzVUVUakFfbXZtWHVmRjU1MHZScWlmR3JPUjh4bVUzZ2liaU1ZUDJGRk1UQU81QnZNbFB1VVE3?oc=5
+- **Source:** fiba.basketball
+- **Published:** 2026-09-30T20:02:11+00:00
+
+## This Wild Corner of Iceland Has Massive Glaciers, Black-sand Beaches, and Otherworldly Canyons - Travel + Leisure
+
+- **URL:** https://news.google.com/rss/articles/CBMicEFVX3lxTE9lUXNEWDF4bmNSc1liR0tYSllBMDRPRHJSYVBOM1d5Q2p0ajRxR1N2SGJFSU9tVFhEanI3ZjY5MkVncll2cFFrb2RnVl9kQjdnMXNOekdQa2ZKYWF6LW9RSEdaNmlHRVpJM3E1bUhITXc?oc=5
+- **Source:** Travel + Leisure
+- **Published:** 2026-09-30T19:33:13+00:00
+
+## The India-EFTA partnership, one plus one equals three - The Hindu
+
+- **URL:** https://news.google.com/rss/articles/CBMirwFBVV95cUxPcUQ3cFZGV0s0blZpU1hTZ21yWG9zWk1TQW1rdGZyNGpNU2YzcnVXWlJ4YzFFLW1ZS2NZY3lxTU03V0FJMFVuQWtNbXp6SHNUR2dVWWx2S3NTZ3BPdGlpa1B5NzJreXZ5bUd2VWxBR0NucG9YcTA1WXpjeUpTLU5ManIyeXpKNFotYlZIcVhZSlkyTzZ3ZUNGd1FhaEZhcWctdXlwWXFqMDNBSUhKN2E00gG2AUFVX3lxTE0xVUp2ZmM0THJoRHZtVi14VmFPbnlmeTNlOVJpd19Ebnl2U21WMXd2aXgtR0c4dG5ydndVdDQtQ1U5MUtZZzlLRWtKVE1RT19XWmlrQ3BNLWJqMThtd01hQ2ZBNXdORGVXNTA1OGR4SUFYM2ZJLTJWNUV3MU9xeThnRVhCUnBpaXp1N24wSWVjVWFTRFV2M3N4TElWM1pYQmJ1RUxWa3VvYlhERndkSXctN0ZBa3FR?oc=5
+- **Source:** The Hindu
+- **Published:** 2026-09-30T18:46:00+00:00
+
+## Iceland Foods Ousted Director Over Spouse's Exit, Judge Says - Law360
+
+- **URL:** https://news.google.com/rss/articles/CBMiVkFVX3lxTE9ac1F6WTVVSkJjVHA5ay1tcXRWd1BfcFpUcTVTeDlKMGg4Rzd4NFcwN3p6UXV0NkNBSVc3TFFnaWxMVHlwLUFfMXhPbXZWakVoRjRRRnJR0gFWQVVfeXFMT1pzUXpZNVVKQmNUcDlrLW1xdFZ3UF9wWlRxNVN4OUowaDhHN3g0VzA3enpRdXQ2Q0FJVzdMUWdpbExUeXAtQV8xeE9tdlZqRWhGNFFGclE?oc=5
+- **Source:** Law360
+- **Published:** 2026-09-30T18:29:00+00:00
 
 ## Lazio confirm Gudmundsson dislocated shoulder on Iceland duty - OneFootball
 
@@ -249,57 +303,3 @@ _Last updated: 2026-09-30T17:42:45.847528+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMiZ0FVX3lxTE51dWdIRFVfNWRHY1dSTmZab24yUV9MYVFMX21TSnFsZzVZUG5kWkc5LWV6TFRXd2xXZXpmT1pBTS1POWppVzlkWGlVUkVqb2RxblA4dG5iaG83VWxhcnlOUWRGT201RWs?oc=5
 - **Source:** ESPN
 - **Published:** 2026-09-29T18:43:53+00:00
-
-## Jet2 Has Announced New Iceland Getaways From Leeds Bradford Airport - The Yorkshireman
-
-- **URL:** https://news.google.com/rss/articles/CBMingFBVV95cUxOZUd5Z094VjZOQmloLUNUWFFzb1lrREtUT0U4RTIzRWFDblZrOXlwUmNHbzFOY2xsRGdHSExWeDhNeXdOTF9nOG0xQTRZWFFvQmhmYmt3Y0RwMUFoYUwzNHpSYlUtQ1BNOEUwMVh3Ny00WG9VaTNxc05BVEJGTl9acS1OX2h3TUZPQVNCRTl1M3Y0cTRleDRBaVdaWlpqZw?oc=5
-- **Source:** The Yorkshireman
-- **Published:** 2026-09-29T18:18:20+00:00
-
-## Luxembourg vs Iceland - Watch Online for Free - APWin
-
-- **URL:** https://news.google.com/rss/articles/CBMicEFVX3lxTE5kYzRPWVFUN1djdFpEeGpIRDItaERyNEExVXB6QnhDUHNqcWprVjRCUUwwVElwNHN2UVpJQWRaNk9VVlJGcWI4QmlaV21Jdk54ZHNGUFotSnFaRGdXRENrOTdobVZYNV91aXAxbWpMUWk?oc=5
-- **Source:** APWin
-- **Published:** 2026-09-29T18:08:28+00:00
-
-## Match Centre - Transfermarkt
-
-- **URL:** https://news.google.com/rss/articles/CBMia0FVX3lxTE9CemYyNUtaQkVDcldJSjNXb1lvbk54b3owY2M1Q2lXTm9uakJvZ2RYYmFRWVQwbk5mS0s1clBGVExsLTFYSm9PYlhqQjNwXzNObjNRak4tWFpfYXlSdGplQjA1YkxMdUhGYUhB?oc=5
-- **Source:** Transfermarkt
-- **Published:** 2026-09-29T18:06:22+00:00
-
-## Iceland Plans New Tourist Fee For Its Famous Golden Circle - Forbes
-
-- **URL:** https://news.google.com/rss/articles/CBMitgFBVV95cUxNemd1Y2UyUmwwM1c2bk5RSWdJSGVxNGNIel9aR3dVcFVIUlpNNjU2dldoLWQ3TEExWjF0Rk92a1RTUGwwNkEzRWJWMXhfY0hhdjhDZmJKbE8wVDNEUFJ1ejAxTkM3VlJGSUNmQWJWLVd6YmhfcVFiMHBTWmlMdlBfNG1LWnI0TjhZbDV4aW5JX2JGVTJjRE5iV0NFVGhyaXVoZ2NuNVFRX3ZGbU5pUTgxZm5XTUFMZw?oc=5
-- **Source:** Forbes
-- **Published:** 2026-09-29T18:04:30+00:00
-
-## Why India And Iceland Are Betting Big On Geothermal Energy R - ИФЗ РАН
-
-- **URL:** https://news.google.com/rss/articles/CBMif0FVX3lxTE1NT21CcWR0b1Y3Y1BKSnpaRmtfU1g3N1V2TExfRUw2YVlTRF9YcmlMY0dBbll5SlE1S0p5MUp5SGhoSWxUQkp0ZmtoSmRjaFhDeXNGbUVybk9heVRva0lNb2JDSE9UOW9MRGlwcmtNMFhJLUotSjZ0T2dSUnBmS0E?oc=5
-- **Source:** ИФЗ РАН
-- **Published:** 2026-09-29T17:56:33+00:00
-
-## Luxembourg vs Iceland Lineups - UEFA Nations League 2026/27 - BeSoccer Livescore
-
-- **URL:** https://news.google.com/rss/articles/CBMikgFBVV95cUxOU1U1UUZicGtFNjBuTElGRXdsNkU1NVYza3JDaWNUWGNMVXFVbjU3VG5fRFByMFpZbnFpWjRzbmhMcDhOdGJvZHJpX1BRX3RNLVVQYXlHMkZDRW5UTjBEVk1HLXRIaHY2eW1ReXJ1V1VuNzJ3N0daSThhTEt5MFQwdHFTT3VZTGtoS2ZTWEFhQzE3dw?oc=5
-- **Source:** BeSoccer Livescore
-- **Published:** 2026-09-29T17:51:32+00:00
-
-## Swiss U21 Team Suffers Defeat in Iceland - blue News
-
-- **URL:** https://news.google.com/rss/articles/CBMilwFBVV95cUxPenVjbWRuSk1VSkRHS3lRYXpQMmFMb1BXalNIR0pyTGFrbXJ6M1B1MWJoaFZPQjhCTlBveE1pSTFlZlF0UTJMcUFabmxVZmNiX3B2MkVZQTZFNWxmVm5TUC1NNjc5SU5LLVhnb29vcmZMY0JIalpUWVlUY0N6Y3VrMDFzVHU5SG90N2VpWmpqckplMjRJVFhN?oc=5
-- **Source:** blue News
-- **Published:** 2026-09-29T17:10:57+00:00
-
-## Luxembourg vs Iceland Prediction, Betting Tips, Lineups & Odds | 29 Sep 2026 - Sportsgambler
-
-- **URL:** https://news.google.com/rss/articles/CBMirgFBVV95cUxNZGhHSm1PRmQwRFpqaWNLQ1RUR3k4Vkd0LXViUGdPV3VLS3lBQ3gzcHBSRjFOUUhCZzBhdFZvXzdQYkVFaVpZbkF0c2EtbU5iQlBnVzRZUXFLZ0JPQU9RVU5FS2FQeFVWVTJ2UDFOWEYxamtVeXB0aEtxZGZtUzljYlJEVVVtU1JSUHpKeGg4bTZfYVhJdExUUXdBY05nakJXRS1iNXoxWjJMOGdXSHc?oc=5
-- **Source:** Sportsgambler
-- **Published:** 2026-09-29T17:08:02+00:00
-
-## Jet2 brings back ‘once-in-a-lifetime’ Iceland trips for Winter 27/28 - Jet 2.com
-
-- **URL:** https://news.google.com/rss/articles/CBMiowFBVV95cUxNbTB5TnJZOUQ0MDhxeWk3cGNnbHAtcVNHSXdNZ1p1cjhVZXJ6WWozVXJ3b1ZneENGOE9ORndsbV9PaTdmM0ltWmRPdG16YXNTcTZGNlRsUFlFX0lhc2xUaTJDOER1eTloVDZlZjZfM3l6bDdjNWlzS2ZmVWpwVjgtOXFzMDBrQzlHNUg4cGhXTUdKdDUyMzN1ekREdW5fcFNYQW5Z?oc=5
-- **Source:** Jet 2.com
-- **Published:** 2026-09-29T16:47:04+00:00

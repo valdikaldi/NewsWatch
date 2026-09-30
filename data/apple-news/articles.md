@@ -1,8 +1,20 @@
 # NewsWatch — Apple News
 
-_Last updated: 2026-09-30T17:42:44.783638+00:00 · 50 articles_
+_Last updated: 2026-09-30T21:56:55.100593+00:00 · 50 articles_
 
 ---
+
+## Apple stock after-hours at EUR 297.00: plus 2.18 percent versus prior close - AD HOC NEWS
+
+- **URL:** https://news.google.com/rss/articles/CBMixgFBVV95cUxQMmY3TXBxZThUSDBJTGMyQmpWNUlyX2pfTktZQ0NpcWlmUkxtNDF1cWlrb285U01jbDN2d0stYVExOVNyMWRlcDRUQkZCU0FnaWM4TlNaN0hyZkszaGhxa3U5eHJoRW5ndTh5Z2NTX2JSSnNrcngtT21qMTRzdmhaNmN4aXN6azYxYV85cHBfcGV6ZXZRc3kycWV2SEtLelRIMHdtRm81VEtRVTNPcFNVbF9NSW1xdGFpNEduNW9ibVJIcnhITVE?oc=5
+- **Source:** AD HOC NEWS
+- **Published:** 2026-09-30T19:07:37+00:00
+
+## Form 4 Apple Inc For: 30 September By Investing.com - Investing.com South Africa
+
+- **URL:** https://news.google.com/rss/articles/CBMimgFBVV95cUxNYUwtMDFreXQyX3FLclhaN1BkS1FKcXIyeDBiOVh2cE4tZ1lmWFlOZnYzaVlSal9LU0gwNUYybW9sdHFMSDAtbXc4UDJncUFnUGVkOFQtblo2aUFuNEN4dFAxdF9uenFRNnJSVkVrbDJpSXpwNk03SzFuRkZoMGRqRVNleG5STGpxWVJEaE1jNVl2VXVaRDRsZTJR?oc=5
+- **Source:** Investing.com South Africa
+- **Published:** 2026-09-30T19:03:25+00:00
 
 ## Apple Inc. (NASDAQ:AAPL) Rides Technology and AI Strength as Nasdaq Composite Edges Higher - Kalkine Media
 
@@ -291,15 +303,3 @@ _Last updated: 2026-09-30T17:42:44.783638+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMixAFBVV95cUxPY3ZLNFh0Q3FzRGI3RWxMcVRodVBKdndPQ1FkMzdSS2d0U2pZVFhlMW01WnFUdExvX0lTRVdWMnJSZEFjMGpsRkN1ZWJNcHdDaVYwdl9USHFHc0JqbU5zb25CRko1cHJrRTIwVG02RDRJbTBjSFU0VzZGVjJGT1dPNVdwZmdWall2MFd4TVRmR2cwSWhuT1pDUnNBZjBWMUo0dkhsdkduNy1jSVpPU1dOaDdwX0ZJYlhheXVNMWFaZVljbnVD?oc=5
 - **Source:** MarketBeat
 - **Published:** 2026-09-30T07:11:02+00:00
-
-## 394,954 Shares of Apple Inc. $AAPL Acquired by Dearborn Partners LLC - MarketBeat
-
-- **URL:** https://news.google.com/rss/articles/CBMixAFBVV95cUxPc3NwaXR1R0w3ZTJzYmM0Y3k1QVlkcEhYVTBfOUxrUnhwMWFMRXVXLTA2S2JsTHpZOG51NGljWlRLUmhmOWFGb3JaeU5DY1FhS1dvWDduMTlOaG1GTDR6WjNqclVJZkhiNWpMZXRGOU91TjEzazVLQ0pIWVpZSXdtb0lnTnhXenptSlJSN0ZRMk53RG1xWjh5eDdHUzQ3V3J4bVlvTUtoNTA3SlRpaG5nMTFFNEZxM1gtQ2FuTl9CbXhoalNu?oc=5
-- **Source:** MarketBeat
-- **Published:** 2026-09-30T07:11:02+00:00
-
-## 1,607,892 Shares in Apple Inc. $AAPL Purchased by Empowered Funds LLC - MarketBeat
-
-- **URL:** https://news.google.com/rss/articles/CBMixAFBVV95cUxPRXFHQ0ZhNmY3c3h4amRlT1h6RjFOZmxfOUpEV0FsNkUzZGhxc3VUa1ZkVFpjaVB3LWpBMFlzT0VmT2duRmtNOExaUnBfbEpOenFLRjN0MXpIenZJckdmZXVTM2JXVEI4SUFoaXJQN0J5WkNjWW1GWEdyMFJLb05WY2QweHZkMkNQaTdVa3c3RkpINGtoQ0ljZmVOQzRYX2hRYkVuYmtrMS10dUJDaGlDZ05IM18ySGdMVlpGNk5kVVJQTThM?oc=5
-- **Source:** MarketBeat
-- **Published:** 2026-09-30T07:11:01+00:00
