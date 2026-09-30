@@ -1,8 +1,116 @@
 # NewsWatch — Apple News
 
-_Last updated: 2026-09-30T10:19:23.518570+00:00 · 50 articles_
+_Last updated: 2026-09-30T17:42:44.783638+00:00 · 50 articles_
 
 ---
+
+## Apple Inc. (NASDAQ:AAPL) Rides Technology and AI Strength as Nasdaq Composite Edges Higher - Kalkine Media
+
+- **URL:** https://news.google.com/rss/articles/CBMiygFBVV95cUxQWl8za3EyUkRUVm9WNTM3VEpSeDVRTzZpUktpTmVYX3V0ZHlqaXh0SGdocXZ3anhRODlSd3pkN3A5MlNjMDNnV2FRR05HRUtPZHVnbXhDbXc0ZTBKR0llNjJjZmFoaXU2ZWphNkk2dkpRczVMUmpDeHdxNzdYejRlV3djdmJIUlFDeXZacG9MTlBxUDc2OWIxQXVzWWJxWHBSQnMxWkZkN2YxVlFyREhhYzBua1FKLU8xVzROMnU4R1lfZmZmYzVTQ0dn?oc=5
+- **Source:** Kalkine Media
+- **Published:** 2026-09-30T17:04:00+00:00
+
+## Apple to enter smart-home market with Siri AI hub - Proactive financial news
+
+- **URL:** https://news.google.com/rss/articles/CBMivAFBVV95cUxQdXVHQ3BRSUMzdXZsd1RfQmFDSmwtNnhTLVJCNGZWVFozLXZta3QzYkdjX2wwVnZxV2VHdWFMaUMtT0FVdzY1c3J2YkVNUlNoUGNrVGc0cG5zWnFNa3FmRTZCb21DZTFRZjhCemVaRTlmbkNYcFBHU2pYOG00SmZ6ckkxb01ISkJIdnBpZWpWYXpzUVZxR1ZhM1V4N0NCZmN3X3pTcU1EVjRhWXVnVi1EdWxhZTlib1h2S2haaw?oc=5
+- **Source:** Proactive financial news
+- **Published:** 2026-09-30T16:24:00+00:00
+
+## Apple rises amid iPhone Duo excitement, though UBS sees 'flattish' wait times for Pro (AAPL:NASDAQ) - Seeking Alpha
+
+- **URL:** https://news.google.com/rss/articles/CBMivAFBVV95cUxPZGF1cm5Sb0dVSXowYVFHQURpQ0FXU29adUtFUlVZN2ZyZzJZWTU2RkZJVUsySXNmLUhaWmJSaDRGcEdvU1BJZ1JEYjVDRkdOWE9uVlBnd2NkLURxdGNjcFZCOVVtX1MzTGpwc1JBTEExazlYVm9UYzZXMWpPcTRjc3dHb2xlQVJjQVhMTUx5Q1lyTkhtcDVqd29rOS0tbUdUYjZ6dzdTY0t5RFF3NVZQTDdWR0tsNkI2OXdBSg?oc=5
+- **Source:** Seeking Alpha
+- **Published:** 2026-09-30T16:21:27+00:00
+
+## Apple’s iPhone Duo sales predicted to hit 6m units - Taipei Times
+
+- **URL:** https://news.google.com/rss/articles/CBMidkFVX3lxTE1FenJxU3FaTHB4UTg4RE5BR19MT21VdXpNVGNlaTM3WWVNQkxtWkVsZzVENGF1MjNTeWlxaXVDSUJ1VzhlaERRZ185SXBSRk5ORktwb3Zxd2lNU1pHejNEM1M5RGhCR2dSSGVCd3J3WEJ5WTNtTUE?oc=5
+- **Source:** Taipei Times
+- **Published:** 2026-09-30T16:00:00+00:00
+
+## Apple plans smart-home hub launch in October: report (AAPL:NASDAQ) - Seeking Alpha
+
+- **URL:** https://news.google.com/rss/articles/CBMikwFBVV95cUxPM3JxU0RkM1FKRG5ObFFCRTNselQxZ0hmSVRSNExmT3BZSHJJZFJZejlBODhDUC00ZVRaR3VnQTBhbkdRSEtwWVNOSGJnLXJNZUw3OHdGb01lVVZSLXE1V05aOGIyRUlBTUt1SDB6Y25Ob3MySUd5emlxZjdNNlIzczdOaHoxN3MzVE9ZUTF4cTNHRXc?oc=5
+- **Source:** Seeking Alpha
+- **Published:** 2026-09-30T13:58:59+00:00
+
+## Apple Pay Launches in India With Axis Bank Credit Card Support - AppleMagazine - AppleMagazine
+
+- **URL:** https://news.google.com/rss/articles/CBMifEFVX3lxTE5ESVY4V01aYzNMV3l4c09zRkdKWEhOSElXLVBydFJvT0hsa0xqUkdKNi1DLVFlNkRzaDFpUUhXeEtOSkZBRXlIZk82dmxtSG1RNHNwYVYyRDBlWUpHNW5nYnhfemRmb3A1MWZXbDZCclJJYXY1TG00R3lIUG_SAYIBQVVfeXFMT2pwbjZkdGNrajRXUndTSTBjaXE4Q3pzSXBXckM5NVdPVWt5Rk1hY3hSZ2VQZUVmb25uLTBsYXpQYzRFZ01TZ0JBT0pvR24xV09ld0t2Zjc1ejlCbExINXJJOEZ5NHJpOC1ielkwZHQ1V1U4U1gtbUNQR3JydG9teTVqUQ?oc=5
+- **Source:** AppleMagazine
+- **Published:** 2026-09-30T13:51:37+00:00
+
+## Form 4 Apple Inc For: 30 September - Investing.com India
+
+- **URL:** https://news.google.com/rss/articles/CBMimgFBVV95cUxQaC1fYkFjbWRPYkx1eWNDZ2R4b0wtTUhBcUI1YmpjdC1YVVRMUVdIVktiUEppVzNNeUZkU0xtLVNsYmtWNG11WUVobGV3ZTZUUzVybWpwNkZrbkZ3TmdNQVRKUTVQVmFKMHBhTHJ1T3RRTFFYY0ZwUl9kenpUYXMxeTBYV1Jwd2FmWFRvNk1LTEc5NF9HbmRLV0tn?oc=5
+- **Source:** Investing.com India
+- **Published:** 2026-09-30T13:07:32+00:00
+
+## DoorDash Debuts Text-to-Order AI Agent That Works in Apple Messages - Yahoo Finance UK
+
+- **URL:** https://news.google.com/rss/articles/CBMihAFBVV95cUxNYzVjcVd4N0l5OElDNDBoMFFwVWxPR2dJWTFTbjdubFdnQ2dTMHl5aWdfVjNDVm1qd0JHa1BRN2ZrejhXWFIxd0g3YTctLWxCa0lvUVY5bHlqcnpfdVB4Zi1jR3hvcERzU0VsRmJNTEZXUnpJR3RiX3haaTdodVQ5Q2FZRnE?oc=5
+- **Source:** Yahoo Finance UK
+- **Published:** 2026-09-30T12:57:00+00:00
+
+## DoorDash Debuts Text-to-Order AI Agent That Works in Apple Messages - Bloomberg.com
+
+- **URL:** https://news.google.com/rss/articles/CBMiwAFBVV95cUxNOVJKZFFfaHBYd2MxQkhFTjBlZGdxX2l6SDkzbWVGWHgtV1lnRjZNWENLSTUxbTRlUnpDbWRoU0xTZ0JJeG03d28wbWdHeUZNZ2ZER0dXUDFENzIxR19aS0V0VVFWTDhCb1ZYME5NQmx3VlZQUC1KZXN6alZfakRYTEpBVHNuMm52NlVOZVhfeUVJMTZBYnRjMk9YY08zWE90VXZWRTJhS3htUHd6RVhYenpUek95UUV5VzQ4MnZOdzA?oc=5
+- **Source:** Bloomberg.com
+- **Published:** 2026-09-30T12:57:00+00:00
+
+## Apple Inc. : UBS is Neutral - marketscreener.com
+
+- **URL:** https://news.google.com/rss/articles/CBMigwFBVV95cUxQRDVxaHZORk9TVnV3TFJXRHEtR21uMUlHd0l3TE5RWmx2WFJzRXpLYjR2MlV1ZU5HcDk5dlM4UlpseENaTTFHamJnWnlQNXN3bkZLZXZGRnFudWJ5VjQ2aUtXOGxPZ0VESWx6VmJpYnkxOTlwWEpfSDFrWk5iVWl1S2NUNA?oc=5
+- **Source:** marketscreener.com
+- **Published:** 2026-09-30T12:26:16+00:00
+
+## Apple likely to sell 6M iPhone Duos this year, Counterpoint says (AAPL:NASDAQ) - Seeking Alpha
+
+- **URL:** https://news.google.com/rss/articles/CBMiowFBVV95cUxPZkptWXdHbU1ISW9mb2RYejE1bWhrZ0x1MFZwSzBCWjljMlpqOXI3cmZ5ODVETlBDUV9KaE9SSEZMSHBrMmN6eDJoTW1GNUpSMmd6UFdGU21DbHFjLURVRVZSampQSEFDdkt5dTdRM3lqT0luYVUzVWpKXzFUUVhKa1ZYaE1CR0ZzOXZKS2JXbnNvanFDREtJdnltaVdFWVI3eUxR?oc=5
+- **Source:** Seeking Alpha
+- **Published:** 2026-09-30T12:23:48+00:00
+
+## Apple Reportedly Prepares Major Smart-Home Push With Siri AI At Center — New Hub, Apple TV And HomePod Mini Nearly Ready - TradingView
+
+- **URL:** https://news.google.com/rss/articles/CBMiigJBVV95cUxNMld2ZGhqMFFZd0J4anBsS0w0cXNNejY0cUc4VEZGVkM2QjljM0twakZhUnh1YzdmMzlRUUhMNC1NOG5pUnktNGRmajB6QXBnOFdyRnFJeEs0UkNYeGRHeFVoVFZpU1RpZUtSY29NLU9OZFQ1NktaWllTS2o3SXVSY2Y0QjkyeHNRWXVYcTFBR2pxdnQxOGItM2R0d0dJWmRGbld5Zm5XUGNzTmNCdVVNazhmTUI4bnFDbnRBZlF4enFyOXozXzk3RXFUM2JxYmxZaVhqZkxfUHMwNEE5NUNxQWVfVmVMMjlWc2VHd0k5ZTloY1lVYWxVQzFsZUN6T1huRUpWUWxnOFRUdw?oc=5
+- **Source:** TradingView
+- **Published:** 2026-09-30T12:18:17+00:00
+
+## Apple to unveil smart-home hub on Oct. 13 in major AI push - Bloomberg - Yahoo! Finance Canada
+
+- **URL:** https://news.google.com/rss/articles/CBMiggFBVV95cUxPZExqRVo5WnNlWFhYZVV5VHhUb1lXbF9vUDE1RDlUNElrSFMyTkFnTmRXTjhfQlBITzEwZ1BWQTBlUXp4ZnRPRDl5cS1DQUpRWjEzc0ZEN2JXN1RWeWxnaHZpQmpHaVZWTmJxdjUteEJtMHF4el8wVHZrclB5MEFmSFVR?oc=5
+- **Source:** Yahoo! Finance Canada
+- **Published:** 2026-09-30T11:42:13+00:00
+
+## Is Apple's Strategy Paying Off? Strong iPhone 18 Pro China Demand Sparks Revenue Upside - TradingView
+
+- **URL:** https://news.google.com/rss/articles/CBMiaEFVX3lxTE9rakQ4WDNkQkg2Zzd2d0tHamYxU0xGV0dJak5OLXFOZW0zcGUzQURsWE5IakFaWWI1OFMtVW1OS21uSzJfTzF5SnN5R3U0WDJXZlBXRnBZWmF2bDlsVDFkV3RkNjVNV3BB?oc=5
+- **Source:** TradingView
+- **Published:** 2026-09-30T11:24:54+00:00
+
+## Meta Platforms, Inc. (META) stock price, news, quote and history - Yahoo Finance UK
+
+- **URL:** https://news.google.com/rss/articles/CBMiUkFVX3lxTFB4R1puQ0Z4d0VwYXkyb1Z2LXQteDFfUE5Vd2h6ZnJ5d3UyZ1F1Vm1Ib3ZEWmZXQUJUeklBQVdwNkhBaERNeGlxQ05tRkI2VXNLU1E?oc=5
+- **Source:** Yahoo Finance UK
+- **Published:** 2026-09-30T11:09:51+00:00
+
+## Apple’s HomePad smart home hub launching on Oct 13 with iMac G4 design – Bloomberg - 9to5Mac
+
+- **URL:** https://news.google.com/rss/articles/CBMilgFBVV95cUxPSXFheUFjY3gyY1gzbkgxVDFYVjRuWktnVG15V0xQemZIOHBMbFhMQ3RpQlNEVnBOWDNaX1o0NXB6T0VlUEY3LW9leU15VmU2THdySGNvVl91SXV6TVRreDJiUEdYOVEzMk15VVRSQWE2M2ZyVlVNOFlESDRqUnVSMVdyWlNmZW1qUEtKQVJuX3pWMTFXSWc?oc=5
+- **Source:** 9to5Mac
+- **Published:** 2026-09-30T10:52:00+00:00
+
+## Apple Inc. Plans To Make Its Long-Delayed Push Into The Smart-Home Market On Oct. 13- Bloomberg News - TradingView
+
+- **URL:** https://news.google.com/rss/articles/CBMi-wFBVV95cUxPRElRbzFpQkZubWZBM3Rvdm1SS2s5US1LcFY3SFBRNlY2V3RqbERBc3Vlc3FuaFJnejlXTV9hQ0pfZDRXcEJJNlhSbF81aHJrN1p3VWhUdHBWa3hMVGNNeUc2UnQwR3VEc21zZUVjdkwzbHRZdGViOHhXTGtNelc0NHBwNlduZjd5QUhvbklLazhIRlhuc3pjaXJRdkVpYUVVRE1fZ0FnVnJmelZWQ00yb2tUbFZRZ3NOejdLcGRnZE8zQ2M3eDE2Sk55Zno3anQ0WUhrVlVGQ3hnTHh1NU9wZzQzeTk3dDR3S0I2NzFSU2I1cVliRF9odFJTUQ?oc=5
+- **Source:** TradingView
+- **Published:** 2026-09-30T10:33:44+00:00
+
+## Apple Is Finally Ready to Enter Its Next Big Category: the Smart Home - Bloomberg.com
+
+- **URL:** https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRmVFekxvT0hOQ2dvNUpQYUg0bEM1UUFoc3lxX2J3T2hhd2lUSlMtN0ZuNGVjeDlXYmdzU05taC0xQk11Tmxqd196SGw5ZzdEWXJaS3kwaDFXblhuT0NyemJibUxRekdHa3Z1R0RIS0Mwa21MZ1NTWG9EZHJUZU9rSnYxbG02UDFGVkxWVG9wcXdnaEU0cC1xUnhtc1hNQWN0UnVHYmk5S01kb1didlVJQVc1MGZWMUJmTXFr?oc=5
+- **Source:** Bloomberg.com
+- **Published:** 2026-09-30T10:30:00+00:00
 
 ## Could AI Agents Cut Apple Out of the Checkout? Analyst Flags Meta’s Muse Threat - Benzinga
 
@@ -195,111 +303,3 @@ _Last updated: 2026-09-30T10:19:23.518570+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMixAFBVV95cUxPRXFHQ0ZhNmY3c3h4amRlT1h6RjFOZmxfOUpEV0FsNkUzZGhxc3VUa1ZkVFpjaVB3LWpBMFlzT0VmT2duRmtNOExaUnBfbEpOenFLRjN0MXpIenZJckdmZXVTM2JXVEI4SUFoaXJQN0J5WkNjWW1GWEdyMFJLb05WY2QweHZkMkNQaTdVa3c3RkpINGtoQ0ljZmVOQzRYX2hRYkVuYmtrMS10dUJDaGlDZ05IM18ySGdMVlpGNk5kVVJQTThM?oc=5
 - **Source:** MarketBeat
 - **Published:** 2026-09-30T07:11:01+00:00
-
-## Key facts: AAPL $109.4B Q3; iPhone 18 Pro Sept 18; cuts roles; 25% India - TradingView
-
-- **URL:** https://news.google.com/rss/articles/CBMixwFBVV95cUxOd0M4S3FNS1VfbEdRT1Ixakk0NUpwTUowXzFmd25SZW5uLTBnZVRpVkxHTDV1b0RhWHdQX3FLZXpXUHRoUW53anR6V0w0NWU4UjU1eHhCWmJUajBFUzVHTW54WHQxTTUwWDhmbDAyMmVCbjJBc2poQWxnZ3h1MkhvcmRETzZtbG1ON2NUSktjOEMxS0NBeU5sY3d4NXJ5bHI1dERjaElzc1JhZjctRTVJV1F1TjlnRTY0ZzFWeHBOOHRQYVAxblE4?oc=5
-- **Source:** TradingView
-- **Published:** 2026-09-30T07:00:00+00:00
-
-## Amazon (AMZN) and Apple (AAPL) Must Face a UK Class Action Over Marketplace Sales - Yahoo Finance
-
-- **URL:** https://news.google.com/rss/articles/CBMilwFBVV95cUxOMTJVWGRDWmhFa0NQaEowbXB4dFNMZzN2NE5QX2dpYWYtWTZXVFpGY2p2dlR3Q1BURTZzdm9DVVpTdWRkNjRiaU00dEJBR1dvUmJ6VGxUU05sUlozNWVOVlFDcVVnNGdWYjk5WDNTc09EbEdvZzFkd1FnelhGSVJZOGQ3WFhielhIX1hwN2Z6UUNwR0piNFFF?oc=5
-- **Source:** Yahoo Finance
-- **Published:** 2026-09-30T06:08:18+00:00
-
-## Apple enters India payments market, taking on Google and Paytm (AAPL:NASDAQ) - Seeking Alpha
-
-- **URL:** https://news.google.com/rss/articles/CBMioAFBVV95cUxQaWhRQTUxOGlueE9Gd0V0OVJOUDlkeDVyTkRrVUVrOUtaMWItYkp6NnBDa09zWFFyVU5sZ0NZNFZyRlRXTkpPZG95M2dwSzVfenJOYnRLdm90YkJ0ZDA2T3hKb1RaWjBienZVbllWUDZOLUdVeFRfbVdwX1owcmM4NVFlcjl0enZSbWNxZU9yR2J0VDBQSzZhYUIwLUVCWjVa?oc=5
-- **Source:** Seeking Alpha
-- **Published:** 2026-09-30T05:49:16+00:00
-
-## AAPL Stock Retreats From All-Time High: Research Firm Says Apple Could Sell 6M iPhone Duos This Year - TradingView
-
-- **URL:** https://news.google.com/rss/articles/CBMi8gFBVV95cUxPNk9Xc0RfSlZkSFdxaVhwbnkweHlobGo1RXhKbWtZWFRHOTNwMWFmMFFtRFJNWXA2RDlWSXBrNWVseXZQc0hqTnZQRXA2Um82bHVHelRyOFZiUXJRbl9sMEtFMWswUEljOTZveTk1VFVILXJnZmxGeGMwNlo0Q241QXFqZnNfZ3lXLU1WYUl6UlNPSmFqeW5yZ1FaeDlzZ2draGo0ODB2U0tLenNqV3g3S0pVeDVkSVNzQ0M1Ui1idS0wb2hMR04wMzZHX2xYdTNfeTUxNHZqeTZnMFprekRHa2NSUUZEUlE2OFc2ajA2Y09Hdw?oc=5
-- **Source:** TradingView
-- **Published:** 2026-09-30T05:07:00+00:00
-
-## Apple launches Apple Pay in India to take on Google, Paytm - TradingView
-
-- **URL:** https://news.google.com/rss/articles/CBMitAFBVV95cUxONU1DZUdpWG8za0JETEVQaEFGZ1p0ejBVWDhSTnlqcTRIMFUyQUFwbU9uWURkb2VRaDdULXA5Ym5IZkwtdFNwYnQ4SFprbkJzWHB5aGRrd0NVbTZFUUVIckg2Tkg5MDQ3cmVFeG9lcDUyZi1KOVhpYVBMRVB4T0M0YmtfUWJPNFQwdzFJVzBIck9LU2d4SS1HLWV5RTRqeVhJZ3BDRDQ0eVlfSTdNRzJGN2cyTmM?oc=5
-- **Source:** TradingView
-- **Published:** 2026-09-30T04:53:00+00:00
-
-## Apple will sell six million iPhone Duos in 2026, Counterpoint says - The Edge Malaysia
-
-- **URL:** https://news.google.com/rss/articles/CBMiUEFVX3lxTE9QWjNEalhSeU1CUTUxT1BsVlg4VFJJRXdGNkwtUmlDMmswT1pCLVM4ckJhUnRjWG9ha1l4M0tHRVd4ZE9aNXU2UlhyaTd5bzZS?oc=5
-- **Source:** The Edge Malaysia
-- **Published:** 2026-09-30T04:22:41+00:00
-
-## Apple Pay Officially Launched in India: Know What Features It Brings, How to Use - LatestLY
-
-- **URL:** https://news.google.com/rss/articles/CBMixgFBVV95cUxOV1R0Vm12ZWp6UUJENVR2UnlvYnhNcE82SkZWOUNtM0wtNWZyQUxKQ0h2MTRyN2R4RHpsaGVRSHg1NjNyb3NScjRwWmRpLXFZazRyUkt5akJhN0lURWlqX2xGd2d5eF9OQkliX1M2cEVXRFVoYWhIZXhhNzhwaTBIR2RKeWV0U1dyVU56XzZVM3BPZUVUMjFmaGZNanJZWnp0WEFXSGZVRDFLQ3NRNnNELUllV0NBWUdQQTI5QTBDbkVZYTBaU1HSAcsBQVVfeXFMT0YxaThvTFNTSGZMTU9zcVAyUW1QQlFCM3dZa0w0TDdZTUFxd2xxY1FkZ3MzV3JyUWxxYTFWOVQtZEZiYUJOSW1vVmNRYWJmc0xZYkV5X2JRMlpyVG93NF8wb3drLW81MlJCa0xxTFdsNk1YZThjc0VObENlYzU5YWxnNmpXbFFvRVVCSHJMQ1FfRUxvRE05c2gxRVRtckFkRHNyNHJtN3kxZGNRb2xvWDFzbGx1M2dfdlI1bEV5Z2t4Sm5FLXBIYlVzOEE?oc=5
-- **Source:** LatestLY
-- **Published:** 2026-09-30T04:12:29+00:00
-
-## Apple Pay Officially Launched in India: Know What It Features Brings, How to Use - LatestLY
-
-- **URL:** https://news.google.com/rss/articles/CBMiywFBVV95cUxQa0VaZzhZT2EtMlFKMlNsOF9ha3lYVllMelJXVjJtVkgyYmNHR2xVdVdPV1h3NUtJSVdteXVkVUptaDVPUENIYTg5cDZNVnk5bmdhUWlCX0xocU00WFNqcC1xbllxRzlmSFRnYnJqM3dlTnlVV1hyQUlkUXRZblVIUmxsS3ZRLU50aUVyRTVTRjJMRU9ZUTZUVE90ZG0tRU1Rb0xnZWdVdXpheFc4REs1QVNRdWRCWDFwZzBUTHJaU29VcFYtVm5WcnNhRdIBywFBVV95cUxQa0VaZzhZT2EtMlFKMlNsOF9ha3lYVllMelJXVjJtVkgyYmNHR2xVdVdPV1h3NUtJSVdteXVkVUptaDVPUENIYTg5cDZNVnk5bmdhUWlCX0xocU00WFNqcC1xbllxRzlmSFRnYnJqM3dlTnlVV1hyQUlkUXRZblVIUmxsS3ZRLU50aUVyRTVTRjJMRU9ZUTZUVE90ZG0tRU1Rb0xnZWdVdXpheFc4REs1QVNRdWRCWDFwZzBUTHJaU29VcFYtVm5WcnNhRQ?oc=5
-- **Source:** LatestLY
-- **Published:** 2026-09-30T04:12:29+00:00
-
-## Apple set to sell 6 million iPhone Duos in 2026: Counterpoint Research - Business Standard
-
-- **URL:** https://news.google.com/rss/articles/CBMi4gFBVV95cUxQbGVzbjlUcUIxaUlYRFUxeU5fc2pfdXZROFFHS3JfNkppWmhwZzN3TTgxQjZscTU1cUZhSXZRS3hDbVVYNzJRRlJzeFF6OEloM1VaN2ZZeC1NYXZSNzlCYm9TYkdfbjhkMzd3czZtbGh5eG5ScmpUMklackhTbXBiOW03MlJGQnFtT2p2THhnMFlYQlFCVW11a0VuSUpDcHZLZXkwYVdNQTlTX3JQbmV3aW9KOUkzVmhRMWF4c0xjeEo5bkFHZXBEZmY0MW01OGc1WGVnV0VzRG5CYld4OVVBVEl30gHiAUFVX3lxTFBsZXNuOVRxQjFpSVhEVTF5Tl9zal91dlE4UUdLcl82SmlaaHBnM3dNODFCNmxxNTVxRmFJdlFLeENtVVg3MlFGUnN4UXo4SWgzVVo3Zll4LU1hdlI3OUJib1NiR19uOGQzN3dzNm1saHl4blJyalQySVpySFNtcGI5bTcyUkZCcW1PanZMeGcwWVhCUUJVbXVrRW5JSkNwdktleTBhV01BOVNfclBuZXdpb0o5STNWaFExYXhzTGN4SjluQUdlcERmZjQxbTU4ZzVYZWdXRXNEbkJiV3g5VUFUSXc?oc=5
-- **Source:** Business Standard
-- **Published:** 2026-09-30T03:39:24+00:00
-
-## Apple Layoffs: CEO John Ternus Reportedly Initiates Corporate Overhaul to Streamline Engineering Teams and - LatestLY
-
-- **URL:** https://news.google.com/rss/articles/CBMihAJBVV95cUxOeTZDN2hsX1BDZEdPdzlyVlp6UmRnYVlzb3pPVE0xMXo1MzNLMjNWaUxYeXpiSnhtZUxrZFJjbHRxNmpsb0dHTXprRVBNa3ZPdjlhckdnREpBZUxwU3FSRURmdlNzN05BQ0NYSjhDM1NHQ0hnOUhDemNPZTg5ZlhJWkNPZHFlRjVnc19VRHBSWmR4cXJNTm1HY21DR1c3N0hyT1Nqci1hNEJrTkcwZU1ROHBpR2M0bVBzMEthUHZsa2p0MmdjeV9lb0tzOGhFWVBSMEpfb0RIVGJsaWNtWVpoUWk3ZV9RMUg5QWZBQllJSHdtOGIxT0toRkx4aDZUZ1dUa1ZITtIBigJBVV95cUxOUzJUSV96US1rMHhTOC1hdUdSSnV6ckVrR25XTVcyN1J1WDJLNi1kUXU2NVZnNmtCdklMX2JVWWFVSkRBSXA1ZHMxMW5tQkZZNDUyMG9WYnhuYkliTVB6OHdhMEZoQ0pYdVEtTWRsckhSY1luSXBjMF9PTF81QnF2UFpyRVFDd2tmbUZ1azgtUTVLMVFJQVZMdkd4TF9DR28tdmhTeGRYVEhzVGtMZjRkN2lyUmJMMGVhWVBWcW9IaFhkc3VDNkEtOTl0dGV2c0lXWkxuUVVjYngtSzd6VEp2NThxZlQtamlkTEdTTVdBenZRMDQ0Yzg3aHJ4TzVWT3V6Z0I1azhsNjNJdw?oc=5
-- **Source:** LatestLY
-- **Published:** 2026-09-30T01:35:43+00:00
-
-## Form 4 Apple Inc For: 29 September - Investing.com India
-
-- **URL:** https://news.google.com/rss/articles/CBMimgFBVV95cUxQNVVMeDZJT0t6UUtqSjJNT0pidGhjQ0F2R1UzY0lYV2NGMk5HR0hnczRuTTVSLTVrcVZydm9LS1d0RGwybDhibnU3bF9HbGVoSGtjZEwydFJ2d2lEMFJNTU8xX2pyblR1dmpoOVNzNzFFdzNoMnZzTDNQNmRhVmUzY2k4cHAyYjROc0dRaDlmbHh6ODBYWWtraEN3?oc=5
-- **Source:** Investing.com India
-- **Published:** 2026-09-30T00:00:47+00:00
-
-## A Look at Apple Inc (AAPL) After 2.7% Decline -- GF Value $287.2 - GuruFocus
-
-- **URL:** https://news.google.com/rss/articles/CBMirwFBVV95cUxNcTZFZklncUxXN3VFOEpOWUw5T3pVbWhXSkVRMlJ3RjVEaDR4ZmNKTGNOSkZpbGhiWlJfX3F2WjRuY0lzbUVOdmQzU1BjVThjMEN3c05qejBMZDBheEtKRTNUNFdHX0lLV0U3VzVQQXItckRGdmJjNU1pZGdEWndyTl8zY0NZLXQyRjNRTnkwam1SeTRRUXNMampRaTNjak52akhFUkpVTmktR2IxVEZr?oc=5
-- **Source:** GuruFocus
-- **Published:** 2026-09-29T23:33:41+00:00
-
-## Apple (AAPL) awards Jennifer Newstead performance shares with 0%–200% of target eligible to vest. - Stock Titan
-
-- **URL:** https://news.google.com/rss/articles/CBMipgFBVV95cUxNMURmRndCV200ZGM5SDExRXIxa3p3bUQ2SlUwNnVDM3BXeTMwTFBLQmEwaDN0ekZpZkpDRkYtMExYdnU1bkJpYUROUXg3V1pFRUdlU2ZUTTNJb2NPTUdaelZqV1BIbkFqQnRmc0RRamVWeWlZWTFFQzRSQUNHdTM4WU1DQ0FQa0xybGllWjVFbUJNN1c0em5IMHkzaFJHTXRQSVpoVzd3?oc=5
-- **Source:** Stock Titan
-- **Published:** 2026-09-29T22:42:30+00:00
-
-## An Apple (AAPL) executive’s stock award could vest at 0% to 200% of target, depending on shareholder returns. - Stock Titan
-
-- **URL:** https://news.google.com/rss/articles/CBMipgFBVV95cUxPRTBhRjlKTXpWUTJueXhUM3haSVBTQXZNVFc1V0RlU2VuM2VwWndzNXdmMjB3cEhPLTUzeDctRHpxOWQ3LXEzSlloZ3VKQ284ZlpXcFFrajJFeGM5TXl5UW9OUURiRGg5QjMtRlhHX2tFRVY5MlpMSHYtZEpWVFUwZjBIRmNNbnBsQWVhSFhjbFpyUk1EZE5WUHBQNnNTUEdfbVp2YWdn?oc=5
-- **Source:** Stock Titan
-- **Published:** 2026-09-29T22:39:40+00:00
-
-## Up to 200% of a target stock award could vest for Apple (AAPL) CFO Kevan Parekh, based on shareholder returns. - Stock Titan
-
-- **URL:** https://news.google.com/rss/articles/CBMipgFBVV95cUxNTzF4ejFuY2RfU3h1YW5pWkNHTHlWejJPMzc5N2RkekRJb0MxcEJNT0VoUXVRaGNxSVAzUmxXeHktYjJaeXR2V2ZMV1I0NmNTbEdOaGt4Z0xpc1hoeUNZM0lZeFJQdEtrQy1KOFBuY2cwV01oYXJjTnNTNmM5YXNVNFZHdEVBT0NhRXRmUkxpclI1TFlmZVRUYzhETVQzZG04SVB3a0lR?oc=5
-- **Source:** Stock Titan
-- **Published:** 2026-09-29T22:36:56+00:00
-
-## An Apple (AAPL) CEO stock award may vest at 0% to 200% of its target, depending on shareholder returns. - Stock Titan
-
-- **URL:** https://news.google.com/rss/articles/CBMipgFBVV95cUxPdDZPNVFXU0M5NGdKTUpKV1ZnNUhfRi1qQW9JVXB1Y3RHbkFuQjBLY3VxMnZobm13M21PUzNwQ0JvclMtaURPUGU5MVhzbGNmYmVTZFBfQWQtNElEQkFLUGt0cDZRX1U1TTlLM1BBTnRSWWY4d0dtRjJLZlY3N3dwQ3FkRHJUOHc3WTNYenptckNoT0ppYnU1UVZhbUhjRTRwUEk2ZzBn?oc=5
-- **Source:** Stock Titan
-- **Published:** 2026-09-29T22:34:13+00:00
-
-## Tim Cook’s Apple (AAPL) stock award could vest at twice its target, depending on shareholder returns. - Stock Titan
-
-- **URL:** https://news.google.com/rss/articles/CBMipgFBVV95cUxPLVFCbGNWR0pHbFhVZE9WNGVxRVh2eFBacmFpX2hwRXdsWmd1MnIyUlJ4T3FORTFodDBCM3NacTJERmFXUkFWR2pDSHFoNzdwdURfWlM5VmpWOGxxNVZraUNGc3J3dFZycXJCTWNlQXRQeFF2TVRSVEpmYUhrWGlzZzZnVE5ZTjZ6Uzl0RzNKNHBmUWRzb01JUXFNclVlTU02eHhJYkFn?oc=5
-- **Source:** Stock Titan
-- **Published:** 2026-09-29T22:30:54+00:00
-
-## Apple Faces New AI Threat From Meta’s Muse - Meta Platforms (NASDAQ:META) - Benzinga
-
-- **URL:** https://news.google.com/rss/articles/CBMimwFBVV95cUxNUkx3eTJubTNVcGM0eklRTFlucXRrenE4NHNhOGc3Y0VtTzlvaFppdkVKRWZoZlR1RkFxUDRxZm10ZjZyYjVZUFlKZW9xbU5sQ1dQZzRLNXNfYldBVEtJdWxoVUVtWlN0QkZMSjZJODNGWnlqZy0zcF9CUWU5bVI5djQ3Wm9jZGZJb09HY2ZPNl91b3dCZ2Nia091MA?oc=5
-- **Source:** Benzinga
-- **Published:** 2026-09-29T21:18:31+00:00

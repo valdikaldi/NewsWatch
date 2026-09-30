@@ -1,8 +1,62 @@
 # NewsWatch — fusion energy News
 
-_Last updated: 2026-09-30T10:19:25.102851+00:00 · 50 articles_
+_Last updated: 2026-09-30T17:42:46.310651+00:00 · 50 articles_
 
 ---
+
+## Governor Newsom signs legislation to accelerate California’s fusion industry, announces major investment for quantum research - California State Portal | CA.gov
+
+- **URL:** https://news.google.com/rss/articles/CBMi7wFBVV95cUxNVGIyM2JlOVBTbjNNVXVrTVdUVGtvaURYOGZVMjFTSFVENk9wcEJlc0V0RWNwR2pEQnZoRHc4cXl0YkF1VnV6MVUyQkQ1LURVREdJUDFGT2doeFBDd1k4N2xEdkF1ZDNQTUFGTEZiODF5c3NVNjN0ZnNMVHhIVVJRcEFkTXN1S0hiN0JiRDg4aEdTMHFoOENVRndlU0x1UzdobEpzLXo5enY5ZjgzWmVCUTdZcmxkWGFrdk1oXy1MT2JYZGZkV0YwOHlqUFE3X3UxeVlzdDZHNFpfYXdETlNPQWhTcmVMU1FSTkJMTW8zTQ?oc=5
+- **Source:** California State Portal | CA.gov
+- **Published:** 2026-09-30T15:40:29+00:00
+
+## New Unified Theory of Plasma Confinement Could Accelerate Fusion Energy Development - citybuzz -
+
+- **URL:** https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcDFXUzA5Y3EzcC1mQmVZNVVERjdLbUJ4dUhwZ2E2dXY4NEE4QXFTeUhvb2ZpODBSZkVKVlFpVWg3NmtlRHFyV3lIeVplSUhQRG1UOFZ3OW04dC1nTTEtVzdUWVFLV3BET2w3S1hLWW1iVkhmXy1FLU1pczFpdDJQUnJXSjVjOGZGU1pEam1OaGdldWVnbzVac0VEZ2lzSExjdTB6RzZCXzNGQkNOenljeElHYndLVE9FaTB3?oc=5
+- **Source:** citybuzz -
+- **Published:** 2026-09-30T15:23:55+00:00
+
+## Trump Media & Technology Group and TAE Technologies File Form S-4 Registration Statement for Proposed Merger - TAE Technologies
+
+- **URL:** https://news.google.com/rss/articles/CBMiwAFBVV95cUxPLXVOX0otNWRCWUVXTnhMNXh6MnZyeF9jdkI5YTlJS0xQcWRxelBLeFpHQUlwQXFRVTZvaG13M3M5WjlGOHdMUWowVFBfbWlXWDVHUExMaXE2em40eWR4WUFTVVZJTXkyb0dVVUVhLXZFdkpGa21VenVkaWZXV0JyWWNzMUlwVEpFU1B2UktCLW82bmtNbHRuRThRU0RKOF9QM2RIODNoNVNjeS16VUdhbkZhcjFZRkE3Y21JQjRnTEQ?oc=5
+- **Source:** TAE Technologies
+- **Published:** 2026-09-30T15:12:33+00:00
+
+## Trump Media and TAE Technologies File Registration Statement for Proposed Merger - citybiz.co
+
+- **URL:** https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVW9sYkt5Q0Q3RjktWlBLZkw0dEdINl9jVkJPRWNEbWxJWFJ0MkpPRlhCWkpTY0RSTUV1WS1GRm9Bc0NvSF85ZFRhc3dEQTNZeDdjTTk5dkJkLV9BQTE2bGxXNXZqUnlZNnpKNXZud1ZVbUJOQ1hKcV90bUVRTkdHeFVIZVEzRjFQaTZ1UUI2dnJmSlN4X3VVS0Z0VF9mS3pGWUROYlRMQTktV2tiNnJ2YW56SV9EbF94b3RZ?oc=5
+- **Source:** citybiz.co
+- **Published:** 2026-09-30T14:24:13+00:00
+
+## Trump Media & Technology Files Papers for All-Stock Merger With Fusion Energy Company TAE - marketscreener.com
+
+- **URL:** https://news.google.com/rss/articles/CBMi1wFBVV95cUxPbmRLMDB3d19HRFVPWUJQdXI5S01jekFDS1J0OGZaNmtTbmRpa0xhSjI3bWw5WVVMTUx4c20ybllwZWw4SUVld3NTVkpjSTYzX3RzUTlHdFJiV3RQV2t1aFh2WEVqNl9JbEdUR3B0aDNjbS1BM0hQb2kxNTVOUFJwT1NGLXVwWDViZ2hCTEEyTnZRbmU1SURCSnNxSnVRcWoyQkhwNjJkcVZzWk5hMVFJWGZ1bkU0UnZUWnhCSTl3NDd5X0tvLVFTeDk2QjNzOXZqMGlJXzc0Zw?oc=5
+- **Source:** marketscreener.com
+- **Published:** 2026-09-30T13:08:40+00:00
+
+## Truth Social and TAE Advance Fusion Merger Plans - TipRanks
+
+- **URL:** https://news.google.com/rss/articles/CBMiogFBVV95cUxOMW9WOG9JcTRsODFZMlVfeld6d2xCc3lHVlczblctcThocmNsRndVM2UxLURBWHpWdjlOUHlOb3hLVng3MGttSjk5VlNiVEM0MXFMdzVQNHFLYW1pYnRPbG9mWW40Q05ZLW1PZWVhOGNnVUlPYWZmeUdtRXFLMHBLZGxYeXVrOS1QQWJfakp6MnlGVnpFOGE4VzRmMGVIMlFNVGc?oc=5
+- **Source:** TipRanks
+- **Published:** 2026-09-30T13:04:02+00:00
+
+## Five Fusion Companies Are Betting On Seattle Region Expertise To Power The Clean Energy Future - NewsRadio 560 KPQ
+
+- **URL:** https://news.google.com/rss/articles/CBMib0FVX3lxTE9KZjVNQlBhVndHNGRvVGM0NzRSVUNlMThMbEpLUDRKaGRiRnJNdmZFYy1PbXdDdzV0cHJTaHNxMDh3dm9YODh6NXBWOTJRZUtyaWV0UG9yaVF0NFloMDVsbzFxXzg2ZnZoTjY2X2tuNA?oc=5
+- **Source:** NewsRadio 560 KPQ
+- **Published:** 2026-09-30T13:00:43+00:00
+
+## The Power of Hitachi’s Manufacturing and Talent on the Front Lines of Fusion Development - Hitachi Global
+
+- **URL:** https://news.google.com/rss/articles/CBMiekFVX3lxTE4yV2NRZkRqbWJfVkgyMWExNGQwTWc3eHNMbTNyS1l4WXlpVXRDQ1A0eDlDZmE1LWx5OUNJTWQxY3hnNnNrdnNWWVNROURtdEFIM3FMaUxpLW9DY2wxZnh1RzZGV0dpUm1CT044dUpTR001c05ZZFNpZ3N3?oc=5
+- **Source:** Hitachi Global
+- **Published:** 2026-09-30T12:59:43+00:00
+
+## American Fusion Inc. (OTCQB: AMFN) Outlines Texatron Plasma Compression and Confinement Approach in New Technical Analysis - marketscreener.com
+
+- **URL:** https://news.google.com/rss/articles/CBMi4gFBVV95cUxQcDZhNEwzNVBGYTNiakFQT29vNGNfZVE4eERTbUFZWVh5NFFDNFhQVDM3QlpRcWFndjlFRjFSb0o0QnRzRzhwYTdBaXBQZkc4QlE5bzBESVJ4TnFxOFpyNlhjMEhIZ0hMRFhZeVJpdWhYRjV2NWYxel9GdjQtSllVeVNQTnU1djhDR19aY05iVG4zekFTRkdiNHVfaVJyWUVHckVQel9xbklYOHFFb25kbGRhLU1xSDFxSkY5VnBMNTNWMVp2LVMtdm1NbERIWW1Ca3Brb2xzcnJCb1hyMTh5ZHZn?oc=5
+- **Source:** marketscreener.com
+- **Published:** 2026-09-30T12:15:31+00:00
 
 ## With national holidays approaching, Chinese workers demand a proper break - 朝日新聞
 
@@ -249,57 +303,3 @@ _Last updated: 2026-09-30T10:19:25.102851+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMiiwFBVV95cUxPM2RqNWc0UDVuaFFjb09kTWNGRTN2UUpyRjFRVnF1ZzVpeUZRZ1N3SFdMZTRkSldQMzI5eUZpTTZrRjZmWF9fbW9rNGFNc19ZNDNueDZ6SVY3LVlFM3YxdFJRcVJvazhWY3BLMGFWbGdyOTd2T0ZvcWRyVTUzRV80SU11WXZKek16RnU4?oc=5
 - **Source:** energynews.pro
 - **Published:** 2026-09-29T07:52:26+00:00
-
-## Gore on AI’s True Perils Existential Risk, Not Data Center Emissions, Should Keep Us Awake - Vocal
-
-- **URL:** https://news.google.com/rss/articles/CBMirwFBVV95cUxQTXI5enlLajZhcXN5REdjeHlHa3VNTnROUjd4N3RsZk5JQXRFcXJTRGRQSmR3UHpkV1lZMkdWNVBRVXlMMk5Zc3dYV21JXzc3T3RKSkRhVTAyNy1LakoxWDRDcVVwbFRKT1otT2c1cnhVQkx5cU8ySWRDRmF0UXFxbFNmT2tDRGRwTEhZTC1DR0FqQklMank2RTdPVjdBMm1CaWhGTW1OS3JlR21VZ2VF?oc=5
-- **Source:** Vocal
-- **Published:** 2026-09-29T07:49:25+00:00
-
-## Syria Launches Transit of 32,000 Tons of Oil Products to Iraq - energynews.pro
-
-- **URL:** https://news.google.com/rss/articles/CBMijwFBVV95cUxOVS1kR09hM1h2bDNwVUVqV2VuX1JfUGo4ZmNCTG9XSHJoSmdLTWxvSlVHcXNSM0Q4OEV3ZWlQZVlrZDRvMXdRWUVtYUhlM0w0V3psbFVHbDZVdXZ5X3lTSmxJQ0RxdVBBM3phX19GNjdiUU9zbGhkWk80V3NuLS1qZ2F1d1pSazRPclMxUDZnRQ?oc=5
-- **Source:** energynews.pro
-- **Published:** 2026-09-29T07:21:08+00:00
-
-## Gigaphoton evaluates L300KZ excimer laser for advanced materials pulsed laser deposition - eeherald.com
-
-- **URL:** https://news.google.com/rss/articles/CBMid0FVX3lxTE03ckRiNG9ac0p3LTVYemdQNlN3SW0xX2s4VVJBNnJ1VmtfZlQzaXdnRlh5ZjBuUUJ1dXJ6blJVWlVqUjhJSnFuMXhZbXJIZ0o4ZGJqOUNSU0s3N01jeENMOWdtUjZxNGpGZkRicmI3dnEzS2ZzVnZV?oc=5
-- **Source:** eeherald.com
-- **Published:** 2026-09-29T07:18:52+00:00
-
-## Music in the Grove sets October show - Knox TN Today
-
-- **URL:** https://news.google.com/rss/articles/CBMic0FVX3lxTE1yN1J1dE9BWnNFNUpIWjVBQUNELTFUNnNsTmFnZTI2aUt2N1NaemNLVXd3ampUbHZKN1hfZVZhSmoxb0JkUld2em9FZU04LWI1NFhGY2plOTVXS0hmRk4wX3FSUTE1MDJyVDFWVEVaeXJLUEE?oc=5
-- **Source:** Knox TN Today
-- **Published:** 2026-09-29T07:16:15+00:00
-
-## Renewable Energy Unions Call for Protests in Paris and Montpellier - energynews.pro
-
-- **URL:** https://news.google.com/rss/articles/CBMilwFBVV95cUxPZ3F5TS0wSU1XRElSV1BnbzF3YUZrM2JHU05McklsUDV2RG55XzBBeEJZTFo3T2xLZ3Bja1A3Zk5Yczk0WGprYnpYZW44VjUyVkJLSzVGTEdSSWtHbzNXc3AyLXRQMHlmYnZjTDFwejBmdEJCYURTejFQdTljTjQ5Y2tHcHhqTk5PeFoyekxwUVVHVHFzTDVv?oc=5
-- **Source:** energynews.pro
-- **Published:** 2026-09-29T07:07:49+00:00
-
-## The UK Commits £2.5 Billion to Build Its Fusion Energy Industry - energynews.pro
-
-- **URL:** https://news.google.com/rss/articles/CBMikAFBVV95cUxPbXY5WEJ5VnpoT2lnSldMUmZtTUJTSEozR0sxUU9RQ0xRcll0eExaY0ZkNkJKYUEtZmFlTDItRkNFSDV3bjZZVXJrYjlCaG85U2dMcW5DTTM4bS1fajQ2UWVRSzN2aTZpRXhKXy1YbU1lZ0JBZC1nNUdDUEZlUFJld2FUYUJDVGtFTUxiOTFtMEU?oc=5
-- **Source:** energynews.pro
-- **Published:** 2026-09-29T06:51:33+00:00
-
-## Energy UROP: the intersection of research experience and real-world solutions - MIT Energy Initiative
-
-- **URL:** https://news.google.com/rss/articles/CBMirgFBVV95cUxPX0NkQmxPVXRnYVBzMW9XOEI2NDAyeFVlZEF5NjFxdEtvMEQtZ2xNTGRHSGRXVDhuMXhmRUlEMEZGemo5MDFsSXl6YlhNRDE5TVhQN0VfVWVBSk1FY2VEbzdJSjU0anUybi1UVlp1UURzWlhHbGJXXzZVRDNua3hPVTE5RUhuSDhVUGZnNE5uWldBWXZLRXVnaTNhdldWR1F5SDA2OFJaS20tQmowLXc?oc=5
-- **Source:** MIT Energy Initiative
-- **Published:** 2026-09-29T06:40:58+00:00
-
-## IRENA Reports 2,500-GW Backlog in Global Grid Connections - energynews.pro
-
-- **URL:** https://news.google.com/rss/articles/CBMiigFBVV95cUxQMDFscTBXWVlBMkxUX3BfRmg0LVVRUkZYcEZnenhvSHdoUEdLWVRLME51eTluLXZGTGVMREZzTVFTMzVzZmt3aVRSQ05RRzFUQVVTZnV5RkZNM1ZPWkdQazJWMWdzVlBTd21RTVBqQVRPaHZqLWZsSDd1dlh6TG95Uk1pQURmOHE2anc?oc=5
-- **Source:** energynews.pro
-- **Published:** 2026-09-29T06:36:23+00:00
-
-## JA expands C&I-BESS offering with the latest generation of DC-coupled hybrid system and AC-coupled solution - assetphysics
-
-- **URL:** https://news.google.com/rss/articles/CBMizAFBVV95cUxPZ3k1TGNMV1htdjV2UHdiS3BicHNxd0s0MXF5cFd4b1g0OEg4U3M5MnZTVUJDdTg3THFKRGRvQXl6ZjNfSnpVTUFsYVpVVDdsdlNDR1lKc1dCeFUwd1hZdG5wTktqanRua1VZZnNLVkZvTTFHNVNKdy1YZDZPelBwY0hNQ1F3VmM4TkVTdklPaGQ0MzUtUy1rNUw4ekFBdHFfVk9VdGZkTFREYXpTS2czd3J6a0U3ZUdzR3VMNml6aVlFWW9aMVAxb2J3ejY?oc=5
-- **Source:** assetphysics
-- **Published:** 2026-09-29T06:29:12+00:00

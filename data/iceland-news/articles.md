@@ -1,8 +1,128 @@
 # NewsWatch — Iceland News
 
-_Last updated: 2026-09-30T10:19:24.643494+00:00 · 50 articles_
+_Last updated: 2026-09-30T17:42:45.847528+00:00 · 50 articles_
 
 ---
+
+## Lazio confirm Gudmundsson dislocated shoulder on Iceland duty - OneFootball
+
+- **URL:** https://news.google.com/rss/articles/CBMipAFBVV95cUxNTUFwZHJXTllLRktScFFwZGhCM05fMU9mci1nZU91c1NiZG1fQndXZHp1dTUzUWxkU2wzOG12Sk9fOXpQR1RFT19BV29wSVlpNm5zWG9vRVU1NFhsQWlLMVZuV3N3Y1NEV2RTU0pxMFNtcWdsWWVqUVRoeGxrNWRvVUVTU2dWTUN5WTRwdkhKSkk3UG5wZTJlcTA1Q3NBdGRfeW1rdA?oc=5
+- **Source:** OneFootball
+- **Published:** 2026-09-30T17:22:05+00:00
+
+## Jake Gyllenhaal Takes on Iceland’s Frozen Landscapes in Karim Huu Do’s Prada Film — LBB - LBB - Little Black Book
+
+- **URL:** https://news.google.com/rss/articles/CBMirAFBVV95cUxNNmR5SHF2RzBudTltZ01mMVhjX2hQZC0xZzAxNWN5RnR0MVZnVGwwWUUtSl9KREJvVWxyY085UGh2VzZVemxsR1JoODhrSk0tTWc5ZjNsUHBDTUV0cG9RZzY4SldLTUZzVXZrN3ZoNHFQenYtRjFyeWRfTHdTMEtQSTltQUYzYzFTaEVRRE1Cemt4WFlsamlfMDh0TEhLZExnclJkQWRGaC11Sks3?oc=5
+- **Source:** LBB - Little Black Book
+- **Published:** 2026-09-30T16:32:33+00:00
+
+## Iceland Seafood International hf: Non-binding Letter of Intent regarding the Company's Shareholding in Ahumados Domínguez - Yahoo Finance
+
+- **URL:** https://news.google.com/rss/articles/CBMiowFBVV95cUxPcTJqcGV5dDRRNWF1S19NUWV0YS1wSUVYQ0xYLURmeWRkZFB0QU45R2RVbVJKNWFDUExpT090SUpwMkZaenV1UmhUWHZUWE5udU9zaUVWSzQzczlua2NrVm9lQWwwYjJ1ak5sRHVyU0d0akdGLW5UbVdVdks5cDBfbjlXeVdoN3ItbG5hSVRSUW1COEIwbVBvczgwYmtJeTdjemNJ?oc=5
+- **Source:** Yahoo Finance
+- **Published:** 2026-09-30T16:18:00+00:00
+
+## ESA takes Iceland to court over Protocol 35 - mbl.is
+
+- **URL:** https://news.google.com/rss/articles/CBMipgFBVV95cUxPTzBmLW5PRWtnZ3g0RHNqYnlqWFlnYXJuZy1JcjF5OTB4VFpsamVwMDhkeWptLXdJcGJzOThlajJBb0d3NWRvelpGRlFvMEFZZGZXZnVXU3gzNVh5Z2ctUHdXenRFazI3WG01NnZ5ZXJUN01GcldkRlg4UXZnTjJlWEEycVd5WFF1U0pMVnYyUU1VR2Ric1M0aEN2RmVhc0o2YV95ZzhR?oc=5
+- **Source:** mbl.is
+- **Published:** 2026-09-30T15:00:00+00:00
+
+## Październik zacznie się od sztormu - RÚV.is
+
+- **URL:** https://news.google.com/rss/articles/CBMihgFBVV95cUxQX1R1THZWTlRsZVV5eTN3UG5YaVZVRkE1RERqdFA5em1iYi1UVElsN3FVR2Q5LWVVQ0xPVUdKQmoyb0JaR2drVE1jbVRQOWJWbnhCTW80M1RkZjI1MmpmUFdCS21DN2ppdm1JalJjMTBNNjRwNVlzWTJHaFVQcTVhUlBCOFhVUQ?oc=5
+- **Source:** RÚV.is
+- **Published:** 2026-09-30T14:36:21+00:00
+
+## After Iceland defeat: Injuries pile up as Luxembourg seek to recover in Nations League - RTL Today
+
+- **URL:** https://news.google.com/rss/articles/CBMitgFBVV95cUxOLWY5SVh5bXpuMGNqcEZjZGlKX1NWT2liOXZHblR3SW9lNXBHNDNIQlRZRDY0ckM2QzZuWi15TmppMEpoR0toeUtIaWw3dVRqWUZ2SFlDNnk1WnpZNkNEOFFZOTQ5NlFMblk0SUpjaVpCbWQtYkJlVTZia2pYS212eXluV2cyVEM0ZUw2cFlTY3lCd1g3Q1hxenJDbzBWZGMxZjA3d1ZvSjk1ZE91N2lBWUJwNFFOZw?oc=5
+- **Source:** RTL Today
+- **Published:** 2026-09-30T14:01:21+00:00
+
+## Antibiotic Use in Icelandic Animals Rose 21% Last Year - Iceland Review
+
+- **URL:** https://news.google.com/rss/articles/CBMigAFBVV95cUxPb1FQb0VPSlY4dzN4cW5nOWwwdFpEMHJGYUZ5eGw5T3dDZGpVNmFjeEFoUjFaRmJNNVo0MkVSeEx5T2hUTjZHd3NPX21UWnBPRUF1b1AwUUozSWtwb1k1VWNxWmlxaEg0ZnR1T2pEMEZPdHRuRlBKWnhmcy1lTng4Tg?oc=5
+- **Source:** Iceland Review
+- **Published:** 2026-09-30T14:00:36+00:00
+
+## Temperatures climb above 17°C - Iceland Monitor
+
+- **URL:** https://news.google.com/rss/articles/CBMimgFBVV95cUxQajRqRlFkV18xcVRDYUl2cUFHWkE0aVg5dWlGMXVxc3F5d1JpU1BkUjRhOHJBdEtGQzBILVpyUzhXRXFXYy14OXczREZKNFptcTU4NWVoVmJBUjN1UDRWcWNHbEpPRS1abURKT1R1N19YMGMyRTNtRXhPVkJ3R1B5TGx0TzVQbHBYZ3pjRXZNNURuZnotbnNtSnlB?oc=5
+- **Source:** Iceland Monitor
+- **Published:** 2026-09-30T13:38:00+00:00
+
+## Air quality in Keflavik - IQAir
+
+- **URL:** https://news.google.com/rss/articles/CBMifEFVX3lxTE5PZjZBRWdUSmpjS3BPdFYxM1dYdHl4ZUpOWGNoRWxTV1hGTWtMLXFGZDV4NEE4LW9zdklIQklhTVhPU24xd1YzaTFvQjk0RjRGc2pyUlExc1h2aDlSUFNMUEhVbG9HMG5lQ2xVUlpSalhpNDFoSk5MN2JVVUk?oc=5
+- **Source:** IQAir
+- **Published:** 2026-09-30T13:26:30+00:00
+
+## EFTA Surveillance Authority refers Iceland to EFTA Court over failure to ensure individuals and companies fully exercise EEA rights - EU Law Live
+
+- **URL:** https://news.google.com/rss/articles/CBMi6gFBVV95cUxOcndHRU5nYmVhS1RmQjhCUXJmb2wzNGF3cmdwaFV3dm1qR3R6bkdfaVZMcTRYR1lUX2htVUJHSUdtWm1KeDlWSkJ5dHpBODk0eWREa2J5WkRzV2lHYmpvTy1wLS10RnpCR0k2Mi02NEhZSkRmdEVqOG9ud3hiQUxQQUFRTXg1LUk0OWJuQTBxZ05EQkpEU09ISFJSY0VEcTh5VkpPTF93Qm1FRmNERFRHdjkzRDNvRWozblVJZDNxN0tSM2gwY2hhTEthREhSaDFxWEtmUnlNMWVZcHlXdEI0Skl4SnlEZ1dCU3c?oc=5
+- **Source:** EU Law Live
+- **Published:** 2026-09-30T13:00:26+00:00
+
+## Thursday TV: From Icelandic Volcanoes to Hitchcockian Suspense – Your BBC Four Guide - tvmix.com
+
+- **URL:** https://news.google.com/rss/articles/CBMihgFBVV95cUxOelkzUzVDS2dNdFpJbXAtaTkxSzhNYWxEd1I1VTczVVRWWlJrTVlZNGxUME9XS0xBYXExZUU3bk9Fb2liNTFWTUdoNVBVTm9NczZQemp6WV9JandfMEQxcjhIVjZBRXFicldHSDlPT1Z4b3JCLTNNRHQ1aXgzTGNLakUxTVVuZw?oc=5
+- **Source:** tvmix.com
+- **Published:** 2026-09-30T12:56:33+00:00
+
+## Jet2 launches 'once-in-a-lifetime' Iceland trip at Bournemouth Airport for 2028 - Daily Echo
+
+- **URL:** https://news.google.com/rss/articles/CBMimwFBVV95cUxPVk91TWJ6d0NOODhscVNmXzdpUzVtNU15eG53YmhYRU90S0RQel91MURneEJYRW9fSGRVUm90S1JjU05QdHBoZnlVbXlMZXNsWURWTFQzeUNOdzd5LXJDck1Xc2k3UF9MNUlxV3dMb2RUOUZsV0ZhRUEzTXNBekZabl9paTE0SWlKT2ZZS2s4OE5La0FiU0o4b1lRZw?oc=5
+- **Source:** Daily Echo
+- **Published:** 2026-09-30T12:43:24+00:00
+
+## Gallery of How Buildner's Iceland Slow Sauna Competition Winners Respond to a Volcanic Landscape - 12 - ArchDaily
+
+- **URL:** https://news.google.com/rss/articles/CBMi1AJBVV95cUxNYU9CT1IwdjdWRFBNVzhiREFsQTcxZmowV1MtbC16R19oOWpBSDdYRkp6Uk1fcnA3QnRveDRCUEFaQnpLbUNHWE14aG41bGNHd2ZhaXFQdVVJZlZoZ3VMeVM0STN2cXI5UUtlaW11MGtueFdRWFNvSGhGVUd6ZjVtdnFndEFrVWRDSU1HQ3I0SEl3THpFbUdPNXpncnJQZlNIT1d2QjBvQ3JzOFRrOFV2aWhYWkVZNmpBc3cwSV9UR2ZlbWhTR0RUS0ZtRld6VnhxUS1sejBGbHdHT0JuMy0xSWVVLVpRcGlJVDVBVG9fbmRHLUNyb2QwMnNiWEI3cUotOHhrdjF5OVh2eHdkdjZKQ21aUmc2dUxOWHRuYnNBQVBLQ21fWHlhaUhqYlE1SjVEbUVfdWdsRWVzcGR1Z3hQZGtiV2R2U1J4enF2dDB6eWg4UUlQ?oc=5
+- **Source:** ArchDaily
+- **Published:** 2026-09-30T12:37:00+00:00
+
+## Local media hail Blackburn Rovers star for ‘outstanding’ display in 3-0 international win - The72
+
+- **URL:** https://news.google.com/rss/articles/CBMihwFBVV95cUxPY0lNbENObDhFd1U1bUM2Z3pjOWlZcUs1aW1rdmp3enRyRmlGMVFuTnRuXzNZZXBRNDNSbEtadERoNnJrWmhhNmp0Nk01bmNZdnVLUy03cWlvYV9xYjRlOHVCODJTUF8xWmt4dG5ZT1FKbHF4THZmYWF5WDhHRVlONFNkaU54MkU?oc=5
+- **Source:** The72
+- **Published:** 2026-09-30T12:05:35+00:00
+
+## OECD Report Highlights Iceland’s Education Spending and Teacher Shortages - Iceland Review
+
+- **URL:** https://news.google.com/rss/articles/CBMilAFBVV95cUxNeGlVd0NGbjFCR05nSFJlQnp2dUl1enFSVnpzOVFENWlSM1hPYWF0UFQyZzFqeWdyMzNkODVPMTdkY2Z2SVVHUXRDUkVBdk56OUVTWXVQQXByX05vWHpIYUpmVWVtM2c4eWt4LVB6NUN0YVRWXzlEdG9rS1pOWnVRNDhrSnR2cC12Ym0wZGQ1WDcyWE1D?oc=5
+- **Source:** Iceland Review
+- **Published:** 2026-09-30T12:00:40+00:00
+
+## Gallery of How Buildner's Iceland Slow Sauna Competition Winners Respond to a Volcanic Landscape - 9 - ArchDaily
+
+- **URL:** https://news.google.com/rss/articles/CBMi1AJBVV95cUxQRnZKVWVma1U0Qmo3UFJNeUJneTI2SVFJTld6eVhpZzR0NXFvbVRCWG03NmNiMlhPaUpjU1J4Vmt1MlhmMU5VLTg2a21LUWtZQktLb1gyQVV2UUp4T1VPRkZVWFk5N2JWZ3FFbVFqckROTTItVXFmRWk0d2IyMEtzbkFZck1GTHozUkZDWFRCc2dvVmFQMHdacGtYX1B2YVN5MTRBTzF1QVdEMldVbFpST1FnalVfRzhQcnhqMThRVUZzVGJCRVphT2FubTJiSzVpRHViZDJuc0dMQ3RjTDY0bGM5cG1qZmNoNVJsLVJ2XzV4TGNPekZGSlZRY0JDN20xUDZNbmRWaG1JMEdTTy1UMDcwWWpaVUJFdWVVUXlsak5UTDVDLUh3Q190bXNIRnF5Znc5aGNVU1BoTzNpeEtxdlAydzl5MDN4YjBEN3lZcWRpclZG?oc=5
+- **Source:** ArchDaily
+- **Published:** 2026-09-30T11:41:44+00:00
+
+## Gallery of How Buildner's Iceland Slow Sauna Competition Winners Respond to a Volcanic Landscape - 5 - ArchDaily
+
+- **URL:** https://news.google.com/rss/articles/CBMi1AJBVV95cUxPYUw3NlVNYWVoTUtNbkRoWHhjOUlyR2dZNE5GclNKcjIwb2M2YWJLWXRnMDM0VGdibHVnVjNqRkk4N0VFUEptckhvbkljVmpUajZxYTBDWW5peGFPa20xU2UxUjJJN0NPclotQnpJRTZ0OWVoSmdGcGtueHBuZEFzN1BBUDJ0RU42MHBqWXZ4Rm1SM0ZiQ2RjdnVoZ2pvS0tCZ213cHl4OFhCc0FWLTM2NGc4MnZZdkdsaDQ2Q1loOHlTNHhmb1RwMlFnVGFTSE9KWmFRekprZHRERk4tOGRvYm0zV0lld3RZbzdsYW9zZF9uTGhQY3gtOU5lQ292M0lUMUdZUjNRVGl3NFpINDVORVllZnhRWENKYVRnWkxWdDJzOTZKNl80Z3IzbWhBcTRiTDlvZ2xDS2hXSl81SU9Fbmhnc2Y1SDlheU80d19fZ0xWNWRK?oc=5
+- **Source:** ArchDaily
+- **Published:** 2026-09-30T11:36:29+00:00
+
+## News - Iceland aquaculture reform bill hits buffers - Fish Farmer
+
+- **URL:** https://news.google.com/rss/articles/CBMijAFBVV95cUxOSXI0QmZWNkJ2QzlkTUFRdjROandOUnFsckdlTjFLM09RZU1hN2VKWW1MTXFTQ3RjZG1aR2FtZFdscHFIZEJrRy1naThSV0M3aGQ2V2N3U1BGZjVQLUU1bFczaTUzd3FPeUZ3RnBFRHB5c3FOR2ZaSUhBMHZNSXZKbUlNTEd3TnVxeHdjZg?oc=5
+- **Source:** Fish Farmer
+- **Published:** 2026-09-30T11:05:47+00:00
+
+## Jökull afloat again: “It all ended well” - Iceland Monitor
+
+- **URL:** https://news.google.com/rss/articles/CBMikwFBVV95cUxQZ3c1U0hMMWhwVTlJdEJoTEo0Q3FLaGlubzhrcmZabHd5Z2xEYmFHQ0d2VjBOb1JuNU1VVzVaSkllb0VIa2c2bHpvZTU1cFNGckgyeV9Zbi1jb09meUY0YlQtWGo4WHVtRDY2bHl5XzY1Rkhubm4yd3VJUU1iM3lXWlpvRGdKWkFWMjlvVzRvVWFYeWc?oc=5
+- **Source:** Iceland Monitor
+- **Published:** 2026-09-30T10:35:00+00:00
+
+## Iceland’s Inflation Reaches 5.9%, Highest in Two Years - Iceland Review
+
+- **URL:** https://news.google.com/rss/articles/CBMifEFVX3lxTE1mc3EyYm9lZkw0ZUNvMGJiUHI5SlcxVnBfa0xLMmlVSEJmS1RyWHE3R09nVXdpLWItTEhMVHZRbk9xQTRWc2d2Qy1kSG8xWEZsUHpqSmJXaGMyRFRjZ1BEWFZLbFNTLXhyRFBOb2Nqb3RSdU8tSmwxcnhmTlA?oc=5
+- **Source:** Iceland Review
+- **Published:** 2026-09-30T10:30:11+00:00
 
 ## Heavy Rain and Strong Winds Prompt Travel Warnings in Iceland - Iceland Review
 
@@ -183,123 +303,3 @@ _Last updated: 2026-09-30T10:19:24.643494+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMiowFBVV95cUxNbTB5TnJZOUQ0MDhxeWk3cGNnbHAtcVNHSXdNZ1p1cjhVZXJ6WWozVXJ3b1ZneENGOE9ORndsbV9PaTdmM0ltWmRPdG16YXNTcTZGNlRsUFlFX0lhc2xUaTJDOER1eTloVDZlZjZfM3l6bDdjNWlzS2ZmVWpwVjgtOXFzMDBrQzlHNUg4cGhXTUdKdDUyMzN1ekREdW5fcFNYQW5Z?oc=5
 - **Source:** Jet 2.com
 - **Published:** 2026-09-29T16:47:04+00:00
-
-## Match preview: Luxembourg seek home win against Iceland in Nations League - RTL Today
-
-- **URL:** https://news.google.com/rss/articles/CBMiowFBVV95cUxPb0l0bHlPajRxZzl3LXNIX3ZfcXA2d21VeHJLUE0xR0lEMmVyWld3ZWJWMlM0NGlXSkViZVRMdWZ6VjZHZzY0WHE3NUdZbk8ybDVDWWZRWTlKazFfT0h4SFcyUFJMNkNwQlNLLWp3VjZiY2w2OFlKRnZ6VWlpYkw4c2oyblZ4bHZtR2RuMWh4ejQ3X0N3MThfa0VXM0pmZ0Z6Ym5n?oc=5
-- **Source:** RTL Today
-- **Published:** 2026-09-29T16:37:30+00:00
-
-## Iceland U21 vs Switzerland U21: UEFA U21 Championship Qualification stats & head-to-head - bbc.co.uk
-
-- **URL:** https://news.google.com/rss/articles/CBMiZkFVX3lxTE1wVjBmWnBvNXhFQ0wxand2ZHhTVkxqdFBLOVh4TkhpalIzaWJKRnMzS0hWQnJ3Mnd2alI0dUFEbWZTZlBRSmJpNkFxNnlJaEVuZzM3Z2pqZnpOS01pTDR6NHlyUjVsQQ?oc=5
-- **Source:** bbc.co.uk
-- **Published:** 2026-09-29T16:00:03+00:00
-
-## ‘Once in a lifetime’ package holidays to Iceland from Manchester have returned for winter - themanc.com
-
-- **URL:** https://news.google.com/rss/articles/CBMitwFBVV95cUxObVJ2dmJfM1Bidm55RzhUTzdZbHFULURhUzNwY1F4Wk5FMTd5OGdUTVQtWS1HQ05mLTB2YkNwMFBvRHZpRkZjZURRbXVCYzNuZ0E5OVJPMUlnNDRLRnB0U2JiUksyRko5UVlYRUNuTF9NdUdCWG1QeGpydVBKMDNlYWVXV0J4c0wzQ3gtc1VMUFFUSDFQQnhiSy0zWDVqcnBfbHpLcVdkSnBhN1BjeVJSMFFHT0JJNVXSAbcBQVVfeXFMTm1SdnZiXzNQYnZueUc4VE83WWxxVC1EYVMzcGNReFpORTE3eThnVE1ULVktR0NOZi0wdmJDcDBQb0R2aUZGY2VEUW11QmMzbmdBOTlSTzFJZzQ0S0ZwdFNiYlJLMkZKOVFZWEVDbkxfTXVHQlhtUHhqcnVQSjAzZWFlV1dCeHNMM0N4LXNVTFBRVEgxUEJ4YkstM1g1anJwX2x6S3FXZEpwYTdQY3lSUjBRR09CSTVV?oc=5
-- **Source:** themanc.com
-- **Published:** 2026-09-29T15:34:33+00:00
-
-## Luxembourg vs Iceland Predictions, Picks & Odds – 29/09/2026 - ToffeeWeb
-
-- **URL:** https://news.google.com/rss/articles/CBMiigFBVV95cUxOT1B5ajkybzMxY19TVWFZSU83ZWN5OThVNjQ2WU0xakNkZTFPOGZ4ekVzejNKbmhZamhjb05yZXRyTHNFUGdGbmVFdHFKNGlITmMxR3l3MGZZak5sLVF0bmFpbkVnUzhpZHlwLW9HeEV3T28wX3hBRFRvMHJMN21ETHYxNnJ1a2F6dVE?oc=5
-- **Source:** ToffeeWeb
-- **Published:** 2026-09-29T15:01:43+00:00
-
-## “Only a fool wouldn’t be afraid” - mbl.is
-
-- **URL:** https://news.google.com/rss/articles/CBMif0FVX3lxTE1ndXNsWU1HckprV19BQ3JXSFRFSF9kMmFWa1IzWWxaVXRPSXcxR05laDVYcm16VUdKRmdqdkNPUXJDaTI5dzViWm9XSEQ3RzRjajhLSVBVd2ExNmtNRWRTUHFETWNQMXhjZjI5SHlFM2lhMjF6d0xZajQzMDVyNkU?oc=5
-- **Source:** mbl.is
-- **Published:** 2026-09-29T15:00:00+00:00
-
-## Iceland's inflation rises to 5.9%, highest in over two years - Yahoo Finance
-
-- **URL:** https://news.google.com/rss/articles/CBMijwFBVV95cUxPdzN0bXFJNGFGLXdScEVySmlrRlVhZ3RpOUhXXzNHSUVhSDVvM09lTkpudDFjZzhMQXdoeVI3MVRmUjBqM0lUVHdVaFlsejVhWm9tQ3cwNTJrb0p6eWhGZHc2SnFWYUQ5czFfMjlMWVNnRmlzTHhicjlwOFk3aU42N085aWY4RTBYS05mZGhxTQ?oc=5
-- **Source:** Yahoo Finance
-- **Published:** 2026-09-29T14:48:30+00:00
-
-## Studio Bua wins approval for high-density homes in Reykjavík - The Architects’ Journal
-
-- **URL:** https://news.google.com/rss/articles/CBMiowFBVV95cUxNckM1eF9KSlJsYUFEcEZJWFlBOFhaNm5tQ3RMV0g1MUNaTzZkc19yNjVtOEkyYkFCQk5RY09mamI1RFl0b2hhVWtTaTl3cXVvcTN5dllVV0FUblVhdXB0cG45S3pPaE9YVGphdjB4dFh2cDlwU0lBQXVLalhiR3FfQ3JCUTBZbG1FWTIxY3JDaG9iN3FoVDQ5bGJHYnZNZU9TbTNr?oc=5
-- **Source:** The Architects’ Journal
-- **Published:** 2026-09-29T14:39:34+00:00
-
-## Sovereignty Is A Globalist Conspiracy - The Reykjavík Grapevine
-
-- **URL:** https://news.google.com/rss/articles/CBMijwFBVV95cUxPaHpzcUZnYnpHMTRSV0NXSU1zbjN0MkJuclNtYUhJd0RIbDBtNGFwaFdvUXJNcHpENElsT2VYTlJrS1Fmd25iSmdiLXVPN0tSbHFQLXJWRjJQUUdBU3V2aE1JNThSWnoyRTN4dmNCNTNnblU3ZWtQTW10bW1QTC1mQ2VtcjlLc2ZBWWFodzgzRQ?oc=5
-- **Source:** The Reykjavík Grapevine
-- **Published:** 2026-09-29T14:33:05+00:00
-
-## Where to Find Arctic Foxes in Iceland: Hornstrandir and Beyond - Guide to Iceland
-
-- **URL:** https://news.google.com/rss/articles/CBMigAFBVV95cUxQdGsxbjhudXczaUJUcjIzYUdIYTd1cDRsYzNRUzdJX09uYjNkYTBDWEMwXzNXS2hpOWtGN0dYQVJpaU1JcjdkUXppWU5xem1HaTdxalZXSnpWVnFaZXNaVjZnYzM0dzNKNzVPSVdKSm1ad09qMENReGdnTWJpcjdtLQ?oc=5
-- **Source:** Guide to Iceland
-- **Published:** 2026-09-29T14:06:05+00:00
-
-## Weiners, Danglers, And Waffles All At This Weird Museum - 97X
-
-- **URL:** https://news.google.com/rss/articles/CBMiUEFVX3lxTE1YVXdlb19kMHM1MmhFVE0yR0lPdzVva2tuTE9TNDhoZlE5d1huanNTM1RYNFhmMFJ0VlBZRVhxT0NDeWM4Y1pOcTMzNGhYTkYz?oc=5
-- **Source:** 97X
-- **Published:** 2026-09-29T13:54:02+00:00
-
-## Twelve Suspects in Stuðlar Fire Investigation - Iceland Review
-
-- **URL:** https://news.google.com/rss/articles/CBMihAFBVV95cUxQYjhrZVJweUJJTkxMNi1SLU1JaWN2RTN6T0o0M1VwMHpyMVFFWk41cUNFd3YyRDFzQ19qUHp0NnB1c2RDWHF2bGg2dFdJVkhDMktybUt5bUdxSmtOOGNIUWpGSVVZaG50ejB4enFxRXUweFBUeUNNNDYwNVdvREI4NzRZN0M?oc=5
-- **Source:** Iceland Review
-- **Published:** 2026-09-29T13:00:24+00:00
-
-## ‘Important priority’: Iceland Foods brings AI decision intelligence to food waste reduction - Green Retail World
-
-- **URL:** https://news.google.com/rss/articles/CBMixAFBVV95cUxOWW1wc0hqZUVhd3FSbmxuUzNWb0pacmk5MWx1UzJRUU5LNWdYVy1LbE1ORjg5QjJUNDJDMGk5eUdubEZjZHdPMjE4TXJlMmJ1RGZIZDdkNFgwMlBLLUI3d1h5LUNPNEdKSlFKaUZNSnNYU3hSVTBfcE8tWU5Hbk1Kc19HdWprc3FoVHI0WU9rY3o2ZGpVQ1NHbUo0cXllZ0JYM0VKcDBTeDZwNGp5M1NNS0Y4c0JpSjB5UDJKNm4wQ0p6czll?oc=5
-- **Source:** Green Retail World
-- **Published:** 2026-09-29T12:54:10+00:00
-
-## Inflacja najwyższa od dwóch lat - RÚV.is
-
-- **URL:** https://news.google.com/rss/articles/CBMigAFBVV95cUxNN2lQdmZrY0hnV2JUNnNBSXZwUUh2X253bndIRS1zc2tNNTNHNVRfMnJ4VEp0dzlHc3JMMmFOVnNBMzRrc056T2FiRUxsMTdVM01TZHoyY3FHYXVzLWF0b2ptZ29JSlQ0UFdfajJfQ3Ywa0hoSTRNOURQWlBKMVBFUA?oc=5
-- **Source:** RÚV.is
-- **Published:** 2026-09-29T12:53:32+00:00
-
-## Inflation rises to 5.9% - Iceland Monitor
-
-- **URL:** https://news.google.com/rss/articles/CBMiigFBVV95cUxQMWRjRDN0MWV5anpZS2xBVmxlSWNiZ3NJUVFreU8taFVMY21RNUt2NGZrYTc4NDV1REt5RDFjVkhyQ1VRWkd1X3pEX3d0b21vQXNVemcyYm5Qb0dBaExBYkZOckRoS1o3VWk3Tk5nUmIxTVNHWWdOT3BCQndfRUN2V3NfSUtKd1VNYkE?oc=5
-- **Source:** Iceland Monitor
-- **Published:** 2026-09-29T12:30:00+00:00
-
-## Walz touring Denmark, Sweden and Iceland to promote MN business - Willmar Radio
-
-- **URL:** https://news.google.com/rss/articles/CBMi3wFBVV95cUxPVlFqUmN1QllfM3hsOHJGRGdPOXlzRTNubzZqMmhRV2d2MGJFTjZDUEtwdkltakZHUlBqWXpnUUZ4SlVQTEtrOXYtRFVibC1NN01aTV9fam9GcGNycEFXS2FwSGJneVoyc3RwY1lidDFYSEF0NTFpeGduTk9zc2VPQ3JzbmUyNDdObHRVZXBLM3owUnc1MmsyVUpUZm9MVWRwZkdndGZOTzA4aVptVGphZmZaLVRRb3RDRVdIWUFGWUVXM2hSZ2RuYU1tYkZlb01uMWgwSm5uZnd1YklPUkRJ?oc=5
-- **Source:** Willmar Radio
-- **Published:** 2026-09-29T12:22:00+00:00
-
-## Match Centre - Greece U17 : Iceland U17 - Transfermarkt
-
-- **URL:** https://news.google.com/rss/articles/CBMia0FVX3lxTFBFcV9QWHNQSjZZNlROYk15UXRzeTA1cEt1MjAyVTFnY1B5SzJiX2FZYW5zaXRsWlBQdFFBTE5ITS1iYWR3QS1XYjhXTHFlVFhoRlpteG5hakY2dlZrX3l1VWRLSDRnaXZPZFlB?oc=5
-- **Source:** Transfermarkt
-- **Published:** 2026-09-29T12:15:30+00:00
-
-## Book value per share of NEW ICELAND ARCTIC ACQUISITION CORP – NASDAQ:NIAAU - TradingView
-
-- **URL:** https://news.google.com/rss/articles/CBMipgFBVV95cUxObW9GZlVuS2VoYk1WcnJPSDBWWjFLbTNjazlRX3RtaUdGSzZ0ZDZuR3dRNjdzd3dwbHNXZTFRRVU3TFhFSllGQ1FTOFVHSzJuS3NDbG1NMVFTakJfQ3V0Q3hEa3hBOWVwalBCaUttU2NFNFpjbmxpQ0tWOXhpbGZrMXhFMEtFeXd2cUN4Z1F5T2I5WmJSMi00MXdJUTk5RFFKaUdJd2ln?oc=5
-- **Source:** TradingView
-- **Published:** 2026-09-29T12:07:09+00:00
-
-## NEW ICELAND ARCTIC ACQUISITION CORP Cash Flow – NASDAQ:NIAAU - TradingView
-
-- **URL:** https://news.google.com/rss/articles/CBMiekFVX3lxTFBGWFFINVU1V0lyeDJtLWNYVERrei1ESzNXb2h1M29VT213Vmp2Z0hCSDBZa1pmYktWTEdpdjlWaUE2V1c4MXhSU1lkYzYwMl9OMnRmN3YzbS1Pa0ZMVzROUlVRLW8xZG1XUmZaNzFUdGhtNlVSU3M2VVZn?oc=5
-- **Source:** TradingView
-- **Published:** 2026-09-29T12:02:31+00:00
-
-## Union Leader Warns Wage Agreements Could Unravel in October - Iceland Review
-
-- **URL:** https://news.google.com/rss/articles/CBMihAFBVV95cUxNTmoxV0gxSnd6UFNmNnBmZnIwSElEcnlqS2dfWVVPVVNWbGMxUlVwa2hqamRaV0FJdGxWZkRra2l4MGNHVVVXXzk3RGlyRTlTMHpXTzBIY1M0clE4Y1JUaUhMTXBxZ0RUTXRqNE0xWmNQOWtvd2lFSHhRTXRuUnZQQXRQbFQ?oc=5
-- **Source:** Iceland Review
-- **Published:** 2026-09-29T12:00:29+00:00
-
-## Seyðisfjörður Has A Future. Leave It Alone - The Reykjavík Grapevine
-
-- **URL:** https://news.google.com/rss/articles/CBMilAFBVV95cUxNb1NyMWtUaEQycHBSQmNhWjlSX2JLenY3QUlmQUdWcmkyakRsamxjLXh2UDhlSDBPQTY2MnNTelM4VnhoU2hPMi1jSFRkNXU1U1dRRnNvUmRub1JHNVROMzVmQ0V0SGJ6N1pBR3RkWWRpdDJjQlRZM1ltZGk4anlDWno5R1dnNEdTVGFHTmo1QlVubm5h?oc=5
-- **Source:** The Reykjavík Grapevine
-- **Published:** 2026-09-29T11:51:21+00:00
