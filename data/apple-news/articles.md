@@ -1,8 +1,32 @@
 # NewsWatch — Apple News
 
-_Last updated: 2026-10-01T18:08:36.080513+00:00 · 50 articles_
+_Last updated: 2026-10-01T23:43:33.886470+00:00 · 50 articles_
 
 ---
+
+## Apple (AAPL) general counsel sells 2,399 shares under a preset trading plan. - Stock Titan
+
+- **URL:** https://news.google.com/rss/articles/CBMipgFBVV95cUxQUnRBVVBJREZuUmZPTVhyUWdsZDk3cGF3dG52dXV2U2l5QjlYaG1wcExoUlVkWjFXT21RX2NSYzVWZDlKQWRkU0JTXy1TNUJFaGQxRmwwczFiaVZ4RXE3V0xaWElNcGVVWHlVb09oNjBmc3MtOGVhU2dxNUR2bGd5dWRvSFV3OEdGbm5pNHY2bjdxTlY3aGxNeWJvTWZQa0ZzRmJTZEl3?oc=5
+- **Source:** Stock Titan
+- **Published:** 2026-10-01T22:30:31+00:00
+
+## BofA Finance Launches Auto-Callable Notes Tied to Apple, Meta, and NVIDIA Stocks - Kalkine Media
+
+- **URL:** https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUlB2V1RPOHBWWkRpQVNoMFNFSjg2Wk9FZFRpOGxmR1E2ZVM3Qm1mWnZGU3IzT3VubGtGOGRPTU1SZ3hLa3dVaWVhWnpheVNIQXVIbUF6OE9RQW1DUkRyWFJZRVROZzE1SnE0UU9EVXBlOG9iRS1tRnRlOXRWTDhtUGlGTTlqSzV6eUpRTDMwQV9BS0l6YllnUDJKWThuajVuanNiWVNPa2tzM0Y0cTBFbmtfR0hXZGZDTUh0SnFBWTVOMUk?oc=5
+- **Source:** Kalkine Media
+- **Published:** 2026-10-01T18:33:23+00:00
+
+## Google grapples with employee skepticism about new Gemini model - Business Standard
+
+- **URL:** https://news.google.com/rss/articles/CBMixwFBVV95cUxNOE5jYnhJUDNBYkdHM0ZaOGJZNjktU2lVb1g3d1BKZ1JLQ3VFUTd3TXliTEpRVGFUeWxYUF94OGRjaE5sdzBfWllyTUZwNEk0QjRfSHBQVGZsVnpWM0ZnQlR5WGk5U2tETm03clcxUWFVamRZcjM3RGdVRWxoajdiZXVJM1Itdnlkck9VVEE1YlZUOUhaYWlGVlZmYmxHN0xxQ2pZbk9ObmtZeEhDV1dQWVJNTVRpWnR6dlJBMHBoX0piUlZ6c3NF0gHMAUFVX3lxTE16Q0xDM1I4OVVvM2JnNXFVNzE0UlBCanRaeVJxTXptU21QY0wyU1Z1WDhoZEYxSnJWWU9lSEtKNlBPR0tBam1MNDdBajBSVGJkbHFKQ3hVR1h6M180SXV1MnZDamRrcl8tYl91ZHEzY21ySlJFbFp6MGE3VnhwS1Jibk9DM1RJakY2MXNTem1RUFBKQlp4SENEUWhKY0lRRzVTdVZxUVA4bGVkVWFlczlsN0xZeUt4MEtDcVk4REVlYnQzcmk4RDVXYkxEbQ?oc=5
+- **Source:** Business Standard
+- **Published:** 2026-10-01T18:10:14+00:00
+
+## Apple To $355? Here Are 10 Top Analyst Forecasts For Thursday - Benzinga
+
+- **URL:** https://news.google.com/rss/articles/CBMizwFBVV95cUxONkdhcEtzNGtzYy1EN19lN1piV1hVT2tuRHVJeF80TWh1ZDRFNEJsOUVTaFJaM3JjdVAtNkFxbXRzVUZjc3hIRWZhRGZxWnVLQXEtV1Itc1lTZzgzQ2laak0wNFN5VEwzY0dkMzlXa1pJX3lzcTY5WVFQT1dMRzhGVXNOMzg2YTNiRTd1M3ltX0RmM2hhRXo0ZkljUHA5UWhtVEprbXBhcm5ERWh6THZYMTlfU0tvSlZ6OENTUXZlbkdlNVU3SDhOZW9WeWZOazg?oc=5
+- **Source:** Benzinga
+- **Published:** 2026-10-01T18:10:08+00:00
 
 ## Apple Smart Home Device Launch Set for October 13: Report - LatestLY
 
@@ -279,27 +303,3 @@ _Last updated: 2026-10-01T18:08:36.080513+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMiaEFVX3lxTE9rakQ4WDNkQkg2Zzd2d0tHamYxU0xGV0dJak5OLXFOZW0zcGUzQURsWE5IakFaWWI1OFMtVW1OS21uSzJfTzF5SnN5R3U0WDJXZlBXRnBZWmF2bDlsVDFkV3RkNjVNV3BB?oc=5
 - **Source:** TradingView
 - **Published:** 2026-09-30T11:24:54+00:00
-
-## Meta Platforms, Inc. (META) stock price, news, quote and history - Yahoo Finance UK
-
-- **URL:** https://news.google.com/rss/articles/CBMiUkFVX3lxTFB4R1puQ0Z4d0VwYXkyb1Z2LXQteDFfUE5Vd2h6ZnJ5d3UyZ1F1Vm1Ib3ZEWmZXQUJUeklBQVdwNkhBaERNeGlxQ05tRkI2VXNLU1E?oc=5
-- **Source:** Yahoo Finance UK
-- **Published:** 2026-09-30T11:09:51+00:00
-
-## Apple’s HomePad smart home hub launching on Oct 13 with iMac G4 design – Bloomberg - 9to5Mac
-
-- **URL:** https://news.google.com/rss/articles/CBMilgFBVV95cUxPSXFheUFjY3gyY1gzbkgxVDFYVjRuWktnVG15V0xQemZIOHBMbFhMQ3RpQlNEVnBOWDNaX1o0NXB6T0VlUEY3LW9leU15VmU2THdySGNvVl91SXV6TVRreDJiUEdYOVEzMk15VVRSQWE2M2ZyVlVNOFlESDRqUnVSMVdyWlNmZW1qUEtKQVJuX3pWMTFXSWc?oc=5
-- **Source:** 9to5Mac
-- **Published:** 2026-09-30T10:52:00+00:00
-
-## Apple Inc. Plans To Make Its Long-Delayed Push Into The Smart-Home Market On Oct. 13- Bloomberg News - TradingView
-
-- **URL:** https://news.google.com/rss/articles/CBMi-wFBVV95cUxPRElRbzFpQkZubWZBM3Rvdm1SS2s5US1LcFY3SFBRNlY2V3RqbERBc3Vlc3FuaFJnejlXTV9hQ0pfZDRXcEJJNlhSbF81aHJrN1p3VWhUdHBWa3hMVGNNeUc2UnQwR3VEc21zZUVjdkwzbHRZdGViOHhXTGtNelc0NHBwNlduZjd5QUhvbklLazhIRlhuc3pjaXJRdkVpYUVVRE1fZ0FnVnJmelZWQ00yb2tUbFZRZ3NOejdLcGRnZE8zQ2M3eDE2Sk55Zno3anQ0WUhrVlVGQ3hnTHh1NU9wZzQzeTk3dDR3S0I2NzFSU2I1cVliRF9odFJTUQ?oc=5
-- **Source:** TradingView
-- **Published:** 2026-09-30T10:33:44+00:00
-
-## Apple Is Finally Ready to Enter Its Next Big Category: the Smart Home - Bloomberg.com
-
-- **URL:** https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRmVFekxvT0hOQ2dvNUpQYUg0bEM1UUFoc3lxX2J3T2hhd2lUSlMtN0ZuNGVjeDlXYmdzU05taC0xQk11Tmxqd196SGw5ZzdEWXJaS3kwaDFXblhuT0NyemJibUxRekdHa3Z1R0RIS0Mwa21MZ1NTWG9EZHJUZU9rSnYxbG02UDFGVkxWVG9wcXdnaEU0cC1xUnhtc1hNQWN0UnVHYmk5S01kb1didlVJQVc1MGZWMUJmTXFr?oc=5
-- **Source:** Bloomberg.com
-- **Published:** 2026-09-30T10:30:00+00:00

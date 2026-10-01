@@ -1,8 +1,38 @@
 # NewsWatch — fusion energy News
 
-_Last updated: 2026-10-01T18:08:59.878081+00:00 · 50 articles_
+_Last updated: 2026-10-01T23:43:35.800357+00:00 · 50 articles_
 
 ---
+
+## Wisconsin tech, business leaders weigh data centers, evolving energy landscape - Wisconsin State Journal
+
+- **URL:** https://news.google.com/rss/articles/CBMikwFBVV95cUxNaEJrU1lVMTB6U2gzRkJBa2xJNUdCZFRTM0xlcWFxNkVWZWkzZUEyVGhqOUVUMjBReURCSkdHc2p6d1haNVppc19CU0ZmYWZKQ0hvS0w5dEQzWV9WeHVZQlVHV0x4V3NJSUJmSFo0WWtteDZZVUV4ZWhwSGVidWFrQVp5STJuS3dfYngxZ0JWTXU3RnM?oc=5
+- **Source:** Wisconsin State Journal
+- **Published:** 2026-10-01T23:16:00+00:00
+
+## Did Fusion Tape Deal Just Shift Fujikura's (TSE:5803) Investment Narrative? - Simply Wall Street
+
+- **URL:** https://news.google.com/rss/articles/CBMi0gFBVV95cUxQZVZTZmRfeWpoVEZ1WFh3NmZmVlVqQkNlQXh4M1AxZkdpYWZRdDFkbTJ5VVFlaTFTTE5lQ01BbEFWRVdUeEl2SU5DYUdBTE5iZUtXbzl6NTNPVmZKbW8tTmpyNjZVTTFiYm8xa21yWjR2a3R2UG42RDJEblM4bzNibnBKV2pwSk1hcnZUZHJtYWRVeFE1TjczQTJMNlBSMWZSNFpBam9wNkNRbFZCdHplMVNyNVE4eXljRVlPLXlrT2J4cXhobHNBRjlCei1lSFpNTWfSAdcBQVVfeXFMT3BSdU5kejBYWTNESXExRjJBMnZVQ29iYjhtbjlUUHdSTkRHMWVUSnhUZFNfQWFPT0VFemVGVFBsaTU3OFFQOXJwam5BWmw3aVI4LWFjY2tfdHFXUjg3RllrT3gzeWpzMXotOHh1QlR1VnFIdjJNV2Uxb3pwUk1zVWJWTmlPU1djdWtjYjJIU3Z3UlpJM1otWm1TOXJZZ2VvY3pYaExYVkMtWVp4THpTQm5CT05XOVU3R081QjMxblpmVk02dlpucGMtVkUxQUpHcDlFRHZZTDA?oc=5
+- **Source:** Simply Wall Street
+- **Published:** 2026-10-01T22:00:22+00:00
+
+## National laboratory and industry leaders to discuss the future of fusion at Fermilab - Fermilab (.gov)
+
+- **URL:** https://news.google.com/rss/articles/CBMitgFBVV95cUxNSmhOWGFUcVBaTG9oSTZLUGttbTE1UUItX25ueUhRdXRaRVVDZDRLSFNOTTJic3ZlNFBoX00wSEt4ME9FdDBPdHNxYXpmckdoNl8yWEphWjJGWGx5TWpGa21qcXZSUkJ0QWtuQmszNEVaYW1XQ1VYZzN4OThjWHRGeEZzTGJRUUNHZFd5VjlEVkQwRUoxT3lzM2dSRTJpNk9tMktvN1BkS0ZBUUVBSHFKSHF6dW1Xdw?oc=5
+- **Source:** Fermilab (.gov)
+- **Published:** 2026-10-01T21:35:33+00:00
+
+## Trump Media (NASDAQ: DJT) And TAE Technologies File S-4 With SEC, Pushing Fusion Energy Merger Forward - foreignpolicyjournal.com
+
+- **URL:** https://news.google.com/rss/articles/CBMi4AFBVV95cUxOZ2N4Nng1Zko3bVBPdUdXWGZEOEV3aEV5XzZZUlhGenVwZ1NqVUZxSkQyS010cHVURHljV0xYV2Z1STFUVlJ3WEZnYldVRERZSm9QM3ZYQTdUTHUxbTJxT1V4Nk5SV1pMbXZnR1JPUi1Hekl5MUxGX1FjOGN2N2RoUlNGNVNMQnJJejVrcVZmZnZwcUFCMHd5bXVNWmRnUGNIMDd0UzR4cW5LR0RMX3Rob1RvWlhLZDZMSUZvX3dWS0pKTEtoTkZEdmV2eXNaQS1UaE1HbzlRY1Z0NkRmMFJ6Vw?oc=5
+- **Source:** foreignpolicyjournal.com
+- **Published:** 2026-10-01T19:29:00+00:00
+
+## Daily on Energy: A BAAJA Blast for data centers - Washington Examiner
+
+- **URL:** https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVVpoV002cm9IT3ZZaXBDd2VRbllqXzZEMjl1OF9COG1wamxlRWtPbllVUGJGNmlPS0ROWm45X1llVG9UVlNLR0padzkxZEdTZ2tnTDY0b3Y3b0tVWXBXWmJmQ0ZCWWFFNGZWaG9pbV9uZWNNQVJteVRpMGk4UlFQb1NvaUVyckNPSUdZMzZSRkRGMkQwZFA5MzkyXzgyVk85N252dzBQV3pkZw?oc=5
+- **Source:** Washington Examiner
+- **Published:** 2026-10-01T19:05:00+00:00
 
 ## Agriculture, Climate, Environment, Energy & Food: October 2026 Funding Opportunities (31 new opportunities) - Substack
 
@@ -273,33 +303,3 @@ _Last updated: 2026-10-01T18:08:59.878081+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMiggFBVV95cUxPSW0yX3JRSjAydHM0cTVYemdsWDdRVTgxQWRkQzBDWWx4Tjl5MVZZNEFoODVnMVlCLWs3dUp6WWN1dHVSY1YwVGRGanVNVmpHZGJsZ2VCODY4LTNyZjVBX0VSN1pkMXNaSmRHQnVUbEtJc1FwRDhTYmNVUjNNWVAyaHBR?oc=5
 - **Source:** Mugglehead Investment Magazine
 - **Published:** 2026-09-30T06:50:48+00:00
-
-## Survey: 35% of young singles don’t have plans to get hitched - 朝日新聞
-
-- **URL:** https://news.google.com/rss/articles/CBMiXkFVX3lxTFB4N0JLS1NDUVVBeUZoak81UTZ0OHN2aVVYblF2MVFpVjVObkRTMHlrUXRMRnJnWVVfYjJUU0VOWWxuNHdQWG92cm1RZmNUdnAyekNuQmUzVkktOUhpZ0E?oc=5
-- **Source:** 朝日新聞
-- **Published:** 2026-09-30T06:39:18+00:00
-
-## Ranked: The Countries Building the Most Nuclear Power – Visual Capitalist - EnergyNow.com
-
-- **URL:** https://news.google.com/rss/articles/CBMiowFBVV95cUxNdEt5SDJ1Y3UwcUxhYUZ6dTFsQkFoQ1QyRVQ4R3IwSk9lcHZyTThvUXVnT2xaUmg4dVFSZjhBUkdrbUdCbXNLVzlWdDlYbEpPX1BDU2dwVEF4aFFsakJ5Y2hWV2pVSkJEcTZRZnJoOGc5TU0wdE1hYll1Q3dIM1RXM281a3l2WUxvOG5YZ29wNDR4bC1YWExVdFJfTjVwLUEzd3c4?oc=5
-- **Source:** EnergyNow.com
-- **Published:** 2026-09-30T06:31:08+00:00
-
-## Zenithon AI raises $10M to build world models for fusion reactors and rockets - Tech Funding News
-
-- **URL:** https://news.google.com/rss/articles/CBMijgFBVV95cUxOSGZXNWtQLWt0OXZDRm80MTNieWhYQk5oV1RsbEhSLWdLN3Q5cEFKZFlockxpZkxiR1dRdW04emltNC15elhJZngxTWM1UnVNMThOMkJYZzV1aUpKMHlVdENnZVZXNVhXVDByeENReUI2V01BelFrOHl2Si1CQnZzZW5TZE1pTEhIWVpzU0Rn?oc=5
-- **Source:** Tech Funding News
-- **Published:** 2026-09-30T06:02:44+00:00
-
-## Commonwealth Fusion Systems Secures $1 Billion to Advance First Commercial Power Plant - streamlinefeed.co.ke
-
-- **URL:** https://news.google.com/rss/articles/CBMiuwFBVV95cUxONlBzLUdxdWgyMzJRUkk3R0V4SjhsVFNoWFc3OGxkbVRBdGxkZ3c2TUZQY2hEaFJJQVlvekxqcGhpUldCeEhuSG9yV0pYSHJEMm1nUmJHSVdqTmRHbzNMZ0F4YnNZVl8tYURLZ1ZRMUZCM0lRMVdRdnNmZUNQS1AtcU5VZHdQUGdQSlJGX2JVdHVIZ1o0NFpXM0RzMTlpRFJEYTdDcGpiQjJDX2ltd01TbWFOUXlhMWkxblU0?oc=5
-- **Source:** streamlinefeed.co.ke
-- **Published:** 2026-09-30T05:59:14+00:00
-
-## CFS Orders Over 10,000 Kilometers of Superconducting Tape From Fujikura - Securities.io
-
-- **URL:** https://news.google.com/rss/articles/CBMinwFBVV95cUxPMXBmMy1XUUluSHRXcW5lZUdXc0hyLTgySm5qT0JmOW1od1QxTzlUT0FyNlotWTR6eXNyVEdMMTdxdTM4NndxMEg3S2lHVXUtdFJ2LTk1SzhnSjRHYVE4NGtvOGpzM3NjYXdnVF9sQk9xTzY2eEgxd2tOMUkycEMzcVJXT0hBTzNTMzFEM2VockNIWlRFd0FKZl9ONk5YTEk?oc=5
-- **Source:** Securities.io
-- **Published:** 2026-09-30T04:31:02+00:00

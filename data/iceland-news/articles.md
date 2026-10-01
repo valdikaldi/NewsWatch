@@ -1,8 +1,38 @@
 # NewsWatch — Iceland News
 
-_Last updated: 2026-10-01T18:08:50.366145+00:00 · 50 articles_
+_Last updated: 2026-10-01T23:43:35.072958+00:00 · 50 articles_
 
 ---
+
+## Iceland vs Bulgaria Predictions, Picks & Odds – 03/10/2026 - ToffeeWeb
+
+- **URL:** https://news.google.com/rss/articles/CBMihwFBVV95cUxOMnFlN0w5OU1Jc0dXZExPeXlzRHFrTXhkWTJLZ09FbTFYRjN5b0MyenlscHJxdVB1TGdIa25lZUZTS1I4N2stX2VrTUUxTG9yOTZYTmtXaUJCQlppeGl2ZkdMRU1lZVhzZXN1WnVGZnpRWEh0dUFocXRLUFQ1b09IZW1uSlFnRDg?oc=5
+- **Source:** ToffeeWeb
+- **Published:** 2026-10-01T22:18:46+00:00
+
+## Rubio heads to Iceland as US steps up Arctic push - The Manila Times
+
+- **URL:** https://news.google.com/rss/articles/CBMitwFBVV95cUxPQktObGlaQVY4bmhHbzRfNTh2X3dzU3FBZzh3eGJ4b0NkblVRamhQTURsSWU0VHhtWGFrX284TVNHcmNzRVl6a3lKam12ZzZoMmlBUmJRWUg3bXU3WDZfaWdMR0E2LWc1NmdUaWl6LS1SNHVCb0RWNWFDN1g4NUN3allQX1haR2RYa3JNNlUxdG02M21hQ0FLZ3ZISnZmX0lDMXh4ZGxTR2RMUWV3bWJXeEtoeHhVWHPSAbwBQVVfeXFMT2RZa2dlNHh1NGViMkdjdVplSDI3YzZ4d3lsRHVLSFZBVmN0YndMYWlYYVdiTjV5VS12YzhIeE51TU9fZnFpclRGbm9xTHdOOHczUEFZZXpVeXZJaHd3VEdNUFVMcEJUbGpRTlNyU01jSHA3UU1WRmRTV3ZzZGVlMUtTREx5Yk1yeGxNQkljSTRLUFdFclFnaC1TOWM0MUpuTEFIN25LV05YTGltMG5Sck85RF9yUVBHTk53NkI?oc=5
+- **Source:** The Manila Times
+- **Published:** 2026-10-01T21:25:00+00:00
+
+## Icelandic Sociologist Vidar Halldorsson: Screens Are Causing the Loss of 'Social Magic' - Nacionale News
+
+- **URL:** https://news.google.com/rss/articles/CBMisAFBVV95cUxQNlBmRnNzVUNkcjYxZm1YakFNOFZxVzFSTFI5LUUwMzlvcVIyei1Sb2tsN003ajNYRmVJZ0RyWk8wUW5mZEpiNUdiTVRnZXZmeUYydElFQUtHMTdGWVlobjhleVY4ZkJ2RXhZRFlmdjdDR0N6QUozOEtJUzZmVWNQRlhfSzRGdHVfRG9nMDFSNTY5VlJHNVB2M1FlNUtLQm9rVERhaDFyelZMZWhsLVFNVw?oc=5
+- **Source:** Nacionale News
+- **Published:** 2026-10-01T20:55:25+00:00
+
+## US' Rubio to visit Iceland, Greece, Portugal next week - Anadolu Ajansı
+
+- **URL:** https://news.google.com/rss/articles/CBMikwFBVV95cUxQWGVPZFVUeGZmaTI5cF8tbUVGckt5TTQ0U2dpYlp3dTdqdW5TX01YbWhOTWFuZEZvWmpFVTVEQmpEakQxSXBiOHg3WlNMS1FoU3BJZmZmaU4wSnhYSk52X2ZxNXNnZFRKdVRDUFJYM2xpRWxpRzkyUUlnUnBnalNuVk1SbndoNnZ5M3MweHpDM1VXYmc?oc=5
+- **Source:** Anadolu Ajansı
+- **Published:** 2026-10-01T18:25:00+00:00
+
+## U.S. outlines Rubio trip to Iceland, Greece and Portugal for security, energy and technology talks - Traders Union
+
+- **URL:** https://news.google.com/rss/articles/CBMimgFBVV95cUxQVU1OT2h4amQtQ2ZLNk01OUtxLUlSTnBVQ0dYSFJzUFU5UmFTeWV1dXFSZ2FZZUNnTUJBeGM2Z3BGdkhhX29JVFVENER6MVNPSl9LVG96T1ppTW44UzZEcE43OFZsaU1oRlNiUFFIZVdvWTg1TW50R051X2lMRTJkRWdPeDhHcV92YjgyRWx4eGMwSmhVbU5fazZB?oc=5
+- **Source:** Traders Union
+- **Published:** 2026-10-01T18:17:36+00:00
 
 ## Public Buses Now Stop Directly at Keflavík Airport Terminal - Iceland Review
 
@@ -273,33 +303,3 @@ _Last updated: 2026-10-01T18:08:50.366145+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMi1AJBVV95cUxPYUw3NlVNYWVoTUtNbkRoWHhjOUlyR2dZNE5GclNKcjIwb2M2YWJLWXRnMDM0VGdibHVnVjNqRkk4N0VFUEptckhvbkljVmpUajZxYTBDWW5peGFPa20xU2UxUjJJN0NPclotQnpJRTZ0OWVoSmdGcGtueHBuZEFzN1BBUDJ0RU42MHBqWXZ4Rm1SM0ZiQ2RjdnVoZ2pvS0tCZ213cHl4OFhCc0FWLTM2NGc4MnZZdkdsaDQ2Q1loOHlTNHhmb1RwMlFnVGFTSE9KWmFRekprZHRERk4tOGRvYm0zV0lld3RZbzdsYW9zZF9uTGhQY3gtOU5lQ292M0lUMUdZUjNRVGl3NFpINDVORVllZnhRWENKYVRnWkxWdDJzOTZKNl80Z3IzbWhBcTRiTDlvZ2xDS2hXSl81SU9Fbmhnc2Y1SDlheU80d19fZ0xWNWRK?oc=5
 - **Source:** ArchDaily
 - **Published:** 2026-09-30T11:36:29+00:00
-
-## News - Iceland aquaculture reform bill hits buffers - Fish Farmer
-
-- **URL:** https://news.google.com/rss/articles/CBMijAFBVV95cUxOSXI0QmZWNkJ2QzlkTUFRdjROandOUnFsckdlTjFLM09RZU1hN2VKWW1MTXFTQ3RjZG1aR2FtZFdscHFIZEJrRy1naThSV0M3aGQ2V2N3U1BGZjVQLUU1bFczaTUzd3FPeUZ3RnBFRHB5c3FOR2ZaSUhBMHZNSXZKbUlNTEd3TnVxeHdjZg?oc=5
-- **Source:** Fish Farmer
-- **Published:** 2026-09-30T11:05:47+00:00
-
-## Jökull afloat again: “It all ended well” - Iceland Monitor
-
-- **URL:** https://news.google.com/rss/articles/CBMikwFBVV95cUxQZ3c1U0hMMWhwVTlJdEJoTEo0Q3FLaGlubzhrcmZabHd5Z2xEYmFHQ0d2VjBOb1JuNU1VVzVaSkllb0VIa2c2bHpvZTU1cFNGckgyeV9Zbi1jb09meUY0YlQtWGo4WHVtRDY2bHl5XzY1Rkhubm4yd3VJUU1iM3lXWlpvRGdKWkFWMjlvVzRvVWFYeWc?oc=5
-- **Source:** Iceland Monitor
-- **Published:** 2026-09-30T10:35:00+00:00
-
-## Iceland’s Inflation Reaches 5.9%, Highest in Two Years - Iceland Review
-
-- **URL:** https://news.google.com/rss/articles/CBMifEFVX3lxTE1mc3EyYm9lZkw0ZUNvMGJiUHI5SlcxVnBfa0xLMmlVSEJmS1RyWHE3R09nVXdpLWItTEhMVHZRbk9xQTRWc2d2Qy1kSG8xWEZsUHpqSmJXaGMyRFRjZ1BEWFZLbFNTLXhyRFBOb2Nqb3RSdU8tSmwxcnhmTlA?oc=5
-- **Source:** Iceland Review
-- **Published:** 2026-09-30T10:30:11+00:00
-
-## Heavy Rain and Strong Winds Prompt Travel Warnings in Iceland - Iceland Review
-
-- **URL:** https://news.google.com/rss/articles/CBMiowFBVV95cUxPQVJ3dTR3bU9teHpiSzMyY1RZNm1PSFNFTzBuM2ZwU2RqLUp3bmdfZTRiSHRBMVdkMkNLMXNKYWhjdThELWZJVTE5RnhYZVBaOThyenhHRkJOSGNEOWxxc0lRQ0t5ckVkT09wSmVaZ09uVVJxdjgyZGY3TngzUUhoX0VLVlZkbTJWaUowMG9uMC0yT3U4Mi1JTWNSbGhJd2FhM3RR?oc=5
-- **Source:** Iceland Review
-- **Published:** 2026-09-30T09:30:58+00:00
-
-## Luxembourg vs Iceland - Highlights - Tapmad
-
-- **URL:** https://news.google.com/rss/articles/CBMiekFVX3lxTE5jWW9oY01rbWdVSWpwQl8wXzFJeklUYlAxa0dnQkxDaVEtYWNVSWxST3FzV09KNm9xYkdoRHpOZzVCUjZQMG5aZ0luSWhUY3JCc05fdnZzWUZXWEN6T1dSYnBPOUozNmZqY0pMcFlKWHdscGRhRDQ3RGVn?oc=5
-- **Source:** Tapmad
-- **Published:** 2026-09-30T09:21:34+00:00
