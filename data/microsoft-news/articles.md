@@ -1,8 +1,74 @@
 # NewsWatch — Microsoft News
 
-_Last updated: 2026-09-30T21:56:55.708682+00:00 · 50 articles_
+_Last updated: 2026-10-01T01:09:59.693576+00:00 · 50 articles_
 
 ---
+
+## Microsoft keeps adding AI to Windows 11, and most users can't fully disable it - neowin.net
+
+- **URL:** https://news.google.com/rss/articles/CBMirAFBVV95cUxOaVlHMVVWcjVtcTJ6a0UxbklaYmlteE80bXRybkxSQkJUeEJubW9QaUJMYlI1MHhBT2M4dHktNUhXUkprVDk4QnF6Qk03dHJIaHBRZ0ZjUDl0UEtTeGY2LWN4SUpiTEVzeXhCZ1piR3ZGaU5xTEhNZnd5MzhhOGQwUUE4bjBUWTZFNk5wVHo1Nk91REZGVjNoS1VuM2QtU3hvWnNKRTNHZjhwM3BQ?oc=5
+- **Source:** neowin.net
+- **Published:** 2026-10-01T00:50:00+00:00
+
+## You don’t want Microsoft Office. You need it. It’s $16.97. - mashable.com
+
+- **URL:** https://news.google.com/rss/articles/CBMijgFBVV95cUxOeFpQUnRGWjFIRk13S0tiQ3BXb3JGNjdqLVIwTHFYY1lUNkowQXBhSUtGc2tpQVBqQVBDOWR5bno1aWVlQmQyZTdNbUNaNHVHNzFrZGFpSXluUUM4S0x2OHBnd0hRWmlMNkJzeU10V0t0STRaU1JYcmhkTkRFWHVodjZtQ3pLLWxwYlVTVEZn?oc=5
+- **Source:** mashable.com
+- **Published:** 2026-10-01T00:25:57+00:00
+
+## "Xbox is not for sale": Microsoft is not going to get rid of its gaming division, Xbox head assured - ixbt.games
+
+- **URL:** https://news.google.com/rss/articles/CBMi6AFBVV95cUxNejdxMnFqSzZwNjBYT1BzTGFFUUhUZ0FjYnllOUo5ZVlUS1hTNHhLSkJaLXlTMU9zamR4WElMVmRTTVE2b202SkRXbmprVm4zMTN0VWZyZWlIUGw2QmEycVBoY0FiYy1qVjU5dHlwSlZJQnE5TE45MXVYbjlpNEJhMW04WUFrNWI1Q1ljV1NpeHhGNkstSGc4czAwbFVBSThINkdVZU1kZ1BROU0wNUx5SW9sNHhMRTJiZUpfb3Z2dWNPNVdrSUl3MHEwc0trMnd1Wmtuc2VBb3BEaGZIMGZHNEJoN2gxRlI10gHuAUFVX3lxTE9tNU1KcFBQYkRIX1p5ZGRHbWpFQ195dXEtemp3cllOOTM4YmRzMnVpejA3YWZLblI4UUtGN3RvbElsYmZ2TWthTkk5eU9yOG1hRzYzc20tQzVwSGZQMDhUS2k3SjJ1ZG9OTjJ1WkJIWkg3RmlPbTVNOElyM2FVQTh2ZTBNcUdzV25VQjVSUjNCaE9lY1l3TnBIUWdlZDA5aWhNZV81T0tRbWZLRGxqWTZUR0FJN0RqNTJ2NnhPMlBnY09OYTNzT2lVTTlMYWdxWmpLMGRWQndSdkVFb2h5YldESlRKSjF2TDA1S2Mtb3c?oc=5
+- **Source:** ixbt.games
+- **Published:** 2026-10-01T00:22:57+00:00
+
+## Azure maintenance mess disrupts hybrid clouds, VPNs, cloudy VMware services - The Register
+
+- **URL:** https://news.google.com/rss/articles/CBMiyAFBVV95cUxNY2xzQ3d2UEpqVzdvUFpZb2ZZeVhFV2oyRnFvVzIwc2E3WVVOQjlvTHFmWWZzZ1FnRVcxLTZpbm9Vd3pIZ3F0Ulh5Wk9LNk9qak8tU0p5blRsSFNneElBZHk5d0pZZ1NlRWNxTUJjeU5scWtQR3FzelhjUTFObk1ZSHhrelB5dXE5VkVZaVpOTkN1eEhfWkhTazNBX3N6Z0EyQkV0b1JCLUEyZDhqUWxmSGNXT1l2eENGdXBNeVcxUVpPTDFpT3E1Qg?oc=5
+- **Source:** The Register
+- **Published:** 2026-09-30T23:54:57+00:00
+
+## UW moves Global Innovation Exchange program to Microsoft’s campus in rent-free deal - GeekWire
+
+- **URL:** https://news.google.com/rss/articles/CBMiswFBVV95cUxPeERoSEwyNUVHVkNBUVE2S01mMW12Ri1ObFJoeGxBSlZ1YnhReEgxSVFJTkJOWk12eWxIQjBkRENYWUtHLWczR3M5azZvVWp4d200ejR1c0JDRkVSWkJSOW1vYjFoSHk2UHpWREV6d0NLR1pORGtTcmVjX0c3RHBndFpTOGdVdHhWbmxjbU5obEstTE50TTlieEszaWhkcFJWdzhoaWpuSHpsRWJTMGJneGVKQQ?oc=5
+- **Source:** GeekWire
+- **Published:** 2026-09-30T23:50:33+00:00
+
+## Microsoft overhauls Copilot with Autopilot agents and app-building tools - EdTech Innovation Hub
+
+- **URL:** https://news.google.com/rss/articles/CBMiswFBVV95cUxNblBsdWZ2YzN4OU9naDJTam1LQ3ZrY1J5V3o5cDBobTZWUWtRTGF6N3hhcGNBYWMzZmZEaGg5MnhLMUk3UU9BQk1KdFcxS1pDVGhaLTRNZTltbFVZdnlvTXBlWHQ5ZUE2VDRORXRBSGk5MWloNGdNSVA1R0VuNERiWjFYNWZ6bW80dEw5VC1yRkRQN3B4VVM3VC0xQnh2dDJJcTVlX2R2RjdDRG44NmpRS0V1UQ?oc=5
+- **Source:** EdTech Innovation Hub
+- **Published:** 2026-09-30T23:45:29+00:00
+
+## Jim Cramer talks why he is keeping Microsoft in the charitable trust portfolio - CNBC
+
+- **URL:** https://news.google.com/rss/articles/CBMivgFBVV95cUxNOF84aTR5LVRaQUszTmtaMXR1cWtqVWtNNlViSXRRaV9WOEljUlk5X3lJeVhicnFCYklXUTVhUEN5QjhIUDZJcjdmNnRYQjB5U2IycVlsaklMZ0pWTW9sRUZqZmQ4cEowOXZWVFZ1QktFc2p1UlNMejZFX2UtSkIwUlY1Q21KaVFoV0pFUXZ5VjBhMmVvVEpQcHhwMFl3M19sNWljX3llcnJJdjAzMDZvSGhuS2pjdGtWZFgxU1d3?oc=5
+- **Source:** CNBC
+- **Published:** 2026-09-30T23:25:06+00:00
+
+## Microsoft science president Peter Lee to step down - The Information - TradingView
+
+- **URL:** https://news.google.com/rss/articles/CBMi0gFBVV95cUxNQnVITDhxM0dkYWstdWVSelhraWNQMGxSaF9BSTVKR3p1WWdsSVZBdGpkRXZ5Q2wzaXlNV29yQjhXcTlsMGxEQmdwLWx3TXQ5Y1VFVzNMRGdUUEJvS2NlcGZxZjIwYV9VY29XRVJzZkV4NTdVUXkzSTZieHlEMEhnN3U1YTFFMThFcTMwNFgyTU9hd2JnUjhyUFZNMlJKM21sUm5JazJraFlyR2czYWV1TkQxNnhNcFc5WkVaaGtFTG5YNXhkT2NUa1pkb0lKSTh3V2c?oc=5
+- **Source:** TradingView
+- **Published:** 2026-09-30T23:10:26+00:00
+
+## Microsoft Science President Peter Lee to Step Down - The Information
+
+- **URL:** https://news.google.com/rss/articles/CBMiiwFBVV95cUxOdnYza3ZINFdMWWM5YUZuYVB5YVplQUhVM3FBTTRnZkRENlJNWGV4eHlEQ01oOUNYNlpibHhrNnA0bUJVdzZQYjNWWUZMQTF3R3F2N3FObTRpVXY5OFdiakhBTXYtdlBCQ05mUDUtV3BsQ3JHaDNqQlpVQ21DU0ZRUEZrcThabmVUSDA0?oc=5
+- **Source:** The Information
+- **Published:** 2026-09-30T23:05:00+00:00
+
+## Microsoft Copilot Can Keep Working While Users Are Away - quasa.io
+
+- **URL:** https://news.google.com/rss/articles/CBMinAFBVV95cUxQam1uVklxSnB0bGVwQUxGYlVvWWNwd213UXFfWDktcHZqUWt5RENoUy10cEx4TFFIM20yMWxWdWVwaGp6Zm15VHlLUnJfeXI0Z1AxUzcxQnduZ2dLb0VGNmZCUDN4a0ZuRkNRaFFUSDJiMi1LdzVQYnR2TUE2c0xfaXo2TXYyX3Q1TlNCWUlKcFItbTNEOENxYkZiS2U?oc=5
+- **Source:** quasa.io
+- **Published:** 2026-09-30T23:00:00+00:00
+
+## Your car may be sharing data with Amazon, Google, Meta and Microsoft - KPAX News
+
+- **URL:** https://news.google.com/rss/articles/CBMiogFBVV95cUxQUkg4b0pyTHp2OHZKZTUzQnFacmV3dWZWdDk3cm80QzVrTnJocFF0YmRxeVZxbTI1cF9CQkt2bFowZWM4R3daSEFqemxDVkdFd1lkS0FNR09iQUNUR0d0YXpwYVpuZjBhYnZWOVpWUEk0U3lFM1RZTlJUSFljWHE4WGFRa1V4azRUakJmS0c2VjBxYTdfd3NmZU94cmpLN3QwaUE?oc=5
+- **Source:** KPAX News
+- **Published:** 2026-09-30T22:08:59+00:00
 
 ## Microsoft's then-CEO called Linux a cancer, and now Windows 11 ships Linux containers with upgraded WSL - windowslatest.com
 
@@ -237,69 +303,3 @@ _Last updated: 2026-09-30T21:56:55.708682+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMipgFBVV95cUxOWUsyTVcxQ3BqOV9wamkzV1E1cUZBcVl3c0xQVTMxZkhueEtKVGxpZG94aXZnc0Jya2FmSk9MRlR4enlCaGROOWxlVnc3a1h5ZEx6WWJfQ0tUdEZaam5YRkxVUllqQmttR0x5eTIwT2UwbmtDRFF3cktOR05WVFJrcW9GWl9oakJUdFF0U2JtQVg0ZXhMa01UZkxKSFdSTTA0OGRSb0tB?oc=5
 - **Source:** Trefis
 - **Published:** 2026-09-30T17:26:07+00:00
-
-## Bill Gates, Microsoft co-founder: “The transition to this new era of AI will be one of the most turbulent moments in human history” - El Cronista
-
-- **URL:** https://news.google.com/rss/articles/CBMi9AFBVV95cUxNZGVRcjN5dnl6UV9sM3ZGQnJCdDRDbEhsNDFvTWZyM0VvbGg0NWp3ejVscUI0UVoxUXlCUl9idjlubk9vT0R6QTNxSGItZXY5RzRUM040WEZIQndkQWpGZDJ3a2tkTFJrOTYxYlZXcU5Qako4b0ZERXZxMTlKRDJXbnUzb2JJQ3lkZE91dkkxN2pEQlk1N3Q5UElmejBTSS1jZU1NYm10UU43U0pxZ1QwYXp2aUhoY1lOZjl4Q29ZRkFBYjlPNXZHVWczN3Y1Q1lMQnYycXc1VFpmT0UzajFseExQQ0ZleHpXckFXMDU5R3NFMWxj?oc=5
-- **Source:** El Cronista
-- **Published:** 2026-09-30T17:11:01+00:00
-
-## Microsoft Corporation (NASDAQ:MSFT) Draws Focus as Copilot Redesign and Data-Centre Buildout Fuel AI Momentum - Kalkine Media
-
-- **URL:** https://news.google.com/rss/articles/CBMi5AFBVV95cUxNclktaWxBdkt1SDFHdzAzbEh4a2dCajRONnZRLUNpWGZkOWdBVnl4M050Tk5zT0dlU0dtbE10QTB0eWRMMWU2M1ctT2JsYnpKTkpaNVRvNE9tcU9Cd2NtZk9jdmRITGNwSWpWVTBXSU5ZRGYyUHkwTXFkYmhVQmFIU2xOWU9zZzh3MVlCRTktM1BsSmFmOERaZmZ0ZmFtNUVTeEp0RTRidldDS0JsZWdYOWNjUUNXU1RlYlZHSC1BYUhCZm51cUs1d2ZERXRZZHJTZFBZY19PbWtoUjdmOVptUVJjTlk?oc=5
-- **Source:** Kalkine Media
-- **Published:** 2026-09-30T17:04:00+00:00
-
-## Windows 11 gets better every time I turn one of these Microsoft features off - MakeUseOf
-
-- **URL:** https://news.google.com/rss/articles/CBMiakFVX3lxTE9lU2RaQ1JRdzQzQXU4Q2RHVHhJWk82ZTdGZHVPdG4xZU5UVU0tdVRRZ2tNX1ZaTmg4WkI1ZDczYlJ2X3NISnhGeHphRll1WTBiZFlxS19IaGpVTDg1cnJBQUpWd0VpV3VwbXc?oc=5
-- **Source:** MakeUseOf
-- **Published:** 2026-09-30T17:00:16+00:00
-
-## Microsoft’s Hyderabad AI Hub: Azure Availability Varies - quasa.io
-
-- **URL:** https://news.google.com/rss/articles/CBMioAFBVV95cUxOWUVuVkhJVkl4YlZmdVVlQ0VseDdkSHVaakoxTTYxYnBNRlRoMFQycGJEak0xOGYwSVR3SmY5S2VTbnF4d0t1aW5SS0xCSWdiaVd4Z1c4RFNOeVE5V29CQmpVLUNDZll4MFFLTFk5UjBDcExuaHp1TUwxdVZIMTdtSWlWZVJfeVR3WkdpNFVZUUNtdUU4Y3ZIV2RkOU5KdHdC?oc=5
-- **Source:** quasa.io
-- **Published:** 2026-09-30T17:00:00+00:00
-
-## Microsoft's Deal for Hideo Kojima's Physint 'Substantially Below What Xbox Would Typically Spend to Develop a Premium Game' - IGN
-
-- **URL:** https://news.google.com/rss/articles/CBMi4gFBVV95cUxNeW1wcnc3bklfc3dVcnIwc3JCWUVURGNISjZWN2dNckszY01tVnJ1LXQ4UFh3bjVacnF2SVBGTnZwTFJIdVRNZGh3emZoSkc0c3VVYjE3QTJQcDVmNUhpcUdUaTFCNVN3cUJxNzFKRmJBbkluNF9ic2VjcjUxNzY0b3RucFJsQWxiOWtUbjJoZkdDeUVBN19MczZ3Q3FZMnFJOFQ1b0ZWbVlmUXZGZGlxT0EyTWg4SERMYmhkV2RnZzZfV3JrZ1d0WWFUdWhKSWNteUtLNnd0UDZxaE80RnhZVU1B?oc=5
-- **Source:** IGN
-- **Published:** 2026-09-30T16:53:16+00:00
-
-## Asha Sharma says Microsoft does not plan to sell Xbox — The Verge - UA.NEWS
-
-- **URL:** https://news.google.com/rss/articles/CBMipwFBVV95cUxPTlN6cTdpcFoyeUowblRldzVsT0liTjBhY2VhRURudGw2Z3AxaEtncEwzem90bE9qVWtNLTd2YS1MQllYQ21PRjV3RGMyMjhaRWd0dUloTmdKWXpZZzFrU1duRHM2NDVHOXF4NXdKbllOamNSa2c4ZDROM2xEMGw0dlc0eFF6M21jVi1GelhHTWVkU0V0T2x0NDFsUGZ6YlRCME1sU2Z3MA?oc=5
-- **Source:** UA.NEWS
-- **Published:** 2026-09-30T16:44:52+00:00
-
-## Xbox CEO Asha Sharma insists Microsoft’s gaming business is ‘not for sale’ - videogameschronicle.com
-
-- **URL:** https://news.google.com/rss/articles/CBMiswFBVV95cUxOZ2d2MjBDaXZpMWxxYWRvb2Ixa2JFN3J5X1VRNk8wZjAxMmlkUVhiclVHZzJ0WlpqdFdiYUs4NHplNXhsTjBUUm9ZVl85d0FDdlVoNkFtdm83bE5wbUYzUFpxZEZ1STRQR0RsdzF6T2lGVzQ2QzhkRkVpV0thVC1LRFk5ZnNSYWlYVDM0c19uQW52bXBjVzEyU1JKenBYS2YwSFJuNjRybXdtSFc0SU5PUnZaTQ?oc=5
-- **Source:** videogameschronicle.com
-- **Published:** 2026-09-30T16:44:37+00:00
-
-## Microsoft Stock Heads for Best Quarter Since 1991 as AI Optimism Builds - Barron's
-
-- **URL:** https://news.google.com/rss/articles/CBMihAFBVV95cUxNekJIME9zc1ZnYllUUFlYOV80MXFFa3FkOEdwQWpVSVJvTi1oMVRtTVdvU0EtNENaWVNscnFLR0VQcnotX2dzekl3WDZ3MkU5TTBPeDRPN1pwV3hVbnI2OEpHUG4xelBSRXZsNEVpc2pSSk55OUJfNUZOeHgxM0ZEWDRIdWw?oc=5
-- **Source:** Barron's
-- **Published:** 2026-09-30T16:40:00+00:00
-
-## “Xbox is not for sale” says Microsoft’s gaming chief - The Verge
-
-- **URL:** https://news.google.com/rss/articles/CBMigwFBVV95cUxQUk9MMWhXUEFlRXprWU5WczNMN3hMQTVfdE1pUWVHNDlSTWcyYlY5WWpPU1A5SlNjUndIN2ZEQlp4VU5WT0J2aF96WGtRWXRFNF84aEpSaE43blFTOHhOLW01b0NBU1k0cUFIYlA0eGZreG5ISEdvNUU5c19JcXRISnVmSQ?oc=5
-- **Source:** The Verge
-- **Published:** 2026-09-30T16:24:30+00:00
-
-## Microsoft Copilot Home, Code and Autopilot Explained - TechRepublic
-
-- **URL:** https://news.google.com/rss/articles/CBMihwFBVV95cUxNbW1Vd1Q5M2draUJ3QUVLUzk4ZF91Z09kRzlUcFN5b2pJV1lHdXdqMTVFX2JMQlVEU284UjdScG5uMURNSXpmYml0NV9iMUtrM3F5UmlfMFBpbWR1LU4xMEk4eEJiQXlxTF9lOHg2SDdQX0RvMkg1aDlNNXdUemlmTGc3Q01OOVU?oc=5
-- **Source:** TechRepublic
-- **Published:** 2026-09-30T16:16:09+00:00
-
-## Microsoft launches Azure Extended Zone in Luxembourg - Data Center Dynamics
-
-- **URL:** https://news.google.com/rss/articles/CBMinAFBVV95cUxPeWF4dkxQTVVlQ2J2N0RIMUZIdzBaX3dTc0RXdTNyd1FndktOUzZEdG1mT3ltc3pZRjk4WG1OX1hLTGRUU0xXSHBWTGNTZHZNX0R2ODVPbXphcmpmVU05cUl1OExaWXNyQnVKak02eHhEQ21SVnZTd1R5Z2xJLXptY2o0WGtKQlRWLVdLSHNpeWV6RmhEUFRkUTV6VnA?oc=5
-- **Source:** Data Center Dynamics
-- **Published:** 2026-09-30T16:15:57+00:00

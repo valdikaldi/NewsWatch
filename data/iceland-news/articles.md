@@ -1,8 +1,32 @@
 # NewsWatch — Iceland News
 
-_Last updated: 2026-09-30T21:56:56.154634+00:00 · 50 articles_
+_Last updated: 2026-10-01T01:10:00.087100+00:00 · 50 articles_
 
 ---
+
+## Iceland may not return to Eurovision in 2027 - Aussievision
+
+- **URL:** https://news.google.com/rss/articles/CBMihAFBVV95cUxPU09Db0FGdnlwRElyQVFKVmVIdW5NM2NWb29OQUZ2TXVoRl9MRDNObk1Bd3Y3Z0VscVNIbEZ4VU1YbDhtSWN6aTBEZXVlYW1WNWtENk5HSHZTSFBpQjd0dXlaUXF6bHUtaGtzMWZhQ1BlUTBJWDhFTHRTc1BPcjJtbXpONGY?oc=5
+- **Source:** Aussievision
+- **Published:** 2026-10-01T00:42:47+00:00
+
+## 'Time And Water' Filmmakers Explore Iceland's Melting Glaciers - Deadline
+
+- **URL:** https://news.google.com/rss/articles/CBMisAFBVV95cUxPNGpNcllxV0pQd0xqc1ZSRGtESC11azZXdkgtZFhmakdVbE9zeU5XRjJJRHFnNTVWZml2aVVJcjFvbjBIbEItdHdfV0d5SGhCRzJaT3BkWDRBM0xHc1I3VnQwV044UE5oOEgwYUsyVko0ZGhNOUtYQS1HUEJGRjBsdWYyS1NEakNfTFJyUmNndWxjdTNMQW1yVHZMdjFQME5zdVV4Rms4c2V3cXN4ajFPMA?oc=5
+- **Source:** Deadline
+- **Published:** 2026-09-30T22:08:00+00:00
+
+## Iceland looks set to join Ireland in Eurovision boycott again over Israel's participation - The Journal
+
+- **URL:** https://news.google.com/rss/articles/CBMijAFBVV95cUxPNnpVUFhGR0tuaXJDMElmLWdGZmVrVV9sU2xhOVZTaXlBaXcwV1pFVmJOYzB3eU42QnF6bEZHYTJ5RFZkVkdHeXlSTzluRkxMODFCOTdkczVGc0owV3dmZldHR1JXLW85OWpuUU1JVnZ5T3VQX3hON2VOOXdzZFZRaWlNQ2Eyenl4SkNpeQ?oc=5
+- **Source:** The Journal
+- **Published:** 2026-09-30T22:08:00+00:00
+
+## Iceland: RÚV’s Board of Directors wants the Eurovision boycott to continue in 2027 - eurovisionfun.com
+
+- **URL:** https://news.google.com/rss/articles/CBMiugFBVV95cUxOU29LXzBaZGhDVlJodDFieWFtakFqMXVBNjJXYXlZb2ptYjEzWW9oNHBubml5a3E1OWxMYzA0LVJPQjJPV3ZZTXBQT0V5WW9vc0o0aGI0OGNSUndRV3lFOXJYTXdna0RuZDFvX01oRC1XV1ExamdBNlVwVlVKaUpyUkdkYkZDdUljdzBnX2cxRnNkV1k3c1hDdEhOakw4cUw0NnNFOHlxT1lFdWZSYWp2Rk0tQ2JGWFZMU3c?oc=5
+- **Source:** eurovisionfun.com
+- **Published:** 2026-09-30T22:01:14+00:00
 
 ## Iceland: RÚV board wants to continue boycott for 2027 - ESCToday.com
 
@@ -279,27 +303,3 @@ _Last updated: 2026-09-30T21:56:56.154634+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMivAFBVV95cUxQcDc5MXd3UXZjMGVkRTZQTjJfaDlfZTROek1aRk9WdVBNSzdhQnZHNDJuOU9TZ2JkNkVoaGFsR3VRNG9ZQjM2dFVmTkRhYlJaa0JBdnRidlJYMGt4VE1WSnh3RVJIc1FKOWFFbERNeUlrNmF5TVRRcEpMT0xkTTJTcUNjRl8ydlNyN2gtY182VE0zcUZubE1HeUlTYU1fNzFZODAwQkw1TFNCd09tc1R0U0JFMkhrRXk3eEtPTg?oc=5
 - **Source:** fiba.basketball
 - **Published:** 2026-09-29T19:32:05+00:00
-
-## Luxembourg vs. Iceland (30 Sep, 2026) Live Score - ESPN Singapore
-
-- **URL:** https://news.google.com/rss/articles/CBMiaEFVX3lxTFB3VTlLdGhQVEVSZTJRdUk4ZVV2eE5VaGlCb2xTVThFRXUtY19OYU0teDNuV1EzT3g2aC1GVGJUWDVHSUtXVkdKeVVlcVJ1SC1HbGV1V0NydEMxS3pBdGxIUjdHVGx6WmNS?oc=5
-- **Source:** ESPN Singapore
-- **Published:** 2026-09-29T19:23:07+00:00
-
-## Luxembourg vs. Iceland (29 Sep, 2026) Live Score - africa.espn.com
-
-- **URL:** https://news.google.com/rss/articles/CBMiaEFVX3lxTE5vVUxVM2NybF9wTDZIcXo5TVBtSGZGYUdwWjBOU2tHYUhBdGw5MF9zMk1zRWU3VzFsNi1qaTBnLW02OW5Eb1BSR2Jubmx3a09WQW1ma2czVU95eno2NkNHLUlfR2ctY2xu?oc=5
-- **Source:** africa.espn.com
-- **Published:** 2026-09-29T19:21:20+00:00
-
-## Luxembourg vs. Iceland (30 Sep, 2026) Live Score - ESPN Philippines
-
-- **URL:** https://news.google.com/rss/articles/CBMiY0FVX3lxTFB5Um9mTGlNdEI3dVI4SlBwTFFjby1zYy1oMXZlRmtlMUlWeEJnUV9UMXVUeTdjcFdkWmh0cloxWF9JcUV1RFNySDliRlI0Z1YzMk95U3Z0VWs5R2Z6Sm1ZNER5Zw?oc=5
-- **Source:** ESPN Philippines
-- **Published:** 2026-09-29T19:13:37+00:00
-
-## Luxembourg 0-3 Iceland (29 Sep, 2026) Final Score - ESPN
-
-- **URL:** https://news.google.com/rss/articles/CBMiZ0FVX3lxTE51dWdIRFVfNWRHY1dSTmZab24yUV9MYVFMX21TSnFsZzVZUG5kWkc5LWV6TFRXd2xXZXpmT1pBTS1POWppVzlkWGlVUkVqb2RxblA4dG5iaG83VWxhcnlOUWRGT201RWs?oc=5
-- **Source:** ESPN
-- **Published:** 2026-09-29T18:43:53+00:00

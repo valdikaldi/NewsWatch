@@ -1,8 +1,20 @@
 # NewsWatch — fusion energy News
 
-_Last updated: 2026-09-30T21:56:56.530582+00:00 · 50 articles_
+_Last updated: 2026-10-01T01:10:02.391150+00:00 · 50 articles_
 
 ---
+
+## Nuclear fusion startup Commonwealth Fusion Systems (CFS) has decided to buy more than 10,000 kilomet.. - 매일경제
+
+- **URL:** https://news.google.com/rss/articles/CBMiS0FVX3lxTE4wRWZzMk9fTElDbXRhWk5nalBDbEFFbG1hOW9PaEN5cWFhQzgxdU9wUExnb3Q2UG9vRW9IUzUzdm9IVFk4cmNfZ3JGaw?oc=5
+- **Source:** 매일경제
+- **Published:** 2026-09-30T23:52:39+00:00
+
+## Calif Gov Newsom Signs Bills to Accelerate Fusion and Fission - Neutron Bytes
+
+- **URL:** https://news.google.com/rss/articles/CBMinwFBVV95cUxNN1hpTXdmSzM4UlhZMWhYVmthdmczTGdiSjQtcGU4ekJXU3RwODd1SEhoclFDa1JRc0JhdkdXR0t6dzFNMi1uTnZDcFlXLTF2RldCN1FRUkt4ek9nNnNsLWktb2pqSU81OUpFX2RhSGJFU1pYN1lpSnNfOHlEWjloSlotVkNGUmltS2xEVHU1Tk01a3p2aTB6dmQwMktEaHM?oc=5
+- **Source:** Neutron Bytes
+- **Published:** 2026-09-30T22:35:19+00:00
 
 ## New measurement of diamond phase change could mean increased ICF energy gain - American Nuclear Society -- ANS
 
@@ -291,15 +303,3 @@ _Last updated: 2026-09-30T21:56:56.530582+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMijwFBVV95cUxQQXZnc0FLRjc1Y0E4ZjhSNWloM0tiUDVYaGVMY0d2cDhBQlBNek4xbWpwQ2FYRWhwOE5ZQjgxU3RHWGs0U2hqWHVZWlRmcGU5T3ZybGV0NWk0TmFLVWxCeVlITDNXWDZDVm1GYW5xZDlTX2dneWMzZEt3UXdGcmVBOFFXVEJhajNGcEZLRFRmVQ?oc=5
 - **Source:** UC Irvine News
 - **Published:** 2026-09-29T13:35:17+00:00
-
-## OMERS Ventures backs fusion diagnostics firm Daedal Systems - Benefits and Pensions Monitor
-
-- **URL:** https://news.google.com/rss/articles/CBMixwFBVV95cUxPVDRGbUlDRWtvSktaTS1CWHRKWmlqNmZvblJydmpTLUZnUEtQV2MwQ1Fobjl6dUxja0RsRHNnUVNIUVJMODFTUmRVS0s2UzVUV0VZYkhOenBIR3NBVVRfMGZNUEVkTS1SemdTaXlOVm43NUJ4Y2dFTmxuckFMUERaVFItU09vbUZtRGRwek43SGtfbkFqVklFYmJnckZjb3FqSVFTeHU5X21hVnktZnM5N2ZDQmJfMTlLX0lyNjR4NFNVSFB3MjFn?oc=5
-- **Source:** Benefits and Pensions Monitor
-- **Published:** 2026-09-29T13:16:21+00:00
-
-## Charged gas stayed apart from chamber walls for about a second in earlier, low-temperature tests. - Stock Titan
-
-- **URL:** https://news.google.com/rss/articles/CBMiswFBVV95cUxOOHZqdXBGVkk0R1JQaUJPOW9hQlU4QldDTG9NYW96ZS1ldkZHY2VtZFVOdlFfZnh4LWM0NG5lVkpGajFCRlZaTDR0azRMaU4tVDU2Ml9YXzFQVXdKQUVkT1R5NndpTGNDOWVWaWRUVW9pZEhfM2RpaU5xZUp3eU5RY3pLTUJGVVhsdHl5cGQ2YTFYRFY2ZEZRY3d2MkpTbDVQdlhvdFdUMzgxNHlxTmtYNzBQcw?oc=5
-- **Source:** Stock Titan
-- **Published:** 2026-09-29T12:00:00+00:00

@@ -1,8 +1,62 @@
 # NewsWatch — Oil News
 
-_Last updated: 2026-09-30T21:56:57.133612+00:00 · 50 articles_
+_Last updated: 2026-10-01T01:10:04.446171+00:00 · 50 articles_
 
 ---
+
+## Texas rancher warns of toxic water contamination from abandoned oil wells in the Pecos River - newswest9.com
+
+- **URL:** https://news.google.com/rss/articles/CBMi5AFBVV95cUxOVmxTWW1kUlhxRzV4ZktteFotTWprUGRLWG81NXRKczN6YUhNMDRZNmFSYVJJVnlwbUxaSjZIWF9kSHVHRS1RS1RNR01oNmdmei1kTklYSzZvRzk0VjhlVFR6M19oRWRkZ3J4dXFBcnc1VDFLZExYUEt3UF82VUZWN2t5UFhWb3dpUF9JX3ZKa3dvdjhiV2xwRkZHSlJnMDRXOGs2ZGpDdDA3YTF5bXdIdjBSMW5aRHBGc2F1cVFpVXhxU1JlSy0walJxUmNMVUV3QWduYXp4dUFpQm0zS1hzUVhzMWw?oc=5
+- **Source:** newswest9.com
+- **Published:** 2026-10-01T00:40:00+00:00
+
+## Iran's Disappearing Oil Is Becoming Everyone's Problem - Crude Oil Prices Today | OilPrice.com
+
+- **URL:** https://news.google.com/rss/articles/CBMimwFBVV95cUxPNk1vZVFDNWhFSEtFOGdMcWhPS04wWmxsVWZNSzNVV01GZDZiS1haa2NnQXYtN090UVRaNmlIbUlCdjhiLVZXbGRiT2JnTENCdUxoNldiUi1sRHRfSV9TR1pGRnJ3enRjUTc1WFpGcThURGlQeFNWUzYxaDNKM0ctcEl1VG5Cb1R2U3pPWEJZdmtoWm1reXdRYmoyQdIBoAFBVV95cUxQWXRhS3pZQmttbzA3TzJEVmY4UnZLRE1DMlRLT0EtUVFVTjFvNXRDSi16Wm9iUjRQb1dNS3l2X2dJc3JOSzZjaXp6NnlodlBydUdkZXUwWUJCcl83MktFY0s3VkUycWdaelpZLUczX01ya1g2Q2E5YVlUUF9ia0p5U2lwbUpjMk5raE55YnlLRS1ZU2tLT095bVZJa3BxWGhY?oc=5
+- **Source:** Crude Oil Prices Today | OilPrice.com
+- **Published:** 2026-10-01T00:00:00+00:00
+
+## The Hormuz Paradox: Why Oil Prices Remain High Despite a Surge in Flows? - Anas Alhajji | Substack
+
+- **URL:** https://news.google.com/rss/articles/CBMie0FVX3lxTFBNZk10Qnl3V1F5aENNMXZHX0UzV3lqZmF4VnplZGtRWEFPM3VLLVhha29KcUtWMGFxWDZFcVZCQ1ZJREcxSU83RFBhcUVPWlJvUm5jdEplZDFpQ1hlUXJIb0VMVHJsN01rcEVnMjg3NjV4Wnk3WThqUHVfbw?oc=5
+- **Source:** Anas Alhajji | Substack
+- **Published:** 2026-09-30T23:58:54+00:00
+
+## Alternative Routes for Middle East Oil and Gas Due to Hormuz Disruption - EnergyNow.com
+
+- **URL:** https://news.google.com/rss/articles/CBMipAFBVV95cUxNNE1fMzFiSjhrOFpJV21kajdMYkJEd20zcGM4Sm0yREpWU09IZnBwX0VyUk9LTWlHYWhDYXZCOS04eng0d1lPdVlKX2pZUjFwYzAwZkM4NWlDazVaSUFfRHlLaTczenpiZTdrb0lXd09XZTRiWHpNVGYxcDRjaHhoZ3JvcVFtb1VZM29raVc4RE9kUXBZWVdkbmktRU5FbV9hb1Fweg?oc=5
+- **Source:** EnergyNow.com
+- **Published:** 2026-09-30T22:39:09+00:00
+
+## Rising heating oil prices push Southern New England homeowners to buy less fuel - WJAR
+
+- **URL:** https://news.google.com/rss/articles/CBMi5AFBVV95cUxPVmxXbm9jbWpPSmJTQlNhMVFBVl82YjgxQ1RmZ2wwbl8wSVZTdzFYZzJ1dGlrMDlRcWw0ZzZybUtoSHU4bHFmRkptQ3U4UVJMSFhoVjduem9JS1dQNGZTMUJvS2RKTTNYSGt6UlNSYW5VNmdETGV4NzRYbGJ0VkJYQXZCdE5TTFFBcmY1VTg0TklYTWk1V2ZmNExGeThPZnU0c0ZJZFdxaUJHek1ON19lemxTdEpuTEppUWp0TmxfeFlsS2x6LVRMX2E3RWh0S2dONnVRczBoaUxQT1JxNFV6U2NlWkQ?oc=5
+- **Source:** WJAR
+- **Published:** 2026-09-30T22:38:26+00:00
+
+## Middle East oil exports back to 80% of prewar levels, but prices still high - CBS News
+
+- **URL:** https://news.google.com/rss/articles/CBMirAFBVV95cUxOaFVHd3YzYUZOMFFIQ2J0anBBaTNzX2F6dThKWmY1Slp2S3BCemptNmF6OFU1MmRHMW16TXFOYzk2UVB5V2VCWXRxT09LVHZ0d2R2T0tiSjQ3YmNVUnY1N3pMekQyYW83ZHRENmlDVFRiN2RfOG1DU1JNWG5wa1pKUXdpNHF6VEZ2c2NhSzFZN281Z3dkRzRVV1hKNEdyanJCZDJ6cE1uLWRoMjBM?oc=5
+- **Source:** CBS News
+- **Published:** 2026-09-30T22:35:00+00:00
+
+## Wyo. Asks To Intervene In Suit Over Lease Sales To Oil Cos. - law360.com
+
+- **URL:** https://news.google.com/rss/articles/CBMiVkFVX3lxTE45azloOFNsSHg2bzc1cEJ5RmxzQlQ0bFE2eHVzX29vQUQ3dDZNbWYzclQzNEhmTlBPd1RZVmNPOXhlSGpib2Q1TnoxNGhPdWVMZjlLZmRB0gFWQVVfeXFMTjlrOWg4U2xIeDZvNzVwQnlGbHNCVDRsUTZ4dXNfb29BRDd0Nk1tZjNyVDM0SGZOUE93VFlWY085eGVIamJvZDVOejE0aE91ZUxmOUtmZEE?oc=5
+- **Source:** law360.com
+- **Published:** 2026-09-30T22:25:00+00:00
+
+## Oil Holds Gain as Traders Weigh Recovery in Middle East Flows - Bloomberg.com
+
+- **URL:** https://news.google.com/rss/articles/CBMinAFBVV95cUxPWjQxVFJVc1lzSWE2b01pRXRiMVZsS0E1SlBwNkV0Z1VjTWhpaFBsOTZ4MmNSamlONmRseHNQLUdLTVdmVE9aT3p3Rm0wd3Qza05IV2Nsbnk5c3pYRU15d3Q2cFBFOXp0VkxaMTJXUzFrUXRZd0dvQ2Rnbm9rN2JzRkxKS1VVNjNIQVJac2lOTkJzbUdNNWtMREtHRi0?oc=5
+- **Source:** Bloomberg.com
+- **Published:** 2026-09-30T22:02:36+00:00
+
+## Venezuela’s Oil Revival Accelerates as Foreign Companies Return - Yahoo Finance
+
+- **URL:** https://news.google.com/rss/articles/CBMinwFBVV95cUxNQ0VOUGhseTR5aExnY2h2RnhnTVhPME9iVFpFODF5T09XeUs3V2hkS21MSjBNdll0cXBXZnA5dE56RFRMZ3pXQ2xpOHBRamo1YXFwQTY0QjZEZHNUTWV0dkwxX1ZfOXFMZzZxY1JYdnhWaXh0c0VmcXFkWjZHR2YzYlgxcFhTTEhYUngxQmVFVUEyR05fTzlkbmZqVEFoX2M?oc=5
+- **Source:** Yahoo Finance
+- **Published:** 2026-09-30T22:00:00+00:00
 
 ## How the U.S. got oil shipments moving and what it would take to bring prices down - The Washington Post
 
@@ -249,57 +303,3 @@ _Last updated: 2026-09-30T21:56:57.133612+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMilgFBVV95cUxQc043cHk1ZjIxLWc2RVJUX2p1NnRHMmpRamNpNkVJNTBkNjliR1Z4amtCdkdVUzkzUnBRQ2ZpWFhHdGRUUWtybzFieTY2ek9qazdPaG5Ec0d3akx6a24wMlYzaDdnbjZrbmNVdTdZdXZSYlhGTVFUOHJoTGZhQ1RJR2tyaDNGckF0OWM0QW1ta2lVbnFoOFE?oc=5
 - **Source:** EnergyNow.com
 - **Published:** 2026-09-30T17:57:49+00:00
-
-## Oil (USCrude) Price Forecast for Today, Tomorrow, Next Week, and Next 30 Days - LiteFinance
-
-- **URL:** https://news.google.com/rss/articles/CBMinwFBVV95cUxQcm51RHFTMGNQcnB2aFl5bjNQQzFXUVVHckh1eW1IVktpM0lfaXlCQ2p6RF9nYWxkajlxb2R2V0lkRi1FNnljalUwMlhaU2FFT2dCUDBwem9tVG14Y1FXZGVKbWJvSm0xNlVVZ1BwdTItWnJkOTF3TnFTU2FQLWZibmhXRXlnX2RJY25leTB2ekVVUHZMZS1zbjBhWkNJLWs?oc=5
-- **Source:** LiteFinance
-- **Published:** 2026-09-30T17:48:50+00:00
-
-## India cuts windfall taxes on diesel, aviation fuel exports - Reuters
-
-- **URL:** https://news.google.com/rss/articles/CBMipAFBVV95cUxNUWIxeWhFenF6Nm1Vc0VSZWYtMWFacWVTTVczakl0RmJHYUNFWFVSMnRPRU1xd292T29nc3l3WTkzMnpvRl9jWjdLcmpxYmFDcmppeHB3M3ZsWG5FRUoxbHhXRU5fT2JpU25pNTFHQktkX01Ga3h2YmQ0TldwbFF6MllnRUl4TmtEdWFvTWdpMEVwRm5HS2JSLThzcjFfMWNJb1ktTw?oc=5
-- **Source:** Reuters
-- **Published:** 2026-09-30T17:47:42+00:00
-
-## US Crude Oil Output Rose in July, While Petroleum Demand Declined, EIA Says - EnergyNow.com
-
-- **URL:** https://news.google.com/rss/articles/CBMipwFBVV95cUxPZGpZZ2RYTHVrSlBvdkxOU0dyQWkwbFgtc3FVTGtZdlNFVnY4eGtITlRhODhodVJlNmFVN1VHVlhBSEdaYjkxVktFN1lySWo2U3k1MTl6NjN6c1NMQkNzNkZwaVlGVjEzUi1PcWoyVFRRQ0xlNUZMRUx5d1lsTzM3TmF3QWIxbmR1Tm9RWTFES0d6SjBVVTJyZ1JyOXMyYlRSTXF0c2o3QQ?oc=5
-- **Source:** EnergyNow.com
-- **Published:** 2026-09-30T17:33:31+00:00
-
-## US Oil and Gas Production Rises in Q3 2026 But Price Uncertainty Plagues Producers, Dallas Fed Survey Says - EnergyNow.com
-
-- **URL:** https://news.google.com/rss/articles/CBMi0gFBVV95cUxQdDdYSnR1UTlfdDNUNXJIUG5ZeEhUb1VPLUE5VVNsNU1zRWh2T2NTYjh4SEJLd3JRYUYyeGZwdHlkRDhlcUNhWXBUSWxRckRaRTh6cHNSOWdsbUtlM3ZWVTAtM1hOVk5FTm11cVJVbS03dXBkU08zbjYwNXA2eGxocGoxdENUZllQOGtGT0F0MlhHZDhiX3JkZUUtVUlHUlpNRE5TMnB1Tmt0LXpaUWZQd2JmSk9xdERxTFZJa1BSb1NIeVh4eGFxTkRYUWdrNHgyVkE?oc=5
-- **Source:** EnergyNow.com
-- **Published:** 2026-09-30T17:32:18+00:00
-
-## Inside Milei's Two-Week Ultimatum to U.K. Over Falklands Oil Exploration - Time Magazine
-
-- **URL:** https://news.google.com/rss/articles/CBMiqAFBVV95cUxPc2s3dW9FT21CczZ2X3UwVFpLN1oxTUN1bEJfTkdlLUpfYTc5dmRpaWVfR3dJaXp4RTRjN2FSOE5mMEZVVVI2SnUzb19kRDBtSjhzZkNBbjFpV2pxNUxzcU9QdkRramFsZ3lOOFZLekRxdy1LSVZvZGhQWDBpRkdJclNJTGxZTFBGSlRJc196QXAtLThSZ3pXS1RnQ01jT3FRSXA1QV9wNkI?oc=5
-- **Source:** Time Magazine
-- **Published:** 2026-09-30T17:31:13+00:00
-
-## U.S. Oil and Gas Production Climbs Despite Extreme Oil Price Volatility - Crude Oil Prices Today | OilPrice.com
-
-- **URL:** https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUk5Fc3lIY0t2dzJMT0lCOGxLbVFfcll6NUZyR3hFVmkyUzJya1pBWGYybDFVa2VsZXpITVA0elVNWC01Q3Q2MVQ1ZnloMWdnR21YNmN6dGJlWTVXYjhlUjVoTTFwZi1FZHFTNkY1SFJENTR0ZWp5dTh0X1loRVZnN1MweXZIMlJSWXdfN3ZwOVgzWDIxNlVuMU1vbG9aYlR1RlpoVlNleDJmNkZyVldBUW1zZ01vOUlfeVdiNWUzclIwQjjSAcgBQVVfeXFMT1p5ZGZRMG9xOE5oSGEwMjloRE91TE5hZGwzWHllUGZiMnAyOWdBWjQ5ZjdpZ1JGVHFXNlVQOGlQckhJbXNFa0dYVnFWZmhNRWwzcTQxSEtjMDBpZjcyeTk3V3M1ZmxiMW9wOGZpejBrQkxUYTNrSS1EOUZhQThmNWVJRTVZMHJQTUxHbTBNWHhiaUcxZWd2Xy1IVDk4eW1aeHJMXzAydmZ6cjd1QW5BRDI0Y041X19XNXZkOEMtMTJ4b3N6YkN5a2w?oc=5
-- **Source:** Crude Oil Prices Today | OilPrice.com
-- **Published:** 2026-09-30T17:31:07+00:00
-
-## Chevron Has More Going for It Than Higher Oil Prices - 24/7 Wall St.
-
-- **URL:** https://news.google.com/rss/articles/CBMinAFBVV95cUxNSzM0T0U2RUdlajd3RU9GUEV1TVp1a3Fhb3VPVXRtazNYaHl4S0JubEQ4VU9UZ1haZVl5UXhQRFkyM3Y4LUV5WUJKM2d4cWFLTG4wN1ZHNmFfYWJaMktLbE9SUml6dklUZWQ0NVdfdV9HRDlvN0V4bXV0LXk3cDFGOG1ieTJURlVHTFdhcUtVblA0czl2VEN0R3hZeU0?oc=5
-- **Source:** 24/7 Wall St.
-- **Published:** 2026-09-30T17:30:00+00:00
-
-## Pemex crude oil exports fall 45% in August amid refining push - Investing.com
-
-- **URL:** https://news.google.com/rss/articles/CBMivgFBVV95cUxORms2aWFJN1ZpYzRHdVl4MDdkTDJlaFV1WGVXbmhjdUtTXzljVnpvN3kwVW1sLVd1c1UxNTdQT1pDeTdKcm03Y3QwalcwZXctemU2b242bjBYUTRzdXZmWnRpWVBMMlRUOUtxSjBkWmxWUW1mSzNXNldfRVNILU9HQnF0Z2ZjbDlHZ0ZXbTNKd1FUM3JLYWdONmV1YV9SbEJOXzk5SU9TTENhYlp0STdEclJTZ3MtQjNVT3EteVRn?oc=5
-- **Source:** Investing.com
-- **Published:** 2026-09-30T17:29:34+00:00
-
-## The hottest trade of the year so far isn't AI. It's tanker stocks - CNBC
-
-- **URL:** https://news.google.com/rss/articles/CBMioAFBVV95cUxPOTBVMDlTOTJrNElwcjdKc3NRdDdJQnZ3d25QSThoZGExdnRmU0lRQ2tjYVJNbFpoMU81NVNjSGZ0bURTVkUyRElnTHEzTjVWWmYxcDdiZ2JOSUJDTUR5OFVkdWhsVl9XdTJ6VHJfYk5PRF9Jdnd0TWdnRzJGdXNiTjRDOWZ2SDhPcGpfOEF3X0JlNHdkYkNVMnJjT3pMbjRx?oc=5
-- **Source:** CNBC
-- **Published:** 2026-09-30T17:28:26+00:00
