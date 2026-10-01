@@ -1,8 +1,128 @@
 # NewsWatch — fusion energy News
 
-_Last updated: 2026-10-01T01:10:02.391150+00:00 · 50 articles_
+_Last updated: 2026-10-01T10:45:56.576082+00:00 · 50 articles_
 
 ---
+
+## Agriculture, Climate, Environment, Energy & Food: October 2026 Funding Opportunities (31 new opportunities) - Substack
+
+- **URL:** https://news.google.com/rss/articles/CBMihgFBVV95cUxQX3hLZWlIR0FBbUdzYjN0MXdmWDlOUFc0c1NPUnFyNTdnclFuZDdUalhWMTZxOUpxa1d6aF94cm5WOU5QZUEtOXFFaXNZMzJkbTVhNGlVVE5tMzJZYXdqN2g3LVZCbzB1cEVBSi1SRms4QlZpYVJzbV91WWsxcDRkTGhKcnJhdw?oc=5
+- **Source:** Substack
+- **Published:** 2026-10-01T10:37:21+00:00
+
+## California Signs Fusion Legislation and Announces $30 Million Quantum Investment - The Quantum Insider
+
+- **URL:** https://news.google.com/rss/articles/CBMiowFBVV95cUxNcHdDdlNZMUxzNXV0OHdHS3gwRUZoQlphWGtqRldCWGtVd0Z0YndMLTFEbTN3NWxJanFsRjNSelZfZTM4b0E3M0hWQnRrRG1kUVNKU2JQbE5DaFk1XzNxUVl3Q3N1TjA3SDd4dXpzaFk2SEs5bksyaE9KZlBfdTMtTWRwTzdRMDJZRURndGR6bXlsQ2lHN0trbElZa3FpVGUyekVB?oc=5
+- **Source:** The Quantum Insider
+- **Published:** 2026-10-01T10:36:41+00:00
+
+## Gates-Backed Fusion Firm Orders Record 6,200 Miles of Tape - TechJuice
+
+- **URL:** https://news.google.com/rss/articles/CBMiiAFBVV95cUxQeW54ZHZybjh6WVA4SWdTcDhIYnZQZ014eWdMWW9GSld0eWtOZjl2WDNMX19HVFFwb3drb1lrc2padGJoOXhfTDRCQkh2enZvYmJhV0FRSWU1Nk85TExMaGhhdVVycDhqTEstZDlMb3B0ZS05TGdZQ2VxR0VoSTg1Y1VJOXpRcEdo?oc=5
+- **Source:** TechJuice
+- **Published:** 2026-10-01T10:27:48+00:00
+
+## Main complex for China's "artificial sun" project completed in Hefei - 巴士的報
+
+- **URL:** https://news.google.com/rss/articles/CBMiuAFBVV95cUxQLXA4RjloYmxLNlBBbnNnOUI4bENVZmc0UE1TSG9Nd2ZiR0hmc2ExMmRMaW95Z0pqRTVvTTRGM3VJcUkzYTVjTXVUbk1GTGNsYlhtNzQta3V3WEVuMHVOSmZneHpBb1REY1hJZTZQV1VhcUlpeEV4Q2F4VG03M0dFcGlXQ3R2VXFSdlFJS0ZkdUM1Nk0tc3V1c3NMMmlESGYyRUpNNUNYdHBmaVJVSndoUTBfeW5ObHBC?oc=5
+- **Source:** 巴士的報
+- **Published:** 2026-10-01T10:23:00+00:00
+
+## Singapore Renames Trade Ministry, Signals Energy Focus at Fusion Conference - News and Statistics - IndexBox
+
+- **URL:** https://news.google.com/rss/articles/CBMizAFBVV95cUxPWDI3TmJEQ2tLLWVnNVo5aWNmTW9lZVNnUjEyMUlxdVVqNnc1dm43NnlUbENsbFQyd0hwXzRsSmtBVGUzd0FUVzNWRWxNeGZpYjB6T2gxeVlndFZqMWdBeDNvTnlMMXJtLWx1d1huc1RiU2VzWFhDX0ZybnlKRHlTNER4eW5YUVR2bmNSV1lQaUEzY1pWRUc1SlpYQkZ3dFNPTEN1MnRyWGZQN3h5dlFlRlJmYVBrVU5XNjlEakx1U3hickZhSWxZRlB1MVQ?oc=5
+- **Source:** IndexBox
+- **Published:** 2026-10-01T10:20:24+00:00
+
+## ‘PIX’ fusion and aerospace innovation for alloys that get finer with age - sUAS News
+
+- **URL:** https://news.google.com/rss/articles/CBMipwFBVV95cUxNdzA1djBLdWNmc0NiM2Zxc05MdmxpbDZDODNaaDFKOVF6aDdjeEpDcHN6c3Fzd0U3VXNXQ25MaTZNcU92N19Qd0xFZl9uS0lOVmU2bDZnT21SX09EWms2Wm1MVGw3TkU4WFJLZEp0Q1dBTTV6a0k2U3ZVbkdmTDdTa1N1QUJ4c2NiQ2V1ZU5uWUZWNDkyb20xd0FnbjA5VjZwTThrYjlMQQ?oc=5
+- **Source:** sUAS News
+- **Published:** 2026-10-01T09:42:59+00:00
+
+## New heat treatment method refines metal grain structure - The Engineer
+
+- **URL:** https://news.google.com/rss/articles/CBMioAFBVV95cUxOZS13TUo4cmdTSlBPMWpHTnB6cERZRUhWQXVsa09fU3NUMzhXMmhYTGRTZW81NC1MaXd6LUt6YVZ2ZmxvbTJ5cUh5QndyVmhjbTlka0xtWS13a0N5V1ZaeF9DdWRBUURNSFhSSHNxemVHTkp1Ujl1cHpoTmw1NGJPQzJRbjlLdm01ZGJqWXE3UXRWdHh3N2NpQ29la1hPdnBQ?oc=5
+- **Source:** The Engineer
+- **Published:** 2026-10-01T09:25:18+00:00
+
+## China's 'artificial sun' hits new milestone with research campus delivered for use, targets 2030 for first electricity output - Global Times
+
+- **URL:** https://news.google.com/rss/articles/CBMiYkFVX3lxTE9xX1lndzlKeWxaLTdyUE1zWkVQQXRYUjd1Y0QzVERIczBockhGdVFjMVdpV25vWVVDMTJHaU0tOWxCTG8tMnl0dHR3MW5mNkc2czB1N3hIdE1sb2d6T1JyZ0dn?oc=5
+- **Source:** Global Times
+- **Published:** 2026-10-01T08:24:00+00:00
+
+## Wilson Sonsini Advises Zenithon AI on $10 Million Seed Financing - Wilson Sonsini
+
+- **URL:** https://news.google.com/rss/articles/CBMiqwFBVV95cUxPN055dnJoeFZjdGduSy1yT05DOENNaEpNR3RtM1NYZWZ4YmlUakxiazZscDVLNXlGa2RIcHlLNEhHLXhUUG44b1htOFhvaGFtNWE3NkQzVU9ybVFMY0pVdmxlNko4UkZvSWY2N243NGc3WGFPTlRUZlc3T25VS2RJSHRoTlBIYjRsNVd2bm9Mbkc3aU1uUVJOM0cyX3NTMnNoRU1YdFRLRjkwU0k?oc=5
+- **Source:** Wilson Sonsini
+- **Published:** 2026-10-01T07:30:00+00:00
+
+## Most powerful laser in US funded for another 5 years - Technology Org
+
+- **URL:** https://news.google.com/rss/articles/CBMilgFBVV95cUxQUHo4VTFraW8yRUlVQkNNZWh5UDFjejdKNzhmaFowYzVoSFFJeWNfSFZMVkhMRUFxZ1I1bWc3Ynl0bGgxUnFtR0dMOGpyRkhCMEhaSEc4cktOQ0R5aU9SUnFsSHlBcU40dVN5Ul81Szc1eENJQVZVRk8yakJkQ1FITnRwRzB4dGZ6dFdjLXhmUzRMQmlXMFE?oc=5
+- **Source:** Technology Org
+- **Published:** 2026-10-01T07:30:00+00:00
+
+## China’s Functional Strategy: The Fusion of Technology and Global Penetration - RealClearDefense
+
+- **URL:** https://news.google.com/rss/articles/CBMi1wFBVV95cUxQa3ZNZE5QSzJEQjE4dm5VbVZJU05jdThZZDJXNzRTMVhfZjExUTllMkpTQnFaeEhBUDZPWThxUmZVcFRybnZoUTRsaFNscmRDdS1sMFRSTFJ6VjFZbG9JdDhHTGtpSllhWklsaXZ4UldPVDJaYlQtdTdmeHBrMVJBcnNLd3UwVXhEbWRLajBBVG5sY2NxbERvLXdFRWVGU1dNTmlWQUtGczlkMUZsMy1jbWkwVjdkS2o0U2RXdHFvSDdCb1N2RndUNmlVWk9qdzlVYTB6MDZmaw?oc=5
+- **Source:** RealClearDefense
+- **Published:** 2026-10-01T07:18:11+00:00
+
+## Governor Newsom Signs Fusion Legislation and Allocates State Capital to Advance California Quantum Infrastructure - Quantum Computing Report
+
+- **URL:** https://news.google.com/rss/articles/CBMi6AFBVV95cUxOc2F2YlBiOHZGS2NIQ2xYQnI3bm5KUWZKVjNrY2E4c2JLVlU5QzdwTWg4cWh3bDhCSy01NUJ4MW8td1IxREZIRUw4OUt6SWNWMjBmN0dWZmY2UDFROFRKWTkwb1d1SHJPLUsyVUV4dWo0SGd6ZUtVNFlBSWlwNlVOZFcyTzVwTWNHRkdnQlpVdWo2elFkamJBWFBBT3VaOEM5UXZUNTlHY3E3NGppQ3RpTTNqcldVOXYwUGhWNXl3VzBwNjkxSnhkYlNWOFgtLUhGVTJ1YU9FLUJOdVJfczJXMi1PalJZSnpN0gHoAUFVX3lxTE5zYXZiUGI4dkZLY0hDbFhCcjdubkpRZkpWM2tjYThzYktWVTlDN3BNaDhxaHdsOEJLLTU1Qngxby13UjFERkhFTDg5S3pJY1YyMGY3R1ZmZjZQMVE4VEpZOTBvV3VIck8tSzJVRXh1ajRIZ3plS1U0WUFJaXA2VU5kVzJPNXBNY0dGR2dCWlV1ajZ6UWRqYkFYUEFPdVo4QzlRdlQ1OUdjcTc0amlDdGlNM2pyV1U5djBQaFY1eXdXMHA2OTFKeGRiU1Y4WC0tSEZVMnVhT0UtQk51Ul9zMlcyLU9qUllKek0?oc=5
+- **Source:** Quantum Computing Report
+- **Published:** 2026-10-01T07:07:04+00:00
+
+## Singapore seeks role in global fusion energy industry - UA.NEWS
+
+- **URL:** https://news.google.com/rss/articles/CBMixAFBVV95cUxOdkxaM0ZLTlZWYUlXMk5rQURGbC1hSVBYazh3WlptT2JjMHE0SkJYdXBFeFBuUDVWSnlzdld3MW1kYTVOdmFobmc4Yms4UzFfSGdtWFY0WjJXaDdYODVRYkJBZDJLNUE1d2xxUVBZZ2FqNUlLVHV5VTcwNlNXclNDS1ppVFl6a1dyUE5vd2NKdmFlWVV2elpfZU1DUDN2N29wblpLTkZtWXlIUURCc29tSTB2MmswU1FlV3AteVZjTFNQVGhB?oc=5
+- **Source:** UA.NEWS
+- **Published:** 2026-10-01T06:39:30+00:00
+
+## Singapore eyes role in global fusion energy industry - CNA
+
+- **URL:** https://news.google.com/rss/articles/CBMivgFBVV95cUxQS2t4eVFtZVd5RWtoeUVSeXdWNThQeE13dGNFbm9mMmpDTE1BWUN5ZmdjTmozd0E3SUNKSHZvY3BKVEU3alQtc2t4T3ZJejJKR0dzVzJaLXFSNV85TGZoZ1BvOEdKNExBV0w2TXl3RkduNi1CS2tVQW5yOTcwd0JkaHJNN2l4dzNGSl9paFlocDBvTTByR3VkQWN5VHJMOEJNRGZLckhidHMzMkg0dFlfeFZ5TG9vdE81azJHeGNR?oc=5
+- **Source:** CNA
+- **Published:** 2026-10-01T06:24:00+00:00
+
+## China's 'BEST' fusion reactor enters the engineering endgame - digitimes.com
+
+- **URL:** https://news.google.com/rss/articles/CBMiekFVX3lxTE1UeXpFS0c0SGtzbVI0SzRqc0d0MzF0djEzNXBkb01EYnlQaVdsSldIc1BYZzQ1U3paUVc5NVFSQ0JNNm5KU21IWmpibGFWYW9aSV82NWVqZkhDck84SnZ3LXAyelQyWWZqVVVUbk1hb3d2Y1dHT1RuQ0pn?oc=5
+- **Source:** digitimes.com
+- **Published:** 2026-10-01T06:20:00+00:00
+
+## Japan's patchy business mood takes pressure off BOJ for immediate hike - アラブニュース
+
+- **URL:** https://news.google.com/rss/articles/CBMiswFBVV95cUxQSEdlWUxrLUU4TWsxQk1VazRTcnBqYXJiTWR4TE5UZWVUcHA2OFg2M3lURnJBYThxeklsd3BhTHdIWkFDcXdKUHVqSW85VG5EdUhMRkhaa0dIUlkxTzVrcDc2Zlh2ZURYSEdXdnVQcmR0WVE2LU1oVUZlM0FzYlNNbmpFVndnV3RvZUNGUUpqQ3VLS3NGZjlEU1I2MW9rci1OdlZGTHBDY1JsTWpGTGMtRmx4dw?oc=5
+- **Source:** アラブニュース
+- **Published:** 2026-10-01T04:26:38+00:00
+
+## Singapore explores nuclear fusion as clean energy option under new METI - The Business Times
+
+- **URL:** https://news.google.com/rss/articles/CBMi1AFBVV95cUxQSjd2UHVKdG9pNm5QNHJ1OF9XSTJqRmZlelFjbkdIMHZ5blJYZC1ibXdZVTNBZmJIZ3ZOVGMtWGw5V1VjX2llYU9wbTJYOUM3TVFYUlk5eVVkV0JieWdRQXJJMzFPM0RDaW1XWkt1RUhmMTdfbGRGZmgtZHpxYTNJa040cUhyVHJ0bWpPZzc1aXJIYldTNGMzUXJKdHM2SzF2MnlCVU9fOW1Bbm5EOHJIRHc3cURPY3loV05GVmhzdUM3Y09pTC15ZDZPb29SbWEwaTZuYg?oc=5
+- **Source:** The Business Times
+- **Published:** 2026-10-01T04:09:00+00:00
+
+## UK Commits $3.3 Billion to Commercialize Fusion Energy - ESG News.earth
+
+- **URL:** https://news.google.com/rss/articles/CBMipAFBVV95cUxNaE84Ti1SVzBlMFlDZXlidkdqSFdZdFpLWU5ic2ZwRndLb1RDa0gxQy1XLXFkTnpqZjJsOW9VS2ZrZEhCV1oxVVBkVUx4UXUxN0NBaUtJWlpGTjA2aDdHeHVHejNKUFlPLTFGWFRiUXNSWFVtUTJ1ZzN0Q1g5c2pvc2tsWV8xZUdYRnZXdU1rd1VQdDVWR1pNUFZVdE1lS05LMTVVTw?oc=5
+- **Source:** ESG News.earth
+- **Published:** 2026-10-01T04:05:11+00:00
+
+## Nuclear fusion can create economic opportunity for Singapore: Tan See Leng - The Straits Times
+
+- **URL:** https://news.google.com/rss/articles/CBMiwgFBVV95cUxQbEp6bkRqM3p2THBpQUYxNU5ZOWdlM0hXYkpZWnQyWEJWd3I2d3VQNENtSkktLTBjYy04cGE5YzYyTDNXS1RranJnM1lnYnQtbUVpZDFNVHc0ekpKY2hCaTVTYlRiNDV3S0o4U3BUSlFSNTVPaEV5RnNPNGg2Z0J3UXVSaHJFdXJnaE83UnV5S09NcXNrcDZQYUJGVEVpbmRsMW9qNkpzQjhzWWxGdzJucHpWeG5CbVRMT29RTWNRY3NsUQ?oc=5
+- **Source:** The Straits Times
+- **Published:** 2026-10-01T03:30:00+00:00
+
+## Watch Plasma Erupt in Full Color Inside a Fusion Reactor at 16,000 FPS - ScienceAlert
+
+- **URL:** https://news.google.com/rss/articles/CBMinwFBVV95cUxNbFZ2NnhUTzhGZUhqX19wVUhiYkxKbTV1NVZINXdyVU1RYmFrTnY1UGdFZUFGYnRLY19XVXp6bEdwVWpnVVFFMURZQWVWTkh6NHctcmptOE5FZDdRTWdOSFJYd2pQWXJ3SUh2NVZkRjhGZWQ5VnpUbWU0blgySnYzaVk4S2Iwb3MtcFNGMDRzVW1mX0RVMU5TbU9EY2RLYTQ?oc=5
+- **Source:** ScienceAlert
+- **Published:** 2026-10-01T01:32:08+00:00
 
 ## Nuclear fusion startup Commonwealth Fusion Systems (CFS) has decided to buy more than 10,000 kilomet.. - 매일경제
 
@@ -183,123 +303,3 @@ _Last updated: 2026-10-01T01:10:02.391150+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMinwFBVV95cUxPMXBmMy1XUUluSHRXcW5lZUdXc0hyLTgySm5qT0JmOW1od1QxTzlUT0FyNlotWTR6eXNyVEdMMTdxdTM4NndxMEg3S2lHVXUtdFJ2LTk1SzhnSjRHYVE4NGtvOGpzM3NjYXdnVF9sQk9xTzY2eEgxd2tOMUkycEMzcVJXT0hBTzNTMzFEM2VockNIWlRFd0FKZl9ONk5YTEk?oc=5
 - **Source:** Securities.io
 - **Published:** 2026-09-30T04:31:02+00:00
-
-## Commonwealth Fusion Systems Places Largest Single Purchase Order of HTS Tape with Fujikura to Accelerate Development of ARC Power Plants - PR Newswire
-
-- **URL:** https://news.google.com/rss/articles/CBMinAJBVV95cUxNN3dBR0xjdXhjSEZMcVF6SXJGeDlOemhWUjRKSFRGYl9DT0ZydUFmSGpWcDZMQkpJYXI0al9ZWXd5YlJiNVVmNjZzdnNqN2xZV3g1WEU5eW1jZ1BWNU1malpyd3VjU2hNZTdnSUIycUN4ZkxlSm90TkJVdGI1ZFJQZlE3RUtPWmU4MTZzcDhvbjE1SVl4VVdsMkZoMXZCZ2txOWwxY0hnRG1rUU1VaFlHVVRoYUFFbHM5S3Q1SVIyemgyYTNVSDFHS1psd05paDlIbjVIV3ZhSVhFWjhsUGpTNnQtNE9sdWg5eUxjc3UyT3NFdDlWbUltbjZ0LXI2Mk1UX3hNbkg1NTE0SzY4cVNJeGsyR0FLVnh5T1JSQw?oc=5
-- **Source:** PR Newswire
-- **Published:** 2026-09-30T04:01:00+00:00
-
-## King Charles’ alma mater picks Wakayama for 1st school abroad - 朝日新聞
-
-- **URL:** https://news.google.com/rss/articles/CBMiXkFVX3lxTE1VNTZRc0VaRTVqUDlVUXZEU1JHU3B5Y21LS0V2N29YN3U0XzF0dzFPcnBXR19oTUdub3pEQTZqSXp5UzFxUDlWZTcwNDZnazFPamdlVWE5d1pVTWQ0c1E?oc=5
-- **Source:** 朝日新聞
-- **Published:** 2026-09-30T03:19:57+00:00
-
-## China fuels rush to turn AI video into an industry - 朝日新聞
-
-- **URL:** https://news.google.com/rss/articles/CBMiXkFVX3lxTE1mb0ZHanE2QnhPRHFhWmpUa0ZvejRvdDFzd2J0ZVJ2NFB5U3o1NjY5eXk0MzJMblhmWm9BVkJnYk92XzB6Zm1uUGR6VzRjRzlGUXVXS3NidjFZdjVpeWc?oc=5
-- **Source:** 朝日新聞
-- **Published:** 2026-09-30T03:17:06+00:00
-
-## ITER vacuum vessel exempted from fission-based regulation - American Nuclear Society -- ANS
-
-- **URL:** https://news.google.com/rss/articles/CBMimwFBVV95cUxOTm5oeGVqWnF0VFdQenpuTTdEa2E3OWpva1AzZExHcUNpd3dtanFjZjBZVUw5MGdRaWM2aC1MTTF4SGo5aHBPblRmTDlhMnc3ZkM4Rko3c0JVTmJFdjNUNGFhb1k2TDhCaVk4ZG1OZFV5SnhWT1gtUDV3SmprQ1lWZGRnU2g4WUxnT3VCSmJpRjVVRXg3V3BPM1kxRQ?oc=5
-- **Source:** American Nuclear Society -- ANS
-- **Published:** 2026-09-30T03:16:55+00:00
-
-## Government to Invest 4 Trillion Won in Seven Key Future Technologies Next Year... Over 200 Trillion Won in R&D Over 5 Years - 아시아경제
-
-- **URL:** https://news.google.com/rss/articles/CBMib0FVX3lxTE5ySS1BelV1aTdhQURDX015Rms1RWZiQm1WNDNSUjU0YnIwWkVOWnFyc1hfcVJqbHZycUxzdkRKWFhjcll2bEJCc3VHYUZNM0pTNzJKX3NWRGVpQ3BFeGRQb252b19ndW5MdDE4YUZZTQ?oc=5
-- **Source:** 아시아경제
-- **Published:** 2026-09-30T03:00:00+00:00
-
-## China reaches 100 million hydrogen-boron fusion reactions per second - Interesting Engineering
-
-- **URL:** https://news.google.com/rss/articles/CBMiwgFBVV95cUxNck5ZVXY5TFZubk5FQ2Y3ZkpITlF1YzZKMjVRcFZQWFJ0S3FRdGVZQUtpY3RFa19OaEJPb2pGYUZjQm15SWw2TDk4MEJhNU5IMHJyMkRjY2F5UUVJWF9ULU1WM0h4QXgwYUUxM2p4d25fRmJ4QjRNWVpqTE9aUHRFeEgyVHdhVjhSaUpqWmJ4a05Sc2lOQ243UnZWMHJ4NjVSOUdLVzNjSjByM0ZVWjNHTnV3UktoYlQyRFg1ZklsLXBwdw?oc=5
-- **Source:** Interesting Engineering
-- **Published:** 2026-09-30T01:02:00+00:00
-
-## Fusion-built gyrotron to blast rock for deep geothermal energy - Interesting Engineering
-
-- **URL:** https://news.google.com/rss/articles/CBMimAFBVV95cUxOR3VmbmtMSEJsY005dDJrNUNUYldVTFNjNjVKRGMzaS1UYVE4a1V1cFlZN3g0anR3d3ZoNHMwVzBJVUF6X21ZekpmekYxYWpqVHpkb0YxVVd5eUVWeGY0QTJvWTl2Y3dOVWhleEktcE9aWTVaLWw4WjEzMkZNV29mZ2sxcmx3aEtlTlVCYkN5NlBoR0VoeXgycg?oc=5
-- **Source:** Interesting Engineering
-- **Published:** 2026-09-29T22:38:00+00:00
-
-## See inside ORNL's new Translational Research Capability - knoxnews.com
-
-- **URL:** https://news.google.com/rss/articles/CBMiwgFBVV95cUxPa1oySEg4eDZIVHpISl9jTi1UeHA5Mmd3ZGpfV1lNcEdSdS1rNjRSMm9WWUxsd29PNDNvZVNVblowQ0pTdmJYZ2o5NGZVQlBKbFVCWEoxVFdNUEQxSVpCM1czdGkyZXBMX1o1X2hHcDMtcGJXZk5Bck45cXlfSG9KVHZoZ25raDFrZFFIemxTY1ZkNHgyMFRGV1RpTzdjc1lGZ09JMkwwbWU2YlhTLVRUNHFWQlM1YWt5VWRCSUxYY3gtdw?oc=5
-- **Source:** knoxnews.com
-- **Published:** 2026-09-29T20:08:00+00:00
-
-## Geothermal Start-Up Quaise Taps Fusion Firm for Next-Gen Tech - Energy Intelligence
-
-- **URL:** https://news.google.com/rss/articles/CBMickFVX3lxTE9pVzdYQkRNMFJyMjNEQTMzbEdCRHBON3lDTmxtRVNCVFBWUWkwZUYyMXp3Ukt0Y3ZXX1JJWUE1YXY4RWluVWt6ZVhYZFRkZDlQeHpGTVRSQnJ1VDEtVER0aG5LS2pCZ1BiVXU0eUVaQmZsUQ?oc=5
-- **Source:** Energy Intelligence
-- **Published:** 2026-09-29T19:37:00+00:00
-
-## OpenStar Technologies, PPPL Partner to Advance Fusion Energy - Mirage News
-
-- **URL:** https://news.google.com/rss/articles/CBMiiAFBVV95cUxOV2lKendmX2p1UXB2UTNROVNTcVg5elZfa1BVU0hUUEo0dkdnbm1nX29RM3Z1cmRlR0pZSE5PR2FjNk04a0hPYzdsc21GbDNRVlhGcHFWcmlyaWZ1UU45T1MzbjNfc01iVTBwbWw1Zk5kWmwxQWlLUHMxYXQ1dTlaYXdNVGJtdmxT?oc=5
-- **Source:** Mirage News
-- **Published:** 2026-09-29T18:36:00+00:00
-
-## $4M funding backs plasma systems designed to work across different fusion reactors - Interesting Engineering
-
-- **URL:** https://news.google.com/rss/articles/CBMikwFBVV95cUxPcEJYZ1FOc3dKbkJpU1pWWFQ5bUZQS2VrUm92YVFadUNWRDlWaEdySTR1OU00Y0M0d2NSN242V1NmaEJpNDBnWW5BY0c1dWhHOTRvMlMyc2ZuNGhvS1ZQZmQxQzIzVXVnNTZkY2N4bFBSNk8xbmtKaFBCeXRUR1dZbm1YdTZUWTByRFVxbWJuYS1STE0?oc=5
-- **Source:** Interesting Engineering
-- **Published:** 2026-09-29T18:34:00+00:00
-
-## Japan's fusion energy startup to begin power-on tests at pilot reactor in 2027 - channelnewsasia.com
-
-- **URL:** https://news.google.com/rss/articles/CBMiuAFBVV95cUxOWFRlRE1kOWZ4ZWVJNlNuM2s1Vy01SXIzSFk1SjdyZC1GUm0wTTE4d1B2MXl1S1A0NnBGWEQ4cVFsNjNMUUt2WXd5MkNZTk5iS2pZcjlFQ2xNTWR1allxNTNrRzRYZzBBNUlpYUVQd3REOEFUQjFDZTRNUG83dENqTHk2cDJveTBTamdWSDNVQmZmYzRDTGU4b0M3VnVnZzVKTGdnT0lBWkQwTUFQRHB3VkVzWkY4c2pk?oc=5
-- **Source:** channelnewsasia.com
-- **Published:** 2026-09-29T16:12:35+00:00
-
-## Kyoto Fusioneering to Supply Gyrotron System to Quaise Energy for Superhot Geothermal Drilling - The Joplin Globe
-
-- **URL:** https://news.google.com/rss/articles/CBMiowJBVV95cUxPc2lJS0I1Q3RTeDVFYXZNNDNnOTFZTzhpN3NTaVRnYTM1Sm1BWHdMYldzaFh0SlZZQ1d1bC1GWEtqV2ppS01IWk5BdE5Nd1NZV3hYZzdZSEU5OFU0eUlqNEZXZHpZTF8yZThCUnEwYnVZU0VrWWs0TWlyOWRSWms4NGFxeFAxZkpSYjVVNDNWMjJ3NDZncVNsRkxTem93YzRiemtxYnl4VlQ2QVdiYWNkVUpWb0VFLTZ1bm5mQ1M2WVg3Z2hCazRHaU9vU0xkeEw2RHhQV21mOWtKRFNnVnREV1c2T0VxY2JVUWJ6RjBlRmRyd1VkX2Ntc2tnY2s1ekRTeFBJdjhWWndQMDRBTEVRaFp2bVMxbWQwS2tMdkd6WlliV00?oc=5
-- **Source:** The Joplin Globe
-- **Published:** 2026-09-29T14:02:46+00:00
-
-## Ex-General Fusion employee raises $4 million USD for fusion diagnostics startup Daedal - BetaKit
-
-- **URL:** https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMmg0bjZQdGo4WlhGSF91MXEta2tOLTdrTnlvMUpyaDhZNm9nMTl6SWFFeFhOSzl2akJTOVJmeU9odHZRTXRqYm45TE9mRnZ4MFdGVGN2dVJjOFdJMjVaZ3Jab2pQb0lteF83WjJLUnlfSXZGaEtYUE1uaUJKZU1RYmxqVm9mT0FfTlVPS2FBdnhVSnZaRjFkWG84TXFCUmprNHdVbGd3ZzlqUQ?oc=5
-- **Source:** BetaKit
-- **Published:** 2026-09-29T14:02:15+00:00
-
-## Kyoto Fusioneering to Supply Gyrotron System to Quaise Energy for Superhot Geothermal Drilling - Business Wire
-
-- **URL:** https://news.google.com/rss/articles/CBMi5gFBVV95cUxQcWdVSkRUOEVXTTN4QUdvZk43UFh6S2laYTdlQlFLM0ZGLWwyU3hXdV90bFREYUMycFpaV29oRTBCaTRaSHlMSXpIYi1MdFIyQU1KeEpqdUtqcG5TVEZ4cW9zZ01ZdmE1aFBpdjNGWFZiVGhCd0o0NlpKYjFYSkNvcVpidE5xVWdfZDg5NkFqZXhhWUlNNXN5WnN5VkNfMVpsTmxQc2JYaXpnekRSeFJvV2lEZmI4Z1NpdWZjSVprZk00RTl1czVSdm1XeFR5dDNKUDloZ1BvNk5xd0ctUXJkamUwTUZjZw?oc=5
-- **Source:** Business Wire
-- **Published:** 2026-09-29T14:00:00+00:00
-
-## American Fusion Outlines Texatron Plasma Compression and Confinement Approach for Fusion Testing - Yahoo Finance
-
-- **URL:** https://news.google.com/rss/articles/CBMingFBVV95cUxNY05Ka290aWRIamQwUlB3UnZlY0dvcnhZVnhicVZoaGd4OGJDa2g2QlFBUWljaGM4SVdoRVVOOTlwUnNqTjk1NlZ1dzI1MlYyMWtGbndJNnNOakpxemlTUVkyM1Etb1B6aXQ0ZllFcXROdm93MzlBYzJSZzhVVDJhUERYeEI4TENzcHVkQnk0REJmVEVBQ3pEVTdLTm0xQQ?oc=5
-- **Source:** Yahoo Finance
-- **Published:** 2026-09-29T13:58:44+00:00
-
-## UK Commits $3.3 Billion to Build Commercial Fusion Energy Industry - ESG News
-
-- **URL:** https://news.google.com/rss/articles/CBMijwFBVV95cUxQYi1nN0tUa185X1Rhd2FDUXNlaWV1aHV3d1hIM3lfZG9wYk5hZnB0bWxWMGxZeHV2VFpnWDZuZEUzd2tBc19ZU1F1VG1rOFpLLXg4WFE0WUV5bWhteHkxUVNGV1JrNUlhelVmNUxid1lmaHJWSU45VVBzXzZlcFdsZ3d2NlV0TGxyNDdBSzZJdw?oc=5
-- **Source:** ESG News
-- **Published:** 2026-09-29T13:45:46+00:00
-
-## Helical Fusion plans fusion reactor tests in 2027 — Cyprus Mail - UA.NEWS
-
-- **URL:** https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTVQ3a0haSjlUT1MwalBoWW5rb0lWdEh3NXRMc0FQYlFiYS12czJOQVljckZDUkszMkt2RERVRVV1WTlRbFc0RlcwbjE4WHJmQ0pXeG5iWFJ1M3B1NTlFM2ZPRW1pd3Fmd1BLcDllOUZuak03ak42aWFnMDREcGJBRUZleTRkNnpsRlFNZFlpMlZyNEJlM0JQeVFDRG5LUHhuaU9aWk9wZW5vQ1E?oc=5
-- **Source:** UA.NEWS
-- **Published:** 2026-09-29T13:41:05+00:00
-
-## Helical Fusion targets 2027 tests at Japanese pilot fusion reactor - Cyprus Inform
-
-- **URL:** https://news.google.com/rss/articles/CBMipAFBVV95cUxQWTJveExPNF9RNVM0dUlfNDRBdFc4bjN3ZUZwX2lma08yV25yQVJTbENvT2J0M0dlMWZET2c5SWI2cUg3ZENsWmxTeUxzY0ZBOXlYNHl4RkExV0VocFlNSjY3aEFCWXhtQ3RWRUM0SWs3SUE0RlhVRVNRZTB5bE5CdjRoX1dwV2NLLXFzNGhUVHRqTTFqbHNtc1F2SEVhVnRUdmFNQQ?oc=5
-- **Source:** Cyprus Inform
-- **Published:** 2026-09-29T13:38:10+00:00
-
-## NSF advances plan to build world’s most powerful laser - UC Irvine News
-
-- **URL:** https://news.google.com/rss/articles/CBMijwFBVV95cUxQQXZnc0FLRjc1Y0E4ZjhSNWloM0tiUDVYaGVMY0d2cDhBQlBNek4xbWpwQ2FYRWhwOE5ZQjgxU3RHWGs0U2hqWHVZWlRmcGU5T3ZybGV0NWk0TmFLVWxCeVlITDNXWDZDVm1GYW5xZDlTX2dneWMzZEt3UXdGcmVBOFFXVEJhajNGcEZLRFRmVQ?oc=5
-- **Source:** UC Irvine News
-- **Published:** 2026-09-29T13:35:17+00:00
