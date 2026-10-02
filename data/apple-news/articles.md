@@ -1,8 +1,32 @@
 # NewsWatch — Apple News
 
-_Last updated: 2026-10-02T10:20:44.339790+00:00 · 50 articles_
+_Last updated: 2026-10-02T17:34:15.628368+00:00 · 50 articles_
 
 ---
+
+## Apple stock after-hours at EUR 296.48: plus 1.00 percent versus prior close - AD HOC NEWS
+
+- **URL:** https://news.google.com/rss/articles/CBMixgFBVV95cUxQcmx3T1FoTUk5UGpIUldLSmpDcFdHUVg1NVhXeC1tUEl6SXdiaUdWOVV0R2x2QXA1RDRTdWZXLW5WcFhwNmc5NG5salhKRzhkVWtreExjTWtabU4tLWIxZ2RPMXNCSlhwNWlmSDFqNy1tRmNLbmJMUUJPVTczbXpDVGRDTGJIQ2ZGSHVjdDV1SVZmUk9FRmlhQnppWmFJeWxYMk9ja2J0aHY0bEtCUWVOOG5LRmxybjFWaFhFMjYtd0JfbXNYZlE?oc=5
+- **Source:** AD HOC NEWS
+- **Published:** 2026-10-02T17:03:09+00:00
+
+## Morgan Stanley Lowers Apple Price Target to 355 on iPhone Pricing - RS Web Solutions
+
+- **URL:** https://news.google.com/rss/articles/CBMixAFBVV95cUxQakQ0N21IbVh6NnpUTnVva2pzeGdicDZrRDktODd2QWQtSVZJMlR2UjRBSGJEdmVPZVVhVWpLRVE4MmFFOEk0S2dUUTZ4Q3BkMlJlMFpHWld1aHlJM2RsdWh4VUs2MVFLS0FrU3RWTDNpRzkzcnBKbEZCX1JpU2VyWGVST200ZlZ2dWUxLTBEenJpMk9GUmpqOHB2YTgwWEQ5MXIxenVHSTdIYlU4NFc1VXhiWkoxVzV4WWRwN1BNU0pDZUFM?oc=5
+- **Source:** RS Web Solutions
+- **Published:** 2026-10-02T15:00:00+00:00
+
+## Morgan Stanley cuts target for Apple stock to USD 355.00 - AD HOC NEWS
+
+- **URL:** https://news.google.com/rss/articles/CBMiuwFBVV95cUxOaUVka1lYcXF4aTFBWk91UHhYTGhzdGoxV0NwZUtPUDl6ZmNDTmtuQ0RuX1RNak0tblRGRkZCNkVUckJpRThnVkI4TWFRYzJzT2EwcEZxRzVIZ2ZDLWwwX3dsYXVGTVp1OEVKUG5pRndLYmdqbmtQUzZObC1MbGR2VmlRYmRYQmdyTkx1UTByajFpemhnaDFFM2kxMmxUbFhLc3RnVlUwaENwcG5LekdUbDBCYkMyMFd5bWQw?oc=5
+- **Source:** AD HOC NEWS
+- **Published:** 2026-10-02T13:32:37+00:00
+
+## Apple Inc. (AAPL) Is a Trending Stock: Facts to Know Before Betting on It - Yahoo! Finance Canada
+
+- **URL:** https://news.google.com/rss/articles/CBMihAFBVV95cUxQTTZOR2lIN0JJNVZ0dTVKVmVTZDRRMjVWbThYc2lnRzVHd1A3OTlCeFllYm0yOTV0WElfNGVYcGdVUXo3S0VNYUdRdHgwN2dnazBoTVVURkRzNS0wLXhUc0IwR05fMXJJMF9hQXUwZWFLQ0tvOEtnY2czbnREbHlNb3ptUVc?oc=5
+- **Source:** Yahoo! Finance Canada
+- **Published:** 2026-10-02T12:00:03+00:00
 
 ## Apple Inc. $AAPL Shares Sold by ICONIQ Capital LLC - MarketBeat
 
@@ -279,27 +303,3 @@ _Last updated: 2026-10-02T10:20:44.339790+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMi_AFBVV95cUxPUmRJQXRsSUk4WFZHSEJNY2xMNm5DbnkxR2NWcDhyOTFDeUNuLW44NzJuYnVrVzVtWTJ0STJzT1FKbnFEdDBndUQ3ekJqMWxsY0xJUklTb29VNjJmVUFVSkhRVHhVMW1BdmdqMU9yZ0RLbU8zVE1obUZibGVrT1BpbDJHdWUxVURKaTdaR1JmOERudGJ2MTJzWE1KM3ppRENCMGptTV9hZlZWOTlvam13S1dpeFF2SDZWQm5VRUpZbnY0V1RFNGJsVXVJaWxJTElid2duazQzdWdiUno5ZWN6ejdmNVpoUDZ0MHpNUGExY1c0YUtlVk9fQmZ0Tkg?oc=5
 - **Source:** MarketBeat
 - **Published:** 2026-10-01T07:34:22+00:00
-
-## 7,800 Shares in Apple Inc. $AAPL Bought by SPX Gestao de Recursos Ltda - MarketBeat
-
-- **URL:** https://news.google.com/rss/articles/CBMixwFBVV95cUxOZ1FWVXhYMzFUbW1wdldjNFRpQVE0d0Z5ZjFwMU5fY1ltSnoyQTZRS05JYUpVUHJON3ZfTUZTRHkxUEQyQ1R0cGpTMXJqWXVkSkFnSFZjZXhpSF92bjhjSjhXMVBRcW9GTmtaSHM4S3dGSjNjQ0ZiaHVsWWhmZkdnSXkxTndnbVEwYkFCWW9fVllXeDlvRkM3SXZtSnF3Vnc0alE4LUpwNzBERUpybWtjcjFxR2RwMWM1UkwtMnpPVnNXS2ZkSkpR?oc=5
-- **Source:** MarketBeat
-- **Published:** 2026-10-01T07:34:21+00:00
-
-## Apple Inc. $AAPL Stock Acquired by Royal London Asset Management Ltd. - MarketBeat
-
-- **URL:** https://news.google.com/rss/articles/CBMixgFBVV95cUxPdlJocm0tY3R5LVdjS3c0T0RPZ3dKSVlfX0Y4SnJyX1FNQjh4QkFsQk5zN3hlLUxVbU5mLXhhSXVkTlNGaG9uNEJ5N3NsaHhVQUdZdEEtbjZjWGVLR2pvbFA3MFhOTDlqS3poZ1ZsaVdqTHVOTV8wb2JHeDBXc3BKV1NVb1ptNzRoc21XdFMyTFdOVy1PLS1MVi1XWjlJUVQwc2I1M3Y5V1N4NmlWWHJZR0NvaVlpVzFfdUNVNUtGazRwTUFmSGc?oc=5
-- **Source:** MarketBeat
-- **Published:** 2026-10-01T07:34:21+00:00
-
-## 8,537 Apple Inc. $AAPL Shares Acquired by Roffman Miller Associates Inc. PA - MarketBeat
-
-- **URL:** https://news.google.com/rss/articles/CBMizAFBVV95cUxOTy01eXAtRk5oM3BOOHVYVXNXZFpJeHRqdElqTV9KMkFuVTVROWRuMEtTWFB4X3hiQjRtb2lQSmpzcXgxTFIxdFBlZTVtTGFzR08wbjlHVUVYdjhEMkstdGhzLUN5bXROOUMwUnp2eWYzWE9HWGw1REt5WmVEQ09tMUhSbGZ6VExfTldtRUw3cklBSk1SMl9MeDhhVE51ZjNrWFVuZXRDVjNuX19vYzBkaThxYk5wRHRqVmJUaEtzd2xuS2RVc1RWY2luVGI?oc=5
-- **Source:** MarketBeat
-- **Published:** 2026-10-01T07:34:21+00:00
-
-## Vermillion & White Wealth Management Group LLC Makes New $2 Million Investment in Apple Inc. $AAPL - MarketBeat
-
-- **URL:** https://news.google.com/rss/articles/CBMi6gFBVV95cUxOZy1KUVg3eUVubHB6T20xRkg3NkR0ODR0TmtvNWpaUGw5c1Y0dDN5YWpXRkVUZ3A3UjBFTHJFVWw5SHpFdUNFNWFiR1N6MFhTcTJBa1Q1dFMzU2FvRkhOSU9lVW5UUGpjTDJsdUNVemNlRE92NVFBQXBxdUwzQlpGY2NsbWZqR2k4cVFiWkF0a1R2eWZqYlhrZnJDaURzdGpiTnc2ZnBSdjQ5dElZR3B6SXc4aHhVb3drU3JsckpveVRuSGFHM19TX3hySTZTbDYzSnNValVUc1ZJaDhGUmRjRXZqLTB6YXZNcmc?oc=5
-- **Source:** MarketBeat
-- **Published:** 2026-10-01T07:34:21+00:00

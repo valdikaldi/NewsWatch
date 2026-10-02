@@ -1,8 +1,122 @@
 # NewsWatch — Iceland News
 
-_Last updated: 2026-10-02T10:20:45.439077+00:00 · 50 articles_
+_Last updated: 2026-10-02T17:34:19.490338+00:00 · 50 articles_
 
 ---
+
+## I Traveled Iceland with a Paper Map Instead of My Phone’s GPS — It Was the Most Fun I’ve Had in Years - AOL.com
+
+- **URL:** https://news.google.com/rss/articles/CBMihAFBVV95cUxNUVdvSlFWbVk0ZHdiWFhTRVQzdTc1OXF6MzZYRXlPemo4ZG94aENLSDVaaWJBZG1YQy1LWUZOb1E2LVVpOWZMRWV2SXdzWGFySjhZQk9xVVhYRjJSUkdzbDRyQ3JKa3ZON2U4aDFpc1lvaXBtaWVqNE9tN09fTFpEeng1NEY?oc=5
+- **Source:** AOL.com
+- **Published:** 2026-10-02T17:00:00+00:00
+
+## Iceland to Broach Defense Cooperation as Rubio Visits Next Week - Bloomberg.com
+
+- **URL:** https://news.google.com/rss/articles/CBMitAFBVV95cUxNeFI5Y2Y4dHFzSjVXendRWXBUU09INW9hNVdkNjFxeVNMX1NIUFpUN0l2U1JtMVY4RjMyeTkxYzdTZlh0cnNwdmp3OUVQYkUzZFdPa1BrRnh2THF3b01NdTJES0IwU0s5TkdqaFF3dW13cHMycFg1ck9YRW9BV1prOVo2Q1lUOWJwV3BRbWE1YUJNT0pSM0UyLVE0Q3lvUnR6NkVUbDE5amtaNzlfbzFXZDZvQ3A?oc=5
+- **Source:** Bloomberg.com
+- **Published:** 2026-10-02T16:54:10+00:00
+
+## Iceland director fired after husband joined rival supermarket was unfairly dismissed, tribunal rules - People Management magazine
+
+- **URL:** https://news.google.com/rss/articles/CBMi1wFBVV95cUxQXzB6bDBOXzJMUl9wZmwtZGJkRjBRNG5mZ1hha2JKVHozY1FXR253d1pMQjU2V19ERTdDeF9pSXduUVhKeDExaXB6dS1jWHFlOGZGZU1ZQ2VHQV9jNFRma182ZTMxTmFVYlk4M1dQRWtjbVl5cmdsWERzRzhrbi1TODRQTy1EVVpGUXlMWVhTLUdYSnJGWER6V19yNnlYZDJKanNtaVhjbG41R19PaHI1cU9YSzQzZTZaSXVycldaZHFnb3NxSFlRaUhTdkU2Y0tkWjFGZXdvSQ?oc=5
+- **Source:** People Management magazine
+- **Published:** 2026-10-02T16:03:37+00:00
+
+## Iceland announces new rapid online delivery service - Retail Times
+
+- **URL:** https://news.google.com/rss/articles/CBMihAFBVV95cUxPSHgtRkxHbEJyN25SN3NoOHBCVnpFTlpuUml1SmxlQVJja1h0LVozeTR2dmJLYm1GT2hNc21YTWg4SjVrbDdocUV0ai1hNnJBbWZEMFBMNTdpbW1IQm5fbS0xYU5ROXBicV9EVkxpLVRGZWJ1QjJEQ05faW4wckprRXFxMUk?oc=5
+- **Source:** Retail Times
+- **Published:** 2026-10-02T15:42:50+00:00
+
+## Travel Bites 905: Iceland’s Westman - Connecticut Public
+
+- **URL:** https://news.google.com/rss/articles/CBMimwFBVV95cUxQZjREUlRHTnNNRXFpaldYaVBBQ21ycm1ZNk1KdVFoanV6djRXOTRZTExoTnlWRmx5VWR3X0p0Si1IR3VBWFVaelpZZG03RUhVZndwRUVGQXdXckF5YWt1RmtiOHNEVDU2MFJJZUN2WkNNZzVNUV9TQXVmd3RKUmFvVHlxdkR5MXFDQTV3UGtVNzRnUmdCeDRFZ2FFWQ?oc=5
+- **Source:** Connecticut Public
+- **Published:** 2026-10-02T15:32:42+00:00
+
+## “They are adding fuel to the fire” - Iceland Monitor
+
+- **URL:** https://news.google.com/rss/articles/CBMijAFBVV95cUxNMDlBUENsMXk5alItaDF3UTBWbUk5MEFtekRmb2xqMV9nQ2dJU2Q0cW9DUGVJZjNEVHo4WnZoVzJOdDhMSG9MQW5wdTAtbjdUUDZJR3lIaTBuOWxQX0lJMWswRUFLUTRYQ2Z5aWNlRGd0Qm9URkxIWmN4dGRBX3hXczhqdXlOVzQ1Vks5Rg?oc=5
+- **Source:** Iceland Monitor
+- **Published:** 2026-10-02T15:00:00+00:00
+
+## Halldór Smári Sigurdsson - Transfermarkt
+
+- **URL:** https://news.google.com/rss/articles/CBMi2wFBVV95cUxPQnpMQXJOc0kxYjNIRFM2NE1WX282ZGZpVEh3cGlXdU5laENxaldocnJxZlBRM0JQVHVjM2w2b3Y4bktYTHRpMjZMSzR5U1Y5WjRtNmZJaFVJNWxybW5HYWhhbVp3QU0wczJ5aWxkUUxQdkZOVVl4aVd2Y2l6WHp5cEdxYXl6TWpPLTNMZFFQX2pwM3V0UU16N1hvbS1rQTFteDJweWhyZWZQQTRZRWdBZnBTSDdjdmgxeDlfVW5uMmNxT1c5M21aRUZTUFlENldQRjhVek9EVG55eUU?oc=5
+- **Source:** Transfermarkt
+- **Published:** 2026-10-02T14:22:35+00:00
+
+## Iceland - Bulgaria: betting tip (cf 2.20) and bets on the Nations League match on October 3, 2026 - Liontips
+
+- **URL:** https://news.google.com/rss/articles/CBMizAFBVV95cUxPX3VaSzNPTTF1czk0bzIyOTlpOWFEdlFHc0t2WVQ3R3RMOWxUb3lldmFaekdrdVF6OGpvOGlzMTZrTG9JdWZwUFU0ZjBieHpQdXY5T3FnRjNKQnlYeG5ZUXNPWXNxZUZmY1M1VDZhbDR1QXNJd0lkVy1TQ2RManpKN085SG9rUG9Ecm9Gc0hNb1NGSWFyY0hfV1h5bDZDSGs0eU95UVVmaUwzc1VBNWw2OGpNbkV0NE12dHBlbnJrWGRmdkxsZW13aFowMzg?oc=5
+- **Source:** Liontips
+- **Published:** 2026-10-02T14:15:07+00:00
+
+## Iceland makes major change to delivery service — starts October 5 - Daily Express
+
+- **URL:** https://news.google.com/rss/articles/CBMijgFBVV95cUxQX3c2di0xNmU0Tllra3c0bUdCYVNEa3VZN3hfODJtanJPVE1VdUZ2LTNVNlg0VDExbEZtc05NckZEOXpYOHQwRG9EUDA5aXU5M3JtRVdQel9CQ2ZjakN5SDNsMmpoQVJtV1hNTGdUSzN1QmpHR09vTUg3cnFFbl9EbW5YbEdEWUJYeEpKRGln0gGTAUFVX3lxTE1JYzJzeWZYVnRkSlZ1YnV1bVk0UXdTdTNxb3VyLTBXdjl5WHM2czFDRl9JOUZvVlhHRUlGbE1yZ1hfMm5waEV2LVdOcHcwbUJ4eU0wRWdvNWhJVFdFamZrQmhBX1BoYlNuWkl4Sm45T3JMNkdkcFFHaEJjRzR0LTducmdTOVpDZm1vQXZFdGFBdmhBNA?oc=5
+- **Source:** Daily Express
+- **Published:** 2026-10-02T13:50:00+00:00
+
+## What I Packed for International Trip With Carry on and Personal Item - Business Insider
+
+- **URL:** https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZmVpeGxEdjB0QkJfUXdNWDFMNkZhSXdmbjVxOVRMMDdzVzNraGdVaFNPVVZUY3lCWTBCTnhzaHFKcVRPNTlaeThtYng4bDJ1eU1jaElqZ2NkU1BXdG5tNHd2NC1YSUxITGZOX3hLQlNrSWNKZjVnVFJCTEVsdlJNVjVXTXNSZG1IbUszQlJaM2hRMnRXLWFDRDhQWTVwSlY3ZnFXMTN1YWc?oc=5
+- **Source:** Business Insider
+- **Published:** 2026-10-02T13:37:27+00:00
+
+## Iceland Explains Proposed School Grades on a Four-to-Ten Scale - Iceland Review
+
+- **URL:** https://news.google.com/rss/articles/CBMikAFBVV95cUxPeS1NLTFuZ3puc2xYd3VqOTl1S2Fvakw0bW9uNk16a2EwNzhIN1N3a0swSTVrSTd3M2NIN1l4bHNPaW9zWlBUV3Q5Y3pBOXBfMFY4SHV0dGR3ajdkQmdVTVVDcXdFZXVwb051eWVkbUNtQld5Y0daSVpuMmVrN2kyaDJTV212anc4dXFIUEdJUHg?oc=5
+- **Source:** Iceland Review
+- **Published:** 2026-10-02T13:30:13+00:00
+
+## Iceland v Bulgaria Odds - FanDuel Sportsbook
+
+- **URL:** https://news.google.com/rss/articles/CBMijgFBVV95cUxPRVgwYkU3c1EybEdIb2c4WloyNmFOdFo4azRGRmZJZksydnRRZ1JUb21kS19QLWFMbExwSWhobVF6NXdlOGpDS2d5dHdnLVd0ZDQyM19UM1hoZnYyM3hZUFo1XzE2MEJHNGlZbjJxRnZ1bVJLc1hrWi1qcXFzdlBaeXZxUXVLT2NhUzV1Vnp3?oc=5
+- **Source:** FanDuel Sportsbook
+- **Published:** 2026-10-02T13:11:29+00:00
+
+## The Buildings Before Iceland Was Settled - The Reykjavík Grapevine
+
+- **URL:** https://news.google.com/rss/articles/CBMirAFBVV95cUxQaXlpUlNqVldaQklSNGZWdWhRME5Wczh5QmF5Tlc3dUhDdk1YLWU2eGQyYU9zSFRZRnFVTjNCUmdQZndweTBCX2Z6SWxJeFltV2YtOXBDajFRWlc0TmFDb1B5Y2VmOC1ZbzFJQUZ2S0FaMUt3RkpSMDdrN0YxdzBvWlJsdVpYZ0pDSkJRay1vM00tX3cyTnl5TG5hYzJuS1VRejdhVlBRd2c1TUMy?oc=5
+- **Source:** The Reykjavík Grapevine
+- **Published:** 2026-10-02T12:46:48+00:00
+
+## Not Energy, But Power: why Geothermal Energy Benefits Everyone in Iceland but not Kenya - African Arguments
+
+- **URL:** https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSV9fNHhSRFJLNU1qOHNGN2FGVWFWMkwtX21JdDlaTVkyYUZpaWQ0b1M2T1FueDR2YXZub0NjeWp5SnRjeFpwQjhRZV9DazRlMXZjR1lmT2xmaUdqRXlmNWRDVUNFeTFVVE44U0FVZGMwMjA2bWFGcUtCWWtkUVd2SjdnOVA2RGRCNEVrRGtxbmpNYkt4N1ZxcmlBc01jVU9naDlfRlNXZlc3bXE1a3ZJMDRVUWhhaVgyNnUzZFduQ0c?oc=5
+- **Source:** African Arguments
+- **Published:** 2026-10-02T12:39:29+00:00
+
+## Grímsey Documentary Eyríki Opens in Reykjavík on 6 October - Iceland Review
+
+- **URL:** https://news.google.com/rss/articles/CBMikAFBVV95cUxQd1V0aUVYb183Qk1MWDVQMmV0VjlJRnd2c081QXhIZjJMZHlUUnkxYmdzUEMzQlExemR3bEcxZTRLanFVQ3l6Tm1vNDUtcmw2NTNvNGswUlNPRjRtUXJkTTZsaW5DR2xLSThxV253WV9YU1RCX1FPX2J2VEhTalRpT0lVTGdtZ2NPZWYzajBIa04?oc=5
+- **Source:** Iceland Review
+- **Published:** 2026-10-02T12:00:30+00:00
+
+## Ming Ting: “I couldn’t kill myself” - mbl.is
+
+- **URL:** https://news.google.com/rss/articles/CBMiggFBVV95cUxQTlZIdy1wVDdlY3lwRTlNRV9LZlZPX1JZWmEyTjRqOU8tR1E5TFgzdUZqZVpfRjFwQTVLSEs1UnhESWZMenp6eUh2TW9mSFRfeHdYNWJ3enI0c1hJcW1GeG95eGZIUnBiNDgwU3JlVkVfRUxCYTZVRnRoVmFUQnpBcGZR?oc=5
+- **Source:** mbl.is
+- **Published:** 2026-10-02T12:00:00+00:00
+
+## Phones sold in Iceland to undergo 112 support testing - Telecompaper
+
+- **URL:** https://news.google.com/rss/articles/CBMinAFBVV95cUxNODhTWTlld0ptdm5pdDZFaTgwR25DR0hpb3ZScnJNMlh5enFjQVBuTXBsRVBlbTRKQXBySXNKdGU4WE54LTI4dDktTWxVaXZ3WFZUcks3SnFicjVDc2xzeXE1Q05rMVpvNE1FYW9BZE5WaXk0cjM4YmhHMzhFSXl5M2g1azc1eTI0dTE3UkNuMzNGUXFQQ0ptTC14THU?oc=5
+- **Source:** Telecompaper
+- **Published:** 2026-10-02T11:48:04+00:00
+
+## Met Office Expands Landslide Warning After Flood Reports - Iceland Review
+
+- **URL:** https://news.google.com/rss/articles/CBMiogFBVV95cUxPOFNldlduM3dadXRKLTNnNmhQUTlGdW4yX0VRZzNIUHNsOXI5eERybWNNbUZQbWlxS1FiekVBQUZFRVlQNExiOVM1NG1rM3J5U2ItNTBCQ2tsclJHa211cjlNWHNQaGdhT0tzOG14ODg3QzNhd1JzTENWOElyMjFvQVA5MEpORl9EaFhBTkxTVXVrWWFUaDlBM1RaZ3NLV3dST0E?oc=5
+- **Source:** Iceland Review
+- **Published:** 2026-10-02T11:30:13+00:00
+
+## Iceland Proposes Six-Year Wait for Permanent Residence - Iceland Review
+
+- **URL:** https://news.google.com/rss/articles/CBMikAFBVV95cUxOaUp5dXFzRFhGU1pZQlJ3LUw0eGtzcnRBRk1lNG5OWVJYZkg0a1JVeE5RNWxTNFNfbG1BTWlqd3RVU3hRaTZYN08yVUlHdE1FbE5DNHA0M2p6ckhkZEh2OVNERi1keTA5WldKRDAwUktvVjcwakx6OWh2SlE5ck1XMUV4OHhjQmd5Wk51TklSQVg?oc=5
+- **Source:** Iceland Review
+- **Published:** 2026-10-02T10:30:03+00:00
 
 ## Sjónvarp Símans Premium tops streaming survey - Iceland Monitor
 
@@ -189,117 +303,3 @@ _Last updated: 2026-10-02T10:20:45.439077+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMi2AFBVV95cUxQZjVjbWFCajdVcHZVMk1sN2ZPTXJvaFRnSXZEQkExNVZydU5vWjFjOHZDQ2tua0p6cDhsVDl3aUJOMVA5aGJrZzNRZmxiY2I1c3k3OVBHZmhKeEUtWVotenRDTzM2NGxRYUFLTlZKRkRpS1NFMDNNNFpBMmZhWGRxbnNKbUFzWGQ5cFdXd1gzeUMzZWxOV09ib0p3RWVUUGJHMFF4REswRUdvWmo4M19NZVB0TDRBWmZlY3ZCY0QwRlFVczRUQm5pYVJDM3cxQWdoQVpjOEYyc1Q?oc=5
 - **Source:** Retail Bulletin
 - **Published:** 2026-10-01T07:10:09+00:00
-
-## Iceland threatens to boycott Eurovision 2027 if Israel competes - worldisraelnews.com
-
-- **URL:** https://news.google.com/rss/articles/CBMilwFBVV95cUxPMGJoLUN2ak4tblhsQlNRT3FQY0YtMGtveUpXZzV6eVc4Q0VqN0dqSXhISVc2cTZnemp3dmlGQWdkTWpxUU1LOTRNVWhXQjB4akh5REQtakhlZ3BzeXJubkNDOVJqREQ0czZmVEVsUFpfeVJYRVR6UnF5azJzMFUxWjVOSTk0NDJkQTNkU2lWNjZNSnhrWTRv0gGcAUFVX3lxTE53WHJtajdSV05JeFB0YVR3dWx2WUwtd1lhSkFhUUxlRllIaHl6TlJlYmtQOFVZR2kyaTcxQTZBc3dXalI2QW5VUnk4MnJqc1JycERvcGc5Z0dZdHU3czNzQUpZRlZxOHlDRHVmYWpENF81WXlzdndyTW9La0JRd3d3bURmeXBINHY2RG44Zm1zU3dIWXd1ZndvaVRaZg?oc=5
-- **Source:** worldisraelnews.com
-- **Published:** 2026-10-01T05:58:20+00:00
-
-## Elín Sóley Hrafnkelsdóttir - Iceland - Player profile - FIBA Women's EuroBasket - Qualifiers | FIBA Basketball Events - fiba.basketball
-
-- **URL:** https://news.google.com/rss/articles/CBMiwwFBVV95cUxQVml5Zko2dENndFVMVGVnOGpjZFRoT09pX0trbjAyb3ZHNHNZN04xeHNIbnhhQ3lEVkI1SnZ1bFhUcDF4eGhrdUFnRG8yekpsV2V3Ylp0ZHAySzNmMUF5cUgxeTlLRGZJLVFVOXVpSHhhZnQ0cE1peEVHTmk5cFl4MDhXaWdhTGNUWXA1U3pFMmNuWC1rUGZQR0RVakZ4dEtubGprZzRvQUU4QWZjWWItRFo2V0xmOWJxSXAtNFZCT2dWblE?oc=5
-- **Source:** fiba.basketball
-- **Published:** 2026-10-01T04:38:54+00:00
-
-## Iceland: RÚV Board of Directors Opposes Eurovision 2027 Participation - ESCBEAT
-
-- **URL:** https://news.google.com/rss/articles/CBMipwFBVV95cUxORFFvUmctakhGcVFXQlcyYlJGQVB1ejZvOVpUdDVGQmdPbDlEcmZYU2RVWHZOX3J4Mk1mRWxuRU5HMWJpT0JLa0lEMjhwaE85X2N5VS0xUlM5ZldVbWtVbnVTZi0tcUJ2bGdMNERkckRETE5DTjZhOVRwcXR1bWs1WUxndFZhZXVxVDhDTGx1US1sclBvVU1YS1dpVkRrVU1uWmZNV3pLNNIBpwFBVV95cUxORFFvUmctakhGcVFXQlcyYlJGQVB1ejZvOVpUdDVGQmdPbDlEcmZYU2RVWHZOX3J4Mk1mRWxuRU5HMWJpT0JLa0lEMjhwaE85X2N5VS0xUlM5ZldVbWtVbnVTZi0tcUJ2bGdMNERkckRETE5DTjZhOVRwcXR1bWs1WUxndFZhZXVxVDhDTGx1US1sclBvVU1YS1dpVkRrVU1uWmZNV3pLNA?oc=5
-- **Source:** ESCBEAT
-- **Published:** 2026-10-01T04:24:53+00:00
-
-## Iceland to boycott Eurovision 2027 unless Israel is barred - Israel National News
-
-- **URL:** https://news.google.com/rss/articles/CBMiWkFVX3lxTE5raWRjQlFsS01TYkNnSmwtV011TWdHTTh1ZG50TzhqQjh4aS01M3QyRFdFUnpaRjRPcXNteDdFTDJjY2hwVFBnRThScWlxWjRvMGUyYlNIcGZkdw?oc=5
-- **Source:** Israel National News
-- **Published:** 2026-10-01T03:14:26+00:00
-
-## Iceland vs Bulgaria Betting Odds, Tips, Predictions, Preview 3rd October 2026 - Easyodds.com
-
-- **URL:** https://news.google.com/rss/articles/CBMimwFBVV95cUxPSWRrN0ZmU0ZYMzZTUUJKeTJKam5zZjdzemxvS3NtWTJMUlAzcEEyZGlOZEtJaE9sLW02all0Mk5BelNOZ1hmT0NldzdrMmRPa2Y5VGNXZ1FodF92NEhROWcwNWQzNnRCQnVOZDgyckNkVGVkRF9fV0p1Z0o2T2s4MkxiVWh5SWVNTWRjT05tbWhteE8tRHU1bklfVQ?oc=5
-- **Source:** Easyodds.com
-- **Published:** 2026-10-01T02:32:13+00:00
-
-## Iceland - Detailed squad 1958 (Gallery) | Page 4 - Transfermarkt
-
-- **URL:** https://news.google.com/rss/articles/CBMimgFBVV95cUxNVWhjcGtZOFdOY19RVzdSMEp4RFk5QV9KT3M0MUhVRnBXTm0wM1dORjB5Zlgwcy15QUJVQzcxM09LV3Y4cVpSU0xhbG5BUDZfT1owWkdFQ3lnMFZ5YjREeFR5M2ZjSHptUEI1UVhTdllDcHJwYWtoYkg5NW9WVG1kbXhkdkxOUlpOTUZMS1VrS1BFczBVWHRkLWxn?oc=5
-- **Source:** Transfermarkt
-- **Published:** 2026-10-01T01:49:12+00:00
-
-## Iceland may not return to Eurovision in 2027 - Aussievision
-
-- **URL:** https://news.google.com/rss/articles/CBMihAFBVV95cUxPU09Db0FGdnlwRElyQVFKVmVIdW5NM2NWb29OQUZ2TXVoRl9MRDNObk1Bd3Y3Z0VscVNIbEZ4VU1YbDhtSWN6aTBEZXVlYW1WNWtENk5HSHZTSFBpQjd0dXlaUXF6bHUtaGtzMWZhQ1BlUTBJWDhFTHRTc1BPcjJtbXpONGY?oc=5
-- **Source:** Aussievision
-- **Published:** 2026-10-01T00:42:47+00:00
-
-## 'Time And Water' Filmmakers Explore Iceland's Melting Glaciers - Deadline
-
-- **URL:** https://news.google.com/rss/articles/CBMisAFBVV95cUxPNGpNcllxV0pQd0xqc1ZSRGtESC11azZXdkgtZFhmakdVbE9zeU5XRjJJRHFnNTVWZml2aVVJcjFvbjBIbEItdHdfV0d5SGhCRzJaT3BkWDRBM0xHc1I3VnQwV044UE5oOEgwYUsyVko0ZGhNOUtYQS1HUEJGRjBsdWYyS1NEakNfTFJyUmNndWxjdTNMQW1yVHZMdjFQME5zdVV4Rms4c2V3cXN4ajFPMA?oc=5
-- **Source:** Deadline
-- **Published:** 2026-09-30T22:08:00+00:00
-
-## Iceland looks set to join Ireland in Eurovision boycott again over Israel's participation - The Journal
-
-- **URL:** https://news.google.com/rss/articles/CBMijAFBVV95cUxPNnpVUFhGR0tuaXJDMElmLWdGZmVrVV9sU2xhOVZTaXlBaXcwV1pFVmJOYzB3eU42QnF6bEZHYTJ5RFZkVkdHeXlSTzluRkxMODFCOTdkczVGc0owV3dmZldHR1JXLW85OWpuUU1JVnZ5T3VQX3hON2VOOXdzZFZRaWlNQ2Eyenl4SkNpeQ?oc=5
-- **Source:** The Journal
-- **Published:** 2026-09-30T22:08:00+00:00
-
-## Iceland: RÚV’s Board of Directors wants the Eurovision boycott to continue in 2027 - eurovisionfun.com
-
-- **URL:** https://news.google.com/rss/articles/CBMiugFBVV95cUxOU29LXzBaZGhDVlJodDFieWFtakFqMXVBNjJXYXlZb2ptYjEzWW9oNHBubml5a3E1OWxMYzA0LVJPQjJPV3ZZTXBQT0V5WW9vc0o0aGI0OGNSUndRV3lFOXJYTXdna0RuZDFvX01oRC1XV1ExamdBNlVwVlVKaUpyUkdkYkZDdUljdzBnX2cxRnNkV1k3c1hDdEhOakw4cUw0NnNFOHlxT1lFdWZSYWp2Rk0tQ2JGWFZMU3c?oc=5
-- **Source:** eurovisionfun.com
-- **Published:** 2026-09-30T22:01:14+00:00
-
-## Iceland: RÚV board wants to continue boycott for 2027 - ESCToday.com
-
-- **URL:** https://news.google.com/rss/articles/CBMilwFBVV95cUxQRkZlRWRwR1pVQXlUWW02Tk1FNnR0Y3JlVlM0Nmp2RzE0NHQzZGtqR1Y0bGsxaXRZcnRwOEpyOWpUNFdpMC1nbGdwTlBlMWE4OU5vdk44alRsUEVFRWcyM2FyYXpIR2NEcFdqVVJwZk9zRkZkYkpVeW1FOU5zMjQzSDVQaURPcjR0MXVrbWEwXzA4OHJaTUdJ?oc=5
-- **Source:** ESCToday.com
-- **Published:** 2026-09-30T20:37:49+00:00
-
-## Nations League highlights: Luxembourg 0-3 Iceland - UEFA.com
-
-- **URL:** https://news.google.com/rss/articles/CBMi2gFBVV95cUxQeWs5bjR4LVJ2S2V5YXpUQTRKZ0dxWG1CVXVKSUhHZzU0MFd4Um5DTFBrbUM5VTMwMHkyTDlCVEVsTjdWT1NFa0ZLWE5CZXZINmxocThHSHhYaTAxRUZHdHpPMDdyZTJkaXNjeTF0Zk5mU3NmREVZcGJUNzR4T3IxeXNMTGs5TlU5NjJvVmRiZGJZRTZ0eFBSX0wzWDc3RWVIWEJCdExuTE02ZGk0WElGNnd1eFBkcFRsRVBKVkM2WU05SVZiYXVXTURqOC1jbDdBMDNCWWE5bVpSdw?oc=5
-- **Source:** UEFA.com
-- **Published:** 2026-09-30T20:37:03+00:00
-
-## Gaddavír Give Us a Walk Through Icelandic Hardcore’s Past & Present - No Echo
-
-- **URL:** https://news.google.com/rss/articles/CBMibkFVX3lxTE5KQlZyc2l2eFROcnBSX0Z6eERoaVg4X3J1S0dxd1Fxd3pxZnBQY2pqcGYzZ2ExcEs4d0pDTjRKZGpaNEZ2Q0d5cjA0TE9tM1BuX09lQThSWmhRT2NwbmNrc0YtSVZYUXZsUzhCeXhR?oc=5
-- **Source:** No Echo
-- **Published:** 2026-09-30T20:32:14+00:00
-
-## Iceland: Eurovision 2027 boycott backed by broadcaster’s board - Eurovisionworld
-
-- **URL:** https://news.google.com/rss/articles/CBMilwFBVV95cUxQekVhMGlxSmRYSVh0cDNnNkJ4LVBKcGRiSDd1bGJDVUNxYy1NNi1EMnFyRTA4MTYxRjRkLTdnU21PMDlIWUE5UDBxY2lHSi15Q0laUEtmZzNCWnFSN0Y4ZzFuWXRCbDlRdzlzNGE2SGQ5STRwVldvYmd3WWtsYWp5WEVFQzhjck90REd5ZHUzaXlxa1dYQU1N?oc=5
-- **Source:** Eurovisionworld
-- **Published:** 2026-09-30T20:18:00+00:00
-
-## 🇮🇸 Iceland: RÚV Board Supports Continued Eurovision Boycott - Eurovoix
-
-- **URL:** https://news.google.com/rss/articles/CBMikAFBVV95cUxPUXF2aG44bm01V1ZCeGtNT0hOQ1BMTGd2b0k4LTE3cHdxbHpxZUNhRmQ3MzJjZWRjR0s0Y1N3MEN5VW11NmlZb3N4dG1kdFZub1RUWE9faVUzWHhIS044cHA1aG03WF94OTM0cFgwN0lWa19JbTBmNVpWYjBEaDREUWlPTHFvejE0dWEweDB2M04?oc=5
-- **Source:** Eurovoix
-- **Published:** 2026-09-30T20:13:33+00:00
-
-## Birgir Halldorsson - Iceland - Player profile - FIBA U18 European Championship Division B | FIBA Basketball Events - fiba.basketball
-
-- **URL:** https://news.google.com/rss/articles/CBMixAFBVV95cUxNZkpHbjdlY2UzcUI5WEFCNUsxUkxCRkotdU9EU3o2NFROSkdWQ0NISkpTc2w4ODZ5cTFmSDhKWXdvUS1GZ1VoMmZGVkxEbFFWT0RlbTVXeDA1X3dnR0wzQUw1V3pud2cxUnh0N3Fha052cXVJcV9JUmsxS242ZFZ5RFRVU2xqajl6ZjJDVTEzVUVUakFfbXZtWHVmRjU1MHZScWlmR3JPUjh4bVUzZ2liaU1ZUDJGRk1UQU81QnZNbFB1VVE3?oc=5
-- **Source:** fiba.basketball
-- **Published:** 2026-09-30T20:02:11+00:00
-
-## This Wild Corner of Iceland Has Massive Glaciers, Black-sand Beaches, and Otherworldly Canyons - Travel + Leisure
-
-- **URL:** https://news.google.com/rss/articles/CBMicEFVX3lxTE9lUXNEWDF4bmNSc1liR0tYSllBMDRPRHJSYVBOM1d5Q2p0ajRxR1N2SGJFSU9tVFhEanI3ZjY5MkVncll2cFFrb2RnVl9kQjdnMXNOekdQa2ZKYWF6LW9RSEdaNmlHRVpJM3E1bUhITXc?oc=5
-- **Source:** Travel + Leisure
-- **Published:** 2026-09-30T19:33:13+00:00
-
-## The India-EFTA partnership, one plus one equals three - The Hindu
-
-- **URL:** https://news.google.com/rss/articles/CBMirwFBVV95cUxPcUQ3cFZGV0s0blZpU1hTZ21yWG9zWk1TQW1rdGZyNGpNU2YzcnVXWlJ4YzFFLW1ZS2NZY3lxTU03V0FJMFVuQWtNbXp6SHNUR2dVWWx2S3NTZ3BPdGlpa1B5NzJreXZ5bUd2VWxBR0NucG9YcTA1WXpjeUpTLU5ManIyeXpKNFotYlZIcVhZSlkyTzZ3ZUNGd1FhaEZhcWctdXlwWXFqMDNBSUhKN2E00gG2AUFVX3lxTE0xVUp2ZmM0THJoRHZtVi14VmFPbnlmeTNlOVJpd19Ebnl2U21WMXd2aXgtR0c4dG5ydndVdDQtQ1U5MUtZZzlLRWtKVE1RT19XWmlrQ3BNLWJqMThtd01hQ2ZBNXdORGVXNTA1OGR4SUFYM2ZJLTJWNUV3MU9xeThnRVhCUnBpaXp1N24wSWVjVWFTRFV2M3N4TElWM1pYQmJ1RUxWa3VvYlhERndkSXctN0ZBa3FR?oc=5
-- **Source:** The Hindu
-- **Published:** 2026-09-30T18:46:00+00:00
-
-## Iceland Foods Ousted Director Over Spouse's Exit, Judge Says - Law360
-
-- **URL:** https://news.google.com/rss/articles/CBMiVkFVX3lxTE9ac1F6WTVVSkJjVHA5ay1tcXRWd1BfcFpUcTVTeDlKMGg4Rzd4NFcwN3p6UXV0NkNBSVc3TFFnaWxMVHlwLUFfMXhPbXZWakVoRjRRRnJR0gFWQVVfeXFMT1pzUXpZNVVKQmNUcDlrLW1xdFZ3UF9wWlRxNVN4OUowaDhHN3g0VzA3enpRdXQ2Q0FJVzdMUWdpbExUeXAtQV8xeE9tdlZqRWhGNFFGclE?oc=5
-- **Source:** Law360
-- **Published:** 2026-09-30T18:29:00+00:00
