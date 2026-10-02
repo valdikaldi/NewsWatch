@@ -1,8 +1,86 @@
 # NewsWatch — fusion energy News
 
-_Last updated: 2026-10-02T17:34:20.033686+00:00 · 50 articles_
+_Last updated: 2026-10-02T21:54:54.098766+00:00 · 50 articles_
 
 ---
+
+## California Governor Signs Fusion Energy Bill Into Law, Strengthening the State's Leadership in the Global Fusion Race - ga.com
+
+- **URL:** https://news.google.com/rss/articles/CBMi0AFBVV95cUxPOXpEVzdUQXJqX2tBOXEwbGtFQ193YUl5dEE3T0txWV8zZjV4VXBieGRvd2dEZmwzSFVtLXBqcmVfUmtUR3lFUjBLMTM1SGE0SFNnbExidTVTMWV5TFpvb0MxSXBidm5QMjd5enRsbS1rU1NhV2N0c05HZjlQSGNpOXlnTExyWjF2X2Jab0FBeDY4UjgzWmpjTklzaUxkV2VuZWlqSzFsNjB3QTlPNzh0Z3ljMEJHaHJZdkZxNlJWZWxnQ3JjcmtLZTgzNmFYVloz?oc=5
+- **Source:** ga.com
+- **Published:** 2026-10-02T21:40:06+00:00
+
+## Partners in Rivalry: U.S.-China civil nuclear ties in historical perspective - James Martin Center for Nonproliferation Studies
+
+- **URL:** https://news.google.com/rss/articles/CBMiXkFVX3lxTE04Y3dpdGRKQ2R0Ul9nSFRvaWZUNWZGNHktcWhsSnB4Unh5X0pLZHRIUElRSWNUdXpUNGRSZGlDVVlxb3gwX0dERFI1ZWlibVA5ckh3SXpZSlZrRmNXdUE?oc=5
+- **Source:** James Martin Center for Nonproliferation Studies
+- **Published:** 2026-10-02T21:10:32+00:00
+
+## DOE Opens $400M Office of Science Funding Call for FY 2027 - ExecutiveGov
+
+- **URL:** https://news.google.com/rss/articles/CBMiigFBVV95cUxOQUpSQ3VrNWRsRGdQUkVkcUlRQlQxd1VMUzlxQnBQVGpqajJNRkoyWS1KQm1wbUdCekw4cFVxTnlGSGk0NjhzWGdPaExuSzVUQld4cWljRmM0TlNyYnE0c3EzRjRab21ES09wTEsxNEZ0UFE5TVJYclRuaWRlWXNhalp3bmJXdHRVbVE?oc=5
+- **Source:** ExecutiveGov
+- **Published:** 2026-10-02T21:07:11+00:00
+
+## ARPA-E commits $135 million for fusion commercialization - American Nuclear Society -- ANS
+
+- **URL:** https://news.google.com/rss/articles/CBMimAFBVV95cUxNQjdhMDNBV2dwWHQzYThET0p2cGh0dHl1ZUlSVkZFa3JUTjdFQXBFYVhfMFgzempnbzFVTTE0VHM1TDRpTm1uRmlsYUxUMVhfZVZIa0JCc2lweFFpODZxbm1YdzdzaDB1dHN4UEozNjdFMjh4cXBPazFVWVE4ODhONlhpQU5vM1Y1SkNza2hKTmFLLTZNLXI1bg?oc=5
+- **Source:** American Nuclear Society -- ANS
+- **Published:** 2026-10-02T20:43:05+00:00
+
+## Trump Media & Technology Group - Britannica
+
+- **URL:** https://news.google.com/rss/articles/CBMic0FVX3lxTE5lT2dhSXRTdXhSaGh2djRnVUFnTUdVRlZzRzdxdXdjTElyMF9ZeWJUUG1kbWJIYUlpWkhJVTdoREJsWU9TaEdibjNIdE4wdjFwQTk4bmZaU2lNRm4tM1Z1M0trcFdhZ2kyM1ZDYWZwQmphRDg?oc=5
+- **Source:** Britannica
+- **Published:** 2026-10-02T19:29:57+00:00
+
+## Senior Maintain – Mmadu Bu Chukwu Ft. Chii Machine - Voxtrendy
+
+- **URL:** https://news.google.com/rss/articles/CBMiggFBVV95cUxPSkkwLUl6R0piNXRsQk1OcTZ3WjdKR25YcThNQXp2UVVCNnNCeUhHS0ZCdVp4bjJMN0ZXcU9xZkxlLUY0d09Nd1V3VFB6a25qaEJ0anI3b1VOSjZqeFBHNGhsM254SVZYa1BRNm1KR0RfTGNLTFJjSlpQeVhjUGQ0anh3?oc=5
+- **Source:** Voxtrendy
+- **Published:** 2026-10-02T19:20:58+00:00
+
+## From SPARC to ARC: CFS prepares for a first-of-a-kind fusion plant - American Nuclear Society -- ANS
+
+- **URL:** https://news.google.com/rss/articles/CBMiowFBVV95cUxQV0NaOVRCaE1wMkdneDVRVHdVdl9iMTR5TjJJa2pLNFZNTzRocVBHYThfOUlCVXZNOTdoWmZ0dzhfZVdZYVVZdDhnU0RfcjBVZWJOQVFDTm1NOVF0X3NIOXhScXp0LThqQ242UXA3TmllWm1xTGZVQmFhVjhhZGFiWDdSdXhCQ1RfLTdHb3N4d2VlRlhjaEx2eElGajNCOWJuS2xv?oc=5
+- **Source:** American Nuclear Society -- ANS
+- **Published:** 2026-10-02T19:12:38+00:00
+
+## Newsom signs bill to advance nuclear fusion technology - State Affairs Pro
+
+- **URL:** https://news.google.com/rss/articles/CBMimAFBVV95cUxObnhfSkxYQjEzYWtjal9lc0J4WmQ0UGh4amdFak5qejQxemFzQ3p5QzBBVV95SFZGeEJ2ZEd1bGNOQ1lBMnJvTUpYcHRuaDRqdFdtTWh2YWFad0hwWFh3UXRJbjZ3ZXFoSGdXNXIwalFNY3Bub2RCRUNyNjVDdjZqT3BadVgwSVZIeGJJMHQ1OTZObzM4Nl8xZQ?oc=5
+- **Source:** State Affairs Pro
+- **Published:** 2026-10-02T19:12:36+00:00
+
+## Virginia unveils new clean energy strategy to meet rising electricity demand, advance clean firm technologies - Clean Air Task Force
+
+- **URL:** https://news.google.com/rss/articles/CBMizwFBVV95cUxObE1Wa05WZFpnR1Y1bFRCbnh1S25HTVY4VTY0bTZNR3d4QjVka3dGZmk4MlQxT3pQbEdYYTBLaExaSGoxcEoxb25KR01VZDRoQ1dWZlVBREZrY3lvOGVkMmRBXzdhTXFrSndOZWhvWU1ua0JKelNGaTZpb2R4R1lBNFVfZDcwQVdZekRyMVlzRmNybjdJTHc1UVptSk5LN2JLTHFZMnduZFhVbkxzclA2UXcxT3gtRVIzOVNINkh2Q3VaRUZFSWplQXI4SmE2aUk?oc=5
+- **Source:** Clean Air Task Force
+- **Published:** 2026-10-02T19:08:45+00:00
+
+## Exclusive: Quantum Formatics is raising $30M to discover new superconductors - Axios
+
+- **URL:** https://news.google.com/rss/articles/CBMimAFBVV95cUxOSk5rOXZJT0p4NDdCUVpDYUhXclpFMGtoMmRtMHZuT2tSX056VUlkNjRncGctekxDUGF3NWJtU3FiM1lYSldyTGJIY0lvVDFuWGJoWF9VSW5IdmRTUGpQTzVqcXZQVVhTeDZHUGlrcnRtWUZYTjU0TWlyYVVraV9SbWp2ZGE1cnZ4QWRGaUZiUWNSRzA4RjRhQw?oc=5
+- **Source:** Axios
+- **Published:** 2026-10-02T18:38:15+00:00
+
+## Jefferson Lab awarded $8M for accelerator technology to enable transmutation - American Nuclear Society -- ANS
+
+- **URL:** https://news.google.com/rss/articles/CBMitAFBVV95cUxNcVVIaVpPU2JoZ1gwYjdEMWR0blF3bWNCLVI0REhPLVZpRXdPQkMyUm10TkZWc1RFN2EybW13U3RXT2JaZ3JmeFhMV0xaQWdWYk5MNUZ0dkFCcWVXQmNFNXVzM2xueFZJWEYxb1RRd2t6dUhyTTBHTHdMRWgwMy02ZXpvU2ZOTGQxWTlRMzVMQi1lVDQtR0V4MjFRRkJ2ZzY2bnZBYmNFSXhjTUNlOFVkTGRZLVA?oc=5
+- **Source:** American Nuclear Society -- ANS
+- **Published:** 2026-10-02T18:30:25+00:00
+
+## The Moon is Ours: A possible future Moon Cold War between US and China - The Aviation Geek Club
+
+- **URL:** https://news.google.com/rss/articles/CBMiqgFBVV95cUxNT3ZkblkzVm5hT0NmQWFCT21SMGJ4S0tIOHI4bXVJdTJtYkw4dHdac1p0Tkp1aVNMcHFZSmF1X1U0VzI5VG13VXpXTnVtSktFSXFoYmViYmJBQmVhM3dRaHVqOHNhTFBpSkltY1psOUcxemhrZnhJZ0RSdUdGNnNZN3dfT2hLYm5QWUQ0eWxqTUNVV1FmZnpSLUhkSHZ1cWRXMVd2QXpncWVXUdIBqgFBVV95cUxNT3ZkblkzVm5hT0NmQWFCT21SMGJ4S0tIOHI4bXVJdTJtYkw4dHdac1p0Tkp1aVNMcHFZSmF1X1U0VzI5VG13VXpXTnVtSktFSXFoYmViYmJBQmVhM3dRaHVqOHNhTFBpSkltY1psOUcxemhrZnhJZ0RSdUdGNnNZN3dfT2hLYm5QWUQ0eWxqTUNVV1FmZnpSLUhkSHZ1cWRXMVd2QXpncWVXUQ?oc=5
+- **Source:** The Aviation Geek Club
+- **Published:** 2026-10-02T17:59:21+00:00
+
+## California bills consider new nuclear power plant and plan for the future of fusion - American Nuclear Society -- ANS
+
+- **URL:** https://news.google.com/rss/articles/CBMivwFBVV95cUxOM0VyWnlSM0p5emVDcXV3dkdxcnYtUUVEWkxnNzk5QWRfUEdrWEFDcnJGclVObUpFWERBSW12NzN0VVVBdEJDQkc5a1N5RnJ4MVhJTGJUb0hIb0ZXU0UydEp0anB2cTZwOUtQR3k0a093R3dfRVFmRUZfdW15VWgwbDFvWEZUT19PXzdFRlFFaG1PdEs3T2NCZGdjamJxT1Jsa1ZCNXhJQ29lRFFabXkxSjlxOUlOYkx5LU0wNGJCTQ?oc=5
+- **Source:** American Nuclear Society -- ANS
+- **Published:** 2026-10-02T17:38:43+00:00
 
 ## Hystar and BHEL Partner to Accelerate India’s Green Hydrogen Economy with Local PEM Electrolyser Manufacturing - Hydrogen Central
 
@@ -225,81 +303,3 @@ _Last updated: 2026-10-02T17:34:20.033686+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMimgFBVV95cUxPVjQ1T2VMWFdaZnRaNHFoTEktY193YjRWd0g3UUEtM2xWNjVpamstdTBCZDE0YlltYW5CbXpVb2VQaHdqQmxOM2NYQUFCM1ZxRU5ObDJFNDhwVDcya0oyeFlaTTJmdUZfUld3Uy1uYTh2ZUJpRjd3XzFiMWZRaDRzdjlLZHo5bkR3aHNNX0JyVWJNU3ljb1ZGbEJB?oc=5
 - **Source:** openPR.com
 - **Published:** 2026-10-02T01:54:03+00:00
-
-## Ruger - Do Nothing ft. Musa Keys & Young Stunna | MP3 Download - Voxtrendy
-
-- **URL:** https://news.google.com/rss/articles/CBMie0FVX3lxTE1wMUFaS25IZ0w3QTlNaXpfS0dMTzZBZWVrTEhBenJuSUw4MWtlcmJnSGI4WGVudEZvcFdNbGJCVVJBOTJESHdqR0VKaWpNcnZFbVE3YmUxSEc5NVpYVnJLSHo2SVpoUnJORkl1S0p5Z0M0TU51UzFLR1lGNA?oc=5
-- **Source:** Voxtrendy
-- **Published:** 2026-10-02T01:40:52+00:00
-
-## Cultural Fusion - newsfour.ie
-
-- **URL:** https://news.google.com/rss/articles/CBMiXEFVX3lxTE84MFN0OTZvc1kzTjIxUFN1c0JwdDM5ekNxWFFsa2ZGcnJ5TEY5bGxETm05ZmpFX3ZTWU43dm15YVIxRGVTUlBUenBUVFVPRGl4akx5RUFQT3BBa0ZR?oc=5
-- **Source:** newsfour.ie
-- **Published:** 2026-10-02T01:16:00+00:00
-
-## Gov’t studying fusion as potential clean-energy pathway - asian-power.com
-
-- **URL:** https://news.google.com/rss/articles/CBMihwFBVV95cUxQTDlrQktEaUNldFBTdVNMUlBuWkdjSnZvdURiWmNFTW5oQ0U2cXgtQjhMblBCTHlWanFiRTYwODhtaVlhRV94VWhaSy1IdTRkVXJvT09kaXd4UDFPUlBUZmlFS3UwdEc4NXBCTjVTWHAwZ1lCNWJITDRhZXhtS18wT3Y3VzI1bG8?oc=5
-- **Source:** asian-power.com
-- **Published:** 2026-10-02T00:43:02+00:00
-
-## Sentence tossed in Arizona case where deceased victim was depicted speaking in AI-generated video - thecanadianpressnews.ca
-
-- **URL:** https://news.google.com/rss/articles/CBMimwJBVV95cUxOdHU2T3ZuTmlvRG9rZU0xYXh5RXBIQzFZZVl1cndKZUlieVZmOVFpVVAwYnNHTkVYdUhTclFqR1Y4ZzV2SEh2bFRicDE5UmpkT0R0S0FmUUc2Y3pCTnQtSW5uMWJzWUFMeGM0RG04aGFheUVkN25rS1VzczhVbkNBUE1Ecm5EaHR3NkZ6cGFmeWR3bUw2aXoyaDZlNmw0WnhudFZaUzJiOVlENGJBS2ZsRWFxUGdVcEhZSF90V2E2eFNTTnJQYkcwYVQ1XzFQcjU1ZjRwVjV0VmtpcGYzVDc5TThjX0ZYNEU3MVpKOExqZHBTT05NVk9vd3ROdzdhVzNLbU1HZUJSOVk3SEpIcm5ZT1pPSEpPdWVVVEJn?oc=5
-- **Source:** thecanadianpressnews.ca
-- **Published:** 2026-10-02T00:16:55+00:00
-
-## The Outlast Trials drops to $4 on Steam, lowest price ever for 93%-rated horror game - news.lavx.hu
-
-- **URL:** https://news.google.com/rss/articles/CBMirwFBVV95cUxNS0NibjJUTHQzNng2UmVVMktZenpOS2hDQ3FydjlrcDlBc1l6Mm4xcFpDVGVsRFBRNFpLcEZaM1JZRWkwVUpjdGFUVThQSUpSYlJnMW05VFJWNzdoN3NJblFJOElfQkF0ajM1blBpblYyb3FMXzFjX3FNY3A0dmZpeV8xNDV1czJaeUlsb2xCVlJlLVhlT3Y4cEd1XzEzQThIUE5xUG5QTmFOeEdmSm1v?oc=5
-- **Source:** news.lavx.hu
-- **Published:** 2026-10-02T00:14:56+00:00
-
-## Wisconsin tech, business leaders weigh data centers, evolving energy landscape - Wisconsin State Journal
-
-- **URL:** https://news.google.com/rss/articles/CBMikwFBVV95cUxNaEJrU1lVMTB6U2gzRkJBa2xJNUdCZFRTM0xlcWFxNkVWZWkzZUEyVGhqOUVUMjBReURCSkdHc2p6d1haNVppc19CU0ZmYWZKQ0hvS0w5dEQzWV9WeHVZQlVHV0x4V3NJSUJmSFo0WWtteDZZVUV4ZWhwSGVidWFrQVp5STJuS3dfYngxZ0JWTXU3RnM?oc=5
-- **Source:** Wisconsin State Journal
-- **Published:** 2026-10-01T23:16:00+00:00
-
-## Did Fusion Tape Deal Just Shift Fujikura's (TSE:5803) Investment Narrative? - Simply Wall Street
-
-- **URL:** https://news.google.com/rss/articles/CBMi0gFBVV95cUxQZVZTZmRfeWpoVEZ1WFh3NmZmVlVqQkNlQXh4M1AxZkdpYWZRdDFkbTJ5VVFlaTFTTE5lQ01BbEFWRVdUeEl2SU5DYUdBTE5iZUtXbzl6NTNPVmZKbW8tTmpyNjZVTTFiYm8xa21yWjR2a3R2UG42RDJEblM4bzNibnBKV2pwSk1hcnZUZHJtYWRVeFE1TjczQTJMNlBSMWZSNFpBam9wNkNRbFZCdHplMVNyNVE4eXljRVlPLXlrT2J4cXhobHNBRjlCei1lSFpNTWfSAdcBQVVfeXFMT3BSdU5kejBYWTNESXExRjJBMnZVQ29iYjhtbjlUUHdSTkRHMWVUSnhUZFNfQWFPT0VFemVGVFBsaTU3OFFQOXJwam5BWmw3aVI4LWFjY2tfdHFXUjg3RllrT3gzeWpzMXotOHh1QlR1VnFIdjJNV2Uxb3pwUk1zVWJWTmlPU1djdWtjYjJIU3Z3UlpJM1otWm1TOXJZZ2VvY3pYaExYVkMtWVp4THpTQm5CT05XOVU3R081QjMxblpmVk02dlpucGMtVkUxQUpHcDlFRHZZTDA?oc=5
-- **Source:** Simply Wall Street
-- **Published:** 2026-10-01T22:00:22+00:00
-
-## National laboratory and industry leaders to discuss the future of fusion at Fermilab - Fermilab (.gov)
-
-- **URL:** https://news.google.com/rss/articles/CBMitgFBVV95cUxNSmhOWGFUcVBaTG9oSTZLUGttbTE1UUItX25ueUhRdXRaRVVDZDRLSFNOTTJic3ZlNFBoX00wSEt4ME9FdDBPdHNxYXpmckdoNl8yWEphWjJGWGx5TWpGa21qcXZSUkJ0QWtuQmszNEVaYW1XQ1VYZzN4OThjWHRGeEZzTGJRUUNHZFd5VjlEVkQwRUoxT3lzM2dSRTJpNk9tMktvN1BkS0ZBUUVBSHFKSHF6dW1Xdw?oc=5
-- **Source:** Fermilab (.gov)
-- **Published:** 2026-10-01T21:35:33+00:00
-
-## Trump Media (NASDAQ: DJT) And TAE Technologies File S-4 With SEC, Pushing Fusion Energy Merger Forward - foreignpolicyjournal.com
-
-- **URL:** https://news.google.com/rss/articles/CBMi4AFBVV95cUxOZ2N4Nng1Zko3bVBPdUdXWGZEOEV3aEV5XzZZUlhGenVwZ1NqVUZxSkQyS010cHVURHljV0xYV2Z1STFUVlJ3WEZnYldVRERZSm9QM3ZYQTdUTHUxbTJxT1V4Nk5SV1pMbXZnR1JPUi1Hekl5MUxGX1FjOGN2N2RoUlNGNVNMQnJJejVrcVZmZnZwcUFCMHd5bXVNWmRnUGNIMDd0UzR4cW5LR0RMX3Rob1RvWlhLZDZMSUZvX3dWS0pKTEtoTkZEdmV2eXNaQS1UaE1HbzlRY1Z0NkRmMFJ6Vw?oc=5
-- **Source:** foreignpolicyjournal.com
-- **Published:** 2026-10-01T19:29:00+00:00
-
-## Daily on Energy: A BAAJA Blast for data centers - Washington Examiner
-
-- **URL:** https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVVpoV002cm9IT3ZZaXBDd2VRbllqXzZEMjl1OF9COG1wamxlRWtPbllVUGJGNmlPS0ROWm45X1llVG9UVlNLR0padzkxZEdTZ2tnTDY0b3Y3b0tVWXBXWmJmQ0ZCWWFFNGZWaG9pbV9uZWNNQVJteVRpMGk4UlFQb1NvaUVyckNPSUdZMzZSRkRGMkQwZFA5MzkyXzgyVk85N252dzBQV3pkZw?oc=5
-- **Source:** Washington Examiner
-- **Published:** 2026-10-01T19:05:00+00:00
-
-## Agriculture, Climate, Environment, Energy & Food: October 2026 Funding Opportunities (31 new opportunities) - Substack
-
-- **URL:** https://news.google.com/rss/articles/CBMihgFBVV95cUxQX3hLZWlIR0FBbUdzYjN0MXdmWDlOUFc0c1NPUnFyNTdnclFuZDdUalhWMTZxOUpxa1d6aF94cm5WOU5QZUEtOXFFaXNZMzJkbTVhNGlVVE5tMzJZYXdqN2g3LVZCbzB1cEVBSi1SRms4QlZpYVJzbV91WWsxcDRkTGhKcnJhdw?oc=5
-- **Source:** Substack
-- **Published:** 2026-10-01T10:37:21+00:00
-
-## California Signs Fusion Legislation and Announces $30 Million Quantum Investment - The Quantum Insider
-
-- **URL:** https://news.google.com/rss/articles/CBMiowFBVV95cUxNcHdDdlNZMUxzNXV0OHdHS3gwRUZoQlphWGtqRldCWGtVd0Z0YndMLTFEbTN3NWxJanFsRjNSelZfZTM4b0E3M0hWQnRrRG1kUVNKU2JQbE5DaFk1XzNxUVl3Q3N1TjA3SDd4dXpzaFk2SEs5bksyaE9KZlBfdTMtTWRwTzdRMDJZRURndGR6bXlsQ2lHN0trbElZa3FpVGUyekVB?oc=5
-- **Source:** The Quantum Insider
-- **Published:** 2026-10-01T10:36:41+00:00
-
-## Gates-Backed Fusion Firm Orders Record 6,200 Miles of Tape - TechJuice
-
-- **URL:** https://news.google.com/rss/articles/CBMiiAFBVV95cUxQeW54ZHZybjh6WVA4SWdTcDhIYnZQZ014eWdMWW9GSld0eWtOZjl2WDNMX19HVFFwb3drb1lrc2padGJoOXhfTDRCQkh2enZvYmJhV0FRSWU1Nk85TExMaGhhdVVycDhqTEstZDlMb3B0ZS05TGdZQ2VxR0VoSTg1Y1VJOXpRcEdo?oc=5
-- **Source:** TechJuice
-- **Published:** 2026-10-01T10:27:48+00:00

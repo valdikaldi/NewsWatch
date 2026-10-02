@@ -1,8 +1,20 @@
 # NewsWatch — Apple News
 
-_Last updated: 2026-10-02T17:34:15.628368+00:00 · 50 articles_
+_Last updated: 2026-10-02T21:54:52.383315+00:00 · 50 articles_
 
 ---
+
+## After an October 1 stock grant, Apple (AAPL) officer John Ternus proposes a share sale. - Stock Titan
+
+- **URL:** https://news.google.com/rss/articles/CBMijwFBVV95cUxQcVVzbE9sOUozVk04ZVVMWHlKai02LXRZTGI5WXlaYnJydm5WUjZ1RG41SFZCaXA3dHBSNlA5TXU1bG8wMGpNalVhcmM1d3RPV21lNzJBTENQYXhFY1MtOWtQUlpnbmdWQUJQYml6a1pUNnlmSGk5OWNTbTRkNzJleWdLYUJWNERBaXg2VU41Zw?oc=5
+- **Source:** Stock Titan
+- **Published:** 2026-10-02T21:17:34+00:00
+
+## Apple updates Full Disk Access controls in macOS in response to probing AI agents - Seeking Alpha
+
+- **URL:** https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTGQxcEttdldjaXZDajdhSzZnVFdRbHVaMDdVX09LeElaTVRocGlfRTY5RGo1d3cxZ19KdnVsTU9Wakh1QzZVaUFFa191QmlXa1lLTEM5TnZFRzFXTXNTOTh4b3VDdTRfS3RFRDFCajdnbG42azN6OEhaSnRDT2drTnNZTGJROWEwRUxEMGVPeURid1lRckNrY0R5STEzRFZRTUhxRTE5dFNTRlN2bjBlWUV6cDBVQXBYZTZr?oc=5
+- **Source:** Seeking Alpha
+- **Published:** 2026-10-02T19:09:26+00:00
 
 ## Apple stock after-hours at EUR 296.48: plus 1.00 percent versus prior close - AD HOC NEWS
 
@@ -289,17 +301,5 @@ _Last updated: 2026-10-02T17:34:15.628368+00:00 · 50 articles_
 ## 38,574 Apple Inc. $AAPL Shares Sold by Washington Trust Bank - MarketBeat
 
 - **URL:** https://news.google.com/rss/articles/CBMiugFBVV95cUxPbW9Gd3dyV3RKU3NuSXBWdE5mNnRhdXNtNmQ3THllZ0ZlLW9ieExuSHdmY25Za2psMWVfalVDaldxb1VhLWkyX3QwYUF2dTZLWTRFUjZSUWVRbER4NDc3ZXZQX3NUU0N0V1pmS192VFotRmNQZ2dTY1ZncU9FQkNnbl9ELW50c2lNbDhTb2hxU1J2eG9RejhRTkYyRnRKTWJfMHNnYjh0OFdlYWc3LTFKSHBodnRkeUJxUnc?oc=5
-- **Source:** MarketBeat
-- **Published:** 2026-10-01T07:34:22+00:00
-
-## Apple Inc. $AAPL Shares Acquired by Trustmark Bank Trust Department - MarketBeat
-
-- **URL:** https://news.google.com/rss/articles/CBMixAFBVV95cUxNWVZtVDJuREo4cUYzeDZ5UnQ4Rnd3dlV5NE9jSGZUc0Q5WmxaMlZaSG1RanVOT2V6N0FyRTJ0dTI0empieDM2bWVtSll4eUlINlNLaDM0Ui1CS0FVYndBY2gzQ2tUc2d5WlZSZWV4cHFlUUtyOGVudWNkMG1wTHhLRkNNS1BtcVpjLUZuTS1hN1pKbFVPSEJvTkY0WnFMVi05c1VybWNwUjhndDY5Y25Tc0RrVW9LQnB5ZmNBSFM3TXhVT3E3?oc=5
-- **Source:** MarketBeat
-- **Published:** 2026-10-01T07:34:22+00:00
-
-## UBS AM a distinct business unit of UBS ASSET MANAGEMENT AMERICAS LLC Sells 1,509,444 Shares of Apple Inc. $AAPL - MarketBeat
-
-- **URL:** https://news.google.com/rss/articles/CBMi_AFBVV95cUxPUmRJQXRsSUk4WFZHSEJNY2xMNm5DbnkxR2NWcDhyOTFDeUNuLW44NzJuYnVrVzVtWTJ0STJzT1FKbnFEdDBndUQ3ekJqMWxsY0xJUklTb29VNjJmVUFVSkhRVHhVMW1BdmdqMU9yZ0RLbU8zVE1obUZibGVrT1BpbDJHdWUxVURKaTdaR1JmOERudGJ2MTJzWE1KM3ppRENCMGptTV9hZlZWOTlvam13S1dpeFF2SDZWQm5VRUpZbnY0V1RFNGJsVXVJaWxJTElid2duazQzdWdiUno5ZWN6ejdmNVpoUDZ0MHpNUGExY1c0YUtlVk9fQmZ0Tkg?oc=5
 - **Source:** MarketBeat
 - **Published:** 2026-10-01T07:34:22+00:00

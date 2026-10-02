@@ -1,8 +1,20 @@
 # NewsWatch — Iceland News
 
-_Last updated: 2026-10-02T17:34:19.490338+00:00 · 50 articles_
+_Last updated: 2026-10-02T21:54:53.602252+00:00 · 50 articles_
 
 ---
+
+## Icelandic Met Office Widens Landslide Alert in Eastfjords - thetraveler.org
+
+- **URL:** https://news.google.com/rss/articles/CBMijwFBVV95cUxOMzRESUl3OG14eWhsU212U2JrS1d2UjlQNllpT3JVemVGbHoxZ2J2d2ZlWUNraUxtS0JMVV95NXM4MGFLa3o1Qm9xT05TVk9zZU1BLWRMTHRoN0Y1SkJLSWVwVGFZTVhuUzdKSGtBTExVSlZsa1hIRDgzd2hMVlZrZ3o3S3g2NHVkQ2djN1lZaw?oc=5
+- **Source:** thetraveler.org
+- **Published:** 2026-10-02T19:14:24+00:00
+
+## Board of Iceland’s National Broadcaster Supports Boycott of 2027 Eurovision if Israel Not Banned - Algemeiner.com
+
+- **URL:** https://news.google.com/rss/articles/CBMiwwFBVV95cUxNN1o5eEItTnZhbjJnNnJPWjRkNHhZU2g3RW9jejhhc2dTalBhc3ZuS0dQLTc4X3JYMUstMmJGcnVPQ0lxSmxRT0F4Y05EOWg2d3hXbzBKSU1JdzFRZmNwWGlXY3pudTgzMEw2OFZvTGdqZzZUdFZwanpobFA5dm92TXEwQ0dhdWlUZHFyM0F6eENXdUVNc2lTU2pjT3NuU3M0UUY2My0yQ0NUbXRxU01tY0JtR293RUNqc3ltUkF6UlNCQk0?oc=5
+- **Source:** Algemeiner.com
+- **Published:** 2026-10-02T18:51:00+00:00
 
 ## I Traveled Iceland with a Paper Map Instead of My Phone’s GPS — It Was the Most Fun I’ve Had in Years - AOL.com
 
@@ -291,15 +303,3 @@ _Last updated: 2026-10-02T17:34:19.490338+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMTVzNEtHWV8ybUxOMkR5c2tHRW90c1RRbm5yRTV1OTVIM20zLWZQZGVKRGE2MDNCZnJTLXFtRXBib2Fzak5PYjhtclBINldoUnlIUFIyOVhraHk2ZmhvRzJ1SDlwdGdzUWJkN3BOZHhUdjRZT21nN1JJWWpHUnZQblNOcHlaTTFNSm5OU2NqeUFLaERoR1BYcnl3ZzA1UzBUYWZPaEZqb2Y5dw?oc=5
 - **Source:** 1news.az
 - **Published:** 2026-10-01T07:57:42+00:00
-
-## News - Aquaculture is 'the forgotten child', says Iceland industry body - Fish Farmer
-
-- **URL:** https://news.google.com/rss/articles/CBMiowFBVV95cUxNOUM0Nzlxd25JRTM0eTZVczZvTXQ0elpRVHZ0aGU4NzMtY1JyTElsT09hLXE2UW5NMnZ1WVBZUGlkRy00d294MUVrcUlCR2FSb2U3RHdfM2Z4UXBDV1djZnljNjZiSlhBc09PN1hMdGtVM05wN0MtdmpTMWU3NHp3RThlVVFXa0hVSDdyNFFzMkpfSld4ZDNKbXpwaEZSRGhJb0s0?oc=5
-- **Source:** Fish Farmer
-- **Published:** 2026-10-01T07:30:00+00:00
-
-## Iceland Foods brings AI-assisted decision intelligence to food waste reduction - Retail Bulletin
-
-- **URL:** https://news.google.com/rss/articles/CBMi2AFBVV95cUxQZjVjbWFCajdVcHZVMk1sN2ZPTXJvaFRnSXZEQkExNVZydU5vWjFjOHZDQ2tua0p6cDhsVDl3aUJOMVA5aGJrZzNRZmxiY2I1c3k3OVBHZmhKeEUtWVotenRDTzM2NGxRYUFLTlZKRkRpS1NFMDNNNFpBMmZhWGRxbnNKbUFzWGQ5cFdXd1gzeUMzZWxOV09ib0p3RWVUUGJHMFF4REswRUdvWmo4M19NZVB0TDRBWmZlY3ZCY0QwRlFVczRUQm5pYVJDM3cxQWdoQVpjOEYyc1Q?oc=5
-- **Source:** Retail Bulletin
-- **Published:** 2026-10-01T07:10:09+00:00
