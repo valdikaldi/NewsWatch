@@ -1,8 +1,14 @@
 # NewsWatch — fusion energy News
 
-_Last updated: 2026-10-03T14:35:27.236645+00:00 · 50 articles_
+_Last updated: 2026-10-03T19:03:56.481423+00:00 · 50 articles_
 
 ---
+
+## Rag Tag Team of Biologists Who Lost Funding Because of Trump Turned a Motel Room into Makeshift Lab and Made a Groundbreaking Discovery - Futurism
+
+- **URL:** https://news.google.com/rss/articles/CBMiggFBVV95cUxOVk1JTHpEYzNiWkJFR09tWHJQZWxtaFZKdkdTYk1vdEpHektlM3ZBWmJ1RlQ4eWhyTjNtU3RZVTlxRTZLQkdhdVRObUhfTkRLVEZmejRCb1ZFNy1YbVBBMU52dkJCSlZpb1R3Y3lrS2xodW5Ebkp1bW1wdWdrNzZZY2lB?oc=5
+- **Source:** Futurism
+- **Published:** 2026-10-03T19:01:00+00:00
 
 ## New to The Street Show 774 Premieres Tonight on Bloomberg Television, Debuting Southeast Asia Distribution and Featuring Glint, American Fusion, SyncMeOn and T-REX Acquisition Corp. - Voice of Alexandria
 
@@ -297,9 +303,3 @@ _Last updated: 2026-10-03T14:35:27.236645+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMinAFBVV95cUxQSG5iNGtXcDE0R1M3VlJVaHE3NTNYakFnV1pmM3ZoS1BGSEdGREhlOEFsbk9wTUJ1OFVyNlRqclhsLVBncTBVN0xfV0ppemwxcDNoUkN5eDhORVVDQ0o3R2hCdzVmQmdWUTdyVnFIN3B3cVNtMEFNcG8ta3ptRmgxdWk2MkNQbHIyODdoTG5DM01ZZUMzNUJ3Y3JlQ2Y?oc=5
 - **Source:** Energy Live News
 - **Published:** 2026-10-02T09:02:35+00:00
-
-## Chasing Fleeting Shadows: Aaron Decay Blends Passion and Rhythm in "All I Want" - Beatportal
-
-- **URL:** https://news.google.com/rss/articles/CBMivAFBVV95cUxOYnVKZ0tDc0pTcm82Sm5KZGk1QV90QWVYSE91Y2JZLXRIV2tOdk9DbnBramlvdDJPQlgxSFQxNTlXVlpHYlBaZGdCT2g1R09wMi1TRjVqQlVRTDRJYWFJaDRKeVFOLWpLSWxuZnpJd055UlUzcVhFYkpvN2lNWFdfWEJRUEJWWjVZQlBVV1dIaHM4eGxjbVYxYTdQZ3QwVm8xUmhzU3BiVjdwejZyZUFZUjlaQkxqN2lBNEtueQ?oc=5
-- **Source:** Beatportal
-- **Published:** 2026-10-02T08:33:18+00:00
