@@ -1,8 +1,122 @@
 # NewsWatch — Iceland News
 
-_Last updated: 2026-10-03T09:42:25.058038+00:00 · 50 articles_
+_Last updated: 2026-10-03T14:35:25.117891+00:00 · 50 articles_
 
 ---
+
+## Australia is closing in on the world's highest rates. Only one country is in front - SBS
+
+- **URL:** https://news.google.com/rss/articles/CBMitgFBVV95cUxPQU5FdFNMVndlbVpXNEpRbS1nN3Vhc0szMlFISklNQUI5MEttTVk3SzJEN0FLR1J2R1d6bnlhVnBPcWdkRWUxUzRJME9BUEpZb0pyRzdleEw0d2pqeER4TkM1X0hRaVYzYzFmZzRoTFZCQmt2bXFoU0V6NDhzNURFRkt5MzRqaEF6WUk0eGxKT0FDc2tCZWhHVGRTSkk3OVdHVzA4bDJ1d3NHeWs4Z1FPNlJCLWEtdw?oc=5
+- **Source:** SBS
+- **Published:** 2026-10-03T14:30:37+00:00
+
+## Iceland vs. Bulgaria: Live game updates, stats, play-by-play - Yahoo
+
+- **URL:** https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUVFUNEtQTE56aGlrVG1TZ2dTZXZ1X2h3R0ozWWt2QlZ2SG5IMkItX2VVZVQ4MWZzZ05mUDJRLUVRN3RRZ2gxMzRZZHZKTEhlQTAwN3ZZX2JvTm1QeWgzU2RZVm8ta2tjU0c2UDZIc3VFbUh5MC1aWkxrVVNncmpYT096b0U2QVlOdUZF?oc=5
+- **Source:** Yahoo
+- **Published:** 2026-10-03T14:17:24+00:00
+
+## [!LIVESTREAMs!]Tv] Iceland vs Bulgaria Live Stream - oita-trinita.co.jp
+
+- **URL:** https://news.google.com/rss/articles/CBMirAJBVV95cUxPcnFFZVZuYUc5Q2VEMURObU41WFJUeEtHYzExejJxNUNQTnl5Z01lUzFNUFNJODM1OEp3MmJYTl9acHNqV1JEWXBsQ2c1S2hmckl4bm9jSEZQSGVybmM4Y0V3Uk52MUI5YW5DVGZOdV9JTHY3YVBiTC1BRXNwaTBHczhUVF9MaEh3a3dJNVZjSDJpdlRUVVA0OEVVUUpiWlRIZmpjZXp3bGJHWWxpaTI2OFFZb2JsMjlMZUViYmlZMEZmZ1lsTEI1akQ1MHFLMnJzRjhhd2RUS0l3ZDkxOW9QRVBsQmJ1Z3l6ZnlmdEdnWHY4Y2pKMk56V3RuZTE0OE1zZEpwRzUzSXFIQjluZS1jYzhKZDBwdlBlTk9yaGVmdG5lYWk1R3FBOWFvUlY?oc=5
+- **Source:** oita-trinita.co.jp
+- **Published:** 2026-10-03T13:39:39+00:00
+
+## !+【【4K】】 Iceland v Bulgaria Live Free Soccer Match - oita-trinita.co.jp
+
+- **URL:** https://news.google.com/rss/articles/CBMiqwJBVV95cUxQajd4ZjM5bWFxNWpObWV0ZWNOWFkwXzBudDRoUWhxNlNVMmg2akdma3ZqbjlSYTVOdi1qOTNSWGQwN3lRUDFCWllWeGxoTGduY05tZm5iU0lIbmk2R0tMQlVKWC1kYkhHNDNVRzNsb05qQ21sbTY0MmU5VUJDVDEtRGt2ZU1WNHpza0tXNmRBMmUweFdGTndSbDdWYmZVUEpXa2g4bUJfZWNkTWN2QnVnLXEwcEtxM0J6MlZZeFpEYUI0cUhxSWhBUEVraDh2ZHY2YmU3dk9pd200RWRrWlp0cWEwVF9Lc1FUTEZWUXF6LVVwSmRMdUJXVzhLRmJaWTE4T2NwRFVYOUdkMkZ3QWZxczZPVlZXeS15a25YckhTXzVZa09mckFxcVY2QQ?oc=5
+- **Source:** oita-trinita.co.jp
+- **Published:** 2026-10-03T13:39:16+00:00
+
+## [LIVE*sTrEaMs] Bulgaria vs Iceland 𝐋𝐈𝐕𝐄 𝐒𝐭𝐫𝐞𝐚𝐦 Ｔｖ Ｃｈａｎｎｅｌ 03 September 2026 - oita-trinita.co.jp
+
+- **URL:** https://news.google.com/rss/articles/CBMirAJBVV95cUxPWnMta25zNkVjclVoSUV3SlJwY2psWkoxS2xfeThyTDBMQnZwRjZyd2JrRDFGUFpFYzRUZ29WS2stYm9HUlZoS29rRmttMGpaV1FoT1hkWDJyOFhKY0ZieTZuOUYzLUxtTXduZ3Z3R1B0TG4taTExM3huakc3REhPUFlVRnh5QXUyMGc2VjRvdGRwcUd0LUhmb2NMVk42NjQtNVQ0QmVFdTNYT09DblRTSzRkNndTMUI5WE0xbGw4TzlBbzNtUmVLUV9wcnFyQUVLbS1XZWFjQ1Y5UG9GQnp6bjdwRDlua0U4Q0VoRjRvRS1zWGtTRUpZSTBESDZ3MGJHYnQ2VTAzeUo3cHRFWEttdWxLVVlHTDB2dkUxQTFmN0NoRDFvaXZQX1lURUI?oc=5
+- **Source:** oita-trinita.co.jp
+- **Published:** 2026-10-03T13:37:31+00:00
+
+## (sTrEaMs Coverage)! Bulgaria v Iceland 𝐋𝐈𝐕𝐄 𝐒𝐭𝐫𝐞𝐚𝐦 Ｔｖ Ｃｈａｎｎｅｌ 03 September 2026 - oita-trinita.co.jp
+
+- **URL:** https://news.google.com/rss/articles/CBMiqwJBVV95cUxOQmxsV2QyYjJvTWJUTnd6UjRHemtWSW1zNE9zNkhrWG82YWx3b1NKY1dTRnZtMEczOV81NmY5bVpPS181NUVQam5LWDBEQjJOQ1VOYWRsbTFHeEx2VnNoTXppbzFPbmJRZEdHMHlXNTM4SGdjeTQ1WkVBN1RQMFJTb2M3T1RJTzNHWi1VRUttMGp4RDhBNEJ4M3BJRVdoQ1BLUEFkck1lYjJSRkdWOFpuMUlXMjNNSkFaR0cyMDR3Y0MxeEx3MkZEMHBDTWhqQlpDR2VhN2JNc2lVNjRPc3h1ejk2V1ZMbG0yV2dCQ0YyS2tnY25zcVlFMUNiUW95czhiOXh6OTA2dk4ycXpjV2tYN3kxbEFHR0J0SmgxQW5BQTBpblhlNVhrM1VpRQ?oc=5
+- **Source:** oita-trinita.co.jp
+- **Published:** 2026-10-03T13:37:29+00:00
+
+## JEF Defence Ministers Meet in Iceland on Regional Security - Iceland Review
+
+- **URL:** https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZXEzSVRTblVqR05DT3Y1Y3ZDVThYUmVyeVJBc3ZGYnJTdXRqYUJNb3F6cTZpelAtQ09FeUs0REZwRk1fOWdMVGxwcTBEODBXVWRnQXVTNHE0bE51alJKWEV6YVlGZlY5YV83OGd1NG50Wl81VW8yWGw5OUlvYThHX3pqVUpzQWY2ZDJv?oc=5
+- **Source:** Iceland Review
+- **Published:** 2026-10-03T13:30:00+00:00
+
+## Hafnarfjörður general fees Not to rise by more than 2.5% - Iceland Monitor
+
+- **URL:** https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQzFPallnNDJNNVBDcmpfdndGWVZiYWt0TW1xY3dyMkIzV3BRZXFUbkhkT1l6SFJLRUZzVHBYOFkzNi1zUDRlZ1JkTV9tV08zRVozUllxWmR3Ukd6Q1Nodk5OMDl1dHJZMG82eV9kM08wTm00Y2hCQ182TU5aZGtKVXNwTHE0RzhOZDBVMm9uOHNKWEN6ZllvU1lzekg3TVpqRHUyZkNEb3pzQWI3WC1BMUJwcUNSYnBSSTJr?oc=5
+- **Source:** Iceland Monitor
+- **Published:** 2026-10-03T13:30:00+00:00
+
+## Kenilworth September news roundup: Iceland, half marathon and new boutique - Kenilworth Nub News
+
+- **URL:** https://news.google.com/rss/articles/CBMiwAFBVV95cUxPa29mZXdUd1FmemhDbTJmaWRIQXJqeDF1ZEEtbjM1QUdxOGdxcTNLU1o5RnF5amZZYzJsNldHVktKbU4xblM2cE5xbmQyVTZpMzNjY2xNMnBCbHYxQXRUWmk0WURTNHMwM2k1Q01tLWVHTnU2dEJPYnZWTWo3U2J5VzVEOF9pMzJtbGREbTJxYjVJVmF3dW1jTWpFbnIwa29TcjFhaVdfd2IzZ3BNeDU4UjB3SG91SDkyczhiTDk3eGQ?oc=5
+- **Source:** Kenilworth Nub News
+- **Published:** 2026-10-03T13:20:41+00:00
+
+## Iceland Review Playlist | Music For October - Iceland Review
+
+- **URL:** https://news.google.com/rss/articles/CBMihAFBVV95cUxOeFAtZDdkeUFNa0wyTDM4bnNxU3JOODdlUTJiMTViUkpoUU9oVngtVV9IbmxGQ0taZW9YOEZ1QmF2QTZPb2JTeV9McHpCMEttZ3JlS2FyMVpsbDB0ZGJHOU1DT3QwZFhfTGtrVE9CWnpicVhXQkV0RjlWcV95Q1ktLVJZNTI?oc=5
+- **Source:** Iceland Review
+- **Published:** 2026-10-03T13:00:36+00:00
+
+## Moderate mag. 4.5 earthquake - Iceland: 11.7 km E of Grímsfjall on Saturday, Oct 3, 2026, at 11:53 am (Reykjavik time) - Volcano Discovery
+
+- **URL:** https://news.google.com/rss/articles/CBMivgFBVV95cUxPNUdyT1lqOGJPUWJqbTl4czJ4bU4zRU0yRGxKdnVJQ3UxYWZMbjBqMVVIUFhXT0l1dnhXU1hJUGZXMUtTaGlzLWtibGVoUnl4elhoa3dnQ0ZsbEFpOHRCU1VZMlpZXzVuTGRJbHFQQ3NyMlFMbHhkYUNFdURyZ25Celltd2FTNjV2TFBhZVkzdkF4dGVJLTFnRlo1aXdwb3RmUUpvRzJna095X3Z3eHN5NTdoRUVXVjdZVlJKYUhB?oc=5
+- **Source:** Volcano Discovery
+- **Published:** 2026-10-03T12:03:46+00:00
+
+## Drivers Receive Incorrect Hornafjörður Toll Bills - Iceland Review
+
+- **URL:** https://news.google.com/rss/articles/CBMiigFBVV95cUxObk4yNnp3N1BNX3NlajcyRnIzdy1iX2tBZDRNaDZITnllME1lLVdwQ3V1b1JjYWhsbUFFTFJhU0ZLbERGZTY1b19mUHJ1TlRRSWc4UTFVQnFJREtsRXlVcHk5WHNwMGU2TlhKbXhUQmtwU056ekgyZzVYaEtHV2ZObnM0ZlNRZmo1Z1E?oc=5
+- **Source:** Iceland Review
+- **Published:** 2026-10-03T12:00:00+00:00
+
+## Some good advice? - The Lewiston Tribune
+
+- **URL:** https://news.google.com/rss/articles/CBMidkFVX3lxTFBwWHZoWHc2QzdKTW1UTENfVWRrbk5HLVVlQXgyeHpFTVdSeXB3dUo4R0VrM3FiRE9jdUhRS0xjcEQtUWtWR2tSeGhrSDZ2Z0pjVU1KYWkzRmh0ZkZyNkhYTXRHOWsyYlJxTHVYdWJKalFaUFZKY2c?oc=5
+- **Source:** The Lewiston Tribune
+- **Published:** 2026-10-03T11:48:45+00:00
+
+## Further investment in Laugarás to be reassessed - Iceland Monitor
+
+- **URL:** https://news.google.com/rss/articles/CBMisgFBVV95cUxNdEFGenk5dFJqRGtzSmNJeHpuc0E4WXhGVVVqTlR3MHppRTdEbS02cHg0bjBhdnhac1p5YzNMeGlSUHpDXzJ0dU5xM2htM3N5ajZYNmk5cUpIS0lYdDdNR0daMXF0SC16ekxkOVljVFJzQnRCdkRyd28xcks3dXZndXJldDFxdjl4cm1MOEJZRkUtZGZnc0dCMWpMckNTMEVBRnFJcGMzS21vWXMxd0pvU2hn?oc=5
+- **Source:** Iceland Monitor
+- **Published:** 2026-10-03T11:00:00+00:00
+
+## Further investment in Laugarás to be reassessed - mbl.is
+
+- **URL:** https://news.google.com/rss/articles/CBMipwFBVV95cUxNbkZGYUJ6NEpxWUVrTVdpbGpvb09jVXhjYUZMNUJ3ak5hbHF1b2VRMUlnM3dFWmhXLWIxNVlNcHQzLUZIdjlJcVdaV1dfbkV3YjVHVndoWFBOYTB5TF8yMzN0X19kdDh2bUhTY0xzU3pLUW44QzNUUEdmN0t5Q0N0VWFYNHVOZkJBeDhWTXZRSzBTeEktVVlGS3VENjVGSUNqa012YWVpZw?oc=5
+- **Source:** mbl.is
+- **Published:** 2026-10-03T11:00:00+00:00
+
+## Where was Masters Of The Universe (2026) filmed? - movie-locations.com
+
+- **URL:** https://news.google.com/rss/articles/CBMieEFVX3lxTE83QjlSYS1OMGstY29oSmlHbnlQZmJMdDhNTjNlNUpzTFdYd0pSRmZYZ1BCd0RoTkpQaWRKSGViMnpVV0tEcEZaOWg0MDBRRzRkUzRLdlk0MmY3bEhhd0pOaTAzTmJoQ2kzQXcySHdUUGx0aWVaTzF6cQ?oc=5
+- **Source:** movie-locations.com
+- **Published:** 2026-10-03T10:54:05+00:00
+
+## Iceland Roundup: Unemployment And The Ghost Of Spending - The Reykjavík Grapevine
+
+- **URL:** https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZmxkenR4TGljSUV2X0lZUkt2VTRCcncyRmhza1ZlVUtIa3Y0LWxhNmVDb0RNMkM2MnJMYkNKR2pGVmNFQXNfM3lSTENXbVh2QUgxeW5GN0VxQ3ZOV2IwSnkyZUJjMG5GOHIxeEdaZFZiNmRTazZlaEJWUjcwN1k5aDU0QXZGT3JjWUR4T01CSFltVGpyRGlWSUZzWGNub2tIQ0FwTmdyS3FFdw?oc=5
+- **Source:** The Reykjavík Grapevine
+- **Published:** 2026-10-03T10:18:50+00:00
+
+## Iceland: RÚV Yet to Decide on Eurovision 2027 Participation - eurovisionfun.com
+
+- **URL:** https://news.google.com/rss/articles/CBMinAFBVV95cUxQVm5pTU9fdTdFV29VMnVXQlFTaWl6Rlk4RmRpWkJKNlVIdkVLMVlDcHVTdktnZ0xMbl9KNXctQnhwV2Q1eXQ2S19MVjhSOGgzX3V4TTNZQnRBVmxZQVNWN2lRd1ZZSVp2bk5ULU5ERGp5SEFHTm8tYzNlQ2tCNlRDaWY5RmtENW12cW95Sk8yUjYzeHNpaDFFV0NZcU0?oc=5
+- **Source:** eurovisionfun.com
+- **Published:** 2026-10-03T10:18:26+00:00
+
+## Watch Iceland vs Bulgaria - TOD
+
+- **URL:** https://news.google.com/rss/articles/CBMimgFBVV95cUxQVklheDFpU3hYUVVLOWIwSl9waDFRUjNhbmpIVDFpSk00OUx6d1JqT29aSFBma1oyYmRDQUowU1lINS1EeDJoSWJoMHlRN0pnVDh6Q090WW5Uai01Q0s2ekd4SGY3ZjBCbFE4bkd5VGFFbVR4aDJhUWkwY1hSVi11OE9FQkRPZ2ZJdDVGakhXNUVTX3JSUVZqN0FR?oc=5
+- **Source:** TOD
+- **Published:** 2026-10-03T10:08:39+00:00
 
 ## Iceland vs Bulgaria: Where to watch, live stream, TV channel and kick-off time - Goal.com
 
@@ -189,117 +303,3 @@ _Last updated: 2026-10-03T09:42:25.058038+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSV9fNHhSRFJLNU1qOHNGN2FGVWFWMkwtX21JdDlaTVkyYUZpaWQ0b1M2T1FueDR2YXZub0NjeWp5SnRjeFpwQjhRZV9DazRlMXZjR1lmT2xmaUdqRXlmNWRDVUNFeTFVVE44U0FVZGMwMjA2bWFGcUtCWWtkUVd2SjdnOVA2RGRCNEVrRGtxbmpNYkt4N1ZxcmlBc01jVU9naDlfRlNXZlc3bXE1a3ZJMDRVUWhhaVgyNnUzZFduQ0c?oc=5
 - **Source:** African Arguments
 - **Published:** 2026-10-02T12:39:29+00:00
-
-## Grímsey Documentary Eyríki Opens in Reykjavík on 6 October - Iceland Review
-
-- **URL:** https://news.google.com/rss/articles/CBMikAFBVV95cUxQd1V0aUVYb183Qk1MWDVQMmV0VjlJRnd2c081QXhIZjJMZHlUUnkxYmdzUEMzQlExemR3bEcxZTRLanFVQ3l6Tm1vNDUtcmw2NTNvNGswUlNPRjRtUXJkTTZsaW5DR2xLSThxV253WV9YU1RCX1FPX2J2VEhTalRpT0lVTGdtZ2NPZWYzajBIa04?oc=5
-- **Source:** Iceland Review
-- **Published:** 2026-10-02T12:00:30+00:00
-
-## Ming Ting: “I couldn’t kill myself” - mbl.is
-
-- **URL:** https://news.google.com/rss/articles/CBMiggFBVV95cUxQTlZIdy1wVDdlY3lwRTlNRV9LZlZPX1JZWmEyTjRqOU8tR1E5TFgzdUZqZVpfRjFwQTVLSEs1UnhESWZMenp6eUh2TW9mSFRfeHdYNWJ3enI0c1hJcW1GeG95eGZIUnBiNDgwU3JlVkVfRUxCYTZVRnRoVmFUQnpBcGZR?oc=5
-- **Source:** mbl.is
-- **Published:** 2026-10-02T12:00:00+00:00
-
-## Phones sold in Iceland to undergo 112 support testing - Telecompaper
-
-- **URL:** https://news.google.com/rss/articles/CBMinAFBVV95cUxNODhTWTlld0ptdm5pdDZFaTgwR25DR0hpb3ZScnJNMlh5enFjQVBuTXBsRVBlbTRKQXBySXNKdGU4WE54LTI4dDktTWxVaXZ3WFZUcks3SnFicjVDc2xzeXE1Q05rMVpvNE1FYW9BZE5WaXk0cjM4YmhHMzhFSXl5M2g1azc1eTI0dTE3UkNuMzNGUXFQQ0ptTC14THU?oc=5
-- **Source:** Telecompaper
-- **Published:** 2026-10-02T11:48:04+00:00
-
-## Met Office Expands Landslide Warning After Flood Reports - Iceland Review
-
-- **URL:** https://news.google.com/rss/articles/CBMiogFBVV95cUxPOFNldlduM3dadXRKLTNnNmhQUTlGdW4yX0VRZzNIUHNsOXI5eERybWNNbUZQbWlxS1FiekVBQUZFRVlQNExiOVM1NG1rM3J5U2ItNTBCQ2tsclJHa211cjlNWHNQaGdhT0tzOG14ODg3QzNhd1JzTENWOElyMjFvQVA5MEpORl9EaFhBTkxTVXVrWWFUaDlBM1RaZ3NLV3dST0E?oc=5
-- **Source:** Iceland Review
-- **Published:** 2026-10-02T11:30:13+00:00
-
-## Iceland Proposes Six-Year Wait for Permanent Residence - Iceland Review
-
-- **URL:** https://news.google.com/rss/articles/CBMikAFBVV95cUxOaUp5dXFzRFhGU1pZQlJ3LUw0eGtzcnRBRk1lNG5OWVJYZkg0a1JVeE5RNWxTNFNfbG1BTWlqd3RVU3hRaTZYN08yVUlHdE1FbE5DNHA0M2p6ckhkZEh2OVNERi1keTA5WldKRDAwUktvVjcwakx6OWh2SlE5ck1XMUV4OHhjQmd5Wk51TklSQVg?oc=5
-- **Source:** Iceland Review
-- **Published:** 2026-10-02T10:30:03+00:00
-
-## Sjónvarp Símans Premium tops streaming survey - Iceland Monitor
-
-- **URL:** https://news.google.com/rss/articles/CBMingFBVV95cUxOMlZEWWJRcmgyRjVjVWRhTmJGVlpzNzJYRTl1b0FYQUVycDNmXzZzanpud2FYODMzMXhKaGlORmYzaFAtQ0J6LW9xWE1ud0U5UURYMTBwbmM1YjNCcW9jbWMyaDAxbnZ3NmFrWFlNeVpmd2luZ0d6d2R6TmRNVS05OWZUTUJxQkl2WEE0OWw1d1FfM3pUZ25LOUtBTXllZw?oc=5
-- **Source:** Iceland Monitor
-- **Published:** 2026-10-02T10:00:00+00:00
-
-## Marco Rubio to Visit Iceland Next Week - Iceland Review
-
-- **URL:** https://news.google.com/rss/articles/CBMif0FVX3lxTFBmNVhFUTRRZm5QczJYQXRwNVkzMlV0bEd3SVZ0N0o1dWU4Njh0Y3lkR1pXSjIzTnU2VXVINlIxaFo2RW0tb0Ita0FEOElzWTRzYnB6cjFJVi01WmFZakxvQnUzdXhINTBYX1FmcmowVFNxak4xU3lSajlXek5DTFk?oc=5
-- **Source:** Iceland Review
-- **Published:** 2026-10-02T09:40:23+00:00
-
-## Icelandair to end direct flights to Maritimes - Your Halifax Now
-
-- **URL:** https://news.google.com/rss/articles/CBMifEFVX3lxTFB5cWxTNXB1R01aN0dWdHN6ZWxPLU81cnJ0YlhvQmg1YVI3S0g2djVMQ1h5alg0dHA0STJsbWg2ZVlFQjZyVGxIWVRBN3Zfd0lfQUdjZnF4YkFfS1h6Y19ueVpGRVJMb2ZIcW01ZEczNTB0aEwzMXZ4WGhZeXk?oc=5
-- **Source:** Your Halifax Now
-- **Published:** 2026-10-02T09:37:00+00:00
-
-## Kaldvik secures short-term covenant waiver after jellyfish event impact in Iceland - Undercurrent News
-
-- **URL:** https://news.google.com/rss/articles/CBMixgFBVV95cUxQM3JEVl9jdnRZM2xJNzBGd20xZkFqbVVyRmZQOFY3Q0NkRXF5bm9adkphSkprY19VR2JubHFkeUd0LUxXdXh4WVRocjlsNzRGMzRCRkUxclA1S0hvc0VKUkg4Q2NBdkhBajFuU0ktM3FmWEY0QnUwYWs4VlYzZUIyRzE5WkZZU3VGZDZGWnhxYjJhdmt0RW12SXlWdjFYUElxbGcxYTkwYnNUWldMUlBJVlB5cHVqcFVmdjluQ1FoQ05VeHhCRUE?oc=5
-- **Source:** Undercurrent News
-- **Published:** 2026-10-02T09:12:00+00:00
-
-## Iceland vs Bulgaria Prediction: Iceland will hold the top spot - Telecom Asia Sport
-
-- **URL:** https://news.google.com/rss/articles/CBMiyAFBVV95cUxNQ1JvRUdLM0NpbnRiY2RBUkVvdi1kLTYzOXBOWmRMeXhZMjBpeG9CbUdQeEcxb1l2QWpacGtveUZNUW92Q21FbENtVDVZWmpZUGVQZi1uVkdodjJGeDhhM2hpa19TRmxydjRfcVdZSEJOa1duc04tSkZkdkJhRzl0SURjcHpEVjd1U3c4SmxINXdycFI3c0pyekFiUWY2UGc2U25MbnpRWTMwUGlEanZ6Z1RBVGFWOXdGOFV0WTY3TlJzT3dVbWZBUg?oc=5
-- **Source:** Telecom Asia Sport
-- **Published:** 2026-10-02T09:03:01+00:00
-
-## Iceland: RÚV yet to make final decision on Eurovision 2027 - ESCToday.com
-
-- **URL:** https://news.google.com/rss/articles/CBMijwFBVV95cUxPd2ZueHlwQlNSbGljQkhjRmU0TTJSQVFJSXBsX0N3UU1nbWgxSG9ZbzducDdQWWxMOWZZWjZ2Y2w3U0hjMFlWc3FTM1JjZXBHb1VQRGZkelQ4allyNWJHcmwyQkdpUVpjWjlxdDh3Qks5VVFRTjNvaFJLNGM5M3dZSGpSR08yNF9HTkYzX0JaVQ?oc=5
-- **Source:** ESCToday.com
-- **Published:** 2026-10-02T07:16:55+00:00
-
-## Iceland September 2026: Tesla leads, Leapmotor up to record 7.7% share, places 3 models in Top 20 - Best Selling Cars Blog
-
-- **URL:** https://news.google.com/rss/articles/CBMizwFBVV95cUxORGhPd2stT2tHeGVIV0w0SFBYU2JYXzR3czFFRE1FWXA5cDRJaXE2XzN1MW5nVExnX19fZ0twLUNoNmdHcHhZbFU1XzllWGVyWHczQkNscHJjejlMelV2MG9YNXZvbktfa2FSMEhrYVRWN1djUjkyZmVTV0lFOUxRSmgyX2FWazJYMUhHMkFOS3FRRlFqZlNkRWlrTlpEcXUtQkkyZTc1M2RuSXNqZmNvMGFjYzFjRzZHd3E0eHZCLTZVRWtvX2ZtQmY2bk5nalU?oc=5
-- **Source:** Best Selling Cars Blog
-- **Published:** 2026-10-02T07:00:46+00:00
-
-## Rubio to visit Iceland, Greece and Portugal next week By Reuters - Investing.com
-
-- **URL:** https://news.google.com/rss/articles/CBMipAFBVV95cUxOXzRVWjN0S3FjekxhZE85Uk83NC1iSEtVTFVtb3VnWHJ4OS16UlpDdHBLTDM5N2x4SFFKbngzN1Q2eGtSYXp2aW5KdHZMRXA2NlI2MnVGYkZPX1FYVmoxMUdYQ1VPUHhNZVJ5NWFEcU41eGo0TmFITGliNzRfT1R5RmpjcnNFSmRVX2VhN0Zrd0hXZENfVnkyQ1JHZHkydHlDVjdEVg?oc=5
-- **Source:** Investing.com
-- **Published:** 2026-10-02T06:11:15+00:00
-
-## Marco Rubio will visit Iceland, Greece, and Portugal for talks on security, energy, and strategic cooperation - Informat.ro
-
-- **URL:** https://news.google.com/rss/articles/CBMitgFBVV95cUxQMmoyMHA0VWdRUmhDWHdMenVMTll2ZmdLSko3c2syTjdQU1VJcEszbzVVWXVBUWZ1eU5WWnFhTy1vVU50S1BHQzhISkN0U0JGZDhZMk1HWWEzSXpicTN0Z3NWSGdfQm1pdmRVcm1GNmpRTlo3QlRKSzRPdjRnQWp2YlBiRDNCd3FCa2xFS2s1bk5rSC1sU0RfVVFKd1ExOTVCa1NCX3k2OHUwdUFqSGYzd0c0Tk04dw?oc=5
-- **Source:** Informat.ro
-- **Published:** 2026-10-02T05:46:33+00:00
-
-## UK Leads Major Joint Force Exercise as Ministers Meet in Iceland - miragenews.com
-
-- **URL:** https://news.google.com/rss/articles/CBMif0FVX3lxTE8yWnNVUk5xV2l1ZHlZU0hKV29abWpQUlNLaTNib2lfZHdnTXRKYmZLY3JpQmZtMndlZVc1b2pNMXR5YkFjLTNaZ1FKaGw5Vm1ZYkFCbFZnVll1TWRwbWlMazVsUXFZeWN4R0RBak5URlMxVFlNVTY2YzNuS082SUU?oc=5
-- **Source:** miragenews.com
-- **Published:** 2026-10-02T05:24:00+00:00
-
-## UK leads major Joint Expeditionary Force Exercise as defence ministers meet in Iceland - GOV.UK
-
-- **URL:** https://news.google.com/rss/articles/CBMivgFBVV95cUxQNVFKZFBwdVRTd0ZWYTJDdFczcElmS0QzTzd4djJqNzR1UkdHby10VkZ4LUdjOFFGVTl3UFBlRDlKNk0xdDY1b1B6YnJyblhpYjkxdF9TZ2Z6UWtaNmxuYWpBSG1TUFlQYzRJd2tBazZJSmVWQ3ZlLWFnR1JXUzhUVWtsNlhLTTZiZG5PcUlISl8zcXE5amRHR2pyMHZwdmVGeUxRYkMwVG13dlBxZGU0TjZVTmtYdU9YczhwbDBR?oc=5
-- **Source:** GOV.UK
-- **Published:** 2026-10-02T05:00:02+00:00
-
-## Iceland vs Bulgaria: UEFA Nations League stats & head-to-head - BBC
-
-- **URL:** https://news.google.com/rss/articles/CBMiY0FVX3lxTFA1RkRZYnZ0aTM3OXZOcDliZWxlenB6aE1QVXFFRGZSYnY1LU9ZMWFKRXVYcjJrZy1SVnkxWlJFWFg5cm9XYzdQWHcxZ1B1QjhIRzExcnA1ZTNDdjZiWUZmRG9Xbw?oc=5
-- **Source:** BBC
-- **Published:** 2026-10-02T03:13:01+00:00
-
-## Festi buys back 300,000 shares: what it means for Festi stock - AD HOC NEWS
-
-- **URL:** https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQ1JXVFBtNVRQV055YTZZUVAwWUdZdnNDS1hRMHpXOWh4RC1qSEc0eUxwNjNaVUVyQ1Bzd3d2Z1VlUnhJMnd4cVpuaG56UG5McElfZks3aVVLR3c3TWh6UHlNZEdqT0p3b0lvaWl3RlJFY0Q4NzVGZG43QkZwRkpaMElRWHVGSkVSNUFwWlh4a21Dem1aYUMxN2JiMFN5YUtORDl0Yk5oWFJEM1h1NEhPZXVXT3Q3MXRKYnow?oc=5
-- **Source:** AD HOC NEWS
-- **Published:** 2026-10-02T03:13:01+00:00
-
-## Supermarket shoppers thought they were parking legally, then fines arrived - South Wales Argus
-
-- **URL:** https://news.google.com/rss/articles/CBMiowFBVV95cUxOMUdqeDJTRkkxZjBaTURNSlM0aGZ3a05WUDQwTGRKczJEMngtQ2V6WkVMam1EaDFfTTF3WVhSSUs1SVZxN1B4RXdWLXp3dWNGYzdFWXpGcEZhd1JGYy1INzU0WnQ2LUZ6NFUzdFJVcmNBZ2lmMmw3ZHYtRzV2ZGo3QkhYcmdvT0FJb29hTzQ3bndUOXVLSjdWTGJydUZSV1l6VXJj?oc=5
-- **Source:** South Wales Argus
-- **Published:** 2026-10-02T03:00:00+00:00

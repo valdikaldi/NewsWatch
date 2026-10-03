@@ -1,8 +1,38 @@
 # NewsWatch — fusion energy News
 
-_Last updated: 2026-10-03T09:42:25.466065+00:00 · 50 articles_
+_Last updated: 2026-10-03T14:35:27.236645+00:00 · 50 articles_
 
 ---
+
+## New to The Street Show 774 Premieres Tonight on Bloomberg Television, Debuting Southeast Asia Distribution and Featuring Glint, American Fusion, SyncMeOn and T-REX Acquisition Corp. - Voice of Alexandria
+
+- **URL:** https://news.google.com/rss/articles/CBMivgJBVV95cUxQVU93RkpxbWhkRTYwZEZWQVRJaFYtOGl4OVVaX2w3eU1oeWw5a3NWb3o3V1kwdERaWElPblhLSFNWSlR1TUg1QzJrUkFOeDhGeHRldDBiZmFqcDd6cFdQMmhoRG1fTDUtdDVIYXJaaExhNDhndllFb3V2YzVlMWp2aTRWb0JDb1ZmZVBwdmx0LXJxaGMzMXFTN2VYU2gyY2djM2d1TEM1a0hqMGlheFdkUHNnRHBaR0tQRERsWWhKNEY2clpDZVY5RGptWG1TcGcyX2YycF95NnFFRXFqLW5aTVlmQUp2a1E1QnpKYkZub18zSm9IeExXS1FJMTVPVExITEFlZjQ4WnhITVNyZktoUVVXV2wzTG5YVVZzQnBGSnU1S2ZXX0JGNU1vVm5MbjExdDhSWlRsM3I0T1B1ZEE?oc=5
+- **Source:** Voice of Alexandria
+- **Published:** 2026-10-03T13:16:34+00:00
+
+## New to The Street Show 774 Premieres Tonight on Bloomberg Television, Debuting Southeast Asia Distribution and Featuring Glint, American Fusion, SyncMeOn and T-REX Acquisition Corp. - Corsicana Daily Sun
+
+- **URL:** https://news.google.com/rss/articles/CBMipAJBVV95cUxQTERjb21EUmNvNFpoejNmWG9uMmNud1UtNXM1OVE0eUhkTktsZ1VTeU5GQUhGLU1SR2lzSHV2SXRycV91UENQc0NpT3drZVFxbXh2Xy1aa0IydGZZSGNZdkZjQWUzYWJqdjNqR2ZNN2x1YzZGUlBEdmU0c0hkM3ozRDhtUTZ1RjBORnRJZV9rTnBvMWpvVHpMQjNBVDhSNHdTUzJUTFdkMkVQdmFydHJwNFB3b2hVcDVkQUlNSktFVGhNUnA4TXR0ZVFucGhGZTR4UHdHdkZfOV9XTGxtXzQxcWFlMXc2T2xkVkVrWnFLQmhtcFJwbXBZLUo1RDdMOHMxRkFtYVdWMkNVVGtMY0NnTUlFU2g2U2JaZUdkSkstSGpiMlpK?oc=5
+- **Source:** Corsicana Daily Sun
+- **Published:** 2026-10-03T13:16:34+00:00
+
+## Tyla & Future – Game Time - Tooxclusive
+
+- **URL:** https://news.google.com/rss/articles/CBMia0FVX3lxTE42bm5RaDBiSGVZdFhyX3Z1SFoxX3FtYUV4WlRNVWRlMUJQMndjckNZbkF6ZUxWWTFZVV96aDc3MnNlOEo2cDFjOTdZblg4Zk1sdlJzOW9nT1RIOVdwYUdxWlFGaTcwWkxndHFR?oc=5
+- **Source:** Tooxclusive
+- **Published:** 2026-10-03T12:55:15+00:00
+
+## Tokamak Energy Highlights HTS Magnet Technology in Fusion Development - tipranks.com
+
+- **URL:** https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRjFqeG52eDB6bTFYcm5LUmZPelhpUG9nNVk2SERaTzJBX1AxOHV6LWlTNkZNd3dqbDN2cVpiY3B2alU0U3NnT09FdC1sa3RlaHg4RFE2TDV3R05BU2lGbnRMYVUxZDRKRTZLeWpsWVpkTmtUTTZJb1BUTzNZMWRaQ05aYzhQNkZwM1p3OS1tSDBQOVNaQ2ZsZXlYY0oxLWtfZmxBUFRtbExDN0t4TGtQRGdwVEtLbklY?oc=5
+- **Source:** tipranks.com
+- **Published:** 2026-10-03T12:11:25+00:00
+
+## King Qwesi – Gold Digger Ft Berani - Six9ja
+
+- **URL:** https://news.google.com/rss/articles/CBMicEFVX3lxTE1vTEpnZDJ0U2poVS1Ldm84b3BGekdtN2IxUWI4NWIxallta3F6SmtNMG9ERTlKSVVwa3lUaks2SGYzLTFpZXo2d1RzeVlxcHlscEV0VVVRdWlma0pIRUUyMEZrMlFrZ1c3VDFwYk1sRmc?oc=5
+- **Source:** Six9ja
+- **Published:** 2026-10-03T09:56:03+00:00
 
 ## Weekly Startup News - TechStory
 
@@ -273,33 +303,3 @@ _Last updated: 2026-10-03T09:42:25.466065+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMivAFBVV95cUxOYnVKZ0tDc0pTcm82Sm5KZGk1QV90QWVYSE91Y2JZLXRIV2tOdk9DbnBramlvdDJPQlgxSFQxNTlXVlpHYlBaZGdCT2g1R09wMi1TRjVqQlVRTDRJYWFJaDRKeVFOLWpLSWxuZnpJd055UlUzcVhFYkpvN2lNWFdfWEJRUEJWWjVZQlBVV1dIaHM4eGxjbVYxYTdQZ3QwVm8xUmhzU3BiVjdwejZyZUFZUjlaQkxqN2lBNEtueQ?oc=5
 - **Source:** Beatportal
 - **Published:** 2026-10-02T08:33:18+00:00
-
-## Txmmyily – Lalakula Ft. Famous Pluto & Zaylevelten - Voxtrendy
-
-- **URL:** https://news.google.com/rss/articles/CBMif0FVX3lxTFB5cEhTenlnczloSWNrZW5WSmRobEt5cnlBXzNCRTIxSVdyQjU4UncxSmQ4aEhtSzJXRkhGM3Q1Sm1MelJMMmpUTFhQd0xuc2wyczRXemh3N3pQM0NuT3BYR0h0SlZtUnE4dUFGSHFfVUlzRV9NOXM1NGNhamJOU0U?oc=5
-- **Source:** Voxtrendy
-- **Published:** 2026-10-02T06:26:03+00:00
-
-## Land commissioner candidates vow to revitalize rural communities - Albuquerque Journal
-
-- **URL:** https://news.google.com/rss/articles/CBMirAFBVV95cUxNWVpjeGRvZHVRUFRPV2lUbGxfQm9NNk5uS1lzY0Z1aHlCLXdjT1ZJZk45MVh4VmhMR2hBcVduczI2MFRDSHh5bldiZFJPZTFVWE5HcU5WNEg5RjA5STZZU2FYME9wUm4zVzE2TXI2bTdtQWN5eDFtVmFXbUJfM1gyVHZRNXUtcm5aVHRKUlNtUDRfREJWZV9iU3laZXlBQnF3QUtDa08yS0Jud0U3?oc=5
-- **Source:** Albuquerque Journal
-- **Published:** 2026-10-02T06:03:00+00:00
-
-## US Dept of Energy opens $400 million research funding window to advance science, technology frontiers - ET EnergyWorld
-
-- **URL:** https://news.google.com/rss/articles/CBMi_AFBVV95cUxOLWYzb3JNZ2hMbGk4azlMSlVIUWtTZ1VwelZveHFmYzNHSTE2bzUyaV9Yd0QxZmxmWWtmRmxIVGY3NTFlX0xPM1F2Mm9TZDgxd3kxTldid0ZSVFJTeW5HcjFJY0xya0RUaUdQYzl6cHlsMDgwZjM2LXBLQXpRaVNLZF9lUUtjYkdOOHFKSFU3Yk55empVbll2c3lITnZ5VG9RbGh5VzJYZ0pWcjVBNDRfSHI3WlFhUlJDallzamtiTlpJNFh3djRha0xabm52M1lDcFp0ZzJxQVN6NTNhT3BBOTRRMTB1NzlqVVpNbGM1X25MMUdTZ0Fhc2JnZ0HSAfwBQVVfeXFMTi1mM29yTWdoTGxpOGs5TEpVSFFrU2dVcHpWb3hxZmMzR0kxNm81MmlfWHdEMWZsZllrZkZsSFRmNzUxZV9MTzNRdjJvU2Q4MXd5MU5XYndGUlRSU3luR3IxSWNMcmtEVGlHUGM5enB5bDA4MGYzNi1wS0F6UWlTS2RfZVFLY2JHTjhxSkhVN2JOeXpqVW5ZdnN5SE52eVRvUWxoeVcyWGdKVnI1QTQ0X0hyN1pRYVJSQ2pZc2prYk5aSTRYd3Y0YWtMWm5udjNZQ3BadGcycUFTejUzYU9wQTk0UTEwdTc5alVaTWxjNV9uTDFHU2dBYXNiZ2dB?oc=5
-- **Source:** ET EnergyWorld
-- **Published:** 2026-10-02T05:16:46+00:00
-
-## The Enduring Impact of Excimer Lasers - Optics & Photonics News
-
-- **URL:** https://news.google.com/rss/articles/CBMisAFBVV95cUxQd0h2d1FUajJTOUZudWpRazlWaUY5NVY3YzN1eksyYUx0Vk9BREZRWWotYUV3Y3VWRzViWEZzTFdBTl9DdGN4eW5FNFZBcXRtR0RYZWdJb3JrcVRVZjBCUGRTTmM1UHlfZnl2TUZXX1NEUzBmY1ZrYnR4djVMSnUxYmx3NUlWSTZibEN5S0JuandBODRsZkhyVTRWeW16NUJ5MFR4Vkw5aWV2TjUtdWE1Ug?oc=5
-- **Source:** Optics & Photonics News
-- **Published:** 2026-10-02T05:07:03+00:00
-
-## Japan's largest power producer JERA sets up oil storage company - Nikkei Asia
-
-- **URL:** https://news.google.com/rss/articles/CBMipgFBVV95cUxNZ2wxdzJLc3hrUVFlYXdLTXk4R3FaZ2FXT0lNWXhGd1FCMG9Gb215SlZRcmIybkJVaDJNSnM4YlFzaDV6ZVhLNWJkdkFIRjlpTElkdWNSTEgtclo5d1RkUzM4Zk1hMkh4TUp0ZHJxSFEwZXlwYmxWOXBLSWI4YnFqMWY1MzBTZkZfdkNwMWxYVTJuSk1vUm9pX0VhbmUycEU2Um5BekRB?oc=5
-- **Source:** Nikkei Asia
-- **Published:** 2026-10-02T04:49:00+00:00
