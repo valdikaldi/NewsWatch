@@ -1,8 +1,14 @@
 # NewsWatch — Iceland News
 
-_Last updated: 2026-10-02T21:54:53.602252+00:00 · 50 articles_
+_Last updated: 2026-10-03T00:58:13.572539+00:00 · 50 articles_
 
 ---
+
+## Iceland vs Bulgaria prediction and betting tips 03 Оctober 2026 - Dailysports
+
+- **URL:** https://news.google.com/rss/articles/CBMizwFBVV95cUxQOVAwRHduc21QZDRYZ2tKYUhuaGJuVFZUT3h6RHBiTnBsV2UxSzRfWUhMdUx5ZjY4ZlpGV2NzNm5KYUttbm1wajVDR1JqaDk1ZVFtQUlSZ2h1Q3hWaXVObnJMTnFpbm9mOEZDeU9QTmR0c2JWa0MtZndpdG9SMWZfMnhoMVJBQ3dhNGRCRzQzanc0M19ERnRiSlNPT3JnajJ3dVVsWDlENlgyVkVUM0J3LTVpcHFRb1Z2NFlVNFlmSjBwcXRZLTZyNWxwVVdrbW8?oc=5
+- **Source:** Dailysports
+- **Published:** 2026-10-02T23:49:25+00:00
 
 ## Icelandic Met Office Widens Landslide Alert in Eastfjords - thetraveler.org
 
@@ -297,9 +303,3 @@ _Last updated: 2026-10-02T21:54:53.602252+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMijAFBVV95cUxNb0FqV3ZDdExkSGdveXZVY0F1Y2p4bDBnbVJaWXhWMXc0SS15Rzh0a3BaQTFWVTFMa3czMko1ZnRPbDdOUGQxNnB2emgyUFRQQk9Qd3VmZFhqSmdPYVZiWGVEX19QaEt3X0F4UVIwSXpFWnlJZGdPYmEyM0dibWZXU05zY19IT3J1R2U5ZA?oc=5
 - **Source:** freeyork
 - **Published:** 2026-10-01T09:20:36+00:00
-
-## Iceland may boycott Eurovision 2027 over Israel's participation - 1news.az
-
-- **URL:** https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMTVzNEtHWV8ybUxOMkR5c2tHRW90c1RRbm5yRTV1OTVIM20zLWZQZGVKRGE2MDNCZnJTLXFtRXBib2Fzak5PYjhtclBINldoUnlIUFIyOVhraHk2ZmhvRzJ1SDlwdGdzUWJkN3BOZHhUdjRZT21nN1JJWWpHUnZQblNOcHlaTTFNSm5OU2NqeUFLaERoR1BYcnl3ZzA1UzBUYWZPaEZqb2Y5dw?oc=5
-- **Source:** 1news.az
-- **Published:** 2026-10-01T07:57:42+00:00

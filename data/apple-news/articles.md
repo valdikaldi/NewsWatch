@@ -1,8 +1,20 @@
 # NewsWatch — Apple News
 
-_Last updated: 2026-10-02T21:54:52.383315+00:00 · 50 articles_
+_Last updated: 2026-10-03T00:58:12.464789+00:00 · 50 articles_
 
 ---
+
+## Apple iPhone 18 Pro Max AT&T Glitch Requires Device Replacements - Bloomberg.com
+
+- **URL:** https://news.google.com/rss/articles/CBMitgFBVV95cUxQZDVNaGQxRVg3Mmo3STJkSDFuaElEbjNuN1J4Q0ZKY0x4ZGRQZk9iRzU2eDRSS0JPZ1dqaHlZOTNNNnRGZUJkSUNLWXlyT2NrSXoteXROX042SDZNeXhhYnhBbE51M1pSNmZaMzg4T24wVFZFNWdxU0l5RFJsbVJBSkVxeFlIQlhuSmZSREludUMwYl9HV243SFJEbHVwWWRRb2hxckNEWllZNkR3bDZpcHhNd1Y5QQ?oc=5
+- **Source:** Bloomberg.com
+- **Published:** 2026-10-02T22:01:28+00:00
+
+## Apple iPhone 18 Pro Max AT&T Glitch Requires Device Replacements - Bloomberg.com
+
+- **URL:** https://news.google.com/rss/articles/CBMi1AFBVV95cUxQRVMwY0Zzd1AwZ0c4T3Qwa1lLT21JYkZfamN1YWdYMVNZeF9qZk1wVm5reWxXLWI4UHJUcDJ5VG04YnZkQ3U1NmYteE56eTZfV2VjRENhVm9GdFBPMzg2YVBhd2xlWUFaejBjZUR4cUpZbzZ0akFtbnN0NTQwWDJld3dZZFplZk8ydVFTQzl3SjJ4RjJ0UFJtVWtvT2dPWlFxVjlYcWF6TzBVamF5V0tkd19VRTRQa3dyUFhIWVlMMG4yUzY1dUdQS0ZmNmZwNl8yeUo0bg?oc=5
+- **Source:** Bloomberg.com
+- **Published:** 2026-10-02T22:01:28+00:00
 
 ## After an October 1 stock grant, Apple (AAPL) officer John Ternus proposes a share sale. - Stock Titan
 
@@ -291,15 +303,3 @@ _Last updated: 2026-10-02T21:54:52.383315+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMiwgFBVV95cUxNN2UyX19vNGRQZHB0MVR2XzlGV0FLWEhhOG83V2d0djFteHY2RWR6blJQdFF5TjVIWk1FY2VsU2sxQi1vMlpJeUQ3TngxQVFOcFNhUTAxckNNNEROb3NXd09PemJXdFhLdWZNNG85SFFSazNFNHdIekdYbEVHMXNpeUdsRWRwSm1nd2s0X0JaS1cybkpIeVZBbjFHWkhzNFRpRE1sb1FpOHlyTG8wdmpQR21hVm42QzdyOE5yMnUtcU5nQQ?oc=5
 - **Source:** MarketBeat
 - **Published:** 2026-10-01T07:38:26+00:00
-
-## 11,304 Apple Inc. $AAPL Shares Sold by Chapin Davis Inc. - MarketBeat
-
-- **URL:** https://news.google.com/rss/articles/CBMiswFBVV95cUxQckVJNnJfcUZBaHphVjhxa08yaWFmbWViN1RfWm5UOHdRRVFjbHRZWFhjRElmcG5Oc0I1dmNzbUR6aThXTEhJOUdyN1lrZ3QtRVlxUEhxOXBGaUl5X0pocE1aZzVObGdjeGdqaXJ3SWtYY0FYdzhNeWY2ZUZqOFRURGZ1TVVadDF0N0l6cGpNX2RLYTNJQWV6Ukk3cmE1ZHk5UGZIVV9uY2RkT2tQaUtYMktzZw?oc=5
-- **Source:** MarketBeat
-- **Published:** 2026-10-01T07:38:26+00:00
-
-## 38,574 Apple Inc. $AAPL Shares Sold by Washington Trust Bank - MarketBeat
-
-- **URL:** https://news.google.com/rss/articles/CBMiugFBVV95cUxPbW9Gd3dyV3RKU3NuSXBWdE5mNnRhdXNtNmQ3THllZ0ZlLW9ieExuSHdmY25Za2psMWVfalVDaldxb1VhLWkyX3QwYUF2dTZLWTRFUjZSUWVRbER4NDc3ZXZQX3NUU0N0V1pmS192VFotRmNQZ2dTY1ZncU9FQkNnbl9ELW50c2lNbDhTb2hxU1J2eG9RejhRTkYyRnRKTWJfMHNnYjh0OFdlYWc3LTFKSHBodnRkeUJxUnc?oc=5
-- **Source:** MarketBeat
-- **Published:** 2026-10-01T07:34:22+00:00

@@ -1,8 +1,44 @@
 # NewsWatch — Microsoft News
 
-_Last updated: 2026-10-02T21:54:52.898442+00:00 · 50 articles_
+_Last updated: 2026-10-03T00:58:13.090284+00:00 · 50 articles_
 
 ---
+
+## Tested: Microsoft cloned Outlook Classic's look into a New Outlook theme, instead of building a native Windows 11 app - Windows Latest
+
+- **URL:** https://news.google.com/rss/articles/CBMi7AFBVV95cUxOSlFGT0JVS2kwRm90RmlCTndBNi1QalVmLXdKakJBV0dtRFBoY2psRVhKa1dkZjA1cjBOTDd6SG4tVlVpNVlqWkRIOWZVWTh3RWtROWM3TGpYZlV1bDJ1Y1BpWVZoMDRNMGZCMkY1Y1VnLVhvT0VhWUFidjI0Z1FEZVBBM21NNndQTXVlb1VUZ2lXSHZ2Y0VlZDZ1YWNMZ2pFZGpHZ1BzMzA4aUNpSVlCZ3FSMThzWHYwSUNMZm1STE9LaWVaMmZGbHhwNjUybk9oMWVuQ3JFTDNHd1k3WlJROTlMc0gxYnF2SEVXSw?oc=5
+- **Source:** Windows Latest
+- **Published:** 2026-10-03T00:32:30+00:00
+
+## Luware Introduces NimbusOne Client Following Microsoft Unify Certification - CustomerThink
+
+- **URL:** https://news.google.com/rss/articles/CBMiowFBVV95cUxNaTJTUFo1cnFKTnU3UDZ2OW5fQ2VUS0pCelh6VDZPZzU1eVh3dHpMUTRSTWlPSEk1TjRySlNkTGVldWUyb1VrNTB3TXBfdlB3NklibzJiTmE1SWE5bjBnSndnaEItTWdXWmRGSk1JenlmRC1hODZpNVNJSkV0REI1TDJXYVJhZFZqOVhpMjN3cUxCT2hFSEtMU0lhQUhEYXZNeGdZ?oc=5
+- **Source:** CustomerThink
+- **Published:** 2026-10-02T23:58:04+00:00
+
+## AI Co. Inks Deal To End Copyright Case Against Microsoft - Law360
+
+- **URL:** https://news.google.com/rss/articles/CBMimwFBVV95cUxObkZyeXJvZGJMcEtPb1JqYi1weXVKcFZWTlY3aW5oU2NmU2NfVThjSXhIVkIyMFRNOXRlYWkwWDIwMUlRYmxpRnAxMG9NcXJuSW9fbjJ3a0RvanNPcnctUWlqbUFaNTQ1NHhTOEp1QW53ald6SXVNUlJoUHZkWE5ZejM2LVlONnZiOHljRUJLVENIUUU4R2tZWWRzTdIBVkFVX3lxTE5FNHA2S1ZZejVWblBQOE5HTGU1WTBQQjcwTy03RHRRVmdPeWY5WXhVUlF4aVJCaGpJOFF1SnEzR1hQRzBPVFN4V0JiR3g1TzZrSWVkbFF3?oc=5
+- **Source:** Law360
+- **Published:** 2026-10-02T23:00:17+00:00
+
+## Court Documents Show Microsoft and Open AI Know They’re Killing the News Industry - The Corvallis Advocate
+
+- **URL:** https://news.google.com/rss/articles/CBMisAFBVV95cUxQUmR1Vkl1bGE5cXdrTXJJbnFuczhBMWU4dTVRME9EZU5RYWRINkRmSzJvbi1OeDcwdmJ1Zk1nbWhtdldNcjJ5WkhuN25wdFNlTjdQOTZZX3U3djZtVTRTY1k0MW9lTllqV1dScTllRW9aYmFSbV9jdUUwM0dmbHpPRmkyNFZIUFdnMmFnWFp3Q1Z3dEZEeDd3TThsd3N4SElGRGV3VVVRYXdNWDBiZFdmYw?oc=5
+- **Source:** The Corvallis Advocate
+- **Published:** 2026-10-02T22:42:19+00:00
+
+## Microsoft report: AI accelerates cyberattacks, challenging defenders - SC Media
+
+- **URL:** https://news.google.com/rss/articles/CBMinAFBVV95cUxOUWhTdWhJWkppNHBPRFdlMmdrUFpxWjVZa2RMTXczU0Ywa0N0LUc5TUxPdlJYVV9uYkxFcUJhekYwY0VIeHl0eXBUOTV6ZkhmU0VYM3Y3dVdBandWQ2VWRi12RkNfSGw0TEwwUGN6UXVCM3NRaHhoTmRjZERjcktNSk1hWVMxYVd3ZVE5ZXpROGR1b3FuUWxjbVVaaUI?oc=5
+- **Source:** SC Media
+- **Published:** 2026-10-02T22:33:43+00:00
+
+## Microsoft May Abandon its Clean Energy Powered Data Centre Targets - EnergyNow.com
+
+- **URL:** https://news.google.com/rss/articles/CBMingFBVV95cUxNcFhpNlpmQTV4bzNWX2RCU1BWYXlkSjJlcW1UWTdSTlNxYnhwU2Qwa3N3a1lyRzV1Z3VZQ3AxeXBVQXB4TUMtWTlzb1hJamZtV29XU2tVdVM3Y0ppNEFWTVh1NjUtbmowYi1aYjhPN0hMUjhjR3R4ZDV2a2RySGRuT2VKZWJHa0NMei1mdjV0aDAwMUY2OFl0ZHdaam40dw?oc=5
+- **Source:** EnergyNow.com
+- **Published:** 2026-10-02T22:26:47+00:00
 
 ## Microsoft Delays Default Copilot Usage-Based Billing To Dec. 1, Adds Spending Cap Option - crn.com
 
@@ -267,39 +303,3 @@ _Last updated: 2026-10-02T21:54:52.898442+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMVhoUjMxUE9yeVNGOGpGSDRqenJYSFRPM3lHWHVFeHlVZjNndklnekRaeV8wSVhxWkp0ekRjSUY1OGprb0RRZkdMdlM2R21FeEk1SnN5dnlha1RGNms3bUEtTi1zUTM4VXFsZVBKSFlsZjdrVXlIb0NPU29EZU1sdGdLcGpYbGlrQmNTREhGaEhEd0tBeXg0TmEzUnhkeldZb2VIRmt1MjUxUFBhcmdST0pUWVVVdTUxTlJV?oc=5
 - **Source:** Neo4j
 - **Published:** 2026-10-02T15:19:53+00:00
-
-## Global markets live: RTX, Microsoft, Amazon, Nike, Boeing… - marketscreener.com
-
-- **URL:** https://news.google.com/rss/articles/CBMiqwFBVV95cUxNckdzVGhHMnNYbEdGQU9ZYkJCZnhZU29tTUN1YkxSLWlxY3RIYk5MVDh3NVpRU0JBMFpuMGFmYlM2dnkzdDk0UlRQZnVqeGJnWXhlc3Z5cndSTHlLQ1dKcVRJQXJsaGJHc0l3aGQ1aEVxOHNxNWRpU3Z4Vnl6QlBxVElwcnFacm96ZzRIRHByR0ZISlZxczYya21SeTFQQ3RSbjYxV2QycENZbDA?oc=5
-- **Source:** marketscreener.com
-- **Published:** 2026-10-02T15:19:44+00:00
-
-## SpaceXAI Eyes Microsoft As Demand For AI Compute Grows - finimize.com
-
-- **URL:** https://news.google.com/rss/articles/CBMiiwFBVV95cUxQSjJGd3pWMWd4aGFYOVVxX1AyeXZnVE8tdTBfM3dvXzdpaGtZS2tpUGtvNmFQeTQxTjhTaEFZWlhmYjFvNkpvN1hiMDdCMEcwUWVCYnNqLWs5Y28zWlFYZEFaeHU3YS0tUkx5OHVVdDBlWXV1NFBGbzh5ZUdmNi10TG1lOF9nd21LR0Uw?oc=5
-- **Source:** finimize.com
-- **Published:** 2026-10-02T15:17:34+00:00
-
-## Plan Tasks, Resources, and Deadlines in One Place With Microsoft Project 2024 for $49.97 - TechPowerUp
-
-- **URL:** https://news.google.com/rss/articles/CBMiwgFBVV95cUxPME9XZ0dmTTZlYnZscy1NenVrNFh4bG9oSXdqaE5oMWg2bEVabTYxYjNKZW51RDh6eE9KaC16TDV3MTRZR2Q0UjB1XzV0TnhRY080YUdTV1pleTVXSWttaHFzRzIwUFEtbWlfMUxpc3RUWjNTcnVfY0RGQkFuN3RCaEtwSWdyT2UtYVJWMGtpaHRkQXpqb29VZVFBeHhRRll3cUR5STdYbi0wU2VTLXFtSDF2anhpYXZtakwwYU96VFBoZ9IBxwFBVV95cUxPYUVwd21PYUJVOVhVUGc3X1FqRF8tU01ralhkR3hEbmdHdzVXc09nbWZQaGl3dGJfbEt6RjlkUVlvRFVXajF6MU5FQjlmNjN4OUVWYlZ6SUtVVkxxdmFuakdmeDlwOVpFZWNNZjNrMGVZMWxFUmY1aXhPTUVQd3U4NWJyX29RTXY2QTZEWkloWjNDYjBOS3hkNU9fRVpJeU0tWXJKWXNDNGtoUFJqa19CUmZFcFBOVjhNYXNiV21DTzU2ZmpWV2x3?oc=5
-- **Source:** TechPowerUp
-- **Published:** 2026-10-02T15:16:34+00:00
-
-## Xbox is "in a pickle" because "Microsoft never really picked a lane" says ex-PlayStation boss - GamesRadar+
-
-- **URL:** https://news.google.com/rss/articles/CBMiwAFBVV95cUxNY216QzJZMENOYkRjQnR4bUdHSnBidU9pdkRrdGk2TG1aQWZ2bkRCX2hYZkQzU3ZRLV9jVDVhRWxaNFJYcTZESGFtWElscG8tS2lPdDhiTXFlenhGVHFZT3lNMDhNZGRlZlE2Skx2ZzFrTEZPQ0JjLTNGVEZmYTBJSU0zS2ZVRU4xLVM3blVVdlAxcnVPZEJ0ckNjSXlDdlhjaWJIdGd0NTlkSEptaC1WbmU3dzZ0SzdVX1ZiNjYxeG0?oc=5
-- **Source:** GamesRadar+
-- **Published:** 2026-10-02T15:13:15+00:00
-
-## SpaceX's AI Unit in Talks to Lease Compute Capacity to Microsoft - marketscreener.com
-
-- **URL:** https://news.google.com/rss/articles/CBMiuAFBVV95cUxQaTNJc0czblRBSGo2VWlfdk5SdENiNUNaOGZhZmR2X0VCajVyZTB2TFFFUXJfWFByZnU2bmV5UHp4cUFRem84clVMVjRrSDFMdmJicmdpbEpCUTFMSjZlbUJ4b1NaczFWc0JtOGlSdVdGNXJjQ252RmVwNXdEaFFoRUljbzBCXy0tbUY5clMzcUFIcXpGZlFUT0dnMlVEOXN1LXp4LTJ6cTU5XzZ5REo0a3pnaW15TGk3?oc=5
-- **Source:** marketscreener.com
-- **Published:** 2026-10-02T15:04:39+00:00
-
-## “F**k you! I wanna talk to Gates!”: A drunk Van Halen fan once got so angry trying to build a fan site he rang up Microsoft and demanded to speak to Bill Gates - Guitar.com
-
-- **URL:** https://news.google.com/rss/articles/CBMilwJBVV95cUxQdktWSkU5bWNDWmkza2drYjg3XzlKelBOdXh3TGl6aU85OExSRVpBeUpoMnp6NGp5XzhYRDE5bERIN1ZQbHEzeW5XYUtPY0hqdFNVX0Exdmg2S2RhdTl3MzVjUTMyMW9KRThpbENlenRzbTNKMmJZdURyOEk1M2tGakxQVnVDSWJFM2hFQ1N6cnZsd2dxR1lUcENfaUs5Q0VxMXpwZjN5RTZHVVoxSzNlYmVEaWRxc09RTHZBLWpiTF9QaHBLODVBdFNxSWYxZHYxNHFBS2FwMGUyelZCTDdIVVlqbElLS01KdWRTNXlVclFFUVFsQTNxSzd0TTJqXzZVRU1ncE1hdmhyZnp2Z00wV0puT3k5d00?oc=5
-- **Source:** Guitar.com
-- **Published:** 2026-10-02T14:59:49+00:00

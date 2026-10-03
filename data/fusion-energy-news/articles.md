@@ -1,8 +1,26 @@
 # NewsWatch — fusion energy News
 
-_Last updated: 2026-10-02T21:54:54.098766+00:00 · 50 articles_
+_Last updated: 2026-10-03T00:58:14.069434+00:00 · 50 articles_
 
 ---
+
+## LAFD acknowledges missteps in Palisades fire following independent investigation - Los Angeles Times
+
+- **URL:** https://news.google.com/rss/articles/CBMirAFBVV95cUxNYUdQZzl4b1l5bWpkd0hVX01aaDUtbklWNVluVUw4NHdNWXBjMXowZGhkTVpXcUVsbWlCcy1IUEFOa1A0eGVjRmNyTi1jaHZyTklDTERibkxrSXNEUlNIMGY4MHJVR1FUQW9FUjJYeTZ1cU4zNFNuVUVEbWN6Vi0tQ0FlT3h6Wk4wUEp1T20yRmlNbEdWRlNERFd1SlQtRDhGVE1peVk5WkFkaEll?oc=5
+- **Source:** Los Angeles Times
+- **Published:** 2026-10-02T23:57:09+00:00
+
+## Nuclear having a moment, but hesitation is real - The Boston Globe
+
+- **URL:** https://news.google.com/rss/articles/CBMikgFBVV95cUxNUUwzRW9pX2FCNTM2SU1HQVNrNXJlTzFSV1Bna05DZ0ZJOWdrcW90TzBUUkEwVWxtVXJFN1RodTJVcWdRV0xqSmZvTmdlMkt0YUpBMk9DNnVMM1Fzc3BmMjcxTFB1NDVSTDYxYzZCYnI1bXRCaGZ5bTZicFJ1azJJZ0Z4dVhHNmtVM2NuTXlTUWE5UQ?oc=5
+- **Source:** The Boston Globe
+- **Published:** 2026-10-02T23:20:19+00:00
+
+## SHATTA WALE – NO DAY OFF - Six9ja
+
+- **URL:** https://news.google.com/rss/articles/CBMiY0FVX3lxTFBkYjRTOGtVaXNXam9KdUZOYkhBa3JVT2VvbGx6VWdNSDZWdEEwcXloeno2a3lBTVpWVW1kS2UyTFA3bmp3RlB0LVl0QlhidXNmSnVqZWlablBTOGJhTXRUY18tcw?oc=5
+- **Source:** Six9ja
+- **Published:** 2026-10-02T22:06:09+00:00
 
 ## California Governor Signs Fusion Energy Bill Into Law, Strengthening the State's Leadership in the Global Fusion Race - ga.com
 
@@ -285,21 +303,3 @@ _Last updated: 2026-10-02T21:54:54.098766+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZGhlYkZlVnRwczhSeEN3NUk1MWNiR2tBcjF3aXFuQXpyZkg3RVp0c2I2ek8zZ2F1N1JSWkhLTmJZM1hVU2o4T1d1REhWN011SWIxZ05RTjVnb2loQjk2N3FMampxUk9JeUVQVjlrUlAxbDdzLTF3elp2QU12eGN4MnJyaDBmY0ZFY1pHNGxoX25MZjQ2SjJpWlkteWFxMTNEQTFGTGRhUkh5MUNsTU1NdVZNMUlPRlZ3Qk1B?oc=5
 - **Source:** Batam News Asia
 - **Published:** 2026-10-02T02:03:50+00:00
-
-## Singapore Microdrama Push: IMDA and TikTok Train Creators for Short-Form Global Market - Batam News Asia
-
-- **URL:** https://news.google.com/rss/articles/CBMiwAFBVV95cUxPcVI2bURualpiek5UcDlaWElJYVRHc3pHQzFpMlNWOWZOYzRKQ3BsNG8yLXJsNFRxUEp4Q0dRZy1VTDRjOXllTUNOTU5kNlBQMENPNzBsRGthNGJJbm84aDlOcTZrU0QtT0dtRWIwaVlrT0ZnR2FvVXlOV29kU3VrcFJuN2xodG9vX3laMU85eGhDODZ2dXZnaUx2TEVHTGZabzZsN3RwMlJLbmZtZkFqYXZKdWlKOTFFRFJ4ZXN0d20?oc=5
-- **Source:** Batam News Asia
-- **Published:** 2026-10-02T02:03:50+00:00
-
-## China's BEST Fusion Project Campus Delivered Early as Main Machine Enters Four-Ring Assembly - Pandaily
-
-- **URL:** https://news.google.com/rss/articles/CBMiigFBVV95cUxNaVZFaDEwOGdkSjdKMS1hR243akJieDVsRVd1VDUwRURsWWNDdTFQM3lXbHZVZlNFYlJ2WkFZdVY1OXBkRnR2em5iVG90bWJ3REtHY09BV2M4cnBMSDd0eUJLbE1NblhxQXRNLTFwN1Y5bzFDQzZwZHp1ZENpLUdtMzNTcTFUVG1pMUE?oc=5
-- **Source:** Pandaily
-- **Published:** 2026-10-02T01:55:27+00:00
-
-## American Lithium Minerals (OTC: AMLM) Targets Q4 Uplisting as Global Portfolio Expands - openPR.com
-
-- **URL:** https://news.google.com/rss/articles/CBMimgFBVV95cUxPVjQ1T2VMWFdaZnRaNHFoTEktY193YjRWd0g3UUEtM2xWNjVpamstdTBCZDE0YlltYW5CbXpVb2VQaHdqQmxOM2NYQUFCM1ZxRU5ObDJFNDhwVDcya0oyeFlaTTJmdUZfUld3Uy1uYTh2ZUJpRjd3XzFiMWZRaDRzdjlLZHo5bkR3aHNNX0JyVWJNU3ljb1ZGbEJB?oc=5
-- **Source:** openPR.com
-- **Published:** 2026-10-02T01:54:03+00:00
