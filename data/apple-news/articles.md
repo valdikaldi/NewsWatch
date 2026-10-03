@@ -1,8 +1,20 @@
 # NewsWatch — Apple News
 
-_Last updated: 2026-10-03T19:03:48.391193+00:00 · 50 articles_
+_Last updated: 2026-10-03T22:43:13.314089+00:00 · 50 articles_
 
 ---
+
+## Apple stock gains 1.02 percent as Morgan Stanley cuts target - AD HOC NEWS
+
+- **URL:** https://news.google.com/rss/articles/CBMiwAFBVV95cUxQcmdlazBBck1iVDdMZWk1SHB4aDhvY0kwajQxQ0UwQWlZVTdWd3ZCU2sybUdZbkVhdnNBUm1rZ1Zjc3Q4aFFVQzF0UDlkb2FXa0tNZjF2aDJmUENiNjVYRUR6bmw3bDhuaFlZbmlrek96UW9Zal9fTHJ5NW02Qm9GUTBuLU5QSmF6bWE0YXFaa05CS282THdsN0dFRGdtREI0WVFET000bmVsSFBHNjZtTG1BSnNnT2pDbHBqNmNENkM?oc=5
+- **Source:** AD HOC NEWS
+- **Published:** 2026-10-03T21:28:20+00:00
+
+## Apple CEO Tim Cook is stepping down, John Ternus set to replace him - ABC News - Breaking News, Latest News and Videos
+
+- **URL:** https://news.google.com/rss/articles/CBMijgFBVV95cUxOTXg5VFBDbk1xMmlfZEdLVW1sOW5pOUd5ZWY5NWtFbzFwQmpDMzQ3c1lrVjhyVEVpZmhuZmh5X0VHeVVNV1d5d3VWTi1jazI5QjRoRkFrMTd1TnJER0lkS05hTGR4WTQyNUFNeDBOMkRBRFhPNlFkQ2tNbDdJUGdJc0lVTWVQbWo3OW56OFdn0gGTAUFVX3lxTE9Zbjg0dnVYX2NodkpINTY0UXJaNGdlYUp5MXNFcTJ2c3ZRQW5lVE5rX1Z6dEtYUVJBdjdJRmVsMjJtN21MVWhlZFBveE9SYmJMeDM5VTRfQWUyejNTYnY3RlBBdjd0OWgwOXRwaWtEN0x1Y0czWXhuRlJSWVlQUy11LXE1TDNrUTAzZlFRWGw0OG5zaw?oc=5
+- **Source:** ABC News - Breaking News, Latest News and Videos
+- **Published:** 2026-10-03T21:12:50+00:00
 
 ## Apple Inc. $AAPL Shares Sold by Jackson Wealth Management LLC - MarketBeat
 
@@ -291,15 +303,3 @@ _Last updated: 2026-10-03T19:03:48.391193+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMiugFBVV95cUxQX1hCWEd4Z0M1ZjFZMlRGUjVJMU9uT3ZkUlJteW15b2FPQW8wV0FTUWlVbWJfVlZxQ3c2OHlQY29OaWx5YUw5ZGlvUVkyQ0NkVGp4RXMyN1prX0hwTVI3Yi1RbjhPTTRNdVJtUF9sMjd6QkN4RjVKSXBnN0NpUVhDWjlmZkVjb1g0M09BRDRtRkRyR1JrcUxvMU1MNEs4TjVoYTRyVFpYV2lUU1hOMFNGV0xVdEMyNlluX1E?oc=5
 - **Source:** MarketBeat
 - **Published:** 2026-10-02T07:21:14+00:00
-
-## Apple Inc. $AAPL Holdings Trimmed by Benjamin Edwards Inc. - MarketBeat
-
-- **URL:** https://news.google.com/rss/articles/CBMitwFBVV95cUxNZmpFMWxLbDYzOThud1RTaGZSUFpVV296VHd4ajRrSWRNeGoyMnJEeFdCZjczMzV6WGd0M3ZqUmh1RkRkemtkbW4wU2VDRjN3dF9LZXV2dkRLWjlGQlc0a0pKN2xnSkxoamluSXhwOGQ2XzlENllMZ0VCNkRGWTIzcVRXdVE4Rmd0QkludDJnSjR4LUhNY0J1MHpZMXdac1ZNNGdHTG5GNVlkTUxSS092enBpZVRqeVE?oc=5
-- **Source:** MarketBeat
-- **Published:** 2026-10-02T07:21:13+00:00
-
-## 7,314 Apple Inc. $AAPL Shares Sold by Addenda Capital Inc. - MarketBeat
-
-- **URL:** https://news.google.com/rss/articles/CBMitgFBVV95cUxONjM1bEpPVFhzRkdOLUFpU25tTUYyMTBxRVJQQmRodGRVV0UwOTlKdVVCWDZVN2wxT1h3Y3dGTy1IWlNpNm1kY05uQTk2aWxjT0tFSUI3OGY4aTF6TXRfUzZSVHJJZjc5cWdFb2IzclRzeVhlejhkLXJNZm44SUlSc2o1eG43UHpiMnJWQmhId0dhRG4yc01OamtaUEtveEk2bWN5amxOOHkwUGhINGJOMUdWbXNRQQ?oc=5
-- **Source:** MarketBeat
-- **Published:** 2026-10-02T07:21:13+00:00

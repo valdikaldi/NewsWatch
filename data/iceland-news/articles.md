@@ -1,8 +1,32 @@
 # NewsWatch — Iceland News
 
-_Last updated: 2026-10-03T19:03:55.973853+00:00 · 50 articles_
+_Last updated: 2026-10-03T22:43:14.575151+00:00 · 50 articles_
 
 ---
+
+## Watch Iceland vs Bulgaria - TOD
+
+- **URL:** https://news.google.com/rss/articles/CBMimgFBVV95cUxQVklheDFpU3hYUVVLOWIwSl9waDFRUjNhbmpIVDFpSk00OUx6d1JqT29aSFBma1oyYmRDQUowU1lINS1EeDJoSWJoMHlRN0pnVDh6Q090WW5Uai01Q0s2ekd4SGY3ZjBCbFE4bkd5VGFFbVR4aDJhUWkwY1hSVi11OE9FQkRPZ2ZJdDVGakhXNUVTX3JSUVZqN0FR?oc=5
+- **Source:** TOD
+- **Published:** 2026-10-03T22:08:40+00:00
+
+## Reykjavík hails Orri Óskarsson brace for Iceland - OneFootball
+
+- **URL:** https://news.google.com/rss/articles/CBMikwFBVV95cUxOZXg0Zi10QjZleGxOeDVYbjhmTE9sOTRVVDhLbUs1THFGSHVrNjAydUJfZWRQVHVjZVQ2QWtBVXZVZ3lTR0xSaHJiR2p3V1VRV3NFX1JiNjM5YXpjOWNBenkzYS1WOXY2bnZ0YWE4azc4V0JiRHN1VVZLazctWGhrWmJlTG11M2ZxTDMyTVlXMW5ibzQ?oc=5
+- **Source:** OneFootball
+- **Published:** 2026-10-03T20:52:58+00:00
+
+## Australia is closing in on the world's highest rates. Only one country is in front - SBS
+
+- **URL:** https://news.google.com/rss/articles/CBMitgFBVV95cUxPQU5FdFNMVndlbVpXNEpRbS1nN3Vhc0szMlFISklNQUI5MEttTVk3SzJEN0FLR1J2R1d6bnlhVnBPcWdkRWUxUzRJME9BUEpZb0pyRzdleEw0d2pqeER4TkM1X0hRaVYzYzFmZzRoTFZCQmt2bXFoU0V6NDhzNURFRkt5MzRqaEF6WUk0eGxKT0FDc2tCZWhHVGRTSkk3OVdHVzA4bDJ1d3NHeWs4Z1FPNlJCLWEtdw?oc=5
+- **Source:** SBS
+- **Published:** 2026-10-03T20:30:38+00:00
+
+## Iceland beat Bulgaria 3-0 to stay top of Nations League group - wam.ae
+
+- **URL:** https://news.google.com/rss/articles/CBMikAFBVV95cUxPU1NZcmhxUVVaQjF4QkR2RFRmeUctWi1ESHFoV18xUnQ0cXlWaTViM1FMZEJmVGFITVdfM2E1cUUtelBfZDVUTXVJbEZaUEVZYkdyLUlSazZUOXBhM2FmTndDZ0FaOFpkcGZKeTIxeEhkQXhVZzR1dFMxZnF6WWdkaFNSUUNSenRpcDVQS0x2UzY?oc=5
+- **Source:** wam.ae
+- **Published:** 2026-10-03T19:47:56+00:00
 
 ## Iceland 3-0 Bulgaria (3 Oct, 2026) Team Stats - ESPN
 
@@ -279,27 +303,3 @@ _Last updated: 2026-10-03T19:03:55.973853+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMimAJBVV95cUxQNzNpeFFHR19xQ3VSQWZENTdET0hGSkMwVWNNODFPb0NTanJPQlZicHBrcHdubkVvYkFHT1otdEVLWDcxTnV4TXU4TFNZTDktUzRvd0plTnJlQUhsNURhdTV4cXdZLUNmNDg0OWo2V2tub0Zsb2NXZ1NLc19zSVhpaURFbWlUdmppVm1TY28xVmkwSGphQTRDMnl4bGtleFdubWd6eTR2eUJNRkItOE96WGR4V1p5UnJqb2xCTDZSZ0hVUllMNnhQdFFuSENqTTAydDBJcFNDRFhRTnZXcTVwcEY5djFGU3JhZ21ZZUhhSldFajR3ODR5c2xFUUF2QkVTcURNMXh0WTNkZkUtQmNTS01HNXFRbTU5?oc=5
 - **Source:** 大分トリニータオフィシャルサイト
 - **Published:** 2026-10-03T15:52:08+00:00
-
-## ⚽☑︎!+! [ＬＩＶＥ ＯＮ ＣＨＡＮＮＥＬ] ☑︎🔥 BULGARIA VS ICELAND Live Free UEFA Nations League Match 03 October 2036 Right Now - 大分トリニータオフィシャルサイト
-
-- **URL:** https://news.google.com/rss/articles/CBMitAJBVV95cUxQR0VVc1pqWVZLVkV4WnJ6SjB1Z245amNkQWFsME5YY0FpMXhMLVBzSGNZM0hUOXdVSUZ5WWR4bHJ2NTYxdnQwQmc2Nkg2cFpHcFd5c3I2SDdISEFPTDJ5eG9yRGdLQkowZ2VZa3I0Z280TUhwNG41QmthbzhPSEV3SzhVMTY1aW12Yk5DdjJhV1lOLTZqY3dUWlNraFFmcFcwSUtscks3SkFYSUJoOHIzRXRoMDNINDF0TkhwZFBFenZHQVR3RWhyMThDOThSYVZYT0pYQVJzU1puYWRJZl9BaENPa1JGT0JyZjc5X19BXzRQRTcxYUZsMTJCNzdEc3VZRmIyMUh0aDY1bWxsbk91dzFZdWh6NUFramhnajFRTXRVZ3pwVWFIalFJUlRib24yVmZhZg?oc=5
-- **Source:** 大分トリニータオフィシャルサイト
-- **Published:** 2026-10-03T15:51:17+00:00
-
-## [WATCHLIVE]ＴＯＤＡＹ!] BULGARIA V ICELAND Live free tv! 29 august 2026 - 大分トリニータオフィシャルサイト
-
-- **URL:** https://news.google.com/rss/articles/CBMiqgJBVV95cUxQZ3lGY0NtcjhvOEY1UDE5OVphTXRmMkExMGZtUFFhWU9RYU1ZQ042ek1aZ2p6bjJ6UkpMWFZRaXY4dGZHRTNGQlBYQnExTmlSMnFfaTdMZTlXdGpwcXBFMnRVQWxFLTJqTF9rNUZhRkNULWFGS3VuVlJUSmViZXFfa1BMWmt5b2FpaDhCUW9SRG1YR19GLUFjYUdGU1R2bGk3WDgxRkZNcFZxWUtQRWgxUHlrRGI2UTBLdS02UnJ5OEw1dndnY3BtcjB5TjlEbHkzNEpON1pDODB4cDkwX05OT05FVGdLaUNxWUNBZmZnaGZoRnlSMHZ4ZG5EYVl2N3l3WmswdG4wUEVsMTRNNnZEX3drQjhDNlhtNEw1WDZvVDNma3JtbXNFckx3?oc=5
-- **Source:** 大分トリニータオフィシャルサイト
-- **Published:** 2026-10-03T15:51:15+00:00
-
-## Nations-League-2026 LIVE Bulgaria - Iceland Live match Free UEFA Nations League Match - 大分トリニータオフィシャルサイト
-
-- **URL:** https://news.google.com/rss/articles/CBMiogJBVV95cUxQbDRucXJ2azJaVXhfYlJPV1NwQjJ4ZkZXZzQ5UGFCalQwUWZkREhmRkc1WnB5ZklMdDJNc0VNRmxVaXdtNE9WMW5UYVVHdTZYSEdaMklQY2hYX0JPVUdIV0E4V1kyLVkyT2IxMDlLR2FVOUQ2LVdodXhfMTZHWkZYdF9uUVN5UjVwclZtU2RKeTB4TjZ6OFlUcEs4WlZKRklnVnVFYjB6dkJwZHRhMmNueWpmNXo3cl8wM1lvZmhpb1lwR2F6dFByWktpUC1wcXNBTHBnYmNDZUdyeGpFTUVYY2dTOUdWQy1kcDlfYXNkQ1l5VTBtX3FmWDZvcWYzUldEWndscVQxUkhUMjhta21nTE5SMnRlOGc4MDQzYUhGQVJ5UQ?oc=5
-- **Source:** 大分トリニータオフィシャルサイト
-- **Published:** 2026-10-03T15:51:10+00:00
-
-## [WATCHLIVE]ＴＯＤＡＹ!] Bulgaria vs Iceland Live free tv! 29 august 2026 - 大分トリニータオフィシャルサイト
-
-- **URL:** https://news.google.com/rss/articles/CBMimgJBVV95cUxPQUlHSEswdmFsd3NvNTVMaDlUOGdYWWxfMC14UHdvczk3RjF6YnNPWnVFNzhEaWhzdEtPZFRTSi1RNDVoanVBUDZpanlRdjNkcnN6SFRqdEpCbVgySGhLTC1mTEZsWG9ndVk4SEtMSEhjMm9DaXhtZmxwWWI3Q0p5OXh5MThlWU9CanpOXzdDUms5T2t5VHVoTXlTVGRjTW9yT3pScmpYYlNXbjU2UmZ4QkZpTGpra2pSZ3ByQkFNVkVJajFpd2FrMWswX0V2SEJGdjFERGU5Q1FES3dkaFdHcE1oMzUzSkdGWmFRMXFjQ0prS2s4bTgwV2hxNmlqNnhkM3Q2UUJsWE9aRGZEenpPb2Jrd3ZqbEZiZlE?oc=5
-- **Source:** 大分トリニータオフィシャルサイト
-- **Published:** 2026-10-03T15:51:09+00:00
