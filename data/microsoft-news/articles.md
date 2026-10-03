@@ -1,8 +1,134 @@
 # NewsWatch — Microsoft News
 
-_Last updated: 2026-10-03T00:58:13.090284+00:00 · 50 articles_
+_Last updated: 2026-10-03T09:42:24.665919+00:00 · 50 articles_
 
 ---
+
+## Apple Plans Fix For Mac Email Amid Microsoft Exchange Shutdown - The Mac Observer
+
+- **URL:** https://news.google.com/rss/articles/CBMinAFBVV95cUxPeWtjeUYyWW4zSlV2ajZKSnhldXFzTHItMUtlYWxVbzB6MGwzcDJuWEZqZ2wyY0NZQlJMRlJhaVQ2c0tDLWJqSmNxc0hldUVsSGRlWFQxWXFuVmV6c3B5YlVyMmhuQUNuZnZtMW4xQ0t1ZUtFa2h2NVpOZUpfbjVEQTBwTUpCbmFTVkZJVGdWTmpaR25uMXRuTUdaMHc?oc=5
+- **Source:** The Mac Observer
+- **Published:** 2026-10-03T09:37:30+00:00
+
+## Hackers use Microsoft’s X account to push unofficial Clippy token - Crypto News
+
+- **URL:** https://news.google.com/rss/articles/CBMifkFVX3lxTE9iU2thTDF6b3VDS1JmSEMxNmEzQXdlWllkS1htVnJodXYta1pRSEhnRU01bHJZM3A3SC1TQV9lcWJQWTNQQjdLOGpSX0JSdVB5bWpmWGhOQW5DMzFJTFlUUkdQTWhBenktTUdQaFhDODRqeFlKSG5tVnZ5UFM1QQ?oc=5
+- **Source:** Crypto News
+- **Published:** 2026-10-03T09:25:17+00:00
+
+## Turn complicated projects into manageable plans with this $50 Microsoft tool - Mashable
+
+- **URL:** https://news.google.com/rss/articles/CBMinAFBVV95cUxOMUNYZ0dFQWtnWGNNSXZ0eTd0cG9QZWRvclI4eWMwWmFHMXNSSG9YVlFDLXpOWlF2RndYbk1FVU1OVUFGWEVJNnBNRzJyVnpMakN4VzRqT2xCd3pJNTNUZlFGekcwaHplMzlMdUxscVlKTnprUjFsdWFkYXdrYzZQS3pNYkxCQXVuQ0Yxd1pySU1YaUptTXZVWDU3NHQ?oc=5
+- **Source:** Mashable
+- **Published:** 2026-10-03T09:00:00+00:00
+
+## Is a Microsoft Stock Split Coming After 23 Years? - The Motley Fool
+
+- **URL:** https://news.google.com/rss/articles/CBMilgFBVV95cUxNWFRueHNuVFBHN3NBQmZsWWRmSWR1Vm10azZjc0NvWGhjOThDYWdNdzNaaG42Sl9jZDVMMnIydnE4UUt1TXVQaDZ5TjJEc1R1NFhIRURDNGh6N21vd0FrRVJjN1FRY0t1eDJpYmx3RHB6cnVVMjJHam9fOWtEQVlldElOeUxsNjIxYWpTdGxGNDMzeWRwcHc?oc=5
+- **Source:** The Motley Fool
+- **Published:** 2026-10-03T08:38:26+00:00
+
+## ServiceNow, OpenAI’s GPT-6.1 and Microsoft: Top Tech News - Technology Magazine
+
+- **URL:** https://news.google.com/rss/articles/CBMilAFBVV95cUxQS054NVVELUwxRnY5OTJRbGQwSWQxc3lQNzRQQmw1VEw5Q0trblZ5cnlfeFVOWml4WUxUblBsYzZpN1JmamRXZ25US3ZxYnZscGhOWkZMV3hScGpOQ3MwZTlVZDVSRWFDOE9maVlCUDIzbHdDSk9zY2hwcGVrYmZ1aU1BbVNqcUFWLVZMam5rNTg2S1po?oc=5
+- **Source:** Technology Magazine
+- **Published:** 2026-10-03T08:13:02+00:00
+
+## Ryan Roslansky to leave Microsoft after nearly 18 years - IMPACT Magazine
+
+- **URL:** https://news.google.com/rss/articles/CBMisAFBVV95cUxNbzRCUk14MGhYc205MVlldm9nVFpaN192dVppcFJrV2ZOMjV3QXdSUTNRYldnZWFWcnVhN0RkOEh5cXhHY2p1UkxYQmxzRkpBbVNWdDFuZ3RaVGNDbVRYMHNiU0h3RTRsWUtWSVc5NTZ1MUNhTi1Sbms1VmJoRkxIY1lkSEZpazNpT29uQVJoX3hFNUVnazdnYllYRkNUZWJpa1g3VlE3dkp6UGtVMjJGRQ?oc=5
+- **Source:** IMPACT Magazine
+- **Published:** 2026-10-03T07:06:09+00:00
+
+## October 3rd tech news roundup: Windows 11 26H2 update released, Microsoft denies rumors about selling the Xbox brand, OpenAI launches Dots AI agents - FileHippo
+
+- **URL:** https://news.google.com/rss/articles/CBMijgJBVV95cUxQM0UzdDdjWDZkQ2N3X05wbkR6cncxTHdsOVZreFMwc0EydHRlWXo1amxLUVljdEQwY3JWWVJpWURNTDJmd2c1cV93d0Z5RkMtd3VRSVJxRlVzbk1wUXRfWmlCaWpVdE5RWHQ3R0RkdFFrempDMU1CMTc5REhPSER1ZmY4REZ2N3FoOUo0bXdLMzZ6MFllZjM3S3cwOHBhOWp4elo3a3ZYWXcxdkZicXZBaU9PdmtOd1FvOHFoMklNMmFEUkh6SjVmWDV4dENodjRuSlVEQnh6dE9uOGhqQ0lXcHdaSUlEWEFsVGtObm1RdjFMVW1nRkFHUlJ2a0U3U09LeUs5V2NQNndXRHEyS0E?oc=5
+- **Source:** FileHippo
+- **Published:** 2026-10-03T06:33:45+00:00
+
+## LinkedIn CEO Ryan Roslansky To Exit Microsoft In 2026 - BW Marketing World
+
+- **URL:** https://news.google.com/rss/articles/CBMiowFBVV95cUxNV1lxQmRKOTAxSjlnNnRBSTlHUjNiei1xYTAyM1ptTnZaVndoa19ucjM1cWVreEtxamk4MTIyUjNCTDFURWJaRG96VnlwYUlWMjhua1JWd013bXVqZmU3UUJsYnFQazN1VWMtMnM1VDYzRGFaMXBCMG9TWl85YVhKNU1xd28tcmYwVE8yNXVZSGNtTnJ2Um5qYUVFS3B3a1VaY01Z?oc=5
+- **Source:** BW Marketing World
+- **Published:** 2026-10-03T05:46:50+00:00
+
+## Microsoft AI Releases MAI-Transcribe-2-Streaming: #1 Real-Time Speech-to-Text Model on Artificial Analysis - MarkTechPost
+
+- **URL:** https://news.google.com/rss/articles/CBMi3gFBVV95cUxQMHV4eFRVd1pYa1JxZy02T2FZWVYzSXZJR2FQTExRTFduTy11RU9qWklHRjlEa3JFMW5VXzR5Q3lPdld4Mms3N25GUUh0ZFBtYk5jQ1dPWWUyYkUyUENQUzVXTHF3cmJhRWFDZUVrNTJfMGFUOFdLUTBnMWhBNnFEOXpNZXk3SkI1RnJCd1hDZUZ0a1JKdlZ5OUZSTXoxdnFyV3BCandKaEpzLXpmMC05ZmJFeDZueW1iWUdFTlY5emtxZ21ob2hoU0tCT0ZKWmhRTTJ3RzdZemx6WTMzcGc?oc=5
+- **Source:** MarkTechPost
+- **Published:** 2026-10-03T05:09:53+00:00
+
+## Microsoft Student Mixer - annenberg.usc.edu
+
+- **URL:** https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9mX1l5QlJEaUEzR042VmdlQTRRLW1wa1ZrMHVHVHBkUTFaejRTM01VM0FlR0V2Um1XZ25Iel9PUkRIYVlCcUZheVVoNEs2TGJqZ1NXUWd3bEM5aDl5M2RWWWliSUtCeGs?oc=5
+- **Source:** annenberg.usc.edu
+- **Published:** 2026-10-03T05:03:59+00:00
+
+## Microsoft Annenberg Intelligence Talk - annenberg.usc.edu
+
+- **URL:** https://news.google.com/rss/articles/CBMimAFBVV95cUxQalJ1OGd1V1otRDZZWkpjOEh3d2FlTFBlOWd4MDEwSG9CdlJodUc0ai1NeGVfVm9SejZwQUZDZFJVcDdtYjJUaThsOWQ5eWNwUTZ2XzdoNmQ0WnhBR0hka1ZCWGNQQlZLb3p3VlltWEluMV9rNGR6dERuQ3VOZTFzYVJSR3ZfTlBPVGtCRUwyeVN5bmFaT1BTcQ?oc=5
+- **Source:** annenberg.usc.edu
+- **Published:** 2026-10-03T05:03:59+00:00
+
+## Microsoft 365 Email Not Syncing on Mac? 9 Fixes for Apple Mail & Outlook - zeera wireless
+
+- **URL:** https://news.google.com/rss/articles/CBMifEFVX3lxTFBUYXNIODUyTnZ0dzBCT1c0NjZXTVlFS0hHRnF3RGcyWmRXa3RraDlXMlpTRWxNaW4zSWk2eXRITmtmRkRHd1dSWWRERURZd0t3WmtpRFJMZ2c0SnlsRUdPQ3BOOUwtRmViY1F3Z1BzNjg1MHZ1TkhhcDM0Mjk?oc=5
+- **Source:** zeera wireless
+- **Published:** 2026-10-03T04:51:25+00:00
+
+## $Microsoft (MSFT.US)$ Michael Burry… - Moomoo
+
+- **URL:** https://news.google.com/rss/articles/CBMijgFBVV95cUxPQ1NpYi1GZnhIVFV2ZHVPVEQybWRKamJQeWFUaFhyREt4dkRCeU5lb1J5R1pxclJqY21Wck1RRUZtWlhWV0d5OV94bHI5NVBlRmFaSlM2emY5QTJVWUU4bnVNNzBLWGZDbDhqalFFckdqNXVjajhUeE5URkdOUnp0MDdiT0tUeFV4eGxkR1dB?oc=5
+- **Source:** Moomoo
+- **Published:** 2026-10-03T04:24:39+00:00
+
+## Microsoft to roll out age verification system on Windows 11 - Bangkok Post
+
+- **URL:** https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVWZ0ZEVJcHZmenNTSTZtUEZoV3VxSk8tNXhxNW9xWldFeG96SVBxa3VSUEo2R01SR2FtQXZhUHlRdml1dHhVcTRfS3RWbzZKcV96VGRFdjBZdHVjN3RWVk1nWXpfM2hIV25OaFotemZaMVBmRU1vdnlQeERRakpVd3ViMzdTWFFnLVJ0WmlNZWt3Umd4azQzclZhaWF3ZVFmMmlpRVBXU1U?oc=5
+- **Source:** Bangkok Post
+- **Published:** 2026-10-03T04:20:00+00:00
+
+## Microsoft's X Account Hacked, Posts Clippy Crypto Memes - PCMag Middle East
+
+- **URL:** https://news.google.com/rss/articles/CBMinwFBVV95cUxPLXFaLWFKWk5fUjFTWWRscHlmdDB1VXRMelRXTmNfNldadHhwMVR1VENRRDdBYmVxQUlhQWU3bVdIeTlyUkxUYjBpZmdONWdPZUl4UnlCbjVkaG9FemRFVEZ6aUFLb0hrSUp5OFYyOV9oZVpnSVZNVFNURG4xUUFpSzNpODlqX2Q2dGRscERkdGtyc2NNc29wT3pMLUI1bnM?oc=5
+- **Source:** PCMag Middle East
+- **Published:** 2026-10-03T04:07:13+00:00
+
+## Skip the Wait. Microsoft's 26H2 Update Fixes the Parts You Hate Most About Windows 11 - PCMag Middle East
+
+- **URL:** https://news.google.com/rss/articles/CBMi1gFBVV95cUxPakxlZWhoT1FjZHBHUHRhX0JyT2pLNG1yMmp5d0x0QWZJRkpTaEM4d1pvdXptMkJrN0VneldhaE5oLTZ2azhWcFJMQ2FkSjQzMmlrVGFTMTBzdnUweHVCdlBqeHV2b2IxSWR3UXlUOVJaR0pFaXdqQUJBY3FTQ0h6QWJTSjdBSjZaNE1lYnRfdklTQzZLb281eGJxMHg4VEVrVnRMVUF6MXNaSHdOX2d4dS1hY1NWa242LVo4NC14VFFDRHZuVnRZejlUQ3BxZ1R4SjM1UTdn?oc=5
+- **Source:** PCMag Middle East
+- **Published:** 2026-10-03T04:06:16+00:00
+
+## Microsoft executive Ryan Roslansky, who served as LinkedIn chief, is leaving company: Read CEO Satya Nade - The Times of India
+
+- **URL:** https://news.google.com/rss/articles/CBMinwJBVV95cUxQNzZsUXhtU3JJZXBzeUdvZTJpOUxHLWR2SmxCc1BxdGNRRVhOc25xdzZ2bDUxc3I0V0dnOHpuUXI0WmtuQ2RzeF9CR3RZYUxGckp2Ym94Y24wR25Da1lMQTZZbW9tc1lsODVrcUZvSEVqVWZQOTRfQ0tqT25jYWtWeXhqSkVpR2xRaFpiVmFyVjJkME00N01Kd2ZjaXdkZndJb2VkTDZKa0U4R0UwYk9CNnFYY0V0RG1kS3lpN29vck0xVGxDZElfWUY4b19ONVR3NEdMdDZXNHdic3ZCZU5ERnU5RW5hVUpCV3N6R0EyVXFaaFY2Ni1hZ00yME1Pb0F3R3NBNzFYbW51bHVFRTladk9UakI3S2F0T25jM1FRSdIBpAJBVV95cUxPYmp3NnViTHlPdjF2TlRlV1J3MnZoUklsR0o5WHRqUU05Q3VRQjZzbFROdkRaS1ZfZGRVQlBKQjVTY3JLcENGM2dRd0x3Y2syTHBQR0VEZmJSN00yWXpYOXkzS1BnN2lNSnI3SG1WaWtIeF83cDl1NmFkVGhva3VVRkFKSFRrMXRubWFzazlxcGFSd1FkNFlWLU1tQXJSdGp1RDBybG0zNkdQdHZ1Z29kVTBCcm9RSVVXb2JPYm80ZWMzaVgzelJkQXdtZXdCVmhFZndVejA5dXJsNXVEdjl5dm1jUDBXRHhLU2luWE1YRWJDOVo2ak95Qk5qRkM0cWRXWU9oSzlsaFVmcmpDdkpudTRYbXhHLVp0YkJYNms0VVRwUGRE?oc=5
+- **Source:** The Times of India
+- **Published:** 2026-10-03T03:18:00+00:00
+
+## Microsoft's X Account Hijacked to Promote Clippy Meme Coin - Cryptonews.net
+
+- **URL:** https://news.google.com/rss/articles/CBMiWkFVX3lxTE8za3dabmFVVjhhSFJQemI4M212aUk5ZFZyLUNoMzVHWW9EMzdfWk5yTXJqQjNYQ3lOVVhoSUVIWlN5c3NTX0FVUHF2bzBBYTJ4Qm1aT2JlbUVVUQ?oc=5
+- **Source:** Cryptonews.net
+- **Published:** 2026-10-03T03:16:18+00:00
+
+## Emperor Financial Services elevates customer engagement using Dynamics 365 and Copilot Studio - Microsoft
+
+- **URL:** https://news.google.com/rss/articles/CBMilwFBVV95cUxQZUdaaHloVDUyVndWTHg2d2ZoYW92cGJPM2ljUUV5OXB6czVOcEhGVWtaajR2UGFOajJPeWNMaC1POEpUVXpFSWlzempwUVFReTVsMjdISDEzTVNVQUJ0UWxscS1nRnNZTnFJSTlDYjRVVkpmS0g2V04zVHJVZWNweEpJYWZ3NnMtV2t4cjJ2M3diN0ZFUkw4?oc=5
+- **Source:** Microsoft
+- **Published:** 2026-10-03T02:20:51+00:00
+
+## Microsoft Opens Advanced Shader Delivery to All Xbox PC Game Developers Using DirectX 12 - XenoSpectrum
+
+- **URL:** https://news.google.com/rss/articles/CBMid0FVX3lxTE1PWF9ZZmplaDBGS2xZcmlueXdCZUhtN1Q3VGtmLVZhOVZxdFZxUkJFSVczM2NUYWcwUGNQazJZWXlYZGtWTE5lVy1vRWRQSmpJTVgwMkJsQ1ZXcnMzYl91WTFLdENNemJQOUFHYUhMdFk2RGU3RXNB?oc=5
+- **Source:** XenoSpectrum
+- **Published:** 2026-10-03T01:16:52+00:00
+
+## European Commission Staff Really Dislike Their 'Sovereign' Alternative to Microsoft Teams: Report - Gizmodo
+
+- **URL:** https://news.google.com/rss/articles/CBMiwwFBVV95cUxQQVNhM1pBUWJXSWZIeW1aSFZrTUZ1eTRfNURXRDR6VXlZa3VTTUhQamp3SkF4THV2TU1oczA4RzZmZ3MxZzJCQ0ZBdDltS0ZmZ29wdnh3NEFObEdvdlpwWFlsMXRZT081YmVCN1FGdW9nY3BPOEpMVVNqNlAwZDlvV211cXhYNWNEMFN5NkFXalM0cFhoTFpBalVSOFdvalE1WFhfaU9TdGNQY3hYT0MtaHBmdmdGYWZGeUYwT3hySzhxV1k?oc=5
+- **Source:** Gizmodo
+- **Published:** 2026-10-03T01:11:52+00:00
 
 ## Tested: Microsoft cloned Outlook Classic's look into a New Outlook theme, instead of building a native Windows 11 app - Windows Latest
 
@@ -177,129 +303,3 @@ _Last updated: 2026-10-03T00:58:13.090284+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMingFBVV95cUxNa2FSaVBrLWpVUzFKU0g4Y05tSElhaFJhdTBIOVVtWWVidFlyOGhTZmdjQ2dxdm12RjBldmpVTXdfdFRuaS1jX0NYWDhJSE5lVEpqdXZsdEJ0SlBoVzVzOThtMWRMb0RTekhPaURqb0NmX3RycF9UMEdmTTUwcklET1YzTDZVaV9nN2djZTFWb0FKSkFwY3hTMkhiVXNPUQ?oc=5
 - **Source:** Neowin
 - **Published:** 2026-10-02T17:23:50+00:00
-
-## Microsoft is teasing the next chapter of AI PCs: Here’s what could be coming - Digital Trends
-
-- **URL:** https://news.google.com/rss/articles/CBMitgFBVV95cUxPUksxVVRvLUN1UVlyNTRPTDFiYlMxYUFQX2hpbmJXLWJnalNuTk43Zi1mWVRpUTdwcHB1MWRjY2JuT2c3TXlnSDFwejZad2daQzFReEU2MzVvY1VJamllYkJ5cG0teXNjb2ZKRnFEaDhXenVhWVJXT1JuNXhhWm9KdW1kYTB5YlY0XzNyMFVOb1NjWFFzOVBmUWJVQW1IcVlMNmREWmdTNlNmRGgtVXgzeGI0cEJwdw?oc=5
-- **Source:** Digital Trends
-- **Published:** 2026-10-02T17:02:55+00:00
-
-## Grab Microsoft Project 2024 Professional for Windows at 95% Off - Neowin
-
-- **URL:** https://news.google.com/rss/articles/CBMilwFBVV95cUxNTXhhUkxiTndYdWhQN3NWc1ZKcmpiRzlVOXBnOHRwWWNBckx1TG1sWU0wTUxKSVJxb3d6WVo3OEhmRHVhRndRUVlwS3E3MFpkd2xxdi13LU5ieGJmV1pBa1FNVkV0UjNkbVdVbkpjQzV0QjJ3TGMtSjI5MjRhUmVuX1hvcFRFQ3A3QTgzdGhyMnFhNVgwRTB3?oc=5
-- **Source:** Neowin
-- **Published:** 2026-10-02T17:00:04+00:00
-
-## Microsoft ranks UAE sixth among cyberattack targets — The National - UA.NEWS
-
-- **URL:** https://news.google.com/rss/articles/CBMiowFBVV95cUxNT2VaMmdENFBMYkYyS2F1UnBralpCY0htOVcyUFl3akplSUg0UG9mZXplU0lDQXFNZFA0cDRHWHlTaDIwRFZIdjY4NkF3a040ZjhCRmIzbkJ1TFZKejh3Y1h6MjQtMm42bW8yS2QxN2JVOURqU0hzWDFtMXVNWHhOVXpUcXg2NDJ2QWgtTEVVVmE3anNVX1ZjeDR3a2FQckpESnU4?oc=5
-- **Source:** UA.NEWS
-- **Published:** 2026-10-02T16:58:57+00:00
-
-## Microsoft Keeps Calling It an XBOX Reset, but It Looks More Like a Dismantling - OpenCritic
-
-- **URL:** https://news.google.com/rss/articles/CBMisAFBVV95cUxQaXhocjBwelUzTG1JbzkxS05yV0ZZZm9xMW1qZ2dSSjVKYTB5cEFGQXVsaERsOEhJb3NvNjBKdTVxWENvVWJFaGtmRTVZM1B2QlFPUEJkSmFWQThkbnBpU0VGdEswNU1KS2hDUlR3a3hvZ3Zhc21kZXNWcXpmYzRMdjVaRWl5eDloM3NoZkhHYU01R1FrYTJSWEVkSjRtck8tMFlXNXJJVjJOaFVEVVptaA?oc=5
-- **Source:** OpenCritic
-- **Published:** 2026-10-02T16:51:01+00:00
-
-## UAE among top 12 targets for cyber threats, says Microsoft - thenationalnews.com
-
-- **URL:** https://news.google.com/rss/articles/CBMiuwFBVV95cUxQX2ptYUlNVEVCdVo0cnZkc2FMVklYb2dzeUt1c2Z4cUhTT1pEV3dabGhrSlllSmlHWjRzYzQwVlVLOS1oREd0TjI5TEVUdDNJMERXaFdLa2xpMFRjcUZZSFozZkszamFfaWpQY0F0XzU2cVp1LUJUUjE5Y2hBN0l5bC1YeGtiWUNmQTZBOENJX2FsTFRBa1VnSHUxM2xSRzlhak9ySjlVa1QtcUZUZXVObktjaklWMEpvUjNR?oc=5
-- **Source:** thenationalnews.com
-- **Published:** 2026-10-02T16:45:55+00:00
-
-## Israel Ranks as the World’s Second-Most Targeted Country for Cyberattacks, Microsoft Report Finds - oodaloop.com
-
-- **URL:** https://news.google.com/rss/articles/CBMiygFBVV95cUxPeS1FZVgwMk0tRWtoN0dYRnc2eXpPaXBWWWZRNFRhMzdBZ2NBQ2xWdzVTNjZDMEFRWVNjQUxrdW5TV1J2dU1Qa1ZSYXcwWkd3NGRIOFctWmgyQUtuTXhjMlhQUC1YcnEwMnVJSmtsWjVYd0tCMU4wTXhGOUFfM3FjeVJRbjg3YWpZQ1V4Wlk0SlFSV0R2YUNraEFPNk9kT1k3M2hXYWhaY2o5N0VkYWFNN2dmUFZ1TVRoaVE2VEJtOUZBUVdic1FLVzN3?oc=5
-- **Source:** oodaloop.com
-- **Published:** 2026-10-02T16:39:46+00:00
-
-## Microsoft Stocks Rise Higher New Voice Stack Chases Real-Time AI Agents - GuruFocus
-
-- **URL:** https://news.google.com/rss/articles/CBMirgFBVV95cUxQRXpIZFU3R01RalFySDQtem0zU2FsUmdzR3phX0ZPVm82ZGVrdWltaVJiOHFiWDVGdkN2V3RsOGc5SFhzZnBlbHJ3bDNKOVo2a0tuVlRmd1g4RmZwSUNveDVqT3VaMk9Jb2JHOGw2UXVtV1pPM09nUnZFMVkwN3ZnQ0pyampfV2x6NlVEdVJodktkdWlfRHMxQzIwQlV2VlZabkM4ajg2VXRpa0s0WEE?oc=5
-- **Source:** GuruFocus
-- **Published:** 2026-10-02T16:33:54+00:00
-
-## Apple plans fix as Microsoft's Exchange shutdown disrupts Mac email - AppleInsider
-
-- **URL:** https://news.google.com/rss/articles/CBMirgFBVV95cUxPMDNXOWVObk14eGlJWndCOWNISXpYazlYM1lPazBaR1JwZng3OVNsWjZtSE5kX0trTW9uRG5VLTBDbXV5MlNRRGlIczktalc3cHdHLWhSbmZKS3JWazE0TkZmaVU3WUpIa0dJaU9JNXM5akcyazhWUzJpTnphV0ZONHNWRFJLU3JSZkpXUUNpUi00TTZFRDdoeVcwWlo1emVxdG1sSmppM19GNk1RVGc?oc=5
-- **Source:** AppleInsider
-- **Published:** 2026-10-02T16:24:00+00:00
-
-## Microsoft AI Releases Impressive Transcription and Voice Models - thurrott.com
-
-- **URL:** https://news.google.com/rss/articles/CBMisgFBVV95cUxNQm8yUGVDY25ibGRJdFY5eUpqU2p6dG5lM2RRemVyeF83RDU0NzJTYnNrMEVTZzc5R3N3NHZnOEo5ZjFyT1M1NXZVSUtndjV0Q2RKaXN1TzY0TkJwU19jaDR5djhmWTFaZUJBNTl3a3lORnIzZktHRm1qMEF0S3BFRFM2ejBiT0VJNjh5dHp2eHNaeXBWakY5QURpUkk0Q2lqLUcwT20tZVlUMGJTWm9NR3dB?oc=5
-- **Source:** thurrott.com
-- **Published:** 2026-10-02T16:23:23+00:00
-
-## Defending against AI-fueled cyberattacks requires focus on identity, data governance, Microsoft says - Cybersecurity Dive
-
-- **URL:** https://news.google.com/rss/articles/CBMipwFBVV95cUxPNC1IU1ZCZmRUR09fVjVoSHhlazFoRFRRVF9oN3ROSTZSRExXYVVpYU00Zk9YVWo2UHNNbG5xMWVQVWc0dUkwejcwYjVlaGpsd2Y1RUM5Njc4eGpobmhxTGYzQXBNSDhac3YwQjBrMTlLMkxneFVnTXZ6bW5OVFhRWHI3QTFvZllLQzVFZlE2bmNZbFI3a1RBT3FrSXVvOTRWQU9ldmk5bw?oc=5
-- **Source:** Cybersecurity Dive
-- **Published:** 2026-10-02T16:18:44+00:00
-
-## Elizabeth Warren Probes AI Tax Breaks at Amazon, Google, Meta, Microsoft - Gadget Review
-
-- **URL:** https://news.google.com/rss/articles/CBMinwFBVV95cUxNaklqSldROFJTcHdIQ1VPZnZNRl95VmtxMDJkTVFRWjhuLXNYY2tLcm55UmlZekFuTG1fbFdWSS1WdWVQTWJURWZQR1BZUHpZQUhNQzBBSGlCanNZbWJKdkhrSnVIajRMdllLam93c1lkQ1ZTSmVUTUZTempUUDlnWTdwWU5ndm5fWUNOblRxdjR5b1RKTFpKWGxXOGRsU0k?oc=5
-- **Source:** Gadget Review
-- **Published:** 2026-10-02T16:14:58+00:00
-
-## SpaceX's AI Unit in Talks to Lease Compute Capacity to Microsoft: Market Chatter - Moomoo
-
-- **URL:** https://news.google.com/rss/articles/CBMimwFBVV95cUxNSFRjNHpmZ29FbndtVnBCUDB2UWpraXVfUnZqckZpTGZoQ1FjMk5vM1RxV2l6amNzQVFYT2JITU9QSFItbW9ScFA0WU9xZTRkaXduZWp1SGExd09KUVd4Q1FVZE5PTlFsZ0tsVVhSazZEdVM5VjA4OFctTHNwTVp1N24zV2pYREZNN2gteVFBeWVObFdhYklNR2tzVQ?oc=5
-- **Source:** Moomoo
-- **Published:** 2026-10-02T16:13:05+00:00
-
-## Microsoft recommends data controls for government AI adoption - AI News
-
-- **URL:** https://news.google.com/rss/articles/CBMisAFBVV95cUxPczB3ckF0bzdIdmpYX3h4cFduRlFHRzdQM1lHRkg5ZUJfYkhzTXZ2aFhENjEwb0lOSHdiY1B4UXhmakVLcE95cTNtcXRNaXJlTjBUSnB5VUh1T2Q3T0xGNFJMZVpVQU1pUGxxTlZRS0laTmU0QVFSN0w5aEh0TnJNWUI4b3hPQ3k0MGFHNk10MEc2b3JKRGFaLVpNNEJldl9waXRfYm9nTEdJdHpacnpNUA?oc=5
-- **Source:** AI News
-- **Published:** 2026-10-02T16:09:50+00:00
-
-## Security flaw in Microsoft’s Analytics Platform Titan Exposes 17 Trillion Records - CPO Magazine
-
-- **URL:** https://news.google.com/rss/articles/CBMiwgFBVV95cUxQa1hvMGs0Vnl1V094dHNKeVhZN2dwRW5fVzdVVjFmZ1MxM0FYUEdZNkQ1TmtjSnhNMXVNYzdjUzhWeVdqQ2Q5Rm5pYmxVWk12UEIwbzlaRFVSSnhRbm9ydXlLRlNUdEk5aWYteXpTLWZhcmNhbUR4YVZkc1N4OUluWEdROFMxLVB4OUpzU1NFUGFjWnZydW0zUVAzNldFME4yMDZjZmdGWncycXpzaHpoeERkX0pFaDAtTElJLWU4aVVFQQ?oc=5
-- **Source:** CPO Magazine
-- **Published:** 2026-10-02T16:00:00+00:00
-
-## Microsoft’s October 7 Surface event will focus on local AI PCs - The Mac Observer
-
-- **URL:** https://news.google.com/rss/articles/CBMihwFBVV95cUxPUG1rR3I0UWNIZVJxN25Ub1RPMU1GVElRd2xZQ2Z4LWk4SDJRbWdNdnBBczl4Ql9sN0I1UEY2WC1MNDFjNXFpMWNMYnpCS0FTTVl6TUVKaXEtTVZoOWU0ZFFZS3ZrYTdNWV9nenpVMlFRNG9RUER1bEc5Q1JweFZjODN1RGlsN00?oc=5
-- **Source:** The Mac Observer
-- **Published:** 2026-10-02T15:59:29+00:00
-
-## Michael Burry Wants Markets to “Tank Hard” Before the OpenAI IPO, and Microsoft Is Exposed - tikr.com
-
-- **URL:** https://news.google.com/rss/articles/CBMiswFBVV95cUxOZzhScnJxZ0FsRFhxYjN6XzRCbnI3UE9ENlczZTlHM0JQWmlRUTBQekwzLVpPZjlMTVdRR1JyUnlhMWVjdWdDM3ZtWHN2VDF2bUtmUGtBVk1pZm51RVI4Q0lOOXdnMHNuemJEeTgtSURZalVJckM2Sk13Rlc5U0s2aVZOUkNaa0FRVzN1aFdsVl9Bamw1TUs5UmFoczNZdmk2ZHdBdm91Vm9Mbk1Vck5kc1pmRQ?oc=5
-- **Source:** tikr.com
-- **Published:** 2026-10-02T15:49:28+00:00
-
-## With Azure as a Catalyst, Microsoft Is Positioned for Sustained Growth - Barchart.com
-
-- **URL:** https://news.google.com/rss/articles/CBMiswFBVV95cUxQcHRJV3V0eDJHRV9iQXNjazhXRjVQcGl1anlZcHoxMElUVmVIZlkzLWVwV3ZjZnRoelFhdnJ2cXB4bFpjcHdDekMwNGdpSTE5STBhYUhVYjdfZzFtemUyMVJCWVRIa09kdlJEMTNpbFpBVFlZaWoxd0ZDMXVUa2FPOGxaTFdQSjU4WlJtWTY3X1hfSHhXZjFibmVVelpGR2V5SzVpM0F3WG9vSmVRTmk2RmFFZw?oc=5
-- **Source:** Barchart.com
-- **Published:** 2026-10-02T15:47:39+00:00
-
-## Microsoft launches MAI-Transcribe-2-Streaming - TestingCatalog AI News
-
-- **URL:** https://news.google.com/rss/articles/CBMigwFBVV95cUxOeW5TbzJWSTdjQ05OUTllNTJNMEFCS3JIemg0VmpIT0RxR1ZFNFowY29UUXFnUjg5WnVKQWlwX0NuaGkzQ2xHU296Z0lwRjlNZnE5Zld0Q2lJdFQwNW9NTkFkUG9JcWRwZ0lMdGNaOHZNdzhaNk9fRHBHTlNxNUNpUXdDaw?oc=5
-- **Source:** TestingCatalog AI News
-- **Published:** 2026-10-02T15:35:33+00:00
-
-## The Best Early Prime Day Tech Deals From Apple, Garmin, Microsoft, Sony, and More - PCMag
-
-- **URL:** https://news.google.com/rss/articles/CBMigAFBVV95cUxOSHV5aU9PYXM1YkJRVHk5Yzc0ZGVCRFl5S19FcEtvNE5LQnRzVVRrdUdQMlRGWVRBNW9DZ0ZsN2Z3N3NBUmNMNW1JaE5QNTBKb0RiR3hQTy1FZml4MXJkNDRUbFhNZnNoQ2xhRkFFOVhFY2dSS0lpMUhtQ0tBM0pMYQ?oc=5
-- **Source:** PCMag
-- **Published:** 2026-10-02T15:31:31+00:00
-
-## Hacker hijacked Microsoft's X: "500,000 likes and we bring Clippy back," all to pump a crypto token - Windows Latest
-
-- **URL:** https://news.google.com/rss/articles/CBMi0AFBVV95cUxQVzdtcGgwemdieXlrdXlLWUttdHZveU1pWkdYSDRXUjZmRTlXSjRMbUZaeHVKQks1MDlfaXF4RElGU2o1QU51c004eXM3NmRJLVJLU3ZpLU91WU96MnkzYXE4YmEydlRWWkV0N2Y3alJjVTQtakNfaF9qd0hyUjhvZlM0Z2hRWnZBdC01VkFmU0E0WFBJZUVXREF4b3JXdFJ4WHNnM0NUZkxZSFkzNUVqTUJhaGd3YkhCZ19Idk56VjQ0YUYwQWwxMkxyWkREYUVX?oc=5
-- **Source:** Windows Latest
-- **Published:** 2026-10-02T15:30:02+00:00
-
-## Building Graph-Grounded Copilots with Neo4j in Fabric: Real-Time Recommendations & Substitutions - Neo4j
-
-- **URL:** https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMVhoUjMxUE9yeVNGOGpGSDRqenJYSFRPM3lHWHVFeHlVZjNndklnekRaeV8wSVhxWkp0ekRjSUY1OGprb0RRZkdMdlM2R21FeEk1SnN5dnlha1RGNms3bUEtTi1zUTM4VXFsZVBKSFlsZjdrVXlIb0NPU29EZU1sdGdLcGpYbGlrQmNTREhGaEhEd0tBeXg0TmEzUnhkeldZb2VIRmt1MjUxUFBhcmdST0pUWVVVdTUxTlJV?oc=5
-- **Source:** Neo4j
-- **Published:** 2026-10-02T15:19:53+00:00

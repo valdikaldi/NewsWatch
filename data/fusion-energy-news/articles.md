@@ -1,8 +1,50 @@
 # NewsWatch — fusion energy News
 
-_Last updated: 2026-10-03T00:58:14.069434+00:00 · 50 articles_
+_Last updated: 2026-10-03T09:42:25.466065+00:00 · 50 articles_
 
 ---
+
+## Weekly Startup News - TechStory
+
+- **URL:** https://news.google.com/rss/articles/CBMiVkFVX3lxTFBTcWpIV2hJMFlEQk9aZDZTZE0zMVZvaDNWTUdvaGVFd0szaUg2QTNoY1VHV0ZrZW9yYThpQ1pULVozS3Bua1ZTTzNmZzBUS0tYLVBELXNR?oc=5
+- **Source:** TechStory
+- **Published:** 2026-10-03T09:22:54+00:00
+
+## China's 'artificial sun' reactor passes halfway mark as 2027 completion deadline approaches - Mjengo Hub
+
+- **URL:** https://news.google.com/rss/articles/CBMixgFBVV95cUxPVVluc3l0UGRpcHZ4R3Bhalg4R2ZZUnFyQmNiUlNWZXpfNDFmdWRaSlo1a21zQ1NNSllybWYwU1JMM0piMWtBZGFFT04zYXFyMVJwYmN3ckJmVVpsSWh5T1EtZzVZbTRpMjlIc3dnWlNHTlQ1N3Y4SUtOTDN6NHZHalF5eG14YkRpaS0yR3VuV1RTYVdhUWw2U0ZSSFQwR1ZONzk3WFdpNVlrdkRQSjc3Y2s1Z1lhNHNiRFJzR3UzRjRlZWs1MXc?oc=5
+- **Source:** Mjengo Hub
+- **Published:** 2026-10-03T08:37:54+00:00
+
+## South Korea and U.S. Ink Massive Nuclear Energy Plan - Neutron Bytes
+
+- **URL:** https://news.google.com/rss/articles/CBMijAFBVV95cUxQOGlzY2lTS0pxamlJUHRlRmxYQVlFRTlkLTVpTWVZdWV5Zl9rOWRnVEswOHdMX0d3bzBPMk42QkZzQ3BlVlNsWF9XNEx0cXBmYnFkMEI4R0tXazZnaDMwcWhZVFJMNVY3ZnA0ZlNDREpTQ3dVUVZHdDFtM3RYUl9UNVVuVmtaWjRQSmR6Wg?oc=5
+- **Source:** Neutron Bytes
+- **Published:** 2026-10-03T06:17:02+00:00
+
+## The Power of Hitachi’s Manufacturing and Talent on the Front Lines of Fusion Development - Hitachi Global
+
+- **URL:** https://news.google.com/rss/articles/CBMiekFVX3lxTE4yV2NRZkRqbWJfVkgyMWExNGQwTWc3eHNMbTNyS1l4WXlpVXRDQ1A0eDlDZmE1LWx5OUNJTWQxY3hnNnNrdnNWWVNROURtdEFIM3FMaUxpLW9DY2wxZnh1RzZGV0dpUm1CT044dUpTR001c05ZZFNpZ3N3?oc=5
+- **Source:** Hitachi Global
+- **Published:** 2026-10-03T03:52:28+00:00
+
+## Sherrill's Nuclear Energy Program Gets a Big Push - Cape May County Herald
+
+- **URL:** https://news.google.com/rss/articles/CBMivwFBVV95cUxOLXNDWnBCbUpCV3Itc1JlY3RTQWlITWNfMHhRUmZLNGdtQjl3RzBQNWVKMFBQRkFWSnI0WEc3MnBDUXE0d3hIcGJ6V2p1S2RSLWotaVBod3lUemlkQTlueThBU0tvQjlQdUo2S1hNa0g3S1Y5akpFWWRpMF81X2NlU0M5NGFlREkzMWE2bHcxUUxyblZsaFV1bXZiRHVvUFZ3dGFaTDJRREVtZjMyXzVFelh1bU9BSmxLV1JsMmlpVQ?oc=5
+- **Source:** Cape May County Herald
+- **Published:** 2026-10-03T03:39:02+00:00
+
+## A New Chapter in India's Nuclear Journey - PIB
+
+- **URL:** https://news.google.com/rss/articles/CBMid0FVX3lxTE85cUxVNHlLY3lYZFliZENOb25QQ3I1cUktRUQyV284Nm5fZm8ySkl2UHprVHBzTVlKLXdzbWZEdWt5bjgybEloV29RR2VCMFBrNXRwVGFzejN1WjJGbjhYdFJkX1lCSF9CdlFXOGlFVHRpZUV6V21Z?oc=5
+- **Source:** PIB
+- **Published:** 2026-10-03T01:58:17+00:00
+
+## 72 Garba steps create a buzz ahead of Navratri: Classes go houseful as countdown begins; Ahmedabad & Surat ... - Bhaskar English
+
+- **URL:** https://news.google.com/rss/articles/CBMiswFBVV95cUxNaUNkUkc3eGJiYlBNZTlHTUFXZ1FUWTJGTW1MRlpvSlBxY0NZREV0ZlJ0RWtRaGZ5VTdpUk11QWFhRmtLUFRSM1ozYnhrLWRtU0VXNUdiVUF4Y1lObkY3N3FTWVJLMGtiVVR5WGxXU28zWHJiSmJybWlhaVYzT3JxMWRQU1puYVVsOEI4NkZyV3IxSUw5OTRtTnNiWTF6ZUxDWHhKUnA5Q0lMeTVKZHBkWm5sRdIBuAFBVV95cUxPMzJOT1RFUFNQU0xYZ0hTWDV1ZDBuUnFRSTlqZnl5U041TjNPbWluNElyTGw2RlE3Q1BOWjNOWngtNjA5YlZldG5zRXRSY21oLW1XcllUY3FHZ1RfM3Q3S0VBbjRWaktEOHNkb0xQUWFPa2FIcEl3TFJRUXpYc2hNOVFDWXZjNmwzb3ZmdDlBMWxDRURaaHdveTFhOG4yLXVnRTdHa2ppS0lSSm9hMG13RmprcHp2QTZs?oc=5
+- **Source:** Bhaskar English
+- **Published:** 2026-10-03T01:04:23+00:00
 
 ## LAFD acknowledges missteps in Palisades fire following independent investigation - Los Angeles Times
 
@@ -261,45 +303,3 @@ _Last updated: 2026-10-03T00:58:14.069434+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMipgFBVV95cUxNZ2wxdzJLc3hrUVFlYXdLTXk4R3FaZ2FXT0lNWXhGd1FCMG9Gb215SlZRcmIybkJVaDJNSnM4YlFzaDV6ZVhLNWJkdkFIRjlpTElkdWNSTEgtclo5d1RkUzM4Zk1hMkh4TUp0ZHJxSFEwZXlwYmxWOXBLSWI4YnFqMWY1MzBTZkZfdkNwMWxYVTJuSk1vUm9pX0VhbmUycEU2Um5BekRB?oc=5
 - **Source:** Nikkei Asia
 - **Published:** 2026-10-02T04:49:00+00:00
-
-## China deploys WZ-7 drone, flat dispute in Abby Choi trial: SCMP’s 7 highlights - South China Morning Post
-
-- **URL:** https://news.google.com/rss/articles/CBMizgFBVV95cUxQd1pwRUJFS2djX3pjVGp4TWZNVmVSRG5yclk4cXNNRnJlMThwZ1BwMFJKc2w0Wl9YTWxhRmxTeEdLenJIblhtcWlwV3FHVjQtaFJWdW84ekZzRDNqWFY2OVU0dEJrMFJUVXNVV2Q2aWNPNTdyOFhCd0FrN2huR2gyZmI1N05zMkw5QjFnU1NhYzdPNmZ6ZEtHc1hzeWZwdUpEU0p6cWNsNXpjUWNzcVFwY3lfSEU1WVlqX3daWk90NnI0R1BxUFk4MzFYZHZMUQ?oc=5
-- **Source:** South China Morning Post
-- **Published:** 2026-10-02T04:30:05+00:00
-
-## Cobalt-Chromium Alloy Powder Market Forecast to 2035: Additive Manufacturing to Drive Growth - News and Statistics - IndexBox
-
-- **URL:** https://news.google.com/rss/articles/CBMivAFBVV95cUxPMGlWMVlDTHJLVHlVT0JYbEtnWDl1UkZ6Z3d1bGRIMmVUM0NweHctNnFLd2lIdWlIZElCZUFGNTNLN1RCSVh3SDZ6LVdlUnMzcHVkVmxMdmtHRFd0UUxEbkhtZ2ZnRk5EVnBjV2dJQWRVNk1JT3RYY01TNjhXNzlRbGlhYWg1OFVtakNzbHhOdjdjdHFOQUphdVJibWwxMS1BNUpRUmRJOWdDUS1qcWxTVkl0NW9qVWJBeFBNag?oc=5
-- **Source:** IndexBox
-- **Published:** 2026-10-02T04:26:04+00:00
-
-## Singapore eyes bigger role in nuclear fusion industry - news.lavx.hu
-
-- **URL:** https://news.google.com/rss/articles/CBMiigFBVV95cUxNVGN3S243VUc2ek4ybmR2bEwtVmxLVUdUNU1xM2R5NW9hcWg3UzNvVm11VkxJOGt5OTFqQXVKSExYNXdMOTZWc1NSSC1ZalA0WHc0U3ZVaHU2czBFN1U3bFA4RTBKTy1MQjVaRXFteE5wRGI2bFFwem5vSU00YjAxRDUwSlIwalF5X2c?oc=5
-- **Source:** news.lavx.hu
-- **Published:** 2026-10-02T04:08:33+00:00
-
-## Singapore eyes bigger role in nuclear fusion industry - Nikkei Asia
-
-- **URL:** https://news.google.com/rss/articles/CBMimAFBVV95cUxQUmNlNzFIbUtMLXFBb0pfdl93R0Rncm83eFpVRERXanBhVXpiSkM0Z3IycHlRRTRYN0RJelZETTBIR2E0X3psdGRjeVVOeEZPcm4zdnREYlEzSVdpWHJkXzNqYWhxa3pTaHJ1R1JOWGw0ZHhNQ09pU0J3dk5SaEZabXcyVE9KYzd1VE4xdU5zME94eU9xWDhfNQ?oc=5
-- **Source:** Nikkei Asia
-- **Published:** 2026-10-02T03:20:00+00:00
-
-## Australia coal plant retirements accelerate need for dispatchable capacity - asian-power.com
-
-- **URL:** https://news.google.com/rss/articles/CBMiswFBVV95cUxQaUNIRWxDejZxZDJhZHhzS05hdm5xdkZrTnk3a25jVjBodThRalBlRTRnWmw4MVhpdDVMd3c3bFFDb2I1SEp3dEtKbERqV25aTmRmczRuR0JlOUxXOWtfMXZNNkpYMHgtVnhvamR2MEd6WFh1bjlULVR4eHB3dy11a3JTX3hsbjdEMXNMak8yS0lxZ2YweFFUQkRpbzl4Uk02VU5mSXlHZFM3RHdSYmhLX2NNTQ?oc=5
-- **Source:** asian-power.com
-- **Published:** 2026-10-02T03:12:14+00:00
-
-## US DOE announces USD 400M annual funding for basic science research - Asianet Newsable
-
-- **URL:** https://news.google.com/rss/articles/CBMiyAFBVV95cUxNejZJY1g2WG43RFRHMTJvNEZFdUt4OWRzeWt1c2EzN0RnbUdTSm9fUmdHWkREUnZWZzFvXzJxRHNJa3hkaXVaZ3ktQ2FIZDBqM1JFazFJNTlwRHVxT3owS1pwRjlaMTN0V3FNVlRDekFLZUl2c0tWanJKWnpyTkF5N1RhZFVCbmpGVzBqZUhNcnpJQzkyNHhfMVNhak9ER0dqYTVqS3U5ZXg4RHJYdHo0UDRlVFZRbFFFeVRHejF1bk5wcFk2VHk4RdIBzgFBVV95cUxONzJDNDdHOGVyOEQ1dFQyZ0JGaFdQV29Rcng0OUFyc3k4TWxrbWNnRzEyb1pMZXBHMFlBaVZTN1NkbjQtU0FHeGdWNlMxeVJCdkRHRm5MWWhIWldkd21VQTJnQnVjeGZZZVQwRGlaeGNvXzgyR1NPUnJEN29wTXhsdFdYcUZ2emduNnBqeGpOamFCVThiSjZoemdlOEtQTUVrSXVEQ1llU1c2NXEtRFB5ZEotVkpLT2tiS0NSdFN1TzdXN2R5SEFOdkdQZUVFdw?oc=5
-- **Source:** Asianet Newsable
-- **Published:** 2026-10-02T03:00:26+00:00
-
-## Singapore Fusion Energy: Government Eyes Economic Role in Emerging Global Industry - Batam News Asia
-
-- **URL:** https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZGhlYkZlVnRwczhSeEN3NUk1MWNiR2tBcjF3aXFuQXpyZkg3RVp0c2I2ek8zZ2F1N1JSWkhLTmJZM1hVU2o4T1d1REhWN011SWIxZ05RTjVnb2loQjk2N3FMampxUk9JeUVQVjlrUlAxbDdzLTF3elp2QU12eGN4MnJyaDBmY0ZFY1pHNGxoX25MZjQ2SjJpWlkteWFxMTNEQTFGTGRhUkh5MUNsTU1NdVZNMUlPRlZ3Qk1B?oc=5
-- **Source:** Batam News Asia
-- **Published:** 2026-10-02T02:03:50+00:00

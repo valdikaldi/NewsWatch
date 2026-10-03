@@ -1,8 +1,128 @@
 # NewsWatch — Oil News
 
-_Last updated: 2026-10-03T00:58:14.618953+00:00 · 50 articles_
+_Last updated: 2026-10-03T09:42:26.017472+00:00 · 50 articles_
 
 ---
+
+## Trump, Putin, Ukraine and an Oil Deal: 5 Takeaways - The New York Times
+
+- **URL:** https://news.google.com/rss/articles/CBMilwFBVV95cUxQVWxVYU5GUUprVlFqTkNFWFQxMWZpdHZsWXdCUTFXbkRBeVpMa01lUklKZ0hWUjN5NFFWdnNJbE0xb0FPWk9mTFg1c1VwT0hldWVQX0dFYTdpaWlHaVV4dkVlT0pteXl6c3NoMWF5OHZneHZrR0RsNHlxQlBFUERteGZfamVfdkI1MTk2MHNqQXhiSGRCTkk0?oc=5
+- **Source:** The New York Times
+- **Published:** 2026-10-03T09:03:58+00:00
+
+## U.S.-Russia Talks on Ukraine Now Involve an Oil Deal Tied to Trump Allies - The New York Times
+
+- **URL:** https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUExYZk9hQzBJWE9DS0UxQ1RfNUttN3NIY2xuNS1PN0dkZVBlODRMMkVmbGFDNXZ1RDU2aU5rM3dGc3ZtR3Z6RHZSSGxpME5TSGJ0OE1vWUdHNWZUTVdQQjhLYVV3MW9XUExPYUJBbHhieUlmTmw5QmJ0YXdjMjh2c3dBeG91d2d5dHRB?oc=5
+- **Source:** The New York Times
+- **Published:** 2026-10-03T09:02:23+00:00
+
+## Magnolia Oil & Gas: The WildFire Acquisition Closes (NYSE:MGY) - Seeking Alpha
+
+- **URL:** https://news.google.com/rss/articles/CBMikwFBVV95cUxQMUxxREZaNjlvVEVvNmxqeVh4dXdCenBlYUx5SFI1S2tsdzItX2UzbVpHWXpVRW10Nzh3RG1rTHg1S1RoSEVIRWN2d2dUR3NNbnNnYzhzbE1kR1VQQXIxYWl2SWl3Sm50WEtzWWhvM2NWWGhxZEp4Wk5Xa0g0NlZEbU5sbHhPemN6MFJmOUowaFY2WU0?oc=5
+- **Source:** Seeking Alpha
+- **Published:** 2026-10-03T08:30:04+00:00
+
+## How to manage your crypto investments when the oil market experiences uncertainty - San Mateo Daily Journal
+
+- **URL:** https://news.google.com/rss/articles/CBMiggJBVV95cUxQMUUwZ0JyYk5Fa2pwUTNZWmNyNWM1d0ctUVZrSnlZTDlGRjluTDdGZWFxVmhfWVJOSHlzWG5VdlMyYnZNWk1xZkxLSFRKWF9oNWlmZTVsX3R4WEZwcG5ZTklVOFNJNkJRR1dNWVE3R1BrUjdadGtaenRxNC1ORkNNY0sxTEpBZTRPRHZwLUI0YUVSQTltTWdReUNfSmVjUWZIUTlfd3M0SlFKNEZXQ1VTOVVFdGJaVFNvbjZhMHIydURVT1I5aWNaRkFSZld6SGJpTzNTZHY0NkJHdFFFNDU3NjVZRm5Ibm9mUTNYWFpLTV9FakJiaVc2emE4OTl3dFFtdnc?oc=5
+- **Source:** San Mateo Daily Journal
+- **Published:** 2026-10-03T08:00:00+00:00
+
+## 'Rich hippies' versus big oil. Supreme Court hears landmark climate change case - USA Today
+
+- **URL:** https://news.google.com/rss/articles/CBMitwFBVV95cUxOa19MZEdHWUEwemowQnpDWUN4TXpDaUFCRkZmS0FmS0NsZTJHcUE2VDJ5eWUzUmdNeGp6am0tLVVFXzVBQndNSVVpUlRCV0pPTW1rUHpabzRlZF9vcWR0dUljbmZqS1hHcWVlQUtZNWhKZHFOTHQ3ckFrSzlBblloU3NlZ3lYUG85cDFxNnpCdXloYmY0b2RjajczMXBXRmtKVUJiLTRRUUdkUmZLQmVmdlgtdnpaWk0?oc=5
+- **Source:** USA Today
+- **Published:** 2026-10-03T07:00:00+00:00
+
+## Trump Touts 'Better' South Korea Trade Deal With $8.4 Billion Oil Project, But Seoul Says It Wasn’t Part - Benzinga
+
+- **URL:** https://news.google.com/rss/articles/CBMi_wFBVV95cUxOaDdJbFJKSWFGNTRYdm52Z2hzVmZMQ0VReVloZGlDdW9oT0V1MXdYZkwyVE96el9uSDk0ZVNaRkZVRWpScWNPOFVXVThrMDB2QWRXRVlMSlVmSHpmTFNlSExQOExrZHpSZzRXenpKT2VhZ0ZiOGRCM05DenVIYjBMOEtZLVdkekdOSWg2LWZDNE9LbFpmVFVTZU1aclNyQU5oVnR3TGNVZWJGMzF6Y05BM1V1X3Y3UTAydU81YU5nTDM0dTJOYm9YZGhwNXZFWkF3SU9QT3oxWUh0eFZkZG40cGpGN3lXVFE3YUNIeTh2b2JtbFpGaWFsbXQ0M0h2Nkk?oc=5
+- **Source:** Benzinga
+- **Published:** 2026-10-03T06:42:33+00:00
+
+## G7 nations will release 100 million barrels of oil and diesel fuel after prices soar - NBC Bay Area
+
+- **URL:** https://news.google.com/rss/articles/CBMilAFBVV95cUxQX0ZqX1B0RmxYeHRDczYxMUFOaDVlOG1NMUJYZnA2MGdHNHpQaVJRejFVVUsxSDZlUXpmcGFYamZIRWh3YVZCSXJQeTJ5bkxfNF9TYzA1VVAxcWlOcld0NHJGUFpaRl9KX0JYMjIzY2VodzVxblNqTnJ3TDYxaWVpZk9TZUd2ZGVSREVJSDcxOUpWcEFq0gGcAUFVX3lxTE5UaGpVUGV0WVo2UlQwajBNdkxOdlZQQ3dvaTRGam9LTHg4bEh5bW5Oa3hudG9aSXJ2YS1EOHhQRkcyclB4RFVPYXZ6NDl0Sl9lNlpJUHBGSHF6MEJvWUU3OEFtZktGRVl4WEd1WVlfWlR5VW1NcmkxaC1kUkJ1OGVBUm02TGF6cEpSME1ObHpBQmZlblpoOUNVMHVRRA?oc=5
+- **Source:** NBC Bay Area
+- **Published:** 2026-10-03T06:15:15+00:00
+
+## AdBlue Oil Market Through 2035: Heavy-Duty Diesel Vehicles Account for 42% of Demand - News and Statistics - IndexBox
+
+- **URL:** https://news.google.com/rss/articles/CBMiowFBVV95cUxPcEppZnI5d0xEUFhZakYwNktrdTVrdWZxMHN5dlVIcXZJcjR4LUhxYU1yNjJ3eTQ5SjBFODJyeW1JVWQzc3ZoNG9ETFBwN3RrNzdNeXJKOVIwQlZyX1RLVktUSjFRR3gzRVZkM1ZYZURXdlgtYlJ4RDV1bWtaLWRGZS1nRE1LdTIzYVJhYUVRYkNZWmZiV0N4SmQxUnFucUxPRnNv?oc=5
+- **Source:** IndexBox
+- **Published:** 2026-10-03T05:31:04+00:00
+
+## G7 nations will release 100 million barrels of oil, diesel fuel after prices soar - TelegraphHerald.com
+
+- **URL:** https://news.google.com/rss/articles/CBMimAFBVV95cUxONE5KLUpjUV9peklrRTI0YU5HSWxjaXNjaWpIUWdGcW9Zc0Nnd1ZqeC1Dek9nWXNzTEpLRGRaV0x3bzdEdGNIaWRHSHVGUU9VS0EtTjE1b0tjaXU4VkoxZFJKYkJHTkRrdWZYNUJFMVdCLUNMUHhYa2N4N0pGaklveVAxVHZ0TjA2U0h4Y05EdmpFc0RtVW91cQ?oc=5
+- **Source:** TelegraphHerald.com
+- **Published:** 2026-10-03T05:30:00+00:00
+
+## G7 nations bow to US pressure and avoid crippling diesel ban - Al Jazeera
+
+- **URL:** https://news.google.com/rss/articles/CBMisAFBVV95cUxOMzBtckc2am4xc3VUMDFzSVJhNjBiVHRSQTF4ZnVZWTNRU0pNcEVKd2JuaV9tclQtWF92dk5uNE00RU41QlZDWVVsanNIY0piUG5ZZ2NoZVoweWFQVVkzT2FkWUhkMEtyOHFlRlJyRGJlU0daSDU4NE1nOFQzelc5V0RRMEZDZGRKNUpiZnFZUE5SWU0zRndKdmNCU3F4N3AxYlVQVFZlWjBRUzRrekRtTNIBtgFBVV95cUxPTjZjNV9ZOGdBbmFsRURpRnlVb2ctb2wxQW16T21kOXVpaVhoakFVUXNtY1d1ZU5NZ1czdVl2bld3NG5HcUQyRkhpM296c3otR0lBWXNaOVBsWU9aMTE1dEdFQlRRbnVCVHR4RnRHdFlLZGlITWVWMUhZcENkdElyU1Q2TUE3cjNvVTA1VlJ2OW42S3lCYTVSMGdJRWUwX0JPYlZjRTlTVmlzUkFOd1p2UFd3aGx6dw?oc=5
+- **Source:** Al Jazeera
+- **Published:** 2026-10-03T04:12:08+00:00
+
+## Why rising exports aren’t easing oil market fears - Investing.com
+
+- **URL:** https://news.google.com/rss/articles/CBMiogFBVV95cUxQd0lSZVg4MjNOSWxOdHpMalM0NVBpM2RubVNsMDdTdEZsZDJ2NzRFanhzNG91MGhRY3VaVmcwZ3lyX3l6anRjejhYbUVWMFZSbVp4VlhENVU1dl9zdlZOT1ZDS215dkpSd3dWX1RtRkhxMk5YcVNsU3VNYkluU3gwU0dBM240VU9BcVNoSnREWGhhMGdLUG9vcDZSMXVFRXM2NlE?oc=5
+- **Source:** Investing.com
+- **Published:** 2026-10-03T04:03:40+00:00
+
+## Woman Notices Her Chevrolet’s Oil Gauge Is At ‘Half Full.’ So She Adds 10 Quarts Of Oil: ‘Help Mechanics’ - Motor1.com
+
+- **URL:** https://news.google.com/rss/articles/CBMiZkFVX3lxTFBnN1ZqcFVGaG56amJTWmdyUVFZUnNVZGFIUUNXY1hHTmR2dldkYWdxRFJiX2U2SlBRRWIyZDRnQWkyb1NUeEpRMjlnQkw1YUcyUjBRWE1LNXk4TEprX3lsSVg4NV95QQ?oc=5
+- **Source:** Motor1.com
+- **Published:** 2026-10-03T03:51:20+00:00
+
+## Oil and gas prices sway support for President Trump | What to know - thv11.com
+
+- **URL:** https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSWFySFNVSkJ2VDVxWEUtejJHQnRjdkFPblBsajFLdnhjNWQwaThIU2JhNTZmeVdaZjRmSTEzcHVUOXhCNkZuRXBVY1J1UlRRY29mZ3pJSzBZTVlIazh0QUp4UUFSaDFEMlR5MVR6SXFUdm5LVzBLNE9JaUF2VERWdkk3VmlodV9KWm40bFJGNDFqblBRcDBndlFsRTBVMldfMGZMRzBtRFlseTV5bWNndjNEWERVRGxzY0VUTWpuWlZlNmc?oc=5
+- **Source:** thv11.com
+- **Published:** 2026-10-03T03:38:00+00:00
+
+## Oil pipeline leak reported between Riverton and Kinnear late Friday afternoon - county10.com
+
+- **URL:** https://news.google.com/rss/articles/CBMioAFBVV95cUxPWlFuWHNvazZRQmVKLW5rVVF0ZDJXQWxrOG5xX0hPODZLYkdWejlvckxLcVdfUW1sWU9zNkxXb0g2UU9tSVN1TVMybjhTdEtkOTlkY3BKSURyajRBTUQ1ZFhSUXR4NWpsYU5TcmNlUHBTcGk4Wmkyd3JtelprLVprbm1CZC1DU3dMbFVzS1BfQldhaFY2UEJyOTBuamdJajZL?oc=5
+- **Source:** county10.com
+- **Published:** 2026-10-03T03:30:12+00:00
+
+## G7 nations will release 100 million barrels of oil and diesel fuel after prices soar - The Washington Post
+
+- **URL:** https://news.google.com/rss/articles/CBMiygFBVV95cUxPS0x6a0R0VWVFN19jMEdfUkxYVzVsMFI5azRLR05DbEtlUDNmWmw2UWpHUzM4VDNlTS0wZ1c3dXRGSXdjRk40V0hSZ3ZJNnRNWEFRc3dYS0N2SmhHZ0M5dWk0bm5qMUNORUJlMHBwZ1NDdWhHcUxUWHp1akJncndpMFJSS2VYWjdNeDR5RmZ1SVZtbTE2WVQxT3FMcFZQWFotTThFLXV0VnBaZ2Jza2swV0JFTFZhaUMwODRWaXJpNU01UU1KNTF5V0N3?oc=5
+- **Source:** The Washington Post
+- **Published:** 2026-10-03T03:09:40+00:00
+
+## Economist says G7 oil reserve release may offer only short-term relief - Yahoo Finance
+
+- **URL:** https://news.google.com/rss/articles/CBMijwFBVV95cUxQWE1TMTBURVBHMGZEVmUtTTJReFhTQ08tdkxDNnBuNzloZmc4bnVlU2R1TlA0NkZXZ3NTOUFUeWtOeVVCOHduLVJDbjd1bEhxNHYwdU9WZDJWTlFLQzhsMXk2MEVfWXl0Y3k4ZXdKN0w4Uk43U1NBRWJkbXhFSmFGcncyX2ZhSm14T3RZdDMzbw?oc=5
+- **Source:** Yahoo Finance
+- **Published:** 2026-10-03T03:03:00+00:00
+
+## G7 nations agree to release 100 million barrels of oil, including diesel - Scripps News
+
+- **URL:** https://news.google.com/rss/articles/CBMiqwFBVV95cUxQc0hVNW5QU1B6Q0Y0SDlaMXRoWDdHZEp0RjBBOWQ4bjdVRFVtYnE3Yl9lTjhiZWo0QzJXdndtMEdaSWY4ZExIb29IRmoyYndjT2wyRFlYMjI1Y1lKOUo5Y0FiajVGYUZvaTJ6ZzM0ODhVME1hSGJma2s1cWY0X0ozOWg0bE52R1d5ZGV6VVFtekw0bDhwNVVVRlJ4OWo3RHJzNUFKTXVSZE5mMWs?oc=5
+- **Source:** Scripps News
+- **Published:** 2026-10-03T02:48:45+00:00
+
+## Central Valley set to open for oil and gas leasing this December - YourCentralValley.com
+
+- **URL:** https://news.google.com/rss/articles/CBMihgFBVV95cUxQN01YS2YyZ094Q2RmanVjQjFzLVlfYk5qUWZvZDIxZ2IxRERIRVkyQ1BlTGR2RjM2VEsyZjZIRWlCZ0laaUdGX2hsa3BZZHREdW9wNkM0VE8yTHRQTTYwSS1iMFVSVk0yYTZ1YXQ2akhGYlNtNHNMYWE4X1A4a3VVcl90X1IzZ9IBiwFBVV95cUxPNkN1anRPNnBWNnJWQTRoMGd5azRqVHNXSEFfblBsMVlvOHpQTzBCNkZhRWJlQlNVbEpVOVFfWDBFVUtJNlhKTjltTkc4MkpiYmVHTFg1T3dsN0hYNnhUbndLSHgtVFU0SEQtbDJxQ0xGUEhHSVdGZ3VidGlaN2dNQW9zZWFMZFNFV3pn?oc=5
+- **Source:** YourCentralValley.com
+- **Published:** 2026-10-03T01:50:23+00:00
+
+## G7 to release up to 100M barrels of diesel, oil - nny360.com
+
+- **URL:** https://news.google.com/rss/articles/CBMi2gFBVV95cUxNbVB0bF9XeG9wQWpIYkUwS1pQc0NhaXNORjJremNrQVJuOGRINHBBMFVGZTQzN1praUJ0NlpLNUpoTzBhRWUweXp3WmNXNC1TN2R0M2lVM0dYeDVNeXppbDljRnhGSkRjZkZ1QmNmWVNtRmVzaU9DSXY1ZjgtSnA5bThKamR3N2F3cGlqQVVnbFVlTjFlZWJVTW5rMVFyb3VOM1ZuaGFaZlJJRGNkZkhZYWl2cnA2X1d4VFU3WGlBZkhMRVdkenFoVDYyNzZMNEV0dXhaV25tQ18ydw?oc=5
+- **Source:** nny360.com
+- **Published:** 2026-10-03T01:37:19+00:00
+
+## Oil Lamp Theater Presents “Dial M for Murder” - Choose Chicago
+
+- **URL:** https://news.google.com/rss/articles/CBMilgFBVV95cUxNRW9ibHBNdjVPUVB2RVVuMEJjOHhqd2dBbl9IT2ZKSG5GVU5kZ1E4LWxkTG9NTFhfRzY3YmJxZlBSdnlnRHlhZURFWWMtM2VHTWhQSGFfY0k1c1UxVDFNUVhXV0I0ZWxDNFlYd1RpbFNDQ0RONVpJZ3VKS3hscmN2SVlGek1zOXE1ejM4VDJhaURDZHBweUE?oc=5
+- **Source:** Choose Chicago
+- **Published:** 2026-10-03T01:30:07+00:00
 
 ## Environmentalists, lawyers, academics praise signing of Gregg Hart's offshore oil bill into law - Santa Barbara News-Press
 
@@ -183,123 +303,3 @@ _Last updated: 2026-10-03T00:58:14.618953+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMilwFBVV95cUxQTTdlWnNIVjVlRHo0VW1qZ21lclBKZDdFc3Ywc2duLXRUMGJ5X0VBd2RSZUNDZndWMEFhQ1dzUHFGMFl1d1V0N3UxblVWZ201cjhaQjlJZkZ2NXc1RHEzSG9tQUVnaE8xRzU0V3dBM0o2N09XalJTRl9TQ3M3THBfMzRwcDhRNEpBeGpzZnNHUEFwOGNORWlN?oc=5
 - **Source:** The Motley Fool
 - **Published:** 2026-10-02T20:42:42+00:00
-
-## EXCLUSIVE: G7 countries agree on release of diesel and oil stocks after US pressure - Reuters
-
-- **URL:** https://news.google.com/rss/articles/CBMixAFBVV95cUxQZnMyRFpEcDhNOHlnU2NJT3F1R2M5QkEzMjJPaGRUYlZ1S2RYYmNMZ1pERlZINEtxMkJDTktfMThYeHZ0U2FDZjVoQ3l3eHViLVkyajQ0S1RfSDJ4QS1xTEgxNVlaZzJSSkVjLTJYM04tX3ZHUEVSY0VHdjJHUU45RHBRajVxQzA3emVQNXpvRG9XRVVVZUtSdUtveUN2WUp6RzhBeVQwQ0JzVk8zWWYzS1FCVUtTZ3UtNTllVzJrbTJyUC00?oc=5
-- **Source:** Reuters
-- **Published:** 2026-10-02T20:42:24+00:00
-
-## G-7 nations to release 100 million barrels of oil and diesel fuel as prices soar - latimes.com
-
-- **URL:** https://news.google.com/rss/articles/CBMiygFBVV95cUxQMHpkUnREQTc5OVhwRF9ZNjVnVlFuUUVrT2ZYRFdFM2FSaFkydHhfVm9Jb1ZWOHR1NGhnNDJ2ZmZwS0pIZ3ZUVEo5TVRkNTduNmdpSWg4S1hxM3QtSDBwd3VLeWkzQlZsRHR5TTMtc1N3TVY1ZU9adS1HQXhjemhTUG83elR2Zzlydi1YQXhLZUJ5TlhkTlhHdHVrczZHenV2VFlhU1dFenpaaW8teXJzb2xLTExTcmYyanVEdVM0X24tNzZlTmM2WVFR?oc=5
-- **Source:** latimes.com
-- **Published:** 2026-10-02T20:38:00+00:00
-
-## Global leaders announce plans to release up to 100 million barrels of diesel and oil - Yahoo Finance
-
-- **URL:** https://news.google.com/rss/articles/CBMi6AFBVV95cUxNQkhQNlo4MzFSWmJVVG5lckU3VEZoVHVfMzBqVFFfc2RKZmdnZHhPM0lQakVWSS1NWTh1ZXZ0S2hoS2JBRXFPWG0yM0NBQ2NpeDN5c3ZaQS1jZk9wX2JTUWFuZHFqUnBKRzdfQmg0elc1b0NJa0R1N0R5YzIySmFZb1dnS3drNnpadEFUUld5UXhNdUhLOE8xNXlhMDlSaDJiRnh1V1ZkZ0IxaUl3NGNSaWRxeWVFSkVna0N6b1BuRHQ3dlNDRUFKc0c0MHFnTXRsSG02UXBUNll2VzZYUUxYY09lMUhaN1pV?oc=5
-- **Source:** Yahoo Finance
-- **Published:** 2026-10-02T20:37:18+00:00
-
-## Equities close higher as softer jobs data quiets rate-hike expectations - Reuters
-
-- **URL:** https://news.google.com/rss/articles/CBMiqgFBVV95cUxPeTVxVTNLX2pUZEc1U0xtNWdyYWRjY0NjSVcweXJNYk9PTDVKVnJaTzFNTUdnNW5LVEFxaHlELU9fVW9neE93Q0VDanlUbkJPcUhMaXNmNUJQX3pXd0JvcU1VSHh5Z1NEZnQzWGFsclpXZ08zRTVmY2ZaV1J4a2JBU3lPTEVNTUNBSVdVcWRydUlJOEY5ZU13NERhMFE3YUstSzB2RE5JV1gtZw?oc=5
-- **Source:** Reuters
-- **Published:** 2026-10-02T20:28:31+00:00
-
-## South Korea Says $8.4 Billion Oil Project Mentioned by Trump Not Part of Deal With US, Yonhap Reports - EnergyNow.com
-
-- **URL:** https://news.google.com/rss/articles/CBMiygFBVV95cUxPY3NaZjBESW5lQ3VTcFJBdWV1TXo0UzJ2ZDJfcG5EM09wenRxMVltT1lqRThYYXgwdERyazdxcnY5SUN2WUFVY3FGRFFWOVV1YVRZMGoycTZLNldvR3ZXWTNaTU95WFhuejJjQk45X01CS3JCOTV1SXJTSTdTc1VCZ05RM05QS0FOOTZaSEtvaHdVREVhc2lfWUtFa2VGZnpKTFRCd3Rod0tqR2tiSXBJSXZJRTlyLVd0cnpJNDZ1VF9WR1hHay1HdC1R?oc=5
-- **Source:** EnergyNow.com
-- **Published:** 2026-10-02T20:24:54+00:00
-
-## Brazil's Petrobras makes new oil discovery off Amapa state - Reuters
-
-- **URL:** https://news.google.com/rss/articles/CBMirgFBVV95cUxQMzY3cXlCTG1ZajJPWDVyR0RHV0JxU3ItUjdEd3F6bVByeWFaVkUyOF9JUXdYMVBJNzNHU09hZFpjQkxxLV9YVGV6enQxZVEzNDdFZzlaX055S2V1M2tLXzlhdkhVWXFkc0ZNMHhmcy1sT2hwblpPSTBDczY4Q19IdDR3NzVkT2dFRl9PRkMtZ25XaUlVQ0ZIenAzWVM4cXN0MXo0MnBDZmxLS1pKdHc?oc=5
-- **Source:** Reuters
-- **Published:** 2026-10-02T20:11:44+00:00
-
-## Canada PM Invokes New Powers to Fast-Track Oil Pipeline - Rigzone
-
-- **URL:** https://news.google.com/rss/articles/CBMitwFBVV95cUxQNnRXTEczU0o5QURVMFlCZ0dHelliYjZncjR2YXRYZFFXMVMwY3d4dHZzcEllNGRvZDZLMzhzbE5ETjk0bkJpYWpiN3c2NzloTEd0YVI5ajZ4YWJsY0lxQjhjY19vN2dXMXN1dzlkOHZtZHZyVjFuN2Y3QkNZS3p4RktzNHNSTDdjVW5vd212M195ZGFNNDFybjA4cllYMThlUUJIYTVzanBlQmpkeEpHQUhhcmhlaGs?oc=5
-- **Source:** Rigzone
-- **Published:** 2026-10-02T20:11:22+00:00
-
-## Lucas Oil Stadium 'played no part' in Macklemore removal, exec says - IndyStar
-
-- **URL:** https://news.google.com/rss/articles/CBMi8gFBVV95cUxPXzNaRDhqdW9MZVZHQWQ1ckEtT2xYbTl2by0yZGdfYTI2MUUyX1RVdFcwR0c5dFVBRlh1cmdTbEZwdW1hcDBjS282TW0yNmFSN0VUTFA3UEhLWWhVejROaE1wdk5kWW1LYjMtUFMtNy03UmY4VmFUTUxMSWVubkN3cVRmV2dva0NLSE1oSWRyMVU0LXM1ZGh2N0hMWEVSaVJERFhzOGhzXzA4WUVpMzlYVFljbmZkbGdQWnVBOEtETzE0X3p0dmcyUDBlcVAtNE9mWlp4bXJ5ek14TDFURUVSVThzdHdOZEVsaWw5Q1V2SmZNQQ?oc=5
-- **Source:** IndyStar
-- **Published:** 2026-10-02T20:01:00+00:00
-
-## Officials: Hackers accessed oil tanker’s propulsion system - Transport Topics
-
-- **URL:** https://news.google.com/rss/articles/CBMiaEFVX3lxTE90OEQzYWZkQTNlRVVxNjlBLV8wT09IVjZFX0dLcHZmbnRPSVlLY0xSSWlfYlJ2RlFWN2xtaUtmWk1EaVNyeVlhQk91ZWhIVEIzdFJZTGI0Q3cyOWpDaFVycmpJSWd2Wkds?oc=5
-- **Source:** Transport Topics
-- **Published:** 2026-10-02T20:00:00+00:00
-
-## G7 countries to fight oil prices by outpouring reserves - wng.org
-
-- **URL:** https://news.google.com/rss/articles/CBMiT0FVX3lxTE1uczZRWUdNNTF4OXVEU1hkYXpKM01ETFZ6MVFkYU1sdE9ZVmUwN2F3Y0pfVHh6bWZUNFU1X1RfSHpmekd4V2lnSGh2bFlFd00?oc=5
-- **Source:** wng.org
-- **Published:** 2026-10-02T20:00:00+00:00
-
-## Trump Administration Sued Over 'Callous Giveaway to Big Oil and Big Auto' - Common Dreams
-
-- **URL:** https://news.google.com/rss/articles/CBMicEFVX3lxTE8wUVhRNWJQWUVoWi1sZVFaMnctZVJDWl85ZTVDQ05GX0tmNGItamR5TVZPbDFZSXdvZ3luWWdJRGdBNEp3MGVObHlsTGd4UG9aMm11YTk4Tjl0Zlh6cVlscG9YUVRRV2plOVRabldBaTc?oc=5
-- **Source:** Common Dreams
-- **Published:** 2026-10-02T19:44:49+00:00
-
-## Committee Democrats Issue Statement on State Department’s Partial Production of Venezuela Oil Deal Documents - House.gov
-
-- **URL:** https://news.google.com/rss/articles/CBMi8AFBVV95cUxOQ2RsOWdzVmphczlhUzYwcVoxNmJNSk1rRXdtRTRfbHppTWR6TW41WC1ZSzdXQ05GUkczUVBDSUxHN3NIT2dtWGJ6RWZVeGZBZTBoMHhTaWo5QlFUWWRXVXhvZ19kLTRNNkFsTTUya2dmbXA5ZkJzYllUeWNQU203YndsNkg5bVQyQkt0WmI2RXNmTzVfS3h3WGJCS09Db041SGttUFJYVEdWbnZiYW16SGpRSkNuazJIUUIxWC0tM252OC1LUkxhcW13RU5qTTZpcjUtRjQzU0NUMDhNNFVTVU5aSUtNeVZ5UlA0Q2pSblE?oc=5
-- **Source:** House.gov
-- **Published:** 2026-10-02T19:42:41+00:00
-
-## New Jersey’s Middlesex County Sues Big Oil Over Escalating Climate Impacts - Inside Climate News
-
-- **URL:** https://news.google.com/rss/articles/CBMijgFBVV95cUxNLWFzRVNGREp4OHc4SFl1bVVDY2J2YjBpaDhFOFluZHBjQk5TN2V0TmVrVTRmYWo1VzdaT0t4ZVBVbW5fanllMXdHaC01RFVIQ2M3QW80WU5qRkt1X3B2TGI4N1E4eVdZUnc3LXItWmdJZVkxVGtydDlqR01CeEpqOS1GNlU0cGc2NzVBYjdn?oc=5
-- **Source:** Inside Climate News
-- **Published:** 2026-10-02T19:38:46+00:00
-
-## Trump administration expects diesel prices to ease after global oil Release - Scripps News
-
-- **URL:** https://news.google.com/rss/articles/CBMixAFBVV95cUxPVG9jVkI2UV9fWHZJZnZfVXNJck1NRTE4YVhxbUxScnFDVFBYOEJrYVAzcTE5VG5MLTJHZlVZTzcxVXpGSWltaFd6Zkh0NEstME5ZWGVpUWVJb2x4YlRUVDBKOE9vSTFmbDYwZVNPSnFQNG9NR1lyVURSR084bzhhX3VTZWYxaEk2WWhrNmdqcmRKeUdjYnRHbU5rZ05CQ29aeV9UaEgyZUZVTWRtcEk1eXBDX2RJYWZ6UWlxenc1UGxjOW1D?oc=5
-- **Source:** Scripps News
-- **Published:** 2026-10-02T19:37:19+00:00
-
-## G7 to Release 100 Million Barrels of Oil, Diesel Reserves Amid 'Unprecedented' Market Volatility - Yahoo Finance
-
-- **URL:** https://news.google.com/rss/articles/CBMikAFBVV95cUxQRFNITXIxMllRUVBYVGwwQmE2d3hBVVJSY0ZnLVVsOWxzZEJpV0t0Vk1Ca0Nfby1LVHNfTjVHZFJyeWR2UnpacHB4MEpXVVFIYzliMHB2M2p0Q21JdjJHakxUajA3VEdGOTZ5ZDdmRkRHblJ5UklMRVhWM1otUlA2Ui1WeUxWMFZFV2JkbXlsVlI?oc=5
-- **Source:** Yahoo Finance
-- **Published:** 2026-10-02T19:36:23+00:00
-
-## Oil (USCrude) Price Forecast for Today, Tomorrow, Next Week, and Next 30 Days - LiteFinance
-
-- **URL:** https://news.google.com/rss/articles/CBMinwFBVV95cUxQcm51RHFTMGNQcnB2aFl5bjNQQzFXUVVHckh1eW1IVktpM0lfaXlCQ2p6RF9nYWxkajlxb2R2V0lkRi1FNnljalUwMlhaU2FFT2dCUDBwem9tVG14Y1FXZGVKbWJvSm0xNlVVZ1BwdTItWnJkOTF3TnFTU2FQLWZibmhXRXlnX2RJY25leTB2ekVVUHZMZS1zbjBhWkNJLWs?oc=5
-- **Source:** LiteFinance
-- **Published:** 2026-10-02T19:31:57+00:00
-
-## Should You Heat The Pan Before Adding Oil? - Southern Living
-
-- **URL:** https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZWI4S09nVUtnaUlwZUU5aC1ldG04bDRYZlNxbE43ZWQzVmUtX2JuUXpzUlZodXY1c0RSUC1VMVZXeGRfZFZjMGxyT1Q4S2x1Y0ZCSEFDNm1WVl96akFuempUV1BCSk1PdEJGM0N3cHRCaDRRNXFMLWNIZ1U3aFNsU1ZjS3Nva1NL?oc=5
-- **Source:** Southern Living
-- **Published:** 2026-10-02T19:26:45+00:00
-
-## Oil prices drop as Europe agrees to release diesel reserves - Kitco
-
-- **URL:** https://news.google.com/rss/articles/CBMipwFBVV95cUxQR3RvaVNuaHJhOGw1Ry1vbEdTdTJ0LUJtcDVJWnZpSmktVmUzdG14TWpJTVJoajJxNk9hLVlYSzg2Yk1kUkxtWUYxNEI5c1o5X1BVdGIwU0VJRzM0SktocUR3bjhpOUZRUDYybE5xa3ZkVUNmYmN1eWdQbkNQY09jdFFCZ0Fvb0JBaHBnWlhkQkM0dndYX2czZ0xiX0ltYm5ua2ZpMDd2VQ?oc=5
-- **Source:** Kitco
-- **Published:** 2026-10-02T19:14:08+00:00
-
-## Trump administration expects diesel prices to ease after global oil Release - WTKR
-
-- **URL:** https://news.google.com/rss/articles/CBMiuwFBVV95cUxPU1JxQzFFT1ItNFBOV2pXMUoxZ2ZDQkdpWjB1Uzk5ZU5mWUFtdTR1ZDUyTGxNMTk3U2Z4aXpnM2FaX0c5NU5mbVdaLWxiZUtyVFhoZnFSNHhjdjlIWU44Zkx6OHBNeG5oUklwR0lWZ3dZdTRzT3ZNSG8talp2MEtCd1NMaklxVWtzdU9wdlpiS2lieWFiOXBKOUhNdmpDSVE3SE5mYURLWGM0clBaWEx0aUk4anFuTU5UZTNZ?oc=5
-- **Source:** WTKR
-- **Published:** 2026-10-02T19:08:27+00:00
-
-## Argentina's RIGI incentive regime admits second shale oil project, targeting 100,000b/d - BNamericas
-
-- **URL:** https://news.google.com/rss/articles/CBMiugFBVV95cUxPSTNzYktfSXF0NDFNaUo3cV9yWk52M0Q2dXllblNPWjVJMlNwZWdPRkhUTUtuTUJORmZiS0ZMSG9XNlV6ckNhOVpxN3pYV0FsQlZNTks0QjdTS3h1U3JCSlNWR1F4dWNFY2phZjZhTVVmdjBkcjV5WE9rWjQ5dllkMWpOWXVwakJkQUhsTEd2R2k4aHFUdHp4Z01aQWg0U0ZoWXlrRVNQTy10LUdvVFVqY05sTURjaFBBbmc?oc=5
-- **Source:** BNamericas
-- **Published:** 2026-10-02T19:07:30+00:00
