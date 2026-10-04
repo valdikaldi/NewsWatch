@@ -1,8 +1,20 @@
 # NewsWatch — Iceland News
 
-_Last updated: 2026-10-04T16:33:22.931318+00:00 · 50 articles_
+_Last updated: 2026-10-04T20:56:59.079562+00:00 · 50 articles_
 
 ---
+
+## This Remote Archipelago Has Fewer Than 5,000 Residents—But Millions of Puffins, Belugas, and Other Marine Giants - Travel Off Path
+
+- **URL:** https://news.google.com/rss/articles/CBMi1wFBVV95cUxNc0NCQ2dReUgwZGhKRk1rVzN4REJMS2xhbTRvZjFkdWkweGRSSnVwUjdReUVQaEduRThIMUFDQ1VmYS1mRWt6amwtSEQxN0ZITVVsWGc2YW42bHV2a09VYzd2MmxFcno3US1nLVF2ZUUxalJtSXJYMm1mY3hJT2ltY2luU29ZdWFiWWNOOFRHYjV0RHIxbFd5MlgxRnlkdkJHdmdXYkFxRVpZbWwySi1ZNERaZGo4RnVnYnVfdXdLWWlPdE55ODNUa2ZLRldQRGNqc2kybkxIYw?oc=5
+- **Source:** Travel Off Path
+- **Published:** 2026-10-04T20:34:57+00:00
+
+## Hampidjan stock reports stronger Kohinoor EBITDA - AD HOC NEWS
+
+- **URL:** https://news.google.com/rss/articles/CBMisAFBVV95cUxQU1dla0xZU1lQT2p1bXlBLWNETzZpcmIybi1uS2ZLMm1GYTYwbG4tUWNjYUdQUWRlckEzaElEQ0VybF9peVVhNlNuMFBwTmRNUXJKbmFSdWtxYjAyZGt0NktJR3pWdnltN2I5aW9VekFtNTNhTGJ1Ym83eXZKRWN0WjRGV1FOV1JSUWpQMkdVNFJLTzFVVVJQQnFqSWl2aDhKUjBncU1ReTd6NWVpT051Qg?oc=5
+- **Source:** AD HOC NEWS
+- **Published:** 2026-10-04T17:37:38+00:00
 
 ## Greeks Build a Community Across Iceland - tovima.com
 
@@ -291,15 +303,3 @@ _Last updated: 2026-10-04T16:33:22.931318+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMijgJBVV95cUxNdFFRSkQxSGFncmhVYVpDOGxCb0RwOXZKOFU5V1MxSHpGTlJHSjlKc0UxcUpTUUJteThEWGJxQmM5a0Ixcy1VTXVVV3duQUJiejFUSFFUd2dxN1YwUFdNOExHbmxDLXpKWU5oWmxrZzV0aFZXd2RmMllKaVFqZ00xTGhnUG9nb3FqY1hnb3NZVzhDNzJSYjFXakxpa3JvajZBTXFQU0hsZUYxR09KLWdjWTlqSFNJWUtISXFWYjVTYWQtVm14U0ZmYnJkQy1HdUIwb3B6ZzNZSVBEb2YwVzZTa3hSTTUtbDF4Ul85VzFxRXM4OXdpYXFJX1FhOEVadExGTFlBcHROUm5iTzRVeFE?oc=5
 - **Source:** 大分トリニータオフィシャルサイト
 - **Published:** 2026-10-03T15:57:55+00:00
-
-## 【LIVESTREAMS】LIVES'TREAMs-2026] ICELAND VS BULGARIA Live video - 大分トリニータオフィシャルサイト
-
-- **URL:** https://news.google.com/rss/articles/CBMilAJBVV95cUxPTW80eXVSYkczUTVVd3BmMU05ZTRaaXo3M0tQSjBNUnhZZndDQk0zTTI1c2w0WkFZTjcwT1pRd2xFd3dKQ0JWaVJRc1FLWWFYd2ZYdVpDdktxUWNIbHdrdXJxc05VWGsybWo0WnprS3M2R0hMekxiSkNQSDJ4UTlySUtCQ3hybkhkN1ltSXIxUEdvQU1IaEVGbjlaeUFyLThqMlZFR0RLVVR0WGF1VUlGNC0tUWZFUjRkTWIwRzl6S0F3YVRhZ1drVjBXNDB5WHBwTlNGY3laTy1rUEhtUWFvNi1jVmgwYjZWejJRdWxTZWlhQ1VFLUJlZHFTU284SFBGN1BLRVpZa21ybFpqNWxrdFpjYTE?oc=5
-- **Source:** 大分トリニータオフィシャルサイト
-- **Published:** 2026-10-03T15:57:36+00:00
-
-## 【Live *TV】 Iceland vs Bulgaria Live Online Free - 大分トリニータオフィシャルサイト
-
-- **URL:** https://news.google.com/rss/articles/CBMimgJBVV95cUxPeFN2Qy04WjN1SHFmSDZXNWNtd21VeThNMElHN1pxSU1QU3JwMzJaS3RuLWNxNEpHazNUdzJaMjhYOTR5aElDcmMySHNDNlR4aDk5azhOOEdXTTNwTjZzV1pSUk4yaTdianZKM2JBeGwtU1FfenBpUy1jWlNvMXlOTUczMjRCUG1CeDFPRTVjX0RHU2pHMHdpZDh4LTN2M0JZWFNaNVMxeHNHdC10a3FZcVhRSkhER3VNYVJQUWZUNmRvaGpRdmNnb0xKZXFlby03R0I3R1BGTjUxdTg0UFF6MjdGUlZhWGQySzgtLWxpLUFVRFBWNEE1ZWVVR2pLNFNXSzR6ZFc4S1JpUjdXVm1kTV9kdW0wYjFlbFE?oc=5
-- **Source:** 大分トリニータオフィシャルサイト
-- **Published:** 2026-10-03T15:57:06+00:00

@@ -1,8 +1,14 @@
 # NewsWatch — Apple News
 
-_Last updated: 2026-10-04T16:33:07.051001+00:00 · 50 articles_
+_Last updated: 2026-10-04T20:56:55.922211+00:00 · 50 articles_
 
 ---
+
+## Qualcomm inked a surprise Apple deal and announced the future of personal AI - timeswv.com
+
+- **URL:** https://news.google.com/rss/articles/CBMi9wFBVV95cUxNSEZJTnctMGhMM2Uya05hOEo1QXdqdnRPOFZWMHlES3FoeW13ZF9NZmJuMk0wZVdkU1d5Z0F1VE9ETTB0eWRPSUlNazBESDFUcTh1eUFCY3BlZ01fUXhCbF9yRmo5WVc4ODRVRkVNYVItaXBheXpuMXBtRXgxTjI5OFlnY0xQanZVR0VvV1FfeklGbjR0Y2NKUEgzdkVhQ1lLWkYzZTBUczM1VmlFS2xnRzFXT2NYdW5UYWR4VEhZOWRySXk3cW5jQ1NRNVRFVm5ESkV3NG50Rk5PRjdZMUQ0bDNuLUpSVndWdlZGQ0Z2Q19WVGNPUFFj?oc=5
+- **Source:** timeswv.com
+- **Published:** 2026-10-04T20:48:00+00:00
 
 ## Apple stock gains 1.02 percent as Morgan Stanley trims target - AD HOC NEWS
 
@@ -297,9 +303,3 @@ _Last updated: 2026-10-04T16:33:07.051001+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTGQxcEttdldjaXZDajdhSzZnVFdRbHVaMDdVX09LeElaTVRocGlfRTY5RGo1d3cxZ19KdnVsTU9Wakh1QzZVaUFFa191QmlXa1lLTEM5TnZFRzFXTXNTOTh4b3VDdTRfS3RFRDFCajdnbG42azN6OEhaSnRDT2drTnNZTGJROWEwRUxEMGVPeURid1lRckNrY0R5STEzRFZRTUhxRTE5dFNTRlN2bjBlWUV6cDBVQXBYZTZr?oc=5
 - **Source:** Seeking Alpha
 - **Published:** 2026-10-02T19:09:26+00:00
-
-## Apple stock after-hours at EUR 296.48: plus 1.00 percent versus prior close - AD HOC NEWS
-
-- **URL:** https://news.google.com/rss/articles/CBMixgFBVV95cUxQcmx3T1FoTUk5UGpIUldLSmpDcFdHUVg1NVhXeC1tUEl6SXdiaUdWOVV0R2x2QXA1RDRTdWZXLW5WcFhwNmc5NG5salhKRzhkVWtreExjTWtabU4tLWIxZ2RPMXNCSlhwNWlmSDFqNy1tRmNLbmJMUUJPVTczbXpDVGRDTGJIQ2ZGSHVjdDV1SVZmUk9FRmlhQnppWmFJeWxYMk9ja2J0aHY0bEtCUWVOOG5LRmxybjFWaFhFMjYtd0JfbXNYZlE?oc=5
-- **Source:** AD HOC NEWS
-- **Published:** 2026-10-02T17:03:09+00:00

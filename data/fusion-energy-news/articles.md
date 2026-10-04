@@ -1,8 +1,44 @@
 # NewsWatch — fusion energy News
 
-_Last updated: 2026-10-04T16:33:32.133255+00:00 · 50 articles_
+_Last updated: 2026-10-04T20:56:59.486475+00:00 · 50 articles_
 
 ---
+
+## Magnetic Sector Mass Spectrometers Market To 2035: Semiconductor and Isotope Demand Fuels Expansion - News and Statistics - IndexBox
+
+- **URL:** https://news.google.com/rss/articles/CBMi7AFBVV95cUxNemFFQ0VMSjg4V0xBT0xmcHpzb1N0WDgyZGx3TkFLc3BINWF5NDNVWElOWHA4QWFocllha2tqYjZlS2otZW1ZWk00ei1USjNDaWRoWHdwcVJwQTVUME1GOGI1bk15X1NXZDg3ZGdnQUcyQnUwQWJUVEFoQ2xRV3lGNUcwVGoyRGlPNnQ3c0twSjNUOTBPS1ZSZ0VZdUFvbkE2RzFfbGZPSXNUVjM2SUJHV2NZU2F2Y0FUcFdLclhsT1JuT0xXMFd6a2VsaEFiVUw2VFBPN2ZFaE9LczdVeHJ3QkVUYUhrSkNzV0xNdg?oc=5
+- **Source:** IndexBox
+- **Published:** 2026-10-04T20:31:05+00:00
+
+## Inside Sunbird: Pulsar Fusion's nuclear spacecraft that can cut travel time to Mars in half - starlust.org
+
+- **URL:** https://news.google.com/rss/articles/CBMisAFBVV95cUxNd2VnLWlQZlF5ejNzOFJkMnBUTHVqdmNxM205Vjc2N2pzamRab0dQdTVhaWNEdUg1M2VwN0daRGlqclpab0ZZNkIyWnhxYjhMRnFCamV5S0RmMVpJTkI0a3RhWGgzcVlTOFAwSHVmcnl1MGI2aFY5VGpLXzZNQm43R3hUUXBsbHpkMlN3d1lIYlhKdG9ZQ0VDeTF3S09veUlJTDV4R2NCa3JfU0duZEJYLQ?oc=5
+- **Source:** starlust.org
+- **Published:** 2026-10-04T17:45:13+00:00
+
+## How to Play DJT Stock as Trump Media Finally Files for TAE Merger - Barchart.com
+
+- **URL:** https://news.google.com/rss/articles/CBMirgFBVV95cUxNWTRvbVU5VkhwcElFVUlmMGxkYUFUTU9kV00zN1RZSzdaTHZYZ3dIRnN6UEV4OWtRWmhseDBCdWE1S0xfQXlrMnNCUk5OYlBhcFBEbTZPTTJ5M2pUcDlzYXkwMTF0WFlVWFVIVjZZX3pvTWkzcHNQUUlub1piTDZGbXdLNFFOLTJHcGF3QnY0UW9CTUJhcnk2T05rdWExcmVhQi0taU84MUg3bUFNMUE?oc=5
+- **Source:** Barchart.com
+- **Published:** 2026-10-04T17:30:02+00:00
+
+## New England States See Opportunity for Nuclear Development - RTO Insider
+
+- **URL:** https://news.google.com/rss/articles/CBMikwFBVV95cUxQY19oZ19mOGZKY1NQZk9veTZBVk8wWkxUQ3MtaTYwZHp4WE00M25zRjlqYmxvZDRodkthbWF0LU5XbkNwMlJPLW9GUzV3UmRMWjFGVHM5cU5IQU5TcjNycndzOHZVLWY1NVVJUDA1MUNzMjlrZ3NkU1d3V1RlV3hiMF9SZkVvTkNDTE9QempZRVRFUFk?oc=5
+- **Source:** RTO Insider
+- **Published:** 2026-10-04T17:13:42+00:00
+
+## Polls close in Bosnia after an election weighing its European future against ethnic divisions and separatist ambitions - Barchart.com
+
+- **URL:** https://news.google.com/rss/articles/CBMi9AFBVV95cUxOOGpGdmdwazBGck02WndyaGc5S284ZTBFU3luREo4blZadlJETXpwZWdVc0ZjbmZ2eGVLWXM3aHdEUWRKVE8zbkU1Z0FnREplbzlHeWJUaXNPZWtaYWV0V1VsZDR5anBWcmZJRTBTZ2JzbEZKMXBBWXhUb2NEQVRadXhUdE12dmRIY195akRaZnVZVUhIY1NtbWZmel8xdnQyTWhFNTZLY251WWtIRUMxUHc0cnJaTk5Eb1Q4NGQyNVRrRFpCYU5NLUQyQkhpOTN4bkY5eDJlWHNNMkxIREpEcmhTbVp3bExhVXNqQk04RTFlX3pQ?oc=5
+- **Source:** Barchart.com
+- **Published:** 2026-10-04T17:04:37+00:00
+
+## Our nuclear future? The ‘Manhattan Project’ for European energy - The Times
+
+- **URL:** https://news.google.com/rss/articles/CBMisgFBVV95cUxNZnM1WTB2bGxNUWJFZXVLcFNtd2hzeU5vUnpTY0l5akFpUlZtLXlrSDd5c1hzVEhJSzJ4b0U1bVRxSzM0OTltRDQ0eUlBRzhxY01yZTZDXzFGdU9ndnVualBMMkNySTNxV1JsRm9zeS1zMUQ3R0tlekUzNjBkc0EyLVdwRTM2djRkOHE1T1UzRzh1TlJJVVdNWUpfVzBHUVNPX19hWE43bGl4c1VZZFJYcEF3?oc=5
+- **Source:** The Times
+- **Published:** 2026-10-04T17:00:00+00:00
 
 ## Francis: Clarifying the cause of climate action - Aspen Daily News
 
@@ -267,39 +303,3 @@ _Last updated: 2026-10-04T16:33:32.133255+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMiwwFBVV95cUxNelNLMkpPYUV1MG5Zc2sxdWMyY2I5dkFqTkVoTTduQ1F0MzV1clJrMjhzWVk1VUdRRGpxZnRpQWEzTGE5aHhEaXBjSXBtX0NIdWpwRE02V3J4Y2wwSnNBU3o2SGlBbmFNWlM5Q2pid1VsODQtV2RCX1VWVEJ0TEp6Mm9wTTBMTzE2d1JWei1USExvVlgyanlTZ3FwZ19lbFZhTWJVQk1KRk5KQlBlOUhScVFfYkU5cXBZeS1TTE1xMk1kelU?oc=5
 - **Source:** IndexBox
 - **Published:** 2026-10-02T14:56:04+00:00
-
-## Glass Curtain Wall Market Forecast to 2035: Retrofits and Urbanization to Drive Growth - News and Statistics - IndexBox
-
-- **URL:** https://news.google.com/rss/articles/CBMixwFBVV95cUxOVWdpZDFtTUdfZkl2Rmt6SUdVUVI1dDd6QzZPa01MQmxoOEJkYXNQTlFQOHVmU0ZyaENUVWpBMlZCeUlta3VKNF9veXJpdW4wUjdYZkdyUFV4aExWUW9JYlJiWlExdFBlS1NxSHVjZENianlnSTJiVXVSN3dmVllGTmJtczNFS3BmMnB5YlRlODNFallFck1KMVFMZnZ4UmNpdjR4UVFkVkpuYzdqN04wWUVCTHJ6TWItMmw5aXpzdXpOVWJQZllB?oc=5
-- **Source:** IndexBox
-- **Published:** 2026-10-02T14:36:04+00:00
-
-## Enough tape to Stretch a Quarter of the Way Around Earth - Interesting Engineering
-
-- **URL:** https://news.google.com/rss/articles/CBMinwFBVV95cUxQNkMtUVVUa0FxbjI4VktFdW5xUVY1bksyZ1ZsMHVZZGl6NXVqUVZZbXpYZFVBb1FoQnNvMWhEYTI5SHZZRTlGU1pHbWVtem5PcVpKNjNqRmRhcHNlcnZwSFRPRUJJVEVwSVROV05Qcm81eWszd0NhUVVJOHJDUmpBNDV3Yzh3Umx3TU54T01xM2hoc3Fkd3NHSUdDMmNkb1k?oc=5
-- **Source:** Interesting Engineering
-- **Published:** 2026-10-02T14:19:16+00:00
-
-## Ranked: The Countries Building the Most Nuclear Power – Visual Capitalist - energynow.com
-
-- **URL:** https://news.google.com/rss/articles/CBMiowFBVV95cUxNdEt5SDJ1Y3UwcUxhYUZ6dTFsQkFoQ1QyRVQ4R3IwSk9lcHZyTThvUXVnT2xaUmg4dVFSZjhBUkdrbUdCbXNLVzlWdDlYbEpPX1BDU2dwVEF4aFFsakJ5Y2hWV2pVSkJEcTZRZnJoOGc5TU0wdE1hYll1Q3dIM1RXM281a3l2WUxvOG5YZ29wNDR4bC1YWExVdFJfTjVwLUEzd3c4?oc=5
-- **Source:** energynow.com
-- **Published:** 2026-10-02T13:55:57+00:00
-
-## Newsom signs bill to advance nuclear fusion technology - Pluribus News
-
-- **URL:** https://news.google.com/rss/articles/CBMinAFBVV95cUxPYWxsSlBKdnJyOVdyR2pucG91V2szWmV4X3ZYQWhGUzdHRXdPQkdBOUFJblNMcFpEa2h5dkJPaEt1MTdfY19MTUlsRE9KcGdOSHdnZGpoQktJSlFQWURtOGQ3SnpoVENieTdPQVhZazF2SkV1QXh0SlNabl9CbzFGRVNZQnVKWUFBTE5mZ3Y2cW1ya2I5aElNbUpOTEk?oc=5
-- **Source:** Pluribus News
-- **Published:** 2026-10-02T13:32:52+00:00
-
-## Enugu Afro-Fusion Artist Seasonfire Showcases His Versatility on “Run You Down” from the 11th February EP - The Upper Entertainment
-
-- **URL:** https://news.google.com/rss/articles/CBMi1gFBVV95cUxOUklvcVpaeHBkWnRjOGxRZHUyTUNWc0MwVzROekxYcEYzT3ktRm1LVFk4b0N2bnFLc2VCYThEUElUdWkyYWxIM2NKbHV2cDlTa0dOZHI0bFRxaVpFc2IwdWFzLU80a3RBNTF4R05JaDhZZUduS01hNzR5dGp2cDNVM0lkV1NweUZ4eG9pMzVRYk5aSFU1cDNSS2tlQ2dUNjlVSWFpVEFhMzJIZlAyX3lmLTB1dzRoVGUtYW5uZ3Mwa052N3hGYUZUZzRGZVQxVEhqYzNfWU9R?oc=5
-- **Source:** The Upper Entertainment
-- **Published:** 2026-10-02T13:31:25+00:00
-
-## China's next-gen BEST nuclear fusion reactor enters critical phase - Interesting Engineering
-
-- **URL:** https://news.google.com/rss/articles/CBMifEFVX3lxTE9LRld3NUVrYzJKRURMdTlDYl8xOHJYS3U2U1R3ajFiS0NlVVJuMXlXX3hiUWJDaUVOZzVURlpZSHZuRDFKa1dtM1lqUl9kdWNoaXMyX3VwZ3VBZHREOW53dmktcHd0WW81Q1FxVWc4Y2kzRmxoLVY2LTdGRTg?oc=5
-- **Source:** Interesting Engineering
-- **Published:** 2026-10-02T13:31:00+00:00

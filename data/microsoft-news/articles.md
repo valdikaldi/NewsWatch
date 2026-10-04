@@ -1,8 +1,86 @@
 # NewsWatch — Microsoft News
 
-_Last updated: 2026-10-04T16:33:16.262672+00:00 · 50 articles_
+_Last updated: 2026-10-04T20:56:57.539402+00:00 · 50 articles_
 
 ---
+
+## Microsoft warns AI is deepening cyber threat links - IT Brief Australia
+
+- **URL:** https://news.google.com/rss/articles/CBMihgFBVV95cUxOZXNEd2YtdDhhMFF3S2plWlpEVjdBbDYweGtidWh3cUlkOE1UMXl4c2VVNnZnVElQX29DaTdUcXJ4V2lza1Y3OXQzd3AwcWdSSkYwNUZBbFRaQnV6blZWaG5OWTR5TkhBZGVFSFk1dGlISVlJT1VaTjVDTzJNZHlJR2NaRHdqQQ?oc=5
+- **Source:** IT Brief Australia
+- **Published:** 2026-10-04T20:15:00+00:00
+
+## How to Enable Minecraft Multiplayer on Your Microsoft Account - technobezz.com
+
+- **URL:** https://news.google.com/rss/articles/CBMilwFBVV95cUxPUUhwLXI2cWdfUEctZnZOZ1J2bXRIdVZjRndJS1ZCdW9qX0NucnBDTzZTVjdCazhLSW1ZY0x6TS1GVmJVUzlVSHN1aGxyaGx1Sjl5cHQ2ekViSlBkRXB4aGFvZFR4WTRMd3ZyeWVNNVAyVUJBVDVoSFI1ZG15a3ZKaEhkVERCZlhOdVNtYkRWY0JkclQweVRv?oc=5
+- **Source:** technobezz.com
+- **Published:** 2026-10-04T19:12:33+00:00
+
+## Is Copilot Microsoft's Secret Weapon in the AI Arms Race? - The Globe and Mail
+
+- **URL:** https://news.google.com/rss/articles/CBMi0AFBVV95cUxNY1ZXMUtMX3B5SExRNW13ODNJWm9MWjE1NWhERmpLS1R2Z2gxVHY0d2ZrOG1fRmVuUUh1ZWJ5Xy1yTVJScFIwRFFRYnpnX1J5dmhReWxoelJvYkhETWdrSU8ydm5JUGd2d0xTd3YwMnhVa3ZvdG55VHVPREhvSXV1MUZkWl9YR2lqZkVBODVTT1BXNkphSnAzaVZERS0zSVNSZXhMaV9BQmcwUFp1bjNyOUFRZnlIZFQ5RFRnSGc0MFZfVU91eDI1aXppS2I5YWxj?oc=5
+- **Source:** The Globe and Mail
+- **Published:** 2026-10-04T18:34:00+00:00
+
+## Ex-Microsoft Developer Criticizes Longstanding Halo Culture Flaws - NoobFeed
+
+- **URL:** https://news.google.com/rss/articles/CBMia0FVX3lxTFBFejBzMlhmVXpubERJSVl4UVBlbU9JS1hkbnVpVkRWb1RlRDZvelFUR2NxS3RxbTk5dXk4M3pnNFVLVjdmOElXWmE0Z3BhZDh4UEZHbjNPelBkZ09xdnByZnNNbnlSQnJRQ0I4?oc=5
+- **Source:** NoobFeed
+- **Published:** 2026-10-04T18:11:54+00:00
+
+## Is Copilot Microsoft's Secret Weapon in the AI Arms Race? - The Motley Fool
+
+- **URL:** https://news.google.com/rss/articles/CBMimAFBVV95cUxPSk0xajhTbjhSN0lDUmNNZmtlVjctbW5PbzFFSHdaLW5JQzdqWkF0WTdyeExSVWhJSVpHa0NYYlU4Q2N0Ym5Bd1hvY1FhRjgtNkE1UEJVMzRzTF9NdHptUVV3WFEtNnBETTVwb1dqX1ZSOWZ5YkhDTlhQR01yRHVna0hkU0hST3loTHRHa09tZzg4ZUZETjd2OA?oc=5
+- **Source:** The Motley Fool
+- **Published:** 2026-10-04T18:10:01+00:00
+
+## Microsoft's X Account Briefly Hijacked to Promote Fake Clippy Crypto Token - finance.biggo.com
+
+- **URL:** https://news.google.com/rss/articles/CBMidkFVX3lxTE45aUpEZmZyU0dUb0N3MU5KMml2LUVTSGZoRmFaOXQzU3hoLTRmZkROOWt5NXBsamMxdGRTWElUN0RSUWlwa3NOZkZtTXV0NGxVQkxOMmdXZmpTMVF1bDQ1WFRYUm9TTlI5VmtmenI3cWVPSnlYMUE?oc=5
+- **Source:** finance.biggo.com
+- **Published:** 2026-10-04T18:07:00+00:00
+
+## Microsoft Releases Aircraft and Avionics Update 06 for MSFS 2024 - thresholdx.net
+
+- **URL:** https://news.google.com/rss/articles/CBMikgFBVV95cUxNWG1obWhFdUlfSWp0SDJTdEFfZnBJbWN3RjRPRnIxUjM4MFgxWHRidXZ0OTJ5bWtNNFpNcXNobG9RTVN4aXR2Z2l6VTFDZXoxaDZFYWdBdEp3bkg0aEkzRGx2UGJNZ2wzWHZDZERCbEg3NUpXQkVoWGlEcjQtcjU2VzVCUDZvUFpBMkZYVU4tLUhUUQ?oc=5
+- **Source:** thresholdx.net
+- **Published:** 2026-10-04T17:36:23+00:00
+
+## Hackers hijack Microsoft’s X account to promote Clippy crypto scam - cybernews.com
+
+- **URL:** https://news.google.com/rss/articles/CBMigAFBVV95cUxNYUktY3FXSFN5TUJqb1lrRThUcXk0TkVVa205bEhiODZvUlRJMUg1WHpWVS1PaDdTTzZaYjRfeHJqT3VBNTcxX0haMHVaTnJiQVY5NEg0Q3RFTFhJLVV1Sndka3Q4V0FEV1VTT2NSTW81ZzZ0RzVkaHg3WEd5aWN0Vw?oc=5
+- **Source:** cybernews.com
+- **Published:** 2026-10-04T17:28:05+00:00
+
+## Microsoft stock at $518: Why a 10th share split may not happen anytime soon | Business News - Hindustan Times
+
+- **URL:** https://news.google.com/rss/articles/CBMizwFBVV95cUxNdUZ1dXRCSjdxb0dsZ3IySG8xUzdTTkpta2FVSjhqdlp6NVFMZjBIc2ZZNEdWVXlOX2Q0V1cwVFVXdVZjbW9nRlVWOFpZZnhQR3N5dDcwZ1hTMEFGMlNOWS0zckRPUHJVTktoZDRkd1pZRmZqUzFZX05KYUtxYlRzSFJFbDhaV0MwZ1JnMkMxZjJ4eHB6a3UxNERyWk9PdmhTd1RXOVB0dE9tdjZ3V3YzejJ1YzBFVzdEM3hJSHdSbF9wa0ZPZlZfblRVb1pOMkHSAdQBQVVfeXFMTk13TnFka0M0MGdUOWlBRzhPY0N1TnpoV0JTNlRrUkZkUmhhd0Y1RjNremx1X3EyVkdHdm1VX1kwSVJiYVlrdDR2UGRqcE9OcjFSeTllYTNBYURBVmdyRzZmMENodXhUTk9OS3phazNKQXl0d2VFY2NLWW1FWEE3dTNJRlhSRmplVlVac2F5TllDN1FRSU9YdWpIOFV6ak5QZHNhdTNDeDJ6VW9DVXk0U3pCODE0Qnh0cDcxVmsxc1hZMHltc3BwYkZ5Yk5Bd193SWc5U1I?oc=5
+- **Source:** Hindustan Times
+- **Published:** 2026-10-04T17:19:40+00:00
+
+## $49.97 gets you Microsoft Word, Excel, PowerPoint, and more for life - Mashable
+
+- **URL:** https://news.google.com/rss/articles/CBMie0FVX3lxTFAwTFFvaDRQZGtmYnVQd3UxU1JXZW8yUUtyRzBOWjZtZGxNdy01VkhVa3JQZUxKZTZFUUo2M3JlNFpiNlhSekVVTzU3OE1LZ21jd2RnMFdyck0yOXBXQmc1b2tlbFNMckE1NTBrVk5sWGxkZDY1WUtFMXM4cw?oc=5
+- **Source:** Mashable
+- **Published:** 2026-10-04T17:15:47+00:00
+
+## Evlar Beat Maker Studio - Music Maker & Drum Machine - ดาวน์โหลดและติดตั้งฟรีบน Windows - Microsoft
+
+- **URL:** https://news.google.com/rss/articles/CBMimwFBVV95cUxNSVRBNWNtZFlQUDhDeE10TFczQWVaLWgtbWc0NDcxYk5WbHUwYXdMSHVLcVB1VjZGZFdoSlA0RWpnaVoySTNrV3Fsd2JKTDF0OGZTZ2ptYmpvdHl0WXVjcWR0UXJsbTNEM1RnZ3RBZTFESzM4a2xVdVYtSERxUWRzc01KX3l0czN6QmVPTEsxaFh3TnF3bDU1RV83bw?oc=5
+- **Source:** Microsoft
+- **Published:** 2026-10-04T17:03:58+00:00
+
+## How to Change Your Microsoft Account Username - technobezz.com
+
+- **URL:** https://news.google.com/rss/articles/CBMifEFVX3lxTE9ZQjJtUThyaDF4UDBzY3diWGZvcWZWQjFWTkh5Ylp0Y0pJWm04dTFwMDZRMjlYSEEwZkhEZVNJcVJsNE1VbVJqSnkyMFlhZnlqRWt5RDVJNlNoVVdfX1d4eVk4U3pFdGt3V0MwSURxU0hEa0RsMXlFbnU0Nkg?oc=5
+- **Source:** technobezz.com
+- **Published:** 2026-10-04T16:58:18+00:00
+
+## Turn complicated projects into manageable plans with this $50 Microsoft tool - Mashable
+
+- **URL:** https://news.google.com/rss/articles/CBMinAFBVV95cUxOMUNYZ0dFQWtnWGNNSXZ0eTd0cG9QZWRvclI4eWMwWmFHMXNSSG9YVlFDLXpOWlF2RndYbk1FVU1OVUFGWEVJNnBNRzJyVnpMakN4VzRqT2xCd3pJNTNUZlFGekcwaHplMzlMdUxscVlKTnprUjFsdWFkYXdrYzZQS3pNYkxCQXVuQ0Yxd1pySU1YaUptTXZVWDU3NHQ?oc=5
+- **Source:** Mashable
+- **Published:** 2026-10-04T16:57:19+00:00
 
 ## We're 6 months into Microsoft's campaign to fix Windows 11 — here are 5 things it got right, and 3 glaring oversights - TechRadar
 
@@ -225,81 +303,3 @@ _Last updated: 2026-10-04T16:33:16.262672+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMihgJBVV95cUxOTFVKMG0xSk9KXy1ybGZ1cjllaXMtTG83bHNPdkZaNkZ0RGhVQzlPb1JLX3g4a1VvY29IWC1JNFFiSHhGcmhmTFJqNmU1VjRkWDNTYjZfcHotOGFsSVVFVWo0WTYzYmxQYWlBMk81dFBTaXJ4VEFGVUN3NEV0V2lrNHoxUm1yak5wLWVtZDdXRWJDY2dUOXlPXzhYZXhnQ1ZIYWdqSWcxa2hmcUxWNUYxVno2Vkh4dm5jazc1clBWZC1CQUVCRFVuOURtNXRkV1FybDZHeGdsbmN1YXVDMWNtQTYwX3dpbm1meWppa0ZKTUYwSElVSTctYVUyRjU2QVp0dURfa3J3?oc=5
 - **Source:** stocktwits.com
 - **Published:** 2026-10-04T01:22:30+00:00
-
-## Michael Burry Buys Long-Dated Microsoft Calls, Adds To JD And Adobe — Trims Palantir Short - stocktwits.com
-
-- **URL:** https://news.google.com/rss/articles/CBMi3AFBVV95cUxPRlcybV9XejhnQlBGOC1Yak5iQnJmT2hkSXNORXptYTZ2TUFrM3g3aXo1ZkJOLXh6c3pxZFNPMGdETXR4UTBXcmRtQkpqZlRFNVBrVTktR2g4WUk1cDNwMkJBSG92ZGRadW93RXdCX2VMUy1oYmNhN19VdjFyQUJ5aWNnakh0cUZsZ1NYN0l3aHNEcHB6dTByUkxVbmN4VTFWN2ZfYWlqbkZSd09sU0lFMVdRTk5EQ3YyS2Jfa3JjUmRkSnd5SUhHX2YtYUxPS0VMdW0tRE1aNm1ILTR2?oc=5
-- **Source:** stocktwits.com
-- **Published:** 2026-10-04T00:55:52+00:00
-
-## You Can Get a Lifetime License to Microsoft Office Professional 2021 for A$42 Right Now - Lifehacker
-
-- **URL:** https://news.google.com/rss/articles/CBMiwgFBVV95cUxPVTBWcVlTdFNuMlVZSFRxclBVekctM1VMc0tfOW1kWTNtRGxxNHhGdTBoVWwzS21GY2J2QmlTR2ZJUENyMTExSHlSbU9lazNLTS1XMm1RYmxGMzl6d1BwdGFFdzdzNS03aVlmUzFMQ0V3SG9FZW9ZdGZpdmxqSnRUbnMzMFUxZExaQlRLY1F1WHQ1c1ZGOHRUMEhvTGxUbmFYemMzcTl0VXQzNkcwMUZjTU5jM0NFTXd3Q3NZZ254d0JlUQ?oc=5
-- **Source:** Lifehacker
-- **Published:** 2026-10-04T00:01:49+00:00
-
-## DIY Link - Scarica e riproduci in Windows - Microsoft
-
-- **URL:** https://news.google.com/rss/articles/CBMiZkFVX3lxTFBlZ21ZOVUwTHZ6MUdkMWFCbjJFUzRPZFZFaEl0c0VEZ0VSakdmVDliM1ZublNFT0lxM25zSDVpd2doblNNSHFlUWxqUTNRMnQzR2ZWZ213cTY3RWF0ZFk5TjZyeUItZw?oc=5
-- **Source:** Microsoft
-- **Published:** 2026-10-03T22:57:57+00:00
-
-## Live Gizmo - Laadi tasuta alla ja mängi Windowsis - Microsoft
-
-- **URL:** https://news.google.com/rss/articles/CBMiaEFVX3lxTFBwWkdrc2NVZlZiYjh1OGFZTE9fNmJTQURubFRra2tmT0Y4WmtacVdlbVNxdTlQN3AzRWJybDFCYU9qbWItZU5talJYakloaV9SQTZKQ3hieHpFMHhlNXdFMkdGbTR2T042?oc=5
-- **Source:** Microsoft
-- **Published:** 2026-10-03T22:49:47+00:00
-
-## Get lifetime access to Microsoft Office 2024 Pro Plus for just $40 with our exclusive code - How-To Geek
-
-- **URL:** https://news.google.com/rss/articles/CBMisAFBVV95cUxPTzg3RV84TlZkUG9XOXBaSHV4WWY2S3BLMWQ2bkZaS29GVENwVjdLcU5DektjRTVvWUw2bGxkLUVJTzljUG44RnBhMlBLRFZ0Ny1yeUNSSGpxRWpOYzJHcGdZSjdEektjNXFiLWM2VE10YmtzelFlTW1uTG9lUlBVaGJDdzFFUkJJYTR1ZlpwTnBNSGtZeHJsMWVOalZ1VVI1dnkwOGVVTnZVYTNQX3Utdw?oc=5
-- **Source:** How-To Geek
-- **Published:** 2026-10-03T21:27:15+00:00
-
-## Microsoft stock gets a USD 610 target as AI sales expand - AD HOC NEWS
-
-- **URL:** https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMmRxY2FpRk5Od0F5SE9EVnR0LW8xejJSNlhXdUQ2UUhNVU4yYnB6M2RvdU9iMTlxeURUdzNKMWFyM3BRbGxMV0o0UUdHR0RwOVQ1VERJUXNLM2RVdGktSDFudElRRlItZzhxY1dvVmxYNkVXejFnV0pXU3lNTFdLampNNllXOU5IN0NILVp5bmdOQ2NIZXJodHpmQUp2NFR1QkxPdUFQY3ZmSlhrYXRnN09KdG9rNjUxNWZr?oc=5
-- **Source:** AD HOC NEWS
-- **Published:** 2026-10-03T21:02:47+00:00
-
-## Microsoft Teams is getting a feature that is crucial in this AI era - Neowin
-
-- **URL:** https://news.google.com/rss/articles/CBMinAFBVV95cUxQZW9seVNiZ1R5YVE5S3dxbG5fVkx1dmp0YVYwMWI3TlFwd2lpOTlCVmlkRV9jTDdYZTJKbVhHNkgwOGl6RGNfMnZCRjh6VFFPOWNxME50ckpxNTVKbGNoOWlrZkpXNDVfbk5DUTN2TXFtZ3Blc3dvVFJvams5RzFfVURPWFRqSFZVZWlieXlaN1FCa24wV1lPWmN4R04?oc=5
-- **Source:** Neowin
-- **Published:** 2026-10-03T20:34:00+00:00
-
-## Microsoft Surface Laptop deal slashes hundreds off the price of this MacBook Air beating notebook with 1TB SSD and 16GB RAM - PC Guide
-
-- **URL:** https://news.google.com/rss/articles/CBMi6gFBVV95cUxNTFg5UzE2OGNXN0I0RnAxWlVBSTlaZ3pLQ3ZjdnhreUt4d0Qxck9oeFBHSUNSYlhBS1JxQXcwZnVrSWpYMHFhTFhnQ3cwOFlDbGUyUWtFY2pJNF9ZSFB1bkVSLWI3VUhsYnR3dUp4Y3Juajh0RXZxeEJPUTIxcTg5R3lLNkM5dEJrRERJaFQ4X2VRMGVQRVJSdjNuOFl6RTh5dHlRcm5tSTBKSXlIUDhva1pzelVuMFJ5emlvbDBFdVB0VVlyYUtmNUoyVWIxM2NwMG9yd3NqX1FuWTFyVzlYUi1aOGVQTVljYWc?oc=5
-- **Source:** PC Guide
-- **Published:** 2026-10-03T19:48:25+00:00
-
-## Microsoft confirms Windows 11 26H2 is crashing some games and apps, promises to fix it in the next update - Windows Latest
-
-- **URL:** https://news.google.com/rss/articles/CBMi3wFBVV95cUxPUXJoMG12WXN4SGRVMVI5MGQzdWp1bTl2U0tYZG8tYzhRdEczeHd3Y3kzQUJWcnZhQll3ZlZjYlhuZjE0UlV4d05BR3g0OC03dG1hN1BMbEt1TVctcGtGWGtTX3RBUU5lYTk3cEFmQ2t1SGVybFVmX2oyVUZOaFpZdExhUS1OTjZYcWFRYlltek1qR1lPOVlHTGxhQ3B6akNESkp1bWtRSUlXckF2anc3NmNkYjNseW9TUzdCVU1DQW9uMTZfUjJkSmkxTFZRdzhVdlZhWlVsWEpRWTZkU1Vz?oc=5
-- **Source:** Windows Latest
-- **Published:** 2026-10-03T18:29:05+00:00
-
-## Microsoft keeps fumbling Halo, so fans are fixing it themselves with 64-player Halo 3: Project Reclaimer - XDA
-
-- **URL:** https://news.google.com/rss/articles/CBMivwFBVV95cUxOZThkV1VvbzNzX0Rnc0ExbnRKWmc0dXFnUzM5Z05nMEdwMTRRX1NyUXREdnk4YkQ5NUVtSHVITk9wdXl1SjhVV2ZDQlZpRl80WkVVUGI4ZHFSRHBVcTVpRGhxZEtTQl9SSk5xSE81ZGhpZDhkQ20waGE5Sm9FRU5YVTFhWUgxN25SZFVYZWRlUmFzMVltd1BkNTh0TE5DS2dhR1dldHk0YmlYNERvWXpyVVVON004WW5uNi1LM0RIWQ?oc=5
-- **Source:** XDA
-- **Published:** 2026-10-03T18:02:54+00:00
-
-## You have 1 more day to get Word, Excel, PowerPoint, and more for $50 (MSRP $250) - Seattle Post-Intelligencer
-
-- **URL:** https://news.google.com/rss/articles/CBMiogFBVV95cUxPMGdXeDJYVXU0S1RxandKNkNjOTcwdTlDZW5aNDZpeU0zNEtzd1I0N052OGVsbzRHQmtDVGZ5ZURyX0hlZGQ2Ti13RjE4Y19GV21xM1c1akcwanljYklXWjk4Um1nVlB2R1pXdlZyellWM29FV2h4OFUxRUlCTFh2UDhuVW1pelJzd2NpUkFGNG5KbXVRWGZBUXB1QjdjXzFVQlE?oc=5
-- **Source:** Seattle Post-Intelligencer
-- **Published:** 2026-10-03T17:33:35+00:00
-
-## Microsoft adds alternate way to download and install Windows 11 26H2 easily - Neowin
-
-- **URL:** https://news.google.com/rss/articles/CBMipwFBVV95cUxOYjR4ZndEY3RyMy1lS080NlJkY0pITUNDaTRPZndvWnRobmw4bVZtVEpKcTZndVc3UFVJeE9Jdnp0cVlvTldrbzRtVFMxNmZPQWd3RFhwWGM4SXptN0pKWTZvY0ZobE5lcDJMSnNzREVtcjlpdm1LVDNZMEk2SWVmc0dyWElXMlJMMmhXbzJkXzBsamV5MTZmbk1JVGFsbXU4REc3LUh1WQ?oc=5
-- **Source:** Neowin
-- **Published:** 2026-10-03T17:16:00+00:00
-
-## Jeffery Simmons 2nd Sack of the Season | Film Review Powered by Microsoft Surface - Tennessee Titans
-
-- **URL:** https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbndqU2JlczVmblNWNW45djNXZXJiZHlsNmVQWTNJSm9PLW1rOGVFcDNtbGttVHg4MEhKV1h1UEdJMWhLTGJnWTBsSU9FZTAtcWxRMGZKSG9aYVZkYWF3bXU0M2l3dWMzdGVra3JwV1h4eThMcTg4SDNYQjEwUVZUMXI4aWNVZ1N0cHExdENHWWppNl9DSUJhRExDQlU0Sjl0T0I3TndmajF3ZS10NlV6R245c0tpQzRU?oc=5
-- **Source:** Tennessee Titans
-- **Published:** 2026-10-03T17:06:58+00:00
