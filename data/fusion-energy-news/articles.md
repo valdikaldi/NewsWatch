@@ -1,8 +1,62 @@
 # NewsWatch — fusion energy News
 
-_Last updated: 2026-10-03T22:43:15.200294+00:00 · 50 articles_
+_Last updated: 2026-10-04T10:27:45.110185+00:00 · 50 articles_
 
 ---
+
+## Francis: Clarifying the cause of climate action - Aspen Daily News
+
+- **URL:** https://news.google.com/rss/articles/CBMimwFBVV95cUxOMFFDSmRtVlFOSjZDVXpxU2VqMmg0VDk1T3E3V2Q3OEZfTmt6Rm9SSHV3dTdycXB6Mm1yc29IckduR3Fnd2NuYzRNSU84OHR5d3lfUTFDRkYxYl85Yng0Sm1OR1hFUUk0TlpwbndVS2tTWFJ6a182R1VFcXNUMTlUVU10Z3lxN2xrNkYzc1c5dzloMGtYaUpqQVVwUQ?oc=5
+- **Source:** Aspen Daily News
+- **Published:** 2026-10-04T08:04:19+00:00
+
+## Six from MIT awarded 2026 Paul and Daisy Soros Fellowships for New Americans - MIT Energy Initiative
+
+- **URL:** https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSF9hQ2k3aXhiOGVWa1dDSWpKSWk0Q1V1Uy1HaDFGN2xIZGo5dURoLXF5QzRrVjg0bDhxRkxGTVNkbHJVVlVrenBuS0tScVlnT01UcklzWU9DV0JNZjNVQWpuUTZqWDZYMkUxU2VHLU9CU2JqRjhpRnhFZmVnSmhDRlVSQWRxcTZTWk9KZU5wMU5vQmhvaGpxemJWczJCNDdvREdqSko4UVZyenM?oc=5
+- **Source:** MIT Energy Initiative
+- **Published:** 2026-10-04T07:54:05+00:00
+
+## Fujikura (TSE:5803) Lands Fusion Supply Deal As Valuation Questions Grow - simplywall.st
+
+- **URL:** https://news.google.com/rss/articles/CBMi0gFBVV95cUxNc0g0a2hpT0kzQUFnY0ZyOHFCa2dFTTVJY0F4NU5XX0d0MEoydWtVSWthQlJBaEJBbURsNi1tbld6MnktMEJBYXlsXzRGWHlocDFpc2VUQkdrZm9XUUpnOE1LMlp1TDZQdno1WDVnY1pMMndxcUUxMVVBcmNiVlNOYTZNdWx0bmhldTB2UUxZekhiTDRKaUkxVmlMRmppMjRWTEp3MzJnY0VBUk1iQnI3V2dTUG1rUFVQeEJscUQyRjZlb0hGR3ZocjZMVkZxTlV3MlHSAdcBQVVfeXFMUGlFelpNclpEV2Z3VHUwRkRaOXpjWWQ1V2pjY1NYVGpKUWQ4Wkp2M3YzRUhPRjZ6WEtqS29BOVIzOS1EOW9QVF9xT2E4dGs0N2lfdV8wRVNJQ05xaXlqUDBEeEJnTUMzSFNhM1Mwa3ZXMHlXZjBvdkFmVDFHRU12SHNfQTItMTVaTDN3QmZvTkRVNUVoVVlTNVZUYnV1SFYxMmkyZWRQQ0x4VWw2eVpTSUg1VWJkREhPa0lTWnY5Z2plbmdGV1ppR1g1MnpwZFRNekF3cW4wNXM?oc=5
+- **Source:** simplywall.st
+- **Published:** 2026-10-04T06:29:30+00:00
+
+## Open Call: Enabling Technologies for Fusion Power Plants - fundsforNGOs
+
+- **URL:** https://news.google.com/rss/articles/CBMingFBVV95cUxNa0l0MVlzWTMtc2tfTnVmc1BPVlIweGpORWdLdFBHM3RrVWhSNXBodUJXRGxCQzNmeXBHZy1nd18xMHl3Mko0YmFESHRLdWR0ZG10NVB4alRyVl9nclpWNnhGb0xYanVPV0xqWmxnZjE1YkpGU0lQTFhBOTIwT2I5eGd0cGQ0MkpxYnE2NUYyUnVGcjlkbE9jVFp5YVhuQdIBowFBVV95cUxNYkluMjZocks5bms1QTliMjN0RTBoS0szYzUwbEZ0ZWdEeEZ6cHFUMW95c0l1SGdya08wX3M4aUNRZ1EtQkZwNjRUQlo5cDh6aUNmVnVpU2NVcFFkVG9PTV9QcmhsejZwakFwVHNoSkNuX2pkNTQyM1ZZMUlwNVlxRDY0WDhsZWdnV2JGWS0zb3V3WDh4YWR3UGJ0dmpTTEJpdjFV?oc=5
+- **Source:** fundsforNGOs
+- **Published:** 2026-10-04T04:25:44+00:00
+
+## Looking Forward: The Next Future of Nuclear Energy - MIT Energy Initiative
+
+- **URL:** https://news.google.com/rss/articles/CBMiigFBVV95cUxQcm13dXlaNkdHS3dSTGpCRDBiWUZVMzZHN0hfdmlaN1JXeG90eFMwdlhVVEpxZW84MUVmdHE2QnI2M0s4bndtV0ZabUEyRkVWdXNaendmTkhYckZTTzlXVXdxM204RUx5eW9BREIzZDZleVBEM1k0VUlycmtBYXgyMXFWX1hjOFU4Zmc?oc=5
+- **Source:** MIT Energy Initiative
+- **Published:** 2026-10-04T03:19:17+00:00
+
+## Nuclear having a moment, but hesitation is real - gazettenet.com
+
+- **URL:** https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVTVLQTZYM3BiUTVTQlBlQVk1V01ndXdCTi04azV3SG1qenlDdHlMUERUMy15NWd3aEFkZ3NTVGwyNUx0T1FMVWlJWm5zWUxVd2xodkNPTk5FMkdleTh6LTgyTzBOS0hOWk1QN3VVOHhlMDBQYm4zOFQwRDBqN2Z3M3I4aFVxSU1K?oc=5
+- **Source:** gazettenet.com
+- **Published:** 2026-10-04T01:25:48+00:00
+
+## NOK Stock Rises Overnight: JPMorgan Says Investors May Be Underestimating Nokia’s AI Opportunity, Sees 100% Upside - stocktwits.com
+
+- **URL:** https://news.google.com/rss/articles/CBMihwJBVV95cUxONHN6bXd2Q3laaS1CaTFjdEUtd19XbUExeER1NWpOZnVKZzBaeVhucnFaQk81blpRYmRJaUR4UTJPRHUyWThJd25ZUGN5aDB2Y3MtNm5KVGotMU5ZLWkyVnlmdFFkWGN4VjN5UXRzdXNoTUtRN2d2WnRKeXU5UjMyZGdCbjRHZjNXWVlMWmZCNTA3Q0tJWmE5QmRaQWtNT0pNejdGOHNKNFdQX0l5TGQtc3EyTXhWLTJnd1VNUmdmT2kwYS1CQjJVeUlBYkpFdEp3eFdmejdSVFI4clNoUElBY3kwbnFkS0NYbkl2QjBaQS0wRURMV3pfbnVRYlNEbEZGNTFDd1hxdw?oc=5
+- **Source:** stocktwits.com
+- **Published:** 2026-10-04T01:15:56+00:00
+
+## FSE and Loaf Sign MoU to Tokenize Over $500 Million Australian Solar Project - KuCoin
+
+- **URL:** https://news.google.com/rss/articles/CBMipAFBVV95cUxPeHZUSEZJcGxXZnY1SmVfdndGc1lRdklMa2JrTFc2eUh5QkdocXQ3R0U2aUZCeXFYdkxMeE04dmtmOXR0WnVTdF91eGFPcWRrMUZsSmFTNldabVhDdjd5YmU0QUlTLWlodlMzZGpJWGhYUUd4cDhHRFNBbGlKekxvNnkzMkFQMG54VFExMnBfOXN2N3J0X292cjNtLU9YdEhwbzh0aw?oc=5
+- **Source:** KuCoin
+- **Published:** 2026-10-04T00:35:21+00:00
+
+## Hyce – Everything I Want - Six9ja
+
+- **URL:** https://news.google.com/rss/articles/CBMiY0FVX3lxTE9vSHVUMWtZWTRnX0xBWGVHbUNpb0t5RHItUlJHM3pRdXg3bnYyVjJxN2JoMlNzVXpRWGZrUndZYjloZ1FuRTIyTlc5c2xmODBaUEF3N0lYRDA5ak1GeXI3WWhRbw?oc=5
+- **Source:** Six9ja
+- **Published:** 2026-10-03T22:54:09+00:00
 
 ## Rag Tag Team of Biologists Who Lost Funding Because of Trump Turned a Motel Room into Makeshift Lab and Made a Groundbreaking Discovery - Futurism
 
@@ -249,57 +303,3 @@ _Last updated: 2026-10-03T22:43:15.200294+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMifEFVX3lxTE9LRld3NUVrYzJKRURMdTlDYl8xOHJYS3U2U1R3ajFiS0NlVVJuMXlXX3hiUWJDaUVOZzVURlpZSHZuRDFKa1dtM1lqUl9kdWNoaXMyX3VwZ3VBZHREOW53dmktcHd0WW81Q1FxVWc4Y2kzRmxoLVY2LTdGRTg?oc=5
 - **Source:** Interesting Engineering
 - **Published:** 2026-10-02T13:31:00+00:00
-
-## PROGRESSIVE FUSION METAL FORCE AMNÏON RELEASE NEW SINGLE & MUSIC VIDEO "PERISH TWICE" - Metalheads Forever Magazine
-
-- **URL:** https://news.google.com/rss/articles/CBMipAFBVV95cUxOVWk2M0FDOEpDZ0Y3MXhiVG9aYnJqZmxDM3d0SlloUTNkOXBkcWZHVThXOGtSS2Zlb1Jfa3haS1dyS1lGZEdxMlFwY2NYc19SZ1JIOVl2d1JYem1NcU9NdFR5Tm1wSTV6UGc0djlSLTVHVlBDRlJiOUU3M3ljVGZ4OExGMnFyVWxUV0RnbVk0TDhKVDdGeXA2S050akJobWZ2ZUFScQ?oc=5
-- **Source:** Metalheads Forever Magazine
-- **Published:** 2026-10-02T12:50:03+00:00
-
-## Chim Tha Dream Brings Jersey Club Energy to New Single “GO” - 24hip-hop.com
-
-- **URL:** https://news.google.com/rss/articles/CBMiYkFVX3lxTE5iTnFXNG1FZHFVbjJWN1doS1BzN3RMTFd5Z3NNX2dMb01COHF0MGgyaWo1U2ZCVl9NbElHLWRXU2wybU1aMlUtUjhCRzliVHYtR1pJbnQ4cUdFTGtvQnREQkp3?oc=5
-- **Source:** 24hip-hop.com
-- **Published:** 2026-10-02T12:45:51+00:00
-
-## Tocotrienol supports embryonic mitochondrial health under maternal inflammatory stress - Nutraceutical Business Review
-
-- **URL:** https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZ2trd21tdlUxSXVsclQ1S0t5bi1wbWtXcl9HWGRUN09Bdk1IWm9rdTNVNklxQzFqMzZoT0dEN3FuTm5IdW9MVEw1M1l6VFhxVi1NbzJoUVFxUWQzOVdtWUlXeXFEcW5JYzMyMkZsSHBvVUI2d3V4c3JoZnFMQWxMejBpWnBDazFEOUxhUnN4N3Z4cFJvZk1tOTY5NmNKc0lteEE5bG5HR3JQZUxxM1cwLVU3X1hveXQyR1Fv?oc=5
-- **Source:** Nutraceutical Business Review
-- **Published:** 2026-10-02T11:39:04+00:00
-
-## Trad – Keep Zooming Ft. Flexbee - voxtrendy.net
-
-- **URL:** https://news.google.com/rss/articles/CBMiaEFVX3lxTE5VcXZ4TE9ua09CanhuWHltQWtnLTNxQnNRVG9NWGZfU3hIek9VNjNraGF2eG93c1hyNktZSkF0NFhCbXpJOXhSb1BnVEYyWHFFX0RkaEJzbDhvLTFvdFJjQWJJRG40elVL?oc=5
-- **Source:** voxtrendy.net
-- **Published:** 2026-10-02T10:50:43+00:00
-
-## Eindhoven University of Technology Scholarship for Excellence 2027 in the Netherlands - After School Africa
-
-- **URL:** https://news.google.com/rss/articles/CBMipgFBVV95cUxOUktQM0FkMVhNbzhvb2hnMkZNVVZMUHlMUDkwcWJGSVdNRExndzdpMWd4azdad1hZYnE1S0pZdElISjFUXzl5N19SMlNhVjFhcXdyc01ZOGpLWktwZ1VZNVZobmFOQTFsTVl0RGl5OFF4ZC0xbXIxVjJSTVNVOVZ4NFNzYVU0Tl9FMk5ienlqdWEtY2dNSnptZFp6YjRBWi01dTBCTzF3?oc=5
-- **Source:** After School Africa
-- **Published:** 2026-10-02T10:45:16+00:00
-
-## New Study Maps Nuclear Fusion’s Economic Viability - Securities.io
-
-- **URL:** https://news.google.com/rss/articles/CBMibEFVX3lxTFBSUmN3RmVrb0Zlal9OMUViYlp1TVQzc0pHVjhSRlBLbXV0dHh3aVFFTWdQMzI4TEFQdlNkRW5Gay1tM0VDRGFiQnQwcTZGbEplbEdPWnhVdTQ4ZXQ3cUFsSnMwdHhpaVhGcnhSVg?oc=5
-- **Source:** Securities.io
-- **Published:** 2026-10-02T10:43:01+00:00
-
-## An 80-foot fusion machine in California had its priciest sections pulled off both ends — the quartz tubes that fired two plasma rings together at 670,000 mph — and the shortened machine still makes its plasma, with eight particle beams building the magnetic tra - Autonocion.com
-
-- **URL:** https://news.google.com/rss/articles/CBMic0FVX3lxTE9Gc1RLT1M5R0RnQWFvMW1BNHppaWV0RGpVUmFFRnVtMkltYUxLM3lhdDN2aXFTWGQ4Z185NEp2UXBkektBZXJ2NEx3TUJENUJLd29TWWV1V1RWXzBiN2o2TVM0cGxlRWVuLVIwUE5GUkNOMDQ?oc=5
-- **Source:** Autonocion.com
-- **Published:** 2026-10-02T10:30:02+00:00
-
-## Wisconsin labor groups launch push for aggressive green energy goals - Milwaukee Journal Sentinel
-
-- **URL:** https://news.google.com/rss/articles/CBMi4AFBVV95cUxNYmN4U2RmRjk0RjctYjZhTHcyY1dGSmZQNmVPelBZSnlZQTUwM00zVWxrRXpoUnNRazV6dVZJTkZfVHczTzFzdFlxRDVoWHhuNkhrMnFQR2JLaEpyaGQzMXR6amh0d2djNmZtYmN4Rll5Q2JqbkFrbm5CVV9tVG5ReGdVbW1yVHhMb21CbFFCeGRPcU8xVHZ2dkFoXzJodWhyRGoxaXNEQTQ3bEk0N3IwNS1NSG40TDdibTJkV1JYZktrYnJBQmo0cVVvSmp3a3prSG1GaGxITFRTOUlFUlljOQ?oc=5
-- **Source:** Milwaukee Journal Sentinel
-- **Published:** 2026-10-02T10:05:00+00:00
-
-## UK to turn fusion research into industrial powerhouse - Energy Live News
-
-- **URL:** https://news.google.com/rss/articles/CBMinAFBVV95cUxQSG5iNGtXcDE0R1M3VlJVaHE3NTNYakFnV1pmM3ZoS1BGSEdGREhlOEFsbk9wTUJ1OFVyNlRqclhsLVBncTBVN0xfV0ppemwxcDNoUkN5eDhORVVDQ0o3R2hCdzVmQmdWUTdyVnFIN3B3cVNtMEFNcG8ta3ptRmgxdWk2MkNQbHIyODdoTG5DM01ZZUMzNUJ3Y3JlQ2Y?oc=5
-- **Source:** Energy Live News
-- **Published:** 2026-10-02T09:02:35+00:00
