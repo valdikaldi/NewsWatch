@@ -1,8 +1,68 @@
 # NewsWatch — fusion energy News
 
-_Last updated: 2026-10-05T00:29:02.930154+00:00 · 50 articles_
+_Last updated: 2026-10-05T11:13:56.519008+00:00 · 50 articles_
 
 ---
+
+## AI and the impact of the ‘second Big Bang’ - eKathimerini.com
+
+- **URL:** https://news.google.com/rss/articles/CBMikAFBVV95cUxPRVVtbTNaaHdBc09nVzNmaHI1bU9Qcy1ueUJIYTBsa0t0YjhQWVcxMHlwRDJUYXhqRENnSGhVY016bEpORzl2NktBcDBlbkEzd3JlemlDSHVUb1ZsV2tueWNNbEREMTlvbk9ZYlZRZnppa0p1bXk1c3hOR2M3eXBsZEo4d1Y1cG83NzVFSGJvWHg?oc=5
+- **Source:** eKathimerini.com
+- **Published:** 2026-10-05T08:35:36+00:00
+
+## Nuclear having a moment, but hesitation is real - Sentinel and Enterprise
+
+- **URL:** https://news.google.com/rss/articles/CBMinAFBVV95cUxQMDBTTmFPa3JMbGtFWEo5Rm1leEx5Q3FyRWc3SXJkcTJIRUlqSGJueU84SUEtcHNRZF8zWklKSnltLUxoV3RETnY5c1ZQWnJsdUdqOTBGTi1hdnN4bERueFZLeW1LUm8zWHhtbzFpSUlfLUgtQUJ6UmNSY2dUc2I5Rmd0cVlMV21lVTF0Sk9nTEhJUklJZGZIN1Axd1M?oc=5
+- **Source:** Sentinel and Enterprise
+- **Published:** 2026-10-05T08:13:23+00:00
+
+## Europe’s Final ITER Vacuum Vessel Sector Delivered - info.westinghousenuclear.com
+
+- **URL:** https://news.google.com/rss/articles/CBMilgFBVV95cUxQd05HemVKTGNURVFyOHBSY212LVF6eFA4c3ppX21uVjJ6RkRtbTg5aHlCRTZ2TUJrVjQ5bW1zX2RBb3VrWlRvMTVwM0dKUGdaZ3c3eTNZWWMzVUVKQUxZTnozYXRiMGFUUlFZTU5oVlVNaTF4N3dXbnRnMmpFelBwdW8zNTdxcWt3c2NJemRfUEVXRWtnYVE?oc=5
+- **Source:** info.westinghousenuclear.com
+- **Published:** 2026-10-05T07:55:28+00:00
+
+## Netflix’s The Night Agent Season 4 Heads To LA – California Tax Credits Bring Production Home Ch 265 Amber Alert Now (4iBwomRJIA) - Unisba Media
+
+- **URL:** https://news.google.com/rss/articles/CBMiZkFVX3lxTE1lN25wQzdtZG5QcWd6RHkyQVlGUWdXS0dCb0xZVHNZN2tLWGF4OHVuLXRYTkRaZVJoSDV3akF5ODkxQTB3d2JfOGxCVlFxTmd5YUFXenJEYjVLem1yMkp4VDc2aTJtUQ?oc=5
+- **Source:** Unisba Media
+- **Published:** 2026-10-05T07:54:17+00:00
+
+## Nuclear Shipping's Next Chapter: India's Chance to Shape the Rules - orfonline.org
+
+- **URL:** https://news.google.com/rss/articles/CBMipwFBVV95cUxPT01VNWdJM2RrM1dmUVk3Qk1HMkdJZ0RMMF9FUUNVbVB2V2hObVZiRi1JUzl4eENaSU9HUFFHLTBEeWRYWnRfck41VWdIWlB0QVBoSDNZVUl5cnNKakxGTFE4SVZEcGk2S1BQanZwbUplVDdHNFJhTFZuQjZKd3dvLVNGb09lV3hOMEY4RGo5RjNoNlRrUUJDUEdNWXpEalk2VjhoamJEcw?oc=5
+- **Source:** orfonline.org
+- **Published:** 2026-10-05T07:34:36+00:00
+
+## Part 6｜MESSAGE Facing the Current State of Nuclear Energy Through the Lens of the Field and Facts―What It Means to Build Up Trust From the Perspective of Hitachi's Nuclear Energy Business - Hitachi Global
+
+- **URL:** https://news.google.com/rss/articles/CBMiekFVX3lxTE85TS15UWZGZ3FVaThaV0lxRG9Rb3FXVS0zNWx2UVNkaW05aTc3V0U5QjY5M285UVoyYnJXYko5WHNKNHVGc0xCQnVmb1l6WGpSX2YwSUtqX0dibkh5dU1iSTNhSERUUVQ2N20tR0FPSm9LMmVfdml3ejF3?oc=5
+- **Source:** Hitachi Global
+- **Published:** 2026-10-05T04:25:48+00:00
+
+## GIST team measures laser fusion neutrons without counting individual events - DongA Science
+
+- **URL:** https://news.google.com/rss/articles/CBMiVEFVX3lxTFBxLTJJWHZxQVdsMFk0dFNHcGNOSjlyeEMwNGtVNkVCMG11TzkxMHllVDEyTGh1SHRwVDgxT1BDZ1RsVDVMQ1hCaFZMWk50UHZwanBrVw?oc=5
+- **Source:** DongA Science
+- **Published:** 2026-10-05T01:31:00+00:00
+
+## Black Sherif – Expresso - Six9ja
+
+- **URL:** https://news.google.com/rss/articles/CBMiYkFVX3lxTE4wZHd5YTV2SlNycUtkRXBEd2p3ZXBIaF80d3hJSm1sOU5CMGY3Z3VfZzJxNFBqWFdpRnotNzl3cms1dWpWUzh5WV9POW1PUEtJMmZCRDI1Tkx5YzRjcUFscExn?oc=5
+- **Source:** Six9ja
+- **Published:** 2026-10-05T01:23:31+00:00
+
+## Betsy Cantwell takes WSU into a new era of AI, athletics and innovation - The Business Journals
+
+- **URL:** https://news.google.com/rss/articles/CBMipgFBVV95cUxOUnQxZ2RXODlCNW42MF9pZUotNzFPRHg4S3hJUjFuZDhxa0RHSFNFYW54QWdFSVpoNzJzaU5NX3NoMGRrdEFIQkQtR3dMbjJUTjFOUWxRbTZxNHNrRG4yWksxMUNBWXZub1dKVV9WaTZiaXVtYl9MaTR5bGxzS241a3FQV1Fxbi04bkVMNzhJUkU4MExZOE5sbE95ZkFoRjNOLUtrT01B?oc=5
+- **Source:** The Business Journals
+- **Published:** 2026-10-05T01:00:00+00:00
+
+## TR-3B Black Triangle UFO: The Engineering Behind the Mystery | by Tim Ventura | Predict | Oct, 2026 - Medium
+
+- **URL:** https://news.google.com/rss/articles/CBMioAFBVV95cUxOSl96WTI5em9KTXA0RnhoRGI5bm9MWTU3QXJoVER2QVpHel9tY1JTSE9kQlJGd0ZLVV9KZ3NCbW51aVlib2RPNFNYdFo4XzVpNHlOUW0wYW9ZWUkyalNkdVMzRWNlSWxLcXB3d3UxeW5UTTVScUVQbVZTd3d6Tll2NFlBeW5hRXVaR29LTWNOTDVub1QxZ1hwVWM4X1ROS2h4?oc=5
+- **Source:** Medium
+- **Published:** 2026-10-05T00:56:30+00:00
 
 ## Steel Pulse Performing at Mateel Community Center on Tuesday - Redheaded Blackbelt
 
@@ -243,63 +303,3 @@ _Last updated: 2026-10-05T00:29:02.930154+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMimAFBVV95cUxObnhfSkxYQjEzYWtjal9lc0J4WmQ0UGh4amdFak5qejQxemFzQ3p5QzBBVV95SFZGeEJ2ZEd1bGNOQ1lBMnJvTUpYcHRuaDRqdFdtTWh2YWFad0hwWFh3UXRJbjZ3ZXFoSGdXNXIwalFNY3Bub2RCRUNyNjVDdjZqT3BadVgwSVZIeGJJMHQ1OTZObzM4Nl8xZQ?oc=5
 - **Source:** State Affairs Pro
 - **Published:** 2026-10-02T19:12:36+00:00
-
-## Virginia unveils new clean energy strategy to meet rising electricity demand, advance clean firm technologies - Clean Air Task Force
-
-- **URL:** https://news.google.com/rss/articles/CBMizwFBVV95cUxObE1Wa05WZFpnR1Y1bFRCbnh1S25HTVY4VTY0bTZNR3d4QjVka3dGZmk4MlQxT3pQbEdYYTBLaExaSGoxcEoxb25KR01VZDRoQ1dWZlVBREZrY3lvOGVkMmRBXzdhTXFrSndOZWhvWU1ua0JKelNGaTZpb2R4R1lBNFVfZDcwQVdZekRyMVlzRmNybjdJTHc1UVptSk5LN2JLTHFZMnduZFhVbkxzclA2UXcxT3gtRVIzOVNINkh2Q3VaRUZFSWplQXI4SmE2aUk?oc=5
-- **Source:** Clean Air Task Force
-- **Published:** 2026-10-02T19:08:45+00:00
-
-## Exclusive: Quantum Formatics is raising $30M to discover new superconductors - Axios
-
-- **URL:** https://news.google.com/rss/articles/CBMimAFBVV95cUxOSk5rOXZJT0p4NDdCUVpDYUhXclpFMGtoMmRtMHZuT2tSX056VUlkNjRncGctekxDUGF3NWJtU3FiM1lYSldyTGJIY0lvVDFuWGJoWF9VSW5IdmRTUGpQTzVqcXZQVVhTeDZHUGlrcnRtWUZYTjU0TWlyYVVraV9SbWp2ZGE1cnZ4QWRGaUZiUWNSRzA4RjRhQw?oc=5
-- **Source:** Axios
-- **Published:** 2026-10-02T18:38:15+00:00
-
-## Jefferson Lab awarded $8M for accelerator technology to enable transmutation - American Nuclear Society -- ANS
-
-- **URL:** https://news.google.com/rss/articles/CBMitAFBVV95cUxNcVVIaVpPU2JoZ1gwYjdEMWR0blF3bWNCLVI0REhPLVZpRXdPQkMyUm10TkZWc1RFN2EybW13U3RXT2JaZ3JmeFhMV0xaQWdWYk5MNUZ0dkFCcWVXQmNFNXVzM2xueFZJWEYxb1RRd2t6dUhyTTBHTHdMRWgwMy02ZXpvU2ZOTGQxWTlRMzVMQi1lVDQtR0V4MjFRRkJ2ZzY2bnZBYmNFSXhjTUNlOFVkTGRZLVA?oc=5
-- **Source:** American Nuclear Society -- ANS
-- **Published:** 2026-10-02T18:30:25+00:00
-
-## The Moon is Ours: A possible future Moon Cold War between US and China - The Aviation Geek Club
-
-- **URL:** https://news.google.com/rss/articles/CBMiqgFBVV95cUxNT3ZkblkzVm5hT0NmQWFCT21SMGJ4S0tIOHI4bXVJdTJtYkw4dHdac1p0Tkp1aVNMcHFZSmF1X1U0VzI5VG13VXpXTnVtSktFSXFoYmViYmJBQmVhM3dRaHVqOHNhTFBpSkltY1psOUcxemhrZnhJZ0RSdUdGNnNZN3dfT2hLYm5QWUQ0eWxqTUNVV1FmZnpSLUhkSHZ1cWRXMVd2QXpncWVXUdIBqgFBVV95cUxNT3ZkblkzVm5hT0NmQWFCT21SMGJ4S0tIOHI4bXVJdTJtYkw4dHdac1p0Tkp1aVNMcHFZSmF1X1U0VzI5VG13VXpXTnVtSktFSXFoYmViYmJBQmVhM3dRaHVqOHNhTFBpSkltY1psOUcxemhrZnhJZ0RSdUdGNnNZN3dfT2hLYm5QWUQ0eWxqTUNVV1FmZnpSLUhkSHZ1cWRXMVd2QXpncWVXUQ?oc=5
-- **Source:** The Aviation Geek Club
-- **Published:** 2026-10-02T17:59:21+00:00
-
-## California bills consider new nuclear power plant and plan for the future of fusion - American Nuclear Society -- ANS
-
-- **URL:** https://news.google.com/rss/articles/CBMivwFBVV95cUxOM0VyWnlSM0p5emVDcXV3dkdxcnYtUUVEWkxnNzk5QWRfUEdrWEFDcnJGclVObUpFWERBSW12NzN0VVVBdEJDQkc5a1N5RnJ4MVhJTGJUb0hIb0ZXU0UydEp0anB2cTZwOUtQR3k0a093R3dfRVFmRUZfdW15VWgwbDFvWEZUT19PXzdFRlFFaG1PdEs3T2NCZGdjamJxT1Jsa1ZCNXhJQ29lRFFabXkxSjlxOUlOYkx5LU0wNGJCTQ?oc=5
-- **Source:** American Nuclear Society -- ANS
-- **Published:** 2026-10-02T17:38:43+00:00
-
-## Hystar and BHEL Partner to Accelerate India’s Green Hydrogen Economy with Local PEM Electrolyser Manufacturing - Hydrogen Central
-
-- **URL:** https://news.google.com/rss/articles/CBMi1gFBVV95cUxQZ0NEbDdyS2ZDZFlGUUV0QzBJeGZpYjlXT2R6N2thTHF2UXRJR1pmRzhSXzcxQXNnd19ScmdoNnhfS0tOOUlGS1Fmb01iX3ZhTlZ2S0kzREo1TUtHay1QaDNMUE5RTEYzVEFGbUxhZE5odk95MVdYSnJJa0xiYnU1aUNMb3k1OGdRcmN3YnVDQ0xCdHhUWk5zd3JFS3kzZ3dFN2p2cDhIcDZ4MVRTUEowWFJBYWw2SExRVG5SaU5HZDNoZlp5LWF4aC1YamZKM1dtb1gwanhB?oc=5
-- **Source:** Hydrogen Central
-- **Published:** 2026-10-02T16:11:44+00:00
-
-## DOE Announces Up to $400M for Basic Research to Advance the Frontiers of Science - HPCwire
-
-- **URL:** https://news.google.com/rss/articles/CBMiuwFBVV95cUxPd21LdmM2LWV1TWtRbFlKX1ZseVFMbU9BY1F0bjZXSUJCYVFJNWdyeDF5ckgxZHVobFNYRUE1eUNTME11LXR0UlNrME1OeDdUMWd0YzhWZmlBTDk3cW4ybmlyanZEMlVKeFY4TUNfNXRuV0RPenVqdS1ITG9TeFJ4T1MyWnB4VnRQSkxsRFJZV3BQTURjMzBYZVo1UHpKY1VZdjV4WjdaUnFaRWVnVHZTU2Y0ZGZaY1pHR3dz?oc=5
-- **Source:** HPCwire
-- **Published:** 2026-10-02T16:11:17+00:00
-
-## Botched Altadena evacuations, dysfunction in Pacific Palisades: Long-awaited fire investigation identifies missteps - Los Angeles Times
-
-- **URL:** https://news.google.com/rss/articles/CBMivwFBVV95cUxQMjF3enhLaUtGS2ZIdlBPc0RkZzctZEVXaTRZVjF4bkVfV3psRUd5Vk42OVFCTHA5YVk5bnMtNDBmXzBiZ1JYdXpuWE1YRUlWTnBWcDBOR3VJeEtURE9UbU9BZFJCNmV3N1RUSlNOeXVpQTFBRWdJZnFnUk84VnE3VzNyUU9pV0dYTDlJaFJIRUthMWNsbEtOYklHYjFtMFVYcm9FT3VKclBEYlJOc2l3YkFXZzJpc3RRQ0RjTlJpWQ?oc=5
-- **Source:** Los Angeles Times
-- **Published:** 2026-10-02T16:00:02+00:00
-
-## G7 to release 100m barrels of diesel and other reserves through IEA - Nikkei Asia
-
-- **URL:** https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVnZ0Ukw2NGd1NlFjaS01TzhwZ2FobFcxSmtsaEpKcTh2ay1Od3RNcS0wc0NtTWpOR3ZHbXkyUDZ6VWdfXzZtdkxHLVFjMlotZHFiaV9ZVXl0ZlBSaGtWaU5xWHJ4T1VRUTFOcVYxeXlUWS04WmVBWmhFcXFueUZ2SnBjWXNpZnhjTlRWbkowcE9mQS1WMGRLV1lBbFFCYklhSmJpT25SVk5oMWM?oc=5
-- **Source:** Nikkei Asia
-- **Published:** 2026-10-02T15:22:00+00:00
-
-## G7 countries agree on release of diesel and oil reserves after US pressure - Nikkei Asia
-
-- **URL:** https://news.google.com/rss/articles/CBMitAFBVV95cUxPdHUwUWFWZEU2TG9kX01rd1R2U0RkTldpdXFUakNyVWhSbnc5Q1BteTcyUk1XZDFFYS15cEtPd2w1TFBsaU1YTzFmZ09NaXN6dmtXUXE5MG5tRy1laGJyS05td3Z0ZThJcnpwU2I3Wlp0NktrbERMU0JuOW5mUWljMXdJNVFUZnlDbVRyMnVIZ0oxbDRSVzdyVUJvS0tTNnlLS01sMG1oSmg4ZjlCencwSFY1Y0s?oc=5
-- **Source:** Nikkei Asia
-- **Published:** 2026-10-02T15:22:00+00:00
