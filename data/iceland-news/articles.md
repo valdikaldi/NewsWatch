@@ -1,8 +1,44 @@
 # NewsWatch — Iceland News
 
-_Last updated: 2026-10-04T20:56:59.079562+00:00 · 50 articles_
+_Last updated: 2026-10-05T00:29:02.522541+00:00 · 50 articles_
 
 ---
+
+## Tigerair Taiwan Expands Its Network With New Connected Travel Platform, Powered by Dohop - The Malaysian Reserve
+
+- **URL:** https://news.google.com/rss/articles/CBMiywFBVV95cUxQUk92bVhBWURQblJTYXB2blVXdXh3VVFNejFHTjQtWjc5VENBQ2NvTHBEOG9TZk0td2R0WWtEV1Vkd3NYZ1lRZVI3T1FvMjBzV2FUUmZqVm1tbXdTSUdtVkQxbFJSSFVQZ0NpYmpfLVlocnhNWnJsVWFDay1FMlR0WFk5ZmxibE53amlxZ0lRQ1ZFYmd0X04wdmNoNF9JWFdWMzg3X0ZOZU5rTzhoWlppYmNJREl2WUQ4MmdXZmZQZVZCV1BJbnJZd1dZQQ?oc=5
+- **Source:** The Malaysian Reserve
+- **Published:** 2026-10-04T23:49:41+00:00
+
+## Prediction: Estonia vs Iceland - soccernews.com
+
+- **URL:** https://news.google.com/rss/articles/CBMickFVX3lxTE9UNlgybWVnVFR2aG5BWDY2SXBPYUpXU2xqMlFKMzA2N0NkVUh1cUxoUmNZZlVtY0hLa1V4UW5fVW1NcHFJQ3E2OUtWZm43cG9CY3VlZUVHbHktRzlHZmFra1E0SXNmWEkyZS1GSjNZbGJOQQ?oc=5
+- **Source:** soccernews.com
+- **Published:** 2026-10-04T22:50:34+00:00
+
+## Preview: Estonia vs Iceland - prediction, team news, lineups - Sports Mole
+
+- **URL:** https://news.google.com/rss/articles/CBMizgFBVV95cUxOa3lLVVVZcmpZUnNxeHNkVGxHeG44SHJfZ3otQ1hCc3dqczRQQXNuSmRXV2NmQ3N6SlVOVG1IYlh3ZHBnV1BCcjhwUW5VV0xHc0dHMGFNRi1xbnhtNlBjNmxVQ0dWYU83QUI1NTRLT3FyOGtVN0k3bEtLNk5zMHMwYTE1NGR0ODg3QVRKQkp1V3FPeWRFbkVfNnNpdThOeEhFVTBFaWhjam9VWHQtdnhyQlp4bGlUaWRfLV9OMUxGbzdWdUEtUk1jLTZnT3pPUQ?oc=5
+- **Source:** Sports Mole
+- **Published:** 2026-10-04T22:23:11+00:00
+
+## Greek Workers Build a Small Community in Iceland - Greek City Times
+
+- **URL:** https://news.google.com/rss/articles/CBMikAFBVV95cUxQZFBWNlJHSFJlTFFVVnRHa3hUajlNSFpmWVljbGhuWXhZcHRmY3Q1UXcyV2xyNDBOREdaZFFObm9zdWFYdkR1UmhqQjc4V190ZFBHTS1Lc24xd3NHdVZCVkxOXzVJbkxCNlM2ZE5xd3FvdC1hcWg5V2tiZTBEOTRkT2thX19PU01Rby0weG5yRFU?oc=5
+- **Source:** Greek City Times
+- **Published:** 2026-10-04T22:18:45+00:00
+
+## Reginn stock reflects Heimar's Q2 profit and buyback - AD HOC NEWS
+
+- **URL:** https://news.google.com/rss/articles/CBMitgFBVV95cUxPY1FYRE9QN0k0bzhrRThoWmdkdnZ5Z19Xek5wZDJHWC1DNkhsa18wbFFtTk5JdV9HVTE1UmlxOWRvalhucE9BMmFXTlZ5aUd0VXVvenB3WlByM2JYbUNwTzhQTFc2cXYtNGZDSGVrdEczZThNZGh6LVJ1Vjd1Q1pEZEFtTDBUS05qVFN3bDZRZHV1MTlRc2RLclB4c1lMaDZaYkVvMGg0WE16R3RNVE5TRjB6NTlhQQ?oc=5
+- **Source:** AD HOC NEWS
+- **Published:** 2026-10-04T21:39:57+00:00
+
+## Nations League highlights: Bosnia and Herzegovina 1-1 Sweden - UEFA.com
+
+- **URL:** https://news.google.com/rss/articles/CBMi6AFBVV95cUxNcGhLckNpN2xfUnZQbTZ2aTQwLWRZVm9Ddl9GalFCS0dIZHUxdWhpYjFfMEJmZG81ZVhkX0hobXpGVkRtMXZmTkRPQWV4T0l1NThaNnBkT3ZneVZPckhnT0RnUWpVZUY0cUtCZ2xNU0lyc3gxX0dVTDFaeUE5VUI2NFdoNF80ZXNESWU3Mmg4ejExaE5XcFFBX0dNSDVrZkFwYWF0dDFZUk9yY2F4X2lJZ3NNOS1mQ2hmazA1Zk1lRTNIWGR4RmVMN1VDeDRsNWVtYTZGeldpdG9PY1lwYVV5RkJrM1JZSTRW?oc=5
+- **Source:** UEFA.com
+- **Published:** 2026-10-04T21:23:11+00:00
 
 ## This Remote Archipelago Has Fewer Than 5,000 Residents—But Millions of Puffins, Belugas, and Other Marine Giants - Travel Off Path
 
@@ -267,39 +303,3 @@ _Last updated: 2026-10-04T20:56:59.079562+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMijgJBVV95cUxQbDQ3Y1NGUzNVbzJ4bWNiX1BtX3BNcm8taEZRc3RGQWdzZXUwa3gzODFQdzQzV0lnckY4anBGRmNOQ0gtSlhkd1hCdUJIR281Vy1TRlN6VndxUHlsMmRaemJXU1hjS3lUM2NoZm5xS2VkQlQtVjB5MkxuX2dCLTBubDEwWmVsQ2lGdlFyNVRZRF9lYnp3Rk55M2ZkTF9kdExHUmoyby1BVDVaYkdXUDFjU296SV9VU2FKUlN2cGNIUHRLZWdKN3p5UTd4a21KNWZkc3dRUXVqVGN1Uk1NZ1RSVHlQTElZZmhsRk5nOXhMZ0dJWlp2dGRxMnpnWm56MWNmRlFIcGlqYVJ6TnV6UXc?oc=5
 - **Source:** 大分トリニータオフィシャルサイト
 - **Published:** 2026-10-03T16:00:36+00:00
-
-## [𝐒𝐓ream]HERE*! Bulgaria - Iceland Free UEFA Nations League Match Thursday, 03.09.2036 - 大分トリニータオフィシャルサイト
-
-- **URL:** https://news.google.com/rss/articles/CBMilwJBVV95cUxQaWdqOEN3cW5OMzJuRGlvZmxaYjhxQVpWcHVGTGNBTmF4U1g0bEtqYzdQMU1tX21vQ09DMjlwZlh4RmltNmIyNXN1YnRxOS1HekRfanBsb0ZXaFBYTnV4T3ZGWXhpUGZBLTB3SVZIeXo2bEhXY3c3RDZUU2ctNmk3Z2VyNVVSUEdXdEpSMXhrX2hzZGFxeE51Q2dfSm5lMnNoRGtkYzFTSVNGbjYySzJud2Z5QWk5S1J6ZGRUNEJPbFlXUUNoMTFtS1gwNkpOQUZabUp3clVCbVFQLTRoTldoZmJqa3RBaHE1QUwtZS1waEkxTXB0dTJQemdrNEFKdlk3NkdCdlU2V3d5QXJIRk9odXNjM3Y5Rzg?oc=5
-- **Source:** 大分トリニータオフィシャルサイト
-- **Published:** 2026-10-03T16:00:22+00:00
-
-## ~!@√#（ＬＩＶＥ>） Bulgaria football vs Iceland LIVE FREE - 大分トリニータオフィシャルサイト
-
-- **URL:** https://news.google.com/rss/articles/CBMipwJBVV95cUxPeGhyUDRYb0NVT2p4SFhySHI0Z1JSNE1LR0lPRnJBRGVfUUZ0WmhkWkFISlROZ3d3QXpXZ25HT3RSc1RaWWQydVJjSkdqajg3NE5SbGFCamtTRE10SkFjbzZiTVRXT21RcVNpb25ZdzRraUxnaDlYbGRmNGVwdnZRajBrVTdHWHNtYkQzeEU5andWdDJfSWU5cC05OTVXY0N0djYxcTBJWGZOSWhyenNTTUJ0ZEFvNHk0cHNuLTZqWTllaDhBTE53TW0xQ1RQYjB0SHhCY3ZfcFJYdmt4cm4xZENUdEZvOXh2ZXBicXdIOEFuTmVOQWo1cUJ3T3pOdERpRVVMZHpMcGJzZlVESHJCQUVWcG9JVkZrdmhoLThvc2xkcUc0WmZV?oc=5
-- **Source:** 大分トリニータオフィシャルサイト
-- **Published:** 2026-10-03T15:59:37+00:00
-
-## (!+!Streams!TV!+!)) Iceland vs Bulgaria 𝗟𝗶𝘃𝗲 𝗦𝘁𝗿𝗲𝗮𝗺 UEFA Nations League 𝗙𝗿𝗲𝗲 𝗼𝗻 𝗧𝗩 Today - 大分トリニータオフィシャルサイト
-
-- **URL:** https://news.google.com/rss/articles/CBMihwJBVV95cUxQcnJtMFZsM0hNMGEzUXppblVyNHA2RGtoVjI0QV9PZ1VQTWllaUdMRVRpRFo3MFFiRmZSbGxaazh0NWE1Zk1EVEZ0Q2Zucm4yT1l1X0tza2ZJQ3FNR0FOZkt2cFptVkFQTm9tUUNOSWVTcnhHNWJ1N0c5VkpHTW9yX0VYOXQyZ1NXeXhMdnhwd0hJR1NHRlJCcXpYSzRpVkVOV25BTUY0Z0YwOVRRdHRGM0RZbFRrUl83OXZOaTZTYktTLWo4WmRsR3dRWE1ISHN3c2RDbGlNX3lJU21wazd4aGMzeGhEenhqbnJzQlROeE8zVmtWZVM5ckhncE1jYmZwRkN6aTBKQQ?oc=5
-- **Source:** 大分トリニータオフィシャルサイト
-- **Published:** 2026-10-03T15:59:29+00:00
-
-## [𝐒𝐓ream]HERE’S*! Bulgaria v Iceland 𝐋𝐈𝐕𝐄 Ｆｒｅｅ Ｓｔｒｅａｍｓ ＯＮ Ｔｖ Ｃｈａｎｎｅｌ match 3 october 2096 HD26 - 大分トリニータオフィシャルサイト
-
-- **URL:** https://news.google.com/rss/articles/CBMimgJBVV95cUxQcW1CR1ptYmI2eVhpMmJXV3VNdVBNWUZtc085aF9EYnBxYkx6VldwaFNiN0J2TVJwUjV0Z2R1TWZRWndaRjNIMkppaGlLeVhCczRsYnNFLUl4UHFiMlg2b1REdkVGelRiTGZfd05OcXIyWTZNejZ6UnhzWVRwMzhGbnMxNXA0TFdPWGZUaUU0VDRWX2VZa1hYYmhXUUV0OGlfMWxOaEVkSzVTbkNmWno0YVhHdGVWdFJlTmhhRDlVbjJXNlBjR1N1UzdNdXAxTVBtSWdvbElNRGxOZ1k0ZlAwWkFmTUs2elN1VnZLaWdaSkJiUkRTUXh1ZGs0MExPLXV0cThLMF90N2dBSUd3NGRLRHg1ZEdPMEY5alE?oc=5
-- **Source:** 大分トリニータオフィシャルサイト
-- **Published:** 2026-10-03T15:59:25+00:00
-
-## HRTi: Iceland Bulgaria FREE LIVE 𝐒𝐭𝐫𝐞𝐚𝐦 ｌUEFA Nations League 2036 - 大分トリニータオフィシャルサイト
-
-- **URL:** https://news.google.com/rss/articles/CBMijAJBVV95cUxQX3E0ZnZtNXpkSUNzanllNU53bGtDNWtsMndPWmU3ZzVZZFpINW1vTDAyR2Q0VUpudkpoVU9zWlMxVDBnNHM3Vi01QVRmbl9wenlFeUppSzVkaFA5WFMta25fSEtjOVR5aXJwc3lncm83dTJUcklET0dCUGdjUGxyQ3ZKVnRRdXU0S1RxclBsamY1OVBtbURnSXhsdHJEeWNZX0RfeXUxX09sbVZKdEdseUs3TXBYVmFkRWpLQ3FnUnVrRXdGLXVxTFNUdVRyaHdwY3lWNVR5QVJKS2pWUVVfQUEwcGlMTjRfQmVwckFTQ1pIaUttTXRpUnBVYmUtaklodURyamFxeGxMOXJ1?oc=5
-- **Source:** 大分トリニータオフィシャルサイト
-- **Published:** 2026-10-03T15:58:05+00:00
-
-## 🌟⚽Nations-League🌟⚽ BULGARIA V ICELAND Live free tv - 大分トリニータオフィシャルサイト
-
-- **URL:** https://news.google.com/rss/articles/CBMijgJBVV95cUxNdFFRSkQxSGFncmhVYVpDOGxCb0RwOXZKOFU5V1MxSHpGTlJHSjlKc0UxcUpTUUJteThEWGJxQmM5a0Ixcy1VTXVVV3duQUJiejFUSFFUd2dxN1YwUFdNOExHbmxDLXpKWU5oWmxrZzV0aFZXd2RmMllKaVFqZ00xTGhnUG9nb3FqY1hnb3NZVzhDNzJSYjFXakxpa3JvajZBTXFQU0hsZUYxR09KLWdjWTlqSFNJWUtISXFWYjVTYWQtVm14U0ZmYnJkQy1HdUIwb3B6ZzNZSVBEb2YwVzZTa3hSTTUtbDF4Ul85VzFxRXM4OXdpYXFJX1FhOEVadExGTFlBcHROUm5iTzRVeFE?oc=5
-- **Source:** 大分トリニータオフィシャルサイト
-- **Published:** 2026-10-03T15:57:55+00:00

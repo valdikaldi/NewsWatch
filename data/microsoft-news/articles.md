@@ -1,8 +1,50 @@
 # NewsWatch — Microsoft News
 
-_Last updated: 2026-10-04T20:56:57.539402+00:00 · 50 articles_
+_Last updated: 2026-10-05T00:29:02.063961+00:00 · 50 articles_
 
 ---
+
+## Microsoft warns fake CAPTCHA tests are hijacking Windows PCs - geekspin
+
+- **URL:** https://news.google.com/rss/articles/CBMiZkFVX3lxTE1vRzRZWUhCT0NNWVJzUzIyZnduc21yc051UFJfSTFVSE9Ia3BIcjA0a2ppZkJnZFNRQ3B6NkN1cExFNkVfdDJ4RDdqV2JpQnBLc0VmZGprZjJnUHY4MUJqQzNCTUtZUQ?oc=5
+- **Source:** geekspin
+- **Published:** 2026-10-05T00:19:51+00:00
+
+## Microsoft Corporation (MSFT) stock price, news, quote and history - au.finance.yahoo.com
+
+- **URL:** https://news.google.com/rss/articles/CBMiYkFVX3lxTFBCaUljQnBNd3pwU1Q0eXJFS2gySWVOWWJ1djBLUjlxSmpoeW9ydFpLa2FuWDFKUnY2QmFIQmVtcHFkcXRydnIyZHBpb1ZBQTMyd2w0bERPNmVEUC1Sb2N1bXNR?oc=5
+- **Source:** au.finance.yahoo.com
+- **Published:** 2026-10-04T22:22:47+00:00
+
+## Microsoft wins approval for $1.2bn western Sydney data centre - Green Street News
+
+- **URL:** https://news.google.com/rss/articles/CBMingFBVV95cUxNWjBjR2JVV3dKS2ctN3d1S3lDSXJmU0E4Ym5yOE5xSDB5emdZeUFQcUVEUXJTSVAxbV9UOGNfV2duUDgzTjZEaWZBbklfM1NSQUpyQXJiQVVNS1MzbUg3SFZVYVF5SVlvMVpZanpwOXRPckEyYy1KakhrSUdBY2pXd0VWWnEzejdoUm9uS1VIUjFiV3ZaMk9CQXJVVUhXZw?oc=5
+- **Source:** Green Street News
+- **Published:** 2026-10-04T21:46:55+00:00
+
+## Bill Gates: Microsoft Co-Founder Gives Enduring Warning To Businesses; ‘If Your Business Is Not On The Internet, Then Your Business Will Be Out Of Business’ - The Sunday Guardian
+
+- **URL:** https://news.google.com/rss/articles/CBMipwJBVV95cUxONVFDaFNoS21DYnlVUGM2ZUJYVkdWSWs3d0hRYlFoX1R5cDgwVEpUTWtITmhJUEozNnBzSlhpdjBHSjUwc3liaHZxR1lxcTU2RGVuTjBXVlR5MFpkT1FNZ09HOHF6T2k5c1NWaDc4MlBJQVZLOGFVX3RKeXhfWEQtNFFkSW5RQ0F6V0VlcWhac0ZWNXRNVTM3OUVlcjFENkdUYnJWNldQTVIxSjVmT3hGeENOTm00bzNVSGFoMFhYbzlaa2N6eUVXV3ZMaXBVMXJWZW90dGZ5ZmRvSmNmS2lleG5CZGhwU3UyM1NfM0tSc1Q4MVMyRmdnN21nbWFsNm5DWWJhWDlWQ2JuVW1MdHpTTkQ5bXlIbmVYcEVjVTFVcVJQb0dCTE9R?oc=5
+- **Source:** The Sunday Guardian
+- **Published:** 2026-10-04T21:41:24+00:00
+
+## Microsoft’s 13M-Follower X Account Was Hacked to Promote a Clippy Meme Coin - Coinpaper
+
+- **URL:** https://news.google.com/rss/articles/CBMipAFBVV95cUxQUXZBUGhVWU93eVJ5ZWZtTkZIZXoyNFdodzNJSmpQUlFjNmkwQTBJZ0tBaVRSeGVNVlcwaEFITGdnWHo5bGNvWjFSWU8xWFFFRUV2M083Yk5OZWpUZ3RveVVWbU1PQms1ZVRPcXpLSWdiSW1sVGpsb3h0VENNcTE5cW9iNkk2WWt3eDI5aDU1OTFUeGR2VnowaFVTTklkNGxhRGJ4Vg?oc=5
+- **Source:** Coinpaper
+- **Published:** 2026-10-04T21:22:30+00:00
+
+## How to Fix Forza Horizon 6 "Sign In Required: You May Not Proceed Without Being Signed In to a Profile" Error on PC? - Appuals
+
+- **URL:** https://news.google.com/rss/articles/CBMiY0FVX3lxTE13UldhZjJyNTJLV2EwajNGN2VOWTdHaFd0TFJqZ05xeXJ5aDBXRV84cjlyWjdVVWFCclpyelFLR1RvTzlrREFUUktmU0ZiY1VNN2huQzc0dTJDVWs1Z29FUTdUUQ?oc=5
+- **Source:** Appuals
+- **Published:** 2026-10-04T21:15:56+00:00
+
+## Microsoft shared Windows 11 26H2 Group Policy templates, settings guidance for admins - Neowin
+
+- **URL:** https://news.google.com/rss/articles/CBMiswFBVV95cUxNSGZjWnplblJsOU44eDBJVHpDOHZhTGJQVE5mWklFR1UzSEh1ek1IdlptSmlkSUI2MzlXTmlRNnk0T20zTENFNVZzSlJ1SVFtaXM5NmRsUEFGUnNFc1g2MXVnaXhucThVbU1nbGNrR0dQNTYxekxoNk1tNTFiVU13V1NaalVjWmFHTVNtQnd3eUZOSTRSbmwxRGttbjFoRm51XzJpZjFjOFdhSnhiWFpQaXp1OA?oc=5
+- **Source:** Neowin
+- **Published:** 2026-10-04T21:00:00+00:00
 
 ## Microsoft warns AI is deepening cyber threat links - IT Brief Australia
 
@@ -261,45 +303,3 @@ _Last updated: 2026-10-04T20:56:57.539402+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMi7wFBVV95cUxNYU5qYV81UzJiVFpaNzE4ZzlDM0NjU1RzYlNRZG9leDNzRWN0LUlkWDlJY3NseEpwVXdqN1VRZ29ENVdZMk02RkI4UE5PWWpzdUFkWU1TSnlhUkdHVkpPN3hhNGJnN3RlVlRidG1fa08tR3Z5OE1EYnlLcGM5UzgtV2VZY01KSHZUZkp5LUtQRUk2UGxkT1JNc2FMLTlkdk5yRXlBMEZnX1pOVDQxZkg5N0xqY0stSW52eVItWFVvZmVVbC1YVm5Da0pYWGVab01aZExONTZFUW1vVWNMSkVrQTBWY3lKeXoxMUN5ZVNJYw?oc=5
 - **Source:** stocktwits.com
 - **Published:** 2026-10-04T03:12:42+00:00
-
-## GoalVest Advisory LLC boosts Microsoft stake by 76,981 shares - The Globe and Mail
-
-- **URL:** https://news.google.com/rss/articles/CBMi3gFBVV95cUxORUNkYjZJSFlZWWEzOTR5Q1d4Mm5CeWV6N1F5TEpxVlFFMDR5cWFqMjhfVTZnSG50SlpWcjdORnFJT1RyS0tOTTVVQlZoNXUyRDNJeVRvSU5ScXRtUnNfbmZqMGE3VTFaTjdxQ2g5WkFUeTdRVVl4ZzFKZUEwYkVNNnMtVFpuS2JZcnY1TEY5NUZ0dVpMdEJtRUJpZjdmRXE3YUdhN3FpSWpaTkI1NTFValdlTnNSQXU0VlR3T2xXckw4aDhDNXcwTENIVjF0SFhYSXRnSlVJeDBrV2xyM2c?oc=5
-- **Source:** The Globe and Mail
-- **Published:** 2026-10-04T03:05:23+00:00
-
-## How Much Revenue Visibility Does Microsoft’s Backlog Really Provide? - Insider Monkey
-
-- **URL:** https://news.google.com/rss/articles/CBMitwFBVV95cUxNdlNIZXRVTnM5RXJtcDZnMDVqQXZhTUxGeFVLRU1mcmtKVEJzTUtGQkU0UHRQMHp0R2xncDd6RTlzSkNRZ2ZidEhaazhGSDM4NThKNHdQYnZVb0NfdWF4bWtHX1NpMmp0RFlSRU1pY1R5dGlrZlAyblFmNG1sNnhTbDJNTXY1QnRVdGdCbExnbTNZRWRQVjNKdkU2WHRaWEhfYkVmekpPYmtLbTBWNURpU093MFhVVU3SAbcBQVVfeXFMTXZTSGV0VU5zOUVybXA2ZzA1akF2YU1MRnhVS0VNZnJrSlRCc01LRkJFNFB0UDB6dEdsZ3A3ekU5c0pDUWdmYnRIWms4RkgzODU4SjR3UGJ2VW9DX3VheG1rR19TaTJqdERZUkVNaWNUeXRpa2ZQMm5RZjRtbDZ4U2wyTU12NUJ0VXRnQmxMZ20zWUVkUFYzSnZFNlh0WlhIX2JFZnpKT2JrS20wVjVEaVNPdzBYVVVN?oc=5
-- **Source:** Insider Monkey
-- **Published:** 2026-10-04T02:35:34+00:00
-
-## How Much Revenue Visibility Does Microsoft’s Backlog Really Provide? - Yahoo Finance
-
-- **URL:** https://news.google.com/rss/articles/CBMipgFBVV95cUxQd1VPVXFkbmd6cmNtVjRmMW1la2F1NXJxTFRhd1JtVFMxTFU4RWFYYnhDUlV2bjd1N0hfZXpvay1XaTRldWhFVWZuc2t4YUd0OE92UGp3dy1xS2xIUHFfRzRkOUtuLV9BWjlMcURhNkppZDlQZXV1d2JmcUgwWTFtUm84c3ZkeXFvOGwtUUJGeXFDaXFYNDcycS0yeHg4U19taTNiSm5n?oc=5
-- **Source:** Yahoo Finance
-- **Published:** 2026-10-04T02:35:00+00:00
-
-## Windows 11 26H2 introduces new features - news.thewindowsclub.com
-
-- **URL:** https://news.google.com/rss/articles/CBMihgFBVV95cUxNbXZZellSRFhiZ3NxSE80UzdLTG5sc2FHYlZXZzZFQ3VTWW94VTJ0aTdVTzdvb0VoUjNDREdJQjV6amdzczNqdVAtaHFXNWdnNkhWSlYwYTVSRUJPQVhERFc2UTl6WVZ1SFlsRFoySVJXNm41N2FOSlROWTdFcjBhOEZMWTI5Zw?oc=5
-- **Source:** news.thewindowsclub.com
-- **Published:** 2026-10-04T02:33:27+00:00
-
-## Microsoft Stock And Secure Cloud Names In The US National Security Trade - simplywall.st
-
-- **URL:** https://news.google.com/rss/articles/CBMixwFBVV95cUxOVWFSTkpjSEhpS21oeEQwc2U3OFRMMXhMQkRRMUhlaE85MzRlZnRiQjBER2lZM1g0UG9jc2FuZ0FHQ0QycTNnN1BrUlJzdkxPVm81Mm1CUWhRTC1PcVNsaG8yUmxhemlVNjY1VUNieVZSNmFmR3VIbkxxczhrRkp0UWlLU2RvazNEdDFYUDA4Qy16bjEwYmIzN051UUx2bEp6Y1VxeTVSbG1WZWllaXZrZHFtT01hY0MxLVlwMUlVbDl4YXNQYkFn0gHMAUFVX3lxTE9tY2Z1WHBGQU5xQjRreDVsM1R4S3czbm02a0FzbGpnRWZ1ak54N3cyZE1lS09iM0c4TzZIV2xucEViSFIzUFNQTF94c0NHWERfeDdzbnRhSjFzRFUyX1VnZjdPU3N5djZJT3F3ZGoydTR4dlRKUjFfUC1SOVczR1pCRXV2cFJyM3pGUEg4blUtZ2dBTWc1ZVRpOWluVU42WTdYYXBhby1UX3R4WWVJZUpHS2dCLWN1MDlBZnlCZFhldEdRc3A0cmhIaFFxdw?oc=5
-- **Source:** simplywall.st
-- **Published:** 2026-10-04T02:31:13+00:00
-
-## Intro Video Maker - تنزيل وتثبيت على Windows - Microsoft
-
-- **URL:** https://news.google.com/rss/articles/CBMickFVX3lxTFAyWU1ZRTREN3cxSUFRMFJZMmVvWndoV2dWYkd1WnpvbEFTaV9hczRhTUJpcDJwbUt3MHVwQXgwSkFManlnazFES01GN2JzWVI2NG1WNF9ETW1pdXJRcTR6ckhuUEN0dWxSaEhScG1FVW1mQQ?oc=5
-- **Source:** Microsoft
-- **Published:** 2026-10-04T01:25:07+00:00
-
-## Microsoft’s Bill Gates Says AI Could Be ‘Most Dangerous Thing’ Humans Have Ever Faced, Warns Regulation Is Lagging - stocktwits.com
-
-- **URL:** https://news.google.com/rss/articles/CBMihgJBVV95cUxOTFVKMG0xSk9KXy1ybGZ1cjllaXMtTG83bHNPdkZaNkZ0RGhVQzlPb1JLX3g4a1VvY29IWC1JNFFiSHhGcmhmTFJqNmU1VjRkWDNTYjZfcHotOGFsSVVFVWo0WTYzYmxQYWlBMk81dFBTaXJ4VEFGVUN3NEV0V2lrNHoxUm1yak5wLWVtZDdXRWJDY2dUOXlPXzhYZXhnQ1ZIYWdqSWcxa2hmcUxWNUYxVno2Vkh4dm5jazc1clBWZC1CQUVCRFVuOURtNXRkV1FybDZHeGdsbmN1YXVDMWNtQTYwX3dpbm1meWppa0ZKTUYwSElVSTctYVUyRjU2QVp0dURfa3J3?oc=5
-- **Source:** stocktwits.com
-- **Published:** 2026-10-04T01:22:30+00:00

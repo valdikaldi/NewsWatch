@@ -1,8 +1,14 @@
 # NewsWatch — fusion energy News
 
-_Last updated: 2026-10-04T20:56:59.486475+00:00 · 50 articles_
+_Last updated: 2026-10-05T00:29:02.930154+00:00 · 50 articles_
 
 ---
+
+## Steel Pulse Performing at Mateel Community Center on Tuesday - Redheaded Blackbelt
+
+- **URL:** https://news.google.com/rss/articles/CBMilwFBVV95cUxNSzhqcndqRnhlb2VtemVYRmRDUTNvZU4wT1VwalN6SG9Qd0c1ZVFybkdZWWt2Y0NyclNFZDVLc1VidjJrY1hQWXFGUUxYTWNxY0h5eFBQbkl5R1o0dUxDbENHYURTVVJnOXhJcFQtX3NuNmJtRnFqbnk4d1h6eVlUODk1b0FHMVh5ckd1Mlk3c3RKV2NLdThr?oc=5
+- **Source:** Redheaded Blackbelt
+- **Published:** 2026-10-05T00:00:00+00:00
 
 ## Magnetic Sector Mass Spectrometers Market To 2035: Semiconductor and Isotope Demand Fuels Expansion - News and Statistics - IndexBox
 
@@ -297,9 +303,3 @@ _Last updated: 2026-10-04T20:56:59.486475+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMitAFBVV95cUxPdHUwUWFWZEU2TG9kX01rd1R2U0RkTldpdXFUakNyVWhSbnc5Q1BteTcyUk1XZDFFYS15cEtPd2w1TFBsaU1YTzFmZ09NaXN6dmtXUXE5MG5tRy1laGJyS05td3Z0ZThJcnpwU2I3Wlp0NktrbERMU0JuOW5mUWljMXdJNVFUZnlDbVRyMnVIZ0oxbDRSVzdyVUJvS0tTNnlLS01sMG1oSmg4ZjlCencwSFY1Y0s?oc=5
 - **Source:** Nikkei Asia
 - **Published:** 2026-10-02T15:22:00+00:00
-
-## Aluminum Powder Spherical Market To 2035: 6-9% CAGR as Additive Manufacturing Accelerates - News and Statistics - IndexBox
-
-- **URL:** https://news.google.com/rss/articles/CBMiwwFBVV95cUxNelNLMkpPYUV1MG5Zc2sxdWMyY2I5dkFqTkVoTTduQ1F0MzV1clJrMjhzWVk1VUdRRGpxZnRpQWEzTGE5aHhEaXBjSXBtX0NIdWpwRE02V3J4Y2wwSnNBU3o2SGlBbmFNWlM5Q2pid1VsODQtV2RCX1VWVEJ0TEp6Mm9wTTBMTzE2d1JWei1USExvVlgyanlTZ3FwZ19lbFZhTWJVQk1KRk5KQlBlOUhScVFfYkU5cXBZeS1TTE1xMk1kelU?oc=5
-- **Source:** IndexBox
-- **Published:** 2026-10-02T14:56:04+00:00
