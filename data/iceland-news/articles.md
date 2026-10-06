@@ -1,305 +1,305 @@
 # NewsWatch — Iceland News
 
-_Last updated: 2026-10-06T11:03:35.200727+00:00 · 50 articles_
+_Last updated: 2026-10-06T18:01:20.525215+00:00 · 50 articles_
 
 ---
 
-## Rubio: US, Iceland to boost military cooperation - Breakingthenews.net
+## Strongly oppose planned police merger - Iceland Monitor
 
-- **URL:** https://news.google.com/rss/articles/CBMilwFBVV95cUxNWGlUb3g4eElRWUhLeFRrWktJLUlYb3pTQnBJX1ZVUXNtZGIteDhUOVF2UzJ4dGxEbkFIeXdKUWNYVC1kdjlFLXNSZUZ3UndLZ1RhOU4wTHg5S0ZiMDlTZGZ5eGMwYzJPWGkzeUJNQkRTQWVuUVBLdXhDT1hRRC1yNVBqSHNHM1I3aGdLV3pCajc3TG1QRGsw?oc=5
-- **Source:** Breakingthenews.net
-- **Published:** 2026-10-06T10:57:00+00:00
+- **URL:** https://news.google.com/rss/articles/CBMiqAFBVV95cUxQakQxSXd3VHE1a0ZrLTNfV0Z1NzJQUUU5Mm56WXhMdnl3TERmaWFETHprblAwcVh0elpSdjRPNVd0bmxXT1I4OHIyWXd1VXVqVEpYQTkzYlM2SlZQQTNaTmlCenQzWnRjLUkxS0phbWJIczZJbG5keWxBMVdickY5OWYtd0piNDJqZFhWMmJ5STNuZjNlU3lSSTk4dXltWHVNZ2dRSmlaajU?oc=5
+- **Source:** Iceland Monitor
+- **Published:** 2026-10-06T17:55:00+00:00
 
-## Rubio says US open to closer military ties with Iceland - marketscreener.com
+## Rubio says U.S. wants to strengthen ties with Iceland - NBC News
 
-- **URL:** https://news.google.com/rss/articles/CBMirAFBVV95cUxPTFBnQ3pHZlZEcUJabGV5YldpdTluRU1CaHV2WmJiN2RmS1p5ZWVsZUtUeHNrUjNTSFcyRi1OOGlxM2U0bktDUVpBZW1Iazh6RE9YRk5nMTNrTVZ1bUVpS3hoZUFxd01tMTFaN1MzM1NwOUR1bW53RDFmN1k1M3BzaUk4dG4zMnFCNEJxZWxIOTcwa184d3ZlNVp4SEVMaWlSZ0U0NHZQdG5MaVdP?oc=5
-- **Source:** marketscreener.com
-- **Published:** 2026-10-06T10:52:01+00:00
+- **URL:** https://news.google.com/rss/articles/CBMipAFBVV95cUxNUG5BbkFQY0l3a3BITEVSeFM0dTlhcWxWS0VGMlZ2MlQ5S25SazhfRnl1TXZ2d3dHczNiRFVkOXk5MGczNlNSZ3BReUQ0UEMtaXhFd2VSdW1JOTlQRmlNdk82WThJT2JyU1BDa3MzNy1OejFvRjM0eEFhb2pWN1ZMODFhdmpPX2RDQXlMTEpaNF95bUphalBhVlFJZHNtaVd6NGNiVw?oc=5
+- **Source:** NBC News
+- **Published:** 2026-10-06T17:51:17+00:00
 
-## WATCH LIVE: Rubio holds press conference with Icelandic Prime Minister Kristrún Mjöll Frostadóttir - Fox News
+## Exclusive: Iceland Eyes India Clean Energy Partnership - StratNews Global
 
-- **URL:** https://news.google.com/rss/articles/CBMiVkFVX3lxTE1uUFVvcHlmZmMwZmtBcG1FVWFBVVpXLUJwd1k0cEI2dllhRklVcHR3R1FNMGZTTU9UTXFqTXNUZnVQUXg5aGtEOWlabmlLV3N1RXZTcTVn?oc=5
-- **Source:** Fox News
-- **Published:** 2026-10-06T10:50:53+00:00
+- **URL:** https://news.google.com/rss/articles/CBMingFBVV95cUxPNVBtVUJiUlFOa05NYTFsLTlYRzBmMDA2elJxNGRXS3Ewd2NaUTVBMTZwWi1GSXo2VVNpUXl2TUJPb2NaNmp2bjdGOGMybEdSQ0dWaXZrcDhScTBGMHhsRXVwa201dUVTaEstOU4wQ2d0RkZZelNBSG9TUWdIWWdQeF9DczgzX0RjTl9wYS1UR05NVThLLXpBdUg0MDlmUQ?oc=5
+- **Source:** StratNews Global
+- **Published:** 2026-10-06T17:23:01+00:00
 
-## Rubio says Iceland key to regional security as threats grow - marketscreener.com
+## U.S. Looks to Iceland as It Expands Military Footprint in Arctic - WSJ
 
-- **URL:** https://news.google.com/rss/articles/CBMisgFBVV95cUxNeDZZTXR5QTY4QjBGdTFQU1RjNU8xN1JyWEczX2tScUdvSzdXak1NQVh4V2YzQ0dxLS1BSDhkbjVBYnNPRkp3ekIxamZZOUVJMEpLd0lZclhTRlNVU0R1NEtJalhOSHJNcktNYmpRX3hkRHBkUVhyR2JpbUp4SEFqUzhkUHNoTk96TDEwakZIOTFFWVkxNjRLbU1zRzJjRXRPNGg4c1p5Q1FnU0NnUzlyVE1R?oc=5
-- **Source:** marketscreener.com
-- **Published:** 2026-10-06T10:45:57+00:00
+- **URL:** https://news.google.com/rss/articles/CBMinwFBVV95cUxOcTQxNGhRaFkxZ0JlZ19vZGpoZnpUUHhpLVNNVmd5UVJsX3FSYjZicmdUZnBGay1iZ2F5N2RXbVVIX015WTk3Y3p6TGU5V2FxOUNfbjJraS1yemlHT1FUNXg5bWdqOHVfTzRXUlo4cXkxUy1OaTlfMjM2UGpoX1VhZTJFSUI2eWNoSl9YTUZ6NEdrVHlDU3N6dmxFZ3ZGSnc?oc=5
+- **Source:** WSJ
+- **Published:** 2026-10-06T16:51:00+00:00
 
-## US Iceland Rubio - chronicleonline.com
+## Inside Millie Bobby Brown, Jake Bongiovi's Iceland Trip After Welcoming Baby No. 2 - E! News
 
-- **URL:** https://news.google.com/rss/articles/CBMiqwFBVV95cUxOeGdPMTFIcUlZLWlnSWctQlY1RjdFNDFTNk5EdVdFWHFTbEc2UnUxellaT0N3N2Y3MUwzM1FIczZsczJtR18zM3U5dUNMcTJJRjhobnJjMXBrRGVtSTlkLW0wRnpfTHVKZnlxNkNJcU1JMDE5NE9WQnRlbkFiZTd3ZVlOMWZvYTR3ZGFFVS15SkRQTnJ1Q002SjZsNE9LTi04b0cwaFFlbXY5Vnc?oc=5
-- **Source:** chronicleonline.com
-- **Published:** 2026-10-06T10:43:33+00:00
+- **URL:** https://news.google.com/rss/articles/CBMirgFBVV95cUxQc3dUQ1k2MmxTUTJRNWRITHhDUUdIak5YcDU3VXppZ1pqa0MxaVFfOGppZmhTMVNXa3ZqTlExZHRvVjlxZ2gyWEhrUUZJXzN4NkhHaXdlTzQtQzhBRkctSGVya0JOblF0QkJZTl9nMnZyY3ZUbC1ZbXlSSDZKSTVkczh4dTBTR1UtUUlQd2xXU2g0dEZvY3R5cjQ1ZHpucjdfdVZETHd4MjZUYVpZRkE?oc=5
+- **Source:** E! News
+- **Published:** 2026-10-06T16:51:00+00:00
 
-## Imagine Peace Tower to Be Lit for 20th Annual Ceremony - Iceland Review
+## Iceland ‘critical outpost’ for security, says US’ Rubio during visit - The Straits Times
 
-- **URL:** https://news.google.com/rss/articles/CBMilwFBVV95cUxPd2xtQ0hka1oyd2JJbDlWOWlHc2tSMV9kNEMxajFrX1VRZ19MeHQxblUyVUJrUm9vamNybWZzMzBiNm9hMEx2UlFWcUtEcWliX1NINkdhUVBJU0JEekpELVI5MTlISzA4YjN0WlRoSVJNWjNORHRQam9ES0pIUDR4MUhWTy1TeHVRb1p0YlhEcy1zSFlfZXdR?oc=5
-- **Source:** Iceland Review
-- **Published:** 2026-10-06T10:30:35+00:00
+- **URL:** https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSURxU3FDV3FuVGpKNkJpMkttd21lNkdHRzMyblZnakd3VE9LSDl0NmM2UGZoZ1BUYm9EX3gtMktDamxPM1N5NzNwREtZa3BFQUlYbGVodnIyYmY4aVFIdEJYWjc5c2tZUEUxZTVqYTdLalRjbEY3YUVOcHpKTUk1b3kwd0pqQnJwenRiRUl2S2dCSEZmdHdtcVpxdmtSSTl3YjFhMzF0WVV4UQ?oc=5
+- **Source:** The Straits Times
+- **Published:** 2026-10-06T16:26:00+00:00
 
-## US Iceland Rubio - The Herald Journal
+## 'Threats growing…': Rubio calls Iceland ‘vital’ to Arctic security as US counters Russian influence - The Economic Times
 
-- **URL:** https://news.google.com/rss/articles/CBMimAFBVV95cUxOaTctYWxabWJYZlczVkQ5dklrZHVkNXVjX1NGZlBXaGxXVk5XZFN4WDdoSGRwOU1qd1FBQkFVUGlYUGtlQTRETERiTDJQTXZ6RE9aVVFBUjdfSTlQa1YtY3hTRVJKUEVmOU9DSWNRaUl6N19ybHZqNU1zekR6YTEtZ3BhVzVSOVhOQm9hS3c1Z0ZuRnZ2bUR3Rw?oc=5
-- **Source:** The Herald Journal
-- **Published:** 2026-10-06T10:21:49+00:00
+- **URL:** https://news.google.com/rss/articles/CBMihgJBVV95cUxNX3ZMSnpRTjEtRThfMFpxaG52Q21jRzVvUmVTUXRVQVozOVpTUkphQjBJMEdaRUQ5Q2RYVW13XzkxVHFrREdMaFJTRW05c09keG1XV3Y1MmMwdzg1TGRfVDg5dzdkNlYzTjVNUm1mNGFRcUNnLTQwR2gtSEhTTHo2dHZpV0VUSWR6Z1BsSG5pNDBIMy1Kdm9iUVJUT3hHMzZPZjBVWHFpdkhWQWNCdk9QYWdVa3YyNU11Wnk1N2JBb21kX1JMZThkVjRyMlRMT0kzS1JSanpXNGktWExxUkxpLWxRdlVqRnhGZEx0SVBQNnpuTmVqdnUwVmhnaGM3X2JBaTBsMGlB0gGLAkFVX3lxTE1ZT0pIVy03ajQ2TU1aZ0tpSkZ3a1U1b25lbmc2eXdneXVsYTA0eWpnN2w5MllPVWhvdXVWMlhmc0xQR0M3VHFYWXExVU5JUTlodkxIVnNkT2V5M0hEYnVBWGdZWTZQMllCcm9ra0tld2Y5eHRqR3UxSGFKSE9zdFl3R09JQko4elRFVmlKQ3ZLQ0lUbWlHZGVsaUhiWUFKSVB6Qkc1VHFtdVhHZ2ptcTR4bk9sRmhVTnppdGdGWjlyaE5ZTVVfc3dGYVVLa2tjc3U1STJrWFlCUDkwZFU0bU5weXBpVGdZaDlsZ1hBNm5LZmpoZGxNdDVtelpHMWd6OUNadkdoNEhSZ3R1WQ?oc=5
+- **Source:** The Economic Times
+- **Published:** 2026-10-06T15:37:43+00:00
 
-## Skytree secures €1m Dutch development loan for Iceland DAC project - gasworld
+## Rubio says no US military buildup in Iceland without Reykjavík’s consent - Arctic Today
 
-- **URL:** https://news.google.com/rss/articles/CBMitAFBVV95cUxPLU9neVdPNWZpQkZ4azJuc0hJWnV1X3hwZGxoSXZTWFpYRGxuNHpaVk9ibldFR1pDdV9sNFlITEdPeUU0RThKVVZFVWplZ3BpMC0xSnlTZ3dkcE91MF82alpydjUxUGpZOHQ1dl8xQXk3ZkpMbC02ZUFDSVhhZzItYU4xZXNKXzRDdTE0bVRWaGg5cW1XenhFY0lkOHYybWZuTzNjLUVabFVnMndyYWFQSXVTUTk?oc=5
-- **Source:** gasworld
-- **Published:** 2026-10-06T10:20:36+00:00
+- **URL:** https://news.google.com/rss/articles/CBMiogFBVV95cUxOaHlRNlJnWkxlNmRMdDVSY1dud3piWHd5Mm1JUy1QWEJ2Y1hZUWo0Y1RhQWhHRFJPZjdGYndWOWFFa0VkX1ZHVXppWGVsYXNldDlBT1l3M2l4MGh0NC1IWlFnMXcwVThjNlNKTDFrWmdkNHVva0hFeVdQZ2tQZTljbmFVR1VaaEZ3QVAtVi1PbUJNdFNqV1ZWNU9ZQW5kWGc4RXc?oc=5
+- **Source:** Arctic Today
+- **Published:** 2026-10-06T15:37:04+00:00
 
-## US Iceland Rubio - WV News
+## Iceland is a good friend of the United States,” Marco Rubio visiting Iceland after US -Denmark-Greenland deal - Arctic Portal
 
-- **URL:** https://news.google.com/rss/articles/CBMioAFBVV95cUxNVGdPMEl2d083VzVQaTI0cGFUTUxtN1lsVy1MdWpDbHNFUXVkUGd1ZG5ZNlplNS0weTFVbktaM051bGZQaUsyM3NQdEF6TXQyZmNuUk1XaWVLQl83VkVSbXNVbjYwV1hpaWp0Vm8xZ0JlM3EwMXpDSEZtSnZNS192UWNQdTNBdnpTN3Zoa18yNmRsX05QRjdOVVdmRUpuSVM3?oc=5
-- **Source:** WV News
-- **Published:** 2026-10-06T10:13:09+00:00
+- **URL:** https://news.google.com/rss/articles/CBMi5wFBVV95cUxNbXZDM1ZaYmt2UzMzaE53T0JhTFJmRDVfMnBZVDdnWjl6V0s0NjBTVGxpN09rVWZGWlVncFQ5ZHNXTnZWMG51b1J1bkRmQ3FUYUliWFZCTGk3dmNnOEo0QmdtMTExTm4tci1uMVFaYmVxTDdUZ1NKMHBjdHhqT1QxaFFPU3owQlh4Z0tKbURQaGQ1SHdIZ19LV2J5ZEdaSHpaS3ZxRmNwRGh3NGd3QjFSQWFqUG5OTWlEdXhFa2UzRGliM2lRQjlKSzl1dndySFcyTkxyNjdTek5va2J5SU9fY2xYb2pMVWs?oc=5
+- **Source:** Arctic Portal
+- **Published:** 2026-10-06T15:32:23+00:00
 
-## US Iceland Rubio - GazetteXtra
+## Flying to Europe? This Airline Perk Can Turn One Vacation Into Two - guampdn.com
 
-- **URL:** https://news.google.com/rss/articles/CBMirwFBVV95cUxPb2RMakV1eHlRZ3E1elNUbjRSZTFvdGZpaGNXb1c4c3Ntb0JSTWVsUXQyUksyVXBLS3RteGRNX2pBblFDQ0YyRjlrQmsydjJjQ25FbzB6NjRLR2FUUWVWckVFZUZUODQweFJnLVB2UzBnbW1FQlc1eDRlTE9VZmtuRGxVZHNpNEhWTXdJUUxHaWRVTkJTeEJVT0VjZzJfbXhJSDY3TDA2YmdjbnMtc2dB?oc=5
-- **Source:** GazetteXtra
-- **Published:** 2026-10-06T10:13:09+00:00
+- **URL:** https://news.google.com/rss/articles/CBMi6AFBVV95cUxPcGg4Skh5Ui1TeUpJU3NZemszLUNGVERuaE5LU3JsWXR2VnpnLVR5aEhEYkt2ZWlaUTNQTl82cVZ2LWpCNWJuT1hUcnpkc2hkajVNNlFMS2szek1sejFPWmxHejN0VjlCaE9FNjJaQllXOTRla3g3bjRENUdra25YbUZhNGlQWFpReUJXQXRrOWFUZW1TSHY4c1V1cks4VVdnQWlNRU9zT0pMVlpjbGVPeG1sTlFaLTZVWWs0RFExZ3MtcEM4ZDlXcmtfZm9CbFdJdjMtRnMzV21OUHNLQ0VfSzFHMk1FTkxQ?oc=5
+- **Source:** guampdn.com
+- **Published:** 2026-10-06T15:00:00+00:00
 
-## US Iceland Rubio - postregister.com
+## APTOPIX US Iceland Rubio - Goshen News
 
-- **URL:** https://news.google.com/rss/articles/CBMiqwFBVV95cUxORHZuLXdKMmZOTkdtYkhkeDVlY2Z1SmhpdkdZVE91WUJta2xSMTEwd19iY2F3SjFUVFNXcnFrRXpKRENrS3p4TF9SbDZEZGFTRGRwdmdvRHczNTVKWkJmSHR5S21SQ05oWUpGcnpmdkNQc1RxSHdRMTdudERCRU1QUm1hY0plMGxvclowcVhDYjRXNEpTYzhTRF9tUDhKSTFxdUpZRjFSb0ZJWlE?oc=5
-- **Source:** postregister.com
-- **Published:** 2026-10-06T10:13:09+00:00
-
-## US Iceland Rubio - GazetteXtra
-
-- **URL:** https://news.google.com/rss/articles/CBMirwFBVV95cUxQWHQ4bDlPXzhfUjZ4SjgwY1pya09wNEIwbXpSYUljOFlFMUh4TTZjQ2JMMllyMDEyenFnNkVTSzNPZ1NWZ1NUTnlKc3pSOXBzYTRrb092X1pfTW0yZDRxcjY2cjY1aEJlQU9ERTRYV1lPLWZSNkdLZDJmY0pTSkIyQnM4dVUzOXJ0Wml5LXdRQWNmckc0djY2dm1DaWhkZm1xTzhObzV4M2RYMDN5MGpF?oc=5
-- **Source:** GazetteXtra
-- **Published:** 2026-10-06T10:12:52+00:00
-
-## Rubio begins three-nation NATO tour in Iceland, which is wary of Trump’s Arctic intentions - The Seattle Times
-
-- **URL:** https://news.google.com/rss/articles/CBMi4AFBVV95cUxQNkNBWmx1bkVWalh3bXZobm9jTHdEd3duckVqMVhOamZGclFUS2QyaDRwWVQyWEtXQjVmUDc5Y09hdGVPTGxzSEctSGdsNUI4RE9ndWdPTFZ5UjdFTHlzeHZXbUYxVkdMTXZsZTZtblhlRG5BQ1VEMjM3QURoTmNhOHI1THhBbTc1ekZ5UWlPcUhrcmItSy1zOFJVa0JnZDQ4aWZoSXlCc2FJN1dqT1NVNU1kaTFLTjNoRFhkR3ZvZFV5TGdJaEl5dlAtNHNIVjN2cVV5a2UzclpfNDRQX2NZcg?oc=5
-- **Source:** The Seattle Times
-- **Published:** 2026-10-06T10:11:31+00:00
-
-## US Iceland Rubio - Dayton Daily News
-
-- **URL:** https://news.google.com/rss/articles/CBMirgFBVV95cUxNWjBCVDREeFQzbTM0MlZWR19JaDV3V1l0clNqM2l5N3lKMU9WSmprbUNvTWtnTTRqMlYzYWFHeXVFeEp1TG5NaW85MENkazdEcUdiRnplOVZ4OVJUaDdQQ25TUHZRZnc2cXh2Q0VraFNMZEpCc2xUTGF6N3pKRVBLUE9PMFoya3hkeXFRSGI5WkpWdUlIYlBDSmpaMW5tWHdhVjdqN0Q2QTN0WWhReXc?oc=5
-- **Source:** Dayton Daily News
-- **Published:** 2026-10-06T10:10:47+00:00
-
-## Estonia vs Iceland live stream, TV channel and kick-off time | UEFA Nations League C - goal.com
-
-- **URL:** https://news.google.com/rss/articles/CBMipgFBVV95cUxQT3NEbXNKZFU0ellmdXVfcHYwSGlBT0RQbm5LWURYdkFoYXppUUl1MzNXT0s5NllmZGhKa0QwMXE0a1Q5bDdSYmlYWm9ja1RDN2FDQndhdnRrdnZKcDhlNGl5dWNhOHdUUTVpM01LYWtCSy1tVXE1SVBOeFQtN21QZG5rZi15dFdUd3ZSRnB3ZGxFUkoyeUxJUXp3dXk4TFZheThZQVZB?oc=5
-- **Source:** goal.com
-- **Published:** 2026-10-06T10:05:57+00:00
-
-## US Iceland Rubio - GazetteXtra
-
-- **URL:** https://news.google.com/rss/articles/CBMirwFBVV95cUxPdmoyczBGX3VaY1BqUTlGcXVzTDg0X0xobHlYbkhhSE8zSm9vSWs5anNYNTFBVl9GS2YxOWkxQ2xGVnRmUW1FbDQ4eTQ3LU51bVd4UnEwRFRQWVBBQnNCWmV3dVB0VlNaSGFFcUxiRl9kVHNEeGdoZjBzMnI4SmtybkFOZmQ0bjZtY0Jlb3NmTnJQUU5wVjg0dFp4X0JEX3NqQk9nbmNMNDRuWFlHeVBB?oc=5
-- **Source:** GazetteXtra
-- **Published:** 2026-10-06T09:57:37+00:00
-
-## US Iceland Rubio - Goshen News
-
-- **URL:** https://news.google.com/rss/articles/CBMirwFBVV95cUxOZTRGdzl1N2RpcExzanNUVWFvbGM4dXpNOEtMTWtTZ210dmFmbk5zTTJ6UXBUX084N2J6VXAxbVZ3Z0tzSktNTVVSX1pyVHBLeVlRa1RQNGFQbFdVOWQ3bXN5UktOc3Q2ZThHajFfQi05cGpHNExwQmlkMnhjY1pucDJIczNCMU9zOVNmVHAyY3h5b2NKWDYzZjV2MWVkV0l5OUZuUkdmcXMtS0h4R3ZF?oc=5
+- **URL:** https://news.google.com/rss/articles/CBMiugFBVV95cUxOVjlpeDcwN0xxSVhDam5kS3VEOVkwQjlJaGc2V1dwNHo2VjlkaWs1WjJFSHJPdlBTMTJMYkp5SnVLbkgtUFIwODdFek1feWNpZHpQT3BDRHRFQkd0WjU1c2tCa2dET0xpX3JqVjFlZWRob0p4cGh1NDBubGE2NUY4Tzc0ZEpUZ1BFdGVQbFdlLWU2SEhPU3FOV3ZtQV9hVkhKVjB4a1F0Rm5XMDlkbXA5YXBfR1pmOFJDRHc?oc=5
 - **Source:** Goshen News
-- **Published:** 2026-10-06T09:57:37+00:00
+- **Published:** 2026-10-06T14:59:21+00:00
 
-## US Iceland Rubio - Leader-Telegram
+## APTOPIX US Iceland Rubio - Rutland Herald
 
-- **URL:** https://news.google.com/rss/articles/CBMiqAFBVV95cUxOd3NSY1FUX3FISVFJeVlCd2ZIN2t1MVp0TkRPSERGSTU4ZWZsZm1nTVRMLW1KXzBxSWdZbmV6UmNqaVktY2FwZ1VWelBOMi1OVjJNRFRRRjc1dXBUSjhTZ1V0LUlVT3p6UTlSZzZvNWhFZlJ4ck85Q0FrNW1IWU1WYWhuZkl5LVhQOXRfYVF3MWFpd1dDOHR0OU83X3drVDdKSmFuTEI2MzA?oc=5
-- **Source:** Leader-Telegram
-- **Published:** 2026-10-06T09:57:37+00:00
+- **URL:** https://news.google.com/rss/articles/CBMitAFBVV95cUxQNUlGdEgyWllORmJKcGc4OGZ1eHoxSWVuV25fQ0tGWmFUbEM2c1lvY2tyN21pYS12dHNlZ29tY00ybTlBRVd1ZU9vTXk0ekJYZElSTmI1ejQyTVZrN3NudDduaFM2YzJLbmJSRVlmX2tCY2NLYnYyaG40a29zcG03eElOTVBZY1hLcmJoSTdpelBxb0RsTVJnZXdVSlZoYmxfcXlDb3dfaVpzU0t4MVB4Y0dQN0s?oc=5
+- **Source:** Rutland Herald
+- **Published:** 2026-10-06T14:56:32+00:00
 
-## Iceland US Rubio - GazetteXtra
+## Iceland is 'critical outpost' for security, says Rubio during visit - RFI
 
-- **URL:** https://news.google.com/rss/articles/CBMirwFBVV95cUxQcGQwb2x4RDBXdDJDRUpiUmh6TVlFODk4eW04ZnluWlNkSzFWWDdzXzc4VUhyOThZZzZwZzhHRm51NDV6TTdhNVU4UHRBOXpGS0xXWHVUZkVwMEZiVE81a1FidUZnWExCWVVreFRJZndvVlhGWUd0aFBQTGRvWTV6V3Rxb3ZtYms3bkMxZW5FbWJoeS1POTZzVHc1eDNhRGd6NlI1WUtOcXo4b1FNajk4?oc=5
-- **Source:** GazetteXtra
-- **Published:** 2026-10-06T09:48:44+00:00
+- **URL:** https://news.google.com/rss/articles/CBMitAFBVV95cUxOVmJxSzdWU3A3X3JXUXBCQWVwOElGd05neVZ4ZWN4TGtVVV9EUWR4a3Y1LUN5SXlwcU1FOHFwLXF5alhsZy01VHViSmNwV1QxdWQzVVZ5aFJuZ1dlVkRMLWw2MXhVcEk3QnJXQ3h3UXd1VXg4OVQ4cEZKX2VvS0pMa1RzZVdUSVM3TTNDNWpxOTVLOXZHcEhKWmpVcDg5OE1iM3FpUXFCQ2xzX1BkSEUtQWo3eDY?oc=5
+- **Source:** RFI
+- **Published:** 2026-10-06T14:54:59+00:00
 
-## Iceland US Rubio - The Herald Journal
+## Iceland is 'critical outpost' for security, says Rubio during visit - KMVU FOX 26 Medford
 
-- **URL:** https://news.google.com/rss/articles/CBMimAFBVV95cUxQc1NIeWdsSUJEYlpNMlhIMlROM0NNRUpTQnh2Vkt6ZDV5dWNUanFKZDZzQ24wOERnc0kxMGxDZHhQZ1hZcGhDWEJDaVdGeE1MemtvcnV4NVdUTUlka20zT0FxcnIySEhJWnBDZEhMcTBOWXM1Zkt0SGJtek1pZ2NfNmlmMU12VG4xaXNwVUhZZ205X0tiUFRYaQ?oc=5
+- **URL:** https://news.google.com/rss/articles/CBMi7gFBVV95cUxQUTNkYnJZTmNuN0NmQko2T2JNX21xMkJaZkJIZ1dEdDlqQlk0bHdTX3l3NWktVDVCTmhhTmE1REJjVDIxaDFOMm9pWTlIQnJLM3prRHpOV2t5N3UxRHAtTjVQZHFWN0QzT1RnSVBFY0NIMVRXcmZuRENQcVdoaVNNcm53emJfdEoweHBfc21jYWlMb3dWdGp5c1dTVDc1UU1LNEFqbjNOeHJ0dEU4UVJPWllfWTVlMktxQllmWTBUbUh6SjNxb0dHY21ycGtzUzJ3YzdrV0F2emprQ2U2MkxRZ3N6RW8waS04SU56Z01R?oc=5
+- **Source:** KMVU FOX 26 Medford
+- **Published:** 2026-10-06T14:52:31+00:00
+
+## Cold War memories stir Rubio in Iceland as he champions diplomacy and downplays differences - AP News
+
+- **URL:** https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMXNEMzJ4RGJyN0o2cUcxSE9ySl9tRWVQcXZtVXVGZGxGRVBLbHA2Q3BoUDducTJWLVNyckNLWnNtOWxwWFA4R2FrLTBiZUJsQy1OZm9tdUdlQm9KNEgxMFZxalhqemZBOXRycXhBdXlDUXBTRXlncnd0OHMwRTlWTmRadG9aVlMwMnhPY1hteVZIZGVDWFhXc3l4aF83bHJKb0JiTnkxdlc?oc=5
+- **Source:** AP News
+- **Published:** 2026-10-06T14:45:00+00:00
+
+## APTOPIX US Iceland Rubio - postregister.com
+
+- **URL:** https://news.google.com/rss/articles/CBMitgFBVV95cUxOUkxveXlQa29QVXdLNk1SWlVDQnAtTi1MLTdRVURmX3Z4NUw3OTNOem51TU5JMFA5MkM5Z1A2NGtMOGdvMzdDNTJ2dG9wdmo3cDgzbFB0dXV0U2NHTl9UMTdWZmsxRUt6NDEybmY5WmVlMVZFMXl4ZXQ3UmdfUWdzUk5mbWJrZ1NVR1AzNy1LODBMVTRjX1gzeklQZUR0U2tDU2tXTlJ6elhGa2F5RVBLN2lUQ0JoQQ?oc=5
+- **Source:** postregister.com
+- **Published:** 2026-10-06T14:25:47+00:00
+
+## What does the US want from Iceland? - DW.com
+
+- **URL:** https://news.google.com/rss/articles/CBMie0FVX3lxTFBCd0ZsM2ducGdXd20wRF9wR3AtVS03c2hfWmNlb09SSkFwTkkzSGw1Wi1DcWtQSzZwZmVyWFFoODVkaU9IRXdKNWtFdDMxQldOWExsUklqVWhZVm9YMG9TdEoyT3hJc1dTdGlGWU5zYmxwcDRCakNORC1Taw?oc=5
+- **Source:** DW.com
+- **Published:** 2026-10-06T14:18:01+00:00
+
+## Iceland is ‘critical outpost’ for security, Rubio says during visit - South China Morning Post
+
+- **URL:** https://news.google.com/rss/articles/CBMixAFBVV95cUxNZTFsN2wwOUlIZkNWMFRiV1RlQW5xeFdTa2V5YVk4ajh2MUhQb1JhZDVITDg5Y1RJU2tRdnJhVFRveUdDQzRPN0YzUHFVa1dHbFJMTjRKZm9RYktUeWRudXNRNVFpbEZTT0FpTmlRM1FPV3MxWEZWT1BDX1VUN0l5MWowSFowY3M3UlFrRkdTNVNfSjdpdm5hVWJrTXQwYzNKM3YyQVRfaFZHenJpaFRKTTBJNG95b0FHdEVkUlhaanVtal9J0gHEAUFVX3lxTFB6bmU2VmR5R0NzaG5sUW1tQXM3UkhMbGFuUUUzTjF6dVhzdGlyTjNpN2hNU2pOOUdZSE1RMng5bkdadXNxdVBXNHhLV2l3dmh6UDFPbG05RDY5cjVpWFl4R1pkMVNEcnBCM25QdHBxeUpvckhUa29IUmdtLVRJM0kyRTJ4Z01xcmNlVjhYVTFuLWZ5S0o1QmxZM1R1SWRnbExzcGd4NFBGZGFSZUJ0WHdYVUowUWVvSy1aX2UtYUxTTG1Wd3c?oc=5
+- **Source:** South China Morning Post
+- **Published:** 2026-10-06T14:17:33+00:00
+
+## Estonia vs Iceland Live Stream: How to Watch UEFA Nations League - Fubo
+
+- **URL:** https://news.google.com/rss/articles/CBMirgFBVV95cUxQZS1CZUpsdDFrTU1XWVJSbUt5WDdsckp3NWZwXzBpNF80TEt4U3RJaktybkNiZWVGeWNGSmM1WWtwM1lqNVBWcVg2WDRWd1VDTGZzdjBmSW1uNmhzTnpXd3ctUFRCY1VaVm1yS0NXa0xDVFBaUHhFVG9HX1UzTVZETVZHdTg3MEdTOFIyajBHUUZsQ0dfdFRPa1VUdzNIZ2RSdnYxVDZUUWVuTDNSbGc?oc=5
+- **Source:** Fubo
+- **Published:** 2026-10-06T14:06:47+00:00
+
+## Estonia vs Iceland - Prediction, where to watch, kick-off time and line-ups 06-10-2026 - OneFootball
+
+- **URL:** https://news.google.com/rss/articles/CBMiggFBVV95cUxPVi1vTmp2TEZVbkplMk9iQzFWVDNqVDdZaVRoTVpabFducS1hSjdFenA0WUJxSTdmXzgzeE5DRjJjdTU4WGJrdk1MaU9JNDA0VHpxSXFvcHBrekFIS3BKXzdIUEV0aHdCMjJHVnZfQzlCOGFWczBReXVtU1hRUDF4SzhB?oc=5
+- **Source:** OneFootball
+- **Published:** 2026-10-06T14:05:08+00:00
+
+## Ice Spice Shares Thirst Traps From Iceland Trip, Has The Internet Turning Into Munches - 103weup.com
+
+- **URL:** https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTEM5ald5QUZ0dTBqLXFKU1k1Tk9yREtnU3NJNlZkR0g5MXQ1RUZtS2xTMXVGYUFYMHNSQmJ5ckFITktYeWY0T284N04tR2RNaHBLT3FYTFIzY0hBZThReXlFRHRlTVA3QllqN3RTV2hyVVJYOTNJYlh6TGlCdnNaNU5vS0lscmVHQjd4SHF1NVh3UWxwcXpfVk8yTzRSSlRoWVlnUDBlNTc2MFhMTENGRHpBakhqeGdI?oc=5
+- **Source:** 103weup.com
+- **Published:** 2026-10-06T14:03:40+00:00
+
+## RAW: ICELAND: RUBIO DEPARTS FOR GREECE - Local3News.com
+
+- **URL:** https://news.google.com/rss/articles/CBMiyAFBVV95cUxOeFF5ejd0RnVSaUJod3ZJQUxsQVpfUGtqUl9jS0pjM2Z3WTZQMEVCWFhVU2VpSHhNT3ltd1VxSGMyaFVSOWsxZnBSbktDS0J6LXNZdUdNQUlHQnNZUUl1aDFfYXJZME5sS2U0ZldFUUZaMERKUGI3Q2ZlYndRWWo0YTltSlFCN0I5Q0lQWTRzQk4tV29LREhpT0ZvZDk3a081S1NUUlpaWGVhVW1kcVN6T3paWXVnQ3g0X3YwZl93anRBYkVqM2U5Mg?oc=5
+- **Source:** Local3News.com
+- **Published:** 2026-10-06T14:03:33+00:00
+
+## How to watch Estonia vs Iceland: Free Streams & TV Channels for Nations League 2026/27 - TechRadar
+
+- **URL:** https://news.google.com/rss/articles/CBMimgFBVV95cUxPRDZjXzRGVk00b19mSU44SjZTNHA2RnFpb2Fhb2ZSS0p0S3NwMWtvaDJ0Z0FMS29JVG9yX3ptMTQ3b0pWaW9mRFBHZ0xoTlFjQU16Mm4zNl9KZHFwZVhFWmQ2V2h4LWJBY1N3cWVZUUtTRXpqWUNNcFZndDg3dklVNXUyYVZ3OFZRZmlRV0RTaDQtN0hmRUhtZEVn?oc=5
+- **Source:** TechRadar
+- **Published:** 2026-10-06T14:00:00+00:00
+
+## APTOPIX US Iceland Rubio - The Herald Journal
+
+- **URL:** https://news.google.com/rss/articles/CBMipAFBVV95cUxOWnFYYmYzUTdtWjlxUDNhajdTRWhNMThqejFSa3RnNDZXV0RSVzBpOXI4alNsamtVeUVBelhxZTdTUXVZNFhLZ1dGc3hBZ2RGN2dNQTVwUU92blJRd2xaSWJXUW85YmhLNDJoMXZMNDFNOFFKYjNiOXUwUHVkcko1UVRIa0RtNUZsWXU3VE04Mzc1Uk1nT1dXYXFKXzFwMjhsSFNmQQ?oc=5
 - **Source:** The Herald Journal
-- **Published:** 2026-10-06T09:48:44+00:00
+- **Published:** 2026-10-06T13:57:29+00:00
 
-## Iceland US Rubio - Leader-Telegram
+## Secretary of State Rubio assures Iceland that the US has no claims to it — PBS NewsHour - UA.NEWS
 
-- **URL:** https://news.google.com/rss/articles/CBMiswFBVV95cUxQVFJWWTVmMGYxUm1OLVZ1Ti01aHVpaVE2M2NvX21WNV9LSVNLRTZJdHdjSi05eEJhemZrNVhFS1M3dE5Ocjh5WjgyNDZSN1hrOERlaElhMjktN3l4cmVBMXNsaG4wQ0FhNzlqbUMyYmtaRXNIR0lCX25ZQWpHSHFPNUZrYUxIMVVEVF96NWw5eWtkaFc5WnprdlNaTnRvZ1NmOHlsb3NrUWRKODQ3cTlZTXR0MA?oc=5
-- **Source:** Leader-Telegram
-- **Published:** 2026-10-06T09:48:44+00:00
+- **URL:** https://news.google.com/rss/articles/CBMirwFBVV95cUxOUUc4bkFnUzYtRlhvcmNENDF5TUM4SGY4ZlJPLWJuWXdvenpSczZUS1h1NGtocW9OT3Q0WENvWktwZ0xzYTZaQVJqTUROQ2ZPcUFFSG56UnhTVUtCb0pWMlhZNHN2eXVSb05Ea3FTaERDbGVlY2w1VHRZV0piVzl4RVBiODF0YXBZRm4zX2ljMW9ETGYwSEkzR1FXVW10eC1TRkFmbEV3Vzk0RVJudHQ4?oc=5
+- **Source:** UA.NEWS
+- **Published:** 2026-10-06T13:53:55+00:00
+
+## Rubio describes strategic value of Iceland - The Detroit News
+
+- **URL:** https://news.google.com/rss/articles/CBMi0AFBVV95cUxQTm05eVJoczU2Y3U2clBaSkZ2Qy1sVVNvSzhBZ080QjhpbHpwc0JmUGlVZGNJMW1ZSnRnN1dJbzVFMU16QTVQMkZET3QwVHpTX0NhbnM2Tk5QdkJUWDlBXzJsUWFRY2IxQzBFbWw0dnIzOGc3dGhBcjBRenBLVTNfMFhNT0l5aGJJT1pwOEI4dTdEWGtob1lvcnE3YllKME1OT3BLMTVRRzZYaGxPNzJ3eWZ1X1hld2h1U0laYndSaVQ3d1FKUGh1YkFOTWgzVTEx?oc=5
+- **Source:** The Detroit News
+- **Published:** 2026-10-06T13:45:15+00:00
 
 ## US Iceland Rubio - The Herald Journal
 
-- **URL:** https://news.google.com/rss/articles/CBMimgFBVV95cUxQUE5vcm5rR2VUQXdEVHZUYnA1ZWJuejFBV1ZEeFZHQjg3RnVSd2hXUDlDSU9obE53TDFQbnl5N2llOXMtWVNHYTdULTV2SklxTjluNGRIMFdSVkhabXBfYVNoZnRkVjZoS3VKS1g2TU5QbkJiVHAxZlNQYjZUQ3lKaGs4U2xIZV9xaElWRkgtSXl6dG80N29zUzVB?oc=5
+- **URL:** https://news.google.com/rss/articles/CBMimAFBVV95cUxPY1pXUXREV0RrajJ3ZU96b2xzM20wanNsSW9mUXl3VHVnUUFoRDFmUk9XS2ZIbVRSZXl6RURrLWU0VVZaeXZXcDBTcWpZTS1yamwyd3RleGRZSDB2VmgycGlTQUptb0ExWmdYWVFXOU4tRTg5MHBNdlNIelRET0FBZUoyb0RsQ3YtcnNieVp1N3lISk1tWVFaRA?oc=5
 - **Source:** The Herald Journal
-- **Published:** 2026-10-06T09:41:18+00:00
-
-## US Iceland Rubio - postregister.com
-
-- **URL:** https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSkMtWEcwM2J4aDQ1dU9WN1FtWTV1OGV0LXl6cV9RQWJuTHlnZWRSMzUtaGthSG51Zl9DNEdfOHdCWGFhc1BVeEFoY19DZ0o2Mm84R29pMlN1Tm0zM09YSThrdmNHVU8wMjNPMFI5b0h2N3RPSm9pck5HYnE1QUFWdHF0TjNjalNmN2lvZ0xCRXhvcmdabzB1anVidnpXMDMzM3BaN2JvbGFLWkE?oc=5
-- **Source:** postregister.com
-- **Published:** 2026-10-06T09:41:18+00:00
-
-## US Iceland Rubio - postregister.com
-
-- **URL:** https://news.google.com/rss/articles/CBMiqwFBVV95cUxPeFNfX2lzSXo4dHprcXNyNkNIQ3gtTTdxZ3R6OTM2U3hYeGdCSVYtbGNlcjZlVGs2OWNpdzB1aElFY291NW1hdVhVTWZGVWljY2RnTVlwVmFKbFdYcWI0cHByMjNqWWRZZ2pLcGYwZTk3VWdvM3NvcnhOcEVCdHVkcEY5S09FZHR6OXNFVGlqSUJSSnVSd09wTDBJRWNKVjBrWnZBZFVyb2Z5SzA?oc=5
-- **Source:** postregister.com
-- **Published:** 2026-10-06T09:41:15+00:00
-
-## Report Calls for Safety Changes at Reykjavík Airport - Iceland Review
-
-- **URL:** https://news.google.com/rss/articles/CBMinwFBVV95cUxQSDFUYnI0RkZGVXVmN0VGaThza0dadllXdGNTeTNMR3haUjVHRzdNYm9ydG5oeGxjVlNqMU9jc2Z6eHZscTBQMFlZQm4xNGI4M014dThTUE1fQTdfZFRET0ZVX25MYlRkX3VmNjFXQWExVnZvRFlBbzlUQW1kUFk2WWtwazVndlhxSVo2cXJRNnlBZnlWS1F4S0xCRUVWdTA?oc=5
-- **Source:** Iceland Review
-- **Published:** 2026-10-06T09:30:51+00:00
+- **Published:** 2026-10-06T13:39:22+00:00
 
 ## US Iceland Rubio - GazetteXtra
 
-- **URL:** https://news.google.com/rss/articles/CBMirwFBVV95cUxNUU1SUUktTHZ4aFdqVlN1a1dxTTNpXy1IbEREQ29Pa2RNVWNTWjBBbl8yRTB4MXVSWm51ZEZlTUpBOUtMNkU3MUhLSHJlS3hSUk14cmVweTQxcG9UX0tWMnRRajRUNExnU0taWlRUVTRaN1EwekFPTS1ZcEtPMy1vRXBGMUlBc3ZibFZ0S0FPQnhBVXNwaDdpOEdqdlBwMEhlQ3k2VlUySGNkNjc0WnRJ?oc=5
+- **URL:** https://news.google.com/rss/articles/CBMirwFBVV95cUxQZU5kU1VabENGYXBReHc2bDdmV1Z1YVlpdngycUhkZm9TWXJTWlotUWp5QTUxc1daVTExWEFmd0t2SEZub21IWWZVdGhxcHlUU01oRVFsUm12Z091VHlIX2ViVGVnS0NSRWgxbVNxUXdKX3ZTQmV0VEJTWi1mNllWQ2R1eUZHM2VzTGM0QjlZWnZxWEFER3p0RWl6WVlmbndRdUJxeDg2MmpKSzRhRjQ0?oc=5
 - **Source:** GazetteXtra
-- **Published:** 2026-10-06T09:25:04+00:00
-
-## US Iceland Rubio - Leader-Telegram
-
-- **URL:** https://news.google.com/rss/articles/CBMiqAFBVV95cUxQam1KWDVNc1lmeDkwMWVYUWx5RVBUa3lxUjhRbW9kRUNPZVhSZFd6MUhpZWxEMnBjdXFrSkxaZmtsQVdORDh3RGZwbHROZDdnSGFrSXVxUW5UMXptYlRsRXVuOXk0SFRHWE9MaWlzTWlXYkpfZHVnX1ZKczJhMUVxODdwZWRLbUdnQ3FEaXJoZzVESXd4UWhmUnhZak8wcUhDOUhtUlJQYnM?oc=5
-- **Source:** Leader-Telegram
-- **Published:** 2026-10-06T09:24:22+00:00
+- **Published:** 2026-10-06T13:39:21+00:00
 
 ## US Iceland Rubio - The Herald Journal
 
-- **URL:** https://news.google.com/rss/articles/CBMimgFBVV95cUxOMWpBbmNOUmJ0VWozWURDZGc1dUpjNXRvQWZXS2RENkNod1lfR3FWcUFvUHhuczVLek1kRjV6UUZNQlB5MlFaeHE1VzEwbTA0YnJRV0FtYXhwYU15OHU5UGVKbkxqMVJvcWpNdElWaDd5V3FQd2J1VWZ5YkRqellEalBZX251UVhGUThBSXN2cko5MjdPaXFwdUh3?oc=5
+- **URL:** https://news.google.com/rss/articles/CBMimAFBVV95cUxNRnRveURDSEdFS2lIS2Q5T2prcUZtMHNxYVF5dERkaEtTR2hUYThmVUNiOF9ZY2JuVzlncHM2NXp6QjVXb0R2OHUwdFdVUDM4WFFfMHhDdGZ5QTExZFpCWnVKRU52T3o3WHMyNlhIZ1lrckxiZXdDMHdnVndQeHJKTGpOS21Ia3M1Sjh5cmZVbzVLRkt6NGdsUg?oc=5
 - **Source:** The Herald Journal
-- **Published:** 2026-10-06T09:24:02+00:00
+- **Published:** 2026-10-06T13:39:21+00:00
 
-## US Iceland Rubio - Leader-Telegram
+## Marco Rubio calls for closer cooperation between the US and Iceland for the security of the North Atlantic and the Arctic - Informat.ro
 
-- **URL:** https://news.google.com/rss/articles/CBMiqAFBVV95cUxNT2lUU2FPczJab2NqLUdfNmhrQi15TTZqeXdZSjJsdGxCeWxuQmQtM2NtX0xPb2Y0Tnl5NEthNnVsOGc3bURUbTRldFR5RVdnSmIzYWhBdHBvU0dIS3o4djI3bXUwekxhYTh2SzNCYjhvbWFMVzRpeEk2TFRSUnQxcGs3TG9qd0gzbjF1S0VZTGRhTkxvNXNiUjVwQlZfd01ZQmhqRHJNM0k?oc=5
-- **Source:** Leader-Telegram
-- **Published:** 2026-10-06T09:23:41+00:00
+- **URL:** https://news.google.com/rss/articles/CBMioAFBVV95cUxOUnpCckVpSnozbzJPZ2o5VFJJNHptOWRDOEdQUHJXQ1pUbG1HLVpwSDZ6WDNRLVp2Qk5DQ1lFaGRlU2lrUF9CNllpYlZwWTJhT1RWM0p2Rkx5eFBoU2VwQXhqSWhrVUxvRHRYWjZHM3RDMDJxZk1Qckp3cW80eDZ1SENwLUdPdlQ2aXR5WElOcW5ZdDlzMUlzTXBkX0Q2dFFo?oc=5
+- **Source:** Informat.ro
+- **Published:** 2026-10-06T13:28:26+00:00
+
+## U.S. Seeks to Expand Military Cooperation with Iceland in the Arctic - teleSUR English
+
+- **URL:** https://news.google.com/rss/articles/CBMioAFBVV95cUxPMW56eTBNQy1wVVdyMmZWMUlKdlZUWmkzRGJrdXl1dkp6TGFEYmhjU3h4dUo3QzEyMnFjbUQ5Um9qMkdlc0RObG5CVjNrZUNuQ3lpcWNsU3F2M1h1VGFpRHB2N3lKZ01DaUpTZ1c5Zi1idXFyVmdxSDZVc1ZKUVlSUXBpU3ZLQ0V2Vm5uVnc1X2tWQVNZN3k2Yi0xbGNweURV?oc=5
+- **Source:** teleSUR English
+- **Published:** 2026-10-06T13:28:25+00:00
+
+## US Iceland Rubio - The Herald Journal
+
+- **URL:** https://news.google.com/rss/articles/CBMimAFBVV95cUxOdTBsVGhPQWRiYkUyU1JOQlo5NUduZjJ1RUF2MGY2d3ZqcEdzM25rM1c1R2VMN0p6ZG5xcF9oUlVuN01HVEpwM1VpOVQwakFKQjhQY0VGWnlKcjdKM2h6RDJKUFlSZkNyLWp0RTFCa2ZkSk9PMU1VbDYtNnZkZTZBRkQzSXVSTWZib0g5Z00yVXE2bVBCemh4dQ?oc=5
+- **Source:** The Herald Journal
+- **Published:** 2026-10-06T13:26:57+00:00
+
+## Cold War memories stir Rubio in Iceland as he champions diplomacy and downplays differences - The Transylvania Times
+
+- **URL:** https://news.google.com/rss/articles/CBMingJBVV95cUxOY2xobkQ4WlItU0pJUmh6bzBLcnZnQzJ4VUZmRzR3bDlUUVVVRXpJWVZEV25oRFZIRTUtc0Z2a1dTMXlLcmZfVnpJdE00bU14Y0FRQUtfNHVWZTUwMDcwUWRzLU9NSXE3U092NDg0UXNIU0tnd2RJU1lucHpPUXlLU0piaEJtRUl6WW85VDdka1VyN2tpYk5URS1RbHBGZHRFcVQwWWVHUXBnTjM3a3RuSWliRHcxeV8zNjRPSU9DN2pMRGVIbDVudWtRUEJnMVJpNEp1T1RsR0I2c3lka19qTm1NSUk2VjB4SndRTDRmMTdoai1aVW1yREZoYXI2eWNiOTVVSHZFdXJ1V2MtaG5lXzd1Ti1FQXp5azZUR0l3?oc=5
+- **Source:** The Transylvania Times
+- **Published:** 2026-10-06T13:26:24+00:00
+
+## RAW: ICELAND: RUBIO TOURS HOFDI HOUSE - Local3News.com
+
+- **URL:** https://news.google.com/rss/articles/CBMixwFBVV95cUxPNC1RZ3JxcDItZFgwRzZwQlA3TVI3Y1ZXYWhPMGhKa3hZUnpMc0JyNDF3eEdxOG14Y1ZzT1JoTGEwVVJwR08zOWlCRjJ4blM5YlJOLTNUVGNBRDdWWlNkS1hzdjctLTNWMkk2RS1lNnFJR1dXTE15S255eU1sUmJIVmY3MlJBc09DNC1ZVDlmOFc0TWNrMzdEYU1zaUdWU1lqVzR0eERZc1JTQmVQUGhGbUZEU2Z5UERUX3J6YXFNbzc1c0duQjYw?oc=5
+- **Source:** Local3News.com
+- **Published:** 2026-10-06T13:19:29+00:00
+
+## Cold War memories stir Rubio in Iceland as he champions diplomacy and downplays differences - Red Bluff Daily News
+
+- **URL:** https://news.google.com/rss/articles/CBMiekFVX3lxTE10Zlk2aUtuM1NBaFpWbUk4N0ZOVE9QRTBzeHZ1UjFyZ0kwQmQtRVZWeGdyUHF4c0dlVFNLVi1INzFLMDJXOEZkVDZmbWxsNDZrdmNoVU1qYVRDWXpKWHpQc3k2cnZNeURHNExkMGhhVXhjZTVtbDFVSGJB?oc=5
+- **Source:** Red Bluff Daily News
+- **Published:** 2026-10-06T13:15:37+00:00
+
+## US Iceland Rubio - The Herald Journal
+
+- **URL:** https://news.google.com/rss/articles/CBMimAFBVV95cUxPcjJHVVBsbmEwaDlSOGtKVjFKLU1KLVRObjRraU9sWEZBYklfV0pucWd1Vzl2RmlFZlR1WXpBdk9SS3JfdE5hdmd0bTl2eDhjVVU3YkRqaHNpQXBTNEE4R1BGa0M3d2p3a0F2VEJYNjM1WU41WlRlYWE0dUo5azVocFhTV0JIUEFFSjJ5Q2x2YVlIYmNBZGpwLQ?oc=5
+- **Source:** The Herald Journal
+- **Published:** 2026-10-06T13:14:25+00:00
+
+## Cold War memories stir Rubio in Iceland as he champions diplomacy and downplays differences - www.timesherald.com
+
+- **URL:** https://news.google.com/rss/articles/CBMickFVX3lxTE1SOHVMbjZ1STA2US1WLUdncnVGbDNDd0c0b2hxNGxCTUVoeWxqZnFQSHVxcGl5NllJellYanlLMUhpMWVFN2hpY05rX195UnZlRmpjZDN3RHNJeXl3bW80dzVjWWd5b1h0Sm5iZjdOT0pEdw?oc=5
+- **Source:** www.timesherald.com
+- **Published:** 2026-10-06T13:12:45+00:00
+
+## Cold War memories stir Rubio in Iceland as he champions diplomacy and downplays differences - Pasadena Star News
+
+- **URL:** https://news.google.com/rss/articles/CBMieEFVX3lxTFBrV3V1ckNodjVFOUU2c3BrZ3U3XzBfNi1FSEdLTHNHbGVaY1h3bnpmdEsySlluOUtDWENUTFlPay1rbmZOTFRaVWQxVHI4eEdPUEEtRDBqdG9HcWx2TGhuZnNnY2JIdGpsM1doS0wwVXBXRzdjZmR4UA?oc=5
+- **Source:** Pasadena Star News
+- **Published:** 2026-10-06T13:12:42+00:00
+
+## 360 Hotel opens in Iceland - Hospitality Interiors
+
+- **URL:** https://news.google.com/rss/articles/CBMiekFVX3lxTFAtNGFyNEZzQ2doaHV6VFNZY2ZpWlZ0eXlYZEd6N3RGLUlTanlsZWJXUEl2c3ZxSFVlUWQ1RTNzdEppS2RJRHdhX3R5bnZWN043T25RV1pnWmdoMHNWQnpIRTU2Q3lvVlotRHBneU1FaGNhZ2JuSkJFdVZR?oc=5
+- **Source:** Hospitality Interiors
+- **Published:** 2026-10-06T13:12:37+00:00
+
+## Cold War memories stir Rubio in Iceland as he champions diplomacy and downplays differences - Reporter-Herald
+
+- **URL:** https://news.google.com/rss/articles/CBMidkFVX3lxTE9hOXdDZDRBVHhGUlZoc1hzdlRtczZVYktOSGdOSDN6enhmT2FLZ0M3Q3FneEMzZ05INUJaZG1LR1FET2QzQVg4UDU5YS03R0dFSUw3T1VsWVZ3cy00QkRBYmlmMHV0UVItMVRScktQb0ZQRTEyYXc?oc=5
+- **Source:** Reporter-Herald
+- **Published:** 2026-10-06T13:11:57+00:00
+
+## Cold War memories stir Rubio in Iceland as he champions diplomacy and downplays differences - The Fort Morgan Times
+
+- **URL:** https://news.google.com/rss/articles/CBMid0FVX3lxTFBXUmJ2MDBTVTEtTWctNk9Uei1rSnZlbmx6bHlMSDM4SFdrdEtmeVpjYjdsZW5QU2VwR01qUUFkU3lObGZiQTBmR3RudG9BbWh0X0NZYWZSWUNGb1l3YUpfTGczMmRfMUMxLVlEM2ZkdFBlZHFwRjVJ?oc=5
+- **Source:** The Fort Morgan Times
+- **Published:** 2026-10-06T13:11:52+00:00
+
+## Cold War memories stir Rubio in Iceland as he champions diplomacy and downplays differences - Troy Record
+
+- **URL:** https://news.google.com/rss/articles/CBMicEFVX3lxTE9UTWViUEFIYkVCSTFQalljWFE0cHFoWDFFSVlvQVRXYmdLTEh3YXRZSjhIeE5hRGJCd3BQbWZHSnhKTThlOGw2TjkxSzBQUEJlNC1Kend6U2toLVo4Y2FiX1cwMG9NR29OTG5jSG0weTQ?oc=5
+- **Source:** Troy Record
+- **Published:** 2026-10-06T13:11:48+00:00
+
+## Cold War memories stir Rubio in Iceland as he champions diplomacy and downplays differences - Press Telegram
+
+- **URL:** https://news.google.com/rss/articles/CBMidEFVX3lxTE1lTmVERS1KdXJsVHF1MkhTcVFDazNzR0MxeTd2M0twTWtqcjdvV3IyQzIyTVlLQ0VMZFI0dFNabTRybms3RVJIOS1IU0RNMTRqNTd1TnJoN0tqU1RnTUpiT1p5cDRNOTNoNHVXX1ZJd2FrWDRm?oc=5
+- **Source:** Press Telegram
+- **Published:** 2026-10-06T13:11:44+00:00
+
+## Cold War memories stir Rubio in Iceland as he champions diplomacy and downplays differences - thereporteronline
+
+- **URL:** https://news.google.com/rss/articles/CBMiekFVX3lxTE1iY01nWlNCdlMtcC1JU0hub2Z5S0pOYksyelZUMVQ5dDlrS05YLXNCTlFHQ0FVN2dqdmpPTFFlZ3dlVGlqLVRPY3M5SlVSR0xQZjlRamVUdWFQSlNjeHZuM1ZaUVZXelZuYmltcmJNeDhuNTV2Rm9ZSlB3?oc=5
+- **Source:** thereporteronline
+- **Published:** 2026-10-06T13:11:39+00:00
+
+## Cold War memories stir Rubio in Iceland as he champions diplomacy and downplays differences - Greeley Tribune
+
+- **URL:** https://news.google.com/rss/articles/CBMidkFVX3lxTE9XWXNFc2tDLUNCaFQwQ3FqRHN2LXFjcS1Pc09FdzFqQ01aclhjVTVQX0RYU00tamF6aW0zb180bElFU3E1YTFtcHFMaUJfSWNaTTNhQk04VGJkNE90TzZwQXFxWV9Ta3MxQktjRDBlMEhXYTNLc1E?oc=5
+- **Source:** Greeley Tribune
+- **Published:** 2026-10-06T13:11:25+00:00
+
+## Cold War memories stir Rubio in Iceland as he champions diplomacy and downplays differences - Sentinel and Enterprise
+
+- **URL:** https://news.google.com/rss/articles/CBMif0FVX3lxTE56aGpqSDZ5SDlDRDJieUxtMnZtT0pINnQxMFZrSHpaOVFQNlRMZ1psRnhnMlFIWmxvQXNyY0VoMjRWQkduSkhYdnR4RHItV3ljVnBvUzlERktMR1ZSR1otQ0lLYVVsRGstNHlYQjFfcVZaWTctdzAydGhTcHJIejg?oc=5
+- **Source:** Sentinel and Enterprise
+- **Published:** 2026-10-06T13:11:15+00:00
+
+## Rubio Seeks Deeper U.S.-Iceland Security Ties - Briefs Finance
+
+- **URL:** https://news.google.com/rss/articles/CBMikgFBVV95cUxNdEo4SXFRc1hPV3UxTnViU211dGtZSnp4OTVnMHNUSnMxWEVfYnJmSUxqWjQ5QUpjM2k1MGFVSnVFU01saEF3S3ZfTGRVa0dLYmE0Nk5QYktMMWdLN3hibEhEdWFxaFRBMUFueDZ6QjM0LUd3alM0S2V1NGhpS0gtN1dxeEVTYnlqazZoX0xTcG1YQQ?oc=5
+- **Source:** Briefs Finance
+- **Published:** 2026-10-06T13:10:00+00:00
 
 ## US Iceland Rubio - GazetteXtra
 
-- **URL:** https://news.google.com/rss/articles/CBMirwFBVV95cUxQdGVKT2VEekdCLWItV1Q2Tm5naThyQ2psZmM1Qk9LQVg4bDg4eEl2XzEyVjBpWEsyNmVuZGNkU3A1RzBLcm5EMTVPYW0teW5zVE9GVVFUNTBFWElUU2tZQjgxdHVRZjRhVzhqZ29iNkRicDZEX3Z6MlQxWEpnM3p4UGFIRDhyejEyQUlJZjE3WklnTXVnQXl2MHItbUN2Zng4Um5Qc0Y1azZGNGhsTWE0?oc=5
+- **URL:** https://news.google.com/rss/articles/CBMirwFBVV95cUxQcmJjLWRmak9sSUlEVkFRekNubkV5ZEdyWVh3VFpoeTlxTlIyYnNXZVBjVzgxbXRrdkNLN3Q5VjNjLUlPcl8yYzlTa3hMVDNrakdDaXh6V2JjYjdyaWMtdk5wdHBid3Z0NzdIb0E2Z2xkTXRjRng3UHpPU1pwaEE4OFF5UjJabTVmLW1XUzl3R1hCS1FNVW1UTjZuOXkzRjR5bHdmRzZmMlctT04wcVFr?oc=5
 - **Source:** GazetteXtra
-- **Published:** 2026-10-06T09:23:14+00:00
+- **Published:** 2026-10-06T13:03:52+00:00
 
-## US Iceland Rubio - Leader-Telegram
+## US Iceland Rubio - GazetteXtra
 
-- **URL:** https://news.google.com/rss/articles/CBMiqAFBVV95cUxPcWVFbjBaNk9hekxMRGpiRHdqeWZaNmRTdGJRRnNSZm1ISktuaHk0RFFSQXkyNlBMSkg1Rk9iZ2dvZGFJR0o3MnN4OEJVdXVDNmJSaDJwUmpXRThjZVdDXzdJRnJPdUNEYjBvSWhMbU5HNzVMaUZLZGJxQy1UekthUFVIRWNDbnF0N1ZRYWw0QWZCdVpTZ1BqM3VuMmxsSkg1azlCd1hMcW0?oc=5
-- **Source:** Leader-Telegram
-- **Published:** 2026-10-06T09:23:14+00:00
+- **URL:** https://news.google.com/rss/articles/CBMirwFBVV95cUxPMlRHTkxKeGpaODlfbFhkazNzZW5ndXhSbGZzSnhSUThPaFdXSnBXSGl3VjZIdmhYdHlBcl9nbmlhRzFxcG41TzM0Nnc4NGtoM2w5OFZ4RWh6Wk1STnNZM0RDV1V5dG16VmFXbUhRMlNQdXlMUmZqQjVsLXhVQzE1NGp2cjI1dXR2YlBuRTRMMU1pZlpNVlA3dUx5dmk3X3JLMmRhZWhpTU1McXM3aUJz?oc=5
+- **Source:** GazetteXtra
+- **Published:** 2026-10-06T13:03:40+00:00
 
-## Icelandair: Record September load factor as passenger numbers to Iceland increase by 7% - TradingView
+## US Iceland Rubio - The Herald Journal
 
-- **URL:** https://news.google.com/rss/articles/CBMi5gFBVV95cUxPZDVwY0doVnRqRkw0WnFOSF8yMWJuQmpDQ0ozTlgtQ2ZyMlNfLVQxYjNKTlQ2RFlMR1BtckNuTDQzZlVJX2k4QTkyNzhJU0Z0VW5YMWNfaHNwZGI1Ukp1cGx3SExWcnk3bENGVUc1X3FzalRTUjFsU0tpLTVoU0llZF83NXhCbzNEcHRUMERKTVI4SF9kOGRIdmVOdFUxTkdXZUQxR283Ti1ZRWcyaU9CUkZQVWM3SU02MDVvX0xFWE9xNXNKUjRFaGJyZzBTN2hySHZaMWhrVGpuWVNEcmNBS2hYcFpidw?oc=5
-- **Source:** TradingView
-- **Published:** 2026-10-06T09:04:00+00:00
-
-## Icelandair (ICEAIR) September Load Factor 84.9%, Yield Up 14% - TradingView
-
-- **URL:** https://news.google.com/rss/articles/CBMiugFBVV95cUxPWW9pN2RPbzMyMzlkY0dIYTF2Yktyc1U1NDlEZmdwVmJURWFUZWtOVWk3WE5pb29UMWhNUWt3LWZndll1eUJBWkU5UkV3YWg0aXhZWTByOVZmR1E3dDJ4VEhqOVJRRi1HUDUxSzZhY0hXRGJBMHF4ZExRZld2dFZvRThHZlVxV3M3aDl6MUFzRUtkdC11VWhtUDhoMjVKS0xLNGQyOXdoV004OTkyLU9IU0lPZGotSS1BZ3c?oc=5
-- **Source:** TradingView
-- **Published:** 2026-10-06T09:04:00+00:00
-
-## WATCH LIVE: Sec Rubio meets with Icelandic Prime Minister Kristrún Mjöll Frostadóttir - Fox News
-
-- **URL:** https://news.google.com/rss/articles/CBMiVkFVX3lxTFBSWTZoS3Q3T2Jnd1FXZjlBcjN6ZVg4YmpwS3ZZd2tBTlR2ZXhSM29PVlNXNTh2NU1pdkZJVWp4OGxNSi1tclpvdXpZWEtLYVl5YW13LVpB?oc=5
-- **Source:** Fox News
-- **Published:** 2026-10-06T09:01:05+00:00
-
-## Estonia vs Iceland: Where to watch, live stream, TV channel and kick-off time | Goal.com US - goal.com
-
-- **URL:** https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTkVjM2dmX0RNTmwzRlBHN3VmMkhfS2hjc2plOUNMTE12SUZlNmlVeDlHMERiWkZzWTRCajJFVXR3TkdUS0NUMDlKVDBRRVZpTmFOMEhIUG9uVnFQXzFJT1kwcEluM3RnaDYzdzNNVHdHN1VlbExTLXlkam5XZEpObjdzdTNfaFVteGdHUnRZS1ljd2pra1RxM1IzWmt5QTE1cW9oT3dTMFA?oc=5
-- **Source:** goal.com
-- **Published:** 2026-10-06T08:19:19+00:00
-
-## Argentina 3-0 Iceland (Jun 9, 2026) Final Score - ESPN
-
-- **URL:** https://news.google.com/rss/articles/CBMiekFVX3lxTE55M2dkN1gtTVJ6U0MxNXFWd2NRWUZpbFVTTTNvNHFjb0dFSHJ3WXk3elJPVzZmVkVJTGpoXzZ1MVVJZjZ0dkdkakdKWUxqQ0VkVVczdTY3QzRYVGlscGlabV9HbkpjWWNTU1lCeDB1OWdmQlZwWi1JckJn?oc=5
-- **Source:** ESPN
-- **Published:** 2026-10-06T08:16:57+00:00
-
-## US Secretary of State Marco Rubio Kicks Off NATO Tour in Iceland Amid Arctic Security Talks - pragativadi.com
-
-- **URL:** https://news.google.com/rss/articles/CBMigwFBVV95cUxQbm9OWjBGUTl5MzdfZm9xOXhETGUtVmxUYmZDZ2pPcHpBcjdqS3A2ekl5em9KcGoyQTBZcHVPRlN1MVVYeTZVbDRrUktwWHpObEhnU1A1MFp4WnZFTEllMUZJR1Y1Nmdid0hUSFFjUm16QkRsaVlVY3NDRGRzVUloSDJDTQ?oc=5
-- **Source:** pragativadi.com
-- **Published:** 2026-10-06T07:55:51+00:00
-
-## Adverse childhood experiences in the European Union, Iceland and Norway: characteristics, consequences and costs - World Health Organization (WHO)
-
-- **URL:** https://news.google.com/rss/articles/CBMihAFBVV95cUxNWHliUzVxS2lwdWZoWFVDOUFkNDl4V2xFV1BEX2taVlhzU1pNR0NkVnJ6ZlhTRDlfelhXMi1RMzJieHU4dFVHNzBtS0pWVFhEdGExMl93cmhya1g3OGRwaTNrS2luVndKMUJ0VWR5VjdyaGg3dUhUOHpvcUl5dXVyTC1YdDc?oc=5
-- **Source:** World Health Organization (WHO)
-- **Published:** 2026-10-06T07:18:47+00:00
-
-## 360 HOTEL IN SOUTH ICELAND OFFERS A NEW KIND OF LUXURY, ROOTED IN ICELANDIC HERITAGE - Breaking Travel News
-
-- **URL:** https://news.google.com/rss/articles/CBMiwAFBVV95cUxQSFZxbjZlY3U4SjRvekZ3a2xDUFhTd3FFMVBwcVBmUFFrNjhRamcxaTZuYmstUldoY3Q4VTRMUlBNWlVwaWJhQWN2WE1QMlJJRjNQRWtTYTRWYU9lSDc3Wl9OSkdfbmJRQ2k2ZEFHVFoyYTYxWlNjSG1odDFVeVZySG5XdHc0LVpWM0NTLUpBV052ZXE1Q1hFT21uUm8xX0xZYUdzeE1NeTl2U2pNS0piX1hvRm92WXJSMERCOGxIMEc?oc=5
-- **Source:** Breaking Travel News
-- **Published:** 2026-10-06T06:59:08+00:00
-
-## Food Brands Now brings Boursin frozen and chilled range to Iceland and The Food Warehouse - Brands Untapped
-
-- **URL:** https://news.google.com/rss/articles/CBMivgFBVV95cUxQS1BJcUtYV3BZNmZoeHNvLVQzaUI1Tjc2ckQxSWllMllEeXRpNHFZWWRQenpCai1QZWJtaDJDaWVZSFhWb2dEeEFVZk1Uam0wMDRJQ0NkdFBwMW1BOEhlTENQNl9nalNYVjhQUlR6VXlPdThGWUFVaVpIQkY0SnlPVnhoMXplQmItX0JFSzg2blREWFBGSTRua1p1MURtcWM4WGRhU3duUElnM1ozV0xFbDNfNTFWOEtCM0dCSC1B?oc=5
-- **Source:** Brands Untapped
-- **Published:** 2026-10-06T06:33:45+00:00
-
-## Rubio Visiting Greece as He Begins Three-Nation NATO Tour, Starting in Iceland Amid Arctic Concerns - The National Herald
-
-- **URL:** https://news.google.com/rss/articles/CBMizgFBVV95cUxQY0JreWVCeVRwTWM3WGNWdExlSVMtUU8zSDJpaFhDeEFNRzF5UjUtMmtlckV0TkY0Y0d5bmUwZmJvVVA0RUFZbDRDaXdnYzNxZElhZVlaMk1aQTNSalNoNWpmMGRiS0UtVFk1U1VPU25vNHBGbnlQMkJRRjRiRVVoUVhTWnQxNlRIVzR1N2htQVpvbXZmV0dKNFpuQjA3dHJkSjkxVkxDNkh2RDlEV1g0MEVub29nWXcyQ1JrXzBqbVZMMVdxemM0d0VidlNQUQ?oc=5
-- **Source:** The National Herald
-- **Published:** 2026-10-06T06:22:50+00:00
-
-## Ice Spice turns up the heat in Iceland as rapper poses in tiny silver bikini - Mundo Deportivo
-
-- **URL:** https://news.google.com/rss/articles/CBMi3gFBVV95cUxNYWVoWGwwMVZudm5HUzBPRi0zYmFIOUlYYmxUVnhhaEtjajI1MURkNUR2V3pqMWhjQWpnZ2V4eXBUZm40VkR6RHROaVFDMXVKZ1d2TTJIejctaDJ2dEdHbEk3N3pudnlERmF0RHh4ZEl4c1BSX3Y3UlFyTWFHSGJrTzctS3RNTTVOSWJyak56Mm1WS0R4ZVFHLXhnY0lHeXlsajR6dlg0S2hNNjJjU1o2cnhVRnJkUHBpTi1BYnJJcHRJa21ScjhaUk9Fei1KUU5UMi1NSXdNaWhsdGVJZlHSAd4BQVVfeXFMTWFlaFhsMDFWbnZuR1MwT0YtM2JhSDlJWGJsVFZ4YWhLY2oyNTFEZDVEdld6ajFoY0FqZ2dleHlwVGZuNFZEekR0TmlRQzF1SmdXdk0ySHo3LWgydnRHR2xJNzd6bnZ5REZhdER4eGRJeHNQUl92N1JRck1hR0hia083LUt0TU01TklicmpOejJtVktEeGVRRy14Z2NJR3l5bGo0enZYNEtoTTYyY1NaNnJ4VUZyZFBwaU4tQWJySXB0SWttUnI4WlJPRXotSlFOVDItTUl3TWlobHRlSWZR?oc=5
-- **Source:** Mundo Deportivo
-- **Published:** 2026-10-06T06:03:17+00:00
-
-## 360 Hotel opens in South Iceland - Travel Daily Media
-
-- **URL:** https://news.google.com/rss/articles/CBMidEFVX3lxTE10VDFmRW1EbGc0NTQ0QXVqXzZlTVM2bWRHckNDUjNFN3NaZi1aMzBCSUpWT3pNS0hvcFYwN3EyaXJyMEJ0dDFZZ0xEODJkYWIxODB4WFBFOF9MelZ0djlIaUpBdksweXhYV0E2WDRlZ1E0Vy1I?oc=5
-- **Source:** Travel Daily Media
-- **Published:** 2026-10-06T06:02:40+00:00
-
-## Estonia vs Iceland Prediction and Betting Tips - 6/10/26 - insights.betfred.com
-
-- **URL:** https://news.google.com/rss/articles/CBMipwFBVV95cUxOeGhzbzJmbTAtTEM2WkE3azB5RU9sUm9OMHlJbG44NlRrWTNTQTc5LW52S3lJaUt1bVdDMDZwRTQzSGhSMDVqSGpZX2xzVFc4SlBRNkVrQXlyNFdHMldyY0U1Zm93bjRGWkFHQThnbG9oaVlGQzFabHJ4Qm5WR3V4eXN0STRRVUs4LWdldVlQakxYVXNsdUFNeHRTZ0IxdkdSN1RneFY3Zw?oc=5
-- **Source:** insights.betfred.com
-- **Published:** 2026-10-06T06:00:50+00:00
-
-## Estonia v Iceland Odds - FanDuel Sportsbook
-
-- **URL:** https://news.google.com/rss/articles/CBMijwFBVV95cUxOZGFZVklQa1pYdEFnZldVNVhfemlrQnhld0ZMR252QmZTRnA0RlgzeXhHTWo2YTlZRVhvdmhPVm5PcVNuZk8xOHlqY0c2VHQ4NVpMY1pXZ2NZYU5vSzF1Q3M0MU9Sc082UzdMR3dLN1J4LXR3MWVEejVXbWdyZXVLVGpCMTlHa1ZLMEctenBkTQ?oc=5
-- **Source:** FanDuel Sportsbook
-- **Published:** 2026-10-06T06:00:34+00:00
-
-## Rubio begins three-nation NATO tour in Iceland, which is wary of Trump’s Arctic intentions - cnbctv18.com
-
-- **URL:** https://news.google.com/rss/articles/CBMi0gFBVV95cUxPNWI3UFQ1LTkzaXVIRFViNXFDR0tGbW8taDlGN0E2VDZfNFVZR1VyWXRBVVBVNTVKblhES0ZVRkJoSXJKeHE5VEJxOElHOEpaM1gxNEgxTnRJYmhLYU1sZ0RoVFcyaFo4NzhXel9rSndxbExIdXVqSXZCbzFPV3VqQ0NKZnJzN29KWVVma3pwZFIyT0Z6NVFvYm53SUZaUG45cGViMERPMDJ5X045Q1FQM0pXSTFnM1R3OFdWTENwcFJFck9OQW9sQkw0TkpMYXo2QmfSAdIBQVVfeXFMTzViN1BUNS05M2l1SERVYjVxQ0dLRm1vLWg5RjdBNlQ2XzRVWUdVcll0QVVQVTU1Sm5YREtGVUZCaElySnhxOVRCcThJRzhKWjNYMTRIMU50SWJoS2FNbGdEaFRXMmhaODc4V3pfa0p3cWxMSHV1akl2Qm8xT1d1akNDSmZyczdvSllVZmt6cGRSMk9GejVRb2Jud0lGWlBuOXBlYjBETzAyeV9OOUNRUDNKV0kxZzNUdzhXVkxDcHBSRXJPTkFvbEJMNE5KTGF6NkJn?oc=5
-- **Source:** cnbctv18.com
-- **Published:** 2026-10-06T05:54:45+00:00
-
-## Marco Rubio opens NATO tour in Iceland amid Arctic unease over Trump - India Today
-
-- **URL:** https://news.google.com/rss/articles/CBMi1wFBVV95cUxOMXZGTmh5RE1JX0xFbzU3a2kyQ011dEdIRzhVdHkzazJvRnJVYk1TQUw2a1NsYkNMT1RodDVvMWJhX2llSE5Zd21YcFdudUZaSDhROHZLcDJFdGx3YXpObWl1Y29rclphdWt3UlNabzhidXBZNWVXQ2tONFpjMGt6OEg1YkJjM0kwbW9XejJOVk9mSWpRczktTVc2ZTNHeExJTXJ4bHFTZWI4T0JYbG5PbV9kU2VNMlkzOUVNaGJ4VHZKWGMtcGZmZ2RBbnFUZkl2MmZiLUZyc9IB1wFBVV95cUxOMXZGTmh5RE1JX0xFbzU3a2kyQ011dEdIRzhVdHkzazJvRnJVYk1TQUw2a1NsYkNMT1RodDVvMWJhX2llSE5Zd21YcFdudUZaSDhROHZLcDJFdGx3YXpObWl1Y29rclphdWt3UlNabzhidXBZNWVXQ2tONFpjMGt6OEg1YkJjM0kwbW9XejJOVk9mSWpRczktTVc2ZTNHeExJTXJ4bHFTZWI4T0JYbG5PbV9kU2VNMlkzOUVNaGJ4VHZKWGMtcGZmZ2RBbnFUZkl2MmZiLUZycw?oc=5
-- **Source:** India Today
-- **Published:** 2026-10-06T05:10:47+00:00
-
-## Rubio begins three-nation NATO tour in Iceland, which is wary of Trump’s Arctic intentions - ksat.com
-
-- **URL:** https://news.google.com/rss/articles/CBMizwFBVV95cUxNbldHRWlMX01iTXVmVEM1RDk4ZXZHaGpxYVdEWVhMenpqLVVFTXJ4RDJiSDBoUGowVXhTQzhpYTVlWENjd3B3YzQycjBqdk8tSGNWRXpMc3pRUWh0X0Y4Y3EzQ2ZCRkpGQ3o3ZTM0WC1SMU5MdEE2dHVCVGhQYk1FS2tlMW9IZHFXZ3FTUFI4SWlFQUpqNENJdGJsR0ZHdThwU245VUF3Z3lTcEVSZUlzMEthSnQ5TDhfV0hwTFRtQm9xdm13NnMxM2RuUVYwS3c?oc=5
-- **Source:** ksat.com
-- **Published:** 2026-10-06T04:59:41+00:00
-
-## %*(((LIVESTREAM TV)))* Iceland - Bulgaria Live Stream ＯＮ Ｔｖ Ｃｈａｎｎｅｌ 3 october 2096 - 大分トリニータオフィシャルサイト
-
-- **URL:** https://news.google.com/rss/articles/CBMinAJBVV95cUxQSzBRNWNKRTN0TjFZUWpzbXhrUXNyRmFqME4xRE5kTnZiNDFrUXRtaUdsMTFiTXVuNklOcXZ4aFBzbjVISmtCcEtGc0t6STZ5M3E3WXZfWXJTeWJsLW5KWkNIdEQwTFg5TE1aRF84ZlV3cU9PTWZnZ1FwR2JyMng1TzdTU01tYXdvdGgyME4tY0VrMldtak1acm4taXFKVXRqZUJ2UGZIemJMNWY2V1g2YXY5RkVqbTR4Y2lUenRrSkJHR0NGYXA4WDl0RS1UTWFkOGRLeUpzSEp0OVdoQ3JjNTcwcVlDaS1MQThCcUVPdmh1LTY0ZnNfcXpENlZDZE5OUU9uUnVjc1ZrRTNHWm9uNFFpWWxUY0RoWEt3Nw?oc=5
-- **Source:** 大分トリニータオフィシャルサイト
-- **Published:** 2026-10-06T04:19:50+00:00
-
-## Rubio begins three-nation NATO tour in Iceland, which is wary of Trump’s Arctic intentions - Toronto Star
-
-- **URL:** https://news.google.com/rss/articles/CBMijgJBVV95cUxPR3RjY19tMnRHZEVCdTJsRjFENWxDbGNSc2NETmlGR0ZiblJFNUV6X3RhRWJkaHJSbExaLVhKekkyYWJLZldfQUY3bjRQRXQtN0YwdzVjYURKRUFaVTJycnZMOHlJbU9qQkZwTzE5TEw0WlVZXzR6a1B1V05rQm9OMjZhWUJHeEl0Z240V2tMdGlRNkFYV2FNalR0UlFMeDRBZGxlMUdSV2NUcjdPU3ZSczk5LV9EMUxLV1ZmOU41T0MxajcwWjZGNVNFenBSMUpMaVlEM2QyTnZ5UVBZSjVkbVg3MVNCR3ZwVmg5N1JqX0t3S0tGSm1URV81aFM2QWY5TG5ZaWZmVkVqRXdKVGc?oc=5
-- **Source:** Toronto Star
-- **Published:** 2026-10-06T04:03:35+00:00
+- **URL:** https://news.google.com/rss/articles/CBMimAFBVV95cUxQUXdaTVg1czZIYXJYdEY2TmFHa1NnbGFjWEVMLTNQVTN6Mm9xc21aa29NTEZTTE5vM05rS2VTamVZZVRyX3RBcFlPSVU3WEIwYmlLaTVsS1hKUWlHeUNUUWJtQlZGNFZzN1A3ZE84UllOSVBxWUdzb2VTSWNiXy1TZzk1UlU4TVE3Rm1TY2RiOS02ZFQ1elEwYg?oc=5
+- **Source:** The Herald Journal
+- **Published:** 2026-10-06T13:03:40+00:00

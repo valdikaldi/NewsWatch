@@ -1,8 +1,128 @@
 # NewsWatch — fusion energy News
 
-_Last updated: 2026-10-06T11:03:35.594736+00:00 · 50 articles_
+_Last updated: 2026-10-06T18:01:20.900250+00:00 · 50 articles_
 
 ---
+
+## Type One Energy raises $200 million, bets on partners to build its first fusion plant - sociable.co
+
+- **URL:** https://news.google.com/rss/articles/CBMiswFBVV95cUxOYlJGcEF2ZEpwLVV4Z1hSd0JIcDNHMV9SZ1hya1Rsd0lQclJWWkdFRjhaSHpJWkJvaDQ4TVlGTkxsTkJ4bTBiUjVKWllvLTlhaWhqTENoSFRuSVVzeXQtTXpmR2VFMVBkdk5EYXd4ODloLVpPXzJSTmtVLTRjRXY0T09TbVY5WkR3MUJ3Si13X2NyQkhGc25zNU1HWGNkTHFFdjBMa1ZpdU1zUFZkcHJwcnNwZw?oc=5
+- **Source:** sociable.co
+- **Published:** 2026-10-06T17:32:52+00:00
+
+## Fusion-Power Startup Unveils Small Reactor Under Construction - The Japan News
+
+- **URL:** https://news.google.com/rss/articles/CBMidkFVX3lxTFBqNzhKOWpLa1czMEE0bUNaTlpUejZYRkRkWGRYbExCOHlQSHJ5YzgxOXQ3c3hDTVlYaXlUNnRIMjRtZDR1OHA5QXA5ODVjOWRJMnY5YU5IVnpLVHZQbmxwX1llUENGSUJlZEdfMElBa29sT0hOQ2c?oc=5
+- **Source:** The Japan News
+- **Published:** 2026-10-06T16:00:00+00:00
+
+## Latest evolution of UK’s proposed prototype fusion powerplant revealed - New Civil Engineer
+
+- **URL:** https://news.google.com/rss/articles/CBMivgFBVV95cUxOQmo0RXBQNEFzMkt6MzNaUURCdFJBWjJyVHlqV3o1SGN0UEt3ZTdwaHBTQkNfdWRRY2dRWlM4UkQycVdGYmx6UEI4VzcxbFlMYU5OUXhuQXZaNG4xWXBOTHJuQ0lPOUVkd2x3NWx2c0hqX0JnWjlYeGFRVkhYaXZfbDFzbTU0T19nbmZTLThPcTBWcjY3WkxVdmhjb25oY2ticlJPNEkycGo4YnFlaDloXzRYQ01XRlEwSlFCSDZn?oc=5
+- **Source:** New Civil Engineer
+- **Published:** 2026-10-06T15:02:36+00:00
+
+## Siemens Energy Backs Type One Energy in $200 Million Fusion Raise - ESG News
+
+- **URL:** https://news.google.com/rss/articles/CBMijgFBVV95cUxQRjhXdG9lX3NheGd5dm9QcUR3cjUyU2RYcWxxLW5jZmlJMEhJMFJGQVRpNkZLX3pqZFkzMlRDeG9ob0JuZGNPTjhQcFZMbFFoVlpuR0xpS0E1RVViWEJpNkVnODVJZ256Uy01SmVIMGQ1RG5WVlJMUHNjNmxVRkxKMjVUS2NlREhZN1NWVGFn?oc=5
+- **Source:** ESG News
+- **Published:** 2026-10-06T15:00:00+00:00
+
+## Type One Energy Raises $200M in Series B Funding - FinSMEs
+
+- **URL:** https://news.google.com/rss/articles/CBMijAFBVV95cUxNdVZ5TkkyXy1wLWNpdXRtLUY0UGpPSmZEWEJvc2hFU3laYWNrbzU5Y0ZTdnYyaDhWb05YbXV3TEJNTTlSNm9sdVBrd2NVMlFxMnozSXpWUTFRNHhRR1pCZDZta09lMXJ0amRYTlVXdzdOV1BuVnUxN3c2TkZEQVo0eXpobUdHNWJNTm9FVw?oc=5
+- **Source:** FinSMEs
+- **Published:** 2026-10-06T14:52:13+00:00
+
+## Type One Raises $200 Million to Build First-Ever Commercial Fusion Energy Plant - ESG Today
+
+- **URL:** https://news.google.com/rss/articles/CBMipwFBVV95cUxNZVc4SHlMUFNDRkdvWXhhaXh3QzlFbHp3Wk5rNmgyclhOT1diU0d1RXhjOHE3clBLbUhCVzRsSkJOOHZmQ0xnUFhPMktpX0w0QnhONGVTVEtWQ1NxS1FKcFZYTFFhUFNoaDFqbTMwMDUzWlR4R0c2ZjJ1UWtuV2lLUzR6UHNfQ2pielcwbWUwODRTQlhYMTZLLVR2cndtNmlVYlNKWWpNcw?oc=5
+- **Source:** ESG Today
+- **Published:** 2026-10-06T14:50:47+00:00
+
+## Type One Energy Raises $200M Series B, Bets on Industrializing Fusion - Wowtale
+
+- **URL:** https://news.google.com/rss/articles/CBMiU0FVX3lxTFBJUnFBUmdMRDRIbXlsWnZJQTNoN3VwczN1cGl4S0tHYnZVcWtMRjMzOEdwNEVuU2V6b3dQZENIWmxQTXZ6ay1OMjVfREJ0VjFFbXE0?oc=5
+- **Source:** Wowtale
+- **Published:** 2026-10-06T14:50:14+00:00
+
+## Type One Energy raises $200M to build a fusion plant by 2034 - Dealroom
+
+- **URL:** https://news.google.com/rss/articles/CBMimAFBVV95cUxPcHktN2JfMExvREZNLXlQMVBiUkNXb3J4d0dBbTQwTUR2QlRqRnpGVUhiREthaGJhWVZWclZWQTB2ZERkc2JZNnJZYkJvbEVoUnhYX2RwV0U4d3NWQ0JKVGR5bGF2bzBqMlpuWTFKc0pVV3ZYcjZQUGRHVGMwV1hDbG93WGhPeE9ER1Vkc2J2bTFsVUVLOERIVA?oc=5
+- **Source:** Dealroom
+- **Published:** 2026-10-06T13:24:31+00:00
+
+## California Governor Signs Bills To Overturn Nuclear Ban And Plan For Fusion - NucNet
+
+- **URL:** https://news.google.com/rss/articles/CBMiswFBVV95cUxOTlMzb0NqU3l1X2NMaENUcy02SGxUb0Z0b3N5MmZiWk80UjJPNzVUM0dXTjBfdVRTV2VkYVFKOTlXbm92ZFU4eTdyZXlYNVhBc3VBQklXLW1STkZpc1JBQlBTUXRmR2sydndWSjRZdkk2UVRuSmhNczRqZ1JJcG5yLWVLc2ppSldqTkNsYTBWT0xNUWlSM1ZtZWRISzlGaGNLTmlHUXlvemgwNU5WeWVRcUctYw?oc=5
+- **Source:** NucNet
+- **Published:** 2026-10-06T13:20:41+00:00
+
+## World’s largest fusion reactor gets final 485-ton vacuum vessel sector - Interesting Engineering
+
+- **URL:** https://news.google.com/rss/articles/CBMijAFBVV95cUxQSFExWlZRc09HcFVxMk1aQ2RqbjBYRnpEMEFldlJvNzV6RU1RS2g4R1BuLXJZZEhNUmN0allLWnNqVDkxVXFuemhJYnVZQjhEMzNvM0VINHNta0NHWThnZzYwVEdRN1BWNk5fR0ZPMkxPelFmSHdhRlBkOTE1YjVjd2p3ZWYyZ3NsLXh4Rg?oc=5
+- **Source:** Interesting Engineering
+- **Published:** 2026-10-06T12:51:00+00:00
+
+## China’s ‘artificial sun’ advances as BEST nuclear fusion reactor passes halfway mark - Interesting Engineering
+
+- **URL:** https://news.google.com/rss/articles/CBMiwAFBVV95cUxQR0M0a3VvbTZnZ213WnFrV0sxOWFSWHZiT1hKMDBiNkpQNTJqQ013MWFVY3hKT0J0UmRBT3kyRW9FVnBsdGxMbUc2TWsxVFZYbUFMSXBjdU1SdDVoeW5KNzVvckVUNHYtdmdlZTctb04wU0JMM0hRZHZlSWhxcVNSR1BtZmxsU2dqeFdTaFJVY25XYlZ4MTR0aklRM0ZRbFFhSlV4Wk1TV2pLQzlJUFRSQW5tZkgxQm9lUnktaFFwWTY?oc=5
+- **Source:** Interesting Engineering
+- **Published:** 2026-10-06T12:37:48+00:00
+
+## Newsom signs legislation at UC Berkeley to accelerate fusion energy, grants $30M for quantum research - dailycal.org
+
+- **URL:** https://news.google.com/rss/articles/CBMilAJBVV95cUxPY1ZINnBncV9VNDVmLVdRLWxtMGN4NkQ0U3E0cnIwWHY5MlJqODlma3RsWHh5bFhyMDNkaGpYNnBMRHQyc1BYX1VBWFFsOGI5dEFqaERvVkMxYjNCMU5sREJweFkwa3ZzZ212NVItVDB5eW1wUFpPTmNibXB1V3ZYTkZpc3ZaY3dhWkRSMXJIWU5QRlowbGhObEVPWHl5QU5EcVhlcldndXJtR3Zpb09taU9KZkJBcWdXSVZmNVBoVzVfSWlRQ292c3NPWGJTUVp4OWVpT1hkLXdCR2thNEpVaW9mSFRKNWF2RVZzakk0cTlUOW1QMFlxM3RpTEc3dm5YRTJWX0o3T3dOaElsUGt4LWNuRWE?oc=5
+- **Source:** dailycal.org
+- **Published:** 2026-10-06T12:30:00+00:00
+
+## Type One Energy raises $200 million for fusion power plant by 2034 — TechCrunch - UA.NEWS
+
+- **URL:** https://news.google.com/rss/articles/CBMiswFBVV95cUxNcl9HUDJTX0w3M3h0UjdWc2JKS2ZuWUlBd3FGZW1zeFBidmZfN1lhSlgtYWF2VlF4RGlQNkJmZGUyblJFck5fbkdJU1lWX09IM3ZvZEJxWUM0RVJRSVVCUmhFVjFJalRoUFVjMWR1VHA3NTI5dHV0dFdLUlFTdGRHUUhtSUdZZkhNUnFIdk5LdnZkWEVRQV92OS1UTEtGcW5KQTlOdEhsVEhWTzNMM001b1B6cw?oc=5
+- **Source:** UA.NEWS
+- **Published:** 2026-10-06T12:25:16+00:00
+
+## Xcimer Energy Secures Additional $30.5 Million DOE Award for Fusion Development - citybiz
+
+- **URL:** https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSU84N3RzcHliY0Ztd3R3bkROaUVFRURneE56ZTBfcm1vc1NNYXUzUUhIVVMySnRHSHV1Z1l5TUstd21aZVVRd0Z2eUFfYzRFdnR5MkpodWtHdVhXVUc4UkNtdFNCc0dPRnJNQkl5UElpZnIzNE1JcVNEM3NWYjFWRUlCNVhlcUVnNlNVY3NZbUczNXlYSkYybnVrVkZUNEhoQ0RidS1aN29ETWtYNWtYd3NBM3JhQXZv?oc=5
+- **Source:** citybiz
+- **Published:** 2026-10-06T12:11:18+00:00
+
+## Type One Energy snaps $200M Series B to build commercial fusion plant in Tennessee - Tech Funding News
+
+- **URL:** https://news.google.com/rss/articles/CBMirwFBVV95cUxQLWw2UXBwY1Bham02Wk1Fbk8zdkdFSThDUWVvQ2xVamE5ZkxJX3EzRXEwTjk1S0o3dnh3OHVaR1M3azRMVHF6SFhaMjlDWnhOaHU4VUhlTUhGNTdxTjBBWUJnYUJhX1pzM09QVXpIMVE0NEN6dV9FeEN2LXMxRlFfbXlnc2UxSVZvU00xNnB2anpKVW5CNjFJZVk1aHUxVl9uclNmSEQtWWxMTjJlbkdB?oc=5
+- **Source:** Tech Funding News
+- **Published:** 2026-10-06T12:03:44+00:00
+
+## Type One Energy raised $200M to build a fusion power plant by 2034 - TechCrunch
+
+- **URL:** https://news.google.com/rss/articles/CBMiogFBVV95cUxNQXhHZEYzcUFlU1JsaWJjZEE3Zk9TWWs5ZXRXdVZiRFpqZTdTSHN1c3lZSkpkVTdEV1JFbW81SEZMTGw4dVJjZ1lKVmZnMGNVVjJacnF0UVNNbGVHTmh2djJmcm9IRWtpWVY3XzdiQUVCNlAyZm5mUTNIYzZiODdnbjBTMU9ZODNqdFAtR0xJVkRmT2xOMXZnTGMySXZEYkVvYlE?oc=5
+- **Source:** TechCrunch
+- **Published:** 2026-10-06T12:00:00+00:00
+
+## China commissions BEST fusion facility - Nuclear Engineering International
+
+- **URL:** https://news.google.com/rss/articles/CBMifEFVX3lxTFBCMkxPWlo4NU5xYzBXRE41MGJRUllsOHlqWWg0Tml5Y3ZQVUY2WUlLVXdKekNkTkU2NUh2enNqS2pGa2dQMHZOT3ZiTGlyeXRmX2ZHbkl3bXU3WHRXRVlTZ1VwOFEyUVZlaDNKek9iZ2FRdy1udWhWZjhfSGw?oc=5
+- **Source:** Nuclear Engineering International
+- **Published:** 2026-10-06T11:50:23+00:00
+
+## Type One Energy raises $200 million to develop world’s first commercial fusion reactor - The Economic Times
+
+- **URL:** https://news.google.com/rss/articles/CBMi9gFBVV95cUxPVUlDNkttNjZoamFOX08tQWZlVWdHay1uVUhlUXp1YWtTQnMyUzVpNmNETVVsNHp1RXcybF84R0c1blp0Y0YxYkJ1YU9KaWJRMEhENzZnd19qVzVZbkxoZGpyNkp3SW50OGMwc29wMGY5ZFZVZXFZZEluaW5LMkM2bmZQeEh3SVNqeDZsTXM5bUt1NG9VcUxkTDlGZERPSWtPM1RwTk1qLWhGbGVGR3JwNUZCelRDekVDeUtGdzZqWnZieXFuLXBCQjAxcFQ4azFaVkd3ampyTGF5VUppTE1rRFF0SXNaY1o2Q2tMRWlKMV85M0ZWNEHSAe8BQVVfeXFMUEZEcHJsaEdUQTVtWEZqQVE1bHlvSFZFbHV1SWZCTjJrSW42eEpRMmZBVm44dDhtZEFFVHdLamRZSXdSU01ObEU5clhYQmxtblNUVlVGb3JQaHJkZmR4dUVLQlFILXJnTktGMFBCci03YTRjVXc1VFpmd3VhZTI1Zlc5YjMzMk5DUUxXRnJFc2NST1VWQkpLX3Vfc2U1akwyN3lIa3BiX3E0OEc5aUR4dlBabUZPRjkzS2RVSV95b3JSQ3BjMmpzTmU1WXJDNGRFLXYybDBQM0ZTYzhIbWk3NUhNM1pNRVVtZnItUFc2LUE?oc=5
+- **Source:** The Economic Times
+- **Published:** 2026-10-06T11:43:23+00:00
+
+## Fusion firm Type One in $200 million Siemens Energy-backed raise - Reuters
+
+- **URL:** https://news.google.com/rss/articles/CBMisgFBVV95cUxPYlY5aGhCZ0Y5V2IydktiSTdMU3ZkYzNVaVZSYTctS0ttMWVwNEZDUjdFT0RGeXg2aDRhQS1EVzR1dXNQSmNOSTM3Q1lsME9DUGJWVW5ESmpXVkF6MlNaYUtNQTV4OC1TaVZOMXBzZTdvZ3JWSWhTSVM5X3FremxDWF9HWlk1ZXZQVHpvQ3M5TXAyRGxFZF8xUENnSGdxeTk0QWoyYUdtRUoxNWVpc0d6NVJB?oc=5
+- **Source:** Reuters
+- **Published:** 2026-10-06T11:11:46+00:00
+
+## Fusion firm Type One in $200 million Siemens Energy-backed raise - Euronext Markets: Real-time Stock Market Data | live
+
+- **URL:** https://news.google.com/rss/articles/CBMipwFBVV95cUxPTWVDZE5zbW42ZHdFTFdJWC12R3M3OENxRUtYNWhpRmxFYzREazdndm9kV195Mll6QzNpSjlDbXVQTGpHRGF1M2loa3FxNkl4M0NJMy01cS0zMk9pYlotTkVBX1pqTWlzZjlzcXdNamR3bUMxcTlQOXVGUmtUZ2JHcFJTcFlzMnBsWXU5Y2YydlhZVmJBVkNzRGd2YU93WTNlMFpzRkhmNA?oc=5
+- **Source:** Euronext Markets: Real-time Stock Market Data | live
+- **Published:** 2026-10-06T11:10:12+00:00
 
 ## Xcimer wins extra $30.5M DOE grant to advance laser fusion - Dealroom
 
@@ -183,123 +303,3 @@ _Last updated: 2026-10-06T11:03:35.594736+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRGt5QUVLNWxGYXNQdFp3b1VscG1rTjMxSFFweFJaNUUzWTJKSklGdGQ2NFZ6QTh5alBLbFFPdVNlQlpjaVRaM085MjlaZ09MYkpVRE8wWlRfbUUyY01lWExNbmpGbFBUMkcwdGR6dzFyMDZhSVAwMW5YRkJWdkZpTU1kcFUwTVc3UFNFVHZiTjdIQXViSDdNU2NCcVpFZUNLZHlickh0RE5EZ2s?oc=5
 - **Source:** ITER
 - **Published:** 2026-10-05T20:16:11+00:00
-
-## Ranked: The Countries Building the Most Nuclear Power – Visual Capitalist - EnergyNow.com
-
-- **URL:** https://news.google.com/rss/articles/CBMiowFBVV95cUxNdEt5SDJ1Y3UwcUxhYUZ6dTFsQkFoQ1QyRVQ4R3IwSk9lcHZyTThvUXVnT2xaUmg4dVFSZjhBUkdrbUdCbXNLVzlWdDlYbEpPX1BDU2dwVEF4aFFsakJ5Y2hWV2pVSkJEcTZRZnJoOGc5TU0wdE1hYll1Q3dIM1RXM281a3l2WUxvOG5YZ29wNDR4bC1YWExVdFJfTjVwLUEzd3c4?oc=5
-- **Source:** EnergyNow.com
-- **Published:** 2026-10-05T20:08:06+00:00
-
-## Solidifying the lines of defence - ITER
-
-- **URL:** https://news.google.com/rss/articles/CBMibEFVX3lxTE11T3p1M0FoUm1vYUQ1TS14M1ZnSHBmeHVIMU5SVXRlY29UWVpQSzhBUG5zRnlNUHFjdFdRSE1oR2FHYVo2V0tqbTY5blREWFJDdHRaR2dMZ29MVklreFVQMHllX0JwRTl2U3JZeA?oc=5
-- **Source:** ITER
-- **Published:** 2026-10-05T20:06:04+00:00
-
-## Virginia’s Energy Future Needs the 3Rs: Reality, Reliability, and Resilience - The Daily Signal
-
-- **URL:** https://news.google.com/rss/articles/CBMisgFBVV95cUxNM0lhRjVSZWdKSW9LX1VOemdIWjlGM3hMUHVYZkpRV3hueEpXQU1QVkViaTFVZkM0WnlMc2tYNXhTaVFZanA0YW1rdUJfRzdvY2Uxa3JPcmd6cThyc3VsYkNIM3Nmc1dLRklZMmJMeE5NeTFnYmpGUFZZTUlHXzM5bUNmcXlsWDhKTzFYVV9oM0J1clFuVVhDTXRxR0gwWHdqb0x0WWk1c1dXMDRkRklWenhB?oc=5
-- **Source:** The Daily Signal
-- **Published:** 2026-10-05T19:50:00+00:00
-
-## A novel path to fusion ignition: Heat first, then add fuel - Phys.org
-
-- **URL:** https://news.google.com/rss/articles/CBMibEFVX3lxTE9pd0FvWmRCM3pPdEdLYlN3MDd5S2VCejNLNnpxTFpHckZQXzQ0clBEaEhDUWkyYzBDczJncXVXaW9fZko4SW9yU1RIUWNWUHVNUzcwRFFEOVBxUkc2X2ZsTFNmMlhwRTkzUGRlUA?oc=5
-- **Source:** Phys.org
-- **Published:** 2026-10-05T19:40:13+00:00
-
-## Europe Delivers Final Vacuum Vessel Section For €22 Billion Iter Fusion Project - NucNet
-
-- **URL:** https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSWlVd0lxV2IyZXYtdXBLbjZ6c0t1b08xc2R2Z1Rzc2lsclc3NkRPVHI0RzhMVXdEOWJsc01TdUJfbkxZQnNxMV9BOTItX2FLQS1zblRCNXZ5U3hGUU90RElzSWprMWt3MUNhOXdzaGozQWVWRGVTaUhlUExIM3p3M21aN0Y0ZkYtVzZ3dEhVSDk0aXhoOFlrVXVOdDRPTmtfMVZKLUxkRk1hdlVrTnlPUWJfQnc5UzRRcjhn?oc=5
-- **Source:** NucNet
-- **Published:** 2026-10-05T18:59:06+00:00
-
-## Senators Introduce Bipartisan Permitting Act, Including Fusion - Fusion Industry Association
-
-- **URL:** https://news.google.com/rss/articles/CBMipwFBVV95cUxOYmVyUlo1d3I0YmNFT3BSNGtLX29RRnpoeC0wTjJRZG04MDZFeGZMN0JQRTA2VjUwa3ZhWW5YRWVLbDRlYjZHVmg4RGxuZFBpV18tT3lYM0h0S1IyX3d1amVuVHExTEJKUVNQUEt5SzMwLUVnYTJiTEpSYnZsUUE4RXFqd3ZXNkFhRlY2WmdraEQ0Q01lQ1hWa1ktVFRqYzRzWlYyR0VJcw?oc=5
-- **Source:** Fusion Industry Association
-- **Published:** 2026-10-05T18:52:59+00:00
-
-## California takes important step to commercialize fusion energy - Clean Air Task Force
-
-- **URL:** https://news.google.com/rss/articles/CBMilgFBVV95cUxNWFR1cHdpOWxYZXg1a0RPZXpGMFFRWFgyRTJRWGIySUtnQVRCTkluUU5vcnpqWVRjdTY2UlRSZmpLNGxzaldoaElVQllCdF9nLUdxV19NV0RZNlRLaHhvcnFJSS1lUml1czhqR1ZwcHZxR2gxa3J3RG13WTN4bEpkcldxSmI2UE1Jb3Rsenc2RWd1MmN6bGc?oc=5
-- **Source:** Clean Air Task Force
-- **Published:** 2026-10-05T18:17:15+00:00
-
-## Lithium Battery Thermal Runaway Sensor Modules Market Forecast to 2035: BESS Safety Mandates Drive Growth - News and Statistics - IndexBox
-
-- **URL:** https://news.google.com/rss/articles/CBMi5wFBVV95cUxNVjEtYlRZWEttM0JPdXdlYXR6SjhiRkNmNUNEYzdKUE5zSG9tMXFudGZPNU01bnE4YmhMWnZfaTVFT0FCb09KdmY3ODlSTTFXV1BBS3BtMDFBZWdGY2NBTEdIU3ltVFFTSFZtaXJja1pNUTRBbVNPa1QtOFBTNWpOcEpNd0tGb1FFa3pmQlNMVm5mYk9uY0VEZnBTV0I0NG1DUHU3czY2MVRWQlZRTzFIclc4cUh1MFlSQjFFLVladkJQZ2llai1qMkRGOWp2ZVREaDNPVVlnb1F4X1JrUjltbk4zeWYybzg?oc=5
-- **Source:** IndexBox
-- **Published:** 2026-10-05T18:11:04+00:00
-
-## A 10-inch gas main buried under a Kansas street for nearly 90 years fractured at its original weld from the mid-thirties, and the building above it collapsed within 20 seconds of ignition - Energies Media
-
-- **URL:** https://news.google.com/rss/articles/CBMiaEFVX3lxTE5ESFVfT2MzMDVWTlBRMGRLcGUtMndBb0xUN3pxX0Q3eXJwSlFUQXQ3Qk9nM2FSWmlJVnJCc09vd3FjZ2JIMGwzN3o2OXRQX2xCUEowbEVueVJ2bnVOUmxKVUNrOURqRG5m?oc=5
-- **Source:** Energies Media
-- **Published:** 2026-10-05T17:50:00+00:00
-
-## Thousands Of Guests At Open House - miragenews.com
-
-- **URL:** https://news.google.com/rss/articles/CBMieEFVX3lxTE84U25SZ0JERE1aSWxfS1BSQmdDeS10X1BrQXF1VEEtODQ0LWhMOGRfVGhBcml4bUpva1R2LU16VXVzU3BnM3RuSVg4TkRDUjRPVDZaV1FwenFhdnFuNGNxTDgwb3F1cEtMQ3k0UGVIQUdKNU9TVGNtRQ?oc=5
-- **Source:** miragenews.com
-- **Published:** 2026-10-05T17:40:00+00:00
-
-## Berkeley opens FLiNaK test bed - American Nuclear Society -- ANS
-
-- **URL:** https://news.google.com/rss/articles/CBMihwFBVV95cUxONjZuRGFELWI4S1g1bDZSeHk0SjJucTFXOHF3RkJwOUc5WVpaeXZaWGxQMVZ4WjluMXB3d0pvaWRxem5tZnNGcFhDYTBtcm1RVlQzZGQ4cFlSOTBEeVNSZElDNTc3WVRmeGpTbFF5VXFabk9MdkswRDluMG5lQ21ENFVmYTZXenM?oc=5
-- **Source:** American Nuclear Society -- ANS
-- **Published:** 2026-10-05T17:24:51+00:00
-
-## THE WEEK OF OCT 5, 2026 - AIP.ORG
-
-- **URL:** https://news.google.com/rss/articles/CBMiX0FVX3lxTFBLSW4yZzVxV0cyQUxJbUI2RENsMjhkOVNhU0RQTUk2WkFVbklpLVhHd0Z0WFFrX1REVFlleUhjR2QxS2JJN0FvSmhrc2tTZUZXcndWNE11eTZ5NV9hMmQw?oc=5
-- **Source:** AIP.ORG
-- **Published:** 2026-10-05T17:13:35+00:00
-
-## Dragon Ball Super: Beerus Anime to Stream on Crunchyroll Starting October 11 - Final Weapon
-
-- **URL:** https://news.google.com/rss/articles/CBMisAFBVV95cUxNVWtvRmFRaGNIME1Jb2E5WUdIWDkwNjVScDZFX2JKMU1Qak9tSERJTGgwcGdvbWp3UjR1eXRINEpoWlliSEFjQWJSNF8wZE5vU21veUszWGRXaEN5NHZVaWZJcWlKMXhaUW1YWG42V3VEWndEQTJWNktxMGthWUlEZ3c2VVVtOFhaZjd6aUJobVU3QW1LRk96YmFXZGVhazE1WENyZ08xczZ2TzNreDUwOQ?oc=5
-- **Source:** Final Weapon
-- **Published:** 2026-10-05T16:31:15+00:00
-
-## Bohemian Foundation invests $5 million in CSU energy innovation, democracy and the arts - source.colostate.edu
-
-- **URL:** https://news.google.com/rss/articles/CBMitgFBVV95cUxNSmg0TW90b3lYZUVSblBPTEh4aXl2R0tMU1EtWV9UVWRUWUUzTFY3bVc1SUhfOUNueVNpaV9STUVjU09qUjEwYjJsWHc5VTVyLTBvVDZoMmlNQzV6SXNxMGtvcDRaZkt1S2R2ZnpKT3NPU2Q4VmxsZ2w5V1ZlOFR3VTBRSlJVVWlYZ2hOZHZWeUVHVkI0SF9OTkg5MnJBN25wRFNFeGtrcTZVVzNKWDRtSDhwWU5BZw?oc=5
-- **Source:** source.colostate.edu
-- **Published:** 2026-10-05T16:09:30+00:00
-
-## Clean nuclear power: the final EU component for the ITER fusion reactor has been delivered - Il Sole 24 ORE
-
-- **URL:** https://news.google.com/rss/articles/CBMivgFBVV95cUxOTTdvWWpDMFJTR3RTTmg0aEo0ZVhFU0djdF9DYjFtNVROUGh1VnY1YlJud19SbXV2WXRGMWdYSmRZWlUtLWJXSndIUnU2VUxZdkFzZUZ1RzEwQ0daVzdTYU5MaTAyOEFtNXdwZ0YzU1RDUGhfblZWVWNDWU1WaW1ZVXZfNWRZczZhNU9hNEFRcTRQbEE5bkVHNGo4ckcwVzI2UG1rNkxkY2VldjhscGN5THRNMlhnNWVucVAtc3Nn?oc=5
-- **Source:** Il Sole 24 ORE
-- **Published:** 2026-10-05T15:19:38+00:00
-
-## A 440-ton slice of steel rolled through the gates of the world's biggest fusion experiment before dawn in southern France, the ninth and last piece of a plasma chamber that will weigh 5,732 tons welded together, and each slice already carries 93 miles of factory - Autonocion.com
-
-- **URL:** https://news.google.com/rss/articles/CBMickFVX3lxTE1LRnZmU1VIOF9sZG1mVG1CdzdpV0dydDIwN0NWRlk3NlpWa1ZtS0ZHUDBSMmJlSUw2MmJob1lmRTFlRlNQSE5NRGl6TjFyRU83YVhMSmxWWmtld0tuVkpfbGlkQ2lwa21WMFFqQ2V2STYtZw?oc=5
-- **Source:** Autonocion.com
-- **Published:** 2026-10-05T15:00:06+00:00
-
-## Nuclear having a moment, but hesitation is real - Lowell Sun
-
-- **URL:** https://news.google.com/rss/articles/CBMijAFBVV95cUxNZVlOMk9TcDZTWlNzbHFkWFNjSDh5SldsdmRtZlc0VzJoT2tIWFZNTTRqY2lyMzBLMEpYMVhkdUhKamlNb2RHNUJxWWwyN3U4cVlqVkNrcEtMeU1ZM1BOdUwxZ2UwVVVpTWdma0NVZUduQUE4bEFPVmxIZ21ydVZleElUUVhqNFdhMlJyYw?oc=5
-- **Source:** Lowell Sun
-- **Published:** 2026-10-05T14:45:28+00:00
-
-## AratheJay – CHRISTO DISCO (Album) - TrendyHipHop
-
-- **URL:** https://news.google.com/rss/articles/CBMidkFVX3lxTE8xZDgwVE1INDZic251cHlscHY5cEs5ZE03YWU2TDRGemtLbVJFaVhuZDc2LXZoNzcxTmlUai11Y1lEYWlPV3BhRkNvZ2haendXZ0hHRS1SaW5sWG5SaGtCbGdPNHljSE1pVFZlYTBJcHBJcDd4WEE?oc=5
-- **Source:** TrendyHipHop
-- **Published:** 2026-10-05T14:19:14+00:00
-
-## Watch Plasma glow in full colour inside a fusion reactor - Interesting Engineering
-
-- **URL:** https://news.google.com/rss/articles/CBMinwFBVV95cUxPSEZwQzBVR2dVVTA2RHVqS0Z0LXVINkNmQWhJQmo3NktWa2NYNjhUWGFNWFhIXzliY3VCeEVmYkRnRDFadjZTZkVjckJTcmYza3JsY0N2NzgyYmlrQjlyemRZREFrUXZBSlFGUmpFZ3RPYkR5SG9rMUtMa2NHYktLNXpzejJ0M1VaVzBCNy03Mk1JU1RTbDczcnNESEt5elE?oc=5
-- **Source:** Interesting Engineering
-- **Published:** 2026-10-05T14:18:35+00:00
-
-## Physics to Fusion: Collab Brings Lab-Developed Sensor Tech to Future Energy Markets | Newswise - Newswise
-
-- **URL:** https://news.google.com/rss/articles/CBMitwFBVV95cUxQT1FNNnVONUJJUlliNWp3Qzh2bHlqTUhKeWpYMXdOcGFiWnpCWVVrYkxIUmJpUXZzZ0pWY3ZhTVo2YUV5cEJtdXhZZ2FIaDFZeUJ4V0tTX2docGxjdS1mcEs2TDR4OU1vUGtmelVWaDk4c3ZOVlpTVEVlUDJUYm5TNEVrS0pYaVZ5RExkZk1HWS1EU1FSaHNFNlQwSTFsNW5UNnliWmF5Z0tVRzIwU3lUcHBMM24zRmPSAbcBQVVfeXFMUE9RTTZ1TjVCSVJZYjVqd0M4dmx5ak1ISnlqWDF3TnBhYlp6QllVa2JMSFJiaVF2c2dKVmN2YU1aNmFFeXBCbXV4WWdhSGgxWXlCeFdLU19naHBsY3UtZnBLNkw0eDlNb1BrZnpVVmg5OHN2TlZaU1RFZVAyVGJuUzRFa0tKWGlWeURMZGZNR1ktRFNRUmhzRTZUMEkxbDVuVDZ5YlpheWdLVUcyMFN5VHBwTDNuM0Zj?oc=5
-- **Source:** Newswise
-- **Published:** 2026-10-05T14:00:00+00:00

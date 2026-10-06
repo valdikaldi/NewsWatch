@@ -1,8 +1,44 @@
 # NewsWatch — Apple News
 
-_Last updated: 2026-10-06T11:03:34.107783+00:00 · 50 articles_
+_Last updated: 2026-10-06T18:01:19.379893+00:00 · 50 articles_
 
 ---
+
+## Nvidia, Apple, Microsoft Drive 21% of S&P 500: ETF Exposure Explained - State Street SPDR S&P 500 ETF Tru - Benzinga
+
+- **URL:** https://news.google.com/rss/articles/CBMi0AFBVV95cUxQMjBkRzB5dUtady1ZcHRFOVhST01HUnRTNlBaY05DdHQ2T3gtRjk3ckY2UWZJVk44WHFCZXhuSjBQTDAxcVd6YXAwVUl2SUk1REVSZjdFOUVyS1RKS0M5cFdRQnZnOHJNTkZ6RmVhRGliUlBmNkUzaXhsZC1TRC14UUZYUUlRZF9GZzE2WDJ6bHAwVnQxVENVZXBNc1pUYUZTWUliYnRhVnNGU1B5X0xGQUxGeGRUNXZWOWpQWWJDSDZpZGJMNmg5UEg3MnN3cERV?oc=5
+- **Source:** Benzinga
+- **Published:** 2026-10-06T17:34:23+00:00
+
+## Apple stock approaches October 29 earnings as margins tighten - AD HOC NEWS
+
+- **URL:** https://news.google.com/rss/articles/CBMiwgFBVV95cUxQV01RS2EwX2NnRmJYX203WG50NVVfTHlWeVJSV0tpTjdtLW5EeE9tWWJ5RmZIVzYxanFFNUQ3bGF1SWI1UXVWODRrc1RUWHN6MWNtWDhYZ0kta09GUXNIcUlEYkU3dGpsSnRxd05pTHptd3hYRlluU1I0OWw0YkZ3TlJZTWxjaE5jZWtVSHhWWmppSmJoWV9iX3htZTQ0Y0x4V29jSUstbHQ2U2FOMU9CMkdZVWlXVC1GVmJZTWFrZXEyQQ?oc=5
+- **Source:** AD HOC NEWS
+- **Published:** 2026-10-06T15:18:19+00:00
+
+## Why Did Apple (NASDAQ:AAPL) Shares Slip After the Patent Verdict and AI Shift? - Kalkine Media
+
+- **URL:** https://news.google.com/rss/articles/CBMiugFBVV95cUxOMFJyV1Z6a3lGVDl5alcwVTF0RnVPdFJQLUo5VWptUDM3NzBLdjhkejVhVVNkNlllVDRkSjVvYUtzVndKVkRnTG9UUEhsZ0M2SnpONTBpSmZ4QVdBazI5MXVSTWltUFlFMm9vSF82ZE10RGVsME9taXBGZGotVUp4dFYwcVR6N3FLQWZZOVZ1ckV4YVd6TWoxWHFvOENUVXFNbnhueDdibHFyYU9QMWxwWlVZU1RQZnZRaEE?oc=5
+- **Source:** Kalkine Media
+- **Published:** 2026-10-06T14:08:00+00:00
+
+## Apple Inc. : UBS remains Neutral - marketscreener.com
+
+- **URL:** https://news.google.com/rss/articles/CBMiigFBVV95cUxQeTNFRmVma1pJQmw5RFZhMHBLLVViX3M4cl9WX0dabUJNdDhHYXVWMGVlY0hSdmwxdVRUX0xsMm04RWtybmU0TDN5dGxMU1pUbXFKeU1HVWg5bnJsYkpPMW1uanczb1pXaG4yb3ZwQUR5VV90WEJTRGRmYUhscmh4b1k1cmhfM2xsREE?oc=5
+- **Source:** marketscreener.com
+- **Published:** 2026-10-06T14:04:45+00:00
+
+## Apple Inc. (AAPL) Stock Forecasts - Yahoo Finance
+
+- **URL:** https://news.google.com/rss/articles/CBMiigFBVV95cUxNdEYxNmk5c2hGYVo2S3ZRTHZMS0hmTDlNdTMwQjJPQ2QwTkNISEpJTUNxUjlRMExnYUxqRG9hWU5iNkF3RUZXYTh2MHRkM0tmbzcxSnlpVTNUUXNHQnYzNnNEcWZVV3Y4Vk9NS0NDWXVjdHNpNkNGbzBuZUdDQ1phRGJGcVFNZHB0bmc?oc=5
+- **Source:** Yahoo Finance
+- **Published:** 2026-10-06T12:01:01+00:00
+
+## Apple’s Year Hinges on the Foldable iPhone Duo - Bloomberg.com
+
+- **URL:** https://news.google.com/rss/articles/CBMisAFBVV95cUxPY3BSY0lYU09vZ1laZXZIRldLWV80RzV3a2R6WXhrOGtPSGpiSU5TZFFQcGtFa1ZTM2RlVFlfWVBnU1BqdmtSelFRSlFRM1lRMWtsY2kySmdVeXBraWFnRVRVXzBXeGNxbGlDWXNJdUszQ0JXWkg1MlY4SFlIRE8tYnItblpOR2k5R2JnM0x6WFFpVUxNRGZYazFEcnlzVzBsT20zT3NGUHVFdUNKUUJvZA?oc=5
+- **Source:** Bloomberg.com
+- **Published:** 2026-10-06T11:30:24+00:00
 
 ## Morgan Stanley cuts target for Apple stock from USD 360 to USD 355 - ad-hoc-news.de
 
@@ -267,39 +303,3 @@ _Last updated: 2026-10-06T11:03:34.107783+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSk1ZOEdTallFU0dLOGh1V0xOdUhGY0tqVTBTRzZ0UjFqbWphUEVIaVFxdFdGeGI2YVZqSnV3eXVHeTFLaTRMR1cwbjRxNUpYMG1GX1pxTEw4b2hTQ3hReDFBSGpucVRlVko2ZE1CQmtZaGFObVJ2RVFYZGhwVE9LWXU4bmt6dW1YT2t6LV9KOFFZMG9sY1pDdDJ2dDhhZ09yaW04RkR5Unc1YjlTdjdGLU9yTXFiMDRvQzMyOG5yX3M?oc=5
 - **Source:** MarketBeat
 - **Published:** 2026-10-05T07:26:30+00:00
-
-## Apple Inc. $AAPL Stock Sold by Carter Financial Group INC. - MarketBeat
-
-- **URL:** https://news.google.com/rss/articles/CBMitwFBVV95cUxQRjN2MUdCMTdiREdQbzdlZDc2MFp3UFhKMFBSNF9NdTJkRFpjTzVaaG5BZ3hNVW9kejRTZzF2TlVEQWR5U0JobGN0WUFxbWdFd0ZEcHVVS0l1VFc2WFFueEplZ3hJTFFCOXJIVmxuczE0Q2FzU3ZLWEtkRlBqbmU3SmtCc2FUckJSSERDUmg0LXlQcER5d1dVQko1UWN3c2hPNGRHVi1ZMDhkbEVxTkh6RmgyMktLcVk?oc=5
-- **Source:** MarketBeat
-- **Published:** 2026-10-05T07:10:31+00:00
-
-## Alley Investment Management Company LLC Sells 1,695 Shares of Apple Inc. $AAPL - MarketBeat
-
-- **URL:** https://news.google.com/rss/articles/CBMi0gFBVV95cUxPamRiWk9KaUk3b3F3cmRQakd0ak4tVW9MRWtoN1hIQWRraEVEQWtRTkZ0eU5oUS1hUGlxOWxxbkpEZzFUc3R2MnJJTjREaFVCRUMxdGlZRjV6QzUwREpVd0lqYVVRWnYxczNGcEh6ajBiSkZETVc4VlVZZVBRMG4xNnZheURoSWRPOTM2c3JqNko5Wk9zVkdlejR4bE1qRFE0VXg3Y3dDVVp3ZzVMZE9GNWliWnliWFlqd3JPM2lkNzZVcExDTUVCbWx2T090NTNkTWc?oc=5
-- **Source:** MarketBeat
-- **Published:** 2026-10-05T07:10:31+00:00
-
-## Apple Inc. $AAPL Stock Sold by Athena Investment Management - MarketBeat
-
-- **URL:** https://news.google.com/rss/articles/CBMiugFBVV95cUxNVm56MjBrWnNZVXkyUEJJclpta3RNek04Uy10QnN2S0czVGZJR2hGOEF0RC1EN1cwbUFBdVBjcXI3b0ZIelVNOUZ0VG5lZUt0M01kWDlwNXpvSTZsSFJyNHo0SHFGc1hnODBOQVFkNWc0VmcyMjBDejQ2Y09HQS1nMEprbTlJSWMzQmp4cDVyQmdWOC1xeFpETkhDZmZaT2F2ZVBHc3kyZE9KVjBxQ0RqblpZQWFtVXNIaWc?oc=5
-- **Source:** MarketBeat
-- **Published:** 2026-10-05T07:10:31+00:00
-
-## Apple Inc. $AAPL Stock Sold by Allen Mooney & Barnes Investment Advisors LLC - MarketBeat
-
-- **URL:** https://news.google.com/rss/articles/CBMizgFBVV95cUxObFU1WVFzTks0Q2E1QVVMLVlRWm9acllFSGxZSHp3TVFWTjlqNTA2M2o2Z1lSVmtPRUw0QmdvXzZ3anJyVUdrTU1ZeUVTeHc5MDQwMm9rTzhxOVJYOHEtRXFBbDYtZEw5Y1ZvN29WQVJnWmxRSmpvTkpDdGhycDNfNUxxRDBzc2FsXzU4Mi1YZGs1d2VHaFdhUTZBTV96bG10end3Y3BETXgtWHdHNjNVR2dxSVo0YnNsOGV4dzBGeFVQSnQ2YXlRMHJDYTZKdw?oc=5
-- **Source:** MarketBeat
-- **Published:** 2026-10-05T07:10:31+00:00
-
-## Nykredit A S Makes New $1.83 Billion Investment in Apple Inc. $AAPL - MarketBeat
-
-- **URL:** https://news.google.com/rss/articles/CBMiwgFBVV95cUxPaTJyNHk2QVVkdzFJcWRmTXBGMXE3eGoyNU1SeC1TLXQtcEd4QXRTcC0zanZwOGhzSGFBWmVtQW5VN3drU0hJUzlVOWVMMDg5Z0F6NXYwN2JibnhzMXJ0ZWdFUWlmaEVZZFZJQTFZQV9DeE9qNTlhUDNaNUNDSU94b3Iwd2NOTUJZUV9oclppWkxWRTNVWHBHQlNsQ1JUQmlZeDNqX0pXS1RacmRGV3JoYXVQdVJlYWJmYXp4cDhhMW1JQQ?oc=5
-- **Source:** MarketBeat
-- **Published:** 2026-10-05T07:08:37+00:00
-
-## Apple Inc. $AAPL Shares Acquired by KFG Wealth Management LLC - MarketBeat
-
-- **URL:** https://news.google.com/rss/articles/CBMivAFBVV95cUxQUUMzcG1lSlVLVWhlR1lyU1c5bVJNaVFkVWNVNk9iaHhWZXY4bjdnUEhDdkV1eTYzTUd3dWZ4THNUcmJQVW55ZnpGQTBzMTJjYWdfMTE3QUtlcEIydE53S3cxdm9nRWxid29zMHM3OV9hQnBZWk1fR3QtRTZqaFpQSnRRMFAzR2hnWW5mR21YZUlQd1Y1bzlPMFpCMUZURHdFbUF5enV4S1N3YWI1d2M1THpNZDRFV2ZMczJJVw?oc=5
-- **Source:** MarketBeat
-- **Published:** 2026-10-05T07:08:37+00:00
