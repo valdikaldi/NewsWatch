@@ -1,8 +1,20 @@
 # NewsWatch — Apple News
 
-_Last updated: 2026-10-06T18:01:19.379893+00:00 · 50 articles_
+_Last updated: 2026-10-06T23:37:42.850212+00:00 · 50 articles_
 
 ---
+
+## Apple’s Smart Home Push Includes Doorbell, Lock, Thermostat Codeveloped With LG - Bloomberg.com
+
+- **URL:** https://news.google.com/rss/articles/CBMixwFBVV95cUxQTlpOVHp0YnNWVDViYXdaSjRlYy1QS2hrMjZINnZwYUQ3NWcxTmdYLTlsZjhmcFhNZzlTZjVCeXI0NTlZNm1JVnE1bW5TeHZxNVhiQmxxcVlrQjNVVmJMVXpvYUM3UDRKSXZ2R3dsX1NWRVdaRExHQTVjWU9zZmNrcGF3WXEwdUZUWGVoR19tQi1yN0V0ZzkwR1RsQy1rZkdRdEdDNUM5dzZTeWRDM2tWZU9XZW5scE5SNkVKZDBSYzZDQ19iellZ?oc=5
+- **Source:** Bloomberg.com
+- **Published:** 2026-10-06T21:07:43+00:00
+
+## Apple's App Store Rebounds, but UBS Is Not Ready to Call a Turnaround - TradingView
+
+- **URL:** https://news.google.com/rss/articles/CBMixwFBVV95cUxPQkdMcXU3ci1HRllfQzI4LXEyb0ZqZTFzTnBlUmdvcms3U3FtVjM0dVE1RWRXclV0NldEUlJMNDk5SDYzeHZzQUVQdi0wd1BkMXVWVy1NYVFNZUMtQXZIUFQ2RzFGSVhEekJRTFdJclJibjVxX0JVM3p1eTNkY3drd01qN3dmUnpXRXFEeGxfVGJoMWRvemp6MU1lb09hb0o4NjVPYzM2ei1PX1JLZEttMS1FbGM2M3dwT1pacnUtbEFjLVdSeVFR?oc=5
+- **Source:** TradingView
+- **Published:** 2026-10-06T19:39:42+00:00
 
 ## Nvidia, Apple, Microsoft Drive 21% of S&P 500: ETF Exposure Explained - State Street SPDR S&P 500 ETF Tru - Benzinga
 
@@ -291,15 +303,3 @@ _Last updated: 2026-10-06T18:01:19.379893+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMi3wFBVV95cUxPSG9aU3ZyRjJoMkU5UUoyZ3RZNWMxSHk2RHBiaHMzMWN3d2VYdnlsTHVtUFhYUW1LenFxV1J3QW9EQ0pwTnNRblBCeEZ2VVVZeGZxX2R0SFlTWkI2SlRwMlhpbDhfbGFleVJBclMyenByTmdXMENnZ0c4WC1vZkxRZnBzN3B5MHNkNWN5NjR5R2s5UnRlNlh3UUx4cmFFeHk2dnV3TEtGOEZmd1NyZlByaDY1bUhGdGRuUXNwalEzU1hSRFdGMFhndmp6blFWWlFxcVJ4UldTd1p1OFh4T2pB0gHkAUFVX3lxTE1WenlCWldxSlJzakVnT19uOWdyTkhob1J3SGVranI1RGhrQ1I3Q3VxUTRPclBlazdTMFNGNmtrV1pfVHZKRS1EbFRHcWV5WmlldmxrWFlORFdoby1XcHEwRWRUZzVFUFBRbFpMY1BzV3ZBVWRjem1nMVNRRUdPSHVMemE2U1VuaVE2N25qZ3lObkJUSlRTZWdQX1U4OGpaYnNWNmhXd1Z5U3BvYnNxRFJMc3A4ckxMVFBfbE10UTBnS0FXaDNCdXJuZ3kyT1VITU9UZ09oS1dOcHhENTA1VzdXS3Y3VA?oc=5
 - **Source:** Business Standard
 - **Published:** 2026-10-05T08:02:50+00:00
-
-## 2,977 Apple Inc. $AAPL Shares Sold by WorthPointe LLC - MarketBeat
-
-- **URL:** https://news.google.com/rss/articles/CBMisAFBVV95cUxQTHU4MWJEeWZDWXROYS1PS0syWGo2a1JvZTAxdU9VTmdIZVp3WmVxYUdDbWxPWnVpbnB1cUZKNVYwUEI1REdYSk1vN1hWd1djWlJfN1Fma29aalRnejE3REJaZ2c5dXpXU1ctYzhNeTUtam12a25aYnJLNXRlTV9KMm56cXZiWjZITTZvN0l0OW9tdjY3OGlGa0hoSDRGUHlXMVRZUlpJNXVQVHNFY1Y3Ug?oc=5
-- **Source:** MarketBeat
-- **Published:** 2026-10-05T07:26:30+00:00
-
-## Apple Inc. $AAPL Stock Acquired by Aletheian Wealth Advisors LLC - MarketBeat
-
-- **URL:** https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSk1ZOEdTallFU0dLOGh1V0xOdUhGY0tqVTBTRzZ0UjFqbWphUEVIaVFxdFdGeGI2YVZqSnV3eXVHeTFLaTRMR1cwbjRxNUpYMG1GX1pxTEw4b2hTQ3hReDFBSGpucVRlVko2ZE1CQmtZaGFObVJ2RVFYZGhwVE9LWXU4bmt6dW1YT2t6LV9KOFFZMG9sY1pDdDJ2dDhhZ09yaW04RkR5Unc1YjlTdjdGLU9yTXFiMDRvQzMyOG5yX3M?oc=5
-- **Source:** MarketBeat
-- **Published:** 2026-10-05T07:26:30+00:00

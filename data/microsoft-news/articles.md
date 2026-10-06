@@ -1,8 +1,200 @@
 # NewsWatch — Microsoft News
 
-_Last updated: 2026-10-06T18:01:19.944852+00:00 · 50 articles_
+_Last updated: 2026-10-06T23:37:43.473875+00:00 · 50 articles_
 
 ---
+
+## Xbox reportedly lands exclusive Grand Theft Auto VI streaming rights - Inven Global
+
+- **URL:** https://news.google.com/rss/articles/CBMisAFBVV95cUxPSGd2dW04Rl9zUmdZNXJrQm5NdlNXRUxpOHZDUG1GclhGVXFCN09wVmRDNWJZOHJsbmFhVi1hanp6d1kxNGZBNzNHOURhSmZDS1lQSWR3UVlzUU96eWtYMlhaSy04QzVJMm80aUZHMVJrWjhtRXBnWHZXdjVONU9aVjdEU2VEeWZIZHBVcmZoaWtISkhQbTlZdmhpZVVyT3luYjlhM1QzWnJOV19VUjIxZQ?oc=5
+- **Source:** Inven Global
+- **Published:** 2026-10-06T23:26:08+00:00
+
+## As Microsoft Adapted To AI Megatrend, Sales, Profits Surged. MSFT Leads 9 Joining IBD Best Stock Lists - Investor's Business Daily
+
+- **URL:** https://news.google.com/rss/articles/CBMihAFBVV95cUxQcUhMTjNlSDBnMEc4UGs4c3ItZVl6VXUzRkRGTFUtY0k1ZEV3RHF0cWdWMGhjT1dTcG9jWmhuaDB0MDJaZ0VnZjYwY0hBeUFNRjR4S2hyTlhUejlnYU5XMzI5NTlzR3hHVG14MDcwTWFjVkNIYmhaRGtCNnM5aWNQbzhmRWI?oc=5
+- **Source:** Investor's Business Daily
+- **Published:** 2026-10-06T22:55:00+00:00
+
+## Microsoft expands incentives as partner responsibilities grow - ARNnet
+
+- **URL:** https://news.google.com/rss/articles/CBMirAFBVV95cUxNYjVaV09VN1RaMVAtSVZPX2N6cTNZSkpMaHNLejN5dTJ2ankzbWdROXc4M1AzWlZVbkVsaC1md00tUmxWc2Z0SERSWlpCclpkQ2FxWnlxNGtTMEhUNjFMZ0hzZ3VJeDUxN0xCUnZxVFRMeGZMNTc0TXFQZGhnRGlocXZ1d1RzOXZocktsbTdfX1VzWDBmVFNtVlhPWXBuei1WNncwR0hJYkctYmZB?oc=5
+- **Source:** ARNnet
+- **Published:** 2026-10-06T22:21:55+00:00
+
+## Cramer says these blue-chip stocks are among the best ways to invest in the AI boom - CNBC
+
+- **URL:** https://news.google.com/rss/articles/CBMiaEFVX3lxTE1pbHplOS1RVUF0dGJaTU5hSFRybThFQmVZQ2dzTUdlRjJ3eS1YTlpmMUNyc0p3OW54YWJDcEFpTzdTS1cxZDRHb09lU05wMFBTQXRBbmJlVG5OQThpOFRjckxiMXo2dWY50gFuQVVfeXFMT1R3UjBHdFd0YmFiaWRpR28yakhmNUxRbm1KZ3lfa0lSN2toOFJTV2NSOTlEbGVCbFpIbkNZRDVQbS1GQy15N2o0R2RtV3UyWndHRDdha0M1dHJPcFpRblpEejFGRXFCZzU5c25UaHc?oc=5
+- **Source:** CNBC
+- **Published:** 2026-10-06T22:13:04+00:00
+
+## Xbox has secured exclusive GTA 6 streaming rights - The Verge
+
+- **URL:** https://news.google.com/rss/articles/CBMigwFBVV95cUxQdjd6VzIyMTdRVDZoQmZaMmVac2Y4ak1GbnQ1dW5XR3p1Y0ZnY3FBT1JwRjRMdWxsS2kxUm5DTjVVd003dGJ0RjRVVFItVFhYcmxoTzBhdzFFYzdFajJHZ0VseC1sUzNHZi1RTURQd3E0ektrR0xtYWczSzlmTFZScFFZMA?oc=5
+- **Source:** The Verge
+- **Published:** 2026-10-06T22:12:27+00:00
+
+## Congressman Sells Microsoft Stock, Buys Financial Giant Ahead of Earnings - Goldman Sachs Group (NYSE:GS) - Benzinga
+
+- **URL:** https://news.google.com/rss/articles/CBMi1wFBVV95cUxNVm8wQnZhR3hiWDNvS19Tel9VWWNCcE1lT2tIRDkzMHJPaERkU1VtUWZhSTNiMUdZNEFDM0JiSEdiRnR2a3JGSlV3Sl9hRi1QZDB0bzNJYVdZVXZ5NHlMQi10SEp6ZEVCUUFCYjFqN3pPbU1BdHFsWHBVMUhqSTJhZGI4QXdVbHZDejRqSEhlbUVJNkxxVVU0RTEwRE1zQ1pYTUF0U2xOTEV6RE04RU1RMjJxTnZqWEpUZFFWZE9CV043R3pzV2EwQWVIaWN6aDlRSV9KNDVkRQ?oc=5
+- **Source:** Benzinga
+- **Published:** 2026-10-06T21:51:27+00:00
+
+## Leak Tips NVIDIA RTX Spark-Powered Microsoft Surface Laptop Specs - TechPowerUp
+
+- **URL:** https://news.google.com/rss/articles/CBMiogFBVV95cUxNenRnNHVZWVAtM2JWWURVTGl5ZVcxWnN1d2dmTmdpLWNqN25FSlZDeWxqUkIxRTlOaXVhcjV5NWNWRGtMeHBLRHVxZngzQjFmR0xtOFhBX1lOM3QwazVWVERGMVg5YkRVSGxCS3hxZ1dZbGotSHh0YndZOHlBNDNDMWFpM1dkY2F5bFp5aWhodld4RzQ5Uk9MT3VZQVNGQ2tXVUHSAacBQVVfeXFMTl9xNGxGb00zeHlUeXp2R2d6WDVlT1ozWF9fZWQtUVlYTS1fTm1yWEM2N2JlYkVyZ0UxZWsyZFRwa3FEY1c1dkhDZXkzQURReE5HSGpXVjhkUjV3OWIxUjdPMFNkR0V6U0xPblpydm1QaUFoSlR2TWZNSm1wN3lLM0tKSHpYV0VBYjhMWm0walRUUmtWMzJZUlV0QUdBcy15cGRxMndIVzQ?oc=5
+- **Source:** TechPowerUp
+- **Published:** 2026-10-06T21:47:37+00:00
+
+## Meta and Microsoft just sent employees a memo about Anthropic - TheStreet
+
+- **URL:** https://news.google.com/rss/articles/CBMimgFBVV95cUxNemx1RG9Md2U5NUo4Z1dTZHN4czhKMDBOUW9Ram8tQWoxbGVzcjFjYmtmTDRmdkJsZEVLTEtnbUZrMGc4VWVlRnkwQ3htdEJ1QVFUV1NBcTlmMGZOVWJPdlFPcDFpdUd1UHdzOFZ4UG54cWV3c3hXZjdoSWlaY0lXSzVhTm9BblhiNWM4cGwtS1Rxb2IxMDQ4T1pB?oc=5
+- **Source:** TheStreet
+- **Published:** 2026-10-06T21:43:15+00:00
+
+## Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for Global Industrial AIoT Platforms - Microsoft Azure
+
+- **URL:** https://news.google.com/rss/articles/CBMi0gFBVV95cUxPT1JNOE9HUEdHLTFvdUV4TDZkTGtfMXdDZlBKUVloT1BMZG9UOWE1M0xmNVNMNU9QWjZ2OVRSRkNfNlUxS1FpVHNMRFR5ZmRlNVdGTkJHR28yTHJWbnlJSEVDMkxUVE1XNWJ6eU0yTlJSSE1nRWtGR3dtS1NrRkJBZ2lMeFBjemx5ZGVQTnpUYUJDZW1sS2VwNWNJZ1d5YWY4eE9mbE9WZHI0eUdwRDVKVV82WTAxUllZLThlNXQyX213ZDdjUGtpZFpKVzN4dV9KV3c?oc=5
+- **Source:** Microsoft Azure
+- **Published:** 2026-10-06T21:00:00+00:00
+
+## Microsoft (NASDAQ:MSFT) Stock Jumps as Melius Raises Price Target to US$665 on AI Security Boom - Stocks Down Under
+
+- **URL:** https://news.google.com/rss/articles/CBMif0FVX3lxTE0xZURJTG9XQWtXQlBXeGxISUJXQjduWXlfemduR2xTLWJYY2MyazAyczM2S3ZXUXZpT2huMkFnZ1hSRHlHUFRWS1lEOS1COTdMU0ZjR05fWlNPMVF5WjN0cjdUc0VIZ3plZzNtekgtVW9OcDNSa1Vvak5KSjFnUjQ?oc=5
+- **Source:** Stocks Down Under
+- **Published:** 2026-10-06T20:44:57+00:00
+
+## Disruption in Action: Inside Microsoft's Digital Crimes Unit (DCU) - Mayer Brown
+
+- **URL:** https://news.google.com/rss/articles/CBMitwFBVV95cUxPZk9vNDF4WEtvVjVfRW5xSVNEbnNyYXEwYXdXTndEaGhvcnRDbkhsbEU4aFVSaGVRV3lrYXBkYktWLTFiQ0hhSWdnVVNNRlpGdGFnRW5GTWFhSllfSS1HT2U0ZjFHOGpDejVaTXgxVUNrbldmOFA1bXVfbUJET2xNVHBRRlNlWHo0NzFiQTF2UkRIS2hrZVM0a0xRRVN1SkFPbmhHVkkzTndXSGJKNGZzdU1XRkExU1U?oc=5
+- **Source:** Mayer Brown
+- **Published:** 2026-10-06T20:44:13+00:00
+
+## Microsoft has confirmed that Project Helix will be a family of Xbox devices, not a single console. - GameGPU
+
+- **URL:** https://news.google.com/rss/articles/CBMiyAFBVV95cUxNUEJjeWRxY295RDZZWU9WYmJtajZLSWRXN3VkYWtwdS1ZRnFTUUpMMGczY0pVeGwtRGJCM2N0WHdVNDdhb2lDY1M1Y1kwbTZVb2lUak5xUWZJbEZiSllKbWZZNENmTERNRHNXemZ3SS1paHlYVEwtNTJPbmNWMHNfMktpd3pHb2d4OFFyUmltWDA4TDZiX3YzRlAtbjdDSzJlYVhPNzYyTVF1YlNFV2gzb3NrSFBFeWRWWTR2bWw3SUpUdTdWX1I1WA?oc=5
+- **Source:** GameGPU
+- **Published:** 2026-10-06T20:43:57+00:00
+
+## J.P. Morgan Maintains Microsoft(MSFT.US) With Buy Rating, Maintains Target Price $625 - Moomoo
+
+- **URL:** https://news.google.com/rss/articles/CBMiswFBVV95cUxPR2hLTm0wYkhBM0dEZGN0ei1UU1FVMWQ0dmxLTFRHOW5IZEZnSW9FMU1LUlJSMzNyMmgwT0xaTXhVRWJoeE80bzg1TGRQNlNyYXJwaXZ6V0w4bzA5UHI3azFnME9MT043ZnZWSGx3YjQ2VGlVeXZmRnJOcUhHYmx0ME5XbkhoeTV5SVlUYVJvQnAydlJqRWczQ1cza0E4QnJMV25OM2ZOR3R4UmREc21aQlNCcw?oc=5
+- **Source:** Moomoo
+- **Published:** 2026-10-06T20:33:40+00:00
+
+## Google Joins Microsoft, Amazon, and Meta on Constellation’s Energy Roster - Yahoo Finance
+
+- **URL:** https://news.google.com/rss/articles/CBMilgFBVV95cUxPemxsVDl0ZjNjRk9tWEdUelpxNHlVUXg3Uk44WU9ZRGk3aG1CQmNFZVNYRlh6X3ViQlBDVTdhVkhkUDNvWlhHWWw5ZEpBZ2o2SFB1Zi1qYVdwNkw2TVZ6NUNQN3puSVdMVGpBT21YTGc1NDZJbFlwRlhqbFZBVDNyMTJJSUJYU1NfSkE5RWRBUndHLWJUZWc?oc=5
+- **Source:** Yahoo Finance
+- **Published:** 2026-10-06T20:33:10+00:00
+
+## Meta, Microsoft Walk Away From Anthropic as Their Own AI Tools Gain Ground - TradingView
+
+- **URL:** https://news.google.com/rss/articles/CBMizgFBVV95cUxQbGFzRVJuWU54S0N5ZlI0VmNkLURfN0xRVGJrS0k4S0xJNWtLY3pRM1lMajJnOGc2OUpiWGRUNk9DanhIb0I3X3UteW5tQk5LTm1qZTAtR3ZhVTFtZGlqcXNBTGlzaEcyTW5sUWFJU1VSV2RRc1JXdGNHNlZQTEtXX3I2Zzc4YmdTQTBWbzl5NVRzdjZqRHRra1oyeEtEQUNPTkZtaVRkZlUtNTlCd2JyZ2ltelVwMi1Pd2hyb2JWUnRSX05tc1dGcVdKLWNOUQ?oc=5
+- **Source:** TradingView
+- **Published:** 2026-10-06T20:30:23+00:00
+
+## From Plain English to Passing Tests: Momentic on Microsoft Foundry with Claude - Microsoft
+
+- **URL:** https://news.google.com/rss/articles/CBMif0FVX3lxTE9iRHpEbzV5TGdMSFVtLXYtTFN4ZHc0dzBySkdDc1JOWFlCajRNNnViTXR1Q0ZvSXdvcGdkS2R6RUV2Q2VkV0lWd1FtUk5iYUZZUURNSnpuYTQ0UC1BYnZtOVkxMV96MXpJQkNHdlRvRGpyMlNwdF95aW5HZzJXczg?oc=5
+- **Source:** Microsoft
+- **Published:** 2026-10-06T20:29:26+00:00
+
+## Microsoft Flight Simulator Releases its Airbus Helicopters H125 for MSFS (2020) - Microsoft Flight Simulator
+
+- **URL:** https://news.google.com/rss/articles/CBMirwFBVV95cUxOTUUxU18xVldRNjhwOXdNeHJUNnFGS2ZwVGNueVF4MHktbGdNWHBLMkVUcTE4RVIzaUVlTHZILXFKaXpJbGVUTjk0eDAtdC13LWpOQ2NEMXpwWWFiS29YRlZCbUdBNDV2QjlCb1FtbTllTy1MdzJQZ0pIc2RqZVpkMGRxZGM4bkdnNGFsYkxQTVNibHFyR2tGcnhvR09Ib0hURXc3dWpFZHVuQ0xLbHZz?oc=5
+- **Source:** Microsoft Flight Simulator
+- **Published:** 2026-10-06T20:16:59+00:00
+
+## Council of Europe and Microsoft sign framework cooperation agreement to promote human rights in the age of AI - www.coe.int
+
+- **URL:** https://news.google.com/rss/articles/CBMi3gFBVV95cUxOR2R1R3NCeWVyejdoWmpRbV9rODJGelZhR19UMy04NG5kS2Zvc3BVNk1pVjJBSC1SZzhGMFlSM3NyV1cyUVUwVFNVQzFvX0M0SE04dXBHZU50dUJOZUhOR2FPbXdIbEFUVUxyWU9LU0lDTWF6ajFuUGRGdml3WGR5aThmVWRYa2ItYmZ2NlJfR05idjJwTXFlVkZBNHRpQ1FkTWcwcC05QndwbnM0ajNJNlc5TlhXb2FPeGlWVm5zMFNSSlhYallZdlZfNEVxaC1kVVl2MnAxTE10YndUOVE?oc=5
+- **Source:** www.coe.int
+- **Published:** 2026-10-06T20:16:43+00:00
+
+## Windows 11 gains ground as price hike looms for Windows 10 security updates - Computerworld
+
+- **URL:** https://news.google.com/rss/articles/CBMixAFBVV95cUxPS1hwb202bi1YbmZseEZRdWRQSEVicFVFTFNXeG9GNVdXUjBlT2Y0aENuOUlYMkVWZDloOERxaVZFYVZTeXBXWXhZZ01ibEVkSlh0Y1EyckhtR1NxQVE4LU9kcjM1X244cWVlZFp5YVVRUUpHNnY2LWJsSEpqYXlzemRhUFNLRFlaMUowemRiYTdCNGQ2NDkwMUMwQUw1TE1Hck15X1FHYjhVdXotWTNNSXJscWRVQUV3U2tWdTJnZ0xPQkxn?oc=5
+- **Source:** Computerworld
+- **Published:** 2026-10-06T20:00:26+00:00
+
+## New Xbox generation is a 'family of devices,' console and handheld options teased by Microsoft - TweakTown
+
+- **URL:** https://news.google.com/rss/articles/CBMi1wFBVV95cUxNM3lRVFBTRkg4Q0VvcjdFT0tQVTR4NFAzQjBvc3pVT2xlVTd2UE1sc3dNR1hsU3Bfb3RhdTRhQ3V5QV9lQ3VJQWs3R19fdmtRS3pXTWZlWDRXa1NsV0cxXzJkUTRxdE5kVlVndEEyOXJ2VzlSaWRReUV6QnJvRk9VSUVnMk00SzNtcVQxSFh3SWlXdkJzX1l3YVhrM1JSRVJEcEpLcUJYT05hLVlLXzdJMGVxRlByQzZEelk5YnpnSEhlYTVmaC1td3lqRUljQnp1VHhuTmdKdw?oc=5
+- **Source:** TweakTown
+- **Published:** 2026-10-06T19:44:10+00:00
+
+## You don’t want Microsoft Office. You need it. It’s $16.97. - Mashable
+
+- **URL:** https://news.google.com/rss/articles/CBMijgFBVV95cUxOeFpQUnRGWjFIRk13S0tiQ3BXb3JGNjdqLVIwTHFYY1lUNkowQXBhSUtGc2tpQVBqQVBDOWR5bno1aWVlQmQyZTdNbUNaNHVHNzFrZGFpSXluUUM4S0x2OHBnd0hRWmlMNkJzeU10V0t0STRaU1JYcmhkTkRFWHVodjZtQ3pLLWxwYlVTVEZn?oc=5
+- **Source:** Mashable
+- **Published:** 2026-10-06T19:34:27+00:00
+
+## $49.97 gets you Microsoft Word, Excel, PowerPoint, and more for life - Mashable
+
+- **URL:** https://news.google.com/rss/articles/CBMie0FVX3lxTFAwTFFvaDRQZGtmYnVQd3UxU1JXZW8yUUtyRzBOWjZtZGxNdy01VkhVa3JQZUxKZTZFUUo2M3JlNFpiNlhSekVVTzU3OE1LZ21jd2RnMFdyck0yOXBXQmc1b2tlbFNMckE1NTBrVk5sWGxkZDY1WUtFMXM4cw?oc=5
+- **Source:** Mashable
+- **Published:** 2026-10-06T19:34:26+00:00
+
+## Jim Cramer: Microsoft’s “Monster” Data Center Play Is Starting to Pay Off - TIKR.com
+
+- **URL:** https://news.google.com/rss/articles/CBMimwFBVV95cUxOZ3RHazZ3RVp0QWlMMnFsNElaT1dlcS1GcVFueGRwblp1SjRoUlNGdzlFY2pUQjVDWGk4T2JrLTdhemNpS1NISldEWVdBaXE5ZkFrWVgzX1NHRDBpdTVqaUY4T1FMUG81bjV6dzFyRU9ETUFwYi1hMFZ5VFM3c2lHTXU4X0tpaUpyLXlsNVFKSGR2YXUzcGNSaTB4RQ?oc=5
+- **Source:** TIKR.com
+- **Published:** 2026-10-06T19:30:00+00:00
+
+## Xbox Boss Suggests Project Helix Won't Be The Only Next-Gen System From Microsoft - Pure Xbox
+
+- **URL:** https://news.google.com/rss/articles/CBMiugFBVV95cUxNbVI1VFQtS0ozTkpZV3VXWDB1T29Kb09mMGlFMG9qLWZzVVFSemhXX3d3TUk0ak1Pc3k1cTl0Z05VZEp5UlJuZVVxM2NUUUx1bDJPR1E5SVpPR3Bsa1FfM0Nqdm1zSFFWMUZRNm9RSHJ0bE40SkVyZjFhbE5EVTBLbXB5RmtBQWdsRWttZGdLcmNJdGpmN0VuYXVOV3BMMUVrNWFuODcyLTdZU3paRWRDdzY0b1dpLS1BMEE?oc=5
+- **Source:** Pure Xbox
+- **Published:** 2026-10-06T19:05:00+00:00
+
+## A $1,000 Bet on Microsoft a Decade Ago Crushed the Market by Over 3x - AOL.com
+
+- **URL:** https://news.google.com/rss/articles/CBMiekFVX3lxTE5sZnN4R19fY2JBZ3d2VmRTSWRBOEtqU0o4ZzQ0UE1mRFZEMWdFenN3Yy1NZC1iNGM5UXNjS2NLU0FDS3ZYazNEOVlFR3dVYU1HbmxPZEdzeDNZMC1IdjA4cEhuV1k4NEtPQXNxVlhTcURMRm50aFpOR09R?oc=5
+- **Source:** AOL.com
+- **Published:** 2026-10-06T19:00:30+00:00
+
+## A $1,000 Bet on Microsoft a Decade Ago Crushed the Market by Over 3x - 24/7 Wall St.
+
+- **URL:** https://news.google.com/rss/articles/CBMirwFBVV95cUxPc3kzMG9OdlZMWXhtZUlVbmc2UHNNZng5Z2FtdC1QeXJQbXVEOUw4c0ZDSHVpTTZMVl8zNXNjdmJ1OWtjN2N2SzJqSVdaQmNZTWo1cktZaTctSGlJMHJoY2duWWIyNDBrUVVjR0FaX08tU1VNWTlnNUNNbkc2M1lpVVlxX0c1VzNCTlVJYmRoYnk5eHIyYXotWlEtVS1kWnFxemtaR0k2c0NHakJWVElj?oc=5
+- **Source:** 24/7 Wall St.
+- **Published:** 2026-10-06T19:00:00+00:00
+
+## Microsoft Advertising gains LinkedIn company lists of up to 10,000 firms - PPC Land
+
+- **URL:** https://news.google.com/rss/articles/CBMilAFBVV95cUxPc0dxNXg3QUc2bFdvR1p5NjV0V0Q1UEw4bTdGdG8yekduQi1aYTBjZDN5dFM5eDRweTJXcnBFRlQ2TExJVTNQQzVjQ0xjTmotd3hUOXBqN0t6anFIVkZNNEdSbWpyUEZCUFFIeFhiTndCRDFQM1U1eEljNUtSVEtZZVk1MUpQMkR5ZkVTVzFydXZuLVRY?oc=5
+- **Source:** PPC Land
+- **Published:** 2026-10-06T18:57:35+00:00
+
+## Dear Microsoft Stock Fans, Mark Your Calendars for October 7 - Barchart.com
+
+- **URL:** https://news.google.com/rss/articles/CBMipgFBVV95cUxONEYtR3ZjSFJZRXZZRFBpaWtITUg3UGF1S0ZBTjJWc0lkb0hzRW4tZTMzc3ZobFZsREt1TFkxSTBPdUFpX1B6UGZ0V1NlZFlJZnJxQURvUEM4QUUtbkU3R1M2Tjg0OHJjV2xLRXM3bkpsa0kzMm1mVnZua2hGY1lhbDVkNDFEWHF0WndWT1ZsRFAwNVZMR0dlV2szYWJEaDhWU1AzZDh3?oc=5
+- **Source:** Barchart.com
+- **Published:** 2026-10-06T18:55:39+00:00
+
+## Will Microsoft Partnership Change Everforth (EFOR) Stock Narrative - Simply Wall Street
+
+- **URL:** https://news.google.com/rss/articles/CBMixAFBVV95cUxQLXhWVTNVMVFwdXZRb1M2RG91V2pjOUhTaDBMMEF0R0YxbUdIR0F4eUNYUEtNX3F0NFdpWmZRQnNPSzlMMGNBRW9BOUI0QjQzemh6Qi1XeWRRVHo5Y19zS0RGTjJGd2Rwdk5kSE8yczRuNDFvV3VSUzAxMW0xOVBYZmg0bDJwcC1reTJzTENSSHpzTXpPazlwQmp6X2xxMUlaQmZORGs5WUZkT0dUZTQ5Nlo3RkhjeUlzQlRHems4ZTJ1STE20gHKAUFVX3lxTE1YZ0NUV0ttYy0xT0stTm1sNmIyTUo5MHVhdDVMWHdacW9kX29GYWZnaGt1WEkzSVltVm90RGVuVGgwcE9CckgxbEQ4ejZVMlRCdU9ZdHU0TmF3cW1jU01vcFJhXy16NkJGYlFWZlRZOTRYYlVkZzUtem1IdmdmWmV0V0ExdzhObnM0NXZ2VTZCYWRrYy1pbWFtcW5fc2RVSVB4elYxeEVNZFkzeUktSG5ZdTlNTWlDSlpSbGFyN2lhTDlkRjMtUDBzNUE?oc=5
+- **Source:** Simply Wall Street
+- **Published:** 2026-10-06T18:37:28+00:00
+
+## Microsoft Keeps Winning in AI. The Stock Is Still Waiting - TradingView
+
+- **URL:** https://news.google.com/rss/articles/CBMitwFBVV95cUxQU3RqY1BxVEZVN3FSSklXdkY2UFNaUF9FaEZ3YTBra3ptbW5yVnNlQnBuckYzUm55bEU0bVQwVm5vSG5HZ3V2WUlKbkhENWx0dFpDaW81M1RsdUs0bEtuTlpxUGtKU0NOZXdJdWx4SEVKS1o0Q1VpZWVTQUFjQzA2dGhuTG1QWVpxaEVXOTZVd0FYeHMwcWlnRUhleUk4clhXeHRQVlRvV2JKQzUzSmNSaVlfb3BMdmc?oc=5
+- **Source:** TradingView
+- **Published:** 2026-10-06T18:35:12+00:00
+
+## Microsoft’s New Frontier Specialization Opens AI Agent Opportunities for Partners - Channel Insider
+
+- **URL:** https://news.google.com/rss/articles/CBMinwFBVV95cUxPYnJOM1lLcHFXWGZHWnQ5bVBCUl9yZWU2TFYwVWFYTWNuV1pvUVVXOENpNUJSVHY0S2p5MXV6WVVjSEF3dE9oN3NqTmlSbVNlRU8zazZIUnVaNmpQUEZ3dDNBVEhibElnR003bmtDLUdmTnhXR0pEYUpFLTA1WVhKUDdzeGFRLV9YdmxRcHMtSTYxMzY1elRKRXJCVmctR1E?oc=5
+- **Source:** Channel Insider
+- **Published:** 2026-10-06T18:22:12+00:00
+
+## Before Rolling Out Copilot, Prioritize Data Governance With Microsoft Purview - BizTech Magazine
+
+- **URL:** https://news.google.com/rss/articles/CBMirAFBVV95cUxNVHRjd2dmT2F5enR0ZDFIcGtNb0JWRkNjeHdaQ0NQdEE5SXhpZlo4QjFhaURfbkJQM09wUjkwc1VyRVhMVFgyemV5TTFxS2JQaXFacGRYM2hzZXREdmVMR245cDhhNmM3VFB4LW1qY1R3WGU5SGVEcklwLXNheGhkRXROV3RrWHNxMVR0U2FmeGtFbzFobTdHcVhMTDlSWkNNSmV5cS1Ya3F1VXNV?oc=5
+- **Source:** BizTech Magazine
+- **Published:** 2026-10-06T18:19:12+00:00
 
 ## Nvidia, Apple, Microsoft Drive 21% of S&P 500: ETF Exposure Explained - State Street SPDR S&P 500 ETF Tru - Benzinga
 
@@ -111,195 +303,3 @@ _Last updated: 2026-10-06T18:01:19.944852+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMiZ0FVX3lxTE94Q1FpZTJOd3UzRkZlVFE4MGhmTVFCRy01ZThOb1A0ZV96WG5XeExPblZjcldoUDducHBJSzBEVHAyM0VvTF9KdlVpU1I4ZEg2bHpFY2hXQnhvWGFYejFKY09rMVQ5OFk?oc=5
 - **Source:** Microsoft
 - **Published:** 2026-10-06T15:54:38+00:00
-
-## Council of Europe and Microsoft sign framework cooperation agreement to promote human rights in the age of AI - Council of Europe
-
-- **URL:** https://news.google.com/rss/articles/CBMi3gFBVV95cUxQS0swRmVPQTJ4R1piRm9TSnZwOUxEbEE1OWplenF6czk0NUtQcmZfRjNLVWJBT1dnSjVzTmJFbzBqcmF2WlZDTlQ5QUdySDByUDZDS0h0ZHdYN25YUEgxLXhsQ1FUZ3UwMlpVQVcwM3h3cmExRXZlUlNQbEFhTXNOb3YwN2tsLXVfQ0lKVExkdlBMSGdfTnVVbzZRX3MxTnlMM2I0Nm1fcF8tRzBCTXdXdVJrNnpMeXZlRTg2eWlFTV9ZcDAtclpxR0hHQkYzdllwWUFZYUl3X3NmbUVlRGc?oc=5
-- **Source:** Council of Europe
-- **Published:** 2026-10-06T15:36:32+00:00
-
-## Dutch tax authority will ditch Microsoft 365 in favor of on-premises and open source - Neowin
-
-- **URL:** https://news.google.com/rss/articles/CBMiswFBVV95cUxOdGpMUXJOcHlsLWtsSlZfakhrM1VjUEJoSDZmcjJXZ2hzN0lJa3pYU3U2UDI3M0hObGhEX1padExEMTQzWEp1bTVKMkloRWpITEM2M01ESHVvX1dycTJ6bGgtNXdpM3JnOWFvdDN0NVByOWhhM1RlQkNpR1lWTHlzTFVuc3FhREtHVmhMemh5VjNPdk1telhaWF9BNEhpQXI0Z2RyNk53dW9fSVc2TEN6X3NhSQ?oc=5
-- **Source:** Neowin
-- **Published:** 2026-10-06T15:36:00+00:00
-
-## Microsoft’s Anti-American Policies - The Daily Signal
-
-- **URL:** https://news.google.com/rss/articles/CBMikwFBVV95cUxNYnp0UlhvblBGSGNQdmdEUlFxSzM5RS1qUXR4Tkx0RzBoRFV5MWozenBuZWxFaDFaV2g2eXN6aXAxVkcxZ2Y3T2Qzd3duMXRpQWQ2LUk1ZTg4Qmxpak8tUmtzY0paUHM5b1hxVzlKb052Ykt3Ny1sNU9CaUQ2Q2JmeDA1LUJjeko0ZTduNi1jR0IyVkk?oc=5
-- **Source:** The Daily Signal
-- **Published:** 2026-10-06T15:35:00+00:00
-
-## Xbox Elite Series 3 Controller Leaked by Microsoft - TechPowerUp
-
-- **URL:** https://news.google.com/rss/articles/CBMijgFBVV95cUxOS2pRd0t0Q1lPMFNaLTdPZW5YeEttRXU3dUExTGFnYkdNMmFNYUVHS0dwdkZZR19URmk3cEN1bURrTm94YU5GVzZ5cW5OUDdqcUxOTUgzOVNSRXVrNjc5TlpvS1dnUUhiaUpMZTV1bGdKOGlOaG1BYzJXZWczZVlwM3BGTnZzTVJtNHJwbVhn0gGTAUFVX3lxTE84WWNCcUVLNnlNSE9kT2VObEVRTWV3MHZ0SVdyM1pmUVQ2TkxDbGZ3Qkw2RjhobGRIVDhKRllJNzhRZzRZTXp0MFZJT1RVdW4yeEFGaERxYThxeTlVTUw0VGJkVmY2Ykw1UW9BbjVBZDNCMkdPaEZUME1VRTVhREEwUTVsUmF3eXZENUU4UlBwTXFEcw?oc=5
-- **Source:** TechPowerUp
-- **Published:** 2026-10-06T15:11:34+00:00
-
-## Microsoft extends the Outlook naughty step with two more file types - The Register
-
-- **URL:** https://news.google.com/rss/articles/CBMiwAFBVV95cUxNV0FVZlBmWlFfMGFVTXpfUmhzSHZJbHc2M1ltNnZSQkZzYlVHeEw4eF90Tmdxem5PdGplczNBRW16MkI3LWpMT1lzZ2p4MXhvd1dvUC14YXBhbGZLTkRJb2FiQkZfaDhhRTVGRnZfVkphdndsazlrcWJKd3Y0UVcwQnBMOG1ndFB4UE1IN0FYVmI4UlhoT0Z0U09NVUNfQW94eEhQdktSbFlLVWVNREljWXhrRmo5RTJVYmV2YndOTy0?oc=5
-- **Source:** The Register
-- **Published:** 2026-10-06T15:06:00+00:00
-
-## Microsoft reveals what’s actually new in Windows 11 26H2, and how to verify it - Windows Latest
-
-- **URL:** https://news.google.com/rss/articles/CBMiugFBVV95cUxNaTRlaFdQeVM0QTZ1LWxlLWp4amd4cmVBUHRBQzlqbWRHUENOMDk1ckZtTFlGb2czbENuLWxfRlFDdjNOaGg0U1RYQ0JYcF9ZS2hHV3RFNmpPUlJYc25vLVJCOFhYT0tVQjRmNHBwYk1BOF9idVFiY0hNTnpsRVJZUjZqazc0bG8zX0Z5MEc5S2RkeE5mM25IR2NtUU55bXFVMkpVTEM5MlFpdTQyY3BfaWxNMENNYVZpd3c?oc=5
-- **Source:** Windows Latest
-- **Published:** 2026-10-06T15:00:48+00:00
-
-## What the Reports Actually Say - https://tech-insider.org/
-
-- **URL:** https://news.google.com/rss/articles/CBMiZkFVX3lxTFBycF9Eak5hbWZ6bjFrNGx6RzNlZnVieU9HSFVQdG0xakJUQVpqdkNBR0UwX1dicFNvUXA2bWZJQTFUS2dfU3hoN0Ftc2t4RnlWSHRVTnVPWU9JTmxmSHBoQXI3TWJPZw?oc=5
-- **Source:** https://tech-insider.org/
-- **Published:** 2026-10-06T14:38:43+00:00
-
-## I ditched multiple Excel worksheets for one dynamic report and saved myself a ton of work - How-To Geek
-
-- **URL:** https://news.google.com/rss/articles/CBMimAFBVV95cUxNZGkzdVJTamFCaXBoV0NWcnJHSGp0dHlDaWtEckE2SVVmb01Ya3J6TnhjNUdIWnNrU01wUGJBTG50all0a3ZkXy1RMW9lU1lqZlpQZUxpNVFYV29YbC1kQXdDc3Q0d1J3b2o5OWdUVy1zOG96aXNvOTFLTGdjTGNaMUtqMzN1TmJOOS1GNHVTb1FjVnJ1bUkyWg?oc=5
-- **Source:** How-To Geek
-- **Published:** 2026-10-06T14:30:15+00:00
-
-## Microsoft Exchange flaw allows hackers to read mailboxes across an organization, so patch now - TechRadar
-
-- **URL:** https://news.google.com/rss/articles/CBMiywFBVV95cUxOOEhmWmMzRW15WUl5TkNLaWFnMFJfYWdaVGxnZ1pzdThVSDFBRWtEcmJqUF8tTDN1OVRYaU5xU0UwMWR6Z2dvbXlBaVl3bklxZjZmQTFPSWQyVUxCQUlRTWdrSnp5Vk53SW5mUDd5bnB3dWlDZEwtcU1XMjZ1clJUdnZQOFBZdWVRVU1WdVNvVnd0d1ExeU9EdC1oTHZaNTd5Q1lHUGZ3SHJiMFVLb2FLY2o3T045YWhMQ2VGYkxSR3laM0VtUTdJenJzcw?oc=5
-- **Source:** TechRadar
-- **Published:** 2026-10-06T14:29:56+00:00
-
-## Bye Microsoft, see you again!! - Moomoo
-
-- **URL:** https://news.google.com/rss/articles/CBMiiAFBVV95cUxNaEJRcHlKd0pBekY1aURRV1Q5MlFKR2dMeWUzMjE5VnNKSDc2QTZ1MDE4M2ZvY1ZFTnNTQWRmazZhSHFWMm52NXFsd0d5a1liWWU0cnlfWXBkTTFZUFVlbkFNa0p5ejlYd3Q1MHY0akd4WE9NRW8tQjc3VVhXVE8yZy1zU0tPZXl3?oc=5
-- **Source:** Moomoo
-- **Published:** 2026-10-06T14:21:05+00:00
-
-## MSFT Rises 41% in 6 Months on Solid AI Demand: Should You Hold Now? - Yahoo Finance Singapore
-
-- **URL:** https://news.google.com/rss/articles/CBMie0FVX3lxTE9LRjB4bk5jNXctTzd5bWo5d1EwT3FMa3ZYdkJGZHJ2b0tyZW15U3lyNWtFUkU0V213dnhxaDdRU3B4X2tBWkZCM0tseXBBU1hvVE5nVEM1c1BBbmMtcjZpemZBalkyblFRNHJkUkdaV2FGVmNSM2VoX0ZHQQ?oc=5
-- **Source:** Yahoo Finance Singapore
-- **Published:** 2026-10-06T14:19:00+00:00
-
-## Preparing governments for an era of interconnected cyber risk - Microsoft Source
-
-- **URL:** https://news.google.com/rss/articles/CBMisgFBVV95cUxOZFh5QmZyTjlTUVVBVVZUcWFnTlhIUEtaRUdJYlFvRkJzYmswWUJtRzd5cGtaakwxakYxaE9PbEhXUlFJQ2MtWHFWc3lleGRwNVloUGFHeWx6MWdlcGFUUkx6SVlHbW9LY1hBRHkwVWliRmxKZEpMMWQ4MjFMWDl2NWR1OTgwT3VkblVLdmpwWDR4QWtXS2dZNW01ejVvNngtNnpaT0MwYUVPcmVRX3I0bXln?oc=5
-- **Source:** Microsoft Source
-- **Published:** 2026-10-06T14:16:02+00:00
-
-## Microsoft’s Xbox Elite Series 3 Controller Leaks Again - Thurrott.com
-
-- **URL:** https://news.google.com/rss/articles/CBMilgFBVV95cUxOakJmcFlzLXZUWE0yckV1LXVwLThoV0hCY3d0aGJvbmdDeVlWczVnN3RyRmx6WTA3UGRxZ3pGQUc0SXE1M19tVU44R3JlWTRYeUZTNktGZ3BMZ3VZVXZTZHZ5UWVtTllMbnJiRV8zTUJtenM2b205aWM2QzVXcGRRalRkVnJ2TTViMVp0MFkyZW9ud002X3c?oc=5
-- **Source:** Thurrott.com
-- **Published:** 2026-10-06T14:12:54+00:00
-
-## CVE-2026-96940: Microsoft Fixes Exchange Server Flaw For Which Exploitation Is More Likely - Security Affairs
-
-- **URL:** https://news.google.com/rss/articles/CBMitAFBVV95cUxPX2hrQmJGTzVPQjhINnlEVzNoSmVYSnU4UGRudi01SndSQktTdDhOYUlpaGJWWHFsX1c1SXlQNHpjLW9BUTU0ZGZfOXIzdUpFUkdVcWs5cXBoYnQxd3AxTEFRSmZMZi02cVBpX19Sd0JLWGVoZXk2bW5Kd0FnZ2NndDJ1alFXSmhxNHBLM2hDQ0I4SHVoeTVBV3RubTMwTmVxRlF3T2VlN2xsTHFEVW0xcWtfR0jSAboBQVVfeXFMTi1rUXNPb3UxaGxTM1FHam1xZlJTMDdwWnRHZk5aOWRxMmJ2WmdqVW1QQVNHbUtOTE1rOEF6Q2F1cHpCTkZtZVZjWGE5eXFBbkJXNjFVNEhPQkhOU01WQWRQZFZoNnQyQTZVamFBVW5QaHZqc2pXVnlRa29OdUo0MmtCTDdGN1lVcC1PMnNjc0tZcENHWHZDczBzcG1abldLSTI5Y1RRY0ROSkxYUXF5QmVJRkl1eXJLc0Fn?oc=5
-- **Source:** Security Affairs
-- **Published:** 2026-10-06T14:10:27+00:00
-
-## Classic Outlook clings to stale search results as Microsoft works on a fix - The Register
-
-- **URL:** https://news.google.com/rss/articles/CBMiygFBVV95cUxNbDMwT3RrYl80Xy1wRVctRUo0QnhiYkxDaWpDLS1ibVhadmVWNWRhME9qMXRjUDc2a0lFZ0FyMEFOdkZRa1FQYy10enJLa0V0V0xhNG5wb0xsN1IzRW1OQmVoOGMwVmt4cEFfMnNiQXRNV3dvR0N5cG9LZHYzc2RUbDNsUEh1VzJCbWxWNk9ZWjU2QzkzQk5sUmNZMHlNNkNIaDdSZFhrSFA5VWVaeHZoZlVjTFVoSjFBTVh0T0Nvbmk3bTN0d01PQzFR?oc=5
-- **Source:** The Register
-- **Published:** 2026-10-06T14:10:00+00:00
-
-## Microsoft’s MAI Models Were Built for the Cloud. October 7 Is When They Come to the Device. - Forkast News
-
-- **URL:** https://news.google.com/rss/articles/CBMirwFBVV95cUxOZ01sTDVMZkx3YTN3SjJTcGNlS0haaDVxb0RoVmhDb28tcVBDNW5TYTgzQk50UHMweFIyZTZNd1Jma05uWGF5M1JxSElRemgyMjJ2SXVhSDk2WWpBeDl2YVdxcDhTRU0zLWtTTTk5R0RnMU5XaWdxcU1OV1g5T002UHY1YkpaaUN3XzA1aFQ2aFo1bVo1amNsN25xbWdsSV9xejllQUlKcUFNMEJXOE9r?oc=5
-- **Source:** Forkast News
-- **Published:** 2026-10-06T14:09:47+00:00
-
-## Nvidia, Apple, and Microsoft are keeping the stock market afloat - Yahoo Finance
-
-- **URL:** https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWGdfdXVSdklpMHBQSFlLMDVsN2ZkQk83U3R1UUpLbHlLTmtBek9NV0NydG9yOFlzMHdZd2VsQzE5ZGZFUjFFNGVocTlVSjJlYUhtX3FRSWpRMW9SNUMxZEhhaG54QVdDTlNuMkYxTzVYd3NYWkE4MmEzbDc3REs1YURBcGtqTW56OXJLWnA0eFhTSVBKRS11ZHdIemlDOWhmdXBteWNWTWpXYVRwX1JCR1ZSRlJGaURDUVRF?oc=5
-- **Source:** Yahoo Finance
-- **Published:** 2026-10-06T14:08:45+00:00
-
-## Microsoft Stock (MSFT) Opinions on AI Model Shifts - Quiver Quantitative
-
-- **URL:** https://news.google.com/rss/articles/CBMikAFBVV95cUxONFJSbkowTERQOGhfYUJBOHo2TExiZE1pWEpJdkhIWmZ6WFkycTRWaEFqcHJENWZJZ3Y1UEwyNFBxV05UcngwZ2ZtYXlxM3BOX1djRHdvcGtRWmt4WkhvRzBHbkIwcEkxZWNZckJmcGR3aVlUcXdGZE8zY3ZEUmljMHV3ekh3SHFqcUhXLUdYeFo?oc=5
-- **Source:** Quiver Quantitative
-- **Published:** 2026-10-06T14:04:00+00:00
-
-## Need AI Agents To Run Workflows With No Exceptions? Microsoft Has A Hook for That - Cloud Wars
-
-- **URL:** https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRmc4cHZia1F5cWJGUEtoNGpESjBEMGZKUTFnSlJJTkpjTk1YZnR5SGFQSHRVV2hJZUotZWNPT3cydWp2Y1dSUk16U1VaWkNTelFRQ3I2WjdJSkh4b0lSdFhSZXdGZ2JGaFF6VzNDLXlyQXRDQVVVczlvUVVMN09zX1ctaHBFR3NReUw4MTRfajZab0RnV2xmekpQclRwY00wMUhVazNpcEtxUQ?oc=5
-- **Source:** Cloud Wars
-- **Published:** 2026-10-06T14:00:00+00:00
-
-## Reco Joins Invitation-Only Microsoft for Startups Pegasus Program to Accelerate Enterprise Agent Security - markets.businessinsider.com
-
-- **URL:** https://news.google.com/rss/articles/CBMi9wFBVV95cUxPclpQR1J5cUNJSFdMN0V2Mkg2WlUxVUtBX0ZfSWtzbEkzYWlsaG5UazQ3c0FTOURLOUhtOUJDUWVkcndTTTQyZ0RKOWg4R1NQUU80ZjhjUlNscGpyVTdFMXp0NktqOWlGMXB6X3N4Yy1lM196NzNDdzJkb25TNVNwZjdMbFRzNzRmMkhVcnFzZm1xSDQtSlFRNzBFVHh4UnNvd2d5c192c2FhUk1xOUtORzJjQjFzcHRlWHB3YWxVY0VWNHBkVEVQdmgtUnFYRjJiVEJjY0xmU3BpdXNGX0M4M0dQR2ZSeVRHUkJmWEZkNEhCMVdCWUVZ?oc=5
-- **Source:** markets.businessinsider.com
-- **Published:** 2026-10-06T13:30:44+00:00
-
-## Microsoft Adds New Group Policy Settings in Windows 11 Version 26H2 - Petri IT Knowledgebase
-
-- **URL:** https://news.google.com/rss/articles/CBMidEFVX3lxTE9UTWItR283clZlclU4UC1qTy14YUF5TndmZjdYNkN6Nnh1S2dkbnphS1R6LWxfNjRPeXRGZV9Sb0Y1Vzd6YW96VkNtVHpWNmhZWFd4eGNDd2xRdmpVcG1nVHNSdS1sdG5VSTNLVmNZeHQ0emJn?oc=5
-- **Source:** Petri IT Knowledgebase
-- **Published:** 2026-10-06T13:29:41+00:00
-
-## Meta and Microsoft want to stop their employees using Claude - TechRadar
-
-- **URL:** https://news.google.com/rss/articles/CBMilAFBVV95cUxOWmFuSW85ZE1JZWdRd016aENubERXOUFMVkpTeWdVY3VKQUdiWVJxbkd0Yk14ei1DU1MxbU9iSlVhVmlSWVFJZmFBTVVaT1Z1eENnMjY1VnNHaXF2c3hQVmRGMmI3X0d6MHNjR0drWlZyVFFRLUJLaVV3N1F1eDdYaTFMNzJNRF9RNFdPemVKdTF2WU00?oc=5
-- **Source:** TechRadar
-- **Published:** 2026-10-06T13:10:00+00:00
-
-## QTS acquires former Microsoft exec during European expansion - Capacity Media
-
-- **URL:** https://news.google.com/rss/articles/CBMimAFBVV95cUxQTzY0TVlLZEoxUFY1R09NbzVpZTBRMTk0ZW5PSkVJQUVoeVFuWGpxRFpINnN0ak9TOGtBUTMzSWFMcVJIdV9rLWw4LUVoWkhudkVULU1ZOFMxME03VWdaN3VFYnRKUWthVXBGQk03T29ZNzdLRWV6WEgxa1Uwc0FtWVBIVGx0VzdqbDNwSTJJTzgzVWtWb0RQbw?oc=5
-- **Source:** Capacity Media
-- **Published:** 2026-10-06T13:05:27+00:00
-
-## Microsoft flags renewed attacks on hospitality wifi networks - www.thestack.technology
-
-- **URL:** https://news.google.com/rss/articles/CBMihgFBVV95cUxOQ0FOdmUzeXpGZTFlY2VEWkRlZ1I1dFhzMmk1cXBsM2pVa0NoZk9VU0lXV0RGV3JmS04zUFhnZUZseHdqV0xyS3l6OXQwYkxCeVFpczI5TG84blZrNkRvSlo2ZzROYWNJT3hjeUJLeXUyNk45dUxjLVEyTHR0b19icjZPMVlzQQ?oc=5
-- **Source:** www.thestack.technology
-- **Published:** 2026-10-06T13:04:29+00:00
-
-## Can Satya Nadella Reinvent Microsoft Again in the AI Era? - The European Business Review
-
-- **URL:** https://news.google.com/rss/articles/CBMinAFBVV95cUxPYWlEcE5uT1hYbmxJZHN0ZTNrWW5xQnhseHdUSnU4UjdDellEVFBONDRTdWRBc3k3VVVPSDB6X01WN1FIRXQ4TUdDSkdoV2g0ZFN1dERiYjM4OVhpMmU2ZjA5ZnVtOEdmTUVqd09vbGN4WWkyNFU4TGZtVldGdl9CczN4SUswaGUwa3Z2aXUtNEQwTUIxZ2xQTFI5aDQ?oc=5
-- **Source:** The European Business Review
-- **Published:** 2026-10-06T13:00:43+00:00
-
-## SkyeConnex Appoints Former Microsoft CVP Brad Anderson to Its Board of Directors - Yahoo Finance
-
-- **URL:** https://news.google.com/rss/articles/CBMijwFBVV95cUxPVHdONk0yQUlFTGp2N3NHUGZabW1vRzFSX2VPRVEtUnh4ZlRWSmZ0b1RGQlc2Mk1IanlxcExXbmE0ZXJPZndiRlJQOVFQOTV4OXN2bGQ3WEo1VkdyTFA2WjZpeTM1VWR6Q21hMWFQUEFpcEc2RE9aMzNUbUNVSnIxdUU3eHBwZUtwaElHUnN0QQ?oc=5
-- **Source:** Yahoo Finance
-- **Published:** 2026-10-06T13:00:00+00:00
-
-## Microsoft’s latest 2026 Surface Laptop and Pro 2-in-1 Copilot+ PCs just hit their best prices yet for fall Prime Day at up to $480 off - 9to5Toys
-
-- **URL:** https://news.google.com/rss/articles/CBMilwFBVV95cUxPbUVhUmFLTG1WdnI0QzF6UlpadzBxSGRaV0MwRVFyZFYzQkFmT0k1VlBXNFE3cmpyS2VRalJGVE5EMmJwRl9nRnRIT09CMU5oSDJnckF2S0pmVnpYdmwxVG1YYUZ6bmwtV0x5N0didFRCZ0JFdjVwM1hhWmx1ZG1INE9UMzJRXzFVVmo0Wi1acUFyWXhUUmRV?oc=5
-- **Source:** 9to5Toys
-- **Published:** 2026-10-06T12:55:00+00:00
-
-## Microsoft President Says Building Data Centres Requires Trust of US Communities - EnergyNow.com
-
-- **URL:** https://news.google.com/rss/articles/CBMirwFBVV95cUxPSU15V0pWVFJRTVRrMlFWOGN2blMyRTA5TXJQZ1dIZlFDbTdMcnFPVndNVF9FQTVsVHhyWXBRVUJWLTJzdmFPRFZ0RmdBbklRdTNNcE4xM3Z0Y2pQdERQWVA1b05OMmNOMDhiaW5yd1I3LXp4bWFNQVlYVjBGWjNFNVVNeklhSTFLZ1ZtMlQ4V2ZNcFJkLVFYUnJsUEdvakJ4NHRfTFBvQzNYMldON2dv?oc=5
-- **Source:** EnergyNow.com
-- **Published:** 2026-10-06T12:51:42+00:00
-
-## $MSFT: Microsoft Is Compressing — Is The Market Preparing For Expansion? - Moomoo
-
-- **URL:** https://news.google.com/rss/articles/CBMivgFBVV95cUxQc3VqLWE0c0s1VlRxVHRnZVpPUmlqVkZRazRvSlRzc3JkcmdXS2hWMHdOcG5SdmRyWjdVc2hiUWN1OFp1MThIVWNicmNScjZuMEd1NEFpSDdfZmcwLUdDamNzNnREdjZPMGRhZzh1eTBKYlNfVjU0OEFnVU04UUM1X3dUY0djeWhETy1hMmhxV3p5MmZkR2VTc2pRMFZOZG9IYU1aOWR0ZDZsY0lMbFJwdGRzZkFzTVBydVNXOFZB?oc=5
-- **Source:** Moomoo
-- **Published:** 2026-10-06T12:48:49+00:00
-
-## Microsoft Put Credit Spread Plays Are Working Well as Analysts Hike their MSFT Price Targets - Barchart.com
-
-- **URL:** https://news.google.com/rss/articles/CBMi0gFBVV95cUxQZG5JQ2RBMDh3U1A2T3hOV2ZxM2ZPQlVYQXVWaXFUdmlUdUd1U1dydFFXaFJkbEJtOVRkVTZkdW5NblJaTTE0djZZRVRBSS1TbkVvR0pPMm5rZ1Jka2tTclJEemN3cTBBb1VsRzZQc0xtS3lKUHVoOHFzX0h3eW9hZVA1MDFDOHJRNU9yS0pBSmJsd2lPejdJSW5PTGEtb2lyeEpOZTR0WlJSQzhDXzJfX05HdFBGdEF2aG03SHlsLUhYaENySzl2RXpIT0ctSkVLOWc?oc=5
-- **Source:** Barchart.com
-- **Published:** 2026-10-06T12:45:02+00:00
-
-## Prime Big Deal Days just dropped massive discounts on Microsoft Surface Pro and Surface Laptop - Windows Central
-
-- **URL:** https://news.google.com/rss/articles/CBMi0AFBVV95cUxQdUFWWnZfQ2hmelpYazlzbnY3bHhnZTFQaFlzRFo5MGx0ZEZfRnY4RGp6SXlHN19EX0E4R3prUXNOZTJzVFpsV2VmZkc4ZkJhMnZ3dkVlRVJnWUFCbUpqYVF5N3U5Q3RwWFhlVTQ4ZWoxeVlPVFEwZWNnOTlZTFV3LXNWR3ZkN21FUUg4OFBVTlFXZlpWOWp3Y0pLMUtGZy0wWnZ3dTF2M3BVR0FLLXppSy1aMnJEdHRoWWlUYVNUM1FiYlJaX1h2TlpSY1Z6aFpS?oc=5
-- **Source:** Windows Central
-- **Published:** 2026-10-06T12:41:37+00:00
-
-## Microsoft (NASDAQ:MSFT): Strong Growth Meets High-Quality Technical Setup - ChartMill
-
-- **URL:** https://news.google.com/rss/articles/CBMivgFBVV95cUxNWGNRYU9TU0VjQUgtR3hTSzNyOTAyamg3ektLSEpTaDJ2eVJURWVwTS1CeGd2VllvQ2lUTmRNUXhoYUpCV3NHMnhtODc3eWlWdGVyaFJNVVZiUjlUcDh4TGlxTnlNeHpBM1h2VzZaLTRUSC04S1VkcTg3cUV1Z2RBX1VoVGxGVnp1bGpvbXA0aXY0ODU0bHZueGJyeDlSMG5sZXJnR190dDJUVjZPVUhLYXRaeWNOU21BMm9XdUtR?oc=5
-- **Source:** ChartMill
-- **Published:** 2026-10-06T12:30:31+00:00

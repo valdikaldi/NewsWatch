@@ -1,8 +1,38 @@
 # NewsWatch — fusion energy News
 
-_Last updated: 2026-10-06T18:01:20.900250+00:00 · 50 articles_
+_Last updated: 2026-10-06T23:37:44.777038+00:00 · 50 articles_
 
 ---
+
+## Denver laser company lands $39.5M from DOE - The Business Journals
+
+- **URL:** https://news.google.com/rss/articles/CBMingFBVV95cUxPNlBoSVJIckNLYy11d3NqcDBURXlxWXdNQ19sZ3VpeWxkaG12cE1lNW9EcEU5MjJkdmpvb1NKb2RDR3dSLU1venpFc0Z6ZEJ5TS0tMGItRzV4WnpBY1VLVTZOYnIwNmU1N1UtdlpQWEsxSmNTZHpIOUpGQThHYU44QnVZeUZzSmllbzBrY1M5dG9EUlp3ajlWd3hPc2ctQQ?oc=5
+- **Source:** The Business Journals
+- **Published:** 2026-10-06T22:31:00+00:00
+
+## Type One Energy Raises $200 Million Series B To Advance Commercial Fusion - Pulse 2.0
+
+- **URL:** https://news.google.com/rss/articles/CBMilwFBVV95cUxNeFVmcGZUa3JiVnBwcjhJMmpHeUpVUUxPdERTMXA0RUt6ZDlDQ2RKS0V4X1VpTFFBbVBOV25jOVc2V2Jab255V2hiNDJ4N3JRRnBON29Qc2dGNmFjbjhqdFhsdXdhdlBIZkFCaGt2SEl4TGdDa2ZfSFFyRjlCaXpBZlZLdWJBalJTdGFwQnp6dXF2UWNqZnFF0gGcAUFVX3lxTE0zdnFndFk5Y2xSSjByWnB6b0s5Wl9Lc1NnLXJEZXB0ZFJBTThCZUhIckhRNWxIYk9SRzlCQko2VklpZVZGSk5sWlJUaVlScFozT2haSXhBODcxby1yVDBnNXJfQ0JqRUJMT3gyRHVMeDJOT29ibzBRYTN4bmtfbnV6VkRmQ2JtSmNXSWNOdGVlNm5PLWJlRjFjRTVzVw?oc=5
+- **Source:** Pulse 2.0
+- **Published:** 2026-10-06T20:30:13+00:00
+
+## Denver-Based Fusion Group Receives $30.5-Million Award from DOE - POWER Magazine
+
+- **URL:** https://news.google.com/rss/articles/CBMikgFBVV95cUxOdi1QRl9tRkFXa0FRZEZBMXh6T3JTVngydVZNNllMdVNpYmlsOE5GOUp6YVAwb1RMZlp2amxLOElRQjNnd1VDSVBtVC1LVFQ3RmJ2YUJLVXo3WDRDRTMtTGxrcEh0WUNaRldzenJKMVhRNkhmR2M4Y2JLNWRVMXFET1VqTElhNDlvaFJOdWp0SEt0dw?oc=5
+- **Source:** POWER Magazine
+- **Published:** 2026-10-06T20:01:18+00:00
+
+## World’s first 400 MW commercial fusion power plant could power over 200,000 US homes - Interesting Engineering
+
+- **URL:** https://news.google.com/rss/articles/CBMiwgFBVV95cUxQSkk3WE9taXhQUllHS1hiQ1h0TFZoV0hWeEVjSnhqUkVTVTFkWHJuWE96eDQwMi1YNDU4Z3dJUHFIdE1LNXZEZkhOSHhjZFIxQVR5M1pQcmV2QS1wZE1TalVSdXR0VllhVmNuMVhPY3d5Wk9xc1dwSHg4ZHo2bzRjalVfVHFpdjZwRndnU0laVmJrVXVGNWtEMi11LVZIQzVmelVzN0E5UXdsaUxyYmRNTllmSjA0LVhhcFc1eDMtbTZYUQ?oc=5
+- **Source:** Interesting Engineering
+- **Published:** 2026-10-06T18:17:00+00:00
+
+## Type One Energy Announces Series B Funding and a Fusion Licence - energynews.pro
+
+- **URL:** https://news.google.com/rss/articles/CBMikwFBVV95cUxNYnpfZmdfa1NneWhqbXJHc25TRHpuRGpJaUF3QW5jUFhjcEtxQkhBWEpIOUJtMXUxLUt5MXJsZEZmejlNTGtYajg5cnJBQl9UekdmenlyZ3J0a09qWUdXRGh5cGxJcnMxYUtpemZTZnBaM0Vqc1dJbk1Cd1ZUX0J5dU9nZlJhNHozc0dWMG8wUnloYWM?oc=5
+- **Source:** energynews.pro
+- **Published:** 2026-10-06T18:04:29+00:00
 
 ## Type One Energy raises $200 million, bets on partners to build its first fusion plant - sociable.co
 
@@ -273,33 +303,3 @@ _Last updated: 2026-10-06T18:01:20.900250+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMiiAFBVV95cUxNd3JyY1JzQ3ljNWV5TkRkRzMtSnBENm4xOVdBcFYtTF9Lbk5zZTQ1WlhzTGZ1eERsZUM4c05QaU5OdWtJQW9XSGFxQlFTNTZrWFdtc2o1OGJpNkxKUG5rU1M0Wm1WOEFhQ0VSSFoxWU10T2hWQUlHVGhSY3ZIY0l5QXZlQnhldHE4?oc=5
 - **Source:** ITER
 - **Published:** 2026-10-05T20:52:52+00:00
-
-## Nuclear fusion: No progress without cooperation - Table.Briefings
-
-- **URL:** https://news.google.com/rss/articles/CBMiiwFBVV95cUxNS3o3dHpvNG5sX1BiVXFFTURxRklzeHhiemZPX2pURVl5dkNERERqSXJzWThqdndWdjhYVFpaR3p5Z1ZBM1NjRXBtc1lYcmpfUmR1TFJOVTlpOV9MWDY2QU1hT3JFZEJKWHQtUEN0UEpxWmNIbDhnSUg4ZVlJeFdLZlczbFlETGtUME9j?oc=5
-- **Source:** Table.Briefings
-- **Published:** 2026-10-05T20:33:02+00:00
-
-## NM FAST pilot helps New Mexico deep-tech companies advance toward SBIR/STTR Phase III - New Mexico State University
-
-- **URL:** https://news.google.com/rss/articles/CBMi6wFBVV95cUxOdHhndW9KRE9HRFVsVTBRTGpJemhybG1acFN1bkVGM3d4ZjJZWFBVYXVJeXNwYU1BS01wNHJjMDFLTEs5amI0NlVseFVvQ3FWdWZNYTBtOVlSSFZtRXZLZEhUeHJUTWlzUklZbE9NVzg1cW1sLUF5SVhlQ1ZqOTlaTW5ucDJoSjRrNjBFMnIwdFhCcFpDcTFfU1NlbjdKRWY3U0VaeFp3TG5BX3FOODRBblNiU3o2el9ZSHRBajZlZDFqMWNyRVpyWnVpdU1MYmZ5ZzlLMVpzYkRERjljZjlPMnl2TXdSUzFsUTJ3?oc=5
-- **Source:** New Mexico State University
-- **Published:** 2026-10-05T20:32:38+00:00
-
-## China's Zhongke Ion raises $89.5M for fusion tech commercialisation - Dealroom
-
-- **URL:** https://news.google.com/rss/articles/CBMiogFBVV95cUxOM1NKWWZNMnhFS1NxRHp2cGdHWTRuMEU2c3A5Mng5enhTYXdUVXpZSmZLU2xwYU1pXy13OV9JenR0Sm8xWFJTOUJLaWpaZXppWVRCN25LN0s1TDVVTGtmai1LUGFPWF9nSS1qY1BWNVpZNTZyV3dpX0hVLWI5bjBWa0NXY01rS1ByaTNqSEVqSUtYM1FRN0ZlUXBpTFFzZ0Q4UHc?oc=5
-- **Source:** Dealroom
-- **Published:** 2026-10-05T20:30:24+00:00
-
-## BWXT BANR Microreactor Selected for Belledune Transportable Nuclear Plant - Securities.io
-
-- **URL:** https://news.google.com/rss/articles/CBMiogFBVV95cUxNZDhiTVBaZ3kycmpWZzZ5VnFJc0plenZKb0FEdVowWXB2X2RTQy1PYUIxY2gwa1lNU3llWXNZdmhQZDRyY0l1dlFIN2ZWZU1ZZXdiUWx6T1hEZWM2NENZN0EzWU9lOUswdHFJUEhxNTVUVTJmYkhwbDRQWnZrcDZ2WHV0R0h6YVVPVE5GemtFTEhad005elpQQUtPQ2prUVUtbVE?oc=5
-- **Source:** Securities.io
-- **Published:** 2026-10-05T20:21:01+00:00
-
-## ITER Scientist Fellow appointed director of Spanish National Fusion Laboratory - ITER
-
-- **URL:** https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRGt5QUVLNWxGYXNQdFp3b1VscG1rTjMxSFFweFJaNUUzWTJKSklGdGQ2NFZ6QTh5alBLbFFPdVNlQlpjaVRaM085MjlaZ09MYkpVRE8wWlRfbUUyY01lWExNbmpGbFBUMkcwdGR6dzFyMDZhSVAwMW5YRkJWdkZpTU1kcFUwTVc3UFNFVHZiTjdIQXViSDdNU2NCcVpFZUNLZHlickh0RE5EZ2s?oc=5
-- **Source:** ITER
-- **Published:** 2026-10-05T20:16:11+00:00
