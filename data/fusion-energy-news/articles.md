@@ -1,8 +1,74 @@
 # NewsWatch — fusion energy News
 
-_Last updated: 2026-10-06T02:05:12.844230+00:00 · 50 articles_
+_Last updated: 2026-10-06T11:03:35.594736+00:00 · 50 articles_
 
 ---
+
+## Xcimer wins extra $30.5M DOE grant to advance laser fusion - Dealroom
+
+- **URL:** https://news.google.com/rss/articles/CBMilgFBVV95cUxOXy04VWJaa2Y1LW1SOU5sMmZUb3dIblF2Z3NTUVRCOWZkOUYyQkRTUk1Bb1lmYVFGZm10enR2bHlYcnhEQVBPUWRld1VIZjdkQ3NnamFTb3dobW5wNDBkblFPQzRRcVRfOFVrRHFKOHc3SXJZVGVlcWZfU0I3SmlPdFAzNUpYdm9LOEpXS203bGc2SFJqLXc?oc=5
+- **Source:** Dealroom
+- **Published:** 2026-10-06T10:43:53+00:00
+
+## A fusion machine 12.7 feet across slammed hydrogen into boron more than 100 million times a second, burning a fuel you can trace to the laundry aisle as borax, and the reaction threw out three helium nuclei instead of the neutrons that batter a reactor's walls - Autonocion.com
+
+- **URL:** https://news.google.com/rss/articles/CBMidEFVX3lxTE1QcTJ0ei1yRXVEWW1aMjNTZUhsaEhlbTY0WlJXYmdjbmZSZ0xzenp1akJQeV9NSWhuQnYybUh2RkVobWJQV0pBb091bm0xV1VGbkVyOHgzaUxVOEVkNjBLZnBXUEN0dFJxNzhRcHgxQTZhQTFS?oc=5
+- **Source:** Autonocion.com
+- **Published:** 2026-10-06T10:30:33+00:00
+
+## STEP Fusion reveals new next-gen power plant design - Engineer Live
+
+- **URL:** https://news.google.com/rss/articles/CBMigwFBVV95cUxPLUJ3ejlza2wzMFZsVnQyOUFScUtoOW1PMXlRZVZNbWdEOGRWcW0yaFNuZG9xZGxPYXJMVF9ZUWFadUJiY1NPem9EWHNpUjduWmUzMVRCeXFCZVFPNFhXN3ZWOUZRX1dtZVFwRWV4VGVKSmN2Q0N4d25UTWhMTnN3Yjg5TQ?oc=5
+- **Source:** Engineer Live
+- **Published:** 2026-10-06T10:19:14+00:00
+
+## Xcimer Energy Receives Additional $30.5 Million Award from DOE Milestone Program - Business Wire
+
+- **URL:** https://news.google.com/rss/articles/CBMi1gFBVV95cUxPOFhyV2h0T3l4blZBbDRnalo3Q2tCckN3TmZ6aVljZFNsTVhNMGJ0eWlBRXY0WjZTOHVlQS1aX0p0bzRGUU56SUJ4SFpGaGxOVGtTc25VNjY3aU44Z1pJaDZxUTZJMGI1NUNmR01VdXNvT3VzUnI5RkdEOEQzZnlqLTdNNmpvOWtqMTF3T2s3RF9xM2lxRldRTkYzY3FzS1FzRzZBQnFrUTdjRmFZZndyMXh3WXNJZW9reWR3c2tnRDRqXy04SE1fUURadWM3ZExCQ3BRT0dR?oc=5
+- **Source:** Business Wire
+- **Published:** 2026-10-06T10:00:00+00:00
+
+## Perfecting nuclear fusion, and other ways to pull Hannah Fry - thedailymash.co.uk
+
+- **URL:** https://news.google.com/rss/articles/CBMiyAFBVV95cUxQWnY1VlhYcVVwaXcteWY3SEhEc0pHVTh1czZhR2lvU1o4Z0ZPdjRmeTZCQlh2Z0NDeWZfYTY2RDBNUFkxTG9rUjJMemQtUlM4RXBvM1ZZcFMyRmprZXFudURPcjhtS2V4SnVpaGFzSmQ2Y0twUDlfb19fMGVtNjd6dzBadWlUcHhFU0tncXBaZzVFTlloY01nb0Y4bVlRenlrOHE3TFBpQ0JqTnkxYUl2RVJ1RHBoaE1KQUtUZjVodlZvRWZTbC1ycw?oc=5
+- **Source:** thedailymash.co.uk
+- **Published:** 2026-10-06T09:01:58+00:00
+
+## Nuclear power: Mimit and Mase kick off the race for companies to apply for IPCEI funding: proposals due by 3 December - Il Sole 24 ORE
+
+- **URL:** https://news.google.com/rss/articles/CBMi3gFBVV95cUxPbjdtR0dFaGdsc2lUclYtLTJQTlluNFh4eHlQTUZZWTBxZUtsMEJ1a2pkZGF4dHJIcFJfRFBxV0kyNUpUb19VUmRKcWdpMmFfSzNUTkdTX1lXb1VWQlFuVHQ5YUQ1UFFjWFZwdTZfT1hpbnpIS1hqbldsZTRLVURjNFY3TkRMdVVJQl9heU9IYkNtZGxWVFhNVEZ2XzhhT3JqNXdVX1VYdUtNOFQxUzN0eXoxdkt2MnRNOXA3M1dXOWlnM2dTRENFTENUTXZWamJvVi1rQUNxc2NNajVMYlE?oc=5
+- **Source:** Il Sole 24 ORE
+- **Published:** 2026-10-06T08:32:32+00:00
+
+## Nuclear Power Summit Board assessing options to pay for conference - WisBusiness
+
+- **URL:** https://news.google.com/rss/articles/CBMiogFBVV95cUxOVVctMjIyWk9jRGNQS3p0OWVoSExUVFg4RTcwOXZVQldEb1BSWHZNa2M5cnJpUEJNV0I3SFZzdGJMYnh1bWd4Q1BycDE2MEhNejV3SDJMcEE3VVJWWTBlVi1idDRXUmxlS3d1MUdHekRhekR0d1hZeVhobGZLQWNaUklXb2NBZG83WXBFdmlWcmJVbmg2OEhlejNpei16X0xGYnc?oc=5
+- **Source:** WisBusiness
+- **Published:** 2026-10-06T06:00:00+00:00
+
+## STEP Fusion strengthens senior team as Nottinghamshire project moves forward - TheBusinessDesk.com
+
+- **URL:** https://news.google.com/rss/articles/CBMizwFBVV95cUxQMF81UnBxdHJkaFg5TURsVXBmSDVPZjNvX0hvWkFEVlgzalFRdUZPWlozRHpSS19ueXkxUkQ4MkFoZ2tSYlVjUzR6TlI2cWgweDFqeEFjNEhaS1NiT3dYVEtfbFpxY3JTMDhZeDkyaDlwLWhZUGFleU5fYkdNRUZXRC1IRFlfMnFhajhzRnhwVDBaVVk4MWV4YTdvaXdVTDNEZ21hdUZxTW43LUZ2M3VUVEVOeU05dk1pLWpTOXZKN3pxTDRSRmw4cTJ0dlh0MEU?oc=5
+- **Source:** TheBusinessDesk.com
+- **Published:** 2026-10-06T05:44:26+00:00
+
+## Boost Platform Incubator Facilitates Rapid Public-Private Nuclear Technology Transfer - AZoM
+
+- **URL:** https://news.google.com/rss/articles/CBMiVkFVX3lxTE9mX3ZyVk95aVFyZXlVNzYwcHo2ajJrcUFTWlJvM2dZRmNfa3hOWEdnb0NTNFdwQTBpdm43V3ByOGFZamlIUFRSdWx6alpDMTBjazZYM2t3?oc=5
+- **Source:** AZoM
+- **Published:** 2026-10-06T04:50:00+00:00
+
+## Malaysia identifies five critical technologies for national sovereignty - Newswav
+
+- **URL:** https://news.google.com/rss/articles/CBMisgFBVV95cUxPSzNFd2MyWUxldTc4TjkxWGVWZDBoNElEdEp1dEhSM0JNaGdxeE4zdmJrMWN2WkpuOWhFa2dzUUdJOHA0YmhKcWxaQlplaHhqMlVseU14SThqOU9YZUxrampnbU11QTlIeGtTWjMtX3NjQnJxQVlsN1VBbjgwM3RGQWVvM2dQc3Y1VG9DdUdRYjJnUU5wQm1INjQ5ZmtyWHZVZU90YmFITXZZTkpPOVMtMzBB?oc=5
+- **Source:** Newswav
+- **Published:** 2026-10-06T02:30:35+00:00
+
+## Mosti: Five technology drivers identified as critical to Malaysia's sovereignty - The Edge Malaysia
+
+- **URL:** https://news.google.com/rss/articles/CBMiU0FVX3lxTE53M0Zlc0pCZERRb0twVzlvTkR1SnZ6VXF3anB6aVNXSy1rSXdYdmNUNW04dHl5YnFMTWdEaFRQNkZYNXdVc0pBdk1VZUZvXzZKNUdB?oc=5
+- **Source:** The Edge Malaysia
+- **Published:** 2026-10-06T02:21:05+00:00
 
 ## CNA938 Rewind - Singapore hosting FusionX: APAC 2026, our growing role as a coordinator in the sector #SGToday - CNA
 
@@ -237,69 +303,3 @@ _Last updated: 2026-10-06T02:05:12.844230+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMitwFBVV95cUxQT1FNNnVONUJJUlliNWp3Qzh2bHlqTUhKeWpYMXdOcGFiWnpCWVVrYkxIUmJpUXZzZ0pWY3ZhTVo2YUV5cEJtdXhZZ2FIaDFZeUJ4V0tTX2docGxjdS1mcEs2TDR4OU1vUGtmelVWaDk4c3ZOVlpTVEVlUDJUYm5TNEVrS0pYaVZ5RExkZk1HWS1EU1FSaHNFNlQwSTFsNW5UNnliWmF5Z0tVRzIwU3lUcHBMM24zRmPSAbcBQVVfeXFMUE9RTTZ1TjVCSVJZYjVqd0M4dmx5ak1ISnlqWDF3TnBhYlp6QllVa2JMSFJiaVF2c2dKVmN2YU1aNmFFeXBCbXV4WWdhSGgxWXlCeFdLU19naHBsY3UtZnBLNkw0eDlNb1BrZnpVVmg5OHN2TlZaU1RFZVAyVGJuUzRFa0tKWGlWeURMZGZNR1ktRFNRUmhzRTZUMEkxbDVuVDZ5YlpheWdLVUcyMFN5VHBwTDNuM0Zj?oc=5
 - **Source:** Newswise
 - **Published:** 2026-10-05T14:00:00+00:00
-
-## Heat Treatment Refines Titanium and Tungsten Alloys - Lab Manager
-
-- **URL:** https://news.google.com/rss/articles/CBMilwFBVV95cUxOQzBsZEVoT0h5MTMzU1V4MWlfVk9jd18yMm5lbkpSZ0Zkanp6ZTFabHI2eDduRkRzVElNa0JKN05Rd3F6VGVJX1p5emlvXzk4Q3JmdmFhZVJwRjZGUGVuaGh1aUo5Q0VqOTBvRTNwcUpjRUxpdXhIRm1GNlgtcm4tU3JNWnZfOUh1S1FmbWxmbGVKUzEtT3hB?oc=5
-- **Source:** Lab Manager
-- **Published:** 2026-10-05T13:46:37+00:00
-
-## A tungsten alloy held at 2,282°F for 100 hours shrank the crystals inside it by 60 percent without a single pass through a rolling mill, because two mismatched lattices build up strain while it sits there, doing to the metal what a steel mill does by crushing it - Autonocion.com
-
-- **URL:** https://news.google.com/rss/articles/CBMidEFVX3lxTE04dkVLdHBNNjJRWHN5elFZcEY3cmV1QnNTcWJHaGxyaGJyNlpuajdSQWI2NU5NdzdZUHJsMEtWa2tCcWZjdFE0eWpDSVBuTktqWU5SOUUzT3U5aVlMZ3V2aHJ3a2JjNm9BOHFwa0NULU9XWGM3?oc=5
-- **Source:** Autonocion.com
-- **Published:** 2026-10-05T13:30:11+00:00
-
-## Hydrogen Isotope Separation Systems Market To 2035: Fusion Fuel Demand Drives Growth - News and Statistics - IndexBox
-
-- **URL:** https://news.google.com/rss/articles/CBMiugFBVV95cUxOdW5fZy1lMHAwOFlNNG1oVWtueGZzdUJTMVV0MndyOTJCSll2RmFzaklWeGtzeDNZcml0MnN6aGx1aTZiLXFCZ25ZZTQtRHpGVkp2eU9xdldiNVg5NU9IanROSEJtODhPR2FXNEdwRlFVQk5SSmRNWG1ZYUxuUGVNNjB6aElRMkg5V0xaUS1NT0JHbnNOdGVLOVpFelY0dXhyWlNEYTQyUXUzQWlhSmlBR215ZWpUZFo0Nmc?oc=5
-- **Source:** IndexBox
-- **Published:** 2026-10-05T13:21:04+00:00
-
-## GAO report looks at NRC workforce recruitment and retention - American Nuclear Society -- ANS
-
-- **URL:** https://news.google.com/rss/articles/CBMirgFBVV95cUxPdGdzbk82RTM2d1VMbFNBck5ISzBzcy1lTk03VjRrMzc0QjNBbktxdFN2NTk4enhJOE9FQ05BckFsT19CaDBGa3NNM1pIWGJBWkY3aVpJTFlkd21sX0k2YVktYjVMUGVsSV9VdzlfLWtCUkZtR0V3LTRQOGNTNU5WWmxqVHJlQUo1VV9QSi1Ua2I5Z0pJUThtOWlqdFJ1Z2l3UkdudTZTNHJycEEtcGc?oc=5
-- **Source:** American Nuclear Society -- ANS
-- **Published:** 2026-10-05T13:19:53+00:00
-
-## NVIDIA Head of Sustainability: how to accelerate America’s nuclear energy renaissance - Fortune
-
-- **URL:** https://news.google.com/rss/articles/CBMifkFVX3lxTE5YSTdZVlFIS3lMeGUtZGx5QlBZakRZemRFRlZtTUZLd0FvbXZGWHJES2VKVXVSdXBaNmh1NV9aVFBWc01MbkpHRkdES3p0ZzVCUGpNS2pUbk1ZWlZsSUxwUVlGT3VtT2JEODVFN2w4dHJMS19SZkkwY2kzdmxBZw?oc=5
-- **Source:** Fortune
-- **Published:** 2026-10-05T12:30:00+00:00
-
-## Fujikura stock gains a major fusion supply agreement at scale - AD HOC NEWS
-
-- **URL:** https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWW0yVGhvNFpydlpmaHpLRHFab2tuZ0U1NGgxZk5jc1BBZU1DQkt3RzUxdVREU0NrcmlNQndxeHNJTkhTcUdseXJSZ2Jmd1dZV1ZHTzM3Vm5nZE8zUzRjc3pONW4yTXB3czQ1SklnNHpUTC1IcnpRMHRYb2tQc1U0aVZqaElwU1c1LTQ5Z0NpX3E0TmJNMThpLXpUUG84QWVrWFd0V1lSNGRSRzU0NFJyM3ZsNHpiRDNkYnI0dDZPSE42Zw?oc=5
-- **Source:** AD HOC NEWS
-- **Published:** 2026-10-05T12:06:28+00:00
-
-## Who’s running for Michigan’s 13th Congressional District? Where candidates stand on key issues - MLive.com
-
-- **URL:** https://news.google.com/rss/articles/CBMi1gFBVV95cUxPUGo5bEFDWmRaRy1UVlg0ZHViel9UNlBCT2YwNkNYN1BpZkxLQ1Z1a3RnQ3pvVXhfRFJIMk9SVl9RMGVfZUpCcWFldzRxNlIyNEdtOEI3bTg1TWR5SWEzUkc0aU45enMtbTJoOG9GRzF6S0otbWdFajVVajliemloaXA5SkxERmt6cHdqR1lyT1cwT002Zm9ZbkhGcWhkN1puLUpkdmlOQ3FZM1N3d2FQN0xSQ2h3WDVVNlkwVjFuWWZJZE9pTklnUGt6dEsyQU52alJYZm93?oc=5
-- **Source:** MLive.com
-- **Published:** 2026-10-05T12:00:00+00:00
-
-## AI and the impact of the ‘second Big Bang’ - eKathimerini.com
-
-- **URL:** https://news.google.com/rss/articles/CBMikAFBVV95cUxPRVVtbTNaaHdBc09nVzNmaHI1bU9Qcy1ueUJIYTBsa0t0YjhQWVcxMHlwRDJUYXhqRENnSGhVY016bEpORzl2NktBcDBlbkEzd3JlemlDSHVUb1ZsV2tueWNNbEREMTlvbk9ZYlZRZnppa0p1bXk1c3hOR2M3eXBsZEo4d1Y1cG83NzVFSGJvWHg?oc=5
-- **Source:** eKathimerini.com
-- **Published:** 2026-10-05T08:35:36+00:00
-
-## Nuclear having a moment, but hesitation is real - Sentinel and Enterprise
-
-- **URL:** https://news.google.com/rss/articles/CBMinAFBVV95cUxQMDBTTmFPa3JMbGtFWEo5Rm1leEx5Q3FyRWc3SXJkcTJIRUlqSGJueU84SUEtcHNRZF8zWklKSnltLUxoV3RETnY5c1ZQWnJsdUdqOTBGTi1hdnN4bERueFZLeW1LUm8zWHhtbzFpSUlfLUgtQUJ6UmNSY2dUc2I5Rmd0cVlMV21lVTF0Sk9nTEhJUklJZGZIN1Axd1M?oc=5
-- **Source:** Sentinel and Enterprise
-- **Published:** 2026-10-05T08:13:23+00:00
-
-## Europe’s Final ITER Vacuum Vessel Sector Delivered - info.westinghousenuclear.com
-
-- **URL:** https://news.google.com/rss/articles/CBMilgFBVV95cUxQd05HemVKTGNURVFyOHBSY212LVF6eFA4c3ppX21uVjJ6RkRtbTg5aHlCRTZ2TUJrVjQ5bW1zX2RBb3VrWlRvMTVwM0dKUGdaZ3c3eTNZWWMzVUVKQUxZTnozYXRiMGFUUlFZTU5oVlVNaTF4N3dXbnRnMmpFelBwdW8zNTdxcWt3c2NJemRfUEVXRWtnYVE?oc=5
-- **Source:** info.westinghousenuclear.com
-- **Published:** 2026-10-05T07:55:28+00:00
-
-## Netflix’s The Night Agent Season 4 Heads To LA – California Tax Credits Bring Production Home Ch 265 Amber Alert Now (4iBwomRJIA) - Unisba Media
-
-- **URL:** https://news.google.com/rss/articles/CBMiZkFVX3lxTE1lN25wQzdtZG5QcWd6RHkyQVlGUWdXS0dCb0xZVHNZN2tLWGF4OHVuLXRYTkRaZVJoSDV3akF5ODkxQTB3d2JfOGxCVlFxTmd5YUFXenJEYjVLem1yMkp4VDc2aTJtUQ?oc=5
-- **Source:** Unisba Media
-- **Published:** 2026-10-05T07:54:17+00:00
