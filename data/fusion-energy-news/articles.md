@@ -1,8 +1,74 @@
 # NewsWatch — fusion energy News
 
-_Last updated: 2026-10-06T23:37:44.777038+00:00 · 50 articles_
+_Last updated: 2026-10-07T10:53:25.491861+00:00 · 50 articles_
 
 ---
+
+## UKAEA ICURe Engage Program (United Kingdom) - fundsforNGOs - Grants and Resources for Sustainability
+
+- **URL:** https://news.google.com/rss/articles/CBMijAFBVV95cUxQckRpN1IzV0d5VkU2RW9pV0VpS1c5aTJyV1hvekZka05CaGNOMEs5aXdqSFhlOGVlWHczX1ZoUGtEQmJ6alpicUFtRUJRUmhlNmd6WHFHT2tMdGZueEdJaXZ6UFB3OEtpeEVVR1cyeWc3WDBYdl9pOHV5SENuWWdmMmN6OTVjNGczZU0tb9IBjAFBVV95cUxQckRpN1IzV0d5VkU2RW9pV0VpS1c5aTJyV1hvekZka05CaGNOMEs5aXdqSFhlOGVlWHczX1ZoUGtEQmJ6alpicUFtRUJRUmhlNmd6WHFHT2tMdGZueEdJaXZ6UFB3OEtpeEVVR1cyeWc3WDBYdl9pOHV5SENuWWdmMmN6OTVjNGczZU0tbw?oc=5
+- **Source:** fundsforNGOs - Grants and Resources for Sustainability
+- **Published:** 2026-10-07T09:05:49+00:00
+
+## Fujikura agrees to supply fusion tape. Fujikura stock falls 2.12 percent - AD HOC NEWS
+
+- **URL:** https://news.google.com/rss/articles/CBMizwFBVV95cUxOUW8zcjI5SVhaMHdrN2lqM3U3R050OE9CRDdjcmQtT0FaZVdNM0NGTXAwVWtwYXBVSkl3M3pqYUVrQzk2SDdLNTlSazNiclAyd3QxbkpKWDlqUFREYV9sREV5Z2RRdk5OcXgxNGJfeUt0d0xiTC1XYkRTcG0zeHNKb2tWbGdzLXRKbllNMTJtQktObERqN3p6WVhtMGlEQWtnSnZ2c0Y1dG1fYUl2YldxUXByNjlIa0ZyQ3ZjZU1KbGNqSEhpZlc4cWpTTHJ3OE0?oc=5
+- **Source:** AD HOC NEWS
+- **Published:** 2026-10-07T08:30:29+00:00
+
+## Europe delivers final ITER vacuum vessel sector - Innovation News Network
+
+- **URL:** https://news.google.com/rss/articles/CBMilwFBVV95cUxQYkhuc1FLMFB6cm5SRURVUDR2czUyYjY5eHRjQ1BNbXJxelBLS210V0ZmOEgtLVVyUExzbm1KTnVWOHdlWHVPV0E4TWh5QVltWmYzRWR4ODJPS1Bja0ZHWk52LXJnOGxHa0FjOFlKa0ViUzZiNzY0NDhtanVXc2p4UVZKdDdpRmRPQy1VSFd5emhLUjV2Sk9Z?oc=5
+- **Source:** Innovation News Network
+- **Published:** 2026-10-07T08:15:55+00:00
+
+## STEP Fusion makes trio of senior appointments - East Midlands Business Link
+
+- **URL:** https://news.google.com/rss/articles/CBMipAFBVV95cUxPNXhVMmFrTF9ScjdPbmRRcFE5S01wMjhNaE5OY0Y2cXN4TnFjQ3hYNjhPMU5fTThLcWJCSTEzYVZhVHVqQzlKYVpMaTFjSl8wUkVGMWxIZG81T2cyelBIMnA4cmxYSzJLX0FxS3BsR1Axb1hFbFM4aFJKY1NHc0dOaU5RRnFhaDBJNlZ6SVVXSWQ5eERyRlc2eU9ieUxtOGFnaVJ1TA?oc=5
+- **Source:** East Midlands Business Link
+- **Published:** 2026-10-07T07:55:09+00:00
+
+## Researchers Find Vulnerabilities in European Energy Systems - Impakter
+
+- **URL:** https://news.google.com/rss/articles/CBMiiAFBVV95cUxQd3d3MVB2dlBTeXNGSGE1YjQ5ZHQxVzQ3OVRtSHdpRzJ6a3gzY25Ja2d4N0ZRTzVndS1ZZzJtUU9RSVJsQ0RwNG81TV9LZWZiOW5sOG5xdzI3Y3pFVnRjbmh4cjJZTDNkUHVSc0ZHc1RDcnM3WFJKdzROQ1lBRTNESHFTMFoyTExl?oc=5
+- **Source:** Impakter
+- **Published:** 2026-10-07T06:02:00+00:00
+
+## FusionX: Singapore - A glimpse at the future of energy - Herbert Smith Freehills Kramer
+
+- **URL:** https://news.google.com/rss/articles/CBMimwFBVV95cUxOWGRtWm5fWmVOZW9XVk5ORFV4bEpwMFRuR1l3UVVtSXNaY3AtS0VOUDU2QUhyRWl0d2xsNThxcm9pX181aXg2eVdHYlFuQUU5MVh3Q2F2VDFqcVB4dld0NkRoN1RZRDJYUjF1Nkl1bjJsT0QzY2FubWFEMVdOTWRKU1NOeE8yV1dRSXIwWnVUWWQ3VWVJYTVuRHhEbw?oc=5
+- **Source:** Herbert Smith Freehills Kramer
+- **Published:** 2026-10-07T05:48:45+00:00
+
+## UK advances design for the next-generation STEP fusion plant to boost efficiency - Interesting Engineering
+
+- **URL:** https://news.google.com/rss/articles/CBMilwFBVV95cUxNVUxtd2Q4OEFxbXFhaW5CYmZKSzBUQkV1NFJiN01EZGRpQmNFRDA4WmlYWG13WEJwOVVzSTVCanh3dHBVa0xsQTRVX1dmWWhDOTFBWnUyY3Vfb1NURnkzVzROLWtIQm5wdVU0amQ2UldoWkxqbjNHQ1lzVEdXN2VkbTR1T0YzU1BXZ0tTYlh4cGQ5M3M2V0xR?oc=5
+- **Source:** Interesting Engineering
+- **Published:** 2026-10-07T02:22:00+00:00
+
+## Step Fusion - New Civil Engineer
+
+- **URL:** https://news.google.com/rss/articles/CBMiXkFVX3lxTE1NSDFPWTdLVEZ3cERaSUtMWXBjWnc2d0d3T0RJdU1zb1hUUkhkQURsSFB5Um5oN0tCRHFNTTRBYVI4WXFnaE1LNFoxQ1ZhZU16b1BscU1jNk1sbmhWNVE?oc=5
+- **Source:** New Civil Engineer
+- **Published:** 2026-10-07T00:44:30+00:00
+
+## UK STEP prototype fusion powerplant: civil and geotechnical design lens - Geomechanics.io
+
+- **URL:** https://news.google.com/rss/articles/CBMisAFBVV95cUxQemIzSUxCTTlqUFEySE5MV3N4cDU3OWMxUWxMM3RmYl92ZUtXQlhLVmY4d3hFOURFdkNHWEVrR0YwQ01ZSXFuSjFlTzNUMl81UGlCNlZQU3hVNlN5amtQaEJma1NpR3BWSi1zZ1FPdnZwWGVYczAzUGtPdHdSMmxyUUhscGQ1bjNUMDlMM3EzdXpXbWhhbWtHV2dRWkN5aTNNUUcxS25oRFJTeF9jeks4bA?oc=5
+- **Source:** Geomechanics.io
+- **Published:** 2026-10-07T00:23:07+00:00
+
+## Tiny tungsten contamination can 2x pressure needed for fusion ignition - Interesting Engineering
+
+- **URL:** https://news.google.com/rss/articles/CBMigAFBVV95cUxOQTdZM3l0cTNqR1pJV3pzekJ0a2x3VTJEWUwzSEFOQXdKUmU3N1haVjZvRURIQUhJOFotdGNlWWZac3VnOHN3TXhqWHdKNzB5Ri1jQXZKS2xCcWdxdV9UUkZFQmNDMFZIem9wZG5KdVhjSHlCSnk4VnZiZFE4MlNFRA?oc=5
+- **Source:** Interesting Engineering
+- **Published:** 2026-10-06T23:58:00+00:00
+
+## Fusion research tackles fuel and instrumentation challenges - American Nuclear Society -- ANS
+
+- **URL:** https://news.google.com/rss/articles/CBMinwFBVV95cUxOeE53WkNpV1VzNThUR3pjTlF4Q1FsUDQxOHk5MHBna3pqQjFoSUE0NjBseTdBVnRYekJKWldzMV9MSXNnWkxEcHE1R05NazUtOGZWajU4ZUVfUzZoQm1aakpDRkFfNmVnREYwZ2dzM0tleW9WeDY1b096WldPSUx5RFdKSmVJQUV0cVlCWnRDRy1RQVhLWGp0WHdHN2wzNFk?oc=5
+- **Source:** American Nuclear Society -- ANS
+- **Published:** 2026-10-06T23:42:14+00:00
 
 ## Denver laser company lands $39.5M from DOE - The Business Journals
 
@@ -237,69 +303,3 @@ _Last updated: 2026-10-06T23:37:44.777038+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMiygFBVV95cUxOOWI4dDVGblJqY3NXa3U5SWUxN2ZRTGNvMThIS1dXc2szM2xjcWl6RllaMlBrN3NNX29iQzBTRHd4MHNHd0g1RDdzQnQ0aXNFVHloNHRucVdLSmdKWnpQSGt6WmY5em1KVnFUUkNDMDJCYmdvVWZfejFTelVHb0t2R1lPR2RhaDBrYnlDU3hiZzFzTW9CYksxRExlTVVlUjFUSUE2OHV3WG1oS2hWN0l6TWs5U1hrQi1WMklkUm82S0RHZlJyNUdvVU1R?oc=5
 - **Source:** foreignpolicyjournal.com
 - **Published:** 2026-10-05T22:29:00+00:00
-
-## A closer look at the initial NLIC selections—Part 2 - American Nuclear Society -- ANS
-
-- **URL:** https://news.google.com/rss/articles/CBMikwFBVV95cUxOUlp5V3VnanZPQ21uTHE2M1A1VllsOTc2MVFhRWc0dnlfM2stZ1Fpb3pwUFJPbFVORGZ4dmNoNEVWaXp2YzVvRzVsbEdhd2F2eFloYS1wbXVEU3BHeFI1Q2ZDZzg3M1VMcEpwUUpnaGstUTI0UFhIRHRRWE5tQjBNZDVMT1N2eXFKOEI1cGctOEVZbTA?oc=5
-- **Source:** American Nuclear Society -- ANS
-- **Published:** 2026-10-05T22:06:58+00:00
-
-## GTS 40k – Backshot ft. Dremo - Six9ja
-
-- **URL:** https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9FUlU5RmtSTkNlampnTFRqNmt0UWFfaFhNTzBkTFJVTndYOEJDbzRlWFVwMndiQzRLTmFlTzBqeXh4MUNSaGt5OE1YZGxGRDRqenBDX3lCSk44ZEM5QlpURm1zbzQtVW8?oc=5
-- **Source:** Six9ja
-- **Published:** 2026-10-05T21:39:27+00:00
-
-## DOE funds ORNL and Kyoto Fusioneering test facility - American Nuclear Society -- ANS
-
-- **URL:** https://news.google.com/rss/articles/CBMiowFBVV95cUxPQzhXQTZWYlpULWtyRVhxMTFWemc0V003YWxqQUR0QkxHRE0wMkFZOS1iUnJLQmloX0w3LVR1RzBDNzNMU3NEZzAxMlpUd1daNlpkVThUZGs3YXZLdTNLS2RucUZhTGF1dHdGeF93SkxFdUpnODJSY29JVXpMRWRyZXV3WEU5WkEzMXVEX3Z3QzBMZWVJNGJEczNlb2cxTzBJbkZ3?oc=5
-- **Source:** American Nuclear Society -- ANS
-- **Published:** 2026-10-05T21:31:59+00:00
-
-## Oklo’s Isotope Test Reactor achieves criticality - American Nuclear Society -- ANS
-
-- **URL:** https://news.google.com/rss/articles/CBMijwFBVV95cUxOa0NCc3llSXI1X3NjUlllckFBd2htbTR4dGU5N25QVHVNSmpQNEIzRVN0c2g3N2VnNU9RR2k5Y1FuRjktS0NDU3NLMk5aU21kLU1Zd0h4SXNya1NTZWZkVWdPbFlRQ3JPVGZ1cHhPU21YajA4TlUtVUNldjZya1N5b0FMdTV6N2FKbzlFRVY5QQ?oc=5
-- **Source:** American Nuclear Society -- ANS
-- **Published:** 2026-10-05T21:21:25+00:00
-
-## Calif. officials urge Diablo Canyon extension, but Newsom holding off - American Nuclear Society -- ANS
-
-- **URL:** https://news.google.com/rss/articles/CBMiqgFBVV95cUxOT3Y4YXlhRHVzWlkzUUVKeXFMZ1RuLTItX0xRNnItNmlCYTV1YnNucGlCUTdBdTBsdDdienJNZkhNbm1KeGhIVG1HRmxFSnJOdWpDSlZmVmtLS0hRVFJuRm96a1VKanRjV2U2aXdqSzZBMUo1bGRRM0dYaF90TmVEVFVUNUlSUk5vbV80ODF6VmkwTWJuTVp6NnpwRW51VElPNW0zdTZENG9BQQ?oc=5
-- **Source:** American Nuclear Society -- ANS
-- **Published:** 2026-10-05T21:20:57+00:00
-
-## German fusion startup Gauss Fusion is pitching U.S. investors on $150M round - Axios
-
-- **URL:** https://news.google.com/rss/articles/CBMioAFBVV95cUxOYVhRQVloa3J4c082QlktUE5PaGZkcGdlRzNGUW8zaXBiRmQ0bDNBV2N3RXNDTU5rX0ozWlpIZ2tsZ3MydnhRMzJXMVdWWktDS0FQX0tScW5FcHB4M3J0emZVdXFleFBrdU9ZeGNIcVV6eERTZGNwajRNRnRQZ1BScUc4SFQ4WTB1VlhCVkFSS2g0VWx5WlZ1SmUzdW4wVFg4?oc=5
-- **Source:** Axios
-- **Published:** 2026-10-05T21:16:50+00:00
-
-## NRC shares Duane Arnold restart progress at public hearing - American Nuclear Society -- ANS
-
-- **URL:** https://news.google.com/rss/articles/CBMingFBVV95cUxOWEl6bU0zRUFjakNOSmpOb002Q2NBUVpVZEt6Y3NONEw2TGFNZ2E2djRWYXliUEEyUi1OTVZIeXlScW5lZjRWTWx5dnB3OWRSTUUwRDZUdEszVzZmZG53Ukw5VUVuaFpaRG5BdExCb2VRUk9TWlJFS2ZOS1ROTWQ0anBaUXpoSDJxdlhOcEFqYmN3VFFja0FJc0RGWlY3QQ?oc=5
-- **Source:** American Nuclear Society -- ANS
-- **Published:** 2026-10-05T21:16:46+00:00
-
-## Daily Times Chronicle Events - Reuters Events: Fusion Energy 2026 - homenewshere.com
-
-- **URL:** https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVmxZREJzV2FDbFROellCa0tzNTFkZTI1U3gzeGdfSjZlMEVVWXd4NzN6RHZHYlZrellVeF8yY042WnRwSkNvdlExakgzUnNtQ2RwR1hsb3hPRGtNYWQ5WTVvQ29KVkJJYWZVdmFjRThiajdVV25veTlzRzJNejk4UlVjdG9LOTNSUzNlaUZnTnlKZ0M5dzd3WlhVZkktYVRrTXdXSUVmM0E?oc=5
-- **Source:** homenewshere.com
-- **Published:** 2026-10-05T21:13:04+00:00
-
-## H Canyon restarts uranium recovery operations - American Nuclear Society -- ANS
-
-- **URL:** https://news.google.com/rss/articles/CBMijAFBVV95cUxNUVFlMm9sZU8xazJjdWRSUmxfUEk3VWRUd3ZPWVlHVFU4YXJfUmp1eVJyNFNvT3pUREw5OWFwOUJob3h0czBhVVN6b2FKY29TQVJlMGNlMFR4UFY3dnhoMXg2TTVBTkNrckNudk9uREdYN0h4ZlA5NlJNUUVKUzNxX2lRUVNWWXVqNEg3Zw?oc=5
-- **Source:** American Nuclear Society -- ANS
-- **Published:** 2026-10-05T21:01:09+00:00
-
-## Singapore Eyes Nuclear Power as Iran War Exposes Its Import Problem - Crude Oil Prices Today | OilPrice.com
-
-- **URL:** https://news.google.com/rss/articles/CBMiygFBVV95cUxPcGFzX1FwZTRSZXV1WDJTS0YtRFpPY2Q1LVVEbUptclQ0WmJZeHdVOUxWd01kV195X185cTVGLWtzR05paVk3ZDRfMHJ2bm5SbXU4czFPakF2U0N5RGIzbHVGRGRYVV9mcEVJeDdwNHEtQ25ieHE5RXhpWUtGXzVkSm9zT2JJMmtfdGl2dTVNMXZmTmR3SVE3OTJndk5HRVF1cnJEUGExelNmUFRKaHp5MkhMdk9BU1djbFo2MFdFY2M2eFB3M2QyUUd30gHKAUFVX3lxTE9wYXNfUXBlNFJldXVYMlNLRi1EWk9jZDUtVURtSm1yVDRaYll4d1U5TFZ3TWRXX3lfXzlxNUYta3NHTmlpWTdkNF8wcnZublJtdThzMU9qQXZTQ3lEYjNsdUZEZFhVX2ZwRUl4N3A0cS1DbmJ4cTlFeGlZS0ZfNWRKb3NPYkkya190aXZ1NU0xdmZOZHdJUTc5Mmd2TkdFUXVyckRQYTF6U2ZQVEpoenkySEx2T0FTV2NsWjYwV0VjYzZ4UHczZDJRR3c?oc=5
-- **Source:** Crude Oil Prices Today | OilPrice.com
-- **Published:** 2026-10-05T21:00:00+00:00
-
-## MITICA testbed: final installation scheduled to begin - ITER
-
-- **URL:** https://news.google.com/rss/articles/CBMiiAFBVV95cUxNd3JyY1JzQ3ljNWV5TkRkRzMtSnBENm4xOVdBcFYtTF9Lbk5zZTQ1WlhzTGZ1eERsZUM4c05QaU5OdWtJQW9XSGFxQlFTNTZrWFdtc2o1OGJpNkxKUG5rU1M0Wm1WOEFhQ0VSSFoxWU10T2hWQUlHVGhSY3ZIY0l5QXZlQnhldHE4?oc=5
-- **Source:** ITER
-- **Published:** 2026-10-05T20:52:52+00:00
