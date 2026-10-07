@@ -1,8 +1,32 @@
 # NewsWatch — Apple News
 
-_Last updated: 2026-10-07T10:53:20.220083+00:00 · 50 articles_
+_Last updated: 2026-10-07T18:33:17.436119+00:00 · 50 articles_
 
 ---
+
+## Apple stock after-hours at EUR 300.58: plus 1.44 percent - AD HOC NEWS
+
+- **URL:** https://news.google.com/rss/articles/CBMitAFBVV95cUxOb0M4RTQ4ajJUZ3RMNU9PaHN4YXNiR3AyV2VGS0RMZHZsajRCOXBDUUZ1LTB6OFMwSS1saUlaeXN1cXd5RUduWUJTeHd3cnJqN1ZYYWhHME1RY2N6XzZxLVkwc2g3Y242NkxKQzBjLV9pWHpMSUczcElwbWM2OXBEYXVvYXV3RkhITTVtWml3T2puWjlRdXdwbnkzYWVBU2tfaEpyREpQakhpakFKYU55WUJDSm8?oc=5
+- **Source:** AD HOC NEWS
+- **Published:** 2026-10-07T18:02:18+00:00
+
+## Apple stock heads toward November 2 earnings with 9% guidance - AD HOC NEWS
+
+- **URL:** https://news.google.com/rss/articles/CBMiywFBVV95cUxPdmRxTGRzNjNDTC1Rcm5Hakl4TF9DemVYUjN5bHppbnNUQXJibDI3ZmpZRW5UM0hUMTc0RzNzLWlSTlk5OEhUUGhYNi03ekV2R0RBYmxvczZvaHFpNXV5OElNdWdEWGd5MGs2SVB3MFROVTJWWlppNUd1QjItQmpYYVc5WDZ4NkZPaU5nRFNXS3VYdEdOR2p6REYzbmUtc3VkYnFFVnRLYjlRUEFzNHc5aWlUalZJY0ZWMjh6MkREUlI5X1RRbkNLT1RHZw?oc=5
+- **Source:** AD HOC NEWS
+- **Published:** 2026-10-07T15:09:34+00:00
+
+## Apple (NASDAQ:AAPL) Trades Near Highs as Mac Refresh and Services Draw Focus - Kalkine Media
+
+- **URL:** https://news.google.com/rss/articles/CBMiuAFBVV95cUxQS0RwQUFtSl9jMF9TTzBQMHEycE4xaW5OUlpoRVRoVF9rX0pjalMwdTJZdUpIREdIUk1lZ1pVNTdBc2l1d2RMbmZoVHZJVmUzaUVmVW13YWVvaUNzVW1rU1Q4YXBqV195Z2RrTlk4enhGSGpoS1A3Z3FfTVNYVmU5TXdPYUVsQUN4WkRUOVVpcXlrS29Xdm5ELTFMVTB4Q2Zva05tOFBPX0VjWV8xdTloSFJUVWROamRy?oc=5
+- **Source:** Kalkine Media
+- **Published:** 2026-10-07T13:38:00+00:00
+
+## Morgan Stanley cuts target for Apple stock to USD 355.00 - AD HOC NEWS
+
+- **URL:** https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMFhUOVJOV3NKNDVNaHVGUXJrcFc5OU1KakRfbTJuZ09MbUd6azdGN0ZUNm9Zc2VmZ2gzWFg5b2NpWUUtalAwRFhTVG91djcyY29TNjdXdmx2S0kyQkdTYVlpX3FZdGtkQnlRRkJyVmJjd2ZESmszd1pZTjlzZENxWWhEWUEycXpObVFvdVhqTERQZXFOdnh2cTBScEM2TGlHemNlMUhXSFp1VnowdUpTWkJTYXI3TnNFMENF?oc=5
+- **Source:** AD HOC NEWS
+- **Published:** 2026-10-07T13:05:35+00:00
 
 ## Apple to launch doorbell, lock, thermostat developed with LG - The Economic Times
 
@@ -279,27 +303,3 @@ _Last updated: 2026-10-07T10:53:20.220083+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMizgFBVV95cUxQd0hHdm1weVRDLXR5ZDAzekpoVnBOUEtKcWhtTFhKeVE0OUwwT3BZZFNDUzF2ZzJXY1JLUjlaYXQ1cUpkRWR0UlF5WjlFdS1QZWRuVWxJbHV4U050SkVaeDJTVFR6b1VodE5mVXlOSktHRWUySm5OMWxBZ1FiS1NRSnRmWnBSaWg2bW9BeV9FSXBSUzM0Wk5MVHlKeHJSN0F4dWtNWkZJSEItY0tPeHRHZEM0WTJaVWUxOFlLZkhBR3lsLVlRdFp1bFhfanpndw?oc=5
 - **Source:** MarketBeat
 - **Published:** 2026-10-06T07:32:15+00:00
-
-## Apple Inc. $AAPL Shares Acquired by TD Waterhouse Canada Inc. - MarketBeat
-
-- **URL:** https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZm5JWXBQY2lvV1RoMzhoZUZNUGlrS2hvRE5rVVFkX1ZWV2Z3MFlxSkN0ZWtwOGxpb3l5RUdQRFE5di1OQ0R2aEtpZi1RTDJFN083OE9rU2o5cFpxdkRJN3NleTg1NjEyYTRGNkFkcTlaQUZxMktCcTN2RmtBSFozQlRjbURva2lVb0VaczdSSXNrYV9ibXFUc3J0dFppT0tqT3JNR0ZNWm1DczhORndyUW9JbG8wSXR1dVQ4?oc=5
-- **Source:** MarketBeat
-- **Published:** 2026-10-06T07:32:15+00:00
-
-## Apple Inc. $AAPL Shares Sold by Conway Capital Management Inc. - MarketBeat
-
-- **URL:** https://news.google.com/rss/articles/CBMivAFBVV95cUxNOVNtTHUtUi03Qm5jMy1HdzdCVnhOdFVGcEdtSkZTZTRzT0dDNF9aem9LRDRfQkxBWlRZX2FQX0Fxb1hHc21veUVNaTk0ejlVMEJKTnhOQ2lXbDJLam9CUVR1R0N5MW9BZGwteGJoeWlKQUdVNDdNNWJlTm1fb3ZQUS1nUnJCa2ktWTNLWnk1dFFzbFJBOHR3Rzc1MGR6Ukx1UTUtRzdaV3pUcUFjaF9CbGREck5Tb2tUN3U0Xw?oc=5
-- **Source:** MarketBeat
-- **Published:** 2026-10-06T07:14:10+00:00
-
-## 4,589 Apple Inc. $AAPL Shares Sold by Barlow Wealth Partners LLC - MarketBeat
-
-- **URL:** https://news.google.com/rss/articles/CBMivwFBVV95cUxNZi1RY1g0WnpHQkJQVDBaNmlvSXZ6eWZzdUJzYTJyVFdtU3g0NjM3NHVnR1Z3Zzd1VlVmUVNVN01faHdRdk9MQk15cTJoVm5BcDF3SGtlVFhVNWZSRjlkSjQ2dDFPUk5iMzJYQ1Uxd3NlU251cHlDd1VVeWdDQk5YeFZjMGpJYnRtZGhtdkhmQUlacWl5MHR0SDM3VWQzQnlScGh0eTh3M0pQVnNmRXZNbGFNSDJGdGVCQWRiOC1fRQ?oc=5
-- **Source:** MarketBeat
-- **Published:** 2026-10-06T07:14:10+00:00
-
-## AAPL: Apple defined, key history, primary product lineup - 9to5Mac
-
-- **URL:** https://news.google.com/rss/articles/CBMiR0FVX3lxTE5YT25nRDV2WDBrbkJNcGEtUTVaMXUwRUZiQjFPWURPanYxM0RaRE9yblZHZFJMbmpWT2FmaXhCanlyWFNwM2ZF?oc=5
-- **Source:** 9to5Mac
-- **Published:** 2026-10-06T03:52:39+00:00

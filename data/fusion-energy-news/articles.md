@@ -1,8 +1,158 @@
 # NewsWatch — fusion energy News
 
-_Last updated: 2026-10-07T10:53:25.491861+00:00 · 50 articles_
+_Last updated: 2026-10-07T18:33:19.495929+00:00 · 50 articles_
 
 ---
+
+## Fujikura stock after-hours at EUR 31.83: minus 3.52 percent - AD HOC NEWS
+
+- **URL:** https://news.google.com/rss/articles/CBMiuAFBVV95cUxOSFY5OXktOExSZjRJSEd4RUlPN0stVE1adVg3SVFMUUVqaENfazFiT19BV2NZOUt6QmthNGZjREZRTkpuX1FFcGlDQmpQNjVXbUs2U1pXT3cxRXluMGxSS2EtaHpKR2E1Mk5VckxLT0lhN0VTN29aV2s3Yno3UVpiWVB0Vk1mVXl2LVVRc3g4c3hTR3ZYa3VXV2lzNTljQm53TDVCYndtZmw5SUloN1haRHNxV1NEWnY5?oc=5
+- **Source:** AD HOC NEWS
+- **Published:** 2026-10-07T18:24:30+00:00
+
+## Chris Wright, Trump’s Energy Secretary, Wants You To Face the Reality of Fossil Fuels (His Reality, Anyway) - 5280 - Denver's Mile High Magazine
+
+- **URL:** https://news.google.com/rss/articles/CBMiogFBVV95cUxQUk5nZkx1dzlLdTNndi14ejc4a0kwdzRGZXJMMG8xZmFlcTJfZk0xY1FvV0FnaXB2SXMzZEM2NmhocGRfUldGc1U1ZkJDVUhMWDY0bkx6UlFlQjlBQmxOWXRmNEJTelMza1BYQ25TbkdvT0lDZS1DRFVXSHRqeE9Da1o4N3dKZXpsTElFRlBEQlRySF9MbzZXYi1TWHV2d0FDVVE?oc=5
+- **Source:** 5280 - Denver's Mile High Magazine
+- **Published:** 2026-10-07T17:53:20+00:00
+
+## How LLNL is using plasma and gas to control high-power laser light - R&D World
+
+- **URL:** https://news.google.com/rss/articles/CBMivAFBVV95cUxPQTluSzFJT0hwWWI5aXVTcUNwNGpnX2MyLUVkNmg4RWYxay1BVEtfV2RuLVFPY2ZadXhzY1lSQk5uUGZ4ZDVOVWdtQXVwelB6bVBxdWFGekFmMXl4bjJ2bFlQazQwVU5JYi1MX1Byc2RQTF9uZUtQeThZU1AyLVdmUHE1akFBRVJQWFNFTENLcXJuRkxyNXRUMnN5MzQxTUp1V0xBbEN0NWFnV2VRa2FrdFo0MV9tVFhyUEJycQ?oc=5
+- **Source:** R&D World
+- **Published:** 2026-10-07T16:38:28+00:00
+
+## US lab sensor moves underground to protect fusion plant water supplies - Interesting Engineering
+
+- **URL:** https://news.google.com/rss/articles/CBMijAFBVV95cUxQZmdZaGJuTURidmlFaGJIZ25UTU5oc0FmQWNjZVhNcGhheFB3aU9TX284Mm1vbEhXX18tNk45OF80TThTT3lEeXJJRDdwRllSazlacXdVMERidkFqYndtOUpneHdCeXZhLUhOQXBhcDNMNWxROXpic095d25PYnhEbGRNemJiQW1RaXozWA?oc=5
+- **Source:** Interesting Engineering
+- **Published:** 2026-10-07T16:31:00+00:00
+
+## Type One Raises $200M in Series B Round as Tennessee Fusion Project Nears Construction - Engineering News-Record
+
+- **URL:** https://news.google.com/rss/articles/CBMivAFBVV95cUxPS0N6NWh5ZzFxQndyR2xIa3Z0MGlwcUR2RldNbFMyQ0dHQzRSLThwMk9yNUk3RldXTFE1N0lPOXFTZEVQZ1MzaEF1N3ZuMFlUbkN6Q1U4cEt1TklqX3gyWVA3RGdxTFdSNUhoWXdGR1FkQmFUM2dDRzBZWENyX1g2TjhZRldpT3BIcGZ6RFZMaE9wY2NqSmdCeFRUSHlrR3RtdkRrNDRxWGNRN3NBRzBrYjdza1NmeVVEYlRfMw?oc=5
+- **Source:** Engineering News-Record
+- **Published:** 2026-10-07T16:27:48+00:00
+
+## ITER Receives Final Vacuum Vessel Sector, but 2034 Dates Hold - Discovery Alert
+
+- **URL:** https://news.google.com/rss/articles/CBMilwFBVV95cUxPZ0hQUlhDS2Z6ci1hZG1UU2dDVUJLTERxZkI1c2N0SzVvSlJDSTlyVjUyY0JsUFNhXzgxa0puMjRrazdXSDJIQTJhYjZYS3JKMS15N21udDhWby1maU5DZmVOWHV3a0FfREVfU2dBR0Fvc2RoemlCTFpVMDFObVBUMUdmQVV3YlUzY254a1NEV0xrWFl3ZnVj?oc=5
+- **Source:** Discovery Alert
+- **Published:** 2026-10-07T15:57:06+00:00
+
+## Analyst Says Standard Nuclear Is the Only Company Shipping a Key Advanced-Reactor Fuel - Benzinga
+
+- **URL:** https://news.google.com/rss/articles/CBMi8AFBVV95cUxOc2F1R3M1LVVTTXBBMFd1VnZuWDRGaWJ6SG1USk9zZXpOV2FGbHdrbFZnUU1LNjh2NTJsSHVSdXpXREJ1YXZyQ09KcVJQYjJZalJsV1NDRjVpUFhwYU4wbG1SbXp0UHBydl9UTjhybzR3ZWJ5eTVuWXA5R3hDX1R2UU5hLWZKdkNudjg5ek1henJ3Um9oa2pzV2pmRF9fTklEVEpDLWl5X1ZiVFZRaXhjckNiVV8yMEJsTFFwWG54bktQNnhpaUdsdHNXUHZRa0J2MjZmQjhUaURITjNkQUg5ZkJZZENGVzZndDJQb2poN0E?oc=5
+- **Source:** Benzinga
+- **Published:** 2026-10-07T15:46:19+00:00
+
+## Type One Gets $200 Million for World’s First Commercial Fusion Plant - Tomorrow's World Today
+
+- **URL:** https://news.google.com/rss/articles/CBMirwFBVV95cUxOWVpMbXN4ajd3dUJvZUJJMno2bFhjT0xsS0ZlemotR0Rwanp2QWhnalg3RGtZb3Jzangzc21XRDVwaFdhd1VLNUJjRGJCUHNlemxxQjJkRmZBaDRHZWMyOWk2MUJudGRjcm8xZkNHa01Xa1EyS1huR1g2ZlotRG43TERxRDBzc1MwUzNRLVdEUkFxdkdIVGlrb0pxOW9Rb3RCMjhGTGRLMmNPWHlnYjZR?oc=5
+- **Source:** Tomorrow's World Today
+- **Published:** 2026-10-07T15:39:19+00:00
+
+## Scientists in Vienna and Beijing create world’s first nuclear clocks - The Straits Times
+
+- **URL:** https://news.google.com/rss/articles/CBMirgFBVV95cUxQQmE5SUJSTTJ4NUpqSUl6UEIwcFFoeEJTOWhBb21MUTJQWDFfcFhER0FER1lfSWNLS0tyenhGQ2MzNlRTZnpMU1V2S1ZZRi1CR3BPZmFZN1ZIZmlSem1kZi1QRzlLdHJlUWhVN1IxQTVaZmpybnhkNHUzMU1UekJsSGxwcE1jVExsU2Z5dXJTWC1TUGlNNnZBU0NNMXVUMTQyckp5OFRZSjFnazFhdHc?oc=5
+- **Source:** The Straits Times
+- **Published:** 2026-10-07T15:35:00+00:00
+
+## DOE Science Committee Draws Concerns Over Limited Expertise - AIP.ORG
+
+- **URL:** https://news.google.com/rss/articles/CBMiiwFBVV95cUxPWHNNaFNJYWJDcy1yM0pybXlmcURIdDVQdjBfQWROT1pNYUpGTWk5dkgtVFdNYXc4M3dua2VKYkYxc2Q5cTNudmlqT2d2U2dSN0JyM1dQMEdnOXFoRHZyblVNazBaekh1NTB1OHVYbjlfdGV3WkwtRnk4UllZeG5HTUNwekx4czN0MlZB?oc=5
+- **Source:** AIP.ORG
+- **Published:** 2026-10-07T15:34:39+00:00
+
+## ITER welcomes last major component needed for core machine assembly - American Nuclear Society -- ANS
+
+- **URL:** https://news.google.com/rss/articles/CBMiqgFBVV95cUxPU2hCQ18xZWpsOTJveG9wSlUtNEw3R3Y1eDNEYmxRZzl6QjB6Q0gyNllLakVxVWhNcUpybE9mQ2FJYmYySkRveFotRHV3RHhJZk9sZXd6S28wbXdOamRGdFFJSTFLMFh4OWxfbV9VU2pNV3hOYU1PNFU3cUZIT2E1eXA3QWZUZmVabUhrd0JCbUtHSnFScHFjSzNCRkdfbzVBazdiQzVQMDlpQQ?oc=5
+- **Source:** American Nuclear Society -- ANS
+- **Published:** 2026-10-07T15:30:23+00:00
+
+## Xcimer Energy Secures Additional $30.5 Million DOE Award - Pulse 2.0
+
+- **URL:** https://news.google.com/rss/articles/CBMigAFBVV95cUxNb3pQT1lUTFZ4NVlkeDEzQjRFVXZPMUpobHRJQTJfcl9wcEo2RHk2YnlveHVhcWhUZ3N1NUdkWklYR005R2dSV3VlSDhxWDFyd2tnQUtTRFpRNGo2aWU3eVgyb3F2SjVyXzNvY2pGZ3pUN0JiRWRqZHNxQ0tDU0V4S9IBhgFBVV95cUxPOEFLc3I3WndUcThYOFVQRFV0RHZLZzRfUG9SV3BrTFVfOUtKclQzakpRbVY1SHNORFlwRldiZW1yend3bTBFMU93cVpvRkxockdSd1pNclhkMi1POFpWSm5iX1ZGeDQ1VE9rbGRjMGNIY3VJWW5sTW4zSnIybjNGQkVkWjhJdw?oc=5
+- **Source:** Pulse 2.0
+- **Published:** 2026-10-07T15:20:36+00:00
+
+## SpaceX alumni nab $100M to rethink shipping with autonomous freight trains - TechCrunch
+
+- **URL:** https://news.google.com/rss/articles/CBMirAFBVV95cUxQVXAxbUF0WERKUWE0bVNDaWdJVlNnZm41OEoyWmhZLTFYeWVZRWpPSmVyaUhBRGpCaGRwS0RRUjBBRU5RbDc4ZDU0bnpQWHFkZGJEcUlvQXVPTlBhZ240T25DVzhST1hsR1BtekRGZDZiSTVqWkFBQ2QtOTc2V0Z3bElNSzFzX0ZJVlZLTzFSZnpEeWdaTmVobzNwWU5iQVRmeWgxSURUODkxWmxK?oc=5
+- **Source:** TechCrunch
+- **Published:** 2026-10-07T15:00:00+00:00
+
+## People Aren’t Fooled This Time… October 7th Good News Roundup (GNR) - Daily Kos
+
+- **URL:** https://news.google.com/rss/articles/CBMingFBVV95cUxQd0ZfMDkwdUFVRjVybUlQazM4S1pUOFpjMTk4M1NtUWZTVWliNFcySEw1N1ZRQlcyYWRJbk5uaHNsX2FPVjg1Y3M1emlZS3hnY3pQN3dOZTZRaEZmdWhXSU9WX0VSZXIzZHRqLVhNRGh1QXpqeFJVVGRTOXRrWkt4OHREX2tsTjZpRUpLWi1wRFRpQUxZcGVhOXBobzRrdw?oc=5
+- **Source:** Daily Kos
+- **Published:** 2026-10-07T14:44:35+00:00
+
+## Fusion firm Xcimer announces fresh DOE milestones award - World Nuclear News
+
+- **URL:** https://news.google.com/rss/articles/CBMiowFBVV95cUxPa2lhZzlQRmhQTnowN3hRZVNBeUVzelBuSUpTOFlKV3NtX19JQjVXV3FaUnBzZXIzYVppd1o3V2xZSEhqUWJ3Y2k5QzEzQ29JZ01FNW51RlJkd0dZcncwTEVYcFNNOFJ2djJzR0s0eWxqdlNBeEtRR2J4VjFRVjhRUUY5enpHNkpTa0o1cFZPcm5oT3BLQlplRXE1cVVfQWxqRnJN?oc=5
+- **Source:** World Nuclear News
+- **Published:** 2026-10-07T14:36:31+00:00
+
+## American Fusion Restructures Up to $2.88 Million of Stock-Based Compensation Into Preferred Equity - Yahoo Finance
+
+- **URL:** https://news.google.com/rss/articles/CBMinwFBVV95cUxOS3FJUVJOOTRKVjBBR3YzSFBsTm43ckdKX0xncnVnNDJtakd1WWVSQVAwMmhrZTR5S1hNc2NMakExTThWeDlqM1lzQXlfWjctd08zYV9Ed1ZteEpiS2p5elc1aWVTWE9XVy1ZYjJ3SnI0YXlfdkM4Y3JBU0E3ZEtRdUxyWUFub1hqeFlYS2g0TjNnaHRUcmtjLUxYN1BkNjg?oc=5
+- **Source:** Yahoo Finance
+- **Published:** 2026-10-07T14:15:10+00:00
+
+## Latest designs for UK’s STEP prototype fusion power plant revealed - Engineering and Technology Magazine
+
+- **URL:** https://news.google.com/rss/articles/CBMinwFBVV95cUxPRUdNUUN0dG1zZkhFdWg3ME0tWHc1VUVoVDV4TFVMUzFicWw5bklKQnlIdDBReTYzUWFXYWt0ald6Wm1TUzBRYllFYk9yc0pmcTVNaWx2dmQyNTh5NVV2V180TE9xSFRXS1hQYXh4dzctTkVJa3hoakY2Slh5VGxQVWdQeTJ1S1dFQ05zZGpDcTZHRER5ZGY1QUJBeThsZzg?oc=5
+- **Source:** Engineering and Technology Magazine
+- **Published:** 2026-10-07T13:53:41+00:00
+
+## A 17,600-pound steel pump built to empty the world's biggest fusion reactor works by freezing gas in place at 452 degrees below zero, and the one gas that refuses to stick, helium, gets caught instead by 15 pounds of charcoal ground from coconut shells - Autonocion.com
+
+- **URL:** https://news.google.com/rss/articles/CBMie0FVX3lxTE1PUGpzMGFxTHVsSnBMSGNlOUpZMEtlcGFkWVBRWEdaNFNrYWlmdllNYVdMN0QwYnlyLTJUdEJMVlFGR3phS3YwR0RtdkFJRGxwOXh5U2EyeDc0NUpJdmNCMXNOUVZzaE4tZzd2WEYtUklyMW1aWXBlSWkxUQ?oc=5
+- **Source:** Autonocion.com
+- **Published:** 2026-10-07T13:30:08+00:00
+
+## Kyoto Fusioneering and Daido Steel Begin Joint Development to Establish Manufacturing Technology for Vanadium Alloy Structural Materials - Morningstar
+
+- **URL:** https://news.google.com/rss/articles/CBMipAJBVV95cUxOTjF2ck8zdmgtZ0FxMnBzbHFNY0dfLTc4Ym5DYy1xcjc4MmVfZUMyTG5tTkxzdGNGbTR6dGdpcXdzVWFIdTZmRlNQRGZ5U1NoMHM2bVd5dy1LSVc3T1VfMDE4anhsY2ZQOW5ibEp2MzZKei1fd2MzSUtxSWNjcDA1VU91aTJ3T00ydE96YUhlYm1QeVpseDBqblZ2SGZXZVV0MGtReUp1ckgxNmFnZU1WRDJUQnVNTE00aDNzS0dSeVNVRV90b2tJLXFBTHNWREJWUXBFYnNLQVNSMUlBcjZxTjZDaUYtUUpKSk9tdkJsQU5kdmdtUmlabm80WjlCUWhUVEU3ZEVVYmlXc2IyOFZycUZEWHhiWmZZN0NKdmpTb0NHNHFD?oc=5
+- **Source:** Morningstar
+- **Published:** 2026-10-07T13:20:00+00:00
+
+## American Fusion restructures $2.88M in stock compensation By Investing.com - Investing.com India
+
+- **URL:** https://news.google.com/rss/articles/CBMitwFBVV95cUxNZmI3U2hGX2NGUVAzd0dPVVJ0SWpyZXRrU0Qtam1wT0hWSV91Z1FkcjFpNTBXd0ZoazFiR1RON1ZYY2V0TDltZS1YTFNqR0djYUFuNkRUSmpEbjU5VGtPeFdmRW5UUUtfMUhldWx1ZVRwMHo2eW1rYlJNWDJlZ2NIU2o4cHVWYVplb05sNDF3eFdQN1p0V2NmYTZUNzVKOHpYbVlIMzVqanFUNUFWZHZaNjE2dS12TVE?oc=5
+- **Source:** Investing.com India
+- **Published:** 2026-10-07T12:20:59+00:00
+
+## American Fusion Restructures Up to $2.88 Million of Stock-Based Compensation Obligations into Long-Term, Lock-Up Preferred Equity and Begins Auditor Transition to MBP Global LLP - The Manila Times
+
+- **URL:** https://news.google.com/rss/articles/CBMi5wJBVV95cUxQc0U3VVRCNlB5dGoyWnI1X0paMS10Rmh0ekJrbDlhaDBmUWZCLWw0cXIzYUh1YVRYaEtBTHlXRmZQMExNenRtamU3NlN6WlRucmc0N3Z3MjIyR0hjZDBuYWo1dmZubDh4cF92Tm5pQmtlUmFjTGZVZTVGVzZsT0NibERpRVVtUFBkQmJ1T1B2US1IS3pPaS1LT09zSDdQVEVsR0YzeS15eGRvODMzVWY4WDluZHBtbDJBR0M0WE9ZSGxNNEp1YmFYbUZSSHhGVm52RGZmNWpWR3N3T3RXQVdfUWFlcGlZZzNYSlRwYm90TklsMl9YblpmbDFFRUxRYndBVmRNUVZBZU1oMFA3NU14d0t6NjZ6VnNiOTh4VFNXU0RkV1A0VEFidzctcXNqQXNva3dnUDd0RnpIQ1RfSnVINkRuMVNqYlpfa0w2LXNoam5JR3J5ZnlVeWRlWWZNTDBrMGFNR2F1QdIB7AJBVV95cUxNU1dNY0pnRUtlTjZORk5MTUVRMDBGRmRpcE5YdXZDcmVZcUZ6QTYyVFNYSVVPYnI5b2lHVzhaQm8zTkJQa3lDS2I5ci1peDFaSVhLYkFETzdfRzVrTnRvdExVYkdqYXZFNHIxSWtIWUVlZ1gwczlmdHJ0TWZ3dGxvd3dzWFVGTFdWWUwwcWdySWkyOGg0N3JJT2RweXJaTHRCb2UzajJYSGRJaEhPVjVtbGZDdnd6eEE5Q2ExUWxtcEVYekpHcVBwc1J0cXZxRkpId1hJRU5FY0prNnVQbUhCN21Wc0pfcGFra2xHYTN4UWx5ZXlWVHdoN3RWckJjWEpnMmpCT0g5TDkxbDN5TktINkpTWFVXV1plXzA1MThlT2dMZks4WGgwVEdPS1RTMnBwbVdjVEc4TWdEaFFWZmsxMTNicUlObEV5ZnB0dU1FSS1SRU5DR0RkYUZkME50MTYwUk9ta29CR0F3RlJa?oc=5
+- **Source:** The Manila Times
+- **Published:** 2026-10-07T12:07:57+00:00
+
+## Sunrun Announces Date for Third Quarter 2026 Earnings Report - The Manila Times
+
+- **URL:** https://news.google.com/rss/articles/CBMi1AFBVV95cUxPQndwMjBIUGNlRDZ3VlgwOEcyekJjTTRUOUJvY1ZnaFZIa0I3UkRldDZ3YlNTdXFzd2IyeGdsQUtNRHFIeTdKdTZMbEhTdThSX192OWthV05nNW9WNmY1VmRVVkNWallWRm53TGJwVU84eW9kQ0h4SmRSSko1bEJLbXJXYlkxeFF0amZLSm9Cb29nb0h5SW5RbjBaNmRIWmxjRjBMOEJDWjd0d1FDbjhWNjFxTUJfblNTUTJmVS1JdnZGM3kyamg5bXNIalQ5eEl4ZFBaddIB1AFBVV95cUxPQndwMjBIUGNlRDZ3VlgwOEcyekJjTTRUOUJvY1ZnaFZIa0I3UkRldDZ3YlNTdXFzd2IyeGdsQUtNRHFIeTdKdTZMbEhTdThSX192OWthV05nNW9WNmY1VmRVVkNWallWRm53TGJwVU84eW9kQ0h4SmRSSko1bEJLbXJXYlkxeFF0amZLSm9Cb29nb0h5SW5RbjBaNmRIWmxjRjBMOEJDWjd0d1FDbjhWNjFxTUJfblNTUTJmVS1JdnZGM3kyamg5bXNIalQ5eEl4ZFBadQ?oc=5
+- **Source:** The Manila Times
+- **Published:** 2026-10-07T12:07:45+00:00
+
+## American Fusion restructures pay rights into another kind of stock without cash changing hands. - Stock Titan
+
+- **URL:** https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUTQ1dnpNalNfWUZ0MzJwenJFUGNYNWNkNXpXcVpEMVdkWHV2ZWpodWhZWW1EbGxhY05LLTNDUmc3X19sbU4wZG5kTmJTU2wzU2tWZjFWNlZHNE5HanpEa1BxaXl5SE1WX2VOSU03SzQ1ZVdZNkhYOWJWWklUbXF5OUlMZDJsakRRdkozUnpSa1FGd2Z3eTV4S1Y1Y196SjBBYTVoX0tmaHpEMy1laVpJeDQzZm1KMXNj?oc=5
+- **Source:** Stock Titan
+- **Published:** 2026-10-07T12:00:00+00:00
+
+## Princeton Researchers Revise Lawson Criterion: Tiny Tungsten Impurities Hinder Fusion Ignition - Inkorr
+
+- **URL:** https://news.google.com/rss/articles/CBMi2AFBVV95cUxPeVpzRXZ1RnV3VGpOdlVkX1l2aDhqYW9BZVotdWQwVmcxRnl3dVRzQmRIeHJNUi13SVpadnQ0UC14WXFFSnZHeHBNNXA1NGFIbE5OV1F2UUlUZ2FHQ19BN3VucG4yc1VmdThMbkhUdUhiN1E5ZU1Yd3NvMzhxSG1oY2hDX3F5c215d0Z4T19GR08wSEpqMnZUVXo2VHVWSlZ3d09tZ0xIYjE3MXRON1hWd0NwZDFQaTRXTGtmUVdtaGhxOTd1OWgxa29sdHlYVy1wNjE5T1phOGfSAd4BQVVfeXFMT0ZubHhzcFVuZlVTbGtOTHF3WmZSc3hwOTVhcTBGUGNObGgxQl8tMXNLX2N6SE5jLXpSU2VJQjNPSWlFU1h6RjR4alJHcWEzM3ZxNkM4Mk5hMVVFRnFWbFBmZTBYWE1laFNaeWIwSlI5M1N5NGxtQWNZT2N3MnBaY1pxZnNZNUJNdnp4NTVaSUJyM1JuOXByR2ZsdEVKOFVTZEFPVDFoRmlxSFNtN0JzWXdLU1hYMVExNV9kb2Ffa2tyUHUyc2diSkF5d3BUNWZzN1ZnVVc5ZEUtQkwzRGN3?oc=5
+- **Source:** Inkorr
+- **Published:** 2026-10-07T11:56:45+00:00
+
+## Europe completes ITER vessel deliveries - Nuclear Engineering International
+
+- **URL:** https://news.google.com/rss/articles/CBMifkFVX3lxTFBaYkR2enM1dEJTb0d2MFBob0hUSzJ6VTU2VEFXRmJMWXNqNUdiNmVCaDRTUVlBc1NNNkc5ek1lb3F2REVrZ3hzdWVpOUNMaFZHTDRuR1REM2htbnFUQnhfb3BqYlNZWjNJV0xKR1JGTTJuOEFoRk5mTjJTVGM5Zw?oc=5
+- **Source:** Nuclear Engineering International
+- **Published:** 2026-10-07T11:53:54+00:00
 
 ## UKAEA ICURe Engage Program (United Kingdom) - fundsforNGOs - Grants and Resources for Sustainability
 
@@ -153,153 +303,3 @@ _Last updated: 2026-10-07T10:53:25.491861+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMiswFBVV95cUxOTlMzb0NqU3l1X2NMaENUcy02SGxUb0Z0b3N5MmZiWk80UjJPNzVUM0dXTjBfdVRTV2VkYVFKOTlXbm92ZFU4eTdyZXlYNVhBc3VBQklXLW1STkZpc1JBQlBTUXRmR2sydndWSjRZdkk2UVRuSmhNczRqZ1JJcG5yLWVLc2ppSldqTkNsYTBWT0xNUWlSM1ZtZWRISzlGaGNLTmlHUXlvemgwNU5WeWVRcUctYw?oc=5
 - **Source:** NucNet
 - **Published:** 2026-10-06T13:20:41+00:00
-
-## World’s largest fusion reactor gets final 485-ton vacuum vessel sector - Interesting Engineering
-
-- **URL:** https://news.google.com/rss/articles/CBMijAFBVV95cUxQSFExWlZRc09HcFVxMk1aQ2RqbjBYRnpEMEFldlJvNzV6RU1RS2g4R1BuLXJZZEhNUmN0allLWnNqVDkxVXFuemhJYnVZQjhEMzNvM0VINHNta0NHWThnZzYwVEdRN1BWNk5fR0ZPMkxPelFmSHdhRlBkOTE1YjVjd2p3ZWYyZ3NsLXh4Rg?oc=5
-- **Source:** Interesting Engineering
-- **Published:** 2026-10-06T12:51:00+00:00
-
-## China’s ‘artificial sun’ advances as BEST nuclear fusion reactor passes halfway mark - Interesting Engineering
-
-- **URL:** https://news.google.com/rss/articles/CBMiwAFBVV95cUxQR0M0a3VvbTZnZ213WnFrV0sxOWFSWHZiT1hKMDBiNkpQNTJqQ013MWFVY3hKT0J0UmRBT3kyRW9FVnBsdGxMbUc2TWsxVFZYbUFMSXBjdU1SdDVoeW5KNzVvckVUNHYtdmdlZTctb04wU0JMM0hRZHZlSWhxcVNSR1BtZmxsU2dqeFdTaFJVY25XYlZ4MTR0aklRM0ZRbFFhSlV4Wk1TV2pLQzlJUFRSQW5tZkgxQm9lUnktaFFwWTY?oc=5
-- **Source:** Interesting Engineering
-- **Published:** 2026-10-06T12:37:48+00:00
-
-## Newsom signs legislation at UC Berkeley to accelerate fusion energy, grants $30M for quantum research - dailycal.org
-
-- **URL:** https://news.google.com/rss/articles/CBMilAJBVV95cUxPY1ZINnBncV9VNDVmLVdRLWxtMGN4NkQ0U3E0cnIwWHY5MlJqODlma3RsWHh5bFhyMDNkaGpYNnBMRHQyc1BYX1VBWFFsOGI5dEFqaERvVkMxYjNCMU5sREJweFkwa3ZzZ212NVItVDB5eW1wUFpPTmNibXB1V3ZYTkZpc3ZaY3dhWkRSMXJIWU5QRlowbGhObEVPWHl5QU5EcVhlcldndXJtR3Zpb09taU9KZkJBcWdXSVZmNVBoVzVfSWlRQ292c3NPWGJTUVp4OWVpT1hkLXdCR2thNEpVaW9mSFRKNWF2RVZzakk0cTlUOW1QMFlxM3RpTEc3dm5YRTJWX0o3T3dOaElsUGt4LWNuRWE?oc=5
-- **Source:** dailycal.org
-- **Published:** 2026-10-06T12:30:00+00:00
-
-## Type One Energy raises $200 million for fusion power plant by 2034 — TechCrunch - UA.NEWS
-
-- **URL:** https://news.google.com/rss/articles/CBMiswFBVV95cUxNcl9HUDJTX0w3M3h0UjdWc2JKS2ZuWUlBd3FGZW1zeFBidmZfN1lhSlgtYWF2VlF4RGlQNkJmZGUyblJFck5fbkdJU1lWX09IM3ZvZEJxWUM0RVJRSVVCUmhFVjFJalRoUFVjMWR1VHA3NTI5dHV0dFdLUlFTdGRHUUhtSUdZZkhNUnFIdk5LdnZkWEVRQV92OS1UTEtGcW5KQTlOdEhsVEhWTzNMM001b1B6cw?oc=5
-- **Source:** UA.NEWS
-- **Published:** 2026-10-06T12:25:16+00:00
-
-## Xcimer Energy Secures Additional $30.5 Million DOE Award for Fusion Development - citybiz
-
-- **URL:** https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSU84N3RzcHliY0Ztd3R3bkROaUVFRURneE56ZTBfcm1vc1NNYXUzUUhIVVMySnRHSHV1Z1l5TUstd21aZVVRd0Z2eUFfYzRFdnR5MkpodWtHdVhXVUc4UkNtdFNCc0dPRnJNQkl5UElpZnIzNE1JcVNEM3NWYjFWRUlCNVhlcUVnNlNVY3NZbUczNXlYSkYybnVrVkZUNEhoQ0RidS1aN29ETWtYNWtYd3NBM3JhQXZv?oc=5
-- **Source:** citybiz
-- **Published:** 2026-10-06T12:11:18+00:00
-
-## Type One Energy snaps $200M Series B to build commercial fusion plant in Tennessee - Tech Funding News
-
-- **URL:** https://news.google.com/rss/articles/CBMirwFBVV95cUxQLWw2UXBwY1Bham02Wk1Fbk8zdkdFSThDUWVvQ2xVamE5ZkxJX3EzRXEwTjk1S0o3dnh3OHVaR1M3azRMVHF6SFhaMjlDWnhOaHU4VUhlTUhGNTdxTjBBWUJnYUJhX1pzM09QVXpIMVE0NEN6dV9FeEN2LXMxRlFfbXlnc2UxSVZvU00xNnB2anpKVW5CNjFJZVk1aHUxVl9uclNmSEQtWWxMTjJlbkdB?oc=5
-- **Source:** Tech Funding News
-- **Published:** 2026-10-06T12:03:44+00:00
-
-## Type One Energy raised $200M to build a fusion power plant by 2034 - TechCrunch
-
-- **URL:** https://news.google.com/rss/articles/CBMiogFBVV95cUxNQXhHZEYzcUFlU1JsaWJjZEE3Zk9TWWs5ZXRXdVZiRFpqZTdTSHN1c3lZSkpkVTdEV1JFbW81SEZMTGw4dVJjZ1lKVmZnMGNVVjJacnF0UVNNbGVHTmh2djJmcm9IRWtpWVY3XzdiQUVCNlAyZm5mUTNIYzZiODdnbjBTMU9ZODNqdFAtR0xJVkRmT2xOMXZnTGMySXZEYkVvYlE?oc=5
-- **Source:** TechCrunch
-- **Published:** 2026-10-06T12:00:00+00:00
-
-## China commissions BEST fusion facility - Nuclear Engineering International
-
-- **URL:** https://news.google.com/rss/articles/CBMifEFVX3lxTFBCMkxPWlo4NU5xYzBXRE41MGJRUllsOHlqWWg0Tml5Y3ZQVUY2WUlLVXdKekNkTkU2NUh2enNqS2pGa2dQMHZOT3ZiTGlyeXRmX2ZHbkl3bXU3WHRXRVlTZ1VwOFEyUVZlaDNKek9iZ2FRdy1udWhWZjhfSGw?oc=5
-- **Source:** Nuclear Engineering International
-- **Published:** 2026-10-06T11:50:23+00:00
-
-## Type One Energy raises $200 million to develop world’s first commercial fusion reactor - The Economic Times
-
-- **URL:** https://news.google.com/rss/articles/CBMi9gFBVV95cUxPVUlDNkttNjZoamFOX08tQWZlVWdHay1uVUhlUXp1YWtTQnMyUzVpNmNETVVsNHp1RXcybF84R0c1blp0Y0YxYkJ1YU9KaWJRMEhENzZnd19qVzVZbkxoZGpyNkp3SW50OGMwc29wMGY5ZFZVZXFZZEluaW5LMkM2bmZQeEh3SVNqeDZsTXM5bUt1NG9VcUxkTDlGZERPSWtPM1RwTk1qLWhGbGVGR3JwNUZCelRDekVDeUtGdzZqWnZieXFuLXBCQjAxcFQ4azFaVkd3ampyTGF5VUppTE1rRFF0SXNaY1o2Q2tMRWlKMV85M0ZWNEHSAe8BQVVfeXFMUEZEcHJsaEdUQTVtWEZqQVE1bHlvSFZFbHV1SWZCTjJrSW42eEpRMmZBVm44dDhtZEFFVHdLamRZSXdSU01ObEU5clhYQmxtblNUVlVGb3JQaHJkZmR4dUVLQlFILXJnTktGMFBCci03YTRjVXc1VFpmd3VhZTI1Zlc5YjMzMk5DUUxXRnJFc2NST1VWQkpLX3Vfc2U1akwyN3lIa3BiX3E0OEc5aUR4dlBabUZPRjkzS2RVSV95b3JSQ3BjMmpzTmU1WXJDNGRFLXYybDBQM0ZTYzhIbWk3NUhNM1pNRVVtZnItUFc2LUE?oc=5
-- **Source:** The Economic Times
-- **Published:** 2026-10-06T11:43:23+00:00
-
-## Fusion firm Type One in $200 million Siemens Energy-backed raise - Reuters
-
-- **URL:** https://news.google.com/rss/articles/CBMisgFBVV95cUxPYlY5aGhCZ0Y5V2IydktiSTdMU3ZkYzNVaVZSYTctS0ttMWVwNEZDUjdFT0RGeXg2aDRhQS1EVzR1dXNQSmNOSTM3Q1lsME9DUGJWVW5ESmpXVkF6MlNaYUtNQTV4OC1TaVZOMXBzZTdvZ3JWSWhTSVM5X3FremxDWF9HWlk1ZXZQVHpvQ3M5TXAyRGxFZF8xUENnSGdxeTk0QWoyYUdtRUoxNWVpc0d6NVJB?oc=5
-- **Source:** Reuters
-- **Published:** 2026-10-06T11:11:46+00:00
-
-## Fusion firm Type One in $200 million Siemens Energy-backed raise - Euronext Markets: Real-time Stock Market Data | live
-
-- **URL:** https://news.google.com/rss/articles/CBMipwFBVV95cUxPTWVDZE5zbW42ZHdFTFdJWC12R3M3OENxRUtYNWhpRmxFYzREazdndm9kV195Mll6QzNpSjlDbXVQTGpHRGF1M2loa3FxNkl4M0NJMy01cS0zMk9pYlotTkVBX1pqTWlzZjlzcXdNamR3bUMxcTlQOXVGUmtUZ2JHcFJTcFlzMnBsWXU5Y2YydlhZVmJBVkNzRGd2YU93WTNlMFpzRkhmNA?oc=5
-- **Source:** Euronext Markets: Real-time Stock Market Data | live
-- **Published:** 2026-10-06T11:10:12+00:00
-
-## Xcimer wins extra $30.5M DOE grant to advance laser fusion - Dealroom
-
-- **URL:** https://news.google.com/rss/articles/CBMilgFBVV95cUxOXy04VWJaa2Y1LW1SOU5sMmZUb3dIblF2Z3NTUVRCOWZkOUYyQkRTUk1Bb1lmYVFGZm10enR2bHlYcnhEQVBPUWRld1VIZjdkQ3NnamFTb3dobW5wNDBkblFPQzRRcVRfOFVrRHFKOHc3SXJZVGVlcWZfU0I3SmlPdFAzNUpYdm9LOEpXS203bGc2SFJqLXc?oc=5
-- **Source:** Dealroom
-- **Published:** 2026-10-06T10:43:53+00:00
-
-## A fusion machine 12.7 feet across slammed hydrogen into boron more than 100 million times a second, burning a fuel you can trace to the laundry aisle as borax, and the reaction threw out three helium nuclei instead of the neutrons that batter a reactor's walls - Autonocion.com
-
-- **URL:** https://news.google.com/rss/articles/CBMidEFVX3lxTE1QcTJ0ei1yRXVEWW1aMjNTZUhsaEhlbTY0WlJXYmdjbmZSZ0xzenp1akJQeV9NSWhuQnYybUh2RkVobWJQV0pBb091bm0xV1VGbkVyOHgzaUxVOEVkNjBLZnBXUEN0dFJxNzhRcHgxQTZhQTFS?oc=5
-- **Source:** Autonocion.com
-- **Published:** 2026-10-06T10:30:33+00:00
-
-## STEP Fusion reveals new next-gen power plant design - Engineer Live
-
-- **URL:** https://news.google.com/rss/articles/CBMigwFBVV95cUxPLUJ3ejlza2wzMFZsVnQyOUFScUtoOW1PMXlRZVZNbWdEOGRWcW0yaFNuZG9xZGxPYXJMVF9ZUWFadUJiY1NPem9EWHNpUjduWmUzMVRCeXFCZVFPNFhXN3ZWOUZRX1dtZVFwRWV4VGVKSmN2Q0N4d25UTWhMTnN3Yjg5TQ?oc=5
-- **Source:** Engineer Live
-- **Published:** 2026-10-06T10:19:14+00:00
-
-## Xcimer Energy Receives Additional $30.5 Million Award from DOE Milestone Program - Business Wire
-
-- **URL:** https://news.google.com/rss/articles/CBMi1gFBVV95cUxPOFhyV2h0T3l4blZBbDRnalo3Q2tCckN3TmZ6aVljZFNsTVhNMGJ0eWlBRXY0WjZTOHVlQS1aX0p0bzRGUU56SUJ4SFpGaGxOVGtTc25VNjY3aU44Z1pJaDZxUTZJMGI1NUNmR01VdXNvT3VzUnI5RkdEOEQzZnlqLTdNNmpvOWtqMTF3T2s3RF9xM2lxRldRTkYzY3FzS1FzRzZBQnFrUTdjRmFZZndyMXh3WXNJZW9reWR3c2tnRDRqXy04SE1fUURadWM3ZExCQ3BRT0dR?oc=5
-- **Source:** Business Wire
-- **Published:** 2026-10-06T10:00:00+00:00
-
-## Perfecting nuclear fusion, and other ways to pull Hannah Fry - thedailymash.co.uk
-
-- **URL:** https://news.google.com/rss/articles/CBMiyAFBVV95cUxQWnY1VlhYcVVwaXcteWY3SEhEc0pHVTh1czZhR2lvU1o4Z0ZPdjRmeTZCQlh2Z0NDeWZfYTY2RDBNUFkxTG9rUjJMemQtUlM4RXBvM1ZZcFMyRmprZXFudURPcjhtS2V4SnVpaGFzSmQ2Y0twUDlfb19fMGVtNjd6dzBadWlUcHhFU0tncXBaZzVFTlloY01nb0Y4bVlRenlrOHE3TFBpQ0JqTnkxYUl2RVJ1RHBoaE1KQUtUZjVodlZvRWZTbC1ycw?oc=5
-- **Source:** thedailymash.co.uk
-- **Published:** 2026-10-06T09:01:58+00:00
-
-## Nuclear power: Mimit and Mase kick off the race for companies to apply for IPCEI funding: proposals due by 3 December - Il Sole 24 ORE
-
-- **URL:** https://news.google.com/rss/articles/CBMi3gFBVV95cUxPbjdtR0dFaGdsc2lUclYtLTJQTlluNFh4eHlQTUZZWTBxZUtsMEJ1a2pkZGF4dHJIcFJfRFBxV0kyNUpUb19VUmRKcWdpMmFfSzNUTkdTX1lXb1VWQlFuVHQ5YUQ1UFFjWFZwdTZfT1hpbnpIS1hqbldsZTRLVURjNFY3TkRMdVVJQl9heU9IYkNtZGxWVFhNVEZ2XzhhT3JqNXdVX1VYdUtNOFQxUzN0eXoxdkt2MnRNOXA3M1dXOWlnM2dTRENFTENUTXZWamJvVi1rQUNxc2NNajVMYlE?oc=5
-- **Source:** Il Sole 24 ORE
-- **Published:** 2026-10-06T08:32:32+00:00
-
-## Nuclear Power Summit Board assessing options to pay for conference - WisBusiness
-
-- **URL:** https://news.google.com/rss/articles/CBMiogFBVV95cUxOVVctMjIyWk9jRGNQS3p0OWVoSExUVFg4RTcwOXZVQldEb1BSWHZNa2M5cnJpUEJNV0I3SFZzdGJMYnh1bWd4Q1BycDE2MEhNejV3SDJMcEE3VVJWWTBlVi1idDRXUmxlS3d1MUdHekRhekR0d1hZeVhobGZLQWNaUklXb2NBZG83WXBFdmlWcmJVbmg2OEhlejNpei16X0xGYnc?oc=5
-- **Source:** WisBusiness
-- **Published:** 2026-10-06T06:00:00+00:00
-
-## STEP Fusion strengthens senior team as Nottinghamshire project moves forward - TheBusinessDesk.com
-
-- **URL:** https://news.google.com/rss/articles/CBMizwFBVV95cUxQMF81UnBxdHJkaFg5TURsVXBmSDVPZjNvX0hvWkFEVlgzalFRdUZPWlozRHpSS19ueXkxUkQ4MkFoZ2tSYlVjUzR6TlI2cWgweDFqeEFjNEhaS1NiT3dYVEtfbFpxY3JTMDhZeDkyaDlwLWhZUGFleU5fYkdNRUZXRC1IRFlfMnFhajhzRnhwVDBaVVk4MWV4YTdvaXdVTDNEZ21hdUZxTW43LUZ2M3VUVEVOeU05dk1pLWpTOXZKN3pxTDRSRmw4cTJ0dlh0MEU?oc=5
-- **Source:** TheBusinessDesk.com
-- **Published:** 2026-10-06T05:44:26+00:00
-
-## Boost Platform Incubator Facilitates Rapid Public-Private Nuclear Technology Transfer - AZoM
-
-- **URL:** https://news.google.com/rss/articles/CBMiVkFVX3lxTE9mX3ZyVk95aVFyZXlVNzYwcHo2ajJrcUFTWlJvM2dZRmNfa3hOWEdnb0NTNFdwQTBpdm43V3ByOGFZamlIUFRSdWx6alpDMTBjazZYM2t3?oc=5
-- **Source:** AZoM
-- **Published:** 2026-10-06T04:50:00+00:00
-
-## Malaysia identifies five critical technologies for national sovereignty - Newswav
-
-- **URL:** https://news.google.com/rss/articles/CBMisgFBVV95cUxPSzNFd2MyWUxldTc4TjkxWGVWZDBoNElEdEp1dEhSM0JNaGdxeE4zdmJrMWN2WkpuOWhFa2dzUUdJOHA0YmhKcWxaQlplaHhqMlVseU14SThqOU9YZUxrampnbU11QTlIeGtTWjMtX3NjQnJxQVlsN1VBbjgwM3RGQWVvM2dQc3Y1VG9DdUdRYjJnUU5wQm1INjQ5ZmtyWHZVZU90YmFITXZZTkpPOVMtMzBB?oc=5
-- **Source:** Newswav
-- **Published:** 2026-10-06T02:30:35+00:00
-
-## Mosti: Five technology drivers identified as critical to Malaysia's sovereignty - The Edge Malaysia
-
-- **URL:** https://news.google.com/rss/articles/CBMiU0FVX3lxTE53M0Zlc0pCZERRb0twVzlvTkR1SnZ6VXF3anB6aVNXSy1rSXdYdmNUNW04dHl5YnFMTWdEaFRQNkZYNXdVc0pBdk1VZUZvXzZKNUdB?oc=5
-- **Source:** The Edge Malaysia
-- **Published:** 2026-10-06T02:21:05+00:00
-
-## CNA938 Rewind - Singapore hosting FusionX: APAC 2026, our growing role as a coordinator in the sector #SGToday - CNA
-
-- **URL:** https://news.google.com/rss/articles/CBMi2wFBVV95cUxQdzlKdHpxZkoycm1LdWdZMFJxVXc3ZnhPRU9QeXB1U19ZM2VPVHJxQ1UyUnRYblQ5SElfRWZRck5Hc0g0V05HZVRKRl84bW9Ga010ckJ5S2t4N0h3NDh3Y3ZRaVp3UzE1RWk4TXhQd1R1dE9uSW1tR21GdlNxSmQ4WFFFSTJULVd0eWFnQUtWSGJBMFVXbVhsT2N4U3MwQm1ueUtsS250WVZTZ1dYeU5oRVlmNDIxMWpYMXh2ZWN1ZVFGS0cya21VODBNNDExdktIZXE2LXdJeU9jLUk?oc=5
-- **Source:** CNA
-- **Published:** 2026-10-05T23:31:30+00:00
-
-## Venture Investments In Deep-Tech And Physical AI – Seed To Exit - forbes.com
-
-- **URL:** https://news.google.com/rss/articles/CBMiugFBVV95cUxNR0R6dmhoal9OSzJJZHhtSzk0T1RQc0dtbVRTTjR3Z0pITzhBVE9yWm5hUkZlVWYxbWZzcVVlM1RYQmhQODk5ZUdOR0p0Y19OMWdyekhhTzF0MU9wLTlJZTVWVFBOMjk5ZkxzWlljU3J5X3drRS1VZmwxYUVkSDR1aHVjeHlVN0Rmd1pYNWxPMEotNjB6RFdVZklSdEdFeEpwcG04YUg2OE1Tek1MbXdLWHExbnlHdUFsenc?oc=5
-- **Source:** forbes.com
-- **Published:** 2026-10-05T23:15:16+00:00
-
-## Trump Media (NYSE: DJT) Files S-4 With SEC As TAE Fusion Merger Moves Toward Reality - foreignpolicyjournal.com
-
-- **URL:** https://news.google.com/rss/articles/CBMiygFBVV95cUxOOWI4dDVGblJqY3NXa3U5SWUxN2ZRTGNvMThIS1dXc2szM2xjcWl6RllaMlBrN3NNX29iQzBTRHd4MHNHd0g1RDdzQnQ0aXNFVHloNHRucVdLSmdKWnpQSGt6WmY5em1KVnFUUkNDMDJCYmdvVWZfejFTelVHb0t2R1lPR2RhaDBrYnlDU3hiZzFzTW9CYksxRExlTVVlUjFUSUE2OHV3WG1oS2hWN0l6TWs5U1hrQi1WMklkUm82S0RHZlJyNUdvVU1R?oc=5
-- **Source:** foreignpolicyjournal.com
-- **Published:** 2026-10-05T22:29:00+00:00

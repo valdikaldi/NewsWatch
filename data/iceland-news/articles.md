@@ -1,8 +1,164 @@
 # NewsWatch — Iceland News
 
-_Last updated: 2026-10-07T10:53:23.986538+00:00 · 50 articles_
+_Last updated: 2026-10-07T18:33:18.983319+00:00 · 50 articles_
 
 ---
+
+## With Iceland a trending destination, this is how to beat the crowds - AFR
+
+- **URL:** https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZjdmYnJjZU5ROWFjcTR5UE9kNUhmcXNJcE50WVhBODQ2QlE0RGZEZ3FCWDFBal9hbTdRN3V0UlllRURrRXJFQzJ2Q2p3YzVXeUZhalN3SVp3b3dCRFJMU1ZyeVFsUjNNVE9SeGM1RnRjc2tjdnVLU2stb3VfaVZWYXE5ZXRVYktBbmdJNkxSeEFtNU5xZG85OXZ5Nk1IUHRlSVhub3YtcTBUb2hvbEs3LWotTldfUzVqellhTW05dm54bkU?oc=5
+- **Source:** AFR
+- **Published:** 2026-10-07T18:00:00+00:00
+
+## Your guide to Arctic Circle 2026, sorted by what kind of nerd you are - Arctic Today
+
+- **URL:** https://news.google.com/rss/articles/CBMingFBVV95cUxPTWJMWlQ4ams5MGZUd0VKMk5rZG9mSjlRSEo5VV9waXZFbkxUbnV3ckUtdjh1Rml4SV9semVJRG1SSDhtTDQ3MVlaU2wzV0t5LUFYZTR4TkpEUXp0Wm1KSjQ3WkF3bmI0eUZUODNiYTFLdFhOemhzUFNCTnNvbG44NmVDdVRwOE9uNkFNUzhwWUNkcG41ZmtmQVhTZXA0Zw?oc=5
+- **Source:** Arctic Today
+- **Published:** 2026-10-07T17:47:37+00:00
+
+## Death Stranding movie moves closer to filming: Michael Sarnoski scouts Iceland - Softonic
+
+- **URL:** https://news.google.com/rss/articles/CBMirwFBVV95cUxOTjN6STdZVVR5YWxucmszUGRUSkJpN0VGc0lpSXE4ckJwU0dUZnJtUUtUMEVrZHh3MmdKek5JY2d6cXhXdVB6UG5EWDZCUjFmcmFhbEZ0d1FBYjI2XzlpYUk1ZHFsNXdVUWg5NS1HYjRTbU9nR2drZ2dHbEQ1Q2FkSmc5LXNHTmQ4cTBRSHdIdVl0TDV1T0NDSVBHSEFnMm5oLW9IODlrSUtXc1d4S2VB?oc=5
+- **Source:** Softonic
+- **Published:** 2026-10-07T17:37:30+00:00
+
+## Death Stranding Movie Director Posts Photos of Location Scouting in Iceland - GamingBolt
+
+- **URL:** https://news.google.com/rss/articles/CBMinwFBVV95cUxQdGlXMkNYRWUzSWJHekhobjhkNERIWlJESnNKb1Y5LW5LcFVtckl6QnppaTlJUURXd2k1QXhBc18yTVFNTnBfMU4zdjZidTRSekl3amR3cHRtdkNUYkwyazZnMDM0OFgybWllTmFoN2ZBQi1TQlY4RG1Eb21XT3JtM19MVGVBSjc4SHBXaElRcXZnelRFandYQnlwTW1HWHc?oc=5
+- **Source:** GamingBolt
+- **Published:** 2026-10-07T15:38:41+00:00
+
+## Direct flights from St. Louis to Iceland coming next year - FOX 2
+
+- **URL:** https://news.google.com/rss/articles/CBMilgFBVV95cUxQcTZnSHhYUXJkQWNqRHdFSUJSYVBwcTdTREdRM0x2UUQ4STkxdVVPY1d3VzVQMF9UenNLWTNZUUgzSUhfMjBWUUhrRkVhZDFvSS1ELXRWZmVYZnF1TE1sYVByTkJQRnMxcmpjMk4wMzBUV1Z6ektobllMRHlvNGRRS1p3T3JiUW1YOGM2RHluc2FHekJWLWfSAZsBQVVfeXFMTkFidmo2VV9rc0pXTEJZYjFjZVI1ajRXeDVTVGxNUnlhMnFWTWo5dXNhZjIwbFdrbGk4Vy1PT28zanBOSGdOWmdYb0lXdUtBZjFITXJKR2Fkc2VMSkd5TURBZXl4aFM2N1lxdE53MkxPQWlhalVqdGxtd0xkU1lES2sxajlQUlc0THh4TWVDNHYyOHAxTzBGNlNiVlU?oc=5
+- **Source:** FOX 2
+- **Published:** 2026-10-07T15:11:26+00:00
+
+## Iceland Keeps Key Rate at 8% as Economy Shows Signs of Cooling - Bloomberg.com
+
+- **URL:** https://news.google.com/rss/articles/CBMisgFBVV95cUxPOXpqa0ZZQnVibjFrel93TEV3NVk5YVB5VF9yQXhDYjlSaUpBTmhjYWJZSGd0bWJuVmlnM3VEUFFNQnFGOWFOcUtuaHA5WDIxWXdUVW15TU5FQWxXVW5wc005bE5EWkppWDVJZnR0cTI0ai1IQUYxRDF5RGxqNlJOVHQza3FVS0tva09FdkhPWXRNR3VRUW9GaG9FZ0pKbklsZExvS1R1dXlIV09YS0g2dDBR?oc=5
+- **Source:** Bloomberg.com
+- **Published:** 2026-10-07T15:06:09+00:00
+
+## Animal Rescuers Turn Iceland Vacation Into A Baby Puffin Rescue - The Dodo
+
+- **URL:** https://news.google.com/rss/articles/CBMimgFBVV95cUxNZEx2LURGQ09SZnNzMXlqbEhKaEpQbHNJTjIybFJ2b2htSGVfcnh6SFFPczVjdTNSS3lfU3dLN3EydzhhZU9JS2ktdl9XY2hlWXcwb1JNS1dZLVNTM1NobUVCcDhTdVI3U1JJTnkwSkpXbW5TX2F3WmZ1bVhzLTJQSG9UNjV0T1NXdjBJUURHZDZzOVhiSjFmYWZ3?oc=5
+- **Source:** The Dodo
+- **Published:** 2026-10-07T14:39:18+00:00
+
+## Animal Rescuers Turn Iceland Vacation Into A Rescue - Yahoo
+
+- **URL:** https://news.google.com/rss/articles/CBMilgFBVV95cUxNb2h3Y1BqekxDOHlsV2NGSldHbHVpamdTMUpBYUhlOFlkRmdTU0JKcUszTExkaVVYS24wYjNhT2dZZWE2OVlxQlFvaEpMbnVMQ21vMG4tNXBkQzRxekxVdmROSVYyLUZ5R1lNSmRJU1Y5TnBndkp6NVpJeEtIWnRFSFdacEN0V1JmbWtLQnhNc0g1WjR0Wnc?oc=5
+- **Source:** Yahoo
+- **Published:** 2026-10-07T14:33:40+00:00
+
+## St. Louis lands another nonstop flight to Europe with Icelandair service starting in 2027 - STLPR
+
+- **URL:** https://news.google.com/rss/articles/CBMilwFBVV95cUxPM200V0M1Mm53Y1FZaF9hSjRLc1NncDZ4TFVZS3B2X25UUUZCbzR2WV81TFZfWUxsbE9icGNHMmNTb1BVaGxfbm1YaEJTSUFldVJ3WkdEVEluRnNuQ1BKTC02UzROMmdkVEJkRTlFMlBSQzJKVmRMZW1pZ2VaR3RueGJNQzM0TGw1VEhCWVppeFp5dmQ0UFRB?oc=5
+- **Source:** STLPR
+- **Published:** 2026-10-07T14:27:00+00:00
+
+## Lambert to again get flights to Iceland - The Business Journals
+
+- **URL:** https://news.google.com/rss/articles/CBMinAFBVV95cUxPMTZUbmJaTzF5WkNhUkVxcW54akt6OUhJUkJvTDRGUTVnLWRldXVuSnBEbHdGVHk4MlhBVVhJTjhmdElMWGZnWGk2UjROdUptcnhMdzU3RjFkSkZIZTBRNGpmanBJZHZlM2szekdlZ3ZRMVI2MjVhZU5kSXBEbnB5RV9IMS1fX2xkZjBHazg1R3VYaW9VNm1DYm9vNTU?oc=5
+- **Source:** The Business Journals
+- **Published:** 2026-10-07T14:17:00+00:00
+
+## St. Louis lands direct flights to Iceland again - STLtoday.com
+
+- **URL:** https://news.google.com/rss/articles/CBMilgFBVV95cUxQVm4zcXpIQV9BNHgyYlBnWHQ0YzRxR29pMVpxZnY0TUp5UGxEd3RoNTZlZFBmNWNqN0pzcnUwUXhZVXVLYXhMN01Uc2piWUJiWG5NcndaUVl2X3NzV3lqZ0d0Nm4zbkRGR3RxdEVxekRYdXNBQ0pETmk1dXBPRmZYWUlqaHlQcDNIclhoY3gtT0U1d045NVE?oc=5
+- **Source:** STLtoday.com
+- **Published:** 2026-10-07T14:15:00+00:00
+
+## Rubio woos NATO member Iceland after Greenland deal - Big News Network.com
+
+- **URL:** https://news.google.com/rss/articles/CBMingFBVV95cUxPUnNlTGUyc1RkdjJrMXl5N1ZmM296RnBvd1lRaEZVQWtERG9vNVpzUi03TzlTVGFaSVp6RGZiTGVrN3M0NmM2NmJkMUJpUEthRTFQMzAyVUplUHlNSlp5ZWRCNU9veUZkRFVCRWVYRzh6X0FUUHNnZVQ3cS1TSFItb043UUZIVlRiVERiS0ZxYTBDTzFZT0tRaHdySVUyQQ?oc=5
+- **Source:** Big News Network.com
+- **Published:** 2026-10-07T14:10:00+00:00
+
+## Agency Finds Little Prospect of Recoverable Oil in Drekasvæði - Iceland Review
+
+- **URL:** https://news.google.com/rss/articles/CBMifkFVX3lxTE1sUHdnQnJmdm9ZRTFqaWgzOHE4RkY4NGpPS0EzRkxEVVVta0M5dUxsRWN0RUVkbEh1Q3MxaDlFOW9EalROcHJjX1NHQnV4amEwcnAtak93bUJUTnRGdk53TXdaS01ET0N3MUp4Z3FqT3JMNFFvZWJGM080R2FpQQ?oc=5
+- **Source:** Iceland Review
+- **Published:** 2026-10-07T14:00:37+00:00
+
+## Direct flights to Iceland coming to St. Louis' Lambert Airport starting in May - KSDK
+
+- **URL:** https://news.google.com/rss/articles/CBMi3wFBVV95cUxOU3dSSG5XQ0NlaENOYlkzc0M2Ykc1MHo2bklBQU1hZnZIRktDcG1WaXY1YnotcWZnX0NRREQxMWVlQTNfNmdWeDRHRmxOcHJrT3JQek01dG5xOFFNTVV4dUtFVWZZOThUOGJ6ZFdHcE5oNlVJVEJhRUhvVVljczhoVkJyeVpxVklnN1hoYjBwQzlwc1lrQ01SQXdES1VOcFlVOW5tb3hMUWdoSXZtUDlGOXRyTVlaT1Ezd0FVLThFajVEN011bGhkY01tVkxjdnlwUHJVemw0Nm1RQmtBZm5B?oc=5
+- **Source:** KSDK
+- **Published:** 2026-10-07T13:55:00+00:00
+
+## Skytree lands €1 million loan to build first Iceland carbon-capture hub - Dealroom
+
+- **URL:** https://news.google.com/rss/articles/CBMipwFBVV95cUxNZjBYMmNHVFVEQ1ZBS1B1N1VHaXhCcjZBTFZvTU9JUndkUGNWbDR2X1pwNEMzN01kUjBObDRjT0xuTWd2SVlXRDBLazl0VE5aZDJMV2E3WFZPWE9kN2ZpMUdobGVHSVJpTGl4cmZQMTZJOTVFNjVtSk9EeHpUUmd0TlBMWHdtcVNxaU1BWThLUFRyU2JwU0xIVDYyREotMm4ySElxZk93aw?oc=5
+- **Source:** Dealroom
+- **Published:** 2026-10-07T13:52:37+00:00
+
+## Nevis premier meets with Iceland drilling, COWI on geothermal - St Vincent Times
+
+- **URL:** https://news.google.com/rss/articles/CBMilwFBVV95cUxPOWQzU1F3bEo3SFZaSExYR1FZOVA0THpKMmE2X2hmR1N5ZVdRSnRuUzl0RUVZZmpDa0pYYXlLd1lYMndtWVBWd0F0QWluNnZ0UmNpa0VCb0VYXzFNdnVxMGFPQ09kRTlhY2N5R2FmcTgxeHNjSm0zRlpjX0tTU3J4aVdhUzI0LVFjTjV4WHNCbXUzdWE0TUVV?oc=5
+- **Source:** St Vincent Times
+- **Published:** 2026-10-07T13:47:02+00:00
+
+## Free trade agreement era may be over: Rubio - Social News XYZ
+
+- **URL:** https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQXhZZGdZUS1sTDBTWDR0OUtQTGVicHJyZkk3a1BpRUxLS3JTZjdJZVV3ZmFvLWtzM0hyS0FHWXpqUlBsdWpSZ09HeVY5U0ZTRlAzSHcyVWxETG5udVVtbnBYX2R1aS1iMXRjZlVxd1djQnVFRldUYzl1R3l2RGN5LWplMkpzTUww?oc=5
+- **Source:** Social News XYZ
+- **Published:** 2026-10-07T13:35:56+00:00
+
+## Interest rates held at 8.00% - RÚV.is
+
+- **URL:** https://news.google.com/rss/articles/CBMie0FVX3lxTFAzaDNEZ3NERkpNMjNrQ045dHNyX3IxR0R4RGdBamd3VUxyU1FuTndGNnNCUUVHenhzOFhseDExcmt3WWxtOERkb0lTRlI3cGZ5TDhXVFQybldVaEZ1TmpNV2FEUVQtaFFhQkZ4NnpJblRGdFI3aEMwamE0Yw?oc=5
+- **Source:** RÚV.is
+- **Published:** 2026-10-07T13:25:00+00:00
+
+## Arctic Circle Assembly 2026 Opens Tomorrow in Reykjavík - Arctic Portal
+
+- **URL:** https://news.google.com/rss/articles/CBMiowFBVV95cUxPcl9NalpKV2dzU0QzelByYVUtWWFXbWZUWVNlSFlKMkVzLWpTMVltN1RHU2c4UUNTS2FaXzdCVmZ6emh0V01XN3N0cmF2RGV3YkVTeEIzblQ2TFdRSW90QVpad3YzTTR4SUhaUlhPMFRCc25INXdBMmw1QWlZLS12NjduSlJyM2syc3dNdVI2MnhpWTMtTXZTZzFkVnJQNWJoeUVJ?oc=5
+- **Source:** Arctic Portal
+- **Published:** 2026-10-07T13:13:07+00:00
+
+## Icelandair launching nonstop St. Louis to Iceland flights in May 2027 - KMOV
+
+- **URL:** https://news.google.com/rss/articles/CBMipAFBVV95cUxOa3B4WFNlZTU3akE3SXB0c0xaYzNLc0x5blIyLTB0RWFZdkRIVFY3RDFCYkpGU3lNUkRRV0NDRUhRemNtWmdQb2owRkNERjF4NVMzdFQxUVhZN1RlRXpCb2diMWNNYmtTMjZ2OWV0dy1SN3owNFBkbUpPVUN5UElka19Pc3RJdFNtOTR5OEU2eWVTa25KZWtlaFg0X1VHdWp4WVQxaA?oc=5
+- **Source:** KMOV
+- **Published:** 2026-10-07T13:03:00+00:00
+
+## Icelandair launching nonstop St. Louis to Iceland flights in May 2027 - KFVS12
+
+- **URL:** https://news.google.com/rss/articles/CBMingFBVV95cUxQcHZRS0hoUVhQOUtualFOZGcxdHo3Z2JDSlJQZ0hBM1MzMnhYNVhXS3RYRDc5d25FQ3BHZS14RnZkY3hNQVNoRGJHZjZLLVpuUTlmeXdXeGVJMlhCbGN0XzJqOUxKMjdRZURFVjBXblozTXp6V2NIR28zdzJSbEM1dVJfZXAtMUF0bTFYZktZa1BDOVJLYVZ2eWgwUWRFQQ?oc=5
+- **Source:** KFVS12
+- **Published:** 2026-10-07T13:03:00+00:00
+
+## Rubio Visits Höfði as Reykjavík Marks 40 Years Since Cold War Summit - Iceland Review
+
+- **URL:** https://news.google.com/rss/articles/CBMifkFVX3lxTFBsOXowWWZ4Vk9TQmpQRVhNX0wydWxLSERlX1FKME4tN3R2QWJXRUhuTlNsdGNBQUQ3ZFViNERtTExkaGNnLWVzTTRQd2ZKa1BOSWNxWEQ1VFBGX1hzdUdvMnZwQzU0Y2xwLWtfQnlXMmJOalYxcGt6WDg2WExaZw?oc=5
+- **Source:** Iceland Review
+- **Published:** 2026-10-07T12:40:19+00:00
+
+## Icelandair Reports Record September Load Factor in 2026 - Iceland Review
+
+- **URL:** https://news.google.com/rss/articles/CBMijAFBVV95cUxQTjZ2Ql9Va0lkOUdocWM2ME82VGo4Y0FuNGlVdndoQWVPTV9yRjM5YVcydmtGNmFMZGJhd1QxRWgzVWZ2Z0NBdTF5VXlpckZwY0lFSXQyLTViVEVjYXhJNThjT3RfZmtuSm9JOUlkd01HaGtVRXdqcDF2aFU0cG9MY1NkaFhrZU02STBVNA?oc=5
+- **Source:** Iceland Review
+- **Published:** 2026-10-07T12:30:11+00:00
+
+## Skytree To Develop Its First Skypark In Iceland With New $1.1M Loan From Invest International - Carbon Herald
+
+- **URL:** https://news.google.com/rss/articles/CBMiugFBVV95cUxNdGUxTDc4bmVfbXdCUTFhWVJNUV80WV85Y0x2TFpCNldaaFBqbFBKUUwydUE2V1ROSUY4RllVdTYxM3EtR0FwSFZaZVJuYWJCSGc4VFlGdlQ3UHN4cGsxaW90VjBMbEFjbGlIZWJKR3gxWEpXSDkyS2VhV0pjWXN1b09KdFZQa2FTUUFWcUQ4dmJxTTg5Y1NlQ0lrT1hzMjlHSkI4aHZ0b0ZfbUJNNXNzV1k3cU02YU1sUGc?oc=5
+- **Source:** Carbon Herald
+- **Published:** 2026-10-07T12:24:07+00:00
+
+## Syn parent company Asar holds 5% of shares after buyback - Telecompaper
+
+- **URL:** https://news.google.com/rss/articles/CBMinwFBVV95cUxPeUhYZWZ3OS1uX0dyQlR6aFROMGRsMlJ4SUd2cGpWcGRxdmpDRDZTUnVKZDdZemJfLTByZFc5OVhSbmdyVEdrVGh3Ymk4SWNUSUF3VmJ5cWdWVTdYUU55XzFadF9SY3EtMUxqRWtVVFdqTnZqTDY4MU9lVk0tLUxDcTZZczV0dnowN2F6NzVFaGJfWDhGQmRQQjlDaWZDdDg?oc=5
+- **Source:** Telecompaper
+- **Published:** 2026-10-07T12:11:03+00:00
+
+## Sexual-Offence Reports Rise 21% in First Half of 2026 - Iceland Review
+
+- **URL:** https://news.google.com/rss/articles/CBMiigFBVV95cUxPeDFrVVc1UXdGck9oX0p4emZpLUZwMGNNX2Y5c2JKcHd1UnpHX0VkQl9OZmtNejdOQ24zaWtBa1E3WXBWaVR4ckRiR3lLcDhlTWswQnFnVTBCb01RMmlIeHE5QjlMa0FnSkREazg4UjBURFpJVjhabmtjaE5veGc0WEZjUmpHQm5ORlE?oc=5
+- **Source:** Iceland Review
+- **Published:** 2026-10-07T11:30:11+00:00
 
 ## Major Unions Extend Wage Agreements Through 2027 - Iceland Review
 
@@ -147,159 +303,3 @@ _Last updated: 2026-10-07T10:53:23.986538+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMiY0FVX3lxTFBBbHR3YjZzQjFqLUFBN1RDVkRNNWJkblY1bHFwcUp2OHV3WnpBNHNNUUFHMGVyanJleklBM0VROXBScFRCY3lzeEFSaGtoV3lzTmp2TkYyUU1hUm1ZNE1KWk92NA?oc=5
 - **Source:** BBC
 - **Published:** 2026-10-06T21:56:15+00:00
-
-## Iceland loves abortion/gender - Pregnancy Help News
-
-- **URL:** https://news.google.com/rss/articles/CBMia0FVX3lxTE0tQmMwelBNWlhsQ1RqaTlhNGZvMDBEOEp2LUQzMEJ2NWc2eEp5UkNDRU01cWs1QWNxWnlTcU5VLXBlRzlaQmpMNnFRVDN6Sk42UEx4ZkFtNmQ0b3JfTm5zc3ZpVmI1azdjQTg0?oc=5
-- **Source:** Pregnancy Help News
-- **Published:** 2026-10-06T21:12:32+00:00
-
-## Marco Rubio Humiliated By NATO Reporter Over Trump's Iceland ‘Takeover’ Post | On Cam - The Times of India
-
-- **URL:** https://news.google.com/rss/articles/CBMi8wFBVV95cUxNajNlMVU2a3hGd2hjaVhPdEMzNGNERWFxSEtram5lSmdCbDBlZVd5cTBLd0M4X0hESGFpeTZxNkJmRW84dTgzb1phSzBQRkxTdWxabDJYTElSTGV0NFhSRVJzTEZJeTFIZUVsYkt4RmgtS2s2U3U3SGdSMHJ3S0R2T0cwWVg1TlpsNWJyc3N3eHU2MnozdVRlYnFucnVta1V0WFZhaWhJdjRVbHJ1UnFHaGd6TkxjRDFIcU1BZzdJczNJV1F1T29oSUFOM3VDR0l2Y0d0YklwajRUNXdMai1kX1Y4dVIxekd0N3V4b0lvVjFoeWPSAfgBQVVfeXFMUDhtWlFGRU1xbjh6OVVVcmFtQ2p6SWdPTGxual9IVlVfTFhVanRrOGxMZURKUU45V092V09IWjg5dXk1elFuVVo1SFBWLTkwaTItZTVIelNWcTluRnpORGFKaGc0VUQ2d0JmekljeUR1QlF1U1dBNHk4cVJlRHVSTS03OUZ4YjlxU0NWdUFTRHZTNWRwOVg3eW5pVWdHeXM1TUd6Sl9wWm9XMXRuUTVPRndQY1BjV2VXLVZqOHZvUTVoZWNDeFNSaG00MlBwWDhYUFFHMEU0UjRhX1BDR2tCOTJnblNJMi1BWjIxMlg3UjVYa1BYWHRZOTI?oc=5
-- **Source:** The Times of India
-- **Published:** 2026-10-06T20:34:13+00:00
-
-## Australia is closing in on the world's highest rates. Only one country is in front - SBS
-
-- **URL:** https://news.google.com/rss/articles/CBMitgFBVV95cUxPQU5FdFNMVndlbVpXNEpRbS1nN3Vhc0szMlFISklNQUI5MEttTVk3SzJEN0FLR1J2R1d6bnlhVnBPcWdkRWUxUzRJME9BUEpZb0pyRzdleEw0d2pqeER4TkM1X0hRaVYzYzFmZzRoTFZCQmt2bXFoU0V6NDhzNURFRkt5MzRqaEF6WUk0eGxKT0FDc2tCZWhHVGRTSkk3OVdHVzA4bDJ1d3NHeWs4Z1FPNlJCLWEtdw?oc=5
-- **Source:** SBS
-- **Published:** 2026-10-06T20:30:41+00:00
-
-## Estonia vs Iceland: UEFA Nations League stats & head-to-head - BBC
-
-- **URL:** https://news.google.com/rss/articles/CBMiZkFVX3lxTFBZaDBhNFg5b1JkbjRyTlhiVS1JQmc3TGNfRXJYVnZkWnJjOVBXVjItMU4zMXdidFllaVVRSWNIUDFiY3MzMWJtaXJFWGRvYXkxZVAwMnRwM2psOXVDaGZFSnREYjZUQQ?oc=5
-- **Source:** BBC
-- **Published:** 2026-10-06T20:29:04+00:00
-
-## Amsterdam climate company gets €1 mil. gov’t investment for CO2 project in Iceland - NL Times
-
-- **URL:** https://news.google.com/rss/articles/CBMipwFBVV95cUxQRTdjRml3T2VKeWVsSFFoeEFjaldpTlBKTUlOQW0yb3VnVWY2dU9EY3pXRngtZVlJblJIR0p2NUJkY0NDaDRsaFlTTzljcVBuSjBDOUFBR2RHLXFfYzRnV1k4OGFFa0E2YTdoWF9mYjlhX1JkMGdENTJiNmRkZEZRMmdYZHJxaXJPYWpNSFMwUWpsLTFNSmtwRFl6R0FCcGVPd09KWEY1aw?oc=5
-- **Source:** NL Times
-- **Published:** 2026-10-06T20:00:00+00:00
-
-## US Eyes Expanded Arctic Military Footprint via Iceland - Yahoo
-
-- **URL:** https://news.google.com/rss/articles/CBMijwFBVV95cUxNR1hUZ2lGTWxXTkMzVTlhM25KUGVad01PX0ZpaGlQYktpUUVvX25WSVMwYVdpZDV3TlFwcXh0YVVFeDdEaVhyaFNKTHZQYXY2cHowcDdhUlhJd0lDd3RXX0E2Vk5DWm9kOXotc3JwS09ROHZ0WjRyZkRFZkpvN3lOMnZJRmFrSW9xUDM4bGo2NA?oc=5
-- **Source:** Yahoo
-- **Published:** 2026-10-06T19:56:22+00:00
-
-## US Expands Arctic Security Footprint to Iceland Following Greenland - news.sbs.co.kr
-
-- **URL:** https://news.google.com/rss/articles/CBMiZkFVX3lxTE5oN3Z6Z1JMeXNfZ3ExQy1PMEF0dHJjUjRzYU81ZDBVTGNBUzdIeWdPaml2aU5SUnc2SjdFTU03RkVjbWRUTi1CR3BZb09CMWhmU2gwNXdvOVBhSFozT04zaUtfRnlwdw?oc=5
-- **Source:** news.sbs.co.kr
-- **Published:** 2026-10-06T19:53:00+00:00
-
-## Estonia vs. Iceland (7 Oct, 2026) Live Score - ESPN Philippines
-
-- **URL:** https://news.google.com/rss/articles/CBMiY0FVX3lxTE90c1REdFRZOXJibndWYkRIcGQ1ZENoM2lpZlVTbFpnRWdRV1FRb1RvcnBBekQyc2M2LTNmMGJfVnZMTlZtbTVXeWtBM3NSOHNfaU9ZYTlkM01BQjA3NEZoV1pDTQ?oc=5
-- **Source:** ESPN Philippines
-- **Published:** 2026-10-06T19:29:58+00:00
-
-## Estonia vs. Iceland (Oct 6, 2026) Player Stats - ESPN
-
-- **URL:** https://news.google.com/rss/articles/CBMia0FVX3lxTE5Xc1dwRU9MX2Rvdld1WHZOU0ZHckRMSlFudFJBTmd4aVF5ZVV5ZVFFblE1c0wwQjRBNDhodW9taHA5OWN1eEgzWkVLUnF0QWtkTVhZamNWNjhrUlo5QUYxZ1hXYW1leTRVNFBV?oc=5
-- **Source:** ESPN
-- **Published:** 2026-10-06T19:05:16+00:00
-
-## Estonia vs. Iceland (6 Oct, 2026) Live Score - ESPN
-
-- **URL:** https://news.google.com/rss/articles/CBMiaEFVX3lxTE1oWmYyWWdEbWJnVjA5aE5DakdsQzVfeDcwRERlaW16TU9EMjRLX3hTSXdQdHhtV3drRW1DN0REUFhmakREdGRuSHZFYk9DLUpMMU44M1h2NEljaTJMWFgtTHJVVFh1QXZO?oc=5
-- **Source:** ESPN
-- **Published:** 2026-10-06T18:55:03+00:00
-
-## Rubio says U.S. wants to strengthen ties with Iceland - Modern Ghana
-
-- **URL:** https://news.google.com/rss/articles/CBMiX0FVX3lxTFBCS2E5MkFhNmhYbnhyUHpLUElXTWNIQjlQR0lVUENWdjFnWkZuRUJUeUZNRjh1WXp1c0V1RnlFNU5qNmx4a1h2QmcxMS1SWjBtOGdMV2l1T2hiZjVvZ0VV0gFcQVVfeXFMTlE3SENfWGZlNm1KOEItVUJPaElJY2xPU3VYQlZBMmkyUFpIbWhCaEJST0tCNEt1bmUzTktYbmN4VWdVcHJBZGt2Y1dLYmtHNWlGUzB0alpuVjVJUGQ?oc=5
-- **Source:** Modern Ghana
-- **Published:** 2026-10-06T18:46:25+00:00
-
-## Estonia vs Iceland live stream, TV channel and kick-off time | UEFA Nations League C - Goal.com
-
-- **URL:** https://news.google.com/rss/articles/CBMipgFBVV95cUxQT3NEbXNKZFU0ellmdXVfcHYwSGlBT0RQbm5LWURYdkFoYXppUUl1MzNXT0s5NllmZGhKa0QwMXE0a1Q5bDdSYmlYWm9ja1RDN2FDQndhdnRrdnZKcDhlNGl5dWNhOHdUUTVpM01LYWtCSy1tVXE1SVBOeFQtN21QZG5rZi15dFdUd3ZSRnB3ZGxFUkoyeUxJUXp3dXk4TFZheThZQVZB?oc=5
-- **Source:** Goal.com
-- **Published:** 2026-10-06T18:45:00+00:00
-
-## Iceland is 'critical outpost' for security, says Rubio during visit - AFP.com
-
-- **URL:** https://news.google.com/rss/articles/CBMiS0FVX3lxTE1FX1NiNEI4bTFTQVBaNG9IeTNBWkR0akdnY2RXVDJNSzlvSEpIZmxQM1FlcGpaQXl6WHhQT3JnUlpMeUplTFI1eW5ndw?oc=5
-- **Source:** AFP.com
-- **Published:** 2026-10-06T18:30:59+00:00
-
-## Solving the food waste problem through collaboration: Gander, Iceland, Olio & Retail Insight - IGD (Institute of Grocery Distribution)
-
-- **URL:** https://news.google.com/rss/articles/CBMivwFBVV95cUxQVzR1UWlqa0R1andLd2U5c2hHWGpUZmU1aXlGdzBreWtYVC02MHAycVZ3S1BhTmduaUhQYk9hdElSTEpZbkc5c1dCYmlneVRibFR0eEtCaC1SZ01USkhWc3VVZHJuZUtDeFpIcEt6WWxabDFfYmx5LUg0R04tUk1lWW5nRHBkTzBJcndIUDIyN0x0bHBaYzNpYWtMdmRIV2RadHFHVUtXNGdxc1dKQWFQQUZQejRwcUtDUTh0MXA0OA?oc=5
-- **Source:** IGD (Institute of Grocery Distribution)
-- **Published:** 2026-10-06T18:24:54+00:00
-
-## Strongly oppose planned police merger - Iceland Monitor
-
-- **URL:** https://news.google.com/rss/articles/CBMiqAFBVV95cUxQakQxSXd3VHE1a0ZrLTNfV0Z1NzJQUUU5Mm56WXhMdnl3TERmaWFETHprblAwcVh0elpSdjRPNVd0bmxXT1I4OHIyWXd1VXVqVEpYQTkzYlM2SlZQQTNaTmlCenQzWnRjLUkxS0phbWJIczZJbG5keWxBMVdickY5OWYtd0piNDJqZFhWMmJ5STNuZjNlU3lSSTk4dXltWHVNZ2dRSmlaajU?oc=5
-- **Source:** Iceland Monitor
-- **Published:** 2026-10-06T17:55:00+00:00
-
-## Rubio says U.S. wants to strengthen ties with Iceland - NBC News
-
-- **URL:** https://news.google.com/rss/articles/CBMipAFBVV95cUxNUG5BbkFQY0l3a3BITEVSeFM0dTlhcWxWS0VGMlZ2MlQ5S25SazhfRnl1TXZ2d3dHczNiRFVkOXk5MGczNlNSZ3BReUQ0UEMtaXhFd2VSdW1JOTlQRmlNdk82WThJT2JyU1BDa3MzNy1OejFvRjM0eEFhb2pWN1ZMODFhdmpPX2RDQXlMTEpaNF95bUphalBhVlFJZHNtaVd6NGNiVw?oc=5
-- **Source:** NBC News
-- **Published:** 2026-10-06T17:51:17+00:00
-
-## Exclusive: Iceland Eyes India Clean Energy Partnership - StratNews Global
-
-- **URL:** https://news.google.com/rss/articles/CBMingFBVV95cUxPNVBtVUJiUlFOa05NYTFsLTlYRzBmMDA2elJxNGRXS3Ewd2NaUTVBMTZwWi1GSXo2VVNpUXl2TUJPb2NaNmp2bjdGOGMybEdSQ0dWaXZrcDhScTBGMHhsRXVwa201dUVTaEstOU4wQ2d0RkZZelNBSG9TUWdIWWdQeF9DczgzX0RjTl9wYS1UR05NVThLLXpBdUg0MDlmUQ?oc=5
-- **Source:** StratNews Global
-- **Published:** 2026-10-06T17:23:01+00:00
-
-## U.S. Looks to Iceland as It Expands Military Footprint in Arctic - WSJ
-
-- **URL:** https://news.google.com/rss/articles/CBMinwFBVV95cUxOcTQxNGhRaFkxZ0JlZ19vZGpoZnpUUHhpLVNNVmd5UVJsX3FSYjZicmdUZnBGay1iZ2F5N2RXbVVIX015WTk3Y3p6TGU5V2FxOUNfbjJraS1yemlHT1FUNXg5bWdqOHVfTzRXUlo4cXkxUy1OaTlfMjM2UGpoX1VhZTJFSUI2eWNoSl9YTUZ6NEdrVHlDU3N6dmxFZ3ZGSnc?oc=5
-- **Source:** WSJ
-- **Published:** 2026-10-06T16:51:00+00:00
-
-## Inside Millie Bobby Brown, Jake Bongiovi's Iceland Trip After Welcoming Baby No. 2 - E! News
-
-- **URL:** https://news.google.com/rss/articles/CBMirgFBVV95cUxQc3dUQ1k2MmxTUTJRNWRITHhDUUdIak5YcDU3VXppZ1pqa0MxaVFfOGppZmhTMVNXa3ZqTlExZHRvVjlxZ2gyWEhrUUZJXzN4NkhHaXdlTzQtQzhBRkctSGVya0JOblF0QkJZTl9nMnZyY3ZUbC1ZbXlSSDZKSTVkczh4dTBTR1UtUUlQd2xXU2g0dEZvY3R5cjQ1ZHpucjdfdVZETHd4MjZUYVpZRkE?oc=5
-- **Source:** E! News
-- **Published:** 2026-10-06T16:51:00+00:00
-
-## Iceland ‘critical outpost’ for security, says US’ Rubio during visit - The Straits Times
-
-- **URL:** https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSURxU3FDV3FuVGpKNkJpMkttd21lNkdHRzMyblZnakd3VE9LSDl0NmM2UGZoZ1BUYm9EX3gtMktDamxPM1N5NzNwREtZa3BFQUlYbGVodnIyYmY4aVFIdEJYWjc5c2tZUEUxZTVqYTdLalRjbEY3YUVOcHpKTUk1b3kwd0pqQnJwenRiRUl2S2dCSEZmdHdtcVpxdmtSSTl3YjFhMzF0WVV4UQ?oc=5
-- **Source:** The Straits Times
-- **Published:** 2026-10-06T16:26:00+00:00
-
-## 'Threats growing…': Rubio calls Iceland ‘vital’ to Arctic security as US counters Russian influence - The Economic Times
-
-- **URL:** https://news.google.com/rss/articles/CBMihgJBVV95cUxNX3ZMSnpRTjEtRThfMFpxaG52Q21jRzVvUmVTUXRVQVozOVpTUkphQjBJMEdaRUQ5Q2RYVW13XzkxVHFrREdMaFJTRW05c09keG1XV3Y1MmMwdzg1TGRfVDg5dzdkNlYzTjVNUm1mNGFRcUNnLTQwR2gtSEhTTHo2dHZpV0VUSWR6Z1BsSG5pNDBIMy1Kdm9iUVJUT3hHMzZPZjBVWHFpdkhWQWNCdk9QYWdVa3YyNU11Wnk1N2JBb21kX1JMZThkVjRyMlRMT0kzS1JSanpXNGktWExxUkxpLWxRdlVqRnhGZEx0SVBQNnpuTmVqdnUwVmhnaGM3X2JBaTBsMGlB0gGLAkFVX3lxTE1ZT0pIVy03ajQ2TU1aZ0tpSkZ3a1U1b25lbmc2eXdneXVsYTA0eWpnN2w5MllPVWhvdXVWMlhmc0xQR0M3VHFYWXExVU5JUTlodkxIVnNkT2V5M0hEYnVBWGdZWTZQMllCcm9ra0tld2Y5eHRqR3UxSGFKSE9zdFl3R09JQko4elRFVmlKQ3ZLQ0lUbWlHZGVsaUhiWUFKSVB6Qkc1VHFtdVhHZ2ptcTR4bk9sRmhVTnppdGdGWjlyaE5ZTVVfc3dGYVVLa2tjc3U1STJrWFlCUDkwZFU0bU5weXBpVGdZaDlsZ1hBNm5LZmpoZGxNdDVtelpHMWd6OUNadkdoNEhSZ3R1WQ?oc=5
-- **Source:** The Economic Times
-- **Published:** 2026-10-06T15:37:43+00:00
-
-## Rubio says no US military buildup in Iceland without Reykjavík’s consent - Arctic Today
-
-- **URL:** https://news.google.com/rss/articles/CBMiogFBVV95cUxOaHlRNlJnWkxlNmRMdDVSY1dud3piWHd5Mm1JUy1QWEJ2Y1hZUWo0Y1RhQWhHRFJPZjdGYndWOWFFa0VkX1ZHVXppWGVsYXNldDlBT1l3M2l4MGh0NC1IWlFnMXcwVThjNlNKTDFrWmdkNHVva0hFeVdQZ2tQZTljbmFVR1VaaEZ3QVAtVi1PbUJNdFNqV1ZWNU9ZQW5kWGc4RXc?oc=5
-- **Source:** Arctic Today
-- **Published:** 2026-10-06T15:37:04+00:00
-
-## Iceland is a good friend of the United States,” Marco Rubio visiting Iceland after US -Denmark-Greenland deal - Arctic Portal
-
-- **URL:** https://news.google.com/rss/articles/CBMi5wFBVV95cUxNbXZDM1ZaYmt2UzMzaE53T0JhTFJmRDVfMnBZVDdnWjl6V0s0NjBTVGxpN09rVWZGWlVncFQ5ZHNXTnZWMG51b1J1bkRmQ3FUYUliWFZCTGk3dmNnOEo0QmdtMTExTm4tci1uMVFaYmVxTDdUZ1NKMHBjdHhqT1QxaFFPU3owQlh4Z0tKbURQaGQ1SHdIZ19LV2J5ZEdaSHpaS3ZxRmNwRGh3NGd3QjFSQWFqUG5OTWlEdXhFa2UzRGliM2lRQjlKSzl1dndySFcyTkxyNjdTek5va2J5SU9fY2xYb2pMVWs?oc=5
-- **Source:** Arctic Portal
-- **Published:** 2026-10-06T15:32:23+00:00
-
-## Flying to Europe? This Airline Perk Can Turn One Vacation Into Two - guampdn.com
-
-- **URL:** https://news.google.com/rss/articles/CBMi6AFBVV95cUxPcGg4Skh5Ui1TeUpJU3NZemszLUNGVERuaE5LU3JsWXR2VnpnLVR5aEhEYkt2ZWlaUTNQTl82cVZ2LWpCNWJuT1hUcnpkc2hkajVNNlFMS2szek1sejFPWmxHejN0VjlCaE9FNjJaQllXOTRla3g3bjRENUdra25YbUZhNGlQWFpReUJXQXRrOWFUZW1TSHY4c1V1cks4VVdnQWlNRU9zT0pMVlpjbGVPeG1sTlFaLTZVWWs0RFExZ3MtcEM4ZDlXcmtfZm9CbFdJdjMtRnMzV21OUHNLQ0VfSzFHMk1FTkxQ?oc=5
-- **Source:** guampdn.com
-- **Published:** 2026-10-06T15:00:00+00:00
-
-## APTOPIX US Iceland Rubio - Goshen News
-
-- **URL:** https://news.google.com/rss/articles/CBMiugFBVV95cUxOVjlpeDcwN0xxSVhDam5kS3VEOVkwQjlJaGc2V1dwNHo2VjlkaWs1WjJFSHJPdlBTMTJMYkp5SnVLbkgtUFIwODdFek1feWNpZHpQT3BDRHRFQkd0WjU1c2tCa2dET0xpX3JqVjFlZWRob0p4cGh1NDBubGE2NUY4Tzc0ZEpUZ1BFdGVQbFdlLWU2SEhPU3FOV3ZtQV9hVkhKVjB4a1F0Rm5XMDlkbXA5YXBfR1pmOFJDRHc?oc=5
-- **Source:** Goshen News
-- **Published:** 2026-10-06T14:59:21+00:00
-
-## APTOPIX US Iceland Rubio - Rutland Herald
-
-- **URL:** https://news.google.com/rss/articles/CBMitAFBVV95cUxQNUlGdEgyWllORmJKcGc4OGZ1eHoxSWVuV25fQ0tGWmFUbEM2c1lvY2tyN21pYS12dHNlZ29tY00ybTlBRVd1ZU9vTXk0ekJYZElSTmI1ejQyTVZrN3NudDduaFM2YzJLbmJSRVlmX2tCY2NLYnYyaG40a29zcG03eElOTVBZY1hLcmJoSTdpelBxb0RsTVJnZXdVSlZoYmxfcXlDb3dfaVpzU0t4MVB4Y0dQN0s?oc=5
-- **Source:** Rutland Herald
-- **Published:** 2026-10-06T14:56:32+00:00
