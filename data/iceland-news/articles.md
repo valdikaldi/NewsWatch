@@ -1,8 +1,116 @@
 # NewsWatch — Iceland News
 
-_Last updated: 2026-10-08T11:10:53.161713+00:00 · 50 articles_
+_Last updated: 2026-10-08T18:32:23.618303+00:00 · 50 articles_
 
 ---
+
+## Genre-defying Canadian poet Anne Carson wins 2026 Nobel Prize in Literature - Reuters
+
+- **URL:** https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbUx4U0FuVzFvSF82M1NoMW5JQ3AwNzVjaVBDRXdoNGxrRmg0NjgtZmZscTE4S1VCMUhoc0hOMHB0WFc2NENraU9iaF9ZUjZwNzNwSVFXWjNKc3NELV8wX2huMVlnV2lVYkdlRFJQQXZiTlBNYXNSSmxSNmhsZ3dqZmN3WGNZb1ZBczJfdktMT0ZyR3RwZGNuOGxXeHQ0WlJ1bU9OTGhXN01SUQ?oc=5
+- **Source:** Reuters
+- **Published:** 2026-10-08T15:48:43+00:00
+
+## Iceland Airwaves 2026 announces final lineup - Northern Transmissions
+
+- **URL:** https://news.google.com/rss/articles/CBMihgFBVV95cUxPR3JaOU5ZcHBrS1JScURZU1lGTjRhM3JvT1pkR0JqeTNHRkhON0NrdlpFcXNiMnFzTHBORUxCZzQ0OEdEdW83b1NZdUdWamZzdmhKby10WVRROHZjdkVNUDFnZm9qNzZoaGgtZlVsQ3g2OTlFeE40RjhrNzFuOHhKYk1fRV9WQQ?oc=5
+- **Source:** Northern Transmissions
+- **Published:** 2026-10-08T15:46:39+00:00
+
+## 3 things to know about St. Louis' new direct flight to Iceland - STLtoday.com
+
+- **URL:** https://news.google.com/rss/articles/CBMimgFBVV95cUxPZjdJRklJMnZ5V21wVTNncTl2VWNWVWc2TC03d0ZZLVFTc29BSzhEMnQxUmppRmQ3SGs1SjdieHpDNTJtcHF5QTQzSXNPN0x4SmRabjc4M0VMTUhQZmVQV0M3MWxZUV9tb0VYd1BHMDRDT1hhUTBISjYtVllPazV0ZmM1S1RSSElzWkQ0cHRvN1p6dHFnbXFHaHhB?oc=5
+- **Source:** STLtoday.com
+- **Published:** 2026-10-08T15:00:00+00:00
+
+## We would be cutting interest rates under normal circumstances - Iceland Monitor
+
+- **URL:** https://news.google.com/rss/articles/CBMiuwFBVV95cUxNak9wcTRoeUtVRTF6b2tFQ1pzTzRYZnhheTlKNWdLSnZpSVFmd2oyb3NoLXNSUVFtVEdTRGY5N1c1Z0FkYmJQbEJIblAtMWhhY1lMeDlfb3k2T1dPNHBFTUhCNlJ2UjlVR3FCREt6ZEhXT3c1QjR4b3NCYVJrV0FWZG16YS05NmNjSkh5ZWdScGw0OUdVOS0tVTIyRmU1QzZCMUdBOE9mbWh6RmtTM0NjNW4yZVVEQ3hUMWhj?oc=5
+- **Source:** Iceland Monitor
+- **Published:** 2026-10-08T14:51:00+00:00
+
+## Anne Carson shocks Iceland with candid reaction to Nobel literature win - CHOSUNBIZ - Chosunbiz
+
+- **URL:** https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUHdEb0tqVFR2a3JLUWNHQW5DbVA5LUN1VzBWZEw1b2FRRDR5a0dybnQ3Sm5ZU0dMUHNwM2o4MHhycW1sMS1vQXJCd2FyYXlFbkZqQVBNUndyUkhlaDVtbWNGZzk4Q2pyLWtTQkliWVJSMzA0T0ZtTW8zZENGSldDSGVUSnIyOXc30gGcAUFVX3lxTE9qUXowZkYtNWlqRFJXOENScnhrYzZrWHRkcnFabmtFc0NVbXNEUnB2VzJ4M1lXWHhpME5KWC1YZDJDZXc5b3RreWFiVHlLV3ExQW1peEJxbmxLVmtIR3lWeEo2RkZkcEdYOTg2cUNlNkJua3EyckJzSmpfbWlpUVNWM3c5ZVM2ZlVoT1Rwc09QR0xoWU1XTFZQODU4Vw?oc=5
+- **Source:** Chosunbiz
+- **Published:** 2026-10-08T14:37:00+00:00
+
+## 'Bold and inventive' Canadian poet Anne Carson wins Nobel Literature Prize - BBC
+
+- **URL:** https://news.google.com/rss/articles/CBMiW0FVX3lxTE9SQjd5WW5lcEpOSVRTUlR0T3liS3BfU2lXNDk5YVNyOHRKaTVfckxiMVl1elBXTDVYbHVpM21abEd3cXN2bEZoU3RVazlDM21vLVNzZklta0cxcVE?oc=5
+- **Source:** BBC
+- **Published:** 2026-10-08T14:33:23+00:00
+
+## Iceland Keeps Key Interest Rate at 8% as Inflation Persists - Iceland Review
+
+- **URL:** https://news.google.com/rss/articles/CBMihwFBVV95cUxQc0hZLWdQYzUzS1ktVk80RWNHZnVfdGNCeU5hbkpOUUkwQ2tUSWJfb0Fjd0xkVGZrMnFfeVduaGxjTzRqakE3U0EyQ0hHb0kzMTA0czR0X3lTLWxzcWZia2g1cVppWnNRR0VYbVh1VmVFa0FmSzNHanowQ0JlY1lERnRueFZxd0E?oc=5
+- **Source:** Iceland Review
+- **Published:** 2026-10-08T14:00:44+00:00
+
+## US Secretary of State Marco Rubio Kicks Off NATO Tour in Iceland Amid Arctic Security Talks - Pragativadi
+
+- **URL:** https://news.google.com/rss/articles/CBMigwFBVV95cUxQbm9OWjBGUTl5MzdfZm9xOXhETGUtVmxUYmZDZ2pPcHpBcjdqS3A2ekl5em9KcGoyQTBZcHVPRlN1MVVYeTZVbDRrUktwWHpObEhnU1A1MFp4WnZFTEllMUZJR1Y1Nmdid0hUSFFjUm16QkRsaVlVY3NDRGRzVUloSDJDTQ?oc=5
+- **Source:** Pragativadi
+- **Published:** 2026-10-08T13:35:33+00:00
+
+## Iceland Airwaves completes 2026 lineup with Ólöf Arnalds, Mugison and Sísý Ey - The Line of Best Fit
+
+- **URL:** https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcVdnX2pKb1RnU0VKRlZ1MFVKS244bmRyakdfakpXQ2dicFBtME1wOG1tVFplU3ZaZWd5Z2h5bjZfemR1aUYydWVubGdiS2pGLUdFWmQ0NnlhRUdfbGFhQnFBOER3MjNoNDJPWWFJdkpvUS10ZkwwczdGM0JaR0JCMGtEOU9jWVN4MTRzbXhPX3pSRVF1TE5wbWZJSk9HQVZLMDU5MVZERFJJc0VKRmt2VWlBdUU0WmNwVGlF?oc=5
+- **Source:** The Line of Best Fit
+- **Published:** 2026-10-08T13:02:06+00:00
+
+## Bremont Puts New Ceramic Dive Watch To The Test In Iceland - WatchPro
+
+- **URL:** https://news.google.com/rss/articles/CBMigwFBVV95cUxNaHZiaUpqdGJJaERpd3NBYWpMb0VTVW5xX1VzTFJLNjNUcjcxZlJESHJtRGp6NEdVcjIxSktmX2pmcWp6TDJUQWZkd0FhR1JIMXEwUVBvZlJTQjUwTlo1R2YzUTMzeUtMVkVmQ1BXNVVCU0U4WHVMMFVBUWw1bVg0NDZjZw?oc=5
+- **Source:** WatchPro
+- **Published:** 2026-10-08T13:00:00+00:00
+
+## Author Anne Carson learned of Nobel win from Iceland - CBC
+
+- **URL:** https://news.google.com/rss/articles/CBMiWkFVX3lxTE9qRU13TVItQ0ZZampUdFd1T2tNcDNSQkRvYlFCUzhQTWdGU2RMbTZ2Qjd3ZEFaZl9XYUVrR3BUS0tYSE5HcW5WRXF3dEM0TWpHaUN4d0JVTnp1UQ?oc=5
+- **Source:** CBC
+- **Published:** 2026-10-08T12:56:45+00:00
+
+## Anne Carson wins Nobel for modern spin on classics - 香港電台新聞網
+
+- **URL:** https://news.google.com/rss/articles/CBMib0FVX3lxTE1DanpqcnRYMzJUWXR3SEFaanQtVTRKVndkQWFxUUgwZUNISTlwcFM4OTN5eHFWU1hvUW51dXMzcWItVV9Vc3Q5MVJnZWtyYnRqSXNIUlotNzd3RkQ0NnpJSlV3aXNmaE9nU2g3cWtIVQ?oc=5
+- **Source:** 香港電台新聞網
+- **Published:** 2026-10-08T12:42:00+00:00
+
+## Rubio says U.S. wants to strengthen ties with Iceland - NBC News
+
+- **URL:** https://news.google.com/rss/articles/CBMipAFBVV95cUxNUG5BbkFQY0l3a3BITEVSeFM0dTlhcWxWS0VGMlZ2MlQ5S25SazhfRnl1TXZ2d3dHczNiRFVkOXk5MGczNlNSZ3BReUQ0UEMtaXhFd2VSdW1JOTlQRmlNdk82WThJT2JyU1BDa3MzNy1OejFvRjM0eEFhb2pWN1ZMODFhdmpPX2RDQXlMTEpaNF95bUphalBhVlFJZHNtaVd6NGNiVw?oc=5
+- **Source:** NBC News
+- **Published:** 2026-10-08T12:08:50+00:00
+
+## Icelandair will resume in 2027 its direct flight between Madrid and Reykjavik - Demócrata
+
+- **URL:** https://news.google.com/rss/articles/CBMiugFBVV95cUxNckJDRDR2bDJpQUlFeXlaSm1BN0s5WG9SZ3NtWVEyRG1uV0VYcDdwRElWQzVmS281YXg0SFlTVFZuOXpRdTdZazVKaF82UnZWdzhXQXRHMmdOUnpubG45RFdWRGd1T2xJWmhnbDF4aTdXX0RMRUo4d2hBc0hwQm1IVmlwdTdFbzdmU0lVR3NycGVEY0xIOWpua0lfMlE4SFFVRldxWHY3M3FkOEZZMzAyeEpoNk0tWFp0VHfSAboBQVVfeXFMTXJCQ0Q0dmwyaUFJRXl5WkptQTdLOVhvUmdzbVlRMkRtbldFWHA3cERJVkM1ZktvNWF4NEhZU1RWbjl6UXU3WWs1SmhfNlJ2Vnc4V0F0RzJnTlJ6bmxuOURXVkRndU9sSVpoZ2wxeGk3V19ETEVKOHdoQXNIcEJtSFZpcHU3RW83ZlNJVUdzcnBlRGNMSDlqbmtJXzJROEhRVUZXcVh2NzNxZDhGWTMwMnhKaDZNLVhadFR3?oc=5
+- **Source:** Demócrata
+- **Published:** 2026-10-08T12:06:34+00:00
+
+## Iceland Brings Atlantic Current Risks to Arctic Circle - Iceland Review
+
+- **URL:** https://news.google.com/rss/articles/CBMiggFBVV95cUxORndWQzlCZ19Ob1JaUWVScDNwVXplMHBzeVo1REFmbmNxbUJVYTJaN2l1dFBFZGpKY1NJbmVhdFBqLUtRd2puNGd1V29CTEJob2dCcEVZNnpVMUxnbm5EaG1TRjdoSldCQk9STHRHQ3hqUWpzekF1R2Z4enE2Wi0xald3?oc=5
+- **Source:** Iceland Review
+- **Published:** 2026-10-08T12:00:45+00:00
+
+## Anne Carson was in Iceland listening to the wind when the Nobel Prize in Literature called - Malay Mail
+
+- **URL:** https://news.google.com/rss/articles/CBMi3AFBVV95cUxNbmt0QzR2WUtCTXZ6TGk1RmpnX1U3M0FhUXR1a2FrRUluQzRZa29iSS02UDRtSkJfbGlRYnp0aTJ0OGhwVG9fbFBMYVpoSGFhTi1sV0VabjB0cHFING9hSUI4VGdid1lSNnhFMnNGU2tvYjhVRUJ1QW95dU5oeWhiMUNWV0hNV3lFbHZTZ0pEbkxyb1RRZEFBa2xFVWlobGd5RmpZdE9tV3RKakRrdHBWSUhXUm9rQzhQdUxjb3NDTHZBUjhpcHZwSTRUcGdQcU1KaWpodGtCdXJFUEdy0gHiAUFVX3lxTE5vTmVpamo3MVFSNzhoVVYyVE5UVWtsM2tyT0NqdDdEbF9qNDZ0Q2hQcVl5Q2d3LWM4dnpQdjFVZEY1em8yTVlQZFRRWTd3LUdPRXo1WnBVS0xsRTJXYmp1NlVxSVNwa0dBcWtNS0lBRXMzTWEzeW5BOUV5d3FYWUk2cTlPTEk3WHVoc3ZOOFdnNlBSZlRQTkpPSWJYb0ltRk9CSFhpbVl4ZmFONWR5SDI0WHNJVy03QlV6SFFvU2dkREZuT1B6ejZCSXN6bVhINHlQQ2hHMUtmYm1xSzJtUHMxSHc?oc=5
+- **Source:** Malay Mail
+- **Published:** 2026-10-08T11:31:37+00:00
+
+## Rubio Says US Military Expansion Requires Iceland’s Consent - Iceland Review
+
+- **URL:** https://news.google.com/rss/articles/CBMihgFBVV95cUxQeUo0eVpnaHVSN1VvY21rWE1NbjlOcDcwTjdaZkJlaFdUbm12WWhMeWlLcVBWMnlISUU5anB5N3pBUGcxcl9SZDRmbUUxaVY0S2luNW9xUzdHSXJTclAwQm9sdHRHeFhjaGJ4U1hNOW9nWjJlZkk2T0F5N01HUlllZkNRU0VBdw?oc=5
+- **Source:** Iceland Review
+- **Published:** 2026-10-08T11:30:23+00:00
+
+## Turkish academia in Iceland for Arctic Circle Assembly - Yeni Şafak English
+
+- **URL:** https://news.google.com/rss/articles/CBMinwFBVV95cUxOYjFJdjlSdUM5WmV1cGhNUWs3TVdYNFVqNU5UcTJ2UUFtWFdkZ0VoSE01U3N5Tk1ib19RS1FkM3hXOU1nYU9IUnpRazAxcWNEbFl0N09TNm9LdTJCeE1fN25FTjVPSm03U3h4RTFnVUlHUFE2VC1rQU9tSXVDT2NvY0JTMExzNllYT3l3OTNRZWNLMmd0b3llaHVxVzVONTA?oc=5
+- **Source:** Yeni Şafak English
+- **Published:** 2026-10-08T11:12:58+00:00
 
 ## Canada’s Foreign Minister Visits Iceland for Arctic Talks - Iceland Review
 
@@ -195,111 +303,3 @@ _Last updated: 2026-10-08T11:10:53.161713+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMivgFBVV95cUxNeGMwcEQwYlBrUHc4YVpGX3lYVXB2NXR4cHo0LW9fZGQwVlpjUzhiQm9vT1c2bVZRTTZWeGJqUW5MQUZacGhfeUdOQnBVdEt0bDRwcUFzLXlxX0VWMW5ZcVlsLVpyT2otLTJ5VVRLdjQ0X05sU0stRzg0Z0ZzT2pRcUNWWkE5MlFVUXk3SVViYktSTE1fM01EVm5UMHRhc3ZxRFRaYWpOT0hhaWd3SXBIRWUxQWpzeC1wZWxma1hn?oc=5
 - **Source:** AD HOC NEWS
 - **Published:** 2026-10-07T23:25:15+00:00
-
-## Sildarvinnslan stock reports insider share transfers - AD HOC NEWS
-
-- **URL:** https://news.google.com/rss/articles/CBMisAFBVV95cUxQRDFTRWNhNEQwV1ltdmlZZjI1S3hvM2Z4SUZLUDBkdEZhN0lXVUdaVDVKaU5NVUxsaDJlUGpoZ0VCQ3U1bV9rMWVrdHFqRUowUzFqdWNoUXB2SUFEMG5KOTljWWtfU2hOUEU2SkJIdUNHRWkwOGM0aE1XZV93ZHplTXdsS1pnUmZBUkNPYi1lWjBJX0pvVktLX3ktZnQtN1VBT1ZOZDkyTmx5OEItWFB0WA?oc=5
-- **Source:** AD HOC NEWS
-- **Published:** 2026-10-07T22:21:37+00:00
-
-## 'Good God Almighty!' — Ice Spice Turns Up The Iceland Heat In A Stunning Silver Bikini — And The Fellas Have Words - MadameNoire
-
-- **URL:** https://news.google.com/rss/articles/CBMiZkFVX3lxTE5Od2Npa2E2WXdZajRrY1o5WmRkWGV0OVhQREFZMHpLV2tLa096a1gwbUZOQkJDQXNkb0xESEI0a0FPUzlXbE9QRm5SVEtGaDY5SmlLaTJWS1lySkczZFcxMzhady1odw?oc=5
-- **Source:** MadameNoire
-- **Published:** 2026-10-07T21:57:40+00:00
-
-## Direct flights to Iceland coming to St. Louis' Lambert Airport starting in May 2027 | Full press conference - KSDK
-
-- **URL:** https://news.google.com/rss/articles/CBMimwJBVV95cUxOWlU0amhrWGhUZDlpLWwzMzNCeUpxeG53cXVVLThuOHFVRXdoZmdmeF9zMTNNUVRCQ1h3NkVlVGp1UTRNNF9TeDlVMFliMUtfQi1zeEdQSzVmQnh2dlQ4OWxvRmxER3lDbk8xWUx6NHhaaFVMTWpydF9YRFpENnBsaVgtZGs3ZVBQWHEwLV9COGhMVmtWMWlwdjNoQm5FdDgwMDYxS1JIY2ljMjVfei10RWQ1LXJIWk96a2VCc0pvdnpfMDAyTUJQSy1WQU1ORzVRTEdfUEZkOHR2blBwWHF3RFBad0E1aHY3OGwtQ2tWU2ZWejlGdkxBczlBT0ZqT19HWjE2NThaWmZvU3lRX2F3QjBIV2ZkSWZNQ0U0?oc=5
-- **Source:** KSDK
-- **Published:** 2026-10-07T20:56:00+00:00
-
-## Nonstop flights from St. Louis to Iceland begin next May - Spectrum News
-
-- **URL:** https://news.google.com/rss/articles/CBMitAFBVV95cUxOZU1iTUFFOTNIZU5rS2tVcHo4dWNTb0JIUlFyMHdwM3R3VENPS09oQkY0Z0VKekk5Q0FHU05hVVA3Y1VYYVRrc2dBdFdMYmpybGJXM2NOcEdwZGpId29VU1RIb0RlaHpla19vSG5yc1NvcEFyTXNndHNxUExVejJtRnpGeXRCc2VFZVMzSWY0a1A0eXdRbXE2a3ppQy0yc1ZEUHVfYXlCeTVBUWtyQzZ2VXcySXY?oc=5
-- **Source:** Spectrum News
-- **Published:** 2026-10-07T20:36:00+00:00
-
-## Örn Óskarsson - Opponents | Page 11 - Transfermarkt
-
-- **URL:** https://news.google.com/rss/articles/CBMijwFBVV95cUxOclpDeURyWklPRy0xd2tSRE1aTHFVbW1URTlQYzNvdHhOZGZPOUlBVGRiV3hQaXlrejZFOHFNVUNrdXVNSzRPQ2gzc0ZKU19qTzlfUGhrWWZ0cUExR3pJZ0J2TnMwOHk3WVlRMG1GaGEwdUNham1Qa3FmcTBCSmZJaTl6Z182b2dlMXJpNkZBcw?oc=5
-- **Source:** Transfermarkt
-- **Published:** 2026-10-07T19:51:07+00:00
-
-## Why Marco Rubio Is Suddenly Sweet Talking Iceland - ИФЗ РАН
-
-- **URL:** https://news.google.com/rss/articles/CBMidkFVX3lxTFBvYTdJS3FCclZTYTAyYWUxVjhsMUdCVXpkbE1teFZTbTczU1BnLTFBclFuUWw3UlVBTG9mb2JvWVFOYkh0M2Y3VnZkeUFoTHZGWk5TdFNuWDlaOE11Ml9TUTR0RUV6LVNaWEVoQkg5ZWhtMHJjblE?oc=5
-- **Source:** ИФЗ РАН
-- **Published:** 2026-10-07T19:07:30+00:00
-
-## Estonia 0-0 Iceland (7 Oct, 2026) Final Score - ESPN Singapore
-
-- **URL:** https://news.google.com/rss/articles/CBMiaEFVX3lxTE00WlRVM2xPVklZMnc2YmhfSnA4aWQ1YW1aVHpYbFhBdG5peDZlbEFUVEZUR2RUZVJEdTNqRzEzS25sbzBldm9wZWpVWnZjWVhncFBwUmhkNFlFUC0wTG1TUFBRTXViTndG?oc=5
-- **Source:** ESPN Singapore
-- **Published:** 2026-10-07T19:04:51+00:00
-
-## Reindeer in Iceland: Where and When To See Them - Guide to Iceland
-
-- **URL:** https://news.google.com/rss/articles/CBMijAFBVV95cUxQazlMNF9wbGg3OUNpWkloWk80R1VmZFlvX2dUWEotRVVBQUtNWEYxMFAyUnJYQU5rSFpuRmtKbUx2ZUZ3NkZBZmxBRzZNNFJXMlFrT3Y1UFc2XzhkQjRrMWVyR29sTEgwNWVsMWRuc3lBaDdLVVlzNDFNUm9PWEgxem8ycmtQbkhTdkxHSQ?oc=5
-- **Source:** Guide to Iceland
-- **Published:** 2026-10-07T18:54:17+00:00
-
-## Hallsteinn Arnarson - Transfermarkt
-
-- **URL:** https://news.google.com/rss/articles/CBMifkFVX3lxTE42bmxNMTh6OUFOa1NCM0t3ZmRlNTAtS1FkTTBEenFETE1veWx3NnF6a1JrMzE3eWQ1bzd3Vmp3cVhockZTWG5TQU9TZnZ3cGZyMk9DbW5GYW02ZHYzYldEQWxYVS1HcWpGa25iVzhOSHFsWGYtNmp1eUJGd1lIUQ?oc=5
-- **Source:** Transfermarkt
-- **Published:** 2026-10-07T18:40:07+00:00
-
-## With Iceland a trending destination, this is how to beat the crowds - AFR
-
-- **URL:** https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZjdmYnJjZU5ROWFjcTR5UE9kNUhmcXNJcE50WVhBODQ2QlE0RGZEZ3FCWDFBal9hbTdRN3V0UlllRURrRXJFQzJ2Q2p3YzVXeUZhalN3SVp3b3dCRFJMU1ZyeVFsUjNNVE9SeGM1RnRjc2tjdnVLU2stb3VfaVZWYXE5ZXRVYktBbmdJNkxSeEFtNU5xZG85OXZ5Nk1IUHRlSVhub3YtcTBUb2hvbEs3LWotTldfUzVqellhTW05dm54bkU?oc=5
-- **Source:** AFR
-- **Published:** 2026-10-07T18:00:00+00:00
-
-## Your guide to Arctic Circle 2026, sorted by what kind of nerd you are - Arctic Today
-
-- **URL:** https://news.google.com/rss/articles/CBMingFBVV95cUxPTWJMWlQ4ams5MGZUd0VKMk5rZG9mSjlRSEo5VV9waXZFbkxUbnV3ckUtdjh1Rml4SV9semVJRG1SSDhtTDQ3MVlaU2wzV0t5LUFYZTR4TkpEUXp0Wm1KSjQ3WkF3bmI0eUZUODNiYTFLdFhOemhzUFNCTnNvbG44NmVDdVRwOE9uNkFNUzhwWUNkcG41ZmtmQVhTZXA0Zw?oc=5
-- **Source:** Arctic Today
-- **Published:** 2026-10-07T17:47:37+00:00
-
-## Death Stranding movie moves closer to filming: Michael Sarnoski scouts Iceland - Softonic
-
-- **URL:** https://news.google.com/rss/articles/CBMirwFBVV95cUxOTjN6STdZVVR5YWxucmszUGRUSkJpN0VGc0lpSXE4ckJwU0dUZnJtUUtUMEVrZHh3MmdKek5JY2d6cXhXdVB6UG5EWDZCUjFmcmFhbEZ0d1FBYjI2XzlpYUk1ZHFsNXdVUWg5NS1HYjRTbU9nR2drZ2dHbEQ1Q2FkSmc5LXNHTmQ4cTBRSHdIdVl0TDV1T0NDSVBHSEFnMm5oLW9IODlrSUtXc1d4S2VB?oc=5
-- **Source:** Softonic
-- **Published:** 2026-10-07T17:37:30+00:00
-
-## Death Stranding Movie Director Posts Photos of Location Scouting in Iceland - GamingBolt
-
-- **URL:** https://news.google.com/rss/articles/CBMinwFBVV95cUxQdGlXMkNYRWUzSWJHekhobjhkNERIWlJESnNKb1Y5LW5LcFVtckl6QnppaTlJUURXd2k1QXhBc18yTVFNTnBfMU4zdjZidTRSekl3amR3cHRtdkNUYkwyazZnMDM0OFgybWllTmFoN2ZBQi1TQlY4RG1Eb21XT3JtM19MVGVBSjc4SHBXaElRcXZnelRFandYQnlwTW1HWHc?oc=5
-- **Source:** GamingBolt
-- **Published:** 2026-10-07T15:38:41+00:00
-
-## Direct flights from St. Louis to Iceland coming next year - FOX 2
-
-- **URL:** https://news.google.com/rss/articles/CBMilgFBVV95cUxQcTZnSHhYUXJkQWNqRHdFSUJSYVBwcTdTREdRM0x2UUQ4STkxdVVPY1d3VzVQMF9UenNLWTNZUUgzSUhfMjBWUUhrRkVhZDFvSS1ELXRWZmVYZnF1TE1sYVByTkJQRnMxcmpjMk4wMzBUV1Z6ektobllMRHlvNGRRS1p3T3JiUW1YOGM2RHluc2FHekJWLWfSAZsBQVVfeXFMTkFidmo2VV9rc0pXTEJZYjFjZVI1ajRXeDVTVGxNUnlhMnFWTWo5dXNhZjIwbFdrbGk4Vy1PT28zanBOSGdOWmdYb0lXdUtBZjFITXJKR2Fkc2VMSkd5TURBZXl4aFM2N1lxdE53MkxPQWlhalVqdGxtd0xkU1lES2sxajlQUlc0THh4TWVDNHYyOHAxTzBGNlNiVlU?oc=5
-- **Source:** FOX 2
-- **Published:** 2026-10-07T15:11:26+00:00
-
-## Iceland Keeps Key Rate at 8% as Economy Shows Signs of Cooling - Bloomberg.com
-
-- **URL:** https://news.google.com/rss/articles/CBMisgFBVV95cUxPOXpqa0ZZQnVibjFrel93TEV3NVk5YVB5VF9yQXhDYjlSaUpBTmhjYWJZSGd0bWJuVmlnM3VEUFFNQnFGOWFOcUtuaHA5WDIxWXdUVW15TU5FQWxXVW5wc005bE5EWkppWDVJZnR0cTI0ai1IQUYxRDF5RGxqNlJOVHQza3FVS0tva09FdkhPWXRNR3VRUW9GaG9FZ0pKbklsZExvS1R1dXlIV09YS0g2dDBR?oc=5
-- **Source:** Bloomberg.com
-- **Published:** 2026-10-07T15:06:09+00:00
-
-## Animal Rescuers Turn Iceland Vacation Into A Baby Puffin Rescue - The Dodo
-
-- **URL:** https://news.google.com/rss/articles/CBMimgFBVV95cUxNZEx2LURGQ09SZnNzMXlqbEhKaEpQbHNJTjIybFJ2b2htSGVfcnh6SFFPczVjdTNSS3lfU3dLN3EydzhhZU9JS2ktdl9XY2hlWXcwb1JNS1dZLVNTM1NobUVCcDhTdVI3U1JJTnkwSkpXbW5TX2F3WmZ1bVhzLTJQSG9UNjV0T1NXdjBJUURHZDZzOVhiSjFmYWZ3?oc=5
-- **Source:** The Dodo
-- **Published:** 2026-10-07T14:39:18+00:00
-
-## Animal Rescuers Turn Iceland Vacation Into A Rescue - Yahoo
-
-- **URL:** https://news.google.com/rss/articles/CBMilgFBVV95cUxNb2h3Y1BqekxDOHlsV2NGSldHbHVpamdTMUpBYUhlOFlkRmdTU0JKcUszTExkaVVYS24wYjNhT2dZZWE2OVlxQlFvaEpMbnVMQ21vMG4tNXBkQzRxekxVdmROSVYyLUZ5R1lNSmRJU1Y5TnBndkp6NVpJeEtIWnRFSFdacEN0V1JmbWtLQnhNc0g1WjR0Wnc?oc=5
-- **Source:** Yahoo
-- **Published:** 2026-10-07T14:33:40+00:00
-
-## St. Louis lands another nonstop flight to Europe with Icelandair service starting in 2027 - STLPR
-
-- **URL:** https://news.google.com/rss/articles/CBMilwFBVV95cUxPM200V0M1Mm53Y1FZaF9hSjRLc1NncDZ4TFVZS3B2X25UUUZCbzR2WV81TFZfWUxsbE9icGNHMmNTb1BVaGxfbm1YaEJTSUFldVJ3WkdEVEluRnNuQ1BKTC02UzROMmdkVEJkRTlFMlBSQzJKVmRMZW1pZ2VaR3RueGJNQzM0TGw1VEhCWVppeFp5dmQ0UFRB?oc=5
-- **Source:** STLPR
-- **Published:** 2026-10-07T14:27:00+00:00
