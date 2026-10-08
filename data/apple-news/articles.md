@@ -1,8 +1,20 @@
 # NewsWatch — Apple News
 
-_Last updated: 2026-10-07T18:33:17.436119+00:00 · 50 articles_
+_Last updated: 2026-10-08T00:02:07.080042+00:00 · 50 articles_
 
 ---
+
+## Apple Inc (AAPL-Q) Press Releases - The Globe and Mail
+
+- **URL:** https://news.google.com/rss/articles/CBMihAFBVV95cUxOZmhTYWZWZWM0d0VNbmV3U0FyU0YtR1djSnh3NUNuSW9zVnB1aUJpUWRxd2t0ZXF5c3pxLXZycWpBWGhwYk42dlAtc1hMSnU1T3FnRlBuRVBUOGU0dzlXNDBjN3kydzJrazBkd3djZHlYeTZWalhrU1U5T1JiYVJZcDR3aVo?oc=5
+- **Source:** The Globe and Mail
+- **Published:** 2026-10-07T21:26:20+00:00
+
+## Apple Is Taking Another Shot at the Smart Home - TradingView
+
+- **URL:** https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVTBqdnhRY1c1TElYZXdXeFVyUUl3dHdpcmhXVTBuNTZaZ3hXVDNPZ0pDVUFmQ25tQ3lvUFRxTzJ3U1plTFpIZkdTRk1VRVVLRlkwM1RGUWd6SUp3dEZ6blY5NjZsT2c2R1JRSWtfRnVZQkpFS1RNZHBKWHZRdk5pT3JrNU5mNnZFY29EQkVnYTZUaVN5VVpDUzYybndPZllTRDNnRS0zZUY3QQ?oc=5
+- **Source:** TradingView
+- **Published:** 2026-10-07T18:42:38+00:00
 
 ## Apple stock after-hours at EUR 300.58: plus 1.44 percent - AD HOC NEWS
 
@@ -289,17 +301,5 @@ _Last updated: 2026-10-07T18:33:17.436119+00:00 · 50 articles_
 ## 2,899 Apple Inc. $AAPL Shares Sold by Tudor Financial Inc. - MarketBeat
 
 - **URL:** https://news.google.com/rss/articles/CBMitgFBVV95cUxOeTdEdXJkdUlzTDFBeVh1WUFxNFl1Mm9SdmRZZVRXWF83MmgtTWRTWVphdTJjMlJ2d1hZRHdVbW5OOHdOVk9JMTVnR0tVZlRvdUJCa2JHTm02VnkxZmYwU2RUNV83RzNJdkhKNDZRMkNYNUFrbkJ4dGJGdWdVbkdiU3JGOEdkblB3UUhRWmF5SWY3ZVZTU2hjOUJycTlKYjNQRWs0UW9NdjJnaGktcHFaRHl0Vkc3Zw?oc=5
-- **Source:** MarketBeat
-- **Published:** 2026-10-06T07:32:15+00:00
-
-## 14,545 Apple Inc. $AAPL Shares Acquired by Syon Capital LLC - MarketBeat
-
-- **URL:** https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVnNYejRYYjRPNWdPLV85UzNMS3hwZ0UybkNSTlJFM1dGUUI0a1JwUmtrelZqUVR2c0VtVEtCN3BUaldIbF92eV81OVVYT0RILVRtdXZ1YjF5eEkycUdXTWNVYWtLdVVQUkRpUnFVZ2RnRWhIYS1qVEE2enlMdHptMDNMOVZXd3RDWDZqRjJpYURCU1p4Wl9QTXRGVFB5dzFPTVZ4TElxblFuQkpld3RVOHlDcjV2VXF5?oc=5
-- **Source:** MarketBeat
-- **Published:** 2026-10-06T07:32:15+00:00
-
-## 424,836 Apple Inc. $AAPL Shares Purchased by NEOS Investment Management LLC - MarketBeat
-
-- **URL:** https://news.google.com/rss/articles/CBMizgFBVV95cUxQd0hHdm1weVRDLXR5ZDAzekpoVnBOUEtKcWhtTFhKeVE0OUwwT3BZZFNDUzF2ZzJXY1JLUjlaYXQ1cUpkRWR0UlF5WjlFdS1QZWRuVWxJbHV4U050SkVaeDJTVFR6b1VodE5mVXlOSktHRWUySm5OMWxBZ1FiS1NRSnRmWnBSaWg2bW9BeV9FSXBSUzM0Wk5MVHlKeHJSN0F4dWtNWkZJSEItY0tPeHRHZEM0WTJaVWUxOFlLZkhBR3lsLVlRdFp1bFhfanpndw?oc=5
 - **Source:** MarketBeat
 - **Published:** 2026-10-06T07:32:15+00:00

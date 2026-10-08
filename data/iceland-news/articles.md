@@ -1,8 +1,68 @@
 # NewsWatch — Iceland News
 
-_Last updated: 2026-10-07T18:33:18.983319+00:00 · 50 articles_
+_Last updated: 2026-10-08T00:02:08.400917+00:00 · 50 articles_
 
 ---
+
+## Eik stock gets an insider transaction update before Q3 results - AD HOC NEWS
+
+- **URL:** https://news.google.com/rss/articles/CBMivgFBVV95cUxNeGMwcEQwYlBrUHc4YVpGX3lYVXB2NXR4cHo0LW9fZGQwVlpjUzhiQm9vT1c2bVZRTTZWeGJqUW5MQUZacGhfeUdOQnBVdEt0bDRwcUFzLXlxX0VWMW5ZcVlsLVpyT2otLTJ5VVRLdjQ0X05sU0stRzg0Z0ZzT2pRcUNWWkE5MlFVUXk3SVViYktSTE1fM01EVm5UMHRhc3ZxRFRaYWpOT0hhaWd3SXBIRWUxQWpzeC1wZWxma1hn?oc=5
+- **Source:** AD HOC NEWS
+- **Published:** 2026-10-07T23:25:15+00:00
+
+## Sildarvinnslan stock reports insider share transfers - AD HOC NEWS
+
+- **URL:** https://news.google.com/rss/articles/CBMisAFBVV95cUxQRDFTRWNhNEQwV1ltdmlZZjI1S3hvM2Z4SUZLUDBkdEZhN0lXVUdaVDVKaU5NVUxsaDJlUGpoZ0VCQ3U1bV9rMWVrdHFqRUowUzFqdWNoUXB2SUFEMG5KOTljWWtfU2hOUEU2SkJIdUNHRWkwOGM0aE1XZV93ZHplTXdsS1pnUmZBUkNPYi1lWjBJX0pvVktLX3ktZnQtN1VBT1ZOZDkyTmx5OEItWFB0WA?oc=5
+- **Source:** AD HOC NEWS
+- **Published:** 2026-10-07T22:21:37+00:00
+
+## 'Good God Almighty!' — Ice Spice Turns Up The Iceland Heat In A Stunning Silver Bikini — And The Fellas Have Words - MadameNoire
+
+- **URL:** https://news.google.com/rss/articles/CBMiZkFVX3lxTE5Od2Npa2E2WXdZajRrY1o5WmRkWGV0OVhQREFZMHpLV2tLa096a1gwbUZOQkJDQXNkb0xESEI0a0FPUzlXbE9QRm5SVEtGaDY5SmlLaTJWS1lySkczZFcxMzhady1odw?oc=5
+- **Source:** MadameNoire
+- **Published:** 2026-10-07T21:57:40+00:00
+
+## Direct flights to Iceland coming to St. Louis' Lambert Airport starting in May 2027 | Full press conference - KSDK
+
+- **URL:** https://news.google.com/rss/articles/CBMimwJBVV95cUxOWlU0amhrWGhUZDlpLWwzMzNCeUpxeG53cXVVLThuOHFVRXdoZmdmeF9zMTNNUVRCQ1h3NkVlVGp1UTRNNF9TeDlVMFliMUtfQi1zeEdQSzVmQnh2dlQ4OWxvRmxER3lDbk8xWUx6NHhaaFVMTWpydF9YRFpENnBsaVgtZGs3ZVBQWHEwLV9COGhMVmtWMWlwdjNoQm5FdDgwMDYxS1JIY2ljMjVfei10RWQ1LXJIWk96a2VCc0pvdnpfMDAyTUJQSy1WQU1ORzVRTEdfUEZkOHR2blBwWHF3RFBad0E1aHY3OGwtQ2tWU2ZWejlGdkxBczlBT0ZqT19HWjE2NThaWmZvU3lRX2F3QjBIV2ZkSWZNQ0U0?oc=5
+- **Source:** KSDK
+- **Published:** 2026-10-07T20:56:00+00:00
+
+## Nonstop flights from St. Louis to Iceland begin next May - Spectrum News
+
+- **URL:** https://news.google.com/rss/articles/CBMitAFBVV95cUxOZU1iTUFFOTNIZU5rS2tVcHo4dWNTb0JIUlFyMHdwM3R3VENPS09oQkY0Z0VKekk5Q0FHU05hVVA3Y1VYYVRrc2dBdFdMYmpybGJXM2NOcEdwZGpId29VU1RIb0RlaHpla19vSG5yc1NvcEFyTXNndHNxUExVejJtRnpGeXRCc2VFZVMzSWY0a1A0eXdRbXE2a3ppQy0yc1ZEUHVfYXlCeTVBUWtyQzZ2VXcySXY?oc=5
+- **Source:** Spectrum News
+- **Published:** 2026-10-07T20:36:00+00:00
+
+## Örn Óskarsson - Opponents | Page 11 - Transfermarkt
+
+- **URL:** https://news.google.com/rss/articles/CBMijwFBVV95cUxOclpDeURyWklPRy0xd2tSRE1aTHFVbW1URTlQYzNvdHhOZGZPOUlBVGRiV3hQaXlrejZFOHFNVUNrdXVNSzRPQ2gzc0ZKU19qTzlfUGhrWWZ0cUExR3pJZ0J2TnMwOHk3WVlRMG1GaGEwdUNham1Qa3FmcTBCSmZJaTl6Z182b2dlMXJpNkZBcw?oc=5
+- **Source:** Transfermarkt
+- **Published:** 2026-10-07T19:51:07+00:00
+
+## Why Marco Rubio Is Suddenly Sweet Talking Iceland - ИФЗ РАН
+
+- **URL:** https://news.google.com/rss/articles/CBMidkFVX3lxTFBvYTdJS3FCclZTYTAyYWUxVjhsMUdCVXpkbE1teFZTbTczU1BnLTFBclFuUWw3UlVBTG9mb2JvWVFOYkh0M2Y3VnZkeUFoTHZGWk5TdFNuWDlaOE11Ml9TUTR0RUV6LVNaWEVoQkg5ZWhtMHJjblE?oc=5
+- **Source:** ИФЗ РАН
+- **Published:** 2026-10-07T19:07:30+00:00
+
+## Estonia 0-0 Iceland (7 Oct, 2026) Final Score - ESPN Singapore
+
+- **URL:** https://news.google.com/rss/articles/CBMiaEFVX3lxTE00WlRVM2xPVklZMnc2YmhfSnA4aWQ1YW1aVHpYbFhBdG5peDZlbEFUVEZUR2RUZVJEdTNqRzEzS25sbzBldm9wZWpVWnZjWVhncFBwUmhkNFlFUC0wTG1TUFBRTXViTndG?oc=5
+- **Source:** ESPN Singapore
+- **Published:** 2026-10-07T19:04:51+00:00
+
+## Reindeer in Iceland: Where and When To See Them - Guide to Iceland
+
+- **URL:** https://news.google.com/rss/articles/CBMijAFBVV95cUxQazlMNF9wbGg3OUNpWkloWk80R1VmZFlvX2dUWEotRVVBQUtNWEYxMFAyUnJYQU5rSFpuRmtKbUx2ZUZ3NkZBZmxBRzZNNFJXMlFrT3Y1UFc2XzhkQjRrMWVyR29sTEgwNWVsMWRuc3lBaDdLVVlzNDFNUm9PWEgxem8ycmtQbkhTdkxHSQ?oc=5
+- **Source:** Guide to Iceland
+- **Published:** 2026-10-07T18:54:17+00:00
+
+## Hallsteinn Arnarson - Transfermarkt
+
+- **URL:** https://news.google.com/rss/articles/CBMifkFVX3lxTE42bmxNMTh6OUFOa1NCM0t3ZmRlNTAtS1FkTTBEenFETE1veWx3NnF6a1JrMzE3eWQ1bzd3Vmp3cVhockZTWG5TQU9TZnZ3cGZyMk9DbW5GYW02ZHYzYldEQWxYVS1HcWpGa25iVzhOSHFsWGYtNmp1eUJGd1lIUQ?oc=5
+- **Source:** Transfermarkt
+- **Published:** 2026-10-07T18:40:07+00:00
 
 ## With Iceland a trending destination, this is how to beat the crowds - AFR
 
@@ -243,63 +303,3 @@ _Last updated: 2026-10-07T18:33:18.983319+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMiowFBVV95cUxQcEFTUGIwNDFuZ0pudnBqUUV0bTdENmFIbFFNSDkxbGZPb3lUR0o5eFFMZjF0MkFnRTRSUkpQUEg4ODMyQmw2Q01WTWZ1VWhXdzRWd1FNRFZoaW1OdXlOZkZKX0N6SGFiUUlINGgzWVBJSEcwVExTZU9mT2ZkWkd5ODdvX1ZoUkE0STlFX0k5TWdOS2MxaXo3SHVOcFE1T3hlaUpv?oc=5
 - **Source:** TelegraphHerald.com
 - **Published:** 2026-10-07T05:30:00+00:00
-
-## Estonia-Iceland | Stats | UEFA Nations League 2027 - UEFA.com
-
-- **URL:** https://news.google.com/rss/articles/CBMijAFBVV95cUxONEdfVno4dXhvTkJHTXQxdGpGdG9hd3RZQkg5dFQwekViSEdnd3NHZUxCVUo5SkRnY0JRcjdudl9CV21lLThSUFhyOUl6UmNrZW1JeFFKMVBRUkxHZFFtaWJTR1ZocEQ1NWpYR0NPSkFuUTBPTjRJUnZqSmJlcXZQc240azN6MjRGcUhKWg?oc=5
-- **Source:** UEFA.com
-- **Published:** 2026-10-07T05:01:19+00:00
-
-## APTOPIX US Iceland Rubio - Washington Times
-
-- **URL:** https://news.google.com/rss/articles/CBMijwFBVV95cUxNdFplVFRwS0x6cUpoTU9fWU1nSGJTQUtVVmZTbmtWWkhPdW96Q3lZSGY3VjZVcXN1TUxId1NhZDNYRkEzSGFoNW11MFg1dm9RR0dab1FNekpzRi1Xb2I5S3ptQ2E0ZmdUNUtia2lhazFxVjhScFlueXByWGhoTzg4d2NqUlFDQ0pXajIzX1Zrbw?oc=5
-- **Source:** Washington Times
-- **Published:** 2026-10-07T02:40:28+00:00
-
-## Iceland courts India for geothermal, CCUS, ‘carbon-to-stone’ technologies - The Hindu
-
-- **URL:** https://news.google.com/rss/articles/CBMizAFBVV95cUxNRG1KMVUwblMyT3NzbTIzMXZ5MXRQazVTMEctTEJlOE5ycTg0MGF6N21NSm4tTl9uWUJJZHF2aDFQejdiTlFhVm5yTThJSlBQbHVtQ0xJeVFqWWhjYXNZWVNxMW1DUTQzZVZyZExtNkY0OGNKeWplc2Y5U085bnhtUTZDZ1NlM1dZSW9Bc0VNLW5KMGNJclBwNVpzT0NtbXhVbEFZblM5YlJJekFRQXQteGNLR3pWak5MakVmcHJ0N3pZcEdNanYwc2hxMEjSAdMBQVVfeXFMUGlRaDRGY0NNTDAyaFZTeVp5VXBoaExuRUEyY0dGaEdRODBlNDlDcVpWdThjc1FNYUFaVktlaTc2TnZqSXU4Rm1GSXhFM084ZE9MLVZyM0tPTTNEdFZtbUFyZ1V2SHh4T0E4RHJLYkJGVXV2UEpBdmE1Y2JpYVpScFZyM24xR05vcUVhamtCQ1lyeDJRTVpOVzZGaElQd2F4QVZlZUVpUjNyWmRsMlV6YVBEVjBEN1JMQlZpdGF6R09EcnEzbmh1b2RpVUZxdXYtbXVIZw?oc=5
-- **Source:** The Hindu
-- **Published:** 2026-10-07T02:00:00+00:00
-
-## Rubio underscores decades-long U.S., Iceland unity amid rising threats - WORLD News Group
-
-- **URL:** https://news.google.com/rss/articles/CBMiWEFVX3lxTFAxV0Z6aER3aW14eWdtSzgwYmc5VFRFM2hHaUJlVmgxWHRRYWtDbW9DR0hKaE9tSWJKT3FpSGR2aFZDazFhekpWN0lVUkxNa1VNdUZnUVBiN3c?oc=5
-- **Source:** WORLD News Group
-- **Published:** 2026-10-06T23:23:00+00:00
-
-## Ice Spice Shares Steamy Photos From Iceland Vacation With Actress Millie Bobby Brown - XXL Mag
-
-- **URL:** https://news.google.com/rss/articles/CBMiggFBVV95cUxPaW1sUmFMN0p6VUctVUFFNkxNNHZUQzVraE1ZOFFSVmRlVi1wRWpBQTRjRHRDbE9qMC1rcGUyMGtNSXJtWkI4NjlSd2xrTncyRXk1dm8xeDRZamJ0czVYT2JLd0JCT0ZqVWJsX1VvOU9jaHBzWWNncWZ1NHYzeDdnMTdB?oc=5
-- **Source:** XXL Mag
-- **Published:** 2026-10-06T23:16:52+00:00
-
-## ‘Death Stranding’ movie scouts Iceland locations as production moves closer to filming - Diario AS
-
-- **URL:** https://news.google.com/rss/articles/CBMiygFBVV95cUxNU1ppY3Z4aEpVQjdyQ2l0QklLN3V5X3RDWXhyaENxazBXUlRiWEI0aDREMzMxUGg2YlFBUE1kZm5zekNMaTc3Q2ZRZDFHUThCYWF6RjBqdldvVDVZWUdlbXJYYzJIQzNjcUwwREFka3B5MWFMWFFYLU1NX0lqbWZxcU5lRUhkNlhVZEJ1RXJ3OEtERWE0NDg5VzIwR0l2ZlowTnZpckg2aDZFVWt2c1ZHcEhrR1I1SGRDakFfNUNLR0R6SENYalFtY3FB0gHeAUFVX3lxTFBMUmd3aVFJOF8wVUNIWkd0enE0QkREdTJRZ2J1ZEZDY3ozTFdUb1liNUxxdUZDWkdkU285MUt6REIwTzF2WHNiX1BYaFk1c0hfZlRjRFpWZE9tUVExM09MODNGdjBUNm1hOERYaktnZk5Gd25qWFlrRU5IMVIzQnpVd2FoSy05TVZEa0c4a2hhYUltOVU1cjVkeXpBTnBDd19aRktuVTByOTdlXzlSRTFUWDJULTY3U0dCUlJuZkZuaXE0SnZ4SmFQUm5Od2dTYWtxajQzeFhxZEtFeHltUQ?oc=5
-- **Source:** Diario AS
-- **Published:** 2026-10-06T22:43:39+00:00
-
-## In Iceland, Rubio Dodges a Diplomatic Flap Over a Trump Map - The New York Times
-
-- **URL:** https://news.google.com/rss/articles/CBMigAFBVV95cUxObDIzR0d2bnQyM1FFOTVpQS1ZTU5FbGhyYnVueWdoVnpwVWRxaV9ZcG85d3ZxWFFia2ZYS1NRRk90NlpzSHlDU0FhZThWNTBSMmRuYkVqclhrQmU5b2N1QVdSTjFJMDNBVjNPb05nLUE4RHljVENFdVgwcXBBX0lxdg?oc=5
-- **Source:** The New York Times
-- **Published:** 2026-10-06T22:42:26+00:00
-
-## Marco Rubio Says U.S. Expands Security Cooperation With Iceland To Counter China And Russia: 13 outlets compared - NewsCord
-
-- **URL:** https://news.google.com/rss/articles/CBMi6gFBVV95cUxNbEkyNDd2SEJ3X3g4UW51TFlRMjRpZlhveEtYWUZuRDR6eXlkMUpKb0l1NUtLVTd4UzczaDV2dWx6cnBDX2p2RmkzbFNxZmRPZ21GWUltUndFSHpQV0hQaXV1YWwzNm9yTjNsWTBfLTUtbWpzamFIR2o0b0UweEFJZk1WaVFXamVUU3RjU2k5bzVNY3hnVXZBcWlfQkMyb2J3RmhmY3lmdzdBQ0Z6QUE2TFFNS1ZFTXA0NXlnUVVJMWg1WkEzVGFiU0dyYXVhVzZrNENLWnlFalZsOGhUd21paWdKNEFXUHVwcmc?oc=5
-- **Source:** NewsCord
-- **Published:** 2026-10-06T22:14:51+00:00
-
-## Death Stranding Movie Gets Update as Director Scouts Beautiful Filming Locations in Iceland - IGN Southeast Asia
-
-- **URL:** https://news.google.com/rss/articles/CBMizwFBVV95cUxQM3VfSkdTUWJ3YWhWcTdOQ1U2aV9PcUVHSjFnTDJ2VUtuNFRFQU5VSE9pSnVfWHZvNDRKbGlXRXJ6SkJIZjZvRDR2LXdlTzYwYmlZc0xuR2VIcnBXWWxiM0lvZ0MwZC12b21jYk52SVlSYTZYRERNbjVGN2U5RDVLV0hFWnZsU2ZTcHdHLVRUUUltUWkxU2lfcTlWUW5ZVGFaRFB1b0EyLUh2S0h6S1dTTllIbHh2S1ppOEN1bnhQekp6SWo5VC1qNEhuZW9EUjA?oc=5
-- **Source:** IGN Southeast Asia
-- **Published:** 2026-10-06T22:02:27+00:00
-
-## Faroe Islands U21 vs Iceland U21: UEFA U21 Championship Qualification stats & head-to-head - BBC
-
-- **URL:** https://news.google.com/rss/articles/CBMiY0FVX3lxTFBBbHR3YjZzQjFqLUFBN1RDVkRNNWJkblY1bHFwcUp2OHV3WnpBNHNNUUFHMGVyanJleklBM0VROXBScFRCY3lzeEFSaGtoV3lzTmp2TkYyUU1hUm1ZNE1KWk92NA?oc=5
-- **Source:** BBC
-- **Published:** 2026-10-06T21:56:15+00:00

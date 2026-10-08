@@ -1,8 +1,50 @@
 # NewsWatch — fusion energy News
 
-_Last updated: 2026-10-07T18:33:19.495929+00:00 · 50 articles_
+_Last updated: 2026-10-08T00:02:08.908619+00:00 · 50 articles_
 
 ---
+
+## Type One Energy Completes $200M Series B Financing - StartUp Beat
+
+- **URL:** https://news.google.com/rss/articles/CBMihwFBVV95cUxQUF9GOUYwRXFvdDlSM3E5MTVBTmpveklXVnp4MUJ6aFI5QUxmVzduM0ZURzBJOHY4djBWa243MnZrN09vX05UcFk0MlhaYVJESHEyOHN4SVBDSktfb3JsdWF6MWNsMXFSeDl1X1NmdjlVYU9zRXR3bHZnQ3NsLUk3OXlsOS1XSTQ?oc=5
+- **Source:** StartUp Beat
+- **Published:** 2026-10-07T23:08:59+00:00
+
+## Type One Energy Raised a $200 Million Series B to Advance Its Tennessee Fusion Power Plant - HedgeCo.Net
+
+- **URL:** https://news.google.com/rss/articles/CBMixgFBVV95cUxQdWVvcUhwV1dnQW83T3ltaHdKUXQ2dmt4cjZTMlVZWlV4c0JVRVZCLVRjS3MyV251dUxNWC1Lb3luM1VYVkV1eHFyTFdkZGVaR2ppS0dfSXBILW1oSjVOcDZOYjlkTUpJajdJV3BvazFSY25pZ1g0Yjlvem5ZaTNmM3JjNjdHTXhUZ0dhVEh3NTZOcWZjMnpfd1NYeUk2OG9zYlh6RFpaSTlvMWZLRW9nekxJaTFubC1XbmFTT082NGZka3JmV3c?oc=5
+- **Source:** HedgeCo.Net
+- **Published:** 2026-10-07T21:44:38+00:00
+
+## Nuclear having a moment, but hesitation is real - Athol Daily News
+
+- **URL:** https://news.google.com/rss/articles/CBMijgFBVV95cUxPMnNxekpWRjJRMjBFXzdpQXo1VFMtNXlwN1kzUWJoOE9mZVlXaUk4SU9GY1hwcU9fc194Nzg0RmVaZGZJbVZLZDVHWTB0NjZCbFBfQ0U3a0VJLVZXSEtJb3VOaHc4cGp4RU9rODB3c05mQlczSUkyN01tanVHZExVb1JqZl96bE9SNlhzc1Z3?oc=5
+- **Source:** Athol Daily News
+- **Published:** 2026-10-07T20:18:47+00:00
+
+## The energy resilience challenge is growing - WP Intelligence
+
+- **URL:** https://news.google.com/rss/articles/CBMioAFBVV95cUxPZHNIVGhyc3A2WjB4azNEOWJFTWtwQnhxQ0NpZ0tmdHI0cDRvV3BkbDlaMjJPcllhUTVyNk40REpMN2c0T0JCaEFLWmZuMTRxT19UQnpERU9QSVptM0Z5R1Jma0tGTkc5S3Z3QW1fNnRqaXlXRkhXb29BdGZuTEJJUjJ3alhSWVBfemdaS2tOVEZJa2lLeXVJeEZzQ0V0czZC?oc=5
+- **Source:** WP Intelligence
+- **Published:** 2026-10-07T19:35:37+00:00
+
+## A 147-foot oil rig has spent more than 30 days turning diamond bits into an Oregon volcano for the company that melts granite with a microwave beam, toward a 15,000-foot hole that will read the heat in the rock, and the beam stays in a Texas quarry with a 33 - Autonocion.com
+
+- **URL:** https://news.google.com/rss/articles/CBMijwFBVV95cUxPQlBKQi15Sk5vd1VTSnJTeEhfSWxrZmMxdzAzcmJvZ0dRdW1GVllKSWNYVHlYT19YektKU3AtLXdpcnVRTnE3QXJJZHZpYXFqMVpKbXFuNHlNQWtDRW9hMXUzeHQ0aTU5YkdaTzVRbU91RnJVY2dJdFkxRFNQSnlxb1k4bmprSmdjTWRaZGlHTQ?oc=5
+- **Source:** Autonocion.com
+- **Published:** 2026-10-07T19:30:19+00:00
+
+## The world’s first nuclear clocks are ticking - Popular Science
+
+- **URL:** https://news.google.com/rss/articles/CBMiZkFVX3lxTE43NXVhbFRqT25QYng3NmticXVVbGVoQ1BvMlRTcmw2Z09mQXU5YlcyRVZ4ajFlbDVhNUEzZG4teGJoWVBhUTNobUd5OHd6NHMxY2JuWTE1LTN2TDk3SGhsVl9QTmpWQQ?oc=5
+- **Source:** Popular Science
+- **Published:** 2026-10-07T19:26:00+00:00
+
+## Federal approval for Everett company’s two devices to produce fusion power - Everett Post
+
+- **URL:** https://news.google.com/rss/articles/CBMiswFBVV95cUxNMURjWmg5T3FxNi1FWG5hSXlQSlFCRVp3RGlYLTcwd0h4ZjNza01ZUjM1djZBZ1hOR1Ztb1N4MjlDRU14ZC1fZXNZQnd4eWFLS05ZT191NDJucE5PVDBwbWNzNUF4SFp5cy1qU3hJSzVmaGNNTlloZzg5a25hU1hVeDRKVmpVS3RybWI4eEJZLXh2bVR3emZDYWt6MVVlVXUzZG9XWk13SEJINGlsWXFKbUMxUQ?oc=5
+- **Source:** Everett Post
+- **Published:** 2026-10-07T19:07:00+00:00
 
 ## Fujikura stock after-hours at EUR 31.83: minus 3.52 percent - AD HOC NEWS
 
@@ -261,45 +303,3 @@ _Last updated: 2026-10-07T18:33:19.495929+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMidkFVX3lxTFBqNzhKOWpLa1czMEE0bUNaTlpUejZYRkRkWGRYbExCOHlQSHJ5YzgxOXQ3c3hDTVlYaXlUNnRIMjRtZDR1OHA5QXA5ODVjOWRJMnY5YU5IVnpLVHZQbmxwX1llUENGSUJlZEdfMElBa29sT0hOQ2c?oc=5
 - **Source:** The Japan News
 - **Published:** 2026-10-06T16:00:00+00:00
-
-## Latest evolution of UK’s proposed prototype fusion powerplant revealed - New Civil Engineer
-
-- **URL:** https://news.google.com/rss/articles/CBMivgFBVV95cUxOQmo0RXBQNEFzMkt6MzNaUURCdFJBWjJyVHlqV3o1SGN0UEt3ZTdwaHBTQkNfdWRRY2dRWlM4UkQycVdGYmx6UEI4VzcxbFlMYU5OUXhuQXZaNG4xWXBOTHJuQ0lPOUVkd2x3NWx2c0hqX0JnWjlYeGFRVkhYaXZfbDFzbTU0T19nbmZTLThPcTBWcjY3WkxVdmhjb25oY2ticlJPNEkycGo4YnFlaDloXzRYQ01XRlEwSlFCSDZn?oc=5
-- **Source:** New Civil Engineer
-- **Published:** 2026-10-06T15:02:36+00:00
-
-## Siemens Energy Backs Type One Energy in $200 Million Fusion Raise - ESG News
-
-- **URL:** https://news.google.com/rss/articles/CBMijgFBVV95cUxQRjhXdG9lX3NheGd5dm9QcUR3cjUyU2RYcWxxLW5jZmlJMEhJMFJGQVRpNkZLX3pqZFkzMlRDeG9ob0JuZGNPTjhQcFZMbFFoVlpuR0xpS0E1RVViWEJpNkVnODVJZ256Uy01SmVIMGQ1RG5WVlJMUHNjNmxVRkxKMjVUS2NlREhZN1NWVGFn?oc=5
-- **Source:** ESG News
-- **Published:** 2026-10-06T15:00:00+00:00
-
-## Type One Energy Raises $200M in Series B Funding - FinSMEs
-
-- **URL:** https://news.google.com/rss/articles/CBMijAFBVV95cUxNdVZ5TkkyXy1wLWNpdXRtLUY0UGpPSmZEWEJvc2hFU3laYWNrbzU5Y0ZTdnYyaDhWb05YbXV3TEJNTTlSNm9sdVBrd2NVMlFxMnozSXpWUTFRNHhRR1pCZDZta09lMXJ0amRYTlVXdzdOV1BuVnUxN3c2TkZEQVo0eXpobUdHNWJNTm9FVw?oc=5
-- **Source:** FinSMEs
-- **Published:** 2026-10-06T14:52:13+00:00
-
-## Type One Raises $200 Million to Build First-Ever Commercial Fusion Energy Plant - ESG Today
-
-- **URL:** https://news.google.com/rss/articles/CBMipwFBVV95cUxNZVc4SHlMUFNDRkdvWXhhaXh3QzlFbHp3Wk5rNmgyclhOT1diU0d1RXhjOHE3clBLbUhCVzRsSkJOOHZmQ0xnUFhPMktpX0w0QnhONGVTVEtWQ1NxS1FKcFZYTFFhUFNoaDFqbTMwMDUzWlR4R0c2ZjJ1UWtuV2lLUzR6UHNfQ2pielcwbWUwODRTQlhYMTZLLVR2cndtNmlVYlNKWWpNcw?oc=5
-- **Source:** ESG Today
-- **Published:** 2026-10-06T14:50:47+00:00
-
-## Type One Energy Raises $200M Series B, Bets on Industrializing Fusion - Wowtale
-
-- **URL:** https://news.google.com/rss/articles/CBMiU0FVX3lxTFBJUnFBUmdMRDRIbXlsWnZJQTNoN3VwczN1cGl4S0tHYnZVcWtMRjMzOEdwNEVuU2V6b3dQZENIWmxQTXZ6ay1OMjVfREJ0VjFFbXE0?oc=5
-- **Source:** Wowtale
-- **Published:** 2026-10-06T14:50:14+00:00
-
-## Type One Energy raises $200M to build a fusion plant by 2034 - Dealroom
-
-- **URL:** https://news.google.com/rss/articles/CBMimAFBVV95cUxPcHktN2JfMExvREZNLXlQMVBiUkNXb3J4d0dBbTQwTUR2QlRqRnpGVUhiREthaGJhWVZWclZWQTB2ZERkc2JZNnJZYkJvbEVoUnhYX2RwV0U4d3NWQ0JKVGR5bGF2bzBqMlpuWTFKc0pVV3ZYcjZQUGRHVGMwV1hDbG93WGhPeE9ER1Vkc2J2bTFsVUVLOERIVA?oc=5
-- **Source:** Dealroom
-- **Published:** 2026-10-06T13:24:31+00:00
-
-## California Governor Signs Bills To Overturn Nuclear Ban And Plan For Fusion - NucNet
-
-- **URL:** https://news.google.com/rss/articles/CBMiswFBVV95cUxOTlMzb0NqU3l1X2NMaENUcy02SGxUb0Z0b3N5MmZiWk80UjJPNzVUM0dXTjBfdVRTV2VkYVFKOTlXbm92ZFU4eTdyZXlYNVhBc3VBQklXLW1STkZpc1JBQlBTUXRmR2sydndWSjRZdkk2UVRuSmhNczRqZ1JJcG5yLWVLc2ppSldqTkNsYTBWT0xNUWlSM1ZtZWRISzlGaGNLTmlHUXlvemgwNU5WeWVRcUctYw?oc=5
-- **Source:** NucNet
-- **Published:** 2026-10-06T13:20:41+00:00
