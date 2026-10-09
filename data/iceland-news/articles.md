@@ -1,8 +1,14 @@
 # NewsWatch — Iceland News
 
-_Last updated: 2026-10-09T18:03:41.341975+00:00 · 50 articles_
+_Last updated: 2026-10-09T23:50:45.198493+00:00 · 50 articles_
 
 ---
+
+## Atli Vidar Björnsson - Transfermarkt
+
+- **URL:** https://news.google.com/rss/articles/CBMi0wFBVV95cUxNaDU2REQxUndGeHQ1V3RKWjdZeTZaWkg3enFUUnphT1hTVWJ3NzF1OVF1S2h0aElSWEF3WVZYbTFjTURjVnFDQTJSVkZWVHdjcTVfWTNOTWFnZEh3N0VVeEpuZjFtZXNYS2RxMm1pZEhqejB6V0lpSkdjY3BTVVhhQTQxR01JRDA0SmpuTEVPa2lBamRDMnUzRExHUVkydGYtYlVOV0RjVEtZWjdBcFVzN2s2X3l0Znl4clN1N1BLcnBpblZwXy1tRDZCdUFRX0NmNnRr?oc=5
+- **Source:** Transfermarkt
+- **Published:** 2026-10-09T18:39:41+00:00
 
 ## Why China's Most-Watched Seven-Year-Old Goes to the Neighbourhood Public School - Trending on Weibo
 
@@ -297,9 +303,3 @@ _Last updated: 2026-10-09T18:03:41.341975+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMiuwFBVV95cUxNak9wcTRoeUtVRTF6b2tFQ1pzTzRYZnhheTlKNWdLSnZpSVFmd2oyb3NoLXNSUVFtVEdTRGY5N1c1Z0FkYmJQbEJIblAtMWhhY1lMeDlfb3k2T1dPNHBFTUhCNlJ2UjlVR3FCREt6ZEhXT3c1QjR4b3NCYVJrV0FWZG16YS05NmNjSkh5ZWdScGw0OUdVOS0tVTIyRmU1QzZCMUdBOE9mbWh6RmtTM0NjNW4yZVVEQ3hUMWhj?oc=5
 - **Source:** Iceland Monitor
 - **Published:** 2026-10-08T14:51:00+00:00
-
-## Anne Carson shocks Iceland with candid reaction to Nobel literature win - CHOSUNBIZ - Chosunbiz
-
-- **URL:** https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUHdEb0tqVFR2a3JLUWNHQW5DbVA5LUN1VzBWZEw1b2FRRDR5a0dybnQ3Sm5ZU0dMUHNwM2o4MHhycW1sMS1vQXJCd2FyYXlFbkZqQVBNUndyUkhlaDVtbWNGZzk4Q2pyLWtTQkliWVJSMzA0T0ZtTW8zZENGSldDSGVUSnIyOXc30gGcAUFVX3lxTE9qUXowZkYtNWlqRFJXOENScnhrYzZrWHRkcnFabmtFc0NVbXNEUnB2VzJ4M1lXWHhpME5KWC1YZDJDZXc5b3RreWFiVHlLV3ExQW1peEJxbmxLVmtIR3lWeEo2RkZkcEdYOTg2cUNlNkJua3EyckJzSmpfbWlpUVNWM3c5ZVM2ZlVoT1Rwc09QR0xoWU1XTFZQODU4Vw?oc=5
-- **Source:** Chosunbiz
-- **Published:** 2026-10-08T14:37:00+00:00

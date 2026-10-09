@@ -1,8 +1,32 @@
 # NewsWatch — Apple News
 
-_Last updated: 2026-10-09T18:03:35.730861+00:00 · 50 articles_
+_Last updated: 2026-10-09T23:50:43.864996+00:00 · 50 articles_
 
 ---
+
+## Where Does Apple Fit as Services Grow Alongside the iPhone? - Kalkine Media
+
+- **URL:** https://news.google.com/rss/articles/CBMipAFBVV95cUxPUnhoOVVrU21MdTdpbHZyNG1vVmU3LXlJYl8xeS1SMmJUcHVQT2NnSkctRm9Fc0JnYzJwSHk4MEpMRmt0bVl3TGJHVHJiQ0RNcEVTTzh5RFdEZGhMZjZzcVlDTTRyNEQtOXdkNUFGZ19wTjY3cVdKdW1NYmVLWHFDMDFCMmwyVTlyZ01QNnF5bHloa0VuWjBhVlhmaEV0alNBeUtqNw?oc=5
+- **Source:** Kalkine Media
+- **Published:** 2026-10-09T21:49:00+00:00
+
+## Apple's iPhone Order Cut Is a Fall Tradition — And So Is the Stock Rebound - Benzinga
+
+- **URL:** https://news.google.com/rss/articles/CBMizAFBVV95cUxPb2RPVkJqSmhQVEZDM2VoTldsaEROTzlEZG1XMEpMMTdhQlZxRFVEOHNlNXhyWGJkYlNMak1hLXAxNGtjT0dWYlVjbk5BTkFObUNZSE81b3UybkxUX0NFR2tIU3hySGFOMURuZ0t2bjVscm9RMFJSQWVFbVRaLUk3Vi10Y3lfR01IRnhMYkROamJ0YUltdWhSMG5WVXZTQnRfcy15SkxvbmhqRGRSd0VsODVGalQ5T3Y2X1dhNG1MTnliS2Z3aVB1MXhHTkE?oc=5
+- **Source:** Benzinga
+- **Published:** 2026-10-09T21:03:11+00:00
+
+## Apple acqui-hires AI startup founded by former NotebookLM developers - 9to5Mac
+
+- **URL:** https://news.google.com/rss/articles/CBMiogFBVV95cUxPbUR3VGM4TXhza1RjTmEwN09SNUxSVWpHWFpMXy1zSWVJYVdpcjI5UFZfWm9XUl9xTDRrNWxTWE4wRmJJTGp2NXdNb3hQNGtHeHViLW1QMEtXVi1La0djdFF3X2NaSzdLN0FjNmNXdTJKWDBvN0xFMVhpb3JJcndJY0EzN0dHd0NWUXNvY2k1cmFKQWl5ZXNodlNJbkprVEliemc?oc=5
+- **Source:** 9to5Mac
+- **Published:** 2026-10-09T20:04:00+00:00
+
+## Apple's OLED MacBook Pro Could Supercharge Premium Laptop Display Growth - BigGo Finance
+
+- **URL:** https://news.google.com/rss/articles/CBMidkFVX3lxTE5xc180OGZza3hMQTlmdzNYN3lPek41emlrZ1FBV09sbnJxekVfeGNGanMza29yUFI2RVBIb1RsOUtiTDhnamJCeFpPVzFaWFZxUXdocFRDSTY5aEtEUVhyQi1Cbl8tMC1kemM0NGFqLVpDeXJwZEE?oc=5
+- **Source:** BigGo Finance
+- **Published:** 2026-10-09T18:22:00+00:00
 
 ## Apple stock trades at EUR 299.50 with USD 4.9 trillion value - AD HOC NEWS
 
@@ -279,27 +303,3 @@ _Last updated: 2026-10-09T18:03:35.730861+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMimgFBVV95cUxNczV5cmhUWHhvUlFTQThEck1aRmR4dFRpZkhENnZ4V0duVTBBcjItOWE0SG9hMnhQSUpKaDFiczdHLUt6cS1POEtBWHBWTTBKMXRzc3hlZ3lPNGRLY1FmVDhtNE5tUkY2eWhpbDhLVlBqTG9kNGM1RmtFSVI2QmZpTE1waUtyXzdWcm1QX2JNOUN1ZGRVZDA2MDVn?oc=5
 - **Source:** Seeking Alpha
 - **Published:** 2026-10-08T18:36:49+00:00
-
-## Apple's AI Story Could Be Worth $75 a Share - TradingView
-
-- **URL:** https://news.google.com/rss/articles/CBMipAFBVV95cUxPQjNFWk8ycHVjRTBZQ1g5a3RyQ212MGFhakIzM2dKaklUWmxtZmpCN1V0WjRxV25EM0VrcE94LU8xWng5d0ZvQ1JaS1YxUGlwdEpfYnhLTVZrVkUwV29WbG82MmRWSzg3a0hmUUlGVjIyYVphTXRwSW92TFRUUk5FTTdjUTdfc29IRVQ4c3V2Z0lCTF9LaVdzSTZHTzRQem1udEhRYw?oc=5
-- **Source:** TradingView
-- **Published:** 2026-10-08T18:35:37+00:00
-
-## Apple names veteran Steve Smith as new M&A chief - Yahoo Finance Singapore
-
-- **URL:** https://news.google.com/rss/articles/CBMihwFBVV95cUxNXzBpVXkxTDRiQ1psM0M2MDRqREF3NXdvemVTdU00QkxjWnZFak9QeXVxcjd2Q19ZR3VfWXR3dXZ4U2N1UXRnUWZFTThMRjh3TlNjaVVHYnVHZkVtd09tcmVTelFDeTd3M2FzNDktV3Y2V1FnaWtkUlB0ZkFsQldnNlVZRmt0S0E?oc=5
-- **Source:** Yahoo Finance Singapore
-- **Published:** 2026-10-08T18:19:38+00:00
-
-## $250M Apple Siri false advertising class action settlement - Top Class Actions
-
-- **URL:** https://news.google.com/rss/articles/CBMiywFBVV95cUxPeVBmN1lIN1hSTDlNTlV5YjVKUlVTN1hqQ0hSTjFlVkdUS3hjNk1MQjN2all6VG1hTWdYSkt4LTgyNGtBdUxsQzBGVGRSNENNNzVmRjJuQjh2RVpnMWlkc012alJ2a3Q0QVlmUWxKODNSaFhzeERqS1dvOXBxankwRlJMMDFvTV9neko3Z3Vkay1NVUc4SFBzZGotcnJJaFpfcGtfZjlTZ3pxVE1EYlFpaUR1X2JFcTAwTHZxQkE0NlNSQi05SDIwN2FkRQ?oc=5
-- **Source:** Top Class Actions
-- **Published:** 2026-10-08T18:05:28+00:00
-
-## Apple stock trades at EUR 301.43 with USD 5.0 trillion market cap - AD HOC NEWS
-
-- **URL:** https://news.google.com/rss/articles/CBMixwFBVV95cUxPTGpNNk05VmprbkpzZC1IZGh1NldESGFfVjItMmthM0ExX1IwT2ZuMWdNaWxTdzlUOUdINjZxczlvOWhEdjZuZEQ4OW5kMnVpOWZiYzZJb1lHM3RQU2x1Z1lZaEJFdWxxUUV1Ykk0MHNSNmxSalZHV1ZBZlJ0NFFoVG40STlGXzl0ZWs4VFdORFpncDdFYklNekh1YlhpYVpKVU92MGpiREZLT1pybV9WM0E0STk1R0RReC00MjQ2c1hjLXJoSXpv?oc=5
-- **Source:** AD HOC NEWS
-- **Published:** 2026-10-08T17:33:19+00:00
