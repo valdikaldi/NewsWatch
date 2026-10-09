@@ -1,8 +1,116 @@
 # NewsWatch — Iceland News
 
-_Last updated: 2026-10-09T00:10:07.586675+00:00 · 50 articles_
+_Last updated: 2026-10-09T11:09:34.389114+00:00 · 50 articles_
 
 ---
+
+## Canada and Iceland Deepen Arctic Security and Trade Ties - Iceland Review
+
+- **URL:** https://news.google.com/rss/articles/CBMijgFBVV95cUxQQ3dLdDNjSHgwSXd2amIxeDRpeGtGbkpHVXZnckp0UjFGMTh1MUU5ZzZLOUlkMjZ0eHQ1V2g4WE1zcXFoUUhvZ2NOZHRqZk45U3FjVU5kMnhLQVJYdXZvdE9mR0dwdWd1dnNybWRNYUFUUEptcUQ2azFVaEhaLXpFbDJ6SXFrMDdDeUYzb19n?oc=5
+- **Source:** Iceland Review
+- **Published:** 2026-10-09T10:30:47+00:00
+
+## Crucial that government does not fuel inflation - Iceland Monitor
+
+- **URL:** https://news.google.com/rss/articles/CBMioAFBVV95cUxPZmh4emhhZHk5SXVIYV9ZY29oLVlacjh0YjNsMDFDbWJ3RGVaaTNMaW1hY21rMXJ5VVhBcGdUZGJweHFVeTBYWTRMdWkwOW5QYmlGbU41NmlhV3R6TzRzYVg1eENvaU95UXJvdWZob2RUVUU0OFRqcllueTlkU09OdFVRRnVJNkU1TVZibFZfclJ6ZV82S1lXU1NCRlVPTi1Y?oc=5
+- **Source:** Iceland Monitor
+- **Published:** 2026-10-09T10:00:00+00:00
+
+## Wage Agreements Hold After Last-Minute Iceland Deal - Iceland Review
+
+- **URL:** https://news.google.com/rss/articles/CBMikwFBVV95cUxOUXhWblZYVDB4YzZGcThmQ1Azei1pOUJ0ekNvTnZYVmdRVzR3M0ZEYkl4YmJETTlKNXFET3k5TW85bzkzQzZma0QwV3U4T3lFTDZ2a05qV1B0RmdKTHYyYkxIZ1NKbjdDQ1ZpZHZXeGlPeGxYTzhMalpFVjQ4dkhQS29UdjlMT0h2T0tpYUk1VjNBNnM?oc=5
+- **Source:** Iceland Review
+- **Published:** 2026-10-09T09:30:28+00:00
+
+## SkyShowtime’s ‘The Homicide Unit,’ From Warner Bros., and Iceland’s ‘Fjord’ Boarded by Reinvent Yellow Sales (Exclusive) - IMDb
+
+- **URL:** https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5SbkJQamRQZ3JDQ2haTkNqZmw2ZEh0UXozTG9FWGFIYmNvNGNmR3NURnVQTE5VTjgyUHRXYzBvV3VnVnNYMk9SMERfaGlyeWd2aHBWaDh0Yk40d3JJVFJEOW5reGpYVG8?oc=5
+- **Source:** IMDb
+- **Published:** 2026-10-09T09:09:54+00:00
+
+## Icelandic Drama ‘Elma’ Set For Siminn Bow As Glassriver Debuts ‘NCU’ At MIPCOM - Deadline
+
+- **URL:** https://news.google.com/rss/articles/CBMigwFBVV95cUxOY282dF84WUQxcHMwRUNqaGdHUUR3R2duT29TbWIyZ2FNeTZ2MC0tajNYTEV6elZ6ZkhvU1Z0OWlCNDZ2alN2b1JOMm0yeXcxZG5aWktSSk01YWVNb2l2am9mTEpzWTVOcUE2VVVXQmszUXY0eTlZeHVqY1JlUnoyM3VhMA?oc=5
+- **Source:** Deadline
+- **Published:** 2026-10-09T08:32:00+00:00
+
+## Fire and frost in Iceland - Condé Nast Traveller India
+
+- **URL:** https://news.google.com/rss/articles/CBMia0FVX3lxTE1jQ21Zdkw0X0xsbjloNGstTVhreThlc05Yb0dGYml6T21WVUdfVVhwejVpQWpqMnFRcDJmOWpWM1BuSFM3SDc1YkhXaktRRDBnS2x4VVc5SWRwSmlSZ0NidVlEb1ZUbjVnSWZJ?oc=5
+- **Source:** Condé Nast Traveller India
+- **Published:** 2026-10-09T08:30:00+00:00
+
+## Food Prices in Iceland: A Live Price Study of Groceries, Restaurants and Bakeries (October 2026) - Guide to Iceland
+
+- **URL:** https://news.google.com/rss/articles/CBMibEFVX3lxTE1YaDVFRktocDZCNjN0aTNuOXUzSm1nQU5CeFl6SFlrSEVpNk5wM1FoMGlrdDZIeERBaDZjT1M4RjBoeWE5VF81WkJkMFhCb1lJQmo0bXBGVHAwT1BTVzZzRTR4NlpaQlAtbHctbA?oc=5
+- **Source:** Guide to Iceland
+- **Published:** 2026-10-09T08:23:04+00:00
+
+## SkyShowtime’s ‘The Homicide Unit,’ From Warner Bros., and Iceland’s ‘Fjord’ Boarded by Reinvent Yellow Sales (Exclusive) - IMDb
+
+- **URL:** https://news.google.com/rss/articles/CBMiakFVX3lxTFBLZEtra0dBcE9BMDBHc1FlNTFpak5GY2x0OEhBaElZVG93eE9YaGdaVE1wSGtRWFAzTXRFcnVFWEkxbzlMMDdsTHJwaHBieEoxeUZPc25veXdUdVlRdlpvR01UTnVXR1BDSHc?oc=5
+- **Source:** IMDb
+- **Published:** 2026-10-09T08:21:52+00:00
+
+## The Making And Meaning Of The Moral Coward Rebuttal - The Reykjavík Grapevine
+
+- **URL:** https://news.google.com/rss/articles/CBMikwFBVV95cUxQNHVVU1VQUnA0Y2VJRldFZjFJZ3FNNXF0XzI3ZGlhbXctYmRvRlZFdFFRN094TVRzMTYwbldOZXpQUWpGeWRiN0RIcWhVUVlzY2FQZ0JXcGR6VEZGeFhXdHhfTU5kVXQwOGRHNHZfZXIxVzk4ZkRsUVlxaXlyVGE5NkhmUHdiMTZfS01LZnNhODhGdHM?oc=5
+- **Source:** The Reykjavík Grapevine
+- **Published:** 2026-10-09T08:00:00+00:00
+
+## SkyShowtime's 'The Homicide Unit' Iceland's 'Fjord' to Reinvent Yellow - Variety
+
+- **URL:** https://news.google.com/rss/articles/CBMioAFBVV95cUxOYWhNUHN1VW41TDVDaGloWUlleWdVaXB4eGJUdHVwSWxsanhRWVliNnZPVC1FdF90TVNUUWhUakRRYVdkQ2tPakJhenY4Uk9hVkZmRzc3NHE4elQtWVI0MG5GSm1ReUdGMHRtV0VoTkNTbllncktZSmRCNTR6QUtWdVhMV1ZhbV9ZQjJsU1NueUExQlpubHplczJSOXFndVZN?oc=5
+- **Source:** Variety
+- **Published:** 2026-10-09T07:30:00+00:00
+
+## Bremont Puts New Ceramic Dive Watch To The Test In Iceland - WatchPro USA
+
+- **URL:** https://news.google.com/rss/articles/CBMigwFBVV95cUxPOExneGlCVWdQZ0pjWDVpdWNzejVTOVdVa0ZqMW1EMmRzVXZhNW9mQWtPdW9tREd6Y0VwcVFzRmN2b0pScUVTNDhmVzc0RGIzLU1ScTAtd1Zua0h6dHhla3FXUElhRThQNGNfNFA4c2JXMWFJQ05PeVRVZlNPRnJfTXhrWQ?oc=5
+- **Source:** WatchPro USA
+- **Published:** 2026-10-09T07:19:53+00:00
+
+## Haraldur Gudmundsson - Transfermarkt
+
+- **URL:** https://news.google.com/rss/articles/CBMi0AFBVV95cUxPblFHNjBhdThaVHF0OG9SZUE5cmFZemhyMzJ2NEU0NmppblFJRDE1SWlyako5M3RxTkNlZEtSb3E2Nl9BXzdISWt2N1lDNkFzMVBoMnlwSkRYdTdMcFR4TjBicU5HNWUtUDRvWElEc1RabDJBUTFCWUg5b2F4QnVWbmhqMHpvWFZMenpYWVl6X3N5b183ZldJTVQzaVZNUnVxWWNmYzZ0Vi1qc0hJOGFBY3JCbUtoV2ZWRDRCV0ZvZFJHR0VqdW1FZkR1UGw5R09O?oc=5
+- **Source:** Transfermarkt
+- **Published:** 2026-10-09T07:18:35+00:00
+
+## Watch Estonia vs Iceland - TOD
+
+- **URL:** https://news.google.com/rss/articles/CBMimAFBVV95cUxONHdLUHFDMUxkcTFZSkgwb1FLeU1xTy0tNXlTUFBlbmxsNjMxZXdBUHhhcTZzT2lIZm5YdDd0akVNamhSYnpqRlQ2OGJZUkgwYlRBYVNqdlZBQ2Z4blEyRDNNcXBsRVlQOGc4Nmh5QlRRdFJNcklPVFRWeVRKUktVMW1rckZkQzNhTTA2YTVQb2s4Y1M1VFdsNA?oc=5
+- **Source:** TOD
+- **Published:** 2026-10-09T06:09:15+00:00
+
+## Crypto casinos in Iceland: how to choose the best ones to play at - Business Matters
+
+- **URL:** https://news.google.com/rss/articles/CBMioAFBVV95cUxPbkdiU2t3aXd2THBjWDg5eWo5bjNmM2psWkNxWGFXWWZ3STNSYWQxOUFYbC1DZ3E1NDZ1MUQ2QXpVWHZLTmFzOVdDd3MyNlBDM3BKbTBSZW1tSERhbG9aWDFNMDJfVnEzZ1ctSWVmbmszODY1aXFUVnp6WDNvRE1IZTNlN3VZMlE1NERjcjZwTWt6ZkRmYjhLZnZRSGNWREV6?oc=5
+- **Source:** Business Matters
+- **Published:** 2026-10-09T05:55:31+00:00
+
+## Bremont’s $11,250 Ceramic Dive Watch Is Ready for Iceland’s Glaciers - Man of Many
+
+- **URL:** https://news.google.com/rss/articles/CBMifEFVX3lxTE94U3FFT1B5RGotMUxiQkh6cXVlcmtJaHR3bzVtMldCQk5lRFNNWWRnNXRMN1RnVmRnaTFUNVBoMVZ5WmZNMVNzelhmRUt5NUxveFhvTU9sT1FEak9LTUVYbl9XbkpIMkdKLTVfWkJxa1JzNWVjb1MySTFoQ1E?oc=5
+- **Source:** Man of Many
+- **Published:** 2026-10-09T04:59:09+00:00
+
+## Mowbray ponders points and protecting players ahead of three-game week for Rovers - Lancashire Telegraph
+
+- **URL:** https://news.google.com/rss/articles/CBMiowFBVV95cUxOcURfN005SHhWcEIyeGxuN2RyTFVjMnM0RVhYZGxCSmtBX0YwRjJHYjJPNk5zTHV3ODVhX2Q5MkNNZ3UySlVDTGxocmR0b0M0TVBlc2xUR1pHRnBHM3kwSEhoS3JYTV9yOVQ0R194ZFV4VWdZSG9iS3lUTEM0STR2aFNta210ZmpxNUtLRXpEdm9XVDFnYnotMG1NUVJHRzRQcV9n?oc=5
+- **Source:** Lancashire Telegraph
+- **Published:** 2026-10-09T04:32:00+00:00
+
+## Volcanoes, Eruptions and Earthquakes in Iceland - Facts and Information - Volcano Discovery
+
+- **URL:** https://news.google.com/rss/articles/CBMiWEFVX3lxTE4xY3licVQyRmtsZHJoQnlXWnNJcnZWS3JKYjd0VzZLbTZUMnduY3JsSEE2cHZxanQ5c0ZQVXVNOE5yZ1FQZ2R1RGlha3liN1ZOS0JHTnhBaHI?oc=5
+- **Source:** Volcano Discovery
+- **Published:** 2026-10-09T03:33:30+00:00
+
+## Róbert Örn Óskarsson - Transfermarkt
+
+- **URL:** https://news.google.com/rss/articles/CBMi1AFBVV95cUxOcHFURlhFR2pLeHNYalNkeTRpa2F6eXoyNlp1TDRTQWd0MXRRMmZoMEhEQzQ1d3M3Y2VBRlo4bTVIZVdhVzR1S004V3g5MzRlVXdOTC1iZVJQRWZjSVRCa2dWNi15blMyaTdZQkd1ZzdnZ3FfM0tFSWM2c2JaUlBhTTNBdC14a1h0dUVmd3dQZjRmdW5YTTdrRHpTV0xvUFllanlCN1E5c1FpQ0RJX001UlhUcUlFNVlVWGtQTFVTUVRVNHUxcG10Qm9JaEtzQkpQeHFOcQ?oc=5
+- **Source:** Transfermarkt
+- **Published:** 2026-10-09T02:41:51+00:00
 
 ## Canadian Anne Carson awarded Nobel Prize in Literature - CBC
 
@@ -195,111 +303,3 @@ _Last updated: 2026-10-09T00:10:07.586675+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRFZjMkpEemdXWG9DN3ZvakhFM2VCcURMeUNjQmRnNm10QzZSTmJGN0x5V29TakF0amZ3dDNPRmhUTVRscDl2T3JIRlVqem1YVlYxVVJVaEdSck9lbGZhOXZLUW1sbTZSNE1oaXoxQ1FjbXJYLVVQSHFSb1YycTA3QUlyWkZ2ZDJt?oc=5
 - **Source:** Iceland Review
 - **Published:** 2026-10-08T09:30:04+00:00
-
-## Iceland, anyone? - STLtoday.com
-
-- **URL:** https://news.google.com/rss/articles/CBMihgFBVV95cUxQWDBXLU83bTBNRGRFWXlaM2dlcnZWUFpuTm1pTUc0dnFtZ0ttMUN1aW9lNFRxSC10cHlmd1BQRmNsalpOUXM1UUZyM294Y040b1lJaTQ4QUIwX1dpeDh1ZDIxcVd4MEhjalhmX0hPaDdwNG54MDA1UUFGcXdfWWMwNndhcFZDdw?oc=5
-- **Source:** STLtoday.com
-- **Published:** 2026-10-08T09:00:00+00:00
-
-## Visit Iceland to showcase new wellness retreats and trade packages at WTM - TTG Media
-
-- **URL:** https://news.google.com/rss/articles/CBMilwFBVV95cUxQTmt0ZXIxcmptclliX2ZRYXZUcnM0Tk5fbXdDR1hycE05aDRfMTN3aTY3YjVpd3VvT0o5YVpuWDEwZUxjTHhvcUZzRzhXdko2QkMwM1VCZ1NwX3UzcTd0NFN4WkphV3hmUjZLWFNQSDd5dThoM2hoNFlBUTgtTk1ZYzBIZkQwM1NOWmxEUXI0cWt1ejd6UDFF?oc=5
-- **Source:** TTG Media
-- **Published:** 2026-10-08T09:00:00+00:00
-
-## Eurovision 2003 Iceland: Birgitta - "Open Your Heart" - Eurovisionworld
-
-- **URL:** https://news.google.com/rss/articles/CBMiYEFVX3lxTE1lR2Z0UzdjeHpsNE9NV2NfQ1dwM3NPSDd2ZGQxQmpLQUxrcnBXeTlJRy1jTC00bHdQclNvOHdlc000Y2J3cDRBaWs4eU1xS2JJeDdqOWx0MDhIZVdrSWJIZQ?oc=5
-- **Source:** Eurovisionworld
-- **Published:** 2026-10-08T08:54:14+00:00
-
-## Rubio Praises Iceland as US Arctic Military Outpost - اسلام تايمز
-
-- **URL:** https://news.google.com/rss/articles/CBMimgFBVV95cUxNU3hTM0l5bnVVdFdCUTkydVlIamhkYUJJM0IwcGhxR1VyYkVvMDRMVjNGUUI5V1dfdTc3QkNXYl9BQVRmSm9ObHN4NXVDejIta2dtLUo3UG10LWl3MUxSX094NklPaDd4YmZlSWhJOUdUR1BobkY1djJkOHdZRmNoaW0wcXRHcTBCdEJLblZGSFZ3UHRnTDVsejRn?oc=5
-- **Source:** اسلام تايمز
-- **Published:** 2026-10-08T08:41:00+00:00
-
-## Eurovision 2021 Iceland: Daði & Gagnamagnið - "10 Years" - Eurovisionworld
-
-- **URL:** https://news.google.com/rss/articles/CBMiYEFVX3lxTE9OSEVzc2M5Qjl0eVZ2MGxPZkdscTZFVThQS2lrb2NNWGUxMHpTQ2oyd3I3c3ZLXzN1U1Z4WXBLamc0TUhsdDZ4cGtBckNDYWtPLUc3akFRNXVXRmMxbkZGZg?oc=5
-- **Source:** Eurovisionworld
-- **Published:** 2026-10-08T08:29:25+00:00
-
-## Watch Iceland vs Bulgaria - TOD
-
-- **URL:** https://news.google.com/rss/articles/CBMimgFBVV95cUxQVklheDFpU3hYUVVLOWIwSl9waDFRUjNhbmpIVDFpSk00OUx6d1JqT29aSFBma1oyYmRDQUowU1lINS1EeDJoSWJoMHlRN0pnVDh6Q090WW5Uai01Q0s2ekd4SGY3ZjBCbFE4bkd5VGFFbVR4aDJhUWkwY1hSVi11OE9FQkRPZ2ZJdDVGakhXNUVTX3JSUVZqN0FR?oc=5
-- **Source:** TOD
-- **Published:** 2026-10-08T08:02:28+00:00
-
-## Tesco looking for sites for Express chain of stores as new Ballincollig outlet opens next month - Irish Examiner
-
-- **URL:** https://news.google.com/rss/articles/CBMidkFVX3lxTFBVdU9mS2ZUV1JJREtzNlhzTFJsbkV1QWpmQTlwT1ZhSEFZLWs0OXZoby1lVlVLcVBxaHhEeVFUZ2tmaVFhTHdSaU15QTl3TEt5Y3lZaGg2Q2xHM3ByWklyYTVBdUNMVWlXYkJKVHJ2QVppb3FKMUE?oc=5
-- **Source:** Irish Examiner
-- **Published:** 2026-10-08T08:01:00+00:00
-
-## Where was The Odyssey filmed? (with maps) - The Worldwide Guide To Movie Locations
-
-- **URL:** https://news.google.com/rss/articles/CBMiXEFVX3lxTFBwdkNrYUs1R0h4X1ozWmt0NkNOcnl5RVRNXzNIcWZ1YmNyaGNvWHNKYVRyZlJQWV9haWV0cC12S2x1TU1QUWllbUEzLWg3cEhpc2p3VTliVFZoSHpn?oc=5
-- **Source:** The Worldwide Guide To Movie Locations
-- **Published:** 2026-10-08T07:47:23+00:00
-
-## EU CBAM expansion planned for downstream products, Norway, and Iceland - Yieh Corp.
-
-- **URL:** https://news.google.com/rss/articles/CBMiogFBVV95cUxQRzNtbnRaNTFBU0dRS1VXbGJVX1JxbkcyV08xazRhQlhzb09UQVZIb2FnTlkwT0ZmT1pETzFtcW8xcE52alQ2YWxkMmRZcnpyRHN4eVhhZWNDazJpeVJXdzFLYU9LZ2drNEF3dG1Wbk9iYzdfYVQtdDlaemYwcHRMOWN5Z1pjUFUwaHlLR2pWdFRmY2VDYzR3ZGJ6TTRSVTNwRFE?oc=5
-- **Source:** Yieh Corp.
-- **Published:** 2026-10-08T07:33:34+00:00
-
-## Kirti Vardhan Singh to lead Indian delegation at Arctic Circle meet - Asianet Newsable
-
-- **URL:** https://news.google.com/rss/articles/CBMixAFBVV95cUxOWVlZaGV6V1UtT2M2VnRlX0pTVG8tM1FzRElBYkd6bG1wWkVRcmdrVWhqSUlzcGRzd3JpX3pPTWNOVGRqYXlSWm1TLXc4dFhjQVU4YUJhZ1Uyb1cxS0RZUWRZQkpzZTBORlhVUXZtS0s2RXZTX3EwS0pMWF9KTGF0SGxzUGQxWUlWMWtHRWRZSVZESW1HZUZDZWtHRkw5RGFjR3hSQ1V1UU9ZOVJYU3FNMkhJekZWZFBfVmpBWlhFbTRrRkVE0gHKAUFVX3lxTE1pWWc2ZU5JWmhEQ2VGM1oxc2piVGM5R1FoczlOaGd1REJNc1l6RzdyLTJOSTVJaU1GZUh0cFc0QU4tY3gzVkszU24yNUc4TmJFNVA3dnpodWdSTkxac1J5azVYWmc3UXNKNDhsaXVoZXppRkZjcGZCSGtMSG9PZG1lYmhDSFFnMlUtUWZfR3drY0dVSFFINW4wM2l0Wko0RGJBVXk0aERpendxdUNDVWNZS2Q0OENEWDMwNHQtTEdBaEpEVkZFQ0k1aFE?oc=5
-- **Source:** Asianet Newsable
-- **Published:** 2026-10-08T07:00:58+00:00
-
-## Izafe Group Announces New Municipal Agreements In Sweden, Dosell Launch In Iceland - TradingView
-
-- **URL:** https://news.google.com/rss/articles/CBMi5gFBVV95cUxQbzNjWDB6Y0VKdi1RU1hfRkEzMnBxdkNUQ2IyWVBfWG5pdVpTamJlcWE0R0ZOMzQxM3RIQlRxTmdnbGY2MDVNSTJEbVBJZ0VibUg2d0oyaDVtOE5QQWpjYkd5czJVRC1IZkpDYkxmV19NaHBHOXR4bVFJUkRYQXBZNjh6MzJvMm5GOU5faWk5UzZ2bzF4Y3k5XzZGNmt2X3llVWw4QUtPRldZemtWNGRHWEtTUkxjekVMTkcwaHFDMlhYNUZhbDRkQW50dzFFNmRkcmI1d3FqM0N4dGhPT0ROeDA0Z2hDUQ?oc=5
-- **Source:** TradingView
-- **Published:** 2026-10-08T06:36:00+00:00
-
-## [Official] Christmas sales held daily, perfect for finding the perfect gift! Enjoy Christmas culture from Iceland, Sweden, and other Nordic countries with Santa performances, dances, choruses, and workshops on weekends | Moominvalley Park・metsä Village｜m - ムーミンバレーパーク
-
-- **URL:** https://news.google.com/rss/articles/CBMiYkFVX3lxTE5EX3FhOHpEcDlxR0NibUZUNEQzRWlQcnVzeE5sUnRjTE1rMzNxNVg1bHZqcm0zajdsdUItWWJDWjlJbmpJa2lYdEVTNlVEVW10TEdWdTJLazV1UWNyc2oydWp3?oc=5
-- **Source:** ムーミンバレーパーク
-- **Published:** 2026-10-08T06:30:39+00:00
-
-## September Monthly Update – New Municipal Agreements and Launch in Iceland - TradingView
-
-- **URL:** https://news.google.com/rss/articles/CBMi0wFBVV95cUxPVW9LTG9vR3BzX0pKZlZfbUlndWZfOGRDai1tVmoyNlZLbTJ3ZmFOSWRPN1ZzMTh1SE1rR09sdjVvZHJiZ2RJVkdmVHF1QVgxN2RCeWNPbm1naG5yTlpaLVNjZ2N5cXNFSWZZMUlVV3h5Z1BOaU9UWGRQQWRfTXV0Z08yYm54N0l3T29LS1d4VW1VNlk0VVdhcUpiVnFnTUpjZkQ5Rl9MaS1RVWJwb19vUk5zcW5hMHJlcVVTZTFCb0xXMVdFWlF1TFdlRjdFeEV1NXBv?oc=5
-- **Source:** TradingView
-- **Published:** 2026-10-08T06:30:00+00:00
-
-## US Secretary of State Blinken to Visit Iceland Amid Arctic Interests - Ratopati
-
-- **URL:** https://news.google.com/rss/articles/CBMiigFBVV95cUxNaTVLakJnODJxNFR1RnJ2VXgydUtaZC1maTlib1JudXhwVDdpUnE0cjJGblJxLWxzMV9UVkozdDVxXzFTQ0xBM3VjdE5hdFVSRnFhd2F4QzdTQ1N1M2drSGZsdHJrSnkzaXk4QWZaVmM5alVvWFFHUXRDdDlpZ2VUWFlBZGZCSmxmbmc?oc=5
-- **Source:** Ratopati
-- **Published:** 2026-10-08T05:23:41+00:00
-
-## Croatia vs Iceland: Women's WC Qualification Europe stats & head-to-head - BBC
-
-- **URL:** https://news.google.com/rss/articles/CBMiY0FVX3lxTFAtTmFNU1FIRHhWY2lNa3FUVzQ0cW9IMzN0enItQlRXWkhMQ1c3QTZyUHZMLWhHZWE1dXE5TG9qR0xRQkozanZ3LXZxa3ZxWUFtNFJBMTdJdzAzTVo3VFZXRHNZQQ?oc=5
-- **Source:** BBC
-- **Published:** 2026-10-08T05:00:17+00:00
-
-## Cold War memories stir Rubio in Iceland as he champions diplomacy and downplays differences - 巴士的報
-
-- **URL:** https://news.google.com/rss/articles/CBMi1wFBVV95cUxNcFV1MWtxVC00VHZZWDZNTHRrV29VTkVrcmNQejVpeDdWdndWZkNJRC1YSFk4MTJVRG9RSHlrV2M2aDdZOS1zNFEzNm5DRTJ2bVp1NGhqbVJ6eFY3OXR6Nl95QjlqQldQQ1BjQjYzbHEtQmZzNVpjTmxBX08xTVlkRm1uMGkwY2NJaXBsM2RsN19EbGhGVEQ0T3IyX09tWmxNbllzaGl5Xzc2bGk1dlJRNkhrcFJNaUdoT2ZsUXYxX0x4RGdaZ0pCUmRVWldSVndfbWNkZFlpWQ?oc=5
-- **Source:** 巴士的報
-- **Published:** 2026-10-08T03:51:29+00:00
-
-## Direct flight from St. Louis to Iceland? It’s happening soon - TheStreet
-
-- **URL:** https://news.google.com/rss/articles/CBMiiwFBVV95cUxPaF9oYnFsbFZoNUhqODZMcVBtUEM5TF82T1FJczc1Q1hEQ0ZEMzMyUkRpZ1J5MGh4ZWpXMF9TWGhMTUFTMDhaQy0zSkpUYzFPd1BUdmhnYldzNU9PYUVZOFdWMjBFY1FqWF82emlvSDhJSXNrRGc0MDhlZDloQ0MyYXpyNUM3MEY0b2ZV?oc=5
-- **Source:** TheStreet
-- **Published:** 2026-10-08T02:39:00+00:00
-
-## Oh My GYATTTT! Caked Up Ice Spice Takes Her Thirst-Trapping Talents To Iceland, Bawwwdies Fans Into A Frenzy With Vacay Yams In ‘Spiceland’ - Bossip
-
-- **URL:** https://news.google.com/rss/articles/CBMilgFBVV95cUxPMDZyTmJBaGV6MW10eTRYTV83a0IwekdsVlBhNFVyMjBSa056T1cyVEdBV1Ntd0tRRjF1LWtVVWF3aUs2NzZOdC1tWUM3UWpsX2pGY01iYTlZQU9LcGk3ZHM4dnVBb2hrM1VQcUZySWozd1p5dmc4a0F1NWNHNXEyMmE4RXdFNkZiVUVTelFtZXVPUXRENFE?oc=5
-- **Source:** Bossip
-- **Published:** 2026-10-08T01:28:09+00:00

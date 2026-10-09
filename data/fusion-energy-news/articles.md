@@ -1,8 +1,62 @@
 # NewsWatch — fusion energy News
 
-_Last updated: 2026-10-09T00:10:07.989866+00:00 · 50 articles_
+_Last updated: 2026-10-09T11:09:34.818931+00:00 · 50 articles_
 
 ---
+
+## Asia Startup Funding Week 41: $141.37M Raised - Techloy
+
+- **URL:** https://news.google.com/rss/articles/CBMiakFVX3lxTFB4a2QxdjNiaTVyV1pOTHI2SlNlR3N4RDR0SlJpTHlxWXpab2t3UkZTUzY2amMyS3ZZRTN0dHg4d09odzlERFBHa0puVkhqeExaNDBpYlU3cVRkTi1XVnVhbllXaVNxbzAtb3c?oc=5
+- **Source:** Techloy
+- **Published:** 2026-10-09T09:31:30+00:00
+
+## Enphase Energy begins shipping 3,680 W IQ Gateway Fusion in India - Solarbytes
+
+- **URL:** https://news.google.com/rss/articles/CBMiqgFBVV95cUxPcU14X3NBQnpucnVQb0YzWElPTjZUd0tpOWdEM01yQldLcFdObjVwRXRfeGxyUnV4NTVPdEljZmx2YkpESE5VRnNmWWpFaEtENnZyb3ZoX2xRTll0RDR3Ql9kVmt2ZG9HYmxIcGZYZjhvM0U3NXBKbHpnUFRtZElnWGFjT0hBQnlvTmtnNVl1YXBNMEROZXFpOC0wOHE1SFQ0QXpqUTlBM0czQQ?oc=5
+- **Source:** Solarbytes
+- **Published:** 2026-10-09T08:54:46+00:00
+
+## AMAZEMET joins forces with F4E on metal AM for fusion energy - 3d adept media
+
+- **URL:** https://news.google.com/rss/articles/CBMiiAFBVV95cUxNaFRGa3BEWW85ejhBTmE3LTRwOTg3cUpVdEI2VVUtbmRwWnl0WURPOTdLN0x3eURYYUxhQllMMGRlZUpuUkJWRklacllZeWpwT2ItQmxVdXVXenhHSFVIYVp5Sk1VU2UwT1gyenhJOFh4V0QwdG1ub1duUnllcE0xRmdKZUtoSVND?oc=5
+- **Source:** 3d adept media
+- **Published:** 2026-10-09T08:15:52+00:00
+
+## British Culham kit helps prove world-first fusion temperature milestone - Conservative Post
+
+- **URL:** https://news.google.com/rss/articles/CBMipgFBVV95cUxQUVVuNnhhLU9rZ2M1UnZtTTh2TzdBOXdQRU40S0trTDhiYzZFZHVyODhNdk5sc3dvTHdMUG42QmJiQ3JNUWhzZERHeWwyUVZFMmJNS2JCcy1qUHktNHZOeDQtUncxb3ZIajYxdk9MdTE0LTRoN3RZVUFUX2U1UTBBVEhFYnY3TTU3ZThWbFI1WkRHTjhNRWJ0YWx3NTYzMWZoTk95RVJR?oc=5
+- **Source:** Conservative Post
+- **Published:** 2026-10-09T07:49:06+00:00
+
+## Siemens Energy Backs Fusion Startup Ahead of Key Test - RS Web Solutions
+
+- **URL:** https://news.google.com/rss/articles/CBMi2wFBVV95cUxPdjZHeDhVMHVYZ0tlU1djVzNGU3ZiX1YwYWJiS2g4enhWVnBXY0dPeU1la21nVUlhV3ZBRDY0aUNub3dOcFNNNTlyYzZ3R3pBM1lfRk5BbURCUDN6MTRLTUtWRWg0bmhpSUJnTTEzLVZDWlFmMUx6anRBcFY3T1JVQ1Nmd1NOTUI4eThsTEMzRXdobmpObk52bEtnZGxMckhmRTJPNnpESlpGcWlPMDEyNl9pV2U2YXpobmFHOTZ4VGhsa2tyWkpqZlB5b3BvWXcza3gycnJPZG9iQVE?oc=5
+- **Source:** RS Web Solutions
+- **Published:** 2026-10-09T06:00:00+00:00
+
+## Reducing tritium permeation in nuclear fusion applications - AIP.ORG
+
+- **URL:** https://news.google.com/rss/articles/CBMikgFBVV95cUxPX1U3NTJ4QnZEODB0OGxSVjE4SWlZT3NZazdkdlVTTUg1UHJxeS1lM1lSUS16am9VNnFxNm1henFTRUNHVTJMdU9RRTB0UV9yU0V1LUlJXzZIdDFBUWNGczQwMjNtVktoWG8ydW1QQjhCTno5MVV3NFBQUmpiTVVBWldEakFCZjJGZk14aF90aVFIQQ?oc=5
+- **Source:** AIP.ORG
+- **Published:** 2026-10-09T04:11:02+00:00
+
+## PPPL Partners on Genesis Mission Project to Build AI Digital Twin for Fusion Energy - HPCwire
+
+- **URL:** https://news.google.com/rss/articles/CBMivgFBVV95cUxOdVVDNUFFTnV0Rk5lbUtvOTlCc2wyaC12UWlCNk5TbWVaNTZlYzBGT0RjVVFVRC15d2NsQ2hfYkwzVVl1QWNDNTV1S0JUVXlZN1I3bDd2UVJvRTNjT01QU016dUxxNFM2NzN3N3I0Zm9CUmpnUTJGODctd09XWXFjcGI5aEhMSkEwS08yMFNGU0JBREVmSHdLU0RKZlptNHFMLWFBQ1ozUHQ3eXhkNUlJaHBscXpfYUpXVlF1QnNB?oc=5
+- **Source:** HPCwire
+- **Published:** 2026-10-09T03:01:18+00:00
+
+## General Fusion Shares Gain on Fusion Energy Milestone - Moomoo
+
+- **URL:** https://news.google.com/rss/articles/CBMingFBVV95cUxQOTdSQjVDRXpaRDJ6a2ZlOWxINExqcnZ6U083WkgyWThJemdLS0xrWE5rYzYtOHdyOXBlUGJHYzg5WFI5QVpvMXQyZk81WnpaTGlNU0VIWGVwNGpyNzZHWVRWWkhZU0lKb1dWRnQyVmZ2dnVVWG5mU0JaUHdxTTBWWl9fMVI5a2dHenRJNzJvcFBqQ3hQWG54RTRFRG9UUQ?oc=5
+- **Source:** Moomoo
+- **Published:** 2026-10-09T01:57:04+00:00
+
+## Tri-Cities picked for Avalanche Energy’s first fusion machine plant - Nonstop Local News
+
+- **URL:** https://news.google.com/rss/articles/CBMi5AFBVV95cUxOMjJhR3hDWEJfVXV5VWJ2UWJNbXU3Y1Q1U0VlMmdwYVNBWkx4RVJ4Z21DWldwczRtUzhqLUdydkQ5SllJUHhtbDRGeWNOa3pLS3BwcXpTM2JERnVYbmVnc1d1LUM3d3ltQ0E0R2hhVVNTSnF2a24xaHFLblhheWRLdHhmcnhNRnJSU3lEamJ5aW1ncFJrcEJ0bm5DdEhiMEc5RmhLbkVSVzdEaVg0SW9PclJfYmFSNk42eFR1VXR2QjBfU0RyYnBlelkzMDczbFNoYkkzaW1WbHdBUk1SWTZnalNOOGU?oc=5
+- **Source:** Nonstop Local News
+- **Published:** 2026-10-09T01:33:00+00:00
 
 ## The Future of Fusion Energy & New Reactors to be Built in the Tri-Cities - NEWStalk 870
 
@@ -249,57 +303,3 @@ _Last updated: 2026-10-09T00:10:07.989866+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMijgFBVV95cUxPMnNxekpWRjJRMjBFXzdpQXo1VFMtNXlwN1kzUWJoOE9mZVlXaUk4SU9GY1hwcU9fc194Nzg0RmVaZGZJbVZLZDVHWTB0NjZCbFBfQ0U3a0VJLVZXSEtJb3VOaHc4cGp4RU9rODB3c05mQlczSUkyN01tanVHZExVb1JqZl96bE9SNlhzc1Z3?oc=5
 - **Source:** Athol Daily News
 - **Published:** 2026-10-07T20:18:47+00:00
-
-## The energy resilience challenge is growing - WP Intelligence
-
-- **URL:** https://news.google.com/rss/articles/CBMioAFBVV95cUxPZHNIVGhyc3A2WjB4azNEOWJFTWtwQnhxQ0NpZ0tmdHI0cDRvV3BkbDlaMjJPcllhUTVyNk40REpMN2c0T0JCaEFLWmZuMTRxT19UQnpERU9QSVptM0Z5R1Jma0tGTkc5S3Z3QW1fNnRqaXlXRkhXb29BdGZuTEJJUjJ3alhSWVBfemdaS2tOVEZJa2lLeXVJeEZzQ0V0czZC?oc=5
-- **Source:** WP Intelligence
-- **Published:** 2026-10-07T19:35:37+00:00
-
-## A 147-foot oil rig has spent more than 30 days turning diamond bits into an Oregon volcano for the company that melts granite with a microwave beam, toward a 15,000-foot hole that will read the heat in the rock, and the beam stays in a Texas quarry with a 33 - Autonocion.com
-
-- **URL:** https://news.google.com/rss/articles/CBMijwFBVV95cUxPQlBKQi15Sk5vd1VTSnJTeEhfSWxrZmMxdzAzcmJvZ0dRdW1GVllKSWNYVHlYT19YektKU3AtLXdpcnVRTnE3QXJJZHZpYXFqMVpKbXFuNHlNQWtDRW9hMXUzeHQ0aTU5YkdaTzVRbU91RnJVY2dJdFkxRFNQSnlxb1k4bmprSmdjTWRaZGlHTQ?oc=5
-- **Source:** Autonocion.com
-- **Published:** 2026-10-07T19:30:19+00:00
-
-## The world’s first nuclear clocks are ticking - Popular Science
-
-- **URL:** https://news.google.com/rss/articles/CBMiZkFVX3lxTE43NXVhbFRqT25QYng3NmticXVVbGVoQ1BvMlRTcmw2Z09mQXU5YlcyRVZ4ajFlbDVhNUEzZG4teGJoWVBhUTNobUd5OHd6NHMxY2JuWTE1LTN2TDk3SGhsVl9QTmpWQQ?oc=5
-- **Source:** Popular Science
-- **Published:** 2026-10-07T19:26:00+00:00
-
-## Federal approval for Everett company’s two devices to produce fusion power - Everett Post
-
-- **URL:** https://news.google.com/rss/articles/CBMiswFBVV95cUxNMURjWmg5T3FxNi1FWG5hSXlQSlFCRVp3RGlYLTcwd0h4ZjNza01ZUjM1djZBZ1hOR1Ztb1N4MjlDRU14ZC1fZXNZQnd4eWFLS05ZT191NDJucE5PVDBwbWNzNUF4SFp5cy1qU3hJSzVmaGNNTlloZzg5a25hU1hVeDRKVmpVS3RybWI4eEJZLXh2bVR3emZDYWt6MVVlVXUzZG9XWk13SEJINGlsWXFKbUMxUQ?oc=5
-- **Source:** Everett Post
-- **Published:** 2026-10-07T19:07:00+00:00
-
-## Fujikura stock after-hours at EUR 31.83: minus 3.52 percent - AD HOC NEWS
-
-- **URL:** https://news.google.com/rss/articles/CBMiuAFBVV95cUxOSFY5OXktOExSZjRJSEd4RUlPN0stVE1adVg3SVFMUUVqaENfazFiT19BV2NZOUt6QmthNGZjREZRTkpuX1FFcGlDQmpQNjVXbUs2U1pXT3cxRXluMGxSS2EtaHpKR2E1Mk5VckxLT0lhN0VTN29aV2s3Yno3UVpiWVB0Vk1mVXl2LVVRc3g4c3hTR3ZYa3VXV2lzNTljQm53TDVCYndtZmw5SUloN1haRHNxV1NEWnY5?oc=5
-- **Source:** AD HOC NEWS
-- **Published:** 2026-10-07T18:24:30+00:00
-
-## Chris Wright, Trump’s Energy Secretary, Wants You To Face the Reality of Fossil Fuels (His Reality, Anyway) - 5280 - Denver's Mile High Magazine
-
-- **URL:** https://news.google.com/rss/articles/CBMiogFBVV95cUxQUk5nZkx1dzlLdTNndi14ejc4a0kwdzRGZXJMMG8xZmFlcTJfZk0xY1FvV0FnaXB2SXMzZEM2NmhocGRfUldGc1U1ZkJDVUhMWDY0bkx6UlFlQjlBQmxOWXRmNEJTelMza1BYQ25TbkdvT0lDZS1DRFVXSHRqeE9Da1o4N3dKZXpsTElFRlBEQlRySF9MbzZXYi1TWHV2d0FDVVE?oc=5
-- **Source:** 5280 - Denver's Mile High Magazine
-- **Published:** 2026-10-07T17:53:20+00:00
-
-## How LLNL is using plasma and gas to control high-power laser light - R&D World
-
-- **URL:** https://news.google.com/rss/articles/CBMivAFBVV95cUxPQTluSzFJT0hwWWI5aXVTcUNwNGpnX2MyLUVkNmg4RWYxay1BVEtfV2RuLVFPY2ZadXhzY1lSQk5uUGZ4ZDVOVWdtQXVwelB6bVBxdWFGekFmMXl4bjJ2bFlQazQwVU5JYi1MX1Byc2RQTF9uZUtQeThZU1AyLVdmUHE1akFBRVJQWFNFTENLcXJuRkxyNXRUMnN5MzQxTUp1V0xBbEN0NWFnV2VRa2FrdFo0MV9tVFhyUEJycQ?oc=5
-- **Source:** R&D World
-- **Published:** 2026-10-07T16:38:28+00:00
-
-## US lab sensor moves underground to protect fusion plant water supplies - Interesting Engineering
-
-- **URL:** https://news.google.com/rss/articles/CBMijAFBVV95cUxQZmdZaGJuTURidmlFaGJIZ25UTU5oc0FmQWNjZVhNcGhheFB3aU9TX284Mm1vbEhXX18tNk45OF80TThTT3lEeXJJRDdwRllSazlacXdVMERidkFqYndtOUpneHdCeXZhLUhOQXBhcDNMNWxROXpic095d25PYnhEbGRNemJiQW1RaXozWA?oc=5
-- **Source:** Interesting Engineering
-- **Published:** 2026-10-07T16:31:00+00:00
-
-## Type One Raises $200M in Series B Round as Tennessee Fusion Project Nears Construction - Engineering News-Record
-
-- **URL:** https://news.google.com/rss/articles/CBMivAFBVV95cUxPS0N6NWh5ZzFxQndyR2xIa3Z0MGlwcUR2RldNbFMyQ0dHQzRSLThwMk9yNUk3RldXTFE1N0lPOXFTZEVQZ1MzaEF1N3ZuMFlUbkN6Q1U4cEt1TklqX3gyWVA3RGdxTFdSNUhoWXdGR1FkQmFUM2dDRzBZWENyX1g2TjhZRldpT3BIcGZ6RFZMaE9wY2NqSmdCeFRUSHlrR3RtdkRrNDRxWGNRN3NBRzBrYjdza1NmeVVEYlRfMw?oc=5
-- **Source:** Engineering News-Record
-- **Published:** 2026-10-07T16:27:48+00:00
