@@ -1,8 +1,56 @@
 # NewsWatch — fusion energy News
 
-_Last updated: 2026-10-08T18:32:24.102432+00:00 · 50 articles_
+_Last updated: 2026-10-09T00:10:07.989866+00:00 · 50 articles_
 
 ---
+
+## The Future of Fusion Energy & New Reactors to be Built in the Tri-Cities - NEWStalk 870
+
+- **URL:** https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdVBWQnpuV29tbE1oc0tHbnBfb1ZWVnBDQ2VxUWlnbFAxMks2RDJ3Z3JUdjhxMHViaDdVVjF0bzNCQ2c2dUFWN2phSS1zdUVxMDB5UFdsdEo0QzV0SVB5RXFaekpMVnlxdnJWMFVwLXZwem92NjYyVGpsMDc2N1NYR1YzWk11ejBh?oc=5
+- **Source:** NEWStalk 870
+- **Published:** 2026-10-09T00:03:16+00:00
+
+## TRIDEC announces partnership to bring fusion energy technology to Tri-Cities - AppleValleyNewsNow.com
+
+- **URL:** https://news.google.com/rss/articles/CBMi-gFBVV95cUxNX3lkdk5YOE81NmphdTJBRWNPQkxiWmxhUmV3UVZ3cUMwNldjU2lpNnotd3Y1UzRfN01Uc1U5ZDJHUXZPV2I1ZXMwLVBQWm5IVnVqWkZNMGFVd0MtZ2JIeGlIRFpkeGZEdGh1VlIxOXExNVZjOGJRRWNNcWo2TC1LYl9FZEdQc3BmQ3dzQnotU01uVmFuOGNqdFA0SlMwY2R3Sm85c1otS0pacS1pUExDbjZXc3J6Q1l0OWxjOGdvcUp0TUZycUhaTmI1SWJrX29QMWFRc3RuemdGaWlITmhrd04yMVVVWTExMzJ1d1BSbWZTc1FzWVk1SXVn?oc=5
+- **Source:** AppleValleyNewsNow.com
+- **Published:** 2026-10-08T23:06:00+00:00
+
+## Fusion energy developer announces plans for Tri-Cities manufacturing plant- (Video) - Tri-City Herald
+
+- **URL:** https://news.google.com/rss/articles/CBMiakFVX3lxTE41Y0QtbFZMWWFqZFRaOGlDSVh1SW1CeURGZ2M4WXYwb1FvcXZ4OTUzcmE1SU1qRVRoelc2Zlo2a0ozRFJnR0U0emRadkFfM3hZdTBiQk9UQjlDcWIwUXpOalJqVDRXWjYzeFE?oc=5
+- **Source:** Tri-City Herald
+- **Published:** 2026-10-08T22:48:34+00:00
+
+## A planned fusion factory could create hundreds of jobs and billions in annual economic output - Stock Titan
+
+- **URL:** https://news.google.com/rss/articles/CBMivAFBVV95cUxQSkVGZUtscFFFekRpcVhUdkxiM3Z6eDJUX2owRTllLVl0d2NGRmQ0YXhFLXozd3Ezb1NPMzJFNG9YR1RvTWJOUUZIQ0RoM1JwcEVJdloydXcxWk05V0JJMTFQaElaWDloTHNZRzBWTmZkdUxfeEdrUmNRNmxnLXJrNXBpUF9ZRWJtWGZaMXpFenBvNEhEXzVmS01la3BtLUxJTU1Qd1c3MTNTY1JUSk4zWF95R2xYdm9aNWlLUQ?oc=5
+- **Source:** Stock Titan
+- **Published:** 2026-10-08T22:00:00+00:00
+
+## Avalanche Energy and TRIDEC Advance Plans for First Global Fusion Machine Manufacturing Facility in the Tri-Cities - GlobeNewswire
+
+- **URL:** https://news.google.com/rss/articles/CBMilAJBVV95cUxOd3hxQlowNzZwUE8wWmx2akw5ZnFjeXAwbXVLWGp2RzFwU0tyWVdDRkM4YnRxWThtbXlUdGVSd0NkZUpGVUxENkNEUDFJOGZuZWY0RW43b0Z4cWJPeFJOYTJoWkg1ZkgzZTVfNWpzbmxKQUEyU3pJZExFcmgwWXpveTJRWVUzNUdmOTBQdFFCWnFxMEtUSjhnR0VnSC1SMkp0SUt1ZVlIRzVkYUg5b2lPczhWZEdJVXNjbW41Qk82aXlTdi1ROGMtOEZaUmRBQkZRYnlndHZQNnpHMVRkMzdxdllWSC14dGltT0xiMEV1a2FrM2FSQUtnWndrVHF5Z0tpbVp6RFptS2stQzZHaWFnenUzWG8?oc=5
+- **Source:** GlobeNewswire
+- **Published:** 2026-10-08T22:00:00+00:00
+
+## SLAC to Lead a Department of Energy Genesis Mission Project for Super Intelligence (Si)-Driven Autonomous Discovery in Catalysis - Newswise
+
+- **URL:** https://news.google.com/rss/articles/CBMi9AFBVV95cUxQdVhJdGVmQU40VFR0S1N1dklZT0k5cE9JY2VmVGdKWkdFZC13YWdNUnU5ZXJIWktKQ0VNVHdTQVNrRENsSE9KOWxZVXlHcHR4cEg1VkJrNkt0MHVweDhwVllpODFlWGdmQzdTWlRpVGdTNXFGV2Z2U2pvaUtvTGtCb0lWcGhzSk01ekwyeUEtYThNTVQ3VGxKRHhscW9OUWF0bXdDVmxQdVRaYjYzVTZVaXhQdHpuS3RKVHNTSTE1b2xMTXBadi1SQ1BvOURQdlJ2N0g0RXVpblRLSkNxdHh3eEx3YTRoQUJHZXhCaEpXWjY2TUtn0gH0AUFVX3lxTFB1WEl0ZWZBTjRUVHRLU3V2SVlPSTlwT0ljZWZUZ0paR0VkLXdhZ01SdTllckhaS0pDRU1Ud1NBU2tEQ2xIT0o5bFlVeUdwdHhwSDVWQms2S3QwdXB4OHBWWWk4MWVYZ2ZDN1NaVGlUZ1M1cUZXZnZTam9pS29Ma0JvSVZwaHNKTTV6TDJ5QS1hOE1NVDdUbEpEeGxxb05RYXRtd0NWbFB1VFpiNjNVNlVpeFB0em5LdEpUc1NJMTVvbExNcFp2LVJDUG85RFB2UnY3SDRFdWluVEtKQ3F0eHd4THdhNGhBQkdleEJoSldaNjZNS2c?oc=5
+- **Source:** Newswise
+- **Published:** 2026-10-08T21:55:00+00:00
+
+## Fusion energy developer plans to manufacture in Tri-Cities, create 100s of jobs - Tri-City Herald
+
+- **URL:** https://news.google.com/rss/articles/CBMidEFVX3lxTE5nS1phTVR6SmJ0MDB0SkF3NlJqTTJoakNqeFViNWpQYzd0SlRad0RrWXh3ZFNCRk41dDdUeWh1Mk12MDRxcy1JSkFPNXVJS1JXa2ZmWURYM0ZwMG01c3lQdzBMaHFJU2xQazJBOUFZcjZwem9E0gF0QVVfeXFMTmpXa3hNLVJCQW45Z1Ywemd2WmhIaVotdnItSWpidmIwcWRTRzVtaWNNMHQyWTZjQ0JBWWJnVGlOUjdsTlJzR19MT2MzSDRCRGoyT2NPb1QySTA5OWdTREN3UUNteUVHLUphWWh4N2ZHSDFIVmE?oc=5
+- **Source:** Tri-City Herald
+- **Published:** 2026-10-08T21:37:07+00:00
+
+## Helical Fusion Raises $20.6 Million In Series B Second Close With Fuji Electric And Other Investors - Pulse 2.0
+
+- **URL:** https://news.google.com/rss/articles/CBMivwFBVV95cUxOV1FZdE9tSHZ6NFN3X3Z2QjZ3RzY2WEdobXFqNEY2YzNEcktSR2JoYmd1RTVHV3JZUzI2TkdsSFQ5Z2pnYkdScldEdGFtWEJKeGxGYUY5QklMMms3OWg0blBKZThDNFMzRk1pQ1hEWnNBLXlqNzVSck15ZVdKTFhiSGVJalU2bE9qeGNwbFN4bC1faC1ZRk9jNkJDaC1TNFVaVm53RlJQcFpnbG9tY2VhRDh5QmcwTFdzaEVXOGYyQdIBvwFBVV95cUxOV1FZdE9tSHZ6NFN3X3Z2QjZ3RzY2WEdobXFqNEY2YzNEcktSR2JoYmd1RTVHV3JZUzI2TkdsSFQ5Z2pnYkdScldEdGFtWEJKeGxGYUY5QklMMms3OWg0blBKZThDNFMzRk1pQ1hEWnNBLXlqNzVSck15ZVdKTFhiSGVJalU2bE9qeGNwbFN4bC1faC1ZRk9jNkJDaC1TNFVaVm53RlJQcFpnbG9tY2VhRDh5QmcwTFdzaEVXOGYyQQ?oc=5
+- **Source:** Pulse 2.0
+- **Published:** 2026-10-08T19:51:52+00:00
 
 ## General Fusion achieves technical milestone in plasma heating - The Globe and Mail
 
@@ -255,51 +303,3 @@ _Last updated: 2026-10-08T18:32:24.102432+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMivAFBVV95cUxPS0N6NWh5ZzFxQndyR2xIa3Z0MGlwcUR2RldNbFMyQ0dHQzRSLThwMk9yNUk3RldXTFE1N0lPOXFTZEVQZ1MzaEF1N3ZuMFlUbkN6Q1U4cEt1TklqX3gyWVA3RGdxTFdSNUhoWXdGR1FkQmFUM2dDRzBZWENyX1g2TjhZRldpT3BIcGZ6RFZMaE9wY2NqSmdCeFRUSHlrR3RtdkRrNDRxWGNRN3NBRzBrYjdza1NmeVVEYlRfMw?oc=5
 - **Source:** Engineering News-Record
 - **Published:** 2026-10-07T16:27:48+00:00
-
-## ITER Receives Final Vacuum Vessel Sector, but 2034 Dates Hold - Discovery Alert
-
-- **URL:** https://news.google.com/rss/articles/CBMilwFBVV95cUxPZ0hQUlhDS2Z6ci1hZG1UU2dDVUJLTERxZkI1c2N0SzVvSlJDSTlyVjUyY0JsUFNhXzgxa0puMjRrazdXSDJIQTJhYjZYS3JKMS15N21udDhWby1maU5DZmVOWHV3a0FfREVfU2dBR0Fvc2RoemlCTFpVMDFObVBUMUdmQVV3YlUzY254a1NEV0xrWFl3ZnVj?oc=5
-- **Source:** Discovery Alert
-- **Published:** 2026-10-07T15:57:06+00:00
-
-## Analyst Says Standard Nuclear Is the Only Company Shipping a Key Advanced-Reactor Fuel - Benzinga
-
-- **URL:** https://news.google.com/rss/articles/CBMi8AFBVV95cUxOc2F1R3M1LVVTTXBBMFd1VnZuWDRGaWJ6SG1USk9zZXpOV2FGbHdrbFZnUU1LNjh2NTJsSHVSdXpXREJ1YXZyQ09KcVJQYjJZalJsV1NDRjVpUFhwYU4wbG1SbXp0UHBydl9UTjhybzR3ZWJ5eTVuWXA5R3hDX1R2UU5hLWZKdkNudjg5ek1henJ3Um9oa2pzV2pmRF9fTklEVEpDLWl5X1ZiVFZRaXhjckNiVV8yMEJsTFFwWG54bktQNnhpaUdsdHNXUHZRa0J2MjZmQjhUaURITjNkQUg5ZkJZZENGVzZndDJQb2poN0E?oc=5
-- **Source:** Benzinga
-- **Published:** 2026-10-07T15:46:19+00:00
-
-## Type One Gets $200 Million for World’s First Commercial Fusion Plant - Tomorrow's World Today
-
-- **URL:** https://news.google.com/rss/articles/CBMirwFBVV95cUxOWVpMbXN4ajd3dUJvZUJJMno2bFhjT0xsS0ZlemotR0Rwanp2QWhnalg3RGtZb3Jzangzc21XRDVwaFdhd1VLNUJjRGJCUHNlemxxQjJkRmZBaDRHZWMyOWk2MUJudGRjcm8xZkNHa01Xa1EyS1huR1g2ZlotRG43TERxRDBzc1MwUzNRLVdEUkFxdkdIVGlrb0pxOW9Rb3RCMjhGTGRLMmNPWHlnYjZR?oc=5
-- **Source:** Tomorrow's World Today
-- **Published:** 2026-10-07T15:39:19+00:00
-
-## Scientists in Vienna and Beijing create world’s first nuclear clocks - The Straits Times
-
-- **URL:** https://news.google.com/rss/articles/CBMirgFBVV95cUxQQmE5SUJSTTJ4NUpqSUl6UEIwcFFoeEJTOWhBb21MUTJQWDFfcFhER0FER1lfSWNLS0tyenhGQ2MzNlRTZnpMU1V2S1ZZRi1CR3BPZmFZN1ZIZmlSem1kZi1QRzlLdHJlUWhVN1IxQTVaZmpybnhkNHUzMU1UekJsSGxwcE1jVExsU2Z5dXJTWC1TUGlNNnZBU0NNMXVUMTQyckp5OFRZSjFnazFhdHc?oc=5
-- **Source:** The Straits Times
-- **Published:** 2026-10-07T15:35:00+00:00
-
-## DOE Science Committee Draws Concerns Over Limited Expertise - AIP.ORG
-
-- **URL:** https://news.google.com/rss/articles/CBMiiwFBVV95cUxPWHNNaFNJYWJDcy1yM0pybXlmcURIdDVQdjBfQWROT1pNYUpGTWk5dkgtVFdNYXc4M3dua2VKYkYxc2Q5cTNudmlqT2d2U2dSN0JyM1dQMEdnOXFoRHZyblVNazBaekh1NTB1OHVYbjlfdGV3WkwtRnk4UllZeG5HTUNwekx4czN0MlZB?oc=5
-- **Source:** AIP.ORG
-- **Published:** 2026-10-07T15:34:39+00:00
-
-## ITER welcomes last major component needed for core machine assembly - American Nuclear Society -- ANS
-
-- **URL:** https://news.google.com/rss/articles/CBMiqgFBVV95cUxPU2hCQ18xZWpsOTJveG9wSlUtNEw3R3Y1eDNEYmxRZzl6QjB6Q0gyNllLakVxVWhNcUpybE9mQ2FJYmYySkRveFotRHV3RHhJZk9sZXd6S28wbXdOamRGdFFJSTFLMFh4OWxfbV9VU2pNV3hOYU1PNFU3cUZIT2E1eXA3QWZUZmVabUhrd0JCbUtHSnFScHFjSzNCRkdfbzVBazdiQzVQMDlpQQ?oc=5
-- **Source:** American Nuclear Society -- ANS
-- **Published:** 2026-10-07T15:30:23+00:00
-
-## Xcimer Energy Secures Additional $30.5 Million DOE Award - Pulse 2.0
-
-- **URL:** https://news.google.com/rss/articles/CBMigAFBVV95cUxNb3pQT1lUTFZ4NVlkeDEzQjRFVXZPMUpobHRJQTJfcl9wcEo2RHk2YnlveHVhcWhUZ3N1NUdkWklYR005R2dSV3VlSDhxWDFyd2tnQUtTRFpRNGo2aWU3eVgyb3F2SjVyXzNvY2pGZ3pUN0JiRWRqZHNxQ0tDU0V4S9IBhgFBVV95cUxPOEFLc3I3WndUcThYOFVQRFV0RHZLZzRfUG9SV3BrTFVfOUtKclQzakpRbVY1SHNORFlwRldiZW1yend3bTBFMU93cVpvRkxockdSd1pNclhkMi1POFpWSm5iX1ZGeDQ1VE9rbGRjMGNIY3VJWW5sTW4zSnIybjNGQkVkWjhJdw?oc=5
-- **Source:** Pulse 2.0
-- **Published:** 2026-10-07T15:20:36+00:00
-
-## SpaceX alumni nab $100M to rethink shipping with autonomous freight trains - TechCrunch
-
-- **URL:** https://news.google.com/rss/articles/CBMirAFBVV95cUxQVXAxbUF0WERKUWE0bVNDaWdJVlNnZm41OEoyWmhZLTFYeWVZRWpPSmVyaUhBRGpCaGRwS0RRUjBBRU5RbDc4ZDU0bnpQWHFkZGJEcUlvQXVPTlBhZ240T25DVzhST1hsR1BtekRGZDZiSTVqWkFBQ2QtOTc2V0Z3bElNSzFzX0ZJVlZLTzFSZnpEeWdaTmVobzNwWU5iQVRmeWgxSURUODkxWmxK?oc=5
-- **Source:** TechCrunch
-- **Published:** 2026-10-07T15:00:00+00:00

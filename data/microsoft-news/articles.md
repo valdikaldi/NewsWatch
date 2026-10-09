@@ -1,305 +1,305 @@
 # NewsWatch — Microsoft News
 
-_Last updated: 2026-10-08T18:32:22.970742+00:00 · 50 articles_
+_Last updated: 2026-10-09T00:10:07.054411+00:00 · 50 articles_
 
 ---
 
-## US Suspends Permanent Residency Program For Microsoft, Adobe And Other Tech Companies - Engadget
+## Trump administration suspends Microsoft’s use of green card program - KIRO 7 News Seattle
 
-- **URL:** https://news.google.com/rss/articles/CBMiugFBVV95cUxOVzFJU2lMbmM1TjNWWlRjODdBdkFPMlJaQ0FYN19IZGtYNVVmdHdRU0V2SXBZVGNnWXp6clJUY3F4bzNVcFFpbVNrZzRXdkJ3T2p5c2hwSUxJN3lZRlJZOXY2UWFZU3pzX1NMUm9hMnR5SVJGeHh6NldkUk55eTluSGZnRWdIR2ZPakZ6WnBRbkRsNENWNTZ4S19uVDlMdm42SmVfV3NJWEZJdk5jdEw1YzlwRHYyS2k1WGc?oc=5
-- **Source:** Engadget
-- **Published:** 2026-10-08T18:23:00+00:00
+- **URL:** https://news.google.com/rss/articles/CBMiwgFBVV95cUxPczk3alJRR2hIUkNTWm9kTjVkZDBScV9LV28zbTNGdzNZVWV3cFBSMDNFVnctYUdGNnNDSzZMSTg4SzlvazB3SU5WU1hBUkY0dkY2ZGhTUWJDSGRhZlAzUWRUbG40R1RVUmYwUlNGMFAwS3E0dzNNQUZzVFJFRl9VOWFwSnRyRW5tS1JRWVo0bnZGeFFsT2FGZXpWU2psQ3JWMWRqbnZ0azQ1ZGs2RFpDVHZTYUxxQjQ1cXdfOTNVVHZjd9IB1gFBVV95cUxPR3RrOENxdlZ1ZGNnQU1GVmQ5aGN3TnBmOHp5SFRoYzVLTmxCaGNMWHJZQ2VuZEE0dkxDSzl6RHA4OEtCcUQwOFB6VzUzSWdNdHFNZUhOWHhzMm9UdUJTaU5EeHN0emtFekItZEhOTFlPb2ZwYldSY1p5TGZZQ3p1SXdxWmxYWVR4dWl1QmdDUFI4dmo1dTdjdlM3TVk5MVlQaE93UGNISGFINk9vWVFTd1RtaTAwU2NjbENCYkxkVFhaMnhLMGotb3VCWUxRSWtDbVYxa2ZR?oc=5
+- **Source:** KIRO 7 News Seattle
+- **Published:** 2026-10-08T23:55:04+00:00
 
-## Trump plans to honor Microsoft’s CEO after Vance drops an H-1B visa hammer on the company - Sun Sentinel
+## Trump honors Microsoft’s CEO after Vance drops an H-1B visa hammer on the company - Marin Independent Journal
 
-- **URL:** https://news.google.com/rss/articles/CBMijgFBVV95cUxNQzFFTkgta2dtMXlFU3MxS2Z6RVU3Mmc0a2ZBb0VXZ2U2WWhndnhpQU9nUWpRa3JaWUtOb3FRUnJSR0N2ekFaNXFHTFBjd2V6dWRCZE9zbVBsZGdBRFcyRWFJN1hzbjloMEx6NlMwZVdyQWtlX1dZWjJ4TnhtNHVMMnEwNlUta2NVeG9PemJ3?oc=5
-- **Source:** Sun Sentinel
-- **Published:** 2026-10-08T18:19:11+00:00
+- **URL:** https://news.google.com/rss/articles/CBMihwFBVV95cUxPejJENWJpa201alhObGkza05aTlpmN3dod3ZHZWU0VDNfRjJUaVgyUDNCRmF0MGV4WHpvRHpibHlpZTdIdF93eDk1RnAtb2p0a1luYzBISFoxWURiVlcwSlJzSW5zWkdBRWdhbnItOV9mUm1qTW1ERWl2RVI3Wmc5WjQtdEt0VVU?oc=5
+- **Source:** Marin Independent Journal
+- **Published:** 2026-10-08T23:18:46+00:00
 
-## U.S. is suspending Microsoft and Adobe from the green card program over alleged fraud - Quartz
+## Huge Update for Microsoft Stock Investors! - The Motley Fool
 
-- **URL:** https://news.google.com/rss/articles/CBMieEFVX3lxTE5xTEc2WHNtUlF0YjRMVV9ZV1dFTFp3MEd5UFJJVGpPc1lkQ3FXbWY1bmIyaE82eVRkUkE3a0lzOExtT2o3UFY3MU9xWDQ2akVkUnFBb0ZjWnkzX2lUaDlCUnRrRldXOER5dWhjaks4ZTFyek1jN2tLaw?oc=5
-- **Source:** Quartz
-- **Published:** 2026-10-08T18:15:12+00:00
+- **URL:** https://news.google.com/rss/articles/CBMikAFBVV95cUxNaFZudWdBemZCaTQwdXk4MmVOenBvTE1GUlhuZUp4QVNCSk8yeGZOV2ZvanEtRndvcnhOdlg2THNXSWtFdGV4TWU2U0ZOd0FIRzBCN2ZIMjJKeU1icXdzUVdEZlBUS0FfMXZjZHlxZmR3c2FqVVM3VGRwRHQwdUJ6azcwOS0xa19GLTJNSGNXYXE?oc=5
+- **Source:** The Motley Fool
+- **Published:** 2026-10-08T23:12:49+00:00
 
-## Trump's foreign worker crackdown comes for Microsoft, Adobe, IT firms - Axios
+## Shafaq News..US suspends Microsoft, Adobe from key green-card program - شفق نيوز
 
-- **URL:** https://news.google.com/rss/articles/CBMioAFBVV95cUxOTHBUeWVBdWg1NlRjbm0wVUJSSFlGeVRMczI1UjNTNmFPUkVfVHpCVzRZVjM1ZHFMQlBoV3I0a21LY1JLaW1QWDNPMVFSYnpDSm0wWW1pVUJyWFhFc1BLdUg2WTRXbUNLMkdDd01zN280U0EwamFyS0puZllkMFRQOHA0Q0l4Wjl0VjJmcml3Rmc3Zk12Tm9ndFlzclRRQzE2?oc=5
-- **Source:** Axios
-- **Published:** 2026-10-08T18:13:38+00:00
+- **URL:** https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZGQyTldGcWk3LWtBblotRHpaYmh3LVh3NldGTTQxWWk2eXItR2UwSlZPaFNvckt2TTNHRUpfd1RpUjRnRWxGMFF4QU1iVEJRR09JbHcxQ3Z1d0xKdmJDVzZXbXZxREVvNS1jQzFheTluTXNjVEsxdWM3OTV3aG11dDl3MVlWd1ptaEJz?oc=5
+- **Source:** شفق نيوز
+- **Published:** 2026-10-08T23:00:04+00:00
 
-## U.S. suspends Microsoft, Adobe, others from green card program, cites abuse - Investing.com
+## Microsoft disputes Vance’s math on hiring foreign workers - The Seattle Times
 
-- **URL:** https://news.google.com/rss/articles/CBMivwFBVV95cUxPWjVGSkRiS1pPU0lKM0dzeHliX3VlaXd6SjJ2MEtYdFNHbmFUS001ZFVPVER0azZ0a1B4MldKQ09YSVh6Tnk3b1JzcGNMcXMzNUdfdlBOb3JvcENBVmhsQjBSWEVacmxiTGtaMGcxOXRkcGdmOURzNUdLeEFkc0lZNEp2T2FJcExhWXpYYVBta2tYZVBwV1Y3eVByZ1JMXzlXNWoxUHJKY3N5dmV5S1F5X3FoWWZlQ3Z6eUpYSjUwVQ?oc=5
-- **Source:** Investing.com
-- **Published:** 2026-10-08T18:11:33+00:00
-
-## From Vatican archives to Microsoft Word: Michelangelo’s lettering lives on - Microsoft Source
-
-- **URL:** https://news.google.com/rss/articles/CBMivgFBVV95cUxONHFBSUFyMXJ1VnJneDRIbU14QVRldTJUa2RpRlQ0aHg0U1hBbHNRa3p5b1BaQlpaWk1heGVQNTNoN19aUXZsb0YxZVRuNlJVQ01UM2Q5M1RBZi02M3F6VEIyelhCanZEcUZaRnN0OUhjUTBfdnZxczhoay1iVnNFZ3ZrN2JITHl2RElFQ1UtTUw4MXBUMVpiQmR6RmZWbzloSUxfaF82RjRjdHhIc0tyUEsxd0w4bXhpYmlVMDF3?oc=5
-- **Source:** Microsoft Source
-- **Published:** 2026-10-08T18:07:02+00:00
-
-## Trump administration suspends Microsoft's access to H1-B visas - Game Developer
-
-- **URL:** https://news.google.com/rss/articles/CBMixwFBVV95cUxQZDFORGhUMEFwdGVtdEdIZ2tBRnNNZ1E5S1d1MVJINThVQXdTLXJJaUdVYTEzNWVCeHQ5SVNsSktRUHdrTXdwekJqaHBJNUlhSGtJVXkxOGREYUNMMTE3WVRraGVQSDBlLVFYWTFsZ3pJR0VfQkVsOU42a0JWR1FhZEVqRnZvYmhYQmZFaV9rcmgwUlZoMW12bzdwUFg3d3hUb3JsNDgwT0MyQUhNbTRneWFyQkM2dzJnX1o2U3dpUEFVS0RnUnpJ?oc=5
-- **Source:** Game Developer
-- **Published:** 2026-10-08T18:05:37+00:00
-
-## Microsoft responds to Trump administration accusation that it abuses foreign worker programs - LinkedIn
-
-- **URL:** https://news.google.com/rss/articles/CBMipAFBVV95cUxNcTA2eVBvVmV4YThtQUFSTjhSMzU2bXFTc29CMzdERGdKUUFDOGlpUW44SmthZDRhckNuSUtRVkVxS3k5Z0k1dG83TWxvajlRbFd5NHZTY3lBMHNTVlpqWlhHMWZSRGp5TkhZdHBEcVJtTWd1S0o0dTV4MFJBaFU2dEs1ZjRIRExqT3NacDEzRUVTTm5QX1BHeGR2QWk3bGcySlRPOQ?oc=5
-- **Source:** LinkedIn
-- **Published:** 2026-10-08T18:04:35+00:00
-
-## Trump admin suspends Microsoft from Green Card program - NonStop Local Billings
-
-- **URL:** https://news.google.com/rss/articles/CBMizgFBVV95cUxPeS1sSU9ObEVVRU13TmRBbDVqYUVDWEJFb0txVmZEV05TXzV0X1F6Y2tSXzRvWEFhT282dFhKQkxMcDQ3ZUZ0aUt1S0RqeHhBN0d6cWdYRjNabWdRd3dVZ0h1WDVOX0dCZjVxSkN6MURXMWxlRUQxTjRHVkViUmVnR0Vha0Mwa1dScjB4SlBTVWkzVXhUYjlhV0lGZkc4ZjFSYXFFMlhrVUdZdU9JQWJJZGRoSlpPeWJsLWd3cF9IWEF1emFYVVF4QXdOaFdKUQ?oc=5
-- **Source:** NonStop Local Billings
-- **Published:** 2026-10-08T17:58:00+00:00
-
-## Trump Administration Blocks Microsoft, Adobe From Green Card Program Over Alleged Fraud - Law Commentary
-
-- **URL:** https://news.google.com/rss/articles/CBMiigFBVV95cUxQQXVUVHRmdXFwYjg0NE13TTZCT3VwaWpNa0R4cnQ5aE5TaXJ1ZE5NZkdINHMtRmY5VF9TX3hQZUlEZ0hRU05CWUtyR3p4QnJSNkF2OWpTTG9peHR6cHY1YWhVeXk3d0ZkUGV0WnFxLVpoMUtxLVJ5UXBnMU1kcWtMWEtGSHJvRWMtcFE?oc=5
-- **Source:** Law Commentary
-- **Published:** 2026-10-08T17:49:34+00:00
-
-## Trump officials block Microsoft’s access to program for employee green cards - The Washington Post
-
-- **URL:** https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWWxEWHVLM3hrdWRUWEVKUU1iWUV5Q1pWMU9qVFlqSmEyaldsUHhKQmE3Vm0zM24wRWI4a0RfQWdBUTVZMEFkZVdSUzFWbENCUWRJY0JtUU9kRkZXcXhvTnlST3RNd005N1VTNl94YVc3aFIzckltOHl0MVl3a2ZveHZJT0NKTmJTYVNPMGcwZUNuQXBTSnJHNVIxbTE1OW9wV0YxYTlUck5fdXg1NlJHbk1JQmYxam53MldLYmM0Vmc?oc=5
-- **Source:** The Washington Post
-- **Published:** 2026-10-08T17:48:54+00:00
-
-## Microsoft responds to Trump administration accusation that it abuses foreign worker programs - GeekWire
-
-- **URL:** https://news.google.com/rss/articles/CBMiwAFBVV95cUxOY3NETExETWh2S3l5QW1RZll6T182Ri1LSURnN0EwQUZHUEtJQ1pvbTA4T0Zvb3VnY0JtaldIYjRzWEJ4QTF0RVlHb0FHU01wcldKWWM0Sl83R2lLQThMcUlJYXktN3A4MjZOWE8zOFY1LUJ6eFJ0Q01sLWs2bXJxR3FoZUdfbmdmQm9NT3RtQWxVb2pfR3k1LVJvV0RNS0xhVG9qcnQzMnZCcTRHcVdMWTRSbGtya0N2Qnltckp0WXI?oc=5
-- **Source:** GeekWire
-- **Published:** 2026-10-08T17:48:31+00:00
-
-## Is Microsoft Stock a Buy After Expanding Its Nvidia Partnership? - Zacks Investment Research
-
-- **URL:** https://news.google.com/rss/articles/CBMipwFBVV95cUxOdEQzR1FoWVpHUE5PZG5BQWhRYnI5b1QyQkNmZFNESDR1NWpWam10eDVDUzJwcXlkallFTkdKcWVvSTBQbnNqU1NxM0REczZMemRYY3lVQlZIdGEtNUgtdmszNGNia2lxZzk0MUU4eUloUkU1SlBGcVgyeF9ramRHQ0NBc19LLXg2Rm41b3BMczlmQUlSVHctbTF2NGxKSWNLU19od0tiMA?oc=5
-- **Source:** Zacks Investment Research
-- **Published:** 2026-10-08T17:46:34+00:00
-
-## Why Microsoft’s H-1B Issues Are Sending Infosys Stock to Near a Six-Year Low - Barron's
-
-- **URL:** https://news.google.com/rss/articles/CBMigwFBVV95cUxOdEZidUx5akhnZVN3a0o4UWg1d29HNUtqbUZfX2NLSjlJQU1IOGRvN0dDSDJfUkFaX3BXYjczbVdxbUo0cG50eTV0eUE4c3Q4eEtBRDRaa2Q0WkxhS0hSblRCWFZnLUlRLUZMQmNnT3dMWXFWWDdJdDIyTUdmN1hYRHRtYw?oc=5
-- **Source:** Barron's
-- **Published:** 2026-10-08T17:42:00+00:00
-
-## Trump plans to honor Microsoft’s CEO after Vance drops an H-1B visa hammer on the company - WKMG
-
-- **URL:** https://news.google.com/rss/articles/CBMi2wFBVV95cUxOSHUtd2tycWZXNnRqWThKTGREbDRWU1BXaU1aUnhBZnFQem9PYUFEak9hMGN2V2Vic0dUUDhUWlFyQ2g5c0QtYTlsV0xRTldWNkFpaTJqVXFyRC15ZzlmaGNpcDBDQWJyN2lMNVFZZjF0NkROemNLbHdBdmYwLTNhVzQ4S3ZfZ05WYS1XaFVBNndjZDNfSXZlVDRCS1dQYW1ZSzRuNVdOWEpncEtqQkhnYUFBYVdwTFI2QzBwTDZnS1ZkVjV2REd5cVhoOWVIR1ZXbFV6RWt6bVZnY28?oc=5
-- **Source:** WKMG
-- **Published:** 2026-10-08T17:38:26+00:00
-
-## Trump plans to honor Microsoft’s CEO after Vance drops an H-1B visa hammer on the company - Bozeman Daily Chronicle
-
-- **URL:** https://news.google.com/rss/articles/CBMihwJBVV95cUxNakV2bVlkRVRoMFM3S01tLXd2Qjl0bENTa19JVm9KTUlRd3pmUDgtT1FhNU5tbzJuMTVPOXlyV2V1Ykl2YmZuMzNSN3ZZLWFpbFMzcm5ETUs1Z1gteVJtcThzTm56b29VSVE4a20wSDlXVDllLXpKU2h3UnZMcXdLMGI4M1ZoTVE4Q05zUEh1SzV1Y3ZyYk4zRWVORTFDT0V6YWdCeUEwTnFCOExUYmgtbjRHQVdqdW45VnRILTdyT3dZSTdrd2MyOHg3Q19HMEljZ2RtdTBWU25WT1NTM2JmT1pMc1lQbF9WV2ZtWmlYV2dDb0tIMHdMcU9DbUVYTEJ3Y0hOa1E3WQ?oc=5
-- **Source:** Bozeman Daily Chronicle
-- **Published:** 2026-10-08T17:38:26+00:00
-
-## White House suspends Microsoft, other firms from green card program - Central Oregon Daily
-
-- **URL:** https://news.google.com/rss/articles/CBMi_gFBVV95cUxQdnZHVUhzWGl2R1VqeEJJaF90UDE3dFRZczNMVFh2VTZZOHFSRmJZSUVnTm8zVGhEQ0IxTHBUZlNiODdWV0h4ZE5mM0tBUTF5OUREdXE0VURZY1YwRHRCekNuMGlwM2doNmNuMWtKM3c3czc0akp4UXhQVE9TN2NzX0VDZlNsUWl0UDZpOF9LQTMzODFFZXoxVFVvbi15VjNZbGZtQmN3X3RqV3FqdDJEbjVMRERuSElyMXVtdTU5RTFRR3E3RlhFbWdJQ3E3SG9kQ0h1YzhiTTZNUUFLOGZFTXNZU0N3UEdMRDBNV1daQU5Za1dhdFJJNk5YQkhYdw?oc=5
-- **Source:** Central Oregon Daily
-- **Published:** 2026-10-08T17:37:04+00:00
-
-## Microsoft's Surface Laptop Ultra is an AI supercomputer dressed as a laptop - Mashable
-
-- **URL:** https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1aWnhreUhIY0NHMjVRZlVRN2tjUnZnYl9OWEh4TFNnR0hMY3htR2JaSzI2eEYzek1mS1ZXNnFJbXFjYjVjcmFBTjlVNFNKTVVUenJxZ0ZadFFXTmNWemt5MmJQZ2pQRlk?oc=5
-- **Source:** Mashable
-- **Published:** 2026-10-08T17:33:49+00:00
-
-## Microsoft created a magnetic USB-C port, and you need to see it for yourself - Mashable
-
-- **URL:** https://news.google.com/rss/articles/CBMiggFBVV95cUxNcUFjUzdaQkRuTndmem1IYXc1ZUo5MldsUngtQVhONDFVZWJsM083THB3a2VJNVF1RnBEaVBKM2dxU3BFU0lIU3Vwc0t2dWMycFhnNGItM3BkdmdPN25FV0lEUHNQVDJSNGlOQjBxMFg1a3hmMEUzak90UmZKNERfMHJB?oc=5
-- **Source:** Mashable
-- **Published:** 2026-10-08T17:33:49+00:00
-
-## Trump administration targets Microsoft over foreign worker visas - Yahoo
-
-- **URL:** https://news.google.com/rss/articles/CBMipgFBVV95cUxNOWJva0xMczJFQlIzZUZLVUdaU0NRb2JzNGN2VFJfUlprWmhGblhLU1hIZy1qY2ZaYUw4cFNPV0xnRTA1N2hqbGVBOXc2ak0zcGs5dFR2dnQ5NHBEem1pRWdTQXh3NlhKRFhua0pjMFBTNWtFR20tM0d3LWp2eEU2SU0zUjlyeHVtdE83OThwcjlkel81Ql9HeEpQSWxOdlkxa1RYYU13?oc=5
-- **Source:** Yahoo
-- **Published:** 2026-10-08T17:33:36+00:00
-
-## US suspends Microsoft and Adobe from visa programme amid fraud claims - Al Jazeera
-
-- **URL:** https://news.google.com/rss/articles/CBMiswFBVV95cUxOaWRMWUgwNjhseFRmckpXRXo0Ymw3OTZfbzh2d2xaa2pDQW85MlRpXzFzVXlNM0I2QV9hSERvTzVWdWd4Nk1COHNIY1M2WXowaEtOeDUxeFVzUU43cnZFS1RPM1VBb0Z3UWtGUHZWbnFmNFR3dWhEd2tTUTJueUFaYThVOXpTaUFwcWZJTEdBNFBXeE43UlJlOXZsVllXMGlQRklwU1h0dV9neXMzRE5IbnFWONIBuAFBVV95cUxONVZvejBXSzhzUFplXzY5SVRmczgzVTc3dUtobWhsX21lM0ZVaEVZbjdDbXMteWVHRXI4NGlpUVNhUTRxcEpreXZRVmJQRjlSdkVHNlNpdm9zNnVZNGg0RWVvcFA1cEsyV3EtYTN1aVZxMFhzeTF1VVdJUU5CakFFR1haV25QaTRfY1QtZDdrZnNnM0NGeGVfSTVveTRSbkFWcDJfNThRMGpJMGNGNWpiMnNWLWFuZ0hP?oc=5
-- **Source:** Al Jazeera
-- **Published:** 2026-10-08T17:31:05+00:00
-
-## Vance Says U.S. Will Suspend Microsoft and Other Firms From Green Card Program - WSJ
-
-- **URL:** https://news.google.com/rss/articles/CBMivwFBVV95cUxNaWZKb2JURTJteGhJSGR0RUs2RF9tTEhZcFdvUGwyZ05XNzVGajk0dHEyRjRBNGpCRWhXaTRLWFp1VXVCaUpzZFB2UTNoMkRMMU9xVnlRM1lobE14X3IyWldkSEJ5MlN3UnMxZGlobjJmN0duOFNJdlUzRWUycG9ZMTF5OE1CaEhQLW9CT1lvWmdGeEtnOUtmZUZwX282bWw2OFNmRmlUTWlVbENDM2Ffdk9nMTJsMk1RNUtQX2VjOA?oc=5
-- **Source:** WSJ
-- **Published:** 2026-10-08T17:22:00+00:00
-
-## Why is the Trump administration suspending Microsoft and Adobe from the H-1B green card program? - Clarin.com
-
-- **URL:** https://news.google.com/rss/articles/CBMi3AFBVV95cUxONmwyZk8wNllObjV2UzZLVk5YU3ViZGFMVE8tRVN3VFB5MUpVY2p2LUFRNndGaHhMbG1jNE9XWVFEWVFUZk5TQlB3V2tsZDhMdUNPRjExU3l6S0hkZ1RxSzAzWlZpeDZ0VE5LcUFOdVprb0RPVUF0eC1waFYyWW1QUTdNMnhJLTRyQjJpYW9rekRocjJZcVRfSGl6d3dyZThKWUVWblNuZWtuS3NHd0NtTkNQQURwNXlOTDNKNExwRm5jU3MzWXJaZlBLRkJXdUVLaTI0bHJwTUxZaHY00gHiAUFVX3lxTE9GT0xxS3N5cUJqcmVySTlKeHF1OHJCb3N1eHZpZlY1VTZ1NFlaNm40RDVneUlzZzN0SzhUNmlnXzJENkh3bFhReXBHRlAxU2o4bFRxRncyYkVkUWJkdWhoczRXby1FcTg3ZW80NmR2cUxoTkhDTkFTOTZDSU96NDQ3SGFqcWRfWTRmYlYxeXhfc0FTbDNYblVjRVllZHc0X3ZkMHFiRnlZVW1EZ1FyVU1yNHRVQm4ybUZBbnFRVHBxYmhtUV9UT09HemtJTFl5eHpFdHlqNVZRYmREeFlYWmJXdkE?oc=5
-- **Source:** Clarin.com
-- **Published:** 2026-10-08T17:19:36+00:00
-
-## The Trump administration is suspending Microsoft from a green card program, alleging fraud - AP News
-
-- **URL:** https://news.google.com/rss/articles/CBMilwFBVV95cUxOSlNGOUJHbkJ0UXdETE9EUWMySjZkMWVzX3V6Ny1yNlc1Ym4ydmx5NXY2UEJyak1mNVROdkRqOTNGY2kxT1BrQUwyYVRzSmlDNlVIa0xnenNUM2cyWjg2NTd0Rl9seW1JOVFuRHczVk93M2RkOWdDOUV0Sl90WjFJeEZEeWNTUFFvNkNkRU81alBOWlltQ1VN?oc=5
-- **Source:** AP News
-- **Published:** 2026-10-08T17:18:00+00:00
-
-## Microsoft suspended from applying for green cards for H-1B workers, JD Vance says - The Guardian
-
-- **URL:** https://news.google.com/rss/articles/CBMipwFBVV95cUxOa1FyQzhaeDZodkJOeTJFby1fSkNEczlIV2YzSExmZUNkdlpwZ0ZMcFp5cnhjNkNOT1BkNlBxVU5EeWRiOHkwd1MzNmFwZ0g3bWMweXU4WFRfOEU5U0lER3NJdGdRNGQzekYyWTBVbWdoaktCLXJBSTJEZ1l2TFh6ME9SVUFJSTg4UThHek9zRkdTYURHZUZua2J3UWsyUnpzOHEwYVlXQQ?oc=5
-- **Source:** The Guardian
-- **Published:** 2026-10-08T17:15:00+00:00
-
-## US freezes Microsoft, Adobe, Infosys green-card applications over alleged fraud - Reuters
-
-- **URL:** https://news.google.com/rss/articles/CBMisAFBVV95cUxNenk2MHZ3TFhxRjBqU1pTRmZvNFRUYy1CSG5rXzNSeGRqS05lLUlIRlBYM3hTQ3d4dUwyVmdtc0Z4cVhqOUdKZmh0VWhjQmxldjZKejR3WGxzOEdXZEJwVUxXN0pOelgzcndVakpzWHFiNHFIWi1aZkM1SjdfNFB1dG9hcGVEZTlYdmg0ckJ1MmtqMVBNUEl1MHJBVkxmSGdJVDlXS2ZENlpQY3FRSzB1NQ?oc=5
-- **Source:** Reuters
-- **Published:** 2026-10-08T17:10:17+00:00
-
-## Trump Administration Bars Microsoft From Green-Card Sponsorship, Cites Visa Abuse - Gadget Review
-
-- **URL:** https://news.google.com/rss/articles/CBMirgFBVV95cUxOaWRPVmNlUU00dXV4NG9WR2FiZkJ5cDF3ZUlObVFBdWFDemZXNWNFRjIxOWRFUElHT2xfcFk3ZGpZam9mZnVKc1hkOFUwTV9wUE1SblAyZDlMVHBLTElIaFJMNE1NQlRYWjZNMWp0WXZhZXFaeldvWmxZekUxUzJhWDVHaDExQzFUWl85WjNKMWN4RGFFR2NGZUc0LWtTdmxnUG8tdWxzLWdvYm1wX0E?oc=5
-- **Source:** Gadget Review
-- **Published:** 2026-10-08T17:04:12+00:00
-
-## US freezes Microsoft, Adobe, Infosys green-card applications over alleged fraud By Reuters - Investing.com
-
-- **URL:** https://news.google.com/rss/articles/CBMivwFBVV95cUxPZ3otWFVxZXdyMmxWZkJCRlkzclFlWW5uZ3JNUmVJRTZSRjh5c3V6SE1PV1Mzd29EUzFKcV9Qbm1lN0c5SjVLbHhqUFB2bFhaVEduRkM3RHk0d0pFSnBXSnhYNDNneDJyUnpNdkh3cmhNa1E0SjBqVnVRWnl1bFlsTWNjR3VZeldXbDBHUkQyckZrcXZUcE9QSm1DUjV3SmlRRUJPWmN2UUpuLV9JRU5WN3hKUUpGaUEzanp0TXlpOA?oc=5
-- **Source:** Investing.com
-- **Published:** 2026-10-08T17:03:15+00:00
-
-## Trump ad­min­is­tration suspends Microsoft from green card program, alleging visa fraud - Spectrum News
-
-- **URL:** https://news.google.com/rss/articles/CBMitAFBVV95cUxPaU5tZjhkenc3UFoyc2xfT05xZ1RqTDhLcWFnX3VENkFuUll2bUtPQ1lqYnJoc3ZzRGsyN2ZTUkZWNnN5OVZVYWxfOWtEUngtd3hIZHFBOHB6bGVkeEhST3o3MDR4SEtHUGd1Vm1ZYnFYOHRLaUh4eWRxYUJla19CNHZoV0tKZGU3Zmc3cVBidlhiaXdYSFVFM0pqSlBrcGZWalZER2tQZFVtd200dmxvLWdSS3U?oc=5
-- **Source:** Spectrum News
-- **Published:** 2026-10-08T16:58:00+00:00
-
-## Trump administration says Microsoft ‘abused’ worker visa program and is cutting off access - The Verge
-
-- **URL:** https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTE5LeU5UN29iQzBIN3NJNGxSSU1xVmxpZEtBUkhZaXNNUk13ZFpDR3E3X3ltcEs4MEkxVFhNOWYwcHFTUUtVOGpiVFN5aUI5REE5RTlJMXlpN2xhRVFualR6V2xwZnlhMVdEZzhCWm9EUktmc1ZfM1NZZE4zOVdISXJ2eHF2ZlFB?oc=5
-- **Source:** The Verge
-- **Published:** 2026-10-08T16:57:27+00:00
-
-## Trump admin cuts off Microsoft from major visa program, accuses tech giant of fraud and abuse - New York Post
-
-- **URL:** https://news.google.com/rss/articles/CBMiywFBVV95cUxNb3NLVHJsa043NjFDSDhyVkozQ0Zrdl83QVpjemJyTDdZdFd6SzgtYjFmWGxtUFFpeW9lc1FSN1c1Z0VLV3VNNVNlMWtLN2k1MmdmS3g1ODZSVks0YmlFSkNwMFRXUG5vZU9JcUxoaDZDdXRDallLblgxNXB0X0toZWYydnphTXdlOGJIUHFvUFJpSTNXNmUtZUZ0TUJmZlBCWHRlYnR5TFZFeUh4ZGRya3ZxVTR5aFlxc3RXcU1yRVloR25oaWdrV0taaw?oc=5
-- **Source:** New York Post
-- **Published:** 2026-10-08T16:56:36+00:00
-
-## Vance says hire American as US suspends Microsoft from green card program - Reuters
-
-- **URL:** https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5rNHo1aEhXN2JOeUpxaFFseXVUcEVLZUI5dTktRjhPZHdwWW5lWXdVZXNQeHlqTkNhVlNTTjljU19YSlBzMG1ZNG9xT09ONVB4MWxuNE82ZklaQnMxaGtmYzlOOGFYWlE?oc=5
-- **Source:** Reuters
-- **Published:** 2026-10-08T16:50:49+00:00
-
-## Meet the RTX Spark, Microsoft and NVIDIA's AI Superchip - AI Magazine
-
-- **URL:** https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVGZ5SkZoODh1T3pzVm5IZFczR3FpM2x3a3E4YU5XR2pXY2VWREZ5Ymt6RHRUb3VIOTlJQUhHcWdDcVlMb3lKRlFaazlCb3ZIX0pqS2dwWHhtM2cycVh4czZnMFlHdEZSRGRLdEU4YVRZekVhd2R3RzJGcklhUnhlT2xIdGdFLXpl?oc=5
-- **Source:** AI Magazine
-- **Published:** 2026-10-08T16:49:01+00:00
-
-## The Trump administration is suspending Microsoft from a green card program, alleging fraud - The Seattle Times
-
-- **URL:** https://news.google.com/rss/articles/CBMi4gFBVV95cUxNb1FYbml6ZWJuSDk0QmRhZmxCbzUxSzFWbUswWm9wTDFrQTNmZVdPeDVpT0FaZ1JwSUY1TnNNejJnN2loNDhLWWVVZjd4emt4Yks4Yk0zWE1aU1NlR1F1cFdmUF9IWnE1SXdRaHRUV2h0T0xrSnVaWUpDT1dqNC1MUy1fZmRlbk5OZXV0aVR2b0EyTFhOSEU3OFJJYkQyS2o5Qm9OdWdoYlFkTTYwS3VlWnVFWW1jQlY5MGVzTWdGNFRucDV5WUI0aFRaek45Z3l1TmpNUnZfaThYaDVaTjN5YlV3?oc=5
+- **URL:** https://news.google.com/rss/articles/CBMingFBVV95cUxPTHRCaWtFRWZLai1PcWU0ckFpVVNoeUVFby02aTRHY3pMZ1pyT3RPaHVEUGwwdDZaV2ZiS3huOElMejlJYTZkcjM4UzJjZ3dzc19HdFdQdi0xVkZnRTJpZnFaYU9BT3QtWFpXMWdYRUlZd2pMRGoyQVh5ZWNITnRfbF94bjlIeHNaaHZObFNaOVlqclRKc0ZndWVYcUI1dw?oc=5
 - **Source:** The Seattle Times
-- **Published:** 2026-10-08T16:41:48+00:00
+- **Published:** 2026-10-08T22:41:09+00:00
 
-## Vance says foreign workers at Microsoft will no longer be able to apply for permanent status - The Hill
+## The Trump administration is suspending Microsoft from a green card program, alleging fraud - KSL News
 
-- **URL:** https://news.google.com/rss/articles/CBMiggFBVV95cUxOVTJ0R2IwVDVTX1BXRFZnNUVtbUxwY0RtSUc2TVV5c0ctVG1wNjB2UEItOHpobFVpM3Y1RzQ3aHdOaWRhMU5PdVUyOVphSzMtWHJhaFhKOWdyQ3ZKdllKVE5ySUkzNERKYjNWSTJaVXV0THBCVHkzbXp5bHZBdkpQb2Nn0gGHAUFVX3lxTFBsX3VPb0NhdHFjYm9CcVlzU1JOdU5rcHhvX0xreGRjVjZmcG9NczZVMkpOal8yMVBLdnk5eWRpdmJUeFhlcXRzQmhOLW9CUk0xV0NYeGY2Zm9oVVI3bmJHMWNtQkM0M3ByX1ZJQXlLdWhIYlhaYmRKV2x2WHI2NlRhZGZTaWQ4Yw?oc=5
-- **Source:** The Hill
-- **Published:** 2026-10-08T16:37:00+00:00
+- **URL:** https://news.google.com/rss/articles/CBMixAFBVV95cUxOZTdzWDhOV1RJN1FYUW1pczRJaE1rZDRrMVR4VFpNRVkxQmRYS2gtbVp2X0RFNVJXS0dHb0pUeTVIcmpPem5JSUZ1YU94VGVGaDdIVFNJZDdmb05ycjNDVTZmSFFIR3h1OXdMWjNkUWNwS3FQU1NIUFhUQndtTWNTd3BOb2t5cHJES3hCNXdGWWx3OUZEcG83VloybjNsY3JEUVhPVnpoRUJnYW5RSDhESU9oaXFyM3hPMmlfLTZPbWF4MkUx?oc=5
+- **Source:** KSL News
+- **Published:** 2026-10-08T22:19:53+00:00
 
-## What's Going On With Microsoft Stock Thursday? - Benzinga
+## US Suspends Visa Program for Tech Firms Including Microsoft - Bloomberg.com
 
-- **URL:** https://news.google.com/rss/articles/CBMioAFBVV95cUxQNF9lOGZGR19YSUItYngtQktyR1BTT1RtbHhIakFrY0lPdjRtN0VRLTdlN0xsVHdKNXZ0U3poOEZERWFaNUZ3NGIwemNNYkUzVEhJMDlUbzljc0RodFhfTDAzbk83OVNHeWpXZHZYb18wRXk5WTBDRVI2dzRoSVRrR1dVRUdkY1pQd1lUUTFzVmc0aXR6UWxzQjAtTHVjQUwx?oc=5
+- **URL:** https://news.google.com/rss/articles/CBMirwFBVV95cUxNeERzSGlLb0YxN1hWdUR3RmtHUTV3ZXRJZUJLR1RsdVF1TWx1alJuT2xWZDRyZ2ZpX2Z3OC1oaTIxMm5VMnBmYzJYcXJIaXgyVV9GYVVfRElZSmZsU2hHeV9qZ196c1BiSGdMejRWNUxiZjNvbG5sY1Nrd0hOUFJEUkdHSW1URm1KeDVrLVNRVy0tZ2FTSGE1OGl2d3h1azltRVpJaS1vZXJGNUJKam9v?oc=5
+- **Source:** Bloomberg.com
+- **Published:** 2026-10-08T22:07:51+00:00
+
+## US Bars Microsoft, Indian Firms From Visa Program in Blow (1) - Bloomberg Law News
+
+- **URL:** https://news.google.com/rss/articles/CBMirwFBVV95cUxNYnlrNnpCTFlwMUZvOE05Wm9QS1lEdEtEanc4VFRwRm9meHEtZUExMUw0SHpNYWFXbzRkYVotams1bU5zcHhaYm9tR1VtQmw2S2toN1Vac1Utc0pUV0hsVHJFdTNZcmo4azBtd2k4MEY2TkJYSlFsZmFyb3VqUEdhdnVWUWtuVHdOMDFlbGZyVlNjQTdPSEVZRzhqTUs1ZDJUM0N4dzdPUkZZYVRGSnlR?oc=5
+- **Source:** Bloomberg Law News
+- **Published:** 2026-10-08T22:07:00+00:00
+
+## Here’s How Much You Would Have Made Owning Microsoft Stock In The Last 20 Years - Benzinga
+
+- **URL:** https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSUQ0c0sxeXlRMU51c3JyZ0tKekxmbWdjb283dk8xNkNGTHY4RU56cnVONXpRQThxSGlnRnRVYURrOHRlSjlIcUdVWkJpSGdXeE41c0g5Q0E4eVRzeWlqa25wMjdiOGhJbWJJQ0IyYWtjRmQ2STMwS2ExNkVxNWhzN2tRSVBBaEppdVphQm5iV2JpeHV1NjdDZFZqU0g2NmNaemRvVEZpRmRUSTUwOE5GNXA5bmEweS1U?oc=5
 - **Source:** Benzinga
-- **Published:** 2026-10-08T16:36:56+00:00
+- **Published:** 2026-10-08T22:00:33+00:00
 
-## Vance announces Microsoft, IT firms suspended from green card program - The Detroit News
+## Nvidia, Apple, and Microsoft Spell Trouble for Index Investors - Yahoo Finance
 
-- **URL:** https://news.google.com/rss/articles/CBMi1gFBVV95cUxOT3luOGhrb0YyRnJ5dmI3dHItam5JeFg1ZV9aN0VucFpZZl9STGhweUNsQzRGNEU5SkFRYWV1R2dkMWdVN1B3U2NibTNEckVPV0lCeGFpTVY2V1Z6WFJ5amlqRHJldk4xRG95ZDYzbUNySzRNV0lQZmN5QmZRdEhGeExwSzdLSndpZGx0VVFqVHJWTl9xTFpwOGRyNUxKXzF1YnZieFFFcWN2YWdUX2U2UGxUN2ZlODNnTmJuUmd3U2dlc2hkSHJXdy1KbFdQdUpodTZZRmt3?oc=5
-- **Source:** The Detroit News
-- **Published:** 2026-10-08T16:31:39+00:00
-
-## Trump bans Microsoft from sponsoring foreign workers for US residency - Financial Times
-
-- **URL:** https://news.google.com/rss/articles/CBMihAFBVV95cUxPRkphMDZjb1U1aUM0d1BLZTRQcmI5dU1EckZQZHZ0cS12aGZIamt4U29GQzAzclFfTmJkclNyT0hGZ1BxNFVqZVc0d050M2NKTldNNXlhWjNlbU5fNlYtMDVtZlBRSURmb3g4OWl2SW9MbW9jS0tSUDF5TmpabldSeHE0Q3Y?oc=5
-- **Source:** Financial Times
-- **Published:** 2026-10-08T16:29:01+00:00
-
-## Your AI Isn't the Moat. What You Earn Inside the Customer Is. - Microsoft
-
-- **URL:** https://news.google.com/rss/articles/CBMi2AFBVV95cUxOTnZmY3NBSXdkNmVCMW5ldzlBR0IyMTRBYUlYekkzRWlESjl1S2xYeHFGMDdXcTljaG9xZFZlUHQ5c0VZT1h2c2hsT0dqTU4yMTJzRnpMQlpCb0I5dWpQR1AxcmlJc2daUUJObHJmOVlzNDJJOFVPM0N6RUNHblp1NmZGOGF0LXV4bzNVWlpiOE5fVWdhODY4MTQ5YXNQYUJ4Ym1LWWtILU1DZUdINHRsRmJ1Y3RSbXJnTlpMYW9WX0d6RTYtNHI1elNoU3lwZE5LMVQwZlZ2d18?oc=5
-- **Source:** Microsoft
-- **Published:** 2026-10-08T16:26:38+00:00
-
-## White House targets Microsoft, universities in immigration crackdown - USA Today
-
-- **URL:** https://news.google.com/rss/articles/CBMiygFBVV95cUxQcVlPTXBUZ3NMWS01RTZuLXloY3dUQ1RxdVZyUnM4MW9VcEhtWm5OWlQ0UzhQdU03SUNBRG42a05Yb200a1pmMG9kRXlVOHZaOUw0WWVSQVpXWGtYREpuRlhsbVJnVTNpSWxjcEFYSnlqN3ppOUFjWU5waU1CdGM2aktEQTFhWHZMSWhtTFA5Ul9JdDh1eFVzZ2dPYUNCbXpmUFYxZ1MwWUR4UmFYdHlTc3JaN0pRLWY3UERJTlpRbGlmZFJIajBpdjdR?oc=5
-- **Source:** USA Today
-- **Published:** 2026-10-08T16:19:00+00:00
-
-## Did anyone else notice this wallpaper during Microsoft's event? - Windows Central
-
-- **URL:** https://news.google.com/rss/articles/CBMi7wFBVV95cUxOQkFUeDl1NlNjU2xZTjF4QmRlNXFvLTF0RWQ1VXBQMUdfY2dZc2dIMFlrdVV3QWRnZjBqam5zRjRIb2dtNFN3dzhRc0U1ZXNqanU0cGVxVDFEY3lFVC1yRHgtczZKS1ZTSk92c0ZYUXJ5X281UnNKNWl2YWc2ZDlOQWJaWEtYeGd0Z2lORFI1SEJXV3ZVRUlFNDZSRXBIS0xFS0VHVmFyMEdFX19Gd3ZjenNFNG5WNEQwS3lNS2pfLVBUemRGeDhyU3BTNmVrVDlEbGFBM21TbnVBTVVxVkd1QmxkNlBwbE56amZPQWxQMA?oc=5
-- **Source:** Windows Central
-- **Published:** 2026-10-08T16:14:57+00:00
-
-## US suspending Microsoft from visa program: Vance - Yahoo
-
-- **URL:** https://news.google.com/rss/articles/CBMinAFBVV95cUxQOUpKelZEWUpMVE43SkVqbDNJOEtqR0cxdTFhNVh5ZE5CV1hqSVMtS2p1RE9DSHBQS3BhaVliQVducVZLT18zY3hxMG5VdEdDbmFGZzJpSFdIdGhyZ1gzeHlrLUlaVXBmR2VVZTU0dnlLMlBHYm9DNTVGYmp2cWJqRDZlbHJmcU9sOFZITnpiZDVyT2ZYWXFJNmVjeXQ?oc=5
-- **Source:** Yahoo
-- **Published:** 2026-10-08T16:12:21+00:00
-
-## Vance: Microsoft Is Being Dropped From Visa Program - Newser
-
-- **URL:** https://news.google.com/rss/articles/CBMilgFBVV95cUxOa2NRcGRqTkNVa2lfcTFSY3U5S0tacW92cDJ2d2twTVVjb3hUVTlCSGZnZ0xkU2RoY2FjNjZBaHVFaWpMdGRoaE9tTnZZbUdTTTFYcV9BaGY0Qk92OE8wLW5ZSG5Ceko2Vk9iTUhxLVRoOFEtOHB0MUdnRWh0SGZwUzFHZ0NnVDNib2pfNHZocjM0VXNvRmc?oc=5
-- **Source:** Newser
-- **Published:** 2026-10-08T16:10:00+00:00
-
-## Microsoft will let Copilot act on local files on Windows PCs - Computerworld
-
-- **URL:** https://news.google.com/rss/articles/CBMisAFBVV95cUxNWkZDLUl0aWhtRUxMUHN2Tks1S1c0eXFhbkVSekpEXzZWTnMyMGk0MlhSX2MwZFE0R0pNS19LY0hpMTN3YzZqemlpa0gtNUlsN3VJelIwazNmYXVNaGlFQU9MVGk1dUJFNG0ySzcyMHQxMEdJbXczOE1RMDlJa1RzVzkxWktEcndUQl9ZSjkxdzk2Qmt6Skt2T0prcUY0dnRsSVYzclQ1SVFEMERaTk1yUg?oc=5
-- **Source:** Computerworld
-- **Published:** 2026-10-08T16:03:24+00:00
-
-## Trump disclosed millions in new trades in SpaceX and Microsoft. Today, he's giving medals to their CEOs. - Yahoo Finance
-
-- **URL:** https://news.google.com/rss/articles/CBMi9wFBVV95cUxPVE90WDQxeTNDV2dKQWVRd29pVVZUbld3ZWt0QWFpMHRrbkxVZEwwTU1EdnYybFM4YUZ4ZzZyUzMxMDNlM1phTll5UXYwMmRLQ3dxRV9SVkF1UmZqS2dOakpnZ3czODlfWklKNXZ3aURYNXdEMk9UeFlYOU5QVVk4Yk9jWUsySUJiVkl2Tnl4eElERWhpZS1icVdSRVhuTTMxeHBzSkViRkhZMDFmeGoxQkVfbkFIRzlYeXVNQngwTXZNbWVQQlJDejY3OTFyNXlQVDZhTS1abXVteTExRmFBZV9XemxVRzc1cklQaU80R09sTnJEaDdJ?oc=5
+- **URL:** https://news.google.com/rss/articles/CBMiiwFBVV95cUxQTVBYTjVHZ09ZdEFKN2pLckFnZzZsRDhrM2dOUFFIYkR0Nlc2WUczenBCWDBFV2FEaGtYY2FsUEQ1NlRWa3I3ZXlmMmd4N295Wnktb2xoYWE4LUY3bk90MEgzUmdOb3ZjTGhJLW5sNGVHSmN3dXRIM2gxdXVNU3lQX3pNaVdSRHpvcGY0?oc=5
 - **Source:** Yahoo Finance
-- **Published:** 2026-10-08T16:02:23+00:00
+- **Published:** 2026-10-08T21:54:25+00:00
 
-## JD Vance Forced to Eat His Words Immediately After Trashing Microsoft - The New Republic
+## Microsoft responds to green card program suspension, Trump administration alleging fraud - WSMH
 
-- **URL:** https://news.google.com/rss/articles/CBMikgFBVV95cUxOYWI1ckFidW9WalZFZS1sdjBEVVdLWDVQbVRLZ1BDOUFjaDNwUFROcUZZck9vMzFpa29tVktQdC10UWRBaWwyQk9PdXdQY1cxYUJvS0JyLVBjaVFVdUFGbHh1UWdZMk9TZW5IaUNhdXBaRFI0clowRjIxNURSTTlxWFlkQVlRejU3eDNKdFNteEJmdw?oc=5
-- **Source:** The New Republic
-- **Published:** 2026-10-08T16:00:42+00:00
+- **URL:** https://news.google.com/rss/articles/CBMiwAJBVV95cUxQWEE0eWZ0a3VKNUVyTUJZWHdJZkQ0aDc5YzVWWnZ2SUhYc0dyVkhLUDV3bUZYTzRaU3BXMWxjT29rQ01NYlAwczA3aXQ5c20wUmFBWjZpNG9XNUUwTXVXT3N0bUozSURBWkJJQzVRbDJOZVFnZWlLVExTTVhlX1hvdWMyOV8tZk45dHRCdl8wUlExRVpPQmVIc1hvMFFMZ01NQTl0VlFvYmJxTkJydm55VzVmOTN6cEdVZGxDSnVfeENVOXQtLUR4X2RTcUwxTmV5M0xQdmdSaFFBT0hZaHNXS0Z2eTNCRnZtZm40dDg4ZXRHcFR0bEw5YzdVa2R2eVFOeGo4QnBpSTFteHduYXNkUjJydC03Ql92OVNfVVVxNFpLbFJ1UTJkamtBWExPODJod3kyZEM0NlJiT01Jc2Jicw?oc=5
+- **Source:** WSMH
+- **Published:** 2026-10-08T21:54:24+00:00
 
-## Highlights from FabCon and SQLCon Europe 2026: Unlocking what only your business knows - Microsoft
+## Why Trump Is Targeting Green Card Path Used by Microsoft, Other Tech Firms - Bloomberg.com
 
-- **URL:** https://news.google.com/rss/articles/CBMi5gFBVV95cUxOOEdhNWJsYzNJMV9NTGs2QzktYWdydEwzaVJTRDdQNmhMOTRQTUwwZFBFWjlFOFJPbGJzWU43MFpzcS1ZNVg4dHJPeGJZVzRNcUV6RC1IRkVyYmxwZXh0VzZUQzdtYklhQTVHLVhqc281c01mUDBubFpabGM2Q3c3Wk1MRDdlVmN4LVFtSGMyNTEwZUpfLVlOaEpvcDctUUJqbk1jamRxcFEtNGZGVlpTR1IxUjc4eVQ5QXl1aGFsMWVTRjhyWTFaY3lBZ3o3Vm5FTThzTTg3enV5OXhITE1ocC10UWVZZw?oc=5
-- **Source:** Microsoft
-- **Published:** 2026-10-08T16:00:00+00:00
+- **URL:** https://news.google.com/rss/articles/CBMixgFBVV95cUxQdklaY05JR1RoMVA0UjF2LWY4R0hkbnFFcld0cEtYSWRLR0dlTnozM2w0TmM2N3BGZE56c2kwOVJXTE9XTHVpSk5yX1RBTXhVaXRidVJ1T3kxWnk1eVdzMTJ4Y1VOaENiQTRUNXhST2pGaWVCWkZZWmYyV2I2YWR5WndBMVh6czQ1Y0EzV2M3RnhqQVhjd25EQ3FKTWdmRUNmdWppT1A0TGI5WTdxMW1sSzEyaEZlTHZkYk1iMHNmUzRFU2dZVVE?oc=5
+- **Source:** Bloomberg.com
+- **Published:** 2026-10-08T21:48:29+00:00
 
-## WATCH: Vance says Microsoft is being suspended from green card program for H-1B visa workers - PBS
+## Microsoft, Infosys, Tata, Wipro, Cognizant, HCL and Capgemini hit by US H-1B, Green Card crackdown - The Indian Express
 
-- **URL:** https://news.google.com/rss/articles/CBMiyAFBVV95cUxPRENVNi1nWU1PRmhGN0xoS1MxNUhmcEJjNWdvSl9kdjJOQVN5V1VHMnBreXhBNVpsNk1UQk9FYUpkSEoxNjl0RUhyVjFiS1VBUTkyNkNvZmZRRFpzLXlLTDc3OHByYkJuZmtXOGNwUHhyMzJkdWRCckUtYUJZZ0x3M2o2LVRKaXdMdmpuQzdUQ3ZIMjNVaV9WdDJQem9HbHkyOFpqTUdaVUpqSGdHY2NKOUdzNXlmRldDcmlxTWhVYmZHb3JfOTNGRdIBzgFBVV95cUxNNHZ2Njg4ZHd5RDJFTjBGNTZ1b2V1eHhGY3ljWGRVd0NUcnQ1YWU2YWZtTTdqejl6Z0xQSlo4X2dHdGlVQ2tpRmdLZG4tMEhYbDZiSC1aWU1BelBTSXpUeW5sY0xTN190UlVwS0VxSWRSQnE3dmVyOFNXNVU4T2xqNFNBb21HYUx0OEpDU1hpSjVOTVdTeElxSE41S3FuYkpoUHZxSzAzQkk3TzVYc3AwWW5yY2hRek12eHQ3LW5FVVdHR1FHek14NEhKaTFDUQ?oc=5
-- **Source:** PBS
-- **Published:** 2026-10-08T15:54:08+00:00
+- **URL:** https://news.google.com/rss/articles/CBMitwFBVV95cUxNblJ2eXRfbVg5SzVjNnpsVTJyVEVxWEZfZVhhclRSLTNCTVVld25iYWQ0SXpIdWc0YWNzUmtHRzJOWkx3a2JsRUhieERVbHBsYzhxN0l4dW56eTFFdkFFZnFlbnJtQVlmdXNtbVdtcllJY2xuUy00R3hyN1FsbnZHVWVLZ0c3RlBaSGtEbGlMbmIwRjBUQkktajlQX3BYQm9mTDhRbDF2cWROQ0lXSmNqVmREUUl6TGfSAb4BQVVfeXFMTjB0UEJtX2dPTThxSUNnZVk4cFZBTlN6eHVXZEVMQ2ltajBtcXZvWWRMTEFPclRYWFlrSWFlX0RKeUpaanJPR0pfOGFZM2NhRVFsMGZCeTNfZnRfbnA4YUJlbGpLSGRIOVM5NE5Yd3ZLZjVVNGwwVF80NkxKY2NIci10bFA5V0o2UWRUZGJaUktTckFWS1dTbXBRVGtpOVI2UmJnNVJvbFN2dFhqNWo0SlpnLW1aUDY1dVNxcENEUQ?oc=5
+- **Source:** The Indian Express
+- **Published:** 2026-10-08T21:46:55+00:00
 
-## Trump Administration Suspends Microsoft From Green Card Program, Alleging Visa Fraud - The New York Times
+## JD Vance Targets Microsoft and Harvard: Is America Turning Against Legal Immigration? - Reddy Neumann Brown PC
 
-- **URL:** https://news.google.com/rss/articles/CBMihgFBVV95cUxON1FwRVJBTS00eVRuenF2eUQtZnY0dlRySE5LNHFjdHlsSFlxMndNYkdlWGFxbDZaMGpFLWdOcERfQnE0amxqazRJVFNzcFliWTNDT003ME9iNGVSZGFPcnRMODRkLXBWVGc2Y1BETk5OMktKRU1ZRXhCZk5xcVRBU01RWjFSdw?oc=5
-- **Source:** The New York Times
-- **Published:** 2026-10-08T15:54:08+00:00
+- **URL:** https://news.google.com/rss/articles/CBMisAFBVV95cUxPaXhHSm1uQVdxQnE5R2g0UkdtaEtiMzNZY1h6X2VZckZWaVlaRWFmdldkOXVSWjhQZ1lyMHdtbkQ0QUV0V0RrM3lPWHBwSUtXcVhXb0xrdGdTMGdSRjU2RXlNVWd2YW05UUJVZ1FvTUw2WnFSRm5XTU5JWWJHYXJHVEQxUU90dmJsT250SUVJZ05La3I4WGFBcU1vcmlJS0JaWVlEaTRsZzkyajFvN2luYg?oc=5
+- **Source:** Reddy Neumann Brown PC
+- **Published:** 2026-10-08T21:43:18+00:00
 
-## Microsoft suspended from US green card program - FOX 13 Seattle
+## Microsoft faces PERM suspension over H-1B allegations - The American Bazaar
 
-- **URL:** https://news.google.com/rss/articles/CBMiZkFVX3lxTE1BbEM0WEwtSEVCckIyV0xRUC02NTNoTWZxV3ZBbndmM2FTbEo4UGV0NGVMaVAzSG80QnMtLWpYNkRULWZTdXpPRlNSTjRTUXhsWkVMOG5tc3hubmI5SnkzRmdSb25HZ9IBa0FVX3lxTE4wdFVZNEE0SjZqUThJQ0dLMG41N1hnY3l6QWVYd0dNYnIxbjBadXVaMGwzWFMwRnk4X3kzOFVEUmZFSjZJQjAwWmRWUmRqVTJWTXA0RlpBSlEtd0FBS0prWGZPdUxyT3ZhQlJZ?oc=5
-- **Source:** FOX 13 Seattle
-- **Published:** 2026-10-08T15:50:47+00:00
+- **URL:** https://news.google.com/rss/articles/CBMikAFBVV95cUxPRXZRQ3JvbU5ucWZrejFmNTYxdVNraVRnSmdoeHV0TXR0cVVST0Jhd2h4eWtmSmlpMXozVnp6TlFSMmdqbGczRDdaenZZTWZxd2hibWhNLWJya0h1V2plNjdhRHJzeGN3cU8ybXZaeGNGbDMxNmxFOU5jTkxqV0w3eDFnVVZycTRDRHpZUnpybXU?oc=5
+- **Source:** The American Bazaar
+- **Published:** 2026-10-08T21:40:05+00:00
+
+## Vance suspends Microsoft from a green card program to crack down on alleged fraud - ABC News - Breaking News, Latest News and Videos
+
+- **URL:** https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTmh2Z19kTG5EWmJONDVzaW5aelNsT3Y3MnRZd1pWS0ZUWThlSGJSUlFoYTZDRXREWHJaTVVJYU4zcW0zVW1Zby16WGJUNXZuRVRBUlQ3N29fYjVDNHc1TDFoMnlQVjhoLU5KOFIycGNvNV9SSTBUZWxtck4xbHlPMjFXdUthNFZ4d3pqRUZMLWVGQ1BFd0kxY2l6SDF0QmZGa3owUHJFQzjSAa4BQVVfeXFMT2pPeXZlSmN1YWk1dVBlS1REeVBFVnRxRUFpSk1hRXNBaC1HLVM1NnJkSGpnaE52Tm1HaVZyZ25xWlRFRW82RlZvY1VuOTQzem1ZMVRLVUszdHFYVGpmS1hYLWNicDRkMGdGTGtMeUJCYTRWVXZPWHVRbkNGWEJ1WExUTlhESV9FY3ZqRjYyLV93M2xzYnM3ZXJpb08xQzhfandWanpEbGpac1I4X3Fn?oc=5
+- **Source:** ABC News - Breaking News, Latest News and Videos
+- **Published:** 2026-10-08T21:38:29+00:00
+
+## White House blocks Microsoft from foreign worker hiring program - BBC
+
+- **URL:** https://news.google.com/rss/articles/CBMiW0FVX3lxTE1KN3ZtVzExUms3R3puMmE5OEJXLVVnY0hlaDNVWGkyM0pIblJ6N2xSRURPa2ppaUlhRVJpOWN0REc1bFVIdmlTSUcyVkFUTWh1dWVrenhXcmdGYXc?oc=5
+- **Source:** BBC
+- **Published:** 2026-10-08T21:37:35+00:00
+
+## Microsoft and Indian Tech Firms Targeted in US Visa Crackdown - Bloomberg.com
+
+- **URL:** https://news.google.com/rss/articles/CBMitgFBVV95cUxNV2VDc19mUjFOM3hlNmUxTHJBOF81aDhGQnRPcWZHTlJ4S1hGSmhkN1RUdEFOVmpIMXN3SWJncHRvSmdzUVRqYTRvSXEyZG5OcnJfd1NWckM4MUZmZjN3T19hc2pKR01BOXlPTVpHOVdzeEpoTXVZdXNtc2tudHdGYXF2cGVEalRrX2RvQU1pUXdCeGpwQUdab1lldUJJTGtJc1dxVW1QRHcxQ2lkWWJ0UWtXdjdjdw?oc=5
+- **Source:** Bloomberg.com
+- **Published:** 2026-10-08T21:31:12+00:00
+
+## Microsoft faces foreign worker crackdown as Vance blasts layoffs - Axios
+
+- **URL:** https://news.google.com/rss/articles/CBMitAFBVV95cUxQeVhVNnkwZm53TWhlWTF2bEN3TlpHOENBWHVnTmxiMU1HeFoxVHptMC12MmxMY2UzTFY2Ui1NRGlIcEpJZlBNelZvVE5aTm56SVhxWXJUTmI1eE1jcEtvRkhQRDhQVTFQdDEwakVYR2czZFhhSmlYYjZiOXgzV1gxVG1EaDBmZmxLa1QzNzBTTF9OTW1UOTNTdXRZUk02a2R2QWc5MkZ6SEtXWjk3c3hKOVFvRzc?oc=5
+- **Source:** Axios
+- **Published:** 2026-10-08T21:19:38+00:00
+
+## Satya Nadella had an awkward White House day - Business Insider
+
+- **URL:** https://news.google.com/rss/articles/CBMinAFBVV95cUxNb1N2ejVVbXhfdUZtdndSNDZURmh5WHV6U0pqRm9OVjlFelYxRHRyejJGOS1TMjhNWTNHc0RyM2JXaTNYS1MzSHhPcWxteGxOUGg2QjIzMEdtU3FPcXd1YjI3a1luVUxpZHAzNUhVZ3Y5VmozTnNnZlROdzJOVmp1WmJrM1UzMVVHcEhTTEpTdFBkT1NLNXh5UGhHcUg?oc=5
+- **Source:** Business Insider
+- **Published:** 2026-10-08T20:58:00+00:00
+
+## DOL Announces PERM Suspensions for Microsoft, Adobe, and Major IT Firms - WR Immigration
+
+- **URL:** https://news.google.com/rss/articles/CBMilwFBVV95cUxQVGJZcmRSMm5KQi1yRlhYOUp1QWtXLUpkNVVmOWV1dHRwbVVYS3AxQ1FpUmlMZjlRLU9HTHloV0JmUmhyOWxnQjJuUFE5aGZfWmxoYlVQaURXRHVNOUtTXzM2TkhMaWp1UWtDTWdFZ3llNXp2MzNkVGFJUS1FMXVpS3BYSDJRNGRxeV8zclRlS3hLbWM2S3JV?oc=5
+- **Source:** WR Immigration
+- **Published:** 2026-10-08T20:57:47+00:00
+
+## How Microsoft Is Trying to Keep Your AI Agents Contained - CNET
+
+- **URL:** https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZ1ktSHh1eTNyaElqWll2V2EyNDFnNjVGenRMTS12aTl2SmJuUmU2WU1uVzdWcUotRE5HcDNFS29WZEJYeHljMlBRZTI4enF0c0dSVVZpQVpvTEViTldHdjNRLTZJemtpRE12VVhfVEhzQVNtTzFxN1hSVlFWWFBwYy13QjFYekY5WHJab3FIY3d4ckVNUHBvcW0zaks5Yk4zUVNaSHVxc0gxRk0?oc=5
+- **Source:** CNET
+- **Published:** 2026-10-08T20:53:31+00:00
+
+## Trump honors Microsoft’s CEO after Vance drops an H-1B visa hammer on the company - AP News
+
+- **URL:** https://news.google.com/rss/articles/CBMilgFBVV95cUxOWko1TDVDR05nRjZMc0F5WjBMNlByZTlPZzUzS3J5RVFxa3Y5SGJBUDF1M2VjUU02TGJvRU1KUy10QXBhLVM5ZGJUWEM2dWtHdnI0Vnh6X2hXSHplZVN6QVB6UDNtSjdzMzhWdE1Yck5sWUZrM3B1WTVfVTJZNTlodE1KX0JUanM1azdNRkdmTTdqUDNEMWc?oc=5
+- **Source:** AP News
+- **Published:** 2026-10-08T20:27:00+00:00
+
+## Microsoft suspended from green card program over H-1B visa abuse - Quartz
+
+- **URL:** https://news.google.com/rss/articles/CBMieEFVX3lxTE5pdnotNVhCU1pMSHVxOXl4QWZzczk4ZHBRTURHX2tFaGZmVVN5MHk1REhWSjRMUl8zSEQ3MnU3NU5RaU1yMHBKV1hWWjd5VUE5NG5VWXRTS05XTWxvcDJqc1A0dDYyaG5uTGZEU2FyVFNENFRoNDhGWQ?oc=5
+- **Source:** Quartz
+- **Published:** 2026-10-08T20:24:41+00:00
+
+## Vance says the US is suspending permanent visa residency program for Microsoft - Business Insider
+
+- **URL:** https://news.google.com/rss/articles/CBMirAFBVV95cUxQTHhQNHctV1Fpd3JzSGM0MGp6V0hTeGpvQXNueHNnMTYxZVFtMFI0NHFQUlpjTW1BRmlQcW53SzlsOFU1dnV4Vmtsd0xjZ1JMRkNzTVdxUFdPZ0FST0hFb1YyZnl2RThuQXJhcEN3aFpFWnQ2ZEtZS0xRZDJabGl0WS1WOUtvd2Q1TTdjZXhGdk5VNkpfVEVSa2FuQXBHc21nZmktaXlmMVZZY29k?oc=5
+- **Source:** Business Insider
+- **Published:** 2026-10-08T20:23:00+00:00
+
+## Trump administration suspends Microsoft from visa program over fraud concerns - The Center Square
+
+- **URL:** https://news.google.com/rss/articles/CBMilAFBVV95cUxNLXpfZmJRMnZaeEZxWDN6bGxKT0VCamNpS1h0Q1JiV2ZTc1FGbVdSLXduUzRRRkJvOHl6Vjl6eDF1M3VveVcwQk5keUlvSHFnQ3hGb0tybUFOcXJqLURWOUJsNmVYTWhscGt1OTdhMk9FcTh5Z3hrM0J4SHJOSm1UdXNodkdkSzlQMGtVZF95VXpBaFoz?oc=5
+- **Source:** The Center Square
+- **Published:** 2026-10-08T20:15:00+00:00
+
+## Jayapal Statement on Trump Suspending Microsoft from the PERM Program - House.gov
+
+- **URL:** https://news.google.com/rss/articles/CBMiqwFBVV95cUxOcXZTYkZadTc2R1NlS1VIR0Y1WTlsUTFBREVYSU15b2ZtbTlKRVBpaUl6TlFlZUhqMTNDNjN2Q01KN01xWWpWbzZ3NnVHSG1zZDQxeEluV0Q4TjZvb2JoUURESTZPMk5vMHhfZGRyVVFmOWJ1Z2tsUlZxMU5ZNWVvTFJ2Q0hjdlRuZXlfQTRUVTk5bWVDTFpNaG4xODhaYl9PakJCNU9FekxFMGM?oc=5
+- **Source:** House.gov
+- **Published:** 2026-10-08T20:12:46+00:00
+
+## US suspends Microsoft, Adobe from filing for green cards - DW.com
+
+- **URL:** https://news.google.com/rss/articles/CBMikgFBVV95cUxQVFdhMUdkMERWWW1CclJRT3ItWWE0SVhnNFdCVFdTS29WS0Y1anQ3NGxNaG15RkJRRDFRcW5EemluNjU1clZnalVfZEt0b2U2enpQay1Ka2ExRE5RZl9XbXo5ZlEtc25lYkZKRjc3d09GaGdkaTBVbmRRM0FjbmExZTU5bTB5OFBlcnczOGRpOTNQQdIBkgFBVV95cUxQdEEtYzZTclMybnZ5dXJlcUoxRXBNMlBqS0ppTEh4a1NhcGdnMHFQVTdZMUFTRUpwVFVLT3JZLWRraU5TbDlkUmppV2xfM2NQd05qYy0zV2VJRnV6UHdqMmQxeTItNFV3a1JKTjRiTFJXOUVoeTdaUUc2X0NHd0VJMlp4WHI1cEdLT2xtZUhwaVNHUQ?oc=5
+- **Source:** DW.com
+- **Published:** 2026-10-08T20:10:31+00:00
+
+## Microsoft rivals the MacBook Pro with an Nvidia chip and repairable design - New Atlas
+
+- **URL:** https://news.google.com/rss/articles/CBMipAFBVV95cUxPZnplOXY0ZGNaWFhWWVltQVVCZWJFNTJSMFJGUjZCdGVtUzZXZVpIcVJSa21kSWwzUFFxWE9tYm8wNG5VSFZrTkRLeEpxS0Rnem1zVjJqQ3VqVFZkUkRUNG1NcS0wUGFwV3o2dlo1TU9KbllGemRTTzRUNzM2NnZtRkZDSHBFVHNxeXVPbl9tXzVPUlcxN0xsbFZlUXc2a0RBMzd1Yw?oc=5
+- **Source:** New Atlas
+- **Published:** 2026-10-08T20:05:48+00:00
+
+## Microsoft suspended from H-1B visa worker green card program: Vance - NewsNation
+
+- **URL:** https://news.google.com/rss/articles/CBMi2gFBVV95cUxOdExIdDhyQXMtRzdIOF9BZmprY1Y5MWF2MkRUekg4ZDJQYXZVU1FWRmxkZlFoWDRXM0l1ZXhPQ0NYNF8yNXVrWXY1dDVxRDNOYmUtRy1XeWlYWkFCb091NkxUZGFVZ3k1S3NrYmhld0Zxb1A2cjg3TXZjZ1hoUHVqb2M3aWtrWGszWXNOcnFiXzF5ZXV2cFg2NDhWaVIyZ2pMYlNrcF9UQnJyUVlfNXU1OHJ0d0hUNExuamZLZWpuSENpQkVKUThIYXI2dVBEa1NOd1NuM3hjdGJIUdIB3wFBVV95cUxPUnJDYXhwQlNNTG1BOWNRRDQ1c0dJQ0dRanhRWVBDMnJzWm04Ynk2a25OcGNncGJCNF9CLXhGcVRhTDZ4S193SFp4QU1ncDUtWDk2Ny1pYUROQ2g0RlYwVm5oZ0lfZHdOQjF3dXNjMkRPM0FVNFdaRUtranlMNEhJbHgxLVBSM3FyTHkwVm9DZk5ZWFU3aTd2bEZrUEt0bi05Y0tTWG9aV0QzNFNkU1RVc0lRX2l2SGVlZUJXN1FlYWJ3VkhNLUNmWl9KbEZRTUVWR0Rma1dxdVpiZ25MbklV?oc=5
+- **Source:** NewsNation
+- **Published:** 2026-10-08T20:05:36+00:00
+
+## Microsoft barred from H-1B visa program - FOX Carolina News
+
+- **URL:** https://news.google.com/rss/articles/CBMihwFBVV95cUxQQkhqM1NwYjdIa1NIVTFVWF83THc4dHBIMmt1d3pPVHp3RGFQSmE5R3AyNHRlclN2QXl2YVNGdWg1ZEc0QVFJX0hjbDdqSmd5dE84Tldzd1JnME5qTVVMckVFTUY2YU9iZGJvOFZiTWNPNjZKZzNGRWdpWHhpLXJCNlRpTWNsN0E?oc=5
+- **Source:** FOX Carolina News
+- **Published:** 2026-10-08T19:55:00+00:00
+
+## Microsoft barred from H-1B visa program - KFVS12
+
+- **URL:** https://news.google.com/rss/articles/CBMigAFBVV95cUxNRWl1cmpmV3hib0czb1RKSGdSUmsyRk43bC1tODRTeGxUWXFyaXI3WXR5bFk4UmtDYVVpamI1czN2NTRNYzR4NUNMdGt5RXpsZTVoQXROdE8xQWs3WWx4Qi1STFowdzlOWjM5NEttdFNlb2c4LVVLOTVUTW42dGx4ZQ?oc=5
+- **Source:** KFVS12
+- **Published:** 2026-10-08T19:55:00+00:00
+
+## Microsoft barred from H-1B visa program - fox10tv.com
+
+- **URL:** https://news.google.com/rss/articles/CBMiggFBVV95cUxQd3FMcEhxUGZEaC1LLUw1NUllN01FOXpfa0RUTmg1M25mTWRuWFVwUW4wdmZ2cnRJWlB1a2Z5NDRadDhFQnV2SnI3alZYSXQ2UjAweVpJU2pZeVMwbFd1aEdKWVRQYzhFcWdMbmdKVDlDNTY4dkxmNjd3TkVicWhYdDVR?oc=5
+- **Source:** fox10tv.com
+- **Published:** 2026-10-08T19:55:00+00:00
+
+## Microsoft barred from H-1B visa program - FOX5 Vegas
+
+- **URL:** https://news.google.com/rss/articles/CBMihAFBVV95cUxQV2taM0FnMlcxRXQ1MFVkVFh0RWQxR2ppelMyNUU4d1F1dTlTeW9lTmNaaEs1SUNaem1RVVkxSVFmUHlwQ29ucThheGhGamxHank1NHdsSV8wcXFCRkRXdTk1Y1ZiWU5lbE1zdU1kcHNKVzlKOHhINEh6bFRaUTA0d3V5UkU?oc=5
+- **Source:** FOX5 Vegas
+- **Published:** 2026-10-08T19:55:00+00:00
+
+## Microsoft barred from H-1B visa program - ABC7 WWSB
+
+- **URL:** https://news.google.com/rss/articles/CBMihgFBVV95cUxOaXJHTWwxQW80Yi1seTAtV1BaTWN1emdCX25YV0hWd3lfenBoalUteG9pcS0wR3lMYkxHaE41OV80ckVHUEFsWDktS0o4UHkwTXkxc0xJUm9YMC1ISzRBeW43elUybExyYTBpT2RfMlNPS0d1U0M3UnZDM3NuS3ozaVFJQnM0UQ?oc=5
+- **Source:** ABC7 WWSB
+- **Published:** 2026-10-08T19:55:00+00:00
+
+## Microsoft barred from H-1B visa program - WSFA
+
+- **URL:** https://news.google.com/rss/articles/CBMifkFVX3lxTE9iMFUyeDk5eTVndmRTQ3FYVUZnV0l2YUJrN2x3bnRtSm9VSFRONmk5aWhUaUFzZ01scEZNa2tRRFhIazZSNURsbW5DeXRFSjhtdU1WemF3anFBRDNmZkdwZDhsZ0Uwc3ZNc1puTC1OR0hFZkoxVzlJN1ZzUk51UQ?oc=5
+- **Source:** WSFA
+- **Published:** 2026-10-08T19:55:00+00:00
+
+## Microsoft barred from H-1B visa program - WBTV
+
+- **URL:** https://news.google.com/rss/articles/CBMifkFVX3lxTE1scDVGWWR3R1BWSENySlRYbWlqSGozQlk2VGtjaVF4REdqaWxxMmt4NDRZN0prRlIyaVUyMDBHY1E3OW83VXdvbG00bk80eU9qMkxQcDJjX0puQmtKNHFZOEt3SHNGSjhnS0NyODRydlQ5LWI0Nk02bk92R1V2dw?oc=5
+- **Source:** WBTV
+- **Published:** 2026-10-08T19:55:00+00:00
+
+## Microsoft barred from H-1B visa program - WBAY
+
+- **URL:** https://news.google.com/rss/articles/CBMifkFVX3lxTE91UXh3Q1lzNmlWaUtKQlRGdWkzVVhuWW1XcUN2MThDN253bGl1ajhCb2k3aGV4dk5VbFMzbDcxbmFWdHNWb3FOU0lBOWxKemd4cGVweXFDWGc0aG5Oa2lmMFVkcHE5clBTS3c2M25yRzdZcGtSS2xTaDc5eHQ3dw?oc=5
+- **Source:** WBAY
+- **Published:** 2026-10-08T19:55:00+00:00
+
+## Microsoft barred from H-1B visa program - WDBJ7
+
+- **URL:** https://news.google.com/rss/articles/CBMif0FVX3lxTE5MUmEwZFd4NzdnVjFEc0VIdS1md1psM2NQTjRubWNaS3N4UFowZUw3MExjQ2s4SmFOWmlpNEhobEJHOWFIelU2SFRkamFWdkVZTXlxRG5DNzVROGVLWndVZEstX3U1dEpSNzBwaWdjNm1oZDN4RWZNZ2daYVdzdk0?oc=5
+- **Source:** WDBJ7
+- **Published:** 2026-10-08T19:55:00+00:00
+
+## Microsoft barred from H-1B visa program - WOWT
+
+- **URL:** https://news.google.com/rss/articles/CBMifkFVX3lxTE1hRlNMN2FyNUJiMGZwU2hSamEzQnFoc0ZWX3pocVhUZldyalZTNlVoRjh3Y3hyTE5LRTlkRkZjUkVFUmxCMnFuQ0Z4dVA5SEFHVjhLTU13VExRaDBuU3duVDlHSDRGQ2oyVzRjLUJ3bGpZVnZlY2l2eDE1TXkzZw?oc=5
+- **Source:** WOWT
+- **Published:** 2026-10-08T19:55:00+00:00
+
+## Microsoft barred from H-1B visa program - WSMV
+
+- **URL:** https://news.google.com/rss/articles/CBMifkFVX3lxTFBiUDNoNF9EeFloclZXWkxEUmpCcjAtSHlRbnRMUm5DOEFjaTJfWjRvSHJuMVp0NHdXVHpHeWRWM1VHTENIVGN5NDcwbWQwYkpSdjFydFdfVXl3TmxjY3Q0ZXppZ1YyV194ZTlpTks5M3c2OTg5T0hrbVdVc3pfZw?oc=5
+- **Source:** WSMV
+- **Published:** 2026-10-08T19:55:00+00:00
+
+## Microsoft barred from H-1B visa program - WTOC
+
+- **URL:** https://news.google.com/rss/articles/CBMifkFVX3lxTE5zT3E4RXRRV2JmUWxIaVpnblBycmhEbUZfelhhZFpmS1FFVzdsOU13enNoV1FSSU5jeEI3MmZmbWtrMnVVeXdHSVhsNnpzNkNZc3ZXYXV1SVhpX3JuSWdjWHVVaVg3RTJWMG51VzFTOHpROU5Ha215OXRzQzhrZw?oc=5
+- **Source:** WTOC
+- **Published:** 2026-10-08T19:55:00+00:00
+
+## Microsoft barred from H-1B visa program - WCAX
+
+- **URL:** https://news.google.com/rss/articles/CBMifkFVX3lxTFBHeHFiRXFJSXJGNXFTSm5IUExEMXhYMEo5cUJqVVRVTmU4RmIxNUdlc0RNRXcxZWVreXJVYWY2TlBlT2NRendBNGh3M3J6cTJlQjRRaEU1OFV4a1V6TXhRbXhabUZUWk1OUi1Yd1FDXzByeGU2TzdKMkM0ZEhBUQ?oc=5
+- **Source:** WCAX
+- **Published:** 2026-10-08T19:55:00+00:00
+
+## Microsoft barred from H-1B visa program - AZ Family
+
+- **URL:** https://news.google.com/rss/articles/CBMigwFBVV95cUxQVjdxc19vdzg2QWRPLWdDb1V6SHAzV0tZeWJoUktPdUhPOUFqYmVsVmhYVnVxR1FCR24xNmZpRXdOdl9oc3pZa1FpMjRhVHZPNEpKTV9MMDM2cEgzdk9nVV9HNDUwQ0JrRlVCMUlRZFV4ZkZQM2JoYksycEk1cGZ4VTgxcw?oc=5
+- **Source:** AZ Family
+- **Published:** 2026-10-08T19:55:00+00:00
+
+## Microsoft barred from H-1B visa program - KPTV
+
+- **URL:** https://news.google.com/rss/articles/CBMifkFVX3lxTE1yRGJNRnFZN2NwYy1HNWdWTDMzeEtuWEh3Y2pvWTJxNXVNYWZxMHVMSFRBY0hPaVl0LU9KWnZ3Sjk4Uks1cHZpY1JoQTJFMHo3LU9RRWVFcG1yTHoxZXpxaDJ0RURBT195bG5XZTZybUNTdG9sQWpNNXVldVpFZw?oc=5
+- **Source:** KPTV
+- **Published:** 2026-10-08T19:55:00+00:00
+
+## Microsoft barred from H-1B visa program - KOLN | Nebraska Local News, Weather, Sports | Lincoln, NE
+
+- **URL:** https://news.google.com/rss/articles/CBMiggFBVV95cUxOYmJFZWY4LVgxMEpiYmJZTnAzRHppR2l1YzRoRnkyMVI4ME1lOHltZE5PRkxlaHpKaS1MNHhOY1kwVTVmRFdKNzN2X1JGWHA5bVdhbU5WUnF6dUJyZklLY3lCOW9DV1VHY2hfOFowcVdXbVI2eERscjlFY1hHeHNYOC1B?oc=5
+- **Source:** KOLN | Nebraska Local News, Weather, Sports | Lincoln, NE
+- **Published:** 2026-10-08T19:55:00+00:00
+
+## Microsoft barred from H-1B visa program - Alaska's News Source
+
+- **URL:** https://news.google.com/rss/articles/CBMijwFBVV95cUxOZ1g0bTl5WU1tZzdOcFV4STJhZlFlcEFmTGlNaTZCUFI2b082Z0ZlckR0XzdvZ01TQWo2YVNUZVZNVUIwLTBGQVBRUk90QXNsS2tTRS1XLVI0MlNxUk9ick9sdWF5M3pxazZIWEtVakMzX1RqaDV2c0lRV1BvUHJ6TzlMS01vdDBuS3NZN1hGbw?oc=5
+- **Source:** Alaska's News Source
+- **Published:** 2026-10-08T19:55:00+00:00
+
+## Microsoft barred from H-1B visa program - Cleveland 19 News
+
+- **URL:** https://news.google.com/rss/articles/CBMihwFBVV95cUxPWmtmTm1GNlVQOGQ2OWhvRlJ5Z1dVaUJiR1ZvanlBMTJnbE85TmJwVHI5ZUNIMHZqWnExSm9fS3RuSWxvdXl6OVcxaWZ4Q0k2dWRWOU10NTdJSEwtel95U29FclJlNGhjSjRSZF8xcmwzMjZpMTJKSzV2VFZIOXhwelZheFlFeXc?oc=5
+- **Source:** Cleveland 19 News
+- **Published:** 2026-10-08T19:55:00+00:00
+
+## Microsoft barred from H-1B visa program - KKTV
+
+- **URL:** https://news.google.com/rss/articles/CBMifkFVX3lxTE1EeFVETWRsTDNKTnYweWRQMVBybVRqcTNhaVFrMy05Z2hHZVpmN2RhcHFnYkxGSnIzMWR3MC1rRFZSSklMOTJEMklsaW91dXFuZmt0bWJjUWQyVW1LMFBfb2lfUE93LW5uSVRRVDJCc0pua1JYdUI0V2lhZDd3UQ?oc=5
+- **Source:** KKTV
+- **Published:** 2026-10-08T19:55:00+00:00
+
+## Microsoft barred from H-1B visa program - WAFB
+
+- **URL:** https://news.google.com/rss/articles/CBMifkFVX3lxTE9LN2RNcXNMcUpPSVhScjJVTEdkMHA1TkhsV3dhcHRFTnNJRzZnYVlVSC14VENoS29uRWZELUFCcHExaEF2QXNUcWtWdEZuZnNCUXRnTnptZmlRLUUyb2VBeHJJb09DbWdTdkVrcV9NWEgzdDVsY3JpcHQ2SzV1Zw?oc=5
+- **Source:** WAFB
+- **Published:** 2026-10-08T19:55:00+00:00

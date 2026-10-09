@@ -1,8 +1,56 @@
 # NewsWatch — Apple News
 
-_Last updated: 2026-10-08T18:32:22.331743+00:00 · 50 articles_
+_Last updated: 2026-10-09T00:10:06.489212+00:00 · 50 articles_
 
 ---
+
+## Form 4 Apple Inc For: 8 October By Investing.com - Investing.com UK
+
+- **URL:** https://news.google.com/rss/articles/CBMilgFBVV95cUxQMTc3TXozNE5UZEJNUTlaeWFnLVZKMEk5SkJCRkE2YWRzTVBPVlUxbmRwakdOa2FqbWVKWWlabnVCcFpCSm9WNEVsX0RfSzdCa3ZJWTM2YUMwS3M2cDdCY0h1Y0hEbjVIVFlORHN0ckEtTzdVLTVfRUNMNGZjdFdSTHI2SS1hMlBDYlVic2ROcHdLX2tnSVE?oc=5
+- **Source:** Investing.com UK
+- **Published:** 2026-10-08T22:50:00+00:00
+
+## Apple (AAPL) legal chief sells shares at $332.01 under a prearranged trading plan. - Stock Titan
+
+- **URL:** https://news.google.com/rss/articles/CBMipgFBVV95cUxQSnU3WHh4Ti1rS3U1V0pYcnp0U2pCYnZWSWd5c1pHMEROSklJOEpWcUhDd1NrUWdBd1l2R2pJeXFRM2ZYZUNfdFBzanJQQjRxeXhQTHZneVV0OFJxNFhaX2QwZXpvM2p4U0g4X1ZOMGJsbktSVk96V0pKbFNIVFZrNGdCV2I5VjFNc1dvd1MxMldqeGpCNVhsMlZ3N01tNnY4REZhSTJB?oc=5
+- **Source:** Stock Titan
+- **Published:** 2026-10-08T22:31:08+00:00
+
+## AAPL: Apple defined, key history, primary product lineup - 9to5Mac
+
+- **URL:** https://news.google.com/rss/articles/CBMiR0FVX3lxTE5YT25nRDV2WDBrbkJNcGEtUTVaMXUwRUZiQjFPWURPanYxM0RaRE9yblZHZFJMbmpWT2FmaXhCanlyWFNwM2ZF?oc=5
+- **Source:** 9to5Mac
+- **Published:** 2026-10-08T21:38:47+00:00
+
+## Apple gains share even as PC market slumps in Q3, IDC says (AAPL:NASDAQ) - Seeking Alpha
+
+- **URL:** https://news.google.com/rss/articles/CBMimwFBVV95cUxNa1JHNG5mcThYRy11eF8xUlRLY01OMHNnZlNVT1FDcktjRF9LeEhqcXpPbTU0ZkVRVjM1cm5TZ0hsOFR4TEJnRjhiRkZGRUFXZzJHTHBsWm0zb01xZU5Ra1VlQkUxQWJPMTlHV3VsUXpGVmpaYzl4NkotNGhlX25WQVE1cXdSRldPU0I5WWhpU1NPS3p6X1ZUS3Jtbw?oc=5
+- **Source:** Seeking Alpha
+- **Published:** 2026-10-08T20:10:16+00:00
+
+## Apple names insider Steve Smith as new M&A chief, memo shows - Reuters
+
+- **URL:** https://news.google.com/rss/articles/CBMisAFBVV95cUxQcVFMMVdNWVZKM2ExREhPZkJyQnhySHFNTktxYzJFT3dBZjdTTzBEV01LazNJTkdDZExNdFBRS3FtNDRYMXkxWC1EaFotLVI4dkxfXzB4enV0WXNBc3J0bGxtaUF2RUlvLTJzemFWN29ydUtFZWJDR2hGc3pVczhDakMtRTRMWmtKSEVxc0o4ek4tQ3liNUp0RW1EYm0tRGRWZ2FGNmdONGhWeW1jOW16Vg?oc=5
+- **Source:** Reuters
+- **Published:** 2026-10-08T19:46:29+00:00
+
+## Apple Could Be the ‘Toll Collector’ of Consumer AI. Dan Ives Sees $75 More Per Share - Benzinga
+
+- **URL:** https://news.google.com/rss/articles/CBMirAFBVV95cUxPeDFxTzg2MHdUR29tclR1UlBvQmpUV2hfaWw3dmthX241bnliRm8wZHN1TjRQTWJKMUt4aDg3YUVxSXBnTEhNSVdlZ19UUkNobGVQa1lBcG1zZWhtLXprVV91WmNsZHBsMWprMDRxcTRKTHpCdXRyZkZERm4yMzNBN2lBLWROTFBONk9jeGhfb1hXRHdlbDRxSGw5b2dodEFUdy1aNUJUQWtVYXlk?oc=5
+- **Source:** Benzinga
+- **Published:** 2026-10-08T19:23:49+00:00
+
+## Apple appoints new M&A chief under CEO Ternus: report (AAPL:NASDAQ) - Seeking Alpha
+
+- **URL:** https://news.google.com/rss/articles/CBMimgFBVV95cUxNczV5cmhUWHhvUlFTQThEck1aRmR4dFRpZkhENnZ4V0duVTBBcjItOWE0SG9hMnhQSUpKaDFiczdHLUt6cS1POEtBWHBWTTBKMXRzc3hlZ3lPNGRLY1FmVDhtNE5tUkY2eWhpbDhLVlBqTG9kNGM1RmtFSVI2QmZpTE1waUtyXzdWcm1QX2JNOUN1ZGRVZDA2MDVn?oc=5
+- **Source:** Seeking Alpha
+- **Published:** 2026-10-08T18:36:49+00:00
+
+## Apple's AI Story Could Be Worth $75 a Share - TradingView
+
+- **URL:** https://news.google.com/rss/articles/CBMipAFBVV95cUxPQjNFWk8ycHVjRTBZQ1g5a3RyQ212MGFhakIzM2dKaklUWmxtZmpCN1V0WjRxV25EM0VrcE94LU8xWng5d0ZvQ1JaS1YxUGlwdEpfYnhLTVZrVkUwV29WbG82MmRWSzg3a0hmUUlGVjIyYVphTXRwSW92TFRUUk5FTTdjUTdfc29IRVQ4c3V2Z0lCTF9LaVdzSTZHTzRQem1udEhRYw?oc=5
+- **Source:** TradingView
+- **Published:** 2026-10-08T18:35:37+00:00
 
 ## Apple names veteran Steve Smith as new M&A chief - Yahoo Finance Singapore
 
@@ -255,51 +303,3 @@ _Last updated: 2026-10-08T18:32:22.331743+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMitAFBVV95cUxOb0M4RTQ4ajJUZ3RMNU9PaHN4YXNiR3AyV2VGS0RMZHZsajRCOXBDUUZ1LTB6OFMwSS1saUlaeXN1cXd5RUduWUJTeHd3cnJqN1ZYYWhHME1RY2N6XzZxLVkwc2g3Y242NkxKQzBjLV9pWHpMSUczcElwbWM2OXBEYXVvYXV3RkhITTVtWml3T2puWjlRdXdwbnkzYWVBU2tfaEpyREpQakhpakFKYU55WUJDSm8?oc=5
 - **Source:** AD HOC NEWS
 - **Published:** 2026-10-07T18:02:18+00:00
-
-## Apple stock heads toward November 2 earnings with 9% guidance - AD HOC NEWS
-
-- **URL:** https://news.google.com/rss/articles/CBMiywFBVV95cUxPdmRxTGRzNjNDTC1Rcm5Hakl4TF9DemVYUjN5bHppbnNUQXJibDI3ZmpZRW5UM0hUMTc0RzNzLWlSTlk5OEhUUGhYNi03ekV2R0RBYmxvczZvaHFpNXV5OElNdWdEWGd5MGs2SVB3MFROVTJWWlppNUd1QjItQmpYYVc5WDZ4NkZPaU5nRFNXS3VYdEdOR2p6REYzbmUtc3VkYnFFVnRLYjlRUEFzNHc5aWlUalZJY0ZWMjh6MkREUlI5X1RRbkNLT1RHZw?oc=5
-- **Source:** AD HOC NEWS
-- **Published:** 2026-10-07T15:09:34+00:00
-
-## Apple (NASDAQ:AAPL) Trades Near Highs as Mac Refresh and Services Draw Focus - Kalkine Media
-
-- **URL:** https://news.google.com/rss/articles/CBMiuAFBVV95cUxQS0RwQUFtSl9jMF9TTzBQMHEycE4xaW5OUlpoRVRoVF9rX0pjalMwdTJZdUpIREdIUk1lZ1pVNTdBc2l1d2RMbmZoVHZJVmUzaUVmVW13YWVvaUNzVW1rU1Q4YXBqV195Z2RrTlk4enhGSGpoS1A3Z3FfTVNYVmU5TXdPYUVsQUN4WkRUOVVpcXlrS29Xdm5ELTFMVTB4Q2Zva05tOFBPX0VjWV8xdTloSFJUVWROamRy?oc=5
-- **Source:** Kalkine Media
-- **Published:** 2026-10-07T13:38:00+00:00
-
-## Morgan Stanley cuts target for Apple stock to USD 355.00 - AD HOC NEWS
-
-- **URL:** https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMFhUOVJOV3NKNDVNaHVGUXJrcFc5OU1KakRfbTJuZ09MbUd6azdGN0ZUNm9Zc2VmZ2gzWFg5b2NpWUUtalAwRFhTVG91djcyY29TNjdXdmx2S0kyQkdTYVlpX3FZdGtkQnlRRkJyVmJjd2ZESmszd1pZTjlzZENxWWhEWUEycXpObVFvdVhqTERQZXFOdnh2cTBScEM2TGlHemNlMUhXSFp1VnowdUpTWkJTYXI3TnNFMENF?oc=5
-- **Source:** AD HOC NEWS
-- **Published:** 2026-10-07T13:05:35+00:00
-
-## Apple to launch doorbell, lock, thermostat developed with LG - The Economic Times
-
-- **URL:** https://news.google.com/rss/articles/CBMizAFBVV95cUxQMDRha3IwS29zUUZUY19pVld0YUFDajRvb2VXQlBieWRROUpfYi1DN0ppWEF3bGFBY0EycnA2Y05HQ3I2ZWxoTEJVTjlWRzRKdVpsZDRyOE1iN0FXSUp1SkFqekIzZUlMWWF5YTlXWnhUdndmaWRsRXFMNVdNdVJ3VzFMaW1Ob205eElQU1U1VlJ3Q1RrLXNQNDQzdDQ0eWJlVWxRb2lmQnlWOTg0NV9yRk85WWpMazlDamY5V1RmMkNXeFpHUXZQZUZJZnXSAcwBQVVfeXFMUDA0YWtyMEtvc1FGVGNfaVZXdGFBQ2o0b29lV0JQYnlkUTlKX2ItQzdKaVhBd2xhQWNBMnJwNmNOR0NyNmVsaExCVU45Vkc0SnVabGQ0cjhNYjdBV0lKdUpBanpCM2VJTFlheWE5V1p4VHZ3ZmlkbEVxTDVXTXVSd1cxTGltTm9tOXhJUFNVNVZSd0NUay1zUDQ0M3Q0NHliZVVsUW9pZkJ5Vjk4NDVfckZPOVlqTGs5Q2pmOVdUZjJDV3haR1F2UGVGSWZ1?oc=5
-- **Source:** The Economic Times
-- **Published:** 2026-10-07T09:33:00+00:00
-
-## Amazon, Google Face New Smart Home Rival as Apple Lines Up Doorbell, Lock and Camera Launches: Report - AOL.com
-
-- **URL:** https://news.google.com/rss/articles/CBMifkFVX3lxTE1ubXR4OWxtX2wyN1JJc0c2N1hoT1ZLYVMzWHhoR3gtREdPTVVIV0VaRVhtQ0M3ZzdHenlGVWFkV21UT3ZNeEVZT2VHMEs0Y2xfd2VjTFl2a0JQZ205MnNfMUUzdGRacEtDSU80U0JDbHkwTC1BcWdYakc0TEt0Zw?oc=5
-- **Source:** AOL.com
-- **Published:** 2026-10-07T09:22:04+00:00
-
-## Succession Financial Inc. Buys 3,214 Shares of Apple Inc. $AAPL - MarketBeat
-
-- **URL:** https://news.google.com/rss/articles/CBMivAFBVV95cUxOWkx3THlNclljOHBRdVhscTg5dDU3Q09zNVBjaG5ISlB3RmtFTHlKRlJpVXgyN28wVThaWElQVGg3dW8zWllreFJWUUtTV2l5SmJCR1QteHpnUEEzbmpKWmtoQ3hqT0ZxOWdYRzFmelY5LXV4ZnNjRWczUDdKeHVjdEZQbXhMRmFTam9WQkNaRlFBTTM5V3Q5WHdQZXpBeUtSSHQySmdrVWs2Y2xmRW84LVVMOG9WTHJLYzlQeg?oc=5
-- **Source:** MarketBeat
-- **Published:** 2026-10-07T07:43:33+00:00
-
-## Apple Inc. $AAPL Shares Newly Purchased by Outlook Capital Management LLC - MarketBeat
-
-- **URL:** https://news.google.com/rss/articles/CBMizAFBVV95cUxQZ2phTEkybVZpYWZXbkI2THg5MUZ5N1ltTkNPSHdSTlp1eWQwQ0hJYWVuN2hFY3JNdk52c1lJV3FIZFRjd3RnTFhXSU9MLXoxNG5CX1h1RTFlRmxoTEx0TWxBOURTSC1jT3Bhdm1JLXo1TlVRYVRDZFBfamJackx0X0s1U3ZqbzdrSWZjdERMUUtUT002alI3dUw1aXlQZUdpYkFjNFByU0ppNjQ5Z2VPTG9zUC1iVEJmZEdscmlLRG9NSTFXVmNySVhfWWs?oc=5
-- **Source:** MarketBeat
-- **Published:** 2026-10-07T07:43:33+00:00
-
-## 21,189 Apple Inc. $AAPL Shares Purchased by Munich Reinsurance Co Stock Corp in Munich - MarketBeat
-
-- **URL:** https://news.google.com/rss/articles/CBMi3AFBVV95cUxOWkF1TzlsbU5oYXlYWk95QUJFQ0x1ZVBxRFFqZWZ6ZGdzTnF2UE9YVkRRbHpwbW5VQzFZWWd1Q01YZDd2VmEya05ZVmZuLUlYdWtJZjV3VVVvM1ptX1ZsLS1NcExVdEUyaUVzaUJLQTRHeFRnZy1MdWJlR0RnYXFLZkdYNWRHR2lfYWoxT3VaM0h6ejBDY25OU3owLTZBZTJSVDVGQW1ubmI2QW9aR3hZNXFFUHhhOW5yZWpLNUVEOGFMdjRjTG5VQlR1NEw5b2dNaDJFVzJVamdFR3lk?oc=5
-- **Source:** MarketBeat
-- **Published:** 2026-10-07T07:43:33+00:00
