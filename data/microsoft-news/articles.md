@@ -1,305 +1,305 @@
 # NewsWatch — Microsoft News
 
-_Last updated: 2026-10-09T11:09:33.880944+00:00 · 50 articles_
+_Last updated: 2026-10-09T18:03:38.780755+00:00 · 50 articles_
 
 ---
 
-## Microsoft just slashed Microsoft 365 Family storage by 4TB - Windows Central
+## From H-1B to CEO: How Satya Nadella traveled the path the U.S. just cut off for Microsoft workers - GeekWire
 
-- **URL:** https://news.google.com/rss/articles/CBMi4wFBVV95cUxPdnNIRGZHWlhaaEJRUkpaRW95emwzVGFCWHNKTXU2enBoUUdyMll6ZjBDbmNnRnNPYUFVdERTNTdZeFFrU3ZqdDlQRmQySmxWeWViRE1VTEtjd0h5QUdwcDlFd0gyYjlnSHdfUnkxXzloZ21fS0xFV0xFbEhqalJ1VDlrbDVDcGRYTFM2Q3ZFUURCam91VEtPNl9TTzczRXBXT0VaYVNXcFlmejJGU0N6eHJfVHRHeWxPeV9mNzFkOTB4MEpfNU5YQlpkYXVfcjBiYXlCa0xyS0g0RjBYaWt2OHVqVQ?oc=5
-- **Source:** Windows Central
-- **Published:** 2026-10-09T11:02:24+00:00
+- **URL:** https://news.google.com/rss/articles/CBMixAFBVV95cUxPWDZHU2VVY1lXT21sSTJBTVpHMldhRTlORi1ZWTBxelNrZXc2SVBjY3lsRzludldONVlpWUtIQ1hZd2pPUDRRaWFlVjU0dXVpLXRNbU5aRjl5NTFLbFVUTHdMZXNHTVIwVWdjbkZqZHg5bVZsakJReWdidmUtQ0lLOW5fbnpvMjBORDVXT29JLTlCVGVNeEVlaWZmRDJ1aGtUVWxtV2NIeEIycExPYkdqQjVSMjdiWkxBRHl3cXI2Vi02UW41?oc=5
+- **Source:** GeekWire
+- **Published:** 2026-10-09T17:48:47+00:00
 
-## Microsoft announces new Xbox division focused on films, TV, merch and theme parks - KitGuru
+## Microsoft Stocks Rise 1.4% as Local AI Shifts Compute Off Azure - Yahoo Finance
 
-- **URL:** https://news.google.com/rss/articles/CBMiygFBVV95cUxPMURGZnpDUjZ5V2VqM09USFlVVllJWmZRZ1JTU09jSldlWGZuQVhKR0hOOUs5WjRNRVZVMWc3Wm1yMnRNMmg2clpyZE93SHQtNVhoTHpWcl93TGV0NEdwdTVFdF95d3JiNWNVUE9sbDA0NDRkN1NXOTh2d0daVkpyTjZOd0hwMEV3dmh2SkJHVi03Z2JacV9veVJHM0g5S3QwWXI2MW5YMWVHc3hiTWg0Nk5WS25fZVQ5OWp6bzJ5V1lYQm9mLS1SNmVR?oc=5
-- **Source:** KitGuru
-- **Published:** 2026-10-09T11:00:39+00:00
+- **URL:** https://news.google.com/rss/articles/CBMilAFBVV95cUxQa0xteHl0X0kwemlmWUxwSXJSRFFWaXNnYjZ5UGYyc1h6RkViVjhxcDBlUmE0c3VGS2RlZUhPaWh4RFFCMFkxYVRQZDFRY3JJT2luX0l5NS1BaEdQMFE0YmIwVUQzdW5aMi05X0V2WGw5Szh4dWFRNjhoSU51d1FTRFAza0RkQUI4S05vU2FLdDRIRy1a?oc=5
+- **Source:** Yahoo Finance
+- **Published:** 2026-10-09T17:37:18+00:00
 
-## Vance suspends Microsoft from a green card program to crack down on alleged fraud - WJBD Online
+## Trump administration suspends visa program for Microsoft, others - Honolulu Star-Advertiser
 
-- **URL:** https://news.google.com/rss/articles/CBMiwwFBVV95cUxNLXFsaTVZSjVxeFJXWVFZdEJ3amppajhrMWFKMkxQQXphUlhzMm1PSS1SUXd5eFZ6Vnl3OVNaZUtuYVVmRmJ6aWlNWHZqUEFZOVRid0J6bU1zcFJMQUJoejZfZU9RcjJDY1Z4MnBVc2VqRkJIZzVMYWFLNFRMTzI2bUtIUGJfay1tMW5OZk5EUlNvVndFV3c3Y0dHT1loUkQtY2s1Qlk2UktVbHlEcDZfS3p5TmZTbmw5bEZ2N055SHdObW8?oc=5
-- **Source:** WJBD Online
-- **Published:** 2026-10-09T10:47:48+00:00
+- **URL:** https://news.google.com/rss/articles/CBMivAFBVV95cUxNQm1aSWhGYm12YURpanYyQVE1MUZZWjNMMEU0dFkxSXpBRnFPaTl3TDE2X0N0anF0TFBmcUwyblhMUVgtSjQ3UGVUTzU2bTBtcHRHX2t5Yl96WlVudlQtVXZmLXpsc0U0WUlCbXFtTmQxaDRKcWZkWFRKM045NVcxZWpLMHdhQ05vSW1MaGI5bDZvQ2ZPM1lqQmVYX0QtcHkyNS1HRXBoZEJlM1VvZGR0ZFZPWV84VU1kRVRoRg?oc=5
+- **Source:** Honolulu Star-Advertiser
+- **Published:** 2026-10-09T17:33:43+00:00
 
-## Trump Administration Freezes Green-Card Program for Microsoft, Adobe and Major IT Firms - Yahoo
+## Are You Overpaying For Microsoft Stock Versus Its Rivals? - Trefis
 
-- **URL:** https://news.google.com/rss/articles/CBMikgFBVV95cUxOcnJkdkNoWk5uUm5lWmJnMk02OXpER3Q4US1DdnRkaTJkSjN6bXBFa1JzY3ktbXhKZXNXd2FGSDZPaWlCaW5SYU1qeXhyNTBXWFgwVFBPOGMwbVhVV09BMkg2T1Q3LXhuQlFhTVJPRXJkd2VGQUFYanRZb0lfVGNDdWJIVS1CMUVYZkFWUFlsbnM3UQ?oc=5
-- **Source:** Yahoo
-- **Published:** 2026-10-09T10:45:00+00:00
+- **URL:** https://news.google.com/rss/articles/CBMiuAFBVV95cUxQeVJKWTNvcjVtMG1XWWVfZS1fQmw0bGgxdFAtZ2NGXzhtQWpqTkhwVkVzREZoRm12SE5MSzVld0xxZnRoT0Y1am5XcE1tUlhwWXJ5ekFQVWxac2dfZUF1U1RpMjVLREpMYU5qUnl3OXJHUzBWcURZSlc0WXVpUmc2RkIzRjlLU1hOWF85cTc0UW5GOUY0RTNKazhCcVpuamFFWDFHYllKdlBhendDVm9vZFNrVXZtdVNs?oc=5
+- **Source:** Trefis
+- **Published:** 2026-10-09T17:10:03+00:00
 
-## I'm seriously considering canceling my Microsoft 365 Family subscription - Neowin
+## Microsoft Leads Enterprise EUC Shift, but IT Complexity Persists - Redmondmag.com
 
-- **URL:** https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSW5zakp6cXpGVklBOV8yMzFlZzdLWmFTZy1COTA4XzhJVmp1a3pzYmFqTTJCQzRfNExRajVEQTdKMUNkQmU5WVEtVWFrVXMxM05fakRlUmFjODVrZEppOWdmQXlUbjBybW9VWkQ3ZDNtVUFBN2tMZGlJckVGM044RGdBRjFKV21xXzdpRnplOUVFbEV4dWZxNU5mTEg1TXpKRC1LNWpJNHhiQQ?oc=5
-- **Source:** Neowin
-- **Published:** 2026-10-09T10:40:28+00:00
+- **URL:** https://news.google.com/rss/articles/CBMijAFBVV95cUxNcEMxdUVVcGYwdm1ac3pNa2lSMXU1YTVydDZPczBUcEVURHUzbHNqTTZhb0lBNUVxMHFsYUhKRGZpNWpTb3pYMzlWNEtNOC05c082RC1zVzM3RXdidTNDT1plY3NRa0RHVjB2cmtIOVEzd2hpZDRpd1IyUzRlX3lRVHpuMHBrLUhxLUpCMQ?oc=5
+- **Source:** Redmondmag.com
+- **Published:** 2026-10-09T17:03:57+00:00
 
-## Microsoft: Outdated Windows devices will stop receiving security updates - BleepingComputer
+## Microsoft tries to spark new life into Windows - The Verge
 
-- **URL:** https://news.google.com/rss/articles/CBMiwAFBVV95cUxQT3g5dGo1LVVvbGpPZ25iVVRvMVVjNHJkMEIxcUZteC1EN0pjR3pTR1JlVVV4WEthQ0hmd01SLWlrdnlpeXlTRE5vcXJzQzgyWFZPYlFzV18zYVBMMXk3X00yaEJRcUJJSHAxT2RsTTkyY1didWN2M0hmRzlPbDBIbE15SFVNOUNaZUlTWEw2LUZIS3BrM1JkWWxGb2RDcVpocy1TLS0wZGNCcmlyMDUxa1pQdzBPOWZFdG9RNEp2Yk_SAcYBQVVfeXFMT2xXZmIxS0k5QnlUVFBWYVFRaFNWd2xQY2NRMmR1N05hNjFueTlDOThPa2JXTUw2VTBjeDR2cE9zTFUyQXBXN083Q1pMbDFOWURhaUZvNTNVZ3JBaE14WkxlNGY3cTlmU2FYN1ZDZTVCWFlkTmVlUTdTY0RLZ2ZtQW9scGhPdk0xakxLazVFU3dyd29wSzV0NG96VXRKWTBka3dYeENmM24xckdlT3FlT1ZzN0VFZmt2d3Z4eENlUDB4OEFsTHB3?oc=5
-- **Source:** BleepingComputer
-- **Published:** 2026-10-09T10:12:24+00:00
+- **URL:** https://news.google.com/rss/articles/CBMikAFBVV95cUxPcTVaU1IweDlZNEZxNm1zNG8zckpTRDFGRUFYcm5wVl9SZ3lob1NScXl1RHVfQ2t3MGhoQl9JNnVPcm8tY3AyWkhQWElzdXpJNVc4MmltOTJQMTdVSHJfbnY3LXF5RHBkQlpiYTNuYnA3d3RjbGJBNld5bkQxd0xzd3JhcGg2aEwxWGRCOTlhSVc?oc=5
+- **Source:** The Verge
+- **Published:** 2026-10-09T17:00:00+00:00
 
-## Microsoft entertains resurrecting 3D Pinball for Windows 11 - Club386
+## Microsoft Stocks Rise 1.4% as Local AI Shifts Compute Off Azure - GuruFocus
 
-- **URL:** https://news.google.com/rss/articles/CBMihgFBVV95cUxPLXBPMXVFOG5XX181dm1TeGt0YW5weC1jVVpnaVdlVzliYnFER1lCQU1aNGtldEFjbDdDSmRiS1EtVEU4MkRuclUyTEJseVdjc0w2aVhCZWRmZERyR3lpWXNzelY0QUZ0RGV2MWhEenFDdkVtVWw5VF8wZkRLXzVnejVuT1pjZw?oc=5
-- **Source:** Club386
-- **Published:** 2026-10-09T10:04:47+00:00
+- **URL:** https://news.google.com/rss/articles/CBMiogFBVV95cUxQWkxCZi1UUmZBV3h0eFRtZVRRcjZzbGJlNzhBVFlxMG5ROW9RS1dXdDZESHk3dUpzLVJuZ25adi0tMlhHeVdsRk9PZ0ZNUjBkQ3pvWTJQTWNTLTI1VDBhZ0s4eFFrUC1VMjBkc3UzNVE5OGxINHZuRWxiZnR5S0dCZkYwT05STWZRVW9UaHVZUXJobndqb0hKV254ck1aWmdtS0E?oc=5
+- **Source:** GuruFocus
+- **Published:** 2026-10-09T16:57:32+00:00
 
-## Microsoft Puts Guardrails Around AI Agents Inside Windows, and Businesses Should Pay Attention - Times Square Chronicles
+## Score Microsoft's Xbox ROG Ally X handheld at its best price ever, now up to $210 off (Open-box ‘Excellent’ w/ 1-yr. warranty) - 9to5Toys
 
-- **URL:** https://news.google.com/rss/articles/CBMitwFBVV95cUxNVnRsOGdTcXhEcEFESEttd0hTZXJrd3NybFBXWXpHNGYxWExwUU5qV3lLc1NIa3A5Rk1aWS1aaG5oRTVkdDM4SjAzVV80WTlBU1pNdHdoSDYzQVBmbVVxclBhZ3NDektOSkQ3ODVxMnQwUFZ0aGlnMjJ5SXlWZVpVaWFKQjVJV0VDRUZwZlhtb3V4YzRKSjlaTW42eWN0eUJpY0hLcXdDT2puV3NBcEQ0NTZzTEJ0XzA?oc=5
-- **Source:** Times Square Chronicles
-- **Published:** 2026-10-09T10:01:58+00:00
+- **URL:** https://news.google.com/rss/articles/CBMipwFBVV95cUxQbm9GblRNbGxWNmwyTjdPbjBHM0trcFBPYVBBTUVWZ1JBZ2k1NnE1U0cxVE1fYWFNZGlJMVBzVHl3Ql9iWGI4SGF5dElqQWMyN3BLRG9XWVpZNFYyWkQwdzVwVktZMXN4cjVERXBvb00wYXNHTHA4V2M1bXdISDNlNkd5TkhKT2NHTHExbHY4V3hiZ2pMVVJ6b0ZQQ0JGbFd4YjJFMEZDTQ?oc=5
+- **Source:** 9to5Toys
+- **Published:** 2026-10-09T16:48:00+00:00
 
 ## Microsoft 365 Cuts Family OneDrive Storage from 6 TB to 2 TB - TechPowerUp
 
-- **URL:** https://news.google.com/rss/articles/CBMioAFBVV95cUxPLUhaU01jS01oQ0FMVXh3cndLbS0yczJkT25BREg2WWZQX1RfajRadHRodndDSzdOTE01WnIwZEVia0NqaWtQczVLb0Rha1RqVG83VVZGX1NPYXF5ZDVCWEV2Ylp3MG5TUVhJV1BrQUJwcEdLWHlSdGpKcW1qSWdUQ1VNX19FcWJycTdPbkVtcTQxZmVDMTdXbUpFSkwxMDZE0gGgAUFVX3lxTE8tSFpTTWNLTWhDQUxVeHdyd0ttLTJzMmRPbkFESDZZZlBfVF9qNFp0dGh2d0NLN05MTTVacjBkRWJrQ2ppa1BzNUtvRGFrVGpUbzdVVkZfU09hcXlkNUJYRXZiWncwblNRWElXUGtBQnBwR0tYeVJ0akpxbWpJZ1RDVU1fX0VxYnJxN09uRW1xNDFmZUMxN1dtSkVKTDEwNkQ?oc=5
+- **URL:** https://news.google.com/rss/articles/CBMiogFBVV95cUxQWlBBQnlrZldVckVXckFhbHlxS0dleGtvb05ZWm1QZDFzWDVCcTEwaDl0Yl9jVUQxNXdzdmZVNnc5MkJOMDR1RVQzNEZkbjdORnZfVjZ1RlQ5UzNQUTdDTlEwQ2pZX0F5Wko2MHpBYzkyWEFFZTczUUo4V1lsNXJsVHE3YUttSnV6RzlnYkZ4MTNxZndDdWNyQVd0T0d4aEtaNlHSAaABQVVfeXFMTy1IWlNNY0tNaENBTFV4d3J3S20tMnMyZE9uQURINllmUF9UX2o0WnR0aHZ3Q0s3TkxNNVpyMGRFYmtDamlrUHM1S29EYWtUalRvN1VWRl9TT2FxeWQ1QlhFdmJadzBuU1FYSVdQa0FCcHBHS1h5UnRqSnFtaklnVENVTV9fRXFicnE3T25FbXE0MWZlQzE3V21KRUpMMTA2RA?oc=5
 - **Source:** TechPowerUp
-- **Published:** 2026-10-09T09:50:48+00:00
+- **Published:** 2026-10-09T16:40:32+00:00
 
-## Microsoft and Anthropic play invoice tennis with startup's $17,600 Claude bill - The Register
+## Microsoft Is Almost Back to $555—Now the Hard Part Begins - Investing.com
 
-- **URL:** https://news.google.com/rss/articles/CBMi0gFBVV95cUxNR3IyOXRJbWpGdFQ1NDhGdjZXNm9udktlLTM0Tm8wYXlyVWs0T082c3lRZ0tyQzI5NXBCcmhIV2ZTQlVVY3o2dU1pOG1pTDFrWF92YmNsREEwd0tUd3gwOXNPR204ckVlWTF6d3FLWS1WdGtZaV9TSm9BTXlSN0pseU8tRHZabGNmOVEwUXIxVDlYMHhtWUR0aDlSQkdmZVd6ZHJpS1ZaREtESnRrN2wtUmZmeEJWVW0yck9sUFhodTQ1LWVpcHlFdlRwTTF3S04yR2c?oc=5
+- **URL:** https://news.google.com/rss/articles/CBMiogFBVV95cUxPcnczMzRhdFpseDJnU0pscW91ZHFxVm96d0xqN05xMElJWEpuUEQxR3NzWFlYcUxSZjY3dGNEeF9jRGpTdTNfTUdVVkNVWGdMemVpMmk0bFRyUnk2cnlhR3I4Y1hYZjdwNktVeXlEQk9iVHN5UDlQVzdKek9mdy1DSENNU3puZVBfRmt0Nllna2g5MUxnbzZmajY1M3k0Tjk4Qmc?oc=5
+- **Source:** Investing.com
+- **Published:** 2026-10-09T16:37:20+00:00
+
+## Oracle, Microsoft Face Fresh Test as OpenAI Metrics Get Scrutinized - TradingView
+
+- **URL:** https://news.google.com/rss/articles/CBMixAFBVV95cUxQQ2FYN1lnTlZKTzJPcVZ5ZjVmWHlYV0U3VGJUa1pvYXZZeGNBTnloeWo4c3ZmSmN2cnY3RTNjMzRITTBWRWtDemQ4X24tZEhIQjNJUWFBcmtSazVFTjAzUXlsWG8xbGdsZ0RkTDc2azdXcklCN05YdUFCRkxMbnpPVUlGemtqS2dYWG1vQWlzZkFYMUVoQUo2ZmZLQU9SMk1lNkRvTGlwVWdzLTlINENlUGRxcTFJaEZZMWF6QnNXZk1rR2Vj?oc=5
+- **Source:** TradingView
+- **Published:** 2026-10-09T16:29:25+00:00
+
+## Microsoft 365 subscribers set to lose up to 4TB of OneDrive storage - The Register
+
+- **URL:** https://news.google.com/rss/articles/CBMixwFBVV95cUxNc2o4SjRKamtIMDMxT2FtYnF5X0xQM2dDcElkYUtuNWFJVUxIOG5xTU5qSmI1ZXgwOGF1d3dCRzVMaGt2d1JWUkxnVmQtOFV6N09pUGJ6S2RKVDdVeUprN2dDOVdmTUxNM0RhaEEwMjBBbXItVnBnRlg5MVVRTTJ3azA4azZNN3lUNVg1d2pTOENySmkzbENMeUVTbGdjU3dFQVlhMlNONmI0MWo4R2daTzNDblpTTlJQQVcxRzdhcjZtbzVhbUFr?oc=5
 - **Source:** The Register
-- **Published:** 2026-10-09T09:46:00+00:00
+- **Published:** 2026-10-09T16:14:17+00:00
 
-## India pushes back after U.S. bars Microsoft, Indian firms from Visa program (MSFT:NASDAQ) - Seeking Alpha
+## Administration bars Microsoft, TCS from PERM program, alleging H-1B ‘fraud’ - Staffing Industry Analysts
 
-- **URL:** https://news.google.com/rss/articles/CBMirwFBVV95cUxNaE5TeW1YN1VOX19uWHpIUkJGRjZsLWNUbjRIVThCdWRERlpIVUpxdFdsajl4ZW8yUWt4bVFWRmhQOWVyZG5xanMxQ2dzRTFjWkROTXhwc1R0SUdnWTFUX05RNGs4VmdyYkU4aGtHcjZtd05UNC1HWXRJQWZoQTQyQlNKWWhBTndTNkhqcVRma0NSN0hIbjRmWExWMFg5Rk1PMEhsUEQwREdTblNuQkJr?oc=5
-- **Source:** Seeking Alpha
-- **Published:** 2026-10-09T09:26:23+00:00
+- **URL:** https://news.google.com/rss/articles/CBMixAFBVV95cUxPeVJJbVFWV2h2OGxHSFZ3MjNYS0YzTDhXYVVlUTdCZ1ZIWkJ6Z195Q05kMmRaLUprakg3LVZJbUZILTBncjJPcWRPNFBjcVFZNy1mbjJsWHpKZDVpMkFHTldHRldOc0lKcmxvYi1US3R0RS16RTE0MkhoLTFCXzliX3BHUE9wcF9yZmlNNnFmT3prb1RRN0h0OUJ0TlozVVFxN2NKRTdjUkgxWkdMMGZmNnNYX3ZrZEVDRWF1YXZjN3FJZ3pv?oc=5
+- **Source:** Staffing Industry Analysts
+- **Published:** 2026-10-09T16:08:46+00:00
 
-## Immigration split-screen: Microsoft gets a crackdown and a medal - Axios
+## Microsoft's Surface Laptop Ultra is an AI supercomputer dressed as a laptop - Mashable
 
-- **URL:** https://news.google.com/rss/articles/CBMic0FVX3lxTE5lVmVSSXBMblRtMG9XUlN2QWlrVzV1eFN4TWhDUHAtV2c0cFRKV1Q5dlNOM2piQnZkTEdxVlNQRVRvY0RWMGV6alVWcUdubU1BRnBBdUxpaEtNckpVc2JvSTh6cy0zcVFMWVZHYlpmVDFKWWM?oc=5
-- **Source:** Axios
-- **Published:** 2026-10-09T09:18:53+00:00
-
-## Immigration split-screen: Microsoft gets a crackdown and a medal - Yahoo
-
-- **URL:** https://news.google.com/rss/articles/CBMioAFBVV95cUxPb3c3SDNmLWRyY2F1OWFSdFpra0FBVGRJczlBRDNmN1F2OGt3MDZKTTdHV3Q4X3ZjWTFZNnJZRE1EU2c0N1MtNV9UYTRUQnE5QUpOZnBndkNEUmRzODJjMUhOM0YyeGhMZFNuUW9EX1E1WGlzUmFVTlV2SVd2bFlXdE9FWUJHNGJIZHNKaDBFdU9DRHR4SUtlQklicHJDOVBE?oc=5
-- **Source:** Yahoo
-- **Published:** 2026-10-09T09:15:04+00:00
-
-## You have 2 more days to score Word, Excel, and 4 more apps for life for just $50 - Mashable
-
-- **URL:** https://news.google.com/rss/articles/CBMie0FVX3lxTE5qSVloRjU1UnJybW5Pc0kzSVQ0NmJpbmFvWlpkT3JDb2V3QlhrSVJLbmREOGl1Z2RIQXNDVEktZHFYZU1WQk5oN1JQLUNCVG1jSl82M25rcmdwaEQ2VGxSUkpSVDJUMDNwVDZJZEx0ZDgxQllzdmwwYmtaUQ?oc=5
+- **URL:** https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1aWnhreUhIY0NHMjVRZlVRN2tjUnZnYl9OWEh4TFNnR0hMY3htR2JaSzI2eEYzek1mS1ZXNnFJbXFjYjVjcmFBTjlVNFNKTVVUenJxZ0ZadFFXTmNWemt5MmJQZ2pQRlk?oc=5
 - **Source:** Mashable
-- **Published:** 2026-10-09T09:00:00+00:00
+- **Published:** 2026-10-09T16:07:30+00:00
 
-## Business - US targets Microsoft, Adobe in new visa crackdown - France 24
+## Microsoft really wants my old MacBook - Macworld
 
-- **URL:** https://news.google.com/rss/articles/CBMipgFBVV95cUxOZVN6VXBkblVjOXcxdkF5blNDNGZpNWhkTVBBZGcybkRZS0lfRDlYZVlycEVxN2RtRGcyOHNkMTBIMWZZdFpWMUlEZzRLMm4xQVdPVENsRk9Da2pxMWo4MDQ2aVYxWXZSeVZ2c2hobUlkbDRjMGRHV3gtZWhwNWcxYlNFbTBvcGtvQ2VKLWhjazlwUVpGemFSOGNIY016NmJPYWdONVFR?oc=5
-- **Source:** France 24
-- **Published:** 2026-10-09T08:50:43+00:00
+- **URL:** https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNmlnMVp4OHV2Vm5yMFA1dFYzSTdpbUZHYXMzb0tUM0lIRlE3VE1Bb3ozSzhpUzFyalJEdFh4akowVXNtd0NXdENjSnNJbUlCbnQtYU9JZmR4WUVOd1NIZWluSi1mTnhPV0hpY2JHNFdJX2dveE9EdTVrWUxSSHEtMWpFS3plcVdkM3hV?oc=5
+- **Source:** Macworld
+- **Published:** 2026-10-09T15:59:51+00:00
 
-## US freezes Microsoft and tech giants’ PERM processing: What it means for Indian workers - WION
+## Microsoft Reveals Nvidia RTX Spark-Powered Surface Laptop Ultra Built to Run AI Agents Locally - AI Insider
 
-- **URL:** https://news.google.com/rss/articles/CBMixgFBVV95cUxPTU1tY1N1cXoxSXlJaUJnWl9ONnF6SHNtaEVTRUQyMElFbzEtQXZmRDVHLXB0RHRLeWFyLWFHNUJ0VXdOWlRfWk4tME04QlAwUkZSTVAzeUIyZkYyWUZsTWtwcXc1eEJKV1Z4cjJvYnNrYkhXcHcta001eUFqR3lzTWJhcGh0c18wQWZNMlFpYUlta0Z1UWRZbFdqSXJwMWlHQjFKYldyRzMyQ0kyYzJHby1DN1lxRkNTNnV4TEZZT2NUNlhFbVHSAcsBQVVfeXFMT0UyOTZKd1V1VDlhT0JXOU1nQTQ2WlMyLUFsanFNcGptVldWSU8xQXlnd3IwRUM4Smw5VkxBV0g5cjBSdHZtbE9LY19XM2ZrcXZrV21TSnJwQVNnSHNwMGoxbWlNTUpYY0V4MUcya3V4V054R3pIUEV6VU9fdk5YaDJKd1FtTHRKUEFYMnBuLWlvS1NrYVk0Q0wyUmdUR3E3end1T2dIUXZQYzBxSFNEcGhmQUxZV1oxaHEzbW9nVG9qRFBSamp0VWN0WUU?oc=5
-- **Source:** WION
-- **Published:** 2026-10-09T08:38:00+00:00
+- **URL:** https://news.google.com/rss/articles/CBMizAFBVV95cUxPM0s0X1JMRXZqTlo3cXJjYVl3MFIwdjNSbkR1NVFLNFl2RFc1WTlXZElTckJjNFF6UGJHX2NfV3Zva2RSNGlSdnlMazVqYzgtWlUyY1JIWm5uZmNSSVJMNlZnWHQ4emlCMEd5Q0k3b05LanQ5ZWlBbGxLZG9jWnNEcVZ3ZFdoNnNodjF6NWtDZEkzdktKTG93dVV4ZmQwLTZLSjk0dUhLN2VvczJQZDFHMXc1blotTE9Qd1kwOURKSlBRTjJsSzhneEJfSXk?oc=5
+- **Source:** AI Insider
+- **Published:** 2026-10-09T15:56:10+00:00
 
-## Microsoft Says PKI, HSMs and Security Appliances Must Prepare for Post-Quantum Authentication - CyberSecurityNews
+## Microsoft Redefines PC Computing for Autonomous AI Agents - Technology Magazine
 
-- **URL:** https://news.google.com/rss/articles/CBMiakFVX3lxTE5UdG54b2VMck00YnpTN1NNQ3R4bWZmRmZCYjVIeDRUU2U3cGNSYW9BRXR5X1NDTGRvRFROLUpITFFqZENSNUtOX09iM2QtRFlISURXOVRodU1pU3NuTkx4X3NuNEtYZm16YmfSAW9BVV95cUxNazdfTjVvcV83TTNGaXZJVkloYTN5YV9SNXdVbjFaSVI3Z0VsdXlNRjc1RWJFRExIcmJWT3V3SWh5ZnFueldub1dUTHZYdWktb2hpSDNTYzBUU0lZWTVfbUt6ZmpYblpwdmRLdENmY00?oc=5
-- **Source:** CyberSecurityNews
-- **Published:** 2026-10-09T08:25:03+00:00
+- **URL:** https://news.google.com/rss/articles/CBMimAFBVV95cUxOY0hPWG1GOWUwR0Mtb2ttdmZYcnJ1MGRVU1NHamZtSUQ1TDRCRURpbktlX1NjajFBUmdGTkdfbVpCdXFicExhMU02OUR1WUZvbDM4czlaVXBZOEJhVkV0b2xOLUtSMk53ejI0TE9XZVNUUVhBUUxza0QtWU1pV0FPUTlhQWlIQ2UyZzFWa2szSmxSdDVqVnE2eQ?oc=5
+- **Source:** Technology Magazine
+- **Published:** 2026-10-09T15:49:39+00:00
 
-## UK ICO Secures Data Protection Commitments From OpenAI, Google, Microsoft, and Seven Other AI Developers - gHacks
+## Local leaders issue statements on Microsoft green card restrictions - KIRO 7 News Seattle
 
-- **URL:** https://news.google.com/rss/articles/CBMi0gFBVV95cUxPcVhqenpuUlJzZlBMT281alExTmpiNEg1Qmlhc0lQWW5iQ18yRGZTbkkxMXFlTUhUNng5UlVERmlJRGxnTks5anZDaFlJRDVWLThCVkEtNHl5eWMtRjJfbXlsckR5bGNfUHBvbXFxLXVuSHBuTjd5VEpxaDNmc2l6Y01OV1lqdmx2QzBOaFdWbUdhSkdWMGx6X0VuUVgydVQ3UGFkbmt0dXR3cWExS0J3R2p0c2R1TnpVbWxzNFVUbkxfbTNubDRJak1IWjRiazdPWEE?oc=5
-- **Source:** gHacks
-- **Published:** 2026-10-09T08:13:44+00:00
-
-## Microsoft suspended from green card plan - Northwest Arkansas Democrat-Gazette
-
-- **URL:** https://news.google.com/rss/articles/CBMimAFBVV95cUxNNjVjX1ZHRFRYdkp4ODk2ZVVvMmRyZG4tSjhUMFp0RjdXaVdwMlVmNm1wZVkzaWtkVHBiQklJSGtVUDdoZWpkZXdIZkhZM1lPa1M5d3dMVXMyQURVYmh4Zi1lazlYdEwweFk5YWgxbm1sanRCNkJUZndEc05jUUtmRW9oMkFGRld4V2tKUWtLMlRoYjltM2xWUA?oc=5
-- **Source:** Northwest Arkansas Democrat-Gazette
-- **Published:** 2026-10-09T08:06:00+00:00
-
-## Microsoft Teams Will Add Third-Party Deepfake Detection and Impersonation Warnings to Meetings in November - gHacks
-
-- **URL:** https://news.google.com/rss/articles/CBMi2AFBVV95cUxNbHJHQlhUVHI4VW5zeWJtWl9COVFBakRoUFBWLTJQalltQlBudzJrWGlDWmhGTUZDNEJ6WkxGS3ZuR2NCbFphMzZ1UVkwUWcyS09WV2ZSX3lqVXVLWjdCZExINEFuZG9TZy1scExybW1VbENtaHo3bFVXbm9XZTBqWENnYklubDhnZk80Z3F5cGdydXd2TmItTUdwNXFJUVFDYTZ2N0pFZnBIeWhvd01JNm04YjRENXM3RWVFekVsYjJ2R1ZaNGVJU0pyZU1KRkxRTzdlaXg2dEc?oc=5
-- **Source:** gHacks
-- **Published:** 2026-10-09T07:59:06+00:00
-
-## US Freezes Green Card Filings for Microsoft, Adobe and Six IT Outsourcers - Technology Org
-
-- **URL:** https://news.google.com/rss/articles/CBMikwFBVV95cUxNNGNBT0tweEx5R3BUVk5sX3JHQkhDY1Qzemw2RGpodDk4bWlrbUs3aEtZTFBhSVRFS0hHQnRBczNVWDFwVThnWlZ1bHhvb1RXOXJES1pCYVUxWGtSM2V5RzQ3TkdlaEwxcTZfMk1wSGg3VkxiZ0xueEpkcFVZWUY0M0UtTTctem1nRkNpbElSZHpKNGs?oc=5
-- **Source:** Technology Org
-- **Published:** 2026-10-09T07:56:32+00:00
-
-## Washington Just Put Microsoft at the Center of a Visa Crackdown - Money Morning
-
-- **URL:** https://news.google.com/rss/articles/CBMilAFBVV95cUxNVG01Mm1qVExoUWpxYjlIbXlCd0xRT2EzZUQ4V09CcFRrX1YybG8zNWVZeThfNHhrQnl3dGR5encwQTd6WlkxVzZvbXNMRDd3bTBKcmNWajlOLTF3Vkw3OWlfbXNwTTBNQkRXQmNRNVBnWjlOaG5hVm8tOXA1ZFN0SzNSb211bHpYLWNnOVJWS19PcDJ6?oc=5
-- **Source:** Money Morning
-- **Published:** 2026-10-09T07:47:22+00:00
-
-## Angry users taking step against Microsoft after M365 OneDrive storage cut from 6TB to 2TB - Neowin
-
-- **URL:** https://news.google.com/rss/articles/CBMiugFBVV95cUxPRDMtSWl6RFRxY29uY1NnNFlRaUFtRFJQSUJhSnBtTXJOQlFRQkdSWmpMOF9GVnprLW4zb1ptTU43VHpMUWNFaF81TEgyOFR1ZHhtdVNkVU1mNmlRMGVBNk5NN2FKb3Z5ZEhWQnppY3RnVzlULXQybVJSWlZiRUQ1MzZPTVQ4Rml1WFkxWnY3VzllTGFyOGFXMkhtWjljWnZVV21aTk9HaTlDRWozRVlONGJHMmVwcE1xQUE?oc=5
-- **Source:** Neowin
-- **Published:** 2026-10-09T07:41:15+00:00
-
-## Microsoft 365 Family Plans Finally Share AI Access - The Tech Buzz
-
-- **URL:** https://news.google.com/rss/articles/CBMiiwFBVV95cUxNbTFpWGkzbVlSMU5rakFDYVBVdlJwcUFmRHhTWDhNRU8tOXdkLXFfcVYyRERESVRaUzZqX3Vqdk5teXFuWEc2U2xtbXpyLWpuNERoQVA5Q0p6U21aLUlncThWWk04cmotWUJKMmdoS0JRSDVEN0x4ZFlkdkpLcVo5V295QkpBOU1oVkVr?oc=5
-- **Source:** The Tech Buzz
-- **Published:** 2026-10-09T07:37:00+00:00
-
-## US kicks Microsoft, Adobe off H-1B visa program over alleged abuse - Türkiye Today
-
-- **URL:** https://news.google.com/rss/articles/CBMirAFBVV95cUxNblcyaUFYSnlaZzZrUUh2czhSOFZKOXYtUm9OT2tLSUNxS0ZIYlhqeXJhM3FRVF90VDU2SXh3V3FEU01uUjNrNnZDSGt0Q09QdjM2Nkk0UEVyZTVXclgyTWxaWjdMY2I0NDdDajdvcGJPQ3F6YXQ1LW5jZFB2dGZFMmNfM0IzUGdJMnJlOUZQN1gxd2pkbTVCczFGWFFvSnpUUEJqQ2plcUszQ20y?oc=5
-- **Source:** Türkiye Today
-- **Published:** 2026-10-09T07:15:08+00:00
-
-## Microsoft 365 Family subscribers will finally be able to share AI benefits - The Verge
-
-- **URL:** https://news.google.com/rss/articles/CBMiowFBVV95cUxQMFBjVDI5Q0tHcVBQb2NfRDJ4X21FODN4enFPOXlORS1RV2dFWWNrUG5GdHh4dDdtQi1WdTJuYzhSbm5sOGJ3aEpqQXVUbjMtTkNSQ29NVFVfNnFncG5PQzdpWEtrbDM2cDJYd2t2ZkM4a21jdnZ1d25NZEpEbnFyeW1vTGE0TGtlY0dZQjBYX0hac2N3LUExb2IwblBGbzZ2ZVBz?oc=5
-- **Source:** The Verge
-- **Published:** 2026-10-09T07:14:32+00:00
-
-## Microsoft and Adobe Face a Green Card Sponsorship Freeze: What Investors Should Watch - TIKR.com
-
-- **URL:** https://news.google.com/rss/articles/CBMitAFBVV95cUxNZm5OVkRfR2NjUTlqeEVvdk02Mmh1RjJwcjlFMkdZcWZ5RGJyTHFmNlF0bTl1NDJVT2hkMVg1bERiN2pHQWZNTEZwWVZUaFdEMjBhSWZHbnR5NGdFeTJ6NWFFcVM0THMydmswWGlvNkpldnRjXzY1bC1LM2xENk5yTm55TWRiTHRMLVRhVUtwaUhjWFBLSWh5WThCbkZrMUZ1a1FMWUg5VWdFMVJ5TU5STWdkVXU?oc=5
-- **Source:** TIKR.com
-- **Published:** 2026-10-09T07:06:04+00:00
-
-## What Smart People Say About PERM Suspension on Microsoft and Indian Tech - Business Insider
-
-- **URL:** https://news.google.com/rss/articles/CBMiqwFBVV95cUxPR0VwMDhQS1RWRzZvYUhwWHJWbjFQR25GUjl4ejBtSk5yYnJyYTFWTTByVTQwZVFkVVpVNUxNR0ExNDZpbjN0aGtXRDFvZlBLMlJncVE5Q0Y3MHN4b2EyeUZtM09mUllleWtWMkR5aHFtb00wbHpMT1FXV1RiQmVfV1NIOXVhdWxwbkV6MUdqRzk4Y05RZjFWZnFDOUVING1odmdkQUlVQ21ldVE?oc=5
-- **Source:** Business Insider
-- **Published:** 2026-10-09T06:41:00+00:00
-
-## This is what the green card freeze means for Microsoft - Reuters
-
-- **URL:** https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5sOHRjSmZoejN6MHA4bTNSa3JhenNBWEo3TFlPVnI5YzdKRTVDUF95NEViSzdNOHFRSU1mRUZDX0FoZ1gya0hMTnUwTlMwVmp0RnB5OERUSUtwYk1Nb1M4dC03eE5rRG8?oc=5
-- **Source:** Reuters
-- **Published:** 2026-10-09T05:58:29+00:00
-
-## US bars Microsoft, Adobe and Indian IT firms from worker visa programme - The National
-
-- **URL:** https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWGFvWEx4S081d0F5TTZoSWlXdnhhdWJsaW9ubDhxazgxc1hGc18xWXhMaVhFLVhjX1pKNl9KQUVNZEg0c3NlWjRyRmNTbm9XSE9rcE42OUpXaTZWWHU1T1lWTnE0Mk1tcGJRdjFuWC1wdmV6Z01OZnl1VUdDNk1adk5lWlJQN3FrcXROeWs0MlRVTUVrOGhGZWYzZnM1LUltQmVHUEdUSEd0ZXNFcS1lazZkdVQ1TnYtalJQMm03OEw?oc=5
-- **Source:** The National
-- **Published:** 2026-10-09T05:56:35+00:00
-
-## Microsoft 365 Family and Premium subscribers will soon be able to share Copilot AI benefits - Neowin
-
-- **URL:** https://news.google.com/rss/articles/CBMivAFBVV95cUxPR0hXRHJvc1J4MVdhYVdoWkJKWjRTMTVYdktFUy1TM3Jzb1k0SElxSWRIRV95VGhURFdCN2pYc2F1TW03RkhYRDE4Y203T2tnZjlRWndKS3dMR1duYXFTel9CdHFmZEt5NGk0R29pNmZpd0JtdVFNQUF2UGpxS1MzRXBWeUNSN3h1NEVsX1N4X3ZQdHBVWG5DZlVGcDVtaGhhU1c4Y0lyVnpXdG44NGlyOGJHMVlwMExua01Fdw?oc=5
-- **Source:** Neowin
-- **Published:** 2026-10-09T05:20:00+00:00
-
-## Microsoft rebuts White House claim it replaced thousands of US workers with foreign hires - Cybernews
-
-- **URL:** https://news.google.com/rss/articles/CBMifEFVX3lxTFBnZGFDaTA2SllRR2VkTWo0M2JxZ2pVOHI0ZkswaG50WWxWNmcxVHY1cDYxczZ0R3lDRjVQQzRzd1V6TlZ1VGJCZnR1ekhUTDR3TEpfTkZfMGV3YkNlRGJ1a3RIaTFNTlViUy1WbkVyc1pYbmM3akZiQk5nZjE?oc=5
-- **Source:** Cybernews
-- **Published:** 2026-10-09T05:04:57+00:00
-
-## Three Mile Island Microsoft - The Athens Messenger
-
-- **URL:** https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMzFycUVGdFZuUEp1LU1kOVdaejEzX3NRbnNnUFlGa0JhVy1oYXJLX1dlVjYxVGV5ajBXRTFmaHdvZU9nNFFEalV6alJlZHliaWFITTU5aTJrWGZvZzRMbmNaV3U4bnlhMU8tUlY3MWZWRkh5MGVXbUlDSXIycTFTTEdQWUsyZTNISXhabWVxQzdLM3JPOGZNMWJIUHJvLUFaSDBxT0pKcHllZFk?oc=5
-- **Source:** The Athens Messenger
-- **Published:** 2026-10-09T04:55:58+00:00
-
-## Trump's foreign worker crackdown comes for Microsoft, Adobe, IT firms - Axios
-
-- **URL:** https://news.google.com/rss/articles/CBMioAFBVV95cUxOTHBUeWVBdWg1NlRjbm0wVUJSSFlGeVRMczI1UjNTNmFPUkVfVHpCVzRZVjM1ZHFMQlBoV3I0a21LY1JLaW1QWDNPMVFSYnpDSm0wWW1pVUJyWFhFc1BLdUg2WTRXbUNLMkdDd01zN280U0EwamFyS0puZllkMFRQOHA0Q0l4Wjl0VjJmcml3Rmc3Zk12Tm9ndFlzclRRQzE2?oc=5
-- **Source:** Axios
-- **Published:** 2026-10-09T04:15:39+00:00
-
-## 2026 Digital Defense Report | Security Insider - Microsoft
-
-- **URL:** https://news.google.com/rss/articles/CBMipAFBVV95cUxNeWlwOF9telRFc2xNV1hRaFUtaTBMSFJucVZFdFh3NmYwWXk2NDdvOVZkbk1MZHEyZUhPMGg4czczWVAxdThWVVFtTDFYbk41TlFPS29iZDZvLWlzTkRFYmh4NGVUYWVGa190MlVHQjl3ZFdZaE5NcXJaX2Jxem9jQzJCeF9GTk1uM0cyYkE5b3JiLUx0SUtDRW83OXNNV1FXcjk2Vg?oc=5
-- **Source:** Microsoft
-- **Published:** 2026-10-09T03:59:22+00:00
-
-## US bars Microsoft, Infosys, TCS & Wipro from Green Card programme: What it means for Indians - Firstpost
-
-- **URL:** https://news.google.com/rss/articles/CBMiygFBVV95cUxPdnZfWTlUNWZFaEZVb2lzS2ZPcVBpVEk2ZE9TdGNiSHNOODAxUnpabjhhNFpTeFJXcVhnUDItVzUwT2doelJJZFpLcDJXWEFTTWhMdVI3XzhvN0swVWkzeG1SSTRVQUlEN3NiY0I3aHd1bG1mWmxuWFctWHluYUhCTEM2ZWxrbHJmSTVfVVBRNnMtSUExbGU1b05GdkZlWm5BSU9FUkRYcE1tM3luMlV3MEE1cDRrMV9fZUxQR25VZ241RTY4WDZ1V1NB0gHPAUFVX3lxTE0zSTZEX0o2SUo1T2F1ZkZoYTlsMzE3SnRaTlVISlBCTG9MT00xUEc3Mml0X0hTbG1TQmN4VEw3WVpwU1VlTDFMNGNJY3R6LTFYMG9rUWwtLU9oaVgzQ0tMQnNMc2c4TWFnVUx2cS12LU83dXRVT1hJSHZpUlZPTWlVSzRQSk5GRkJ5eEtSblJVQW5fUFZLUWlROWV2U05salhBTWVDVlpqWmtZLTJvX0pJdHJ4ekVjNkJRcWhLNmpCMTM2eDZKNnhpNzhZWGZobw?oc=5
-- **Source:** Firstpost
-- **Published:** 2026-10-09T03:43:41+00:00
-
-## "Indentured Servants": Vance On Microsoft Hiring Foreign Workers Under H-1B - NDTV
-
-- **URL:** https://news.google.com/rss/articles/CBMi4wFBVV95cUxPVGxLeGpJLWlkX3pNVVNUamFpXy1DLTlCeUd2cjduVTBMaXRqTnhXZmVtd0RNaGlFeEUxeERHT05wb0hUbHN4UGROVkhQaGhQQUllajNRYzFjQXdzZUtaZnJzYl9OQjdYa1VHUHNIMEdDYkM5MS1UeEVUcHNJZnlhbjJpM2xaYUViVWpBZ2VTR1kxRTBkMktfZkJKdDVyRERvR0NrYnlfemNrYlNOYjMxMFpzc29SNzRoZjVwRXhZSldNdUZvQ1lndTl2TmxjWHpLalFfbWZfZFZsQTRfai1MNF81RdIB6wFBVV95cUxQUnpTMG5Za3BfQy1BWGVrRXJ2MEdKWnJHYmx1Y0wyQzlfY2Q2UWlfbEFoRlRRVXI2emgzV3JHTnpWVEMwYlRZenFMMURPR29YR29xcVB3eWZTOVktRzNEdzhjN2x3cVhST1cyeVpTVDJ2azlRMmNqSm93UHduUU1TWDJRYUlFbFJQS2IzRm1qRXZkYVpxU2JfVk1vcnZYWU1hN2pxVjZlSlloY1lFcmhScUNfUUhfaTd2c2hpZXhSSHZQU1dKVVRhT01icllVdmFMUEVtaHZpSXk0LU9STmVvVGpVUDZtM0F3V0g0?oc=5
-- **Source:** NDTV
-- **Published:** 2026-10-09T03:13:04+00:00
-
-## The advice immigration attorneys have for Microsoft workers worried about their green cards - Business Insider
-
-- **URL:** https://news.google.com/rss/articles/CBMioAFBVV95cUxPcW1yWDZpNjlPNkx3QmVmODh6azl2WWU3ZXpDSGVkb0ktVUtvOXAtQTNlWUJLbko5bFJleFEzLTdtNk12eEZSeThPTDBBY3JYZGR6TUJfa080ajlEdjh4TXo3MzlvWEFmb1VEYzZGNV9RSFJIQWtla3pKWWhnNEpLV3o4X09RSWNZYi1qbllxbjlpOTRsZW9kdkozemxyWEkw?oc=5
-- **Source:** Business Insider
-- **Published:** 2026-10-09T02:34:00+00:00
-
-## U.S. suspends Microsoft and other tech firms with India links from visa program - The Japan Times
-
-- **URL:** https://news.google.com/rss/articles/CBMikwFBVV95cUxNazB2MDlaVklMeUxydk9KZWtlYS1zZldOZU1YRThrbXMxX05fYXlzYUFaUkFycFNCVXNzLUpITm5BQVkxQ2MtdVkxRWtwc1p3ZldsalBpUTFMQ29VZGYtR0thSTlJWTAtYlZiSmhVSzN3RDJScW5xUzNWTzdSbFFiSDE5LVFYZkdKOHhjQTJkSWFGS0U?oc=5
-- **Source:** The Japan Times
-- **Published:** 2026-10-09T02:12:00+00:00
-
-## Microsoft created a magnetic USB-C port, and you need to see it for yourself - Mashable
-
-- **URL:** https://news.google.com/rss/articles/CBMiggFBVV95cUxNcUFjUzdaQkRuTndmem1IYXc1ZUo5MldsUngtQVhONDFVZWJsM083THB3a2VJNVF1RnBEaVBKM2dxU3BFU0lIU3Vwc0t2dWMycFhnNGItM3BkdmdPN25FV0lEUHNQVDJSNGlOQjBxMFg1a3hmMEUzak90UmZKNERfMHJB?oc=5
-- **Source:** Mashable
-- **Published:** 2026-10-09T01:38:34+00:00
-
-## White House bars Microsoft from sponsoring green card applications as JD Vance accuses it of fraud - SiliconANGLE
-
-- **URL:** https://news.google.com/rss/articles/CBMi0AFBVV95cUxPTE9aTWNqV3RSR2xnRG9HRXZJcG1DNXdrS1BFSUVsSjVqaVlzWGxGVnFsX241dGxzMTFpWGg1ZlVLSkFEV0tPMGZmSkJXeDIwanhTb1FOcUl5MGNSYVg5aWthY3ZibWp4cE1VOFh3eUY5ODJBSzVQZWRKRjdralN0T0d2OU5CZHVzUUh3ZVJmbmtZeGZxQlZZNnExZC02QWRYc1ZBNXgwSHloLTA4Z09DUXlaMlhVak45SFNCSDgyUGREX0s0R2JfNXEzamZhb1hG?oc=5
-- **Source:** SiliconANGLE
-- **Published:** 2026-10-09T01:35:00+00:00
-
-## White House suspends Microsoft, other firms from green card program - USA Today
-
-- **URL:** https://news.google.com/rss/articles/CBMiygFBVV95cUxQcVlPTXBUZ3NMWS01RTZuLXloY3dUQ1RxdVZyUnM4MW9VcEhtWm5OWlQ0UzhQdU03SUNBRG42a05Yb200a1pmMG9kRXlVOHZaOUw0WWVSQVpXWGtYREpuRlhsbVJnVTNpSWxjcEFYSnlqN3ppOUFjWU5waU1CdGM2aktEQTFhWHZMSWhtTFA5Ul9JdDh1eFVzZ2dPYUNCbXpmUFYxZ1MwWUR4UmFYdHlTc3JaN0pRLWY3UERJTlpRbGlmZFJIajBpdjdR?oc=5
-- **Source:** USA Today
-- **Published:** 2026-10-09T00:46:00+00:00
-
-## Trump officials block Microsoft’s access to program for employee green cards - The Washington Post
-
-- **URL:** https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWWxEWHVLM3hrdWRUWEVKUU1iWUV5Q1pWMU9qVFlqSmEyaldsUHhKQmE3Vm0zM24wRWI4a0RfQWdBUTVZMEFkZVdSUzFWbENCUWRJY0JtUU9kRkZXcXhvTnlST3RNd005N1VTNl94YVc3aFIzckltOHl0MVl3a2ZveHZJT0NKTmJTYVNPMGcwZUNuQXBTSnJHNVIxbTE1OW9wV0YxYTlUck5fdXg1NlJHbk1JQmYxam53MldLYmM0Vmc?oc=5
-- **Source:** The Washington Post
-- **Published:** 2026-10-09T00:29:03+00:00
-
-## Trump Administration Suspends Microsoft From Green Card Program, Alleging Visa Fraud - The New York Times
-
-- **URL:** https://news.google.com/rss/articles/CBMihgFBVV95cUxON1FwRVJBTS00eVRuenF2eUQtZnY0dlRySE5LNHFjdHlsSFlxMndNYkdlWGFxbDZaMGpFLWdOcERfQnE0amxqazRJVFNzcFliWTNDT003ME9iNGVSZGFPcnRMODRkLXBWVGc2Y1BETk5OMktKRU1ZRXhCZk5xcVRBU01RWjFSdw?oc=5
-- **Source:** The New York Times
-- **Published:** 2026-10-09T00:27:00+00:00
-
-## Trump administration suspends Microsoft’s use of green card program - KIRO 7 News Seattle
-
-- **URL:** https://news.google.com/rss/articles/CBMiwgFBVV95cUxPczk3alJRR2hIUkNTWm9kTjVkZDBScV9LV28zbTNGdzNZVWV3cFBSMDNFVnctYUdGNnNDSzZMSTg4SzlvazB3SU5WU1hBUkY0dkY2ZGhTUWJDSGRhZlAzUWRUbG40R1RVUmYwUlNGMFAwS3E0dzNNQUZzVFJFRl9VOWFwSnRyRW5tS1JRWVo0bnZGeFFsT2FGZXpWU2psQ3JWMWRqbnZ0azQ1ZGs2RFpDVHZTYUxxQjQ1cXdfOTNVVHZjd9IB1gFBVV95cUxPR3RrOENxdlZ1ZGNnQU1GVmQ5aGN3TnBmOHp5SFRoYzVLTmxCaGNMWHJZQ2VuZEE0dkxDSzl6RHA4OEtCcUQwOFB6VzUzSWdNdHFNZUhOWHhzMm9UdUJTaU5EeHN0emtFekItZEhOTFlPb2ZwYldSY1p5TGZZQ3p1SXdxWmxYWVR4dWl1QmdDUFI4dmo1dTdjdlM3TVk5MVlQaE93UGNISGFINk9vWVFTd1RtaTAwU2NjbENCYkxkVFhaMnhLMGotb3VCWUxRSWtDbVYxa2ZR?oc=5
+- **URL:** https://news.google.com/rss/articles/CBMi1wFBVV95cUxONDRkRzFrUDNjRXJqTG1nMUJydktZdXVXSTAyeDRqTHh2cEI5d01JdWQxR1U3R0hnNE1Bb3N2bzNSX0huYWN3ZVNGX1NkbFVWRDZpX09JZkowM0puck5qbHB0QWtnZDhnSjVKNFJfaTZIV1U1QlBBcTQ2NFVfUEdraHRSVGNKMWRmNzBxdWx6dHZwaDZRdzltU0c2S05tendUNjdWMGhfdjBUaE5DQnZWSnh2Zm1uZjF4REtvNzNqc05ETDJqSWVvX3ppUzZqUEExWFNMY2NaONIB1wFBVV95cUxONDRkRzFrUDNjRXJqTG1nMUJydktZdXVXSTAyeDRqTHh2cEI5d01JdWQxR1U3R0hnNE1Bb3N2bzNSX0huYWN3ZVNGX1NkbFVWRDZpX09JZkowM0puck5qbHB0QWtnZDhnSjVKNFJfaTZIV1U1QlBBcTQ2NFVfUEdraHRSVGNKMWRmNzBxdWx6dHZwaDZRdzltU0c2S05tendUNjdWMGhfdjBUaE5DQnZWSnh2Zm1uZjF4REtvNzNqc05ETDJqSWVvX3ppUzZqUEExWFNMY2NaOA?oc=5
 - **Source:** KIRO 7 News Seattle
-- **Published:** 2026-10-08T23:55:04+00:00
+- **Published:** 2026-10-09T15:44:35+00:00
 
-## Trump honors Microsoft’s CEO after Vance drops an H-1B visa hammer on the company - Marin Independent Journal
+## Local leaders issue statements on Microsoft green card restrictions - Yahoo
 
-- **URL:** https://news.google.com/rss/articles/CBMihwFBVV95cUxPejJENWJpa201alhObGkza05aTlpmN3dod3ZHZWU0VDNfRjJUaVgyUDNCRmF0MGV4WHpvRHpibHlpZTdIdF93eDk1RnAtb2p0a1luYzBISFoxWURiVlcwSlJzSW5zWkdBRWdhbnItOV9mUm1qTW1ERWl2RVI3Wmc5WjQtdEt0VVU?oc=5
-- **Source:** Marin Independent Journal
-- **Published:** 2026-10-08T23:18:46+00:00
+- **URL:** https://news.google.com/rss/articles/CBMiogFBVV95cUxNZXRkcUU4QkJ2Qk5qVVVyVmtvQjNfb2ctdWZFWnE4b2JWM0tYS3UyN1M3Sjg4UmcwWjNkMGxXRGYyUVR2OE8zRF9qLWFkUTlzOTdaOXhhWk1aeklJU3dlbUl6aUNiTi1rUzY5S1RfVUUtM0QxWjVjc0dBelRQV1hCR00yVkhWTUEzTmxXcy1JOUJoZjNNbmpCMmxEVGlwb3ZCRFE?oc=5
+- **Source:** Yahoo
+- **Published:** 2026-10-09T15:44:35+00:00
 
-## Huge Update for Microsoft Stock Investors! - The Motley Fool
+## Microsoft reveals plan to make Windows 11 Search much less painful to use, including a performance boost - PC Guide
 
-- **URL:** https://news.google.com/rss/articles/CBMikAFBVV95cUxNaFZudWdBemZCaTQwdXk4MmVOenBvTE1GUlhuZUp4QVNCSk8yeGZOV2ZvanEtRndvcnhOdlg2THNXSWtFdGV4TWU2U0ZOd0FIRzBCN2ZIMjJKeU1icXdzUVdEZlBUS0FfMXZjZHlxZmR3c2FqVVM3VGRwRHQwdUJ6azcwOS0xa19GLTJNSGNXYXE?oc=5
-- **Source:** The Motley Fool
-- **Published:** 2026-10-08T23:12:49+00:00
+- **URL:** https://news.google.com/rss/articles/CBMizgFBVV95cUxNaVQ1QzhqMkFVcHZreUNZZ3dIZWJWV0R0d1B5bVBqc01KbG81djV4SVAxZ3lpdVdKWURWc2NlbWF1dF9ubmd4MjBRUWNnXzNNdWhlVUFQRlpHQ0tYdU1LcEw5SlFKSUlrZy15UFJiQjQzTlN6a2lmUFhvZW9RVExrRlcyWWxYTHYzaEk0c0gxeC1sVzk0VVE5YTY5TDBqODNaMUczbHA0STUxV3Z5ZVpNX2RjcXlrRmRLcV9HT1RMbVFDd1pYUG05UGFZQzRYUQ?oc=5
+- **Source:** PC Guide
+- **Published:** 2026-10-09T15:31:12+00:00
 
-## Shafaq News..US suspends Microsoft, Adobe from key green-card program - شفق نيوز
+## Microsoft pushes back on JD Vance’s H-1B claims: ‘We believe in American workforce’ - The American Bazaar
 
-- **URL:** https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZGQyTldGcWk3LWtBblotRHpaYmh3LVh3NldGTTQxWWk2eXItR2UwSlZPaFNvckt2TTNHRUpfd1RpUjRnRWxGMFF4QU1iVEJRR09JbHcxQ3Z1d0xKdmJDVzZXbXZxREVvNS1jQzFheTluTXNjVEsxdWM3OTV3aG11dDl3MVlWd1ptaEJz?oc=5
-- **Source:** شفق نيوز
-- **Published:** 2026-10-08T23:00:04+00:00
+- **URL:** https://news.google.com/rss/articles/CBMinwFBVV95cUxQNEJKZUd0bVFJU1BUc0hLbENNVkR5NE1lUGE3VGtDSTlfTzg0Zm1yVDBxekl6QUhQbXU0bXRGbGtqN0dPamZ6MXdjYjdGM3NtdFFkeFE1bHRIMHNfN1lSVzFGclo3b3dDX2FlQkJxaGxhckx2NXAxQXBaZUNId2dWMU8xQUU3OVNZNUtvSVowS3JGaDJLa2RRbmgzSnJIN0U?oc=5
+- **Source:** The American Bazaar
+- **Published:** 2026-10-09T15:03:38+00:00
 
-## Microsoft disputes Vance’s math on hiring foreign workers - The Seattle Times
+## Microsoft gets paid no matter which AI model wins - TheStreet
 
-- **URL:** https://news.google.com/rss/articles/CBMingFBVV95cUxPTHRCaWtFRWZLai1PcWU0ckFpVVNoeUVFby02aTRHY3pMZ1pyT3RPaHVEUGwwdDZaV2ZiS3huOElMejlJYTZkcjM4UzJjZ3dzc19HdFdQdi0xVkZnRTJpZnFaYU9BT3QtWFpXMWdYRUlZd2pMRGoyQVh5ZWNITnRfbF94bjlIeHNaaHZObFNaOVlqclRKc0ZndWVYcUI1dw?oc=5
+- **URL:** https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNVNlaWExdUYtd1ljYnYyUXFSTk9xMnNTYm5CRDFUZFdOT2hHOXNpUElScUtYd0JiVVU0MmsxdFFKTEVuQnY1ZUxjdXBlS3cwbWdtRkdncWNMTjZvY3p3TUxrMlVsYjQ5eXVYSEEwWEUxaXpHd3ltYzZ1cWJBZ3BGWkR2TDFOOUJZVjBj?oc=5
+- **Source:** TheStreet
+- **Published:** 2026-10-09T14:47:00+00:00
+
+## The Trump administration is suspending Microsoft from a green card program, alleging fraud - The Miami Times
+
+- **URL:** https://news.google.com/rss/articles/CBMikwJBVV95cUxNYVRvbllubGx2RDl6YjFrXzlOSHpwSzd3dHQ4ajlxUkFuVnpZdU1VMnhkTFpjRE1LeDlTSWJhRnlKdlU3QmNRVWRSNm5Ya1lKSnFWWDZueW4xVG9qWkhRTEJrelVRbjB4LWh1WTVZSFFxb3NvdjFma252TTAxTWJaMjByOUpVY3lMNkllMnpfak5TT1NqeXVnN3cxQVRCS1FLcVlYaTVCZHNGMDZmUTRfYm5hVzV5OFdxejA0UE9NN3hIWjdRd0JwNFpFaXJRWF92aGx5MGQ3T01qNzdlenRBOEFaTEl1aHZoWWM2THdrOW1BQzRXUnp1TG84VG14My1VcUhEU0tZYmRFbTRmVnZmQWNxMNIBkwJBVV95cUxNYVRvbllubGx2RDl6YjFrXzlOSHpwSzd3dHQ4ajlxUkFuVnpZdU1VMnhkTFpjRE1LeDlTSWJhRnlKdlU3QmNRVWRSNm5Ya1lKSnFWWDZueW4xVG9qWkhRTEJrelVRbjB4LWh1WTVZSFFxb3NvdjFma252TTAxTWJaMjByOUpVY3lMNkllMnpfak5TT1NqeXVnN3cxQVRCS1FLcVlYaTVCZHNGMDZmUTRfYm5hVzV5OFdxejA0UE9NN3hIWjdRd0JwNFpFaXJRWF92aGx5MGQ3T01qNzdlenRBOEFaTEl1aHZoWWM2THdrOW1BQzRXUnp1TG84VG14My1VcUhEU0tZYmRFbTRmVnZmQWNxMA?oc=5
+- **Source:** The Miami Times
+- **Published:** 2026-10-09T14:40:00+00:00
+
+## Microsoft (MSFT): Accelerating Azure Revenue Growth Drives Quarterly Gains - Yahoo Finance
+
+- **URL:** https://news.google.com/rss/articles/CBMiqgFBVV95cUxOejJNV0E1SlVubFQxYnJaWWM4b0lxWWRGU3RfNm9TWXNyYzdyNV9lTmo3Y21fcGZsNmV3VnBBRHJUaWpZdHhVOFNoVEZ1RGhMbzZ0LVZkMXF6cnVqQTFVcUE0SEIxMFRiSWt1Wk9DNHhVamhMX3FsZmF5cmJJLXZsRnlQeF9lU2tIVVRXbWtrQkRPM2F2R1h1NFBMcE81SFhBQzFmX2lqMnViQQ?oc=5
+- **Source:** Yahoo Finance
+- **Published:** 2026-10-09T14:36:07+00:00
+
+## Sharing Microsoft 365 with 3+ people? Your OneDrive is shrinking - PCWorld
+
+- **URL:** https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRUlzZVUxQi1nbEliOEN2VjZVODVoSXo4Zkt5OGV3cXo4RVROOVhhYjhZNG9FVDhVRWNhUEJ1Vm1UbkpCcDBhaXViUnpuLXkwZDNnME11dzlEbGpkN1JnbGQxUmF3Y2JlcWt4djMzYlR2Zzh0Y3liU3AyUkFHdHRDYVBpSmJwUTRvY0xkLTVDVUMyYTZBamVxUnBZSzZadFB4a1R5Vk95MVpnWFk?oc=5
+- **Source:** PCWorld
+- **Published:** 2026-10-09T14:29:56+00:00
+
+## Vance: Microsoft suspended from green card program over H1-B ‘abuse’ | RISING - The Hill
+
+- **URL:** https://news.google.com/rss/articles/CBMixAFBVV95cUxOS2dSUjFtWDZpc0FOSmp2LXhjT200UUhNSlNad1NYNjdiU1FubFFmU1RYR2QzLXJsNWNnZDlROVdtcU9TX0lpWVdTNTVHTzd2b2NKaGFvalBBeU05Q294WjBBUTJTekZvXzZwV2pQejk2OW9ubzl0MkFvWmN1cnU4VHdfVW9rOFFwNFdIbV9jTnlBOGFrclFjcU1EUHRLREtHTlZLd1lGY3d6cHdnUDBQVVNXNTNUQ2JZb083M2lZQ04ySFVn?oc=5
+- **Source:** The Hill
+- **Published:** 2026-10-09T14:29:00+00:00
+
+## Own Microsoft Visio Pro 2024 Forever for Just $50 Through Oct. 11 - PCMag
+
+- **URL:** https://news.google.com/rss/articles/CBMilgFBVV95cUxOemZlLV9IQ2JZaHl4VnVmTDdiZmk4d3dXLTRrNmd6UmhRTnFpR29lNjhBOE03eWZCalBRaU9QUUdCRVQ1cENETzF5OC1iaUNyTzVFNVJIaHROdktWbzczb1FhRTVhN3BPWWcwZEtoREk5R1Z4d19tdi1veVlSRC0zOEdKVVZmNmJ6VHNUVGZIZ09EekNBTkE?oc=5
+- **Source:** PCMag
+- **Published:** 2026-10-09T14:28:46+00:00
+
+## Microsoft 365 Consumer Subscriptions Are Transitioning to Shared AI Benefits and Cloud Storage - Thurrott.com
+
+- **URL:** https://news.google.com/rss/articles/CBMiygFBVV95cUxPeE11WGM4S2ZWRlEwdEdBaVhvTU9qVTdZc21abEZsODNGZ2hvWFZCNDJOZ0YwX2tkMi03TEVYUFY5Vjd1ck5pMkRLVzktU21qY2trWWJNUWZfc19GM1llV0F3V2ctUWxHQ0xsLTNSaWtqV0I2a3VVSjlNeUNZZzlHaDhILXltWHNlYU9ReGVEYjRDa190OVBXUi0wdzctNXRtVW03dW90OUk1b0VwVG9ua182YUFsTkhaY3hVRVNqOFBYUkZPQTA2bEd3?oc=5
+- **Source:** Thurrott.com
+- **Published:** 2026-10-09T14:27:27+00:00
+
+## Tech giants Microsoft, Adobe, Infosys and 5 others lose ability to sponsor African and other foreign workers for US green cards - Business Insider Africa
+
+- **URL:** https://news.google.com/rss/articles/CBMi2AFBVV95cUxPMzBjMlRSaWhXZjhYa3ctcGdFdkhZaDAyU2VKY19xa2lNMGdPakdDWVVxcDRJY2YxbC1icnU0X1dMQ2lrbjVESXlCTm5qOXUyNW1QSkVEZHJ2eG9EYlFMMWZzMDY3NTh3VWRkTUlJSEtqN0ZEU1ZRSGNvV0Zncm9xQndLZkZiVFo3VjB5Z3dJYjV3UXpqZV85VDdSc1lfVnVSdFVBMkU5QjhxNkxiS3JVR3Z3UlhKemhuZ2gtSTdscU1icGdBaTdMVWRuOTRXZmxZVDhIQUZKQlE?oc=5
+- **Source:** Business Insider Africa
+- **Published:** 2026-10-09T14:21:01+00:00
+
+## Microsoft and Adobe are suspended from H-1B visa program, with Vance accusing the tech giants of fraud - Fast Company
+
+- **URL:** https://news.google.com/rss/articles/CBMi1AFBVV95cUxNSUNQcXgxN0RXYlp6MmdtNkQwcV9GUkotTGdzTVc4Z2phYzluSENPV0ZKTFNqeXltSnduR0RDYjF0U29JeF9ac3BUazVOVVI3T01jSmdZMTVBRThpb3B4MGJmcHpmR1ZhMTZEODNUbTJLU1ZzRG1hQVpVY3cwbnlYVXg0anlpMjZoVy1YMW96LVhGUU5SWlZNZFpkTVJPNTFCOWZlZ3g3VXlvRklPdmNXeE5JU1ZVRkVwTjF5MERqeUU4OEw3OTVNX3Y5QTVCMnY4S2JqOQ?oc=5
+- **Source:** Fast Company
+- **Published:** 2026-10-09T14:14:08+00:00
+
+## Microsoft 365 Expands AI Sharing Benefit, But Trims Cloud Storage - PCMag
+
+- **URL:** https://news.google.com/rss/articles/CBMilgFBVV95cUxNMC1oT1A5dEdmRkhfc3RZME5kN0s2MWN5SVB0c1BmTHFVc0tIRm1pcDF6ejk5YTBfSUllRFVSal9laG5wOWw4cFR2RGt4SXVkdTBQUXNvaUtxeXJ2TlhRQmZjcEFqVlRGRjVNZDhVdUJsalZrQmNUOG15LUVkUjdlcjZNZ2NYWVFBdjFrOVU4RXNtMEp0Znc?oc=5
+- **Source:** PCMag
+- **Published:** 2026-10-09T14:01:59+00:00
+
+## $10 million bounty offered for Chinese Hafnium hacker accused of Microsoft Exchange Server mega-attack - Bitdefender
+
+- **URL:** https://news.google.com/rss/articles/CBMizAFBVV95cUxNc1hJLUNpbXZuc25sa2RSdGM1alJYemtpdmlUSHp2eGYyYUpxcGNZU2J4OVFqeVVMU0ZCVGlmWFNGZFJuQ1Zaa3cwenJydWZoZVE4U05Na0xfWW1neVpZc3RCeWZFU3ZHSFdQR2hyRGFNeWpoNHZUQUZtU0U0QkJJNm9XSlFDTlR2eTY3c3c3Sm1vNlllbHB2VEtnWjhVQWhRYllCT2ExZm9GSjFvdUFpek51WUoxZGFVX1U1WGU5SzRORzNEQ05TZlhqYlg?oc=5
+- **Source:** Bitdefender
+- **Published:** 2026-10-09T14:00:14+00:00
+
+## Microsoft Refuses to Let Copilot+ PCs Die, and It's Bad News for Your Computer - PCMag
+
+- **URL:** https://news.google.com/rss/articles/CBMipAFBVV95cUxQcHZCSU1RakgwcHFHWFRHQW9lYlZ0SjlOQVlUTklSS2RGNVJyb2UycjhZTjhITVdPVlhzTGxsc2tvVnFianVjbUNESUtTMlE5XzFQSkdaeGQ0V1BnV2ZhWHpBcVAwQ2lHRlBCb1JxOFJXcHVVZFpPSldnWEl6TG1HODJmMGN1MWg2OHNQdHlBYUVlT1k5UkRuTUpZWUlDYVdhOG8tSw?oc=5
+- **Source:** PCMag
+- **Published:** 2026-10-09T13:55:59+00:00
+
+## Microsoft 2.5: GitHub COO Kyle Daigle on stitching the developer universe together - GeekWire
+
+- **URL:** https://news.google.com/rss/articles/CBMisgFBVV95cUxNSFlFUkdBWC04OEhDX1lRcncxQzNjaVo4b0trYU0zNWIxT0xPUHFBUkNlbHNyWFl5TUotdUJ5aU5NNEVacFVocWdSQVE2VXpuaUtIT1k4Zmtjc0VxMXpRZ3pzV3lPZjhCN3BZcmdVa1dEVC1FaVEtczRTaWZlY004UXpCaVlxVHFFekJLUzNVQkVlZVM3dVlXanlNME1pODhBVElFS05Tanh5WWJ6SVJEZDZn?oc=5
+- **Source:** GeekWire
+- **Published:** 2026-10-09T13:55:29+00:00
+
+## Trump suspended Microsoft's green card program & awarded its CEO, all in the same day - Yahoo Finance
+
+- **URL:** https://news.google.com/rss/articles/CBMiyAFBVV95cUxNOFBJUHA0VkxCcWdBVHhSTjNXN3lpdVBlNnEwZmtSN3pFQktMbEpwaVlVRGdKaTRETnRVLXRGUE13b3lVbjh0VzhTS0dvZVZzeXZXSGdTRlo2T1JFZEJGOEtXYWFsaFdETTZid1hPMldfaUFHRWpnOGFiaDJtVU54RXFvOVE0LUtqSlRTNlk3Y19UUHV5bmV0cW9qQ0x6ZUdPQ2F3dWx2Vm9OOUpZVERrR0sxYlBXaHM1MW54SUFDR2JKTU9WbTZxLQ?oc=5
+- **Source:** Yahoo Finance
+- **Published:** 2026-10-09T13:50:45+00:00
+
+## 'Weasel-speak', 'greedy' and a 'bad decision': Microsoft slashes 365 Family plan's cloud storage from 6TB to 2TB — and subscribers are threatening to cancel - TechRadar
+
+- **URL:** https://news.google.com/rss/articles/CBMi8wFBVV95cUxQREhnQjhGaFRjUW40TGRrU0QtelQ1VUF4ZHJyUHlmSnRxYS1BdUZqeHdGdjNEOElJUVlMUC14bWJpdXIyNml1VGs4YmdCeXU1dDdDcndQMGF2WTN6LW1IVFhqUGQ0M2ZrU2FkXzMtZTI4Snd2MmFPMEItdTRJTjhNbWxyMzU5NTBacXpsUWtnUXFnTDJpa2xxcER2QWJ4cFZHZlJDWTA3QjRDLVR4eXg3VFVXdUFJNW5lR2VVNDM2cVF0UlRsTWJWQmlRcm1fZWRaYk1lX2xBVVY3bHJlaXVLTEZrMWpBYUlxMUJhUVV4YUhjXzg?oc=5
+- **Source:** TechRadar
+- **Published:** 2026-10-09T13:40:50+00:00
+
+## Microsoft quietly blocks new requirements bypass trick on Windows 11 26H2 - Neowin
+
+- **URL:** https://news.google.com/rss/articles/CBMipAFBVV95cUxNV3ZVYm5DT203RzdubWpRczlkV3RCZTdsbWhQNzlaenhvUzFpb09idTBhbEdNYTFvVllneXNUejFBanM3LTd4SG5vRTA0ZzVTa3dwQndURmZvTnlVUHVicjNMZGpzcUR4MHJSZ3NfRDVnamM2SFhTVjRNclhuRXpXOHdncGNHX2VMR0FRNVdlcUpscGUxSDc4X0RZcDdOcTZvU0JweA?oc=5
+- **Source:** Neowin
+- **Published:** 2026-10-09T13:34:00+00:00
+
+## Microsoft shares fall as US labor department suspends gaint from PERM green card program - TradingView
+
+- **URL:** https://news.google.com/rss/articles/CBMi4gFBVV95cUxPTlF1VWR4SjNNNlBvUG9WQUtSellUTzd2TkFUdlNfbmFEQXRvN2hHNkw2QVA2VE01aEV6a0o2MDV6SVpJWnh2WHJUTEppRE9YMF9DWFdmVWpMZnQtanV5UDZBbEpzNFIzUUxBdlgwakpwNEY2OE40NVdadEVEbGx0WkxRUXZpazVMM2VGdl9JdkJOVEJiRG1FZlZ4YVFBeFp4RXJ6dnFXekFsY0xicEJaa0g2dGVHWDQzWk92NkRSbWQwY0ZYWi0yMEUzLXVVT3RZQ1NHUTR3Rm5OT25sd21UYkl3?oc=5
+- **Source:** TradingView
+- **Published:** 2026-10-09T13:32:45+00:00
+
+## Microsoft previews Surface Laptop Ultra, new local AI agents - ZDNET
+
+- **URL:** https://news.google.com/rss/articles/CBMikgFBVV95cUxQaVN4V1c3ek1fVDJjdVA4TWVXVXlJcW1KWHU4UnBVRk1kcVZfWDE0OTNTekxqZ1gwOVpuTkZTNXRPS0xIVkpLZ0pJV2huUXhHdGV1SFZwUlRyRk1SQ2xCREt6eXltNmhZT1ZjM0k0QnNDWE9sNUdIcFBId24yZlBXNjhLVWhILU5qYWVUQzZva2R4dw?oc=5
+- **Source:** ZDNET
+- **Published:** 2026-10-09T13:27:19+00:00
+
+## Microsoft will pay MacBook owners up to $1,000 to switch to Surface Laptop Ultra — and that's on top of trade-in value - Windows Central
+
+- **URL:** https://news.google.com/rss/articles/CBMi-wFBVV95cUxPaUIwZGxrejA5TlR5XzI3ek41WUgwc01HVHZHeTUtWUJ2YkEwYmxieUhiOEFoTXBPOG5tQTZWQ1BuWlh5ZDcwcGl0U3hxMHo0Ukg2QkZaQTJXSnZVRUhCdldGUFZBeUx6dzhNME9zeUpnWTh6cUhiSzBYeUJ1V3NYRFJIcU5Ha1lzNmp2TnZmdW5vRnh1dnl6aVdXODhqc0dhRnNNUVpWV2lnSVlYME9Pdk9fNnNqQUNINUlQUEZ3MWR5MXFPSEhIVU01bkk5Ym85Z203Y2x6ZUs3ZERTYTJXNTJ4Z1JmemdJeEVZSk9sZzZnTjhWdnYxWUJRQQ?oc=5
+- **Source:** Windows Central
+- **Published:** 2026-10-09T13:26:50+00:00
+
+## Microsoft (MSFT) Posted 43% Azure Growth, Yet Trades Below Its Own Five-Year P/E. A Real Discount? - Yahoo Finance Singapore
+
+- **URL:** https://news.google.com/rss/articles/CBMihgFBVV95cUxORjNRV0lMeXZkMUJ5OExvdHh0RXRTZXN4YXp5Y3E4bzBqVXNIVktfN0tIOWEzdUF4X3RJcDFhX0ZOOEdxS29qa0N0Q2RZRm5hVDR6V1pjMFNWQ3pvMTdQS2VuNnpFWk5ieUJ2R0QzRjlZTmx3LUcyNWV6SWpON1RBMVNsOE9BUQ?oc=5
+- **Source:** Yahoo Finance Singapore
+- **Published:** 2026-10-09T13:26:42+00:00
+
+## Microsoft Turns Dynamics 365 Into an Ambient CRM Layer - The Futurum Group
+
+- **URL:** https://news.google.com/rss/articles/CBMikwFBVV95cUxQbElHMmN6M21oam13V19ZMGJITkFNcnIzUG5SUWVuRS15SmFHY1NZUGU5Y3N1Q3dBa1U3Rm9QSjFBaC01T2U4RHV0RE1oVjFSdl9HT09EeXBIcFZDRTV4YUJtOThkQlVzLVZGMU11U3hGZG8zN01zTFp5MDFRUmdwWDNtdE5WbHEtdXdlM0g4UXU0cm8?oc=5
+- **Source:** The Futurum Group
+- **Published:** 2026-10-09T13:26:41+00:00
+
+## Vance Says U.S. Will Suspend Microsoft and Other Firms From Green Card Program - WSJ
+
+- **URL:** https://news.google.com/rss/articles/CBMivwFBVV95cUxNaWZKb2JURTJteGhJSGR0RUs2RF9tTEhZcFdvUGwyZ05XNzVGajk0dHEyRjRBNGpCRWhXaTRLWFp1VXVCaUpzZFB2UTNoMkRMMU9xVnlRM1lobE14X3IyWldkSEJ5MlN3UnMxZGlobjJmN0duOFNJdlUzRWUycG9ZMTF5OE1CaEhQLW9CT1lvWmdGeEtnOUtmZUZwX282bWw2OFNmRmlUTWlVbENDM2Ffdk9nMTJsMk1RNUtQX2VjOA?oc=5
+- **Source:** WSJ
+- **Published:** 2026-10-09T13:17:00+00:00
+
+## First impressions: Microsoft Surface RTX Spark Dev Box, the screenless Surface that wants your cloud budget - Gadget Flow
+
+- **URL:** https://news.google.com/rss/articles/CBMijgFBVV95cUxOWlF0MTlGUnZ4WlNHYjU5RkVUQnF5azk1VGd6b1B4c2Z1N0JHRWtqZmlWZ0JSS0VXZnlEMUFzajF5RVNVTGRNWkVFVUN6N2xzTHVkWGoxYm90WXlWTHdicU1ObXJoWFE1aF96WTR5alNuTDd2cXp6bEJLVFNNcVFzYWt3eUVQQnBPVHBGX1pn?oc=5
+- **Source:** Gadget Flow
+- **Published:** 2026-10-09T13:14:02+00:00
+
+## Edmonds police investigate scams involving fake Microsoft and FTC agents - MyNorthwest.com
+
+- **URL:** https://news.google.com/rss/articles/CBMigAFBVV95cUxOVHBndXdIdzFXWGt6V055QVZCNU5XZWQyTkJtVUw3WVNDZ29JVFlXVm9tMFlDSF9HeW9QeE9sYk9PUVFwWEF2b19KYUpnTnp0VUFacnF3aTZ5THUtMnZQVzdIbGp4SUVvbS14Q3ZMTlVqbnBkby1tOENzVEhIMzJwZw?oc=5
+- **Source:** MyNorthwest.com
+- **Published:** 2026-10-09T13:09:14+00:00
+
+## Microsoft Teams will soon be able to spot third-party deepfakes on your morning meeting - TechRadar
+
+- **URL:** https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQi1jX05yYmJERHhXYlJ3N3U5cFdlZ0ZPbjluTTNkOW5ZNFFmdUlMLU5pUzB6YXJBVDlEZDdkcWE4RVA0UDJUb0x4aFdpMGIzWm0zRnV0WTVMNWlPSU4zT1J4bzVYQWZnWVVhTndBc3dHTmxIaHhuVy1DMks4c2NURFpTc0VfS2hrRTFpSy15a0EzemJ4ZHBlNmI4REJRaHZFRXRpdnU2MWJGQ2MxY2s4M3lPMHNVOVVs?oc=5
+- **Source:** TechRadar
+- **Published:** 2026-10-09T13:05:00+00:00
+
+## Microsoft veteran explains why it's not a good idea to have multiple AV software on Windows - Neowin
+
+- **URL:** https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRlVOMFc4dWg3WnJSdHlIRWdIdEVKeFVxdmpjVkpzVUtWY2hKUDJ2M0V0cEZpOVdxMVBWZUxtWnl0NkVnQ19QTjlySmdTeFM0YXYwd3MyOHNJZWlvMkc3TllNanhXdEtYMlBsaEQ1Y2dmWXluVHNjVktPTDYwdHM5bWdndWVvSS1qdUZ6cTlXNjdhb1NYVHI5NVJYZEVkaE9sYUI0ZU41WE00OWNiSWV1cjFzMDBWc2ZNMmsw?oc=5
+- **Source:** Neowin
+- **Published:** 2026-10-09T13:04:00+00:00
+
+## What Microsoft’s green card suspension means for Seattle-area workers - The Seattle Times
+
+- **URL:** https://news.google.com/rss/articles/CBMipAFBVV95cUxOVTNnTnh0a1NhVGNZZXJRYWpGWGE0OGNBRUlacnNYbVhvQ210dUZyN0s0bVFmUmx0cjU3cVE0cjh1aXVPTnZxZWxjanNiU1hZTDNBTjdncHBKUFFINGNhV3RaRklTZTdmdmZETXV6dHhWdmdpRFN3OFBYWmZ3TWZnWkxTcWVXWGJrVFU2NnRuaFA0ZFhhRE5QTFZzOGktaDJJN3haZQ?oc=5
 - **Source:** The Seattle Times
-- **Published:** 2026-10-08T22:41:09+00:00
+- **Published:** 2026-10-09T13:00:00+00:00
 
-## The Trump administration is suspending Microsoft from a green card program, alleging fraud - KSL News
+## North Carolina woman loses $22,500 after fake Microsoft pop-up let scammers gain access to her bank accounts - Yahoo Finance
 
-- **URL:** https://news.google.com/rss/articles/CBMixAFBVV95cUxOZTdzWDhOV1RJN1FYUW1pczRJaE1rZDRrMVR4VFpNRVkxQmRYS2gtbVp2X0RFNVJXS0dHb0pUeTVIcmpPem5JSUZ1YU94VGVGaDdIVFNJZDdmb05ycjNDVTZmSFFIR3h1OXdMWjNkUWNwS3FQU1NIUFhUQndtTWNTd3BOb2t5cHJES3hCNXdGWWx3OUZEcG83VloybjNsY3JEUVhPVnpoRUJnYW5RSDhESU9oaXFyM3hPMmlfLTZPbWF4MkUx?oc=5
-- **Source:** KSL News
-- **Published:** 2026-10-08T22:19:53+00:00
+- **URL:** https://news.google.com/rss/articles/CBMimAFBVV95cUxQMGtsc0RHeVVxcHplX3g5SjA1WTVrLTdWcTNUSjFvak5xNWxzNEhxQzkwQXJCZDhZMTM1ZWdPVUU2Tm1Yc1hYcmhRUGEtUjVlUDR5VW9FMW5oZUNyRFc1eE44Y3F5cGRDbzlOYjF4MFVRN0JrQnVwa2E0eWl5SURqVjQydm1rektCZkFzWmVudzNNSHhFcXFGeQ?oc=5
+- **Source:** Yahoo Finance
+- **Published:** 2026-10-09T13:00:00+00:00
+
+## Get Word, Excel, PowerPoint, and more for life with this $15 deal - Mashable
+
+- **URL:** https://news.google.com/rss/articles/CBMie0FVX3lxTE45MVNvT2NMWEFlUkVtTVg4dUp2ODNOUk96MDJfendKRE9zbkhicGo1eU5Ua1p3aUl3TnpFU1NxMTU3b0J2UlJRak9sTHVfUlFNYzhtakVSdE5vSzNic0J4NWU0R1RydjFGTlN1R0hOeUsxNTNQYzg1ck1sZw?oc=5
+- **Source:** Mashable
+- **Published:** 2026-10-09T12:55:20+00:00
