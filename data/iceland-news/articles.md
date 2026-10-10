@@ -1,8 +1,68 @@
 # NewsWatch — Iceland News
 
-_Last updated: 2026-10-10T10:27:03.758542+00:00 · 50 articles_
+_Last updated: 2026-10-10T17:03:14.424872+00:00 · 50 articles_
 
 ---
+
+## Eldur í álverinu í Straumsvík - RÚV.is
+
+- **URL:** https://news.google.com/rss/articles/CBMiggFBVV95cUxPUmo3SE94WDh3TkdSa3cyV1ZTbW4tcjRVWGZNNDY2VW55UVotaU5NdkhfS0dKOFlRUzJlYkhjb3BlcU9GQXFMSGl4cnVRTjhWS3hsTzY5cVV6bEN3UERCckpOakNnRmp4YmpCV0lhSzRxajlMUVB2OW13aDB3c3R3eTNB?oc=5
+- **Source:** RÚV.is
+- **Published:** 2026-10-10T16:46:00+00:00
+
+## Nordic Film Celebration Brings Award Nominees to Reykjavík - Iceland Review
+
+- **URL:** https://news.google.com/rss/articles/CBMijwFBVV95cUxPVEM5TGdtX2lJc3hQSFZKRkpnWld6RHdyVjdZMHJ4UWNCR1p3WWtobllEZ096VHJCbnlSanBvT3VRTnlLVFowYThJdXFBYWxPWC1NLW9OSTVkU3lWR0t2SXV5VEU2M2JvN0tGNWRyMWRtWVhDdE4wQ1hzc2poQ1R3dlNFUWpsT3VDTUREM3MyMA?oc=5
+- **Source:** Iceland Review
+- **Published:** 2026-10-10T16:00:00+00:00
+
+## Americans Are Flocking to This European Island, and Bookings Have More Than Quadrupled - Parade Magazine
+
+- **URL:** https://news.google.com/rss/articles/CBMisAFBVV95cUxPY3B4T3BBTkFjRzI3VXlCd3VCa2loTDhFSU83VTNoZG5RQmUtT2V4Z3Nwak5XSS04NG9mNnVJa2Q5bF8zc2FGcGFOQWpKaTFIVWVic1JWMWhlbWw0Mm1Pc2tWQno4VEd0OG05aVRMWWN5RDllclFhWGJ1OWlZWUtZZFptWDdiaTdFSjR6UjRYaEdKemlnM0xsZVpsWVVZUHVPQVpLMURxZ055Uno5T0VjWg?oc=5
+- **Source:** Parade Magazine
+- **Published:** 2026-10-10T15:28:12+00:00
+
+## Bremont Takes the Supermarine Full Ceramic Into Deep Blue: A 250-Piece, 500m Diver Tested on Iceland’s Glaciers - Haute Time
+
+- **URL:** https://news.google.com/rss/articles/CBMieEFVX3lxTE9YUTFSNXpEZFZuVVMtQWlRdTkyUlN3N3EzaERIYmlBN18yY1Z3UC1IbWVrMG1nOHNiX2ZNb1VSMEZFUTRvTHdVdk5MT1BVQXlJT0hwWFdYVzlXSVpBRFJXMlVnQVJUX3M4RFR6cEljMklWUk84cDFCeQ?oc=5
+- **Source:** Haute Time
+- **Published:** 2026-10-10T14:00:54+00:00
+
+## Preston North End vs Millwall: TV channel, live stream and kick-off time - Goal.com
+
+- **URL:** https://news.google.com/rss/articles/CBMitAFBVV95cUxQX054NE9wY19BSUNjT3M1ajhSSFVDaVRmSWFobGNkRkExWkVqa3N1aHpfakc1MUs5NkZFMXBwcE9OM25zRkpkNUpPb1N0OC1IRUc1S0s4RVpMSzVETUxWZFNvMDNFZEtZS2dXZkwyOHIwVm1mQzVQemE2WnlYTEZqTkNBT19iTldxRlR6b0dJczBWd1Z0YVU1Vy10WC1ZRm5iVlBWN3g5c0Zwa01aWVlROGNVdHE?oc=5
+- **Source:** Goal.com
+- **Published:** 2026-10-10T14:00:00+00:00
+
+## Icelandic innovation company Flow signs U.S. distribution agreement - Iceland Monitor
+
+- **URL:** https://news.google.com/rss/articles/CBMipgFBVV95cUxQaWxDLUx4dzktX3NPeG03Zm9LYnZ1dllnaXB2S1RFNjNzWkkxQVhZblFrU2s4eXgtVXIwSlhBZmVWeF9sRkd1UlRJNDdxMld3OGlzQ3lnMURHS3B4eU1YVm1GeTFRMVIwY2Q5eDd5bnFtZUl5bjNwUDAyUEVhVFU4ZERlZVZEdzlsM3ViQ1VmZGlkV0xrTFFpd0UzQTVIcFlyR3pRWTRB?oc=5
+- **Source:** Iceland Monitor
+- **Published:** 2026-10-10T13:03:00+00:00
+
+## New State Company Korda Unites Iceland’s Critical Communications Systems - Iceland Review
+
+- **URL:** https://news.google.com/rss/articles/CBMikgFBVV95cUxOc3QtYUxGQ09fMklYRWluTFZEN01SQ3JlWmt0cHpkSFBkc1ZHbTVYX1poM0VRU2Y2T2JLRmo1ckQteV9sZU9OVjdJQ3JVcUFSN0lDVVJNTVhiYU5MZmh3clA2dTZtY084TFBuakxxUnpmWU5NbWVxZThheW9qbjRjOVlFNERLVDQwcTZTdFFpNFVwUQ?oc=5
+- **Source:** Iceland Review
+- **Published:** 2026-10-10T13:00:00+00:00
+
+## Iceland will tunnel into a volcano to tap into virtually unlimited geothermal power - ZME Science
+
+- **URL:** https://news.google.com/rss/articles/CBMijwFBVV95cUxOS1VMOGo2WENUVjc0N0xwQjBCSEpoeDBZcDBodjJ5RWhsM3A0QVQ2MU9HdFFyMzdadzJONk5Oc3A2dEJIS2Q0YnVkM3EyVEZPbFdwUUJ1eHZuMnRHaHItSjczd1BGTVZpdG94eFhDTEs0XzFMNG9od3F0VFlvZGhsWUpzbHB3dWM3bDZwcmVTaw?oc=5
+- **Source:** ZME Science
+- **Published:** 2026-10-10T12:18:28+00:00
+
+## Imagine Peace Tower illuminated for the twentieth time - mbl.is
+
+- **URL:** https://news.google.com/rss/articles/CBMimwFBVV95cUxQMFdkOFVjSkltQmlRUUhpUzJTRGxHMkNZYmd0Vmp4Xy15aFd5VlhPUWpRMkRMOWFGaWdHRkd0VFM2U3hSWkdMTEgzV1pIbGREcGsyaGxJLVFWVGpIbDVNZ2lIcWdNMGZYRjlYd1JyZlpxZG13ZEtJaGFfa25YME52LWlwTFdKM19JU2xCVXhfRXk1eExXOTJQNHFYYw?oc=5
+- **Source:** mbl.is
+- **Published:** 2026-10-10T12:01:00+00:00
+
+## Iceland vs. Croatia (Oct 13, 2026) Live Score - ESPN
+
+- **URL:** https://news.google.com/rss/articles/CBMiYkFVX3lxTE4zMFFwSGVBYmM5MnEzM3dPSjJlZWNmMlVtLXlQVENoZVhYMXFrWkxkS3lwSEdYVGhRVnlhVDNMMll3RnM3MjktdC10SGhCd2NielR3NEF6NmZ0NkMwMHhuWm5n?oc=5
+- **Source:** ESPN
+- **Published:** 2026-10-10T11:33:48+00:00
 
 ## Iceland AI Report Sets Out 69 Proposals for Schools, Language and Government - Iceland Review
 
@@ -243,63 +303,3 @@ _Last updated: 2026-10-10T10:27:03.758542+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMikwFBVV95cUxQNHVVU1VQUnA0Y2VJRldFZjFJZ3FNNXF0XzI3ZGlhbXctYmRvRlZFdFFRN094TVRzMTYwbldOZXpQUWpGeWRiN0RIcWhVUVlzY2FQZ0JXcGR6VEZGeFhXdHhfTU5kVXQwOGRHNHZfZXIxVzk4ZkRsUVlxaXlyVGE5NkhmUHdiMTZfS01LZnNhODhGdHM?oc=5
 - **Source:** The Reykjavík Grapevine
 - **Published:** 2026-10-09T08:00:00+00:00
-
-## SkyShowtime's 'The Homicide Unit' Iceland's 'Fjord' to Reinvent Yellow - Variety
-
-- **URL:** https://news.google.com/rss/articles/CBMioAFBVV95cUxOYWhNUHN1VW41TDVDaGloWUlleWdVaXB4eGJUdHVwSWxsanhRWVliNnZPVC1FdF90TVNUUWhUakRRYVdkQ2tPakJhenY4Uk9hVkZmRzc3NHE4elQtWVI0MG5GSm1ReUdGMHRtV0VoTkNTbllncktZSmRCNTR6QUtWdVhMV1ZhbV9ZQjJsU1NueUExQlpubHplczJSOXFndVZN?oc=5
-- **Source:** Variety
-- **Published:** 2026-10-09T07:30:00+00:00
-
-## Bremont Puts New Ceramic Dive Watch To The Test In Iceland - WatchPro USA
-
-- **URL:** https://news.google.com/rss/articles/CBMigwFBVV95cUxPOExneGlCVWdQZ0pjWDVpdWNzejVTOVdVa0ZqMW1EMmRzVXZhNW9mQWtPdW9tREd6Y0VwcVFzRmN2b0pScUVTNDhmVzc0RGIzLU1ScTAtd1Zua0h6dHhla3FXUElhRThQNGNfNFA4c2JXMWFJQ05PeVRVZlNPRnJfTXhrWQ?oc=5
-- **Source:** WatchPro USA
-- **Published:** 2026-10-09T07:19:53+00:00
-
-## Haraldur Gudmundsson - Transfermarkt
-
-- **URL:** https://news.google.com/rss/articles/CBMi0AFBVV95cUxPblFHNjBhdThaVHF0OG9SZUE5cmFZemhyMzJ2NEU0NmppblFJRDE1SWlyako5M3RxTkNlZEtSb3E2Nl9BXzdISWt2N1lDNkFzMVBoMnlwSkRYdTdMcFR4TjBicU5HNWUtUDRvWElEc1RabDJBUTFCWUg5b2F4QnVWbmhqMHpvWFZMenpYWVl6X3N5b183ZldJTVQzaVZNUnVxWWNmYzZ0Vi1qc0hJOGFBY3JCbUtoV2ZWRDRCV0ZvZFJHR0VqdW1FZkR1UGw5R09O?oc=5
-- **Source:** Transfermarkt
-- **Published:** 2026-10-09T07:18:35+00:00
-
-## Watch Estonia vs Iceland - TOD
-
-- **URL:** https://news.google.com/rss/articles/CBMimAFBVV95cUxONHdLUHFDMUxkcTFZSkgwb1FLeU1xTy0tNXlTUFBlbmxsNjMxZXdBUHhhcTZzT2lIZm5YdDd0akVNamhSYnpqRlQ2OGJZUkgwYlRBYVNqdlZBQ2Z4blEyRDNNcXBsRVlQOGc4Nmh5QlRRdFJNcklPVFRWeVRKUktVMW1rckZkQzNhTTA2YTVQb2s4Y1M1VFdsNA?oc=5
-- **Source:** TOD
-- **Published:** 2026-10-09T06:09:15+00:00
-
-## Crypto casinos in Iceland: how to choose the best ones to play at - Business Matters
-
-- **URL:** https://news.google.com/rss/articles/CBMioAFBVV95cUxPbkdiU2t3aXd2THBjWDg5eWo5bjNmM2psWkNxWGFXWWZ3STNSYWQxOUFYbC1DZ3E1NDZ1MUQ2QXpVWHZLTmFzOVdDd3MyNlBDM3BKbTBSZW1tSERhbG9aWDFNMDJfVnEzZ1ctSWVmbmszODY1aXFUVnp6WDNvRE1IZTNlN3VZMlE1NERjcjZwTWt6ZkRmYjhLZnZRSGNWREV6?oc=5
-- **Source:** Business Matters
-- **Published:** 2026-10-09T05:55:31+00:00
-
-## Bremont’s $11,250 Ceramic Dive Watch Is Ready for Iceland’s Glaciers - Man of Many
-
-- **URL:** https://news.google.com/rss/articles/CBMifEFVX3lxTE94U3FFT1B5RGotMUxiQkh6cXVlcmtJaHR3bzVtMldCQk5lRFNNWWRnNXRMN1RnVmRnaTFUNVBoMVZ5WmZNMVNzelhmRUt5NUxveFhvTU9sT1FEak9LTUVYbl9XbkpIMkdKLTVfWkJxa1JzNWVjb1MySTFoQ1E?oc=5
-- **Source:** Man of Many
-- **Published:** 2026-10-09T04:59:09+00:00
-
-## Mowbray ponders points and protecting players ahead of three-game week for Rovers - Lancashire Telegraph
-
-- **URL:** https://news.google.com/rss/articles/CBMiowFBVV95cUxOcURfN005SHhWcEIyeGxuN2RyTFVjMnM0RVhYZGxCSmtBX0YwRjJHYjJPNk5zTHV3ODVhX2Q5MkNNZ3UySlVDTGxocmR0b0M0TVBlc2xUR1pHRnBHM3kwSEhoS3JYTV9yOVQ0R194ZFV4VWdZSG9iS3lUTEM0STR2aFNta210ZmpxNUtLRXpEdm9XVDFnYnotMG1NUVJHRzRQcV9n?oc=5
-- **Source:** Lancashire Telegraph
-- **Published:** 2026-10-09T04:32:00+00:00
-
-## Volcanoes, Eruptions and Earthquakes in Iceland - Facts and Information - Volcano Discovery
-
-- **URL:** https://news.google.com/rss/articles/CBMiWEFVX3lxTE4xY3licVQyRmtsZHJoQnlXWnNJcnZWS3JKYjd0VzZLbTZUMnduY3JsSEE2cHZxanQ5c0ZQVXVNOE5yZ1FQZ2R1RGlha3liN1ZOS0JHTnhBaHI?oc=5
-- **Source:** Volcano Discovery
-- **Published:** 2026-10-09T03:33:30+00:00
-
-## Róbert Örn Óskarsson - Transfermarkt
-
-- **URL:** https://news.google.com/rss/articles/CBMi1AFBVV95cUxOcHFURlhFR2pLeHNYalNkeTRpa2F6eXoyNlp1TDRTQWd0MXRRMmZoMEhEQzQ1d3M3Y2VBRlo4bTVIZVdhVzR1S004V3g5MzRlVXdOTC1iZVJQRWZjSVRCa2dWNi15blMyaTdZQkd1ZzdnZ3FfM0tFSWM2c2JaUlBhTTNBdC14a1h0dUVmd3dQZjRmdW5YTTdrRHpTV0xvUFllanlCN1E5c1FpQ0RJX001UlhUcUlFNVlVWGtQTFVTUVRVNHUxcG10Qm9JaEtzQkpQeHFOcQ?oc=5
-- **Source:** Transfermarkt
-- **Published:** 2026-10-09T02:41:51+00:00
-
-## Canadian Anne Carson awarded Nobel Prize in Literature - CBC
-
-- **URL:** https://news.google.com/rss/articles/CBMiekFVX3lxTE5JamJNd3BqRXRZZWoxbHZwak42OHllQTBfOWdlRmRtdUxUSnZJN3ViYkc0UUZ1YTNSanNucU15QnFQVGx0Ym5rTFRVdEc5SDk1bE5LcE1iUTlINktvTmdZTVRGN0p3OTJLRGVidllpbmRLajZ3aE5mcVpB?oc=5
-- **Source:** CBC
-- **Published:** 2026-10-08T21:34:10+00:00
