@@ -1,8 +1,74 @@
 # NewsWatch — fusion energy News
 
-_Last updated: 2026-10-09T23:50:45.762276+00:00 · 50 articles_
+_Last updated: 2026-10-10T10:27:04.287413+00:00 · 50 articles_
 
 ---
+
+## Fujikura stock spans EUR 3.02 between weekly high and low - AD HOC NEWS
+
+- **URL:** https://news.google.com/rss/articles/CBMivAFBVV95cUxPNnBDTVZOSW5YalRjRUZRRlA4eHJjMjljQ3FRVXJPYjZ4MW9wS2hJanBUYmJ2RjRIYi1ueHR4MTBvbXptRXBhVE1DWTlxV1dPZXRBbjlxTGd5YVFoeDV0QXA4clJadm5MY1BBNFBUdWszcUVyeUhRUE1tbC1FT0N4UVdRSnNHU0ZnSERFR2hQeUVTZWtUWmRad1h2RzY4WHR4R1VQRTN1bnNibTNzVkd1alhSSEZjblBsSHBadA?oc=5
+- **Source:** AD HOC NEWS
+- **Published:** 2026-10-10T08:46:59+00:00
+
+## STEP Fusion strengthens leadership team - Bdaily
+
+- **URL:** https://news.google.com/rss/articles/CBMijAFBVV95cUxOQjhpMzZtaEROdWthc3dkZ29Dam1qUElmQWNrMU5OZVRvVnNjdXcxbUdSeTdkbEJyMFg3ekFrc2R1MVVVV2gzSkgwWi1Gd1NkWjNPbUxrZk03eGRLOWlnTkNiX0o1WDRTM1QwSmZtQXQ5ckpjYnVhaHllY0h4Ti1hTjQ0bG80cWt6eG91VQ?oc=5
+- **Source:** Bdaily
+- **Published:** 2026-10-10T08:03:12+00:00
+
+## Fusion CX IPO GMP, Grey Market Premium Today - IPO Watch
+
+- **URL:** https://news.google.com/rss/articles/CBMiakFVX3lxTE9mOEt4WmduUHJzX3dQUWViTzYwclF1M3FudE9uNkZqbTdUMFdRZi1zMGVYYmZJY0pab3hpbTI5N3g2a1FidXNNVXBjWHNqSDNoekxRbUp6Q2d1LWJRaGhFMC00Nzl3S0FYa2c?oc=5
+- **Source:** IPO Watch
+- **Published:** 2026-10-10T06:15:19+00:00
+
+## Scientists Develop First Nuclear Clocks - Chitral Today
+
+- **URL:** https://news.google.com/rss/articles/CBMiggFBVV95cUxObkVVQi1tZENjcXhwdmxSWmZWdjR5VWlNSHJVcE0zX1VoSWZUb1d5OVEyVnlEeFRLSmpLamFBZ2E2RTBybVJDTy1ncTRqY0dfdHZmeTJ0SEM4VjBzc3gwNzdkU0hVTDNfU00xVHJocVZDb1dhSU9yRzhaYkRvWmFfSEhR?oc=5
+- **Source:** Chitral Today
+- **Published:** 2026-10-10T06:01:46+00:00
+
+## General Fusion's LM26 Reaches 1 keV Electron Temperature by Compressing Plasma With Metal - XenoSpectrum
+
+- **URL:** https://news.google.com/rss/articles/CBMic0FVX3lxTE5uMXhfVlItOVRkUmcyUXgzZEk2eGl0SE1TNE1xdWRfOEtEajRxYWp6NkMyWldVVG5VOFg4SnF4NGtndTFoc19IMVdENGgtXzVtb0Q4R0Q5VnJ0ZDZlczJTeHptVU5lX2VCX1JxZkpFTHFseDA?oc=5
+- **Source:** XenoSpectrum
+- **Published:** 2026-10-10T03:12:39+00:00
+
+## Hyce – Everything I Want - Six9ja
+
+- **URL:** https://news.google.com/rss/articles/CBMiY0FVX3lxTE9vSHVUMWtZWTRnX0xBWGVHbUNpb0t5RHItUlJHM3pRdXg3bnYyVjJxN2JoMlNzVXpRWGZrUndZYjloZ1FuRTIyTlc5c2xmODBaUEF3N0lYRDA5ak1GeXI3WWhRbw?oc=5
+- **Source:** Six9ja
+- **Published:** 2026-10-10T03:08:01+00:00
+
+## AI Learns to Rewire the Power Grid, Cutting Waste in Electricity Networks - Bioengineer.org
+
+- **URL:** https://news.google.com/rss/articles/CBMingFBVV95cUxQcHFsTXBadWtnQXRoZnlONlJ0QXNGX2s4MXR1cDA2UWVCSXhjU2lZRno2ekI4YV9mSXVlMWNMel90SExKQzhIcEw5REgtTnRMY2JwLVdhWWhnUmlJcXp1TWJHdEN6VXZTdnJRNHlEdFlOVmlhVlRIZi1SYm16cXZGS0tDLTl6SWU5UnJhUlNDMUFrYi0tb2VEaHlpVG92Zw?oc=5
+- **Source:** Bioengineer.org
+- **Published:** 2026-10-10T02:33:20+00:00
+
+## VEIR Raises $110M Series C to Scale Superconducting Power Delivery for AI Data Centers - Wowtale
+
+- **URL:** https://news.google.com/rss/articles/CBMiU0FVX3lxTE1CbGZoWC10Vkw0SnFjUi1KQWkxck9JSDZvYU8tN0VRVkxDVHlNVHN4YS11ZTN3OXEzQ1I1c0pENHR5VjFDUkVqSVM0WkFwQWtzMkQ0?oc=5
+- **Source:** Wowtale
+- **Published:** 2026-10-10T02:16:59+00:00
+
+## Trump Media & Technology Group - Britannica
+
+- **URL:** https://news.google.com/rss/articles/CBMic0FVX3lxTE5lT2dhSXRTdXhSaGh2djRnVUFnTUdVRlZzRzdxdXdjTElyMF9ZeWJUUG1kbWJIYUlpWkhJVTdoREJsWU9TaEdibjNIdE4wdjFwQTk4bmZaU2lNRm4tM1Z1M0trcFdhZ2kyM1ZDYWZwQmphRDg?oc=5
+- **Source:** Britannica
+- **Published:** 2026-10-10T02:08:19+00:00
+
+## Seaborgium Carbonyl Reveals Relativistic Bond Weakening in the Heaviest Elements - Bioengineer.org
+
+- **URL:** https://news.google.com/rss/articles/CBMiqAFBVV95cUxNT0hZbXByemJsM0t4OWFxMUVpcW1mZ1ZSMGY5b3dXTU5jd3o1V1ZMVVF2VGExbGFZTGo1VEw1XzNpZG1CTzFqOTZuQ1BCX2EzVHN3TjlXaVJLWlN6SWQ5NzhISXh3akQzYTRpZ1ZyX2dQbzNncjhHbEY4YXNOaGNkcVpwQmJUTDlpQ2xmZWpaRjJWR0d5aGZiMi1KQzhEMnBwQmpvQjVBVzU?oc=5
+- **Source:** Bioengineer.org
+- **Published:** 2026-10-10T02:03:20+00:00
+
+## This Joshua Tree highway keeps killing wildlife. Enter the poop-hunting dogs - Los Angeles Times
+
+- **URL:** https://news.google.com/rss/articles/CBMickFVX3lxTFA3MFZQdHBHWmFZMm4zSlFidFpVNFlsVHlkMS1nZkVxWFFsWk83dE1OclZhLUVBUF8wVUZkUmxmck45LWxRdWZGT25UWmhXZDZWdDR6WFFoaGR2Nlh3UHBDVVc1SlF5azc4YnlxNUpJTWVWdw?oc=5
+- **Source:** Los Angeles Times
+- **Published:** 2026-10-10T00:50:00+00:00
 
 ## Wilson Sonsini Advises Type One Energy on $200 Million Series B - Wilson Sonsini
 
@@ -237,69 +303,3 @@ _Last updated: 2026-10-09T23:50:45.762276+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMivAFBVV95cUxQSkVGZUtscFFFekRpcVhUdkxiM3Z6eDJUX2owRTllLVl0d2NGRmQ0YXhFLXozd3Ezb1NPMzJFNG9YR1RvTWJOUUZIQ0RoM1JwcEVJdloydXcxWk05V0JJMTFQaElaWDloTHNZRzBWTmZkdUxfeEdrUmNRNmxnLXJrNXBpUF9ZRWJtWGZaMXpFenBvNEhEXzVmS01la3BtLUxJTU1Qd1c3MTNTY1JUSk4zWF95R2xYdm9aNWlLUQ?oc=5
 - **Source:** Stock Titan
 - **Published:** 2026-10-08T22:00:00+00:00
-
-## Avalanche Energy and TRIDEC Advance Plans for First Global Fusion Machine Manufacturing Facility in the Tri-Cities - GlobeNewswire
-
-- **URL:** https://news.google.com/rss/articles/CBMilAJBVV95cUxOd3hxQlowNzZwUE8wWmx2akw5ZnFjeXAwbXVLWGp2RzFwU0tyWVdDRkM4YnRxWThtbXlUdGVSd0NkZUpGVUxENkNEUDFJOGZuZWY0RW43b0Z4cWJPeFJOYTJoWkg1ZkgzZTVfNWpzbmxKQUEyU3pJZExFcmgwWXpveTJRWVUzNUdmOTBQdFFCWnFxMEtUSjhnR0VnSC1SMkp0SUt1ZVlIRzVkYUg5b2lPczhWZEdJVXNjbW41Qk82aXlTdi1ROGMtOEZaUmRBQkZRYnlndHZQNnpHMVRkMzdxdllWSC14dGltT0xiMEV1a2FrM2FSQUtnWndrVHF5Z0tpbVp6RFptS2stQzZHaWFnenUzWG8?oc=5
-- **Source:** GlobeNewswire
-- **Published:** 2026-10-08T22:00:00+00:00
-
-## SLAC to Lead a Department of Energy Genesis Mission Project for Super Intelligence (Si)-Driven Autonomous Discovery in Catalysis - Newswise
-
-- **URL:** https://news.google.com/rss/articles/CBMi9AFBVV95cUxQdVhJdGVmQU40VFR0S1N1dklZT0k5cE9JY2VmVGdKWkdFZC13YWdNUnU5ZXJIWktKQ0VNVHdTQVNrRENsSE9KOWxZVXlHcHR4cEg1VkJrNkt0MHVweDhwVllpODFlWGdmQzdTWlRpVGdTNXFGV2Z2U2pvaUtvTGtCb0lWcGhzSk01ekwyeUEtYThNTVQ3VGxKRHhscW9OUWF0bXdDVmxQdVRaYjYzVTZVaXhQdHpuS3RKVHNTSTE1b2xMTXBadi1SQ1BvOURQdlJ2N0g0RXVpblRLSkNxdHh3eEx3YTRoQUJHZXhCaEpXWjY2TUtn0gH0AUFVX3lxTFB1WEl0ZWZBTjRUVHRLU3V2SVlPSTlwT0ljZWZUZ0paR0VkLXdhZ01SdTllckhaS0pDRU1Ud1NBU2tEQ2xIT0o5bFlVeUdwdHhwSDVWQms2S3QwdXB4OHBWWWk4MWVYZ2ZDN1NaVGlUZ1M1cUZXZnZTam9pS29Ma0JvSVZwaHNKTTV6TDJ5QS1hOE1NVDdUbEpEeGxxb05RYXRtd0NWbFB1VFpiNjNVNlVpeFB0em5LdEpUc1NJMTVvbExNcFp2LVJDUG85RFB2UnY3SDRFdWluVEtKQ3F0eHd4THdhNGhBQkdleEJoSldaNjZNS2c?oc=5
-- **Source:** Newswise
-- **Published:** 2026-10-08T21:55:00+00:00
-
-## Fusion energy developer plans to manufacture in Tri-Cities, create 100s of jobs - Tri-City Herald
-
-- **URL:** https://news.google.com/rss/articles/CBMidEFVX3lxTE5nS1phTVR6SmJ0MDB0SkF3NlJqTTJoakNqeFViNWpQYzd0SlRad0RrWXh3ZFNCRk41dDdUeWh1Mk12MDRxcy1JSkFPNXVJS1JXa2ZmWURYM0ZwMG01c3lQdzBMaHFJU2xQazJBOUFZcjZwem9E0gF0QVVfeXFMTmpXa3hNLVJCQW45Z1Ywemd2WmhIaVotdnItSWpidmIwcWRTRzVtaWNNMHQyWTZjQ0JBWWJnVGlOUjdsTlJzR19MT2MzSDRCRGoyT2NPb1QySTA5OWdTREN3UUNteUVHLUphWWh4N2ZHSDFIVmE?oc=5
-- **Source:** Tri-City Herald
-- **Published:** 2026-10-08T21:37:07+00:00
-
-## Helical Fusion Raises $20.6 Million In Series B Second Close With Fuji Electric And Other Investors - Pulse 2.0
-
-- **URL:** https://news.google.com/rss/articles/CBMivwFBVV95cUxOV1FZdE9tSHZ6NFN3X3Z2QjZ3RzY2WEdobXFqNEY2YzNEcktSR2JoYmd1RTVHV3JZUzI2TkdsSFQ5Z2pnYkdScldEdGFtWEJKeGxGYUY5QklMMms3OWg0blBKZThDNFMzRk1pQ1hEWnNBLXlqNzVSck15ZVdKTFhiSGVJalU2bE9qeGNwbFN4bC1faC1ZRk9jNkJDaC1TNFVaVm53RlJQcFpnbG9tY2VhRDh5QmcwTFdzaEVXOGYyQdIBvwFBVV95cUxOV1FZdE9tSHZ6NFN3X3Z2QjZ3RzY2WEdobXFqNEY2YzNEcktSR2JoYmd1RTVHV3JZUzI2TkdsSFQ5Z2pnYkdScldEdGFtWEJKeGxGYUY5QklMMms3OWg0blBKZThDNFMzRk1pQ1hEWnNBLXlqNzVSck15ZVdKTFhiSGVJalU2bE9qeGNwbFN4bC1faC1ZRk9jNkJDaC1TNFVaVm53RlJQcFpnbG9tY2VhRDh5QmcwTFdzaEVXOGYyQQ?oc=5
-- **Source:** Pulse 2.0
-- **Published:** 2026-10-08T19:51:52+00:00
-
-## General Fusion achieves technical milestone in plasma heating - The Globe and Mail
-
-- **URL:** https://news.google.com/rss/articles/CBMisAFBVV95cUxQRHdCWDZCaEQ2MXBxRnNuMDlSeUpsMFlDZWxnTnp6eExRdkM3XzlYVENWX2dGSlNnc2owY2k5V3VjcWk4TEw1QUo2TjVrWG03MHBGZ2VVRDBmSUtjWUk0T1BXOThmV2F6a3IwaS0zdW5jczBxWlpVV3M2YnZXSlFmcHgyT1BFMkthTTE3RURyOE95U0E5aW1aR1QxRjllWDVabm0yTGlSNlZEcFpfTkxsTA?oc=5
-- **Source:** The Globe and Mail
-- **Published:** 2026-10-08T17:35:05+00:00
-
-## General Fusion surges after claiming fusion energy milestone - TradingView
-
-- **URL:** https://news.google.com/rss/articles/CBMiwAFBVV95cUxQQWVQTkJzeG1RZkYwaU1rY3NVRFNVb0NZcXQ0Tm93cmJXLThRS2xsQTRyM3F2eGJQMXBOakRUVXV1SUhqTVA2R05zZUhOdW1EZ1ltWFNNNEhuZjJrS29Id0t6b1U2V3duOE5GZU40WWdKVng5MGs4TTZieDFRUHRUOTJIMmpUckFtbjRrbVNfWExhWHNJWFVKTkRLaU5kVjkxSzQ4VklUeGZNYU1yMXl5aEtzTzF5UFJjaXd1eDBzR2M?oc=5
-- **Source:** TradingView
-- **Published:** 2026-10-08T17:05:47+00:00
-
-## Fusion’s Prove-It Era Just Delivered a World-First Result - GlobeNewswire
-
-- **URL:** https://news.google.com/rss/articles/CBMiyAFBVV95cUxQWmoyemNReDBCNXBGN3hVbFJxNnltejZwT0xTTUNxLV9iS0JKUzIwMmUzcm91WDlrX3JvSFNfMXlnYUNtanNaMnR2V1luMzhOeDlHaHczMVF3eFdGNG9EZDFBUnZWV1l3WmhfaUhfV0tnamxCMEx3a3J1c2Qyekg3YlMwaVFUUEU3ME1BX0NuU0o0VEFrVUd0bk91anVpTE81VEw1M1ltQ21WSlE5aGNxbktjcnJ3RUx2ODJZcUNtY3dlTWN6eldRMA?oc=5
-- **Source:** GlobeNewswire
-- **Published:** 2026-10-08T16:16:00+00:00
-
-## Nvidia Commits $1B To US Science As CEO Jensen Huang Backs Trump’s Genesis Mission - TradingView
-
-- **URL:** https://news.google.com/rss/articles/CBMi2gFBVV95cUxNa2Y4azVteE5OLXBjYUt0MG15cndNNi1BTXJrb0paek5zMkM3X2NCeUpwd2JNTzFuMmlQbDdKMk1RWXF2UWlIYWptb0QyTUtlSmQ1M1NXcFFRVE5BdzBoT0hUUEw2WkdBUi04enlvZ251QXYwUjVoWk1LcXJaUzBueW9MLU51VEdrdkU1cDhJblRxT3FoakJCRnI1cXBxd2JrN3RBR2xiMHVYcFVzVi1jMnhIM2dtbk9jQUQ2ZnJXV3dkaE1seHp4cHEyOU1tVXlkTVhJMGR1eXJydw?oc=5
-- **Source:** TradingView
-- **Published:** 2026-10-08T15:55:00+00:00
-
-## Energy Department Announces New Genesis Mission Awards to Accelerate Scientific Capability - The Quantum Insider
-
-- **URL:** https://news.google.com/rss/articles/CBMizAFBVV95cUxQbFd1NkVscmhZaUpPTWs0MWxBMXI2ZVdMY3hvSmRlX2NrWGw5U09GUlBRazFZMmNsazQ3SXRZdU51S2pZb0Z2RkhicWNFOUxvM1g2OTZKUWpjYmVGaXdxS3F1Y0owT0x5dHctcHdvbGw0V3lLUlZaNmpoeElTRldoNHhwY3Y3ZE50S1FsQlAwc2xNdGhKU3VfLTlySjZ4SW5DSFVjdGQxRHRVNmNNMFJpcVUwNXlDQVJzeUw1NS1xMDFfUTcxV1JVVjZidDE?oc=5
-- **Source:** The Quantum Insider
-- **Published:** 2026-10-08T14:50:20+00:00
-
-## PPPL Data, Codes to Build Fusion Energy Digital Twin in Genesis Phase II - Mirage News
-
-- **URL:** https://news.google.com/rss/articles/CBMiigFBVV95cUxNYjJxWmw1YkFHeUgtYlVfR3Q3X0p0QkxkTUxaQ0VlM1JRdTBBVllRV3pYdi1KQjhTRlFDNnJwWnRGTHVLSnFDck5KWHlUYW5QcmJsUW5OemdiUFplR2t6WWgyRDZmdmxzX3ZpX2RrMERqdF93ZnVqQndfM1lNUXE0ZjVLUkM5TmEySmc?oc=5
-- **Source:** Mirage News
-- **Published:** 2026-10-08T14:38:00+00:00
-
-## US nuclear fusion technology advances as high-power gas lasers get DOE funding boost - Interesting Engineering
-
-- **URL:** https://news.google.com/rss/articles/CBMiiAFBVV95cUxNLWl5dFZxODE3c1MydC16MG45VkhNWEVYMGdIS1dHVFBSb0R2OXMxd3h0SnFYRU9naGFoR096a2FyYnREbDR0VmlRbFRZX3lOX1RYVEg2Ri10S3JJRU1CVkRuNDljd2NCOEVEdmctSXg5WkdHSEd0OXlTc29DeWpKcmxGQ2JvZksy?oc=5
-- **Source:** Interesting Engineering
-- **Published:** 2026-10-08T13:43:00+00:00
