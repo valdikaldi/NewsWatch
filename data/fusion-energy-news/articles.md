@@ -1,8 +1,26 @@
 # NewsWatch — fusion energy News
 
-_Last updated: 2026-10-10T17:03:14.853372+00:00 · 50 articles_
+_Last updated: 2026-10-10T21:16:02.609406+00:00 · 50 articles_
 
 ---
+
+## The Bull Case For GLOBALFOUNDRIES (GFS) Could Change Following Its FDX Fusion Physical AI Bet - Learn Why - Yahoo Finance Singapore
+
+- **URL:** https://news.google.com/rss/articles/CBMijAFBVV95cUxONnVONlItR1VJdHNkUkRta0kzdEtaMmt4Y1FKeXhVQWM1cU52QTdHVEdLcFJKRU4wcFRCWXV2bzNuSG52dkZ5M1JVRlZlcFVKOUFoaUN4VEsxY0psWms5ZjQ0Qkx5eXB0STdPenZ6RlMybGhFOFlKdm1kUWJUb2M2UTJRTUZVczJJcXAwVg?oc=5
+- **Source:** Yahoo Finance Singapore
+- **Published:** 2026-10-10T20:13:43+00:00
+
+## Scientists Discover More Efficient Method for Achieving Fusion Ignition - SSBCrack
+
+- **URL:** https://news.google.com/rss/articles/CBMinwFBVV95cUxNdm5HWDYzN3V1VnRwM2Ixd0RVTWFJUUlrd3lzcWVXT2VZTXhFTFI2Z0ZWWFRTNUVVZWNpWmhHMG5BOHlYTDJ0RlZjRVJ6czJaMWYxUnhpcHR5QzQ2ZU95M29CZDZPQ0tEcW1EM3J1LVh6bmVFX2d3T1N0Q3B3WE5ZY2tSbzVCT0pfYXNFaGVMX2J0QjJzNnNIU0VuSkd1M00?oc=5
+- **Source:** SSBCrack
+- **Published:** 2026-10-10T19:28:12+00:00
+
+## PPPL proposes heating plasma before compression for fusion ignition - UA.NEWS
+
+- **URL:** https://news.google.com/rss/articles/CBMipgFBVV95cUxOS0NpdTlaQmY0TVN5aUFkeC1SdFNwVFByOUZQYm8xc0ttMXhrNTd5T1ZxYThlMzZyRmZZWmpVN1pLV1lPNkcwVTVwSmxMNUtUNEQxUzg5SGljNWl5VkJpdHdsSER4bnVHeG9Tbm9DQ293REF0R0xuTkhqeGJOTlc3ZmNMRVdXLWZRZzliYlNSSWVJSW1zOFp1S2gzNXl6ZTRBTXl0YzJ3?oc=5
+- **Source:** UA.NEWS
+- **Published:** 2026-10-10T19:17:04+00:00
 
 ## New to The Street Show 775 Premieres Tonight on Bloomberg Television Across the United States, Latin America, MENA and Southeast Asia, Featuring American Fusion, HPB, T-REX Acquisition Corp. and SyncMeOn - News-Press NOW
 
@@ -285,21 +303,3 @@ _Last updated: 2026-10-10T17:03:14.853372+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMikgFBVV95cUxPX1U3NTJ4QnZEODB0OGxSVjE4SWlZT3NZazdkdlVTTUg1UHJxeS1lM1lSUS16am9VNnFxNm1henFTRUNHVTJMdU9RRTB0UV9yU0V1LUlJXzZIdDFBUWNGczQwMjNtVktoWG8ydW1QQjhCTno5MVV3NFBQUmpiTVVBWldEakFCZjJGZk14aF90aVFIQQ?oc=5
 - **Source:** AIP.ORG
 - **Published:** 2026-10-09T04:11:02+00:00
-
-## PPPL Partners on Genesis Mission Project to Build AI Digital Twin for Fusion Energy - HPCwire
-
-- **URL:** https://news.google.com/rss/articles/CBMivgFBVV95cUxOdVVDNUFFTnV0Rk5lbUtvOTlCc2wyaC12UWlCNk5TbWVaNTZlYzBGT0RjVVFVRC15d2NsQ2hfYkwzVVl1QWNDNTV1S0JUVXlZN1I3bDd2UVJvRTNjT01QU016dUxxNFM2NzN3N3I0Zm9CUmpnUTJGODctd09XWXFjcGI5aEhMSkEwS08yMFNGU0JBREVmSHdLU0RKZlptNHFMLWFBQ1ozUHQ3eXhkNUlJaHBscXpfYUpXVlF1QnNB?oc=5
-- **Source:** HPCwire
-- **Published:** 2026-10-09T03:01:18+00:00
-
-## General Fusion Shares Gain on Fusion Energy Milestone - Moomoo
-
-- **URL:** https://news.google.com/rss/articles/CBMingFBVV95cUxQOTdSQjVDRXpaRDJ6a2ZlOWxINExqcnZ6U083WkgyWThJemdLS0xrWE5rYzYtOHdyOXBlUGJHYzg5WFI5QVpvMXQyZk81WnpaTGlNU0VIWGVwNGpyNzZHWVRWWkhZU0lKb1dWRnQyVmZ2dnVVWG5mU0JaUHdxTTBWWl9fMVI5a2dHenRJNzJvcFBqQ3hQWG54RTRFRG9UUQ?oc=5
-- **Source:** Moomoo
-- **Published:** 2026-10-09T01:57:04+00:00
-
-## Tri-Cities picked for Avalanche Energy’s first fusion machine plant - Nonstop Local News
-
-- **URL:** https://news.google.com/rss/articles/CBMi5AFBVV95cUxOMjJhR3hDWEJfVXV5VWJ2UWJNbXU3Y1Q1U0VlMmdwYVNBWkx4RVJ4Z21DWldwczRtUzhqLUdydkQ5SllJUHhtbDRGeWNOa3pLS3BwcXpTM2JERnVYbmVnc1d1LUM3d3ltQ0E0R2hhVVNTSnF2a24xaHFLblhheWRLdHhmcnhNRnJSU3lEamJ5aW1ncFJrcEJ0bm5DdEhiMEc5RmhLbkVSVzdEaVg0SW9PclJfYmFSNk42eFR1VXR2QjBfU0RyYnBlelkzMDczbFNoYkkzaW1WbHdBUk1SWTZnalNOOGU?oc=5
-- **Source:** Nonstop Local News
-- **Published:** 2026-10-09T01:33:00+00:00

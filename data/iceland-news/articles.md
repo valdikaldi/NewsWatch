@@ -1,8 +1,26 @@
 # NewsWatch — Iceland News
 
-_Last updated: 2026-10-10T17:03:14.424872+00:00 · 50 articles_
+_Last updated: 2026-10-10T21:16:01.346168+00:00 · 50 articles_
 
 ---
+
+## MoS Kirti Vardhan Singh plants sacred sapling under ‘Ek Ped Maa Ke Naam’ initiative in Iceland - Lokmat Times
+
+- **URL:** https://news.google.com/rss/articles/CBMi0AFBVV95cUxQWEtEaVM2RnRtX1VHSlo3TzdrV2MwNzRCdGxfb2tPVHhnZDZLSDRWdS1ZR043NTNnVXM2eE9KLVQtNVhBSVg3RHhOQ1lRalZrZEdXbGdIQUs2NTZ4VFRhZmh0OV8yTldGTVRhajY1RThycGpmSDNueHBwdU5ITTJpMG51MExiX0dWUUYwd2hMX1VUX0pRak13OFZQRGd3aEpRSGl2cGhabUhNYzFEN2QtX01Ecmo0YzM2RGlKeUxTOFRRNEpYenlpbUt6blBjNExU0gHWAUFVX3lxTE9melBLR1VGRjJYZ1hNdzdzei00Zm14clFSTUt6M2xTUGhmWHdLVW91a19BWjVhZmd4cnF5QmdIUzJsdFBUejZpcEJyajExZTQyVWpBOFM4ODM4emFOdHBiWXVWN3hnWU1OQ09tbkM0MXowTE5Pejh6VHl0UEVmMGtnb19UcVlPVmlvYS1naW5TeEpsRUhNNmtKaFZLTEZScHFwZW9pOVN4OVZkSWR4MWdmNldBUWwxZUN0TkhlZUVXdE03WUUzMGVXbGk4aDlwU3F0czZ3cUE?oc=5
+- **Source:** Lokmat Times
+- **Published:** 2026-10-10T17:48:01+00:00
+
+## MoS Kirti Vardhan Singh plants sacred sapling under ‘Ek Ped Maa Ke Naam’ initiative in Iceland - IANS LIVE
+
+- **URL:** https://news.google.com/rss/articles/CBMizgFBVV95cUxOcHBEN3J2TGwwNm4zNjFPRUQzM1FFSzJQb2pwem41bXJCdTZVRU5EREdHekttamVzRXBTZFhUMG9PWl9rdUpFcGFGNjNEYjgxVkRwR1h2VTRUbjNPcGRneXJ4VmpyX0ZjNmxkb3BLcDV1WjVydGd1b0lXMVdwRENFdnBuXzR0aU9FUFd5UF9wNVZhSTE4eElxTW5wSFhfajBFT1BFRGtuZC0tajFGbDFNNnRGYkwtOU0zbUtEY2Z5UXBKclFYUUZTZ0Q5YXJLUQ?oc=5
+- **Source:** IANS LIVE
+- **Published:** 2026-10-10T17:39:00+00:00
+
+## Who is Misfits Boxer Erika Night? - The Irish Sun
+
+- **URL:** https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBad2ZmeklGcWllT1RoRzlYTWI1NW9RRjF2X25pQkhfT2hSTk00akVYdnlaU3FRcGFpZmEyRGZZdmR5Q0NjbE5ndF9tQzBtMG9RMEZaYkxRN0NjeGhXUzBMSEl0aXkzVWM?oc=5
+- **Source:** The Irish Sun
+- **Published:** 2026-10-10T17:03:51+00:00
 
 ## Eldur í álverinu í Straumsvík - RÚV.is
 
@@ -285,21 +303,3 @@ _Last updated: 2026-10-10T17:03:14.424872+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMia0FVX3lxTE1jQ21Zdkw0X0xsbjloNGstTVhreThlc05Yb0dGYml6T21WVUdfVVhwejVpQWpqMnFRcDJmOWpWM1BuSFM3SDc1YkhXaktRRDBnS2x4VVc5SWRwSmlSZ0NidVlEb1ZUbjVnSWZJ?oc=5
 - **Source:** Condé Nast Traveller India
 - **Published:** 2026-10-09T08:30:00+00:00
-
-## Food Prices in Iceland: A Live Price Study of Groceries, Restaurants and Bakeries (October 2026) - Guide to Iceland
-
-- **URL:** https://news.google.com/rss/articles/CBMibEFVX3lxTE1YaDVFRktocDZCNjN0aTNuOXUzSm1nQU5CeFl6SFlrSEVpNk5wM1FoMGlrdDZIeERBaDZjT1M4RjBoeWE5VF81WkJkMFhCb1lJQmo0bXBGVHAwT1BTVzZzRTR4NlpaQlAtbHctbA?oc=5
-- **Source:** Guide to Iceland
-- **Published:** 2026-10-09T08:23:04+00:00
-
-## SkyShowtime’s ‘The Homicide Unit,’ From Warner Bros., and Iceland’s ‘Fjord’ Boarded by Reinvent Yellow Sales (Exclusive) - IMDb
-
-- **URL:** https://news.google.com/rss/articles/CBMiakFVX3lxTFBLZEtra0dBcE9BMDBHc1FlNTFpak5GY2x0OEhBaElZVG93eE9YaGdaVE1wSGtRWFAzTXRFcnVFWEkxbzlMMDdsTHJwaHBieEoxeUZPc25veXdUdVlRdlpvR01UTnVXR1BDSHc?oc=5
-- **Source:** IMDb
-- **Published:** 2026-10-09T08:21:52+00:00
-
-## The Making And Meaning Of The Moral Coward Rebuttal - The Reykjavík Grapevine
-
-- **URL:** https://news.google.com/rss/articles/CBMikwFBVV95cUxQNHVVU1VQUnA0Y2VJRldFZjFJZ3FNNXF0XzI3ZGlhbXctYmRvRlZFdFFRN094TVRzMTYwbldOZXpQUWpGeWRiN0RIcWhVUVlzY2FQZ0JXcGR6VEZGeFhXdHhfTU5kVXQwOGRHNHZfZXIxVzk4ZkRsUVlxaXlyVGE5NkhmUHdiMTZfS01LZnNhODhGdHM?oc=5
-- **Source:** The Reykjavík Grapevine
-- **Published:** 2026-10-09T08:00:00+00:00
