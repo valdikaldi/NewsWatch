@@ -1,8 +1,56 @@
 # NewsWatch — Iceland News
 
-_Last updated: 2026-10-11T00:42:30.162892+00:00 · 50 articles_
+_Last updated: 2026-10-11T10:38:42.153159+00:00 · 50 articles_
 
 ---
+
+## State pensioners shopping at Iceland handed DWP boost for extra cash - Daily Express
+
+- **URL:** https://news.google.com/rss/articles/CBMinwFBVV95cUxPejd6b3Q1T2c3OTNKMXoxU2JIQmlrN2xURVFUOHR4ajZ2QWZCQkhWX1c5TmM3cENma3JuNUZFbjQ2YUlPVUtzZU5iVmw2Z1VXT0VhMVpnbG93LVUxMGM1UFZaVkpoclhMdlpOU2lBWTZfczJVTTZEOTBPQUM5MUZXNDNCTTZCZER5anUtVy1pR2tlRU01QXJMMjJCT3UwcnPSAaQBQVVfeXFMTzVKVW9ac1E0VDRrMlRyaWd2d1RKOTlPMjZ5ci1yd2M1NFpkT2dqRDktc3BFTTAtYXVjS3ZMWFBoQndkaUhqZjNrOEtEdnhZQk9CTXFneWRCN3E0bG9xYXhmUWFPTWJCNHdDY2FhRlZrQ2tzTHhyUGtyVG9INTloeW5RMzlxTWNlNzlFLTFjQlh6ek1KX0gwR0dORTdtZlR3R2x6QUE?oc=5
+- **Source:** Daily Express
+- **Published:** 2026-10-11T08:18:00+00:00
+
+## MoS Kirti Vardhan Singh plants sacred sapling under ‘Ek Ped Maa Ke Naam’ initiative in Iceland - The Tribune
+
+- **URL:** https://news.google.com/rss/articles/CBMi0gFBVV95cUxNNllqUVdBN2hqZ2s1elB1Y3g4NUNJeWN1d1o1RDg4am9oVGkzZ19pTzd6cXBVWFU5d0duTjQ0eDdfQlQ1QzZNVS1MNUluRXl4VXJlSkVKYnJuc1dnZFNCaUFOTTF6Z1dsd3ZPOXVqbmQxNGJBZG5kVWh3WDBEMV9VQkdvdDB0WFdvQ2J6VHVET19sbGxpMms0OVVNYUNJMzNuWWZzS3hhaG9KRW9OaGVWV3UtOXJlMXp2bzJFaXAwZG9kU21ZaHp5ZTB6OGd0V1hjZlHSAdIBQVVfeXFMTTZZalFXQTdoamdrNXpQdWN4ODVDSXljdXdaNUQ4OGpvaFRpM2dfaU83enFwVVhVOXdHbk40NHg3X0JUNUM2TVUtTDVJbkV5eFVyZUpFSmJybnNXZ2RTQmlBTk0xemdXbHd2Tzl1am5kMTRiQWRuZFVod1gwRDFfVUJHb3QwdFhXb0NielR1RE9fbGxsaTJrNDlVTWFDSTMzbllmc0t4YWhvSkVvTmhlVld1LTlyZTF6dm8yRWlwMGRvZFNtWWh6eWUwejhndFdYY2ZR?oc=5
+- **Source:** The Tribune
+- **Published:** 2026-10-11T08:10:56+00:00
+
+## ICELAND-REYKJAVIK-CHINA-FU YING-ARCTIC CIRCLE ASSEMBLY - Big News Network.com
+
+- **URL:** https://news.google.com/rss/articles/CBMiogFBVV95cUxONUEwWlBRTUFIR1I5VjRJRDF1Nmg3NXl5elMzQW9vWHV1clFyQzZKS1hkTGZfWHpDMjZQX1FzR2RIcnZhREhYOW9CWGtDZklwdzRCd3pGWjl5YklsamlibHctbzlZOEI4SDJFaVdueXpIcERKNWMySFpRQ3lNam43UUZwcHExZVFCaXQ4R0FuUms3U1h0REcwb3JNMXZ4V3pQRmc?oc=5
+- **Source:** Big News Network.com
+- **Published:** 2026-10-11T07:17:00+00:00
+
+## Yellow Weather Warning as Gales Approach South Iceland Tonight - Iceland Review
+
+- **URL:** https://news.google.com/rss/articles/CBMikgFBVV95cUxQS0hPWVhDR3U1dDFRaU84Q193VU56RmdQNTdpS0NCREpxVVdIRWF2TWN0Y1luOFJKY29MNjJwckFEcWZsd2E2M0xTeFdRT0FOT2Njcm4zemJkSmpBSkdCTktIeHRCdFVXNlI3QmRhYmRkUHFGLTFKR2sxTE9IRjVYRGc1Vm1fYjUwVC1zOV9JWFJYUQ?oc=5
+- **Source:** Iceland Review
+- **Published:** 2026-10-11T07:00:00+00:00
+
+## We had a posh Sunday roast box delivered to home, for £20 a head it was incredible - Manchester Evening News
+
+- **URL:** https://news.google.com/rss/articles/CBMirgFBVV95cUxOVXhxdU1FckJ4d252VnpUWFVlWFBUbzRxQ3dHaXEyT0hHalhTWlZFNkNMUW9jM3BvcXZ3aTdoOC1yX0Z2dVJINFRZTXd4NGZ6SnI3elVQSmhpamFzbVQ0dXJkdUhJbDg2SF92MXZoOXBsdTV4NE4tSFMzbzdXRHg2RmFJVlNFMmxRUHRUcVc3aGtxS0E3NzE2cXE3TFlHYUVOa3FJenkxdlhpTUwwb1HSAa4BQVVfeXFMTlV4cXVNRXJCeHdudlZ6VFhVZVhQVG80cUN3R2lxMk9IR2pYU1pWRTZDTFFvYzNwb3F2d2k3aDgtcl9GdnVSSDRUWU13eDRmekpyN3pVUEpoaWphc21UNHVyZHVISWw4NkhfdjF2aDlwbHU1eDROLUhTM283V0R4NkZhSVZTRTJsUVB0VHFXN2hrcUtBNzcxNnFxN0xZR2FFTmtxSXp5MXZYaU1MMG9R?oc=5
+- **Source:** Manchester Evening News
+- **Published:** 2026-10-11T06:15:00+00:00
+
+## Real challenge facing Arctic is climate change: former Chinese diplomat - 巴士的報
+
+- **URL:** https://news.google.com/rss/articles/CBMivwFBVV95cUxPaDFuZ1ZWWExzSU1OUEFFbHczQVNIMGhXX2VhTDl1OWtiMjNNMkxtXzFPd09feldfTDRucmFKWDJvcV9uUS1lcjgyeFFULVNxSzNrMEdjV0hfODA0NEs4bDlZTDhvZlBxR1l6MkFRZlg0YUhRUnpvZFhsUDBZZ3lHR2k3RTZnZnRTdWFjbFN3Q2phMG9aNWRLMlg2TTJfc25vb09wOHY0RG9EZ1Z3SG1PMXdjMzZrTmtTS0tIYjlrcw?oc=5
+- **Source:** 巴士的報
+- **Published:** 2026-10-11T05:44:00+00:00
+
+## China urges focus on climate change, cooperation at Arctic Circle Assembly - Xinhua
+
+- **URL:** https://news.google.com/rss/articles/CBMifEFVX3lxTE9UeDl3RExrT3J4M1BubXRFbWkyaFJNZENweGhCVWFldjJXbjBnTWJZMHhzeU84YnZaTnhlNHZUTmlDb2lSbDItTWkwd1dlcmNjM3FkMWNrc2c4ZUhhRHcyVGtFYzhlR29rOGNlQjVMRkF5eU1UbVBwRHhrSWs?oc=5
+- **Source:** Xinhua
+- **Published:** 2026-10-11T04:23:45+00:00
+
+## Volcano Earthquake Report for Sunday, 11 October 2026 - Volcano Discovery
+
+- **URL:** https://news.google.com/rss/articles/CBMirAFBVV95cUxNSUdaWk10MU16aGpucGoyUXJlWlUwQTJiQUhzb0ItZTBKRUVPV0FjZFFZWWFrZTJBTC1WUzhGOXI3NEhLTlBSTmhldkpmdnBKZWJJTG5FazU3M3RiNmJnYnF4dkhGZjNqU2syQ3dXMGs1UmJHOF9Yc2dLSjNGRl9ENGVPeC1LZEpNMDBkTU1UbXNpdmxmRnhuWDdBYmpQeG5ZelMyc0FzdFR0NW5V?oc=5
+- **Source:** Volcano Discovery
+- **Published:** 2026-10-11T03:10:32+00:00
 
 ## Parking works at Jökulsárlón finish on 8 October - ad-hoc-news.de
 
@@ -255,51 +303,3 @@ _Last updated: 2026-10-11T00:42:30.162892+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMi7AFBVV95cUxOR1ZxNFlOZHBPQV92WTd5YlpEbWFjZTFJM29veUpfRFkyUF82emVPVmN4dHZvQTNpMVZzbTViMEg4NWtLTWk3QVN1TmIzMjloYUFVa0ZhbS1IQWRZbnh5MEFqV0lsVXBnOUtqWWFmMk05Y1dXS3dBcEFNdGdXeVJpZmNZeEV3SFlzZVRyb3J6cy1FZ0J2bEJrVTlNYUNkS3ZqQ3JGNnpzcXZzcUYxNDlfcHEtOXFPdV9VcENXSHdtNk9zRFZYbzc5a3JHWklvV2RtWWhVM1pSV0xlTUlnR2Z4TVRHTDkybjl3cGZaVg?oc=5
 - **Source:** Hospitality Net
 - **Published:** 2026-10-09T12:17:00+00:00
-
-## Introducing: Baltic Takes its Hermétique to Iceland with The Rift - Monochrome Watches
-
-- **URL:** https://news.google.com/rss/articles/CBMirAFBVV95cUxQVTZvdEZUZW9uWGU0dHdWZ2pvOWIzVFFGclNZMmNrTVJHQTFDUzNSaGRMT2Rrd3pMbVRSR29zWll4S1lXcTVuR3l2aWpUNE92NnFSMFljelozME9JN0Z2SkFaa1J0RGxZSjFRRmhwNlZOUFlVUGxjZldHSW03RFg4NmRmc0F0aXhwNU0zaEZQUG03R1RDd0dDSC1tNkJDSWdZd0ZnbWliTzBzZU1h?oc=5
-- **Source:** Monochrome Watches
-- **Published:** 2026-10-09T12:00:29+00:00
-
-## When Björk had a baby and started a band on the same day - Far Out Magazine
-
-- **URL:** https://news.google.com/rss/articles/CBMiswFBVV95cUxPclc4R3ZmT0dHd0xwZmQwNkRUd2dCbHpaanhKODh2VjMwdVcyTWRCRU9SQ18xTFBhMmJ0bW4xQ3F5OWp1RzVDMUlsQ2pCX0dXb2ZXQ0JQQmU1czBIaHF5OHBsRU1hM1o5RlFJclBHbW1PZ2xtN3VmZ25yYUJoU2p3VGlXQktyOUVYSml4ZzVsNEtOQjdMOFF6LVFEYmdYd2htckVWREVuYUUxQU5rNkw4Y2Vrbw?oc=5
-- **Source:** Far Out Magazine
-- **Published:** 2026-10-09T12:00:00+00:00
-
-## Watch Luxembourg vs Iceland - TOD
-
-- **URL:** https://news.google.com/rss/articles/CBMinAFBVV95cUxNUTJ2bmtzaDM3Q2kxeHhtblk5bXdHWHFjblBQeDJpdlpDMnZxYVNDaWlBZW5GdWxyZF9BLTRPMlFvMFh2amkyZTlQRHM0Y0dzNkwxeU1qOVRrNHpiRHZjTHdVTm5nRjZ2OVRxVklfd3ZKd05pTEdRUjhwVndpd1BoaDRwRnQ2TklQd2E2dnc4X0pGYWlOcXNaNXIxR1U?oc=5
-- **Source:** TOD
-- **Published:** 2026-10-09T11:38:56+00:00
-
-## Iceland Adopts Its First Comprehensive Public-Service Strategy - Iceland Review
-
-- **URL:** https://news.google.com/rss/articles/CBMihAFBVV95cUxQb2tlemUwWVl2S3VKRmUwdlg5czFJajlhTTV6V2wyTEo5aTlkZXpPMFlVOWxORWVJajBoLWVSTDBDOFg5WFJGMC1XUndyWGRjaDgyTndDdXJON24yZEZ6NFQ1WnNack1YdVA4NFA4Y1d2RnFNZDc2bkZ5OEtzazlIUlRoRGo?oc=5
-- **Source:** Iceland Review
-- **Published:** 2026-10-09T11:30:46+00:00
-
-## Canada and Iceland Deepen Arctic Security and Trade Ties - Iceland Review
-
-- **URL:** https://news.google.com/rss/articles/CBMijgFBVV95cUxQQ3dLdDNjSHgwSXd2amIxeDRpeGtGbkpHVXZnckp0UjFGMTh1MUU5ZzZLOUlkMjZ0eHQ1V2g4WE1zcXFoUUhvZ2NOZHRqZk45U3FjVU5kMnhLQVJYdXZvdE9mR0dwdWd1dnNybWRNYUFUUEptcUQ2azFVaEhaLXpFbDJ6SXFrMDdDeUYzb19n?oc=5
-- **Source:** Iceland Review
-- **Published:** 2026-10-09T10:30:47+00:00
-
-## Crucial that government does not fuel inflation - Iceland Monitor
-
-- **URL:** https://news.google.com/rss/articles/CBMioAFBVV95cUxPZmh4emhhZHk5SXVIYV9ZY29oLVlacjh0YjNsMDFDbWJ3RGVaaTNMaW1hY21rMXJ5VVhBcGdUZGJweHFVeTBYWTRMdWkwOW5QYmlGbU41NmlhV3R6TzRzYVg1eENvaU95UXJvdWZob2RUVUU0OFRqcllueTlkU09OdFVRRnVJNkU1TVZibFZfclJ6ZV82S1lXU1NCRlVPTi1Y?oc=5
-- **Source:** Iceland Monitor
-- **Published:** 2026-10-09T10:00:00+00:00
-
-## Wage Agreements Hold After Last-Minute Iceland Deal - Iceland Review
-
-- **URL:** https://news.google.com/rss/articles/CBMikwFBVV95cUxOUXhWblZYVDB4YzZGcThmQ1Azei1pOUJ0ekNvTnZYVmdRVzR3M0ZEYkl4YmJETTlKNXFET3k5TW85bzkzQzZma0QwV3U4T3lFTDZ2a05qV1B0RmdKTHYyYkxIZ1NKbjdDQ1ZpZHZXeGlPeGxYTzhMalpFVjQ4dkhQS29UdjlMT0h2T0tpYUk1VjNBNnM?oc=5
-- **Source:** Iceland Review
-- **Published:** 2026-10-09T09:30:28+00:00
-
-## SkyShowtime’s ‘The Homicide Unit,’ From Warner Bros., and Iceland’s ‘Fjord’ Boarded by Reinvent Yellow Sales (Exclusive) - IMDb
-
-- **URL:** https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5SbkJQamRQZ3JDQ2haTkNqZmw2ZEh0UXozTG9FWGFIYmNvNGNmR3NURnVQTE5VTjgyUHRXYzBvV3VnVnNYMk9SMERfaGlyeWd2aHBWaDh0Yk40d3JJVFJEOW5reGpYVG8?oc=5
-- **Source:** IMDb
-- **Published:** 2026-10-09T09:09:54+00:00
