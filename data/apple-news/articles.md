@@ -1,8 +1,26 @@
 # NewsWatch — Apple News
 
-_Last updated: 2026-10-11T10:38:40.919020+00:00 · 50 articles_
+_Last updated: 2026-10-11T17:26:36.795970+00:00 · 50 articles_
 
 ---
+
+## Apple's New HomeView Smart Hub to Launch With A18 Chip and Four Color Options - BigGo Finance
+
+- **URL:** https://news.google.com/rss/articles/CBMidkFVX3lxTE1JT3NhSHRhMFZrZklKaW5XbFBuUnBNSjRRZVVyMVlyZ0JXaXZtTHZNbS1VV0tETU1kU3Fsd0dmdk1PTXQ3YUZRUy1ZeEY1NE9ucVpXUWx3WUx1WG8wNy1JVHFXdXFpWkR2S1NrUk12R255dlJvbnc?oc=5
+- **Source:** BigGo Finance
+- **Published:** 2026-10-11T15:05:00+00:00
+
+## Tim Cook visits Guangzhou as Apple’s executive chairman, underscores China’s key role in firm’s supply chain: expert - Global Times
+
+- **URL:** https://news.google.com/rss/articles/CBMiYkFVX3lxTFBIXzlVN2phaFFKci1iYmo5cG9wOUl6VGR3Wk5QQ0JVazZNM0NCMi1McGFTUE95RXYzY1hTMTFNeHQwYWI5RDNqbURYUFdhTmEzckV6WndrWXFQZTVJVXRKLXhR?oc=5
+- **Source:** Global Times
+- **Published:** 2026-10-11T14:12:00+00:00
+
+## Apple Faces iPhone 18 Demand Concerns Amid Reported Order Cuts - Apple (NASDAQ:AAPL) - Benzinga
+
+- **URL:** https://news.google.com/rss/articles/CBMimwFBVV95cUxOVTFHLXotdzlMRDdfR0FDT2ZscGZCNVluQ1FvQlN4M1M2Mm9vVXdES0tBd1RUQnJIb29KU2MycWhiYTU4MmQ5bm9YZGtlU1BfOVJDM3MtRjlMd19telk3V3Q2U2p4eTFtb0loM3hxX3FkWjRfdXhUTWxXYktDOEFvNmhLVjlQWkxZTzhYcFEzazBXR1d2R3puTzl5SQ?oc=5
+- **Source:** Benzinga
+- **Published:** 2026-10-11T11:00:14+00:00
 
 ## Apple Inc. $AAPL Stock: Pinnacle Wealth Management Advisory Group LLC Boosts Holdings - MarketBeat
 
@@ -285,21 +303,3 @@ _Last updated: 2026-10-11T10:38:40.919020+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMiogFBVV95cUxPbUR3VGM4TXhza1RjTmEwN09SNUxSVWpHWFpMXy1zSWVJYVdpcjI5UFZfWm9XUl9xTDRrNWxTWE4wRmJJTGp2NXdNb3hQNGtHeHViLW1QMEtXVi1La0djdFF3X2NaSzdLN0FjNmNXdTJKWDBvN0xFMVhpb3JJcndJY0EzN0dHd0NWUXNvY2k1cmFKQWl5ZXNodlNJbkprVEliemc?oc=5
 - **Source:** 9to5Mac
 - **Published:** 2026-10-09T20:04:00+00:00
-
-## Apple's OLED MacBook Pro Could Supercharge Premium Laptop Display Growth - BigGo Finance
-
-- **URL:** https://news.google.com/rss/articles/CBMidkFVX3lxTE5xc180OGZza3hMQTlmdzNYN3lPek41emlrZ1FBV09sbnJxekVfeGNGanMza29yUFI2RVBIb1RsOUtiTDhnamJCeFpPVzFaWFZxUXdocFRDSTY5aEtEUVhyQi1Cbl8tMC1kemM0NGFqLVpDeXJwZEE?oc=5
-- **Source:** BigGo Finance
-- **Published:** 2026-10-09T18:22:00+00:00
-
-## Apple stock trades at EUR 299.50 with USD 4.9 trillion value - AD HOC NEWS
-
-- **URL:** https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWF80dU9mLTZYZVNSeTBsdTF0YTRFRHRLdWRMcGZFTjhySkZCS3h6NEFpa2JzQ3RncTYzekQ2X2xDMks0X2tyMzlxM3pTRkpMenNGZkhDYXFZczNsdTNxT2JlaWdOdGFIM3MwdnVnamFqekJRQy0zakRaRnhwMTBLT2NtY0g0dnBZSUVBWDVkbVFEYlF4VHladmhaTk9zSER4eEN1WDN5djRhSWM5YzlKMjFCanNrelptZUlsSjNiZWY?oc=5
-- **Source:** AD HOC NEWS
-- **Published:** 2026-10-09T17:07:49+00:00
-
-## If You Invested $1000 In Apple Stock 5 Years Ago, You Would Have This Much Today - Benzinga
-
-- **URL:** https://news.google.com/rss/articles/CBMitgFBVV95cUxQaFZCTldQcXhWSnoxeUV0WloxQ0d4YTV4SkpvQUlKWkUzMTh2dmJZT2tLbkJ4MXpSZWZ0aEJyeFNQUXdfTTM3UnA1a1NZTlBHVGlxekNTWU80TnpmRElmU2FPNzVsTkhvZXlHb2VGTVdjLTF2R0w0WkR5bVRfZkZUc0F5VGRqM0ZmX2xMeTFjY2lTbU5fdndONHNlcFNKbWNJLWp3NmtscnZLZWtDdUh5QWljMFA2Zw?oc=5
-- **Source:** Benzinga
-- **Published:** 2026-10-09T16:15:18+00:00

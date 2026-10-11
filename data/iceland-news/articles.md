@@ -1,8 +1,86 @@
 # NewsWatch — Iceland News
 
-_Last updated: 2026-10-11T10:38:42.153159+00:00 · 50 articles_
+_Last updated: 2026-10-11T17:26:37.795851+00:00 · 50 articles_
 
 ---
+
+## 'Fraud': Rubio Puts Woke So-Called Human Rights Group on Blast for Stunning US-Israel Hypocrisy - The Western Journal
+
+- **URL:** https://news.google.com/rss/articles/CBMitAFBVV95cUxPeHhOOGtDM1Y5V3NSeDJVU2dMSFExaDA4bVJHSldMSW5rXzZnNjBiWFRERzROeE5rcVd3czhIdGN0SnlsUjVsNUhxSllNcUR0MFMzRWJRQWVUaG5iV3RIX1ZDU0Z2MHlXOTVDX2tBaWs3TlJaZXp1ckI2VVdodDlaZnFKOVcxM3kxTlpPZjU0cXdXaUFsZnlyUW5zTkRLQnVXUjVLMk1GZi04MFZyZVU5UkFBUFE?oc=5
+- **Source:** The Western Journal
+- **Published:** 2026-10-11T16:53:15+00:00
+
+## Transatlantic divides over security, development, climate emerge at Arctic assembly - Big News Network.com
+
+- **URL:** https://news.google.com/rss/articles/CBMixgFBVV95cUxOUjcycnpXN2pYTTF6QjVRWGVzSXJ1SXlnQmtnYUc1RklQSW4xdjRXVkJhUFJOVFhpNkV4OVBjME9yd0RIdUJYcDNvWGRlRkdDQ2dnak0wOHVKQ3F5cGtQY3Azeng2RFJGSDlBeWltcmcxUWJOMC1qbGx2ZXdRWlJIaUpKakFBUDZQWl8wdldTOHJqZDVBekNwNG50c2FBd3hJaWpSSjhkRTJVNjNpSkkybVl2eWx0R2U4Ym56b0l5eFI2WGtlOUE?oc=5
+- **Source:** Big News Network.com
+- **Published:** 2026-10-11T15:45:00+00:00
+
+## The 11 best things to do in Reykjavik - The Telegraph
+
+- **URL:** https://news.google.com/rss/articles/CBMipwFBVV95cUxNN3hyTC1aYXRtcG40aFhuanZyck5QclkzY1Fka29MbXhOemExeDROU0lxVXVXNFNMbndXbDJhMllCNElEMDZPRWdCMEJSelpfbDdTenV4OGhVeUJzWVBCSGlvYnRVNEprUXpocVRWdE1sNXNRbzdTeGRDMnY2ekoyZ0JyanlxQTE4dFp0WGh1UHB0dkZQdUtUei1fWk5FV3RmRnM0WWc4cw?oc=5
+- **Source:** The Telegraph
+- **Published:** 2026-10-11T15:00:00+00:00
+
+## How to spend an easy-going weekend in Reykjavik - The Telegraph
+
+- **URL:** https://news.google.com/rss/articles/CBMinAFBVV95cUxNUU5SRWFTM0tkZHZjak1wUGpYNGlibmtyOHdqWGxpWmpENFV4ZncwdkpIdENqLVRNd19Dc2tnRThQWUlMU3lXRE13U3BLcmxQb2tiY1NlbDIwbldZdFkwNk1LZ0g4ZjJuVUcwbHM3MnE3QXRfTEV0UDI0WkJxZW9yZ0djMzBsdHZzTXh6WXBHLVV4amRJRnZhd29Bb20?oc=5
+- **Source:** The Telegraph
+- **Published:** 2026-10-11T15:00:00+00:00
+
+## The 15 best restaurants in Reykjavik - The Telegraph
+
+- **URL:** https://news.google.com/rss/articles/CBMipgFBVV95cUxNSExrdG5TWDJUTGc4d0Z1YmpTNUVleFE2QVVDR0RVU3JqeUV3aFNwVV9ubzBUZ3hzckhndnZTS1BHeUlIT3NBdzZjdExFTE5NZDZQYjNKanBkdTQyY0RpNVlTRUdnSjd5bkUwamFpTHB2MGg5cE9jM19RYXViYXZiaDFyVUxRV3A0RmdUeWpCSFNPY2I1cVBtY29IaWlYNDJIWDZQTmZn?oc=5
+- **Source:** The Telegraph
+- **Published:** 2026-10-11T15:00:00+00:00
+
+## The best bars and nightlife in Reykjavik - The Telegraph
+
+- **URL:** https://news.google.com/rss/articles/CBMipgFBVV95cUxOSWRBMlFCNkRlRXNZQ014YWN3OGFHei1PaGNDcDlMcWNDdVBwVnpxM0piRHdleGp3VUo0RVc1Y3BfWVFYNld3Z0phcGFMOGNub2UtOWxjTmRZMUFSUTh6RDgzeW1Sbi1iQWptbnQyOElzY2oxME4zRkx5aGZObzF2NnVSTVZBOEdoQmxtVVVid2tnYkdzaUVuQlQteHd4UTJQME5mYU9n?oc=5
+- **Source:** The Telegraph
+- **Published:** 2026-10-11T15:00:00+00:00
+
+## The Classicist- Who Remade Modern Literature - Hindudayashankar
+
+- **URL:** https://news.google.com/rss/articles/CBMiiwFBVV95cUxQaEdsMXlJQmhZM1lzVlFVdmtzUFRHSC1CdWl6T1RpNHlsZGVqNElVcTNWQ3I4Q0xReHZoUUpHTkVsTDZMR0VONnVoUjk2QlB1aUlINFlRUzkyTlo5TlZRRDFxamxRcHRzR0JRR0Y3dWxvSzluX1NWMDMzWXF4eTV0UDkzMVhLM2I0MjBV?oc=5
+- **Source:** Hindudayashankar
+- **Published:** 2026-10-11T14:46:00+00:00
+
+## First-ever indoor street food hall coming to Hitchin this month - The Comet
+
+- **URL:** https://news.google.com/rss/articles/CBMikAFBVV95cUxOSldIS0otLXRRLVZ2Q083V1N2WDBvYlRWeE15TERxSXJabmlDS1F6VFlMYW9QUktkY0RrLUNOSkUtamxZZEsyZEVRLWhHeWI5TGpBMmZVMmdWWkRLMkRCdlJxU3prRnpaUThyc2xDVm5HemRqSDJZc2NRUUZwbzk5VjdsTXFCLTRWVFNHWjRSQ08?oc=5
+- **Source:** The Comet
+- **Published:** 2026-10-11T14:42:47+00:00
+
+## Iceland confirms 30-minute change for UK supermarket shoppers from this week - Birmingham Live
+
+- **URL:** https://news.google.com/rss/articles/CBMimAFBVV95cUxQNFFScWY2bEpwcXEtNzZiU2FwZnM4OHpSbDVrakF6UkdJUHhqbmw4dmhGUFpiRElwaDY3LU1HcjZPcnRWZzdWTGxZS0UzVkFsaGQ4MUktX3dXV3dpSVJKU0JreTVhMWFIQWxubXlxYkhUVXJlSVhaSjJwZEwtcUo4ejZZNGZnYkJxbmc5ZDAzS3FQU2haZDZ4UdIBngFBVV95cUxOTzJzM2JISGptYmxDb2RYSTZhSnFtWEZjZ0lxMWx2LU93VDAtYnI4VXdoT0xZcm5oc3BsRTJkbW44UU5ncjkyX3BPUnVWUDFnbHhWWlNkeDRWS1gtTjdSOHc0X2Q4TXZmTXNhOFhRY01fTUk3aG1uVWp2bTdGc0dJaVlKWFZQc05tRW5FbDBJNEpwcjg1eFEwclNPaWRyQQ?oc=5
+- **Source:** Birmingham Live
+- **Published:** 2026-10-11T14:39:00+00:00
+
+## Women's Scores & Fixtures - BBC
+
+- **URL:** https://news.google.com/rss/articles/CBMiekFVX3lxTE83d2lYMXg4Z21JR01KWXZBRlFqQTVIeERPdDgwYTZfNEswR01yYkNaMFJoZ0gzRHpuekhzMm1qTG5Bc2xpZHR5S09ZSTN3UkJ0dW9icEp6bEY5M0tNODMxbXVmWG5NbW5UZDF4N0daVXM1MUl5cDRjNmZB?oc=5
+- **Source:** BBC
+- **Published:** 2026-10-11T14:17:57+00:00
+
+## Tourism and fishing drive Iceland’s strong economy today | Life - Kenora Miner & News
+
+- **URL:** https://news.google.com/rss/articles/CBMi4wFBVV95cUxNU0lPSlVRZVhRMmhrWjBIaDAxeDdRTjV2UHdtMW5VTWM3YWJCQzdrWEVKdlJNQVZOajRIU052V2kxY3NyN3dXLXdIZHZEdXRVanZYWEhOTW5VcXNmVGFfNTlrVjEwSVNwd1pyZW9SMW5GcGtLbTNvd19iQzN4eVMySXNod2RjLUt4dHBHelo5X3VNenhJb2tLMnNqdDlpMVJHODZJc3FZQmRXSldad2NSb0dCdzVjb3o5SElFN1dTblZneHJ2d29JREFMT0JFWnhzOTVjZE04NzhrQkl0X1piWHNNQQ?oc=5
+- **Source:** Kenora Miner & News
+- **Published:** 2026-10-11T12:30:00+00:00
+
+## Iceland makes huge new change at 200 UK supermarkets - Daily Express
+
+- **URL:** https://news.google.com/rss/articles/CBMihgFBVV95cUxNX243SVVIX184WmFkdHRXeGdkSXhWMlJVbThpWWJoMjhFVGFDcnNEODI4SHJTTmdleXNaNWlJSWV6Vm5GVzNiQVo5cmxnQWpkeXo3dU8ta2tuNDVCWXJpaFBnRnF2VUpPQjhFRzJKQzVMTkRkTDQwVk1DbEduRHEzSExTc0RhQdIBiwFBVV95cUxQdElrRnNwVWJCNmFKODVMRkRlOHBZQWxZRXpkSEZCa2RzWjhpSUhDbVh4ZkxLM3lJM3BqbU1PSXhUaHZXWllyR1VaVDBPbU9ObXc3M244aGtxUnNBLVFWUlNnU3B0RWxBOTc3TmFQN0JXMFFqZWRQNzduQnhsOEdhUDIzaWpPR2J2amhr?oc=5
+- **Source:** Daily Express
+- **Published:** 2026-10-11T11:33:00+00:00
+
+## Author Ragnar Jónasson takes on new role - Iceland Monitor
+
+- **URL:** https://news.google.com/rss/articles/CBMiqgFBVV95cUxOck5XYkJZSVlSaG5jLThSQmI4bjVSbzkyVDAyd1NwcXBJZlQ5NFZ5aTdMZ09YWTE0dWFJM2N5Y2JrQVJ1dnREUVVrZnBFaENYbVNrYmZOSzhBTGtOZFdKUllud0VrX1JDTXhwM3RTZFpkSEpja01WR0RFLXhrSFBraWVSUWpfVTh1UUNOQXNLcHBNWXJpM292Y2pGeWtBbm1OM3AtTTQ2OFp1Zw?oc=5
+- **Source:** Iceland Monitor
+- **Published:** 2026-10-11T11:22:00+00:00
 
 ## State pensioners shopping at Iceland handed DWP boost for extra cash - Daily Express
 
@@ -225,81 +303,3 @@ _Last updated: 2026-10-11T10:38:42.153159+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMizwFBVV95cUxPZTdyUXBjRURONnpYS1EwR3VlVENkZkwxVlhFWEVWLW50N0QyS1NaRl9jcUlTdklPbHk2N1QtWnZkN1JOY1dYVWU3OEphdkNwWUpWd3B1VnBlcWhVT0oyUWxNN0g1UnZsZmhqdHFMczkyelV3UFJULUF0enRpTjBicnVoaWxkbVVxRmVpOXhUUGFMaE9SYlJmNW1aZlFLb3BrVWlHQlM1cHVTLUREazRkR2J2ZUhiSEJfQnpJRThvTnpybVRwYWhtZzQwYnBuOGs?oc=5
 - **Source:** IANS LIVE
 - **Published:** 2026-10-09T17:23:00+00:00
-
-## Glassriver Announces Premiere of Elma, the Icelandic Series Distributed by Mediawan - www.todotvnews.com
-
-- **URL:** https://news.google.com/rss/articles/CBMiswFBVV95cUxPSEVPSTRQNjY1UHZNNEZrcnNVaTF0bU5aTFVkUlBQbUhiN1JDc0xIVGV6M2Zsei1kZmJ1TGdGczZQZ1RocFd3YXp3M1FZalBXMTMxdHJmT3cyamVsOWd3NUxSajNrcFc4ZFpFVDdxbTRyMHRrc3lpUjhLaEcxdE4zV19PTEpSV2o3TVlzeFRyVW9IZWJ6QmdFTFlfQm9Vb1pwUWlqdEdIc0l0NmdNTzlhLWF2NA?oc=5
-- **Source:** www.todotvnews.com
-- **Published:** 2026-10-09T16:56:05+00:00
-
-## Croatia vs Iceland: Women's WC Qualification Europe stats & head-to-head - BBC
-
-- **URL:** https://news.google.com/rss/articles/CBMiY0FVX3lxTFAtTmFNU1FIRHhWY2lNa3FUVzQ0cW9IMzN0enItQlRXWkhMQ1c3QTZyUHZMLWhHZWE1dXE5TG9qR0xRQkozanZ3LXZxa3ZxWUFtNFJBMTdJdzAzTVo3VFZXRHNZQQ?oc=5
-- **Source:** BBC
-- **Published:** 2026-10-09T16:45:14+00:00
-
-## Croatia (W) v Iceland (W) Odds - FanDuel Sportsbook
-
-- **URL:** https://news.google.com/rss/articles/CBMiqgFBVV95cUxORGd0U0UzR01jVjIwaGVQOFBtWU4wcjl1em55NExoNDM3T1FaTmYwbDBQd1RjWkgzQWRwSmlJZVlJaDExZGN5Y09wYk1rQ1BMNDhfTUs1N3hOY0psSlB4UFBBR3cyb3NhWHpiUlZ5Qks2cTZEZ3B6RFdCQ2h2QkM4VmxHUnBkV1FJYUh2QkV6V1JtNnRDTXRBVFFySHlKdWc4SDFMdXFBRklXdw?oc=5
-- **Source:** FanDuel Sportsbook
-- **Published:** 2026-10-09T15:43:59+00:00
-
-## Arctic Circle Assembly 2026 - European External Action Service (EEAS)
-
-- **URL:** https://news.google.com/rss/articles/CBMigwFBVV95cUxQNURzZGEtZlZITW9ERkhZTlFEU2ZwWlE5LUEyY0MtRm54QlN6RjNOMFJUNk04VlFXNEt0N2xVUDRoOFVjbS13TVBsMlZPY3dVS1NWcDI0d2JMXzZMTHVqUGZsT2QtNlFLanp2dGxCU2xQa2lGUnpXNjNCcGNQZnV4RmRBRQ?oc=5
-- **Source:** European External Action Service (EEAS)
-- **Published:** 2026-10-09T15:39:39+00:00
-
-## Björk announces live album recorded with Iceland’s Hamrahlíð Choir - The Fader
-
-- **URL:** https://news.google.com/rss/articles/CBMiggFBVV95cUxQYXFXc0wxTEg5NjFfRHFia3BpZkY0bWFjbElaOVpLTU5tNUExbTN5XzVwd245NGpObEZDV002ODF1QWd4Vl9uX2ZZT2NVZFN3WkxtUzNoVVF1b1RiQkhTWmJzU21IQUh4aU5DNWNZSTVMZXhzeUdfX1hMdnNwUjFKMGlR?oc=5
-- **Source:** The Fader
-- **Published:** 2026-10-09T15:32:14+00:00
-
-## Anne Carson wins Nobel Prize in Literature - Iceland Monitor
-
-- **URL:** https://news.google.com/rss/articles/CBMirAFBVV95cUxPZW5nR1BPeWxVMGNaazNHNVF6TVhHa0FReDRXeWZIUEN3VFBxb3FEQ2VxOElmbll3ZmhZLW5uTGZWWnhFakZMWGgyeFFfMHdUR1JJajg4UnFGY2g4a1lyRk1Ra0lqekp0SlhnZ1dGVlFOUUN1cDlsUjFxWlpJZDVvVGFadkQ3bzBjTGVzOXg5N3FoQmQ5bm81Zmt3cVNkbmF3YzMtVFlaVHRlOXp0?oc=5
-- **Source:** Iceland Monitor
-- **Published:** 2026-10-09T15:21:00+00:00
-
-## Iceland: Kirti Vardhan Singh Visits Hellisheiði Geothermal Power Plant #Gallery - Social News XYZ
-
-- **URL:** https://news.google.com/rss/articles/CBMitwFBVV95cUxQVVdSOTh3TGdjVTRjaUF5bUdxN2htYzNpOV9OM1l0Rk1nb0FvcGxDSzBRQ3BYSjZKUWtGVnhTdlZmc0ZESFF2cE5qQUt3Y085b2hxVy00LXdadkhNdFJEdk1sTGZGWDgtM0ZfSmlsNjhkTktySDllZ2xRYmVPeFpWS1ZPSTFKTFBibTdkVGxKeW5JRVZMbTFLZ1E1TXJ6enRRTFlSbHBEY3VDU1FIRmJxYU5mTlhDZ1U?oc=5
-- **Source:** Social News XYZ
-- **Published:** 2026-10-09T14:11:33+00:00
-
-## Arctic security to the fore on Rubio’s Iceland visit - Arab News
-
-- **URL:** https://news.google.com/rss/articles/CBMilwFBVV95cUxQbDN4b2RxNU1HU1N3SXJaMnZ4QlBVbDRyaDdRazFOVFYwa0xDUnF4OXhJdTU3NFZ5cXRfekljMzVma0pvYllXSTNuX2Jfd3NXaDVReDBhUVdEcFRHdjdKcDd5YTkwdUZPemtVSWUwNFhWUjZWeVJnVUVRM24ydFdYV3U4SWNSTzI0Uk42cnNQQlRUV05pZTJF?oc=5
-- **Source:** Arab News
-- **Published:** 2026-10-09T13:42:27+00:00
-
-## ‘We have some trust to rebuild,’ Greenland’s foreign minister says after US deal - Arctic Today
-
-- **URL:** https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdUFFakNpM1BsRm9vdGNSRTlkc3lNTXg1eGVUVEJWMFd2UFg4V0dnNmxHNFUteUdlS2hhWUZUWkV6c3RTVGNvcUFuN1drNEd4SGJKV1ZyWUZhYUFXRmpMckpWWFFURVlDZEJhdHFfUXFjc3V4bEFGZ2NsUExxbkJ4NDlxZER0RFdXNW9jZGo5X1p6ZDRfeEIwbHFuUnB0YW14VXdNRUpGYTM?oc=5
-- **Source:** Arctic Today
-- **Published:** 2026-10-09T13:33:17+00:00
-
-## Iceland Airwaves Shares 2026 Lineup and Festival Schedule - Iceland Review
-
-- **URL:** https://news.google.com/rss/articles/CBMihgFBVV95cUxQQTdvYlBWM1RRdS1ObWhJWDZYekp3RkxlQS1UcU5LMkJ6Uno2OXM1YThMOXVIZ3g5OTdSYWxoVnBjSzFqQ0xlN1UyZjVtZDFEbUk0SHBpNFZiRmtOeWIzMmg4ajZDYTdqcEJWU2JFZUZWcWtEeVNkNjZiNVZ4OVI4SUVSa0E1Zw?oc=5
-- **Source:** Iceland Review
-- **Published:** 2026-10-09T13:30:09+00:00
-
-## PISA Results Show Gaps Between Icelandic Municipalities - Iceland Review
-
-- **URL:** https://news.google.com/rss/articles/CBMiggFBVV95cUxQWmVwSVgtR1ZRUVhPUGgycmxaUU4tT01fRlVLRFNUa25WNUdlbHR6UWJUdC1jZGN2V2ZrQmVqZVFTdjR3VFhRWnRjQktRQXlXTEVNdDJIZzVBMWVpSmlkS1pqUkVwWjAwMmdzX2x0MGUzc1FHUGZQUEkxVHd0cDBPWE1R?oc=5
-- **Source:** Iceland Review
-- **Published:** 2026-10-09T13:00:33+00:00
-
-## Croatia vs Iceland | Prediction Markets - Coinbase
-
-- **URL:** https://news.google.com/rss/articles/CBMiugFBVV95cUxQMkxET0VBbEh5c05hc2FTYzlTanl3eHRQUXZTb0l4MXRYMW00VHBnZnB4Qnh2WE9leGt0WFFOT09VRXRRRUg2RlRPTE9zVHN1d3VWRm9SOHJFbjU1dUY5a1Q2UElVb3k4aXlJSHlqLUlydGN4UXRkdlBrQlE3WndNb2xqOXRsYmd2bVFLdlQ1dWJ1Y2Y3SVF0azV5UW4tbXhRNV9scGJ3bnp3bUtTQmJCVzNMYngtRm5UNHc?oc=5
-- **Source:** Coinbase
-- **Published:** 2026-10-09T12:35:43+00:00
-
-## 360 Hotel Opens in South Iceland, Bringing Family Hospitality and Geothermal Wellness to the Countryside - Hospitality Net
-
-- **URL:** https://news.google.com/rss/articles/CBMi7AFBVV95cUxOR1ZxNFlOZHBPQV92WTd5YlpEbWFjZTFJM29veUpfRFkyUF82emVPVmN4dHZvQTNpMVZzbTViMEg4NWtLTWk3QVN1TmIzMjloYUFVa0ZhbS1IQWRZbnh5MEFqV0lsVXBnOUtqWWFmMk05Y1dXS3dBcEFNdGdXeVJpZmNZeEV3SFlzZVRyb3J6cy1FZ0J2bEJrVTlNYUNkS3ZqQ3JGNnpzcXZzcUYxNDlfcHEtOXFPdV9VcENXSHdtNk9zRFZYbzc5a3JHWklvV2RtWWhVM1pSV0xlTUlnR2Z4TVRHTDkybjl3cGZaVg?oc=5
-- **Source:** Hospitality Net
-- **Published:** 2026-10-09T12:17:00+00:00
