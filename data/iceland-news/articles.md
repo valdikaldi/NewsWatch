@@ -1,8 +1,32 @@
 # NewsWatch — Iceland News
 
-_Last updated: 2026-10-11T17:26:37.795851+00:00 · 50 articles_
+_Last updated: 2026-10-11T21:35:32.162263+00:00 · 50 articles_
 
 ---
+
+## Where was Masters Of The Universe (2026) filmed? - The Worldwide Guide To Movie Locations
+
+- **URL:** https://news.google.com/rss/articles/CBMieEFVX3lxTE83QjlSYS1OMGstY29oSmlHbnlQZmJMdDhNTjNlNUpzTFdYd0pSRmZYZ1BCd0RoTkpQaWRKSGViMnpVV0tEcEZaOWg0MDBRRzRkUzRLdlk0MmY3bEhhd0pOaTAzTmJoQ2kzQXcySHdUUGx0aWVaTzF6cQ?oc=5
+- **Source:** The Worldwide Guide To Movie Locations
+- **Published:** 2026-10-11T20:21:15+00:00
+
+## Inventory turnover of NEW ICELAND ARCTIC ACQUISITION CORP – NASDAQ:NIAAU - TradingView
+
+- **URL:** https://news.google.com/rss/articles/CBMinwFBVV95cUxNdDJxVUVzSDh0YUNpc0dIcEU1Z01iRnVsZ0xUX0x0LXdTNlhncUdGd3lPdzlPYWF4WXlQVFJHbWoxcExYbTR2aHlzWUNqNjlVd2R3dGpwQ2U0eGppMEdjbnBwTzRRYVZTMWppblBRWmhUdlJvNWxfX3BuR1FoMHpYRWQ1eWZzQTJSTGx2SExwcEk2OEpxdXZUM2JJVkV0c28?oc=5
+- **Source:** TradingView
+- **Published:** 2026-10-11T18:28:32+00:00
+
+## Gestur Arnar Gylfason - Transfermarkt
+
+- **URL:** https://news.google.com/rss/articles/CBMikwFBVV95cUxOVk0tZjZRcFhWVmZPVEtCWHlkd2thYjJSTC1JQ0wyQ0piZDZjbElQQ2dIR1BjZG8xWlJ0MWtDUDFucFlrdnROaF9BMmh1MnR0WEZyOHVDNHlWUmk1TDZ2Y3dGd3VOR3VELWR0UWpQT1VLanMyalJDTmdvQ1diMVVGdFMzLUZPODY1bEhLSTRwb2hGZk0?oc=5
+- **Source:** Transfermarkt
+- **Published:** 2026-10-11T17:51:24+00:00
+
+## Just wow 🤩 You didn't need to travel to Iceland to see skies like this! The UK was treated to a rare sighting of the aurora borealis this weekend 🌌 This timelapse shoes the sky over the Lake District from Scout Scar, Kendal 💜 Credit: Jonny Gios/@supergios on X - Facebook
+
+- **URL:** https://news.google.com/rss/articles/CBMi5gFBVV95cUxQM0dvbjFEeEtvVDhYQ3M2eE5HZENteFZ6UWs5UE4zeUZjRjRydjdYdDdtYWNXSEl3a1dCekVQamlaRXJLbkJhTUZIVzFucldvZnhaNkRQQ1NNWnFKb284VUhXeGJPNW5iVktwOXRrVFlwQ3BJdUdBcEZRSk00dUoybnBPMlpGN1pZcXJ2X085aWYwc196Q2lHUE9sVFlmd3BQZC1qcVlxeHUtWEdrZ1JUNDN3VWNiVk9ndlhOakUxMTZUZENwWWtLakV2QXVZN3g3ZUpINnlrUmJpUmN2a1RxVVZkRHRpdw?oc=5
+- **Source:** Facebook
+- **Published:** 2026-10-11T17:48:33+00:00
 
 ## 'Fraud': Rubio Puts Woke So-Called Human Rights Group on Blast for Stunning US-Israel Hypocrisy - The Western Journal
 
@@ -279,27 +303,3 @@ _Last updated: 2026-10-11T17:26:37.795851+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMiWEFVX3lxTE84QmpPd3FHUl9CUUJJc2xtM0U5REdlbm9qOWNndFFDdjB0M1ZocmctVWxaVVRzUDJuLThYUmt2T0dmMlBFYzZ4Uk14Z0xWaEE5R2JnRVZ6ZXc?oc=5
 - **Source:** The Reykjavík Grapevine
 - **Published:** 2026-10-10T00:42:55+00:00
-
-## Iceland U21 - Transfermarkt
-
-- **URL:** https://news.google.com/rss/articles/CBMiggFBVV95cUxNZ2Y3X3c4QVFTVGhCLVZFQXNLenVmWFZ4bGxLZ2lodzM1LWtRM01SNUxZUWY3Y3cwajBGX0sxRlUzN2VnY1F1RmpOOFIxai1DZWlTUFFncDdkLVc1LWo0WkwwVGJhS2ZCYVVrUUoyRVZBRUdFVHZfeDJfbURlRWxicmFR?oc=5
-- **Source:** Transfermarkt
-- **Published:** 2026-10-10T00:19:17+00:00
-
-## Atli Vidar Björnsson - Transfermarkt
-
-- **URL:** https://news.google.com/rss/articles/CBMi0wFBVV95cUxNaDU2REQxUndGeHQ1V3RKWjdZeTZaWkg3enFUUnphT1hTVWJ3NzF1OVF1S2h0aElSWEF3WVZYbTFjTURjVnFDQTJSVkZWVHdjcTVfWTNOTWFnZEh3N0VVeEpuZjFtZXNYS2RxMm1pZEhqejB6V0lpSkdjY3BTVVhhQTQxR01JRDA0SmpuTEVPa2lBamRDMnUzRExHUVkydGYtYlVOV0RjVEtZWjdBcFVzN2s2X3l0Znl4clN1N1BLcnBpblZwXy1tRDZCdUFRX0NmNnRr?oc=5
-- **Source:** Transfermarkt
-- **Published:** 2026-10-09T18:39:41+00:00
-
-## Why China's Most-Watched Seven-Year-Old Goes to the Neighbourhood Public School - Trending on Weibo
-
-- **URL:** https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMFpOQ3BWVUJ6cS1hRHdFTG9xQlM5VFhCcVNMdVV1aWdtVjFNbUZMS2hUSjF6M2s0Zk8zRXd1ZXBEZWFCSWtreFRQTDV4eE4zYjByQmxuMzZQSGhqNW1qWVVGenFCa01DV2JqWC1CQmJ5WWV2MkQxampqdm9ubDE5S2tmeVVzcGdv?oc=5
-- **Source:** Trending on Weibo
-- **Published:** 2026-10-09T17:28:02+00:00
-
-## India, Iceland discuss clean energy cooperation - IANS LIVE
-
-- **URL:** https://news.google.com/rss/articles/CBMizwFBVV95cUxPZTdyUXBjRURONnpYS1EwR3VlVENkZkwxVlhFWEVWLW50N0QyS1NaRl9jcUlTdklPbHk2N1QtWnZkN1JOY1dYVWU3OEphdkNwWUpWd3B1VnBlcWhVT0oyUWxNN0g1UnZsZmhqdHFMczkyelV3UFJULUF0enRpTjBicnVoaWxkbVVxRmVpOXhUUGFMaE9SYlJmNW1aZlFLb3BrVWlHQlM1cHVTLUREazRkR2J2ZUhiSEJfQnpJRThvTnpybVRwYWhtZzQwYnBuOGs?oc=5
-- **Source:** IANS LIVE
-- **Published:** 2026-10-09T17:23:00+00:00

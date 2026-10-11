@@ -1,8 +1,14 @@
 # NewsWatch — Apple News
 
-_Last updated: 2026-10-11T17:26:36.795970+00:00 · 50 articles_
+_Last updated: 2026-10-11T21:35:27.910558+00:00 · 50 articles_
 
 ---
+
+## Where Does Apple Fit as Services Grow Alongside the iPhone? - Kalkine Media
+
+- **URL:** https://news.google.com/rss/articles/CBMipwFBVV95cUxNdlJHSVZrN3psZ3NYeldoRF93b2NYUjhvYXVYdUpSdkZUZ0t4d2dJX3dLbGdmU25ENlVZdzRHRmpQd1VCOVYzX2NrZW5fQ2FrZjlnZlJ6MFloRXZuUFlXMTRBQjZjcGtxbjNfNVFPREs4S015TWlzcFVzM0UtekdPWldEazJDRG9iREpEa0U4YXh4N0llOURQZHY3SzkxTEN4QUNhZjc5Yw?oc=5
+- **Source:** Kalkine Media
+- **Published:** 2026-10-11T19:48:00+00:00
 
 ## Apple's New HomeView Smart Hub to Launch With A18 Chip and Four Color Options - BigGo Finance
 
@@ -297,9 +303,3 @@ _Last updated: 2026-10-11T17:26:36.795970+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMizAFBVV95cUxPb2RPVkJqSmhQVEZDM2VoTldsaEROTzlEZG1XMEpMMTdhQlZxRFVEOHNlNXhyWGJkYlNMak1hLXAxNGtjT0dWYlVjbk5BTkFObUNZSE81b3UybkxUX0NFR2tIU3hySGFOMURuZ0t2bjVscm9RMFJSQWVFbVRaLUk3Vi10Y3lfR01IRnhMYkROamJ0YUltdWhSMG5WVXZTQnRfcy15SkxvbmhqRGRSd0VsODVGalQ5T3Y2X1dhNG1MTnliS2Z3aVB1MXhHTkE?oc=5
 - **Source:** Benzinga
 - **Published:** 2026-10-09T21:03:11+00:00
-
-## Apple acqui-hires AI startup founded by former NotebookLM developers - 9to5Mac
-
-- **URL:** https://news.google.com/rss/articles/CBMiogFBVV95cUxPbUR3VGM4TXhza1RjTmEwN09SNUxSVWpHWFpMXy1zSWVJYVdpcjI5UFZfWm9XUl9xTDRrNWxTWE4wRmJJTGp2NXdNb3hQNGtHeHViLW1QMEtXVi1La0djdFF3X2NaSzdLN0FjNmNXdTJKWDBvN0xFMVhpb3JJcndJY0EzN0dHd0NWUXNvY2k1cmFKQWl5ZXNodlNJbkprVEliemc?oc=5
-- **Source:** 9to5Mac
-- **Published:** 2026-10-09T20:04:00+00:00

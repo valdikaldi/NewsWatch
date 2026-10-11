@@ -1,8 +1,32 @@
 # NewsWatch — fusion energy News
 
-_Last updated: 2026-10-11T17:26:38.182352+00:00 · 50 articles_
+_Last updated: 2026-10-11T21:35:34.018367+00:00 · 50 articles_
 
 ---
+
+## IPO rush: Jio Platforms among dozen cos set to tap primary market in Oct - MillenniumPost
+
+- **URL:** https://news.google.com/rss/articles/CBMivgFBVV95cUxNWElZQnlCQjdfQW9FektKZVctYW92OEY5ZjdDejE5NWpZMGJPY21KUHJ0UUZzZ0RVMkJMNVNobnpVUFNVdFhkR2syQXpYTEd2bGFuazFTZXpVcTlqLVZNOXhjd3oxTlFrQVBVdUxVRlNuZDJOQjY5NWlCbHd1SzJvSmhYZVUzN05iRnhWYkoyUTc3ODcycUIySzg0ZjZ0NzIxdWlaeGlIN0puMXBJWklQOUZIZG8wRmwzalVSNGFR0gG-AUFVX3lxTE1YSVlCeUJCN19Bb0V6S0plVy1hb3Y4RjlmN0N6MTk1alkwYk9jbUpQcnRRRnNnRFUyQkw1U2huelVQU1V0WGRHazJBelhMR3ZsYW5rMVNlelVxOWotVk05eGN3ejFOUWtBUFV1TFVGU25kMk5CNjk1aUJsd3VLMm9KaFhlVTM3TmJGeFZiSjJRNzc4NzJxQjJLODRmNnQ3MjF1aVp4aUg3Sm4xcElaSVA5RkhkbzBGbDNqVVI0YVE?oc=5
+- **Source:** MillenniumPost
+- **Published:** 2026-10-11T18:53:19+00:00
+
+## GREAT BRITISH NEWS: Top positive news stories from across the UK this week - Conservative Post
+
+- **URL:** https://news.google.com/rss/articles/CBMirgFBVV95cUxOT2ZySlhCZUoyc29TemExdm03OTNhZ3hlZkgxejFydVhfMm9qR3FRTkg2eDR5U1BSUENZMTVGMXREMGQzcDlCa1c4cUtGeGNETGJrcE5saWx4NzRsTHUxc2I0aW5Rc1ZrTE9Ka1ZrY21CaWhhNkJaalNXSEJHRWpGRmNaa0hIUkxJYmhuWk8xaERDclpBNnBXdk94eEM1NnFTMnRRV2k5eEI3TUxfSGc?oc=5
+- **Source:** Conservative Post
+- **Published:** 2026-10-11T18:09:46+00:00
+
+## Joerich – Friday Night - Six9ja
+
+- **URL:** https://news.google.com/rss/articles/CBMiYEFVX3lxTE1vTjNMeXVNS2M1U2FSdDBmcDg2LUNxZ09xNnVISTRZRENvRUFTaWJFZ1oxTG5RVnBPRDVtZDZfbnY2Mk9TVW1iSnRkNndsMjZXT2k4ZGZkWEFFT1h3QUJKWg?oc=5
+- **Source:** Six9ja
+- **Published:** 2026-10-11T17:53:32+00:00
+
+## Celebrating 50 Years of Friendship: Bahrain and Korea Mark Golden Jubi - News of Bahrain
+
+- **URL:** https://news.google.com/rss/articles/CBMid0FVX3lxTE1Ic3Jvc1E3U3hoU09ueDhKbFY0Sl85M2FBcmVadl9hR0ZBSWZkeXRobklUNTlFVXZlN2o1MFpBNnpwR3drMTRFczhOUmZCVFlNaTlsY2ZBRFN3aFA2QWxFMWZBenlUOF9obnBDZ2dCMnRjeVRIekVZ?oc=5
+- **Source:** News of Bahrain
+- **Published:** 2026-10-11T17:28:04+00:00
 
 ## Skread – Hello Ft Tiakola & Burna Boy - Six9ja
 
@@ -279,27 +303,3 @@ _Last updated: 2026-10-11T17:26:38.182352+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMilAFBVV95cUxQSU8yanlHWE9rcW8zVklrQ0tNMW9YT01WWjlEY0dDLUhSTm9ZSGpHWTF3RjhXRElwd2tocHdrUDlXMnNwSy1GVlhvYU1DMllLNkVVRkE5QUNVWXFGUmJjOERWM0xURS1FZkJ0ZjI0cVVfemJ1TnRMQktvNVNQa2w2TDdBZEpfNmcwdkdHaG13cVR3WFkt?oc=5
 - **Source:** Crunchbase News
 - **Published:** 2026-10-09T18:28:35+00:00
-
-## Fuji Electric (TSE:6504) Joins Fusion Push As Its Undervalued Narrative Faces A Fresh Test - Simply Wall Street
-
-- **URL:** https://news.google.com/rss/articles/CBMi3gFBVV95cUxPNDUwRWl5dGU0Zzh5U1Q2MmhLNTY5eVNpWjJaZnozSlM1cUh6Mk80S2tqdUlxNm5MRGVVa0FLcnc3c1o3b0xsYkhkRDNsY19UVjBXS0swd0dndTNkcHNNZklIYWZlZTJDand6cFlHa3VDWW1tMnZYdVhMTzNRNnBxLTV2Wm1zbk9ielFUZWR6emdOaUtKMUlsWURUXy1XMUhEbW5KSDE1MFhodUdhNktkc3lmVGhmaEZub1lWdk14YkJ4S3VTZGNVSE4yNkZLSkJ3eUxXVzdweTNBVWdBemfSAd4BQVVfeXFMTzQ1MEVpeXRlNGc4eVNUNjJoSzU2OXlTaVoyWmZ6M0pTNXFIejJPNEtranVJcTZuTERlVWtBS3J3N3NaN29MbGJIZEQzbGNfVFYwV0tLMHdHZ3UzZHBzTWZJSGFmZWUyQ2p3enBZR2t1Q1ltbTJ2WHVYTE8zUTZwcS01dlptc25PYnpRVGVkenpnTmlLSjFJbFlEVF8tVzFIRG1uSkgxNTBYaHVHYTZLZHN5ZlRoZmhGbm9ZVnZNeGJCeEt1U2RjVUhOMjZGS0pCd3lMV1c3cHkzQVVnQXpn?oc=5
-- **Source:** Simply Wall Street
-- **Published:** 2026-10-09T18:17:30+00:00
-
-## Dalton Nuclear Institute recognised as “world-leading” in Prime Minister's Innovation Nation speech - The University of Manchester
-
-- **URL:** https://news.google.com/rss/articles/CBMilgFBVV95cUxPcU1FeUFKTlU5bjZJb0JSNU5TSWpwV003d3prZWZpZXI1a295eDlZTEtmUVRxYnRHcmFYdVROUUJtVXZINWtpMkFzZHJtQjZHMXhNTEp2VUtIWGVveG83ZGppWW5rNTd6RE1TYl85SXBtcU5nZnc0X3RkVjYyeF9rNDJOcjhESjFGQVZrbTVfVGlHcEc5ZFE?oc=5
-- **Source:** The University of Manchester
-- **Published:** 2026-10-09T17:29:50+00:00
-
-## General Fusion reports electron temperatures exceeding 1 keV - American Nuclear Society -- ANS
-
-- **URL:** https://news.google.com/rss/articles/CBMioAFBVV95cUxPemJUUmotdk9jREI4VGFjNHdfQ0YzUVA5ZHZtSWhtTmxUbXVBeHZXeVhFWkk0eTQ2R2JkYXhpU3lNc2NWTjF6STY2dnItWGNXYmxJSUlFd09fSXdfX3FwYUFwc0tUU3RoNWM5VC0xMUVuN2hSdEZTSko0RDFvbkhmUUVLN0g3RWs4WWZER1poR3N3M0w0MFFzczkwNWZIRktm?oc=5
-- **Source:** American Nuclear Society -- ANS
-- **Published:** 2026-10-09T17:07:58+00:00
-
-## Inside the AVS 72 Technical Program - AZoM
-
-- **URL:** https://news.google.com/rss/articles/CBMiXkFVX3lxTE1wUWdGZUl3Vkc4d2RTZ3J3elFRNnJKTUd4X3VObXB2cDliQmpvRG9xNnhqemI4RGNwTjJnaVVuRmF3cnpzazVFUUlmODBic3JaOVdXcHpsYll6c0Z3dnc?oc=5
-- **Source:** AZoM
-- **Published:** 2026-10-09T16:29:00+00:00
