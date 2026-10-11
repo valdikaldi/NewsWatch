@@ -1,8 +1,50 @@
 # NewsWatch — Microsoft News
 
-_Last updated: 2026-10-10T21:15:59.953635+00:00 · 50 articles_
+_Last updated: 2026-10-11T00:42:29.729842+00:00 · 50 articles_
 
 ---
+
+## Microsoft stock: Copilot’s local AI push faces a memory hurdle - Techi
+
+- **URL:** https://news.google.com/rss/articles/CBMickFVX3lxTFBkLVpBUWViMGxfMWF2aUx1cDI2Vnpad3pySGpFajljMkFqektJb1hPNEF3c2Q4aUhTa3JmSjZLWUdCZlpnMmdzQUVVajJmWl9GaG9IcWVibDlBamJoVWl5NHdZaUs4ZGt6cGg1UFd3OWNXZw?oc=5
+- **Source:** Techi
+- **Published:** 2026-10-11T00:09:00+00:00
+
+## Microsoft CEO Nadella Says AI Models Should Be Assumed Compromised From The Start, Wants Humans Able To Pause Them Mid-Task - Wccftech
+
+- **URL:** https://news.google.com/rss/articles/CBMi3AFBVV95cUxQTFlRZWhxVHBJQnVvU2U0eHlqZ0JpbHFtZmtWS1VxTDZpMDQ3b0dCX2dIUTRDTjZUdWlqVmJrRUI4a0xKODlBUG1RQlpybDNFc0t2VjZkOTlmQWluMVhWdGZSeHgzWjA0Ni1ZRDZnbjhaSWdqQVUyTjl1R1JwX2wwWlZIa25fLWpLakV3UXphYVBBaGhNVVE3YlB2QlFYZGVfLThkMkxGRVNaTnlKX0tqcWN0WjVTM292alg1ZHV5WWFSMTNjdlVjdUVsSndKUDZKZ01VSk05TFVEejZ10gHiAUFVX3lxTE5rbXh0Z3RXMGRHb2pCWEdaUDktZUtoemxpWm5Cc0M4RklnN1h1Y0JwQ0Y0SkI1ZnV0QXpTcGhsM2t5T3AyWjNsN1hNODBSa2dncEJIeFliQ01wNFBWTV9TY3NhdW1kdHhYeVU3V1BINjl3bGdITW9oV1FNcVRyR3R2UGplamlNd2MyWm9CUDI1MlAyaWh0TjRYOVB5QVVIWGxhZE9HVjZYdWxWa1loSGhxdVcwNDA0ak9rLU9zOVpFQk1wZ0N2WXlBWEVkOUtINkdvdDFvZ1NTX0dLWXBuUjFkRmc?oc=5
+- **Source:** Wccftech
+- **Published:** 2026-10-10T22:51:59+00:00
+
+## Microsoft CEO Nadella calls for an 'emergency b... - Pluang
+
+- **URL:** https://news.google.com/rss/articles/CBMihwFBVV95cUxOeWNtczQ0NExKbzFEZjlteW1GeFUtNjk4bUltaV84SDljQlVuRmhtRWRfRmlPMlhEbHNjdWFGQ2ZGejMycjY5UzBnajd2MHFCVkhINnJ6Vzd1VUxmendhWWNVdEtOR3NiR2dRb2dKWUZjbnNHNWNxM05QdUZ6MjJZQlRiWVJDTk0?oc=5
+- **Source:** Pluang
+- **Published:** 2026-10-10T22:03:44+00:00
+
+## Microsoft is giving Windows 11’s legacy UI dark mode instead of killing it, now in Hyper-V - Windows Latest
+
+- **URL:** https://news.google.com/rss/articles/CBMiygFBVV95cUxQcGFaVFVSdTVSRTJmVGd0a2N3V1NpR1lhYWlzVmRGbExSbjNDUjFmallESlBtM2FnUm5Ya2lGXzBqTllZeXJuaE1FSHVTVlAxM0hiOG5iLWl0UnM5WHIzd2lDaUNsVjNFLTAyQ2p4TTlkUnVCSHgySzdXd1N1d1cwbGV3WWJCeGVINnhCbk5ES0FyaHppU1hTRW5RQWZqUmMtZDFnV3lpVW1XWW1nalEwdFZaT1luRHpRWmtiZFBqZXlaODFvZzlFWTZR?oc=5
+- **Source:** Windows Latest
+- **Published:** 2026-10-10T22:03:09+00:00
+
+## Instead of paying $99.99 per year for Microsoft 365, you can get Microsoft Office for life for $89.97 - Mashable
+
+- **URL:** https://news.google.com/rss/articles/CBMigAFBVV95cUxQQ0FSdzN3bUdoRUswdkxMeVYtLXN4dkZSQ21RZDZaSXZhWDNDUUdrQ3A4MjlISS0xcmx4MTJrS3RtVXRCaUtkRjl6MDk2RGdWNU5meXEyRU5PcTJwUW5MS0kwYVBuLWNNMXB4V2RLM3RfelhfVElCYXdMRlF4LUxSMA?oc=5
+- **Source:** Mashable
+- **Published:** 2026-10-10T22:02:35+00:00
+
+## Microsoft’s Satya Nadella says AI models need an ‘emergency brake’ - TechCrunch
+
+- **URL:** https://news.google.com/rss/articles/CBMinwFBVV95cUxOdkNKbTdSU3VkMlhaaTY4ZmdjQ3dGWlFQbkpXTnNjMkZCVDkyenpBaUVBRk5vQzdXQWFIbk1Waks1YjNjWnVBV056T04tcGczUW1PUHhnSU5oQ2JUYmtTckdqemVTTEFOWjBHT01DaVJESXVoMDdZdURfT2pjNmU0ZVlvWGV2TFpGMnNoeTJxUkIxSENjbWlyaTAzVnFhcDQ?oc=5
+- **Source:** TechCrunch
+- **Published:** 2026-10-10T21:47:51+00:00
+
+## Nadella Calls for AI 'Emergency Brake' Under Human Control - The Tech Buzz
+
+- **URL:** https://news.google.com/rss/articles/CBMikwFBVV95cUxNYzNCLW1KNkdjTTQ5YzZORWk5UDlOQ1NFaUlJS3FibjY1dWk3ZWR0TjB6cmJSbTJTckJVVWdMU1pDc0QxU25RQjRYZEY3T2xlSU9JUjRuellFb2NYdHVMZEJROFBLRHU4YS1xbXRLOVhPcXVLQk5ENUVZYV84VzhzV0lXVVhGdmo2SXFXLU5xSWUyRDQ?oc=5
+- **Source:** The Tech Buzz
+- **Published:** 2026-10-10T21:36:00+00:00
 
 ## Microsoft CEO Nadella calls for adding an emergency brake to AI — CNBC - UA.NEWS
 
@@ -261,45 +303,3 @@ _Last updated: 2026-10-10T21:15:59.953635+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMidkFVX3lxTE54V2tUYTJteG14ckNnWm9seHJlcTZINGxScldWdmRXSWhaLVUxRTc1dmh5T0plSzl3YVl4djd6QTFBbHpQSTh5VkdWbEQ2N2Y1ZG8tMVlnY0xEcXhJOVA4bXVuYkk4NHZHYWdsRVFxci1XcVY5MHc?oc=5
 - **Source:** BigGo Finance
 - **Published:** 2026-10-10T12:05:00+00:00
-
-## The Microsoft 365 storage downgrade shows the perils of cloud services - Trusted Reviews
-
-- **URL:** https://news.google.com/rss/articles/CBMirgFBVV95cUxQTHY5emhMa0lZUHdHdXJpd3BMbEVoRjR2RGV0OWtOemoteUs1ckV2ZkVtWjlTMkFQUzlySll0X0JvSlE5dUlhOEV0RjNBY2sxZ2ZQRjlSNm1Hanh6UDBmYjdaVjhCOVp3V09rXzVTMVNBREtQMGZkR0RGMWRaUXpZZlhUTUxtZng4dGdVSzhlOXJzeVV2WFBNR2hqa085VWJaTUpINGhSZGxPTWlLUFE?oc=5
-- **Source:** Trusted Reviews
-- **Published:** 2026-10-10T11:00:40+00:00
-
-## Microsoft Will Pay Up to $1,000 for Your Old MacBook Pro - Gagadget.com
-
-- **URL:** https://news.google.com/rss/articles/CBMijwFBVV95cUxNclA2WDhGWkxFeTVfaGRrSDBrSUpCTy1VdW9GOFlfN3VUcV85bXVIb1FMb0dBSWZRemRIYzJRRm4xQTBGckVLRnN5cWczMkFiU0pXdWJMN0EzbGdQck9BTlgwVUJ5UTE4N2JPYWsxSExXNENoZS1VeVVHeG5NNUdWdTVUbTVhQnhIVHBncWwwd9IBlAFBVV95cUxQdk5LbW1Td1NpMTB4Q0dHY0N1Rk9pNlJMNTBEeUJVOUZ4RzBYRUhBQW9KTlBaVXgtOHlBNUgwQ0VNQ0NNbjg0VEZ4UC1OTnhBelBmMzNFZHJiR0xpZHV6eWs2eU4teEFtWDZvUTc2WC1ocy1ObDhyUTlYZ0oyWml1UVRRQXphS2RYYTk1RWk4b0dtTThn?oc=5
-- **Source:** Gagadget.com
-- **Published:** 2026-10-10T10:40:30+00:00
-
-## Intune's Windows 11 26H2 security baseline won't update existing profiles on its own - MarketScale
-
-- **URL:** https://news.google.com/rss/articles/CBMi3gFBVV95cUxPY1Frd2ZOOFRKWjZUSDAzMmI4dmNHRU5JN0dCeFo4a3hBeEtnbllJenFSalJmaDlJY0R0bDFnb2ZGYlVtTmVOTnMxSkdsRml0enVDYkk2QTItbUxyM0pibDZJcWo1aVlOSHpfLVFYTGJmd0hvNEM5T0ZIUW82NWNoZTVyaHRwQzBhcnZBZU4taG5jamhUcWRFSDNmc0N0b2FVSFVob0stNC0teVBGZ1RLOG94SEgtRHBacnh6R2YzX0lqc3FqUENuV1VDUEVQWmdKcDZHNEZ4VXAyYlUteEE?oc=5
-- **Source:** MarketScale
-- **Published:** 2026-10-10T10:36:00+00:00
-
-## Microsoft’s Overhauled XBOX PC App Is Reportedly Much Faster, With a Redesigned Interface and Improved Navigation - Wccftech
-
-- **URL:** https://news.google.com/rss/articles/CBMizgFBVV95cUxPX3NXSXJoVExlTzNBR3VBaUY1NF9EcEltanZ1MWE1U2NVNktFWjkxaERrREV6N0FjaDIyRUdjTjZrT29sT25QMHNzVDN2MkdKZUZ1MGR4QURLZWhnQzNLYTNVRVd0SWVlOF9JMFRESHV5SkhrYWhWNl9DYmdpamNCOWdoTVdoeE90VkZ3dVlUVHhmU2lyOW9nUk52MnJlN1liMlpyMWFSYmlYek1XdnNhekVJMlpsa1d0Ti11eFc4OEEzSVNKU0t3XzJFbzRXZ9IB0wFBVV95cUxPTVlydWMwOXljTHZReGw0T3NINHJreHdtT0pvSUw3MTJhTHFmTTFqcVk4WUhaUTkzMjlSQXdBVzZHaHk2SmpuRmZWQnAwM3pxRFdrYi1SMHJmZmlQNzUyNS1fRl9IdFlMcExadW1RUTdRek16Wm9vQlV0bEYtY2w4eVJPRDNvZUttS2ExZXVMWE16aVRJMnY3ZTZOLUk4aGVwWUdxZnhwaW1TQkhrdG9Tc1oxOWdBeWhQZnVLS0tKd1pqWG5sNjJZQ1Bva0hoRUVxbHlF?oc=5
-- **Source:** Wccftech
-- **Published:** 2026-10-10T10:32:18+00:00
-
-## Microsoft launches Microsoft-Decision-1, a fast decision-scoring model built on Alibaba's Qwen - Dealroom
-
-- **URL:** https://news.google.com/rss/articles/CBMixgFBVV95cUxNVWhJTGQtSnVnWVp5OTRRYVRHMWRYbko1WHBvTDN2MlFEUVc1TTdJMHBXSGpDb3ZtV3JkaGQwUDQ3ZUFBd3pkb1pxcV9zQ01QREl6MFN1UnpGQmZ0elItNmQ4NXpRUnc3d2hRNWh5a3l5bkk2eHBwQng1M0pXLWR3RkFBQUltaS1tS1VDeEU3VEFib3FudVZoZkM1aGhGTWk3VEJRa1dFWnpxbGdIMlBCWHYxblNnX1E4R0t2U25aU3BRTWlqMFE?oc=5
-- **Source:** Dealroom
-- **Published:** 2026-10-10T10:12:43+00:00
-
-## video translator - ai dubbing - dub video - Microsoft
-
-- **URL:** https://news.google.com/rss/articles/CBMijAFBVV95cUxNV1ViYm1uSjBKOUFDUHhDWW0yVU1oZWxCUWVBdUdQaEVWeUdhakFieE9ZSmdUcmF6V3c2bHFfY05kY2ltSGJXUVFBMTgwZEkwNTdFVkNZdjQ5MUh0dHFYNE8wVUx4SzV5WlE0YTNCd0p6a0FCNzhGek1jXzZnNTZfcFJldE00RnBPNk90YQ?oc=5
-- **Source:** Microsoft
-- **Published:** 2026-10-10T09:27:49+00:00
-
-## Azure IAM Expands Identity Integration Services Ahead of FedRAMP Deadline - markets.businessinsider.com
-
-- **URL:** https://news.google.com/rss/articles/CBMizAFBVV95cUxPeEpoaFVtb0tWR1lBTWN0bkZuSXVSUDMyajZmc0xVWEsyaE1xcDEydkEzbkZGdXh2Q2xrUlZ6Y1VvSXFFT1Q3bVBsamkwUnVyZ2hZS1UtNDN0RXdYajl5NHJyNC1yZHY3NFUtZXppUjlpYXRZUkpBQXdNQkdMWm5yVG11YWdiU3ZSNVp4UzllYkpFNkFYUFRzX09oN0hXTmxocEczeVRWblhqNFFkR1h2UVh5NkxYeERHa1NMQjhBY0FLWnZfVVF6bXNSbTc?oc=5
-- **Source:** markets.businessinsider.com
-- **Published:** 2026-10-10T09:18:05+00:00

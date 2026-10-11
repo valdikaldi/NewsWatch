@@ -1,8 +1,20 @@
 # NewsWatch — Iceland News
 
-_Last updated: 2026-10-10T21:16:01.346168+00:00 · 50 articles_
+_Last updated: 2026-10-11T00:42:30.162892+00:00 · 50 articles_
 
 ---
+
+## Parking works at Jökulsárlón finish on 8 October - ad-hoc-news.de
+
+- **URL:** https://news.google.com/rss/articles/CBMiqAFBVV95cUxNR1oxVXRCajJpTGVlVkIzQi1la1ZQZVdkVDFkZmhOM3NRcVhCSzk0cHpBaFY2M25WYmlBN0RUZzJTb0ptS2lkak5hMXk0Rzd3dlgyNmtuNmNoTGU4U3VGWFVJaG10MXFIeEoybkw4RzJ1QlA1RGI3Um5iZjgxYURBYlZyUGNJampNdzZyNXRfdVk1bFZ4c1hPOXNqWERPbG5TTUYzN2RneTA?oc=5
+- **Source:** ad-hoc-news.de
+- **Published:** 2026-10-10T23:45:15+00:00
+
+## Spanish women return to action with 2-0 friendly win over USA - France 24
+
+- **URL:** https://news.google.com/rss/articles/CBMirAFBVV95cUxQY0d0bFA2Nnl6am95WUtqN0N3N01EbVFhNHhrSndOeWd6NFJrNlFYa0hQdU5Zc3lYYmVhOW9oSmJmemRWMjdnMl9NT0pKWl8zbkFseHB0aHc1dEUzeW1mNVNZVUpzcTBEOVFQMjlpNTZCV1NqdGg2T1lFekkzX0tsTDI0ZF9aZF95cFJnSFhWWjVhT21RMmYyT2piVTVrb0FKaTV5MDN1VGp2emJO?oc=5
+- **Source:** France 24
+- **Published:** 2026-10-10T21:45:41+00:00
 
 ## MoS Kirti Vardhan Singh plants sacred sapling under ‘Ek Ped Maa Ke Naam’ initiative in Iceland - Lokmat Times
 
@@ -291,15 +303,3 @@ _Last updated: 2026-10-10T21:16:01.346168+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5SbkJQamRQZ3JDQ2haTkNqZmw2ZEh0UXozTG9FWGFIYmNvNGNmR3NURnVQTE5VTjgyUHRXYzBvV3VnVnNYMk9SMERfaGlyeWd2aHBWaDh0Yk40d3JJVFJEOW5reGpYVG8?oc=5
 - **Source:** IMDb
 - **Published:** 2026-10-09T09:09:54+00:00
-
-## Icelandic Drama ‘Elma’ Set For Siminn Bow As Glassriver Debuts ‘NCU’ At MIPCOM - Deadline
-
-- **URL:** https://news.google.com/rss/articles/CBMigwFBVV95cUxOY282dF84WUQxcHMwRUNqaGdHUUR3R2duT29TbWIyZ2FNeTZ2MC0tajNYTEV6elZ6ZkhvU1Z0OWlCNDZ2alN2b1JOMm0yeXcxZG5aWktSSk01YWVNb2l2am9mTEpzWTVOcUE2VVVXQmszUXY0eTlZeHVqY1JlUnoyM3VhMA?oc=5
-- **Source:** Deadline
-- **Published:** 2026-10-09T08:32:00+00:00
-
-## Fire and frost in Iceland - Condé Nast Traveller India
-
-- **URL:** https://news.google.com/rss/articles/CBMia0FVX3lxTE1jQ21Zdkw0X0xsbjloNGstTVhreThlc05Yb0dGYml6T21WVUdfVVhwejVpQWpqMnFRcDJmOWpWM1BuSFM3SDc1YkhXaktRRDBnS2x4VVc5SWRwSmlSZ0NidVlEb1ZUbjVnSWZJ?oc=5
-- **Source:** Condé Nast Traveller India
-- **Published:** 2026-10-09T08:30:00+00:00

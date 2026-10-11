@@ -1,8 +1,14 @@
 # NewsWatch — fusion energy News
 
-_Last updated: 2026-10-10T21:16:02.609406+00:00 · 50 articles_
+_Last updated: 2026-10-11T00:42:30.496530+00:00 · 50 articles_
 
 ---
+
+## [Science Scope] Why Is the World Investing Tens of Trillions of Won in Power Plants That Do Not Exist? - 아시아경제
+
+- **URL:** https://news.google.com/rss/articles/CBMiZEFVX3lxTE8wN0tMNG93QWxlWkUwcXR3R2dEc0IxamdVUmpTN3lvWUc2ZXZDR0F0Q20xVDVwajZEd0Q2M01PNUR0SjVKLXExVzBGc3FBaVN2OWJuTUM5bTZSOU01N0MybEotMl8?oc=5
+- **Source:** 아시아경제
+- **Published:** 2026-10-10T23:00:00+00:00
 
 ## The Bull Case For GLOBALFOUNDRIES (GFS) Could Change Following Its FDX Fusion Physical AI Bet - Learn Why - Yahoo Finance Singapore
 
@@ -297,9 +303,3 @@ _Last updated: 2026-10-10T21:16:02.609406+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMi2wFBVV95cUxPdjZHeDhVMHVYZ0tlU1djVzNGU3ZiX1YwYWJiS2g4enhWVnBXY0dPeU1la21nVUlhV3ZBRDY0aUNub3dOcFNNNTlyYzZ3R3pBM1lfRk5BbURCUDN6MTRLTUtWRWg0bmhpSUJnTTEzLVZDWlFmMUx6anRBcFY3T1JVQ1Nmd1NOTUI4eThsTEMzRXdobmpObk52bEtnZGxMckhmRTJPNnpESlpGcWlPMDEyNl9pV2U2YXpobmFHOTZ4VGhsa2tyWkpqZlB5b3BvWXcza3gycnJPZG9iQVE?oc=5
 - **Source:** RS Web Solutions
 - **Published:** 2026-10-09T06:00:00+00:00
-
-## Reducing tritium permeation in nuclear fusion applications - AIP.ORG
-
-- **URL:** https://news.google.com/rss/articles/CBMikgFBVV95cUxPX1U3NTJ4QnZEODB0OGxSVjE4SWlZT3NZazdkdlVTTUg1UHJxeS1lM1lSUS16am9VNnFxNm1henFTRUNHVTJMdU9RRTB0UV9yU0V1LUlJXzZIdDFBUWNGczQwMjNtVktoWG8ydW1QQjhCTno5MVV3NFBQUmpiTVVBWldEakFCZjJGZk14aF90aVFIQQ?oc=5
-- **Source:** AIP.ORG
-- **Published:** 2026-10-09T04:11:02+00:00
