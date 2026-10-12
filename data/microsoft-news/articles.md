@@ -1,305 +1,305 @@
 # NewsWatch — Microsoft News
 
-_Last updated: 2026-10-12T11:42:45.419278+00:00 · 50 articles_
+_Last updated: 2026-10-12T20:59:51.225615+00:00 · 50 articles_
 
 ---
 
-## Microsoft president Brad Smith calls for global AI safety rules - qz.com
+## Vance Claims Microsoft Replaced 6,000 Laid-Off Americans With Foreign Workers - bloomingbit
 
-- **URL:** https://news.google.com/rss/articles/CBMickFVX3lxTFBqM3RUemhqNE1meTVrWEZlQ0dBbmRpQkZXZUl5ajFaQmIzSkZHVG1xbEp4dFEtOE9KTzBQa2dSNnhTbnJYbllzNmxjUUpwX2Z0WGhtU3ZoZVdROGxtc3VrU2l4UkpQLTNtN1RvSUdkRXBwdw?oc=5
-- **Source:** qz.com
-- **Published:** 2026-10-12T11:41:35+00:00
+- **URL:** https://news.google.com/rss/articles/CBMiVEFVX3lxTFBfa1NGVnd3SjNQV0NpLTVwQzFwY3dEQkx3Yy1YY1NuMy00c2N0VkY2Mk13RXhzSHZIbmFQRlM4eTJKQ25ONkZ4TXlQN29sZWNic3ZnNw?oc=5
+- **Source:** bloomingbit
+- **Published:** 2026-10-12T20:39:15+00:00
 
-## Microsoft CEO Satya Nadella called for an 'emergency brake' on advanced AI models - Quartz
+## Exclusive: Microsoft’s departing science president plans to join Mercedes F1 team as AI advisor - Fortune
 
-- **URL:** https://news.google.com/rss/articles/CBMifkFVX3lxTE41aVpqUmx5eF9UUzZNcWg4eUFpM05qMDBjTXlCbTBkaEZKYUJmZmkzSkZ3cG5qS3VvS2NUVnI3Qjg3OXNudGRBaUxMMDlZbnJQaGkxeDdUVThjQnBORHByUlp2U0hwX3RIa3pQa2IzU2g0ckFGaU84Q3VacVlLUQ?oc=5
-- **Source:** Quartz
-- **Published:** 2026-10-12T11:33:20+00:00
+- **URL:** https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNnpOOXV3YTJXN0R6ZWl3WjFaeVh3ekR5cUk4dWNjX2ZSZXlQc2EzTXRFRWxGa0ZEY1VPQ0hNVGJlWi1fbU5ZMnNTU280MFdIVmJCRkk5eDQzSHpBV1ZrX0hpN1hiWVJiaGNPVGZrbERydWpLRzVPYUZLdDBQZWFoTDJ2WklOdWctR1RsTW13ZVpoNTNWclY2MWZ1b0I0NXFTVko1QXpHNURJUzEya1A2bkkwelEweUxpOHI1S3ZXc01Rdw?oc=5
+- **Source:** Fortune
+- **Published:** 2026-10-12T20:38:00+00:00
 
-## Bing & Copilot Experimenting With Microsoft-Decision-1 - Search Engine Roundtable
+## Adobe software dupe maker takes on Microsoft Office, releasing free versions of Word, Powerpoint, and Excel - Mashable
 
-- **URL:** https://news.google.com/rss/articles/CBMic0FVX3lxTE1lVjBrbjJEZFZlLUJnZTNpTWNRcXdxbkszXzlKOExHeE1fVmY3SW1ya2NXbzhlS2ZGZlFSZU1ZSU9hMEd5UUctcDZJU1MxNDFIUzE3OF9VRDlSTGttVG5OSm1PdUFlZlpuMTNnQ2M3OVJ3bXM?oc=5
-- **Source:** Search Engine Roundtable
-- **Published:** 2026-10-12T11:31:00+00:00
-
-## Norway fines Microsoft's Xandr NOK 92m over Grindr users' sensitive data - PPC Land
-
-- **URL:** https://news.google.com/rss/articles/CBMikgFBVV95cUxNNzlIMW05QUFqc2pyYXhadFFJMm82WlAwbVB2VXI1WWJDbm5VT09lX3VTanJRdnhtNEloQm9PX1hEOW9aamE0OFhVSV9DNXBpZUhyMFdNREFId25kdXljU2FWOGkzRWVHQnZsQUJtV0ZBaTBfTTIwLW1XclR2QUc4aHRwdVVITXFpVDFmYzZSbVlMZw?oc=5
-- **Source:** PPC Land
-- **Published:** 2026-10-12T11:28:37+00:00
-
-## “Difficult to walk away but...”: Microsoft VP retires after 23 years to spend more time with ageing paren - The Times of India
-
-- **URL:** https://news.google.com/rss/articles/CBMimgJBVV95cUxPY0hXZ0tRdUJTdGxzd2VLNDRuMkJzSTctZXZTdVpKQ0ZPci1pcmp5ZlVTdmU3TloxdS1KQUI1aWsyeUxZTUxPcFJLTjZTandQSU5NUzNzSTZrd3JpYzVLck9QZVJNRXItcHV6Rm9WenNJcGxkczdwa2N1ZDN5cGpEeVhnQXZna1hoNzAxWFlXdVFld3F1X3dyLUZJbW1ETWFwU3pTSjhDc3dLTVZ5dlZyS2NqemxkUjMycENWNzdySWI5ekZDUjBlV1NTRmZZYVdyLWpEV3BCeDRNdXk4VkdyVVJUaVI4bzQ1VnBteWo1MDU1UUsyZWVPdnJhSzFTZlU0SE5hOVJ5S29kc0NkVkdoVFg5Z3JBVHlDanfSAZ8CQVVfeXFMUDZoMWtQbnk2Z1N6bUpPMEtjSVNNWjM0Qlc3dTNRaXpyWDJUMDRsVFBFMldjRkhmbjhiM2pHVGVsdFF4by00YXp6aExtVGk3VGZ6dk41YnZxcTVJZ210QlhoUjNrekl5NDgxTHc1NXdObHNMT3JLLUhIVlk4elY1X183SGpqeG9sRnd4VGxPQWZkcDJ2amJGVEVhQmxqSmtFMkdWZ0xqN1NGdW5sLVpoYkZybl9zelhXc3BKSUVKa2hocUlZNnZBVjJaWGFPOGlsQi1JMkJ1MTEyZFJfQWcybTVHM0ZHVGd0SXU0Zk94b1haWnhZNGwtX1N2a0gtdVRUWjZidGhJakFZMnNxdXBsY2ZOT0daNTE1UE9rRDNvS1E?oc=5
-- **Source:** The Times of India
-- **Published:** 2026-10-12T11:19:00+00:00
-
-## Microsoft bosses call for ‘emergency brake’ to stop ‘compromised’ AI models - The Independent
-
-- **URL:** https://news.google.com/rss/articles/CBMilwFBVV95cUxPWFNlMTNRVGRZVG5ZRzhzWnlBOF9jS1dPQ2xWUFNVNnlueXZmam1uUDVFT2hleDZJQzV0d2tweC1zOVFHaW5zb1JDdXByTFpQZm9MTHQ0b2RzelE0UWVJMWhuQldVQzdncVBhMWtrdDRUbjZENlpBcXZxN1hIWncyV3IyOWZoMHh2OTRNQ2Q5eGNEcWY0Vlpr?oc=5
-- **Source:** The Independent
-- **Published:** 2026-10-12T11:18:00+00:00
-
-## Microsoft CEO Satya Nadella warns against blindly trusting AI, calls for ‘emergency brake’ | Trending - Hindustan Times
-
-- **URL:** https://news.google.com/rss/articles/CBMi4gFBVV95cUxNR1I4cDlFOTc4Qk5abkpSMzNIVE9YVFA0RzlFZjBRYUJaWmthYllwTXEtVDJjX1BxNk14b2FIZGNkYmR5WV9GeG43WG9abXl3TkZjVHFwb3RGRG5JRUstUFhneHE5Z3NVQmZybWFLQ3MwT1RYRjdFZ0dFQmM4dnlDVy1TODhOengwNW9PRm1RcVprczJvc1hlVHhrdjNwcGtQNzVoWU5pRldaQ2FXcmtqTXZOc28tZ3pmbVJSeDFub1dlcWIwRUdrbTRDandEN0JyeDFoM01qYVhaMjBYbU5mSHVB0gHnAUFVX3lxTE92aU1WZURUTlFYcl9kVnVwVGZ6UjBmdUpfeUNDQ3M0RnRsRkMtLVZpM0Fkb29wOWVnT2l1ZUtVaVNObUpYUXNlLXc5THhxamZnenYwUEtYcjcwQ29qY3NqS2xxSlR6cHVfa3F5dV9nTjBTenBkdGRxMG51aG1oLU53VlpRSzFRWVVPYUZJM2RpanlTMGQ5UHJUQU91UEJueV9kSmRmWXVYVFZxSHFOQzUtYVZkT0UtRkgzQWZZZ054dW1kR1ZTWUpwemVUUHFHUFFNaXBySVBZdDF4bXVuSlU4VmZVdnB4aw?oc=5
-- **Source:** Hindustan Times
-- **Published:** 2026-10-12T11:15:58+00:00
-
-## Microsoft CEO Satya Nadella calls for new AI controls - CNBC
-
-- **URL:** https://news.google.com/rss/articles/CBMinAFBVV95cUxOS1IyYUpSQzZLbmhwbVFWMlpvQXFwbU96TnAzX01KRnEtSFgyZGsxbVlWM2w0TnRvNXJCWU5HMml3aFJqc3VYX3M2VTBqRHc5c2FDbkdpU0ZZNjJMVnIwZ2ZEMVhOMkxKd3Z5TUl6allMRzhFbm1LQWNFUGdoRnBYVExDTmdNM0ZLV0xEMmJ0WEhwTEU4WHhQZ0xiQjA?oc=5
-- **Source:** CNBC
-- **Published:** 2026-10-12T11:10:10+00:00
-
-## Norway imposes record $9.6M fine on Microsoft-owned Xandr over sharing of personal data - Anadolu Ajansı
-
-- **URL:** https://news.google.com/rss/articles/CBMiwwFBVV95cUxQeUgwX29jOWFYV0h6T2xtOXpJb0ZHWDd0UEtxQU1WdU85eHFzOFRSbjRaUWZvbXppalJ5VW5HdGtfQ3NPMFU2anY1T3RZTEtPeVBvY05OWnI4c0ZudUJ6STlLVnpxSlhYbnN0MnlvVER1Y1QyS3psUzlkZVVtQzd6RzBjZWc2V0VXbjFIWDl2NnFGOU9ZQTZsQ1VWbjN6aDFuV3NZMG1rMWdjeG5DaVJUeG9oZDZhbDZBdEpZM2VOQWxrZnM?oc=5
-- **Source:** Anadolu Ajansı
-- **Published:** 2026-10-12T10:59:04+00:00
-
-## Norway fines Microsoft's Xandr $9.6 million over Grindr data sharing - Reuters
-
-- **URL:** https://news.google.com/rss/articles/CBMiugFBVV95cUxORHdmTEZnTEN2Uk0xcXN1LWM1STRqOFM4VkRXcEFJZ0ttX2swdVd5Vkhyb2xvam1zQVNiZGlLVlVHeVJDNlNzSVpfUllhQzJtNkVEMDZrelhxRmZySnhOVlBWblR3VGVIX3QwZ0FLSV9CRnBORExKWWdjSGljLXZnY1RTMXNIVWdLbm44RVVSci0zWm1ETnJpUWxiaEJPRWluTXZaT1FBTEYxcVlic1VFTnJkaENVMzB4Y1E?oc=5
-- **Source:** Reuters
-- **Published:** 2026-10-12T10:56:57+00:00
-
-## Norway fines Microsoft's Xandr $9.6 million over Grindr data sharing - Devdiscourse
-
-- **URL:** https://news.google.com/rss/articles/CBMixwFBVV95cUxPYkc3b1JuYW02TXc4eE5Zako0U0MtTjZQTF8yVDdyUFFDZ2taRjJmNDk4M0lDUkZCaWZyMmF1LV9wcElqVnRockluOTBPa29sZlQ2X2lJbVNxMTFBMlFKMjFyQWEyamZlRkF1M0J3UDlyS21UeHRIMHczVzVXRi1kN2tDOXNfc3pmeVlvMXpUWUJMcjh2WEx5QXZwQV9oZVl3VERjS2Raa05nWjBzRlhBNE5RdmFKb0xKUjBaeHVILURUY2JJaWRZ0gHHAUFVX3lxTE9iRzdvUm5hbTZNdzh4TllqSjRTQy1ONlBMXzJUN3JQUUNna1pGMmY0OTgzSUNSRkJpZnIyYXUtX3BwSWpWdGhySW45ME9rb2xmVDZfaUltU3ExMUEyUUoyMXJBYTJqZmVGQXUzQndQOXJLbVR4dEgwdzNXNVdGLWQ3a0M5c19zemZ5WW8xelRZQkxyOHZYTHlBdnBBX2hlWXdURGNLZFprTmdaMHNGWEE0TlF2YUpvTEpSMFp4dUgtRFRjYklpZFk?oc=5
-- **Source:** Devdiscourse
-- **Published:** 2026-10-12T10:49:35+00:00
-
-## Network switches get simple with Meta, Microsoft-backed open standard - SDxCentral
-
-- **URL:** https://news.google.com/rss/articles/CBMiowFBVV95cUxPNTdkc0lCYlA2MThyLXJXTGhlX0pKVnl2REwwSVlTSWU4R1c1MU5IeVlCLVdIMzV4bkdVaDlsNDJRczNJZGkwbUstQUVpMFo3U1NOXzRocmJyazQ5MXZHM21MLVVjMEpCOHV6TnhIbjNfdWgwUFBoT2JON3VoRTBDOTBHSzQ5R2VrNXZKaDVYQVpBcjFjQlJHRTlNc0U0dzNqQTRv?oc=5
-- **Source:** SDxCentral
-- **Published:** 2026-10-12T10:44:47+00:00
-
-## Microsoft President Says AI Faces Fewer Safety Rules Than Milk, Washing Machines - marketscreener.com
-
-- **URL:** https://news.google.com/rss/articles/CBMizAFBVV95cUxQNmNwamdYbWNFZGItNHd0SFZIN0xoQ0U5NEJmM3hTdjlOazRxbmVNNlI0WDZoMktUdGJnMC1MTERZNEdQN05ITzV2d2hpMm16X1pqVG1QaDdYeWppWDRYalEyWWtaYTNZWlczdXhMRlJITGpXd1ZtRGEwUGRrbkNFQVo1UENwb2kwQ04zd0dtUUJtWHZZWXhMZ0QwWDZ3ODRmQ0VhY0FURC1rU3hyNHlzbS1Eem5tTEhCV1RNZUROOUFGTFZsb1AyQ0tra0w?oc=5
-- **Source:** marketscreener.com
-- **Published:** 2026-10-12T10:43:12+00:00
-
-## Microsoft President Says AI Needs More Rules Than a Carton of Milk - The Mac Observer
-
-- **URL:** https://news.google.com/rss/articles/CBMiogFBVV95cUxOYi1zVmdaOHhZdjdvLUlGR1J5bFNLeWRMdTVuNkh2YUtyNFlJSk5kVUNPeEpyZ1ZqNjk0U2RKeURiYmV6UGZSSFY0SG91dU1XYUJSYjNhYXdtNE4ycDE3NW01c0V2OGJJcEhsWEhpcS1kWVVoT3pDWEdkVU10dE1pYWNKUV83U0tWNXFLY3REdUkwUlVpVG9wVnoxdlpNMEtSS0E?oc=5
-- **Source:** The Mac Observer
-- **Published:** 2026-10-12T10:37:44+00:00
-
-## "Right now, your washing machine is subject to more safety rules than AI": Microsoft's Brad Smith wants more AI kill switches - IT Pro
-
-- **URL:** https://news.google.com/rss/articles/CBMihAJBVV95cUxNRnVGVVFYbXZmc0JWMDhBMVBQN1RZX25RMkJ0eDNTQVdGazJ5Tzl6R0xEZUMzSndRZ2VyYWl3eE1sdm1jUnRiZVBJMkJxcGZBV09BRHZFWmEzZGRjWVQ4OGJGeEdmUWJ5WTd1N0FuZUcxT0VnRVpoaUtMR0VLdTM1V1FkbV9UMUs3eUJORWxudVMwNG16T3JiQXg3S05zdWhuOU5iaV83UzA1aEtCY2t2S0l4NjdQb2I3MzFMOUt1SG1yYmdPUWxPZ0xLNmY4a3hEaXp1TTJaRURjUTdlMlN0LVFBYkxZQVJjWVNrcGNXQnEyTmRvLUsxMGlOTUZ0SGhyZ0VFWg?oc=5
-- **Source:** IT Pro
-- **Published:** 2026-10-12T10:35:56+00:00
-
-## Help! Microsoft locked my account and won’t let me back in! - Elliott Report
-
-- **URL:** https://news.google.com/rss/articles/CBMilAFBVV95cUxOeTlpa3U0eko1RGVBUmQ2VmNMUGJEQUo5S0dxWXpYWFRKZEprZ29XeUs3ei1MWk1KVTdLNXkzMkdWS213a25fekJoX2ZPRHA4V1RybFExWUM1eUN0MDBXcHNzRDNhN191OWFMWnYwMEw2ZmpvUTRXcElaQ0txUEhEalJ4UVA1QlBodUJhVzlkSHZvZzJp?oc=5
-- **Source:** Elliott Report
-- **Published:** 2026-10-12T10:35:55+00:00
-
-## Barclays Maintains Microsoft(MSFT.US) With Buy Rating, Raises Target Price to $600 - 富途牛牛
-
-- **URL:** https://news.google.com/rss/articles/CBMitAFBVV95cUxORkpYVENKLVR1UEZib25KMVdSTHZIYm90RFRMTXVlMWtBc2ZNU3NFblVUanFrdkQtYTd2WEFRWWxDMlJCT2hrcG4zZDBOTE1vcVkyci1QMDBqU3ota3RnYl9KMU5HNFFOenZrcUFpVGRTd2xhdW9yUFJaWGRlUnYwWWpZTUM4cWo0ZF9LXzI3NE4xTVdxZHVzZmZONWdBbGd3cXNpdEE3VHFqZDBvVmwtMnh4OHI?oc=5
-- **Source:** 富途牛牛
-- **Published:** 2026-10-12T10:34:21+00:00
-
-## 25-Year-Old Microsoft Engineer Quits Rs 1.9 Crore Job To Chase AI Startup Dream: "Living Off My Savings" - NDTV
-
-- **URL:** https://news.google.com/rss/articles/CBMi1gFBVV95cUxPcWJ3enBjLVo1V3cxYUppWVp6ckNYVnVnaU54d3FGR0RYSHJqM0s1R09oZEVYZDhDNHozSWpHbHNaVFFReUZVdjBkWV9BeXkzeFcyRzBZcHhjeHVaU18xX3laM19xTlYwVVFHcWQ3dnkwcnZheXBtV1RYczZRVnNrQUtpYkwyT21XVVJBRUk5YnliUnZnbmJtaVM2RVRzSTQ2b2N0LW5xd0hmdHhzd2JkajlrNm1KMTJXcWFCb2Exb0ZfdFJpaTR4T1A0R19jQU5iSWdGN3VR0gHeAUFVX3lxTE5BelJmSkNNZUZva1Rkel85RjNGUmdXWG95WkFfU0lOR0g0T2hJb3lBQTl2NW8yRHliM1lVX2FxdHRwSW1GMTdEZ2xLWm9rSTh4YlJ6VWl3dV80REJUWjZHMmtMRjNhTEpiM2docmRBZUtUMHNWUDZGUFk3UVZEY3NFc0RBMW1GWkw3Qmgyc2hsNXAwZVBPcXZzMlJfVUdEd25iaWt6Wjd0eFMzRUFLa0dHMmJQX1V3Z2ZFcUxETmJMOTJJMmVnMU8zcllEd3I1ODlhZzlqbm9BeEhHV2hqQQ?oc=5
-- **Source:** NDTV
-- **Published:** 2026-10-12T10:29:03+00:00
-
-## Apple MacBook Pro 16 vs Microsoft Surface Laptop Ultra: Poll shows clear winner - Notebookcheck
-
-- **URL:** https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNXp0NGRuclFYTmJUNVNValBkZU1VRGIwN2tfWjlUbFRvZEtmRDhBY1pBRXdhaFNtU1BabHQ3NzJtTzFCNklnTjcwZHRZalNwVWx2aVBUNHNSMVV3QnYxUVBsVkNwLWE3dHg3cWs0cmMtbnFSakNEd1JFNGRFdExGTmZUQUxIYl9DaW43Z2w1d1pGV19Mc3JNam91VnZIOW4yZUdBSGxpM0h0dm9FOWlGTzhiQVhuc0xNRUhhYkdZVmQ?oc=5
-- **Source:** Notebookcheck
-- **Published:** 2026-10-12T10:25:00+00:00
-
-## All AI is ‘compromised’ and has fewer rules than milk, Microsoft bosses say - Yahoo Finance UK
-
-- **URL:** https://news.google.com/rss/articles/CBMihwFBVV95cUxNdVZjMTM4VENKX2duZDMtOU90NlF6cXNUc1poX2FrTnNMZGd1bl9ha051LV9HSjV1ZTBjdWQ4QmdXaXFYa1MyTEJCdWZYUkdDQW9OVlJmNlhVdVJjN1BZWWlldzBnZzBHZy1XNWtvcU80VVotZk5YN2doRDU4YkxIWm1GMGpfTnc?oc=5
-- **Source:** Yahoo Finance UK
-- **Published:** 2026-10-12T10:17:47+00:00
-
-## Evoila Africa appoints ex-Microsoft cloud specialist Chun to lead private cloud expansion - Telecompaper
-
-- **URL:** https://news.google.com/rss/articles/CBMizAFBVV95cUxNbEowUTUtUEs0Y1FOVGhLb1FwYVFvZjJlaEVURElSTmhiOHVUY2pVaXQ3RnNOWWlycWFsaTlUYS1GdkJMRGZtWjJrOFZ3al9pMW1MMG9fQVBjdHJaT0hVS2QzOUpodmlsNV9ZQkRVZERUcDUzVmU5NC1YazZYN1FvX2RCazUxUm5ZV3VtaFhOZ3drYWxNVnBSaVAtYVJkVG5zRHExRnVrVkJFMjhyUjVyVWx1MzdheGtxd1RrZFk1TDVuVWV2cDVvVUVjMmc?oc=5
-- **Source:** Telecompaper
-- **Published:** 2026-10-12T10:15:52+00:00
-
-## Microsoft’s Brad Smith calls for AI rules, noting milk faces more regulation than tech - Seeking Alpha
-
-- **URL:** https://news.google.com/rss/articles/CBMivwFBVV95cUxNdjdpMk0wV1NzYmtrdDgzdWt2Sk9JRmJhSXlkNU5hc293Q0VRbHA3WDJpUjlrclJGQTdYNUF3d1NEWDJkemhHS0pFYTdWQ3NTMV8xZkZVXzVMSTBZVkdzVExfNTY5VUgyaUFlbmd3WWZuRHE2bEhMMmRtSmxqYUhWUkpYQkNJOWNoQm05aVB6TUhuMU82bS1DWi13dDVLY1I2ZkNWQUU1MVpReHpvWE9jLWdCV0xVQmxDNGItcTgwRQ?oc=5
-- **Source:** Seeking Alpha
-- **Published:** 2026-10-12T10:06:59+00:00
-
-## Microsoft, SAP & IDC: Why Is Singapore Ahead on AI? - AI Magazine
-
-- **URL:** https://news.google.com/rss/articles/CBMif0FVX3lxTE5NNlBDeTN5WEc5d1V5TUxzSXZTZU9FMmFrdy0ycWQzZjh4UUR1Ymd1MldJeEhwMmkzTmlHWFhZOXkxc3ItWGRqRU5YdkdNaF9heC1ndFl6U3E4WmwybE41VXByTlBfR01hYXZnV3FwV0QyQWRmTzhXbXlBem9KZEE?oc=5
-- **Source:** AI Magazine
-- **Published:** 2026-10-12T10:05:12+00:00
-
-## Microsoft Faces $9.6 Million Fine Over Data Sharing Violations - GuruFocus
-
-- **URL:** https://news.google.com/rss/articles/CBMioAFBVV95cUxONVZnTWhFbWF3eHZZWTFDREczb2ZJLVk2UjFVRG5mMEY1a3plVlZydHJWQ0FUTEdBTmxYN1FpblVDQnR3Ump5Z3dmMmtrM3hLalhPNlByMXNHc3pCQmJubWgtam9tWDJYRXp1OHVfUVhMRVRuNXh1TFVON0w3Ql9CZ2QtZTM2Z0xaRVZIVE95WkF5QkxQaGJ6SHFDaGFQOVlW?oc=5
-- **Source:** GuruFocus
-- **Published:** 2026-10-12T10:03:48+00:00
-
-## Protiviti Achieves 2026-2027 Microsoft AI Bus - Moomoo
-
-- **URL:** https://news.google.com/rss/articles/CBMiugFBVV95cUxQS2xJeWVTc1hob1Z2dDdYTkxFRkhsOE81WDZDSEJBcFFtWFNXZDVFc2VNUWtWbXRpQ00zTUQ5WXJCajhYYjU0aXhfRk5NUVdldnBpekpnV3V0SE9hbTNwWHBreHdrLUtPcWR6Ml9FelZZMnFoYUw2T0U5TnhtMXk4c2VFT1FZbTZtVlI2UXdCVkNHX0x1S3hNekNia1hYdVpSZ3BYZ0VrWWZPZWVWcFJfQmRqQVN4Mnk0VlE?oc=5
-- **Source:** Moomoo
-- **Published:** 2026-10-12T09:59:02+00:00
-
-## Protiviti Achieves 2026-2027 Microsoft AI Business Solutions Inner Circle Award - Yahoo! Finance Canada
-
-- **URL:** https://news.google.com/rss/articles/CBMikAFBVV95cUxPWS1iVWhnTnhsSUV6b3J1cHUxblBmTnhoQ2x5cDdOaWVXcXNhbmQ3VFZ5Vzk3Q3FJNWtuMVdTeW9uM2ZuU281bHBlOURXSzljM2FPV05Sc0RVdE9xd1Jxc096QjVvM3dMOUI0TXJOVDhydGgxTTFTZnBZZE5YWl91Smw4QjVNUk95anZqRnVaQmg?oc=5
-- **Source:** Yahoo! Finance Canada
-- **Published:** 2026-10-12T09:55:00+00:00
-
-## Microsoft's Brad Smith Calls for Global AI Safety Rules, Says Milk Faces More Oversight - BigGo Finance
-
-- **URL:** https://news.google.com/rss/articles/CBMidkFVX3lxTE5oTGpmUFF4ZmlRNWUwRUstWU9UM0U3aXpTOWEyZGZaeXRkT0xUX3BXQlhhSGFDQ2hES2pRNmF2dzdSYzRPd1NRMlFJOE1wazlpUGl5T3R1SDNQUk5oQkcyUnRKMVFOSmhXTnQ0WWRjVlA4YXlUd2c?oc=5
-- **Source:** BigGo Finance
-- **Published:** 2026-10-12T09:55:00+00:00
-
-## Melius upgrades Microsoft stock to Buy at USD 665 target - ad-hoc-news.de
-
-- **URL:** https://news.google.com/rss/articles/CBMiuwFBVV95cUxPbnVkdzN3T1dEZXNfR3M2NnR6cFJlYnN0RVJZeGlpQkl1WjlfMkxlNmhPazBoZ0R6SmJja1h3bHNyYmZMNU15NU9sOF9LZHFYWlNaMnR1OUwzWkRWY1JuN2ZCYTFmN0lHYWFvYTRMa3hNY1VFQ0p5eGQyanFwNGJTWXNidWRyWUxCSnk5Zm9EdlA4TXZDMnZqNnFvYmlFU3JOUXg4a3dJZTE0OEFXT3NBX3FIQXJrV2NKZEVV?oc=5
-- **Source:** ad-hoc-news.de
-- **Published:** 2026-10-12T09:51:05+00:00
-
-## FILE PHOTO: Microsoft President Brad Smith addresses a keynote in Brussels - The Daily News | Texas' Oldest Newspaper
-
-- **URL:** https://news.google.com/rss/articles/CBMi_AFBVV95cUxQRGo2OE9kUEFHRFMzdUpub09nVWxWNldtUktObFlBbk1WSnd2ZW5vX1cwcUoxVXMtOVVibVJ5b0E0aTBVWWVVUVc2WEVDa2pHb2tXRlpqRnVHeXZjS014cDNNdmF0MW9BcWtTams5U2c0LUlKOFNLWVREVUZaVWdxRG5JSjdZNTF2bnF2S3l6UWpUQWtUb3phczBob2xLZDdwNG5qandRcHVaNlJqd3Q3dVRDUjNzQmJFeTR2aGt0bEVXQXd1NXozTGxqMFVsWWFwVkxSWEpYSTA2SklVSDhOS3hrenN1LXM2M3RucjhsQjBnMUtIQWIxWlgzOU8?oc=5
-- **Source:** The Daily News | Texas' Oldest Newspaper
-- **Published:** 2026-10-12T09:47:29+00:00
-
-## Microsoft CEO Satya Nadella Calls for an AI ‘Emergency Brake’ - PCMag Australia
-
-- **URL:** https://news.google.com/rss/articles/CBMilAFBVV95cUxPT2xFVWF6d3BPalVmVHo1MnZMZVpNdFByaDJVZUFaTGkyeThQN3Y0NzgtRm1BeEpRcVpEWWZiMVk1RTF3ZVZ0NjNQQXhqZlpJVWtOLXNvWUlNYkVKLTFrOTRuMDFqOGhXV1NNaXFzMWJlbFFLMUFrQjNxeGFnTFFPSGs2THptOS1lakxoQWR6amp5ZnA2?oc=5
-- **Source:** PCMag Australia
-- **Published:** 2026-10-12T09:41:19+00:00
-
-## Microsoft president says milk faces more regulation than AI - Idaho Statesman
-
-- **URL:** https://news.google.com/rss/articles/CBMidEFVX3lxTE1EVHJvWWZiLTV3VkZZWTMtWUFtdUxPS25KSnlxNVVEUHE3SjFSZ0p4T1RmUk5md2ZxTFg1SXFNZmI2MmRPWGpXcnRDWmFtMGhfYW1MQVFldnkyV0FRR1R2RlJEbUYtX1FoVFpxTE4zcnNXR005?oc=5
-- **Source:** Idaho Statesman
-- **Published:** 2026-10-12T09:41:06+00:00
-
-## Washing machines more regulated than AI, says Microsoft boss - The Telegraph
-
-- **URL:** https://news.google.com/rss/articles/CBMirAFBVV95cUxOX000TFRNTDFZZFNtblBuMDNfN0cxcHVIeXpLM3RyOThCa3V3WXY2ZWhhY2FxMjhldFBRdVRaLVRfZ0xHU01sWjRlbkh3Mk9GRzNfVnhSZUdLd19RakVtVWpZVTAzMGJRU1UySThfRFJXR01OTXozSUk2NDhoUTNwMG13NkR2MnRTaElGLWtfcjBZc204UkFwVEhLMUY2Q3J2RVREd0dKNnR0dlhC?oc=5
-- **Source:** The Telegraph
-- **Published:** 2026-10-12T09:39:00+00:00
-
-## Analyst recommendations: GoDaddy, HubSpot, Microsoft, Palantir, T-Mobile… - marketscreener.com
-
-- **URL:** https://news.google.com/rss/articles/CBMivwFBVV95cUxNOGp4UHoyRWVOZ2dfamZCd2ZyMjFlcFlnbVUzXzhzalVraG1LQjBTNkZGMWZ6TkZrVXRNQWhFWEw1YTVQRUl6UG5PUElqcnctN0w3OEx4a2RDX3pxbnBYX1h0R0VXRGE1S2kyVC1DbDBjWGFzcnU5VEJnNUVOamdzZzVLYWN3OEZKNlVwc1JPMnFWS1JCYzN4cmV4VWhkTEt6al95SVQwcFNqSnc1TldSMFFxTmpwWkFLbkhwQmZwcw?oc=5
-- **Source:** marketscreener.com
-- **Published:** 2026-10-12T09:38:22+00:00
-
-## Microsoft's President Says AI Is Less Regulated Than A Carton Of Milk - Engadget
-
-- **URL:** https://news.google.com/rss/articles/CBMimAFBVV95cUxQYV9oUWg0TldKM1JHZm04YVZQM1JKSkpQR1U4MDZ0TVoxa0pZWDBvWFJSa2MwTUZUS1lVTS12UDNQZTMwdnI3M0xZRHNyYzlBQndHT0d0cWhiU1JXNEh4MHZwX3BpUmNnU2docjNLZV9BNW0tZ1hzblRFelFIcjdWQ3pBZDVQdWMxNTUzXzJtRkc1aEV1VDVYMQ?oc=5
-- **Source:** Engadget
-- **Published:** 2026-10-12T09:28:37+00:00
-
-## Open Source AI Dev is Going After Microsoft Office, Too - Thurrott.com
-
-- **URL:** https://news.google.com/rss/articles/CBMimAFBVV95cUxNSlF5YnJzRnZ4bzNqY1hEQTVjOFlEX3Z4OU9PeUNEVnVoaWQ5VTh6U0dPRGdiMDJuLTNiVVltM05iNTB3LWJhbjNxSXZXZ1psYUh4djFtRkJjOW9UbFQzeTN4LUhHQzVzU1JtQnJLS1FMNVJkS3JLOXg3T0pEWXhvN0p2Uy1ZUVdyUDBUTmQ2bVAtZGd4T2hFOA?oc=5
-- **Source:** Thurrott.com
-- **Published:** 2026-10-12T09:24:13+00:00
-
-## Microsoft president says milk faces more regulation than AI - TradingView
-
-- **URL:** https://news.google.com/rss/articles/CBMiyAFBVV95cUxNbzgwUGJoc01nX2ZJcldNQ1FMVGM4NHpIbXhwd3RVUy1DUzdBbklnSW1Rbk15V2JXN3Y4RlJYTHB3Vk5aZlRsSk1SLW1zZ1FPNnZnOVpXMGhxdHh2dG1rNkFZT0N0X3Fxb3dZVVphTHV1Qk1wbm4wVTlxY1FRMzdZMEp4R2NBY2VNTkFEWnl3Y0NZaERkdGZEYXN4RllGaFowLVRXM3hwRDJ5NFREc3dBNHJ3TGMyX2Y2Qm1tTWJCdWYtMGR0SkRPeg?oc=5
-- **Source:** TradingView
-- **Published:** 2026-10-12T09:20:38+00:00
-
-## Barclays Adjusts Price Target on Microsoft to $600 From $512 - Moomoo
-
-- **URL:** https://news.google.com/rss/articles/CBMipAFBVV95cUxOSE5ZZy1oYVU2UWx6aEN6eXdBMmQ3bDF0a1gycV93OXNBUWo5ZUs2UFFMS2I2bVd6YmxwSk0wZXpEU2tzeU1fakpkeE9MT1NSamFRQmFoYWpkdm9mUGdpV0J5WDNlUU5EWHk3ZXB2elctUVVJb0VsNUd3Y1U1Sl8wNzk4eVUyMU1Ia3FXMVZuYmgxakNIWGJZRUZPMUxYaG5QZDZBYg?oc=5
-- **Source:** Moomoo
-- **Published:** 2026-10-12T09:16:03+00:00
-
-## Barclays Adjusts Price Target on Microsoft to $600 From $512 - marketscreener.com
-
-- **URL:** https://news.google.com/rss/articles/CBMisAFBVV95cUxPRDdaRkg2ZWpiTW95YzlmZjN1SnFUWEhZMFdOTF94eUVUVUw3cFZPZWQwVEhxbmZ4VEhBMGhNdFJzby12S0FCUG02YWhZX3hBN3NzMWQ3V1lYR2k4dUdrbUM0eGo3bU8za21CcHlYOXBsQmNETm9yYTlCZFZlRkUxNzl4UmQ0djFXMFZCeTNZbzZMMmdBb0Vxd3hOWTllZ1pSNnRvTFhsTlUtazZHVW9ncw?oc=5
-- **Source:** marketscreener.com
-- **Published:** 2026-10-12T09:15:36+00:00
-
-## ArtCraft Adds Free Open-Source Alternatives to Microsoft Office - Times Of AI
-
-- **URL:** https://news.google.com/rss/articles/CBMiigFBVV95cUxQbHNMcjJ2by14LUk1RlREUzFYdGlaV1NKdnRZd1BqVG13ckRGbkRMZkRETy1VRXR1UUItMk5KT2lfdzRHSElmSTBQZHdLTTktQnkzbzVLSFBDWkdUNFdWSGFrMWF2ZGZOanBnSHFRYkY5bHlUZUlsQUZrQUlvM2VsSUJtbTBNcElNekE?oc=5
-- **Source:** Times Of AI
-- **Published:** 2026-10-12T09:11:32+00:00
-
-## Microsoft-Decision-1 runs on Alibaba’s Qwen and costs $0.042 a million - The Next Web
-
-- **URL:** https://news.google.com/rss/articles/CBMid0FVX3lxTE5ELTNqd3JiMVpPRHN3Y0ZQYVFMUUtFREVMRjlkZVVqT01DVzVZZmg1Zjh0SjAtZFVyeXVpNlhXNHpaUE04RzUzTEE1cVVIX1FCWnFrX0EwbHg5aVBjY29kSmhaSndUWEYzVHZXdzRDOVdxMU9qZEhF?oc=5
-- **Source:** The Next Web
-- **Published:** 2026-10-12T09:01:53+00:00
-
-## Microsoft and Chevron Sign 20-Year Power Deal For Texas Data Center - EnergyNow.com
-
-- **URL:** https://news.google.com/rss/articles/CBMinwFBVV95cUxQNmtOMnRJVnZpV0VpVE1FdDZhSGJtLWtoY0Q0ODhXaVpfdzBmQU16X3A3MUw5TEo2T0VoRTBwZXlvX19kLXcyMFVXUE9yNGpxekRWcG4wOFQzYVJiMHJVWTEtY0JiOVhyeXlhaS1EX1ZaRDhPN1Q4S2tCOTlNT216eVl5WnhBeFpNa2RDOVBhWk1CdElYMWZ6eHZqSFBjN1k?oc=5
-- **Source:** EnergyNow.com
-- **Published:** 2026-10-12T08:49:42+00:00
-
-## Microsoft sets up Xbox IP licensing division - Telecompaper
-
-- **URL:** https://news.google.com/rss/articles/CBMikAFBVV95cUxOYW93eU5JT2I4N2xfY0ttdXBoOEF2c0hPVWo3R09zMjQ3cXk0TzRWSE1Fcl9rcE1Ia2tHbTVlcEIzNW1mLUdNX3JkVW5Xa0s2SEdYYl9qVV9PWkkxSFVPeUxOd2xwN1dQdWN5NjNnRkpZWVJqYzlyaEN3b2tVWkdOamx3WG51akp4djhiR2lWZG4?oc=5
-- **Source:** Telecompaper
-- **Published:** 2026-10-12T08:49:10+00:00
-
-## Microsoft President Warns AI Is Less Regulated Than Milk, Washing Machines as He Pushes Governments Toward Tougher Safety Rules - TradingView
-
-- **URL:** https://news.google.com/rss/articles/CBMikwJBVV95cUxPRlpuamRxZ2RueHpqa2ZpcmtELVFNSDhLTHlYU21ObG8tcVd0amxrZGpPU19vT2hfVFRMN0h4OXlFWVFEdU44cGJXNy1ZazJ1UXhCZTFnZTdsaU5SZWNSZGZHQlBfaFBpNE45dTRCajVXcE5JYi1UbTU1UjBYb0JVMlZka09pRU14dWZFNGpRMm1OVExic1d2UWZqZGlIdmlGVWphTWNjdVZtZFdIUTJuTXo0TVNRVTN0V01NNkN0eFZKMXBpMDFHNDJzTk1QcEY1SnRjRW5jTXB1Sjk5Q01CR0MzTVlxMElwbHprZmVWRkswRHlVd1lLS3dWcWNWSTZiMEp1UGtvdXhrbDc1Z3hOQ1NaSQ?oc=5
-- **Source:** TradingView
-- **Published:** 2026-10-12T08:48:19+00:00
-
-## Microsoft Power BI Phishing Campaign Deploys Rogue ScreenConnect RMMs for Persistent Access - CyberSecurityNews
-
-- **URL:** https://news.google.com/rss/articles/CBMiYEFVX3lxTFBnRXBiR0hCN0dWb0FBUlRaRkg3N0JCQVp3bF9SdlpLSWE4eENFMkg4b1JZVWhDSDdlejVGbGRQd00wZGk4Mm1rNTJybmwza084aE91RFpwWmVaVkgyeHBxT9IBZkFVX3lxTE9JVkJ6b18zLXF0U0tQeEdIMDJHQUNrU1B6NE16TEZ1clZDTVRxdmY1Z2NRQlFjUmNHa0tBWDBucjZjUzJlY0JUTW05ZFRDVkdfRHc5enRLZjZEMy1aY1NBYVNFclI2UQ?oc=5
-- **Source:** CyberSecurityNews
-- **Published:** 2026-10-12T08:46:46+00:00
-
-## Microsoft's Surface Laptop Ultra is an AI supercomputer dressed as a laptop - Mashable
-
-- **URL:** https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1aWnhreUhIY0NHMjVRZlVRN2tjUnZnYl9OWEh4TFNnR0hMY3htR2JaSzI2eEYzek1mS1ZXNnFJbXFjYjVjcmFBTjlVNFNKTVVUenJxZ0ZadFFXTmNWemt5MmJQZ2pQRlk?oc=5
+- **URL:** https://news.google.com/rss/articles/CBMikgFBVV95cUxQaVlzQ2o2VFRhOUpEM25YNzRiTUF4VkNjOGNxWDJKVnYzeXZ6bVZGV3Y4LS1qWkk4TDdLQXlGQUpUOXVzRVlrY1pVOUhoQ1RyM05OejZkWmhKRzlsMmN6TzAwQ1YyY05xWDg2ZjJTM0dfM0VhRUU5Wm5iRzc4WnVQeE9qdm5IRGdhM1R0Zl9kNHFXdw?oc=5
 - **Source:** Mashable
-- **Published:** 2026-10-12T08:45:32+00:00
+- **Published:** 2026-10-12T20:37:30+00:00
 
-## Microsoft president says AI less regulated than milk - Christian Action Research and Education
+## Microsoft president warns AI is less regulated than milk and washing machines - Mashable SEA
 
-- **URL:** https://news.google.com/rss/articles/CBMijgFBVV95cUxQWTdMVVpWT2FUZTBfVW0zRWRld1BaRlE1Q21JbE5VMnk5TDFxaVpZSXpiNDlOSlVSamdaV1lnMW5iZzRwQkxoX1RaaENQalhRRmdXU0YzOVhGeERMSUhpRm1GOUw3LXNRZ1pLM0R6M25VNEZYLVNJdGFEMDY3YXF3Tmpyc1pqSGVRbGppLVVB?oc=5
-- **Source:** Christian Action Research and Education
-- **Published:** 2026-10-12T08:32:49+00:00
+- **URL:** https://news.google.com/rss/articles/CBMivwFBVV95cUxOYVowVVNaUXVCVnVMV3pYcnZEcTdreWRDZVpkYm9qTzMzN2Z5TzJyVklRRURfZFVDZ1hYLUVtVlo1Z0pVZ0ZiODMtZUEybkhFSXFFa2N2dk9jeW5UZEFNclA1dzR6OHFQSlpPNzRiTWdoUElScXNOcHBKQ3NRNkFhNWZZbGVJVGpNSGtlUnM0d2xNSURiczNnY2JRRE1nZ2psbjNKdjlQbGVDTHo1X2NsS3VwbnRIR2JoZjI0V2Fkcw?oc=5
+- **Source:** Mashable SEA
+- **Published:** 2026-10-12T20:35:17+00:00
 
-## “Emergency brake” for AI: Microsoft chief calls for an emergency shutdown mechanism for models - Root-Nation.com
+## Purdue Northwest migration to Microsoft Teams Calling - Purdue University Northwest
 
-- **URL:** https://news.google.com/rss/articles/CBMiiwFBVV95cUxQSTEwVWhielJ3OV91NTBhSEJoQjZPbEYwUTc2MEhsVDRPUFFGdTJSWS1CN0g5aHR0OXZ3cUIwYmp0X3U2Nk94RHNWamJfaG92bml3UFZNYUZxNk1DeDMxTE1wSk5XNVEtaUhQazY5ak1qSE9Tc1hyWlV2bWZJTG5ZOTR6ckxUc05OZlFB?oc=5
-- **Source:** Root-Nation.com
-- **Published:** 2026-10-12T08:24:04+00:00
+- **URL:** https://news.google.com/rss/articles/CBMif0FVX3lxTE9BMXg1aTZrTUpIemNnalFkYUxfNlJoRUtuY21kaHUtcEtUaEh0Y003Uno0XzVTTnExQUY3ZjlLYkEycTdjY2ZuT044Z1ZnaEsxREUxWEV5U3VfLXRrVVI3NFNvdmlIOFB4QW1VamlXQk1HTWhQRG00NmZqc0cwUTQ?oc=5
+- **Source:** Purdue University Northwest
+- **Published:** 2026-10-12T20:28:08+00:00
 
-## AI less regulated than milk, Microsoft president says in warning over safety - The Guardian
+## Microsoft plans huge deployment of its own AI chips, with an eye on saving costs - Reuters
 
-- **URL:** https://news.google.com/rss/articles/CBMivwFBVV95cUxNakhDNFlaMk9mSGQwbi0zcWlFSW1hQVRUckFFekhNbWF0MUVHSFVFNUhDYXRicUpQV1dTcEFka2RsNXk2a2tYV21NcUJOWWFJU09NTjNMVlBjOHBHa0tfRW1UTUJpRFl3bE96LUZTZzhFUm8waHR0dTdHZmlmd2E4dTQ4bWRKY3dlWUR2RkpUOW42clIwUUxYa0ZsTHNZT0JyRW9NNWY3c0c0Rk5QSTFJcm9McnFfMThhdnoydEE5WQ?oc=5
-- **Source:** The Guardian
-- **Published:** 2026-10-12T08:11:00+00:00
+- **URL:** https://news.google.com/rss/articles/CBMiugFBVV95cUxPWHVSM1ltUmRIUHVldm04ZU5JX2hLc0lhYjZVaDMzMDlkVkxXNUM3OTFFVU1kdlM1R3BneGN5cXp3Ui1Yc211TFF0VUU3ZlpRWjhBRy0yOGJjdlZxR3FmdmFHdFNMRDM3Rnh3WjJMd0d1MHNINEdvdWpBVEc5TTJNMjk1Xy1JNEY2b1g5RkYzWXYtakQ0SmNnMHdoUlRnbjFMSWVBUm9QaVBXbkFNUVgwSDVLdURleTBwMHc?oc=5
+- **Source:** Reuters
+- **Published:** 2026-10-12T20:22:23+00:00
 
-## Milk is better regulated than AI, Microsoft president says - Cybernews
+## Microsoft nears overbought at $543 resistance: Live levels - Investing.com
 
-- **URL:** https://news.google.com/rss/articles/CBMiXkFVX3lxTFBhdndNQUlYNjVrV2FFdEJtZlIyTTZLVUM5UktERHROWFpPajVqOVU0dzdqSG9DT3hJeEJVZHNFUHhxYklmTXBYbUpZYjN4UjREZ0dkallyb3dXQjVfLVE?oc=5
-- **Source:** Cybernews
-- **Published:** 2026-10-12T08:05:05+00:00
+- **URL:** https://news.google.com/rss/articles/CBMiwwFBVV95cUxQcEZnaHZVeUNPME9pV0VfekdUMGtZaTl0amwyRzB1ZVczUUE2NDhJRTZPN0swUnRWWU1FVTBETlhMUEd5LW12THZpbWhkQjRpQTZBYjNZWXVGSDktRlI3OFJHTDN6SU12blA5UW91ZGRsazNHWDVmYnF4UDM4ckhWNF9LUGd0WEhPYkxKNHZhNmZGMDJ0cGhELWNCMzhDM0ZQTXRFVWtaeUZkdjBxdUZlaDZsQkF3MUpSRGlLeTZnTl9TdWs?oc=5
+- **Source:** Investing.com
+- **Published:** 2026-10-12T20:12:11+00:00
 
-## Microsoft Upgrades Copilot Notebooks: Supports Task Delegation, Office Document Editing, and Interactive Reports - AIBase
+## Microsoft debuts multichiplet Maia 300 inference accelerator - SiliconANGLE
 
-- **URL:** https://news.google.com/rss/articles/CBMiSkFVX3lxTE82LTlwYVdyNGhRT01jX0x5TTJfN3d5d25HNmw1YVdLSk9CSkJlYjhFNW5wdzBGOVVFSElKMTE2SXdhSU5QMG0zZkVn?oc=5
-- **Source:** AIBase
-- **Published:** 2026-10-12T08:00:46+00:00
+- **URL:** https://news.google.com/rss/articles/CBMingFBVV95cUxORmJuanc1dUk3SnIzYkx5TUozYTJsUnF3WXVIRzVnYTdxQU9SQlBJZ3k5SmlsTjROb3paVjItNVZ1dUtsNlNTVU93TnB1bkI5QWFCdFNmU21WNmRfWjJlMWZJaVZkd2dLMWNOOUJTQUNqREhSaEtSV0pmcG5DcE0wRTZiNTVGVG5najV4Y2FZOUMyUzlLeVZLTXRHdlFTUQ?oc=5
+- **Source:** SiliconANGLE
+- **Published:** 2026-10-12T20:11:00+00:00
+
+## Own Microsoft Office for Mac 2021 for 63% Off, No Subscription Required - PCMag
+
+- **URL:** https://news.google.com/rss/articles/CBMingFBVV95cUxOVnh6MTF4Yk9tWk5GSHZ2czhSLUh6aTEzeXlMN3FiYU5qN3lIcVZldDNqcmhjQlNrNjZSYy1JMjE5QzgtT3RHZWIySDRjMldWS1JpMkxxQVp1ajBlTDY1Rmx3b0RyUDV6blRFY0pYWFlQTnV2alpEUjRHdVhaNGNrNFBOYXFZVFFsdjhLdFRIcmxkOWZrUnhnUXdmdVhPQQ?oc=5
+- **Source:** PCMag
+- **Published:** 2026-10-12T20:10:02+00:00
+
+## Microsoft preps Maia 300 for a wider rollout next year as it scales custom AI chips to gigawatts - Briefs Finance
+
+- **URL:** https://news.google.com/rss/articles/CBMikgFBVV95cUxPQmRWNWpMM01Ba0o0VVpzUkphQnEyUXF1SzluR05MT2YyTFlUeUdDUW9kS043N0thU2RGSFZUX3Rpc3BNQkMwU3NoSXZuWldlcUE5c1pBOVNBbjZvS21aOERnOEw5UG5vNWpNRmgtbkFsZXNXdS1aNW1DTFpuSzlUdGYtaDZiVXNPTTMzQkJ0VVROdw?oc=5
+- **Source:** Briefs Finance
+- **Published:** 2026-10-12T20:02:22+00:00
+
+## Microsoft’s CEO says AI industry is skipping a step that could matter a lot - TheStreet
+
+- **URL:** https://news.google.com/rss/articles/CBMisAFBVV95cUxOZXVjaElGbTJnaU5RdkxodWdRZ2V0SEszM2l4LTk3NXFoVGFVWERKUGxMS203clNUeWJLT0RkZVZQUmE4SDNxcUUxQmk4WVdVVndDYnFOOEFsakdMZ25seTRhY0doRDRWaGxDZkVVWFQtb2ZvSVJYNDQ5elpmSmFDSkQtVGRROG1UYUFfYlZqazNRWFVldTJOZmpZc2hweGhuV0NTRW5qZ1BIM0F2YVROTg?oc=5
+- **Source:** TheStreet
+- **Published:** 2026-10-12T20:00:00+00:00
+
+## Microsoft just reclaimed its $4T market cap, thanks to its Maia 300 AI chip - Yahoo Finance
+
+- **URL:** https://news.google.com/rss/articles/CBMivAFBVV95cUxQaGNWdnVjYUNkck9HdU11UU5BbnZTcHdIU05lRXNadkNCY29BRHdDTHMtdi00RXZhbEVKOVVFbFlreHVyVXFOLTk4NmlockhtN3c5S2RiTXprX05kX3ZSWHRXbGFoTjhmejl3Q3h5dld6NzhPZ2dZejBDQnNEX3VTTHN5cXhLdkM5cjgwd1NOSzlIRW9sMmFyRFdGUll4eW9PSWVZQjBvYWpjYXAwYlF0RVJQZXR4YWR5eXdnUw?oc=5
+- **Source:** Yahoo Finance
+- **Published:** 2026-10-12T19:47:08+00:00
+
+## Satya Nadella went from H-1B worker to Microsoft CEO. The Trump administration just shut that path for his employees - Fortune
+
+- **URL:** https://news.google.com/rss/articles/CBMikwFBVV95cUxPMnN3a2xweWZqYXdhOTFJWUZ6RFNRNjBDNmtEZlQ1UlVwUHpjNG5wdlJYR2pmUXJHdW0tWEpnbU1hTzZmN2R4SjE1Y1Y4aEg1SHhfUVBTQWRLbXNKSi1PQkY1QlJlZFFJcF9pM0NOZXl0Z1BzQWwtRGJmU2MyNzRVdDBValhidzFINWxQa3ZkLVNHSWc?oc=5
+- **Source:** Fortune
+- **Published:** 2026-10-12T19:37:00+00:00
+
+## Maia 300: Microsoft Builds the Exit From a Compute Landlord Model It Helped Finance - Yahoo Finance
+
+- **URL:** https://news.google.com/rss/articles/CBMimgFBVV95cUxNd0lzQnVkb1EzOFcyZVRhZDI5ZlQzS2ZiN3pSaFlRWGVqT1UxY3IyMUhwSkJkYTBwYlZVZDZxUDJqOGJfbVZrTWY3NF8xRDc0eWNUX1g4eHdWNUlzNkJuQWdzejBfSENoTUNoS2p2WXk2Q002NTYtdU1xdTNuaWVyZG5MdVllWFhfVXQxQ2psNmJWdzg4QTE2ZVd3?oc=5
+- **Source:** Yahoo Finance
+- **Published:** 2026-10-12T19:30:01+00:00
+
+## Microsoft revises Mount Pleasant data center plans with larger footprint - The Daily Reporter
+
+- **URL:** https://news.google.com/rss/articles/CBMikgFBVV95cUxQa0tUdTU3TjltQ0RQQlFmR285dTJyVk9pVnRUbWNOUjBFaTBGMWhvMHczODJPNWloZldYUXJmUzE5WUlScVdPbkw2Vm9FcGQ5WjEyTkpuckg1Y1V6ZEd2cG9YN01GRDU4ald4YzRqQzBFbUN2aFRXYkNILVpLRjE5a0d5bUZnRGRzSEg3RlgyR2Z5QQ?oc=5
+- **Source:** The Daily Reporter
+- **Published:** 2026-10-12T19:14:19+00:00
+
+## Adobe software dupe maker takes on Microsoft Office, releasing free versions of Word, Powerpoint, and Excel - Mashable SEA
+
+- **URL:** https://news.google.com/rss/articles/CBMi0gFBVV95cUxQdXp4NXlFLTZXY0VKcGhZcHZTQ3RpNHlQTnQtZEFmRlpxVUcxc2o0RkJBcEJIRTVtOTVSV1hKSzlBbzM2N3l1bFpmV2hKWmV3SkljU2JieExiVmp3c2t6SS1DWEN4eXVxV3RONURvcTFyeUFSUXdKYUV2a1h5OHVneE5aRjk5UEhaQUZUZ3RrZ1dtYW1pQ09ObS01bjRaeDNuS2trRmVxNXRUN2dFa0FwX0tSZkVKSVh2ZmRocGRJcF9YOHN6bHVTOHdtOU9JUW1odlE?oc=5
+- **Source:** Mashable SEA
+- **Published:** 2026-10-12T19:09:36+00:00
+
+## One developer is taking on Microsoft Office with help from Claude AI - Yahoo Tech
+
+- **URL:** https://news.google.com/rss/articles/CBMimgFBVV95cUxOV3dhQXdocWw5NDJaSThWQlp6WEs1eWhYYVUzaFl2aFpzQmNaZVhON1ZJYU8tWFI1aDhmRHNESHZWS20yeUtEVHBsWlBEdktKTTZfcVlhbVZsVVh5d2I3U3o4bHc5UmwwVjU1ek5YRHp0TWZ5ei1BaEZ6Z3FZTjYwYW5XblBERmxUTVd2cThHZ2s2ZE1oOVpwUWhB?oc=5
+- **Source:** Yahoo Tech
+- **Published:** 2026-10-12T19:02:06+00:00
+
+## Microsoft’s Leaders Have a Plan to Make AI Safer. It Involves Treating It Like Washing Machines and Milk - Inc.com
+
+- **URL:** https://news.google.com/rss/articles/CBMi2AFBVV95cUxQU3loX1Y0OW0zeS1vQy1NX2U1WVBiREMtVnpjdTNnWXhmRTlJU1IzN0tNR1N6SkJ1N1BQSzN6SEhESDRxQXV2THViZDN2SHJYMHJXTnlSVGdHa0lqaU1iV2FDMEdOZXpuTFF2bVpiY2FrSDFFRkladTQ3aUtpOUF3d1lqdExjY1F1N3kxT2NyeWxQS3dJV21KV1BQZm5VdFNBdHRzUnBTdzlXN2hud3cxek56T3ctWkpNbUdTNW9XNjItNWtmOXZWTmRIM2lRUzNnT25SWTZORjA?oc=5
+- **Source:** Inc.com
+- **Published:** 2026-10-12T19:00:39+00:00
+
+## Why Microsoft's AI Growth Story Justifies A Strong Buy (NASDAQ:MSFT) - Seeking Alpha
+
+- **URL:** https://news.google.com/rss/articles/CBMimgFBVV95cUxObl9KakpiakRtRjZYQmUtVzlmTXg3OHNmN0RZOWNHNGxfSHR0dlVQMHlRYVozOGdlMmVmYnd5alFjR2REbS1Rbk1fdWY4bmxLX3Rfa3hSV2tDem1BVHV5QjVzZUlsazU5VXlLUXVBdlh5MktmM1VoVDBmM01FYVBwNkwzdFlWZ0dHM01rZzc5djlrTW9aX1o3Xy1R?oc=5
+- **Source:** Seeking Alpha
+- **Published:** 2026-10-12T18:54:22+00:00
+
+## Microsoft President: AI Has Fewer Safety Rules Than Your Washing Machine - Yahoo
+
+- **URL:** https://news.google.com/rss/articles/CBMimwFBVV95cUxNZTRxXzlGZlBKcjdzQkxjOEkyMUJFYWtUX0c1UE9xMVBsSzU5WlF1UWFuRUhTZWxqRTI1TXEyNzUwZ085OGRrcmd2Q1h4LVI1RERXYldBVTcyUi02bW9iNU1YZUprb1YwYjc1VDRaVGhMa2VGMXhaX2tYNV9fR1JhZGxuU2EyNGpvMU1oRmthUVNSSmlCWTRnNjBpaw?oc=5
+- **Source:** Yahoo
+- **Published:** 2026-10-12T18:50:24+00:00
+
+## Microsoft President: AI Has Fewer Safety Rules Than Your Washing Machine - Gadget Review
+
+- **URL:** https://news.google.com/rss/articles/CBMiogFBVV95cUxNVE5Yd1Fxc1NhWFIxcEVEdG5VOFBkamM4R2R5T1FpaWhQYzZEWVZ4Y0hMRjVCMDAzZ2pRTVF5Z2ZRdjNROEFaTG8zM0NUb2xrVFdLTDZpSGlXOGxnSi10cS1fQWpTSHBKRU9JZkZuNWxaaXJyVzlGX3ZucVRXYzE5TmxkM05POXlSZkZzVmJlZzBmT2QwTEE5dVBGelI2U3N2YlE?oc=5
+- **Source:** Gadget Review
+- **Published:** 2026-10-12T18:50:24+00:00
+
+## Microsoft, Micron and Meta make news. Here's what the updates mean for our stakes - CNBC
+
+- **URL:** https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQ0YweEhHa0hXV3NZWG5uRVZIMzRTdkcweWF6VG85aFBDZTBwVWtmU0pKUmxXQmhRY1ROWkJBM0ZxdExNd2JjSG5oMjFrTnFWZGQ3RElET1FBazkyZ2hEYWR3YzFFMXBLamJwOXR2UDc3VnB3aTlIT0R0VVpJbU9DZkZnR2ZpWDRvbE1hMXhjWE84Q3lTNWN3WXgzeVMyQzdrTVhGYnFEbHoySG1leEt4dnpqYUl3VVQwUDBn?oc=5
+- **Source:** CNBC
+- **Published:** 2026-10-12T18:47:58+00:00
+
+## Microsoft Copilot AI Predicts Bitcoin Cash to Hit $5,000 by 2027 - 99Bitcoins
+
+- **URL:** https://news.google.com/rss/articles/CBMiogFBVV95cUxOa2xQVFlpRjJmNmVoUmc4c19CUzlUMnV2YVE0emtZQ0NrN2pMMV9haUFPMElhTF8wS0hrdDNxZ1RQX1VMamtFSlFhSWhiNGFVRk9NdFVhTGs0aE9fVS1tQkNGLWxycTEwZ096M1F2VUd6Z21qMUZqQ0x6aEQxYlFLTmpwd0kwLWtCUXJlV2VmUV9sNzBROThtZ0EwTG5OMDd4R0E?oc=5
+- **Source:** 99Bitcoins
+- **Published:** 2026-10-12T18:47:13+00:00
+
+## Microsoft's Maia 300 AI Chip Aims To Make AI Cheaper And Faster - HotHardware
+
+- **URL:** https://news.google.com/rss/articles/CBMilgFBVV95cUxQMUI4RTk2dTZjZW5fMUg0REpHV21hMkItdWt3MUJyZ25jRHlPTFdaUzBNRlVINEdhVFU0YnE1OFRaQWFtaEp1X0w0dlVKR0kzcExDMW1wVFlvSXlONDNQNHNvQ1BrWm5KX2h5YmpOUEg1SlB1UGtUcFF2UDhxRGkta0EzU0xzWm5uYmVQaElHeFlCS0x0M0E?oc=5
+- **Source:** HotHardware
+- **Published:** 2026-10-12T18:37:00+00:00
+
+## Norway Fined A Microsoft Subsidiary $9.6 Million For Allegedly Misusing Grindr User Data - Engadget
+
+- **URL:** https://news.google.com/rss/articles/CBMivAFBVV95cUxOSGVCLV8xa1FwT2FGMGVMWkxUWDROMWF0OGlmOW1sT3R4RDYzQVZUZWdOLUZJWGtoQUQ3bWFaLU13M19wZk0yZUtheWVueFFodjBCREYxcXNLTU9VNzc0SU5rUWVYcWhYS0xrS0dPZkdBd0FPdURXa2pBV01LZG1zVTlQaUJQU0Q4cGg4OGxDWHJNM2V5aVlyYks5bk81YVE3ekpHN2lXa1lzVzNabnFJenBTSFUxbEVsVTY5Ug?oc=5
+- **Source:** Engadget
+- **Published:** 2026-10-12T18:34:57+00:00
+
+## Microsoft AI Cost-Cutting Downstream With Caution 10/13/2026 - MediaPost
+
+- **URL:** https://news.google.com/rss/articles/CBMiwAFBVV95cUxQQmtqWDhqZlB6TmMxRlJuYVMwanp0Qkp1ZDVmcjU2Z2RoOFBIMmNFQTVLaUdFa3NvX1lUNWVJb1JmSUtvcWl0TDhwTW9oSVZKS0NTcEM0Yzd6bTNJYkJvbkkzX0M0cVBUTDlQNU9FcDZiN0U2bjBFdW1xSXlsWHN4cnlzU21LOTdfTHdHaFUyaHEwZXN6YnBwckRUSkxsek1uU3AxSW9vQWhNNkh2UEFFVkVIekJvTkQ0T1JCQXFzOEY?oc=5
+- **Source:** MediaPost
+- **Published:** 2026-10-12T18:34:01+00:00
+
+## Nvidia Stocks Fall 1.5% as Microsoft Pushes Maia Into Inference - TradingView
+
+- **URL:** https://news.google.com/rss/articles/CBMivwFBVV95cUxPYWRIQTVjaDF1UHM4QndKUGpDQ1ZIV1lZSHFoZTJ4azNQZTdHbDBUTV9TWTZRWEJyS1JmSWNwMlRDZ0hXRTdxc0duanBjZkVHdVI2TEpSQUhISEgxR3lzSFZYWHhKZkd6eVU2Vkd5RC1KRjh1N1pHMUdFV0RSTHNaME9vQ09RbXhuTnB0X0oxakxyOE1VX2lUT0cxWERGa3F5dUJ0bkhKR1I5MlhfbTU5Q21JY1RHMzFBdTl2SERaZw?oc=5
+- **Source:** TradingView
+- **Published:** 2026-10-12T18:31:05+00:00
+
+## Microsoft: Maia 300 delivers 40% more tokens per watt; Maia to be primary inference silicon from next year - Dealroom
+
+- **URL:** https://news.google.com/rss/articles/CBMi0wFBVV95cUxNTnNrTGRkZjFDdmIxbVd3RDRvS1ZwZVlGLUVrbnFBcnZTdTZpSDliWkFsYk54aUJJYVRPUThXN2JxdElvZ1VfRVllVXZqdVdtR19RejRBWHh0NU4zVlRLcDFyMjB0YTRWb29KeHVwVmRoaERGTEZNSDk4MkIwdzVIeU10ay12M1k1RGZISXRYb2tMNEppX0tvUGxSOGl6Q0xrRS03SEptcVFYc0xwWU4yVG5uM0lxcGFqS3lEM2F3cTV4UGdVektINjNzTzd6UGxJUXlj?oc=5
+- **Source:** Dealroom
+- **Published:** 2026-10-12T18:27:42+00:00
+
+## Watch Microsoft, Musk Race to Reinvent the AI Chip - Bloomberg.com
+
+- **URL:** https://news.google.com/rss/articles/CBMihwFBVV95cUxQdGxtMGpfamQtQWhkN1BWU19MZDZXaXdnSUFJOWp3OS1PeHI4cE1EYkFxYnJHRmZVOUFiaS1PRmVRcjVvY2txUjFBY3p4TFZ4Sm4zYThNM0JZZGc3eFloeWVqQW84XzlPYzJUQjQ0eUdaMWVkd2JyMVJqelh6MERrVVZ0UkNiN00?oc=5
+- **Source:** Bloomberg.com
+- **Published:** 2026-10-12T18:25:31+00:00
+
+## Microsoft to Reduce Nvidia Reliance With Maia 300 AI Chip - The National CIO Review
+
+- **URL:** https://news.google.com/rss/articles/CBMiugFBVV95cUxPaGtINjRIUndlZkUxdUd6QTVoa2dSdDNaR1R1Ylp0cC1kOFpXZHNXdGVYWHpUMG9xVWRWYXVyRkJ4UG1DSjRvTWhIYzRGYmVkVVo5WHZfZ29lc0k2dEM1bUprdVN4Sy1wLVpxOFZzaEdLYkV6b25hRG9jdjNvRm4zS0tmbEZET3laUXRkVGtvRkJ0eEZIbExqQS0yRVllTXJQdUxWaF9aTDlIcW5nZEpCLUgxMmdGQWpJM1E?oc=5
+- **Source:** The National CIO Review
+- **Published:** 2026-10-12T18:24:35+00:00
+
+## Microsoft’s new Maia 300 packs 96 chips into one 167-kW rack with 40% token efficiency - Interesting Engineering
+
+- **URL:** https://news.google.com/rss/articles/CBMihgFBVV95cUxNd0pnSDhzR0dUbER4endVSzIwSlVkaFVfRndvQnkwLWtfUFphODdwNkpqWWpEMFpuTENNNGhjWF9oZjVTYVRkUmFhWk1kd3R3Y0V4WEhrRUxsanJjZ3A2QXp5Slp3amd3cHU1OHFFTF80bFJQQ2RodjJqMEtYZEdRQ2FLZUVVZw?oc=5
+- **Source:** Interesting Engineering
+- **Published:** 2026-10-12T18:21:00+00:00
+
+## Microsoft and Amazon chip away at Nvidia’s dominance - LinkedIn
+
+- **URL:** https://news.google.com/rss/articles/CBMilAFBVV95cUxNay11ZkZPeWF2VFZQcU8wU0NZQUNoVi16c0NrYkhzNDlRdHBiUUg0Q283X1BUMXpON1NseVhya1paYWFBOUpDNElXQThnNmRTX05KajktMVRzVWhTUFpydUhfaWlsTnM4ejBudF81LUdmU2ZRdXFUS2VrcVFpNDl5NE40THVtNVFWVnFIQXJfS0FKR1Ny?oc=5
+- **Source:** LinkedIn
+- **Published:** 2026-10-12T18:17:06+00:00
+
+## Watch Microsoft Ramps Up Homegrown AI Chip Push - Bloomberg.com
+
+- **URL:** https://news.google.com/rss/articles/CBMinAFBVV95cUxPNFZVNTBEUWUtYnRJZDdSXzVQWHZMd0RZY2pQVjhOSllTV3V1bU5xeDRrYkJSdDZ4RFNsR3N3eHg0X3ExWG9wdVFXOTA0YkRYaUZnNU9PaElfQXhhYzdsT3VqN3pxcjA0TFF2c3pHV1FpMDR2VW16UEgzSDBRX1VxYWZRaEw4X1hZbW91NnpCT3Bpd2hFd0hXREZYR3k?oc=5
+- **Source:** Bloomberg.com
+- **Published:** 2026-10-12T18:07:25+00:00
+
+## Microsoft is turning Excel spreadsheets into beautiful interactive canvases with Copilot - Neowin
+
+- **URL:** https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbk8wZURrZmZsamJkZEV3RkREN2VCN19HTGFyQWxYTVJ3c1F4ZktBMGtZclQ3dmRNZ185Z0dYNExtTzlTaWdjN2J4WWdQZk10aVU1bTZwUjBzZVZBZXlXRDBuQjJHRkt3cm1lZHNuYTV3NEJ5czFmSjdydHNFQU9vcEd0YVNWclBzcWplRUVLVEZUUHRHemxIOFBfMlZ2VzlwVS1fdm9saXNfeFZXMF9YRkxBQmkzXzlU?oc=5
+- **Source:** Neowin
+- **Published:** 2026-10-12T18:00:00+00:00
+
+## Microsoft blames a configuration change for Exchange Admin Center tumble - The Register
+
+- **URL:** https://news.google.com/rss/articles/CBMiwgFBVV95cUxPVV9VblYyRkJRSzM3alBaejN1bFZfNG55U05yZXI3SFYtSmZBYUVRc1RWRzZfeWFUZ0tCTGZER2Jnei1pQV92ek0yQmJqRGh5QzBFSGFOc0owNWpxVmt2ekxDR29HNnI0MTI1UF9aZk4wZ3JUS2RfS1hkeUl1X05GMlc4bXpLWmJXcWdzVk1abmtTMklZV2Q3enJrcTl2YU9QZ0g0S2hOYURPcmtVaGJITWwyNVJfRlkwVTlXT08yQkt5dw?oc=5
+- **Source:** The Register
+- **Published:** 2026-10-12T17:55:53+00:00
+
+## Microsoft Looks In-House To Power Its AI Ambitions – CEO Nadella Calls It ‘Our Biggest Bet Yet On Our Own Silicon’ - Yahoo Finance
+
+- **URL:** https://news.google.com/rss/articles/CBMimgFBVV95cUxPa2hWUWhNVHBiVkFCZkFTMlFLaXNpTWNTYTdJdnFFVlc3aU9Fd0R6MG5WZG1xdnBENUhOSGhvellzVVlPS2p4Q2V1cl9wb3ZYbGVpV1JqeUZFenJVaXJSaWpESXdMcElXXzBXalFMdGhxMV9INTVJZnQ3YnpQMHQ3N3FrZ2VrNUR0Zl9ucTA1c09pM0twQUJZTENB?oc=5
+- **Source:** Yahoo Finance
+- **Published:** 2026-10-12T17:35:29+00:00
+
+## Microsoft Warns Old Windows PCs Face An Update Cutoff In 2027 - HotHardware
+
+- **URL:** https://news.google.com/rss/articles/CBMilAFBVV95cUxOb0k1NkJ0Wk9iREpsOFdKYlZ5NmRMcklRUnl6Z0lGRHp0dm4xWVJzTFNXSmRJX1BmSGttTW1QcnJEV0ZjT1hJUElYZFBmMTEzdktaa3dQSEhPY2gzMmwtYlpteFQtMktnQjVna0pYOEh3U0FORnlpRW9xNmxOVUFxWmZIV2x4UVNXQzBQWGhHUzdCMWlv?oc=5
+- **Source:** HotHardware
+- **Published:** 2026-10-12T17:35:00+00:00
+
+## AI interfaces pose long-term risk for software cos; BofA sees Microsoft well positioned (MSFT:NASDAQ) - Seeking Alpha
+
+- **URL:** https://news.google.com/rss/articles/CBMiwgFBVV95cUxNeGI4dUdZcTB3cC1uS1gzdUx5MndvRlpBaXZPTW13djd3TTlWdklIVm8yR0dHVmY1ZlBRV0pfSkF6S3UxZVlCU0ZUTkFpZm9fNkFUcWdOaE52cnJucU01S2dZN21pLWN6amEtVHN0NENDclYyRGs4Y0g3NnFMOGtxeng2MVVhSzFVS2tucjJkVjFuSnNtQWo4TEtibS1nZkQ1S2RELUZrTFRtaHBUdHJfQkFxTEp1RmtaNVBMejhfNzY2Zw?oc=5
+- **Source:** Seeking Alpha
+- **Published:** 2026-10-12T17:28:57+00:00
+
+## Microsoft to expand Azure Maia system to multi-gigawatt deployments - The Official Microsoft Blog
+
+- **URL:** https://news.google.com/rss/articles/CBMisgFBVV95cUxNQWtCRTJBSThLQjBSa09qbEhKc2d2N0xyMDdJYXFXZWg4UGFRcUExcVBBd292eFl2WGwzVXBCVzg2WWtnOFM5eE1ma2gzTGNSMms5SFFpdTZOVjR4TEZEcmlpZmNYbEdUZmxya1FremFRNmVNTTdzYUlRdzZEYmFBV3VwVWNEUmFDMG9NMjNRX25BRW9Gbktyb0RGNWE2a0kxLTV0VEZ1YXozZDRuNm91YkpB?oc=5
+- **Source:** The Official Microsoft Blog
+- **Published:** 2026-10-12T17:24:05+00:00
+
+## Microsoft’s Maia 300 chip and what it means for Nvidia - Investing.com
+
+- **URL:** https://news.google.com/rss/articles/CBMitgFBVV95cUxNRC1FcFBWeS1PMnRNYUd2cm13ZmJqUWJkblJKN2RxSlJGSWlJclZHeWlHYzlqaXNqOEtoSUEzSUxKb0RPUUtLT2dMX3VYbzFua0JZN21UTy1TeC1YSkhrWk1vb1MzNUxxWkJXRGtoaG5SalFneVM5UGpUX0RJTS1IUmUzSFFoSlNELUxpTnlLZkZlbTVEWUtxeVB0RnZHYy1PVVdfc1ZkQ3RLVGtDTGNJMVg4MjcxQQ?oc=5
+- **Source:** Investing.com
+- **Published:** 2026-10-12T17:22:22+00:00
+
+## M5 Pro MacBook Pro vs Microsoft Surface Laptop Ultra: Compared - AppleInsider
+
+- **URL:** https://news.google.com/rss/articles/CBMitwFBVV95cUxNQVJ0c2VfdklDQTU2UDVLQ283ZERTTlVTamxvQUQ5WHU0SDhqbXctTlpUWTVrTVc4Zno5TVRRVExyV0ctdzdBT2M2RlRDUDJ0aUJOc1lobmEtWjdFSUpSdkJWV1pxbW41SlBYV3BlYlRyTTctUEdaWTBtYjNaQXQ1enhhb3ZLM0VIOUM2RkU1TnRiVWtaakRMUkdBZ195NElDcng2ei1lSVU3ZE9TUW1JRWx6cmtlLWM?oc=5
+- **Source:** AppleInsider
+- **Published:** 2026-10-12T17:22:00+00:00
+
+## Microsoft shifts plans for Mount Pleasant project - Milwaukee Journal Sentinel
+
+- **URL:** https://news.google.com/rss/articles/CBMivAFBVV95cUxQQ1lHaFpwZFFhV3AxUmNyU3FxVU1WTFVJUm54VzYwY2Z5WFVISG9BOUxIS2wzSTBvNkI5OUhNNjFfMDhlYUNubGJaMmRUWTdzcGlRQTRtTFRPSHJwWUkwVDBtLUNtZ2NJNGRSQkVsQjdOaFlxdzd4NklfMGx6WktjTjBxQVdrM2hOTkpQOVVORnJKU3k0eF93dE5BNnJYWXNZclQxa1J3cmNJV0hwSHFIZVdtdkpRcUM2NWFXUA?oc=5
+- **Source:** Milwaukee Journal Sentinel
+- **Published:** 2026-10-12T17:20:00+00:00
+
+## Microsoft unveils Maia 300 AI chip, plans expanded rollout from 2027 - Anadolu Ajansı
+
+- **URL:** https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdmpHb1hQN1V6NFVIak1lVWhtU2FfVkFUMUhFaXVST1hHdVNOU1NWR0pBdmh6WEd6SENRUGFLVFpTRFliTEgwTXdieENXWF9QdVNJcmd3c1VrVG9jX3ljdEs1c2wwZkw2VVVINkY0cGtOQjZYamIxZ2Q3VE1ib3VMUFR6Vzg1U1pOb2toelBrRkppaGtnU3daSERWdHBuU1oyRnEyc2MyX2V4OXFYRUItNTV3cnJjYTcwNGhJ?oc=5
+- **Source:** Anadolu Ajansı
+- **Published:** 2026-10-12T17:08:33+00:00
+
+## Microsoft announces new AI chip Azure Maia 300 - upi
+
+- **URL:** https://news.google.com/rss/articles/CBMinwFBVV95cUxPLTVaVm5kTjgzM0tHQkFtYnh4Z2JMLW1ZWTlPSkJGcjRrNlR5eVY4OXBJdVczYmY4SVBLa0pyN0dqNTY5TUF2QXRaSWlPUnNwQ1VpWWp0WkNFYUU1MndYeDRleEZ1U0dqNjkxckhoMHdUTWxHTC15cFFLMzIyZGRNaDd5c2Z6YkNMSVk3Z3M2aXJfSXBfbjNiWW1VYmdTYlHSAaQBQVVfeXFMTUpFNTVDX0VSV3V0VnlFcVpPdkV2Y3BJN0M0TlJpSEtSOUtsbFd5WXdScTllNWhKQVBscEM2X3NHbGRBYi1TQXZ3VVJUWFMzMnJ4Y2hyVkdXZTY4cXI0cUlVazFteURXS2xlTjR4ZUViblIzX3JxYndpZGJ1MG04U1U1c002ejRMOUFTR3Y0ak1veXdPdmdkV01UQi1NY3N6OGRydGc?oc=5
+- **Source:** upi
+- **Published:** 2026-10-12T17:04:31+00:00
+
+## Microsoft’s Maia 300 isn’t a Nvidia killer – it’s a power play - Fierce Network
+
+- **URL:** https://news.google.com/rss/articles/CBMilAFBVV95cUxQWGRPcGxVUDBQMWRvWUFCU3EySUhyQWU2WUFtWnVUbzhhX0VnZ2swRzBRbHJlUTBhZ1dxbElJdi1TTzRWLWpOaHQwMnI5WkpGOFZuLTdTOFBsX0dsU2dlbUJfWE5oTkdtd0FOUzNzMkhNejhfVVlFWmVleG5DRzFoRTZjSnAyRnlQM0NwcTB5emNSeXhm?oc=5
+- **Source:** Fierce Network
+- **Published:** 2026-10-12T17:02:00+00:00
+
+## Microsoft’s Maia 300 isn’t a Nvidia killer – it’s a power play - Fierce Network
+
+- **URL:** https://news.google.com/rss/articles/CBMilAFBVV95cUxQWWQ3cVlTaVFkNjVUM3lIRl9GQ191c3lkVGFwQ3Q1elZ1QnpUSFVOY2JVTjdTOVJDU09GbndOVkpQQUlRcFJuUFJyUEF3RnduUy01ejhpX05VYWFSOHNYOUh0MTNCWGJtV0lGanpBMmRVQTRfNnJ2OWs5OVFHaEZVck9WR3V2Y09VekNwbWtfTGVZbl9w?oc=5
+- **Source:** Fierce Network
+- **Published:** 2026-10-12T17:02:00+00:00
+
+## Microsoft Stocks Rise as Million-Chip Maia Plan Targets Inference Costs - TradingView
+
+- **URL:** https://news.google.com/rss/articles/CBMiywFBVV95cUxOV2ppV0NrdVhDd3N1REl6QzF0VXc4SEJnSE5CdzdCUno2aXRmZ1FjX0hyeUxiTWRubnlwbllXenpJdGQ0MnROZ0t0Ukc3X1ZvQ19VNVg5M0Vhcml6Rl9lV1EyUGZFa1lZU2RLdTF6NTJ2SjVCVFN3eVNnbmJ1bGwzSG43S1JHSFU4bTV5SmQ3TjZEVkJHTk9ZUkN1OFV2S25NbTN2dUlnSUZQU05NWTZRMWU3SWI4MTdDMTV4QmZJOFFqbFV0QjNtX0UwYw?oc=5
+- **Source:** TradingView
+- **Published:** 2026-10-12T17:01:33+00:00
+
+## Microsoft Unveils Maia 300 AI Chip, Plans Up to One Million Next Year - Yahoo Finance
+
+- **URL:** https://news.google.com/rss/articles/CBMimAFBVV95cUxNTmMzUFN6eXpwQVVhaWFhNGVENmRadTNKRC1IRUF5cHFmd3JSNzU1NEN0cFlROE1NblUxejltczVQZlVSdE1QaE1OMXBTVHB5QWRxUzc3N1l3WWloM1JQc2ZxVjdrb29hYjRmZnFqUFM5S2djaWVSNUFYN3I5WDVhSWdNejQ0b2Y5UTJOU1FEcDc0cjJuSmEzNQ?oc=5
+- **Source:** Yahoo Finance
+- **Published:** 2026-10-12T16:56:14+00:00
+
+## Community Summit North America 2026: Microsoft puts AI agents to work - Technology Record
+
+- **URL:** https://news.google.com/rss/articles/CBMirgFBVV95cUxQYVdfVHdTSnJrV0ZzQmp3ZUhOaVp5Snh0RlNLbDdIRGRnUnh3RlhLQ1Jkai1xWkVzdjhEX0RrQlZHSlBIckROTDhtYUpxOG9ZdVNjVUdFWHV3REszUU96SVdTQ09JNDdlQ01CeUJfR1V4S2EwaFZzWU8xaXRMSDB1a2tDNm52Z1BDTGVOTkxVME1nYVltbWFBNXZnYXRCNmVNM1lQTS05MGRYU1IxN2c?oc=5
+- **Source:** Technology Record
+- **Published:** 2026-10-12T16:38:42+00:00
+
+## Microsoft unveils Maia 300 AI accelerator to take on NVIDIA at gigawatt scale - Neowin
+
+- **URL:** https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWUZINEp3YW5qOGxoNDE2bVZpcTQ0alZTekZ6MnFMWF9KZ09mTHl4bnY3YTZRWHpZYVo0djg4cnpLOUt1Y2hYaFNFb3ZtOGNFNDdHdnJ6ZHlfeGwtU3RoakQ2dk5kcTZFeEJ2REJYTzFFaDJJUUpXTldrSG9KY2ZJeDA3QmV5czl6S2RqQldLNUJZMDRKSFdKYU5MSDItSnNPYm9KOEJEcEYzZw?oc=5
+- **Source:** Neowin
+- **Published:** 2026-10-12T16:05:52+00:00

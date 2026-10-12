@@ -1,8 +1,86 @@
 # NewsWatch — Iceland News
 
-_Last updated: 2026-10-12T11:42:45.896578+00:00 · 50 articles_
+_Last updated: 2026-10-12T20:59:51.816842+00:00 · 50 articles_
 
 ---
+
+## Iceland Foods Charitable Foundation and Prostate Cancer UK take awareness campaign on the road - A1 Retail Magazine
+
+- **URL:** https://news.google.com/rss/articles/CBMi1wFBVV95cUxNOEdqaG5fZ1BvaUoyV2t2WnpuNDdrODVpam5jVnlfbGhhbzUzb3p1R0VXZlotQURFYmJYUi1tNU9Td1dUU0htY0JiX3Nrd3djYWgzV1AyUkN1dHRReHlYbjZFNEgwYnhvSHpKODZWZmlzWThIZkx4QXd1S3pFeG85UUxmdTZfRXVaVmNrZmJZUktLSW9ycU5iRzNoSXJiU2hScGdST1VBYTZQOGprcHBVUlV6OWdRNUZ6cnhIaTlBOWhTbnBlakk5T3BOcFUzc3ZFc0dKWHUyUQ?oc=5
+- **Source:** A1 Retail Magazine
+- **Published:** 2026-10-12T18:32:45+00:00
+
+## Mallory Swanson's return was a bright spot for the USWNT in its loss to Spain - Times Union
+
+- **URL:** https://news.google.com/rss/articles/CBMiowFBVV95cUxPQ1JlMXI1RExWUjVuLXZNcVFxNXVDXy1BNnJfNEE0cS1OMlQ5Q3BIT3ZmN0ExTFBFbUR2SmpNUkVZWkxTT1hpU0lMbWMzVXJXT3FDWndZeXBKLUhHeDBRcFBQOHRTMGFpUDVzcjRTelJHV2dYRFlrYjBHS3ZlNExucHJObHI1d0R0eUJnd1Y4blVSVWdmUzFwcXZIaVFqTzBpZk5Z?oc=5
+- **Source:** Times Union
+- **Published:** 2026-10-12T17:20:52+00:00
+
+## Why Marco Rubio Is Suddenly Paying Close Attention To Icelan - ИФЗ РАН
+
+- **URL:** https://news.google.com/rss/articles/CBMiggFBVV95cUxQcGNKejlKZE9VTDVxNlFNNnZwRzEzVjl0WmdHMEkxTW8yenB0WmNFN010NHk2MXhOUGxycHBlMlhfdUgtVWtPWm1DSVdZdFdtX2dmTGF1M3lLV19ocURnV05NSVEyclBnWTI3RktJNGFLYzBNTjR1RGVjdWVvdmJKdWln?oc=5
+- **Source:** ИФЗ РАН
+- **Published:** 2026-10-12T17:10:35+00:00
+
+## Rafræn Skilríki Casino Checks: eID, KYC and Security - shattered.io
+
+- **URL:** https://news.google.com/rss/articles/CBMicEFVX3lxTFAxWGZaY09wYldkemlnS1p0TldneWdrYkxlTTBGOUhKNm41c0Y4dVNpakxzMDdIWG9oMVQtZExsak1rLW92WU40TGpkbW1DdU5ra0JYM0ctckxwUktQRTMzUnJMQ21nRHZDN2lMeFRCWmo?oc=5
+- **Source:** shattered.io
+- **Published:** 2026-10-12T17:03:45+00:00
+
+## The Organ of Fríkirkjan in Reykjavík 100 years | Lára Bryndís Eggertsdóttir - The Reykjavík Grapevine
+
+- **URL:** https://news.google.com/rss/articles/CBMiowFBVV95cUxQaFNBa2szYVpSenN1ZC1PcDlvVTJwbUluQjJmV2NNb3NSQkt4alVZSmEwblRBaUoxcm5pcE9HLUNwNzZRSG56QU1mN2F1MF9fbXBkNHdFWHVKNUJMaktVZG1GYWZ1NUFfbDhoalY0eXpZdzdYbmZzcmc3OUlTakVpa2JhZS1ZME1waUJ6aHZNblVwRlhHVHZHZVhRTFlVb0NWSGxn?oc=5
+- **Source:** The Reykjavík Grapevine
+- **Published:** 2026-10-12T16:47:15+00:00
+
+## What to Do This Week | Pop-up Film Festival, Howie B and More Events - Iceland Review
+
+- **URL:** https://news.google.com/rss/articles/CBMiowFBVV95cUxPZWdubC1xTjRFek51UVRKcUNOY21tZVh5TDV0dXh0MjNWSDBqeTIxNzdtdjlEa1NCQ1hpcWthOS10VnR6eGtZeDdaSE1Rd3U4RkIyTm9BVU5Nc24zUVdjclFiOUJra0w2bnd3YU1VN3Z5TE03ajBjbnp4YzNjalRlTmFVUTRTOW9ma0s2LXFkb2ZkRWFlOG5xQTNPYzEtMnY3R1gw?oc=5
+- **Source:** Iceland Review
+- **Published:** 2026-10-12T15:40:51+00:00
+
+## I've traveled to over 100 countries on my own. I'd recommend these 5 destinations to first-time solo travelers. - Business Insider
+
+- **URL:** https://news.google.com/rss/articles/CBMirAFBVV95cUxQdVA1SmN6Zzh3X0FzNWcyclBncWxVZUFFQTM3V0lRSi1oMm10dEZ0X1kyM191QXVvWUtMVFYwYkZHWVVUdC1uSHo5MjlQLXBVZUFTZ2E4SkNWYXBiRmhhZFh2XzdGVktySTloNW90OHNPYjdncldGU3p0OUdENUJqYWxzVHpxSU9oRFpfMWVOOW53TVF3alpXbVRha2JNX2tqcG1zRG83Zk1fVHd6?oc=5
+- **Source:** Business Insider
+- **Published:** 2026-10-12T15:25:00+00:00
+
+## Calls for Icelandic fur farming ban escalate as damning new report shows country’s fur farming industry costs society 981 million ISK - Humane World for Animals
+
+- **URL:** https://news.google.com/rss/articles/CBMijwFBVV95cUxQSzNtS2dLcFRmY1ZvSTg3SER5NlFzRjM0bU41UE9QaFpxNzI5cFZUVjhmNm5MNklmeW1qQzJDa2taNTJJNy1hVkh3TTRLVEYxTFVGV0F2YUNONDVnNmNBUEVYeHZ1aThYbGJJb1MzUkxhX283NnpFVGYycW5qUnBKcGM0Y1huN3NJam1nNVk0RQ?oc=5
+- **Source:** Humane World for Animals
+- **Published:** 2026-10-12T15:16:38+00:00
+
+## KTBS Travel Club explores Gullfoss in Iceland - KTBS 3
+
+- **URL:** https://news.google.com/rss/articles/CBMixAFBVV95cUxQcXNEeVJlOFljN3RjWi02c2JJTHBDWmszaEVVX0hvNU1QOUNzSzN6WWU2TjB5Sk1rMG1CbERZVGJUdFp4enpoeXFvUjJwOWxYNGs4RzFSZGtfWi03Q1pfZzhOblNwVk1RdGQ2ZFBnU0JfQ3U1Y2hQRkxaTVVWb09ka2pKUnZZZ1hPeTRJd25aa3N3ZG94emoyNEtXNkc0Skdpb2M2QllSRFM3M0JRa0E2dkxidkNUYkpuRFB5MVduTG1vaHk3?oc=5
+- **Source:** KTBS 3
+- **Published:** 2026-10-12T14:15:00+00:00
+
+## Kolejne zgłoszenia o uszkodzonych samochodach - RÚV.is
+
+- **URL:** https://news.google.com/rss/articles/CBMilAFBVV95cUxQZl9nREw0ZUlRdEtLcWpLclhJOGtsN3FQYS1scmtIaUtTUl9fVGR1a2s5LVhESmg4a1IxQndTdXl5VHd0SmpySDJqckN3Y2k5Ullpb0YyNmMyMjBRaEgxOUUzandMclY5UmhFck5hR1hEWm45ZHMwcU8xSVl6V1JIMzVORjJ1VGZjckFHa21NLTAwMjNP?oc=5
+- **Source:** RÚV.is
+- **Published:** 2026-10-12T14:02:00+00:00
+
+## Ruling in favour of landowners - Iceland Monitor
+
+- **URL:** https://news.google.com/rss/articles/CBMiigFBVV95cUxPZ1B2d00zbnYtc2ZLRm8zNlRobG41MU10dlFKZW5xalMzYVpFcVpxcFAyM0x6ZFVqUlNZOUR1R3VTd3VDcEVvaXZteDdqSnY4TkpnUnlEQmtneEVZWXpadDNDSlFsNV9iSE9tbVdncktNZTgzbE05b04zV2lhdEJpUkZ1engzQkdZWGc?oc=5
+- **Source:** Iceland Monitor
+- **Published:** 2026-10-12T13:30:00+00:00
+
+## Preview | Moldova and Iceland to battle for 3rd Division honours in Maribor - European Athletics
+
+- **URL:** https://news.google.com/rss/articles/CBMitwFBVV95cUxPLWU5SzB5ZldaRllHME5TSXdqWmdRMjlvU2E1NUJldzVjMERjbW9pc3BJUmZiY1VvYXlwMXZjNExUNlc0RnRvanFiT1dnbktnR2NPQVprWnBOLWZEOTdmTFhycmRaZ2k5MERJWk1lcVFuVUFhbi12UlJhY1ZDN0hGY2xFdkdUZ1FnT2pCbjB1Si1kNE1mMndtQmZWelA2cTdoYk9DZzhZbDlPZXhfVnN0SlY2NXBRYWM?oc=5
+- **Source:** European Athletics
+- **Published:** 2026-10-12T13:25:43+00:00
+
+## National Dialogue Sparks Call for Annual Talks in Iceland - Iceland Review
+
+- **URL:** https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUURyN09lUEJKbG5IMmdLWkZrcVpfQjJKQzBoZkxXcnN4Zk9TWmtad2E4R1FuOTRwR0gtN3BKa3JfbHk0cnQ1WUN2MjJRaDdNQnZzTm9xWFpLelhiaXhFUFNkYXJSc1lVZzZLSVdicmtSZXRUM2xrdlJkYXNsUDAwSENiLVllRjY1TDNB?oc=5
+- **Source:** Iceland Review
+- **Published:** 2026-10-12T13:00:00+00:00
 
 ## Exceptionally deep low-pressure system could cause damage - Iceland Monitor
 
@@ -225,81 +303,3 @@ _Last updated: 2026-10-12T11:42:45.896578+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMipgFBVV95cUxOSWRBMlFCNkRlRXNZQ014YWN3OGFHei1PaGNDcDlMcWNDdVBwVnpxM0piRHdleGp3VUo0RVc1Y3BfWVFYNld3Z0phcGFMOGNub2UtOWxjTmRZMUFSUTh6RDgzeW1Sbi1iQWptbnQyOElzY2oxME4zRkx5aGZObzF2NnVSTVZBOEdoQmxtVVVid2tnYkdzaUVuQlQteHd4UTJQME5mYU9n?oc=5
 - **Source:** The Telegraph
 - **Published:** 2026-10-11T15:00:00+00:00
-
-## The Classicist- Who Remade Modern Literature - Hindudayashankar
-
-- **URL:** https://news.google.com/rss/articles/CBMiiwFBVV95cUxQaEdsMXlJQmhZM1lzVlFVdmtzUFRHSC1CdWl6T1RpNHlsZGVqNElVcTNWQ3I4Q0xReHZoUUpHTkVsTDZMR0VONnVoUjk2QlB1aUlINFlRUzkyTlo5TlZRRDFxamxRcHRzR0JRR0Y3dWxvSzluX1NWMDMzWXF4eTV0UDkzMVhLM2I0MjBV?oc=5
-- **Source:** Hindudayashankar
-- **Published:** 2026-10-11T14:46:00+00:00
-
-## First-ever indoor street food hall coming to Hitchin this month - The Comet
-
-- **URL:** https://news.google.com/rss/articles/CBMikAFBVV95cUxOSldIS0otLXRRLVZ2Q083V1N2WDBvYlRWeE15TERxSXJabmlDS1F6VFlMYW9QUktkY0RrLUNOSkUtamxZZEsyZEVRLWhHeWI5TGpBMmZVMmdWWkRLMkRCdlJxU3prRnpaUThyc2xDVm5HemRqSDJZc2NRUUZwbzk5VjdsTXFCLTRWVFNHWjRSQ08?oc=5
-- **Source:** The Comet
-- **Published:** 2026-10-11T14:42:47+00:00
-
-## Iceland confirms 30-minute change for UK supermarket shoppers from this week - Birmingham Live
-
-- **URL:** https://news.google.com/rss/articles/CBMimAFBVV95cUxQNFFScWY2bEpwcXEtNzZiU2FwZnM4OHpSbDVrakF6UkdJUHhqbmw4dmhGUFpiRElwaDY3LU1HcjZPcnRWZzdWTGxZS0UzVkFsaGQ4MUktX3dXV3dpSVJKU0JreTVhMWFIQWxubXlxYkhUVXJlSVhaSjJwZEwtcUo4ejZZNGZnYkJxbmc5ZDAzS3FQU2haZDZ4UdIBngFBVV95cUxOTzJzM2JISGptYmxDb2RYSTZhSnFtWEZjZ0lxMWx2LU93VDAtYnI4VXdoT0xZcm5oc3BsRTJkbW44UU5ncjkyX3BPUnVWUDFnbHhWWlNkeDRWS1gtTjdSOHc0X2Q4TXZmTXNhOFhRY01fTUk3aG1uVWp2bTdGc0dJaVlKWFZQc05tRW5FbDBJNEpwcjg1eFEwclNPaWRyQQ?oc=5
-- **Source:** Birmingham Live
-- **Published:** 2026-10-11T14:39:00+00:00
-
-## Women's Scores & Fixtures - BBC
-
-- **URL:** https://news.google.com/rss/articles/CBMiekFVX3lxTE83d2lYMXg4Z21JR01KWXZBRlFqQTVIeERPdDgwYTZfNEswR01yYkNaMFJoZ0gzRHpuekhzMm1qTG5Bc2xpZHR5S09ZSTN3UkJ0dW9icEp6bEY5M0tNODMxbXVmWG5NbW5UZDF4N0daVXM1MUl5cDRjNmZB?oc=5
-- **Source:** BBC
-- **Published:** 2026-10-11T14:17:57+00:00
-
-## Tourism and fishing drive Iceland’s strong economy today | Life - Kenora Miner & News
-
-- **URL:** https://news.google.com/rss/articles/CBMi4wFBVV95cUxNU0lPSlVRZVhRMmhrWjBIaDAxeDdRTjV2UHdtMW5VTWM3YWJCQzdrWEVKdlJNQVZOajRIU052V2kxY3NyN3dXLXdIZHZEdXRVanZYWEhOTW5VcXNmVGFfNTlrVjEwSVNwd1pyZW9SMW5GcGtLbTNvd19iQzN4eVMySXNod2RjLUt4dHBHelo5X3VNenhJb2tLMnNqdDlpMVJHODZJc3FZQmRXSldad2NSb0dCdzVjb3o5SElFN1dTblZneHJ2d29JREFMT0JFWnhzOTVjZE04NzhrQkl0X1piWHNNQQ?oc=5
-- **Source:** Kenora Miner & News
-- **Published:** 2026-10-11T12:30:00+00:00
-
-## Iceland makes huge new change at 200 UK supermarkets - Daily Express
-
-- **URL:** https://news.google.com/rss/articles/CBMihgFBVV95cUxNX243SVVIX184WmFkdHRXeGdkSXhWMlJVbThpWWJoMjhFVGFDcnNEODI4SHJTTmdleXNaNWlJSWV6Vm5GVzNiQVo5cmxnQWpkeXo3dU8ta2tuNDVCWXJpaFBnRnF2VUpPQjhFRzJKQzVMTkRkTDQwVk1DbEduRHEzSExTc0RhQdIBiwFBVV95cUxQdElrRnNwVWJCNmFKODVMRkRlOHBZQWxZRXpkSEZCa2RzWjhpSUhDbVh4ZkxLM3lJM3BqbU1PSXhUaHZXWllyR1VaVDBPbU9ObXc3M244aGtxUnNBLVFWUlNnU3B0RWxBOTc3TmFQN0JXMFFqZWRQNzduQnhsOEdhUDIzaWpPR2J2amhr?oc=5
-- **Source:** Daily Express
-- **Published:** 2026-10-11T11:33:00+00:00
-
-## Author Ragnar Jónasson takes on new role - Iceland Monitor
-
-- **URL:** https://news.google.com/rss/articles/CBMiqgFBVV95cUxOck5XYkJZSVlSaG5jLThSQmI4bjVSbzkyVDAyd1NwcXBJZlQ5NFZ5aTdMZ09YWTE0dWFJM2N5Y2JrQVJ1dnREUVVrZnBFaENYbVNrYmZOSzhBTGtOZFdKUllud0VrX1JDTXhwM3RTZFpkSEpja01WR0RFLXhrSFBraWVSUWpfVTh1UUNOQXNLcHBNWXJpM292Y2pGeWtBbm1OM3AtTTQ2OFp1Zw?oc=5
-- **Source:** Iceland Monitor
-- **Published:** 2026-10-11T11:22:00+00:00
-
-## State pensioners shopping at Iceland handed DWP boost for extra cash - Daily Express
-
-- **URL:** https://news.google.com/rss/articles/CBMinwFBVV95cUxPejd6b3Q1T2c3OTNKMXoxU2JIQmlrN2xURVFUOHR4ajZ2QWZCQkhWX1c5TmM3cENma3JuNUZFbjQ2YUlPVUtzZU5iVmw2Z1VXT0VhMVpnbG93LVUxMGM1UFZaVkpoclhMdlpOU2lBWTZfczJVTTZEOTBPQUM5MUZXNDNCTTZCZER5anUtVy1pR2tlRU01QXJMMjJCT3UwcnPSAaQBQVVfeXFMTzVKVW9ac1E0VDRrMlRyaWd2d1RKOTlPMjZ5ci1yd2M1NFpkT2dqRDktc3BFTTAtYXVjS3ZMWFBoQndkaUhqZjNrOEtEdnhZQk9CTXFneWRCN3E0bG9xYXhmUWFPTWJCNHdDY2FhRlZrQ2tzTHhyUGtyVG9INTloeW5RMzlxTWNlNzlFLTFjQlh6ek1KX0gwR0dORTdtZlR3R2x6QUE?oc=5
-- **Source:** Daily Express
-- **Published:** 2026-10-11T08:18:00+00:00
-
-## MoS Kirti Vardhan Singh plants sacred sapling under ‘Ek Ped Maa Ke Naam’ initiative in Iceland - The Tribune
-
-- **URL:** https://news.google.com/rss/articles/CBMi0gFBVV95cUxNNllqUVdBN2hqZ2s1elB1Y3g4NUNJeWN1d1o1RDg4am9oVGkzZ19pTzd6cXBVWFU5d0duTjQ0eDdfQlQ1QzZNVS1MNUluRXl4VXJlSkVKYnJuc1dnZFNCaUFOTTF6Z1dsd3ZPOXVqbmQxNGJBZG5kVWh3WDBEMV9VQkdvdDB0WFdvQ2J6VHVET19sbGxpMms0OVVNYUNJMzNuWWZzS3hhaG9KRW9OaGVWV3UtOXJlMXp2bzJFaXAwZG9kU21ZaHp5ZTB6OGd0V1hjZlHSAdIBQVVfeXFMTTZZalFXQTdoamdrNXpQdWN4ODVDSXljdXdaNUQ4OGpvaFRpM2dfaU83enFwVVhVOXdHbk40NHg3X0JUNUM2TVUtTDVJbkV5eFVyZUpFSmJybnNXZ2RTQmlBTk0xemdXbHd2Tzl1am5kMTRiQWRuZFVod1gwRDFfVUJHb3QwdFhXb0NielR1RE9fbGxsaTJrNDlVTWFDSTMzbllmc0t4YWhvSkVvTmhlVld1LTlyZTF6dm8yRWlwMGRvZFNtWWh6eWUwejhndFdYY2ZR?oc=5
-- **Source:** The Tribune
-- **Published:** 2026-10-11T08:10:56+00:00
-
-## ICELAND-REYKJAVIK-CHINA-FU YING-ARCTIC CIRCLE ASSEMBLY - Big News Network.com
-
-- **URL:** https://news.google.com/rss/articles/CBMiogFBVV95cUxONUEwWlBRTUFIR1I5VjRJRDF1Nmg3NXl5elMzQW9vWHV1clFyQzZKS1hkTGZfWHpDMjZQX1FzR2RIcnZhREhYOW9CWGtDZklwdzRCd3pGWjl5YklsamlibHctbzlZOEI4SDJFaVdueXpIcERKNWMySFpRQ3lNam43UUZwcHExZVFCaXQ4R0FuUms3U1h0REcwb3JNMXZ4V3pQRmc?oc=5
-- **Source:** Big News Network.com
-- **Published:** 2026-10-11T07:17:00+00:00
-
-## Yellow Weather Warning as Gales Approach South Iceland Tonight - Iceland Review
-
-- **URL:** https://news.google.com/rss/articles/CBMikgFBVV95cUxQS0hPWVhDR3U1dDFRaU84Q193VU56RmdQNTdpS0NCREpxVVdIRWF2TWN0Y1luOFJKY29MNjJwckFEcWZsd2E2M0xTeFdRT0FOT2Njcm4zemJkSmpBSkdCTktIeHRCdFVXNlI3QmRhYmRkUHFGLTFKR2sxTE9IRjVYRGc1Vm1fYjUwVC1zOV9JWFJYUQ?oc=5
-- **Source:** Iceland Review
-- **Published:** 2026-10-11T07:00:00+00:00
-
-## We had a posh Sunday roast box delivered to home, for £20 a head it was incredible - Manchester Evening News
-
-- **URL:** https://news.google.com/rss/articles/CBMirgFBVV95cUxOVXhxdU1FckJ4d252VnpUWFVlWFBUbzRxQ3dHaXEyT0hHalhTWlZFNkNMUW9jM3BvcXZ3aTdoOC1yX0Z2dVJINFRZTXd4NGZ6SnI3elVQSmhpamFzbVQ0dXJkdUhJbDg2SF92MXZoOXBsdTV4NE4tSFMzbzdXRHg2RmFJVlNFMmxRUHRUcVc3aGtxS0E3NzE2cXE3TFlHYUVOa3FJenkxdlhpTUwwb1HSAa4BQVVfeXFMTlV4cXVNRXJCeHdudlZ6VFhVZVhQVG80cUN3R2lxMk9IR2pYU1pWRTZDTFFvYzNwb3F2d2k3aDgtcl9GdnVSSDRUWU13eDRmekpyN3pVUEpoaWphc21UNHVyZHVISWw4NkhfdjF2aDlwbHU1eDROLUhTM283V0R4NkZhSVZTRTJsUVB0VHFXN2hrcUtBNzcxNnFxN0xZR2FFTmtxSXp5MXZYaU1MMG9R?oc=5
-- **Source:** Manchester Evening News
-- **Published:** 2026-10-11T06:15:00+00:00
-
-## Real challenge facing Arctic is climate change: former Chinese diplomat - 巴士的報
-
-- **URL:** https://news.google.com/rss/articles/CBMivwFBVV95cUxPaDFuZ1ZWWExzSU1OUEFFbHczQVNIMGhXX2VhTDl1OWtiMjNNMkxtXzFPd09feldfTDRucmFKWDJvcV9uUS1lcjgyeFFULVNxSzNrMEdjV0hfODA0NEs4bDlZTDhvZlBxR1l6MkFRZlg0YUhRUnpvZFhsUDBZZ3lHR2k3RTZnZnRTdWFjbFN3Q2phMG9aNWRLMlg2TTJfc25vb09wOHY0RG9EZ1Z3SG1PMXdjMzZrTmtTS0tIYjlrcw?oc=5
-- **Source:** 巴士的報
-- **Published:** 2026-10-11T05:44:00+00:00
