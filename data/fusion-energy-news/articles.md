@@ -1,8 +1,158 @@
 # NewsWatch — fusion energy News
 
-_Last updated: 2026-10-12T01:03:46.499189+00:00 · 50 articles_
+_Last updated: 2026-10-12T11:42:46.273890+00:00 · 50 articles_
 
 ---
+
+## US awards $159m to 12 super intelligence research projects - Innovation News Network
+
+- **URL:** https://news.google.com/rss/articles/CBMipAFBVV95cUxOcUxmWk9nZHpqQ0QwSVJHRG5vZ3cyYmNJQUlIeDFkd2l6YVRURmo4QlBjYk0tNml5bEY5dkdqX01DRHY0V0lzTS1PUVhwVnYyMHgtLXYtN0o2elFBSDVHMV9rTUZMT3ZUMUZvZ0tFM0p4M18wN3diSmFUdmNKLTBaWHIzby0tYW9qRVRHS0RUME03WS0xRWpDZmJlazV6ME5PSG9lcw?oc=5
+- **Source:** Innovation News Network
+- **Published:** 2026-10-12T10:17:47+00:00
+
+## Tuxera launches Fusion NFS to help storage and cloud providers speed service deployment - New Electronics
+
+- **URL:** https://news.google.com/rss/articles/CBMizgFBVV95cUxPQ0xraFozdnoxVHd3QnhxUVdRd2xoNm11SGJDc2wyUlpzVGdBY3hIZlR1M0RYLWk1TkJ5dllLbXdXNHJqem12d0RjT0hJSnRNNk15bnY4ZlRteThybV9FcURIckJnYUxvanVOX04wZjNFU0h6cU9FTWtBa0pQTXpzdmE0UG5NVFJ4U19MRVhrUFFsQTM4NzlKN2ZEM0MtUHpVaWt3YmZQei1oSV9CWUx0ZnZPQVFxeWRSVFo1WWVUQWRzR3luRmlqbzZxZklXZw?oc=5
+- **Source:** New Electronics
+- **Published:** 2026-10-12T10:04:29+00:00
+
+## Here are the threats that remain from storm Rachel and the weather whiplash that comes next - Los Angeles Times
+
+- **URL:** https://news.google.com/rss/articles/CBMisgFBVV95cUxQNWZrZ2c4TG5RZEJUemVmQWc2OTZjc3dwVnM2aW5LcnpROWNjaERURzRRX0FpTThGMEVhRDNrLWRFWnR4N2hvd0dKeTdWMWtNeTl2R21YUHBkVzJaLXVYdW1Lb21KeWJpWjFEMFN6RUozUjAzWTBBWDJxSXBoejVsd3lOaFYwa3Ztb3pnM1plM21wNHBtM1BQNU8tVUN3QU9mR3RteHpDcm96VTYzc3ZjaGVn?oc=5
+- **Source:** Los Angeles Times
+- **Published:** 2026-10-12T10:00:00+00:00
+
+## UK-Germany tech corridor set to drive investment and innovation - Machinery Market
+
+- **URL:** https://news.google.com/rss/articles/CBMirgFBVV95cUxOTGlUMjVwTmZMOFdDTDFGaU9IcElWX3hCQXRaeEhiNVNsaUt2VmJHT290ZkRJMDVld2VrWUxEVERGZGV2OE11TlVrcHRKTVNUdmlidG9ic3lWTWZwbmQzMzdURnhvVHRONC1GR055UEFsMW03TlI4RWI5Snpkbk5PTG8xTmotdUttam1Za2JrUV9tdEtxbFBBeC1oMi1WdlY1RnA1SjEzUV84VDQyZXc?oc=5
+- **Source:** Machinery Market
+- **Published:** 2026-10-12T09:32:31+00:00
+
+## Nucor guides Q3 earnings as analysts target Nucor stock at USD 276.07 - ad-hoc-news.de
+
+- **URL:** https://news.google.com/rss/articles/CBMizAFBVV95cUxOWm9CRUZFT09aNkpVV3VxWGY5U1BPMjg5VnI5WTVSSEdGaWptWk5wRnljeENCbnZFclVFOE15YnJtZlduazVwYUFZS2RUTVJaVjlmdF9RUzF0TWlLSE5td21hSkVGbU5ZVUN5ZE5XcDB4T2VWN0ZHSF9WQnp6SjVoOUQtV20zRFBpai1NdjNpR2tyYTNrU1FmcXB6UWFvdlhxMnZiUlk0WnRZVjJMaFJFRlhBcHJ4NG9JYVZ2ZGR4S0Y4Q09QckFiRk1kTWE?oc=5
+- **Source:** ad-hoc-news.de
+- **Published:** 2026-10-12T09:06:54+00:00
+
+## Eni signs two agreements for the sale of stakes in selected upstream assets in Indonesia - euro petrole
+
+- **URL:** https://news.google.com/rss/articles/CBMixgFBVV95cUxQNU1DYjRRaXhvaW9zdlZvX2xaTXc0NDk3VDh6a0xIVVRhNFNRTkZHTjZzQzlSZmhINWJUdlZhQkp2aWkxa2JrckZHYmpSWThFWlB1MVY0MGZCSkUyV0t1THdfdEVSNzBSVDBCNUpwUjU4YVpwdFRFN2FwNldJTjBLVzRLTDlCZVVXaGN2UWFUY2pVNmdkT3A3dEJabXJNVmltVzk4enpSQmhwc3ZLbzlHMXRDMlpDaG8xT0pFYlUxMFRvODZLQWc?oc=5
+- **Source:** euro petrole
+- **Published:** 2026-10-12T08:34:55+00:00
+
+## Volkswagen Q3 Deliveries Fall 14.3% as China Sales Drop - Daily Beirut
+
+- **URL:** https://news.google.com/rss/articles/CBMinwFBVV95cUxQR0RzUDZNSkZlRGNxeWlRR2JKLXZlMjJSdGstNlptbE56ZkxVWWVJcmtXVy1OQjZfYXFrNWlOcTJsN0YxWkdZMzJobUZhSXM4U0p0X1J2OFg0U0hJWXhhSkw5M1ZjX24yTDB3OEM4ZndVUWMzQmFfNTlZcXAwcnc0SW1TV0NnM0pTYmh4b09Bajd2ZERWYzg4SThONEFwX3c?oc=5
+- **Source:** Daily Beirut
+- **Published:** 2026-10-12T08:25:20+00:00
+
+## Best photos of October 12: Storm in California to nuclear fusion in Oxfordshire - The National
+
+- **URL:** https://news.google.com/rss/articles/CBMixgFBVV95cUxNbFNnQXBPX3B3Z0FlSGc2M1piN3BmS250TURWMnBBQWVjaHdlOThGOW9wa2s4Rk1HemNkQ3JrZkctNTRFQl9sWWQwb0pVZjR6ZENkdldDckxDeXhuNHotRkRab1VlSTE0c2Z4M29VcG8zdjlyb1R1ZkZnOGZ0ODhSb1lfMHpmRkhQRFpiZnBhaElPV0owZkRTZkgxakhuZG1hcjhvaktES1Z4eUNXSzYxWkdxX2pxN2lUVXJRZEhvcHZJeDk0NlE?oc=5
+- **Source:** The National
+- **Published:** 2026-10-12T08:21:32+00:00
+
+## Why artificial intelligence must be stopped now - www.resilience.org
+
+- **URL:** https://news.google.com/rss/articles/CBMimgFBVV95cUxPOWtMOGg4WjR3ajduc1lqR1RqR0ZVZlRCRlZEa1NzeGdQOHpGXzF3bTQwRW1DVHRVWHFCeUtDdEJvLUhhNjdINFdzcW05MWduX3EzdDlvSDlGajJjT1lHSmVkelVIa1BBWThjVDVSeVM4UkdkYTE3dGZ1NXFJQnhObUd4Wjk2d0M0aEEwNm53eTNJNDMzT0ZfVFRB?oc=5
+- **Source:** www.resilience.org
+- **Published:** 2026-10-12T08:03:29+00:00
+
+## CATL's Capital Play: Eerie Parallels to NVIDIA's Strategic Moves - 36 Kr
+
+- **URL:** https://news.google.com/rss/articles/CBMiU0FVX3lxTE00dUpKdTJreGRvSUVObS1uQWMza3B4SlktR0QwdTgwNTYzazBCNVh2aHNlWndwWGU5ZGI2N0ktU09RWlpyZ1JHZTM2THU2U0E4d1Vj?oc=5
+- **Source:** 36 Kr
+- **Published:** 2026-10-12T07:24:19+00:00
+
+## Upcoming IPOs In October 2026: Jio Platforms, Zetwerk, Avaada Electro And Many More - ETV Bharat
+
+- **URL:** https://news.google.com/rss/articles/CBMizgFBVV95cUxOczZncEQ1QjVsVXNhU29DRFdvSHRsdDA5cXZBVHVIS1Y1TFNkRXppMWpOVVhDXzMxZ1ZsSUlhOXdDdklhSXdybGQ5Nk04XzFwVmVFSXpmOUxTZFdPSlJvV1BIam9YeHo5WnB1Tm11cjRlS05YdlJLc1VGVHBtQWJKX3JMVGcxTm10cDFkQ2JIMi1wRElVWjk1VV9VRHFJaEhzTUpxTS1qamdtTmlOYkRQZFk5cEYxZ2oySEtQdkVINUd1eUFXdXpzQWp4U3J4QQ?oc=5
+- **Source:** ETV Bharat
+- **Published:** 2026-10-12T07:06:41+00:00
+
+## JA Solar bolsters storage range with hybrid and commercial units - pv Europe
+
+- **URL:** https://news.google.com/rss/articles/CBMingFBVV95cUxNU1g0c3MzeXJ0ZkxzWFh4YWNKZ2JldDg0ZXUxVGVmc0VBSTdJU3UzdXd3LWh3VTQtR2N5cG80b3dUV2J6SkMzRDF5SDhWQ3hWUVUyNWc0TERQbXJJS3o0MjFtREVuUXgwUC1zbWdrX1VRcEgzUnZKdGJaMmtKSU1CZTlYWWNyU3lBRDZGWXUzN0RxT1EwcjZ4cWpWMTIyZw?oc=5
+- **Source:** pv Europe
+- **Published:** 2026-10-12T07:00:06+00:00
+
+## Singapore’s low-carbon electricity 2035 target is ‘aspirational’: EMA - The Business Times
+
+- **URL:** https://news.google.com/rss/articles/CBMioAFBVV95cUxNRDVxZlA0Rk9TRjJmeElFb2Q1VGMyb1FZWk9EWExqUU52Z285OXJlMkRzcjRaNUlVOXJ2Y0lxdFRpN3ZUX0x5YTNPMzNfU0ZqVHRqenNaZTRqVHI5TFZhb3FnWjVvWmN5NXpFVFpMMC1ZcVI1QkJGY1BaTTUwYThpWXdOZzQzOEVLZ001ZGNyaDJIZXk0Nkg2SHAwMnpCSWZR?oc=5
+- **Source:** The Business Times
+- **Published:** 2026-10-12T06:59:00+00:00
+
+## PPPL Data, Simulation Codes and Compute Power Will Be Used in Phase Ii Genesis Mission Project to Build Digital Twin of Fusion Energy System - Newswise
+
+- **URL:** https://news.google.com/rss/articles/CBMihgJBVV95cUxNVmhqMDVqQ1NoSUIwbFBvUGpJZ2YySjRRS3dyVlo0Qm45WXFSUi1WVzNDdW9ETDAtbVl5S09MZG5WS0ZoZXZQa3pLSTkyci1nYU1LYXlhMFM0VjlaZGhseFVxSmNKUEFJOWotZ21rYmV6a2ZPd0diSm5VbUNJX1RxUHhIQXpGallBT1Vqbk1KUmpVcHlMdWdGWC1yRkRtdl9PMEs4R1hGVUlhNFB5ZV9HT2hRa3lRYUdUdDZNWkhvaTJqaEd6Zm1uZVdkMDJKRGk2ZmV6dkd6MFc5aGp3Nm5jRlR6cWoydVJuanlZQk5ORFVvY1F1SmhqVk5BdFRCaGRtQkZ2ZE5B0gGGAkFVX3lxTE1WaGowNWpDU2hJQjBsUG9QaklnZjJKNFFLd3JWWjRCbjlZcVJSLVZXM0N1b0RMMC1tWXlLT0xkblZLRmhldlBrektJOTJyLWdhTUtheWEwUzRWOVpkaGx4VXFKY0pQQUk5ai1nbWtiZXprZk93R2JKblVtQ0lfVHFQeEhBekZqWUFPVWpuTUpSalVweUx1Z0ZYLXJGRG12X08wSzhHWEZVSWE0UHllX0dPaFFreVFhR1R0Nk1aSG9pMmpoR3pmbW5lV2QwMkpEaTZmZXp2R3owVzloanc2bmNGVHpxajJ1Um5qeVlCTk5EVW9jUXVKaGpWTkF0VEJoZG1CRnZkTkE?oc=5
+- **Source:** Newswise
+- **Published:** 2026-10-12T06:15:00+00:00
+
+## International Workshop Strengthens PPPL’s Plasma Physics Leadership - Newswise
+
+- **URL:** https://news.google.com/rss/articles/CBMivwFBVV95cUxPaUtGRjctQldMcUJ2NTM2TVo0U3JtVUlKUU9kQl9ycU9FZUxLSkpzRGJVR2Z5YURtbEtBT3JONlpxWktKS0h2SjI0aEFPM000YWRtUkI4dl9kdjlZUzMwSUVibVlFNV93TnZidlFwMl8tUVUwMnpfcldHTWNWd3BkYXRuU3Q5LUdfYkJZRU9nOXVtaGFTUXdXSThMREFIVjhSUGJSSW9CMExTR2JDTFdtM1pvd0ZNZ1ZTTWVXaVM3a9IBvwFBVV95cUxPaUtGRjctQldMcUJ2NTM2TVo0U3JtVUlKUU9kQl9ycU9FZUxLSkpzRGJVR2Z5YURtbEtBT3JONlpxWktKS0h2SjI0aEFPM000YWRtUkI4dl9kdjlZUzMwSUVibVlFNV93TnZidlFwMl8tUVUwMnpfcldHTWNWd3BkYXRuU3Q5LUdfYkJZRU9nOXVtaGFTUXdXSThMREFIVjhSUGJSSW9CMExTR2JDTFdtM1pvd0ZNZ1ZTTWVXaVM3aw?oc=5
+- **Source:** Newswise
+- **Published:** 2026-10-12T06:10:00+00:00
+
+## OpenStar Technologies and PPPL are building partnership to advance fusion energy - Newswise
+
+- **URL:** https://news.google.com/rss/articles/CBMitAFBVV95cUxNM2FsbUlhUjBibXhxZ3N5QjlVN2p6S0FMeHRMZTlBel9lMkgwY21lRU9ROHBYNFh6cTg1QUtMSlZjbFFfZm5vN2l3N25GTy0tRFJtSjlHLUwxcTlNRFFidHFxMGJjWXdXMUN0djFpNmQ0bEZHeDRwVWhuZ3BGTjd6eWRIa3c4TV9odmdWUVpNNUNpNDhoVC1xWWtqZU1TMk5qOGhVVUI5TnV4M29SQXZFOGhuVVnSAbQBQVVfeXFMTTNhbG1JYVIwYm14cWdzeUI5VTdqektBTHh0TGU5QXpfZTJIMGNtZUVPUThwWDRYenE4NUFLTEpWY2xRX2ZubzdpdzduRk8tLURSbUo5Ry1MMXE5TURRYnRxcTBiY1l3VzFDdHYxaTZkNGxGR3g0cFVobmdwRk43enlkSGt3OE1faHZnVlFaTTVDaTQ4aFQtcVlramVNUzJOajhoVVVCOU51eDNvUkF2RThoblVZ?oc=5
+- **Source:** Newswise
+- **Published:** 2026-10-12T06:00:00+00:00
+
+## Copper Alloy Withstands Extreme Heat Thanks to Self-Forming Oxide Shield - Bioengineer.org
+
+- **URL:** https://news.google.com/rss/articles/CBMingFBVV95cUxNZzNtczhkYTZJYkYxM2RTTDdKcWlXWDlsOHNVNFI2Y1JBQ2hjNkVLZnRXVG1PbFZNLWJSVmNqbXBNLWZ2V0ZOTVVhdjVIWXpNU1p6eVdkSThtdlQwcUFLMUlaUzZTSHYzMUVqMmVNN3dsckltTm5hS0gtVWFjckNtNVo2V281MTcyY1pXNlB5alhRN2d0Tm5RcGZoX2FCdw?oc=5
+- **Source:** Bioengineer.org
+- **Published:** 2026-10-12T05:08:24+00:00
+
+## Residents allowed back home as crews beat back the Bike fire in Santa Clarita - Los Angeles Times
+
+- **URL:** https://news.google.com/rss/articles/CBMisAFBVV95cUxOMDFTMnJham1ENmFfaFRnYTdFeXBaVnNaZ0dubnIzekJxNC0yZ3JpVkRia3JFNzJGeUJqaFVKcktNSlVfdl82SDI3YVY4eWo5d3dhOUZEUktnVElPR0JDQWRyd1lybVZoenk3R2Q5c3YwMy1kLUVNUzlFeDdza2xTa0lfdnFyQlQySnI0UGhqWm04R3FsbnR6NUhXZ1FpMFN4Y3dkSlVsMklKZ3FwN2JzYQ?oc=5
+- **Source:** Los Angeles Times
+- **Published:** 2026-10-12T04:42:46+00:00
+
+## Stock Market Today | Share Market News | Sensex Today | BSE/NSE Live - NDTV Profit
+
+- **URL:** https://news.google.com/rss/articles/CBMi1gFBVV95cUxOb2xZYzktV2IxRkNqZ09JX0FXMmx2dTBPRmtHQ3R5NXpaTHQ3ZEhPU3NTMnd3VzY2TDAtWkRzWTEtYVRxWnBxZS1QbWRtVnpvbDlVaUhPcVRKbWhaeUFqYy1rZWh1RnVGaXhEMWxBeW9kSVJLUDYzSTE2MUk2MUY3dm1xMkkwNmdjb0NPaDIycGFzeUhRVzZwc3JMTUs3bHhQa0NEN1hQcHlMaU5tRWl0Wm5ySzBqMmNNY3YtZ1UwZ3p5d21LNDJnR0ZiODRNV282RVRWX2ZR?oc=5
+- **Source:** NDTV Profit
+- **Published:** 2026-10-12T04:32:50+00:00
+
+## Are high-power laser diodes ready to power inertial fusion energy? - Laser Focus World
+
+- **URL:** https://news.google.com/rss/articles/CBMi7gFBVV95cUxNNTY0LXJQUWZ6bS1qUjhCdkprLVp1ek5BcmVnYjYwME1oUm9Ib2dSb1lsZDcxSGNoazFfbzZhRFRDRlgwUk1CSndtRENsTk82R0JzaWVUTVVXd293V1ZnQWN4a0J4dkd6QW8zczYxTDB3alNWamNTZFBfRTQ3N0VBYkg0RmRDbmpxTmNXSy1QWldyWjRPblU3TnU0S2l6eU92bXlWa1BTUUVxdEJIQk9WSVdMdnlVRm54cGdQOEVFcmdrRV8wNHRaRHRIM0xFaWV2S2Z1V2lHbzRjNVpueDVrMzJvTkVoUXFwc3RVdTdR?oc=5
+- **Source:** Laser Focus World
+- **Published:** 2026-10-12T04:02:15+00:00
+
+## From Jio Platforms to Zetwerk, a dozen companies set to launch IPOs in October - Check full details - India TV News
+
+- **URL:** https://news.google.com/rss/articles/CBMi8gFBVV95cUxQZUFIZ0lleFJ4UnhETUtJMnExUXZCZVRVTmtjVjNIX0FCd0xQeFU0bDF4MWNiRFVCdnJtYS14b3I2MzMxaDVpQ0Q1bk9wZXRmODFLS0tNVW5pc2YxNmRlcnVqOVZmMFlCTDdVSEdEQTl6eFBNTGZzUEI1dWY4bE1ZYzM0azRaUUc3Rm0weG5JdDhEeHRpTG5HbUo0YktrUmc1dEcyUFJuSWNOS3hGQ2R0ZkVOdWVHNlE4UVZSNTZ5QjhlRHpYbmJtQWJNSTF2TVJ0QVl6VW1PYUU3LXkyeElXZDVQOUJlTkM1WGdmWnFsS2ZLZ9IB9wFBVV95cUxORTBzeDNwQTRnUzhETFRFbWNVMEVIQV9DeG9MWDdzYTFFa2tDaUc5OGU4NW5wWHVCLWx4bTRpWlFuNXB2UVpsWWM1UHNjdHE2aVppbE5KbHFUbEVYOTUwRmFVdlFGaExpekl0TWdFSjBZMExrbUtHaWlHU1pXak9rQTdLeF96by1DZWc5bFZPZmRZWVpIa2J3b3lmbjhrTGpoU2ViT29aV1Zmd0dEQ0l6V2NUcUdzM2xZSW13R3BXZUU4RVcyM2FCcHhmZ01Ja24wY1d1U1g4RHFQUndCcHdzaThJNTUxQURxbnM1YkVoT3BOVkpVcTQ0?oc=5
+- **Source:** India TV News
+- **Published:** 2026-10-12T03:18:15+00:00
+
+## Inside Iron Man’s Arc Reactor: Detailed 3D Breakdown of Marvel’s Iconic Prop - freeyork
+
+- **URL:** https://news.google.com/rss/articles/CBMigwFBVV95cUxQNnJrczlFYW92bV9zUXNWZENodm5XZnhyLTlnRTdZTVFvNEFXRjZJdGxEMkhNZ2NIaTBMam1XSzJ4aUtWR0thV2dEOU5OdUotNjJFbmJVX2c5WUxmWGk3UzJZeGFfMW5jWnhwc3hvNExtenlqUmhHVTJ2UkFUai10blktWQ?oc=5
+- **Source:** freeyork
+- **Published:** 2026-10-12T02:51:50+00:00
+
+## Nvidia to invest $1 billion over five years in quantum computing and U.S. science - 디지털투데이
+
+- **URL:** https://news.google.com/rss/articles/CBMiwgFBVV95cUxNSDdGc2lLSXN0aWZOMF82dzE1amVjSlJVSnhmNHpNNUYxZEZYd1BlSWdnTnhxWGZhOUhPdnJCV3JqSzZoblk5MW5mTkZ0MUdjclUyRG5SYUQwa0tIbTB2QUF0MEZVVFlPY3JZbnBPbkh2NkVSSGoyT0FDbTh2ZENrdzZEcF9STy1wSE9BM2oybm5YUnNkUEJwc29DN1Ewd0tXdXJGRVhZZFpsRUp3Z2NxUHItTFl3NXBDdlhhNHpTbXA0Zw?oc=5
+- **Source:** 디지털투데이
+- **Published:** 2026-10-12T02:28:53+00:00
+
+## 2 children fatally shot reportedly in broad daylight in attempted murder-suicide in Pico-Union - Los Angeles Times
+
+- **URL:** https://news.google.com/rss/articles/CBMisAFBVV95cUxPSkhDZDRmSjNNUEd2eGNpbXN4YWNFOWJtZ0lFYzhNNVJOZllBSTFyYUJGejNIdk1PZXQ3N0NnSDEzcXRxRXNIRHhGSEtiS3pUUDhLNS1ZalRwTjlvaTVQbm9TeHgyV0hZZ2tvMGtmYW9TNXVCWGZoelFpZWpfUFVRd0V2c3NGTGI1VXJQb25qVTYtVWZsV3oyMTZQYjBOQ3JmeS1rT3daMDBPa0tlMVhMNg?oc=5
+- **Source:** Los Angeles Times
+- **Published:** 2026-10-12T02:26:00+00:00
+
+## GF To Expand German Fab, Rolls Out Next-Gen FD-SOI - Semiecosystem
+
+- **URL:** https://news.google.com/rss/articles/CBMid0FVX3lxTE9MSmJxZTZ4NXRZSTg5eFl0TFRUS254M0R2c1BWeFZNaHJPV1U4eXlkZ3dnMGpkaTFzQm1NOW05TlpOMkd4MFpFNDl1aUF3Q0JDUDJYSWdsaXAwcFlRaEY5T3dSSU1mYlhrUk1iQjFITmFMcHZHeWJn?oc=5
+- **Source:** Semiecosystem
+- **Published:** 2026-10-12T01:57:01+00:00
 
 ## IPO rush: Jio Platforms among dozen cos set to tap primary market in Oct - MillenniumPost
 
@@ -153,153 +303,3 @@ _Last updated: 2026-10-12T01:03:46.499189+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMinwFBVV95cUxNdm5HWDYzN3V1VnRwM2Ixd0RVTWFJUUlrd3lzcWVXT2VZTXhFTFI2Z0ZWWFRTNUVVZWNpWmhHMG5BOHlYTDJ0RlZjRVJ6czJaMWYxUnhpcHR5QzQ2ZU95M29CZDZPQ0tEcW1EM3J1LVh6bmVFX2d3T1N0Q3B3WE5ZY2tSbzVCT0pfYXNFaGVMX2J0QjJzNnNIU0VuSkd1M00?oc=5
 - **Source:** SSBCrack
 - **Published:** 2026-10-10T19:28:12+00:00
-
-## PPPL proposes heating plasma before compression for fusion ignition - UA.NEWS
-
-- **URL:** https://news.google.com/rss/articles/CBMipgFBVV95cUxOS0NpdTlaQmY0TVN5aUFkeC1SdFNwVFByOUZQYm8xc0ttMXhrNTd5T1ZxYThlMzZyRmZZWmpVN1pLV1lPNkcwVTVwSmxMNUtUNEQxUzg5SGljNWl5VkJpdHdsSER4bnVHeG9Tbm9DQ293REF0R0xuTkhqeGJOTlc3ZmNMRVdXLWZRZzliYlNSSWVJSW1zOFp1S2gzNXl6ZTRBTXl0YzJ3?oc=5
-- **Source:** UA.NEWS
-- **Published:** 2026-10-10T19:17:04+00:00
-
-## New to The Street Show 775 Premieres Tonight on Bloomberg Television Across the United States, Latin America, MENA and Southeast Asia, Featuring American Fusion, HPB, T-REX Acquisition Corp. and SyncMeOn - News-Press NOW
-
-- **URL:** https://news.google.com/rss/articles/CBMilAJBVV95cUxPWUlkQmlsak5HU3NuY2RRc0xjUXdNRHhLdjZNQTdqcVQ4RURNVlZMZWhfVXlCWUFRVDJhS3BKbHZGYmsxUmtoX1g5QjVWal85eEo0LV9JZmhYc1hDeTZjaVg1cmV2Ui1tOWx6RzItNUwtUWFiZER4cHgwQTU0ck5UMGpqOFVUM0VTOF9NMl9oVkhQYXE4cV9GZ1d6cW9HYlllaVl1a2JOYjdGQXluLUQyZDBtOTI2ZEZBQ1lla29QS1lNdnVlVThST09oX0l2QUlfcEIzeE5WTGhQMHFCQlVFM0RFU2RiMGdsOUJuWUdZLXlXUXk4dTZNY2l6SV84bEtRQVNScUtPNDZvckRTbWhGaUpaN3Q?oc=5
-- **Source:** News-Press NOW
-- **Published:** 2026-10-10T14:56:55+00:00
-
-## New to The Street Show 775 Premieres Tonight on Bloomberg Television Across the United States, Latin America, MENA and Southeast Asia, Featuring American Fusion, HPB, T-REX Acquisition Corp. and SyncMeOn - The Joplin Globe
-
-- **URL:** https://news.google.com/rss/articles/CBMiigJBVV95cUxPYV91RVExMnpJN3RtcVZ5T3BUbFFoU09QZV83NkZQMmVPbkQ3SFhxd0h2WU9HU25ob3kwaGJvOEluZlRjRF9wS2JQbVVEcmVFOFllMENrWnN0NlMtZXV6cjJMNmIzSDlrRm9FdGpueHdmZXg1TjNZM1J1NmdTRVNja0ROMGt3WEZ3b3Z6VXNVQ1VCOVA2VjhsU0hLMWp3QmNocVBMbUNFZlpCenBvWl92Y3dxQkhBT25nZ09CTlM3RHktV3JQQ2dfZHlGc1h4U2dicWRiMklWV2hmWFpHeUVTeGhOWkdlLXEweVYyOTFyU1I3andnNWxkSUQ4dGstV2FJeDd1eVQxR0RRUQ?oc=5
-- **Source:** The Joplin Globe
-- **Published:** 2026-10-10T14:56:55+00:00
-
-## China's Top-Level Policy Document First Mentions Risk-Sharing Mechanism, Embodied Intelligence Industry Moves Past "Backflip" Narrative - BigGo Finance
-
-- **URL:** https://news.google.com/rss/articles/CBMidkFVX3lxTFBIV3JNU2lYLUZRU0hHNzlyRnZaeEdDWU1nTVhpNlZVZWp3Q1NBWDNtTW1oQXBzN3dlRHk4SElBSmhLZXhyWlpDM3FfRG1QM3pVMWdFVUkweXNNTHEzZ0g5dlJEMTc4dm50NUI0cHlRb2diT1VQRWc?oc=5
-- **Source:** BigGo Finance
-- **Published:** 2026-10-10T11:05:00+00:00
-
-## Reeti Arneja’s Shaava reimagines Punjabi wedding fashion with folk craft - Indulge Express
-
-- **URL:** https://news.google.com/rss/articles/CBMizwFBVV95cUxNVlh6RzBPazZMdHk1TGZzNGtNLUZlVmZ5UTlRRjM3ZWo5ZHBzLXR5NjI5SWRUSmNJZmxheU1mc2FJTk0xMjY5Ynh1ZkhzMjJfQ0Y4ME1nN0FRdmVnWVBKZk1MVnZlVFk3cnQtb0dxWkZJd1MwaTEyZTlLeW5GNmUzbnpuX1N6Z0NyYzY4MUc1WHlNbUp5bGtjYmVMNDhVVThZbE9HTWR6akhPbE0zMEh5NEpLNi1EdzZjdFh4ZjUtbWVaaUVqTEp1cnR6MHo2SFnSAdwBQVVfeXFMUHFjclcyaXAxaHlqcFpxVzA4MU5LZXBhemxWRldSbzVmNjR4eXNqNkZ0Z1lTajJGalJtZEdVOE1sSnA2d0I2dWh6UmZpekk3TmozSFVMOE91dDdjT0p4Ml9xZ0VkUzdnckpYWmlKXzk1MHFGY21Nc294a2FRWFNHY3ZmUGRwYWtfeVA0b3NrZDljMS1vQUphdTBTelh2aFM3SWpoeDVlMldLdHk2OFhnVHBVNGUyS1A3RW1Jd2ZfMEctbHFDNUxFQXcxNVBjcGFXV3JVTkpqZ0hLUXFDMw?oc=5
-- **Source:** Indulge Express
-- **Published:** 2026-10-10T10:32:32+00:00
-
-## Fujikura stock spans EUR 3.02 between weekly high and low - AD HOC NEWS
-
-- **URL:** https://news.google.com/rss/articles/CBMivAFBVV95cUxPNnBDTVZOSW5YalRjRUZRRlA4eHJjMjljQ3FRVXJPYjZ4MW9wS2hJanBUYmJ2RjRIYi1ueHR4MTBvbXptRXBhVE1DWTlxV1dPZXRBbjlxTGd5YVFoeDV0QXA4clJadm5MY1BBNFBUdWszcUVyeUhRUE1tbC1FT0N4UVdRSnNHU0ZnSERFR2hQeUVTZWtUWmRad1h2RzY4WHR4R1VQRTN1bnNibTNzVkd1alhSSEZjblBsSHBadA?oc=5
-- **Source:** AD HOC NEWS
-- **Published:** 2026-10-10T08:46:59+00:00
-
-## STEP Fusion strengthens leadership team - Bdaily
-
-- **URL:** https://news.google.com/rss/articles/CBMijAFBVV95cUxOQjhpMzZtaEROdWthc3dkZ29Dam1qUElmQWNrMU5OZVRvVnNjdXcxbUdSeTdkbEJyMFg3ekFrc2R1MVVVV2gzSkgwWi1Gd1NkWjNPbUxrZk03eGRLOWlnTkNiX0o1WDRTM1QwSmZtQXQ5ckpjYnVhaHllY0h4Ti1hTjQ0bG80cWt6eG91VQ?oc=5
-- **Source:** Bdaily
-- **Published:** 2026-10-10T08:03:12+00:00
-
-## Fusion CX IPO GMP, Grey Market Premium Today - IPO Watch
-
-- **URL:** https://news.google.com/rss/articles/CBMiakFVX3lxTE9mOEt4WmduUHJzX3dQUWViTzYwclF1M3FudE9uNkZqbTdUMFdRZi1zMGVYYmZJY0pab3hpbTI5N3g2a1FidXNNVXBjWHNqSDNoekxRbUp6Q2d1LWJRaGhFMC00Nzl3S0FYa2c?oc=5
-- **Source:** IPO Watch
-- **Published:** 2026-10-10T06:15:19+00:00
-
-## Scientists Develop First Nuclear Clocks - Chitral Today
-
-- **URL:** https://news.google.com/rss/articles/CBMiggFBVV95cUxObkVVQi1tZENjcXhwdmxSWmZWdjR5VWlNSHJVcE0zX1VoSWZUb1d5OVEyVnlEeFRLSmpLamFBZ2E2RTBybVJDTy1ncTRqY0dfdHZmeTJ0SEM4VjBzc3gwNzdkU0hVTDNfU00xVHJocVZDb1dhSU9yRzhaYkRvWmFfSEhR?oc=5
-- **Source:** Chitral Today
-- **Published:** 2026-10-10T06:01:46+00:00
-
-## General Fusion's LM26 Reaches 1 keV Electron Temperature by Compressing Plasma With Metal - XenoSpectrum
-
-- **URL:** https://news.google.com/rss/articles/CBMic0FVX3lxTE5uMXhfVlItOVRkUmcyUXgzZEk2eGl0SE1TNE1xdWRfOEtEajRxYWp6NkMyWldVVG5VOFg4SnF4NGtndTFoc19IMVdENGgtXzVtb0Q4R0Q5VnJ0ZDZlczJTeHptVU5lX2VCX1JxZkpFTHFseDA?oc=5
-- **Source:** XenoSpectrum
-- **Published:** 2026-10-10T03:12:39+00:00
-
-## Hyce – Everything I Want - Six9ja
-
-- **URL:** https://news.google.com/rss/articles/CBMiY0FVX3lxTE9vSHVUMWtZWTRnX0xBWGVHbUNpb0t5RHItUlJHM3pRdXg3bnYyVjJxN2JoMlNzVXpRWGZrUndZYjloZ1FuRTIyTlc5c2xmODBaUEF3N0lYRDA5ak1GeXI3WWhRbw?oc=5
-- **Source:** Six9ja
-- **Published:** 2026-10-10T03:08:01+00:00
-
-## AI Learns to Rewire the Power Grid, Cutting Waste in Electricity Networks - Bioengineer.org
-
-- **URL:** https://news.google.com/rss/articles/CBMingFBVV95cUxQcHFsTXBadWtnQXRoZnlONlJ0QXNGX2s4MXR1cDA2UWVCSXhjU2lZRno2ekI4YV9mSXVlMWNMel90SExKQzhIcEw5REgtTnRMY2JwLVdhWWhnUmlJcXp1TWJHdEN6VXZTdnJRNHlEdFlOVmlhVlRIZi1SYm16cXZGS0tDLTl6SWU5UnJhUlNDMUFrYi0tb2VEaHlpVG92Zw?oc=5
-- **Source:** Bioengineer.org
-- **Published:** 2026-10-10T02:33:20+00:00
-
-## VEIR Raises $110M Series C to Scale Superconducting Power Delivery for AI Data Centers - Wowtale
-
-- **URL:** https://news.google.com/rss/articles/CBMiU0FVX3lxTE1CbGZoWC10Vkw0SnFjUi1KQWkxck9JSDZvYU8tN0VRVkxDVHlNVHN4YS11ZTN3OXEzQ1I1c0pENHR5VjFDUkVqSVM0WkFwQWtzMkQ0?oc=5
-- **Source:** Wowtale
-- **Published:** 2026-10-10T02:16:59+00:00
-
-## Trump Media & Technology Group - Britannica
-
-- **URL:** https://news.google.com/rss/articles/CBMic0FVX3lxTE5lT2dhSXRTdXhSaGh2djRnVUFnTUdVRlZzRzdxdXdjTElyMF9ZeWJUUG1kbWJIYUlpWkhJVTdoREJsWU9TaEdibjNIdE4wdjFwQTk4bmZaU2lNRm4tM1Z1M0trcFdhZ2kyM1ZDYWZwQmphRDg?oc=5
-- **Source:** Britannica
-- **Published:** 2026-10-10T02:08:19+00:00
-
-## Seaborgium Carbonyl Reveals Relativistic Bond Weakening in the Heaviest Elements - Bioengineer.org
-
-- **URL:** https://news.google.com/rss/articles/CBMiqAFBVV95cUxNT0hZbXByemJsM0t4OWFxMUVpcW1mZ1ZSMGY5b3dXTU5jd3o1V1ZMVVF2VGExbGFZTGo1VEw1XzNpZG1CTzFqOTZuQ1BCX2EzVHN3TjlXaVJLWlN6SWQ5NzhISXh3akQzYTRpZ1ZyX2dQbzNncjhHbEY4YXNOaGNkcVpwQmJUTDlpQ2xmZWpaRjJWR0d5aGZiMi1KQzhEMnBwQmpvQjVBVzU?oc=5
-- **Source:** Bioengineer.org
-- **Published:** 2026-10-10T02:03:20+00:00
-
-## This Joshua Tree highway keeps killing wildlife. Enter the poop-hunting dogs - Los Angeles Times
-
-- **URL:** https://news.google.com/rss/articles/CBMickFVX3lxTFA3MFZQdHBHWmFZMm4zSlFidFpVNFlsVHlkMS1nZkVxWFFsWk83dE1OclZhLUVBUF8wVUZkUmxmck45LWxRdWZGT25UWmhXZDZWdDR6WFFoaGR2Nlh3UHBDVVc1SlF5azc4YnlxNUpJTWVWdw?oc=5
-- **Source:** Los Angeles Times
-- **Published:** 2026-10-10T00:50:00+00:00
-
-## Wilson Sonsini Advises Type One Energy on $200 Million Series B - Wilson Sonsini
-
-- **URL:** https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSFVLcFUycHhlNVJCZEFvSDY2VEhPOEltanp6LTRjZjNBOTJUbzBIR2RlNzU4dW5UT010NWcyR0psc05Pb1k0VnhZalo2T0dvUjVGRkkzNDRCMnpJYXRQV0EydU5KZTEzQkZYbV9LUXJNRG5zMnMtTVV4WDc1SHR4dkdGUzUwXzNxN0dUWmloMWZFaHZRQ19renZYM3RBWmUzSkp1RmJfTmwxZw?oc=5
-- **Source:** Wilson Sonsini
-- **Published:** 2026-10-09T22:46:02+00:00
-
-## DOE Awards $159M to 12 Genesis Mission Phase II Projects - ExecutiveGov
-
-- **URL:** https://news.google.com/rss/articles/CBMigAFBVV95cUxPbjE0N09BRjkyQXY4bllkNzJqQzRQUlR2cEFTLVZRb2ZhNWRrVmpFdFowODhFdDhQNUotem5JRVRkOWtQNDRXcm83RUFtVWgxaTlOTUx0cGttYkwzZFp2TkkzRWN3N3J5ak82dTJFcUt5QmM3aVQxd3JXTXZaTUZZMA?oc=5
-- **Source:** ExecutiveGov
-- **Published:** 2026-10-09T21:16:51+00:00
-
-## FusionX: Singapore - A glimpse at the future of energy - JDSupra
-
-- **URL:** https://news.google.com/rss/articles/CBMigwFBVV95cUxNbW5ZRURubHNUQ1dTOU91MnV0ME1teG1aYzlhS3RTNllDbnZUXzZPaWh3WGNjQlJBWXhyakJDRkNpT2NVZ2NreE1HOElCV1p0dzFLc2o0N3lrQlRXYXVTTVVFUmFCMFJOTW1TTXhQSGk1MWxqUFh4bEZ6bmNKeHNKNnZiYw?oc=5
-- **Source:** JDSupra
-- **Published:** 2026-10-09T19:14:03+00:00
-
-## Fermi America, Blue Energy make strides in Texas - American Nuclear Society -- ANS
-
-- **URL:** https://news.google.com/rss/articles/CBMijwFBVV95cUxPU2JIT0hzd1hUUnlMM0RsZU5sMnhHLUVRS20zQXZOOElRWkxvWEdHYjRycUk4Q3lhTVZYR1lIY1lwUV9ZZE5kYzU0M3pvU01Xd1QtSnJOWGVsSVRPUjJVNGQ2eHZFRWpWM0FGRnEzT1lnbUtMaExqQ1k5bklWM3FpVUZvd2Y4V2JUT3lxc05vMA?oc=5
-- **Source:** American Nuclear Society -- ANS
-- **Published:** 2026-10-09T19:07:47+00:00
-
-## We Energies plans new 750MW natural gas plant in Fox Valley - WPR
-
-- **URL:** https://news.google.com/rss/articles/CBMijAFBVV95cUxQeEo4RndDU2tfQ09scWtKaHpIdFpsRVV4Q1M4Ui1hWkNpbGdGM3RyN2hOUE9UaUZQT0V4SmJrMTVUaHItdDhvdndwdWp0d21yREJuZXFWM0JYVU5xSmRLZ0Y5U3dvMWFnYjM1S054blcwYnVOdzd2ajNtTjcxNFJ0emViQlRqOURWS29Nbw?oc=5
-- **Source:** WPR
-- **Published:** 2026-10-09T19:05:03+00:00
-
-## OpenAI, Nvidia, Anthropic, and others pledge $2.4B in computing resources for Trump’s Genesis Mission - The American Bazaar
-
-- **URL:** https://news.google.com/rss/articles/CBMirwFBVV95cUxQcXlHTTZPZTBUWUFHTmotTi13NEZvcllqRERNZDIyTlM3Tm1iVmtaQmYyX2Z4ZW5tb0tOMWVoM0lwV2F4cGlGZ1U4UmJtSFhna2NpLUZ6MWI2OHBzQ2xFTVg1Z3VlX0tweXhxVHF6VWUtTUx2UWRJOXlHV0lZejlYUzNYczJlWUlKY1NUR1JrTUhuYnFEVnhack5jYUtTV1lCa1F3MkpTeElibWxsU0U0?oc=5
-- **Source:** The American Bazaar
-- **Published:** 2026-10-09T18:50:51+00:00
-
-## New to The Street Signs American Fusion (OTCQB: AMFN) to 12-Month National Media Series - Yahoo Finance
-
-- **URL:** https://news.google.com/rss/articles/CBMilgFBVV95cUxQb0swTHNyTHh3T205VUM5cHExdERTYVRhNzRONmNMbXVEUGJLT3FIdHBiQjBUZVo4QjB1LUM5VGQ4OHRzVEtDVWcwR0EtaW9nZHNvSXBZaDVhVDRZNFlwVVBPTGZQbXEtMUVsMXZfSWdFYURheWNMNlZZMFpieE0zUjJUbTItV3l2YngyMi1QN0hsbjBLWlE?oc=5
-- **Source:** Yahoo Finance
-- **Published:** 2026-10-09T18:40:00+00:00
-
-## SLAC to Lead AI Catalysis Project, Partner on 8 Others Under Genesis Mission - HPCwire
-
-- **URL:** https://news.google.com/rss/articles/CBMiswFBVV95cUxObUxLQWdCQWNxbHVLQVE3XzFaZ3VNd2wwYlBrSkMwWmtDYVhNUnU0S1JZcHFySlZKUVRzZ3d4R1JDX2RlSm1vWUZGN21oVEdJMElNb0owVWcydm9GTDVZT245SmhtRXdjekV4OVVZTm53MlNXTEJsYzgzbVBUSTBQMjBueGVFOUF1QTVSd2VRZE40d1RuelM1SWZwVjV1Wnd1ZDFPMEZlLWlVYmxXdXBPN2I1cw?oc=5
-- **Source:** HPCwire
-- **Published:** 2026-10-09T18:34:43+00:00
-
-## The Week’s 10 Biggest Funding Rounds: AI And Energy Top A Busy Lineup Of Large Rounds - Crunchbase News
-
-- **URL:** https://news.google.com/rss/articles/CBMilAFBVV95cUxQSU8yanlHWE9rcW8zVklrQ0tNMW9YT01WWjlEY0dDLUhSTm9ZSGpHWTF3RjhXRElwd2tocHdrUDlXMnNwSy1GVlhvYU1DMllLNkVVRkE5QUNVWXFGUmJjOERWM0xURS1FZkJ0ZjI0cVVfemJ1TnRMQktvNVNQa2w2TDdBZEpfNmcwdkdHaG13cVR3WFkt?oc=5
-- **Source:** Crunchbase News
-- **Published:** 2026-10-09T18:28:35+00:00
