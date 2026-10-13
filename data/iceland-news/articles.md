@@ -1,8 +1,98 @@
 # NewsWatch — Iceland News
 
-_Last updated: 2026-10-13T02:52:01.720714+00:00 · 50 articles_
+_Last updated: 2026-10-13T11:28:30.710094+00:00 · 50 articles_
 
 ---
+
+## Where to Watch Wrexham vs West Brom: TV Channel, Live Stream & Kick-Off Time - Goal.com
+
+- **URL:** https://news.google.com/rss/articles/CBMitwFBVV95cUxOcFl0RG14UjdZa3FYSHV3eFYteGZ2SDdwNno1MlVQeXJ3U2tVZGs1QU1tS3hBcDgxb1VDOUh2bXJwUEo5ZG9vUEZaZTJqX0NxZExDcmw3WHlSTkowUjRpNVRwenZrelktWVVNemV1SFh0blNOWVdYOGNlSHh6aXc5YTlvbWtlMlIzR1lsR1JLeGZOangyUW1Jd1hQSVg1UjI0N1ZlaWhJck9sY2ZaUDkwYW90QUpNV1k?oc=5
+- **Source:** Goal.com
+- **Published:** 2026-10-13T11:06:22+00:00
+
+## Almost all drilled rock was recovered from most holes at Aurania’s Iceland project. - Stock Titan
+
+- **URL:** https://news.google.com/rss/articles/CBMitgFBVV95cUxOVGFPd0M0bklvSWRNM08ybE5RMUgwU25FV2FZZmRVSFc4dFpWQXFTekdOMVI5QlM5ZXAybXpmdmNRYmJxMXoyeW9SLTFqSm1PWnhkVlgyaFB2RW8yS0FyWFRHVnE1NFNHaFEtS2RRWWotaDR5SzAyeURWZjJ0S2JuMVc0UjBfSXdpUHNudzVxZVlYN0s3NUFwMy1BMlZvbEkyV012azlrU1phbEFaNGNoWWQwLV9GZw?oc=5
+- **Source:** Stock Titan
+- **Published:** 2026-10-13T11:00:00+00:00
+
+## Meteorologist warns of approaching storm: "People need to be prepared" - Iceland Monitor
+
+- **URL:** https://news.google.com/rss/articles/CBMipgFBVV95cUxNYUVjYjlMOWlsWXF1VXBtMTlnZEN3T2VnMlBuYkhUQVExVE1iampHUmpHZHVQQ2hZb3UtV0wzYW1uR3lPOGhManZDMkUwblJnajNzbk9ObWs0QU9WbGd3Vkl5UDRaUHh3b0xLaVJpUnU1Rkc0YkZKeVJyY2tlMExvaFJmODY1MW9sSVozREs4Nmh5Qmp0aGZidUVuN3hzeEVxaW1TRXlB?oc=5
+- **Source:** Iceland Monitor
+- **Published:** 2026-10-13T10:40:00+00:00
+
+## Iceland capelin packers face planning uncertainty after 46% cut in quota recommendation - Undercurrent News
+
+- **URL:** https://news.google.com/rss/articles/CBMiywFBVV95cUxOWHhGbVdWRzJXTzRiVGMwSGZIeUx1bWhrdUNzbnpMcVBWN0MxMU5STmJGU056SjJHR2h0SmJrM1lTUVhXaHNQTEpVVUwtUnlqOU1oTEg3cXVmelpFSWdWUXREZ3FEaDhneU93aXhTWGVRM3FHb0Vla3dYaEE1RWpRQlZkQTlfc1l0Rldlc0RzdGtoTi1nZW5ELV9VWi1tNFZQZ2UtdWNrX3VENFJDbUpPSmNWWHA2XzhXNVo3RHIxdHZ4aXE1MnR5UjJFNA?oc=5
+- **Source:** Undercurrent News
+- **Published:** 2026-10-13T10:06:00+00:00
+
+## UN Human Rights Chief Holds Talks With Icelandic Leaders - Iceland Review
+
+- **URL:** https://news.google.com/rss/articles/CBMikAFBVV95cUxQUDgtamxSVTNVX0k0TFN0QUR5dDlsOWZBc1dNQ0wtRjdBaVE0b2h4eU5DUXJYWi1JX1ZxN05BVm9mN3JuaUtPc3V1N2g2dHJkNGxxSUVJZ3g1UVROemRfeXZPRC1tYzV0bkRUNExzMnpsdG1rdU84RTBNUmJWNVZ3M2JySldwMTlCTDdnSjdlYUI?oc=5
+- **Source:** Iceland Review
+- **Published:** 2026-10-13T10:00:36+00:00
+
+## Icelandic Black Metal Band MANNVEIRA Stream New Song – “Bölvunin” - Metalheads Forever Magazine
+
+- **URL:** https://news.google.com/rss/articles/CBMiigFBVV95cUxQY3NIWEIxZHNRX09sTy1QMHU3ZDRid1B3SkxrdDh2dlR1QlF4R0hseUtXa2Fkang2SG8yYlRCdWoxQXRZekN4T2ZVc3kzUXJDNGxVaDJWNkRHQzZWT2ZfVG1McXVxdmhrcmY3OXVGaFBkMC1WMUpwamNPN0dobzlSbnNqTl9IUmozckE?oc=5
+- **Source:** Metalheads Forever Magazine
+- **Published:** 2026-10-13T09:36:09+00:00
+
+## 5 hidden gems in Iceland you need to see - NewsBytes
+
+- **URL:** https://news.google.com/rss/articles/CBMikAFBVV95cUxNVXhXLTZ3eE1HUkp3QWxicGs0MV9ZWXQ1U3FaQXFPWmNqeTR0TGNrd0o3RlZtXzAwMjVCLV9TTnFvbjEtSzgwTjZsMy04SnViRGllekVVdlFjUDVTSGNQZlR5bXJWWDJtbTR2bW9BcW10RjZsTGFEXzZIWTBXUzdjOFpoWUoxM25XNk8wQWR0NDM?oc=5
+- **Source:** NewsBytes
+- **Published:** 2026-10-13T09:13:31+00:00
+
+## Orange Weather Warnings as Powerful Storm Nears Iceland - https://www.thetraveler.org/
+
+- **URL:** https://news.google.com/rss/articles/CBMijAFBVV95cUxQbTBkNUJuSFdQNUZYSnhCUlRBQ3B6amVwdFFibHFtd3BIX3lPYzE4ZGNZY3UzUWlrUkpkaHdxRkVCZGVjRmZ5bk9HaTMxcTc0aHJsZ0JJOHJRdFlnbXVOQnd6c1JQXy1CSUFlWEUyMDNvZE44MjFoLThaMDVVbU42VmZvYUtFOGFoNFdLSA?oc=5
+- **Source:** https://www.thetraveler.org/
+- **Published:** 2026-10-13T09:08:29+00:00
+
+## Ísey Skyr Is Now in Singapore, and Its Recipe Is 1,100 Years Old - DANAMIC
+
+- **URL:** https://news.google.com/rss/articles/CBMipgFBVV95cUxQaW5rUE1UaGtWYTliLTZXcjgwZENrXzdBWFd5c0QwMEFLTFhoWEFPRHdraVJ1bG0tWVVxajJZcXVuU25xNENlUkVobFlfblk5anREOHl4TXMxeGYyb3lmclBvWVNhZlJqSUptdUF1MFVWdWpYVkoyNGJCNXlVdHI0NHFPeHMxMWZ0RGVzWk82TnlmTVBDTGRGZXdSRVUwSndTUUhoR1RR?oc=5
+- **Source:** DANAMIC
+- **Published:** 2026-10-13T09:01:22+00:00
+
+## New Viking-inspired viewing platform opens above Icelandic fjord town - The Star
+
+- **URL:** https://news.google.com/rss/articles/CBMiwgFBVV95cUxPYmdqaUlBSEhkX0JlYzdnemYwUTNKWmo4QWprU3pNdkxhMFFTVm1SUmROZUloVW5EMUNQdDV6QVllV2NJaFNHLVlHR0NvaXBicmZ4VjRLNC02QjVoc3VOc0VFMWswakw2QnRUTDI3MkRTSEwtd0oyMU1SZHJSN1BiQ0xaS3FRNGpma2ZuQVF1b2Ezcm4tdDNOZkxxcHJoN25MTDVGSFBlcDRyR3lWclpEc2g1NGxUY0s3WGtvTGtiV21SZw?oc=5
+- **Source:** The Star
+- **Published:** 2026-10-13T09:00:00+00:00
+
+## NEXO GEO M10 applauded at the Iceland University of the Arts - EtNow.com
+
+- **URL:** https://news.google.com/rss/articles/CBMimwFBVV95cUxNQnIxVjdjNU1DUEEwa1BsbjBPOEt5LU9JLVZJakdEdG0zeUVVRHdPVU9nelVMRHZnOHFZMWJXeU9kN1B5UXY1V0EzVmZUV0kxVnVyOHFVTk0zXzJYY05nbEhWc1d4SDNzTU1MdlZlWVgzY3hyYWw1VXUzaWtDbUJRdlBkZGQwV3FILXRIRzY0ckZ6dXlDS0tFZTdraw?oc=5
+- **Source:** EtNow.com
+- **Published:** 2026-10-13T07:34:30+00:00
+
+## Orange Weather Warnings Issued as Storm Approaches Iceland - Iceland Review
+
+- **URL:** https://news.google.com/rss/articles/CBMilwFBVV95cUxQelg4NjV1YnJyajA3NnUxSnExU3hGaFJMMS1wMFpSaWZRSDFuVXVVeVN4dXpRN2Z5TUJjSWpjZUFsQ09NbjA4Q2ttUk56V0c1RDU4YUYzdF9ZN0xITFF0bXhnZDZaSFRfUTlOU2tKR0JZZVF3OFdtcHN1RjZLLXV0YmJNU3c5NXZEMDZmeUFCMi1MUjAzRS1Z?oc=5
+- **Source:** Iceland Review
+- **Published:** 2026-10-13T07:00:00+00:00
+
+## ▶️ Watch Iceland Women vs Croatia Women Live Stream | Predictions & Tips - 13 Oct - FootballPredictions.NET
+
+- **URL:** https://news.google.com/rss/articles/CBMihAFBVV95cUxOXzdWY2JKd2MwVU82QVptaF9jXzgxeFFmdnlRQy1VUGdXSEVMa1FMSHpjZnQ1SThYclJoSlFLX3VtQ284eWZGREJSM3BUS00ydThNcHF5VDZJTWE0YUlYRlZXSDBSUlRKTHNpbUxIbzVWMEZHeWRtcjk5SW9hSEo3aVowQVo?oc=5
+- **Source:** FootballPredictions.NET
+- **Published:** 2026-10-13T06:42:17+00:00
+
+## Where was The Odyssey filmed? (with maps) - The Worldwide Guide To Movie Locations
+
+- **URL:** https://news.google.com/rss/articles/CBMiXEFVX3lxTFBwdkNrYUs1R0h4X1ozWmt0NkNOcnl5RVRNXzNIcWZ1YmNyaGNvWHNKYVRyZlJQWV9haWV0cC12S2x1TU1QUWllbUEzLWg3cEhpc2p3VTliVFZoSHpn?oc=5
+- **Source:** The Worldwide Guide To Movie Locations
+- **Published:** 2026-10-13T06:23:50+00:00
+
+## Terex Integrated Plant Processes Dredged Sea Gravel in Iceland - News and Statistics - IndexBox
+
+- **URL:** https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTXBLd3hMYXNGTVZvcm1nbGRYd2ZhMDltckd3Xy1fQzZoVU9PQ3N6M0U0VGR2RjY0d0JmS0F2QlVqR0VFUjBzWHUySkJuLVlQNTkwbDVqOWh1enlkRXZqYkJ4RHZBZDNtVUp4dEFDeWFWc0FGLVdxWjlsWWNpa2ZkRVNMc0tTcnJ1TUxIUmN1YmhCdXZnbkgtQjVZeFNQQ0JuZ3ZTOVlMUzBtUTJkMVhnZjF1WWpZRlBL?oc=5
+- **Source:** IndexBox
+- **Published:** 2026-10-13T04:30:35+00:00
 
 ## Austria vs Kosovo: Women's WC Qualification Europe stats & head-to-head - BBC
 
@@ -213,93 +303,3 @@ _Last updated: 2026-10-13T02:52:01.720714+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMid0FVX3lxTE4ySkdOSkNyQ3dPWTB4Qkw1MG5PUlZtWm1kNDdHbEg2VmFqVVlVa1FKcHFtNDB4cG90VklCZ3VOQ0c5aDFFQnQtNFJfWDNPalZWOXhsbEdjN2hRQlgzcFc3LWFucjVzQmVpVVZpNVdzSEg1M1JlVFI0?oc=5
 - **Source:** Red magazine
 - **Published:** 2026-10-12T06:30:08+00:00
-
-## Busan Port Joins Global Arctic Route Cooperation... President Song Sanggeun Proposes "Green Corridor" - 아시아경제
-
-- **URL:** https://news.google.com/rss/articles/CBMiZEFVX3lxTE8wWjNBYkg0N19MY3JrZkw2VUNQZkR2WGRSMVQtSm5Db0xGODd2OFRPbnIwOTYyQllpSWdvZDZicmVCSjhNWWJjU3g0djFJSUE5RHV2bXcycmxxYTFWNUozc1VzcTk?oc=5
-- **Source:** 아시아경제
-- **Published:** 2026-10-12T06:27:54+00:00
-
-## The Best Whale Watching Companies in Iceland: A 22,000-Review Study - Guide to Iceland
-
-- **URL:** https://news.google.com/rss/articles/CBMiigFBVV95cUxNYUJuTXBpQkNnQWNBWjJlOVJNQjF0VWJ6RGFOSzB3VjF6THoteWhPYWlXeVhkRTFjQmVTeVpIMlpoWGc0a0NMbEdiQzhrNGRQSU82bWhwSk1JdlV0ck5QWWxpQ2ZpZmdpdl9Gd3ZLYS1vSWtPSnRwbkkteWpzaVlCcWFNeE5VSEdRc1E?oc=5
-- **Source:** Guide to Iceland
-- **Published:** 2026-10-12T06:12:40+00:00
-
-## Icelandair launches St. Louis to Iceland flights - Travel Daily Media
-
-- **URL:** https://news.google.com/rss/articles/CBMiiAFBVV95cUxOX1VmMURoaXMwaElWSWxLMDdHa19qUGxDMFhFQXJJMjJsTXhCeWZuNmJYMm9lMHpSS25xTjFaTUVlQ0kxbjVUZFJDRUNWeGVjVE9KY0Rad25PTTNaQVV5ZkI5Y1pGV3hTQ2llcmg4VU4xUFYyMlM0ZUg5cTJvZkg0b1Zob3NES1lR?oc=5
-- **Source:** Travel Daily Media
-- **Published:** 2026-10-12T06:01:36+00:00
-
-## Discover the film locations for Supergirl (2026), around the Cairngorms in the Scottish Highlands and in Iceland. - The Worldwide Guide To Movie Locations
-
-- **URL:** https://news.google.com/rss/articles/CBMiZkFVX3lxTE1USUEwakZRMEFZQ09IMEw1eFVfdVBtRUhDZ3dJaWhlNlUtelFfQ1B4OXN2UVhTY0V5SzJpSmNJNXB3UFVlZE1UZ3hwVmJ5ZVk3bzRkVXE3aWxkREhEQVpHWVdvMFV0Zw?oc=5
-- **Source:** The Worldwide Guide To Movie Locations
-- **Published:** 2026-10-12T05:54:53+00:00
-
-## Calls for annual 'national conversations' - RÚV.is
-
-- **URL:** https://news.google.com/rss/articles/CBMijAFBVV95cUxQc0pJbVEyQTBjbXMtdW8tcEh6ZkI1MzFrc0NTRHdyZ1lwa09oZ2pxUnJOSmZmN1pPSWUwRmJpSmxZN3JjOThMclB4aEhXS1N6RWhmTVEzT1lKMTdNNTN6enZLcE1QV2RUYnl2UmtSX1ozU0tqWFN1TlhCNXg0ak51amFuTGNiNUFJNUZhaA?oc=5
-- **Source:** RÚV.is
-- **Published:** 2026-10-12T05:46:00+00:00
-
-## Benefits flow from a joined up nation - Daily Business Magazine
-
-- **URL:** https://news.google.com/rss/articles/CBMilgFBVV95cUxQdk1BSnF2bXZiNVVPdWdSeWR3eWlWSVZneHVCZjlfRFpsN2kycW5JbXJHdHBOSDdjS0JoZ2tBNl9ub0hqMXY0OWc1NldzT002akxNZ0EzalRWYk9uaGxvbmtoQTU2VW84NUN0MDZFTTF2TFJ1eXhPMG9BLU1qUWJza1lDMzRYWWZSQTFmbFlNcFNYY0xoMkE?oc=5
-- **Source:** Daily Business Magazine
-- **Published:** 2026-10-12T05:45:54+00:00
-
-## Icelandair Announces Service from St. Louis and Expanded Partnership with Southwest Airlines - St. Louis Economic Development Partnership
-
-- **URL:** https://news.google.com/rss/articles/CBMibEFVX3lxTE94TXAxaXRyclMxdG5hQ1pZcXZpdFprTHBPYUpaTW85TUhTVTJwT0VPcnVQbTVsTktWcFhtWFR4Z2YwMFRqbXBhMy1iR2JQRzl1TjR2LU56NS1IenFSNWpWMFY3SC1GZ3dienpkcQ?oc=5
-- **Source:** St. Louis Economic Development Partnership
-- **Published:** 2026-10-12T05:20:19+00:00
-
-## You'd be forgiven for thinking this is Iceland, not Salford! 😂 This amazing footage captured the northern lights that appeared in Irlam over the weekend 💫 Credit: @kevirlam/X #manchestereveningnews #salford #northernlights - Facebook
-
-- **URL:** https://news.google.com/rss/articles/CBMi6AFBVV95cUxPQklxQ1h5OHo2Y2FQWnFWNWNFX0FwbU5DNzkyZ3U4Z20tdWVxVG1INFZZYXZhd0FZVlBWdk8tbGtpaEtQUHhzdmFYRVJmTEk5TFI1Yk9CbWtJRXpDZUQtLU5rVjB2TU96SUFtYU9rYktwZzc0T001MEU2aVdDYXlFUFpvY0NpSEZWY09aRFF4MmpoN3ZmRmdzZTZsRnlPRTRYdVdrU1YwYTlFTzZ2R3NtRTh3a2ctWmpzT3BXUUJESjZXWVNHWU05NkJoMWNsakNKZlEwWC1BUzFOUy16RjJHYS13X2ZOWUpD?oc=5
-- **Source:** Facebook
-- **Published:** 2026-10-12T05:07:16+00:00
-
-## Iceland vs Croatia: Women's WC Qualification Europe stats & head-to-head - BBC
-
-- **URL:** https://news.google.com/rss/articles/CBMiY0FVX3lxTE9xdWZJeWQ3NGpaeXJrUmR2c3JBdHhKVWxSSTBGQzdGOUpRb1dDZzhjODhjazFyc3RPbzNaVFJmbjIyR09HY0tGNnAyR1NFRTkzVVNOd2FTdGdXaVJyU1hIaGJaUQ?oc=5
-- **Source:** BBC
-- **Published:** 2026-10-12T03:39:44+00:00
-
-## U.S. Secretary of State Marco Rubio Tours Boeing P-8A Poseidon in Iceland - SSBCrack
-
-- **URL:** https://news.google.com/rss/articles/CBMioAFBVV95cUxNS2hxYnh6Tnl4R1dOa0Fjd2twZGtOcURhQUJmc0FXc2REWjZQTElDVW5uXzEyQ3JvcTRxUFhYS2JreTJYWEpxLXdkTlU5aWlZWWlLNG1TYUVlaUZYSkNSb25LaXh6aGVBMnU3RHZmeFllMVJGRUlSQzJBdjlWYWtLUUNlTmVOT3BQWXhuTmRZSEhoaXNpdTVWLTFUOHlIRGg2?oc=5
-- **Source:** SSBCrack
-- **Published:** 2026-10-12T03:38:03+00:00
-
-## Arctic Security To The Fore On Rubio’s Iceland Visit – Analysis - Eurasia Review
-
-- **URL:** https://news.google.com/rss/articles/CBMiogFBVV95cUxPY0RkTXE3OUpOTERpTGxjZHhGODNMVmNMWjFZNDBKWjhteVVGNmpvVGpjWS1mUEZ4RUswSVBid2tDdDJwT3ZtVkpMS05KNVd0TEJTaTVZSWgwT0NzNmM0eF9GQ0t4VWVRRjM1VzloMU1BWl9yTjdSUl9JX0NhUzR5QmZfZ2xrY0xycGYxQjJrVER0ZVA1VTRXYUJoLW93bFR3aGc?oc=5
-- **Source:** Eurasia Review
-- **Published:** 2026-10-12T01:03:43+00:00
-
-## Where was Masters Of The Universe (2026) filmed? - The Worldwide Guide To Movie Locations
-
-- **URL:** https://news.google.com/rss/articles/CBMieEFVX3lxTE83QjlSYS1OMGstY29oSmlHbnlQZmJMdDhNTjNlNUpzTFdYd0pSRmZYZ1BCd0RoTkpQaWRKSGViMnpVV0tEcEZaOWg0MDBRRzRkUzRLdlk0MmY3bEhhd0pOaTAzTmJoQ2kzQXcySHdUUGx0aWVaTzF6cQ?oc=5
-- **Source:** The Worldwide Guide To Movie Locations
-- **Published:** 2026-10-11T20:21:15+00:00
-
-## Inventory turnover of NEW ICELAND ARCTIC ACQUISITION CORP – NASDAQ:NIAAU - TradingView
-
-- **URL:** https://news.google.com/rss/articles/CBMinwFBVV95cUxNdDJxVUVzSDh0YUNpc0dIcEU1Z01iRnVsZ0xUX0x0LXdTNlhncUdGd3lPdzlPYWF4WXlQVFJHbWoxcExYbTR2aHlzWUNqNjlVd2R3dGpwQ2U0eGppMEdjbnBwTzRRYVZTMWppblBRWmhUdlJvNWxfX3BuR1FoMHpYRWQ1eWZzQTJSTGx2SExwcEk2OEpxdXZUM2JJVkV0c28?oc=5
-- **Source:** TradingView
-- **Published:** 2026-10-11T18:28:32+00:00
-
-## Gestur Arnar Gylfason - Transfermarkt
-
-- **URL:** https://news.google.com/rss/articles/CBMikwFBVV95cUxOVk0tZjZRcFhWVmZPVEtCWHlkd2thYjJSTC1JQ0wyQ0piZDZjbElQQ2dIR1BjZG8xWlJ0MWtDUDFucFlrdnROaF9BMmh1MnR0WEZyOHVDNHlWUmk1TDZ2Y3dGd3VOR3VELWR0UWpQT1VLanMyalJDTmdvQ1diMVVGdFMzLUZPODY1bEhLSTRwb2hGZk0?oc=5
-- **Source:** Transfermarkt
-- **Published:** 2026-10-11T17:51:24+00:00
-
-## Just wow 🤩 You didn't need to travel to Iceland to see skies like this! The UK was treated to a rare sighting of the aurora borealis this weekend 🌌 This timelapse shoes the sky over the Lake District from Scout Scar, Kendal 💜 Credit: Jonny Gios/@supergios on X - Facebook
-
-- **URL:** https://news.google.com/rss/articles/CBMi5gFBVV95cUxQM0dvbjFEeEtvVDhYQ3M2eE5HZENteFZ6UWs5UE4zeUZjRjRydjdYdDdtYWNXSEl3a1dCekVQamlaRXJLbkJhTUZIVzFucldvZnhaNkRQQ1NNWnFKb284VUhXeGJPNW5iVktwOXRrVFlwQ3BJdUdBcEZRSk00dUoybnBPMlpGN1pZcXJ2X085aWYwc196Q2lHUE9sVFlmd3BQZC1qcVlxeHUtWEdrZ1JUNDN3VWNiVk9ndlhOakUxMTZUZENwWWtLakV2QXVZN3g3ZUpINnlrUmJpUmN2a1RxVVZkRHRpdw?oc=5
-- **Source:** Facebook
-- **Published:** 2026-10-11T17:48:33+00:00

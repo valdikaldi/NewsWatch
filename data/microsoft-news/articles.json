@@ -1,5 +1,341 @@
 [
   {
+    "id": "689d6ccb5d5d",
+    "title": "Microsoft RTX Spark Surface Laptop Ultra pre-orders open to rival MacBook Pro - TechRadar",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQU045UHRyLWs3QlMwbF9icnI2LS1IR25VZmhNYmZEdWtWbk9RS2RwU3dEM1cxMlpqMU8yZFo0d2hKXzVNQ0tNUWZxaWhHTTRNN0tlblJ3eWE3NEl4YVFBcHFBUTNuWUlscFJyeU1jTlBCajZvOGxDM2t6TURWckZkRkFzRXlPdGN0dkpLNUJvMVZidTQtTFpUb3hLVTB1LW5makQ0VWdMSmluZTRReVktMDNVdEhiVWlnQ2ptUjR3bEhsd1hYR0Fv?oc=5",
+    "source": "TechRadar",
+    "published": "2026-10-13T11:18:53+00:00"
+  },
+  {
+    "id": "36070a96ecb2",
+    "title": "Heated exchange erupts over Microsoft's Woodward data center plans - The Des Moines Register",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPV0pYMWFkN1FDdlZUSHJQa1h3NGFuaG54Vk9tV2tGS2Z4MS13ZlVwcjZiNVJjdWpwWUpidGZINDAyQVd5d0lKQlJPeDgzekJvUHVISVBGSW5WNTFMM2NOLUM5SC1QaGZZX19GV0hfbllOaDVYaHMtdUdvTGlLcnFVd09lRUlxYlVlYmFYd1E1S05YWWtWb2pkVExFd19jaFI4OTdLZHoxTG1Rb0lh?oc=5",
+    "source": "The Des Moines Register",
+    "published": "2026-10-13T11:16:40+00:00"
+  },
+  {
+    "id": "97dd9d6018a5",
+    "title": "Microsoft Could Be Worth Far More as Its Cloud and AI Businesses Scale - 24/7 Wall St.",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUjVhN05XOVlVcWJaYVJSVWtqOVJUT29QSGhlbHhGQjVqTzI1TmhIS3RqOGYwdWhvbTNoYjJZZFdoWUx1Um5xRVRIcWtna0pKUjliaDAzWjJIZ29RRTNmQ0dSV1d3SmJMMGpoRE1uUV96ZHZidWVrX3BPMF91OUxMWEtOVHdLU29iUXpHcTNJcjBLQkkycU9qdnBlZnlzSEh1N0toTGlwZ2VCR1UwUmJKcEN3Nnk?oc=5",
+    "source": "24/7 Wall St.",
+    "published": "2026-10-13T11:15:00+00:00"
+  },
+  {
+    "id": "a02ec755dc4d",
+    "title": "Woodward meeting erupts as Microsoft unveils plans for data center - The Des Moines Register",
+    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNcmNFUnROT3U3anBBNHVaLXN4TlNwTmRRSWUtOXRmQmctbFlucjdkM0lGN2o0X2RuUjFJT2U5aHczLVlJcW9TV3BJWHFCejhncFNQUjl5VmFURkpOZlVqOGhfTE5oTi15V2RzdjNjV202cUEyRktBWGwwa2xIb1VKWWR0MVZBMlhsbzVqb3k2RmVqNEdCUGlQeUd2R25ueTZPOUVJQXVHbmd6U2V0cURmaWtCR0VxYTdjak40aDUxcUpKNGVxUzhiQTU2cGVGeGktVWMxdDFaNUQxZw?oc=5",
+    "source": "The Des Moines Register",
+    "published": "2026-10-13T11:15:00+00:00"
+  },
+  {
+    "id": "4f274730fb7f",
+    "title": "Microsoft’s Nairobi engineering hub faces closure as Kenya moves to protect jobs at US tech giant - Business Insider Africa",
+    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNUFJ0TUE1ZElreU1xWF9DNnpMdWVZbTJxX3hvNFV5U0Zob3dKUXRFa0VjRHhaUGJZQ0tNcHdNVDh4LWFkOWxSTmxnbFdUWEN6d1lzMEdGSWR5OUtaNlN1SE10d29uVG9HeXVuczFuWUJHaWZqTzRHdmRCeUVsTUlMZ3RBV0FnTU91OTNHVnlLM3MxMU1VT3NTdHk4d3ROVU5Pek1ZZllxTXRBNXVrQWg5ekZaZ0xTSDBiVkE5emltNE1XMGMzbjdON1ZsM3lnN3lDTGFMeGJ1TzkwZw?oc=5",
+    "source": "Business Insider Africa",
+    "published": "2026-10-13T11:14:34+00:00"
+  },
+  {
+    "id": "636be7d65f6a",
+    "title": "UAE Moves Microsoft MDASH Toward Government Cybersecurity Pilots - PCMag Middle East",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZkJQSDBzTjFWT3VwUHh1bE5UaGNTVjhYSTJGc3ItLVhjUDB0OWF0SW9KRkk2SGRWam1QNVNTTllvcXAzZXltSy1Ob2NwRV9mVWMtVmxRYTQtNEZLZzdpTTk1di04aVhGalBxeVhxOWlHU3JOLXIyR0pRbmVsTGJZSG5tcjBOZEZvTlRWR3VUUkFNRmJiQWhEQThHc24wdw?oc=5",
+    "source": "PCMag Middle East",
+    "published": "2026-10-13T10:59:37+00:00"
+  },
+  {
+    "id": "3a8e8086efa1",
+    "title": "Microsoft rolls out Azure Maia 200 across the US, Europe and Australia - Technology Record",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQRk5XWlQxWDQyY0stRWl3c2YyYkU5YlpQbE5IQnhEUkRQa051aEtnWm1UMENFZm5lQVNPdjlmMmw0VVlsY0I2TjIzaWlsS0J0SEJaNVdCeS1nLWxlMGJ3UTFWVF9lUndYQjUxc0xEYWJWUndMdjI2Umt3NjQ2U2F5V3JHYVM3VERaQjQ3WGQtLVdlck1ja21OUTJjVVFfRTZFX2htYU5HSEs4U0FMWG9N?oc=5",
+    "source": "Technology Record",
+    "published": "2026-10-13T10:58:20+00:00"
+  },
+  {
+    "id": "01cc645b2a72",
+    "title": "Microsoft Reshuffles Azure Leadership: Report - Benzinga",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQYmxtb1Bid0xHdXBUSXBqQl9vaFlvRGExa1lNUVNZWXhYSEd0bTFLeVRjS1cyQl85cjZXLTZCWTlINTBzTTZuUTFEemN1amVzMmFHbTVDb1FKTjFLSHJrSlV2djBiR1pzRUNaQkRDZVFRT0V2akpfVElsenI1WFlpVmFWemJ3cmh6ei1rV19DZEVxRkd0emswWkpVZzJyUQ?oc=5",
+    "source": "Benzinga",
+    "published": "2026-10-13T10:57:23+00:00"
+  },
+  {
+    "id": "b1b9b2915904",
+    "title": "Microsoft Restructures Azure Leadership Amid AI Focus - GuruFocus",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdmttYmsxWjM2UkI2Q1N0S0dEYTZFUlRlWURiZjcxbkFZMjhpZE5Ca1RNMlZEUWtlcDBkMDhxNlFSQThJbnZIZ05vVl9pSUp5Wmx2QjNpRzV2Mi1VeDRidzdubjE0RUpVekllYXJEd0I5SDZQRGlielNLVkY4RUhMSUJzZzVqRVlqUHBKWmJmQmVEdTExLWE4?oc=5",
+    "source": "GuruFocus",
+    "published": "2026-10-13T10:52:30+00:00"
+  },
+  {
+    "id": "24ec5be31512",
+    "title": "Microsoft unveils Azure Maia 300, says chip will be its “primary inference system” - Data Center Dynamics",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPXzhwVHVKeXJqdmZ0Q2tSVHhzejZ4SVh0U3drWGgtWWdXWWtTZ2I3YUZxOC1jdkxRazZjcEdMbVRfcm5ZSEs5cG5GS1p5elhXalFBdVhRVXA2SjdTTTZqWkVqZm1RdU1BM1I2YndodnZqUHh3SllMUFR4Rk1peW9yUnUwLVVVcWFMSWR2azloSUx2Mi04Q1RmN1BKWEoyM3hjdE0xN2N6TVhrSFFCWDd3VVNqQVZtendOQmQ1TU1vSjY?oc=5",
+    "source": "Data Center Dynamics",
+    "published": "2026-10-13T10:49:01+00:00"
+  },
+  {
+    "id": "65f49ffe2a8a",
+    "title": "Tech Weekly: Retro cars return in Paris, Microsoft's AI push - Yahoo",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNTUE3cmI2UnpBNzlhOVFYLTJBMEJTVEsyM3ZySU5MSC1XWnV3enZnc3JURWZ3VVBYeVJSN2JfcVpGbFRLdHRCajg3Vk94R0lNSFRIWTJlS1BUc3NqWXFSaUlZVVpGWVZGYXEwSEYzd2t0MjA2ZW0yNnNaV2NJUWxCOEwxd28?oc=5",
+    "source": "Yahoo",
+    "published": "2026-10-13T10:33:26+00:00"
+  },
+  {
+    "id": "661b4cafeced",
+    "title": "Nvidia Stock Slips. How Broadcom and Microsoft Are Shaking the Chip Sector. - Barron's",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOOXVla2g5SlhMWnc4QkQ4LUl3U2ZvU09mcXVQQXFORlQ4Mk55VXFKNG9UVkFiYzI1TVhZbGVnMUtxc1BBM0pfVnQzU1B3ZkJTQlctMDZweG1FSUczWnp1NTlGd0p4aFk1SWZ5c0JCbzV1RXdJN0xzejZIZEx6RlN0ZlJ2cktzdXNCcGY2eDhB?oc=5",
+    "source": "Barron's",
+    "published": "2026-10-13T10:20:00+00:00"
+  },
+  {
+    "id": "d96b9ac6fb3d",
+    "title": "Microsoft Reveals New Maia 300 Chip To Power Faster Teams And Copilot - The Mac Observer",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPSDZkUWoyQU01T295N09LWUlkY05IVUpIbUVGR1VqUXQzN0QxR1ViR08yZWN1OE1kNzUyaGNOcE9JcU9kSWU5Z3FIMW0tSXRWSXFaWlhXRmwzbjJjNWUxa3lrV3hFbzZDczNNM0hXVDQ4azdGbHVBanl6a19YWVdSUTJZaDhqNVhMcFl5YWFZeExCV0NkeEhLWE1iRmdzc0JZZnM2azFB?oc=5",
+    "source": "The Mac Observer",
+    "published": "2026-10-13T10:18:28+00:00"
+  },
+  {
+    "id": "75da27e73abf",
+    "title": "Microsoft weans itself off Nvidia chips with home-grown alternative - IT Pro",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNLXVsUUd6RHZxaHZlNjZwWlE0ajNybm83bjVaZzNlbnp5eW1IcktaV0tRYUtYSi1KeXZ6TzN3V0RlSHBCUnVCRXBYVVVmVXE4VGdrMmNIcFNBcWNLMTJvaDFmTmZab0xfNDhqMXU4d0RHUjlvRVVxNldaNGN4Zlkxa0VMckcyWWotdGsxeDJxdDBvOVQ5R1h3Rk4ycmhqOTg?oc=5",
+    "source": "IT Pro",
+    "published": "2026-10-13T10:16:47+00:00"
+  },
+  {
+    "id": "b0b805a04b69",
+    "title": "Video: Microsoft at Sibos 2026 - How banks are entering the agentic AI era - FinTech Futures",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE50ai1qVEFvZ1dQVGozUDhRMlQ2UUdPempWd1NTblFqYUVBNnZidkEwTTBLa214NElVZjBfaWxvVkMtQ1ZRb2tabzIyNU8yajFMWW1VUXE0YWg2WHdtMFZkVG9FMU02Y2pXck1JM0VJXzBTRk9pRmpQY3ZBYmtEbEk?oc=5",
+    "source": "FinTech Futures",
+    "published": "2026-10-13T10:10:18+00:00"
+  },
+  {
+    "id": "b5a821c75d49",
+    "title": "Stop sending me engineers: what OpenAI, Anthropic and Microsoft misread about enterprise AI - CIO",
+    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOQWRGaXNVaXRJU1ROOGZXajRvdGktSmRVVHl5dTRjd2p1SHVKb3lRSEJBc0VqTnZteDhsMEMtVlIxVFJoV1loN1oxQllFZXl5WlM1VHN3N0I3eHl3dXVsLTRFUGpST3h5dkpWaEtsYmp2RXIwM2x1V0ZYME1abFR6QkFmLU9pMDJERW1oWHROdzR5dmNLUjhILVk5c1FKWDc5ZEE0TzJ5YTFPc0lrSXRqT2lzRjQtT0NDcnAwU05nVW0tZHdrRHVRWkpB?oc=5",
+    "source": "CIO",
+    "published": "2026-10-13T10:03:18+00:00"
+  },
+  {
+    "id": "8ba90354766f",
+    "title": "Simform Earns Microsoft Azure Virtual Desktop Specialization, Strengthening Azure Modernization Capabilities - EIN News",
+    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOU0dZMW0ydHdfQm1DanJpT21aMFdiZ3VOMDlEeTh5YWJCd2pCeVdhZXktX0FPVkJhVEdBTUdkMGRFX3VJbHZHYjg0S3RPaEJpUGF5TTdwOVVZbjRmd2lTZHpxU0Z6c3E2OUM4OWQza3U1YmRtRmFkOExaVFdzNUExeGNHOEF4bWk5STAtZ2lPbjZ6Q1hnZVJlZ3BESFpiTVRsaHlGX04zNzVZQ3JERlZyZTdxcGJWcEU3c0huUDVVVEItOG9TUmZsYU1LX08zT0pNUjNWOTdaZ2pPTWFuWWZmSXpRVQ?oc=5",
+    "source": "EIN News",
+    "published": "2026-10-13T10:03:00+00:00"
+  },
+  {
+    "id": "fafa169712fa",
+    "title": "Liquibase Secure Now Available in Google Cloud Marketplace and Microsoft Marketplace - Business Wire",
+    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNemNvSnFCOUhXMF8za21tTlRGSDhEeHVsRGpNNl95OTg0WlBMWHlqMUVDcDNMbHBPXzhRcXJpRjI4NVlJbVREUW9YZDcxczNYU2hsX2J5T25HUklsR3ZOa2RXMG1ORHVRTGFzZGxuQUQzQ1hfZ2M0WUNCZUFFbUZjNXhiaXlndkd0MEVidDFMTk9tSl9weXZTZEVvMUlKXzRwSUF1T1FCcUVsb05ONzlielA3dHU3SnVDYXZ5YzZkWU5LUEFIX01ibTl2My1pbU5KRG1hUGticG4?oc=5",
+    "source": "Business Wire",
+    "published": "2026-10-13T10:00:00+00:00"
+  },
+  {
+    "id": "bc26293d9489",
+    "title": "Microsoft Reshuffles Azure Cloud Business' Leadership - marketscreener.com",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQaXl0ZXRnOGlqdGVPdXJ5alV1OEkwRS1mUG1Vdld3UEtCNzNYVzY3Uk1rckhsWkpfaUtWclZNWmx5QlZweU1WZnhHQ1JVM2NyY0dYUkUtUWV0Y3E5UnZPVjF0ZTNvUkZsSWVMNzlhSXFvMU9wWlFBZFphOHRxMFpQWU9meXVOTDQ3R1VsM2h1MnAtaF9tM3drcEc0NTgzQ3NYdnFXU0xBRDY?oc=5",
+    "source": "marketscreener.com",
+    "published": "2026-10-13T09:32:37+00:00"
+  },
+  {
+    "id": "820fb1bc67d8",
+    "title": "Microsoft Maia 300 Chip Targets 40% More Tokens - Technology Org",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNQ3p3OURvM0lVQ3hhbG1PczhTNUg5aFoxZ0hxMldoeEU2aFl6STBzMm9aMWFPN0xxdy1KWW9kckhfaDZhNmNuYXo0RFRuU3FqdXV1SkJpaFVhVkFidkMtNVc3Ykl2Sk1ZdGdQQy1pS2VheE1Va3ZyNVNPNTRtNEtocm90SQ?oc=5",
+    "source": "Technology Org",
+    "published": "2026-10-13T09:28:00+00:00"
+  },
+  {
+    "id": "ad5493927f7f",
+    "title": "Market Chatter: Microsoft Reshuffles Azure Cloud Business' Leadership - Moomoo",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMVN4VzNXOG9naGJqM0dHMkF2VHRWUUgtaXY2eFBiZHhVVmladC1VbmJ1dklxTVBuNWMwYU01ck9kMC1ILTBXRkJTamhBdFIxQVNCR1pCaEV1eXBWalRhZEVibDE4N0NuYVBiUFd5aF9hVVJRSDJicTZ2NzVCRHZBQmYwaVNZQ0gzMnlCaHNobFJETXVWSzhBVjRPcFBYV0taQXZmU0lPZFdMOVN3ZnVFRQ?oc=5",
+    "source": "Moomoo",
+    "published": "2026-10-13T09:25:32+00:00"
+  },
+  {
+    "id": "01d0c5bf7f66",
+    "title": "Microsoft’s Maia 300 highlights how Nvidia’s biggest customers are becoming competitors - mezha.net",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPcXhIcC03bW1sTlhETDRidmUtS0wtV29IN24xVjMxWHBhRGZwS3hWT0xTVnhSTldmLWRxUDEwdlBtVmtScEYzQTRNaGEyZGRia0toOVhpSFlEMG14NXZGbk5Tc0VXQnB0UUtsSnNhRDZpd2VHbVdoWXZCd3h2YzFJMkM3U3BxUQ?oc=5",
+    "source": "mezha.net",
+    "published": "2026-10-13T09:16:26+00:00"
+  },
+  {
+    "id": "4fe506f93619",
+    "title": "Every major Nvidia customer is now a competitor as Microsoft reveals new Maia chip - Axios",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBwYVA3bU1jWS1xcGxwMGdRSE9FdUs2WWRzZWk1ajBITXFaemNSOTFkSjRlcWxNYlBBZkEzdm50dFRHSlctT0ktLVZySzBUallmVkZSVXNJZ3FlVkJLZkhwYXFNOGVGeXVCQmtVODRYZDZDQQ?oc=5",
+    "source": "Axios",
+    "published": "2026-10-13T09:03:25+00:00"
+  },
+  {
+    "id": "a0929de51dbb",
+    "title": "Microsoft to expand Azure AI chips with Maia 300 in 2027 - Cloud Computing News",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQLUFMT3VHSG9ocU9zdVk4TnkySTFPNEluaXZ2WEtXRW1INlZPOENrcENod3FzUWl2NnB3VFZRV25sOGJ2b203N05OdDI1NmVvczdKTWhxUGFnUDlVSUNyakU1UTdaX29oeUM5ckUzb1l5TTdhN3lhTEg2UEpTMHdmZlpIaHFzNTA?oc=5",
+    "source": "Cloud Computing News",
+    "published": "2026-10-13T09:03:07+00:00"
+  },
+  {
+    "id": "a7b431d8c9ba",
+    "title": "Ontinue Threat Intelligence Report Finds Nearly One-Third of Organizations Targeted by Fake IT Support Scams on Microsoft Teams - PR Newswire",
+    "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQYVNZYThZOHRwUVVFNXM3bnBwZXhOUGlQLUJJelRWTVZHczNySmkycllHOUpiV2t1ZU4zeEtHNlAzV1kwWV80MGpmdzVzVEpmVzlpclpxN3BNRHNiZmVnUk4ya21IZnRzZFlRYWdmcWZ4YjE4c0ZLZ3RwOU85ZlVBUTRHd1BvRWN0dGcyWkZuTTdIMUtPZGZ1enRYSUJNeGVuQmNBekx0VEZUX3VVbHNwWUJGZUk2enBJWXFiU0Y1cWktYlQ1V3BlbVYwNEVXbVZZbUJiOGM2ZzFaRGtXVmFHWE44ZHZLeGNOTGNWN1hnTWkwVUZJeEFuVUhLcW5NZW1IbEJ0TXprQXlQQVBoSDJEUQ?oc=5",
+    "source": "PR Newswire",
+    "published": "2026-10-13T09:00:00+00:00"
+  },
+  {
+    "id": "94781d66d60c",
+    "title": "Microsoft Brings Office Editing And Collaboration Into Copilot - Dataconomy",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNc25ZOEZtQUMtcmw2Y3phX3pZRURlQUh4aW14ajNIeWFZaTBRbE91bF9RZGVsQW92bWU1d0ZZaU1nLTRMQjNuenc3dnEwRy1rOUtnOHhYVzRUQXA4YUdtdm1LVnZVMmk3WHk5b0pMQlotWHd1UzF0YnNBSFZrZ0c5c0NqOTFvTDhH?oc=5",
+    "source": "Dataconomy",
+    "published": "2026-10-13T08:58:58+00:00"
+  },
+  {
+    "id": "5e2c2dd19da8",
+    "title": "Microsoft reportedly is reorganising the leadership of its Azure cloud unit - The Next Web",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5vbk1lcUhMYmx3aG1XMlV1TFI5LTVZYUl4a0ZQZVNpRzBZZzJHYkRLYi01S09DWmNzLTB5MDFwektGSFNXUDgwZ0M3eTYxOW1remlZY1J0WVUweDNXNjVreDI1VnFVNk1tclFtRDBjR1FnRFltdXRMVk5jSDFXaDQ?oc=5",
+    "source": "The Next Web",
+    "published": "2026-10-13T08:51:04+00:00"
+  },
+  {
+    "id": "ab802a0ade15",
+    "title": "Free clones of Microsoft Word, Excel, PowerPoint out by same angry user who made Adobe's - Neowin",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQMk01bG9RZld1UDBDd1FQZ2RNV29MVm9KUVF6UlhfLTJBQVMwVWZULUJWNl90Z1IyaWdqRzBTWV9GODNyNUxYMXltSW9xeW12SlJmVG5GOEx1TUFIdUQwdmFfbGN1RkI2M19xZHA2c0UwLVJFZ3k2SnpXd0x0Zi0yTzYxWXhSWUcyLTNibmt0V25LWG0xY0loWHFNei1TVW0zM09UNlhpLWNlSDZoWDlDY091QzQ?oc=5",
+    "source": "Neowin",
+    "published": "2026-10-13T08:46:00+00:00"
+  },
+  {
+    "id": "fff567fac943",
+    "title": "Microsoft Digital Defense 2026 Report Highlights New Cybersecurity Challenges Amid Rapid AI Adoption - Microsoft Source",
+    "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQdDdsY1dxdVlCX2ZHa3ZBRW9GZzF0cjE5aUdBMnEyTE50UFBsSnBtNGJ4VzZKdjlhSmg4ZktpYUNZaGY0OEE0emFoY1Z6TVprR0dEbFRZMWlIODBaV1YtUVBva3ZPMVdHMEIzc2hYbW40OVZKTDlueVVEZzkyTmVOMW5Jb19oWnF1RElqbk9mZmh1ekhuLU5TWDhteXpxel9KNmtLTWdmN2Rnd2psZk9qTVMwSzVMV1hIeGR5VEwtSGJpTzQ0M2VOOG5QUzBrREIzZEFJUzN4Y3dwdXZNMjg3dXR4elhQZw?oc=5",
+    "source": "Microsoft Source",
+    "published": "2026-10-13T08:29:59+00:00"
+  },
+  {
+    "id": "2504470595a8",
+    "title": "Microsoft 365 Unlocks Copilot Notebooks for Every User Tier - Geeky Gadgets",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9tWkJuTlBabkhTX2kzQS0yQlNjTkQ1N3cweEh5TWV0OHRzUEtOSWlma2RYR3AwWXBWN0h5WFlMdmQ1MW9jQ3ExT05OdlowcWlLUkxSV1VqYVpQSE5XbEVMdEY0SzBPa0NzeS00Ui1n?oc=5",
+    "source": "Geeky Gadgets",
+    "published": "2026-10-13T08:19:04+00:00"
+  },
+  {
+    "id": "da94e91db3a0",
+    "title": "Microsoft Executive Says AI Is Less Regulated than Milk - Hungarian Conservative",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPU09EczFSN2NYUHFlM3VOZVZGRzVvbDJmc3dCTkg5bXZ3aU5qWXN0ODlvck9PMjN3bllWTlVYN3NCZWNDZDBTUzRfRG5UN1Zhek95R2FsS1VmRHVBckpUcVhrTUd3SW81MmFKdUQ5SS1YdlRLYVEzMjVHNkczbEpEaVRBYTkzZ2hCd1VMeE5MRklPUnNaZTl0c3hsby1FdDQ1NU9N?oc=5",
+    "source": "Hungarian Conservative",
+    "published": "2026-10-13T08:18:37+00:00"
+  },
+  {
+    "id": "80dbc02bead3",
+    "title": "Microsoft Stock: Finally, Found Its AI Angle (NASDAQ:MSFT) - Seeking Alpha",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPNzhmVEY4RUVRUVVRcGlUWjJvcnNIbUJtSVM5bllnVE9UQUpUVXhuejRTZWFWeHJnMktXelBwVUtvVmoxZ3FOUFBfTHpiOVM3dkxnMmVqR1BTWnBIc0xjT3RfMVdHczV3UmQzWU51RWg2WnROMlF4d0stTEREMEZMcEs5MA?oc=5",
+    "source": "Seeking Alpha",
+    "published": "2026-10-13T08:10:24+00:00"
+  },
+  {
+    "id": "1e16c2d3ee59",
+    "title": "Brad Smith: UK Best Placed to Lead AI Safety Rules - Technology Org",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNNVktVTdKSGpuN0Z2MURqbEZweVFJbGdlWmxWQklRT0J4dnZHck0xQ1VYRnQ3UUE1VWJfU3VOZGgzQ0RNUF9CWEdUU1lEb3hISlVfenBnTExtR1RLUnFYQks5UHBWOVlLNnk2dmdHVmxvQkxiei0wU19lc0MtaC1KMDFNbFR5Mi1YWVNfVk5NU0s5Ylk?oc=5",
+    "source": "Technology Org",
+    "published": "2026-10-13T07:47:00+00:00"
+  },
+  {
+    "id": "7b02a3a7014d",
+    "title": "Microsoft market cap returns to 4 trillion dollars - marketscreener.com",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNQlRYajdGcTFFYUJ2dUFmWFIwanNLelJnQzh3Zjc1R3NJT1JSRUtZTUZOY0w1T1VCTUxwNTdPRGhNTWNLSThNR1dTSW5DYU9nSDBCNkNPbzE2SFc2RVlFanZYVkhUcWdsMHN6Nk1wNmhzelVWNHZZNnhJdVNONkNIR204MWZobUhQUGl4cHo2bUpYVFZtN3J3RGlqUWhVQmdzTWE1dGN3?oc=5",
+    "source": "marketscreener.com",
+    "published": "2026-10-13T07:42:44+00:00"
+  },
+  {
+    "id": "d835b0038162",
+    "title": "Microsoft docs warned its AI was starting a 'doom loop' that could gut the web - The Cool Down",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOOGNaREJ6WTBNTzA5NkdZanpZbThTQm5fYVJ2dFR1MHlIVWMzZDNSalhJX0Y1aG9jVkxpbXAxUFZ2bFNyVEJnaTQ1V1p0WTZrRi1pWE9JcGhBOXBHTW1KcVdldHBMVnJaYS1nZzFUN1hFRFB2enQ4ZHNDM2ZMbWYyTEZOUUxSeVl3?oc=5",
+    "source": "The Cool Down",
+    "published": "2026-10-13T07:31:00+00:00"
+  },
+  {
+    "id": "e10ed3b1fffb",
+    "title": "Key facts: NASDAQ:NVDA -1.6% on Microsoft Maia; China GPUs -44%; TSMC - TradingView",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZjBRRXF6c2dtM2JhbzNGOHBDalVuRHpkbEZsOUpyODVHUDg3b2pMMVhOc0VHMXF5R2FUQmNDaW9xM3VxbTFJcXVpbERfWnVlYkc4LVpoTWlsaHFHMmNUbHk1RXJPbEdoVVZPeDVVWmZQRFd4azQ2U2VMcFV0RWIzdHo2M0JGcU54YlZ2OEdCOUhtUXktVVVTMXlZMVVpSjVsZUN4eV94UTQyNFVhQlVvMDRSbFZjTURMLVZkWWNFOU1HQQ?oc=5",
+    "source": "TradingView",
+    "published": "2026-10-13T07:00:00+00:00"
+  },
+  {
+    "id": "5f6cc8ae4c69",
+    "title": "Mutual benefit: Skipton Building Society adopts human-first approach to AI to help colleagues and members - Microsoft UK Stories",
+    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOUkdWZGNCNG9iNFFfdGJTOGxjeEcwTWgzcjRDel9LeU9ZdkZCRzFmb29ZdzVkYjNhaTROMnozNU5QeGthdzlWLXpGT2ItTUsyZ2h1aGlkUWNXbUxGNWRyV0VsVkFlcUFBWG9UaTB6WXBYRFhFeWZ2SlRramJoVlBFTm9tYy1lcHF3RDRrRVgwclJhQ0JWbnJXR0tQd1pDbWx4WC1PakhpRUV2TGRBU3pHb1JlYmZjRUtMWF9McExvc0FqSXR5bGlPR09vbGZkODlnN3VhTUFBTTBTck03QXdr?oc=5",
+    "source": "Microsoft UK Stories",
+    "published": "2026-10-13T06:04:39+00:00"
+  },
+  {
+    "id": "ccbb81ad3a26",
+    "title": "Microsoft reportedly shutting down its Nairobi engineering hub - ITWeb Africa",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdTB0NWxjWVhjNUJsaTJtR2lWNndLM3czb0JaXzByWmtlWE5JdFNXQVkwc3dicFg3YmlGYWlNUDUxWXcwSjVTSUVodDRsNWF1TWtmeV9kYUo5V1ZWVnNNSHAzSHp1LWsyTEpfelE4NXFVTWd6N3Y0WmhpOUo3dEpaRGZad3VCS1NiWTZQdi1nUGduZHRBWGt3LUttMTQ5Ui1zVE1oRjZIdl9YRTNu?oc=5",
+    "source": "ITWeb Africa",
+    "published": "2026-10-13T05:59:41+00:00"
+  },
+  {
+    "id": "b172f805b14d",
+    "title": "Future of AI for Small Businesses - Microsoft",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZGRSM2RmOVBkcEpTUzRlazRJdDVjWW02THFyVWItb1VnNDNQYklGMGhGaUdmbmV1WXI4SGhPZlRfOGR4ZkhsLW5GcHY1Q3ROczNDVWUzRVhLZ0hwWDBhMkg1aEtxNkNyZnpyN0x0emZwRURBQzVTM0hZWHk3cVpIby16bjhVTWhmOGgtQ0wyMWMyQUVzQ2xkbnEzQnBHWGs2NkN3?oc=5",
+    "source": "Microsoft",
+    "published": "2026-10-13T05:33:59+00:00"
+  },
+  {
+    "id": "6de727b6ff49",
+    "title": "Microsoft Sets November 10 as the Final Security Update for Windows 11 23H2 Enterprise and Education - gHacks",
+    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPV0t1VUJiSUh6Sk1ETG41ZEJDUkZFYms2bXZJM1loYm5wZUNkLWZqMVlybjlpX0o1MTk5NnNCSWdZRjM4Qm8tNGJrWjZnMUF6OE5nQ0pNZ1F3a2lESHhaYmh4QWp1MmJGWjhSX202bWRsZXhxTkJqX2pyMl9TVVpOemVzYUtaWmFYRHZ1Ym1wRTVqNE8yZnF0d1VrdVlTUms2OWtOMEphRC1JWlY5TmprWkcyejk0N1R0SWlQNFpHMVNhTkp3eGpTU3cxZ2REYlpi?oc=5",
+    "source": "gHacks",
+    "published": "2026-10-13T05:26:00+00:00"
+  },
+  {
+    "id": "41151b3beaf4",
+    "title": "Microsoft to ramp up deployment of its own processors in its own servers - Electronics Weekly",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOdHdRRmR2UkktYUFULW9RMXdEVDBLbFNrdWY4ajZ6ZFREcW15ZkFFWU1OTFV2ODU0OFgwTkE4aUJXTU04NGFfMFE0QVNFQ2p3R0VXbXNWLS1ZbmVVWWtucktfN1RVamd0VXNGQ2MtVm1JY0RnejZrN2poV2puMGtfWjJzUVgwajQwd3Q1eEpJdGxnUUxFTmd3bEc0ckFUbzhVX01VOUVVWkEyMDMxMEk3dkxiNFBEVTA4OXNfaDdmeVktbUJa?oc=5",
+    "source": "Electronics Weekly",
+    "published": "2026-10-13T05:20:58+00:00"
+  },
+  {
+    "id": "68afe4948066",
+    "title": "C8 FX Hedge AI Agent Live on Microsoft - The Full FX",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9LLTBfVWJyOW4tQ3kxSXhkR1ZyOWh4MVpBT3A2UlAyUzJpRm1nRjZxVW9ZaTdqdU9YSklRLTZxd0lLTmpBR1FzMl9sZDU3S25rU2lpcGR4T3A3UXB4NV90Q2hiOFJ1bEotajdBckNB?oc=5",
+    "source": "The Full FX",
+    "published": "2026-10-13T05:00:55+00:00"
+  },
+  {
+    "id": "8465c07d4804",
+    "title": "ProcurePro Lets Contractors Talk to Their Live Procurement Data Through Microsoft Copilot and Claude - CustomerThink",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOYmhkVS1fNnMyVFR2SHBrZ1FwY3VRdWJCZ1hBd3pMM2lVM3hYNnIwUERncFFrRVBXcTRMTk5XWklMNHA3YTh5MThwM2g0bFFBbWpDQnd3VTcwUXdHeXRkcU0tTm9NWkZxQ2tLd3dpTUlkc3Bua0J6cTFLVFlESXZ0SXpWUUVEQ2dXaXctRVp5c3NrWU93V20zVXNNTDlIdmQ4RDcxSW84d3JXRzNRN0FkVzBEcmJmVGpUQVNEaHlyZW15N0pXQXc?oc=5",
+    "source": "CustomerThink",
+    "published": "2026-10-13T04:40:06+00:00"
+  },
+  {
+    "id": "294af15c0375",
+    "title": "Microsoft CEO backs AI 'kill switch' - FOX 13 Seattle",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1EV3JZaVRVXzdGY0o5UThxRm9EZTUxRlRSWW9UR2dmbVVIVm5tWHpaTG1EMU9SeWRBV21leTR3MlJXMDloLW9uQzRjWnBKTlZCSTRmbm9XaG5EMUhhdnNpTGlmcDNEUdIBa0FVX3lxTE5WTG1PSkRnbGVFQVhFVDNLV09sMmZHcE1lMEdNSVBFVXl3VFVyZmV3S1prdWJZUjJOdjB6UXhYR0R4RERJeUc1NV9hNXRJQjFPb3RPV0x4Mm5IVnc2VWlfQ3hwRmM1NEV0SjdB?oc=5",
+    "source": "FOX 13 Seattle",
+    "published": "2026-10-13T04:33:13+00:00"
+  },
+  {
+    "id": "4d17ae0fa7b7",
+    "title": "Microsoft purchases over 600 acres in Woodward to build a data center - KCCI",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPR2YtN1FqRzhlbWdQR2pPYVhQODBxVUxBaEZzMEZmY0ZYVjJhMEY0YVJKNVVJcDFNUHlCZEV2VVpiZzdhOTBDQUlXT2dyTDdZSEUweHM4M0NpT05GLVpoeUlFZ2JzV2g4Rjl0NjJtTm5MZzhXYVVOTWJiU2hlOFRURjB0dTdwdXR4ZzQ0M2dYaE1MdGMxNjVZT3c4ampkbFkxSUJEMUVQWS1GVnM?oc=5",
+    "source": "KCCI",
+    "published": "2026-10-13T04:04:00+00:00"
+  },
+  {
+    "id": "885907879117",
+    "title": "Microsoft enters land deal for data center in Woodward - ThePerryNews",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPbVNiMDhhelBBNWk3UTFicG9qNDdKUEhzTi0zal9jRlJrNmZoUVBKazBUeklIaE44LVJocThPV2dsd0pIcFJoSnhNcDBnZ2cwYkQ3YjEzUHVUUG02NUxKZ3hNeXMwNklQSDV1SkdCNDZVWHA2ZGN3MmpMWHY5b0JxdTduXzNkLTQ?oc=5",
+    "source": "ThePerryNews",
+    "published": "2026-10-13T03:46:04+00:00"
+  },
+  {
+    "id": "b1882faacf2c",
+    "title": "[News] AI Chip Memory Strategies Diverge: Microsoft’s Maia 300 Fuels HBM4 Demand as Intel Bets on LPDDR5X - TrendForce",
+    "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPTzB3ekI0Zm9RZkNTbEF6QUxLeVpSdVZhN1dCYTZHTFliS0xwMERuY1lHakJfX2FhWlFjVzZzMXBtcS1RU0xaWTNzdVJ6d0ZETnBRalVDTG53M1FwWjVBSTFTNS12TTYzZkVRbC1QLTBWLXo5cU90TG1PdHBXTnRITFF3aWtBVTlXaWR0VFRYM25PbDFCZWRZaTNhUnhydG5TVGdRZGtGMGZhaFFJbEJIWkxCMHN1OFFUQ1A5ZE1XT3lJNnNZT1ZfQUpUa2JsdjQ1ak5yUDJhRE1LVHZ6eGJuZEY3dHJWRjlvR0c5LQ?oc=5",
+    "source": "TrendForce",
+    "published": "2026-10-13T03:31:23+00:00"
+  },
+  {
+    "id": "2f67ca1265ce",
+    "title": "John Dorfman: Goldman Sachs, Microsoft in the Purloined Portfolio - TribLIVE.com",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9adlJ0SVQ1eHVYYzVnN2JNVElHdk1DV0tUWkdieHBfNU85MldycXJBSExnYmRiVTVNVnl3aWZTOUJ0YkhFTUNYWHBQSzBqZzBtRkh0UzN3?oc=5",
+    "source": "TribLIVE.com",
+    "published": "2026-10-13T03:30:51+00:00"
+  },
+  {
     "id": "0627dd810c31",
     "title": "John Dorfman: Goldman Sachs, Microsoft in the Purloined Portfolio - TribLIVE.com",
     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOenRQazlWVW5fa05TWFVFejJIMWRmY0daUjFYSTJqLTBGMVZjQ0tpdWFCSDBLVFRzd25lRHFpR3I5MHBUQWxhRE5xMUZLNkhVR2tuUHRNdGY1Yzk3MFhnM1hsSFNSaEh3SndOanNpTDhLNXR0QnJMdldnV1UzOHVlYUotcVd2dmw5SjdQWGF4NW9vTVdPTXRmLWRn?oc=5",
@@ -12,341 +348,5 @@
     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPcXpoYUYwSTNWTC1TemtoMzFFY1JIVFNONXBTWl9XWTY3ajVjYi1CZ1d5M1ZEaHcwNl80eEw1TTQ4WklYYlNXejI0TjFMM3M1ZWhVV0YxaFYxM2JJaXIyRjFaWEJwaE44SVZkVjk4RzVBbXhPYllmbE1sZ2xlWjlqcG1KbHVGOVFzOWxMX2oxVWZjMTA3ZkVwck1TX1gtZXFja3BXZER6UmJVS3AxNXFRMTEtY2ZOblJjbml3LV9neU4yMGp3cDRiVWlWTDhKb2dJaG1pazg1Sk_SAd4BQVVfeXFMUHE5UWlMOEpCZFBqUktNdmFyZlFrdkRsTm9nOXJBdlFOdzFmUnJsUW5wekdveVFvZVd3YXl3OWk2VzNTQUc2cm50aUprRlRPdHU2SllqeVRmeTlGQUtRZFhYRjNmcE1TVFlzd211dER2NDVvd0licjlTMTl2alJwaF9KeWU0dTNWam5YM2IwdjJGbHhUc1ZIZWppNHRFX1JEVERobmNuMUNxM3FFRzFIV0w2dVc4cHZvb2d1cU5rVlJGUEVyc3FHZHRrRGh4c2Z0eW1FTGszODE5WGRzZ3lR?oc=5",
     "source": "Firstpost",
     "published": "2026-10-13T02:33:51+00:00"
-  },
-  {
-    "id": "fd3b3bc27415",
-    "title": "Microsoft Now Has 3 Generations of Its Own AI Chips. Nvidia Is Still the Chip Stock to Buy. - The Motley Fool",
-    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOanc1TUVQTHpfTW9XcmJ4bjkzOGhVMmozNWZZQl9kRkROZGtWOHlCUVd0U19uSzlhMzFVNmhRbDdtT3hLSWFSQzV2dGt5MC1aYTU3cUJMMXFWYTlQNm9ETDJzRDkwUEo3Y2RKTEx0NTY2Z1BFTnkyYW1wU3BtVDctMG9CV21qVjNPdlEwVG5wR0tlLUpuRjUxbVNKVnRDYkI2WHFtWHYyS2Z6RDlNUEwtcjJ4dS1jcWpDa18wb2c3RmpNZWFBeUc3Vnd6TDc?oc=5",
-    "source": "The Motley Fool",
-    "published": "2026-10-13T02:27:38+00:00"
-  },
-  {
-    "id": "d37c2786ffcb",
-    "title": "Microsoft Publisher begins disappearing from PCs after 35 years, and your .pub files won’t open in Microsoft 365 anymore - Windows Latest",
-    "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPVWU3MDI4STFpUmVXb283eUJrMmJTVnNYcTlLOTlQMGlYY0NoNEY2WEppLU1WZHlnUG1XR0pYY2FRbnh2a0tTd053cmNrd0pDX2lrY241Y0Y0MzFYYVNNNEE0ZmZLR0FxUFZLYmVOTmVId3RycjVQQXVLMkJRTUVPVWQxcXpXM05XSGJjbVRuODhLcU9kZzFrTnE2Z091SVoxM09pZGxoTGE2M0drbjFyblNRcXZRMXJ0NmdRamtETVg5WFNrOTJ1LUYzTkNZRVkxLVRaSU1OSlJxa2ZlQ1E1Q2ZhcFNQSEFNSlF0cVJhQzQ?oc=5",
-    "source": "Windows Latest",
-    "published": "2026-10-13T02:24:57+00:00"
-  },
-  {
-    "id": "5ae335fac08c",
-    "title": "From Google's TPU to Microsoft's Maia, the era of AI inference is igniting a surge in ASIC computing power expansion! Microsoft is poised to deploy millions of its self-developed AI chips. - 富途牛牛",
-    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPaWVva29FLXVzZVRMUHVwYklvNk9NbEpQS0dxU1BjODRrU0JoMENycEhMSXltZjM5d0o2QkJzYm5LVGViTUtJSVJkc2dIRGp6bjI0bTdQMG95dEc5YURrcXhSVlVScTJITUxjU1BRRTg1bF9Rc0QxVDd2cnVIdk4xZjNhZjBWWUo3UUtWNDhzRVlVQQ?oc=5",
-    "source": "富途牛牛",
-    "published": "2026-10-13T02:18:24+00:00"
-  },
-  {
-    "id": "2a235dcdb494",
-    "title": "Microsoft Now Has 3 Generations of Its Own AI Chips. Nvidia Is Still the Chip Stock to Buy. - Yahoo Finance",
-    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUGwzNmVRVmhweXJVTG5US2RpZWU5ZmZjSGZMZThkVjFrOHNPWFlrWklhdml4ai16YTJGQks1M0JLY2Z3MFljTE1zY3FaVEdYMG9WcE1BaXJ3YjlHR3lPRkVMTGIzLWVYeEpyRjZna3otcUVzNWRqU3lYY0gxcEpzUEtwcGFNS1M4RFg3RkxQMlY2aFJDVDhLWnpTaw?oc=5",
-    "source": "Yahoo Finance",
-    "published": "2026-10-13T02:03:00+00:00"
-  },
-  {
-    "id": "4f00d1470c4f",
-    "title": "Users keep rejecting Copilot, and now Microsoft is killing its AI themes in Outlook (New) for Windows - Windows Latest",
-    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOejZUX1kyQ0p1OFc1TUpoOG5lR1Q5dHZGc2pwX1Q5ZGJYal85NmNRLVZhWmlDQmlPNGNHSUJxNkFjMDlTTU9JN3JxVzFQNm9aX1JIT2VrYnAzdE5OUGg1MkRfZUFJdmh4dVpEMHVnU2tRODFMNUxmOTVQa0tMbTdMOUNTWkVfaWhZbmRLQWVjemFGd1NfcURnMFlySWNfVWhfaWgydHdORFBrMVJEQnptbnZWYlFpNjI3VEFaYXM3Vi1JZ05wSTltNUdQODl2NVlSdUJaV215VQ?oc=5",
-    "source": "Windows Latest",
-    "published": "2026-10-13T01:07:38+00:00"
-  },
-  {
-    "id": "5940a12d99f3",
-    "title": "Exclusive: Microsoft Reorganizes Azure Cloud Unit Amid AI Overhaul - The Information",
-    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdUZKSldVNWVFaHdIQzhEZG1qaDMtSzl0QWpNdC1hN3ljNXktNnZsd0NGeWRvQjhXZE5ZaXA3UG9JMnY5eWxTM0k0d25wa2NteWJCb0ZGTi12R2FTZGxkZ1BLY0VWMlhWQnZSQ3M4YjdsTDNpUVFNcFRaTExzdm5mOWlkbjZoUVg5X2R1V1ZDLWZCZUkteFBHd2l1TThZcTY4dVVjTGMwM3lDQQ?oc=5",
-    "source": "The Information",
-    "published": "2026-10-13T00:59:00+00:00"
-  },
-  {
-    "id": "252b41865b60",
-    "title": "Microsoft Sues JLL Over Forklift Accident Liability - Bisnow",
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPdGhjU0RhMFBLVkRNSzBXLUQzWEFncU8zVFpqUWw3c2htYk5HLTltMVlHYlZ0LVZVX3R0RDNpUnhJdzUwMG5JMHRhNWhVMFA2MTZOQXNjOEVyTzIwcmxVeVhMVUQ5dXRPdHJiM3owS2dpUC1NMmdnU0JqR0VMd2hQS0VfRTdqeEZKSE1PS2R2b3lXRlpjSlVCLUFFcnc4SnBQRFpuRjJfRTdabTZkckI1bkZ3?oc=5",
-    "source": "Bisnow",
-    "published": "2026-10-13T00:43:47+00:00"
-  },
-  {
-    "id": "31b758c49496",
-    "title": "Microsoft lays off dozens of employees at its R&D center in Israel - Ynetnews",
-    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBjMUxTa292cVVrQVNoZUhEZVA5N1VYcXZWNW1jc0w1aXhZZDZaY3I4dXB4VWIwTU1MM19lbWM0YWpQMnBPQXNqa1ZIbGZjVzFkUnRSVHlCS0NfbmFXeXBITDE0TEVfMnpBQWFhQg?oc=5",
-    "source": "Ynetnews",
-    "published": "2026-10-13T00:20:49+00:00"
-  },
-  {
-    "id": "4b95c2737b72",
-    "title": "Trump Honors Microsoft’s CEO After Vance Drops an H-1B Visa Hammer on the Company - Broadband Breakfast",
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNYjdiNDVEYkNtRVpVeWtQVjVkcWJBSHFhZG0ydW56YlhUMTFvYnBvQ3pLaDVhMnZabS1HRzc5MlhtOTFWLU9YZlpKRm5xREEtWTBxSXBHcXlLb01mR25DZnhxbjg5ZUFWV2pKdEtDOTRWX2I1b040YWRTc0NrNERfeGNseEkyT3prY3BlNkdrLWFWQ19fRlM3SnVDczducFJTTm5KeGNWNGRjQ2h2RmJoQnVn?oc=5",
-    "source": "Broadband Breakfast",
-    "published": "2026-10-13T00:09:12+00:00"
-  },
-  {
-    "id": "16217e49513f",
-    "title": "Microsoft's Surface Laptop Ultra is an AI supercomputer dressed as a laptop - Mashable",
-    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1aWnhreUhIY0NHMjVRZlVRN2tjUnZnYl9OWEh4TFNnR0hMY3htR2JaSzI2eEYzek1mS1ZXNnFJbXFjYjVjcmFBTjlVNFNKTVVUenJxZ0ZadFFXTmNWemt5MmJQZ2pQRlk?oc=5",
-    "source": "Mashable",
-    "published": "2026-10-12T23:49:31+00:00"
-  },
-  {
-    "id": "03d91a6b3d23",
-    "title": "What Does Microsoft (MSFT) Gain From Its New Maia 300 AI Chip? - Simply Wall Street",
-    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPOTRtai1tR0VWQWpDZ0IwYW1lSlp1cE9PLUtZam8wRFFOWGxGZ2k0WWZXejBqZzJ5dnliVEQ4ckpnRGlCVjFWR1RDRS1WRHB6SlpvU29lN21EcWUxeDlkVmFISGpuV3hzd0VSRDVNbnlISE1jSFljejVZMGdFemNVYi1LSm5vd3dqeFBJUWd4N3Y3Q2xLcHVsUy11VndhdF9pTTFBQWhVNExGU19tbXdIX2FVMDIzUFhpWjRSSFNtVUdHeEt0UEHSAcsBQVVfeXFMTVAzNmhJRTZzR0l4SmY2SWVxaDBhV0JXZGN3YjExVDEyVTA0Y1JjX3dkazMtRDcyLWF6THBtQ1VRcU9IZ1VrWUlYczBIa2gtTGYyaWNlNV9tbkJIOTBWTkRzWjZaNzdrRDdRRUtoWWZwYzlDb1loMFBGeVIteUJwRDJSQlhRZ1Zqd1FseXNtcDd2SzRGNWUzUzExVHdOM0FTWFFZVmpGQXlRaXBBM2lZdjFtZTlDQTNfQUNTN0hpYk5hZVJ6MGdIcndDYUk?oc=5",
-    "source": "Simply Wall Street",
-    "published": "2026-10-12T23:40:20+00:00"
-  },
-  {
-    "id": "fee78af4247f",
-    "title": "Microsoft CEO Satya Nadella wants your PC to become 'an infinite software factory' in final blow to the app store concept — but I'm afraid businesses won't bite the AI apple - TechRadar",
-    "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPVUViU2xLSWk3OExleHJUMWdOdFpPcEdTMDRtbFFrVzFSeXg3TVZZdzdDZmhNdjZUVjhTWlNsV2lCYVlaRmJ2WW1saXNrOTVsbVlIMkxHVzN5YjlVa250bVN0aDltSmxrZWRvSHBDcWVTeXNjckhTYTU3QVBPNV85YkZaRWwwa0M4RDhIbWw1T241dnJLSnUwdmVKUmlsYVkxQ2lRbnRmQXNTdGpTc2E0c1BDU3ctVmNYWnN4M3NWTFFfamNxT05WbS1ralpRY01RVkcyZTdIOENJWmxrcF9jZ2k1aUF1V3RNNGZ0YWYzZEZQV2lqR1ZFdGt2dFpZa3VxaTI5VVcxV3FibmlNX1hYdw?oc=5",
-    "source": "TechRadar",
-    "published": "2026-10-12T23:20:00+00:00"
-  },
-  {
-    "id": "47ddff9dac01",
-    "title": "Microsoft CEO Satya Nadella wants your PC to become 'an infinite software factory' in final blow to the app store concept — but I'm afraid businesses won't bite the AI apple - Yahoo Tech",
-    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOQTBwbTJJT21EOUZUaDBBZGRjYkFlTVZtQTA4VnQwWWw2TG5hWEdMZmtyZXY1blZvSHViODFpck96OWRVOHBYVE9EU2NFSEN2VTZHdGdObVJEc08xYkZGSHpxQjJsZmExaTBaRE1NVG1uUFZrdi1oS0RWd2VDbk5PcjFDazBlVlcxelZ2dHJCZ3BxSEdBeHc?oc=5",
-    "source": "Yahoo Tech",
-    "published": "2026-10-12T23:20:00+00:00"
-  },
-  {
-    "id": "b2a8f4e4778f",
-    "title": "Microsoft unveils Decision-1 with 35x speed claim over GPT-6 Sol | ETIH EdTech News - EdTech Innovation Hub",
-    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPa3VXSWdGME5EbWYxcEZUdDVkWG9FNVI3MWdPNGZPRFpJbnJTcjA1ajk0NXZzYkVkNTNIak81endiVFZIWmVHRXMwa1hmZUNSNG40Tnh4azY3eUZ6bnVGSUo2dUJqSW1Dak5DT3VQVmM0ckdJVHRnQUg3UzlUMV9kLWFkY2wtY3p0Z1pvemI5S0dia0NTY015aWR3WFFQMlNkRTNkY1lncFlYbzc2a2dBdEFlUE95dUZ6Y2c?oc=5",
-    "source": "EdTech Innovation Hub",
-    "published": "2026-10-12T23:19:58+00:00"
-  },
-  {
-    "id": "61f6bd9936fa",
-    "title": "Microsoft President Says AI Has Fewer Regulations Than Milk. So Now What? - CNET",
-    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQcVJhV3RJZ3FZOS12eTc4OEl2eEtrT1gxY1BjLVBGTllZclBnQ21ZSkFSU3YzbDRfRmoyb19rbllEYWFNZVNBUEpvNHlWRXhGOERpZjA3S0dYNUU4ajdLd3hWaEtnczd3bE1iNHhJSFY5YzMwalp3UElkemtwTW9xdm1GcHlWS0xTdXhYN2VvVHlKUl9NZk5Ba1h0ZU9FYmtlZ1RmZGxR?oc=5",
-    "source": "CNET",
-    "published": "2026-10-12T23:10:12+00:00"
-  },
-  {
-    "id": "5cf41a894e81",
-    "title": "Microsoft Boosts HBM Bandwidth by 2.5x with Maia 300 Accelerator - HPCwire",
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaXFnQk9iSVhZWjRKaEFja0FCYjFCZk40VnR3QlZ2OUs0Ri1rcE5mNHJna0JQY1hfRWtic19lTkJndW0wUU0zZ2hjYkpEd1E5UTE4UjJ3X05WU2U3eXQxTkh4cWlvSTNSRVFVTGktRTRPajBzQ2t5b0l1VUEyd0EtTlhuV1I4dkVBb04ybW01ODBQSkFhaW5Jc3RMSGZMOTdlV0E?oc=5",
-    "source": "HPCwire",
-    "published": "2026-10-12T22:48:37+00:00"
-  },
-  {
-    "id": "d41c96b47933",
-    "title": "Microsoft to launch Maia 300 inference chip in 2027 - Constellation Research",
-    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQYkJ1ZTBkVS1JaFhFTEhjQnVLbnVsRmh2SFFURC1ya0J1OXpRbGpkaDQycW5LclZHRzc3MFFubm43RHBIQlhULXZieE1lUFoxOS02Z3VPM1FkcVUtS1ZsQlYxb1lEVERvMXY4TkFsVFhvMHhJZmhKZjBGR01MaC12SnNhWDhwV2VXQmVHWDhrZ1VsVVBI?oc=5",
-    "source": "Constellation Research",
-    "published": "2026-10-12T22:26:14+00:00"
-  },
-  {
-    "id": "271a9dca1659",
-    "title": "Microsoft Unveils Maia 300 AI Accelerator - RTTNews",
-    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPOTc0dzNpN1pvZWNiVm1tUFlINWh3VEpsMDl6c1dfTWhTOXl4d0pSb1F2Zzl5Wlc3NHhGbTcwM1FJUFk3bEFzaGJuRkJBZlN0ZExFRERTU0xIMDU1Tno0T19wT1FvN2k1LTdXT0hwLVQyZEVVZVcxSVAxeTZSUC1SUEpTYzh0bHEwcmc?oc=5",
-    "source": "RTTNews",
-    "published": "2026-10-12T22:15:00+00:00"
-  },
-  {
-    "id": "581ae4ba33b9",
-    "title": "Microsoft's AI chief on whether Maia 300 cuts its Nvidia dependence: 'Competition is good' - Yahoo Finance",
-    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNZ0poZ1NhY3J0eUQyd2tMd2tqX3p3WGZtU2RBTEhKMHpFa2dQenVGem0yWkZyRXltcndoMVRaSmxUTjlSM01ONTRDcW9IU0dwaHFyeF9Fd1VkampoOEtrc1lBYVFPME95R3NuWXd4bGlLeU1GU19venR0Unhib28xb3pmMkt4b3BsbkdqR1dGbTNOLS1ENHllYjVsNjlWNVJjRXdJRjlUVVk1NkFDMnpmekYxNGhRbXRMZ3ZLdlJsNzNQVGhLaHJWQ3FYZWRydw?oc=5",
-    "source": "Yahoo Finance",
-    "published": "2026-10-12T22:03:31+00:00"
-  },
-  {
-    "id": "dcf1c4ec9412",
-    "title": "Microsoft president says AI faces fewer safety rules than milk in call for global regulation - Fox Business",
-    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQR3lRanRBQ3pkbU0tYkZ4SUNGZFNxUkllbDZkcXFEYlRRSFp1UHd6bGw2VjB1U2NSZlVPTHYxX3ZjTzJMOGU1UVg5c05IUEdOWTFwaWYyY1RENDd0YUs4WXcyalVuUEp5OEI3UXM2dGR5SWZ6TmtrQ3VtRFdKOVZFQnFZaDBMMU5ORUx2TFlablFDbENyb2w3Si1rOTdHS3FiTlc1SXZRZ3BnZklweVZRT3dTM3pKY0ozTkxuX1VBWjVBQdIBxwFBVV95cUxNanlJTmtaYXI4dng4NnBwNFJxZHdVUy1yRWtXbVMyU1dtSUV3dVk0b0VfcG1aX2JMNVRZMVRJOTZMdHc5dEZHNmhXQ0paZ3dhZ1IxMEJEelF6bF82MnNYZ0prTjhHWHltcURkWlljSGg0bEJkTTdZVl9tdzNMZ1V6d011bnN6QkpDaGtrNEJDSWo2dGtoTVo1bHlKY0ZPWlNkXzlCRi1TZGNHZ2x2Wk1icFRIS1VJUGdpZHI1UEhBS1AxcjhOci04?oc=5",
-    "source": "Fox Business",
-    "published": "2026-10-12T21:55:00+00:00"
-  },
-  {
-    "id": "63501ed2dbdc",
-    "title": "Microsoft president: Voluntary AI safety promises aren’t enough - Mashable",
-    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1BcmxxLVBiN3JmZmk5bXB6cVMyT2lZb1ZZOWRXTkJCc2JuaGJpVklUa3FWVERnUzhweVhzMGdHZ0RnYW1xbXhOck9Ddzg2YWZCcFJFTGhuRFFHWTNHYVRxWFZUVmxHZ2RSWThjN2Fvck8zdU0?oc=5",
-    "source": "Mashable",
-    "published": "2026-10-12T21:38:45+00:00"
-  },
-  {
-    "id": "d307ca77b907",
-    "title": "Microsoft: AI Has Fewer Safety Rules Than Milk [2026] - https://tech-insider.org/",
-    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9KV2F3aGtXN3ZCaVVVYWd4dElWeEtQQ0s1RkNWNkVFQzJtRHdzbHpvd053cHktOVRubU5aY1VfU1l1Q19mb1FWVW9lYW5MVGxBc21xcFROaUFPd2Z5bnFZNmgzU2xsSVBhNnQxWnhhSW1PbU5FTDdrWThHWDA?oc=5",
-    "source": "https://tech-insider.org/",
-    "published": "2026-10-12T21:37:19+00:00"
-  },
-  {
-    "id": "4c4afb136a98",
-    "title": "Microsoft to Lay off Dozens of Employees at Its Israeli Development Center - Haaretz",
-    "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNN2ZuMmdZbDhLZ2dVLW5pYmpBZ3BkOE1TZGRVMWdyU3VRUER4SUhOdkpUem9qVVJ6ZTJHRWxhWERiYUJ1Z2RRZi1OTHlmeDFPVjBxdkYtajcwTFFpZUJtQXE5UG9keEx3QlA2V1Z0QUg2cEh3bjZ2U25XNjRNMlRWVkNUS2dyLVQ5ajEtaEtXVzBRRURNNWpRR1FwUGZ5YkdzeW5jRFJRYnlpSl9qam16a3JlMk9qUkd4LUxnU0FqcG9QLUxrd1pWanpRenQtUlRWZTRtVFh4NTZfdWVnVFc1Uy12ZDNhODQzcC1qeXhfYTdCT3RzdmJHZmFvTzRGS2lUY2hFTzBaa2NJUQ?oc=5",
-    "source": "Haaretz",
-    "published": "2026-10-12T21:21:00+00:00"
-  },
-  {
-    "id": "88a83d08aeb4",
-    "title": "Microsoft bets big on new Maia 300 AI chip to reduce reliance on NVIDIA GPUs - TweakTown",
-    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTXpua0RYZHQ5QnM1T3EyLU85UzE3VC1FT2lsUlZETEpUcXd1bWtTaFBSVUpwZGplMmdhU2tjOUd6cDJ6Q0g5Q2xmeDZBQjBiazNGT2QwRDZsb09kSTVnMXNzQ0xVMjRnRkNOa1lpdTFYWGVrT3d6TFZuSHE2ZmNqMmFDTE4tTUVidUtTbVF6LXg4d0dUa3M5MnhhSzJoUW10Z210UklUZkd6LVk2MFZMX292TzVtd1ZDQi0xMFM2RmZ3bFU?oc=5",
-    "source": "TweakTown",
-    "published": "2026-10-12T21:19:15+00:00"
-  },
-  {
-    "id": "c07de973323d",
-    "title": "Vance Claims Microsoft Replaced 6,000 Laid-Off Americans With Foreign Workers - bloomingbit",
-    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBfa1NGVnd3SjNQV0NpLTVwQzFwY3dEQkx3Yy1YY1NuMy00c2N0VkY2Mk13RXhzSHZIbmFQRlM4eTJKQ25ONkZ4TXlQN29sZWNic3ZnNw?oc=5",
-    "source": "bloomingbit",
-    "published": "2026-10-12T20:39:15+00:00"
-  },
-  {
-    "id": "8e4f51853a8f",
-    "title": "Exclusive: Microsoft’s departing science president plans to join Mercedes F1 team as AI advisor - Fortune",
-    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNnpOOXV3YTJXN0R6ZWl3WjFaeVh3ekR5cUk4dWNjX2ZSZXlQc2EzTXRFRWxGa0ZEY1VPQ0hNVGJlWi1fbU5ZMnNTU280MFdIVmJCRkk5eDQzSHpBV1ZrX0hpN1hiWVJiaGNPVGZrbERydWpLRzVPYUZLdDBQZWFoTDJ2WklOdWctR1RsTW13ZVpoNTNWclY2MWZ1b0I0NXFTVko1QXpHNURJUzEya1A2bkkwelEweUxpOHI1S3ZXc01Rdw?oc=5",
-    "source": "Fortune",
-    "published": "2026-10-12T20:38:00+00:00"
-  },
-  {
-    "id": "5f38149e0bd0",
-    "title": "Adobe software dupe maker takes on Microsoft Office, releasing free versions of Word, Powerpoint, and Excel - Mashable",
-    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQaVlzQ2o2VFRhOUpEM25YNzRiTUF4VkNjOGNxWDJKVnYzeXZ6bVZGV3Y4LS1qWkk4TDdLQXlGQUpUOXVzRVlrY1pVOUhoQ1RyM05OejZkWmhKRzlsMmN6TzAwQ1YyY05xWDg2ZjJTM0dfM0VhRUU5Wm5iRzc4WnVQeE9qdm5IRGdhM1R0Zl9kNHFXdw?oc=5",
-    "source": "Mashable",
-    "published": "2026-10-12T20:37:30+00:00"
-  },
-  {
-    "id": "147e99f41205",
-    "title": "Microsoft president warns AI is less regulated than milk and washing machines - Mashable SEA",
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOYVowVVNaUXVCVnVMV3pYcnZEcTdreWRDZVpkYm9qTzMzN2Z5TzJyVklRRURfZFVDZ1hYLUVtVlo1Z0pVZ0ZiODMtZUEybkhFSXFFa2N2dk9jeW5UZEFNclA1dzR6OHFQSlpPNzRiTWdoUElScXNOcHBKQ3NRNkFhNWZZbGVJVGpNSGtlUnM0d2xNSURiczNnY2JRRE1nZ2psbjNKdjlQbGVDTHo1X2NsS3VwbnRIR2JoZjI0V2Fkcw?oc=5",
-    "source": "Mashable SEA",
-    "published": "2026-10-12T20:35:17+00:00"
-  },
-  {
-    "id": "99994e7b4899",
-    "title": "Purdue Northwest migration to Microsoft Teams Calling - Purdue University Northwest",
-    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9BMXg1aTZrTUpIemNnalFkYUxfNlJoRUtuY21kaHUtcEtUaEh0Y003Uno0XzVTTnExQUY3ZjlLYkEycTdjY2ZuT044Z1ZnaEsxREUxWEV5U3VfLXRrVVI3NFNvdmlIOFB4QW1VamlXQk1HTWhQRG00NmZqc0cwUTQ?oc=5",
-    "source": "Purdue University Northwest",
-    "published": "2026-10-12T20:28:08+00:00"
-  },
-  {
-    "id": "9e3505f584b6",
-    "title": "Microsoft plans huge deployment of its own AI chips, with an eye on saving costs - Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPWHVSM1ltUmRIUHVldm04ZU5JX2hLc0lhYjZVaDMzMDlkVkxXNUM3OTFFVU1kdlM1R3BneGN5cXp3Ui1Yc211TFF0VUU3ZlpRWjhBRy0yOGJjdlZxR3FmdmFHdFNMRDM3Rnh3WjJMd0d1MHNINEdvdWpBVEc5TTJNMjk1Xy1JNEY2b1g5RkYzWXYtakQ0SmNnMHdoUlRnbjFMSWVBUm9QaVBXbkFNUVgwSDVLdURleTBwMHc?oc=5",
-    "source": "Reuters",
-    "published": "2026-10-12T20:22:23+00:00"
-  },
-  {
-    "id": "275495f3423c",
-    "title": "Microsoft nears overbought at $543 resistance: Live levels - Investing.com",
-    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQcEZnaHZVeUNPME9pV0VfekdUMGtZaTl0amwyRzB1ZVczUUE2NDhJRTZPN0swUnRWWU1FVTBETlhMUEd5LW12THZpbWhkQjRpQTZBYjNZWXVGSDktRlI3OFJHTDN6SU12blA5UW91ZGRsazNHWDVmYnF4UDM4ckhWNF9LUGd0WEhPYkxKNHZhNmZGMDJ0cGhELWNCMzhDM0ZQTXRFVWtaeUZkdjBxdUZlaDZsQkF3MUpSRGlLeTZnTl9TdWs?oc=5",
-    "source": "Investing.com",
-    "published": "2026-10-12T20:12:11+00:00"
-  },
-  {
-    "id": "2aaa7ee9090f",
-    "title": "Microsoft debuts multichiplet Maia 300 inference accelerator - SiliconANGLE",
-    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxORmJuanc1dUk3SnIzYkx5TUozYTJsUnF3WXVIRzVnYTdxQU9SQlBJZ3k5SmlsTjROb3paVjItNVZ1dUtsNlNTVU93TnB1bkI5QWFCdFNmU21WNmRfWjJlMWZJaVZkd2dLMWNOOUJTQUNqREhSaEtSV0pmcG5DcE0wRTZiNTVGVG5najV4Y2FZOUMyUzlLeVZLTXRHdlFTUQ?oc=5",
-    "source": "SiliconANGLE",
-    "published": "2026-10-12T20:11:00+00:00"
-  },
-  {
-    "id": "2a9f208a2a7b",
-    "title": "Own Microsoft Office for Mac 2021 for 63% Off, No Subscription Required - PCMag",
-    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOVnh6MTF4Yk9tWk5GSHZ2czhSLUh6aTEzeXlMN3FiYU5qN3lIcVZldDNqcmhjQlNrNjZSYy1JMjE5QzgtT3RHZWIySDRjMldWS1JpMkxxQVp1ajBlTDY1Rmx3b0RyUDV6blRFY0pYWFlQTnV2alpEUjRHdVhaNGNrNFBOYXFZVFFsdjhLdFRIcmxkOWZrUnhnUXdmdVhPQQ?oc=5",
-    "source": "PCMag",
-    "published": "2026-10-12T20:10:02+00:00"
-  },
-  {
-    "id": "234cae0bc725",
-    "title": "Microsoft preps Maia 300 for a wider rollout next year as it scales custom AI chips to gigawatts - Briefs Finance",
-    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPQmRWNWpMM01Ba0o0VVpzUkphQnEyUXF1SzluR05MT2YyTFlUeUdDUW9kS043N0thU2RGSFZUX3Rpc3BNQkMwU3NoSXZuWldlcUE5c1pBOVNBbjZvS21aOERnOEw5UG5vNWpNRmgtbkFsZXNXdS1aNW1DTFpuSzlUdGYtaDZiVXNPTTMzQkJ0VVROdw?oc=5",
-    "source": "Briefs Finance",
-    "published": "2026-10-12T20:02:22+00:00"
-  },
-  {
-    "id": "455094e92e60",
-    "title": "Microsoft’s CEO says AI industry is skipping a step that could matter a lot - TheStreet",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZXVjaElGbTJnaU5RdkxodWdRZ2V0SEszM2l4LTk3NXFoVGFVWERKUGxMS203clNUeWJLT0RkZVZQUmE4SDNxcUUxQmk4WVdVVndDYnFOOEFsakdMZ25seTRhY0doRDRWaGxDZkVVWFQtb2ZvSVJYNDQ5elpmSmFDSkQtVGRROG1UYUFfYlZqazNRWFVldTJOZmpZc2hweGhuV0NTRW5qZ1BIM0F2YVROTg?oc=5",
-    "source": "TheStreet",
-    "published": "2026-10-12T20:00:00+00:00"
-  },
-  {
-    "id": "cdb382f072a3",
-    "title": "Microsoft just reclaimed its $4T market cap, thanks to its Maia 300 AI chip - Yahoo Finance",
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQaGNWdnVjYUNkck9HdU11UU5BbnZTcHdIU05lRXNadkNCY29BRHdDTHMtdi00RXZhbEVKOVVFbFlreHVyVXFOLTk4NmlockhtN3c5S2RiTXprX05kX3ZSWHRXbGFoTjhmejl3Q3h5dld6NzhPZ2dZejBDQnNEX3VTTHN5cXhLdkM5cjgwd1NOSzlIRW9sMmFyRFdGUll4eW9PSWVZQjBvYWpjYXAwYlF0RVJQZXR4YWR5eXdnUw?oc=5",
-    "source": "Yahoo Finance",
-    "published": "2026-10-12T19:47:08+00:00"
-  },
-  {
-    "id": "6482e5a9c4ab",
-    "title": "Satya Nadella went from H-1B worker to Microsoft CEO. The Trump administration just shut that path for his employees - Fortune",
-    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPMnN3a2xweWZqYXdhOTFJWUZ6RFNRNjBDNmtEZlQ1UlVwUHpjNG5wdlJYR2pmUXJHdW0tWEpnbU1hTzZmN2R4SjE1Y1Y4aEg1SHhfUVBTQWRLbXNKSi1PQkY1QlJlZFFJcF9pM0NOZXl0Z1BzQWwtRGJmU2MyNzRVdDBValhidzFINWxQa3ZkLVNHSWc?oc=5",
-    "source": "Fortune",
-    "published": "2026-10-12T19:37:00+00:00"
-  },
-  {
-    "id": "dba46f6778bf",
-    "title": "Maia 300: Microsoft Builds the Exit From a Compute Landlord Model It Helped Finance - Yahoo Finance",
-    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNd0lzQnVkb1EzOFcyZVRhZDI5ZlQzS2ZiN3pSaFlRWGVqT1UxY3IyMUhwSkJkYTBwYlZVZDZxUDJqOGJfbVZrTWY3NF8xRDc0eWNUX1g4eHdWNUlzNkJuQWdzejBfSENoTUNoS2p2WXk2Q002NTYtdU1xdTNuaWVyZG5MdVllWFhfVXQxQ2psNmJWdzg4QTE2ZVd3?oc=5",
-    "source": "Yahoo Finance",
-    "published": "2026-10-12T19:30:01+00:00"
-  },
-  {
-    "id": "8fe093853a9b",
-    "title": "Microsoft revises Mount Pleasant data center plans with larger footprint - The Daily Reporter",
-    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQa0tUdTU3TjltQ0RQQlFmR285dTJyVk9pVnRUbWNOUjBFaTBGMWhvMHczODJPNWloZldYUXJmUzE5WUlScVdPbkw2Vm9FcGQ5WjEyTkpuckg1Y1V6ZEd2cG9YN01GRDU4ald4YzRqQzBFbUN2aFRXYkNILVpLRjE5a0d5bUZnRGRzSEg3RlgyR2Z5QQ?oc=5",
-    "source": "The Daily Reporter",
-    "published": "2026-10-12T19:14:19+00:00"
-  },
-  {
-    "id": "85be00115f90",
-    "title": "Adobe software dupe maker takes on Microsoft Office, releasing free versions of Word, Powerpoint, and Excel - Mashable SEA",
-    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQdXp4NXlFLTZXY0VKcGhZcHZTQ3RpNHlQTnQtZEFmRlpxVUcxc2o0RkJBcEJIRTVtOTVSV1hKSzlBbzM2N3l1bFpmV2hKWmV3SkljU2JieExiVmp3c2t6SS1DWEN4eXVxV3RONURvcTFyeUFSUXdKYUV2a1h5OHVneE5aRjk5UEhaQUZUZ3RrZ1dtYW1pQ09ObS01bjRaeDNuS2trRmVxNXRUN2dFa0FwX0tSZkVKSVh2ZmRocGRJcF9YOHN6bHVTOHdtOU9JUW1odlE?oc=5",
-    "source": "Mashable SEA",
-    "published": "2026-10-12T19:09:36+00:00"
-  },
-  {
-    "id": "7d36fecddf16",
-    "title": "One developer is taking on Microsoft Office with help from Claude AI - Yahoo Tech",
-    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOV3dhQXdocWw5NDJaSThWQlp6WEs1eWhYYVUzaFl2aFpzQmNaZVhON1ZJYU8tWFI1aDhmRHNESHZWS20yeUtEVHBsWlBEdktKTTZfcVlhbVZsVVh5d2I3U3o4bHc5UmwwVjU1ek5YRHp0TWZ5ei1BaEZ6Z3FZTjYwYW5XblBERmxUTVd2cThHZ2s2ZE1oOVpwUWhB?oc=5",
-    "source": "Yahoo Tech",
-    "published": "2026-10-12T19:02:06+00:00"
-  },
-  {
-    "id": "6282ee9aaca4",
-    "title": "Microsoft’s Leaders Have a Plan to Make AI Safer. It Involves Treating It Like Washing Machines and Milk - Inc.com",
-    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQU3loX1Y0OW0zeS1vQy1NX2U1WVBiREMtVnpjdTNnWXhmRTlJU1IzN0tNR1N6SkJ1N1BQSzN6SEhESDRxQXV2THViZDN2SHJYMHJXTnlSVGdHa0lqaU1iV2FDMEdOZXpuTFF2bVpiY2FrSDFFRkladTQ3aUtpOUF3d1lqdExjY1F1N3kxT2NyeWxQS3dJV21KV1BQZm5VdFNBdHRzUnBTdzlXN2hud3cxek56T3ctWkpNbUdTNW9XNjItNWtmOXZWTmRIM2lRUzNnT25SWTZORjA?oc=5",
-    "source": "Inc.com",
-    "published": "2026-10-12T19:00:39+00:00"
-  },
-  {
-    "id": "87d455e1482f",
-    "title": "Why Microsoft's AI Growth Story Justifies A Strong Buy (NASDAQ:MSFT) - Seeking Alpha",
-    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxObl9KakpiakRtRjZYQmUtVzlmTXg3OHNmN0RZOWNHNGxfSHR0dlVQMHlRYVozOGdlMmVmYnd5alFjR2REbS1Rbk1fdWY4bmxLX3Rfa3hSV2tDem1BVHV5QjVzZUlsazU5VXlLUXVBdlh5MktmM1VoVDBmM01FYVBwNkwzdFlWZ0dHM01rZzc5djlrTW9aX1o3Xy1R?oc=5",
-    "source": "Seeking Alpha",
-    "published": "2026-10-12T18:54:22+00:00"
-  },
-  {
-    "id": "e0d1b156fd1b",
-    "title": "Microsoft President: AI Has Fewer Safety Rules Than Your Washing Machine - Yahoo",
-    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZTRxXzlGZlBKcjdzQkxjOEkyMUJFYWtUX0c1UE9xMVBsSzU5WlF1UWFuRUhTZWxqRTI1TXEyNzUwZ085OGRrcmd2Q1h4LVI1RERXYldBVTcyUi02bW9iNU1YZUprb1YwYjc1VDRaVGhMa2VGMXhaX2tYNV9fR1JhZGxuU2EyNGpvMU1oRmthUVNSSmlCWTRnNjBpaw?oc=5",
-    "source": "Yahoo",
-    "published": "2026-10-12T18:50:24+00:00"
-  },
-  {
-    "id": "50754c857855",
-    "title": "Microsoft President: AI Has Fewer Safety Rules Than Your Washing Machine - Gadget Review",
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVE5Yd1Fxc1NhWFIxcEVEdG5VOFBkamM4R2R5T1FpaWhQYzZEWVZ4Y0hMRjVCMDAzZ2pRTVF5Z2ZRdjNROEFaTG8zM0NUb2xrVFdLTDZpSGlXOGxnSi10cS1fQWpTSHBKRU9JZkZuNWxaaXJyVzlGX3ZucVRXYzE5TmxkM05POXlSZkZzVmJlZzBmT2QwTEE5dVBGelI2U3N2YlE?oc=5",
-    "source": "Gadget Review",
-    "published": "2026-10-12T18:50:24+00:00"
-  },
-  {
-    "id": "49b59287b4e3",
-    "title": "Microsoft, Micron and Meta make news. Here's what the updates mean for our stakes - CNBC",
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQ0YweEhHa0hXV3NZWG5uRVZIMzRTdkcweWF6VG85aFBDZTBwVWtmU0pKUmxXQmhRY1ROWkJBM0ZxdExNd2JjSG5oMjFrTnFWZGQ3RElET1FBazkyZ2hEYWR3YzFFMXBLamJwOXR2UDc3VnB3aTlIT0R0VVpJbU9DZkZnR2ZpWDRvbE1hMXhjWE84Q3lTNWN3WXgzeVMyQzdrTVhGYnFEbHoySG1leEt4dnpqYUl3VVQwUDBn?oc=5",
-    "source": "CNBC",
-    "published": "2026-10-12T18:47:58+00:00"
-  },
-  {
-    "id": "5df9fbbd3cf8",
-    "title": "Microsoft Copilot AI Predicts Bitcoin Cash to Hit $5,000 by 2027 - 99Bitcoins",
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOa2xQVFlpRjJmNmVoUmc4c19CUzlUMnV2YVE0emtZQ0NrN2pMMV9haUFPMElhTF8wS0hrdDNxZ1RQX1VMamtFSlFhSWhiNGFVRk9NdFVhTGs0aE9fVS1tQkNGLWxycTEwZ096M1F2VUd6Z21qMUZqQ0x6aEQxYlFLTmpwd0kwLWtCUXJlV2VmUV9sNzBROThtZ0EwTG5OMDd4R0E?oc=5",
-    "source": "99Bitcoins",
-    "published": "2026-10-12T18:47:13+00:00"
-  },
-  {
-    "id": "a8421ce93f5e",
-    "title": "Microsoft's Maia 300 AI Chip Aims To Make AI Cheaper And Faster - HotHardware",
-    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQMUI4RTk2dTZjZW5fMUg0REpHV21hMkItdWt3MUJyZ25jRHlPTFdaUzBNRlVINEdhVFU0YnE1OFRaQWFtaEp1X0w0dlVKR0kzcExDMW1wVFlvSXlONDNQNHNvQ1BrWm5KX2h5YmpOUEg1SlB1UGtUcFF2UDhxRGkta0EzU0xzWm5uYmVQaElHeFlCS0x0M0E?oc=5",
-    "source": "HotHardware",
-    "published": "2026-10-12T18:37:00+00:00"
   }
 ]
