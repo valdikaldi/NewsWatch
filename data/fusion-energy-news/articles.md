@@ -1,8 +1,140 @@
 # NewsWatch — fusion energy News
 
-_Last updated: 2026-10-13T11:28:31.098228+00:00 · 50 articles_
+_Last updated: 2026-10-13T18:58:34.010676+00:00 · 50 articles_
 
 ---
+
+## How America’s Tritium Shortage Threatens Fusion Power and Its Nuclear Arsenal - The National Interest
+
+- **URL:** https://news.google.com/rss/articles/CBMiwAFBVV95cUxNS0M3cVFvMVo0NS0wQi1vNndqMXZnWU1wSzlGdm82ZTVGYXVfSV9yNjZMbFhuOEVTS25COGpUM0hodDQwUTE1TVpxQmVNRHNqSEl4b21YdFZBR0Zqd2VBMWRZYUdJdXEtSGI3VFdJYUsySkx4SVRILXhZWmMyUFp4dHlWUTRibDVzTU9LNXk1dmwwSkdYZzl4Y21JNXBaelZvVjdOT0llY1MtUGR3SFN4b0ZGWFpBcFVXenBhdWl4c2g?oc=5
+- **Source:** The National Interest
+- **Published:** 2026-10-13T18:29:42+00:00
+
+## LLNL Scientist Andrea L. Kritcher Wins E.O. Lawrence Award - Mirage News
+
+- **URL:** https://news.google.com/rss/articles/CBMiggFBVV95cUxQSW5Wa250dFFJWWxld3RDT2dmbzJsLXVicGhrbG90YVY2bGwwSFJDTThvTU1zRUNrZ3Vralh1T1FSVmMzczIwSE1BZ1d3bW01VXF6dmI3a3FNeDU3OFA3dW1oWk9NTmhxSjJrUkVTeFZnLXoyRTY3YXUyeWx1Sk9xcFFR?oc=5
+- **Source:** Mirage News
+- **Published:** 2026-10-13T17:54:00+00:00
+
+## Ashish Kacholia, Kotak Life lead Fusion CX’s Rs 315-crore anchor book ahead of Rs 702-crore IPO - The Economic Times
+
+- **URL:** https://news.google.com/rss/articles/CBMi_gFBVV95cUxNRmdoREZJQ3BUM1pOQlBPVmx2YXFCZG9iQXUyVjFCaGFvaFZOdk9WRV95ZGhxNWU2S3lOVVVxWlpYaExqTF81eGhtWS0teDZ1LTNTazFpTkdNcFROS3NSNGtIZXVzTXlvWFRUSmJPeXoyUld2VzFTWDNObGctS3EyNmhpN3hrbjZIZlM0NGhHNzY1M2d4V29Uei1UZzFraVlMR1Z0LXowLVE4US00MWdWOE5nLUpVblVhbVlMQ2dQOUZiQWVmXzBSTUZmQUViNFpwdEdOeTdhTTY4NFB4TjEtV19adDEybThDaGVsMHQ5cHRnUjFGSEJvTjlLZmxvQdIB_gFBVV95cUxNRmdoREZJQ3BUM1pOQlBPVmx2YXFCZG9iQXUyVjFCaGFvaFZOdk9WRV95ZGhxNWU2S3lOVVVxWlpYaExqTF81eGhtWS0teDZ1LTNTazFpTkdNcFROS3NSNGtIZXVzTXlvWFRUSmJPeXoyUld2VzFTWDNObGctS3EyNmhpN3hrbjZIZlM0NGhHNzY1M2d4V29Uei1UZzFraVlMR1Z0LXowLVE4US00MWdWOE5nLUpVblVhbVlMQ2dQOUZiQWVmXzBSTUZmQUViNFpwdEdOeTdhTTY4NFB4TjEtV19adDEybThDaGVsMHQ5cHRnUjFGSEJvTjlLZmxvQQ?oc=5
+- **Source:** The Economic Times
+- **Published:** 2026-10-13T17:08:00+00:00
+
+## Samuel Williams Honored with E. O. Lawrence Award - Berkeley Lab News Center (.gov)
+
+- **URL:** https://news.google.com/rss/articles/CBMijwFBVV95cUxOVTJPNktXRWJpd0hEaHJhbDlpVUJ4aFN6RjVKTjNRNkdTS1hWZDU1MDg2SHU0V2RuVkcyUFVFOVc5dTFKN0hiaHNzWnBkUGotbHJyMGlZQWQ2dTRSZDZhRlRLbk1GYXl6QjZYbGZfWU9nMnRfbEhwWDlWRnFENmo3Y3ZuSmJsR280MVFqNmlzcw?oc=5
+- **Source:** Berkeley Lab News Center (.gov)
+- **Published:** 2026-10-13T17:03:37+00:00
+
+## Avalanche Energy Commits $1bn to Build Global Fusion Reactor Plant in Tri-Cities, Washington - Construction Review
+
+- **URL:** https://news.google.com/rss/articles/CBMixwFBVV95cUxNbERKRnVqTGttMzVpYXo4ZEY1czlLYVkzX0hpQ0Jmb01YcEZFa296UXFKTnRzVTZKZExKbGVfc092dDgxLU5tVUU2WFFpV21CaDNzbE9VS01vdXJ0YmIxTy1GRDZUQnI1ZVRlaEhydDhhRUExRFJPSXNyd21NQWU2UmNIeHZvcWJGb1FrbFM5OHV4LVdaeGF3SkowSG02aFV1ai1FOWk2cTZ5d1NNc3c2SjNaVjZRemRHT1hSYkUwaUZVcWR3U3JF?oc=5
+- **Source:** Construction Review
+- **Published:** 2026-10-13T17:00:21+00:00
+
+## Freemelt receives prototype order for refractory metal defense study - VoxelMatters
+
+- **URL:** https://news.google.com/rss/articles/CBMinwFBVV95cUxNN25WWGVHV0Z0cUx4aDlzZ3MtaFpTYi1weE9oNE56cjVoTXlKMjN6S3NLS2hQVE1vaGp0ZmdlV3VZd3ZRYTA0Nm82aFItcDB0REJtWEZpZEtZSDRRUGN2TXZIcnBmcXZNdlpVV2pIZVV5X3hIdk9qWWtHaGh6REo4YWdwbnlaSnNBRkhHbFdLUVlCNWp6bU54N3ZrWm9XRW_SAaQBQVVfeXFMTzJ6UDJSLTBYZEZrTHpfbDE1cThER0plaHQ5Y09MNGMyb3hiYnRzalN6MkkzRDJSWW00aDdzMU85SmFvZS1GMHB5YXdHWDlnRi14dDY3UTVQcVNVVjFPNE9pcWJLMzV5eUF5X3VjbTBJTmJneHBzcnVCLTZuanowUWI2MmtUcjljY3dNYVJBQWRxbVpvOXp0b1VrcGJuUGh6UkRyZUQ?oc=5
+- **Source:** VoxelMatters
+- **Published:** 2026-10-13T16:35:00+00:00
+
+## Genesis Mission Selects Digital Twin for Commercial Fusion - Tomorrow's World Today
+
+- **URL:** https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWTA1NVpiV2VtVWxxSXBWNlFWTG1MXzEySnIxTTlwa05vaWNVU1AtbHpGWmswNjl3UzdBWkF4Wlp5akh0d18zRnJHcmtKYUs3Um43YlppM1prc0I3Rll4d2FpNlNPdktwSnhjTlhjdllqbzl1NGZaRTdXazNMd2huRG1DdjJWVG12NzZwQXhkNEdnR1BQbWxjZW9TRDBscEFlZTNVM1RMMXhOLWN6QXpKU01BVVVEQWhRX1JB?oc=5
+- **Source:** Tomorrow's World Today
+- **Published:** 2026-10-13T16:19:32+00:00
+
+## News - University of Nottingham to lead three projects as part of £20m drive to make the East Midlands a clean technology leader - University of Nottingham
+
+- **URL:** https://news.google.com/rss/articles/CBMi6gFBVV95cUxPeUpIVlpicDluU1MxN0ZrUlU5ZlpOdU9BR2FfbThPOVZ1RzhvX1ZiNm9aZ3pZSVpjZVhTVFR1YktSQmEwRDF1MWdhNXJOamx3QW1GVy1WU1BrdUhJNThxeWtSV3lWbUE0UGkyaHZxdjY0cVczY2F5V1FmSHktc2p6Q25YSnhWeEYtdE5CZlJUY2FTVzljSzQ5Y0xVd283WTBsbG5PTzU0TDZNeGNBZVlvVVJEUjZrOF9CeVFqLXh5VENOSzgzdEM0Y3JiSGFBZ3lBRHAzNGd0RmRIaVNmbGlpSmd5dWt0RG1mcGc?oc=5
+- **Source:** University of Nottingham
+- **Published:** 2026-10-13T16:04:13+00:00
+
+## Enphase Energy, Inc. (E0P.F) Stock Price, News, Quote & History - Yahoo! Finance Canada
+
+- **URL:** https://news.google.com/rss/articles/CBMiU0FVX3lxTE1jZ2JUa09CNVBQMU9MQnR3RGhBTGhjalQ0eUMxMXVPdS1kV0R1aWNteGVidU1ZQk8xc3JwbmotbnhubU9aenpjNGkwSUxDTVJfTEM0?oc=5
+- **Source:** Yahoo! Finance Canada
+- **Published:** 2026-10-13T15:09:55+00:00
+
+## Micky Singer – DHARAU - Voxtrendy
+
+- **URL:** https://news.google.com/rss/articles/CBMiXEFVX3lxTFBxQmpYaDZSbnkyeTRhVTJJeXRiR3VTS0VYMFdxbXpTVkphVEprazlxWU1LcU15TGNRN0xJSU5SMGJNSGxUbkZZal9TR3hrRzdPRWZBdGFuYV9UUDB5?oc=5
+- **Source:** Voxtrendy
+- **Published:** 2026-10-13T14:39:34+00:00
+
+## American Fusion Advances Texatron Fusion Testing as Four Commercial Proposals Remain Under Negotiation - Yahoo Finance
+
+- **URL:** https://news.google.com/rss/articles/CBMingFBVV95cUxOa1dZaWNJUy1zVWp5UUJ3Q01zbVA2R1JfTWRWaEp1MktkSGNsaGtucS0zSEVRb1haZTFObXhGZW52Z2toZWY5TTNVdGtQQlNaLW04ejBNSVFHZHM3MkVhWFJpU05ON3FoNWRxNkJkNEpkMDNpdG9YXzVwek1ZbGZudk9GekVhc0FwNnZHUGI5bjlxTVV0OWVGb3JfV0JCQQ?oc=5
+- **Source:** Yahoo Finance
+- **Published:** 2026-10-13T14:09:11+00:00
+
+## Italy’s 2024 G7 Presidency - Ministero dell'Ambiente e della Sicurezza energetica
+
+- **URL:** https://news.google.com/rss/articles/CBMid0FVX3lxTE4tTzkyeUxrY1JMOTlMcnFwVldsMXR5MmxKdHhXY3ZKTEdXQnk2WmFMVFhXNUlNZEpwV0JTVlo1Qno0Z1RqbEYwQmwwY2pmdjlKOGloN2MxdmwzbnVqdlVZUHF6ZjZfc25DTU1xcjltNzRxVnQ5dEw0?oc=5
+- **Source:** Ministero dell'Ambiente e della Sicurezza energetica
+- **Published:** 2026-10-13T14:03:24+00:00
+
+## EcoFlow Debuts TITAN Series, Bringing Whole-Home Energy Security Within Reach of Everyday Families - PR Newswire
+
+- **URL:** https://news.google.com/rss/articles/CBMi6AFBVV95cUxObUFyLXdVYzVreGM3bmhIT19pU3hja29YUWVxTUlfeTRMSThzaDV6Y1RIRHRSdkdVd2l3X1ltRHh6dmljNmFiblI0ejI2VTVheW1wVEVhZlJCSDlDajZHZEh5YjB4dzRRcHNzenlwbE1kWHdLNnU3Q1pKeTVoUjJETWk4V0Y4TmZ2M0s3eVRtOVZpY1RpdVdUSnMtcVVzcDI3N1A2MC1wZnV1UEFrSHBXM3lHaUdsc200V1BqMTE5RS1TNlpNdXg1MS1DWGVaS1FRSkNHa25mQjI5UUIwSnpXR19seGJ3Nk90?oc=5
+- **Source:** PR Newswire
+- **Published:** 2026-10-13T14:00:00+00:00
+
+## American Energy Dominance Is Real, but Monopoly Overstates the Case - Discovery Alert
+
+- **URL:** https://news.google.com/rss/articles/CBMikAFBVV95cUxOWkR4clB6WW5tOU81eE91OWhKQzhNOUdDRG4xXzlpT3dGNVlzTWtOMEk5NVpJRVRzN3V5SWpMaWRSTVpkU0VlOGgwNnJyUl9aUXlBanQzVnJNZy1HLThpUG9nU082U1ZDM0VDbnNPRlFBLThfN29uaVFSWkZLODVOazE4NEtZanR4cUs3aEJlYXM?oc=5
+- **Source:** Discovery Alert
+- **Published:** 2026-10-13T13:22:24+00:00
+
+## ‘Dissent Is a Right, Spreading Anarchy Is Not’: Rajnath Singh Emphasizes Youth Responsibility - Newstrack English
+
+- **URL:** https://news.google.com/rss/articles/CBMiugFBVV95cUxPTXQwRmZ3dlFJQ3N0X3IwMWlZQ3RFcFdhZHVUZE1UMXYzcFdaVWNoM2loTWdhcGZNdjJoSFpmeDdMODhqbmdwdGljZDdKS2dOa2N2aHdjLTZYYXNuZEF6REZEQXF6cnhrcnRPT2NRdGZVVVFDTURaQXRRbjRtYVRsNmx5d29zR21RRTB0WWpMdjBVUmJzeDd1bGxpTWgteDBRbklTU1FySnVOQ1l4eXBnU2RYREltYTRUdEHSAb8BQVVfeXFMTTNjTlhOVWN1bVpVRXN6QXBWTTFIc1U3UE9GemViTTJ0dEpWRHBrcDhvS0VBNmVLZm03cG1pZ2pDNEhHNDdLMnhfOWJubVNPaGVTaFVDNGNfYUVLZ212OE1nM3h0eE9RY3FrRUNWVUJxaGhmd0xHTFFhdlU1eWs4VEpNUjV1V2tOTlhnTEVZTjVobHM1NGx0THFDMlhnWTNIXzdzTWNnUDViVTRVMy1YLXRQbE1tSVRFMm9XeHRCRnc?oc=5
+- **Source:** Newstrack English
+- **Published:** 2026-10-13T13:01:12+00:00
+
+## Fusion startup picks Tri-Cities for advanced nuclear plant - Tri-Cities Area Journal of Business
+
+- **URL:** https://news.google.com/rss/articles/CBMifkFVX3lxTE4tSmdWMnJsc3E0dXJBTTFGMTBUX19YZHVETUtvMzRQMmlpT05DM0MyMFlBZVJPWUl0RjFhNTdteFdyc1hZY0pIUHFCSlowbFZRUmdLUzlmYTQ3YWd6OThSNjBwdnd4VmZPa1k2bno1N0taOWNSTHlsaHREM0tXZw?oc=5
+- **Source:** Tri-Cities Area Journal of Business
+- **Published:** 2026-10-13T13:00:00+00:00
+
+## Creating the Technology of the Future: Quantum Chemistry Unlocks New Possibilities - Newswise
+
+- **URL:** https://news.google.com/rss/articles/CBMi0gFBVV95cUxNVXB1aGNQYWpVYXlVWll0Y05CT3JYMGd1QnN2ZFRDazU3OXR6REJkODBJMWpRaU1lMGdockVHS2gzUnFYbjVITjI5ZEhqcVM1U1RJRUc5NDBBRHRfdWhqbWpidWVIanZjZTBjOElXX0ZhRFBoWk84emhoX1Z5WnJqbWM3RVFrZ09adEJLSFFZenpwRlJ5SVg2eHVTaEcyR1BtLWNlaGN4Ukhjc3dfSUxlM2NFYUMwSG5EMFhlNVhWd3E4M2JkeVFjcVlwRjI4dzJ4V3fSAdIBQVVfeXFMTVVwdWhjUGFqVWF5VVpZdGNOQk9yWDBndUJzdmRUQ2s1Nzl0ekRCZDgwSTFqUWlNZTBnaHJFR0toM1JxWG41SE4yOWRIanFTNVNUSUVHOTQwQUR0X3Voam1qYnVlSGp2Y2UwYzhJV19GYURQaFpPOHpoaF9WeVpyam1jN0VRa2dPWnRCS0hRWXp6cEZSeUlYNnh1U2hHMkdQbS1jZWhjeFJIY3N3X0lMZTNjRWFDMEhuRDBYZTVYVndxODNiZHlRY3FZcEYyOHcyeFd3?oc=5
+- **Source:** Newswise
+- **Published:** 2026-10-13T12:45:00+00:00
+
+## Upgraded electrical equipment is set up for American Fusion's next fusion tests - Stock Titan
+
+- **URL:** https://news.google.com/rss/articles/CBMitwFBVV95cUxNYVdnNUFoRnZ6bGVicWsxYXQxczJJXzRadnRWaFY3T0JPeHpFZ0VpUWxhQnFyZUdqX3c4Yk41c1VvLWY1NWJMYkRvWWt2X0p1NS1pUUhnMkxIdVJmbjJSdDRNWTN2a29KYVpRMm9lSGxOTS1mbmM3bl9fQjNnX2h1WjVSVktNQkV4UU5uNkRkLU5SYmFXZllvaEhiYVBQUHhqNUZhcE04NDRLbE5pQTBZTC1HTjBETkU?oc=5
+- **Source:** Stock Titan
+- **Published:** 2026-10-13T12:30:00+00:00
+
+## Zlatan – Alpha & Omega Ft Bhadboi OML - TrendyHipHop
+
+- **URL:** https://news.google.com/rss/articles/CBMiekFVX3lxTFBZQk1oSThQODczYWFMQkVMQlJGcF9NNFEwSHBHRGlacXhDOTdzNUVpQVRLRWFVV1BEVEEtWUZpOE11TGJTY1pyaVItd3ZrbkF0ZG9LOEE4NDVjTGhHSlJuSHoxUHphNDhKLWU3RzFHS2tfT0VrOC1HVDdn?oc=5
+- **Source:** TrendyHipHop
+- **Published:** 2026-10-13T11:53:11+00:00
+
+## Guwahati Beats to the Rhythm of Navratri: Mega Garba and Dandiya Nights Set to Illuminate the City - The Sentinel - of this Land, for its People
+
+- **URL:** https://news.google.com/rss/articles/CBMi8gFBVV95cUxQdENNMDhMT2ZFenUtZkhZamxnU2lrR0tSZ1Zfb2xXaEFQeWp6UmhoZkhMLS12NUQwUWhRZEV1OFozTUZmSG1hX0JLQU5qNjhFN3R5eWpBU0V0c2lRWFZ6NFhmTW9KQ3FLRDRDSlpDSzZDb3JPNW5nSlQ4emN5S2xrS05tUERMVTk4bFBpLUdQRE9pVGYxNXlSNlpVUjBERlU4N3FFN1Bab2NNMzJIZGpZTmFTNGY5OHpfeGhudTZNOEQxaGtDVFFPVS0wc0VZNUNXNnpnRzd1enpRQmdOUEhMaldURzJ4cVJiU3pJWnd0SVFsQdIB_wFBVV95cUxObGM4cGRqYnhDUFlQNGpWWlpwNkR6aDJ3MGxOUklObTkyRVBjeTFpeEgyaDZrRTRVcnR2VnJGVTB1bGFIcjQ0UzNvNWVjaEIwQVg4MnBFMTJFbmpIOHB1bnNyQXprOGk0OGZ2ckZOYWFVb3JncHhVdm9SLWpCYzNKNlBlaVc3Y05ONGJmWmRVcjVLX05KQV9xV3F1ZlNUWVluYVdncnlNdHM4cVp5TGRwa2g0SkVYT1g3cnhPMHIzSFpQYndPTS1YWE43VlZ5Yk5PY3JuVWZhRUhVdS1aWkVIcXhSbTUzOXNMQm9zU1FZOUxDRF91YklUTG0yTEkzaDA?oc=5
+- **Source:** The Sentinel - of this Land, for its People
+- **Published:** 2026-10-13T11:50:16+00:00
+
+## Unlike the crammed Concorde, this hydrogen powered supersonic jet concept will zoom from New York to London in two hours while pampering passengers in floor-to-ceiling first-class suites that double as private bedrooms with massive beds - Luxurylaunches
+
+- **URL:** https://news.google.com/rss/articles/CBMicEFVX3lxTE9XQUVmWkxzc2F6c1lZdUhubGR0aVFJbTFaWVFEWjk0ZGZraXBSamllZFlvYUkteG9IOGZRUndUenVnWjhKN2pzRWo4OWlEbFZyS1hTVlFtdFdDN3FXQm90LW1SY0dXSWZEazNXTnhveGY?oc=5
+- **Source:** Luxurylaunches
+- **Published:** 2026-10-13T11:48:27+00:00
+
+## ESG News Week In Review: 16 September – 30 September - ESG News
+
+- **URL:** https://news.google.com/rss/articles/CBMiekFVX3lxTE5XRnRHVzVJaE42eExFVTdSM2VhYlBCUHFLWnc0U0M3X2pwcXN4ekdVa2JYelhqX1JpNElKVTZNY0x5clBTLVFKeGJOdTc0dFhIWW5aQkswNHd5b3dydzJ4SzMyYXpUaG96aV9USEtwUnVmZVZYZExPQ1Nn?oc=5
+- **Source:** ESG News
+- **Published:** 2026-10-13T11:44:09+00:00
 
 ## US identifies 8 priority applications for fault-tolerant quantum computers - Innovation News Network
 
@@ -171,135 +303,3 @@ _Last updated: 2026-10-13T11:28:31.098228+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMingFBVV95cUxQSUlJdV9jbE9VVUk2NHkyY3EyYzQ1eFVwVGRNcFJ5WFRZZ1J5MDJnaE16TEYwZVV2RzZhWkNXajJNNGtnZFV5ak1XTENoRnR4ckdjcWRELUZnQ0hReTRhLUFwTFFHRW41SEhFMDdxSm8wUW9YNTI3bXYzWEZXM1pubHI1NnY4VEMxaTVsRjJJWlU0ZlpnTlVBM19Hd0I4Z9IBngFBVV95cUxQSUlJdV9jbE9VVUk2NHkyY3EyYzQ1eFVwVGRNcFJ5WFRZZ1J5MDJnaE16TEYwZVV2RzZhWkNXajJNNGtnZFV5ak1XTENoRnR4ckdjcWRELUZnQ0hReTRhLUFwTFFHRW41SEhFMDdxSm8wUW9YNTI3bXYzWEZXM1pubHI1NnY4VEMxaTVsRjJJWlU0ZlpnTlVBM19Hd0I4Zw?oc=5
 - **Source:** Mid-Day
 - **Published:** 2026-10-12T12:07:00+00:00
-
-## Hyce – Everything I Want - Six9ja
-
-- **URL:** https://news.google.com/rss/articles/CBMiY0FVX3lxTE9vSHVUMWtZWTRnX0xBWGVHbUNpb0t5RHItUlJHM3pRdXg3bnYyVjJxN2JoMlNzVXpRWGZrUndZYjloZ1FuRTIyTlc5c2xmODBaUEF3N0lYRDA5ak1GeXI3WWhRbw?oc=5
-- **Source:** Six9ja
-- **Published:** 2026-10-12T11:54:31+00:00
-
-## US awards $159m to 12 super intelligence research projects - Innovation News Network
-
-- **URL:** https://news.google.com/rss/articles/CBMipAFBVV95cUxOcUxmWk9nZHpqQ0QwSVJHRG5vZ3cyYmNJQUlIeDFkd2l6YVRURmo4QlBjYk0tNml5bEY5dkdqX01DRHY0V0lzTS1PUVhwVnYyMHgtLXYtN0o2elFBSDVHMV9rTUZMT3ZUMUZvZ0tFM0p4M18wN3diSmFUdmNKLTBaWHIzby0tYW9qRVRHS0RUME03WS0xRWpDZmJlazV6ME5PSG9lcw?oc=5
-- **Source:** Innovation News Network
-- **Published:** 2026-10-12T10:17:47+00:00
-
-## Tuxera launches Fusion NFS to help storage and cloud providers speed service deployment - New Electronics
-
-- **URL:** https://news.google.com/rss/articles/CBMizgFBVV95cUxPQ0xraFozdnoxVHd3QnhxUVdRd2xoNm11SGJDc2wyUlpzVGdBY3hIZlR1M0RYLWk1TkJ5dllLbXdXNHJqem12d0RjT0hJSnRNNk15bnY4ZlRteThybV9FcURIckJnYUxvanVOX04wZjNFU0h6cU9FTWtBa0pQTXpzdmE0UG5NVFJ4U19MRVhrUFFsQTM4NzlKN2ZEM0MtUHpVaWt3YmZQei1oSV9CWUx0ZnZPQVFxeWRSVFo1WWVUQWRzR3luRmlqbzZxZklXZw?oc=5
-- **Source:** New Electronics
-- **Published:** 2026-10-12T10:04:29+00:00
-
-## Here are the threats that remain from storm Rachel and the weather whiplash that comes next - Los Angeles Times
-
-- **URL:** https://news.google.com/rss/articles/CBMisgFBVV95cUxQNWZrZ2c4TG5RZEJUemVmQWc2OTZjc3dwVnM2aW5LcnpROWNjaERURzRRX0FpTThGMEVhRDNrLWRFWnR4N2hvd0dKeTdWMWtNeTl2R21YUHBkVzJaLXVYdW1Lb21KeWJpWjFEMFN6RUozUjAzWTBBWDJxSXBoejVsd3lOaFYwa3Ztb3pnM1plM21wNHBtM1BQNU8tVUN3QU9mR3RteHpDcm96VTYzc3ZjaGVn?oc=5
-- **Source:** Los Angeles Times
-- **Published:** 2026-10-12T10:00:00+00:00
-
-## UK-Germany tech corridor set to drive investment and innovation - Machinery Market
-
-- **URL:** https://news.google.com/rss/articles/CBMirgFBVV95cUxOTGlUMjVwTmZMOFdDTDFGaU9IcElWX3hCQXRaeEhiNVNsaUt2VmJHT290ZkRJMDVld2VrWUxEVERGZGV2OE11TlVrcHRKTVNUdmlidG9ic3lWTWZwbmQzMzdURnhvVHRONC1GR055UEFsMW03TlI4RWI5Snpkbk5PTG8xTmotdUttam1Za2JrUV9tdEtxbFBBeC1oMi1WdlY1RnA1SjEzUV84VDQyZXc?oc=5
-- **Source:** Machinery Market
-- **Published:** 2026-10-12T09:32:31+00:00
-
-## Nucor guides Q3 earnings as analysts target Nucor stock at USD 276.07 - ad-hoc-news.de
-
-- **URL:** https://news.google.com/rss/articles/CBMizAFBVV95cUxOWm9CRUZFT09aNkpVV3VxWGY5U1BPMjg5VnI5WTVSSEdGaWptWk5wRnljeENCbnZFclVFOE15YnJtZlduazVwYUFZS2RUTVJaVjlmdF9RUzF0TWlLSE5td21hSkVGbU5ZVUN5ZE5XcDB4T2VWN0ZHSF9WQnp6SjVoOUQtV20zRFBpai1NdjNpR2tyYTNrU1FmcXB6UWFvdlhxMnZiUlk0WnRZVjJMaFJFRlhBcHJ4NG9JYVZ2ZGR4S0Y4Q09QckFiRk1kTWE?oc=5
-- **Source:** ad-hoc-news.de
-- **Published:** 2026-10-12T09:06:54+00:00
-
-## Eni signs two agreements for the sale of stakes in selected upstream assets in Indonesia - euro petrole
-
-- **URL:** https://news.google.com/rss/articles/CBMixgFBVV95cUxQNU1DYjRRaXhvaW9zdlZvX2xaTXc0NDk3VDh6a0xIVVRhNFNRTkZHTjZzQzlSZmhINWJUdlZhQkp2aWkxa2JrckZHYmpSWThFWlB1MVY0MGZCSkUyV0t1THdfdEVSNzBSVDBCNUpwUjU4YVpwdFRFN2FwNldJTjBLVzRLTDlCZVVXaGN2UWFUY2pVNmdkT3A3dEJabXJNVmltVzk4enpSQmhwc3ZLbzlHMXRDMlpDaG8xT0pFYlUxMFRvODZLQWc?oc=5
-- **Source:** euro petrole
-- **Published:** 2026-10-12T08:34:55+00:00
-
-## Volkswagen Q3 Deliveries Fall 14.3% as China Sales Drop - Daily Beirut
-
-- **URL:** https://news.google.com/rss/articles/CBMinwFBVV95cUxQR0RzUDZNSkZlRGNxeWlRR2JKLXZlMjJSdGstNlptbE56ZkxVWWVJcmtXVy1OQjZfYXFrNWlOcTJsN0YxWkdZMzJobUZhSXM4U0p0X1J2OFg0U0hJWXhhSkw5M1ZjX24yTDB3OEM4ZndVUWMzQmFfNTlZcXAwcnc0SW1TV0NnM0pTYmh4b09Bajd2ZERWYzg4SThONEFwX3c?oc=5
-- **Source:** Daily Beirut
-- **Published:** 2026-10-12T08:25:20+00:00
-
-## Best photos of October 12: Storm in California to nuclear fusion in Oxfordshire - The National
-
-- **URL:** https://news.google.com/rss/articles/CBMixgFBVV95cUxNbFNnQXBPX3B3Z0FlSGc2M1piN3BmS250TURWMnBBQWVjaHdlOThGOW9wa2s4Rk1HemNkQ3JrZkctNTRFQl9sWWQwb0pVZjR6ZENkdldDckxDeXhuNHotRkRab1VlSTE0c2Z4M29VcG8zdjlyb1R1ZkZnOGZ0ODhSb1lfMHpmRkhQRFpiZnBhaElPV0owZkRTZkgxakhuZG1hcjhvaktES1Z4eUNXSzYxWkdxX2pxN2lUVXJRZEhvcHZJeDk0NlE?oc=5
-- **Source:** The National
-- **Published:** 2026-10-12T08:21:32+00:00
-
-## Why artificial intelligence must be stopped now - www.resilience.org
-
-- **URL:** https://news.google.com/rss/articles/CBMimgFBVV95cUxPOWtMOGg4WjR3ajduc1lqR1RqR0ZVZlRCRlZEa1NzeGdQOHpGXzF3bTQwRW1DVHRVWHFCeUtDdEJvLUhhNjdINFdzcW05MWduX3EzdDlvSDlGajJjT1lHSmVkelVIa1BBWThjVDVSeVM4UkdkYTE3dGZ1NXFJQnhObUd4Wjk2d0M0aEEwNm53eTNJNDMzT0ZfVFRB?oc=5
-- **Source:** www.resilience.org
-- **Published:** 2026-10-12T08:03:29+00:00
-
-## CATL's Capital Play: Eerie Parallels to NVIDIA's Strategic Moves - 36 Kr
-
-- **URL:** https://news.google.com/rss/articles/CBMiU0FVX3lxTE00dUpKdTJreGRvSUVObS1uQWMza3B4SlktR0QwdTgwNTYzazBCNVh2aHNlWndwWGU5ZGI2N0ktU09RWlpyZ1JHZTM2THU2U0E4d1Vj?oc=5
-- **Source:** 36 Kr
-- **Published:** 2026-10-12T07:24:19+00:00
-
-## Upcoming IPOs In October 2026: Jio Platforms, Zetwerk, Avaada Electro And Many More - ETV Bharat
-
-- **URL:** https://news.google.com/rss/articles/CBMizgFBVV95cUxOczZncEQ1QjVsVXNhU29DRFdvSHRsdDA5cXZBVHVIS1Y1TFNkRXppMWpOVVhDXzMxZ1ZsSUlhOXdDdklhSXdybGQ5Nk04XzFwVmVFSXpmOUxTZFdPSlJvV1BIam9YeHo5WnB1Tm11cjRlS05YdlJLc1VGVHBtQWJKX3JMVGcxTm10cDFkQ2JIMi1wRElVWjk1VV9VRHFJaEhzTUpxTS1qamdtTmlOYkRQZFk5cEYxZ2oySEtQdkVINUd1eUFXdXpzQWp4U3J4QQ?oc=5
-- **Source:** ETV Bharat
-- **Published:** 2026-10-12T07:06:41+00:00
-
-## JA Solar bolsters storage range with hybrid and commercial units - pv Europe
-
-- **URL:** https://news.google.com/rss/articles/CBMingFBVV95cUxNU1g0c3MzeXJ0ZkxzWFh4YWNKZ2JldDg0ZXUxVGVmc0VBSTdJU3UzdXd3LWh3VTQtR2N5cG80b3dUV2J6SkMzRDF5SDhWQ3hWUVUyNWc0TERQbXJJS3o0MjFtREVuUXgwUC1zbWdrX1VRcEgzUnZKdGJaMmtKSU1CZTlYWWNyU3lBRDZGWXUzN0RxT1EwcjZ4cWpWMTIyZw?oc=5
-- **Source:** pv Europe
-- **Published:** 2026-10-12T07:00:06+00:00
-
-## Singapore’s low-carbon electricity 2035 target is ‘aspirational’: EMA - The Business Times
-
-- **URL:** https://news.google.com/rss/articles/CBMioAFBVV95cUxNRDVxZlA0Rk9TRjJmeElFb2Q1VGMyb1FZWk9EWExqUU52Z285OXJlMkRzcjRaNUlVOXJ2Y0lxdFRpN3ZUX0x5YTNPMzNfU0ZqVHRqenNaZTRqVHI5TFZhb3FnWjVvWmN5NXpFVFpMMC1ZcVI1QkJGY1BaTTUwYThpWXdOZzQzOEVLZ001ZGNyaDJIZXk0Nkg2SHAwMnpCSWZR?oc=5
-- **Source:** The Business Times
-- **Published:** 2026-10-12T06:59:00+00:00
-
-## PPPL Data, Simulation Codes and Compute Power Will Be Used in Phase Ii Genesis Mission Project to Build Digital Twin of Fusion Energy System - Newswise
-
-- **URL:** https://news.google.com/rss/articles/CBMihgJBVV95cUxNVmhqMDVqQ1NoSUIwbFBvUGpJZ2YySjRRS3dyVlo0Qm45WXFSUi1WVzNDdW9ETDAtbVl5S09MZG5WS0ZoZXZQa3pLSTkyci1nYU1LYXlhMFM0VjlaZGhseFVxSmNKUEFJOWotZ21rYmV6a2ZPd0diSm5VbUNJX1RxUHhIQXpGallBT1Vqbk1KUmpVcHlMdWdGWC1yRkRtdl9PMEs4R1hGVUlhNFB5ZV9HT2hRa3lRYUdUdDZNWkhvaTJqaEd6Zm1uZVdkMDJKRGk2ZmV6dkd6MFc5aGp3Nm5jRlR6cWoydVJuanlZQk5ORFVvY1F1SmhqVk5BdFRCaGRtQkZ2ZE5B0gGGAkFVX3lxTE1WaGowNWpDU2hJQjBsUG9QaklnZjJKNFFLd3JWWjRCbjlZcVJSLVZXM0N1b0RMMC1tWXlLT0xkblZLRmhldlBrektJOTJyLWdhTUtheWEwUzRWOVpkaGx4VXFKY0pQQUk5ai1nbWtiZXprZk93R2JKblVtQ0lfVHFQeEhBekZqWUFPVWpuTUpSalVweUx1Z0ZYLXJGRG12X08wSzhHWEZVSWE0UHllX0dPaFFreVFhR1R0Nk1aSG9pMmpoR3pmbW5lV2QwMkpEaTZmZXp2R3owVzloanc2bmNGVHpxajJ1Um5qeVlCTk5EVW9jUXVKaGpWTkF0VEJoZG1CRnZkTkE?oc=5
-- **Source:** Newswise
-- **Published:** 2026-10-12T06:15:00+00:00
-
-## International Workshop Strengthens PPPL’s Plasma Physics Leadership - Newswise
-
-- **URL:** https://news.google.com/rss/articles/CBMivwFBVV95cUxPaUtGRjctQldMcUJ2NTM2TVo0U3JtVUlKUU9kQl9ycU9FZUxLSkpzRGJVR2Z5YURtbEtBT3JONlpxWktKS0h2SjI0aEFPM000YWRtUkI4dl9kdjlZUzMwSUVibVlFNV93TnZidlFwMl8tUVUwMnpfcldHTWNWd3BkYXRuU3Q5LUdfYkJZRU9nOXVtaGFTUXdXSThMREFIVjhSUGJSSW9CMExTR2JDTFdtM1pvd0ZNZ1ZTTWVXaVM3a9IBvwFBVV95cUxPaUtGRjctQldMcUJ2NTM2TVo0U3JtVUlKUU9kQl9ycU9FZUxLSkpzRGJVR2Z5YURtbEtBT3JONlpxWktKS0h2SjI0aEFPM000YWRtUkI4dl9kdjlZUzMwSUVibVlFNV93TnZidlFwMl8tUVUwMnpfcldHTWNWd3BkYXRuU3Q5LUdfYkJZRU9nOXVtaGFTUXdXSThMREFIVjhSUGJSSW9CMExTR2JDTFdtM1pvd0ZNZ1ZTTWVXaVM3aw?oc=5
-- **Source:** Newswise
-- **Published:** 2026-10-12T06:10:00+00:00
-
-## OpenStar Technologies and PPPL are building partnership to advance fusion energy - Newswise
-
-- **URL:** https://news.google.com/rss/articles/CBMitAFBVV95cUxNM2FsbUlhUjBibXhxZ3N5QjlVN2p6S0FMeHRMZTlBel9lMkgwY21lRU9ROHBYNFh6cTg1QUtMSlZjbFFfZm5vN2l3N25GTy0tRFJtSjlHLUwxcTlNRFFidHFxMGJjWXdXMUN0djFpNmQ0bEZHeDRwVWhuZ3BGTjd6eWRIa3c4TV9odmdWUVpNNUNpNDhoVC1xWWtqZU1TMk5qOGhVVUI5TnV4M29SQXZFOGhuVVnSAbQBQVVfeXFMTTNhbG1JYVIwYm14cWdzeUI5VTdqektBTHh0TGU5QXpfZTJIMGNtZUVPUThwWDRYenE4NUFLTEpWY2xRX2ZubzdpdzduRk8tLURSbUo5Ry1MMXE5TURRYnRxcTBiY1l3VzFDdHYxaTZkNGxGR3g0cFVobmdwRk43enlkSGt3OE1faHZnVlFaTTVDaTQ4aFQtcVlramVNUzJOajhoVVVCOU51eDNvUkF2RThoblVZ?oc=5
-- **Source:** Newswise
-- **Published:** 2026-10-12T06:00:00+00:00
-
-## Copper Alloy Withstands Extreme Heat Thanks to Self-Forming Oxide Shield - Bioengineer.org
-
-- **URL:** https://news.google.com/rss/articles/CBMingFBVV95cUxNZzNtczhkYTZJYkYxM2RTTDdKcWlXWDlsOHNVNFI2Y1JBQ2hjNkVLZnRXVG1PbFZNLWJSVmNqbXBNLWZ2V0ZOTVVhdjVIWXpNU1p6eVdkSThtdlQwcUFLMUlaUzZTSHYzMUVqMmVNN3dsckltTm5hS0gtVWFjckNtNVo2V281MTcyY1pXNlB5alhRN2d0Tm5RcGZoX2FCdw?oc=5
-- **Source:** Bioengineer.org
-- **Published:** 2026-10-12T05:08:24+00:00
-
-## Residents allowed back home as crews beat back the Bike fire in Santa Clarita - Los Angeles Times
-
-- **URL:** https://news.google.com/rss/articles/CBMisAFBVV95cUxOMDFTMnJham1ENmFfaFRnYTdFeXBaVnNaZ0dubnIzekJxNC0yZ3JpVkRia3JFNzJGeUJqaFVKcktNSlVfdl82SDI3YVY4eWo5d3dhOUZEUktnVElPR0JDQWRyd1lybVZoenk3R2Q5c3YwMy1kLUVNUzlFeDdza2xTa0lfdnFyQlQySnI0UGhqWm04R3FsbnR6NUhXZ1FpMFN4Y3dkSlVsMklKZ3FwN2JzYQ?oc=5
-- **Source:** Los Angeles Times
-- **Published:** 2026-10-12T04:42:46+00:00
-
-## Stock Market Today | Share Market News | Sensex Today | BSE/NSE Live - NDTV Profit
-
-- **URL:** https://news.google.com/rss/articles/CBMi1gFBVV95cUxOb2xZYzktV2IxRkNqZ09JX0FXMmx2dTBPRmtHQ3R5NXpaTHQ3ZEhPU3NTMnd3VzY2TDAtWkRzWTEtYVRxWnBxZS1QbWRtVnpvbDlVaUhPcVRKbWhaeUFqYy1rZWh1RnVGaXhEMWxBeW9kSVJLUDYzSTE2MUk2MUY3dm1xMkkwNmdjb0NPaDIycGFzeUhRVzZwc3JMTUs3bHhQa0NEN1hQcHlMaU5tRWl0Wm5ySzBqMmNNY3YtZ1UwZ3p5d21LNDJnR0ZiODRNV282RVRWX2ZR?oc=5
-- **Source:** NDTV Profit
-- **Published:** 2026-10-12T04:32:50+00:00
-
-## Are high-power laser diodes ready to power inertial fusion energy? - Laser Focus World
-
-- **URL:** https://news.google.com/rss/articles/CBMi7gFBVV95cUxNNTY0LXJQUWZ6bS1qUjhCdkprLVp1ek5BcmVnYjYwME1oUm9Ib2dSb1lsZDcxSGNoazFfbzZhRFRDRlgwUk1CSndtRENsTk82R0JzaWVUTVVXd293V1ZnQWN4a0J4dkd6QW8zczYxTDB3alNWamNTZFBfRTQ3N0VBYkg0RmRDbmpxTmNXSy1QWldyWjRPblU3TnU0S2l6eU92bXlWa1BTUUVxdEJIQk9WSVdMdnlVRm54cGdQOEVFcmdrRV8wNHRaRHRIM0xFaWV2S2Z1V2lHbzRjNVpueDVrMzJvTkVoUXFwc3RVdTdR?oc=5
-- **Source:** Laser Focus World
-- **Published:** 2026-10-12T04:02:15+00:00
-
-## From Jio Platforms to Zetwerk, a dozen companies set to launch IPOs in October - Check full details - India TV News
-
-- **URL:** https://news.google.com/rss/articles/CBMi8gFBVV95cUxQZUFIZ0lleFJ4UnhETUtJMnExUXZCZVRVTmtjVjNIX0FCd0xQeFU0bDF4MWNiRFVCdnJtYS14b3I2MzMxaDVpQ0Q1bk9wZXRmODFLS0tNVW5pc2YxNmRlcnVqOVZmMFlCTDdVSEdEQTl6eFBNTGZzUEI1dWY4bE1ZYzM0azRaUUc3Rm0weG5JdDhEeHRpTG5HbUo0YktrUmc1dEcyUFJuSWNOS3hGQ2R0ZkVOdWVHNlE4UVZSNTZ5QjhlRHpYbmJtQWJNSTF2TVJ0QVl6VW1PYUU3LXkyeElXZDVQOUJlTkM1WGdmWnFsS2ZLZ9IB9wFBVV95cUxORTBzeDNwQTRnUzhETFRFbWNVMEVIQV9DeG9MWDdzYTFFa2tDaUc5OGU4NW5wWHVCLWx4bTRpWlFuNXB2UVpsWWM1UHNjdHE2aVppbE5KbHFUbEVYOTUwRmFVdlFGaExpekl0TWdFSjBZMExrbUtHaWlHU1pXak9rQTdLeF96by1DZWc5bFZPZmRZWVpIa2J3b3lmbjhrTGpoU2ViT29aV1Zmd0dEQ0l6V2NUcUdzM2xZSW13R3BXZUU4RVcyM2FCcHhmZ01Ja24wY1d1U1g4RHFQUndCcHdzaThJNTUxQURxbnM1YkVoT3BOVkpVcTQ0?oc=5
-- **Source:** India TV News
-- **Published:** 2026-10-12T03:18:15+00:00
