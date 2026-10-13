@@ -1,8 +1,44 @@
 # NewsWatch — Apple News
 
-_Last updated: 2026-10-13T18:58:32.303914+00:00 · 50 articles_
+_Last updated: 2026-10-13T23:37:32.289615+00:00 · 50 articles_
 
 ---
+
+## Groups Urge Justices To Hear Apple's ITC Industry Rule Fight - Law360
+
+- **URL:** https://news.google.com/rss/articles/CBMi4AFBVV95cUxNSThMdG1yN3VRRE9GQVZCZWNweDdVQjlKMzh2LW10TjdVZVllSE1hSjZuQnRVS2ZZcTQ1U0h0QnVQXzhOdC1DMU1kdzRpRE52WGN2cUtLTTYzN3ZfTVdNREVlYktDVzgzUnMwaTZ2YktTWW1aNW4wd3dvak4wRmdETEZ3dnJLOEVISWwwalN3bXhWTm9MQ04zelFMX1MtaVhqS0txZWV2RWswblhKbjh1ZG1qSlZRZ3NDRWplRnhzYnY1aGtHMnlYSkVORUduajh0UEpkeHdYSjBGWVlwVllHY9IBckFVX3lxTE45SmR2NFlvTFJ1bF9VV3ZVNzNxU2lLZ0w3NFpWZWl5YVZJNDdiM1dLdVpDMUJ5cl9sVkFOd2t6VzczM3p5S01sZEhWcHU5WEV1WjFkTzE4Y0ViMWhCc1hfWmV0ZWlVbDJHb0t3YTZpc2NvUQ?oc=5
+- **Source:** Law360
+- **Published:** 2026-10-13T22:32:55+00:00
+
+## Apple Inc. (AAPL) Stock Forecasts - Yahoo Finance
+
+- **URL:** https://news.google.com/rss/articles/CBMijAFBVV95cUxOQnZEZ0ZBNmJrOHVsUkFlZ25RSDN2M2dIbGlYcUJHVjdPN1Q4UVVrc1I4VDdfU1VaU2dxbXRkbU5oZG5WN1dtNk1XM3dVZlE1V1I0RkpLSjFqLUJveG9BYWNXYTQyUF9tMkwwY3o3c0ZXZ1VxY1o5R1hZM256Sm4wSjJUNG9UOEJPc092bA?oc=5
+- **Source:** Yahoo Finance
+- **Published:** 2026-10-13T22:29:28+00:00
+
+## Apple Stock Hits All-Time Highs — And There Could Be Good News About iPhone Duo - Benzinga
+
+- **URL:** https://news.google.com/rss/articles/CBMiygFBVV95cUxORmdURTVuUHNyZGRrVUFSQWJ2YzhYS0tULVRGdVBTaTN3WnU3WmxiTTVSV0VlalFGZ1YxcDRnNE9OWXFyeDVnaFl1aWNiQjZxb3gzbFh1TkhkYzFNNzBvLWF0anluQzlNVnk0amFUU3dRc0ItbFBERnNxTWgxRHVDSWx0T2htRUZzUElyNVhTZ3FYZ0tYcUYxbk81TjVfcmdWT0x6dXVBUHFOQkJuWmFTZ3lYY2RfdlU2TTh4R3p2el9CRWRfSGZOSTFR?oc=5
+- **Source:** Benzinga
+- **Published:** 2026-10-13T22:26:11+00:00
+
+## Apple Inc. : JP Morgan gives a Buy rating - marketscreener.com
+
+- **URL:** https://news.google.com/rss/articles/CBMilgFBVV95cUxNS1BfckdXZ3EtT2t5ZUJHOTIySDNsVlFOc3RTM0xaMnc4TUU1VGI2SnRpY3lpMi1ncVJWQVV1RV9UVVBGenljMms3ak95VnZleVBod2VMSXhicW4wOUxNTTlLN29WUjdvSG1SdzZGRVJBMHR3M3pwbk45M01hNTYwSDZUUGpuVVpmQTNzU0R2ZnRRa1FxM0E?oc=5
+- **Source:** marketscreener.com
+- **Published:** 2026-10-13T21:37:38+00:00
+
+## Apple’s Next Stop: $6 Trillion Market In 2 Years (NASDAQ:AAPL) - Seeking Alpha
+
+- **URL:** https://news.google.com/rss/articles/CBMijgFBVV95cUxPVGx5cUMtcklCcndRX1Q1aXI5aEJadzBVb1IxYnVMeDdOLWxQMUd6SjI4a0VWWURzeklMakdZck02MHhGX2xtcmZPa09JaGp6LTVEeUdjcDB5SUl1M0pkdjdYWlBJc09TYllQeHFrUk5WcEVfQTFyazF5VExoTVRNZTZrcjkyRkpEMk5NYTBB?oc=5
+- **Source:** Seeking Alpha
+- **Published:** 2026-10-13T21:35:27+00:00
+
+## Apple's Siri AI integration into new home lineup could drive up Services revenue: Ives - Seeking Alpha
+
+- **URL:** https://news.google.com/rss/articles/CBMivwFBVV95cUxNeWlieFBMbkdHT0pIeS13QXl3c3QxakNIQXM4TGtJRlZBd1NNUUwxbE9HcUtRc0VISWJsQ2hMUnVlb3IyazBLZF9zdGV4YlRCRE8tcWlJLXpjckZxM2FwUkNOVVNHa1JLdWhNM1IycWNVRjZ0Y096d1lXdGsyNzZOXzhmVmhfUmZKUU5FVnczWjZjTUVfR3VjWTlqTElOU3c0NFJ3ckM1T0dOaHY5dngzUFZpd3dlWjNuTzEtbU1CTQ?oc=5
+- **Source:** Seeking Alpha
+- **Published:** 2026-10-13T19:55:28+00:00
 
 ## Apple's New HomeView May Be Siri AI's Biggest Test Yet - TradingView
 
@@ -267,39 +303,3 @@ _Last updated: 2026-10-13T18:58:32.303914+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMi1gFBVV95cUxOenRUbWNiNmJ1c2JDaDhxb28xbkpXX1BES2VvQ2VCTHhxeGs0aHkxWHBVRXhfSUZ1TVJ3V3FNbHl0S2EtNEVqdFpZRFFKLTZfTnNabzBYVXdUYnp5cDlBZGNMSndQR2h5NXd4R0FGWWpaMi1JejBXdm1VZkkydUdYSGFocEFJUzFEVUotUlZvMUx1VURQTS10UWZ3Z1dyVk5USjZyYjhzWmFQU1FLVlp6d2w5anhkdm5FMTBUOUQ5UFdpOWNNbEJhYl8xckZhdmZFdkF0RjlR?oc=5
 - **Source:** TradingView
 - **Published:** 2026-10-13T07:00:00+00:00
-
-## Apple Inc. Shs Canadian Depositary Receipt Repr Shs Reg S Actuals & Estimates (NEO:AAPL) - TradingView
-
-- **URL:** https://news.google.com/rss/articles/CBMioAFBVV95cUxQWnktbFFOeFNtT25icHp2ZXFUNF9BY1NialpaeWdQaDE3YmxiQzh2RGxJWVMzbUgwdG42ejRhT3lBZ1BrY08tU2ZlcXpOT3NyV3dKajNuUFlTcEkxUk1SNHVfcy1ILU5nMXRlUkZGMmhERGFOWnR2QU1FZlNlQ3daZWVTTFBjWTFnMTZUOUIwcFJsNFlKZG1hczdtUnd3eUp2?oc=5
-- **Source:** TradingView
-- **Published:** 2026-10-13T03:17:11+00:00
-
-## Chinese Vice Premier He Lifeng meets with Apple Executive Chairman Tim Cook - CGTN
-
-- **URL:** https://news.google.com/rss/articles/CBMivgFBVV95cUxPaFZHdkQyUE5odWMxUWpWLV9lZlh0Nm01SUlPWWxMVXdRTjNpTGZVRV96bHVQQzZwRFpoampObklXVzJXMW9UUWk3dWE0dnM1UUdVelRQNVJQRS1FSFU1NmtlYkMyVlZkckZHQzRQVDVwRGhfcWR2VlRxWjh2MDVMTEZqREtPOEMzTV9iVWlYYU9faTI5bmFUYnRQMnNWOVlyTGR1bjlMQ0VESE16ZXZXMkVaMlhWc29naHFlRmpR?oc=5
-- **Source:** CGTN
-- **Published:** 2026-10-13T00:33:56+00:00
-
-## Apple stock after-hours at EUR 305.38: plus 0.39 percent versus the Xetra close - ad-hoc-news.de
-
-- **URL:** https://news.google.com/rss/articles/CBMiywFBVV95cUxQNE5DV29iaFpNTzFfVHZUWFI1eXNqYVpwel84a1ptc2ItcEJhcGZtVDNpRWdSdGtTNWsyQUlBTm80YklSQnAyanpmQm9LSWstNUMzYUFYVVZYWGU5Vi1rdmk5aGdGalcxX3A2U0NvZDRPXy15bDNjaXJ5SnVmQUNDMWxsX0RrN21RbWNTWnNKSi1HZVhDUnY2cUxDclJpby1fT2JhOEFZQWlSdFJlV19XQ1N3Rm1XV2t6OVVKMExxZks2QmJYWlBmMFlOYw?oc=5
-- **Source:** ad-hoc-news.de
-- **Published:** 2026-10-12T20:39:16+00:00
-
-## Google Challenges Apple With a New Health Data Play - Apple (NASDAQ:AAPL), Alphabet (NASDAQ:GOOGL), Alpha - Benzinga
-
-- **URL:** https://news.google.com/rss/articles/CBMikwFBVV95cUxQU1g3a3ZGcml1RG5PN2tfU2lVOUUyY2J0dExxRjVSRTFZTVN6ckJRS1c1RlowSkk0dzlreHVkbm1udHJwUEJ6X3RFSXRKaHkwV1J4X2RHeVZXN21VSnpfV2FnUzd1Y0FtWmNQQm8zeVNjOE5SY2VjZklhQWdSR2xkUUtiejZqYno0VWljdUgzekNKUGc?oc=5
-- **Source:** Benzinga
-- **Published:** 2026-10-12T19:01:49+00:00
-
-## Heart Podcast Brings Karen Kilgariff to a Story of Love, Loss, and Unanswered Questions - AppleMagazine - AppleMagazine
-
-- **URL:** https://news.google.com/rss/articles/CBMidEFVX3lxTE5taThqVWVLTWlYWlo0RUhiVHg1cmRSc2MwTXd2TEkyVFlJVDA5VzM2ZTZrTVV3QWFlUkFFNlNQQWVHUWVldlNmc2Q3R252NzdiN0t2YTRDVUlmdzZLVHIyWVZKX1JmaXdyajZZa3lyTFM2Vmd60gF6QVVfeXFMT3NnM0t5MWlSdElRVnpRc1p5SjRKdVBGb25obWlrQWh4TDhNd0xoSHAtUWdMM1dnWkNuelI3OHhVMU14bF9vQjE3RjhuTkN6NnVNS3p4YkhDSWpQOUxfemd1ZV96SGJ6MHoyRXVhWURSZ2hrSk4wYk1NY2c?oc=5
-- **Source:** AppleMagazine
-- **Published:** 2026-10-12T18:02:26+00:00
-
-## SpaceX phone could challenge Samsung more than Apple, investor Gene Munster says - The American Bazaar
-
-- **URL:** https://news.google.com/rss/articles/CBMipwFBVV95cUxQdEZ1ZmVLWHYtZkdGSjRmUF9HWlJ3LVhNN0tJdDFjRldxNi0tVHV1QXh5RGtDOVAzMFlNcC0yOS1nYzc4Y0tRX2cydTJLQVprR2VLMXZOWnAydV9PVDFXNWs0UXlhVzFmVy1lQi16TWlVX3o5NjdtaVFpTGc0STk3dTQ2dEhKRE0xVmh6d2JCajlTbnZueGRmMU5GYXphVWgxQzk4aEg2MA?oc=5
-- **Source:** The American Bazaar
-- **Published:** 2026-10-12T17:54:15+00:00

@@ -1,8 +1,32 @@
 # NewsWatch — Iceland News
 
-_Last updated: 2026-10-13T18:58:33.511892+00:00 · 50 articles_
+_Last updated: 2026-10-13T23:37:33.274275+00:00 · 50 articles_
 
 ---
+
+## Heimar bought back shares under an ISK 500 million plan: what it means for Heimar stock - ad-hoc-news.de
+
+- **URL:** https://news.google.com/rss/articles/CBMizAFBVV95cUxNakc2SUFkWFFVVGNFU3hNSVZQYUtXOFN0UGJ3dXdaSnFTaGwyMWx3WEFjaWhGMFJHQUt5ME1HLWljbERlSjdwMlAzWHAxanZkQWZCNWUtaXFNaDFVOXlBaC1PLTlPdlF5R05PWExGVGJBMi1hSGFuS1hReERtM09LWXZPM20xcENJcVVrcU9FZWZRWVVVU3hqelRDM3VnQm9ONnBzM3FtU2dQZDBLWjd2U2djQ0c3T21VdTlGR1BLT200VWJtTjgzTFpkS1g?oc=5
+- **Source:** ad-hoc-news.de
+- **Published:** 2026-10-13T22:33:07+00:00
+
+## Sjávarsýn crosses 10 percent in Skagi: Skagi stock shows 11.05 percent YTD - ad-hoc-news.de
+
+- **URL:** https://news.google.com/rss/articles/CBMixwFBVV95cUxQeVZLM0hYaFltdlJxZWhlU09vTzdaR0FTWDhyZDRrTHdNYkw4eVVQdGRabkQ0RDRaTnZ2Ti10SjA4dnFIQnFWTzNOLWJ6RE9NakYxaGNYdlJ3UDRsaXZBMXVpblY5LXIyM0QwdXo1czJYQjRyVnBxNk9menVHc1lTWjBIZ2VvMUhKN19TV0ZvQjBDb3NNT1A0WDF4UTlRUHI3bXhkY25aQ215cktGSERtSFZ6RkttbXRkb0phSFRFakVTTU9ibDdR?oc=5
+- **Source:** ad-hoc-news.de
+- **Published:** 2026-10-13T22:32:03+00:00
+
+## Deep low approaching Iceland, bringing gales, rain and blizzard conditions - Icelandic Meteorological office
+
+- **URL:** https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdFFxTXVNZ1NPcjkzdmJRVTVNcUNvWWFTZC1mNl83d0YzVHNzaDZnRkhDeDdvcVlzOFplb3BrRUhMN21kME9RMXdUeVNfczVYeExoLWJMOUEwMjc2NUpQMTRDRF9pWU1IRG1rVTJFRmhYdzBhN2hvQVliVEl6aTNzbWVESjRXVUctQzJ1MkJHdzF5V3BBVlNna1N6anpVdV9qVXh1ZDN3eVFGTVE?oc=5
+- **Source:** Icelandic Meteorological office
+- **Published:** 2026-10-13T19:34:05+00:00
+
+## Iceland vs. Croatia (13 Oct, 2026) Live Score - ESPN
+
+- **URL:** https://news.google.com/rss/articles/CBMiaEFVX3lxTFA5dnNGUFV4ZE4wYzdOSnpLRXBUU1Y1OFZ0bzBkOTdsLXF6Q1lkcUpyWC1uaEV0Zk5FSWwxVDZBMVJIdF9EaThyczdLWDdnNE5pR05HUGhZRTNfUGs0T3BZS3hBenpEcEla?oc=5
+- **Source:** ESPN
+- **Published:** 2026-10-13T19:11:27+00:00
 
 ## Stockfish Festival to Present Nordic Film Prize Nominees - Iceland Review
 
@@ -279,27 +303,3 @@ _Last updated: 2026-10-13T18:58:33.511892+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMiigFBVV95cUxPZ1B2d00zbnYtc2ZLRm8zNlRobG41MU10dlFKZW5xalMzYVpFcVpxcFAyM0x6ZFVqUlNZOUR1R3VTd3VDcEVvaXZteDdqSnY4TkpnUnlEQmtneEVZWXpadDNDSlFsNV9iSE9tbVdncktNZTgzbE05b04zV2lhdEJpUkZ1engzQkdZWGc?oc=5
 - **Source:** Iceland Monitor
 - **Published:** 2026-10-12T13:30:00+00:00
-
-## Preview | Moldova and Iceland to battle for 3rd Division honours in Maribor - European Athletics
-
-- **URL:** https://news.google.com/rss/articles/CBMitwFBVV95cUxPLWU5SzB5ZldaRllHME5TSXdqWmdRMjlvU2E1NUJldzVjMERjbW9pc3BJUmZiY1VvYXlwMXZjNExUNlc0RnRvanFiT1dnbktnR2NPQVprWnBOLWZEOTdmTFhycmRaZ2k5MERJWk1lcVFuVUFhbi12UlJhY1ZDN0hGY2xFdkdUZ1FnT2pCbjB1Si1kNE1mMndtQmZWelA2cTdoYk9DZzhZbDlPZXhfVnN0SlY2NXBRYWM?oc=5
-- **Source:** European Athletics
-- **Published:** 2026-10-12T13:25:43+00:00
-
-## National Dialogue Sparks Call for Annual Talks in Iceland - Iceland Review
-
-- **URL:** https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUURyN09lUEJKbG5IMmdLWkZrcVpfQjJKQzBoZkxXcnN4Zk9TWmtad2E4R1FuOTRwR0gtN3BKa3JfbHk0cnQ1WUN2MjJRaDdNQnZzTm9xWFpLelhiaXhFUFNkYXJSc1lVZzZLSVdicmtSZXRUM2xrdlJkYXNsUDAwSENiLVllRjY1TDNB?oc=5
-- **Source:** Iceland Review
-- **Published:** 2026-10-12T13:00:00+00:00
-
-## Exceptionally deep low-pressure system could cause damage - Iceland Monitor
-
-- **URL:** https://news.google.com/rss/articles/CBMitwFBVV95cUxPYWt2cjQ0OEtRcGVtSDlUS2kyNXRLaU51LW40a05PZWlIZXdudGg1eHIwazNXN3FMSGZMS2RnSjV4c2pMTUY0Q1lxdEs1N3hmcGoxYUx6S0Rzc0g0UGFibHd0R3hoazh6REh0QmxaY3pZc3JnLW5HYmZwREZNX3Qyc3loTEc5QVk3SzBxVmpDM3kyLXZsczhkNnlDdUtpMnhNZ2xlZlRhVUs3bDA3MVlNYjNVU095QXM?oc=5
-- **Source:** Iceland Monitor
-- **Published:** 2026-10-12T11:09:00+00:00
-
-## A24's New Sci-Fi Thriller Based on a Video Game Is Giving Fans Exactly What They Want - Comic Book Resources
-
-- **URL:** https://news.google.com/rss/articles/CBMib0FVX3lxTE5xUTgxb0N2eTJHQ0d5WFYzYTNiQlVlbEZ5MmR2ZVk1a0Ytb2NnN0Z2ZVdBUlZDWWE4cVd5eld3VDFtblkzWE9RQnhVRGtLWlRpbzFaNlNkLVB3WXYweTZrVDRPY0NzajJpSmRVd1g1OA?oc=5
-- **Source:** Comic Book Resources
-- **Published:** 2026-10-12T11:08:46+00:00
