@@ -1,8 +1,44 @@
 # NewsWatch — Iceland News
 
-_Last updated: 2026-10-12T20:59:51.816842+00:00 · 50 articles_
+_Last updated: 2026-10-13T02:52:01.720714+00:00 · 50 articles_
 
 ---
+
+## Austria vs Kosovo: Women's WC Qualification Europe stats & head-to-head - BBC
+
+- **URL:** https://news.google.com/rss/articles/CBMiY0FVX3lxTE1TbTJLSzY5YUlraUdKMHFyajJSLTIzZVFYZWVIOWIwOVp5T1Z0RkRqbjdrSkZrSUktQzNVZ1JOd2FTMDFWQi0yVXJhS19vdVpJSWJrVzJLMnFYVC1PMzlRdTZ3MA?oc=5
+- **Source:** BBC
+- **Published:** 2026-10-13T00:08:24+00:00
+
+## Online Gambling in Iceland: Laws and Lotteries [2026] - tech-insider.org
+
+- **URL:** https://news.google.com/rss/articles/CBMiYkFVX3lxTE81RFhON2lpcFNHTDdXbmwzY3k5X1k2b3hUMG9Mamc1UFRoVWozQWd1V2p0SVhHT1hxUkdPb2F1Mmxva3htU3dfR1pCdlpka2tKRGVuUU85LUpJamRSWHBxRWln?oc=5
+- **Source:** tech-insider.org
+- **Published:** 2026-10-12T22:48:00+00:00
+
+## Calls for Icelandic fur farming ban escalate as damning new report shows country’s fur farming industry costs society 981 million ISK - Humane World for Animals
+
+- **URL:** https://news.google.com/rss/articles/CBMihgFBVV95cUxQLWRhcnZJVGtSR1M5Y2FTOUdCdkstLWlHUml6TnVPYk8wME5rbnAzM0FHSXg0YkZGeGxZZ1BqcUxsTXVxSTdFUGxuS2Q0RHZ4QWZ5SEFlWjRtVVF2cEhTeFdsZzM3ZFY4LW9LMElHR1F3cjN6eG9ZUU9SMm1zM1RWVmFUUlhXdw?oc=5
+- **Source:** Humane World for Animals
+- **Published:** 2026-10-12T21:22:30+00:00
+
+## Iceland vs Croatia Preview & Prediction | 2027 FIFA Women’s World Cup Qualifying - The Stats Zone
+
+- **URL:** https://news.google.com/rss/articles/CBMisAFBVV95cUxQWS1GQlRLOWhnbUE3WlNlXzVRYS0tMmtleDFwaUFyalFxTF9FbzZtRFlVVi10bVNPODdlWG5HTlNtLU5Dd0JNei1NS0s5N0p6eFZORUxSMHRldkxLNVFicTFaMEZ4ZTNCU2s0d1FOWDR2dUYtU0Rlb1ZzbUNLeE5zdlBraVZkamtDX3VqTEZaLS0zcHdEZ2VnY3R6b3JfMmc4a0lfV082dzlEekxMTVhLMQ?oc=5
+- **Source:** The Stats Zone
+- **Published:** 2026-10-12T21:16:00+00:00
+
+## KTBS Travel Club explores Iceland's breathtaking waterfalls - KTBS 3
+
+- **URL:** https://news.google.com/rss/articles/CBMi1gFBVV95cUxNc19MZlZBUFFBSmlIUUNPZ3FobHlEa05QUUYwd3dOLVNjNWlfQ3Raa3dvbkN4NEk1czNBZzR6eWFGczFnSWZpQndFN25HdVM5aloydnY3RmV4QTV4S0FCMDFMa0F1TGlRSmx4ekxxWThiblBJckhydHhzOElDLUtSNk92MVpfM2JFejNJTm1yUmFjbFZTVl9PQWJqaDZsdy02aDNEN3kxQnIwMGZVYUtxZlNnRTgtQURabWR0Rnd2bFhQdHdoUVgyT1NxNXUtb0R0Snc3YU9R?oc=5
+- **Source:** KTBS 3
+- **Published:** 2026-10-12T21:00:00+00:00
+
+## KTBS Travel Club explores Iceland's breathtaking waterfalls - westcentralsbest.com
+
+- **URL:** https://news.google.com/rss/articles/CBMi5wFBVV95cUxQcjZiYmw3U2VEUDd0a0h5ZGk0bENkVjZEZjNCZk9SemtValEzcGlLbWJjYVBXUFFmejg5eWRYSTI2eW9mZDlMRTZVNm85RjVvNnItM2JhWjlNQ0d6UDZUeHVscEUxRzkyNld1YkxrWmUzMkQ3OG1laE9nVk9lZnk3dXg3MlllSlZBeGJWdncxeWQ1N180SEdYN2Z3U1VVaUl4aFF0dnV4WTJ2bVlGVGtVR1RfUm83S21ZOWRkcE1VRWhzeUlobFo5X0EyWEZ0azR3aXpMVV9ReUl6YTM5U3ZkeEd1dVlmcEU?oc=5
+- **Source:** westcentralsbest.com
+- **Published:** 2026-10-12T21:00:00+00:00
 
 ## Iceland Foods Charitable Foundation and Prostate Cancer UK take awareness campaign on the road - A1 Retail Magazine
 
@@ -267,39 +303,3 @@ _Last updated: 2026-10-12T20:59:51.816842+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMi5gFBVV95cUxQM0dvbjFEeEtvVDhYQ3M2eE5HZENteFZ6UWs5UE4zeUZjRjRydjdYdDdtYWNXSEl3a1dCekVQamlaRXJLbkJhTUZIVzFucldvZnhaNkRQQ1NNWnFKb284VUhXeGJPNW5iVktwOXRrVFlwQ3BJdUdBcEZRSk00dUoybnBPMlpGN1pZcXJ2X085aWYwc196Q2lHUE9sVFlmd3BQZC1qcVlxeHUtWEdrZ1JUNDN3VWNiVk9ndlhOakUxMTZUZENwWWtLakV2QXVZN3g3ZUpINnlrUmJpUmN2a1RxVVZkRHRpdw?oc=5
 - **Source:** Facebook
 - **Published:** 2026-10-11T17:48:33+00:00
-
-## 'Fraud': Rubio Puts Woke So-Called Human Rights Group on Blast for Stunning US-Israel Hypocrisy - The Western Journal
-
-- **URL:** https://news.google.com/rss/articles/CBMitAFBVV95cUxPeHhOOGtDM1Y5V3NSeDJVU2dMSFExaDA4bVJHSldMSW5rXzZnNjBiWFRERzROeE5rcVd3czhIdGN0SnlsUjVsNUhxSllNcUR0MFMzRWJRQWVUaG5iV3RIX1ZDU0Z2MHlXOTVDX2tBaWs3TlJaZXp1ckI2VVdodDlaZnFKOVcxM3kxTlpPZjU0cXdXaUFsZnlyUW5zTkRLQnVXUjVLMk1GZi04MFZyZVU5UkFBUFE?oc=5
-- **Source:** The Western Journal
-- **Published:** 2026-10-11T16:53:15+00:00
-
-## Transatlantic divides over security, development, climate emerge at Arctic assembly - Big News Network.com
-
-- **URL:** https://news.google.com/rss/articles/CBMixgFBVV95cUxOUjcycnpXN2pYTTF6QjVRWGVzSXJ1SXlnQmtnYUc1RklQSW4xdjRXVkJhUFJOVFhpNkV4OVBjME9yd0RIdUJYcDNvWGRlRkdDQ2dnak0wOHVKQ3F5cGtQY3Azeng2RFJGSDlBeWltcmcxUWJOMC1qbGx2ZXdRWlJIaUpKakFBUDZQWl8wdldTOHJqZDVBekNwNG50c2FBd3hJaWpSSjhkRTJVNjNpSkkybVl2eWx0R2U4Ym56b0l5eFI2WGtlOUE?oc=5
-- **Source:** Big News Network.com
-- **Published:** 2026-10-11T15:45:00+00:00
-
-## The 11 best things to do in Reykjavik - The Telegraph
-
-- **URL:** https://news.google.com/rss/articles/CBMipwFBVV95cUxNN3hyTC1aYXRtcG40aFhuanZyck5QclkzY1Fka29MbXhOemExeDROU0lxVXVXNFNMbndXbDJhMllCNElEMDZPRWdCMEJSelpfbDdTenV4OGhVeUJzWVBCSGlvYnRVNEprUXpocVRWdE1sNXNRbzdTeGRDMnY2ekoyZ0JyanlxQTE4dFp0WGh1UHB0dkZQdUtUei1fWk5FV3RmRnM0WWc4cw?oc=5
-- **Source:** The Telegraph
-- **Published:** 2026-10-11T15:00:00+00:00
-
-## How to spend an easy-going weekend in Reykjavik - The Telegraph
-
-- **URL:** https://news.google.com/rss/articles/CBMinAFBVV95cUxNUU5SRWFTM0tkZHZjak1wUGpYNGlibmtyOHdqWGxpWmpENFV4ZncwdkpIdENqLVRNd19Dc2tnRThQWUlMU3lXRE13U3BLcmxQb2tiY1NlbDIwbldZdFkwNk1LZ0g4ZjJuVUcwbHM3MnE3QXRfTEV0UDI0WkJxZW9yZ0djMzBsdHZzTXh6WXBHLVV4amRJRnZhd29Bb20?oc=5
-- **Source:** The Telegraph
-- **Published:** 2026-10-11T15:00:00+00:00
-
-## The 15 best restaurants in Reykjavik - The Telegraph
-
-- **URL:** https://news.google.com/rss/articles/CBMipgFBVV95cUxNSExrdG5TWDJUTGc4d0Z1YmpTNUVleFE2QVVDR0RVU3JqeUV3aFNwVV9ubzBUZ3hzckhndnZTS1BHeUlIT3NBdzZjdExFTE5NZDZQYjNKanBkdTQyY0RpNVlTRUdnSjd5bkUwamFpTHB2MGg5cE9jM19RYXViYXZiaDFyVUxRV3A0RmdUeWpCSFNPY2I1cVBtY29IaWlYNDJIWDZQTmZn?oc=5
-- **Source:** The Telegraph
-- **Published:** 2026-10-11T15:00:00+00:00
-
-## The best bars and nightlife in Reykjavik - The Telegraph
-
-- **URL:** https://news.google.com/rss/articles/CBMipgFBVV95cUxOSWRBMlFCNkRlRXNZQ014YWN3OGFHei1PaGNDcDlMcWNDdVBwVnpxM0piRHdleGp3VUo0RVc1Y3BfWVFYNld3Z0phcGFMOGNub2UtOWxjTmRZMUFSUTh6RDgzeW1Sbi1iQWptbnQyOElzY2oxME4zRkx5aGZObzF2NnVSTVZBOEdoQmxtVVVid2tnYkdzaUVuQlQteHd4UTJQME5mYU9n?oc=5
-- **Source:** The Telegraph
-- **Published:** 2026-10-11T15:00:00+00:00

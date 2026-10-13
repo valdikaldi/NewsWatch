@@ -1,8 +1,14 @@
 # NewsWatch — Apple News
 
-_Last updated: 2026-10-12T20:59:50.514101+00:00 · 50 articles_
+_Last updated: 2026-10-13T02:51:57.091349+00:00 · 50 articles_
 
 ---
+
+## Chinese Vice Premier He Lifeng meets with Apple Executive Chairman Tim Cook - CGTN
+
+- **URL:** https://news.google.com/rss/articles/CBMivgFBVV95cUxPaFZHdkQyUE5odWMxUWpWLV9lZlh0Nm01SUlPWWxMVXdRTjNpTGZVRV96bHVQQzZwRFpoampObklXVzJXMW9UUWk3dWE0dnM1UUdVelRQNVJQRS1FSFU1NmtlYkMyVlZkckZHQzRQVDVwRGhfcWR2VlRxWjh2MDVMTEZqREtPOEMzTV9iVWlYYU9faTI5bmFUYnRQMnNWOVlyTGR1bjlMQ0VESE16ZXZXMkVaMlhWc29naHFlRmpR?oc=5
+- **Source:** CGTN
+- **Published:** 2026-10-13T00:33:56+00:00
 
 ## Apple stock after-hours at EUR 305.38: plus 0.39 percent versus the Xetra close - ad-hoc-news.de
 
@@ -297,9 +303,3 @@ _Last updated: 2026-10-12T20:59:50.514101+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMixgFBVV95cUxOQ1Z4N3BJbGZzMklMbWJtU01CcjFJai1kM0NCdVhiNHdKTGJGal85Qmp3eE4yN1JNX3Z0OUVmQ255SWZDTEM5VUxUazB5ZzNISXM4WUJqVVlxV1l3Y1FGbDgwWE5yaE9CSmwwa0Z3MHl0R29RLTN2aS1aajRuSGpQQ05kc2ZyRFk0eUdJdmRVblpQUWhJSDFEZ0p1TEx0VTdLa0VnazI4SDFRQzVOUTE0ekdRR3JTNHFyeFM2dmZleF8zaE9DRUE?oc=5
 - **Source:** MarketBeat
 - **Published:** 2026-10-11T09:58:07+00:00
-
-## Ramsay Stattman Vela & Price Inc. Sells 1,992 Shares of Apple Inc. $AAPL - MarketBeat
-
-- **URL:** https://news.google.com/rss/articles/CBMixgFBVV95cUxOYkh0a2RYVGc5RlpVWkl5QUlleFlWNi1FLThySzZMS0o3OXVENUt1WWtEa2ZTMWpLWHUwTjJXWjRsbnNmREVJTEJ6dUJDdmlDSHdWZFhLRlFDd0kxTWFrSThaX05KbzJIbGRVQy1GMjJpdm5TWUYyT0NEWUR2a2JUSFFSc2J0OUdQelJMb3RzNW0ySmgyY2V3bGRYUUdHWTljTHE0RnFsM2QyNnMyZEV2WE10eVY3SjBPZWxsdlRWZl9sYi1OLXc?oc=5
-- **Source:** MarketBeat
-- **Published:** 2026-10-11T09:58:03+00:00

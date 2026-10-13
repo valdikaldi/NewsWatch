@@ -1,8 +1,32 @@
 # NewsWatch — fusion energy News
 
-_Last updated: 2026-10-12T20:59:52.408707+00:00 · 50 articles_
+_Last updated: 2026-10-13T02:52:03.664836+00:00 · 50 articles_
 
 ---
+
+## ECO Expo Asia opens at Hong Kong AsiaWorld-Expo in late October - Asia News Network
+
+- **URL:** https://news.google.com/rss/articles/CBMikwFBVV95cUxPRlhIeFJvb29Ic3p6aERaek05UUtJYUZjY0xlTGVGLUNhQ2pYeElabVVpN0Z1S0pESTgxY0xiOG9falNzRWo0a2tINVNsYkMySHI4V002SWJaZEJQOEJaWVVWN1lFLTJjZ1d4YUMxU0VrNk00SWFWeVlwc0MyYi1tMm5JcGhKSjBfaEdqQjh2RFJWNFk?oc=5
+- **Source:** Asia News Network
+- **Published:** 2026-10-13T01:13:40+00:00
+
+## This Ultra-Rare Gas Could Become An Ace In Canada's Hands - Crude Oil Prices Today | OilPrice.com
+
+- **URL:** https://news.google.com/rss/articles/CBMirAFBVV95cUxPRzJLa0NRZlJFbUFlWTd6WG5Kc0JDeXpFZmhqVWh6Q1BwcUJmV05GWmdtUWpielB4UG54SU8xYzlwSDRwQTN1aGRlcnM4N1loNlZtb2psZThYSHJGd1QtR2hNaHhvVGRhM1hVdHlLOTkyeDRwVlBnaUpFajV6UWdXYmVjTVU5bzEyOEY5dGl3d0hhRmsycTNma3BhOVI2SmJIeVJQQkdxbmkwZ3pF0gGsAUFVX3lxTE9HMktrQ1FmUkVtQWVZN3pYbkpzQkN5ekVmaGpVaHpDUHBxQmZXTkZaZ21RamJ6UHhQbnhJTzFjOXBINHBBM3VoZGVyczg3WWg2Vm1vamxlOFhIckZ3VC1HaE1oeG9UZGEzWFV0eUs5OTJ4NHBWUGdpSkVqNXpRZ1diZWNNVTlvMTI4Rjl0aXd3SGFGazJxM2ZrcGE5UjZKYkh5UlBCR3FuaTBnekU?oc=5
+- **Source:** Crude Oil Prices Today | OilPrice.com
+- **Published:** 2026-10-13T00:00:00+00:00
+
+## US fusion project targets plasma predictions in under 20 minutes - Interesting Engineering
+
+- **URL:** https://news.google.com/rss/articles/CBMikwFBVV95cUxPX0lYNmNyenpkTnNPQ1Rlcmw5dDZsNFBhZnQ1TV9fSHMtRTMzdG1tT0llaFFUM0NhUHVGTDlhMmF5TjI5c0ExT21rZ2dkMTJlRjBPVThBdkl3cVVhLXdvODNKRjBwQTBrcnRZcjVjTmJ2Ml9nVS1VQ3BYVEUyZ3RMNmF3WktJVDVzYXlvYU1jQjE2cW8?oc=5
+- **Source:** Interesting Engineering
+- **Published:** 2026-10-12T23:58:00+00:00
+
+## American Fusion Details Texatron Fusion Program, Emphasizing Plasma Compression and Confinement - citybuzz -
+
+- **URL:** https://news.google.com/rss/articles/CBMiygFBVV95cUxPdmJSV1BXTzdnTTZGR1FLMTJGb1Q3QlRKNkFPVFg1aUlCUUJGTl9TTzlieTh6VEhJZDd1a0hsUDdwdFBDb0MzOUstcXFVYVZuVV9mSTNEUUlESGZWRVc0XzdSVGJXaWtTeGIxUkVwMXdEYUtBaU9MaVYxeFdDZjZQcHdmMTNiQ2w5eDBqdjU3VllaM0ZnNmVMTmctc3ZqU012OUk3NllqTU5nQVZaNmFNMmhSVWw3TzF6R20tbWNQNzFqdGJTY1FqcU9R?oc=5
+- **Source:** citybuzz -
+- **Published:** 2026-10-12T23:49:14+00:00
 
 ## SPACEBOIFRESH TAKES OVER SUNDAY AFTERNOONS - 97.9 The Beat
 
@@ -279,27 +303,3 @@ _Last updated: 2026-10-12T20:59:52.408707+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMickFVX3lxTE5qbDFnSnJ0SFdvcmtGR2RyZlBEYjRFai04dlJSTGRkRUNWcHZZa1o1N2VEMEw5ZExEQ2V2U1ktQmdab1UtMTNIUUZNRE1aeEpaejUza2RyVS1sR214NGcteGllUXl1aGtBTjZIREh4VFhBdw?oc=5
 - **Source:** Six9ja
 - **Published:** 2026-10-11T16:18:39+00:00
-
-## ECO Expo Asia opens at Hong Kong AsiaWorld-Expo in late October - DagangNews
-
-- **URL:** https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcTNEQlFqa3UwZnl0MzlRT05jWE0tSFVWT2RUUUsyUmNMNHl1RlVvUkphcUthMzZ5UFVSUnI3R0ktOUsycVJUX2NpOGlWTzJhZ1lCaEZKdEt2TzFzbG1sN3Q5YThWbXExMU51LVY5c3ZFbGpQSTk4allKektGVnRLWFZmNjNXR0p5YjdKaHJJZnpSVm83R2pMMVJhWVIyREpBS0VxNzdFWFZzdw?oc=5
-- **Source:** DagangNews
-- **Published:** 2026-10-11T16:05:18+00:00
-
-## Argon Plasma Probes Market To 2035: Semiconductor Etch Demand Drives Growth - News and Statistics - IndexBox
-
-- **URL:** https://news.google.com/rss/articles/CBMiswFBVV95cUxPYjZuRlJ5c1JLZHgxUGpoTjRHTl9OVDZwdU55SWMxWU5IcWVmZ1NUeW92dU1aVWszZlFkRkJ5d0tZVUJrMlJvS1ZmTnFibDFqNUxjNk1JUEJGenFaelVYOV9WUG9HSHU4SDVVT3hrc3A4eVdzMHlvMDBDeU5JdERVbVR1S3BkRlEyeEU0SnJsZ05SR0l0bVl0aUI0eDJYdThaVWNPZ1R6OEZKaGFCNzF1bDZScw?oc=5
-- **Source:** IndexBox
-- **Published:** 2026-10-11T15:16:04+00:00
-
-## Vistra gets $4.2B DOE loan for planned uprates in Ohio, Pennsylvania - American Nuclear Society -- ANS
-
-- **URL:** https://news.google.com/rss/articles/CBMipwFBVV95cUxQZkNZYnZyc1dPRHhJS1VXZDdZWUVTUWRhMjN1cEh3eVgtTktBZk1JQkVoY0pJcEdTcXJsN1l5c1lXWjFHQktPSHk3VHByM0R3SjFoMHBXQkhZZWg4blZ1SDFkd1RUcDRIS2FGeVFaTGJkVWFJWlpfeUdLTEZqa0FhMDVRNkU1Tk9NSEF4MlJpelRneHhUeXNkR0ZyZC1HVHZnYmNVdHlxZw?oc=5
-- **Source:** American Nuclear Society -- ANS
-- **Published:** 2026-10-11T14:13:54+00:00
-
-## How Iron Man’s arc reactor works, explained part by part - Yanko Design
-
-- **URL:** https://news.google.com/rss/articles/CBMimgFBVV95cUxOcHFqcVpvYkE1YXF2Y3pCVGhfTDZ1ejRTNHQ3dm9Icl9oMFo4RzNlcjVkemxiRHBoVTJjc1dSYUREX0s5UjlsdzJfOXpRTW1PZHloZzVfNnRidjlhT0hHR3h5cDE0YTl2Wm5XVWhGd1dGZHFFYWtXVHZtdGlvX3ZWTTJaNGlWaHNwdkNXSmxjMEdfZzl0SVE1UmhR0gGfAUFVX3lxTE9mdVNHbmhfQzlQNHVNLWZ0dDFKTjZJMjdKOTBlb2hZNURvLXdoTkF3dG83RE5xVWtpcFRXbGdmWTZXUHFjT3dOMjhKWFlFd1M5QWxUY19DWGFubzRaSHZfbF9IOHI4QTFrU0tsdFRtXzRhQWxObEZXb3hQNUE4bzRISExjV0RFR2k5LWtCTm1fV0UwSzJkMlRrMUlXSlphOA?oc=5
-- **Source:** Yanko Design
-- **Published:** 2026-10-11T13:20:00+00:00
