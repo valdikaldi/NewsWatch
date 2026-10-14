@@ -1,8 +1,62 @@
 # NewsWatch — fusion energy News
 
-_Last updated: 2026-10-14T09:20:28.429867+00:00 · 50 articles_
+_Last updated: 2026-10-14T14:55:06.265636+00:00 · 50 articles_
 
 ---
+
+## Trump Media and Rumble Decline 5% as September Inflation Runs Above Forecasts; Reddit Slides 2% - 24/7 Wall St.
+
+- **URL:** https://news.google.com/rss/articles/CBMi0gFBVV95cUxQTDNNcFBUX2F6T3V1b2VoN3Zkd0tkSkxoMjJnWWRnTFpvb1haSmppdTROLUw3SlNGTTRwczhqTjd5dHZSZ0xHMUpUQW8zQktqYVFkSy1wVVkxZjRYZ2d6T0MtcUtKbHBodWVWazRoZVo2azlfV3ZFYzZlN2paNnRMdUdZT09sN1F2dXhrckQzN0R1RmdBZjV6N1NjVGFtSXJIMm5TLWZmQWlWZnh4b0I5VXJZekJXTGdBMmNlTmlkYVB4Y1FGUndHb09KZWFFRTFTNnc?oc=5
+- **Source:** 24/7 Wall St.
+- **Published:** 2026-10-14T14:27:00+00:00
+
+## Fusion Fuel Green Posts First-Half 2026 Results and Expands Diversified Energy Portfolio - TipRanks
+
+- **URL:** https://news.google.com/rss/articles/CBMi1wFBVV95cUxOd2taaHV5TVVqYjdZQkVkWmVfTWtTTG9CUHA5dzR4LXRtMzV2WFVFQ1BCaWlxTDJtRFVUb0xOYXBGVEc2UldubjdZcFFzWHh3UG0tUmNYV2Zib1AzaG5ZYWN3dGJXdlppRWNjNExOazJGMHM3MDF6WThtZHMyVjZibHdjQko5NnNvMjQ5YzRaN1pCcmZ5bWZ0VzEtYW1GMmtOZzFydW5aOFFQX0dHc082Q3lNWWp0SGtzWktJS3JuT0VxWEhmcGsySTlKRXpya0s1c0I2TjRkaw?oc=5
+- **Source:** TipRanks
+- **Published:** 2026-10-14T12:34:06+00:00
+
+## Fusion Fuel Reports First Half 2026 Results and Expects Full-Year Revenue Growth of 11-25% - The Manila Times
+
+- **URL:** https://news.google.com/rss/articles/CBMi9gFBVV95cUxNVVpPQXF0NC05ekdqcUptLTA2dXdPckJSYVFsNVY1bUhsRHY1Vk8wMzhkWGJSTmRITXVnYXRCTE1iN2I1ZnNTZFhRWWJ6a1FKM3V1MnVwQzJXQkp4QUIzS0ZJcTZDaWZSOXBuWmFWRUlneFZWeldaVlNoS1I2YWMybkhwa1I3VTJfY0l6ZzZETHppa2tqdWhlckFveWhacVp2RXZPSGdOWElSRXpxUzY5LUdDd050cS02NU1CUGc3TnJhYVBqMmhISzNXaUVKckU3S1dPaGQzQzlCUXF5MFBtWmZpMHIyeFQ0UkNkYXdFcUlrSURoZ0HSAfsBQVVfeXFMTWJHTmY4b3RudE9sMlU1aE9WTVJ6UVpQU1NncVYzdkppeGhKczB1cC1CRHpocXRKMEJZdVBMeUd1Wmc5TFozaVk5UHFiRHo5cU8zRTc3X0t2YlAzQWxIS0w5R3l4U2REM0dwRUZSMVBzVlVaMTFSZDBWTXIzR0NUZ1F3Rk84SU15MUVEcDBoVmJJYkY1MFhXOUhQMkNZT0ZlOVVCaWdyNjBUeXJMMXBaN09oUUhBWVdMTjliSEJJTFZXZWc0OHVOSkhVM3U5bnBmMkZQMmF0TzFQOE5rVGhDeHMzWXlrekQtVklyRHJBelhhN1B1X2l3ZFUtM0U?oc=5
+- **Source:** The Manila Times
+- **Published:** 2026-10-14T11:54:51+00:00
+
+## First-half revenue fell 5.7%; Fusion Fuel expects €16M–€18M in 2026. - Stock Titan
+
+- **URL:** https://news.google.com/rss/articles/CBMivAFBVV95cUxOakhNVGU2OFkxTENTaWhVSFc2VHR4V3B6YUZQc0lKWkJmVmI3TTFSLU9LZTdodDFvZGhxMV9QZHhveWhZd3VKRi1kNkw0SDN1Zng3YlpGMTJodHpzRlEyQThheU5wMUtXLXpHWFllWjBwek5mLUVRM3lJaEVQQkhONUVzZmJzaHJwRGVFdkRJUEJPNWdXd19zY1lFRzhpckN2RDRYSEYwYW52U25wNUp3N2FGMld1c3ZTRGpFMQ?oc=5
+- **Source:** Stock Titan
+- **Published:** 2026-10-14T11:45:00+00:00
+
+## East Midlands set to benefit from £2.5bn fusion energy programme - TheBusinessDesk.com
+
+- **URL:** https://news.google.com/rss/articles/CBMivgFBVV95cUxQaUUzVHZPMHY0M0RoLUQ2R3ZCck9TV1NSQ0FxQmx4bkF3QXo4ak5wTFNTbmlTVFBZRVNWeHpjYUV2UWJaUmQ1ZExYOXlMSEExVlFlSXRTd2c1ZmxBdVRLSFZDejRQQzNEczVNbjRnYW4zdGhjNXZFVEpLdzJWTEtwQ1dsbmlJQ1JONzNrX2tHN2hOZXY0R2NteU96RzdnOEJzUy1zNGxjamRocFV3dlhEVUdUT2pockF5UGl3VHpn?oc=5
+- **Source:** TheBusinessDesk.com
+- **Published:** 2026-10-14T10:52:30+00:00
+
+## 17 organizations using AI to accelerate scientific breakthroughs - blog.google
+
+- **URL:** https://news.google.com/rss/articles/CBMirAFBVV95cUxOYzB3aWs5clBZYldydVVUcFRjN2dUUHFxMm42SC1wRDIxdU82ZXJnQXh6U1QyTlZ6X09wNEtpNi1yLVBlaV9HTUtkQl83SHZ1S2NUZHhFM0JQOFZDd203TUpuLVRLTllhNmFMS3RRZmdzblNjMVVOaHQ4RVVhWGNEeDBCc0h5TE1kYUxpSDBIaDJNdU1JSlplVko0UzBTRktfR2pSWGZuRWxfa0RQ?oc=5
+- **Source:** blog.google
+- **Published:** 2026-10-14T09:50:07+00:00
+
+## Seventeen Organizations Secure $36 Million From Google.org Challenge - Unite.AI
+
+- **URL:** https://news.google.com/rss/articles/CBMikwFBVV95cUxQMXVjRkpPX2JFd3Z2Ykd6SjltT0RtZlJzMDRFcHdPRHhUcndFQlp1dTBPenNHbG16akg0SVJMenFwRnRieWk4UUpDTEhMNXA1aGVwS3ozdXkwRTdJWW9yTndablZZZTJ1MnM4S1E0Z1lfYXVqRXlLNThmaGFlOUg0QmpGU01SVHNENG95STVLaTUxZDA?oc=5
+- **Source:** Unite.AI
+- **Published:** 2026-10-14T09:50:05+00:00
+
+## A closer look at the initial NLIC selections—Part 2 - American Nuclear Society -- ANS
+
+- **URL:** https://news.google.com/rss/articles/CBMikwFBVV95cUxOUlp5V3VnanZPQ21uTHE2M1A1VllsOTc2MVFhRWc0dnlfM2stZ1Fpb3pwUFJPbFVORGZ4dmNoNEVWaXp2YzVvRzVsbEdhd2F2eFloYS1wbXVEU3BHeFI1Q2ZDZzg3M1VMcEpwUUpnaGstUTI0UFhIRHRRWE5tQjBNZDVMT1N2eXFKOEI1cGctOEVZbTA?oc=5
+- **Source:** American Nuclear Society -- ANS
+- **Published:** 2026-10-14T09:48:12+00:00
+
+## AMAZEMET & Fusion for Energy to cooperate on metal AM and advanced material joining technologies for fusion energy applications - TCT Magazine
+
+- **URL:** https://news.google.com/rss/articles/CBMi6gFBVV95cUxPdEZ2dFE4eWF4TjdMVzgtalZIWlR5LUw0Y2NFRUJqbm1teE1oWkRlOXV4dURjV1NPUy0taU83X2pvc1BLUlM0YkF3VEhPdEloeE94SGxXdW9pY0JYVHZEWDc4dk5tOFNQSm45U0hnSUVibFRZX0pBTl8wYW9Hczdwei1RNlRzM0JsOEI1SV9NSWdkUklSb3ZNRE1WTl9TSXZWLXVURHdMYUJYZWFFR0g0QkRzazQ0N2RMQmZCeS1UN0lGUnM3MHFiRTVjd0s0ZDltbXp4OFVSN1ZpZ1F1MzMwLUdPcTNXb0syTGc?oc=5
+- **Source:** TCT Magazine
+- **Published:** 2026-10-14T09:47:16+00:00
 
 ## Temasek Trust, World Bank Group tie up to advance initiatives in climate and energy - The Business Times
 
@@ -249,57 +303,3 @@ _Last updated: 2026-10-14T09:20:28.429867+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMifkFVX3lxTE4tSmdWMnJsc3E0dXJBTTFGMTBUX19YZHVETUtvMzRQMmlpT05DM0MyMFlBZVJPWUl0RjFhNTdteFdyc1hZY0pIUHFCSlowbFZRUmdLUzlmYTQ3YWd6OThSNjBwdnd4VmZPa1k2bno1N0taOWNSTHlsaHREM0tXZw?oc=5
 - **Source:** Tri-Cities Area Journal of Business
 - **Published:** 2026-10-13T13:00:00+00:00
-
-## Creating the Technology of the Future: Quantum Chemistry Unlocks New Possibilities - Newswise
-
-- **URL:** https://news.google.com/rss/articles/CBMi0gFBVV95cUxNVXB1aGNQYWpVYXlVWll0Y05CT3JYMGd1QnN2ZFRDazU3OXR6REJkODBJMWpRaU1lMGdockVHS2gzUnFYbjVITjI5ZEhqcVM1U1RJRUc5NDBBRHRfdWhqbWpidWVIanZjZTBjOElXX0ZhRFBoWk84emhoX1Z5WnJqbWM3RVFrZ09adEJLSFFZenpwRlJ5SVg2eHVTaEcyR1BtLWNlaGN4Ukhjc3dfSUxlM2NFYUMwSG5EMFhlNVhWd3E4M2JkeVFjcVlwRjI4dzJ4V3fSAdIBQVVfeXFMTVVwdWhjUGFqVWF5VVpZdGNOQk9yWDBndUJzdmRUQ2s1Nzl0ekRCZDgwSTFqUWlNZTBnaHJFR0toM1JxWG41SE4yOWRIanFTNVNUSUVHOTQwQUR0X3Voam1qYnVlSGp2Y2UwYzhJV19GYURQaFpPOHpoaF9WeVpyam1jN0VRa2dPWnRCS0hRWXp6cEZSeUlYNnh1U2hHMkdQbS1jZWhjeFJIY3N3X0lMZTNjRWFDMEhuRDBYZTVYVndxODNiZHlRY3FZcEYyOHcyeFd3?oc=5
-- **Source:** Newswise
-- **Published:** 2026-10-13T12:45:00+00:00
-
-## Upgraded electrical equipment is set up for American Fusion's next fusion tests - Stock Titan
-
-- **URL:** https://news.google.com/rss/articles/CBMitwFBVV95cUxNYVdnNUFoRnZ6bGVicWsxYXQxczJJXzRadnRWaFY3T0JPeHpFZ0VpUWxhQnFyZUdqX3c4Yk41c1VvLWY1NWJMYkRvWWt2X0p1NS1pUUhnMkxIdVJmbjJSdDRNWTN2a29KYVpRMm9lSGxOTS1mbmM3bl9fQjNnX2h1WjVSVktNQkV4UU5uNkRkLU5SYmFXZllvaEhiYVBQUHhqNUZhcE04NDRLbE5pQTBZTC1HTjBETkU?oc=5
-- **Source:** Stock Titan
-- **Published:** 2026-10-13T12:30:00+00:00
-
-## Zlatan – Alpha & Omega Ft Bhadboi OML - TrendyHipHop
-
-- **URL:** https://news.google.com/rss/articles/CBMiekFVX3lxTFBZQk1oSThQODczYWFMQkVMQlJGcF9NNFEwSHBHRGlacXhDOTdzNUVpQVRLRWFVV1BEVEEtWUZpOE11TGJTY1pyaVItd3ZrbkF0ZG9LOEE4NDVjTGhHSlJuSHoxUHphNDhKLWU3RzFHS2tfT0VrOC1HVDdn?oc=5
-- **Source:** TrendyHipHop
-- **Published:** 2026-10-13T11:53:11+00:00
-
-## Guwahati Beats to the Rhythm of Navratri: Mega Garba and Dandiya Nights Set to Illuminate the City - The Sentinel - of this Land, for its People
-
-- **URL:** https://news.google.com/rss/articles/CBMi8gFBVV95cUxQdENNMDhMT2ZFenUtZkhZamxnU2lrR0tSZ1Zfb2xXaEFQeWp6UmhoZkhMLS12NUQwUWhRZEV1OFozTUZmSG1hX0JLQU5qNjhFN3R5eWpBU0V0c2lRWFZ6NFhmTW9KQ3FLRDRDSlpDSzZDb3JPNW5nSlQ4emN5S2xrS05tUERMVTk4bFBpLUdQRE9pVGYxNXlSNlpVUjBERlU4N3FFN1Bab2NNMzJIZGpZTmFTNGY5OHpfeGhudTZNOEQxaGtDVFFPVS0wc0VZNUNXNnpnRzd1enpRQmdOUEhMaldURzJ4cVJiU3pJWnd0SVFsQdIB_wFBVV95cUxObGM4cGRqYnhDUFlQNGpWWlpwNkR6aDJ3MGxOUklObTkyRVBjeTFpeEgyaDZrRTRVcnR2VnJGVTB1bGFIcjQ0UzNvNWVjaEIwQVg4MnBFMTJFbmpIOHB1bnNyQXprOGk0OGZ2ckZOYWFVb3JncHhVdm9SLWpCYzNKNlBlaVc3Y05ONGJmWmRVcjVLX05KQV9xV3F1ZlNUWVluYVdncnlNdHM4cVp5TGRwa2g0SkVYT1g3cnhPMHIzSFpQYndPTS1YWE43VlZ5Yk5PY3JuVWZhRUhVdS1aWkVIcXhSbTUzOXNMQm9zU1FZOUxDRF91YklUTG0yTEkzaDA?oc=5
-- **Source:** The Sentinel - of this Land, for its People
-- **Published:** 2026-10-13T11:50:16+00:00
-
-## Unlike the crammed Concorde, this hydrogen powered supersonic jet concept will zoom from New York to London in two hours while pampering passengers in floor-to-ceiling first-class suites that double as private bedrooms with massive beds - Luxurylaunches
-
-- **URL:** https://news.google.com/rss/articles/CBMicEFVX3lxTE9XQUVmWkxzc2F6c1lZdUhubGR0aVFJbTFaWVFEWjk0ZGZraXBSamllZFlvYUkteG9IOGZRUndUenVnWjhKN2pzRWo4OWlEbFZyS1hTVlFtdFdDN3FXQm90LW1SY0dXSWZEazNXTnhveGY?oc=5
-- **Source:** Luxurylaunches
-- **Published:** 2026-10-13T11:48:27+00:00
-
-## ESG News Week In Review: 16 September – 30 September - ESG News
-
-- **URL:** https://news.google.com/rss/articles/CBMiekFVX3lxTE5XRnRHVzVJaE42eExFVTdSM2VhYlBCUHFLWnc0U0M3X2pwcXN4ekdVa2JYelhqX1JpNElKVTZNY0x5clBTLVFKeGJOdTc0dFhIWW5aQkswNHd5b3dydzJ4SzMyYXpUaG96aV9USEtwUnVmZVZYZExPQ1Nn?oc=5
-- **Source:** ESG News
-- **Published:** 2026-10-13T11:44:09+00:00
-
-## US identifies 8 priority applications for fault-tolerant quantum computers - Innovation News Network
-
-- **URL:** https://news.google.com/rss/articles/CBMipwFBVV95cUxNZ2k0WFQwU0hraTlqZ0FhaDRxY2pDeFZXc09qT293LWo3S2dqZmc3Nm01c1NmWWZxaHl4NzBSaHBYWHRiWHNjNzJ0bVJrYTdEWkFGSHctVVJINGFUdmoyMGxGZkp1LUU5SzhfbjZWYnBwbGk2R2JILWh2TDUwQnFWSFBiMFgwUU9rcS1zUVRqOXY0bUtfMEstTUVHUlU5blVxQ3Fhbk41TQ?oc=5
-- **Source:** Innovation News Network
-- **Published:** 2026-10-13T08:59:29+00:00
-
-## Fusion CX IPO Recommendation: Apply or Avoid? - IPO Watch
-
-- **URL:** https://news.google.com/rss/articles/CBMiXkFVX3lxTE9rVkt2SmIwWnplaGVEOXlpbDVFSlJOS1I0blMwOGUzcWtpVnVhSDI2TkVRNWZ3aGpnVWo1b1d6TU4tWlE4RWItUGx2OGJyYi1JM1g4Yk5vRHlQc3FOaFE?oc=5
-- **Source:** IPO Watch
-- **Published:** 2026-10-13T08:42:39+00:00
-
-## What additive manufacturing engineers should know about X-ray CT - TCT Magazine
-
-- **URL:** https://news.google.com/rss/articles/CBMimAFBVV95cUxQRkR2cm5kRGoyUjVIcFlfT0dsTWNOdEE5QlhjYVZldVRfT0E1YXg3TkphODBUaE1rMndObF9naTc5NUJOMGkxRDZZQ3UxN2hjLU90V3hVLW5zSXYxY3E4NkRRd3ZMVE54Z1RuanVFVFhJTm0tVmlPRXluTXl0ZjlqSVlvcHdGUnBQXzdsYVp2cXpXTjFQNC1oeQ?oc=5
-- **Source:** TCT Magazine
-- **Published:** 2026-10-13T08:27:16+00:00

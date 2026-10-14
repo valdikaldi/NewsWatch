@@ -1,8 +1,62 @@
 # NewsWatch — Apple News
 
-_Last updated: 2026-10-14T09:20:24.392420+00:00 · 50 articles_
+_Last updated: 2026-10-14T14:55:04.751360+00:00 · 50 articles_
 
 ---
+
+## Apple asks US court to overturn landmark $5.7 billion patent verdict - Reuters
+
+- **URL:** https://news.google.com/rss/articles/CBMitwFBVV95cUxQQzZYX0tnTFJnRGN5VjlLT1lVWVM4TDQ1Nzl1aU4tcFd2eTdPTVA5bWlZUHowYnBFcEJnOWVSRDVyR2RMMElDdGlaOWg4THhmYVlTUDdjbnR5SGEzNVhycTNpYkRNeWlPZlE4eFdHWnhDY09wYWEyOGFRU0l2VFJPeC12cHRhYllBcDVNZzJfN3M1Z0drNkNUT1UyekZHRzRDZUVmTnFESnpYVnU4aWdLN0NGS3hWQTA?oc=5
+- **Source:** Reuters
+- **Published:** 2026-10-14T14:32:38+00:00
+
+## Deepwater Asset Management Says Siri Subscriptions Could Hand Apple (NASDAQ: AAPL) A $24 Billion Annual Revenue Stream - Foreign Policy Journal
+
+- **URL:** https://news.google.com/rss/articles/CBMi9gFBVV95cUxPN1U3bThVSnFuU1hpeWhMbzdQeXNMMXprWk9DcFJKTmJJLS1HaUxqc0NieXJQN25yM04tUkdycHNOQnZ4bldXWEFHam1sQk92UkNUNHdKZHdKOTZ4Um9FSE5JYUJkMFFxXzNOeWVIZWNLVkVfRHdlaldEdzBQM1N0MXlPel94OE9xLVRUbjZFRGF1VHhnY0NGdGg1ZkpGdWxpS01LbklfUUpyZjhxRFBsLVd1WlE4MDVGLVM2MEhBWllWS3ZvdGNYUk9qRFdwZzdBaklEVklFX1JUZ1dpSWthdHhBRTNiY2U3dG9QNG9KeUhzcDNoRXc?oc=5
+- **Source:** Foreign Policy Journal
+- **Published:** 2026-10-14T13:44:02+00:00
+
+## Just when you thought Apple was done, it pushes beyond the smartphone | 2026-10-14 | Investing News - Stockhouse
+
+- **URL:** https://news.google.com/rss/articles/CBMixAFBVV95cUxQQjZNOENJbkd3WTFoR0tnZ24xdDRjc3h1cmV2YThvcndqd1FrYkdLLVRoQ0RSRE5LdUNESWFja0NGWXpSNjdqVFJULXMyY1FMREd0c2R2bkIzOGx1TXJmcHFIcWd2NFpSTGFJOUlUaW4td1JJQl80bW1nTUs0MWtWOUgzTGJpNTF4YWtYTG4tY3FmWEhGMnhNTWxpLTY3cnhUdEpRZklGUDN5WEtwZllteEZlcWNqVkxKUG51V1UxR1dCY3pn?oc=5
+- **Source:** Stockhouse
+- **Published:** 2026-10-14T12:58:19+00:00
+
+## How to Buy Apple Stock in Malaysia - Moomoo
+
+- **URL:** https://news.google.com/rss/articles/CBMidEFVX3lxTFBaVHktd0FueFU0a2JLaEx5bnJBaUFzVVFENnJMS2c5N2kweXIycGJpTGNiYTZyc1JfQmlTWEw5UTE5X2Q1VVVONjA2UDZDTFZwOW9aZWtPLVpyQzFOTzM5WkVjdU1BejJ6OHAyUFRfVVd2eUN5?oc=5
+- **Source:** Moomoo
+- **Published:** 2026-10-14T12:24:31+00:00
+
+## AAPL Stock Pulls Back From All-Time Highs: Gene Munster Says Apple Is Moving Faster on Hardware But Still - Benzinga
+
+- **URL:** https://news.google.com/rss/articles/CBMioAJBVV95cUxQY0VsZmRYV2Ryc1ZXUngxLURMWEVsQS05eldVSTBBc2o0REVvd3ZNMjNDRV9Lci1SclU2SFRSZkE0cHltRjJZLWhET3Q4Qk92Z1ZaeFF6MVZkYW14dUFZX0xISHRiMUp1TDR2aXQ5dWQtWEl4a3lfLTk4OUdaUmpJUVJSTHRTcWpsOUlzcncwazNTTjNxWTJIdlptWDIzaDJrUmRvYThIdGFsTzY5NnFncVQzdVJ4RVdzWU9ZeVBPTnlDUXBzZ1BsOUdtZTNGQ3dldEhvRVNoODJhdEtxbkMyRlpnTUFOWEIxeGF2T0pWZVJKeWg5amI4WVFXWTdKckpvYVBoYWd1XzR0OUNoVlpWWVRBQnlCMzB1dTkxd3N3UWw?oc=5
+- **Source:** Benzinga
+- **Published:** 2026-10-14T11:29:48+00:00
+
+## Apple, OpenAI Head to Court in High-Stakes AI Trade Secret Fight - Bloomberg Law News
+
+- **URL:** https://news.google.com/rss/articles/CBMiuAFBVV95cUxNaFlKNXZiSEEyd2U2N3gwZnBMNmxNcGZCSEV3UzhKQUNnYUFqYUFrS3VFUlB1UWlvLW5JTHhPMFBTeVZsMXp6VTFzNmdUSTJUai1jaXp3RE1pTjBoUTBTTHU1ajVoN3Y2Z2xmMmJ5Zkt1SXB0bkVuZU1MWEpaS2U5VUFfRDhES2I5clFvVWczRHJ0X1puanRCZEJhTk94c0hDYm01YWJITmxCRVY4V0QwSnIycjkzVURx?oc=5
+- **Source:** Bloomberg Law News
+- **Published:** 2026-10-14T10:30:00+00:00
+
+## Apple, Nvidia and Microsoft among mega cap tech stocks with A+ profitability grades (VGT:NYSEARCA) - Seeking Alpha
+
+- **URL:** https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMTFWWDRjdHpCVTY0NVQwVE5PT1Z4NDRveTB1WUp3eU9KR0lhLVh2QmJQaHc1QVdnZ3A0d3VqSTY4S1hCam4zelZOUkxIck1yYXh6NFFqOG9XWGlXZmN4Sy1Mbk94VXZSb1NvcTlNd01ZcDQ5eEcwRE9ZUlNoNldSRXNkUkhPSlNSVW15TEF5d1dyb2xqV1d4c2N4ejljd3IyNHZLbUd1Z2V1RWNaWGMxeWdaYlV5UDd2a2JF?oc=5
+- **Source:** Seeking Alpha
+- **Published:** 2026-10-14T10:06:53+00:00
+
+## Apple, Nvidia and Microsoft among mega cap tech stocks with A+ profitability grades - TradingView
+
+- **URL:** https://news.google.com/rss/articles/CBMi3AFBVV95cUxPWWg1RF90dzF4WHAyTHdUb0YzMkM0QXNZZFJ1RF9Ddkx2cVVKM25LbWdwV1MzNVF6bmNneW9rZmdNWG9NcUpfLTV3S0F3UEpWUDBDcUs1YjBFQUlid1FjRW9JWk92R1NaVWgxc1JTYkI2aDgxejA1b2FqTE1tTGxNUmZDNTZzZ05Pc3NEODV0b29XSE81Y0gzY3dwOXR0TW1ZbTBIRnFsZG9BazFSaEl4WS1OdGxJdk1EbS03R25reWF3SHBXQjhYamJTbHFXeDA4WVVPa25XaFgyWVJY?oc=5
+- **Source:** TradingView
+- **Published:** 2026-10-14T10:06:53+00:00
+
+## JPMorgan raised target for Apple stock to USD 360.00 - ad-hoc-news.de
+
+- **URL:** https://news.google.com/rss/articles/CBMitgFBVV95cUxPMTdnWmxPQllSSktHekhHRDE4NGxCN0haMDY1Z3BveXRveVJENUZ2TTdjd3FzQXdmeHZ4M0dvYi1yZ0NDRlUxVzRlbldsZXdLT3ptcXV2SS03VlNlWnh1LTRLbGxKWGRMcnVMdWpqczREV01HVllXUk9IQW9sRGJiMEk3UEZ5cTh1WmlwV0xOanRpVEtneTh4VmRQRzhKcnNOeEZOd2Nka0tIR3ZsOUFqV2dSejA5UQ?oc=5
+- **Source:** ad-hoc-news.de
+- **Published:** 2026-10-14T10:01:47+00:00
 
 ## Apple Inc. $AAPL Shares Sold by Private Client Services LLC - MarketBeat
 
@@ -249,57 +303,3 @@ _Last updated: 2026-10-14T09:20:24.392420+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMitAFBVV95cUxPYlR2V0FJT1JHOU9GakloamhJLWVIM1VxR2J5YTJQSGVFS0lzeWNpa0t0Z19YRVpYYnZEX3hiLXVYMFpYTG1qOGItUnlfYmlmUDZsNEJHQW5qNDZDZzFsdVJESmNfQ3hENFhLYUFEOFUta0paRGpLOVYtSlpTZlg3QTdJMnR3ZkVLX3ZMdTJ3RE85anoxaG9ERWlkb2swTDJ4ZFFDMWpGNk1ubjF6ZUYzNTQyRnM?oc=5
 - **Source:** TradingView
 - **Published:** 2026-10-13T18:03:54+00:00
-
-## Apple just announced a new gadget that could be key to its AI push - WJRT ABC12
-
-- **URL:** https://news.google.com/rss/articles/CBMi5wFBVV95cUxNYjNVc2N2bDI3WVdsOGFqTi1kZkl5WWVyZ01kVG4tYWhxR2JUQ1JIUndJdzlZX3VXa0dmWmhpY0Y4RWczMmRFejY2VGtYMGcwX3lWNVdOa2Z1NmtkaWlaVlNiYkl2T043QW01N2Y3dGxOUGRsUkhzTzJWQldhUGkxU0ZLc1VuN1JMS01sV3pKT0hWNjVOd2hfcGhaLXZxUjlsQ2VZYkpYZmFpNzgzcGxnbnY0eEZzN21pYzI2cXNkQV9DMHhwNk4yVTlCV0pXYjZ5X1VGVS1JYkoxMTgwcWRPTTRMdTFaMk0?oc=5
-- **Source:** WJRT ABC12
-- **Published:** 2026-10-13T16:51:39+00:00
-
-## Apple unveils US$299 HomeView Hub as part of new smart home push - The Edge Malaysia
-
-- **URL:** https://news.google.com/rss/articles/CBMiUEFVX3lxTE1yeGZMNGZqRGtmQnpPWmtRV21sbThIcXZodFgzdlJXU0xaUXVxdkM4OFpPYVVpSFdoZVRSeUdhblNtdmxBMERYU2NDN2ZacS1r?oc=5
-- **Source:** The Edge Malaysia
-- **Published:** 2026-10-13T16:48:17+00:00
-
-## Apple Inc: Apple Homeview Is Not Available fo - Moomoo
-
-- **URL:** https://news.google.com/rss/articles/CBMinwFBVV95cUxNeF9JTzdVcFRYYi0xQmJpUm5OaVhRVHNmQk8yaG9oTUVGUkRfSFNxWEdEZkNjdURMY2RhbXZvZUtQanBWY1NCQlVmX2lrT1U0bFY2Z1VPZ2U0bnR2cko0VHo2TjRlSV9pbWlqbjVHcGdXWnpZak14ZmkzQkFFWjR0Tl9SVzhFbWVTMTNZcV8wV2txLUgwZzltR3hTTFBrR0k?oc=5
-- **Source:** Moomoo
-- **Published:** 2026-10-13T15:03:32+00:00
-
-## Google, Amazon and Apple Lead AI Visibility Index - Apple (NASDAQ:AAPL), Amazon.com (NASDAQ:AMZN), Alphab - Benzinga
-
-- **URL:** https://news.google.com/rss/articles/CBMinwFBVV95cUxObzJVU25HaWpQaG5jWXZEU2lZQzBmSDhmTFBBeXk5Sld0SVVKcUYzbGQtS2RhS3c0T2ZDcEs1LV9fa1l5Ul9BNjBlV2F2eDNsUGVVdmNQd3FYMlBjUmNJaUZXVENkc3BzM0wtUnh4c1dvSHZqRXQ1cEIyMTI5RkpYZ0VDY1lPOXg0MmhrQTZwcEF0MXRlaUNhR055bVJ0VVE?oc=5
-- **Source:** Benzinga
-- **Published:** 2026-10-13T15:00:14+00:00
-
-## Apple Homeview, Apple TV 4K, Apple HomePod mini 2 unveiled: Price, features, preorder and launch dates, al - The Economic Times
-
-- **URL:** https://news.google.com/rss/articles/CBMisgJBVV95cUxQNDVzd0hUODlfZXI3Y2w2YWszZjE4Z0lLbl9yYlJhbzBLY0NlQ19JQ2RFVUFMT3JZTlFnNHAxOUxIUTNyWjRUdWgyeFNicWxvNW14dV9mXzd5MlVjaXd4ZnFlR1B4X1F1MHFRWnlGX0FhRTFDN0tqTnRBYWNhSUhsblZXemJJT2daR3g3Q29GeXZYaXQzc2UwYnVMcEVKdGZSSWNhUUxEejI0TW1hazBzbFM0WXBqTVd0bWlBeXUtODhfdE5OZkFSekxWcXVIc3c5YkR6dHdZQVhpMThTYU9qYV9xMENSN1BwS29UOEZMUVh4UXRsR0NRdDM3VnR6QWcxY2NwaGV1THJkYTNkbnVUUXZmZkFmTjV6b1FSSmJ0Zk1jcHVaZmYyMGdwZzUydzBCTWfSAbcCQVVfeXFMT1gtTlFIOXJaUUxJOUVodTZwQ3JZQU9reFZnUzVOMENwWVhzXy1zVm1RX2JWeURyeC1vLTZGZmJlUkRCajlXcEliQVNzajlrWTJSM1BJa192Q3R1ZFhKSURORXloX0R0YnBqVUpRMWNYdmFrT2JPbjFtVmRiRURLdU9DMnQxM2RCTEc0cmZlMzlKRENFUFUzWW5ZNUdlbVJYNzV4QkMxdjdGOTJXZ0FzTEdTbWE5OGhkM3Blb2JydU9SX3VDNEh0ZTQ2R2oyNndIaUdHTU0yUl9ZMUlEZ2hrbE9VZ19ES1d5OFkwZzR4VU9DVFpVX2ExZjROUDE1c3dPYXp3YjZMYzJFbGt3dEZaVkdfbFJnTVlXSkMxcjlZRm14R0N2UVFJWkpBSHJ3N0R4Skc0TmJGR0k?oc=5
-- **Source:** The Economic Times
-- **Published:** 2026-10-13T14:54:37+00:00
-
-## JPMorgan raises target for Apple stock to USD 360.00 - ad-hoc-news.de
-
-- **URL:** https://news.google.com/rss/articles/CBMitgFBVV95cUxPNGFEN2E2RDRBYW1mc3lUY2N0azREXzJkVXM5NzZ1Wm1nUEFLRXotaHpVYW5waHcxX0o0X0VFaVFNQ2FPVXhYWk1hdWticUtqdmtYOHk4Z2VQcTBqaTVGUnM5U05hMkdRYUxJYzRXS0FqMjNuQmNKaWVYcnZjcW1CN19abkVJRHVCNVlkcmROcW55TkNFNTJ2UW0xU05fa3FuN2RrNnM2emh5cEN5WHB4SjJMSURlQQ?oc=5
-- **Source:** ad-hoc-news.de
-- **Published:** 2026-10-13T14:26:07+00:00
-
-## Apple's Stretched Valuation Is Getting Scary - Buyers Are Ignoring Simple Math (NASDAQ:AAPL) - Seeking Alpha
-
-- **URL:** https://news.google.com/rss/articles/CBMitgFBVV95cUxPZS1qVXBrbW1tRFJ1eW9KNWJYTUlhQUlaVGpMVEpLRVNRNklzUGJ6T25KSlNTVGZDRl9VWTJPR2ZCdDJ0dXlJc2syMUJfeTdoWGExYjdzLTdUQzZDMUhvOVg5X1hJNUp4TG5iTmlzMUVIbUFrY1c3T1FOQVVoV29DcFZ2ZFBBcTU5NHZBN19fT0FBbGFIRVJHN0hzNDZVTWpwOHlPSG1Mb3k0VEFERzZJbHVtNTg4Zw?oc=5
-- **Source:** Seeking Alpha
-- **Published:** 2026-10-13T14:20:31+00:00
-
-## Apple Stock Rises to New 52-Week High: What's Happening? - Benzinga
-
-- **URL:** https://news.google.com/rss/articles/CBMitAFBVV95cUxQX0tpVnQ5Z2J1c2l0TDVVdVExc2J5QmdfX1dyQmJoZ0V0RFB2bDY4RlBDM3hqSlN1QnhITVZsbDd6Zk9iWE83ZGlYYmhZVkpfNTZPSk5KLUNoeGduUEk1dkxEZFUxdFd4UUFwWUxTNzliSVlOZWJYeHByR3FHdFR5bU9DVWo4OUxUQ1ItWWdPUUVvbUZyTFJQdXVrMm1QNGQtSndnMW5aVWctUWJob29meXRJYXA?oc=5
-- **Source:** Benzinga
-- **Published:** 2026-10-13T14:08:39+00:00
-
-## Apple brings it home with new HomeView and Apple TV in time for holidays - Seeking Alpha
-
-- **URL:** https://news.google.com/rss/articles/CBMirwFBVV95cUxOSTFpV1RvY1F5aUowNV9YaGxvUkEwNVdnWjkzSGVUWlhVYTdSejZveEVxV1RieUc5bDFvZWI5aFh3WnRKeG5tbVNOMU4xWFFWak4tYUZoRGlicEl3eC1qLUtsWUV4RnpWaHAtNW1pZDZJZkQzWTZnUDFnbHFDNlpRMUE0UEsydC1RUm9yckdIWmlsdGZqb2ptcXVkUGZSNGlpdE1zbHI4MklPWW1vQVlR?oc=5
-- **Source:** Seeking Alpha
-- **Published:** 2026-10-13T13:38:48+00:00
