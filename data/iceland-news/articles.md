@@ -1,8 +1,26 @@
 # NewsWatch — Iceland News
 
-_Last updated: 2026-10-14T14:55:05.741547+00:00 · 50 articles_
+_Last updated: 2026-10-14T20:01:14.453838+00:00 · 50 articles_
 
 ---
+
+## Euro Truck Simulator 2 Reveals Iceland DLC Gameplay - Simulation Daily
+
+- **URL:** https://news.google.com/rss/articles/CBMifkFVX3lxTE5nYTlDbmYxQmFZc00wVGJScll6WGJvVDZBalpqYXlxQk4yV2psamRkVDUxSjZrcHpEaDVqN2hwb3lZYXROWWdPZzRKd3MyNkozSmxGd3pHTWgwTTZtd2xkLVlkVTd1WDZyY3U5ajl0VFhWSFZuS3NDbkc5bjJIQQ?oc=5
+- **Source:** Simulation Daily
+- **Published:** 2026-10-14T18:13:17+00:00
+
+## Guy Palatin vs Iceland: stats, game log - BasketNews.com
+
+- **URL:** https://news.google.com/rss/articles/CBMihwFBVV95cUxPOU50V2hkcFR0eEstWjQxV2tiVXY4bldQazJ6MjVOZ0cya0xTeHJiUC1wcWtmdlRWeTlyNUZybnJvbzJGWXQzaGtVbDk3U3dSM1R5RDhlNjF2clhZWm9SRjZiYmlMVG83bl85NVhHSTJHNFpjdkJqV0xXODlKczBKRFN2X1JRQUk?oc=5
+- **Source:** BasketNews.com
+- **Published:** 2026-10-14T17:57:05+00:00
+
+## Arnar Vidarsson - Manager profile (Detailed view) - Transfermarkt
+
+- **URL:** https://news.google.com/rss/articles/CBMifkFVX3lxTFB6NWZYRWZlT19ONFVMVjhURVRwVXNJeXpjSmVPRG15alhoZ0xwMVQwNnRSSlBrZXNYZGdlanlRZWFXQ0g5eFFoZVFLbGIzRTA4bE5zU2puNFNyZW9WX0hqQkhiNnNReG5NNzMyalpuWm93eWVJN3Y3aTBlR3BXUQ?oc=5
+- **Source:** Transfermarkt
+- **Published:** 2026-10-14T15:46:15+00:00
 
 ## ArkLaTex travelers visit Glacier Lagoon and Diamond Beach in Iceland - KTBS 3
 
@@ -285,21 +303,3 @@ _Last updated: 2026-10-14T14:55:05.741547+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMipgFBVV95cUxNYUVjYjlMOWlsWXF1VXBtMTlnZEN3T2VnMlBuYkhUQVExVE1iampHUmpHZHVQQ2hZb3UtV0wzYW1uR3lPOGhManZDMkUwblJnajNzbk9ObWs0QU9WbGd3Vkl5UDRaUHh3b0xLaVJpUnU1Rkc0YkZKeVJyY2tlMExvaFJmODY1MW9sSVozREs4Nmh5Qmp0aGZidUVuN3hzeEVxaW1TRXlB?oc=5
 - **Source:** Iceland Monitor
 - **Published:** 2026-10-13T10:40:00+00:00
-
-## Iceland capelin packers face planning uncertainty after 46% cut in quota recommendation - Undercurrent News
-
-- **URL:** https://news.google.com/rss/articles/CBMiywFBVV95cUxOWHhGbVdWRzJXTzRiVGMwSGZIeUx1bWhrdUNzbnpMcVBWN0MxMU5STmJGU056SjJHR2h0SmJrM1lTUVhXaHNQTEpVVUwtUnlqOU1oTEg3cXVmelpFSWdWUXREZ3FEaDhneU93aXhTWGVRM3FHb0Vla3dYaEE1RWpRQlZkQTlfc1l0Rldlc0RzdGtoTi1nZW5ELV9VWi1tNFZQZ2UtdWNrX3VENFJDbUpPSmNWWHA2XzhXNVo3RHIxdHZ4aXE1MnR5UjJFNA?oc=5
-- **Source:** Undercurrent News
-- **Published:** 2026-10-13T10:06:00+00:00
-
-## UN Human Rights Chief Holds Talks With Icelandic Leaders - Iceland Review
-
-- **URL:** https://news.google.com/rss/articles/CBMikAFBVV95cUxQUDgtamxSVTNVX0k0TFN0QUR5dDlsOWZBc1dNQ0wtRjdBaVE0b2h4eU5DUXJYWi1JX1ZxN05BVm9mN3JuaUtPc3V1N2g2dHJkNGxxSUVJZ3g1UVROemRfeXZPRC1tYzV0bkRUNExzMnpsdG1rdU84RTBNUmJWNVZ3M2JySldwMTlCTDdnSjdlYUI?oc=5
-- **Source:** Iceland Review
-- **Published:** 2026-10-13T10:00:36+00:00
-
-## Icelandic Black Metal Band MANNVEIRA Stream New Song – “Bölvunin” - Metalheads Forever Magazine
-
-- **URL:** https://news.google.com/rss/articles/CBMiigFBVV95cUxQY3NIWEIxZHNRX09sTy1QMHU3ZDRid1B3SkxrdDh2dlR1QlF4R0hseUtXa2Fkang2SG8yYlRCdWoxQXRZekN4T2ZVc3kzUXJDNGxVaDJWNkRHQzZWT2ZfVG1McXVxdmhrcmY3OXVGaFBkMC1WMUpwamNPN0dobzlSbnNqTl9IUmozckE?oc=5
-- **Source:** Metalheads Forever Magazine
-- **Published:** 2026-10-13T09:36:09+00:00

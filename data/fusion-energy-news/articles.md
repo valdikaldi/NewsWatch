@@ -1,8 +1,44 @@
 # NewsWatch — fusion energy News
 
-_Last updated: 2026-10-14T14:55:06.265636+00:00 · 50 articles_
+_Last updated: 2026-10-14T20:01:14.978894+00:00 · 50 articles_
 
 ---
+
+## Will Fusion Tape Deal Change Fujikura's (TSE:5803) Narrative - Simply Wall Street
+
+- **URL:** https://news.google.com/rss/articles/CBMizAFBVV95cUxPMDR2VUUxMnpkQktUQldaLVVIcnJpTmV6cnNsT0JBRWdyMVBpX2dxMHg5emNzRXBYSVN4QW1nS0VZLXhva1hjYzE4M0FsVzJMbnpiUFpjQ3hoSmhTc1AwbWN2cVhHUnloNUpXUmtKNmI4cHRGZnRidGZWWFJNQVRaVWdfZ25NVHYyM0RkWElTT25BSzgwN1dOZTg5UE94Q1Q3YlpiN3JVYW85MlpraWhoWFJHSFpaankzaDVUOXk1cTM4RVYtQ0JVTldKYkrSAdIBQVVfeXFMT1dTMWpEMnpRRmFWT3N0RWg2ZV9XUTdjZTctSU5MellVMFBpTktNeGVneHhFSDQwU0lRVURWaEg3NlpwSGplUGhySkhydmF1eFpjSDBQeUsxcEo4ZFBKRms4N0JjZ1Z2dklScDBKUG15VEM2cmVqTko2SThoVjRjaVNRTkhiaVdyb1VaaXQ5blltWVZaY0NjY3FtWXBjandldVkycnhob2F1dnBYQ3REYjZqRThUUThOZzJOTElHM2xQN1l2Z2pLLVlSVlhkSVo0Y0F3?oc=5
+- **Source:** Simply Wall Street
+- **Published:** 2026-10-14T19:50:56+00:00
+
+## Can Enphase Energy (ENPH) Turn India’s Grid Outage Challenge Into a Durable Residential Solar Edge? - Yahoo Finance
+
+- **URL:** https://news.google.com/rss/articles/CBMikAFBVV95cUxPanc1SXBOMnQ4OHlMOXFzc0hESDRkQ3pQNFlvbENZbmRlYnRGb3QxOUtIZVhHMVJTUkVHWnRDTmtBdm80NlE2b0hCZGZGWl9iRjIzaFNfTXktY1JwS2pQVWNaMWZVeFRUMWFSOEFkRlR1aDg1eFRPbDRMRGUxUzU3UXF6MG1Kem1oVWJ0X05tbms?oc=5
+- **Source:** Yahoo Finance
+- **Published:** 2026-10-14T19:13:06+00:00
+
+## Fusion CX IPO GMP, Grey Market Premium Today - IPO Watch
+
+- **URL:** https://news.google.com/rss/articles/CBMiakFVX3lxTE9mOEt4WmduUHJzX3dQUWViTzYwclF1M3FudE9uNkZqbTdUMFdRZi1zMGVYYmZJY0pab3hpbTI5N3g2a1FidXNNVXBjWHNqSDNoekxRbUp6Q2d1LWJRaGhFMC00Nzl3S0FYa2c?oc=5
+- **Source:** IPO Watch
+- **Published:** 2026-10-14T17:53:45+00:00
+
+## Technological security: the great comeback of industrial policy? - Polytechnique Insights
+
+- **URL:** https://news.google.com/rss/articles/CBMiwwFBVV95cUxQMnNyRHhjbG15NFRBNmNETjUwOHZnV29OVUtiV2lCZFM3TWJsa0laQlJzamVkc0k4akJKbk9MVlBOemgwaDJpSXA3dnFxOWxXSExkdW0tZGRtcGhmcGFub25PQ1BpbzBfOEZjckp3cW5YaE8waEthSzFQdFU1c2pfdnozaXRlcm5hM1pEZ21aSHE4cGN4TGZFTzVZT2V2Wi1vd05VNTB0YURROS0xbmRrMHMzWkdrWnFlRzBPcUtjUVBDaGc?oc=5
+- **Source:** Polytechnique Insights
+- **Published:** 2026-10-14T16:29:37+00:00
+
+## Freemelt is exploring 3D printing of high-melting-point metals for the defense industry - 3Druck.com
+
+- **URL:** https://news.google.com/rss/articles/CBMixwFBVV95cUxOZHZpRUJCamlHQV9Tc3JpLWpLTmVhdGstcHoxYl9VM29zZGQ5T0ZIWDdfeUdwLVRqQ2g5LXAxUWFyNUdFREh5ZzQ5bjc5N0s5YmllajNSb1ZZM2txSVBVd3RpbFU2Xzg2OGIxVkRnWnliZFllZ0pwWXV3Sk01Qk1ya0Vxa3NyaWVfUU5lM3ZTZW4tdF9pclZ0YUd6akVyWHdkeWcxaHhzQ1UzVVU2LTgzU2hLUnctN2lfQWppTXhlWFAzMm9LQXVJ?oc=5
+- **Source:** 3Druck.com
+- **Published:** 2026-10-14T16:00:53+00:00
+
+## Nuclear power returns to the spotlight - ASU News
+
+- **URL:** https://news.google.com/rss/articles/CBMijAFBVV95cUxNUGpkQWY2QXZPMW44Vm5GeGlKRXVBMFM1dEE3RFpiSFhjMzNkYTlkcU9kR3kzWHM0YWg0NTYzRVdLdkgyc2RtbWs2cjl2VzRQUW5WS3NwWXpUTWJ3Y3d6a2d6cDlkWG5QNmh4RFpYbmh4MDlYR21wVkstY0dSZVJlMVVHb1dJQzAyekFLTA?oc=5
+- **Source:** ASU News
+- **Published:** 2026-10-14T15:44:38+00:00
 
 ## Trump Media and Rumble Decline 5% as September Inflation Runs Above Forecasts; Reddit Slides 2% - 24/7 Wall St.
 
@@ -267,39 +303,3 @@ _Last updated: 2026-10-14T14:55:06.265636+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMiXEFVX3lxTFBxQmpYaDZSbnkyeTRhVTJJeXRiR3VTS0VYMFdxbXpTVkphVEprazlxWU1LcU15TGNRN0xJSU5SMGJNSGxUbkZZal9TR3hrRzdPRWZBdGFuYV9UUDB5?oc=5
 - **Source:** Voxtrendy
 - **Published:** 2026-10-13T14:39:34+00:00
-
-## American Fusion Advances Texatron Fusion Testing as Four Commercial Proposals Remain Under Negotiation - Yahoo Finance
-
-- **URL:** https://news.google.com/rss/articles/CBMingFBVV95cUxOa1dZaWNJUy1zVWp5UUJ3Q01zbVA2R1JfTWRWaEp1MktkSGNsaGtucS0zSEVRb1haZTFObXhGZW52Z2toZWY5TTNVdGtQQlNaLW04ejBNSVFHZHM3MkVhWFJpU05ON3FoNWRxNkJkNEpkMDNpdG9YXzVwek1ZbGZudk9GekVhc0FwNnZHUGI5bjlxTVV0OWVGb3JfV0JCQQ?oc=5
-- **Source:** Yahoo Finance
-- **Published:** 2026-10-13T14:09:11+00:00
-
-## Italy’s 2024 G7 Presidency - Ministero dell'Ambiente e della Sicurezza energetica
-
-- **URL:** https://news.google.com/rss/articles/CBMid0FVX3lxTE4tTzkyeUxrY1JMOTlMcnFwVldsMXR5MmxKdHhXY3ZKTEdXQnk2WmFMVFhXNUlNZEpwV0JTVlo1Qno0Z1RqbEYwQmwwY2pmdjlKOGloN2MxdmwzbnVqdlVZUHF6ZjZfc25DTU1xcjltNzRxVnQ5dEw0?oc=5
-- **Source:** Ministero dell'Ambiente e della Sicurezza energetica
-- **Published:** 2026-10-13T14:03:24+00:00
-
-## EcoFlow Debuts TITAN Series, Bringing Whole-Home Energy Security Within Reach of Everyday Families - PR Newswire
-
-- **URL:** https://news.google.com/rss/articles/CBMi6AFBVV95cUxObUFyLXdVYzVreGM3bmhIT19pU3hja29YUWVxTUlfeTRMSThzaDV6Y1RIRHRSdkdVd2l3X1ltRHh6dmljNmFiblI0ejI2VTVheW1wVEVhZlJCSDlDajZHZEh5YjB4dzRRcHNzenlwbE1kWHdLNnU3Q1pKeTVoUjJETWk4V0Y4TmZ2M0s3eVRtOVZpY1RpdVdUSnMtcVVzcDI3N1A2MC1wZnV1UEFrSHBXM3lHaUdsc200V1BqMTE5RS1TNlpNdXg1MS1DWGVaS1FRSkNHa25mQjI5UUIwSnpXR19seGJ3Nk90?oc=5
-- **Source:** PR Newswire
-- **Published:** 2026-10-13T14:00:00+00:00
-
-## American Energy Dominance Is Real, but Monopoly Overstates the Case - Discovery Alert
-
-- **URL:** https://news.google.com/rss/articles/CBMikAFBVV95cUxOWkR4clB6WW5tOU81eE91OWhKQzhNOUdDRG4xXzlpT3dGNVlzTWtOMEk5NVpJRVRzN3V5SWpMaWRSTVpkU0VlOGgwNnJyUl9aUXlBanQzVnJNZy1HLThpUG9nU082U1ZDM0VDbnNPRlFBLThfN29uaVFSWkZLODVOazE4NEtZanR4cUs3aEJlYXM?oc=5
-- **Source:** Discovery Alert
-- **Published:** 2026-10-13T13:22:24+00:00
-
-## ‘Dissent Is a Right, Spreading Anarchy Is Not’: Rajnath Singh Emphasizes Youth Responsibility - Newstrack English
-
-- **URL:** https://news.google.com/rss/articles/CBMiugFBVV95cUxPTXQwRmZ3dlFJQ3N0X3IwMWlZQ3RFcFdhZHVUZE1UMXYzcFdaVWNoM2loTWdhcGZNdjJoSFpmeDdMODhqbmdwdGljZDdKS2dOa2N2aHdjLTZYYXNuZEF6REZEQXF6cnhrcnRPT2NRdGZVVVFDTURaQXRRbjRtYVRsNmx5d29zR21RRTB0WWpMdjBVUmJzeDd1bGxpTWgteDBRbklTU1FySnVOQ1l4eXBnU2RYREltYTRUdEHSAb8BQVVfeXFMTTNjTlhOVWN1bVpVRXN6QXBWTTFIc1U3UE9GemViTTJ0dEpWRHBrcDhvS0VBNmVLZm03cG1pZ2pDNEhHNDdLMnhfOWJubVNPaGVTaFVDNGNfYUVLZ212OE1nM3h0eE9RY3FrRUNWVUJxaGhmd0xHTFFhdlU1eWs4VEpNUjV1V2tOTlhnTEVZTjVobHM1NGx0THFDMlhnWTNIXzdzTWNnUDViVTRVMy1YLXRQbE1tSVRFMm9XeHRCRnc?oc=5
-- **Source:** Newstrack English
-- **Published:** 2026-10-13T13:01:12+00:00
-
-## Fusion startup picks Tri-Cities for advanced nuclear plant - Tri-Cities Area Journal of Business
-
-- **URL:** https://news.google.com/rss/articles/CBMifkFVX3lxTE4tSmdWMnJsc3E0dXJBTTFGMTBUX19YZHVETUtvMzRQMmlpT05DM0MyMFlBZVJPWUl0RjFhNTdteFdyc1hZY0pIUHFCSlowbFZRUmdLUzlmYTQ3YWd6OThSNjBwdnd4VmZPa1k2bno1N0taOWNSTHlsaHREM0tXZw?oc=5
-- **Source:** Tri-Cities Area Journal of Business
-- **Published:** 2026-10-13T13:00:00+00:00
