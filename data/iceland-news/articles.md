@@ -1,8 +1,74 @@
 # NewsWatch — Iceland News
 
-_Last updated: 2026-10-13T23:37:33.274275+00:00 · 50 articles_
+_Last updated: 2026-10-14T09:20:27.195413+00:00 · 50 articles_
 
 ---
+
+## Forecast worsens: More regions placed under orange weather warnings - Iceland Monitor
+
+- **URL:** https://news.google.com/rss/articles/CBMipgFBVV95cUxNNWFpdXFRcDVIOWNsbGF1Tmd3VVFXWExGMS1DdnRVUjVjamVYN2NGR2xHeGFWTTBsMGk0elo3OVFaam9WTVMwY3RlbEpkbW5JTFl1M2Nkd0c3M0dNUGg3NWNDM3hiNmlya29acW9yOTV5ZnZjZnFJdTF6ZEtvLUJOTkhWVUhSS1REN0lIUmhXaFJiR0hjVDh1dTBiZ3hHNDZzcVhOTFF3?oc=5
+- **Source:** Iceland Monitor
+- **Published:** 2026-10-14T08:00:00+00:00
+
+## Iceland shoppers 'obsessed' with new ready meal - has 89g protein - Liverpool Echo
+
+- **URL:** https://news.google.com/rss/articles/CBMinwFBVV95cUxQajRBQm1BWmhtaE9ENjVZRXNBNjgwQS14UkhIb3hTUzBqOTJiWENSZnMyNklETU4wY2owZzVkcldUcXdEclZEWVE2YjFsSTMyaXJvYzVPX2J4UEtzeGJNcTdCaXY4bzE1alpLMnJMWlhsNWk5T3FBQ0ZBQnN0THo2bEx0dG1wTGlvMmF3VVJOQy1WcjB1dk1UdzBwbm5Id2_SAZ8BQVVfeXFMUGo0QUJtQVpobWhPRDY1WUVzQTY4MEEteFJISG94U1MwajkyYlhDUmZzMjZJRE1OMGNqMGc1ZHJXVHF3RHJWRFlRNmIxbEkzMmlyb2M1T19ieFBLc3hiTXE3Qml2OG8xNWpaSzJyTFpYbDVpOU9xQUNGQUJzdEx6NmxMdHRtcExpbzJhd1VSTkMtVnIwdXZNVHcwcG5uSHdv?oc=5
+- **Source:** Liverpool Echo
+- **Published:** 2026-10-14T07:50:00+00:00
+
+## 360 Hotel – rooted in Icelandic heritage - Hotel Designs
+
+- **URL:** https://news.google.com/rss/articles/CBMihAFBVV95cUxNUjJoY2NvalJCdFBKM2M3QmlLSm91RHhHUjBWYkh5YmNSa1UtQjNRX2lOcUpYdFFfeTUzQTJ3Znk0akJQSEdKN3k5bjZUNjA0T0JvUEt4cUdkNjdWVmlacjg2TXR1Rk1Oa2ljbTFJbVRyR2dEMjltTXJzVWFlQy1GbGk5dnY?oc=5
+- **Source:** Hotel Designs
+- **Published:** 2026-10-14T07:24:58+00:00
+
+## Ring Road Closed in South Iceland as Storm Brings Orange Warnings - Iceland Review
+
+- **URL:** https://news.google.com/rss/articles/CBMikwFBVV95cUxNOHd6U3NGc3hlLWJWdFFuVThFanpxbmZGMFZtR0Nnblh3Rzg0Q1dLZDVqeU9PakoxMFJrT1l6T2E4aVNCeXdXSlo2cENFQmtLQXk2SlFzbFJrZExkSEx1Y3RjLVBHdmwxS1hFV29QVjJyLXRqZFRfbWdMamt5WUVhLWVfRmJyMWlSRnVxZGo0bG55WWc?oc=5
+- **Source:** Iceland Review
+- **Published:** 2026-10-14T07:00:00+00:00
+
+## New Iceland store opens in Alderney - Guernsey Press
+
+- **URL:** https://news.google.com/rss/articles/CBMigwFBVV95cUxOZTE1TUZOaTNXM1JQT3dMdk1hN2NDQWhVdmhoTW01aG5wUHRWQXhucE83ajBIeG5mNWdhVFpkZjc1RGJROEJERWJ3TWZuaWpUdFR3cTRpeTVxOG5GSkdIZ0dlUFUzc015MllWY0lGcVNRVnRKQi04aFlqOXp2QVpUR3lyQQ?oc=5
+- **Source:** Guernsey Press
+- **Published:** 2026-10-14T05:21:23+00:00
+
+## Iceland may stop whaling - WAMC
+
+- **URL:** https://news.google.com/rss/articles/CBMifEFVX3lxTFAtbTFwOFN6MzItejg3YkJhd1ZwblI4c3dRUTdOX3JfQXNKWEMtOEdIbFhfb3N6ekN5bXV6aUxVaW1paVliWmpPMlc2TWV2bkpvWmdjaWRFZHh6TGc1MEYxbDRtblVydk1vMkdIb2prYzdLMHBBUWZkdUZxQTU?oc=5
+- **Source:** WAMC
+- **Published:** 2026-10-14T05:00:00+00:00
+
+## Skel bought 521,623 shares as Skel stock buyback reached 0.75% - ad-hoc-news.de
+
+- **URL:** https://news.google.com/rss/articles/CBMixwFBVV95cUxOVWFnUzlIdjVzaUYyQTM4TThUWHhERzVWV0E4RVA5X3F6YlNVV3BYbk5ybV9VRFlPTmVMOVR1TVVlSnd1c3NqV0pZOFRkT0E1TlNDem5oTnlBcmhTQ3FIaHQ3bE5lUzRKZ0w2MFBzVGdZb1hXWDZKNkFYT0lsVkhNeTlDdXJkNW1Oc2hBNUNTMDVVOG1tV3AxQTJ1SWF4dklFWHhaMENNejRCcEtBUi1mUmxNZVplTHR3dk56ZUpleHJlZjRIUm9n?oc=5
+- **Source:** ad-hoc-news.de
+- **Published:** 2026-10-14T04:09:31+00:00
+
+## Discover the film locations for Supergirl (2026), around the Cairngorms in the Scottish Highlands and in Iceland. - The Worldwide Guide To Movie Locations
+
+- **URL:** https://news.google.com/rss/articles/CBMiZkFVX3lxTE1USUEwakZRMEFZQ09IMEw1eFVfdVBtRUhDZ3dJaWhlNlUtelFfQ1B4OXN2UVhTY0V5SzJpSmNJNXB3UFVlZE1UZ3hwVmJ5ZVk3bzRkVXE3aWxkREhEQVpHWVdvMFV0Zw?oc=5
+- **Source:** The Worldwide Guide To Movie Locations
+- **Published:** 2026-10-14T04:00:51+00:00
+
+## Upprásin | arfi, Khairkan, Strákurinn fákurinn - The Reykjavík Grapevine
+
+- **URL:** https://news.google.com/rss/articles/CBMifEFVX3lxTFA4eDMwWmpTMEMxRlRMeFN0NURPREhzd2ppdURfaG5keEVTYWtROVpwRE85X0F0OWl5YnQ1ckJLbmVGaGtUb19kMnNrbE9SejhqbHYzM19kOE1EMHBCUXVzcmpTd19YNkJheTE5NktPOUtoN29MSXFrRHUyYk8?oc=5
+- **Source:** The Reykjavík Grapevine
+- **Published:** 2026-10-14T00:46:19+00:00
+
+## Portugal vs. Iceland (26 Nov, 2026) Live Score - ESPN
+
+- **URL:** https://news.google.com/rss/articles/CBMie0FVX3lxTE11Q1hfSDZNMDdfWHhaUzZDYy1UZ3NkbEZLdzdvTHBmNm4zVWJhOXduMnZhS3lRc2lhdXpnWWFLd2pMa2xiaE9STUprRTJHelE4WDdlbzEyQ1QwaXJxWlQ2SXQ4ZnRONjU1VUJkMjAxVzNyUXY0SFJzTloyZw?oc=5
+- **Source:** ESPN
+- **Published:** 2026-10-14T00:28:26+00:00
+
+## Gales and heavy rain to impact UK as yellow wind warning issued - BBC
+
+- **URL:** https://news.google.com/rss/articles/CBMiX0FVX3lxTFBFWm9wVld4aUtONHVENHB4NzlRbHdXcV9rWVA2YVpDel9Mb2o4RHVLbGg1SHdSZjRKWS1Oc3pweW16a0VKRFlSNmdYdHppZUJIMlBVUTBrbmh5Q0xIYy1z?oc=5
+- **Source:** BBC
+- **Published:** 2026-10-13T23:55:49+00:00
 
 ## Heimar bought back shares under an ISK 500 million plan: what it means for Heimar stock - ad-hoc-news.de
 
@@ -237,69 +303,3 @@ _Last updated: 2026-10-13T23:37:33.274275+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMi5wFBVV95cUxQcjZiYmw3U2VEUDd0a0h5ZGk0bENkVjZEZjNCZk9SemtValEzcGlLbWJjYVBXUFFmejg5eWRYSTI2eW9mZDlMRTZVNm85RjVvNnItM2JhWjlNQ0d6UDZUeHVscEUxRzkyNld1YkxrWmUzMkQ3OG1laE9nVk9lZnk3dXg3MlllSlZBeGJWdncxeWQ1N180SEdYN2Z3U1VVaUl4aFF0dnV4WTJ2bVlGVGtVR1RfUm83S21ZOWRkcE1VRWhzeUlobFo5X0EyWEZ0azR3aXpMVV9ReUl6YTM5U3ZkeEd1dVlmcEU?oc=5
 - **Source:** westcentralsbest.com
 - **Published:** 2026-10-12T21:00:00+00:00
-
-## Iceland Foods Charitable Foundation and Prostate Cancer UK take awareness campaign on the road - A1 Retail Magazine
-
-- **URL:** https://news.google.com/rss/articles/CBMi1wFBVV95cUxNOEdqaG5fZ1BvaUoyV2t2WnpuNDdrODVpam5jVnlfbGhhbzUzb3p1R0VXZlotQURFYmJYUi1tNU9Td1dUU0htY0JiX3Nrd3djYWgzV1AyUkN1dHRReHlYbjZFNEgwYnhvSHpKODZWZmlzWThIZkx4QXd1S3pFeG85UUxmdTZfRXVaVmNrZmJZUktLSW9ycU5iRzNoSXJiU2hScGdST1VBYTZQOGprcHBVUlV6OWdRNUZ6cnhIaTlBOWhTbnBlakk5T3BOcFUzc3ZFc0dKWHUyUQ?oc=5
-- **Source:** A1 Retail Magazine
-- **Published:** 2026-10-12T18:32:45+00:00
-
-## Mallory Swanson's return was a bright spot for the USWNT in its loss to Spain - Times Union
-
-- **URL:** https://news.google.com/rss/articles/CBMiowFBVV95cUxPQ1JlMXI1RExWUjVuLXZNcVFxNXVDXy1BNnJfNEE0cS1OMlQ5Q3BIT3ZmN0ExTFBFbUR2SmpNUkVZWkxTT1hpU0lMbWMzVXJXT3FDWndZeXBKLUhHeDBRcFBQOHRTMGFpUDVzcjRTelJHV2dYRFlrYjBHS3ZlNExucHJObHI1d0R0eUJnd1Y4blVSVWdmUzFwcXZIaVFqTzBpZk5Z?oc=5
-- **Source:** Times Union
-- **Published:** 2026-10-12T17:20:52+00:00
-
-## Why Marco Rubio Is Suddenly Paying Close Attention To Icelan - ИФЗ РАН
-
-- **URL:** https://news.google.com/rss/articles/CBMiggFBVV95cUxQcGNKejlKZE9VTDVxNlFNNnZwRzEzVjl0WmdHMEkxTW8yenB0WmNFN010NHk2MXhOUGxycHBlMlhfdUgtVWtPWm1DSVdZdFdtX2dmTGF1M3lLV19ocURnV05NSVEyclBnWTI3RktJNGFLYzBNTjR1RGVjdWVvdmJKdWln?oc=5
-- **Source:** ИФЗ РАН
-- **Published:** 2026-10-12T17:10:35+00:00
-
-## Rafræn Skilríki Casino Checks: eID, KYC and Security - shattered.io
-
-- **URL:** https://news.google.com/rss/articles/CBMicEFVX3lxTFAxWGZaY09wYldkemlnS1p0TldneWdrYkxlTTBGOUhKNm41c0Y4dVNpakxzMDdIWG9oMVQtZExsak1rLW92WU40TGpkbW1DdU5ra0JYM0ctckxwUktQRTMzUnJMQ21nRHZDN2lMeFRCWmo?oc=5
-- **Source:** shattered.io
-- **Published:** 2026-10-12T17:03:45+00:00
-
-## The Organ of Fríkirkjan in Reykjavík 100 years | Lára Bryndís Eggertsdóttir - The Reykjavík Grapevine
-
-- **URL:** https://news.google.com/rss/articles/CBMiowFBVV95cUxQaFNBa2szYVpSenN1ZC1PcDlvVTJwbUluQjJmV2NNb3NSQkt4alVZSmEwblRBaUoxcm5pcE9HLUNwNzZRSG56QU1mN2F1MF9fbXBkNHdFWHVKNUJMaktVZG1GYWZ1NUFfbDhoalY0eXpZdzdYbmZzcmc3OUlTakVpa2JhZS1ZME1waUJ6aHZNblVwRlhHVHZHZVhRTFlVb0NWSGxn?oc=5
-- **Source:** The Reykjavík Grapevine
-- **Published:** 2026-10-12T16:47:15+00:00
-
-## What to Do This Week | Pop-up Film Festival, Howie B and More Events - Iceland Review
-
-- **URL:** https://news.google.com/rss/articles/CBMiowFBVV95cUxPZWdubC1xTjRFek51UVRKcUNOY21tZVh5TDV0dXh0MjNWSDBqeTIxNzdtdjlEa1NCQ1hpcWthOS10VnR6eGtZeDdaSE1Rd3U4RkIyTm9BVU5Nc24zUVdjclFiOUJra0w2bnd3YU1VN3Z5TE03ajBjbnp4YzNjalRlTmFVUTRTOW9ma0s2LXFkb2ZkRWFlOG5xQTNPYzEtMnY3R1gw?oc=5
-- **Source:** Iceland Review
-- **Published:** 2026-10-12T15:40:51+00:00
-
-## I've traveled to over 100 countries on my own. I'd recommend these 5 destinations to first-time solo travelers. - Business Insider
-
-- **URL:** https://news.google.com/rss/articles/CBMirAFBVV95cUxQdVA1SmN6Zzh3X0FzNWcyclBncWxVZUFFQTM3V0lRSi1oMm10dEZ0X1kyM191QXVvWUtMVFYwYkZHWVVUdC1uSHo5MjlQLXBVZUFTZ2E4SkNWYXBiRmhhZFh2XzdGVktySTloNW90OHNPYjdncldGU3p0OUdENUJqYWxzVHpxSU9oRFpfMWVOOW53TVF3alpXbVRha2JNX2tqcG1zRG83Zk1fVHd6?oc=5
-- **Source:** Business Insider
-- **Published:** 2026-10-12T15:25:00+00:00
-
-## Calls for Icelandic fur farming ban escalate as damning new report shows country’s fur farming industry costs society 981 million ISK - Humane World for Animals
-
-- **URL:** https://news.google.com/rss/articles/CBMijwFBVV95cUxQSzNtS2dLcFRmY1ZvSTg3SER5NlFzRjM0bU41UE9QaFpxNzI5cFZUVjhmNm5MNklmeW1qQzJDa2taNTJJNy1hVkh3TTRLVEYxTFVGV0F2YUNONDVnNmNBUEVYeHZ1aThYbGJJb1MzUkxhX283NnpFVGYycW5qUnBKcGM0Y1huN3NJam1nNVk0RQ?oc=5
-- **Source:** Humane World for Animals
-- **Published:** 2026-10-12T15:16:38+00:00
-
-## KTBS Travel Club explores Gullfoss in Iceland - KTBS 3
-
-- **URL:** https://news.google.com/rss/articles/CBMixAFBVV95cUxQcXNEeVJlOFljN3RjWi02c2JJTHBDWmszaEVVX0hvNU1QOUNzSzN6WWU2TjB5Sk1rMG1CbERZVGJUdFp4enpoeXFvUjJwOWxYNGs4RzFSZGtfWi03Q1pfZzhOblNwVk1RdGQ2ZFBnU0JfQ3U1Y2hQRkxaTVVWb09ka2pKUnZZZ1hPeTRJd25aa3N3ZG94emoyNEtXNkc0Skdpb2M2QllSRFM3M0JRa0E2dkxidkNUYkpuRFB5MVduTG1vaHk3?oc=5
-- **Source:** KTBS 3
-- **Published:** 2026-10-12T14:15:00+00:00
-
-## Kolejne zgłoszenia o uszkodzonych samochodach - RÚV.is
-
-- **URL:** https://news.google.com/rss/articles/CBMilAFBVV95cUxQZl9nREw0ZUlRdEtLcWpLclhJOGtsN3FQYS1scmtIaUtTUl9fVGR1a2s5LVhESmg4a1IxQndTdXl5VHd0SmpySDJqckN3Y2k5Ullpb0YyNmMyMjBRaEgxOUUzandMclY5UmhFck5hR1hEWm45ZHMwcU8xSVl6V1JIMzVORjJ1VGZjckFHa21NLTAwMjNP?oc=5
-- **Source:** RÚV.is
-- **Published:** 2026-10-12T14:02:00+00:00
-
-## Ruling in favour of landowners - Iceland Monitor
-
-- **URL:** https://news.google.com/rss/articles/CBMiigFBVV95cUxPZ1B2d00zbnYtc2ZLRm8zNlRobG41MU10dlFKZW5xalMzYVpFcVpxcFAyM0x6ZFVqUlNZOUR1R3VTd3VDcEVvaXZteDdqSnY4TkpnUnlEQmtneEVZWXpadDNDSlFsNV9iSE9tbVdncktNZTgzbE05b04zV2lhdEJpUkZ1engzQkdZWGc?oc=5
-- **Source:** Iceland Monitor
-- **Published:** 2026-10-12T13:30:00+00:00

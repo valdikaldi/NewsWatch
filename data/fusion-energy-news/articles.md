@@ -1,8 +1,98 @@
 # NewsWatch — fusion energy News
 
-_Last updated: 2026-10-13T23:37:33.793487+00:00 · 50 articles_
+_Last updated: 2026-10-14T09:20:28.429867+00:00 · 50 articles_
 
 ---
+
+## Temasek Trust, World Bank Group tie up to advance initiatives in climate and energy - The Business Times
+
+- **URL:** https://news.google.com/rss/articles/CBMiwgFBVV95cUxNM1h1NmYtMndaMWxMMTVkLVV5aXhYbHZjbVIydUh1bVFPZDRCbzVoRTRhdlhubEsyTEV5dGRZRWM4ckNUbm1CSFZWNXNveUotcDdiZDBvQ3dyT3lwT29kcmFXSkVhZExRTlVERGpLTGVmdnc5WGFKQjRpZW1TV1pZV0tlVVFRVUNZeDc4LXYwaHRNNkYxdFROVUpLd2psbEttNHJvaTdwYWo1ZVFLNkxuQlo3LXl4Y2tBNm5BbGZwSmlOQQ?oc=5
+- **Source:** The Business Times
+- **Published:** 2026-10-14T08:17:00+00:00
+
+## £120m invested in STEP Fusion power plant as UK supply chain grows - Innovation News Network
+
+- **URL:** https://news.google.com/rss/articles/CBMijgFBVV95cUxOX0wxV2VWT1pWd3E0VGZtZ2pWdWNNZGQ3Q2Ztdl9uLVp0TGZ1Mzc3UFhqLXo0M3Z0a0pQMFpDTEJNRmtmblp2ZXJtaGlYbFNpMkRNbUJ2N25xbE5SNFMyemtzY1Q0TXlSU3lXaW0zc2taQXJoVkpLNnZNN0pQZnpyUmNkS2g3VzR3eEVieFNR?oc=5
+- **Source:** Innovation News Network
+- **Published:** 2026-10-14T07:18:39+00:00
+
+## Pulsar & Lunar Helium-3 Mining Sign Evaluation Agr - Share Talk
+
+- **URL:** https://news.google.com/rss/articles/CBMiggFBVV95cUxQeWV1N3R5bmI0ZzI2czhueVRMUHQwaE80S3MxaldOMWFzV3Jpa1lyX21wZXNJM2NMRWtrcHh0UWVkMHpkellKU2ZVUzRFV1lNY2EtZFpsMTFPM0N1WHhQNHZUcVFNUUhPRU9rRFE0OXlxWGNTYThkX1RxcUI5VG5XY3Jn?oc=5
+- **Source:** Share Talk
+- **Published:** 2026-10-14T06:42:52+00:00
+
+## DAILY:DIRECTION Debuts Mini Album 'WHICH WAY' with Genre Fusion - 조선일보
+
+- **URL:** https://news.google.com/rss/articles/CBMijgFBVV95cUxPRzFTZ2VFT294WWFkV1NMTjN0MnI5cFRiUEJFNDVob0NtaDZwQXNjZldmUWVzUEJZREp6dHRrRWh1OUcxSlg3S1QySGFwbW9HbmJZZE1scjBacEc2UXdFeEoxTEk4R1pOU2hETnU0amxMVFJkRDRBM21jZTY0VUNDeG1QUmJmcFNNZGRvTXhn?oc=5
+- **Source:** 조선일보
+- **Published:** 2026-10-14T06:41:30+00:00
+
+## Fusion ignition: Princeton model finds efficient new method - NewzTodays
+
+- **URL:** https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSGJqRC1XQXVxRzFGQ0tEX25PQjNpb3hGd1p4WVAteVhPOG9TQkN6R3B2WW5zWHcxVHEyOTZ2TmpkdHlid1FKcUxCOHY0MU1WTktQUWFMUkFoRVlsc2kyby1ONEg2RU9vdDZwUXo4dlMzVlJ4VURkcmE4RHVnNzlYcml1TVFSY0x1?oc=5
+- **Source:** NewzTodays
+- **Published:** 2026-10-14T06:38:51+00:00
+
+## Pulsar Helium and Lunar Helium-3 Mining partner... - Pluang
+
+- **URL:** https://news.google.com/rss/articles/CBMisgFBVV95cUxOekc1UlRucTdJVzRoWHYzSUQ2LTM4Nk04cTdoYVNzdEpoTEEtU1JDcDUtYlJZZjQwNjcyMzVJa29NZFFpeGl6OS16ZGNnOE5BOEZwR1JhMGdSYWZfbUZaXzZ4U0JfakU2TEplQ3B0ckt1QVZwU29yR3ZRTnJnMVgySkZQYmh4YVh4X2VZXzBpVFBVTWwxMzIyaVNtRUdBeTlHTXh3TE9CeDhqUjN6T0tLbEZR?oc=5
+- **Source:** Pluang
+- **Published:** 2026-10-14T06:24:24+00:00
+
+## Pulsar Helium and LH3M Target New U.S. Helium-3 Supply from Topaz Project - TipRanks
+
+- **URL:** https://news.google.com/rss/articles/CBMiwgFBVV95cUxOOFJub1VqeXBXMUpYSXlQVGxFd3ZpUHBCNnJtREtkMDhiSzFONlRJeTNaUEJpWFFfYVk0ckVrODJBMTBvRmFwZFZRNWFhRXIzS2JmYy1xMk56NjhxZUJhNnhzVUpveE5BdjU1c3FVdmhQUEg1OEoybHBISHgzaWh6QkVuX3VmTGRfN2oydmRNanJ4WUlpYWl3VUhwUEpYWEtHV2xMM1VaRWo1eUJoNWthZGE2X0JZZ0FSTDNqQm1nS3Rsdw?oc=5
+- **Source:** TipRanks
+- **Published:** 2026-10-14T06:17:08+00:00
+
+## Pulsar Helium and Lunar Helium-3 Mining Sign Evaluation Agreement for Helium-3 Recovery Assessment at Topaz - GlobeNewswire
+
+- **URL:** https://news.google.com/rss/articles/CBMiiwJBVV95cUxOb011Nl90aV9Udm93RDBhNWdKWTk3VXhUeFFuaklIT3JJZjVKSElmelg0Z0EwMnNUVDVNLWFoVG5PQ3FYQXJVQkRMYnRVT3pleGotOGgwMFNZeENVUGJXbUpVOG9GdmtLb3lqZmVxdEROVl9SU1ljY0s3VE1saEJXRklqWUJPM1ljbDFJZHk1blBEWXE0R0ZGN2pzMmdja2tmMEU4a2xSX2xiaFJnTGxyWDUyWS1mZ3pEbWtrUUlsZ2Z4Z2x6TFItV3QtamRLQjJOcVNBejMzQjYwamxzZExCZkhnOWdodjFLWUNieldzSEJNamRUUDE2cmNNbDBMdDVXdTRvSDQtY0VjSlE?oc=5
+- **Source:** GlobeNewswire
+- **Published:** 2026-10-14T06:00:00+00:00
+
+## Bio-friendly ice composite developed by Israeli researchers is as strong as concrete - 디지털투데이
+
+- **URL:** https://news.google.com/rss/articles/CBMixgFBVV95cUxOQ291NVJYcjdicWkwekRCa2tPajZ4RU9WUUprSERydW1BUlplMWlMbURlODJCS1FvNEkzTHh6NmF1UmtQX2Jkcld1eXFnbkZIQTRMXzlRMXBydTRLY212NlFkemUxS2ROS0NYaXk4WjhOdGxZejFZTTNYU0xWWWFuZFVMLUoxRnFyMW92cDZiTGxtR0hRSFc3M3VOQ01VQUFra2tsUkpyT0dENWdXQXlBNm5fWU5VM1VLSXJYTFRCWEdVaDVZRkE?oc=5
+- **Source:** 디지털투데이
+- **Published:** 2026-10-14T06:00:00+00:00
+
+## Fusion CX IPO Date, Review, Price, Allotment Details - IPO Watch
+
+- **URL:** https://news.google.com/rss/articles/CBMiSkFVX3lxTE5UcFlHN2lJTE91T2N2QWVndEllUm9SV1FTWGpKdmVQaWo5TWQ0RmN4Rk9yTEY3RDloSl9aSGhIYzh2aG5lejBka3dR?oc=5
+- **Source:** IPO Watch
+- **Published:** 2026-10-14T05:23:17+00:00
+
+## INL hosts talk of nuclear successes, next criticalities -- ANS / Nuclear Newswire - American Nuclear Society -- ANS
+
+- **URL:** https://news.google.com/rss/articles/CBMimAFBVV95cUxOU3JIdXBzR25helFfODVwZ1JJTEdnV2g2Y0dMa0ZLaHNsOWlQaXB2YXczeG5RWTlvaXEtRWNNM1NMdmNTVGQ3cUFBN09WMThyNGtvVWloYURmR09aSDZFSWRleUpyQW5lRURBXzdXb05jSWFPQjdaZW42NXc0cHNna19rcmt3Rk1zLWs2b0MzQXktNGNtd1lDMA?oc=5
+- **Source:** American Nuclear Society -- ANS
+- **Published:** 2026-10-14T02:24:12+00:00
+
+## Fusion Botanical 2026 – What You Need To Know - The National Tribune
+
+- **URL:** https://news.google.com/rss/articles/CBMihgFBVV95cUxPTmdrVGF0VmVlWWRxLTloVl9SVFNiN2UwMVVUbjJaWHl1VWFfMi1iamtTWE56SWFndmJ4cHVtRkRVWWl0WFNUbkpnWVlIVUVNOE9oWjkwY2dVczVldW5wVHg2QTR1QXZCMmY0UVFfZFA1MkJPaFhCbE8xRmZvRlpSM01HTUZTdw?oc=5
+- **Source:** The National Tribune
+- **Published:** 2026-10-14T02:10:04+00:00
+
+## AratheJay – CHRISTO DISCO (Album) - TrendyHipHop
+
+- **URL:** https://news.google.com/rss/articles/CBMidkFVX3lxTE8xZDgwVE1INDZic251cHlscHY5cEs5ZE03YWU2TDRGemtLbVJFaVhuZDc2LXZoNzcxTmlUai11Y1lEYWlPV3BhRkNvZ2haendXZ0hHRS1SaW5sWG5SaGtCbGdPNHljSE1pVFZlYTBJcHBJcDd4WEE?oc=5
+- **Source:** TrendyHipHop
+- **Published:** 2026-10-14T01:48:33+00:00
+
+## DOE adds 12 Phase II Genesis Mission projects and six more Phase I awards - R&D World
+
+- **URL:** https://news.google.com/rss/articles/CBMipwFBVV95cUxNY3VzU0ZkdHJsRXdMZGFaWEJxYkdjUlBod21vY0syYVk3dXlScVJOZWVpLUdRZFItNzIyYlk1OXl0RWJ2Y3ViYVREZ2d4M2pXNEo2dUVieXBGNmEtOGZQd3hoMXVkNUFrbUk4N05sa0JfVzdSM2N4TTJOUExYazI5dTdZZGduTEJmRmhVbEhKME9wLTVtMkhMTTRrT2ExbXhVNmhzbVF3TQ?oc=5
+- **Source:** R&D World
+- **Published:** 2026-10-14T00:00:16+00:00
+
+## Chemists Recast Diamond Qubits as Molecules, Accelerating the Search for Quantum Materials - Bioengineer.org
+
+- **URL:** https://news.google.com/rss/articles/CBMitAFBVV95cUxNWURkeFkxTlhIbVdqa196a2M5M0IwOER3Q2t6dVJiQjFWOVhJSmkwMXNWa3p0V084UXljUGZoS0ZNNGJJMWk0ZmFHSW81dUU0X1h6SEdZREdiT1d3NURRbHk1Y0FYZW9Nemw0TWR6Y0dkcEplWDRGVmdrZnhlejlta19WQmVDU0Iwc3Q3UVdCMEpXMlN6N3dBeU82b1NhWGlOWGMzd0NoeWF1YlRVdnVTOGhWYnk?oc=5
+- **Source:** Bioengineer.org
+- **Published:** 2026-10-13T23:53:45+00:00
 
 ## Get your groove on Halloween with Celebrate Shuswap dance party - Salmon Arm Observer
 
@@ -213,93 +303,3 @@ _Last updated: 2026-10-13T23:37:33.793487+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMimAFBVV95cUxQRkR2cm5kRGoyUjVIcFlfT0dsTWNOdEE5QlhjYVZldVRfT0E1YXg3TkphODBUaE1rMndObF9naTc5NUJOMGkxRDZZQ3UxN2hjLU90V3hVLW5zSXYxY3E4NkRRd3ZMVE54Z1RuanVFVFhJTm0tVmlPRXluTXl0ZjlqSVlvcHdGUnBQXzdsYVp2cXpXTjFQNC1oeQ?oc=5
 - **Source:** TCT Magazine
 - **Published:** 2026-10-13T08:27:16+00:00
-
-## Canada Emerges as Top Producer of Rare Helium-3 Gas - NewzTodays
-
-- **URL:** https://news.google.com/rss/articles/CBMigAFBVV95cUxOSlc1TzFZc3h1MncxNE9LTHpjRzdVTWQ0ZnJUc0JKaWJaeC14ME8xaUJyUE4wWTNrbEJtVTM0REFhVHJ2dXBBTnNuc3ljTVFTZGhPYlpzMTVjNzY3SWN4ekJnZ3lac19VOFd2MVJGaXFZRzlWRVpNYkhaQUgyM0tjOQ?oc=5
-- **Source:** NewzTodays
-- **Published:** 2026-10-13T08:13:54+00:00
-
-## Chuncheon, Gangneung, and Wonju, Gangwon-do's big three cities, which mark the 100th day of the 9th - 매일경제
-
-- **URL:** https://news.google.com/rss/articles/CBMiXEFVX3lxTE1IN0NIbzhyaDFCcG1kM0hEWTBxV0czdlhSWkN1U0s1SkJTZFJDdWxPeGE3cjFESThTd3lIV2R1aHlJTy1YTGlXb0hneDBHNXAwQ0tjeGY5ZjVwTDA3?oc=5
-- **Source:** 매일경제
-- **Published:** 2026-10-13T07:36:02+00:00
-
-## Bangladesh’s Rooppur-1 Nuclear Plant Achieves First Criticality - NucNet
-
-- **URL:** https://news.google.com/rss/articles/CBMiowFBVV95cUxQWG9CVm1STjI5N3N1bnpteGd2YzZkTkVrUTJFTHduRU9JeHpkbE9rRUhtaXk5OXVCeS1jZDlnWE9JLWc3SlBab0R6MFNuUW5lbTczZllhX240ZmwyVUtFLUtYYXhCMVF3NGo2WkwwNENYRTJVOFZQS0dYX1pCTy1oTm12STBxY2lJLWJYSl93VFgyX19oeklzTlAwR2VkUkgzWGZZ?oc=5
-- **Source:** NucNet
-- **Published:** 2026-10-13T07:34:42+00:00
-
-## Freemelt has received a prototype order from a defense company in Sweden - TradingView
-
-- **URL:** https://news.google.com/rss/articles/CBMi1AFBVV95cUxQdXBOSVRDRHpJR0VqTm9rNTBJTDlPRXVGcHJkTTd6blh5SFZNMUFUYUNlTXpvNnQ1Q0JHQ1BNeDlYNmttZm4tT1pXak9NcVRfMndnOFpGeU0xRmZ6dWNpZmFtOEdsZkJTc0NUY3pTRkRtMzhEWFlhZTVONXhENXY1Qm8yaTZ2TWhSenhZMzZka2JpSkFMYVZ6eHNoUzA1THdhRXZLVDhTZUtHeVFsZ0xSY0xLZTJkWWxtVEhPNFk1SndnZE1ObmdmaEZwY1VwblBWaU01bw?oc=5
-- **Source:** TradingView
-- **Published:** 2026-10-13T06:15:00+00:00
-
-## Black Sherif – Expresso - Six9ja
-
-- **URL:** https://news.google.com/rss/articles/CBMiYkFVX3lxTE4wZHd5YTV2SlNycUtkRXBEd2p3ZXBIaF80d3hJSm1sOU5CMGY3Z3VfZzJxNFBqWFdpRnotNzl3cms1dWpWUzh5WV9POW1PUEtJMmZCRDI1Tkx5YzRjcUFscExn?oc=5
-- **Source:** Six9ja
-- **Published:** 2026-10-13T05:31:09+00:00
-
-## American Nuclear Runs Through Anti-Nuke, Anti-AI Roadblocks - Townhall
-
-- **URL:** https://news.google.com/rss/articles/CBMiwgFBVV95cUxPMW00QnMxVC1FRXVnX0FFTnZ6RGZ6bDNjUU90RUlRajk1OW4wcVB3R1cwc0FacVRPVlo1Sm1uWGJQeEJCUnh5MjR4bldyMlFQSXpzTWx2ZFNDOU5vSHd5M3NfeHJxTUlUM3ZWcTVicVpzTE5TVVQ3cVZkQkQ5bFJ4NmdjWVcycW9heGVVQzFiWWVRV0tya1NZVG5TVWhkQ0RGZzA4NVNqUnhOb0ItOFBnWnFyY1pUSjllNHpSVXhQNFBoUQ?oc=5
-- **Source:** Townhall
-- **Published:** 2026-10-13T04:01:00+00:00
-
-## ECO Expo Asia opens at Hong Kong AsiaWorld-Expo in late October - Asia News Network
-
-- **URL:** https://news.google.com/rss/articles/CBMikwFBVV95cUxPRlhIeFJvb29Ic3p6aERaek05UUtJYUZjY0xlTGVGLUNhQ2pYeElabVVpN0Z1S0pESTgxY0xiOG9falNzRWo0a2tINVNsYkMySHI4V002SWJaZEJQOEJaWVVWN1lFLTJjZ1d4YUMxU0VrNk00SWFWeVlwc0MyYi1tMm5JcGhKSjBfaEdqQjh2RFJWNFk?oc=5
-- **Source:** Asia News Network
-- **Published:** 2026-10-13T01:13:40+00:00
-
-## This Ultra-Rare Gas Could Become An Ace In Canada's Hands - Crude Oil Prices Today | OilPrice.com
-
-- **URL:** https://news.google.com/rss/articles/CBMirAFBVV95cUxPRzJLa0NRZlJFbUFlWTd6WG5Kc0JDeXpFZmhqVWh6Q1BwcUJmV05GWmdtUWpielB4UG54SU8xYzlwSDRwQTN1aGRlcnM4N1loNlZtb2psZThYSHJGd1QtR2hNaHhvVGRhM1hVdHlLOTkyeDRwVlBnaUpFajV6UWdXYmVjTVU5bzEyOEY5dGl3d0hhRmsycTNma3BhOVI2SmJIeVJQQkdxbmkwZ3pF0gGsAUFVX3lxTE9HMktrQ1FmUkVtQWVZN3pYbkpzQkN5ekVmaGpVaHpDUHBxQmZXTkZaZ21RamJ6UHhQbnhJTzFjOXBINHBBM3VoZGVyczg3WWg2Vm1vamxlOFhIckZ3VC1HaE1oeG9UZGEzWFV0eUs5OTJ4NHBWUGdpSkVqNXpRZ1diZWNNVTlvMTI4Rjl0aXd3SGFGazJxM2ZrcGE5UjZKYkh5UlBCR3FuaTBnekU?oc=5
-- **Source:** Crude Oil Prices Today | OilPrice.com
-- **Published:** 2026-10-13T00:00:00+00:00
-
-## US fusion project targets plasma predictions in under 20 minutes - Interesting Engineering
-
-- **URL:** https://news.google.com/rss/articles/CBMikwFBVV95cUxPX0lYNmNyenpkTnNPQ1Rlcmw5dDZsNFBhZnQ1TV9fSHMtRTMzdG1tT0llaFFUM0NhUHVGTDlhMmF5TjI5c0ExT21rZ2dkMTJlRjBPVThBdkl3cVVhLXdvODNKRjBwQTBrcnRZcjVjTmJ2Ml9nVS1VQ3BYVEUyZ3RMNmF3WktJVDVzYXlvYU1jQjE2cW8?oc=5
-- **Source:** Interesting Engineering
-- **Published:** 2026-10-12T23:58:00+00:00
-
-## American Fusion Details Texatron Fusion Program, Emphasizing Plasma Compression and Confinement - citybuzz -
-
-- **URL:** https://news.google.com/rss/articles/CBMiygFBVV95cUxPdmJSV1BXTzdnTTZGR1FLMTJGb1Q3QlRKNkFPVFg1aUlCUUJGTl9TTzlieTh6VEhJZDd1a0hsUDdwdFBDb0MzOUstcXFVYVZuVV9mSTNEUUlESGZWRVc0XzdSVGJXaWtTeGIxUkVwMXdEYUtBaU9MaVYxeFdDZjZQcHdmMTNiQ2w5eDBqdjU3VllaM0ZnNmVMTmctc3ZqU012OUk3NllqTU5nQVZaNmFNMmhSVWw3TzF6R20tbWNQNzFqdGJTY1FqcU9R?oc=5
-- **Source:** citybuzz -
-- **Published:** 2026-10-12T23:49:14+00:00
-
-## SPACEBOIFRESH TAKES OVER SUNDAY AFTERNOONS - 97.9 The Beat
-
-- **URL:** https://news.google.com/rss/articles/CBMif0FVX3lxTE15ejQyNlFISEVCMkRLY3FKTF9xQ0JqbVdaNzIyZmRNZzhUVVZGYndUWENqQ0RQVGkxWVB2Q1c1VnFuVWhjWXlfVmxBTUQ5N1BCWFNmbmI0cFFzWHFhR1dTSnM1RUJTbG1LMFF4bDJNQWF0YkpuTG1jUEFEMGxvcnM?oc=5
-- **Source:** 97.9 The Beat
-- **Published:** 2026-10-12T19:59:17+00:00
-
-## Type One stellarator attracts major funding - Nuclear Engineering International
-
-- **URL:** https://news.google.com/rss/articles/CBMigwFBVV95cUxQelk2UWsyRUttckM0NE5GcGJ6RHFuS19ETE1mb2Q3S1JuVFNPVG02S2o3VEdnb1VvM2xBLTllWjJBZDd1ZjNZLS1VT3Z0UjRrZEYtYXdLS0U0QUtMeHhwNmZVQk4zN3F0ZHJlbzlQQk55UE5ubkhPcEx0bG5SN2N5TmhNVQ?oc=5
-- **Source:** Nuclear Engineering International
-- **Published:** 2026-10-12T19:09:04+00:00
-
-## 4th ITER Public-Private Workshop announced - ITER
-
-- **URL:** https://news.google.com/rss/articles/CBMif0FVX3lxTFBxZmxhSGI3cEN4RkFJT0hKWGpfOHJMdjE2VVc5VS1IcEJ4cEdDYm52UXd5ZzlfSk1TSHBKREZqTi1KeTNIemMzTUgxYnloZms5UXNaOVpIT0pNeGk0dW9NWTFJY2NXX3VPci1LNHBaRHZhU0gxRlFwWW9uM0R6UDA?oc=5
-- **Source:** ITER
-- **Published:** 2026-10-12T18:34:08+00:00
-
-## Fusion CX IPO GMP, Grey Market Premium Today - IPO Watch
-
-- **URL:** https://news.google.com/rss/articles/CBMiakFVX3lxTE9mOEt4WmduUHJzX3dQUWViTzYwclF1M3FudE9uNkZqbTdUMFdRZi1zMGVYYmZJY0pab3hpbTI5N3g2a1FidXNNVXBjWHNqSDNoekxRbUp6Q2d1LWJRaGhFMC00Nzl3S0FYa2c?oc=5
-- **Source:** IPO Watch
-- **Published:** 2026-10-12T17:32:46+00:00
-
-## Data Corner: Public and private sectors take equal shares of Joint Undertaking funding - Science|Business
-
-- **URL:** https://news.google.com/rss/articles/CBMizAFBVV95cUxNXzJZc3RWM0dUZ3JpOUFrd25DU3ZmZl9GY2MwODZ6ekpMVV9VRTYzd1NMMHlxZDNvMDhCNjNpT0xjVkZsY1JKdDl2WVR4dC1IN0tjVnVuUno3UUxSUk93MlRBR2tNcEVNUUNIcUdiYk1LdldOcjFfNlVpTS1wN1RMMG5zRzJWaVBIRV8tdTF5ME85Y0x1eE9rdU9XSHB6c01pM2ozaWxlazZRellZVm5NWFpZUDdYWE53OXdDZHV5OE96cTlSdmQ1aGpXUlQ?oc=5
-- **Source:** Science|Business
-- **Published:** 2026-10-12T16:33:13+00:00
