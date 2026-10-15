@@ -1,8 +1,104 @@
 # NewsWatch — fusion energy News
 
-_Last updated: 2026-10-15T08:56:05.406537+00:00 · 50 articles_
+_Last updated: 2026-10-15T14:42:45.116960+00:00 · 50 articles_
 
 ---
+
+## Hefei’s ‘artificial sun’ draws Hong Kong-based delegation - chinadailyhk
+
+- **URL:** https://news.google.com/rss/articles/CBMiWEFVX3lxTE1nSmVFZEhHclBkTl9YYjlkbUxpTzVuSncxRVNGeXlNc2c1SjA4Qm8ySHR3X3kzcTcxa056SXNzOTh5NmVWYk93RUZNVEN1TFp0NUxiWFlhMUI?oc=5
+- **Source:** chinadailyhk
+- **Published:** 2026-10-15T14:12:27+00:00
+
+## Is nuclear fusion the future of energy in Virginia? Some officials think so. - WHRO
+
+- **URL:** https://news.google.com/rss/articles/CBMiugFBVV95cUxNNU10alItUEdUQlVDU3NNN1RyUTdscEJNM21USjBvbHVuck5leVNLb2dnRnJ1bW1jOGVqcThrTW4yS21xR29QaDNMcU41UXRLbFVWVU5tZTZDZkZpMjY5UU81b1JnRmZsbjBZNjVyQVE0QW95ZktoaldfemVnRWd1T0FEcEVrYjBLak8yaml1N1VwV083WXpicmxXQmhLUDVuVlNWMnJVYlJ6TElja0x4bTJaZU1kc1Z4aXc?oc=5
+- **Source:** WHRO
+- **Published:** 2026-10-15T14:00:00+00:00
+
+## DEE Development Engineers secures ₹46 crore international contract - Manufacturing Today India
+
+- **URL:** https://news.google.com/rss/articles/CBMitAFBVV95cUxNNENSejJQTjA2ZG5VRGQwWmVIYTNtakZjUjRSSWpFVnBIcHMzVGY5bmtmYWN4U1pfMFpjWHdCcGU3allhTU5Hb1drZVltMjQzdFpocENQaHZkbUxXSmxUOHhWeFktVGVaRXNRV2t3Vl95X05rbzBPYjE5V19YWHdEUWxZRkFLM09ibE96MXlvUW9xTXdhSklQUUk2OHFfanVHVVBMSnRXelcxZkRkZVlsSzk2OW8?oc=5
+- **Source:** Manufacturing Today India
+- **Published:** 2026-10-15T13:41:06+00:00
+
+## RedChip to Host Virtual Investor Conference Showcasing the Next Generation of Energy Infrastructure on October 22 - azcentral.com and The Arizona Republic
+
+- **URL:** https://news.google.com/rss/articles/CBMi-wFBVV95cUxOcnJhb3YtMDRhTUs2cGlIVlBjbzBnZjVJX2h2VVl6aFlVcHk1U0VMeHFuZlVkNm9jbjRfN3U4NHduTE81TnZoTlIxd3pSczhPVXBISjBteWZzLS1BZEltRTc3Z1hZZVpmUlJEU0hyYmp2Z1lsTFo2eW11RHJ3YVRWTjZiNVExbEZ3Y1BRTVk3TVdwWmpxbXRwZzRhUGZnLVZqWDFkeXRlU0xNcm9YaWhVRk9NeGxxeU1lcEgtVGxIQ3NkQjlvY2w4c0s2VmFjT1hnaDhFdVNXZ0dCbGpLUkV1bTZ3UVdUWTh1T1hfcUJRNWlhR3M0NmVreFBEVQ?oc=5
+- **Source:** azcentral.com and The Arizona Republic
+- **Published:** 2026-10-15T13:10:14+00:00
+
+## Public-private partnership to bring new exhaust system to DIII-D - American Nuclear Society -- ANS
+
+- **URL:** https://news.google.com/rss/articles/CBMiowFBVV95cUxNQ3F0SXVmaGc4VW5IWHhuX3poWTFWWUpZVEJjWElkWlMwVnJFSXY3TWhzVlZySkxzVDk0QU9XdEZXbGFKOEg4TmNZTjlvNC1fODlGSVBDXzk3WTR1d0MxSmhkNEVfUXlxUE1HMEhIOU1MOGhUMTd3R0NrcWF0di1aTUdFTUowaDlSNDhqbnprX0dvcEl0MWh1SkdMc3ZOU3Z0YzNj?oc=5
+- **Source:** American Nuclear Society -- ANS
+- **Published:** 2026-10-15T13:07:49+00:00
+
+## PPPL celebrates its 75th anniversary - Newswise
+
+- **URL:** https://news.google.com/rss/articles/CBMilgFBVV95cUxOTGQwTmhaejJsSVI2YTFxOTJzYzVtdXE3UVY2WkdxX01nQ3RCMHhGYWZWdGdpbkZPdGxrS1Z3clhuTnlqemwyMzlqeXd5R2tFeHk5Q3JiTmdZZElZZWhTWkNJbHp4WExYSFA2X2RJM0xhdnE3d1FFSVE2N1VtY1FmNTY1UXhwUnNvcWZkWHF6ZVd4OFZwalHSAZYBQVVfeXFMTkxkME5oWnoybElSNmExcTkyc2M1bXVxN1FWNlpHcV9NZ0N0QjB4RmFmVnRnaW5GT3Rsa0tWd3JYbk55anpsMjM5anl3eUdrRXh5OUNyYk5nWWRJWWVoU1pDSWx6eFhMWEhQNl9kSTNMYXZxN3dRRUlRNjdVbWNRZjU2NVF4cFJzb3FmZFhxemVXeDhWcGpR?oc=5
+- **Source:** Newswise
+- **Published:** 2026-10-15T13:00:00+00:00
+
+## RedChip to Showcase Public Companies Advancing the Future of Energy Infrastructure at October 22 Investor Conference - Corsicana Daily Sun
+
+- **URL:** https://news.google.com/rss/articles/CBMipAJBVV95cUxOb3dXbFVLVUVLZU00R3g4cWFoSkdYMlpObkJfXzhwdWJTUmF4LUwxektoeDZuOVdvQzJ0Qk0yRzVlYjF2VHQ3bExZRzFPTkUtYy1lbzl4am1TY01rWXJtcmw1WUFHSVVGTzJPZzBxdzlQRklyS3RfZ2tGVW4zWGdOeG0zekFJbFlDUUVTVkRORzk2QlFjMFFUSm9XNUZEQncyNWdBdjFlRVN0TnBvLWl6V1R2RWxYYUZBeWpDQkwzdzgtWkVmV1JlRGpVVEx0OHBkdXRKSUh0QmdCR3BFSjlCcnB3dVFxeDdNOVFYenFONUdmNXhSdVptNFgtNHlKQkxGSzNRblJaQTRCaFNwd3BlMWg3QkhGUVZpZk1fZDFObGxWNXFY?oc=5
+- **Source:** Corsicana Daily Sun
+- **Published:** 2026-10-15T12:16:45+00:00
+
+## US propane exports hit records, driven by Asian demand - energynews.pro
+
+- **URL:** https://news.google.com/rss/articles/CBMihgFBVV95cUxNb3VXeGgxY1d2SU92SzZnOHRkcHowVFROaFNMTlBURUJXV0pZby1rWkVvOUJ4ay04cXNYeUhXay1zb3pFN0p1Um9TODJrMVhlN0RxNjNWNDU1ZG1XZTRLQnNFYUxTcmcydzc3eHFaWXNTVEhsT3YyXzdUSnBZU1dOM1JMNncxZw?oc=5
+- **Source:** energynews.pro
+- **Published:** 2026-10-15T12:03:58+00:00
+
+## Germany's €500M Fusion Program Pays for Progress - Technology Org
+
+- **URL:** https://news.google.com/rss/articles/CBMilAFBVV95cUxPdVl1OWZnWlNGMjA4cDB2a2x0bUZEWUJjWW1qX2ZzVmJqelB1Y0toc0xpcERNMU5wT0VMODVJM3NNaUV0aDJkUVVyMTdsYkwxWFM0bmVHZEV2TnQzcTQ4aEFXQnY0bDBTYkpFcnRoOHdqTTFjWjVzRHAzTEg3Nzl0R2dtZ3ZlX1k2bjh1RkN1a3RrdTdR?oc=5
+- **Source:** Technology Org
+- **Published:** 2026-10-15T12:03:00+00:00
+
+## PetroChina International announces its first LNG bunkering of a vessel in Singapore - energynews.pro
+
+- **URL:** https://news.google.com/rss/articles/CBMirgFBVV95cUxPNWx3NW85S2UtUGwxWm1ab1JaRmxUVkhDMkdWUkd2dTRhc0N5RUl5MlgzSHMtdG5jc3ZyWEV5UFIybUQwVFhrSThYeHNYcWRhRHNPUXduOVZQRi1HdFZERTJ4eDlPZkJwdDF4V0NCX1QyWXVQZlJKZE45ajdQczVpUDczRjhjSXhQM1dYTlVvZW15dzZOc1puazlXWWhSOEdOM2g1a01mVEM2aEg1WlE?oc=5
+- **Source:** energynews.pro
+- **Published:** 2026-10-15T11:04:00+00:00
+
+## AMAZEMET and Fusion for Energy sign five-year fusion technology agreement - Manufacturing Today India
+
+- **URL:** https://news.google.com/rss/articles/CBMifEFVX3lxTE1EVGRLYWF5RTlMQkZIcDJ3Z0JSUWN5RXNuWjViSEFqNEVkaG9qa1V6cFdqUXJ0aDEwM3kyVW55eklxaFpCaVZyc1FPd3VCc20ydXZtMmR3YllZQ3RvSUViY1FnVTdEcFNzUElIdElCaGhKem5fMHVqVHd6c1U?oc=5
+- **Source:** Manufacturing Today India
+- **Published:** 2026-10-15T10:59:31+00:00
+
+## LORD CONRAD UNVEILS “RISING EMPIRE” — A CINEMATIC FUSION OF SYNTHWAVE, ELECTRONIC ROCK AND MODERN HIP-HOP - London Post
+
+- **URL:** https://news.google.com/rss/articles/CBMixgFBVV95cUxPWWVKcFBWdkdoNXdnWkFWYk9uZDZmS2RHN2VHeWhvOW1hSU5pMFV2enR4Y1BDUGhKWmxMWEVMa2pEUHoxZ09RLUk2dDdlSzNQWXA5YTVwZi0tSkZmb0FZdVlaNkVKV3JncmZDU3dqclRQc3ZzSkxTYWsxWEZyY09IaW1JTEVTdFV0NWduTHdnZEsxb2RBMmx6Vlh0dGJOSXJ0cDZhT3lxN2NkYURnSzZJWlFlR0NsSTI2OGFGbTJ2SkJ1d2ZKNlE?oc=5
+- **Source:** London Post
+- **Published:** 2026-10-15T10:56:13+00:00
+
+## Fusion CX IPO Date, Review, Price, Allotment Details - IPO Watch
+
+- **URL:** https://news.google.com/rss/articles/CBMiSkFVX3lxTE5UcFlHN2lJTE91T2N2QWVndEllUm9SV1FTWGpKdmVQaWo5TWQ0RmN4Rk9yTEY3RDloSl9aSGhIYzh2aG5lejBka3dR?oc=5
+- **Source:** IPO Watch
+- **Published:** 2026-10-15T10:53:20+00:00
+
+## A STEP in the Right Direction: Modelling AC Losses in a Tokamak Design - Institution of Mechanical Engineers - IMechE
+
+- **URL:** https://news.google.com/rss/articles/CBMirwFBVV95cUxNY3h6Ml9wS0ZWMWZ6TWVobnVRdjlUa1RnTzFKSEFVcG9feWg4T3FUX0k4Q1p5a2NKMWY1LU5iV3dsdGFmRzFkSmtvNlhxOGs2THNMd05BOTdoYnpoN2g5WFZ3a3BMeklpeDBWWGZFTFlqWDZUcWNEMm1jSU9UMlhDMGxkc083bHpTMEJzMWE5cV9RTUQzNlN2UDlwUWJiMmszTmVlQURrdnhHQzhxaElV?oc=5
+- **Source:** Institution of Mechanical Engineers - IMechE
+- **Published:** 2026-10-15T10:32:12+00:00
+
+## In a Huge First, Physicists May Have Found a Shortcut to Fusion Energy - ScienceAlert
+
+- **URL:** https://news.google.com/rss/articles/CBMinwFBVV95cUxONFpWUWJMM2R1ZnNiMGctNENXRFN3bWlxUk9pbzJTQ1NBRmhadmo5OHVodjBNVGRoa2JDSW03VDdvZktJdGFSRHJBQldBQmoxeVo5VXVSZXZhRUo3Ry1qeGZReXhJSmM4eHhyX3lhOXNBU3FnNXJuZlp5ai13ZkZtODJuRnVuOTZxQlhaU19FN1VXenpPeHpycWFld213Zkk?oc=5
+- **Source:** ScienceAlert
+- **Published:** 2026-10-15T10:00:37+00:00
+
+## Festival of the Mind returns to Sheffield with mind-blowing free events across the city - University of Sheffield
+
+- **URL:** https://news.google.com/rss/articles/CBMingFBVV95cUxNblVWNUlWWTI2VEpIWTJxMUF4eVg0VUloRkMwekhyYzVZdVk0Q3lkTmJ6WXBXYmp2eEVHbWN2ZE9mWTJybWk4bkR2WVBIMzVwNDJXY0JvSVlsTU1aaGZHZWl2eVcxcmE4c05HVGZtYXgzNmdldnItT1oza0VXeGxJeFBFZkdVMGZtbkk3LTFlcTE3OVJQN2MzUFRjZ1hSUQ?oc=5
+- **Source:** University of Sheffield
+- **Published:** 2026-10-15T09:37:29+00:00
 
 ## STEP Fusion 'creates opportunity for region to play leading role in powering the future' - Worksop Guardian
 
@@ -207,99 +303,3 @@ _Last updated: 2026-10-15T08:56:05.406537+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMijAFBVV95cUxNUGpkQWY2QXZPMW44Vm5GeGlKRXVBMFM1dEE3RFpiSFhjMzNkYTlkcU9kR3kzWHM0YWg0NTYzRVdLdkgyc2RtbWs2cjl2VzRQUW5WS3NwWXpUTWJ3Y3d6a2d6cDlkWG5QNmh4RFpYbmh4MDlYR21wVkstY0dSZVJlMVVHb1dJQzAyekFLTA?oc=5
 - **Source:** ASU News
 - **Published:** 2026-10-14T15:44:38+00:00
-
-## Trump Media and Rumble Decline 5% as September Inflation Runs Above Forecasts; Reddit Slides 2% - 24/7 Wall St.
-
-- **URL:** https://news.google.com/rss/articles/CBMi0gFBVV95cUxQTDNNcFBUX2F6T3V1b2VoN3Zkd0tkSkxoMjJnWWRnTFpvb1haSmppdTROLUw3SlNGTTRwczhqTjd5dHZSZ0xHMUpUQW8zQktqYVFkSy1wVVkxZjRYZ2d6T0MtcUtKbHBodWVWazRoZVo2azlfV3ZFYzZlN2paNnRMdUdZT09sN1F2dXhrckQzN0R1RmdBZjV6N1NjVGFtSXJIMm5TLWZmQWlWZnh4b0I5VXJZekJXTGdBMmNlTmlkYVB4Y1FGUndHb09KZWFFRTFTNnc?oc=5
-- **Source:** 24/7 Wall St.
-- **Published:** 2026-10-14T14:27:00+00:00
-
-## Fusion Fuel Green Posts First-Half 2026 Results and Expands Diversified Energy Portfolio - TipRanks
-
-- **URL:** https://news.google.com/rss/articles/CBMi1wFBVV95cUxOd2taaHV5TVVqYjdZQkVkWmVfTWtTTG9CUHA5dzR4LXRtMzV2WFVFQ1BCaWlxTDJtRFVUb0xOYXBGVEc2UldubjdZcFFzWHh3UG0tUmNYV2Zib1AzaG5ZYWN3dGJXdlppRWNjNExOazJGMHM3MDF6WThtZHMyVjZibHdjQko5NnNvMjQ5YzRaN1pCcmZ5bWZ0VzEtYW1GMmtOZzFydW5aOFFQX0dHc082Q3lNWWp0SGtzWktJS3JuT0VxWEhmcGsySTlKRXpya0s1c0I2TjRkaw?oc=5
-- **Source:** TipRanks
-- **Published:** 2026-10-14T12:34:06+00:00
-
-## Fusion Fuel Reports First Half 2026 Results and Expects Full-Year Revenue Growth of 11-25% - The Manila Times
-
-- **URL:** https://news.google.com/rss/articles/CBMi9gFBVV95cUxNVVpPQXF0NC05ekdqcUptLTA2dXdPckJSYVFsNVY1bUhsRHY1Vk8wMzhkWGJSTmRITXVnYXRCTE1iN2I1ZnNTZFhRWWJ6a1FKM3V1MnVwQzJXQkp4QUIzS0ZJcTZDaWZSOXBuWmFWRUlneFZWeldaVlNoS1I2YWMybkhwa1I3VTJfY0l6ZzZETHppa2tqdWhlckFveWhacVp2RXZPSGdOWElSRXpxUzY5LUdDd050cS02NU1CUGc3TnJhYVBqMmhISzNXaUVKckU3S1dPaGQzQzlCUXF5MFBtWmZpMHIyeFQ0UkNkYXdFcUlrSURoZ0HSAfsBQVVfeXFMTWJHTmY4b3RudE9sMlU1aE9WTVJ6UVpQU1NncVYzdkppeGhKczB1cC1CRHpocXRKMEJZdVBMeUd1Wmc5TFozaVk5UHFiRHo5cU8zRTc3X0t2YlAzQWxIS0w5R3l4U2REM0dwRUZSMVBzVlVaMTFSZDBWTXIzR0NUZ1F3Rk84SU15MUVEcDBoVmJJYkY1MFhXOUhQMkNZT0ZlOVVCaWdyNjBUeXJMMXBaN09oUUhBWVdMTjliSEJJTFZXZWc0OHVOSkhVM3U5bnBmMkZQMmF0TzFQOE5rVGhDeHMzWXlrekQtVklyRHJBelhhN1B1X2l3ZFUtM0U?oc=5
-- **Source:** The Manila Times
-- **Published:** 2026-10-14T11:54:51+00:00
-
-## First-half revenue fell 5.7%; Fusion Fuel expects €16M–€18M in 2026. - Stock Titan
-
-- **URL:** https://news.google.com/rss/articles/CBMivAFBVV95cUxOakhNVGU2OFkxTENTaWhVSFc2VHR4V3B6YUZQc0lKWkJmVmI3TTFSLU9LZTdodDFvZGhxMV9QZHhveWhZd3VKRi1kNkw0SDN1Zng3YlpGMTJodHpzRlEyQThheU5wMUtXLXpHWFllWjBwek5mLUVRM3lJaEVQQkhONUVzZmJzaHJwRGVFdkRJUEJPNWdXd19zY1lFRzhpckN2RDRYSEYwYW52U25wNUp3N2FGMld1c3ZTRGpFMQ?oc=5
-- **Source:** Stock Titan
-- **Published:** 2026-10-14T11:45:00+00:00
-
-## East Midlands set to benefit from £2.5bn fusion energy programme - TheBusinessDesk.com
-
-- **URL:** https://news.google.com/rss/articles/CBMivgFBVV95cUxQaUUzVHZPMHY0M0RoLUQ2R3ZCck9TV1NSQ0FxQmx4bkF3QXo4ak5wTFNTbmlTVFBZRVNWeHpjYUV2UWJaUmQ1ZExYOXlMSEExVlFlSXRTd2c1ZmxBdVRLSFZDejRQQzNEczVNbjRnYW4zdGhjNXZFVEpLdzJWTEtwQ1dsbmlJQ1JONzNrX2tHN2hOZXY0R2NteU96RzdnOEJzUy1zNGxjamRocFV3dlhEVUdUT2pockF5UGl3VHpn?oc=5
-- **Source:** TheBusinessDesk.com
-- **Published:** 2026-10-14T10:52:30+00:00
-
-## 17 organizations using AI to accelerate scientific breakthroughs - blog.google
-
-- **URL:** https://news.google.com/rss/articles/CBMirAFBVV95cUxOYzB3aWs5clBZYldydVVUcFRjN2dUUHFxMm42SC1wRDIxdU82ZXJnQXh6U1QyTlZ6X09wNEtpNi1yLVBlaV9HTUtkQl83SHZ1S2NUZHhFM0JQOFZDd203TUpuLVRLTllhNmFMS3RRZmdzblNjMVVOaHQ4RVVhWGNEeDBCc0h5TE1kYUxpSDBIaDJNdU1JSlplVko0UzBTRktfR2pSWGZuRWxfa0RQ?oc=5
-- **Source:** blog.google
-- **Published:** 2026-10-14T09:50:07+00:00
-
-## Seventeen Organizations Secure $36 Million From Google.org Challenge - Unite.AI
-
-- **URL:** https://news.google.com/rss/articles/CBMikwFBVV95cUxQMXVjRkpPX2JFd3Z2Ykd6SjltT0RtZlJzMDRFcHdPRHhUcndFQlp1dTBPenNHbG16akg0SVJMenFwRnRieWk4UUpDTEhMNXA1aGVwS3ozdXkwRTdJWW9yTndablZZZTJ1MnM4S1E0Z1lfYXVqRXlLNThmaGFlOUg0QmpGU01SVHNENG95STVLaTUxZDA?oc=5
-- **Source:** Unite.AI
-- **Published:** 2026-10-14T09:50:05+00:00
-
-## A closer look at the initial NLIC selections—Part 2 - American Nuclear Society -- ANS
-
-- **URL:** https://news.google.com/rss/articles/CBMikwFBVV95cUxOUlp5V3VnanZPQ21uTHE2M1A1VllsOTc2MVFhRWc0dnlfM2stZ1Fpb3pwUFJPbFVORGZ4dmNoNEVWaXp2YzVvRzVsbEdhd2F2eFloYS1wbXVEU3BHeFI1Q2ZDZzg3M1VMcEpwUUpnaGstUTI0UFhIRHRRWE5tQjBNZDVMT1N2eXFKOEI1cGctOEVZbTA?oc=5
-- **Source:** American Nuclear Society -- ANS
-- **Published:** 2026-10-14T09:48:12+00:00
-
-## AMAZEMET & Fusion for Energy to cooperate on metal AM and advanced material joining technologies for fusion energy applications - TCT Magazine
-
-- **URL:** https://news.google.com/rss/articles/CBMi6gFBVV95cUxPdEZ2dFE4eWF4TjdMVzgtalZIWlR5LUw0Y2NFRUJqbm1teE1oWkRlOXV4dURjV1NPUy0taU83X2pvc1BLUlM0YkF3VEhPdEloeE94SGxXdW9pY0JYVHZEWDc4dk5tOFNQSm45U0hnSUVibFRZX0pBTl8wYW9Hczdwei1RNlRzM0JsOEI1SV9NSWdkUklSb3ZNRE1WTl9TSXZWLXVURHdMYUJYZWFFR0g0QkRzazQ0N2RMQmZCeS1UN0lGUnM3MHFiRTVjd0s0ZDltbXp4OFVSN1ZpZ1F1MzMwLUdPcTNXb0syTGc?oc=5
-- **Source:** TCT Magazine
-- **Published:** 2026-10-14T09:47:16+00:00
-
-## Temasek Trust, World Bank Group tie up to advance initiatives in climate and energy - The Business Times
-
-- **URL:** https://news.google.com/rss/articles/CBMiwgFBVV95cUxNM1h1NmYtMndaMWxMMTVkLVV5aXhYbHZjbVIydUh1bVFPZDRCbzVoRTRhdlhubEsyTEV5dGRZRWM4ckNUbm1CSFZWNXNveUotcDdiZDBvQ3dyT3lwT29kcmFXSkVhZExRTlVERGpLTGVmdnc5WGFKQjRpZW1TV1pZV0tlVVFRVUNZeDc4LXYwaHRNNkYxdFROVUpLd2psbEttNHJvaTdwYWo1ZVFLNkxuQlo3LXl4Y2tBNm5BbGZwSmlOQQ?oc=5
-- **Source:** The Business Times
-- **Published:** 2026-10-14T08:17:00+00:00
-
-## £120m invested in STEP Fusion power plant as UK supply chain grows - Innovation News Network
-
-- **URL:** https://news.google.com/rss/articles/CBMijgFBVV95cUxOX0wxV2VWT1pWd3E0VGZtZ2pWdWNNZGQ3Q2Ztdl9uLVp0TGZ1Mzc3UFhqLXo0M3Z0a0pQMFpDTEJNRmtmblp2ZXJtaGlYbFNpMkRNbUJ2N25xbE5SNFMyemtzY1Q0TXlSU3lXaW0zc2taQXJoVkpLNnZNN0pQZnpyUmNkS2g3VzR3eEVieFNR?oc=5
-- **Source:** Innovation News Network
-- **Published:** 2026-10-14T07:18:39+00:00
-
-## Pulsar & Lunar Helium-3 Mining Sign Evaluation Agr - Share Talk
-
-- **URL:** https://news.google.com/rss/articles/CBMiggFBVV95cUxQeWV1N3R5bmI0ZzI2czhueVRMUHQwaE80S3MxaldOMWFzV3Jpa1lyX21wZXNJM2NMRWtrcHh0UWVkMHpkellKU2ZVUzRFV1lNY2EtZFpsMTFPM0N1WHhQNHZUcVFNUUhPRU9rRFE0OXlxWGNTYThkX1RxcUI5VG5XY3Jn?oc=5
-- **Source:** Share Talk
-- **Published:** 2026-10-14T06:42:52+00:00
-
-## DAILY:DIRECTION Debuts Mini Album 'WHICH WAY' with Genre Fusion - 조선일보
-
-- **URL:** https://news.google.com/rss/articles/CBMijgFBVV95cUxPRzFTZ2VFT294WWFkV1NMTjN0MnI5cFRiUEJFNDVob0NtaDZwQXNjZldmUWVzUEJZREp6dHRrRWh1OUcxSlg3S1QySGFwbW9HbmJZZE1scjBacEc2UXdFeEoxTEk4R1pOU2hETnU0amxMVFJkRDRBM21jZTY0VUNDeG1QUmJmcFNNZGRvTXhn?oc=5
-- **Source:** 조선일보
-- **Published:** 2026-10-14T06:41:30+00:00
-
-## Fusion ignition: Princeton model finds efficient new method - NewzTodays
-
-- **URL:** https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSGJqRC1XQXVxRzFGQ0tEX25PQjNpb3hGd1p4WVAteVhPOG9TQkN6R3B2WW5zWHcxVHEyOTZ2TmpkdHlid1FKcUxCOHY0MU1WTktQUWFMUkFoRVlsc2kyby1ONEg2RU9vdDZwUXo4dlMzVlJ4VURkcmE4RHVnNzlYcml1TVFSY0x1?oc=5
-- **Source:** NewzTodays
-- **Published:** 2026-10-14T06:38:51+00:00
-
-## Pulsar Helium and Lunar Helium-3 Mining partner... - Pluang
-
-- **URL:** https://news.google.com/rss/articles/CBMisgFBVV95cUxOekc1UlRucTdJVzRoWHYzSUQ2LTM4Nk04cTdoYVNzdEpoTEEtU1JDcDUtYlJZZjQwNjcyMzVJa29NZFFpeGl6OS16ZGNnOE5BOEZwR1JhMGdSYWZfbUZaXzZ4U0JfakU2TEplQ3B0ckt1QVZwU29yR3ZRTnJnMVgySkZQYmh4YVh4X2VZXzBpVFBVTWwxMzIyaVNtRUdBeTlHTXh3TE9CeDhqUjN6T0tLbEZR?oc=5
-- **Source:** Pluang
-- **Published:** 2026-10-14T06:24:24+00:00
-
-## Pulsar Helium and LH3M Target New U.S. Helium-3 Supply from Topaz Project - TipRanks
-
-- **URL:** https://news.google.com/rss/articles/CBMiwgFBVV95cUxOOFJub1VqeXBXMUpYSXlQVGxFd3ZpUHBCNnJtREtkMDhiSzFONlRJeTNaUEJpWFFfYVk0ckVrODJBMTBvRmFwZFZRNWFhRXIzS2JmYy1xMk56NjhxZUJhNnhzVUpveE5BdjU1c3FVdmhQUEg1OEoybHBISHgzaWh6QkVuX3VmTGRfN2oydmRNanJ4WUlpYWl3VUhwUEpYWEtHV2xMM1VaRWo1eUJoNWthZGE2X0JZZ0FSTDNqQm1nS3Rsdw?oc=5
-- **Source:** TipRanks
-- **Published:** 2026-10-14T06:17:08+00:00

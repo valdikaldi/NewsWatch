@@ -1,8 +1,62 @@
 # NewsWatch — Apple News
 
-_Last updated: 2026-10-15T08:56:03.929622+00:00 · 50 articles_
+_Last updated: 2026-10-15T14:42:39.770919+00:00 · 50 articles_
 
 ---
+
+## Apple (AAPL): Can Longer iPhone Ownership Still Produce More Profit per Customer? - Yahoo Finance
+
+- **URL:** https://news.google.com/rss/articles/CBMioAFBVV95cUxOVHRtOXNvNXNlN3VZbVUydFBpOVRaMjJXR1RlNk14M254QmdSMGlLcnRjamlibWthSXFxWlFQczNXY2xsV1JEWWxscm1tdE8zZGJiWmxzazJVd1pndXlHQXNDanlab0hvQlRBSm1kMTlXbzBEbDlYUkJVOTVtQnFpbXN0elZHblV4bmhyLVFVTHZHWXZ1X0k2MHdNVzZwbzBi?oc=5
+- **Source:** Yahoo Finance
+- **Published:** 2026-10-15T13:38:15+00:00
+
+## A 20% Drop in Smartphone Shipments Shows Who Wins When Memory Gets Expensive - TradingView
+
+- **URL:** https://news.google.com/rss/articles/CBMi0gFBVV95cUxQVExfV2JRTDB5U0xxbnRrcUNsRVZsSzhQeXBaVkJ2d3M4UURBLVY2QkVuMmlJbVBvYmVwVER3X0JJbk9XMmNUbHRpSmNEeWxUUllMM1JuNDlLd3E2dFE5ZW0yMWtFeVZvTjlzdVBhX0RqT1ZCOENybUFjQm5iaU83VzJDblpkakR5UFFJTFFCNjdNMGt0dUtCZjFBVnhCaFJXRmRNbzlSSnI1UDNqT1hMcWxfLUpFTnRoOGdFeGhxeXNEcE9aQ3k1QVRLYzJTNEZMcEE?oc=5
+- **Source:** TradingView
+- **Published:** 2026-10-15T13:28:00+00:00
+
+## Apple Wins The AI Ecosystem Stories As It Retests 2026 Peaks (NASDAQ:AAPL) - Seeking Alpha
+
+- **URL:** https://news.google.com/rss/articles/CBMioAFBVV95cUxNQXE0RUVOVERUbmVaS1VzNE1zYklNUEp0azI3RE9qUGY5QkVuaGxoS3ExX1FyalNMbVpwbm1IemNFSjBGcmc2MGt4TDE1VWlGWEtWYzFmd2VnQ1hoS2tjMElxdmh4WGNRV0ZnVHl6NTZ3dnZLa1Bwa2J4NlAtTW1wb1Y0SDJlSDJRalpqYUdsT2FEazNxbzNMWlJuS0JMck0w?oc=5
+- **Source:** Seeking Alpha
+- **Published:** 2026-10-15T13:11:06+00:00
+
+## Apple Hits $5 Trillion as Wall Street Punishes Big AI Spenders - TradingView
+
+- **URL:** https://news.google.com/rss/articles/CBMivgFBVV95cUxQT2JrdnFUVU1UT0tOZzc0TWNxTy1wbkhtOGdDVTI5S1hJaktsMGdBcjgyZ1VhMGZmdy0yZ0hiT2tmRzFkYU9xWUVKNWZaWDdtR1dNS3V4bEpNaEQ2RmhjVEJodi1NNXExTWdSUUt5eTQ0ZXVlQTYxSjAwVld4eFFPbDhscG9QUXd0ZHJvVWg4REY1dUZCRTZoQlkwTFdzSVBWaUw5QjdMdmpnZlVXV3EzQzdvWHUtcHJsY1VtbGVB?oc=5
+- **Source:** TradingView
+- **Published:** 2026-10-15T12:16:57+00:00
+
+## Apple Intelligence Reportedly Nears China Debut After Delays. What to Expect - Benzinga
+
+- **URL:** https://news.google.com/rss/articles/CBMi0gFBVV95cUxPYmhjbWNZLWlFVHpMZ3lqdU9ON1lBcUptVjY1WmxDUUppNmFRNlBuY3BMejM4S0dFZktQQzNXYVU3bTY1eEk4TFh3c1hlWUhxb3BjOV9tU0pPbXQxN0hEZk1RTE5YZm11VjRpNXBWOW80Y1BuVFRmTGdzTWU4NVI1UFVxMWlLQ3hBRWU0VW1jWU9zT3VMQm5mQjRQZi1pUzhrT1A1S3NRSXRzdHBheFExYTN4MURYeFIzNXNQanZieThHbkprMVVQMncxci1DSkM0Q1E?oc=5
+- **Source:** Benzinga
+- **Published:** 2026-10-15T11:26:16+00:00
+
+## Invesco QQQ Trust (QQQ) Adds Nvidia and Apple on Oct. 13 - Yahoo Finance
+
+- **URL:** https://news.google.com/rss/articles/CBMilgFBVV95cUxNWUpIaFpOZXRPY0l4Nml4WUFKX1ptY05QYTRKeVM0TDdIanliMjJwT3Y0cXAzRDNtMHVlYnpHM204RGg2Z2F0TUpSekRsLTM2bWJDeEhSQlJwQUkwdm5hX2ZlS1ItNDEyRlByaFBTRURQY2k3NGxFaEEzajc4Q0gzS2tfaTB1cDVVX1Q3aWU4Q2gyZWpRQmc?oc=5
+- **Source:** Yahoo Finance
+- **Published:** 2026-10-15T11:04:03+00:00
+
+## Can Apple win over smart-home buyers where Amazon and Google stalled? - Business Standard
+
+- **URL:** https://news.google.com/rss/articles/CBMi2wFBVV95cUxNSldtSzYwYmZoY1kwQVVlekpCcXdpOWhudk9OTXVGRWV5d1pQcEpmcW5xd1ZzY2w3QzJYNEJNOWd3M0E1Zk5RTGczR1h6cmRKbFlHckpXbGF0X3Q4MUdYanRPTk1qaWxvUFhJeVdnbWttdUJjSTNRZE5tX0ZRU0dOQ2ZjbUJQOFJFTmpGLVVWa1dfNmhQdzdWRTJqbVYtVFBnU0dzcEJGd1dmV3RxVW1IcjBoVlFIUy1iZzMxQ1FHSGFrd2JVU0NocTZUMEhERkVpZ29pTkt1eHNRS0XSAeABQVVfeXFMTzZESndTU2MxUVhJM2IycHJZNTdFSE5uUk9vdGoxZ1JOUmc5UE5nN3J3ODdES01EdUFiUHpGVnhVRGcxT0lZT1I5TWF6bG9sMmVyRjVEcFpEYWYtQVktaEljSUZfb3dzRzBsY2gzYW1YUnU2eWVIZG84YTFVVHBFQ2tPS2hHUktCQ0NpMXlhbTdxZnBiSnQtWDJxdEFqcGxmbERtS2RBcEg3UGhYbnNWSWRJVE5RVWYzMUczcmNJZ0NkdDFNbFkySmF4U3pKalpBVUU2RjZCNTZJdHpLRWlYOU8?oc=5
+- **Source:** Business Standard
+- **Published:** 2026-10-15T10:56:24+00:00
+
+## Apple Latest Results: Revenue growth trails industry average at 16.36% - scanx.trade
+
+- **URL:** https://news.google.com/rss/articles/CBMivwFBVV95cUxPNjJsWDNYLUhXYkNZLVAzTExGTzVScnlFNXZjUEl3QXljbFM0Mk91MExFMEkyU3JyMjdGOEdVX1NsLS1kcjJFcjlHUFNkY3NGRTg0QTVkeTNqX0VWV2lyNUVhaTlsMzlHZndoU0lUQWdBMGRkYng4WUpCNkNhTnlrTWNkenpTa2JCVGxBWXBSNnF4S1NTNGtOckhYcjZuT0JIc2M4U09XcDBpdUM1dHJwUncwQWVFNzF4bE54OWh5TQ?oc=5
+- **Source:** scanx.trade
+- **Published:** 2026-10-15T10:25:27+00:00
+
+## Premarket Movers: AAPL Gains On China AI Approval Report — Why WMT, NFLX Stocks Are Also Rising - TradingView
+
+- **URL:** https://news.google.com/rss/articles/CBMi5wFBVV95cUxPRlF0MDNmcUdwMTItLTZ5UWhCaEhsTzBrcVpRSW5ZUVZndXlfY1lMRHZicmVoNS1rYnJYajdKRVFEYUhudlE4SFlmY0VscndnRlFrWGpHZmsxTEhoN21WUkptWExNSWljT1M3QzFFVEpiSDY5c0V5TmRzamJtTnR2cWEyV1RLUVZoOGk2TXdCWWJSQmpMRHFlWDJJeHF2azA4Um0yRkZyQkZDVGFvYWZEandlQWVMMExXdUxxYWJoWDduS0xyVXd3eVRzd0k1R1M5SDB5cUlmdTRFc0ZkX1p0dDdCM0Nhc3c?oc=5
+- **Source:** TradingView
+- **Published:** 2026-10-15T10:19:03+00:00
 
 ## JPMorgan raises target for Apple stock from USD 340 to USD 360 - ad-hoc-news.de
 
@@ -249,57 +303,3 @@ _Last updated: 2026-10-15T08:56:03.929622+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMi3AFBVV95cUxPWWg1RF90dzF4WHAyTHdUb0YzMkM0QXNZZFJ1RF9Ddkx2cVVKM25LbWdwV1MzNVF6bmNneW9rZmdNWG9NcUpfLTV3S0F3UEpWUDBDcUs1YjBFQUlid1FjRW9JWk92R1NaVWgxc1JTYkI2aDgxejA1b2FqTE1tTGxNUmZDNTZzZ05Pc3NEODV0b29XSE81Y0gzY3dwOXR0TW1ZbTBIRnFsZG9BazFSaEl4WS1OdGxJdk1EbS03R25reWF3SHBXQjhYamJTbHFXeDA4WVVPa25XaFgyWVJY?oc=5
 - **Source:** TradingView
 - **Published:** 2026-10-14T10:06:53+00:00
-
-## JPMorgan raised target for Apple stock to USD 360.00 - ad-hoc-news.de
-
-- **URL:** https://news.google.com/rss/articles/CBMitgFBVV95cUxPMTdnWmxPQllSSktHekhHRDE4NGxCN0haMDY1Z3BveXRveVJENUZ2TTdjd3FzQXdmeHZ4M0dvYi1yZ0NDRlUxVzRlbldsZXdLT3ptcXV2SS03VlNlWnh1LTRLbGxKWGRMcnVMdWpqczREV01HVllXUk9IQW9sRGJiMEk3UEZ5cTh1WmlwV0xOanRpVEtneTh4VmRQRzhKcnNOeEZOd2Nka0tIR3ZsOUFqV2dSejA5UQ?oc=5
-- **Source:** ad-hoc-news.de
-- **Published:** 2026-10-14T10:01:47+00:00
-
-## Apple Inc. $AAPL Shares Sold by Private Client Services LLC - MarketBeat
-
-- **URL:** https://news.google.com/rss/articles/CBMiugFBVV95cUxQcS1MWFVtT21XQ3YtYVV0TlhhM2ROSm5pblBCTTk3N1ltYVNDMDR5Wk9IWVpOb3JUcVkyN01Ca2xNMUVlWms3c0RKV1VsUHZNYmIxamVBZmFRa2pWMVA5VDFSZ0NsUGc0aFQtcTc1TllLSkd2UE1tT284YmczRFFybExOMVNicXVRaUx6VXR6aHRjMk9lVUJWWThFcnI5UWs1X1ZwRUVFWWpLWC1yTWl3RGZMQm1fZnNoU1E?oc=5
-- **Source:** MarketBeat
-- **Published:** 2026-10-14T07:41:08+00:00
-
-## Apple Inc. $AAPL Stock: General Partner Inc. Cuts Holdings - MarketBeat
-
-- **URL:** https://news.google.com/rss/articles/CBMitgFBVV95cUxQaThUd3JzRWlLTDNNUFMxRkFBd0hpMVEyT194clRpcHRCU3Rab1NUeEFSQkpxbExvdG9EZ3BySnJKdzBMYl9LNE95RGJPSEFLeVN0VE5VaF9zV29kQnVBUnFrNnZyVWREbmRPenhJUC1FTjhQWHVqTy0wbERCbkdJaUZGVDFzS0pDMXhsNFAwejN0VXhYWWd3eGRadlR0TjNsbFRBbDZZbmh2bDU0T25jTkV3ZUpDUQ?oc=5
-- **Source:** MarketBeat
-- **Published:** 2026-10-14T07:41:08+00:00
-
-## Apple Inc. $AAPL Stock Bought by Park National Corp OH - MarketBeat
-
-- **URL:** https://news.google.com/rss/articles/CBMiswFBVV95cUxOMTlqdjFyRDJ3WWU1WWJoLVdFRDVvWmhmV0d2eXM4dlV6NnZ2ek1scUJlTGVHVk5HNmhIZGxlaXhiT2tpLU5UTndKMHNUV2gzSkYxYXo4WVFabVREUENmNVlvOHVRSmQwZjI5V1BlZ0FxQjc5T2tvc1BBVkFmOFlwcnd2QnVJeE1UZWkzSHRpNDVKcS1sMHZGVXFocXEyN0ZaRHJrX0VOTkdYZkdPcnJMZVUybw?oc=5
-- **Source:** MarketBeat
-- **Published:** 2026-10-14T07:41:08+00:00
-
-## Apple Inc. $AAPL Shares Sold by Neville Rodie & Shaw Inc. - MarketBeat
-
-- **URL:** https://news.google.com/rss/articles/CBMiswFBVV95cUxQWkN6Mk5sOGEwRHdLMXY5Z2ZQNlBvYkx0Y29fVXBfUW40dlN3OHhJRF9mRWc4Qmt3QVFFb2Z5TExlRXpLSTF6cl81YlRUeEtDUFUtMGxZd3B3QzVmOXc2ajI1bWVGVWtHc19lSks3dzdLMEpiaGVhT2tKeWdJSDRjSXBhU3BVSWt1Rkp5bmRVX3laU19maVVacjE5eEJMSWljc2ttQ09HY1VkTFo0Vy11d3dFQQ?oc=5
-- **Source:** MarketBeat
-- **Published:** 2026-10-14T07:41:08+00:00
-
-## Apple Inc. $AAPL Stock Purchased by Global Wealth Strategies & Associates - MarketBeat
-
-- **URL:** https://news.google.com/rss/articles/CBMiygFBVV95cUxOUWF2eER5aUpSRXN0S1c2cG5pbXdBZmZ2VC1jMGtqUWNab0cxZEdBRWY1b0oya1dUZmdqcE9jT2ZaXzUtVExFdEtLdTJuZGw5TzVCWldZZEtMUVJjLUpoUHVzX1R3dlpGZDlMZGNra2gyLVRoTUhRQnhhaFk4emNDN19EN3NUWWRmd0RPODlXLWJCSW91ZDFQcEpGU19xdzZuVWdxajc2Qkw3azVMQmRMbWZLOWdHcDg4UDByUHVUa0dNR293UzZTUG9B?oc=5
-- **Source:** MarketBeat
-- **Published:** 2026-10-14T07:41:08+00:00
-
-## Apple Inc. $AAPL Stock Purchased by GoalVest Advisory LLC - MarketBeat
-
-- **URL:** https://news.google.com/rss/articles/CBMitwFBVV95cUxOMy1vVkIwNEY0cGpDTkVxRHo1VGpiNWNnLVFQYXV0Tlpxd3F1VFozOVRvZk5DNGh3V28zZ2k2SlM1MmMzc0NSWURzRktWaFpjWWhQcUt2emhXLVZGS2ppaTNZNE5NQ0Jvbm1tS0xTMWhMdWtwSzFzQmtnTkRSUm9XdzMyc3I3LWl2RDN3WjJOOThXem1FdTRVbWFvN0IzUWNJVF9DdTdrSzItbXA4UFZlaUNEUWNHSHc?oc=5
-- **Source:** MarketBeat
-- **Published:** 2026-10-14T07:41:08+00:00
-
-## Polaris Financial Partners Makes New Investment in Apple Inc. $AAPL - MarketBeat
-
-- **URL:** https://news.google.com/rss/articles/CBMixAFBVV95cUxPMlVQeS1IRUZENVd0SmVWRTVIS1NaOVRUdnd3NTN4dmFkUW8wQzdyMWx2b1R0TGtmVWNWSTU0YkVMZmZRbkk3RXB1ZHRBS05FbzhzRm1uazhzRk1kWjN0YndIdEpiODh4TzdrRWs3NkY1M3dCMWM1clpPNmp2X1RncEZ2QXE4QWlpb09kb3p4ZjdZQ3dBX3Z4ZmlOVDlncW0temVLN3FzM2tkMXFGUlpyUDdFOGxOS2I5Y1M4b05UeWNXTHJJ?oc=5
-- **Source:** MarketBeat
-- **Published:** 2026-10-14T07:41:08+00:00
-
-## Violich Capital Management Inc. Sells 3,240 Shares of Apple Inc. $AAPL - MarketBeat
-
-- **URL:** https://news.google.com/rss/articles/CBMixgFBVV95cUxQTGFrdDNiT1pMcjhwR1hPY0NHRU4xR3NydW5xcXFKUkhFMmVseUpmOG1VeVl2Q1pNdm8wMEJJWXJRV2F0V2tURjV6VjU4TUZNWUg3NFhxODVFQjE1dm1kakxkXzZXM2pvT0NRSmdNVmNwTEhWSEVjN3JEMVFXZVViSENLNWtUbHRCM01mbHlOa2hVT1hOSlU2U1NuRG5EUkRmRjFybUozcTNkampNMXE0bmtBNmhEb0xMcEVQRzRpeEdWR0djX0E?oc=5
-- **Source:** MarketBeat
-- **Published:** 2026-10-14T07:41:08+00:00
