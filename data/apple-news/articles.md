@@ -1,8 +1,26 @@
 # NewsWatch — Apple News
 
-_Last updated: 2026-10-15T19:43:53.150699+00:00 · 50 articles_
+_Last updated: 2026-10-15T22:55:33.279286+00:00 · 50 articles_
 
 ---
+
+## ANTITRUST NEWS: iPad consumers... - VitalLaw.com
+
+- **URL:** https://news.google.com/rss/articles/CBMinAJBVV95cUxQbkdQMzY5N1IxSDN6REFrMlRWb0ZOcklxblNRWU5PcWppakZ4T3RfcnJST05PSXRUekZwaXRrRWVGUHQ3aVdzVzctcUdELXRDWDYxMnhra254Y0J1STFGVFBnVFY1NXNUTy14MHVTMUxWQ3B0clZJTmpsRXZPUHUxZDV2cWJyQjJKWlJDUHR6Y25zZzRZX3RCVE1Uc2tzaVAtSG5Id1VSRG9TLXlwODlnMnlpMzRid3NULVZ3RDR0dGhfYVdOOWdTd3NsN3NHbjB0Y2lhR3ZBY1hmWEFqTThGdHZaS051bks4N0dzWW5UdDlCX0RLd0RpRnRKN25BeVFlNFU5bDNHMkJxSWJmOHByeHk3Sy1OXzFXeGp0Ng?oc=5
+- **Source:** VitalLaw.com
+- **Published:** 2026-10-15T22:39:30+00:00
+
+## Apple (AAPL) general counsel sells 2,399 shares at $345 each - Stock Titan
+
+- **URL:** https://news.google.com/rss/articles/CBMipgFBVV95cUxQOW5pLVlhOGg5ZGRGLS1DcHJQZUNmVXpyZW5FQnkwem1VdjF5QW5qR3BpbUJlSzViVGlicHhNV2plekNGQnNrcHlELUN2MWhScU92REhrdjVjQW9EZkhGRXRjR0N6LWFpNHJQV1lyNktWdVNaallKVl9qeFdIa0FKTlVMM3puVVZidExVeG8xYy11aHVJTlRrMWpic1AyTmhJT3pDRWNR?oc=5
+- **Source:** Stock Titan
+- **Published:** 2026-10-15T22:30:43+00:00
+
+## Stealth Bear Market Highlights Market Divergence as Apple Inc (A - GuruFocus
+
+- **URL:** https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVFVhZ19xVml4N3pnQlVGNW53YjFKWmlLQlp4WWp5YXBpcVNBRXFVVGRHMEp4TWdhOGVHV1RqTlNiOVI2ZEh5eDNmRUNLV0VYSFFmZFN5V3ctS0xkYVBOMXNxa3c5ZG1UdUpIUEVTRWR1bUJoNHh4bXhkUVdDVDdFVVlKcFRhVlBJQlJma19HblJTNlhHX0JwOTNSaTJTRHczaUd5UXZlYnRnR2FtT053dXZVczBVTDZfalBoXzl3OGY?oc=5
+- **Source:** GuruFocus
+- **Published:** 2026-10-15T20:11:26+00:00
 
 ## Apple's New 'Home' Run (NASDAQ:AAPL) - Seeking Alpha
 
@@ -285,21 +303,3 @@ _Last updated: 2026-10-15T19:43:53.150699+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMitAFBVV95cUxOOEVXU29ySjlwOHNXR3lHZ3BxWVk1M0NmNGMxWXNuSUtaSzF1ckRDQUNNd1Jpc0NBN0k2cVlWZEdhaUdnQjVRVzZyMWZhWGk2TFoyWjVqemZVSmRJOGh2cmQtSHlobWVuNi1yWGdyNnl1YUZSdGs5al94QVVTaklHVFhjVG1yMmppMTJQMmlpUDM1Tm8tZ2tHNkFGSVgyZXhzbE5WQUFOUHo4Znd5OHl0WXJlU3A?oc=5
 - **Source:** Claim Depot
 - **Published:** 2026-10-14T17:28:42+00:00
-
-## Apple's $299 HomeView Could Boost iCloud+ Revenue - Apple (NASDAQ:AAPL) - Benzinga
-
-- **URL:** https://news.google.com/rss/articles/CBMisAFBVV95cUxOY3FZWjVlNGFWb1hTdl9MYndOWVB1d0tzUENxSlRyQ2ZlZTVLSm1yTlBORjNheURXeVVUS0JDMzMxRjJNbUhwYXJBWXB0Y0Y4ZW94NE4zMHN6bHdOZ0RaeVhOeTlqbl9UYkwwR2lINXNfalhDYU9HSlVtRjVsQlZTQ0wxNkI1VURvUENaZ0FhS21NYXJCTmRxaTdfVktraDgzT2V1SE8xdU5ETEFUZUttdA?oc=5
-- **Source:** Benzinga
-- **Published:** 2026-10-14T15:58:35+00:00
-
-## AAPL: Apple defined, key history, primary product lineup - 9to5Mac
-
-- **URL:** https://news.google.com/rss/articles/CBMiR0FVX3lxTE5YT25nRDV2WDBrbkJNcGEtUTVaMXUwRUZiQjFPWURPanYxM0RaRE9yblZHZFJMbmpWT2FmaXhCanlyWFNwM2ZF?oc=5
-- **Source:** 9to5Mac
-- **Published:** 2026-10-14T15:58:34+00:00
-
-## Apple asks judge to overturn $5.7B patent verdict in Taction case (AAPL:NASDAQ) - Seeking Alpha
-
-- **URL:** https://news.google.com/rss/articles/CBMiowFBVV95cUxQUmQ2MWpuaE8ycU1lbVA1WUc5cmpUcWVUaG15ZGstcjFVZFhweEVuS3FFTGN0blAtdHBJOHZMZnFWVWFKWTFWNUxReEsyOFJOazFLdFROSWZyQ1dPcVZOQ1RtUXJpblBqTmxpRHUxWlAza3RwOUhsVWZIczJhR1FTSW0ySTloSk5fQzNPSmU5YzllbUFOS19WQ3gzSUZRNUJTb3Y4?oc=5
-- **Source:** Seeking Alpha
-- **Published:** 2026-10-14T15:55:31+00:00

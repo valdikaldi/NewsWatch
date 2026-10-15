@@ -1,8 +1,38 @@
 # NewsWatch — fusion energy News
 
-_Last updated: 2026-10-15T19:43:54.344590+00:00 · 50 articles_
+_Last updated: 2026-10-15T22:55:34.880099+00:00 · 50 articles_
 
 ---
+
+## Fusion CX IPO GMP Today with Listing Gain Expectation - IPO Watch
+
+- **URL:** https://news.google.com/rss/articles/CBMiakFVX3lxTE9mOEt4WmduUHJzX3dQUWViTzYwclF1M3FudE9uNkZqbTdUMFdRZi1zMGVYYmZJY0pab3hpbTI5N3g2a1FidXNNVXBjWHNqSDNoekxRbUp6Q2d1LWJRaGhFMC00Nzl3S0FYa2c?oc=5
+- **Source:** IPO Watch
+- **Published:** 2026-10-15T21:00:00+00:00
+
+## U.S. Nuclear Fuel Independence Edges Closer as Urenco Expansion Hits 75% - Crude Oil Prices Today | OilPrice.com
+
+- **URL:** https://news.google.com/rss/articles/CBMizAFBVV95cUxQQVVxTjdmdHhEUTJWM0Yzbnc4RnFRbE5jMTRrQldJZ0h3Zm5BZDNUWU5pVEpMMHJ5bUV2WU1Ock9sbHJxeHNvRzBuQWFtUlpfNmt5VThncFVQbEpmbE5Jd3RsQnpzOW96T3cwTEhtZXNVQmtTcnNCZEdILS1ab3VEU3VteTNkWEhCRVhMMXhqOC1IVDltbnRqSEpET3RRYjdIWHkydzNHUzg0ZmpfRUNMamhadHBVanlKQzUwVDZxRXVRQVgtWmNCa0JQbUTSAcwBQVVfeXFMUEFVcU43ZnR4RFEyVjNGM253OEZxUWxOYzE0a0JXSWdId2ZuQWQzVFlOaVRKTDByeW1FdllNTnJPbGxycXhzb0cwbkFhbVJaXzZreVU4Z3BVUGxKZmxOSXd0bEJ6czlvek93MExIbWVzVUJrU3JzQmRHSC0tWm91RFN1bXkzZFhIQkVYTDF4ajgtSFQ5bW50akhKRE90UWI3SFh5MnczR1M4NGZqX0VDTGpoWnRwVWp5SkM1MFQ2cUV1UUFYLVpjQmtCUG1E?oc=5
+- **Source:** Crude Oil Prices Today | OilPrice.com
+- **Published:** 2026-10-15T21:00:00+00:00
+
+## Vistra Redeems All 8.0% Series A Preferred Stock at $1,000 a Share - Securities.io
+
+- **URL:** https://news.google.com/rss/articles/CBMilgFBVV95cUxNOVFPMHpOWTB2MUUwaHJaUGY5cVU3aWRyUFhGSUZ3eEFFekh3dzJfakNwbldFTDVVbFdxb0NLdHBROEpWTXlBYzM5STNNX0FNbE80OGJkcm55amo0c1g2LTRBTWtTZkttUEE0cU56OGdRNGFfZGVpZDJUTXVUNGlYUUl0dWhqRFdlRWxKUjZwdDBHZDJJLVE?oc=5
+- **Source:** Securities.io
+- **Published:** 2026-10-15T20:36:03+00:00
+
+## Researchers improve weather forecasts looking two to six weeks out - MIT Energy Initiative
+
+- **URL:** https://news.google.com/rss/articles/CBMipgFBVV95cUxNVWh4ZTVRNEhJWFpJS0wxaFUxbFFJSmtidF9hcGZzRnE5UXk5MmtBSWFlYnB4WUczZFh5c0Njanp2VDg2Z2JQZURSaTA4cjNSWEhKRTdRZnhIOUFYMFRYa2RCb2JGMHJpTTdTSHVTMXNSMzJseEdTVXBzUGRDNFNNalhZLVZ3eVQyTThhcDA0LTQ0N1dBREJlbENLLVVxSFRNSnl0NThR?oc=5
+- **Source:** MIT Energy Initiative
+- **Published:** 2026-10-15T19:52:30+00:00
+
+## Squeezed by a metal wall moving in milliseconds, a fusion machine in Vancouver hit 12 million degrees Celsius this week, and no slow compression device had ever reached that mark before - Energies Media
+
+- **URL:** https://news.google.com/rss/articles/CBMifkFVX3lxTFBvYmlBNWdsUk82ZU5WTER6WkE1ZWowODJ5aFpiQnhWOGF0SV9PSVNRUFo2ZGNkM3UwQk50MVNqWDRwUEs2REtTVlM5X081NWNHZHAwQjUyamJjRUJ1eFpYX3dONkVzaVhLMHN1T21lRC1UMGJWeVgyYlhJaHBJQQ?oc=5
+- **Source:** Energies Media
+- **Published:** 2026-10-15T19:50:00+00:00
 
 ## 3D-Printed Reactor Parts Face a Harsh Reckoning Under Nuclear Irradiation - Bioengineer.org
 
@@ -273,33 +303,3 @@ _Last updated: 2026-10-15T19:43:54.344590+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMi1gFBVV95cUxOOEwyMXdoNlVXVDhFelVUOHlJcWl4S2h0SzhndjRZd0VjRG5BU0pGUFZhWWs2UUMzZFZ3Yk9uMlY0YjlJZURScF9tVTFySm1TXzVwQzdOOFdRZnpUS3EzSXpRcFZQVVRaRUljc0paNEhWYURSY09ZVkdEUGVPUDlGY1pRVTFwMlcxT3NUNVRkQkRXcTB4aFltS3FQenlfTGZjdng0M2lUbU4wOG1zSzV0Z0xpNGtxZ3Q0dmc0R3JOZUV4TUlxTE04bnUyRVRkaVJCS3ZTUU1B?oc=5
 - **Source:** American Nuclear Society -- ANS
 - **Published:** 2026-10-14T22:00:17+00:00
-
-## LLNL Scientist Andrea L. Kritcher Earns E.O. Lawrence Award - Newswise
-
-- **URL:** https://news.google.com/rss/articles/CBMilgFBVV95cUxNTENVa1kzWHhQZjQ4WFRpSkR4NTdqTlZSSkhta3BrZ3Vvd1JlUWl2emMzWGRLamRDcjJUR0NWcEl6ajM2VFlwVUNTblU2dTlBNVRjeDZ6QllURUtfM1Byc2p3bjg5d3BHNmJZbkF0MnAwTzZfOHdkazZLTDFYOE9FQVJObV92a1prWG9FUUp4NUVZRGU0aWfSAZYBQVVfeXFMTUxDVWtZM1h4UGY0OFhUaUpEeDU3ak5WUkpIbWtwa2d1b3dSZVFpdnpjM1hkS2pkQ3IyVEdDVnBJemozNlRZcFVDU25VNnU5QTVUY3g2ekJZVEVLXzNQcnNqd244OXdwRzZiWW5BdDJwME82Xzh3ZGs2S0wxWDhPRUFSTm1fdmtaa1hvRVFKeDVFWURlNGln?oc=5
-- **Source:** Newswise
-- **Published:** 2026-10-14T22:00:00+00:00
-
-## Energy Department announces 2026 Ernest Orlando Lawrence Award winners - Fermilab (.gov)
-
-- **URL:** https://news.google.com/rss/articles/CBMiowFBVV95cUxNNmdLVnFaMUdzanpWMXo0RUpseThObW5fZ2hOb21mMlZGWlpmOTFKZW5TYk8xWkU1ZlRaNXQ4U2pvZEY1Y0tfOE9EaG9UMU1QX0pSLS1tZnk2bFdYdDZKd1VmbzBRVWYwb3lsUkl6a3phYlRvVkNBMTBYMm9VcjUzaEJGalpQZkh3WC13T3ZwNTFELXhTV0NBMEI4WWRDN1pGTlY4?oc=5
-- **Source:** Fermilab (.gov)
-- **Published:** 2026-10-14T21:58:56+00:00
-
-## ‘What is fusion?’ Helion Energy harnesses the power of television with a ‘Jeopardy!’ mention - GeekWire
-
-- **URL:** https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcFRfVUo4Nm5aNXl1NDN6NmRzX2JkVjE5dnladXNfTTFNdTNGLWRUdmF3TVpxNkJ6RDRBaHQ0cW9ZbEN0bnVFZlVDTFAtdW9iSHRUXzZuNVBGamFwQ0xjMDVxcTZUSzlUd2JSSGNOWm1oYzNNaVZBQjI5dmo1ZEd4eUd2bmJiTThoVGlXdWZpMFJaTnBrTm54NU1nM2x6N21HMk9lNEtCb25QNUFfTnJNbUFVa2JMYjZ1?oc=5
-- **Source:** GeekWire
-- **Published:** 2026-10-14T20:45:55+00:00
-
-## Calif. officials urge Diablo Canyon extension, but Newsom holding off - American Nuclear Society -- ANS
-
-- **URL:** https://news.google.com/rss/articles/CBMiqgFBVV95cUxOT3Y4YXlhRHVzWlkzUUVKeXFMZ1RuLTItX0xRNnItNmlCYTV1YnNucGlCUTdBdTBsdDdienJNZkhNbm1KeGhIVG1HRmxFSnJOdWpDSlZmVmtLS0hRVFJuRm96a1VKanRjV2U2aXdqSzZBMUo1bGRRM0dYaF90TmVEVFVUNUlSUk5vbV80ODF6VmkwTWJuTVp6NnpwRW51VElPNW0zdTZENG9BQQ?oc=5
-- **Source:** American Nuclear Society -- ANS
-- **Published:** 2026-10-14T20:33:48+00:00
-
-## HP Multi Jet Fusion Targets Production as Demand Grows and Service Bureaus Scale - Machine Design
-
-- **URL:** https://news.google.com/rss/articles/CBMi3wFBVV95cUxOZ3owNE1KSDVpbWFlZ1JuczNFQ04wXzRGYVBZSFNyZE95QUtTT0lYUHlya08zUmF1X25aS2pXR1V3VVgzT2FYUm9wbzFuTUZZc3dkRjY2Mnp2VEI3dGVsYkJ6Y25kUS1ZZnhXaEktaG92dzdIdDNFR2U1bUdfcEN5eGRpV2g2SVRqSlRQQTIzcnpBUWZWOURlUnY4bGppQkFSUE9mR2lxMER1QkpGUWhUZTMxNDZFc3NBLXZMVEpueUxKbXZDTi1iODN0c0dnQ1lGbGktSkJyVXhVTkZpX1Aw?oc=5
-- **Source:** Machine Design
-- **Published:** 2026-10-14T20:12:04+00:00

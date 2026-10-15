@@ -1,8 +1,74 @@
 # NewsWatch — Microsoft News
 
-_Last updated: 2026-10-15T19:43:53.318705+00:00 · 50 articles_
+_Last updated: 2026-10-15T22:55:33.890075+00:00 · 50 articles_
 
 ---
+
+## Microsoft Shuts Down Phishing Kits Generating 1 Billion Messages - Security Boulevard
+
+- **URL:** https://news.google.com/rss/articles/CBMipgFBVV95cUxPVTdDS3VCampoT05uWi1sRWVfcGxNSlNjdnpkcW03RUc4aUxZTTh3clF2VjBYOUxBSm12S2Q1LWRRQUpWN0RMOU1QSGh6MS1lQWR4cEZYMUVROThGODdDMTVMcEJ2UmVfOTlDRng5Vm5ORlRyMVNwQWZONWtBbG1nRURPWmZIZ00xUDR0TzU4bVBfRUxhbTNPN1hlUjhUQ0l4bm1Udmln?oc=5
+- **Source:** Security Boulevard
+- **Published:** 2026-10-15T22:21:35+00:00
+
+## Get Word, Excel, Outlook, and more for one $50 payment — but only until midnight tonight - Mashable
+
+- **URL:** https://news.google.com/rss/articles/CBMifEFVX3lxTE40WnJrZml1WmQ3VURxWlhoRk5WSTJVUWZTS3hnZW44TVgxdzZnaU1RVW1ZcE1BWUZ5VV9ZZW84Q1BLak05MWV1eS1SLWZ3RWFkVi1uQm8yVDg4T0tGTTJ6enNUb3JhaFR1Z25QajBDQk5PZ0EwTVNFeHdoQlM?oc=5
+- **Source:** Mashable
+- **Published:** 2026-10-15T22:19:34+00:00
+
+## Microsoft president urges AI 'kill switches' and breach alerts as Trump resists new rules - The Cool Down
+
+- **URL:** https://news.google.com/rss/articles/CBMilAFBVV95cUxORnZrdlpqSy05c1N6TUpBb0I2R29EenR5VV9fUjc2RUtuRl8xbVpNVkJpakxQYXNHbWEzUGhlcjlHMl9KblM1SUV1aWdscHNGUEhtRkFibjZXU1UtQ3pOVXl4UmdYazNhZkdBWnNjaUZkcmotUTVSZzRlYmRWYVZZdU96aWY3NDdhNS1EMlhxYWdTYlp0?oc=5
+- **Source:** The Cool Down
+- **Published:** 2026-10-15T22:09:00+00:00
+
+## Microsoft (MSFT) officer Amy Coleman reports 32 shares delivered or withheld at $533.69 each. - Stock Titan
+
+- **URL:** https://news.google.com/rss/articles/CBMirAFBVV95cUxPeTkwaXQwTEwwcDdmdVV5T0hZMHBkMGlUdU44dlZvVFVmNHNHeThnb2tZcDdGa3hCR2hFNV91eFpZdjNFUXYzdm5leVI4V2M3MGVIcFZIVExaYTR4UXhfRkt1dDdacF8zRERzY3NEbVluTUxKcGQ3WGVYY3dMREp1Z1VkaVZlalgtZmN5ZC1rcHFmdVB1a2xzek9HeFJpVWxJVmk0SU1rTmJ4LWdz?oc=5
+- **Source:** Stock Titan
+- **Published:** 2026-10-15T22:05:30+00:00
+
+## Leaked list shows what Microsoft, Amazon and other tech giants are giving for the White House ballroom - GeekWire
+
+- **URL:** https://news.google.com/rss/articles/CBMizAFBVV95cUxOYnVVLTdlc0ZaZ0RHYmU0amJzLXZDalVTdVllMWNINDRnZUZsaEVaeTgxQzkxdlZQVlYybmY2S0R2WDNaSEpZbVFrQmR6akp6YmZuSEZUdG52Qm5Eckdrb1NlbU1VWDRXTXdjVjdMRTdwOXlRb1NYRkZQTkR0OWF0NExKRjVUd1N0LVQya0lxZzlocWpIVGM5YVgyZjlpNWhscFgtSlF1eUNBcTFfTzQ1bzI0TzhmQXZIdmhoMGxjWXBtRW80VkxULWxtT3Y?oc=5
+- **Source:** GeekWire
+- **Published:** 2026-10-15T21:19:49+00:00
+
+## Microsoft Data Center Letter to the Editor: Open Letter 2026 - Racine County Eye
+
+- **URL:** https://news.google.com/rss/articles/CBMieEFVX3lxTE01Wms0OXU5blNfcHVkRXBlTFVUTklfVGdyUEtDZ0tWSllnNkNmR0JtNWNTRDJJTU84Mm4xZlg3c2lhd2txenpURFc2LVluekpQZGhyaDZiaTZ3NnhmSHNUejBtZEktRVRsdF9Rd3pqSDNoNmI0VllwRg?oc=5
+- **Source:** Racine County Eye
+- **Published:** 2026-10-15T21:11:53+00:00
+
+## Microsoft’s Maia 300 could weaken Nvidia’s pricing power - The Rundown AI
+
+- **URL:** https://news.google.com/rss/articles/CBMiekFVX3lxTE5nLTlyODNySUZ4OVNfVTVPSU5mYWVzX2wxa1V4VlQ3UnNRQ0dCMDhTOEtCWEVqMGg1eGRXQXdUMmpPb20xaTBxSlR4ZVIxWElja0NrM0J3UGdhOUppSXo5OGJYZ1FSN1pLc21QM0I0SUQzZVg5Uk1lajd3?oc=5
+- **Source:** The Rundown AI
+- **Published:** 2026-10-15T21:03:54+00:00
+
+## Microsoft President Brad Smith warns Trump’s Green Card restrictions could hurt tech - The American Bazaar
+
+- **URL:** https://news.google.com/rss/articles/CBMi0AFBVV95cUxOOFE4WUw3RnhxRi1aMUxYMFVfNUdfSWVKMmtMZTBJNm5zU3Nabjcwbms0RklsT3JIUHZuOGhHUnV1NWpIZTNMWU8tQ2laa2U3TmVzRm96ZmhJLTdjbkxaS3VpaE42RlRxUU5Bb3JYMnVHOG9oVnYxNFI1RW9hV1N6QjdlTDh1MGNpWkNhcjNzY1NNZUNvV29iS2J6MHFKQktqLXMtSXk0RWVFcUVLSXhlWkhqWlUyM29zdHBBTnBaVUJxVmFjM1h5cFVxSm1rdUs5?oc=5
+- **Source:** The American Bazaar
+- **Published:** 2026-10-15T20:53:00+00:00
+
+## Faster protection, fewer interruptions: How Microsoft Edge is rethinking updates - Windows Blog
+
+- **URL:** https://news.google.com/rss/articles/CBMixAFBVV95cUxQNmJwRXpfSG5wNHFXaEg3b0psRGZ1X0tqVkxFQ1ZCWVNYUzFnZk8ya0lXTjYwWm8xX1dpdU12Y2c1UXNMVDdyUVVIdGg4aXFyRXBISlpJUlY2ZDlzUXVBMmlXbjUweGhBbEhDTHY5SjFnbVUyUnJPNkw4dEd2X3RGMlpncUFzTVVNb2d5RW01dU8tSzRWWkRzdjYtTUdfMXNyb25sajdCRDVKRXhESWpnbF95X1F6X3pkWDd2OXB4UXBCYkhf?oc=5
+- **Source:** Windows Blog
+- **Published:** 2026-10-15T20:25:32+00:00
+
+## Microsoft admits Windows 11 KB5127648 KB5126646 break WPA 802.1X auth, shares fix - Neowin
+
+- **URL:** https://news.google.com/rss/articles/CBMirAFBVV95cUxNbFV2SHkxcV9EY1lmWElQRGN4QnFlNkIybUgwZFp2Y1BiSmlYZTdBY1E4R21oUmpWTWF2XzNSNXdVQWZZcmhtZWlmZTRSOVZjZE1nTFN2SDlqeW53a18zX0xGSnhBTEhQX0JNeEpJRTRhSFMzdkxsUzNWdmEwamlaRnVJczQ2M3RuME1mZEdtZ2hNNVc2T1ctSWdwYTBORWhkVkRyVjRDcDRhLW93?oc=5
+- **Source:** Neowin
+- **Published:** 2026-10-15T20:15:43+00:00
+
+## Microsoft President Warns Green-Card Curbs Could Hurt US Tech: Report - NDTV
+
+- **URL:** https://news.google.com/rss/articles/CBMitgFBVV95cUxQT0tBNHlrTU5rbmdwS3VYamJMeHlUSWR4cHUwNDM0LXJya3dtMEprdnljZ20yN2lNZGpLYzdtMG92a2FSc3dfelZHRHFNeXA1bXd0a0hRYXlpSkd1TWJHc3pqblpfM2JsRXdiWjQ0b29jVnFVamxuc1NqZ3h6aExTSlgxbmZjcmhKZzcyZ0tuNklMNlpZMWtrNUptM0otbnpsdk1EZzF2U3o0dEhfaUhTZ1pETFdFUdIBtgFBVV95cUxQT0tBNHlrTU5rbmdwS3VYamJMeHlUSWR4cHUwNDM0LXJya3dtMEprdnljZ20yN2lNZGpLYzdtMG92a2FSc3dfelZHRHFNeXA1bXd0a0hRYXlpSkd1TWJHc3pqblpfM2JsRXdiWjQ0b29jVnFVamxuc1NqZ3h6aExTSlgxbmZjcmhKZzcyZ0tuNklMNlpZMWtrNUptM0otbnpsdk1EZzF2U3o0dEhfaUhTZ1pETFdFUQ?oc=5
+- **Source:** NDTV
+- **Published:** 2026-10-15T20:05:19+00:00
 
 ## Nvidia, Microsoft, Adelson family lead $330M Trump ballroom fundraising drive: Report - Anadolu Ajansı
 
@@ -237,69 +303,3 @@ _Last updated: 2026-10-15T19:43:53.318705+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMXdMTE5GOVh2RXI0UTl4ZUVST1M0M1JCOFJQemRJNkVBVDFzNzN2QXl6clR5MTR4UmxzNUVKZllWbWtlbVk4b1pxWGFBX1RxaDRYSUJVOEFlMVg2VTZ0NGVhMjZGTlVCbXc5c2EzelE2Vm5QQXRPMnJGSWVTRjZVNDBZVjdldXJV?oc=5
 - **Source:** ExecutiveBiz
 - **Published:** 2026-10-15T15:43:44+00:00
-
-## Microsoft introduces Copilot for legal with circa 20 purpose-built legal skills - Legal IT Insider
-
-- **URL:** https://news.google.com/rss/articles/CBMirAFBVV95cUxQYnB6Vk50amVmN0QyQUliVlZaZE1lR01QVXVVUTh3RmlKWlNYdEpuQ3cyT1FEMjZBZmYyaHo0WkZMQzZkUE9hdHQ4QWl0RTFCcEZNQ3RadGROZDZab0p2YmVxU1d4VGZPUnh0NFlnMnBWN1F6aW9TeGNZYW4ySGZ0U3hSTVZFZGFTRER0T21lYW9lSXpYci0wN2ZGRTYtclJSRktqcnBUWk9pazh5?oc=5
-- **Source:** Legal IT Insider
-- **Published:** 2026-10-15T15:39:35+00:00
-
-## "A new PC is a meaningful purchase" — Microsoft thinks Windows 11 is finally good enough to be the selling point - Windows Central
-
-- **URL:** https://news.google.com/rss/articles/CBMi8gFBVV95cUxQS2stTmE2Ync2OGdUUTd5X2JxWTZvLThvWjltRHZzTkZBR09BVFY3bTFIclNYb3RlYzVvY2xfQ0ZyTXAtazMwYzBXRmlWaGlEWkI2aTJrOUNfY2RTbzNtMWx6R0ZoazZUOUYxb1pSOVc4d3BibUp5N25FZ0FqSkpYVnlJQlR1elN6U1RTX2hBNXhpVlZ6b0hTUVg4aUdKcWNXZDZyaTlQdkgxQTVvTDUxTVQxb3l6ZG8yMU5sUmZkb05EeDVWUjhTSlhTRE5lV1VDc0ctSmRELUhPQndDak1jNmFlQXJGb2ZqWWllWUtvdmNGZw?oc=5
-- **Source:** Windows Central
-- **Published:** 2026-10-15T15:36:38+00:00
-
-## Microsoft's Q1 results might produce larger-than-normal beat due to Azure growth: analysts - Seeking Alpha
-
-- **URL:** https://news.google.com/rss/articles/CBMixAFBVV95cUxPajlKaUl1Y0dncVBkTXBka0hNLXV0SXBLZG92NkNLZFp5MmNqNjJxRWhXTDQ0azgxSXZ4RHVPOVdCaFR6QlU5ZURLSDdCbDVQUllYSE0xdmk3RkJJTGlVLVZXWnNyekQyc19YT2NvVjNMa0RrNS00NVQ1VHV6UDRmM1cwNWMwMWdSNHBpcE81M05pQ0F4anFhNFdMMWdIUGUtbUxZYmlYc0V6OGNiTWpGc2ZXYm5nNFRCMmZIQkhvQnJKRGZR?oc=5
-- **Source:** Seeking Alpha
-- **Published:** 2026-10-15T15:36:08+00:00
-
-## Apple, Amazon and Microsoft Want These New AI Gadgets on Your Holiday Wish List - Entrepreneur
-
-- **URL:** https://news.google.com/rss/articles/CBMivgFBVV95cUxNekViQ3gtQ1lBWnF1a194Zm9ObEtkWWJidHBKc25lb2tUZVZxd1BQQUxXYVJJaHJWWFNiZ2F6bHZEZVNxeDJlT2Y1TmRGMzhXWnlITUFITDMzZDZRM0xaV0VBVjdaMHY1TTFxUU5DenNHeVpyOW5RdU9sMjJWRHhhemxiVko5MEpBNGs5WlBMLTVHaWNveWRBMk9QMEJETVZ6RGhxa0hKXzdJMEtNUkNzN09HdnpqMkVmbUhTeGd3?oc=5
-- **Source:** Entrepreneur
-- **Published:** 2026-10-15T15:35:32+00:00
-
-## Microsoft Copilot for Legal: What Will Be the Fallout? - Artificial Lawyer
-
-- **URL:** https://news.google.com/rss/articles/CBMingFBVV95cUxNQlluUkpYTkkwWWFzNXpsNEJzMlZKS1FCU3ZBNFIzakpSN2pPZDZWaUs1OUU1MzFPV3g3RVNWUG41YUVUMmkwaDhJUmlRakxRSkhGa0R4X3hjMnhqeGwwZURHRlFqZFNGbk1KREUxSHJvdEFycGpuZWN5OEZRUThOekdkRWMwN2NqdEZoNG54T2ZkNm9RX2p3ODgyd1FuUQ?oc=5
-- **Source:** Artificial Lawyer
-- **Published:** 2026-10-15T15:32:59+00:00
-
-## Tucuvi joins the Microsoft Pegasus Program to scale clinically governed AI Care Management across health systems - WebWire
-
-- **URL:** https://news.google.com/rss/articles/CBMiaEFVX3lxTE5TdFUtc0lLdFQwWHozUnNWMmRzNGVEbzE4VWFidnlYLXBxaU15VEJSazdxQU9OaDlSanpUQzVDczlNenVOQVdCekEwTDdwNXRrY2pZYmR4VmIzMm9OeGo5YlF3QmNNVUtr?oc=5
-- **Source:** WebWire
-- **Published:** 2026-10-15T15:29:49+00:00
-
-## Microsoft’s Azure Grew 40% and Is Still Reportedly Hunting for 20% Cost Cuts - 24/7 Wall St.
-
-- **URL:** https://news.google.com/rss/articles/CBMiuAFBVV95cUxORUpCTVNsUWdJdlhOTmwyM0R0M3ZlMHhkNFZkYXg3Y2NOdnZETmZpTl9iOFRMR1lTZW9xWTk4anpDZmlLNkxrUUhRU052cjdnYTVoMUNfdUFsQXlzZWlZRjFfT2hST1JreUpDWk95OF9rNEVFUFhFMTY4TG40dWdlaXlxa1JWcWg0VlZCWm1sZmFMWEpyQkk1ZWhjS1h2TnJNY1FmVUI4UHRrdk0zY2pxTk95X0JPRVdN?oc=5
-- **Source:** 24/7 Wall St.
-- **Published:** 2026-10-15T15:27:00+00:00
-
-## Microsoft unveils redesigned Photos app for Windows 11 with more AI features - Neowin
-
-- **URL:** https://news.google.com/rss/articles/CBMiqAFBVV95cUxQaUtnX1dsOEVOeVZsTUZ1Ty11T1drekNvNlh6LUhqUC15MXk4VVBDX3RYdXFzTmh2RTBaRjJsd185ajRDX2FiS2dmSm1hbElVQ2xmVC1SMmVqSUJlemxKNlR0ZW5CYWdmMXlvSkh1SjRHcE9lclVZMmJZell0eUZiRkp1amZjbEFyYUdldS03dkU2cXUwVGlDQXNhYzBKSUpTcmkwUzFlZ0s?oc=5
-- **Source:** Neowin
-- **Published:** 2026-10-15T15:23:36+00:00
-
-## Microsoft Confirms 20% Faster Windows 11 Experience, 8 GB Systems Also Run Better - TechPowerUp
-
-- **URL:** https://news.google.com/rss/articles/CBMitAFBVV95cUxNSGlUVEdFVUtXR0gtX2oySzBnWTdmYktjdWFZSVIyaE4yaDE5RS0xcm5BQU55Q0trLUcxRG1XNHJhM09UdElPMGFteUtucDRsYzdtZk5aMVJqNFlDbmF3MWJUdW1PUEpvcW9KZnQ1SjgtdXdPNWFmSENNVlNwdzZqbEZvc2pOVUU4QTA1T3l3QUtjN2tveWtIQlZzakJrWWxFcS03RFJ6eVNPNWlZNTllSkRpaGTSAboBQVVfeXFMT2NSV1h3TE53eGRVdmdJWGM2WDFxbndFSDZERy0xbGNHbktQRVk1NjFvOWYxVDhBOE80SU5aX2dkaWZnUjhRcVYwUFZwY3QybHpYLUdQM2ktaDJ2ZWo4UUgwcUlLZDlhMEpkQVFndXFtbXpYUzBJT0FVd2tBTElYOUVod3EySzY0Q21BUk5OUS1ka2lRS3NsVWk3a3Uxbm54WXRSSDhCdjhKcUMzR0NJVWY2Z1NJU09BZFlB?oc=5
-- **Source:** TechPowerUp
-- **Published:** 2026-10-15T15:23:28+00:00
-
-## Anthropic Is Growing 50%, Microsoft Isn’t - 24/7 Wall St.
-
-- **URL:** https://news.google.com/rss/articles/CBMiigFBVV95cUxNVDl0dUY3U002eFVFWHJPdnpseEZlcnV2UHdYem9NVTA0b3d4RjdYOTNmWEV0S2h1TXE2MVdVZzRQZzJibkpUMTlvMExMVzhPTlRQbm1PRWZBb1dFajNKU0RHSExSN3FXOUY0NFJTLUZ2UGlTRFVWNDFKSW50VVlybVpMNUhGaUdhTGc?oc=5
-- **Source:** 24/7 Wall St.
-- **Published:** 2026-10-15T15:22:00+00:00
-
-## Microsoft's Windows 11 overhaul brings a new Photos app and a faster OS - How-To Geek
-
-- **URL:** https://news.google.com/rss/articles/CBMicEFVX3lxTE5nSnRuU2laa3hoWERSRFFyeU9HZnpKU2JVLTg1Q2FJYV9aSUpGV1dIVDhzdWhaandRa3pleEFnc3lwV2N5d2xTTzZJMDRjeUM1eXFya254M3U5ckJKdmlsTXNzVkkxSFRSQkVnZFo1eXE?oc=5
-- **Source:** How-To Geek
-- **Published:** 2026-10-15T15:18:55+00:00
