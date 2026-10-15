@@ -1,8 +1,20 @@
 # NewsWatch — Iceland News
 
-_Last updated: 2026-10-14T20:01:14.453838+00:00 · 50 articles_
+_Last updated: 2026-10-15T00:18:40.467316+00:00 · 50 articles_
 
 ---
+
+## My Mother Got a New Hip. So We Went to Remote Iceland to Road Test It. - WSJ
+
+- **URL:** https://news.google.com/rss/articles/CBMitAFBVV95cUxOeWN2eXU2LUJ1VEdUa09RQmlDWnNfYW94a2IzT0hwdDJaZ1BmRnl1YTB5SHN3RlZEc3JPQlJzLTN0Ym00M1NJbGZkUE1Cb3M1OXR2ZTF2ZHp0MnZsaW5vVzlPT1BUVm9NZ2ZEN0Y0V3YyN2prOVNkbVViSTdzSXE1Rl9WZVk4Z2dJZ0U4aUJPZG40QVJqQUluMkNnZnJDSW54N1Y0WGQ2b2JkWkplSEM1Qmpja3E?oc=5
+- **Source:** WSJ
+- **Published:** 2026-10-15T00:15:00+00:00
+
+## Large Low Spins Near Iceland - CIRA Satellite Library
+
+- **URL:** https://news.google.com/rss/articles/CBMihgFBVV95cUxPTktxMG01V3JtMF91LUFZWTNQUTdkeTZjMUZOQ2NfanQ3bVJEQVRBbkg0NVZJY1NYdXNWRjVQamVrdVB4alZQWXNqMW9tTU54R1kxeUcyU3VPRHFkNFBZbF9fYXZDaGIwR0pRcGdFMGZtU1IxMmVUOUEtaW9Oc3BnUjdsd2cyUQ?oc=5
+- **Source:** CIRA Satellite Library
+- **Published:** 2026-10-14T21:52:36+00:00
 
 ## Euro Truck Simulator 2 Reveals Iceland DLC Gameplay - Simulation Daily
 
@@ -291,15 +303,3 @@ _Last updated: 2026-10-14T20:01:14.453838+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMitwFBVV95cUxOcFl0RG14UjdZa3FYSHV3eFYteGZ2SDdwNno1MlVQeXJ3U2tVZGs1QU1tS3hBcDgxb1VDOUh2bXJwUEo5ZG9vUEZaZTJqX0NxZExDcmw3WHlSTkowUjRpNVRwenZrelktWVVNemV1SFh0blNOWVdYOGNlSHh6aXc5YTlvbWtlMlIzR1lsR1JLeGZOangyUW1Jd1hQSVg1UjI0N1ZlaWhJck9sY2ZaUDkwYW90QUpNV1k?oc=5
 - **Source:** Goal.com
 - **Published:** 2026-10-13T11:06:22+00:00
-
-## Almost all drilled rock was recovered from most holes at Aurania’s Iceland project. - Stock Titan
-
-- **URL:** https://news.google.com/rss/articles/CBMitgFBVV95cUxOVGFPd0M0bklvSWRNM08ybE5RMUgwU25FV2FZZmRVSFc4dFpWQXFTekdOMVI5QlM5ZXAybXpmdmNRYmJxMXoyeW9SLTFqSm1PWnhkVlgyaFB2RW8yS0FyWFRHVnE1NFNHaFEtS2RRWWotaDR5SzAyeURWZjJ0S2JuMVc0UjBfSXdpUHNudzVxZVlYN0s3NUFwMy1BMlZvbEkyV012azlrU1phbEFaNGNoWWQwLV9GZw?oc=5
-- **Source:** Stock Titan
-- **Published:** 2026-10-13T11:00:00+00:00
-
-## Meteorologist warns of approaching storm: "People need to be prepared" - Iceland Monitor
-
-- **URL:** https://news.google.com/rss/articles/CBMipgFBVV95cUxNYUVjYjlMOWlsWXF1VXBtMTlnZEN3T2VnMlBuYkhUQVExVE1iampHUmpHZHVQQ2hZb3UtV0wzYW1uR3lPOGhManZDMkUwblJnajNzbk9ObWs0QU9WbGd3Vkl5UDRaUHh3b0xLaVJpUnU1Rkc0YkZKeVJyY2tlMExvaFJmODY1MW9sSVozREs4Nmh5Qmp0aGZidUVuN3hzeEVxaW1TRXlB?oc=5
-- **Source:** Iceland Monitor
-- **Published:** 2026-10-13T10:40:00+00:00

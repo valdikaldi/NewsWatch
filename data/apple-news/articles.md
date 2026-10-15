@@ -1,8 +1,38 @@
 # NewsWatch — Apple News
 
-_Last updated: 2026-10-14T20:01:13.336252+00:00 · 50 articles_
+_Last updated: 2026-10-15T00:18:39.484824+00:00 · 50 articles_
 
 ---
+
+## SEC Approves Trading On Apple, Tesla Performance Metrics - Law360
+
+- **URL:** https://news.google.com/rss/articles/CBMimwFBVV95cUxOSi1hcm5qWkFkZ3BOek41N1JCRFMtblA2aVpjU2NNaGhZelVZTlctakV1Z01jZ3BWVW1waXhEVHBWZTZ1OUxKalNnSEtyNTlRbzU4Xzc4ZTdLNlVRUnhaTnNCSmk1dF8tRDllVTY5UWtmUjZ1MXpJWVdyMmFnMmo3QVZONy1FU1BqemZHcHlGZ1ZaVHVjRi1pTHQ0Y9IBVkFVX3lxTE9hc24zdEplaVFOVlZtSXJLODlsSktvcjh1SGNfcWpKM1hzQi01STZLTFA3dUJBMURGZ1hzM2Z2WnBtWE1XX25Jb1ZZMXk5akoyTWNYZzVR?oc=5
+- **Source:** Law360
+- **Published:** 2026-10-14T23:57:25+00:00
+
+## OpenAI agrees not to use alleged Apple trade secrets amid ongoing lawsuit - 9to5Mac
+
+- **URL:** https://news.google.com/rss/articles/CBMiqAFBVV95cUxQYmpxcWVKUzFqTEktR2RqeVN0SVdLMDNickFNU3NELUtrOFFjOFJWYllBQ1RMQ08tNmR6M1BsZlpZOW5ZMFlaS2tvWWU5TWNfcXhXVGFxdlViVkNhWllMQ2VUd00yb3F0MHJrdUpKbUpPUlFJRk9qZ2ctdXVhYWpPU215TG0yS0xmNmVRNWttcUJCNWNublFNWGdPWmtxNGRURW9VYVQxeTE?oc=5
+- **Source:** 9to5Mac
+- **Published:** 2026-10-14T23:12:00+00:00
+
+## Apple Reportedly Set To Launch AI Features In China Following Regulatory Approvals - TradingView
+
+- **URL:** https://news.google.com/rss/articles/CBMi2wFBVV95cUxNUjFXaHRFblRkLXhGTkVNMlkzYTVaVG9CZkp6ajdGVjBwNk9nTVBBVUZIYm9HNWYzWEpkUkhCVW1qVWFuaHotWFU0R3E3dG9KUWdtaWh3OGFKQXctX3JCSzhTYnkyQ2RUaVRneDUtSTRsOTVVQUFSSTA4LVplWHpCNXA4a1hDZE5MNWFWUFNyZ1ZxRk82UVlJQnA2eHFWS2szQ1JtSm1OOHN4R1A2UF92VmNiVFd5NFBaU2hEZnlFdlpUbndIejFoM1U4eTBwNi1NUWF2WUJUUGFDVDA?oc=5
+- **Source:** TradingView
+- **Published:** 2026-10-14T22:41:11+00:00
+
+## OpenAI Accuses Apple Hire Of Taking 100+ Confidential Files - Apple (NASDAQ:AAPL) - Benzinga
+
+- **URL:** https://news.google.com/rss/articles/CBMi4wFBVV95cUxORGNjR05CdnNneEVjLXlseU9kSVVmZktfNWU4SWs2bDcyQnFVbG9vSnZnRkQycGhLNTJLSnhuZU5DWi1VLUZTeUhzUUJucXJxVmF3RVNnQ0dEdW14LTJ5MFdvcDI0b251OHZJcHo1R1JjcmZheEpYNVBBN010R3k1QjNSdUtRMHEyMzlIanp2RVlvOXBuMDl2MFg0cktwTzB2ay1YWm16Umc3dE9va2xjV0luOFJvWHdrTGVTSzVZRXNUbmgyS3oxeGNGT2RST1NKMFNmQ1JIREVzQnlSb2hyRURPNA?oc=5
+- **Source:** Benzinga
+- **Published:** 2026-10-14T20:23:04+00:00
+
+## Apple clears regulatory hurdles as it prepares to launch AI features in China: report - Seeking Alpha
+
+- **URL:** https://news.google.com/rss/articles/CBMivwFBVV95cUxNdEZCd0xtbmdkaDhxRWpJMkpfbk1WSXZfR3IxZWVTbmtTTE5jU1E3cTFvVGk3UzhiNjlTRWlDR3NrNFJVcUo4OGZoSTFkRHhLTVByUG5BMmlKaW5Ba3A0OHlybVBGSm0zek5JeWFkRVpPbW9xXzY0Ul9EaU1Vd01XYW1ucDdQaHFLWEVjRkRnYkc4bHBjYXo2WjZvSDBFOVpVZVluLWE5RGEySDJzdTlScHE4YkIwdFExT3ZIc1p5aw?oc=5
+- **Source:** Seeking Alpha
+- **Published:** 2026-10-14T20:16:42+00:00
 
 ## Apple Prepares to Debut First AI Features in China in December - Bloomberg.com
 
@@ -273,33 +303,3 @@ _Last updated: 2026-10-14T20:01:13.336252+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMiwwFBVV95cUxPeVdSM0N0WDZHZkN4X2VEbkhMTTZBQ2FMdUZJVkh3ZnpFRGFPNU9WeWJoUC1uVW9VaWNUTU9WOEdrSzVtOXE0Ml8wQVp4Z2d3X2U2ampWNXVEYmE3UEZieGZmd05kWnJHbDJDQ2lmNFVoQ3ktMV84c2hZYkpISUh1c0ZqTG1WQ1lONExNcEFWRjE4Q0ZSdl81akJnRXVRdHo1RU1NWVNzZmYxTmV1U3hFcFlvUWIxTlp4YW9lNEJ5RmtOOW_SAXJBVV95cUxPVDlFLUxkWUxHdkxJYzdqS1RLd0tZd0pXeVVTRGEzZzlOT0djWWhkX3g1NFE5cUZnNXhzSnkwN01qR2d3QnRYQ1JjMmZNMVl3ZVlHRGxUclo4cTl1WG12dHhnTlRrRUtKR191UGFoZy1Uc0E?oc=5
 - **Source:** Law360
 - **Published:** 2026-10-14T02:00:16+00:00
-
-## Apple's new HomeView arrives in India with Siri AI: Price, features and availability - Mathrubhumi English
-
-- **URL:** https://news.google.com/rss/articles/CBMixgFBVV95cUxNZk9GZ3ZjSHRaa3lueG0wdHlJZjgxMURsdlNLTXh4dnlMTTdFcVVyRWo1cEdZemZOc2RZVUg5Tmp5bUxfa2JrSGxaZEY5cmRtcFctbUN3V201MDZpbWRJOXZHaFhJNnVVemljTEpSVGFUd3F0ZDJ5aDBSdlNkSUp5OGFFcXNuT25GbzF3VXFyOHY2YzRnNG84UEpVbU9uaTVmcFlYTU9rODFBWmFBN2tHZ1VvOUhhbVJkdkd4cHV6N1E0VkRFN2fSAcYBQVVfeXFMTWZPRmd2Y0h0Wmt5bnhtMHR5SWY4MTFEbHZTS014eHZ5TE03RXFVckVqNXBHWXpmTnNkWVVIOU5qeW1MX2tia0hsWmRGOXJkbXBXLW1Dd1dtNTA2aW1kSTl2R2hYSTZ1VXppY0xKUlRhVHdxdGQyeWgwUnZTZElKeThhRXFzbk9uRm8xd1Vxcjh2NmM0ZzRvOFBKVW1Pbmk1ZnBZWE1PazgxQVphQTdrR2dVbzlIYW1SZHZHeHB1ejdRNFZERTdn?oc=5
-- **Source:** Mathrubhumi English
-- **Published:** 2026-10-14T01:16:02+00:00
-
-## Apple Inc (AAPL) Shares Surge 0.1% -- What GF Score of 95 Tells Investors - GuruFocus
-
-- **URL:** https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeUNUZWJDaHlMWW81OUxkTEtnZ0N1S3RWUk9ST0Y3MTlWckZrQXdTRHVXcDZwYjNKR2xzWVdLc25rdWFCc1NQM3g0YkswVkd5N1FKSmRpUzRseVlpTGZ0RTBsM1dDbUstNDkzNURtNkg0WkRnMDZEbXpRM3RVUXVtcFpISW45Umlnb0dDb0x5bl9EQVZoZnJOdjVtRkl0bUNyeUdSZUo5ZGg?oc=5
-- **Source:** GuruFocus
-- **Published:** 2026-10-14T00:34:20+00:00
-
-## Apple Inc. (AAPL) Stock Forecasts - Yahoo! Finance Canada
-
-- **URL:** https://news.google.com/rss/articles/CBMikAFBVV95cUxPR0p6ZUpBX084emJJRkZkZ2dUaEtpTFZlaHZySVpsQVVNcGxmSlRpTW5icVJZZHQtelNIUHE2dzBWZ2p3Y3R5TVZMV3J6Y2ExS3dFeDU0TG43aml0Vjk2QVJfbldmdUlkRkhtZ1daZ0V4dTBDdXVaWC1qRUU0dWhXY3FuVzRvYnkzNXRsZXBlLU8?oc=5
-- **Source:** Yahoo! Finance Canada
-- **Published:** 2026-10-14T00:21:44+00:00
-
-## Apple Stock: The Biggest AI Winner Isn't Building AI (NASDAQ:AAPL) - Seeking Alpha
-
-- **URL:** https://news.google.com/rss/articles/CBMijgFBVV95cUxNTUZUWVAtQnN1TTNYM3FpUkxlZDBncU1fS2xUR0FFOHFsSjdNclhabFZhcTV4N3hhUHA3OEYxbFhKRWJvcHhaUUhONEdrQTNiOExaSVdSczhfd21OczFEYjJaR3ZoaEhHRmhsMXhKVm9Cd1NlRC1JX05HRktjdmtJeVd5bUVGTlRjOWt4VjNR?oc=5
-- **Source:** Seeking Alpha
-- **Published:** 2026-10-14T00:12:18+00:00
-
-## Apple CEO Tim Cook is stepping down, John Ternus set to replace him - ABC News - Breaking News, Latest News and Videos
-
-- **URL:** https://news.google.com/rss/articles/CBMijgFBVV95cUxOTXg5VFBDbk1xMmlfZEdLVW1sOW5pOUd5ZWY5NWtFbzFwQmpDMzQ3c1lrVjhyVEVpZmhuZmh5X0VHeVVNV1d5d3VWTi1jazI5QjRoRkFrMTd1TnJER0lkS05hTGR4WTQyNUFNeDBOMkRBRFhPNlFkQ2tNbDdJUGdJc0lVTWVQbWo3OW56OFdn0gGTAUFVX3lxTE9Zbjg0dnVYX2NodkpINTY0UXJaNGdlYUp5MXNFcTJ2c3ZRQW5lVE5rX1Z6dEtYUVJBdjdJRmVsMjJtN21MVWhlZFBveE9SYmJMeDM5VTRfQWUyejNTYnY3RlBBdjd0OWgwOXRwaWtEN0x1Y0czWXhuRlJSWVlQUy11LXE1TDNrUTAzZlFRWGw0OG5zaw?oc=5
-- **Source:** ABC News - Breaking News, Latest News and Videos
-- **Published:** 2026-10-14T00:10:07+00:00

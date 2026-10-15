@@ -1,8 +1,128 @@
 # NewsWatch — Microsoft News
 
-_Last updated: 2026-10-14T20:01:13.945018+00:00 · 50 articles_
+_Last updated: 2026-10-15T00:18:40.031301+00:00 · 50 articles_
 
 ---
+
+## Microsoft Just Made an Xbox Controller Smaller Than Your Smartphone - 4CA
+
+- **URL:** https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTU16bTVLZTYyQW9MRlEtbkppQlVnb09XZmYtLTM1cGotaTdFa2VPclkxN1lYTGhfeWFEYTR5WnQ2bUwzNklySklYYk5kMV9kaXZtUTVXZlVCUnh5b2VhREdTTFdRTU9ndFBsYWpBZ19vZzYxdEpzYi00aFdLM0NhajBqRE1femFOYlNfYmlReGoxTFlMR1hmeG5XZzZPUm1ET0xZVU9ZS1ZoMms?oc=5
+- **Source:** 4CA
+- **Published:** 2026-10-14T23:53:04+00:00
+
+## Anatomy of an Active Microsoft 365 Phishing Kit - Security Boulevard
+
+- **URL:** https://news.google.com/rss/articles/CBMijwFBVV95cUxPTUIxS29zM0ZtblZxUjRzMVdyRDdSWDI1WFVXQnp4ZTBOdTU0RUVfVWpPYlJoTWtROUlPeVRsbWlnN1hDWEJ6NTVyWmRSQVVXQlR1Zmc1RUpwS3h5VkdZWGx1b251QWREeUFzcFhueHNRb3JSb3g3QVVtTWwxbkFMMHRBWjBvamdSc2pOaTNkSQ?oc=5
+- **Source:** Security Boulevard
+- **Published:** 2026-10-14T23:44:56+00:00
+
+## Microsoft floats making Fallout, Elder Scrolls, and Minecraft Xbox-exclusive - Polygon.com
+
+- **URL:** https://news.google.com/rss/articles/CBMie0FVX3lxTE91YS0zeU5EXzE0T0NMVzN4cDZrSzl4b3I1ankxX1NuZFBKYkJ1RTMzd3FVQXRnV2MyNS1kUUEzcEszNm9PcHlzMkNRSmhZQi1Xc1k1cGNBMUUwSVFNSFZVLWtwOVBIM0FiSHJfT3cwa2N1S1U2cWgteWNsQQ?oc=5
+- **Source:** Polygon.com
+- **Published:** 2026-10-14T22:30:47+00:00
+
+## Composable memory helps Microsoft tackle the AI memory crunch - SiliconANGLE
+
+- **URL:** https://news.google.com/rss/articles/CBMitAFBVV95cUxOMFZiNldhQjRJT0hXY08zeWU4SHlwTFo3c01vZ0VsN3RIYlp0aEhlTEd4b1liUE4xR1QwVngtQ1d3d1VJd20zLTZublNxd3Z6ektrbkp0blZ4clptd2pFNTBQeHRuOTNlVW5RSzF0MkVyc1lIVXFoUjhWY19pcjhEN3pjbFNZakpROERUSzBPVW9MWVJFR1piOTBWZTdvdlVEMllRWHdyTHJPQ1V6NHlpR0x1MDU?oc=5
+- **Source:** SiliconANGLE
+- **Published:** 2026-10-14T22:19:00+00:00
+
+## Community Summit North America 2026: Dynamics 365 CE aiming for functional expansion, Microsoft AI ambitions - MSDynamicsWorld.com
+
+- **URL:** https://news.google.com/rss/articles/CBMixAFBVV95cUxPNDBCRVpCQjdXM3ZyNzdJQndKNnVXYWlvVnhMd2lmbEtJYnFRbXk0emlRbE1GVHA0YWlYMmR3SC1DUDhpY1dkX2dDeWc4VENiUm1fMGRjMHVacEg2aEJMekVPcXJVamJFMFB5LU5qWHZEdXVUWEJGSm1UWENBUXdkS3pYRVVrWTd6cVdJWEJzUzJkc1I0NldTN3BlLXd4QnhpMmZXUmVMQWdfem9pUVdIWElGNW9KalZ4VUVNbEV2Ml81Ukxv?oc=5
+- **Source:** MSDynamicsWorld.com
+- **Published:** 2026-10-14T22:15:18+00:00
+
+## Community Summit North America 2026: Dynamics 365 CE plans functional expansion while pursuing Microsoft AI ambitions - MSDynamicsWorld.com
+
+- **URL:** https://news.google.com/rss/articles/CBMixgFBVV95cUxPTnViWThmNG5kUnZ6ZmdZZzlITXdxMEVqN2lJVWRSdlJ4UmI2WWZEQkM4V0lVRTB4dHdmaUt3SkFZcHFCcU5qbmFYYm80ZFVoYjQtY281azdYbnduQXdRSG9xVm1fRU5qeFBWUUM5VWstMzlnUXQ0SzNfZEh1QjZYTDVrVzVFVXpnVG03eGhmQ1VUNEdRc2NMeVBuVzgzLXBUemlvcVdlTk00dTJiY2pmOWFsMFF1dGxFZjRSaVIxbklRM051aVE?oc=5
+- **Source:** MSDynamicsWorld.com
+- **Published:** 2026-10-14T22:15:18+00:00
+
+## Mt. Pleasant Plan Commission OKs Microsoft's updated data center plan under new condition - Journal Times
+
+- **URL:** https://news.google.com/rss/articles/CBMimgFBVV95cUxQeGRsN1poQmtRQ3JvN3pnVkFMNVZmaXA5bDY1Qy1kMmJjZ2pvZVQyRmM3X08zeGRFckdmZk5yN2o1VmxnOUFTZW5sRi1fRXFXb29XTXdDZnFWb0hieENPZ09DejQwbVVkUUE2TWRZNGhONEIwZ2M1MllGRmdaM216YWVGMXBFWXVTeW1yT3lGVWFqNjhOeVFEMmFB?oc=5
+- **Source:** Journal Times
+- **Published:** 2026-10-14T22:15:00+00:00
+
+## Microsoft (MSFT) CFO sells 7,305 shares under a trading plan adopted June 10, 2026. - Stock Titan
+
+- **URL:** https://news.google.com/rss/articles/CBMirAFBVV95cUxNbjlVeE02MFQyR1V4VW56N2xid1R6ZVZLQV8xcHlhR3RwOS1VRzkwX1BtYVhqbHRqei14QnczVjNiVnlyY0w0ckRWdkw2STltTFhkYTZySUdoSjgyTl8xWXBtbkEtaWM1R21FQ1pRRVY3SUphZVl5UVN0d3A2N0ZfajdZeVRVRGVfc3JsUDhJaWF5UFk5QkpGaDFmbG5jajdhck5EV3hYZW9VMmxw?oc=5
+- **Source:** Stock Titan
+- **Published:** 2026-10-14T22:09:08+00:00
+
+## Microsoft just patched a record 1,400+ flaws in latest Windows 11 security update: what you need to know - Yahoo Tech
+
+- **URL:** https://news.google.com/rss/articles/CBMilwFBVV95cUxPRElRR085ZUpMQmp4VVg5NW5XdnRBbURLUGVQUW5OTGtkc0U1ZGpSSHZkQXdNdkF3Y0RsMjZVcFc5S1lsMENYQjllVGE2THlpNmlKVTgybmpWOHFDUEt1NENXN3lMdUtqMWhDbG1RNWFIQUxyNWMyWGVieDFOZEFfa3loT2x4YXN2aGExSW9NMWs2UThseW5V?oc=5
+- **Source:** Yahoo Tech
+- **Published:** 2026-10-14T21:42:22+00:00
+
+## U.S. CISA adds Microsoft Windows Shell flaw to its Known Exploited Vulnerabilities catalog - Security Affairs
+
+- **URL:** https://news.google.com/rss/articles/CBMi0wFBVV95cUxOYzJHRjdiMDRfZ0RvSHJ4bXcxdHRMR21rOVcxeTRGekh4N2ZyQjlmcHdtRGlzOUY0UGpEdEhLdF9NbDEzbk5DaXQ1bUs1ekpDZnBZLTB1ZmZQekJUOG5pRVlLMDFDdDRQQWo2dkRzZXVvTUZ6SHB0QldwM2FrbDM1NXBaLUxnM1FINUFQekFqRF9fRDRFdnBpVWdMMFhZMHo5bm1WdjRhcG1Ta1JGeVU0X2k5Z1pFY0Zla3oyTUhmOWctVlpfYVlnYmctZW5kVmUwMWlZ0gHYAUFVX3lxTE1sb3pqaXNVdFRtZXg3YWZVOS1ZREpBR3ZpTFcwVlA5UDBqU2ZaZnNaZ0FzM2phVE1NS1NqWFg2Ykl1SEJvaFNmalZLWFJBTDRJVUF3MTZ6elNmek1NZ2pBcGVsRlp2QnVFMDJxUG5vVWd2bDVXOEtqUE4yYjRvZWVIa2FhejE5LU5UM3RpYkZkaHhiM2dlNDNqTzZfbTNfcFlJYTJIQWhhdmZ5cWh2LWFiU0Y1VllLSUNTOVVsc0puVTZlMS1ySEFaWjNsLXVtdXRkM2NJcEJ6eg?oc=5
+- **Source:** Security Affairs
+- **Published:** 2026-10-14T21:26:46+00:00
+
+## Developer Who Cloned Photoshop With AI Just Did the Same to Microsoft Office - Decrypt
+
+- **URL:** https://news.google.com/rss/articles/CBMijwFBVV95cUxPY1M3MDEzdHZKYXRQb0hWdDdLUVF3MjhtTDVLSkxDSXlJc1daNmlFLS1yd2ZNYzV6aDNRNEpQckhxV3hQN2hlWmlqTkFLcXJQWFRCSlNsVUFpdHVqR3dPdGFUYlNiUUEwTTN0TGxrbEdxNmhaRFNROV8xNy1RREtIblRxc01nQ0EzdEtMYU4yTQ?oc=5
+- **Source:** Decrypt
+- **Published:** 2026-10-14T21:16:03+00:00
+
+## Developer Who Cloned Photoshop With AI Just Did the Same to Microsoft Office - Yahoo Tech
+
+- **URL:** https://news.google.com/rss/articles/CBMilgFBVV95cUxNM180QmpSektpZHl0RWFtY0ZST09XZnNjejZMTU5yZFE5OXVsZ3JZUVB6em5nZnVYTUR0NkhxM200YjBNb3hDVlBoMXhvY2pTQkhrRVU0aVU0VHB3MVc3TXVXYi1XX3RFVTlCblVGT1llLUdHNFItUjJiZmJqYWhTZmpjZ1U1Nlh3YTNyb1BOVzNQOGFsNGc?oc=5
+- **Source:** Yahoo Tech
+- **Published:** 2026-10-14T21:16:03+00:00
+
+## Microsoft Just Unveiled a Brand-New AI Chip. Could It Be the "Nvidia Killer" Everyone's Been Looking For? - The Motley Fool
+
+- **URL:** https://news.google.com/rss/articles/CBMijgFBVV95cUxOUzNibHkxcXpGVU1NNE5xVTlpU0NRWFo0R1JZdTRGRUR6MnFfTGx0aXl0ZFY5UGl4T2NPX3cxQWdNWTVvUTFaOGNFaGNLTkdBckoxR2xMUlQ0RHFVT0ttRGZROFlwY3ZCVlJ6aHA1TFpWc0pGNzFpV21SbC14RzlTdDhucWdCRkxBSDZrLWRR?oc=5
+- **Source:** The Motley Fool
+- **Published:** 2026-10-14T21:11:59+00:00
+
+## Xbox unveils a new pint-sized gamepad designed for Xbox Cloud Gaming - Windows Central
+
+- **URL:** https://news.google.com/rss/articles/CBMiigJBVV95cUxNYWV2eENueklqaUljQU9OUU9POEV6RlJ6bzBYNnFmaEpaaDBfcjlrc2pwUzVlT0NCdWt0akVEZ0F2a3JSNXpnelhDSjJTSm5SUVVqd09maVhsRFhWMjBxdUVJOUV5MVZlamRqc2tndnhybkxBMFhHTmRGVGNzVWthaDVXZ1gwV09ibGlIMzZMZnJaWk5MbFdaTWpGNTYyRk11TXE5eDlpXzFOVktkMTBIZ3JKSk9pOVlFR2MtWkVxXy1GbXdBbmJHNmtjTldRUVhrZXQtVHJTTWhmTEs2MkVMRTNiWGctSVVhT0hKT0VlX1VQQ1pSWnF2cUppRU5uVUZCbWVrLXc5Qjk3QQ?oc=5
+- **Source:** Windows Central
+- **Published:** 2026-10-14T20:58:15+00:00
+
+## Microsoft closes loophole for bypassing Windows 11 account setup - SC Media
+
+- **URL:** https://news.google.com/rss/articles/CBMimgFBVV95cUxOMERMWHFMRTJreUx6cVpBTFRxQVp6RDdkMVFYb3RnZUJSTDJ0UjJDSWZzRE1UMnpQT2ZsTjlKbVdiajFYeGxnZWtqZ25iMElqbVpweUNYd0dwSF9aelBpbkpjbl9rQUtMUUozTHBnM3BIQU1JcGdWYlVFdHViMFNVNDBJSFNNNDF5MWVLX05UcXhWbVQxUVhsdjZn?oc=5
+- **Source:** SC Media
+- **Published:** 2026-10-14T20:57:57+00:00
+
+## Microsoft has ended extended support for some legacy Exchange Server and Skype products - Neowin
+
+- **URL:** https://news.google.com/rss/articles/CBMitwFBVV95cUxQV1I2bm9NdlpVYUp0c28xTzZWbTI0azlmOTAtRVcxZkpVS0h4ckM3V0FKNFBhMlh1a2JvZ1l4NTJtSHQ4TmdySGpGcVZ6WVVLZGJMSXhkTUd4NXJLTmNidzJYYmhneE5ITUZqVW5VOFU1VDNmX2NFeGxZRGtqZlpaVUZVeDE2NjBFM2xHY19BeEZqblhuOWJoTUtFd2xZY0dPTDR2ZUIxcXdGdC1xbGNVSzNWTFVXMzg?oc=5
+- **Source:** Neowin
+- **Published:** 2026-10-14T20:20:00+00:00
+
+## Missouri gives Microsoft 30 days to address Xbox child-safety concerns - Digital Watch Observatory
+
+- **URL:** https://news.google.com/rss/articles/CBMibkFVX3lxTE1UTzd3Nkw3M2JPRmt0VTFfdFpESG1wREI1Z1hWeFY2Q0RjVHFieHhta1EyR3hEQlFlb0RCTGkwRmRodk9FVEEyNlJGVlV4SjlCN2dSZjE5NS1TSHJua29PcG5mQkJKVmk0dnY0M2dB?oc=5
+- **Source:** Digital Watch Observatory
+- **Published:** 2026-10-14T20:18:17+00:00
+
+## Goodwin Expands Microsoft Partnership For Its Proprietary AI - Law360
+
+- **URL:** https://news.google.com/rss/articles/CBMiXkFVX3lxTFB3NGg2RndtS3JJSldCS0NtaTR6aWpSbGFsZnh1SUV2Z0hmcXAzYm1xU2E4STI4VGNQc2o2YTdianZzZGZidkxoYTh5M0RGX0ZZN3IyRzhXQnZwMlh2aVHSAV5BVV95cUxQdzRoNkZ3bUtySUpXQktDbWk0emlqUmxhbGZ4dUlFdmdIZnFwM2JtcVNhOEkyOFRjUHNqNmE3Ymp2c2RmYnZMaGE4eTNERl9GWTdyMkc4V0J2cDJYdmlR?oc=5
+- **Source:** Law360
+- **Published:** 2026-10-14T20:14:00+00:00
+
+## Microsoft's wild ride back to record highs in 1 chart — and the lessons learned - CNBC
+
+- **URL:** https://news.google.com/rss/articles/CBMixgFBVV95cUxPTG9zQXE5OGUyT1Q2UDBaZ2dIclZlQ3o1eWdBUEtmcHNVQXg0Y1dUdUVteFZUcWVMM0F0U0tsRGYyMTJDWFJ4SkRxRXlYWWxaOGRtOGN3VWZEQV9jQUpGSXdjYkFFVS1lUEVJNEx0WFFYbjJVUk5rbm5WUUowblhNSVJrU3hlb2NNRkFXdkcwZjQxUjBfb3ZSUU1pWUVOakVwbUNWT1dFS0ZFcVl5QlBQdkd0TklDZDdWS0p5Qk5pMlBBazU1Tmc?oc=5
+- **Source:** CNBC
+- **Published:** 2026-10-14T20:05:25+00:00
+
+## Microsoft and Japan took down a cybercrime network behind over a billion scam messages - The Verge
+
+- **URL:** https://news.google.com/rss/articles/CBMiigFBVV95cUxORkIzZEdXak55QW4tY05hSmtTaU4xU0tqaEJvdU1HZWZqLWQ2SEJ4cm5kTU8zYUNSLWlzVEo3ZzhOMTF2bkk2WVpaNFEtazVkY3BnM0FxM1ctRElkN0gxX2tPc0Jtcm5ST1U4MTV4TEZienVNcHNCeTU3WklFUEVuTHlMdDF5dmhVbWc?oc=5
+- **Source:** The Verge
+- **Published:** 2026-10-14T20:03:43+00:00
 
 ## Microsoft Defender now supports Linux desktops - Neowin
 
@@ -183,123 +303,3 @@ _Last updated: 2026-10-14T20:01:13.945018+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMimAFBVV95cUxPTUFIX0p0a3l5Vi1rb3lMamJHT3I2VVdHX3Vjc1FLNGhIcVRKdE9vZEh6a3ZfYnpueVo2YjVSS2s1MlM5d3hGc2JHRkJMZ3Y0Y2QxMU9ma0stQWNvQms1TnRxSEpVRlVEY3ptRmdZLTY3V1NibFF0WF90QWQyMktpMGF0c0JJMFlaVHVIMS1leGk5aWhxSUtuUA?oc=5
 - **Source:** The Motley Fool
 - **Published:** 2026-10-14T16:23:00+00:00
-
-## BlueVoyant launches Microsoft Defender ISOC service - SecurityBrief UK
-
-- **URL:** https://news.google.com/rss/articles/CBMijgFBVV95cUxQVU9tMFBpTjc0cmtJU3JWZlpOX2QtX0VmbTFfZ1NRU0FhM1V4bDZtcjNTcTRxUVJYMHdpazJWMFBzOVlKTkt2SFh6RUhJZk16MEVhQVg4QW9qWnNfbWxndDJxQ2NleTJoVC16SGZ4V0tCTVN1bWpVa3VqNTNjVHZOcUxUVTU1QjVVaVRsTEJ3?oc=5
-- **Source:** SecurityBrief UK
-- **Published:** 2026-10-14T16:23:00+00:00
-
-## Microsoft’s Recent Windows Updates Break Remote Desktop Services With Error "0xC000000D" - CyberSecurityNews
-
-- **URL:** https://news.google.com/rss/articles/CBMieEFVX3lxTE91TnlDSEkxaGJGX0VBTFo3d29ablNlRENxU21xMEpNVEpCcFBMRXdxRjVqYmNQM0xfQ0w5dzNPZ3N4NmZRd2hfZlpDYW1KQ2tXYTFWQ2VtUDNJLXBKUWFXTmdXNjFLY0F0cEM4YlhlS1Vfb2tZbzNBZ9IBfkFVX3lxTFBpM004T2ctQmFfZ2cySUlRMXlZLXN3LWxlamh6TEFyYjA4SWlWNEhmYjMxY3JZTWFEX2dWZlF0blFxbG5sU2l6Yy1fNW5Zemo5WEVZSWNJeGYzOTdGTV94SXBGYXdPaXk5TkJDTTB0cHpGVFVqTFBUbnZHSC1sdw?oc=5
-- **Source:** CyberSecurityNews
-- **Published:** 2026-10-14T16:17:13+00:00
-
-## Research Shows Vulnerability in Microsoft VBS Enclave Component - Petri IT Knowledgebase
-
-- **URL:** https://news.google.com/rss/articles/CBMickFVX3lxTE10dU5RMllqNDNTUXBQMTZLNkp5RE5mYzZpOVpmN2xKTEFmOWRsSUkybmx5dFc2TFgxR2pjTXQ0b3JZejM2Z0RRYnMyamdsMTBCRi1HcWg0cDFBRkVnbElGTTVNc21ydFJVai12UGxOLU9NUQ?oc=5
-- **Source:** Petri IT Knowledgebase
-- **Published:** 2026-10-14T16:06:53+00:00
-
-## Microsoft has a new machine learning tool to improve weather forecasts - The Verge
-
-- **URL:** https://news.google.com/rss/articles/CBMiekFVX3lxTFB2WGM1c0dkNTNaZUFfZVFDUURhc0txQm9BdWk1eEt3OEhJUHJFeUsxdEhsc0lzSWR1Wm9iYTB0NnRpeXVlZGkxWjNKaV9IU1ZROWxQaFRuY2hxSmZqcGplZzFwZm9RVkVLUkZrNGJXOVAxeFJkZXJkdGlB?oc=5
-- **Source:** The Verge
-- **Published:** 2026-10-14T16:05:21+00:00
-
-## Meet the XBOX Nano Controller - XBOX Wire
-
-- **URL:** https://news.google.com/rss/articles/CBMibEFVX3lxTE94SVotekFQU19NajVrM005YnVkd3VGMWVRa3VXVkU0QklhWE9hYXkteTV0ZU1VMzNZUHNKXzNoQ0ZNYTFfbThaWG9PX0F5NFU3UTkwOVR0UGpoWDBiSkx4c1BqdHRxM25nYVYyYtIBckFVX3lxTE00REVIVzdLeXpQeERhcUFyRHYxR3BfRE5kTGRZSFprRjdVdkR3bUdUQlRfNVlSV2VlblZzS1JXUU5GTkNiZmhKYjN0c2d2c1V0elVoS1ZWZHVFdFhIRF83amNoS0FJZU9CdklrdXBoOUU0QQ?oc=5
-- **Source:** XBOX Wire
-- **Published:** 2026-10-14T16:01:37+00:00
-
-## Not Microsoft. Not Alphabet. Here's the Cloud Giant I'm Most Bullish About. - The Globe and Mail
-
-- **URL:** https://news.google.com/rss/articles/CBMi8AFBVV95cUxQYm10NUk5bzRmclIzT2ZlSUVxcGc0VHRBVnF0VVhyQ0RmMXRqQ1FTR01vRDlreTdHdHZ0UmxaY0pzckFWTlB6ZEZOcUxuWVg3MUVkMHlIenUza29oTC05UzdaY09ZYnhsSVIwRjRvMTFhQnpUZHpiR3g4R09qemhkUkFENGoyQ2h6V010aTRCT01RbTRJR3lEdDlmN19NVFRwVGdqWkhSdmJab3kxS2xBd1k3a0pUYkxjb0gya3piMmJ6TzRoMEN5YlpjbHhQc3l6QW5XRi1SUFpqdENKc3czM3RXdU14X2pkNTZTcjdlNXM?oc=5
-- **Source:** The Globe and Mail
-- **Published:** 2026-10-14T15:44:37+00:00
-
-## Not Microsoft. Not Alphabet. Here's the Cloud Giant I'm Most Bullish About. - Yahoo Finance
-
-- **URL:** https://news.google.com/rss/articles/CBMingFBVV95cUxNUE10Z0NVeEF6azZuYlZkUlVnNmppVnpiaUVEYnVrSXYwQjdEUWVURGRWMjNELV85bVRJQkxiVnJwRTBoQkl2U0dMVDkyNHY4cmthem1Dbmc3dGtjUV9vUjN2Qnc3VzZVQ19vUGl3UkxBUTk0bDFYVGVpTzJRb3hHcTFjYkZrbk1qcFM3NEpUVnlEd0dqcG13NDE2YWxBdw?oc=5
-- **Source:** Yahoo Finance
-- **Published:** 2026-10-14T15:43:00+00:00
-
-## Microsoft FabCon And SQLCon Europe: Elevating Semantic Models to an Enterprise AI Control Plane - The Futurum Group
-
-- **URL:** https://news.google.com/rss/articles/CBMiyAFBVV95cUxNRlRRQ3RWUWl0TnJqVXlENjZvQl9hUzlvUW5oYjU3aHNpM2JXLW9sLVAyNmVUUUpkRGVZQ3dtTlFKVk51dVk2dy1CaW1aUW5ybWhBVF96RzdSZUpPcVBWUW1yeEliTFkxV0NNMmd5d045UmFPLUs2aDBNZ3BnbW5teEFDWHoxM2F3UFA1ZE52VzYxQU5nSVppTTRaX3NxVm12SUUzOFpxVENLdUdoMnMyaGxjQ2NUMHU3UG1wNHB1Z1AxNm9oVjFwcg?oc=5
-- **Source:** The Futurum Group
-- **Published:** 2026-10-14T15:41:22+00:00
-
-## Microsoft admits a Windows 11 bug caused mouse stutter in games - PCWorld
-
-- **URL:** https://news.google.com/rss/articles/CBMirAFBVV95cUxNa0hfSHJ0cGR6bkFGejNRUVE3YnVoeDZWUEc3OFR5QTVTWjNUbExJYllxM1dBb2czUjFfeXBzRE96cnFYMTFzdmVoZUJSY2NYcDIzQTEzQUQxWTlZczlCOTRVSWIxZ0lLYnFFOHp0LWJFN3BDZ09lWGJfb2lUcDlKY1JkdWhZVlBacDAxUFBxZV9FZlp3aW5oRUJ4ZGc1bWhoQTVzOU82eW9kSzIy?oc=5
-- **Source:** PCWorld
-- **Published:** 2026-10-14T15:31:30+00:00
-
-## Nscale announces expanded deal with Microsoft in Norway | Nscale - Nscale
-
-- **URL:** https://news.google.com/rss/articles/CBMibkFVX3lxTE5oclR3N2NTakI1MWo2Vzcyb3NUSkZqNFFmRGtNdjNIeWdScUVISnJMYkJHMWI1RWtVNkF0dWIyWWl3ZHF5NzdSMEFZbkJ6MDJLaFo2UDFhNmN2VzN2ZTJFUFZZSS1ZNTA2eE1yQ2pR?oc=5
-- **Source:** Nscale
-- **Published:** 2026-10-14T15:27:34+00:00
-
-## Microsoft stock hits record high as company spends big on AI - Yakima Herald-Republic
-
-- **URL:** https://news.google.com/rss/articles/CBMi7wFBVV95cUxOMlRpMlhoUzMxTDRwZkNYV3ZOS3ZjYTYzUVl6MkxTSnh2dlFpVWNRQ2Q2Q3NDNTRpOXQ2N2ZTN1A5RG8ycGlKUW9LcDV6VjNZOVgwWlIzMUpUcEhwTE1lbUNhSjV2ZHpmeW1GNnF2a1g0anJ0XzlfQ3hJZlUyZWFtcW5UbUpoczJpSUdrOFlEZ3ZaeDV1N3ItZ2F4WWVfbW5vdm9mejN6cGU5RmUxRWctb1B4V296Yk9COEMzMk80X19LWS1HM3ZWdGNyaDhlbXQ2a2plZlFSZ0FGNHhZeVhhelhoVWUwUmh3ZC1rQVI1NNIB7wFBVV95cUxOMlRpMlhoUzMxTDRwZkNYV3ZOS3ZjYTYzUVl6MkxTSnh2dlFpVWNRQ2Q2Q3NDNTRpOXQ2N2ZTN1A5RG8ycGlKUW9LcDV6VjNZOVgwWlIzMUpUcEhwTE1lbUNhSjV2ZHpmeW1GNnF2a1g0anJ0XzlfQ3hJZlUyZWFtcW5UbUpoczJpSUdrOFlEZ3ZaeDV1N3ItZ2F4WWVfbW5vdm9mejN6cGU5RmUxRWctb1B4V296Yk9COEMzMk80X19LWS1HM3ZWdGNyaDhlbXQ2a2plZlFSZ0FGNHhZeVhhelhoVWUwUmh3ZC1rQVI1NA?oc=5
-- **Source:** Yakima Herald-Republic
-- **Published:** 2026-10-14T15:25:53+00:00
-
-## Microsoft denies cloud leadership called for significant cost cutting measures - Data Center Dynamics
-
-- **URL:** https://news.google.com/rss/articles/CBMivwFBVV95cUxNUnduTnF3N1NJcGRxR2VHNjI2YW56T2FxUFBqc0pZaW1CRk5aTkxFMllpVzZzbWgwNUpRQ3hfc0ZNXzFkUi1PdnlfY2NLcVF3LWxoNWJwcGhCWlFXZi1SWjJ5WXF6dXNHQ2F6V0pVR3dYYnZycDBxRlRURlQ3dVAzWXZpT0xHSWQ5LTJycGVtdUJJOFVqRmc1TklzMThCS25sSWRLMVJPLXc0cUxLeHV5S0tPMVRKQW5uaXMyUmZpcw?oc=5
-- **Source:** Data Center Dynamics
-- **Published:** 2026-10-14T15:25:51+00:00
-
-## Highlights of Microsoft’s October Patch Release - Kaspersky
-
-- **URL:** https://news.google.com/rss/articles/CBMickFVX3lxTE5POGtsM1Q2MWZydkgxN0JjWGJrSUdjbGtMNTBmaXhPR09ETGtVakRqbDBkQXg5ZDhuMHR2LUNlUnNjRzJsTEZlLU1ncmlkaE5wNmFlVGczMGplUzNMZWxwM29Ia0tvSloxMElwNjFTVzV6Zw?oc=5
-- **Source:** Kaspersky
-- **Published:** 2026-10-14T15:19:47+00:00
-
-## Microsoft, Health-ISAC and partners take down popular phishing kit services - Cybersecurity Dive
-
-- **URL:** https://news.google.com/rss/articles/CBMinwFBVV95cUxQY0hTTzhFRHRMUDVIc2JuLXQwZ09oWTQxd3EwVjBUUjBEQ1FTOTA2OVR6TnNoYzRZZGVXNjBkOWNkbWhTdVdtTHR5MlVPMzRHVHZsRS1tUWp1dEpQUkluZG1kSmdfenVpQUxKS0Iwc3VxeTdNVVVndTBvcnlXNXhyeFZpbVp6VnhvM18yWjc2UE9HUE51WjlUdE5NTU5acmM?oc=5
-- **Source:** Cybersecurity Dive
-- **Published:** 2026-10-14T15:08:56+00:00
-
-## Microsoft Patch Tuesday Sets New Record with 1,415 CVEs in October 2026 Updates - Security Affairs
-
-- **URL:** https://news.google.com/rss/articles/CBMixgFBVV95cUxPYk9UdmJhM09MQnd5RHg5MGlCOWV6LUhObGRDYXZETXAyM0lOVnJFWnNxenZUUUlnV2U0OHhINFE3SldrZGZ3VlQ0MV9VNUt5bHhMcV9NeXVxZ3djSGY3UC1BXzVsdjZqM3EwdGdIR3M1WUhZTGpwZWhkZ3FVQjBBZ09Qbk8tQy1QYVJXVTZDS1Y4cWRUVGFzRWRwZnZrT1hxRUUteUc1d25mazdBUjBkXzFUa0RhWGd6NHlyUE0tWlpPVUdsOFHSAcsBQVVfeXFMTWhvQ096bnBaMVFyU1ZxdmxpTFpNN05DeHVQaWUzREhBcmQ1d1hJcmswVUV0THVTUzhDSUlmRGkwSWY2MWhPLTZ5WTN5UkxiRHJPZnNwdGtJMGsxTXNHdVFzdVc3V1ZUWC1yZXl1OGJZV1JibGNLSjhHc1hjemptNjRlV3pMdXpzYmNST05uWDQxelF4T29hZm84TmM1YkRoakh6ejFoVC03U285Z05SUkdvMTVMVS1pQkFzVFFzSVB3ektoSjc3MUF4ZGM?oc=5
-- **Source:** Security Affairs
-- **Published:** 2026-10-14T15:05:02+00:00
-
-## Redefining Workflows with Microsoft AI & Power Platform: Start with Business Goals, Not Technology - Cloud Wars
-
-- **URL:** https://news.google.com/rss/articles/CBMiwgFBVV95cUxQS0hjTFhSQTdnQWpQczZ3bDd6OEYxOXlNSHgzc09Ed1BFeWxVdnlqcjZPbXRQNWtEczFKOUVxWHFUVU91QUl3RUFBazFBUFBhd1RHOHN5NGFGc0JOeG9jdld1VXQ4bXVMT1BqMkVIOEVPOUxzNlVYdmF3YmJ5VWhDZldEQ1NWSFk1YkhaTmp4OUV0dW9BTDRMZDhUbm5uX0ItRm5rcl9vMDhYTVJPOTAtN1Fma2p0Vl92cXBNWkNDTlZuQQ?oc=5
-- **Source:** Cloud Wars
-- **Published:** 2026-10-14T15:02:03+00:00
-
-## Microsoft’s 2026 Digital Defense Report: AI, Identity and the Race to Defend at Machine Speed - Cloud Wars
-
-- **URL:** https://news.google.com/rss/articles/CBMitwFBVV95cUxPSGE5MzhMNTdoMVVfUnhhNHRlVUk1Wlk4bmpQTTN0Rmd2N19VMWZUaFl5UGJTRjYxeTk3MUpWd0FPTkFoaDFmNVU3RllQRm1Yeml1Rzg5aWF6WFE3RHJJb1IyQU1MVWZka1hqTmVIMFBPZUExdEdpTFhYRkpMSjdIZDc4aGd3b2ZhdnFrNFJQVUdRMFg4a3I5NzdkVFhkSFRjSkk1d3RWemNGa2M0ak53VUxyWmFlTDA?oc=5
-- **Source:** Cloud Wars
-- **Published:** 2026-10-14T15:00:00+00:00
-
-## Dynamic Netsoft Marks 15 Years and Earns Microsoft Business Applications and Modern Work Designations - The National Law Review
-
-- **URL:** https://news.google.com/rss/articles/CBMitwFBVV95cUxQNjVFZXhtVDdhRV9mczZmcHk3T0Y5Q0otR3kzcUVkNHFnYW9LTmRKUFJidDhab1VZWDRaRTNYTy11UnlFQldrU01YSUNCdDlBaGlZa3VTUU9MVXd5TkN0NkwtWnBJNndSQXJ6emZIb0tFUno1ZERZTEN5ejZwVEwxUUdOQ2Zqb2JnempBUHF6ODRFZnpIdUhNOVBfMzdLbmtNYkRfWGEwMlA2T3NMVHAwR2F2dEZKS2c?oc=5
-- **Source:** The National Law Review
-- **Published:** 2026-10-14T14:52:19+00:00
-
-## Someone ported Super Mario 64 to the Zune HD, proving Microsoft’s discontinued iPod rival still has some life left in it - Windows Central
-
-- **URL:** https://news.google.com/rss/articles/CBMid0FVX3lxTE1qRTVtblBtTzNWOWxDNVkxT0Jaa3l5Z2dQMGU1X3pNbTJCa1RIVEpCYlhrVmE0UUt4aTBrVWNoc3lrbmtoR3ZrSW5iOEY1SG5sbUFFdlRwejJydnJFWmMtWTBUell4RXE2MWJOblppTDBFbkFucFJn?oc=5
-- **Source:** Windows Central
-- **Published:** 2026-10-14T14:47:30+00:00
-
-## Microsoft Takes Down Chinese-Language Phishing Services - SQ Magazine
-
-- **URL:** https://news.google.com/rss/articles/CBMie0FVX3lxTFBkSDkzS19rczNXWDBHOWpqemswaU5jWGU1Z19OU1NZTEZOZ0V5V2EzN0VrTXJfQ3BSMXRoWUk4R050WE5iZzVTMEJMZ1NPWXRFNzJRNEpXZGxESjJNMDB4ajgxRmprdFBOV2RzUk95eDNNMm0yOEoydDRrNA?oc=5
-- **Source:** SQ Magazine
-- **Published:** 2026-10-14T14:41:06+00:00
