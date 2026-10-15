@@ -1,8 +1,92 @@
 # NewsWatch — fusion energy News
 
-_Last updated: 2026-10-15T00:18:40.944512+00:00 · 50 articles_
+_Last updated: 2026-10-15T08:56:05.406537+00:00 · 50 articles_
 
 ---
+
+## STEP Fusion 'creates opportunity for region to play leading role in powering the future' - Worksop Guardian
+
+- **URL:** https://news.google.com/rss/articles/CBMi3gFBVV95cUxQTEoyM1dRQzN2RFRjeXA0NkVpekZhNU1IT2pDb0VOQXpwbUVzMzVFaUhZUExzSnl2amt4alBiN2tsQXZIT1pnS3pPVnZjMUtTLXNYalhQUUhCcFJrdWlxVmV5QVlNaHpnQWhVWHo5WENJbFBEZDJfallHYU5CdEFKQW9qTFNENUNKWWVfMGVJNnVZUno1S2k5dm1RbGs3MkFlNWNwOWJEZlJTV1ZiR2NWcVBkMnNUVWZmanNjU2ZTN2UtTElIS2Y3cDJkQ2p4SHRhTGE1VEZWYkN3dGxablE?oc=5
+- **Source:** Worksop Guardian
+- **Published:** 2026-10-15T08:48:00+00:00
+
+## UKAEA warns of fusion race with China as commercial prospects grow - Traders Union
+
+- **URL:** https://news.google.com/rss/articles/CBMimAFBVV95cUxOSUJ2eTJGelBFblc1RzZXMUZIODQ3OTlKX01mSDlBT21lTnFua29SY0EtOWJsZzFmRzRaSGJ2Tjl0OEZGNzZ4aXJHTlFqck9uX09FeU1yUmpXdkNiVld2cEJmb1NrdEJuam55ajQ1aWxNRHVpcEdBWWlmOG5Ja010M1YtZERrSVVlbHY4TUxEZ0FodzFFZF9QMQ?oc=5
+- **Source:** Traders Union
+- **Published:** 2026-10-15T07:55:28+00:00
+
+## There's a hero in all of us - Vocal
+
+- **URL:** https://news.google.com/rss/articles/CBMiYkFVX3lxTFAyMHhjX1Y3MV9oSDRsNWRhUlJsdjh5X0dhMWJUb0ZqcWtYaEZXamNTaktVcmhDSzFWOV9nc0lsRS1iVW82LW1sc3F0ODlFMU1EQi0ydkZRM3VFRWQ2UEI3QThn?oc=5
+- **Source:** Vocal
+- **Published:** 2026-10-15T06:43:09+00:00
+
+## 'Super Ice' 10x Stronger Than Regular Ice Developed… Potential Building Material for Polar Regions - BigGo Finance
+
+- **URL:** https://news.google.com/rss/articles/CBMidkFVX3lxTE01WWNULUdIVTlQSTFQNTE1X1QwUm5LbEpUaC02bEJXempWQ3FPMDdxY1h2SWVhU004eG1vSE5XWW9WVGoxNFVnbUltb1RNMUluUlJ6RkoyUHhGQUpYM1JrWG5xWndXdENRbl9MdTlNQTJKcFl2cXc?oc=5
+- **Source:** BigGo Finance
+- **Published:** 2026-10-15T05:25:00+00:00
+
+## Soaring energy prices set to swamp EU summit and overshadow budget talks - Financial Times
+
+- **URL:** https://news.google.com/rss/articles/CBMihAFBVV95cUxNSzFrQlFNUmNqaXA0UFpRb1ZOTWVxTVJwaG83VHVscmF0VkFaUm9oTldvOEFfWEROdk9oRnNMaGpxUmtic2hKZ2tFSG4tRjI3T2dxOXM4VHU1MDZBbEM3dDhGZUllWGE1OGtDeEpUTXNtZ1QwZjVfdDluU0ZOVUFtMlpESjA?oc=5
+- **Source:** Financial Times
+- **Published:** 2026-10-15T05:01:35+00:00
+
+## AI and Ecocivilization: The threats of AI to human flourishing are multiple and profound - Countercurrents
+
+- **URL:** https://news.google.com/rss/articles/CBMiwgFBVV95cUxPYXg0UGViTnRqRGEtUkxjNFp3VGViNVFENzViRXZ5NnFfMXJRb21ocXFBNnhfNW1Tc20wMWRTVVhJRTVzSUk1VEF1bHgzYmxRYThMRFFIcS1WaWd4OXd1R19NOXZtbUdMRldYMTdXN0tJQUF6VHFYWnB2OFBLR0tJUFQwamdxNDVNeG1rYVZKSXlqT2RYT1Q4MWN5TmhxNlY1SHU0MzhRbUVCQy1WNFVpaUVnYzVsR3QtY0t0WmZLaG5pZw?oc=5
+- **Source:** Countercurrents
+- **Published:** 2026-10-15T04:59:08+00:00
+
+## ICYMI: Nuclear developments around the nation this month -- ANS / Nuclear Newswire - American Nuclear Society -- ANS
+
+- **URL:** https://news.google.com/rss/articles/CBMimgFBVV95cUxOdkpzTG9UWUFaci1zZVhwZ3R0VXVXbldBcjFLbG1uQVphNENNOWhRWkdPNzhuMlZPU3pSTHNVTmViVlFuZjZYVG8wOXprMzFNMm5QYmJ0WDBnaV84eE5iMDNBQTFyNUM1OTlHQUl1Z3FubVVrYzBObmx5NDBmcVdHYzVTQm9IOGZzeUp1SWdtbERBSUp5cTE5T2V3?oc=5
+- **Source:** American Nuclear Society -- ANS
+- **Published:** 2026-10-15T04:46:14+00:00
+
+## Fusion CX IPO Day 2: GMP at 12%; check subscription status, other key details. Should you subscribe? - The Economic Times
+
+- **URL:** https://news.google.com/rss/articles/CBMi_wFBVV95cUxQa0lnZS1SN1ZFNk9ZdTd3anhTWVdUZ0VOT1lzLWlRc191VVVBZnhEYW9hQmRFUllDakdTRHltMERDMmFxX0RhNWxRQ3VkRGQxV1c1Yk54S1JaUHBRSmpONncxZFJwUlRrcHpBRnpKd1VlbElPWTV0V1RwUUk0b0dCSXg4NVM0TUFJT3RPVHlldGl3Q2NzOVBJVFpocjFQRUItdFlFRGg3UUhPZjBYc3FaQU1NNE9rQ2JncDMzU1VkdkNpTEZZUGhjRG4xYzZRRWFBdm0yci01Qjk5YTdlVklwQ1ZoR1RpclNjNHJaUVFVOVZDNHNzTlN0Q3loa25ZSk3SAf8BQVVfeXFMUGtJZ2UtUjdWRTZPWXU3d2p4U1lXVGdFTk9Zcy1pUXNfdVVVQWZ4RGFvYUJkRVJZQ2pHU0R5bTBEQzJhcV9EYTVsUUN1ZERkMVdXNWJOeEtSWlBwUUpqTjZ3MWRScFJUa3B6QUZ6SndVZWxJT1k1dFdUcFFJNG9HQkl4ODVTNE1BSU90T1R5ZXRpd0NjczlQSVRaaHIxUEVCLXRZRURoN1FIT2YwWHNxWkFNTTRPa0NiZ3AzM1NVZHZDaUxGWVBoY0RuMWM2UUVhQXZtMnItNUI5OWE3ZVZJcENWaEdUaXJTYzRyWlFRVTlWQzRzc05TdEN5aGtuWUpN?oc=5
+- **Source:** The Economic Times
+- **Published:** 2026-10-15T04:07:00+00:00
+
+## West in nuclear fusion race with China, says UK atomic energy body - Financial Times
+
+- **URL:** https://news.google.com/rss/articles/CBMihAFBVV95cUxNazc0NlZsWGR2SGdWNnVId1VHQm1jSUFPY1A4VG1DV1ZPTnJONWdMWmlXNjFaMmMybU82Sm5YVDdINW55TF8wZThSZEVQV2JBemZKVHR0aHFxSTdib2hLY0JYRHBvSVhiT25VWmxFNlR3SWdFWVN6dUxWNXd5S3NXOFBZaHo?oc=5
+- **Source:** Financial Times
+- **Published:** 2026-10-15T04:02:49+00:00
+
+## H Canyon restarts uranium recovery operations - American Nuclear Society -- ANS
+
+- **URL:** https://news.google.com/rss/articles/CBMijAFBVV95cUxNUVFlMm9sZU8xazJjdWRSUmxfUEk3VWRUd3ZPWVlHVFU4YXJfUmp1eVJyNFNvT3pUREw5OWFwOUJob3h0czBhVVN6b2FKY29TQVJlMGNlMFR4UFY3dnhoMXg2TTVBTkNrckNudk9uREdYN0h4ZlA5NlJNUUVKUzNxX2lRUVNWWXVqNEg3Zw?oc=5
+- **Source:** American Nuclear Society -- ANS
+- **Published:** 2026-10-15T03:52:33+00:00
+
+## AI pushes data center cooling limits; smart systems crucial - ET Datacenters
+
+- **URL:** https://news.google.com/rss/articles/CBMi6wFBVV95cUxQM1E0ZHh2ZG5uNVJpWnBkSTFzRHU0VUxhMGs1aVBhU2pHR1RlYmJ4S3M5WUdSTGdoMHpyc0N2WGRJNXBjX3RTUkJ5Z2pKMXVvaXpUWWZoN0lRT05SRmNXSlNZbXd6TjNKaG1ZRXRva2Y4aWg0T2RiVmhzVnE0bTkwb01BUExGVGF0Uy1yS1lvUVVxcFVmb0g5Zk9uaGVzeVQ2SGt0MkhId052Snk1T0l4NnNpNFJJdkxhLXBvbWlfTDVuRXhxSDZzcXhFelV2S21jd2hYcFhrdjBCMHc1aU1pVDQ1WEctU05oWHFV0gHrAUFVX3lxTFAzUTRkeHZkbm41UmlacGRJMXNEdTRVTGEwazVpUGFTakdHVGViYnhLczlZR1JMZ2gwenJzQ3ZYZEk1cGNfdFNSQnlnakoxdW9pelRZZmg3SVFPTlJGY1dKU1ltd3pOM0pobVlFdG9rZjhpaDRPZGJWaHNWcTRtOTBvTUFQTEZUYXRTLXJLWW9RVXFwVWZvSDlmT25oZXN5VDZIa3QySEh3TnZKeTVPSXg2c2k0Ukl2TGEtcG9taV9MNW5FeHFINnNxeEV6VXZLbWN3aFhwWGt2MEIwdzVpTWlUNDVYRy1TTmhYcVU?oc=5
+- **Source:** ET Datacenters
+- **Published:** 2026-10-15T03:20:28+00:00
+
+## DOE selects five companies to negotiate receipt of surplus U.S. plutonium - American Nuclear Society -- ANS
+
+- **URL:** https://news.google.com/rss/articles/CBMirwFBVV95cUxPRjNTeWdwTXBMWmhpRnNiU2FHNnFaNHJOczB2elBWSTlLUmdJSFE1SS1OMVo1MkxEdGRuXzhwZzE5M1pOMURDMW9CLUEtR0ZuS3pOTDJrb2JNTlBJSzl5SkpiQmpORWducFBjZ3BfWjRmSHZLS0psTHVxeWVLQmZrUGQ5VWl6VUt1QzhIUGRjdUk5cUgyZlc3dUJBUnZORFFoLTljWUxlYmtLUldQWk04?oc=5
+- **Source:** American Nuclear Society -- ANS
+- **Published:** 2026-10-15T03:12:37+00:00
+
+## Buffalo Soldier –Dax Ft Damian Marley Scottish Premier League (Tc6kOgFzXQ) - Unisba Media
+
+- **URL:** https://news.google.com/rss/articles/CBMiZkFVX3lxTE5hekpfQ2F3bVFlbWo4T0RfZWhHV1AycjYtdzVGZlVHQV94enZRMXhOWVhyYjUyRVFBOVBZeDZkb1pra3E1cUU3d0l1X1ZET3dtNHVtMDRDZU84SXg0MFUwMWdBaHN1Zw?oc=5
+- **Source:** Unisba Media
+- **Published:** 2026-10-15T01:47:15+00:00
+
+## General Fusion hits plasma heating target - Nuclear Engineering International
+
+- **URL:** https://news.google.com/rss/articles/CBMigAFBVV95cUxQdTQ0bWpCNFA4Z3BXbjlHUk94emdLSWZCa3RCNndicURJZU1mdWpaWVFsdnlFZkk1ZDBpY0ZsSC1nMnBfOUh1bVd3U3RQenphdXE3NUdSQTNLQlVTZW9icjYxb2p4bFhkSHYxUE1OQnI3WUVVNFR1VUtkOTVLeGtRcA?oc=5
+- **Source:** Nuclear Engineering International
+- **Published:** 2026-10-15T00:33:58+00:00
 
 ## Taliwhoah Introduces a Sultry New Sound With Latest Single “Get It Up” - buzzmusic
 
@@ -219,87 +303,3 @@ _Last updated: 2026-10-15T00:18:40.944512+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMiwgFBVV95cUxOOFJub1VqeXBXMUpYSXlQVGxFd3ZpUHBCNnJtREtkMDhiSzFONlRJeTNaUEJpWFFfYVk0ckVrODJBMTBvRmFwZFZRNWFhRXIzS2JmYy1xMk56NjhxZUJhNnhzVUpveE5BdjU1c3FVdmhQUEg1OEoybHBISHgzaWh6QkVuX3VmTGRfN2oydmRNanJ4WUlpYWl3VUhwUEpYWEtHV2xMM1VaRWo1eUJoNWthZGE2X0JZZ0FSTDNqQm1nS3Rsdw?oc=5
 - **Source:** TipRanks
 - **Published:** 2026-10-14T06:17:08+00:00
-
-## Pulsar Helium and Lunar Helium-3 Mining Sign Evaluation Agreement for Helium-3 Recovery Assessment at Topaz - GlobeNewswire
-
-- **URL:** https://news.google.com/rss/articles/CBMiiwJBVV95cUxOb011Nl90aV9Udm93RDBhNWdKWTk3VXhUeFFuaklIT3JJZjVKSElmelg0Z0EwMnNUVDVNLWFoVG5PQ3FYQXJVQkRMYnRVT3pleGotOGgwMFNZeENVUGJXbUpVOG9GdmtLb3lqZmVxdEROVl9SU1ljY0s3VE1saEJXRklqWUJPM1ljbDFJZHk1blBEWXE0R0ZGN2pzMmdja2tmMEU4a2xSX2xiaFJnTGxyWDUyWS1mZ3pEbWtrUUlsZ2Z4Z2x6TFItV3QtamRLQjJOcVNBejMzQjYwamxzZExCZkhnOWdodjFLWUNieldzSEJNamRUUDE2cmNNbDBMdDVXdTRvSDQtY0VjSlE?oc=5
-- **Source:** GlobeNewswire
-- **Published:** 2026-10-14T06:00:00+00:00
-
-## Bio-friendly ice composite developed by Israeli researchers is as strong as concrete - 디지털투데이
-
-- **URL:** https://news.google.com/rss/articles/CBMixgFBVV95cUxOQ291NVJYcjdicWkwekRCa2tPajZ4RU9WUUprSERydW1BUlplMWlMbURlODJCS1FvNEkzTHh6NmF1UmtQX2Jkcld1eXFnbkZIQTRMXzlRMXBydTRLY212NlFkemUxS2ROS0NYaXk4WjhOdGxZejFZTTNYU0xWWWFuZFVMLUoxRnFyMW92cDZiTGxtR0hRSFc3M3VOQ01VQUFra2tsUkpyT0dENWdXQXlBNm5fWU5VM1VLSXJYTFRCWEdVaDVZRkE?oc=5
-- **Source:** 디지털투데이
-- **Published:** 2026-10-14T06:00:00+00:00
-
-## Fusion CX IPO Date, Review, Price, Allotment Details - IPO Watch
-
-- **URL:** https://news.google.com/rss/articles/CBMiSkFVX3lxTE5UcFlHN2lJTE91T2N2QWVndEllUm9SV1FTWGpKdmVQaWo5TWQ0RmN4Rk9yTEY3RDloSl9aSGhIYzh2aG5lejBka3dR?oc=5
-- **Source:** IPO Watch
-- **Published:** 2026-10-14T05:23:17+00:00
-
-## INL hosts talk of nuclear successes, next criticalities -- ANS / Nuclear Newswire - American Nuclear Society -- ANS
-
-- **URL:** https://news.google.com/rss/articles/CBMimAFBVV95cUxOU3JIdXBzR25helFfODVwZ1JJTEdnV2g2Y0dMa0ZLaHNsOWlQaXB2YXczeG5RWTlvaXEtRWNNM1NMdmNTVGQ3cUFBN09WMThyNGtvVWloYURmR09aSDZFSWRleUpyQW5lRURBXzdXb05jSWFPQjdaZW42NXc0cHNna19rcmt3Rk1zLWs2b0MzQXktNGNtd1lDMA?oc=5
-- **Source:** American Nuclear Society -- ANS
-- **Published:** 2026-10-14T02:24:12+00:00
-
-## Fusion Botanical 2026 – What You Need To Know - The National Tribune
-
-- **URL:** https://news.google.com/rss/articles/CBMihgFBVV95cUxPTmdrVGF0VmVlWWRxLTloVl9SVFNiN2UwMVVUbjJaWHl1VWFfMi1iamtTWE56SWFndmJ4cHVtRkRVWWl0WFNUbkpnWVlIVUVNOE9oWjkwY2dVczVldW5wVHg2QTR1QXZCMmY0UVFfZFA1MkJPaFhCbE8xRmZvRlpSM01HTUZTdw?oc=5
-- **Source:** The National Tribune
-- **Published:** 2026-10-14T02:10:04+00:00
-
-## AratheJay – CHRISTO DISCO (Album) - TrendyHipHop
-
-- **URL:** https://news.google.com/rss/articles/CBMidkFVX3lxTE8xZDgwVE1INDZic251cHlscHY5cEs5ZE03YWU2TDRGemtLbVJFaVhuZDc2LXZoNzcxTmlUai11Y1lEYWlPV3BhRkNvZ2haendXZ0hHRS1SaW5sWG5SaGtCbGdPNHljSE1pVFZlYTBJcHBJcDd4WEE?oc=5
-- **Source:** TrendyHipHop
-- **Published:** 2026-10-14T01:48:33+00:00
-
-## DOE adds 12 Phase II Genesis Mission projects and six more Phase I awards - R&D World
-
-- **URL:** https://news.google.com/rss/articles/CBMipwFBVV95cUxNY3VzU0ZkdHJsRXdMZGFaWEJxYkdjUlBod21vY0syYVk3dXlScVJOZWVpLUdRZFItNzIyYlk1OXl0RWJ2Y3ViYVREZ2d4M2pXNEo2dUVieXBGNmEtOGZQd3hoMXVkNUFrbUk4N05sa0JfVzdSM2N4TTJOUExYazI5dTdZZGduTEJmRmhVbEhKME9wLTVtMkhMTTRrT2ExbXhVNmhzbVF3TQ?oc=5
-- **Source:** R&D World
-- **Published:** 2026-10-14T00:00:16+00:00
-
-## Chemists Recast Diamond Qubits as Molecules, Accelerating the Search for Quantum Materials - Bioengineer.org
-
-- **URL:** https://news.google.com/rss/articles/CBMitAFBVV95cUxNWURkeFkxTlhIbVdqa196a2M5M0IwOER3Q2t6dVJiQjFWOVhJSmkwMXNWa3p0V084UXljUGZoS0ZNNGJJMWk0ZmFHSW81dUU0X1h6SEdZREdiT1d3NURRbHk1Y0FYZW9Nemw0TWR6Y0dkcEplWDRGVmdrZnhlejlta19WQmVDU0Iwc3Q3UVdCMEpXMlN6N3dBeU82b1NhWGlOWGMzd0NoeWF1YlRVdnVTOGhWYnk?oc=5
-- **Source:** Bioengineer.org
-- **Published:** 2026-10-13T23:53:45+00:00
-
-## Get your groove on Halloween with Celebrate Shuswap dance party - Salmon Arm Observer
-
-- **URL:** https://news.google.com/rss/articles/CBMinwFBVV95cUxPalhwMWxaMnpBN2phUTk0MTQwTlJaTVNGeXU3Z29hdjdaS3Y4ZmhjbVg2TV9JTjg2R3pGV3pNVWVaekdVQ0poMldQWTFWN2tlTS1XVWR5XzhoaWExbnBTaFdmZ0tMM2F2T1dhdGpiTHlNQ2p6SnJFZ3MwMlF0ZFd2Z0prOFFvVkdsUUZjZVVGUk9KdzVobjcxU193VnlIaEE?oc=5
-- **Source:** Salmon Arm Observer
-- **Published:** 2026-10-13T23:00:13+00:00
-
-## Advances in science in 2026 humanity enters a new era of discovery - Daily Excelsior
-
-- **URL:** https://news.google.com/rss/articles/CBMipAFBVV95cUxNWjIyZDVub0pYZEQ5dDktZ1l0MlZQY0xXSTg4NC1uZlM4MVU3elhXNGpoUjBJSjFNOUtMSkl5c1BXeTVWWDdaclVyYkxDQ1VsaER2V0ZOMHRJSnpXTGtveVVNcUJyeTJaUEpzX3FGSEJyQ1hRMjNpWGc2cjFwS3VMRjFHbjJfeTZZU3hHWUNKcFptUVBCWk5vaXQ0UlpLNjBUOTlrSdIBpAFBVV95cUxNWjIyZDVub0pYZEQ5dDktZ1l0MlZQY0xXSTg4NC1uZlM4MVU3elhXNGpoUjBJSjFNOUtMSkl5c1BXeTVWWDdaclVyYkxDQ1VsaER2V0ZOMHRJSnpXTGtveVVNcUJyeTJaUEpzX3FGSEJyQ1hRMjNpWGc2cjFwS3VMRjFHbjJfeTZZU3hHWUNKcFptUVBCWk5vaXQ0UlpLNjBUOTlrSQ?oc=5
-- **Source:** Daily Excelsior
-- **Published:** 2026-10-13T22:30:38+00:00
-
-## Will Fusion Alloy Partnership Change Daido Steel Stock Narrative - Simply Wall Street
-
-- **URL:** https://news.google.com/rss/articles/CBMi0AFBVV95cUxPdXhOeDdGLVpzQnloMUhBdndCQm1Hd3N0NHlPN29WWkxNOXFNYTJpLWN6Vjc3RXFvdEVjRjRWMF9jQ1pVR0s1ZVJ3dEY3anJrZGZiVWNpUXc4LUhXWTZYbl9hSi1uTXJxdGZRdnZrSTZITzE4eWUxSTBIUEFTY1ZmM0s5eGtXekFNTzBRTUFBRlJLWW1hTzhsVWtGcXNvMWN6VzJzZXJKR0p5akdSMHN0bUUteUx5ejdKZnRrTlY5MEwydmJMMVBHZmpIMnJqYkQ20gHWAUFVX3lxTFBZQ1Nrc05jM05WLWtPT2JnRGlCa25zZTAxNGd2M2liSVpjaWp6S2luUDJYZjJ0Zktta0RQMlhqQ0tUQUJaLWdzaHdOSmFpbnZYMjRIVUNMYlR6d1FwQ3hUSi16ZnhxUFN5dWNuZFpnc3VQaUlvX0czempSeGNCMTN5NGNWbkJGcGVoZDFRbVQ3eVhIR3o5dnBzYjhISlE1ZUM1UWJveHZBZ2t0clRhOTY5VGJ2cG04UWp5TTExbGphNmxQRE5lNkJnZWNUbFg1eHR2WXJ1MXc?oc=5
-- **Source:** Simply Wall Street
-- **Published:** 2026-10-13T21:14:25+00:00
-
-## PPPL model suggests a lower-energy path to fusion ignition - UA.NEWS
-
-- **URL:** https://news.google.com/rss/articles/CBMirAFBVV95cUxNV2tiRUsyV29ER1RESFZFRjNDVjg0cklmSU9XREpqSXpybmdqdDNaOGtISFpCVEItNGRWc290QVBLYWhzckxBRjhCdkJKbG0yaGFkVnRXYnJxRk9DU0MwVkc3Yjhva3RSTzVsZkZINXMzN0N1YzRfcnNOVGlBcGFqSlVobzQybW9hVFVrRVVSTWkzSGctTS1BaC03MklJbmNqYjNVNVhqQk95SXpU?oc=5
-- **Source:** UA.NEWS
-- **Published:** 2026-10-13T20:19:42+00:00
-
-## ORNL’s role in Genesis Mission grows, securing six Phase II awards - Teknovation.biz
-
-- **URL:** https://news.google.com/rss/articles/CBMickFVX3lxTE90YW1vY21pMzA0X2h6ZVJxdEJNcDVNUDdJRjBQcHBnN0Y3NDQzM19aZHJLeEJPeWtZdVNXOXBXSmpFc1lBNWI3OFVySjRiZG5BYnZyaWhWNzlHNER4NnR3ZG10U3ZzV0txWGJReDZwWFVXdw?oc=5
-- **Source:** Teknovation.biz
-- **Published:** 2026-10-13T20:18:14+00:00
-
-## Donald Trump revives effort to halt construction of Ørsted’s offshore wind farm - Financial Times
-
-- **URL:** https://news.google.com/rss/articles/CBMihAFBVV95cUxPLWoxOVJNcmtaU1RrX21yc2h3MEhUS1Y0LXdFcG9HaVlSdGRidks4OVRVUnBJbVhYUmpMVFNScFZrTE5aWHFsY1pRb09QdWhQVTlVOUlZSmhCMGdjZk0xSzBsZXJ0MVU1ZGNRajB6ZlA0LTVJQmFhR1NSdndoRXZucHNFQzA?oc=5
-- **Source:** Financial Times
-- **Published:** 2026-10-13T20:04:14+00:00

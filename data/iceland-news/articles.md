@@ -1,8 +1,74 @@
 # NewsWatch — Iceland News
 
-_Last updated: 2026-10-15T00:18:40.467316+00:00 · 50 articles_
+_Last updated: 2026-10-15T08:56:04.980535+00:00 · 50 articles_
 
 ---
+
+## How The Nordic Countries Are Rethinking Tourist Taxes - Life in Norway
+
+- **URL:** https://news.google.com/rss/articles/CBMibEFVX3lxTE84M3JYOGpfWTFQV090QWRIUlBYbFhMVU1vT1FzTExJNTM4YXJrN2tkaDdtQkgzWk5wNV85azgxT2JETzlUeU8ybExKcWZEQ2N0QmVaTnd4V2FISzJqNXk4RjZoTHV1SExMaG1zWg?oc=5
+- **Source:** Life in Norway
+- **Published:** 2026-10-15T07:55:40+00:00
+
+## Snow Warnings Continue in North and East Iceland After Storm - Iceland Review
+
+- **URL:** https://news.google.com/rss/articles/CBMilgFBVV95cUxQcWM2Nk5VUHpQWFliZ3ROd1JpX0o2T0Fld1RzcGJ0MHNJMFg1TUpxSUp2em5CenVrQzFKWkszQmdaUHRxcHlDcjlsSVJ1MmpJT1JXckdkOTNKQXF4Rld2UEVldkM1aURLQnV5YnZ1d2liaHVSWkNFUnc4N3AxNjhhZG42U2FqSFBxZEhlXzVTY1NFdFJVS1E?oc=5
+- **Source:** Iceland Review
+- **Published:** 2026-10-15T07:00:00+00:00
+
+## Nordic AI Projects Span a 1,152-GPU Supercomputer and Local-Language Tools - TOKENPOST
+
+- **URL:** https://news.google.com/rss/articles/CBMiW0FVX3lxTE9ST0ZFMGdjZ190M2RuQ2daSmxxYUZmc3lQak5SUUxoVGZ1cFFCMFp6c1JvUXRjQlNnRDg4azBoWlhUTFN5SkpEYnQ1WmszT2pfdlJjRklTQW1yZXM?oc=5
+- **Source:** TOKENPOST
+- **Published:** 2026-10-15T05:52:14+00:00
+
+## Guide to Fast Food in Iceland: Best Chains & Local Favorites - Guide to Iceland
+
+- **URL:** https://news.google.com/rss/articles/CBMib0FVX3lxTE9vdlpXNTdub21lNGlYaW1MRk9FMGlveVJuMndUMHUzUEo1d3pSMkpVX0EyZWMtdlM5MW1sVm9PejZud0RDMmc2RTJwR3ItVmxXcC1jTnZXeE9xZmotMzMzZEdwRTdVa2g3REQ0aWtJaw?oc=5
+- **Source:** Guide to Iceland
+- **Published:** 2026-10-15T04:53:36+00:00
+
+## Jaylen Hoard vs Iceland: stats, game log - BasketNews.com
+
+- **URL:** https://news.google.com/rss/articles/CBMiiAFBVV95cUxPamtyWWVVR0FUZ3hTeVZ2X3JSbVJIWXlqZjJpNUN3bjB3bkZBZTJtTzI5aTEzMDVGUVFwTHBTNXk1ZXVuM3RjN2lCeVlMVEFVWFNMc0ppbUNkOERrcW1lS3NwRVhCb0NFdGFRZGtKOU1nMjBNeXlRNzJVNUhhcnRHWFNrWHl5eDBV?oc=5
+- **Source:** BasketNews.com
+- **Published:** 2026-10-15T04:07:05+00:00
+
+## Cal Thomas: The Greece speech - Daily Freeman
+
+- **URL:** https://news.google.com/rss/articles/CBMieEFVX3lxTFBkX1VPWGtDRE9jVU9SN1kwcjBxc2phdk44Q1NLd1IxOHlJbXA0TXJnZDdSYlF3Q3d2REotZFlCeWl4NGw4QUVNNGJGcWxDbHNjMFJFQnEwSWljYVJCb1NucGRzZmJxNFdtaGRMOG1seGU0SE4xR09CRA?oc=5
+- **Source:** Daily Freeman
+- **Published:** 2026-10-15T04:01:38+00:00
+
+## The Most Frequently Asked Questions About Iceland: A Study of 44,176 Traveler Questions - Guide to Iceland
+
+- **URL:** https://news.google.com/rss/articles/CBMikAFBVV95cUxNSFdiX25QSFBTUlRwNlZkLURfT1RIOG5XLTNfSkJnOVBUdEVGTDR6bmpoUHVPdHVCQzNjOHgweTJua1oyWWlaNmxpVWg2aS1XZk93RTZuczFGODRmN2VLR180X2Rnd1d1YXpKT2JUdU1fVmVVaGd5TENMNTlLZ3JFMG1sTkpreXpzRm9Ed0NwNDM?oc=5
+- **Source:** Guide to Iceland
+- **Published:** 2026-10-15T03:33:45+00:00
+
+## Photographers Capture Stunning Scenes of Icelandic Glacier and Ukrainian Resilience - freeyork
+
+- **URL:** https://news.google.com/rss/articles/CBMijAFBVV95cUxPUzdTcUk0SUtaZFU4S1BUcEJ2TmdJRWFjdzd0anVDZ2JtaGNraE5KaXVRbW5zQXFjWkdSNFllQ0dTbmU5cmhyR1RQYTc1d0RDUE1sbUxJLUN0U0VfWTZzM1JoV1oxVUJIMXhnbW5NdUdzSFJBQUNOVi1VbERHWDNfUTA4X3NuZEZuYkxndg?oc=5
+- **Source:** freeyork
+- **Published:** 2026-10-15T03:31:01+00:00
+
+## Rapidly intensifying midlatitude cyclone passes over Iceland - cimss/ssec
+
+- **URL:** https://news.google.com/rss/articles/CBMiaEFVX3lxTE9MaVhyVGRVeU9DNlhuWHlKUlhvV0NHc0VWTXFHalBXOHRWeFBmQ3Z3dzB6eGdoUkZ5dlBCYjRuMnR4emZJN3h5ZWJYWGxJSy14Y20xa0NxeDlVSXRRYXBmbWJHaUt6SDN3?oc=5
+- **Source:** cimss/ssec
+- **Published:** 2026-10-15T02:35:11+00:00
+
+## Marco Belinelli vs Iceland: stats, game log - BasketNews.com
+
+- **URL:** https://news.google.com/rss/articles/CBMiigFBVV95cUxOMWNfbWtXZjNUNWFwUjBJRDFDeGtrMzF4dm1CRjVYN1NXMzRKaU9tb0FOS0VoMVNLdE9Cc2tweV9CMkt2c3dlV1F2blJxTjVTcjZsTHRPbHJ6eThuc1c3V2F3OHZiTzVuQlJVbVJXOW5KUlF2YnM4bG1iQld3SW42UG1pdmtFUi1LTHc?oc=5
+- **Source:** BasketNews.com
+- **Published:** 2026-10-15T01:02:52+00:00
+
+## Ottó Hólm Reynisson - Transfermarkt
+
+- **URL:** https://news.google.com/rss/articles/CBMi1AFBVV95cUxPQ2ZCdjBHMTZSRlpEbjMtb2NNUWFyUFI4anR1SGJFRVNGc0dGajE0V0szeUR3TVVYNVNYSXowaHJ2ME9Xek9Xem1mZmdRVlBQcFphdHJvMGN5MFlDTkVjeHF0VVd5NTFGUE5wWGl1SW9DNmxuSFVFbFZqRHNFU080ZDB6T0E3WE55T3FKMzFwV1FMS2Zsb29vSm5JUDg1RnF5aDltVW1DQUQ3TnFqdTZDaGV1c0RxVVZKbGtWNEsyMXNwQmlZWjJpTTVWVmxOM1ZvUklwVQ?oc=5
+- **Source:** Transfermarkt
+- **Published:** 2026-10-15T00:33:36+00:00
 
 ## My Mother Got a New Hip. So We Went to Remote Iceland to Road Test It. - WSJ
 
@@ -237,69 +303,3 @@ _Last updated: 2026-10-15T00:18:40.467316+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMifkFVX3lxTE5qdm94bXpQbURQTmR3RFdJY1pwZm90a3hGVTNOUUxmbEFJSDNzbWZuakM2VlFFU0k1cUVhN3VzZmI0VUpFaUJ5OG44azZnb1FnZUZFYlRKX2ZsRXNUaS1yQ2NzMUltUnJzOG4yNGF6OUwzWmQ4dVI5Sno3eWhJdw?oc=5
 - **Source:** China Daily
 - **Published:** 2026-10-13T14:38:43+00:00
-
-## Iceland Roundup: More Parking, Rubio & Ice Spice, And Rent Brakes - The Reykjavík Grapevine
-
-- **URL:** https://news.google.com/rss/articles/CBMisgFBVV95cUxQSHlFXzRPeWJnTFJwVTRlbVg4TTQ3bng2Qmd6QVBtR3FjTGllanpybm1oNHNRVG9VV09XeXAzMFNjMzZQeDZPd3ZmdnRwSjhSTGpJUE9KZ3hIREdwcDE1WVFGSWNWcm5FY1djbDRSd1UzX2dDMHpRWThPajM3V2Qtc0p1OFNqdHB1bGN3MjdlZHFHV0NrZ3N2MXU1NmF1TW1TckxLdjUwSXgyTlJCQ3lpZy1B?oc=5
-- **Source:** The Reykjavík Grapevine
-- **Published:** 2026-10-13T14:20:37+00:00
-
-## Zmiany trasy linii nr 8 - RÚV.is
-
-- **URL:** https://news.google.com/rss/articles/CBMidkFVX3lxTE5XVF93SXdzdmlhd3hNa09ZZTJsc3NNSlJTMV9oVUk1XzMzdlJOV011REJMNzFGRGdCdlNSUGkydGhKd25YQUdVQ0o5alkyY3k3VVc4TS1Zd1dxZ3VNSzNXZmkxZkRxbDhQaHNmRFpyM3FENjI4bUE?oc=5
-- **Source:** RÚV.is
-- **Published:** 2026-10-13T14:06:00+00:00
-
-## KTBS Travel Club explores the "land of fire and ice" - KTBS 3
-
-- **URL:** https://news.google.com/rss/articles/CBMiywFBVV95cUxNZmRTYzV3emtrekZuQm9sNTJkNlVMS1ZOa2s0TXBwXzBJdEdPQVVUWWI2dW1YNDVWODhyWHdoMVBzVkxFV1NxMjhxbk8tZ29mWHZfWG94cjVyV29LYkxwbzE5SFJZU3poQUVvZ0Fkc2hUck5Xa1h6NENOdTZvNVctZ1I5ZUFSVGJpbm9tZjBqTkhGbmJCa3NRYXctS0g0UkZlcmpLMUpEdUlEQ3A4LWxnbFg4Yk9sdUpQVm5IUVJmWjlXM3k2VUFNeXpTcw?oc=5
-- **Source:** KTBS 3
-- **Published:** 2026-10-13T14:00:00+00:00
-
-## Syn and Sagafilm launch 'Heima' streaming service showing exclusively Icelandic productions - Telecompaper
-
-- **URL:** https://news.google.com/rss/articles/CBMizAFBVV95cUxPLUN4OHJ2V0pfaVkzX1ZIMHhXZFJGQjJ5THdwbUZNb0ZGTGl5Y1gySzhWQ3hYdnNVVnJEQm5GMzhPeWhqUk8xNHFibjJwaWprbkpwWERLRS1lbzN3YVpJUVdOXzgtNVRLQnFDYUNSZGV0RmdGMk9vLVpTbmhZakw1Q3NjNWRMSWgzSDRQM1BWaENFdFZXWVhyaWtnYkhfWUpDVEFaZFNBTS1XMmVUNUYyTjFVRUZ4U053NXFqZ0ExZkMxMEs0a09aVU15M1Y?oc=5
-- **Source:** Telecompaper
-- **Published:** 2026-10-13T13:13:46+00:00
-
-## St-Georges completes Iceland gold drilling; ass... - Pluang
-
-- **URL:** https://news.google.com/rss/articles/CBMirwFBVV95cUxPNTVBNGlCR1VYRXdIRXZrRlFBaUdzVks3bm1KQUx6T2FiS1VuWWxDbG1MYjVxRldMRGh0aXBleWh2bmItZlpsUVZmazdPaElSWkFBX0pvSVIwNDc5cWd5REtDb2pEaXdKdGxnY2pQdTJTc1VMaldaMmtKTFh2dWdWaVdKbHdITWg2WTgxTTd5UHZfMDlXWnRFdjdvcFFxRjg1YlNIVnNHNWZyeHRXWFJn?oc=5
-- **Source:** Pluang
-- **Published:** 2026-10-13T13:13:41+00:00
-
-## St Georges Reports Completion of Iceland Gold Drilling and Provides Trading Status Update - TradingView
-
-- **URL:** https://news.google.com/rss/articles/CBMi-AFBVV95cUxOSDBRRW9ILW9sbjhDQkdLYVdOZVR0eERyUW01eTBKUlZWVDVrMDloT3FlN0VjNE9FaS1VNUF3NTFsU0Z0cUtVZnpoTE9uWGdlQmNNaUphdWdUdDFuMzJBakhhWk9Xd0VMS0RDZTZEQlNfLURFQ01odzZuUU1vdm9wS0ZOUVhBZ3dPd0NlR0U5ODVFWXAtaEUtaG81enhlU2NlYnB5bjYtaUozVUswV0dDRHRRcnpDUk5GeUlMRGp2WW9uMjRMRlVTNG5UMDM0Z2xzbWNfeF9TOWEyVWJSYXdlSXNVb0hkNHVrZHYtdHljMTZnMDVQQjFwZg?oc=5
-- **Source:** TradingView
-- **Published:** 2026-10-13T13:01:15+00:00
-
-## Capelin Catch Advice Cut 70% After Survey Falls Short - Iceland Review
-
-- **URL:** https://news.google.com/rss/articles/CBMifkFVX3lxTE1PdFlOT3UzQUwwMEpWTDN2Q2RITXJWeWtWT2NXeEFhV2l1MU5MX1lDcTlaSTFOTFlHbDB5UHoyTjVSRWwyeDlxNTQzVGhyRWN2VGNtYzh2dzcta0g1U0tUZFo3d0lFV0FRaVpPcWRkVmFoSlZ5TWNoOU45SDhGUQ?oc=5
-- **Source:** Iceland Review
-- **Published:** 2026-10-13T13:00:37+00:00
-
-## St-Georges Eco-Mining Completes Iceland Gold Drilling at Thormódsdalur; CSE Trading Halt Continues - kalkine.ca
-
-- **URL:** https://news.google.com/rss/articles/CBMi0AFBVV95cUxQVUdyTXRUVzJzbHdXYzNjb25IcW1aUUhaVUdGbGNxZHhtX1N6NkZkZFhDOVU3NnB1N3R5UzNucklqRmtKOWUydWtJbW44b1dIMUlwQ3hubVQ5STZaaUNRZXRiV0NYSlp3b2dJMXBrUlV6TExpd204dy1jRFZHWWhhUm02RURMUXZ3WjZTWXJ0RE45TGJDN3NIaVY3YkYwZ3gxLW9VQ1Vtbjgwb0d1MWw2eGFGaGxiUkdzeWp4MzU5YlJBdXZEbFZxYmwwQjIzZ0pw?oc=5
-- **Source:** kalkine.ca
-- **Published:** 2026-10-13T13:00:00+00:00
-
-## Orange Weather Alerts as Powerful Storm Targets Iceland - https://www.thetraveler.org/
-
-- **URL:** https://news.google.com/rss/articles/CBMijAFBVV95cUxNbllhLUdzOF8xazdIUXRrUGJfR3BiM3REcS1VTGJ4MkpPLTZVOWN5a0dMZkdNMEJubE04Y0o4WExaTG84WEsyYkN1bmdrS19KYTNZS0xINWRnY3RyY0dIUVlRNTZ5OFRPczJMT3ZHSm9hZ3kwTHF5U2ltOXFzRkJFc3lTLWZyYkt4TGRVMg?oc=5
-- **Source:** https://www.thetraveler.org/
-- **Published:** 2026-10-13T12:39:45+00:00
-
-## New publication page on Heimildir.is - Ísland.is
-
-- **URL:** https://news.google.com/rss/articles/CBMiigFBVV95cUxONUFueXR0TmNRN01MR0hrVTdzMm4xVy1nOExKXzluZDQ1U0VxcVE3OVpsMkdMa1RraUJIZ29HU0FnTkllTjFoSVdiVFdxY1JzYXVCYnVaZ1dtOEdjMW9FdWQ3NERXc21iazY1dV9YaEp1TW0tUkFlc3pQU1RLWXN2TDA5WjUwblIwMVE?oc=5
-- **Source:** Ísland.is
-- **Published:** 2026-10-13T11:58:20+00:00
-
-## Where to Watch Wrexham vs West Brom: TV Channel, Live Stream & Kick-Off Time - Goal.com
-
-- **URL:** https://news.google.com/rss/articles/CBMitwFBVV95cUxOcFl0RG14UjdZa3FYSHV3eFYteGZ2SDdwNno1MlVQeXJ3U2tVZGs1QU1tS3hBcDgxb1VDOUh2bXJwUEo5ZG9vUEZaZTJqX0NxZExDcmw3WHlSTkowUjRpNVRwenZrelktWVVNemV1SFh0blNOWVdYOGNlSHh6aXc5YTlvbWtlMlIzR1lsR1JLeGZOangyUW1Jd1hQSVg1UjI0N1ZlaWhJck9sY2ZaUDkwYW90QUpNV1k?oc=5
-- **Source:** Goal.com
-- **Published:** 2026-10-13T11:06:22+00:00
