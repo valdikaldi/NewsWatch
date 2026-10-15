@@ -1,8 +1,62 @@
 # NewsWatch — Apple News
 
-_Last updated: 2026-10-15T14:42:39.770919+00:00 · 50 articles_
+_Last updated: 2026-10-15T19:43:53.150699+00:00 · 50 articles_
 
 ---
+
+## Apple's New 'Home' Run (NASDAQ:AAPL) - Seeking Alpha
+
+- **URL:** https://news.google.com/rss/articles/CBMibEFVX3lxTE50YlBtUXN1NW5la1ZxSzVrdzdlTUo1ME42em9pRTkyTWZuSDdyQUFaTDdvLXJhZVBtb3VvOW5IWE1aZWJqRHNBamlKdlRGREduaDRrU0NrQ0RPYkcwY2pST2ltZjdNekZHU25idA?oc=5
+- **Source:** Seeking Alpha
+- **Published:** 2026-10-15T18:38:56+00:00
+
+## Meta, Apple team up to bring Muse AI model to Macs - Breakingthenews.net
+
+- **URL:** https://news.google.com/rss/articles/CBMimgFBVV95cUxPZ2M1ZlhOUTVteERtTWNxSVZOTkxyV0UtSXZEUFRKVkRDTzRCVFZibkN3X3ZSNFQ4aEFIXzNVVkwzSUotTjR5ZDFpZDRiZl9QZmk2LWItX01KWTNxTnV6Rlp5WmxDeEpqVHE1TDFSTENKTnJxWG1rTjhWTW1CSm9hT2VHdmMxMkJnb19WbHFsZ1NrMFVtNTc1LVJB?oc=5
+- **Source:** Breakingthenews.net
+- **Published:** 2026-10-15T17:11:00+00:00
+
+## Apple and Meta team up to make Muse AI model run on Mac computers - CNBC
+
+- **URL:** https://news.google.com/rss/articles/CBMiakFVX3lxTE4yN20yMnBlVzc4aS0wdWFEbE5Xb2NEam5KRVV2SUMtNElVdkhwa2l5MlVGZzMxemJqWGhEbUZWYUtJd1JhSW1qY2R4djRsUTNKRzhkbHZzTEdJZHpROTFpNnZ5T0JLYWlKLXfSAW9BVV95cUxQSlFLOV9CYWZWMlBDb2N5ZEgzODdobW83Vzh1Qy03R2lpWGtsOXhPbG9OMHRFaDR2UG5kNDhnRDFVTWtWVVUxOHBTWTZ5d0E4WHRVdUZiZ2hEMmlEODByOFZMYjVhNHNESVRNRzFCUUU?oc=5
+- **Source:** CNBC
+- **Published:** 2026-10-15T17:00:01+00:00
+
+## Apple Hits $5 Trillion Market Cap as Nvidia's Lead Shrinks - Benzinga
+
+- **URL:** https://news.google.com/rss/articles/CBMiowFBVV95cUxPZ29zeTMxRGhiRUZEZEJEMU9XcWJUSWx0Q0lyU0Z1WFNyTHljbFV0MWZqUWxvZWM0TGFrZlgwSVlBSDhPQ281amFSQkNNRU41UnI4c0czZjVGNlU0SDJNdXpOMXRHYjZTekpHaFg0OHFNWTU4Z3lpdWZ1R2loTEhXUF84Vk1aZVh5ZHluVy0wWXRrU0x6TlVOa1BVd21nVVl1YmVr?oc=5
+- **Source:** Benzinga
+- **Published:** 2026-10-15T16:47:46+00:00
+
+## Apple Closes In On World's Most Valuable Company Crown — iPhone Duo Preorders, China AI Rollout In Focus - TradingView
+
+- **URL:** https://news.google.com/rss/articles/CBMi9AFBVV95cUxPVFRfMGZJQ0ZKUm11NGNYVHlrX1dpUVFrb19lQkpsMHVWSzNZLW5DT0NnNXRBT2NXZUtPTmVqSjRTV1EwZjBYc3V3SDlBMGJHR3VublJUWFNaSmtDYTBIa0ZHRWItaEhESkpXWU5nNGJJYU1uSEFGenlsUnRIRnk0OV9qSnBieVZaSXk3dTRqTTNxbThVTDh0ek5tUmc0TFBmYTRhM2JLVDh4RVBSUU5PaHFSTWJ0VnR4aG54YzkzYi1YV1ZWSkx5enFOVXAwVlNmUHlVQ1pwYU51UVY5YU1mcm9KTm9GZC1GZDFldzBpSW1Ca25w?oc=5
+- **Source:** TradingView
+- **Published:** 2026-10-15T16:44:18+00:00
+
+## Apple's Ternus retains focus on hardware rather than creating AI model of the month: report - Seeking Alpha
+
+- **URL:** https://news.google.com/rss/articles/CBMixgFBVV95cUxNSWR5WmVsWE82OVBSUldWNVhUOWlYdVhSUzkwRjRtUGR0R1JLUTA4SUp2UE11aVp2NTN0cDhZMVFLY3hFWEptRDBkTERhaWM1OERiVlplLUUyVzZaYVQtcUtkZHoycVlHeU5LZkk3Sno4UVBDc29naVdVNC1sVDh2YXJ1RE1ZeUswU1VNVlFtQ05KdVZqUm5ZUXNJX2F6ZXVNSXhlUmxNaTBwNjJzbHlTclZvX3ZINENHV3paQV9zdTlTNnNNZWc?oc=5
+- **Source:** Seeking Alpha
+- **Published:** 2026-10-15T16:22:35+00:00
+
+## Apple Has A Consumer Problem Nobody Talks About (NASDAQ:AAPL) - Seeking Alpha
+
+- **URL:** https://news.google.com/rss/articles/CBMikgFBVV95cUxNbDJnQ3dBYWI2Z2k4eXJVZEVEczZ1M3BQOWY4WEpkVVFZSU1QSTZiWTE5SXpJZFRxd3FGNExBNk5yZWZkcER6cGN0MFVMbUxOZTFfb3lkMkNHZzd5MFhvUlRTczVGX3c3UWhJeW9zdXZyTm54QVBOU0VWakNsTEp3OWp1LS02cmtVSkRCX19oYVVlQQ?oc=5
+- **Source:** Seeking Alpha
+- **Published:** 2026-10-15T16:15:59+00:00
+
+## Apple Lobbying Report Covers Trade and Public Health - Legis1
+
+- **URL:** https://news.google.com/rss/articles/CBMifEFVX3lxTE94VGlHeEYtR201WVZCVHc4ZHp5OHcwTTljbDlZckVhNGtITjVBR0VVbExxR19oUFVvVHNBY3VGV1JlcHB4NzlzUGVkZzZfOHRsZWRPUUxYTlNpTEtSdzZhNkJfd0NkakIzZlVuLVJEVUpXQVgwUnVLWHdLN2Y?oc=5
+- **Source:** Legis1
+- **Published:** 2026-10-15T15:34:09+00:00
+
+## Apple's Customer Loyalty and Services Revenue Fueling Future Growth Amidst High Valuation - SSBCrack
+
+- **URL:** https://news.google.com/rss/articles/CBMitgFBVV95cUxNaGx2ZUVpRGlRUWZZN1RqME1CZHpXenR5c29TSzAwT1JTNGp0NkxiT3FDTVA3YmdHNm1jOWFsTktoT0dZSjdNUThaVWdiN3picjdHNmE1cktPQUtueU5pb3RZSVFjaVN3UkNrQndjOXh3N0xBaDhHajlvSUFfU3Q2OURWZlhLc0otYVNlSjdsNWpxNHM0RjVybm1ibXRmNGQyUGF1ZVlvRElHaDNqYnYtUjdXajV5UQ?oc=5
+- **Source:** SSBCrack
+- **Published:** 2026-10-15T15:09:58+00:00
 
 ## Apple (AAPL): Can Longer iPhone Ownership Still Produce More Profit per Customer? - Yahoo Finance
 
@@ -249,57 +303,3 @@ _Last updated: 2026-10-15T14:42:39.770919+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMiowFBVV95cUxQUmQ2MWpuaE8ycU1lbVA1WUc5cmpUcWVUaG15ZGstcjFVZFhweEVuS3FFTGN0blAtdHBJOHZMZnFWVWFKWTFWNUxReEsyOFJOazFLdFROSWZyQ1dPcVZOQ1RtUXJpblBqTmxpRHUxWlAza3RwOUhsVWZIczJhR1FTSW0ySTloSk5fQzNPSmU5YzllbUFOS19WQ3gzSUZRNUJTb3Y4?oc=5
 - **Source:** Seeking Alpha
 - **Published:** 2026-10-14T15:55:31+00:00
-
-## Apple Calls $5.7 Billion Patent Verdict ‘Grossly Excessive’ - Bloomberg Law News
-
-- **URL:** https://news.google.com/rss/articles/CBMimAFBVV95cUxOZ2dzZEV6M01ySTRkcXhaWFR3VWdHWXViNmx4TkF1WDVOT1ZoV09VMlh4c2hRTWlhcnlNeklkSDJlaG1SZDFWOEstN1ZGOGpzaEFORWdTQjZQa3hQUDI1R1NpWUVEclRpNlpPcFhBZXYtTUU3NVRoRGxLM204d1ZDX1dpSU11VUNOeFlvVjgxTkRhNVkwZms5aw?oc=5
-- **Source:** Bloomberg Law News
-- **Published:** 2026-10-14T15:15:00+00:00
-
-## Apple asks US court to overturn landmark $5.7 billion patent verdict - Reuters
-
-- **URL:** https://news.google.com/rss/articles/CBMitwFBVV95cUxQQzZYX0tnTFJnRGN5VjlLT1lVWVM4TDQ1Nzl1aU4tcFd2eTdPTVA5bWlZUHowYnBFcEJnOWVSRDVyR2RMMElDdGlaOWg4THhmYVlTUDdjbnR5SGEzNVhycTNpYkRNeWlPZlE4eFdHWnhDY09wYWEyOGFRU0l2VFJPeC12cHRhYllBcDVNZzJfN3M1Z0drNkNUT1UyekZHRzRDZUVmTnFESnpYVnU4aWdLN0NGS3hWQTA?oc=5
-- **Source:** Reuters
-- **Published:** 2026-10-14T14:32:38+00:00
-
-## Deepwater Asset Management Says Siri Subscriptions Could Hand Apple (NASDAQ: AAPL) A $24 Billion Annual Revenue Stream - Foreign Policy Journal
-
-- **URL:** https://news.google.com/rss/articles/CBMi9gFBVV95cUxPN1U3bThVSnFuU1hpeWhMbzdQeXNMMXprWk9DcFJKTmJJLS1HaUxqc0NieXJQN25yM04tUkdycHNOQnZ4bldXWEFHam1sQk92UkNUNHdKZHdKOTZ4Um9FSE5JYUJkMFFxXzNOeWVIZWNLVkVfRHdlaldEdzBQM1N0MXlPel94OE9xLVRUbjZFRGF1VHhnY0NGdGg1ZkpGdWxpS01LbklfUUpyZjhxRFBsLVd1WlE4MDVGLVM2MEhBWllWS3ZvdGNYUk9qRFdwZzdBaklEVklFX1JUZ1dpSWthdHhBRTNiY2U3dG9QNG9KeUhzcDNoRXc?oc=5
-- **Source:** Foreign Policy Journal
-- **Published:** 2026-10-14T13:44:02+00:00
-
-## Just when you thought Apple was done, it pushes beyond the smartphone | 2026-10-14 | Investing News - Stockhouse
-
-- **URL:** https://news.google.com/rss/articles/CBMixAFBVV95cUxQQjZNOENJbkd3WTFoR0tnZ24xdDRjc3h1cmV2YThvcndqd1FrYkdLLVRoQ0RSRE5LdUNESWFja0NGWXpSNjdqVFJULXMyY1FMREd0c2R2bkIzOGx1TXJmcHFIcWd2NFpSTGFJOUlUaW4td1JJQl80bW1nTUs0MWtWOUgzTGJpNTF4YWtYTG4tY3FmWEhGMnhNTWxpLTY3cnhUdEpRZklGUDN5WEtwZllteEZlcWNqVkxKUG51V1UxR1dCY3pn?oc=5
-- **Source:** Stockhouse
-- **Published:** 2026-10-14T12:58:19+00:00
-
-## How to Buy Apple Stock in Malaysia - Moomoo
-
-- **URL:** https://news.google.com/rss/articles/CBMidEFVX3lxTFBaVHktd0FueFU0a2JLaEx5bnJBaUFzVVFENnJMS2c5N2kweXIycGJpTGNiYTZyc1JfQmlTWEw5UTE5X2Q1VVVONjA2UDZDTFZwOW9aZWtPLVpyQzFOTzM5WkVjdU1BejJ6OHAyUFRfVVd2eUN5?oc=5
-- **Source:** Moomoo
-- **Published:** 2026-10-14T12:24:31+00:00
-
-## AAPL Stock Pulls Back From All-Time Highs: Gene Munster Says Apple Is Moving Faster on Hardware But Still - Benzinga
-
-- **URL:** https://news.google.com/rss/articles/CBMioAJBVV95cUxQY0VsZmRYV2Ryc1ZXUngxLURMWEVsQS05eldVSTBBc2o0REVvd3ZNMjNDRV9Lci1SclU2SFRSZkE0cHltRjJZLWhET3Q4Qk92Z1ZaeFF6MVZkYW14dUFZX0xISHRiMUp1TDR2aXQ5dWQtWEl4a3lfLTk4OUdaUmpJUVJSTHRTcWpsOUlzcncwazNTTjNxWTJIdlptWDIzaDJrUmRvYThIdGFsTzY5NnFncVQzdVJ4RVdzWU9ZeVBPTnlDUXBzZ1BsOUdtZTNGQ3dldEhvRVNoODJhdEtxbkMyRlpnTUFOWEIxeGF2T0pWZVJKeWg5amI4WVFXWTdKckpvYVBoYWd1XzR0OUNoVlpWWVRBQnlCMzB1dTkxd3N3UWw?oc=5
-- **Source:** Benzinga
-- **Published:** 2026-10-14T11:29:48+00:00
-
-## Apple, OpenAI Head to Court in High-Stakes AI Trade Secret Fight - Bloomberg Law News
-
-- **URL:** https://news.google.com/rss/articles/CBMiuAFBVV95cUxNaFlKNXZiSEEyd2U2N3gwZnBMNmxNcGZCSEV3UzhKQUNnYUFqYUFrS3VFUlB1UWlvLW5JTHhPMFBTeVZsMXp6VTFzNmdUSTJUai1jaXp3RE1pTjBoUTBTTHU1ajVoN3Y2Z2xmMmJ5Zkt1SXB0bkVuZU1MWEpaS2U5VUFfRDhES2I5clFvVWczRHJ0X1puanRCZEJhTk94c0hDYm01YWJITmxCRVY4V0QwSnIycjkzVURx?oc=5
-- **Source:** Bloomberg Law News
-- **Published:** 2026-10-14T10:30:00+00:00
-
-## Apple, Nvidia and Microsoft among mega cap tech stocks with A+ profitability grades (VGT:NYSEARCA) - Seeking Alpha
-
-- **URL:** https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMTFWWDRjdHpCVTY0NVQwVE5PT1Z4NDRveTB1WUp3eU9KR0lhLVh2QmJQaHc1QVdnZ3A0d3VqSTY4S1hCam4zelZOUkxIck1yYXh6NFFqOG9XWGlXZmN4Sy1Mbk94VXZSb1NvcTlNd01ZcDQ5eEcwRE9ZUlNoNldSRXNkUkhPSlNSVW15TEF5d1dyb2xqV1d4c2N4ejljd3IyNHZLbUd1Z2V1RWNaWGMxeWdaYlV5UDd2a2JF?oc=5
-- **Source:** Seeking Alpha
-- **Published:** 2026-10-14T10:06:53+00:00
-
-## Apple, Nvidia and Microsoft among mega cap tech stocks with A+ profitability grades - TradingView
-
-- **URL:** https://news.google.com/rss/articles/CBMi3AFBVV95cUxPWWg1RF90dzF4WHAyTHdUb0YzMkM0QXNZZFJ1RF9Ddkx2cVVKM25LbWdwV1MzNVF6bmNneW9rZmdNWG9NcUpfLTV3S0F3UEpWUDBDcUs1YjBFQUlid1FjRW9JWk92R1NaVWgxc1JTYkI2aDgxejA1b2FqTE1tTGxNUmZDNTZzZ05Pc3NEODV0b29XSE81Y0gzY3dwOXR0TW1ZbTBIRnFsZG9BazFSaEl4WS1OdGxJdk1EbS03R25reWF3SHBXQjhYamJTbHFXeDA4WVVPa25XaFgyWVJY?oc=5
-- **Source:** TradingView
-- **Published:** 2026-10-14T10:06:53+00:00

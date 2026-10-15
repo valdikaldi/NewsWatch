@@ -1,8 +1,32 @@
 # NewsWatch — Iceland News
 
-_Last updated: 2026-10-15T14:42:43.418241+00:00 · 50 articles_
+_Last updated: 2026-10-15T19:43:53.848293+00:00 · 50 articles_
 
 ---
+
+## City supermarket reopens after major transformation - here's what's changed - South Wales Argus
+
+- **URL:** https://news.google.com/rss/articles/CBMilwFBVV95cUxQRTNNc3lOcXJXcWIwVHRZdE5LZTkzb0FLZ2hFV1B3LWc0dncxeVhIWm9USUV0QUU0ZGl6a1VXRkxHd1d4bGxKaVRza3ZOQmpacTRJRDNGa1RIMEQwaFpnenl2bWZha1hOMFdsSmF4WUl4cnFxOWUwUFFVaDNRSTN3MGdzUjA5a09HdnlrVFR2U0hhamNxS3U4?oc=5
+- **Source:** South Wales Argus
+- **Published:** 2026-10-15T18:00:00+00:00
+
+## Jón Gnarr quits parliamentary group but backs the government - mbl.is
+
+- **URL:** https://news.google.com/rss/articles/CBMimwFBVV95cUxNWE5fZ1dvOERRTzlPLTA4bzdpLTd2akRMQXdqZ2FuSlZFUGxFNS0tWW5GUXdGWUc1MTlTTGpocEFBQzh4emsxRENwNWtiblNrT05RcHA5TmdFdTlFdHdrNE1DTDVkS3RVWW1pN3Z4eXlhWlk0R0ZURm9keERxWmlWaDlEbGZ2Qmk0LUhtNF8xN213VU55NGVoMEs0MA?oc=5
+- **Source:** mbl.is
+- **Published:** 2026-10-15T16:41:00+00:00
+
+## Iceland’s PISA Results: Who Killed the Nation of Readers? - Iceland Review
+
+- **URL:** https://news.google.com/rss/articles/CBMiggFBVV95cUxQUXFpVldUMnZuUmNMcWdYXzR5VnI2OXFOMXZnbllZTlZ6cmxqdTlXUmFmV0wzV09lMmtWWkZmZ2IwQ1d1MzR6WU16QmRKRnRtSTVTLXF6SnNJblRwYmJIZ1FQemVHc2dubUZvdzBybk0zeEpvTkpKMHRhVklJdWNrMW5n?oc=5
+- **Source:** Iceland Review
+- **Published:** 2026-10-15T15:00:00+00:00
+
+## Finago buys Iceland's Regla to crack a new Nordic market - Dealroom
+
+- **URL:** https://news.google.com/rss/articles/CBMilAFBVV95cUxPQ05MaFBCWXMxeGl6TnZORk9jUGlqX3B5bW5qMU9FSUc0RUFpTW8tcUtnR3NMREg5SThmNTBfRmFYWktUMHlnaFdhSHRJTjdNOUE4b3VQcTU0Mjg1LXR4Njk3ZHg1U1RveThzU3laY19SQWhwZ1hrOXhyb2RDNi1fVnVZR1Z4bDBpbHM0b0xWOFdaSi1W?oc=5
+- **Source:** Dealroom
+- **Published:** 2026-10-15T14:58:19+00:00
 
 ## KTBS Travel Club soaks in warmth at Iceland's "Blue Lagoon" - KTBS 3
 
@@ -279,27 +303,3 @@ _Last updated: 2026-10-15T14:42:43.418241+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMibkFVX3lxTFBtNGE0dE5LSmd0QVBMYllQNVFrWTM3U2dnejBBX21zSGt6RFJXcTdMLUE2SzVSbjFiaXBIT1BLcGpPMlJrTEc1dlZ0bXc2ZWVBSmE5TlhRbXVUclVUSl9jOWJ5MTZKZXR2eEhQeGhB?oc=5
 - **Source:** playmakerstats.com
 - **Published:** 2026-10-14T09:48:02+00:00
-
-## Forecast worsens: More regions placed under orange weather warnings - Iceland Monitor
-
-- **URL:** https://news.google.com/rss/articles/CBMipgFBVV95cUxNNWFpdXFRcDVIOWNsbGF1Tmd3VVFXWExGMS1DdnRVUjVjamVYN2NGR2xHeGFWTTBsMGk0elo3OVFaam9WTVMwY3RlbEpkbW5JTFl1M2Nkd0c3M0dNUGg3NWNDM3hiNmlya29acW9yOTV5ZnZjZnFJdTF6ZEtvLUJOTkhWVUhSS1REN0lIUmhXaFJiR0hjVDh1dTBiZ3hHNDZzcVhOTFF3?oc=5
-- **Source:** Iceland Monitor
-- **Published:** 2026-10-14T08:00:00+00:00
-
-## Iceland shoppers 'obsessed' with new ready meal - has 89g protein - Liverpool Echo
-
-- **URL:** https://news.google.com/rss/articles/CBMinwFBVV95cUxQajRBQm1BWmhtaE9ENjVZRXNBNjgwQS14UkhIb3hTUzBqOTJiWENSZnMyNklETU4wY2owZzVkcldUcXdEclZEWVE2YjFsSTMyaXJvYzVPX2J4UEtzeGJNcTdCaXY4bzE1alpLMnJMWlhsNWk5T3FBQ0ZBQnN0THo2bEx0dG1wTGlvMmF3VVJOQy1WcjB1dk1UdzBwbm5Id2_SAZ8BQVVfeXFMUGo0QUJtQVpobWhPRDY1WUVzQTY4MEEteFJISG94U1MwajkyYlhDUmZzMjZJRE1OMGNqMGc1ZHJXVHF3RHJWRFlRNmIxbEkzMmlyb2M1T19ieFBLc3hiTXE3Qml2OG8xNWpaSzJyTFpYbDVpOU9xQUNGQUJzdEx6NmxMdHRtcExpbzJhd1VSTkMtVnIwdXZNVHcwcG5uSHdv?oc=5
-- **Source:** Liverpool Echo
-- **Published:** 2026-10-14T07:50:00+00:00
-
-## 360 Hotel – rooted in Icelandic heritage - Hotel Designs
-
-- **URL:** https://news.google.com/rss/articles/CBMihAFBVV95cUxNUjJoY2NvalJCdFBKM2M3QmlLSm91RHhHUjBWYkh5YmNSa1UtQjNRX2lOcUpYdFFfeTUzQTJ3Znk0akJQSEdKN3k5bjZUNjA0T0JvUEt4cUdkNjdWVmlacjg2TXR1Rk1Oa2ljbTFJbVRyR2dEMjltTXJzVWFlQy1GbGk5dnY?oc=5
-- **Source:** Hotel Designs
-- **Published:** 2026-10-14T07:24:58+00:00
-
-## Ring Road Closed in South Iceland as Storm Brings Orange Warnings - Iceland Review
-
-- **URL:** https://news.google.com/rss/articles/CBMikwFBVV95cUxNOHd6U3NGc3hlLWJWdFFuVThFanpxbmZGMFZtR0Nnblh3Rzg0Q1dLZDVqeU9PakoxMFJrT1l6T2E4aVNCeXdXSlo2cENFQmtLQXk2SlFzbFJrZExkSEx1Y3RjLVBHdmwxS1hFV29QVjJyLXRqZFRfbWdMamt5WUVhLWVfRmJyMWlSRnVxZGo0bG55WWc?oc=5
-- **Source:** Iceland Review
-- **Published:** 2026-10-14T07:00:00+00:00

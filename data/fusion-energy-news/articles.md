@@ -1,8 +1,62 @@
 # NewsWatch — fusion energy News
 
-_Last updated: 2026-10-15T14:42:45.116960+00:00 · 50 articles_
+_Last updated: 2026-10-15T19:43:54.344590+00:00 · 50 articles_
 
 ---
+
+## 3D-Printed Reactor Parts Face a Harsh Reckoning Under Nuclear Irradiation - Bioengineer.org
+
+- **URL:** https://news.google.com/rss/articles/CBMinwFBVV95cUxNV0hPZndoYmJtQngyeldfOHBrMnhfUmx5Tm1ROHc1OE9zd2dYaWVnQmRyOHZBTmhvQTNWSFFnRHM0dXpWSjdEQkU5VGItRHUtWXZLRGcxdlpaMHNKZUx5cnhYNEx0R0JEZkltUUNScXVzNmI5NnhyMFNrMHJObkFtRzNGMGlMSE11OUNIMzY0ZE5FVW1lNnVNcGZsZzg5VHM?oc=5
+- **Source:** Bioengineer.org
+- **Published:** 2026-10-15T19:38:56+00:00
+
+## Magneto Optic Current Transformer Market To 2035: Digital Substation Rollouts Drive Growth - News and Statistics - IndexBox
+
+- **URL:** https://news.google.com/rss/articles/CBMixwFBVV95cUxQU1FxVFNzVnpfU2kwRlRQN0hSel8xM3NhZzNiWGRPcm1oSmU5QjdUYzA4b2QweUlKcDRrbWlMN1hwSkpTdkd2MkozQ2tRaE1BdElYU0tGVlZabTdmX0puTlo4T3ljeXozRWYzbXlka0NLRWFiN1hydVNUbnhSTFV6U3BOQ3dBcjgwcUNRamZodlZqR3JMMUN2NTg5cml2dEFWSmdUaG5rbXROOVljdC0zWU53S3NOeDVzN1ZQRUpDV2xwNThrenZz?oc=5
+- **Source:** IndexBox
+- **Published:** 2026-10-15T19:16:04+00:00
+
+## General Fusion reports electron temperatures exceeding 1 keV - American Nuclear Society -- ANS
+
+- **URL:** https://news.google.com/rss/articles/CBMioAFBVV95cUxPemJUUmotdk9jREI4VGFjNHdfQ0YzUVA5ZHZtSWhtTmxUbXVBeHZXeVhFWkk0eTQ2R2JkYXhpU3lNc2NWTjF6STY2dnItWGNXYmxJSUlFd09fSXdfX3FwYUFwc0tUU3RoNWM5VC0xMUVuN2hSdEZTSko0RDFvbkhmUUVLN0g3RWs4WWZER1poR3N3M0w0MFFzczkwNWZIRktm?oc=5
+- **Source:** American Nuclear Society -- ANS
+- **Published:** 2026-10-15T16:44:30+00:00
+
+## Interview: The Fusion Future with Dennis Whyte - PBS
+
+- **URL:** https://news.google.com/rss/articles/CBMiigFBVV95cUxOLXAyWnh1WkdpcVZRR3lQdWppaDc1UmRUQzhUZmVNamdBQXdKcUxIN1NPejA4cG96WXRSOWN5WWp5WEQ0M3JLbXpHWEUzVVZKZnlqLUQ4czRsQzVicXRKMFk1ZEVqQXQtWWpBVV9VV3FYX29tdmFpUG1qVTNhU095N0lON0VIQVNZSEE?oc=5
+- **Source:** PBS
+- **Published:** 2026-10-15T16:37:58+00:00
+
+## CATF to call for climate action grounded in implementation, investment, and innovation at COP31 - Clean Air Task Force
+
+- **URL:** https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUFBaZ3R2Vkx1clVkTmFINl85UnJyUEdhWmVzSXN1VmF2eUYxUkE4a2lIU2RoQ0pIS1c3aFR0WGxXcEhZUXRYa29jZnBDTWJySE1Xb0xWY0pOVmhvYXZ2SUNVWHVuQ1dRRS1OcUtxN0lnMGJZTFlwT2lBZE1KbHVkOXExNEJLN3VlaE43c1ZVY2tBR1BjNGQwazVENlhvQ0wybmxyQW1XZW4?oc=5
+- **Source:** Clean Air Task Force
+- **Published:** 2026-10-15T16:11:09+00:00
+
+## 'We're not a competitor to fusion. We are fusion': Inside the race to harness unlimited solar power in space - Live Science
+
+- **URL:** https://news.google.com/rss/articles/CBMi0wFBVV95cUxNVXFwWmNtcXg5N1NvUzExc1pOMW91Nng1VVRsLU44ZzE0Ry12UnAxYk81UU42ZzZnU3poSlcxWWJmdFhmcVRBeHAxY2o1d0VXREpaM0t5WWZROEtubnBnSGFSajUtcmI3NHZFMEt4RC1yUmZ4VjZVeXpwX29MTUlCd0Q1WHlvd01zb0dCUEN6Y2tvUXJ1bnlzREVhdmR2SXI4dkx2TjJWVGYtUDNWMm56SkdrWnNTemRJUlVTeDgxcjlQZWtWdmQzOXA0dzZidkdpTWFZ?oc=5
+- **Source:** Live Science
+- **Published:** 2026-10-15T16:00:00+00:00
+
+## BU Astronomer Chuanfei Dong Elected Fellow of the American Physical Society - Boston University
+
+- **URL:** https://news.google.com/rss/articles/CBMirwFBVV95cUxPSlhqTWxsZF8wWkRlYm9JeU05Nk5LWFdyeXZBX3JjVndQM2xXUXZ4Z0oxa3V2dWhfODlDQXcwRUFNX09HSjE2aFdtcXUxTmFSY2hlbjBhNHNoTzFvY0s2aE9aUE81NHJNY3hkV1o4SEg1VVNfRDAyMUdwMm1jMDl3czhITUE3QWN4SUFxazFiUncxc2xTZDMyaVhOZ0d4NV85VTB2WENYa2drXzg1My0w?oc=5
+- **Source:** Boston University
+- **Published:** 2026-10-15T15:09:28+00:00
+
+## Fusion, devotion and star power strike a chord at Mysuru Dasara - The Hindu
+
+- **URL:** https://news.google.com/rss/articles/CBMi0gFBVV95cUxNa3JndGFmampobnZXSzdnTDJXNlRtcVNnYXZfbnpxRF95RXM4UkNOTHh5Ynd6S3RHN09SazVEVmprLXpLdzVlOGpuWUZmLTdfRGFtT05tLTJyQjBndDB6OFpkcFlrcGJhUFhXcHI5dXJhV0Jnal9Hck9VeWlKWUZHR0lGY01WOGh2c25KcWRKbXBUOE1sODZfaEI0SGtSNXI5NWppc3FqQlJaYnlQZmlnUUFmUTdzVFEyLVpELWdNRmhDWU5Ld2gtTzhpRVBUWlpfeWfSAdIBQVVfeXFMTWtyZ3RhZmpqaG52V0s3Z0wyVzZUbXFTZ2F2X256cURfeUVzOFJDTkx4eWJ3ekt0RzdPUms1RFZqay16S3c1ZThqbllGZi03X0RhbU9ObS0yckIwZ3QwejhaZHBZa3BiYVBYV3ByOXVyYVdCZ2pfR3JPVXlpSllGR0dJRmNNVjhodnNuSnFkSm1wVDhNbDg2X2hCNEhrUjVyOTVqaXNxakJSWmJ5UGZpZ1FBZlE3c1RRMi1aRC1nTUZoQ1lOS3doLU84aUVQVFpaX3ln?oc=5
+- **Source:** The Hindu
+- **Published:** 2026-10-15T15:03:22+00:00
+
+## Ramp reaches $60B valuation as it pushes deeper into AI - TechCrunch
+
+- **URL:** https://news.google.com/rss/articles/CBMikwFBVV95cUxQN3djZ09tWnlvSlg5cVNMV2UzanVMQ0VEcmNHLThlT0c4aTJKeTdmZjd6Z0Y3Z1JxeEo0RnRyaFRGQ2FySmwxSTB0SzBFclVuV0JhS3RUc05landudElrS0JwR2JzNXFJQzdhTG5YYzVVZHRZdm02aEVma00yNDlaS016bmgwd3YwYkNvbTg4Z3ZtWlk?oc=5
+- **Source:** TechCrunch
+- **Published:** 2026-10-15T14:47:09+00:00
 
 ## Hefei’s ‘artificial sun’ draws Hong Kong-based delegation - chinadailyhk
 
@@ -249,57 +303,3 @@ _Last updated: 2026-10-15T14:42:45.116960+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMi3wFBVV95cUxOZ3owNE1KSDVpbWFlZ1JuczNFQ04wXzRGYVBZSFNyZE95QUtTT0lYUHlya08zUmF1X25aS2pXR1V3VVgzT2FYUm9wbzFuTUZZc3dkRjY2Mnp2VEI3dGVsYkJ6Y25kUS1ZZnhXaEktaG92dzdIdDNFR2U1bUdfcEN5eGRpV2g2SVRqSlRQQTIzcnpBUWZWOURlUnY4bGppQkFSUE9mR2lxMER1QkpGUWhUZTMxNDZFc3NBLXZMVEpueUxKbXZDTi1iODN0c0dnQ1lGbGktSkJyVXhVTkZpX1Aw?oc=5
 - **Source:** Machine Design
 - **Published:** 2026-10-14T20:12:04+00:00
-
-## China billionaire's hard-tech bet lands $14.9M in Wanheyue Energy - Dealroom
-
-- **URL:** https://news.google.com/rss/articles/CBMinwFBVV95cUxOMHh0OHgyYklkaV9GU2s0aG5OaVJqZC00cllMSThlbmJVWG4zRnN5SWN2R1hVY0MtNEc2anpJOGtIdlo5ZUNYX0lmdFVZb25jQjYwbXJfcW5WdzNVTEduN0VMUmdTa1dtaWxFVnVOcE1uZHAzbXcxVTlTbWZvQUUzcFlaWmcycWVBbXRmR2lVT19SRVVyNmtKWGFLWkZtekk?oc=5
-- **Source:** Dealroom
-- **Published:** 2026-10-14T20:10:49+00:00
-
-## Southeast Asia must prepare for a nuclear future - Nikkei Asia
-
-- **URL:** https://news.google.com/rss/articles/CBMihwFBVV95cUxPSjR6V2todWE2VktxR25WYTNPejlXY3hQcXEzMUgxZllwd2drcVJ4ZXMzaWc1Mkc3OGtKcHdfOWh4ZjVCMW13WmdqMnBjd3hETUNndGxNYWhPUUVrNjh2d19wc2tBSF9Sd1UtajQtV25MQ0NHY19aMEwydmdOQWxkb1lfbmxiTnM?oc=5
-- **Source:** Nikkei Asia
-- **Published:** 2026-10-14T20:05:00+00:00
-
-## Startorus magnet sets field change record - Nuclear Engineering International
-
-- **URL:** https://news.google.com/rss/articles/CBMigAFBVV95cUxQRFZOSG52U0NmWWZtNW5xaU1YaXJDQWdKNXViYWVjTlFDaDFET1o0ZWZna0RIXy0wNGVCbFNTUFkyWW1PMTFFRUhuU1NPTHVLeUIzbmNsbFBLdXhWejVIaURQeXV0dGs1azBUUDNEQ1pSQ3RLSElOVkVBRzdsWmRqYg?oc=5
-- **Source:** Nuclear Engineering International
-- **Published:** 2026-10-14T20:03:33+00:00
-
-## Will Fusion Tape Deal Change Fujikura's (TSE:5803) Narrative - Simply Wall Street
-
-- **URL:** https://news.google.com/rss/articles/CBMizAFBVV95cUxPMDR2VUUxMnpkQktUQldaLVVIcnJpTmV6cnNsT0JBRWdyMVBpX2dxMHg5emNzRXBYSVN4QW1nS0VZLXhva1hjYzE4M0FsVzJMbnpiUFpjQ3hoSmhTc1AwbWN2cVhHUnloNUpXUmtKNmI4cHRGZnRidGZWWFJNQVRaVWdfZ25NVHYyM0RkWElTT25BSzgwN1dOZTg5UE94Q1Q3YlpiN3JVYW85MlpraWhoWFJHSFpaankzaDVUOXk1cTM4RVYtQ0JVTldKYkrSAdIBQVVfeXFMT1dTMWpEMnpRRmFWT3N0RWg2ZV9XUTdjZTctSU5MellVMFBpTktNeGVneHhFSDQwU0lRVURWaEg3NlpwSGplUGhySkhydmF1eFpjSDBQeUsxcEo4ZFBKRms4N0JjZ1Z2dklScDBKUG15VEM2cmVqTko2SThoVjRjaVNRTkhiaVdyb1VaaXQ5blltWVZaY0NjY3FtWXBjandldVkycnhob2F1dnBYQ3REYjZqRThUUThOZzJOTElHM2xQN1l2Z2pLLVlSVlhkSVo0Y0F3?oc=5
-- **Source:** Simply Wall Street
-- **Published:** 2026-10-14T19:50:56+00:00
-
-## Can Enphase Energy (ENPH) Turn India’s Grid Outage Challenge Into a Durable Residential Solar Edge? - Yahoo Finance
-
-- **URL:** https://news.google.com/rss/articles/CBMikAFBVV95cUxPanc1SXBOMnQ4OHlMOXFzc0hESDRkQ3pQNFlvbENZbmRlYnRGb3QxOUtIZVhHMVJTUkVHWnRDTmtBdm80NlE2b0hCZGZGWl9iRjIzaFNfTXktY1JwS2pQVWNaMWZVeFRUMWFSOEFkRlR1aDg1eFRPbDRMRGUxUzU3UXF6MG1Kem1oVWJ0X05tbms?oc=5
-- **Source:** Yahoo Finance
-- **Published:** 2026-10-14T19:13:06+00:00
-
-## Fusion CX IPO GMP, Grey Market Premium Today - IPO Watch
-
-- **URL:** https://news.google.com/rss/articles/CBMiakFVX3lxTE9mOEt4WmduUHJzX3dQUWViTzYwclF1M3FudE9uNkZqbTdUMFdRZi1zMGVYYmZJY0pab3hpbTI5N3g2a1FidXNNVXBjWHNqSDNoekxRbUp6Q2d1LWJRaGhFMC00Nzl3S0FYa2c?oc=5
-- **Source:** IPO Watch
-- **Published:** 2026-10-14T17:53:45+00:00
-
-## Technological security: the great comeback of industrial policy? - Polytechnique Insights
-
-- **URL:** https://news.google.com/rss/articles/CBMiwwFBVV95cUxQMnNyRHhjbG15NFRBNmNETjUwOHZnV29OVUtiV2lCZFM3TWJsa0laQlJzamVkc0k4akJKbk9MVlBOemgwaDJpSXA3dnFxOWxXSExkdW0tZGRtcGhmcGFub25PQ1BpbzBfOEZjckp3cW5YaE8waEthSzFQdFU1c2pfdnozaXRlcm5hM1pEZ21aSHE4cGN4TGZFTzVZT2V2Wi1vd05VNTB0YURROS0xbmRrMHMzWkdrWnFlRzBPcUtjUVBDaGc?oc=5
-- **Source:** Polytechnique Insights
-- **Published:** 2026-10-14T16:29:37+00:00
-
-## Freemelt is exploring 3D printing of high-melting-point metals for the defense industry - 3Druck.com
-
-- **URL:** https://news.google.com/rss/articles/CBMixwFBVV95cUxOZHZpRUJCamlHQV9Tc3JpLWpLTmVhdGstcHoxYl9VM29zZGQ5T0ZIWDdfeUdwLVRqQ2g5LXAxUWFyNUdFREh5ZzQ5bjc5N0s5YmllajNSb1ZZM2txSVBVd3RpbFU2Xzg2OGIxVkRnWnliZFllZ0pwWXV3Sk01Qk1ya0Vxa3NyaWVfUU5lM3ZTZW4tdF9pclZ0YUd6akVyWHdkeWcxaHhzQ1UzVVU2LTgzU2hLUnctN2lfQWppTXhlWFAzMm9LQXVJ?oc=5
-- **Source:** 3Druck.com
-- **Published:** 2026-10-14T16:00:53+00:00
-
-## Nuclear power returns to the spotlight - ASU News
-
-- **URL:** https://news.google.com/rss/articles/CBMijAFBVV95cUxNUGpkQWY2QXZPMW44Vm5GeGlKRXVBMFM1dEE3RFpiSFhjMzNkYTlkcU9kR3kzWHM0YWg0NTYzRVdLdkgyc2RtbWs2cjl2VzRQUW5WS3NwWXpUTWJ3Y3d6a2d6cDlkWG5QNmh4RFpYbmh4MDlYR21wVkstY0dSZVJlMVVHb1dJQzAyekFLTA?oc=5
-- **Source:** ASU News
-- **Published:** 2026-10-14T15:44:38+00:00
