@@ -1,8 +1,50 @@
 # NewsWatch — fusion energy News
 
-_Last updated: 2026-10-16T19:23:02.772801+00:00 · 50 articles_
+_Last updated: 2026-10-16T22:36:27.626550+00:00 · 50 articles_
 
 ---
+
+## DOE Selects 38 Research Projects for $36M in EPSCoR Funding - HPCwire
+
+- **URL:** https://news.google.com/rss/articles/CBMinAFBVV95cUxQOFZ5eVBlYTJwZnpuT0VUR2pEMm80WmhxeTNNNVZ2bWJTVnNPcU5pV3lXV2ctN1hlRGN2djU2V056eFdUZlJzaWF0Z2FJWG5LWkZpbDJPVDhhdGFfNTJMUG5NZTYzeG56eDI2VE9HZG9FRXVGY096ajIwRm9sUmc0M0dTenBadUtaanhpMU5MZ0ZKcjdxV1FMUnFwU2M?oc=5
+- **Source:** HPCwire
+- **Published:** 2026-10-16T22:02:33+00:00
+
+## For 30 Years, Kodak Ran a Secret Nuclear Device. Authorities Had No Idea It Existed. - Popular Mechanics
+
+- **URL:** https://news.google.com/rss/articles/CBMikAFBVV95cUxPRGtjWHhlYUdtWG54bU1FYWFfNUhMOTFadFdFNlMzNjFwWWNrXzFqY2dqa0pGNlVRV2p4dWVGeTRiX3VuVnVTNk5KUHZIT2dfNDlGTkt1OTY0WlMteVNVN1Nlc3dDSlVQampLWUtodTE5ZVJUR3RjZHRGLVJqVzh3UHI1N0tfcVR6bUJmelBkOFk?oc=5
+- **Source:** Popular Mechanics
+- **Published:** 2026-10-16T20:51:00+00:00
+
+## High-energy additive manufacturing pushes advanced materials into a new era - Bioengineer.org
+
+- **URL:** https://news.google.com/rss/articles/CBMiogFBVV95cUxNeVpxTFVIUGRCUzdEWTVndUJ4NU82akp6dTFJRzhmbHJUa0RCdGdSZ1FmSlJ4QnZWZWlpa2daQXJTRXJ2UkRNWVJvREdrMnplVzZRZ2hQakhMTzBBZlhRaW8zblFnS0RDNjdKYURDdUUzMnU2YW1iWXV0dFJ6Z2l1ektEclZhaFFYS3ZQQV9tdTlpRzJqX216WWtSUG9CNU5mM2c?oc=5
+- **Source:** Bioengineer.org
+- **Published:** 2026-10-16T20:31:34+00:00
+
+## SHINE Technologies receives $263 million conditional loan from U.S. Department of Energy - GazetteXtra
+
+- **URL:** https://news.google.com/rss/articles/CBMi_gFBVV95cUxOLTVQelZjaXN0UWpSaTJjM2M5SFNNZGlGRWpvY01lM1lyczVQb2VXblFDN3pvSVdVRTlSQkxDZ1BJUnI2bVJlWk02TUNSRXlHVkNwMG9xa0l4bVJaUHpKTC1mMnpPNktFSFZHZkVERUZSUVZhSUlZZWFWT05NcFE0RGFYWEJXbnNRWjlZZjA1VkVoWEcwOG9UMklTOUNmVTNoUXVWZWlvRkMySlU2cS1iV1d3OUZhSllvOUM5bGNZZ3Bod19BTlZ0MDFKNVlqRW9GamtOWWZFN3E2TmNfNVhEa1dsaFdPUDlRWmFLVl9Yb1RodWk4c2J1RnJRNkVEUQ?oc=5
+- **Source:** GazetteXtra
+- **Published:** 2026-10-16T20:19:00+00:00
+
+## Governor Bob Ferguson. . Central and Eastern Washington experienced some of the most destructive fires we've ever seen in Washington state history. Today, I sent this video to the Trump Administration. We're asking them to grant a Major Disaster Declaratio - Facebook
+
+- **URL:** https://news.google.com/rss/articles/CBMi2AFBVV95cUxQemZDU0hGQmZERS1yWDVQUmN6amJXWlJhSnYySlVfRF9aUWpFU2tsY3NfeGhGTWc5RmxZUDI5bm9qaTV2UGE0dE5idEhSMm9sNzhQOUd6djhCQ2FjZ0ZLTzBNOUZMQUZBSGpCVzV3Y214Z2RHWW0yRXZRMkxtY2hvS1RneF9Hc2xkR1pmanNuZ04xcFpJU3locjRZU083SmZ6U3FwdWRhUUJ4QjV1QnhZTWhxUnFuNDl1MVQ1TW5IUnlzdXRYdkI2US02aUF4Rk9lLV96ZXlIaEE?oc=5
+- **Source:** Facebook
+- **Published:** 2026-10-16T19:45:27+00:00
+
+## Legislative opinion: Udell statement in support of Crowley - fitchburgstar.com
+
+- **URL:** https://news.google.com/rss/articles/CBMi6AFBVV95cUxQdklkU0wyc3lELVRZOUJ0cUVRYW80cVdBeWRBQTdua21sYV9ua2xMamI2Z3BpazZ5OHVaV1lpRVAxV0Fvc0Z5U1RMNTI2UUlPTmQwSzZuUGtfVDV2RXJUTGpYNXN1Zm9CN0R5LXJCalhUOXF0V2hBZWFMRlV6Y1kzVE9jTHRJZ0FnTko4cWZtOEtyWnNublRrTU0tYWs5X1ZGRFZ4WW9sYlpReHM3YlR4My1ya3JvNndwSi1jalp5dEh4VElOZ3dlSlZ4SWRwbzVpUDZ2cktHNEtpbTFmUW9BOWFVVW9ZMjlx?oc=5
+- **Source:** fitchburgstar.com
+- **Published:** 2026-10-16T19:30:00+00:00
+
+## Trump Media and Rumble stocks drop sharply amid broad selloff, driven by merger risks and market volatility. - Pluang
+
+- **URL:** https://news.google.com/rss/articles/CBMimwFBVV95cUxPaEZMSlhGMi1oamdSWlIyMTR4NnRDOEN3RmRfU0RtdUlneERJelBUX1RRSUt1MWhJTjhVNTBaYkpac2M4N0FXQkxhSWh6QWdYamVUa19ZRG10bVRJUlByTmkzOXRQa1BLZy0xeXlsTXJqTVV0SWlUbzY0MVl4MnFwWXF0Tm5JRTRtUUpzRS0zLVhlU21qODJLQXVJMA?oc=5
+- **Source:** Pluang
+- **Published:** 2026-10-16T19:23:47+00:00
 
 ## Trump Media Declines 6% as Broad Selloff Weighs on High-Beta Stocks; Rumble Drops 8% - AOL.com
 
@@ -261,45 +303,3 @@ _Last updated: 2026-10-16T19:23:02.772801+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMirwFBVV95cUxPSlhqTWxsZF8wWkRlYm9JeU05Nk5LWFdyeXZBX3JjVndQM2xXUXZ4Z0oxa3V2dWhfODlDQXcwRUFNX09HSjE2aFdtcXUxTmFSY2hlbjBhNHNoTzFvY0s2aE9aUE81NHJNY3hkV1o4SEg1VVNfRDAyMUdwMm1jMDl3czhITUE3QWN4SUFxazFiUncxc2xTZDMyaVhOZ0d4NV85VTB2WENYa2drXzg1My0w?oc=5
 - **Source:** Boston University
 - **Published:** 2026-10-15T15:09:28+00:00
-
-## Fusion, devotion and star power strike a chord at Mysuru Dasara - The Hindu
-
-- **URL:** https://news.google.com/rss/articles/CBMi0gFBVV95cUxNa3JndGFmampobnZXSzdnTDJXNlRtcVNnYXZfbnpxRF95RXM4UkNOTHh5Ynd6S3RHN09SazVEVmprLXpLdzVlOGpuWUZmLTdfRGFtT05tLTJyQjBndDB6OFpkcFlrcGJhUFhXcHI5dXJhV0Jnal9Hck9VeWlKWUZHR0lGY01WOGh2c25KcWRKbXBUOE1sODZfaEI0SGtSNXI5NWppc3FqQlJaYnlQZmlnUUFmUTdzVFEyLVpELWdNRmhDWU5Ld2gtTzhpRVBUWlpfeWfSAdIBQVVfeXFMTWtyZ3RhZmpqaG52V0s3Z0wyVzZUbXFTZ2F2X256cURfeUVzOFJDTkx4eWJ3ekt0RzdPUms1RFZqay16S3c1ZThqbllGZi03X0RhbU9ObS0yckIwZ3QwejhaZHBZa3BiYVBYV3ByOXVyYVdCZ2pfR3JPVXlpSllGR0dJRmNNVjhodnNuSnFkSm1wVDhNbDg2X2hCNEhrUjVyOTVqaXNxakJSWmJ5UGZpZ1FBZlE3c1RRMi1aRC1nTUZoQ1lOS3doLU84aUVQVFpaX3ln?oc=5
-- **Source:** The Hindu
-- **Published:** 2026-10-15T15:03:22+00:00
-
-## Ramp reaches $60B valuation as it pushes deeper into AI - TechCrunch
-
-- **URL:** https://news.google.com/rss/articles/CBMikwFBVV95cUxQN3djZ09tWnlvSlg5cVNMV2UzanVMQ0VEcmNHLThlT0c4aTJKeTdmZjd6Z0Y3Z1JxeEo0RnRyaFRGQ2FySmwxSTB0SzBFclVuV0JhS3RUc05landudElrS0JwR2JzNXFJQzdhTG5YYzVVZHRZdm02aEVma00yNDlaS016bmgwd3YwYkNvbTg4Z3ZtWlk?oc=5
-- **Source:** TechCrunch
-- **Published:** 2026-10-15T14:47:09+00:00
-
-## Hefei’s ‘artificial sun’ draws Hong Kong-based delegation - chinadailyhk
-
-- **URL:** https://news.google.com/rss/articles/CBMiWEFVX3lxTE1nSmVFZEhHclBkTl9YYjlkbUxpTzVuSncxRVNGeXlNc2c1SjA4Qm8ySHR3X3kzcTcxa056SXNzOTh5NmVWYk93RUZNVEN1TFp0NUxiWFlhMUI?oc=5
-- **Source:** chinadailyhk
-- **Published:** 2026-10-15T14:12:27+00:00
-
-## Is nuclear fusion the future of energy in Virginia? Some officials think so. - WHRO
-
-- **URL:** https://news.google.com/rss/articles/CBMiugFBVV95cUxNNU10alItUEdUQlVDU3NNN1RyUTdscEJNM21USjBvbHVuck5leVNLb2dnRnJ1bW1jOGVqcThrTW4yS21xR29QaDNMcU41UXRLbFVWVU5tZTZDZkZpMjY5UU81b1JnRmZsbjBZNjVyQVE0QW95ZktoaldfemVnRWd1T0FEcEVrYjBLak8yaml1N1VwV083WXpicmxXQmhLUDVuVlNWMnJVYlJ6TElja0x4bTJaZU1kc1Z4aXc?oc=5
-- **Source:** WHRO
-- **Published:** 2026-10-15T14:00:00+00:00
-
-## DEE Development Engineers secures ₹46 crore international contract - Manufacturing Today India
-
-- **URL:** https://news.google.com/rss/articles/CBMitAFBVV95cUxNNENSejJQTjA2ZG5VRGQwWmVIYTNtakZjUjRSSWpFVnBIcHMzVGY5bmtmYWN4U1pfMFpjWHdCcGU3allhTU5Hb1drZVltMjQzdFpocENQaHZkbUxXSmxUOHhWeFktVGVaRXNRV2t3Vl95X05rbzBPYjE5V19YWHdEUWxZRkFLM09ibE96MXlvUW9xTXdhSklQUUk2OHFfanVHVVBMSnRXelcxZkRkZVlsSzk2OW8?oc=5
-- **Source:** Manufacturing Today India
-- **Published:** 2026-10-15T13:41:06+00:00
-
-## RedChip to Host Virtual Investor Conference Showcasing the Next Generation of Energy Infrastructure on October 22 - azcentral.com and The Arizona Republic
-
-- **URL:** https://news.google.com/rss/articles/CBMi-wFBVV95cUxOcnJhb3YtMDRhTUs2cGlIVlBjbzBnZjVJX2h2VVl6aFlVcHk1U0VMeHFuZlVkNm9jbjRfN3U4NHduTE81TnZoTlIxd3pSczhPVXBISjBteWZzLS1BZEltRTc3Z1hZZVpmUlJEU0hyYmp2Z1lsTFo2eW11RHJ3YVRWTjZiNVExbEZ3Y1BRTVk3TVdwWmpxbXRwZzRhUGZnLVZqWDFkeXRlU0xNcm9YaWhVRk9NeGxxeU1lcEgtVGxIQ3NkQjlvY2w4c0s2VmFjT1hnaDhFdVNXZ0dCbGpLUkV1bTZ3UVdUWTh1T1hfcUJRNWlhR3M0NmVreFBEVQ?oc=5
-- **Source:** azcentral.com and The Arizona Republic
-- **Published:** 2026-10-15T13:10:14+00:00
-
-## Public-private partnership to bring new exhaust system to DIII-D - American Nuclear Society -- ANS
-
-- **URL:** https://news.google.com/rss/articles/CBMiowFBVV95cUxNQ3F0SXVmaGc4VW5IWHhuX3poWTFWWUpZVEJjWElkWlMwVnJFSXY3TWhzVlZySkxzVDk0QU9XdEZXbGFKOEg4TmNZTjlvNC1fODlGSVBDXzk3WTR1d0MxSmhkNEVfUXlxUE1HMEhIOU1MOGhUMTd3R0NrcWF0di1aTUdFTUowaDlSNDhqbnprX0dvcEl0MWh1SkdMc3ZOU3Z0YzNj?oc=5
-- **Source:** American Nuclear Society -- ANS
-- **Published:** 2026-10-15T13:07:49+00:00

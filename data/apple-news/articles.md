@@ -1,8 +1,26 @@
 # NewsWatch — Apple News
 
-_Last updated: 2026-10-16T19:22:57.167103+00:00 · 50 articles_
+_Last updated: 2026-10-16T22:36:26.217093+00:00 · 50 articles_
 
 ---
+
+## Apple Names Meta Veteran as Litigation Chief in Legal Team Shake-Up - Bloomberg.com
+
+- **URL:** https://news.google.com/rss/articles/CBMiugFBVV95cUxPWHF4T3JLZlRUNXpPcHpoR0Q1QmtjTl9MTzJQLXpySUczTHlBb0EtWTR5S0g3TXgzOHFYUExGR09XNjh2SExxUHVKVDNKZlhxRlZlODNzVUNHWmxvaFZRV2RDSmtGM0UzS2dUT3F1ay1IZ2pvd1pldks0RG5YaGpPUW1LdFgzamd4VWtzUlk1cGs4bFBaSUp5UmYyZ0oxMlNQdGRGNnNWcG1jc0tWUjlqczZSd3VCLVJoRGc?oc=5
+- **Source:** Bloomberg.com
+- **Published:** 2026-10-16T21:50:11+00:00
+
+## Apple's Next Legal Risk Could Reach $40 Billion - TradingView
+
+- **URL:** https://news.google.com/rss/articles/CBMiqgFBVV95cUxOelJNSXlHa1pYTWxZTWVyZHpJTV9KNHpEVGhsZVNOVC1aWm9ySmNDS25LSUxJN1JLVFI3LS1fVFNtbkVPcUdzalRHMVROVlZUSnhLYTJCTThfUmNGLTYtSDBhWXhOWXdMeTRxLUVOMlFINnIxLWJRTE53c3RpUHFLM2RxUTYyVmQ5d3BwbkJPNUc0VDBkSWZkeFNCREZTX1BPYXdCWDdFcWN2UQ?oc=5
+- **Source:** TradingView
+- **Published:** 2026-10-16T20:53:09+00:00
+
+## Apple-1 computer complete with Wozniak signature and unique letter from Jobs sells for $1.15M - New York Post
+
+- **URL:** https://news.google.com/rss/articles/CBMinwFBVV95cUxPZTJkX2hQaDVqTnJOUDljdnI2V3JfWWxCYlZwcmpxenVpd0pESndPUFg5d2d5a3ZQeFZ6N2hycDdzc1VMbTlpZUpNOW83cUhnSzlEWmQ4MkYzbUVSVzZaRVFqNXptd2dtekpILWV0M3NpRk1wZzFFWWFTSWx4WDM4dWxELUhSWi05YnpFS2Q5MTZfYlp2RHVkQkFxZ2dBSjA?oc=5
+- **Source:** New York Post
+- **Published:** 2026-10-16T20:40:00+00:00
 
 ## Apple faces risk to dominance in UK tap-to-pay market - report (AAPL:NASDAQ) - Seeking Alpha
 
@@ -285,21 +303,3 @@ _Last updated: 2026-10-16T19:22:57.167103+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMitgFBVV95cUxNaGx2ZUVpRGlRUWZZN1RqME1CZHpXenR5c29TSzAwT1JTNGp0NkxiT3FDTVA3YmdHNm1jOWFsTktoT0dZSjdNUThaVWdiN3picjdHNmE1cktPQUtueU5pb3RZSVFjaVN3UkNrQndjOXh3N0xBaDhHajlvSUFfU3Q2OURWZlhLc0otYVNlSjdsNWpxNHM0RjVybm1ibXRmNGQyUGF1ZVlvRElHaDNqYnYtUjdXajV5UQ?oc=5
 - **Source:** SSBCrack
 - **Published:** 2026-10-15T15:09:58+00:00
-
-## Apple (AAPL): Can Longer iPhone Ownership Still Produce More Profit per Customer? - Yahoo Finance
-
-- **URL:** https://news.google.com/rss/articles/CBMioAFBVV95cUxOVHRtOXNvNXNlN3VZbVUydFBpOVRaMjJXR1RlNk14M254QmdSMGlLcnRjamlibWthSXFxWlFQczNXY2xsV1JEWWxscm1tdE8zZGJiWmxzazJVd1pndXlHQXNDanlab0hvQlRBSm1kMTlXbzBEbDlYUkJVOTVtQnFpbXN0elZHblV4bmhyLVFVTHZHWXZ1X0k2MHdNVzZwbzBi?oc=5
-- **Source:** Yahoo Finance
-- **Published:** 2026-10-15T13:38:15+00:00
-
-## A 20% Drop in Smartphone Shipments Shows Who Wins When Memory Gets Expensive - TradingView
-
-- **URL:** https://news.google.com/rss/articles/CBMi0gFBVV95cUxQVExfV2JRTDB5U0xxbnRrcUNsRVZsSzhQeXBaVkJ2d3M4UURBLVY2QkVuMmlJbVBvYmVwVER3X0JJbk9XMmNUbHRpSmNEeWxUUllMM1JuNDlLd3E2dFE5ZW0yMWtFeVZvTjlzdVBhX0RqT1ZCOENybUFjQm5iaU83VzJDblpkakR5UFFJTFFCNjdNMGt0dUtCZjFBVnhCaFJXRmRNbzlSSnI1UDNqT1hMcWxfLUpFTnRoOGdFeGhxeXNEcE9aQ3k1QVRLYzJTNEZMcEE?oc=5
-- **Source:** TradingView
-- **Published:** 2026-10-15T13:28:00+00:00
-
-## Apple Wins The AI Ecosystem Stories As It Retests 2026 Peaks (NASDAQ:AAPL) - Seeking Alpha
-
-- **URL:** https://news.google.com/rss/articles/CBMioAFBVV95cUxNQXE0RUVOVERUbmVaS1VzNE1zYklNUEp0azI3RE9qUGY5QkVuaGxoS3ExX1FyalNMbVpwbm1IemNFSjBGcmc2MGt4TDE1VWlGWEtWYzFmd2VnQ1hoS2tjMElxdmh4WGNRV0ZnVHl6NTZ3dnZLa1Bwa2J4NlAtTW1wb1Y0SDJlSDJRalpqYUdsT2FEazNxbzNMWlJuS0JMck0w?oc=5
-- **Source:** Seeking Alpha
-- **Published:** 2026-10-15T13:11:06+00:00

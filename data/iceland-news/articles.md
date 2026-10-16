@@ -1,8 +1,26 @@
 # NewsWatch — Iceland News
 
-_Last updated: 2026-10-16T19:23:01.241365+00:00 · 50 articles_
+_Last updated: 2026-10-16T22:36:27.173909+00:00 · 50 articles_
 
 ---
+
+## Daily Herald photo contest winners for September 2026 - Daily Herald
+
+- **URL:** https://news.google.com/rss/articles/CBMipgFBVV95cUxPSmU4OWlENTJCbnRJdkVzRVVnYndRRFNqY1RQSEx3akgyWjNvNGJyOXdOZkxvVWxPSVljZURrQ3VTLWNWbU9la1ZSQ2VzV3FPbnVQLWJXc1hoVlo5Y0dnaklnYWN5eGF4Q0lKSjVEWFdVb3hQaVk4SkVFN1hlRDEzbWhjMU9oSmxrYUZXLXl3RFhzbDVvX3BXZHItYlZDZm1KZXd1TVZR?oc=5
+- **Source:** Daily Herald
+- **Published:** 2026-10-16T21:27:42+00:00
+
+## Icelandair calls for ISK 700 million in police funding - Iceland Monitor
+
+- **URL:** https://news.google.com/rss/articles/CBMitwFBVV95cUxPUVFTMy16ci1XYVFHSHZEandHNFA0aU85ODV6MlkzNV8taGV3Rjc2X1U5anN2aElfUXdOLU5aRmFNaTUzM1RqNk5WeXpnVnBFenZkcHE3OURHS0NkVVRoUHU4MzB4OWtlM3F6SVBzVkx6bG4xeG5ULUJxMFVxZkhvS2Fack80dXMzU0ppUEV6MkRqZ1hnbzdTTTlHXzJwb21wblBxR2NWMjZacEg4ZlF0dHU3RXVyMkE?oc=5
+- **Source:** Iceland Monitor
+- **Published:** 2026-10-16T20:25:00+00:00
+
+## Yogurt mogul behind Siggi’s brand buys Tribeca home - Crain's New York
+
+- **URL:** https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbEg3RlI1R1A0UkxSSjZuOVdTaVV3VXhUVmhBVVpnLS1TNENVZU03WVRfcUVvalVYal8xZXVsNW1pa1RGcW5DdnZXOHlwVFBKRGhDTDZDWm5YMEV3ZTVNNVRNbVBxREVaLTFrYkZ6NjcxNzBKSWQ5bXpHck02dkoyUzRZTXNBdHl5Q01aNFprdm9xNE9ycnc5dEx4Sjkwd0JwSVkyclM3RWNfZGc?oc=5
+- **Source:** Crain's New York
+- **Published:** 2026-10-16T19:27:00+00:00
 
 ## Dinner at the centre of the Earth: dining inside an Icelandic volcano - Getaway Magazine
 
@@ -285,21 +303,3 @@ _Last updated: 2026-10-16T19:23:01.241365+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMilwFBVV95cUxPbXp6NXFFdFJMZk01VEVfWXNFVjFzckxNWTZqWEhGcDJ6cGFJTzBTRmlhak9BQnlZNjc5Snc3UTlVaFJSb2lacWoxVDRfN3hEVWJ4Q2lGQXBweldxS0ZZUFVldVJtd3d2bVQxcE1icWpMbGdjR2h2RWY4ZXNNeklQWFdqTC1SS0VVanpwREtSNWZLdjdkNExN?oc=5
 - **Source:** KTBS 3
 - **Published:** 2026-10-15T13:10:55+00:00
-
-## Akureyri Event Explores Immigrant Voices in Culture - Iceland Review
-
-- **URL:** https://news.google.com/rss/articles/CBMimwFBVV95cUxPZXNXaGtVUGlrX0NiX3JiVXpyUGFoVmd0TUZhZlk2ck4zeWhYTi1heHlsTm4zeTJpRnoxR1FHLTk3b09Ib2hMNHoyNVZwLWptb3dEVjN5MFUyLTZRNFRBWTRyekF1SmhNOXVKampVTkYxUVVIR3NyQzQwaVhndG13LWw5LUdtRWRacXVpSS0tWlg2cXR5RnY2dmFraw?oc=5
-- **Source:** Iceland Review
-- **Published:** 2026-10-15T13:00:13+00:00
-
-## Arrest over sexual assault of girl, 16, near Ferndown supermarket | Salisbury And Avon | In Print & Online - Salisbury & Avon Gazette
-
-- **URL:** https://news.google.com/rss/articles/CBMimwFBVV95cUxOdlJjWjBBYlhBTGNnQTJsdUMwd2MzYzhlMXZid2F1RDBKSFNGNzJZR1JDd0VMMDJHQmRyeW5aSGJ3MkI3d2Y3eHV2VkhrZUhxemVIUk1zZS1fYzF4UDFJYW51WjF6VndCM2NHd0VQaE5hN1JEMnljQzJBdkgwSHpqdUgzcDBLYWl1TEpUSjEweUxpREUxSl9IUEZINA?oc=5
-- **Source:** Salisbury & Avon Gazette
-- **Published:** 2026-10-15T12:55:29+00:00
-
-## Iceland Foods Charitable Trust announces new partnership with Together for Short Lives - eHospice
-
-- **URL:** https://news.google.com/rss/articles/CBMiuAFBVV95cUxORVJIa2FOWlBWbVBMcWpYalFJY3o5WkRBTDlCTkJrVVZ1elVNbXZxQVpQR2d3Zmh2MXlYMjB6eEwwZXJ5MkZVVHU0b2N4T19id1RxdFdNT0NTT0FtVmpnTUJBNmpkWHEzNjZHVVlldG45M3VfWTRyTHZkMExWb3dpVVhZLUlFTjhrY0t0a2FVTlFPQUhQWnktN0dNc1N1V2c0TkZpRkRyQjhZSkZDdzlQMG05VjAtNDlS?oc=5
-- **Source:** eHospice
-- **Published:** 2026-10-15T12:05:45+00:00
