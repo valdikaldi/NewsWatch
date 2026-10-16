@@ -1,8 +1,92 @@
 # NewsWatch — Iceland News
 
-_Last updated: 2026-10-15T22:55:34.341395+00:00 · 50 articles_
+_Last updated: 2026-10-16T08:47:55.536773+00:00 · 50 articles_
 
 ---
+
+## Andervel: "Iceland has taught me a more playful way to approach music" - The Line of Best Fit
+
+- **URL:** https://news.google.com/rss/articles/CBMiggFBVV95cUxQZWdkMkI1V2piV2gxM2MtdENLeEU5bGJabUtxMnlfbnlSeVJ6dkktaWNkT0JtQW9uSFpJT2lxNmdoU24zRnVhRXpSdzAwV29aM29HRnEtd0RZakFob1k5RHpSZ1dhb0xiSjB5TF9JUzVuNWZwZFFVSXRJdzdHMUFUODV3?oc=5
+- **Source:** The Line of Best Fit
+- **Published:** 2026-10-16T08:26:15+00:00
+
+## Faroes lose Iceland capelin allocation amid fisheries tensions - Undercurrent News
+
+- **URL:** https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRm1LbHgyTWNvTjYzX09zTXlxb3ZJMUtfdzNsMXp3OWJRWmVsM1hlbmlYUTlNRGJyQmk1U0R2aXVNRmJ3OTJBYTZwcVZPa1hxSTJ1dkt4YWxIWHhRclc1X1Bsbl9sWXo2MjdBZ290b1ZmUjRZVUR3RnBDdFg1UVJMWGlSQ3hzM3p5M0F0UFNYVzJYem42YlR3cnlGUXFXVUpzRFpHMlBUeFFVVU0?oc=5
+- **Source:** Undercurrent News
+- **Published:** 2026-10-16T07:37:00+00:00
+
+## Icelandair and Southwest to Link Loyalty Programmes in Spring 2027 - Iceland Review
+
+- **URL:** https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNWFvdzFYLVh2dk8zMzY5YVFoU1BaVVFLbVQtLUoyQUJEbllTWlZvckZ5TEZJbUV1OXYxUjBFM0tqZTFFeXRvNjZ6Q3dFemVPWFdHa0Z0MHVKX2c1NnRkV3lYZ2s2X25TdS1SME1SRGh1ZDJSbnJyOVlqZTQ3YzlaZVpjUDladVN5S2pz?oc=5
+- **Source:** Iceland Review
+- **Published:** 2026-10-16T07:00:00+00:00
+
+## Icelandic Mountains by Archie2022 - ePHOTOzine
+
+- **URL:** https://news.google.com/rss/articles/CBMibkFVX3lxTE1ZUnZkeUVpWWtWZEdKdUpjVTRfd0RxSnNld3BmMF9qYkNpRmZ4X2FFNENXdjRVQXE5aW1mcV9DQTB4T28wcXY5a1d2clBpMkZhRFpta1dKSDFyUTBOR0U0NGlfX25YU0UxSGxPZUlB?oc=5
+- **Source:** ePHOTOzine
+- **Published:** 2026-10-16T06:21:54+00:00
+
+## Tickets and schedule for 2027 European Championship volleyball qualifiers at Largs - Largs and Millport News
+
+- **URL:** https://news.google.com/rss/articles/CBMiqgFBVV95cUxQeXRqV2ppcEhZenB3VXdweGRCZ01fZEgySWtHLWd6WGZoRFNfb3d4TEZXdFBodXRRV2luUWtObENnSnpzTWc0c0ozMEp5WW96UDZKOWhzM09LQ1pfOTRBUm5lTmpWdUZCZVRqcm9sSXJfNXFIYWNxR2RsbHB0Ni1WU01ENEEtX2gzeXE5aFk4cUc2SXRZa0x2UzNIMk5HZzN2MGtLTzVVTFc0Zw?oc=5
+- **Source:** Largs and Millport News
+- **Published:** 2026-10-16T06:06:07+00:00
+
+## Discover the film locations for Supergirl (2026), around the Cairngorms in the Scottish Highlands and in Iceland. - The Worldwide Guide To Movie Locations
+
+- **URL:** https://news.google.com/rss/articles/CBMiZkFVX3lxTE1USUEwakZRMEFZQ09IMEw1eFVfdVBtRUhDZ3dJaWhlNlUtelFfQ1B4OXN2UVhTY0V5SzJpSmNJNXB3UFVlZE1UZ3hwVmJ5ZVk3bzRkVXE3aWxkREhEQVpHWVdvMFV0Zw?oc=5
+- **Source:** The Worldwide Guide To Movie Locations
+- **Published:** 2026-10-16T05:59:11+00:00
+
+## Abertillery man fined five times at same supermarket car park insists he is parking legally - Wales Online
+
+- **URL:** https://news.google.com/rss/articles/CBMikgFBVV95cUxNTTQ0UVVrTGtHdGpqWWxvS1FFT1dJSllwZUZHRi1RXy1BS05lRHdyODhDTzhaSVgtRHE4c1B1cGdtWG11UkFBbk9JMlQtaXJWQWZ3c1lRVkVmZGNjZG1iOXE5OEk3bi03Vi05WlZfdFEycHduT2xodHI2dHI4eEZCVk4waWUtemlyZGtCSm5QNlFOZ9IBlwFBVV95cUxPQUFlbVFKMEQzQUxnWkRjTjBXbTlERWhObDRMVkNXVGVHakFxQ2F4MzBLZmIyTG5QaHVVeXh0T2FKTEMzMkhPOEVQQkcxa2FFa2cwUnhoTG1sNkNwbi0zQ0J1QVJzYzEwLXlxeUNrdmlHeVl3UFhZZVZXZzgxMEdtNm8tQ2JCd2plR1ZfM1g3aER6cjFaN0kw?oc=5
+- **Source:** Wales Online
+- **Published:** 2026-10-16T05:44:00+00:00
+
+## Reindeer in Iceland: Where and When To See Them - Guide to Iceland
+
+- **URL:** https://news.google.com/rss/articles/CBMijAFBVV95cUxQazlMNF9wbGg3OUNpWkloWk80R1VmZFlvX2dUWEotRVVBQUtNWEYxMFAyUnJYQU5rSFpuRmtKbUx2ZUZ3NkZBZmxBRzZNNFJXMlFrT3Y1UFc2XzhkQjRrMWVyR29sTEgwNWVsMWRuc3lBaDdLVVlzNDFNUm9PWEgxem8ycmtQbkhTdkxHSQ?oc=5
+- **Source:** Guide to Iceland
+- **Published:** 2026-10-16T05:21:54+00:00
+
+## Weak mag. 2.5 earthquake - Iceland: 6.8 km NE of Blönduós on Friday, Oct 16, 2026, at 03:45 am (Reykjavik time) - Volcano Discovery
+
+- **URL:** https://news.google.com/rss/articles/CBMivgFBVV95cUxOTzJNYWZLNWFybU90b3EwZzh2TGxEZzVSSmVvOWtLY1pzLTFIblBTVG4tVEVsRHc5N0hranY2ZkVpZmpSdWVDRDJuRDkxNkhWODJ5c2F1cUpxZ3l4RE10SjBQZ3pnaVNzWU1FX1lJMnlTdUpKaGhhUUJseTlyS0QwUGpEb3F2Q3F5UVF1aGs5d3VqeS1fdnNRRkJMYUJCYzVWQUhrSEhsclFtTFlDNFBlM0g3cGF0NVdtUFN1N09R?oc=5
+- **Source:** Volcano Discovery
+- **Published:** 2026-10-16T04:09:48+00:00
+
+## Iceland visit for The Sculpture School - Crediton Courier
+
+- **URL:** https://news.google.com/rss/articles/CBMihwFBVV95cUxNdVRrSHJZYVpBSXRaSWxtR0hYSGZsMjBoSTZuVHk3TThDU2NMcFNpWS1LRzFybHVZclFQVXdXV3dvVjhXa3RuQ29kTW11RDdMNE00QkpnOF9yRV9sNkc1b1FTVXJXclh4ZmhRalVCU2dPeXg2TjVjVjRGeWJfMFZRbDYtRUJOZFk?oc=5
+- **Source:** Crediton Courier
+- **Published:** 2026-10-16T04:07:37+00:00
+
+## Lu Kang Leads an IDCPC Delegation to Visit Iceland - 中共中央对外联络部
+
+- **URL:** https://news.google.com/rss/articles/CBMiekFVX3lxTFAxRFM1czg4RS1CWHk1amUyN20yemtxTFI2dUtFSW1EdHpBWHZsdlptWUxNZVJXUmhkZDR3U0xaczdLeEhKWE55Q3BtcXVUTXJ4RHF6SHY2LXFJOW1PcFNEZE1DN1pUbmF4N3o5TFc1bHRPSDdsMVhmR2dR?oc=5
+- **Source:** 中共中央对外联络部
+- **Published:** 2026-10-16T02:27:09+00:00
+
+## Telford shoplifter, 30, who stole wine from Iceland is ordered to pay for it - Shropshire Star
+
+- **URL:** https://news.google.com/rss/articles/CBMixAFBVV95cUxOTnZBVUw0ZmlyZkNEczJpcFRIMTJvUFNkM19lcGMyQWhZYUJUUnBNd1FOTlBIcnZGcjBENmtjUE8zbTNDVENtMVlEMVFoWDktWEZwQVZaWGVkM2kweXpmZ1BKVVpMUlhUY3dRUnlMZFkwd3dwYWpGOWRxVEt6TFpXRkJ4RTE5MHE5dVA3bmdaX2U1ZmlpeUp1MGMzTWVQcVh3VjhhbDI0UndVZzRVc3BXcEhhQ2tVVWJKS3pYTGZLTFgzT1Fj?oc=5
+- **Source:** Shropshire Star
+- **Published:** 2026-10-16T02:01:00+00:00
+
+## Central Okanagan Search and Rescue manager to speak at international conference in Iceland - Castanet
+
+- **URL:** https://news.google.com/rss/articles/CBMi0AFBVV95cUxOOUY2dEszZWM4dXgyWXNkbnlMX3pfVURmN3BBeTZ2WVYwMFQ1N09fVUFnWWVFd0o4WUhucHY1ZllocFd0S0sxQ3VjRFVGR2NnZHpYbVl0N054YlVqVEREQTNhZ0J4eVNNeDdPWTFVaTNVVmZGUlpBTnQyZmU1S3h2QXBCTVpDdEQ0YkM4U2E4UGZfQmk0cnRYaGd1VGtDekpqMTNpTWNadGxvTlhJMW1BcUFWcVB0bDdjak5nSDVGbkNlWXpsTGgtT3hBRWN0SzNh?oc=5
+- **Source:** Castanet
+- **Published:** 2026-10-16T00:56:00+00:00
+
+## Experience Iceland Without Leaving Vancouver: Free Concerts, Food and Cultural Events Coming This November - To Do Canada
+
+- **URL:** https://news.google.com/rss/articles/CBMiYEFVX3lxTE9lc29Td05ob1psZ1ZkWHo1YXduUDNhUDhtUllHcjdON2VCZVdTcWd3MGRKMGV3TGh5VVpkd0E1Q2NKMUZ5c2lmdWFXNm03MVkySW9CM2phRDhIUGlEVnhIZA?oc=5
+- **Source:** To Do Canada
+- **Published:** 2026-10-16T00:23:14+00:00
 
 ## City supermarket reopens after major transformation - here's what's changed - South Wales Argus
 
@@ -219,87 +303,3 @@ _Last updated: 2026-10-15T22:55:34.341395+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMi4wFBVV95cUxNOFRJd2xHdlRrQ01RWlZhLTVCeXFCTE0xWlNNRTRDNEpVSVlsYzVmZVdhcjZIeFRfZzdSZUJ6YVVtRVUxWmR0a3BSdnFQMm81Tmc1QlZ2dWpSbGdjR3ZVWnozdHZYakVBaU5oTllyS0pBMkFudXJUYk9FRVNJUzVzd1hnWnJReVRBMGp3MElLV0YwTHlQMnIxXzlDTDFZUFNlMDQ4OG96STNhSXh1U29zSzVUR1M4cEN1QXNIMmdYSURXN25KaEF5WDE3dGRLd25DLUxzVXdRTjVxcHM5N2JOeGFvRQ?oc=5
 - **Source:** KTBS 3
 - **Published:** 2026-10-14T14:30:00+00:00
-
-## ASÍ Forecasts Slower Growth and Persistent Unemployment - Iceland Review
-
-- **URL:** https://news.google.com/rss/articles/CBMijwFBVV95cUxNNTVFaW9DcGVwMXFsLXY3Wld3SFdRUHhEbEgwenRUX0JLNUZ5Sy1Wa2tBM081aTNyb3dZeUloM0dRVDFmSkpPQTVQUFkyaFBzQnpjTmhQVU4wZ3h4U3d4QWFfeDZBVE1pZUlkWENOQ1lmZm9ETWRiUU81MlF0LXBWN1ptTUhFakFKRmY0Qlk2cw?oc=5
-- **Source:** Iceland Review
-- **Published:** 2026-10-14T14:00:04+00:00
-
-## Online Betting Laws in Iceland 2026 - basketballsphere.com
-
-- **URL:** https://news.google.com/rss/articles/CBMiYEFVX3lxTE9XX0RSNVc4amw2dUNYWEhuZFF3RmNQVlFNbEJES1c2SUxVUF9ySnQ0eEV5dlZnc3diZTB0c0w4UDh5VkExZ0hVWlhMRHExMWRtVnpib2NOVEtDV2QxZHAzSA?oc=5
-- **Source:** basketballsphere.com
-- **Published:** 2026-10-14T13:30:14+00:00
-
-## German couple make a splash with Bónus pig designs - Iceland Monitor
-
-- **URL:** https://news.google.com/rss/articles/CBMitwFBVV95cUxNXzlRVW8tcnhabFZiZjRtT09zRTVLNkpGWEw0dlBqMnBOS3lkQ3I0S2ZIdzVoOGxzM205RFVnTUpMQVZzMjJkSWR0eGpTYXBRdTNQZXhIWkItOHhhcGNZOUFXWWFPZFczTlFIWVpqcUNwamhPMFlPTFk4QjhPUUZtZjNEbThsOE1uQXdrZkNMN2tDTEZJLTAzWEs0aUx5OUEyQ2JxYkwxcTB3MnoxcjI2NVR5NmllSm8?oc=5
-- **Source:** Iceland Monitor
-- **Published:** 2026-10-14T13:00:00+00:00
-
-## UN Disarmament Chief Discusses Nuclear Risks in Iceland - Iceland Review
-
-- **URL:** https://news.google.com/rss/articles/CBMijgFBVV95cUxOdzUzZXZIZXVHWVpOcFIwdTRNNUotVDhQb0dIbE1PQ3hCcURrRy1nbHVtRTRGbzZMQkFUNGhqVVc0RUNpX091b0I0MUxVRU9CWnBtdHpxaFM4ZWVvOXY2ekxjcUpReTJQQVBja1huN0xpd0Q5c0ROdEdPcXlDMy15blQ5cUJjYU8yYjRsbnpn?oc=5
-- **Source:** Iceland Review
-- **Published:** 2026-10-14T12:00:45+00:00
-
-## Met Office names where heavy snow to hit in October - blizzard conditions - AOL.co.uk
-
-- **URL:** https://news.google.com/rss/articles/CBMif0FVX3lxTE1vdE9jRDAzU1RIZkVSSEpWWWFOa29vMHowbmRQdlVYeFpvZVhDcWhnSlhJODVCRTFqa2ZfVEZnNmliQUp2WUZRODJlNVdyVkFTcUVxd0FEZjBYdU4wZm5PS1RZR3FFU1BLdlAyc0JkN21xT1I4bEJOZF9DYlVDX28?oc=5
-- **Source:** AOL.co.uk
-- **Published:** 2026-10-14T11:39:39+00:00
-
-## Rarity finders: Yellow-throated Vireo in Iceland - BirdGuides
-
-- **URL:** https://news.google.com/rss/articles/CBMijAFBVV95cUxQVlFWdnBDaXNWTDZfaC1WQlBRM2J3TjEyZ2dJOU4xejYyek1Fc1BfSkdVVVVFNExzYWVnNTZjaVhDRnliMk9ZeWRNZ0kyNWhoUV9KNWY2V1pvMVByRk5uQUtzM0xLMGxxM2Rqa0xHT1ZySUxNY1ZabnZhRVFUVFlhNjF4c3RuVXV0bnF2Vg?oc=5
-- **Source:** BirdGuides
-- **Published:** 2026-10-14T11:31:08+00:00
-
-## Supratechnic, Iceland’s GreenFish seal deal to bring AI fishing predictions, trip-safety features to M’sia - Focus Malaysia
-
-- **URL:** https://news.google.com/rss/articles/CBMixwFBVV95cUxOVzdNZE44YmRFVGhxcDVVVTVTNlpJcDlIbU9HVlJRXzdQUXJQNU15Tnd3MHRwclh0N2hNTzBUWGZ1aW1jSEJjZmZ0X1RBUU9rMmtCR0tVOTNkWlJkYXhDMURHd2JHUG1LaU1IZVNmbUF4clliSnlORXNRTXNEcEFlaUk0cU9abEhNSTRTMkVfaDQxT0ZWalM5a2tfNWd0UGpENnFtSFZIQXdnNS1tMGtXaEhPNkpWeVUxeUdHVlgxaUVJRnZBMFdJ?oc=5
-- **Source:** Focus Malaysia
-- **Published:** 2026-10-14T11:30:49+00:00
-
-## The state of the storm - RÚV.is
-
-- **URL:** https://news.google.com/rss/articles/CBMidkFVX3lxTE85bDZab29oMkpjWXhfS2hmR01GLTJid0pYNTJWV2w3YWtnT3pkWVJIYlEwZXh4SllzLWtmZVkwVUVpMUw4eGNCVGJucHpEc0g5NkwzSDNYVFpjaDFmOWJtTFM3Z2FHaHNfV0t5ZVJXWk1Ya1lKYXc?oc=5
-- **Source:** RÚV.is
-- **Published:** 2026-10-14T11:13:00+00:00
-
-## Opposition to east Iceland salmon farm grows - Fish Farmer
-
-- **URL:** https://news.google.com/rss/articles/CBMijAFBVV95cUxOSDZsbDRIX1EtdlljVk1EdW1NZ2l4QWZodnNjbkw3X3I0Z1YzdVpXSk5CYV9jM3lxSXhKR0tiN0ZqZEJmT3Fkc0VDVl9mUnI0UEtOX0JMV1pzd0k1YVgxM1B6T3cteDZLcHhaaXZ5YWJHSDFOOFlWR1lrYzlqeTRZdXJYU1ZmTkxJRFNaTw?oc=5
-- **Source:** Fish Farmer
-- **Published:** 2026-10-14T11:03:09+00:00
-
-## Iceland Opens ISK 40 Million Media Innovation Fund - Iceland Review
-
-- **URL:** https://news.google.com/rss/articles/CBMiiwFBVV95cUxQc3M0T0lOUnEwYU8taUNGUnZtWVNNeVZFZ3g5VU1ZWVdEWDBKU3NOVEYtOGF3Mm9MUkJ3RVZIaU9lN0oxT19wOERlb3hwLXJJdGk0dmw2TlZaUFR2MVVwUkNsV2c5X2dXLXpvUV9JU2g2NHRxLVY4cWNkNHQxOHhCWk1jUkdPWk9lTHZF?oc=5
-- **Source:** Iceland Review
-- **Published:** 2026-10-14T11:00:54+00:00
-
-## Iceland’s Walker to chair Second Chance advisory board - The Grocer
-
-- **URL:** https://news.google.com/rss/articles/CBMiowFBVV95cUxNWXJGanRSck16T1lGcV9rcmpJSWg4TU1ha2xRZ000N1BoTmRKTkZmSVJaRGh6YlRPR25yZFZCTEhnY2hYUUJYQ24xMWdOUmVLMUl0bDZRTG9scGpiTzQySURqS2EtWWlVMHIxWXNfTTRuZzUtbGxYTVJva0xUTEdxTG9PUUlNUmlVa1d4LUU4R1ljbXp2OUxRQXJCMVI0M0FMeEQ0?oc=5
-- **Source:** The Grocer
-- **Published:** 2026-10-14T10:05:54+00:00
-
-## Applications Open to Use Pension Savings for Mortgage Payments - Iceland Review
-
-- **URL:** https://news.google.com/rss/articles/CBMimgFBVV95cUxQWDVRd2h0QktHTFhTbmVYZ0QtZjZQTzI4dHV0R0FDckNydVZDOUlyWDcwcndDTXFvZEtDby1kOUFzQUZnOVBNVGw2R1NZVVpRSTUzR3dueGMzQlRYUlZTS29MRDVSa2c0TUtRREc5LWJBUU91c1ZBWTRjSEFQYzdXR21mVEpIVWo0YU1QcXJLSW5scVlCTkRLNWlB?oc=5
-- **Source:** Iceland Review
-- **Published:** 2026-10-14T10:00:36+00:00
-
-## Section of South Iceland Road to close on Thursday - mbl.is
-
-- **URL:** https://news.google.com/rss/articles/CBMimgFBVV95cUxPcVNWVFNXdmVYN04tb2EycFZMWUhJQVE4aElPN29MTlc0MFZuQ19ZNzZZVklDa3VEeUpfOTZfNTV2X3lEREZ6a1liTHowbDR0anhmc1UwbHJRS1dpUzhVX3VPS2xDZ2xsZ1FTRmhsLTctdjhBZjdBTm84NHpqLXZKSUIwWE80RFpnUW5ZQU1TX3Rpa0JHYzJtNThB?oc=5
-- **Source:** mbl.is
-- **Published:** 2026-10-14T10:00:00+00:00
-
-## Iceland :: Standings History - playmakerstats.com
-
-- **URL:** https://news.google.com/rss/articles/CBMibkFVX3lxTFBtNGE0dE5LSmd0QVBMYllQNVFrWTM3U2dnejBBX21zSGt6RFJXcTdMLUE2SzVSbjFiaXBIT1BLcGpPMlJrTEc1dlZ0bXc2ZWVBSmE5TlhRbXVUclVUSl9jOWJ5MTZKZXR2eEhQeGhB?oc=5
-- **Source:** playmakerstats.com
-- **Published:** 2026-10-14T09:48:02+00:00

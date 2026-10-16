@@ -1,8 +1,80 @@
 # NewsWatch — fusion energy News
 
-_Last updated: 2026-10-15T22:55:34.880099+00:00 · 50 articles_
+_Last updated: 2026-10-16T08:47:56.091100+00:00 · 50 articles_
 
 ---
+
+## Enphase Energy (ENPH) Starts India Shipments As Fair Value Debate Gets Harder To Ignore - Simply Wall Street
+
+- **URL:** https://news.google.com/rss/articles/CBMi1gFBVV95cUxNWm0yVVVjX2RJYmU1NzNkcGR0SG9POTZCRFNocmV3NDdTSk1maE41QVQ1dXJmWVYzR0xWY1dyMDVxaVZrLVdkX0Z3aldOcUU5YmZLSHRLb19pZmtPYnRERWRNY1BtbDZBZFRHN2g5N3pEcE1CYUNmelhCVncySWhKS3N5UWgxWTBHUEZuU21VdUJROVBNaDhyZ01JWFRISS1TNVZ2YXlBWmR1S2gyWnRKTkJNUGpoTFBoWnpSajYyY3locHgxQzVkWldZUTF2bzY4ckZ4dVZ30gHbAUFVX3lxTE1EUHJpX3dkbENma2VfZ0tiSUFKSS1iSDJ2UjJ6dlRtME9HaW9TZmtPZ3B0TktrZGRDRnc5aGcyZTV1aUdWNmstbE53WG9ha3E2MjlOaHJ0REowQ293ODNzNHU1MGJ6M3NxXzBmQkVWRFJHVWRzWHotWWhkY20teUtUUWtHcXBNSUpRVklzRnBaWk5wcUYxVGZQZjYzWFlLNXhNWlVqSnVXdzN2aV9ueXNzS3dQaU85b1Y4TjVSXzhfOFV4Q2FudVBsUEpkOUlGNC1FQVVEa2o0Um8xUQ?oc=5
+- **Source:** Simply Wall Street
+- **Published:** 2026-10-16T08:37:39+00:00
+
+## APM Terminals Pipavav appoints Zeeshan Mukhi as CCO - Manufacturing Today India
+
+- **URL:** https://news.google.com/rss/articles/CBMigAFBVV95cUxQbm5WZGM5c3UtVE9aWTIwVHBrNENyZ01ybnFfY0tVdUpDTk5pMWxtLWJjYXlHWXFsZWx6U0k1QVZyWE9Ic3hkVHZKZ2lRZjVBSDQwQUs1VkpPZUtURjI4OUNoTm90V2s4R1FHUUNPaGVEVWNVN3pPZ3A0RTY4bjhVWA?oc=5
+- **Source:** Manufacturing Today India
+- **Published:** 2026-10-16T07:37:04+00:00
+
+## General Fusion Announces ‘World First’ Milestone Path To Commercial Fusion Power - NucNet
+
+- **URL:** https://news.google.com/rss/articles/CBMitwFBVV95cUxOYmZRdVU1WUlUYjh5XzZyVUlSVHVCdmg2aEE3ekg3UUZYQUZUZjJOQmVHMlJzaWhad3dsUE5keUEyendmMUthYkR1MmF6dG4zYndUN0JaUGJ2RHNlTUlYM3NYMDVLRWFRNVQzNDRUUXlBUjJ5N0ZYOTNiTFVFa2U0cmhwc1ptb3hjbFVCaU1xY041dXAxeDQ2YUJvckkzTzFyOUhvTG5UQjFwYVppdTI4V2Q1NGM4dDQ?oc=5
+- **Source:** NucNet
+- **Published:** 2026-10-16T05:53:23+00:00
+
+## Pérez part of national engineering alliance’s leadership group - Nebraska Today
+
+- **URL:** https://news.google.com/rss/articles/CBMilAFBVV95cUxPOXZJNklXMGdSUUpILWd0djFJcDlNXzU4aWVNTnlITjhnaVMybFh4Y1hPSWlBWmU2TWFMQkNkN3NsdFZLMVhDcGxYck5qLWhpU092ZXpoamVKdDVaMkpfWERzYVV6Wi1rSlFJLVU1RjZ6eDFRVU1RckJjSGlDa1J1ZVA3REJwa25rR19aRUpxdjRSTy1n?oc=5
+- **Source:** Nebraska Today
+- **Published:** 2026-10-16T05:32:27+00:00
+
+## Breaking ground today on a transformational project at Mount Baker — more than 400 units of housing and a new early learning center, right next to the light rail station. We need more housing in Washington state, and we're excited to be a partner in making it - Facebook
+
+- **URL:** https://news.google.com/rss/articles/CBMi2AFBVV95cUxQUWpfN1c0dmJ3a29DNWo4UTkzVTZHNzluMzJCUXJqazJneVNsSmxEd0tYMWxyd1BXNi1ldHVjMGJNVFZQMV9WMTc1TjRZVjNSSUVmYUVpNklPb0dFRS03cnZXdTFHRGN2TEhXeFJxaFl4VlJlaWRTTERkVy1tUUpCU1dfcC0tYUlBZEd3dGJObm45dzhWcTBvc3J1Vng0dUxGSEdHQmJtel9CM2pqQmxxUkEweXFsRkQ4SmhqU09SVHFnQ0QxSWhwcm0tSzJMSnBOcmN2UTBTdC0?oc=5
+- **Source:** Facebook
+- **Published:** 2026-10-16T03:42:33+00:00
+
+## Trump Media (NASDAQ: DJT) And Rumble (NASDAQ: RUM) Stock Tumble 5% After September Inflation Tops Forecasts - Foreign Policy Journal
+
+- **URL:** https://news.google.com/rss/articles/CBMi4wFBVV95cUxOdFJqcjl1Ti1KcmhyVGdDc29sN3l5UmMxdW1XbVhrSkxGN0h3b0FoQjdpajVkMDFYUHhkXzFNNExjM3NkRzZ3Q2FyLVp2OXFKTUtreExPckZPRExoSjBLelhidDhNcmN0X3lvelBkMEl6bmsxUU1ERzRjNVB3Si04LV9IWkswZFdCck9UMkstX3g2YXZRSEpWWnBSZTNjdmlfMVl6TTh5Z25uUkh6ZWhxR1JRaWljNDQ1Rnhpekc5N3FPMHVBNDJMWlhIZ0s0Y1liQXFwMDZQNXlpenZET054dF9NNA?oc=5
+- **Source:** Foreign Policy Journal
+- **Published:** 2026-10-16T02:45:00+00:00
+
+## INL opens molten salt testing facility - American Nuclear Society -- ANS
+
+- **URL:** https://news.google.com/rss/articles/CBMigwFBVV95cUxNYzBDMnZFam4zY3JFYS1SdHEwMEN1ZmFwQmZ3MS1RdkxTdEpHaFdVbU40LWE0NUVoYkRWdy1GZVZPUW5zYUFiSDE0bUpGbXhBRlVLT0w0SmNZUmhXWlBUTjFySUdtUnhBNHcwMTUtS0dIb0tBaVFMMnE3N2RIdXV6ZERWcw?oc=5
+- **Source:** American Nuclear Society -- ANS
+- **Published:** 2026-10-16T02:30:06+00:00
+
+## Compare Motorola One Fusion vs Oppo Reno 16F - WhatMobile
+
+- **URL:** https://news.google.com/rss/articles/CBMidEFVX3lxTE5ER0J6enBpdEN3aENZaHg0Nlk1OVRNamh1cXNjcWlscng5eEN0aGJfN0NmVTdhSGhfVUJVVDZrQ2hMNE1UNnhXU2NDVWRPRDNOdnpmcWRCWl9ZemVaTEZfenJPWmhpNmNFZ0VrYnUtWnNaNXBm?oc=5
+- **Source:** WhatMobile
+- **Published:** 2026-10-16T02:25:59+00:00
+
+## X-energy, TerraPower share updates on advanced reactor projects - American Nuclear Society -- ANS
+
+- **URL:** https://news.google.com/rss/articles/CBMisAFBVV95cUxNYmZZeHNxSTUxZEdhd1hUTm1aRUhsZlBwWTRIdl9XRFpmRXg4UFp2Yi1nbkR6STgyNWJxMXFMZWpaWjNqRE1hdXNsY0dSUWxNdHAwenRBN2k5YmU2UTA2cjBOUHFxMy0zbUEwSWg4d2drRGxBU3JxdnFoSkZaVmRmX2poQk0zTlE2SkNCMGxfTW42cW05bTNOVFFYVmszWDBhcWdWY0NWV29mb05CVFVHNw?oc=5
+- **Source:** American Nuclear Society -- ANS
+- **Published:** 2026-10-16T02:13:03+00:00
+
+## Cold Fusion & LENR: From Nanogaps to Megawatts? | by Tim Ventura | Predict | Oct, 2026 - Medium
+
+- **URL:** https://news.google.com/rss/articles/CBMiiwFBVV95cUxORGU0dTFOclhSWGRpc2xmUjZSQlptWEdDdXRPZjRMZ0ktWmVMUGRFV0N2dzkycmN2ejNJdmdMT0xlWE9hWkZQMDdJTUpkSlJ4Tk5JS2RsLW9SWkR3VDE4UkVncmdsaVVCUWlSd3gxMWxCNFRoUWZEajNkekZnT2lpaTduc2hGdGw2OVQ4?oc=5
+- **Source:** Medium
+- **Published:** 2026-10-16T01:34:24+00:00
+
+## Tesla Energy Chief Mike Snyder Reportedly Exits As Elon Musk Pushes AI And Robotics Pivot - Yahoo Finance
+
+- **URL:** https://news.google.com/rss/articles/CBMikAFBVV95cUxOdGxZaHBnLU8wMUEzMVBQTzlmdGp1dXVXd0JFd0JfNnl4LTJJRXFKeTVxRGlqcHZiWktXazNtTG5pNmxiVThtWHI5eXg1M0tpOVRvXzVfUUIwMWFFbzdEcVJ6SXlfS29kUlVia1VtN1hTQUU2ZHduV2pOTjB3eVg3STV6aGhvYU5iUlo1QVVnOHg?oc=5
+- **Source:** Yahoo Finance
+- **Published:** 2026-10-15T23:18:25+00:00
+
+## Fusion research tackles fuel and instrumentation challenges - American Nuclear Society -- ANS
+
+- **URL:** https://news.google.com/rss/articles/CBMinwFBVV95cUxOeE53WkNpV1VzNThUR3pjTlF4Q1FsUDQxOHk5MHBna3pqQjFoSUE0NjBseTdBVnRYekJKWldzMV9MSXNnWkxEcHE1R05NazUtOGZWajU4ZUVfUzZoQm1aakpDRkFfNmVnREYwZ2dzM0tleW9WeDY1b096WldPSUx5RFdKSmVJQUV0cVlCWnRDRy1RQVhLWGp0WHdHN2wzNFk?oc=5
+- **Source:** American Nuclear Society -- ANS
+- **Published:** 2026-10-15T23:09:02+00:00
 
 ## Fusion CX IPO GMP Today with Listing Gain Expectation - IPO Watch
 
@@ -231,75 +303,3 @@ _Last updated: 2026-10-15T22:55:34.880099+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMi_wFBVV95cUxQa0lnZS1SN1ZFNk9ZdTd3anhTWVdUZ0VOT1lzLWlRc191VVVBZnhEYW9hQmRFUllDakdTRHltMERDMmFxX0RhNWxRQ3VkRGQxV1c1Yk54S1JaUHBRSmpONncxZFJwUlRrcHpBRnpKd1VlbElPWTV0V1RwUUk0b0dCSXg4NVM0TUFJT3RPVHlldGl3Q2NzOVBJVFpocjFQRUItdFlFRGg3UUhPZjBYc3FaQU1NNE9rQ2JncDMzU1VkdkNpTEZZUGhjRG4xYzZRRWFBdm0yci01Qjk5YTdlVklwQ1ZoR1RpclNjNHJaUVFVOVZDNHNzTlN0Q3loa25ZSk3SAf8BQVVfeXFMUGtJZ2UtUjdWRTZPWXU3d2p4U1lXVGdFTk9Zcy1pUXNfdVVVQWZ4RGFvYUJkRVJZQ2pHU0R5bTBEQzJhcV9EYTVsUUN1ZERkMVdXNWJOeEtSWlBwUUpqTjZ3MWRScFJUa3B6QUZ6SndVZWxJT1k1dFdUcFFJNG9HQkl4ODVTNE1BSU90T1R5ZXRpd0NjczlQSVRaaHIxUEVCLXRZRURoN1FIT2YwWHNxWkFNTTRPa0NiZ3AzM1NVZHZDaUxGWVBoY0RuMWM2UUVhQXZtMnItNUI5OWE3ZVZJcENWaEdUaXJTYzRyWlFRVTlWQzRzc05TdEN5aGtuWUpN?oc=5
 - **Source:** The Economic Times
 - **Published:** 2026-10-15T04:07:00+00:00
-
-## West in nuclear fusion race with China, says UK atomic energy body - Financial Times
-
-- **URL:** https://news.google.com/rss/articles/CBMihAFBVV95cUxNazc0NlZsWGR2SGdWNnVId1VHQm1jSUFPY1A4VG1DV1ZPTnJONWdMWmlXNjFaMmMybU82Sm5YVDdINW55TF8wZThSZEVQV2JBemZKVHR0aHFxSTdib2hLY0JYRHBvSVhiT25VWmxFNlR3SWdFWVN6dUxWNXd5S3NXOFBZaHo?oc=5
-- **Source:** Financial Times
-- **Published:** 2026-10-15T04:02:49+00:00
-
-## H Canyon restarts uranium recovery operations - American Nuclear Society -- ANS
-
-- **URL:** https://news.google.com/rss/articles/CBMijAFBVV95cUxNUVFlMm9sZU8xazJjdWRSUmxfUEk3VWRUd3ZPWVlHVFU4YXJfUmp1eVJyNFNvT3pUREw5OWFwOUJob3h0czBhVVN6b2FKY29TQVJlMGNlMFR4UFY3dnhoMXg2TTVBTkNrckNudk9uREdYN0h4ZlA5NlJNUUVKUzNxX2lRUVNWWXVqNEg3Zw?oc=5
-- **Source:** American Nuclear Society -- ANS
-- **Published:** 2026-10-15T03:52:33+00:00
-
-## AI pushes data center cooling limits; smart systems crucial - ET Datacenters
-
-- **URL:** https://news.google.com/rss/articles/CBMi6wFBVV95cUxQM1E0ZHh2ZG5uNVJpWnBkSTFzRHU0VUxhMGs1aVBhU2pHR1RlYmJ4S3M5WUdSTGdoMHpyc0N2WGRJNXBjX3RTUkJ5Z2pKMXVvaXpUWWZoN0lRT05SRmNXSlNZbXd6TjNKaG1ZRXRva2Y4aWg0T2RiVmhzVnE0bTkwb01BUExGVGF0Uy1yS1lvUVVxcFVmb0g5Zk9uaGVzeVQ2SGt0MkhId052Snk1T0l4NnNpNFJJdkxhLXBvbWlfTDVuRXhxSDZzcXhFelV2S21jd2hYcFhrdjBCMHc1aU1pVDQ1WEctU05oWHFV0gHrAUFVX3lxTFAzUTRkeHZkbm41UmlacGRJMXNEdTRVTGEwazVpUGFTakdHVGViYnhLczlZR1JMZ2gwenJzQ3ZYZEk1cGNfdFNSQnlnakoxdW9pelRZZmg3SVFPTlJGY1dKU1ltd3pOM0pobVlFdG9rZjhpaDRPZGJWaHNWcTRtOTBvTUFQTEZUYXRTLXJLWW9RVXFwVWZvSDlmT25oZXN5VDZIa3QySEh3TnZKeTVPSXg2c2k0Ukl2TGEtcG9taV9MNW5FeHFINnNxeEV6VXZLbWN3aFhwWGt2MEIwdzVpTWlUNDVYRy1TTmhYcVU?oc=5
-- **Source:** ET Datacenters
-- **Published:** 2026-10-15T03:20:28+00:00
-
-## DOE selects five companies to negotiate receipt of surplus U.S. plutonium - American Nuclear Society -- ANS
-
-- **URL:** https://news.google.com/rss/articles/CBMirwFBVV95cUxPRjNTeWdwTXBMWmhpRnNiU2FHNnFaNHJOczB2elBWSTlLUmdJSFE1SS1OMVo1MkxEdGRuXzhwZzE5M1pOMURDMW9CLUEtR0ZuS3pOTDJrb2JNTlBJSzl5SkpiQmpORWducFBjZ3BfWjRmSHZLS0psTHVxeWVLQmZrUGQ5VWl6VUt1QzhIUGRjdUk5cUgyZlc3dUJBUnZORFFoLTljWUxlYmtLUldQWk04?oc=5
-- **Source:** American Nuclear Society -- ANS
-- **Published:** 2026-10-15T03:12:37+00:00
-
-## Buffalo Soldier –Dax Ft Damian Marley Scottish Premier League (Tc6kOgFzXQ) - Unisba Media
-
-- **URL:** https://news.google.com/rss/articles/CBMiZkFVX3lxTE5hekpfQ2F3bVFlbWo4T0RfZWhHV1AycjYtdzVGZlVHQV94enZRMXhOWVhyYjUyRVFBOVBZeDZkb1pra3E1cUU3d0l1X1ZET3dtNHVtMDRDZU84SXg0MFUwMWdBaHN1Zw?oc=5
-- **Source:** Unisba Media
-- **Published:** 2026-10-15T01:47:15+00:00
-
-## General Fusion hits plasma heating target - Nuclear Engineering International
-
-- **URL:** https://news.google.com/rss/articles/CBMigAFBVV95cUxQdTQ0bWpCNFA4Z3BXbjlHUk94emdLSWZCa3RCNndicURJZU1mdWpaWVFsdnlFZkk1ZDBpY0ZsSC1nMnBfOUh1bVd3U3RQenphdXE3NUdSQTNLQlVTZW9icjYxb2p4bFhkSHYxUE1OQnI3WUVVNFR1VUtkOTVLeGtRcA?oc=5
-- **Source:** Nuclear Engineering International
-- **Published:** 2026-10-15T00:33:58+00:00
-
-## Taliwhoah Introduces a Sultry New Sound With Latest Single “Get It Up” - buzzmusic
-
-- **URL:** https://news.google.com/rss/articles/CBMiogFBVV95cUxNVkM4WVdhMGdnaEt2aHRXM0o4WnYxNUlLX1IyTjAtemNVQjZWN0xfQThBazZqM3MtU3BRQXpmQjg1WU96YzI1ZlVoX2pRcEF1bWJ3bVV5YzFUTEN4NXlvSEVpZDZDbzFLT203Q0VabXJjRWU0TDdWeENpWXUyVXNaa3ZBcEhPelF6ZlpQdmdMbTY2VmR5Z3FmZlZIN3Qwb2VxMUE?oc=5
-- **Source:** buzzmusic
-- **Published:** 2026-10-14T23:49:06+00:00
-
-## Gyeonggi Arts Center to Present Fusion Madangnori 'Chunhyangjeon' on Oct. 29-30 - 아시아경제
-
-- **URL:** https://news.google.com/rss/articles/CBMiZEFVX3lxTFBaSG9fekNmQUVBcXMwbFFiTllWWWxRbUUzSTNPZ1V4ODdCWlZoZE1VeWJ4ZDg3cDFlX0paSTQyVkZVcTdfbFg2TFU1NGdXM05xLUtlYjdLNzVpYTJxc1l5bDVwU3k?oc=5
-- **Source:** 아시아경제
-- **Published:** 2026-10-14T23:40:29+00:00
-
-## 5 Autobots Stronger Than Megatron - Comic Book Resources
-
-- **URL:** https://news.google.com/rss/articles/CBMickFVX3lxTE5UOFJZR29ZcHV0LXExOURLUFlHbTBXWW1wazV2ZWJGMGJ6TW1uSHk5emhCYlVpNTJqNXpaelAtd28wWWkwU21WZS1vWHR1N2I3dXI4WkZXYXpYbFVBTWtUN3RKWjlldWgxLWRySDB0eUxOZw?oc=5
-- **Source:** Comic Book Resources
-- **Published:** 2026-10-14T23:26:14+00:00
-
-## Diamond Qubit Search Gets Faster: Chemistry Method Surfaces Blue and UV Candidates - Tech Times
-
-- **URL:** https://news.google.com/rss/articles/CBMizAFBVV95cUxPVlMyOUJiY1VlTE43RnhzdnEzN2RNRzhQcFFMVDBzV25mRFJGdHJPcWZuNDBHZ0xHVU1pdWVsV05EQmZ3R1pWOGpnQVU2YzhDYWxmM1J2RUozM2lOTWxYM2NId0RRbnhGc2hYTUJhSVJHS0pxVktOU2w0alZJa1kxU1NYaFBrN1RHMEw3T2xPZTF4TGJaYWxMNzFkUEktbEdwb215c2k1NTBnMkRhWGVieWJYTTU4M2wwbWs2amJwUW9BNHR5LXEzWFdXd0Q?oc=5
-- **Source:** Tech Times
-- **Published:** 2026-10-14T23:12:48+00:00
-
-## Beca moves finance to Oracle cloud in Asia Pacific - CFOtech Australia
-
-- **URL:** https://news.google.com/rss/articles/CBMihgFBVV95cUxNdlk0MGd6bDhYLU4wckROajVvTFQxVzVzd2Z4MmdDMmhlYjVscWNGbTlQOVNXU01DQlB0S1ZNcXo3R050SHFvd0VCVGFMNlpNQ3h4Y29SQm9kdXZsczhIc0dvOTVEeHVGU1hQR2UwSjg4elRfb2llQTN3dXJrTUN4blN6QjNOQQ?oc=5
-- **Source:** CFOtech Australia
-- **Published:** 2026-10-14T22:36:00+00:00
-
-## Proxima Fusion signs MOU with Bavaria, RWE, and Max Planck IPP to build German stellarator power plant - American Nuclear Society -- ANS
-
-- **URL:** https://news.google.com/rss/articles/CBMi1gFBVV95cUxOOEwyMXdoNlVXVDhFelVUOHlJcWl4S2h0SzhndjRZd0VjRG5BU0pGUFZhWWs2UUMzZFZ3Yk9uMlY0YjlJZURScF9tVTFySm1TXzVwQzdOOFdRZnpUS3EzSXpRcFZQVVRaRUljc0paNEhWYURSY09ZVkdEUGVPUDlGY1pRVTFwMlcxT3NUNVRkQkRXcTB4aFltS3FQenlfTGZjdng0M2lUbU4wOG1zSzV0Z0xpNGtxZ3Q0dmc0R3JOZUV4TUlxTE04bnUyRVRkaVJCS3ZTUU1B?oc=5
-- **Source:** American Nuclear Society -- ANS
-- **Published:** 2026-10-14T22:00:17+00:00
