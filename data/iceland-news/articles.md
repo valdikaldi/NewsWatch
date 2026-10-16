@@ -1,8 +1,104 @@
 # NewsWatch — Iceland News
 
-_Last updated: 2026-10-16T08:47:55.536773+00:00 · 50 articles_
+_Last updated: 2026-10-16T14:35:43.951844+00:00 · 50 articles_
 
 ---
+
+## Highly pathogenic bird flu detected in wild birds - Iceland Monitor
+
+- **URL:** https://news.google.com/rss/articles/CBMiowFBVV95cUxNT2RKenVURlp0QmYzQnIweGRMQlhYaXloVGRoZlRPcTlnOXVGQnc3V0pqelduajJGZ29VeGFiZ2g3WU5CVHVPYTg0Ni01cjNud1lMOTJnOUJfRnZTYlhDM1liUjJwTUxaclR5MnVzYUZ1eWkzS3N4SzdzbmRRTmF6N1lmNXJ4Y2I5RHEwdU5RRFpXcVh6M0E1SU1Mck5qdDhkMjdF?oc=5
+- **Source:** Iceland Monitor
+- **Published:** 2026-10-16T14:10:00+00:00
+
+## An Historic AI Summit in Iceland, and a Conversation with its President - [ Center for Humane Technology ] | Substack
+
+- **URL:** https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMmtYc0x2N0FiekpDblNzcjctZ2Q5anA1Y29ZaWtwTkRmUUZkeHdrcWYtRnlQUl9HYUNNZkIzRTc4SzFmb1F2dDJBOFhJRjZyRU1TbEd5MXZLLU53dElaUWNHZllRbmdMZUdmV21Uel9FVmFsZGU0WEtLbS1fRmdIRlljRlNPaHJt?oc=5
+- **Source:** [ Center for Humane Technology ] | Substack
+- **Published:** 2026-10-16T13:53:10+00:00
+
+## No one better connects Boston to the world: Delta announces new route to Iceland - Delta News Hub
+
+- **URL:** https://news.google.com/rss/articles/CBMilwFBVV95cUxNXzBiWTFTVnpHRzUwQmlhVEJnM241cWRhMFZZcm1DZlN4YjRlX1hiMkxseXVfc3YzOWtwblBxMUp0TThnNnh0Z0dxRGpUbU1qMHJaM3pRNFpDTkJBQVViTHVLQzdLTWJ6YzVqY2NUUEpsajJoTTMtT3hZdGo2WnJUMW1aNFNQVDk3Q3hWMXBMTkhnSVNESV9v?oc=5
+- **Source:** Delta News Hub
+- **Published:** 2026-10-16T13:47:15+00:00
+
+## Storms across Iceland this weekend - RÚV.is
+
+- **URL:** https://news.google.com/rss/articles/CBMihgFBVV95cUxNZ3NiNDV0UUhDb2JORUhiV0Q5ajNYUUY3SDE5Uk1qZzhQUkN5dEQyM1A1ZTlSMU51WUJsZlg0SUxJeGtLeW5EVlRnMWJOUkZzQ1l2VGQzVDB0Mk9pRTQ4Y1NsVjB5MGZfc29SRTE4eTRISElZdWl2ZUQ2WGh6WEszVWZpckh2Zw?oc=5
+- **Source:** RÚV.is
+- **Published:** 2026-10-16T13:29:00+00:00
+
+## Iceland Makes Infant RSV Prevention a Permanent Programme - Iceland Review
+
+- **URL:** https://news.google.com/rss/articles/CBMikgFBVV95cUxPY01ZY3Z0QWloYjk5X2tXa1VpWlYtY2VqUmVjSjdDMEtGLW9XTlBwTHhsZXlWNHp3NWRlV1ZPd3lCb3NHNjJidjZodWFPaU44dU9tdGVTaVRRVlYyenFXa0NQckk1QVpWWXNGN0VNOWoxOUVvUXJkazNEZVBtMzZSNE9DTzI0X3V5eDd3a2d5NVVGdw?oc=5
+- **Source:** Iceland Review
+- **Published:** 2026-10-16T12:00:43+00:00
+
+## Fearless Girl in Borgartún - mbl.is
+
+- **URL:** https://news.google.com/rss/articles/CBMiekFVX3lxTFBJeTFLMThVczU3NHhSOTExUkowczVHYkV1RGZtcUpaYm5EbU50OWNTc0IwTWNUVmVUaWhzN1k4NERVRDNySVdXTjNmYVVEVE1nbnZkNnV2Zi0wXzI3aldMYldsaDNwbWJDX0ltTjZvbVpVNDFMckRuZzF3?oc=5
+- **Source:** mbl.is
+- **Published:** 2026-10-16T11:14:00+00:00
+
+## Eurostat EXT_LT_INTERCC Update: EFTA Trade Data for Iceland, Liechtenstein, Norway - News and Statistics - IndexBox
+
+- **URL:** https://news.google.com/rss/articles/CBMisAFBVV95cUxPZ0N2VERhalhzc3p6LUNCLVFOamdIcy1QWXoxRGJCUzE2dFo3Rzk4dnlUd1FlWThER05tY0VvWGZYZlphV25Zbmh1N0c4MERSMFlHbXhlVVBmeDM4cHQtUjAzX0NtWldEUUlxTTNNUk5kd0NHNkl6ZUlkTU5ZUDJVc2t4T2c3aGpfYVAtLXlDMTJuVWE3WnhreHlMbUFYcDk2T0syeEJyUEhObWsxaTVWTA?oc=5
+- **Source:** IndexBox
+- **Published:** 2026-10-16T11:10:46+00:00
+
+## Ukraine’s Wartime Emergency Lessons Come to Reykjavík Rescue Conference - Iceland Review
+
+- **URL:** https://news.google.com/rss/articles/CBMikAFBVV95cUxOT3F5eDV2clZHZ2xhS0lkNUVGVm4xaEdudkc5cXJQb3cyUWlUV284dG03ME9BWGFoV2NOV1JrWlVvZ3hEZjVmVkJOODVfZzNkN0o5cnhmSG83dkRwLUpmRlJObjVJVWZZdkNZQl8ydlM3T1BKNFRUeXAxZ2I3TGpYeWVLcFdGdG03bFdjSVlIcU0?oc=5
+- **Source:** Iceland Review
+- **Published:** 2026-10-16T10:30:23+00:00
+
+## Taste of Iceland Vancouver 2026 - Your Complete Festival Guide from November 11th to 14th - Canadian Travel News
+
+- **URL:** https://news.google.com/rss/articles/CBMib0FVX3lxTFB5N0lpNXFMX2d1VGdqZDR4c2E2aF85MllUWk0yTHEzRG5TQWE1WVNMSTJ5S0ZRUEV2VHhGNWRuRTZ1M3VaWVJJVkFPZG1sc2lWaDRGQ0FpTkpOMExEWEljSDloc3JZUXctQldseFg5dw?oc=5
+- **Source:** Canadian Travel News
+- **Published:** 2026-10-16T10:02:09+00:00
+
+## Police issue CCTV appeal after ‘incident’ at supermarket - Newark Advertiser
+
+- **URL:** https://news.google.com/rss/articles/CBMipgFBVV95cUxPUE1HMVMyQ3RreTVPYVZ1clJycEg3YlJoRkJMd3BxQm1EQ1hzM1ZnZ0ZTeExZS0o1OVNHY0VVNld3N1Z6T2R3MUVOVVpXRGVHUnA5eV9ubTVBbWx2SzFVeC1fX2JYTDZGM1AyanloSU5MQkZkdEo3dVJ1QVZuT0JYdUtUR3NSTjZJdUFnWFpmVW5WNTZDX2hQUFhtUnZtcXhOb3Vmc2Vn?oc=5
+- **Source:** Newark Advertiser
+- **Published:** 2026-10-16T10:01:00+00:00
+
+## Iceland Sets Out Steps Towards 30% Nature Protection - Iceland Review
+
+- **URL:** https://news.google.com/rss/articles/CBMimwFBVV95cUxPdFdwSFNNQXJJeU5QNl8zb0M4bE5mWWctNVNfUTdMT1NkMzhMaGJ6Snp4azJUOEJJT1YtM2YzblhnTElIeDRNekM2TU1MQlhCWFZWbGZFeTB3dU51cEEyX2o2Z24wRTBJNWluUVFYcGxvUkVkS0ZTaUZ5U3JwTm40VkN3RnNqVjRDSFJyLTJTclNaZDY4TC0tZ2ZWOA?oc=5
+- **Source:** Iceland Review
+- **Published:** 2026-10-16T10:00:05+00:00
+
+## Human Judgement Is the Most Powerful Technology in the AI Age - Time Magazine
+
+- **URL:** https://news.google.com/rss/articles/CBMinwFBVV95cUxOb2JvRHRJd2Iydl9nWnc1RkpLZ1h3TVlNdWU1NWZNakZWci1KTUN4VTFxREJkam9fX2ZVLXZuRTB1ZG1HUVM0U1VOTGJYOGZHbWJNMlpLOE12Z19DdV8yUGstc3VHTGdlbnN6Ri1RdjNlYnpGMXRJZmc5YWVhbnNXNmJuNXJST0UxVmZLTkxIRWxQOERPeExNR1lhbUtpNW8?oc=5
+- **Source:** Time Magazine
+- **Published:** 2026-10-16T10:00:03+00:00
+
+## World Food Day 2026: India Ranks 100th Among 122 Countries In Global Hunger Index - Free Press Journal
+
+- **URL:** https://news.google.com/rss/articles/CBMivwFBVV95cUxNM1Jua2poQTJ3S0EtTHI2ZlhaZEktR3ZkNGsxeUJ6clcyZFh2YWg0QnNDRjRhTzZvWlI0SmxnWDhtOHdPOUNsSkRMSzBweFhNR1d4enpuODZvaVAzelJkWXBWdnNNUjF1Z0M1LXMtRWFYam41dmswenZ3akgyVnh2eVcydkpMamRhN2N5U0dRa3VfdmJwSlRzMnk4YnA4WUoteFZQM2RreVROU3V6NDJRQkxlZ2VyaVNPclc1cWlaMNIBvwFBVV95cUxNM1Jua2poQTJ3S0EtTHI2ZlhaZEktR3ZkNGsxeUJ6clcyZFh2YWg0QnNDRjRhTzZvWlI0SmxnWDhtOHdPOUNsSkRMSzBweFhNR1d4enpuODZvaVAzelJkWXBWdnNNUjF1Z0M1LXMtRWFYam41dmswenZ3akgyVnh2eVcydkpMamRhN2N5U0dRa3VfdmJwSlRzMnk4YnA4WUoteFZQM2RreVROU3V6NDJRQkxlZ2VyaVNPclc1cWlaMA?oc=5
+- **Source:** Free Press Journal
+- **Published:** 2026-10-16T09:59:07+00:00
+
+## Gyde launches Iceland’s first blue community garden - Göteborgs universitet
+
+- **URL:** https://news.google.com/rss/articles/CBMiggFBVV95cUxQOWZlUDFmeWlCb1I5b1R4UmlWLVpnQkhzTHhVeFBzQjFiNkkwWm1wV0xnWFpkUWRFd2VCdTRqcHNzdnd4Nnd3c0ZJbzhRQlR0ZHhRNHp5RGpKbEp5aENjOE1GNEc5REU0WENNcEEzSU9iVXlVenl4NTRWenVUS2xEY3NB?oc=5
+- **Source:** Göteborgs universitet
+- **Published:** 2026-10-16T09:06:52+00:00
+
+## My Northern Lights tour was cancelled 3 times. What I wish I knew before booking - USA TODAY 10BEST
+
+- **URL:** https://news.google.com/rss/articles/CBMibkFVX3lxTE9RMWxvUFd4U0YyWEN5bTdOWGF0MjEtcjB6WXVqd3FFWmlBMUFiTmFDY2ZrS2dOQ0Nmb1NSRmtwQUVqQktIRzF3T1JUUnYtaGVBWmdaREVwdVlUdTRKSWhfZnBLV0dqU2sxS3FFYzhn?oc=5
+- **Source:** USA TODAY 10BEST
+- **Published:** 2026-10-16T09:00:00+00:00
+
+## Flash floods kill five and destroy villages in central Nepal - AOL.com
+
+- **URL:** https://news.google.com/rss/articles/CBMiggFBVV95cUxNVDlOUnc5eXZJWnlVNVZzWlJEN1I0WENnTGZ6NG4zT2VPdk1BSWI2U19WZjg2amprVld4ek1qUEtWbEtJUDU0emlMamU2WjhFNENEWTJGQXl2TldHa1hkUGc0OFVRMlh2emhJSXBxVGFPRldyRFhBcDRGUUY5VGZpeWVn?oc=5
+- **Source:** AOL.com
+- **Published:** 2026-10-16T08:53:26+00:00
 
 ## Andervel: "Iceland has taught me a more playful way to approach music" - The Line of Best Fit
 
@@ -207,99 +303,3 @@ _Last updated: 2026-10-16T08:47:55.536773+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMibEFVX3lxTE84M3JYOGpfWTFQV090QWRIUlBYbFhMVU1vT1FzTExJNTM4YXJrN2tkaDdtQkgzWk5wNV85azgxT2JETzlUeU8ybExKcWZEQ2N0QmVaTnd4V2FISzJqNXk4RjZoTHV1SExMaG1zWg?oc=5
 - **Source:** Life in Norway
 - **Published:** 2026-10-15T07:55:40+00:00
-
-## Snow Warnings Continue in North and East Iceland After Storm - Iceland Review
-
-- **URL:** https://news.google.com/rss/articles/CBMilgFBVV95cUxQcWM2Nk5VUHpQWFliZ3ROd1JpX0o2T0Fld1RzcGJ0MHNJMFg1TUpxSUp2em5CenVrQzFKWkszQmdaUHRxcHlDcjlsSVJ1MmpJT1JXckdkOTNKQXF4Rld2UEVldkM1aURLQnV5YnZ1d2liaHVSWkNFUnc4N3AxNjhhZG42U2FqSFBxZEhlXzVTY1NFdFJVS1E?oc=5
-- **Source:** Iceland Review
-- **Published:** 2026-10-15T07:00:00+00:00
-
-## Nordic AI Projects Span a 1,152-GPU Supercomputer and Local-Language Tools - TOKENPOST
-
-- **URL:** https://news.google.com/rss/articles/CBMiW0FVX3lxTE9ST0ZFMGdjZ190M2RuQ2daSmxxYUZmc3lQak5SUUxoVGZ1cFFCMFp6c1JvUXRjQlNnRDg4azBoWlhUTFN5SkpEYnQ1WmszT2pfdlJjRklTQW1yZXM?oc=5
-- **Source:** TOKENPOST
-- **Published:** 2026-10-15T05:52:14+00:00
-
-## Guide to Fast Food in Iceland: Best Chains & Local Favorites - Guide to Iceland
-
-- **URL:** https://news.google.com/rss/articles/CBMib0FVX3lxTE9vdlpXNTdub21lNGlYaW1MRk9FMGlveVJuMndUMHUzUEo1d3pSMkpVX0EyZWMtdlM5MW1sVm9PejZud0RDMmc2RTJwR3ItVmxXcC1jTnZXeE9xZmotMzMzZEdwRTdVa2g3REQ0aWtJaw?oc=5
-- **Source:** Guide to Iceland
-- **Published:** 2026-10-15T04:53:36+00:00
-
-## Jaylen Hoard vs Iceland: stats, game log - BasketNews.com
-
-- **URL:** https://news.google.com/rss/articles/CBMiiAFBVV95cUxPamtyWWVVR0FUZ3hTeVZ2X3JSbVJIWXlqZjJpNUN3bjB3bkZBZTJtTzI5aTEzMDVGUVFwTHBTNXk1ZXVuM3RjN2lCeVlMVEFVWFNMc0ppbUNkOERrcW1lS3NwRVhCb0NFdGFRZGtKOU1nMjBNeXlRNzJVNUhhcnRHWFNrWHl5eDBV?oc=5
-- **Source:** BasketNews.com
-- **Published:** 2026-10-15T04:07:05+00:00
-
-## Cal Thomas: The Greece speech - Daily Freeman
-
-- **URL:** https://news.google.com/rss/articles/CBMieEFVX3lxTFBkX1VPWGtDRE9jVU9SN1kwcjBxc2phdk44Q1NLd1IxOHlJbXA0TXJnZDdSYlF3Q3d2REotZFlCeWl4NGw4QUVNNGJGcWxDbHNjMFJFQnEwSWljYVJCb1NucGRzZmJxNFdtaGRMOG1seGU0SE4xR09CRA?oc=5
-- **Source:** Daily Freeman
-- **Published:** 2026-10-15T04:01:38+00:00
-
-## The Most Frequently Asked Questions About Iceland: A Study of 44,176 Traveler Questions - Guide to Iceland
-
-- **URL:** https://news.google.com/rss/articles/CBMikAFBVV95cUxNSFdiX25QSFBTUlRwNlZkLURfT1RIOG5XLTNfSkJnOVBUdEVGTDR6bmpoUHVPdHVCQzNjOHgweTJua1oyWWlaNmxpVWg2aS1XZk93RTZuczFGODRmN2VLR180X2Rnd1d1YXpKT2JUdU1fVmVVaGd5TENMNTlLZ3JFMG1sTkpreXpzRm9Ed0NwNDM?oc=5
-- **Source:** Guide to Iceland
-- **Published:** 2026-10-15T03:33:45+00:00
-
-## Photographers Capture Stunning Scenes of Icelandic Glacier and Ukrainian Resilience - freeyork
-
-- **URL:** https://news.google.com/rss/articles/CBMijAFBVV95cUxPUzdTcUk0SUtaZFU4S1BUcEJ2TmdJRWFjdzd0anVDZ2JtaGNraE5KaXVRbW5zQXFjWkdSNFllQ0dTbmU5cmhyR1RQYTc1d0RDUE1sbUxJLUN0U0VfWTZzM1JoV1oxVUJIMXhnbW5NdUdzSFJBQUNOVi1VbERHWDNfUTA4X3NuZEZuYkxndg?oc=5
-- **Source:** freeyork
-- **Published:** 2026-10-15T03:31:01+00:00
-
-## Rapidly intensifying midlatitude cyclone passes over Iceland - cimss/ssec
-
-- **URL:** https://news.google.com/rss/articles/CBMiaEFVX3lxTE9MaVhyVGRVeU9DNlhuWHlKUlhvV0NHc0VWTXFHalBXOHRWeFBmQ3Z3dzB6eGdoUkZ5dlBCYjRuMnR4emZJN3h5ZWJYWGxJSy14Y20xa0NxeDlVSXRRYXBmbWJHaUt6SDN3?oc=5
-- **Source:** cimss/ssec
-- **Published:** 2026-10-15T02:35:11+00:00
-
-## Marco Belinelli vs Iceland: stats, game log - BasketNews.com
-
-- **URL:** https://news.google.com/rss/articles/CBMiigFBVV95cUxOMWNfbWtXZjNUNWFwUjBJRDFDeGtrMzF4dm1CRjVYN1NXMzRKaU9tb0FOS0VoMVNLdE9Cc2tweV9CMkt2c3dlV1F2blJxTjVTcjZsTHRPbHJ6eThuc1c3V2F3OHZiTzVuQlJVbVJXOW5KUlF2YnM4bG1iQld3SW42UG1pdmtFUi1LTHc?oc=5
-- **Source:** BasketNews.com
-- **Published:** 2026-10-15T01:02:52+00:00
-
-## Ottó Hólm Reynisson - Transfermarkt
-
-- **URL:** https://news.google.com/rss/articles/CBMi1AFBVV95cUxPQ2ZCdjBHMTZSRlpEbjMtb2NNUWFyUFI4anR1SGJFRVNGc0dGajE0V0szeUR3TVVYNVNYSXowaHJ2ME9Xek9Xem1mZmdRVlBQcFphdHJvMGN5MFlDTkVjeHF0VVd5NTFGUE5wWGl1SW9DNmxuSFVFbFZqRHNFU080ZDB6T0E3WE55T3FKMzFwV1FMS2Zsb29vSm5JUDg1RnF5aDltVW1DQUQ3TnFqdTZDaGV1c0RxVVZKbGtWNEsyMXNwQmlZWjJpTTVWVmxOM1ZvUklwVQ?oc=5
-- **Source:** Transfermarkt
-- **Published:** 2026-10-15T00:33:36+00:00
-
-## My Mother Got a New Hip. So We Went to Remote Iceland to Road Test It. - WSJ
-
-- **URL:** https://news.google.com/rss/articles/CBMitAFBVV95cUxOeWN2eXU2LUJ1VEdUa09RQmlDWnNfYW94a2IzT0hwdDJaZ1BmRnl1YTB5SHN3RlZEc3JPQlJzLTN0Ym00M1NJbGZkUE1Cb3M1OXR2ZTF2ZHp0MnZsaW5vVzlPT1BUVm9NZ2ZEN0Y0V3YyN2prOVNkbVViSTdzSXE1Rl9WZVk4Z2dJZ0U4aUJPZG40QVJqQUluMkNnZnJDSW54N1Y0WGQ2b2JkWkplSEM1Qmpja3E?oc=5
-- **Source:** WSJ
-- **Published:** 2026-10-15T00:15:00+00:00
-
-## Large Low Spins Near Iceland - CIRA Satellite Library
-
-- **URL:** https://news.google.com/rss/articles/CBMihgFBVV95cUxPTktxMG01V3JtMF91LUFZWTNQUTdkeTZjMUZOQ2NfanQ3bVJEQVRBbkg0NVZJY1NYdXNWRjVQamVrdVB4alZQWXNqMW9tTU54R1kxeUcyU3VPRHFkNFBZbF9fYXZDaGIwR0pRcGdFMGZtU1IxMmVUOUEtaW9Oc3BnUjdsd2cyUQ?oc=5
-- **Source:** CIRA Satellite Library
-- **Published:** 2026-10-14T21:52:36+00:00
-
-## Euro Truck Simulator 2 Reveals Iceland DLC Gameplay - Simulation Daily
-
-- **URL:** https://news.google.com/rss/articles/CBMifkFVX3lxTE5nYTlDbmYxQmFZc00wVGJScll6WGJvVDZBalpqYXlxQk4yV2psamRkVDUxSjZrcHpEaDVqN2hwb3lZYXROWWdPZzRKd3MyNkozSmxGd3pHTWgwTTZtd2xkLVlkVTd1WDZyY3U5ajl0VFhWSFZuS3NDbkc5bjJIQQ?oc=5
-- **Source:** Simulation Daily
-- **Published:** 2026-10-14T18:13:17+00:00
-
-## Guy Palatin vs Iceland: stats, game log - BasketNews.com
-
-- **URL:** https://news.google.com/rss/articles/CBMihwFBVV95cUxPOU50V2hkcFR0eEstWjQxV2tiVXY4bldQazJ6MjVOZ0cya0xTeHJiUC1wcWtmdlRWeTlyNUZybnJvbzJGWXQzaGtVbDk3U3dSM1R5RDhlNjF2clhZWm9SRjZiYmlMVG83bl85NVhHSTJHNFpjdkJqV0xXODlKczBKRFN2X1JRQUk?oc=5
-- **Source:** BasketNews.com
-- **Published:** 2026-10-14T17:57:05+00:00
-
-## Arnar Vidarsson - Manager profile (Detailed view) - Transfermarkt
-
-- **URL:** https://news.google.com/rss/articles/CBMifkFVX3lxTFB6NWZYRWZlT19ONFVMVjhURVRwVXNJeXpjSmVPRG15alhoZ0xwMVQwNnRSSlBrZXNYZGdlanlRZWFXQ0g5eFFoZVFLbGIzRTA4bE5zU2puNFNyZW9WX0hqQkhiNnNReG5NNzMyalpuWm93eWVJN3Y3aTBlR3BXUQ?oc=5
-- **Source:** Transfermarkt
-- **Published:** 2026-10-14T15:46:15+00:00
-
-## ArkLaTex travelers visit Glacier Lagoon and Diamond Beach in Iceland - KTBS 3
-
-- **URL:** https://news.google.com/rss/articles/CBMi4wFBVV95cUxNOFRJd2xHdlRrQ01RWlZhLTVCeXFCTE0xWlNNRTRDNEpVSVlsYzVmZVdhcjZIeFRfZzdSZUJ6YVVtRVUxWmR0a3BSdnFQMm81Tmc1QlZ2dWpSbGdjR3ZVWnozdHZYakVBaU5oTllyS0pBMkFudXJUYk9FRVNJUzVzd1hnWnJReVRBMGp3MElLV0YwTHlQMnIxXzlDTDFZUFNlMDQ4OG96STNhSXh1U29zSzVUR1M4cEN1QXNIMmdYSURXN25KaEF5WDE3dGRLd25DLUxzVXdRTjVxcHM5N2JOeGFvRQ?oc=5
-- **Source:** KTBS 3
-- **Published:** 2026-10-14T14:30:00+00:00
