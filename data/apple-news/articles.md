@@ -1,8 +1,32 @@
 # NewsWatch — Apple News
 
-_Last updated: 2026-10-16T14:35:42.991464+00:00 · 50 articles_
+_Last updated: 2026-10-16T19:22:57.167103+00:00 · 50 articles_
 
 ---
+
+## Apple faces risk to dominance in UK tap-to-pay market - report (AAPL:NASDAQ) - Seeking Alpha
+
+- **URL:** https://news.google.com/rss/articles/CBMiogFBVV95cUxQU3FMZUJGc0N3WUFYTDFMUWhuQUh0NERWSW9UN2lieHdPd1VvU0t6V29PbTFiZzMxQkRYaGJldFZKWHRpZ3NMNkMzRGY3TWY4TmJaV241REpaVnp0TTl3Q2w3UjhpMUE2Y1pDOEhyc1hCOE1OcExfX0NVUnh5NnJRMElfRzhFazkyb0RGMDVHZ0M0dEN1R0xxbktmdWc5ZGNrd1E?oc=5
+- **Source:** Seeking Alpha
+- **Published:** 2026-10-16T16:40:29+00:00
+
+## AAPL Stock Adds 1% As It Prepares To Tackle UK Regulators Over Apple Pay Dominance - TradingView
+
+- **URL:** https://news.google.com/rss/articles/CBMi2gFBVV95cUxPMGRSYnRpVFI4Z3lEd29mRDJlLTBwNThLdVY3cnhYTll6T2MyTUJ1SXczeEtpRHFiR2tLbXZJclFhN08yZm5EN2gxVkZhNmtiWEpEb2ZVYXM1LW1QNS1jOFZnajhvdnZzQW9QbHJSRmFVNXd2S2ltLXcycEhjRm9za1dubHBsamlFTlQ1THJ4eWRLbTlaTkNzbVo3ODJJLTlLTlNpejdMcW1rM2toanBoc1RLSXJtWUVpWlp0M28wYmZjRzVzSGNfeFVJa2xYZkdhZWpIZlBxY3lFZw?oc=5
+- **Source:** TradingView
+- **Published:** 2026-10-16T16:34:25+00:00
+
+## Amazon class action lawsuit claims Apple deal inflated iPad buy box prices - Top Class Actions
+
+- **URL:** https://news.google.com/rss/articles/CBMi0gFBVV95cUxPXzNOREtKQzB3SmF4NlJmTGVhdWt4MEwybmhVajNVcU5MdFhvVHFZTnVaRld3Zi1rZndrTjJxY3VjZnpnVXF2N0s4VUJmSThzbjhqZ0VRc1BVVEJnVzgxV2xWMlg5TEtFU0RQSDJsYzBVSGN3d0VZTUJPM3Njd2pnVEhjemRqSEd3c3BwUkZBZmJYM1Bwa0lrd2d0RF9SSjMwNU1jVURfYUVyU3cwZnY3MWNNQnBFSUwxTjZwa2FPMDF0SnJvc080QVhBdHZwTG8zZVE?oc=5
+- **Source:** Top Class Actions
+- **Published:** 2026-10-16T16:03:08+00:00
+
+## Invesco NASDAQ 100 ETF Reports $182.7 Million in Net Buying; Major Buys Include NVIDIA, Apple, and Microsoft - SSBCrack
+
+- **URL:** https://news.google.com/rss/articles/CBMiywFBVV95cUxOWEtVY1RMUVNLSWNmQTAzWEFKUHQ4V1ZSUVVDeGZTQXRqSE5LZXZ5S0ZCamI5U2J1V1M0cWk1aWs5TGkzUUw1bUxTQ3FIb1NfZEwwTWRPX2JGNW9rWjNWV2dYUGtaZ1ItdXE5dmtMR2liUDNIZTBlWDNwb3ZPNnc3ZTI3QmhIYXlOVFlfd0VCa1RBX0hJQUJSblhwaUNFczZ3NWZkU0lqLXZEOVFqbC1maEpnQjVXSnpsQXl3bEI3LXc0bHVsWEFGcHJ6UQ?oc=5
+- **Source:** SSBCrack
+- **Published:** 2026-10-16T14:40:57+00:00
 
 ## “Order today, get it next year?”... Signs of a full-fledged shortage emerge for the iPhone Duo - 매일경제
 
@@ -279,27 +303,3 @@ _Last updated: 2026-10-16T14:35:42.991464+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMioAFBVV95cUxNQXE0RUVOVERUbmVaS1VzNE1zYklNUEp0azI3RE9qUGY5QkVuaGxoS3ExX1FyalNMbVpwbm1IemNFSjBGcmc2MGt4TDE1VWlGWEtWYzFmd2VnQ1hoS2tjMElxdmh4WGNRV0ZnVHl6NTZ3dnZLa1Bwa2J4NlAtTW1wb1Y0SDJlSDJRalpqYUdsT2FEazNxbzNMWlJuS0JMck0w?oc=5
 - **Source:** Seeking Alpha
 - **Published:** 2026-10-15T13:11:06+00:00
-
-## Apple Hits $5 Trillion as Wall Street Punishes Big AI Spenders - TradingView
-
-- **URL:** https://news.google.com/rss/articles/CBMivgFBVV95cUxQT2JrdnFUVU1UT0tOZzc0TWNxTy1wbkhtOGdDVTI5S1hJaktsMGdBcjgyZ1VhMGZmdy0yZ0hiT2tmRzFkYU9xWUVKNWZaWDdtR1dNS3V4bEpNaEQ2RmhjVEJodi1NNXExTWdSUUt5eTQ0ZXVlQTYxSjAwVld4eFFPbDhscG9QUXd0ZHJvVWg4REY1dUZCRTZoQlkwTFdzSVBWaUw5QjdMdmpnZlVXV3EzQzdvWHUtcHJsY1VtbGVB?oc=5
-- **Source:** TradingView
-- **Published:** 2026-10-15T12:16:57+00:00
-
-## Apple Intelligence Reportedly Nears China Debut After Delays. What to Expect - Benzinga
-
-- **URL:** https://news.google.com/rss/articles/CBMi0gFBVV95cUxPYmhjbWNZLWlFVHpMZ3lqdU9ON1lBcUptVjY1WmxDUUppNmFRNlBuY3BMejM4S0dFZktQQzNXYVU3bTY1eEk4TFh3c1hlWUhxb3BjOV9tU0pPbXQxN0hEZk1RTE5YZm11VjRpNXBWOW80Y1BuVFRmTGdzTWU4NVI1UFVxMWlLQ3hBRWU0VW1jWU9zT3VMQm5mQjRQZi1pUzhrT1A1S3NRSXRzdHBheFExYTN4MURYeFIzNXNQanZieThHbkprMVVQMncxci1DSkM0Q1E?oc=5
-- **Source:** Benzinga
-- **Published:** 2026-10-15T11:26:16+00:00
-
-## Invesco QQQ Trust (QQQ) Adds Nvidia and Apple on Oct. 13 - Yahoo Finance
-
-- **URL:** https://news.google.com/rss/articles/CBMilgFBVV95cUxNWUpIaFpOZXRPY0l4Nml4WUFKX1ptY05QYTRKeVM0TDdIanliMjJwT3Y0cXAzRDNtMHVlYnpHM204RGg2Z2F0TUpSekRsLTM2bWJDeEhSQlJwQUkwdm5hX2ZlS1ItNDEyRlByaFBTRURQY2k3NGxFaEEzajc4Q0gzS2tfaTB1cDVVX1Q3aWU4Q2gyZWpRQmc?oc=5
-- **Source:** Yahoo Finance
-- **Published:** 2026-10-15T11:04:03+00:00
-
-## Can Apple win over smart-home buyers where Amazon and Google stalled? - Business Standard
-
-- **URL:** https://news.google.com/rss/articles/CBMi2wFBVV95cUxNSldtSzYwYmZoY1kwQVVlekpCcXdpOWhudk9OTXVGRWV5d1pQcEpmcW5xd1ZzY2w3QzJYNEJNOWd3M0E1Zk5RTGczR1h6cmRKbFlHckpXbGF0X3Q4MUdYanRPTk1qaWxvUFhJeVdnbWttdUJjSTNRZE5tX0ZRU0dOQ2ZjbUJQOFJFTmpGLVVWa1dfNmhQdzdWRTJqbVYtVFBnU0dzcEJGd1dmV3RxVW1IcjBoVlFIUy1iZzMxQ1FHSGFrd2JVU0NocTZUMEhERkVpZ29pTkt1eHNRS0XSAeABQVVfeXFMTzZESndTU2MxUVhJM2IycHJZNTdFSE5uUk9vdGoxZ1JOUmc5UE5nN3J3ODdES01EdUFiUHpGVnhVRGcxT0lZT1I5TWF6bG9sMmVyRjVEcFpEYWYtQVktaEljSUZfb3dzRzBsY2gzYW1YUnU2eWVIZG84YTFVVHBFQ2tPS2hHUktCQ0NpMXlhbTdxZnBiSnQtWDJxdEFqcGxmbERtS2RBcEg3UGhYbnNWSWRJVE5RVWYzMUczcmNJZ0NkdDFNbFkySmF4U3pKalpBVUU2RjZCNTZJdHpLRWlYOU8?oc=5
-- **Source:** Business Standard
-- **Published:** 2026-10-15T10:56:24+00:00

@@ -1,8 +1,62 @@
 # NewsWatch — Iceland News
 
-_Last updated: 2026-10-16T14:35:43.951844+00:00 · 50 articles_
+_Last updated: 2026-10-16T19:23:01.241365+00:00 · 50 articles_
 
 ---
+
+## Dinner at the centre of the Earth: dining inside an Icelandic volcano - Getaway Magazine
+
+- **URL:** https://news.google.com/rss/articles/CBMiTkFVX3lxTE5xSVBTTnBKMkFlS3FIalk4M1A3bWNENGhUSmtsRjhSUzZlcFNjaE9zaW1heGM2aU5jcVd3UWhCNW9uempCM1l0S253LU0wdw?oc=5
+- **Source:** Getaway Magazine
+- **Published:** 2026-10-16T18:19:03+00:00
+
+## Delta to launch nonstop flights from Boston to Iceland in 2027 - Boston.com
+
+- **URL:** https://news.google.com/rss/articles/CBMisgFBVV95cUxPT2ZfcDBwM1JrTWx1N0FKQjZvY1pHQ05wdHlKdTYwV1FpWEQ2UVpOVEZxYnBWWThLaWVma0g2dElJTFhEenU4TnI5MjF4ZlJIYmY2V1hIOVR6RUZReVBMcjlmeVp1UTY5M1RkRDJLRUFydVRiR1R0cEtNbS1hYndHNXQyQlZRekF1X3hPbFNqN0h5QjQ4ME9Ud1o0eVh1eFJaeDNka0haNWJSY3FsYXV4c0dB?oc=5
+- **Source:** Boston.com
+- **Published:** 2026-10-16T18:12:00+00:00
+
+## New Route: Iceland Features in Delta’s New European Routes for 2027 - Upgraded Points
+
+- **URL:** https://news.google.com/rss/articles/CBMicEFVX3lxTE1vRGNLZ1Zkd3hCdjA2Y2NnSi1GRllwcHRZRmEtaWdkdnhfRnJGcmFONWI2VjRaRUZQNHpJMV9td242cDdYa1FaXzVPVXlvQ2FPS2N1ckxhY3lSSGRZbV92WHlNSXdJM3pNdlFwaWhZb3A?oc=5
+- **Source:** Upgraded Points
+- **Published:** 2026-10-16T17:22:44+00:00
+
+## From Brigstock to the Arctic: Couple Take on 100km Challenge in -30°C - Northamptonshire Telegraph
+
+- **URL:** https://news.google.com/rss/articles/CBMivAJBVV95cUxNV3VmOS1xU3FIZHI3UXVja05Va1g2X3UyMTAwem83Vi1JcndhR1pFY2N5UTUwWUhGd3lUczZzRldUMjdjZmZSaExHa1hNZGV2TVJqbjRCT2ZhcTlBa1I3NklScC1QZHg5QThtWkFUZUlaanpoWG93UlpxWl82eW1UaXRtWXBjOXBfWTd0Mk5KeW9BODBpcTNwZkNpMTluNXE4Wm8wZGhROGp0MVJ0NVNKWmVXU2I1aWV5ODUtY204MHg3TG5sQkozN0I0SHhEaXpjNXdIbWltVWVNUHZUZUJodkxrS0NxbmRLaFVrY0Z2TzZOM3J1NE0tQVlkZVo1Qm9VSzl3eHZmSE8wdFNUVHpQbWctS3VhM3RLTGF4R2VjUnFFbHpYQTIxQTU1UnktQWpINHR0TkZqa2t6dmE3?oc=5
+- **Source:** Northamptonshire Telegraph
+- **Published:** 2026-10-16T16:10:00+00:00
+
+## RVK Unveils First Hydrogen-Powered School Bus in Iceland - Fuel Cells Works
+
+- **URL:** https://news.google.com/rss/articles/CBMipAFBVV95cUxQQTdFekdqMDIzcmQyallMVUhhR1hvMkFnOFBXV2NESTlWZ2ZCaHhHTURuZjI4aUtnd05QamE4cTMtaDAyNmdxa0szUU4xV21rN18xckRScFNpcmsyY1ZTcXFSczVpQXhZbnR6Q1N1Z3RVZW51VnNKV1FXdzV4ZXNiVkZoVVZVaDBxTHg5bkp2bjJuSTRrS2liS29LWmtDbWpKUm5TSw?oc=5
+- **Source:** Fuel Cells Works
+- **Published:** 2026-10-16T15:59:00+00:00
+
+## Int'l Lineups: Hayley Williams At Clockenflap, Iceland Airwaves, Pitchfork Festival London & More - Pollstar News
+
+- **URL:** https://news.google.com/rss/articles/CBMiyAFBVV95cUxOSE9NeEhQNVhpY3hOMzlob3hnRDFKSlZlS2ZaOFlFQ2RZLTBqRWM0anNweFItcnh6SURrQzZSRmJNeVlDbENXaGZLZVBUakdoZC1KTGJCZkVvT2c2aHQzWjhqUDZGdUJhd2h5bXVES3BBVE80T1VEWlByZFJOZ1hvUXd0Zy1NYnJkX3JCenNlRlA1OVZLQ19XbzBwTWh6alpDaTVVMkV0LUhESkdodEVFZU5HVmFlTEU0TXItY1RUR3liSllZVEc1cA?oc=5
+- **Source:** Pollstar News
+- **Published:** 2026-10-16T15:19:25+00:00
+
+## Delta Air Lines Adds Daily Boston–Iceland Flights for Summer 2027 - Rus Tourism News
+
+- **URL:** https://news.google.com/rss/articles/CBMirAFBVV95cUxNaE9Vc3dBRjBCczBzUmNZcGtJYnFWMzlvYmhTTWJJSFJXOWNURzBJZkZhSUZMaXZBZTlsOVpnUXRxYTRsRlFuSjBlWl83Qi10QmUxd2QxYnNWSVFCVGRiTEM0LTNMWkFfV3JqMzc0clByTW40NzNUa3haU25DVVFZMXZCdTdhekRfc1o2ZEVVc2xCRm0zMUFnc2kzemZ2TjRLT2NWR3BobVl2S2pR?oc=5
+- **Source:** Rus Tourism News
+- **Published:** 2026-10-16T15:17:46+00:00
+
+## Delta adds new direct European flight - The Business Journals
+
+- **URL:** https://news.google.com/rss/articles/CBMimAFBVV95cUxPWEpsUEN3c0kwcnp1TldxMVd1NDVSVzFGVXhteEs5WDU2VVplLTVnUGh1emNzczdYS0hnYmtQbmgyNkREME1feHZwSUV5WXZ3QzNDSjBZOFRnTGZmS1VVcUpTbjV0amZQaWxuTi1pSW03V3VjT3hlWXNyTjVFYmVUblpYd0NmYmliUHNpU3NpZ21PUE1JbVVHMQ?oc=5
+- **Source:** The Business Journals
+- **Published:** 2026-10-16T15:17:00+00:00
+
+## KTBS 3 Travel Club brings home incredible views of Iceland - KTBS 3
+
+- **URL:** https://news.google.com/rss/articles/CBMi1gFBVV95cUxNSlRxSVFfMUlXc2t2dkF6M21oWUpnZDJBXzFSNnFVQmI3eFNrUkkyOTBtQVdnbmM2SmdMOXJ3NTByS0xTeGxwRHk3b0tVSHZ2UlIyY1VhbjZDY0pYS3RzeXlBUHE2dTlha2VWTTJOYkZfN1oxdjJWWmphaUMxcFpYOGo2VV9OMGF6WDB5WnY3TnBQMDdwVXRYbXVMMkd2YUNzZWM4RW5nRlFyelpPS2ItS0tIbnhHbHBLU1RzMW1ucHZZNjg3cjdZdGNOeFlfYXhzU1NWZmZR?oc=5
+- **Source:** KTBS 3
+- **Published:** 2026-10-16T15:00:00+00:00
 
 ## Highly pathogenic bird flu detected in wild birds - Iceland Monitor
 
@@ -249,57 +303,3 @@ _Last updated: 2026-10-16T14:35:43.951844+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMiuAFBVV95cUxORVJIa2FOWlBWbVBMcWpYalFJY3o5WkRBTDlCTkJrVVZ1elVNbXZxQVpQR2d3Zmh2MXlYMjB6eEwwZXJ5MkZVVHU0b2N4T19id1RxdFdNT0NTT0FtVmpnTUJBNmpkWHEzNjZHVVlldG45M3VfWTRyTHZkMExWb3dpVVhZLUlFTjhrY0t0a2FVTlFPQUhQWnktN0dNc1N1V2c0TkZpRkRyQjhZSkZDdzlQMG05VjAtNDlS?oc=5
 - **Source:** eHospice
 - **Published:** 2026-10-15T12:05:45+00:00
-
-## QUOIA Launches with All-Star Musical Collaboration Inspired by Iceland’s Wild Landscapes - El Paso Times
-
-- **URL:** https://news.google.com/rss/articles/CBMi2wFBVV95cUxORjBHc2JnSXVfT2w0engzVC0zU2tGWnhZeU9FOVNkbEVXNkViaDBzSVhMM0U0WWpzSXRVcVgzak8xUmw1b1MySmtnSHF3ZEExaWd2alZFWURKeXVadlZtWnh6TW9HRkFzN2ZpVkpoZGwyUHpRMTN1c29OWXF0TGg2VmhpSVhhSlZmQ19fWkFrM3ZyMFVUUjhQdWRFNXo5Z1BCclZTeTlIVmNTazdYT0lNbG9FZGVXNjNmWWluMjNKcWw4eWdDS09xZFg0VGREaFVlbnRhbWRrS3I5ODQ?oc=5
-- **Source:** El Paso Times
-- **Published:** 2026-10-15T11:03:21+00:00
-
-## News - Iceland’s salmon exports set to hit new record this year - Fish Farmer
-
-- **URL:** https://news.google.com/rss/articles/CBMimwFBVV95cUxNWkNEUWpISFN5c3pnM1NyWHRXeWIzdEtBOXRaLUlvaEJ5czl1b1RlMDl1aFZvcTNKS1R4QzhubXpEalp0UC00c2R2NmNzaHFZMGQtYnZfUVc5c0pXZTA4enpTSlJSLVl1aGx3bmxjTHktc0ZWZ1BkVFRhT3B0S3Vtd01aeUxPWWhTRG1vWlFTaDJUWkdjN3k5ZGdWWQ?oc=5
-- **Source:** Fish Farmer
-- **Published:** 2026-10-15T11:03:14+00:00
-
-## Iceland Climate Bill Proposes Action on Missed Targets - Iceland Review
-
-- **URL:** https://news.google.com/rss/articles/CBMimgFBVV95cUxQN00yMWl1X2Z0dExoMHlMR1lHV1VfWWdFcW5iNUhMN0Q0eXJuRVBpbDdoQ3JOV0J2ZWswVDl1ZEdUWEZlZm8xWWFMNmV4YlR0SDZlbzZhWTVOcFB5MGtWR1EyQm5qYWlKbzk0ckRkZVVBTThtQTJmby1Pc2FxY3BySEJ1VXBYRlR4TXNLTnlDM19ucUtZeFBmOEJn?oc=5
-- **Source:** Iceland Review
-- **Published:** 2026-10-15T11:00:51+00:00
-
-## Iceland Cuts Electric-Car Grants From 1 November - Iceland Review
-
-- **URL:** https://news.google.com/rss/articles/CBMihwFBVV95cUxQeXBtc3BTLTNpc1ozTVdfTnZJa2FueTh3ZEdWVEdsTFBGNVdZeHBVMW1nWTd1VnY4QzJETGpvRnlLNmR5d1hieS1DcDUtd3lSNXdZUUFreW11aWxxLU5VdDNGRW02UFJZVS1RMkVkRjh2bldodi1rNE90anNnV0d1Z1FZNXYyUjg?oc=5
-- **Source:** Iceland Review
-- **Published:** 2026-10-15T10:00:56+00:00
-
-## Storm threatened a boat in Skagaströnd harbour - mbl.is
-
-- **URL:** https://news.google.com/rss/articles/CBMipgFBVV95cUxOb2xGQXJWbTRXdjdISTdnNU03a0NYSUhraFRlLVRQYjhLT0JvSDFQWTVwMnE3MlNSYzlvRXhPdk93MFoyQ2tMbmVFSVN1OVRGQWRHUVFUa0xweGFSYWZ0RVlWcjl6aGE1bHNLZkZLWEJ4b3BWWGwwNUVNNktkNE9MeFlaMkpweXVabEtfUVFtWFdOcUFGNXJUdVd1MlZqTy1QV3ZOVll3?oc=5
-- **Source:** mbl.is
-- **Published:** 2026-10-15T10:00:00+00:00
-
-## Stocks in Iceland Hit 18-month Low - TradingView
-
-- **URL:** https://news.google.com/rss/articles/CBMijgFBVV95cUxPZkdsYk1MeE1qYm9OSmtGcXpvLTJzVGQ5ZWRKQ3ZQbWxIU18tNGk2ZUgxSjBBRC1Hc2Y1T0didE1uNExrSnVqMS1abEJBWXUyWGdGd3V2dy1TQlpnYkdtTkdvTk5fVkRWZ2V5RjJhVjRCOUd5b2s0WnhxQ3NscUJCR0NMVTNJSkF4SDY4aEhB?oc=5
-- **Source:** TradingView
-- **Published:** 2026-10-15T09:52:51+00:00
-
-## Faroe Islands Faces Capelin Shortage Amid Icelandic Quota Dispute - https://streamlinefeed.co.ke/
-
-- **URL:** https://news.google.com/rss/articles/CBMioAFBVV95cUxQYnpGbVdzZjZuYjFBRjhaVm9uVWNyOWdYWU05cG95eUtReEJQOUZ6MnJ3VFF2d3VCeDd2Nmgzb3Noc1NUVTNrN0hGTHNVajBPX1N3MGRiY3ZXaVg5X3Z1MjFRdzlPUjVJZldIejBCb3Vac0paMkpmV1FjU3A0S1l6TFJrOEpONkhrWFdGbGh5UzFsWXJ1d3oxNjJlelBGbEVH?oc=5
-- **Source:** https://streamlinefeed.co.ke/
-- **Published:** 2026-10-15T09:04:12+00:00
-
-## Rubio push on Greenland delivers a huge diplomatic win for US against China - Fox News
-
-- **URL:** https://news.google.com/rss/articles/CBMipAFBVV95cUxNVWNwRUlRNE1JQ2wyOTR4ekRTZnYwaHpheHZXMHZJcnBEZnVWMVNSRGJ4LWtnNGZpenlhVWJ2OGdXV3J4UTJYSlp2dm1JWU8yYUZkYnE0V1NSTVZYc3p6LWFWWWVRa2R3enlBSlUyRExadVVTNXRzN2pJMXRrZ3htSVB6ZnR3Rmt2THU4U2w2S1BlOTJwRGJnQUt5enFwdXVrbDVOVtIBpAFBVV95cUxNVWNwRUlRNE1JQ2wyOTR4ekRTZnYwaHpheHZXMHZJcnBEZnVWMVNSRGJ4LWtnNGZpenlhVWJ2OGdXV3J4UTJYSlp2dm1JWU8yYUZkYnE0V1NSTVZYc3p6LWFWWWVRa2R3enlBSlUyRExadVVTNXRzN2pJMXRrZ3htSVB6ZnR3Rmt2THU4U2w2S1BlOTJwRGJnQUt5enFwdXVrbDVOVg?oc=5
-- **Source:** Fox News
-- **Published:** 2026-10-15T09:00:55+00:00
-
-## How The Nordic Countries Are Rethinking Tourist Taxes - Life in Norway
-
-- **URL:** https://news.google.com/rss/articles/CBMibEFVX3lxTE84M3JYOGpfWTFQV090QWRIUlBYbFhMVU1vT1FzTExJNTM4YXJrN2tkaDdtQkgzWk5wNV85azgxT2JETzlUeU8ybExKcWZEQ2N0QmVaTnd4V2FISzJqNXk4RjZoTHV1SExMaG1zWg?oc=5
-- **Source:** Life in Norway
-- **Published:** 2026-10-15T07:55:40+00:00

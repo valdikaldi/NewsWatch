@@ -1,8 +1,68 @@
 # NewsWatch — fusion energy News
 
-_Last updated: 2026-10-16T14:35:44.379479+00:00 · 50 articles_
+_Last updated: 2026-10-16T19:23:02.772801+00:00 · 50 articles_
 
 ---
+
+## Trump Media Declines 6% as Broad Selloff Weighs on High-Beta Stocks; Rumble Drops 8% - AOL.com
+
+- **URL:** https://news.google.com/rss/articles/CBMifEFVX3lxTE1WNnZMU01jR3BiWXpkVWNPaklKaElGcVU0THpJLVpscXJlb3hKb2xCS3cwY3dtdkVZOHBYcm9jWVhFRVJFN1NsdkxtRk5sMnFkTlF5SFA1WVRsb21uamZlaENnbWtQdVM5Q0FlT0VfbWxkWm9GRGhRdzNsOVc?oc=5
+- **Source:** AOL.com
+- **Published:** 2026-10-16T19:10:50+00:00
+
+## Trump Media Declines 6% as Broad Selloff Weighs on High-Beta Stocks; Rumble Drops 8% - 24/7 Wall St.
+
+- **URL:** https://news.google.com/rss/articles/CBMiwwFBVV95cUxNTkdHOGVfTmNISC1xdXRaVlh5amNPbFNVOUFTSElncmRZWEZyRjNhY3g1S1U5X053XzgyTGRmdXZOYlE1Z1RXeUp4MXZHc1JJZUVCajN3MjU5WVB1eGN6M2Mxb2Y5VjlvWUpVUDg2aVlEdkVmNjhqc3doSF9oUVdVX2tCNDdEd0RBZDBuMElTY1cyeTUwaDM0cVlhV1kxNkRXUkI0RVAtcl93YW9IbDNLbVcxekYxM1ZpcWlBTmxQN0ZKUXM?oc=5
+- **Source:** 24/7 Wall St.
+- **Published:** 2026-10-16T19:10:00+00:00
+
+## Scientists Discover a Surprising Shortcut to Nuclear Fusion - SciTechDaily
+
+- **URL:** https://news.google.com/rss/articles/CBMijgFBVV95cUxON0RHWWZUelhsTjFlMXlKVWJlbHlfR1RDMXRCcVhhQ250c3hvcEZkaWtFZmJHdTRKWUdseF9vc0d0QWtpVlI1V05iVmJBQ3NUbVlxSUJ6SjV0QURlNHNubjI1TDAwT2k0LUItNlVNMmdlVFZqbWpKWTVXQk9idDRhMlRic1BLYnpuMGxicm13?oc=5
+- **Source:** SciTechDaily
+- **Published:** 2026-10-16T18:44:53+00:00
+
+## In Brief: UT-Led Fusion Research Team Wins Google.org AI Award - UT News
+
+- **URL:** https://news.google.com/rss/articles/CBMingFBVV95cUxQYURMRExkX2dvZU5Yek5Xb2Rld0hPUXhjSkVKSDd4WHNOUEpQR1RpTmpFY1VKVUpZMXlsSUplTHpSZkFqdkNHOTRCVW5FbWM5OW9QZ1cybDZPd2FtVlNpWEFNQU9YSTFjRjVpRHpLQTByWGVKQTdEMzF0ZlR6am0xZFRhZ285WlJLQTZvQU1xR21rb0o0RjBjb3FYNFh3QQ?oc=5
+- **Source:** UT News
+- **Published:** 2026-10-16T18:02:15+00:00
+
+## Penn Engineering Brings Research, Innovation and Action to Climate Week at Penn - University of Pennsylvania
+
+- **URL:** https://news.google.com/rss/articles/CBMivgFBVV95cUxOVTUzV1pwOUdGUFBLNV9iclZpVF9JYmpURVVuVEpVa09ZNHNyMmRPRFJlUm5meVVDRDVGdFotdXl1LWplcktlWHBzb1RfWlVXZllRUnVRWFIzbXF4N1ppS0lHS21pZnFYY3FJOEZwa0cwN0EwcFE1b3pTYnN3S1hqWTFhQ2Jqa19BM3lPNHhVR2J5ZERCcmlzWFBOYklaVE1uVE9ITHNEeVdCRi01Z24wdXEtbk9NLWN2UEN2bGpn?oc=5
+- **Source:** University of Pennsylvania
+- **Published:** 2026-10-16T17:58:47+00:00
+
+## Sunwoda Digital Battery Passport Solution Among Finalists at 2026 edie Energy & Tech Awards - The Manila Times
+
+- **URL:** https://news.google.com/rss/articles/CBMi-AFBVV95cUxPM3NnMGRsUWhXX2Fsc25vR0VHWHJjN1lSeG9MOFZGU0NVQzAwQk5hRVVtZGN1Nm5nVVQ1dXhQY3hPQnFXakNmUnBZaGtFRlg3VjFSVUxUOHMwLTRqNGZiVnBmdUNEc2JRWGg3eUVyaWg2eWVuYWdqTllxR3pxMkNiTFRnZ3FoRVJZQnNpQzdNX1JybmJkZThMNXBFTXBiM3BJNjhMT2EyV3NjbkhjMC1MQTRrYXZ6MDJSYkFmWkxjOENWZ1VadVl6d1h0ZTE3Q2tZYk1LZ1dSV2R3QW44djl4MHh2N2daekZPM1dDcU5Dc0N2TW5OVUVLMNIB-AFBVV95cUxPM3NnMGRsUWhXX2Fsc25vR0VHWHJjN1lSeG9MOFZGU0NVQzAwQk5hRVVtZGN1Nm5nVVQ1dXhQY3hPQnFXakNmUnBZaGtFRlg3VjFSVUxUOHMwLTRqNGZiVnBmdUNEc2JRWGg3eUVyaWg2eWVuYWdqTllxR3pxMkNiTFRnZ3FoRVJZQnNpQzdNX1JybmJkZThMNXBFTXBiM3BJNjhMT2EyV3NjbkhjMC1MQTRrYXZ6MDJSYkFmWkxjOENWZ1VadVl6d1h0ZTE3Q2tZYk1LZ1dSV2R3QW44djl4MHh2N2daekZPM1dDcU5Dc0N2TW5OVUVLMA?oc=5
+- **Source:** The Manila Times
+- **Published:** 2026-10-16T17:44:25+00:00
+
+## Dine in the D: Peridot brings Vietnamese fusion to downtown Ann Arbor - ClickOnDetroit | WDIV Local 4
+
+- **URL:** https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNDRPSUlUVjdabkZCUTF4S3JTRVBqZ1l1eUlJbmZJVHlIeE4wY1pXYVd0WnRqbFRIUUZ2dTFYbzVuTndTY0lGa0xpZFRnNDhaRktfdXdJMk5ESDBuV2ZmQnVwN0ZNZXFJZXlPcWdDb1BEa1ZUNEhHNUNBbjhxR1Vid3hYd2MyNTZ5S0ItNDVxRnlLOHhQdHFhTE9aYWM0QndvLWRBeGN6dHZmTHE3OHdkY00wbWU1WE5iaG8xOG90YXBRTkU?oc=5
+- **Source:** ClickOnDetroit | WDIV Local 4
+- **Published:** 2026-10-16T17:03:59+00:00
+
+## Albuquerque Regional Economic Alliance: Robotics-driven company to bring 80 jobs to Nambé Pueblo - GlobeNewswire
+
+- **URL:** https://news.google.com/rss/articles/CBMiggJBVV95cUxQbXpTUFIxRzY2cVBBTmxmUlhDOG1ZbnE0dkhPNHM1dkdCT0lkZVQ0QlJSYm1FOWJoNjZ5R0hNUVN4cW5mY2thWHRLMFI0UVVVVE5TM1lyT09ieVpWWWZyLTFlV2tRVWk4cU9HWEMxdnZtaHp3SUF5STZCTm5qNnFIcko0MHV6MWR6T1RmZFl0VFhjeTJNQVBObFNBZzVrc3NfLW5YR090c0xrY3FvSV9nWl9WLTYzWXoyWE4xdV9pU1EyZTFJM2NhT0t2VTY3VlFSUnVjcnF1VjU0dXlZQ3M4N2pyX2hBZ01ZTTBweXo4ZW5UQzVTNXlXeUQ5a25KbE9kS1E?oc=5
+- **Source:** GlobeNewswire
+- **Published:** 2026-10-16T17:00:00+00:00
+
+## Panzani and Cerealis negotiate their merger to create a large European group of pasta and cereals - Demócrata
+
+- **URL:** https://news.google.com/rss/articles/CBMizwFBVV95cUxOSkJ0cVhjMWJsdlVKLXJHUklaOFg3VUNnUnBoNUhTVXhmWGtnWXZvTHdiWTRjTGJuT2lqblg2Y0NNSlBKcnZORHE1TFBQQU1nWTkzZC1aZjdRUHAyWEw3R0xtNXJTaXRBWGR0cU50UXJxaVljbWRFRERtMWVDa2ExbUZUdi12ZlBSOVlUa29tT3FGWkVYQzdISHBINnQ5TFZVWm9KcjdET3c2Wnd2SUhGVEQ3VWxqTWxLRC00dmx4TmtkN3lEbzR3czZpWnhnMlnSAdQBQVVfeXFMTkVUU1I0OWVnbTNfODdvczc0TW1MTmFmUG9qOElldkdvSGVVRXlvMnluck1wY1FKQk9mZks5QlJUaGpYUlgwRU1jN2FLcG9KNFU4MGVBcDdKX0hwcXc5cEkwcUF6MTJnQkV5ck5qZ3hkUG9fcVNtR1p0Q3poc2MtY0luSk9URHdvUURkSDIteC1wZDVFN3Q1T053aHNMNUVGNlhmTWJJSXh3SGxpbUFZX0ZwYXhRX0k3ZlI4dXh1OC1JUU9HNzJTNzF3cS1POVlTRXQ5dnc?oc=5
+- **Source:** Demócrata
+- **Published:** 2026-10-16T15:52:28+00:00
+
+## Energy Department Awards $36 Million to Strengthen Energy Research Across 21 States and Puerto Rico | Newswise - Newswise
+
+- **URL:** https://news.google.com/rss/articles/CBMi5gFBVV95cUxNQURrRVBQNjdocUVzX2gtU0xxSVpsSGYyYmlpYXRFOFUwekFIRkNYaHpkMXctU2cxYmd6c3dPdXpiem13cDBBdm9VVG5meTFqYkl2Wkg0OVM4TldLVHpUQm92SnZZb1FlTldaS2RicWRBTHZHenRzazlLaTRUenNGVEtRQzdtcFUwOE9OVjU1Y2M1emlySl8td0h0OGpZZDhRWldWVExxTlNLc0JpalhYMHBrQ3YzVDhDTlFiMnVsSDIwczgwQTg1OW83X01SdU01WDJfRG51aEU0TWpJQmkxd0FySzZmQdIB5gFBVV95cUxNQURrRVBQNjdocUVzX2gtU0xxSVpsSGYyYmlpYXRFOFUwekFIRkNYaHpkMXctU2cxYmd6c3dPdXpiem13cDBBdm9VVG5meTFqYkl2Wkg0OVM4TldLVHpUQm92SnZZb1FlTldaS2RicWRBTHZHenRzazlLaTRUenNGVEtRQzdtcFUwOE9OVjU1Y2M1emlySl8td0h0OGpZZDhRWldWVExxTlNLc0JpalhYMHBrQ3YzVDhDTlFiMnVsSDIwczgwQTg1OW83X01SdU01WDJfRG51aEU0TWpJQmkxd0FySzZmQQ?oc=5
+- **Source:** Newswise
+- **Published:** 2026-10-16T14:50:00+00:00
 
 ## DOE, ABS MOU explores nuclear technology for commercial maritime uses - ExchangeMonitor
 
@@ -243,63 +303,3 @@ _Last updated: 2026-10-16T14:35:44.379479+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMiowFBVV95cUxNQ3F0SXVmaGc4VW5IWHhuX3poWTFWWUpZVEJjWElkWlMwVnJFSXY3TWhzVlZySkxzVDk0QU9XdEZXbGFKOEg4TmNZTjlvNC1fODlGSVBDXzk3WTR1d0MxSmhkNEVfUXlxUE1HMEhIOU1MOGhUMTd3R0NrcWF0di1aTUdFTUowaDlSNDhqbnprX0dvcEl0MWh1SkdMc3ZOU3Z0YzNj?oc=5
 - **Source:** American Nuclear Society -- ANS
 - **Published:** 2026-10-15T13:07:49+00:00
-
-## PPPL celebrates its 75th anniversary - Newswise
-
-- **URL:** https://news.google.com/rss/articles/CBMilgFBVV95cUxOTGQwTmhaejJsSVI2YTFxOTJzYzVtdXE3UVY2WkdxX01nQ3RCMHhGYWZWdGdpbkZPdGxrS1Z3clhuTnlqemwyMzlqeXd5R2tFeHk5Q3JiTmdZZElZZWhTWkNJbHp4WExYSFA2X2RJM0xhdnE3d1FFSVE2N1VtY1FmNTY1UXhwUnNvcWZkWHF6ZVd4OFZwalHSAZYBQVVfeXFMTkxkME5oWnoybElSNmExcTkyc2M1bXVxN1FWNlpHcV9NZ0N0QjB4RmFmVnRnaW5GT3Rsa0tWd3JYbk55anpsMjM5anl3eUdrRXh5OUNyYk5nWWRJWWVoU1pDSWx6eFhMWEhQNl9kSTNMYXZxN3dRRUlRNjdVbWNRZjU2NVF4cFJzb3FmZFhxemVXeDhWcGpR?oc=5
-- **Source:** Newswise
-- **Published:** 2026-10-15T13:00:00+00:00
-
-## RedChip to Showcase Public Companies Advancing the Future of Energy Infrastructure at October 22 Investor Conference - Corsicana Daily Sun
-
-- **URL:** https://news.google.com/rss/articles/CBMipAJBVV95cUxOb3dXbFVLVUVLZU00R3g4cWFoSkdYMlpObkJfXzhwdWJTUmF4LUwxektoeDZuOVdvQzJ0Qk0yRzVlYjF2VHQ3bExZRzFPTkUtYy1lbzl4am1TY01rWXJtcmw1WUFHSVVGTzJPZzBxdzlQRklyS3RfZ2tGVW4zWGdOeG0zekFJbFlDUUVTVkRORzk2QlFjMFFUSm9XNUZEQncyNWdBdjFlRVN0TnBvLWl6V1R2RWxYYUZBeWpDQkwzdzgtWkVmV1JlRGpVVEx0OHBkdXRKSUh0QmdCR3BFSjlCcnB3dVFxeDdNOVFYenFONUdmNXhSdVptNFgtNHlKQkxGSzNRblJaQTRCaFNwd3BlMWg3QkhGUVZpZk1fZDFObGxWNXFY?oc=5
-- **Source:** Corsicana Daily Sun
-- **Published:** 2026-10-15T12:16:45+00:00
-
-## US propane exports hit records, driven by Asian demand - energynews.pro
-
-- **URL:** https://news.google.com/rss/articles/CBMihgFBVV95cUxNb3VXeGgxY1d2SU92SzZnOHRkcHowVFROaFNMTlBURUJXV0pZby1rWkVvOUJ4ay04cXNYeUhXay1zb3pFN0p1Um9TODJrMVhlN0RxNjNWNDU1ZG1XZTRLQnNFYUxTcmcydzc3eHFaWXNTVEhsT3YyXzdUSnBZU1dOM1JMNncxZw?oc=5
-- **Source:** energynews.pro
-- **Published:** 2026-10-15T12:03:58+00:00
-
-## Germany's €500M Fusion Program Pays for Progress - Technology Org
-
-- **URL:** https://news.google.com/rss/articles/CBMilAFBVV95cUxPdVl1OWZnWlNGMjA4cDB2a2x0bUZEWUJjWW1qX2ZzVmJqelB1Y0toc0xpcERNMU5wT0VMODVJM3NNaUV0aDJkUVVyMTdsYkwxWFM0bmVHZEV2TnQzcTQ4aEFXQnY0bDBTYkpFcnRoOHdqTTFjWjVzRHAzTEg3Nzl0R2dtZ3ZlX1k2bjh1RkN1a3RrdTdR?oc=5
-- **Source:** Technology Org
-- **Published:** 2026-10-15T12:03:00+00:00
-
-## PetroChina International announces its first LNG bunkering of a vessel in Singapore - energynews.pro
-
-- **URL:** https://news.google.com/rss/articles/CBMirgFBVV95cUxPNWx3NW85S2UtUGwxWm1ab1JaRmxUVkhDMkdWUkd2dTRhc0N5RUl5MlgzSHMtdG5jc3ZyWEV5UFIybUQwVFhrSThYeHNYcWRhRHNPUXduOVZQRi1HdFZERTJ4eDlPZkJwdDF4V0NCX1QyWXVQZlJKZE45ajdQczVpUDczRjhjSXhQM1dYTlVvZW15dzZOc1puazlXWWhSOEdOM2g1a01mVEM2aEg1WlE?oc=5
-- **Source:** energynews.pro
-- **Published:** 2026-10-15T11:04:00+00:00
-
-## AMAZEMET and Fusion for Energy sign five-year fusion technology agreement - Manufacturing Today India
-
-- **URL:** https://news.google.com/rss/articles/CBMifEFVX3lxTE1EVGRLYWF5RTlMQkZIcDJ3Z0JSUWN5RXNuWjViSEFqNEVkaG9qa1V6cFdqUXJ0aDEwM3kyVW55eklxaFpCaVZyc1FPd3VCc20ydXZtMmR3YllZQ3RvSUViY1FnVTdEcFNzUElIdElCaGhKem5fMHVqVHd6c1U?oc=5
-- **Source:** Manufacturing Today India
-- **Published:** 2026-10-15T10:59:31+00:00
-
-## LORD CONRAD UNVEILS “RISING EMPIRE” — A CINEMATIC FUSION OF SYNTHWAVE, ELECTRONIC ROCK AND MODERN HIP-HOP - London Post
-
-- **URL:** https://news.google.com/rss/articles/CBMixgFBVV95cUxPWWVKcFBWdkdoNXdnWkFWYk9uZDZmS2RHN2VHeWhvOW1hSU5pMFV2enR4Y1BDUGhKWmxMWEVMa2pEUHoxZ09RLUk2dDdlSzNQWXA5YTVwZi0tSkZmb0FZdVlaNkVKV3JncmZDU3dqclRQc3ZzSkxTYWsxWEZyY09IaW1JTEVTdFV0NWduTHdnZEsxb2RBMmx6Vlh0dGJOSXJ0cDZhT3lxN2NkYURnSzZJWlFlR0NsSTI2OGFGbTJ2SkJ1d2ZKNlE?oc=5
-- **Source:** London Post
-- **Published:** 2026-10-15T10:56:13+00:00
-
-## Fusion CX IPO Date, Review, Price, Allotment Details - IPO Watch
-
-- **URL:** https://news.google.com/rss/articles/CBMiSkFVX3lxTE5UcFlHN2lJTE91T2N2QWVndEllUm9SV1FTWGpKdmVQaWo5TWQ0RmN4Rk9yTEY3RDloSl9aSGhIYzh2aG5lejBka3dR?oc=5
-- **Source:** IPO Watch
-- **Published:** 2026-10-15T10:53:20+00:00
-
-## A STEP in the Right Direction: Modelling AC Losses in a Tokamak Design - Institution of Mechanical Engineers - IMechE
-
-- **URL:** https://news.google.com/rss/articles/CBMirwFBVV95cUxNY3h6Ml9wS0ZWMWZ6TWVobnVRdjlUa1RnTzFKSEFVcG9feWg4T3FUX0k4Q1p5a2NKMWY1LU5iV3dsdGFmRzFkSmtvNlhxOGs2THNMd05BOTdoYnpoN2g5WFZ3a3BMeklpeDBWWGZFTFlqWDZUcWNEMm1jSU9UMlhDMGxkc083bHpTMEJzMWE5cV9RTUQzNlN2UDlwUWJiMmszTmVlQURrdnhHQzhxaElV?oc=5
-- **Source:** Institution of Mechanical Engineers - IMechE
-- **Published:** 2026-10-15T10:32:12+00:00
-
-## In a Huge First, Physicists May Have Found a Shortcut to Fusion Energy - ScienceAlert
-
-- **URL:** https://news.google.com/rss/articles/CBMinwFBVV95cUxONFpWUWJMM2R1ZnNiMGctNENXRFN3bWlxUk9pbzJTQ1NBRmhadmo5OHVodjBNVGRoa2JDSW03VDdvZktJdGFSRHJBQldBQmoxeVo5VXVSZXZhRUo3Ry1qeGZReXhJSmM4eHhyX3lhOXNBU3FnNXJuZlp5ai13ZkZtODJuRnVuOTZxQlhaU19FN1VXenpPeHpycWFld213Zkk?oc=5
-- **Source:** ScienceAlert
-- **Published:** 2026-10-15T10:00:37+00:00
