@@ -1,8 +1,44 @@
 # NewsWatch — fusion energy News
 
-_Last updated: 2026-10-17T08:18:28.210127+00:00 · 50 articles_
+_Last updated: 2026-10-17T13:29:28.414940+00:00 · 50 articles_
 
 ---
+
+## First working nuclear clocks created in Vienna and Beijing — Cyprus Mail - UA.NEWS
+
+- **URL:** https://news.google.com/rss/articles/CBMipgFBVV95cUxPQXF6bHNtdWUxNFZvQW4ydEZQUnJwd3luSk9sU014eGhqYkhBWTlsRnVZbFV6eTBBeEpCb3J1NlVnTFRtRUFveDFIR3M3cncwUzU1UV9mS01rdlkyNjF3dElDLUJ6LUNMUWxxUDhZazJEX0RXTVl2WGxOUGlaMmxLem16M25pSENXU2NZWk50aUtmSkdPSUtLZXRnRzY0ZkM4WXVkM1Jn?oc=5
+- **Source:** UA.NEWS
+- **Published:** 2026-10-17T12:39:05+00:00
+
+## Just 8 years after Woolsey, a new fire ignites in its scar — too soon for both residents and plants - Los Angeles Times
+
+- **URL:** https://news.google.com/rss/articles/CBMiswFBVV95cUxQMEk3NDVxeFRWdzJra09LMUkzb0ZUNTNwa1FKeS1IRFlHSEhCdHZpcGwwdThMQXNYUE4tb3ZRb0NiMEI4cWlRUmQtNUdWQTlGQjJoZDZIVHpHdzM1Vm1fS1lZaU5VWXNvblRrdTB5eF9JVkJYVHN0WkduN1g4ZGdseUFjYkIyX0hOQ2JXS29oWWZ5a2JkR3VjSHl2X3RvLWtmN3BONVFGakFNdXFaU18tTzk4QQ?oc=5
+- **Source:** Los Angeles Times
+- **Published:** 2026-10-17T12:00:00+00:00
+
+## Weekend Navratri Dandiya And Garba Events in Delhi-NCR 2026: Top 7 Venues, Dates And Entry Details - Herzindagi
+
+- **URL:** https://news.google.com/rss/articles/CBMi2gFBVV95cUxOVHVMM3RXQmVZeUZ1Y1ZQdVZaMzl2amlQY0k1Z3YyRkhSUWVfRlFtblB6TjRJVUNYN3hkUnZfc1BXUmtucFoyRnF6amtZY29aeEJKQ3NHUVdBaHhxX1BOcDA0UllNV0NOYTNCMXNyTERXRHpzdUs3WmdTVFYtNks0N2ZZUm4yNGVERHJWek5QSkFSWER2OVkyLWJvZWo5c3FxaktPci00ZkVPQ0dkWmlGRGllSC1mWVc0VUhyS3VFa1NEWENGb09qZ0RMckdJVmJ2SmdqaGw0aTFwUdIB4AFBVV95cUxPd3Q5cnpUZ2dEWGpyckRBajBObU9LbThvaGNfRUdvaVVCbjVINkI1cHA5SlRLbzFHcXlpMkt5UEZHOEwwc1BWbVhDZUx4QVQ4LUNlT055X09BeThkNFEyNlp2YUs1ZFVZeEZ3WklMMXFsbDFuREdSckdITm9iRmxZZTlqTUhVOGNnSEVmd3U0TnFnYWlYYnI0bDNtQmtzRHRHWnVYWk51eTUwRUZqUHZVUGxHcEprX3NCNDVaX3BPZXhsZGN1akYzWmxjUVhjWV9ETm5nUTNmZlBOYjFLRUpMVw?oc=5
+- **Source:** Herzindagi
+- **Published:** 2026-10-17T10:49:27+00:00
+
+## Dragon Ball: 7 Strongest Fusion Forms, Ranked by Power - FandomWire
+
+- **URL:** https://news.google.com/rss/articles/CBMic0FVX3lxTE90bWV2ZXcxclJ3aVpOOFlZSVU4MHRrOE5Tdll0alpBcXFsN0dMRjJCV19JZXpiV09aNXVUbzV0cjFJUy1NaF9wU2VZaHZSQXVuUmt6NXVPVk45b0V1MTFMQVkyMTZlZHlfV2NuNHJwQTZFQWs?oc=5
+- **Source:** FandomWire
+- **Published:** 2026-10-17T10:30:00+00:00
+
+## AI Learns to Spot Failing EV Batteries Before They Catch Fire - Bioengineer.org
+
+- **URL:** https://news.google.com/rss/articles/CBMijwFBVV95cUxQRXVrNkY0b1VETTV4Wno2WTdVU1lGVGRRWTdoSFRzYW5GdTFrNWF0dC1vaGZuX0lnQW5KUEZxNTBISWhmNHNDM2hZdms4VW9aYmVmRkNGMUo4U0ZvcGt0V0tqcGlydm1OM1lKQ3JvOXpXMjdjZk5STkNiZzEyM2t5TERyWEphSTJ3MV9hem4tSQ?oc=5
+- **Source:** Bioengineer.org
+- **Published:** 2026-10-17T10:01:15+00:00
+
+## Inside the Damage Zone: Scientists Decode Nano-Void Behavior to Shield Fusion Reactors from Helium - Bioengineer.org
+
+- **URL:** https://news.google.com/rss/articles/CBMivwFBVV95cUxPNjM1Qjc2d3MyZ2VYNjVLUFpiUk9hTGU0QWxFV0pBWjI4ZEotMWJQUFlHVzdyQk5uMXNXVTd4M1ZfR1FUUUhMREl2S0VCbjliZEJDanQtS0RJcjVKNGg4SzZGN0lCbWZ4R1BCSXoxbGE0M0Raazl3WjBMRkNVYkNyNHpBUHFrNm5SenMwX1Byb0NLMGxyeVdGbmJqVno0Nzd2eVVMekNWQ0hJRkExd3drdTNPV0FyZjdzOWtwZm9MWQ?oc=5
+- **Source:** Bioengineer.org
+- **Published:** 2026-10-17T09:01:15+00:00
 
 ## Garba or no garba, I can dance till the end: Jagadhatri’s Mansi Jain on her unmatched Navratri energy - IWMBuzz
 
@@ -267,39 +303,3 @@ _Last updated: 2026-10-17T08:18:28.210127+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMiakFVX3lxTE9mOEt4WmduUHJzX3dQUWViTzYwclF1M3FudE9uNkZqbTdUMFdRZi1zMGVYYmZJY0pab3hpbTI5N3g2a1FidXNNVXBjWHNqSDNoekxRbUp6Q2d1LWJRaGhFMC00Nzl3S0FYa2c?oc=5
 - **Source:** IPO Watch
 - **Published:** 2026-10-15T21:00:00+00:00
-
-## U.S. Nuclear Fuel Independence Edges Closer as Urenco Expansion Hits 75% - Crude Oil Prices Today | OilPrice.com
-
-- **URL:** https://news.google.com/rss/articles/CBMizAFBVV95cUxQQVVxTjdmdHhEUTJWM0Yzbnc4RnFRbE5jMTRrQldJZ0h3Zm5BZDNUWU5pVEpMMHJ5bUV2WU1Ock9sbHJxeHNvRzBuQWFtUlpfNmt5VThncFVQbEpmbE5Jd3RsQnpzOW96T3cwTEhtZXNVQmtTcnNCZEdILS1ab3VEU3VteTNkWEhCRVhMMXhqOC1IVDltbnRqSEpET3RRYjdIWHkydzNHUzg0ZmpfRUNMamhadHBVanlKQzUwVDZxRXVRQVgtWmNCa0JQbUTSAcwBQVVfeXFMUEFVcU43ZnR4RFEyVjNGM253OEZxUWxOYzE0a0JXSWdId2ZuQWQzVFlOaVRKTDByeW1FdllNTnJPbGxycXhzb0cwbkFhbVJaXzZreVU4Z3BVUGxKZmxOSXd0bEJ6czlvek93MExIbWVzVUJrU3JzQmRHSC0tWm91RFN1bXkzZFhIQkVYTDF4ajgtSFQ5bW50akhKRE90UWI3SFh5MnczR1M4NGZqX0VDTGpoWnRwVWp5SkM1MFQ2cUV1UUFYLVpjQmtCUG1E?oc=5
-- **Source:** Crude Oil Prices Today | OilPrice.com
-- **Published:** 2026-10-15T21:00:00+00:00
-
-## Vistra Redeems All 8.0% Series A Preferred Stock at $1,000 a Share - Securities.io
-
-- **URL:** https://news.google.com/rss/articles/CBMilgFBVV95cUxNOVFPMHpOWTB2MUUwaHJaUGY5cVU3aWRyUFhGSUZ3eEFFekh3dzJfakNwbldFTDVVbFdxb0NLdHBROEpWTXlBYzM5STNNX0FNbE80OGJkcm55amo0c1g2LTRBTWtTZkttUEE0cU56OGdRNGFfZGVpZDJUTXVUNGlYUUl0dWhqRFdlRWxKUjZwdDBHZDJJLVE?oc=5
-- **Source:** Securities.io
-- **Published:** 2026-10-15T20:36:03+00:00
-
-## Researchers improve weather forecasts looking two to six weeks out - MIT Energy Initiative
-
-- **URL:** https://news.google.com/rss/articles/CBMipgFBVV95cUxNVWh4ZTVRNEhJWFpJS0wxaFUxbFFJSmtidF9hcGZzRnE5UXk5MmtBSWFlYnB4WUczZFh5c0Njanp2VDg2Z2JQZURSaTA4cjNSWEhKRTdRZnhIOUFYMFRYa2RCb2JGMHJpTTdTSHVTMXNSMzJseEdTVXBzUGRDNFNNalhZLVZ3eVQyTThhcDA0LTQ0N1dBREJlbENLLVVxSFRNSnl0NThR?oc=5
-- **Source:** MIT Energy Initiative
-- **Published:** 2026-10-15T19:52:30+00:00
-
-## Squeezed by a metal wall moving in milliseconds, a fusion machine in Vancouver hit 12 million degrees Celsius this week, and no slow compression device had ever reached that mark before - Energies Media
-
-- **URL:** https://news.google.com/rss/articles/CBMifkFVX3lxTFBvYmlBNWdsUk82ZU5WTER6WkE1ZWowODJ5aFpiQnhWOGF0SV9PSVNRUFo2ZGNkM3UwQk50MVNqWDRwUEs2REtTVlM5X081NWNHZHAwQjUyamJjRUJ1eFpYX3dONkVzaVhLMHN1T21lRC1UMGJWeVgyYlhJaHBJQQ?oc=5
-- **Source:** Energies Media
-- **Published:** 2026-10-15T19:50:00+00:00
-
-## 3D-Printed Reactor Parts Face a Harsh Reckoning Under Nuclear Irradiation - Bioengineer.org
-
-- **URL:** https://news.google.com/rss/articles/CBMinwFBVV95cUxNV0hPZndoYmJtQngyeldfOHBrMnhfUmx5Tm1ROHc1OE9zd2dYaWVnQmRyOHZBTmhvQTNWSFFnRHM0dXpWSjdEQkU5VGItRHUtWXZLRGcxdlpaMHNKZUx5cnhYNEx0R0JEZkltUUNScXVzNmI5NnhyMFNrMHJObkFtRzNGMGlMSE11OUNIMzY0ZE5FVW1lNnVNcGZsZzg5VHM?oc=5
-- **Source:** Bioengineer.org
-- **Published:** 2026-10-15T19:38:56+00:00
-
-## Magneto Optic Current Transformer Market To 2035: Digital Substation Rollouts Drive Growth - News and Statistics - IndexBox
-
-- **URL:** https://news.google.com/rss/articles/CBMixwFBVV95cUxQU1FxVFNzVnpfU2kwRlRQN0hSel8xM3NhZzNiWGRPcm1oSmU5QjdUYzA4b2QweUlKcDRrbWlMN1hwSkpTdkd2MkozQ2tRaE1BdElYU0tGVlZabTdmX0puTlo4T3ljeXozRWYzbXlka0NLRWFiN1hydVNUbnhSTFV6U3BOQ3dBcjgwcUNRamZodlZqR3JMMUN2NTg5cml2dEFWSmdUaG5rbXROOVljdC0zWU53S3NOeDVzN1ZQRUpDV2xwNThrenZz?oc=5
-- **Source:** IndexBox
-- **Published:** 2026-10-15T19:16:04+00:00

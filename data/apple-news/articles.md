@@ -1,8 +1,32 @@
 # NewsWatch — Apple News
 
-_Last updated: 2026-10-17T08:18:26.352504+00:00 · 50 articles_
+_Last updated: 2026-10-17T13:29:27.082880+00:00 · 50 articles_
 
 ---
+
+## Benzinga Bulls and Bears: Palantir, Apple, Six Flags - Benzinga
+
+- **URL:** https://news.google.com/rss/articles/CBMisgFBVV95cUxOb3dBNUlzWks1RGlRcnI4VGQ1Tk41eXl1b1N0TnRBQU96TmczZlVfaTBDbXZQRWc4WDZnNHNmRnpuWkdGek9OeGtrM216ZWR6LVdGaXhiT1B4NTFZYWt2SHdFb2VtaWhXY2VkN1d4Q1NVUWZRMHdJM2dESlhvY1JPTGlJLTJqenQ3Y2M4MVQ4ejdNLXhjNHNaTl9Zdm41Vy1HR1JaNEExTkR3T3RGQVFJanR3?oc=5
+- **Source:** Benzinga
+- **Published:** 2026-10-17T12:00:10+00:00
+
+## Apple Inc. (AAPL) Stock Forecasts - Yahoo! Finance Canada
+
+- **URL:** https://news.google.com/rss/articles/CBMikAFBVV95cUxPR0p6ZUpBX084emJJRkZkZ2dUaEtpTFZlaHZySVpsQVVNcGxmSlRpTW5icVJZZHQtelNIUHE2dzBWZ2p3Y3R5TVZMV3J6Y2ExS3dFeDU0TG43aml0Vjk2QVJfbldmdUlkRkhtZ1daZ0V4dTBDdXVaWC1qRUU0dWhXY3FuVzRvYnkzNXRsZXBlLU8?oc=5
+- **Source:** Yahoo! Finance Canada
+- **Published:** 2026-10-17T10:27:58+00:00
+
+## Form 4 Apple Inc For: 17 October By Investing.com - Investing.com India
+
+- **URL:** https://news.google.com/rss/articles/CBMilwFBVV95cUxPVnZDeVphcmZLZi1pYS1KVWlxMFJ6WWkxRk1MaUZjbGgySzhxaDhvQkZMaXJXX29JNGhwcncwN016WXRfaC1mOXB5dzVoZTJkQmtxQmRLZFpuWml3ZHBPcHJ0NnZucnJGSDFpcFUzM0l3YVJUU2NEZzQySmxGTWVVemhlZWFYQ1o5WHNsamszLWhmV2tvd1Iw?oc=5
+- **Source:** Investing.com India
+- **Published:** 2026-10-17T10:20:15+00:00
+
+## Apple's iPhone Duo Demand Tracking 'Solidly Out Of The Gate', Says Analyst As AAPL Stock Caps Off Best Week Since September Launch - TradingView
+
+- **URL:** https://news.google.com/rss/articles/CBMilgJBVV95cUxNZkhzUlpNNktLaDlYOGRwblFBN0h0TzBSc1FZbjRXelF5Ym5hT2lINHlqMU9EbW9hdi1HYzUzNmFtZDhPTDhWVWNrSWNqODdIZklRNHpLUnVxekxOYWpWVy1WcmU2Y2J0cmtGVHExVkF4TTJ4bGw0b21pTkVxOWVzMjY5NGt3b1dIamkzUEkwMmpiQ3JmWG9CYUtjcHFNUXktc0hldzFqcWFOOUJFNnBlWFFrNGN1MlNvMWtYWDlXRjJub3dLdWtrOGdnTmtjVlFsdk5NSlJCYXRfN1B6aEtKOTFiLU5VSlNtNGxFOVFEM2M2RmY4eTJQOG5jYThMSTFrYVJwcUU1c1NmX3ZPNVpJZGxUVFJlQQ?oc=5
+- **Source:** TradingView
+- **Published:** 2026-10-17T09:11:05+00:00
 
 ## Form 144 Apple Inc. For: 17 October By Investing.com - Investing.com Canada
 
@@ -279,27 +303,3 @@ _Last updated: 2026-10-17T08:18:26.352504+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMizAFBVV95cUxOQWxaLXdMUE9MRFFiV25naThNRHF0dVdIUW92bk16ZG9wN3NIV3ZONlR6OWdqb0NTb05US2tuU1ozS29hTE5xWlZHUk9SYU81UWVVWmlqQk1nUGVHaUpuUjRjTE9jMDBWWTVQN0o1TkxNS0FrZ2xlbXA5OE5SMXk1dFdNeWx0ekhaRHBiMnJ6VG81SXNyMVZDQTFNYXMxWjVYUlpNUm9zNWRPMEF6Yk5HOGs5dXMxUGlJbUh2czZwRWE2ZDdvaUpQOHFWY2U?oc=5
 - **Source:** MarketBeat
 - **Published:** 2026-10-16T07:23:14+00:00
-
-## Key facts: Apple Inc. China approves AI; $18.8B China; Muse Spark Mac - TradingView
-
-- **URL:** https://news.google.com/rss/articles/CBMixAFBVV95cUxNcC1qMEJaVk1nSkY3RjZEclBLNVZBZERoV3Y3clpiWm5CeEdyZnUzc2dsVmo5ZC02d2ZnaDR0TnNxV1lpOTVNczVDeVFOY29TVFJFX0tPTEktdUJlRC01UEtnSGZFc09OaW1mZHBBaWFBcVZSNXlQaWR5a0FvZUp5Y2RSUk02WWJHWEptVFdTTC1kNV9LWGktLVRzZVZ2YXFVRlBzM2NTd05semJ0TEEwYUFrRWN2OWpIWW80dnNYYTk2MVJp?oc=5
-- **Source:** TradingView
-- **Published:** 2026-10-16T07:00:00+00:00
-
-## Lobbying Update: $50,000 of APPLE INC. lobbying was just disclosed - Quiver Quantitative
-
-- **URL:** https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWTI2azhsWlV6bzJjQkJpX0ozeGcwS2ZWdnR5amhwOW9pZURQUGRPemNKVm9hbkhmWWdOLUZhci1za3ktRzRFbVZZd2REY0FlSHhmRGtGbmFBUnV0UEhZTk1vOXJ4cWd1V1h2QXdud2VycXlOaktGaDlncjgyTnY3Rzg3VHJhUTQ0MzBTWm14dUF1eHJjV1g2d0d2WkZpWlN1LThqNUxzVTU?oc=5
-- **Source:** Quiver Quantitative
-- **Published:** 2026-10-16T06:34:00+00:00
-
-## Mark Zuckerberg Opens Meta's Massive Muse Spark AI Model, Says It Runs Great on Apple's New Mac Studios T - Benzinga
-
-- **URL:** https://news.google.com/rss/articles/CBMingFBVV95cUxQdUtCMXF4eHM4OTJqUnZTTXdJY3MzNlMwR0V5NjduNTR4cFN1SldEWTktcjBQbFV0Um01alQ1c1hCbHg0Skt6RERpWl9pRnM5Y3NHY0NvTjFzaHhmdjkwLWpSemVRbGRHVXl0VFVaX2lacTNpUzFpendNd0JFZDBFclFtUDBlWVh3NVk4eVFFZGFybC1fRXNGZjIxSE4wUQ?oc=5
-- **Source:** Benzinga
-- **Published:** 2026-10-16T06:21:50+00:00
-
-## Stocktwits AI Roundup: AI Chip Selloff Deepens, CoreWeave Debt Concerns And Apple’s China AI Launch - TradingView
-
-- **URL:** https://news.google.com/rss/articles/CBMi7wFBVV95cUxPWFMtU292X3doWkJVTkp2MHB1NUxRcWRFSkdjN3d1dHhmOS1tZGtWYVZaSEdVMzBucmttNjlBcnZiTG9CblZrcVRZYTBuOHdSbV9JZzNEMGtsaWpHWWx5NzFabTgwNF9LQmJDeno5WnVaRkxXcnJ3QlMtWklIaFp3bXdIYWM4V2xNZG54OFZZaXRscUpFOXJlZ3hOX212UU5rQm9kel9IVWdkbWxkS0hmSlBUV3A5OVpCYk1aU3BLdUFwcFpLMjc3MDV4NTVIQUhaR1A0d2gtaDhfMDduMHJsZ2RfRE1mUl9mQjh5bEpRWQ?oc=5
-- **Source:** TradingView
-- **Published:** 2026-10-16T06:11:00+00:00

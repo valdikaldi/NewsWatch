@@ -1,8 +1,62 @@
 # NewsWatch — Iceland News
 
-_Last updated: 2026-10-17T08:18:27.529002+00:00 · 50 articles_
+_Last updated: 2026-10-17T13:29:28.014745+00:00 · 50 articles_
 
 ---
+
+## West Bromwich Albion vs Blackburn Rovers: Where to watch, live stream, TV channel & kick-off time - Goal.com
+
+- **URL:** https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUngwanVwemJYd1VsWXBvM3d5MWIxMFVSODFGUWRGaVA5d0JIQWg1Qkd0LWxaeENMWVhZemtCdTIyXzdpQk5nSWxkMDc5NWhXOXdQTlpYbW9sSUxKX3F6RUNObnZGSjQ1aVJDZnB5THBrSWJ5UElHS1NrYzhrZTYxQk93VWQteHlWZGprSW42aUNFWWNOSGJ2YzJDWnVpTTlEVGhvSTFRelB0N3NpbHlVaGxyVXNZUDlsSnpGcUE1RTBwdDQ?oc=5
+- **Source:** Goal.com
+- **Published:** 2026-10-17T12:36:26+00:00
+
+## hinÓperan Brings 27 To Reykjavík - The Reykjavík Grapevine
+
+- **URL:** https://news.google.com/rss/articles/CBMinwFBVV95cUxQWThhbU0wSkdvSmZsd2ZuZTk0UlprVkZoSUJQanlnVmpwZzN6ZjBnc1pWLXdNaEhJNXBtRWdNZ0ViWGFOc09ZcV9UVTZST0I5ZkM5dHAwTGxZdVJ0YjVtQXhFUEtpc3ZOQmw2amlZNGt3U2lWNkhjN0gtbm1iZnZoMGpRMlFDeHZPUHJ1TDVEaFFGSHRMSGNpVG1TTVFrQjA?oc=5
+- **Source:** The Reykjavík Grapevine
+- **Published:** 2026-10-17T12:14:57+00:00
+
+## Parents Who Worked Elsewhere in EEA May Claim Parental-Leave Compensation - Iceland Review
+
+- **URL:** https://news.google.com/rss/articles/CBMijgFBVV95cUxOSTJ2bVVlZUhtTktSbGhzbEZJaEZrdTkzbVBYcjJwMzVMTVJKYmwwNHZ1ZWN6Qk1JelZqT0NWT3FKQ0g3b0JTaDRrQWlvMzBEWXdqaFJtcVdGNUdmVFppeF9iMTVFVmx5eGR1bmdmaHo1VnhVbkt3QW5QSUM3MG1Wb0pKMWtxSkxXYUlPbm5B?oc=5
+- **Source:** Iceland Review
+- **Published:** 2026-10-17T12:00:00+00:00
+
+## “And where do I go with the memories?”: Anne Carson, a poet who writes hybrid books - vijesti.me
+
+- **URL:** https://news.google.com/rss/articles/CBMipwFBVV95cUxPTTVHaEREQWJFLWFaOTNtVi04cGRsbTdLcDhzR1VRM2xBRElCc0huWkpuMGlkUVFrdTNfWkdGS2k5VlVpcUV6Nk5VRjlSYl9LaEVfVW9pM0RRYkh2QmxNSDlEOU15Rm9sUGljcElDa1JDZkY5ZmN2VmpzYVRSOFNJeGlqMWllTnNSeUpXVkE0SHVJNXhvZDhoWXpXdDRJRlNpSDFIMTEwUdIBpwFBVV95cUxPTTVHaEREQWJFLWFaOTNtVi04cGRsbTdLcDhzR1VRM2xBRElCc0huWkpuMGlkUVFrdTNfWkdGS2k5VlVpcUV6Nk5VRjlSYl9LaEVfVW9pM0RRYkh2QmxNSDlEOU15Rm9sUGljcElDa1JDZkY5ZmN2VmpzYVRSOFNJeGlqMWllTnNSeUpXVkE0SHVJNXhvZDhoWXpXdDRJRlNpSDFIMTEwUQ?oc=5
+- **Source:** vijesti.me
+- **Published:** 2026-10-17T11:06:24+00:00
+
+## Iceland confirms change for state pensioner shoppers aged over 66 - Birmingham Live
+
+- **URL:** https://news.google.com/rss/articles/CBMiogFBVV95cUxNN1FGNTJjTml2dWdvemJYbDNDb2FLNGNkeFRWZmI2OEJaWTAtRFZEbTJycjR1YVZjZHlvWHBGUGtUeTlQT0dIeDIxN1JaaHJ5UUtOZ0w2XzdJRVBaMGxmRkdfdUl2QTRiYUZiR0xQUVIyN0ZzbUlWdjRvcngxdmNkRkRkNHZUR09XOFI0Y1ljR1JMWUxfWXF0SGMyQzlpX1oyWHfSAacBQVVfeXFMUGN0bzNOdE1xTGtvWlFhLXROME9sUFU4eXNIZjNjTDhtcEMyR3ZyWDM3NFltZHN5ZGhCYUdBVEtTMmlMNGhmdDZEd1FxcVRHdkZ4bmR5UWlvdEJSODlXdWFoV0dqdlJaYWlZekt1Q0p3UTM2S1A5bldmanBwSVZVcjlKVHFKZFIzUzFyZUd2NmpuLUxnS3J3NnBKUmF6OGVLNHJhYXRYckk?oc=5
+- **Source:** Birmingham Live
+- **Published:** 2026-10-17T10:09:00+00:00
+
+## Delta Adds Daily Boston–Keflavík Flights From April 2027 - Iceland Review
+
+- **URL:** https://news.google.com/rss/articles/CBMiigFBVV95cUxPdmpQYWRSRkFoamFtTjJHb1ZmWjJ1Y252Mlc5OEE2M2hUTllGZERzbXQyaVB3ZVJKZU94MVptZWF5azVVeDVhbW9mWnkyVkEwOU5PSzM5TzRyZThXV2VVbUhoUk4zY1JlSkh2S3ByYU9NZXhhaXpHSUkwWmRIaXhMOVpGSXRBQ1cxMkE?oc=5
+- **Source:** Iceland Review
+- **Published:** 2026-10-17T10:00:00+00:00
+
+## Jón Gnarr's departure a blow to the government - mbl.is
+
+- **URL:** https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNFc2NVU0UmZPNUNEQ1poTUlCei1ZTWV2NWVkS2VKRXliQkxJdVJzaXdXZ0ZBYmMtNS1mZDR0Qzl6eU5sNzdoZzBZbnZIUXRPa243cm1RN29Bd2xjaVZ4enhUNjFaV3dvaVNBa2xqRmhsVy1SaDRyQUtPbFVrbmppUjRKbUx6WDhlU2pYcGZ0U0NNMUpTRVBHM1hqclhPZFh1WjVXMFpfZ2Qydw?oc=5
+- **Source:** mbl.is
+- **Published:** 2026-10-17T10:00:00+00:00
+
+## Weekend Storms Forecast as Iceland Issues New Weather Warnings - Iceland Review
+
+- **URL:** https://news.google.com/rss/articles/CBMimAFBVV95cUxPVU5lOEJENFJXQWdLdWtDdEFpbFpVZmVFRnZIRGVjR1M3d0U0RUtEMVZHNl9Semxpd1lybThuTFdxVkZsczBUV0d2cWdSY3NBaTRFTXhoWjJfdjF6dW5HY0NfR1hJcndBLUI1WTJtQld2UkJnRUZ6c0ZuclpRbnJBSDJHRFdlT3FwUW1idF9TTDBNZVFpbU5hVg?oc=5
+- **Source:** Iceland Review
+- **Published:** 2026-10-17T09:17:33+00:00
+
+## Scotland must earn its NATO place, says SNP defence MP - UK Defence Journal
+
+- **URL:** https://news.google.com/rss/articles/CBMijwFBVV95cUxNXzJJbWlnUExRenlKM1FUQktYSlpBb0VVM3NtcTVSdV9wZk1zRzBVbS1raHM4VVBnMENhdGFSb21XOVNLVnliM1NQTGhTUnJVTElYLXlUVkhHTWtMay1rRUhZel9Pd291VEFhdVlVWDltdXlhZFVtY21sVkRteVJETjEzelJ3elk1ZWtDUE1iaw?oc=5
+- **Source:** UK Defence Journal
+- **Published:** 2026-10-17T08:43:38+00:00
 
 ## Iceland Tests Readiness for Atlantic Ocean Current Disruption - Iceland Review
 
@@ -249,57 +303,3 @@ _Last updated: 2026-10-17T08:18:27.529002+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMiqgFBVV95cUxQeXRqV2ppcEhZenB3VXdweGRCZ01fZEgySWtHLWd6WGZoRFNfb3d4TEZXdFBodXRRV2luUWtObENnSnpzTWc0c0ozMEp5WW96UDZKOWhzM09LQ1pfOTRBUm5lTmpWdUZCZVRqcm9sSXJfNXFIYWNxR2RsbHB0Ni1WU01ENEEtX2gzeXE5aFk4cUc2SXRZa0x2UzNIMk5HZzN2MGtLTzVVTFc0Zw?oc=5
 - **Source:** Largs and Millport News
 - **Published:** 2026-10-16T06:06:07+00:00
-
-## Discover the film locations for Supergirl (2026), around the Cairngorms in the Scottish Highlands and in Iceland. - The Worldwide Guide To Movie Locations
-
-- **URL:** https://news.google.com/rss/articles/CBMiZkFVX3lxTE1USUEwakZRMEFZQ09IMEw1eFVfdVBtRUhDZ3dJaWhlNlUtelFfQ1B4OXN2UVhTY0V5SzJpSmNJNXB3UFVlZE1UZ3hwVmJ5ZVk3bzRkVXE3aWxkREhEQVpHWVdvMFV0Zw?oc=5
-- **Source:** The Worldwide Guide To Movie Locations
-- **Published:** 2026-10-16T05:59:11+00:00
-
-## Abertillery man fined five times at same supermarket car park insists he is parking legally - Wales Online
-
-- **URL:** https://news.google.com/rss/articles/CBMikgFBVV95cUxNTTQ0UVVrTGtHdGpqWWxvS1FFT1dJSllwZUZHRi1RXy1BS05lRHdyODhDTzhaSVgtRHE4c1B1cGdtWG11UkFBbk9JMlQtaXJWQWZ3c1lRVkVmZGNjZG1iOXE5OEk3bi03Vi05WlZfdFEycHduT2xodHI2dHI4eEZCVk4waWUtemlyZGtCSm5QNlFOZ9IBlwFBVV95cUxPQUFlbVFKMEQzQUxnWkRjTjBXbTlERWhObDRMVkNXVGVHakFxQ2F4MzBLZmIyTG5QaHVVeXh0T2FKTEMzMkhPOEVQQkcxa2FFa2cwUnhoTG1sNkNwbi0zQ0J1QVJzYzEwLXlxeUNrdmlHeVl3UFhZZVZXZzgxMEdtNm8tQ2JCd2plR1ZfM1g3aER6cjFaN0kw?oc=5
-- **Source:** Wales Online
-- **Published:** 2026-10-16T05:44:00+00:00
-
-## Reindeer in Iceland: Where and When To See Them - Guide to Iceland
-
-- **URL:** https://news.google.com/rss/articles/CBMijAFBVV95cUxQazlMNF9wbGg3OUNpWkloWk80R1VmZFlvX2dUWEotRVVBQUtNWEYxMFAyUnJYQU5rSFpuRmtKbUx2ZUZ3NkZBZmxBRzZNNFJXMlFrT3Y1UFc2XzhkQjRrMWVyR29sTEgwNWVsMWRuc3lBaDdLVVlzNDFNUm9PWEgxem8ycmtQbkhTdkxHSQ?oc=5
-- **Source:** Guide to Iceland
-- **Published:** 2026-10-16T05:21:54+00:00
-
-## Weak mag. 2.5 earthquake - Iceland: 6.8 km NE of Blönduós on Friday, Oct 16, 2026, at 03:45 am (Reykjavik time) - Volcano Discovery
-
-- **URL:** https://news.google.com/rss/articles/CBMivgFBVV95cUxOTzJNYWZLNWFybU90b3EwZzh2TGxEZzVSSmVvOWtLY1pzLTFIblBTVG4tVEVsRHc5N0hranY2ZkVpZmpSdWVDRDJuRDkxNkhWODJ5c2F1cUpxZ3l4RE10SjBQZ3pnaVNzWU1FX1lJMnlTdUpKaGhhUUJseTlyS0QwUGpEb3F2Q3F5UVF1aGs5d3VqeS1fdnNRRkJMYUJCYzVWQUhrSEhsclFtTFlDNFBlM0g3cGF0NVdtUFN1N09R?oc=5
-- **Source:** Volcano Discovery
-- **Published:** 2026-10-16T04:09:48+00:00
-
-## Iceland visit for The Sculpture School - Crediton Courier
-
-- **URL:** https://news.google.com/rss/articles/CBMihwFBVV95cUxNdVRrSHJZYVpBSXRaSWxtR0hYSGZsMjBoSTZuVHk3TThDU2NMcFNpWS1LRzFybHVZclFQVXdXV3dvVjhXa3RuQ29kTW11RDdMNE00QkpnOF9yRV9sNkc1b1FTVXJXclh4ZmhRalVCU2dPeXg2TjVjVjRGeWJfMFZRbDYtRUJOZFk?oc=5
-- **Source:** Crediton Courier
-- **Published:** 2026-10-16T04:07:37+00:00
-
-## Lu Kang Leads an IDCPC Delegation to Visit Iceland - 中共中央对外联络部
-
-- **URL:** https://news.google.com/rss/articles/CBMiekFVX3lxTFAxRFM1czg4RS1CWHk1amUyN20yemtxTFI2dUtFSW1EdHpBWHZsdlptWUxNZVJXUmhkZDR3U0xaczdLeEhKWE55Q3BtcXVUTXJ4RHF6SHY2LXFJOW1PcFNEZE1DN1pUbmF4N3o5TFc1bHRPSDdsMVhmR2dR?oc=5
-- **Source:** 中共中央对外联络部
-- **Published:** 2026-10-16T02:27:09+00:00
-
-## Telford shoplifter, 30, who stole wine from Iceland is ordered to pay for it - Shropshire Star
-
-- **URL:** https://news.google.com/rss/articles/CBMixAFBVV95cUxOTnZBVUw0ZmlyZkNEczJpcFRIMTJvUFNkM19lcGMyQWhZYUJUUnBNd1FOTlBIcnZGcjBENmtjUE8zbTNDVENtMVlEMVFoWDktWEZwQVZaWGVkM2kweXpmZ1BKVVpMUlhUY3dRUnlMZFkwd3dwYWpGOWRxVEt6TFpXRkJ4RTE5MHE5dVA3bmdaX2U1ZmlpeUp1MGMzTWVQcVh3VjhhbDI0UndVZzRVc3BXcEhhQ2tVVWJKS3pYTGZLTFgzT1Fj?oc=5
-- **Source:** Shropshire Star
-- **Published:** 2026-10-16T02:01:00+00:00
-
-## Central Okanagan Search and Rescue manager to speak at international conference in Iceland - Castanet
-
-- **URL:** https://news.google.com/rss/articles/CBMi0AFBVV95cUxOOUY2dEszZWM4dXgyWXNkbnlMX3pfVURmN3BBeTZ2WVYwMFQ1N09fVUFnWWVFd0o4WUhucHY1ZllocFd0S0sxQ3VjRFVGR2NnZHpYbVl0N054YlVqVEREQTNhZ0J4eVNNeDdPWTFVaTNVVmZGUlpBTnQyZmU1S3h2QXBCTVpDdEQ0YkM4U2E4UGZfQmk0cnRYaGd1VGtDekpqMTNpTWNadGxvTlhJMW1BcUFWcVB0bDdjak5nSDVGbkNlWXpsTGgtT3hBRWN0SzNh?oc=5
-- **Source:** Castanet
-- **Published:** 2026-10-16T00:56:00+00:00
-
-## Experience Iceland Without Leaving Vancouver: Free Concerts, Food and Cultural Events Coming This November - To Do Canada
-
-- **URL:** https://news.google.com/rss/articles/CBMiYEFVX3lxTE9lc29Td05ob1psZ1ZkWHo1YXduUDNhUDhtUllHcjdON2VCZVdTcWd3MGRKMGV3TGh5VVpkd0E1Q2NKMUZ5c2lmdWFXNm03MVkySW9CM2phRDhIUGlEVnhIZA?oc=5
-- **Source:** To Do Canada
-- **Published:** 2026-10-16T00:23:14+00:00
