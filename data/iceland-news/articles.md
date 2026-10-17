@@ -1,8 +1,56 @@
 # NewsWatch — Iceland News
 
-_Last updated: 2026-10-16T22:36:27.173909+00:00 · 50 articles_
+_Last updated: 2026-10-17T08:18:27.529002+00:00 · 50 articles_
 
 ---
+
+## Iceland Tests Readiness for Atlantic Ocean Current Disruption - Iceland Review
+
+- **URL:** https://news.google.com/rss/articles/CBMikwFBVV95cUxNYmEzY0o2c0w1UTcxZndTSkF5Tk9iSTlGRzJfYmxVb3NpSnVuazluMzZiS09wb01QVkNGd0RRQUM5RF82Ym9pcVFWbFpqbGx4ZHlEYWJLZTJCeUdkTWh5Z3Vrb0xPXzIwX3VHOEVvaHR5Y3lkWEhaa01QdDE3V0hDbDRfQlFhSk5xZWRaMlRuTEZsbjg?oc=5
+- **Source:** Iceland Review
+- **Published:** 2026-10-17T07:00:00+00:00
+
+## Girl, 16, ‘sexually assaulted’ on bench by bus stop near Iceland – as man, 50, arrested - The Sun
+
+- **URL:** https://news.google.com/rss/articles/CBMifEFVX3lxTE5heDR0SEQtVXg1Y3JXTWxzeTVEX1ExWkRWNFhmRVY4c3JxMC1xWW0zOUdYU1d2MjU5ZlZ6MjBWVXVHT3VKQ2lRZ0NRR18yMzBzS193Y0Z5S1loSTlYMWV3YzBzOW1ZYXFpZVZWbXVYdGNqN2V6TjBsVm01Y0o?oc=5
+- **Source:** The Sun
+- **Published:** 2026-10-17T06:42:00+00:00
+
+## Iceland steaks less than £4 shoppers say are 'as good as any other' - The Mirror
+
+- **URL:** https://news.google.com/rss/articles/CBMijgFBVV95cUxNRGtPZGpJNGctOXBNc29DeWM3endXakhBSzdEbW9LSzdacEl6OVFlMlNiSUNEa0ZaeGphM1huYThZR29fNDlyUWpESGx3SW9heGxiLXItajZKbVhJN3cyVk42d3Y5dHlKVTJrbTRnX1E0dm1TSjdHZThFb1RPSEFYV3pFcG9zNFQ4TnNZdVNB0gGTAUFVX3lxTE5KSWlQemc4dTJhdkFMSi0tRTgwUl85OEw0U2x5OGE0X1BFbDVRRUdWM1hWa1M4RVRnSkNaQ011NzFrdzZEdzBEMlZiNTdtZ1N3UWF1MmFEdW1rb09MdGg1dkdKOS1Zb3JaNUVhaVJsWG1yM0xPMzFwYklnQ2o2RXBZWGhjdXR5Z2xOSGo4VHZUa1JsUQ?oc=5
+- **Source:** The Mirror
+- **Published:** 2026-10-17T06:19:00+00:00
+
+## Why You Can't Name Your Child Whatever You Want In Iceland Taylor Sheridan (nmX3TLSaHb) - Unisba Media
+
+- **URL:** https://news.google.com/rss/articles/CBMiigFBVV95cUxNREpHdWkyRy1ZdVRCTkh5QW5scmQ0YTU5VWQyN3ZFYTB2b1pBTTNfd2pZNVdIdFpYWVNBMldlNzRyLTVWbFhmNnVEVEJocFU0eXNkMF9lTmVsU0FsdTlOT3dKdGhkdjVhV2FGeVctRlY1ZjRtbW9WanE0d1FuVEVSamd2NkU4UlVKS1E?oc=5
+- **Source:** Unisba Media
+- **Published:** 2026-10-17T05:51:58+00:00
+
+## ‘Why Iceland’s EU referendum matters to British progressives’ - LabourList
+
+- **URL:** https://news.google.com/rss/articles/CBMif0FVX3lxTE9EcDJNVXpWSl9zemoyLS00X3hhb3lzMUk2c0R2Mi1DN0dFWDd1djJSMDBRUnNMcjVnMFo2R3cwVnkxcVh1eFV0Q1ZwN2V1Nk1ab3JvUGU4Um9tVS1HQ3ZQdHptVnRmNXh0bGVuNjJZOTZudGIzalhxNVlnTEtNY1XSAYQBQVVfeXFMUEM2WDdDTUZrdWlCQmpJVzNjNWhZUnlGT1dlZmExZExmNzJkOFdza1llSjFkSF85RDI4ZkJKdGtYazcwYlY0eW9ub2lYazBIWmZZQ1dNd1BCSVNoeE50ZUo2NTVueWNpelBZUnlESjdXeTBrZEVuWVNEaEFVRkJkTDhxWTlP?oc=5
+- **Source:** LabourList
+- **Published:** 2026-10-17T05:00:35+00:00
+
+## Dinner at the centre of the Earth: dining inside an Icelandic volcano - Getaway Magazine
+
+- **URL:** https://news.google.com/rss/articles/CBMihAFBVV95cUxPbktkbFU4N1pqVl9YMG93SkJJWmp4N01KRHNuaU1xaVdPT0FhOEVJLTZsZW5BV0gxOThZVEotT3BBMTRhOTdyS2pPUkNZWDlOVGN2a25NMzZyOUpva2VPTVVEYzdIWXdJUTVUckFicHlJLVpzTHNnSFlrUUg2QUJVNUppNTI?oc=5
+- **Source:** Getaway Magazine
+- **Published:** 2026-10-17T00:11:46+00:00
+
+## Watch Luxembourg vs Iceland - TOD
+
+- **URL:** https://news.google.com/rss/articles/CBMinAFBVV95cUxNUTJ2bmtzaDM3Q2kxeHhtblk5bXdHWHFjblBQeDJpdlpDMnZxYVNDaWlBZW5GdWxyZF9BLTRPMlFvMFh2amkyZTlQRHM0Y0dzNkwxeU1qOVRrNHpiRHZjTHdVTm5nRjZ2OVRxVklfd3ZKd05pTEdRUjhwVndpd1BoaDRwRnQ2TklQd2E2dnc4X0pGYWlOcXNaNXIxR1U?oc=5
+- **Source:** TOD
+- **Published:** 2026-10-16T23:47:28+00:00
+
+## Askja Volcano Earthquakes: Latest Quakes Past 7 Days - Volcano Discovery
+
+- **URL:** https://news.google.com/rss/articles/CBMiZkFVX3lxTE9ORGZYY21wNjRDX05xRmpwN2M5UnYzLVBZQnVqTmhGNDE0amVyN2Jia1BWZjBiQTlqUTlmV2Vqa0xXQWRSS2ViSjlDZ2hjZWd3TENyMHA2dkI2aXB6Y1pndk5leXVZQQ?oc=5
+- **Source:** Volcano Discovery
+- **Published:** 2026-10-16T22:37:50+00:00
 
 ## Daily Herald photo contest winners for September 2026 - Daily Herald
 
@@ -255,51 +303,3 @@ _Last updated: 2026-10-16T22:36:27.173909+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMiYEFVX3lxTE9lc29Td05ob1psZ1ZkWHo1YXduUDNhUDhtUllHcjdON2VCZVdTcWd3MGRKMGV3TGh5VVpkd0E1Q2NKMUZ5c2lmdWFXNm03MVkySW9CM2phRDhIUGlEVnhIZA?oc=5
 - **Source:** To Do Canada
 - **Published:** 2026-10-16T00:23:14+00:00
-
-## City supermarket reopens after major transformation - here's what's changed - South Wales Argus
-
-- **URL:** https://news.google.com/rss/articles/CBMilwFBVV95cUxQRTNNc3lOcXJXcWIwVHRZdE5LZTkzb0FLZ2hFV1B3LWc0dncxeVhIWm9USUV0QUU0ZGl6a1VXRkxHd1d4bGxKaVRza3ZOQmpacTRJRDNGa1RIMEQwaFpnenl2bWZha1hOMFdsSmF4WUl4cnFxOWUwUFFVaDNRSTN3MGdzUjA5a09HdnlrVFR2U0hhamNxS3U4?oc=5
-- **Source:** South Wales Argus
-- **Published:** 2026-10-15T18:00:00+00:00
-
-## Jón Gnarr quits parliamentary group but backs the government - mbl.is
-
-- **URL:** https://news.google.com/rss/articles/CBMimwFBVV95cUxNWE5fZ1dvOERRTzlPLTA4bzdpLTd2akRMQXdqZ2FuSlZFUGxFNS0tWW5GUXdGWUc1MTlTTGpocEFBQzh4emsxRENwNWtiblNrT05RcHA5TmdFdTlFdHdrNE1DTDVkS3RVWW1pN3Z4eXlhWlk0R0ZURm9keERxWmlWaDlEbGZ2Qmk0LUhtNF8xN213VU55NGVoMEs0MA?oc=5
-- **Source:** mbl.is
-- **Published:** 2026-10-15T16:41:00+00:00
-
-## Iceland’s PISA Results: Who Killed the Nation of Readers? - Iceland Review
-
-- **URL:** https://news.google.com/rss/articles/CBMiggFBVV95cUxQUXFpVldUMnZuUmNMcWdYXzR5VnI2OXFOMXZnbllZTlZ6cmxqdTlXUmFmV0wzV09lMmtWWkZmZ2IwQ1d1MzR6WU16QmRKRnRtSTVTLXF6SnNJblRwYmJIZ1FQemVHc2dubUZvdzBybk0zeEpvTkpKMHRhVklJdWNrMW5n?oc=5
-- **Source:** Iceland Review
-- **Published:** 2026-10-15T15:00:00+00:00
-
-## Finago buys Iceland's Regla to crack a new Nordic market - Dealroom
-
-- **URL:** https://news.google.com/rss/articles/CBMilAFBVV95cUxPQ05MaFBCWXMxeGl6TnZORk9jUGlqX3B5bW5qMU9FSUc0RUFpTW8tcUtnR3NMREg5SThmNTBfRmFYWktUMHlnaFdhSHRJTjdNOUE4b3VQcTU0Mjg1LXR4Njk3ZHg1U1RveThzU3laY19SQWhwZ1hrOXhyb2RDNi1fVnVZR1Z4bDBpbHM0b0xWOFdaSi1W?oc=5
-- **Source:** Dealroom
-- **Published:** 2026-10-15T14:58:19+00:00
-
-## KTBS Travel Club soaks in warmth at Iceland's "Blue Lagoon" - KTBS 3
-
-- **URL:** https://news.google.com/rss/articles/CBMi0wFBVV95cUxPTTdCb295ajFBOHNsR213dV9ZZVZEaXVrWjlWb1g0SFZmcXk5ODNnS2ZCNnJGSWxycHR4V2pRQzNWT3RxZVZ6MTBucTRxRllUdWcyd0ViT2JGQjFFWklLMXFqR2FrVGNRbEcyOW14dUpGREdEa3oxcWJvQW9OeWE0UmpwXzV1SFp5Snh0MDlja2hlSXRPd0Jpa0ptRUtEYXQ1VW1FRXFaQnBaSVhlOXhxN1Y1eDlucnYwajFPOFZCQ1dpcHE1VXd2NGRTbzBmZHM0U3NB?oc=5
-- **Source:** KTBS 3
-- **Published:** 2026-10-15T14:30:00+00:00
-
-## The New Icelanders | Stories of Migration, Identity and Home - Iceland Review
-
-- **URL:** https://news.google.com/rss/articles/CBMioAFBVV95cUxPam15Yy10UUJ4empab0NQdlNnM3FOZHNLZlE5Ry16dnNlQjlaa0xEQzF4UlktTklmX2JCRmxWbUxxMWV4RU9rU3VnTWVmaUQxOHNULWhDMW5rb0ZPMlFhNk9ZWTg1RUhZd3JEZmtvOEE5QXJrcEx3U0tSNXhsT2UtWUJvSlZnSTE4Tll3OFctQTMtNUtVUXhwdjBLM0trN21R?oc=5
-- **Source:** Iceland Review
-- **Published:** 2026-10-15T14:00:12+00:00
-
-## Police Warn Parents About Fake-ID VPN Exposing Children’s Data - Iceland Review
-
-- **URL:** https://news.google.com/rss/articles/CBMijAFBVV95cUxNTFZ3cXRoODBXaExBUll2ZExCX1E3YzMtTklsWTh5Q3ZYQnAxaDdXUVpWdC1vaDhjb3FLa1VxbG9VMkZ1UmU2ZnNlY2dXU29tTUcycHdFRldHZHNQWUs0c1NyWG40bnF2LTN3V0ZXOU9LelQyUXV0TXVBbURWNU9sVUQ3QTk1eUlGeThadw?oc=5
-- **Source:** Iceland Review
-- **Published:** 2026-10-15T13:30:08+00:00
-
-## blue lagoon iceland.png - KTBS 3
-
-- **URL:** https://news.google.com/rss/articles/CBMilwFBVV95cUxPbXp6NXFFdFJMZk01VEVfWXNFVjFzckxNWTZqWEhGcDJ6cGFJTzBTRmlhak9BQnlZNjc5Snc3UTlVaFJSb2lacWoxVDRfN3hEVWJ4Q2lGQXBweldxS0ZZUFVldVJtd3d2bVQxcE1icWpMbGdjR2h2RWY4ZXNNeklQWFdqTC1SS0VVanpwREtSNWZLdjdkNExN?oc=5
-- **Source:** KTBS 3
-- **Published:** 2026-10-15T13:10:55+00:00
