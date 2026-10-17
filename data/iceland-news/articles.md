@@ -1,8 +1,20 @@
 # NewsWatch — Iceland News
 
-_Last updated: 2026-10-17T20:14:34.209474+00:00 · 50 articles_
+_Last updated: 2026-10-17T23:48:16.402941+00:00 · 50 articles_
 
 ---
+
+## Thingvellir National Park closes its visitor centre on 23 October - ad-hoc-news.de
+
+- **URL:** https://news.google.com/rss/articles/CBMivgFBVV95cUxOZG9ROUJieHZza3FuSmx1N2dHZmhtaGNzUkgtdXFLNGxldDVvSXpDeXdIWGNiQmRYd29pQ1lId3U1c1BxbFNPM1FvZDQyMXNoaU9mQmI2VThWUWJPSUZFeGcta25HclZ5RG5tdC1ibHg3S05wYTRwX1drU2RJaXJoeUppYXVkT2EyZmN4aDFTN0RDNGJzbTFvY2FycEEtS2t6UXczb2dNZDNnRTRHSDV1MHdIMGFPcmgzSTJRbmhB?oc=5
+- **Source:** ad-hoc-news.de
+- **Published:** 2026-10-17T23:37:15+00:00
+
+## Menomonee Falls man critically injured during trip to Iceland, family faces significant medical bills - TMJ4 News
+
+- **URL:** https://news.google.com/rss/articles/CBMi6gFBVV95cUxQRmVMNXNOU21Ib3ozMEFFQ09ld1k5UTNzU2w4bmtwX3JuakV2ZlVKUFZkcDRVQzlXS1Q0WXZkSGN5NWpOWTBoWERnRWFqRGY2a1RHaENKa3dyVzdmOFhkdy1WWTktNUN4RnVrOGxmNGNxNHJZMUZkM2JmVGlwQUZOSTU2czh6TXZnbUtiNnFLUFlBaHBwR2RCT21YSm1jMHNiOGtKN1U5Y0pEcGpwUHVZMzY0OHNhTkl6djFudjRmLWVxX1ZCdGxILUI0Yi10a1dXYWNrczVjbXFweGV6Y2JxajZ6MVFzYVllZFE?oc=5
+- **Source:** TMJ4 News
+- **Published:** 2026-10-17T23:10:13+00:00
 
 ## Eldur í vinnuvél í álveri - RÚV.is
 
@@ -291,15 +303,3 @@ _Last updated: 2026-10-17T20:14:34.209474+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMipgFBVV95cUxPUE1HMVMyQ3RreTVPYVZ1clJycEg3YlJoRkJMd3BxQm1EQ1hzM1ZnZ0ZTeExZS0o1OVNHY0VVNld3N1Z6T2R3MUVOVVpXRGVHUnA5eV9ubTVBbWx2SzFVeC1fX2JYTDZGM1AyanloSU5MQkZkdEo3dVJ1QVZuT0JYdUtUR3NSTjZJdUFnWFpmVW5WNTZDX2hQUFhtUnZtcXhOb3Vmc2Vn?oc=5
 - **Source:** Newark Advertiser
 - **Published:** 2026-10-16T10:01:00+00:00
-
-## Iceland Sets Out Steps Towards 30% Nature Protection - Iceland Review
-
-- **URL:** https://news.google.com/rss/articles/CBMimwFBVV95cUxPdFdwSFNNQXJJeU5QNl8zb0M4bE5mWWctNVNfUTdMT1NkMzhMaGJ6Snp4azJUOEJJT1YtM2YzblhnTElIeDRNekM2TU1MQlhCWFZWbGZFeTB3dU51cEEyX2o2Z24wRTBJNWluUVFYcGxvUkVkS0ZTaUZ5U3JwTm40VkN3RnNqVjRDSFJyLTJTclNaZDY4TC0tZ2ZWOA?oc=5
-- **Source:** Iceland Review
-- **Published:** 2026-10-16T10:00:05+00:00
-
-## Human Judgement Is the Most Powerful Technology in the AI Age - Time Magazine
-
-- **URL:** https://news.google.com/rss/articles/CBMinwFBVV95cUxOb2JvRHRJd2Iydl9nWnc1RkpLZ1h3TVlNdWU1NWZNakZWci1KTUN4VTFxREJkam9fX2ZVLXZuRTB1ZG1HUVM0U1VOTGJYOGZHbWJNMlpLOE12Z19DdV8yUGstc3VHTGdlbnN6Ri1RdjNlYnpGMXRJZmc5YWVhbnNXNmJuNXJST0UxVmZLTkxIRWxQOERPeExNR1lhbUtpNW8?oc=5
-- **Source:** Time Magazine
-- **Published:** 2026-10-16T10:00:03+00:00

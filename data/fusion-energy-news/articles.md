@@ -1,8 +1,26 @@
 # NewsWatch — fusion energy News
 
-_Last updated: 2026-10-17T20:14:35.944322+00:00 · 50 articles_
+_Last updated: 2026-10-17T23:48:16.808502+00:00 · 50 articles_
 
 ---
+
+## Fusion CX IPO GMP Today with Listing Gain Expectation - IPO Watch
+
+- **URL:** https://news.google.com/rss/articles/CBMiakFVX3lxTE9mOEt4WmduUHJzX3dQUWViTzYwclF1M3FudE9uNkZqbTdUMFdRZi1zMGVYYmZJY0pab3hpbTI5N3g2a1FidXNNVXBjWHNqSDNoekxRbUp6Q2d1LWJRaGhFMC00Nzl3S0FYa2c?oc=5
+- **Source:** IPO Watch
+- **Published:** 2026-10-17T21:16:06+00:00
+
+## A Kiddie Mosh Pit at Rams Head On Stage? WHAT??? - Eye On Annapolis
+
+- **URL:** https://news.google.com/rss/articles/CBMijAFBVV95cUxPOGdVb3FZS3p4cjdWblZPalVHdF9oaE8wbFBsTHpHd3phcVllOVcxcFduWGhHMlRsQnp2YlpEWFY2U0FfNG1PZmNlYm9vanBzemR2ZEFwblRqMXBVRW51UTlLenB4TUZURmNPejNsNi15QmNkbWZxdVFoUlRLQkstczJsOUhTV3AzSjc0UQ?oc=5
+- **Source:** Eye On Annapolis
+- **Published:** 2026-10-17T20:53:00+00:00
+
+## Trad – Keep Zooming Ft. Flexbee - Voxtrendy
+
+- **URL:** https://news.google.com/rss/articles/CBMiaEFVX3lxTE5VcXZ4TE9ua09CanhuWHltQWtnLTNxQnNRVG9NWGZfU3hIek9VNjNraGF2eG93c1hyNktZSkF0NFhCbXpJOXhSb1BnVEYyWHFFX0RkaEJzbDhvLTFvdFJjQWJJRG40elVL?oc=5
+- **Source:** Voxtrendy
+- **Published:** 2026-10-17T20:28:42+00:00
 
 ## Leonid & Friends: Performing the Music of Chicago and More! - Gridley Herald
 
@@ -285,21 +303,3 @@ _Last updated: 2026-10-17T20:14:35.944322+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMic0FVX3lxTE1tLWxvVGNveTJkOHEzZDg2aE1EMFk1LTE1VUd3d0tzX1FkQ0Q3TmhDYTZEeERiRlZnbGx5Tk9seE82cEtFX3NpeVZwYks4VUtXdmROOFYyNU1tVkhFQTFnZDQyblNrQ0ZnYWpHRFlrZE82N2M?oc=5
 - **Source:** CitiMuzik
 - **Published:** 2026-10-16T09:53:04+00:00
-
-## Infrastructure Planning Blog 72: Latest solar DCO decision analysed - TLT LLP
-
-- **URL:** https://news.google.com/rss/articles/CBMitAFBVV95cUxOZ0k3ZVg0dG5RRC1NaUJJVlpMdUlTTGFMNXRKUFhLQk1YN2VUSmdRR2tzMEFBelF0NVROUk9WUzAyYS1yS09KMUlDSjd0YWEzT0lkbHdhc200N3BlbzR2Y3ZtOW5mc2dwanI0b3pmQlljZUNWWXBfdVFUaUZOMkp4T0xBMzlNOV80a2lpM1JDZGVwUGpMNEVNUVFTU3VoU0NDc25FblA0Q0U3VFp5QW1yOHBiSWU?oc=5
-- **Source:** TLT LLP
-- **Published:** 2026-10-16T08:58:08+00:00
-
-## Enphase Energy (ENPH) Starts India Shipments As Fair Value Debate Gets Harder To Ignore - Simply Wall Street
-
-- **URL:** https://news.google.com/rss/articles/CBMi1gFBVV95cUxNWm0yVVVjX2RJYmU1NzNkcGR0SG9POTZCRFNocmV3NDdTSk1maE41QVQ1dXJmWVYzR0xWY1dyMDVxaVZrLVdkX0Z3aldOcUU5YmZLSHRLb19pZmtPYnRERWRNY1BtbDZBZFRHN2g5N3pEcE1CYUNmelhCVncySWhKS3N5UWgxWTBHUEZuU21VdUJROVBNaDhyZ01JWFRISS1TNVZ2YXlBWmR1S2gyWnRKTkJNUGpoTFBoWnpSajYyY3locHgxQzVkWldZUTF2bzY4ckZ4dVZ30gHbAUFVX3lxTE1EUHJpX3dkbENma2VfZ0tiSUFKSS1iSDJ2UjJ6dlRtME9HaW9TZmtPZ3B0TktrZGRDRnc5aGcyZTV1aUdWNmstbE53WG9ha3E2MjlOaHJ0REowQ293ODNzNHU1MGJ6M3NxXzBmQkVWRFJHVWRzWHotWWhkY20teUtUUWtHcXBNSUpRVklzRnBaWk5wcUYxVGZQZjYzWFlLNXhNWlVqSnVXdzN2aV9ueXNzS3dQaU85b1Y4TjVSXzhfOFV4Q2FudVBsUEpkOUlGNC1FQVVEa2o0Um8xUQ?oc=5
-- **Source:** Simply Wall Street
-- **Published:** 2026-10-16T08:37:39+00:00
-
-## APM Terminals Pipavav appoints Zeeshan Mukhi as CCO - Manufacturing Today India
-
-- **URL:** https://news.google.com/rss/articles/CBMigAFBVV95cUxQbm5WZGM5c3UtVE9aWTIwVHBrNENyZ01ybnFfY0tVdUpDTk5pMWxtLWJjYXlHWXFsZWx6U0k1QVZyWE9Ic3hkVHZKZ2lRZjVBSDQwQUs1VkpPZUtURjI4OUNoTm90V2s4R1FHUUNPaGVEVWNVN3pPZ3A0RTY4bjhVWA?oc=5
-- **Source:** Manufacturing Today India
-- **Published:** 2026-10-16T07:37:04+00:00

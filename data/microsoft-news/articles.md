@@ -1,8 +1,62 @@
 # NewsWatch — Microsoft News
 
-_Last updated: 2026-10-17T20:14:32.849663+00:00 · 50 articles_
+_Last updated: 2026-10-17T23:48:15.968488+00:00 · 50 articles_
 
 ---
+
+## Adobe software dupe maker takes on Microsoft Office, releasing free versions of Word, Powerpoint, and Excel - Mashable
+
+- **URL:** https://news.google.com/rss/articles/CBMikgFBVV95cUxQaVlzQ2o2VFRhOUpEM25YNzRiTUF4VkNjOGNxWDJKVnYzeXZ6bVZGV3Y4LS1qWkk4TDdLQXlGQUpUOXVzRVlrY1pVOUhoQ1RyM05OejZkWmhKRzlsMmN6TzAwQ1YyY05xWDg2ZjJTM0dfM0VhRUU5Wm5iRzc4WnVQeE9qdm5IRGdhM1R0Zl9kNHFXdw?oc=5
+- **Source:** Mashable
+- **Published:** 2026-10-17T23:38:58+00:00
+
+## Microsoft's MAI-Base-2: 2.8T Parameters, a Quarter of the Compute - Intelligent Living
+
+- **URL:** https://news.google.com/rss/articles/CBMif0FVX3lxTE9YWUJyNVM5SWlOdUZOMHMwLVRlXzR6aGVVNWY3SlZBZjdxSjNtRC1xQ1Qta01QYUl6V19qcTMxdGhUOWZzeTlhX0FNMHlJc0pDZC1sbkk0TXJ2M0FiZmNFcmtkOV8zYTBVb1I5NnY5eXE4ZVJGMG8zOEF4T0N4OXM?oc=5
+- **Source:** Intelligent Living
+- **Published:** 2026-10-17T22:57:38+00:00
+
+## Microsoft Edge is getting Watermark Protection later this year - Neowin
+
+- **URL:** https://news.google.com/rss/articles/CBMilgFBVV95cUxQSzhiQTUtZTBVV290Z1BXTEpwV3dHUW1tMzVtajdXTC12NHV4dGRtTWl4ajY1RHZrbHBaSkZac0M5aWdwZ2UyWlN0dW43OEYtcG9SNENrMVVWNTNfUHRKajE1YkNzbDVwWm5kQ0h3MDlXWlAybFM1bmpGcHJtTzc0VUFIUng3WWl0cGZGdjBoWFBFbFpBT2c?oc=5
+- **Source:** Neowin
+- **Published:** 2026-10-17T22:16:00+00:00
+
+## EDR vs XDR vs MDR: $5B vs $8B Market Gap [2026] - https://tech-insider.org/
+
+- **URL:** https://news.google.com/rss/articles/CBMiX0FVX3lxTE1OTVl5VmtwNGRhVXlTZ0ZfcEY2SjV5V2tUM0RUcDRIbWpIcXlyTlNEamFnN3hYbC03YThNUm1uTFltRXgxU1l5NXVtM0M4RmxLOG5OM2FCTmgwQnVaTUhn?oc=5
+- **Source:** https://tech-insider.org/
+- **Published:** 2026-10-17T21:37:19+00:00
+
+## KB5127648: Microsoft breaks Windows 11 exclusive feature that helps weak PCs perform better - Neowin
+
+- **URL:** https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMWJtU1JNT19rVzVSZ2NxbkpJTmpxdktSTjJVOXdDVFZwZnhiMGlpRDhxbmhDVG4xV21ET1JGUFNSdXYxUTR6UDlSTS04cFhoLUJXemlQc3p5ZUVfSkVCaEN2ZnFkTzVmSWJ1TjdUN2pFYWlneHNRajEtUDlmMzJtR2Flc2tUeGVqeldmenRnQ19BckhJbExIcDZUYXZ4X1ZnY0F2aWYxdGRQcTg4V2Uxbk9iNVh0VzFaN3FZ?oc=5
+- **Source:** Neowin
+- **Published:** 2026-10-17T21:28:00+00:00
+
+## Microsoft Finishes Pretraining 2.8-Trillion-Parameter MAI-Base-2, Claiming Up to 12x Training Efficiency Over DeepSeek - XenoSpectrum
+
+- **URL:** https://news.google.com/rss/articles/CBMieEFVX3lxTFA5R2ItbEY4WHVxZzVYbWVkME8wRl9iMVlWRm1iNkl6MGdsWnZYTGgzd2FaY2xrZk5ESHZrWUNyemVDcGdpMS1wLXVLeDdPbTJkMkFYZm9ZaDRZWWsxX05KcU55OENIUHlxZlZONk1LYTdYWnV0elpVcg?oc=5
+- **Source:** XenoSpectrum
+- **Published:** 2026-10-17T21:09:48+00:00
+
+## Microsoft (MSFT) Secures 1,100 MW Indiana Power Deal - Simply Wall Street
+
+- **URL:** https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdVpsTzN3SjNEdG9lTVdHYVJHZXhDOUs2TkFlSjV6S0d6R3BnT2pBdGZJUlE5YzFzZnlJRzM3S3ZuZGJJYkhkZzI5Qk9Db1NjTGpwWTZGTU1BYzMyVTRoSGhuMjBpdW9Db2VvM0c4QzJsTVJZVUFEVnBlLUdxWUJaaUJTNlFfcWd6dG9VTjNLV3ZKQ2JsSU5GWHJzaUNMWmwxenJuWi1JUzMwckdyV1l6ZHAtbUI2cjJn0gG-AUFVX3lxTFBORjd3OUVKcFpBTEU0VV9udm9RelZ3aEowNWtvLXlUWnVzS0ZQNG9lWURCNEYzQjhNYmJWYXFqYUdBTXRFOWdGWEl4dklNVnA4SzlwMVNlX3V6VjBBSGZ3Y2R6TU5fY2JjLVNveEhuXzZGQlEyMDF4djQ1RnBvT2dSR2wzMnlRSTZRbE1vakNOUXEzaGd5LVoydWZ4aFJUdTdhYm9pakxiUFlJaWY0RXJ2V1VzMFJwUm82YTh2M3c?oc=5
+- **Source:** Simply Wall Street
+- **Published:** 2026-10-17T20:36:14+00:00
+
+## Deploy Secure Azure Functions API: 12 Steps, 75 Min [2026] - shattered.io
+
+- **URL:** https://news.google.com/rss/articles/CBMibEFVX3lxTFBRelMzazB5R2k3Y0p6SVZsWUtiUDBlZGdjRE4tbm5aeEdWMnV6Nm9YeUNpOHU2Y2YzMUpyYktYajB6SzJQWUZqTWI3YW1OZjhNY1BHQ0tfdXVqdXZuR2NOTE81eVlSalRGV2Mybg?oc=5
+- **Source:** shattered.io
+- **Published:** 2026-10-17T20:25:03+00:00
+
+## Microsoft Entra ID vs Okta 2026: Pricing, AI Agents - https://tech-insider.org/
+
+- **URL:** https://news.google.com/rss/articles/CBMibkFVX3lxTE1FcXA5UkxDbm9BRHR5WG1hYnZkaUJjSEtOZGpwOVJPVU16UmVmQkZKX2tZeTg5U2FpWlJXTGNJRl9SRkhfUEJjbFFqa2U1MHBLTlBGR3pRaE80V19nc3VXTHdqcWszR3JRT1pJUG5B?oc=5
+- **Source:** https://tech-insider.org/
+- **Published:** 2026-10-17T20:16:22+00:00
 
 ## WARNING: ConnectWise Supply-Chain Attack Exposes Microsoft 365 Tenants - LinkedIn
 
@@ -249,57 +303,3 @@ _Last updated: 2026-10-17T20:14:32.849663+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMiiAFBVV95cUxOd3JZcTlEMjF6THlwWU55M2RWSGxObktWY2RlRVVLSFJHc0pBR25mVUVjWVRxeDNhOHF0aUkzTFpzaVFKUlZiNzB5c0huZHVTMkVQQ3FPa3hTVmMxYUlIZEhTdWNaNkVicm9WNWVwbTlydHZsUGFLd2M1SVVHS3VCeWRnMlNuZnVs0gGIAUFVX3lxTE53cllxOUQyMXpMeXBZTnkzZFZIbE5uS1ZjZGVFVUtIUkdzSkFHbmZVRWNZVHF4M2E4cXRpSTNMWnNpUUpSVmI3MHlzSG5kdVMyRVBDcU9reFNWYzFhSUhkSFN1Y1o2RWJyb1Y1ZXBtOXJ0dmxQYUt3YzVJVUdLdUJ5ZGcyU25mdWw?oc=5
 - **Source:** CyberSecurityNews
 - **Published:** 2026-10-17T10:52:20+00:00
-
-## Windows/Exchange Server October 2026 issue: Analysis and Workarounds - BornCity
-
-- **URL:** https://news.google.com/rss/articles/CBMipwFBVV95cUxQVlBWaEdodmRCX1VVaHFvSHQ0Mzl0RWNkMzVjeGpNbnRyeVFaZlBfU0hSbzdLOVdrQnp1eTAxQzU3dXNIb0FQSHJXOHRfVllfWldLQ0EzaE1kc2JlU3BaYjBwWUJsYjFFejUyeE9WR0VfYTk1RUo4YUV0VTZtZ2NqbHJ1bGtwYTFqenJLbWhMTzRNRGQwZk5RakNINGplYlJDXzFXU2FXVQ?oc=5
-- **Source:** BornCity
-- **Published:** 2026-10-17T10:52:09+00:00
-
-## Microsoft updates Windows 11 Xbox mode with easier access to desktop and power controls - VideoCardz.com
-
-- **URL:** https://news.google.com/rss/articles/CBMitgFBVV95cUxPZi1uZWE1VnE1TGFQRjFVcTFTZEFzbFFnR2s3LWpRUVBfSDY3R1I1Ulh6dlBVQUN6YnUxcjFLV0xZVndYbXNtbVhiYmg3eENQX0JZd0VkNnBJQzJlYUNCRGoxSkRqeU5hdURONVNLOUktVlJxTXBOWnBGQUhISWlhWDVEZXhlTzl0b3A3S1BkdTJsTEp4X1JWU0RBak1mR0Q2VXpEbEh0VWpVTUpkLW0zX0FRcEJDZw?oc=5
-- **Source:** VideoCardz.com
-- **Published:** 2026-10-17T10:52:05+00:00
-
-## US suspends green-card filings for Microsoft, Adobe as AI talent race tightens - CryptoRank
-
-- **URL:** https://news.google.com/rss/articles/CBMihAFBVV95cUxQSHo5QUVVeEcyX291b0dZWER6YXQ5V0xDeHlzc2lxX3RGempkNHBXWTdPY2tBdFNOVnZlaGxVV0UtRDF2NlFhTDVoWE9ZVkJOdThZbTVLNEthNGQteXoteVZrUWM3Yk1sQlZtRE1VVzFlTTFnZTU0eGRySVREQ083Z1hvT04?oc=5
-- **Source:** CryptoRank
-- **Published:** 2026-10-17T10:49:23+00:00
-
-## Did Microsoft Power Deal Just Shift NiSource (NI) Investment Narrative? - Yahoo Finance
-
-- **URL:** https://news.google.com/rss/articles/CBMijwFBVV95cUxPOU9VZk1HTjJyTTVUc0w3aDlTeHk2NnNVRGtTRnBPTGs5aFozX3BsTzVXaU9oV21nWXRDenlIX2FKX3JxaEJ2TkpMLUFTQXNIZ3pDeml1Vjc0WUhQR1BQUmpPVHVES2J5ZklFT2NDaGVRWGVvT2RXN2x5R2hQamJMM3hqZUFHVk5xOXB3bUtNdw?oc=5
-- **Source:** Yahoo Finance
-- **Published:** 2026-10-17T10:13:51+00:00
-
-## Shrek 2 Remastered leaks on Microsoft Store ahead of Oct. 20 reveal - Gagadget.com
-
-- **URL:** https://news.google.com/rss/articles/CBMinwFBVV95cUxOams3SWJHWk9QOTIyX2dYbGdPNUY0cnhlOFY5c3RaNTI5RmVpLWpBOS1YLTdXa1daX1hBZG4ybDRGRUFlbEpfSFdDdU5yVWg1YWNpMTJLZFRmNkRucDNfLUVlZGw3MVVtTE9zSWp3WGdnQlR5MjRVVk9XYXFSZ25janMzY01HYktUODEtYjY2VVJGbXhWODZLSTdhdEVkRHPSAaQBQVVfeXFMT3MwMmpBM2NGbDlQZFVVWm01WUlVNUI4T0R1TEJXQVJpTVlyMkhLdXNOVnhsbGtPa25ycE1uVFAzaG55Vkh4N1g5cXlheGdjUkoxMkV2cHVCbTF1UUZ3bmdYLWM3ZkMtVjhBeXZzemYzaUs1VzY2NlA1U1haZ0Zsdml0Zzd2eVNfYjBkTGt2QlBkczlVMWJRemRaRWI3b0JJYnJFX2E?oc=5
-- **Source:** Gagadget.com
-- **Published:** 2026-10-17T09:37:47+00:00
-
-## When Microsoft CEO Satya Nadella transformed the company's culture with these three words - The Times of India
-
-- **URL:** https://news.google.com/rss/articles/CBMigAJBVV95cUxOazIxV21OY2hlWlpLNFdmYXNveE00WDJSaVdCSmtkSkhLNXViWHk5bTVBV2pPWnhxem1kSmpIZVVoaHdMZG05WTVlZVBSWVdnOUhfVWVHWEhoUVc0enhBdUJtR1F4bkpqRXNYVm5teE93QXpOM25VT0JUMkVfRW4xSnhwb1AwbjdkMDQ5WFlBeGs4MGhwYU8yZmpaM2FlSHg4Z25nVHVsMXlwS0tmb29WRlI2QzZSZE5GeF9WQmVkYzZwUkNsWDYwTnR5SzMwOE51TUgzLVlRdTg5QzZndXdmZXdEQTNPNVdmTVphRm1sRWV6bUlLWi1takUtSzI5eXRz0gGGAkFVX3lxTE9YRk1iXzhzZzc3Y1ZQZ1hfWUwtUFozaVNrMHplWWxIeTFEb1FOR09EWGJGZjNMM3AzM3ZzVmExQ01TUWs4dHFOQjBRT241emIyNW4wcm9Uamp4RGpTRE94N2tHUHZndUNzTlRLTnZ3dnAtdnBocGx1NFZLRlVONUQtM1dSZGFPSlkwcE83VnhmQ2NJTV84UjNBSHBYazdEdUNraHV1NFpZV1FPSDJJc2NNclRQLUFjU1lrZVZHbnlLeUN2SnR3ZURmYUhhRlAyWmduU0tjMXI1ZndOY2gyc3ExejliQXc4dTZSQ2Z4OUxYc1JSRFdGcExlTUgya2hIeWVkLXJGY3c?oc=5
-- **Source:** The Times of India
-- **Published:** 2026-10-17T09:18:00+00:00
-
-## Another vibe coded free Microsoft Office alternative is out alongside new desktop - Neowin
-
-- **URL:** https://news.google.com/rss/articles/CBMirwFBVV95cUxOajJCYS05ZEdOdURxc2twdWU1dzEteEhiUi1kdm4zMDhOLUlaRUZIekRoRkttSVNCNnFpSkJUS0Mzdzl1MnRBUVFFZFhiSk95UTd6ZzBqV044ZXJsM01KNUVqZF9EbWVLNnFPZExUa3U2SEZkZXZvaWZwRXoxeVZxZDViel94SVJSbmFyZ3pXbmJDRTdPRm8yMmMxcV80dDBqRTFMWVVsME56OXNFV0lJ?oc=5
-- **Source:** Neowin
-- **Published:** 2026-10-17T09:04:00+00:00
-
-## You can still buy Microsoft Office without a subscription, and it’s $27.97 - Mashable
-
-- **URL:** https://news.google.com/rss/articles/CBMinAFBVV95cUxQc2RneXNXZ0t4aUNGamhMWndmanV2X05oRTFJOUxfbWpQWFFmMzVPczd6RzdsM1Q2dG9GZnc0VDg0UXJIWE82Z3hHc0V5eGJyM3RpOHN5RHdaVkdXOWFwT192NENYU1FMcDhXdWJyYzUzaG93UWY2SExqT3p5RE55NmpWVEZuZ2hOdHhrRC14TXVxakwwV05VWHd1bGk?oc=5
-- **Source:** Mashable
-- **Published:** 2026-10-17T09:00:00+00:00
-
-## Microsoft Is Blocking Every Third-Party Script from Its Entra Sign-In Page — and It Hits Mid-October - Forkast News
-
-- **URL:** https://news.google.com/rss/articles/CBMivAFBVV95cUxQYzVjRzNmQlBYaEJVcTRhQ2JORUdRa1hYbXMyTkFNN2xCMFM5dEd2NkMwYmN6dThmR2xwa1hGOUVlXzAwNGowZTZWR3FmRVZXSXhuNW5tQlE1bGZ6akxhYWY2MTRUSW8wcFVjbWVMUTR2ZmkxV1dzd1lJNlZ5RmV5aEN4UHNDNGpoeWRMY2J6TUpsUk1YM3FzbTBWX0x1YzR3RGlscWJpd3VRczRYVHlRTlNuekdNVmxLRm5qOQ?oc=5
-- **Source:** Forkast News
-- **Published:** 2026-10-17T08:50:22+00:00
