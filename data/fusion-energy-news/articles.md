@@ -1,8 +1,14 @@
 # NewsWatch — fusion energy News
 
-_Last updated: 2026-10-17T13:29:28.414940+00:00 · 50 articles_
+_Last updated: 2026-10-17T16:52:19.071486+00:00 · 50 articles_
 
 ---
+
+## How Electronic Music Subgenres Continue to Evolve: Fusion, Technology, and the Rise of Microgenres - SIDE-LINE
+
+- **URL:** https://news.google.com/rss/articles/CBMiiAFBVV95cUxNOUZVVk1FVUpTeG83bGVfb3FuLVJ2OTlXMFJpWnJueU1OZDFnV2w2dlI2aGhyZ3MwTjV3Q0NKTnZqUnNMemRNLXpMaDh4SnV2MWZmTnRIcGN6bjFJZUR1SENENXlZdnZWNDEwV2RVRnEyeFpjWE82aERLZlZ1NXZaV2hmTnJkcXRp?oc=5
+- **Source:** SIDE-LINE
+- **Published:** 2026-10-17T14:05:08+00:00
 
 ## First working nuclear clocks created in Vienna and Beijing — Cyprus Mail - UA.NEWS
 
@@ -297,9 +303,3 @@ _Last updated: 2026-10-17T13:29:28.414940+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMinwFBVV95cUxOeE53WkNpV1VzNThUR3pjTlF4Q1FsUDQxOHk5MHBna3pqQjFoSUE0NjBseTdBVnRYekJKWldzMV9MSXNnWkxEcHE1R05NazUtOGZWajU4ZUVfUzZoQm1aakpDRkFfNmVnREYwZ2dzM0tleW9WeDY1b096WldPSUx5RFdKSmVJQUV0cVlCWnRDRy1RQVhLWGp0WHdHN2wzNFk?oc=5
 - **Source:** American Nuclear Society -- ANS
 - **Published:** 2026-10-15T23:09:02+00:00
-
-## Fusion CX IPO GMP Today with Listing Gain Expectation - IPO Watch
-
-- **URL:** https://news.google.com/rss/articles/CBMiakFVX3lxTE9mOEt4WmduUHJzX3dQUWViTzYwclF1M3FudE9uNkZqbTdUMFdRZi1zMGVYYmZJY0pab3hpbTI5N3g2a1FidXNNVXBjWHNqSDNoekxRbUp6Q2d1LWJRaGhFMC00Nzl3S0FYa2c?oc=5
-- **Source:** IPO Watch
-- **Published:** 2026-10-15T21:00:00+00:00

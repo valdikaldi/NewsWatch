@@ -1,8 +1,62 @@
 # NewsWatch — Apple News
 
-_Last updated: 2026-10-17T13:29:27.082880+00:00 · 50 articles_
+_Last updated: 2026-10-17T16:52:17.659071+00:00 · 50 articles_
 
 ---
+
+## Apple iPhone Duo's ‘extraordinary’ pre-order frenzy raises stakes for its foldable smartphone debut - Livemint
+
+- **URL:** https://news.google.com/rss/articles/CBMi9AFBVV95cUxQSWFHRUllMUFyaDdrT3pQNmlLTEpidnNuSFMxSlhiRVYtZzd1dzFnUjE1eF9tTkZwQ3NqUGFGN2I4NUQtYmZPN0RCdGpKQmJSczhjTlo0NTB0WXdLX1J0TVM4NGg0b3hMdWZjck52UGh6NWo0bjRiT3VIUWVXdUtYNnBsWlQzX0pYRjRTVExpZ1dVU1hrU0dIUlhFaTRFQ3JMS0dyeWd0V3F4QkxNU2pLVmZqM1BRUmlBc1RsaEo3OWpDVWt1dXNOSmxsUzJYbWhxelJ6dHRaV3I0Vl9MVEtQejBoMXYza1FNci1ST2F0WXo4NS1j0gH6AUFVX3lxTE5lS1BkWlhEczJDSEw3QWVBa2daY1FER2xvNzB0UHFJOVNlWUNONlhkYThkdXZVdzdTdUY5c01RSHFzUTd5YnF2UDBJRWpoSE1lekNmWmN3ZEI5bkdERkZzNmpyWE5Rb3ZQMVU5QThlcnA2SWZWbFg4cnFodkdrMnU1YUpTSXhoMHpYaVc0dXlIS05YNEIxWktoaWxyV1BlSllSNW9YTTFUeEJmVlRoOEotS3hhUTloYWRWOGREN0xYRWdMNFgtMndwXzF3ZDFXZXJsUGRLYUkycUNHVVRjOC1GeVAzeFhLZHdRNTIxcElGTlBVV3g0VzFMRWc?oc=5
+- **Source:** Livemint
+- **Published:** 2026-10-17T15:46:50+00:00
+
+## Apple Inc. $AAPL Shares Acquired by Plan A Wealth LLC - MarketBeat
+
+- **URL:** https://news.google.com/rss/articles/CBMisgFBVV95cUxNZ1gzU0x0VVJocHE2Q1FEa2NmRzUwR3l0eThwWnNFSnVhT2NCRXd1RDdrdll4U2RQLWZYLXI5Y085bDdwXzh2cnpQano4Zjg4WlJtNlVTWlZlbE1zUkZteTlfb2QycTI4d2paZExZNW5XLVlzb0psblJYN1QybzZrUzhTUnowQXY3VnZtOUplc2VDa0dpRVlpeWNwbG5kU2l3ZEJPa19hcWc3MzJMRkZxZGFB?oc=5
+- **Source:** MarketBeat
+- **Published:** 2026-10-17T14:50:52+00:00
+
+## Apple Inc. $AAPL Stock Position Increased by New Covenant Trust Company N.A. - MarketBeat
+
+- **URL:** https://news.google.com/rss/articles/CBMizgFBVV95cUxNZ19JckE0ZFUxTFRRdk94VDVHa2VUbEd4WUMzaE1nS3QtZVNXQ1VVYW01REE3bTdOdGh6a0JNNXY2NmIxdEFDYkkyb1U4MmJJcWxuRGtWcWlIdkR6MXYzVUhhYVhWTWNfV0FMOVZ0QWZLc0JBa0JCNjJmblVmbXJqay02RDN4UC1SblIxVFpiSXotN2RDdVh6cFBCWFVHbVRhUjZhdG1mZThtamRYYTRWVHFXUXhOZVFoSHpKc0ZBMkpldjd1aVBBNFlZT0JBUQ?oc=5
+- **Source:** MarketBeat
+- **Published:** 2026-10-17T14:50:52+00:00
+
+## Apple Inc. $AAPL Shares Bought by Kaydan Wealth Management Inc. - MarketBeat
+
+- **URL:** https://news.google.com/rss/articles/CBMivgFBVV95cUxOdzBLV2NFU002VDF3TjZQa1hFYnFfLUg3VDFMbVAzQ1BTR1JUWW5MUVVNcjVkUHhXNUNkSS1JZjk3Tlh1dXNZM3RUbk8yUGl2NzBBQVFRSWlUSktweDFMM09mUUppY2ZPalNGZFotYVo4VlNrNnZWeU8xaWV2Qi1mbU9KWVdKRG1iX0R6RlluSDlzaWRBZGh1Q09MZmNDVjdjbTRjcEZjQjNMVHU2NC1BakV2di01eVVPTm5Zb1RR?oc=5
+- **Source:** MarketBeat
+- **Published:** 2026-10-17T14:50:52+00:00
+
+## Apple Inc. $AAPL Stock: Vann Equity Management LLC Reduces Stake - MarketBeat
+
+- **URL:** https://news.google.com/rss/articles/CBMivwFBVV95cUxQd2N3WHNveExJR3M5VjY4ZnpvQ2lKdTlaVkxMTFBsQS1RdzI5QWVzbnI1YnlIZ3hwdmxHN0VqSzYtM0E2V2h5eURwZ2JlaklGbjJZbTA0RkR6Z1E2djFPb0FGRFgtMUhFcm4zekJSRXRPQW5QTHU5emM0YnlLSWQ4VXBOcWhlNXhUT1pxTkc3ejBad0RrenlNSmx0bzU5MGNwY0hZRzZGZlVPWWF5eURRVmlJZkVYeE40ejRMWXJEbw?oc=5
+- **Source:** MarketBeat
+- **Published:** 2026-10-17T14:50:52+00:00
+
+## 3,459 Apple Inc. $AAPL Shares Bought by Titleist Asset Management LLC - MarketBeat
+
+- **URL:** https://news.google.com/rss/articles/CBMixgFBVV95cUxOX1VWNDYwdmxFWUZLMDFicWZMVWY2MHV0SEJ6SEJ3aUt2THhINExtZW5WNGt0aWhFVmpDTFQtSlpibnc5UF9WZFAwLTdacTU1UjF0OXBfTmRjdkt0VXVvMFVTSDlLRWRwTXlMdG43cXdicVBqdVVZb21uWWJxbDR0N0dqd0dJM3g0djBSU055NFV4R3pQU1pRR1prMGM5R0swSG1mZmQwNU8tWElFR1pUSVM0YWZCYlBHMTZ4XzBlZWlWa3BwekE?oc=5
+- **Source:** MarketBeat
+- **Published:** 2026-10-17T14:50:51+00:00
+
+## Apple Inc. $AAPL Stock: HWG Holdings LP Raises Stake - MarketBeat
+
+- **URL:** https://news.google.com/rss/articles/CBMirwFBVV95cUxNb3MyM19UNlZUZDRYVEN0azN1QzA4bjRUVFJzejZUVGVWb0w1MVlTaDdEbjkyVk1zYkJlQzA0dHZYOUZYMzF1NElyc1hDRWprSzhvZnczbXZOOXNvaWM2NVFZUjhkc29nNkRwRFpLSGM5MC1YRllvcGtOeVdQX083TWotak1UUFFfT0E2T1pLRWVXdUh4elR4dk1hZWFiM0M0ZHE0Sk9QaEZZRHo1NDdr?oc=5
+- **Source:** MarketBeat
+- **Published:** 2026-10-17T14:50:51+00:00
+
+## Apple Inc. $AAPL Stock: Toth Financial Advisory Corp Raises Holdings - MarketBeat
+
+- **URL:** https://news.google.com/rss/articles/CBMixAFBVV95cUxPS3NPaGlpQm43aXlTTElOZDJyRXFfeU9nWGlvTC1HQmZ2akw2TFY5Qi1aT3hQLU41ek5rSUFRZ0xZX084ZzRpZk1NV0V5NjQyZUpOT3VPdkRXRU5rbWZELVl6RUNNWDRIR3ZJaUROSGtsMjV3LUlLSGttS01RYjlPUnZZdi01azZZbDdkNEJPZ0xSaTJON0xUeFhEWE96MFphZWwwUlBjZjhlMmtKMDJpUXUzczVOUmVzYU9uNnN6LXUwcVRn?oc=5
+- **Source:** MarketBeat
+- **Published:** 2026-10-17T14:50:51+00:00
+
+## Apple Inc. $AAPL Stock Bought by YHB Investment Advisors Inc. - MarketBeat
+
+- **URL:** https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMmFOTzFzYVB3Z05TZVFyeVBaVVlDdl9GbHQ0ZHFTeFZpMjVsZVp2bGFlOHZoTUx6a3ZkNjZ5bUlsbnBLSWJTaWw4Mm5XOFdDTUY2YWtFLWt1aHJOcG1heTRWNHZENGVWYkNpWXBTMkJDUDZPbFRJOEhNaFRpVjJ4UkdUVF9pNF82dHpyeGZucVR3dE41NTU3SmZZWXRlWktlbURCc19NTUtsdk5VWnhyLS1jWEhzQ2F5dHNj?oc=5
+- **Source:** MarketBeat
+- **Published:** 2026-10-17T14:50:51+00:00
 
 ## Benzinga Bulls and Bears: Palantir, Apple, Six Flags - Benzinga
 
@@ -249,57 +303,3 @@ _Last updated: 2026-10-17T13:29:27.082880+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMirwFBVV95cUxPRGEyX1B1RGxJUTBLUDNWb3U1TW8yRzNkNTlaSV9mdkJLMkVkSXlMNjhCZjVLalVWaHlkUlhRa0JzbzVLd2d6LWUwcmRTdGhDZzVVMXdkcFFIbEwwQy15Wm5aTEtJeHgzREI3bG14blpJUEpUcnJzaDdxa1YwS1BwbDk1X2E1M21GZXViTEJHSWJDNVh1cmFOUi1ZdVY0RjEtY05oT2VVQU5tU3h6SU1Z?oc=5
 - **Source:** MarketBeat
 - **Published:** 2026-10-16T08:39:31+00:00
-
-## Apple Inc. $AAPL Stock: Wealth Enhancement Trust Services Inc. Increases Stake - MarketBeat
-
-- **URL:** https://news.google.com/rss/articles/CBMi0AFBVV95cUxNLVl1S1MwakdlSTF3LW1FT2NKOElfMEhLdWdXT1JaR0ZtSlJOWUxmV3NKX25IcXB1cDRHekt4dGVhZ3FCZjFES0tndTkzalFEeTdnVFhkSjgtLXExMGdQT2JMeU9hSWl4QmR3Z2sySV8wdXlyc2JyelMwTGZHaHpWX3Jtc0FwUFhZaDdCMUpPY2RzdjB5S3MtZWdNOE15c3VodHZHTkdjcDRGLWkyV3JVdVEydlZFdmQwM3RyQmlCanlIODNDUW42UHZ6MHJCaGNK?oc=5
-- **Source:** MarketBeat
-- **Published:** 2026-10-16T08:39:31+00:00
-
-## Apple opens iPhone Duo preorders. Apple stock sits 2.30 percent below its high - ad-hoc-news.de
-
-- **URL:** https://news.google.com/rss/articles/CBMi0AFBVV95cUxNa055TFg2aXU1cHlvdVBXNmxWVEZDTjFuckdJd0hNbTVfNU5xVUxHNFdNVmhsT2E4dlFMMGV2bUZsXy11RWFETmktdFV4UUxqUHc5VG4tcE9ndGhNaTdmX3FqTTE1SXdSTGMwX3ZaZEJqd2FnQlVnWW83RUxDU1RQVExfLXF0SkZHWWpTY2FMZmlEbC1ncFhBWGRvdUdEVl9ZcFJETWs0TUdMZlY3c19NM2lyR1ZpLW1Md2hSY2J0NURkWFlwc3lJZzUwTHhKQU8x?oc=5
-- **Source:** ad-hoc-news.de
-- **Published:** 2026-10-16T08:06:05+00:00
-
-## 7,180 Apple Inc. $AAPL Shares Bought by Echo45 Advisors LLC - MarketBeat
-
-- **URL:** https://news.google.com/rss/articles/CBMiuAFBVV95cUxQUzA4cUhOWW9jS05JZlpaMElvVXlXODhJNUFfa2Jfd2Z0dHdpMFRabWJGNzVlQncxYU90eHNlV0dmTkJMZVdIbU1yaTEtbGJVbGxmSGx6MjZTMncwVE5vVGRJMHBMeHVXUTFtVW5RUHAtTTJXLXN1eXhDMmR2dmVNRTZEOTlfcHAyLUV5SkJJUE51a000R2lFMVdTanZYb0RWSDk0ZHhDLTFISTdvTmxEMUtzRENQeFo3?oc=5
-- **Source:** MarketBeat
-- **Published:** 2026-10-16T07:41:17+00:00
-
-## Cooper Financial Group Sells 5,935 Shares of Apple Inc. $AAPL - MarketBeat
-
-- **URL:** https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbDZnY05SRVlpQWI3eVg4alF3OFZCNDZodDhDMjFDQldGYUdzUE5lQWhGMG9WWDZlUU5OWkZ4WU1adng1VGk1eDBVVGZ3X0pwN3BRak1HUDFwSDBuSThNTmxvLTRVQV9HM29PZGE2alBGZmZkSTAzUC1objgtS2hWUUloRURFRUZ6RFRwbVhEOW5fTTZhRVA0WDU0TGNpQUJqek5pWWVXQU1rQ1FDd1hpVDZXSG5GYU95V2s0?oc=5
-- **Source:** MarketBeat
-- **Published:** 2026-10-16T07:41:16+00:00
-
-## 11,151 Apple Inc. $AAPL Shares Purchased by Family Legacy Financial Solutions LLC - MarketBeat
-
-- **URL:** https://news.google.com/rss/articles/CBMi1gFBVV95cUxNSUhFdUV1NzZGSHFra3cySGFacktDbFRKLWRtanhGWlVjWlZyY3JhLS1RWU9FMFRUbGNhT3RJOWJCOUhkTXFmTXdtRU10NVNsLXZPNnIwQzI3cVV0U1BxOXRWSDRGYzgzMG1XaEpiaGNaMUFMczZRMDN2U1ZIVjhyMXJmZEhlZmt6bm8taHk5NHVqc3kxUE1SUGtpc2pJLVJvNURNOUVPUkxQbjI5MGlPQlhHdEN4OEU1NmdNNWpTNXc3NGJQVmxhdXB6cGNUNUp3LU5BM2ln?oc=5
-- **Source:** MarketBeat
-- **Published:** 2026-10-16T07:41:16+00:00
-
-## Apple Inc. $AAPL Stock: Bath Savings Trust Co Increases Stake - MarketBeat
-
-- **URL:** https://news.google.com/rss/articles/CBMiuwFBVV95cUxNLTVvZl96RDBPOVgxNnR4cDZXSE9zVFl3WXNKZnJDaXREMVF6OGFCMFFtcmtVbS0xcFhzNXJMRnZSLXNMX0pzNmpYUGVFdk5uRnJ1WjkzckllajZORWtfd2NiMzYyU0d1bkJuRm1XdGlwVmYxMmlWcTJ0UlVWLW1Fa2daMVVPTDF0ZjJRWnFvSnNpX3ZncDFfRnFaSGRFeGRtem1oNEFDQU5Fb3pYZGl3a3d6b2gxZ1JTY3A0?oc=5
-- **Source:** MarketBeat
-- **Published:** 2026-10-16T07:23:14+00:00
-
-## Benedict Financial Advisors Inc. Acquires 2,549 Shares of Apple Inc. $AAPL - MarketBeat
-
-- **URL:** https://news.google.com/rss/articles/CBMiywFBVV95cUxNQjNaV1JyY194NmtEZjJFS21ndjFnZ3otVHNEcC1OYmRNWnFtaFM2cjRyQ3J6UTl0TjRreWc2NkRuUWcxRWVEcU94R3V2VUdPWHJxbEtYZXNEa192QjFxSUJzU2VfajZXdl9LNU1faXpxU014X3ZMaFctQWY5ai1jRlhuM2kzSjdlSWhyTktVeWxZclBjYkI1ckVSVlpLTWs2OWVWcTFsOHBIY0xLY2ZjXzVjUlVOZmJrNmR4UDBOX3l4Wk9KWmMyTm9lUQ?oc=5
-- **Source:** MarketBeat
-- **Published:** 2026-10-16T07:23:14+00:00
-
-## Canandaigua National Trust Co of Florida Acquires 13,991 Shares of Apple Inc. $AAPL - MarketBeat
-
-- **URL:** https://news.google.com/rss/articles/CBMi2AFBVV95cUxPZkJ2TzVSZFZkcGRIVE02M25RMXZFSUdKWmJMOUoyaGxtZURzSHRmMm1RMlFxcGVLS3R2d2tIQkZzVWtub3Bvamk4QTNNUzBQbVB6TGpyM05LVTgzMHoxdnR1WGUtVTVzTjJHeXJjZUItZ3htMUh5LVpKMGs3MzlqSXo0Z1B2SXRGQm5zUHJMWDNSY1k5S2l0WGRmX19ndElrc0cyakdMNlVhOEVhVTBzOUVMOEtmcHFpOTZ6TDN3b2tKODJTYVQ0NXlvNVZveFVfRGdsbzlNQWU?oc=5
-- **Source:** MarketBeat
-- **Published:** 2026-10-16T07:23:14+00:00
-
-## 5,038 Apple Inc. $AAPL Shares Bought by Canandaigua National Bank & Trust Co. - MarketBeat
-
-- **URL:** https://news.google.com/rss/articles/CBMizAFBVV95cUxOQWxaLXdMUE9MRFFiV25naThNRHF0dVdIUW92bk16ZG9wN3NIV3ZONlR6OWdqb0NTb05US2tuU1ozS29hTE5xWlZHUk9SYU81UWVVWmlqQk1nUGVHaUpuUjRjTE9jMDBWWTVQN0o1TkxNS0FrZ2xlbXA5OE5SMXk1dFdNeWx0ekhaRHBiMnJ6VG81SXNyMVZDQTFNYXMxWjVYUlpNUm9zNWRPMEF6Yk5HOGs5dXMxUGlJbUh2czZwRWE2ZDdvaUpQOHFWY2U?oc=5
-- **Source:** MarketBeat
-- **Published:** 2026-10-16T07:23:14+00:00

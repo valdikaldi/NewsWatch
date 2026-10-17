@@ -1,8 +1,50 @@
 # NewsWatch — Iceland News
 
-_Last updated: 2026-10-17T13:29:28.014745+00:00 · 50 articles_
+_Last updated: 2026-10-17T16:52:18.640102+00:00 · 50 articles_
 
 ---
+
+## Reykjavík Opera Days Marks Ten Years With Premieres and Family Performances - Iceland Review
+
+- **URL:** https://news.google.com/rss/articles/CBMihgFBVV95cUxQMVpNaEdqX3NOdTMyaHk1UE5LT1BUNjg1Q01HNWhJeGhUMkllOFNZR1VZOXRISzRwdi1kUFNqWFUzM0RldnFUb1pTRTExX09aNDFSV0NoZXR1c3NPem5Ucnc2SjBNeXlCQ3ZqWkREU0I4MENyZ0hCMjI2dVBCdmFwNHVLN1d3dw?oc=5
+- **Source:** Iceland Review
+- **Published:** 2026-10-17T16:00:00+00:00
+
+## Iceland’s Laugarás Lagoon Offers a Different Kind of Winter Escape - The Arts Shelf
+
+- **URL:** https://news.google.com/rss/articles/CBMif0FVX3lxTE9jdzhfU0JZWFBUVnRYTW1LVFBDVlpxVExXT0NJcy16Tk9JemNDWi10d3dsT21fcVlfclc5VTRZWnVDLVMtQlJUSTA4Y2hPTTZSWk01UmxKc2NCTmt6OUh3Q0dyZXZoS0d6UUFDd3oydjNIeU1kbWVmdWkxdGZPcFU?oc=5
+- **Source:** The Arts Shelf
+- **Published:** 2026-10-17T15:59:27+00:00
+
+## Belgium: Massive Anti-Fascist Protest in Brussels - teleSUR English
+
+- **URL:** https://news.google.com/rss/articles/CBMihwFBVV95cUxQRTNWcV9SNEptckxybUpnbWZTTVNFUnFTR2FHM1hWYnVZX2pFaEtQdmJqOUU0RlpUeGhTSzY0bEU5QjE1UTkzSUp6Zl9rT0QyczBobTU3d3huWjZXaVpGXzdQeVlEZVpCLTViVklhczZzQldUbW5oMTRRbTQ0c1gyMkUxS3pka1k?oc=5
+- **Source:** teleSUR English
+- **Published:** 2026-10-17T15:29:05+00:00
+
+## Vietnam-EFTA Free Trade Agreement: Expanding export markets and attracting high-quality investment flows. - Vietnam.vn
+
+- **URL:** https://news.google.com/rss/articles/CBMivgFBVV95cUxNNXdzcWtzWWtlSm9oa0FVMURfOFRyUk9yemlKUjVJdi1aQXVGUVZ4aE16OUpHSUlKd24xZFVJdGkyOFZFbWdCQ2p1RGpiLVlBeWR6VklhRGtzMm5RLVEwM2ZDdDU5Z0R5alktOF9yRmZUTnZrc1RVZnY1MnZ0SkJnZi1mQTBCSWRlVDlGMkY1dng0VXBwbmg3V0JiQ1lvd0RnX0dHbVAxeWJDd0twNHk0TU82ZGpfSHNQV1k0d2dB?oc=5
+- **Source:** Vietnam.vn
+- **Published:** 2026-10-17T15:17:37+00:00
+
+## Men’s Top 32 Is Set at the 2026 IBF World Cup in Munich - BowlingLife
+
+- **URL:** https://news.google.com/rss/articles/CBMib0FVX3lxTE9iQnpvS2c4M1R6VDhNcnBDellneVRPanlVX01UM01iSTYxQU9mRktWSmI4b2FGdlRJZnhiWlFUczJkWjBYZ19PMU5YS3g1cVdkaUREVENBeHNsV2kybW1hS3BEVTF1TmtaUEJadzFWbw?oc=5
+- **Source:** BowlingLife
+- **Published:** 2026-10-17T14:19:17+00:00
+
+## Watch Iceland vs Bulgaria - TOD
+
+- **URL:** https://news.google.com/rss/articles/CBMimgFBVV95cUxQVklheDFpU3hYUVVLOWIwSl9waDFRUjNhbmpIVDFpSk00OUx6d1JqT29aSFBma1oyYmRDQUowU1lINS1EeDJoSWJoMHlRN0pnVDh6Q090WW5Uai01Q0s2ekd4SGY3ZjBCbFE4bkd5VGFFbVR4aDJhUWkwY1hSVi11OE9FQkRPZ2ZJdDVGakhXNUVTX3JSUVZqN0FR?oc=5
+- **Source:** TOD
+- **Published:** 2026-10-17T14:16:25+00:00
+
+## Iceland Signs Declaration for Three More Rescue Vessels - Iceland Review
+
+- **URL:** https://news.google.com/rss/articles/CBMijwFBVV95cUxQbDRka0pFbHVnRE5zTk9Gc0VxTTZZMWt3MjF6Y3RuUHlPUDBDSFc5c3Z5TWtzZHJBOEdJTENRNWtDSnF3VGc2TzZ2dl8xcDdhRVFnMzhqSy1SWWdoeUhydlZsSG5WUUtWX2dWQ1ZpVTJQYmZkb2ltNXNwRUw5ZDZRMVNTY0ZhMzRSUmRKQjYtYw?oc=5
+- **Source:** Iceland Review
+- **Published:** 2026-10-17T14:00:00+00:00
 
 ## West Bromwich Albion vs Blackburn Rovers: Where to watch, live stream, TV channel & kick-off time - Goal.com
 
@@ -261,45 +303,3 @@ _Last updated: 2026-10-17T13:29:28.014745+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMiggFBVV95cUxQOWZlUDFmeWlCb1I5b1R4UmlWLVpnQkhzTHhVeFBzQjFiNkkwWm1wV0xnWFpkUWRFd2VCdTRqcHNzdnd4Nnd3c0ZJbzhRQlR0ZHhRNHp5RGpKbEp5aENjOE1GNEc5REU0WENNcEEzSU9iVXlVenl4NTRWenVUS2xEY3NB?oc=5
 - **Source:** Göteborgs universitet
 - **Published:** 2026-10-16T09:06:52+00:00
-
-## My Northern Lights tour was cancelled 3 times. What I wish I knew before booking - USA TODAY 10BEST
-
-- **URL:** https://news.google.com/rss/articles/CBMibkFVX3lxTE9RMWxvUFd4U0YyWEN5bTdOWGF0MjEtcjB6WXVqd3FFWmlBMUFiTmFDY2ZrS2dOQ0Nmb1NSRmtwQUVqQktIRzF3T1JUUnYtaGVBWmdaREVwdVlUdTRKSWhfZnBLV0dqU2sxS3FFYzhn?oc=5
-- **Source:** USA TODAY 10BEST
-- **Published:** 2026-10-16T09:00:00+00:00
-
-## Flash floods kill five and destroy villages in central Nepal - AOL.com
-
-- **URL:** https://news.google.com/rss/articles/CBMiggFBVV95cUxNVDlOUnc5eXZJWnlVNVZzWlJEN1I0WENnTGZ6NG4zT2VPdk1BSWI2U19WZjg2amprVld4ek1qUEtWbEtJUDU0emlMamU2WjhFNENEWTJGQXl2TldHa1hkUGc0OFVRMlh2emhJSXBxVGFPRldyRFhBcDRGUUY5VGZpeWVn?oc=5
-- **Source:** AOL.com
-- **Published:** 2026-10-16T08:53:26+00:00
-
-## Andervel: "Iceland has taught me a more playful way to approach music" - The Line of Best Fit
-
-- **URL:** https://news.google.com/rss/articles/CBMiggFBVV95cUxQZWdkMkI1V2piV2gxM2MtdENLeEU5bGJabUtxMnlfbnlSeVJ6dkktaWNkT0JtQW9uSFpJT2lxNmdoU24zRnVhRXpSdzAwV29aM29HRnEtd0RZakFob1k5RHpSZ1dhb0xiSjB5TF9JUzVuNWZwZFFVSXRJdzdHMUFUODV3?oc=5
-- **Source:** The Line of Best Fit
-- **Published:** 2026-10-16T08:26:15+00:00
-
-## Faroes lose Iceland capelin allocation amid fisheries tensions - Undercurrent News
-
-- **URL:** https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRm1LbHgyTWNvTjYzX09zTXlxb3ZJMUtfdzNsMXp3OWJRWmVsM1hlbmlYUTlNRGJyQmk1U0R2aXVNRmJ3OTJBYTZwcVZPa1hxSTJ1dkt4YWxIWHhRclc1X1Bsbl9sWXo2MjdBZ290b1ZmUjRZVUR3RnBDdFg1UVJMWGlSQ3hzM3p5M0F0UFNYVzJYem42YlR3cnlGUXFXVUpzRFpHMlBUeFFVVU0?oc=5
-- **Source:** Undercurrent News
-- **Published:** 2026-10-16T07:37:00+00:00
-
-## Icelandair and Southwest to Link Loyalty Programmes in Spring 2027 - Iceland Review
-
-- **URL:** https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNWFvdzFYLVh2dk8zMzY5YVFoU1BaVVFLbVQtLUoyQUJEbllTWlZvckZ5TEZJbUV1OXYxUjBFM0tqZTFFeXRvNjZ6Q3dFemVPWFdHa0Z0MHVKX2c1NnRkV3lYZ2s2X25TdS1SME1SRGh1ZDJSbnJyOVlqZTQ3YzlaZVpjUDladVN5S2pz?oc=5
-- **Source:** Iceland Review
-- **Published:** 2026-10-16T07:00:00+00:00
-
-## Icelandic Mountains by Archie2022 - ePHOTOzine
-
-- **URL:** https://news.google.com/rss/articles/CBMibkFVX3lxTE1ZUnZkeUVpWWtWZEdKdUpjVTRfd0RxSnNld3BmMF9qYkNpRmZ4X2FFNENXdjRVQXE5aW1mcV9DQTB4T28wcXY5a1d2clBpMkZhRFpta1dKSDFyUTBOR0U0NGlfX25YU0UxSGxPZUlB?oc=5
-- **Source:** ePHOTOzine
-- **Published:** 2026-10-16T06:21:54+00:00
-
-## Tickets and schedule for 2027 European Championship volleyball qualifiers at Largs - Largs and Millport News
-
-- **URL:** https://news.google.com/rss/articles/CBMiqgFBVV95cUxQeXRqV2ppcEhZenB3VXdweGRCZ01fZEgySWtHLWd6WGZoRFNfb3d4TEZXdFBodXRRV2luUWtObENnSnpzTWc0c0ozMEp5WW96UDZKOWhzM09LQ1pfOTRBUm5lTmpWdUZCZVRqcm9sSXJfNXFIYWNxR2RsbHB0Ni1WU01ENEEtX2gzeXE5aFk4cUc2SXRZa0x2UzNIMk5HZzN2MGtLTzVVTFc0Zw?oc=5
-- **Source:** Largs and Millport News
-- **Published:** 2026-10-16T06:06:07+00:00
