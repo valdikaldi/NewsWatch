@@ -1,8 +1,20 @@
 # NewsWatch — Iceland News
 
-_Last updated: 2026-10-17T16:52:18.640102+00:00 · 50 articles_
+_Last updated: 2026-10-17T20:14:34.209474+00:00 · 50 articles_
 
 ---
+
+## Eldur í vinnuvél í álveri - RÚV.is
+
+- **URL:** https://news.google.com/rss/articles/CBMifkFVX3lxTE03RGYxVTdnTy1ObGFzNW1CVDQ2ZkdGeXM4YWJwR3lKVzVBd3IydFRScXNiQUFxN000WUFMOUF0MFhQMU5rUG5lMEo0Q3V4XzZmbGswT1RSQ254UnRZSWVxb3hJa29uZi1saUduSlJ2a3pPLWJFMV9mNnU1T3Vvdw?oc=5
+- **Source:** RÚV.is
+- **Published:** 2026-10-17T18:35:00+00:00
+
+## Weak mag. 2.3 earthquake - Iceland: 8.6 km NE of Hveravellir on Saturday, Oct 17, 2026, at 04:54 pm (Reykjavik time) - Volcano Discovery
+
+- **URL:** https://news.google.com/rss/articles/CBMiwAFBVV95cUxQMTNhS0ljQkxxbWNpUm9DdE9jalpMLW1RTXd3Uy1KUTNCMlhiamxXQXRnNDhQSC0yTVpaTWRQQkNweVcySS1NaWktVEcwVzNhdVQ0NnJvLXRBWG9TVzZoLVRkV1ozQlFmWjZpeDAzTWh6VmhLU0lwR0x1NTR4ZklVUE9EY1NnRk9hTE5wR21iUUpNMkstU3pKaDlyX18wYWszOUFqNm1fUW1GdjFmc1d4YWhrTklIV1JkWDkxUFZyMFk?oc=5
+- **Source:** Volcano Discovery
+- **Published:** 2026-10-17T17:14:14+00:00
 
 ## Reykjavík Opera Days Marks Ten Years With Premieres and Family Performances - Iceland Review
 
@@ -291,15 +303,3 @@ _Last updated: 2026-10-17T16:52:18.640102+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMinwFBVV95cUxOb2JvRHRJd2Iydl9nWnc1RkpLZ1h3TVlNdWU1NWZNakZWci1KTUN4VTFxREJkam9fX2ZVLXZuRTB1ZG1HUVM0U1VOTGJYOGZHbWJNMlpLOE12Z19DdV8yUGstc3VHTGdlbnN6Ri1RdjNlYnpGMXRJZmc5YWVhbnNXNmJuNXJST0UxVmZLTkxIRWxQOERPeExNR1lhbUtpNW8?oc=5
 - **Source:** Time Magazine
 - **Published:** 2026-10-16T10:00:03+00:00
-
-## World Food Day 2026: India Ranks 100th Among 122 Countries In Global Hunger Index - Free Press Journal
-
-- **URL:** https://news.google.com/rss/articles/CBMivwFBVV95cUxNM1Jua2poQTJ3S0EtTHI2ZlhaZEktR3ZkNGsxeUJ6clcyZFh2YWg0QnNDRjRhTzZvWlI0SmxnWDhtOHdPOUNsSkRMSzBweFhNR1d4enpuODZvaVAzelJkWXBWdnNNUjF1Z0M1LXMtRWFYam41dmswenZ3akgyVnh2eVcydkpMamRhN2N5U0dRa3VfdmJwSlRzMnk4YnA4WUoteFZQM2RreVROU3V6NDJRQkxlZ2VyaVNPclc1cWlaMNIBvwFBVV95cUxNM1Jua2poQTJ3S0EtTHI2ZlhaZEktR3ZkNGsxeUJ6clcyZFh2YWg0QnNDRjRhTzZvWlI0SmxnWDhtOHdPOUNsSkRMSzBweFhNR1d4enpuODZvaVAzelJkWXBWdnNNUjF1Z0M1LXMtRWFYam41dmswenZ3akgyVnh2eVcydkpMamRhN2N5U0dRa3VfdmJwSlRzMnk4YnA4WUoteFZQM2RreVROU3V6NDJRQkxlZ2VyaVNPclc1cWlaMA?oc=5
-- **Source:** Free Press Journal
-- **Published:** 2026-10-16T09:59:07+00:00
-
-## Gyde launches Iceland’s first blue community garden - Göteborgs universitet
-
-- **URL:** https://news.google.com/rss/articles/CBMiggFBVV95cUxQOWZlUDFmeWlCb1I5b1R4UmlWLVpnQkhzTHhVeFBzQjFiNkkwWm1wV0xnWFpkUWRFd2VCdTRqcHNzdnd4Nnd3c0ZJbzhRQlR0ZHhRNHp5RGpKbEp5aENjOE1GNEc5REU0WENNcEEzSU9iVXlVenl4NTRWenVUS2xEY3NB?oc=5
-- **Source:** Göteborgs universitet
-- **Published:** 2026-10-16T09:06:52+00:00

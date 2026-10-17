@@ -1,8 +1,68 @@
 # NewsWatch — fusion energy News
 
-_Last updated: 2026-10-17T16:52:19.071486+00:00 · 50 articles_
+_Last updated: 2026-10-17T20:14:35.944322+00:00 · 50 articles_
 
 ---
+
+## Leonid & Friends: Performing the Music of Chicago and More! - Gridley Herald
+
+- **URL:** https://news.google.com/rss/articles/CBMiogFBVV95cUxOSjZrTkhleDNnc3BaTHRnendXYWwya0R5QjY0MjM2S0p4YXdPbnpwdnljTmVSUHlrV3p3RWt0SUxYSkx0MW5CYkhib25LMDljbndjYlFDV0FyM1d0T3B2T0xldWtQTHRfZTJydVlwb3JWZURKYzJiWjJUdGlRTHB3eVBFbDhCY21zV3paRmZ0SlhTLVVYT2VzbmtNaldkOFNGa1E?oc=5
+- **Source:** Gridley Herald
+- **Published:** 2026-10-17T20:06:15+00:00
+
+## Learn Why The Bull Case For Enphase Energy (ENPH) Could Change Following India Gateway Launch - Simply Wall Street
+
+- **URL:** https://news.google.com/rss/articles/CBMi1gFBVV95cUxPaDM4YmszdkhZaFI3OTJBS1Z0NW9fTUVIWURFNkItT3o4QjdlRlJKc0xrTkNLT1AzdDluVUw2VklieFZCYzdicS1uNTdOQ2pHNFEyYXlzQTBUa2dRRVZEa1hkSW9BMUw3TldHTEdIMDVGWnU3RVRNTE14NWNLN3pySGlaaThmTkRPYzVBcG5rUDNpekNvVlJhX09fLVlOdjdhbnBtZEJ6ekl1RzIxVlJFWGVpdHlXQ2M2QnhuV1NtTEEyRkg2d01KUmJsb1NtMm94c2NjX2pn0gHbAUFVX3lxTE51MnNJYlV0WHBSSGNTQVoxbFJOVGU4TmQycU5mSU1PQjFmM0NGM2xnMEVXNm1nZE50UWFObDdpWUZoNEJXdGpXLVRKSVNQcFgzaVZqNDFiNzV4MjlsN3BsaktzWlFFMWdvckllbXFIY0ZVemtyY25jeFoyX2xCOUJ2NEJ3QlpJWEpWV3lYSVhWVnNpX2JKd2R5S2xDNkg5OEFnTk1hZk05ZGs3YU5vLW0xMWUwcVBSTzBpYVpQejFON1V3emozV24zczBLbDVUamZZTk1lREVUUUpCSQ?oc=5
+- **Source:** Simply Wall Street
+- **Published:** 2026-10-17T19:49:20+00:00
+
+## Google's Gemini AI helped disprove a 60 year old fusion physics conjecture - Startup Fortune
+
+- **URL:** https://news.google.com/rss/articles/CBMiowFBVV95cUxNcU9FV04yMlNqdzNMVjlzNG5BYVdFdU1SRmdxOHlxNnF1Y185ajgyODRaZzljUGZuc1Ayd2RXTGMwcXdOWF90YklWSXRlMW9WSjNWNXlGRV9jeGFjeDVRZDFSU0c0dWNOZjF1VENuOTZZeUI1QkRGd3VjTWFQcFpmT3VuWUE2dG83ZWoxbFJoNXBMc2JCaEJDZlNJcHkwU2J3ZUNV?oc=5
+- **Source:** Startup Fortune
+- **Published:** 2026-10-17T18:15:55+00:00
+
+## John Sparrow Steps Into Spotlight With Explosive Single, ‘Aye’ - New Telegraph
+
+- **URL:** https://news.google.com/rss/articles/CBMikAFBVV95cUxQZms2amh6Tm14Y1lnckt1Q0dLRkRfSnp4TlF6N0UtS3Nsd0dkODh1OWFGVm1nWDRRN01NdlpxX2lNUG9aMHFzbVc5UUZoY01ORXRWZUF5WUxwRndYT3BRUk1iRzdTNEdyOE5TeDNQV3hIYUZDZWtrektHRzgwUExCOFFhMkIyVF9laEpkeWRRRU4?oc=5
+- **Source:** New Telegraph
+- **Published:** 2026-10-17T18:04:10+00:00
+
+## Kay Da Ace unveils ‘7 Elements’ EP - Vanguard News
+
+- **URL:** https://news.google.com/rss/articles/CBMieEFVX3lxTE1ka0V1NEtRelE1QWJjWFh1ZU9DbzFsWUxYZDdGOVJkZF9pYVZ1Xy1wdjNYRk5pVTRfZjZGazVzT210T3c5VzlrTTJoeE5BbktOcklJRExCcmZkeVpyNl9Yc3J5V1RBNVF0aktEY0FXSDE5VGVibDI1X9IBfkFVX3lxTFBiQjNmd0FzdDlzMHh0R0VlaWZEb0pPVUFVQVpCTDVxd2p3eDNnNC1CSHd5b1B3eHhrVnlIdDI1aEx5c3Y3M3lBRGNkdmFTanhxbnktdm9EdDNJeDZ4OWdhUmI0VEQwLVd4X21DTVJPY3hFYnl5UEJIZmZMam8wUQ?oc=5
+- **Source:** Vanguard News
+- **Published:** 2026-10-17T17:53:59+00:00
+
+## Princeton physicists reworked a 70-year-old fusion rule and calculated heating plasma first is the lowest-energy path to fusion ignition, while a trace of tungsten can roughly double the pressure - ECOticias.com
+
+- **URL:** https://news.google.com/rss/articles/CBMizwJBVV95cUxPOXI4OHZGOGJoZEUwbWZKcTMxbG1nb1hEQm5kamdHamtLaWlxUGgwN2NnWG4zRzJ6NjZLMTBPT3Q1VFI0dUZxZU1oSDlONzBCamlCQldOa21pUEdOVlNEYUJzdENySnpSQm9OSkVsbzQ3M2hYRDZMSFJReFNpdGw3eFNMR1E1cmpLOTlnVzFQQ1lyNUNsZFRfMHVoRkt0eWl4bmZKaXRnclQ4WU1HN2tvYzQxUHNhVWdLS3ZSWDZkeUhxS3BrajRVSW95REllVUtrM3o2UkIyeW1qZFpSV1ZJdEdvWWlJWE1QUlFGUVN5T0tYbm9aTlZTcUJOdjItTDlzN0Z6am5hN1ZsdjZ6T2RBcHZnaS12ZnRqSGp5N05sN2hMQ25ZaGlxb3RfcGFWdjNIUURqbFdmZUxUZHZuNHBqZ0d3ZVZHWDRBbC1kS1VETQ?oc=5
+- **Source:** ECOticias.com
+- **Published:** 2026-10-17T17:46:00+00:00
+
+## Inside the virtual test cell: how neutronics models are shaping Europe’s fusion neutron source - Bioengineer.org
+
+- **URL:** https://news.google.com/rss/articles/CBMiuAFBVV95cUxPeFRPRUZ2Tm9CeWxtbzdVVHAwNXJJR3RpQ2FqdEFZbUkzU0w2NVNSemJGbnJmX1VhZ0tYdzhqN0tab0h2eHlGUEdDMmdjRjlxczVrRzNSNkRzOS1ZOUZEVEhYOE9qVjBxSno4ekkwZkFla2w2NW91cjZlZVFqQ3FvZW9jb3NkV1gzZWRxemNUTkVKYzViQktnZ3RrUjJkVzlmTGIyN2gyUFZFZXJha0F5U083QTZFQnVx?oc=5
+- **Source:** Bioengineer.org
+- **Published:** 2026-10-17T17:16:18+00:00
+
+## BLR Boys bring nightlife energy and luxury dreams to "Lapdance" featuring 6uff - Asaase Radio
+
+- **URL:** https://news.google.com/rss/articles/CBMiowFBVV95cUxPbVJZN2JWblJFOGNWS3BvQVBfZG54Y3ZDNjVVZmo1QnVRMTRlUS1VTFhvQ05IRWQzZjRpajVuQ2V3eVQtZVN3M2psajBTekhiMV8xOGxOamVYdkxzNVRzVWpxU2N6VG95bTVFZVpNanBKQVAyWHQ5YVpaajBnZG53UG9KclBzdHZHRzU5MXJmNkhYV3FGQ0NOd0hkbUNmZ0RRZTRV?oc=5
+- **Source:** Asaase Radio
+- **Published:** 2026-10-17T17:10:13+00:00
+
+## Kay Da Ace Injects Fresh Energy Into Afrofusion With New ‘7 ELEMENTS’ EP - Tooxclusive
+
+- **URL:** https://news.google.com/rss/articles/CBMiswFBVV95cUxOY2hzQTNWYjhFWFdXVnhhZDRFZTRUckVVRnBEekhQRmJyYWdxbk85WmtyVnJHOTVWLWNJQVFSSTJqR2RSclE5MWFXenVDa3Yya0UwUUdncmdCY3NvQmNNeXA5X0N4bk5zMmVobC1YRWNPSXlsOXZXZWJMWGE2bGkzLTkxU0tTNEx3UEUyaUQ3U2x1Y0d1NC1nVUQtc05sMG55OW1YN2tPNkc5Ym5ydGpsY3Q5bw?oc=5
+- **Source:** Tooxclusive
+- **Published:** 2026-10-17T17:08:32+00:00
+
+## As Bryson fire reignites trauma in Malibu, neighbors lean on one another - Los Angeles Times
+
+- **URL:** https://news.google.com/rss/articles/CBMiwAFBVV95cUxOazA4VzQ4dHFKUGxVaXc1WElvVUh0RkFScmRwV0hZWS0yb3FndW1nTi1SZmQwUlhYQmRHUkl6dFNxNFplZkpkUVNUYTRZZUZSR0s5RVBGNnF3MmpNWTA4R3BhNGZsUFMwTlJsQnFnUWlNSFFGWW1QN2YzVlFnVTdremZnaXdMelh2RmNvVDhVR1k4UDZDQk9LZ2RFdERtZ3Z1NzF2Mml2MGF2ajB0dm1JNk9VVTV1ZmhEY3Njb2d6Nzc?oc=5
+- **Source:** Los Angeles Times
+- **Published:** 2026-10-17T16:59:28+00:00
 
 ## How Electronic Music Subgenres Continue to Evolve: Fusion, Technology, and the Rise of Microgenres - SIDE-LINE
 
@@ -243,63 +303,3 @@ _Last updated: 2026-10-17T16:52:19.071486+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMigAFBVV95cUxQbm5WZGM5c3UtVE9aWTIwVHBrNENyZ01ybnFfY0tVdUpDTk5pMWxtLWJjYXlHWXFsZWx6U0k1QVZyWE9Ic3hkVHZKZ2lRZjVBSDQwQUs1VkpPZUtURjI4OUNoTm90V2s4R1FHUUNPaGVEVWNVN3pPZ3A0RTY4bjhVWA?oc=5
 - **Source:** Manufacturing Today India
 - **Published:** 2026-10-16T07:37:04+00:00
-
-## General Fusion Announces ‘World First’ Milestone Path To Commercial Fusion Power - NucNet
-
-- **URL:** https://news.google.com/rss/articles/CBMitwFBVV95cUxOYmZRdVU1WUlUYjh5XzZyVUlSVHVCdmg2aEE3ekg3UUZYQUZUZjJOQmVHMlJzaWhad3dsUE5keUEyendmMUthYkR1MmF6dG4zYndUN0JaUGJ2RHNlTUlYM3NYMDVLRWFRNVQzNDRUUXlBUjJ5N0ZYOTNiTFVFa2U0cmhwc1ptb3hjbFVCaU1xY041dXAxeDQ2YUJvckkzTzFyOUhvTG5UQjFwYVppdTI4V2Q1NGM4dDQ?oc=5
-- **Source:** NucNet
-- **Published:** 2026-10-16T05:53:23+00:00
-
-## Pérez part of national engineering alliance’s leadership group - Nebraska Today
-
-- **URL:** https://news.google.com/rss/articles/CBMilAFBVV95cUxPOXZJNklXMGdSUUpILWd0djFJcDlNXzU4aWVNTnlITjhnaVMybFh4Y1hPSWlBWmU2TWFMQkNkN3NsdFZLMVhDcGxYck5qLWhpU092ZXpoamVKdDVaMkpfWERzYVV6Wi1rSlFJLVU1RjZ6eDFRVU1RckJjSGlDa1J1ZVA3REJwa25rR19aRUpxdjRSTy1n?oc=5
-- **Source:** Nebraska Today
-- **Published:** 2026-10-16T05:32:27+00:00
-
-## Breaking ground today on a transformational project at Mount Baker — more than 400 units of housing and a new early learning center, right next to the light rail station. We need more housing in Washington state, and we're excited to be a partner in making it - Facebook
-
-- **URL:** https://news.google.com/rss/articles/CBMi2AFBVV95cUxQUWpfN1c0dmJ3a29DNWo4UTkzVTZHNzluMzJCUXJqazJneVNsSmxEd0tYMWxyd1BXNi1ldHVjMGJNVFZQMV9WMTc1TjRZVjNSSUVmYUVpNklPb0dFRS03cnZXdTFHRGN2TEhXeFJxaFl4VlJlaWRTTERkVy1tUUpCU1dfcC0tYUlBZEd3dGJObm45dzhWcTBvc3J1Vng0dUxGSEdHQmJtel9CM2pqQmxxUkEweXFsRkQ4SmhqU09SVHFnQ0QxSWhwcm0tSzJMSnBOcmN2UTBTdC0?oc=5
-- **Source:** Facebook
-- **Published:** 2026-10-16T03:42:33+00:00
-
-## Trump Media (NASDAQ: DJT) And Rumble (NASDAQ: RUM) Stock Tumble 5% After September Inflation Tops Forecasts - Foreign Policy Journal
-
-- **URL:** https://news.google.com/rss/articles/CBMi4wFBVV95cUxOdFJqcjl1Ti1KcmhyVGdDc29sN3l5UmMxdW1XbVhrSkxGN0h3b0FoQjdpajVkMDFYUHhkXzFNNExjM3NkRzZ3Q2FyLVp2OXFKTUtreExPckZPRExoSjBLelhidDhNcmN0X3lvelBkMEl6bmsxUU1ERzRjNVB3Si04LV9IWkswZFdCck9UMkstX3g2YXZRSEpWWnBSZTNjdmlfMVl6TTh5Z25uUkh6ZWhxR1JRaWljNDQ1Rnhpekc5N3FPMHVBNDJMWlhIZ0s0Y1liQXFwMDZQNXlpenZET054dF9NNA?oc=5
-- **Source:** Foreign Policy Journal
-- **Published:** 2026-10-16T02:45:00+00:00
-
-## INL opens molten salt testing facility - American Nuclear Society -- ANS
-
-- **URL:** https://news.google.com/rss/articles/CBMigwFBVV95cUxNYzBDMnZFam4zY3JFYS1SdHEwMEN1ZmFwQmZ3MS1RdkxTdEpHaFdVbU40LWE0NUVoYkRWdy1GZVZPUW5zYUFiSDE0bUpGbXhBRlVLT0w0SmNZUmhXWlBUTjFySUdtUnhBNHcwMTUtS0dIb0tBaVFMMnE3N2RIdXV6ZERWcw?oc=5
-- **Source:** American Nuclear Society -- ANS
-- **Published:** 2026-10-16T02:30:06+00:00
-
-## Compare Motorola One Fusion vs Oppo Reno 16F - WhatMobile
-
-- **URL:** https://news.google.com/rss/articles/CBMidEFVX3lxTE5ER0J6enBpdEN3aENZaHg0Nlk1OVRNamh1cXNjcWlscng5eEN0aGJfN0NmVTdhSGhfVUJVVDZrQ2hMNE1UNnhXU2NDVWRPRDNOdnpmcWRCWl9ZemVaTEZfenJPWmhpNmNFZ0VrYnUtWnNaNXBm?oc=5
-- **Source:** WhatMobile
-- **Published:** 2026-10-16T02:25:59+00:00
-
-## X-energy, TerraPower share updates on advanced reactor projects - American Nuclear Society -- ANS
-
-- **URL:** https://news.google.com/rss/articles/CBMisAFBVV95cUxNYmZZeHNxSTUxZEdhd1hUTm1aRUhsZlBwWTRIdl9XRFpmRXg4UFp2Yi1nbkR6STgyNWJxMXFMZWpaWjNqRE1hdXNsY0dSUWxNdHAwenRBN2k5YmU2UTA2cjBOUHFxMy0zbUEwSWg4d2drRGxBU3JxdnFoSkZaVmRmX2poQk0zTlE2SkNCMGxfTW42cW05bTNOVFFYVmszWDBhcWdWY0NWV29mb05CVFVHNw?oc=5
-- **Source:** American Nuclear Society -- ANS
-- **Published:** 2026-10-16T02:13:03+00:00
-
-## Cold Fusion & LENR: From Nanogaps to Megawatts? | by Tim Ventura | Predict | Oct, 2026 - Medium
-
-- **URL:** https://news.google.com/rss/articles/CBMiiwFBVV95cUxORGU0dTFOclhSWGRpc2xmUjZSQlptWEdDdXRPZjRMZ0ktWmVMUGRFV0N2dzkycmN2ejNJdmdMT0xlWE9hWkZQMDdJTUpkSlJ4Tk5JS2RsLW9SWkR3VDE4UkVncmdsaVVCUWlSd3gxMWxCNFRoUWZEajNkekZnT2lpaTduc2hGdGw2OVQ4?oc=5
-- **Source:** Medium
-- **Published:** 2026-10-16T01:34:24+00:00
-
-## Tesla Energy Chief Mike Snyder Reportedly Exits As Elon Musk Pushes AI And Robotics Pivot - Yahoo Finance
-
-- **URL:** https://news.google.com/rss/articles/CBMikAFBVV95cUxOdGxZaHBnLU8wMUEzMVBQTzlmdGp1dXVXd0JFd0JfNnl4LTJJRXFKeTVxRGlqcHZiWktXazNtTG5pNmxiVThtWHI5eXg1M0tpOVRvXzVfUUIwMWFFbzdEcVJ6SXlfS29kUlVia1VtN1hTQUU2ZHduV2pOTjB3eVg3STV6aGhvYU5iUlo1QVVnOHg?oc=5
-- **Source:** Yahoo Finance
-- **Published:** 2026-10-15T23:18:25+00:00
-
-## Fusion research tackles fuel and instrumentation challenges - American Nuclear Society -- ANS
-
-- **URL:** https://news.google.com/rss/articles/CBMinwFBVV95cUxOeE53WkNpV1VzNThUR3pjTlF4Q1FsUDQxOHk5MHBna3pqQjFoSUE0NjBseTdBVnRYekJKWldzMV9MSXNnWkxEcHE1R05NazUtOGZWajU4ZUVfUzZoQm1aakpDRkFfNmVnREYwZ2dzM0tleW9WeDY1b096WldPSUx5RFdKSmVJQUV0cVlCWnRDRy1RQVhLWGp0WHdHN2wzNFk?oc=5
-- **Source:** American Nuclear Society -- ANS
-- **Published:** 2026-10-15T23:09:02+00:00

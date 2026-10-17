@@ -1,8 +1,86 @@
 # NewsWatch — Microsoft News
 
-_Last updated: 2026-10-17T16:52:18.224277+00:00 · 50 articles_
+_Last updated: 2026-10-17T20:14:32.849663+00:00 · 50 articles_
 
 ---
+
+## WARNING: ConnectWise Supply-Chain Attack Exposes Microsoft 365 Tenants - LinkedIn
+
+- **URL:** https://news.google.com/rss/articles/CBMijAFBVV95cUxPT3BaSGs5Y0R6NjR0RzRITVc2TGo1Yjd6aVFIamM0LWxzeEM2S1lhbEkxOWc0eGh6ZGY5XzNpQXNmcmoyWmtuQlRjN1NwQVJ5UER4TFh2ZEF1WXNWT0phNlJRUFJoY1c5Z3RBcHE0NXNMMlpTVndLeHBiYllHVUpDOUVmNzI0eEdBQzZZRg?oc=5
+- **Source:** LinkedIn
+- **Published:** 2026-10-17T20:00:06+00:00
+
+## Microsoft Vice Chair Warns US Visa Curbs Could Drive AI Talent Abroad - BW Businessworld
+
+- **URL:** https://news.google.com/rss/articles/CBMiswFBVV95cUxNNU4xQ016bnRfZDdyYW9OZEJpU1Itemtfckdkb25ReGgxQjdMWmJCckIyN1ozOXZjYVRadkVSWXg3X3JDMmFsUkdPQjQway1jWXJCVkYyN0lCVEpLdEdVNHBtaWhqWHJoSDZnNW9uaXpucHlwWnI2VmZQRTFIQUh2Uk1jSGVWb2tFdUd1V2Z4Zks0WndXOENtV0RERzNXekx6LUlpamFibXNhQ20zMXBOOGo3NA?oc=5
+- **Source:** BW Businessworld
+- **Published:** 2026-10-17T19:49:32+00:00
+
+## Microsoft disrupts Chinese-language phishing kits behind 1bn scam messages - The Next Web
+
+- **URL:** https://news.google.com/rss/articles/CBMikwFBVV95cUxNWWRZNWNlOXR5ZVJTemJRU1ZGRkljVGhmNEtTeHRtaGpaVjNnUlpTcjhpMHc1OXA3X2dpaXJCa0N2YlhfVHU2Vno0aFJ6MXllQ3N2TGZPWWhjNmFyc0FRa3AwSTJBZWhPUmhzakZnTmRCaGZOWlpLa1plT19qaFFUcUhZdDZma0JHdEltSUhfTDhZYW8?oc=5
+- **Source:** The Next Web
+- **Published:** 2026-10-17T19:35:21+00:00
+
+## Microsoft's Maia 300 swaps raw compute for a 2.5x memory bandwidth gain as it moves to make in-house silicon its main AI engine while claiming a 40% efficiency bump — could going the Google route be the pin that pops the Nvidia AI bubble? - TechRadar
+
+- **URL:** https://news.google.com/rss/articles/CBMihgNBVV95cUxNenhHLTV5aWcwRlkySV9IVURTellwS2p3aXZib2lnLVdrRDl6OGIyNmd3R0MxY0FXdE1oSW5FSDQzcHZIS00weExLZVZWWGJNRURrNmFKRDlMLW12M0Q5VnUxVFNtaVdXZU1aZlM3RFJHcjltZXoweWgwLUR5SjBCVlRWWGI3cmU0ZXdSMGpnZ1duU1BwdzZGc1dBb3hNSXJmNTNia1pHTzZ4WHF3Ukw5ZU9MQ2E3eFBqWDhma1BVNkM1QnJLdUtZaXF4WnloM2Q3SXFCYU5SNDVhS2lkSzB3akZkaEQyckw5Y09JRmt0REoyRlNJSGYteE8yclhkd09JWVJTUENNbkh5MmRHbEl1aEt1cktVYW9ZX016OFZtMHZWckpYcFBuOVoxS0ZRVDRTZ2w4Qy1iVkJoMWUtZXBuR2RhS3hVZFdPX3FDbWhpYlZmUjN0Q2thbDVqNXhYTnZyRGJtYVpyNEpiZ2lqOXZzWEo3S09CbzRpZHl2cHFZb0hsOTFqSHc?oc=5
+- **Source:** TechRadar
+- **Published:** 2026-10-17T19:20:00+00:00
+
+## Microsoft (MSFT) Is Facing Fresh Regulatory Pressure - Yahoo Finance
+
+- **URL:** https://news.google.com/rss/articles/CBMipAFBVV95cUxNak9LNWhqSzctVl90YWxsZ3lCT0Y0TXNTaW9RWWFtVXdFWWZ0VVJYdUlDWGF6aGJkMElWaDd6YWFhYkFVUzROMFExOWdDS1p5dlpQbWdWMU1xS24tYVd6cTFxT0NEOUZtbHZndHBHM29EM0cwdzFMSzEweGFqbmlZdDB5Q3J4alRNQlVrZ2dseTBSOHF3WFU5Uzc4VUo1QUd1MS0taA?oc=5
+- **Source:** Yahoo Finance
+- **Published:** 2026-10-17T19:11:24+00:00
+
+## Free Microsoft AI courses and certifications, the 2026 guide - Pasquale Pillitteri
+
+- **URL:** https://news.google.com/rss/articles/CBMilAFBVV95cUxPdFNQNU54amJacVlLT09qTk8tRHJSNEZfWDk5WlhtMGJBc0IzN3NHOXVNcEVRcGt3SUc2VVNiUGxBTU0xNEk3dzRnY3NraVZfNjFYR1hQLWlpTTZmZExOMUlHQkNIYlpIU1pzODVOSC1MX3c3M28zRU4yTThwUVRXd2F3M1BDZE9MN3lzM0RpaHJXZDRG?oc=5
+- **Source:** Pasquale Pillitteri
+- **Published:** 2026-10-17T18:23:17+00:00
+
+## Microsoft's AI Spending Under the Microscope as UK Weighs Strategic Status - ad-hoc-news.de
+
+- **URL:** https://news.google.com/rss/articles/CBMi3wFBVV95cUxPN0lLZHVBSWVPTE1rUGVROFFxdXRseDlBUnhxRTA0N3BCYy1JbjVVVzZkS0Zjb1NORmJhVGlibnhZajNwZURwVS16eEN6alF5UGxhc21YZW5OaGE0RkFJaGNTRFVZbkdwR09xRG5wSUNMSUxGSERXS2VwZWl0RWhhU2VaUmFHVXFLcy1NV2ZGaG5DQld6T3VLbFJZWjFnNEVJZm5BdG42LW1oNWVQV2duQl83eTJZc2g4NWNLZWt4dlV0TWJ0MVVfLVFZSXpGWWJkTFJENTZIWC1sdkc1Yy1Z?oc=5
+- **Source:** ad-hoc-news.de
+- **Published:** 2026-10-17T17:50:59+00:00
+
+## Get Windows 11 Pro for less than the cost of lunch — just $10 - Seattlepi.com
+
+- **URL:** https://news.google.com/rss/articles/CBMigAFBVV95cUxQNmw4bUhEa3F0QUR1SnVvQ0dHZ01JQWJNeGtiNW05VmtfSVA4MDBtcG1XeWMwRHV4Mk03Y1FDM0J0T3VsazJjM1RIVWdZZF9UQ0NURmt6bjB0MHhhZWxIWXV2SnR3akQ3WDB6dDAxRVdkQllOUFlsZUdkenhTbGFxdA?oc=5
+- **Source:** Seattlepi.com
+- **Published:** 2026-10-17T17:33:59+00:00
+
+## Get Windows 11 Pro for less than the cost of lunch — just $10 - MySA
+
+- **URL:** https://news.google.com/rss/articles/CBMihAFBVV95cUxPdTFMNmtIMHl2Y3VpZUtpakUwOW45azJfWEd6dmNVUWJaUi1QYkJkSExGQ1Zoc1NwYTJjWjBBUlkxZ19sM0Nyc3pZZFpZVDVYdTdOdjJ0NERzQVd4QVNPQ3N5WUZROU9KNlhKYWJKNTZ6c2wycnQ1LW40MFRxQ2JyOHg5azc?oc=5
+- **Source:** MySA
+- **Published:** 2026-10-17T17:32:42+00:00
+
+## Windows 11’s last Secure Boot deadline hits Monday, Microsoft reveals what happens to your PC - Windows Latest
+
+- **URL:** https://news.google.com/rss/articles/CBMizgFBVV95cUxOUVk3cUh6ZmxEcmZxa2hlZkRIbFZJR2RGemVTdExWOXpSTGdqMGxJekdvM29iNWZmTkVUY1phNmU0S2NreHluZEUtZ01mVU13endaOVNKeVhNVzNCR1YyMkdDd1dYdmdDcFpZSnZmTDQwQ0JWVmQ0NnFFQkdsV2JmNFBZbk9pNkNaWGlBYkE3RXcxN0pUTjZWWG1mWHhUdk9faTJGMHNkZEdTMjFIWjAwcEdRNDczX0M0T3Z1WFFmZ2F0dExIYXRSbVFsQk03UQ?oc=5
+- **Source:** Windows Latest
+- **Published:** 2026-10-17T17:22:42+00:00
+
+## My Microsoft Price Prediction Looks Well Beyond the Current AI Cycle - AOL.com
+
+- **URL:** https://news.google.com/rss/articles/CBMiiAFBVV95cUxPN0tpajB2RURsY09SYTg5dE4zeHZVSTNmOXBrSzFJOHdvVjc0bE9hajhkMnZ5aTRBNk83M1k1Vl9YVmo2R0FGTk9zaUdSc0M3aS16eHBjeEg4eU5QQWpKQ1pNZzR2bkl1aDcxLWNDQVFjZkJpamVYdWdJOVRyWkJyaEhPTGVYUm5C?oc=5
+- **Source:** AOL.com
+- **Published:** 2026-10-17T17:03:44+00:00
+
+## Jacob Martin QB Sacks | Film Review Powered by Microsoft Surface - Tennessee Titans
+
+- **URL:** https://news.google.com/rss/articles/CBMiogFBVV95cUxNLVhFMXI4ZUQ4TU9qQnpnX3g4b3lPWWRwQVRoUU4yU1ZuRExYMkRQanpDM3c5OHdyajJPcndVMERrWHhRV29kNEhtTUpEVUlVLW5pUkVBeHRzMHRBak9URk1uZUR2NFJIQ1RwVnR6VlZOYl82THZLTVo4M0R4blFvN1c4alRMeTNHRHpyb2gtLUVNLTZjaXEwZ1dlcG5KQzBfUGc?oc=5
+- **Source:** Tennessee Titans
+- **Published:** 2026-10-17T17:03:09+00:00
+
+## Save 77% on a lifetime license to classic Microsoft Office 2021 suite - Neowin
+
+- **URL:** https://news.google.com/rss/articles/CBMinwFBVV95cUxOZFJwMXMxTW5lX3lBLXl2SFdVcjdkTmUyQlRzWjFPNHBra0xRVG5lYWV6Y2RONUUxVGxLT1dIMmJwOGhIY29mYlZSWFpxTC1LalFUV2NKWU5CTGVOUHhTaFlTOURDdHB2ajdPRjVxLTByb2xMY001a2FwWlF0Y0xMUFlYXzlncDZzSk1fX3VyUFgxci1CeHl3N1B0Nk1NbE0?oc=5
+- **Source:** Neowin
+- **Published:** 2026-10-17T17:03:02+00:00
 
 ## VS Code 1.142 Update: Agent Canvases, Python Fixes [2026] - tech-insider.org
 
@@ -225,81 +303,3 @@ _Last updated: 2026-10-17T16:52:18.224277+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMivAFBVV95cUxQYzVjRzNmQlBYaEJVcTRhQ2JORUdRa1hYbXMyTkFNN2xCMFM5dEd2NkMwYmN6dThmR2xwa1hGOUVlXzAwNGowZTZWR3FmRVZXSXhuNW5tQlE1bGZ6akxhYWY2MTRUSW8wcFVjbWVMUTR2ZmkxV1dzd1lJNlZ5RmV5aEN4UHNDNGpoeWRMY2J6TUpsUk1YM3FzbTBWX0x1YzR3RGlscWJpd3VRczRYVHlRTlNuekdNVmxLRm5qOQ?oc=5
 - **Source:** Forkast News
 - **Published:** 2026-10-17T08:50:22+00:00
-
-## $89.97 puts Word, Excel, and PowerPoint on your Mac permanently - Macworld
-
-- **URL:** https://news.google.com/rss/articles/CBMiqgFBVV95cUxPR2JWN183bUQtU1BzY2lLQTBMNUJmMTRpVndJZUlNUnAtcWdWRFJsYUxyT0o4MGxCbzJzVU0zNUNrdEFGc2hoZVlFendtM2JZelNwUkg1NTktbzFSbTA3MnFSQmpoVGRZZkdiaUhweGJDMGdhOEtxajhSMDg0WEZ3b1dTVkpLVU4xQ29BaFYwUzZmWW9xazlIQndVOEVuOTJrQ1ZnVEl4RnUwUQ?oc=5
-- **Source:** Macworld
-- **Published:** 2026-10-17T08:44:44+00:00
-
-## UK regulator targets how Microsoft links Windows, Office, and Defender - Neowin
-
-- **URL:** https://news.google.com/rss/articles/CBMingFBVV95cUxPb2RNZFhCcWtFWU0xMXNoV2hYZU9wekN2T2Vfd0NNa3QtaFBTdDNsRU9ySmRRWWRyUEJDaXdYRjluMzVLVEYwdnFfQ29Bb19SNWN2Qk5VOURFRjFXWGdLWXh4anJVTEN2SHBVN1VmR3B1WVQ1aUljb0dBc2xtUThjSUUxd0pLSmp1cGpESkxsRWxqQndaWFJOWERLdHRnQQ?oc=5
-- **Source:** Neowin
-- **Published:** 2026-10-17T08:40:00+00:00
-
-## Microsoft Surface Laptop Ultra reviews praise AI power but flag major flaws - Kursiv Media Узбекистан
-
-- **URL:** https://news.google.com/rss/articles/CBMitAFBVV95cUxObHl5SlhvSktzM1lCODFuazNRVjBLS2NtOVRVVmtWWk5vZEJ1M0t1cm0ycm9KSnVfNEU5RXRIYi04T0xVelJ1dVAtVzdiUU9CR3lCRXhIMndzN2RPNzBJZHNHOWhNZWR5eFg5TUYyc3FNWDhPWUlWTnZRVGdnWTJxRm1tdVBuVXVLaTZ2S1FlWkxEdlh1N3A4MjRuYWFTc3pRWmFQNGtiWnphSUFudDFTcEpEalY?oc=5
-- **Source:** Kursiv Media Узбекистан
-- **Published:** 2026-10-17T06:36:19+00:00
-
-## Microsoft is killing a pointless extra process that slows Windows 11 app launches, but you can't force enable it yet - Windows Latest
-
-- **URL:** https://news.google.com/rss/articles/CBMi7AFBVV95cUxNWUpKaWU0MUY5bG03WHJHaGZCaWhLWDdLWXVvVG1RMmxXMERSZjd0d184TTE5MG1XR2ZURGI0LUhRcWs3RnNxdXYzRkRvX1pmNEdyamtYQnB4b1dNWkhsdGtqUUNWNVgzVHh0akhNMk9uUlp6c2dCQTI1SENOcFlmakdMUFVqenNkblJ2N3RURDBjWWxES1VjZU84dTFtOVNycXJabWo3T1g5Y05RYllVN0liSm1tNUVqWGlkdXg1eE1MWXdvNzlIdnRHX01XTWo2WkxBMl9PUGYyUzhLUTFEZUxIY2RndmE2NjRCVw?oc=5
-- **Source:** Windows Latest
-- **Published:** 2026-10-17T06:35:57+00:00
-
-## Microsoft turns Windows 11 into Xbox and speeds up PC games - iXBT.games
-
-- **URL:** https://news.google.com/rss/articles/CBMiqgFBVV95cUxOejNGZGFZQmxPTXV3TUFFUlQyc2VuaXlzbHgtTHpnN2RlSlJxaG83dmI5ZE1KMjNrUWQ4cFlsMWdSMF81WUhGM1ZaMXhDQS1XVWlOSEVqdV9pUWIwTG5HSFZIa3BvTlFqcDdjNXNhMnh5N2U0VzdrNWk4Q2Zid1pQZC1EdWhVZVhEWmo4VVJOM0hMODVhVFRnYVZVa2NaTkhDQ1o2cmh1dEdKUdIBrwFBVV95cUxQVXV3TFFWTFdRWkp5VnhGNUxSakZwVXp2bVZqbl9KOVVlOG1tbmZ2SlRsWk5UQ3dXUWhuSnBEejVYSmRtclgwcWxHWlVTODNCb2FNRFVEYlo4dUp4empGUEtkeXVaemRtdS02Wkc4V1hnc0x3YWtJdFJHaERCc3dvaEN6SzZVejd6SXFJeWtLVGdzX1JGTVV5c2NVcjlzMnVRZDRFS3hVMmtuNTBfdk9z?oc=5
-- **Source:** iXBT.games
-- **Published:** 2026-10-17T06:23:37+00:00
-
-## Microsoft Launches Legally Approved Version of Copilot with Over 20 AI Legal Capabilities - KuCoin
-
-- **URL:** https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZVBVNmxxRzI2VlZmRFZHeWYyZVEyYmxoOTNkTGozVXhtSU43OThldzU0ZWxPajgyeGppSkNZdDBsUjBLZ0lYTzYyTHhrTWd2b2hFWWRlYmZDNmpqb0dTamlsSHVMU1gxTTlaQ2tFWG11NHBVaUY2cFlqOHB1V3Ezcy1fdHdOOHREdWZJZVA5dVhKaGtZeXltRm1HMUdpc1g1dmV2cnI4d2k1Zw?oc=5
-- **Source:** KuCoin
-- **Published:** 2026-10-17T06:19:57+00:00
-
-## Hackers Use Compromised ConnectWise Credential to Sign In to 173 Microsoft 365 Tenants - The Hacker News
-
-- **URL:** https://news.google.com/rss/articles/CBMif0FVX3lxTE9LLVo4bDAtYTNoMmpoeFIwdFpheVNIQVJMaXZqOUtaZXZ4TjE4M2E3T0Z4SlA0aVJtNGh3N2dBSXg2SWZiQ0EtcVRKNnhrU1E3RVN5ejJ1V0h4Y2U1SG5nMmtGV2xWckV6NkJWaVJ2VEZDWGVVVTdRLUI1YzgxUUU?oc=5
-- **Source:** The Hacker News
-- **Published:** 2026-10-17T06:16:00+00:00
-
-## Windows 11 gets up to 20% snappier, and Microsoft aims its memory fix at 8GB PCs - Martin Cid Magazine
-
-- **URL:** https://news.google.com/rss/articles/CBMilwFBVV95cUxQaDlWVHFPb0s3T1kxcHNZSnRvVFBZZWFDYjZWWnNuTTZzdlo2QTRKbmEtTjM3eDZBb2JFN2RrUGZOY2NZMUtKSW1HZkxYeGdjZzNPOXJNa1I5TEtCT0pXUWFjSE42TFhtRk90YU40Rl9fTDQ4c1VRSG5ia0diMDhHNmJ5M2J3TW5lOGRJZEtVd291a2pMbjhn?oc=5
-- **Source:** Martin Cid Magazine
-- **Published:** 2026-10-17T06:08:58+00:00
-
-## Microsoft Corporation Tokenized Stock (Coinbase) - CryptoRank
-
-- **URL:** https://news.google.com/rss/articles/CBMif0FVX3lxTE5rTGs3VEZLWFBSLWdSQ215Vl9sZEJxQm9OUHYxU3JJT3FGdkxWaXc5eUlXUHNxb0VrSF9wRkU5bENsTV95NVg5ckQtNEYtUFpTOEg2d0lrNGEwZGc5WVpHWXJzSGVmMFJWY3JNbENWYkZuTndHN0RIZmVmMU9kYms?oc=5
-- **Source:** CryptoRank
-- **Published:** 2026-10-17T05:57:58+00:00
-
-## UK Watchdog Proposes Strategic Market Tag for Microsoft, Puts Excel and Copilot AI Under Competition Scrutiny - Benzinga
-
-- **URL:** https://news.google.com/rss/articles/CBMimwFBVV95cUxNLXZWbU9hZy1GcWlYZ2VGb3kwZ3Y5UEVyVkh1XzB3dDBHOW5uUENBYjhmYlVGVmtmc09lSFc2YWREbG5pdmsyN2FMcU9ncU5mWVZWMEdVT1pnbHd4aW5KSktxZjdlSEJYVTdMeDBPbk5CYTBjcmNOdERWRWE0R2N0M2lxRnVPaHp5V0RsZEZLbXU0SGhkZmc1MmMxVQ?oc=5
-- **Source:** Benzinga
-- **Published:** 2026-10-17T05:10:06+00:00
-
-## When Cash Burning No Longer Works: Microsoft, Meta Hit AI Growth Brakes – Apple Emerges as 2024’s Top AI Winner - 36Kr
-
-- **URL:** https://news.google.com/rss/articles/CBMiU0FVX3lxTE9vVEplMlRmMGpXTzFXQ2RDS1RzcEszQ2drUnFhazF2ek1xalgxTzVlYlNpeTdKTVljcmstQ29Ga1ZFd2FBZDlyNnNiUHN0NUVhM0hz?oc=5
-- **Source:** 36Kr
-- **Published:** 2026-10-17T05:04:14+00:00
-
-## Microsoft Confirms Windows 11 KB5127648 Update Can Block Users From Turning On Smart App Control - gHacks
-
-- **URL:** https://news.google.com/rss/articles/CBMiywFBVV95cUxNOThxMzFCR1YyTS1UbFhxeGgtY1Fla0dpeXhUaENqbWs0U1hsYmpGRGtkczNQeVBRUjBzQk5uRnpaRWN0SEVNOEFydm83YW9tVEZOSzEtbDVmVWdTVko4YnA3b0RGb0EwSEs5MzV5dHRhNmtPTUtnMmRiVFN5clc5Qi1iVlFvRjY3YURjQi1FRFVNal9vRGpLOVZzWjgyWjl1QnlDY3ZUYl9PckxObWFUNEdrX0tnWnF0LXAxNDRaY0IxLUxOUDZGc3k2UQ?oc=5
-- **Source:** gHacks
-- **Published:** 2026-10-17T04:37:22+00:00
-
-## You're not alone: even the former CEO of Microsoft's advertising can't put the Windows 11 taskbar on the left yet - XDA
-
-- **URL:** https://news.google.com/rss/articles/CBMi2wFBVV95cUxObElHQjlhbVVzVElMVXM5ck9LQndSM1A0bzFYNHdMcWpqOFhWdGR2SlhhSEt3R0JFWm1nX2d3MW0zNmpIdFVPWGVnSGljVEZOSHZOUjNPRGNPWGhPdHRxYkRPa0JLaWFQZ2xPM1Y1X2dzNjRXVF9ncU5iMnRMdTN1R0VrY3dTMWRZNTlFLVJuM0VaNGdzTUFHTHl4c2M2RzhMaDVzYThUZTVKaFhEZk5NbzlzblkzN2d3eGxpX2NlX0cwUGpmYnFhVXExYUVTR0o0TzRxNkxhcVdFRW8?oc=5
-- **Source:** XDA
-- **Published:** 2026-10-17T03:59:00+00:00
