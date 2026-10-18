@@ -1,8 +1,50 @@
 # NewsWatch — Apple News
 
-_Last updated: 2026-10-18T08:37:28.108296+00:00 · 50 articles_
+_Last updated: 2026-10-18T13:47:38.634216+00:00 · 50 articles_
 
 ---
+
+## Apple News: iPhone Duo Demand, $5 Trillion Valuation And China AI Plans - Apple (NASDAQ:AAPL) - Benzinga
+
+- **URL:** https://news.google.com/rss/articles/CBMioAFBVV95cUxQSEozaXNnU2x0WTNxRjRPNGNXZkdzNEJPOGlUV3VYZk0wd1QxaG5icEExTVBiaFU2ekxnNUYxTmhldmVEbGZFZkVhRDlNYkFzMGptRVVSaDAtLU9YdzJ3NTNPR0pYaUE2bzJxTkNDakhKQTh4T09aMkU4OFZ3RlotSjBTRmw3SlN0eXJCVW5lZGVHZkVaQ1BCX3dhd1hqQVBa?oc=5
+- **Source:** Benzinga
+- **Published:** 2026-10-18T11:00:17+00:00
+
+## iPhone Duo Preorders, AAPL Crosses $5 Trillion and More: This Week in Appleverse - TradingView
+
+- **URL:** https://news.google.com/rss/articles/CBMi0gFBVV95cUxNTWZqQUM0TElQWFBhOHYySHZaTTRvMFNaSzdIYW1PQV9sQ0dfMVB1THoxRmNXZkpaRXFGUmZUQUg4YXdlZGE5aDJsUUtPZjN2amdUNmRYUlBKNDh2b3paTlhLblFSWWx4UUotYW5wSXd1OFRmeHhXMnZ4Z3BENUZnOFptMkRzeU85WEs1Zi1mazZwOTZqVFBFZnFZZU1OUTRQVWtONE9ua1g3T01KdzJzQjR6TjBQbjA1Yi1ybzNjRkl1OGlRaVJpeHJWNWRqMWhDTXc?oc=5
+- **Source:** TradingView
+- **Published:** 2026-10-18T11:00:17+00:00
+
+## Apple Inc. $AAPL Shares Acquired by Sapient Capital LLC - MarketBeat
+
+- **URL:** https://news.google.com/rss/articles/CBMitAFBVV95cUxNLXBQNHhfNkdWUVFRdkhDMzY1VzFaMHFkN0pwRHJEb0REcDVZS1kwbjUtZ3RUUk1COFk4RlRGczBEVUt3NVFpWDFoV2FhdUQxTGNfa0pMLUJvdWtudDRhcWIxeEpZbmhLRTl6RUVzWkpDQWpwQUtMVFpwU1dJcElzRXVzV0dVcHU0eFdCdVRUU21mODUzSThBQllvbmdNa2loVm9EdkpNMzZhQWdxNGl3UGRWWmc?oc=5
+- **Source:** MarketBeat
+- **Published:** 2026-10-18T09:18:14+00:00
+
+## Professional Advisory Services Inc. Acquires 87,398 Shares of Apple Inc. $AAPL - MarketBeat
+
+- **URL:** https://news.google.com/rss/articles/CBMi0AFBVV95cUxOUklQZU9lX1cweEphVlhCQklaUHdnUTI0azNZMlZIcGJ0d3RJdU1wNWU4cndaZGVNRWxjVG41ZUNaQTZHSmctWWlmc1FVZXJnamRaMUVCRVQ2ajRuVkwzc3ZkSVJNNEhWTTctamw0TkZiZ0JmTjEwRGcyaGZMeVk0S2NXVHFiMjdVb0dNRDFBMjZNQ29rMHBXc29fNEZMUHZQQjQ5b3A2d1hzRlZMOUw5MGNTRWg5MzFPeF9GYTNwVFN6SzBmbkJleGwwZ0hJWjlM?oc=5
+- **Source:** MarketBeat
+- **Published:** 2026-10-18T09:18:13+00:00
+
+## Apple Inc. $AAPL Stock: Mn Services Vermogensbeheer B.V. Raises Stake - MarketBeat
+
+- **URL:** https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZnJGYy1CWGdaYUI1R21WbXRYVDZ3N1FkSDJEVVlvdzZQcDI2QTFBYjhQaVdQQXN3aGZWeFdJSk5wUmxlYnRJNDRTdG91N05LeWJiV240R1dBbVBoS2FlTFJLVzZVUUJsQmVpMnZ2YUEtem0wcElNTWY2YTUyQk1VaWlwN2txOWtieVFRMzlHQURvOURlQWhXSmFneUxmMVk3cEZLVklWRWxtdFN2cW82bWVPVkRNS243RHdhYmdEMGVFQlU?oc=5
+- **Source:** MarketBeat
+- **Published:** 2026-10-18T09:18:13+00:00
+
+## Galvin Gaustad & Stein LLC Acquires 10,077 Shares of Apple Inc. $AAPL - MarketBeat
+
+- **URL:** https://news.google.com/rss/articles/CBMiwwFBVV95cUxOOGYzWFN1OGNpbE0tLXRoQnNGck5uY2pMa3hObjAwWUE2a0xCN2VOWXAtaWY3VkdkM0NoT0ZsSGFHZjRQZEQ3cVpPVGlubGJCU20wTGo1eVE1ZVFKcjRScmRFXzBiMFp6QWZlaXU4d0xGcUkza0xqRUNkblRaTThINm9zUEpsb3hRMV92VFpYQ2gtb0xmdjcyVUpoWDZEMlZkMFJYMXdvd2xXZXY2cnp3RkVUa2FuRUlkRzNUNTlyNlNaLWs?oc=5
+- **Source:** MarketBeat
+- **Published:** 2026-10-18T09:18:13+00:00
+
+## 1,837 Apple Inc. $AAPL Shares Sold by Green Ridge Wealth Planning LLC - MarketBeat
+
+- **URL:** https://news.google.com/rss/articles/CBMixgFBVV95cUxOdkplSnFhSmRvM0staFJIUmk5VTdGYm5iNjlzTUZpaFR3SmpEeUJZSGoxSzBkT3ZlU1l5TER1UER4QWRKWG16aDRWS3RGY2l6TkdaTllrUElzaDhJWnJqSDVJbFlCcFowSEwxU1dfbUd0Wjl1WGRKT01UUFFiWXBoQ19TTklyRWFDNTZwNDBZYzNNaEJFcUJQLTh6X3dXREVmZ0RSNlpVTVQzcF9tajNvcWN0Q2pDV3pKejVaQ3JuYkFHbHFvUVE?oc=5
+- **Source:** MarketBeat
+- **Published:** 2026-10-18T09:18:11+00:00
 
 ## Apple Inc. $AAPL Stock Position Cut by Diversified Management Inc. - MarketBeat
 
@@ -261,45 +303,3 @@ _Last updated: 2026-10-18T08:37:28.108296+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMisAFBVV95cUxOckMzWGFDQm1WcDlFTWVpcUoyaXh5RXJaSzlnOGVzbktxcWcxRXpCY1VpYU1VZE5kd1lCM2NHVm5oT25kV240a1NRRXdLck9YZ1dsWl9zT3JCdHdzZEVLalA2YWhhUDIyVU1lZGwySm85NUxZWVJPdWdIbC1EU3pvVFhpdUhBb29FSDhJSGdGWFVjZWc4S3NHeHN1bDZ0LXNfVlZvUHhiQXBjS0MzU1pLQQ?oc=5
 - **Source:** ad-hoc-news.de
 - **Published:** 2026-10-16T13:48:29+00:00
-
-## Apple's iPhone Duo demand pushes delivery dates to late January - Seeking Alpha
-
-- **URL:** https://news.google.com/rss/articles/CBMiogFBVV95cUxNdHh2bFNfVEFHWEgyMlA3blNHOFFESjQzamVnaWNRdWIwekE3dGdWRmRVU0pOSjZscmhmZHpHOW1ObTRzZGJ6ZXFKTk1nS0xGbnhUcVF4QnNrajE0bE1peWlhVkFLbXJ5YmVXUWNtWTBSV25aaGpnRjdBTU1ybTR4ajNHa2hsdkF1NTZMZWhqc29Lb2pFR010WjdLZVZRNzhNSkE?oc=5
-- **Source:** Seeking Alpha
-- **Published:** 2026-10-16T13:21:32+00:00
-
-## Apple iPhone Duo orders slip into 2027 amid pre-order frenzy - The Edge Malaysia
-
-- **URL:** https://news.google.com/rss/articles/CBMiUEFVX3lxTE51TUN4TUVYU256azFiU1I2OVU5SXlRTDVteHpON1lGSGRSZG43VGhyRUN0eTgzOUxJVEJOX1YzWjFydWlwMVFMZ0JGbGVzbjRE?oc=5
-- **Source:** The Edge Malaysia
-- **Published:** 2026-10-16T13:20:13+00:00
-
-## Trump’s $330 Million White House Ballroom Donor List Reveals Nvidia, Apple and Google Among Top Tech Cont - Benzinga
-
-- **URL:** https://news.google.com/rss/articles/CBMi9AFBVV95cUxNQm9xckYyWlBNU1RkMk8zV3BJT0t5RjVBck90Y04zRTU1aUhwZUJkMG9URTBNMF8yQ2ZUS3FtYk14SFEwN0pwakVTRGZPTFh6eUpsSlpFMFBSaEl4Z0d5ZjdsdHRvNlJhbXFWWTFBY2t1cy1GTU9sdGpvMU1rZklsNHpYTkI4Q1FzY0NqeWIyVUJvWUl6akhNLVZ6RUJwQTlhS1ZlUjN2ZjBMaVlPeXJjOW1KRHJGU2syVWstenVLaFZhbDdXNW1SNzBqSGlFT0tCS0otSF9KSkpSVHlBTjVyNGNQVHpvVExQZm1LZ3FBRnVfSzFR?oc=5
-- **Source:** Benzinga
-- **Published:** 2026-10-16T13:19:13+00:00
-
-## Apple Stock Hits Record High as iPhone Duo Pre-Orders Sell Out in Minutes - Benzinga
-
-- **URL:** https://news.google.com/rss/articles/CBMizwFBVV95cUxPd1hmbVhPdlVDb1RtcDRCakdHVGxLdWxRbF9NMXJzTjRJMkkxZXJVWkVhNFdvV09UVjNDckZZSUdTOVdNM1pxbEoweHRXeldrSElBaWdpaFU4Q3FCV0lDM0VPTmdjT0pNZ1NqS3dxYVluYkN1MFlfUmhkMVFzbXhqRFg2dnNsdmJSa3JGYlQxYWUxUWUxTGRfSHhJdkJpazl4c2otbDJIdm5zc0hCYUs2anVWeG1TbWYxck9tNkp0ZEtfelpxOG00LVZPOGRVUXc?oc=5
-- **Source:** Benzinga
-- **Published:** 2026-10-16T13:14:35+00:00
-
-## Apple AirTag stalking lawsuits consolidated in California federal court - Top Class Actions
-
-- **URL:** https://news.google.com/rss/articles/CBMizgFBVV95cUxNN3NDcUFnZnNOSHB5UGR1Ym4xcUh2N0FmRFZmNER0OGxVNEdEeTNTMkRsTWFVR3p5UWJnY1dKczE2cFZtMy14N2VQZmxJaFFwdVJFVW5ySnJmbXBVYnR0UjhXckthTHc4aGkzR25xY1dvUlVmSGJxdVhsWE9qb2Fqc2xYNDRFbEkyRnlhZHZNZ3BPNzNVaFpFbFFSVWs0TTRwVUY4TTFzTHZsaThqLWdaVWo3dmZjSFhkNDN1SzlCNHlyU3dNS2lXODlZUnB1UQ?oc=5
-- **Source:** Top Class Actions
-- **Published:** 2026-10-16T13:06:43+00:00
-
-## Apple’s $1,999 iPhone Duo Preorders Begin Today: Trade-Ins, Monthly Payments and Deals to Cut the Hefty P - Benzinga
-
-- **URL:** https://news.google.com/rss/articles/CBMijwJBVV95cUxQeVVMbXdFZVBKLTlrMUQ1ME1ENWVacXc1S1VLYlQ1UVhXaTNZcGY3SExDODY2M045RVNNNEtUazc1YXlINUpMekk5a2ZVc1A5ZXlvTVFWVDhvTWZGZndnczZKRlpJRmUwNTMxd3lKbmo3QjBKeWFXSHpmNlBPbkIwbnY3dkZ5eFlSZjAyRDliZk80a0tFWXRPNFd6LS10NTNWZDdCVmxKdWdqamZ4enVnVEpWUndIYTBxNDJnUHpOQ29kWHF4T2tKcDVvVVlGR3VySlNLZDJueU4xaFVfbGY5NVc1Z3Nid2xwYTM0NU9GQjdfRXljWGQzMk1KdEFKTlZONlFPQTFCVWNfdFdZLUF3?oc=5
-- **Source:** Benzinga
-- **Published:** 2026-10-16T12:38:48+00:00
-
-## Apple Stock Powers Higher As AI And Smart Home Bets Deepen - StocksToTrade
-
-- **URL:** https://news.google.com/rss/articles/CBMib0FVX3lxTE96MDhyLTg5RDRkb2VVRWRNMThobzBJRzNVOEM1NDhucEJra2YzWkk0eXBlMGQ4MENnR01RTU9uUlRmdlB4WE9uQWZWM3R4THRDUUhqYy1oQVdPY2ZGaUNydEtzTVdpcXcyci1WNnZqTQ?oc=5
-- **Source:** StocksToTrade
-- **Published:** 2026-10-16T12:36:00+00:00

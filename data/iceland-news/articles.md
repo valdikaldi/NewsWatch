@@ -1,8 +1,32 @@
 # NewsWatch — Iceland News
 
-_Last updated: 2026-10-18T08:37:29.053524+00:00 · 50 articles_
+_Last updated: 2026-10-18T13:47:39.616631+00:00 · 50 articles_
 
 ---
+
+## Iceland is turning 120,000 tonnes of carbon dioxide into stone. It is locking away the greenhouse gas unde - The Economic Times
+
+- **URL:** https://news.google.com/rss/articles/CBMisAJBVV95cUxOS3FsdWtlWVdncnFuVDVtMExPTmxlVV9Qb0VuS2dCWEt0ekxQbnJDZFJDZE42LUVLU1drSkhVSWpQTGIyUkg3eXY4dWgzQUhJVzlTYjgxcjdXUEtfSnpLMnktNExhbXlDb25jeUJDQm91U2hhZXFZQzRDdmtBbl9UN2ZiTHctLWQ5MlhLY2lENnFmc2xhSlhwb2JZMVlnd2g3MEtGMHhHQzBadkFLQ1RPei13bVBvOVctQmZpMEJjZ3o0RkRrOVc1YmdqTFZiZnc1ZzYzYWZMbVVibDNPSko3NUhhMzQwOW1zRTBUbFMtTEo4ekhQTVBla3V6U0kzZUdKaUNJNlVNYzdESVhZVnhoN2ctT2s4Zk55Uk5ncVZvdlhfakVCb1NWTVFDeWFTYXdh0gG2AkFVX3lxTFBhblFoWDN2cVVvTkhoTnpaZzZ0RDlfam8wakYxc1g4Q09LYWhwYjA5ZkZuNllmSTNrT09Kd0E4LWJOdE1RRUdyOE9rVGI2US1xZFZWaldiazNXN0VkdkYtbVAwNE1yRzFCNmRIT2hKeGJBSUI2UWNWNndsMUtkSVkxTXM2V0QyZmF4TXhHN1hLekUweVdINWhlMXUwd2ljSmlKN2ZZX2pLSWY2WHNaemtZbGhDNmJPci1vUm5KdE9NRHhpbjNRb0NPWms1VUlxaFRBNFZoRkVZQXlUcDJZT0NsUDdmVFQ0Q21hcGJKSndwU0NkUXdpMTJ1eFoxQkh2dmFVeTdoRUdVaEwyQ281b1NpVWZqeFBVRVR3S2xESHAwWGJ6XzhqaG5lRW4tYV9kNkQtcnBXQnc?oc=5
+- **Source:** The Economic Times
+- **Published:** 2026-10-18T10:59:13+00:00
+
+## Viet Nam, Iceland boost economic, trade, investment ties - Nhan Dan Online
+
+- **URL:** https://news.google.com/rss/articles/CBMilgFBVV95cUxPWnQ3Vmt0TjZQOXhGOXFfQ3dreFZGZ0h2bGZURWtSSm9Jc1M3bG5Nc01hd0N5UEdiRGZKQm1ndVJVX2NpUHRnSFdIajNwM2lMOHA4NGJZM3JrQ0FRZF8tUlRnUDU1VnU3elFFTGFyVHF1NnBmaTNuYWxOYVBLME44TUVYeC1yR29tQnY4S3Y1M3BkOGFLelE?oc=5
+- **Source:** Nhan Dan Online
+- **Published:** 2026-10-18T10:40:45+00:00
+
+## Where was The Odyssey filmed? (with maps) - The Worldwide Guide To Movie Locations
+
+- **URL:** https://news.google.com/rss/articles/CBMiXEFVX3lxTFBwdkNrYUs1R0h4X1ozWmt0NkNOcnl5RVRNXzNIcWZ1YmNyaGNvWHNKYVRyZlJQWV9haWV0cC12S2x1TU1QUWllbUEzLWg3cEhpc2p3VTliVFZoSHpn?oc=5
+- **Source:** The Worldwide Guide To Movie Locations
+- **Published:** 2026-10-18T10:21:07+00:00
+
+## Việt Nam, Iceland boost economic, trade, investment ties - vietnamnews.vn
+
+- **URL:** https://news.google.com/rss/articles/CBMipgFBVV95cUxOeEhGNGU1bHNNV1VhZzRHazQ3WmhCQkRqbjhsZjRKcU1lbTQ0S0RGTHRfd09pUE95NFlHRmYwZWQ2TDNlNHVMUWhuRThybEFRbWptbjVRS2I1Qml6SDAyeHF3aGNmWEVRWklXM19DN3ZHbnBoUjhzOGhVTmVVUHYtb3ZkcnJjMG50R2o4Z2ZYU1BFQzBnYVJoODhSNENsMExzN1U0Z0N3?oc=5
+- **Source:** vietnamnews.vn
+- **Published:** 2026-10-18T10:09:00+00:00
 
 ## Landslide Warnings Add to Sunday Travel Risks in Northwest Iceland - Iceland Review
 
@@ -279,27 +303,3 @@ _Last updated: 2026-10-18T08:37:29.053524+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMipAFBVV95cUxQQTdFekdqMDIzcmQyallMVUhhR1hvMkFnOFBXV2NESTlWZ2ZCaHhHTURuZjI4aUtnd05QamE4cTMtaDAyNmdxa0szUU4xV21rN18xckRScFNpcmsyY1ZTcXFSczVpQXhZbnR6Q1N1Z3RVZW51VnNKV1FXdzV4ZXNiVkZoVVZVaDBxTHg5bkp2bjJuSTRrS2liS29LWmtDbWpKUm5TSw?oc=5
 - **Source:** Fuel Cells Works
 - **Published:** 2026-10-16T15:59:00+00:00
-
-## Int'l Lineups: Hayley Williams At Clockenflap, Iceland Airwaves, Pitchfork Festival London & More - Pollstar News
-
-- **URL:** https://news.google.com/rss/articles/CBMiyAFBVV95cUxOSE9NeEhQNVhpY3hOMzlob3hnRDFKSlZlS2ZaOFlFQ2RZLTBqRWM0anNweFItcnh6SURrQzZSRmJNeVlDbENXaGZLZVBUakdoZC1KTGJCZkVvT2c2aHQzWjhqUDZGdUJhd2h5bXVES3BBVE80T1VEWlByZFJOZ1hvUXd0Zy1NYnJkX3JCenNlRlA1OVZLQ19XbzBwTWh6alpDaTVVMkV0LUhESkdodEVFZU5HVmFlTEU0TXItY1RUR3liSllZVEc1cA?oc=5
-- **Source:** Pollstar News
-- **Published:** 2026-10-16T15:19:25+00:00
-
-## Delta Air Lines Adds Daily Boston–Iceland Flights for Summer 2027 - Rus Tourism News
-
-- **URL:** https://news.google.com/rss/articles/CBMirAFBVV95cUxNaE9Vc3dBRjBCczBzUmNZcGtJYnFWMzlvYmhTTWJJSFJXOWNURzBJZkZhSUZMaXZBZTlsOVpnUXRxYTRsRlFuSjBlWl83Qi10QmUxd2QxYnNWSVFCVGRiTEM0LTNMWkFfV3JqMzc0clByTW40NzNUa3haU25DVVFZMXZCdTdhekRfc1o2ZEVVc2xCRm0zMUFnc2kzemZ2TjRLT2NWR3BobVl2S2pR?oc=5
-- **Source:** Rus Tourism News
-- **Published:** 2026-10-16T15:17:46+00:00
-
-## Delta adds new direct European flight - The Business Journals
-
-- **URL:** https://news.google.com/rss/articles/CBMimAFBVV95cUxPWEpsUEN3c0kwcnp1TldxMVd1NDVSVzFGVXhteEs5WDU2VVplLTVnUGh1emNzczdYS0hnYmtQbmgyNkREME1feHZwSUV5WXZ3QzNDSjBZOFRnTGZmS1VVcUpTbjV0amZQaWxuTi1pSW03V3VjT3hlWXNyTjVFYmVUblpYd0NmYmliUHNpU3NpZ21PUE1JbVVHMQ?oc=5
-- **Source:** The Business Journals
-- **Published:** 2026-10-16T15:17:00+00:00
-
-## KTBS 3 Travel Club brings home incredible views of Iceland - KTBS 3
-
-- **URL:** https://news.google.com/rss/articles/CBMi1gFBVV95cUxNSlRxSVFfMUlXc2t2dkF6M21oWUpnZDJBXzFSNnFVQmI3eFNrUkkyOTBtQVdnbmM2SmdMOXJ3NTByS0xTeGxwRHk3b0tVSHZ2UlIyY1VhbjZDY0pYS3RzeXlBUHE2dTlha2VWTTJOYkZfN1oxdjJWWmphaUMxcFpYOGo2VV9OMGF6WDB5WnY3TnBQMDdwVXRYbXVMMkd2YUNzZWM4RW5nRlFyelpPS2ItS0tIbnhHbHBLU1RzMW1ucHZZNjg3cjdZdGNOeFlfYXhzU1NWZmZR?oc=5
-- **Source:** KTBS 3
-- **Published:** 2026-10-16T15:00:00+00:00

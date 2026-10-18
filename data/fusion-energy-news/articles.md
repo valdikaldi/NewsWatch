@@ -1,8 +1,26 @@
 # NewsWatch — fusion energy News
 
-_Last updated: 2026-10-18T08:37:29.447094+00:00 · 50 articles_
+_Last updated: 2026-10-18T13:47:39.993640+00:00 · 50 articles_
 
 ---
+
+## US nuclear fusion reactor to test custom exhaust for negative triangularity plasma - Interesting Engineering
+
+- **URL:** https://news.google.com/rss/articles/CBMigAFBVV95cUxNbXB3bmxpRms1Q1BNeUUwSDRqMDBPdTd2MmJBem9QR3JvQjNsVW96WkZCd2h3V3hoZUtQbWUydmFRRkpWbURqbU9XalVDLThKbnhnX0x3UmRwRUV6NEtiTkxOR0xlZzdXeHI5ZmlTbVZQMmRGUkl4WDYyQ3E5emJIcQ?oc=5
+- **Source:** Interesting Engineering
+- **Published:** 2026-10-18T12:21:00+00:00
+
+## A 1,100-ton slice of the biggest reactor ever built now stands on its own support in a concrete pit in southern France, and the 88-ton steel beam that held it against the wall for months came out on a crane in under two hours, the first of nine the welders need go - Autonocion.com
+
+- **URL:** https://news.google.com/rss/articles/CBMidkFVX3lxTE1LY183bVNwUDZjTTJMcVE4MTl4b2s4Q2tJRG9FWEJCcjZ4OXJGQnpLMzhnc0hraC03dzlXMGNLT0FoaE5JN3U3WTVZX3hfeXZDVkZlYnotdGdLbWZKSldBOG93cDJRdGphcmZiWXNJRGgzVmE0LWc?oc=5
+- **Source:** Autonocion.com
+- **Published:** 2026-10-18T12:00:38+00:00
+
+## This 'benchtop' nuclear fusion device could provide fuel for the next revolution in clean energy - TechRadar
+
+- **URL:** https://news.google.com/rss/articles/CBMi1AFBVV95cUxQUGZ5N1VhUkhpZW1KbGlqV0EtWDlQQnYxNmM2VFFtX1RFeXpib2NOZTlRaHgzTkxQR3NsT2ZseE5ySXB3REFJYzNhdHdjLTl4VzFsTVpnUFlPRHhycjc2cXhuRk1BZzlDU0FhSm1NaHVDbjRhYm5lNzlwS3pqSU16YkYzUm1KVVh3UGFETW9ucDV3bDhRQjcyVW5vVEhIdjhvazFpVlJHX0JWTkp2ZEtqSHF6d0dNZ0FIOVhEWmdtbG0yRENqU0w1ZC05Nk9CZTNqallUVA?oc=5
+- **Source:** TechRadar
+- **Published:** 2026-10-18T12:00:00+00:00
 
 ## Feline in Love - The New Indian Express
 
@@ -285,21 +303,3 @@ _Last updated: 2026-10-18T08:37:29.447094+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMijAFBVV95cUxQM1gxZjhIemRUdHV6Mk14dEo3N3FrTnE0clVuRmxUczNQWVlrNmRiei0tV0ttX3NvWXJvSlQ2bDExYmtQLVVhTWg4UEd3aWNrY1BvRG41V091NEV4MHFtNnp6ZkUyRFM3d2FFLU5mTm9WTnoxTWMwdHNVbEpiU2dMZU1ZU1RWY1dfR1pOQQ?oc=5
 - **Source:** Soccer Laduma
 - **Published:** 2026-10-16T12:00:00+00:00
-
-## AI discovered thousands of hidden chemical reactions that could improve the efficiency of converting CO₂ into fuel - NEWS.am TECH
-
-- **URL:** https://news.google.com/rss/articles/CBMiSEFVX3lxTE5wT2hjMVlYTUpCR3dKYjdfYUZKam0wcmlVeXlCWUxHN1JUQlcwbTZqcUxfQXZHMFRSOS1oYVFfbG1TMG9PdElQdA?oc=5
-- **Source:** NEWS.am TECH
-- **Published:** 2026-10-16T10:40:00+00:00
-
-## Freemelt to Test Whether 3D Printing Can Improve Heat-Resistant Metal Parts for Defense - 3D Printing Industry
-
-- **URL:** https://news.google.com/rss/articles/CBMiywFBVV95cUxOWjdEbzBlYkI4alVRaEwwT3U0ZTdNY0IzSzlCUFRhTTl2UjE0Y09GbXJxQmw0WXcyaGJ0VjZadXNzSkx6NFhGRkFFNm5SM3B6Y192OTJLRlN5eWxXR09TTk05Nm43bWhFN3JnT1Y1blR4aVFBRWZhLTFGNXkwWTBRRGp2VU5EdGhaWFhlaVB3MnVMUlRvR212SmFMd2RnVkdaYkdDcUNtWHhMS0tvNENRcnEyYmlxa0lfaEVtS0psYW0xV3RwLUpDbHREOA?oc=5
-- **Source:** 3D Printing Industry
-- **Published:** 2026-10-16T10:38:34+00:00
-
-## South Korea Turns Back to Coal as LNG Crisis Deepens - Crude Oil Prices Today | OilPrice.com
-
-- **URL:** https://news.google.com/rss/articles/CBMisgFBVV95cUxPTUNUN0JrV0RiZ1UyeE9YMGcyQVlyT2drNjA5QUN5aXF3Z2w2S3BJWWprMFZBS3Q4SkxEVjI1YmROaE9WTm96QWVsZXpjQmZLRklOdjN2bVl3OE5DSGtocGFJeHFpNWhDX1pteGFob3NTd0xhdXJ3UUV2dHkzbm5CUjhyZWVoemJjamlZY1dUd1BZTUJvcDluenlpUzRFRzlvWDQ3S2ZkaVZUblZ6dnVzUUlB0gGyAUFVX3lxTE9NQ1Q3QmtXRGJnVTJ4T1gwZzJBWXJPZ2s2MDlBQ3lpcXdnbDZLcElZamswVkFLdDhKTERWMjViZE5oT1ZOb3pBZWxlemNCZktGSU52M3ZtWXc4TkNIa2hwYUl4cWk1aENfWm14YWhvc1N3TGF1cndRRXZ0eTNubkJSOHJlZWh6YmNqaVljV1R3UFlNQm9wOW56eWlTNEVHOW9YNDdLZmRpVlRuVnp2dXNRSUE?oc=5
-- **Source:** Crude Oil Prices Today | OilPrice.com
-- **Published:** 2026-10-16T10:30:00+00:00
