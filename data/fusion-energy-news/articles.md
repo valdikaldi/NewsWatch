@@ -1,8 +1,56 @@
 # NewsWatch — fusion energy News
 
-_Last updated: 2026-10-18T13:47:39.993640+00:00 · 50 articles_
+_Last updated: 2026-10-18T17:06:38.664202+00:00 · 50 articles_
 
 ---
+
+## Aidonia to Headline New Soca-Dancehall Fusion Event in Jamaica - Kaboom Magazine
+
+- **URL:** https://news.google.com/rss/articles/CBMimAFBVV95cUxQVmg2eElkOExYQ25TOHBIVGMxbEVFelNWR0dsaGktbFBiRGRiZEhTZmpVQnNNTUtlaF9wd0kxM0dxMG40M2lGbjJNbVV3clBsZ0FKQkFXVjg0VllZT0pEZV9ET0ZuN3NSNUJfVkRnRHhvSTUyMU1wdnJZbU5sVkhYSmF5cGpuVnZ6SktkUkN3SUo0em9WOEJtdg?oc=5
+- **Source:** Kaboom Magazine
+- **Published:** 2026-10-18T15:58:22+00:00
+
+## Planet discovered with variable cloud cover similar to Earth's. - Vietnam.vn
+
+- **URL:** https://news.google.com/rss/articles/CBMijAFBVV95cUxQTjZJOW9FTDVpY1l6UGpFa3lUa1RmSE13WUVKMjNlOG1Ed3JFRndlMVJMeGxCaXItbVp3NHFxVG1pY1o3cEJCb2JJY2FycFRnUVdTS19pT2VjUXBCOUlCQXd4aHJfSlUxdDZHbkRWNndrTVltOWN5a0o4OWFKVzZsNTRRM0Y4bzZ1Z08xUQ?oc=5
+- **Source:** Vietnam.vn
+- **Published:** 2026-10-18T15:53:45+00:00
+
+## Nuclear fusion: Progress or pointless? - The Boar
+
+- **URL:** https://news.google.com/rss/articles/CBMic0FVX3lxTFBFZ1hhdEtlazN2bFduUkwtT193NjEyUERpMy1tdkxoc1hVeFVMUl9aUXZxQnJHeER3cnpfZ3o3VFN1SHJCbFRhVXJDajdmRkhPVzBmSXI1bUZEYWZQM3RhT214STJxRUtaaVdyYkNqcEpJVXc?oc=5
+- **Source:** The Boar
+- **Published:** 2026-10-18T15:43:06+00:00
+
+## Fujikura invests in Helical Fusion while Fujikura stock trades at EUR 24.57 - ad-hoc-news.de
+
+- **URL:** https://news.google.com/rss/articles/CBMizAFBVV95cUxQZFc3WERXYjgtaDRlbTVOYnpjS1RZdmNFeVBzbWtscVdxRldXYTBWdGkzbmdZOE9mSndpNTJ1cldkUU9NbloyTGVmVzR1dmRfcGM4dmNOQXFPV3BIN1Z5aUFHalVwWEw0MkVvcnpDOEJ4UVByZkpXSm1UMlo5eEtGWW1sZkxfeVdiR0k3THZJbmJwNmMxNmh0RThxSjNlN2NsRlJ4eFljeloyUW82clFTcDZlTU1iRVdfM0ZwTUhLUmxEbkxqWUVBRFdWSzI?oc=5
+- **Source:** ad-hoc-news.de
+- **Published:** 2026-10-18T15:04:19+00:00
+
+## Tiny Titan: new residential battery system from EcoFlow starts small - Electrek
+
+- **URL:** https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcmNfdm5nMHI4V2poQThlZzJLMlZQVXptbjZjdndtVUowUnM2bVJtcnNSSmphVzFzQjBRUkluZFVoSDJuZWRMdEdJUFROcUJNM0FfSGNJTjlScUd0ZEFMUllxWGFkaXhBTzEyM3J3NDBlUFpjMkROQ1RkTnlSOUJ6c1M5R3d6QjFiSVpwWUtNdWNlMHNmRDZDSzZjT3NHeG4xVTBHVVBTVzlJbjRfNGVEMTh6cXkwNmk5Qnhn?oc=5
+- **Source:** Electrek
+- **Published:** 2026-10-18T14:42:00+00:00
+
+## A Plasma Donut - Hackaday
+
+- **URL:** https://news.google.com/rss/articles/CBMiW0FVX3lxTFBORVdjSHFVNmxGN285Y3VDVnU4cmdUeGxvVmJWa01FeTF2M2VmR1Y2N2cxeDVfYjJhWVA2c2hROFFKR2pteXdFVEtXLTBaMGVqNmlSVHI1REI1dHM?oc=5
+- **Source:** Hackaday
+- **Published:** 2026-10-18T14:00:00+00:00
+
+## Trump Media (NASDAQ: DJT) Stock Slides 6% While Rumble (NASDAQ: RUM) Drops 8% As Market Selloff Hammers High-Beta Names - Foreign Policy Journal
+
+- **URL:** https://news.google.com/rss/articles/CBMi8gFBVV95cUxQZWY5ck0yYUFhSHJhVWY1dlFYZHBRcTJIV24xQjkwaEpuY001bVRtaEE0OTlQbTVQLW5VT3FLdXJhc3dqdEd2U0Qta1NtR2Z3M3laUXYtLWtGSnRkR0d3YWdzTTgzQ0R0S0NRYUp2ZERKNjAtaDJhRGlTcG95NXJQTGVEOTNiSDlnM2lxbXJfNGZrQ19pV1IxT3RRTmdiUk4teWdpMVQtWHNkdVBvLVRkZEc0UEl0bjJGYmpZempXQ2E0dm1qRmVha0Jfc2kxQXFLUDQ5bmNaWm43MkNVSHZRcE9Pd1RKYzJPYXh6NDYzb1FaUQ?oc=5
+- **Source:** Foreign Policy Journal
+- **Published:** 2026-10-18T13:50:00+00:00
+
+## GPT-6 Astra Pro reveals two counterexamples to Grad's conjecture on fusion - Pasquale Pillitteri
+
+- **URL:** https://news.google.com/rss/articles/CBMinwFBVV95cUxPRnpYUmJleUxGN3BXdTFCLW0zQUs4b2Nob3JQMDdMSzNMa3ROd0NfQ1l6dDdVZHZEQ0dDaF9HbGREelZjVFZVMm4xZHYtOXRzQU0yX0VURHpLRnk3d2lTZEt3LW1PR29iM0MzOXpTOWYzcHZzblNPLWZDQ3dCMG5LTmZNc1psWmdJNzgxdkFMd2tCSGlMNnFJOTQwZlVsQk0?oc=5
+- **Source:** Pasquale Pillitteri
+- **Published:** 2026-10-18T13:47:59+00:00
 
 ## US nuclear fusion reactor to test custom exhaust for negative triangularity plasma - Interesting Engineering
 
@@ -255,51 +303,3 @@ _Last updated: 2026-10-18T13:47:39.993640+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMi-AFBVV95cUxPM3NnMGRsUWhXX2Fsc25vR0VHWHJjN1lSeG9MOFZGU0NVQzAwQk5hRVVtZGN1Nm5nVVQ1dXhQY3hPQnFXakNmUnBZaGtFRlg3VjFSVUxUOHMwLTRqNGZiVnBmdUNEc2JRWGg3eUVyaWg2eWVuYWdqTllxR3pxMkNiTFRnZ3FoRVJZQnNpQzdNX1JybmJkZThMNXBFTXBiM3BJNjhMT2EyV3NjbkhjMC1MQTRrYXZ6MDJSYkFmWkxjOENWZ1VadVl6d1h0ZTE3Q2tZYk1LZ1dSV2R3QW44djl4MHh2N2daekZPM1dDcU5Dc0N2TW5OVUVLMNIB-AFBVV95cUxPM3NnMGRsUWhXX2Fsc25vR0VHWHJjN1lSeG9MOFZGU0NVQzAwQk5hRVVtZGN1Nm5nVVQ1dXhQY3hPQnFXakNmUnBZaGtFRlg3VjFSVUxUOHMwLTRqNGZiVnBmdUNEc2JRWGg3eUVyaWg2eWVuYWdqTllxR3pxMkNiTFRnZ3FoRVJZQnNpQzdNX1JybmJkZThMNXBFTXBiM3BJNjhMT2EyV3NjbkhjMC1MQTRrYXZ6MDJSYkFmWkxjOENWZ1VadVl6d1h0ZTE3Q2tZYk1LZ1dSV2R3QW44djl4MHh2N2daekZPM1dDcU5Dc0N2TW5OVUVLMA?oc=5
 - **Source:** The Manila Times
 - **Published:** 2026-10-16T17:44:25+00:00
-
-## Dine in the D: Peridot brings Vietnamese fusion to downtown Ann Arbor - ClickOnDetroit | WDIV Local 4
-
-- **URL:** https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNDRPSUlUVjdabkZCUTF4S3JTRVBqZ1l1eUlJbmZJVHlIeE4wY1pXYVd0WnRqbFRIUUZ2dTFYbzVuTndTY0lGa0xpZFRnNDhaRktfdXdJMk5ESDBuV2ZmQnVwN0ZNZXFJZXlPcWdDb1BEa1ZUNEhHNUNBbjhxR1Vid3hYd2MyNTZ5S0ItNDVxRnlLOHhQdHFhTE9aYWM0QndvLWRBeGN6dHZmTHE3OHdkY00wbWU1WE5iaG8xOG90YXBRTkU?oc=5
-- **Source:** ClickOnDetroit | WDIV Local 4
-- **Published:** 2026-10-16T17:03:59+00:00
-
-## Albuquerque Regional Economic Alliance: Robotics-driven company to bring 80 jobs to Nambé Pueblo - GlobeNewswire
-
-- **URL:** https://news.google.com/rss/articles/CBMiggJBVV95cUxQbXpTUFIxRzY2cVBBTmxmUlhDOG1ZbnE0dkhPNHM1dkdCT0lkZVQ0QlJSYm1FOWJoNjZ5R0hNUVN4cW5mY2thWHRLMFI0UVVVVE5TM1lyT09ieVpWWWZyLTFlV2tRVWk4cU9HWEMxdnZtaHp3SUF5STZCTm5qNnFIcko0MHV6MWR6T1RmZFl0VFhjeTJNQVBObFNBZzVrc3NfLW5YR090c0xrY3FvSV9nWl9WLTYzWXoyWE4xdV9pU1EyZTFJM2NhT0t2VTY3VlFSUnVjcnF1VjU0dXlZQ3M4N2pyX2hBZ01ZTTBweXo4ZW5UQzVTNXlXeUQ5a25KbE9kS1E?oc=5
-- **Source:** GlobeNewswire
-- **Published:** 2026-10-16T17:00:00+00:00
-
-## Panzani and Cerealis negotiate their merger to create a large European group of pasta and cereals - Demócrata
-
-- **URL:** https://news.google.com/rss/articles/CBMizwFBVV95cUxOSkJ0cVhjMWJsdlVKLXJHUklaOFg3VUNnUnBoNUhTVXhmWGtnWXZvTHdiWTRjTGJuT2lqblg2Y0NNSlBKcnZORHE1TFBQQU1nWTkzZC1aZjdRUHAyWEw3R0xtNXJTaXRBWGR0cU50UXJxaVljbWRFRERtMWVDa2ExbUZUdi12ZlBSOVlUa29tT3FGWkVYQzdISHBINnQ5TFZVWm9KcjdET3c2Wnd2SUhGVEQ3VWxqTWxLRC00dmx4TmtkN3lEbzR3czZpWnhnMlnSAdQBQVVfeXFMTkVUU1I0OWVnbTNfODdvczc0TW1MTmFmUG9qOElldkdvSGVVRXlvMnluck1wY1FKQk9mZks5QlJUaGpYUlgwRU1jN2FLcG9KNFU4MGVBcDdKX0hwcXc5cEkwcUF6MTJnQkV5ck5qZ3hkUG9fcVNtR1p0Q3poc2MtY0luSk9URHdvUURkSDIteC1wZDVFN3Q1T053aHNMNUVGNlhmTWJJSXh3SGxpbUFZX0ZwYXhRX0k3ZlI4dXh1OC1JUU9HNzJTNzF3cS1POVlTRXQ5dnc?oc=5
-- **Source:** Demócrata
-- **Published:** 2026-10-16T15:52:28+00:00
-
-## Energy Department Awards $36 Million to Strengthen Energy Research Across 21 States and Puerto Rico | Newswise - Newswise
-
-- **URL:** https://news.google.com/rss/articles/CBMi5gFBVV95cUxNQURrRVBQNjdocUVzX2gtU0xxSVpsSGYyYmlpYXRFOFUwekFIRkNYaHpkMXctU2cxYmd6c3dPdXpiem13cDBBdm9VVG5meTFqYkl2Wkg0OVM4TldLVHpUQm92SnZZb1FlTldaS2RicWRBTHZHenRzazlLaTRUenNGVEtRQzdtcFUwOE9OVjU1Y2M1emlySl8td0h0OGpZZDhRWldWVExxTlNLc0JpalhYMHBrQ3YzVDhDTlFiMnVsSDIwczgwQTg1OW83X01SdU01WDJfRG51aEU0TWpJQmkxd0FySzZmQdIB5gFBVV95cUxNQURrRVBQNjdocUVzX2gtU0xxSVpsSGYyYmlpYXRFOFUwekFIRkNYaHpkMXctU2cxYmd6c3dPdXpiem13cDBBdm9VVG5meTFqYkl2Wkg0OVM4TldLVHpUQm92SnZZb1FlTldaS2RicWRBTHZHenRzazlLaTRUenNGVEtRQzdtcFUwOE9OVjU1Y2M1emlySl8td0h0OGpZZDhRWldWVExxTlNLc0JpalhYMHBrQ3YzVDhDTlFiMnVsSDIwczgwQTg1OW83X01SdU01WDJfRG51aEU0TWpJQmkxd0FySzZmQQ?oc=5
-- **Source:** Newswise
-- **Published:** 2026-10-16T14:50:00+00:00
-
-## DOE, ABS MOU explores nuclear technology for commercial maritime uses - ExchangeMonitor
-
-- **URL:** https://news.google.com/rss/articles/CBMipgFBVV95cUxObmFDNnM0WWgwUGxpeVBsVGY4Z0NYQ1BuQ2J5dUYtbEo2RlY2TkRkbjFEdDV0dVdsM0ViOUdpSnRoaU9vNVlOV3ZXVUk5Wk04OVhQazI1M2Q0MFVXTG9qZldVNXlPUjd5ZzdpZy11LTZMMzhNc1IxbnpKYi1pQUE1SzF0SE82V3hlei0zQXZVRjFxQXdsUFJ6MjFpb3VNZ283UWxadUJR?oc=5
-- **Source:** ExchangeMonitor
-- **Published:** 2026-10-16T14:00:10+00:00
-
-## Gyakie returns with new single “Your Body (Crazy)” as she enters a new era with Warner Music - Lifestyle & Tech
-
-- **URL:** https://news.google.com/rss/articles/CBMi4gFBVV95cUxQMmhJS1FUMGxhVDEydm5icVBmX2JIa2w4akFNZjJPZkpISzZCUnh5NUt4NV84TGxtR0JFZXc4dUp0REo1UHdWbVZKRW5WRG8wdWVxZjNQVkN3a3Z5NXRTMTJWdGtHOHpHcnBRZ2xub3BpNzZqMnpfUkhuQkdMckIxSHRPNVRDU2Zob3FNWUU4V3dteEEya0xtRGx6M2hYSkR5SjRFQ1ZXU0EyaFBrek9BZjZqamE5a3VJT1liSlBHc2ZGRW1qSWZjcFZOMHVtQThYcHBrcUJnaHdvTndjT3VPSGNn?oc=5
-- **Source:** Lifestyle & Tech
-- **Published:** 2026-10-16T13:48:34+00:00
-
-## UT Wins Award From Google.org to Apply AI in Fusion Energy Research - College of Natural Sciences
-
-- **URL:** https://news.google.com/rss/articles/CBMimAFBVV95cUxNNVJHSmF4QVR0QXlvNkpVek4zRjF2WDAzbzdjMTd0WnNsQ2wwZjVtTjdhVjR2XzNIcFppNDBQQk1kb2ZydHBoR0RySjJseG5YRk9ZWmNxMDdDQTR0NHdPdmxla1NTTC1LMWd3Um1IV2ozOC0yRm96dk83YUJLS3VPd3Y2OUxtNEJ6R3NISlEzQzEtX3l2UmdGbg?oc=5
-- **Source:** College of Natural Sciences
-- **Published:** 2026-10-16T13:11:09+00:00
-
-## 'Field To Fashion’: Orlando Pirates To Make Stylish SA Fashion Week Debut - Soccer Laduma
-
-- **URL:** https://news.google.com/rss/articles/CBMijAFBVV95cUxQM1gxZjhIemRUdHV6Mk14dEo3N3FrTnE0clVuRmxUczNQWVlrNmRiei0tV0ttX3NvWXJvSlQ2bDExYmtQLVVhTWg4UEd3aWNrY1BvRG41V091NEV4MHFtNnp6ZkUyRFM3d2FFLU5mTm9WTnoxTWMwdHNVbEpiU2dMZU1ZU1RWY1dfR1pOQQ?oc=5
-- **Source:** Soccer Laduma
-- **Published:** 2026-10-16T12:00:00+00:00

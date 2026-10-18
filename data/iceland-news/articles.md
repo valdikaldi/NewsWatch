@@ -1,8 +1,26 @@
 # NewsWatch — Iceland News
 
-_Last updated: 2026-10-18T13:47:39.616631+00:00 · 50 articles_
+_Last updated: 2026-10-18T17:06:38.236961+00:00 · 50 articles_
 
 ---
+
+## Day: October 18, 2026 - adaptresearchwriting.com
+
+- **URL:** https://news.google.com/rss/articles/CBMiV0FVX3lxTE1LXzMzb3JfVWRqcGg2VDVzZENJckVCQm1tLTBQYTJhUHdRRC1hVlNzeXU2TVVnVmtfSXMtcGpZT3VIYnREbDFuZU90Qk5PaG9VcVp1NDMxZw?oc=5
+- **Source:** adaptresearchwriting.com
+- **Published:** 2026-10-18T16:13:20+00:00
+
+## Majority believe long-term living in Grindavík is realistic - mbl.is
+
+- **URL:** https://news.google.com/rss/articles/CBMisAFBVV95cUxON0NXUnFIbzFETDV2TFltSWpSZWl4WkJzY0V0QmZrNE1abGVxLWRfMWozQ3RoLTVSX3BPUTQxdHUwZHpZTThXUVFiMGZoNnR3bHd2dVE2NDNOMkU4clVjSlFJQjNxMkpQX0FXZzhOaURsN3liQVZ0emhnSzJ6bmE5azFTZFBhdzVTNktHTlRGUFRzS2dqc2JaZ19ZRFJVLUw5d1RjNGRHTV8tanUwM0JlZg?oc=5
+- **Source:** mbl.is
+- **Published:** 2026-10-18T15:28:00+00:00
+
+## Viet Nam, Iceland boost economic, trade, investment ties - en.qdnd.vn
+
+- **URL:** https://news.google.com/rss/articles/CBMitgFBVV95cUxOZkxJZFc2N2ZjUGh2cnVSbEpnWVFQR2hDRjFSdWZjUDJmNXl1Z0p4bnprZG4zQTZUUEN0cHpwd1dWV2o1QU8xeXRnNnZubTROenpxUzQtQ0RjQ2doQzlWTWxsQWdVbi1lYVUyRGx0RmdQVlVLaENJUmp6UnBLenlsYk1YcVVNT2JldjJlamNFVEVDZDdCVjdEM1VhXzdlcFVBTDFHa2hhelFpcGtSUlp1ekJuQlZZQQ?oc=5
+- **Source:** en.qdnd.vn
+- **Published:** 2026-10-18T14:45:00+00:00
 
 ## Iceland is turning 120,000 tonnes of carbon dioxide into stone. It is locking away the greenhouse gas unde - The Economic Times
 
@@ -285,21 +303,3 @@ _Last updated: 2026-10-18T13:47:39.616631+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMisgFBVV95cUxPT2ZfcDBwM1JrTWx1N0FKQjZvY1pHQ05wdHlKdTYwV1FpWEQ2UVpOVEZxYnBWWThLaWVma0g2dElJTFhEenU4TnI5MjF4ZlJIYmY2V1hIOVR6RUZReVBMcjlmeVp1UTY5M1RkRDJLRUFydVRiR1R0cEtNbS1hYndHNXQyQlZRekF1X3hPbFNqN0h5QjQ4ME9Ud1o0eVh1eFJaeDNka0haNWJSY3FsYXV4c0dB?oc=5
 - **Source:** Boston.com
 - **Published:** 2026-10-16T18:12:00+00:00
-
-## New Route: Iceland Features in Delta’s New European Routes for 2027 - Upgraded Points
-
-- **URL:** https://news.google.com/rss/articles/CBMicEFVX3lxTE1vRGNLZ1Zkd3hCdjA2Y2NnSi1GRllwcHRZRmEtaWdkdnhfRnJGcmFONWI2VjRaRUZQNHpJMV9td242cDdYa1FaXzVPVXlvQ2FPS2N1ckxhY3lSSGRZbV92WHlNSXdJM3pNdlFwaWhZb3A?oc=5
-- **Source:** Upgraded Points
-- **Published:** 2026-10-16T17:22:44+00:00
-
-## From Brigstock to the Arctic: Couple Take on 100km Challenge in -30°C - Northamptonshire Telegraph
-
-- **URL:** https://news.google.com/rss/articles/CBMivAJBVV95cUxNV3VmOS1xU3FIZHI3UXVja05Va1g2X3UyMTAwem83Vi1JcndhR1pFY2N5UTUwWUhGd3lUczZzRldUMjdjZmZSaExHa1hNZGV2TVJqbjRCT2ZhcTlBa1I3NklScC1QZHg5QThtWkFUZUlaanpoWG93UlpxWl82eW1UaXRtWXBjOXBfWTd0Mk5KeW9BODBpcTNwZkNpMTluNXE4Wm8wZGhROGp0MVJ0NVNKWmVXU2I1aWV5ODUtY204MHg3TG5sQkozN0I0SHhEaXpjNXdIbWltVWVNUHZUZUJodkxrS0NxbmRLaFVrY0Z2TzZOM3J1NE0tQVlkZVo1Qm9VSzl3eHZmSE8wdFNUVHpQbWctS3VhM3RLTGF4R2VjUnFFbHpYQTIxQTU1UnktQWpINHR0TkZqa2t6dmE3?oc=5
-- **Source:** Northamptonshire Telegraph
-- **Published:** 2026-10-16T16:10:00+00:00
-
-## RVK Unveils First Hydrogen-Powered School Bus in Iceland - Fuel Cells Works
-
-- **URL:** https://news.google.com/rss/articles/CBMipAFBVV95cUxQQTdFekdqMDIzcmQyallMVUhhR1hvMkFnOFBXV2NESTlWZ2ZCaHhHTURuZjI4aUtnd05QamE4cTMtaDAyNmdxa0szUU4xV21rN18xckRScFNpcmsyY1ZTcXFSczVpQXhZbnR6Q1N1Z3RVZW51VnNKV1FXdzV4ZXNiVkZoVVZVaDBxTHg5bkp2bjJuSTRrS2liS29LWmtDbWpKUm5TSw?oc=5
-- **Source:** Fuel Cells Works
-- **Published:** 2026-10-16T15:59:00+00:00
