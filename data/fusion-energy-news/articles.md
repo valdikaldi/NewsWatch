@@ -1,8 +1,14 @@
 # NewsWatch — fusion energy News
 
-_Last updated: 2026-10-17T23:48:16.808502+00:00 · 50 articles_
+_Last updated: 2026-10-18T08:37:29.447094+00:00 · 50 articles_
 
 ---
+
+## Feline in Love - The New Indian Express
+
+- **URL:** https://news.google.com/rss/articles/CBMieEFVX3lxTE9UNVFlMTNYMDh1RGxwUjVQT1JZMUd6S29WZFIwT0FUa3pmeTR4YmQ2cEh6eVV6UWs4ajA4VWZicTc4OWRnS0NHNVhiSW9hanRqbnE5UXVudHZPNzB6aVZDcnJudmt0MHdMV1dlSzR3OExkcTRKNC11VdIBhgFBVV95cUxNbmE1dWhKTFRTQnk1WDdKR2c4b1prejR4RkJYZ3d5MkxwOHRGVm9scHR5SnZSV1VjOEVfUG5TRENQanBuSnJTVDhUcDBmdUpXX2J0NlRKUHI4ZWFCeXNRWVJpWlBkTXQ0S0U5VVh3MEc4aUFJd2doQ0ZEVEszaHdfcXVfSEVIQQ?oc=5
+- **Source:** The New Indian Express
+- **Published:** 2026-10-18T00:30:00+00:00
 
 ## Fusion CX IPO GMP Today with Listing Gain Expectation - IPO Watch
 
@@ -297,9 +303,3 @@ _Last updated: 2026-10-17T23:48:16.808502+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMisgFBVV95cUxPTUNUN0JrV0RiZ1UyeE9YMGcyQVlyT2drNjA5QUN5aXF3Z2w2S3BJWWprMFZBS3Q4SkxEVjI1YmROaE9WTm96QWVsZXpjQmZLRklOdjN2bVl3OE5DSGtocGFJeHFpNWhDX1pteGFob3NTd0xhdXJ3UUV2dHkzbm5CUjhyZWVoemJjamlZY1dUd1BZTUJvcDluenlpUzRFRzlvWDQ3S2ZkaVZUblZ6dnVzUUlB0gGyAUFVX3lxTE9NQ1Q3QmtXRGJnVTJ4T1gwZzJBWXJPZ2s2MDlBQ3lpcXdnbDZLcElZamswVkFLdDhKTERWMjViZE5oT1ZOb3pBZWxlemNCZktGSU52M3ZtWXc4TkNIa2hwYUl4cWk1aENfWm14YWhvc1N3TGF1cndRRXZ0eTNubkJSOHJlZWh6YmNqaVljV1R3UFlNQm9wOW56eWlTNEVHOW9YNDdLZmRpVlRuVnp2dXNRSUE?oc=5
 - **Source:** Crude Oil Prices Today | OilPrice.com
 - **Published:** 2026-10-16T10:30:00+00:00
-
-## Ibraah – Tikita MP3 DOWNLOAD - CitiMuzik
-
-- **URL:** https://news.google.com/rss/articles/CBMic0FVX3lxTE1tLWxvVGNveTJkOHEzZDg2aE1EMFk1LTE1VUd3d0tzX1FkQ0Q3TmhDYTZEeERiRlZnbGx5Tk9seE82cEtFX3NpeVZwYks4VUtXdmROOFYyNU1tVkhFQTFnZDQyblNrQ0ZnYWpHRFlrZE82N2M?oc=5
-- **Source:** CitiMuzik
-- **Published:** 2026-10-16T09:53:04+00:00

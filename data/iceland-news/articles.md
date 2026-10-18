@@ -1,8 +1,68 @@
 # NewsWatch — Iceland News
 
-_Last updated: 2026-10-17T23:48:16.402941+00:00 · 50 articles_
+_Last updated: 2026-10-18T08:37:29.053524+00:00 · 50 articles_
 
 ---
+
+## Landslide Warnings Add to Sunday Travel Risks in Northwest Iceland - Iceland Review
+
+- **URL:** https://news.google.com/rss/articles/CBMinwFBVV95cUxOaVpDX1E4NUJwcjVVRC1iU3U5M3B3eVc2WFRLS3FaakRoV2JwQ29XTjVVMlQ1b09na2tjN1lVZG0tcEFpV3k0SkpKeUx3N0tIVExJdHZSVDRfZlFpTnRIa240XzFCMTJ2N0REMWNkS2lBSHZsT0JjckVBVGhYTVNXMUN5dXU3ZndsTDNKQkVmMzcwcGFKWVlaVmt0N294eFE?oc=5
+- **Source:** Iceland Review
+- **Published:** 2026-10-18T07:00:00+00:00
+
+## Vietnam signs free trade deal with four European nations - NST Online
+
+- **URL:** https://news.google.com/rss/articles/CBMiqwFBVV95cUxPb25UNUdoc2d2dlpPLXNvWTlHVU4tdXZwSG1OMktjOVdlU0pRcjJPWmYzMGhUVkpVVE9YX1RfY2UtY2xzWF9KUmVXVGFXTHEyZndBUWVfckFGcUNrTUtGT3B0czJ1WjZIaXVIdmowZTlkTGRHdEl6VXNiS1pSZ1JOUlBVVGZmMTRtMWo0aWNGNWtSTElwd3M0Vk1JWk1fXzVnNGo2NGxxcnZMamPSAasBQVVfeXFMT29uVDVHaHNndnZaTy1zb1k5R1VOLXV2cEhtTjJLYzlXZVNKUXIyT1pmMzBoVFZKVVRPWF9UX2NlLWNsc1hfSlJlV1RhV0xxMmZ3QVFlX3JBRnFDa01LRk9wdHMydVo2SGl1SHZqMGU5ZExkR3RJelVzYktaUmdSTlJQVVRmZjE0bTFqNGljRjVrUkxJcHdzNFZNSVpNX181ZzRqNjRscXJ2TGpj?oc=5
+- **Source:** NST Online
+- **Published:** 2026-10-18T06:32:16+00:00
+
+## Vietnam, Iceland to ramp up cooperation following VEFTA trade deal - VOV.VN
+
+- **URL:** https://news.google.com/rss/articles/CBMixAFBVV95cUxNYUxSN1RnSzlMZ1c4TGZvOERBUWp2NENFbERteTJMYnU0VG5lem9sZmtJZVVrX1RVY0lNY21TZi1aekFSSkQyaGhLdGVsaXFRY3JIR2gtUGlwZDVXT1htZzdjYV9zdVAxWlJyLWVWTGZBQ2I1QnREeUxnUVFxTHh6aWgyVDFZS3podFM5LXRYN1g2Mm14alRuX0p4ZENzSUVIeEFJZmNvc014UWZDYXg3dm9Ec2prc3lXUnpvdm45NWQ5YVFs?oc=5
+- **Source:** VOV.VN
+- **Published:** 2026-10-18T06:30:31+00:00
+
+## Discover the film locations for Supergirl (2026), around the Cairngorms in the Scottish Highlands and in Iceland. - The Worldwide Guide To Movie Locations
+
+- **URL:** https://news.google.com/rss/articles/CBMiZkFVX3lxTE1USUEwakZRMEFZQ09IMEw1eFVfdVBtRUhDZ3dJaWhlNlUtelFfQ1B4OXN2UVhTY0V5SzJpSmNJNXB3UFVlZE1UZ3hwVmJ5ZVk3bzRkVXE3aWxkREhEQVpHWVdvMFV0Zw?oc=5
+- **Source:** The Worldwide Guide To Movie Locations
+- **Published:** 2026-10-18T05:41:44+00:00
+
+## National park reopens Jökulsárlón Glacier Lagoon parking on 8 October - ad-hoc-news.de
+
+- **URL:** https://news.google.com/rss/articles/CBMixAFBVV95cUxQd0xNUWxFUEdHXzBWMnB1eVpOZU45V0ExbEN6X3RvbmlaeWIzWTZqMnR6YWNpNDg1WHl6RFRxVW1mQVNMYVV1Q1BORXFoU1JxczZfS3hJcmdrM1JuTHJjU3lOSVV6dFNXQVF5NlJSN0dkRXczdzMySHZxaGNUR2oycV9IeUlKYnpfZ1VQZHV1bU51QWNsaURwV2JhWjhzUmYzeERqYTBCd0hiOHk2OGF0ZmplbENRWkszOFo0TVEyM0FnRDVi?oc=5
+- **Source:** ad-hoc-news.de
+- **Published:** 2026-10-18T05:18:01+00:00
+
+## Vietnam signs free trade deal with four European nations - France 24
+
+- **URL:** https://news.google.com/rss/articles/CBMipgFBVV95cUxPTG40X2l0SHdSaUVEczFoLU1SZWtzUHBvOE5yaW43UkRIWlRDOHE4ZnowbzZjV0s0a0R5WmxrdC1hWnRGcER2b3A1NUJZVUJPcGRhZkQzd2w2M0p1dlpsSElyUDREdVVlZlVib1drWlZpMWJzN0hydW16cHl1VWxwNm5aMXZCeU1nVG1hOVFNYmk3bmtnZmJoTlZnSUZ2Y2YwOC1sY0hR?oc=5
+- **Source:** France 24
+- **Published:** 2026-10-18T05:15:23+00:00
+
+## World’s largest island Greenland has 80% ice, zero connecting roads, and you can only fly in from Denmark or Iceland | Travel - Hindustan Times
+
+- **URL:** https://news.google.com/rss/articles/CBMijgJBVV95cUxQQnlGZzFVLW03eTE2RzB2X3Z4QXVrSTVWazRwU3R5UEQzWnRBaUl1cDFaVFpkRU5QaEZiaWNJaWs2RnM5elJaRWFDMURJSHNSdEVUZy1pdEdZQlhCb3hid19JM29LaVBZVG50SFBlTTZGVU12WVhJVnRYZk5EcEFjSnlvS3lPakpIWGRpNWdIdmlLY1dpUWo5QTR5SzYxS0gxakNJRFJtaUw2cXhtQXhYUnRZOTVUVjZFMFlibTR0ejVxOTJXSTk1M3lKQlhCU0lqRUtaNHZaVFZURFZidVRPQU9hbnNOUmdDTE82MW5uWVpNYnd3RlFiUFRHNmU5Y0d6S3FNNjlNN1k1eUFkd0HSAZMCQVVfeXFMUGhpUVBYSDB5TXI5SXRWYXYwbTh3OEkxbzVmR1JycmZPVTZJVk1QaFZIYW90d3dEeFdVR1U1MHAyQnBtUWZhOUxpZ184N1hpMlFsQ0Jvdi1PYnhqeTJ4MU9Tb09PMEZkNXVOVGJ4TEpVblVocWY0N2xLOUg1QkFFWVpTb3F4aFVlcDluRm41OHZCRGNfSkpYa2lkTWNEMDNtT3dQVWJaa05PUFNrOUo5a3BKdUVPNnhlOE9rQm5WOV9MRG9zMnRWcWktbmkzTmVndjFRSDk3VjFLd2U5V3pEZTBFejA4Tzc4N2M2UGRfNmVCYnFLcXBaWUJlRFVHVU5KVWxUWEFGSkZlSHdHSTM1ajVyMG8?oc=5
+- **Source:** Hindustan Times
+- **Published:** 2026-10-18T04:34:33+00:00
+
+## Hallgrímskirkja hosts anniversary week from 18 to 25 October - ad-hoc-news.de
+
+- **URL:** https://news.google.com/rss/articles/CBMitwFBVV95cUxPdlZzeU5aenNfY1hxaTlfTWQwMjhoZmpZVzR5a2lNdXZKa1BRclctaTd6YWU2RUlyVURfYTFVNmtRYTVNbTVmTkY4bTVwclcxd0swbGxJU1ZkcjA0c3k0SHFMekFkQm90SlFyU0tCVUdMclBONmNOOEJKSFktaUhleVliajBjT21KSGEwV1hfMWs5Z3c1VE9sVGJTLUViRklIMXlzV0dNLTJBQXpQYUNMbUxaeHRkdjQ?oc=5
+- **Source:** ad-hoc-news.de
+- **Published:** 2026-10-18T04:01:51+00:00
+
+## Menomonee Falls man critically injured during 50th anniversary trip to Iceland - TMJ4 News
+
+- **URL:** https://news.google.com/rss/articles/CBMivwFBVV95cUxQdnk2dG5RcWc2Rjk4elhuWjh4QnM0MXV1WTNJdlgyVE9WU2dMY243cElEeURnNGpNa3N3UVl3WGI1dlBrd2RaLTNJUS1zUFFrVEZrZHkwU3ExUlhpMDJYdVVhS2NBa0pjWU9mOTMxZ01xaHY0RjlaQUVSSmR1aVNDTHhhWFgxZkE4aWM1eFBwX2YxZXZSSE1DU2Y1YWZTUW42SXlzTHFpVm5lUXlBcjgxNHFtNEQwbkdxVkw0WjdHWQ?oc=5
+- **Source:** TMJ4 News
+- **Published:** 2026-10-18T03:20:48+00:00
+
+## Sneaker Wave Slams Family at Iceland’s Deadliest Beach in Harrowing New Footage (Video) - SURFER Magazine
+
+- **URL:** https://news.google.com/rss/articles/CBMibEFVX3lxTE13QldkSGdROGNMV1d1Z05heGgyRmw0YnJTRTJtaU45UGhnZmNjRzZRRWdBU0w0dVhVdGItZFVYd1ZidW1kRXpkcW1pYUNDeGJyQmVTVU9rMGFGUFdzTkluZ09qS2ZyWGg0Vkg2cw?oc=5
+- **Source:** SURFER Magazine
+- **Published:** 2026-10-18T00:15:00+00:00
 
 ## Thingvellir National Park closes its visitor centre on 23 October - ad-hoc-news.de
 
@@ -243,63 +303,3 @@ _Last updated: 2026-10-17T23:48:16.402941+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMi1gFBVV95cUxNSlRxSVFfMUlXc2t2dkF6M21oWUpnZDJBXzFSNnFVQmI3eFNrUkkyOTBtQVdnbmM2SmdMOXJ3NTByS0xTeGxwRHk3b0tVSHZ2UlIyY1VhbjZDY0pYS3RzeXlBUHE2dTlha2VWTTJOYkZfN1oxdjJWWmphaUMxcFpYOGo2VV9OMGF6WDB5WnY3TnBQMDdwVXRYbXVMMkd2YUNzZWM4RW5nRlFyelpPS2ItS0tIbnhHbHBLU1RzMW1ucHZZNjg3cjdZdGNOeFlfYXhzU1NWZmZR?oc=5
 - **Source:** KTBS 3
 - **Published:** 2026-10-16T15:00:00+00:00
-
-## Highly pathogenic bird flu detected in wild birds - Iceland Monitor
-
-- **URL:** https://news.google.com/rss/articles/CBMiowFBVV95cUxNT2RKenVURlp0QmYzQnIweGRMQlhYaXloVGRoZlRPcTlnOXVGQnc3V0pqelduajJGZ29VeGFiZ2g3WU5CVHVPYTg0Ni01cjNud1lMOTJnOUJfRnZTYlhDM1liUjJwTUxaclR5MnVzYUZ1eWkzS3N4SzdzbmRRTmF6N1lmNXJ4Y2I5RHEwdU5RRFpXcVh6M0E1SU1Mck5qdDhkMjdF?oc=5
-- **Source:** Iceland Monitor
-- **Published:** 2026-10-16T14:10:00+00:00
-
-## An Historic AI Summit in Iceland, and a Conversation with its President - [ Center for Humane Technology ] | Substack
-
-- **URL:** https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMmtYc0x2N0FiekpDblNzcjctZ2Q5anA1Y29ZaWtwTkRmUUZkeHdrcWYtRnlQUl9HYUNNZkIzRTc4SzFmb1F2dDJBOFhJRjZyRU1TbEd5MXZLLU53dElaUWNHZllRbmdMZUdmV21Uel9FVmFsZGU0WEtLbS1fRmdIRlljRlNPaHJt?oc=5
-- **Source:** [ Center for Humane Technology ] | Substack
-- **Published:** 2026-10-16T13:53:10+00:00
-
-## No one better connects Boston to the world: Delta announces new route to Iceland - Delta News Hub
-
-- **URL:** https://news.google.com/rss/articles/CBMilwFBVV95cUxNXzBiWTFTVnpHRzUwQmlhVEJnM241cWRhMFZZcm1DZlN4YjRlX1hiMkxseXVfc3YzOWtwblBxMUp0TThnNnh0Z0dxRGpUbU1qMHJaM3pRNFpDTkJBQVViTHVLQzdLTWJ6YzVqY2NUUEpsajJoTTMtT3hZdGo2WnJUMW1aNFNQVDk3Q3hWMXBMTkhnSVNESV9v?oc=5
-- **Source:** Delta News Hub
-- **Published:** 2026-10-16T13:47:15+00:00
-
-## Storms across Iceland this weekend - RÚV.is
-
-- **URL:** https://news.google.com/rss/articles/CBMihgFBVV95cUxNZ3NiNDV0UUhDb2JORUhiV0Q5ajNYUUY3SDE5Uk1qZzhQUkN5dEQyM1A1ZTlSMU51WUJsZlg0SUxJeGtLeW5EVlRnMWJOUkZzQ1l2VGQzVDB0Mk9pRTQ4Y1NsVjB5MGZfc29SRTE4eTRISElZdWl2ZUQ2WGh6WEszVWZpckh2Zw?oc=5
-- **Source:** RÚV.is
-- **Published:** 2026-10-16T13:29:00+00:00
-
-## Iceland Makes Infant RSV Prevention a Permanent Programme - Iceland Review
-
-- **URL:** https://news.google.com/rss/articles/CBMikgFBVV95cUxPY01ZY3Z0QWloYjk5X2tXa1VpWlYtY2VqUmVjSjdDMEtGLW9XTlBwTHhsZXlWNHp3NWRlV1ZPd3lCb3NHNjJidjZodWFPaU44dU9tdGVTaVRRVlYyenFXa0NQckk1QVpWWXNGN0VNOWoxOUVvUXJkazNEZVBtMzZSNE9DTzI0X3V5eDd3a2d5NVVGdw?oc=5
-- **Source:** Iceland Review
-- **Published:** 2026-10-16T12:00:43+00:00
-
-## Fearless Girl in Borgartún - mbl.is
-
-- **URL:** https://news.google.com/rss/articles/CBMiekFVX3lxTFBJeTFLMThVczU3NHhSOTExUkowczVHYkV1RGZtcUpaYm5EbU50OWNTc0IwTWNUVmVUaWhzN1k4NERVRDNySVdXTjNmYVVEVE1nbnZkNnV2Zi0wXzI3aldMYldsaDNwbWJDX0ltTjZvbVpVNDFMckRuZzF3?oc=5
-- **Source:** mbl.is
-- **Published:** 2026-10-16T11:14:00+00:00
-
-## Eurostat EXT_LT_INTERCC Update: EFTA Trade Data for Iceland, Liechtenstein, Norway - News and Statistics - IndexBox
-
-- **URL:** https://news.google.com/rss/articles/CBMisAFBVV95cUxPZ0N2VERhalhzc3p6LUNCLVFOamdIcy1QWXoxRGJCUzE2dFo3Rzk4dnlUd1FlWThER05tY0VvWGZYZlphV25Zbmh1N0c4MERSMFlHbXhlVVBmeDM4cHQtUjAzX0NtWldEUUlxTTNNUk5kd0NHNkl6ZUlkTU5ZUDJVc2t4T2c3aGpfYVAtLXlDMTJuVWE3WnhreHlMbUFYcDk2T0syeEJyUEhObWsxaTVWTA?oc=5
-- **Source:** IndexBox
-- **Published:** 2026-10-16T11:10:46+00:00
-
-## Ukraine’s Wartime Emergency Lessons Come to Reykjavík Rescue Conference - Iceland Review
-
-- **URL:** https://news.google.com/rss/articles/CBMikAFBVV95cUxOT3F5eDV2clZHZ2xhS0lkNUVGVm4xaEdudkc5cXJQb3cyUWlUV284dG03ME9BWGFoV2NOV1JrWlVvZ3hEZjVmVkJOODVfZzNkN0o5cnhmSG83dkRwLUpmRlJObjVJVWZZdkNZQl8ydlM3T1BKNFRUeXAxZ2I3TGpYeWVLcFdGdG03bFdjSVlIcU0?oc=5
-- **Source:** Iceland Review
-- **Published:** 2026-10-16T10:30:23+00:00
-
-## Taste of Iceland Vancouver 2026 - Your Complete Festival Guide from November 11th to 14th - Canadian Travel News
-
-- **URL:** https://news.google.com/rss/articles/CBMib0FVX3lxTFB5N0lpNXFMX2d1VGdqZDR4c2E2aF85MllUWk0yTHEzRG5TQWE1WVNMSTJ5S0ZRUEV2VHhGNWRuRTZ1M3VaWVJJVkFPZG1sc2lWaDRGQ0FpTkpOMExEWEljSDloc3JZUXctQldseFg5dw?oc=5
-- **Source:** Canadian Travel News
-- **Published:** 2026-10-16T10:02:09+00:00
-
-## Police issue CCTV appeal after ‘incident’ at supermarket - Newark Advertiser
-
-- **URL:** https://news.google.com/rss/articles/CBMipgFBVV95cUxPUE1HMVMyQ3RreTVPYVZ1clJycEg3YlJoRkJMd3BxQm1EQ1hzM1ZnZ0ZTeExZS0o1OVNHY0VVNld3N1Z6T2R3MUVOVVpXRGVHUnA5eV9ubTVBbWx2SzFVeC1fX2JYTDZGM1AyanloSU5MQkZkdEo3dVJ1QVZuT0JYdUtUR3NSTjZJdUFnWFpmVW5WNTZDX2hQUFhtUnZtcXhOb3Vmc2Vn?oc=5
-- **Source:** Newark Advertiser
-- **Published:** 2026-10-16T10:01:00+00:00
