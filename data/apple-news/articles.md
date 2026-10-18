@@ -1,8 +1,14 @@
 # NewsWatch — Apple News
 
-_Last updated: 2026-10-18T17:06:37.259568+00:00 · 50 articles_
+_Last updated: 2026-10-18T20:12:56.188991+00:00 · 50 articles_
 
 ---
+
+## Forum orders Apple to replace iPhone 17, pay Rs 35,000 over persistent defects - The Times of India
+
+- **URL:** https://news.google.com/rss/articles/CBMi6AFBVV95cUxOdGVIY3F3ajdTZEZVNGh0TmF4NE95c25BNUhYOGVSWVEydUUxN2hfTnRtUXJobnRLYXpXS2dXamV2Tm9xWmc1MWw1S1E2a1BFMV9YanNMRXVWYzVSWVlrcDRISng4amlhdE80NEdNUlNUMHp0WnZIdzNBT2xJMzRWZWNEZGpUeHJTOEFnZXpodjBMT1FPSXkzVDA3anZvTzJUQlQ1emN6SW1vbWVSM3VVekdFeTBMYmt0alJDV0t3QU93YWxuanRJV2doOHdVLU5BTHNpY2c0MFdDdjFVYW5ISlVPSk5Ma0p00gHuAUFVX3lxTE10dHBqYXJwN3ZaMUFwU1ZHdDdpeDdackpuc0JRd2w1bDBISk9rLUlZaEFLTUFSVXJwdkczU2IzVFF1QVkydzM4czhnVGpSbTMyR1JZdzg1Zm1QZENPMEkzUEFpd21oRklpTXJNaFl6dTNkSDA2RXFGT1NIaE5XX0JQNjlfMnJfQkRyMlhISUlmMlpyS3NlakdyWmlvODlnNjNhRTR6S1hpUkQ2LVNIdktPNXFkdTJSeDRsMmY3TWhFZXdmc0phUzRjWm83ODV0aTBMQ1dkM1gyLXB5YjRBOTdrYTBfaVlRdzhaNHRpYUE?oc=5
+- **Source:** The Times of India
+- **Published:** 2026-10-18T18:51:00+00:00
 
 ## Trump’s Russia Tariff Waiver Helps Apple, Eliminates Tariff Advantage for CF and CVR Partners - Benzinga
 
@@ -297,9 +303,3 @@ _Last updated: 2026-10-18T17:06:37.259568+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMiywFBVV95cUxOWEtVY1RMUVNLSWNmQTAzWEFKUHQ4V1ZSUVVDeGZTQXRqSE5LZXZ5S0ZCamI5U2J1V1M0cWk1aWs5TGkzUUw1bUxTQ3FIb1NfZEwwTWRPX2JGNW9rWjNWV2dYUGtaZ1ItdXE5dmtMR2liUDNIZTBlWDNwb3ZPNnc3ZTI3QmhIYXlOVFlfd0VCa1RBX0hJQUJSblhwaUNFczZ3NWZkU0lqLXZEOVFqbC1maEpnQjVXSnpsQXl3bEI3LXc0bHVsWEFGcHJ6UQ?oc=5
 - **Source:** SSBCrack
 - **Published:** 2026-10-16T14:40:57+00:00
-
-## “Order today, get it next year?”... Signs of a full-fledged shortage emerge for the iPhone Duo - 매일경제
-
-- **URL:** https://news.google.com/rss/articles/CBMiU0FVX3lxTE1mUGNCeEI0X0JKMHJqSzlaa1NTRlN5c0F4OHdjT1VrTjF4VGptZ1dYZnkzN2sxU2pVQ0xtNGh3VUFQRTRqNkphNUMwSGVHU2JfcUJv?oc=5
-- **Source:** 매일경제
-- **Published:** 2026-10-16T13:55:35+00:00

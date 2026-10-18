@@ -1,8 +1,98 @@
 # NewsWatch — Microsoft News
 
-_Last updated: 2026-10-18T17:06:37.812738+00:00 · 50 articles_
+_Last updated: 2026-10-18T20:12:56.817257+00:00 · 50 articles_
 
 ---
+
+## Microsoft Pulls Out of Nscale U.K. Data Center Following Delays - The Information
+
+- **URL:** https://news.google.com/rss/articles/CBMinAFBVV95cUxNSGt5dnNxY2lxRzJpbFhwYUxxb0ZMTzF2bjN2cnhhQ0ZQaVN1cFNwdEdISWRpdk5zU2RqOEF5T1BkX2pVVWIyai1YVTJ6cmhkbHJOLVdqSDd5bjMzM05FOUl5S3dVVXVNTk05T2RtcW0yM2UtRno5OXBmS25wajdnRkNNNlNqdjZhbG5oY0NyaGk1M29ja2ppaHkwVUI?oc=5
+- **Source:** The Information
+- **Published:** 2026-10-18T20:08:00+00:00
+
+## Microsoft (NASDAQ:MSFT) Pulls Out of UK AI Data Centre Deal Amid Power Delays - Stocks Down Under
+
+- **URL:** https://news.google.com/rss/articles/CBMie0FVX3lxTE1fM2NwSjFDRGVfSURXaXc0VS1DTEZ4Ym9EdDA1V2lpTVJFaWk4YkFiRFhFMzBIaWNLTXZzeVpNa2k3RUZxcEM1QmFTLTViNEF5RWpMaWFpVXJXOGF0eHFTV0pTYzZuQzZUc0RFd3NRRTF1ZEZEVTdWQTJTaw?oc=5
+- **Source:** Stocks Down Under
+- **Published:** 2026-10-18T19:44:30+00:00
+
+## Microsoft pulls the plug on Aussie-founded Nscale - Capital Brief
+
+- **URL:** https://news.google.com/rss/articles/CBMixgFBVV95cUxNWTNmVXhGS19nZ2pVNVJ1SUctbWtJNFctMXpXa1lMYVhvTWJsU0VZWFZVeTlIVlJMWVQzdlBib0E5a0M2TlBRRGNIaVl2Uk1UZnpSZFNQdzRPdnZVeVF1TUY0SExyeGwxT3QtWUl4M3NWVnZiTm1aeExDbHRQQmNxNUhHbjJfV1VOdjg5YkRCdklaVWhaekJkLU81NGZUYTJBbTlFMGN6NmJ6YUZ2dTVMMlFDWGp1QjJSM1ZnY0p2TWZqMm9RZmc?oc=5
+- **Source:** Capital Brief
+- **Published:** 2026-10-18T19:30:00+00:00
+
+## Microsoft Releases 6 New Insider Preview Builds - Thurrott.com
+
+- **URL:** https://news.google.com/rss/articles/CBMinwFBVV95cUxQY0tDekVVU0gxX1ZJLTZQVGUwN2VuUjRwZk9ESHFQMzZ0ekRyY055X0pqb2dSMUJ1UE5XRHZsUHhLY2ZaOXVXM3lGQl9hY0ZVS2lxRW41TkVJTU1MTEpzQ3V1am5DN1NNM1E1OXR5WUt1UmpLTzFtZGVQVktpRzVTZGdnSXl2bFNhQkt2d1BwUnZnM1BBQmZPd0h0Zk5LUVE?oc=5
+- **Source:** Thurrott.com
+- **Published:** 2026-10-18T18:48:31+00:00
+
+## Microsoft is offering 25 free games if you buy an eligible Windows 11 PC this holiday - Yahoo Tech
+
+- **URL:** https://news.google.com/rss/articles/CBMilwFBVV95cUxNc0FVWkxORnlmbFROVTU2TVhHQW1ETTRKMkVkWTIxQjlaaWZwazdJUm5QODItaUh6aWIyQ0lQbVJCSTI2OGk1UFU5WUVLdW9DQXJ5REtySEszUnd4eTBMM3U5TzdNWFpyWklOMFFsX1lZT1ZOcnNVdWhwZEFuM1U5YXBRUEZKRkxzNnZxejJIZkk0a3R2cFVJ?oc=5
+- **Source:** Yahoo Tech
+- **Published:** 2026-10-18T18:06:03+00:00
+
+## Google now wants Windows 11 users to ditch Edge for Chrome, and gets away with what Microsoft is slammed for - Windows Latest
+
+- **URL:** https://news.google.com/rss/articles/CBMi4wFBVV95cUxOUVd0bW9CdFJ1d1VWcWpVMm4zZW8zcndRZG0yeC1YZmN0d3JNd1Bia29UYzB3M012OVZmSGdkSXJVVWlpM0J2anhVaW5GVFBVYW9PS1pMM1h2eGstOEpmR0NxY1lwRktCZlB0a0FBbmhuZXRkYkwtMkF1MTRNbkNBOFM5R1dlWWo2Zzd0MFFmY2xKZ1Q2WkJjLUM1S1A5MDdocDYwU0NZUnhjS1pucGVCaFptbHZpMjJTcU9Ya2doc29YdmNyMU1Tc2NSVEtsVTBBQ2l1Mmx0NnYwTURFWWoyOUx0UQ?oc=5
+- **Source:** Windows Latest
+- **Published:** 2026-10-18T18:03:44+00:00
+
+## DavMail 7.1 Exchange Gateway Improves Microsoft 365 and IMAP Support - Linuxiac
+
+- **URL:** https://news.google.com/rss/articles/CBMilAFBVV95cUxPdlVFNUtYQU1GSUNMNFFEVDZ4VkFNS3V3OEh2RlVvdTY1MFBNZHhqTWVIemkxX2M2S3F4Nkx4ZFozT3BJemI0TzloWUlEWXk4VFRGaFRrRC1sb2czYllHRGRidEFzUEF2YTJ0UEpvRjFMSTJfc3ozak5zSG9NdDRKcDZoS2lvNUFmc3RjYVZaQVlDNHIx?oc=5
+- **Source:** Linuxiac
+- **Published:** 2026-10-18T17:53:10+00:00
+
+## Microsoft Reportedly Quits Nscale’s Loughton Data Centre Ahead of $3bn IPO Plan - AskTraders.com
+
+- **URL:** https://news.google.com/rss/articles/CBMitAFBVV95cUxPRjFWUlF5a0NEakpBUDNldjFFb1JBSl9MSC1xNE1KUDRaZFdkRkw4aTd0bUVyajhlWGp4UHZFaFZRZHhpWG5IQWtsSW8wVUV0X1JtVmNid1Vma3IwelQwTTJfR19VNWFhTzE5RE1fR0FRaEstU2hFSmx5VUdnNnN5QmtkNWlGeGE0MVp6bC1NajdFaDY5bzJNNUhiS0pOUC03ZHg1dm93elBRMkl2YkpCZzFsbDI?oc=5
+- **Source:** AskTraders.com
+- **Published:** 2026-10-18T17:45:15+00:00
+
+## New Xbox Job Listing Hints at Physical Games Possibly Sticking Around - TechPowerUp
+
+- **URL:** https://news.google.com/rss/articles/CBMipwFBVV95cUxPZjVuZFRLRGQyTzlYWEIxX2pxTFo1YzJwQWlkU2ROYjczZVF4dHdiWm42UlUyRFhaSjBMVkdiNjNCOXNXbmxXUkxzQmR3Z0NzTjV4YkRTUkdZQ2VtM1BRSWZfdnhRU240NHBZckZhcTdLaFBuSG9rald2MlpnQ2FnOHB5MTRjVmJ4MFBsb0tHNWI4NEM2Z3Z1dEkyNklPaGhzTEtYWGYwUdIBrAFBVV95cUxQc1pxM1lJNWZ4QURaSWtOMTN6dDJRT1lFeTBINWY5UHlLQTlidVh3c1pPaVVrQW1QeVZwVVNXeWJIQnh5bDNqRklBMExPN0hzQ1g2WExvV0hzZEpvTDN2SlFqRDB3TjhHZGVfMGVObGJnb2dORUZ6M3pZNFVZOHpfYktjQ0NxcU5zaEdadUdLa0d1ckFrc0YwZlFtaXdQWkg3aHRuMjNxak15MXZF?oc=5
+- **Source:** TechPowerUp
+- **Published:** 2026-10-18T17:44:00+00:00
+
+## The Ex-Microsoft Exec Who Outbid Cher for an Antique Archway Is Selling His $9.75 Million Seattle Estate - Realtor.com
+
+- **URL:** https://news.google.com/rss/articles/CBMipAFBVV95cUxOTnA3VEZCRVdwWHFIeVNpN2VYaVR0UC03c0NENXU0LW04b0paOUJzNHFMM0VzYWdmUHJYZGxKWWxCcXN1VVFGbTQ3MHlURHVxczFkLWxTRTlrRmFOVWthc2RDVThfaWlua1hGaVA1aF9pcDQtUGwtLXlkRmdWVml6V2FnWlNoUUFJZ2FWczlMUkpvMzdYMmFkeUJTdkRvOWdYNkZQOQ?oc=5
+- **Source:** Realtor.com
+- **Published:** 2026-10-18T17:43:00+00:00
+
+## Ex-Apple engineer of 12 years may ditch his Mac for Windows 11, says “on paper it’s a yes” - Windows Latest
+
+- **URL:** https://news.google.com/rss/articles/CBMixwFBVV95cUxNSUZDSmsyaEZvWV9hYWlVNFBSZ0hYVmhxM0Y2M3FOWmVCOXhZTzNpdDliZmhNT1ViRkQ1SkV5ZzZjSzJpem1XN1F2WHNCWFd1SlRjZXZ0SGFhSzNicDZ5eWEzbW9jUklwXzZIbS1hUnJzajhfSU90T3U4bzJXbWRUcXplX1lvOEJubTNEMGlvcU4zSU5EQWhzVmhyY0VSbU55N1IxS2hTc2dBMm9ib1k2MXlqMWpsR3EzSzBmc2lTc0dBMW1EZGY0?oc=5
+- **Source:** Windows Latest
+- **Published:** 2026-10-18T17:38:38+00:00
+
+## Why Microsoft and others are on the sidelines of WA ‘millionaires tax’ fight - Yakima Herald-Republic
+
+- **URL:** https://news.google.com/rss/articles/CBMi_AFBVV95cUxPb1NLLXBjbWxDNWVrcl9ROXNpZTJEVTRmNHJhcFA2VEEwVVJxNHFOSTFjWkJJRlQ1UUhXeGlSVGNjT0xHWW5kMW1jR3Q5U0NVLWgwRGZSUWdvUTUwSXdwX1YzU0RWQUYtSm9fbVM2ZWZxNjZRRHRncGQ1Q0lSWFRRNVZoWDdRcE4yajlJRUt1TEtWQl9XUG9PdDNaNl9NNnBzRVRPcjBDbVdHSUpmS3ZZYXRJemtxWnRCUE9MdFEyc3BELUM2d0FuQW5pakstV0FuZFhtVG8tei1PbDBVa1JiSGZldklMWEV6UnhvR1RNTGgtSkJUWVFuR0RCdlPSAYICQVVfeXFMTzBuLVQ1TC1nMUttM09ZamJHem1jZlllYURVZTdIdElqM3VUd3pYbUtnRXBVOXZLTzNkZWxISWhtSHlBUVpnckxFZnFoUnNaTWI3aDRpU3VBOFBaS1d3NG9TdTJETV9sSE9wamFxMGhVT19VbndoUHBVTnE2RWc5ZXMxQlFCcXZhRWFKNGtXLTdZRjNTRnhlSzJRb0VyVU5KQlZSS01WVUZfa3JpRVpzeVVybDJxeWJsUUhIWnhKVHhTU0dUbmFfaFV2YUhwUnhBcEwwdHJLTFJmUE9jZlRyLVJodmhmMDgxaEd6b21wekxObjR3ekJheVlBcmpZS3kzSk53?oc=5
+- **Source:** Yakima Herald-Republic
+- **Published:** 2026-10-18T17:27:48+00:00
+
+## The Copilot Problem: All Risk, No Reward - Cybersecurity Insiders
+
+- **URL:** https://news.google.com/rss/articles/CBMihAFBVV95cUxPb216eEt0TFpqT2o2dkl4ZlpTcXVwOEViUl9ENXZVSEVMdEM3emJzWEx4ZDJUWFEwVHVIYnROcXE2b3J2cTlVd3FlSGJJeXk0aTdKMldaTmxLRkdkeWZLUk5fOUVvQk1FbmI0N25jdnUyRXdMd21nWlFLX3d4ZG5ET1Bfc3Q?oc=5
+- **Source:** Cybersecurity Insiders
+- **Published:** 2026-10-18T17:27:25+00:00
+
+## Shrink: Video & Photo Compressor : téléchargement et installation gratuits sous Windows - Microsoft
+
+- **URL:** https://news.google.com/rss/articles/CBMiggFBVV95cUxQVmhaYkVCci16NEIwTGg1N1hnR2JCWjJFbkxVSVl4dnFVc3kyWjJXRkoyZVcybDc4dWZCX0RibDhIZVEtb0luVm5YTEFsTTNxMi1kVWdkbTlLYUNhYXZSVUFiekF0ODMyV0s1emo5S2piQXJNazV1dmZ2U1dWc1pWeTlB?oc=5
+- **Source:** Microsoft
+- **Published:** 2026-10-18T17:24:51+00:00
+
+## Microsoft withdraws from artificial intelligence data center project in Britain - صوت الإمارات
+
+- **URL:** https://news.google.com/rss/articles/CBMiywFBVV95cUxNaWVvb2prZGFKM2dTallHT0pqYjc1RUNGN1Btek80a1BvLXFFR1hsZU5MZWVXVXZ4VjM0Q1dSTG9KcVZhRGNCc0dtaWZDbGMwZk82WGZueUpOWkl3SThHRjl0aEZtaVNxZHRYbmlwcjdSS29hQXJwS2FxdnZQRkdiRHgyMWpuMUIyam10eGlxSFpEeEpRRWJfMUcyVTJwcmRxWEVORDNZX0tJU1NRSl8yQnZraTRYaXUxNlRYVEMzYW9haG55RVZMWXYxTQ?oc=5
+- **Source:** صوت الإمارات
+- **Published:** 2026-10-18T17:13:23+00:00
 
 ## Microsoft pulls out of Nscale's Essex AI data centre - BBC
 
@@ -213,93 +303,3 @@ _Last updated: 2026-10-18T17:06:37.812738+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMitgFBVV95cUxQUkoyTHNLZ1AtZE10dEh1Vy1WeWZpQ3RBaVkydVNDN0xybFh3dlhteE03TzlFU2x2OWdvMGF3V0dNelp0VExWSGpDSmFtalhhSVk4S3pPNExwVUsyWlpUd0hhNnp4bzh0Z2JFOGpBalVvTjdxakVtQkVxWC00YXlHdmh2Tk81NTJXWVZZaDVia3U0a3Z0aUNTYTZNSTZMbDhQM1paYkthdndRdnhIMGNGNXR2N3p4dw?oc=5
 - **Source:** Moomoo
 - **Published:** 2026-10-18T12:03:57+00:00
-
-## Microsoft pulls out of UK data centre deal with Nscale — report - The Edge Malaysia
-
-- **URL:** https://news.google.com/rss/articles/CBMiT0FVX3lxTE1tSnFobElfcmFRWlFXby1tbGxZLS1Wd05Rc2hEMW9KRUM0UnFlM1JudkFSQ2ZFU1EtallQWS1kUnVWaGJJNEswM092UkJMakU?oc=5
-- **Source:** The Edge Malaysia
-- **Published:** 2026-10-18T12:00:51+00:00
-
-## I used Nova Launcher for years until this free alternative replaced it for good - Android Police
-
-- **URL:** https://news.google.com/rss/articles/CBMipAFBVV95cUxORzJnUkZuR1hnS05wX2h6eGVSMFZscUwzM3RFZ0lHR001TmktRHcwM0VnX243MU9wMU81V3RrNERYTmtJZUJjRWpYaTJVZjRON21RR2FLbnVwZHhzYW5ONzRsdy1oenV5Vk1ZSl80alBmejB2VEFISmg3MlY0a1p2bmY2NXpnLVFVWUJJVjRYTWJjWjU3UG5RYlJLUHVlWEdlenlOMA?oc=5
-- **Source:** Android Police
-- **Published:** 2026-10-18T12:00:13+00:00
-
-## Microsoft explains why Windows 11 still uses MS-DOS file names, and why it can’t change them - Windows Latest
-
-- **URL:** https://news.google.com/rss/articles/CBMizAFBVV95cUxNZFRuM0VzVWlvYktuajVveGFYQXowZ0c4WWhzNkdQYmE5R0NYenF6SDVwbmc1aFBJanZQbXVfcmVxT1ctOTZscVZJcmZfZU5kSER5eFlVU1ZJZUdRT2o3dkNvS2NJMHNqNF96V0QzMnJLV1RKY2NYQVFpcF9pRHk1c0w3QWxJXzFLa3dkeWNOZTNhVFI3TjdGOWdHU0FEUXJXVVpmUV9ZbUI2YmhjakYwTVhuNHM3TFotWERlbGphQjFhaVYtYlRhX1o5S0w?oc=5
-- **Source:** Windows Latest
-- **Published:** 2026-10-18T12:00:01+00:00
-
-## Microsoft pulls out of UK data center deal with Nscale: Telegraph - The Economic Times
-
-- **URL:** https://news.google.com/rss/articles/CBMi3wFBVV95cUxQd19uQkhBLTA4N041UFV3UzRubVB1eHllUkFZeDBYQnVCaXA5UGl4VGk4S1I3US1TZ0ctZ0kyMHVQRTkwZ29XMWhPQkp2V0s3bk9YSS13SHZwRnM1YS1pckdrUzl1alRFaWViNV9YRDBCLUd3anRKMTFMOUpUWS1NbmloeHpMV0V2dGVLR1dnLW5tSFpqUzd2Zlo2cFBEQURscjhJd2FHa1J2aVlQTTNZMXE1bW1pZTA3eUVWRFk3X2UtcGhTajNMSG9EVjdRUXM1ZldpNDlBV3pWRlN2NmhZ0gHfAUFVX3lxTFB3X25CSEEtMDg3TjVQVXdTNG5tUHV4eWVSQVl4MFhCdUJpcDlQaXhUaThLUjdRLVNnRy1nSTIwdVBFOTBnb1cxaE9CSnZXSzduT1hJLXdIdnBGczVhLWlyR2tTOXVqVEVpZWI1X1hEMEItR3dqdEoxMUw5SlRZLU1uaWh4ekxXRXZ0ZUtHV2ctbm1IWmpTN3ZmWjZwUERBRGxyOEl3YUdrUnZpWVBNM1kxcTVtbWllMDd5RVZEWTdfZS1waFNqM0xIb0RWN1FRczVmV2k0OUFXelZGU3Y2aFk?oc=5
-- **Source:** The Economic Times
-- **Published:** 2026-10-18T11:28:00+00:00
-
-## Microsoft exits Nscale's UK site weeks before $35B IPO push - Dealroom
-
-- **URL:** https://news.google.com/rss/articles/CBMilwFBVV95cUxPTkwxSzEtdXFuTlRaS3U2emEtQVNfMVBuSVVqdXptSVJOcWxFNVFVVHFDeVBFelpVN1U0RFg1V0tRT3RwR0Q5Z0FzelM0SmpRRHZSbkVFQUh4bTA0U3B5eURLSHIzWk0tLUNzeUczVmYxVmtoSVBBc2lwZmhodFNhRDh5dlZtdG5VODY3bG0tVkctRDZHRnlN?oc=5
-- **Source:** Dealroom
-- **Published:** 2026-10-18T11:08:38+00:00
-
-## Business Technology News: A New Copilot App Includes Word And Excel - Forbes
-
-- **URL:** https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSXNtSEhJYTduam14enl4R3lzbkNTOWhDa0xVanJUT2tCa05sQ0lGUkZCMGpQR0VNdFlhTjFVUjA2aGc4Y0l3cXQwcE41bzgyN0RIV2RRQmliSzltS0xjVWRGSmhDa0ZlcUs5QUVqZ3hoT0V5UmRwQmRXcTVxSVFBN001ZjAtMW8wM0g5anZGMEo0Mk5OWTg3Wkl1T212Szc2djliYlY4bzhVZEVScVIxYlJKNFkyTmN6aWJlUC05dXJtdDg?oc=5
-- **Source:** Forbes
-- **Published:** 2026-10-18T11:05:00+00:00
-
-## This Deal Days sale is your last chance get a Microsoft Office lifetime license for just $30 - Mashable
-
-- **URL:** https://news.google.com/rss/articles/CBMinAFBVV95cUxQUU45bkdVZnJ0Y2VVM3FNSlpEMV9XUWFYZURHWDdnSmR5NlJ5MEhDUkhVWDB2ZWNab29OSE1pRFlqX2JvMTI5azV2dkc4cXNMQUN2RUgwUWNOVmxJc1lrX2FfM3dKV0pIT0JFa0xfUFFfNndHcDVLQTZydXhuNnkySzRGU242d2hWaWR4VXd3NEhMaWRiSmdJM1ZBM2I?oc=5
-- **Source:** Mashable
-- **Published:** 2026-10-18T11:02:28+00:00
-
-## Use of NDAs for Wisconsin data centers wider than previously known - Wausau Pilot & Review
-
-- **URL:** https://news.google.com/rss/articles/CBMisAFBVV95cUxPQjNFV3VhYnR3ZlZnZkNEZW0zR2QzbnhIc1hESW9wMGRnR0ZSb1p0NHJYWFR5S2gxMEtyM21EUnJEemJzVTh1NEhac2JJVlFsT0JJQUtTWVVyeVNzV3BRZ3pHREc3M1E2YV9qanBZSXlRZTRDVUE5SHR5bHhFeFAtd29SUFlPNkQtM0lKRUVSSFN2S2Jfa3BSWExsMnZEZUw1bXVsRGNqWjZOOU5zcHI0Qw?oc=5
-- **Source:** Wausau Pilot & Review
-- **Published:** 2026-10-18T11:02:00+00:00
-
-## My RAM looked almost full in Windows, until I opened this Microsoft tool. - MakeUseOf
-
-- **URL:** https://news.google.com/rss/articles/CBMinwFBVV95cUxPLTZ6amF6OGZMSE9NYklFaGM5Z2Z0MnBxVlg3ZUtvaENTWjNXUE1xdk9Bd05FRllNR2h2ZXdUelVNallxb0F5Y2xVSXpuOXdIM2JTd0pTMGh5NkxycDR4cHZhOXplQlpEaEUwTHI5ck5GMlFIZFFBeUg0UFpXbW5kYlVBWTNhdngxLXdIeEtPdlVsdkVialBJTU5GRDFVMUE?oc=5
-- **Source:** MakeUseOf
-- **Published:** 2026-10-18T11:01:18+00:00
-
-## Microsoft pulls out of UK data center deal with Nscale, Telegraph reports - Reuters
-
-- **URL:** https://news.google.com/rss/articles/CBMixwFBVV95cUxNMmVDUVQyZjhnbFN2MHQ1MHVPMHVpLVVsUFE1aU44Y2QzMUx2a25MRXR5OWtkTGd5RkViaG9fM3lZcnFHblYyT2xMeGZ3MHI3NkFjQ0FhdWFVRWlmdHlPRDRFRVRsclFpbUExakpiN3Z4aGMtODdDb09Mb0xXbnIxdU04ZmQ3UTEyTkhQd2EyMFhDNzQzYVgzZG9FeDlNYTJTanNOOThVSGRTb2RnRWdCajBVXzFMcDB4MWZpbXR1STMzZ1JaOXRr?oc=5
-- **Source:** Reuters
-- **Published:** 2026-10-18T10:47:40+00:00
-
-## Microsoft Scraps UK Data Center Deal With Nscale Ahead of Its IPO - BigGo Finance
-
-- **URL:** https://news.google.com/rss/articles/CBMidkFVX3lxTE5OQ3dzclVPbnQ1UElRT0tJQ3dkVHBHTEswc1Q1YkQ5REd5VG9Qc2FZa1o3enhybW81S0FxSXNHSnhzMUM4Zzg4bnZSZlBKREd6V0JRaG5wdUh2a0ZKSmQ0STdFcEZ5elAyRUFidWdVNkZ5aVdHM3c?oc=5
-- **Source:** BigGo Finance
-- **Published:** 2026-10-18T10:35:00+00:00
-
-## Xbox is hiring a "Physical Games Supply Strategist" — will the next-gen Xbox Helix snub PlayStation and support discs? - Windows Central
-
-- **URL:** https://news.google.com/rss/articles/CBMi3gFBVV95cUxPeGJyUEJTR2ZUMUVESWlCVlZEQ0VpbWFqV05pbnZqeml3MFRZUnFmOWRraEN4cXNwQjJabGE5WVZ0NFkwNHpkaFB0SE5VOUpqbG9WYXZhcjNtdjhGX3pLc0ZFX0VjT0V5eG1NekU1UEdhZUsyR1lZMnB4dmZnNVdRX2pIdnJGMXoyVXNreFBVYmJReHJCdUdIRkVxYnhvRDV3OE5sdkphelVuWnhRd2dyUkpyc3ZOOURlRlM4SFNkRS04dXdaeUpjVG9kRVhpNm5PSGJGaFdZbXAxa3Z6ZkE?oc=5
-- **Source:** Windows Central
-- **Published:** 2026-10-18T10:27:09+00:00
-
-## Microsoft pulls out of UK data center deal with Nscale, Telegraph reports By Reuters - Investing.com
-
-- **URL:** https://news.google.com/rss/articles/CBMiyAFBVV95cUxPTW1QRUdpbjdyalVOUnl3dVZqamRWLUVMS213TFU0aUlDMTNnLXJTc3ZvQzhFOWJBTXNjZzd5dktiNlMwLS1MbmJCaGlfcGkyeXBKTGVyYy1hWFk0MXBZcDRmWnVEMXlwT3JFR1pzYUYwT1lVc2szVWxNckVCcXJhR2pfSF9TRG9sVmZLclhrMmxkMkxpRFhialNQVG5QSXRvU25uQjhSUWFsSDUwZU5yRTRDQnpFbUNSR3VmNF9wZzZseU1NLXRqbg?oc=5
-- **Source:** Investing.com
-- **Published:** 2026-10-18T10:17:52+00:00
-
-## Microsoft Exits Partnership with Nscale Amid IPO Plans - GuruFocus
-
-- **URL:** https://news.google.com/rss/articles/CBMimAFBVV95cUxPM2pzMk1mZjRDZEhVX3U1LTdhSUxKN2Y5RkJObno3dE0waW9BcFNGaWIyR0xqM1Fnd2lWVmZaZFZYNHVYYzRPSEQzQUlQejRrYm1yY0Y4YmtpM0tndHpvbUVBZk95b2ZKTlVVRnE0OV9xX3F2ZFZPeERkOVViYnlTQVFpTGpQeGI1bzN3VG1WMFliakpIWjhHTw?oc=5
-- **Source:** GuruFocus
-- **Published:** 2026-10-18T10:13:58+00:00
-
-## Microsoft Drops Out of Nscale's Flagship UK Data Center Project - Startup Fortune
-
-- **URL:** https://news.google.com/rss/articles/CBMilAFBVV95cUxOdWQzdGlaRDd3cFVicVNWckVXeTNYcGtmT3dRUkN5bk1DQ2dEdl9GNjViMFZxRlcyUlpET1B4LU5qaDJqVHlNZXg0cjk3RDhGVnl5ZEVSbm5kYXltNnd0MGc4U0ppOUR0NzIwNHZ0RWtaMWpEd1ZYTmpHc1dmSlFMZ2lkRVZ0T3pwcVZsX19EVEt2MTFZ?oc=5
-- **Source:** Startup Fortune
-- **Published:** 2026-10-18T10:09:45+00:00

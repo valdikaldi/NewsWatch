@@ -1,8 +1,26 @@
 # NewsWatch — Iceland News
 
-_Last updated: 2026-10-18T17:06:38.236961+00:00 · 50 articles_
+_Last updated: 2026-10-18T20:12:57.400602+00:00 · 50 articles_
 
 ---
+
+## Inside Iceland's farming innovations | BBC News - Modern Ghana
+
+- **URL:** https://news.google.com/rss/articles/CBMiX0FVX3lxTFBxQUUwVlpIb3k5RXNrRlNEb1pPQ1ZXeG53SzhOQXZTSUlIM0NPQ3RaYkE2VDZIaGM3cElLWWNzck5Rd2tvWTJYRDJCRUR4c2k4ekY0U3dEWTlLSEdTdFZj0gFcQVVfeXFMT1VtTUtyWTBzLWFNa2p0TFpkMEZ1WDJ6Rk1tS3BBd0djYnNsLTUtNGNCZENhTmE0TkZTWDB2ek5xRjdPYWZ0VndydXBQZ3I4NlhGVERiSkxnRF8wbWE?oc=5
+- **Source:** Modern Ghana
+- **Published:** 2026-10-18T18:40:00+00:00
+
+## Israel's Arkia launches first nonstop flights to Iceland - Ynetnews
+
+- **URL:** https://news.google.com/rss/articles/CBMiX0FVX3lxTE5LRGxSM0N0RkJja2RncHNSWmhhU3dnQnQwTnpuZl9QTFgzRWplelI1ZUtFWlk5ZHJYeXNNWk9Cdm1tbXlKVGoyay03Zy1uTlRVRU9MNGdjSzhEOWJZZ0gw?oc=5
+- **Source:** Ynetnews
+- **Published:** 2026-10-18T18:26:01+00:00
+
+## I'm just standing naked in the street - Iceland Monitor
+
+- **URL:** https://news.google.com/rss/articles/CBMipgFBVV95cUxNTEVaQ3YzS0c0NmdDei1FRklTbHZ4YXZWdjdWa2h0S2lTZWw0SGdhM2xpRmkzczhVamdFU3FjbkJLTmZHd2FoZ1hkLWdIakRjSDJSU25BZFlBQVptRlFzZ2NGdmdfQ3VfeFhJYlV2S0J3MExTY3FNRDB4LW9wT3pDSmtPQngtOU10NDQwT1QzZUx1RVRTR2VaYmFOYlJwMngySk1TeVlB?oc=5
+- **Source:** Iceland Monitor
+- **Published:** 2026-10-18T18:00:00+00:00
 
 ## Day: October 18, 2026 - adaptresearchwriting.com
 
@@ -285,21 +303,3 @@ _Last updated: 2026-10-18T17:06:38.236961+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMitwFBVV95cUxPUVFTMy16ci1XYVFHSHZEandHNFA0aU85ODV6MlkzNV8taGV3Rjc2X1U5anN2aElfUXdOLU5aRmFNaTUzM1RqNk5WeXpnVnBFenZkcHE3OURHS0NkVVRoUHU4MzB4OWtlM3F6SVBzVkx6bG4xeG5ULUJxMFVxZkhvS2Fack80dXMzU0ppUEV6MkRqZ1hnbzdTTTlHXzJwb21wblBxR2NWMjZacEg4ZlF0dHU3RXVyMkE?oc=5
 - **Source:** Iceland Monitor
 - **Published:** 2026-10-16T20:25:00+00:00
-
-## Yogurt mogul behind Siggi’s brand buys Tribeca home - Crain's New York
-
-- **URL:** https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbEg3RlI1R1A0UkxSSjZuOVdTaVV3VXhUVmhBVVpnLS1TNENVZU03WVRfcUVvalVYal8xZXVsNW1pa1RGcW5DdnZXOHlwVFBKRGhDTDZDWm5YMEV3ZTVNNVRNbVBxREVaLTFrYkZ6NjcxNzBKSWQ5bXpHck02dkoyUzRZTXNBdHl5Q01aNFprdm9xNE9ycnc5dEx4Sjkwd0JwSVkyclM3RWNfZGc?oc=5
-- **Source:** Crain's New York
-- **Published:** 2026-10-16T19:27:00+00:00
-
-## Dinner at the centre of the Earth: dining inside an Icelandic volcano - Getaway Magazine
-
-- **URL:** https://news.google.com/rss/articles/CBMiTkFVX3lxTE5xSVBTTnBKMkFlS3FIalk4M1A3bWNENGhUSmtsRjhSUzZlcFNjaE9zaW1heGM2aU5jcVd3UWhCNW9uempCM1l0S253LU0wdw?oc=5
-- **Source:** Getaway Magazine
-- **Published:** 2026-10-16T18:19:03+00:00
-
-## Delta to launch nonstop flights from Boston to Iceland in 2027 - Boston.com
-
-- **URL:** https://news.google.com/rss/articles/CBMisgFBVV95cUxPT2ZfcDBwM1JrTWx1N0FKQjZvY1pHQ05wdHlKdTYwV1FpWEQ2UVpOVEZxYnBWWThLaWVma0g2dElJTFhEenU4TnI5MjF4ZlJIYmY2V1hIOVR6RUZReVBMcjlmeVp1UTY5M1RkRDJLRUFydVRiR1R0cEtNbS1hYndHNXQyQlZRekF1X3hPbFNqN0h5QjQ4ME9Ud1o0eVh1eFJaeDNka0haNWJSY3FsYXV4c0dB?oc=5
-- **Source:** Boston.com
-- **Published:** 2026-10-16T18:12:00+00:00
