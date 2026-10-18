@@ -1,8 +1,68 @@
 # NewsWatch — Microsoft News
 
-_Last updated: 2026-10-18T20:12:56.817257+00:00 · 50 articles_
+_Last updated: 2026-10-18T23:57:05.908029+00:00 · 50 articles_
 
 ---
+
+## I changed one hidden Windows setting, and my laptop saw 36% less battery drain - How-To Geek
+
+- **URL:** https://news.google.com/rss/articles/CBMigAFBVV95cUxPQlhGcW9saWJTVDR3VFZCcEI4Y1RtWFdxTmtMaWVLaGpTSHdOdFZncGV6c01ldXBiZm8zejV0ODlzVWJZZWpmY2Y0cEp2NENWS015Z0FZY3I5ZTgxTkgxWVdzbS1TXzMzMlItVzV2cFk2QWd0UTh5TDRuTEhzN3c0WQ?oc=5
+- **Source:** How-To Geek
+- **Published:** 2026-10-18T23:00:17+00:00
+
+## Windows 11 bug causes mouse gaming stutter – Microsoft admits - OC3D
+
+- **URL:** https://news.google.com/rss/articles/CBMinwFBVV95cUxOUWdHQ1FyTy1yUFpuXzMzYjhSNTczUGZuUjVtdExNRm9tVkFzeVZ3dzRkQVpYSzZERHVQbEpudXM3ekJSWEFBcnRwVjU5M0d5NVhDejRHTXZQRmxIMDctbXFDS2Q0a1gzVkdoeE5VeUNnek1CQkhqTUwwUDY3VWUzSjZhS3JIalV6LXFNQWFIV0M5Y2JqaVpoU1VxcTRSQms?oc=5
+- **Source:** OC3D
+- **Published:** 2026-10-18T22:20:50+00:00
+
+## AI Reverse Engineering Replicates Adobe, Microsoft Software - 조선일보
+
+- **URL:** https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWGRUdEI2NVV4NDBrM3JJNWVvU3d4TzVqZmhZNWxxd2ZzVXBOM01pZnY2RnlpUW1ZSWVqUEdQTDl6b056M19NTFpHYUliUUtCeDFDd05DTWNza2ZQSXdUM0hTYndJX1VPSTBVeXJBSjlHYnFqcF9FanVrNno4RWVlQVA1TEttTVA5?oc=5
+- **Source:** 조선일보
+- **Published:** 2026-10-18T22:12:21+00:00
+
+## Cancel Microsoft 365 and get Office for life for $28 - New Atlas
+
+- **URL:** https://news.google.com/rss/articles/CBMihgFBVV95cUxQMTFUNS1ZQzQ5YUs3TzhocVRHVkFVUXZqaHpGMnVrN3ZBWnBVMWhIU3lyb3ZDdWM5czN6aWx6OXNrcWFMeTRGVUtLN3ZOdUU5bGRqWno3cXJTM3ZnNXRFVVNHV3VMNG9tV3pmNVA3U1F1TWlpVm9OWUl4MWNoU3A3SkVxNEVRQQ?oc=5
+- **Source:** New Atlas
+- **Published:** 2026-10-18T22:07:41+00:00
+
+## Keep your projects organized with Microsoft Project 2024 for $39.97 - Mashable
+
+- **URL:** https://news.google.com/rss/articles/CBMingFBVV95cUxQVU9LUy1iZUlPek9OaGhYVGJENmJ2S011c1g4RHNDUi1KTXhVQndYVUFIZHM0Qk9FZFU2Vk96ei00NnVXVlFfY204N3lJLWNCT25SWk5NcGJ6d0JiRVdzSDcxZUhJTWtsNUZ6NWNRelVKVlJTcDBEWkFlVmg2MDBRSFdiazRuV1l1bHoxUGhLWGRlMHJPVzBXdmVxc1hRUQ?oc=5
+- **Source:** Mashable
+- **Published:** 2026-10-18T22:00:00+00:00
+
+## Microsoft Patches 1,413 CVEs, One Zero-Day Live [2026] - shattered.io
+
+- **URL:** https://news.google.com/rss/articles/CBMid0FVX3lxTE1xSVIyRE9HdEpxTEdyZ0dwOTZNVFZYa3dpMFVIenUtbjdheVBlcXBpVERyOVFPM3FFRGRmTC1yeUlpTV92Y0wyc2YyY2pQY2FUekdMQmpNdnlmSDlGb0xNV09DdUp4UDlDRENGa054LWJNcVIxWVlr?oc=5
+- **Source:** shattered.io
+- **Published:** 2026-10-18T21:33:06+00:00
+
+## Microsoft’s October Windows 11 update fixes mouse stutter in some games - Yahoo Tech
+
+- **URL:** https://news.google.com/rss/articles/CBMilgFBVV95cUxNTHVTT3NCZE1kMGtIMEc0OUJLeU5MWWw5SENwYU5wRDF2eW8yWGlDR2FfYl8zTTlvSnpRX3VHVk5MWEVzMDdPa1hMaENta2JkMGd0YXRtc0ZzNXdYV2tMejZTN2M3MEpDRndvU29MSkRhelRWRDBOR3p4SWp3MDE4T3E2OUNxclA5eUhTRzNaeGZsRmlobFE?oc=5
+- **Source:** Yahoo Tech
+- **Published:** 2026-10-18T21:26:34+00:00
+
+## Some Investors Are Questioning the AI Trade. Microsoft Is Bucking the Trend - The Motley Fool
+
+- **URL:** https://news.google.com/rss/articles/CBMimAFBVV95cUxNMWNMMV8yaUwyb3BRQXl4QTNwa3lYaUZwd1pzdG14Ynptbm15YXFSRG8wcHBzOW9Yb0ZBYWtiODVjN1lxYkQ5eFVpYlBsRGdsRmJ0c3Jscm54ako2MjBCTFZ3V1hCWmVmdjNhUnRqU3FCbFZkZ1JUYUhtSmNzajg2eVk4YjFWcEpJeGpfcC1kTUt3MjdCTVBJVg?oc=5
+- **Source:** The Motley Fool
+- **Published:** 2026-10-18T21:20:51+00:00
+
+## Some Investors Are Questioning the AI Trade. Microsoft Is Bucking the Trend - Yahoo Finance
+
+- **URL:** https://news.google.com/rss/articles/CBMipwFBVV95cUxPLWlsUmFhVExtM2NTV1ZxQ1dBTjRVTFhxZS1xRVJlRmFlWG0zTDFMVGIzbHlzLVpRTHJsN1FLTnFJeWpZTEtPSVo5NDJ5NDhqMjhsNTMwS1VmblJUaXdLNzlHMHRVa3d3dTEzOUNtMWFXR0dSazRaOFY1QVNCcWpUVkVmRnlyR3l6LVlQOEJ1SWFxQWhkUlhSSC03dzRzS1ZhZExCS2dGVQ?oc=5
+- **Source:** Yahoo Finance
+- **Published:** 2026-10-18T21:05:00+00:00
+
+## AI Daily: Anthropic’s 5% Pledge and Microsoft’s Nscale Exit - FourWeekMBA
+
+- **URL:** https://news.google.com/rss/articles/CBMikAFBVV95cUxOSU5DOXRINkZuVnRmU29tM2g2UWUyMEU5VW9xeW9LRzFJUWpVdHJwR29wT2hRNGhXclBidC1YX1FBcnZGT2tQNFJuMGs2SHZtM0t2eVZiVGloVjhWcWtaWnlNTWVyWnp4NkFwWms4RDYwLTFCQ0p0bXN6bzlSeDFIVEROczRnQ1VobExsZndrT3Y?oc=5
+- **Source:** FourWeekMBA
+- **Published:** 2026-10-18T21:04:34+00:00
 
 ## Microsoft Pulls Out of Nscale U.K. Data Center Following Delays - The Information
 
@@ -243,63 +303,3 @@ _Last updated: 2026-10-18T20:12:56.817257+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMihAFBVV95cUxPc2tKTy15UEJzWmJFTzV1WVFLb1VURGtPYzYzbi14T1ZXZlpudjBTR1AybllYQ3V0dk9VNDFXUHY2ZzRLd3dtNzdEbmd3cTNSbFJoaER5d25sSlRubjhpOFVBNHVGTjliNUJKcEZtNHRiQmNTZGVfS1F4ZEFOMF9uQTJpR1c?oc=5
 - **Source:** Financial Times
 - **Published:** 2026-10-18T13:36:43+00:00
-
-## Microsoft and CMU launch PRAISE program for early career Microsoft developers - Neowin
-
-- **URL:** https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVzljem41eUp1X0g1RWh0MGRsekU0Q1I4RFlRX1VKRzAwM1pXUVlJQ05UMmt0QW1lWUZhX3I1ak04aDhhbFVaX252el93eTYtSUZSRE4xNEJqU0h4bUd0dmUxUUZ4TktOWjdjVm9vVm9oY0U0WGs2UzFKSjBqbndMc1pJOGlhdndlM01hLWZsV2trckt3eGRnX0FVYVp0eUVxRnQzbEI0R1FuQQ?oc=5
-- **Source:** Neowin
-- **Published:** 2026-10-18T13:34:00+00:00
-
-## In 2025, Japan warned Microsoft of a 'message scam', software giant traced it to China months later, bloc - The Times of India
-
-- **URL:** https://news.google.com/rss/articles/CBMi6AJBVV95cUxQYzRBWFhHQkRlVm9SdzlvY1pGaDlvZEk2eVp3X2NjZnA4amZOUmxlcXJqWm1ZaXlRdnVjQ3Z0dUFURVFJVHp4cmdfX2xLelBGYTYzblJxZ1JlRXcza0Y2YXRZanpzRWtRcTF4QURkaFZaY1NIbnptVk8zLUVTUWVYWkpKMGU3LVY5cklZOVIzYzNqUEtBUUhPbjE0MmVfY2NXZkIxWFlOd0k0cjB3aGJBVEFybDJZUXhyVVlDZXo5aXAxWmV6aXY3b2tQZ2MwelUwM2kwRy1vTUlWd0pubHNNVm96MUdTd0xSbjNGOE84SjJfS0xkM2xqMjIyVUJhVW5TZ0F4OHg4bUo4dVRUQnBqTkVHYVk0Q25VaDZLNHJUN0JLcXBaQmFNZjBJOUZNc29teVBwLVZtN1E4TzA0Sk96bnVrblZXVEFSeTZyZzY5dGF0Y3ZybmhfWlRmV1VpTUZvMEY4aHp4eGbSAe4CQVVfeXFMT3BqNTNPS185eXQ4QXNvWmQ1RXdkMWdtQ1VOa2lyQTQ5dVlwUUxxM0M4RjRqcHBqWmRGWVZRQU5DRk5RTFZhS29JbGZMdUlHcl85ZmQ5MmxGV2lNLTU4dDhvamFmUEdJelVHa05VZXMtTWhQX3JFYXVpYWM4cHJRVXV2eHRxalprRHdWeTNPSlJWaGpiM29HN2txS3otdFlRNU1hRFI5UWVCWTFaTGxuX0NidElNR3Y4ai0yQ1VsQ281SG4zNFlIMTNoTGY2aVNMT21RSmhsWFBvRURmdk42V3ZQWk9JY2ptUkJORlpjYmV3MEs5MFFSdXR0aVRTSmttUDFyM01rWDJkbjlBWVl3RjFFSkV0SDRMTTE0MERtYWJyLXhvem9ibFdFY3J4X2pFQXhhc3Jhd0VzVnBWcmJsWVY4SmU4SURZaWRqWnRXclRocGw2WWVGZ0h1cWJCSExqN1FoVVZtRTBqaEVRVnF3?oc=5
-- **Source:** The Times of India
-- **Published:** 2026-10-18T13:33:00+00:00
-
-## Roula Chehab Elevated to Chief Commercial Officer – Enterprise Sector at Microsoft UAE - https://hrtoday.in/
-
-- **URL:** https://news.google.com/rss/articles/CBMipwFBVV95cUxOT1lyd01CeUR3Yzdxekx6NkNsTGEwdzh2M2FIRnhNN3ZDNVNodG5FLUNGV0JwaVRvN3BLNF9OSW5BWi1GX01JUlkzMzREbndzRi1mMGg1TmE5NVMzM0dGRUxPcV9KZWVlM1NjUy1HUG9vdi1oWERnVGRoT0pMbXd2MEtGUHZDVlZlMk8tcjFJSHBRQzJQZGFlR3laSGVBYTRqT3BiaWJjTQ?oc=5
-- **Source:** https://hrtoday.in/
-- **Published:** 2026-10-18T13:15:54+00:00
-
-## Own VGT? Here's How Much of It Is Really Nvidia, Apple, Microsoft, and Broadcom. - The Motley Fool
-
-- **URL:** https://news.google.com/rss/articles/CBMimAFBVV95cUxNSmx6UGxZZ2tKejFNMVF6dVFZZXduVDdYQzAwRU4tQUt1SkIwNXJWLVYzdVVpVHhTci1QSDZ0QV9fTE9VRmxvenhCcWJsbzc1ZlliUW5QTW5iejI5ZEhsV1hHRi1OWEw3eVNJWFF4azRkQzJJMUxqSmYwMmNyd2ZPT3g1UkFFakloeElieUZOZkdrY3lhODhsZw?oc=5
-- **Source:** The Motley Fool
-- **Published:** 2026-10-18T13:15:33+00:00
-
-## Why Microsoft and others are on the sidelines of WA ‘millionaires tax’ fight - The Seattle Times
-
-- **URL:** https://news.google.com/rss/articles/CBMixAFBVV95cUxQTXh6UGJTUzRQR3VjZ20taGR6MUs1X2FRVml2UHFuT3d2Y0VHV3BLUFZ0aDloQVI1bUxKN0t3dzZINmRjMDZ1Q3g4cXBCN1NOQ3ZzaWc4c0JNam9QTHVGbExWM2xvYTNObW5MX0ZwcUFnbzAyU1k3bWR4Q0pXaWo5UjB2S3FEeDJXSi1pWXNaSDROeDM4Q2ZCTGs4aFlzT3FGTF96TE9LN0s0WFM2eFpHTnNLQ3d6S3JidVpCNktfVEJwU0pY?oc=5
-- **Source:** The Seattle Times
-- **Published:** 2026-10-18T13:00:00+00:00
-
-## Microsoft pulls out of AI datacentre project in Essex over power supply concerns - The Guardian
-
-- **URL:** https://news.google.com/rss/articles/CBMixAFBVV95cUxNaEdDdW1qMm8wMnJSeGhRM2d6dm1xdGNrby1zY0FnaVc1RGtzLTNLUDA3QjZ0c3k3Sk1fS0pjRDN5SExKRmhHdWlucU8weWJhbUVWU19ORHpBa3dXR05lMVhST3NJTHJuQkJGOVgya19LWUNtNnJlUjFDZVczQm1sV3FJVXFBUjVEWTdWbzdJTjVHcF9ERzNyNlFpUFBvcnUxcHNNbVJmS01MaWFudnNJODJlSVgxa1hmSF82TFJnQXZiUl9v?oc=5
-- **Source:** The Guardian
-- **Published:** 2026-10-18T12:55:00+00:00
-
-## Microsoft withdraws from Nscale’s UK data center project: Report - Firstpost
-
-- **URL:** https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVlhmcVdpUzFXVkEwTEFDZ05JdzhJSm1INGlncmVPeU95MnpJZXRRLV9hNkRybE93NVlUNVp4VVBCREtsUXJuUDhXNVJRc3V0Uk9oaXZTa3dSMDlKRzlQMDUwZnBURDlGUGhqM2tRNlE4TUUxR0tjbXpnVGJrZlI2OFV4MTVLSDU4OHdiSHVjbmh5TXlnZDJ1R3AtQ0RaaEhGWko3R2lUN0N0R03SAbABQVVfeXFMT1ZuNmVRdlJYQ2NSbFFkOVN1SEYzRG1xRlpXZDlpdkpGY0U2YWVpN0VVUS1Ud0daSlJCd3cxdVk1STRYVzM2eEx5RHZBcGRkaTdRalEwOHp5Xzd5RG5mMFhzVGRHdjZtLVQyOFp3eEx1bThTOXFCazNRUWxBcnFqNGVBV2NVRUp2Q2hEZUFBdDVvSDVlUTZBeUNiM3R2dEhqajJRWnhYQ3pTejRDYVU1aC0?oc=5
-- **Source:** Firstpost
-- **Published:** 2026-10-18T12:53:11+00:00
-
-## Microsoft exits AI data centre project in Essex over power supply concerns — The Guardian - UA.NEWS
-
-- **URL:** https://news.google.com/rss/articles/CBMivAFBVV95cUxNS0NlMzhqZ0hGbEtMdmI5SDhSclpvZVhPdnUyclpyN1ZwaUE5VUE0Z294bWE4NklYVGlhSmU3MmM3WEg0R2pnOUZFMU1Td3d3a2pGazFoWkVDLTBtdUgzWkJXZDVZaGhaLUdNMVI4a1h3VExnZlJNWlFOYi04M1RyLUxreTN0Tk9Oc1NiQk8tWlR0WFpnMGpiek9UTVVTWnNxOTZmNk5aNzRoRFhlTV84a3hQckNxRnBINVVsbQ?oc=5
-- **Source:** UA.NEWS
-- **Published:** 2026-10-18T12:41:37+00:00
-
-## Microsoft scraps UK data center project with Nscale ahead of IPO - The News International
-
-- **URL:** https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUTJzbG1iWEs4X3J1UWNzc3VRN0xmNFdfVXFoLVFLeGNsVzlmQVF6bWQxd2NpLThQS3ZsVTU5YzRaVUhlY00xS0FONkNyOUJNV1FoYzFkSEVmdHdYVDl4b1E1UENmbjY1UF9rRzdKTi1vOE9samI5WElyaUtzcW1lekRCSkFHcE1NQmlFRUVhR0RTMmdsSDdMd19UV0ZXMHNINFJuZHlodUZHZ9IBpgFBVV95cUxNeXU5OGxxaG9fZkoxT09Fdy1aQnlIWFF0RHB0bmg0dWMzMnk4MnVyMGRCZEJobUgxeFBLSk5tNzJlVTlFQ2ZsTkt4WFFmTVV2QzhrWlNIWlBOMl9uY0FodjllSlJYNEwtRnJnTGc3QjBwMHhPRFBZQVJqX0l6TGVFSldjb2JUZE84NEZjYjhCVkpBd3JtLTZnYjhDZmVZRXZtVjNnLVpR?oc=5
-- **Source:** The News International
-- **Published:** 2026-10-18T12:10:00+00:00
-
-## $Qualcomm (QCOM.US)$ $Marvell Technology (MRVL.US)$ $Microsoft (MSFT.US)$ - Moomoo
-
-- **URL:** https://news.google.com/rss/articles/CBMitgFBVV95cUxQUkoyTHNLZ1AtZE10dEh1Vy1WeWZpQ3RBaVkydVNDN0xybFh3dlhteE03TzlFU2x2OWdvMGF3V0dNelp0VExWSGpDSmFtalhhSVk4S3pPNExwVUsyWlpUd0hhNnp4bzh0Z2JFOGpBalVvTjdxakVtQkVxWC00YXlHdmh2Tk81NTJXWVZZaDVia3U0a3Z0aUNTYTZNSTZMbDhQM1paYkthdndRdnhIMGNGNXR2N3p4dw?oc=5
-- **Source:** Moomoo
-- **Published:** 2026-10-18T12:03:57+00:00

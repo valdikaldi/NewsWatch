@@ -1,8 +1,32 @@
 # NewsWatch — fusion energy News
 
-_Last updated: 2026-10-18T20:12:57.876089+00:00 · 50 articles_
+_Last updated: 2026-10-18T23:57:07.912508+00:00 · 50 articles_
 
 ---
+
+## Gye Poppin – Nzulezu Ft 4mula Energy - TrendyHipHop
+
+- **URL:** https://news.google.com/rss/articles/CBMie0FVX3lxTFBfeGpjUy03Y3d2N01NU1BsVHFvc2F6RG5pOW5QQlVTOVZpNm14alBiZVlsS3VzSElqRDBBS2dWSDZvN1dpWS1COVhJajl2am9TSUV4cGFmaUhlckRZZTZxMmNtUFlBbl94cjFHWkFENUx3c0FyQWx1QVNfZw?oc=5
+- **Source:** TrendyHipHop
+- **Published:** 2026-10-18T21:47:01+00:00
+
+## Princeton physicists say fusion energy has a "back door" that seven decades of research walked right past - Energies Media
+
+- **URL:** https://news.google.com/rss/articles/CBMia0FVX3lxTFBLRTg4akZKYlo4TVRnWmxrRW80NzI5VXlPXy1yR3hJdEU5THVibjc4OUNhcC0xcHkydUhFMG1pdVNNRWlRZ1VKVFpwdFpicUhDMFFkaUNicGlaSzdjTTBEWFI0TnhxLWdDUTAw?oc=5
+- **Source:** Energies Media
+- **Published:** 2026-10-18T21:40:53+00:00
+
+## FOLA & BNXN – my type - Tooxclusive
+
+- **URL:** https://news.google.com/rss/articles/CBMiXkFVX3lxTE9CNFVFQkU0RzlTXzNaZzNjV2dtNS1uZG1CUkl1Q1JKdTYxRHplVWFoR255YVNaSzhKWmRFVTZSWUcwNVo5ZkJqUEtfN2hDN1h1VzRwb0JHR2J3MkdQYmc?oc=5
+- **Source:** Tooxclusive
+- **Published:** 2026-10-18T20:59:24+00:00
+
+## Ranked: The Countries Building the Most Nuclear Power – Visual Capitalist - EnergyNow.com
+
+- **URL:** https://news.google.com/rss/articles/CBMiowFBVV95cUxNdEt5SDJ1Y3UwcUxhYUZ6dTFsQkFoQ1QyRVQ4R3IwSk9lcHZyTThvUXVnT2xaUmg4dVFSZjhBUkdrbUdCbXNLVzlWdDlYbEpPX1BDU2dwVEF4aFFsakJ5Y2hWV2pVSkJEcTZRZnJoOGc5TU0wdE1hYll1Q3dIM1RXM281a3l2WUxvOG5YZ29wNDR4bC1YWExVdFJfTjVwLUEzd3c4?oc=5
+- **Source:** EnergyNow.com
+- **Published:** 2026-10-18T20:26:29+00:00
 
 ## Aidonia to Headline New Soca-Dancehall Fusion Event in Jamaica - Kaboom Magazine
 
@@ -279,27 +303,3 @@ _Last updated: 2026-10-18T20:12:57.876089+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMiwwFBVV95cUxNTkdHOGVfTmNISC1xdXRaVlh5amNPbFNVOUFTSElncmRZWEZyRjNhY3g1S1U5X053XzgyTGRmdXZOYlE1Z1RXeUp4MXZHc1JJZUVCajN3MjU5WVB1eGN6M2Mxb2Y5VjlvWUpVUDg2aVlEdkVmNjhqc3doSF9oUVdVX2tCNDdEd0RBZDBuMElTY1cyeTUwaDM0cVlhV1kxNkRXUkI0RVAtcl93YW9IbDNLbVcxekYxM1ZpcWlBTmxQN0ZKUXM?oc=5
 - **Source:** 24/7 Wall St.
 - **Published:** 2026-10-16T19:10:00+00:00
-
-## Scientists Discover a Surprising Shortcut to Nuclear Fusion - SciTechDaily
-
-- **URL:** https://news.google.com/rss/articles/CBMijgFBVV95cUxON0RHWWZUelhsTjFlMXlKVWJlbHlfR1RDMXRCcVhhQ250c3hvcEZkaWtFZmJHdTRKWUdseF9vc0d0QWtpVlI1V05iVmJBQ3NUbVlxSUJ6SjV0QURlNHNubjI1TDAwT2k0LUItNlVNMmdlVFZqbWpKWTVXQk9idDRhMlRic1BLYnpuMGxicm13?oc=5
-- **Source:** SciTechDaily
-- **Published:** 2026-10-16T18:44:53+00:00
-
-## In Brief: UT-Led Fusion Research Team Wins Google.org AI Award - UT News
-
-- **URL:** https://news.google.com/rss/articles/CBMingFBVV95cUxQYURMRExkX2dvZU5Yek5Xb2Rld0hPUXhjSkVKSDd4WHNOUEpQR1RpTmpFY1VKVUpZMXlsSUplTHpSZkFqdkNHOTRCVW5FbWM5OW9QZ1cybDZPd2FtVlNpWEFNQU9YSTFjRjVpRHpLQTByWGVKQTdEMzF0ZlR6am0xZFRhZ285WlJLQTZvQU1xR21rb0o0RjBjb3FYNFh3QQ?oc=5
-- **Source:** UT News
-- **Published:** 2026-10-16T18:02:15+00:00
-
-## Penn Engineering Brings Research, Innovation and Action to Climate Week at Penn - University of Pennsylvania
-
-- **URL:** https://news.google.com/rss/articles/CBMivgFBVV95cUxOVTUzV1pwOUdGUFBLNV9iclZpVF9JYmpURVVuVEpVa09ZNHNyMmRPRFJlUm5meVVDRDVGdFotdXl1LWplcktlWHBzb1RfWlVXZllRUnVRWFIzbXF4N1ppS0lHS21pZnFYY3FJOEZwa0cwN0EwcFE1b3pTYnN3S1hqWTFhQ2Jqa19BM3lPNHhVR2J5ZERCcmlzWFBOYklaVE1uVE9ITHNEeVdCRi01Z24wdXEtbk9NLWN2UEN2bGpn?oc=5
-- **Source:** University of Pennsylvania
-- **Published:** 2026-10-16T17:58:47+00:00
-
-## Sunwoda Digital Battery Passport Solution Among Finalists at 2026 edie Energy & Tech Awards - The Manila Times
-
-- **URL:** https://news.google.com/rss/articles/CBMi-AFBVV95cUxPM3NnMGRsUWhXX2Fsc25vR0VHWHJjN1lSeG9MOFZGU0NVQzAwQk5hRVVtZGN1Nm5nVVQ1dXhQY3hPQnFXakNmUnBZaGtFRlg3VjFSVUxUOHMwLTRqNGZiVnBmdUNEc2JRWGg3eUVyaWg2eWVuYWdqTllxR3pxMkNiTFRnZ3FoRVJZQnNpQzdNX1JybmJkZThMNXBFTXBiM3BJNjhMT2EyV3NjbkhjMC1MQTRrYXZ6MDJSYkFmWkxjOENWZ1VadVl6d1h0ZTE3Q2tZYk1LZ1dSV2R3QW44djl4MHh2N2daekZPM1dDcU5Dc0N2TW5OVUVLMNIB-AFBVV95cUxPM3NnMGRsUWhXX2Fsc25vR0VHWHJjN1lSeG9MOFZGU0NVQzAwQk5hRVVtZGN1Nm5nVVQ1dXhQY3hPQnFXakNmUnBZaGtFRlg3VjFSVUxUOHMwLTRqNGZiVnBmdUNEc2JRWGg3eUVyaWg2eWVuYWdqTllxR3pxMkNiTFRnZ3FoRVJZQnNpQzdNX1JybmJkZThMNXBFTXBiM3BJNjhMT2EyV3NjbkhjMC1MQTRrYXZ6MDJSYkFmWkxjOENWZ1VadVl6d1h0ZTE3Q2tZYk1LZ1dSV2R3QW44djl4MHh2N2daekZPM1dDcU5Dc0N2TW5OVUVLMA?oc=5
-- **Source:** The Manila Times
-- **Published:** 2026-10-16T17:44:25+00:00

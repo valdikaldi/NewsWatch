@@ -1,8 +1,206 @@
 # NewsWatch — Oil News
 
-_Last updated: 2026-10-18T20:12:58.594813+00:00 · 50 articles_
+_Last updated: 2026-10-18T23:57:09.151756+00:00 · 50 articles_
 
 ---
+
+## Oil Slips From Five-Month High as Middle East Supply Holds Near Prewar Levels - bloomingbit
+
+- **URL:** https://news.google.com/rss/articles/CBMiVEFVX3lxTE5xb2EzcTk5NGZFcmlfV0l0cnpjWWR2clA0MThUYXVVNzdVZnF1eS1SV090elhCYlRudFBNRFFyV2tKN2ZPUFFoSm9aVUFhVHVhSGNlUg?oc=5
+- **Source:** bloomingbit
+- **Published:** 2026-10-18T23:45:43+00:00
+
+## Iran’s IRGC says oil tanker hits mine, catches fire in Strait of Hormuz - FXStreet
+
+- **URL:** https://news.google.com/rss/articles/CBMisgFBVV95cUxNVzZ2TEs5MXJXejF1TnE3eFJCVzhCNWJkU2R0QTEtR2lVWTRpZ25RZlc4OHctQnJyTDRza3RLbXJxMG1RSTZZNDR6UHJtVWh3TDcxX0UxY25tcEQ5UFgtZlFfRklndy1MUnpzMVJKaS1oLWtuY0s2VXFsQUNtZWQ5MUZ1VHlkYW93NWtwWXYzNkxJWnJBVlpvNXppSHppVWxyZ0U4cV9Zc2hUYUg1TVhtT0pn?oc=5
+- **Source:** FXStreet
+- **Published:** 2026-10-18T23:44:58+00:00
+
+## Murphy Oil (MUR) Could Be 4% Overvalued As New Wells Lift Sentiment - Simply Wall Street
+
+- **URL:** https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQklGLVhmMnJkYWYxRW80X2FrTVcyN2FXVTl2TmNuZm9Ka01WSEhRdTlOUlYtcVRmUWtNYWNFUGpTZ29sZFJ2VDRTSUF5eUVmZ2dOTDF6MmtLQkxtaEdlcWhtTlJjVmZfVFhhNFZKWVFvMUdFdnhhVFdzSmFYYklvaTFOVFJqWGlWVDhVVnFXYUJnWHBhUUtSRHlTYW1WQXFwejVleWE0UHdHUFJmV0lUNnZCc1FiRGpsOFR2MEMxWi1fQdIBxwFBVV95cUxNN3NWWDduUjM4SnE3LWl2dDU2MXdmWjhKNUxjRGE4SXJDb0d6YkZRM1hjWmV5MFRGSHFoRGVpQ1JqR3RUQ1QteUZFOVVyam9zdzhSSVB0a1Exb002M1MzalZmVzRPbnJqaVVJd2RzY1loMGJfbHc0U09fMVN3VHVZd3p1ZzRwQkFoS3ljZVZmZlFMcy1XTjBrNUdBSWpxY0RDZWpGS2tNZFFoNWV6X2hldkhFYTIwWW9KcVUxVUJDUVlQUnBvaGE0?oc=5
+- **Source:** Simply Wall Street
+- **Published:** 2026-10-18T23:43:03+00:00
+
+## Global Oil Prices Plunge Intraday; WTI Falls Below $99 as Middle East and Russia-Ukraine Tensions Roil Energy Markets - BigGo Finance
+
+- **URL:** https://news.google.com/rss/articles/CBMidkFVX3lxTE5BMUJHak52aTRJWkJQQ1pybGlqMnpzdFlVaVJRd2FOX0dTTi1ZSGgwOXRwUDZBdkZVYTRoY01JZGlQVEVCbVI0NmctTnpSZ21fREV6UW1CZEtIWXlIRk5SbTVqNC1wa0xuNUtSVXN3a2hBR2FHNWc?oc=5
+- **Source:** BigGo Finance
+- **Published:** 2026-10-18T23:35:00+00:00
+
+## Oil Slips After Sharp Weekly Rise - TradingView
+
+- **URL:** https://news.google.com/rss/articles/CBMijAFBVV95cUxOcTd6MmV4aFROZ0tUUHV0ZHVoWnJPNnl2Ry1BemJBNWhCM3M3TUtVU3pESjkxWEt6QTNnak5nVmpBUWRtU0ljM1gtWW95Y01nemRTWkt6OWVPSnJHT0ltT1NFWERPVTZDS2JIU0NrbEFHX3k5SURDRmZaMHNfWWNNS2NQRGNQa0Y1aFRrMQ?oc=5
+- **Source:** TradingView
+- **Published:** 2026-10-18T23:26:59+00:00
+
+## Japanese Equities Set to Fall on Tech Share Selloff, Higher Oil - Bloomberg.com
+
+- **URL:** https://news.google.com/rss/articles/CBMiswFBVV95cUxQclp0cmlPVzk4TGpWXy1MMWY5OG95aUtWR0YzZk56ZmZrd1pFaklZMHVFeXE0Um5GVzZOWERjMDJoSWJpeGc1RjRaak1rVlgxanNieF9fR2tYOE1vZllTQlE0ampXMVVXUlpBUzFqZ2VibXEtaG5mMkNFY1VsOXJvcHE4WGlYeU1PYVZTWUVRQnVTMzlHZDY5cDZsUEhXZC1ET1h3amdQb2NxakYtWlo1S2gxTQ?oc=5
+- **Source:** Bloomberg.com
+- **Published:** 2026-10-18T23:24:31+00:00
+
+## Oil Prices Near $110 Raise New Cost Concerns for U.S. Agriculture - AgroLatam
+
+- **URL:** https://news.google.com/rss/articles/CBMioAFBVV95cUxOWHJJSkYtbE9YQzh0YTUxQkItUUh6VU9nX1pWUFdqdk9XM1FLUzRKTlp3X2VWVjhTRnFzQ0NFV1h5TlRrVU1XVXhtM2RadjZFT1FjMktwUkdxX3RmSTNER1RNNi1rT1hMbVNpbGNldUtuWTg3d3pMdTlhZktOdERqa2FYbUJ6aG9DUi1DdV9HTVhyMkJzMkx5T1c5dE43cUE2?oc=5
+- **Source:** AgroLatam
+- **Published:** 2026-10-18T23:01:39+00:00
+
+## Record Shipping Costs Force Oil Producers to Slash Prices - Crude Oil Prices Today | OilPrice.com
+
+- **URL:** https://news.google.com/rss/articles/CBMiogFBVV95cUxPU084bnV2Uk1VVnBfTVVQOXVDYktTQ1FVWFRTcllwS0dGWTdrcWRwQ0NqakdaRTlDSThIajZGT21ROUdXSzdCeWNiSEFmbC1ra1NSXzNZS3F5OEdnUHQ3VjF5aG5oMUt0Z0ZzRm1OS3JVM2YxSGhCTkRMNllyaDBqZDhfMXJaYUhRWkw2RFVZYjg5RElweDBGdmpjdURacjNkdWfSAacBQVVfeXFMUFZWQlBEUmZnTFNNMnFhOFNRSmwzUU9SOVlnNl9BbnVhQlV3MDVGejFMTDB1aXFtUjI5NHg5N3JILTBGYmk0TDhqcDIyeXEzazhxOGNkc1FDemk4eGNjWmwzNHp2emZCdUltUnFVX3pHcXVMTVZrVF9sUGhtTUU1amNhMG9rb1NtV3BzMXR3ZGdoQ2tjM0RFLXBkYVQ5OTNqMWVjcnYyVGc?oc=5
+- **Source:** Crude Oil Prices Today | OilPrice.com
+- **Published:** 2026-10-18T23:00:00+00:00
+
+## Stock futures rebound as oil nears $110, AI earnings loom - Seeking Alpha
+
+- **URL:** https://news.google.com/rss/articles/CBMimAFBVV95cUxOVkFNSW5ZeWgtNXFHWEhuSFQ4b3JWcEg5OFV1aC16VlktcG1Nb3VxaEF4UU5XaDVDWk5UNUZXcEVzOGZzLW8wMkdRYjZyVDdlYjZWa2E1S3lGMFZlX0JFemR5RkhId3huQUp2ZldZbGp6VU1aVGkyZldHWjV6YWxzREtfS1VjYmNMeV8wOXlpY2RULUQ2REU4VQ?oc=5
+- **Source:** Seeking Alpha
+- **Published:** 2026-10-18T22:52:04+00:00
+
+## Oil, debt and the coming reset in car values – and what it means for EVs - The Driven
+
+- **URL:** https://news.google.com/rss/articles/CBMipAFBVV95cUxPX3p4REdNNHlhaEhNMm43b01TTXBDM1IwRmZRTVpkQUdSSThZQTZuSDZiVFBJdXBBVFFxSlQ0Zm1ZZVNBY2dKSjBUbkxEMjRMRzEtcjFOT204ZnlGblcyb3dZblM2U2JMbGNVT1d2WGNVV0o1UUhvZHV3XzFvYmZlWWFIREY4Y0M5b1JIUUY5eDBVVWJRdXpZbG9BM1JxUkRGcmF2bQ?oc=5
+- **Source:** The Driven
+- **Published:** 2026-10-18T22:42:17+00:00
+
+## Oil slips as Trump's sanction waiver may lead to more Russian fuel supplies - Euronext Markets: Real-time Stock Market Data | live
+
+- **URL:** https://news.google.com/rss/articles/CBMisgFBVV95cUxOVnpGMEhIbzVVNC1BNXMxcm4zdGRpTkJQM1A5RWRzOWNreFdUMTE5MmNIMVhXQ0hnbnozWDUzN1BOZHBmbXUzUk5jN25BZDh2d2FFRFhHdTRxWEY3ODJTVHBIQUgtM0djTUYyX0VYYmVOc2JhaXU1SXZvNTE1US0xRHdhLVlqQ1lva3N6U0dENmpJZWx5LXFBbVJRamp1TmxfRExaRkxOaC1oN05tdW5rNGxn?oc=5
+- **Source:** Euronext Markets: Real-time Stock Market Data | live
+- **Published:** 2026-10-18T22:42:01+00:00
+
+## 🇮🇷 ANOTHER OIL TANKER IN FLAMES in the Strait of Hormuz. Iran's Revolutionary Guards claim TWO supertankers, each carrying around 2 MILLION barrels of oil, caught fire after striking naval mines while attempting to cross the strait without authorization. - X
+
+- **URL:** https://news.google.com/rss/articles/CBMibEFVX3lxTE1lUklwTXFpTjFVcm5GUjZSQzlZQlU2U044d1lET19nY3JHVU1md3hZNVRZanhvNVdMWC1uZVBRdDdfeFU0Sm5RTTd1Q3RRblJBdG02QkR3blVwakZrd3QzVG9QTHViRzZBS3VaZw?oc=5
+- **Source:** X
+- **Published:** 2026-10-18T22:40:00+00:00
+
+## Oil dips as Trump waives Russia energy sanctions, offsetting Hormuz tanker blast - investingLive
+
+- **URL:** https://news.google.com/rss/articles/CBMiugFBVV95cUxNM044eWRYVzVYNkg2N1dQOFRNT3haZlRWUWVqVmhHaDdXVkZWSllZZXBEalZlQ3BWdGh2Mjlwd085R3pJYl9OMkZmbExnZFpiaEtlRW84T215R2FLMWhsQWlseWpsbkptNFB6OGw4VnN1YWhMejFaT21GOGRUY2cyWHRteUIzVFB1T2xYeTh2ekRVaTNOV2RKbjhFZHlXeXBvWUp0a0J3Z05mZGhHV1FQSkRURlM2dXd2elE?oc=5
+- **Source:** investingLive
+- **Published:** 2026-10-18T22:30:17+00:00
+
+## Oil slips as Trump’s sanction waiver may lead to more Russian fuel supplies By Reuters - Investing.com
+
+- **URL:** https://news.google.com/rss/articles/CBMiygFBVV95cUxOTzcyMjhLRWZpSWdnaFpycjVxMlF4eTdhWlR3Z1RLM2kwaW9aMkh4Q0lXZ0V5V1ctcFlmcURPbTVZNzRUMHhUNlBmem9CSGtEMjdrZ3lRVjJqNTA5eWwycFN6VGoybE1oNzZjOGljd042aWY1b3FSSl9CQThpa3RwVlRQekhSQUJHNkZPZ3dfaDlNbHkyc2dDdHZ5RUJqTWh2VElKbUIzbklDbzBlcmYzV3FyajRLVUZDVEJzU2l6Q25KaFRORXFQWk13?oc=5
+- **Source:** Investing.com
+- **Published:** 2026-10-18T22:29:13+00:00
+
+## Oil slips as Trump Waives Sanctions, Russian Fuel Exports May Rise - Global Banking & Finance Review
+
+- **URL:** https://news.google.com/rss/articles/CBMiogFBVV95cUxQQ2dVY0VPUGdzNkN3dWtrcl9aREc4ODhydlRjLVl4V2Rsc09JdmFPeDdXSzNReWczVWtJamQtZmVWcGNNc2k5NjhIMzg5TzhnaTJmbC1ReFUtYy05ZnByWHBhTkpaWm1vZ1lzUkZnOFRPbUtkM0lBbDNyRWdLRUYtZWxFUlEwMFZjSWpjWFNWdG1PRlpYX0s4TVktaWtpTlA0Ymc?oc=5
+- **Source:** Global Banking & Finance Review
+- **Published:** 2026-10-18T22:26:07+00:00
+
+## Oil slips as Trump's sanction waiver may lead to more Russian fuel supplies - Reuters
+
+- **URL:** https://news.google.com/rss/articles/CBMivAFBVV95cUxPMmVLc19hd0VSYXIydVNTWENKZ2J5WVNvVDRQUjRfTUJXWGhjOGxGZkFHVm9SNnZzeU9TWUhrYnJTRU1sVFRnX1BwZVd3NHB5a0NLdThkbDRldlg2eHdhTll2b3RnQTJ4U3dHVGczM25FdjJHRGQ5WGJDV2Qxd1hzLV9EcjNWaUQ4cXEzbWVHRzNuS1dGVVNBSmdXWGR6THN1dXhvSUdFS0dMMTJZTnBBZEFfZ2JoYVVFSWNMZw?oc=5
+- **Source:** Reuters
+- **Published:** 2026-10-18T22:24:51+00:00
+
+## Oil slips as Trump's sanction waiver may lead to more Russian fuel supplies - marketscreener.com
+
+- **URL:** https://news.google.com/rss/articles/CBMixwFBVV95cUxNU3VhT3pUalhsUDJEaGE2Tnc2cUdpTTRGbWdfQ2ZZa3dCWU9ZU19LazBWSmMxSEltVWdpakxReXk4TzB2ZXpBcWRLZ3NLSl9CMzNXQ3k2NENNdUNvMmJPSU9GRnlxaXhUUFowTTh3Z2hzWkUwLXVzYVVRNENPV01rT1Y4aU5EbHpxNDl0YzVsa0RNWUZvRzJMOUwyQnZEcWRGMGJQVWphNDdzYkV0OVdYalNZUFlpdzRXREpZdlFUSWxIUFdoUXF3?oc=5
+- **Source:** marketscreener.com
+- **Published:** 2026-10-18T22:20:37+00:00
+
+## Brent crude hovers near $109 a barrel as Ukraine resumes energy strikes, tankers attacked in Middle East - CNBC
+
+- **URL:** https://news.google.com/rss/articles/CBMijwFBVV95cUxQUUdqTmNWUUFKcWcydVFMaU5uUkthdnpkZ3Z1Y0FaTU54UjdfZDlfYnNJcTU0WTNGU1hRa0Etc3pFNjNPQjBXcjB5S3pFbGMyRUlLTjVoTzdNQjNWVTJsZTNVUER4NDdDQWZMdWdhWnBGR1NkWDJQYnlVT3lJUGsyZmlMY1BKQXliNUZMVHZXWdIBlAFBVV95cUxQMnMyZDFwdWNxYnZScnhQRUlrUnJzcGZPcHQtRTFNWXNURXFBZC1CMThXXzlCLWt4NFpIRDFvREpUSDlVU1h4RDF5UU51Z1VOaVU1WHBWWFN1V1NhSjFMM0hTS3pqOVZXTi1jbnIzYUlNMGo1eGh1RjA0eHRvSWRQT05WNVpUOGl0SkhlU01MdzlsYnhu?oc=5
+- **Source:** CNBC
+- **Published:** 2026-10-18T22:15:39+00:00
+
+## Oil slips as Trump's sanction waiver may lead to more Russian fuel supplies - TradingView
+
+- **URL:** https://news.google.com/rss/articles/CBMi3gFBVV95cUxQTzRwSjZ3dEFLcTdUWm1CbUQ5anBiT3BJS2lGYTV0ZFdTcFkwNEh1ekVuMGF5NDU5OFNkMVAwVWlVVkxVNHRnS1BNZXJKNlQ4R2k1M0s1azdWbk1IQWpzTXZsX0dXeUJwT2tIWC1udmlZWDdXbE11YjdjdTlvTzF4VWFOVW9SdjBwVXJ4aW1Eak1ZV1BuemN0RzRFcDBzcnE1TU9HMldmVXU3NHNjRTlFdjRaOVQwQjc3VFpSMjF6SFZ4T1Rjem4wbEpVY0E5dVZNdi12VncyNlcwUGY0THc?oc=5
+- **Source:** TradingView
+- **Published:** 2026-10-18T22:10:58+00:00
+
+## US Stock Futures Rise Ahead of Busy Earnings Week: Markets Wrap - Bloomberg.com
+
+- **URL:** https://news.google.com/rss/articles/CBMilAFBVV95cUxOR0MwWG9IMlN3MDVva0xabG5QbzNhX09jY3JnaVVTSHJvYXFMSmtHaDhFZ2RTSHVFLUVKYU9za2MxTXA4UGZDN0E3YVk4dEF6QmtIc2Z5YnR5TXB4V2h1QWR6MllZYXRUcGsyOExYMEloYll2RDhHVklKRno4TGhCaGV3RC1OMFJ3c04wWUVCblVFUkdB?oc=5
+- **Source:** Bloomberg.com
+- **Published:** 2026-10-18T22:07:25+00:00
+
+## Brent Crude Holds Near $110 on Mideast and Ukraine Conflicts - Bloomberg.com
+
+- **URL:** https://news.google.com/rss/articles/CBMingFBVV95cUxNZW11ZjRDTUdpUHpzY1JpNFZtWjZ1bGhZejdHX2h3Q0NTb1pKU0pxM0NtSDR5QlA4YnQ5NHUybkxGS0VxSWJQcHo0NWcyb3A4S21SbVNld2cyLTQ5eFowV2lqRlh1QUMteG1taWQ5b0dPUGg1SnpxVUlRYmlDWkkxZzBQWVpBTjlwdzEyZDBTRWRacVU1ZFhZMjhrMGd5dw?oc=5
+- **Source:** Bloomberg.com
+- **Published:** 2026-10-18T22:02:51+00:00
+
+## Ukraine launches more than 1,000 drones at Russian oil terminals, data centers in massive attack - Washington Times
+
+- **URL:** https://news.google.com/rss/articles/CBMiswFBVV95cUxNeUFCc3Y1TXhCdTJWZVhLUTlhb3hPN3JBZ2dLbU5hRnJTOVJWcHlfVDdJUzByM2Nmb25aLWJDcHNXYTBlTlhXeFFQcGE5WUJEeTZOamNtWHVsRjlYRmJGc2lhYzNBQURzTmJ0LW1XNVlpOHdkUWx3WGhIekN6UlBFZEtXTDZkTXV0TzdrLVFTMzBtWFl3X1ZLbjNtMFpzNjNONi1IUVVXSzgtU0otSUZOdjVDdw?oc=5
+- **Source:** Washington Times
+- **Published:** 2026-10-18T21:46:23+00:00
+
+## Ukrainian FP-1 Drones Hit Oil Terminals, VKontakte Data Center, Ozon Warehouse Near St. Petersburg (Video) - Defense Express
+
+- **URL:** https://news.google.com/rss/articles/CBMi1AFBVV95cUxOS1MxQWVHdkx6ZEZLampxeXRpRFVVUG1WN3VJcDFBUUNfYjI0WmdqMFNFRDZxSE95T0lYZXFhZ2NxZWhoTnc4WEZTbm9QeDhLWWZSTVJaYl96LW9vekZ1LXhxY2xuamZIZ1U2UXNVV3dWdzBhSi1aRGhibGU1NXhRaUJpYUJVaDhCUGs5Q3dhcy1CSm1seUVUeUFOQ2c4R3B2dmhsdmQtdXBlWGdfZW54YVlYenhXVGQtUXR6UmJKbnFZQzJFLWlKRDVuVlRia0VOU3RMRw?oc=5
+- **Source:** Defense Express
+- **Published:** 2026-10-18T21:40:59+00:00
+
+## Madrid to Host Third Libyan-European Oil and Gas Forum in December 202 - Libya Herald
+
+- **URL:** https://news.google.com/rss/articles/CBMikwFBVV95cUxPc0dTTi1Vdmh0S3YyX3BGYTMzdnQ2QnVQR2NoQW92aFNNVVRpR1NoalU4V2VFZ0c0b1Q5ajdCTnhOWTl1ZkFyS0NORlFxcW1QMWdPMFJKWmRpVi1aZEhhdFV5LTlEdkd0Yjl3WHhURVRxYjVINnBhdG14Q3U5MDY0OGhsRzNPaGFZR0hKR2hMZEtJZ3c?oc=5
+- **Source:** Libya Herald
+- **Published:** 2026-10-18T21:31:00+00:00
+
+## Iran's IRGC navy says oil tanker hits mine, catches fire in Strait of Hormuz - Middle East Eye
+
+- **URL:** https://news.google.com/rss/articles/CBMiwwFBVV95cUxPT0s0UXNzVGVGdHpZMVpnWnNYeFBxcXAzLTRCTHZYUzhjVnZXdDJ0VDVrcVA2M3lXQmhndUhXS3VIZ3IxeVFvQnZfYkdEdldSVUcwdWhpZjNWYVBWMURKUDgydlJBM0ZYUWZ0WmRGWFg0Wkt5VUhQQ2drMjQ1TktjakRGa3g1VE5OMzUwSmRDM1RsM3AyVkRWOGUtamhSSkVIMUlPR2R5eFhEUnl5RUNVczRwdGtub3ZCSy1GSmdqc0lLYVE?oc=5
+- **Source:** Middle East Eye
+- **Published:** 2026-10-18T21:30:00+00:00
+
+## Venezuela’s Opposition Leader Calls Trump’s New Oil Partner Corrupt - The New York Times
+
+- **URL:** https://news.google.com/rss/articles/CBMikAFBVV95cUxPSThkVlA4a1BiZmExS0k4djM2cmEwaXliX2k5eUFnLU9qM2x6X0llMkU5QjhiNWxZLVI0SzF6Ykc5aEVVTTFydjF4MzgtVHJPRU10V2tFM0prSWRDVWJiU2pUaFNlLWo0eGd3dmtwNjFZYk1HLUVreW1rMzhKUDZ2Wm9FNzFFVnZGVE51REU1aWY?oc=5
+- **Source:** The New York Times
+- **Published:** 2026-10-18T21:26:00+00:00
+
+## Oil Price Surge May Increase Gas Costs - ACG AAA Newsroom
+
+- **URL:** https://news.google.com/rss/articles/CBMiggFBVV95cUxOUzUxYjByNDR0NV9NLWE3b1MtVzQySWlFZV80cUtsUFVrTmdoTnJHLUdxLXBXZkJ4aElqWnRiVTA5ckgyWWhxbldxdnBKa194QnZDanpnczZUX2QyMVVGZ0JodVhKZzlhU0RjOGw0UjRYYVg1NGNiazJvQ2xDQXdZXzVB?oc=5
+- **Source:** ACG AAA Newsroom
+- **Published:** 2026-10-18T21:24:23+00:00
+
+## Parliament Delegation Participates in Russian Energy Week in Moscow to Discuss Oil and Gas Cooperation - Libya Update News - Libya Update News
+
+- **URL:** https://news.google.com/rss/articles/CBMixgFBVV95cUxQQmVEOEFLM204MjU0VFlDRlhYMWdNMGNpRzg1UEQtV25QdXEtdUJxbGh1OUMtMUpPUmYtZHV1WG9waS1LQkVYMDk0NWFfWlp2TDljdXRkWEdoanJmNnZaNEliS3l6dnFkUDRLUWxaYmFEdVhMWVg2X1NhM1B1VnkzYnE3LXdNRG0zdGJjS2toZy1KLXUxeTQ3cFZlMFZiQVV0U1V4TmpYZkR4UnJHaldDSjZmeGxrZG45U1k2YmVoOWdCYjROYnc?oc=5
+- **Source:** Libya Update News - Libya Update News
+- **Published:** 2026-10-18T21:03:06+00:00
+
+## Iran’s IRGC navy says oil tanker hits mine, catches fire in Strait of Hormuz - The Times of Israel
+
+- **URL:** https://news.google.com/rss/articles/CBMivAFBVV95cUxQY19UakVETkJ2VXp5Tmp4VlBfQ3QzX2RsakdWX0RMRFFtMkY5MlhlZGlTRHBwZDFZcWZJdDNKLXppWU1uZV9WeVZRZVI4Mmd5dHVGV29BalZaQW9TZ0hYVGVsc1BsTWs3eGtSS21Xd1QxdThYRl9rb0NxbURYRFBGOVhKZDFHVFhYNDF1QkEtVzcyY1hWOEFVZTEwYlMydk5Xa1lIQXJ3ZGNVcnpOVTJkT01pUC1WdjRhZF9lMQ?oc=5
+- **Source:** The Times of Israel
+- **Published:** 2026-10-18T21:00:47+00:00
+
+## Russia launches 300 drones after Ukraine strikes oil facility - Fox News
+
+- **URL:** https://news.google.com/rss/articles/CBMiVkFVX3lxTE4zRzdEekViVzRVTGV2TWdGVnhHMmFiQ21SdWtyRnlYbzRSOGs4U1lJQnFxcm5Mc0d6MFBBQldvVkRqQjczNVdNcWpaWGVZOEstbTJSRC1B?oc=5
+- **Source:** Fox News
+- **Published:** 2026-10-18T20:34:08+00:00
+
+## His New Silverado HD Blew Its Oil Cooler at 16,000 Miles—Then Came a $41,319 Repair Bill - MotorBiscuit
+
+- **URL:** https://news.google.com/rss/articles/CBMitgFBVV95cUxOeU5wZVBLS3VPdVRsVGNVa0RQY1JlMC1FZmt1OFBjNjhiLVllRXVmM2Zvd2haMVJoblEyQlhqeWdBX2VKN0REQlkzNkZSdjVoeVdMUi1zUW9Obm5wb01Henp4YWRuaHotZ2lfTHZDQUd6TVdwV2QxQktPWUdNQVdzaWhZb0lBUzlYQjJRVUJjbHpRTVhUU3VuOURBZGNsZndjNXVITVRBaEtxYUVQX3Zyd0pCOE9BQQ?oc=5
+- **Source:** MotorBiscuit
+- **Published:** 2026-10-18T20:33:47+00:00
+
+## Tension in the releases sent crude oil prices to a new high - investingLive
+
+- **URL:** https://news.google.com/rss/articles/CBMinwFBVV95cUxNM2ptM2VkU0JuMk1UR3N1cG1KODlDc2x5ZlFMMUQwazk4ZmFkVzlVWHNkaDZPTHNnZzEyb2I3R0g5LXlZY3dlZ3lqY2pYOElrcFVUQ2V3ZzBLaWNacG1uWldLbHFkT0R6ZEdGSVBkUDhjWkRVYkh5bWJPTTZYYWhsT2d4V1U1cjk2QWFfWmZuNFVFTThyQW9wbUhQZ1JfUk0?oc=5
+- **Source:** investingLive
+- **Published:** 2026-10-18T20:23:22+00:00
+
+## Ukraine targets Putin's hometown as it launches 1,000 drones at Russia's oil industry — the biggest attack all year - New York Post
+
+- **URL:** https://news.google.com/rss/articles/CBMixAFBVV95cUxOaE8tU3lQU0w3ajZ4MW5ELXRWVU1BUVNiZWJOTGpMUWpKMS1JRHhqb0NDeXMtS1I0cDNSZjN5SXRhazU2Uno2ZkxKd2VMX0JTeFpWOGRlZXVCUm1NQUZ6Q3o5NUR5aW5Ha2UxeXR2WWJvd0pxZ0J0SFBNcU85OUJKQ2ZJaUMwS21ocy1SRUhQcVFHWXluU3Q3UGpyLVBnVWRuTnEyOHBGdzVlazVBYXoyT0xvMzlXZjJkTHhuVmdQdjhSN21Z?oc=5
+- **Source:** New York Post
+- **Published:** 2026-10-18T20:12:58+00:00
 
 ## St. Petersburg oil facilities ablaze as Ukraine launches more than 1,000 drones at Russia - The Boston Globe
 
@@ -105,201 +303,3 @@ _Last updated: 2026-10-18T20:12:58.594813+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMizAFBVV95cUxQbWJUbWRld1RPZS0tQW1qSTkwRFVPc1NHVGpCRXBEeTJmR21xWEluZGdJQmNWQTRMeDB1c29wZkhVRjVfU3ZJTnc3aVJGdEZUMV9fMGlia0hUcEZIX2JETWFxUlk3WFM1aV8wWHl6X3d0WVZyWkhWQWdMMFdkenhkM3NONEs1cXJaOHViV1NwU2t4QzhHeGhrVlEwbGk2ZGQ4OEM3UktiZ1NlR3REd3EzTUxDeXdnZk5OZDBGVjNfZHJQb2ZBbWdWNzNQbTU?oc=5
 - **Source:** Pasadena Star News
 - **Published:** 2026-10-18T17:33:03+00:00
-
-## St Petersburg oil facilities ablaze as Ukraine launches more than 1,000 drones at Russia - Daily Bulletin
-
-- **URL:** https://news.google.com/rss/articles/CBMiyAFBVV95cUxQQ3NOTEhFWW5CSEVOcE1LWmtROWtobzExUjBvSDFMSzh4MXJkM2hCOFNCdXFBTVJsU3hmWlZ4X19QbXUwT2lYaGgzLVBhYjVscE9tb1ZYOEpLQm5RQVN4Sm9CcXJpbEJaZkNvUHNjSnFmZ0FYbG83eWdQankzVVNEUXQ0WlJLT0lHdHV6eUtlLXBSRUp0b1BBU1prdU45bzhzd3Z6S2UydTMzdXUxUHhHUnVVV0paX3N2VjNldFhkSllhRUtjd2kxZQ?oc=5
-- **Source:** Daily Bulletin
-- **Published:** 2026-10-18T17:30:54+00:00
-
-## Ukraine launches 1,015 drones at Russia; Oil terminal, depot struck - Straight Arrow
-
-- **URL:** https://news.google.com/rss/articles/CBMijAFBVV95cUxORDR6bHYzZjIyMWFucm50WXZidUVfNm9zeWplcU9GTmttdHNicWNpdEVGNndtQ0JUWjgtbVFMaFI0QTJZejRmOEdqVmNGUi1BbzNVYmdpc2piY1A2Zmk0N1hlVDhuaEcwTmlEeGtXbU50SnhST1hkZEdMOWJqaWxTMTFPdWtlNk04ZVFWcg?oc=5
-- **Source:** Straight Arrow
-- **Published:** 2026-10-18T17:30:00+00:00
-
-## Ukraine launches over 1,000 drones at Russia, sets St Petersburg oil terminal ablaze amid US sanctions unce... - Firstpost
-
-- **URL:** https://news.google.com/rss/articles/CBMi7wFBVV95cUxNSEFuMm1hcktjbktJMjNzWlJSTXdoaWRHNEx6cDZhdXhqY0Z4empmODh6a2V1YVNZdl9xQzhBWWFEdlVpLTNubi1aeGNjOG5CSFZfY0dHT0huRG9HWXMxc0VWOTc2eXRwUE5TdWdOa3FGRUtIZklwak9lV0tQRGJrSTRieEM2X2hwM2VtWWd1T2xTNmgzSk50RDBsTEtXaTR0dlVoMDRtT1FnZFVkT3VZX25ZSmZFTkh1ckhtT2xEbkxLa01NZFh2N2kzQ3BRbXlsMlU5b0NkbE0xcXNOOW9vT295N0ZSYzNQTklXRmJVWdIB9AFBVV95cUxNRzRNalVvcUFrQXlERDlsQlVrZHRPdFVqVGl5V1BPa3JidXpZUjdpYVJ2dkZFQ3ExdGxDUzIzenJyOXRfMUpsVUU0em5vcmVvWmlOcXI0Vl85MDBrRlV4b1ZGMnhEZWI4YS0zU0cwS3BsekxuYkxmczM0UlB4UkZrUnlVWVh6TF94dUJ0WTVpcnI4ZF9Zb3N2TElyblVOMmdQXzg3bmRCQUUwZUtWOGVobDNsLVhBMUdOM2t4NGRtbFNzbUJJMmpaeWI0Q1JwSmVVVnBhMWF4X2xuNEZsU3NjdlVEN3VzdWt0MWJBXzdVZUpjb0lD?oc=5
-- **Source:** Firstpost
-- **Published:** 2026-10-18T17:29:21+00:00
-
-## St Petersburg oil facilities ablaze as Ukraine launches more than 1,000 drones at Russia - AP News
-
-- **URL:** https://news.google.com/rss/articles/CBMinwFBVV95cUxPb0JsZHhVNVNkaUhpSndSUTRqNjBFN2dpaktfTUZ4dWxBTkxzQ3I1LW5CRlBQNnR3UmJ5R0JzWGFaenZ5TDg3Qkt2bC05cmpYTlAwZkRSRjBoYlN1elkwelNDNmhPbkhhV1BDT05fWm96V3oxbk5YN09nUkQ2VzlvbTR1YV81Zl9wdzU5WEU1UXN3STc0ZHJlUnhiWUc2dUk?oc=5
-- **Source:** AP News
-- **Published:** 2026-10-18T17:26:00+00:00
-
-## Ukrainian Drone Strike Hits Putin’s Hometown, Striking Oil Terminal - WSJ
-
-- **URL:** https://news.google.com/rss/articles/CBMiqwFBVV95cUxONjdGd0dFdEdRZU1VZVdvbkpPbHk3dzZldnpPRnN3b2t3dVUyNjVMMlVQeG4ydldqbXY5MHFtQzNTbVBRWXBVQnFWSGtWcHBvOUh6cDdvRHBIQzlIWTd3S2pMbUhjVXBVM3ZQRmJoNFBDQVg0Y0V5ZnpFRjVFQXJvTmVyaF9Lb0lvM1Z2bGVXTC1DVkVwQ29aWUFVS2FXd3lpOW1OWjQwS0xScFE?oc=5
-- **Source:** WSJ
-- **Published:** 2026-10-18T17:23:00+00:00
-
-## Ukraine launches 1,000-plus drones at Russia, sparking St. Petersburg oil fires, 1 dead - KEYE
-
-- **URL:** https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUmlwYWVpZDBHbFB5NE1WXzJqU0RnQ3NoaWlTRGhycXcyWXg4TnZLSG9VSTVPTnNTRnMwQko5ZGh2MkhSamFLa2p5VTF5YWYyd19VVExkQng1TEZTZnE0WGF3YlNHeWx4RWRYd3NsekFsU3pKbzVFUXlFeTFnVHdNNEFyc1J1RjF4MmJsX0JwbGRmc0x5ZjNvRl9IVkVfZGpaZEN4YVg1bmJuMFI0T1V2RzR2WlJHdy1ta0FuaEhaczE?oc=5
-- **Source:** KEYE
-- **Published:** 2026-10-18T17:13:37+00:00
-
-## Tulsa Rescue Takes In Mother Dog, Nine Puppies After Motor Oil Exposure - KTUL
-
-- **URL:** https://news.google.com/rss/articles/CBMinwFBVV95cUxPZWxteVV4RHVPWkNpMlVMVjBrTUJfaHVwcmZCb2JQM0xWYXgteTNUM2twLXZDakxyRHhnQ0szUW1KRXloZklKTktzckMxTU9SNVpVLUg5dmdmdkVNRk5QMzZNLVpJWUQtVEU2XzQ3TDk2andQVnpYNjZ1QVNSVlNSSkVTWGIxb3h6MUdlc3VrbEdOYWxwNllxQWpEWUZNVHM?oc=5
-- **Source:** KTUL
-- **Published:** 2026-10-18T16:58:23+00:00
-
-## Skies over St. Petersburg ignite after Ukraine strikes oil sites - marketscreener.com
-
-- **URL:** https://news.google.com/rss/articles/CBMitwFBVV95cUxObnF3UkxkYXFxcm05cGZ3X3ZINk85dW5Yd2xvLVNfYWlBVjRWSU1NX1BYbXJ2SlN1OWVPUkJBSjdMZ0EyS0hkWWlGRGlCMFE1SWlKUDJoWlNzdkZzbWc3bnRSVEZ0NWZRWXhWekRHbkJUSnFFQzVZTUg4dXVJWjBwellHVFhsZVV3elJxOWpKak4zWGMxa01faC1za251dFBSWDNCY1pvOG9IeEIwVGd3NHkyR200UEU?oc=5
-- **Source:** marketscreener.com
-- **Published:** 2026-10-18T16:43:45+00:00
-
-## Takeaways From Lucas Oil DTWC Prelim Night At West Virginia Motor Speedway - FloRacing
-
-- **URL:** https://news.google.com/rss/articles/CBMipgFBVV95cUxQdVFuQlpvdW9mVWo1NzFOcTQ3WTBGcHdidXl4WWwweUdtd3RuenJZdWNaTmNuZlhvMnhhRXJzUV8tZ1VzR0tSbU1zZnNmS0RGdFNjMF9PME9Bc0R0RklfZ3oxbWVqZWpVUFV3T3Frd0EtcHdxMlFycFhCR3FFWE9qSm9pZC1DM3FMYmtHVEZ6Z0ZaOUliazRVZ25jQnVrSWdza1RHTHdn?oc=5
-- **Source:** FloRacing
-- **Published:** 2026-10-18T16:14:33+00:00
-
-## St. Petersburg oil facilities ablaze as Ukraine launches more than 1,000 drones at Russia - Los Angeles Times
-
-- **URL:** https://news.google.com/rss/articles/CBMi2gFBVV95cUxQdWx1UXl2TXFLWlVlNFFGZTVOSGJfdXBpQUotUUFmbEJ4TzNYNkJsZHN3VHljVk4zdlh4d29GcWZ3S0haa2lRQ29SMk9PUWdaYXhFUkRMbjRDXzdnV3NVU083VTJVbUpCQ2JDYVY1ejFJMk9yUDgzbldOTHZBVWg3T0otb0VsWV9YUGMza0FvemdYOC1LUWszQUhiYnBOM0tOZEFPUUI5S1Fsby1pX2pPQk40R1Nzdl9JbXFQbXV5QWg2ZUNGUVR6Y1Y4WmdmcEJRdzFCTk1NaENsdw?oc=5
-- **Source:** Los Angeles Times
-- **Published:** 2026-10-18T16:06:47+00:00
-
-## Egypt’s non-oil exports reach $48bn in 2025: Minister - Daily News Egypt
-
-- **URL:** https://news.google.com/rss/articles/CBMimAFBVV95cUxOR05zc1lUNXpESVB6Mnl1c21reVktRG5NalFqLXIwbG4tUGJlaUNsdmlJdGp4QmNHRjRYbUtvclpqTEYweE4zbmNEREw3TGVQNjlUMERmTEpUYW83aHJfUHJZd2RaUG04ME1pOURzdUtUQkw1bUdGRUhHQVNHQjB2cVBRZE0xRlJTNmJOYjRjMWVyaVQzckV4RQ?oc=5
-- **Source:** Daily News Egypt
-- **Published:** 2026-10-18T16:03:11+00:00
-
-## East African oil could loosen Asia’s grip on Australia’s fuel supply - Lowy Institute
-
-- **URL:** https://news.google.com/rss/articles/CBMitAFBVV95cUxPREctaTJ3VlNQb2V2TGV2M3VQVU1Fdk9kbi1zTEt0RktNc19FSmg5MllXcnJ6MTR6ZWYtSHlEbFY5a0RKdkl6UWRuVC1OMzRwZjlCR1I1VTIxZGZHM0laVjRBWVFIQm16RUQ2aXpZdHRXUmVsbjBuQ3cweEZndGVHeVJMUzdHTlZWcW5kRjVNNTF0eWk2Z1doSFAyT3ZscEpQOFNITDhDUlMwSWpRWl9JVTFLYVM?oc=5
-- **Source:** Lowy Institute
-- **Published:** 2026-10-18T16:02:19+00:00
-
-## Crude oil climbs again as Russia-Ukraine "ceasefire" faces doubts, US-Iran stalemate extends - investingLive
-
-- **URL:** https://news.google.com/rss/articles/CBMixwFBVV95cUxQblVSamYzQlYtWExiRlJyaHZfTEVHVXJwWEprbmd5RDN6MDA2UUIwVmJfYkt6LTRmeGxjMGJXNy1OZ3MxNURNYnJYTUxWc1A5WHMyX2F6cWgtbTQydExvZkxFQnVUMmtMMGx3bTMtMVBlbW9BVXBNdk9wYkZOeTdscE42aHRVcmItRVdHQWgzSExTMzdCUmc2M2p5Y0x6d2RiRmVBZmRrMDFuVnZyTXF3bVh3UjZfdGV5ZlQ2NFRwRFlLVmFzZHY0?oc=5
-- **Source:** investingLive
-- **Published:** 2026-10-18T15:53:21+00:00
-
-## Skies over St. Petersburg ignite after Ukraine strikes oil sites - Yahoo
-
-- **URL:** https://news.google.com/rss/articles/CBMihwFBVV95cUxNdXM0UEJrdy1MNE4yX1gzUHl5ckdVdXhKNlZ2NHZseUdNa2w4Q09zSFk3OGM0SE91OC04TUFOSndIVVNYZ3V0Tm5jMmRsbi1fUEFSMlRuT2U3bHhhRTVQa1dWRGhMUElheFhrdmpzNlExeTBwcVhYSXdpckVrRFBHZ09xUmp6RWc?oc=5
-- **Source:** Yahoo
-- **Published:** 2026-10-18T15:47:00+00:00
-
-## US, Israel face threats of war if oil prices keep rising - The Jerusalem Post
-
-- **URL:** https://news.google.com/rss/articles/CBMiakFVX3lxTFBsY1JDdGkySENGaDFUSGF4MTdTTlNMeXFSYXhnZWZKdWxjeV9BREF3X0FVY2hCWmlQNl9DRE1ZdktlZWdqMGxQRE15dHZJdEc0c2NJdE1tLTQ5MzJwcEpjUGxkRmNPUE40NkE?oc=5
-- **Source:** The Jerusalem Post
-- **Published:** 2026-10-18T15:31:45+00:00
-
-## Crude Oil Weekly Outlook: Brent Tests September Highs, WTI Tops $100, and XLE Reclaims 18-Year Resistance - FOREX.com
-
-- **URL:** https://news.google.com/rss/articles/CBMi4gFBVV95cUxQME15N3E4bkRKRE0wZi1yQkxidkREaE51ZS1HenlCblM3QXdHaXl2M2Y1dk1aN3hnMkJiUEFVVmVBYWcyTVBfLVRwNGxvNGFYbmtJTWJiajlKOG5MMS1wWUp0M2hCVGNOMklzNzh1QnItb1VIWFRfbEdCYnFlQ2EtSlo3a3RuWHpuMDlxVUx3ZkZOWG9Ea0hGaHNzcmVHOFh6T3Fralg4Z2dPeFVsazFjeHI5WmNSRk5LNkFBa2RiMVNKZ21jdGZ6SWlCRGQ4dEN5VnprcW8wLTVrVTRPUUtKVWxn0gHuAUFVX3lxTFBZVThBb1FYSGs0V21fMkJ2M0xIOVJxNlU2d1pLeUFvdHJ2cXpRUjZCX1BSUXJDVXFIQ3k3TEhUQVJFX2d4cEtTT19DT2VrVlVEMmNCSTVZZ0tGMUtZZDN2ZEVBUVoxbFFaOU9hZ3NRQnc4ZWFZckluMEhJcndLdWw4VlFaWmN2bXlibWlacnlwR3cydWxmb044RXpHUDVoQjVpTl9BYW1GZVVqalBkbkQ2V2doU3NGRkZFOEcwaFpyZ2gwd1ZLQThtamF2OXcySzFSY3AycDd4YmZJRm4zR19FZDRHRXp2R3pzc3dtaWc?oc=5
-- **Source:** FOREX.com
-- **Published:** 2026-10-18T15:27:07+00:00
-
-## 1K-Drone Attack Sets Fire to Russian Oil Installations - Newser
-
-- **URL:** https://news.google.com/rss/articles/CBMimwFBVV95cUxONEJUOUQwTVlJT05zZFE2Unh5OUw4XzZLUDdxVE9WUUl0UW1HMU53WXVBbFlKLXhBbGFtcDIwRkRDODB2UnlDcnljakg0SjJfak1xVjQzbDJELTJ4U0M1MlBwSm5kZkN5ZWJMS3V2SjJPdHMycEI2dC1MSjZxaGFybEtSZmFnUU91cFNnaDBocmNZUXJVZDdHUGVGRQ?oc=5
-- **Source:** Newser
-- **Published:** 2026-10-18T15:25:00+00:00
-
-## Russia launches 300 drones following Ukraine's strike on oil refinery - Fox News
-
-- **URL:** https://news.google.com/rss/articles/CBMiVkFVX3lxTFB2TlZUd0lmN1VIQUJmQ3BvVWlhZ1ZPZnhuem5lRFNBUDhsTkhTMVJuczl5aVhadndZRjhkd0NEZFNJbHZLb3liM19mYWNjYU9COElpRGFn?oc=5
-- **Source:** Fox News
-- **Published:** 2026-10-18T15:19:23+00:00
-
-## Venezuela Expects $76 Bn in Oil, Natural Gas Investments Over Five Years - Egypt Oil & Gas
-
-- **URL:** https://news.google.com/rss/articles/CBMiowFBVV95cUxPV0s1clZlaGdlZzVjbkpQYkxWSUpoV243N2tUUzVuUTJKaWhUM2ZfS1lTLUE5bE1YLUt0ZlhZeFdpcGJVRHVKcGJNZjRQWUxpZzVoMlZtSzdyZGFnYnU0VVpWNUpTUkdNOXlwVjhZaWJ4dGhfVlpkazRqb2lZTHpVNTBRQW16Y3hTWVZnck51Yi1IMjdqSGlFQVZhR2lQLUhWbUpJ?oc=5
-- **Source:** Egypt Oil & Gas
-- **Published:** 2026-10-18T15:17:57+00:00
-
-## WATCH | Flames engulf St Petersburg oil sites as Ukraine launches 1,000 drones at Russia - WION
-
-- **URL:** https://news.google.com/rss/articles/CBMizwFBVV95cUxPb2VlaFNqUzJLclNoYmZSeElTaUMxaDJUT25VN1JkTXRXaWg3Y3RNUDlUb1Q5R0NXTThrMy1xRTZ2YmprMlJ2LV9uQ0dLZnRTSnFWc1pDMzkyWDFaUld2NnlzbEtNT21lOXdodXhyWDlTZ2czbi1FQ2VPMkJ2T2NCZ3Z6VFUxbWtSdUtiRVRiUFQ1U3pOZWZMaUszNkxiZTZiUm5ucUlRUWZPV2VwXzdnd1pRaGd1OTVTRzA1NkZvWkJRMTZzN1MweERZVUd3U3fSAc8BQVVfeXFMT29lZWhTalMyS3JTaGJmUnhJU2lDMWgyVE9uVTdSZE10V2loN2N0TVA5VG9UOUdDV004azMtcUU2dmJqazJSdi1fbkNHS2Z0U0pxVnNaQzM5MlgxWlJXdjZ5c2xLTU9tZTl3aHV4clg5U2dnM24tRUNlTzJCdk9jQmd2elRVMW1rUnVLYkVUYlBUNVN6TmVmTGlLMzZMYmU2YlJubnFJUVFmT1dlcF83Z3daUWhndTk1U0cwNTZGb1pCUTE2czdTMHhEWVVHd1N3?oc=5
-- **Source:** WION
-- **Published:** 2026-10-18T15:12:00+00:00
-
-## The $40-A-Barrel Cost Most Oil Consumers Never See - Forbes
-
-- **URL:** https://news.google.com/rss/articles/CBMinwFBVV95cUxQWFZnbTQzaVRhTGdYN1FacEJPUzJiRDBHU1U3MXVkcGVMTkxrcmM1d3pxUXh0ckt0M3VQMDc2M2ZBeFNacVFVdlcwVU9LTU5xMlJaekR2dE1pMnFaREtKTHBnb2pnc1paeUpYbXZ5WW5LcVBTdkRKSUs0d3RJUlE2ekIxdlpmczV0OEtyTDBxdllPc2xfOGRNYUtUXzZpVnc?oc=5
-- **Source:** Forbes
-- **Published:** 2026-10-18T14:57:57+00:00
-
-## Iraq’s oil output hits 4.4 million barrels per day - IraqiNews
-
-- **URL:** https://news.google.com/rss/articles/CBMiiAFBVV95cUxNWHdkTzBXQmRIdWdmODFPMlZkY2ItS3pnclBtVVctdmQ0c1ZNN0FjQnA4SDZuLTZ1MkdxeFdTWjR5X2NoWmtXa0xqTGNkNnFjXzhSeFFWYnJXS2tfUlVVRjVKWnNIWTMtbWdqTXh6dlFsYXAxZlBCeUJDX2k2eFUzWjQtYzJuaWtB?oc=5
-- **Source:** IraqiNews
-- **Published:** 2026-10-18T14:48:20+00:00
-
-## WTI Crude Oil: Can Buyers Sustain the Push Toward $100? - DailyForex
-
-- **URL:** https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTjg1eWM2cU9hTHdFaUNKQ2I2elFXcUh5dFBnT2tKX001dTdPakNYZ3RRbUNObVpXYndvdzVTSHJNN21zOHMtbW8tMkZOd1U2a05tZ000QlI4a1pIMm5tYTRSYzFPT21lS3dzZFBoTWxJQUtUaGdVMnNrTXc4Y1lPc2VLMUlNeVpncVNvbHRWRHNQRTR6M2xlQXpJTlhxcmczd3VmR2FERG4?oc=5
-- **Source:** DailyForex
-- **Published:** 2026-10-18T14:36:08+00:00
-
-## Penrite Oil buys majority stake in pressure washer brand Blahst - Dealroom
-
-- **URL:** https://news.google.com/rss/articles/CBMingFBVV95cUxOZ2pVTkRvUV9SSnZoX3ZjeEc1b1RvZFFKbXdRMjd1b1pYMzRmcnlyUlRTRFNxTlB6MHBTUHJ2WXpLVng1bWMyVlBzM3hFYXNfZDZQQ25veFNST3JCajRfUFFVN0Z4VEpzMEZoM1M3WVR0dzdNR1hEYS1JUEZNUVlGaEVoY196VjVZb3VxVzhhdEtQVjVTUUlEZjEya2Z4QQ?oc=5
-- **Source:** Dealroom
-- **Published:** 2026-10-18T14:21:22+00:00
-
-## Warren Buffett’s bet on this oil stock is finally paying off; Time to buy? - Finbold
-
-- **URL:** https://news.google.com/rss/articles/CBMilwFBVV95cUxPTUYyUHhDS1dSbXlhdDFCZ0Vrb1ZuRHptR3hKZUQ2V2xjQWpMNWdWeEJkREdORU5sZlZDRnVicTJUempSVDhFRm5HZ0F5eGVfYUx2bUtyOURnLTFHbnYtYUM5YVd3eXhCeXVnRkloM1hhWWpubUYyWmdiYUZwZmI3MzlOMk1MRHFsc204Y2gyWmhSV0p1VmlV?oc=5
-- **Source:** Finbold
-- **Published:** 2026-10-18T14:17:42+00:00
-
-## U.S. oil and gas rig numbers remain steady - Oklahoma Energy Today
-
-- **URL:** https://news.google.com/rss/articles/CBMiggFBVV95cUxPdGdnNnhRcFlPRHBtTTBmLTNKZUJoQ05MUzBwcHF6TFhkTlQzdEdSX3ZCTGZsQWM1WldLVkpRb1lURnRFMV82d0JKY1lyQ01kWFA2Z0tOX0VhV3JzUXNWYmpmWlhHdzZpWmE0alFYZkRoTVlqUTB2d1dreHNlT3Bnc3FB?oc=5
-- **Source:** Oklahoma Energy Today
-- **Published:** 2026-10-18T14:15:21+00:00
-
-## Wright: Sanctions on Russian oil remain in place - Breakingthenews.net
-
-- **URL:** https://news.google.com/rss/articles/CBMimAFBVV95cUxPMmhOQVZqcU5VaFBPRm5Qdm9iUDYwclZEWkxua2YzN05yZ0F1c3pDby1veEFUckNDcGtmSnY1ZlZJeHZQQUxnV1Zyd056bldzbnB1bEJhcUNwOXNqTEN5NDVvN1BPVEJVaDFRQkRlSVQyMTlvUkJrdDlyNE9TZ1ExOUVMVnBNVXJqUXBMZmNTMmJDU3VhMUJGWA?oc=5
-- **Source:** Breakingthenews.net
-- **Published:** 2026-10-18T14:15:00+00:00
-
-## St Petersburg oil facilities ablaze as Ukraine launches more than 1,000 drones at Russia - KSAT
-
-- **URL:** https://news.google.com/rss/articles/CBMizgFBVV95cUxOenRRWktYN0RuV1Z5NGVxNWRTU3hfZHRXU2otcjlQSGFreVlsb2d6YnlMNHBuTHc0dXRhSVdZM1lVOWZIMjJ0WWtUQ3g4RGM4YWI0TGl5MDJuY2xvMUlhM0F1RVBMMVhYblc2YmRzdW5hUm5ZaTN0Zl9Wc3AtMFpvUnlkLVdTdGhWTXAxc1B5dm52dE9LdXYtRmh3LWpwMk1xc2NIaTd6VUlTSXhtVzNqT3hHUnJLNTdwWDZycTB5dVpuNnRfWTFZWUJ3Z2FFQQ?oc=5
-- **Source:** KSAT
-- **Published:** 2026-10-18T14:06:04+00:00
-
-## St Petersburg oil facilities ablaze as Ukraine launches more than 1,000 drones at Russia | National News | 2news.com - KTVN
-
-- **URL:** https://news.google.com/rss/articles/CBMiggJBVV95cUxNN3NEWFZfdkZfMEE3eVl1Mk43VlhaX2VvTUxHOE9GcTZleVdFMEsxWW5KZFhsN21rRVROWFBLS3VfdEc5ZmdBbm1hVEtvMzdSbi0xVWxUalBCLUlzakRPa3had3ZtMUNWVDBGN1o1V1VlRmZMbW5rTElIalNmWTRZWmk3TFZGaFR6RFUtVzMtVnJyYW9UTUlQNE9SVU41RklxQlI4ZEZJWEhabnRJTkdwZ29FaTRyX3VyUDNLbms5cHp6Ty1Xa2RHUUJWWkJhaDFTbFhJbTZpdjdLMjFhM2xPUmdFVXVxV3ZMdUthdXcybUxvT2lWS01MNDdpbWVHQ1RsTXc?oc=5
-- **Source:** KTVN
-- **Published:** 2026-10-18T14:05:21+00:00
-
-## St Petersburg oil facilities ablaze as Ukraine launches more than 1,000 drones at Russia - Star Beacon
-
-- **URL:** https://news.google.com/rss/articles/CBMi8AFBVV95cUxONTdOQ0lIQ0lsbEpMVnpPSk1BZFZJU25GcmdZWktDT19OTy1SQlNEOVV6MG9nRW5lUHRSYWM5WGVzNHZ5d1dWVmsxLThvaVduYzBfNmhKWmxUTWpEdGtPb2NfZlE2YURxOHJjekpRcXBCWG5mR21MeGdKQ3RCQ0JRMWNaU3R6Ty1weUhqTEJfc3djMWFwRjhaaUdsSmxyNDZIT0JJaEFTZGhDMzA3SXo0WkF2dDFwdHloOHZMM2lZY2dEcTdFekF0bkZGMkZKVDFERlNsUmlTSThuMFV0UUlPbExDRlRLS01oa2VOYk5jX0w?oc=5
-- **Source:** Star Beacon
-- **Published:** 2026-10-18T14:05:21+00:00
-
-## Bo French, Jon Rosenthal battle over culture, job duties in bid to regulate the oil and gas industry - KCBD
-
-- **URL:** https://news.google.com/rss/articles/CBMiuAFBVV95cUxQalB5Ti0tUHVCS2k5VDRpVjJTckxYelZLMVRQMWx2azdzR0JJVEtNZ1ctSEdPUnBsUkg3MlR1Zkg2dE9vVGMwUnNuVHg2YUlOTzFLRVRLbW1rRTNCVUZhY2ZGelpvdXlwRVpabEdFUld4UFEwZHJuVXhtcUlKVWl3UGZqY2ktUzJBMVRNNE1IV3JBY2Z4TU4zOEVkdm0zWkJZcUpKVFh0Smt6cFU5eXVFekVnZUtINWNp?oc=5
-- **Source:** KCBD
-- **Published:** 2026-10-18T13:59:00+00:00
-
-## Ukraine strikes Russian oil terminal as tensions with Washington deepen (CO1:COM:Commodity) - Seeking Alpha
-
-- **URL:** https://news.google.com/rss/articles/CBMirgFBVV95cUxOOUhCWmd4Z1Btb0g4QVJiS01pWWdIREM1U3o4eE1vbVhNVW0yUmtzQUpIS0M2VTJnNjlhaVllUEcwM2YtT2w0MUxLWGJpZXhXdEpWaWp2cTNEMW53eG9MUE84NFFnOGRxMWpMZmtDTFlmaEFadzZKQlVmZEZKSnVMZGV2dWJuV1NvbG9iRlJ4MVZ0a2VSQnRHcDF5NXczWXJEN1hpdGI5a1FOcWhjZkE?oc=5
-- **Source:** Seeking Alpha
-- **Published:** 2026-10-18T13:54:18+00:00
-
-## Oil lifts Saudi bourse; Egypt tumbles on regional tensions - Reuters
-
-- **URL:** https://news.google.com/rss/articles/CBMirAFBVV95cUxPdkJ2LXpMXzV0dEQ2b1NYcm9XT1FZMTUyZUlVQlZaZ2RYNFhvVFlnVFRJM1RJTU5CNzlDNVdKTmtzX2E0S0xvV2h6UEpOWFJtUlNGczZxeGR4a2NYQlU5NktIN0JQbE54SlRaS3QzRVVvWUdSRGpqWmNYWXlQSWtMbkM2R3lnRWtERTVLcTNadXMwbGxVQm9GXzVLRmVpZDY1OFFDVmI1ZlM3cGVZ?oc=5
-- **Source:** Reuters
-- **Published:** 2026-10-18T13:51:43+00:00
