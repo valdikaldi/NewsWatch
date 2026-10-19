@@ -1,8 +1,74 @@
 # NewsWatch — Apple News
 
-_Last updated: 2026-10-19T16:49:54.111033+00:00 · 50 articles_
+_Last updated: 2026-10-19T22:04:04.361515+00:00 · 50 articles_
 
 ---
+
+## Apple Taps Meta Veteran As Litigation Chief In Legal Shake-Up - Law360
+
+- **URL:** https://news.google.com/rss/articles/CBMiwgFBVV95cUxNMnFxN1Z1aDZHNnBSaXBjWmplUjJSRlZaM3pSRWRKN3BRSXZDUm5CZzNXLURFTDhwRUVrQ09GQjIyXy1nVjVfNm1QY2UwWFFuUnQ2bTk1WFpWMC1XNV84UFc1RmdQakUzN0NpQkJSalY2REJjS0dua3hwVUhyakdIcXdCa0E0R2VsdEJlNnNOYjJuVTRJTnIta0NVLXhYSS0xemVDTjkwNVFFcmJIak91bGE0NmEyNERMRlJqVVFfRElEZ9IBXkFVX3lxTE1Qd3doZnFJRjZ2WTk1Ti1rVng5endqc2FVS2twalhXTDgtbjdrbHU4WlYtTE9HelBpNm1zN3RURFdHMW0zLVJLYXFLLUhPblI4N1R1OFFBX1VLRXFGZ1E?oc=5
+- **Source:** Law360
+- **Published:** 2026-10-19T20:46:43+00:00
+
+## Apple $250 Million Settlement: How to Get Your Payout Before Deadline - Newsweek
+
+- **URL:** https://news.google.com/rss/articles/CBMiowFBVV95cUxPNWROS1VqaDljSjlBRFdsMDlBV01QSHRIb2pqRG1VckVrend6bVFBT2NLc29QXzg5N0g0Qm96Zl9YRGxFUG41Z2Z0RV9WYW56MkFoUXZhVXhuVVg1LV9WMlJvMUpoeFZPVW1XMGk4SkkwaVhZaEItUERldHYxNF9sQWFYcHhPbDF2eEhlVjdMZmMzUTZJOFpqUEFwSkpTR3NjWG1v?oc=5
+- **Source:** Newsweek
+- **Published:** 2026-10-19T20:36:00+00:00
+
+## Apple’s iPhone Factories Won’t Make India the Next China - Bloomberg
+
+- **URL:** https://news.google.com/rss/articles/CBMiogFBVV95cUxQemJ3dklKNU1WVDdvZVE5REs3bVVNSm0xckZBUDZndzBxUlZrMHB6ZHJPc1paUVFVSkd0OWFJTHFhZGhyaXl1a2Fhd1JrZi1DRFBzMXFGMDVzNDNpZmY1RFBlaGJnZkhNekVXTDN2RjBZZHFQUkxmUVR1Vlh0ZjQxMkFpelgwaHhBN2JYdEZLQ1lqNXVKT195M2lKT1M4bzJzdVE?oc=5
+- **Source:** Bloomberg
+- **Published:** 2026-10-19T20:01:04+00:00
+
+## Apple strikes deal with AI startup that lets musicians rework recorded music - 9to5Mac
+
+- **URL:** https://news.google.com/rss/articles/CBMirAFBVV95cUxQbThPU2paYlZPaUEzbFFRc0QyR0VqUWU1S3o1Qm5DOUEyVVByZlU2ZkZzS2k1cHBSZFc0OGxVakVLNWx6OURtd29SdlFzQ1ZOMkd0N3JxbUNSM0ZveVBZQlg1anJ2NTN4ZmJyN3NibkV6d3VMVlJ4enA5aThGNnRaWVlJTHlfSmFaMGRWVmRQVHFjY05sQy1ITURYUFB2RFpSaUtPakJSQVQ5dXF0?oc=5
+- **Source:** 9to5Mac
+- **Published:** 2026-10-19T19:53:00+00:00
+
+## Apple Already Developing Higher-End HomeView - marketscreener.com
+
+- **URL:** https://news.google.com/rss/articles/CBMingFBVV95cUxPTVBmUnNEcnM1ZGRoNUVHZEV4TGx6WTZiWnJkRzBUbmVkSlBZSmJ6MmpsR0NEY2VmU2tjS2k5NGxPYjhlbkRiOW1wYUpEcXA5dDF3a003UVRld3RkV3phejZPbnFyT0RkdUFvck9OOUdSYnB5cjViMVlVal8zU3BLUVByMVZxbTFQTGxSUG40YmhuckZ4VkNQc19aMFZnZw?oc=5
+- **Source:** marketscreener.com
+- **Published:** 2026-10-19T19:06:58+00:00
+
+## Apple Confirms October 28 ‘Pro And Tell’ Event — First Touchscreen MacBook Pro Expected - Asianet Newsable
+
+- **URL:** https://news.google.com/rss/articles/CBMi3AFBVV95cUxQRG1xRUdDaUxzSUx6RTZoejZxMlhic2J1WDB4akl0c2NiSjlMSVFOR0xvNnZCTUNMOVhmdXNUYTJxZm1QUGxKTkVHcTBlc3F1akhvTEZMRUxDZGxVQVJzUjZEOWNhX3hzaGlvYS1VckxsQWxLUkFGT2xvc2FhSDBidkl2WHphVUtCY194eUtkZ1hLSV9kb1RfenQ3aXFrdWxDT3RCdFB5dlFfWUtWeUxMWVR3MnRYTFg0d3ExczV5QVhoVFJLRVl3QmhTSFNIR00yYXU2bjcwUXJKSUV00gHiAUFVX3lxTFBoSllRLUFQRzlnRlpnWWppSmpoMlFWZmJiOHg4Yzgyel93N0RDR1c3SUhHRThFWnU3MjJoUnduTDYwamg1ZkRXQ0REVjJRMmlDa1VpVHh1M1JhUFpqNEROaG9FV240S1RYTUxOWFRMNEs2TFBUVFNtc2d1dnFLWnlZdWZKWGdhSkRoeDhVRV9lc2JZRjFnTm9nR1pzUUFQMGEzdFNvYVJYSDdjUjl5Q0F2R0VUZ0dUM21IUVFMMHlSek9wSmdtVjhNS0RjZ0tjem9fSEZMb2hWeXgyUXFxQVVQVWc?oc=5
+- **Source:** Asianet Newsable
+- **Published:** 2026-10-19T18:40:02+00:00
+
+## Apple Is Winning on Price, Not Units, KeyBanc Survey Suggests - TradingView
+
+- **URL:** https://news.google.com/rss/articles/CBMiuwFBVV95cUxOcVhveG5oNS14UnJaV1k4cnNZTjMtZkxDeUFLQnNiTjhlNnZoeEQ0VFAwM3VBRVFxTm1uYkgtRVE4TzRrS3FKd0piU1hLbVJDLXFtaTVnSDhsdnhSc2tpODlVZXUwb2o2UUxLWU9VQTIxVGI1WFdsQ2xKU0lreU5KNWstZ3RZSjlIbDNnWnNwQWtucjB1eVQ5LXFiYnJ6WXEzeVdrU3RlMmhETmxjbTdUTUNYR2tXd1VyUEU0?oc=5
+- **Source:** TradingView
+- **Published:** 2026-10-19T18:06:10+00:00
+
+## Apple Confirms October 28 ‘Pro And Tell’ Event — First Touchscreen MacBook Pro Expected - Yahoo Finance
+
+- **URL:** https://news.google.com/rss/articles/CBMimgFBVV95cUxOdnF3Y1plRXJMM0lLY3Z3d2dMUjhjeFZYa3FxRW5GaklUbVl4MXhqNDdfc3dYQnZpczZic21YVkVPQ3U3c2hBN2cxampYazRrSzZqRkEtenFJOFJtUjFLRGxQUWVvQUd6MTcxclNCOXg4bjBkQUNCOHBjVlB5bVRxbktwbGJrVERPYjdxWnc2alZCS2pGMXlBQlJn?oc=5
+- **Source:** Yahoo Finance
+- **Published:** 2026-10-19T17:43:20+00:00
+
+## Apple Sets October 28 “Pro and Tell” Experience in Los Angeles - AppleMagazine - AppleMagazine
+
+- **URL:** https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1CUTN3MGt5QWtKMnFOREx4SWxSUEJjaFM2eW9iMUFORjRoQ192c2xjM050S05rdnphbEd6cXBuOW1wSlZhaGk5Wmg4eFZMejlmTnVKbFZoVzJEV3hIQlBxdUZJR0dNXzDSAWxBVV95cUxPbDN2RDR0b2tsS2dBZ0JiTk1CaktfWENSRS1qSDNQb3lUanNYQ2FfRHI4T0pQLXVqV0E3SmR5c0dGUHBpUEplUWtyWVhOSDdaMEFjOVlCN2NpUFRENndlaDNiQlhjQkFrVk43eDY?oc=5
+- **Source:** AppleMagazine
+- **Published:** 2026-10-19T17:27:46+00:00
+
+## Apple announces product launch event for Oct. 28. Analysts expect touchscreen laptop - CNBC
+
+- **URL:** https://news.google.com/rss/articles/CBMiqAFBVV95cUxNXzlLcVM0Vkt4TUZFTmxfWXE1VzFUcUdTV1F2ZzBXTlVYMTdZMUxHN1dPM2hKODVKOXozSmc3aDF1RmxJbHdfT3RaajBvb3ZCaTB5VWFnSlNPZ0JEaTlsTVlvV3VLYjBBaEdseXNaaW5QMWZtS1pEWW9PZ3l5TElQTGJTWnY2VHNHdG5NOWd4MHRvUlhXaFdJaERwTHdyUkJZSWgwZTVBNk7SAa4BQVVfeXFMUHFCU1V4Uk1KWU5aUFhicVZWS1hIOHd2QkZFZ0owLWJSbk9zOHlYZ1lCcFoxVHRPUUU5dy1kNjlva19PM3lsQkNqUVRWUnU4OFd3RnFRSU9PR3VrcTZDMndSWUJScWNuVzUzVzUzbVhsTkx5V05nWFdjeWZUa3dTRHFDaGV2SE1KYjdKSmpYZ3pvb0hZUlliQlhjV18yVlNnLUNLQXFSN19kVzczZjN3?oc=5
+- **Source:** CNBC
+- **Published:** 2026-10-19T17:24:49+00:00
+
+## Broadcom Inc Stock (AVGO) Moved Up by 3.16% on Oct 19: Drivers Behind the Movement - NewsBreak: Local News & Alerts
+
+- **URL:** https://news.google.com/rss/articles/CBMi1gFBVV95cUxQRzM0Z3g5M3RLV1g0NTNsZ1BYaUhITzVGU1Q2WGFBNGxzdmdkNHNsdEJDaFh5NTVSSWhjeGpzMlVlOU5XZUREbGtrWWlGQWtLc1BreVlRNEtHVU5BSVNjQUdnR1NMVm00Z3c5T2RJRkRab182QzZNQjNZQUlKWGxhZ0hJbndMelVFZ1BIczI2Q0k2M0dXZDNSWURycTVUdjlsVldoZzJNempCa2U0cFZOU01HM1M2WjFvZFF6eHRFWTN5RGxSUFJZbUc1QXpiR0M3X25ZbUV3?oc=5
+- **Source:** NewsBreak: Local News & Alerts
+- **Published:** 2026-10-19T16:52:14+00:00
 
 ## Apple (NASDAQ:AAPL) Rebounds With Chip Peers After A Sharp Market Slide - Kalkine Media
 
@@ -237,69 +303,3 @@ _Last updated: 2026-10-19T16:49:54.111033+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMiswFBVV95cUxNTU5TREJVcHk1NFdDNV9xQkh2TW1iOXg4YkJkbzVqMDYtLS04Z0pYRGFtRTZyNXBSZF9KS2kyTUFNWjFKaXgzVjNmTTd3TDlIb2R4YWJRemVTbjhWUGFNRzN1eE9SNWlBZ0JtUXZsYnBHY0tOY3NPYVp3Vm00U1lNbE9YbHRGZHlLajlLWWtMeW13Z3lYVkFyZDVsNWZEbjg2SHNWRDhVaGF6S1kyenBvZU9xaw?oc=5
 - **Source:** Bilyonaryo Business
 - **Published:** 2026-10-19T00:18:42+00:00
-
-## Forum orders Apple to replace iPhone 17, pay Rs 35,000 over persistent defects - The Times of India
-
-- **URL:** https://news.google.com/rss/articles/CBMi6AFBVV95cUxOdGVIY3F3ajdTZEZVNGh0TmF4NE95c25BNUhYOGVSWVEydUUxN2hfTnRtUXJobnRLYXpXS2dXamV2Tm9xWmc1MWw1S1E2a1BFMV9YanNMRXVWYzVSWVlrcDRISng4amlhdE80NEdNUlNUMHp0WnZIdzNBT2xJMzRWZWNEZGpUeHJTOEFnZXpodjBMT1FPSXkzVDA3anZvTzJUQlQ1emN6SW1vbWVSM3VVekdFeTBMYmt0alJDV0t3QU93YWxuanRJV2doOHdVLU5BTHNpY2c0MFdDdjFVYW5ISlVPSk5Ma0p00gHuAUFVX3lxTE10dHBqYXJwN3ZaMUFwU1ZHdDdpeDdackpuc0JRd2w1bDBISk9rLUlZaEFLTUFSVXJwdkczU2IzVFF1QVkydzM4czhnVGpSbTMyR1JZdzg1Zm1QZENPMEkzUEFpd21oRklpTXJNaFl6dTNkSDA2RXFGT1NIaE5XX0JQNjlfMnJfQkRyMlhISUlmMlpyS3NlakdyWmlvODlnNjNhRTR6S1hpUkQ2LVNIdktPNXFkdTJSeDRsMmY3TWhFZXdmc0phUzRjWm83ODV0aTBMQ1dkM1gyLXB5YjRBOTdrYTBfaVlRdzhaNHRpYUE?oc=5
-- **Source:** The Times of India
-- **Published:** 2026-10-18T18:51:00+00:00
-
-## Trump’s Russia Tariff Waiver Helps Apple, Eliminates Tariff Advantage for CF and CVR Partners - Benzinga
-
-- **URL:** https://news.google.com/rss/articles/CBMi5gFBVV95cUxPOHg1VnI3bUo3S1VET0o3TWl6V2hkUU5EbzBoUHR0VFV3RGl3cDM0WGlSRnVrXzRERUpybDhjYmlOSzNld0xqT2FKa2NWaXJTczRlcjdEc2JsOE1oM09QWHhRWEZjQXRneUNyRGgwdnh3cEhQd1o0dDZVTVc2QUY3cjRYRmI5WVV4YUVRWXVvbUh4VHpXMEk0RUtrNFAtVVVvaWxzUk56cFdxam1SQzZjVUg4NFRvd1VtTWZwNFpLaFBZNXk3UjZxajZDblpmMFQxVzJzSGs3Z0VBVm5GSEtDUXVQQkg0QQ?oc=5
-- **Source:** Benzinga
-- **Published:** 2026-10-18T16:55:09+00:00
-
-## Apple News: iPhone Duo Demand, $5 Trillion Valuation And China AI Plans - Apple (NASDAQ:AAPL) - Benzinga
-
-- **URL:** https://news.google.com/rss/articles/CBMioAFBVV95cUxQSEozaXNnU2x0WTNxRjRPNGNXZkdzNEJPOGlUV3VYZk0wd1QxaG5icEExTVBiaFU2ekxnNUYxTmhldmVEbGZFZkVhRDlNYkFzMGptRVVSaDAtLU9YdzJ3NTNPR0pYaUE2bzJxTkNDakhKQTh4T09aMkU4OFZ3RlotSjBTRmw3SlN0eXJCVW5lZGVHZkVaQ1BCX3dhd1hqQVBa?oc=5
-- **Source:** Benzinga
-- **Published:** 2026-10-18T11:00:17+00:00
-
-## iPhone Duo Preorders, AAPL Crosses $5 Trillion and More: This Week in Appleverse - TradingView
-
-- **URL:** https://news.google.com/rss/articles/CBMi0gFBVV95cUxNTWZqQUM0TElQWFBhOHYySHZaTTRvMFNaSzdIYW1PQV9sQ0dfMVB1THoxRmNXZkpaRXFGUmZUQUg4YXdlZGE5aDJsUUtPZjN2amdUNmRYUlBKNDh2b3paTlhLblFSWWx4UUotYW5wSXd1OFRmeHhXMnZ4Z3BENUZnOFptMkRzeU85WEs1Zi1mazZwOTZqVFBFZnFZZU1OUTRQVWtONE9ua1g3T01KdzJzQjR6TjBQbjA1Yi1ybzNjRkl1OGlRaVJpeHJWNWRqMWhDTXc?oc=5
-- **Source:** TradingView
-- **Published:** 2026-10-18T11:00:17+00:00
-
-## Apple Inc. $AAPL Shares Acquired by Sapient Capital LLC - MarketBeat
-
-- **URL:** https://news.google.com/rss/articles/CBMitAFBVV95cUxNLXBQNHhfNkdWUVFRdkhDMzY1VzFaMHFkN0pwRHJEb0REcDVZS1kwbjUtZ3RUUk1COFk4RlRGczBEVUt3NVFpWDFoV2FhdUQxTGNfa0pMLUJvdWtudDRhcWIxeEpZbmhLRTl6RUVzWkpDQWpwQUtMVFpwU1dJcElzRXVzV0dVcHU0eFdCdVRUU21mODUzSThBQllvbmdNa2loVm9EdkpNMzZhQWdxNGl3UGRWWmc?oc=5
-- **Source:** MarketBeat
-- **Published:** 2026-10-18T09:18:14+00:00
-
-## Professional Advisory Services Inc. Acquires 87,398 Shares of Apple Inc. $AAPL - MarketBeat
-
-- **URL:** https://news.google.com/rss/articles/CBMi0AFBVV95cUxOUklQZU9lX1cweEphVlhCQklaUHdnUTI0azNZMlZIcGJ0d3RJdU1wNWU4cndaZGVNRWxjVG41ZUNaQTZHSmctWWlmc1FVZXJnamRaMUVCRVQ2ajRuVkwzc3ZkSVJNNEhWTTctamw0TkZiZ0JmTjEwRGcyaGZMeVk0S2NXVHFiMjdVb0dNRDFBMjZNQ29rMHBXc29fNEZMUHZQQjQ5b3A2d1hzRlZMOUw5MGNTRWg5MzFPeF9GYTNwVFN6SzBmbkJleGwwZ0hJWjlM?oc=5
-- **Source:** MarketBeat
-- **Published:** 2026-10-18T09:18:13+00:00
-
-## Apple Inc. $AAPL Stock: Mn Services Vermogensbeheer B.V. Raises Stake - MarketBeat
-
-- **URL:** https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZnJGYy1CWGdaYUI1R21WbXRYVDZ3N1FkSDJEVVlvdzZQcDI2QTFBYjhQaVdQQXN3aGZWeFdJSk5wUmxlYnRJNDRTdG91N05LeWJiV240R1dBbVBoS2FlTFJLVzZVUUJsQmVpMnZ2YUEtem0wcElNTWY2YTUyQk1VaWlwN2txOWtieVFRMzlHQURvOURlQWhXSmFneUxmMVk3cEZLVklWRWxtdFN2cW82bWVPVkRNS243RHdhYmdEMGVFQlU?oc=5
-- **Source:** MarketBeat
-- **Published:** 2026-10-18T09:18:13+00:00
-
-## Galvin Gaustad & Stein LLC Acquires 10,077 Shares of Apple Inc. $AAPL - MarketBeat
-
-- **URL:** https://news.google.com/rss/articles/CBMiwwFBVV95cUxOOGYzWFN1OGNpbE0tLXRoQnNGck5uY2pMa3hObjAwWUE2a0xCN2VOWXAtaWY3VkdkM0NoT0ZsSGFHZjRQZEQ3cVpPVGlubGJCU20wTGo1eVE1ZVFKcjRScmRFXzBiMFp6QWZlaXU4d0xGcUkza0xqRUNkblRaTThINm9zUEpsb3hRMV92VFpYQ2gtb0xmdjcyVUpoWDZEMlZkMFJYMXdvd2xXZXY2cnp3RkVUa2FuRUlkRzNUNTlyNlNaLWs?oc=5
-- **Source:** MarketBeat
-- **Published:** 2026-10-18T09:18:13+00:00
-
-## 1,837 Apple Inc. $AAPL Shares Sold by Green Ridge Wealth Planning LLC - MarketBeat
-
-- **URL:** https://news.google.com/rss/articles/CBMixgFBVV95cUxOdkplSnFhSmRvM0staFJIUmk5VTdGYm5iNjlzTUZpaFR3SmpEeUJZSGoxSzBkT3ZlU1l5TER1UER4QWRKWG16aDRWS3RGY2l6TkdaTllrUElzaDhJWnJqSDVJbFlCcFowSEwxU1dfbUd0Wjl1WGRKT01UUFFiWXBoQ19TTklyRWFDNTZwNDBZYzNNaEJFcUJQLTh6X3dXREVmZ0RSNlpVTVQzcF9tajNvcWN0Q2pDV3pKejVaQ3JuYkFHbHFvUVE?oc=5
-- **Source:** MarketBeat
-- **Published:** 2026-10-18T09:18:11+00:00
-
-## Apple Inc. $AAPL Stock Position Cut by Diversified Management Inc. - MarketBeat
-
-- **URL:** https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQXpRaFlpbDJDcndvbjN0dlF5V1RnanlBQTZnNzNKU3BIVWpVM04yZ1FGejNEYnhoZkVSSGZTUF9NYTRWa1Zwa041QklFWm9rWTg3X1k1Y2xDRExoeEczajN2akpnMHhTZ25UWnBiRExVNngzTTNONUVoUmNtTnEyUFppR0NvWU5Rb0RHdjR2ODBIeHBUa0FYMG1lTEZXTmIyb0g0OGFOMnN2ODQ5WmR2cGFhMUJSMjlOTUxicU9QTzFnQQ?oc=5
-- **Source:** MarketBeat
-- **Published:** 2026-10-18T07:35:13+00:00
-
-## Apple Inc. $AAPL Shares Purchased by CoreCap Advisors LLC - MarketBeat
-
-- **URL:** https://news.google.com/rss/articles/CBMitwFBVV95cUxPVGkwd3lFcnZiTnNIa1pCMFNudmktS1NzczNfcWF5RDV6STNXVzM3clFFUDNjLXZaR19DeEIxWTItSEYyRmN1ZF9hRE5fWndJV19ndWF6X3RHWkJEMjlaZ2c1Vm02QnRWQU9lVm03Y1QtYnA0OXhvVVVjSUN3R1lSNXZhbE5EZUkxSUxNSVhDTkdGeUZFX1V1VlJ2Y3Y4TlVLWHF3S0lfUWFEY1hCNlBOeHhaWGsySW8?oc=5
-- **Source:** MarketBeat
-- **Published:** 2026-10-18T07:35:13+00:00

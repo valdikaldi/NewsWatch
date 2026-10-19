@@ -1,5 +1,229 @@
 [
   {
+    "id": "f4d29f6d4c98",
+    "title": "Nscale to move ahead with IPO despite valuation, Microsoft setbacks - International Financing Review",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNEE2RGJuNkRicmtDTVVibjg1cXdwaHNsbzc4SDZaUm1kXzlhWFExZE1VUXpzcnJQX2JOUU1QeW9oYnV4VFFjcG41UVlBMkNZWkhDNk0xTGJzb2pxMnRJWHVJaGtXLU1QYWliWU9YaEN4c3B6TTljOUtLbmo3Mkc5cW85TmlIalJiU3ZuN1lxdldhNjJOVnFkSk1nX0lPdVZZTThyWHR2WQ?oc=5",
+    "source": "International Financing Review",
+    "published": "2026-10-19T21:53:09+00:00"
+  },
+  {
+    "id": "b60b1f0839fd",
+    "title": "Microsoft could hold an advantage with Copilot for Legal - TechTarget",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOV2lqdURjYVVuNFFhY0NTdlYyRmJtclJraFlYX3hUV2szZFRkNE9TM2c2UTV2YzItRUhPZ2hXQWF0N1EwUS16aVNhQUZlVUlfaUs1Sm1UWmRaYzhMYWFkQTMxNVJRSFZtZHVzYk5YU1dMRWFIZ1NoUkItWVNxR3VsY1g2WDgxb00zOHc4VEpJMFlrOXc0Y2s3bjBLT0pXcWV5VVJZ?oc=5",
+    "source": "TechTarget",
+    "published": "2026-10-19T21:46:50+00:00"
+  },
+  {
+    "id": "07947de91b4a",
+    "title": "Researchers Infiltrate Microsoft Tech Support Scam Operation - Dark Reading",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcVE5bnVSa3ppMnFFMmdvS256Y19KMjRsc3JRQXpEVzZwdFRRTGM5SWdmU0VhNkJtZW9XbElPdklDbWFsa1lVS19OMThoU0JMVzZPNzZmREV6eGVxejNGTmJSUHVpeUpKbFJmWk9kd05SdWhVMDI3TW9sV1NZc2tlZTE5Z0ZGbEIxNGF5NWlB?oc=5",
+    "source": "Dark Reading",
+    "published": "2026-10-19T21:41:14+00:00"
+  },
+  {
+    "id": "9dd5838198c5",
+    "title": "Attackers compromise Microsoft 365 credential via ConnectWise Cloud Backup - SC Media",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQOXNsYmlVTVlsRERqS3BHVldkRnZ1OTlFNk1EUDZ3SUZuSVI1SjNZTExsbkU2R3VwaGl5Qjc2bHdTQU5weEh6RG1kZFNTR0JiME9rT0RuWVlVTVVoLVZMTnlwLTc0ZXBPX2Q1RkxMaWF6R1p3eVp2X2hfVDNWTWVfem9vazJiSnV2UVgxQXJNbUhraEFkZ0dSdnFKSUtQZUpnT2pqWDVR?oc=5",
+    "source": "SC Media",
+    "published": "2026-10-19T21:09:03+00:00"
+  },
+  {
+    "id": "8deb88216387",
+    "title": "Britain Wants To Punish Microsoft for Being Too Successful - Reason Magazine",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQT1hURDI1OHdidmFCaDI4NW5tQTVCckpaVnFHTEFYekZybldaZElKOEpJUUtHX3FRYzJ6clBNSG13bzUzRmNmY2x4SlNqczFmV2h5eVZiRGFkMWR0T3MzdU1CZWdnRVpCaUotdUZ2Zkpxa3dkVjByUGJtMnRxNmpzdXM4SjNsU1VwSlBuVGEyRmxsZk0?oc=5",
+    "source": "Reason Magazine",
+    "published": "2026-10-19T20:55:25+00:00"
+  },
+  {
+    "id": "b75df58d01fa",
+    "title": "Microsoft exits data center deal in blow to UK AI ambitions - Courthouse News",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOekZiLWpZVU1PT0RqMU1oaEtVNWZkUm8xYWxwZHlDS05xaUhUMTBBOEFhY3FmWllKU0FTX1VDMFd2OTdlX2prd0JncUw3anRZNkwtSW9lc2Itc0tkSF95eHB2b0hVSGhoMm96WmJkT3JlNXh6Mk5CTDlkQUtiZUFwTGRBOHR5Q1RYaVlndGdrcjVMel8tSUE?oc=5",
+    "source": "Courthouse News",
+    "published": "2026-10-19T20:52:35+00:00"
+  },
+  {
+    "id": "6cfe3b784d81",
+    "title": "Microsoft rolls out a big Windows 11 Bluetooth upgrade, and AirPods now pair up to 15 seconds faster - Windows Latest",
+    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPQkFFQUFCNTE0VDRHNkxpQ0JwT1pUMXF4UWR6ZTNxT0ttcGFmWDNlYTFvRGh3VGlzMHlhSHJfblNVZ2JfWExTQTdIQUk1cjktZmlJbEdHenRqcVNoTnZaVl9CUVFCelhydGtZVDRtOFBRaGpZQ1VkdzZuVl9XMEtIM2d4QmI0Z3BBcnhBT1BmdXdEUGNSX3ktbFRqLU1uUU16eXl6MFVOa0dzemRlWkJMc2FxbmlNOVVyeFFIYlBSRFplSnZCRmRKZlpMS0RWVE04UXpxbXlCWmc?oc=5",
+    "source": "Windows Latest",
+    "published": "2026-10-19T20:35:24+00:00"
+  },
+  {
+    "id": "a54211e79268",
+    "title": "Get Windows 11 Pro and Microsoft Office for life at $35 right now ($419 value) - 9to5Toys",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQa1VIcHJMa3BXeFpMR1RqTVpBOXFmRzgxT3ZZYl9MTy1QTjJhcmFVdkpWWTlWRXR5S2FKdmJpdFRDQ2l2TW5vZ3JmdGpBU3VTNWVfc1ItOW54Wk1WMm1McjFVN000bFp4T2J0cTVGWU12dm5BdnVuMTdZREw0V2g3ek5RSl9Tb3R6ZnpSSzlncw?oc=5",
+    "source": "9to5Toys",
+    "published": "2026-10-19T20:08:00+00:00"
+  },
+  {
+    "id": "13661d1998ba",
+    "title": "‘The Art of the AI Deal’. Anthropic, OpenAI & Microsoft. ARD #187 - AI: Reset to Zero",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE84RGpQNGd2UG5Cd1RSYnFxVUF0M1NGdGtaRnBzWERaQmY2Z1VYa2V2ZWJGUXpmZjNLY1FaNFcxU25Zckszc29nZ2ZOZWNyd0RwWDR0NjlidnJrS2hNN3V1RmVQY2R6NUZUMVZ1c2NIazRtT0JwbmRjeQ?oc=5",
+    "source": "AI: Reset to Zero",
+    "published": "2026-10-19T20:02:36+00:00"
+  },
+  {
+    "id": "8804bc4ce848",
+    "title": "Linux beats Windows at these 3 things, and Microsoft still has no answer - How-To Geek",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5rSWUwaEtZX3oxWmFxN1poN090cGxkakRaTkc3WlIwMzFKS2ZaX2tJb1NoWkNGTHp3bHAxVHJGLUhZaXFMUC1VZWctSjgtelM4b0VoOEw2R0ZfT3YzSHB1Q3hLWW5RcXByTXNwWTUzbw?oc=5",
+    "source": "How-To Geek",
+    "published": "2026-10-19T20:00:15+00:00"
+  },
+  {
+    "id": "0112541109a7",
+    "title": "Microsoft faces higher bar for continued momentum, Morgan Stanley says (MSFT:NASDAQ) - Seeking Alpha",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdzkwbE95dnczT3NJUWpVcF91NHBZNjZnUmNtR0IxOWcyQmZJWld4SlVKeXNaQjF1Z1BoZE5YWk91SVhOa0F6MG9LaVJlNnp4bnRleEdrUm1iYVJNaVl0SV9EeUh2Uy1KdkZhaVVWV09OUWRSU043Y21tSHNYZ25oMmVVWFVtN0gzaWRraTdmbUtxZEU4Y3lNVHBlS19GRVN2T2hoRElHWl9qZjg?oc=5",
+    "source": "Seeking Alpha",
+    "published": "2026-10-19T19:50:30+00:00"
+  },
+  {
+    "id": "69a178b4df0f",
+    "title": "Microsoft Stocks Rise With Bernstein's $662 Target Setting an AI Earnings Test - TradingView",
+    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNNU5kWVh1Z3Z3THNvaVFySWVWRm81Q2hmcUFlTkZXVEFDUHB6R1BleDF6YXhlV2h6RVJYbHhmM1VFTHpVVVA4dlFfYlgzMll2WVctcHdCNmVHdmh3Q0gxZ1VtTy1uOW1HWHRnaVUybm51ZEtuS3JzS1E5bkIwT1FpWnc3RXU4SC0tR3JMbUZmZ1h3NnI5cnVDZlBzUF9kTVM2ZFc3TnpValNBWlhadzRaNWFjOHI4bU5lZ0hnek55ZjZVeXoxRWRRekltVGFkWk83OUNz?oc=5",
+    "source": "TradingView",
+    "published": "2026-10-19T19:50:21+00:00"
+  },
+  {
+    "id": "a94fce6f6490",
+    "title": "Microsoft's First-Quarter Results to Match Views Amid Azure's Momentum, Morgan Stanley Says - Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZXlWODBmYU43MGk2WVhva0JzRElpckVlaGtWYmNweHdpU3l2LUxMdDU3TlgwLUt3VEhBLU1kb3RDWjVKUjVvc2lOWFlKTkpXQjNxdjY4T1dQaFk2YXdBb2NxTVV1VFlQa0FTODdZS1ltOVRCQzBxOVhMdU1rWWh3SFZXcTgwd0VCWmREZjlWWE5VdHV6cWVFOEVjUTllLVQyTzFN?oc=5",
+    "source": "Yahoo Finance",
+    "published": "2026-10-19T19:43:54+00:00"
+  },
+  {
+    "id": "a29940809a45",
+    "title": "Microsoft Foundry Update Brings Scheduled AI Agents, Smarter Tool Use and GPT-6 Models - Visual Studio Magazine",
+    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPc3FjNDhnZjUwMGJ1eEJnOHVrcmEweFJwUWpvTXZjSThIQkdaXzA2QjZZU2NZT1Y2azhPbHNkRk5INjhJRU93WG5mQU9pbk02Q3IyQXp6X19aeGlLVUVHdHZVbXNWZjZoMElSRmdWRmRDODZyS3lJanpnMWhoX2dFQXdfal9fVFA3eFJHR1BiTnFxcW9sb3VSdG12cEVncWJ1ZkpZWWduNVZJOWNKdHNCODNpRnNDSmtmQjhoTVJMTGxja2t0Z0c5RWJxVjVYOGpYR3hFdlBTSkg5OEk?oc=5",
+    "source": "Visual Studio Magazine",
+    "published": "2026-10-19T19:41:14+00:00"
+  },
+  {
+    "id": "c66e396b035c",
+    "title": "Designing for sovereign AI: A shared foundation from edge to cloud - Microsoft Azure",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRVY2a0ZmdXkxOVIwVTRSZXNMYm9GSjRyaXVDdzh5RlZoY2xEMWtkUFBLdmRSb3AxWkdxSm9HYmhXNFlrSE9sZWYwaWx5anBqcTVlUnRaLTZCM3lfRVRSX05yQ3ZOWFR2QUczLTB1cGd2VldsRTRpWHU0OUQ5UFl2QWYxbnV6T3cydWN5OEJxYUlTNnlRUHZpd3hrVjFtaFZkcmI2TUhQeHA?oc=5",
+    "source": "Microsoft Azure",
+    "published": "2026-10-19T19:17:23+00:00"
+  },
+  {
+    "id": "d6b5210c9284",
+    "title": "Microsoft's WinUI Gallery Embraces the Experimental - Visual Studio Magazine",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUnk2WWp4Z3N6bjZMZDktSVVOVEE4cUFGZ1NIdF84ejlVd2pSSUVpUDRKeXdMSk5nX2s5bzhTQWpjQTcyMi1oT0ZLcE9JNHJFZHBwLVVUbTVVM1hST1ZkSURKcVhfUklFWW80ZUpvTkt3aEFmSFcxSVozbnBlSDV1VXlxN19CUFI0SVZaS2JLM0hmeU41bEZOU05PUU9lNHlFTmxpc3V1ekdXUzVQ?oc=5",
+    "source": "Visual Studio Magazine",
+    "published": "2026-10-19T19:11:44+00:00"
+  },
+  {
+    "id": "1f3f2a8c9771",
+    "title": "Microsoft Pulls Out of Nscale’s UK AI Data Center Project Over Grid Delays - Channel Insider",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMl9BRzJlc195NmxKc1hHWUo5c2hZT05fY0ZlbEpTbDhOUHNfanhiTkxrbC1PVmFZa1pTc215b3RSRzQ3MW1HMU9zb0NLWGcxcHpDU3AwTDNIS3JwVmN6Rkd2V2NMQy1HblE4Ql83ZUZhdWdpQVdtcFRGd0xfeDFSMW02VlNzZDZPaHRHMnR5LVFWejRETmxqbktTTEpFZWNwd216VHlB?oc=5",
+    "source": "Channel Insider",
+    "published": "2026-10-19T19:10:13+00:00"
+  },
+  {
+    "id": "1463b81e9aff",
+    "title": "Microsoft Walks Away From AI Data Center Deal, but SemiAnalysis Predicts 50-GW Boom in 2027 - Benzinga",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRzVjX1BMYjVkZGNzb1pZaW1vbUFLU0dqOTdKRkU3dFNDVGctYW9UaHFLU1AxQUNjZXlCQ09xZFZzU1U1YjNIUU5Mdi1USXg5QnJ0bXNYUkI0b1NRbEhQRDlNTEpXaHFrNDMxajVEQktQM1JwU3R1MEFMR2NwVnNIdDltMWdWMVZxZWJxTUY4Y3czbzJSUmFoUFBvR0pmTGZRZmN2RzhjN3Q?oc=5",
+    "source": "Benzinga",
+    "published": "2026-10-19T18:46:26+00:00"
+  },
+  {
+    "id": "6aac552744c7",
+    "title": "Microsoft Expands Project Perception to Address Security Risks from AI Agents - Redmondmag.com",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTjdrQXVkczVhdWVQUmVaeFpqckI4OWZ0LTdGSXN6ekttWnFHLXVoVnBGZ25UNmNTOVpsM3pQQ0FLbm9MRWJ1Nk1Fc0U5RFFWbkRlcUo5LVdIZVRnQWp5ZEViTmtwNlV0aVlJLXRKLW9lVkVRa1NyX0JPN0ZWQ1hyRl9xY2tDT1dlQTdwSGUtdTZfU0NtYUhxY1FmcWM2ZVFzTmdMd1hvdnZ6XzU0cTdUb2JzMkRqS2w1Q1VvNHJFYUVrYlU?oc=5",
+    "source": "Redmondmag.com",
+    "published": "2026-10-19T18:46:17+00:00"
+  },
+  {
+    "id": "69e522a2d19b",
+    "title": "Microsoft reins in rogue AI agents with new tools - LinkedIn",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOTXBUeFNPNDhNV09lU0hjWlMtc2kycGlKWldUNURfVXdhRGlrNHNuNEVUNEFsYzk5MHprOHlkb20yWk41T1V5Q18xci0tMFV1S3lyY0ZVREhSUGtkNGRGWEljcVMzaEhCbW1oY3UxRXhiYzUtMkJlTE5nVkY2RlR6cjBsQU9haUVRSWhaX0hyWXI?oc=5",
+    "source": "LinkedIn",
+    "published": "2026-10-19T18:40:11+00:00"
+  },
+  {
+    "id": "3fcd52f0f67f",
+    "title": "Microsoft Treats AI Agents as Insiders — and the Containment Layer Just Arrived - Forkast News",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOUEVxZWF4eENNODhHVTdrREhOV2x2WmpiVktubVVtV01lcF80MUN3NGdJR29adHlGZThCUXB2S3o1NEhCU0pDcEd4b3NUTlFIQzM1UkotSzdWc0NTR08tOXlDMFFpS184bjE3VXJSUC1iM1VRTGdYZUgzd2x1SjlWSTlxT2swdVlPcE1aMGRNbWRpRThDS0ljTHRwYllDYWZZ?oc=5",
+    "source": "Forkast News",
+    "published": "2026-10-19T18:35:43+00:00"
+  },
+  {
+    "id": "e2c0cc27b7cd",
+    "title": "Microsoft issues warning about Exchange Server becoming \"unstable\" after October 2026 update - Neowin",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQeWZpenhCaGptUTFaY1BHVTh5QWtMWkZoekdkUWVqV1lwcjNuOVo3cjhGQ1dQdmI5RlZYLW1fLTRKdnZnZ050NWZMVERVQ08yZmNmSjRuMmREVWYydldkOFgwSTl3Z3FJcklFdDVRZDY1MWVMZ0dmNzJrRnM0eEkwNlRFYWpkLTBrYk43aHVkdkFWelNmRzNRXzE3dzF2VFltem1qa3pRX2lkbDdQRmZPcHk5R3FpMjJDelNV?oc=5",
+    "source": "Neowin",
+    "published": "2026-10-19T18:32:02+00:00"
+  },
+  {
+    "id": "d893b8b1dab3",
+    "title": "Microsoft Builds Controls For Insider Agents To Reduce Risks 10/20/2026 - MediaPost",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSk1QTVNDNGMtUktMTE1sck1xVFNmMWhjMHBsLWlVcnJYb29XbFRMYnRVZlkzaXVYNXYwT0RFQ09WVzhNTUpJU3FxZXByVEJ0WmhJZS1hSFotMVRWc2pJZ0NEcHctNENXNXNpbmdIQTMxU1VsUElvTkx3VUhDNDR1UE1KR1R1b2xXM0NXR2xJTnZFRWxST0x2MjhNZERUdmJ0c19LNVdFekFuRkdLbEE?oc=5",
+    "source": "MediaPost",
+    "published": "2026-10-19T18:12:03+00:00"
+  },
+  {
+    "id": "3a68d2360c21",
+    "title": "Microsoft Builds Controls For 'Insider' Agents To Reduce Risks 10/20/2026 - MediaPost",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPclZhblBZWG9KTFhzTWo3M18yVEU0UGNTTHItbHEtQmNKenRWcDRlUlhtYXJCMjY3RGI3Y2I3ekFZRWxJVGlaZzV0cUVBR1NNaXpfalRiNDRjVWdzUElySXVJMk1wamQ3RWF2ZVJpdUQ2YkVHWU5ZMGlRN2p1ZkRRamNoMTdUbzc2WTZkTWRlbmstTUVjQkYyMDExX3ZtQU5md2pJb2FnYlUzQQ?oc=5",
+    "source": "MediaPost",
+    "published": "2026-10-19T18:11:44+00:00"
+  },
+  {
+    "id": "5053709e24fb",
+    "title": "Microsoft says AI agents inside companies can’t be trusted, wants ‘Guardian Agents’ to watch their moves - The Times of India",
+    "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNb1dEZFRlQUlUQmZyb2NsZHlmbko4ajNORWJ3LWxHX1BGenhJNTdaWEh0VnkwT0QyQ0xRTW5SVmdNUWRIT0ozaE85b1dOSlhjTklOaURKeHVaRDB0MG5mN0E3bVhBWWp4MWhiUzhIZzdKMHdrMm9iMlAyci1nNE9KVmFmc05yTTFGQldRdENVeTVtYXlJcEd4VVp2RU1QdFJLbXlCRzZfeFBLek83TFNGZC1nZWJfREtDYkJSeFhTTVJQNXRiV3hfMlBpSE9BaW1fZE9zZ1pKRzVrYkdIUV81RWRKNE13Q0swbm9LaU1WZ0pkQXdaLU1mNkp3cU5kRS1jRFpLZmZ3eVEwMFA3ODBxS9IBlgJBVV95cUxNT3JVM1BqWGxrWlc3R2prTnduRk1aVDZvd09ieXJIZ0Z1N2hoVmIwbnZOUm1mZzVFWXdoaW8zLUZQS09YXzBQTVYtSlNtaV9xWFBXcGlIWFQ1X19vb2RCbjMydmVTa09tbGhTY2NrUXZOdW5HaG5wMGtPeTJoVmNISkJNV0dYZERWaGR5clJVVVR4b1J0VkpDc1EwMkQySnlwWTZhRGhEdVZsOUE2ejJ2VVNwdnozMUhCWmhJanNUdjF3eUpIUUZIdWlNSmRxbmRNM1ljcTNWSmswVmhnWTVtZ3VqbzhrTm1UbnJFazJOb2QzQXhwSk9JeTNES081ekN3TkZlVi1lNFBPMWdPM25ORDNEc19Hdw?oc=5",
+    "source": "The Times of India",
+    "published": "2026-10-19T18:08:00+00:00"
+  },
+  {
+    "id": "c15b81313d89",
+    "title": "Microsoft Says AI Agents Cannot Be Trusted and Could Become Insider Security Threats - CyberSecurityNews",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1GeVpFYnR2YTRDRVJvM3huVFFES2toZ3ZCQ3V5eHhwZkVFN1VPNlZ5OHBPUUh4b2s2bW1VWHFXZEg5N01xTjhRYVR5MkRKRHR1RkZCdVJQdlZCZVZaZnA1YXNaOXZYd0dZYWVV0gFwQVVfeXFMTVZ1aVhuZ0hYbi1HYThJd2ZpYkhwTTlhOWF2T1pqcnpYUlR1Tk1mZ0NtNFNOZDJ4eTdvWENMYTlicXBmdllLcDdrWVZiMC1Kc2s2OWpNNlVjd0N2V2wtVnhvUnVyU0t4WVltYms0c1RqQg?oc=5",
+    "source": "CyberSecurityNews",
+    "published": "2026-10-19T18:04:16+00:00"
+  },
+  {
+    "id": "f33c4ab686aa",
+    "title": "Microsoft’s AI expansion just hit a physical limit - TheStreet",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRmU2REdFNWVmY0J2ZnZ3dmsxOWdEVHFINXE1X0sxM3g2Sl9SY29fVDh4b0Q3Q3hKSTBLNmM1czM0eVBWR01NRDg3N0hrRllneU53eWFIenNMWGxqTjRLNjJkakU5aFE3UWdTbFRJY3YxRlJDejZwdDRGT0hKR2ViQmN0dlFpaF9Rc3ZPckNka1ZZRlo2enhYZUJFbEJ0Q3gzQmQ3SF9MY3hwUGFE?oc=5",
+    "source": "TheStreet",
+    "published": "2026-10-19T18:03:00+00:00"
+  },
+  {
+    "id": "aafdbc9f4d1d",
+    "title": "Third Wheel: Microsoft’s AI Chips Are “Nowhere Close” to NVIDIA or Google per Analyst - Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPaWxscjdzeUEyVFZ2b0lPdUtwOEVfN0F1ZWh5dlgtNlZSNVQtOFpEZlVWYWxtaVBWUnNWaU81UjBJQmh3UTRfYTNTYjNjOFJmNlJERk1kSVdBZ1FYd2VLNUlLcm5LZF96WWFmZk12R2kxV0NIWEp6eF9BN190NTJOSGNFNk40bWVONmxXTU9kd243NmYwVmkzc0pn?oc=5",
+    "source": "Yahoo Finance",
+    "published": "2026-10-19T17:40:07+00:00"
+  },
+  {
+    "id": "a971b63284c9",
+    "title": "I didn’t expect Microsoft’s new Photos app to be this fast - Mezha.net",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1yNkY2a1Q0amZCX2NmM0I2UThXSVVlYmYxUnR3dDJaTm82MkRPcVAxSndTdGoyeC00TUdUODRnaGUzMVI5MGJyeGpZaXdsODVoYUdpQ21jWldZTFB4QmJacjZUQVE1alJfZFVUWkJqcWphYS1aQzlYdFFwVWx3VFk?oc=5",
+    "source": "Mezha.net",
+    "published": "2026-10-19T17:36:36+00:00"
+  },
+  {
+    "id": "0b4261d0d337",
+    "title": "Microsoft Exit Adds New Pressure to High-Profile IPO - TradingView",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPeURSYWJzb1JXYVFBYXdkWVR1TnhmTXJSSF8tbnVJRFYzcWxOS256Y0dBOEllcDRlcXdGSHV5c2Y2TVNyQUlNdmRuVE9TV1k3cFBjOFFZSXZRTVh2WjFqazZ4ME9jTzFjbXVac29NSXk3SWpVOFZaTHZiMkg4MTFmQmd4VUgwZHBaZU1VaEl0UVBSY01ZOEZwVWpSbVRqSEdfdjVMdGdEOExMWWc4OVk1VVhR?oc=5",
+    "source": "TradingView",
+    "published": "2026-10-19T17:11:12+00:00"
+  },
+  {
+    "id": "fc42e48ef9b5",
+    "title": "Microsoft Cost Cuts: What a 20% Reduction at Azure Could Mean for MSFT Stock - Barchart.com",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNN3hGMjJFMGpwNWRGSVRtLXVlZTNnUnBVTU1QNExod2JqSGJBZE1wczUxZmwyRWhNR3A2SDZ5MEhKbjhsNllsWFdVdk44TE1QUU5ucFl6SDREbHNjdER3amU2VjdRb0VaMnNRNlFpU2pZLXg0aUduYjRnUHBfeVVnX0piZlpveEwwR3dwbkNWcGQ0MzNELTRHMEwtcGdnb3BCclFZRzdqeFY5bnI2Vk15M1hWSTY0QjM0YlE?oc=5",
+    "source": "Barchart.com",
+    "published": "2026-10-19T17:08:05+00:00"
+  },
+  {
+    "id": "91da0c7a82a6",
+    "title": "Microsoft Has a Strategy to Secure AI Agents - Thurrott.com",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNbFRoVVdUa2NaUDhNcE9FbUJyWEhwTDFzR3o2MVpTeXJMVUpDQV9ZMHAzamFvQVp4eEF2Yzg0Qk5oY0VYeGJMOTlWU2RaekMyYWF2ZHdCNlZJbjBOZ1RieWQ5RzNvMV94UjFZZXY2NndmYVV1NC1sc3lIWFFTakFUaVdSeUR1Ulk?oc=5",
+    "source": "Thurrott.com",
+    "published": "2026-10-19T17:03:15+00:00"
+  },
+  {
     "id": "c9076f12504c",
     "title": "New ESW Guide Explains Copilot Studio Agent Pricing and the Controls to Set First - markets.businessinsider.com",
     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOUG51WTBGUXQzMTFneVpqY1FHQ1dDNVJfcHB0UXEtcHJ3UlBXYTNQdWVoNDdqUGJERXJqTjUwV0tuTGZ5WHRsb3hJdUpqYU1vRE1vdndCQU9NTm9kTU85T2duT3V4aXlUWWRycjRxN3VTQnNJdUd3aFdNbEgwWlJVOExBSGNNS2ZZb3B3dDlkNGFFMEJmM0dfaDZ6bURLMzg4dVVBU1FCd2NzUXlYdTk1cXpBZjVGajNKZ1U5MkNnY290VGtVWTdtSzFvajF0ZW1pZjFaTmhGYw?oc=5",
@@ -124,229 +348,5 @@
     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZjBfT0piN2NmOWZ1RTFyRW5vV2tNSl9kM1lvV3J0SzM2enVlQ1NfM2M4WTlKcTB3RHhLVjRiYmd4NzlOQTR3bkxZUkV6eUtHRHU5THFrRjZKemNVaXVpX2xlSzJ6bjVoRmpkOGRlLUlhTzVpR0ZoRG42Wk9QVmRaZ2VTQlc1WVRhSTNKelRB?oc=5",
     "source": "TechRepublic",
     "published": "2026-10-19T14:33:33+00:00"
-  },
-  {
-    "id": "18a94fca95c7",
-    "title": "Microsoft aims to secure agentic insiders with Project Perception - Techzine Global",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNnNmcV9waXZacmhPV2pYZlkxYTRHQkZheFNuTmN5MGNuNnNLaVV5V2dtbEFhOFFvR2hzTkNxRUtYbEFwX1c4dFdBeGJxaENGLTNYZzg4Z2I0RjRaak8tTXhaUk4zMXVhQ3J3aHB2bEEyR083eXFuMFBrX1UyTHNwZUhSV09wVVYyTXkxMnpqTWViVmVnX1ZHRnFMbGpMUGJGNzZFM3p2dnFGeTgtM0dxZA?oc=5",
-    "source": "Techzine Global",
-    "published": "2026-10-19T14:31:56+00:00"
-  },
-  {
-    "id": "61981cc835a1",
-    "title": "Microsoft exits data centre deal in blow to UK AI ambitions - AFP.com",
-    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE0tZXlOcHdLM001NTVlRlByZU82Q3k1RTczT1NfZF9YYjYzV1Boejl1VF9FSWNIbmVjNzdaNmFWaVRrUEFnY0ZQTThMcw?oc=5",
-    "source": "AFP.com",
-    "published": "2026-10-19T14:26:06+00:00"
-  },
-  {
-    "id": "8a563e75f765",
-    "title": "Microsoft adds tools to limit and monitor AI agents in Microsoft 365 E7 - The Next Web",
-    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBOVFVjM0FBSjlMcjRjdmRJVEdCMGJNVjE1bXVJcU5uaVg5LTJ2WVItYm52bXlTZ0kzWnVybkdHU0hnWllVdlFRbFk1eFVTaUhkRnpTM01pS3BnVXRpaWxLREZaOF80cXZBYVdjNUh1RlF4Vmh4aFRxcmpIQ0NUMXc?oc=5",
-    "source": "The Next Web",
-    "published": "2026-10-19T14:24:21+00:00"
-  },
-  {
-    "id": "b46d4b25bade",
-    "title": "Microsoft stalls at $534 after failed breakout: Live levels - Investing.com",
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQY1U1Z3h6TS15WFhFZHdZUFR1bTIzLVRBLTJtX1VSM1R4STFKVWkzQ0I3a3paMlpRRWpoOUVWMG9aLXRpY1UxaE1wUThzNVluLXY4QUxnME16N3AzOGdQbnRaaG5KUE11dGJnOExZRVhyMFNDYWhMS3N1NUVGSEVncUFHTzUxNXNIamw3QzhlWGxGckxOSkxUSmNvM2k2UFd0VVAtWWZPTWJSY1JKRWZST0Y0R2RTNDhNbnRV?oc=5",
-    "source": "Investing.com",
-    "published": "2026-10-19T14:23:03+00:00"
-  },
-  {
-    "id": "e38dfd5de1e5",
-    "title": "Microsoft bolsters security to better control AI insider risks - Seeking Alpha",
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNMGJtSkx2RU0zdFNsVktlS05PczdMaktWZW8wQUZtQURVdTFqaWxtNEJ5dUlIN0IwUjlKVVJoak9yN0dmdldsZEdQbHFReVFhY2pnd3FOX2RsSGJaTWh6QldfcFhQWDZMYkRKMzRCNGVvaVhrb3I0b0F2bm9OTEs4QnJYdmwzUzJsVFNRUFBNYkJKZWxObFJVNEVaRENPaW84WXc?oc=5",
-    "source": "Seeking Alpha",
-    "published": "2026-10-19T14:15:29+00:00"
-  },
-  {
-    "id": "d075e1938f9a",
-    "title": "Securing the agentic insider - The Official Microsoft Blog",
-    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE11VDVDQVlSbkZxZHFibTFaM3pGaDhJTzNIWi05UUtNS2RGelJpQmZJZWlrakxrSDFNUTdBSmdHLW9ieFA2VElWdlVJdVAwZnItaDlUQkZzanJfdzZ3Skg3YWNINUQ4X3NEVFZod1lDYl9rVDhmMGpxQ1lLSTU5UQ?oc=5",
-    "source": "The Official Microsoft Blog",
-    "published": "2026-10-19T14:14:38+00:00"
-  },
-  {
-    "id": "38a338339161",
-    "title": "Microsoft says AI agents should start with zero access, unveils new security controls - The Times of India",
-    "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxONDdZcUZUR3N5MjRrTzdJY0pqOTR6bmxWbEFpbzZvVHNYSVU5Z0pNQjlYR2RMT1RYVW9uV1Q4XzEtaW8yWUZHYWNDN3dQZGZYd0ljNXdrMVl6WXA1NUwtYURGT2daR0dGT2I0SGNqOV9icmttcFhIbXNGXzVIYnRJRVhqQndScDE1Q2FkQkY1SjJiZFpFWVFBTEpMcUFxZVN0WnU1YUo3c2VrdndKNzZKUmV3Vy1aLTdWTFZQTGlXVWlxcENZV1ZWSnU2am9VNUVqLU9xZFIxSndNNV9Od1FKY0I1NFI5aFJQby1xWkdGQXFrU0QxdGRnN1Foa9IBgAJBVV95cUxOamY5UzgxMFI4LTQ4TnJkbXh3VWt5Wnlya05UNkxtRGNLbWlFTjlyeGktNFA3ZndXbTRMMkZ4WUFZS2h0T2l6eU92MkNsclg4ekpDX0lZUkdELTBMaEYySTVONmZmazVsLVE3U2E2TU1zOUFSb24wcGlvM2xRVHJDNEZvczFtUmM0SkJyTGVUXzJjTG9MdkNaeVo0QkFwTHRiZFN0c1ZtLWxlMWRoMXdTal9wOVNkWWtYd0RTQzNsaEcwSUNTQXpZNnpfVnd4WExGQW4zSDEzVGhxVE82ZzRTS3lBbF9LeElLb0hya2NZYU9OY0VfSlBoS2FPbmh6andX?oc=5",
-    "source": "The Times of India",
-    "published": "2026-10-19T14:10:00+00:00"
-  },
-  {
-    "id": "7134c9a2feec",
-    "title": "Neoclouds: Goldman Sachs Upgrades CoreWeave. Microsoft Shelves Nscale Project. - Investor's Business Daily",
-    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNHFqWmx3UVpxSmNWNWswZnlLX2NWTGxGczNFeER3TjU4MmZUby1GTmM3R0prTzZHekhHd3pUNDVvUzEwdWcyaVdmdkZZaGZPd1pXMl8wRXVLMkgwVVByR3lWUkR2TEgzOGk2enpibGxTU0pZNUcxemZtaU10bDAxRTBRZGo1bjVYVmVCSUo4eVRvMllCQk5ZU240UnlqaHFlR3Y1SExKMzY1V2ZacGFVcTdxU20tREw2Vnc?oc=5",
-    "source": "Investor's Business Daily",
-    "published": "2026-10-19T14:08:00+00:00"
-  },
-  {
-    "id": "2dfa4941e800",
-    "title": "Windows 11's Hybrid Intelligence features will breathe new life into Copilot+ PCs - Windows Central",
-    "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxPTElDLXRFbXdvbHBlYTFXeXUzOVJ3RU95V2d4N0M2cTR0YlJRNmpTUTBKNHg4RFNfRks4VlRwUHo3THcyV0JsMUFlc0ozUGZ5VU1heDlqOThySHJuTlNMNXRWUkdxU216SVhfaDhnbVVIUF9HQjlqaGZ2Nk1pMVFSOEFuM1JKSUYxVXhiVnJzeExTVHd5WlUyVGxrcGR5alhzTnl1MlZUOVlMMUMtbUdxR0tpeU1HUFRIV2ZybWZWR2pFLS1pQ0YwTmtCT1lBc0Mwbm9EOXl2TDZ6aHVkVjgyLUZzN050NEdzejhHd3cwRm1JZzZxcHdYVDBoVFphTEo3a3hsQjFXWTN6WmtkUkVIbEdHV1llakdpbGRFWGlvT20?oc=5",
-    "source": "Windows Central",
-    "published": "2026-10-19T14:05:22+00:00"
-  },
-  {
-    "id": "896f52fa3764",
-    "title": "One Big Question Could Determine Where Microsoft Stock Goes Next - 24/7 Wall St.",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNVkxKNWNmZTJNSFdzWGdIdW0zSDNqMlV3Y2ZRQjNBZFREV1U4bkxBUF9jclRIVHJoRzcyRFlTbHA4NWxKN1lwU3F1MmJXZHBQd1lZaXBuNVc0dmthWVh1RjlqLXdnNGtaX0dkaUZQUEhqVVI1SnhzbHc5eU1yMGFuQVBROW04MVVJbHkyYy1WV1Q1Ukl0YVhRREMtbkNxckl6dHZVNTc2Q0lqYy04?oc=5",
-    "source": "24/7 Wall St.",
-    "published": "2026-10-19T14:00:00+00:00"
-  },
-  {
-    "id": "64c69de49722",
-    "title": "Securing the Agentic Insider - Microsoft Source",
-    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOM1FHTzVpV2FhaUUwSS16VTMyQ2dkOEFac2xyYXpCcWxhT2lKeUdHVVVCTWdjTmRUSEJIOEJQempMd0FyMThHUEpCSXRsNU1PRkUwUFdENnRUb2ZnNEVERGJYUTVQTTNzVm9EajB2NkR4cUpMVlJFdmpwc0ktNW1uNXVR?oc=5",
-    "source": "Microsoft Source",
-    "published": "2026-10-19T13:57:44+00:00"
-  },
-  {
-    "id": "6a1cfe51963a",
-    "title": "Microsoft Adds Guardian Agents to Project Perception for AI Insider Risk - Unite.AI",
-    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOVHBFdVh6RmV6WVh2anBiaGZTeVFVMFZJQW1nMVJwNHczMGxkYi1BT2x3QV9KUE5COFlhZ0swU2FnNWNLeEdPTHdzTFI5SGVBWGlRbjJyWFVmSFF4VUpzeHZPTWZVOVhxWjl2czMzS2hOQXIwOFpwb2xrYkZuZ1dLU2ppQUZxeDdXWVR3T2lVTzRvRGh6ZmtHd1ZB?oc=5",
-    "source": "Unite.AI",
-    "published": "2026-10-19T13:54:12+00:00"
-  },
-  {
-    "id": "cf4c52773a94",
-    "title": "Microsoft pulls out of UK Nscale data centre deal over power delay - Yahoo Finance",
-    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVXNJVm1Hc243NDIzUlpKNnlBSDZ0ZzZ3TmxpNU9MMElXX2tZc2U0RDR3UmNqNEJvU1F1cS05NDZSZTFWekRoSGxEbVhmTkdBTXl4U2J0QVR6RFZ2dUlPNHM3bExHUWlvN3RnN3hKbkJSNWpjaWEzQ0NnOHdSWWRoa2lrc1E5OHp0akFCNWM5cXRrMG1vaVRZb05n?oc=5",
-    "source": "Yahoo Finance",
-    "published": "2026-10-19T13:50:37+00:00"
-  },
-  {
-    "id": "e6c1437df79b",
-    "title": "Microsoft pulls out of UK Nscale data centre deal over power delay - Yahoo Finance Singapore",
-    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOdU1ZblZLbEJEcFVMTkJHWmh4WEdwZ0NkQ09PcEhELUxTZnMzdFRnd2NVSDhaNllhTWlXN3RGN3lHeHBjN0tLUkc3ZUprS0dUamtrOHd1cTRLaWNuV3BHRHVHNGs0Z0xrMGtTUWhnWGdQM1dqaW90TzZWS1JjQll4NWZGaUdTdw?oc=5",
-    "source": "Yahoo Finance Singapore",
-    "published": "2026-10-19T13:50:37+00:00"
-  },
-  {
-    "id": "bcc0b8ca0447",
-    "title": "Microsoft in Talks With Chevron, Engine No. 1 Over $7 Billion Texas Power Plant - EnergyNow.com",
-    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZU9rTnV0VFJSdUV2Nnpza3NjNzlva01zQy1tTzdoMVhqclpFWjFTbHNwZ0NQVGQ4ekc2TUdsMVZDSVJ2TThzbEVpa0xjNFptVmRyUDZ6YTFwdWdjUUc4WDNOMDRpXzRRVkcyc244X1FfZUJwWV9TRGRYQ0JiUHVscm5ZLTZVU2ppLWxMVlJKelN6V25CNUpyNllkcGxzR29YdUtNM2FmZGFucXc?oc=5",
-    "source": "EnergyNow.com",
-    "published": "2026-10-19T13:42:46+00:00"
-  },
-  {
-    "id": "a650fd38920f",
-    "title": "Microsoft vs. Alphabet: Is GOOGL’s Cloud Growth Worth More Than Investors Think? - Yahoo Finance",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRGFiZVk2X0FnVmNBOGV0RXY3VERVTFZGTVpfakU2VTdkX1NwS3dhM1NTdkJXT1hQV05oazVjc2pFdjU4eWgtVjZfTFpGdWIwT0pSQlhlVWthVG15U1JKTFR5ZVpkREFnUFFBM2pkcVNzdnBQVlFHQWVjQTRlVG1aMmJ5T3kwMzNSWFJHYll6emlvMEhLYXFLTDQ4NDlkSmM?oc=5",
-    "source": "Yahoo Finance",
-    "published": "2026-10-19T13:38:11+00:00"
-  },
-  {
-    "id": "0c1e0111d11d",
-    "title": "Microsoft vs. Amazon: Is AMZN’s AI Growth Being Undervalued by Investors? - Yahoo Finance",
-    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPaVN1aEFyQTBhQWZDUHVpa1k4NXE3NW1BMkIyU0dMR3BTQmxtampneWNTQ0U0cktLek02ell4UmlORW1lMVE4Z0ZCQzZYT0tLWVJxbGR5NXdhbUV1Zk9wNllkSnh0bFN5YXlyRC1jNUxjLXVlUGNRNlQ1a1RwZlRYYVQwUE1iZGZRTVIxa1VkT3lTSXZXOVVB?oc=5",
-    "source": "Yahoo Finance",
-    "published": "2026-10-19T13:36:08+00:00"
-  },
-  {
-    "id": "ff2d7df8691a",
-    "title": "Bitcoin mining offshoot Nscale loses Microsoft AI deal as power delay stretches into 2030s - Cryptonews.net",
-    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBFTXBHQnEzbmIxbHJtZDV2Qmw4SzVJWVc1ZnNnMWlOWDdIaTAtV1ZnVXE1eWt4cGVsamJ4LU5wNGxZS3lXX3RvaUo1Q3FKTExTR21zZ3MyMA?oc=5",
-    "source": "Cryptonews.net",
-    "published": "2026-10-19T13:36:05+00:00"
-  },
-  {
-    "id": "725a36466833",
-    "title": "ConnectWise suspends Cloud Backup service after attackers abuse its Microsoft 365 access - Help Net Security",
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUDFCWE1qVXBPVHg1N3loc282UEtCTXpBQ0ZtRGJySGFERC1oYWlrOHNZbjJ0bUtubThjOXRVdzFaNGxVelNadmhhNkVpV2duTHl4a0J4RGlON2Jua0V3bVd6b0ZjWEdNZ2RpNGVIeGxBUWJsVWM4bE5idjJfUlI5c2tlTGo5RTI5NElDNWlDVGdOUUF6ZkJ0MC1LVzg?oc=5",
-    "source": "Help Net Security",
-    "published": "2026-10-19T13:33:57+00:00"
-  },
-  {
-    "id": "17bbe826bd54",
-    "title": "Microsoft ditches residency plans at UK's largest data center over power supply concerns - TechRadar",
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZ1oyZjBTckotNXMxVlJYemhEYkVhaHI0MUlObXB3RjBUcEZEWXY4Y0JkcEhuckZXRzY3MTBRVWFfQ2JKYkw0OVZ4bkNXZDBTUlNjblhTaGpHRDJ2emNsdnFNY0tjaGdFYzFoZHd2RzJJQy10YUI3NkZvUldGOTFCZ2d4OEw3Z0N5Z1BlNU42eXB0N1ZObEV6Vi1mQndiUGdlZlRNYTJzbXNneHBzVXpqZWtyakVqMjlx?oc=5",
-    "source": "TechRadar",
-    "published": "2026-10-19T13:32:14+00:00"
-  },
-  {
-    "id": "fafac6633572",
-    "title": "Microsoft Restores App-V Server Support Through 2029 - Petri IT Knowledgebase",
-    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE00c1RTaEdXb25lX0FrcUVNOS1zd2trbTJyVVhEdHBPS2RnSS14VWZHRTlwX2s1LTdtOXltUG11b0VUV294MGZCdlNtVWgwQUFhbl9PUUFUeVBKRG9yMHZLTXVGVzFCUXpLQUhsdnBMM3M?oc=5",
-    "source": "Petri IT Knowledgebase",
-    "published": "2026-10-19T13:27:42+00:00"
-  },
-  {
-    "id": "6877adcb7091",
-    "title": "Microsoft Walks Away From Essex AI Data Center as UK Power Fails It Again - Startup Fortune",
-    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxORFQzVjZpOU8wUTRPb3U2eDZIdEVYZldtMmNKVG1xY0RKbDlwSG1Fb2Nudms2MWFiTElWVnJkNmFweUdKMzNrQVJEMzRxNEVGbGJiaXpMYXFqRVBKWWd4amF2bW1RVUpwQ3Y1bkN1MllJUkhlRW8xU1FWcEdnSV85VkJwaUVWR3FfeDRyVGFieDlVN3V5UzRXZHFNVkJXbXpiT3J3?oc=5",
-    "source": "Startup Fortune",
-    "published": "2026-10-19T13:25:52+00:00"
-  },
-  {
-    "id": "a0f5759a088f",
-    "title": "Former Microsoft executive identifies 3 effective uses for AI - jawlah.co",
-    "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE14bkYtZ1N0TThBbkdEeVdELVNCOUthLTdTaF9YUkdrX3U3WUJIQ2NjRzExejJRV0ZWcG9za042dw?oc=5",
-    "source": "jawlah.co",
-    "published": "2026-10-19T13:22:58+00:00"
-  },
-  {
-    "id": "e0e17241294b",
-    "title": "Microsoft Maia 300 Boosts AI Efficiency and Lowers Costs - TradingPedia",
-    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxObUNCNDhORTdXVWF6NXhZREdaM1NRbXUxOTBma1h3eW5tQXVyX1l4UElvMy1HaXg5aDFLdkJaY2NpMVNZTW8zRnZ6ZUVVb0FWME53bmp0Z3F6R1lSUkxQSHNUQUdoU3FwenVGXzZDRk5iUF9sc0VNMWlQQm1wRmZOMXBTSXJLTnpSQ1lwZVdUZmg1NERNbjZJeVVwbXlFUQ?oc=5",
-    "source": "TradingPedia",
-    "published": "2026-10-19T13:19:07+00:00"
-  },
-  {
-    "id": "8fcdbb5bbff6",
-    "title": "Microsoft pulled out of a U.K. data center deal, clouding Nscale's IPO hopes - Quartz",
-    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1fT2lrdHhCamhfUWlmdUMtTGhCaTJxNlJVa29iMWZPNENRMUo0YkQ4TS1kdld0eHF2bVRLNDdOYnVURzFzQ0R3VXQ3QXJhSzE2ZDFpXy03Z3VZOE1QUHdGaHYyQnRQZUZn?oc=5",
-    "source": "Quartz",
-    "published": "2026-10-19T13:17:24+00:00"
-  },
-  {
-    "id": "b081b7b034c2",
-    "title": "Microsoft Scraps UK Data Center Deal With Nscale, Telegraph Says - Bloomberg.com",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNYXhlWkpqYnAwNVVYQjBLWTdQdi1HYm50VjhBQ3UwTkNhc0gtTGhoMnluWGxuMVdmZWM3eFRjVFA5dWZ0STlFRVJ6S090WVFveFF1RVNjcHFpd2ZNTFJfamxDNGl6YTNrSmkta2pteXpnMElHVXVjcUI5WDNlemltdVRSZURQUXBmcTFrV0NyY2R0a3J1clFlOGU2RjRTbVRnbzRnU3NvRktJR3g3RUw4Zm9vTnE?oc=5",
-    "source": "Bloomberg.com",
-    "published": "2026-10-19T13:11:59+00:00"
-  },
-  {
-    "id": "fc7abb17931a",
-    "title": "Microsoft Employee Shares Their 'Truth' About AI Usage At Xbox & Beyond - Pure Xbox",
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNejNyQndtWVB3akx6VXhUVmhXdEZ2eHBKbTR4UFNhSnIzQllDRXZ1Ynh4eURrUDhQam9td3JFN2o1V3NoS2FQcnk4N2k3VnQ3bTZmcjZNYVhCYUFBbkFjZWNSQVdwSjBJblF6WTk3MFY1OGtUMUVZZnNhTkJPbWRYUmxpcW9ydTFtUWw0RFRwNUdJeHVIMmlFZGhpN1VVSElIaERENFVVMGhPN0FmNEE?oc=5",
-    "source": "Pure Xbox",
-    "published": "2026-10-19T13:10:00+00:00"
-  },
-  {
-    "id": "f4e4d0f45acf",
-    "title": "Microsoft (MSFT) Stock Gets Fair Value Bump As AI Revenue Views Lift - Yahoo Finance",
-    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPaFJ2SkhKWnczQjZFSEhxNmZlNG4zYkFlMEVVbVRBSWcxbmZjbWd3RVBXTGpmeE9hQ0FBV2MxMjFhU0xLVTNWa21HSVZyanF0aWUwZ3BLdWlFS2Jmby0yeXpKbHoyblJRXy1ibGlsVUU1U1VkR191QkVQZ0IzVFVfQWg3VFJGSE5NQ2RLMjJkakxWQ0s5WFBFeVY0TQ?oc=5",
-    "source": "Yahoo Finance",
-    "published": "2026-10-19T13:09:50+00:00"
-  },
-  {
-    "id": "83c685b690ed",
-    "title": "Microsoft Tackles AI Insider Threats with Project Perception - The Tech Buzz",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOV0paNEhJRVpfazRXeno0TkhHTEJpOVhXQ0QzZHBZMURKRXFiS0FUSzZaZ25NWmdqWW9DTHZCVlJsNUxWNm91T3FtODA2YWc3cjRwWkZaTUh3TXpwVGFneTdzTjYta3p0UVpfTEJJU1BHQUlRWmp1dzZFUW0yWUFxZmZzUmxXUDh3VnZYSkxCR0NQZGpsWEZFbA?oc=5",
-    "source": "The Tech Buzz",
-    "published": "2026-10-19T13:08:00+00:00"
-  },
-  {
-    "id": "54a75f1bd1a4",
-    "title": "Get Microsoft Office for Life on Your Work PC for $28 - Entrepreneur",
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNN3BOMW1tUjMzN3RfYVRCYkpxNWJoT01FNlhKaGZvX1ZzTS02WjZPcWNUWjh2QVVQc2lmWjVaZ1RTSHZydkhXVllUcHF3ZFE3T09QYnAwNHQ1Qy11RDlPb1pWZzlUSWtXRWFnRjZRTk9ZNFZETmRBN0F6QjgwYTNvQWE2dTNDZGRQZVN5c1ZHdmFkTkU2QjUtNmVOSk1hTWtrQWc?oc=5",
-    "source": "Entrepreneur",
-    "published": "2026-10-19T13:06:34+00:00"
-  },
-  {
-    "id": "fb468b794e83",
-    "title": "Microsoft unveils tools to monitor and corral rogue AI agents - GeekWire",
-    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSVpEMEJteFZjTTUwZnF2YjZ0eHhFV2JPajdoVUkyWENxY0FuLWh0TnZGYlgxbFkzV0tRTzdlWkVqOWwzWTF3Yi0zRVk4SDBCYUZ3UVM2TE9WR2FIWE1hQVVjd0s1djZveHd5OF9yZE13MUpPczhOV0pacFRrdy1meTgwUnZFQzljX0hZVWs5b1RjbGF6VUVn?oc=5",
-    "source": "GeekWire",
-    "published": "2026-10-19T13:05:01+00:00"
-  },
-  {
-    "id": "6668b9dc647c",
-    "title": "Microsoft VP Warns AI Agents Pose New Insider Risks - 조선일보",
-    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZlNhSV9yX1ItaUU4cnlJTTlEMTZmQlI5RGpBa2k4UWtsSUExUE9sOWZDY25CaHpqQWdsVlZNMDRxSThFbDB2OFd3ampwTFpIQkt1d01KYm5yeEpOU3hfeFJhVUMzWmFPdTNURl9jbU45ZThYNVpMakQ3Sl9qWWhDSF83UXdoU3lz?oc=5",
-    "source": "조선일보",
-    "published": "2026-10-19T13:03:42+00:00"
   }
 ]

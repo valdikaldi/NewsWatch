@@ -1,8 +1,14 @@
 # NewsWatch — Iceland News
 
-_Last updated: 2026-10-19T16:49:55.248641+00:00 · 50 articles_
+_Last updated: 2026-10-19T22:04:05.445846+00:00 · 50 articles_
 
 ---
+
+## Nicole Kidman Called This Luxury Iceland Cruise a ‘Trip of a Lifetime’—and You Can Book the Same Itinerary - Travel + Leisure
+
+- **URL:** https://news.google.com/rss/articles/CBMimgFBVV95cUxQRHFqSkh0ZFdpcWlzRllNemZ0TXdrMTNEaWJnXy1LLURjOUxMRThMeFhSYTZEUVQxVVQ2dDN3SzNCbzJabDROeG5SQ1NLYXBIRzVUY3ZIc09hZzFjdHJFTzd0Y1ZXaDBuMVlLTkI4X21xOUY0MDdPZEdlUzJabHZPdzdTUENFWjREcmg2S2s3VnpvQ3RoZ29FeFln?oc=5
+- **Source:** Travel + Leisure
+- **Published:** 2026-10-19T17:56:08+00:00
 
 ## How Laufey Brought Jazz Standards To A Streaming Generation - That Eric Alper
 
@@ -297,9 +303,3 @@ _Last updated: 2026-10-19T16:49:55.248641+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMinwFBVV95cUxOaVpDX1E4NUJwcjVVRC1iU3U5M3B3eVc2WFRLS3FaakRoV2JwQ29XTjVVMlQ1b09na2tjN1lVZG0tcEFpV3k0SkpKeUx3N0tIVExJdHZSVDRfZlFpTnRIa240XzFCMTJ2N0REMWNkS2lBSHZsT0JjckVBVGhYTVNXMUN5dXU3ZndsTDNKQkVmMzcwcGFKWVlaVmt0N294eFE?oc=5
 - **Source:** Iceland Review
 - **Published:** 2026-10-18T07:00:00+00:00
-
-## Vietnam signs free trade deal with four European nations - NST Online
-
-- **URL:** https://news.google.com/rss/articles/CBMiqwFBVV95cUxPb25UNUdoc2d2dlpPLXNvWTlHVU4tdXZwSG1OMktjOVdlU0pRcjJPWmYzMGhUVkpVVE9YX1RfY2UtY2xzWF9KUmVXVGFXTHEyZndBUWVfckFGcUNrTUtGT3B0czJ1WjZIaXVIdmowZTlkTGRHdEl6VXNiS1pSZ1JOUlBVVGZmMTRtMWo0aWNGNWtSTElwd3M0Vk1JWk1fXzVnNGo2NGxxcnZMamPSAasBQVVfeXFMT29uVDVHaHNndnZaTy1zb1k5R1VOLXV2cEhtTjJLYzlXZVNKUXIyT1pmMzBoVFZKVVRPWF9UX2NlLWNsc1hfSlJlV1RhV0xxMmZ3QVFlX3JBRnFDa01LRk9wdHMydVo2SGl1SHZqMGU5ZExkR3RJelVzYktaUmdSTlJQVVRmZjE0bTFqNGljRjVrUkxJcHdzNFZNSVpNX181ZzRqNjRscXJ2TGpj?oc=5
-- **Source:** NST Online
-- **Published:** 2026-10-18T06:32:16+00:00

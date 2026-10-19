@@ -1,8 +1,68 @@
 # NewsWatch — fusion energy News
 
-_Last updated: 2026-10-19T16:49:55.629224+00:00 · 50 articles_
+_Last updated: 2026-10-19T22:04:05.885562+00:00 · 50 articles_
 
 ---
+
+## Superconducting Neuromorphic Chip Passes Fusion Test - HPCwire
+
+- **URL:** https://news.google.com/rss/articles/CBMikgFBVV95cUxQdlZOR2VHMXpVZDlXbVZMZVowS0tfdXktbndza1JKNldhZ3JUR01PdkV6M0dtZUM0QklxSnZuVU55SFBjd3pWTDV6ZHdsSDNVWGE5SWg2NVU3My00M0dwUVZYYzQ5Yk9qOEJYVzNtVlVZSm9seEZmcDBYME5qdDFqcEhIMVZLa3ctNzBZc0g2aGdJZw?oc=5
+- **Source:** HPCwire
+- **Published:** 2026-10-19T19:59:48+00:00
+
+## Powering up for a pivotal moment - MIT Energy Initiative
+
+- **URL:** https://news.google.com/rss/articles/CBMicEFVX3lxTFBIeEdFR2VEaVVmWFczTjR2X2owNm44aUlNR251UFBTajcwZFVRNUd4cV9VU0RmTmVMelFSN2tyeVNrdF9uVXFmdEJRcGRPV3lpYktIclNvWG02ZWtXbGh0TllyaWlDUU5CWThWYld4bUM?oc=5
+- **Source:** MIT Energy Initiative
+- **Published:** 2026-10-19T19:52:30+00:00
+
+## Limiting Fuel Retention by Lithium in Future Fusion Devices | Newswise - Newswise
+
+- **URL:** https://news.google.com/rss/articles/CBMimAFBVV95cUxNbXkzdk91QVJIRUN2THBKZ3JlazhRSXNxY2JIbW1EYnpIbTdBRkstelU3MVNlMVkzTFVSYVNtUEthUGtZT2FoOE5LQzlVZjJBdjZJZmxBZVIxWWJ0ZmNCb2JEcVBvOWFwVnZoLU5rc3Y4TVB1Njl6eWIwWkxyUUFmb3N1YnhVZk1VVXVrU2dZODlUTHlqdmhzTtIBmAFBVV95cUxNbXkzdk91QVJIRUN2THBKZ3JlazhRSXNxY2JIbW1EYnpIbTdBRkstelU3MVNlMVkzTFVSYVNtUEthUGtZT2FoOE5LQzlVZjJBdjZJZmxBZVIxWWJ0ZmNCb2JEcVBvOWFwVnZoLU5rc3Y4TVB1Njl6eWIwWkxyUUFmb3N1YnhVZk1VVXVrU2dZODlUTHlqdmhzTg?oc=5
+- **Source:** Newswise
+- **Published:** 2026-10-19T19:20:00+00:00
+
+## Oak Ridge hosts Nuclear Science Week 2026 events - Oak Ridger
+
+- **URL:** https://news.google.com/rss/articles/CBMisgFBVV95cUxONER5eFlzQ0Vnb3V2UFJYSHpaSGNyZGJraTJlUjE3Q3VadzBXcXZMc0VDTkVFaDZ0QlRPN2pycEZNaXd1REt6R19VNUQzbWtXcDl5aVFzM21nRjVFT0ppRHRiRVpsdk9aT2ZnUnduc3NoLXM4T2l0b01FZkJteXJ3d1FpZ25Ea0VOTG82X2tiODBZcldBRndlWnFDbTdOQ29veTd5aUFwak9YVUNQMDE3WkR3?oc=5
+- **Source:** Oak Ridger
+- **Published:** 2026-10-19T18:49:00+00:00
+
+## Trump Media stock falls 7% amid merger delays a... - Pluang
+
+- **URL:** https://news.google.com/rss/articles/CBMirwFBVV95cUxQMWQ0M2xWcy1kZUtBTmFxaVVGY0U0clJYYVpWY0ljdER5Mk8yRkhKQnpzUXUyamJFTXkza0VzOGN3Wk55Y1FYWDEtVE1TRU9RbTZtdC1BWUhOWjZHQ0pfVzNwTGxwd01yTUVDd3hKamlkRVF1NDFUY0ZYajl4eXlUTjBOcnJiTVNmTzBjZ01PZmxqQTRKanFMZV9MbF9XdDRtY21QWDNITTEwZzdjUzE0?oc=5
+- **Source:** Pluang
+- **Published:** 2026-10-19T18:17:36+00:00
+
+## Outstanding U.S. Graduate Students Selected for Department of Energy Office of Science Research Awards | Newswise - Newswise
+
+- **URL:** https://news.google.com/rss/articles/CBMi0gFBVV95cUxPdXJxQlJnNDJyYU9PdWZPMWJUNzE0bGV2aDY2VmZLUkkzb0lRcUJFWnB3OVZ0WTVnb2Y4dERwZk1MQmtyZXpKY0pENHZ1clJpVVdRdnV2OXN6QnFfUEpNWjExU0RZVTdYd0pyVFBHTHRPU29DOFV0MXl2a1A1c2dRdy1OQU0yREdsNzgwVnZDT0oyN2IzNGVJOUVqLU9DT3RlaVd5Y1NYdW1TYks3aEk0WEprOW5USkpfY3UwOUtCME04dVVyWWJUd09DVmh4VlJTS0HSAdIBQVVfeXFMT3VycUJSZzQycmFPT3VmTzFiVDcxNGxldmg2NlZmS1JJM29JUXFCRVpwdzlWdFk1Z29mOHREcGZNTEJrcmV6SmNKRDR2dXJSaVVXUXZ1djlzekJxX1BKTVoxMVNEWVU3WHdKclRQR0x0T1NvQzhVdDF5dmtQNXNnUXctTkFNMkRHbDc4MFZ2Q09KMjdiMzRlSTlFai1PQ090ZWlXeWNTWHVtU2JLN2hJNFhKazluVEpKX2N1MDlLQjBNOHVVclliVHdPQ1ZoeFZSU0tB?oc=5
+- **Source:** Newswise
+- **Published:** 2026-10-19T18:05:00+00:00
+
+## Trump Media Drops 7% While Rumble Climbs 3% Amid a Rising Market - 24/7 Wall St.
+
+- **URL:** https://news.google.com/rss/articles/CBMirgFBVV95cUxOaXMtelN1dExDN2h6ZklFSURneHphSEZTaUEyNFYwTVI2MnB1cG9qeE52ZWpkLW4zdzNiT1RiUGpIVUVlSGhIdGtzRDRVMDZ0MFoybTlGeHZXeURQbV81ck16ODJtOV9tbnpWMDBSOXJfWGJtdTZQTTlpb2M1SnEtamUzWFFiQXpFbmFnNmRJMEFhUjB1bk1odXVVVEQ5UndUNjNIOE5ITVFmOENxSmc?oc=5
+- **Source:** 24/7 Wall St.
+- **Published:** 2026-10-19T17:56:00+00:00
+
+## Helion Energy will build key component in-house for fusion future - Everett Post
+
+- **URL:** https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQ2h1MEZ5UHE0MVRMRkc0azA0bnJXTG9kbXlZNGF1ZWlyaTcwX19YY3owMFhBUVhxU21NSk5FYUx6Mm0zMW5Vd29lc3VobGNydnBkOUYwV3J5ejhhYkI5UUoyN1l6Qk9SeTFGaUdGeXl4TklvWGhUeG1pOHoyTW5aSFZJOGZ6TzJvZGVvaDZXS1cxQjBHcHZHaFN0UDhUbXhOQVRKdnRYMjI?oc=5
+- **Source:** Everett Post
+- **Published:** 2026-10-19T17:40:21+00:00
+
+## 'Indian startup ecosystem is on steroids' - Anand Mahindra shares what excites him most, says my salute to them - Livemint
+
+- **URL:** https://news.google.com/rss/articles/CBMigAJBVV95cUxQbGJwMEdCaEIxdVRFeXFtUzI5N3JxY3VtREtwY1podThMRlpmeWNSUk12dmI1YllOMzlFbVRNb2dsRHBrZ3ZyY3FmRFBmU3N3cUpzd0l3WlhLNXpmUFFRT3VpZ25qbzNtaEQ4cEN5djgybFlsX2NqOGFsR3ZnVWtmdk91SDBrRG9LeWNva1lGb0xRa0NncFl3ZzhLLS0zSWVyY2FhaXlxZjZULUNVVi1GQ2wtTTBNVGdWaFhtcmVKQkdjbjBCcHBHa2NnTlc1NV9USGVRR19nenN2N3lvRDBPRnN5MEhSaExvS1E2bFBheE9MUUF1SE5SbmhEZ1J1aG5h0gGGAkFVX3lxTE85ZnZUZWFCM3NtOWl2M3ZXTlhiUHhlb1lZblhJaDcxWFAzZ1JGdER0YW8xMmFMblRGWXI4elRBYTZ6Z2tKcmRfQlhHZVhKbk01cVFWQW9KWnB3dkhpN3ZHUzc3eVQ1X2poczJVc19maURRVnYyaUpVakt2cTF1TGxGd0dSTzhENWxvdVZpc3dwMUl5VUp2NE1LdTFaeWFXUDRsR2taNlRIQ1FHYW1nSjFWckZ2V3B1Q1RrWENfRDB3VWFsek1rcXhUQmVEQTF1dkduc0xEdk1aVDh6cXVWV1NoTk5QUm9XMFpYWk1IWi1GZmFsblFmb01wcF9wZ0NjT0ktN3otSXc?oc=5
+- **Source:** Livemint
+- **Published:** 2026-10-19T17:23:54+00:00
+
+## US superconducting smart chip analyzes fusion plasma at record speeds - Interesting Engineering
+
+- **URL:** https://news.google.com/rss/articles/CBMijwFBVV95cUxOMXlTajJ1ZDdIbHUwNEpQWGVLTkdURVB0NWZCa0N0RGdObGlubU5Nb3FfRmtUcXpubDIwNXNmR2FQbm8tMzRyc2JFQW9TLTVDUGlNb3l0WVBKZDNJY1pyZE1NdU1aaG43MFRWM3hsQnFkQkF5dGg0MXQxWnpGOTlyMVoydjhFRWs1T0VxTjNVWQ?oc=5
+- **Source:** Interesting Engineering
+- **Published:** 2026-10-19T16:56:00+00:00
 
 ## Experience a Vibrant Fusion of Asian and Western Cultures through Music with Ju Percussion Group - Prince William Living
 
@@ -243,63 +303,3 @@ _Last updated: 2026-10-19T16:49:55.629224+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMiaEFVX3lxTE5VcXZ4TE9ua09CanhuWHltQWtnLTNxQnNRVG9NWGZfU3hIek9VNjNraGF2eG93c1hyNktZSkF0NFhCbXpJOXhSb1BnVEYyWHFFX0RkaEJzbDhvLTFvdFJjQWJJRG40elVL?oc=5
 - **Source:** Voxtrendy
 - **Published:** 2026-10-17T20:28:42+00:00
-
-## Leonid & Friends: Performing the Music of Chicago and More! - Gridley Herald
-
-- **URL:** https://news.google.com/rss/articles/CBMiogFBVV95cUxOSjZrTkhleDNnc3BaTHRnendXYWwya0R5QjY0MjM2S0p4YXdPbnpwdnljTmVSUHlrV3p3RWt0SUxYSkx0MW5CYkhib25LMDljbndjYlFDV0FyM1d0T3B2T0xldWtQTHRfZTJydVlwb3JWZURKYzJiWjJUdGlRTHB3eVBFbDhCY21zV3paRmZ0SlhTLVVYT2VzbmtNaldkOFNGa1E?oc=5
-- **Source:** Gridley Herald
-- **Published:** 2026-10-17T20:06:15+00:00
-
-## Learn Why The Bull Case For Enphase Energy (ENPH) Could Change Following India Gateway Launch - Simply Wall Street
-
-- **URL:** https://news.google.com/rss/articles/CBMi1gFBVV95cUxPaDM4YmszdkhZaFI3OTJBS1Z0NW9fTUVIWURFNkItT3o4QjdlRlJKc0xrTkNLT1AzdDluVUw2VklieFZCYzdicS1uNTdOQ2pHNFEyYXlzQTBUa2dRRVZEa1hkSW9BMUw3TldHTEdIMDVGWnU3RVRNTE14NWNLN3pySGlaaThmTkRPYzVBcG5rUDNpekNvVlJhX09fLVlOdjdhbnBtZEJ6ekl1RzIxVlJFWGVpdHlXQ2M2QnhuV1NtTEEyRkg2d01KUmJsb1NtMm94c2NjX2pn0gHbAUFVX3lxTE51MnNJYlV0WHBSSGNTQVoxbFJOVGU4TmQycU5mSU1PQjFmM0NGM2xnMEVXNm1nZE50UWFObDdpWUZoNEJXdGpXLVRKSVNQcFgzaVZqNDFiNzV4MjlsN3BsaktzWlFFMWdvckllbXFIY0ZVemtyY25jeFoyX2xCOUJ2NEJ3QlpJWEpWV3lYSVhWVnNpX2JKd2R5S2xDNkg5OEFnTk1hZk05ZGs3YU5vLW0xMWUwcVBSTzBpYVpQejFON1V3emozV24zczBLbDVUamZZTk1lREVUUUpCSQ?oc=5
-- **Source:** Simply Wall Street
-- **Published:** 2026-10-17T19:49:20+00:00
-
-## Google's Gemini AI helped disprove a 60 year old fusion physics conjecture - Startup Fortune
-
-- **URL:** https://news.google.com/rss/articles/CBMiowFBVV95cUxNcU9FV04yMlNqdzNMVjlzNG5BYVdFdU1SRmdxOHlxNnF1Y185ajgyODRaZzljUGZuc1Ayd2RXTGMwcXdOWF90YklWSXRlMW9WSjNWNXlGRV9jeGFjeDVRZDFSU0c0dWNOZjF1VENuOTZZeUI1QkRGd3VjTWFQcFpmT3VuWUE2dG83ZWoxbFJoNXBMc2JCaEJDZlNJcHkwU2J3ZUNV?oc=5
-- **Source:** Startup Fortune
-- **Published:** 2026-10-17T18:15:55+00:00
-
-## John Sparrow Steps Into Spotlight With Explosive Single, ‘Aye’ - New Telegraph
-
-- **URL:** https://news.google.com/rss/articles/CBMikAFBVV95cUxQZms2amh6Tm14Y1lnckt1Q0dLRkRfSnp4TlF6N0UtS3Nsd0dkODh1OWFGVm1nWDRRN01NdlpxX2lNUG9aMHFzbVc5UUZoY01ORXRWZUF5WUxwRndYT3BRUk1iRzdTNEdyOE5TeDNQV3hIYUZDZWtrektHRzgwUExCOFFhMkIyVF9laEpkeWRRRU4?oc=5
-- **Source:** New Telegraph
-- **Published:** 2026-10-17T18:04:10+00:00
-
-## Kay Da Ace unveils ‘7 Elements’ EP - Vanguard News
-
-- **URL:** https://news.google.com/rss/articles/CBMieEFVX3lxTE1ka0V1NEtRelE1QWJjWFh1ZU9DbzFsWUxYZDdGOVJkZF9pYVZ1Xy1wdjNYRk5pVTRfZjZGazVzT210T3c5VzlrTTJoeE5BbktOcklJRExCcmZkeVpyNl9Yc3J5V1RBNVF0aktEY0FXSDE5VGVibDI1X9IBfkFVX3lxTFBiQjNmd0FzdDlzMHh0R0VlaWZEb0pPVUFVQVpCTDVxd2p3eDNnNC1CSHd5b1B3eHhrVnlIdDI1aEx5c3Y3M3lBRGNkdmFTanhxbnktdm9EdDNJeDZ4OWdhUmI0VEQwLVd4X21DTVJPY3hFYnl5UEJIZmZMam8wUQ?oc=5
-- **Source:** Vanguard News
-- **Published:** 2026-10-17T17:53:59+00:00
-
-## Princeton physicists reworked a 70-year-old fusion rule and calculated heating plasma first is the lowest-energy path to fusion ignition, while a trace of tungsten can roughly double the pressure - ECOticias.com
-
-- **URL:** https://news.google.com/rss/articles/CBMizwJBVV95cUxPOXI4OHZGOGJoZEUwbWZKcTMxbG1nb1hEQm5kamdHamtLaWlxUGgwN2NnWG4zRzJ6NjZLMTBPT3Q1VFI0dUZxZU1oSDlONzBCamlCQldOa21pUEdOVlNEYUJzdENySnpSQm9OSkVsbzQ3M2hYRDZMSFJReFNpdGw3eFNMR1E1cmpLOTlnVzFQQ1lyNUNsZFRfMHVoRkt0eWl4bmZKaXRnclQ4WU1HN2tvYzQxUHNhVWdLS3ZSWDZkeUhxS3BrajRVSW95REllVUtrM3o2UkIyeW1qZFpSV1ZJdEdvWWlJWE1QUlFGUVN5T0tYbm9aTlZTcUJOdjItTDlzN0Z6am5hN1ZsdjZ6T2RBcHZnaS12ZnRqSGp5N05sN2hMQ25ZaGlxb3RfcGFWdjNIUURqbFdmZUxUZHZuNHBqZ0d3ZVZHWDRBbC1kS1VETQ?oc=5
-- **Source:** ECOticias.com
-- **Published:** 2026-10-17T17:46:00+00:00
-
-## Inside the virtual test cell: how neutronics models are shaping Europe’s fusion neutron source - Bioengineer.org
-
-- **URL:** https://news.google.com/rss/articles/CBMiuAFBVV95cUxPeFRPRUZ2Tm9CeWxtbzdVVHAwNXJJR3RpQ2FqdEFZbUkzU0w2NVNSemJGbnJmX1VhZ0tYdzhqN0tab0h2eHlGUEdDMmdjRjlxczVrRzNSNkRzOS1ZOUZEVEhYOE9qVjBxSno4ekkwZkFla2w2NW91cjZlZVFqQ3FvZW9jb3NkV1gzZWRxemNUTkVKYzViQktnZ3RrUjJkVzlmTGIyN2gyUFZFZXJha0F5U083QTZFQnVx?oc=5
-- **Source:** Bioengineer.org
-- **Published:** 2026-10-17T17:16:18+00:00
-
-## BLR Boys bring nightlife energy and luxury dreams to "Lapdance" featuring 6uff - Asaase Radio
-
-- **URL:** https://news.google.com/rss/articles/CBMiowFBVV95cUxPbVJZN2JWblJFOGNWS3BvQVBfZG54Y3ZDNjVVZmo1QnVRMTRlUS1VTFhvQ05IRWQzZjRpajVuQ2V3eVQtZVN3M2psajBTekhiMV8xOGxOamVYdkxzNVRzVWpxU2N6VG95bTVFZVpNanBKQVAyWHQ5YVpaajBnZG53UG9KclBzdHZHRzU5MXJmNkhYV3FGQ0NOd0hkbUNmZ0RRZTRV?oc=5
-- **Source:** Asaase Radio
-- **Published:** 2026-10-17T17:10:13+00:00
-
-## Kay Da Ace Injects Fresh Energy Into Afrofusion With New ‘7 ELEMENTS’ EP - Tooxclusive
-
-- **URL:** https://news.google.com/rss/articles/CBMiswFBVV95cUxOY2hzQTNWYjhFWFdXVnhhZDRFZTRUckVVRnBEekhQRmJyYWdxbk85WmtyVnJHOTVWLWNJQVFSSTJqR2RSclE5MWFXenVDa3Yya0UwUUdncmdCY3NvQmNNeXA5X0N4bk5zMmVobC1YRWNPSXlsOXZXZWJMWGE2bGkzLTkxU0tTNEx3UEUyaUQ3U2x1Y0d1NC1nVUQtc05sMG55OW1YN2tPNkc5Ym5ydGpsY3Q5bw?oc=5
-- **Source:** Tooxclusive
-- **Published:** 2026-10-17T17:08:32+00:00
-
-## As Bryson fire reignites trauma in Malibu, neighbors lean on one another - Los Angeles Times
-
-- **URL:** https://news.google.com/rss/articles/CBMiwAFBVV95cUxOazA4VzQ4dHFKUGxVaXc1WElvVUh0RkFScmRwV0hZWS0yb3FndW1nTi1SZmQwUlhYQmRHUkl6dFNxNFplZkpkUVNUYTRZZUZSR0s5RVBGNnF3MmpNWTA4R3BhNGZsUFMwTlJsQnFnUWlNSFFGWW1QN2YzVlFnVTdremZnaXdMelh2RmNvVDhVR1k4UDZDQk9LZ2RFdERtZ3Z1NzF2Mml2MGF2ajB0dm1JNk9VVTV1ZmhEY3Njb2d6Nzc?oc=5
-- **Source:** Los Angeles Times
-- **Published:** 2026-10-17T16:59:28+00:00
