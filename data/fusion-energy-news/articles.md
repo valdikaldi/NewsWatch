@@ -1,8 +1,98 @@
 # NewsWatch — fusion energy News
 
-_Last updated: 2026-10-19T09:39:52.010304+00:00 · 50 articles_
+_Last updated: 2026-10-19T16:49:55.629224+00:00 · 50 articles_
 
 ---
+
+## Experience a Vibrant Fusion of Asian and Western Cultures through Music with Ju Percussion Group - Prince William Living
+
+- **URL:** https://news.google.com/rss/articles/CBMiyAFBVV95cUxPLVlZakFBVkZmTjZyOUdrNXBMSDBBN2xaWW54ZDNwdXYwMHZ1VEttMWdpVzdmVFZLcHpmS1FxRkhIY0FyY0tKT1FCX05jdjFTYlVJZXl2dDdaOVNlUFBQNEVyTTE5MVg5SXBwUWVyQjk5RnQ3WGViWU1MdXExYS1jRmlndkxienVRbmFobnpGM09UM1VkaW9namNvOFhvN0hFRmFIT2RIc0lFbmRPN1Y2OEkxQWNQSW1kUlVkQmR3NTNtWmxQLUlveA?oc=5
+- **Source:** Prince William Living
+- **Published:** 2026-10-19T16:42:12+00:00
+
+## X-Energy Expands Nuclear Pipeline With New Indiana Reactor Proposal - Benzinga
+
+- **URL:** https://news.google.com/rss/articles/CBMixwFBVV95cUxQOXYtQjhMTFBEcENtN1NCd1o2bk92RHBpTWt4OTY0dXJyNDMzc1NWV0tmOG8tT0Y1TF9YcGd2MkdVRjBKbXVINTRZU1FXbU9sWEMybDhNZlBBZC1ZWUE3ZzNpSEhMTzBnZDl6YUlTYlVaZ2Q2STRKaVU1c1JVWS1uNWszUjVfN0RleXZyVGFQUVRwOGNBRnZxeHF2SFNaOVhNeFRuc0hVQkN6RG9qejFxX1VUcFZYbWpGWjZDdFZNbFZpMGpJLXZz?oc=5
+- **Source:** Benzinga
+- **Published:** 2026-10-19T16:24:24+00:00
+
+## Amazon Bets Big on Nuclear Power for Data Centers in Indiana - The Tech Buzz
+
+- **URL:** https://news.google.com/rss/articles/CBMimAFBVV95cUxQakNTb2VLRG52Q2docjV4NEpZdWgyVWM4WkltRmt4bC1Qc0VWcXJnSEUtYlVuaERORnpSZFVDTF9KMHVaemh1cGliZmhERU53VWdaUm8yVEVyNm1tOVlHanJUa2tZdFhSc1U4Z29xa2tCN1d6MmctNnN6RVBoWUYtd3dNTFJWMy1EV2pfcGoyeHZRVmpENUtHQg?oc=5
+- **Source:** The Tech Buzz
+- **Published:** 2026-10-19T16:07:00+00:00
+
+## THE WEEK OF OCT 19, 2026 - AIP.ORG
+
+- **URL:** https://news.google.com/rss/articles/CBMiYEFVX3lxTE0yaDlCdHBJV1FKNE4yeUF5eVRPWEYtejRLNU55SnljVnl2WklFZnl5ZmpZbUdWX1lSRFZpRDllblRVV21IM1ZEWDdCWjJ3am5mSjVGdEl6WW5yaVVUVzRLeg?oc=5
+- **Source:** AIP.ORG
+- **Published:** 2026-10-19T14:39:51+00:00
+
+## Centrus Announces $116 Million Acquisition Of Centrifuge Component Supplier Westerman - NucNet
+
+- **URL:** https://news.google.com/rss/articles/CBMiwwFBVV95cUxOc2VvUHVhYkFWbnp4VXRVRU1adTZqTEZKc1ljY1A5VjAzR0JSYVpTZ0h3SkFEOXFsUnhJT1pqdmNuUVdjb2hrbWtZS2JiN0FXbnFNT19kNHR3MmZCV2hTeno3bXJUWUtwOGNCRndPVE93a25wTmctM2U2bW9wdTVvcUZkSGN3M040ckV6QTd5Tl9jVW83LWV4RVdmT1I3c3p3aW5VSGhGbEI5a1ZOdnQ5Z2tPVDlKOWY0UGE2Mkx1eS1mWDA?oc=5
+- **Source:** NucNet
+- **Published:** 2026-10-19T13:30:51+00:00
+
+## Gauss Fusion launches Series A Funding - Innovation News Network
+
+- **URL:** https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUVZUTDJsa3N5NFZWQlE2RkJMSDZaemdndmZSelczdjZDRlA1VE85cjYyVmtXRTA5dzYyU2kyNjBaVk1fZ294QTBFclR3WFZSdEZxdEItTVBVZTdXYnRZbTc1d3NPdHhPZ3dVLWE4SXNERWJkUFRwZXlqbXF6SWFmeUpmWG04aXpOUEVJ?oc=5
+- **Source:** Innovation News Network
+- **Published:** 2026-10-19T13:29:58+00:00
+
+## AM Solutions introduces Powder Management System & Direct Feeding System to support polymer additive manufacturing - TCT Magazine
+
+- **URL:** https://news.google.com/rss/articles/CBMi2AFBVV95cUxOYzkwLUFlYzJMaGV5NU1TdDY5NmFSU3A1djhabVFUQU5zQUpZX0gyaW5kS2tDLWtIQ2EwRVZUM0YtOE82UlZ2NE84ZjlGaEFOQkp4ZnF3RGdzRWJwcllLSWhoRDRLa1FjX0lHcG9hQldoeWJRWW5zb0hWWDJBSENmVHVreUZqYUdGc1Bobk44aGFvTlZrcEJiMEV6ZldfRFROTUptcERUQU1WX3oyWEpwOGpVd3BwR2FwS2xqbjEzZVBhbjQ5RDU0Z2hvbUZPRjRiSW5MbTk2bng?oc=5
+- **Source:** TCT Magazine
+- **Published:** 2026-10-19T13:17:01+00:00
+
+## Public-private partnership to bring new exhaust system to DIII-D - American Nuclear Society
+
+- **URL:** https://news.google.com/rss/articles/CBMiowFBVV95cUxNQ3F0SXVmaGc4VW5IWHhuX3poWTFWWUpZVEJjWElkWlMwVnJFSXY3TWhzVlZySkxzVDk0QU9XdEZXbGFKOEg4TmNZTjlvNC1fODlGSVBDXzk3WTR1d0MxSmhkNEVfUXlxUE1HMEhIOU1MOGhUMTd3R0NrcWF0di1aTUdFTUowaDlSNDhqbnprX0dvcEl0MWh1SkdMc3ZOU3Z0YzNj?oc=5
+- **Source:** American Nuclear Society
+- **Published:** 2026-10-19T13:10:20+00:00
+
+## Amazon Funds AEP and X-Energy Plan for 960 MW Indiana Nuclear Plant - Securities.io
+
+- **URL:** https://news.google.com/rss/articles/CBMimgFBVV95cUxQZkJLVmdJR3JsYzMwR05XRXlYdnlIZ0VJYXZIUXZRTnhxZy16M05zaDJCa1Y0Mlp5VWRBc1lpWktKLU1leUkyVVQtZU9VQmtSV1dGM3RVNVplVEU0Vzd2TVV1MmNrcGx3UUMyMFM1bGRGZ3RoZWI4bWtrRzZwU0x5TW1taC1HM0hYVXRFWFVrS1pKZXp1akRDZzNB?oc=5
+- **Source:** Securities.io
+- **Published:** 2026-10-19T13:00:13+00:00
+
+## Centrus Energy Acquires Westerman Holdings for $116 Million to Expand Manufacturing Capacity - Yahoo Finance
+
+- **URL:** https://news.google.com/rss/articles/CBMioAFBVV95cUxPaEVDT1pYU3cyUFpVZU12b09jMnRYbDZVQk93Sm9lX2ppR2l5VGJJU2lMX05jMUJQNi00S01sZzZBQWVQNWJzeWJ0cnNReHlmVG93VkZRYmlkR25tb3J2X2IyeENnUlgwWVFFQzI4eV8ydmREdlU4T0R0VmV4QlladmR1eWU1LXdPVHJ4aFlVM2tLX3ZRT29jR2FLTEdPdUpr?oc=5
+- **Source:** Yahoo Finance
+- **Published:** 2026-10-19T12:56:08+00:00
+
+## This Fusion Experiment Is Getting a Custom Exhaust for ‘Backwards’ Plasma - Interesting Engineering
+
+- **URL:** https://news.google.com/rss/articles/CBMiswFBVV95cUxNMHJ4LVBuZDNwRGJnU2FEUjUxODlvS1ZnSnU5aVRBU3N0RnJuanhDS2w4QkJiTVBRTkhyQThsN2NCMFZaM1B3cHRuWEVxODlNbmRvbldvS3JqX2VJRER6djE2T1FKaXR4Z3hOOFJnNjV6UjRGMk5jcEJkUnpFUlFHNXNnRWMtaWNmNTd6OHZkRHRqU0g0ZjJrYnRLSUNLUEgxcWI3ZmlmbVNsUXZPMm45WmRycw?oc=5
+- **Source:** Interesting Engineering
+- **Published:** 2026-10-19T12:35:30+00:00
+
+## Chuck Brown Band and Dave Attell Headed to Rams Head On Stage…But Not Together! - Eye On Annapolis
+
+- **URL:** https://news.google.com/rss/articles/CBMiugFBVV95cUxPZVU2ZXY1bHp4UEdSRXFXZVJQb2dqM0xWQjlDSHVJTkRyOWRwUGFvYXhNU1VvUldRemdIcmc0Z3dlUDYxOHVwSTBNWFhzUTBDZTllNTNqMl84eFFQazdUTFZCRkxxaWVZbHltRTNyc3E1UF9jaWdJdDhFVV9INU41QlVJT1NOWnYxalZvR0xfMDF3cUY1TDZWemt3bmE1a1FYcVNrM2V3NVN6WllZRFFGYXZLQVp2SU5iUHc?oc=5
+- **Source:** Eye On Annapolis
+- **Published:** 2026-10-19T12:12:00+00:00
+
+## Centrus Energy Buys Centrifuge Supplier Westerman for $116 Million - Securities.io
+
+- **URL:** https://news.google.com/rss/articles/CBMilwFBVV95cUxPZmIwQ0tTRmFIOE1Yc3RqbEo3Tkdza3FuTUNtZEJwR2JQQl9nUWtMcnluYVhqRnhhbXFVVlRkT2I3Z052R3dfb1pVM0N4dzd6cjZGUXprUkUxVl9hSk1PT2ppODlfS044LWJ2Q1lYVGtLTmtubmZBd0JKeG1idExPTVl3bVJ5QkpJUkwySTVyZkxIVF8zRWtR?oc=5
+- **Source:** Securities.io
+- **Published:** 2026-10-19T11:46:03+00:00
+
+## Check your solar panel quote right now: if you see silicon alone, here is what next-generation tech means - cristinaiglesias.com
+
+- **URL:** https://news.google.com/rss/articles/CBMi2AFBVV95cUxOZFJtVFZGa0dlZlp6Y3UwQ3B4b1FQcWxmU3lLY2cxVERSUzBsbTluM3lhMEZxUkFQYmdfZXh4Y3lkTHVtOHB0bmVLd0pYTDctMXQ4bHFzQVdCdzFVbHhDNWkwaG1GRVptQndKNk1TM1k1bjQ5Ym5ldmJJUVJWV0tPVV81bGxDWlMtRFZwTHN3a3FZelAyMHlNdFZiZ182OGtBUm5JMUVIdGZ3Tl9YaGhPbWxERlhYVDA3bmVIU2g5dktmbC1hdXpOUk9oME5aSm9ULUtzZC0wNy0?oc=5
+- **Source:** cristinaiglesias.com
+- **Published:** 2026-10-19T11:28:39+00:00
+
+## The belief that Artemis II is meant to land on the Moon is a myth: the real plan and who is onboard - cristinaiglesias.com
+
+- **URL:** https://news.google.com/rss/articles/CBMi0gFBVV95cUxORDlidUp6OVVrMVRTa0dZblJWTEtQQlYxWWt2cFBmT2IxazI3cmF3UWktUUQ3cURWTVRtajBhNWZ6S2J0MWlLb3RZVVI3NHZxMEZkUUZHUHUxQlRrVHNMNEhjSmprYng4eEN3QU00aF8tVTUxX0tuUk9IZC14QUtLejBWSWtlcFplT3FVSHFST2NTa1dQWFR5bFZ4Q014M2dZNkNmMFMxY3FhcnkzMF85YkFrTFh3aFRzSVdJY1JleGFmMVFzWWN2N3p3UVZoY2FuMkE?oc=5
+- **Source:** cristinaiglesias.com
+- **Published:** 2026-10-19T11:26:27+00:00
 
 ## Great Sky’s High-Speed AI Chips Analyze Fusion Plasmas - News-Press NOW
 
@@ -213,93 +303,3 @@ _Last updated: 2026-10-19T09:39:52.010304+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMiwAFBVV95cUxOazA4VzQ4dHFKUGxVaXc1WElvVUh0RkFScmRwV0hZWS0yb3FndW1nTi1SZmQwUlhYQmRHUkl6dFNxNFplZkpkUVNUYTRZZUZSR0s5RVBGNnF3MmpNWTA4R3BhNGZsUFMwTlJsQnFnUWlNSFFGWW1QN2YzVlFnVTdremZnaXdMelh2RmNvVDhVR1k4UDZDQk9LZ2RFdERtZ3Z1NzF2Mml2MGF2ajB0dm1JNk9VVTV1ZmhEY3Njb2d6Nzc?oc=5
 - **Source:** Los Angeles Times
 - **Published:** 2026-10-17T16:59:28+00:00
-
-## How Electronic Music Subgenres Continue to Evolve: Fusion, Technology, and the Rise of Microgenres - SIDE-LINE
-
-- **URL:** https://news.google.com/rss/articles/CBMiiAFBVV95cUxNOUZVVk1FVUpTeG83bGVfb3FuLVJ2OTlXMFJpWnJueU1OZDFnV2w2dlI2aGhyZ3MwTjV3Q0NKTnZqUnNMemRNLXpMaDh4SnV2MWZmTnRIcGN6bjFJZUR1SENENXlZdnZWNDEwV2RVRnEyeFpjWE82aERLZlZ1NXZaV2hmTnJkcXRp?oc=5
-- **Source:** SIDE-LINE
-- **Published:** 2026-10-17T14:05:08+00:00
-
-## First working nuclear clocks created in Vienna and Beijing — Cyprus Mail - UA.NEWS
-
-- **URL:** https://news.google.com/rss/articles/CBMipgFBVV95cUxPQXF6bHNtdWUxNFZvQW4ydEZQUnJwd3luSk9sU014eGhqYkhBWTlsRnVZbFV6eTBBeEpCb3J1NlVnTFRtRUFveDFIR3M3cncwUzU1UV9mS01rdlkyNjF3dElDLUJ6LUNMUWxxUDhZazJEX0RXTVl2WGxOUGlaMmxLem16M25pSENXU2NZWk50aUtmSkdPSUtLZXRnRzY0ZkM4WXVkM1Jn?oc=5
-- **Source:** UA.NEWS
-- **Published:** 2026-10-17T12:39:05+00:00
-
-## Just 8 years after Woolsey, a new fire ignites in its scar — too soon for both residents and plants - Los Angeles Times
-
-- **URL:** https://news.google.com/rss/articles/CBMiswFBVV95cUxQMEk3NDVxeFRWdzJra09LMUkzb0ZUNTNwa1FKeS1IRFlHSEhCdHZpcGwwdThMQXNYUE4tb3ZRb0NiMEI4cWlRUmQtNUdWQTlGQjJoZDZIVHpHdzM1Vm1fS1lZaU5VWXNvblRrdTB5eF9JVkJYVHN0WkduN1g4ZGdseUFjYkIyX0hOQ2JXS29oWWZ5a2JkR3VjSHl2X3RvLWtmN3BONVFGakFNdXFaU18tTzk4QQ?oc=5
-- **Source:** Los Angeles Times
-- **Published:** 2026-10-17T12:00:00+00:00
-
-## Weekend Navratri Dandiya And Garba Events in Delhi-NCR 2026: Top 7 Venues, Dates And Entry Details - Herzindagi
-
-- **URL:** https://news.google.com/rss/articles/CBMi2gFBVV95cUxOVHVMM3RXQmVZeUZ1Y1ZQdVZaMzl2amlQY0k1Z3YyRkhSUWVfRlFtblB6TjRJVUNYN3hkUnZfc1BXUmtucFoyRnF6amtZY29aeEJKQ3NHUVdBaHhxX1BOcDA0UllNV0NOYTNCMXNyTERXRHpzdUs3WmdTVFYtNks0N2ZZUm4yNGVERHJWek5QSkFSWER2OVkyLWJvZWo5c3FxaktPci00ZkVPQ0dkWmlGRGllSC1mWVc0VUhyS3VFa1NEWENGb09qZ0RMckdJVmJ2SmdqaGw0aTFwUdIB4AFBVV95cUxPd3Q5cnpUZ2dEWGpyckRBajBObU9LbThvaGNfRUdvaVVCbjVINkI1cHA5SlRLbzFHcXlpMkt5UEZHOEwwc1BWbVhDZUx4QVQ4LUNlT055X09BeThkNFEyNlp2YUs1ZFVZeEZ3WklMMXFsbDFuREdSckdITm9iRmxZZTlqTUhVOGNnSEVmd3U0TnFnYWlYYnI0bDNtQmtzRHRHWnVYWk51eTUwRUZqUHZVUGxHcEprX3NCNDVaX3BPZXhsZGN1akYzWmxjUVhjWV9ETm5nUTNmZlBOYjFLRUpMVw?oc=5
-- **Source:** Herzindagi
-- **Published:** 2026-10-17T10:49:27+00:00
-
-## Dragon Ball: 7 Strongest Fusion Forms, Ranked by Power - FandomWire
-
-- **URL:** https://news.google.com/rss/articles/CBMic0FVX3lxTE90bWV2ZXcxclJ3aVpOOFlZSVU4MHRrOE5Tdll0alpBcXFsN0dMRjJCV19JZXpiV09aNXVUbzV0cjFJUy1NaF9wU2VZaHZSQXVuUmt6NXVPVk45b0V1MTFMQVkyMTZlZHlfV2NuNHJwQTZFQWs?oc=5
-- **Source:** FandomWire
-- **Published:** 2026-10-17T10:30:00+00:00
-
-## AI Learns to Spot Failing EV Batteries Before They Catch Fire - Bioengineer.org
-
-- **URL:** https://news.google.com/rss/articles/CBMijwFBVV95cUxQRXVrNkY0b1VETTV4Wno2WTdVU1lGVGRRWTdoSFRzYW5GdTFrNWF0dC1vaGZuX0lnQW5KUEZxNTBISWhmNHNDM2hZdms4VW9aYmVmRkNGMUo4U0ZvcGt0V0tqcGlydm1OM1lKQ3JvOXpXMjdjZk5STkNiZzEyM2t5TERyWEphSTJ3MV9hem4tSQ?oc=5
-- **Source:** Bioengineer.org
-- **Published:** 2026-10-17T10:01:15+00:00
-
-## Inside the Damage Zone: Scientists Decode Nano-Void Behavior to Shield Fusion Reactors from Helium - Bioengineer.org
-
-- **URL:** https://news.google.com/rss/articles/CBMivwFBVV95cUxPNjM1Qjc2d3MyZ2VYNjVLUFpiUk9hTGU0QWxFV0pBWjI4ZEotMWJQUFlHVzdyQk5uMXNXVTd4M1ZfR1FUUUhMREl2S0VCbjliZEJDanQtS0RJcjVKNGg4SzZGN0lCbWZ4R1BCSXoxbGE0M0Raazl3WjBMRkNVYkNyNHpBUHFrNm5SenMwX1Byb0NLMGxyeVdGbmJqVno0Nzd2eVVMekNWQ0hJRkExd3drdTNPV0FyZjdzOWtwZm9MWQ?oc=5
-- **Source:** Bioengineer.org
-- **Published:** 2026-10-17T09:01:15+00:00
-
-## Garba or no garba, I can dance till the end: Jagadhatri’s Mansi Jain on her unmatched Navratri energy - IWMBuzz
-
-- **URL:** https://news.google.com/rss/articles/CBMi7AFBVV95cUxQUjhULW9OUm9DcTN6TWNoLTQzeWlJSWpGVmhoZUszNGVUc2FockZTUlRTZnFfOGNOOHRLbTlNem9CZmU5NzhuSXJUd0xYSFJXbXFfSENFTHNJeHlLbk43UVozUHliT05NcGNzT3owZkNTQklrVXpfV3NHSTVCVV80SExyUl9EUlViZmlOSzZVNDBCY2N4MDZJRzdWWHUwU3gxZDhvMXVBT1J5VlJWbjZwYlU4eUFQWG84TFIxUUlldFBmMTVSRE5VSUh0dE1nUVhOY1VZcTVKTUZLZGx0bWZobnNULWgxRGhKOFdrdg?oc=5
-- **Source:** IWMBuzz
-- **Published:** 2026-10-17T07:54:36+00:00
-
-## Mahindra Fusion Fest Brings Campus Culture to Wits | Editors Picks - NOWinSA
-
-- **URL:** https://news.google.com/rss/articles/CBMibEFVX3lxTFBFMTBQTEp3N2pEbExlNUZtYXo1ak5qSDQ1YjExczJscC12ajFINlZXb3lKTXlWa05VbFU0TVVqQ3hGa3VkdXZPSGVmWFE0WEZRMG1RN2dLR2swQ3ZscWhfR2NyOWs1VzdHUy1FZw?oc=5
-- **Source:** NOWinSA
-- **Published:** 2026-10-17T01:31:42+00:00
-
-## Three Esteemed Jefferson Lab Physicists Become 2026 Fellows of the American Physical Society - Newswise
-
-- **URL:** https://news.google.com/rss/articles/CBMi4AFBVV95cUxNN2hqc2xMT2pMQS1vQ2F0TEFPRW5jTTc0S0RZemxnZzJmM0ozdTJkUmxxTERGSC1NQVJWUHYxUTdkSG1tSnQwc2YxcGxta1hGZEZvSmhVOW1xdWZaMzdEODVRX1dsdFhmZ3lMM2FPVDJfRU1nOEhlZDZNZ3FLRWhYQ3ZDUHdaaGRkdzZzdktNNGpHVlRFT0JYYnlaYS1UdGZETEVLY2hyZ2RxMnBzVHlYdklsZk40RU4zbG03dVRnWWMzcHNFZVdLb2lPTVRpeVZfOWh1YVZ0UHdielVYdzdnbdIB4AFBVV95cUxNN2hqc2xMT2pMQS1vQ2F0TEFPRW5jTTc0S0RZemxnZzJmM0ozdTJkUmxxTERGSC1NQVJWUHYxUTdkSG1tSnQwc2YxcGxta1hGZEZvSmhVOW1xdWZaMzdEODVRX1dsdFhmZ3lMM2FPVDJfRU1nOEhlZDZNZ3FLRWhYQ3ZDUHdaaGRkdzZzdktNNGpHVlRFT0JYYnlaYS1UdGZETEVLY2hyZ2RxMnBzVHlYdklsZk40RU4zbG03dVRnWWMzcHNFZVdLb2lPTVRpeVZfOWh1YVZ0UHdielVYdzdnbQ?oc=5
-- **Source:** Newswise
-- **Published:** 2026-10-16T23:25:00+00:00
-
-## ‘Genesis Agent Skills’ Release to Support Innovation Across the Genesis Mission  - Newswise
-
-- **URL:** https://news.google.com/rss/articles/CBMizAFBVV95cUxQMGlrbGFnaldXeGVFcmxGaDVtLWw4b2ZRTG13OWtDaTc2Nlc2d0xkOEh5TVhiNHlTSzd0OWoyR0lxYnJpaFJkNDB5UmlIeU5uX1p0Q0ZjWGw3dnBTdFNsTllhakJRMVB1dno5LTRBcE8wTFkzUnhURW1aQ0RLM1dPbWtrYmQxcjRmb3otS0F2WHQzdVFxSm9mR1BLeDdxakR2UnhtLUVuU3MwM1VaVUx1bEh1ZjIxZFdqLTFsY3NEUklSczNBR1lZa2Rtdk3SAcwBQVVfeXFMUDBpa2xhZ2pXV3hlRXJsRmg1bS1sOG9mUUxtdzlrQ2k3NjZXNndMZDhIeU1YYjR5U0s3dDlqMkdJcWJyaWhSZDQweVJpSHlObl9adENGY1hsN3ZwU3RTbE5ZYWpCUTFQdXZ6OS00QXBPMExZM1J4VEVtWkNESzNXT21ra2JkMXI0Zm96LUtBdlh0M3VRcUpvZkdQS3g3cWpEdlJ4bS1FblNzMDNVWlVMdWxIdWYyMWRXai0xbGNzRFJJUnMzQUdZWWtkbXZN?oc=5
-- **Source:** Newswise
-- **Published:** 2026-10-16T23:15:00+00:00
-
-## Why the Large Hadron Collider Cannot Destroy Earth With a Black Hole - cristinaiglesias.com
-
-- **URL:** https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUVdSWXZkRVMzUjY3QUtaNTJBakNta0wtM185cW1DUXA2Qm5BWXVlZkJJTUwyZzZIcHRYTHhKNTNYZUNJTjN3cHAtTXRacXQycjlmSUw2NTZRUjFQR29qYVJtdlFsYkU0WHhVXy1ibGlmdWlpZkZQQWJPWlh6WEF1anNFSGlfdkQtMHo1MjZvOWt4bzVUUWdfRlNMcGpLUDdJR2FWZVQyZ1o3UQ?oc=5
-- **Source:** cristinaiglesias.com
-- **Published:** 2026-10-16T23:13:46+00:00
-
-## DOE Selects 38 Research Projects for $36M in EPSCoR Funding - HPCwire
-
-- **URL:** https://news.google.com/rss/articles/CBMinAFBVV95cUxQOFZ5eVBlYTJwZnpuT0VUR2pEMm80WmhxeTNNNVZ2bWJTVnNPcU5pV3lXV2ctN1hlRGN2djU2V056eFdUZlJzaWF0Z2FJWG5LWkZpbDJPVDhhdGFfNTJMUG5NZTYzeG56eDI2VE9HZG9FRXVGY096ajIwRm9sUmc0M0dTenBadUtaanhpMU5MZ0ZKcjdxV1FMUnFwU2M?oc=5
-- **Source:** HPCwire
-- **Published:** 2026-10-16T22:02:33+00:00
-
-## For 30 Years, Kodak Ran a Secret Nuclear Device. Authorities Had No Idea It Existed. - Popular Mechanics
-
-- **URL:** https://news.google.com/rss/articles/CBMikAFBVV95cUxPRGtjWHhlYUdtWG54bU1FYWFfNUhMOTFadFdFNlMzNjFwWWNrXzFqY2dqa0pGNlVRV2p4dWVGeTRiX3VuVnVTNk5KUHZIT2dfNDlGTkt1OTY0WlMteVNVN1Nlc3dDSlVQampLWUtodTE5ZVJUR3RjZHRGLVJqVzh3UHI1N0tfcVR6bUJmelBkOFk?oc=5
-- **Source:** Popular Mechanics
-- **Published:** 2026-10-16T20:51:00+00:00
-
-## High-energy additive manufacturing pushes advanced materials into a new era - Bioengineer.org
-
-- **URL:** https://news.google.com/rss/articles/CBMiogFBVV95cUxNeVpxTFVIUGRCUzdEWTVndUJ4NU82akp6dTFJRzhmbHJUa0RCdGdSZ1FmSlJ4QnZWZWlpa2daQXJTRXJ2UkRNWVJvREdrMnplVzZRZ2hQakhMTzBBZlhRaW8zblFnS0RDNjdKYURDdUUzMnU2YW1iWXV0dFJ6Z2l1ektEclZhaFFYS3ZQQV9tdTlpRzJqX216WWtSUG9CNU5mM2c?oc=5
-- **Source:** Bioengineer.org
-- **Published:** 2026-10-16T20:31:34+00:00
