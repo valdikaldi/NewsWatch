@@ -1,8 +1,98 @@
 # NewsWatch — fusion energy News
 
-_Last updated: 2026-10-19T22:04:05.885562+00:00 · 50 articles_
+_Last updated: 2026-10-20T09:13:00.742821+00:00 · 50 articles_
 
 ---
+
+## Columbia University and Max Planck Society team up to advance fusion energy science - Max-Planck-Gesellschaft
+
+- **URL:** https://news.google.com/rss/articles/CBMibkFVX3lxTFBqdF83Q2puU0V1MTZhUHhGR0wweFFsNWhUejhFWEFWaUJFRl9pc1o3UmlOQXNjTlhSeExsanVjMGFsNjN1VGU2U3FfX2poSTZQcVNRSHA1ck9pNWRZRjVWbDlmRVowaVBDZTE3MnZn?oc=5
+- **Source:** Max-Planck-Gesellschaft
+- **Published:** 2026-10-20T07:51:43+00:00
+
+## 3D Printing in Mining Market to Reach USD 1.29 Billion by 2035, Growing from USD 280 Million in 2025 - SRI - openPR.com
+
+- **URL:** https://news.google.com/rss/articles/CBMinwFBVV95cUxOaFpzb3dIZWYxOG9LWXp4dy1NSHJQbWdHaHE4R19zY2hHVzB3cDVpZzdTNGtSMEFycjBjT0dxb2prUmpMVlJWRVRaNnN6Sk1yRnpTdy0tOVFQUmptRFQ5bnhHbmM0OC04TXUtMlhWX2JxdmdHNGpqdXZ5S1pCMkRRdy0xNFo3NzdDNXBBZnhPdHZKZ05mZTRXT040ekdvT0E?oc=5
+- **Source:** openPR.com
+- **Published:** 2026-10-20T07:22:10+00:00
+
+## Kay Da Ace Injects Fresh Energy Into Afrofusion With New ‘7 ELEMENTS’ EP - Tooxclusive
+
+- **URL:** https://news.google.com/rss/articles/CBMiswFBVV95cUxOY2hzQTNWYjhFWFdXVnhhZDRFZTRUckVVRnBEekhQRmJyYWdxbk85WmtyVnJHOTVWLWNJQVFSSTJqR2RSclE5MWFXenVDa3Yya0UwUUdncmdCY3NvQmNNeXA5X0N4bk5zMmVobC1YRWNPSXlsOXZXZWJMWGE2bGkzLTkxU0tTNEx3UEUyaUQ3U2x1Y0d1NC1nVUQtc05sMG55OW1YN2tPNkc5Ym5ydGpsY3Q5bw?oc=5
+- **Source:** Tooxclusive
+- **Published:** 2026-10-20T07:04:27+00:00
+
+## Trump Media Stock Hits 52-Week Low, Trends Overnight: What’s Going On With DJT? - Benzinga
+
+- **URL:** https://news.google.com/rss/articles/CBMizAFBVV95cUxNSEJhTHdqMTl5WHhXVnN0Zk1takl5V0pyVXlEcnVIeFd0UU5wT05wX3B2bWd2MThRSzJ6WHkwVXhmajFINjZOazlDVkhQSUpDdS1LUFR5ZDBhMHZDVUs3MkVFVVFKWnZYWndMb202NUJCamF1UWVud1FyNmc0cVFXV3F0YnlNWnZ2Q3VmN3lUal8ybHRUSjkzV1RyMkllR04wSUtXZGJqMzh5dTRoVXBWc3FqTlE3SjF2Wll5NzBrXzlXQVJfaDIwd09iRW4?oc=5
+- **Source:** Benzinga
+- **Published:** 2026-10-20T06:51:41+00:00
+
+## COHR stock pre-market at EUR 203.50: optical systems group - ad-hoc-news.de
+
+- **URL:** https://news.google.com/rss/articles/CBMitgFBVV95cUxQUFRETGx6eHhLc0NqSUc5Wl9yUnA1Z0xiVG12dEZIM1Y5YkxXNEhBRnhtOGhlVUVOdXJMdFZzUW5RUkk0T3V1NUh2Mk9RR0NVSWwxTDJuZmQtc2dvWHFMbDRSVmRGcE1PQ2Vra0JWLWVDR0NpaWp6YUFmeHhVLWpHYWV0UjRqTWp1V0toazdOVDRsb3MxRk5PejA3VG1xeHJhc3RreGM0WWwxRHdPOWI4TUhYS0xzQQ?oc=5
+- **Source:** ad-hoc-news.de
+- **Published:** 2026-10-20T06:45:05+00:00
+
+## Multi-Modal Remote Sensing Fusion Cuts Water Level Prediction Error Half - AZoCleantech
+
+- **URL:** https://news.google.com/rss/articles/CBMiYEFVX3lxTE9xMlVSUVN2UGNDSHJob1B4N3lDaXFjU21GMWNWMW1ITVVJcC1jRDNFTGdWdlZNRVBoakpyeGNYZDJHZG5pWmk5WUU5UG44X05lLTNMc3RjeHZnaEZpMjd3aw?oc=5
+- **Source:** AZoCleantech
+- **Published:** 2026-10-20T06:03:00+00:00
+
+## Geo Week 2027 Puts AI and Mapping Accuracy to the Test - Innovation & Tech Today
+
+- **URL:** https://news.google.com/rss/articles/CBMiekFVX3lxTFBKQTlOY0dxYjRDMjQ5X1hDMzQ2YXZUUm9qczQ1TEg5UjNhTUVUTHZlbTV5aXhmQ0FqWVlxTE5lYWFOanQtZXhsLWQ4c0JUYXFXUFZuMlgyWl8zZWtvNVBsWVpSZ3JRbW9VY2t6WHJfX3ZpdjBnMUJfelhB?oc=5
+- **Source:** Innovation & Tech Today
+- **Published:** 2026-10-20T05:04:15+00:00
+
+## AI and Robotics Find Buyers at Hong Kong Electronics Fair - Innovation & Tech Today
+
+- **URL:** https://news.google.com/rss/articles/CBMiekFVX3lxTE1HWkYxLUx6aTRqYkt6eWRkRkpzaW55MUlnRmYzMmlBQl9TcnNqcXJVLVpIWmlqTU8xRzhMMGphSXZkUHVtdUIyWXV3R1g4d2U5RVFTQXFsZHpuSWZoTjlCZ3d1RDZfMjZ2bFc5dVVzbmVnVkdQblMtNjJ3?oc=5
+- **Source:** Innovation & Tech Today
+- **Published:** 2026-10-20T05:04:15+00:00
+
+## Best AI Crypto Trading Apps 2026 - Innovation & Tech Today
+
+- **URL:** https://news.google.com/rss/articles/CBMia0FVX3lxTFBCZGtHYmlnem1UN0RpZWxNSDY0cVVoeUtIeTFDclB5QUxKTF9RcWpxQ200c09mWlZTSk1WZ1QybldVcXl0U1c4RFcwaFEyaFJ4RDFxTXF6OTJsWjI1YkhJOTk0TE5faGsxakdF?oc=5
+- **Source:** Innovation & Tech Today
+- **Published:** 2026-10-20T05:04:15+00:00
+
+## Trump Media & Technology Group - Britannica
+
+- **URL:** https://news.google.com/rss/articles/CBMic0FVX3lxTE5lT2dhSXRTdXhSaGh2djRnVUFnTUdVRlZzRzdxdXdjTElyMF9ZeWJUUG1kbWJIYUlpWkhJVTdoREJsWU9TaEdibjNIdE4wdjFwQTk4bmZaU2lNRm4tM1Z1M0trcFdhZ2kyM1ZDYWZwQmphRDg?oc=5
+- **Source:** Britannica
+- **Published:** 2026-10-20T04:27:05+00:00
+
+## How venture investing split in half - Substack
+
+- **URL:** https://news.google.com/rss/articles/CBMiggFBVV95cUxOQlphdnRLTGlQdDdFU1p5a0U3bl9QLTdqckthTDN0aWJTdUhhaFlFazNTU3ZfQlUxSUlMQUh3bG9KaFo1OEY3TTVib2x4cjVLLUVOb19meEtVcHlqZTJ6a05oMi16ZlI5TFRadmNTZi0zX0xDUm9TT2p4RmxtTWd2RlBR?oc=5
+- **Source:** Substack
+- **Published:** 2026-10-20T03:04:52+00:00
+
+## Gemini 4 Argon helps extend mathematical solutions for fusion-reactor magnetic fields - Mezha.net
+
+- **URL:** https://news.google.com/rss/articles/CBMifkFVX3lxTE80MHZrWG9OMVRtZEVQMU13UVNzaFFYdHRjUHk5MzVldW8zWXpGZk1GMFVsUVBhSDlndTdjdlZRMmtSS0RLdHJFU2Y5ZHM0WkRNVzItTXl0RjdrLTZfSXczVW85bTAzMnAzZ2hJTjVzM3ZEQ19qM2Z5SHhlQ2JXZw?oc=5
+- **Source:** Mezha.net
+- **Published:** 2026-10-20T00:40:41+00:00
+
+## AratheJay – CHRISTO DISCO (Album) - TrendyHipHop
+
+- **URL:** https://news.google.com/rss/articles/CBMidkFVX3lxTE8xZDgwVE1INDZic251cHlscHY5cEs5ZE03YWU2TDRGemtLbVJFaVhuZDc2LXZoNzcxTmlUai11Y1lEYWlPV3BhRkNvZ2haendXZ0hHRS1SaW5sWG5SaGtCbGdPNHljSE1pVFZlYTBJcHBJcDd4WEE?oc=5
+- **Source:** TrendyHipHop
+- **Published:** 2026-10-19T23:13:33+00:00
+
+## KOTRA: "'China's 15·5 Plan' Opens Opportunities for South Korean Advanced Materials, Parts and Equipment" - 아시아경제
+
+- **URL:** https://news.google.com/rss/articles/CBMiaEFVX3lxTFBVSWNLNVd0UXZKWDlNMWNJd1lIUGV1c0wwTEFRelAySXdHRmR4NUtuXzExRFU3cm9tUHoxUHhXWnQ0cTBsdXVfcmNRcm9WekJoX0NNbWt2cFFBUGJoUlZ1ZHFyV3NYaTdR?oc=5
+- **Source:** 아시아경제
+- **Published:** 2026-10-19T22:37:50+00:00
+
+## Ruger - Do Nothing ft. Musa Keys & Young Stunna | MP3 Download - Voxtrendy
+
+- **URL:** https://news.google.com/rss/articles/CBMie0FVX3lxTE1wMUFaS25IZ0w3QTlNaXpfS0dMTzZBZWVrTEhBenJuSUw4MWtlcmJnSGI4WGVudEZvcFdNbGJCVVJBOTJESHdqR0VKaWpNcnZFbVE3YmUxSEc5NVpYVnJLSHo2SVpoUnJORkl1S0p5Z0M0TU51UzFLR1lGNA?oc=5
+- **Source:** Voxtrendy
+- **Published:** 2026-10-19T22:09:27+00:00
 
 ## Superconducting Neuromorphic Chip Passes Fusion Test - HPCwire
 
@@ -213,93 +303,3 @@ _Last updated: 2026-10-19T22:04:05.885562+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMiowFBVV95cUxNdEt5SDJ1Y3UwcUxhYUZ6dTFsQkFoQ1QyRVQ4R3IwSk9lcHZyTThvUXVnT2xaUmg4dVFSZjhBUkdrbUdCbXNLVzlWdDlYbEpPX1BDU2dwVEF4aFFsakJ5Y2hWV2pVSkJEcTZRZnJoOGc5TU0wdE1hYll1Q3dIM1RXM281a3l2WUxvOG5YZ29wNDR4bC1YWExVdFJfTjVwLUEzd3c4?oc=5
 - **Source:** EnergyNow.com
 - **Published:** 2026-10-18T20:26:29+00:00
-
-## Aidonia to Headline New Soca-Dancehall Fusion Event in Jamaica - Kaboom Magazine
-
-- **URL:** https://news.google.com/rss/articles/CBMimAFBVV95cUxQVmg2eElkOExYQ25TOHBIVGMxbEVFelNWR0dsaGktbFBiRGRiZEhTZmpVQnNNTUtlaF9wd0kxM0dxMG40M2lGbjJNbVV3clBsZ0FKQkFXVjg0VllZT0pEZV9ET0ZuN3NSNUJfVkRnRHhvSTUyMU1wdnJZbU5sVkhYSmF5cGpuVnZ6SktkUkN3SUo0em9WOEJtdg?oc=5
-- **Source:** Kaboom Magazine
-- **Published:** 2026-10-18T15:58:22+00:00
-
-## Planet discovered with variable cloud cover similar to Earth's. - Vietnam.vn
-
-- **URL:** https://news.google.com/rss/articles/CBMijAFBVV95cUxQTjZJOW9FTDVpY1l6UGpFa3lUa1RmSE13WUVKMjNlOG1Ed3JFRndlMVJMeGxCaXItbVp3NHFxVG1pY1o3cEJCb2JJY2FycFRnUVdTS19pT2VjUXBCOUlCQXd4aHJfSlUxdDZHbkRWNndrTVltOWN5a0o4OWFKVzZsNTRRM0Y4bzZ1Z08xUQ?oc=5
-- **Source:** Vietnam.vn
-- **Published:** 2026-10-18T15:53:45+00:00
-
-## Nuclear fusion: Progress or pointless? - The Boar
-
-- **URL:** https://news.google.com/rss/articles/CBMic0FVX3lxTFBFZ1hhdEtlazN2bFduUkwtT193NjEyUERpMy1tdkxoc1hVeFVMUl9aUXZxQnJHeER3cnpfZ3o3VFN1SHJCbFRhVXJDajdmRkhPVzBmSXI1bUZEYWZQM3RhT214STJxRUtaaVdyYkNqcEpJVXc?oc=5
-- **Source:** The Boar
-- **Published:** 2026-10-18T15:43:06+00:00
-
-## Fujikura invests in Helical Fusion while Fujikura stock trades at EUR 24.57 - ad-hoc-news.de
-
-- **URL:** https://news.google.com/rss/articles/CBMizAFBVV95cUxQZFc3WERXYjgtaDRlbTVOYnpjS1RZdmNFeVBzbWtscVdxRldXYTBWdGkzbmdZOE9mSndpNTJ1cldkUU9NbloyTGVmVzR1dmRfcGM4dmNOQXFPV3BIN1Z5aUFHalVwWEw0MkVvcnpDOEJ4UVByZkpXSm1UMlo5eEtGWW1sZkxfeVdiR0k3THZJbmJwNmMxNmh0RThxSjNlN2NsRlJ4eFljeloyUW82clFTcDZlTU1iRVdfM0ZwTUhLUmxEbkxqWUVBRFdWSzI?oc=5
-- **Source:** ad-hoc-news.de
-- **Published:** 2026-10-18T15:04:19+00:00
-
-## Tiny Titan: new residential battery system from EcoFlow starts small - Electrek
-
-- **URL:** https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcmNfdm5nMHI4V2poQThlZzJLMlZQVXptbjZjdndtVUowUnM2bVJtcnNSSmphVzFzQjBRUkluZFVoSDJuZWRMdEdJUFROcUJNM0FfSGNJTjlScUd0ZEFMUllxWGFkaXhBTzEyM3J3NDBlUFpjMkROQ1RkTnlSOUJ6c1M5R3d6QjFiSVpwWUtNdWNlMHNmRDZDSzZjT3NHeG4xVTBHVVBTVzlJbjRfNGVEMTh6cXkwNmk5Qnhn?oc=5
-- **Source:** Electrek
-- **Published:** 2026-10-18T14:42:00+00:00
-
-## A Plasma Donut - Hackaday
-
-- **URL:** https://news.google.com/rss/articles/CBMiW0FVX3lxTFBORVdjSHFVNmxGN285Y3VDVnU4cmdUeGxvVmJWa01FeTF2M2VmR1Y2N2cxeDVfYjJhWVA2c2hROFFKR2pteXdFVEtXLTBaMGVqNmlSVHI1REI1dHM?oc=5
-- **Source:** Hackaday
-- **Published:** 2026-10-18T14:00:00+00:00
-
-## Trump Media (NASDAQ: DJT) Stock Slides 6% While Rumble (NASDAQ: RUM) Drops 8% As Market Selloff Hammers High-Beta Names - Foreign Policy Journal
-
-- **URL:** https://news.google.com/rss/articles/CBMi8gFBVV95cUxQZWY5ck0yYUFhSHJhVWY1dlFYZHBRcTJIV24xQjkwaEpuY001bVRtaEE0OTlQbTVQLW5VT3FLdXJhc3dqdEd2U0Qta1NtR2Z3M3laUXYtLWtGSnRkR0d3YWdzTTgzQ0R0S0NRYUp2ZERKNjAtaDJhRGlTcG95NXJQTGVEOTNiSDlnM2lxbXJfNGZrQ19pV1IxT3RRTmdiUk4teWdpMVQtWHNkdVBvLVRkZEc0UEl0bjJGYmpZempXQ2E0dm1qRmVha0Jfc2kxQXFLUDQ5bmNaWm43MkNVSHZRcE9Pd1RKYzJPYXh6NDYzb1FaUQ?oc=5
-- **Source:** Foreign Policy Journal
-- **Published:** 2026-10-18T13:50:00+00:00
-
-## GPT-6 Astra Pro reveals two counterexamples to Grad's conjecture on fusion - Pasquale Pillitteri
-
-- **URL:** https://news.google.com/rss/articles/CBMinwFBVV95cUxPRnpYUmJleUxGN3BXdTFCLW0zQUs4b2Nob3JQMDdMSzNMa3ROd0NfQ1l6dDdVZHZEQ0dDaF9HbGREelZjVFZVMm4xZHYtOXRzQU0yX0VURHpLRnk3d2lTZEt3LW1PR29iM0MzOXpTOWYzcHZzblNPLWZDQ3dCMG5LTmZNc1psWmdJNzgxdkFMd2tCSGlMNnFJOTQwZlVsQk0?oc=5
-- **Source:** Pasquale Pillitteri
-- **Published:** 2026-10-18T13:47:59+00:00
-
-## US nuclear fusion reactor to test custom exhaust for negative triangularity plasma - Interesting Engineering
-
-- **URL:** https://news.google.com/rss/articles/CBMigAFBVV95cUxNbXB3bmxpRms1Q1BNeUUwSDRqMDBPdTd2MmJBem9QR3JvQjNsVW96WkZCd2h3V3hoZUtQbWUydmFRRkpWbURqbU9XalVDLThKbnhnX0x3UmRwRUV6NEtiTkxOR0xlZzdXeHI5ZmlTbVZQMmRGUkl4WDYyQ3E5emJIcQ?oc=5
-- **Source:** Interesting Engineering
-- **Published:** 2026-10-18T12:21:00+00:00
-
-## A 1,100-ton slice of the biggest reactor ever built now stands on its own support in a concrete pit in southern France, and the 88-ton steel beam that held it against the wall for months came out on a crane in under two hours, the first of nine the welders need go - Autonocion.com
-
-- **URL:** https://news.google.com/rss/articles/CBMidkFVX3lxTE1LY183bVNwUDZjTTJMcVE4MTl4b2s4Q2tJRG9FWEJCcjZ4OXJGQnpLMzhnc0hraC03dzlXMGNLT0FoaE5JN3U3WTVZX3hfeXZDVkZlYnotdGdLbWZKSldBOG93cDJRdGphcmZiWXNJRGgzVmE0LWc?oc=5
-- **Source:** Autonocion.com
-- **Published:** 2026-10-18T12:00:38+00:00
-
-## This 'benchtop' nuclear fusion device could provide fuel for the next revolution in clean energy - TechRadar
-
-- **URL:** https://news.google.com/rss/articles/CBMi1AFBVV95cUxQUGZ5N1VhUkhpZW1KbGlqV0EtWDlQQnYxNmM2VFFtX1RFeXpib2NOZTlRaHgzTkxQR3NsT2ZseE5ySXB3REFJYzNhdHdjLTl4VzFsTVpnUFlPRHhycjc2cXhuRk1BZzlDU0FhSm1NaHVDbjRhYm5lNzlwS3pqSU16YkYzUm1KVVh3UGFETW9ucDV3bDhRQjcyVW5vVEhIdjhvazFpVlJHX0JWTkp2ZEtqSHF6d0dNZ0FIOVhEWmdtbG0yRENqU0w1ZC05Nk9CZTNqallUVA?oc=5
-- **Source:** TechRadar
-- **Published:** 2026-10-18T12:00:00+00:00
-
-## Feline in Love - The New Indian Express
-
-- **URL:** https://news.google.com/rss/articles/CBMieEFVX3lxTE9UNVFlMTNYMDh1RGxwUjVQT1JZMUd6S29WZFIwT0FUa3pmeTR4YmQ2cEh6eVV6UWs4ajA4VWZicTc4OWRnS0NHNVhiSW9hanRqbnE5UXVudHZPNzB6aVZDcnJudmt0MHdMV1dlSzR3OExkcTRKNC11VdIBhgFBVV95cUxNbmE1dWhKTFRTQnk1WDdKR2c4b1prejR4RkJYZ3d5MkxwOHRGVm9scHR5SnZSV1VjOEVfUG5TRENQanBuSnJTVDhUcDBmdUpXX2J0NlRKUHI4ZWFCeXNRWVJpWlBkTXQ0S0U5VVh3MEc4aUFJd2doQ0ZEVEszaHdfcXVfSEVIQQ?oc=5
-- **Source:** The New Indian Express
-- **Published:** 2026-10-18T00:30:00+00:00
-
-## Fusion CX IPO GMP Today with Listing Gain Expectation - IPO Watch
-
-- **URL:** https://news.google.com/rss/articles/CBMiakFVX3lxTE9mOEt4WmduUHJzX3dQUWViTzYwclF1M3FudE9uNkZqbTdUMFdRZi1zMGVYYmZJY0pab3hpbTI5N3g2a1FidXNNVXBjWHNqSDNoekxRbUp6Q2d1LWJRaGhFMC00Nzl3S0FYa2c?oc=5
-- **Source:** IPO Watch
-- **Published:** 2026-10-17T21:16:06+00:00
-
-## A Kiddie Mosh Pit at Rams Head On Stage? WHAT??? - Eye On Annapolis
-
-- **URL:** https://news.google.com/rss/articles/CBMijAFBVV95cUxPOGdVb3FZS3p4cjdWblZPalVHdF9oaE8wbFBsTHpHd3phcVllOVcxcFduWGhHMlRsQnp2YlpEWFY2U0FfNG1PZmNlYm9vanBzemR2ZEFwblRqMXBVRW51UTlLenB4TUZURmNPejNsNi15QmNkbWZxdVFoUlRLQkstczJsOUhTV3AzSjc0UQ?oc=5
-- **Source:** Eye On Annapolis
-- **Published:** 2026-10-17T20:53:00+00:00
-
-## Trad – Keep Zooming Ft. Flexbee - Voxtrendy
-
-- **URL:** https://news.google.com/rss/articles/CBMiaEFVX3lxTE5VcXZ4TE9ua09CanhuWHltQWtnLTNxQnNRVG9NWGZfU3hIek9VNjNraGF2eG93c1hyNktZSkF0NFhCbXpJOXhSb1BnVEYyWHFFX0RkaEJzbDhvLTFvdFJjQWJJRG40elVL?oc=5
-- **Source:** Voxtrendy
-- **Published:** 2026-10-17T20:28:42+00:00
