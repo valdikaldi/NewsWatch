@@ -1,8 +1,110 @@
 # NewsWatch — fusion energy News
 
-_Last updated: 2026-10-20T09:13:00.742821+00:00 · 50 articles_
+_Last updated: 2026-10-20T14:45:40.289874+00:00 · 50 articles_
 
 ---
+
+## ‘Starfleet Academy’ Finale Built Villain’s Collapse on Strontium’s Actual Emission Spectrum - Tech Times
+
+- **URL:** https://news.google.com/rss/articles/CBMi1gFBVV95cUxNaXZBajUwZ3dFRHNQRTdQUXc4UTB5bnhaLXR3V2dfWWY1YlFwdFh3RGxrWHFKcnVNNzYzRkxCS1oxdDQxQkZDemJpVTdrdTZBT2x5bmhLc3ozV3FNU2F3bUFVTFRuT1pfc1F4MWhyVmUyR080MEcyN0tuWVI4elF0aW1nU3laVUFDRjJHLVNFaGd3REU4b3RoOUZFREZUTkwzY203YXVLWS1oSVJhYTBhMmswQW1Ea3V3R2VFRFBSYTI1Q2NoTUFhMjMxVFJmR2ZTWmFaVTNn?oc=5
+- **Source:** Tech Times
+- **Published:** 2026-10-20T13:35:21+00:00
+
+## Overcoming Gas Analysis Challenges with Raman Spectroscopy - AZoM
+
+- **URL:** https://news.google.com/rss/articles/CBMiXkFVX3lxTE9OSVN2QmZpMEtscXBycDlIa0ZtczVqUFV0ZU4zWjRQVUNVUUJBYWU1QmNPNFhVY0Q0TlFORTlKd3NHLWYzZkZ4aWRjV0RrdlhqY29Nb0ExRC1PakRnbVE?oc=5
+- **Source:** AZoM
+- **Published:** 2026-10-20T13:19:00+00:00
+
+## Stellios Technologies Raises $5M in Pre-Seed Funding - FinSMEs
+
+- **URL:** https://news.google.com/rss/articles/CBMikgFBVV95cUxQUGVrMEhKSUM3M2Y3MVJ3Z0dUM2tnNFFSYTZvOXIwT1N1VnhnVXpleGJXR2JudGNTZlk3YWpybkpEcDJ3c1VyX3lNN1JRT2o4ajRYdVQxNzV4X0xRdVlmcW5tSXlzR1UzajE2eEJZZlJGT283d2ZNX3RhbEREMURWMWFYZW42aXJNMWNQRDRyTUppQQ?oc=5
+- **Source:** FinSMEs
+- **Published:** 2026-10-20T13:03:03+00:00
+
+## Stellios exits stealth with $5M to rebuild US high-power energy systems - Dealroom
+
+- **URL:** https://news.google.com/rss/articles/CBMipwFBVV95cUxPRkFPZExQNmkyTmFTOUZ0RGhnajJpTmxEWkhUcUFXSlRUUm1LNHBpWmNBNk9EY2pBQ2xjZUFtUi0zVnhNdmNkT0taUTBGd3JLTHNYSjItUmdqWFA5NzVDM21WSXJMQkZyR3psX0QtUXdxRGJhQUUtSTFCZEFnWHhiNFloUERoZ1Q1RGg0WEM5N1hLbHZNWHRLam9FZEZPX1N0a2l5Rllabw?oc=5
+- **Source:** Dealroom
+- **Published:** 2026-10-20T12:54:02+00:00
+
+## Could an Overlooked “Ancient Particle” Solve the Mystery of Why We Exist? - The Debrief
+
+- **URL:** https://news.google.com/rss/articles/CBMimgFBVV95cUxOdHVtNi1iNkwyY3hZanNnUnhmSm40ZWxsNUg2clV2SklTWVJyLUlCQnVMWTMwOVZaOTBvaHk4NEt5WEpWX2VDcno3cG5uS2dEN1o3UmgxTlNsUnNNd2xiNHhrYm1LclUxenRUdzdsbDVDMmZhVDltRUZHM0s5ZjNwbkotVHJPR1lrYndOV2hBRUIySkw5QU5CMW13?oc=5
+- **Source:** The Debrief
+- **Published:** 2026-10-20T12:46:05+00:00
+
+## 'Not easy to do overnight': Marco Rubio praises India's progress in diversifying Russian oil imports - Moneycontrol.com
+
+- **URL:** https://news.google.com/rss/articles/CBMi7wFBVV95cUxQWTVoTVJJM3ZZVDRxUk1Mek1xVTNEaGl2NTktMEk4N0pIYmhuTU9mTmdyWFR2cTNaZDhiclpmY1JYdlJHRDZ3NVpQODhLejNjM1RQdUVnLUlTS0RDTHhoTWNaTVp5Y2Y4OGVNMVdqaUZlWG1UWW95My1aandiWTZpZmdYZE8tUTY1MUZwU2tKNFppM1Bvejk4dzJweGJZaWhCTkFLMzk2WHA2TlVvRUxIRi0wa2R6WDltMEN6dTJKZ1RsOG5rcG1FS2tvZHE2czRpUlRFcGgyRVE2cjRJRlo2MjdfTmQwRGp5dGNMZGtoWdIB7wFBVV95cUxQWTVoTVJJM3ZZVDRxUk1Mek1xVTNEaGl2NTktMEk4N0pIYmhuTU9mTmdyWFR2cTNaZDhiclpmY1JYdlJHRDZ3NVpQODhLejNjM1RQdUVnLUlTS0RDTHhoTWNaTVp5Y2Y4OGVNMVdqaUZlWG1UWW95My1aandiWTZpZmdYZE8tUTY1MUZwU2tKNFppM1Bvejk4dzJweGJZaWhCTkFLMzk2WHA2TlVvRUxIRi0wa2R6WDltMEN6dTJKZ1RsOG5rcG1FS2tvZHE2czRpUlRFcGgyRVE2cjRJRlo2MjdfTmQwRGp5dGNMZGtoWQ?oc=5
+- **Source:** Moneycontrol.com
+- **Published:** 2026-10-20T12:34:12+00:00
+
+## Stellios Technologies Emerges from Stealth with $5M Pre-Seed Round to Rebuild America's High-Energy Power Industry - PR Newswire
+
+- **URL:** https://news.google.com/rss/articles/CBMi_AFBVV95cUxQMk1sZkI2S3VaWG8yZ0g3UEhCQ0VrcTFxNlgwYnVNNmxaeWdfN2RoTlFWMXEtYWxuMnlld1JzS1VJYk1ZYUZ6bWM3TmM1bEc4Y1FLejlwV1ZIVFFTYkgtck1yZGQtYzBtYlcycDlHQ0stQXFwMkdnWFFjSjVRVXpERUt1S2otb084QlhiR0xNUEItSU5xbTVKM0lpMmlnWU0tazdjMUU2OUJhekJWRmdhQ04zTlRPM0ZiUTdOczlPQW4xamxtb3FVaWpOd2lEYzN0QkQyYjd5Y3ZCWkI4b0FoYVptbk9WVk94eV9lN2hwcmtzNWdsSzJ5WDRmWjg?oc=5
+- **Source:** PR Newswire
+- **Published:** 2026-10-20T12:01:00+00:00
+
+## ZAWYA: VAST Data, Hyperfusion hasten AI infrastructure deployment - TradingView
+
+- **URL:** https://news.google.com/rss/articles/CBMi1gFBVV95cUxNMUNva29FelVoRFF6bnAzekN0WC02UGdGWXpTLU8xY1RRYmhPVEdkMVVLeTJtcnphSTJQbzcwcS0yb09Iam5nVTJEQzVFVXB3a0tpX0oxRkNzZVZIWXA0Q3paMmVaaXBzekVNQm5aYllUaUVOVFQ0SWViMjlTdUJlUlk3NWhvNWM4RVNEcDQ2Q2pXeXVEOHY0dmtmbFYxZHJhc2t4ZmJEWmpDSUtackQtRTl0T01WSjNJd3cwRjVjZ204cGg1QXMybV9ERFc3cm5mQ1RCb1Jn?oc=5
+- **Source:** TradingView
+- **Published:** 2026-10-20T11:49:03+00:00
+
+## Qnetic testing flywheel to compete with lithium-ion for grid-connected energy storage - pv magazine USA
+
+- **URL:** https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUW5aakZtY3ZvSTk2TXJSbmZIRG50RlRQY0wtbHRfVDRueE9hZ3hZNG4yYVgwZFh6TTdLYmJrR0xPaGNpZkRTaWZwaVh6cjFyY1VhcTlQbG54Y0F3QTZxTG9RZE9iUnVROXVVTEZBRWJEMVU5NlRqU0pOVDY0WDdadllpME9lRGZmdFdYZ2V0MkRBbmxPT0daT29RS2pNMkloQzZQWEw4M2NWZWZkMEdMWE93X0piMFdrM0J2d1hBa3pTRTQ?oc=5
+- **Source:** pv magazine USA
+- **Published:** 2026-10-20T11:24:53+00:00
+
+## Quantum CFD And PDE Solvers At IEEE Quantum Week 2026 - Quantum Zeitgeist
+
+- **URL:** https://news.google.com/rss/articles/CBMihgFBVV95cUxNWktScWEyUW55MEY2b1pzdndiNjhHQkQxS3dCVGk2Q1RfdmRrWDhlbWstN29KbWhxdnFzZGQwdU1xM2xjRHp1Z3VrQ0tsQXR3LTZGRVJBWHYyRlYyTmlaSHR2REZlbmlsTEtLUEJuVHdsZ1ptVURLMFoySnN3bDRFVkQ4NS0wZw?oc=5
+- **Source:** Quantum Zeitgeist
+- **Published:** 2026-10-20T11:13:38+00:00
+
+## Quantum Chemistry At IEEE Quantum Week 2026, What Held Up - Quantum Zeitgeist
+
+- **URL:** https://news.google.com/rss/articles/CBMiekFVX3lxTE9wLUduQ0UtRGhuMUFENVZxb21yM002aXhPUEM3cFg1TWNLYVFYQWZXWkQya1B5NVVuWV9OX25hVHE4VmtaS3RaQmxqNUFHTVdUeXlpNUVjRWhYUlp4akJvMVExSHMxUVQzczl3ZThaTmNvR3hSeGtzc0tn?oc=5
+- **Source:** Quantum Zeitgeist
+- **Published:** 2026-10-20T10:42:12+00:00
+
+## Fusion CX IPO GMP Today with Listing Gain Expectation - IPO Watch
+
+- **URL:** https://news.google.com/rss/articles/CBMiakFVX3lxTE9mOEt4WmduUHJzX3dQUWViTzYwclF1M3FudE9uNkZqbTdUMFdRZi1zMGVYYmZJY0pab3hpbTI5N3g2a1FidXNNVXBjWHNqSDNoekxRbUp6Q2d1LWJRaGhFMC00Nzl3S0FYa2c?oc=5
+- **Source:** IPO Watch
+- **Published:** 2026-10-20T10:26:18+00:00
+
+## AtkinsRéalis And Indiana To Study Up To 6 GW Of Candu Nuclear Capacity - NucNet
+
+- **URL:** https://news.google.com/rss/articles/CBMirAFBVV95cUxNZVlvMTdUbVRFUzU0SDNTNlUxNDh0eENhUkppR2E1ODJsaWZtV2MzZzFZNG5JNjA3d3ZEa0EwNkhFaVc3a2tNMUx4MExuQVJlQ003OWhuaUsyaGRrMVNldXJrUFc5Vlp4SVh1aFVhSy1HSlB1QjFQMlQ1dnFzQVpBTS01eTVWS2RteTJGY0NjTXV3ZzRoREx0UWFCLXpfejVKdFJiczRrZGF5ZTdK?oc=5
+- **Source:** NucNet
+- **Published:** 2026-10-20T10:06:52+00:00
+
+## How do you test a nuclear arsenal without blowing it up? - Scientific American
+
+- **URL:** https://news.google.com/rss/articles/CBMirgFBVV95cUxPUW1JeDNXX25BbjZIZEd5OC1KQm1qakpiQ0RQS3BYVVlRRk9uN0dzQkk4WVpjMWx4dHM5eElTeVJvUGxpU0ZNYW45ZHJqcGxLdG1DZnRUWVFBN3MzZVhsaXQ2dk5tV1NHNHdvU2E1R2tGYmdUQzRTcDVlUFQwMGQ3dUxzVHlrekRMeVlZQU1mV3BkcFN5MFBPSGdnRmpjZlowdVc5NkpJbmFCUjVLbVE?oc=5
+- **Source:** Scientific American
+- **Published:** 2026-10-20T10:00:00+00:00
+
+## ‘We’re in crisis’: The California coastal town under siege from fires, high surf, El Niño - Los Angeles Times
+
+- **URL:** https://news.google.com/rss/articles/CBMiywFBVV95cUxNOUdzYUZsTkRXcmczQnZUT3JINkM0M1d0cXJUZFJFNlh0MFlETTdOZFY0Rm1RMjcyV2I2cWREVlY0SFRUYzN3SGJiSnZMcXA3NXhwWUlONUY2UGtyQ2M4b2pOalB6a3pDN0lhOWxqcGN4eURPMTQ1YlBSVnhwYWl2UVAzMVJsZm1ubHdnY1lYbGNOaUZoREVyazJEb0ZsZ2J2X1B5VjQyZlRJTUhMTkdwYU92V3EwTktsak43RDAtdlFzRzVRWXR3NWNwNA?oc=5
+- **Source:** Los Angeles Times
+- **Published:** 2026-10-20T10:00:00+00:00
+
+## The roadmap for runaway electron-induced plasma facing component damage in tokamaks - Physics World
+
+- **URL:** https://news.google.com/rss/articles/CBMisAFBVV95cUxNNDc1RlFhemVXcThJczRSZVJKUHFGWGxpLTNGRXFudHhhanRsUWphSy1ycTJlQ0J3bVpRUFY4UXJGZEhyVmZJcXVqZHBCUzVfb1pWbFVlTGREM29GMDNOV3ViTHVfdldSMEx3LTh0aGI0NGVCWHhiTHJaYmtoTHM0UjItcDFxWl8wSi1wQlR1dXlxMHotdDVFU0dobXVESU1nRjY1dUh6a2NON182aVZpbw?oc=5
+- **Source:** Physics World
+- **Published:** 2026-10-20T09:58:20+00:00
+
+## The Inverted Letter D: How the DIII-D Tokamak Is Learning to Live Alongside a Star - Root-Nation.com
+
+- **URL:** https://news.google.com/rss/articles/CBMipgFBVV95cUxPcXJ5OV9iUDFYWFMwVXpvdE9qbWM0VGhGTEtZRThnMEMxT2szNTBwclQtdjIwRmQ4a2RSMVVJRmVMWHptUHo4QTJ4T2pBbU1lcHFNcURreGFNQWZaUWVOR0V3NjQyZDBESHIxMy1tRjZXb2hsdW1PY0VVWjU5SFFnRU80bk1MSWRQZldhZXVJS05iZnRHMEZBSzJuaVRVUzkzS3BiWktn?oc=5
+- **Source:** Root-Nation.com
+- **Published:** 2026-10-20T09:45:43+00:00
 
 ## Columbia University and Max Planck Society team up to advance fusion energy science - Max-Planck-Gesellschaft
 
@@ -201,105 +303,3 @@ _Last updated: 2026-10-20T09:13:00.742821+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMiowFBVV95cUxNQ3F0SXVmaGc4VW5IWHhuX3poWTFWWUpZVEJjWElkWlMwVnJFSXY3TWhzVlZySkxzVDk0QU9XdEZXbGFKOEg4TmNZTjlvNC1fODlGSVBDXzk3WTR1d0MxSmhkNEVfUXlxUE1HMEhIOU1MOGhUMTd3R0NrcWF0di1aTUdFTUowaDlSNDhqbnprX0dvcEl0MWh1SkdMc3ZOU3Z0YzNj?oc=5
 - **Source:** American Nuclear Society
 - **Published:** 2026-10-19T13:10:20+00:00
-
-## Amazon Funds AEP and X-Energy Plan for 960 MW Indiana Nuclear Plant - Securities.io
-
-- **URL:** https://news.google.com/rss/articles/CBMimgFBVV95cUxQZkJLVmdJR3JsYzMwR05XRXlYdnlIZ0VJYXZIUXZRTnhxZy16M05zaDJCa1Y0Mlp5VWRBc1lpWktKLU1leUkyVVQtZU9VQmtSV1dGM3RVNVplVEU0Vzd2TVV1MmNrcGx3UUMyMFM1bGRGZ3RoZWI4bWtrRzZwU0x5TW1taC1HM0hYVXRFWFVrS1pKZXp1akRDZzNB?oc=5
-- **Source:** Securities.io
-- **Published:** 2026-10-19T13:00:13+00:00
-
-## Centrus Energy Acquires Westerman Holdings for $116 Million to Expand Manufacturing Capacity - Yahoo Finance
-
-- **URL:** https://news.google.com/rss/articles/CBMioAFBVV95cUxPaEVDT1pYU3cyUFpVZU12b09jMnRYbDZVQk93Sm9lX2ppR2l5VGJJU2lMX05jMUJQNi00S01sZzZBQWVQNWJzeWJ0cnNReHlmVG93VkZRYmlkR25tb3J2X2IyeENnUlgwWVFFQzI4eV8ydmREdlU4T0R0VmV4QlladmR1eWU1LXdPVHJ4aFlVM2tLX3ZRT29jR2FLTEdPdUpr?oc=5
-- **Source:** Yahoo Finance
-- **Published:** 2026-10-19T12:56:08+00:00
-
-## This Fusion Experiment Is Getting a Custom Exhaust for ‘Backwards’ Plasma - Interesting Engineering
-
-- **URL:** https://news.google.com/rss/articles/CBMiswFBVV95cUxNMHJ4LVBuZDNwRGJnU2FEUjUxODlvS1ZnSnU5aVRBU3N0RnJuanhDS2w4QkJiTVBRTkhyQThsN2NCMFZaM1B3cHRuWEVxODlNbmRvbldvS3JqX2VJRER6djE2T1FKaXR4Z3hOOFJnNjV6UjRGMk5jcEJkUnpFUlFHNXNnRWMtaWNmNTd6OHZkRHRqU0g0ZjJrYnRLSUNLUEgxcWI3ZmlmbVNsUXZPMm45WmRycw?oc=5
-- **Source:** Interesting Engineering
-- **Published:** 2026-10-19T12:35:30+00:00
-
-## Chuck Brown Band and Dave Attell Headed to Rams Head On Stage…But Not Together! - Eye On Annapolis
-
-- **URL:** https://news.google.com/rss/articles/CBMiugFBVV95cUxPZVU2ZXY1bHp4UEdSRXFXZVJQb2dqM0xWQjlDSHVJTkRyOWRwUGFvYXhNU1VvUldRemdIcmc0Z3dlUDYxOHVwSTBNWFhzUTBDZTllNTNqMl84eFFQazdUTFZCRkxxaWVZbHltRTNyc3E1UF9jaWdJdDhFVV9INU41QlVJT1NOWnYxalZvR0xfMDF3cUY1TDZWemt3bmE1a1FYcVNrM2V3NVN6WllZRFFGYXZLQVp2SU5iUHc?oc=5
-- **Source:** Eye On Annapolis
-- **Published:** 2026-10-19T12:12:00+00:00
-
-## Centrus Energy Buys Centrifuge Supplier Westerman for $116 Million - Securities.io
-
-- **URL:** https://news.google.com/rss/articles/CBMilwFBVV95cUxPZmIwQ0tTRmFIOE1Yc3RqbEo3Tkdza3FuTUNtZEJwR2JQQl9nUWtMcnluYVhqRnhhbXFVVlRkT2I3Z052R3dfb1pVM0N4dzd6cjZGUXprUkUxVl9hSk1PT2ppODlfS044LWJ2Q1lYVGtLTmtubmZBd0JKeG1idExPTVl3bVJ5QkpJUkwySTVyZkxIVF8zRWtR?oc=5
-- **Source:** Securities.io
-- **Published:** 2026-10-19T11:46:03+00:00
-
-## Check your solar panel quote right now: if you see silicon alone, here is what next-generation tech means - cristinaiglesias.com
-
-- **URL:** https://news.google.com/rss/articles/CBMi2AFBVV95cUxOZFJtVFZGa0dlZlp6Y3UwQ3B4b1FQcWxmU3lLY2cxVERSUzBsbTluM3lhMEZxUkFQYmdfZXh4Y3lkTHVtOHB0bmVLd0pYTDctMXQ4bHFzQVdCdzFVbHhDNWkwaG1GRVptQndKNk1TM1k1bjQ5Ym5ldmJJUVJWV0tPVV81bGxDWlMtRFZwTHN3a3FZelAyMHlNdFZiZ182OGtBUm5JMUVIdGZ3Tl9YaGhPbWxERlhYVDA3bmVIU2g5dktmbC1hdXpOUk9oME5aSm9ULUtzZC0wNy0?oc=5
-- **Source:** cristinaiglesias.com
-- **Published:** 2026-10-19T11:28:39+00:00
-
-## The belief that Artemis II is meant to land on the Moon is a myth: the real plan and who is onboard - cristinaiglesias.com
-
-- **URL:** https://news.google.com/rss/articles/CBMi0gFBVV95cUxORDlidUp6OVVrMVRTa0dZblJWTEtQQlYxWWt2cFBmT2IxazI3cmF3UWktUUQ3cURWTVRtajBhNWZ6S2J0MWlLb3RZVVI3NHZxMEZkUUZHUHUxQlRrVHNMNEhjSmprYng4eEN3QU00aF8tVTUxX0tuUk9IZC14QUtLejBWSWtlcFplT3FVSHFST2NTa1dQWFR5bFZ4Q014M2dZNkNmMFMxY3FhcnkzMF85YkFrTFh3aFRzSVdJY1JleGFmMVFzWWN2N3p3UVZoY2FuMkE?oc=5
-- **Source:** cristinaiglesias.com
-- **Published:** 2026-10-19T11:26:27+00:00
-
-## Great Sky’s High-Speed AI Chips Analyze Fusion Plasmas - News-Press NOW
-
-- **URL:** https://news.google.com/rss/articles/CBMi8wFBVV95cUxOekIzci1MZzFaZjRTWl9ONV9ua2VURnN5TktJNS1EUHJkRTJSbjZscWZGaHNBdUkxTExCT0VlUS1yWV9uS2Q1Q1VNNy1LbUpwVGllUHlBekdkaHFXbXotOVF3WlVQMjc1d0xtbndZVENGdWpySEZFZkI5V0YwVGhjcVg4bmRKc0FheTJ0UlA5NWdEVE9leWVscGVQLVVzbzlpRDRydnp6ZXJMbVlHT1VOMjhrRnFvQ0FpNl9CdDB1b2dPMzdqX3MtejRzS09rR2dPbVBGanE0NHB0R1pyUEZMLWVLUHlSNlBkM0tOcWJFNTdXWk0?oc=5
-- **Source:** News-Press NOW
-- **Published:** 2026-10-19T09:00:14+00:00
-
-## The engineer who believes Scotland can become Britain's energy battery - The Herald
-
-- **URL:** https://news.google.com/rss/articles/CBMiowFBVV95cUxPN2pPVF8wRG1XMk1OYWI4TENmdUlrWFBwMlBQbXlDTmRaQzJ1cmRaUmtUa0pobXZGM0JtX095SnR3TlFHajBIMlpVa2h4em9aT1FTcEJxcThPb0JHd0tqTVVxYVJLNk1jUDVIVmJzRHU3N0M2VFBhUlpXcUhRak5vV2x1WUhCWDMyWUM0YjlFRjV5RGJEYjVuQUhrdEt1QXRybGVR?oc=5
-- **Source:** The Herald
-- **Published:** 2026-10-19T06:34:32+00:00
-
-## Seoul to turn Han River campsites into open-air feast for 2026 Barbecue Festival - The Korea Times
-
-- **URL:** https://news.google.com/rss/articles/CBMi3wFBVV95cUxOTHlsTnhBaXdhd3ZnaG4wa2hxckJfZVNXLW55T09mZWJ5clZ4ZERJenFrUlZpdEUwLWRRYjhQMkxwalVUdUNoUTM2TjVyOFVyN3V1aDl5UzVQeTdBUlBpWUhzNzVjaElhQkpUV3ZZY3FjQklTN0dYU3BTWEJSY0hHdTdoVXUxdEFpdWJGeU9kcDlyNlJXVEQ5ZTBoaTd3eGJaOEkyQ0p2ZUNoN3ZCbTRiWmlGQlRJODVXU3k4Unk2ekFUYi1nZlhfY25fNXBJZEFSazkzcG14QlFQdnkyODdv0gHfAUFVX3lxTE5MeWxOeEFpd2F3dmdobjBraHFyQl9lU1ctbnlPT2ZlYnlyVnhkREl6cWtSVml0RTAtZFFiOFAyTHBqVVR1Q2hRMzZONXI4VXI3dXVoOXlTNVB5N0FSUGlZSHM3NWNoSWFCSlRXdlljcWNCSVM3R1hTcFNYQlJjSEd1N2hVdTF0QWl1YkZ5T2RwOXI2UldURDllMGhpN3d4Ylo4STJDSnZlQ2g3dkJtNGJaaUZCVEk4NVdTeThSeTZ6QVRiLWdmWF9jbl81cElkQVJrOTNwbXhCUVB2eTI4N28?oc=5
-- **Source:** The Korea Times
-- **Published:** 2026-10-19T05:11:02+00:00
-
-## Fusion CX IPO allotment: How to check status online on NSE, BSE, KFin Technologies; listing date, time here - Upstox
-
-- **URL:** https://news.google.com/rss/articles/CBMi8AFBVV95cUxPYmx2THNHZ21OUE1xaUVLeVJsczZmZUZkT1RIcW5GdE5JQ0hZOGZrVXM0VXIyQlRmNk5iTGw3dFZsQ2JEUndRd2NXaFBMRVlaLVBCNUZ5cUJrVTEwZGJFV0w4akVrUjBEZzh2ZHE0NjhITERiajQzMFVRWjVYY3lUUDZmZHpzc05hd0pWSWhPNEdtMUdDRW5kamtoUmFFd3FxSGJVR2Jsa0t1cFZ1YnAzQ0xva2RNdXZ2MmZlQUFQblhvcUNVb0l2RGI3N0xkMDl5TDgybVdVWnVkanJKZ1NzV083d2dxWC1oUXhyRjdsUGE?oc=5
-- **Source:** Upstox
-- **Published:** 2026-10-19T02:41:32+00:00
-
-## Korean won's earlier slide 'out of line' with fundamentals: finance minister - The Korea Times
-
-- **URL:** https://news.google.com/rss/articles/CBMiugFBVV95cUxQQzg0TVc2X0RKTE9DV0swbXE2MEt5RmJvMll4aGoyd0N5X0pjNVh6Q1FKa3pYX1RtRzB6VWt2WGZXWDZLMkJnWFB5NGI2QjhrR3kyQXMzcG5SWWgtWW9xaUJUeU1zNFV3YWs0NW9yQW41aXZua08wcUpHWDdmWGE2a05sbmU1ZDJWTU9OWVJ6LThQa3lLbjZwektyV3FZNkZ4WkRpY0M2ZWR0R3Zwdk9nUS10WHNRTDVlNnfSAb8BQVVfeXFMTXBHYmRqUjJTQUtFMEJqaE1uMzNZMXRhNEc1dDgtMnp2OW5jMFJ5X3dQX0p2QjYzN3d5emk1WHc0SG9ldFVLMVlsNkpueVJLblgzbDN1QVhlS2xRRXFRR3phX0NrYkgzR0VQblVod0JNSl9USEo5ZUplamhIUFlmWjNGWjhocW5QejRnR3dmLVRPM2JLQXlDTk9iVGNELVZSUGZwQnYxcEJVSmRsUWl2VF9mNk5YcGlUWkdMRC1CajA?oc=5
-- **Source:** The Korea Times
-- **Published:** 2026-10-19T01:16:02+00:00
-
-## Fun | Disco Dancers - Newswav
-
-- **URL:** https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9PVHZLbzhES3JqU2NaLUZMZnpmQ0xzenR4OGt6MTMtVzBHVWM0YTRIajlUTWFZS3ExOUJPWFJUMURISGEyTG9ITjhMQlRVQmhvSkF3VU5PcnNvblMxTmp1THZneUxMdEU?oc=5
-- **Source:** Newswav
-- **Published:** 2026-10-19T01:00:35+00:00
-
-## Gye Poppin – Nzulezu Ft 4mula Energy - TrendyHipHop
-
-- **URL:** https://news.google.com/rss/articles/CBMie0FVX3lxTFBfeGpjUy03Y3d2N01NU1BsVHFvc2F6RG5pOW5QQlVTOVZpNm14alBiZVlsS3VzSElqRDBBS2dWSDZvN1dpWS1COVhJajl2am9TSUV4cGFmaUhlckRZZTZxMmNtUFlBbl94cjFHWkFENUx3c0FyQWx1QVNfZw?oc=5
-- **Source:** TrendyHipHop
-- **Published:** 2026-10-18T21:47:01+00:00
-
-## Princeton physicists say fusion energy has a "back door" that seven decades of research walked right past - Energies Media
-
-- **URL:** https://news.google.com/rss/articles/CBMia0FVX3lxTFBLRTg4akZKYlo4TVRnWmxrRW80NzI5VXlPXy1yR3hJdEU5THVibjc4OUNhcC0xcHkydUhFMG1pdVNNRWlRZ1VKVFpwdFpicUhDMFFkaUNicGlaSzdjTTBEWFI0TnhxLWdDUTAw?oc=5
-- **Source:** Energies Media
-- **Published:** 2026-10-18T21:40:53+00:00
-
-## FOLA & BNXN – my type - Tooxclusive
-
-- **URL:** https://news.google.com/rss/articles/CBMiXkFVX3lxTE9CNFVFQkU0RzlTXzNaZzNjV2dtNS1uZG1CUkl1Q1JKdTYxRHplVWFoR255YVNaSzhKWmRFVTZSWUcwNVo5ZkJqUEtfN2hDN1h1VzRwb0JHR2J3MkdQYmc?oc=5
-- **Source:** Tooxclusive
-- **Published:** 2026-10-18T20:59:24+00:00
-
-## Ranked: The Countries Building the Most Nuclear Power – Visual Capitalist - EnergyNow.com
-
-- **URL:** https://news.google.com/rss/articles/CBMiowFBVV95cUxNdEt5SDJ1Y3UwcUxhYUZ6dTFsQkFoQ1QyRVQ4R3IwSk9lcHZyTThvUXVnT2xaUmg4dVFSZjhBUkdrbUdCbXNLVzlWdDlYbEpPX1BDU2dwVEF4aFFsakJ5Y2hWV2pVSkJEcTZRZnJoOGc5TU0wdE1hYll1Q3dIM1RXM281a3l2WUxvOG5YZ29wNDR4bC1YWExVdFJfTjVwLUEzd3c4?oc=5
-- **Source:** EnergyNow.com
-- **Published:** 2026-10-18T20:26:29+00:00

@@ -1,8 +1,80 @@
 # NewsWatch — Apple News
 
-_Last updated: 2026-10-20T09:12:54.243969+00:00 · 50 articles_
+_Last updated: 2026-10-20T14:45:38.825002+00:00 · 50 articles_
 
 ---
+
+## Apple Q4FY25 Results: Revenue est. $113.07 billion, iPhone Duo launch nears - scanx.trade
+
+- **URL:** https://news.google.com/rss/articles/CBMivwFBVV95cUxQMlMzUUdIWXNjSDFpczBrVVZmSGN2WnJNRl9UdGkzOWJKMkVKVkh6Qk1DcC04SnBmRVRLazMzM2Jabkc2SXJpU0pHQjU1WXNTa1ktaHlOakhvSm03S1FuRWhiTjVOUjVQb3NCR1ZobWY5eVZNcmw2ZjZTd1owZ2xubnQtenZTY3gwSmlYb0d1a2hEdG05WHNHWEdmM1R1ai03UFFldFFsR0RWSU0wOWNJSEZkUG5lcm14cW9MT2hyVQ?oc=5
+- **Source:** scanx.trade
+- **Published:** 2026-10-20T14:23:30+00:00
+
+## Apple names pair of partners in domestic manufacturing program for new iPhones - Seeking Alpha
+
+- **URL:** https://news.google.com/rss/articles/CBMitwFBVV95cUxQWEc5RjJEQm0tcTVBQk1EVzRxcWg5N0J4dDBJMGdqajl4RWlfZDE4WjJxRXZuZm9rODBhTXc0UF80c25veUNWdDcwT2Q2aDg1V2tuanpXZ3pxa05wSjZ2enlYY0c2LUNZc3hfN2lHOTRGc21ZLV9rdmpNNkQydVFTZXdiVU1xTGxxeXlXUlYtWlNIdVlzMUtEd01fSHc5cGVPdFR5NVFKYVUzYm80dk9iZTluR0wyOFE?oc=5
+- **Source:** Seeking Alpha
+- **Published:** 2026-10-20T13:30:36+00:00
+
+## Apple slips as Loop Capital downgrades on iPhone shipment concerns (AAPL:NASDAQ) - Seeking Alpha
+
+- **URL:** https://news.google.com/rss/articles/CBMipwFBVV95cUxNaHZYN05QSDItLUtTSkN4M2xzOUxMcFAzVWQ1dlN2SVdyT0VMNktWNEVOQm45VlRwUk1OR0IzeWhucEx2UTJ1ck9PU2ZwTFNVRzlYem9jeEZoWjdBNTZhNnU0NC1HTEdRMVR0aVJFVkxCVzAxTThpbXRBNGZzOGF0WHRDSk9abmgwbFI3aEZ3ODZXclIydkJScnBkVWQtM1Z5MGJvYUl2Zw?oc=5
+- **Source:** Seeking Alpha
+- **Published:** 2026-10-20T12:27:39+00:00
+
+## AAPL: Apple defined, key history, primary product lineup - 9to5Mac
+
+- **URL:** https://news.google.com/rss/articles/CBMiR0FVX3lxTE5YT25nRDV2WDBrbkJNcGEtUTVaMXUwRUZiQjFPWURPanYxM0RaRE9yblZHZFJMbmpWT2FmaXhCanlyWFNwM2ZF?oc=5
+- **Source:** 9to5Mac
+- **Published:** 2026-10-20T12:24:31+00:00
+
+## This Apple Analyst Is No Longer Bullish; Here Are Top 5 Downgrades For Tuesday - Benzinga
+
+- **URL:** https://news.google.com/rss/articles/CBMi5AFBVV95cUxOMHktaEV4c04wTmxEUlpwLXMwRDA5bUIzdEVMNVNFUnVtNUhZX3c4alhROHQyb1NZREdnYjlXWnlCUnJ6WXBtRmxCQXBFOU5ia2lHcTlfc3MyRU1FaUNSYUlsTnUzWnF3Mkk0N1FCZHBzQmdURnMxbUtMSHoyRm54UHQ0WGV6bzBjeUNlVHFwZ1JlM1ROQTRIbGtkaHF1dmpGYnVnbFEzWE5PYmlKTHBfbVk2Y0xZTy1QVGplSXdmTGhQc0xHWFJJVjJzbDc2OTRaR1R3ZmpnM2RsUEVqYnJ1UlFSRjI?oc=5
+- **Source:** Benzinga
+- **Published:** 2026-10-20T12:22:04+00:00
+
+## Apple's Payments Moat Faces New Pressure From UK Regulators - TradingView
+
+- **URL:** https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeWhtM2tOZEkxUEphZW9BcTQ3UkRxdExpWlRqMTM4YnBadmZ5VzBBc0JTQTFvWGpKS0dvNk9leElQcjlBSWNxYlFYR0VORnM4YnpES1cyMDlQcnBjdFhIQ183V25wM3dUeHU1bUdXX0d3cHFUbmNFbkV1U1diZzhQek1HSVFTTmo3SkpJYjY3eXF5c1p4NFBoRjFRN1NaaC1IYmJCLVlUbHlMUjFiQXFoUmpsN0RLUTh0R0NF?oc=5
+- **Source:** TradingView
+- **Published:** 2026-10-20T12:20:22+00:00
+
+## EU Filing Details Apple’s Planned Samplab Acquisition - iNews Zoombangla
+
+- **URL:** https://news.google.com/rss/articles/CBMid0FVX3lxTE5QUVZ2cnl6dUNvZmpURDdLZkluSTlSWGJZZEVvQ3FXdmNDWThFa1NMRXRLNjhfbjFrMnN2bWhXTXI4U2liTEVGajBCVTgyNWlTakpMR3VIcklJNE5hT3NJdTdyUUc0Zll4SW0xVVhXS1lpQlZ3eU00?oc=5
+- **Source:** iNews Zoombangla
+- **Published:** 2026-10-20T11:43:37+00:00
+
+## Apple Inc. : UBS is Neutral - www.marketscreener.com
+
+- **URL:** https://news.google.com/rss/articles/CBMigwFBVV95cUxOQl93azNFNjVzeXE5blhTMDk3WG83dWtfTTJLMF91X0JGNk5TOEQ0cTdjbktlY01objRiMGR3VHkzLXhPSFlSbmxfUktvZ082U2ktdVMxRjBTWTk5OGxFZnVjV2VMaHRfc1k2UTBKNU8wUjZQeUJCQTdoZThQU0hyNl9oYw?oc=5
+- **Source:** www.marketscreener.com
+- **Published:** 2026-10-20T11:12:41+00:00
+
+## Invesco NASDAQ 100 ETF (QQQM) Adds NVIDIA and Apple on Oct. 16 - Yahoo Finance
+
+- **URL:** https://news.google.com/rss/articles/CBMilwFBVV95cUxQcjAwa2JOZ2hEbnJ3U2xCanlGdm5jaGdKamxGZEZhYlVkXzdnQkl6U1FzdEFzS0dNbmVIRjZsVDl4dm1GVFNyRlRtaDh0dkIwZ0l1VFBSajFTVTh5MHRkQVFaYkFfT3A2UlEySHJLWHhFVnJscHlFb2pSZHFqc2hrQkJuUHJrVTNzbVBnSUlnMERoLWdqcFBN?oc=5
+- **Source:** Yahoo Finance
+- **Published:** 2026-10-20T11:05:26+00:00
+
+## INVESCO QQQ (QQQ) Sells NVIDIA and Apple on Oct. 16 - Yahoo Finance
+
+- **URL:** https://news.google.com/rss/articles/CBMimAFBVV95cUxQSHlpaC1fbjc3V3VfVDB6cktFZFZoYmt5RFdJWGV1Mm1vZG1JNWd0SUgzQl9MWlN6aU5tWl9LWDRWUU56UkFtZ0pROWFiQnpQTTRYaTJ1aXRMOXFLRlo2S01XY2NyeGZJRnIybEZndWdvT3ZleWRCTUItNW5fYXhLWEpjTnhsUnVqWUQwYXYtYllSNzN3TmRzVg?oc=5
+- **Source:** Yahoo Finance
+- **Published:** 2026-10-20T11:04:08+00:00
+
+## Apple Pro and Tell Event Oct 28: Touchscreen MacBook Pro Expected - Kalkine India
+
+- **URL:** https://news.google.com/rss/articles/CBMi1gFBVV95cUxQWXpmeklFS0VHc0VXMGQ5ek92ZFZFYzlyUE5MVTg0YXF1clR4MjZXeXhtaG5XRkRveFpwbjZWM3l6UmEtbU5vdHFTWldqRHlocV9yZ2NMYV9DV1piaUppSVMwS0lBLUkzeW9HT292UmRBd0tNX2JLUTQtYlBRRVNfMmdVZXdJejVTQkRRMExReEsxamlKWERuTlZZOTQxT1UwWjVyTzdxRUYwTG16aG12VlNYeFpVZm1vTFlUdzVDWDJKei1HY3E4ajdZTzFCZHR1bzF1OHVR?oc=5
+- **Source:** Kalkine India
+- **Published:** 2026-10-20T10:42:00+00:00
+
+## JPMorgan raises Apple stock target to USD 360.00 - ad-hoc-news.de
+
+- **URL:** https://news.google.com/rss/articles/CBMisAFBVV95cUxQenVKQWcwRTJwZGRDTnFDNF93bkdOdGpzSkZ4Qm42MGdaOV84cV9lYUpidF9jVEU4Y0hvd1BhbnA5RlhzVnZpUE91TDluOUNsMTdJQnFJdzVGcFFOTlE0cU9yRE05ZkExTWVtREZrMERDank3OXV6eUl0QUJhQXNWcmh4SnZPNEQ5NWk5UEU0cjc4b1JFbXhGWUczaEp0ODVKbURDdzRNRmQwVHpwc21Zcg?oc=5
+- **Source:** ad-hoc-news.de
+- **Published:** 2026-10-20T09:27:40+00:00
 
 ## 5,240 Apple Inc. $AAPL Shares Bought by Decker Wealth Management LLC - MarketBeat
 
@@ -231,75 +303,3 @@ _Last updated: 2026-10-20T09:12:54.243969+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMioAFBVV95cUxOT1dYaHhfeXlzV1pUMGowdnd0ajQ5OEduQ1d4MW1tN0x4elkzMjhkRlhLZjFyS04wVGFOYzhNVjIyV3oweFdtOThCUlltVGx3bUJ6V2t0Q0lreEVuYzloMnlwdS00SUdCZGJ0VnFOeHpGelZKRFlWX0NSdnJyQkg5T2dsQjZOX0g3OGk1eC1EUDRWa0dqRzVrVWdlRmFGVXR0?oc=5
 - **Source:** grafa.com
 - **Published:** 2026-10-19T16:31:38+00:00
-
-## Deep Hardware-Software Integration Drives Apple’s (AAPL) Underappreciated AI Advantage - Yahoo Finance
-
-- **URL:** https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdVFKSGptT2FQdzNFbzBvTDVGSnF5MkF3UC05Q3FjbjlrVE16UnRKS3VWTzNWUHpOcEU2eTRSemtaT19GMHBWTEV3MzBQYW1rcXdUU041dGFld0ZFUXBldU1Gak1vbEJ4ZlZRQW12NnZHQjJlYVU5QkphTW1tREVpaWdmT2ZVSGlyY2lrS0dMblNYUVRwWjlFRzduWFRZT1k2Umk0UVlIODU4dw?oc=5
-- **Source:** Yahoo Finance
-- **Published:** 2026-10-19T16:31:10+00:00
-
-## Apple to hold second event this month to unveil new MacBooks, iPads (AAPL:NASDAQ) - Seeking Alpha
-
-- **URL:** https://news.google.com/rss/articles/CBMipwFBVV95cUxNc2J3c2VEUU9jczcxUnpYV2h2NkV4dVpPLUNZLWsxRWtyaHBpZUw4X1VOd0d5Qk5RTjhLWVZCYzY4T2lOeml1Z2xzQU9JaVNJQTVrelQyU2ZGVUMwekRtcjdBU0laa3NKTXE3TExlYVVSUzhBSW9WTnByaEVpVG04WGQ0U2RsWFBfb3RraFFwc3FPX0pWMWlvT2hLLXhaTzRLVWdmNGJGUQ?oc=5
-- **Source:** Seeking Alpha
-- **Published:** 2026-10-19T16:14:51+00:00
-
-## Apple Announces Oct. 28 Event for Touch-Screen MacBook Pro - Bloomberg.com
-
-- **URL:** https://news.google.com/rss/articles/CBMirAFBVV95cUxOMVhlX0pGeThXaDUwaTlQWFZ2blJZYU9SUTVQRXo1Rm9JRjAxaE1hbFF3N1lmcHVjeHFLUTZZLVJUNnVvZ3d6WTBpd2s3bXpMN3ZpZmlJV05uT0tFdFdqSW1qUzFrTXdGcU04NUZfOEhacmhhdUZnVUg5X3hUZXE3T3pIMUZTZlRjMWx5OGZIT2JGZXlWa2pvQmlDaFE5VFVPd2xRX3BvdGNtVjRG?oc=5
-- **Source:** Bloomberg.com
-- **Published:** 2026-10-19T16:10:12+00:00
-
-## Apple iPhone Duo Has 82-Day Lead Time: Analyst Names Tech Giant 'Eventual' AI Winner - Benzinga
-
-- **URL:** https://news.google.com/rss/articles/CBMirwFBVV95cUxQcG9Ed2VZVkFWNWNJVFVURUVVREhIUEVDSVNzaXR3WXFHOF9ybzJQeXdYclktSmFNYlJvRzV2cjNlOGtPaVhCOGh3QUJrVmRMYTZYLVdaTzFvbjVVNUppOTdUMWlHTGtKRHV4RzNOSzBCazhib1NmOG1MX2JyU3AwSUJlN1ROY25FUnpDN3BJeEFhTmpCMTFrQjUxR1kycFFsWThXaUJ1OV9XaWs3NExF?oc=5
-- **Source:** Benzinga
-- **Published:** 2026-10-19T16:07:41+00:00
-
-## Arista Networks Inc Stock (ANET) Moved Up by 3.32% on Oct 19: What Investors Need To Know - TradingKey
-
-- **URL:** https://news.google.com/rss/articles/CBMiiwFBVV95cUxNRWR1N2FVWEhfT045WDFZY2ZmaEQ4dWZzaW4xSV9EMG5lcThjVk9aYUpIY2FEM29wTUxpaDM1ekZrYXc1bDdTQ1ZtaXI2dlp1bkRJb3BlckNBVDNZSmNkNXlLM2ZhcGV1ZHZsM1h5cWphc05WU2dMLUV0WlIzZDVXTHRpdF9oSWJyY0Rv?oc=5
-- **Source:** TradingKey
-- **Published:** 2026-10-19T15:15:20+00:00
-
-## Apple Says Smartphones, Tablets Don’t Infringe 5G Tech Patents - Bloomberg Law News
-
-- **URL:** https://news.google.com/rss/articles/CBMingFBVV95cUxPVDFyU29OaFlLVmU5SlRzU3dSZW5ZSzYtd2k3NHhKYXozS2Nycm54WGQxRTNrUm5xYXZDaTRuMy00SEFsN19yTVZFOHlHNFpoSE5EWVU4ZUYtZWgzMlRwdHdnVTRxRzh4MksyUlktLUJRNjhXb2N6Qzg4RjRacEloeG5TRnBzQ1dtQTRZaTQyNm9feHFXQVl1ZEU3aGREdw?oc=5
-- **Source:** Bloomberg Law News
-- **Published:** 2026-10-19T15:06:00+00:00
-
-## KeyBanc survey flags weaker iPhone upgrade intent (AAPL:NASDAQ) - Seeking Alpha
-
-- **URL:** https://news.google.com/rss/articles/CBMikAFBVV95cUxPa2IyNVFMR0RHMVVlT25haDlNdGlRRkF3Vjg4VDVlR01wVXhHdWdXZm8tVWYzcnRsLTZQamo5bERBbEg0ZVJxd1d6R3NCNmRYZC1MYnBFNE5EeF9UUGlHYkNnSmlpZ2I4eFpmb08yQWNhcjV4bVd5MGVwRmh5dzhRWEJtcmdVa3hXeDJURGVsbWk?oc=5
-- **Source:** Seeking Alpha
-- **Published:** 2026-10-19T14:19:54+00:00
-
-## Apple acquires Swiss Samplab - Startupticker
-
-- **URL:** https://news.google.com/rss/articles/CBMic0FVX3lxTFBkWDZDbnpCSmYtQjVXYVJPMXNXOHlxUDh5b1R0bFhTMm05czJwdThZRTRUQ2J0Tm5MV0ZoNGZ1Sm53SUZudmhEMzZ3SGtuNGJaZDhZbWk3Ml9LRU1PWDF1aTRYaVM1cy1LMTZJSzVyZHcxaDQ?oc=5
-- **Source:** Startupticker
-- **Published:** 2026-10-19T14:14:16+00:00
-
-## Apple stock forecast: Likely range-bound near $344.16 resistance as buyers remain active - Traders Union
-
-- **URL:** https://news.google.com/rss/articles/CBMikAFBVV95cUxOWUd2VkVseHczOENWbVllN1VBcW5jcFRwSjhyWXB1eFJOSEZHY21JZWxWWjU5VU1oVjNIRW1OZEwzX3I3UkJNY1hxZEdGUlNYc0pKX1hXVmtQWEVmNUtsalNrUDlhYnppUFlpMnlPX3JmeHh5VHFSbFgxc1p6SEdLQ3h3bkhRWHR0RHM5TGtpM2Q?oc=5
-- **Source:** Traders Union
-- **Published:** 2026-10-19T14:07:26+00:00
-
-## KeyBanc reiterates Apple stock Underweight on upgrade concerns - Investing.com
-
-- **URL:** https://news.google.com/rss/articles/CBMivwFBVV95cUxNcjAxREtuXzF0cWY3MU1Xc2pISXFub2NKN0trSnBCMFBCZFZ0N3Nuall6SkdmeW8zUE1RSzhnSEl1SmZnN2dvZnVfVTM4bGdkaGI5TEtyT2Z6VHloc3pCOFdUSDJ0ZnZXc2tHZW9wR3pNU0dRNW16NmhPMGlMQ2pyS2ZTRFRhaDUtUGN4cGZoeWV4c3Vnc01KR0FZNUpnR0NYUjVvVmZtLWEtVldOcDl4SmNUT2l6S0VLWUt6TWFLbw?oc=5
-- **Source:** Investing.com
-- **Published:** 2026-10-19T13:46:26+00:00
-
-## Apple Has Outperformed the S&P 500, but is AAPL’s 35x Valuation Getting Ahead of its Growth? - Yahoo Finance
-
-- **URL:** https://news.google.com/rss/articles/CBMimgFBVV95cUxPQktMTU1uNVZmQ2FrWGRhaEtuNzlNelk1aThiSzF5eGxySzA4OFZGUjItdUZGVThxOW5ITjU3U3ZscWRJQXRKb3RZcnZxZjNWMmg1X2E4RDVWVC1HR2JmdEtIWFlickNOSFFUM0RmMWd2Q1otVGE3Vk9yX1k5ZzhMVTdYTTA5ZmdJNTlyc1pfMm5zU3ZtSTBnMVVn?oc=5
-- **Source:** Yahoo Finance
-- **Published:** 2026-10-19T13:33:12+00:00
-
-## Apple Has Outperformed the S&P 500, but is AAPL’s 35x Valuation Getting Ahead of its Growth? - Insider Monkey
-
-- **URL:** https://news.google.com/rss/articles/CBMi1AFBVV95cUxNMmpSc2xQSnV4UGFWazI1cEdfZDZrWm0xSXZ2d3dtU0NPcmJWY25RRzdKNVphSDdkTHMzdzNmbF9IMThGbG5SMVRndzFsbkY5U2FGdDlKcGYxWHNNUTBCZGxydkVXLWpsZ3NobHc1QWRQNGpQSllqQ1pjd2k2dXJJZm1oNkZuVXhXU0RWRERQbnRlLU5KU1lvbEdqQ2pPSmoyT09FNng3R1FUVk5DUHhwWE9ZUDJrYXRsTnU3ekVnQy1xM1lRczFFNnBBbDRrLThFeEQ1MNIB1AFBVV95cUxNMmpSc2xQSnV4UGFWazI1cEdfZDZrWm0xSXZ2d3dtU0NPcmJWY25RRzdKNVphSDdkTHMzdzNmbF9IMThGbG5SMVRndzFsbkY5U2FGdDlKcGYxWHNNUTBCZGxydkVXLWpsZ3NobHc1QWRQNGpQSllqQ1pjd2k2dXJJZm1oNkZuVXhXU0RWRERQbnRlLU5KU1lvbEdqQ2pPSmoyT09FNng3R1FUVk5DUHhwWE9ZUDJrYXRsTnU3ekVnQy1xM1lRczFFNnBBbDRrLThFeEQ1MA?oc=5
-- **Source:** Insider Monkey
-- **Published:** 2026-10-19T13:33:12+00:00
