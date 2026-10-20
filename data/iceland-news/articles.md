@@ -1,8 +1,26 @@
 # NewsWatch — Iceland News
 
-_Last updated: 2026-10-20T19:51:46.356512+00:00 · 50 articles_
+_Last updated: 2026-10-20T22:57:41.102337+00:00 · 50 articles_
 
 ---
+
+## Minor mag. 0.4 earthquake - Iceland: 5.8 km WNW of Landmannalaugar on Tuesday, Oct 20, 2026, at 09:59 pm (Reykjavik time) - Volcano Discovery
+
+- **URL:** https://news.google.com/rss/articles/CBMif0FVX3lxTE9VQlRub3pfbGFmbmVteWkzZlJXcGhKdFctUG81R3M5TXY4a1h3RmpGal91ZGRic29QbUxnd0pkdTVORm5CZTVjME9PNURMeV9yY3FfR3pDUGNDdE5BbjB4TVBITkFUcXNxNFNncko4RFVwdTJMcHBtMk5RZUhFdms?oc=5
+- **Source:** Volcano Discovery
+- **Published:** 2026-10-20T22:42:14+00:00
+
+## Minor mag. 0.2 earthquake - Iceland: 5.4 km E of Bárðarbunga on Tuesday, Oct 20, 2026, at 09:27 pm (Reykjavik time) - Volcano Discovery
+
+- **URL:** https://news.google.com/rss/articles/CBMif0FVX3lxTE10OU9tenBQSXRyR1hIODlsTDR3MEEta2pud0R2NTkwcEdYOEgtbFpCUmdEeEQ1ZTM1V19ESW5vcWR0VDVyekdHc1lHa01JMzBnQm9xSENXZUp0MDVlVUhvNTlBekZub0l5ODd0ZUFwLUtNSEJGOElvWmJaU2tZV00?oc=5
+- **Source:** Volcano Discovery
+- **Published:** 2026-10-20T22:10:03+00:00
+
+## New forms of sexual violence against women prevalent in Iceland - Harvard T.H. Chan School of Public Health
+
+- **URL:** https://news.google.com/rss/articles/CBMimgFBVV95cUxOQnExRnhLNFFtazdEOXFqZ0xsQ253bG9xT0pYTFZaS0Y4LVY1emdEcXhETHB1TmxGelRXNHYyNlh4dzVRYmc3VGl6OEpLTGY4VkxRUUhjajZLUjNXQ0EyOUlpMjBlRUU4Z1p6WXVXNnJmdnhfNEMxUWo5eEZDOTdad0g4UVVjWllQakp2OEE3S0FFT0VhWUd5WTF3?oc=5
+- **Source:** Harvard T.H. Chan School of Public Health
+- **Published:** 2026-10-20T20:27:27+00:00
 
 ## What Boston and Iceland Learned From a Sold-Out Summer of Live Tourism - Skift
 
@@ -285,21 +303,3 @@ _Last updated: 2026-10-20T19:51:46.356512+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWXp6Wi1xdjJzMzJQX2J4eUJPbXhaWVJHd2g2cXNHTEc0TDFHbVM1bWNmczg4S181N3FrMEpsaU90d2JCSUhhRndPUVl6ZWllTm1kblo0UHhjWHJxaU9GTkZvYXI5RHRjTzJDS3lVUUlneEIyOWxORXBqOVN6QTZELTRlbTFCOUVUX0RsdGhRUXpHMFFsbkNTSUhRcWc5OURSM3RhLVd0aUFkUWxkWjhtdi01QXJQMzFXU2kwd3JHSXE?oc=5
 - **Source:** Volcano Discovery
 - **Published:** 2026-10-19T13:39:32+00:00
-
-## Iceland Considers AI for New Teaching Materials - Iceland Review
-
-- **URL:** https://news.google.com/rss/articles/CBMikwFBVV95cUxQMmVWcndTa1luYkhQVG51am1lMXJQSVhWd196MnpyRmVEVmNFdXFsM0JLVEh1TW1lTjJMbUdqS0pmNE5ZRW9EQnYxcmlZc290Z2lHczV6OVJ5UlExcjVJQWpOdWFmSmw3LUswOUM0emhOMFVmTDFMVXdkNGY0aXFZelBUc1pFMDdKSzhDMVVYVHd3ckk?oc=5
-- **Source:** Iceland Review
-- **Published:** 2026-10-19T13:00:04+00:00
-
-## Weak mag. 2.7 earthquake - 5.6 km ESE of Bárðarbunga on Monday, Oct 19, 2026, at 12:50 pm (Universal Time) - Volcano Discovery
-
-- **URL:** https://news.google.com/rss/articles/CBMiwgFBVV95cUxOOGxRbHAzUVotQzdieUZvVkc1OXpTREoxZVBmTVVDTkFlYkhNMkdGaFBDMTdKb0pNQ1JiYlRiTlI5cmRQZTNZMjZaTGhpbnFvNHcxcXVmTEJqOG5EN1VhS2UzQ2tkczkwTUt1WHMwRkl1eHE0NUprMmxsdG90UUxwR2FjMzlwcVd1ODRMdGFtVFVjZ0E0RmhyM3pHaDNZRFZDa2t5MzhfUS1vY2YwUFhDUnoxc0FhLW5ZUzhhdW1Cc3VNUQ?oc=5
-- **Source:** Volcano Discovery
-- **Published:** 2026-10-19T12:52:15+00:00
-
-## Light mag. 3.4 earthquake - Northeast, 220 km east of Reykjavik, Capital Region, Iceland, on Monday, Oct 19, 2026, at 12:51 pm (Reykjavik time) - Volcano Discovery
-
-- **URL:** https://news.google.com/rss/articles/CBMioAFBVV95cUxPR243TTR1RTd2N2FhV0NKZTJBLXROWldnaV9OV2tJMGJrQTQtOFBOM3JSbVRlS2dUNHp0UXNNM0VMYWc0TGZqWDdyZ0VDR0p0VW10bnNIaUMyRVNXYmdfdWVEb2k3RkdyLTJ4Smc4bjhHQTZjQWtuRmVYQTRtdjNqcVFvVjhMNDBtT1FJQ2dQdFZyNkNnbExNU2ttcXAxZ0RM?oc=5
-- **Source:** Volcano Discovery
-- **Published:** 2026-10-19T12:52:12+00:00
