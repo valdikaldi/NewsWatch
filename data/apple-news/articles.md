@@ -1,8 +1,50 @@
 # NewsWatch — Apple News
 
-_Last updated: 2026-10-20T14:45:38.825002+00:00 · 50 articles_
+_Last updated: 2026-10-20T19:51:45.224381+00:00 · 50 articles_
 
 ---
+
+## Apple unveils new suppliers for iPhone Duo - AzerNews
+
+- **URL:** https://news.google.com/rss/articles/CBMiVEFVX3lxTFBESGlUbURyWkNZMVM1WENSbTE0aWVCU3lFbTRVM3hLOVRfU0EzUFRxcTlWTmJUd184SUxVR1VaUllMQjFKOUpwOFByS2JOc2ZnaS1pXw?oc=5
+- **Source:** AzerNews
+- **Published:** 2026-10-20T19:30:00+00:00
+
+## CPI | Apple Faces Fresh UK Pressure to Open iPhone Payments to Rivals - PYMNTS.com
+
+- **URL:** https://news.google.com/rss/articles/CBMingFBVV95cUxQWS1nel85NWtES0FjRGp4M3VtbHoxT0NVQWRfOGdjUkJzMHh3VXZsMnZEWVk3dnlLWGpaLTJLd0FBWTc0ODhKTDVjQlRTa0NvM3NkNHFHUTF6LUZCMWNVczFlWk9DbGRQWXVQMm5UWURhUDVYUFZoajQtUGlXY1pGNm5GSUgyeWFKYmVKN3pVM2VQdDlELVNKdEFZTG9EQQ?oc=5
+- **Source:** PYMNTS.com
+- **Published:** 2026-10-20T18:52:50+00:00
+
+## Apple faces gross margin pressure as UBS flags slowing iPhone growth ahead of earnings - Proactive financial news
+
+- **URL:** https://news.google.com/rss/articles/CBMi7gFBVV95cUxQQ0JCX2tFazJLLV9aOGxkNmxMS283dHZMaEozWGlLeW00U195ajI4ZERjUEhCN3RiLXh3cV9wYXI0d3pCWWhITGVuOFhlTkZpSHVFRTFmUlNOM3JuajJsMDd5b1BjeGxzYnpvSHRhWlFTdUV3NnpVUjRucGdoSnhmaXFZYVFUdDlyNFBsUXlJR1dJcWotUmkyYlNZZXp2Zy1LSlZXUVNIRVNKR1JZUy1USlFyLWNwWnBHcUpBM1lvRllFS19yeFdjaW5udy1Bd2FmWkZWVUxWUGlhZHQ3Y3dVejVEWXBCRHRtTG5sMnZ3?oc=5
+- **Source:** Proactive financial news
+- **Published:** 2026-10-20T18:46:00+00:00
+
+## Apple faces UK regulatory push to open iPhone contactless payment systems - Business Standard
+
+- **URL:** https://news.google.com/rss/articles/CBMi2gFBVV95cUxPbUdBdDN1Z2Jhekh2c3pOcTgybDV2V3VqcUVYX1VTMUp0MFhLVW9PWG9kWjZ6MV9md3M3QThsWWpUaV82STg3Nm9qaEZPeUlvRDdsNnhYQjI1OEN5bUI3dV9YOEpDTkNSY0d4YTQyQ1NLZnpMRzdxbkFMNk01b055RkY0c0hxZWg0WFJIOEZsWEZxSXpfQTQtXzMtU3lmQmkwQTg0Z09NSXVnb1RXamt0TzQ0cGt3SkNRVFFSV1F1OVJSbC1MLTRJWEVOVk1IM3ZtTWo3QUdOQ1Vhd9IB3wFBVV95cUxORTAxaUxaUjk0eVdNM2VZV1hpMTh5UlBRSlRmcEtCWEVUa3E3cW5vWUt1N2dPNUZTSk1wYm5kZHNPcTA0RGwyOFVyeFZseHR1aTZUajFTRmk3YWlEWHh3MUxHZGptMFBqdzZ5TkZtWTZEb3Y1cXEzX3IyaUR4STlKWjBNU1d5VnpiY19mdlZsbzE4WFNqTE9TeWstUkVadTNEMFVIeUlGTnlKOXAyMFFhMkdjSDM5a1Axbk5ReENnZ1JERXowWVo3S01MWldQNFVnQ1dvWHZ4OUpsNjY0dDZj?oc=5
+- **Source:** Business Standard
+- **Published:** 2026-10-20T16:26:04+00:00
+
+## Inside the U.S. Suppliers Behind iPhone Duo and iPhone 18 Pro - AppleMagazine - AppleMagazine
+
+- **URL:** https://news.google.com/rss/articles/CBMib0FVX3lxTE54blJZUkZjZVhmQzFSOVlSaXk5cjRLTlZpdER1UHkwLXFxOHlQQ3g1SGJzLVctOVBTOS1HREtPMHFsTTBsVERmbFhuUDB0OXEzTWQwX0dHLURUTXZLSDdFRlpIcEx2M3JyZzhmRE90QdIBb0FVX3lxTE54blJZUkZjZVhmQzFSOVlSaXk5cjRLTlZpdER1UHkwLXFxOHlQQ3g1SGJzLVctOVBTOS1HREtPMHFsTTBsVERmbFhuUDB0OXEzTWQwX0dHLURUTXZLSDdFRlpIcEx2M3JyZzhmRE90QQ?oc=5
+- **Source:** AppleMagazine
+- **Published:** 2026-10-20T15:52:53+00:00
+
+## UK regulator starts process on opening up Apple's digital wallet to competitors - Seeking Alpha
+
+- **URL:** https://news.google.com/rss/articles/CBMitwFBVV95cUxNNkdoQ0VXLWpERXhDdVRLbHk4WlVHWjFhSTJOdjg5RFZYNEJCd3J5RUZJcGVkdWRhTG1uc3VIT1lCTjZUVC1RLWhEcE5jQVphWVdTR3NTWW45Nzc4WG9wWE5qTmRUaEdMVXV4WnZ2Q0piY3Z2Y3FKaUJfNzVHU1UtRXFsMHdybFFCa3VSb2N3U0ZHX1pvaXUtQl9vOHBRNm9qNVVsdnFXb0dPV083a2wyRGZMazE0Nnc?oc=5
+- **Source:** Seeking Alpha
+- **Published:** 2026-10-20T15:14:43+00:00
+
+## Apple stock: JPMorgan raised target to USD 360 for Apple stock - ad-hoc-news.de
+
+- **URL:** https://news.google.com/rss/articles/CBMiwgFBVV95cUxPODBhV2h6ckVtamItYW9vMXVvMm81X04wVm5qelVid0ZLX2ZjQXhFNXBTdHJvaDBCMEhfNEJSZEJqRUlGNkxmNDd2MF9oeWFSMnBSUEt4VkdxcTdZaEhGR2k4U3FwXzdxckI2eU9jVTFmY3JyRUdfRUlWb2xFNVN2OUE2N3RaWXR6alF4YjV3NjEwYzJTdEZwWVJjWkdzLUY3M3FENER0UHQyMTlaTXFCMmJJZkVmQ2FYcHVGV19LMTlTQQ?oc=5
+- **Source:** ad-hoc-news.de
+- **Published:** 2026-10-20T15:07:52+00:00
 
 ## Apple Q4FY25 Results: Revenue est. $113.07 billion, iPhone Duo launch nears - scanx.trade
 
@@ -261,45 +303,3 @@ _Last updated: 2026-10-20T14:45:38.825002+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMi3AFBVV95cUxQRG1xRUdDaUxzSUx6RTZoejZxMlhic2J1WDB4akl0c2NiSjlMSVFOR0xvNnZCTUNMOVhmdXNUYTJxZm1QUGxKTkVHcTBlc3F1akhvTEZMRUxDZGxVQVJzUjZEOWNhX3hzaGlvYS1VckxsQWxLUkFGT2xvc2FhSDBidkl2WHphVUtCY194eUtkZ1hLSV9kb1RfenQ3aXFrdWxDT3RCdFB5dlFfWUtWeUxMWVR3MnRYTFg0d3ExczV5QVhoVFJLRVl3QmhTSFNIR00yYXU2bjcwUXJKSUV00gHiAUFVX3lxTFBoSllRLUFQRzlnRlpnWWppSmpoMlFWZmJiOHg4Yzgyel93N0RDR1c3SUhHRThFWnU3MjJoUnduTDYwamg1ZkRXQ0REVjJRMmlDa1VpVHh1M1JhUFpqNEROaG9FV240S1RYTUxOWFRMNEs2TFBUVFNtc2d1dnFLWnlZdWZKWGdhSkRoeDhVRV9lc2JZRjFnTm9nR1pzUUFQMGEzdFNvYVJYSDdjUjl5Q0F2R0VUZ0dUM21IUVFMMHlSek9wSmdtVjhNS0RjZ0tjem9fSEZMb2hWeXgyUXFxQVVQVWc?oc=5
 - **Source:** Asianet Newsable
 - **Published:** 2026-10-19T18:40:02+00:00
-
-## Apple Is Winning on Price, Not Units, KeyBanc Survey Suggests - TradingView
-
-- **URL:** https://news.google.com/rss/articles/CBMiuwFBVV95cUxOcVhveG5oNS14UnJaV1k4cnNZTjMtZkxDeUFLQnNiTjhlNnZoeEQ0VFAwM3VBRVFxTm1uYkgtRVE4TzRrS3FKd0piU1hLbVJDLXFtaTVnSDhsdnhSc2tpODlVZXUwb2o2UUxLWU9VQTIxVGI1WFdsQ2xKU0lreU5KNWstZ3RZSjlIbDNnWnNwQWtucjB1eVQ5LXFiYnJ6WXEzeVdrU3RlMmhETmxjbTdUTUNYR2tXd1VyUEU0?oc=5
-- **Source:** TradingView
-- **Published:** 2026-10-19T18:06:10+00:00
-
-## Apple Confirms October 28 ‘Pro And Tell’ Event — First Touchscreen MacBook Pro Expected - Yahoo Finance
-
-- **URL:** https://news.google.com/rss/articles/CBMimgFBVV95cUxOdnF3Y1plRXJMM0lLY3Z3d2dMUjhjeFZYa3FxRW5GaklUbVl4MXhqNDdfc3dYQnZpczZic21YVkVPQ3U3c2hBN2cxampYazRrSzZqRkEtenFJOFJtUjFLRGxQUWVvQUd6MTcxclNCOXg4bjBkQUNCOHBjVlB5bVRxbktwbGJrVERPYjdxWnc2alZCS2pGMXlBQlJn?oc=5
-- **Source:** Yahoo Finance
-- **Published:** 2026-10-19T17:43:20+00:00
-
-## Apple Sets October 28 “Pro and Tell” Experience in Los Angeles - AppleMagazine - AppleMagazine
-
-- **URL:** https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1CUTN3MGt5QWtKMnFOREx4SWxSUEJjaFM2eW9iMUFORjRoQ192c2xjM050S05rdnphbEd6cXBuOW1wSlZhaGk5Wmg4eFZMejlmTnVKbFZoVzJEV3hIQlBxdUZJR0dNXzDSAWxBVV95cUxPbDN2RDR0b2tsS2dBZ0JiTk1CaktfWENSRS1qSDNQb3lUanNYQ2FfRHI4T0pQLXVqV0E3SmR5c0dGUHBpUEplUWtyWVhOSDdaMEFjOVlCN2NpUFRENndlaDNiQlhjQkFrVk43eDY?oc=5
-- **Source:** AppleMagazine
-- **Published:** 2026-10-19T17:27:46+00:00
-
-## Apple announces product launch event for Oct. 28. Analysts expect touchscreen laptop - CNBC
-
-- **URL:** https://news.google.com/rss/articles/CBMiqAFBVV95cUxNXzlLcVM0Vkt4TUZFTmxfWXE1VzFUcUdTV1F2ZzBXTlVYMTdZMUxHN1dPM2hKODVKOXozSmc3aDF1RmxJbHdfT3RaajBvb3ZCaTB5VWFnSlNPZ0JEaTlsTVlvV3VLYjBBaEdseXNaaW5QMWZtS1pEWW9PZ3l5TElQTGJTWnY2VHNHdG5NOWd4MHRvUlhXaFdJaERwTHdyUkJZSWgwZTVBNk7SAa4BQVVfeXFMUHFCU1V4Uk1KWU5aUFhicVZWS1hIOHd2QkZFZ0owLWJSbk9zOHlYZ1lCcFoxVHRPUUU5dy1kNjlva19PM3lsQkNqUVRWUnU4OFd3RnFRSU9PR3VrcTZDMndSWUJScWNuVzUzVzUzbVhsTkx5V05nWFdjeWZUa3dTRHFDaGV2SE1KYjdKSmpYZ3pvb0hZUlliQlhjV18yVlNnLUNLQXFSN19kVzczZjN3?oc=5
-- **Source:** CNBC
-- **Published:** 2026-10-19T17:24:49+00:00
-
-## Broadcom Inc Stock (AVGO) Moved Up by 3.16% on Oct 19: Drivers Behind the Movement - NewsBreak: Local News & Alerts
-
-- **URL:** https://news.google.com/rss/articles/CBMi1gFBVV95cUxQRzM0Z3g5M3RLV1g0NTNsZ1BYaUhITzVGU1Q2WGFBNGxzdmdkNHNsdEJDaFh5NTVSSWhjeGpzMlVlOU5XZUREbGtrWWlGQWtLc1BreVlRNEtHVU5BSVNjQUdnR1NMVm00Z3c5T2RJRkRab182QzZNQjNZQUlKWGxhZ0hJbndMelVFZ1BIczI2Q0k2M0dXZDNSWURycTVUdjlsVldoZzJNempCa2U0cFZOU01HM1M2WjFvZFF6eHRFWTN5RGxSUFJZbUc1QXpiR0M3X25ZbUV3?oc=5
-- **Source:** NewsBreak: Local News & Alerts
-- **Published:** 2026-10-19T16:52:14+00:00
-
-## Apple (NASDAQ:AAPL) Rebounds With Chip Peers After A Sharp Market Slide - Kalkine Media
-
-- **URL:** https://news.google.com/rss/articles/CBMisgFBVV95cUxPMzBfTWN5N3dScVZCRkppS3RoYnFXSFBJaG9BV09FTE5uRXhHMUlvUkVrS0tnaGdHRkVaaGw4STNObGlSQi0zb3owUHphTndfeDZudkxyVjJuekdncFFRRXdLR1gwSHp2MkxUNjF6eTUtNHpOV2xRN2hOWUUyckJuWGlvQnZjWTZpeXpHb0R2TDkyQ2lGNS1sbThJMjVhbFd1UnRFbnBaakhGaWl4MDU2d0Zn?oc=5
-- **Source:** Kalkine Media
-- **Published:** 2026-10-19T16:37:00+00:00
-
-## Apple Faces More Damages After $5.7 Billion Patent Verdict - grafa.com
-
-- **URL:** https://news.google.com/rss/articles/CBMioAFBVV95cUxOT1dYaHhfeXlzV1pUMGowdnd0ajQ5OEduQ1d4MW1tN0x4elkzMjhkRlhLZjFyS04wVGFOYzhNVjIyV3oweFdtOThCUlltVGx3bUJ6V2t0Q0lreEVuYzloMnlwdS00SUdCZGJ0VnFOeHpGelZKRFlWX0NSdnJyQkg5T2dsQjZOX0g3OGk1eC1EUDRWa0dqRzVrVWdlRmFGVXR0?oc=5
-- **Source:** grafa.com
-- **Published:** 2026-10-19T16:31:38+00:00

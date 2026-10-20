@@ -1,8 +1,32 @@
 # NewsWatch — Iceland News
 
-_Last updated: 2026-10-20T14:45:39.833055+00:00 · 50 articles_
+_Last updated: 2026-10-20T19:51:46.356512+00:00 · 50 articles_
 
 ---
+
+## What Boston and Iceland Learned From a Sold-Out Summer of Live Tourism - Skift
+
+- **URL:** https://news.google.com/rss/articles/CBMiogFBVV95cUxObFNHS2x2TW9zZU5heTFXcXpfYXA3dTZDUlFMRTFUd1g1bHdaNnRTMDNnRUEtdWNRbFVWYXMzQTZVdUQwS2NpdXBwRDFuV1FTbWg5a1B4NjNLaTRGNGcya0FYYy16cFFqUkRNYWxQQmtVVms1WmxZTlUwaXpQbFZnN1lzWWhnb3hxV2EwenZnbzg1UzNmT0E2Yy0wYzlQSm5zYUE?oc=5
+- **Source:** Skift
+- **Published:** 2026-10-20T16:46:05+00:00
+
+## Rope rescue teams to search for remains of Lúðvík Pétursson - mbl.is
+
+- **URL:** https://news.google.com/rss/articles/CBMimwFBVV95cUxOdU5oekRmWlJSNHhpZDZYMWE2dkFQX2lULVE2b0E5NE40aHhPVkpHd25FRnU2LUo2d00wNG96NGZOclVzTllHZFNBNkpiZW9IZXlTQ2dPdkpxcHU0QWNOclhvWWx1TFBTMERKMzNmX1ZNOHNfcUV5ZFB6V01WMXBvS1J0amR0Z2IxN1l0S1RYMnZzUEFtV3ozOVJQVQ?oc=5
+- **Source:** mbl.is
+- **Published:** 2026-10-20T16:27:00+00:00
+
+## New ferry link proposed between Aberdeen and Iceland - The Times
+
+- **URL:** https://news.google.com/rss/articles/CBMilgFBVV95cUxPaXJ1NFZQZmU3ZWxTQnlMcFBGVDRWY1VDMjFxUGljQXFUN0R1aFBvQTZNcmdnYVRPdDZHMGJpOU81MF9rWVhXcjU3c0Nuc3dkUUVWV0pib0xiODFwc3A0SkRqckxqbVgyOHlSZ1A4cmVHbHc4VHhoaWxXTE9vUmFsaWFDN2kyOHhVaUpLLTA4T29IQktWclE?oc=5
+- **Source:** The Times
+- **Published:** 2026-10-20T15:55:00+00:00
+
+## Discover the film locations for Supergirl (2026), around the Cairngorms in the Scottish Highlands and in Iceland. - The Worldwide Guide To Movie Locations
+
+- **URL:** https://news.google.com/rss/articles/CBMiZkFVX3lxTE1USUEwakZRMEFZQ09IMEw1eFVfdVBtRUhDZ3dJaWhlNlUtelFfQ1B4OXN2UVhTY0V5SzJpSmNJNXB3UFVlZE1UZ3hwVmJ5ZVk3bzRkVXE3aWxkREhEQVpHWVdvMFV0Zw?oc=5
+- **Source:** The Worldwide Guide To Movie Locations
+- **Published:** 2026-10-20T15:13:05+00:00
 
 ## Minister Open to Exploring Self-Driving Vehicle Trials on Heimaey - Iceland Review
 
@@ -279,27 +303,3 @@ _Last updated: 2026-10-20T14:45:39.833055+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMioAFBVV95cUxPR243TTR1RTd2N2FhV0NKZTJBLXROWldnaV9OV2tJMGJrQTQtOFBOM3JSbVRlS2dUNHp0UXNNM0VMYWc0TGZqWDdyZ0VDR0p0VW10bnNIaUMyRVNXYmdfdWVEb2k3RkdyLTJ4Smc4bjhHQTZjQWtuRmVYQTRtdjNqcVFvVjhMNDBtT1FJQ2dQdFZyNkNnbExNU2ttcXAxZ0RM?oc=5
 - **Source:** Volcano Discovery
 - **Published:** 2026-10-19T12:52:12+00:00
-
-## "Simply the worst we have ever seen" - Iceland Monitor
-
-- **URL:** https://news.google.com/rss/articles/CBMijwFBVV95cUxOSUx5UU5hYXE0djFUa2JjSUVLWFZoUmdZNEtlZ3hXVHhkTnd1R2Vtc2NxNUhJeFVjYWZ0eWF6cFdkZ1ltX2lBbEh2WHJObnAycnVTY1JZWk9DMUZ6YlFLRG9peG4zUDJaU0VBUTBGUTk0OVVsSzdMUDdSeWx3a2U1STFLdTdncTFicFZ1UVFhQQ?oc=5
-- **Source:** Iceland Monitor
-- **Published:** 2026-10-19T12:10:00+00:00
-
-## Hotel Kulusuk Closes for Winter After Iceland Flights Stop - Iceland Review
-
-- **URL:** https://news.google.com/rss/articles/CBMijgFBVV95cUxPbmRTU1RQMXZ0aGlkaFNaMzBVNGJUdllxTlRxMERJWllHYVVHbGdrTGJOcDA5VVBNVXZLRDNLbzI3NVBfUUlvTDFxM1NUWWJyQkdrVG5OYVVrYVNPVmtockRjdUt0MWFTcDBydnRfbDNmQ3hBakw1T1JRcEEzbVpfYlJic0hER0w5MU8tLVR3?oc=5
-- **Source:** Iceland Review
-- **Published:** 2026-10-19T12:00:32+00:00
-
-## Delta Air Lines Adds a New Direct Flight Between Boston and Iceland - Travel Market Report
-
-- **URL:** https://news.google.com/rss/articles/CBMitgFBVV95cUxOYkRmcWR6ZmhuQ0ZuNXBCc2ZSbm1NRTNJTElqZkxtUXpqbk5abzh3U1FKV3hCY3BsZ3J4a3dsaWtpVTlUenJKLTYzbnZ4NXZjYmJRVGI5N0RoNnExZjV5alU3bTJfdnpGWjlvZFFINF9nTUhUVkVld3FseU1Tckw4NV9SbUZ5MFRDdldwWXJMbmpKSTFmbmJ1SGZvYldSRlZaT1ZtNEtKMjZlRENGTXNlN3NjbEJJUQ?oc=5
-- **Source:** Travel Market Report
-- **Published:** 2026-10-19T11:34:30+00:00
-
-## Illume Awards 2026, Mario Andexlinger, Öræfi, Iceland, Thomas Klocker / The Illume - PlanetMountain.com
-
-- **URL:** https://news.google.com/rss/articles/CBMiW0FVX3lxTE5lci1RSWh4UWdiSXdlNnRQTW5BMEI4c2tZcks4UnVSTldMekpFbDVqZzNPUEkwcVJlU1FGSzNreXRKVWVFbm5sRmpTelN1WlpUNl9LSXQ4TnBURjQ?oc=5
-- **Source:** PlanetMountain.com
-- **Published:** 2026-10-19T11:21:27+00:00
