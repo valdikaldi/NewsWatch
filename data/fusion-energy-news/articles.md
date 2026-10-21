@@ -1,8 +1,110 @@
 # NewsWatch — fusion energy News
 
-_Last updated: 2026-10-21T09:10:01.333553+00:00 · 50 articles_
+_Last updated: 2026-10-21T14:54:11.040781+00:00 · 50 articles_
 
 ---
+
+## Back to the future: The abundance and scarcity of a remade 2056 - Dialogue Earth
+
+- **URL:** https://news.google.com/rss/articles/CBMingFBVV95cUxObURyM1VFTUxCbFlocjkxcFNjdlNXZl93SVdHckxZcWxfWHN5QmlFQWN5cUpLOHl2dzhkbzRQMFl3RDVnRnFjNXpoLTVlN0ZpMGhaN25UcDQxV2tNYzV3c29SN01sS09JVkZxeFRpeG9sa2FUQk5TZFFfajlaUkM2ZmsxbVlQVklFUlVadFQyLXh5aXlVRjVvNmJiamFmUQ?oc=5
+- **Source:** Dialogue Earth
+- **Published:** 2026-10-21T14:44:30+00:00
+
+## Spark® Wild Plum Fusion’s LTO Launches Today - The Joplin Globe
+
+- **URL:** https://news.google.com/rss/articles/CBMi3wFBVV95cUxQTF9Uc0tpc2U2YkNRdEZrQ0JKUkRHZkZlc2FOUGgycnpxODJ2Wl8zUzVrU21qMGNZUFFZdW9DeVNMOUlESzhwUXctOU1kUmp4clo2REk1dGtTd1hVYXF6S25VWDAwMHotVElMbUVjWVJ5SEYzLWhEQ0xWRjBMVUQ4N29tT0hTdmx3R0lTYVJMYW9IQU90SjV0bTR3VGVfQU5kRGJMSmZseWNQVTBGWlNiNkFWNjhYVF9kT2Z4dHhnLTMwUHJGalZqaVBiY0haUmRQMG5vWlI3UjlocFF4WHdJ?oc=5
+- **Source:** The Joplin Globe
+- **Published:** 2026-10-21T14:33:35+00:00
+
+## Spark® Wild Plum Fusion’s LTO Launches Today - Morningstar
+
+- **URL:** https://news.google.com/rss/articles/CBMipwFBVV95cUxOUGZjcmdDSW5NTWd4YnVDQVdZbXhZNEVvOVZHTFd5WE8wRnV3ODFWeWtDay1MLXVPNzZVZTFlR0YxakhVMnlWVUNkRVp3aWtyenRvSHM3LTdad0JJanZLa1BJaXZJa0NKSlM5RFhsX0RHNE9INTJFNE9zQ0pYWF92cmZlRzhxaFhyblZPckJobnpmZjJQT3JRSWRzUWVvV2JIWFlBRG50aw?oc=5
+- **Source:** Morningstar
+- **Published:** 2026-10-21T14:33:00+00:00
+
+## Second round of Genesis Mission selections includes 12 Phase II awards - American Nuclear Society
+
+- **URL:** https://news.google.com/rss/articles/CBMirgFBVV95cUxQNWN0U1ZaUUJFQXNuLURTUTU2eFRWZVlHWnAyemJGS3ZCNjd2THU5d1NmVUVudmlYTHVEX04tbGRoRTkxU1NwZ01yb2daRzh0Ui1WY1MxZGZlekNodDNYYU9UWThKQVhzd1dsZTdmTkdoS2Z5ZFJYZ094MUs5ZDExVTVOazZiVXd4QTJNZmdMRnJOc3RrT1lWTlUyeVg2b1ZpTUJzb0VKWUFENDFCRXc?oc=5
+- **Source:** American Nuclear Society
+- **Published:** 2026-10-21T14:29:18+00:00
+
+## Advanced Reactor Company Ampera Submits Regulatory Engagement Plan - NucNet
+
+- **URL:** https://news.google.com/rss/articles/CBMipwFBVV95cUxQUUxBRHFnUVl4MzFyRWZjUUMzLTJ5dWxaaGx2Qy14WDBONlVEV25KWVQtMDN1Skc4b0ZZOERvUXJWa20xYWgzQnBhVGJLMTk1bkFpQzhJZGtFWDI5NUdHcEM0aGs1MlVfdEdDcmxyc0JENmFtUS05MW9teFl2d1ZHWkwwVElpMVdxZEx0OXJWSHJRaHdJcjNpLUdDbW9CRVI4eWNSOEI4OA?oc=5
+- **Source:** NucNet
+- **Published:** 2026-10-21T13:43:32+00:00
+
+## The AI Boom Needs Superconducting Wire, Not Another Record - RealClearEnergy
+
+- **URL:** https://news.google.com/rss/articles/CBMivwFBVV95cUxPU1ZSb2NiLVJXRkNmVVFlSWZPeloyQzFzYmctOU9pY0RjQUM3S1Q5cUtGUTBmT1ZFV1N1N29HdUdWZi0yMEhBVHFvVm4zOTlmeGt5Ukdwc3RIckJYM1ltajY3Sk5Mbl80OF85aHpnWS03UHRnaHhQQ0F2LXZqemd3X0UxZE5kZDM3a2VQSHo0WXRpd3g1dllGTTBGZmQwTFBrQ3BvbGg0VWZWYXJvRkVtMlBMSVVjN2l0Z3pqRmdQZw?oc=5
+- **Source:** RealClearEnergy
+- **Published:** 2026-10-21T13:40:54+00:00
+
+## 'We need something fresh.' | Why AM users are backing AdditiveIQ - TCT Magazine
+
+- **URL:** https://news.google.com/rss/articles/CBMikgFBVV95cUxQUGFqTFVBNlhLcDhCekRRMjVwNVVzckxIRG5FSUJ6cmp1eUhqbkhzZEZVQ0dmMTMyaVN0MXNXUDlDSmNhSmVjYl9NMzNkLXdVMHBKVl9EbndaNUtpMHNQUUFZbFJ6bVdGMmo4VFBPemU1OG52WERSblBMS25vNnU2Y3drVHo2WnRCczFTWC1ZODI4UQ?oc=5
+- **Source:** TCT Magazine
+- **Published:** 2026-10-21T13:27:07+00:00
+
+## The world’s first laser fusion power station is being built in Germany - Yahoo News UK
+
+- **URL:** https://news.google.com/rss/articles/CBMie0FVX3lxTE1zcGd6ZHRNb3FvdjZEVzdzejF0clQ1eWlrRFktVnM2VGVUZ25SUXJIZDJDOWVfTUNlQ3BObnEyeHRoTUc2aXlXam4xZHdBMV9MVDZNd0RBSmNxSWFoeFYtcVRPaE1sbnFMQldQQ2tSMVVZWUJZd0xqdTMwcw?oc=5
+- **Source:** Yahoo News UK
+- **Published:** 2026-10-21T12:50:19+00:00
+
+## The most powerful superconducting magnet ever flown to space, made with Faraday Factory HTS tape, launches aboard Starburst-1 - PR Newswire
+
+- **URL:** https://news.google.com/rss/articles/CBMiiwJBVV95cUxOWTZ2SC1OMjFlYWFuMUZPa2FPY2otV0Znc1huYUFKZVNIbEVfZ1Z1a2twN1hJSTV1cEprcFo4QUVqYldneFNtVm1xRFNfdFZCc2h5dXVaLS1jTzFzckdCeHdSX1ZfZzhvRVJ3SWYtbWd6SkxvbVRJek5mNXpocVlJYy1fTTdXME9OcC1qZy0tODdTOTBsNnM2c0pKdjdZTFFuMmlSc0NlWjF3R3NmZUR6WmZUVlZFdzFOYng1VUxWUUxuMzlySGJXZS1yWV9xZlYxanpkTnhMSk1VOFFCbHkxMldtaEZPaEZaSkVRc05fZUhidERkWWY4RlBwMmdWSVY1UGJkVENRaFRoWU0?oc=5
+- **Source:** PR Newswire
+- **Published:** 2026-10-21T12:25:00+00:00
+
+## Pokémon TCG Pocket Adds Dual-Type Cards in New Dual Fusion Expansion - iPhone in Canada
+
+- **URL:** https://news.google.com/rss/articles/CBMirwFBVV95cUxPOE9iTS1OeFlUc3NQbTBheDNpRkZBdl92T1RPQmR6NUxHVllQMTR3dlBzVUxZbGxRaXYyWWJRZHN2RW9pVW96ZHNTcW5pTFZpU2FiOWlER1hKYXpPSE84SDA2X2JRczZiWC1FMjVVOWhQNDZIQWdmTGo5SVZaQm5BR2RfTi05UmRLTWRtanFBYjhtRHhnZkZUdnZ6bGx0X3AzVFhIRF9YYUhlcjRJLWN3?oc=5
+- **Source:** iPhone in Canada
+- **Published:** 2026-10-21T12:23:11+00:00
+
+## Enphase’s EV charger already supports a 2027 EU rule; installed units need no action. - Stock Titan
+
+- **URL:** https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUXUzWC00cF9FYmx6dXpKS0tVOENWSEptaG1oVS1feXJDZm1yU29iWEFaOGlmMWYzaWlfMmdLZnJZTWNEVVdPemRBQjNFRU5jWlBwMlVwcTZ1aF9IYk1aRXJiTGQzQXQwTkx1NWQ0TlhSams4QUJOR2loRWZrTXBHX3p1RmtFM1JhR0NuRW5kc2lneTRlQ0QyWW16ci1yTzNKSm5Cdjk3UEN5UXhSOVZYVVdfVjctSXREdk1LQ01kXzY?oc=5
+- **Source:** Stock Titan
+- **Published:** 2026-10-21T12:00:00+00:00
+
+## Tesla and SpaceX Just Formed Special Committees to Weigh a Merger - 24/7 Wall St.
+
+- **URL:** https://news.google.com/rss/articles/CBMirgFBVV95cUxQZXhkN2VIOWMyYjVnWXZydkVKa0ZfVDVvZ3dKS1ZnTEgyX2RVQU1OR2owbTZfb3locjl6ZFQzTV9JQ00tUlF0cmIxdkdsRHpuYzRkUWdzQlFwUGVmaUtXamtteF9TM3d5SnpHcEkyV1VZaVVjTW03TG1vNTBhZkdKU214LVdGX0xNNThwdnVNdnpad3NtdnlabDZCZ1U3M29VLUlLS2tZQ3lQbTN6Snc?oc=5
+- **Source:** 24/7 Wall St.
+- **Published:** 2026-10-21T11:32:00+00:00
+
+## Pokemon TCG Pocket Dual Fusion [C1]: Meta predictions, analysis and expected cards - Sportskeeda
+
+- **URL:** https://news.google.com/rss/articles/CBMirwFBVV95cUxQX0NYbEprTGNzaE44SDhLMHp0RDU0a2oyVGNRTWkyWHJERGtnQ28wYUk4OHlSY3RCT0lTRXRxcFVLWGVuZzV5VVlOaW85NzVORTdSSXlyM1dJcloyNjlpUjktX1BWY2hUVEZINUptZFNWQ3dVQ2t6Y0UwUXRlRHRPUU1QVEtoYk1wWEVyR1hBNDlmQmFIQWZ6VmRxa1dmU3Y0eGpkYi1aUTZua2JyR3hV?oc=5
+- **Source:** Sportskeeda
+- **Published:** 2026-10-21T11:28:00+00:00
+
+## JLP ‘Weather Report’ finale honors jazz fusion - The Eatonton Messenger
+
+- **URL:** https://news.google.com/rss/articles/CBMihgFBVV95cUxONlBCdzE4Sjk1REdxZXoxUVpta1ZnZU5odWJOYUtLYllPYmlwUU8yV1pKdkxrUk5rZFAzM1RpMFN0a2R0MlozQ1FsQ3Y4Y05jRkdmTU84VjBEOVdYMFNzbmpYWHFTN2lMNmcxR0RKaVpPZFQxN21PQlJ1bmh6M1JFMG1ZaFlNZw?oc=5
+- **Source:** The Eatonton Messenger
+- **Published:** 2026-10-21T11:23:38+00:00
+
+## COMMENTARY: Six bold bets on the future of US clean power - Reuters
+
+- **URL:** https://news.google.com/rss/articles/CBMipwFBVV95cUxNemwzaGR4VC0ySlJILTNlY3lfSWF0Yk9adW9qa2x3MnRRa2xsQWJCVDZ5a0FlV0lXSWNsSzF6TDdFMXRZVmJ3bU55cHAwNTBtQ3dnc3pvVTVxT0huYXBpS1J4NVowWEZ1em1zWjAySWZxZnVEdXQ1NzZlOUdvQVhwQnFRazkxOTg2b1pjNWhvOFVTMVUzRk9vbTBPSWZ4WlE0cHF4enhOZw?oc=5
+- **Source:** Reuters
+- **Published:** 2026-10-21T11:03:22+00:00
+
+## Deep Fission Signs 25-Year Power Agreement For Planned US Nuclear Project - NucNet
+
+- **URL:** https://news.google.com/rss/articles/CBMisAFBVV95cUxNcEFFYWRueVlEUUltT29WUXlwNEVjd2NtNnB1YVZZM1p0RXZRWDUtenh5Nk1tY1hxdEJsbUZvMEJvNlN1Ym1qbS11UE1DbHEwaWJMamdPS3dKSWhLY3V3eEk1OTV0MjdaSWVLVmoxNV80WDNqdXVnUUJxdFpWZGFfTUZFNFFFS1N1MTRlbWY1ZzJHRHRUNkZRQzhId1JlWi01aDNjTFpvempjRmJPYUVPdw?oc=5
+- **Source:** NucNet
+- **Published:** 2026-10-21T10:28:46+00:00
+
+## Canada And Japan: Buildingon A Trusted Partnership (Video) - International Trade & Investment - Global - Mondaq
+
+- **URL:** https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdUgyMnI5N3Uyak5YWk1pRklzTEUzUnZIcmozQmVIejBCeWVnWUZxSm1Nb3cxTnBkazA3NE1zTlRuTk5PZnJ6MktUUkZDZVAybFJldS1WbUdvSzFlVGxyUGg1UmdyOGZrN0oyVk9UWWNsTGM2VnlRZGJWbEFpajFrRzJEQjVONEVIY0EtcVhSSlM2UmF0ZmpKQUJIQ19BX0RGM05YQ1llR0xGTTFVbEFMdXU3SFI4X3M0MDVMX3dWVTJ3UQ?oc=5
+- **Source:** Mondaq
+- **Published:** 2026-10-21T09:11:15+00:00
 
 ## IP : First Light Fusion selected by the UK Defence Science and Technology Laboratory (Dstl) to deliver Hypervelocity Impact Research Programme - www.marketscreener.com
 
@@ -201,105 +303,3 @@ _Last updated: 2026-10-21T09:10:01.333553+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMi7wFBVV95cUxQWTVoTVJJM3ZZVDRxUk1Mek1xVTNEaGl2NTktMEk4N0pIYmhuTU9mTmdyWFR2cTNaZDhiclpmY1JYdlJHRDZ3NVpQODhLejNjM1RQdUVnLUlTS0RDTHhoTWNaTVp5Y2Y4OGVNMVdqaUZlWG1UWW95My1aandiWTZpZmdYZE8tUTY1MUZwU2tKNFppM1Bvejk4dzJweGJZaWhCTkFLMzk2WHA2TlVvRUxIRi0wa2R6WDltMEN6dTJKZ1RsOG5rcG1FS2tvZHE2czRpUlRFcGgyRVE2cjRJRlo2MjdfTmQwRGp5dGNMZGtoWdIB7wFBVV95cUxQWTVoTVJJM3ZZVDRxUk1Mek1xVTNEaGl2NTktMEk4N0pIYmhuTU9mTmdyWFR2cTNaZDhiclpmY1JYdlJHRDZ3NVpQODhLejNjM1RQdUVnLUlTS0RDTHhoTWNaTVp5Y2Y4OGVNMVdqaUZlWG1UWW95My1aandiWTZpZmdYZE8tUTY1MUZwU2tKNFppM1Bvejk4dzJweGJZaWhCTkFLMzk2WHA2TlVvRUxIRi0wa2R6WDltMEN6dTJKZ1RsOG5rcG1FS2tvZHE2czRpUlRFcGgyRVE2cjRJRlo2MjdfTmQwRGp5dGNMZGtoWQ?oc=5
 - **Source:** Moneycontrol.com
 - **Published:** 2026-10-20T12:34:12+00:00
-
-## Stellios Technologies Emerges from Stealth with $5M Pre-Seed Round to Rebuild America's High-Energy Power Industry - PR Newswire
-
-- **URL:** https://news.google.com/rss/articles/CBMi_AFBVV95cUxQMk1sZkI2S3VaWG8yZ0g3UEhCQ0VrcTFxNlgwYnVNNmxaeWdfN2RoTlFWMXEtYWxuMnlld1JzS1VJYk1ZYUZ6bWM3TmM1bEc4Y1FLejlwV1ZIVFFTYkgtck1yZGQtYzBtYlcycDlHQ0stQXFwMkdnWFFjSjVRVXpERUt1S2otb084QlhiR0xNUEItSU5xbTVKM0lpMmlnWU0tazdjMUU2OUJhekJWRmdhQ04zTlRPM0ZiUTdOczlPQW4xamxtb3FVaWpOd2lEYzN0QkQyYjd5Y3ZCWkI4b0FoYVptbk9WVk94eV9lN2hwcmtzNWdsSzJ5WDRmWjg?oc=5
-- **Source:** PR Newswire
-- **Published:** 2026-10-20T12:01:00+00:00
-
-## ZAWYA: VAST Data, Hyperfusion hasten AI infrastructure deployment - TradingView
-
-- **URL:** https://news.google.com/rss/articles/CBMi1gFBVV95cUxNMUNva29FelVoRFF6bnAzekN0WC02UGdGWXpTLU8xY1RRYmhPVEdkMVVLeTJtcnphSTJQbzcwcS0yb09Iam5nVTJEQzVFVXB3a0tpX0oxRkNzZVZIWXA0Q3paMmVaaXBzekVNQm5aYllUaUVOVFQ0SWViMjlTdUJlUlk3NWhvNWM4RVNEcDQ2Q2pXeXVEOHY0dmtmbFYxZHJhc2t4ZmJEWmpDSUtackQtRTl0T01WSjNJd3cwRjVjZ204cGg1QXMybV9ERFc3cm5mQ1RCb1Jn?oc=5
-- **Source:** TradingView
-- **Published:** 2026-10-20T11:49:03+00:00
-
-## Qnetic testing flywheel to compete with lithium-ion for grid-connected energy storage - pv magazine USA
-
-- **URL:** https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUW5aakZtY3ZvSTk2TXJSbmZIRG50RlRQY0wtbHRfVDRueE9hZ3hZNG4yYVgwZFh6TTdLYmJrR0xPaGNpZkRTaWZwaVh6cjFyY1VhcTlQbG54Y0F3QTZxTG9RZE9iUnVROXVVTEZBRWJEMVU5NlRqU0pOVDY0WDdadllpME9lRGZmdFdYZ2V0MkRBbmxPT0daT29RS2pNMkloQzZQWEw4M2NWZWZkMEdMWE93X0piMFdrM0J2d1hBa3pTRTQ?oc=5
-- **Source:** pv magazine USA
-- **Published:** 2026-10-20T11:24:53+00:00
-
-## Quantum CFD And PDE Solvers At IEEE Quantum Week 2026 - Quantum Zeitgeist
-
-- **URL:** https://news.google.com/rss/articles/CBMihgFBVV95cUxNWktScWEyUW55MEY2b1pzdndiNjhHQkQxS3dCVGk2Q1RfdmRrWDhlbWstN29KbWhxdnFzZGQwdU1xM2xjRHp1Z3VrQ0tsQXR3LTZGRVJBWHYyRlYyTmlaSHR2REZlbmlsTEtLUEJuVHdsZ1ptVURLMFoySnN3bDRFVkQ4NS0wZw?oc=5
-- **Source:** Quantum Zeitgeist
-- **Published:** 2026-10-20T11:13:38+00:00
-
-## Quantum Chemistry At IEEE Quantum Week 2026, What Held Up - Quantum Zeitgeist
-
-- **URL:** https://news.google.com/rss/articles/CBMiekFVX3lxTE9wLUduQ0UtRGhuMUFENVZxb21yM002aXhPUEM3cFg1TWNLYVFYQWZXWkQya1B5NVVuWV9OX25hVHE4VmtaS3RaQmxqNUFHTVdUeXlpNUVjRWhYUlp4akJvMVExSHMxUVQzczl3ZThaTmNvR3hSeGtzc0tn?oc=5
-- **Source:** Quantum Zeitgeist
-- **Published:** 2026-10-20T10:42:12+00:00
-
-## Fusion CX IPO GMP Today with Listing Gain Expectation - IPO Watch
-
-- **URL:** https://news.google.com/rss/articles/CBMiakFVX3lxTE9mOEt4WmduUHJzX3dQUWViTzYwclF1M3FudE9uNkZqbTdUMFdRZi1zMGVYYmZJY0pab3hpbTI5N3g2a1FidXNNVXBjWHNqSDNoekxRbUp6Q2d1LWJRaGhFMC00Nzl3S0FYa2c?oc=5
-- **Source:** IPO Watch
-- **Published:** 2026-10-20T10:26:18+00:00
-
-## AtkinsRéalis And Indiana To Study Up To 6 GW Of Candu Nuclear Capacity - NucNet
-
-- **URL:** https://news.google.com/rss/articles/CBMirAFBVV95cUxNZVlvMTdUbVRFUzU0SDNTNlUxNDh0eENhUkppR2E1ODJsaWZtV2MzZzFZNG5JNjA3d3ZEa0EwNkhFaVc3a2tNMUx4MExuQVJlQ003OWhuaUsyaGRrMVNldXJrUFc5Vlp4SVh1aFVhSy1HSlB1QjFQMlQ1dnFzQVpBTS01eTVWS2RteTJGY0NjTXV3ZzRoREx0UWFCLXpfejVKdFJiczRrZGF5ZTdK?oc=5
-- **Source:** NucNet
-- **Published:** 2026-10-20T10:06:52+00:00
-
-## How do you test a nuclear arsenal without blowing it up? - Scientific American
-
-- **URL:** https://news.google.com/rss/articles/CBMirgFBVV95cUxPUW1JeDNXX25BbjZIZEd5OC1KQm1qakpiQ0RQS3BYVVlRRk9uN0dzQkk4WVpjMWx4dHM5eElTeVJvUGxpU0ZNYW45ZHJqcGxLdG1DZnRUWVFBN3MzZVhsaXQ2dk5tV1NHNHdvU2E1R2tGYmdUQzRTcDVlUFQwMGQ3dUxzVHlrekRMeVlZQU1mV3BkcFN5MFBPSGdnRmpjZlowdVc5NkpJbmFCUjVLbVE?oc=5
-- **Source:** Scientific American
-- **Published:** 2026-10-20T10:00:00+00:00
-
-## ‘We’re in crisis’: The California coastal town under siege from fires, high surf, El Niño - Los Angeles Times
-
-- **URL:** https://news.google.com/rss/articles/CBMiywFBVV95cUxNOUdzYUZsTkRXcmczQnZUT3JINkM0M1d0cXJUZFJFNlh0MFlETTdOZFY0Rm1RMjcyV2I2cWREVlY0SFRUYzN3SGJiSnZMcXA3NXhwWUlONUY2UGtyQ2M4b2pOalB6a3pDN0lhOWxqcGN4eURPMTQ1YlBSVnhwYWl2UVAzMVJsZm1ubHdnY1lYbGNOaUZoREVyazJEb0ZsZ2J2X1B5VjQyZlRJTUhMTkdwYU92V3EwTktsak43RDAtdlFzRzVRWXR3NWNwNA?oc=5
-- **Source:** Los Angeles Times
-- **Published:** 2026-10-20T10:00:00+00:00
-
-## The roadmap for runaway electron-induced plasma facing component damage in tokamaks - Physics World
-
-- **URL:** https://news.google.com/rss/articles/CBMisAFBVV95cUxNNDc1RlFhemVXcThJczRSZVJKUHFGWGxpLTNGRXFudHhhanRsUWphSy1ycTJlQ0J3bVpRUFY4UXJGZEhyVmZJcXVqZHBCUzVfb1pWbFVlTGREM29GMDNOV3ViTHVfdldSMEx3LTh0aGI0NGVCWHhiTHJaYmtoTHM0UjItcDFxWl8wSi1wQlR1dXlxMHotdDVFU0dobXVESU1nRjY1dUh6a2NON182aVZpbw?oc=5
-- **Source:** Physics World
-- **Published:** 2026-10-20T09:58:20+00:00
-
-## The Inverted Letter D: How the DIII-D Tokamak Is Learning to Live Alongside a Star - Root-Nation.com
-
-- **URL:** https://news.google.com/rss/articles/CBMipgFBVV95cUxPcXJ5OV9iUDFYWFMwVXpvdE9qbWM0VGhGTEtZRThnMEMxT2szNTBwclQtdjIwRmQ4a2RSMVVJRmVMWHptUHo4QTJ4T2pBbU1lcHFNcURreGFNQWZaUWVOR0V3NjQyZDBESHIxMy1tRjZXb2hsdW1PY0VVWjU5SFFnRU80bk1MSWRQZldhZXVJS05iZnRHMEZBSzJuaVRVUzkzS3BiWktn?oc=5
-- **Source:** Root-Nation.com
-- **Published:** 2026-10-20T09:45:43+00:00
-
-## Columbia University and Max Planck Society team up to advance fusion energy science - Max-Planck-Gesellschaft
-
-- **URL:** https://news.google.com/rss/articles/CBMibkFVX3lxTFBqdF83Q2puU0V1MTZhUHhGR0wweFFsNWhUejhFWEFWaUJFRl9pc1o3UmlOQXNjTlhSeExsanVjMGFsNjN1VGU2U3FfX2poSTZQcVNRSHA1ck9pNWRZRjVWbDlmRVowaVBDZTE3MnZn?oc=5
-- **Source:** Max-Planck-Gesellschaft
-- **Published:** 2026-10-20T07:51:43+00:00
-
-## 3D Printing in Mining Market to Reach USD 1.29 Billion by 2035, Growing from USD 280 Million in 2025 - SRI - openPR.com
-
-- **URL:** https://news.google.com/rss/articles/CBMinwFBVV95cUxOaFpzb3dIZWYxOG9LWXp4dy1NSHJQbWdHaHE4R19zY2hHVzB3cDVpZzdTNGtSMEFycjBjT0dxb2prUmpMVlJWRVRaNnN6Sk1yRnpTdy0tOVFQUmptRFQ5bnhHbmM0OC04TXUtMlhWX2JxdmdHNGpqdXZ5S1pCMkRRdy0xNFo3NzdDNXBBZnhPdHZKZ05mZTRXT040ekdvT0E?oc=5
-- **Source:** openPR.com
-- **Published:** 2026-10-20T07:22:10+00:00
-
-## Kay Da Ace Injects Fresh Energy Into Afrofusion With New ‘7 ELEMENTS’ EP - Tooxclusive
-
-- **URL:** https://news.google.com/rss/articles/CBMiswFBVV95cUxOY2hzQTNWYjhFWFdXVnhhZDRFZTRUckVVRnBEekhQRmJyYWdxbk85WmtyVnJHOTVWLWNJQVFSSTJqR2RSclE5MWFXenVDa3Yya0UwUUdncmdCY3NvQmNNeXA5X0N4bk5zMmVobC1YRWNPSXlsOXZXZWJMWGE2bGkzLTkxU0tTNEx3UEUyaUQ3U2x1Y0d1NC1nVUQtc05sMG55OW1YN2tPNkc5Ym5ydGpsY3Q5bw?oc=5
-- **Source:** Tooxclusive
-- **Published:** 2026-10-20T07:04:27+00:00
-
-## Trump Media Stock Hits 52-Week Low, Trends Overnight: What’s Going On With DJT? - Benzinga
-
-- **URL:** https://news.google.com/rss/articles/CBMizAFBVV95cUxNSEJhTHdqMTl5WHhXVnN0Zk1takl5V0pyVXlEcnVIeFd0UU5wT05wX3B2bWd2MThRSzJ6WHkwVXhmajFINjZOazlDVkhQSUpDdS1LUFR5ZDBhMHZDVUs3MkVFVVFKWnZYWndMb202NUJCamF1UWVud1FyNmc0cVFXV3F0YnlNWnZ2Q3VmN3lUal8ybHRUSjkzV1RyMkllR04wSUtXZGJqMzh5dTRoVXBWc3FqTlE3SjF2Wll5NzBrXzlXQVJfaDIwd09iRW4?oc=5
-- **Source:** Benzinga
-- **Published:** 2026-10-20T06:51:41+00:00
-
-## COHR stock pre-market at EUR 203.50: optical systems group - ad-hoc-news.de
-
-- **URL:** https://news.google.com/rss/articles/CBMitgFBVV95cUxQUFRETGx6eHhLc0NqSUc5Wl9yUnA1Z0xiVG12dEZIM1Y5YkxXNEhBRnhtOGhlVUVOdXJMdFZzUW5RUkk0T3V1NUh2Mk9RR0NVSWwxTDJuZmQtc2dvWHFMbDRSVmRGcE1PQ2Vra0JWLWVDR0NpaWp6YUFmeHhVLWpHYWV0UjRqTWp1V0toazdOVDRsb3MxRk5PejA3VG1xeHJhc3RreGM0WWwxRHdPOWI4TUhYS0xzQQ?oc=5
-- **Source:** ad-hoc-news.de
-- **Published:** 2026-10-20T06:45:05+00:00
-
-## Multi-Modal Remote Sensing Fusion Cuts Water Level Prediction Error Half - AZoCleantech
-
-- **URL:** https://news.google.com/rss/articles/CBMiYEFVX3lxTE9xMlVSUVN2UGNDSHJob1B4N3lDaXFjU21GMWNWMW1ITVVJcC1jRDNFTGdWdlZNRVBoakpyeGNYZDJHZG5pWmk5WUU5UG44X05lLTNMc3RjeHZnaEZpMjd3aw?oc=5
-- **Source:** AZoCleantech
-- **Published:** 2026-10-20T06:03:00+00:00

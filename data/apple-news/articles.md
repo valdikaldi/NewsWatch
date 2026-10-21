@@ -1,8 +1,68 @@
 # NewsWatch — Apple News
 
-_Last updated: 2026-10-21T09:09:59.967160+00:00 · 50 articles_
+_Last updated: 2026-10-21T14:54:04.957360+00:00 · 50 articles_
 
 ---
+
+## Apple: iPhone Duo launch-day stock to be 'limited' - Breakingthenews.net
+
+- **URL:** https://news.google.com/rss/articles/CBMimwFBVV95cUxPSUdrWUVmRTdQQ1lNRzZYYTFBU3FoSUhQUk9HZjUzOE1GZFlRcUdULVJ2b05ldERTZTl3bGx4T0pMaVF1QzJ2YXo3NlZWejlWMTFYM2hzbVk4ZElHVGFqSFJjTmVvc3MxQ3Y3dWZLRmdRUE03Xy11emh2dkN3eWxpT2NVNnNSQmVfNEZpbmVxZ0Zib014MEhuTW01RQ?oc=5
+- **Source:** Breakingthenews.net
+- **Published:** 2026-10-21T14:25:00+00:00
+
+## Apple will have 'limited' iPhone Duo units available in stores on Friday - marketscreener.com
+
+- **URL:** https://news.google.com/rss/articles/CBMiwAFBVV95cUxOM2NteTNXYllCaGtKZEQ0Y2lweG9mdUNLelEzRExfMUJKUTJvQk4yazNxQTVrcnh2LVVsdEZVbFBVdFlHanJKRzl3U2gzV3d0ZXkyZ2g5YXg2U1BNakJkZXhrR2xHWElvWWdWdXpic3c2X0M1YV9iUzBOMnRVWDFvSDdZeEhZRWNKS0Z2VlpweTZjbUpZQzhJcDZfU2s3N2VkbFJuSVdsUmZBVnJPc2owam9oSEJ6Y1A4aUNOMjIyTUQ?oc=5
+- **Source:** marketscreener.com
+- **Published:** 2026-10-21T14:04:54+00:00
+
+## Investment Analysis: Apple vs. Broadcom - Intellectia AI
+
+- **URL:** https://news.google.com/rss/articles/CBMie0FVX3lxTE9Lb085RWJLTXZSbjA0eFhMRDdlYTJ1Y2xYTVRDN3F2MVJvZkZQMnZEa25aaGdIY0wzem45R2xLRl9uelItX2xtMVp1NmFKckk1ZHp4eG5QMkpHRzBWUFZsUkFneHA2Wmc4OU1VUms3UVZPb0huMHNmR0trRQ?oc=5
+- **Source:** Intellectia AI
+- **Published:** 2026-10-21T13:29:28+00:00
+
+## Apple Inc. : UBS remains Neutral - marketscreener.com
+
+- **URL:** https://news.google.com/rss/articles/CBMiigFBVV95cUxPOWhwcEl6c1NUa0pOQnY1b1QwOTNFWmt1S21sNERTVndtZko5SW5SdEFXU1N2SHBVZVhuVDFCdTd5LWVmZGwzQ3Q0S25XUGlRQkc0TktDNFRha2VhQkpBei1ycVlkeGVYei0xaWpMaGxEUDBxMm1yZmtiOUgta2cwTTZ6NjRHcTdqbUE?oc=5
+- **Source:** marketscreener.com
+- **Published:** 2026-10-21T13:25:52+00:00
+
+## Billionaire Ken Fisher and Jim Cramer Still Like Apple (AAPL). Should You? - Yahoo Finance
+
+- **URL:** https://news.google.com/rss/articles/CBMinwFBVV95cUxNY3JUbWpTS29yaXBSMVRxZjM0bmttUDZLZzVTWFhjU1hLWHJhWGtEWVl1T1JJUjdEeXZrb05rUFpzWTVMR1JHWjd3TFphWTFlQ25OWWtQSm5Udk42R2NlNnFFcEM3azNRNllGNnQxNWJKb2U1S3I0ZzFfZTkyYkp5UWw2c3ZWa0IydzRKaGpLVEJCbzU5XzJzbzVIUGxyY3M?oc=5
+- **Source:** Yahoo Finance
+- **Published:** 2026-10-21T13:24:36+00:00
+
+## Meta Muse Wants to Run Your Life, and Analyst Says the Winner Will Be Whoever You Trust ‘With Their Card and Their Habits’ - AOL.com
+
+- **URL:** https://news.google.com/rss/articles/CBMid0FVX3lxTE52eVdkelBka2Q5UE1TZDZYTVRGLTc0bnhOMUkzRVh3Yzd0Zk9WN050b1RCMHlqeko0VVQtYkZuTlBvOUhlbGw2V3oxSHhmS0huM2xoUS02aExpSWJjbTlyX0c4Z1ppeHpuZVIwZU5TS1lHS2JuSkg0?oc=5
+- **Source:** AOL.com
+- **Published:** 2026-10-21T13:00:18+00:00
+
+## Apple's HomePod mini 2 guide: Finally here, with a big Siri upgrade - Macworld
+
+- **URL:** https://news.google.com/rss/articles/CBMijAFBVV95cUxQRXVYNWNlSXlyeXpxYl9iYVNuaklTMGg2anhzMWpYVmJuTl90S0VmdUV1V3U0TG4yQ1VCRllDME9SYmpCaFNMYnlpZHFicDMwOVhSR2RXcHZMSEdhTldhc1dYQUdGNFpQNEhOdEQtTkdTUUU5bTMxeXFjQkFHeDhIY1kyZHZ6YVNPaTBrRg?oc=5
+- **Source:** Macworld
+- **Published:** 2026-10-21T11:10:52+00:00
+
+## Invesco NASDAQ 100 ETF (QQQM) Adds NVIDIA and Apple on Oct. 19 - Yahoo Finance
+
+- **URL:** https://news.google.com/rss/articles/CBMilwFBVV95cUxQSG5OWEtsRFNHR2tqcmkweEh2UFl6dkZtb3Q2Ml9kT0xlOWVIb2tIY2xxaEhqd2g2WU9HTUtBdEotNzluekJ1VVpGeHpwdVAxY0xBdU5mQ0Fsc2RmamtSNk9JRURNQzJMUGVJcmZNMC1Td0xheVE1Mm1lYlYySFd5Q1Rsd1E4TllkMDFLRFV6TEFfWVU4VEJZ?oc=5
+- **Source:** Yahoo Finance
+- **Published:** 2026-10-21T11:04:54+00:00
+
+## Apple Siri settlement deadline nearing. How to file a claim - USA Today
+
+- **URL:** https://news.google.com/rss/articles/CBMivgFBVV95cUxNR0hZcmN6NkU3V19BS2xqTTJBY2Y4RnlPSzd2SEdMVFFNLWRBeVVuVzB3T21RZTQ3Q3oyNlhGMjhLQTl4eFIzMlJJVHppR1ZVNlZtbzhMbEt6MGlYVjctMFFyRUFkYm0taG5fbVFvVjhuUTAxZ3N3d0VYUmQtZ3RzY2JwTXkzbTRhT0Jya0NIZEc1TUs5V1JrNGVmV1FCQ2xDUVFmTnQwME5hZFlIRW1YV0tRUXY4b2s5b3BVWTRB?oc=5
+- **Source:** USA Today
+- **Published:** 2026-10-21T10:04:00+00:00
+
+## Industry Comparison: Evaluating Apple Against Competitors In Technology Hardware, Storage & Periphera - Benzinga
+
+- **URL:** https://news.google.com/rss/articles/CBMi3gFBVV95cUxQazR5NkJWRjZ2WElzZ1VPNmxOcUlOX2ZwcUU2QkVJQVNZOWt1alV3X0txVmFIUFQ4NHQ0Yi1ubFRKam54WGlHZUcxdGtBMEtvXzFaVExFTDF1MWgwZmNtaWZBYnNkY0dlcUZlRk9BUlZNTkNCZFNBT3FhdTJtUjhlSnZzbEtqMmg4ejAxYkY0dE9SaXRoQ2xYSUxGcUc3XzY3OWozOHFReW1EQnBKWWNLREtQOW5CRmdJbk14LWhMM3JMNksyeUpRNXlXSmQwdm1IaGxUaTNZd0JiNU8za3c?oc=5
+- **Source:** Benzinga
+- **Published:** 2026-10-21T09:58:31+00:00
 
 ## Apple Inc. $AAPL Shares Acquired by Stokes Capital Advisors LLC - MarketBeat
 
@@ -243,63 +303,3 @@ _Last updated: 2026-10-21T09:09:59.967160+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMitgFBVV95cUxNVW8wQkNfZlZnMDhveW5vdmh0LWV2UTVEWTlIbDIxWnZyejgzdm1lY2ZnTzVjX1lzRklhRnIzbENJUkM2eDQ3ZWVwa0hLa2VWMzNWdDhjMmlMYi16MHF2eGh5U044N29SQzFsZFdWaV83Z1QzVDNPZDN3Mk5VUTViUlRxVmRuZDZxci1jVkR6cjF5VnpxUHN1QlVpc3FpcDRfbGxYZVZXeklsRUhVYm9lTnAycVFEUQ?oc=5
 - **Source:** MarketBeat
 - **Published:** 2026-10-20T07:51:39+00:00
-
-## Apple Inc. $AAPL Stock Purchased by Lincoln Capital LLC - MarketBeat
-
-- **URL:** https://news.google.com/rss/articles/CBMitAFBVV95cUxQLVZtMWNyNlZrLVlZN1RKeDI2TGpKZUpCNHBWd21VSFBPREZMSFZ5ZjdSQ2dEdmxTOWNWTF92dVVBNkRpdmVTa3lsbFBxbWJWQ3hzUDFJdzNrTTBtYTY0ZjYybzl3QXRHZDd4OFVnUXJMT2NqZzBmRllYTENZUUJWZGRsOGhRSE9lNE9TclZheEtkYTJuaFNVU3RMdUZ6NlMzTXdlN0VIRGR1MV9SS3RxMW43cS0?oc=5
-- **Source:** MarketBeat
-- **Published:** 2026-10-20T07:51:39+00:00
-
-## Apple Inc. $AAPL Position Reduced by Intelligence Driven Advisers LLC - MarketBeat
-
-- **URL:** https://news.google.com/rss/articles/CBMixwFBVV95cUxOUk1LZ2FQcUszcjVBQVp1OWZ4WGZ4dFRydTV3NERpUkx6MHVnWW5kb0FqS1NMYWVGaE1NM1BsLVNIWGNVNFdTTjdSQnhtUHpPc19yUDJsZ05DMVJSRFVEYlI5YS14b0QwNm9NNll3V09EcGdLZlVLMEpGRFI5TlE5UGdNU2ZrbDlXYkE3MTVuTC0waTd0X3NsVHhRWVBUOTZnS2FWbldQbnZqQjNKV1BJM01IUnR2NE5CbnV1OXZDbHJSMmZaU2dZ?oc=5
-- **Source:** MarketBeat
-- **Published:** 2026-10-20T07:51:39+00:00
-
-## Journey Retirement Planning & Investment Management LLC Acquires 2,139 Shares of Apple Inc. $AAPL - MarketBeat
-
-- **URL:** https://news.google.com/rss/articles/CBMi6AFBVV95cUxQOXNYc1ZqM3EzQXctTDZTZlcwOW9wcmxJT21UWEM0akZWRmJVTlhiZ3hfOXNZc1BtZ1VqUlM4YTJEeThkVlk5Vkp3QnRBQkIzNXYzQVNLYlFGUk82NGJUdXo2UEt1RTBtX1E0X2NiQUtLZ0dSa1FEc01ZeU1XUVY1bEQ3Qks4WVBsbjhnWm0xbWxOalFDZFI4dFdqdHU0QUdvYm90dHdPN2EtWExQM216M1pOdkF0NWlIdUhhU1BPREFJeFpXME5nVG5uNWpqMjBzMHhoMHljWWUzZGwxNDNTQXNCTDZ5U0I1?oc=5
-- **Source:** MarketBeat
-- **Published:** 2026-10-20T07:51:39+00:00
-
-## Apple Inc. $AAPL Holdings Trimmed by Draper Asset Management LLC - MarketBeat
-
-- **URL:** https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVVhOR29SVFFLODY3MldNRGkyZks2Z0h0ZHUwNV9fSm05ZnY0aWxQakhMNm91b1JYT09LbXpMczJ0Q3RULUwwN293bDhLeTZtSFdCVDJCVHNidG1LNlFqd3FDdUFybW1MT0lMSEdySEdXS3dKeThLNzV6Sml6bks4WEdUaDVScVFpNmVlV2IwWWlMTExyMHNwSHRTdl9zWXFyYlJrbmVueUV3U05FdU1HNWV5MDVPWjMyTkUtMTJrSk0?oc=5
-- **Source:** MarketBeat
-- **Published:** 2026-10-20T07:40:55+00:00
-
-## Athena Wealth Management LLC Buys 1,610 Shares of Apple Inc. $AAPL - MarketBeat
-
-- **URL:** https://news.google.com/rss/articles/CBMiwgFBVV95cUxQTFRLQWhLdGZBXzZRdnhfRmRhQXdfUjFaUFJuSmVsT3ZGa3JKR1Z1VHI5RzhCdUY1Y0hMQ0lubXYwSTVKQVhhZFZCVFRra2tCbjZhWkFfT1JNM09lMVBaeE1oUklINUZITXYyWDByZk0tX1dqVzlYbjBpWE90UEVFMk1GN01LQzdSbG1VdjlrQWlMZnZrUHRyVVMtT3piRG9UWFRoWUplUHZveEY2X0I4QUJUVU1GaVBxTGJsX3hWRXpCdw?oc=5
-- **Source:** MarketBeat
-- **Published:** 2026-10-20T07:23:30+00:00
-
-## 6,809 Apple Inc. $AAPL Shares Purchased by Bill Few Associates Inc. - MarketBeat
-
-- **URL:** https://news.google.com/rss/articles/CBMiwgFBVV95cUxQaUE5UlpwZS1HdURfMTJncExhaWIwN3JoRG5BWkRSWUNEUmI2c2s2dUdoUklGMnNLYlg3SVJ1VEphTHlMN3hpRVhyME82Q0JobTZ2T083d1pKVldXUG9qWlNMb1ZvdExmV0NRcTVjSDRNb3QxWW1XMzhrdXBSRUVGYVdZUjNJTnBkTU1jcnpYRVEwMG0yZkdIdkFPUWZ2bmIwNFFjY3JXODhVS0lObkh2OVBramx4d0dTNFZ1bUttc29Bdw?oc=5
-- **Source:** MarketBeat
-- **Published:** 2026-10-20T07:23:28+00:00
-
-## Castle Rock Wealth Management LLC Sells 6,452 Shares of Apple Inc. $AAPL - MarketBeat
-
-- **URL:** https://news.google.com/rss/articles/CBMiygFBVV95cUxPUEg0TFpMU2pSMkRfS1ZJTklPQTZjaGh6NnpESWNBOTNhMlFMVGc2cWVoNklKMENIMzBVYnlBMkpaZEFyUjE3RDFqVFN0Vjk0THEtT05qQjIxOUFxaDBWdXVUdHJOVUxqRWZYYUF3N3pUOGtBeC1TZVl0WWxucFlsb2JvVi1SZXd4VXdUV0Z3SWpEQnpxWmhnTmFsNnlRaDB6dFkxeUtnZ3djZmUxdC1pWndjUmNENXNiTEFqX2JNb3JDY24wMUkxd01n?oc=5
-- **Source:** MarketBeat
-- **Published:** 2026-10-20T07:23:28+00:00
-
-## Bullock Wealth Management Group Acquires 5,593 Shares of Apple Inc. $AAPL - MarketBeat
-
-- **URL:** https://news.google.com/rss/articles/CBMiywFBVV95cUxOTk5pNDM2ZzN1UzVhN25ENVBwLU9UN2R0UFVSTFJnSng4NjM2dnVGM0MyWlFnOUhfZFRhV3Vwb3cxcl9HaVhtYjVqVWZ6WklXNDBiTHp2QVEwZi04TWJQbmMwSXF5b2UwNnFyVzR6aHVTVk5OMk80NWNMaGo4Wm5mZ1UzWG5fd19xLVVpbjhIbkwydU1BeWs0QVNqUVJfOEN6MjhrWVpqaTFBQ2M4RVBzazJ1UXVNSEo4WVE0MGhJTXhUMVJRZmRvdVVGTQ?oc=5
-- **Source:** MarketBeat
-- **Published:** 2026-10-20T07:23:28+00:00
-
-## Apple Inc. $AAPL Stock Holdings Boosted by Balefire LLC - MarketBeat
-
-- **URL:** https://news.google.com/rss/articles/CBMitAFBVV95cUxPdEFVSGgxckItMWRxZC13b09OME5OeGFrYUtrTTVpTVdUQWRvTVZTRkptcl95SFhnLWVFakszR3NNUWtKY21VZ0hhbEp4RXhzSk5Jb3dyQVZoWENBV2hmWUZmb0JzTWtCazM4dWx5SjJYZWRrODRYMkRNZFVLNUMtQWxFYlJ2OGxlZUVrSUJ6WEFUTVNIdGM1OFZkM2c2V3ZPUGwwTUJ2WTh5OGJPMGNva2MwNVQ?oc=5
-- **Source:** MarketBeat
-- **Published:** 2026-10-20T07:23:28+00:00
-
-## Avity Investment Management Inc. Sells 12,163 Shares of Apple Inc. $AAPL - MarketBeat
-
-- **URL:** https://news.google.com/rss/articles/CBMiyAFBVV95cUxQT2VFa2hQWjJLMnJ6dWpUWUI3VzFhN1RmREZFakpmdmFsLWxEMEI3SGVwNUw1UUFaVGN3MnY2ZEdJYlYtbEszQlBIR1JrU0NkeXBlRHVmQjhQOVU3SjlkQWlsTzh5WU9STnYwdlhNLWVGQ2c2Q2VOSkhvYjEzMVZWTTkzLUhLWGhhVGpmVi1iT2xKRkZ0aXFNRDZRTHFidTFkOG5JeXpoblB6SFFqazlPcDFDclV6XzhTRG80QWRvS252eXFDWlZERA?oc=5
-- **Source:** MarketBeat
-- **Published:** 2026-10-20T07:23:28+00:00

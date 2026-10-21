@@ -1,8 +1,104 @@
 # NewsWatch — Iceland News
 
-_Last updated: 2026-10-21T09:10:00.889070+00:00 · 50 articles_
+_Last updated: 2026-10-21T14:54:09.213809+00:00 · 50 articles_
 
 ---
+
+## Iceland Signs EFTA Free Trade Agreement With Vietnam - Iceland Review
+
+- **URL:** https://news.google.com/rss/articles/CBMiigFBVV95cUxQc3RUZ3dPUWxoZFJFbmg3cUczWW43cGdld2tCM0VId0FxRXNTandCajBBc3g5QkFVUTRzRklMb182bWZHcVNvQ0thNWlHbkhMN0VpMk1Xd1pydDFmS1pGYTc5VE9SSV9haVU3UUVWUElYWnNFYlZiZnhlYVowdUpkNG41QUMwN3RmYnc?oc=5
+- **Source:** Iceland Review
+- **Published:** 2026-10-21T14:00:30+00:00
+
+## Landing sites chosen for new Iceland–Scotland subsea cable - Arctic Today
+
+- **URL:** https://news.google.com/rss/articles/CBMikAFBVV95cUxPSHVmajdkb2ZEY3dTSlp3WmJudlhxR1JTVnZqYmRZTHJNS3QwWVczRDBzMjBheVZoYllHVkhrS0VGdVZ5ZDlkRTRBelZ1VlVLTmZzREM0dXJJODNXTVd2TVhxTWFuODV3SnJZSEU1YWpSTklfdEFtQ3lvQXRhUDVBY3ZzQ2V6N0REekNVRDg0aFk?oc=5
+- **Source:** Arctic Today
+- **Published:** 2026-10-21T14:00:10+00:00
+
+## A Suitcase From The Edge Of The North Pole’s Ice Unexpectedly Turned Up In Iceland - Futura, le média qui explore le monde
+
+- **URL:** https://news.google.com/rss/articles/CBMixgFBVV95cUxNQ0hzMkp4ODhScHNMUzhCaTZJZFZpSG1jMzI4ZUc0YjdIc0xNV1NsZS1LQkg5ODRocml1anI3cXhRYS1sNGhteWtiRFlyRmtoTkVIM3JnOTBXZ056cEljS3VyU2JGRjdJWUQ2Vl83Zi1QcFV0aWd4NlBGSDhOYmFEME92bXJoVnBFSmhJWkFGVFFmNnFjbUdXYXJrMkU0dEZBUFV1RnJBUDhJczgwaHluR0pKU3lxOEpqOW04M0JJRVVfTXIyaXc?oc=5
+- **Source:** Futura, le média qui explore le monde
+- **Published:** 2026-10-21T13:39:01+00:00
+
+## ACT4, ZDF and ZDF Studios greenlight Icelandic thriller Vigilant - Prensario Internacional
+
+- **URL:** https://news.google.com/rss/articles/CBMirgFBVV95cUxQMnUyV2w3T1dXZEw5di1LV0hiNWhkLXNyLWdfczZhWWJ3QzdFMGp5VVlHNHRxTHJEd1hTczdKSTdzSzAtMUZPRkJNMWgzZzZiWmVSTm5jVXFFbF9HOTQ1LVp3Um5hcVg5WXBiQ0dnVmtUcndWWk1NeG5BSjg3VTZ0ek9nZUpwTmQ3SGwzdGI1WGdTa0FFMFBoRWw2TUxoOFFGZE13Z2pkQnpjZzBST0E?oc=5
+- **Source:** Prensario Internacional
+- **Published:** 2026-10-21T13:17:29+00:00
+
+## A major supermarket is closing for six days - and shoppers are being redirected - South Wales Argus
+
+- **URL:** https://news.google.com/rss/articles/CBMilgFBVV95cUxQXy1rTHF5Y0YyTmMxMC1GSWh5NS1ab0VvTExfQzJ0VEJmXzlONEV5RjlZV2JMaHhZVW1qbTdnT1ZWdGlLM2JfMWJDckxNM1FOc1lBV2pzb0FmU3B2UDdZMDNTUHRSWWZIT1cyS0k2TkdWYnBoSzVRUkRQeEtFaUh0NVFhU2wzNW03QWVqcHZ3R3FuTVRpN3c?oc=5
+- **Source:** South Wales Argus
+- **Published:** 2026-10-21T13:00:00+00:00
+
+## Welsh fisherman captures stunning drone footage of a giant Fin whale feeding in the Celtic Sea, video... - Moneycontrol.com
+
+- **URL:** https://news.google.com/rss/articles/CBMi1gJBVV95cUxPa29DT09PQ0xzZFNvU3lVWmtKMXdpTmdaVGRnQzVMdEE4Y3NxdkRaUEVqT1NpSGI5VGExMHU2NldETjRLRmlicTdCMG90ZzdlVEIyYmZjZm1CQ2xyUnlrbTItdzhEVGJydldvblNzMnVjXy1EWEdPQ1ltc2Y5RTNPWnZNMGRvR1c4TnZ1eWk4QnNudXBYVk5HTzk4UXpFUnNpLVY5Q0pSaGhseHZob0o3dFRFUzMtdTF0Zm1sVFotazJIaWNMLVMwUjdrSUE2N3Z2NGxhRjVmLWNmUktscTcyLW5UQWV5QWFPU2hVSndBeFJzUm5jY3BSN01qOVBqczdtWnZ1OFE1TUpsMDVPa3U1LWxPbEdmYlhBUENON1BDNllpcFl0VzJZdG8tclNhdW1HUXFRWGhGazFURFp6RWlXdmtYZ1JQRDhiZzE2SG96em1ZQVFHcFHSAdsCQVVfeXFMTnItb3dZTFpYUmhIM2NQb1ZsQlNLTXZjdmhnZnMwSFpvTlhkVFFidkNmZjBNTi1sVkpBOFNHT3dWS1o3enpIQ2szN1ZGLVRTQzlJRjBoaFQ5VExoUzA4SDJsUk1TOWdneE5vUTk5bE9nbF9aRjRkQnMwbWNSQ1ptTVJDUUZQR09fLVRMOUZCWEdiTGFkSURlVkhjaHdDMzAwb3ZhbFdnMWlJM0VFMnFWbUVvd0EwM0pWVXhxc2FLWmtiems1SU1KRElrZ282V0s3cUE3RDJfVk54RTI0ZmEyQmhEd3Q5Umg0dTdnZU5qRlUzZWlvTFVWUGJ3R01NSzlkaGM4SXNmWTR5RmQ5LXdURXBSMTQxbXZOaEktTnJrZTBkRGtoVDRRUzhHX1laVFFjb0d1SjVNQkdqOW90Vlp4S2ROVGxYUkl2LUlWT1VMMnU3V214WFFaNXljYTQ?oc=5
+- **Source:** Moneycontrol.com
+- **Published:** 2026-10-21T12:58:14+00:00
+
+## Iceland considers purchasing select Poundland stores amid potential breakup of retailer - SSBCrack
+
+- **URL:** https://news.google.com/rss/articles/CBMitAFBVV95cUxPaUgwbGNTWmw3MzAxWi14Q3hUNTRrNm45VUxOZnN2aUtWVWtBZ0dodzQ4Mm5QVjdEbE5JNGRGdGw4X3J6c0I2VFBWWlpkUGMtcjRCd2R4OFdpYjJkNkk0NU01NjhUUjdmNWNZNC1tU0E0ZGtRUVZoSFV1dmE5WUxmajYzSHI3ajM3b0U5bVNUdW0xZUNETm1Ga3ctTjVkNWIyQ2tUdG9YbWM3V0NLMXR3dzJWVDY?oc=5
+- **Source:** SSBCrack
+- **Published:** 2026-10-21T12:12:35+00:00
+
+## Icy conditions across the capital area - Iceland Monitor
+
+- **URL:** https://news.google.com/rss/articles/CBMipgFBVV95cUxNSG5MZDlmN2lteW5iRFZici13WURhZ25HdkxHWVJUbHp2bXAyUW5pMkczQUcxZl93QWZmR1cwcEM5ZzQ1SGpidGNPZ3FyMktKMEJZQXNpMU0yTXZfV0tFMEdxV0l0VDk3VXV5MllzaGhreE02d3ZXZ2NhRVI4Z2pPRE1GMGhyNGNQTFdLRFdjOTVmb19pb1N1NkgzaVQ5cDFvYXZkMFhn?oc=5
+- **Source:** Iceland Monitor
+- **Published:** 2026-10-21T12:11:00+00:00
+
+## Rescue Vessel Tows Disabled Fishing Boat Safely to Dalvík - Iceland Review
+
+- **URL:** https://news.google.com/rss/articles/CBMijgFBVV95cUxOZ1RhMFk4SEhZbVNhV3l4VERUaXpCYkFjX1VzVmpveTNFbi1fcEFCSXZmOEM4ZmthX0ZRcEFzN0FFT2puRHRORGZKeE8zd3AtNS1Fb1ZuQzB5LWk4ZzVpd0FuUWVFWm9nei1iTUYyMHphRzdXNHBsWDdsU0ZIbi1kQmRQM1ZnWHdXMFF6a0tn?oc=5
+- **Source:** Iceland Review
+- **Published:** 2026-10-21T12:00:11+00:00
+
+## Iceland Airwaves 2026: Janus Rasmussen, GRIMA, Upper Mall Rats and more join line-up - The Line of Best Fit
+
+- **URL:** https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcGljRGQyX3V5OVZ1V1I1Q2JEbWI5N2c2S0p0TGluTzRVRjFUZmRvLWwtTEJRYlY4Q2FMSURKcGFqR0JYb1lvd0ZjU0FlNnJtb2JEN2FLWERnQXJlUmR3bDlyUlhRakQ0SFl3dkctZWlyTkFtR0s3QmFjeE1yMG54SVFxRlc5MXF5Wk5ESFFRbWN6SUx0MldoSzFpNFltVmZtNUhtcENpOGRlUkc0cjNxV3J5Rk9vLVR1N0xF?oc=5
+- **Source:** The Line of Best Fit
+- **Published:** 2026-10-21T10:38:52+00:00
+
+## Arctic Therapeutics Raises $21.5M in Funding - FinSMEs
+
+- **URL:** https://news.google.com/rss/articles/CBMihwFBVV95cUxPWE9lZldtZ1pTdzhCYmVnd2NBNHdFdFBISm1hcEJfbVpJM3U5WU9IRVhUV183bFN3YlRXZ0pxM0k4clBhYVMtUWNHdTNxc0JRWlp2aXhnYmZqaUM0LVhWNmlrZGE0Q2otdXhTbEhGT0lTcWVJc3ItbnU5WjRVYnpqay1ub3NqMXc?oc=5
+- **Source:** FinSMEs
+- **Published:** 2026-10-21T10:27:28+00:00
+
+## This National Park Has Waterfalls, Northern Lights Views, and a Place Where You Can Snorkel Between Continents - Travel + Leisure
+
+- **URL:** https://news.google.com/rss/articles/CBMigAFBVV95cUxQQ1ViUjg1Um1HeEFJaWhKT3NsaVUtSUxLQ2lMbkhRTkUwZXZ4aVY2cjhJRzhFeGlJb1F6OXBaVDJ1TG5EZkdTenZtNEdsWEl0VEV2R19uUEl6bDhSTFVvcHJqZVVwT2h3bm5LZTRjR1ZEeVEzeFBkSGhwS3psWmlYNw?oc=5
+- **Source:** Travel + Leisure
+- **Published:** 2026-10-21T10:15:00+00:00
+
+## Construction Begins on Iceland’s First High-Security Prison - Iceland Review
+
+- **URL:** https://news.google.com/rss/articles/CBMimAFBVV95cUxOYzNEdG1DQ0xseFFvQ2lfcldGeEowd0g3RVNHN1ZzZ0djN3VnbGVnVXhMUWZVNnMyVTNjaTB0bm9QYW00ZDZScUJwM20wQTlsN3o5VTlkQ1J2RlRyTkZJR3liaTJuUUFiU3dnaHYzb3RRcUhoRkZ3MnIxZzhWcWFOaTVwZ19Sd2sySWZhclF4ZXFrNHlyNmllUw?oc=5
+- **Source:** Iceland Review
+- **Published:** 2026-10-21T10:00:44+00:00
+
+## Weak mag. 2.2 earthquake - Iceland: 2.3 km E of Hveradalir on Wednesday, Oct 21, 2026, at 09:26 am (Reykjavik time) - Volcano Discovery
+
+- **URL:** https://news.google.com/rss/articles/CBMivgFBVV95cUxQMVBDU0JMUWR6TGl4Y1F3TFdkRnVkbUd2LUQ4MXhybG4ydXI5UmxLQ0dlTlJnN1VlcEEzMGlMeDZYSXM4U2s0N19NcGNOQlBBUlBsWld0eEs5OEg1dWtORnFzZmlVdTQtVmlkcXV1UlRWR0tEbktPcEhfNWxUWmNYRVJfZzI0V3FaTHZZcUtpMkxpOVpMSVZWbFdfNl9kcncwa21pOVZTc2VXc1dDWHJHWWNDNVJubmhnRzFWMjFn?oc=5
+- **Source:** Volcano Discovery
+- **Published:** 2026-10-21T09:58:31+00:00
+
+## Iceland helps older shoppers uncover £17m in unclaimed benefits - The Grocer
+
+- **URL:** https://news.google.com/rss/articles/CBMirwFBVV95cUxPVnZydHVhcW1NM0NyVUN5clIyS2VJZHVZU3ExOUQ1OVBLb2l4SjVjcVBQc2NBVGZ4OGljNmtDcHlPR3k1emF4R05LdkNENE96TGRfR2xac3BQZUZaUlhFY2lEa3htR0JOTmVsRHR5MWtiTGk5S2IzQXJBbHVuQV9mMFc4eWZsNC1VQVVnZGdZYWp4NzZiYUk1clljMWQ4MHJtQkZrS2FKZFo1WmRQVjRF?oc=5
+- **Source:** The Grocer
+- **Published:** 2026-10-21T09:45:09+00:00
+
+## Iceland Jobless Rate Falls to 3-Month Low - TradingView
+
+- **URL:** https://news.google.com/rss/articles/CBMilwFBVV95cUxOQXIteFZZMC1BMWVQOWs0aXA2YzBXOVY2TTlZS3hBakRTakRoNlpzLVVTaWwyMTl2clZfYnVnY3F1dllDN1psTlR1NnhjUXhLdmU4ektCV3FnMGJOV0NiSG85bjhjejhxX29lQXlFNGJVWEhsRFMyUmw3QWx5N201OVNPOHh3UUF3QTdtbnptT0hKWDNlZkk4?oc=5
+- **Source:** TradingView
+- **Published:** 2026-10-21T09:15:49+00:00
 
 ## Van hire firm used by Iceland and Waitrose enters administration - Howl.link
 
@@ -207,99 +303,3 @@ _Last updated: 2026-10-21T09:10:00.889070+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMijgFBVV95cUxPS1pFQWdnWHU2b2x1b0VVWjBKR1NVSzVaUWpFVHhQMmk5bTdETHppTm5YRmFKWHNBTUdkWGNKVzV4TThDMWFpdGhVRFVRT21lV1c3VGMzY0haYlJCZ3JhcW5NUFNKR1V6SUFNNjdVbGhWenRSZ3BZUVI4RUxqdTRLLUpvQnplVUY1SDhKYW9R?oc=5
 - **Source:** Iceland Review
 - **Published:** 2026-10-20T14:00:31+00:00
-
-## New ferry link from Aberdeen to Iceland to be 'examined' by port chiefs - Aberdeen Live
-
-- **URL:** https://news.google.com/rss/articles/CBMikwFBVV95cUxNNmJpUWVKbXlvZnRmaFNBdmswSkd1ZE1fQnQybEpRTmtvcTZ4UWIzRmNoYjhhVVRTSGJZOWZrMkZTVGw1NkxQbnl1NU5Xck9iLUlvYnVVWkt0N1ZGOU1lU1dib0NUWEpOc3B0SUYxNVJxNlNzLS1hMU5WLTczaEp2ZHJYa1RLeklaOGRyMncxWmlHaknSAZgBQVVfeXFMTklEX1ZKTG5WWFd3NUVXTlZlX2RTbjBkeS1USHMwY2daN2FPVmROUUZrbllCR3RydUVTWGFqR3Q3ZXA0elBGaEJvQUxMWjhNT2FqcG9PRzdxbEt5ejc0VWY4ZVR6cmt2b3ZZRnFOTGJpRVo0V2xQajNpWmM3ajRISUNXSlhBYkhoS1lZaU53OUdKaDBRNVFsamE?oc=5
-- **Source:** Aberdeen Live
-- **Published:** 2026-10-20T13:52:30+00:00
-
-## Hydrovolt to recycle Iceland’s EV batteries in Future - electrive.com
-
-- **URL:** https://news.google.com/rss/articles/CBMilAFBVV95cUxNUTJpRHpGaHF4OEhNRzB5M3BBYXpBbHlKUDRWdS1kTkxWVmpWVG5iYWh5X3BTWkN5LUw3TVZMWUp0djg0eWZKclN4XzhBSmd4WmlSc2ZtQTNkXzJnQ09KY2FfcXRIQ3d4UFRVSllvbEZzTGZPclFqMzI4N2psQ1hkVFhmSVRvTWZzX3ItZU5BVkxNSXcx?oc=5
-- **Source:** electrive.com
-- **Published:** 2026-10-20T13:33:14+00:00
-
-## Iceland shoppers could be missing out on thousands in unclaimed DWP benefits - Liverpool Echo
-
-- **URL:** https://news.google.com/rss/articles/CBMimgFBVV95cUxPcVNBMXBDMjNFejdncGpYYjAya1dXYVVMRWNCa19jVEdmSFNxcmtqdGhxNHNRMmdxbGVnTC1ZNkE3QlhFN2lmMXhxT1hMbmV2SncxN1NPeFBldHhMdk1ua0JtOXhfNVBMM1lWZ29NTl90Z2ItUE1NUGlTaWUtVEZMVi1jLVdQRWpxd1Azc21weENrTXVwekwtM2R30gGfAUFVX3lxTE1wQkJlTnRBb280dHRPR0xXOUM1N0pTNV91X0ZKQ201cy1ldUZsWlhneGdpVXJwQnVnTVNQOGQyWGVCOGRVYk5sVHRTdng4SGFtN2RGdHhxenc4ak1xVXU5TFpEVHBPUV9TT3VTWW9vTGNLOWhSY1l5Ukdmem5KUVBGdE00bEVMeDBDd21RbUh2cWJfVEFFdUZCTkRLVnQwUQ?oc=5
-- **Source:** Liverpool Echo
-- **Published:** 2026-10-20T12:55:00+00:00
-
-## Iceland eyes Poundland stores as buyers circle budget retailer - City AM
-
-- **URL:** https://news.google.com/rss/articles/CBMihgFBVV95cUxPalhlakxqOUllZEpCT1BlOHltdGZmWTBwdExMS3M1NW9CUW4xQXlwb2RjYzVOeXVTRzJyZFJ4V1UxODhfbnRvRkpiSVZqcWFWbG5nNHFIdXJjUHNGc05XbUdfRmprVEFpMGNkb2l5UXRBM3BucHc2S1dSUWdjaFJMVGZwNGRwdw?oc=5
-- **Source:** City AM
-- **Published:** 2026-10-20T12:45:05+00:00
-
-## Iceland Will Give Schools and Municipalities Their PISA Results on Request - Iceland Review
-
-- **URL:** https://news.google.com/rss/articles/CBMilwFBVV95cUxPMEJmVzRLeFBQVjFpcVZaUGMycDk2bTZrcWhQZlRqXzk2VVE1S0x0cUxVUUZscDVfUFBxeHlaZHZZS2RfSmJfd0xBMVNiWmJjd3VpOWUySllWSkhnUlB4ZUs0RWtHUlZ6SGx5Q3I4WVp3YUJ5aEtMVzZIYXFlM21MdEwtODVISUxNaDhGTmNFZGxxT3M4b0Jr?oc=5
-- **Source:** Iceland Review
-- **Published:** 2026-10-20T12:00:50+00:00
-
-## Iceland heads to the polls in close run EU ballot - AOL.co.uk
-
-- **URL:** https://news.google.com/rss/articles/CBMigAFBVV95cUxObjBNMmJfOTd5Um5lV2FiYURIZU1IQXBsYklkWl9nbkhaQi05OWREejdPSldta1VmUTF4RmFOOV9iWU1TUTNVYWdaNDRreGdKRk9PQllHYmRVNEc1WmZ3dl9wRmctdkRxcjBUX3dUUFFFRTZacVp3U3dGWXpmaklZZA?oc=5
-- **Source:** AOL.co.uk
-- **Published:** 2026-10-20T11:34:19+00:00
-
-## Van hire firm used by Iceland and Waitrose enters administration - The Herald
-
-- **URL:** https://news.google.com/rss/articles/CBMitwFBVV95cUxOQ0UzM2pzOXZxQTFrSmhBSUY2RHByNVh3OWpGOVZkLUlsYUJzbzZGWk1teGl0YkRaSlB4THNOM3lMSTBKMUg0b0xEZDV5bVRNWWs1ZENxTl95VG5lcTVLZ0ZnMW45ck5tX0ZMaVdoNFg2UWFXNTUxWlk5aGpqZUhPT3dHNFI5NDBYMGtZNXljUnQxYWh0RE1NUi1tLVdaQ01qX0xuc1VoZjJoUkpOczkteGdFQXBHQU0?oc=5
-- **Source:** The Herald
-- **Published:** 2026-10-20T10:54:22+00:00
-
-## Alvotech shares surge following second FDA approval - mbl.is
-
-- **URL:** https://news.google.com/rss/articles/CBMimwFBVV95cUxQMGZob3dmSlgxWDA4SlJETldLWDBVeElRanh6LU8yU1Z4U3NSRnhoTGRoSjJOWlUtQ1lwWHQzUWxrclVrSE15ekFLaTFVZF9EN2pOdk00d3h3U28zamxBVmNYd0JPN1A1V0huUkdtZDFpTFFFcmhGclVfNGFIdEllREVZTEI2elUtVGItOVNnRWx1QmptOGJ0VW5uYw?oc=5
-- **Source:** mbl.is
-- **Published:** 2026-10-20T10:39:00+00:00
-
-## Iceland launches £100 savings offer – but shoppers must act before Saturday - Love Ballymena
-
-- **URL:** https://news.google.com/rss/articles/CBMirwFBVV95cUxNQlUtZUI1bkNuZGRtOUhNU3Q2MzRCSTZZY2t5Znhyb0dIcVFTNEU1b1kta2xBZVBpd0N3a2YzR05aQ2hvbEE0OVFLMUdqOXJFNmFlOXVRWEtST3BRaC0xOUJlSUV6SV9zN0ZvSDRDNTctYUw3bFZHTDNZSU9sOGV2ZS1WbTQ4WmhveTdPcXJkSjAtQnFsQi02VUJaZkFScHZNenktLVV5MzhxbzQ2a2lR?oc=5
-- **Source:** Love Ballymena
-- **Published:** 2026-10-20T10:23:23+00:00
-
-## Join Men’s Health for a 5-Day Iceland Adventure with Hiking, Trail Running, Glaciers and Geothermal Dips - Yahoo Life UK
-
-- **URL:** https://news.google.com/rss/articles/CBMicEFVX3lxTE1yX0RZVFdHa3hNakdXX3l1b3VHVno5R0VFWW8tT0J0Y21ETlB5V0U2RXVJUnJndGpkeElWYVh4Nm1nb3hSUzM3bnExZHNYZWFwX2RmekNReE9yc3I1YURpaFNqcGtjZDF1ZVV3R0xQVTQ?oc=5
-- **Source:** Yahoo Life UK
-- **Published:** 2026-10-20T10:22:00+00:00
-
-## Plans for ferry link between Scotland and Iceland revealed - The National Scot
-
-- **URL:** https://news.google.com/rss/articles/CBMijwFBVV95cUxNbWFySEZuWjJUdkNES2QxMFpzVWJYUjc0Ym02U3JwaW91Z0RzenFxbWRxenIyQklxbDBDeUtWbDRBUVphVDU4cGU4VFBWNktQbXkwYnppanM5Q2Z2NGRwbzNQbGZaOWI3NElxcmRiVE8wY01IQXRtQXZhRVppWVBqNzdWX0VUVmpZdExZY0ZuYw?oc=5
-- **Source:** The National Scot
-- **Published:** 2026-10-20T10:12:24+00:00
-
-## Study of the Best Golden Circle Tour Operators in Iceland - Guide to Iceland
-
-- **URL:** https://news.google.com/rss/articles/CBMioAFBVV95cUxQX19FejV1VWVrTklwZUhxNlFtNXpRWmhmOGotNnM1eVdIcUhVVDhMRjYwelVhd3A0cVh0WjhWeldRWHZVa0Q0eFZSVWtwLWJReFdPZVMxbkhjZjZiS3kybS0yeVZ4ZWhTbV83RkxscTNOOUlOaV92S09LMVZDeVh2RE9hd3dPMl9TSVluZTBqU2JpcWpkRHZCazk3bl9iSFI1?oc=5
-- **Source:** Guide to Iceland
-- **Published:** 2026-10-20T10:05:00+00:00
-
-## Best Glacier Hiking Tour Operators in Iceland According to Booking Data and Verified Reviews - Guide to Iceland
-
-- **URL:** https://news.google.com/rss/articles/CBMiiwFBVV95cUxPaEt1b3lna291WHk5cHJlaUU0NTJrNEhJaWNxaXpxN0xJTXZMTUxENUxQZzEwclUzS0VLaHJQbmlpbVJUdGFLbkI2V2ZkRDNJRmFaQUdlSFZkYnM5Z0FZLW5VcElpSU45VG9EcVhSZXhlU3lsMUhybXBVb29rX1lCUEYxcWxtVFhWOWlr?oc=5
-- **Source:** Guide to Iceland
-- **Published:** 2026-10-20T10:04:22+00:00
-
-## Arkia Plans Nonstop Israel–Keflavík Flights From June 2027 - Iceland Review
-
-- **URL:** https://news.google.com/rss/articles/CBMigAFBVV95cUxOMVRON3ViY1lxUS1uUnNuZWw3MWIxUm4tTE9BSDdPeHpuQUxPUGlJc05DbktCaldHUTNvekRxUk1qRGlFRlNFeDhfOEFkNDV1TFkydmxSdUhMQTJSTjNnWVFxOWUzc3BNcmxOUTU4NVdLR2ZZVFNWM2pOSnBEWEZfbw?oc=5
-- **Source:** Iceland Review
-- **Published:** 2026-10-20T10:00:48+00:00
-
-## Three additional rescue vessels to join Iceland’s maritime rescue fleet - IceNews
-
-- **URL:** https://news.google.com/rss/articles/CBMiowFBVV95cUxNbmJmSjVITl9PQmFueWV6Q1NmMTQydUlBWVYyNGxDWUdOdVJ0MnMxX2NOUFZuSExPcTZDTkxtQUhnZTcyRkRtNi1qZVVXSW1UNGdsRy1aT1NGdFl6Qk9GRkVpN0xKd1VrM08wWVVBOGNWdFBvNVJEU1ZrLWNaOE1Lb1dlTGlLYnlhc3NGck9GbDFJcVRSSUFVazRrMkFfNUJfODJr?oc=5
-- **Source:** IceNews
-- **Published:** 2026-10-20T08:52:48+00:00
-
-## New ferry link between Aberdeen and Iceland under consideration - Aberdeen & Grampian Chamber of Commerce
-
-- **URL:** https://news.google.com/rss/articles/CBMioAFBVV95cUxQeEh3TGJGR1U0Y3A0b2Vpa2paaVRfVExiREVsYmxsRXVjT0pXaFJlUE1za0s1Wm5tWmlkSW8zZm1XT0gxdkg0RVZmblJlbkRNZWxfQnpFRjRBN1loQjRYVVEwN2hCU0RfUWVINWJSeDdscnR3cWkxYjVUckdscnVBVmZSQjVxV0czcTlMMlMzVzJBWG9CU0dHa2FXVmxWTWNs?oc=5
-- **Source:** Aberdeen & Grampian Chamber of Commerce
-- **Published:** 2026-10-20T07:30:00+00:00
