@@ -1,8 +1,26 @@
 # NewsWatch — Apple News
 
-_Last updated: 2026-10-21T19:56:44.611935+00:00 · 50 articles_
+_Last updated: 2026-10-21T23:07:29.066892+00:00 · 50 articles_
 
 ---
+
+## The Magnificent 7 Are Splitting Apart. Here's Who's Winning - TradingView
+
+- **URL:** https://news.google.com/rss/articles/CBMiugFBVV95cUxOeHlzVHVtZWJjZXdqUHNfWS1LRTlmZnBidHhhT3B0RkdpR0M1VnVQazRUMlpudFFtSk9MeDZxcnpYN0NnWjdjU3JlN3lHblNyLWdpTEZ5X1d6dG9kRjZma1BBbE1yRWlNV2pVbnMtbzlSeGpDZ3FxVnV2anpCYVJjS1c1ZE9uNzlrQUFUUUV0WXQzRHU1VW0zNmEwNG1yeE5fNU9kY1VQWXlUc0NxSmp2M1RBWk1XeFhBRlE?oc=5
+- **Source:** TradingView
+- **Published:** 2026-10-21T22:13:15+00:00
+
+## Apple shares hit new all-time closing high - MacDailyNews
+
+- **URL:** https://news.google.com/rss/articles/CBMiigFBVV95cUxPTmdWVU5RTGtZVEtTTERfMWlCUjB5UzBqb0l0LU9abk0tNHVkNTRZd0VYTzR6VU94Q2otRTRxLXVMSi1mbzlCdEkzd2RNNmt0Z0ExRFVLNWVPQzJHUnc5R0xDUVN6X2ZTX2FUc05YSXVwNjllOVVFTl9wTGExUkxSdUlyOFJudzJsRGfSAY8BQVVfeXFMTjJhQnEtM1k2Ykc0VFNQSFlmYlNNVGtZVFhta0MyVms1QmtfUHRJNTRKUm5UcjZFRkdrNEdFT1E4eGRadUpXdm5IOHREcTlQZ25TRjJwREFLQWFvRGZNSWdIcks1dmdhb2FZZnBMSU1vWXhxSDIxY1c4dV8tVW9HNlQwUzVuV21uUTZfb2Nwd3c?oc=5
+- **Source:** MacDailyNews
+- **Published:** 2026-10-21T21:00:56+00:00
+
+## Kazakhstan’s AIFC Regulator Turns to Apple and Google to Enforce Coinbase, HTX Injunctions - Yahoo Finance
+
+- **URL:** https://news.google.com/rss/articles/CBMipAFBVV95cUxPOGtORG9lQVJUcDNDMkxsaXhUTWpUODZxTVd1QXkwdncxSU9MSVRNMHZfZ1hOekV1X05lXzJuR1JIZGRYWG55S3g5dGNfdUFDeEJuNnlaeG52S0poTERYZ1R1MUlsZ21qWGVxUXg1c1hhUVB5QzJ0N3VCb1NnZmZSNVFNUktieWxCSTMweUNTNmJBVlZweE5zS3JKdk1za1hGV0VzOA?oc=5
+- **Source:** Yahoo Finance
+- **Published:** 2026-10-21T20:42:00+00:00
 
 ## ‘Ergonomically Terrible’ — Steve Jobs Said Touchscreen MacBook Wouldn’t Work, but Apple Is Finally Doing It Anyway - Benzinga
 
@@ -285,21 +303,3 @@ _Last updated: 2026-10-21T19:56:44.611935+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMitwFBVV95cUxQWEc5RjJEQm0tcTVBQk1EVzRxcWg5N0J4dDBJMGdqajl4RWlfZDE4WjJxRXZuZm9rODBhTXc0UF80c25veUNWdDcwT2Q2aDg1V2tuanpXZ3pxa05wSjZ2enlYY0c2LUNZc3hfN2lHOTRGc21ZLV9rdmpNNkQydVFTZXdiVU1xTGxxeXlXUlYtWlNIdVlzMUtEd01fSHc5cGVPdFR5NVFKYVUzYm80dk9iZTluR0wyOFE?oc=5
 - **Source:** Seeking Alpha
 - **Published:** 2026-10-20T13:30:36+00:00
-
-## Apple slips as Loop Capital downgrades on iPhone shipment concerns (AAPL:NASDAQ) - Seeking Alpha
-
-- **URL:** https://news.google.com/rss/articles/CBMipwFBVV95cUxNaHZYN05QSDItLUtTSkN4M2xzOUxMcFAzVWQ1dlN2SVdyT0VMNktWNEVOQm45VlRwUk1OR0IzeWhucEx2UTJ1ck9PU2ZwTFNVRzlYem9jeEZoWjdBNTZhNnU0NC1HTEdRMVR0aVJFVkxCVzAxTThpbXRBNGZzOGF0WHRDSk9abmgwbFI3aEZ3ODZXclIydkJScnBkVWQtM1Z5MGJvYUl2Zw?oc=5
-- **Source:** Seeking Alpha
-- **Published:** 2026-10-20T12:27:39+00:00
-
-## AAPL: Apple defined, key history, primary product lineup - 9to5Mac
-
-- **URL:** https://news.google.com/rss/articles/CBMiR0FVX3lxTE5YT25nRDV2WDBrbkJNcGEtUTVaMXUwRUZiQjFPWURPanYxM0RaRE9yblZHZFJMbmpWT2FmaXhCanlyWFNwM2ZF?oc=5
-- **Source:** 9to5Mac
-- **Published:** 2026-10-20T12:24:31+00:00
-
-## This Apple Analyst Is No Longer Bullish; Here Are Top 5 Downgrades For Tuesday - Benzinga
-
-- **URL:** https://news.google.com/rss/articles/CBMi5AFBVV95cUxOMHktaEV4c04wTmxEUlpwLXMwRDA5bUIzdEVMNVNFUnVtNUhZX3c4alhROHQyb1NZREdnYjlXWnlCUnJ6WXBtRmxCQXBFOU5ia2lHcTlfc3MyRU1FaUNSYUlsTnUzWnF3Mkk0N1FCZHBzQmdURnMxbUtMSHoyRm54UHQ0WGV6bzBjeUNlVHFwZ1JlM1ROQTRIbGtkaHF1dmpGYnVnbFEzWE5PYmlKTHBfbVk2Y0xZTy1QVGplSXdmTGhQc0xHWFJJVjJzbDc2OTRaR1R3ZmpnM2RsUEVqYnJ1UlFSRjI?oc=5
-- **Source:** Benzinga
-- **Published:** 2026-10-20T12:22:04+00:00

@@ -1,8 +1,20 @@
 # NewsWatch — Iceland News
 
-_Last updated: 2026-10-21T19:56:45.844405+00:00 · 50 articles_
+_Last updated: 2026-10-21T23:07:30.142274+00:00 · 50 articles_
 
 ---
+
+## Icelanders speechless over unrest in Paris - Iceland Monitor
+
+- **URL:** https://news.google.com/rss/articles/CBMimgFBVV95cUxNM0pBWVJwQ2N3V1FqR2p3dVdrbWxvcGJFdUtrMjNOSndZS2dCd01FUE1FNXJWbXRueDRKa2QwekduUnRJOUZoUTJMMmwteUMtVTNrOVdCcTJ2aWNLSjhmSjJLcWc5U2xpTVE2dENoZnFJWTZscnY2Zms4d3FObHpOcG5OTGhhYmxSVzhvX3h5cW5OV25feVZMT0V3?oc=5
+- **Source:** Iceland Monitor
+- **Published:** 2026-10-21T22:28:00+00:00
+
+## Lessons from the Arctic Circle - 5 questions for H.E. Ólafur Ragnar Grímsson, former president of Iceland - EU Reporter
+
+- **URL:** https://news.google.com/rss/articles/CBMi5wFBVV95cUxObGRqLWRrYzhNTjhHemRoMUdIMGI0bERTUEZpMFBZelZqMmkwZ3R2aURoU3BQX3d2Q3J3VUE5anVSdnNaYmpSdGxfaUpDSkNpYnFhWFBUUGxKbXZjLUt6cm1fR2lTVW05MkQ3T0k3MmpoN2RLSFFYNDZhUVJoaFBaSEh2cnFSb1JZdHJvODlBRkp5dGdJLTNmYWFDWDFGNnlPMFNKVDFfV3hwSUdiUDB0OUZpcTVoTGJ1b1lRX0RjTVIyNnFoZUtXUVRiSkppbldqMU14NnRLSDhtWGFVYjQwUk1uR0d6LUk?oc=5
+- **Source:** EU Reporter
+- **Published:** 2026-10-21T20:06:36+00:00
 
 ## Guided Tour in Icelandic Sign Language of the Coast Guard Vessel Óðinn - The Reykjavík Grapevine
 
@@ -291,15 +303,3 @@ _Last updated: 2026-10-21T19:56:45.844405+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMif0FVX3lxTE10OU9tenBQSXRyR1hIODlsTDR3MEEta2pud0R2NTkwcEdYOEgtbFpCUmdEeEQ1ZTM1V19ESW5vcWR0VDVyekdHc1lHa01JMzBnQm9xSENXZUp0MDVlVUhvNTlBekZub0l5ODd0ZUFwLUtNSEJGOElvWmJaU2tZV00?oc=5
 - **Source:** Volcano Discovery
 - **Published:** 2026-10-20T22:10:03+00:00
-
-## New forms of sexual violence against women prevalent in Iceland - Harvard T.H. Chan School of Public Health
-
-- **URL:** https://news.google.com/rss/articles/CBMimgFBVV95cUxOQnExRnhLNFFtazdEOXFqZ0xsQ253bG9xT0pYTFZaS0Y4LVY1emdEcXhETHB1TmxGelRXNHYyNlh4dzVRYmc3VGl6OEpLTGY4VkxRUUhjajZLUjNXQ0EyOUlpMjBlRUU4Z1p6WXVXNnJmdnhfNEMxUWo5eEZDOTdad0g4UVVjWllQakp2OEE3S0FFT0VhWUd5WTF3?oc=5
-- **Source:** Harvard T.H. Chan School of Public Health
-- **Published:** 2026-10-20T20:27:27+00:00
-
-## What Boston and Iceland Learned From a Sold-Out Summer of Live Tourism - Skift
-
-- **URL:** https://news.google.com/rss/articles/CBMiogFBVV95cUxObFNHS2x2TW9zZU5heTFXcXpfYXA3dTZDUlFMRTFUd1g1bHdaNnRTMDNnRUEtdWNRbFVWYXMzQTZVdUQwS2NpdXBwRDFuV1FTbWg5a1B4NjNLaTRGNGcya0FYYy16cFFqUkRNYWxQQmtVVms1WmxZTlUwaXpQbFZnN1lzWWhnb3hxV2EwenZnbzg1UzNmT0E2Yy0wYzlQSm5zYUE?oc=5
-- **Source:** Skift
-- **Published:** 2026-10-20T16:46:05+00:00
