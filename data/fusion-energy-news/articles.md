@@ -1,8 +1,92 @@
 # NewsWatch — fusion energy News
 
-_Last updated: 2026-10-20T22:57:41.516277+00:00 · 50 articles_
+_Last updated: 2026-10-21T09:10:01.333553+00:00 · 50 articles_
 
 ---
+
+## IP : First Light Fusion selected by the UK Defence Science and Technology Laboratory (Dstl) to deliver Hypervelocity Impact Research Programme - www.marketscreener.com
+
+- **URL:** https://news.google.com/rss/articles/CBMi4wFBVV95cUxPZGxZMVVRcldITHlHNFpKc1hvT2NHVXZ0TThtNzFDcTEzVGktUXdqS3lQRjI2Y2M2YWthRDhtdElQSUdlTE1IQmhWeDBUcTlHZEFJVk5XcFUtS0dTQ1ltSDZnelFwZlM3T2UxUXVlc0FBSHNoZHVPbmZNRkprSE00SzhqSnZteENMX3lMVzdmT2E4Q1EteE5RbU1uakY0VTlpdWtMTDFRd3pwWk93VmktSy1hYjVpTlVadzhWX2t6ZG5jcFFUOFZPdFJKalo3NkpFeDZkZHhWNXp1MnJPaW5NUklqZw?oc=5
+- **Source:** www.marketscreener.com
+- **Published:** 2026-10-21T08:31:04+00:00
+
+## Sweden’s KTH signs cooperation agreement with Singapore policy school - Scandasia
+
+- **URL:** https://news.google.com/rss/articles/CBMilgFBVV95cUxQVHdQdW85U0d5YTBkVlFZM2xPYjNKWEpTa2x3SUZmVFU2SGVieWVHQ1hxeThrV2VQOFVCel91TzRuZEMwbkpDQ0RBalU2TVU1ZUdZNWFNMnRwUDFJTzFubmtDb1FMR1dnZ2VWekRBV1ZGcFFfTTc3cjljZUFRNWtXSU5sVFhzVEVhdHNwNndqTU5DckxKc1E?oc=5
+- **Source:** Scandasia
+- **Published:** 2026-10-21T07:43:09+00:00
+
+## AI service hub unifies smart-grid sensing, prediction and control - Bioengineer.org
+
+- **URL:** https://news.google.com/rss/articles/CBMikwFBVV95cUxPZkR5c3NrNWdEMloyaFFmU0RtdGR5cWFPQkFqTnZDSXhmc0RWY2VtMVJuSk5kMzdTYWVNd1d5NFlqd3ptZTdCWDNUaHBicUNaR0daRjZvYTF3TnJTSkV4THVHSGtoX0lha0Vqdl9RRjltSzdoakVxNFRUNU85cDhyWlMwS0x3MWVKTmMzNHllcXczWjg?oc=5
+- **Source:** Bioengineer.org
+- **Published:** 2026-10-21T07:28:40+00:00
+
+## Micron Backs Indium Rare Earth Expansion in New York - Daily Beirut
+
+- **URL:** https://news.google.com/rss/articles/CBMipgFBVV95cUxQUnhVQ2tlWGZYbWpkWHc5X3MwT3RIWlVZclBRc25VTlh2TzRQcXBUMGtqeF9lbUs4dmpKdmZ6bUY4bHFFSk9qVUstZFY1MGNSa2RhWkVQTmJ0ckZXbzVUQkx4aW5OQnlBT1ZaOEtHOEtRcktJX1M0ZnU0VGhFLWdlSExZdHZ1SE5QbXd0bVVZU0ZmRFpVNlVVRk1rTkR5MTRHNWlhYTJB?oc=5
+- **Source:** Daily Beirut
+- **Published:** 2026-10-21T06:59:33+00:00
+
+## YG Marley – Praise Jah In The Moonlight (Remix) Ft. Burna Boy - Voxtrendy
+
+- **URL:** https://news.google.com/rss/articles/CBMijgFBVV95cUxOSnJxaS1PbWMzVjZydmpBUFpibG5EZjV0a1V5R1E3TG94ekxVelZLWFk4cTNJSko5T1J0RGJKS3NpeVBCUmhabVJST3JzU0dnSDNZbDhkOHNKazMtbGdfenJQNktWaHI0ckp6Y21JdmtmUWNROWlXVGZaaFRnZlpDOEpEM3NmeExWdFl3M2l3?oc=5
+- **Source:** Voxtrendy
+- **Published:** 2026-10-21T06:45:21+00:00
+
+## VC funding deals: Neolix, Oro Mobility, Stellios Technologies - InfotechLead
+
+- **URL:** https://news.google.com/rss/articles/CBMiogFBVV95cUxNSmc3QkI4VmNoYzlubkVWMHZUbk14VlNGVHVFcThkSkhER2pPeHJWVDczSXBhYzhrT2toWFVqazlCZ2JsR3laWFVyVXpGdEVCOFVzcExMT2YzQi0yMmlHd1VCUW9UcG03ZF82TlNDdkxjR2Y2UkJOdFFTd1ItTGJNY1JtSVhrbHNGYzZzYXdfMGRobGNFYU9iZS1sZUxqNE93TmfSAaIBQVVfeXFMTUpnN0JCOFZjaGM5bm5FVjB2VG5NeFZTRlR1RXE4ZEpIREdqT3hyVlQ3M0lwYWM4a09raFhVams5QmdibEd5WlhVclV6RnRFQjhVc3BMTE9mM0ItMjJpR3dVQlFvVHBtN2RfNk5TQ3ZMY0dmNlJCTnRRU3dSLUxiTWNSbUlYa2xzRmM2c2F3XzBkaGxjRWFPYmUtbGVMajRPd05n?oc=5
+- **Source:** InfotechLead
+- **Published:** 2026-10-21T05:17:00+00:00
+
+## KFE and POSCO Holdings to cooperate on key fusion reactor materials and supply chains - 파이낸셜뉴스
+
+- **URL:** https://news.google.com/rss/articles/CBMiWEFVX3lxTFA3U2FFc3hHcVMwYmZiS3BHNmVMei1IQnJERTM3Q3V0QUJRWWdSVHFGSE1vZ29jVjZ3R21uNlJ2MTd6czVTWGFEVnZuUFRQdTZ2VmpqV3hRVG0?oc=5
+- **Source:** 파이낸셜뉴스
+- **Published:** 2026-10-21T05:00:00+00:00
+
+## JR East's place-based fund backs fusion startup Starlight Engine - Dealroom
+
+- **URL:** https://news.google.com/rss/articles/CBMinwFBVV95cUxNSlVDRU4xelFhODBzUXJFaHhxczJld0JjZURUR0lfQXJnLW5JLUpLWlF5OWU5dVZGNFpJVjctbUtxVlZyOUVwUmVWeWlmMnpoYWhBR0tpNWlXQTF0T2V6UW1KaWt6NjNRRkNzQUdaSUVpVDEtcTZZYlFlRGhWUzNZLWUxY3JOUnBYc2ZCSXZkeFB5VTZOaVlsZ3BRQ3d3M00?oc=5
+- **Source:** Dealroom
+- **Published:** 2026-10-21T04:45:48+00:00
+
+## Gargoyles #3 Preview: Queen Mab Invades Dreams, Recruits Scarecrow - Bleeding Cool News
+
+- **URL:** https://news.google.com/rss/articles/CBMinAFBVV95cUxOcVdiU0RZNXhfdG41N2k4Q3Z2bEdMSlpVZXRXT3FLNW9fWlpUYVNzc1JJcmtTRzhWaFRXMXpaSUNPWmNnQzZMQUh2WVpZeUItWXRJVmhhaEdXVndaTURtQXNHMGt0YlplYXdkNEVBcDEzZXYtbWs5eUk3SXZRTldINHM1dURSNFlsMFc3X0ZUV2E4cW9PbEpUQW1EWGM?oc=5
+- **Source:** Bleeding Cool News
+- **Published:** 2026-10-21T04:26:09+00:00
+
+## Acme Solar gets Nomura's 'Buy'; NTPC Green rated 'Neutral' on execution risks - Moneycontrol.com
+
+- **URL:** https://news.google.com/rss/articles/CBMi1wFBVV95cUxNeEJiWVVIdU9ubk00bTNBbGF3NVIyUDRxRE02dXVIWl80Qm5EWUJkbjEzXzFMcFUtME16eTJDc0lYZlE5eVBDZnZWZnh1cldyQ3VwUkMxOV9RVHppOE5KWDQ0WTlpY0E2SVNTREpNeDJjUzdqVUtieGRtbWdTMWtpbDk0bDNSTWNYV3BaVHM4cl8zaUhPZ1lxRGg2WjlhZVVTYTRWTXVKb3drNGNMSFhuZTU3TmthWjZzNFdhMXJwUGhtZ3pXZUNjVkh6ZEF0UmVlcnJCS0IzY9IB1wFBVV95cUxNeEJiWVVIdU9ubk00bTNBbGF3NVIyUDRxRE02dXVIWl80Qm5EWUJkbjEzXzFMcFUtME16eTJDc0lYZlE5eVBDZnZWZnh1cldyQ3VwUkMxOV9RVHppOE5KWDQ0WTlpY0E2SVNTREpNeDJjUzdqVUtieGRtbWdTMWtpbDk0bDNSTWNYV3BaVHM4cl8zaUhPZ1lxRGg2WjlhZVVTYTRWTXVKb3drNGNMSFhuZTU3TmthWjZzNFdhMXJwUGhtZ3pXZUNjVkh6ZEF0UmVlcnJCS0IzYw?oc=5
+- **Source:** Moneycontrol.com
+- **Published:** 2026-10-21T02:56:09+00:00
+
+## SLAC’s X-Ray Laser Sets a Record for Shortest High-Energy Pulses Ever Generated by an XFEL - Newswise
+
+- **URL:** https://news.google.com/rss/articles/CBMi3gFBVV95cUxQaHE2aHZTVVJ1c0oyUUQzb2RVRC1DRVhGcUc0U3czS1Badll2X1FOSHFVUmYxX1dkakV5QUhyQWYxRUN0dXlwY05iaG9JeE9xZmVleFZMYmJJeTZtbUZHRXh1bFVscWxibU90UHltMk4yZkFNVmRDbW5yT3RWQ1VKcXgxZng4UWdUd2tRclpndm9HbnFGMTJERkxsWU5UZW8wM1FhdzZIQjVGQ2RuVkQyV096UXAtOUs0MmU1TU1NQTBlcjRvMjVkQ0NwLXZKeHZ2cnM0NlI5bUN3Nm1NTXfSAd4BQVVfeXFMUGhxNmh2U1VSdXNKMlFEM29kVUQtQ0VYRnFHNFN3M0tQWnZZdl9RTkhxVVJmMV9XZGpFeUFIckFmMUVDdHV5cGNOYmhvSXhPcWZlZXhWTGJiSXk2bW1GR0V4dWxVbHFsYm1PdFB5bTJOMmZBTVZkQ21uck90VkNVSnF4MWZ4OFFnVHdrUXJaZ3ZvR25xRjEyREZMbFlOVGVvMDNRYXc2SEI1RkNkblZEMldPelFwLTlLNDJlNU1NTUEwZXI0bzI1ZENDcC12Snh2dnJzNDZSOW1DdzZtTU13?oc=5
+- **Source:** Newswise
+- **Published:** 2026-10-21T01:20:00+00:00
+
+## OCTAGRAM Fusion CNG and ONDIPA announce agreement to develop 9 MMSCFD CNG mother station in Ondo - Vanguard News
+
+- **URL:** https://news.google.com/rss/articles/CBMizgFBVV95cUxPOUwxS3FpU1pUckNtZjlTNDcxZUtHc2VGM2xYakVEZFZsQXNTZmNCSEpQNXJlb3RzZ2wyN2ZvdU1zeExCTnE4SjJ3Ym4zeXlscjRyd1pxU0V3bVh5ZnNiM2JSa1N1SkIyb3ZVTWRLd2xkZjZmbHlNMERIczRTTzc5LWZHeG5nVTItS0pCVk5UTGFNdVdxenNrOUV3R1djekZPVERGSFBUZDJuX1BJOWRUT1dxUjM4ZWVqMlR3ZVI5ZWJ2RWFWbTlqY2F3SmdIZ9IB0wFBVV95cUxNR3BxZzZkMUZ2Nk1vc2dFS21ZR1BhOVl0MzVES0M4Q3RDaHlNc284c3Vabl9XV1htd19VUjNjalpUbmQxM3VjYWEtbWdaWUtDcm9tMGszUFplU1J0XzJkOFhFbnBOQm9hc1NINlVKWWF5YUFCUkJFTWM2Y2t2VnFBOHd2RVBKNVdTTVdmM2NvWmc4dG03ZVZmXzY3WExzZElyYVhWZnpXOXNsQmJwY25yQ1lpTjNLTG9rN0x2T2p4a0l0c285NUZiVUZsUi1JWmZUR21Z?oc=5
+- **Source:** Vanguard News
+- **Published:** 2026-10-20T23:56:42+00:00
+
+## Ondo Devt Agency Partners Firm to Develop CNG Mother Station - Daily Trust
+
+- **URL:** https://news.google.com/rss/articles/CBMijAFBVV95cUxQcXhTQWJFdWZXQVJvRi1VemdVUmJTQWhaclVoSHZYY0gxMUlrUHc5eGpMN2E1c2FIV2FpeTRqMllNamw0QXFmLUNBdjAtSDVMaWhZNnhSZnpmSlN3SVVZdzZ2ZDFXcUZnNHMwTFFkT3pXaEVQUndCOXVQVTMzbklvMUQ1OE5lMFlpUWpJaQ?oc=5
+- **Source:** Daily Trust
+- **Published:** 2026-10-20T23:18:52+00:00
+
+## Google.org awards $36m to 17 AI science projects, including Cambridge and MIT - EdTech Innovation Hub
+
+- **URL:** https://news.google.com/rss/articles/CBMitgFBVV95cUxNTUFlTWVVcVRKUzk0ZGdSNTdRVUdXVXJMbWpnNTRlVEZlNVAxTHpzX0lWMXNsRTRkaXkzSDVuSC1jOWJUX1lSTG1LXzhmMU5YUGpFbzVvWVV4cS1nREUzSHM2YjdCeEVyLXZ4b0ZwaE1wNktIay1icUFGQTZKajN3S0JrTXNwT01XdW9RbXhxUmktRHdDYllDaWszYks2MUpJNERzOW9kakZDeTVjbUZ5WkU1cDB5dw?oc=5
+- **Source:** EdTech Innovation Hub
+- **Published:** 2026-10-20T23:01:54+00:00
 
 ## Calif. officials urge Diablo Canyon extension, but Newsom holding off - American Nuclear Society
 
@@ -219,87 +303,3 @@ _Last updated: 2026-10-20T22:57:41.516277+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMiYEFVX3lxTE9xMlVSUVN2UGNDSHJob1B4N3lDaXFjU21GMWNWMW1ITVVJcC1jRDNFTGdWdlZNRVBoakpyeGNYZDJHZG5pWmk5WUU5UG44X05lLTNMc3RjeHZnaEZpMjd3aw?oc=5
 - **Source:** AZoCleantech
 - **Published:** 2026-10-20T06:03:00+00:00
-
-## Geo Week 2027 Puts AI and Mapping Accuracy to the Test - Innovation & Tech Today
-
-- **URL:** https://news.google.com/rss/articles/CBMiekFVX3lxTFBKQTlOY0dxYjRDMjQ5X1hDMzQ2YXZUUm9qczQ1TEg5UjNhTUVUTHZlbTV5aXhmQ0FqWVlxTE5lYWFOanQtZXhsLWQ4c0JUYXFXUFZuMlgyWl8zZWtvNVBsWVpSZ3JRbW9VY2t6WHJfX3ZpdjBnMUJfelhB?oc=5
-- **Source:** Innovation & Tech Today
-- **Published:** 2026-10-20T05:04:15+00:00
-
-## AI and Robotics Find Buyers at Hong Kong Electronics Fair - Innovation & Tech Today
-
-- **URL:** https://news.google.com/rss/articles/CBMiekFVX3lxTE1HWkYxLUx6aTRqYkt6eWRkRkpzaW55MUlnRmYzMmlBQl9TcnNqcXJVLVpIWmlqTU8xRzhMMGphSXZkUHVtdUIyWXV3R1g4d2U5RVFTQXFsZHpuSWZoTjlCZ3d1RDZfMjZ2bFc5dVVzbmVnVkdQblMtNjJ3?oc=5
-- **Source:** Innovation & Tech Today
-- **Published:** 2026-10-20T05:04:15+00:00
-
-## Best AI Crypto Trading Apps 2026 - Innovation & Tech Today
-
-- **URL:** https://news.google.com/rss/articles/CBMia0FVX3lxTFBCZGtHYmlnem1UN0RpZWxNSDY0cVVoeUtIeTFDclB5QUxKTF9RcWpxQ200c09mWlZTSk1WZ1QybldVcXl0U1c4RFcwaFEyaFJ4RDFxTXF6OTJsWjI1YkhJOTk0TE5faGsxakdF?oc=5
-- **Source:** Innovation & Tech Today
-- **Published:** 2026-10-20T05:04:15+00:00
-
-## Trump Media & Technology Group - Britannica
-
-- **URL:** https://news.google.com/rss/articles/CBMic0FVX3lxTE5lT2dhSXRTdXhSaGh2djRnVUFnTUdVRlZzRzdxdXdjTElyMF9ZeWJUUG1kbWJIYUlpWkhJVTdoREJsWU9TaEdibjNIdE4wdjFwQTk4bmZaU2lNRm4tM1Z1M0trcFdhZ2kyM1ZDYWZwQmphRDg?oc=5
-- **Source:** Britannica
-- **Published:** 2026-10-20T04:27:05+00:00
-
-## How venture investing split in half - Substack
-
-- **URL:** https://news.google.com/rss/articles/CBMiggFBVV95cUxOQlphdnRLTGlQdDdFU1p5a0U3bl9QLTdqckthTDN0aWJTdUhhaFlFazNTU3ZfQlUxSUlMQUh3bG9KaFo1OEY3TTVib2x4cjVLLUVOb19meEtVcHlqZTJ6a05oMi16ZlI5TFRadmNTZi0zX0xDUm9TT2p4RmxtTWd2RlBR?oc=5
-- **Source:** Substack
-- **Published:** 2026-10-20T03:04:52+00:00
-
-## Gemini 4 Argon helps extend mathematical solutions for fusion-reactor magnetic fields - Mezha.net
-
-- **URL:** https://news.google.com/rss/articles/CBMifkFVX3lxTE80MHZrWG9OMVRtZEVQMU13UVNzaFFYdHRjUHk5MzVldW8zWXpGZk1GMFVsUVBhSDlndTdjdlZRMmtSS0RLdHJFU2Y5ZHM0WkRNVzItTXl0RjdrLTZfSXczVW85bTAzMnAzZ2hJTjVzM3ZEQ19qM2Z5SHhlQ2JXZw?oc=5
-- **Source:** Mezha.net
-- **Published:** 2026-10-20T00:40:41+00:00
-
-## AratheJay – CHRISTO DISCO (Album) - TrendyHipHop
-
-- **URL:** https://news.google.com/rss/articles/CBMidkFVX3lxTE8xZDgwVE1INDZic251cHlscHY5cEs5ZE03YWU2TDRGemtLbVJFaVhuZDc2LXZoNzcxTmlUai11Y1lEYWlPV3BhRkNvZ2haendXZ0hHRS1SaW5sWG5SaGtCbGdPNHljSE1pVFZlYTBJcHBJcDd4WEE?oc=5
-- **Source:** TrendyHipHop
-- **Published:** 2026-10-19T23:13:33+00:00
-
-## KOTRA: "'China's 15·5 Plan' Opens Opportunities for South Korean Advanced Materials, Parts and Equipment" - 아시아경제
-
-- **URL:** https://news.google.com/rss/articles/CBMiaEFVX3lxTFBVSWNLNVd0UXZKWDlNMWNJd1lIUGV1c0wwTEFRelAySXdHRmR4NUtuXzExRFU3cm9tUHoxUHhXWnQ0cTBsdXVfcmNRcm9WekJoX0NNbWt2cFFBUGJoUlZ1ZHFyV3NYaTdR?oc=5
-- **Source:** 아시아경제
-- **Published:** 2026-10-19T22:37:50+00:00
-
-## Ruger - Do Nothing ft. Musa Keys & Young Stunna | MP3 Download - Voxtrendy
-
-- **URL:** https://news.google.com/rss/articles/CBMie0FVX3lxTE1wMUFaS25IZ0w3QTlNaXpfS0dMTzZBZWVrTEhBenJuSUw4MWtlcmJnSGI4WGVudEZvcFdNbGJCVVJBOTJESHdqR0VKaWpNcnZFbVE3YmUxSEc5NVpYVnJLSHo2SVpoUnJORkl1S0p5Z0M0TU51UzFLR1lGNA?oc=5
-- **Source:** Voxtrendy
-- **Published:** 2026-10-19T22:09:27+00:00
-
-## Superconducting Neuromorphic Chip Passes Fusion Test - HPCwire
-
-- **URL:** https://news.google.com/rss/articles/CBMikgFBVV95cUxQdlZOR2VHMXpVZDlXbVZMZVowS0tfdXktbndza1JKNldhZ3JUR01PdkV6M0dtZUM0QklxSnZuVU55SFBjd3pWTDV6ZHdsSDNVWGE5SWg2NVU3My00M0dwUVZYYzQ5Yk9qOEJYVzNtVlVZSm9seEZmcDBYME5qdDFqcEhIMVZLa3ctNzBZc0g2aGdJZw?oc=5
-- **Source:** HPCwire
-- **Published:** 2026-10-19T19:59:48+00:00
-
-## Powering up for a pivotal moment - MIT Energy Initiative
-
-- **URL:** https://news.google.com/rss/articles/CBMicEFVX3lxTFBIeEdFR2VEaVVmWFczTjR2X2owNm44aUlNR251UFBTajcwZFVRNUd4cV9VU0RmTmVMelFSN2tyeVNrdF9uVXFmdEJRcGRPV3lpYktIclNvWG02ZWtXbGh0TllyaWlDUU5CWThWYld4bUM?oc=5
-- **Source:** MIT Energy Initiative
-- **Published:** 2026-10-19T19:52:30+00:00
-
-## Limiting Fuel Retention by Lithium in Future Fusion Devices | Newswise - Newswise
-
-- **URL:** https://news.google.com/rss/articles/CBMimAFBVV95cUxNbXkzdk91QVJIRUN2THBKZ3JlazhRSXNxY2JIbW1EYnpIbTdBRkstelU3MVNlMVkzTFVSYVNtUEthUGtZT2FoOE5LQzlVZjJBdjZJZmxBZVIxWWJ0ZmNCb2JEcVBvOWFwVnZoLU5rc3Y4TVB1Njl6eWIwWkxyUUFmb3N1YnhVZk1VVXVrU2dZODlUTHlqdmhzTtIBmAFBVV95cUxNbXkzdk91QVJIRUN2THBKZ3JlazhRSXNxY2JIbW1EYnpIbTdBRkstelU3MVNlMVkzTFVSYVNtUEthUGtZT2FoOE5LQzlVZjJBdjZJZmxBZVIxWWJ0ZmNCb2JEcVBvOWFwVnZoLU5rc3Y4TVB1Njl6eWIwWkxyUUFmb3N1YnhVZk1VVXVrU2dZODlUTHlqdmhzTg?oc=5
-- **Source:** Newswise
-- **Published:** 2026-10-19T19:20:00+00:00
-
-## Oak Ridge hosts Nuclear Science Week 2026 events - Oak Ridger
-
-- **URL:** https://news.google.com/rss/articles/CBMisgFBVV95cUxONER5eFlzQ0Vnb3V2UFJYSHpaSGNyZGJraTJlUjE3Q3VadzBXcXZMc0VDTkVFaDZ0QlRPN2pycEZNaXd1REt6R19VNUQzbWtXcDl5aVFzM21nRjVFT0ppRHRiRVpsdk9aT2ZnUnduc3NoLXM4T2l0b01FZkJteXJ3d1FpZ25Ea0VOTG82X2tiODBZcldBRndlWnFDbTdOQ29veTd5aUFwak9YVUNQMDE3WkR3?oc=5
-- **Source:** Oak Ridger
-- **Published:** 2026-10-19T18:49:00+00:00
-
-## Trump Media stock falls 7% amid merger delays a... - Pluang
-
-- **URL:** https://news.google.com/rss/articles/CBMirwFBVV95cUxQMWQ0M2xWcy1kZUtBTmFxaVVGY0U0clJYYVpWY0ljdER5Mk8yRkhKQnpzUXUyamJFTXkza0VzOGN3Wk55Y1FYWDEtVE1TRU9RbTZtdC1BWUhOWjZHQ0pfVzNwTGxwd01yTUVDd3hKamlkRVF1NDFUY0ZYajl4eXlUTjBOcnJiTVNmTzBjZ01PZmxqQTRKanFMZV9MbF9XdDRtY21QWDNITTEwZzdjUzE0?oc=5
-- **Source:** Pluang
-- **Published:** 2026-10-19T18:17:36+00:00

@@ -1,8 +1,164 @@
 # NewsWatch — Iceland News
 
-_Last updated: 2026-10-20T22:57:41.102337+00:00 · 50 articles_
+_Last updated: 2026-10-21T09:10:00.889070+00:00 · 50 articles_
 
 ---
+
+## Van hire firm used by Iceland and Waitrose enters administration - Howl.link
+
+- **URL:** https://news.google.com/rss/articles/CBMiO0FVX3lxTFA5cEx0X3FRVDhkS1l3ZEtKTFZFczQ2QkY0bWRnVUx6WWR5dXN4TXVjQTI4cnduS2VCSnlj?oc=5
+- **Source:** Howl.link
+- **Published:** 2026-10-21T08:56:11+00:00
+
+## Iceland's Arctic Therapeutics raises $21.5M to push new pipeline to the clinic - Dealroom
+
+- **URL:** https://news.google.com/rss/articles/CBMisAFBVV95cUxQZk05N2hjMDZyellraVFNOGhfSWRSVjV4VjZpbVRodTEyS3h2MHRqWkRQbXlZdVR4SnlrcGRiVksyNXZmNGF1V3BZNDdwYVdwbFBycDFnTmJwcG94cVFZbVFsZmRubUtRR2RxRTU1ejN0LUFmN1Z6MG4wd3c2bDR3LVpFQk9QTWhuZGVZLTNWSklhckFvVjFudzR2d3d6TUlzczZVaEI0S2pEWjM2ZWoxRw?oc=5
+- **Source:** Dealroom
+- **Published:** 2026-10-21T08:32:50+00:00
+
+## Van hire firm used by Iceland and Waitrose enters administration - News & Star
+
+- **URL:** https://news.google.com/rss/articles/CBMingFBVV95cUxQM3B1ZFZXRUdQam8tYjJRck1kRXU0V0dTM1ZOWjQ2TUVnVUw0TW1jeDN6MFZRV3lVdXNsb2xLa1Jqa20tczhhS2NnczFLTUtJQWliZGNQWWwtd0xVQWpNaGNVRlVYUFB3akhkNGIzblNkYVNTTngyQnRRcURqamk0T1ZUZ1JUNnNab3k5R1dZWDQ4WnB3NU4tWEhjY0VpQQ?oc=5
+- **Source:** News & Star
+- **Published:** 2026-10-21T07:27:24+00:00
+
+## Farming on the edge of the Arctic - Farm Progress
+
+- **URL:** https://news.google.com/rss/articles/CBMifEFVX3lxTE5UVjdyUmktTUg5RmpJZGpxY3pQSDg1V2xVc0RHTGc2R1JQZTFUcTNwLU02NVhxR1FDSnU1SkVlRlZTcUFyeE5VRWlsaEVHaXFCNXlGSEh6Y2pmQkRxbk9pb1BSN2JmckpoUGlQNE90V3J2dS1Wc1NGMmptM3o?oc=5
+- **Source:** Farm Progress
+- **Published:** 2026-10-21T07:03:18+00:00
+
+## New JEF Commander Makes First Official Visit to Iceland - Iceland Review
+
+- **URL:** https://news.google.com/rss/articles/CBMijgFBVV95cUxQdXlnSXhIY0Z1NF9aR1hiemV3OVItZEtXNWlSTi0zNXVubDJpekYwb1pNSUhtMGZTMHBjUFBSYV8yYTEzSzJEQzgzQTNRdGlQdG9IcVlWZVUtX2dFZTV2WDZLalpFeXJ5cy0zY0J4N3ZIbHJkN05ZeExHLWlfU3ZOYVRJb284UTdXX21idTZn?oc=5
+- **Source:** Iceland Review
+- **Published:** 2026-10-21T07:00:00+00:00
+
+## Minor mag. 1.8 earthquake - Iceland: 11.2 km NE of Grímsey on Wednesday, Oct 21, 2026, at 06:42 am (Reykjavik time) - Volcano Discovery
+
+- **URL:** https://news.google.com/rss/articles/CBMif0FVX3lxTFBqVEh2WHRwMktaczJzX3FyRjJWbmJfemh4Q2U5OUtRamNnRld1MDFXYlp6aWxXbUdHSHk2U29zZkZIWld6bUxWdW9LWW1rV2twcWNSM2c2QXgwVHNjM0dlbU95VXktdE5BVy1BQmJJTk9MWkM0Rmt1YUtEc3ZpQnc?oc=5
+- **Source:** Volcano Discovery
+- **Published:** 2026-10-21T06:54:53+00:00
+
+## China, Russia Deepen Arctic Ties as Japan, Iceland Boost Science Cooperation - JAPAN Forward
+
+- **URL:** https://news.google.com/rss/articles/CBMiiAFBVV95cUxQS1Q4c1lHY2VoMUdCZ0gtbzBUeUNqWElaX1lYQnVDV2JiWHJBSjN4NFNmdm5zSGd4Z01CLTRNUDRvbmEwTmVGcUQxZk9pYzVlRnR5anJjMnVXUEdQalhBOE90cTg4eDNIdURkYzhTdVNnNkttNlpySDJ2QjJDQldTUF91R0lnM3J6?oc=5
+- **Source:** JAPAN Forward
+- **Published:** 2026-10-21T05:46:18+00:00
+
+## Weak mag. 2.7 earthquake - Iceland: 11.9 km SW of Eldeyjarboði on Wednesday, Oct 21, 2026, at 04:38 am (Reykjavik time) - Volcano Discovery
+
+- **URL:** https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSm1qMHFKTVBzNGozVGkyaF84OHVYMTFXSUVnRE4wblBfSFFGYUFvVGQwMmIyTVNKVTVQSE94c2NtdUJDMHJYQlJCVmhDWFFkRnZwdE52dkc2ZXUtNUxHZ2ZPZVVRTzVPQlNya0hxZXp2ZnpWaEpETmtMSmZMYU5mU1JlM0Q0ZWppQ0dKS0w3UmJtV25OSFVteGtZcktfSTAzdG9taURJMS1mVGtVOG13SVVTOEtzREo2RS16THdOZF9kUDA?oc=5
+- **Source:** Volcano Discovery
+- **Published:** 2026-10-21T05:07:27+00:00
+
+## Minor mag. 1.2 earthquake - Iceland: 3.9 km W of Þorbjörn on Wednesday, Oct 21, 2026, at 04:38 am (Reykjavik time) - Volcano Discovery
+
+- **URL:** https://news.google.com/rss/articles/CBMif0FVX3lxTE80UUFObHdHQkRhRTlHUllSMkZhSm43elE1U2pUTUtMQ1NfM0NaZjNreDRWcjlfaS1zNmJrZWhFX2ZzZ3RtLXp5X3VPUTA3Y2dac2RJaWZGZGJUM1VnQUdpbElubVJhMTBaejNLZlpsYlllZkFxajBKZzNRYV8wOW8?oc=5
+- **Source:** Volcano Discovery
+- **Published:** 2026-10-21T04:51:00+00:00
+
+## Minor mag. 0.0 earthquake - Iceland: 4.5 km NW of Hekla on Wednesday, Oct 21, 2026, at 04:39 am (Reykjavik time) - Volcano Discovery
+
+- **URL:** https://news.google.com/rss/articles/CBMif0FVX3lxTFBVVU5BUUlYWXRPV1NmdTlGanFLLXNYbDlRX1c3QVYxeUpRYXlpYlZ4dEZON2dyZU9ZNWI0bTNFX0JHbGRyQXpRc3A4cnJCVmEzdER3VzdDMXk0aVB1Wlo5Mm9EZWRxSjlHVFdtU1FWUFFObEVPdjlYakFQX3ZhX0k?oc=5
+- **Source:** Volcano Discovery
+- **Published:** 2026-10-21T04:48:22+00:00
+
+## Extratropical Cyclone Whips Past Iceland - Mirage News
+
+- **URL:** https://news.google.com/rss/articles/CBMiggFBVV95cUxNbWFhT2d3bHJPYmtfLXRxV2xkVkdhSEY2Yi1xZTJVMndrcmlPR2wxYVRnRjhiVkVnV182MGxzV0FwRTNZNHEwbTYtTVBpTUltam5SMFlfbHZSNmZFaGl6dG1mU0ZJRU40S3RKOXJvUi0yLVhucFllSnZKS0VkWlV0ZHJB?oc=5
+- **Source:** Mirage News
+- **Published:** 2026-10-21T04:44:00+00:00
+
+## Weak mag. 2.8 earthquake - Iceland: 17.7 km S of Eldeyjarboði on Wednesday, Oct 21, 2026, at 02:28 am (Reykjavik time) - Volcano Discovery
+
+- **URL:** https://news.google.com/rss/articles/CBMif0FVX3lxTFA1LTE3UU9QREM0MFhlMTd3dXloOHFxODF3cEd5aG0yYXpxSHdLTDhNV1ZPR3hKa0pGakxSTDZ6a2pEaTZBTE9nZ3lCWmVFT1FpQXUxNjRodmF0N281QUxGQnZHcWt4QVVqalF1dUl0TGY2MnFvaklyZkJQS0VpMWM?oc=5
+- **Source:** Volcano Discovery
+- **Published:** 2026-10-21T04:34:45+00:00
+
+## Where was The Odyssey filmed? (with maps) - The Worldwide Guide To Movie Locations
+
+- **URL:** https://news.google.com/rss/articles/CBMiXEFVX3lxTFBwdkNrYUs1R0h4X1ozWmt0NkNOcnl5RVRNXzNIcWZ1YmNyaGNvWHNKYVRyZlJQWV9haWV0cC12S2x1TU1QUWllbUEzLWg3cEhpc2p3VTliVFZoSHpn?oc=5
+- **Source:** The Worldwide Guide To Movie Locations
+- **Published:** 2026-10-21T04:01:22+00:00
+
+## Extratropical Cyclone Whips Past Iceland - NASA Science (.gov)
+
+- **URL:** https://news.google.com/rss/articles/CBMilAFBVV95cUxNUEdHbnFiOFBteHpPX2JpYk0weVlBazdhdVJqQWVtZ1AwWGZrRTJiS2ZDWkcybVdGSXJhaXVTZHFyRUhVNUZpTDRpZGN3czdxbDdsQnU5SGU2WWRnNld3UnlXR0NaYWlYM0VXVWJYWFA1U3laSmgxa3puM29peUVIU3ZaUFJZSHRzOHdjei1RU29IMnhn?oc=5
+- **Source:** NASA Science (.gov)
+- **Published:** 2026-10-21T04:01:00+00:00
+
+## Minor mag. 0.7 earthquake - Iceland: 4.6 km N of Hvannadalshnjúkur on Wednesday, Oct 21, 2026, at 03:24 am (Reykjavik time) - Volcano Discovery
+
+- **URL:** https://news.google.com/rss/articles/CBMif0FVX3lxTE1odG5OekN2Wmk0MGdvUGJrVS1tNjlwcjZOYVhuZFcwNFIzSE81VXZjano3Rkh4Mzh6dDlkN1JucUdtNzltT3BENTlHbEtpRnB1UklhQXY0M0RTbG5FQVhVS2xkTGZBdHFPU3RtMFVFNXdwaG44RkMxWkxZZVVBSDQ?oc=5
+- **Source:** Volcano Discovery
+- **Published:** 2026-10-21T03:32:21+00:00
+
+## Weak mag. 2.3 earthquake - Iceland: 18.9 km S of Eldeyjarboði on Wednesday, Oct 21, 2026, at 02:36 am (Reykjavik time) - Volcano Discovery
+
+- **URL:** https://news.google.com/rss/articles/CBMif0FVX3lxTE8wUXNCZlJuTW9LZTRYaWwzT0I4MmpyVW5MZFMwMGtjdFA4NHlTWVhuNWx5a1NNYWdjWjRrUktabWdXMnNPVXZ4WXl4U01TMU15ZGYzSzFXRzludXhyRHlpV3dZQ3ZtN3RfN3dUVjAxazNPNHBMcmU3TkZjUGlHb3c?oc=5
+- **Source:** Volcano Discovery
+- **Published:** 2026-10-21T03:08:18+00:00
+
+## Minor mag. 0.3 earthquake - Iceland: 1.5 km W of Þorbjörn on Wednesday, Oct 21, 2026, at 02:19 am (Reykjavik time) - Volcano Discovery
+
+- **URL:** https://news.google.com/rss/articles/CBMif0FVX3lxTFBfRTZoaG11QmQ3bm1wanlzV2JNbWlkczZiTkdpdmlRRmpoVnR2TW5DcDJWVmp2eHctbmhHWXJrRHhZUE5LRTRXYUttRHoyTDJ3RFlWNjI3cDUtV1lZaDdlb01ZMEUtTlBWc3BBZTlSLVBaZUw5aHdtdUJVOC0xeUE?oc=5
+- **Source:** Volcano Discovery
+- **Published:** 2026-10-21T02:34:56+00:00
+
+## In the wilds of Iceland, a 25-year-old mystery is claiming lives again in 'Hildur' - SBS
+
+- **URL:** https://news.google.com/rss/articles/CBMif0FVX3lxTE9xc19JX05rVHVSdUplWUtrYUdkeTNnLXVDa3FXNGUzaVd1em40Nk5FUFp1S281ZjN4ZEl2VkJweXJJOFUwb1Mtb1hGdHBYdjhXREFxOXJpYnQ4QkdqNUdxblBBT2g4NDBPTm1qWmdyY2dJQ2h6NUlaemhndVVsajA?oc=5
+- **Source:** SBS
+- **Published:** 2026-10-21T02:21:33+00:00
+
+## Memorandum of Understanding on Cooperation with the State Archival Service of Ukraine - Ísland.is
+
+- **URL:** https://news.google.com/rss/articles/CBMiywFBVV95cUxPVDJoMWdoOVdrWDlKNG1Jd3NCamhWR3k2YXlaOWtuQTk4S2plbjlNZEk2LWp1ZTVoLUdPY2tlS3g1b0VVbHhsYWxSeXhuS3ljUDNHMzMzVkljSmtIYjhScU92TFhvcUlVZjhpSGxXN2xnd2ViXzlWZjJ3U1BUVFhHN1FhNXY5cUhFTDEyVUJ1eEZJMUdkZmF1aWFBcUQxXzI0c0hrSDhtOHh6R0xXZ0VlTXVERnV2S0VuRElNbnoycWhBQ2cwMmVwTURaUQ?oc=5
+- **Source:** Ísland.is
+- **Published:** 2026-10-21T02:14:59+00:00
+
+## Minor mag. 0.6 earthquake - Iceland: 4.0 km SSE of Herðubreið on Wednesday, Oct 21, 2026, at 12:44 am (Reykjavik time) - Volcano Discovery
+
+- **URL:** https://news.google.com/rss/articles/CBMif0FVX3lxTE5SV0RDSTB6R0R1TzBFM2RYYkVrVEJQRHBhVF96aUpQNjlUdlNhZEtwY0lNMElvTzFZaks1bl9lLUx5d1BkWFdMMnF4NlV2dFBCNWRXNXRDMHZiUUhxdHVGSGsxTWZCTUs1VGxRZVNYTmZRa1ZTbUI3VTFiRkF1Tms?oc=5
+- **Source:** Volcano Discovery
+- **Published:** 2026-10-21T01:56:11+00:00
+
+## Minor mag. 0.7 earthquake - Iceland: 1.7 km SW of Herðubreiðarlindir on Wednesday, Oct 21, 2026, at 12:46 am (Reykjavik time) - Volcano Discovery
+
+- **URL:** https://news.google.com/rss/articles/CBMif0FVX3lxTE1TR1ZZYVFJeVhqdlJJVnpWZ3BOazIxSkxVQ2lqR2lwbXhKY1Y3QTlEbXJWVS1BNFhVaDY5NklZTFhLOUs3VXFtb29RWnFUUEF2UzFQdEViTUlDclZjWjU1RW10a3hRSVBvU3NKRUdkUkJfMjhOb2pSbW9WRVhEM0E?oc=5
+- **Source:** Volcano Discovery
+- **Published:** 2026-10-21T01:56:08+00:00
+
+## Weak mag. 2.4 earthquake - Iceland: 13.6 km SSW of Eldeyjarboði on Tuesday, Oct 20, 2026, at 11:26 pm (Reykjavik time) - Volcano Discovery
+
+- **URL:** https://news.google.com/rss/articles/CBMif0FVX3lxTFBrOXhKSjJ6eDd5OWs5UE55aVI2cTZtS0NTU1kwUjY0MTBrSjNiMWo0aDR3Zy00OUhBSkh6dENKM19OU190eXE2a1NJNjJrdDJ2TTlSYm1fZHlWb09UY2Iyd21uclZkYUVtUFJvWFpBanhxV09jX0djT1ZTbWIwQXM?oc=5
+- **Source:** Volcano Discovery
+- **Published:** 2026-10-21T01:41:05+00:00
+
+## Minor mag. 0.1 earthquake - Iceland: 3.5 km S of Fagradalsfjall on Wednesday, Oct 21, 2026, at 01:27 am (Reykjavik time) - Volcano Discovery
+
+- **URL:** https://news.google.com/rss/articles/CBMif0FVX3lxTFBSQ3diT0NDS2lMSXRwNXZsZXYtYXBYTm9zcE1ndHhXZ0JvQ0U0RXZYUURzTkk1RjBNSGEweE5velEtNlRMa0RiRUtLTkJsOHVyNzQybHpuaHMzNEFqX3NiRll1SEtkQnlKNXo4MURRTzNSdThuLTRteHlhZzg0VGM?oc=5
+- **Source:** Volcano Discovery
+- **Published:** 2026-10-21T01:34:48+00:00
+
+## General Secretary and President To Lam met with officials and staff of the Vietnamese Embassy and the Vietnamese community in Denmark, Iceland, and southern Sweden. - Vietnam.vn
+
+- **URL:** https://news.google.com/rss/articles/CBMi-AFBVV95cUxPaFR6VXFLTC1jb3RNZjBDM1VQZWNHLXh2LVJtUlFNbDFtTENNcUFsc25Cd1kzSVY0d2dDWFo3SjhwdTBQUGhUUThSRHc5RUxMdENrb2ZlbGpwNF9kQV9FOGhVdlc2YWY0QkZ5ekNJZEVtZEFud3pvejdfcFFPQzZJbjRaMWpmM0Y2dV9acXk4N3pXLU5ZN09KUUVzTFdFQTNYUkdiQ3ItZjFCQVNIaW1DNDlwU3p3RlFhbGZjNl9oVGN0eUt2MjM3OHBONUhuMFlJeHJoVG5qR242cVdOdjVjWDJWZHJNeFU2WEhtTW0yZ2lPR0QxdUNxaw?oc=5
+- **Source:** Vietnam.vn
+- **Published:** 2026-10-20T23:46:15+00:00
+
+## Top leader meets embassy officials, Vietnamese communities in Denmark, Iceland, Southern Sweden - vietnamnews.vn
+
+- **URL:** https://news.google.com/rss/articles/CBMi2gFBVV95cUxPZ21XX1pjUUdPbFdNQU1tWmk0MzFSbDRuNmFsdGJzSW5pYW1uRXEwTFFfNmpQZnRQR3l2SE50OWlZdV9FT051b1huNEk1ZDJXbXo0VVVUUkVUd2RrT3duYm9FSTItTkV6RDdQeHkwaUtsSTFQUGZCMlpHWGU0akxuZk12cWhxcmpiQzZBNWZCdzNHVU15dDBHQmlDUkRvNXV4eXVtWWlBa3BtMWZnckdsejZaOTNLWjlnQ2xqWWlQZ3pYdWdwUXBuUHNoS1l1Q1ZXazBpZW9rbFExUQ?oc=5
+- **Source:** vietnamnews.vn
+- **Published:** 2026-10-20T23:45:00+00:00
+
+## Air quality in Hveragerdi - IQAir
+
+- **URL:** https://news.google.com/rss/articles/CBMibkFVX3lxTE9Nb3pjaThJMXNVYmd1QVo5ZUVNSWRESzBYMnNoQ2tzckVmeC1mS3Bicjgxc2c0WjJxZXZsWGUtckxMbkV5TVJqU1MtWFRUZkc2WTl4ZWpBVEZMc3JDV3Zoell1Q0pZMUwydmRlbjNR?oc=5
+- **Source:** IQAir
+- **Published:** 2026-10-20T23:19:37+00:00
 
 ## Minor mag. 0.4 earthquake - Iceland: 5.8 km WNW of Landmannalaugar on Tuesday, Oct 20, 2026, at 09:59 pm (Reykjavik time) - Volcano Discovery
 
@@ -147,159 +303,3 @@ _Last updated: 2026-10-20T22:57:41.102337+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMioAFBVV95cUxQeEh3TGJGR1U0Y3A0b2Vpa2paaVRfVExiREVsYmxsRXVjT0pXaFJlUE1za0s1Wm5tWmlkSW8zZm1XT0gxdkg0RVZmblJlbkRNZWxfQnpFRjRBN1loQjRYVVEwN2hCU0RfUWVINWJSeDdscnR3cWkxYjVUckdscnVBVmZSQjVxV0czcTlMMlMzVzJBWG9CU0dHa2FXVmxWTWNs?oc=5
 - **Source:** Aberdeen & Grampian Chamber of Commerce
 - **Published:** 2026-10-20T07:30:00+00:00
-
-## CPF maintains A grade in global ranking of pension systems for second year; overall score goes up - The Business Times
-
-- **URL:** https://news.google.com/rss/articles/CBMiwgFBVV95cUxPeWpVN2dRdmpsM0hDVFc2bTM0WnBMWGtqb0hKV2xKR0daVW1RUzNyOE41OXdEOFJIajJWU191dWxIR3lxc3pQWFJwS0pZVEYtQ2FMczVRWUFFakR6YzZhLWhRcWFEWGo3T01GUUtQaWtTSTY2aUI4VjNtcWNxQ29yb29DYy10azEtZE5VS2hNSXNWZnpTLWNLOVVTM3FuNUdlRmxKcVk5OXZFLUppdUl6Qkx6MVZwZzNBN0hubUhCaTNJdw?oc=5
-- **Source:** The Business Times
-- **Published:** 2026-10-20T07:23:00+00:00
-
-## Cass Sunstein to Discuss Social Media With Iceland’s President - Iceland Review
-
-- **URL:** https://news.google.com/rss/articles/CBMikwFBVV95cUxQRlY1N0JRSHVYb05DS2JDS2tyWWhXR3NHVnU5eHdSeWVFaUJyUXBnanR0R0Rsb0dKNE9EV3hWZDFoZzJuR0REMXR5RmRIR1RxN05FMHhDQi01Mi1hb0hvMlZ5SDZkZ3dIZElIQXhzY2hlenQ4eXB1cS1nSnlRaDRseGw3MzFZYmkyNWV2ZDZCUEJJVG8?oc=5
-- **Source:** Iceland Review
-- **Published:** 2026-10-20T07:00:00+00:00
-
-## Iceland Holds Key Vote On Reopening European Union Membership Negotiations | AC1P Dino Prižmić (nODLXc86Dp) - Unisba Media
-
-- **URL:** https://news.google.com/rss/articles/CBMiggFBVV95cUxQcEwyMjg3WjdXMTJtanVwYTlfZGRCZm1PNjdtSks0anJ6TjN0SE40YnVQdEtPNnhmZF9yNmRQdm1RTmtmOXQ5aWQ0MWFnR3RpaWpCdlZ6Nmt0bng2UDJsa2VNZWRSLWdKMmtRQ0Fqa3d6WTJLeHpYWUlNekhaanoyNkdn?oc=5
-- **Source:** Unisba Media
-- **Published:** 2026-10-20T06:00:24+00:00
-
-## Summer jobs give Iceland a 'competitive advantage that must not be lost' - RÚV.is
-
-- **URL:** https://news.google.com/rss/articles/CBMitgFBVV95cUxNQzRnNG5LTjhJXzk4NG94YmRqSFBJUmtyTU56aUlfaXowZ0lqRjQ3bjJNZDdJOGhValAtVDViX1Y0TXYzZmdldUJHMXNDTmZZalB2eU5QMnNYTFg5RVNRbDdoQXBIbnc2Q0JBVkxkSndrdGEyV1FDVTFTZm84ekZkYkhIN1pVWnpCTzRxZzFKdWY4ZktrQ2ZQUGFpSnNYaDVSRnRTZWVyN001dE40OUNCdk8tVjM1dw?oc=5
-- **Source:** RÚV.is
-- **Published:** 2026-10-20T05:53:00+00:00
-
-## Vietnam - Denmark: From a Green Strategic Partnership to Co-Creating New Values - Vietnam.vn
-
-- **URL:** https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVVBLMlJQMV9ybHlSaktaVjRUZlRCV1BUUElsQndlVUxNaWtGUnp3Ym4yVktDWXV2MmxVYVl5cEZWRXFfXzZtS3ZWaFFSTmRCYW5vX2Z3YlhqT3BjU0hxdDZYeFBqc2w5WTlLSEx5RGxlUEtNUXZMNnBaV1lYR3NZNDFJTGx2S00yMnllVDkyWW1oaFNOTlBnRVdxanBvSW5HNkc2QlRGTk4tQQ?oc=5
-- **Source:** Vietnam.vn
-- **Published:** 2026-10-20T05:29:24+00:00
-
-## Iceland's Embla Medical Q3 sales rise on prosthetics demand - TradingView
-
-- **URL:** https://news.google.com/rss/articles/CBMiyAFBVV95cUxNVE5RWm84TlBQYXBiN1h1Sl9OWjcyRVdydGJKcTg5TUhoWGpoTmxLYWJpc0Z4RXZKakd0cGI3ZEdmcXlGTlR4dm5nZlFNRnVhaHAySEEwSlQ1N05fN1FhM1ZsYzZWaUtmR2lJeUhKVm1wbmtYeENTSldqN2dwN29Pem1IdUxVelNXa2JhUk12bW9RNWh4VUFCY1RjdlV2TVlQbzM2bTQwZFpNZHFYckxhUV95Nk45SDd1Y2FwSHd1eHVBRTZ1U0hDaQ?oc=5
-- **Source:** TradingView
-- **Published:** 2026-10-20T05:10:00+00:00
-
-## New ferry link between Aberdeen and Seyðisfjörður in Iceland proposed - The Scotsman
-
-- **URL:** https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSm1laERUeE9tLXdJYmVwNzdzcGEybG1kZVhBbF93Sy1aY09qYmYwWXRVSlRXSGxFU1lOYUFsWGotd2I3WWgtQnh0LVB6dGUtUGZQdkFabGlaeHRXZ2NnOUpvbkZ0c3dnX0xULXFJazBtRmVaOWpxcERyUjYwXzZjSlNZV2ptRkdIUVBlVERBeWw1YTFhS2gzM0YtY3lRQzllSkctSHUyUUMtU1ItMm9CajBRYjlFMl94?oc=5
-- **Source:** The Scotsman
-- **Published:** 2026-10-20T05:00:00+00:00
-
-## China/Island • Behind the warming of relations between China and Iceland - Intelligence Online
-
-- **URL:** https://news.google.com/rss/articles/CBMiygFBVV95cUxOZXhraUdrMjRLX1RVaGM0aHF3VnlwZmhFckNTcm5fMG9sOFVENkVxU1ZKYWxLa0tITDkxbEkxbGNKMEh1bFdqSkREZTBOWGRHV1ZQdkNCU1ZXS3pSYnQ1Mi1STUFNd2tSbTUtcExScDh0RHZwVnNydUtOUmNETmJoNWJ3OENxanUzcHJfbXVKOFFZdVhQeG11MUZNRGdMWG56WHRybllnX0lOeGtuZmptbWhBMUdoR3ZiZm9fY1kyb0VKc1BsVE5McEl3?oc=5
-- **Source:** Intelligence Online
-- **Published:** 2026-10-20T04:01:17+00:00
-
-## Where To Stay Along the Ring Road - Guide to Iceland
-
-- **URL:** https://news.google.com/rss/articles/CBMie0FVX3lxTE1WNjVHNzdWdlZFSFlUTWJWOXAzd2J2QkdlRlYzbXRqMy1EZVczM3h2WDRuZjJhTlZHNElUTUZfMGQzRzZySzV6enpIZjc4MVpXcUJsaHFJdWdJYTQ3OVJLSnEtcmNLR2N3UkVIbW5FNm1waWtkZW5uc2ZVbw?oc=5
-- **Source:** Guide to Iceland
-- **Published:** 2026-10-20T03:34:45+00:00
-
-## Arctic Fish: Mowi-controlled Icelandic farmer reports €4.2 million quarterly loss - Salmon Business
-
-- **URL:** https://news.google.com/rss/articles/CBMisgFBVV95cUxOdTRsQU9zZV9wZ0RWeVdHTk5LbHNZT2U1UDRidWQxc1VBZHdLNWpYQ2RhOHZQWExIX0VFekFKRmdFOGNWSmJiLVlmNWhLYmw4SlpvWGxsZEJiMld1dW83N093QkYyNUJRWjZhNWFXeEoycDJBR2RGTkY2cHRaZ3JXZUs3MUpDVFRWa2NkaFh2Nl9fSVBEOGFwNVpjdmZTdGFFTHZadHN3a2t3cGs4bnpWNWNR?oc=5
-- **Source:** Salmon Business
-- **Published:** 2026-10-20T01:49:45+00:00
-
-## 50 Degrees North Nordic Roadshow draws more than 300 advisors - travelweekly.com.au
-
-- **URL:** https://news.google.com/rss/articles/CBMilAFBVV95cUxPRF9JWjR2NDdKR2QyUUJkYU52eDRrZV9QdFh2OEhyOUFIdFZfb0VTV08xWDAwOHBiS19MWU1KZXhmcXlnQk1fSFc3Ni01cTlKVVM2ejUycjZRU2pGZUs5UGliVWk2OXVvY3JndkxSRUxaVHE2dVJNVDloWjdZb0huTjNqUFpIYUc1RXRBSGluYVl2bWFr?oc=5
-- **Source:** travelweekly.com.au
-- **Published:** 2026-10-20T01:30:40+00:00
-
-## Nonstop Flights To Make Your Travels Easier - Wendy Perrin
-
-- **URL:** https://news.google.com/rss/articles/CBMiggFBVV95cUxNZllGLUR1T0NiRVgxTGVEOTFiX1pBbkFpRmJ2RjlZVlRtZE9kS3A1aTVnZVJBbkZwMk80clloNzNOaXVIR1p5YmRza2hrdFlySHZET2sxcWRqR3pldWZGWWpDdW12N2FscGJOcS1oTkRJdmczRkFSMVNjNHB4SElxQzBB?oc=5
-- **Source:** Wendy Perrin
-- **Published:** 2026-10-20T00:30:19+00:00
-
-## Unusual Christmas Traditions in Europe: 5 Amazing Customs - Visit Ukraine Today
-
-- **URL:** https://news.google.com/rss/articles/CBMinAFBVV95cUxPYUdPUWdtd3NUTFI5aVMzMEd0djlXTFdsTFJWS0xISjVqQXlqMmFNbUpUd2ZaMnd6MUJSc0dWZlVwWkFBV3ZLdUNyb0pUY01wU2w4cktCZ0lSZW1fU2hlYnZuT1RzdXFUcnBzUGxXbGlPbE1TSXZLTDFocFoyYUpDWUl4UlJaa1JXMENReU5kMkZhdE92R24wQjRwd04?oc=5
-- **Source:** Visit Ukraine Today
-- **Published:** 2026-10-20T00:07:20+00:00
-
-## Nicole Kidman Called This Luxury Iceland Cruise a ‘Trip of a Lifetime’—and You Can Book the Same Itinerary - Travel + Leisure
-
-- **URL:** https://news.google.com/rss/articles/CBMimgFBVV95cUxQRHFqSkh0ZFdpcWlzRllNemZ0TXdrMTNEaWJnXy1LLURjOUxMRThMeFhSYTZEUVQxVVQ2dDN3SzNCbzJabDROeG5SQ1NLYXBIRzVUY3ZIc09hZzFjdHJFTzd0Y1ZXaDBuMVlLTkI4X21xOUY0MDdPZEdlUzJabHZPdzdTUENFWjREcmg2S2s3VnpvQ3RoZ29FeFln?oc=5
-- **Source:** Travel + Leisure
-- **Published:** 2026-10-19T17:56:08+00:00
-
-## How Laufey Brought Jazz Standards To A Streaming Generation - That Eric Alper
-
-- **URL:** https://news.google.com/rss/articles/CBMiowFBVV95cUxQUTI1cWpwWXFSWl9tUnRXakVpMURKMF9PVm1sQ3BuWkVoOEsxdUlhRUtRVUFoRHl1bElyVTladW1NdXF5SVRBeTdMb0tSeUtfZW9ucVc0WmFKSEp0aWVNQldvaHFxQmstQkp3SEZHeDVTbm54UXdhWGdtazZLOXNxS2Q3UVFndWxzYmM2VkhrVHAtZ2hTWG9aR2d5ZnJ6aXE5cW9V?oc=5
-- **Source:** That Eric Alper
-- **Published:** 2026-10-19T16:24:43+00:00
-
-## In photos: Iceland strike gold at Largs international volleyball tournament - Largs and Millport News
-
-- **URL:** https://news.google.com/rss/articles/CBMirgFBVV95cUxNVjQ1dXRHS0RKTHlOZGNzem1NVUlQRnVhVUpXUzRrLVZjdWx5ckoxbVNuNzh3Z3N1LTRnMEh6dVRvakIxNVBrN0hhS0otTzZhbUk1b0JiNnNGYzlvZ2d4Mkw1ZUZHQW9RbkVxX18ydWY5UlpLYXlkSnpvdDF1R19hdWtDUXc1NGhjZ3RqMmsyNkNDVHhLbS01ZHlIWlZDVUJuUmp3WHpTMHdWdmZYUXc?oc=5
-- **Source:** Largs and Millport News
-- **Published:** 2026-10-19T16:22:51+00:00
-
-## Best Transfer Bonuses Right Now + Iceland Flights Surge - Thrifty Traveler
-
-- **URL:** https://news.google.com/rss/articles/CBMijwFBVV95cUxOS1lSLW9oQ09lUERmaDduanEyM1lDOC0xQWFrVW45WGZIT2Y2MzZtc2h3TWxsUHZGRF85ZW5nZ2N1T21fME1HN1kwX09jNUVocVdRNmJLd1EyMDRONjl4Y3pNdU9SeFpUVFJGbnNMM1JycS13aVBKUXZCaWFLVGRGVC04RlllaXFzb3FhZDV2cw?oc=5
-- **Source:** Thrifty Traveler
-- **Published:** 2026-10-19T15:52:49+00:00
-
-## M5.2 earthquake strikes near ICELAND - cedarnews.net
-
-- **URL:** https://news.google.com/rss/articles/CBMigwFBVV95cUxOVll0VVJHNDlWVm1Bci1ObGhsME5wdG8yd2E1a1UtWC1INWJwZ3ZSamhiWExLcFdUZEo0aEl5Z1ltaVBPb0V5QW1tTGcwRkdHQm1aUGVlR2N4TGQwM0NBSTY0WGFyTEg5ckVLNzhfajMyUjhhY21uWDMySnR5SjN5TURvWQ?oc=5
-- **Source:** cedarnews.net
-- **Published:** 2026-10-19T14:50:28+00:00
-
-## Strong mag. 5.0 earthquake - Northeast, 219 km east of Reykjavik, Capital Region, Iceland, on Monday, Oct 19, 2026, at 02:44 pm (Reykjavik time) - Volcano Discovery
-
-- **URL:** https://news.google.com/rss/articles/CBMioAFBVV95cUxNSWM4UWNSQndlY2RwRUwwTXVCTzUxLW80UURqTFY0aHZOaTJjUF9Sd25uV0Fta2Y4dUhXbVp1T0xnMl9sOFZKVzRMOExmWTYtM3JUbkRxZm56c2xDSk5VQkI4eUlaX09VOWpyZEtKcG8yVHZ3X1ZxV1ZJNjBQMTAtMkpWMUN6S1g0Q0IyM01WT3hFbmtIYnNQb1h1dEoxX3J1?oc=5
-- **Source:** Volcano Discovery
-- **Published:** 2026-10-19T14:44:11+00:00
-
-## Icelandair Announces Service from St. Louis and Expanded Partnership with Southwest Airlines - St. Louis Economic Development Partnership
-
-- **URL:** https://news.google.com/rss/articles/CBMibEFVX3lxTE94TXAxaXRyclMxdG5hQ1pZcXZpdFprTHBPYUpaTW85TUhTVTJwT0VPcnVQbTVsTktWcFhtWFR4Z2YwMFRqbXBhMy1iR2JQRzl1TjR2LU56NS1IenFSNWpWMFY3SC1GZ3dienpkcQ?oc=5
-- **Source:** St. Louis Economic Development Partnership
-- **Published:** 2026-10-19T14:36:35+00:00
-
-## 10 Unforgettable Stops in Iceland - Yahoo
-
-- **URL:** https://news.google.com/rss/articles/CBMijAFBVV95cUxORW55S2VmREs0MEhFSV8zRzlxZEtXT1ZaZFQwdXBQX21MNDg3bnprbGdxQ3hGeTR1cjdyenFYVmg1WDFaSDJGZGNOMmRqVk9iVlRqTkFESEpiVnZuLVI3bThaajVXQk9Xb21FdV9HOWI0M2FqTldtdkxpRUxLaWRuX2UwdTE0eGZ3OVZFTQ?oc=5
-- **Source:** Yahoo
-- **Published:** 2026-10-19T14:01:03+00:00
-
-## Ministry reverses decision on publication of PISA results - mbl.is
-
-- **URL:** https://news.google.com/rss/articles/CBMisAFBVV95cUxNemZIN3lfd0t3WndIZTJDTkJZZU03d3VRc2x2YzVmMXVkdHlGSzRYV2g4QUZGekZ0NTNXbUMwNERiTmZnaThaRkJFR1ZLeTVTNzZRUjlJemxYM1RjWnpRNzNMUm93amt1NVdIdktvTUJzYlRJRG5wZVR5OXVpZFotYkpKbE9meHdKR3dWM1QwLVBPVkVzaDJza1pZbW5LQm5NNEVhOVltQmkxSlFybVhkaQ?oc=5
-- **Source:** mbl.is
-- **Published:** 2026-10-19T14:00:00+00:00
-
-## Mag. 2.2 quake - Iceland: 4.6 km SSW of Bárðarbunga on Monday, Oct 19, 2026, at 01:38 pm (Reykjavik time) - just now - Volcano Discovery
-
-- **URL:** https://news.google.com/rss/articles/CBMiwgFBVV95cUxOLVhHM3JsZ2R4ZmxkUmxHZnJlT083bGRvMmxmb3NyZGpYLTFtZGhpNmlkaHZtMkFIYUpzbkY2M3p0TmhBM0o3TVNIUmtGbFV0ZEZmRW5neXdBR1NSNkpieW04SUdaU040VzJHbUhnTVNnQXUzODBrcm5sZlpyRVRRUE5OUFJEUG1kZERFYUJfM21UbnJ6WlBhM09oWUFVcm9GYlFiS29HQ0FKNUNvejQ4NTRKTTU2YWlLUDNsQjVaR2tMQQ?oc=5
-- **Source:** Volcano Discovery
-- **Published:** 2026-10-19T13:50:00+00:00
-
-## What to Do This Week | Queens of the Stone Age and More - Iceland Review
-
-- **URL:** https://news.google.com/rss/articles/CBMingFBVV95cUxOVm5ZYUd1c2NGTWNfRkZVaWx3ZTI0cnR2LU9CMGNUdC11LTJMbDlmMENRMkplZURqaU1zcXpBVDkxaGRyb0stNlhPd092ZjV2d1VFa0g5Vzc1bFBsSUkxNTZkQnV0czZMcjhjWEJlUGpSZHBHVTk2czFheElCb1hOdERZbFd0emNtT3NIRTBxc2Njd1BrWjJTUmRIQjFfdw?oc=5
-- **Source:** Iceland Review
-- **Published:** 2026-10-19T13:47:57+00:00
-
-## Weak mag. 2.8 earthquake - Northeast, 222 km east of Reykjavik, Capital Region, Iceland, on Monday, Oct 19, 2026, at 01:39 pm (Reykjavik time) - Volcano Discovery
-
-- **URL:** https://news.google.com/rss/articles/CBMiwgFBVV95cUxONWlNakptZjB0LUdkNlhjTm10endyU3ZEZHhtSDRBVXN5NFd2aXF3OXVXTVVFZ3dNcmVXNzRSdkJZNlNJRzVnZS1TZkZnbHgxMmkyTXJKak5YT3BpSzloOFJmeFVQZ3RoWGY5clVRMmJ1SDJISUYwemQyNlI3VXZ1eTliS3JELXRaajdOUFdsRGZxSTFkR1R0cHpFdVp2d1N1Ul9sMGlDNXVUUGRQRnpodFUzdTRSS1lrRnA2MXpmVHJlUQ?oc=5
-- **Source:** Volcano Discovery
-- **Published:** 2026-10-19T13:40:32+00:00
-
-## Weak mag. 2.3 earthquake - 1.6 km SSE of Bárðarbunga on Monday, Oct 19, 2026, at 01:38 pm (Universal Time) - Volcano Discovery
-
-- **URL:** https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWXp6Wi1xdjJzMzJQX2J4eUJPbXhaWVJHd2g2cXNHTEc0TDFHbVM1bWNmczg4S181N3FrMEpsaU90d2JCSUhhRndPUVl6ZWllTm1kblo0UHhjWHJxaU9GTkZvYXI5RHRjTzJDS3lVUUlneEIyOWxORXBqOVN6QTZELTRlbTFCOUVUX0RsdGhRUXpHMFFsbkNTSUhRcWc5OURSM3RhLVd0aUFkUWxkWjhtdi01QXJQMzFXU2kwd3JHSXE?oc=5
-- **Source:** Volcano Discovery
-- **Published:** 2026-10-19T13:39:32+00:00
