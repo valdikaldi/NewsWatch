@@ -1,8 +1,92 @@
 # NewsWatch — fusion energy News
 
-_Last updated: 2026-10-21T14:54:11.040781+00:00 · 50 articles_
+_Last updated: 2026-10-21T19:56:46.394505+00:00 · 50 articles_
 
 ---
+
+## Rigid Cryogenic Transfer Tubes Market to 2035: Semiconductor Fab Spending at 7-10% CAGR Drives Forward Growth - IndexBox
+
+- **URL:** https://news.google.com/rss/articles/CBMi0wFBVV95cUxNaU9WbVpLQ2tGN1Z3QWNpZE45TGtfaG13MEVTZ21ZLUd2eVRmaUJJYjlQanMwYzlpTDZ5bTFOMjJwVHpkbHVLLU1ZcXdmOERGcTV0YlNoVmIxMFhHeHNhV2JsbTVHU3E5X210Uzd0YlFrMmhCd0dGZWxXekNWUkNXS2JTQmxrb3dCcG54Q2kteTdyaTAxQ011VEZCUEZ1RGNnbU5xajFTYlpwVjdWVWpmXzJWNHZwUk44NEFqMlRWUnFDbi1rVXU4d18tb3hOMEQ5VXJR?oc=5
+- **Source:** IndexBox
+- **Published:** 2026-10-21T18:56:03+00:00
+
+## IPP, Columbia University establish international fusion research center - American Nuclear Society
+
+- **URL:** https://news.google.com/rss/articles/CBMirgFBVV95cUxQblhLdW05cHVHWjIwWTRUYTNyZnpIWHdIUTdWMkxwaGxlNkxSdlhwYXVndDBjNzZXSGRzbnN3UHJ1aGJxMkxBd19OdHJBb1dMMkNlMUJoTlZJclFOckh6V0ZybXdRenJwdmVkNmszTF9rcjFFZ3diaVdkQk45VW5LbGc5QmxzYnZQZzRDZV9yNU9pMTRaeDF3T0JrVUxKNVRDdUFwSGdINmw0MDJPM2c?oc=5
+- **Source:** American Nuclear Society
+- **Published:** 2026-10-21T18:54:07+00:00
+
+## X-ray free-electron laser sets new record for shortest high-energy pulses - Phys.org
+
+- **URL:** https://news.google.com/rss/articles/CBMidkFVX3lxTE1nVU1NTTFCMGNra2wzZi1BcnFZWGlxWFFnUlJZTXlTam12WmZQcjV2c1pqRExMWDRDOHpEZmFYTUJkaTF6ZHJOaFRvXy1aUjUzUmZISEQ3UlFqSzFNMlIwTjVtb2JtSGt4MVEtb0pBalhlZEVXWWc?oc=5
+- **Source:** Phys.org
+- **Published:** 2026-10-21T18:40:10+00:00
+
+## Oklo’s Isotope Test Reactor achieves criticality - American Nuclear Society
+
+- **URL:** https://news.google.com/rss/articles/CBMijwFBVV95cUxOa0NCc3llSXI1X3NjUlllckFBd2htbTR4dGU5N25QVHVNSmpQNEIzRVN0c2g3N2VnNU9RR2k5Y1FuRjktS0NDU3NLMk5aU21kLU1Zd0h4SXNya1NTZWZkVWdPbFlRQ3JPVGZ1cHhPU21YajA4TlUtVUNldjZya1N5b0FMdTV6N2FKbzlFRVY5QQ?oc=5
+- **Source:** American Nuclear Society
+- **Published:** 2026-10-21T18:31:26+00:00
+
+## Connecting Wisconsin entrepreneurs to the resources they need to grow - WEDC
+
+- **URL:** https://news.google.com/rss/articles/CBMikAFBVV95cUxOV3Z6LUt0el8xTVUtZS1mRjVES25OdUpDeEptU200WGl2S054cjkwZWZYX3c4WGU5TExqWHZSVnhEaDdtam1icHd1LWJrTHl5UTUzX0J5ZDFIbklKeU1PY0dWYVR4enItUXNqMndKMFVsUzJaV1oyVjZ2TDIzczNabTR5cVpJRHhaWHpmV2pidzk?oc=5
+- **Source:** WEDC
+- **Published:** 2026-10-21T17:08:40+00:00
+
+## Cognite Earns Corporate Supplier of the Year Award from Marathon Petroleum Corporation - STT Info
+
+- **URL:** https://news.google.com/rss/articles/CBMi4AFBVV95cUxNb3J3TVpNb2xETG1zcG5XTFd4Wm5sd3hyWFU3SWloX3BIa2dCME9wYTZ6T2tiMU8xbEFsaW5PbFZJNjJiR3ZqbFhoUjZNcWdZZjZHQmtkMmdMbnpmX1VIcDhDXzlzQ3BackJ3YjJXbnA0LVllOXZocnRkVXVrVE5naVZRa0Q0RmVvOVE5UTUwRzNhMkE5RWJVa3JnNDYweFdCYXY1OVZEMy1ZUEdaVFRCZ0w4czZ3dHd6N2xpZXdCdVVXRVoyMnFzZVlzZVJKczc5eVplQWFvRXk2dFZFa25keA?oc=5
+- **Source:** STT Info
+- **Published:** 2026-10-21T17:06:00+00:00
+
+## UAlbany-Led Research Team Achieves Rare Milestone in Ultra-High-Voltage Power Semiconductors | Newswise - Newswise
+
+- **URL:** https://news.google.com/rss/articles/CBMixAFBVV95cUxOQXpsZDFGYWtWb0hrcUMtRGhsZXktQlhCYTZkSDNpbDVhVk9sSGhrc2JHN0NSVFJ3czNXX2FjYlMyb1hCblNRYWp1aEltTjBvSTUzeTgwNDlNT1RtdkJxNUNiZGJBNnNNdlFMaEtpczdyQ0lYUG1oY2U0SWhMaU1TaEtFa2hmajFZYkJOOWYwMG5pVGNCWU9tV1FtMEIwX2VFbWtrSDhDVVZXbE9HeHJPT0FHZkFLZGRLUGxVUUYxZG1pVlRy0gHEAUFVX3lxTE5BemxkMUZha1ZvSGtxQy1EaGxleS1CWEJhNmRIM2lsNWFWT2xIaGtzYkc3Q1JUUndzM1dfYWNiUzJvWEJuU1FhanVoSW1OMG9JNTN5ODA0OU1PVG12QnE1Q2JkYkE2c012UUxoS2lzN3JDSVhQbWhjZTRJaExpTVNoS0VraGZqMVliQk45ZjAwbmlUY0JZT21XUW0wQjBfZUVta2tIOENVVldsT0d4ck9PQUdmQUtkZEtQbFVRRjFkbWlWVHI?oc=5
+- **Source:** Newswise
+- **Published:** 2026-10-21T17:00:00+00:00
+
+## German fusion startup Gauss Fusion closes seed round, targets $150M Series A - Dealroom
+
+- **URL:** https://news.google.com/rss/articles/CBMirAFBVV95cUxQemRsUUFReDREdGRrRzJkanV2UWVjT3RNRHdTVDR6SVljU3haS3lxX1hoOU9zYkt1d3AtUW5ZTmVKSktXeEZ4bk9iOVE2M1BOVWk5TFJQa09WT0xwN3c1dUM1enNWRlZON1EtSDNJUTNRemJBLUluQTIwcGJvSno1TUZaQUlpX08wRFZtWDk5cDl2cWtXeVRjSm1yZk10WEpKUHh0N2FLdDA0OWJk?oc=5
+- **Source:** Dealroom
+- **Published:** 2026-10-21T16:55:01+00:00
+
+## The Estée Lauder Companies Inc. to Webcast Capital Markets Experience: China Ecosystem Immersion Presentations on November 4, 2026 - STT Info
+
+- **URL:** https://news.google.com/rss/articles/CBMilwJBVV95cUxPdk5rRGxzLWszSGg4UDZQOGtlbFdYZW5kZDAyX3pkN25sUlpnczhzRGxud1dQWWo4ODZhR3hlM1pXV1ZTVzZkR25LRk1Zb2M0OFNxYXNNUEMxQ1lGRzhsLUN4d1ZoVjhSOFF3dXZzd29mUU9TV3JVcVc5aGNuQ0Z0UFNKb2FTWWl0QlZVRVlSZm5jdFhJTGpiSkhkOUxCNTY4THhpYWNkVWNpQk1ocmJnVlE3SWItRDEzeWxadGZoZDltdGdSU2RsTGx6eWhYZUNFUjNSVlNpTng1R3RDdHY0azdobzJWR1pfSFhUTUQwU25RQlpoLWpKRmNZYkJYSHQzbmpSLVc2Zllfb3dNaEw1bl9JX3h5VlU?oc=5
+- **Source:** STT Info
+- **Published:** 2026-10-21T16:48:00+00:00
+
+## Fusion CX IPO GMP Today with Listing Gain Expectation - IPO Watch
+
+- **URL:** https://news.google.com/rss/articles/CBMiakFVX3lxTE9mOEt4WmduUHJzX3dQUWViTzYwclF1M3FudE9uNkZqbTdUMFdRZi1zMGVYYmZJY0pab3hpbTI5N3g2a1FidXNNVXBjWHNqSDNoekxRbUp6Q2d1LWJRaGhFMC00Nzl3S0FYa2c?oc=5
+- **Source:** IPO Watch
+- **Published:** 2026-10-21T16:39:43+00:00
+
+## Future Health and Bridge for Billions to Launch Programme Strengthening Health Entrepreneurship in Emerging Markets - Via TT
+
+- **URL:** https://news.google.com/rss/articles/CBMikgJBVV95cUxPTHM3Y0NXcExXYWhqakhfbW8zWS1aZUp2d3VsSndWWWRGUHZXYk91MEhLSHBtTmI3SUluWFpnSm9pSDRSWmN2YzY4LXhYNzdUUG1IdGhnV3BvZDFnVER2a3FkYXlJTkI2RzY1TVNWdk90ZFZRWXVrNmVBSXpTOVV1QUFEUEtlWlE5ajRSa0NiWF8yamdSWEt1Z2JURUFFZmpHX3BjSzA2MWxTWjZVSmowZDNpSWlNWmlUWmVGRk8yY0Z5UUVqQkFTdXJlSlBlcXBUdTdLX1ZrSUE0VC1YWW9qd1Q5akR6alVCOVdQXzh0ZWRvRzhGMWVraTZWVlU2QV9idmxxcXZJUGlVdXpfWmFVRnhn?oc=5
+- **Source:** Via TT
+- **Published:** 2026-10-21T15:50:00+00:00
+
+## Hephaestus exits stealth with $17.2M to make fusion magnets without rare earths - Dealroom
+
+- **URL:** https://news.google.com/rss/articles/CBMisgFBVV95cUxNQi1iaEdPVzdzTC15blBySmFKaUNnV21qSkx5aTAyU1pORlNyMlNvbnM0RThJOV9Nb0R1bzNDZ3d5RHN1Q05zTFB0S3F6QVp4RE1UVzdHTkVNSVlGdU82d1FEMmJaX1lMYTR1dEY1Y1BPUG1scEZMQUJBdkxMdnYxZGE1bnBlWjBPcF9WUV93a2tZNGdpa2szNGRlSUtvX01iM3g1WkYxQjlJNUpteGNDSjRB?oc=5
+- **Source:** Dealroom
+- **Published:** 2026-10-21T15:36:36+00:00
+
+## Hephaestus Raises $17.2M in Funding - FinSMEs
+
+- **URL:** https://news.google.com/rss/articles/CBMie0FVX3lxTFBiNzc3cnR2eW5oRGR1X19WUGplanFfVUpkQmFjVXpLdnVfbTYzUmtBN1J6LXRGQWx6b2NPS2RMdnlHaHBMY0hlTF9rZ1V4dGE4WnA2TUhOSkM4eS1iV21DUWhaS1luVzZBdUtkWThvbkZOdWNuNmRva2NVaw?oc=5
+- **Source:** FinSMEs
+- **Published:** 2026-10-21T15:19:35+00:00
+
+## Nuclear and energy funds back cryogenics maker Ziming in new round - Dealroom
+
+- **URL:** https://news.google.com/rss/articles/CBMiogFBVV95cUxOTk1ZTHMtcVI3YjNGRnVGWEU2UElTcTM5Q0J6Z05nMl9tNjJaZ1JwdDRTYnl4Nm10SHhFMlNocmNYSXZncXdGOHg3TEpXNHpiWW5palJvV0NOUWJMSEFlb0JzeXF1YlNNSE9nSk1Vb0xLSmpVMDRMVUdSb0dtVEtGNmlJTHBTampQQ3RoM21udG5WaXN3bjhlVDhQU0JIYVoxU3c?oc=5
+- **Source:** Dealroom
+- **Published:** 2026-10-21T15:04:25+00:00
 
 ## Back to the future: The abundance and scarcity of a remade 2056 - Dialogue Earth
 
@@ -219,87 +303,3 @@ _Last updated: 2026-10-21T14:54:11.040781+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMimAFBVV95cUxQV2FyWEw5MExMM0dhZEQ1Wkg5VGJtdTdLaWhseERyUG1GaE9ySEhmQUVoTkVQdVNZam5Ud3Boczh1WnROejBOM2hhcm1UR2hiQ1FxVWktZkZJVlREYjVySGJJODFMc2xnYzd4V3l1Ylg4T0hPczJUNGVrbmhPLWdVbkZpcU9uSXJ5MVdXaXdubTdwQ1BuSlpFZA?oc=5
 - **Source:** Decode39
 - **Published:** 2026-10-20T18:43:49+00:00
-
-## Smart Home Energy Consumption: Save Big With EcoFlow TITAN - Ubergizmo
-
-- **URL:** https://news.google.com/rss/articles/CBMilwFBVV95cUxPVGZzeGIzdWdkZFhSV29JSjJxdkZ6YXpXQVNYUG84N29sdldrUHBQRnBCaVhmcVBaOFNxSzY5U3F5UzQyV3BNT2xlSG5nbGF2OXZ6NG5qMDd4bl9GSWNHbGYzbmhwbEZCa1R4Ti1jME9OUlpIUktaY21RYmQ4NWpaUVFqXzQ4aWlyQUhCWkhlRURCeFp6T2ZV?oc=5
-- **Source:** Ubergizmo
-- **Published:** 2026-10-20T18:35:03+00:00
-
-## Can quantum computers solve AI’s sustainability problem? - Corporate Knights
-
-- **URL:** https://news.google.com/rss/articles/CBMiowFBVV95cUxOYjNnWW9zTmgxd0dWeHUtb3U1VVU0WUpIMmIxVHZUUFc1S1B5ZW1vcVVSS2paTWNIc2FyUThtWlNBRk0zaFBpbGRlalZDQk9sTDNnSmJaUVM1cXoya3lBVWo5dEQtdGVHYUZrdmZVYmc3MUtpWVJIbm0ycGc5Y0JfV01YMjZodk8zZU9QUEJtdDVJUWhBcy1lX2hpQlFSMmluclI0?oc=5
-- **Source:** Corporate Knights
-- **Published:** 2026-10-20T17:11:27+00:00
-
-## Pokemon TCG Pocket introduces dual-type cards in Dual Fusion expansion - AppSpy
-
-- **URL:** https://news.google.com/rss/articles/CBMid0FVX3lxTE93LVJ0MVRPUzI2LVZ6RmFxV0JXT2NzSmR3dlRUX2dIRi1YZVd6WnBnOGFIdzNCdGxvT0F2dDVRWGxTTk1lX2dibktLdG5oXy1idHN3eERCMnRpQzktcm1Ia2tlcUV5OXhpaE5PRmJWdTZKUzlGWTN3?oc=5
-- **Source:** AppSpy
-- **Published:** 2026-10-20T16:40:00+00:00
-
-## PPPL Tungsten Fusion Hurdle: Ignition Pressure Doubles - Daily Beirut
-
-- **URL:** https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRm53WkNoQTlVN0hIZjE5a0MybHUwVzJ4bG5Gbkdzdm1sR3JOZXBOUDVPcndNSk1HV1lPYS1nUzg2MjBGMDVBVVlTZWtsd2J6OFJpVzJCdUJCa01VZUFJdUhlWjVxRHVIdHB5LTFCU0VzVTM2U1NrWmh2ZjAzLThHaWZZendLazl0MnVBT0JLaThrbFNqMEhFUGFKdjNRZVBuMHduX0lIS1YtaXRVRVd0aGhXV3VObW1YVnFN?oc=5
-- **Source:** Daily Beirut
-- **Published:** 2026-10-20T16:09:31+00:00
-
-## 'Reliance has extraordinary capacity': Marco Rubio eyes Venezuelan oil cooperation ahead of Jamnagar visit - Moneycontrol.com
-
-- **URL:** https://news.google.com/rss/articles/CBMi9wFBVV95cUxNT2JIajdlZ1NDNlV0ZFh1VUFfNW5qbjNqa3hENDV1MDBnUmR2WThLeVotaVBNdlViU3Q3NDFXSjE4NmhTZjJ2NlE3WEdCR2RBOXhpV2ctcXlsRTM2UEpkWDFXb1NKLWE0REwwckdpRXNXbHdlQ0MwMkk4X2ctSEhDLTg2cGwwSzR3b3dyOXpxaldSZFNZNHB6OWItam5OOXEwVEJwSlAyejZDWmNhSGJ6SHlMbWNUQ0FRZndUWElCdzFRaG5MTTJCeEpJTjhfYVJxS2FlZDN1LVlkV1QyVUtENUpqaTNLNFpwYWc1QUZqN25jM2xlSHdZ0gH3AUFVX3lxTE1PYkhqN2VnU0M2VXRkWHVVQV81bmpuM2preEQ0NXUwMGdSZHZZOEt5Wi1pUE12VWJTdDc0MVdKMTg2aFNmMnY2UTdYR0JHZEE5eGlXZy1xeWxFMzZQSmRYMVdvU0otYTRETDByR2lFc1dsd2VDQzAySThfZy1ISEMtODZwbDBLNHdvd3I5enFqV1JkU1k0cHo5Yi1qbk45cTBUQnBKUDJ6NkNaY2FIYnpIeUxtY1RDQVFmd1RYSUJ3MVFobkxNMkJ4SklOOF9hUnFLYWVkM3UtWWRXVDJVS0Q1SmppM0s0WnBhZzVBRmo3bmMzbGVId1k?oc=5
-- **Source:** Moneycontrol.com
-- **Published:** 2026-10-20T15:55:29+00:00
-
-## Scientists Found a Possible Shortcut to Nuclear Fusion. But There's a Catch Hidden in Reactor Walls - ZME Science
-
-- **URL:** https://news.google.com/rss/articles/CBMilAFBVV95cUxOSFFKaVBBbExIR1dKaDkwWU03NDNacS14NEw3UHR4SGtnYnNoUFBfVmxLZXo5TkNSYnBkSXFrWGhycWJNXzZiY1FGRnVidkd5UC0yQWdHSzBsaUdUSlh1NGw0c3RROXlwSnM0YjNwRnZSQWlGMHg5cUxwdHozMUlENzFLRUV5TnZNV2FONkdtTkNnUmRu?oc=5
-- **Source:** ZME Science
-- **Published:** 2026-10-20T15:41:11+00:00
-
-## Pokémon TCG Pocket Dual Fusion Launch Details - OTIA Sports
-
-- **URL:** https://news.google.com/rss/articles/CBMijAFBVV95cUxQRng1cHNzWUx6M2J5STZPUExGc2pUVXB5SWtHaUdPWWRtbl9VSG9VbFk5TTZ4Sms4X3llWV9Kb043QUhodVgtLVpnbjB4Y2plemFBUkVTandXazZYMUhtWndtcFF3OEQxUjhUSmo2cTNteGtoYkxGeVlvNU9Kd2lTSXFZaFVlRjlZdWpBZA?oc=5
-- **Source:** OTIA Sports
-- **Published:** 2026-10-20T15:08:43+00:00
-
-## Azuria Water Solutions Announces the Acquisition of Horseshoe Construction, Inc. - The Manila Times
-
-- **URL:** https://news.google.com/rss/articles/CBMi7AFBVV95cUxQVGZleHl4WHlnYUVZYkhjai1wRUhCZGdkNC1VUFNPYVdsUkdCNU5pTUxSbEpaeS1OdVRKRldONlRrUENsVWVqRzFJcTV6em5IOFZRZnBaSURRSjJWS0NiZUR1ekhfS0pvSkFVczJydUlrTVBqYTYwTmFaeFVpN0x2TkVXMENhWC1WVjRIWTdFV084cmNkOHpxb21lNFAtcnQ5U0paTHdzSUZ2aTB2VEJmVW9RWlhWd3F5cHlWS1FYbkw1Rjk5TXNtY2hoNUZ1QndsRFR6X1lYZVhreHM0blJybFNRVmRtOFhxRzVmc9IB7AFBVV95cUxQVGZleHl4WHlnYUVZYkhjai1wRUhCZGdkNC1VUFNPYVdsUkdCNU5pTUxSbEpaeS1OdVRKRldONlRrUENsVWVqRzFJcTV6em5IOFZRZnBaSURRSjJWS0NiZUR1ekhfS0pvSkFVczJydUlrTVBqYTYwTmFaeFVpN0x2TkVXMENhWC1WVjRIWTdFV084cmNkOHpxb21lNFAtcnQ5U0paTHdzSUZ2aTB2VEJmVW9RWlhWd3F5cHlWS1FYbkw1Rjk5TXNtY2hoNUZ1QndsRFR6X1lYZVhreHM0blJybFNRVmRtOFhxRzVmcw?oc=5
-- **Source:** The Manila Times
-- **Published:** 2026-10-20T14:57:52+00:00
-
-## ‘Starfleet Academy’ Finale Built Villain’s Collapse on Strontium’s Actual Emission Spectrum - Tech Times
-
-- **URL:** https://news.google.com/rss/articles/CBMi1gFBVV95cUxNaXZBajUwZ3dFRHNQRTdQUXc4UTB5bnhaLXR3V2dfWWY1YlFwdFh3RGxrWHFKcnVNNzYzRkxCS1oxdDQxQkZDemJpVTdrdTZBT2x5bmhLc3ozV3FNU2F3bUFVTFRuT1pfc1F4MWhyVmUyR080MEcyN0tuWVI4elF0aW1nU3laVUFDRjJHLVNFaGd3REU4b3RoOUZFREZUTkwzY203YXVLWS1oSVJhYTBhMmswQW1Ea3V3R2VFRFBSYTI1Q2NoTUFhMjMxVFJmR2ZTWmFaVTNn?oc=5
-- **Source:** Tech Times
-- **Published:** 2026-10-20T13:35:21+00:00
-
-## Overcoming Gas Analysis Challenges with Raman Spectroscopy - AZoM
-
-- **URL:** https://news.google.com/rss/articles/CBMiXkFVX3lxTE9OSVN2QmZpMEtscXBycDlIa0ZtczVqUFV0ZU4zWjRQVUNVUUJBYWU1QmNPNFhVY0Q0TlFORTlKd3NHLWYzZkZ4aWRjV0RrdlhqY29Nb0ExRC1PakRnbVE?oc=5
-- **Source:** AZoM
-- **Published:** 2026-10-20T13:19:00+00:00
-
-## Stellios Technologies Raises $5M in Pre-Seed Funding - FinSMEs
-
-- **URL:** https://news.google.com/rss/articles/CBMikgFBVV95cUxQUGVrMEhKSUM3M2Y3MVJ3Z0dUM2tnNFFSYTZvOXIwT1N1VnhnVXpleGJXR2JudGNTZlk3YWpybkpEcDJ3c1VyX3lNN1JRT2o4ajRYdVQxNzV4X0xRdVlmcW5tSXlzR1UzajE2eEJZZlJGT283d2ZNX3RhbEREMURWMWFYZW42aXJNMWNQRDRyTUppQQ?oc=5
-- **Source:** FinSMEs
-- **Published:** 2026-10-20T13:03:03+00:00
-
-## Stellios exits stealth with $5M to rebuild US high-power energy systems - Dealroom
-
-- **URL:** https://news.google.com/rss/articles/CBMipwFBVV95cUxPRkFPZExQNmkyTmFTOUZ0RGhnajJpTmxEWkhUcUFXSlRUUm1LNHBpWmNBNk9EY2pBQ2xjZUFtUi0zVnhNdmNkT0taUTBGd3JLTHNYSjItUmdqWFA5NzVDM21WSXJMQkZyR3psX0QtUXdxRGJhQUUtSTFCZEFnWHhiNFloUERoZ1Q1RGg0WEM5N1hLbHZNWHRLam9FZEZPX1N0a2l5Rllabw?oc=5
-- **Source:** Dealroom
-- **Published:** 2026-10-20T12:54:02+00:00
-
-## Could an Overlooked “Ancient Particle” Solve the Mystery of Why We Exist? - The Debrief
-
-- **URL:** https://news.google.com/rss/articles/CBMimgFBVV95cUxOdHVtNi1iNkwyY3hZanNnUnhmSm40ZWxsNUg2clV2SklTWVJyLUlCQnVMWTMwOVZaOTBvaHk4NEt5WEpWX2VDcno3cG5uS2dEN1o3UmgxTlNsUnNNd2xiNHhrYm1LclUxenRUdzdsbDVDMmZhVDltRUZHM0s5ZjNwbkotVHJPR1lrYndOV2hBRUIySkw5QU5CMW13?oc=5
-- **Source:** The Debrief
-- **Published:** 2026-10-20T12:46:05+00:00
-
-## 'Not easy to do overnight': Marco Rubio praises India's progress in diversifying Russian oil imports - Moneycontrol.com
-
-- **URL:** https://news.google.com/rss/articles/CBMi7wFBVV95cUxQWTVoTVJJM3ZZVDRxUk1Mek1xVTNEaGl2NTktMEk4N0pIYmhuTU9mTmdyWFR2cTNaZDhiclpmY1JYdlJHRDZ3NVpQODhLejNjM1RQdUVnLUlTS0RDTHhoTWNaTVp5Y2Y4OGVNMVdqaUZlWG1UWW95My1aandiWTZpZmdYZE8tUTY1MUZwU2tKNFppM1Bvejk4dzJweGJZaWhCTkFLMzk2WHA2TlVvRUxIRi0wa2R6WDltMEN6dTJKZ1RsOG5rcG1FS2tvZHE2czRpUlRFcGgyRVE2cjRJRlo2MjdfTmQwRGp5dGNMZGtoWdIB7wFBVV95cUxQWTVoTVJJM3ZZVDRxUk1Mek1xVTNEaGl2NTktMEk4N0pIYmhuTU9mTmdyWFR2cTNaZDhiclpmY1JYdlJHRDZ3NVpQODhLejNjM1RQdUVnLUlTS0RDTHhoTWNaTVp5Y2Y4OGVNMVdqaUZlWG1UWW95My1aandiWTZpZmdYZE8tUTY1MUZwU2tKNFppM1Bvejk4dzJweGJZaWhCTkFLMzk2WHA2TlVvRUxIRi0wa2R6WDltMEN6dTJKZ1RsOG5rcG1FS2tvZHE2czRpUlRFcGgyRVE2cjRJRlo2MjdfTmQwRGp5dGNMZGtoWQ?oc=5
-- **Source:** Moneycontrol.com
-- **Published:** 2026-10-20T12:34:12+00:00

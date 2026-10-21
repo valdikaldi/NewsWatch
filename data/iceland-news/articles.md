@@ -1,8 +1,32 @@
 # NewsWatch — Iceland News
 
-_Last updated: 2026-10-21T14:54:09.213809+00:00 · 50 articles_
+_Last updated: 2026-10-21T19:56:45.844405+00:00 · 50 articles_
 
 ---
+
+## Guided Tour in Icelandic Sign Language of the Coast Guard Vessel Óðinn - The Reykjavík Grapevine
+
+- **URL:** https://news.google.com/rss/articles/CBMinwFBVV95cUxOU211SDFXVVRSYlZkNC1Kb254WWhUaDNCZ3ZEdXFTdVhFcUNoTTg5WEg5c0ZzRlk4QkVscXNpMDVFT3JBa2FPdC1FQXZJWVJXR2p3eTZtMjRaWENMZ2JtTkNHX2N2aGdUUmVKUHRWN0pZU0tNZlZOUDFOTmZZcXZrWWZOMjZlV2JBUjJUZjRzNlZTZUc5NlA3aS0xR01YMFk?oc=5
+- **Source:** The Reykjavík Grapevine
+- **Published:** 2026-10-21T16:31:59+00:00
+
+## The Icelandic Comic Book Society Award Ceremony - The Reykjavík Grapevine
+
+- **URL:** https://news.google.com/rss/articles/CBMigAFBVV95cUxQUEE3ekg1TTduTjlwcDlyX1c2ZEJGNjlxZVVyWVBrZWlOcFJBOXpIWS03VVBEZTVMNmVseFI4b2UxTndPOF8wSFNGN1dNR1VKT0pvZG5raTA2a2E3dngtV25Ma0V5X2VUcHRQNW94TnRzX2ZZSU5sYWxNOHhfS3UxWQ?oc=5
+- **Source:** The Reykjavík Grapevine
+- **Published:** 2026-10-21T16:31:41+00:00
+
+## The Organ of Fríkirkjan in Reykjavík 100 years | Lára Bryndís Eggertsdóttir - The Reykjavík Grapevine
+
+- **URL:** https://news.google.com/rss/articles/CBMipgFBVV95cUxNbzJKZG5nWm5tR0pUTVA1RHk1WlkzaF9zbm9tUk9sRzBRcW5Pbkh6WERxWll4Z0duMElwUkZqYXBLOHRKdndDQlR0NDc1N3JaemFBQ1FZOWs4c1F6TGlMbmRoRmJBdzR0VkxkVlV6enlMYXRFZTZodXc5WXJTNHJRdmo5VnE0Ql9wMkd2cENqVDEydlMzUmxtalVuUHY5REVqR0tBTXNB?oc=5
+- **Source:** The Reykjavík Grapevine
+- **Published:** 2026-10-21T16:31:41+00:00
+
+## New submarine cable to link Scotland and Iceland by 2030 - The Herald
+
+- **URL:** https://news.google.com/rss/articles/CBMimgFBVV95cUxOOTRkY0ExbTVWS3Q5eUJNRUs2WWRHaml2ZHR3ZUdqWWs5ckk2NDlRQURBMU5xZzRTX0ZZZFRNQ0VuMkY1VHFrZ29CWFZ4WWQ0bXdvdTVkOVRLLVNPMDA4dlUwanNzSnJiR25YeTFHMU9OUzlmR3JTczRWTURiOFc1UmJ2R1dEMU5abkR4ZE94ZC1uNTVwcE1LLVJn?oc=5
+- **Source:** The Herald
+- **Published:** 2026-10-21T15:26:33+00:00
 
 ## Iceland Signs EFTA Free Trade Agreement With Vietnam - Iceland Review
 
@@ -279,27 +303,3 @@ _Last updated: 2026-10-21T14:54:09.213809+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMiogFBVV95cUxObFNHS2x2TW9zZU5heTFXcXpfYXA3dTZDUlFMRTFUd1g1bHdaNnRTMDNnRUEtdWNRbFVWYXMzQTZVdUQwS2NpdXBwRDFuV1FTbWg5a1B4NjNLaTRGNGcya0FYYy16cFFqUkRNYWxQQmtVVms1WmxZTlUwaXpQbFZnN1lzWWhnb3hxV2EwenZnbzg1UzNmT0E2Yy0wYzlQSm5zYUE?oc=5
 - **Source:** Skift
 - **Published:** 2026-10-20T16:46:05+00:00
-
-## Rope rescue teams to search for remains of Lúðvík Pétursson - mbl.is
-
-- **URL:** https://news.google.com/rss/articles/CBMimwFBVV95cUxOdU5oekRmWlJSNHhpZDZYMWE2dkFQX2lULVE2b0E5NE40aHhPVkpHd25FRnU2LUo2d00wNG96NGZOclVzTllHZFNBNkpiZW9IZXlTQ2dPdkpxcHU0QWNOclhvWWx1TFBTMERKMzNmX1ZNOHNfcUV5ZFB6V01WMXBvS1J0amR0Z2IxN1l0S1RYMnZzUEFtV3ozOVJQVQ?oc=5
-- **Source:** mbl.is
-- **Published:** 2026-10-20T16:27:00+00:00
-
-## New ferry link proposed between Aberdeen and Iceland - The Times
-
-- **URL:** https://news.google.com/rss/articles/CBMilgFBVV95cUxPaXJ1NFZQZmU3ZWxTQnlMcFBGVDRWY1VDMjFxUGljQXFUN0R1aFBvQTZNcmdnYVRPdDZHMGJpOU81MF9rWVhXcjU3c0Nuc3dkUUVWV0pib0xiODFwc3A0SkRqckxqbVgyOHlSZ1A4cmVHbHc4VHhoaWxXTE9vUmFsaWFDN2kyOHhVaUpLLTA4T29IQktWclE?oc=5
-- **Source:** The Times
-- **Published:** 2026-10-20T15:55:00+00:00
-
-## Discover the film locations for Supergirl (2026), around the Cairngorms in the Scottish Highlands and in Iceland. - The Worldwide Guide To Movie Locations
-
-- **URL:** https://news.google.com/rss/articles/CBMiZkFVX3lxTE1USUEwakZRMEFZQ09IMEw1eFVfdVBtRUhDZ3dJaWhlNlUtelFfQ1B4OXN2UVhTY0V5SzJpSmNJNXB3UFVlZE1UZ3hwVmJ5ZVk3bzRkVXE3aWxkREhEQVpHWVdvMFV0Zw?oc=5
-- **Source:** The Worldwide Guide To Movie Locations
-- **Published:** 2026-10-20T15:13:05+00:00
-
-## Minister Open to Exploring Self-Driving Vehicle Trials on Heimaey - Iceland Review
-
-- **URL:** https://news.google.com/rss/articles/CBMijgFBVV95cUxPS1pFQWdnWHU2b2x1b0VVWjBKR1NVSzVaUWpFVHhQMmk5bTdETHppTm5YRmFKWHNBTUdkWGNKVzV4TThDMWFpdGhVRFVRT21lV1c3VGMzY0haYlJCZ3JhcW5NUFNKR1V6SUFNNjdVbGhWenRSZ3BZUVI4RUxqdTRLLUpvQnplVUY1SDhKYW9R?oc=5
-- **Source:** Iceland Review
-- **Published:** 2026-10-20T14:00:31+00:00
