@@ -1,8 +1,14 @@
 # NewsWatch — Apple News
 
-_Last updated: 2026-10-22T19:47:12.847586+00:00 · 50 articles_
+_Last updated: 2026-10-22T22:59:51.527001+00:00 · 50 articles_
 
 ---
+
+## Apple stock hits all-time high at 348.25 USD - Investing.com
+
+- **URL:** https://news.google.com/rss/articles/CBMioAFBVV95cUxORWpjbjZXdmY1cFpsSS1uQWktcXVTOGF4NU4xdnZRaWxKVUhqd0MyWjFyRjFLUWJtMTFDOFB6dVpUWURTSXk0TmJ6T1BYZFA1cFVOWnN3RXk5Z3l1TWM5ZWdnQ21Ld1VfTU5sU1YtRFFtalFVRTZBbGF3c0t6ZEx5LTQ2Y2haZ1ZCT0RFMFpGV2Q1Y1ByOGJfUGZobnZTWGQ1?oc=5
+- **Source:** Investing.com
+- **Published:** 2026-10-22T19:48:32+00:00
 
 ## Apple, Shyamalan convince US appeals court to uphold TV show copyright win - Reuters
 
@@ -297,9 +303,3 @@ _Last updated: 2026-10-22T19:47:12.847586+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMDJGY28xX0ZXRk9SdHJ3dlhaMVRIZFdoMm5VS05jeUZOaUdMdTBnNVR1WkxrVlcwLWtPTkpCbFBqbGxpbEM0RzFSeDk0MW9UMmV0TGpzOER5bnd1MnBpN1NYLXoxVlBBakVJVGp3Q1lQN3VWb1FGaU9ocjh6M0Z1amFnWmhXdEtRQUpkUFZiQ1Q0bFdaejFGSy16X1JOSzR3bHlQbmw5Z3lLdHlubkpIdEFOVG85RlVqdWRHajRlSmNYR3c?oc=5
 - **Source:** MarketBeat
 - **Published:** 2026-10-21T07:50:47+00:00
-
-## Apple Inc. $AAPL Stock Bought by Friday Financial - MarketBeat
-
-- **URL:** https://news.google.com/rss/articles/CBMirAFBVV95cUxQNUtScjNaV0hNWWZPM1dTcDRXbzFfc1B6NjFGTWc3QlFQa3VYT3hkV2IwM1hIcklVenU3cXozTklRUGxWb1l6RmNPdWxSMXlyRUpta1RQemc5b19MX3g1OExZRVpTUThpRFUwMExETGY0S1ZVRThmeTRyb0thTjBKWGtwcVB5UFNQR2hvSlN5R0p5T1ZLWHhZREdkUEM2LXNadmZYbDZXZllJdW1D?oc=5
-- **Source:** MarketBeat
-- **Published:** 2026-10-21T07:50:44+00:00
