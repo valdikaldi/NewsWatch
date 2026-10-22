@@ -1,8 +1,92 @@
 # NewsWatch — fusion energy News
 
-_Last updated: 2026-10-22T14:54:04.236574+00:00 · 50 articles_
+_Last updated: 2026-10-22T19:47:17.315396+00:00 · 50 articles_
 
 ---
+
+## 15 Future Tech Inventions You Need to See - Gadget Review
+
+- **URL:** https://news.google.com/rss/articles/CBMidkFVX3lxTE1fV2dOZFU2ZV9uaXh5aUtRRGJsWWJzcmxRREdqU3d1dmVTVlpibjAxYXd3TzdoQjhJWnoya1ZTaXpFTklEazRRQlVLbDA2cGo1b3E3TmxocFZtQ3JBeHlvczlpcUY1NW96M3NBZ2R4UlFLTS11cHc?oc=5
+- **Source:** Gadget Review
+- **Published:** 2026-10-22T19:30:00+00:00
+
+## White House Makes Unusual $389 Million Bet on American Tech - TradingView
+
+- **URL:** https://news.google.com/rss/articles/CBMiugFBVV95cUxQaEZsMXhkYUpjeWFLX0JRdERBVGJiTXpLR0VLWnBiVmVSR0l6UTVhTWZfV3RVdTlGV3Fad29PeTdYcEkxblBLTnVVYXlMSWtVQ0l3MXRnRTJnZGlObUFjdldNdk9HYmZ6Q2JkSXNKeU9hZUJEclVHNF9zWEF3ZVMycF9PRTJPME9aR1lhMXNtdV8xd3B1VmlObEN3UE8tTldVSDJSOWxSZnpldnZmcl9lUzB2d0Zoa3U3X2c?oc=5
+- **Source:** TradingView
+- **Published:** 2026-10-22T19:08:34+00:00
+
+## Feds eye $175M stake in fusion startup Helion - LinkedIn
+
+- **URL:** https://news.google.com/rss/articles/CBMikAFBVV95cUxPQjNjbkNUZUpqanJqMVBrZFJOWkoxYlNQOUY3dGNaaFRGUXFkZDllZ0o5bV9XN2RTS1lLaDNvVXlHaEJEd0czejI4ZTRNUzB3S3hlb245SU5VSmdGbHhMTUtEV2ZKRW9oYW5VRXE5UTk2LVROVlVnT1drSlFLYUlBMG9VNFVQVGJVRTNUb2FSS3g?oc=5
+- **Source:** LinkedIn
+- **Published:** 2026-10-22T18:07:34+00:00
+
+## Extraterrestrial Fusion Reactors Could Unlock Limitless Energy—and Birth Human Space Civilizations, Physicist Claims - Popular Mechanics
+
+- **URL:** https://news.google.com/rss/articles/CBMiiwFBVV95cUxQRGFYVGVXZWVkczB6Z1pSVDJidEk1Tkxuc2xHbk53M196ekRvazhQQmVyRUtXRFBRcDJCMG8wQS1aQ1docHFXRHdkWXNsZUtxQkM1SjVWSUJVbWNLY3JWal9lUTVzX05ycFVnb1N0c1ZUNVJNSnN4Y2JYbU9uVzhPNG1KVWIyVkZ0eDQw?oc=5
+- **Source:** Popular Mechanics
+- **Published:** 2026-10-22T18:05:00+00:00
+
+## US to fund speculative nuclear fusion venture backed by investors with ties to Trump - Financial Times
+
+- **URL:** https://news.google.com/rss/articles/CBMihAFBVV95cUxNV0VVbVlDN3BOWGlJclJUdVhVNENKTWNxejlDT3NYaGNBSEE1TzJ5R3hQM1Z4WmZyNU9FVFdIT2s2cGNGdmNvOTBwUFc3QXdrYjBfb050MDNxXzl6ZUw1NFBZdG1pRVJ3RWJYMHMzNTZrX3c1RF9mVTd0WHBteldiTzh0VUo?oc=5
+- **Source:** Financial Times
+- **Published:** 2026-10-22T17:20:01+00:00
+
+## ⚛️ An easier path to fusion: heat the plasma first - www.theangryoptimist.org
+
+- **URL:** https://news.google.com/rss/articles/CBMid0FVX3lxTE1GelNWbktDZVlVQWl1YkV5SDFaWHQzUUR4SEswUUhpMjRBVktVUFVWYkFfNG9GX21MdnNPZjhfOFpVQVQzUTRSdWFJME16a0IzNDluOVd2dTRBc1ZUS19Ia3RkT1AtUzVOalpMeWJpcTRGZ1ZMVERz?oc=5
+- **Source:** www.theangryoptimist.org
+- **Published:** 2026-10-22T17:02:54+00:00
+
+## Fusion startup Helion lines up potential $175M CHIPS award to develop advanced semiconductors - GeekWire
+
+- **URL:** https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTzF1V0JfdklHenlNaU5PdVJ4UGdfY0hyMXU1TFZlOUNBdVVEbUxwUDFUUG9sXzQxdC1vZU1LcXZwM25aMjhIUmZmUVhCT3FkOGpCTm1jYWUtVEhiQWJuQUhEdHZDdE1QUDZCbVRWamxlMkFYZENOYzI5Nzk0eFlDUUlNeWtvUHM0RVBHMVVTNTFONmZaNHpnVklkU2kwUWJHMjVPMGNTLWNlNVZhMHQ4UWJPWG84MnpYSUtrQWNEUEY?oc=5
+- **Source:** GeekWire
+- **Published:** 2026-10-22T16:21:48+00:00
+
+## How William & Mary is helping build Virginia’s fusion energy future - W&M News
+
+- **URL:** https://news.google.com/rss/articles/CBMinAFBVV95cUxOOFl4cWNYZWp2SEVlUFRLUmtJeFFnYTJTd0pzZWNwNks3QWdHMlpBV3VOZFlWSUE2UlpWZW82WGY4WnJVMkpkcDZsRTBnUGxNczhrZHhkbU0wekxTbTVnano3RWhYdThBVE9kRlFqS3lyelFNUW5kR3ZUUXppUlczbmN3QnZHdlJ2V0lnTXBYdW4wT1BuZG9wZzFpdUQ?oc=5
+- **Source:** W&M News
+- **Published:** 2026-10-22T16:05:08+00:00
+
+## Commonwealth Fusion Systems Signs $85M CHIPS Act Letter of Intent - News and Statistics - IndexBox
+
+- **URL:** https://news.google.com/rss/articles/CBMivAFBVV95cUxNa2VnQUdwMXRDNk5MOVFJVkNVSk1YY3FIeVdzVUVHVFk4Z1JZV1Y0T2x0ZmllRGlRaVFzVnVXN210MlZ5aGI5dWZyMkVreDZ4VktNV3YxQUY0T1VRM1d6OFg3YnlHQmZMVHUxampUUzdwTDFqbHdra05TS0xGRnJiOEo3RVBxOXRJLUZBZlo0aExscFBLTndCbE1fQmJONnNHX2ZicTJfWVo1M0xqSUJxZndINUdsVV9JVkZLeQ?oc=5
+- **Source:** IndexBox
+- **Published:** 2026-10-22T15:50:43+00:00
+
+## Helion rolls out semiconductors aiming to halve fusion energy losses - NewsBytes
+
+- **URL:** https://news.google.com/rss/articles/CBMitgFBVV95cUxNUUxmSU5EeURTd3FNTl84VUhfWDhvdkV4QThFbEhSRmVqMWVjMUFpS0ZXRWFKRXlfRmdNVFpQQk5HNV9DZDlnMWZvSDdUclEwNlkxbFJaN19LOWxwTlVyUDBBSVZvM294Tkw3eDh5VXdUbWZ3TDJFNl9iZzZsVnp1YjNCcXRCV3IwYnVaNDZmeEtjRGl6OFBid3QtN0x6Q19ZTlRYbTBROG5wS0R4eWVKQ1RpekJNUQ?oc=5
+- **Source:** NewsBytes
+- **Published:** 2026-10-22T15:45:39+00:00
+
+## Helion receives $175 million for semiconductors and another $50 million in investment — TechCrunch - UA.NEWS
+
+- **URL:** https://news.google.com/rss/articles/CBMiswFBVV95cUxPTnh6QmJnRGNmVG0ydnRKNUgyakZpWlRzVjItWEdWSmN4NDRONTVCTVA4SnNRN2ctdm1weXlVaWttLXN5QTNMdXlKZzMwMEx4MXZXQUYzeHFzSVRiUERVb1FlZVQ2amo3dG1YMzFVaG5JQ3NESER1emV1c2ZNSVpLakhFOVVFUF8tR0lLQXE0VkdtYURxOG81TkpBTG01QUlsZ2llczNZd2dFYW9jd1l6cDhtVQ?oc=5
+- **Source:** UA.NEWS
+- **Published:** 2026-10-22T15:20:37+00:00
+
+## Helion Raises $225M, Builds Custom Chips for 2028 Fusion Plant - The Tech Buzz
+
+- **URL:** https://news.google.com/rss/articles/CBMimAFBVV95cUxNNWpWSFVaQzMzYTdsZEV4T1dLQWsxX3hxTnNMVHFtaXlWS1pGTl9pZGF5VmxYMC1SVEpXdUkyMXpaUjI3NEtqUUVRd1ZvRTI4TFhNdFpObjdFV051dmRFTlZKclg4NC1RSkE5S0dKV21oalNFT0xJSTZELWktODU1Ym5FVGY0S3RhOWRyRTNNLVdta1E5NnlROQ?oc=5
+- **Source:** The Tech Buzz
+- **Published:** 2026-10-22T15:07:00+00:00
+
+## Fusion startup Helion is developing new semiconductors that could double output of its power plants - TechCrunch
+
+- **URL:** https://news.google.com/rss/articles/CBMizwFBVV95cUxONkVpSFRkRm9ZWlZrRXZjN0l3dURnUVozcnJGNVVDVmR3azlNZVl0Snd3dHJkRHprcWRuMGRMUXdOd041cFZsZUhQUFc3Mm43b0l6RTVlazlGODAydXA5bk5lQTdaQmhrNWVVU2tNcWxOU3JnSnpGM29LaGxIb3ZVR2UyVGxSZ2VESlNDMTRxbWYzSmFDUlZmcFlwb2ZScWtPSXFvSkdMRWhuRnBMc1g4TV9XbjZjSFZmOVFtZzZMbnFhSU5sVEtqQWM5LVNpd2c?oc=5
+- **Source:** TechCrunch
+- **Published:** 2026-10-22T14:59:28+00:00
+
+## Marathon Fusion Turns Mercury Into Gold Headlines, Not Bullion - SilverTrade
+
+- **URL:** https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVjFHdkpsb2FIMmtRel83Z2hjYUdlWHNWZ3JyeUViVnJSNkhZeXlGajVYbXl3YnB0eFEzM3BkdFhZVDFyM3FjQ0pEZjBOTFcwWDlGa1FnUEl5WlNKeU95eTJ1cWp1QVh6eEI4LS1JYzlRMXBkdkJmQ3dfR3ZveGxXSzRWRlZORk1qNUx4eWVnVjZGUjZlZ3V0ZHhEVVJObURWcVVHcVhjLU16RkhySDF3QU4yT1czTnFf?oc=5
+- **Source:** SilverTrade
+- **Published:** 2026-10-22T14:55:53+00:00
 
 ## Commerce plans $389M semiconductor awards tied to fusion - New Orleans CityBusiness
 
@@ -219,87 +303,3 @@ _Last updated: 2026-10-22T14:54:04.236574+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMivwFBVV95cUxOM0VyWnlSM0p5emVDcXV3dkdxcnYtUUVEWkxnNzk5QWRfUEdrWEFDcnJGclVObUpFWERBSW12NzN0VVVBdEJDQkc5a1N5RnJ4MVhJTGJUb0hIb0ZXU0UydEp0anB2cTZwOUtQR3k0a093R3dfRVFmRUZfdW15VWgwbDFvWEZUT19PXzdFRlFFaG1PdEs3T2NCZGdjamJxT1Jsa1ZCNXhJQ29lRFFabXkxSjlxOUlOYkx5LU0wNGJCTQ?oc=5
 - **Source:** American Nuclear Society
 - **Published:** 2026-10-21T20:32:26+00:00
-
-## Kay Da Ace Injects Fresh Energy Into Afrofusion With New ‘7 ELEMENTS’ EP - Tooxclusive
-
-- **URL:** https://news.google.com/rss/articles/CBMiswFBVV95cUxOY2hzQTNWYjhFWFdXVnhhZDRFZTRUckVVRnBEekhQRmJyYWdxbk85WmtyVnJHOTVWLWNJQVFSSTJqR2RSclE5MWFXenVDa3Yya0UwUUdncmdCY3NvQmNNeXA5X0N4bk5zMmVobC1YRWNPSXlsOXZXZWJMWGE2bGkzLTkxU0tTNEx3UEUyaUQ3U2x1Y0d1NC1nVUQtc05sMG55OW1YN2tPNkc5Ym5ydGpsY3Q5bw?oc=5
-- **Source:** Tooxclusive
-- **Published:** 2026-10-21T20:30:12+00:00
-
-## Hephaestus Raises $17.2 Million to Develop Fusion Technology and Superconducting Magnets - citybiz
-
-- **URL:** https://news.google.com/rss/articles/CBMixAFBVV95cUxPLUFuSThkYXhkc0xiM2I3UUZvckNBa2x6YzRhaFFRaGNwN3Y4QjctT0R5aVF2MVpNZmRfckkyZHR4RWtmOEF1NTlXYmxfekxEbGRvLWd1SU9YdW9EU3h4LUdHb2h6akg1LWpVamxXcGMxV0VlV3hmeW5La2xtSzhVRm1HQXFPdFQtNnhBYXFWUzRFLXQtTVEwX2lDd3FHTHJDMEhYWXAtMjZnTkdsZ1hXNFFVeWk3NUY1eFpiRlA1UFp3QmVo?oc=5
-- **Source:** citybiz
-- **Published:** 2026-10-21T19:57:30+00:00
-
-## Rigid Cryogenic Transfer Tubes Market to 2035: Semiconductor Fab Spending at 7-10% CAGR Drives Forward Growth - IndexBox
-
-- **URL:** https://news.google.com/rss/articles/CBMi0wFBVV95cUxNaU9WbVpLQ2tGN1Z3QWNpZE45TGtfaG13MEVTZ21ZLUd2eVRmaUJJYjlQanMwYzlpTDZ5bTFOMjJwVHpkbHVLLU1ZcXdmOERGcTV0YlNoVmIxMFhHeHNhV2JsbTVHU3E5X210Uzd0YlFrMmhCd0dGZWxXekNWUkNXS2JTQmxrb3dCcG54Q2kteTdyaTAxQ011VEZCUEZ1RGNnbU5xajFTYlpwVjdWVWpmXzJWNHZwUk44NEFqMlRWUnFDbi1rVXU4d18tb3hOMEQ5VXJR?oc=5
-- **Source:** IndexBox
-- **Published:** 2026-10-21T18:56:03+00:00
-
-## IPP, Columbia University establish international fusion research center - American Nuclear Society
-
-- **URL:** https://news.google.com/rss/articles/CBMirgFBVV95cUxQblhLdW05cHVHWjIwWTRUYTNyZnpIWHdIUTdWMkxwaGxlNkxSdlhwYXVndDBjNzZXSGRzbnN3UHJ1aGJxMkxBd19OdHJBb1dMMkNlMUJoTlZJclFOckh6V0ZybXdRenJwdmVkNmszTF9rcjFFZ3diaVdkQk45VW5LbGc5QmxzYnZQZzRDZV9yNU9pMTRaeDF3T0JrVUxKNVRDdUFwSGdINmw0MDJPM2c?oc=5
-- **Source:** American Nuclear Society
-- **Published:** 2026-10-21T18:54:07+00:00
-
-## X-ray free-electron laser sets new record for shortest high-energy pulses - Phys.org
-
-- **URL:** https://news.google.com/rss/articles/CBMidkFVX3lxTE1nVU1NTTFCMGNra2wzZi1BcnFZWGlxWFFnUlJZTXlTam12WmZQcjV2c1pqRExMWDRDOHpEZmFYTUJkaTF6ZHJOaFRvXy1aUjUzUmZISEQ3UlFqSzFNMlIwTjVtb2JtSGt4MVEtb0pBalhlZEVXWWc?oc=5
-- **Source:** Phys.org
-- **Published:** 2026-10-21T18:40:10+00:00
-
-## Oklo’s Isotope Test Reactor achieves criticality - American Nuclear Society
-
-- **URL:** https://news.google.com/rss/articles/CBMijwFBVV95cUxOa0NCc3llSXI1X3NjUlllckFBd2htbTR4dGU5N25QVHVNSmpQNEIzRVN0c2g3N2VnNU9RR2k5Y1FuRjktS0NDU3NLMk5aU21kLU1Zd0h4SXNya1NTZWZkVWdPbFlRQ3JPVGZ1cHhPU21YajA4TlUtVUNldjZya1N5b0FMdTV6N2FKbzlFRVY5QQ?oc=5
-- **Source:** American Nuclear Society
-- **Published:** 2026-10-21T18:31:26+00:00
-
-## Connecting Wisconsin entrepreneurs to the resources they need to grow - WEDC
-
-- **URL:** https://news.google.com/rss/articles/CBMikAFBVV95cUxOV3Z6LUt0el8xTVUtZS1mRjVES25OdUpDeEptU200WGl2S054cjkwZWZYX3c4WGU5TExqWHZSVnhEaDdtam1icHd1LWJrTHl5UTUzX0J5ZDFIbklKeU1PY0dWYVR4enItUXNqMndKMFVsUzJaV1oyVjZ2TDIzczNabTR5cVpJRHhaWHpmV2pidzk?oc=5
-- **Source:** WEDC
-- **Published:** 2026-10-21T17:08:40+00:00
-
-## Cognite Earns Corporate Supplier of the Year Award from Marathon Petroleum Corporation - STT Info
-
-- **URL:** https://news.google.com/rss/articles/CBMi4AFBVV95cUxNb3J3TVpNb2xETG1zcG5XTFd4Wm5sd3hyWFU3SWloX3BIa2dCME9wYTZ6T2tiMU8xbEFsaW5PbFZJNjJiR3ZqbFhoUjZNcWdZZjZHQmtkMmdMbnpmX1VIcDhDXzlzQ3BackJ3YjJXbnA0LVllOXZocnRkVXVrVE5naVZRa0Q0RmVvOVE5UTUwRzNhMkE5RWJVa3JnNDYweFdCYXY1OVZEMy1ZUEdaVFRCZ0w4czZ3dHd6N2xpZXdCdVVXRVoyMnFzZVlzZVJKczc5eVplQWFvRXk2dFZFa25keA?oc=5
-- **Source:** STT Info
-- **Published:** 2026-10-21T17:06:00+00:00
-
-## UAlbany-Led Research Team Achieves Rare Milestone in Ultra-High-Voltage Power Semiconductors | Newswise - Newswise
-
-- **URL:** https://news.google.com/rss/articles/CBMixAFBVV95cUxOQXpsZDFGYWtWb0hrcUMtRGhsZXktQlhCYTZkSDNpbDVhVk9sSGhrc2JHN0NSVFJ3czNXX2FjYlMyb1hCblNRYWp1aEltTjBvSTUzeTgwNDlNT1RtdkJxNUNiZGJBNnNNdlFMaEtpczdyQ0lYUG1oY2U0SWhMaU1TaEtFa2hmajFZYkJOOWYwMG5pVGNCWU9tV1FtMEIwX2VFbWtrSDhDVVZXbE9HeHJPT0FHZkFLZGRLUGxVUUYxZG1pVlRy0gHEAUFVX3lxTE5BemxkMUZha1ZvSGtxQy1EaGxleS1CWEJhNmRIM2lsNWFWT2xIaGtzYkc3Q1JUUndzM1dfYWNiUzJvWEJuU1FhanVoSW1OMG9JNTN5ODA0OU1PVG12QnE1Q2JkYkE2c012UUxoS2lzN3JDSVhQbWhjZTRJaExpTVNoS0VraGZqMVliQk45ZjAwbmlUY0JZT21XUW0wQjBfZUVta2tIOENVVldsT0d4ck9PQUdmQUtkZEtQbFVRRjFkbWlWVHI?oc=5
-- **Source:** Newswise
-- **Published:** 2026-10-21T17:00:00+00:00
-
-## German fusion startup Gauss Fusion closes seed round, targets $150M Series A - Dealroom
-
-- **URL:** https://news.google.com/rss/articles/CBMirAFBVV95cUxQemRsUUFReDREdGRrRzJkanV2UWVjT3RNRHdTVDR6SVljU3haS3lxX1hoOU9zYkt1d3AtUW5ZTmVKSktXeEZ4bk9iOVE2M1BOVWk5TFJQa09WT0xwN3c1dUM1enNWRlZON1EtSDNJUTNRemJBLUluQTIwcGJvSno1TUZaQUlpX08wRFZtWDk5cDl2cWtXeVRjSm1yZk10WEpKUHh0N2FLdDA0OWJk?oc=5
-- **Source:** Dealroom
-- **Published:** 2026-10-21T16:55:01+00:00
-
-## The Estée Lauder Companies Inc. to Webcast Capital Markets Experience: China Ecosystem Immersion Presentations on November 4, 2026 - STT Info
-
-- **URL:** https://news.google.com/rss/articles/CBMilwJBVV95cUxPdk5rRGxzLWszSGg4UDZQOGtlbFdYZW5kZDAyX3pkN25sUlpnczhzRGxud1dQWWo4ODZhR3hlM1pXV1ZTVzZkR25LRk1Zb2M0OFNxYXNNUEMxQ1lGRzhsLUN4d1ZoVjhSOFF3dXZzd29mUU9TV3JVcVc5aGNuQ0Z0UFNKb2FTWWl0QlZVRVlSZm5jdFhJTGpiSkhkOUxCNTY4THhpYWNkVWNpQk1ocmJnVlE3SWItRDEzeWxadGZoZDltdGdSU2RsTGx6eWhYZUNFUjNSVlNpTng1R3RDdHY0azdobzJWR1pfSFhUTUQwU25RQlpoLWpKRmNZYkJYSHQzbmpSLVc2Zllfb3dNaEw1bl9JX3h5VlU?oc=5
-- **Source:** STT Info
-- **Published:** 2026-10-21T16:48:00+00:00
-
-## Fusion CX IPO GMP Today with Listing Gain Expectation - IPO Watch
-
-- **URL:** https://news.google.com/rss/articles/CBMiakFVX3lxTE9mOEt4WmduUHJzX3dQUWViTzYwclF1M3FudE9uNkZqbTdUMFdRZi1zMGVYYmZJY0pab3hpbTI5N3g2a1FidXNNVXBjWHNqSDNoekxRbUp6Q2d1LWJRaGhFMC00Nzl3S0FYa2c?oc=5
-- **Source:** IPO Watch
-- **Published:** 2026-10-21T16:39:43+00:00
-
-## Future Health and Bridge for Billions to Launch Programme Strengthening Health Entrepreneurship in Emerging Markets - Via TT
-
-- **URL:** https://news.google.com/rss/articles/CBMikgJBVV95cUxPTHM3Y0NXcExXYWhqakhfbW8zWS1aZUp2d3VsSndWWWRGUHZXYk91MEhLSHBtTmI3SUluWFpnSm9pSDRSWmN2YzY4LXhYNzdUUG1IdGhnV3BvZDFnVER2a3FkYXlJTkI2RzY1TVNWdk90ZFZRWXVrNmVBSXpTOVV1QUFEUEtlWlE5ajRSa0NiWF8yamdSWEt1Z2JURUFFZmpHX3BjSzA2MWxTWjZVSmowZDNpSWlNWmlUWmVGRk8yY0Z5UUVqQkFTdXJlSlBlcXBUdTdLX1ZrSUE0VC1YWW9qd1Q5akR6alVCOVdQXzh0ZWRvRzhGMWVraTZWVlU2QV9idmxxcXZJUGlVdXpfWmFVRnhn?oc=5
-- **Source:** Via TT
-- **Published:** 2026-10-21T15:50:00+00:00
-
-## Hephaestus exits stealth with $17.2M to make fusion magnets without rare earths - Dealroom
-
-- **URL:** https://news.google.com/rss/articles/CBMisgFBVV95cUxNQi1iaEdPVzdzTC15blBySmFKaUNnV21qSkx5aTAyU1pORlNyMlNvbnM0RThJOV9Nb0R1bzNDZ3d5RHN1Q05zTFB0S3F6QVp4RE1UVzdHTkVNSVlGdU82d1FEMmJaX1lMYTR1dEY1Y1BPUG1scEZMQUJBdkxMdnYxZGE1bnBlWjBPcF9WUV93a2tZNGdpa2szNGRlSUtvX01iM3g1WkYxQjlJNUpteGNDSjRB?oc=5
-- **Source:** Dealroom
-- **Published:** 2026-10-21T15:36:36+00:00

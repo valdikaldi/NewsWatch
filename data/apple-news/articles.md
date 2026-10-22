@@ -1,8 +1,38 @@
 # NewsWatch — Apple News
 
-_Last updated: 2026-10-22T14:54:02.444554+00:00 · 50 articles_
+_Last updated: 2026-10-22T19:47:12.847586+00:00 · 50 articles_
 
 ---
+
+## Apple, Shyamalan convince US appeals court to uphold TV show copyright win - Reuters
+
+- **URL:** https://news.google.com/rss/articles/CBMixAFBVV95cUxNNHNpeGRieWdoWGJZS3lYNHdUUTRnS3pYVXk2OEl4a1k3S3VDMG5ONHUwWHl4Z0JLeUg2US0zVzJjMTZ5aERFUFh0M1IxWUxSVm5WSm92aF85ZUJTZWRzX0JFRDF5S3RTOEtIeGplNU1KZ3JXS09tc3RJZzlnd1c2SGw3dDFqUEhWcEV6QlI4RVhEMlFHNjVYSE5lT3RiRmQtVVhaeGZzazdSczJJeHlDcjYtY1JFUUtSajlWV01hRTVYdG5u?oc=5
+- **Source:** Reuters
+- **Published:** 2026-10-22T19:06:10+00:00
+
+## 10 Information Technology Stocks With Whale Alerts In Today’s Session - Benzinga
+
+- **URL:** https://news.google.com/rss/articles/CBMiuAFBVV95cUxQak5qTGRDeDd2NmYxdW9jTmw4end2QV81aTJMUS1zN0ZZM09sRW8xMHVNazhjOWlTOGxjVlNSX0ZJdUowaHI3bERmeVh6VEJNY3BacElYY1k4T0dzbFJyZ21tMjJLM0NQRjZ0bmsyQmMzMGFybm1VcTl2TzNBeXNSYzFmTGRCd1RvTWZNQk16U1pkYzR5N2RkTi1mY1J5YUp5WnpKNHhJdGJUTmU1WXJOeVVnQTl1bFBh?oc=5
+- **Source:** Benzinga
+- **Published:** 2026-10-22T17:35:12+00:00
+
+## Apple stock rises 28% in 2026 as AI stocks wobble: Why investors are betting on the iPhone maker - Livemint
+
+- **URL:** https://news.google.com/rss/articles/CBMi9wFBVV95cUxOSW1YRTJFZDYxakFmRkJTRXJQYjJ1T1J6aXRFQnZLMnNYTXYxb09FME5JSXpGSUVPQnZkQ1ExVkU4VWNERmJNWjJtMlM3OHJxQ2pmR1M2b0ZUTW1DR1lacEdPWW05LUg5SXRLcWQycDZJOVBwdWRhTGhvcWZvczN6YThRVzhaR2Zhdk5oYjJKMzlCQlg0clU0WVpBV2R1WloyZVVRQThWcm9OQ2h5TWhBSFJBb0RCTVA3WGp4Z3pBU1pMZkdtM21zWHpFVzdCMlJVMUxjeWZtcVA3OXpBYU5zeElUUUZpT2hINE9VMHB6a1JJMURYa3Aw0gH8AUFVX3lxTE5yOTZHV2tsUkJCMEpnWDN6bTFMMWREcHlsSTdpOUhXcFNxTUZTcTFieDdhRFltQVpfa0hrT2hNY21sMDJaUVFLeXk2YkdaeTRVb1dJSkUwRC1Edy1ObV9Kb3dJX2RrWV9ZM3ZmMVBZdFVpM3Q0eE9fWVJxRU1pbi1Md05VbEJFTVhQQjRzNHk2OUg0M3RES2FWQnpuNFpnNzhfcXRodG9DdlhkeWZ0Q1EwLTJQVHNuMWx1N0hzSGJURkVpY0hUU1pJVF9KT09weXZmVjB4ejhKSWs3aENzXzMxVURvNllaQjQ0bndUWVhsVnpuV2ZET05Wa2hmeQ?oc=5
+- **Source:** Livemint
+- **Published:** 2026-10-22T17:08:13+00:00
+
+## Meta Vs. Apple: Divergent Edge AI Inference Strategies and Spending - AOL.com
+
+- **URL:** https://news.google.com/rss/articles/CBMifEFVX3lxTFB3UkpBTV82VzI4VHhwbVNIdEFJUHlOS3ZlWnZram04WGhSQlllb3owOVl3cHJreGRGNHQzS2dURmdRcDFrU1ZnTjJtNWE0bVotcjFFaVNsY0t0TnVYTi1lZVNMMTZnRVg1RnMxOG12RUkybkE3ZEJfbldQWWg?oc=5
+- **Source:** AOL.com
+- **Published:** 2026-10-22T16:45:26+00:00
+
+## Meta Vs. Apple: Divergent Edge AI Inference Strategies and Spending - 24/7 Wall St.
+
+- **URL:** https://news.google.com/rss/articles/CBMirgFBVV95cUxNeWU0cFVRX1lvVzNfSUY1eWxrZDhfcjlvNWJlRmxqOXJTT2pYcjIzSXhyaFpUNUFpaE9CMU5EdThtWDYtYmk3YVNXMTQ3S0RGcjkwV1hFNzN0YWtMdTRrcUV5S0twdm9rS3VWSDU0dnQxWWdXdElzMWVmT1RScl8zUkJXLUY1S1pOV25VQzc0QWtQVlZfWGRUUi1aNDEtLUxXOWFnSEpJSENndEtwT2c?oc=5
+- **Source:** 24/7 Wall St.
+- **Published:** 2026-10-22T16:45:00+00:00
 
 ## Apple's iPhone Duo ranks among best foldables ever: reviews - Seeking Alpha
 
@@ -273,33 +303,3 @@ _Last updated: 2026-10-22T14:54:02.444554+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMirAFBVV95cUxQNUtScjNaV0hNWWZPM1dTcDRXbzFfc1B6NjFGTWc3QlFQa3VYT3hkV2IwM1hIcklVenU3cXozTklRUGxWb1l6RmNPdWxSMXlyRUpta1RQemc5b19MX3g1OExZRVpTUThpRFUwMExETGY0S1ZVRThmeTRyb0thTjBKWGtwcVB5UFNQR2hvSlN5R0p5T1ZLWHhZREdkUEM2LXNadmZYbDZXZllJdW1D?oc=5
 - **Source:** MarketBeat
 - **Published:** 2026-10-21T07:50:44+00:00
-
-## Apple Inc. $AAPL Shares Bought by Jacobs & Co. CA - MarketBeat
-
-- **URL:** https://news.google.com/rss/articles/CBMiqAFBVV95cUxQYnI3N2FIMWJKYy1SbzdrX0xoXy1BUzFaeUFmR210UUgzWXRHbnZnVk5VbnFDaDJLVkI1Vm81WXl0UVhSVGhfemoyZFJsTGtGZW1IbEpGM2kwWWdwMGlNMFRsOGRoVlFYc0h2V1hYYzlqZldnVW1xZXZGZzNpcERSMHJIT284YzI0dERHVXV6OVltTmp2ZEtlQUZfUE5DWWlWVlVJVWZqbEc?oc=5
-- **Source:** MarketBeat
-- **Published:** 2026-10-21T07:50:37+00:00
-
-## 2,675 Apple Inc. $AAPL Shares Acquired by Gilpin Wealth Management LLC - MarketBeat
-
-- **URL:** https://news.google.com/rss/articles/CBMixwFBVV95cUxNSWxXZ0EwZmtkY1JNaFdBRG1aejNRTzhyV3ZFV0VlNTcxN3A4OTBqcmVteTF6OW9jVGstREVpaFlNTnpMUmxxSm1sNjhXUENiSHJoUXZyMVRrTDdmZlNGekxOMW1KeWtDMG9RSjc3cWhhRzc4aEp1M1dSbWxjZnBIUFpHQTdFd0R3alRETjhYbWtXWW52dWtsSVZfMDZHSVV3ZGhvelNlbS1GY3IwZ2dJTndHQi1rc1Awa2RROUhkYzlxZlJyN2g0?oc=5
-- **Source:** MarketBeat
-- **Published:** 2026-10-21T07:48:23+00:00
-
-## Apple Inc. $AAPL Stock: Oak Grove Capital LLC Boosts Position - MarketBeat
-
-- **URL:** https://news.google.com/rss/articles/CBMiuwFBVV95cUxQOS1qa2M3SDNHTi1jNTQwX2lmTDZZbXpWYmFUcU56TXpEU1UwVkY0cWxId2ppclRCSENfRlBSZmdWZ0k0LTE3b1Nnb0VGZFVEcm5pal9JV2FfX2laQVRfOFdFQjVSYzdqUHg5Q1o5Q0duMDhjM2F2VDdhRWs3VUdIakFweFlMWDYwbUdZdzRxdHVfaWNGNmJqMTRGNnJ2N09nNHlMOUJ0ek1XYmVYU1F1R0twaHJwaFdPOEtF?oc=5
-- **Source:** MarketBeat
-- **Published:** 2026-10-21T07:48:22+00:00
-
-## Apple Inc. $AAPL Shares Acquired by Castleview Partners LLC - MarketBeat
-
-- **URL:** https://news.google.com/rss/articles/CBMiugFBVV95cUxNblNNeGFNbWZEcGoyakhRMkxESVUtWmR6dERsX2s0UnNNSVNqZWp0WEhuZlljbVdJNDBlaTU0ZndkZDYweXN3TDFFV0dpUTdLTHNxcnFrOGVGVC1OMjVxMVBiVlU2VV9UMWVoeWplYnNndWJ5amxUeUFXVGxHczhkMzc5TXdON01ENXhBTFNqT1FJbkZBb2RaaEJ5aFU0RGV4eTQ1QjIwWWtXOE9oMnBWY3RDMXBLNlpHWGc?oc=5
-- **Source:** MarketBeat
-- **Published:** 2026-10-21T07:24:18+00:00
-
-## Apple Inc. $AAPL Shares Sold by CogentBlue Wealth Advisors LLC - MarketBeat
-
-- **URL:** https://news.google.com/rss/articles/CBMivgFBVV95cUxNYXp0aWJKbmg4ZjZiU2ZNeGR5ekoxWUdCWGJNcmJ1dHo4SXpXNDRaWFNZT1hTMHFYUVBnTDZlWWtZZVg4OXVEdG0xQW1ITEVTQTZsYk5GQmRrQkJrTlhtRVFEeTBVZjBpSE9qUmIzc3RuYUFOVTRhUDVkUzN4NS1TTndteW8wTzZxaWVVMnkyd0dzUk5VZG5jWDA2N1pYYjVDVDFVNlMteUxVRmszWkIwc1d2TzdRSTJnLTBVdDV3?oc=5
-- **Source:** MarketBeat
-- **Published:** 2026-10-21T07:24:18+00:00

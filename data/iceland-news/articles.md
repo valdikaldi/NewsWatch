@@ -1,8 +1,50 @@
 # NewsWatch — Iceland News
 
-_Last updated: 2026-10-22T14:54:03.704193+00:00 · 50 articles_
+_Last updated: 2026-10-22T19:47:15.814816+00:00 · 50 articles_
 
 ---
+
+## Discover the film locations for Supergirl (2026), around the Cairngorms in the Scottish Highlands and in Iceland. - The Worldwide Guide To Movie Locations
+
+- **URL:** https://news.google.com/rss/articles/CBMiZkFVX3lxTE1USUEwakZRMEFZQ09IMEw1eFVfdVBtRUhDZ3dJaWhlNlUtelFfQ1B4OXN2UVhTY0V5SzJpSmNJNXB3UFVlZE1UZ3hwVmJ5ZVk3bzRkVXE3aWxkREhEQVpHWVdvMFV0Zw?oc=5
+- **Source:** The Worldwide Guide To Movie Locations
+- **Published:** 2026-10-22T17:27:03+00:00
+
+## I'm a veteran traveler, but a rookie flight-booking mistake cost me $3,000 — and taught me 4 lessons I'll never forget - Business Insider
+
+- **URL:** https://news.google.com/rss/articles/CBMinAFBVV95cUxNdDVwcnh0ak5JY2s5eDNTbzNYTkJ0NS1XUi1fN1hyTkJKRlVmc3Fjcm5VczJ2emVrRldKeTdPTVFRMEowaTY0MV9BQ3JnUWVxVXR3bnVySDdPRFNKTEtOcmpDRDFlTnFaaXNTbk1lTk1jN3licGt4MmpzSnJrNEx3U2dLcGVDYWVVZHduUVdkMzgwTlVXamo3VlJ0Y2o?oc=5
+- **Source:** Business Insider
+- **Published:** 2026-10-22T16:11:00+00:00
+
+## Iceland vs Greece | UEFA Under-21 2027 - UEFA.com
+
+- **URL:** https://news.google.com/rss/articles/CBMib0FVX3lxTE4wR1NSenBDb0RzOVBkbzh0cnJDXzdXYjBpUktQZ1YzWk5rcEtzc2N6VE9TSi1nMmVMOWFHR0NFY256dHhwbG00d1hlX2xOLVlHNVpKUGthRzZONFVJVlIyNUV3d2M5TzZHbGpNUzd3TQ?oc=5
+- **Source:** UEFA.com
+- **Published:** 2026-10-22T16:06:53+00:00
+
+## Iceland commences private 5G spectrum move - Mobile World Live
+
+- **URL:** https://news.google.com/rss/articles/CBMikgFBVV95cUxPVy1ka0tHVlZvSnlFT1VuX0k0WFcxME1VQ25ic08wUXIyVlA2dDFoVkhiX2VDTjhCNjktZTE4ZWxUeDlCYWt6MWYxdjczbjJTTEJ3aHV0ZmxGbUtzWUUtQndVVHQwdGlYbGlZRUlEOXhUa2tNcG91TzZsbGVHQUpKN3NFQTA1SkRQOUVxc2xvcFB2Zw?oc=5
+- **Source:** Mobile World Live
+- **Published:** 2026-10-22T16:03:30+00:00
+
+## The Thief of Time at 40: A Walk with Steinunn Sigurðardóttir - Iceland Review
+
+- **URL:** https://news.google.com/rss/articles/CBMilAFBVV95cUxNdmx2MXhVdGFaVUFFemphZ2JPTUxaek03U3dibXpoQzQwTko3TmFOLW5rWFpxb1lQOWd3ZV9ZZTNsaFhyUUM5aUV2dmpIcjc5aDBoZEYtOE8zSVdBb0ozbHI3UVlEWml6OC0zZXRreXVsenJRb09XRGl4dEI1WVpVbzNfUUJvY0ltZlc5dHFwVG56ZG4w?oc=5
+- **Source:** Iceland Review
+- **Published:** 2026-10-22T16:00:39+00:00
+
+## Kales expands into Iceland with new JV - Air Cargo News
+
+- **URL:** https://news.google.com/rss/articles/CBMiiAFBVV95cUxPR1Q3MXY5RGZhRkZESGNPbks1d283ZDQ5RE1INWEtLTY5WkZhdHo1TFlpeFNBWkV2c2NGN1JNbHUyNlQwUWZxZXF3eW5uc2N5NDB0Z3JzVU5QTFZTOXdWR2xoZWF3a0IzY2RRRnhpdUowbXpnOTdRUW1LdkI5TUp3RE1EemhVMExh?oc=5
+- **Source:** Air Cargo News
+- **Published:** 2026-10-22T15:04:06+00:00
+
+## Magnús Thórir Matthíasson - Transfermarkt
+
+- **URL:** https://news.google.com/rss/articles/CBMimwFBVV95cUxOUlYtNW1NQkprMzBQeXk4bkNsTzVQLUhRaThfaWxTVS1ZVGwtaXZYTlhwWFFrdUc1dElCV1A2UEZMVHdfWnVkbDNzY1NxU0JaYzE4MmJXaVJ0RlpwWHhYdDU4UGtNY3Jnc3kzM1BvcWlsX1ZIOWExV3Z0WW9ZcExfbTg3Vnp5U1lfSkpCTHNQSFpBU3pacGpLWmNGNA?oc=5
+- **Source:** Transfermarkt
+- **Published:** 2026-10-22T14:57:01+00:00
 
 ## The Best Snorkeling Companies in Iceland: A 17,700-Review Study - Guide to Iceland
 
@@ -261,45 +303,3 @@ _Last updated: 2026-10-22T14:54:03.704193+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMinwFBVV95cUxOU211SDFXVVRSYlZkNC1Kb254WWhUaDNCZ3ZEdXFTdVhFcUNoTTg5WEg5c0ZzRlk4QkVscXNpMDVFT3JBa2FPdC1FQXZJWVJXR2p3eTZtMjRaWENMZ2JtTkNHX2N2aGdUUmVKUHRWN0pZU0tNZlZOUDFOTmZZcXZrWWZOMjZlV2JBUjJUZjRzNlZTZUc5NlA3aS0xR01YMFk?oc=5
 - **Source:** The Reykjavík Grapevine
 - **Published:** 2026-10-21T16:31:59+00:00
-
-## The Icelandic Comic Book Society Award Ceremony - The Reykjavík Grapevine
-
-- **URL:** https://news.google.com/rss/articles/CBMigAFBVV95cUxQUEE3ekg1TTduTjlwcDlyX1c2ZEJGNjlxZVVyWVBrZWlOcFJBOXpIWS03VVBEZTVMNmVseFI4b2UxTndPOF8wSFNGN1dNR1VKT0pvZG5raTA2a2E3dngtV25Ma0V5X2VUcHRQNW94TnRzX2ZZSU5sYWxNOHhfS3UxWQ?oc=5
-- **Source:** The Reykjavík Grapevine
-- **Published:** 2026-10-21T16:31:41+00:00
-
-## The Organ of Fríkirkjan in Reykjavík 100 years | Lára Bryndís Eggertsdóttir - The Reykjavík Grapevine
-
-- **URL:** https://news.google.com/rss/articles/CBMipgFBVV95cUxNbzJKZG5nWm5tR0pUTVA1RHk1WlkzaF9zbm9tUk9sRzBRcW5Pbkh6WERxWll4Z0duMElwUkZqYXBLOHRKdndDQlR0NDc1N3JaemFBQ1FZOWs4c1F6TGlMbmRoRmJBdzR0VkxkVlV6enlMYXRFZTZodXc5WXJTNHJRdmo5VnE0Ql9wMkd2cENqVDEydlMzUmxtalVuUHY5REVqR0tBTXNB?oc=5
-- **Source:** The Reykjavík Grapevine
-- **Published:** 2026-10-21T16:31:41+00:00
-
-## New submarine cable to link Scotland and Iceland by 2030 - The Herald
-
-- **URL:** https://news.google.com/rss/articles/CBMimgFBVV95cUxOOTRkY0ExbTVWS3Q5eUJNRUs2WWRHaml2ZHR3ZUdqWWs5ckk2NDlRQURBMU5xZzRTX0ZZZFRNQ0VuMkY1VHFrZ29CWFZ4WWQ0bXdvdTVkOVRLLVNPMDA4dlUwanNzSnJiR25YeTFHMU9OUzlmR3JTczRWTURiOFc1UmJ2R1dEMU5abkR4ZE94ZC1uNTVwcE1LLVJn?oc=5
-- **Source:** The Herald
-- **Published:** 2026-10-21T15:26:33+00:00
-
-## Iceland Signs EFTA Free Trade Agreement With Vietnam - Iceland Review
-
-- **URL:** https://news.google.com/rss/articles/CBMiigFBVV95cUxQc3RUZ3dPUWxoZFJFbmg3cUczWW43cGdld2tCM0VId0FxRXNTandCajBBc3g5QkFVUTRzRklMb182bWZHcVNvQ0thNWlHbkhMN0VpMk1Xd1pydDFmS1pGYTc5VE9SSV9haVU3UUVWUElYWnNFYlZiZnhlYVowdUpkNG41QUMwN3RmYnc?oc=5
-- **Source:** Iceland Review
-- **Published:** 2026-10-21T14:00:30+00:00
-
-## Landing sites chosen for new Iceland–Scotland subsea cable - Arctic Today
-
-- **URL:** https://news.google.com/rss/articles/CBMikAFBVV95cUxPSHVmajdkb2ZEY3dTSlp3WmJudlhxR1JTVnZqYmRZTHJNS3QwWVczRDBzMjBheVZoYllHVkhrS0VGdVZ5ZDlkRTRBelZ1VlVLTmZzREM0dXJJODNXTVd2TVhxTWFuODV3SnJZSEU1YWpSTklfdEFtQ3lvQXRhUDVBY3ZzQ2V6N0REekNVRDg0aFk?oc=5
-- **Source:** Arctic Today
-- **Published:** 2026-10-21T14:00:10+00:00
-
-## A Suitcase From The Edge Of The North Pole’s Ice Unexpectedly Turned Up In Iceland - Futura, le média qui explore le monde
-
-- **URL:** https://news.google.com/rss/articles/CBMixgFBVV95cUxNQ0hzMkp4ODhScHNMUzhCaTZJZFZpSG1jMzI4ZUc0YjdIc0xNV1NsZS1LQkg5ODRocml1anI3cXhRYS1sNGhteWtiRFlyRmtoTkVIM3JnOTBXZ056cEljS3VyU2JGRjdJWUQ2Vl83Zi1QcFV0aWd4NlBGSDhOYmFEME92bXJoVnBFSmhJWkFGVFFmNnFjbUdXYXJrMkU0dEZBUFV1RnJBUDhJczgwaHluR0pKU3lxOEpqOW04M0JJRVVfTXIyaXc?oc=5
-- **Source:** Futura, le média qui explore le monde
-- **Published:** 2026-10-21T13:39:01+00:00
-
-## ACT4, ZDF and ZDF Studios greenlight Icelandic thriller Vigilant - Prensario Internacional
-
-- **URL:** https://news.google.com/rss/articles/CBMirgFBVV95cUxQMnUyV2w3T1dXZEw5di1LV0hiNWhkLXNyLWdfczZhWWJ3QzdFMGp5VVlHNHRxTHJEd1hTczdKSTdzSzAtMUZPRkJNMWgzZzZiWmVSTm5jVXFFbF9HOTQ1LVp3Um5hcVg5WXBiQ0dnVmtUcndWWk1NeG5BSjg3VTZ0ek9nZUpwTmQ3SGwzdGI1WGdTa0FFMFBoRWw2TUxoOFFGZE13Z2pkQnpjZzBST0E?oc=5
-- **Source:** Prensario Internacional
-- **Published:** 2026-10-21T13:17:29+00:00
