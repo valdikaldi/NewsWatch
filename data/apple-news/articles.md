@@ -1,8 +1,68 @@
 # NewsWatch — Apple News
 
-_Last updated: 2026-10-21T23:07:29.066892+00:00 · 50 articles_
+_Last updated: 2026-10-22T09:12:39.017289+00:00 · 50 articles_
 
 ---
+
+## Apple’s Cash Flow Machine Makes It Investors’ Favorite AI Hedge - Bloomberg.com
+
+- **URL:** https://news.google.com/rss/articles/CBMiswFBVV95cUxPVEhiUVdnQXdudGlrV3VvU0xhbkYyTkhSalotV1BMSWppMF91aEFYcnlFckRaV3drNWNRbzdjUzVxUkt5S0tIUTZabUpzR2hhbExfaDBQc1ctYTlJdFJ1Y1JxcnJkLUhZYl91U0Ffbl9Dcl9GbGdUZk91QlFSd0hiVzNUeS1ZR2VCWXBWZGlFdC05X0tHYlBwNFNYVlFGYk9nQnU2aDgzaUZTaW1MTHdvaE5QRQ?oc=5
+- **Source:** Bloomberg.com
+- **Published:** 2026-10-22T08:45:38+00:00
+
+## Apple Inc. $AAPL Stock Sold by Fermata Advisors LLC - MarketBeat
+
+- **URL:** https://news.google.com/rss/articles/CBMirwFBVV95cUxNMmlYUlhJa3c2WUV3VGVaN1I4UU8zVGgxbjdDcDNfWTlwcXhHRmk3R01MX192b2J4RXAxdjRPOEdndWl5SnV0anZnaWtDdlhObDQyTUxBdzBMSnRCN3NYOXZiYzdYejNrNnRscXpKQTlUYXRGUEJWQzVGUFVUX2RGRFFjT1QwZ1lyZnRqdUdBaFhleGlVaTRPSVdmbEtxZGcyem54WTNrRHhpSWpMLVc4?oc=5
+- **Source:** MarketBeat
+- **Published:** 2026-10-22T08:08:37+00:00
+
+## 1,946 Apple Inc. $AAPL Shares Sold by DWR Wealth Management LLC - MarketBeat
+
+- **URL:** https://news.google.com/rss/articles/CBMivgFBVV95cUxNWmRkeEMxNVBnUzdQYUFqek5HeVNnN0Vjb1ZoS2RuUXdDRVJ1QW5RTWR5WWdCYjhaWmlrd1VUUlFsYnhBNHZvS3hZRE5hWTBZb2tWQmZUMDlELWVVajRYUVdBMFRhQTFJeUhucW5JbzhSc3JMeENtNnFGMXlwT1ZId0R0YXdxNTllckdXU1V5TkNRdkEwcHY2OU40RnhWR3VKSjRIRWhIUDdrMFdvZzV0c3BEUjNlMWY2d2pwWGtn?oc=5
+- **Source:** MarketBeat
+- **Published:** 2026-10-22T07:41:06+00:00
+
+## 2,987 Apple Inc. $AAPL Shares Sold by Baldwin Wealth Partners LLC MA - MarketBeat
+
+- **URL:** https://news.google.com/rss/articles/CBMixAFBVV95cUxPQmowdjRVNWhYeHhBdUx6RHR0ZEJ5YlJxMVRURkpnV28yR05OczBmNVlEc0JHcWJyTWJ3MHlneWtlV2FVdThwTU4wM3JoVURGQTVrRVlCVDFHaU9CWmVPSUEzMzlScjZxV1hVd0VZUVlPTmNHM3lSSkRqSUNXUlA5MG14Q0Z1UmlBRDc2S1NlQzhWSTBnMDR6Tmc3eWlUZGlfekh6N1dIRFREM2lSNzFQZUZyelRmamJhdFRabmNoZzJyZjRv?oc=5
+- **Source:** MarketBeat
+- **Published:** 2026-10-22T07:16:21+00:00
+
+## Apple Inc. $AAPL Stock: Avior Wealth Management LLC Cuts Stake - MarketBeat
+
+- **URL:** https://news.google.com/rss/articles/CBMivAFBVV95cUxPLWFsdzlyV0NuYll3NmxMcHBPcUR3cG9rekZad1Zhd1h5VWZQbWk5SUN3b0g0Q0hrTW50bDFrd2JiamI5UWZqb25ybFprRy1femxMNGVQdEN2Nlo1VlpKOUprUWV0ZXN5OUYwYl9XWk54VWM0eDJfS0lGNUJFSEFndWhRZ1dRdnYwMEpibEVVQ3FEb0pnQnJSLXd0MHZ3dG1ncGRJeWFsX2k5Z0otaTZpRFpxTnFQTlNhZjlFMQ?oc=5
+- **Source:** MarketBeat
+- **Published:** 2026-10-22T07:16:20+00:00
+
+## Apple Ordered to Open iPhone to Rival App Stores in Australia - AndroidPure
+
+- **URL:** https://news.google.com/rss/articles/CBMidkFVX3lxTE1YQ3o2dXpmZUx2RHRiUUFYQk1xUEVRZlowc3hwV2YtQW9BUFFBUmtXOENIdUN1aEtTY1JKTENTYmJwQU9YOEZ5SHQ4OHZwRVlBb1AxTFZBZzhObENhanNnM0ZiV0NUN29FTU1rUVM4X3ViYlpDeHc?oc=5
+- **Source:** AndroidPure
+- **Published:** 2026-10-22T07:01:26+00:00
+
+## Apple (NASDAQ:AAPL) stock surges to record high as new iPhone demand soars today - Kalkine Media
+
+- **URL:** https://news.google.com/rss/articles/CBMivgFBVV95cUxQcFBBZ2ZVRTRjS0V6OWlhbzd1MFQ3eWNOOEV3Vnc5bHFobl8xM3ZLUkR5MXJwQnZkbm5hMWpUZURQUm5rTVl6NVpvYVdBSXVqXzl6b1U1Q0RzMFhvN29tUlN3RUstbnlJZG95dk5IMmNyNERud0NMVFVvWjVSMHh5M3hHOEhFd0dKWW5MUE1tYTFzWkZlang0cjhlTl9Fd2hGeEhJLUUwaTBQYUxCUjFCbEVpaDZBYmxhQlBaM1dB?oc=5
+- **Source:** Kalkine Media
+- **Published:** 2026-10-22T06:46:00+00:00
+
+## Apple, OpenAI agree to proposed safeguards for confidential information in legal dispute - ETLegalWorld.com
+
+- **URL:** https://news.google.com/rss/articles/CBMi8AFBVV95cUxOQ25xVHBUOS1zczU1bUFmNFlsZ19CemZMV1F3ZllQRExUUGpNVG0tb2tjRkw5d0pkUWF4Wkk2anQzQUNUUEl3eVZiZEVDVE1zVHJSSGxScmF4RjB0UDE1Qy1TdVNGcUVCUFpMVXVCaThDTjhhUVlaWGNiZ1FtUkRxV192Sm0yM2c0UWtGX2N1eE9TNE8zbC1LSlRXS1IyUTZkVGZ5Z3RaNVdMV3ZCaUwyanpFVHVsZ2NQVEdSRXEzYnJvMDRLX1VQWjNFcURSUXF3QWp1VDdIUzY1bGxQclVaenFxREJQRGYyRmRNR3A3SE7SAfYBQVVfeXFMTzlsNVQtQmh6RDlJdDc4RWpZN0l2RHNGRWFPcTdfZklzWU5NUkZybGlJeUZLY2tRZGQxX001S3NzTVdjbmEydXdNd2NiQjJNZXpxc1VremNvbkw5YkcwVk9sdjJKdE1qSEViWWotUkVObE5xVGxuZlBIbWxqcUdCcmJOOS14Vnc4N2FtM1gtdkVKTGpkaUo1TUNaZWxhTDBkdzNDdmdkclBUT0psV3hFbzhXLU1yT2pFb2gtZ1VrN3RwTnpDRjZsNzYwN0tOLWx1R1cxNi1pNDVVUHUwZDdLQkhWNFpwNUFyem43ZUtueGFVWFhTUmJR?oc=5
+- **Source:** ETLegalWorld.com
+- **Published:** 2026-10-22T05:48:30+00:00
+
+## Order the iPhone Duo and wait three months for delivery... A sign of a hit or a supply crunch? - 파이낸셜뉴스
+
+- **URL:** https://news.google.com/rss/articles/CBMiWEFVX3lxTE9XUHZEd1dSWjFrVDFEaXVxV0NOcGR3MmtwYVJsb09ZejlNUXNYNEswS0lxV2t5aUhmT1dwSHVnVzF4U080Q2ROSDFXV3pnLXlKa3JvdTU1SUs?oc=5
+- **Source:** 파이낸셜뉴스
+- **Published:** 2026-10-22T05:48:09+00:00
+
+## Meta Platforms, Inc. (META) stock price, news, quote and history - Yahoo Finance UK
+
+- **URL:** https://news.google.com/rss/articles/CBMiUkFVX3lxTFB4R1puQ0Z4d0VwYXkyb1Z2LXQteDFfUE5Vd2h6ZnJ5d3UyZ1F1Vm1Ib3ZEWmZXQUJUeklBQVdwNkhBaERNeGlxQ05tRkI2VXNLU1E?oc=5
+- **Source:** Yahoo Finance UK
+- **Published:** 2026-10-22T04:49:36+00:00
 
 ## The Magnificent 7 Are Splitting Apart. Here's Who's Winning - TradingView
 
@@ -243,63 +303,3 @@ _Last updated: 2026-10-21T23:07:29.066892+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMinwFBVV95cUxOYmdUZFdMRzBfX0hLZkxUWFJxanBDdVlZWVBXM00xaXdlUlVmQjZIRW1jdUFHbDVMVGVjNE9KbGljbEV0WWM3ZjRkSU1BT3dqbVhsR29HUlhqa21MRWl5SWRmWUpfb3NpMnJXdm04NmwxMGlPa29GUmtybW9oUENpMEhfSTdrVGh2bzk4WEtUUnV3UjZuMnlqZklSSVJwT2M?oc=5
 - **Source:** Recycling Today
 - **Published:** 2026-10-21T04:17:00+00:00
-
-## Apple faces UK pressure to open iPhone to rival wallets - The Star
-
-- **URL:** https://news.google.com/rss/articles/CBMirAFBVV95cUxNR3QweV9ZQ1NyMFQwUjlqY1N2RE1JRUI3U1AwX25GMXkyVFpqdkVrVy0tSHBaaFVCc1hyZXY2ZnZVMDZTbjZ1QW5EODA4UnozXy1oMy1iTnI3SGc0d3NFSUhBUkZ4UzlBWW9xbHhrRVMxRW1xeEVNdWJrTHloYllMS3NMZVJWTWU0NGJMb1h3QUxmbTNhMkNtN2hKb3hmeXlrODI2bUhJcGZ6dGFO?oc=5
-- **Source:** The Star
-- **Published:** 2026-10-21T01:00:00+00:00
-
-## Apple unveils new suppliers for iPhone Duo - AzerNews
-
-- **URL:** https://news.google.com/rss/articles/CBMiVEFVX3lxTFBESGlUbURyWkNZMVM1WENSbTE0aWVCU3lFbTRVM3hLOVRfU0EzUFRxcTlWTmJUd184SUxVR1VaUllMQjFKOUpwOFByS2JOc2ZnaS1pXw?oc=5
-- **Source:** AzerNews
-- **Published:** 2026-10-20T19:30:00+00:00
-
-## CPI | Apple Faces Fresh UK Pressure to Open iPhone Payments to Rivals - PYMNTS.com
-
-- **URL:** https://news.google.com/rss/articles/CBMingFBVV95cUxQWS1nel85NWtES0FjRGp4M3VtbHoxT0NVQWRfOGdjUkJzMHh3VXZsMnZEWVk3dnlLWGpaLTJLd0FBWTc0ODhKTDVjQlRTa0NvM3NkNHFHUTF6LUZCMWNVczFlWk9DbGRQWXVQMm5UWURhUDVYUFZoajQtUGlXY1pGNm5GSUgyeWFKYmVKN3pVM2VQdDlELVNKdEFZTG9EQQ?oc=5
-- **Source:** PYMNTS.com
-- **Published:** 2026-10-20T18:52:50+00:00
-
-## Apple faces gross margin pressure as UBS flags slowing iPhone growth ahead of earnings - Proactive financial news
-
-- **URL:** https://news.google.com/rss/articles/CBMi7gFBVV95cUxQQ0JCX2tFazJLLV9aOGxkNmxMS283dHZMaEozWGlLeW00U195ajI4ZERjUEhCN3RiLXh3cV9wYXI0d3pCWWhITGVuOFhlTkZpSHVFRTFmUlNOM3JuajJsMDd5b1BjeGxzYnpvSHRhWlFTdUV3NnpVUjRucGdoSnhmaXFZYVFUdDlyNFBsUXlJR1dJcWotUmkyYlNZZXp2Zy1LSlZXUVNIRVNKR1JZUy1USlFyLWNwWnBHcUpBM1lvRllFS19yeFdjaW5udy1Bd2FmWkZWVUxWUGlhZHQ3Y3dVejVEWXBCRHRtTG5sMnZ3?oc=5
-- **Source:** Proactive financial news
-- **Published:** 2026-10-20T18:46:00+00:00
-
-## Apple faces UK regulatory push to open iPhone contactless payment systems - Business Standard
-
-- **URL:** https://news.google.com/rss/articles/CBMi2gFBVV95cUxPbUdBdDN1Z2Jhekh2c3pOcTgybDV2V3VqcUVYX1VTMUp0MFhLVW9PWG9kWjZ6MV9md3M3QThsWWpUaV82STg3Nm9qaEZPeUlvRDdsNnhYQjI1OEN5bUI3dV9YOEpDTkNSY0d4YTQyQ1NLZnpMRzdxbkFMNk01b055RkY0c0hxZWg0WFJIOEZsWEZxSXpfQTQtXzMtU3lmQmkwQTg0Z09NSXVnb1RXamt0TzQ0cGt3SkNRVFFSV1F1OVJSbC1MLTRJWEVOVk1IM3ZtTWo3QUdOQ1Vhd9IB3wFBVV95cUxORTAxaUxaUjk0eVdNM2VZV1hpMTh5UlBRSlRmcEtCWEVUa3E3cW5vWUt1N2dPNUZTSk1wYm5kZHNPcTA0RGwyOFVyeFZseHR1aTZUajFTRmk3YWlEWHh3MUxHZGptMFBqdzZ5TkZtWTZEb3Y1cXEzX3IyaUR4STlKWjBNU1d5VnpiY19mdlZsbzE4WFNqTE9TeWstUkVadTNEMFVIeUlGTnlKOXAyMFFhMkdjSDM5a1Axbk5ReENnZ1JERXowWVo3S01MWldQNFVnQ1dvWHZ4OUpsNjY0dDZj?oc=5
-- **Source:** Business Standard
-- **Published:** 2026-10-20T16:26:04+00:00
-
-## Inside the U.S. Suppliers Behind iPhone Duo and iPhone 18 Pro - AppleMagazine - AppleMagazine
-
-- **URL:** https://news.google.com/rss/articles/CBMib0FVX3lxTE54blJZUkZjZVhmQzFSOVlSaXk5cjRLTlZpdER1UHkwLXFxOHlQQ3g1SGJzLVctOVBTOS1HREtPMHFsTTBsVERmbFhuUDB0OXEzTWQwX0dHLURUTXZLSDdFRlpIcEx2M3JyZzhmRE90QdIBb0FVX3lxTE54blJZUkZjZVhmQzFSOVlSaXk5cjRLTlZpdER1UHkwLXFxOHlQQ3g1SGJzLVctOVBTOS1HREtPMHFsTTBsVERmbFhuUDB0OXEzTWQwX0dHLURUTXZLSDdFRlpIcEx2M3JyZzhmRE90QQ?oc=5
-- **Source:** AppleMagazine
-- **Published:** 2026-10-20T15:52:53+00:00
-
-## UK regulator starts process on opening up Apple's digital wallet to competitors - Seeking Alpha
-
-- **URL:** https://news.google.com/rss/articles/CBMitwFBVV95cUxNNkdoQ0VXLWpERXhDdVRLbHk4WlVHWjFhSTJOdjg5RFZYNEJCd3J5RUZJcGVkdWRhTG1uc3VIT1lCTjZUVC1RLWhEcE5jQVphWVdTR3NTWW45Nzc4WG9wWE5qTmRUaEdMVXV4WnZ2Q0piY3Z2Y3FKaUJfNzVHU1UtRXFsMHdybFFCa3VSb2N3U0ZHX1pvaXUtQl9vOHBRNm9qNVVsdnFXb0dPV083a2wyRGZMazE0Nnc?oc=5
-- **Source:** Seeking Alpha
-- **Published:** 2026-10-20T15:14:43+00:00
-
-## Apple stock: JPMorgan raised target to USD 360 for Apple stock - ad-hoc-news.de
-
-- **URL:** https://news.google.com/rss/articles/CBMiwgFBVV95cUxPODBhV2h6ckVtamItYW9vMXVvMm81X04wVm5qelVid0ZLX2ZjQXhFNXBTdHJvaDBCMEhfNEJSZEJqRUlGNkxmNDd2MF9oeWFSMnBSUEt4VkdxcTdZaEhGR2k4U3FwXzdxckI2eU9jVTFmY3JyRUdfRUlWb2xFNVN2OUE2N3RaWXR6alF4YjV3NjEwYzJTdEZwWVJjWkdzLUY3M3FENER0UHQyMTlaTXFCMmJJZkVmQ2FYcHVGV19LMTlTQQ?oc=5
-- **Source:** ad-hoc-news.de
-- **Published:** 2026-10-20T15:07:52+00:00
-
-## Apple Q4FY25 Results: Revenue est. $113.07 billion, iPhone Duo launch nears - scanx.trade
-
-- **URL:** https://news.google.com/rss/articles/CBMivwFBVV95cUxQMlMzUUdIWXNjSDFpczBrVVZmSGN2WnJNRl9UdGkzOWJKMkVKVkh6Qk1DcC04SnBmRVRLazMzM2Jabkc2SXJpU0pHQjU1WXNTa1ktaHlOakhvSm03S1FuRWhiTjVOUjVQb3NCR1ZobWY5eVZNcmw2ZjZTd1owZ2xubnQtenZTY3gwSmlYb0d1a2hEdG05WHNHWEdmM1R1ai03UFFldFFsR0RWSU0wOWNJSEZkUG5lcm14cW9MT2hyVQ?oc=5
-- **Source:** scanx.trade
-- **Published:** 2026-10-20T14:23:30+00:00
-
-## Apple names pair of partners in domestic manufacturing program for new iPhones - Seeking Alpha
-
-- **URL:** https://news.google.com/rss/articles/CBMitwFBVV95cUxQWEc5RjJEQm0tcTVBQk1EVzRxcWg5N0J4dDBJMGdqajl4RWlfZDE4WjJxRXZuZm9rODBhTXc0UF80c25veUNWdDcwT2Q2aDg1V2tuanpXZ3pxa05wSjZ2enlYY0c2LUNZc3hfN2lHOTRGc21ZLV9rdmpNNkQydVFTZXdiVU1xTGxxeXlXUlYtWlNIdVlzMUtEd01fSHc5cGVPdFR5NVFKYVUzYm80dk9iZTluR0wyOFE?oc=5
-- **Source:** Seeking Alpha
-- **Published:** 2026-10-20T13:30:36+00:00
