@@ -1,8 +1,128 @@
 # NewsWatch — Iceland News
 
-_Last updated: 2026-10-22T09:12:40.319713+00:00 · 50 articles_
+_Last updated: 2026-10-22T14:54:03.704193+00:00 · 50 articles_
 
 ---
+
+## The Best Snorkeling Companies in Iceland: A 17,700-Review Study - Guide to Iceland
+
+- **URL:** https://news.google.com/rss/articles/CBMihAFBVV95cUxOSnh2N1B0c1dXMTdxTzdQNDVrUW9wWFZTa3lwNmpkVi05c0VLMnUxSEVrOW5GNVdadVNlQlVPZ1U2Wk5aZmltdXNRLTJvLTVrNlVMTHB4SU95RlQwU3hvQUtteEZEZW9udXN6SUNLM1pTcmFub2xZOVBoSWpoZW5SSGc0YTI?oc=5
+- **Source:** Guide to Iceland
+- **Published:** 2026-10-22T14:47:20+00:00
+
+## 🇮🇸 Elkem and Landsvirkjun sign long-term power agreement - Arctic Today
+
+- **URL:** https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQTJ5VURzQzlHeVFud0pWa2dWOW1mMjB3dW82R2N3WjRKZ3l1LUJRS2VPc1g0UmdqNHNfQ1gyR3VBd0Z2LXFBSVBRbFREdHJ6Q1p0X244cVZaOHhkNng2Y0d3N0FwTlgyeVd6UV9qeWJtX0dMaHVPRHg2cFdSaUlpSDFHZnJUMHNJMUJZeWNDUEdIOTVkMDlheWd4eS1SY0hybkRGdlgtQk1KZFk?oc=5
+- **Source:** Arctic Today
+- **Published:** 2026-10-22T14:25:48+00:00
+
+## Critical PHP Flaws Prompt Urgent Update Warning in Iceland - Iceland Review
+
+- **URL:** https://news.google.com/rss/articles/CBMigAFBVV95cUxONWNlUGRjcGlfREVTY0oxSjgzREN5ZnJJbjBpYXJWWTh0RlFwQWtGbzNrdmpFMER4c3YtNm5CUklxNmhxWFpydEhiSEp0VEdDeWNkN2ZjX1NwdHA3aDg2MmZTdUFTQjFBN1pvSmU4M3UzckpKWTZSX0pnUjJJYTFETA?oc=5
+- **Source:** Iceland Review
+- **Published:** 2026-10-22T14:00:59+00:00
+
+## Auður Confirms Iceland and Scotland Landing Sites - SubTel Forum
+
+- **URL:** https://news.google.com/rss/articles/CBMiekFVX3lxTE4zLXZ5cFhmcGt4dVYzZ256Y0FDQk9KcWdDdGtJT0Vwdl9NOFA1MkhTdzZvWkQyakZPN0daWERrZjJweXBFVkVzdDhLdGxrODBWc2dxOC12d2gwX05kSHdHTnFaZ2dudkZ1bUFaMDhXbVBiMXNxak1SY2VR?oc=5
+- **Source:** SubTel Forum
+- **Published:** 2026-10-22T13:12:46+00:00
+
+## How to Experience Iceland's Fire and Ice in Reykjavík - National Geographic
+
+- **URL:** https://news.google.com/rss/articles/CBMipAFBVV95cUxPODJOVUNuaUsweTJOSkg3ZkMxZVhsaXVxbGdBR0hvaWttT0t5YV9fdjNyQ3AwVUpHYjZtemM3bXlDSUNhT2Z5UTQzTmQteVVWcS0wQkdPa0t3Q3VoUktDdnFDWjJHLTZibF95TXlPcHZ1VDdCeFBtbWZyUF9aTUJJVkt2Y0JWZ05VT25kUHhMZjVHaTlrRnpqajRmMXlWZm5URzkwWg?oc=5
+- **Source:** National Geographic
+- **Published:** 2026-10-22T13:04:35+00:00
+
+## Gunnarsdóttir to visit China shortly before first Air China flight - Iceland Monitor
+
+- **URL:** https://news.google.com/rss/articles/CBMitwFBVV95cUxNdlA1ajl3anVKWlVPdHdqbjBmS3VOR2dhbG02X3JtbTloSzFWVEVWTGU3UWdYZVpCSnU0WmVwVjJRdUZ4aTVPQW9GbEF5Q3hxZkJBYkJYQ016dXVDVWhHVlpaYzk4enp6TWFvaW9VSjZMdTlxWnVacXV4aFlCQzB3VnJJLUpFY2NoMXlEVVZaMWF1SGM2Ml9QNWY3Y0RWbUF4b192ZUd2VGNLT1EzNzNNZlBJbzhLY2s?oc=5
+- **Source:** Iceland Monitor
+- **Published:** 2026-10-22T12:30:00+00:00
+
+## Foreign Women in Iceland Lag in Cancer Screening - Iceland Review
+
+- **URL:** https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbWFGX0tqMWhUQnRhcnBuREhIQm1FNEFZSy1iMTZld1RZbGFNZWZRbnp6Z3FlN0VwbFl3M094am04Y0p1UFBXVUtjQ21YN3ViUzVBbzlaTmgwZmpkeHBRSEV3U2w3a3hPWFAxd2ZPRVd5azJQOVNHZTB3UEF1VUJScTFsUjBNV0YzSFRR?oc=5
+- **Source:** Iceland Review
+- **Published:** 2026-10-22T12:00:38+00:00
+
+## 66°North On Redesigning The Past - The Reykjavík Grapevine
+
+- **URL:** https://news.google.com/rss/articles/CBMikwFBVV95cUxObWlGY0h4VGdjOHBZUDJRWVhpRUtGNklOa3NKM0hwXzdhZ1Rsa0ZzS2VSbllweGJXei1YWDl0U0F4dld6dmpLalFDTGF2eTdpQ3drUUEzQ0VoOW4yOUt0ME9ZcXdkWnJUWTJQQjBhNDZDZmx5aWpmS3BMaF9leU1vTU55RHpkZFZvczdZUzNWbWhTdnM?oc=5
+- **Source:** The Reykjavík Grapevine
+- **Published:** 2026-10-22T11:46:30+00:00
+
+## Iceland confirms £5,600 boost for thousands of state pensioner shoppers over 66 - Birmingham Live
+
+- **URL:** https://news.google.com/rss/articles/CBMingFBVV95cUxNSUVjajM0NFMzS2Vra2lCNkVsOHlFdTlPVXBGLTBacEhPcDVfQzRBTkozM25NVXBSdG1NZDVCbVVVVXNOR2lWQUltWWE5RWtZQ2hBc1I3SkFjQWVYRzVfLTczamo5QlFrck1XWDNhREd6VXpwM3VHakR2bUJQczRqZklVaVV3QWVLWlNOLTlob3BSNWJ0ZFQwU2RaUU1CUdIBowFBVV95cUxNNS0za1F4X0pwdXpUN0NEVERaaXdNcEpscGVLR2pzMEZVOHF2djFoZVdoTllLVDlIcS1WYzBza2cwTjgxNUpGbmhwM2ZlUUNaZzdyOUtxemw1eXc1SnJKZm0wQnpad1dkUTZJZ2VUa19Xc2JYbG9NZ2RGanBlajdVandPcHIxMTBwdnk4LXV5bDVjWEhjQUxobnY2c21PQTJONXhZ?oc=5
+- **Source:** Birmingham Live
+- **Published:** 2026-10-22T11:43:00+00:00
+
+## Farice merges with Oryggisfjarkipti and Neydarlinen technical ops to form Korda Networks - Telecompaper
+
+- **URL:** https://news.google.com/rss/articles/CBMiywFBVV95cUxNaUltS0EyVVJlZW1VQjlYMVR6YmdPUE5QWjU3Z1I3T2lVS0pSR3RwSkkzVUlYR0tkbk9LQzd5T3l1bVQzRlBXM0NLLWJraTZlcVJqUG1EemNjVGRGMlNWRV8zdHlOMmZGT3F4YXNHOHkzN0FtZzhCZ0hxa1FQRTRxckxBYkszNi1BNHVrNjg5NzdHRHhVU3ZpZ3QwZG1hYkFPdzBjOGI3QUdsRnBaMHZ2V1kzWEpVTmtFeTYwREl6OFRrUGVTVE5WaHdyOA?oc=5
+- **Source:** Telecompaper
+- **Published:** 2026-10-22T11:18:11+00:00
+
+## Iceland helps thousands of over-66s claim £5,600 - check if you qualify - Daily Express
+
+- **URL:** https://news.google.com/rss/articles/CBMikwFBVV95cUxOMzBFdUpONWZ0ZjFpU3BKekU3cm9NQ2M4RmNWMXJ3QUNhMHNoRzBnaFRQRjdVVnF1Uk43ZEdZUXEwd0JGU1NqLW41YWtoZllydWJaeHZ0Mmg5UnJEdGIzSlJzMDR2MGZyQnZUcy1IWjF0NDhSZ2xCc3YxLVJ4MWZ5dEZyeHR1SVVUY3Rad0EtcU05ckHSAZgBQVVfeXFMTXd5M09EUXBXWWJHQV9QUThuUkVDRnk2WERpTjhINEwydk5qelJzcWlkRmpHaHM1TWZDZ3liTXhRSUtmekNhMEFyN3ZqNWNCa0ZNU0ZMZXA1U0J6b1RGTnNKQ25KUmxuVENFLWxnSkNaVTlPTVE2cVJ1UTBReXN6UnJwMm9iZnh3RVRDNUwyN2s1MkJiTkFUZEE?oc=5
+- **Source:** Daily Express
+- **Published:** 2026-10-22T11:17:00+00:00
+
+## Elkem And Landsvirkjun Sign New Power Purchase Agreement For Ferrosilicon Plant In Iceland - TradingView
+
+- **URL:** https://news.google.com/rss/articles/CBMi8gFBVV95cUxNY25mNEswMklQSHJmY01ZNXJmYVZSdVdwS2FVNzE3MHV3czNCUndPajdkQ0poSmxoeHBXWmc3STE5cG1ROEk4NVA0T2JTNUtoQU5Hb2gxNHhON2FUM2JIUDR1UTJKamdWd3o4cThLSnUyVGs2Z0NzZE01U1dwUkVwYWw3bEdvalRGT2FKbUdJaFZfbzhULTQ4SzJUT2lkNmc5N3JqcFJ6UUtzOXpXbnk5NC02UUVZQjgwdG1sdjRTbWllMkVxa1FNTlNKeFJURkx1bDdYMTBuc3I5RndHSU5qSTIxUXVJd21VaXVpc1E2d0dIZw?oc=5
+- **Source:** TradingView
+- **Published:** 2026-10-22T10:32:32+00:00
+
+## Elkem and Landsvirkjun sign long-term power agreement in Iceland - Cision News
+
+- **URL:** https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdFhqM2gtMERtR3AtaElsYzNkWXVsU01fNGx2T19pZ3ZMMWUzeGF4dVpCZ1dfMFJ1QjF3ajFNaXJweWx6ZG1WelgxcUFvam4xRUdKTnNfNVlINGJHY0plTk8zLUtrZEloWXZfQ1pGT2EwRGFrQ1o0UTFfaWdNMU4wbndTRk1RX1J0SVk1cGVKb0wtcUdwWDZ2Zkx1SUFaS1hlTllJa29KR1Y?oc=5
+- **Source:** Cision News
+- **Published:** 2026-10-22T10:30:00+00:00
+
+## How to watch Hildur (2026) from anywhere - UpNext by Reelgood
+
+- **URL:** https://news.google.com/rss/articles/CBMickFVX3lxTFBrMjVoVGZVUDg1dWt5RGNnYksxSWRvdnJnV2dnNFEyZnZ1eGY3My1DckZVaXdTSTJwZjJxblBLN0dLVDZCaUF2X0NMYUNqN3lpOHBJcS0wSl9jUVUycUJnSEdNUWJHYUpWZ2U1LUZicmlnQQ?oc=5
+- **Source:** UpNext by Reelgood
+- **Published:** 2026-10-22T10:20:02+00:00
+
+## National Archives of Iceland - Ísland.is
+
+- **URL:** https://news.google.com/rss/articles/CBMirwFBVV95cUxPYTA1LVpkLUdfc0Y0WjBtVW1acEd2MXoxV0YyTENKX0c0RnBaNjVlS0x1bzlwRXdlWFVodTliTGJCRUVJV2VlMVdIXzNxakFNRTJCOFJmSFUwUE9wYmVMVFdzbml1czB5QW13dlBMMDV1R3NxNEk2MHRzR2o3QlNfMDBQNVVHcUxISEdVamh2T05LczNDenNnRXh6Wl9GM3M2SlFnVVRGQmYwX2hrS2tF?oc=5
+- **Source:** Ísland.is
+- **Published:** 2026-10-22T10:13:12+00:00
+
+## Iceland boss tells Labour: I didn’t join the benefits party - The Telegraph
+
+- **URL:** https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQUdZaXppSEZjUy1Zdko3N2dkUmNaLXppSFFJalQzYjB1N3RKSURxTllwM0NsQkpPMUFra3d5Zk42Z2xyNVRnSGRMdjdNWm5uZWcyNDFYWDJkYnNmdV84ODFIdDBKWWpTREVsbHpmaGVEZkJOV2RhUTU3QjZ5YTg0VTY0MjNQc1EwQ0MxNXgxVUlsTlAwS3NVNk43RXBjSVVfZFpiUFQ5MHBydw?oc=5
+- **Source:** The Telegraph
+- **Published:** 2026-10-22T10:05:00+00:00
+
+## Aberdeen–Seyðisfjörður Ferry Link Enters Early Talks - Iceland Review
+
+- **URL:** https://news.google.com/rss/articles/CBMigAFBVV95cUxPY0p3S0VQVGJBYVhRc3JaVk5zZjI4UXhOd3hoOVdzWU5Pb0g2YjFoc3BPY2xWREJhUlVXOHF2ZU4yaGE2SzJXQ1dScjg5QWVBdTk1dEt2QmdjT1ljMDNfcm5rbDhCMWRoQjVtaHJRalVET3JZUXl0YXJLclNvUHUyaA?oc=5
+- **Source:** Iceland Review
+- **Published:** 2026-10-22T10:00:45+00:00
+
+## Youth unemployment on the rise - Iceland Monitor
+
+- **URL:** https://news.google.com/rss/articles/CBMiigFBVV95cUxQbnJCb1ZmTFpUWm9lNWFiQXlOTUlhY0N3OVJMa05VY0t2TG1qckpRVHJ4TmZNTVphanFTQk9wWmRJOEJnYlpVNDJ6Zk9IdXpJd0NNd3gwVlQybFFUTjFBVjlhRTdFSWhsUVgxRTkzZjdPUEpJc1ZURXFiT1lSNktaOHFNcER0NFl1aVE?oc=5
+- **Source:** Iceland Monitor
+- **Published:** 2026-10-22T10:00:00+00:00
+
+## Icelandic cargo connectivity complemented by Kales Iceland Air China appointment - Air Cargo Week
+
+- **URL:** https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUTF5eUJfZkJTRkZpSTB5NUtyRGg2aDExanF2Z0NFNWZYVW9HUXVaNGc1VVhwRWRxT0lNeWlNT2V4cGFubDlUc2lkbjhadUM3aUhoNUxCNUxEV3hkQ1FWbURoYnoyQTFxYVlfeTFTa3NXdGRVV2kwYjFIeVp1QmVGSkxWdWhJSWlfeUhacjBtTHN2djZVQUY3UE90RkZ0Y1FmSlZuOS1tVUFwZw?oc=5
+- **Source:** Air Cargo Week
+- **Published:** 2026-10-22T09:51:25+00:00
+
+## Kales Iceland appointed Air China cargo agent ahead of new Beijing–Keflavík service - Cargo Airports & Airline Services
+
+- **URL:** https://news.google.com/rss/articles/CBMipwFBVV95cUxObDdST1haLWctaHVpV1RSWGp4TlpaeHo5bG1rSjdwMERLbmlHZFRnQWNVc0loZk1YS2FyNGF5VmZTMzBYeVFNcEI1Umo4RFRnOUU2b0d4a0VlZDViWkxVYWl2TGR3OHpORmhmRWF0WVJuS1U2cWpUSXpRTmotNXV0OEltSEJNeWFTcE5aTzFpcjJDVG11MUMwaDA3YmF0a1RrTVFtQzZHZw?oc=5
+- **Source:** Cargo Airports & Airline Services
+- **Published:** 2026-10-22T09:38:20+00:00
 
 ## ‘White Lotus’ Breakout Adam DiMarco Attached to Star in ‘Dark Ocean,’ Glassriver’s First Feature (Exclusive) - The Hollywood Reporter
 
@@ -183,123 +303,3 @@ _Last updated: 2026-10-22T09:12:40.319713+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMirgFBVV95cUxQMnUyV2w3T1dXZEw5di1LV0hiNWhkLXNyLWdfczZhWWJ3QzdFMGp5VVlHNHRxTHJEd1hTczdKSTdzSzAtMUZPRkJNMWgzZzZiWmVSTm5jVXFFbF9HOTQ1LVp3Um5hcVg5WXBiQ0dnVmtUcndWWk1NeG5BSjg3VTZ0ek9nZUpwTmQ3SGwzdGI1WGdTa0FFMFBoRWw2TUxoOFFGZE13Z2pkQnpjZzBST0E?oc=5
 - **Source:** Prensario Internacional
 - **Published:** 2026-10-21T13:17:29+00:00
-
-## A major supermarket is closing for six days - and shoppers are being redirected - South Wales Argus
-
-- **URL:** https://news.google.com/rss/articles/CBMilgFBVV95cUxQXy1rTHF5Y0YyTmMxMC1GSWh5NS1ab0VvTExfQzJ0VEJmXzlONEV5RjlZV2JMaHhZVW1qbTdnT1ZWdGlLM2JfMWJDckxNM1FOc1lBV2pzb0FmU3B2UDdZMDNTUHRSWWZIT1cyS0k2TkdWYnBoSzVRUkRQeEtFaUh0NVFhU2wzNW03QWVqcHZ3R3FuTVRpN3c?oc=5
-- **Source:** South Wales Argus
-- **Published:** 2026-10-21T13:00:00+00:00
-
-## Welsh fisherman captures stunning drone footage of a giant Fin whale feeding in the Celtic Sea, video... - Moneycontrol.com
-
-- **URL:** https://news.google.com/rss/articles/CBMi1gJBVV95cUxPa29DT09PQ0xzZFNvU3lVWmtKMXdpTmdaVGRnQzVMdEE4Y3NxdkRaUEVqT1NpSGI5VGExMHU2NldETjRLRmlicTdCMG90ZzdlVEIyYmZjZm1CQ2xyUnlrbTItdzhEVGJydldvblNzMnVjXy1EWEdPQ1ltc2Y5RTNPWnZNMGRvR1c4TnZ1eWk4QnNudXBYVk5HTzk4UXpFUnNpLVY5Q0pSaGhseHZob0o3dFRFUzMtdTF0Zm1sVFotazJIaWNMLVMwUjdrSUE2N3Z2NGxhRjVmLWNmUktscTcyLW5UQWV5QWFPU2hVSndBeFJzUm5jY3BSN01qOVBqczdtWnZ1OFE1TUpsMDVPa3U1LWxPbEdmYlhBUENON1BDNllpcFl0VzJZdG8tclNhdW1HUXFRWGhGazFURFp6RWlXdmtYZ1JQRDhiZzE2SG96em1ZQVFHcFHSAdsCQVVfeXFMTnItb3dZTFpYUmhIM2NQb1ZsQlNLTXZjdmhnZnMwSFpvTlhkVFFidkNmZjBNTi1sVkpBOFNHT3dWS1o3enpIQ2szN1ZGLVRTQzlJRjBoaFQ5VExoUzA4SDJsUk1TOWdneE5vUTk5bE9nbF9aRjRkQnMwbWNSQ1ptTVJDUUZQR09fLVRMOUZCWEdiTGFkSURlVkhjaHdDMzAwb3ZhbFdnMWlJM0VFMnFWbUVvd0EwM0pWVXhxc2FLWmtiems1SU1KRElrZ282V0s3cUE3RDJfVk54RTI0ZmEyQmhEd3Q5Umg0dTdnZU5qRlUzZWlvTFVWUGJ3R01NSzlkaGM4SXNmWTR5RmQ5LXdURXBSMTQxbXZOaEktTnJrZTBkRGtoVDRRUzhHX1laVFFjb0d1SjVNQkdqOW90Vlp4S2ROVGxYUkl2LUlWT1VMMnU3V214WFFaNXljYTQ?oc=5
-- **Source:** Moneycontrol.com
-- **Published:** 2026-10-21T12:58:14+00:00
-
-## Iceland considers purchasing select Poundland stores amid potential breakup of retailer - SSBCrack
-
-- **URL:** https://news.google.com/rss/articles/CBMitAFBVV95cUxPaUgwbGNTWmw3MzAxWi14Q3hUNTRrNm45VUxOZnN2aUtWVWtBZ0dodzQ4Mm5QVjdEbE5JNGRGdGw4X3J6c0I2VFBWWlpkUGMtcjRCd2R4OFdpYjJkNkk0NU01NjhUUjdmNWNZNC1tU0E0ZGtRUVZoSFV1dmE5WUxmajYzSHI3ajM3b0U5bVNUdW0xZUNETm1Ga3ctTjVkNWIyQ2tUdG9YbWM3V0NLMXR3dzJWVDY?oc=5
-- **Source:** SSBCrack
-- **Published:** 2026-10-21T12:12:35+00:00
-
-## Icy conditions across the capital area - Iceland Monitor
-
-- **URL:** https://news.google.com/rss/articles/CBMipgFBVV95cUxNSG5MZDlmN2lteW5iRFZici13WURhZ25HdkxHWVJUbHp2bXAyUW5pMkczQUcxZl93QWZmR1cwcEM5ZzQ1SGpidGNPZ3FyMktKMEJZQXNpMU0yTXZfV0tFMEdxV0l0VDk3VXV5MllzaGhreE02d3ZXZ2NhRVI4Z2pPRE1GMGhyNGNQTFdLRFdjOTVmb19pb1N1NkgzaVQ5cDFvYXZkMFhn?oc=5
-- **Source:** Iceland Monitor
-- **Published:** 2026-10-21T12:11:00+00:00
-
-## Rescue Vessel Tows Disabled Fishing Boat Safely to Dalvík - Iceland Review
-
-- **URL:** https://news.google.com/rss/articles/CBMijgFBVV95cUxOZ1RhMFk4SEhZbVNhV3l4VERUaXpCYkFjX1VzVmpveTNFbi1fcEFCSXZmOEM4ZmthX0ZRcEFzN0FFT2puRHRORGZKeE8zd3AtNS1Fb1ZuQzB5LWk4ZzVpd0FuUWVFWm9nei1iTUYyMHphRzdXNHBsWDdsU0ZIbi1kQmRQM1ZnWHdXMFF6a0tn?oc=5
-- **Source:** Iceland Review
-- **Published:** 2026-10-21T12:00:11+00:00
-
-## Iceland Airwaves 2026: Janus Rasmussen, GRIMA, Upper Mall Rats and more join line-up - The Line of Best Fit
-
-- **URL:** https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcGljRGQyX3V5OVZ1V1I1Q2JEbWI5N2c2S0p0TGluTzRVRjFUZmRvLWwtTEJRYlY4Q2FMSURKcGFqR0JYb1lvd0ZjU0FlNnJtb2JEN2FLWERnQXJlUmR3bDlyUlhRakQ0SFl3dkctZWlyTkFtR0s3QmFjeE1yMG54SVFxRlc5MXF5Wk5ESFFRbWN6SUx0MldoSzFpNFltVmZtNUhtcENpOGRlUkc0cjNxV3J5Rk9vLVR1N0xF?oc=5
-- **Source:** The Line of Best Fit
-- **Published:** 2026-10-21T10:38:52+00:00
-
-## Arctic Therapeutics Raises $21.5M in Funding - FinSMEs
-
-- **URL:** https://news.google.com/rss/articles/CBMihwFBVV95cUxPWE9lZldtZ1pTdzhCYmVnd2NBNHdFdFBISm1hcEJfbVpJM3U5WU9IRVhUV183bFN3YlRXZ0pxM0k4clBhYVMtUWNHdTNxc0JRWlp2aXhnYmZqaUM0LVhWNmlrZGE0Q2otdXhTbEhGT0lTcWVJc3ItbnU5WjRVYnpqay1ub3NqMXc?oc=5
-- **Source:** FinSMEs
-- **Published:** 2026-10-21T10:27:28+00:00
-
-## This National Park Has Waterfalls, Northern Lights Views, and a Place Where You Can Snorkel Between Continents - Travel + Leisure
-
-- **URL:** https://news.google.com/rss/articles/CBMigAFBVV95cUxQQ1ViUjg1Um1HeEFJaWhKT3NsaVUtSUxLQ2lMbkhRTkUwZXZ4aVY2cjhJRzhFeGlJb1F6OXBaVDJ1TG5EZkdTenZtNEdsWEl0VEV2R19uUEl6bDhSTFVvcHJqZVVwT2h3bm5LZTRjR1ZEeVEzeFBkSGhwS3psWmlYNw?oc=5
-- **Source:** Travel + Leisure
-- **Published:** 2026-10-21T10:15:00+00:00
-
-## Construction Begins on Iceland’s First High-Security Prison - Iceland Review
-
-- **URL:** https://news.google.com/rss/articles/CBMimAFBVV95cUxOYzNEdG1DQ0xseFFvQ2lfcldGeEowd0g3RVNHN1ZzZ0djN3VnbGVnVXhMUWZVNnMyVTNjaTB0bm9QYW00ZDZScUJwM20wQTlsN3o5VTlkQ1J2RlRyTkZJR3liaTJuUUFiU3dnaHYzb3RRcUhoRkZ3MnIxZzhWcWFOaTVwZ19Sd2sySWZhclF4ZXFrNHlyNmllUw?oc=5
-- **Source:** Iceland Review
-- **Published:** 2026-10-21T10:00:44+00:00
-
-## Weak mag. 2.2 earthquake - Iceland: 2.3 km E of Hveradalir on Wednesday, Oct 21, 2026, at 09:26 am (Reykjavik time) - Volcano Discovery
-
-- **URL:** https://news.google.com/rss/articles/CBMivgFBVV95cUxQMVBDU0JMUWR6TGl4Y1F3TFdkRnVkbUd2LUQ4MXhybG4ydXI5UmxLQ0dlTlJnN1VlcEEzMGlMeDZYSXM4U2s0N19NcGNOQlBBUlBsWld0eEs5OEg1dWtORnFzZmlVdTQtVmlkcXV1UlRWR0tEbktPcEhfNWxUWmNYRVJfZzI0V3FaTHZZcUtpMkxpOVpMSVZWbFdfNl9kcncwa21pOVZTc2VXc1dDWHJHWWNDNVJubmhnRzFWMjFn?oc=5
-- **Source:** Volcano Discovery
-- **Published:** 2026-10-21T09:58:31+00:00
-
-## Iceland helps older shoppers uncover £17m in unclaimed benefits - The Grocer
-
-- **URL:** https://news.google.com/rss/articles/CBMirwFBVV95cUxPVnZydHVhcW1NM0NyVUN5clIyS2VJZHVZU3ExOUQ1OVBLb2l4SjVjcVBQc2NBVGZ4OGljNmtDcHlPR3k1emF4R05LdkNENE96TGRfR2xac3BQZUZaUlhFY2lEa3htR0JOTmVsRHR5MWtiTGk5S2IzQXJBbHVuQV9mMFc4eWZsNC1VQVVnZGdZYWp4NzZiYUk1clljMWQ4MHJtQkZrS2FKZFo1WmRQVjRF?oc=5
-- **Source:** The Grocer
-- **Published:** 2026-10-21T09:45:09+00:00
-
-## Iceland Jobless Rate Falls to 3-Month Low - TradingView
-
-- **URL:** https://news.google.com/rss/articles/CBMilwFBVV95cUxOQXIteFZZMC1BMWVQOWs0aXA2YzBXOVY2TTlZS3hBakRTakRoNlpzLVVTaWwyMTl2clZfYnVnY3F1dllDN1psTlR1NnhjUXhLdmU4ektCV3FnMGJOV0NiSG85bjhjejhxX29lQXlFNGJVWEhsRFMyUmw3QWx5N201OVNPOHh3UUF3QTdtbnptT0hKWDNlZkk4?oc=5
-- **Source:** TradingView
-- **Published:** 2026-10-21T09:15:49+00:00
-
-## Van hire firm used by Iceland and Waitrose enters administration - Howl.link
-
-- **URL:** https://news.google.com/rss/articles/CBMiO0FVX3lxTFA5cEx0X3FRVDhkS1l3ZEtKTFZFczQ2QkY0bWRnVUx6WWR5dXN4TXVjQTI4cnduS2VCSnlj?oc=5
-- **Source:** Howl.link
-- **Published:** 2026-10-21T08:56:11+00:00
-
-## Iceland's Arctic Therapeutics raises $21.5M to push new pipeline to the clinic - Dealroom
-
-- **URL:** https://news.google.com/rss/articles/CBMisAFBVV95cUxQZk05N2hjMDZyellraVFNOGhfSWRSVjV4VjZpbVRodTEyS3h2MHRqWkRQbXlZdVR4SnlrcGRiVksyNXZmNGF1V3BZNDdwYVdwbFBycDFnTmJwcG94cVFZbVFsZmRubUtRR2RxRTU1ejN0LUFmN1Z6MG4wd3c2bDR3LVpFQk9QTWhuZGVZLTNWSklhckFvVjFudzR2d3d6TUlzczZVaEI0S2pEWjM2ZWoxRw?oc=5
-- **Source:** Dealroom
-- **Published:** 2026-10-21T08:32:50+00:00
-
-## Van hire firm used by Iceland and Waitrose enters administration - News & Star
-
-- **URL:** https://news.google.com/rss/articles/CBMingFBVV95cUxQM3B1ZFZXRUdQam8tYjJRck1kRXU0V0dTM1ZOWjQ2TUVnVUw0TW1jeDN6MFZRV3lVdXNsb2xLa1Jqa20tczhhS2NnczFLTUtJQWliZGNQWWwtd0xVQWpNaGNVRlVYUFB3akhkNGIzblNkYVNTTngyQnRRcURqamk0T1ZUZ1JUNnNab3k5R1dZWDQ4WnB3NU4tWEhjY0VpQQ?oc=5
-- **Source:** News & Star
-- **Published:** 2026-10-21T07:27:24+00:00
-
-## Farming on the edge of the Arctic - Farm Progress
-
-- **URL:** https://news.google.com/rss/articles/CBMifEFVX3lxTE5UVjdyUmktTUg5RmpJZGpxY3pQSDg1V2xVc0RHTGc2R1JQZTFUcTNwLU02NVhxR1FDSnU1SkVlRlZTcUFyeE5VRWlsaEVHaXFCNXlGSEh6Y2pmQkRxbk9pb1BSN2JmckpoUGlQNE90V3J2dS1Wc1NGMmptM3o?oc=5
-- **Source:** Farm Progress
-- **Published:** 2026-10-21T07:03:18+00:00
-
-## New JEF Commander Makes First Official Visit to Iceland - Iceland Review
-
-- **URL:** https://news.google.com/rss/articles/CBMijgFBVV95cUxQdXlnSXhIY0Z1NF9aR1hiemV3OVItZEtXNWlSTi0zNXVubDJpekYwb1pNSUhtMGZTMHBjUFBSYV8yYTEzSzJEQzgzQTNRdGlQdG9IcVlWZVUtX2dFZTV2WDZLalpFeXJ5cy0zY0J4N3ZIbHJkN05ZeExHLWlfU3ZOYVRJb284UTdXX21idTZn?oc=5
-- **Source:** Iceland Review
-- **Published:** 2026-10-21T07:00:00+00:00
-
-## Minor mag. 1.8 earthquake - Iceland: 11.2 km NE of Grímsey on Wednesday, Oct 21, 2026, at 06:42 am (Reykjavik time) - Volcano Discovery
-
-- **URL:** https://news.google.com/rss/articles/CBMif0FVX3lxTFBqVEh2WHRwMktaczJzX3FyRjJWbmJfemh4Q2U5OUtRamNnRld1MDFXYlp6aWxXbUdHSHk2U29zZkZIWld6bUxWdW9LWW1rV2twcWNSM2c2QXgwVHNjM0dlbU95VXktdE5BVy1BQmJJTk9MWkM0Rmt1YUtEc3ZpQnc?oc=5
-- **Source:** Volcano Discovery
-- **Published:** 2026-10-21T06:54:53+00:00
-
-## China, Russia Deepen Arctic Ties as Japan, Iceland Boost Science Cooperation - JAPAN Forward
-
-- **URL:** https://news.google.com/rss/articles/CBMiiAFBVV95cUxQS1Q4c1lHY2VoMUdCZ0gtbzBUeUNqWElaX1lYQnVDV2JiWHJBSjN4NFNmdm5zSGd4Z01CLTRNUDRvbmEwTmVGcUQxZk9pYzVlRnR5anJjMnVXUEdQalhBOE90cTg4eDNIdURkYzhTdVNnNkttNlpySDJ2QjJDQldTUF91R0lnM3J6?oc=5
-- **Source:** JAPAN Forward
-- **Published:** 2026-10-21T05:46:18+00:00
-
-## Weak mag. 2.7 earthquake - Iceland: 11.9 km SW of Eldeyjarboði on Wednesday, Oct 21, 2026, at 04:38 am (Reykjavik time) - Volcano Discovery
-
-- **URL:** https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSm1qMHFKTVBzNGozVGkyaF84OHVYMTFXSUVnRE4wblBfSFFGYUFvVGQwMmIyTVNKVTVQSE94c2NtdUJDMHJYQlJCVmhDWFFkRnZwdE52dkc2ZXUtNUxHZ2ZPZVVRTzVPQlNya0hxZXp2ZnpWaEpETmtMSmZMYU5mU1JlM0Q0ZWppQ0dKS0w3UmJtV25OSFVteGtZcktfSTAzdG9taURJMS1mVGtVOG13SVVTOEtzREo2RS16THdOZF9kUDA?oc=5
-- **Source:** Volcano Discovery
-- **Published:** 2026-10-21T05:07:27+00:00
