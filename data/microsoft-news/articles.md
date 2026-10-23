@@ -1,8 +1,206 @@
 # NewsWatch — Microsoft News
 
-_Last updated: 2026-10-22T22:59:52.397734+00:00 · 50 articles_
+_Last updated: 2026-10-23T09:09:14.717978+00:00 · 50 articles_
 
 ---
+
+## Chinese 'superstar hacker' 5 times named Microsoft's top security researcher joins AI giant Z.ai - VnExpress International
+
+- **URL:** https://news.google.com/rss/articles/CBMi6wFBVV95cUxOa3NlWTlmRkE1aWtDQ2ZxcTZFWHRxWkR1NnNKYVE0NjRzN1UwM051Q0N4eWNHNXNSVGlkNTNVdEozcUpnQjZCR2NjYUFlNXhEMTlRWTlqSlVlWEotLUNxbTlVWmlaS29XMTFaaVNLdW5WeGxMSVdhREhfdW1JQTlON1J4RUpTd05HNThUWFFrR0FSTWdUX2RMNlF5dy0wU2JnTHN0RU1yMXVIOXNyb1k5YXhScnQ4bkZBUnZ2d2RabXk5MmNnQlFZTmpDRDNELVpCSjRoS2ozN0RITkFLeGJaOVZoLTBvX01DeG1r?oc=5
+- **Source:** VnExpress International
+- **Published:** 2026-10-23T08:48:54+00:00
+
+## Microsoft develops AI tool that can diagnose ‘sequentially’ like a doctor - hi99.com
+
+- **URL:** https://news.google.com/rss/articles/CBMiogFBVV95cUxPeEp2X2JpblU0b2RZaXNjQjFGbFRqcmZtX1lKaGJ6ZndMNGo0UkJySWdZbWxCd3FfeDYwdTRGXzdBWFVSYXczZHB0czl2ai1qNjhXRWtublJmT2dialg5M3V1ck4xUW9zWVk5VzI0VW8xQV9vaFk5bGhSWVBIWElzY1VlTjNCLWxIbkt1VXpYMmdtSVhFSGRXUk9sUG9MYmZfalE?oc=5
+- **Source:** hi99.com
+- **Published:** 2026-10-23T08:12:01+00:00
+
+## Microsoft AI tool beat generalist doctors at step-by-step diagnosis - The Next Web
+
+- **URL:** https://news.google.com/rss/articles/CBMifEFVX3lxTE92ekNwYThSXzFDaTJ4aElJeU1YMHNyMmNRSmFuYTJJMGowZXk2aGZncTdGSVBhT3hJYWR4RkJLYS16STNqRzRFU2Y2d0NMVE1Ua3g2c1NhQ1FBajk3a2tUSnVnZHR3X1YwbUJnQWNIdmxTMTB2VlEtbUJncTM?oc=5
+- **Source:** The Next Web
+- **Published:** 2026-10-23T08:08:35+00:00
+
+## AI Agent Risks, Exchange Issues and a Shifting Cyber Market - UC Today
+
+- **URL:** https://news.google.com/rss/articles/CBMihAFBVV95cUxNU1ZZc19ZVmJJeEItcHh3cXRBbjFKNFZWY1RBclVUckhndllQQXVZOEdMR1FCX2dMeE9zY3NmYlh3aXFzTlV1bXNjbEJVWEhZMVlaS2prckVzOUd4dG4xUFJmUHZpb0szbHFVcHdDaE5kbkJSQm1EM181MlBLZTNqVExlLTI?oc=5
+- **Source:** UC Today
+- **Published:** 2026-10-23T08:01:19+00:00
+
+## First National Community Bank Headlines: Microsoft data center project on Huffaker Road is moving forward - The Rome News-Tribune
+
+- **URL:** https://news.google.com/rss/articles/CBMiuwJBVV95cUxQbEQtWTE4UFBLMWQ3NXdzSU1tcncwRmdsRHVtTVBPRXcyZlpVVHVpR0ZhTDhRcjI0eWRKdjhYNzhTeFBNa2pzdXNlR2wxb2k5U2V2WU54UFdMR3Fid2QwbUpXNmQ5WDc0X29kSEY0SnphNVVXVEl0T29MSFJmZWt0dENEaW5wOFItZzFnQkJxdzRTdXZnb1NkNl93LXNTbGxySS1pRE01M2NrTFlaa1FlTU5pcHp4MUswcjZHazRoOFRBeWYyWVQtUjFINnJMRU16N1hldXFMblNHM2o2R01vTkJwUkNUMERZa3RlQVZFWk54MXE3eUJ3RlVyWmVuQkVfVmZxVFZsaS1qdlJwQ2xONV9HNFRmQWJWUWEzd1JPQ1lZOEhoalFESFF1SmJDdmV3R1NtemFuMi1FbDQ?oc=5
+- **Source:** The Rome News-Tribune
+- **Published:** 2026-10-23T08:00:00+00:00
+
+## Microsoft’s MAI-DxO Diagnoses 83% of Complex Cases in Science Study - Technology Org
+
+- **URL:** https://news.google.com/rss/articles/CBMioAFBVV95cUxOYlExVEJBeEdzZlZfc0FzT281X0Q3REtXTTgwTmxFbGRwVS0zQk9BXzdDNDZWSHVQU3U2MnBuTTZRQkI2QkgwR1M4Sk8tLWFkQUNwLUFoajMxT2pBd29ZU25Dc05XQWNWZG9YVzZEQXVNVDlVaEFFRUExSkNZQUhKUXZsYkVLem9nNjB2TW9BdmNyemhsOExFV1NjWm1qZUNw?oc=5
+- **Source:** Technology Org
+- **Published:** 2026-10-23T07:50:00+00:00
+
+## Microsoft is building medical superintelligence, its AI just beat doctors at diagnosis - India Today
+
+- **URL:** https://news.google.com/rss/articles/CBMi5wFBVV95cUxQam9LZmlwbHBnZnRxT1ZfbU5yQm1mMjRCcGhxNUNLRHo1NmRwUG91ZHpKLUt6T3E1T2VWLWluQjVYeHNfWGZpVm5FTzJFcjNael9aMzRpOV9ZT2dQSVNndFBLdmVYN0ZxU25yVG5rSlJTOTdmNHpkbkZtbGxPeTljSzliUHFxd0taSE14b1BGM2xYdmFzdFM2NGdZRGhTYzJBMlZtaEUxY2FIbEJPQTVaSXdVSXNSNDFVYW9NLWwydWpBSnV6YTVGTVZ6QTNoSFA0OFQyMVVyTHpnTzJBTTJhbm9BQm5STlXSAewBQVVfeXFMT0VXQTBQTHRxV2U0RFlYX3BpMjF6Qll5cmVOMnplYXRxc1lwQTEyUHdLTi1Ra2J0SF9ZeVA1Q09NMFFvNFhuRFcxNUlkY3pYSnhPOVhDLWc5VXNPUG1EdlE3WVdQWlA4enJvcWNaTUpRMUhTSFhMdkNkbTF3ODVZZkl3UXNCZDVCNmpLVXZfXzYzTXRQaHZIYVY5X0NGQjFHcmM3Xy1ZWk4tMUp6NE0zdnZqbWVsNWFJMVVBS09vYUdwMnJ6U2VQTHF6SFk1R0lmMzlocjNwMXhucUFDYy1GR2NTOFV5bWRfbTF0N0M?oc=5
+- **Source:** India Today
+- **Published:** 2026-10-23T07:25:15+00:00
+
+## Microsoft pulls eight Copilot actions from Windows 11 File Explorer - Notebookcheck
+
+- **URL:** https://news.google.com/rss/articles/CBMisgFBVV95cUxNcXVueWVQMW5qaUpUR3BCNUp5bkpiMGc0cjFBWGh5eVVnaC1Na2tfS2Q4SkhoQnJwSnVzSk5XTE5VSkxtRzFKVWN0blJGd0FKRElMM1dtMHIzRncxaWNXNm5BWS1PTDd6Tm1FdUtUYnlCMWRBN1V6cVgxME5pZ1lxakNyNWIySUtwemVxNWdxS0pUNE9BcjlTOXFadE9ONjRnRmVzV1c1bEszVWZyUzRXRUVB?oc=5
+- **Source:** Notebookcheck
+- **Published:** 2026-10-23T07:21:00+00:00
+
+## Gears of War: E-Day reportedly cost Microsoft over $500mn to make - Kursiv Media Узбекистан
+
+- **URL:** https://news.google.com/rss/articles/CBMiiwFBVV95cUxPS1dEdmk5QXRzc0pfWC1RR1FrdFRVTnZiV0EyRkFBRDBZTERUaDB3MTV1dHJUa1RFQkJMRTZrZktUVW8xcWlCNGI2NTE1ck1xbjFiWXF3cDFqLVR0aXNRUlBOc1VjR3F2amxMamVaV0ZWX09DclZ6TTVJSmRGX0NZR01lb1dxbUg5Ui1v?oc=5
+- **Source:** Kursiv Media Узбекистан
+- **Published:** 2026-10-23T07:00:24+00:00
+
+## Microsoft Prices Xbox Cloud Gaming Playtime Passes From $3.99 for 10 Hours and Adds a Free Ad-Supported Tier - gHacks
+
+- **URL:** https://news.google.com/rss/articles/CBMi2gFBVV95cUxNYlFCQTAtbDRub0Nqa25KWHZHYlpZRk0tM0duRVM0dWJxU1pneFVic01QX0ZrNVJfaEUyMHpiRml4REhza3lBQlB6eUVlMWRRcGhDa1ZYem9UQzNIUVI2VmpkdDlnVUZlcVBfNTV4TDZVVGxOeHAxQ0hhSEFSQ3h6T0FCT1pERG40MnZXN1Yzc2p5ZnpqMWpxbFhNVU9zZzFfektSZFNDeThlamtMbkRwTFFXVVBSRk50dmxpYUVfOEpDOTBFd1daRFpyUVhYOFZyX3UzQjVIcVZTdw?oc=5
+- **Source:** gHacks
+- **Published:** 2026-10-23T06:14:20+00:00
+
+## Microsoft Reopens the Windows 11 Always On VPN Bug It Wrongly Marked as Fixed in October Updates - gHacks
+
+- **URL:** https://news.google.com/rss/articles/CBMiywFBVV95cUxNb2pOUG41NVlnRE1POTVVYU4tcDNMTWtmS0xKNWdVeXJKRFZVTlZhS0o5QjNRSTBNUTZ2U2E5MEF6a05RM1ZUMERmZzEwZ3BhZnFtaWNoLWJxd3NEdTJLVlBWUUhRMWdQR3J4U2Z5STlpenY1UHRCeWZaWENqSWR1WFcyNmd5a0stS3lqN3VyRUlYUWFxdEN0YnRGU3FDakF6WXU1al8zbUxIQVJFdlJmLWNSOUtMd3czakV3d1pTbS10Z2lyeldDQ3ZDQQ?oc=5
+- **Source:** gHacks
+- **Published:** 2026-10-23T05:58:56+00:00
+
+## Xbox tests cloud gaming without Game Pass at $3.99 for ten hours - MIXED Reality News
+
+- **URL:** https://news.google.com/rss/articles/CBMihgFBVV95cUxNWllydlp6Z0FsaHlqUy10ZmlyN1NObkdSQXpzRkJaV2hnVmZtVFBHcm4wdGNNR2ZzNmM5YjNXWnhrOTByaDZMbS1rc2p4UDY3cEYzOFpKai1YYk5XYncwYnUzdlRJSy1CQllhTGFsLTNIVk96RFB0VVVnNXpsMUlrbUJnS1Jndw?oc=5
+- **Source:** MIXED Reality News
+- **Published:** 2026-10-23T05:28:59+00:00
+
+## Microsoft AI twice as accurate as doctors in 300 cases - Tech in Asia
+
+- **URL:** https://news.google.com/rss/articles/CBMie0FVX3lxTE96MVV2enczOHJ3TFRJT0x0ZlR5amtzN29tYlk5d1RtNHRESkR1YmY4M0ROblAtY2c5MmIzX0xXb0JVUVZqdzdZdzA3dXdERGM2Ulk3Z2dmRzlYcS00SzFndHRuWXZDaUZNNG9IODJsLUJWaURYMlZhcDh3WQ?oc=5
+- **Source:** Tech in Asia
+- **Published:** 2026-10-23T05:05:00+00:00
+
+## Xbox problems hit Microsoft CEO's salary - iXBT.games
+
+- **URL:** https://news.google.com/rss/articles/CBMilwFBVV95cUxPZlVYR0dvUnVRQ1RiTEE2VGxiNXY3WmgzS3g5NG9Tazh1Z3RGa0pZZ2h2SWMxdm5TcHYzNThUYmxSTEdfTFBlTlMxdjBRRElzUzEwVERDSEhfM2xBUnlYaDlMVUVyYi1kc0ZaLXF1VmhhZmJNUUhqYjJQbHQ3ZG5QRFRsTEpvRWFfNTZ0VWd5N2I0WjR2N2JB0gGcAUFVX3lxTE5wcHdBeHVxaWVnQUhQVGJOQTdncEdIODFWSlhZaGd1am9raHhrNWVGQlh6bVBEbHBKcU0wVV92Sk16Q3M5LUs3d3BlaUVLMm1wOWViYVp1UUFTT3ZkNkItbnRNa1poRjJQXzRDRERlOVQzLUdzcVJtbmxSZDUzYndZQVR3SFJzV0psVWNkZnM1R3RaTFd6dWxIc19aOQ?oc=5
+- **Source:** iXBT.games
+- **Published:** 2026-10-23T04:18:06+00:00
+
+## Microsoft: New AI System Diagnoses Better Than Doctors - Nacionale
+
+- **URL:** https://news.google.com/rss/articles/CBMilgFBVV95cUxQQTRsNldaMkZUdTNOaWlJeExFSVBGbk5jbXRjQTFOTnRpMUhoMy1ZcEJEbW0yM3J1U2Fra2Y5QTRlT001MmZ5S0pjQXZXWlRILWdEVlNFeWthcnFVeTlrSzJyZk1oUGg3ODVHOU5VZ0tlTVRSTnJMWnJ5NTJ0YTBreWhpcjVxelpXemVneHRSc1I2eGFnWHc?oc=5
+- **Source:** Nacionale
+- **Published:** 2026-10-23T03:53:17+00:00
+
+## Microsoft develops AI tool that diagnoses patients step by step - Mezha.net
+
+- **URL:** https://news.google.com/rss/articles/CBMihwFBVV95cUxPRHVLYU8wQnl3M0Q0Ul9KbkllaHNsU0ppV2FpQ3FxX256V0dLblQ3QkYzR2VUSzNBZE83S1dYZFh6R3NZaUd3SDdTcmc5cU1MY2p1ZlhNSWhlOEJ5eTNuZzl4SVhjOHNuUkQydHVfOU12d3lKV0hiRGVFTzdTaS1ES2ZoQXNWd1U?oc=5
+- **Source:** Mezha.net
+- **Published:** 2026-10-23T03:46:40+00:00
+
+## Microsoft AI Beats Doctors In Diagnosing Complex Medical Cases: Study - شبكة تواصل الإخبارية
+
+- **URL:** https://news.google.com/rss/articles/CBMiU0FVX3lxTFBxYXZ4b3QzZHRQNHFZZUc4WWZuODhLTlNONXB1djJQZ0w5bjRHRnNYblJQMWZSeE5EQV9XQ2NrUUFVYnk2M1NRUldDRXhsdGN2SkV3?oc=5
+- **Source:** شبكة تواصل الإخبارية
+- **Published:** 2026-10-23T03:10:05+00:00
+
+## Xbox was reportedly valued at up to $150 billion in private equity takeover talks, but Microsoft isn't interested - TweakTown
+
+- **URL:** https://news.google.com/rss/articles/CBMi-gFBVV95cUxQNTRlNUFrX2JLT2FnVkJfSGtMZ2RUbmhORWc4eUJKLWV6OHBYaDlETElOaWlZWjVZTDU3Rm5NVGtwaExGVXctamZMcW5CNjRYdXBZSjZxNGh5OFM5d1luU1c0Q1N3Z2FQS096TGZCdUZYV3JQbXE3ZkNsVFQtZ29iMkVaU0VjR0NaZzRFZURZTEs0TEJGOXdkbmNYS2tLckZXSi16Q0ZGRlMzem1yNEU0eEpDQ2JMS0c5eUR2ZjFhNGc4STVTd1ZBc0RfT1dtUmNkNGkwSXR1WGdaQ0MwTDFDMi1LN1d2QjBsYjYxRm5Db0xKVVQ3UG5FcWFR?oc=5
+- **Source:** TweakTown
+- **Published:** 2026-10-23T03:02:10+00:00
+
+## Microsoft's new AI has just out-diagnosed generalist doctors. Whose job is next? - Human Resources Director
+
+- **URL:** https://news.google.com/rss/articles/CBMiwAFBVV95cUxNLTZZYmNFX09wenBfeGtBbVZCQVhDdmdMTUdubWpNVTVzY19fWnJhaV9sdkhYY3VRdnAyV2EzM2JuZW9EeFNOMGhWcTdkUGdXMFlCcEdQR1dwUDFsOFBEdW5BbERxeVVtS2JXVGpxQmVkUXhXMUV0YUoyNnBNNl9hRmljMFlXWkpGWTlJbWxYNkxSSU1tazlIWC1RdDZUM3RvTVFxN1RZa2tUX3VtUFFxbm0xLTdfM2dMX0ljMkdNVlU?oc=5
+- **Source:** Human Resources Director
+- **Published:** 2026-10-23T02:47:03+00:00
+
+## Microsoft’s AI diagnostic tool outperforms general physicians in complex cases, study finds - Firstpost
+
+- **URL:** https://news.google.com/rss/articles/CBMizwFBVV95cUxOZmtIeTZpLTRBVTkzamh6QjNheG9lcWxrOGtpd256RTVHMm5wdU1vR3VVNWZHVHppUkJ1Vk1rZ3cwWFJtekI4WnFzY0w2NkdWZVcyNC1PYmdva19uc0Z5TWhVTng5YTFnR3lJN0cxT3djOUhxMHluekFZQzFWTExjR0w1UGFydTRpNmJDZ3NCSkRNeW9Ic0dTby1UNnk4U0xSTmZzQVFJcVh4NnhUeWJWRXlTQ1p0b3Jhb0JJR3A1OWpMdkRKYTl6Zm1lZkltWFXSAdQBQVVfeXFMTTFpX05BRFNJYUxhVmhfRXB5bW1HYXk3NE85RGxIV3Z6ZXZrLUZETFEyNlJ6QWFZU280SjJ3WllGNzl0d0d1eWVKWUl0dDVqTlFmYWwxMFZfaW82aEh4WllIZjNUQlRHUDNrcTFUcXdKTm5XZHJ3Wmo3dG5ZUlJNWHNuRjlUd2NHejlnYldFSXFmTmV0dF9BNGo1b0FtdUpMcEY1YlF5bGhFTzlreGxQTGgxVzcxdmpuaEU3cUdMSVdPSlZycGVVOWZlOU9KUUd0bHQyWl8?oc=5
+- **Source:** Firstpost
+- **Published:** 2026-10-23T02:28:50+00:00
+
+## Microsoft has begun rolling out Copilot Code for building apps with natural language - Digital Trends
+
+- **URL:** https://news.google.com/rss/articles/CBMiwwFBVV95cUxOU0JrZFZqUkc5OG1zZTl4dVJtMGxWNUhJazJtZ3FqMTNiWTc5OHR0MlFpYWQ4LVptWXZhSzRUWHZCMzZVYUFHamtxRHpCUzZtZGhpbFlweFgyekFPdEg4ck8tTDlUZ0N0WFhKZGlKblAwOG0yQUhKVkQ2VlFINXgxaHE4eUkzY25tUVVUZEVQSDYtakdWRklYT1cxSGdYOW9tUGQ1RnlidTlzTGxxWTgteVE4akl4azhEQkRZLWROVGllQzQ?oc=5
+- **Source:** Digital Trends
+- **Published:** 2026-10-23T01:39:06+00:00
+
+## Microsoft develops AI tool that can diagnose 'sequentially' like a doctor - marketscreener.com
+
+- **URL:** https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdzZZM0pGS3NPN1B0RTg1Vzc2aTEzVFpJV0ZxcTJMY2YwWDg5eXdkRWZkQURDU1o5dlZQRTA3QUJtSW0tMDRFSE12SlBSZERMb2lPNmowbHoxaXZCRDA0YWR2a1gyWFRTOHRYckpzLUt5Z0JfUnZQemhFZWZudklxNGxhQzlsRklaUlJadVZicExlemVKdnp6WGhCWDNQZVVOY1dJV203Mkk5SHdNN09nOWcyQWEzMDZfcE0tdVJWd3FYUQ?oc=5
+- **Source:** marketscreener.com
+- **Published:** 2026-10-23T01:25:44+00:00
+
+## Buy Halls of Torment - DLC Upgrade Bundle | XBOX - Microsoft
+
+- **URL:** https://news.google.com/rss/articles/CBMiigFBVV95cUxQX0EyNjlvM2lmOFB3UDg4ZXRNZC1tM094OXdycmJuRVdsQ05lb2w3WFJFcEZMdnlUUHBRNUhMV2lBalIybVNyMVF5MHVQQ3ZDYm9ELXY0ZE9GOFJQOFBuZ0djUUVrYk56bHYta0NDcTExM1BsdDl2TXdDakZUd0RwQTJJdkc0MU5zTlE?oc=5
+- **Source:** Microsoft
+- **Published:** 2026-10-23T01:07:19+00:00
+
+## Microsoft's AI Diagnosis System Tops Generalist Doctors in Peer-Reviewed Science Study, at a Fraction of the Cost - BigGo Finance
+
+- **URL:** https://news.google.com/rss/articles/CBMidkFVX3lxTE5CbFpRTENZM3lncHRDZGdReDBQd0xybUI3NzdWNHBQT0tpRmlnNmVFX2lGLWY0Y3NsNUdhbEc3Q3VnQWNpQm9WSGg4SVJkaUU2ZDRhLUJ2UTBZeHNsNGplMUg3SThWQk9pdnZCYkowd3otVllwVFE?oc=5
+- **Source:** BigGo Finance
+- **Published:** 2026-10-23T01:05:00+00:00
+
+## New AI framework bridges a critical gap in mid-range weather forecasts - Microsoft
+
+- **URL:** https://news.google.com/rss/articles/CBMiugFBVV95cUxOVENVYkFuNV9XZWh5dTRjZG5EaXM3WktvMGg5dEItdkNaRjhFUmhvSXhtWVdsWGJ2VXhVbTlha0dsWkRwbGxjWUhoOFdDakR5Z094X0tnVEU0bHNYcVpuRnJxa3phaWZvVDdpZzRORk9vTUt2ZjF2eDdWLWI0b3lqNEZNUHBINXg1WFBPeHMzcTBYbkQ2LWFjZGE1Sk4xRG1zUGJQb1ZUVUhORnpYclJvMlMycjNJTHgwRHc?oc=5
+- **Source:** Microsoft
+- **Published:** 2026-10-23T00:54:04+00:00
+
+## Marble Mayhem: Brick Breaker - Ókeypis að sækja og spila í Windows - Microsoft
+
+- **URL:** https://news.google.com/rss/articles/CBMif0FVX3lxTE5YbFpyVmRDcTgwNTlFZ3hodVNVSjVCSEZiaXhUU1hYTWdZbUpER0dEQ2xydkVldExfbHJLTHB3R1FNUmtMbXoyTTVBTHNDTDJFaUpfLUJaejREbVp0bUh2RXBqa0ZLYy11RXZfQmtudjV1OFFUcEdCeHJxOU44LUk?oc=5
+- **Source:** Microsoft
+- **Published:** 2026-10-23T00:50:34+00:00
+
+## FILE PHOTO: Illustration shows Microsoft logo and keyboard - The Daily News | Texas' Oldest Newspaper
+
+- **URL:** https://news.google.com/rss/articles/CBMi5wFBVV95cUxQNlhQS0FuQmlmcWxDMUt3R01xVTgtWlNhNk5nQUVWZDNIX0w3Q2NwVzQ0MkVielZNbmpsMlhGQVpJUTdpZlhKRzhPVFRHRjlxbEVicTdRWUZjeHVPb0xjYXR4T0hCM1l4ZGxfaG5oNkVfTDR5QnRJUVh4d21OM3luVzBZYWUtclN2b3JCb0l5T0hoX2FKVURDSjRsV0tUTElGb1ZNeF9peFVyTG84ZjlKRXI0eFJHb2hlbE5wekZudlM4QkRXcUMwWGJ2WmVUTmZ5cWpjb3NneVdkdU8zbExOOEpRWmZ2U1U?oc=5
+- **Source:** The Daily News | Texas' Oldest Newspaper
+- **Published:** 2026-10-23T00:50:32+00:00
+
+## Microsoft Announces Per-Hour Cost for Xbox Cloud Gaming Service - Gizmodo
+
+- **URL:** https://news.google.com/rss/articles/CBMimgFBVV95cUxONkV1ZGF0amlGUE05UHVISEppem8zZDZWSVM1M3VabV9yYXpTSlptUVhnS0F5V2xCODk4enEwZ1p6Zl80NVA5VWtONHE4enNDZGpqZjFXeTdueVVjT0R1TDlJODloUVBYRlZOT25UOWhJRkhsdWt0Uzg0dGJoNzR6UXpOTDFIdHdnUjYxUmFDUndwWDRLWWFfNlZ3?oc=5
+- **Source:** Gizmodo
+- **Published:** 2026-10-23T00:46:37+00:00
+
+## Microsoft develops AI tool that can diagnose 'sequentially' like a doctor - Reuters
+
+- **URL:** https://news.google.com/rss/articles/CBMi2AFBVV95cUxPYWJuX2ZuZl9pQm10SHpOeEZTZ0xuWWJEZklvZ0xsMndvNEFEYXlZVUUtQVBGS0hMX1E4UEVncDl4VW1QUUFOdnUtbF91VkdqeDBzOU4yVDctQWFzRE5EczcxaGI2OV8zWlpUUTVodjlCNmtwOUh6TW43eFZ0RFhsazRhWmdVRUtKd1g2ZG5HV2l6X0s4aXBiSmljRVYtNy1hV3lqTHJPbnRlMmpkaERxZHhfaUh5N0NJNVBoUElGQmoxLUxRN3ZaNVVYX2ZvZTY5M1pJazFwaUM?oc=5
+- **Source:** Reuters
+- **Published:** 2026-10-23T00:34:00+00:00
+
+## Fart Together — бесплатно скачайте и играйте в Windows - Microsoft
+
+- **URL:** https://news.google.com/rss/articles/CBMibEFVX3lxTE5NSmJWQlNUZmNYbFY2V09ZVGlDTk1wT3pVZmlLazA0QmxaeHpnNnBCMVBTTG93MXdSYUZlM3lTSDhXVTFOa29BSDlaczdpY1NMendKaWl6X1BLd2Z4akNyRkZHQWtKTGtHenlXZw?oc=5
+- **Source:** Microsoft
+- **Published:** 2026-10-22T23:55:12+00:00
+
+## Volkswagen workers may get Microsoft AI instead of a raise - TheStreet
+
+- **URL:** https://news.google.com/rss/articles/CBMipgFBVV95cUxQUlNiTzJFcVYyS3Rtd3hyQzRyeU1TN1VjS2VEczJjU2I3c255V1FmbUZwdS1XTHVXV2tVbHZaTjFQQTNwaVl0MkVzUWJHSUxfdFdiOWxDenR1UlkweGdvWXNGc0VwSy1QMVB4TVhuc3h0SzdLMHc5NGFwcXh0RkpwUDduNHQ4RGhwLU0zaWgtRzlUMXdid2s3MHZzb0M5UTEzUVlJT2RB?oc=5
+- **Source:** TheStreet
+- **Published:** 2026-10-22T23:33:00+00:00
+
+## Microsoft links agentic AI to ConnectWise supply chain breach - SC Media
+
+- **URL:** https://news.google.com/rss/articles/CBMilgFBVV95cUxQTTBnQTkxazg2cU1VOTd2M2pkVk9wRnFBSzZybzk1bVh3WTBDa0JiRlhRQU9ZMjQ5QlpYd3BQa0JMcnJLZXZVR2FfdlBxUHVMdm5xZC1xSGw1MnlKb2dtVGxsS0tLVjdKYWVvaGxXU0lfdXYzYTdqbkxmcDJpVTZORnRfUUVVWkhjS1dtWjF1RjJzSjRhM0E?oc=5
+- **Source:** SC Media
+- **Published:** 2026-10-22T23:23:08+00:00
+
+## Microsoft expands sovereign cloud options for European customers - SC Media
+
+- **URL:** https://news.google.com/rss/articles/CBMimgFBVV95cUxQRFVMNWJJd2tlS095aHlsVUFOT01odGQwNE5KcU1iM05rRnpMSmhCbEplLUhsNFRpZGVITFl4SndMOC1ZdG12Wko1V1FyR1RkS2swQXhMQVJtbzBrZXJNYlRIbnlBOW9aakNTTDNVb2RiR1VKbFdEaVdLd1ZMcHF0bzVEOUFYaEl1UGpFMEhRSTYtNjRvYU9NNGR3?oc=5
+- **Source:** SC Media
+- **Published:** 2026-10-22T23:13:16+00:00
 
 ## Volkswagen expands with Microsoft Copilot as salary freeze for 660,000 workers reportedly looms - The American Bazaar
 
@@ -105,201 +303,3 @@ _Last updated: 2026-10-22T22:59:52.397734+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMitgFBVV95cUxNWmdHa3VpRFY5cWtSUW5qOVVDUEJhTE1Nb1h2aVBvUjVBampQZzNCX09wSDZoRFd3MFpBMjRnejZMMzhhN1JDZm1iSWJ2eFVKWU5pVklIc1R2ZEFvRFVMb0kzYXltdUdZclotb1prRGRVbVYwb0pWX2tYaEEwbkltbUw4WGFmSWF5UEFyd2E0Wl9pZTlBTGJ3UTVXa1d0WjItUDFWa29pemNWVnk4VTJRUHN1SVFaQQ?oc=5
 - **Source:** Rice University
 - **Published:** 2026-10-22T20:00:57+00:00
-
-## Own Microsoft Office 2024 Pro Plus for Only $50 and No Subscription - PCMag
-
-- **URL:** https://news.google.com/rss/articles/CBMimgFBVV95cUxNQU9JbWI2eG5CNXk4SEdLQXBLU09EYU5JUlVQUm02Qk5UdmxQVk9RNGpId29KR3Etazlsc2FRY1dPNl9qREJPSGdQczQ4c2trTDNWTEd3d2JYUjNDX3B0bzBzaU9uazR4dHhjZFhlanFDalNaV0JHVzNod1ZEVTFDLW12V2tubFBRQjhIaUg2ZE9lMDBzT2w5SG9n?oc=5
-- **Source:** PCMag
-- **Published:** 2026-10-22T20:00:18+00:00
-
-## Microsoft Warns AI Agents Can't Be Trusted, But Continues Adoption - TechPowerUp
-
-- **URL:** https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUXBKZFB3TXUxWF9tMGNaRVUzdnl4TEdtSEZrbWFOeEhxUjJwa3NfSl9xOVFRU011Nk9RTjB3T0lzakFVYXBrOFdPY3pBLUprSEdjQkFNQmpFWXBrZTlFWkk2b2tZa3Q1OTg2WklNLW9YalduXzhWS085dUFxcmJYbVdOMDRoQngwS1llUG5YNENVTFZfa1BSSENHUllWNEpqT1dXc1VDRm1OZzTSAaYBQVVfeXFMTVFpcWpsR1htQm5BckNFRjI0bkVwazRScFI2dmsyUV96REJqcHRnaFl6cmc3d3ljWEh0amdFM1hUVXJmUnRlTGY0RXRZbGRpd1VOT25ocmZpNEtubldBSmxuSk1DLU1faWI2R1o0UUJqRlFUaFd2MlFncUExalNTLXVqV09ZT2w4N2VJRFhaQ2w5OVpKUWc3ZERubU5HZTg5RGw3ZFpRQQ?oc=5
-- **Source:** TechPowerUp
-- **Published:** 2026-10-22T19:57:52+00:00
-
-## The Biggest Barriers to AI Transformation Are Inside the Business - Newsweek
-
-- **URL:** https://news.google.com/rss/articles/CBMipAFBVV95cUxPd01BdmVWOWhMVGFGV0VXcHNlTF9YV3FYd1pSODh5dE50NjBrSEJZb09fakNoN0xfZ05lQ3liS0NCX2tWcG0tTVBkVk9UMnY3VkEyOU9aNU1tSkZ5UkdpX0VmN19oamdoY1o4d2xvVXhwSHlkNEQ2eGx6RHVlNDc2NWxRd3dfbS1tbmp1cW5Dd0VBOENCemExQ3RWdnMzMkRDN2tSeA?oc=5
-- **Source:** Newsweek
-- **Published:** 2026-10-22T19:44:00+00:00
-
-## Boehringer Ingelheim, Microsoft eye digital patient twins to rethink drug trials - FirstWord Pharma
-
-- **URL:** https://news.google.com/rss/articles/CBMiU0FVX3lxTE0yYWpBa3MtQ1JBbnhEelZ0ZFBERlpaUGtzY1h2S21JMktETzlMcGxFVnRXOHhaWVcySmpMWnhPRGtubXVBdVplZ051SVY0bHkwUUJV?oc=5
-- **Source:** FirstWord Pharma
-- **Published:** 2026-10-22T19:21:46+00:00
-
-## Microsoft helped shut down an “App Store” for criminals linked to over a billion malicious messages - TechRadar
-
-- **URL:** https://news.google.com/rss/articles/CBMixgFBVV95cUxPLWlyOGtjZkFjS2JpbTRsYjNYRGtFYUs3S3N3QWQtbno2RDlOakQ1NlNsWWxuZW9rWk95WTRIZ2xTNlYyTUNYdkJxZGxkSlVCWmIzejdyWG90bzlEa01pemJRbHUxMXpvVnZORkZCQllYX1FyZW00akVmQTFYVE9pa1lnWEhwX0d1eW9CS0FabEtTTWhPa3pUeTNDZFJBWXdFeG9CT3NBVWY5RlZMTlJjSjNPY1JoZ21wYTM4N0hwd1VsMXgzcVE?oc=5
-- **Source:** TechRadar
-- **Published:** 2026-10-22T19:20:00+00:00
-
-## Microsoft is quietly testing another Recall for Windows 11, but this one doesn’t record your screen - Windows Latest
-
-- **URL:** https://news.google.com/rss/articles/CBMi1gFBVV95cUxQRFBFMllUOVRxMGJKZ3FVZG84VXFUQW1IbEFFZ1BJSG1tSG1UWmtSZXg2bGdfZkxPQTdvU0p1S3lxYlN4aUhhQnJSRDRsNmRDY0l3U29aWHNQenVRZmk3UFY5MGVxVWo4b2NGbXUxMEhaRGFGalFmNGlxbGl6VHlIN2hadnpORTBnaE1qVG9Od0t2dWhDemE0b2oyNkd4WjRFX3dFSDl1Sk5YWDRTWmY0eHpmTWJGMm9ZQzMzMUdyV0RFalUxMmxtMy12UHdWUDlmVUtzRVZB?oc=5
-- **Source:** Windows Latest
-- **Published:** 2026-10-22T19:17:39+00:00
-
-## Microsoft system diagnosed 83% of complex cases in simulation — TechCrunch - UA.NEWS
-
-- **URL:** https://news.google.com/rss/articles/CBMisAFBVV95cUxOclpJeHJrMzdXdzR5YnVvZ0V6TGtIM0hkWHF4QU0zU3pUOGtYRnF3NVByNjItOUVzc3RHekFKcXg1OVp6eGxyQVd0WnQ1d0lvWVZTMl9Bc01UUTJKTmhib0EzTGRoZzZ0MmQ2TTdGM1M4QmNHZUktM2lLdGp6NWp4Q05kVU1qOFRGNW1Fb1FYSkQzeGltVmdZcXl3ZEg4dHNUZTNsMjZlUVliUG1DbVFvcA?oc=5
-- **Source:** UA.NEWS
-- **Published:** 2026-10-22T19:17:23+00:00
-
-## Microsoft Diagnostic AI Outperforms Generalist Physicians in Science Study - Unite.AI
-
-- **URL:** https://news.google.com/rss/articles/CBMinAFBVV95cUxNZzh6dDNEOGYtQTNPSFQzTTNrUy1vUExJREZ4MUxhd1JqUkpNR214bU00cTdWdkNfMExENThaUTJMTWFaVmtSMEJnUElXVDVHbGtCTmY4WFoyQVZFSnhlLW9OZUZfNXY4Y3pFZW9LQktiOURFUHZrbVZIcHB6OFU4d0x1RkNzb1NNWl9KbVdTSlpoOEdGc0NBdXFnd20?oc=5
-- **Source:** Unite.AI
-- **Published:** 2026-10-22T19:13:11+00:00
-
-## ‘A pattern in this state of intimidation’: Let’s Go Washington founder urges Microsoft to join income tax fight - MyNorthwest.com
-
-- **URL:** https://news.google.com/rss/articles/CBMiekFVX3lxTE5jV1Exa2MyX05FTVdkVXpnOWFKRmhSY2I2a3d6a1NFcGVCTDJWcG91SmM5b2ZXelZRblo2TURnanEtMEFNTFZNd3V3VzBQNzhBWW5sbEZPSC1selFrUjNDVW9FR3Q5R3AwSFFpWElYalk0dEdsMzlPYUFB?oc=5
-- **Source:** MyNorthwest.com
-- **Published:** 2026-10-22T19:05:51+00:00
-
-## Microsoft fires 58-year-old exec weeks after his age bias complaint, suit alleges - www.hcamag.com
-
-- **URL:** https://news.google.com/rss/articles/CBMi2wFBVV95cUxPTGFoWWdpb01OQVFOaXBfMTMzaTdXUTNZRzVZeDlKS1pDS0kybE9FbU14THRXU0VuVm5odVpiUDNxdm42b25OMVJ4TE1KY0oxM05CdDdoNG1QUzV5aUFUZzlabFAxc2dJUGdzQ1lTWHUyTjhRTElnNFpNd3JYcGw5NVloQWtKSklVZW5LTXNJdWc2S0lTQTAxNDc0V25qQjMtNjRMeExuNmdyQVlyX2JNVklxNUtGYllqUUc1ei0zUHBhSkRkb3MzUG5fNW4yNlNMRFpUWjFYM2R1Mzg?oc=5
-- **Source:** www.hcamag.com
-- **Published:** 2026-10-22T18:57:27+00:00
-
-## Nvidia RTX graphics card updates officially eliminate PC gaming stutter as Microsoft cloud shader delivery rolls out - cristinaiglesias.com
-
-- **URL:** https://news.google.com/rss/articles/CBMi6gFBVV95cUxNRG15Z1ZqV3JOdUxWc2JjendFbzBCd1MzZVFZQXdLbFpSNzRhQVFuRGxmZTVRLUdybHYtUFhYS3ZQZTlFdV80MGdrN29qUV9KcHU1S1RuUEVXM05mUVhaZ2t6REthV2pNYUhJT2tNWjNfVTFHdTV4R0tWNnZFaURJSmY4bmp0OWEzN0lzdVRyOFhVRE8zSWQ0M2hqa18zM0tRLUdjYjg0cl9lY0hPNklfRWxWbTZhOENFQTlobXJpcTRJNUprbXdma2czSEs0eFMzcTdSdkhoeC05dllKSUNuV2F5M3dzdldKeWc?oc=5
-- **Source:** cristinaiglesias.com
-- **Published:** 2026-10-22T18:57:07+00:00
-
-## Microsoft’s Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases ‘medical superintelligence’ - TechCrunch
-
-- **URL:** https://news.google.com/rss/articles/CBMi4AFBVV95cUxQRVdXNUh5Ylc4REo4QVJUQk42eV9PS3B3UDlEdVhsREdRaG1HazZBOHVyZnFJYmhGc3hpcVM5VjRnYW02RlF6d1h3TDhDb1NqcWVyUHdDd0pQVk9GQUdnR1duUi1abGY0Y1EwTWNOaU9JbVZTMGJMVHFGSFV2Wkx6TWdZNDdmS3dnZzNWUEdZaV9KaWxNaDVoZ202ZTloaXE5bi1sam1VOXZuNkRoRHBWNFF0RVVLZTdETW5ZZXpoZGJhYXNWNkRBWEFpYlFyc2dJZmFKakp3Zkp5d29nOERSWQ?oc=5
-- **Source:** TechCrunch
-- **Published:** 2026-10-22T18:43:53+00:00
-
-## Microsoft says its AI tool is better than doctors at diagnosing conditions - The Verge
-
-- **URL:** https://news.google.com/rss/articles/CBMi0gFBVV95cUxOamtUNVg3S1hZVlF1RGZ4akg3NThwTERFbWpQaUcyMmQ1LVdXM21CYU1mbUhEd28tS2ZicXp1TTBwUlB5Q0xtZllvdkl3WW5sdFZrUXdYRHV4Sk10X3pMWXpBYWhsT1ljQ3BRLUZ3ZXpXeElFX2VqWXRjcm9NYV9vU3hTb1NZM0tCNTJLNnBNaW5XVTJTd2ZyNkxpYlQ4aFpUZDc3MXBmUzZySkdRa0drQnZVdDBqcmc0aUl4QnpaUkRGYUE0UnQzMHdZMVpGRmRuWmc?oc=5
-- **Source:** The Verge
-- **Published:** 2026-10-22T18:00:00+00:00
-
-## Excel is faster and easier when you combine it with these 5 free add-ins - How-To Geek
-
-- **URL:** https://news.google.com/rss/articles/CBMiigFBVV95cUxOZ1Q2TXllUmhiTHkyNnFWUnNqdDdWVXZMLTVLdnJiN2tSX2RaNjd4WnhUMldQeG96d25NdVRMUFkwU2dNQW9iMlItVXl4Z21JTzNJWFFrbmw3ZGxaYV9iZGwya1FkcWl1emVfQnRtY1lGd3ZqTDlVUWMzWDdJMDZoV1JTTDU1dnlFZ1E?oc=5
-- **Source:** How-To Geek
-- **Published:** 2026-10-22T17:30:17+00:00
-
-## Keep your projects organized with Microsoft Project 2024 for $39.97 - Mashable
-
-- **URL:** https://news.google.com/rss/articles/CBMingFBVV95cUxQVU9LUy1iZUlPek9OaGhYVGJENmJ2S011c1g4RHNDUi1KTXhVQndYVUFIZHM0Qk9FZFU2Vk96ei00NnVXVlFfY204N3lJLWNCT25SWk5NcGJ6d0JiRVdzSDcxZUhJTWtsNUZ6NWNRelVKVlJTcDBEWkFlVmg2MDBRSFdiazRuV1l1bHoxUGhLWGRlMHJPVzBXdmVxc1hRUQ?oc=5
-- **Source:** Mashable
-- **Published:** 2026-10-22T17:13:17+00:00
-
-## Microsoft, Opella partner on agentic AI content verification platform - Fierce Healthcare
-
-- **URL:** https://news.google.com/rss/articles/CBMivwFBVV95cUxQMGdDQ3RuaUotV1JMZXk4YWt5bUp6RnprRVZCUXplWUhoMFluTjJGOHlQVHcwVFpHNTQzVzRuSnpTalFrTFRLVUcxTGdVVWdkdnFNUGE3SWxadTYzR084bkFTY09qdlIzRVVqekhKQTJDbFdfRGpsU3RHRDFKSHRjQkp6di1oeFN5LTczcjJzU3VqMFA2bXFmeEs4TUM0ZHk5Y1JSVDJJWS1TaG5DbEhMTVpyOWFrb3Bpc0hlRUc5QQ?oc=5
-- **Source:** Fierce Healthcare
-- **Published:** 2026-10-22T17:00:00+00:00
-
-## Microsoft Warns AI Agents Can't Be Trusted, But Continues Adoption - TechPowerUp
-
-- **URL:** https://news.google.com/rss/articles/CBMipgFBVV95cUxNUWlxamxHWG1CbkFyQ0VGMjRuRXBrNFJwUjZ2azJRX3pEQmpwdGdoWXpyZzd3eWNYSHRqZ0UzWFRVcmZSdGVMZjRFdFlsZGl3VU5PbmhyZmk0S25uV0FKbG5KTUMtTV9pYjZHWjRRQmpGUVRoV3YyUWdxQTFqU1MtdWpXT1lPbDg3ZUlEWFpDbDk5WkpRZzdkRG5tTkdlODlEbDdkWlFB0gGmAUFVX3lxTE1RaXFqbEdYbUJuQXJDRUYyNG5FcGs0UnBSNnZrMlFfekRCanB0Z2hZenJnN3d5Y1hIdGpnRTNYVFVyZlJ0ZUxmNEV0WWxkaXdVTk9uaHJmaTRLbm5XQUpsbkpNQy1NX2liNkdaNFFCakZRVGhXdjJRZ3FBMWpTUy11aldPWU9sODdlSURYWkNsOTlaSlFnN2REbm1OR2U4OURsN2RaUUE?oc=5
-- **Source:** TechPowerUp
-- **Published:** 2026-10-22T16:54:53+00:00
-
-## Microsoft Adds Sovereign Cloud Controls for European Customers - Channel Insider
-
-- **URL:** https://news.google.com/rss/articles/CBMiwAFBVV95cUxPS09VMHIzQm10U05ReDR3QWNBaGZ2dmxVaGdtWWtaOXhnd3I3UVJWT2F1V2tleFZsYXJ2bUFFNUd5MGNzTFV3Y2JEZVF6bHhCc1BaNElrSEd1clMxZy13ckkwNnFwWFBBQ0Z4aThxcWtFMFBCNWxscXF0UjI2YmV5SmJMRU1VYWFXWEMzWlc1d1R6YnJXLTRZaXZqaExVZm5VSXZmTnVwbmhTbkl1MjZXRHZ2MFd3ZHVjX1Brb1ZHdHI?oc=5
-- **Source:** Channel Insider
-- **Published:** 2026-10-22T16:52:06+00:00
-
-## Microsoft Contact Center Intelligence Takes Aim at CCaaS AI - The Futurum Group
-
-- **URL:** https://news.google.com/rss/articles/CBMimgFBVV95cUxPQ25idEktN3lrcjdIejRRYTFxMzI0NFJfTmgtNUhLemVWdFNFMmprejF0OFJKV1JsdzFqSldNMENwZUtVWF8wLWlXV2RTUWpLcEFSU0JWT2JZZDd4STM3c1JJbHdEZmFuS0RSWjFxWUwtRzItVWR6RGkySmt4MG5BV19pMlh0NWtadXBJQk52RWlEZWM4RTFzUlpB?oc=5
-- **Source:** The Futurum Group
-- **Published:** 2026-10-22T16:51:16+00:00
-
-## Microsoft blames ConnectWise attacks on Chinese state hacker using ARTEX AI agents - The Record from Recorded Future News
-
-- **URL:** https://news.google.com/rss/articles/CBMiX0FVX3lxTE41WnRtMnEwcWcxR1JMWkllMW54U0RKZXVWd2wxVVl3SWlNbktlWkV3Uk1ETlEyWUY2NG5jN2FtZ3BTZklTOWNSVlB0ZmMyZkFQVlAtbXR5TnNCNklxcHQ4?oc=5
-- **Source:** The Record from Recorded Future News
-- **Published:** 2026-10-22T16:48:15+00:00
-
-## Chinese hackers spied on thousands of companies after breaching IT giant ConnectWise - TechCrunch
-
-- **URL:** https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbEhXMGVnYldDOTRDM0FqaGRFT0pYelRtR3QzbFBaQzNNMnJUdW5mVzU2YTcyY0NiWHJSc25zSEVtOGFBMEtZYWo3OGdjTXg1Q2J1X1lPLTZQb2JxY3lHemJ0WVU1dE5JdzUyV293ekc0YnZ6WVpfWUREVnRCX0Q3NksyMlJiMUxHZ3ZnNng5WG5DUTRGdnlMbzJmZTByVzJPOGF2QldzQUtIWDhzWmk0VVVnZUFtRm9yMTVR?oc=5
-- **Source:** TechCrunch
-- **Published:** 2026-10-22T16:47:17+00:00
-
-## Microsoft Closes 'The Garage', Its Space for Experimental Projects - Nacionale
-
-- **URL:** https://news.google.com/rss/articles/CBMikAFBVV95cUxNWkg0Yk50aHRyVWpnR095akRsdUplUFI5SmItcWstOHJIMEpqNjRSNUZWMGt5MjNiZkIteXBkNUdJbUdCRUZNajZoSGdneVJCYllON1ZkdGdsZjVFeEhXZVlPYkJOeXI2RC1mdk1ZdURqSm5UU0k0MldsbXYwVzlYTFlTSUVHTElueVlGWGZxWUU?oc=5
-- **Source:** Nacionale
-- **Published:** 2026-10-22T16:39:42+00:00
-
-## Microsoft files for data center campus in Floyd County, Georgia - Data Center Dynamics
-
-- **URL:** https://news.google.com/rss/articles/CBMiqgFBVV95cUxObEYzNEZCc0tfX3hPNFlfaF9STnNBNTdlYzN6TDdZN3RRWmNKdDdxOVg5djNlcDh1aFNRcDE3NE9kSlhGTzc2eGNnNDBSM1ZwME5tZEY0U3VQMDEwZkx1bEFRUTVjdWRhUWNrTEZnQXY4SW5zUkFDQzJaaHZoZlZKX2p4d09hbFUwSTJHZEdHUjgxUGU0aFUxT05WckhrRTR1b1l2Mi1GX2NEdw?oc=5
-- **Source:** Data Center Dynamics
-- **Published:** 2026-10-22T16:35:12+00:00
-
-## Microsoft Encourages Players to Sell Unused XBOX Series X|S Consoles for Up to $375 Amid Worsening Hardware Shortage - LevelUp
-
-- **URL:** https://news.google.com/rss/articles/CBMi4AFBVV95cUxPcU0xNnV0bWZkc1lPU0ZEa0FEcklGN3ZsV3VkQnM2eExIczZzMm5hakxZREpWNE13VFhud0VnZWNmNy1GYWtCTlA2TUNrLVR6d3d0UnROeGZ5Q05Eb2NOelhDZ0VweV9uTXQwUkxtYzFxckMyQlNnZjhtak5TNHAwQUFmLXM1eVRRUmgzVVAxQXlkR2laVEk2bkhuYjlYYXpjZGhTTENNeXoxWXktRzg3Vk9vMC1uNVZ3dExyQ1Z5eXRPNXpKaGdJLTh1TWdQNTdWTmU1ZTFaRWR0UVRUOVN6TQ?oc=5
-- **Source:** LevelUp
-- **Published:** 2026-10-22T16:27:35+00:00
-
-## Hackers Used AI to Speed Up ConnectWise Cloud Backup Attack - Redmondmag.com
-
-- **URL:** https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTnFyNDVqTG91WGVKYkh0cW5obDlqQTFOc2xLY3BiNTUwOXlIX0piQ0t3OThoSGdObU5nMjNJN1pHVnNmY09WM2FEWDFnYmlsbktNLU43ZVJoR0N3dThlWEdtMjIyV21UTDdEWWpRZGxNS0xwRjNmd0FzQnoxekFzb0tFOEdnaDRSUGMtamR2VE5GUkxNQ3JhYUtGaV9DX01iaHhBRUJ2N1N0X0U?oc=5
-- **Source:** Redmondmag.com
-- **Published:** 2026-10-22T16:25:58+00:00
-
-## China-nexus actor linked to attack on ConnectWise Cloud Backup - Cybersecurity Dive
-
-- **URL:** https://news.google.com/rss/articles/CBMinAFBVV95cUxQWk1UeURGYmZqNk91NlBsWkVxMXFHUGRhNngyVksyUXlzR08ycVBTTzZ5SjZWLTBnU01NX0RvTzAtSllFdjdKdGdZRVVnVHlVS1dZeHBaTFhvNWs2M1Z0dTc1UmJVSWVuSlNUN3I5TUprMmJrLW83S0lnVnA3czhpN09TMi16NDdsRlk4RnM2Y09Pazd0VXZmZE5NTEk?oc=5
-- **Source:** Cybersecurity Dive
-- **Published:** 2026-10-22T16:13:20+00:00
-
-## Fake calendar invites target Microsoft login credentials - TechInformed
-
-- **URL:** https://news.google.com/rss/articles/CBMiigFBVV95cUxNVVd0NXdWSFpxUEFicVBCRmFQdkliMXRiRlFZSnFZZVFiTkZtVzhlbTRxRzJDaE1ONVpENlp2TkQ3bWVhTnU0OERqaFRjSGQyRXNodERyU2dUWmQ5WnkxUjhndFBZSU1nYTE0aW9lSzM1c3k4V2kydVd5OHVTdVRsMDZ5T3dOUnI0QXc?oc=5
-- **Source:** TechInformed
-- **Published:** 2026-10-22T16:08:25+00:00
-
-## Mitchell Windows users: Get Microsoft Office 2021 for a one-time $27.97 - Mitchell Now
-
-- **URL:** https://news.google.com/rss/articles/CBMiqgFBVV95cUxPaEYwZURFVkZCYVZ5TVBKRTBnd0NVOUo3c1RpZS1qZ1BnZ2dBSW52b0x3Z2kwai13TkdOSGJPWWZndG9KN1pDV1hVY1JCVHlCZ3IxbmlFdVctTGhwR0xHRzdDXzNEeDdJY3ZXSkk1el9OVldxelVURUEyTEhGanF5OERxN1pJNWRQdUNGODRPR2laU01xNmVEQkNHZzVTMnBmV2JMNTZLMTY1QQ?oc=5
-- **Source:** Mitchell Now
-- **Published:** 2026-10-22T16:05:37+00:00
-
-## Microsoft Announces Major Upgrade to OneDrive - Thurrott.com
-
-- **URL:** https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWE9qVEppM1dQWUlZcEZxc3k4Z2tNN2VvTjBWc2NaSVl4M05MZV93bEFWcUFmUXd6RTJYdFI0Z2FQUllWZUZQUnVtTWJKeDRTaEMwNmQyWVQxNVRaZGViZTlUellTRnlZQjZHa0RhTGFfbEdIRGthMENnMUVXcVR0MGF5eHJuS1Rt?oc=5
-- **Source:** Thurrott.com
-- **Published:** 2026-10-22T16:04:36+00:00
-
-## Hopkinsville Windows users: Get Microsoft Office 2021 for $27.97 - Christian County Now
-
-- **URL:** https://news.google.com/rss/articles/CBMiqgFBVV95cUxQU2tJYVd4WThJdW53ak5BZDluazdrMlVISm9uenRORTBMLVNKdFlCUHI1QVI2SnhiSWcxalBGc2hHTHp2Wl9iVVJyZEtfZlRSeFctaUVSUkZHQ1BPMTNXT1A4MXVmNzN3MDBXT1RFWTd2V2d4OFRIOFNMY3BpclUtbkdNR3F1Y25VZGRlV2NzOVdFWENTSk9nS0J4dklUT0xNWkd3M0hMa2tFdw?oc=5
-- **Source:** Christian County Now
-- **Published:** 2026-10-22T16:04:20+00:00
-
-## Every Windows PC still ships with a network feature Microsoft has been trying to retire for years - MakeUseOf
-
-- **URL:** https://news.google.com/rss/articles/CBMinwFBVV95cUxOS0g4cjVQaktuTkRWbXdNeXJETWl3Yi1PTXFJbGkzSDVXY3FWdzN4NVVzSFpIZEw4Q2plNkdEX3FoT3p5WlZNOFFKdi1fZENkMW12WThEVzUtU0VfazVON3BuRUJTWWs1a0FkanAzVUxqR0VuMGZrV09QLXktakMzT19OV3NGd3RpckpSMzdzUGZkUy1iRDhreHV1V2RaRHc?oc=5
-- **Source:** MakeUseOf
-- **Published:** 2026-10-22T16:00:20+00:00
-
-## Flint-interactive: A language for creating interactive data visualizations - Microsoft
-
-- **URL:** https://news.google.com/rss/articles/CBMivAFBVV95cUxOMjN2WUluMG1NOGFDZExXR2Vkc185NnBkR053SjU4RVlJZ2l6eDg0QUIxU2xVT0MzeUZfaXh0RnZlbHVKVE9rRkhWdmIzdk9leVY2RGRnX0dvOGJoRFpNZVhXdEk2RDJWNUh5WGw4MUt1VVhldG8zSmlpWkpQbkpVNVJVMWsweS1faTIwa3YzeGdWdW5Hc1llZ2Y4YnV1SmpXRHg4R080aGhYcTdVc3ZFQUZUNmN2TmFrQjd2Xw?oc=5
-- **Source:** Microsoft
-- **Published:** 2026-10-22T16:00:00+00:00
-
-## Flash Sale: Get Microsoft Office Professional 2021 for Under $28 - Clarksville Now
-
-- **URL:** https://news.google.com/rss/articles/CBMinAFBVV95cUxOdzBVSGRBOGFEc1l4QmxDUVUwV2s4OEE3dEFlRENWRF9iMHI3SnBBcDJyWENFMFpjUlRnd2hzVXZIZnp6ZklfZXpjbkJVbE1BS2prU3BDeVJseERSVXJRMUE0SzZKd1Bqcm9ScXlLX0JmMHhZOVctM2FJSk52Q0NJdDRjMDJRNFBtN2dpOTZyMXVObk1rTEhHM01ucXE?oc=5
-- **Source:** Clarksville Now
-- **Published:** 2026-10-22T16:00:00+00:00

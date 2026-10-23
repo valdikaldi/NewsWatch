@@ -1,8 +1,86 @@
 # NewsWatch — fusion energy News
 
-_Last updated: 2026-10-22T22:59:53.524100+00:00 · 50 articles_
+_Last updated: 2026-10-23T09:09:15.725084+00:00 · 50 articles_
 
 ---
+
+## U.S. Commits $389 Million to Power Chips, Key Materials - Seoul Economic Daily
+
+- **URL:** https://news.google.com/rss/articles/CBMioAFBVV95cUxOSFBmaXJpQUQtSTlsOUFDMDJNU1FkZXZTY3N0U0xrTXBrc2hFX0dXdHJsaWRuUjFrOXQ5LW1YTWpZOVZzWERlZHo5c2NMYkl3aUtOa0RUUk15MDRReDV5U2hxRDB1d0lwM2lNVkJuNl9wZ2pkR2JMZ3pFMkFtQ2ZwV0JIRWh5NGo0ZDcxUHJXVjVFQmE1MjRUMnJZOUJUMXZ6?oc=5
+- **Source:** Seoul Economic Daily
+- **Published:** 2026-10-23T08:02:39+00:00
+
+## A San Francisco Startup Says It Made Gold From Mercury. Here's What It Did - NDTV Profit
+
+- **URL:** https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTlpoZkRZemVRZm1YVW5NX09QUkt3R0JVX1UzYUladFk2VnhvMmpURF9sekFORU01N3VGUl8zd19tdUp2V1RfdVJKNHI3elZjeTE2a2wzNDRjYktCeGpxY29pZGwyN0h4WjdtWFZ5QThGUlhZSWpXTmwxVWNjdDEwb3Q2bndSdGkyUmFSRDFLcDk1NmttemlDQWVQVU94N0ZoM2lHYUNzbW5qRE5SXzJsLWEwN3F3SXBpS1l0QTN5ZTDSAcABQVVfeXFMT05aaGZEWXplUWZtWFVuTV9PUFJLd0dCVV9VM2FJWnRZNlZ4bzJqVERfbHpBTkVNNTd1RlJfM3dfbXVKdldUX3VSSjRyN3pWY3kxNmtsMzQ0Y2JLQnhqcWNvaWRsMjdIeFo3bVhWeUE4RlJYWUlqV05sMVVjY3QxMG90Nm53UnRpMlJhUkQxS3A5NTZrbXppQ0FlUFVPeDdGaDNpR2FDc21uakROUl8ybC1hMDdxd0lwaUtZdEEzeWUw?oc=5
+- **Source:** NDTV Profit
+- **Published:** 2026-10-23T07:59:00+00:00
+
+## What next for fusion on the path to industrial plants? - Enlit World
+
+- **URL:** https://news.google.com/rss/articles/CBMijgFBVV95cUxPMnRiZzJFZ0hESEVIekVlMDhRcG5YWFZQVnFPOExfb0xYTXQxRnlBN0kwSlNnU3NsLWNGd0N6SjdoV1hVd1JNd3hRc1RUbVItTHZ1MTFiaTJXckc3elR5M3FGY2xQdmFFNTZkVHNNdDVIcjk0YXpwMnBQOWRCRzdLdkhCd3NNS1ZuTTdFcm9R?oc=5
+- **Source:** Enlit World
+- **Published:** 2026-10-23T07:16:24+00:00
+
+## Turning mercury into gold? A US start-up says it has just done it - Euronews
+
+- **URL:** https://news.google.com/rss/articles/CBMixAFBVV95cUxORDg5QmcxQWh3NHA4c2FRQS1SOEJjUkxrZFRpY0lPY3ZGVGJsQ3daR1ZTNmNyYnhXZ0VibEpRaDhZZWtwSk55Tl9sRlUzQlJrRGwwajhIcVVPTjVrcFkwWUZkd0NqR2lVUndqTkphRExiYzEwRC15TjI2Vkl5UEZBTkoxc20wY1FaWERYSElBTEtKZ0lzcG9pZkFBUzRYVDVMd2I2ZEI2aVY3dm1DVl9GVGlSLUp3bC1HbG92UHJTMGo1NzRT?oc=5
+- **Source:** Euronews
+- **Published:** 2026-10-23T06:14:16+00:00
+
+## Could lab-made gold crash prices like diamonds? US start-up says it turned mercury into gold - Yahoo Finance Singapore
+
+- **URL:** https://news.google.com/rss/articles/CBMif0FVX3lxTE93eW5nclN6UGIxOHNRbGcySy1oeHRod2pyMnh3WGo1a1ZPaEF5ZTNxbzlxQ19PLWVqMVFUekd3cUh4SUJTRGRLOE1majZPWTZIVUktaUI4Q1ZkaUdqai1QOEY0NWM3dkhYdVJJQlJaVmQyR1p2bmNTcy1JbGsxcm8?oc=5
+- **Source:** Yahoo Finance Singapore
+- **Published:** 2026-10-23T06:14:16+00:00
+
+## Vertical GaN Startup, Fusion Firms Receive CHIPS Funding - Semiecosystem
+
+- **URL:** https://news.google.com/rss/articles/CBMid0FVX3lxTE1LcEEwclpLWVlxTldOLU9pZ2t6YkN3eDNmbEhUVXY4UXZmamJRNXdlckpLUXdlTEJsamhQOTBOOXJjWVBpb2ZYbXpxdHQtX1RuZ3Y1Um1rX1JtSEhfTjNHMnpBckhtYkg3UjkyUnpiUXNtSG45TWdz?oc=5
+- **Source:** Semiecosystem
+- **Published:** 2026-10-23T05:45:21+00:00
+
+## Humanity's tech tree has finally unlocked alchemy. - 36Kr
+
+- **URL:** https://news.google.com/rss/articles/CBMiU0FVX3lxTE04STJrcTJyRFluMk80LW4xSC1GdHNhVHNnV3UxcFgwSW8tX2tEVU9rTk1IZ0hJR3VyRm1odUNHelNxWFZHZ2owR19INm9IZjZZVy00?oc=5
+- **Source:** 36Kr
+- **Published:** 2026-10-23T05:44:15+00:00
+
+## Washington takes stake in fusion company - Electronics Weekly
+
+- **URL:** https://news.google.com/rss/articles/CBMingFBVV95cUxOU3VhLXV0RGJTMF8yb1ROU2pOODYyQy1ra3NhMlpDd0I3Y092bG9tOWxWQV9TSnhSdFZuc0hvam1XX2daVG5hTHJUM2pva3UxbkFYZ0h5eng2ZXZjZ041RFphRmRPZzhCa29YemJqRWlWSldYWVUzcmR3dEFZVjR2ekFyeUVaUXJNbzlIdGxDXy0xN0FwcmRxSXEtbTBEdw?oc=5
+- **Source:** Electronics Weekly
+- **Published:** 2026-10-23T05:16:31+00:00
+
+## Israel’s Energy Ministry Outlines National Strategy to Expand Fusion Investment - Fusion Industry Association
+
+- **URL:** https://news.google.com/rss/articles/CBMivgFBVV95cUxNQkdLUnduNF9YQ1p4Wm9uSXdrVlg1eGU3UEVLaGRlTjhxM0FwX2Y0VFNlbWplWk43bUFXSmJsWGVBczVFN3p0bDR2R1V2UDBQT1JQZ1pCQWE1bXhQRkdmLVc4OTJQaElCX04xYkx5T3d4TEJpUDhxa1YzWVE3YTA0SkhVU1FPTnNNSFVxN3NMVklGU250Q3pHSnNjVHFsMTY1MnZCY01SRk1OS1lKS2dXcjIwRnZUcGpxczVhSFd3?oc=5
+- **Source:** Fusion Industry Association
+- **Published:** 2026-10-23T03:07:03+00:00
+
+## FELEX Publishes Discussion Paper on Public Engagement and Social Acceptance of Fusion - Fusion Industry Association
+
+- **URL:** https://news.google.com/rss/articles/CBMixwFBVV95cUxOZEtNOVlBNVpLalNPSXFmOUh2SkpDVFNKY09mWG1PUHVJaVBnY3RjMGxLaUYwWGF6Qy1aV1JNVWNMVk1hZGZoVFkyajdMQ2lFYzVXMUc2MzJMNzJLcmk5M1FTTTRGRS1lRERsVkhGLU1GTVR3MHFDYWFlN0RPZ2pqRU1VVER0bm13ekU1a09OUjhlOGhISk9GcXVEMFZ5RTZlM3o4NTdYU1o1LVpaLWhNWG9oYWFUNmdaNXE3THRxM3VFU1gtLXhJ?oc=5
+- **Source:** Fusion Industry Association
+- **Published:** 2026-10-23T03:07:03+00:00
+
+## American Fusion Advances Texas Data Center Proposals and Texatron Development - citybuzz -
+
+- **URL:** https://news.google.com/rss/articles/CBMiswFBVV95cUxNMzVQVVktSTg2Q3dtdFRaeEdIc3FsWlJNWnFkZmpWcGgwVE5lT1B6RGctSGlxZXAzSWlEVnI1VkFkLVB3UU1nRlRYMHhMUWRQMHNqV3VGc3RKekZ0NG9WQnBKcGNhcHJqSnhZUTRxX2tvYUdPbFFCOGJlNjkwSEJFSFlzRldKOXpnSlhkOVRUN0llYmgzQlYtUHZsSVVLMWJ0RVVHMFVOVzNYVy1IX0l2Q0VBWQ?oc=5
+- **Source:** citybuzz -
+- **Published:** 2026-10-23T00:24:19+00:00
+
+## American Fusion Prepares Proposals for at Least Four Additional Texas Data Center Projects - energynews.pro
+
+- **URL:** https://news.google.com/rss/articles/CBMitwFBVV95cUxOa3VJeFI2eWcyYThiX24tOUZYSXVaYk5QOVJyR2s4cHRUT1Y0TTJ5OXgwMHNtMkl1cGdCQW1FTzZfZGMxdGdKMkJ0UGpjU1BybW1FTWFNVGpCUXd2SnM4RUwwQTBpbW44TlkxMDZoZE5EMFVDU1pRdS05dlpTckx1VVFQcWtDMDNBSFVJNkhQT0txUlBXYTBzZFZJQld1eGZSZ1dzMEpIbjVNTmJHekVZOXBkUmlURVk?oc=5
+- **Source:** energynews.pro
+- **Published:** 2026-10-23T00:02:55+00:00
+
+## General Atomics Scientists Win Dawson Award, Help Prove a New Path Toward Fusion Energy - General Atomics
+
+- **URL:** https://news.google.com/rss/articles/CBMilwFBVV95cUxOR0duMmpPeWtnaU9wQW00Z2o2UWM2RFg1SVF6SkZiTlNYTTJXMWlNRXVWUERadnB3V2pBR3lvUWVTcXpsUDc2MW1JaEhmNlZETFhWUlNnWlZUc3I3aGtiZFRJenYzVEJ0WS13QzdKTlFPNjdPekltendWRVJaOHF5QlQ4X3VRUVh6RHpkZjRVYUR1Y29QS29R?oc=5
+- **Source:** General Atomics
+- **Published:** 2026-10-22T23:22:45+00:00
 
 ## Two fusion reactor designs team up to tackle fusion's biggest hurdles - Interesting Engineering
 
@@ -225,81 +303,3 @@ _Last updated: 2026-10-22T22:59:53.524100+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMivwFBVV95cUxPelNYOFk0LWdjc2dCUkNBZ3RIc19iOVZheW9xZE9CVnBGM3BlSks2REVZSjVEVlVHcUg0Wlhtclh5V3d5YmZ0cE5zRWdibHk4YTdkNGZFVmJNMWVteTd5TEk0UjZjWnRJZ3lkbG1LWGd6cjZOaDdoZjRpbkR3cWZ1OXdTbWxoYXMyNi1KbS1RNkhXZVFjcERLMG9ScXZ4ckhDbXN4SnZ4SkZURi1KVVJmS1g5cnR3MmRjcjVGZ2pOZw?oc=5
 - **Source:** Stock Titan
 - **Published:** 2026-10-22T09:30:00+00:00
-
-## Israel explores nuclear fusion as data centers drive demand for power - CTech
-
-- **URL:** https://news.google.com/rss/articles/CBMiaEFVX3lxTE8xUUJETjlBZHk0ckFPN2E3eE1KS1VzX1c4T2hWY2FpMFNqTGlqTXZfUjFkRUNtOEhTdl9zcjRaZ1V5dUJvMkswTXRJT3V6NXNJUFlyV0l3RDg0ZVRkeDgzMjhzeXBwZUJv?oc=5
-- **Source:** CTech
-- **Published:** 2026-10-22T09:21:00+00:00
-
-## Ultra-High-Voltage Semiconductor Switch Poised to Transform Future Power Technologies - AZoM
-
-- **URL:** https://news.google.com/rss/articles/CBMiVkFVX3lxTE83bU9qaFFHeHlmbG1YRThKdDh0VkptWVc3eUU1aGVKX1BITWUweFB0aWdNdkdOVEhMS3diUVdHakNKNS1qUmRHa0FKY0xadFhHSW9UeS1B?oc=5
-- **Source:** AZoM
-- **Published:** 2026-10-22T08:10:00+00:00
-
-## Washing machine costs reduced if clothes washed at specific temperature - Daily Mirror
-
-- **URL:** https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbHJJUVBsSnJMRzlGazZraTZqejRRbU05VVpMQmdXRlVKeDlXeTNuSW53X3dYNVdWWDloT0kwdkd3U0t3MlVjYWRDZHhRdmFzUENKNW9pazdfeEJTMG1zTjN1eHNVTWNsaVRjSVA0TElyT1l1NHFXSkw5UFJGZTNUbkgybnM1NTNH0gGIAUFVX3lxTFBscklRUGxKckxHOUZrNmtpNmp6NFFtTTlVWkxCZ1dGVUp4OVd5M25Jbndfd1g1V1ZYOWhPSTB2R3dTS3cyVWNhZENkeFF2YXNQQ0o1b2lrN194QlMwbXNOM3V4c1VNY2xpVGNJUDRMSXJPWXU0cVdKTDlQUkZlM1RuSDJuczU1M0c?oc=5
-- **Source:** Daily Mirror
-- **Published:** 2026-10-22T07:46:00+00:00
-
-## Mercury to gold: Marathon Fusion claims 10x CERN record, but can ‘modern alchemy’ work? - Business Today
-
-- **URL:** https://news.google.com/rss/articles/CBMi5AFBVV95cUxQbGFnVU1SODIzMjdLUDVIVVZJakZsOS15ZnpwOFlRcDVsa2tpb1ptQUFYQnpkTWxsMzlTTXJMaHpGQko5UE50Umd6aFk2QWRLa0VVZjZvUXc4d3ZuZFFBcGZQeXl3ckdUeTlIekxXWXp0Q013ZG5GOHRYMzNnQUNvWkVQQnNrSXlfVmNGTmpRWURvWUJISzVoUUpCOTVzaXJId3oyWjhMdHhweXBRM0N4MWF1YnRxb0ZEYVIyQURBRnZHMlRoekZnemFqUXd1dVlKdGVaUDZORUVWS1MwbGx6aENxclTSAeQBQVVfeXFMUGxhZ1VNUjgyMzI3S1A1SFVWSWpGbDkteWZ6cDhZUXA1bGtraW9abUFBWEJ6ZE1sbDM5U01yTGh6RkJKOVBOdFJnemhZNkFkS2tFVWY2b1F3OHd2bmRRQXBmUHl5d3JHVHk5SHpMV1l6dENNd2RuRjh0WDMzZ0FDb1pFUEJza0l5X1ZjRk5qUVlEb1lCSEs1aFFKQjk1c2lySHd6Mlo4THR4cHlwUTNDeDFhdWJ0cW9GRGFSMkFEQUZ2RzJUaHpGZ3phalF3dXVZSnRlWlA2TkVFVktTMGxsemhDcXJU?oc=5
-- **Source:** Business Today
-- **Published:** 2026-10-22T07:27:27+00:00
-
-## AMAZEMET Signs MOU with F4E for Fusion Power Additive Manufacturing - 3DPrint.com
-
-- **URL:** https://news.google.com/rss/articles/CBMia0FVX3lxTE5OWjBHRHlIUjdvUVBiVS05SFl6TnVXQmFKRW44VGdkUU5YSWM3bTE4NEJGTnpXS3l3SE81WC1VLVViQ3ZaYUMxdU9vX0ljcXlRSVZGRWJXdGZTanRYdTNod05GS2V3MWprWGxB0gFrQVVfeXFMTk5aMEdEeUhSN29RUGJVLTlIWXpOdVdCYUpFbjhUZ2RRTlhJYzdtMTg0QkZOeldLeXdITzVYLVUtVWJDdlphQzF1T29fSWNxeVFJVkZFYld0ZlNqdFh1M2h3TkZLZXcxamtYbEE?oc=5
-- **Source:** 3DPrint.com
-- **Published:** 2026-10-22T07:00:13+00:00
-
-## Meet Luisa Chiesa, Tufts’ new mechanical engineering chair - The Tufts Daily
-
-- **URL:** https://news.google.com/rss/articles/CBMioAFBVV95cUxOT2FvMHVhY29oT193MS02dFpXeS11a3RHY1lsaHRDV0xhYU9zZW1vTnI0OTFtUlgxbnNLYW1acXNLMGdydGpIZ1FFRkJiWmFQTXp4UWtMYklKd1hBSFRvcVRmaVJxMnAzTTQzdUtNZ0wycnMtWnhPWmRSVk5IVUJaaXdmd0FVRGFqcEpRTzJoSy1nWWJLTTM2S1ZoSUk4dnhY?oc=5
-- **Source:** The Tufts Daily
-- **Published:** 2026-10-22T06:06:49+00:00
-
-## Wash clothes at one specific temperature to save on energy costs from October 25 - Liverpool Echo
-
-- **URL:** https://news.google.com/rss/articles/CBMinAFBVV95cUxPZzhkdHhJczJSZW4xLXpvU1dpaHRDTVo3QlpKS2pIQTFSVEhQa2w4NW9VWHJodjFBYTl1X1JDZWd2MVhtZWRRSlByN08zN1JoTU40Q3Q1NmJNUDNkVHpNcTY2U0VzU1dob1p1N3liOHFveUpEOHZOVTJHWE9rLUdTcU9YNlUzQzV2NVVZNnJEOXJ6Y0I2bUN5UDFpZTfSAZwBQVVfeXFMT2c4ZHR4SXMyUmVuMS16b1NXaWh0Q01aN0JaSktqSEExUlRIUGtsODVvVVhyaHYxQWE5dV9SQ2VndjFYbWVkUUpQcjdPMzdSaE1ONEN0NTZiTVAzZFR6TXE2NlNFc1NXaG9adTd5Yjhxb3lKRDh2TlUyR1hPay1HU3FPWDZVM0M1djVVWTZyRDlyemNCNm1DeVAxaWU3?oc=5
-- **Source:** Liverpool Echo
-- **Published:** 2026-10-22T06:00:00+00:00
-
-## Molecular dynamics model links titanium nanopowder coating to lower melting point - Bioengineer.org
-
-- **URL:** https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQU9sejJXclZaei1lb3gtcTRNQVBTaV9jaWRUMUtGbHBwVlVkZ25DWFRNOHFMT2pVU2NveXRhM042R2c2R0JQSTRiaTRtLW92TDVfSm9yQkhXUVQyS0pOc0J0VGNOaHc4UW9ZQ1dQZVNpU0xwZ01zVXpBRnJPX1hpbGNsdFZrLXRlVlEyNzFQM3Nrd0RMVHdEMGxfWWZOQkJRS21relFpSjI0Zw?oc=5
-- **Source:** Bioengineer.org
-- **Published:** 2026-10-22T05:38:28+00:00
-
-## Israel weighs nuclear fusion push as AI power demand soars - Ynetnews
-
-- **URL:** https://news.google.com/rss/articles/CBMiYkFVX3lxTE9jWHQzNUFDMTFob0hsMUIxY3dFR2JQYWE0eTdiM0c5eE41SnZjSUlsQzkwbm1LNlROTGlSRktWVTFoVW1DamViWUlUbEdtVnREU1B5LUZEenpZdG5OZDJ4MEN3?oc=5
-- **Source:** Ynetnews
-- **Published:** 2026-10-22T04:44:19+00:00
-
-## SPARC positioned to demonstrate fusion power breakeven - AIP.ORG
-
-- **URL:** https://news.google.com/rss/articles/CBMijAFBVV95cUxNM2djSGcxTXJGM213RjNaVmQ4OUc0eGFCQjNNcmFFYWxYZ0EtZ29WVnpzd3FjdVZKOV8xTTNQb1ppVmpJX2Niam4wMXpvZHhnUFNadDc4NWI1WWtIRl9ZeXhVVExyM0g0V0c4azlhZl9HQ05RLUxqZXhNMC1aMlpkT2ZlTjVZLV9UNVIyMg?oc=5
-- **Source:** AIP.ORG
-- **Published:** 2026-10-22T04:10:04+00:00
-
-## AratheJay – CHRISTO DISCO (Album) - TrendyHipHop
-
-- **URL:** https://news.google.com/rss/articles/CBMidkFVX3lxTE8xZDgwVE1INDZic251cHlscHY5cEs5ZE03YWU2TDRGemtLbVJFaVhuZDc2LXZoNzcxTmlUai11Y1lEYWlPV3BhRkNvZ2haendXZ0hHRS1SaW5sWG5SaGtCbGdPNHljSE1pVFZlYTBJcHBJcDd4WEE?oc=5
-- **Source:** TrendyHipHop
-- **Published:** 2026-10-22T01:38:26+00:00
-
-## China's Top Party and State Offices Issue Document Promoting 'Two-Innovation Integration,' 'AI+' Initiative Rolls Out Across the Board - BigGo Finance
-
-- **URL:** https://news.google.com/rss/articles/CBMidkFVX3lxTE5RVXpna2Jmc0otY2F1UHFqck9pcUpLeXpzczVVY1Fya1o0Q2x5a19BWDJ5YnIxYjdWX2haamJ5WXVXbGRUcWxLc3NDT2g3ZnB4dmVHLV9SeXJma2tFdUxmU0d0U3hhYzBMQjExa1RPcm5YXzhUaHc?oc=5
-- **Source:** BigGo Finance
-- **Published:** 2026-10-22T00:35:00+00:00
-
-## Klezmer Comes Alive: Isle of Klezbos Brings Eclectic Energy to Montclair - TAPinto
-
-- **URL:** https://news.google.com/rss/articles/CBMi5wFBVV95cUxQQkVaZFQtOUNhWVlMajVPY01nZ3Jvb0E0M3hscjlNMUwtaG43U29TS1p2THMwT295N2M4M2xrUVZsU2htenV2NEhQNkhKV011R3dLbHlpMzRfVWI5d2g3OF9LUHNUdG4xeF9YUVdYVk5NVGg5ZWRSd1FJYko5SFd5OTEySVMwRHZYUk5ieThxZm55alBFWkZPUzBZZTFCZ0MzaU1PcWJGOGRTdEdCZ0Mxa1djajBnU0taVkVuWUlVa0R4aVNxZ3VPZThjQ21ZMjVIaXRkZW1obG43aC1UY3NjdWVDOGZkalU?oc=5
-- **Source:** TAPinto
-- **Published:** 2026-10-22T00:30:30+00:00

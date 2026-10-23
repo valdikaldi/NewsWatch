@@ -1,8 +1,68 @@
 # NewsWatch — Iceland News
 
-_Last updated: 2026-10-22T22:59:53.014103+00:00 · 50 articles_
+_Last updated: 2026-10-23T09:09:15.226445+00:00 · 50 articles_
 
 ---
+
+## Icelandic land-based farmer closes $12 million round - IntraFish
+
+- **URL:** https://news.google.com/rss/articles/CBMingFBVV95cUxQNWpjN2MzUDEwWFpsNHZyWmp6d2xVaXU0UWRuMWxlWVhIVnRDc3VmUXYwdmJxcHlTckZtdlcxTjk0clhMNWw5WWdBWkdRRXU1QTZla1UtcEUtUHJHaXhRWXUxZzhvNUdMWFpBbE5JVUdCNWhRbTR3TnJpYU5zTXNRNnBQZFJHcTdqNjRJOWF1NGtVS1FfN2R3WTl0VG5RZw?oc=5
+- **Source:** IntraFish
+- **Published:** 2026-10-23T08:28:44+00:00
+
+## Best Glacier Hiking Tour Operators in Iceland According to Booking Data and Verified Reviews - Guide to Iceland
+
+- **URL:** https://news.google.com/rss/articles/CBMiiwFBVV95cUxPaEt1b3lna291WHk5cHJlaUU0NTJrNEhJaWNxaXpxN0xJTXZMTUxENUxQZzEwclUzS0VLaHJQbmlpbVJUdGFLbkI2V2ZkRDNJRmFaQUdlSFZkYnM5Z0FZLW5VcElpSU45VG9EcVhSZXhlU3lsMUhybXBVb29rX1lCUEYxcWxtVFhWOWlr?oc=5
+- **Source:** Guide to Iceland
+- **Published:** 2026-10-23T07:43:59+00:00
+
+## Hulda María Agnarsdóttir carries Njarðvík with her into a new chapter in Florida / Stories - Support by Report
+
+- **URL:** https://news.google.com/rss/articles/CBMiygFBVV95cUxPU1o1aXNQQS02TEVjRGJGTDVnbnRNSzJ1VnNPRVE0RGZ4azFycDdPeDVTQTAtQXhvX3l0eTlHS0xUazl4UUJhVDZuR0ZJMGtqVTNkMTVidER6SnhHOVllMERxMG0xMnZ6dW9KN0RSSHNCVmJmR1pYQUQ4T1BJekpTc3d4NFhSajBiZmFjOHdHRDl4SVZfZ3oyRURycklYdHFMYzZGemtxMWItdnZRdnliM2lTUjlaa3o1R2o1TmdTM213cVpJQWtPRFJB?oc=5
+- **Source:** Support by Report
+- **Published:** 2026-10-23T07:03:23+00:00
+
+## Report Calls for Overhaul of ME and Long COVID Care in Iceland - Iceland Review
+
+- **URL:** https://news.google.com/rss/articles/CBMif0FVX3lxTE9IRDZQMWNpajllZmlPeGo5UUN1QzdiTk53MmNGYTJBcElFYkZ1VFVLWm1ZZk1fQlFhSjBWSm9DNGQwZlk3ak1ZbDlEOUpoejBRVjN3LTBYN1FoRWZyWUxmMldzX3JQRXVDSWRSU2RtMlVJb3U5ZEpPZlJUZzdsTDQ?oc=5
+- **Source:** Iceland Review
+- **Published:** 2026-10-23T07:00:00+00:00
+
+## Key facts: INCH cuts FY margin;Iceland/Bulgaria lift E&A - TradingView
+
+- **URL:** https://news.google.com/rss/articles/CBMizAFBVV95cUxPNGhKUGNmbng3eE9mek9zTlRnZjdaMVlhRGJ0NkhoN1EtVHZsVGN3aV9RdExJbGlmcjcwX083eF9PM3ZOeW9fT0dPTXdnOVE4TGRGX1VZT1NJeC01YWlZUGVrR1lvV21OaGo2QkFySHRLLXh6TFhRWHl6bkJXaVVYbm1nTjNLMkQ0UkRsa3l3TVZvaXB5VURFbERtTm9DT3VQc1VGRHBpNUh3azd5QU9JZkI3T1MzZTFzZDJNWjZicWZCUEc0cEFhQmp6MFE?oc=5
+- **Source:** TradingView
+- **Published:** 2026-10-23T07:00:00+00:00
+
+## I Took These Waterproof Hiking Boots to Iceland Without Breaking Them In—and My Feet Stayed Pain Free for 3 Days - Real Simple
+
+- **URL:** https://news.google.com/rss/articles/CBMilwFBVV95cUxPNEtXeVZlcWlpOEptWmJENUtnMWJGbEFUcURHbWVGR1BWWUtMaTlsaUE3S2hFcHA2Y3lpWjhETl8yN2pvMU9OenpvUS1MT21XMjk5aV9UZDFickJ3SE90U1V4eE5kRTIteHFRc3JLNm5pQzlTdG9PaUdodHVyWVpxcXFsSlk0V0RBWGlibjl3X0NGOE55SHBV?oc=5
+- **Source:** Real Simple
+- **Published:** 2026-10-23T06:30:00+00:00
+
+## Weak mag. 2.1 earthquake - Iceland: 8.7 km WSW of Geirfugladrangur on Friday, Oct 23, 2026, at 06:06 am (Reykjavik time) - Volcano Discovery
+
+- **URL:** https://news.google.com/rss/articles/CBMiyAFBVV95cUxObjF1bFR4dG80Y0VuTk9vWmdSTEZhYklRTUJHMGdCT2tXbG9YZENmVHE3LUl0QVRHLU8tUnBSUVI3ek5FeFg1Z0EwMFdjNlM5SXNSSWpjTUlXQ3RibE05NTJFa25NRXVoM01EZmxXb3BHcXFQcDFkNFpHZ2swWTNoQmdOM0YtYjFaa0pDdHFOcGthWFAtaWV3VDRLZ056OUw4bTE5eFl0RTA0WlJSeTg2VTllZ0ZqWGdJRFBmOGYySTBTUWpqcUVhZg?oc=5
+- **Source:** Volcano Discovery
+- **Published:** 2026-10-23T06:13:00+00:00
+
+## New Iceland Arctic Acquisition (NIAAU) Stock Price, News & Analysis - MarketBeat
+
+- **URL:** https://news.google.com/rss/articles/CBMiW0FVX3lxTE1aYWIwaHoyd0k5QkNhTjRzNWRjNThfNGM4Y0NKRmh6Q3kxRDR6NGp4bHotdWZBUTg4T2VvSjVQYXZla2tIX3dGdjUzXzQteGhhdHg2cTdOS2o1R0k?oc=5
+- **Source:** MarketBeat
+- **Published:** 2026-10-23T05:50:58+00:00
+
+## Islandsbanki stock: Islandsbanki sets October 29 results date. What it means for Islandsbanki stock - AD HOC NEWS
+
+- **URL:** https://news.google.com/rss/articles/CBMi7AFBVV95cUxOaExEemNzNFQyRVVWa01vaEY2bDFzUVdjME0taWdDdzM3T21jYTFkUnRvTDFtLTVoZVIwQVczdjlmRGd6N3E4c0oxbUwxelJKeHJjdzE0aFpwaUs2d3NoeHlVd3lzcUIzMi0zYk80YlRRZS1XV1ExazlXWWt1bXoxZzZVNjMwenlJY3hITUcxdkI2eEZwVE54ZXZDQnYtREVudkdFZnVHUUxZSWVVcUxEeXp3Z1BnRFd5N0k4b1J3cEdQeF9ZWkJsVWVqaWF3NE9GSXJUSjBBQXhXd2lGN0hTMTJWZHdQYTBiSU1Ubw?oc=5
+- **Source:** AD HOC NEWS
+- **Published:** 2026-10-23T05:01:37+00:00
+
+## Watch Iceland vs Bulgaria - TOD
+
+- **URL:** https://news.google.com/rss/articles/CBMimgFBVV95cUxQVklheDFpU3hYUVVLOWIwSl9waDFRUjNhbmpIVDFpSk00OUx6d1JqT29aSFBma1oyYmRDQUowU1lINS1EeDJoSWJoMHlRN0pnVDh6Q090WW5Uai01Q0s2ekd4SGY3ZjBCbFE4bkd5VGFFbVR4aDJhUWkwY1hSVi11OE9FQkRPZ2ZJdDVGakhXNUVTX3JSUVZqN0FR?oc=5
+- **Source:** TOD
+- **Published:** 2026-10-23T04:28:13+00:00
 
 ## Discover the film locations for Supergirl (2026), around the Cairngorms in the Scottish Highlands and in Iceland. - The Worldwide Guide To Movie Locations
 
@@ -243,63 +303,3 @@ _Last updated: 2026-10-22T22:59:53.014103+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMigAFBVV95cUxQTC1LQ0VFU0NNeGlsek1aUS1GUXNxa1ZyVHZYZ045ZzRCVi1XRlFmdmI3aDBYOGxjVG55OVFjVF8xNWZxeklITkZFWEh1clBqQWZCSmk2VkwzX013MXNWM0t1cGxUaW1TazFFYzFpM1ZXNHJKNHJHN3JvT0ZCTXBoYg?oc=5
 - **Source:** Transfermarkt
 - **Published:** 2026-10-22T02:03:25+00:00
-
-## Atli Jónasson - Transfermarkt
-
-- **URL:** https://news.google.com/rss/articles/CBMizAFBVV95cUxOU1VzRHV0ZTBPZFYxZnZBWTAwQm9Ub1F0QVNhNGlRMGlHdWlUc0dWVE5ZVmZrc2FMSVhMWEJDX0w2Z2NrZy1BT0JpYUY1SnNtTjNYTlZNVDN1N2V0X0ZsN0hFSkpWTXV2Z0ZMS3o3VzhPdDRmT3loTE50aG5XVlhuVjJtelNwaUc4TmNpb0ZMbXI1SmJCcnFWWGpVOUlLY1NJUXFUcjdXclRScE9vYTIxVTFKTi0tWFhyeWVwMm0wRmNzTERGNE1zMjZDdHg?oc=5
-- **Source:** Transfermarkt
-- **Published:** 2026-10-22T01:28:09+00:00
-
-## Ernir Freyr Gudnason - Transfermarkt
-
-- **URL:** https://news.google.com/rss/articles/CBMi1gFBVV95cUxOdkRGTTEtSksxaTc0b2x0dzVSekxrUkdSNm5Pak1IN1Juak1JdExjM1h2N0FSRF9qZlBWaXljMmdGSWs3NmRhOENBNnplaVNQZno5ekthMktXVnFoVGgxVkdUeGZPY3QwR29JZWpCMWZQWnZGWlhGcElZNEd6aVpEa1pNODBjYzg3eXYzc1A1bFdCR3pmZHZLMHJKaTNMSzJZcnV3MG5nMGFfaVp4YlNiU1ZqOS0tcEltbS1adjQyZE91akVmZVl2WkthejJPeFQ4SXBVVXZ3?oc=5
-- **Source:** Transfermarkt
-- **Published:** 2026-10-22T01:27:23+00:00
-
-## Heimar stock: Heimar buys 1.29 million own shares. The buyback concerns Heimar stock - AD HOC NEWS
-
-- **URL:** https://news.google.com/rss/articles/CBMixwFBVV95cUxNUWdRQ2dVbWdzRW9YanlPbHJVTEtDNjdKMmwwVnFIT2JoNkZoemw3Y0trTG9BaFUyOVdpbmg0dlJNaXB5dHljV0VDaDlqVU5XNzVHaE1qdTN3bXJSbUxLZk11aXdaR1QtdFFQdm1FMFRFTXhySGFaSjgzcDR3M1VkdHJyc3VwR053bUxIaDVUUXpOZEtvU1VBdi1BMUlHM0pnOFJYSGtoWjcxWFo3UnZabE1oQmdwMGQ5RHJEc0VVSkFESW84d0ZB?oc=5
-- **Source:** AD HOC NEWS
-- **Published:** 2026-10-22T00:41:03+00:00
-
-## Islandsbanki stock: Islandsbanki buys 3.36 million shares in its buyback of Islandsbanki stock - AD HOC NEWS
-
-- **URL:** https://news.google.com/rss/articles/CBMi5wFBVV95cUxOU21QbUo5b25zd1ZOZTRzbGJyUXVBTV9HSkMzeUZVNEdWRDVzaE92RGxwUE9nWTU3RDR6ZUdMR1BaZndCSHEza2J1RzZuOXJtT3pMZFpaaEFSaW1ZN2FwN1lUS1JHTm50bFVxajhiNkV0SzcybnJOQnN2SEVMZV9IdVZtTTFUaEFvdDU1Q1dHUG8wdlIwSGZZUjg3UFBFdFA2N19zN2VVNk1pMXZBa0hOWnhkSGNTcnVnRDNtam9NT3NhdVktRkhRaVdYczNjMDRCZWhCS3huX2F4N1VwenlVSzNWOWRfdzA?oc=5
-- **Source:** AD HOC NEWS
-- **Published:** 2026-10-22T00:39:46+00:00
-
-## Eik stock: Eik announces October 28 bond offering. What it means for Eik stock - AD HOC NEWS
-
-- **URL:** https://news.google.com/rss/articles/CBMiyAFBVV95cUxPdWtYX3Q2Y1lWbTQwRGVxU1dNa1FUZWQtVlV6ODRPN2tNeXNuSmQ4cGxORWFoMk5mQnRxUC1mSVQ1ZVdtbmhkb3gzaTJjNUpKOTZDdXgzeGp3Z3hoTjhtWnF1TUdSSmx1d3ZsY0RLeWtrVGxnQ2xZdThyVjhMa3JLaTNuUFYyZm9jdk5ySmJ1Y1pnMi1nZUNlcUh0T1d5QXBXallSR19HamcxRm9PODRCU0FMLXdmR2FMOVBsNEpCZ2ZvNklJOHFSeg?oc=5
-- **Source:** AD HOC NEWS
-- **Published:** 2026-10-22T00:26:14+00:00
-
-## Eldey Volcano, Reykjanes Ridge, Iceland: News & Activity Updates - Volcano Discovery
-
-- **URL:** https://news.google.com/rss/articles/CBMivwFBVV95cUxPTWR1V3RPS3JuREdWbFJtZTdhTlcxU0p3enJaVmUwOTdoVGt4alZKa051YkY5Tjl5am1oZ18wWVNJQW9ERVFIMEVXWG53a2JlY21kbzYyeVA1ellOWWZoZ0cyODc3c19ORk9GVEFVaGZEUnVPcXdGWkY0d3hmUms0NEZSdHAyc2xQQ0UtczZEa0dFTWo5Um1Rc3hDa0VVS00xV0lldDB4VEdpNEpRRGtmajA5RmlCQ1lmOGVueG5XWQ?oc=5
-- **Source:** Volcano Discovery
-- **Published:** 2026-10-22T00:04:44+00:00
-
-## Britain near bottom of NATO rearmament table - UK Defence Journal
-
-- **URL:** https://news.google.com/rss/articles/CBMigwFBVV95cUxQM2Vfa3BvN1pUWEtaSDY0WEMyenZVd2ZwOVJLc2dJeVN0ckczN3drNE9ON19jUEJFSThneldtWXgzX2pFT0VGMUQtQzJ5Zm9kZE1UaXdYSzNpTk1seks0MjF4U2JZOFFpa3dhMzlXVkYyODczck9QMTdoTzVLZ2RaSzYxTQ?oc=5
-- **Source:** UK Defence Journal
-- **Published:** 2026-10-22T00:00:10+00:00
-
-## Icelanders speechless over unrest in Paris - Iceland Monitor
-
-- **URL:** https://news.google.com/rss/articles/CBMimgFBVV95cUxNM0pBWVJwQ2N3V1FqR2p3dVdrbWxvcGJFdUtrMjNOSndZS2dCd01FUE1FNXJWbXRueDRKa2QwekduUnRJOUZoUTJMMmwteUMtVTNrOVdCcTJ2aWNLSjhmSjJLcWc5U2xpTVE2dENoZnFJWTZscnY2Zms4d3FObHpOcG5OTGhhYmxSVzhvX3h5cW5OV25feVZMT0V3?oc=5
-- **Source:** Iceland Monitor
-- **Published:** 2026-10-21T22:28:00+00:00
-
-## Lessons from the Arctic Circle - 5 questions for H.E. Ólafur Ragnar Grímsson, former president of Iceland - EU Reporter
-
-- **URL:** https://news.google.com/rss/articles/CBMi5wFBVV95cUxObGRqLWRrYzhNTjhHemRoMUdIMGI0bERTUEZpMFBZelZqMmkwZ3R2aURoU3BQX3d2Q3J3VUE5anVSdnNaYmpSdGxfaUpDSkNpYnFhWFBUUGxKbXZjLUt6cm1fR2lTVW05MkQ3T0k3MmpoN2RLSFFYNDZhUVJoaFBaSEh2cnFSb1JZdHJvODlBRkp5dGdJLTNmYWFDWDFGNnlPMFNKVDFfV3hwSUdiUDB0OUZpcTVoTGJ1b1lRX0RjTVIyNnFoZUtXUVRiSkppbldqMU14NnRLSDhtWGFVYjQwUk1uR0d6LUk?oc=5
-- **Source:** EU Reporter
-- **Published:** 2026-10-21T20:06:36+00:00
-
-## Guided Tour in Icelandic Sign Language of the Coast Guard Vessel Óðinn - The Reykjavík Grapevine
-
-- **URL:** https://news.google.com/rss/articles/CBMinwFBVV95cUxOU211SDFXVVRSYlZkNC1Kb254WWhUaDNCZ3ZEdXFTdVhFcUNoTTg5WEg5c0ZzRlk4QkVscXNpMDVFT3JBa2FPdC1FQXZJWVJXR2p3eTZtMjRaWENMZ2JtTkNHX2N2aGdUUmVKUHRWN0pZU0tNZlZOUDFOTmZZcXZrWWZOMjZlV2JBUjJUZjRzNlZTZUc5NlA3aS0xR01YMFk?oc=5
-- **Source:** The Reykjavík Grapevine
-- **Published:** 2026-10-21T16:31:59+00:00
