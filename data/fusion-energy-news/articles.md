@@ -1,8 +1,20 @@
 # NewsWatch — fusion energy News
 
-_Last updated: 2026-10-23T19:49:34.721518+00:00 · 50 articles_
+_Last updated: 2026-10-23T22:55:54.919913+00:00 · 50 articles_
 
 ---
+
+## Commerce Plans $389M in CHIPS R&D Awards for Power Semiconductors, Fusion - ExecutiveGov
+
+- **URL:** https://news.google.com/rss/articles/CBMimwFBVV95cUxNUDgxT2s0MjIxUkVvSkx3VElkdkZqOFVCeHVFQXZNSVlSbW1wbmFPaG9Bc1k0YV96cFBNOWg5R2MzTFdSSmxPemRubVczRnJHLW9KdTZjQ1JIVjRDQ0xBOVE1dlJTWU9YLVdRcmc4d1Z4NkU4TzlHSDlUTDc0WEx1X3E3WkFudXFUUWpvZ1JwcExCc0xST09KSE0yRQ?oc=5
+- **Source:** ExecutiveGov
+- **Published:** 2026-10-23T21:25:23+00:00
+
+## How to Secure Community Buy-In for Renewable Energy Projects - StreetInsider
+
+- **URL:** https://news.google.com/rss/articles/CBMixgFBVV95cUxORUJld1dMdHpzMlg2c3c4d242NElLVk9ZVkVwMzNxeU5Gc1ptT2M3bFFVMzRlQUVhc25qMHRuNnNqVXdWMzlzeE40Um1KRUlnWThSS0RUbk1ZZm93Q1czOURRVWdPaW8xcHo2WG5XVXRsM3JwWHRFczEydmVDZHhKLXNCX0JOdkJMdm9NZllOZmE2dENGdVRSeG1ldFlUNHVPZXpIdUZQdnVmc1llZDVyTmV4cFlqVEpSNER3NG9pWVhCVzVONFE?oc=5
+- **Source:** StreetInsider
+- **Published:** 2026-10-23T20:26:00+00:00
 
 ## US plans $389M for fusion and AI chip R&D - Metal Tech News
 
@@ -291,15 +303,3 @@ _Last updated: 2026-10-23T19:49:34.721518+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMikgFBVV95cUxNZ05kbE10ei1zR0xlV1lfWE1fS2VFSDMySnVOTjZSU0dKMHo1bDltbzFvOW9zdVlWRU85VmFhQnhkNGZ2YUM3QzBncWRZbXZHN3RNUDN2N043VngzZTgwU1RRdUtJaUNpbTlkbzl1b0huWEgxTkZDbm9aLUxrYkNRSjI4QVZFakJhSzBUdDJ1VnBtQQ?oc=5
 - **Source:** New Orleans CityBusiness
 - **Published:** 2026-10-22T14:43:26+00:00
-
-## US targets critical materials boost with $389M funding plan - Mining.com
-
-- **URL:** https://news.google.com/rss/articles/CBMiigFBVV95cUxNYmliZ1lLVGp3SEhvYlRfbVN5T2ZTOWw5b1k1RWNXdjNpVUo0SGRzZkE0Nl9WcE12Yk5jYkFFczVESnFXY1E5aXNhcFVIU2pJaUs1cXZMSzJVQzlnYTZUaHk1Z21GTGh5VDZzc0xqMUdvRnpwREN0ZmEzM0JtR3RINVYxeFFtaS1EWWc?oc=5
-- **Source:** Mining.com
-- **Published:** 2026-10-22T14:34:55+00:00
-
-## US to Award $389 Million in R&D for Power Semiconductors - Newsmax
-
-- **URL:** https://news.google.com/rss/articles/CBMiiAFBVV95cUxNWDFlaWpvRi1iQkF1R21uZDdrck1Xc3kwUm5sa2ZPVkhxZ3F3UEV4REp2UXc1NFY2MHZ5RXo4QUpsMjdfMHZXd1pWNzBlLW5GSGVScWM0RTJRblRxckxQUVhTVTlIR0tDRUd1QTBxNWNHYkRYTExucmZXR3lQZmlISDdwelRHc3dN?oc=5
-- **Source:** Newsmax
-- **Published:** 2026-10-22T14:20:06+00:00

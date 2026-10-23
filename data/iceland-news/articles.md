@@ -1,8 +1,26 @@
 # NewsWatch — Iceland News
 
-_Last updated: 2026-10-23T19:49:33.076809+00:00 · 50 articles_
+_Last updated: 2026-10-23T22:55:54.413873+00:00 · 50 articles_
 
 ---
+
+## Delta Fought Over Detroit’s Iceland Route—Then Canceled It Once The Competition Was Gone - View from the Wing
+
+- **URL:** https://news.google.com/rss/articles/CBMitwFBVV95cUxQSzZaQ01jYTZzTlUySE9nX280dHAyaEI2MEFtdGk0ZUtqX2V3LWJSbllza3RVSkk4QVhqc3N5QVRubkllOG56aTZMazlDSUZHeTg4Y2xvaEpGU01CTDdwU3hTbllNWElkRnRpdURxM0RKU2dNTDR0SEhVNDJxOWI2NzltQm1ZOWtYNm9sTE9DdVppVER0cjJvNFpCeDRvc2R4bHViNmw2YVhOS2U2UkVRZU9BLUQwVDg?oc=5
+- **Source:** View from the Wing
+- **Published:** 2026-10-23T21:33:34+00:00
+
+## I took my family on an Iceland road trip - these are the moments we'll never forget - www.juneesoutherncross.com.au
+
+- **URL:** https://news.google.com/rss/articles/CBMizgFBVV95cUxNRUdLLVdTbDFKMFJEaVc2dzJ1dVJlQ0NqdTBkWWlBdndTMWEzd05TTE5wc2lIcGl0WHBGM3NDakRhc1BUc1ZvWDhjQ2lHVHRsdl9mbFRVeFBsbEs3d2ROVjUxbVZzWlZ4ekFYcFg0V0tQOXJvUDEyeE04X3JCR2VuQXdhakRtSE5lN1lja3duVWYteGxhazJrZDViYjg1QXQ3dmNfR01fdF9CYjh3bVVtZWVQYWpwWXQyUVVBNFlWWHpOOEYwQUIzU3FmT2RQQQ?oc=5
+- **Source:** www.juneesoutherncross.com.au
+- **Published:** 2026-10-23T21:00:34+00:00
+
+## Delta Ran Icelandair Out Of Detroit, Then Cut The Route Itself: The Nasty Side Of Competition - One Mile at a Time
+
+- **URL:** https://news.google.com/rss/articles/CBMihwFBVV95cUxPZ0tRcDhCMkFEQlpYdG11R3ZTYWpEUGxuQUhyZkt6bzcxMWZpdFN2VXY0UjQyY01pdmpKLVFNcEpVY2lib1VZUzNmSVJJN0t6dDB1eF9XRG8xZk94Z21xTExrMlAxWjJ0aWJrOFotek1Gck5IdFRCQmRldU9KeURHVVpWWWswOGs?oc=5
+- **Source:** One Mile at a Time
+- **Published:** 2026-10-23T20:07:47+00:00
 
 ## Icelandic Salmon AS Estimates – OMXICE:ISLAX - TradingView
 
@@ -285,21 +303,3 @@ _Last updated: 2026-10-23T19:49:33.076809+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMingFBVV95cUxNSUVjajM0NFMzS2Vra2lCNkVsOHlFdTlPVXBGLTBacEhPcDVfQzRBTkozM25NVXBSdG1NZDVCbVVVVXNOR2lWQUltWWE5RWtZQ2hBc1I3SkFjQWVYRzVfLTczamo5QlFrck1XWDNhREd6VXpwM3VHakR2bUJQczRqZklVaVV3QWVLWlNOLTlob3BSNWJ0ZFQwU2RaUU1CUdIBowFBVV95cUxNNS0za1F4X0pwdXpUN0NEVERaaXdNcEpscGVLR2pzMEZVOHF2djFoZVdoTllLVDlIcS1WYzBza2cwTjgxNUpGbmhwM2ZlUUNaZzdyOUtxemw1eXc1SnJKZm0wQnpad1dkUTZJZ2VUa19Xc2JYbG9NZ2RGanBlajdVandPcHIxMTBwdnk4LXV5bDVjWEhjQUxobnY2c21PQTJONXhZ?oc=5
 - **Source:** Birmingham Live
 - **Published:** 2026-10-22T11:43:00+00:00
-
-## Farice merges with Oryggisfjarkipti and Neydarlinen technical ops to form Korda Networks - Telecompaper
-
-- **URL:** https://news.google.com/rss/articles/CBMiywFBVV95cUxNaUltS0EyVVJlZW1VQjlYMVR6YmdPUE5QWjU3Z1I3T2lVS0pSR3RwSkkzVUlYR0tkbk9LQzd5T3l1bVQzRlBXM0NLLWJraTZlcVJqUG1EemNjVGRGMlNWRV8zdHlOMmZGT3F4YXNHOHkzN0FtZzhCZ0hxa1FQRTRxckxBYkszNi1BNHVrNjg5NzdHRHhVU3ZpZ3QwZG1hYkFPdzBjOGI3QUdsRnBaMHZ2V1kzWEpVTmtFeTYwREl6OFRrUGVTVE5WaHdyOA?oc=5
-- **Source:** Telecompaper
-- **Published:** 2026-10-22T11:18:11+00:00
-
-## Iceland helps thousands of over-66s claim £5,600 - check if you qualify - Daily Express
-
-- **URL:** https://news.google.com/rss/articles/CBMikwFBVV95cUxOMzBFdUpONWZ0ZjFpU3BKekU3cm9NQ2M4RmNWMXJ3QUNhMHNoRzBnaFRQRjdVVnF1Uk43ZEdZUXEwd0JGU1NqLW41YWtoZllydWJaeHZ0Mmg5UnJEdGIzSlJzMDR2MGZyQnZUcy1IWjF0NDhSZ2xCc3YxLVJ4MWZ5dEZyeHR1SVVUY3Rad0EtcU05ckHSAZgBQVVfeXFMTXd5M09EUXBXWWJHQV9QUThuUkVDRnk2WERpTjhINEwydk5qelJzcWlkRmpHaHM1TWZDZ3liTXhRSUtmekNhMEFyN3ZqNWNCa0ZNU0ZMZXA1U0J6b1RGTnNKQ25KUmxuVENFLWxnSkNaVTlPTVE2cVJ1UTBReXN6UnJwMm9iZnh3RVRDNUwyN2s1MkJiTkFUZEE?oc=5
-- **Source:** Daily Express
-- **Published:** 2026-10-22T11:17:00+00:00
-
-## Elkem And Landsvirkjun Sign New Power Purchase Agreement For Ferrosilicon Plant In Iceland - TradingView
-
-- **URL:** https://news.google.com/rss/articles/CBMi8gFBVV95cUxNY25mNEswMklQSHJmY01ZNXJmYVZSdVdwS2FVNzE3MHV3czNCUndPajdkQ0poSmxoeHBXWmc3STE5cG1ROEk4NVA0T2JTNUtoQU5Hb2gxNHhON2FUM2JIUDR1UTJKamdWd3o4cThLSnUyVGs2Z0NzZE01U1dwUkVwYWw3bEdvalRGT2FKbUdJaFZfbzhULTQ4SzJUT2lkNmc5N3JqcFJ6UUtzOXpXbnk5NC02UUVZQjgwdG1sdjRTbWllMkVxa1FNTlNKeFJURkx1bDdYMTBuc3I5RndHSU5qSTIxUXVJd21VaXVpc1E2d0dIZw?oc=5
-- **Source:** TradingView
-- **Published:** 2026-10-22T10:32:32+00:00

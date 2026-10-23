@@ -1,8 +1,104 @@
 # NewsWatch — Microsoft News
 
-_Last updated: 2026-10-23T19:49:31.496382+00:00 · 50 articles_
+_Last updated: 2026-10-23T22:55:53.971324+00:00 · 50 articles_
 
 ---
+
+## News Orgs Fight OpenAI, Microsoft's Fair Use Arguments - Law360
+
+- **URL:** https://news.google.com/rss/articles/CBMiVkFVX3lxTE14UG5iczI0Q2FCc01uSVotWXZCWEwySFVOMnF5YVNjSldpMnV2MUpNbEZUNmtjdVV4V0tIRDd2emRCUVdiYjZCY2x1am9LbnROeDRjdEFB0gFWQVVfeXFMTXhQbmJzMjRDYUJzTW5JWi1ZdkJYTDJIVU4ycXlhU2NKV2kydXYxSk1sRlQ2a2N1VXhXS0hEN3Z6ZEJRV2JiNkJjbHVqb0tudE54NGN0QUE?oc=5
+- **Source:** Law360
+- **Published:** 2026-10-23T22:10:00+00:00
+
+## Azure DevOps Comes to Microsoft Copilot with Plugin for Work Items Pull Requests - Visual Studio Magazine
+
+- **URL:** https://news.google.com/rss/articles/CBMi1AFBVV95cUxNODhtenZZeldtYXpjbXpoZ0hhMGlsVVVfTzIwbEdNU1V0cjB0cnNvdkI5WUpOTk53R191Q1NpZHZHYUtZRnNZMmxaczF1ZGtGV1ZGUUN5eFVZaVdPQ0dMYVRMZkg3Tm4xN0QyNjhQeVZ0eVd4RGIxQVRwVUVya0FpNzVyMHJ6aWlDaWhCSnF1SXRWcU9OUU9YVnF1VEdkUW8tRER2cWZzN2FCamtxcVJrTkFrWUcxQ1c4ZzBFQlNNZEdaRVZRdmV0QzRCZ0tIY3VmLWVTUw?oc=5
+- **Source:** Visual Studio Magazine
+- **Published:** 2026-10-23T22:09:49+00:00
+
+## Xbox’s first chief operating officer is out after just a few months - The Verge
+
+- **URL:** https://news.google.com/rss/articles/CBMikwFBVV95cUxQX0szaFBzRVNlcUw1c2t1aEZ5RFFIY000OGZpQWZocGpudDR4WlVRNmFtb1A0V29Jbk8xOUpreXlZckhSdXBoTEFUckh5WVZQOG9raV9DM0stQWdDNjN1RHFYcE8yQkM0QzYwQTMxczh1SExRY0pSS29zc3BidUlMV2lkM3RZUVJOdmZmODhrYnBMSm8?oc=5
+- **Source:** The Verge
+- **Published:** 2026-10-23T21:39:26+00:00
+
+## News | Microsoft seeks approval for data center in northwest Georgia - CoStar
+
+- **URL:** https://news.google.com/rss/articles/CBMipgFBVV95cUxNOE56M3dzbWtwMHZxb19fTEtES01oeVRpU0wwbHJsbUtDZ0N6YV9IdExzQjVwRTBYV1pXdjNpRG1MME1zWEhrUWhEYWxkdy1SYjQzRjZJSGRMNXdoNEJDREE4bExkSUk3dzFES0lKekRWYnp2NW9ua05ySHRNZG16dXZYdmtiMkF2Q00wa3VBZWhQX2Q4RS1uQTY5aXNOcGVPSDhxRlF3?oc=5
+- **Source:** CoStar
+- **Published:** 2026-10-23T21:23:21+00:00
+
+## Microsoft Defender Adds Unified Threat Intelligence Investigation Tools - Redmondmag.com
+
+- **URL:** https://news.google.com/rss/articles/CBMirwFBVV95cUxPNW5nZ3RJNVN0Z003b3J3M1hwSDd5cUhObzZfemQybWZQRGlxRFlwMGI0QUFHcEZwZDZaZi1GVGdUVjBpSlRkcm9lRDZtYXZlUkxkb083X0VvTzNoNmdCZk1aSlloanc1Z0c5VG15bC1BbS1fbzZYbjNiRDU3Q0VSUnVLMXZIVXZIOWdzRnJTaVZkRERsdnljcHFjWUVmM2JMdjJLXzNTTFBCN0RSbVVF?oc=5
+- **Source:** Redmondmag.com
+- **Published:** 2026-10-23T21:20:18+00:00
+
+## Mixed Signals With Big Earnings Due; CrowdStrike, Ethos, CSX, Microsoft In Focus - Investor's Business Daily
+
+- **URL:** https://news.google.com/rss/articles/CBMic0FVX3lxTE41eUdOV0p0VGN1M3VRNmN4RkluOTh6RWhRN2ZtQ1FFTEV2eXp4NWNlb2xVd3ZfWjhRREFVcFNmZ1AwRm4xaC1UZzNiSklad0NjRDRyQmpIM2pGenlXeDRubmxJUVpRZk95aXljOU9qaFFTVHc?oc=5
+- **Source:** Investor's Business Daily
+- **Published:** 2026-10-23T21:00:00+00:00
+
+## Futures: Three Titans Lead Earnings; What To Do Amid Mixed Signals - Investor's Business Daily
+
+- **URL:** https://news.google.com/rss/articles/CBMivAFBVV95cUxOQnVjTUhHNlhCR3diSDlXVTI4c082YmNhWmRrdGJqWW9yeGxsa0ZKSFBfa1RDUVBRS202amNuT3loOXdtTzdOWUpNTjA3VjlnWVczak1rU3NjYUg0YnF6R1JlcUdVRi1NOEdya0I1ZU4xZlNzUmRKU2U1ZlJkcVRCNF90clE4QjJNRmVOOGJ4Ymp5QzdHVEp3WFgtLXYyS09KbGtvNi1ucWgtZnlJbUpmVXVyaE9fZ0pPeUJUQg?oc=5
+- **Source:** Investor's Business Daily
+- **Published:** 2026-10-23T20:49:00+00:00
+
+## Portfolio manager prefers Microsoft, Amazon, Google in AI trade - Yahoo News Singapore
+
+- **URL:** https://news.google.com/rss/articles/CBMiiwFBVV95cUxQRDRYbE9UX3g4UFhDck85NGdkWGJWdTlvVmcwQlI0aXY5QnJacGFzWUdfNG16OTNraHBCVFItcFI4QWhWME5nbkh6RFF6MnBqb1hrU2F1WUZKem4yd1hQMVVibU80UGdzY2M0cE5kczBuV1hkTTlWN2JZT0ZFZVZLZ1Q3bWowTUZhUGQ4?oc=5
+- **Source:** Yahoo News Singapore
+- **Published:** 2026-10-23T20:39:25+00:00
+
+## Microsoft CEO on rogue AI agents, super laptops and Clippy - The New Things
+
+- **URL:** https://news.google.com/rss/articles/CBMijAFBVV95cUxPS3Q0U1hfU1ZEUE1FS1AtS3hJdVgyTTVtSWljWUNFaE5zcTdtTGZScmdaZVdZazYtWmxLQ3ZCaEtNeWVSc2VzNGpLbUxNd3pBLUdlTUVKMHlFU3F1WkVvRU13Rmw5WF9IbHpwZGV5RXdUSUI4a0JVVVB4Q00xRU1FTUpaUGxMTDRsdmZyYQ?oc=5
+- **Source:** The New Things
+- **Published:** 2026-10-23T20:23:29+00:00
+
+## Generative AI a transformative tool, Microsoft tells US court - MLex
+
+- **URL:** https://news.google.com/rss/articles/CBMixgFBVV95cUxNVVFFbk5kUkdaYUc1a0FzRnBZb3FORS0wcDdHYUxaNW5seUtCb1ppb29wOGdleFNrSlA1aVhSUWhkcVlNTDFlVlhUNlUxMFhvOUpUVEljMXRfSldsSmo0VzZHaDNOV0h5UWNtaDU0aXpnT1F1d3VFZ1VLMXc1NzViazFJd3FfekZ0T2hSaElMYk5MUDU0WXk2LXFicGJnRThDdUttb1hZS2NWOU9VR0ZZMmctWThvamY4aFRXc2NLdDZaUEc1UVHSAVpBVV95cUxQOGhnQ1ZFQzRvOG8wS2ZxanpNOWRiYXcxcUxJWGwtMnozeXp5R0ZDWHRKYzdrZXJYX2dmeHRRbDhEMmxmdDZWN1ZOQUF5TG5ZU3RqV19OLXdyZVE?oc=5
+- **Source:** MLex
+- **Published:** 2026-10-23T20:19:02+00:00
+
+## Generative AI a transformative tool, Microsoft tells US court - MLex
+
+- **URL:** https://news.google.com/rss/articles/CBMiWkFVX3lxTFA4aGdDVkVDNG84bzBLZnFqek05ZGJhdzFxTElYbC0yejN5enlHRkNYdEpjN2tlclhfZ2Z4dFFsOEQybGZ0NlY3Vk5BQXlMbllTdGpXX04td3JlUdIBWkFVX3lxTFA4aGdDVkVDNG84bzBLZnFqek05ZGJhdzFxTElYbC0yejN5enlHRkNYdEpjN2tlclhfZ2Z4dFFsOEQybGZ0NlY3Vk5BQXlMbllTdGpXX04td3JlUQ?oc=5
+- **Source:** MLex
+- **Published:** 2026-10-23T20:19:00+00:00
+
+## Microsoft removes 8 Copilot shortcuts from OneDrive menu - BetaNews
+
+- **URL:** https://news.google.com/rss/articles/CBMickFVX3lxTE5nR2hKLWJ2YWtWTE1YTjdNcWNSUkh0dkVkcXBsZVhxblV0Z2c5NUgtNjEyRzI4T3dLaVFsdnlDeGM4SGlDZmk1NWk0Q2hZVXJsVmRjQ2hIRnVxT01pbTZFakRqUWxsbkhCTlJEY0RsTm9kUQ?oc=5
+- **Source:** BetaNews
+- **Published:** 2026-10-23T20:10:21+00:00
+
+## Microsoft: Security And Silicon Set The Stage For Cloud Margin Recovery (NASDAQ:MSFT) - Seeking Alpha
+
+- **URL:** https://news.google.com/rss/articles/CBMisAFBVV95cUxNOC1OUnVGZFhXR2c3OHA5ZG1neE5lcGVyQVBoamFnclNaOEk0dXFidzFjaEU5aExjTW9sMXUxR015LXZ6Y0NPMHZIQzFhcXpsUE1tdEQyc3N3WVUyM1VtV2xUWDNkVW82TnBHX2FPRjRtQ0pRbGZSZlhVUm5LTjBfaWV3WDZwS2ZaemQ1cGNxb2xQUEV1cFJLRHZLb09jTFFsZDVHdWdxMUFnVVVtTXdlLQ?oc=5
+- **Source:** Seeking Alpha
+- **Published:** 2026-10-23T20:00:35+00:00
+
+## Marvel’s Blade Is Reportedly Almost Done, but Microsoft Is Seeking Another Partner as Arkane Lyon Faces November 13 Closure Deadline - Wccftech
+
+- **URL:** https://news.google.com/rss/articles/CBMinAFBVV95cUxNZXBVZ1VoTThPcWUxTUhJRk1GSU5yVlVvakVBU2RGNjRNYXRBcVZOQUpLXzQ0TXJiaWp4ZUl1bkpfRURkRWxxZ0pja2FLV1BzNFZQemRRLVMzMjNZUy1kVFR1VnM3ZXJJOWxUY1FMWklLajJhVmhhcXN6VWozcks3RmZieTViakROWl9DZ0xXbnhnTDZlNDJZRm9jY3jSAaIBQVVfeXFMTmhMb0JqcDlMc1JsamVLZDZrdVNzZzByS1NZcDNrNHczSDl0TVlPU3JVVmQxUWxjaEFMTlpIbWpQUFZTSnpEc1Bmc0d3QTJaNURmaDdOT3ZJcnBkRWJHSmowbGY4UExvRUJ0SHI2QmFlbVFZeUF0cGt2bndMZEVEbGpjWWR0MEpodnR1bzl3TlU5Tmc3bzVSbkpvUjRqVzlHVzRB?oc=5
+- **Source:** Wccftech
+- **Published:** 2026-10-23T20:00:00+00:00
+
+## Tech Stocks Got A Late Lift From Microsoft And ServiceNow - Finimize
+
+- **URL:** https://news.google.com/rss/articles/CBMijwFBVV95cUxPSTRaOGI5RVNWbjdVd2VVY0xQVEJLV2lIODJNNG9jZUN5T3JLQ05US3AzcERPMkgzYUZCaUo2cG1DbTlONWpnZlpwdzgxdDRRSzFKVDBpM0NreGI1SkFUZW4xajQ4dE1uY0ZJRHVlMm1yOGJsM2pTR1NhSzlGV2UyQ3IySkhoaElCemhxd0lIQQ?oc=5
+- **Source:** Finimize
+- **Published:** 2026-10-23T19:57:57+00:00
+
+## Microsoft AI diagnoses complex medical cases more than twice as accurately as doctors, study finds - شبكة تواصل الإخبارية
+
+- **URL:** https://news.google.com/rss/articles/CBMiU0FVX3lxTE9adjhwLXdPTFNzdjVoTV9KdERaaTVwU1lwLXExOGNtM3paTW9LMWJ2LXc0RDJOM0ktTWtSMFoxTGwwWm9lVlIwRE9GWEtBODFPLUFR?oc=5
+- **Source:** شبكة تواصل الإخبارية
+- **Published:** 2026-10-23T19:50:06+00:00
 
 ## Tech Layoffs 2026: 196,000 Workers Affected as Amazon, Meta, and Microsoft Cut Jobs - TechRepublic
 
@@ -207,99 +303,3 @@ _Last updated: 2026-10-23T19:49:31.496382+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMiyAFBVV95cUxPaWQ5c3BMdXdSWXdfYUU3dHluV2lPcVNWVmZKX2s4M0tjcmYwSVV1MEhWcVJwSHJCeVZkUEZsMHUtWE5HX2Zwa0RoSHdLeDlxNHZGZ1BLS2M0MmQwNTJnUkpibE9pZjRhN2pVNUstbVM3ZjZCYzhnZ1dLTldVb3Y2VGZ5M0Fnd2NWTVJxZGdydmxNRUNxcmFtM2JpVnQ4REYyQ1pCekk0cEVjSnR4c3o1VlZ2X3RmTDRXNjlCVjV1ckwwZk5QX3BrdA?oc=5
 - **Source:** Redmondmag.com
 - **Published:** 2026-10-23T16:04:17+00:00
-
-## Microsoft’s AI Diagnosed 83% of Difficult Medical Cases. Doctors Got Just 36% - Gadget Review
-
-- **URL:** https://news.google.com/rss/articles/CBMipAFBVV95cUxNV1d5V0w5aWZsYkRBTUx2Rnc4YmdFTEt1SHJscVdMSGpKNnVsajVheUNQdWsweDVMNDdueENGSEhFVkEyRjh6NTBSYjR6LUQwSlY4OXFfempZenliMkVlWHpfbXVXVGtvSjNabDRhM09EWTRaLWd5aGlUa1ZBY1h2d0EzOHlLcUQzZUxYS2pTSGVDcU5NRkQ5RFpfYUFEVk5ELWRsVA?oc=5
-- **Source:** Gadget Review
-- **Published:** 2026-10-23T16:01:41+00:00
-
-## Microsoft’s AI Diagnosed 83% of Difficult Medical Cases. Doctors Got Just 36% - Yahoo Tech
-
-- **URL:** https://news.google.com/rss/articles/CBMimAFBVV95cUxPVWg0c3AxS3VJV3hrdDJnQ0dRWXlHR2VOLUpZTy1KbjdMbWgtSl81Ymgxam9SZGRGam1ia1pPc0hLZEd6Q3JIbDN0c3JNR2ZZYTA2LThMSXgtNUZKZENRbkI0LXRwVWFYVmpsYUlkaXo3cVNXUU1WRzZvdU1jdDFYU2MzT2M2U0RMZTdualBxcC1HeERQLVNWZQ?oc=5
-- **Source:** Yahoo Tech
-- **Published:** 2026-10-23T16:01:41+00:00
-
-## Durable Growth Reinforces Microsoft Corporation’s (MSFT) Investment Thesis - Yahoo Finance
-
-- **URL:** https://news.google.com/rss/articles/CBMisgFBVV95cUxOSmE3ZUloOVJQaU1BWnNsdXRHWTBZUWRyZy1BUHdDWF9QQ0xGU0hwUlNQVzljQkdONXI3dnNORVRSV2JIQlVlcTg0X3lzSFZySzNKZnlfbGsyMUp4dWRJX0hJYVdFeGV4VjRqSnFfZlA0WHpsRjJnVUFaUzg3OGRnLVYySWJkMHB5aVYwYmVWVXkwQXBDbTZmQWxGUGxZd3NyeXg3MmZiZUI2MVVDTXRjLXZn?oc=5
-- **Source:** Yahoo Finance
-- **Published:** 2026-10-23T15:36:31+00:00
-
-## Microsoft partner PwC is facing data breach claim - Cybernews
-
-- **URL:** https://news.google.com/rss/articles/CBMie0FVX3lxTE13dFE2N1lOWTBSeVBoUHZNQWRHZDdzWFM4V25aSTdkYkhnd0lReC1yQzVYQTNzbWVhWUlNM3A4dnBkOUJVbHpEUkk1V3dkN3hzU0JSOEQ1cWxFSHJBbVFjMXFvNGE5dTdXal9sNFAyQlppdTlNUG85MC1udw?oc=5
-- **Source:** Cybernews
-- **Published:** 2026-10-23T15:31:42+00:00
-
-## Netflix offered Microsoft $500 million for the rights to adapt Xbox games, but the companies couldn't reach an agreement - WN Hub
-
-- **URL:** https://news.google.com/rss/articles/CBMiZEFVX3lxTFAxaGJaYkpwR1RFLTVILURBX0dkTm12SkJfTU5hQlVyLUhwTFFZS2Y4SExWejExeG9rNHJRTFZMZUduZ3pjZUxua3Biazk1Tzk5c3lEU0thcVNDYTA0UzNuMzg3aEs?oc=5
-- **Source:** WN Hub
-- **Published:** 2026-10-23T15:16:32+00:00
-
-## Netflix offered Microsoft $500 million for exclusive Xbox game adaptations, but Asha wanted $800 million - iXBT.games
-
-- **URL:** https://news.google.com/rss/articles/CBMi1gFBVV95cUxPazg4WkN4VEs3d0ZobDdOUFJUQUJtT016NFQ5WGpkWTh1WVR2OXRmRzU2ckdQaG4tM3pydEh6cDJCdnpxclB0ZjFGZDFMVF91Q09jZk5pWFdVQ09KckpwRmliTTcwTzZVcl9RNVdNc0xMVXJsRVdJeFRzMGpoR1N2LTduU254TkRPeXNLNG8yWDhURGJLN1Z5UWtrOTloU0FBb0g2ZDJnYWI3YUszT19DTkxkcnB1b3VYUVZBTFQyc3N2Z3JWbHBubUdXTEI5RmVpVHRGdXJB0gHbAUFVX3lxTFBmQnp5VExDdHJ6Tm5fdE5ldmVYUnVycldKSTJzWjlSdnl3OTExNFdoMUpWNUNyQ2dhWVpRckd6YlFPMnFvOGxETG95cE91VkhjbDdGVVhNOXRybWc5NTV3SC0wUDNKdkdSQ1RhdF9lNnVsSEpvb1dld0prdmdpT3N4UmJjWWlDZjNfUVlBc01pdm9oMG9UQnEzV1VSamlwWHlmVHFleFVaVzBFMWI5akx4ODA2SEIwbGZza1huaWdoMWQxM1NiZk9zX0FQSm03azhXMFJNYU5SbHBWUQ?oc=5
-- **Source:** iXBT.games
-- **Published:** 2026-10-23T15:14:19+00:00
-
-## A New Microsoft AI Diagnosed 83% Of Complex Medical Cases. Doctors Using References Got 36% Right. - International Business Times
-
-- **URL:** https://news.google.com/rss/articles/CBMivgFBVV95cUxPVjEycXRZbHRDcUtQcENGODJ4WmdNSkw5VDdWNVRKUEZfaVgyYU9INkNPLVZIYXBhaWdSU0l0bWlxLUpLd1loRENxcHlXcmM1MUx4cXBzb0RGQ0phLTJ1QnREWHBBV0ZpcXJRdGp5cDJzMkx3ZVhCamxHX2V3WWdyNUNjZlE4dE5sYU5KYTVfUnI5Z0pTei1Tc1lyQmFXei1FeTJtRG5VUFY4cmM5RmNiSnB2NUFqSlFFSGJQOWp3?oc=5
-- **Source:** International Business Times
-- **Published:** 2026-10-23T15:11:44+00:00
-
-## Hyperscalers Microsoft, Amazon Line Up With Earnings, Along With ServiceNow, Intel - Investor's Business Daily
-
-- **URL:** https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTmtZbk8zbzdsM2RYLTkwT213RlA4Y21lU1RqdUdTVFJNekxDSWxiWWUzUmtpX1lZZGJaY2RteGJKOXhqOXE4aEl1MHM1cENFenBJejRaTlREOFBuX09keDZSZVZyUHFGaHZ1Vm12WUJkLVV5Vnd5Q29JemVmSHpSamNMal9HVjZacDFSNVUxN3V3U0tRTGJ3bko3c2c1VUlId3prQm5iZWc1VEU?oc=5
-- **Source:** Investor's Business Daily
-- **Published:** 2026-10-23T15:11:00+00:00
-
-## Outlook is about to lose this Copilot-powered inbox feature - Windows Central
-
-- **URL:** https://news.google.com/rss/articles/CBMi4wFBVV95cUxPWjZITEpsUmZjTjM0RExDazlGakV4SXU4TTRwQTZ0dl9aR3FVc0locFFtOGw2eE1QR05kbGZrdnpvczVWY1BReWU2dXhKTVpZYy1RXzl6Zy1yZ2FDTkZETGlLSG01ZlBOTXNua1lyMXNwcUNHSjgwRmdMZW5RR1RiTFozQVFLZkRGWTVlT3RibXhNZjBEY0tHNlg5NU9vNW1VUk9ScWZQdDhsV2M5Mkx1QkxvWHJvZ2otUlQ3c05pbkZ6dWlKRThaN0djbHRsT1NUOEpzV2dGb2ZfNXJpU2FEbFlaRQ?oc=5
-- **Source:** Windows Central
-- **Published:** 2026-10-23T15:10:35+00:00
-
-## Microsoft Reportedly Plans to Close Arkane Lyon, Putting 217 Jobs at Risk - TwistedVoxel
-
-- **URL:** https://news.google.com/rss/articles/CBMiWEFVX3lxTE91RXJCZElsb0xnY2Q4YlFnNmlIVXBPNnktTUtjNkxHZ0NWM1dObEhKcE9uUVhvVHZfbnN6a042anQtTHFyWnhjSWhpYTRfcjVRVlVlVUFhU0I?oc=5
-- **Source:** TwistedVoxel
-- **Published:** 2026-10-23T15:01:09+00:00
-
-## Microsoft Raises the Stakes in AI Model Development - Cloud Wars
-
-- **URL:** https://news.google.com/rss/articles/CBMigwFBVV95cUxPdEVBRzNweC05T0VENzFFWjRCS21vei1fNlBsU2FlalZyLVJaMlhfa3R0ZzJTNGIwRV9lbmthV0NFcjByZ3haYThYeWl5M3ZzcVJzRkwta0h0XzBDTmlGMEVETk56TnRkdk16SmUwRVlBQ3F5VGF4MmRJNFYtTUFMTE9Ucw?oc=5
-- **Source:** Cloud Wars
-- **Published:** 2026-10-23T15:00:00+00:00
-
-## The AI Lab Invites NVIDIA, Meta, OpenAI, Google and Microsoft to use TIP, Permanent, Quantum-Safe Proof of Who Made What - EIN News
-
-- **URL:** https://news.google.com/rss/articles/CBMi7gFBVV95cUxQTEJRRmZ0djl3Z1VjWjBLV3ZXUUVlUUw3bFpHM0pIeUliUnRmUjctNTZEd2RKbmJtOTFObGFtUGVzazJDN2NIb05vbW1FeXdPaGZHd2s0a1oxTkNhSnU0b0Q2QUNpMWpMXzFoVTgtS3BEWUxuNlJRM3FWeDhlTzlxS1lFYmxqRVZCWkNNbFRMdGVsc1dGMXRaU0RINVFiTHJCOU5KQkdlYmRtX1UteUZQMUVLTVIxcF9mYi1OOUV1NFc1YU5QUjNWdnR2Ukhja1NvSGxyUUJsT3Vub1pwTEZNaHFjSTZSS29tTnRPcUJ3?oc=5
-- **Source:** EIN News
-- **Published:** 2026-10-23T15:00:00+00:00
-
-## Microsoft Corporation (MSFT) stock price, news, quote and history - Yahoo Finance Singapore
-
-- **URL:** https://news.google.com/rss/articles/CBMiUkFVX3lxTFBiNU1JZVotUjB3Um5rQmItVmlTbjFFa19vcWdDMlNPVUx4V1R2dGc1NXZiZmdFMEE0enNtYW4tclROdEJYUkZVT2J4MkVJa1VKQ3c?oc=5
-- **Source:** Yahoo Finance Singapore
-- **Published:** 2026-10-23T14:57:01+00:00
-
-## Are Microsoft Services down right now (October 23, 2026)? Outage status explored - Sportskeeda Tech
-
-- **URL:** https://news.google.com/rss/articles/CBMiswFBVV95cUxQUnFOOTRUaTROaGp0RlBWRE1lbXlRWS1qMmJKWUFwdUhXZFZPejQxU3J0bzRWV1Z3dUxJdzVDWmFNRmdrNEdTcUVEUEdUYVRWMWl2djlISnV6bHJUbFg3RHhEcXRhQUNjZF9pVmpOVExIeTR4ZUVJWklXZnYzUjFnV21DX25iZ2R2eXRkR1IzcU1ETkRUbTQ0Wm1YUUExMGNINGhiOWMxcFYyOHVIYmFFNFhMaw?oc=5
-- **Source:** Sportskeeda Tech
-- **Published:** 2026-10-23T14:51:53+00:00
-
-## Microsoft Azure Growth, Copilot Monetization in Focus Ahead of Earnings, BofA Says - marketscreener.com
-
-- **URL:** https://news.google.com/rss/articles/CBMizgFBVV95cUxNNC1qQkpKWWM2WFpGaGRndzdPb2x1eldfWVBUTnl2SV9NN2NOTEczUlNocFQ5UnhTTFZGYkNuWGI0QWJPUGM1WmpoQ2R3S0pId0VvbGMyXzJRalpidDlyTURJdG5UWk5yM3Z5SElWMUFtVjJqXzJ0Vnh1Y2NXVTlvVlFEX2JXRERuX20wNEppM1BkS0JSeWxQcnJHN0ltS0owelVzcjQ1M0tPeFlFT2tocmtTc3BrcFI2STVHR1AtLWdXYlE4eW9uUl95MHFWUQ?oc=5
-- **Source:** marketscreener.com
-- **Published:** 2026-10-23T14:46:22+00:00
-
-## Gears of War: Judgment (Microsoft Xbox 360, 2013) - khorasantimes.com
-
-- **URL:** https://news.google.com/rss/articles/CBMiTkFVX3lxTE9pajk4Qnp2VU5NYzlWbzdzTlpjWTdhOGwwaEFHblVkODlkNmh3YlNvaE0xVHhlYTg4YkljZUpzdXJ2LTZJZGtwYXNSR3VfUQ?oc=5
-- **Source:** khorasantimes.com
-- **Published:** 2026-10-23T14:34:31+00:00

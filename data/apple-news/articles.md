@@ -1,8 +1,20 @@
 # NewsWatch — Apple News
 
-_Last updated: 2026-10-23T19:49:29.703693+00:00 · 50 articles_
+_Last updated: 2026-10-23T22:55:53.408609+00:00 · 50 articles_
 
 ---
+
+## Apple Music Hides a Playable iPod Easter Egg for Its 25th Anniversary - AppleMagazine - AppleMagazine
+
+- **URL:** https://news.google.com/rss/articles/CBMiZEFVX3lxTE9keW5DUkQ0Nm53bkJndThMMTNWRUgzTFZvZGgyLXpHb3RDanJzMXJfcE5CMzZucnp5U1l3alhXZDQ1Tk5WM2UzQlFXbDJrX3lHaHdGYTJPdlpOZE1lUzZwNVNUNzTSAWpBVV95cUxQWHpXMVg2RlJsVDh4VzN4aG5zRVVQTmxmN1BUX0pyMENtc2hDdFBsM2hXbHhpS1RXZUFhVTQ2U0tQU19CdHh2aERySlFKeEdZb18xUm5MZlExbzdHZ2hwSk9KWHY1VGRudFlB?oc=5
+- **Source:** AppleMagazine
+- **Published:** 2026-10-23T20:22:00+00:00
+
+## Australia’s court orders Apple to change iOS rules - NeoTeo
+
+- **URL:** https://news.google.com/rss/articles/CBMigAFBVV95cUxNN0RTSW5YdC1SWlJhSXRVSzRQN0JEMUljcHcwV0Q4bjA5c2xfT3dDQm1wQl9DMVl4dElwVzNZXzBmMW84WVBwbzlXYXVDeEV0cHExN2Y0WWhPT1hWZ3dQd3ROLWxvcTlyelhkdnhURTBOZjN1SXJLMjdRUllubEt5SA?oc=5
+- **Source:** NeoTeo
+- **Published:** 2026-10-23T20:13:26+00:00
 
 ## Apple’s Faceprints And BIPA: A New Ruling On Biometric Data And Control - JD Supra
 
@@ -289,17 +301,5 @@ _Last updated: 2026-10-23T19:49:29.703693+00:00 · 50 articles_
 ## Apple Inc. $AAPL Stock: Perpetual Ltd Lowers Position - MarketBeat
 
 - **URL:** https://news.google.com/rss/articles/CBMisAFBVV95cUxPVjdHVHBGVGtQSVVYUnpJX1NTWGlUSDlDbmhULXZRUzNPUWZKZ19oLVFGd3RWcC1NWGdWUlhHd2VUNVEzUjBMd3FhNGdOZ2tWcDY3UDdOeWdVd3FpSkhMRkZ3ZVNJNFBTWDYxdVZuVzFQRVZ5N3ZQQmhXOXdnb0tTcGVOZ0JZYnp3ZGFCeDhOVzJheGhiSW00R1VQYnRKOGlLM0poa1lDdVBDZ0dmSmlSdw?oc=5
-- **Source:** MarketBeat
-- **Published:** 2026-10-22T09:12:59+00:00
-
-## Apple Inc. $AAPL Shares Acquired by Terra Nova Asset Management LLC - MarketBeat
-
-- **URL:** https://news.google.com/rss/articles/CBMixAFBVV95cUxOTjF0NXFka2g4RFR4T0Z1cENBNW50cE1zZ3lGNDlBMnhBcTNNTDBneXV1OVNtdTREeE9GVmF3RTA0d3YxWGZDR0wzN19CU3lVX1YwRU5TZVpuMDUtSjE2WklzRURTSElpLU1KcENRVUtJNVBJWmRyZVdYeFlmcVFrTzdjSEduWnFESEtiVUJtUVRJT1BkTEFINHBCVGlZQkVTZXZSVU5IVWhBV054c2swNm5JVDJjQnhjdUw0eFp6Tkg0YVQ4?oc=5
-- **Source:** MarketBeat
-- **Published:** 2026-10-22T09:12:59+00:00
-
-## Apple Inc. $AAPL Stock: Sax Wealth Advisors LLC Increases Holdings - MarketBeat
-
-- **URL:** https://news.google.com/rss/articles/CBMiwgFBVV95cUxPUEpZM25PMG5GVFh1b1hmZjRBblRPZTJ5akhzOVl2NlIzdnhOSFJFTVNfRTJxdmhJM08wMDVxRG9kTWJVd3QtUE54dU9EQWZKTVRQRk5lM1ZJd0dOdXZyRG14ZFMzekJQZmRvUGdnSTBKbWVnLVNmMlg1dUJtWHdfYWtaSEFSNk5JUE9LMC1pb1FDa1YyWGpMVzNhRzhOMWtEdTR2YW10dG1GUHVmZkxXajBIbEgzaXB6UHZPdXNNTF81UQ?oc=5
 - **Source:** MarketBeat
 - **Published:** 2026-10-22T09:12:59+00:00
