@@ -1,8 +1,44 @@
 # NewsWatch — Iceland News
 
-_Last updated: 2026-10-23T14:42:26.492087+00:00 · 50 articles_
+_Last updated: 2026-10-23T19:49:33.076809+00:00 · 50 articles_
 
 ---
+
+## Icelandic Salmon AS Estimates – OMXICE:ISLAX - TradingView
+
+- **URL:** https://news.google.com/rss/articles/CBMiekFVX3lxTE5tSlBEbWFMV0s2VXlhc2cwN1g4S3FjSDJicVJxM0MxRnY2Q0dYREVnZzIyQkdCd3YyQ3RseGhKU3UxendTMzNwQm9Qd1l5S1VDWjhFQUV6NWc3SjBYTTlpUjM4WVlWQUxNaVROV0JLUnhlaDhGTGp6N0JB?oc=5
+- **Source:** TradingView
+- **Published:** 2026-10-23T17:36:42+00:00
+
+## Filming Gulfstreams Over Iceland - AvBrief.com
+
+- **URL:** https://news.google.com/rss/articles/CBMiY0FVX3lxTE8tZl9CUTlualAzZWxBdEpfUnpfSHlPTVcyLVZoY3k1cjRQb1Niai1palF6NnV5SnZ1RWZlNlVjcUpid09zdmJmU1hIOENMSmo1UVhBY2t6UkhONUh3TVNhYkhHMA?oc=5
+- **Source:** AvBrief.com
+- **Published:** 2026-10-23T17:32:45+00:00
+
+## Bad Spit (@badspit) - Substack
+
+- **URL:** https://news.google.com/rss/articles/CBMiWkFVX3lxTE9hRUQ3QmpDQ2w2dFBseGN1aEdzVGNmZ0otOGFraFg1c2JzQWM0QjFSemF6RzBiU2hDRjFGZTd6QkxDaGNRRWk2dDJ6QUVYTjhNekpTblM3SnFPUQ?oc=5
+- **Source:** Substack
+- **Published:** 2026-10-23T17:00:36+00:00
+
+## Strike cost Icelandair half a billion ISK - mbl.is
+
+- **URL:** https://news.google.com/rss/articles/CBMinwFBVV95cUxQMmF0VEg5UDczWGs0Nmx0TjNhaThnZWtScEFSa19Tbk04SFZEVmh4RjZ4RklLLVVmYXlZN0lqYTBWQ2hQLURkZzB4Rm81R1k5NEVXelJZQjhKajcycjRsRnYweVlHQmtyeUp1UEtiU2VoTWhyLUpoY0hoNjIyZ0VCVmRyaUZsRkdSOWhhTC1JODh2ejNZVmJudl83eTlCQk0?oc=5
+- **Source:** mbl.is
+- **Published:** 2026-10-23T16:00:00+00:00
+
+## Canadian Coast Guard Signs Cooperation Plan With Iceland - Canadian Defence Review
+
+- **URL:** https://news.google.com/rss/articles/CBMilgFBVV95cUxNbW9neGh4NDNBRUJWUXZXZFZFVjJsNVg3RDFkUjVLOUJCZ3A2WkFMOF85Nlp5ZW0wajB5WnNWZEtBOHhsM0lOS0lscjRWYUtQc01ubU9MVDh3TDdaUVdtRUdVSXd0STRENDM4c2hlVUxUcGJiNW40OUdjWlNOUFV2cUNucWdjelQzb1BPTUYxWnQ5RTY5WkE?oc=5
+- **Source:** Canadian Defence Review
+- **Published:** 2026-10-23T15:59:59+00:00
+
+## Bidders snap up West Midlands properties at auction - from former Iceland store to children's home - Express and Star
+
+- **URL:** https://news.google.com/rss/articles/CBMi2wFBVV95cUxNaXBza1lORXRjWktfWnNQNEZnaEVDd1JqcmJubWxaWlZ1dVFVWkFHcTBDYkR5TEJlaFMzRVRzLTJ4UGdxLTNhSVVXNVBzUUNUcXJIRkl6a3M0SjNDYkV4V1RadU1KR2xfRE52RW9yT04wV1pmZDF2aXBGZ05IX0lZQUZ6Um4xQ3lmLW11Mk96dm9NXzRFYksxNU4tTVFnNHdQeXVjbDc3Y3RyLWxReldFSTBjMUNHM05SRGJ2S2R1X01lV2NYdS1ydloyM1A0X0RyQ1RTaURXVzhHWFk?oc=5
+- **Source:** Express and Star
+- **Published:** 2026-10-23T15:15:00+00:00
 
 ## Auditor General Criticises End of Akureyri–Bifröst Merger Talks - Iceland Review
 
@@ -267,39 +303,3 @@ _Last updated: 2026-10-23T14:42:26.492087+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMi8gFBVV95cUxNY25mNEswMklQSHJmY01ZNXJmYVZSdVdwS2FVNzE3MHV3czNCUndPajdkQ0poSmxoeHBXWmc3STE5cG1ROEk4NVA0T2JTNUtoQU5Hb2gxNHhON2FUM2JIUDR1UTJKamdWd3o4cThLSnUyVGs2Z0NzZE01U1dwUkVwYWw3bEdvalRGT2FKbUdJaFZfbzhULTQ4SzJUT2lkNmc5N3JqcFJ6UUtzOXpXbnk5NC02UUVZQjgwdG1sdjRTbWllMkVxa1FNTlNKeFJURkx1bDdYMTBuc3I5RndHSU5qSTIxUXVJd21VaXVpc1E2d0dIZw?oc=5
 - **Source:** TradingView
 - **Published:** 2026-10-22T10:32:32+00:00
-
-## Elkem and Landsvirkjun sign long-term power agreement in Iceland - Cision News
-
-- **URL:** https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdFhqM2gtMERtR3AtaElsYzNkWXVsU01fNGx2T19pZ3ZMMWUzeGF4dVpCZ1dfMFJ1QjF3ajFNaXJweWx6ZG1WelgxcUFvam4xRUdKTnNfNVlINGJHY0plTk8zLUtrZEloWXZfQ1pGT2EwRGFrQ1o0UTFfaWdNMU4wbndTRk1RX1J0SVk1cGVKb0wtcUdwWDZ2Zkx1SUFaS1hlTllJa29KR1Y?oc=5
-- **Source:** Cision News
-- **Published:** 2026-10-22T10:30:00+00:00
-
-## How to watch Hildur (2026) from anywhere - UpNext by Reelgood
-
-- **URL:** https://news.google.com/rss/articles/CBMickFVX3lxTFBrMjVoVGZVUDg1dWt5RGNnYksxSWRvdnJnV2dnNFEyZnZ1eGY3My1DckZVaXdTSTJwZjJxblBLN0dLVDZCaUF2X0NMYUNqN3lpOHBJcS0wSl9jUVUycUJnSEdNUWJHYUpWZ2U1LUZicmlnQQ?oc=5
-- **Source:** UpNext by Reelgood
-- **Published:** 2026-10-22T10:20:02+00:00
-
-## National Archives of Iceland - Ísland.is
-
-- **URL:** https://news.google.com/rss/articles/CBMirwFBVV95cUxPYTA1LVpkLUdfc0Y0WjBtVW1acEd2MXoxV0YyTENKX0c0RnBaNjVlS0x1bzlwRXdlWFVodTliTGJCRUVJV2VlMVdIXzNxakFNRTJCOFJmSFUwUE9wYmVMVFdzbml1czB5QW13dlBMMDV1R3NxNEk2MHRzR2o3QlNfMDBQNVVHcUxISEdVamh2T05LczNDenNnRXh6Wl9GM3M2SlFnVVRGQmYwX2hrS2tF?oc=5
-- **Source:** Ísland.is
-- **Published:** 2026-10-22T10:13:12+00:00
-
-## Iceland boss tells Labour: I didn’t join the benefits party - The Telegraph
-
-- **URL:** https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQUdZaXppSEZjUy1Zdko3N2dkUmNaLXppSFFJalQzYjB1N3RKSURxTllwM0NsQkpPMUFra3d5Zk42Z2xyNVRnSGRMdjdNWm5uZWcyNDFYWDJkYnNmdV84ODFIdDBKWWpTREVsbHpmaGVEZkJOV2RhUTU3QjZ5YTg0VTY0MjNQc1EwQ0MxNXgxVUlsTlAwS3NVNk43RXBjSVVfZFpiUFQ5MHBydw?oc=5
-- **Source:** The Telegraph
-- **Published:** 2026-10-22T10:05:00+00:00
-
-## Aberdeen–Seyðisfjörður Ferry Link Enters Early Talks - Iceland Review
-
-- **URL:** https://news.google.com/rss/articles/CBMigAFBVV95cUxPY0p3S0VQVGJBYVhRc3JaVk5zZjI4UXhOd3hoOVdzWU5Pb0g2YjFoc3BPY2xWREJhUlVXOHF2ZU4yaGE2SzJXQ1dScjg5QWVBdTk1dEt2QmdjT1ljMDNfcm5rbDhCMWRoQjVtaHJRalVET3JZUXl0YXJLclNvUHUyaA?oc=5
-- **Source:** Iceland Review
-- **Published:** 2026-10-22T10:00:45+00:00
-
-## Youth unemployment on the rise - Iceland Monitor
-
-- **URL:** https://news.google.com/rss/articles/CBMiigFBVV95cUxQbnJCb1ZmTFpUWm9lNWFiQXlOTUlhY0N3OVJMa05VY0t2TG1qckpRVHJ4TmZNTVphanFTQk9wWmRJOEJnYlpVNDJ6Zk9IdXpJd0NNd3gwVlQybFFUTjFBVjlhRTdFSWhsUVgxRTkzZjdPUEpJc1ZURXFiT1lSNktaOHFNcER0NFl1aVE?oc=5
-- **Source:** Iceland Monitor
-- **Published:** 2026-10-22T10:00:00+00:00
