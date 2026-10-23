@@ -1,8 +1,38 @@
 # NewsWatch — fusion energy News
 
-_Last updated: 2026-10-23T09:09:15.725084+00:00 · 50 articles_
+_Last updated: 2026-10-23T14:42:27.006859+00:00 · 50 articles_
 
 ---
+
+## US nuclear fusion push tackles high-voltage limits in semiconductors - Interesting Engineering
+
+- **URL:** https://news.google.com/rss/articles/CBMihwFBVV95cUxNTXVXcDFkNUFDelozQlNmUHNnOVRoRHRoMDIwQ1haMDBmaERyM3JSNUs1NWY3cmZhNTRrcjdCdmlQN1g2TUFJYnZneVp5SC1tZGlULVVqNlhtb0V4MC1BT1NSQTJDVmowcHlqeFRibXE1V3lIVWNhVDRvWDBFeU53cHdJSmlybTQ?oc=5
+- **Source:** Interesting Engineering
+- **Published:** 2026-10-23T14:21:00+00:00
+
+## US DOE Approves Safety Analysis For Last Energy’s Pilot Fusion Reactor - NucNet
+
+- **URL:** https://news.google.com/rss/articles/CBMirAFBVV95cUxObmFlcHl5bnZrd3RwamNMSU1XYUMzLVBtOE9ueGdQSmE2VHpheVBic0xNSnU5ZENhS1ktSzlxWHByY2JHazV0LXhVMU1ubWNHWGJZaWgyRjNKUTNmeHJySE9PYThQb2pOUGFTby0yZTUxUlFHVFlyMmFWc2xoTVBNUWRDM1pFWGhwX2JseWcwM0UtRW9ib1JSaXNsMGNEX3JQdzZfS1FNN003SXg2?oc=5
+- **Source:** NucNet
+- **Published:** 2026-10-23T13:26:40+00:00
+
+## Cambridge Heavy Industries Raises $6.2 Million to Build Mini Fusion Reactors - ESG Today
+
+- **URL:** https://news.google.com/rss/articles/CBMiowFBVV95cUxPQlV2UloyZ2JhWjdaS2l5TE1RZm1pMzNzYUVpOWJNazZlNXVfM3pJTjN3TFdfMWE0MHgwOGF1NzlDR1lFSEs5bk8tMWJnQmM5bTFKSXZqWlh5bnZBcVhtLUpnaDJ4bjZCa05WVTFpTmRxYVdTVUE0NVQ3czYxMGJyLXdoUFgyUWdzWkVJSVhlVnhLSHBLWUNqMFdFM3ZqRUJfMkww?oc=5
+- **Source:** ESG Today
+- **Published:** 2026-10-23T12:23:39+00:00
+
+## Israel weighs $644 million investment to compete in global fusion race - The Arab Weekly
+
+- **URL:** https://news.google.com/rss/articles/CBMikwFBVV95cUxPOUFrUlVLWkxjUWhHUFIzYm9RUDJ5N2NVQXVnbW1yQTVhTnRLM19QQXR2QzNKZV9OUGNpM3JqMjdPakFtbE1INHlzdnJEczNqRU5KY3RlOTFkYU1zWWFSdXlHM2tzUGpxSHBiU2xhZWpPN1c3ZjNSdWRjVnVvUndWOUI0dTFWTFhxRUs1T1VrVHhWaDg?oc=5
+- **Source:** The Arab Weekly
+- **Published:** 2026-10-23T11:03:01+00:00
+
+## U.S. Commerce Department to Put 520 Billion Won Into Power Semiconductor, Critical Materials R&D, Taking Equity Stakes - BigGo Finance
+
+- **URL:** https://news.google.com/rss/articles/CBMidkFVX3lxTE92ek5HcXV2WG5IREx6cGJ6NTl0SndfOG5zUzBUTzRSRDh3UlVwQjVVOUZhYmNIU2RJRm5hRVB0NGxEV05KbVBKa3V1eEZaMnpSTFdQVmhNYVZDc2s1NldiMGlPZzZVbE9ybEFTZEZTaXNKWWlDSnc?oc=5
+- **Source:** BigGo Finance
+- **Published:** 2026-10-23T09:25:00+00:00
 
 ## U.S. Commits $389 Million to Power Chips, Key Materials - Seoul Economic Daily
 
@@ -273,33 +303,3 @@ _Last updated: 2026-10-23T09:09:15.725084+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMiWEFVX3lxTFBpa2NVQi1lM09BbDZIVkV5bm1PUGJvaGM4ZTN5VzZnbkFUclNtd3p2TzVrZFFuQUVMaXNYZlVDdkdTSzl5aFB6eFdBTGMxZ2UxVmQxclk4czQ?oc=5
 - **Source:** Cryptonews.net
 - **Published:** 2026-10-22T11:25:10+00:00
-
-## New superconducting chip aims to help tame fusion plasma - Scientific American
-
-- **URL:** https://news.google.com/rss/articles/CBMiogFBVV95cUxNT3c2Zl9OYVBrMVNDVm44TDZLNHEwbWc0WG5BelcwR01RQ3AyS0ZSTnJ5Z2lRakFHbDQxcVJVNHFRUzBQTTI2MGhBY1hZZ2t0TmtuTUdaVmFobm9ZSmFMTWZ0d2ZuRWpYa0NtZDdlWENkQ015RWJVdWVEOXhCR0VTVmZkeXdnb3FMb1lSSU5IcG1JQ3VMd2I0eXlSTjRfSVpoN3c?oc=5
-- **Source:** Scientific American
-- **Published:** 2026-10-22T11:15:00+00:00
-
-## American Fusion outlines data center proposals and facility plans - StreetInsider
-
-- **URL:** https://news.google.com/rss/articles/CBMiwgFBVV95cUxPa0ZhaWVlYndTYmNqQkxrSHJoRUc5LVdxN1BSaFRha0ZOZkZxTi14SEY0aE5Ta0MxU01HaDh0RGV6cGRrQXlnUWhqRFZxWFEteEVGYjQ3WExIOHByTGRQTllTNGJzSHE0WHJ0S2ZfQ3VXeTl6aHJWOWRzT3B5dDVUdjdKWmJHazAwTjZkOWNCRUUyQS1FN1dfVkVPcm1rNHBkU1BPcU9xTDBTajFrVWJFUVZhaVRqZWJVbVFVc3k1ZWI3QQ?oc=5
-- **Source:** StreetInsider
-- **Published:** 2026-10-22T10:00:01+00:00
-
-## American Fusion advances Texatron™ fusion tech with new Texas data center proposals and research campus plans - Pluang
-
-- **URL:** https://news.google.com/rss/articles/CBMisgFBVV95cUxOMVQ4ZnExMjFSMnd0NFlnek1pXy11cVVweXg5MElQTTl3UFVBZk94MHRKVmtwX195MkZvMDlxMncwNzVnZmtCMS1yVWdEWThyX2FOTDhXS0ljSkJjM2ZRal92aVNUejVpdktKY2M0VUZ4Yk5KUElBXzVYZVpZS0h3ak1qdmR4VG9rd3FDSC1PQVVOcWxqcmNNR1lvZ19za3hoWWpNb3cxdnE0T3NEeERQY0dR?oc=5
-- **Source:** Pluang
-- **Published:** 2026-10-22T09:43:44+00:00
-
-## LTi Vessco partners with industry leaders to advance thermal shield technology for UK fusion programme - Z News Service
-
-- **URL:** https://news.google.com/rss/articles/CBMi4wFBVV95cUxNYTVGcmw3SG9xUlZKTG15N1h2T3o0elAwTmg3LVZwS1JBQk5wbG5FWUxlUEt6Uk5fWmY3MEpSRFMtQnRKd1N3bTJtMndhc3NoZmVJcFNKVjZKTzVHUzVqZzRPTkloOFBzRW92LUwzZWNWV2VKNndUZG5XUHJlY1RLZjVZSUtUbVZCajFHZHFGTmphTERNWkJqZkFxMXVJMExiTDU1ZEh0aG9UdmR3US1Pc3YwSVZBYllCMjRveUgwSjZWMHdIemJzal8zdWRhbmFGcFppMVRBdjBkcENiQVduOE51cw?oc=5
-- **Source:** Z News Service
-- **Published:** 2026-10-22T09:42:26+00:00
-
-## A new research facility has its occupancy permit; American Fusion expects to move in by Nov. 1. - Stock Titan
-
-- **URL:** https://news.google.com/rss/articles/CBMivwFBVV95cUxPelNYOFk0LWdjc2dCUkNBZ3RIc19iOVZheW9xZE9CVnBGM3BlSks2REVZSjVEVlVHcUg0Wlhtclh5V3d5YmZ0cE5zRWdibHk4YTdkNGZFVmJNMWVteTd5TEk0UjZjWnRJZ3lkbG1LWGd6cjZOaDdoZjRpbkR3cWZ1OXdTbWxoYXMyNi1KbS1RNkhXZVFjcERLMG9ScXZ4ckhDbXN4SnZ4SkZURi1KVVJmS1g5cnR3MmRjcjVGZ2pOZw?oc=5
-- **Source:** Stock Titan
-- **Published:** 2026-10-22T09:30:00+00:00

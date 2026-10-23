@@ -1,8 +1,50 @@
 # NewsWatch — Apple News
 
-_Last updated: 2026-10-23T09:09:14.163737+00:00 · 50 articles_
+_Last updated: 2026-10-23T14:42:25.030313+00:00 · 50 articles_
 
 ---
+
+## Apple Win Upheld in Copyright Suit Over ‘Servant’ Series - Metropolitan News-Enterprise
+
+- **URL:** https://news.google.com/rss/articles/CBMicEFVX3lxTE50b1N3Z3hDRkFPQVVnTGNBQ1RVX1VEZVVXelNjQ09xeWpXNEdNTkxsUFlCYzh3VFVHcDEtU3libWlGSHVBZDdkUmFUZFJqckNXaF9VTzFnbDF3TDNNSS1JYVNpeTJ2QnVIOHhDd0RlVmo?oc=5
+- **Source:** Metropolitan News-Enterprise
+- **Published:** 2026-10-23T13:59:05+00:00
+
+## Apple in focus as Wedbush sees 'strong' demand for iPhone Duo (AAPL:NASDAQ) - Seeking Alpha
+
+- **URL:** https://news.google.com/rss/articles/CBMingFBVV95cUxQQTluNzctU0h1eHNIUEl6eHNLdnBRSVRuTk5nMlpLSldGVk9hUXVReEN1TThXOEN5LWdqUnBtWWR0Q0V6QXFvbnl1VXdKSkhpQWthc3RReXJnTkRpWmZEYm02YTJqXzFzMmpPRTJnS3pLa2prLUdvLTVTdnBRYTBReDRXLXNRSUJoMWFISU5wclR5ZXN4Y3pSUXhJSkZZdw?oc=5
+- **Source:** Seeking Alpha
+- **Published:** 2026-10-23T11:55:52+00:00
+
+## Apple Inc Estimates – NASDAQ:AAPL - TradingView
+
+- **URL:** https://news.google.com/rss/articles/CBMieEFVX3lxTE1XYk5aZlh2QURIOGRScGtHT2JwUjNIRHdoUFIxaEFrbVpPWTdkbFJMREpXeEFKMlVaYXoxRElMaGZTc0RiU2VfMk9peDBSZWVwYl8yVzBlVzJQM2h0VjBhQTN1SzNDeUpQaXBTMVFCRjJMU1BiMHE4dA?oc=5
+- **Source:** TradingView
+- **Published:** 2026-10-23T11:11:43+00:00
+
+## Invesco NASDAQ 100 ETF (QQQM) Adds NVIDIA and Apple on Wednesday - Yahoo Finance
+
+- **URL:** https://news.google.com/rss/articles/CBMilwFBVV95cUxQZWtwbXRjTXdkU0ZIcXJ5WnVscUNaaXJPZ3Zlb3c3OWdtWHBhVEg2aDhiVDJCOUpuNkFrSGdtQnd0ckJ2V2o5UTZuQkFCSVlXWS1CTmZrRVZ2WXlxS1JNbkgtMmYyeDlQS19NYWRtclc5RXY0RUQzWU9tOHc5YjJHdzZjVzRjUU50Wi1lUEgzSC0tRlM4T09V?oc=5
+- **Source:** Yahoo Finance
+- **Published:** 2026-10-23T11:05:12+00:00
+
+## Apple’s iPhone Duo Ushers in a New Era for Smartphones - Bloomberg.com
+
+- **URL:** https://news.google.com/rss/articles/CBMiqgFBVV95cUxPN0ppYXpKOV9teUFsWmRfSHl0V2hSaUx3SkVDUkptR2M3Qzc0dU9kdXBaelVaRGVBZG1EdnZlYVc1X0JFTU9KTU9JMGRPcjVqQWtDbnhnNG95Q2trTHNVeHFkenBhX0JVbGNzUjgtT0wzUTJvbC1ielV1LW9zSU9TajhCTjg1TTR4enotVXpyTlh3eVdBM0l0SmJPUG4yUng3QXlPbWNoVENJUQ?oc=5
+- **Source:** Bloomberg.com
+- **Published:** 2026-10-23T11:02:01+00:00
+
+## People line up outside Center City Apple store for new foldable iPhone Duo - NBC10 Philadelphia
+
+- **URL:** https://news.google.com/rss/articles/CBMixAFBVV95cUxOMEpBVEFXNlR4Skx5UG1NVlpMYUxHdXdaQlFwb0JjX25scTE1QUNtSjRQYUVILVB3QzVTLWI1YUlPWGkta1BHMi1sNkFZTHV5aFFLdU9Id0pTY0gwTVBLempBOWdhWWpINndYdTJEd2lfaHRLQURrdVNmS0xDSGh5aEppbTdqSkk2ZWFaTEh2Q1hqUjdITE9OMEhIa1lVNzFDbHF4ZHNqa2ZHUFFBdmQ5bkZTMVp4NWZGU1dXdDhuaFlFbmZI0gHMAUFVX3lxTFBYZTk3ZjE3NUlsS0dLcHhuYUdOeEJlN2JnNVNtS1FaQ21XaU1sOHBJTUs3SGFMODZCcVltanVxWlNya0M2QUJyemdydmE1NERCTnYyR2J1Qm5GdHg1WVAyMktQOHhxTGd1Zm1VdUpadmt6MlJuSFVLOXR1blpXc2NodHNuY0VFNGRZSzhqa2w2ajBWQTZpZEpyUzNvejVxeW0zemNRN1U4aV9kd1hjVGVLUDk1LWkwSklQb2IwQzFOQ3lhNVVEUXk3ck5oTA?oc=5
+- **Source:** NBC10 Philadelphia
+- **Published:** 2026-10-23T10:56:46+00:00
+
+## Apple (NASDAQ:AAPL) shares in focus as bluechip stocks themes shift today - Kalkine Media
+
+- **URL:** https://news.google.com/rss/articles/CBMitwFBVV95cUxPb3N4VjBONk9OQ1BSc2VvWk1YbjZnd1ZMSTVwS3dDSklIZ0drSVpfLXZDQTQyUzd1ZTlYcHRvTUVoNC1Sa2VORlZOZDRUWENYN1BDaUpCVXRSMmFuWTI1Znc4NTdjSEdqU083LWZINFZWM05WMjhyVE5DVnp1WjU2Mkp1YXVIdTg0VE0yZmlfQU1uQ1ZfSEhKUG85S3NVMEIxcU1HMkhpY3RvbkZteEtwMEpabGFQR1U?oc=5
+- **Source:** Kalkine Media
+- **Published:** 2026-10-23T10:06:00+00:00
 
 ## Apple Inc. $AAPL Stock: Verus Wealth Management LLC Increases Position - MarketBeat
 
@@ -261,45 +303,3 @@ _Last updated: 2026-10-23T09:09:14.163737+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMidkFVX3lxTE1YQ3o2dXpmZUx2RHRiUUFYQk1xUEVRZlowc3hwV2YtQW9BUFFBUmtXOENIdUN1aEtTY1JKTENTYmJwQU9YOEZ5SHQ4OHZwRVlBb1AxTFZBZzhObENhanNnM0ZiV0NUN29FTU1rUVM4X3ViYlpDeHc?oc=5
 - **Source:** AndroidPure
 - **Published:** 2026-10-22T07:01:26+00:00
-
-## Apple (NASDAQ:AAPL) stock surges to record high as new iPhone demand soars today - Kalkine Media
-
-- **URL:** https://news.google.com/rss/articles/CBMivgFBVV95cUxQcFBBZ2ZVRTRjS0V6OWlhbzd1MFQ3eWNOOEV3Vnc5bHFobl8xM3ZLUkR5MXJwQnZkbm5hMWpUZURQUm5rTVl6NVpvYVdBSXVqXzl6b1U1Q0RzMFhvN29tUlN3RUstbnlJZG95dk5IMmNyNERud0NMVFVvWjVSMHh5M3hHOEhFd0dKWW5MUE1tYTFzWkZlang0cjhlTl9Fd2hGeEhJLUUwaTBQYUxCUjFCbEVpaDZBYmxhQlBaM1dB?oc=5
-- **Source:** Kalkine Media
-- **Published:** 2026-10-22T06:46:00+00:00
-
-## Apple, OpenAI agree to proposed safeguards for confidential information in legal dispute - ETLegalWorld.com
-
-- **URL:** https://news.google.com/rss/articles/CBMi8AFBVV95cUxOQ25xVHBUOS1zczU1bUFmNFlsZ19CemZMV1F3ZllQRExUUGpNVG0tb2tjRkw5d0pkUWF4Wkk2anQzQUNUUEl3eVZiZEVDVE1zVHJSSGxScmF4RjB0UDE1Qy1TdVNGcUVCUFpMVXVCaThDTjhhUVlaWGNiZ1FtUkRxV192Sm0yM2c0UWtGX2N1eE9TNE8zbC1LSlRXS1IyUTZkVGZ5Z3RaNVdMV3ZCaUwyanpFVHVsZ2NQVEdSRXEzYnJvMDRLX1VQWjNFcURSUXF3QWp1VDdIUzY1bGxQclVaenFxREJQRGYyRmRNR3A3SE7SAfYBQVVfeXFMTzlsNVQtQmh6RDlJdDc4RWpZN0l2RHNGRWFPcTdfZklzWU5NUkZybGlJeUZLY2tRZGQxX001S3NzTVdjbmEydXdNd2NiQjJNZXpxc1VremNvbkw5YkcwVk9sdjJKdE1qSEViWWotUkVObE5xVGxuZlBIbWxqcUdCcmJOOS14Vnc4N2FtM1gtdkVKTGpkaUo1TUNaZWxhTDBkdzNDdmdkclBUT0psV3hFbzhXLU1yT2pFb2gtZ1VrN3RwTnpDRjZsNzYwN0tOLWx1R1cxNi1pNDVVUHUwZDdLQkhWNFpwNUFyem43ZUtueGFVWFhTUmJR?oc=5
-- **Source:** ETLegalWorld.com
-- **Published:** 2026-10-22T05:48:30+00:00
-
-## Order the iPhone Duo and wait three months for delivery... A sign of a hit or a supply crunch? - 파이낸셜뉴스
-
-- **URL:** https://news.google.com/rss/articles/CBMiWEFVX3lxTE9XUHZEd1dSWjFrVDFEaXVxV0NOcGR3MmtwYVJsb09ZejlNUXNYNEswS0lxV2t5aUhmT1dwSHVnVzF4U080Q2ROSDFXV3pnLXlKa3JvdTU1SUs?oc=5
-- **Source:** 파이낸셜뉴스
-- **Published:** 2026-10-22T05:48:09+00:00
-
-## Meta Platforms, Inc. (META) stock price, news, quote and history - Yahoo Finance UK
-
-- **URL:** https://news.google.com/rss/articles/CBMiUkFVX3lxTFB4R1puQ0Z4d0VwYXkyb1Z2LXQteDFfUE5Vd2h6ZnJ5d3UyZ1F1Vm1Ib3ZEWmZXQUJUeklBQVdwNkhBaERNeGlxQ05tRkI2VXNLU1E?oc=5
-- **Source:** Yahoo Finance UK
-- **Published:** 2026-10-22T04:49:36+00:00
-
-## The Magnificent 7 Are Splitting Apart. Here's Who's Winning - TradingView
-
-- **URL:** https://news.google.com/rss/articles/CBMiugFBVV95cUxOeHlzVHVtZWJjZXdqUHNfWS1LRTlmZnBidHhhT3B0RkdpR0M1VnVQazRUMlpudFFtSk9MeDZxcnpYN0NnWjdjU3JlN3lHblNyLWdpTEZ5X1d6dG9kRjZma1BBbE1yRWlNV2pVbnMtbzlSeGpDZ3FxVnV2anpCYVJjS1c1ZE9uNzlrQUFUUUV0WXQzRHU1VW0zNmEwNG1yeE5fNU9kY1VQWXlUc0NxSmp2M1RBWk1XeFhBRlE?oc=5
-- **Source:** TradingView
-- **Published:** 2026-10-21T22:13:15+00:00
-
-## Apple shares hit new all-time closing high - MacDailyNews
-
-- **URL:** https://news.google.com/rss/articles/CBMiigFBVV95cUxPTmdWVU5RTGtZVEtTTERfMWlCUjB5UzBqb0l0LU9abk0tNHVkNTRZd0VYTzR6VU94Q2otRTRxLXVMSi1mbzlCdEkzd2RNNmt0Z0ExRFVLNWVPQzJHUnc5R0xDUVN6X2ZTX2FUc05YSXVwNjllOVVFTl9wTGExUkxSdUlyOFJudzJsRGfSAY8BQVVfeXFMTjJhQnEtM1k2Ykc0VFNQSFlmYlNNVGtZVFhta0MyVms1QmtfUHRJNTRKUm5UcjZFRkdrNEdFT1E4eGRadUpXdm5IOHREcTlQZ25TRjJwREFLQWFvRGZNSWdIcks1dmdhb2FZZnBMSU1vWXhxSDIxY1c4dV8tVW9HNlQwUzVuV21uUTZfb2Nwd3c?oc=5
-- **Source:** MacDailyNews
-- **Published:** 2026-10-21T21:00:56+00:00
-
-## Kazakhstan’s AIFC Regulator Turns to Apple and Google to Enforce Coinbase, HTX Injunctions - Yahoo Finance
-
-- **URL:** https://news.google.com/rss/articles/CBMipAFBVV95cUxPOGtORG9lQVJUcDNDMkxsaXhUTWpUODZxTVd1QXkwdncxSU9MSVRNMHZfZ1hOekV1X05lXzJuR1JIZGRYWG55S3g5dGNfdUFDeEJuNnlaeG52S0poTERYZ1R1MUlsZ21qWGVxUXg1c1hhUVB5QzJ0N3VCb1NnZmZSNVFNUktieWxCSTMweUNTNmJBVlZweE5zS3JKdk1za1hGV0VzOA?oc=5
-- **Source:** Yahoo Finance
-- **Published:** 2026-10-21T20:42:00+00:00
