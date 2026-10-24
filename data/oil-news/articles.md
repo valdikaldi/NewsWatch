@@ -1,8 +1,104 @@
 # NewsWatch — Oil News
 
-_Last updated: 2026-10-24T13:51:55.692631+00:00 · 50 articles_
+_Last updated: 2026-10-24T17:14:30.247691+00:00 · 50 articles_
 
 ---
+
+## Reports of Explosion, Possible Damage to Giant Oil Tanker in Strait of Hormuz - WANA News Agency
+
+- **URL:** https://news.google.com/rss/articles/CBMinAFBVV95cUxNY2tka2pPNG9yLVRCR1RtNjBFTG1DT204enpnZkY4YXZHTXJqX3NlV1p2M2dKcGpLc0ZCbWYwT2VqclZDUGlzTkJoNjZnQWwwRTYtMVhDZ2w5WXpWeFk4NXNkSk9yQktTR1pVY2F3U01QMFc2R0phZjc0amIxeUxrRENncUR3ZE5GbE5aVkg5aXVzMjRUcGZLN3ljZFE?oc=5
+- **Source:** WANA News Agency
+- **Published:** 2026-10-24T16:48:13+00:00
+
+## Oil Hits Six-Month High as US Stocks Decline - WANA News Agency
+
+- **URL:** https://news.google.com/rss/articles/CBMickFVX3lxTE5WMTZiYkR6VkZDaVczc2dHTlAzY0p6U0lYaHVkQ3dTNDFRUTgyQm9aOG5JS21PWldwRlc2MEFqZHBNSURuWVd6RXR3U2ZQOTQ4X2huSUlBMmtCdXhNV0wza3pWLVFKc0psejNudEVRY2dWZw?oc=5
+- **Source:** WANA News Agency
+- **Published:** 2026-10-24T16:38:10+00:00
+
+## Venezuela Oil Production Hits 1.25 Million Barrels Daily in Major Recovery - teleSUR English
+
+- **URL:** https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAxZDQxdHQwa2hPeXFTTGxNT3FLYXNHaGVOb2RBX2FDV2tIY21tMUNnVmxvUTNNVkJhakxnbmNRcXY0UGxMZnRKd3VvS0w1N1VBMGxKSVpWOTlZRExPWUltRFFvaDNNdzA?oc=5
+- **Source:** teleSUR English
+- **Published:** 2026-10-24T16:33:07+00:00
+
+## New facility will connect Permian gas to Gulf Coast storage - Midland Reporter-Telegram
+
+- **URL:** https://news.google.com/rss/articles/CBMingFBVV95cUxOTmlKeldGQ2JVa2x2LTV4SzE0RnhRbi03Rm5hWjFTQVlMMnRMRHg2cFlpTmZFcmZuZnBBM0thbHZWdlg5dDBTNWJzTUJhUEV2N3FaUkpJSVZJRUlQMTgyaV9EMnMxOGhDLXhHdlU0LWhOSkRVN254dWhJTFhTTE9aVzIxdjEyUkdCLVJRQmg2Rm9fMC02U3d4aUlYcFBpUQ?oc=5
+- **Source:** Midland Reporter-Telegram
+- **Published:** 2026-10-24T16:03:24+00:00
+
+## Well Done Foundation Completes Plugging 15 Orphan Conventional Oil & Gas Wells In PA, Delivering $2.25 Million In Value To Taxpayers - PA Environment Digest Blog
+
+- **URL:** https://news.google.com/rss/articles/CBMilgFBVV95cUxQdTFOR3hhR3d4ZTFmRm4tdnlhSzluX2lwd3NzUXhfMVhGQmJaTmh1U0hEc2xNeFlBLXdCOWxpLXVGZDdDZTdNbWtqd0dsVnVSNkoyQV9VMV96RkJGdUpLMEJQZ0RFbDJrNkM1XzZ6NnY2eHdjeW1NTW12R2NkcldPWDAyTXVlMGowaEoyeDNpNTR1RGVFbmc?oc=5
+- **Source:** PA Environment Digest Blog
+- **Published:** 2026-10-24T15:22:52+00:00
+
+## Venezuela’s oil production reaches highest level in recent years - AzerNews
+
+- **URL:** https://news.google.com/rss/articles/CBMiVEFVX3lxTE1vZk1CTDU3eTVQYXVGazNfUVVYd2tGaHExOV83MU5semdLVjFqVEwzYnVKNjNWMTZkUERtYzdJcHM5eS11RlpINW9fcWpaeTJBS1hQbg?oc=5
+- **Source:** AzerNews
+- **Published:** 2026-10-24T15:21:00+00:00
+
+## Oil well leak near Des Allemands contained as leak continues - WBRZ
+
+- **URL:** https://news.google.com/rss/articles/CBMijwFBVV95cUxOZWd0c2lBZ015Y2F5NGFsd1o0X0Nzdk1RVzdfZVEyckdHQXpGT1ZOYS1sOENpU2dQbXYzWFp3M2k1blgwZV9YT2V0NDExeGJiNzc1WVF6a1NjRHZhSGk0X00zUk55ajhEQWpiVU9FX09ma2FyQnBpaF9IcXUyd1Y5Y3M3RnBXYl9VeFRQSDRIVQ?oc=5
+- **Source:** WBRZ
+- **Published:** 2026-10-24T15:20:46+00:00
+
+## Global crude oil prices hit six-month high on Middle East conflict, fears of US strikes on Iran - New Age BD
+
+- **URL:** https://news.google.com/rss/articles/CBMi3AFBVV95cUxPS0JNQmF4amNhbzZQNTY0V1ZtYXcySE1sZFZmbi0tbl9NTVJzSWpYWHdTTTBvZEFKbUdvQkozemJHXy1yS202bktaLXNrLXk5eHVCMmczSFFvWkl4THhEWjB0UTJ5NXRpLVU1cmNvVmExVEl4YWNBVWZWcVZEOVgzRnhPRnJYSWxTQTlzRnhKaGZ5MENoOFNZRzl5UlAwNENSU1AtNC10ckRmMWRNNHFVR0FHWDJrX3ZobVJpak85WnZ2VnBFNnBVV1ZHV2FtTG41aDNTRk8zRG5LNXdJ?oc=5
+- **Source:** New Age BD
+- **Published:** 2026-10-24T15:08:00+00:00
+
+## Heating oil customers see spike in prices this year - Spectrum News
+
+- **URL:** https://news.google.com/rss/articles/CBMijgFBVV95cUxNTnFhVXVRVGdieTd5Qjg0dlVHaVdVajhTU1dDcmNxLU9IUl8xU1FNZEtzdHF3TW9vLTc5QUE0eEM4enFMbjh5TG9vVEdUUkhXa25fVEsyMlZjQXdFQ0U3S1JWWFVFNmtrOWpyUnZXUWV5UUJuTE9xa1BEeWhOS0tzLTRqWW9UM1hSLXplcHR3?oc=5
+- **Source:** Spectrum News
+- **Published:** 2026-10-24T15:00:00+00:00
+
+## High Temperatures, Water Stress Lead to Poor Olive Harvest in Chile - Olive Oil Times
+
+- **URL:** https://news.google.com/rss/articles/CBMitAFBVV95cUxPd2Y4TV9WWXNienNRcHA4WGRJSWhhbVhydk13d0pkTnBmUUpWLTBEMF92eDB5ZHRZaFExOWxKaVdYcUN2N05VeXdNOWRVTkdWQmJsX0xrQ3lRVF9OQVFrb3ZNQU9Ycjgyc1RYaHhEWTdlRVowSUh4MUktbHIzZlEwc0p6bmhyU0lBVkFDWjZSSi1wc1RtVVNJb0xJRGpVZmo4RGs1bGRrRmNoTDB1U1pnYUhEaF8?oc=5
+- **Source:** Olive Oil Times
+- **Published:** 2026-10-24T14:56:13+00:00
+
+## Is China driving up oil prices? - Robin J Brooks | Substack
+
+- **URL:** https://news.google.com/rss/articles/CBMiekFVX3lxTFBHa3JhT2pEWHpXLVVrOEFuM0dKWEZobVRCTXJ4cXZiU1NhX3kwdHpiaG9HT1lQNlJsVlhMTHotU3N3ZTNkdXNEdG5GQlNiYU1BdzcybFFqQ2RCdzd2MXZqdjNuQk95T0dOaGZueVA5VzhfYnhWeXZPeEx3?oc=5
+- **Source:** Robin J Brooks | Substack
+- **Published:** 2026-10-24T14:45:02+00:00
+
+## Scottish Greens call on Swinney to stop 'swithering' on oil and gas - BBC
+
+- **URL:** https://news.google.com/rss/articles/CBMiW0FVX3lxTE9NbzJibm5XN3d0UE04NWlLdG9BYnF0a3N6Q3FSNU9JWnhLWGpXdU43RS1JejBrZU5JaUIta182Y2lXSzVVTjdZYkZ3Nmg4VF92c0NacWVWaFNHV28?oc=5
+- **Source:** BBC
+- **Published:** 2026-10-24T14:35:05+00:00
+
+## Trump’s War on Iran Has Broken the Oil Market - CleanTechnica
+
+- **URL:** https://news.google.com/rss/articles/CBMiigFBVV95cUxNc2FHOUtteVFFQzA0YVgwQ0xqcnRjVjktRWZFeml4djJyUzUwWVZvcmJtM0lnQ0lSVDlES1h4U3RNcEhNNkJTeGNpUG9rOGM2Nk1Mc2pEazlRSlVydktrbkREN0wzYjJzMTV2dFk2SzVuWm5QWGNObEloZERLSUhMeWt6Mi1LeThvd1E?oc=5
+- **Source:** CleanTechnica
+- **Published:** 2026-10-24T14:21:46+00:00
+
+## Turner Valley Oil & Gas, Inc. Estimates – OTC:TVOG - TradingView
+
+- **URL:** https://news.google.com/rss/articles/CBMidEFVX3lxTFBVWnByVHE2U0tJdlhjUnlCZEdRaUE0WXZtTlQ5eXhGc2RkRExMQlBSQW1WbDRHUENIUEJPaE9BN1dzUmZ2VWYxRkdaUmZYdXBlTVI1ZkFYM1o3TGoyUVExTTVXM3F5RkRYa1Y4SE5GZUl2Tmpr?oc=5
+- **Source:** TradingView
+- **Published:** 2026-10-24T14:11:29+00:00
+
+## Iran’s oil revenues exceed $1.5 billion in month - AzerNews
+
+- **URL:** https://news.google.com/rss/articles/CBMiVEFVX3lxTFBZOFAzdmVLamZETUxWM2NPVDQ1MDZHejZsTFJsM1BGbGtEMkFCOUIzcjNoSmp0azMxSFdDemM0R19uLW94NTNoZUVvSWlVSnFtbGVMVw?oc=5
+- **Source:** AzerNews
+- **Published:** 2026-10-24T14:06:00+00:00
+
+## "US objective is no more oil, nuclear issues, its total destruction of Iran": Foreign Affairs Expert Waiel Awwad - TradingView
+
+- **URL:** https://news.google.com/rss/articles/CBMi9wFBVV95cUxQZGF1VHNoU1U4eXl2RVFNc2FhZ0hCakw1V1BZUXp4dXJTTjc1U1Vpem5PNldLMTVISTNzRGlEWjdlQ2pkUk96dU9Nbm51NHBZYm9sMVllZkVENTlKYVZ2ZFlweVE5Y2Zrd2VCWktPaTJ6MDBvM3YydkZhdWZReTRNN1FCTGVhcl81eWJKQjFqeUp1WVRXdUhIdXpBYlE1SjRLbUozMmxWMGZHdUdIZkp4VlFfdUF5b3pOcmFJYnM4TGozWEZLVkd3bFg5c3pCM1ZWcGNOa3ExRS05Y1JQbmsxWU9Cel9tUGxCUzNFQ1hXR1VVZUNvY3pn?oc=5
+- **Source:** TradingView
+- **Published:** 2026-10-24T13:54:46+00:00
 
 ## APTOPIX Emirates Oil Spill - Post Register
 
@@ -207,99 +303,3 @@ _Last updated: 2026-10-24T13:51:55.692631+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMiywFBVV95cUxORUItR05OSU1QNjA3dzU1SXJ3N2ZhRldQeF8xaVNOVXlRVDhaZnU4TUFjYnowU0RhSkR5VTNvck5LdF9pU2R4T3lzQ2NDY3Z6dXBpTFR4bmtuUlZBbVFZZi1JVGJZRU1JZGh3emVzTEhMbE9qVzFIUFBFYzNzbG9sQ1BjQXlsSThiY1ZMVkk5REo5MWxWbUJQZWphVnZrVW5IWk5rcnVRNmEzZkhqbjhUVzUwSlRudEJfWHRyMnBYUnFPSEtwOE1ia0psNA?oc=5
 - **Source:** WSJ
 - **Published:** 2026-10-24T07:30:47+00:00
-
-## 3 Oil Stocks With Earnings Growth Over 5% - Yahoo Finance
-
-- **URL:** https://news.google.com/rss/articles/CBMijgFBVV95cUxPSDA0TDNmVmtaRVBWVldKYk5HQXM0dVpuNlkyeDJlLUdUMTJpSWRaRzV0ZkxBLS1tU1dNMkN0SnRYSEdHYXRBdWVvOGRvYWpldldMaEFoaWQ3WVJlQlFUZkdaLU1OTlNYZGRZS0pWY3JUdWtfcmtJT0U0RHZ5UnpkT1Bqd2drLVZxWTJDOGx3?oc=5
-- **Source:** Yahoo Finance
-- **Published:** 2026-10-24T07:11:51+00:00
-
-## US oil rig count up for week ending Oct. 23 - Anadolu Ajansı
-
-- **URL:** https://news.google.com/rss/articles/CBMijAFBVV95cUxPTjhDRURpRTNoZW50MENiTElCWGtfc1JidFM4MUZxMWdJN1RNcDBjQmJOZXBhUkFfNXo5QlFQcVhtZm5na1JucmNNbjRUOEZONXNHR29vd2RVVGJQX3ZaZVhvbjMwcUNHZlk5OEJGYjBFNkJMOGhlcjUxZUl3X1F4UjRxYUNONjR0Yjh3aQ?oc=5
-- **Source:** Anadolu Ajansı
-- **Published:** 2026-10-24T07:09:54+00:00
-
-## US War on Iran, Day 240: Oil Hits Highest Price Since April - EA WorldView
-
-- **URL:** https://news.google.com/rss/articles/CBMif0FVX3lxTFBlYzM5dkhDcTJzLXJMWWtRcHJjcDlLM2V6TW1ub2JSeXJPNTBWYWlrLWZrTk9OR1ZrTkU5N3hMUmp2MmplVTZjYkpSXzBYMFNoUUFvZFMzSU43cUV0MkZtbUFPb1h5Z0dFOUxBOXBoVWs5QWR5TnJzcWJ3X2pPRXM?oc=5
-- **Source:** EA WorldView
-- **Published:** 2026-10-24T06:42:22+00:00
-
-## Goldman Sachs Says Refiners See 'High Probability' Of Sharp Oil Supply Drop As Houthi Attacks Escalate — Crude Oil Prices Hit 6-Month High - Stocktwits
-
-- **URL:** https://news.google.com/rss/articles/CBMiywFBVV95cUxONno2Wnc0ZUFoZVpUbkVHcm1yU0pBdHRnbE1WNzhVYXpObzVCbkJHSWtuU1lPcTFoRE9ONXpBZ3hZaEk3YU9BdGpjVXZ5OWhWNE5oeHRuYWZmV08yMVhhaTB1a0pybUFrMkQ4bXNZT0t4VG9YVmVDcjZ0Qmk5WjQ3SFVLenpuY012UVFsZVdlTnVaYksta0xycUFENHhzQ3BYNlpEWEdyMVI2WDVkTVA4Z2hCNHRGLThkSlJSckZleVlNZHp0ZHVQX1VvVQ?oc=5
-- **Source:** Stocktwits
-- **Published:** 2026-10-24T06:28:00+00:00
-
-## COMMENTARY: How Trump's energy dominance turned into hubris - Reuters
-
-- **URL:** https://news.google.com/rss/articles/CBMivwFBVV95cUxQekgyR1FuVEk3cnpGRGlzWVFSTmZPT2gteXQ0UHk2M0hiUDJ2MnFJbjIzYjdhbzZfa3pPNDlVcWJhRjVRWlVPVFlJZC1FOFE2UHBDWTNzOGlmdHR2Z1NVN1lYdFNBU2haMVRGTlUwOE1OTENUUHl2bGo2R2d4RXRTdlQ2WTRuNm9adGU4TnE4alVleS11OHNmU20tOHVYMEdPQndUa19NazhxVHlfNkdMMk5SZG5mRjAtY2kycmd5TQ?oc=5
-- **Source:** Reuters
-- **Published:** 2026-10-24T06:00:00+00:00
-
-## Gulf oil blurs lines between shadow and mainstream tankers - Arabian Gulf Business Insight | AGBI
-
-- **URL:** https://news.google.com/rss/articles/CBMingFBVV95cUxORE5VRF8zQ1dpYklodnRZaGpaOEdyTFZ0WUpoRElXcWxiNDBSOGkzclpPRHRKOFdWTG9Fa0xPb0o1LWg1VUdVME1YS0Y5Z2EwTzNDcG1OQWFmNXFlNmRkVDR2UW5KSmRuaW1tUFZ4TDNlRUdrZjAtMDUzOUlhMWRReUtkQjVpcXJrWjRSMDdVNVVRN082dVlDWThETVRaUQ?oc=5
-- **Source:** Arabian Gulf Business Insight | AGBI
-- **Published:** 2026-10-24T05:58:42+00:00
-
-## Oil Price (WTI) on Oct 27, 2026 - Robinhood
-
-- **URL:** https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRzlTVkdJV0o5eDBQZUttdVdScGxUMDdmLV9abklmOTFYRUliejZUUlpJd0dldkVka2htb3V0WUlZMndyWDFkeUdmSGQ3VTNXdGN0d29rRjhYT0lRMGZYZnNhTS0zOEg4SkpWVzVGMFlfczgwT3ZVWElmOHpmdzlxSWk2QXhrQTZxYzdSYVJqT1RwY2Q0TVpXNExvS0N4TEkxY242aWZTZDQ?oc=5
-- **Source:** Robinhood
-- **Published:** 2026-10-24T05:35:58+00:00
-
-## UAE Reports Oil Spill Reaching Umm Al Quwain Beaches After Tanker Attack Near Strait of Hormuz - NewsCord
-
-- **URL:** https://news.google.com/rss/articles/CBMi6gFBVV95cUxNdTRMRVBQeHlTR2ZfbDkzY3llb1o2N0d4bHVucVNFQmpIckdqb2xxdFVIeUh2UVdialZBTFpNWVhnUjRZQWZQOWtnYnNEMnppZDNCdUQ4dUdxVWNEeU9mRHNkU2taRXU2b0JFbHBSNkxJbXNJR3NDOEwxa2diNkJkTXF2bC1VNGdyaEc2cnBoektDa25PQ1Y5dGtCMElHbmJFU29FZkNUakRnVzVSUXNvOXZCRGtQZ3NmdUtIWFNGMHkzeE5mWkFVd0pIMHlDZFR2WFlRSG1LU0FsV290UkZQek1jTWROQUhTR0E?oc=5
-- **Source:** NewsCord
-- **Published:** 2026-10-24T05:21:59+00:00
-
-## Massive oil slick seen weeks after tanker struck off UAE’s coast - Al Jazeera
-
-- **URL:** https://news.google.com/rss/articles/CBMitgFBVV95cUxOaUI2VVdCSzZRZmJZRGtfZExMTzM1bHB6dG9pMU4zZ3M4Ml8tdzl5UkxIekxTYlZaQjUtczZJU3Q1YWlSaDZFRTZqR2dwbDEwMnE2bEZDQjhSWmlYWGNkX2hFa253R195ODZQSXNsZzNudG1reXM3WXdlSlR4LXlXTUpNU1cyWXNuczRlN2J1N1JPb2lMb01pOXpXckFBVk10RjFsMUVlNnpzbEZsOVd2RUowWXczQdIBuwFBVV95cUxQQ2hkS0w5U05aWF9Uck5zV015WldVRXRoMzZWQU1uN3JJYzFMM2ZXY0QwRHpyMGFMT2Q2VmhOQWFZZ1lVbFN3bW13M1hsbERVMnNfUWIxakVaVlItc19Dbk04eWo0V1dIQWhZWFc3S1pQdnlVSWhtaWJrdUpONVlHcmVYbTFsRDRjQjlMSEo2U0ZjbElHSHQ4c2h5bUowQ1dmRGJ0cTZuNzBOSmpocW85VXk5RXpSbmNDeVVZ?oc=5
-- **Source:** Al Jazeera
-- **Published:** 2026-10-24T05:16:24+00:00
-
-## Police respond to another used cooking oil theft at restaurant - WCVB
-
-- **URL:** https://news.google.com/rss/articles/CBMif0FVX3lxTE1NRDU3WTM2TTYyY096Q1NKNU41QkxsOFh3aTIwWkdXMnBJZTFnZjZHTmdyNkRLWXJlSVRNMG9STUpoa003YnNZblJxcTVuQXExcmRZc0l3UkVZM3BvaUNJclhvQU5rSV9Fcy1RNnptamlmS0dZQkdEbGlKMVRWcTQ?oc=5
-- **Source:** WCVB
-- **Published:** 2026-10-24T04:36:00+00:00
-
-## John Adams: Our final oil sticker shock (Opinion) - Charleston Gazette-Mail
-
-- **URL:** https://news.google.com/rss/articles/CBMi6AFBVV95cUxQMTM2aVhyM2QwSUhTcTBBcG9QUDE3aUdwV0dQTjR0VFpLNGZXLU1jcG9XZTVGTVE2aFVNb2VmU1dJcHVSeW5TWnFRSUNETzFlUDd2RDItVW1fVEp6bGJiU3BUbUpqcHgtVndLQ3IzYTcyLTJKeC1jQ0J2bEI5SnBBRmJFbEI2SV9wNkloYjBEWWZ2M0taYTVRUWNMT0RMcXdTanZ4ZkxkaE40TjZqWjdZWVhudlp6aVhUNEpoZzdiQWk0SmVJX2Q2ZzVOVWU0Rnh6dExsNU85QnlNN3M0TzBDcEIwNjZXcGZD?oc=5
-- **Source:** Charleston Gazette-Mail
-- **Published:** 2026-10-24T04:00:00+00:00
-
-## Sell-Off Widens As Oil Rallies Amid Middle East Conflict - Seeking Alpha
-
-- **URL:** https://news.google.com/rss/articles/CBMimgFBVV95cUxOTHQwNTF6XzNQSHJlUkVoUXU0Z21TR0pOTVBDbXRLZlMzeUFFRnR6b3pxdldtbC1mNVlPM2kxdVNRNFdkbTdnRWhrNXJJSmlvdVRrVjE0RHlnd0xBUURyYlZfUkdXTTNmSW50ajhwTTVXMEVqZklsTGdfdXBZdVVKRVZfdkRIVzVBQ2FaUWNTdDg1YlhPUXl6dkN3?oc=5
-- **Source:** Seeking Alpha
-- **Published:** 2026-10-24T03:59:00+00:00
-
-## Thornton wins Dirt Track World Championship; Sheppard claims Lucas Oil title - The Republic News
-
-- **URL:** https://news.google.com/rss/articles/CBMitgFBVV95cUxNTmlpREFneElKU3N1SDBBRjdmSzBwbU9jSS0zcG0zUmFGQ1A0YzNnc1hHQWgyT0huMFJHUGhNdi1zd3lJQ0J6ekoxTEJYWGRodXpNUkp5MjhkQ3dSN1RTWFRuYnNLd0ZLakw1c1FtQ1N0N1h6am9wamNxZExrSGJEbXZWUnBWdXZKSjMyYUpxaWZjTHMyTno3SlgzZktoNUp5UXBtbXhiZllwNGM3UjJYejZnRmY0UQ?oc=5
-- **Source:** The Republic News
-- **Published:** 2026-10-24T03:57:32+00:00
-
-## Oil Volatility Puts Virtu Financial Stock And Trading Platforms Back In Focus - Yahoo Finance
-
-- **URL:** https://news.google.com/rss/articles/CBMilwFBVV95cUxOVGxzTFRnMXdGVWN0NU02MlA5RGZSS2E1OEx6OEZlMXJUY1VqajZBY25ZUXV3R3FrOFFwcGt6Y2NWVlBtckc1VkZoYmJzV2dzWmZPeTE3dXU1QjhKWGJLYlR2THpXR0lRYlhrMVRlVEU1UjBwM24wNWVTLVBQeXllb3oyZENVZ2dVbG92YjVfSG1KYllBUlZZ?oc=5
-- **Source:** Yahoo Finance
-- **Published:** 2026-10-24T03:15:00+00:00
-
-## Oil well leak spills into Bayou Des Allemands in Lafourche Parish, officials say - WWLTV.com
-
-- **URL:** https://news.google.com/rss/articles/CBMi6AFBVV95cUxQdzQzZ0dWaG1xbTlSVWREaWlFZjRLaXJoMzY1WllsWXR2dmhPYVNDaE91VWN1RXlrX2dDcmJRTjZVS1Y4dkEybTBReHh0ZFRmTFY2cHI2VTZvMGlva1gydVVUOVNQMWZiOU1US0NGQ1VRbEtvTE5jUHRhU1hHaXdZV25YcExBczdINGxPTTVtY2tfRlN3M3NVWEpLblJRbXZXRGNBQjV2NEZOWGF1RkhnTXNTVnpwNDFCeWgybVo3Z0N6dUxNQjlWZnNxcE1STDM1eG10UXFqQmxZc0IzTmk5RFgzQ2tldVMx?oc=5
-- **Source:** WWLTV.com
-- **Published:** 2026-10-24T03:12:00+00:00
-
-## Crews respond to oil well leak near Des Allemands, public urged to avoid area - WBRZ
-
-- **URL:** https://news.google.com/rss/articles/CBMipgFBVV95cUxOUjVaUEFzNGdSTEFwNEFsZXR2akNTZm0wekJQakJscmJIek9oZmJIZVJaSWtubEIwNXJabFJ5UUVUSUtMYTdxMFdaNlJCdUNobFh3RkJEcVl2TWhrSlN0eGZZckd3enF0Q2FKcHc2LXRSQzhpY1V3UUZRYkdXNGN6Rzh5UUI5QjFPbm1UR2lwMHh1d3lMb1pMM0lnc29pUXU1UWZERGln?oc=5
-- **Source:** WBRZ
-- **Published:** 2026-10-24T03:08:50+00:00

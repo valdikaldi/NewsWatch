@@ -1,8 +1,80 @@
 # NewsWatch — Microsoft News
 
-_Last updated: 2026-10-24T13:51:54.079341+00:00 · 50 articles_
+_Last updated: 2026-10-24T17:14:28.709776+00:00 · 50 articles_
 
 ---
+
+## Amani Hooker & Cor'Dale Flott Interceptions | Film Review powered by Microsoft Surface - Tennessee Titans
+
+- **URL:** https://news.google.com/rss/articles/CBMivAFBVV95cUxPVXg5M2FXRE9DeEltSjd1NGxFb1NLQ1hCSjBzd3cxR25ocVV2V2hkblhta1ZfcmljT0ZpMU9VYTdvR1BVYVdOM1VrMTFmNnZMZTJTaWJQR2JDRnRJSWEzR2Fja2JFbHd2TlE3Ti1tV2h0emdBSUl2T3FLTWF2S2lKRnBjSzF3LTlJYWh3YzZ4aEdZTDR5THdQSVg3TDBrclhCbXNFLVczUnQ1SGhGOFJNTkRwQWV4Ql80eWFIQw?oc=5
+- **Source:** Tennessee Titans
+- **Published:** 2026-10-24T17:06:22+00:00
+
+## Grab Microsoft Project 2024 Professional for Windows at 95% Off - Neowin
+
+- **URL:** https://news.google.com/rss/articles/CBMimgFBVV95cUxPU3pEODdES2w4MG9GbXo2MjZxeGhOQUQyS1U0dlZkc3BIQURscmlPbXB4TmRVQVFCMi0xNFU5elVPOFpfV2tjQ3M1OHlXbW10MkhBb25yV1hDRC02Q2szSlhxd2ZLemhuLWdIYjduZExCMnl5X1ltZi1DLWM1YXhlc29iajZ0NzVnZ2MxdjBPMzZiYnVBaFB4ZzhB?oc=5
+- **Source:** Neowin
+- **Published:** 2026-10-24T17:00:33+00:00
+
+## Own a Lifetime of Microsoft Visio Professional 2024 for Just $50 Right Now - PCMag
+
+- **URL:** https://news.google.com/rss/articles/CBMiowFBVV95cUxQbWJzeVMzeTBfTS1zZEhqZndVa21HSWpXX0hmZ0QzTGJ4RXA0dnZKSndCdzB6X2FOSERzTjNRbl9NcnRTNUpKb3lOTFRxU1RYM0hqdE5RVUlSWVJhOXZJSE9MUU5lRmMwdjNadXRyc1JrLWJVQTlic3llMW9vNWtPZUpIZHJPV3JJckFQQjRSTVRvNmZ3Q0xLSFI1U1lVUlFsWXpv?oc=5
+- **Source:** PCMag
+- **Published:** 2026-10-24T17:00:10+00:00
+
+## Exit interview: Microsoft’s comms chief on CEOs, reporters, what he got wrong, and stories that stuck - GeekWire
+
+- **URL:** https://news.google.com/rss/articles/CBMixgFBVV95cUxPVjVvem1yelYxZ1JCSGx0aXUySWR6M1pRdC1GY3RoOUg5ZjBtLTc5WDlLT3lodHFUYzd0LWZNcW9ZZ00xMW5jdEdMVFJJdFZOTnVoTXdtQzhXcjhMUV9iUmdUWXBNbzVGOVVJbUlrRTR0clJjYjRwYUV6ckxlOHppY01ZQm9NclA1aEJSX0tFbkhqYkp5WmFmcmwzVDVfRE5fV2lGUDJORTVneFJGMUUyc1lDQ2NLVEFYTkJpMnFJb2N5eENQWEE?oc=5
+- **Source:** GeekWire
+- **Published:** 2026-10-24T16:58:06+00:00
+
+## Sweden's Government Offices Block ChatGPT and Claude, Keep Microsoft Copilot - Yahoo
+
+- **URL:** https://news.google.com/rss/articles/CBMiogFBVV95cUxQRlp4OE5aTFVlb21aR0dkS0xiSFd3ckZOT0VhYzR1dVlld0NhX1Q3TWZTWmVJcHJZQUhwbXZSc1dqak9odnF1UGFDRFJYR21FY1d4Mk03VjNtYXpTdmZoMGdhNFc0RWpwLXR1RWFZbmtva0tTRzdfbG45VTJHR1lFUTdKRGdWUVc1Ri10WlJXV05zV013Zl9SVnZoTy1JUGNqWHc?oc=5
+- **Source:** Yahoo
+- **Published:** 2026-10-24T16:01:03+00:00
+
+## Microsoft’s $50 Billion Gamble: Can Microsoft’s Azure Growth Justify Its Exploding AI Budget? - AOL.com
+
+- **URL:** https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMXAwRU1LQTRhSlV3SmF0NFBIWlNyTmFSY016TXJYQXpjYVVFUzZPSnB5MzMwVzlodGNwb2s3VlQ3YnFwV3d1bHRmWWlkUWZGOWZSajJNUkJMczNrN0o3cDR2ald1em0tSGlCVGstLUpjamNsRk1uTDZJNGk0alNOLW42eGk2R3F5?oc=5
+- **Source:** AOL.com
+- **Published:** 2026-10-24T15:44:52+00:00
+
+## MSFS 2024 SU7.2 beta (1.9.22.0): helicopter, camera and SDK fixes - MSFS Addons
+
+- **URL:** https://news.google.com/rss/articles/CBMi2wFBVV95cUxNbElJWkdjRkZkMGJQZFItRHE1SGtWajdtaEJTSERNMV9YMVVfZzVZWk5nU1NrUlQ3RkM4RUJ1ZjVKQ25YNUd6aGdTSDlUenE1TDQzNWhLQkVROVlJaVdMTDd3SFlMbVByOEZFLWlHX3N4Z2c5ZXR4Nkp2YVFDY0tRb3BzcHQzdkc3R3NQZWZvTThRRjA2YndaYTdyeE5DN25UWFByV3dtV3M4UEt1UTdzNlYwU001MTJQcWlzWGZRWUlsUThHNUd6TGpqN1d0UXpaZF9wRjdLeWlBeEk?oc=5
+- **Source:** MSFS Addons
+- **Published:** 2026-10-24T15:44:39+00:00
+
+## Microsoft's $50 Billion Gamble: Can Microsoft’s Azure Growth Justify Its Exploding AI Budget? - 24/7 Wall St.
+
+- **URL:** https://news.google.com/rss/articles/CBMizAFBVV95cUxQMUsyVnlVRjI5ZjFFeTQzdG55X3hyaVhqU1VKaFVjMENpZWxoMF9WQUdzRDM2VXg5T1NsTTdNalFCRGtwcG1DaThUOTc1VzlJdlpmdDk2bXBXRjRUOTNkZ1pZdEVPOHByNS1JMFRQLThsTkhscmdwVnNUbHpyellqTEdXMWZGWjZoc3Q4N2dKLVJoazU0YnJfeVhRemFtMmt0UkdqSWpud1IzV2N3SGU3Q1hOYThmRWVOd0I0UWNhTDVtR1NVbGQ1eTdhb1M?oc=5
+- **Source:** 24/7 Wall St.
+- **Published:** 2026-10-24T15:44:00+00:00
+
+## What To Do In A Doom-And-Bloom Market; 3 Titans Loom - Investor's Business Daily
+
+- **URL:** https://news.google.com/rss/articles/CBMivAFBVV95cUxOQnVjTUhHNlhCR3diSDlXVTI4c082YmNhWmRrdGJqWW9yeGxsa0ZKSFBfa1RDUVBRS202amNuT3loOXdtTzdOWUpNTjA3VjlnWVczak1rU3NjYUg0YnF6R1JlcUdVRi1NOEdya0I1ZU4xZlNzUmRKU2U1ZlJkcVRCNF90clE4QjJNRmVOOGJ4Ymp5QzdHVEp3WFgtLXYyS09KbGtvNi1ucWgtZnlJbUpmVXVyaE9fZ0pPeUJUQg?oc=5
+- **Source:** Investor's Business Daily
+- **Published:** 2026-10-24T15:30:00+00:00
+
+## Microsoft Weekly: OneDrive + Copilot event, BioWare shutdown, and more - Neowin
+
+- **URL:** https://news.google.com/rss/articles/CBMimwFBVV95cUxONGRFX2VVTVdLdk9NaFlEYWVNSVU3QkJXN192LXZkdXd4SUJSQ0dmM1JkbVZXaGJid1VKeGN4T0t1cTVNLWpqRFFNblhJTEd5OUk5RU5McWZYUE5TSklSNzk4czQyb0ZaQ3BiczJxUWMwRUVIRURQUTFLaUduZXFLelRRNll4WmdRRTJaSVJUZXJvekQ3REFWa1paQQ?oc=5
+- **Source:** Neowin
+- **Published:** 2026-10-24T15:30:00+00:00
+
+## Why McDonalds, Microsoft and Google saying no to tokenized stocks isn't a dealbreaker - CoinDesk
+
+- **URL:** https://news.google.com/rss/articles/CBMiyAFBVV95cUxNbm5pWDd4RndldEZ5NU1XRVVESnRLMmdDSUdqU3BDdUx0a29iMEFEMFY1UThtWk5VdDhXd2JMMllwd3h1M0FVZzNNZkM2NmVHUm4wd0FQMk81UDlYZksycnV5N2JIQ1hoYmNsbHlSTURFMkhyc0pSemo2MEt6R2N0amtPenJQWkNZNG1BSUhmbm1MYThvS3ZaNWJsWGtZbmlkOTQtX1Y0RElUYkNwQjlDSWo2MUp4NmJUVU14TWZJaGxpeUZCdzRyWg?oc=5
+- **Source:** CoinDesk
+- **Published:** 2026-10-24T15:00:00+00:00
+
+## Microsoft Is Winding Down The Garage After 17 Years: What It Means For Employees - NDTV Profit
+
+- **URL:** https://news.google.com/rss/articles/CBMixAFBVV95cUxNUlNIRVBRbHVKVzhKUGZtdkZpTXZJTDNnRmY5cFY0OS1ubzBGMGVWaTlvQjBZeTREYWViNWFmSmhDUkpTZHd2WnVfWVFCMGh0Wm9LTlhYMXNjM2V4dy0wcW5ZTnNmbDFpZVVZWkJ3Q3lGSnJWM3kzeWtOVzI2T1RPQTFFU08xa0RHdEFsZHFMekptdmRrVlNlVi1DTDJ6Y1pfTktpMVkwd3Zrb3JzWXZ2RkptR0Z1Z2xJbFFZdjFNOTR2cFFm0gHMAUFVX3lxTE9lR0RwcUJWR3AtRmxFVkhPYWhRZ2pQMmFvbzEyODJrazBVcFo0ZFRBYTlMLU55NVc5NWs0NlhzQzdjLTBMZ05KY0MwUVVIYm9TODBmUlkyR2VMMURzSVpWN29HN1BPdGhFc0h5eG1SYTdjZ2V6LXpxUWZNbXZXcElDdHpGcl91VnpxZWVEcnR1aGtKbWlnNk1EZ0pURzFMbGNxVXB1UGVZMU5ZR2Z6TFFNcWZpblI3MUJ0M3RoZTZDZURkUmpCT016ZlBNOA?oc=5
+- **Source:** NDTV Profit
+- **Published:** 2026-10-24T14:59:51+00:00
 
 ## Microsoft Stock Forecast: MSFT Pulls Back From $546.35 as Azure's 45% Guide Faces the AI Spending Test - TradingKey
 
@@ -231,75 +303,3 @@ _Last updated: 2026-10-24T13:51:54.079341+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMiwAFBVV95cUxOR1o3SHByRzZEYzctTHRQekVRRzNDNmlRZXJoNV9NbGdzTHU5T3gxWUJPZEpZV3RNTlcyVUNIUHpLUVFac1VGWkQ1cFVVTU5PcXBJR29ZblAwV2cwVHA0UnlYdzlYYkxOdEZuaDN1SWp5VHV6Y1pHdTRWWnFyTWs2YUJLNDI5cUdLejFBeF8yTEhsd2loN3AzaklKZnV0SjBPTjNiUElPSl85SjBjR1FodmUzZFMtbzJrTGxfZkVCSkQ?oc=5
 - **Source:** gHacks
 - **Published:** 2026-10-24T02:13:23+00:00
-
-## Xbox COO Helen Chiang Leaves Microsoft After 21 Years - iXBT.games
-
-- **URL:** https://news.google.com/rss/articles/CBMivgFBVV95cUxNZ1VpZmZFc2IweEZxY0FMUTM5ZGFHMWswUXZTM3lPTnVfdFAzRmltSWlfYUhoUm4yVzM4RDdiZkFCblBoWjJVSVQteGRkeml1eVZLVk0yV0xDbXUzMkZiQXp4NWVEM1d5WEltcEdlRm9qSVlCVzdBYU05OF9XZDQzZzNyazRtRGEwSGUwalkyc0JqRGhrbU1nSURYWWV1LXNoOWN5RW9sQTZ6X1VMcDJvRXExZS1iTkFiXzNuV2pR0gHDAUFVX3lxTFBfUmx6UG1lN05YRDVTODBDZ1dlelN0c1l4VXBhNlFPaXN5NXJPVndnbEYwc1Z1Tm9TRjZyU0VQTHRWM0tWT1dBbFpINlhVQk9McFVrOGxxRVhEeDFoa3RjYktTSXAzZkY1c1NEMXoxSU1ITThNTFk5OE14Q0RfNDE4T3prS0RqNjc0WTJ4eEJzSlFuUFNVNWNWRVBTOGQ3RzdVWWkzUGhiQWEtdDdBSE5DREhGbkVnWDV3SGJWOTVWeTJ2TQ?oc=5
-- **Source:** iXBT.games
-- **Published:** 2026-10-24T01:08:36+00:00
-
-## What is the Microsoft Rewards program, and should you join it? - TechRepublic
-
-- **URL:** https://news.google.com/rss/articles/CBMisgFBVV95cUxNcUhqVEszREZ4NTZ5VHllSk1qN2ZFXzVXR2xSWlZLRU15TzljekY0SGtOQ3Ywd3NRaVMzeXNOM2tsRG5VNzVHTm1wMExyTXNjU05SaEdRR0VJeEY4eXFURDdGUzlIU09ZUXNWbHhVVFN5YmpSYnVEZ0FyaWhjdUFWNU53T24zWWZmWEJPeVRhTFNna0paVFEzSFpUc0JVTzB1R0d5S3BpMDRyV3FZS3RnU2FB?oc=5
-- **Source:** TechRepublic
-- **Published:** 2026-10-24T00:48:15+00:00
-
-## Xbox Misses Microsoft's Executive Pay Target for the Fifth Time in Six Years - TechPowerUp
-
-- **URL:** https://news.google.com/rss/articles/CBMirwFBVV95cUxQMzVJQ2c3V1MwX2lEc3RfWVFJRHYtdFdlSHlPdVlWUFVKOVRZVURuRWZnUW1XYTFEYmh2YjAzTnRreTdzODdHcm56T2dyMGtVdk9oNXZCSk03NnZnZ1BiR3hGV21tTlN1dzk5aHgzenpjY3dSVUR2Qm11My1QR0ZqMXJLU0VhaWdTN2laNWVfdEVRNHpyOG1GVzE0WGVPVHlJMl84OThJOThMYUhOUjJJ0gG0AUFVX3lxTE9YUzFTRGYtNFRpQWNvSTNoZF9YY0pYR3RicmRySVFaZ2RFelNTRUczVm5lWkdYcEtUazBUcnhtazBXMDA1a0JQNVdiYjN0LUpXQTJWeHlSRjE4b3ljV0U1dEg4NS1Ud2xzTTFPdDBHYVRHa0FnYmIyN1B1Rk1kZ0dpeWwwWms2NmZNZnNNZEV6OE8xM3hDVVdzVXZjTW9rLVJUWUJreFFJTWVaVlhhNm94YXlfWQ?oc=5
-- **Source:** TechPowerUp
-- **Published:** 2026-10-24T00:40:35+00:00
-
-## 'We'll Share More as Plans are Finalized' — Xbox's First-Ever Chief Operating Officer Leaves Role Just Three Months After It Was Created as Company's Massive Restructuring Continues - IGN
-
-- **URL:** https://news.google.com/rss/articles/CBMivAFBVV95cUxOR3pHMmJoZTg1LTB2REg1Y0VhUmltaTdZWUpjbDdiM29pbnBIUWRyN2VRVXF5ckg4M05nNmRsejZ6d2NFTHpMMlNRU2tCdXF1bzhiM3dsRUZNa2lOZmZZNHpib1Q3eWdLRVFvbW9oWDEyeXBiLW9Ta015ZHdWemEtak1RRF95NkNlY2VZMlVQSEhQb040bWU1Z3g1Y1d5cnVMVkV2a1o3NzN0Z3NtUFd1UkdWUjMzN1NHaTd5Mw?oc=5
-- **Source:** IGN
-- **Published:** 2026-10-24T00:35:00+00:00
-
-## Bill Gates warns of 20 years of turmoil from artificial intelligence - Anadolu Ajansı
-
-- **URL:** https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQ3ZBTjZncDZraHU2LWZjajJpNVpDSXo1RC1TS1FLMGVGMm04OUV0V2J0NENGbVNxOFl5UFRpcWFjTVNST2RIMmVZRko4WVdTaDFRLUk2elZSTkhrYjlkeEdSMjR4OEFjYjAxcFptaU94T0JaZ25TbTktSGJuN2J5Zjc1YXhSbmtCb3BTbEp6R1ppUU5iZ3VCU0RhQ0RERnpJa28zWEpOUVZ4UEE?oc=5
-- **Source:** Anadolu Ajansı
-- **Published:** 2026-10-24T00:31:44+00:00
-
-## Xbox COO Helen Chiang Leaves Microsoft Just Over Three Months After Taking the Job - Shane the Gamer
-
-- **URL:** https://news.google.com/rss/articles/CBMiugFBVV95cUxQTEpCMkdJcVJadjZKYnBOUmpRWFFybEtjSjl5UnBCOVEwdW1wY08zWVpRbEhMTE1QNE8zV1pNSGlFVGlMNFJPc09wXzMxMzJmQ1VaejJxaFMtV0JiVTUxX2JWOW9tblViQ2dQUDZIeS1hR2lkZnVpeWVtVkxFVkp5endVVkpxSmpjeWd0cGRXMWVMLUxDRTZZeTVVekk0ZU1XR1pwaWFhcGxzdXAwX2NkWTB0VnBjbUZuWGc?oc=5
-- **Source:** Shane the Gamer
-- **Published:** 2026-10-24T00:06:05+00:00
-
-## From client zero to value: Frontier Firm transformation with EY and Microsoft - EY
-
-- **URL:** https://news.google.com/rss/articles/CBMioAFBVV95cUxQdktFejJxc3F0aEdxNkZkMl9IS3ZZM3VKTktQYUZSV21UY2lGTDVqaXQxMThaNnMxdTBJRmRSV09PdzcwNW5UaGd6YUs5OURJZlduUEMxUUVWaHRFOWxZVUxwSzI0Z2E4N2w5TWxqTDRkVnM5SUlMSmE0N1JJSGxTclU2TFVSNy1LME5xd0pYVlJVRWo0N1F4ZVdCOEIzS2M3?oc=5
-- **Source:** EY
-- **Published:** 2026-10-23T23:42:31+00:00
-
-## Xbox COO and ex-Minecraft boss leaves Microsoft after just 3 months in the role - GamesRadar+
-
-- **URL:** https://news.google.com/rss/articles/CBMivwFBVV95cUxPU081eWxtaHdZSHlDNEV0Q0xMeEJoTE9UREFQS2YzVHk1ZnBCQ09XdWVhTU1aRzFKN3BHU1pGYm9LTUNhenZSbnVKbVU2X1BiSjRKNm5FQjBCcVB3ZHYtOTluTDlGN05SQTVsVXFOV3JPTTluQmZ4YWo5VGVpazU3cDR5RE55UWdvdG54MXpka1JFOXhxZzBpdGpqNnRjYXBJNlQ4bkdocW5JZnlieDF1enpKTkxuS0dLakVkNzZQcw?oc=5
-- **Source:** GamesRadar+
-- **Published:** 2026-10-23T23:32:44+00:00
-
-## News Orgs Fight OpenAI, Microsoft's Fair Use Arguments - Law360
-
-- **URL:** https://news.google.com/rss/articles/CBMiVkFVX3lxTE14UG5iczI0Q2FCc01uSVotWXZCWEwySFVOMnF5YVNjSldpMnV2MUpNbEZUNmtjdVV4V0tIRDd2emRCUVdiYjZCY2x1am9LbnROeDRjdEFB0gFWQVVfeXFMTXhQbmJzMjRDYUJzTW5JWi1ZdkJYTDJIVU4ycXlhU2NKV2kydXYxSk1sRlQ2a2N1VXhXS0hEN3Z6ZEJRV2JiNkJjbHVqb0tudE54NGN0QUE?oc=5
-- **Source:** Law360
-- **Published:** 2026-10-23T22:10:00+00:00
-
-## Azure DevOps Comes to Microsoft Copilot with Plugin for Work Items Pull Requests - Visual Studio Magazine
-
-- **URL:** https://news.google.com/rss/articles/CBMi1AFBVV95cUxNODhtenZZeldtYXpjbXpoZ0hhMGlsVVVfTzIwbEdNU1V0cjB0cnNvdkI5WUpOTk53R191Q1NpZHZHYUtZRnNZMmxaczF1ZGtGV1ZGUUN5eFVZaVdPQ0dMYVRMZkg3Tm4xN0QyNjhQeVZ0eVd4RGIxQVRwVUVya0FpNzVyMHJ6aWlDaWhCSnF1SXRWcU9OUU9YVnF1VEdkUW8tRER2cWZzN2FCamtxcVJrTkFrWUcxQ1c4ZzBFQlNNZEdaRVZRdmV0QzRCZ0tIY3VmLWVTUw?oc=5
-- **Source:** Visual Studio Magazine
-- **Published:** 2026-10-23T22:09:49+00:00
-
-## Xbox’s first chief operating officer is out after just a few months - The Verge
-
-- **URL:** https://news.google.com/rss/articles/CBMikwFBVV95cUxQX0szaFBzRVNlcUw1c2t1aEZ5RFFIY000OGZpQWZocGpudDR4WlVRNmFtb1A0V29Jbk8xOUpreXlZckhSdXBoTEFUckh5WVZQOG9raV9DM0stQWdDNjN1RHFYcE8yQkM0QzYwQTMxczh1SExRY0pSS29zc3BidUlMV2lkM3RZUVJOdmZmODhrYnBMSm8?oc=5
-- **Source:** The Verge
-- **Published:** 2026-10-23T21:39:26+00:00
-
-## News | Microsoft seeks approval for data center in northwest Georgia - CoStar
-
-- **URL:** https://news.google.com/rss/articles/CBMipgFBVV95cUxNOE56M3dzbWtwMHZxb19fTEtES01oeVRpU0wwbHJsbUtDZ0N6YV9IdExzQjVwRTBYV1pXdjNpRG1MME1zWEhrUWhEYWxkdy1SYjQzRjZJSGRMNXdoNEJDREE4bExkSUk3dzFES0lKekRWYnp2NW9ua05ySHRNZG16dXZYdmtiMkF2Q00wa3VBZWhQX2Q4RS1uQTY5aXNOcGVPSDhxRlF3?oc=5
-- **Source:** CoStar
-- **Published:** 2026-10-23T21:23:21+00:00

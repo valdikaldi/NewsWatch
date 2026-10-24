@@ -1,8 +1,14 @@
 # NewsWatch — Iceland News
 
-_Last updated: 2026-10-24T13:51:54.597138+00:00 · 50 articles_
+_Last updated: 2026-10-24T17:14:29.232296+00:00 · 50 articles_
 
 ---
+
+## Dramatic Black-and-White Captures Showcase Iceland’s Perilous Reynisfjara Beach - freeyork
+
+- **URL:** https://news.google.com/rss/articles/CBMiiwFBVV95cUxPckhuWEYzbVRwTXNrT2VBUWFhRVVUOVI1bjFfZkhpaWt4V0s4SW5MS2F6SHl2MjNCOUNIMjdWVmIyT2lUVjZsbGhhSUhIQkVuY2V2TDhpQTFOOVRuaTZ2V28xZ3IzNlJUcV9oVTVzSTVPV25CZkhZWU82cFBlVFpvNERvdlhoUUV4NHRR?oc=5
+- **Source:** freeyork
+- **Published:** 2026-10-24T16:21:34+00:00
 
 ## Iceland Review Playlist | Women’s Day-Off - Iceland Review
 
@@ -297,9 +303,3 @@ _Last updated: 2026-10-24T13:51:54.597138+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMinAFBVV95cUxNdDVwcnh0ak5JY2s5eDNTbzNYTkJ0NS1XUi1fN1hyTkJKRlVmc3Fjcm5VczJ2emVrRldKeTdPTVFRMEowaTY0MV9BQ3JnUWVxVXR3bnVySDdPRFNKTEtOcmpDRDFlTnFaaXNTbk1lTk1jN3licGt4MmpzSnJrNEx3U2dLcGVDYWVVZHduUVdkMzgwTlVXamo3VlJ0Y2o?oc=5
 - **Source:** Business Insider
 - **Published:** 2026-10-22T16:11:00+00:00
-
-## Iceland vs Greece | UEFA Under-21 2027 - UEFA.com
-
-- **URL:** https://news.google.com/rss/articles/CBMib0FVX3lxTE4wR1NSenBDb0RzOVBkbzh0cnJDXzdXYjBpUktQZ1YzWk5rcEtzc2N6VE9TSi1nMmVMOWFHR0NFY256dHhwbG00d1hlX2xOLVlHNVpKUGthRzZONFVJVlIyNUV3d2M5TzZHbGpNUzd3TQ?oc=5
-- **Source:** UEFA.com
-- **Published:** 2026-10-22T16:06:53+00:00

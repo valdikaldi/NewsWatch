@@ -1,8 +1,14 @@
 # NewsWatch — Apple News
 
-_Last updated: 2026-10-24T13:51:53.428177+00:00 · 50 articles_
+_Last updated: 2026-10-24T17:14:28.076705+00:00 · 50 articles_
 
 ---
+
+## Apple’s iPhone Duo hits stores with supply short, demand high - Taipei Times
+
+- **URL:** https://news.google.com/rss/articles/CBMidkFVX3lxTE5GV3hiMTBudGR1dlpVT3pQdDhCM28yZWY4S2s0dVJzVWlYbVNpa1ppT2dnVzBRUDREWlRqS2lQemV3czhzRlZiSE5vcG9rcGh3VHRYU0tpRUlENWxSNVVlcGVvX2pDeXNNanh0am5MVW5ibHpSWkE?oc=5
+- **Source:** Taipei Times
+- **Published:** 2026-10-24T16:00:00+00:00
 
 ## Apple Inc. $AAPL Stock Acquired by Stone Summit Wealth LLC - MarketBeat
 
@@ -297,9 +303,3 @@ _Last updated: 2026-10-24T13:51:53.428177+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMitAFBVV95cUxPVzB5TGpwSDNINkJzX2pOYXhmTWdWaWRGVWYwVDhxSzNYcDVyVWM1Q1ZmLUs2OTE1QW5KTUJzRTR4dGhldTFSb1FfamVOQmJjSmZLUE95NVdETWt1dUhWdjdzMVBRU3l5Mk9xR1lnZWNxaVpjQVFDdVFFbmlmQmp0RmNvWUdHVTBEekkta0xoZHBWbFVzLVNmRWpCdGN0WVB6d0hGQVhyMlFUclhMSk1mTFhsb00?oc=5
 - **Source:** MarketBeat
 - **Published:** 2026-10-23T08:03:10+00:00
-
-## Affinity Capital Advisors LLC Sells 7,656 Shares of Apple Inc. $AAPL - MarketBeat
-
-- **URL:** https://news.google.com/rss/articles/CBMixAFBVV95cUxOVEhOYTY4VWVGSlVoMGV5T1lhZ2NsbW0xTDg4a2oxN0FRZjkxSUVoVkFtNTVweDRWdlVEMGt4ejlHUzliTjJ2Y2FHbG1mVE9DMWx6aXd4S2JoZzYtUV83LUMwNERkNF9YVl9pUFVPZlFzb1ZTNXN5elBhMi15Z0drbDA3OW5BUkpXSDFOallqektOY0lKSkZfU3ZvcGQ4dUtkNVpRRFVtbllxQ2xEbldoczVKODJZdWhzbnZ0UFQ4UVMxS2FU?oc=5
-- **Source:** MarketBeat
-- **Published:** 2026-10-23T07:08:52+00:00
