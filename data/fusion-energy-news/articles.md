@@ -1,8 +1,62 @@
 # NewsWatch — fusion energy News
 
-_Last updated: 2026-10-23T22:55:54.919913+00:00 · 50 articles_
+_Last updated: 2026-10-24T08:42:02.494716+00:00 · 50 articles_
 
 ---
+
+## US Startup Claims It Turned Mercury Into Gold, Says It Beat CERN's 2025 Record 10-Fold - NDTV
+
+- **URL:** https://news.google.com/rss/articles/CBMixwFBVV95cUxQSUpKem14Nzc3aElaUFZEVGNkamVyX3FSOXVMc1hZSDV2a3M0ZkY1RHlXUXJ6Q2xBR25qS3lUc016TUJ1UTIweHZOV1NuR3dwQ0pkS3YxdjNOM1ZRbVhoMjFLcnN2Z1pKNWtNQ1lCTUlNU0l4UGJwS2c0ektJSUppcHRvdXVpQUVzdW9oc1Iweml5bWV1cXdCS1p5NU1SLUg1Sk80ZU9OZmdQTXZVOWIxX1labVRJWmZ4SHl6N3hVdjNlYm9JVEE00gHHAUFVX3lxTFBJSkp6bXg3NzdoSVpQVkRUY2RqZXJfcVI5dUxzWFlINXZrczRmRjVEeVdRcnpDbEFHbmpLeVRzTXpNQnVRMjB4dk5XU25Hd3BDSmRLdjF2M04zVlFtWGgyMUtyc3ZnWko1a01DWUJNSU1TSXhQYnBLZzR6S0lJSmlwdG91dWlBRXN1b2hzUjB6aXltZXVxd0JLWnk1TVItSDVKTzRlT05mZ1BNdlU5YjFfWVptVElaZnhIeXo3eFV2M2Vib0lUQTQ?oc=5
+- **Source:** NDTV
+- **Published:** 2026-10-24T06:26:39+00:00
+
+## US Commerce offers $389 million for energy semiconductor R&D - ET Datacenters
+
+- **URL:** https://news.google.com/rss/articles/CBMingJBVV95cUxOS1Q0THBYanZIbGdlbWhkSjFDZVRDMFRwWEtfTk1rczBnSXBHcFo5R0FfVzJrSnpvOFY0c1FmXzhxVWp2Y19nUlJWMWYySm5JdGtpTms0c0FIeXJCN0pLOW9ULXFqSnc5Z0J1WWluX1hYTDBjX3ZmdlROcF9xODJLUkRfZHFFRWU0cGY4cExHci1WanBMcWJtWWlZbWVRbENtSXBPN0t1VHk5R1RNZnNTRFpUNVhZYmp0VzAwd0J1Z213SVVSbXpNaDU1ZGpMUlluSkpHVlhxYTQyeDdUUW1lYXFfS0d3WXhoWDlCOTc1TTdHR25vMGJZc1VwNWxYOEN0Wl9ZOHNqcnNfWjBlbWFuNlM5RkJXYWFfS2lhUHJR0gHmAUFVX3lxTE1OQXJkRU8xTzJseVY1ZjZHdm1lTGJYcFVYSjZVMHhvR2RuYUdaNUtGdWFtODdXY1lsMlpuVHhmSkp5aEZnTW9IXzloZlJRLUVWVmtMZFpIWHN4dUJRdGdMYjZjWkRmcHZlSElnb3hZUm5pMEd3MlhPbmFmWDVLOU41MUxhTlNHSzBlUzNCZXhOLTQ4WnA1akhja0tFYmRUVHhTdEVuYWxObTdOY1ZrMzZLd045QmdIaDdpQzBJNWpLTEFqc0l5N1UwSDUzV3R4WEVNS2RMUmh1Q3R3ZllsVDkyQ2JZSlhn?oc=5
+- **Source:** ET Datacenters
+- **Published:** 2026-10-24T05:32:48+00:00
+
+## Wash clothes at one exact temperature and 9 other hacks to slash energy bills as clocks go back - Irish Mirror
+
+- **URL:** https://news.google.com/rss/articles/CBMihwFBVV95cUxQMm9OR1p6Qm9yLWVpM3FSZlZjRFlWSlJZZ3JwcmFjSFVjV0lFWXJzOG40RVNXZmpUb2VvdHE2WlV4QjVKT0xobXplc2xkUzMxOHFWODVrUTlxYkdTdmhRSVF6Y29JT1dSN3Nfb0h2M2poOWVwMDFjOHE2V0NlYzlXX2oxWS0yMGvSAYwBQVVfeXFMUDdub3lwb2VMbmxnUW5iWlpOZFEwenZERTBON1dIUnRxa2JGN3JwdmZhN1lFdjMybEdiVW9UMUF2VUtiOXJMQnFHYVI2c2FDQzQzOFpuVWY2V0U5QlRtNXZVVGVyTEFSX2l0UFpiZHpqeVp1NG96Q1o2UEdwUWFId3dpX0lLQzhsRzFvX3E?oc=5
+- **Source:** Irish Mirror
+- **Published:** 2026-10-24T04:42:58+00:00
+
+## Commonwealth Fusion Systems Receives $85 Million From U.S. Commerce To Develop Fusion Chips - NewsCord
+
+- **URL:** https://news.google.com/rss/articles/CBMi6gFBVV95cUxPZmhpRHYxUUdLeEdxZnctM2hQQ2pSN1ZyaVAtYVVBc19YUzdueDFmR2h6MThfRll4dnNYc3lDOUgzNklhUjdNeGJQRkJ2VnVrVXJZdExLTGc2d1VpLWo4eUFFdFY0UUlUMzV4eWprbll0U1JRaEk4LS0xb29ad1dXcDlPRXVJem44ZWJIMGJIZWphREZLb3lxWVNrYmpTR3Q1MkpzNVRIM0RtLVhldko3ai1udWlvd0RTdWNzaFB2TUk1TVl6N0pla2R6ZXpTY25MWU50bEI1allDQWRkTnEzWUQtTDRPWjVDeWc?oc=5
+- **Source:** NewsCord
+- **Published:** 2026-10-24T03:08:30+00:00
+
+## EU Auditors warn of grant payment errors and further ITER cost overruns - INSIGHT EU MONITORING
+
+- **URL:** https://news.google.com/rss/articles/CBMi1gFBVV95cUxNdUF2cXU3RGVzUG5xZGZSY05oemRJek1BZF9oUktmXzJDanJRSl8zTGhDaWx2RTZFVG9iem5hRWJ3SWY5aDJjVE1zS2sxZEpOenRESS1TRW9hTmZNTDNsNVlKY2l6MUF6Mm9aRnJ0cE9XSVZTMThBZ0dLVldMWGQyN0xQank2NW1SbW5uVUh4anlqTVNfUms3UDNkZ04wdFYxMlBOZ3A5Q2poMTRnakRFSjJXeFNNRHZXTHRwVlFpd1ZTaDNqaGZjSXBvZDI1LVN2SXJJNkNB?oc=5
+- **Source:** INSIGHT EU MONITORING
+- **Published:** 2026-10-24T00:32:03+00:00
+
+## Daytona Raises $60 Million Series B At $1 Billion Valuation Led By FirstMark Growth: what 5 outlets left out - NewsCord
+
+- **URL:** https://news.google.com/rss/articles/CBMi6gFBVV95cUxQSkdLc0s1cE1LM0s3Y0JXUmM0MVdUSjlwbHFvZUdNZ0liVGhvTENYdjNZV3QtREZ5b3d2SzNkYWVIakgyQ05EWHpXckVHb01iNUNveHVubnhxalVuMm1UZjJCcmlNcVNkNEc0RW9zcFBXQ2FIUFBFQXBucGNpc01FTEh0UE5pd1ZhdmpDQ0FRYTZPWDJXbHhzRUF1YTFQeTVjd3BqbG9FVGMyRkZwU2ZJZ3RvVGNTOEZkWUhIcGtNZkpsUWtfczFOQ1B0azRVVV9MVzlfQ05sc3R4blY2bHBPZUR3WUdsUGFUaHc?oc=5
+- **Source:** NewsCord
+- **Published:** 2026-10-23T23:24:36+00:00
+
+## Rolls-Royce, GBE-N contract kickstarts U.K.’s SMR plans for Wylfa site - American Nuclear Society
+
+- **URL:** https://news.google.com/rss/articles/CBMipgFBVV95cUxOalBBVjRtYktSSUlfTkpuM3ZIY21JbjVMVXBybGd5aTJSLTFZaC1XUElSSFJfMFBUdWhDbkttb09VQ3F0RlBUVnNPWlAxTS1YWktWZGlucE9JLUloZUlhdXlxWWhCV284U2hKU1FxazBqQnZyVl9RYzd3OVBjR0w1dUZXYVhidHAycW42TjVPRDZKc0FocDFMd0lndjNjT3dEcUZ5WUpR?oc=5
+- **Source:** American Nuclear Society
+- **Published:** 2026-10-23T23:08:03+00:00
+
+## Commonwealth Fusion lands $85M CHIPS Act award for fusion-ready chips - Dealroom
+
+- **URL:** https://news.google.com/rss/articles/CBMipAFBVV95cUxQcWdMWEt2R216R0gwd1R6MDdqYjlmT0lkWF9md0Z2WEN5aTZOVGNqaTFVVVczY0ZCNGdiUTdxTDdld3NtYWlyVzU2U21ZY3dRYno5dWpKcVpNb3NjbFM4NUhaN0lVQlhFbUp2eS1RTVFnWkJWVXMzalB4R3gzY0t1X0RzcnJhd3pfWGtwazlEdzdMbTdiOXE0OUItQjkwRTRiR2t6Xw?oc=5
+- **Source:** Dealroom
+- **Published:** 2026-10-23T23:05:02+00:00
+
+## The AIDC Paradox: Why Did Meta Leave RE100? [Energy Odyssey] 14 - 아시아경제
+
+- **URL:** https://news.google.com/rss/articles/CBMiZEFVX3lxTE1TU3QwT1BJSExCY2FZSkk2OXRBVWVqcXNJZ3ZuckpLdFQzeWN2VlFzd2M4b0lYaDU2Ti1ESHF2YUFheGVtSVVqZUZrT2ZBYUpkM0o2SnplVE5uZzdGbWNxR0hBWTg?oc=5
+- **Source:** 아시아경제
+- **Published:** 2026-10-23T23:00:00+00:00
 
 ## Commerce Plans $389M in CHIPS R&D Awards for Power Semiconductors, Fusion - ExecutiveGov
 
@@ -249,57 +303,3 @@ _Last updated: 2026-10-23T22:55:54.919913+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMid0FVX3lxTE1GelNWbktDZVlVQWl1YkV5SDFaWHQzUUR4SEswUUhpMjRBVktVUFVWYkFfNG9GX21MdnNPZjhfOFpVQVQzUTRSdWFJME16a0IzNDluOVd2dTRBc1ZUS19Ia3RkT1AtUzVOalpMeWJpcTRGZ1ZMVERz?oc=5
 - **Source:** www.theangryoptimist.org
 - **Published:** 2026-10-22T17:02:54+00:00
-
-## Fusion startup Helion lines up potential $175M CHIPS award to develop advanced semiconductors - GeekWire
-
-- **URL:** https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTzF1V0JfdklHenlNaU5PdVJ4UGdfY0hyMXU1TFZlOUNBdVVEbUxwUDFUUG9sXzQxdC1vZU1LcXZwM25aMjhIUmZmUVhCT3FkOGpCTm1jYWUtVEhiQWJuQUhEdHZDdE1QUDZCbVRWamxlMkFYZENOYzI5Nzk0eFlDUUlNeWtvUHM0RVBHMVVTNTFONmZaNHpnVklkU2kwUWJHMjVPMGNTLWNlNVZhMHQ4UWJPWG84MnpYSUtrQWNEUEY?oc=5
-- **Source:** GeekWire
-- **Published:** 2026-10-22T16:21:48+00:00
-
-## How William & Mary is helping build Virginia’s fusion energy future - W&M News
-
-- **URL:** https://news.google.com/rss/articles/CBMinAFBVV95cUxOOFl4cWNYZWp2SEVlUFRLUmtJeFFnYTJTd0pzZWNwNks3QWdHMlpBV3VOZFlWSUE2UlpWZW82WGY4WnJVMkpkcDZsRTBnUGxNczhrZHhkbU0wekxTbTVnano3RWhYdThBVE9kRlFqS3lyelFNUW5kR3ZUUXppUlczbmN3QnZHdlJ2V0lnTXBYdW4wT1BuZG9wZzFpdUQ?oc=5
-- **Source:** W&M News
-- **Published:** 2026-10-22T16:05:08+00:00
-
-## Commonwealth Fusion Systems Signs $85M CHIPS Act Letter of Intent - News and Statistics - IndexBox
-
-- **URL:** https://news.google.com/rss/articles/CBMivAFBVV95cUxNa2VnQUdwMXRDNk5MOVFJVkNVSk1YY3FIeVdzVUVHVFk4Z1JZV1Y0T2x0ZmllRGlRaVFzVnVXN210MlZ5aGI5dWZyMkVreDZ4VktNV3YxQUY0T1VRM1d6OFg3YnlHQmZMVHUxampUUzdwTDFqbHdra05TS0xGRnJiOEo3RVBxOXRJLUZBZlo0aExscFBLTndCbE1fQmJONnNHX2ZicTJfWVo1M0xqSUJxZndINUdsVV9JVkZLeQ?oc=5
-- **Source:** IndexBox
-- **Published:** 2026-10-22T15:50:43+00:00
-
-## Helion rolls out semiconductors aiming to halve fusion energy losses - NewsBytes
-
-- **URL:** https://news.google.com/rss/articles/CBMitgFBVV95cUxNUUxmSU5EeURTd3FNTl84VUhfWDhvdkV4QThFbEhSRmVqMWVjMUFpS0ZXRWFKRXlfRmdNVFpQQk5HNV9DZDlnMWZvSDdUclEwNlkxbFJaN19LOWxwTlVyUDBBSVZvM294Tkw3eDh5VXdUbWZ3TDJFNl9iZzZsVnp1YjNCcXRCV3IwYnVaNDZmeEtjRGl6OFBid3QtN0x6Q19ZTlRYbTBROG5wS0R4eWVKQ1RpekJNUQ?oc=5
-- **Source:** NewsBytes
-- **Published:** 2026-10-22T15:45:39+00:00
-
-## Helion receives $175 million for semiconductors and another $50 million in investment — TechCrunch - UA.NEWS
-
-- **URL:** https://news.google.com/rss/articles/CBMiswFBVV95cUxPTnh6QmJnRGNmVG0ydnRKNUgyakZpWlRzVjItWEdWSmN4NDRONTVCTVA4SnNRN2ctdm1weXlVaWttLXN5QTNMdXlKZzMwMEx4MXZXQUYzeHFzSVRiUERVb1FlZVQ2amo3dG1YMzFVaG5JQ3NESER1emV1c2ZNSVpLakhFOVVFUF8tR0lLQXE0VkdtYURxOG81TkpBTG01QUlsZ2llczNZd2dFYW9jd1l6cDhtVQ?oc=5
-- **Source:** UA.NEWS
-- **Published:** 2026-10-22T15:20:37+00:00
-
-## Helion Raises $225M, Builds Custom Chips for 2028 Fusion Plant - The Tech Buzz
-
-- **URL:** https://news.google.com/rss/articles/CBMimAFBVV95cUxNNWpWSFVaQzMzYTdsZEV4T1dLQWsxX3hxTnNMVHFtaXlWS1pGTl9pZGF5VmxYMC1SVEpXdUkyMXpaUjI3NEtqUUVRd1ZvRTI4TFhNdFpObjdFV051dmRFTlZKclg4NC1RSkE5S0dKV21oalNFT0xJSTZELWktODU1Ym5FVGY0S3RhOWRyRTNNLVdta1E5NnlROQ?oc=5
-- **Source:** The Tech Buzz
-- **Published:** 2026-10-22T15:07:00+00:00
-
-## Fusion startup Helion is developing new semiconductors that could double output of its power plants - TechCrunch
-
-- **URL:** https://news.google.com/rss/articles/CBMizwFBVV95cUxONkVpSFRkRm9ZWlZrRXZjN0l3dURnUVozcnJGNVVDVmR3azlNZVl0Snd3dHJkRHprcWRuMGRMUXdOd041cFZsZUhQUFc3Mm43b0l6RTVlazlGODAydXA5bk5lQTdaQmhrNWVVU2tNcWxOU3JnSnpGM29LaGxIb3ZVR2UyVGxSZ2VESlNDMTRxbWYzSmFDUlZmcFlwb2ZScWtPSXFvSkdMRWhuRnBMc1g4TV9XbjZjSFZmOVFtZzZMbnFhSU5sVEtqQWM5LVNpd2c?oc=5
-- **Source:** TechCrunch
-- **Published:** 2026-10-22T14:59:28+00:00
-
-## Marathon Fusion Turns Mercury Into Gold Headlines, Not Bullion - SilverTrade
-
-- **URL:** https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVjFHdkpsb2FIMmtRel83Z2hjYUdlWHNWZ3JyeUViVnJSNkhZeXlGajVYbXl3YnB0eFEzM3BkdFhZVDFyM3FjQ0pEZjBOTFcwWDlGa1FnUEl5WlNKeU95eTJ1cWp1QVh6eEI4LS1JYzlRMXBkdkJmQ3dfR3ZveGxXSzRWRlZORk1qNUx4eWVnVjZGUjZlZ3V0ZHhEVVJObURWcVVHcVhjLU16RkhySDF3QU4yT1czTnFf?oc=5
-- **Source:** SilverTrade
-- **Published:** 2026-10-22T14:55:53+00:00
-
-## Commerce plans $389M semiconductor awards tied to fusion - New Orleans CityBusiness
-
-- **URL:** https://news.google.com/rss/articles/CBMikgFBVV95cUxNZ05kbE10ei1zR0xlV1lfWE1fS2VFSDMySnVOTjZSU0dKMHo1bDltbzFvOW9zdVlWRU85VmFhQnhkNGZ2YUM3QzBncWRZbXZHN3RNUDN2N043VngzZTgwU1RRdUtJaUNpbTlkbzl1b0huWEgxTkZDbm9aLUxrYkNRSjI4QVZFakJhSzBUdDJ1VnBtQQ?oc=5
-- **Source:** New Orleans CityBusiness
-- **Published:** 2026-10-22T14:43:26+00:00

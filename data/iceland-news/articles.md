@@ -1,8 +1,56 @@
 # NewsWatch — Iceland News
 
-_Last updated: 2026-10-23T22:55:54.413873+00:00 · 50 articles_
+_Last updated: 2026-10-24T08:42:02.024506+00:00 · 50 articles_
 
 ---
+
+## Farming on the edge of the Arctic - Farm Progress
+
+- **URL:** https://news.google.com/rss/articles/CBMifEFVX3lxTE5UVjdyUmktTUg5RmpJZGpxY3pQSDg1V2xVc0RHTGc2R1JQZTFUcTNwLU02NVhxR1FDSnU1SkVlRlZTcUFyeE5VRWlsaEVHaXFCNXlGSEh6Y2pmQkRxbk9pb1BSN2JmckpoUGlQNE90V3J2dS1Wc1NGMmptM3o?oc=5
+- **Source:** Farm Progress
+- **Published:** 2026-10-24T08:13:51+00:00
+
+## Iceland Bill Would Let Police Seize Vehicles in Off-Road Cases - Iceland Review
+
+- **URL:** https://news.google.com/rss/articles/CBMijwFBVV95cUxQLWNzOEhRZHg4c3FWMXlGOWx6Z1ZXZ0ptOXhkaWhnVlVCOGI2Qjc4UnhtMURPclQxS0NPamxWdkd0Rl9yRkROQXI3TERNa1pFLUc3V3BoRmJWYTFkdFhkQ3NjTXczV0xwdVFqZEduS0VnRFBfaWlpQXBfQzUyU1BTRzJqek1lSlRfUUJmX0dySQ?oc=5
+- **Source:** Iceland Review
+- **Published:** 2026-10-24T07:00:00+00:00
+
+## 10 Best Places To Visit In November 2026 - Outlook India
+
+- **URL:** https://news.google.com/rss/articles/CBMisAFBVV95cUxNTko1aHExcDZkRVFKeEs3Mnh5dWxnLTd6WDF0WlE0YnNESFhwUUFFWGp6MTZyMS1UQXNXZzhoU2VTMVQ3NjY3NTFLVUNKS2NYalpyTnFmcm1mdlA2dHJDMHFtNUlBRlVMTElQbmJ4SlI5OWNDX0Q0b1V6QlBrOGJKbHhkR09uanlpcFRhN002SHJBTXFlaEpSMjBBQnBDN0ZsNDNlVF9ENW5EbWdrd1hIcdIBsAFBVV95cUxNTko1aHExcDZkRVFKeEs3Mnh5dWxnLTd6WDF0WlE0YnNESFhwUUFFWGp6MTZyMS1UQXNXZzhoU2VTMVQ3NjY3NTFLVUNKS2NYalpyTnFmcm1mdlA2dHJDMHFtNUlBRlVMTElQbmJ4SlI5OWNDX0Q0b1V6QlBrOGJKbHhkR09uanlpcFRhN002SHJBTXFlaEpSMjBBQnBDN0ZsNDNlVF9ENW5EbWdrd1hIcQ?oc=5
+- **Source:** Outlook India
+- **Published:** 2026-10-24T05:47:39+00:00
+
+## Made in Iceland Souvenirs Shop in Reykjavik - Guide to Iceland
+
+- **URL:** https://news.google.com/rss/articles/CBMifEFVX3lxTE1PNVRyX2hPREhqZzJOSWd1SzFGVWJnOHh5dzVabkJidG5GTUpyLWJPUGU1elh3VlNsSlE2N192cXBQZnFfc0J6cUJ4NkJfTE1IbTFCTWkzb1pXUU9TMnJJbVp4VS1HOFJtSWxmanpLT3BoaXo4aUhDNUVNNTU?oc=5
+- **Source:** Guide to Iceland
+- **Published:** 2026-10-24T05:32:31+00:00
+
+## Iceland’s ice cave season is here: When to go and what to know before booking - IndulgExpress
+
+- **URL:** https://news.google.com/rss/articles/CBMiwgFBVV95cUxQR0lLNE41M0hFUTBOZ1FFT3dhV0ZEeFFEWDFDYmxpU1plOS1rdWY4elZNZm5aNUtBXzF4Qk5iQ0loOGY0cEFWTG1hSmUxNEw4aFR3eFZpcnpNSE40T3JOSm82amZ5SF9jSjNYMkU3OF9oT2tmWGU2UVhzYXllYml6WWdacEp6LWtKbGFscXdHc1hnZHRSeEd4bUx5Skcxc2wwS3lvM3hFUjlUZkw2TWRaZWltX2IwMXI4cnFVOXJpZEVTQdIBzwFBVV95cUxNWlI2bVNwd0pNRFozUWUwQXQtU0l5emJCUE4tVURLTWdVSnBUczhGU2JWNnZILW5NV3dBcmZGZXdRT1FCdmlYeEh4NDhleEphOHdCaEpkSkxHV0x0LXhlcGFNRV9HbzRrYnFnRlg4Ym5Ucjh1YjhjWnZsQ2RULWwyRGxoWFZpOExtMC1oR2pjZWNfMDRudHlFWXJuLTM5VXY2MTdXNDNkekdmMW1STWlDWWJBZm5UWC0zR2pjbVRlbW5MVjctdFlHNFd0MW5oMjA?oc=5
+- **Source:** IndulgExpress
+- **Published:** 2026-10-24T04:01:17+00:00
+
+## Delta Detroit Iceland: How a Hub War Left Passengers Strande - The Aviation Hub
+
+- **URL:** https://news.google.com/rss/articles/CBMidkFVX3lxTE11NXdjckdJV1Z1SDRFLUN6M1owOEsweDhKeWZZaTlkUm5OcDh0cHJZcjJtbW5Ib1ZmRHpVZFZRN2l1cTZ2Q1ZHMndkYTRwRDRvQkNOYlpiczNYeHVDYXFVWlRCQk5zXzhmaU92LVAyMFM3QmhaMUE?oc=5
+- **Source:** The Aviation Hub
+- **Published:** 2026-10-24T01:00:00+00:00
+
+## Illugi Thór Gunnarsson - Transfermarkt
+
+- **URL:** https://news.google.com/rss/articles/CBMi1wFBVV95cUxNZzJ5eWVta0ZUQXBTVUFfbjVjMDhGTjVYdU9zVHFhVjRGY1BBQ3Z6aFVIcnhvYVZHZGltYVBGZ2lZWUJlUG1vYUJSUTZMN1F2UEZZNmxWU28zaC1PaGxheS1HdkJkX0laMVdKQm9hczctTWFweVp5M3QyX2wxWmlfdlBHQlo4aVUyWE40RHJwZFJMM2MtVzcxUm9BaEZ4MTVqMUw5S2tqeExURGY0MHhJd0FheVdpLTQ0enpUNDV4U1JuVk9ndDhVMFpLQVlmdEQ3VVQ0Qi1DSQ?oc=5
+- **Source:** Transfermarkt
+- **Published:** 2026-10-24T00:56:04+00:00
+
+## Where was The Odyssey filmed? (with maps) - The Worldwide Guide To Movie Locations
+
+- **URL:** https://news.google.com/rss/articles/CBMiXEFVX3lxTFBwdkNrYUs1R0h4X1ozWmt0NkNOcnl5RVRNXzNIcWZ1YmNyaGNvWHNKYVRyZlJQWV9haWV0cC12S2x1TU1QUWllbUEzLWg3cEhpc2p3VTliVFZoSHpn?oc=5
+- **Source:** The Worldwide Guide To Movie Locations
+- **Published:** 2026-10-24T00:04:32+00:00
 
 ## Delta Fought Over Detroit’s Iceland Route—Then Canceled It Once The Competition Was Gone - View from the Wing
 
@@ -255,51 +303,3 @@ _Last updated: 2026-10-23T22:55:54.413873+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMihAFBVV95cUxOSnh2N1B0c1dXMTdxTzdQNDVrUW9wWFZTa3lwNmpkVi05c0VLMnUxSEVrOW5GNVdadVNlQlVPZ1U2Wk5aZmltdXNRLTJvLTVrNlVMTHB4SU95RlQwU3hvQUtteEZEZW9udXN6SUNLM1pTcmFub2xZOVBoSWpoZW5SSGc0YTI?oc=5
 - **Source:** Guide to Iceland
 - **Published:** 2026-10-22T14:47:20+00:00
-
-## 🇮🇸 Elkem and Landsvirkjun sign long-term power agreement - Arctic Today
-
-- **URL:** https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQTJ5VURzQzlHeVFud0pWa2dWOW1mMjB3dW82R2N3WjRKZ3l1LUJRS2VPc1g0UmdqNHNfQ1gyR3VBd0Z2LXFBSVBRbFREdHJ6Q1p0X244cVZaOHhkNng2Y0d3N0FwTlgyeVd6UV9qeWJtX0dMaHVPRHg2cFdSaUlpSDFHZnJUMHNJMUJZeWNDUEdIOTVkMDlheWd4eS1SY0hybkRGdlgtQk1KZFk?oc=5
-- **Source:** Arctic Today
-- **Published:** 2026-10-22T14:25:48+00:00
-
-## Critical PHP Flaws Prompt Urgent Update Warning in Iceland - Iceland Review
-
-- **URL:** https://news.google.com/rss/articles/CBMigAFBVV95cUxONWNlUGRjcGlfREVTY0oxSjgzREN5ZnJJbjBpYXJWWTh0RlFwQWtGbzNrdmpFMER4c3YtNm5CUklxNmhxWFpydEhiSEp0VEdDeWNkN2ZjX1NwdHA3aDg2MmZTdUFTQjFBN1pvSmU4M3UzckpKWTZSX0pnUjJJYTFETA?oc=5
-- **Source:** Iceland Review
-- **Published:** 2026-10-22T14:00:59+00:00
-
-## Auður Confirms Iceland and Scotland Landing Sites - SubTel Forum
-
-- **URL:** https://news.google.com/rss/articles/CBMiekFVX3lxTE4zLXZ5cFhmcGt4dVYzZ256Y0FDQk9KcWdDdGtJT0Vwdl9NOFA1MkhTdzZvWkQyakZPN0daWERrZjJweXBFVkVzdDhLdGxrODBWc2dxOC12d2gwX05kSHdHTnFaZ2dudkZ1bUFaMDhXbVBiMXNxak1SY2VR?oc=5
-- **Source:** SubTel Forum
-- **Published:** 2026-10-22T13:12:46+00:00
-
-## How to Experience Iceland's Fire and Ice in Reykjavík - National Geographic
-
-- **URL:** https://news.google.com/rss/articles/CBMipAFBVV95cUxPODJOVUNuaUsweTJOSkg3ZkMxZVhsaXVxbGdBR0hvaWttT0t5YV9fdjNyQ3AwVUpHYjZtemM3bXlDSUNhT2Z5UTQzTmQteVVWcS0wQkdPa0t3Q3VoUktDdnFDWjJHLTZibF95TXlPcHZ1VDdCeFBtbWZyUF9aTUJJVkt2Y0JWZ05VT25kUHhMZjVHaTlrRnpqajRmMXlWZm5URzkwWg?oc=5
-- **Source:** National Geographic
-- **Published:** 2026-10-22T13:04:35+00:00
-
-## Gunnarsdóttir to visit China shortly before first Air China flight - Iceland Monitor
-
-- **URL:** https://news.google.com/rss/articles/CBMitwFBVV95cUxNdlA1ajl3anVKWlVPdHdqbjBmS3VOR2dhbG02X3JtbTloSzFWVEVWTGU3UWdYZVpCSnU0WmVwVjJRdUZ4aTVPQW9GbEF5Q3hxZkJBYkJYQ016dXVDVWhHVlpaYzk4enp6TWFvaW9VSjZMdTlxWnVacXV4aFlCQzB3VnJJLUpFY2NoMXlEVVZaMWF1SGM2Ml9QNWY3Y0RWbUF4b192ZUd2VGNLT1EzNzNNZlBJbzhLY2s?oc=5
-- **Source:** Iceland Monitor
-- **Published:** 2026-10-22T12:30:00+00:00
-
-## Foreign Women in Iceland Lag in Cancer Screening - Iceland Review
-
-- **URL:** https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbWFGX0tqMWhUQnRhcnBuREhIQm1FNEFZSy1iMTZld1RZbGFNZWZRbnp6Z3FlN0VwbFl3M094am04Y0p1UFBXVUtjQ21YN3ViUzVBbzlaTmgwZmpkeHBRSEV3U2w3a3hPWFAxd2ZPRVd5azJQOVNHZTB3UEF1VUJScTFsUjBNV0YzSFRR?oc=5
-- **Source:** Iceland Review
-- **Published:** 2026-10-22T12:00:38+00:00
-
-## 66°North On Redesigning The Past - The Reykjavík Grapevine
-
-- **URL:** https://news.google.com/rss/articles/CBMikwFBVV95cUxObWlGY0h4VGdjOHBZUDJRWVhpRUtGNklOa3NKM0hwXzdhZ1Rsa0ZzS2VSbllweGJXei1YWDl0U0F4dld6dmpLalFDTGF2eTdpQ3drUUEzQ0VoOW4yOUt0ME9ZcXdkWnJUWTJQQjBhNDZDZmx5aWpmS3BMaF9leU1vTU55RHpkZFZvczdZUzNWbWhTdnM?oc=5
-- **Source:** The Reykjavík Grapevine
-- **Published:** 2026-10-22T11:46:30+00:00
-
-## Iceland confirms £5,600 boost for thousands of state pensioner shoppers over 66 - Birmingham Live
-
-- **URL:** https://news.google.com/rss/articles/CBMingFBVV95cUxNSUVjajM0NFMzS2Vra2lCNkVsOHlFdTlPVXBGLTBacEhPcDVfQzRBTkozM25NVXBSdG1NZDVCbVVVVXNOR2lWQUltWWE5RWtZQ2hBc1I3SkFjQWVYRzVfLTczamo5QlFrck1XWDNhREd6VXpwM3VHakR2bUJQczRqZklVaVV3QWVLWlNOLTlob3BSNWJ0ZFQwU2RaUU1CUdIBowFBVV95cUxNNS0za1F4X0pwdXpUN0NEVERaaXdNcEpscGVLR2pzMEZVOHF2djFoZVdoTllLVDlIcS1WYzBza2cwTjgxNUpGbmhwM2ZlUUNaZzdyOUtxemw1eXc1SnJKZm0wQnpad1dkUTZJZ2VUa19Xc2JYbG9NZ2RGanBlajdVandPcHIxMTBwdnk4LXV5bDVjWEhjQUxobnY2c21PQTJONXhZ?oc=5
-- **Source:** Birmingham Live
-- **Published:** 2026-10-22T11:43:00+00:00
