@@ -1,8 +1,14 @@
 # NewsWatch — fusion energy News
 
-_Last updated: 2026-10-24T17:14:29.619572+00:00 · 50 articles_
+_Last updated: 2026-10-24T20:22:05.140601+00:00 · 50 articles_
 
 ---
+
+## Oxford fusion firm wins Ministry of Defence research contract - Oxford Mail
+
+- **URL:** https://news.google.com/rss/articles/CBMiowFBVV95cUxQOTRBT01GbDRhRzVidWVUUzh1NU81dlU4QjUxSi1VYjRYMjdVcUhuWWpjcmRYSlVJU01NcVZzU3l4VXhhdmdMdGlDazFfSWpiLXI1R01NSDJQMk5LYzkwY1BlWTd6VTRmLWhnRDl4T0RNLVpyQjV1UHBzTnFiM1VQSlF5WkJNX01lODVWQUc0QXFXS2VXTDlqNERlZkpqaGVGTnlB?oc=5
+- **Source:** Oxford Mail
+- **Published:** 2026-10-24T19:00:00+00:00
 
 ## WHAT'S UP IN THE SKY: Costume ideas from above - dailyrecordnews.com
 
@@ -297,9 +303,3 @@ _Last updated: 2026-10-24T17:14:29.619572+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMiugFBVV95cUxQaEZsMXhkYUpjeWFLX0JRdERBVGJiTXpLR0VLWnBiVmVSR0l6UTVhTWZfV3RVdTlGV3Fad29PeTdYcEkxblBLTnVVYXlMSWtVQ0l3MXRnRTJnZGlObUFjdldNdk9HYmZ6Q2JkSXNKeU9hZUJEclVHNF9zWEF3ZVMycF9PRTJPME9aR1lhMXNtdV8xd3B1VmlObEN3UE8tTldVSDJSOWxSZnpldnZmcl9lUzB2d0Zoa3U3X2c?oc=5
 - **Source:** TradingView
 - **Published:** 2026-10-22T19:08:34+00:00
-
-## Feds eye $175M stake in fusion startup Helion - LinkedIn
-
-- **URL:** https://news.google.com/rss/articles/CBMikAFBVV95cUxPQjNjbkNUZUpqanJqMVBrZFJOWkoxYlNQOUY3dGNaaFRGUXFkZDllZ0o5bV9XN2RTS1lLaDNvVXlHaEJEd0czejI4ZTRNUzB3S3hlb245SU5VSmdGbHhMTUtEV2ZKRW9oYW5VRXE5UTk2LVROVlVnT1drSlFLYUlBMG9VNFVQVGJVRTNUb2FSS3g?oc=5
-- **Source:** LinkedIn
-- **Published:** 2026-10-22T18:07:34+00:00

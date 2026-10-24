@@ -1,8 +1,20 @@
 # NewsWatch — Iceland News
 
-_Last updated: 2026-10-24T17:14:29.232296+00:00 · 50 articles_
+_Last updated: 2026-10-24T20:22:03.417706+00:00 · 50 articles_
 
 ---
+
+## Poland beat Iceland 35:34 in final friendly before Euro — Interia Sport - UA.NEWS
+
+- **URL:** https://news.google.com/rss/articles/CBMipwFBVV95cUxQTHZwaEhxbnJQeTI0N2pSQ01FZ0VFWk1vcHJoOG1vUHQ1VldGVHM0QWM3S2FZZUFHeDM3bV9faUloZEhBTExqN2hnWk9UOW1uS3RuWU82ZkpCcGhVOUY5enFBZTdYLWxPMkY4cHcxanVkaFQ3TmJkSi1hcUlqMTJrU3lHeFYtSHhOX2Fvc1RrU2JZV2pqNFRHQW56VFNKcF9mcFVvTFN6QQ?oc=5
+- **Source:** UA.NEWS
+- **Published:** 2026-10-24T18:29:35+00:00
+
+## Emergency landing on highway caused by engine failure - Iceland Monitor
+
+- **URL:** https://news.google.com/rss/articles/CBMipgFBVV95cUxPU1FvblEzbnNXYU1WOGc3T29iUkRuRTlNS2o2UlJmNzhRRlRaeUQ5UWFHbUVFQy1BQzVmTUJLcEhRU3BFS1VfRGZaNnFxank5QkpFQjRsa0I4QTN4eEhvYlBOd0M0VUVMNEF1cGxSU3BBLWs1Z0RpMjNyUTFULTdOY2xmcURiaGRId0c2SktqRWFvamFMelJpaVVkVDJfdExsblBLb0lR?oc=5
+- **Source:** Iceland Monitor
+- **Published:** 2026-10-24T17:31:00+00:00
 
 ## Dramatic Black-and-White Captures Showcase Iceland’s Perilous Reynisfjara Beach - freeyork
 
@@ -291,15 +303,3 @@ _Last updated: 2026-10-24T17:14:29.232296+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMimgFBVV95cUxQVklheDFpU3hYUVVLOWIwSl9waDFRUjNhbmpIVDFpSk00OUx6d1JqT29aSFBma1oyYmRDQUowU1lINS1EeDJoSWJoMHlRN0pnVDh6Q090WW5Uai01Q0s2ekd4SGY3ZjBCbFE4bkd5VGFFbVR4aDJhUWkwY1hSVi11OE9FQkRPZ2ZJdDVGakhXNUVTX3JSUVZqN0FR?oc=5
 - **Source:** TOD
 - **Published:** 2026-10-23T04:28:13+00:00
-
-## Discover the film locations for Supergirl (2026), around the Cairngorms in the Scottish Highlands and in Iceland. - The Worldwide Guide To Movie Locations
-
-- **URL:** https://news.google.com/rss/articles/CBMiZkFVX3lxTE1USUEwakZRMEFZQ09IMEw1eFVfdVBtRUhDZ3dJaWhlNlUtelFfQ1B4OXN2UVhTY0V5SzJpSmNJNXB3UFVlZE1UZ3hwVmJ5ZVk3bzRkVXE3aWxkREhEQVpHWVdvMFV0Zw?oc=5
-- **Source:** The Worldwide Guide To Movie Locations
-- **Published:** 2026-10-22T17:27:03+00:00
-
-## I'm a veteran traveler, but a rookie flight-booking mistake cost me $3,000 — and taught me 4 lessons I'll never forget - Business Insider
-
-- **URL:** https://news.google.com/rss/articles/CBMinAFBVV95cUxNdDVwcnh0ak5JY2s5eDNTbzNYTkJ0NS1XUi1fN1hyTkJKRlVmc3Fjcm5VczJ2emVrRldKeTdPTVFRMEowaTY0MV9BQ3JnUWVxVXR3bnVySDdPRFNKTEtOcmpDRDFlTnFaaXNTbk1lTk1jN3licGt4MmpzSnJrNEx3U2dLcGVDYWVVZHduUVdkMzgwTlVXamo3VlJ0Y2o?oc=5
-- **Source:** Business Insider
-- **Published:** 2026-10-22T16:11:00+00:00

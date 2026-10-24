@@ -1,8 +1,14 @@
 # NewsWatch — Apple News
 
-_Last updated: 2026-10-24T17:14:28.076705+00:00 · 50 articles_
+_Last updated: 2026-10-24T20:21:59.443702+00:00 · 50 articles_
 
 ---
+
+## Peter Thiel says Apple has done 'nothing new' after Steve Jobs - Business Insider
+
+- **URL:** https://news.google.com/rss/articles/CBMioAFBVV95cUxQdVZfNjRHanRxZWRpUjBhUm96UjNoYUowVXA1WktUUHI3WkN3aExqR0xkUEtSaEx1SGRxeG10OG5iVGNQVDd1V2hXZkg0YlEycGVzS3VObENRdXRaUnpLemxDSHU0SkpzREhiYzRkem8xZ0xFaXJIYzFZYUJ3YXFueXpFeGhNT2tleXR0WXg0MG5uc1hWRURBYksxTndHbU9t?oc=5
+- **Source:** Business Insider
+- **Published:** 2026-10-24T18:58:00+00:00
 
 ## Apple’s iPhone Duo hits stores with supply short, demand high - Taipei Times
 
@@ -297,9 +303,3 @@ _Last updated: 2026-10-24T17:14:28.076705+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMizwFBVV95cUxNN1dEX3dnbTZCUjhERF95cUZMdl8yMnZycEl6dEJmeHJKVUt3RmlXYk83eWdDSkR4cS1iS0tMX0lsdjd3eXRMWFljaXhGTkRuRkFsRHhqUkVhTEx5MWQ5dllKSEhBMjRqS2NkTXZ3VmJOMjB4dzhhbzN4ZGNRTUlLNzdFT1d4VUZQTk1qS1otaUV2UTYwU3doeWJDQlBBT1E5QkdpRnkwa3RKYzBBNTFXRDlQWVVJeFpOVVFtdUxsaW5IM3lvU3NZQ2hCaXc2dmc?oc=5
 - **Source:** MarketBeat
 - **Published:** 2026-10-23T08:07:17+00:00
-
-## 43,618 Apple Inc. $AAPL Shares Acquired by Davis Rea LTD. - MarketBeat
-
-- **URL:** https://news.google.com/rss/articles/CBMitAFBVV95cUxPVzB5TGpwSDNINkJzX2pOYXhmTWdWaWRGVWYwVDhxSzNYcDVyVWM1Q1ZmLUs2OTE1QW5KTUJzRTR4dGhldTFSb1FfamVOQmJjSmZLUE95NVdETWt1dUhWdjdzMVBRU3l5Mk9xR1lnZWNxaVpjQVFDdVFFbmlmQmp0RmNvWUdHVTBEekkta0xoZHBWbFVzLVNmRWpCdGN0WVB6d0hGQVhyMlFUclhMSk1mTFhsb00?oc=5
-- **Source:** MarketBeat
-- **Published:** 2026-10-23T08:03:10+00:00
