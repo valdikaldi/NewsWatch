@@ -1,8 +1,38 @@
 # NewsWatch — Iceland News
 
-_Last updated: 2026-10-24T08:42:02.024506+00:00 · 50 articles_
+_Last updated: 2026-10-24T13:51:54.597138+00:00 · 50 articles_
 
 ---
+
+## Iceland Review Playlist | Women’s Day-Off - Iceland Review
+
+- **URL:** https://news.google.com/rss/articles/CBMigAFBVV95cUxQdWtsZWhIdW1zdDQ2TjREWXhhbk1DY0NnUTdZVXVuVlc5VVZ3R2J2N2tXcnRIMEt3Rm5naTlsWkdsdnhYdmdzbmlPbGNFdm50RDZtaUdKbEVoZmFyb01CLWc5bDNKWnluX1R5NEhVUGpUVGpmNktOZE01WlFlREV3Tg?oc=5
+- **Source:** Iceland Review
+- **Published:** 2026-10-24T13:45:35+00:00
+
+## Iceland Replaces Percentage Discount on Rural Flights with Fixed ISK 7,000 Subsidy - Iceland Review
+
+- **URL:** https://news.google.com/rss/articles/CBMiigFBVV95cUxPZlRWcGstS2RRbGwtV29DZTk0SjBhRVg5TjVjSlhTQVh0YWNTdnByMjFGYllwM3hweW44TEFDWkxXQmJzd2NEdmlhVU5GTDhIRnNOY2ozXzhWTDVxQkFVSXNER3dnOXRkWUE1VTJReTZFSk15YzBncHJkRm54d2pKbUtaZTFpTGZ0RFE?oc=5
+- **Source:** Iceland Review
+- **Published:** 2026-10-24T13:00:00+00:00
+
+## Icelandair Posts Record Q3 Revenue and 11.8bn ISK Profit - Iceland Review
+
+- **URL:** https://news.google.com/rss/articles/CBMiggFBVV95cUxOOTFyNVFWc1V6VEVjQnRPVTdlaDJldEE3bGl2dlQwblVtcGZranNDRDhxak14NUNKblJqcEFGU1JoLXF2akYwaTNHdm5jUV9oTkthdDZYaXVlRHQ5UzV2X0ZQcWQ0eGRsUUJNdWV4aFVteUxLd0FEbzI4NllEQlF4TV93?oc=5
+- **Source:** Iceland Review
+- **Published:** 2026-10-24T11:00:00+00:00
+
+## Skip The Blue Lagoon And Soak In Iceland's Underrated Geothermal Spa Hidden In An Enchanting Forest - Yahoo
+
+- **URL:** https://news.google.com/rss/articles/CBMimgFBVV95cUxOWUFzS2RndlZDNXJiZFBUaDlzaGR2UXNNTUJqNV83TzhrNWNaMktBZHYtUlJZV0tKOW5veGo2X3NUNUxoTFdVcUZRMl93bUpkOUFSRzZUdXlrWC1DQnVmZDhiTFd1QXpnbU9jWm9oTm1zTUxGU2dFenl2SVJ6c3RzdVVzcDdTMnF4UDltWGhqa0N0UHVuUzFtc1R3?oc=5
+- **Source:** Yahoo
+- **Published:** 2026-10-24T09:45:00+00:00
+
+## Iceland Sets 2030 Targets for Reading, Maths and Rapid School Support - Iceland Review
+
+- **URL:** https://news.google.com/rss/articles/CBMilwFBVV95cUxNdEdqQXNBTFEtYWZDUXJ3M0x0S25tak5CY00wLUx2dmoxalVJRWtUZ2tYU0laejYxSEJ5Q3d4RnZpRFlvd0cwQ3dJNGp0cEl0OV9QSHFwVVFBZ1B0bkVZUEgyRC1fX2dubUxUQndjSUk1eVFBSFk2WVY2U2hqbm9EWHdpRV82YktuX3hxZGhKeXg4WEpXemFj?oc=5
+- **Source:** Iceland Review
+- **Published:** 2026-10-24T09:00:00+00:00
 
 ## Farming on the edge of the Arctic - Farm Progress
 
@@ -273,33 +303,3 @@ _Last updated: 2026-10-24T08:42:02.024506+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMib0FVX3lxTE4wR1NSenBDb0RzOVBkbzh0cnJDXzdXYjBpUktQZ1YzWk5rcEtzc2N6VE9TSi1nMmVMOWFHR0NFY256dHhwbG00d1hlX2xOLVlHNVpKUGthRzZONFVJVlIyNUV3d2M5TzZHbGpNUzd3TQ?oc=5
 - **Source:** UEFA.com
 - **Published:** 2026-10-22T16:06:53+00:00
-
-## Iceland commences private 5G spectrum move - Mobile World Live
-
-- **URL:** https://news.google.com/rss/articles/CBMikgFBVV95cUxPVy1ka0tHVlZvSnlFT1VuX0k0WFcxME1VQ25ic08wUXIyVlA2dDFoVkhiX2VDTjhCNjktZTE4ZWxUeDlCYWt6MWYxdjczbjJTTEJ3aHV0ZmxGbUtzWUUtQndVVHQwdGlYbGlZRUlEOXhUa2tNcG91TzZsbGVHQUpKN3NFQTA1SkRQOUVxc2xvcFB2Zw?oc=5
-- **Source:** Mobile World Live
-- **Published:** 2026-10-22T16:03:30+00:00
-
-## The Thief of Time at 40: A Walk with Steinunn Sigurðardóttir - Iceland Review
-
-- **URL:** https://news.google.com/rss/articles/CBMilAFBVV95cUxNdmx2MXhVdGFaVUFFemphZ2JPTUxaek03U3dibXpoQzQwTko3TmFOLW5rWFpxb1lQOWd3ZV9ZZTNsaFhyUUM5aUV2dmpIcjc5aDBoZEYtOE8zSVdBb0ozbHI3UVlEWml6OC0zZXRreXVsenJRb09XRGl4dEI1WVpVbzNfUUJvY0ltZlc5dHFwVG56ZG4w?oc=5
-- **Source:** Iceland Review
-- **Published:** 2026-10-22T16:00:39+00:00
-
-## Kales expands into Iceland with new JV - Air Cargo News
-
-- **URL:** https://news.google.com/rss/articles/CBMiiAFBVV95cUxPR1Q3MXY5RGZhRkZESGNPbks1d283ZDQ5RE1INWEtLTY5WkZhdHo1TFlpeFNBWkV2c2NGN1JNbHUyNlQwUWZxZXF3eW5uc2N5NDB0Z3JzVU5QTFZTOXdWR2xoZWF3a0IzY2RRRnhpdUowbXpnOTdRUW1LdkI5TUp3RE1EemhVMExh?oc=5
-- **Source:** Air Cargo News
-- **Published:** 2026-10-22T15:04:06+00:00
-
-## Magnús Thórir Matthíasson - Transfermarkt
-
-- **URL:** https://news.google.com/rss/articles/CBMimwFBVV95cUxOUlYtNW1NQkprMzBQeXk4bkNsTzVQLUhRaThfaWxTVS1ZVGwtaXZYTlhwWFFrdUc1dElCV1A2UEZMVHdfWnVkbDNzY1NxU0JaYzE4MmJXaVJ0RlpwWHhYdDU4UGtNY3Jnc3kzM1BvcWlsX1ZIOWExV3Z0WW9ZcExfbTg3Vnp5U1lfSkpCTHNQSFpBU3pacGpLWmNGNA?oc=5
-- **Source:** Transfermarkt
-- **Published:** 2026-10-22T14:57:01+00:00
-
-## The Best Snorkeling Companies in Iceland: A 17,700-Review Study - Guide to Iceland
-
-- **URL:** https://news.google.com/rss/articles/CBMihAFBVV95cUxOSnh2N1B0c1dXMTdxTzdQNDVrUW9wWFZTa3lwNmpkVi05c0VLMnUxSEVrOW5GNVdadVNlQlVPZ1U2Wk5aZmltdXNRLTJvLTVrNlVMTHB4SU95RlQwU3hvQUtteEZEZW9udXN6SUNLM1pTcmFub2xZOVBoSWpoZW5SSGc0YTI?oc=5
-- **Source:** Guide to Iceland
-- **Published:** 2026-10-22T14:47:20+00:00

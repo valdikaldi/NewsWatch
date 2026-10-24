@@ -1,8 +1,26 @@
 # NewsWatch — fusion energy News
 
-_Last updated: 2026-10-24T08:42:02.494716+00:00 · 50 articles_
+_Last updated: 2026-10-24T13:51:55.110677+00:00 · 50 articles_
 
 ---
+
+## WHAT'S UP IN THE SKY: Costume ideas from above - dailyrecordnews.com
+
+- **URL:** https://news.google.com/rss/articles/CBMi0wFBVV95cUxQR19tMVlWV0laX0ZXMHdBTnlJbW5kaGRLSkE1a0pPMEI3VmlyaG1scjFZZll0ZTE2NE5Kc1MwUWRnV3ZUX3FvSUU5R21USnpVWG5IZzcyUG5oLWNUR0JHUW5ISTJ5UGFCcWxjTmFkaDZmTk9xcXZOLUhrX0c0RGE5UkpLdzFycFNYZnVzV2c4QmQxemtxc05NQUx6OFpsU3JSaGtDZ1dsMDFCUFdnSlF0ejRuWkFkMnZjb0NCNEdQSlpySVpQRFMxd24tR2REOTdxV0pv?oc=5
+- **Source:** dailyrecordnews.com
+- **Published:** 2026-10-24T11:00:00+00:00
+
+## Marathon Fusion says it has turned mercury into gold with fusion neutrons, 10x CERN's record - Dealroom
+
+- **URL:** https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQTZ2T0o3a1VseHk3c0hFSFpMOW5jVFAweXA1NGV2MkRSTVpyYWNUYkFwRXVBUklpMlVyclBTRlBDVDhZc1lueXdLSHJRVHIxM0xmeXlsX0pzOEJjMjYtVmtBOS1Wek81VmFxZUJMOE1UMlJDSnRPbU5mSXNtUlplUmliN0hCdVVUSk5TNktDaUt3VkZnZm5OVW03S0lWYWRUNEktMnBiTWlQTGVHNzhISjJBajl0eGZqODRDbFc3NG1TbUk?oc=5
+- **Source:** Dealroom
+- **Published:** 2026-10-24T09:46:25+00:00
+
+## SRS a keystone of a nuclear renaissance in the Southeast, DOE Asst. Sec. Walsh says - Post and Courier
+
+- **URL:** https://news.google.com/rss/articles/CBMi-gFBVV95cUxQN2d5bmJqdlRaemM0dkRsb1l6WTJwNjctQ0lnVDVveXRhaUduZFlfY2xOdVBITC1rNVZvS0c5ektVSEJtOFdsd0lWcDZPeUxLUlVRZGhyWmNjcUJ6dTVQQUZIbjRpM1M2RGttWlhLWnFuS1VZN3dIUG04a3R4Mi12ZHJhRm9zMElBdm94YzdMZXJGMkg4OU5FSnZKNFdDUlJnOWxES0QyQTdWaEpQR1hPODY3dk5vdFgzdHlZWmd6RC1Ja3I5Yk5GWDBUa1RLX3lHSUdlXzlMNlJUSnpzR3NQMzMxUEtCbi11cHJjcXM4Q1NHdmNNMFcybUdB?oc=5
+- **Source:** Post and Courier
+- **Published:** 2026-10-24T09:45:00+00:00
 
 ## US Startup Claims It Turned Mercury Into Gold, Says It Beat CERN's 2025 Record 10-Fold - NDTV
 
@@ -285,21 +303,3 @@ _Last updated: 2026-10-24T08:42:02.494716+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMikAFBVV95cUxPQjNjbkNUZUpqanJqMVBrZFJOWkoxYlNQOUY3dGNaaFRGUXFkZDllZ0o5bV9XN2RTS1lLaDNvVXlHaEJEd0czejI4ZTRNUzB3S3hlb245SU5VSmdGbHhMTUtEV2ZKRW9oYW5VRXE5UTk2LVROVlVnT1drSlFLYUlBMG9VNFVQVGJVRTNUb2FSS3g?oc=5
 - **Source:** LinkedIn
 - **Published:** 2026-10-22T18:07:34+00:00
-
-## Extraterrestrial Fusion Reactors Could Unlock Limitless Energy—and Birth Human Space Civilizations, Physicist Claims - Popular Mechanics
-
-- **URL:** https://news.google.com/rss/articles/CBMiiwFBVV95cUxQRGFYVGVXZWVkczB6Z1pSVDJidEk1Tkxuc2xHbk53M196ekRvazhQQmVyRUtXRFBRcDJCMG8wQS1aQ1docHFXRHdkWXNsZUtxQkM1SjVWSUJVbWNLY3JWal9lUTVzX05ycFVnb1N0c1ZUNVJNSnN4Y2JYbU9uVzhPNG1KVWIyVkZ0eDQw?oc=5
-- **Source:** Popular Mechanics
-- **Published:** 2026-10-22T18:05:00+00:00
-
-## US to fund speculative nuclear fusion venture backed by investors with ties to Trump - Financial Times
-
-- **URL:** https://news.google.com/rss/articles/CBMihAFBVV95cUxNV0VVbVlDN3BOWGlJclJUdVhVNENKTWNxejlDT3NYaGNBSEE1TzJ5R3hQM1Z4WmZyNU9FVFdIT2s2cGNGdmNvOTBwUFc3QXdrYjBfb050MDNxXzl6ZUw1NFBZdG1pRVJ3RWJYMHMzNTZrX3c1RF9mVTd0WHBteldiTzh0VUo?oc=5
-- **Source:** Financial Times
-- **Published:** 2026-10-22T17:20:01+00:00
-
-## ⚛️ An easier path to fusion: heat the plasma first - www.theangryoptimist.org
-
-- **URL:** https://news.google.com/rss/articles/CBMid0FVX3lxTE1GelNWbktDZVlVQWl1YkV5SDFaWHQzUUR4SEswUUhpMjRBVktVUFVWYkFfNG9GX21MdnNPZjhfOFpVQVQzUTRSdWFJME16a0IzNDluOVd2dTRBc1ZUS19Ia3RkT1AtUzVOalpMeWJpcTRGZ1ZMVERz?oc=5
-- **Source:** www.theangryoptimist.org
-- **Published:** 2026-10-22T17:02:54+00:00
