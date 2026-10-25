@@ -1,8 +1,62 @@
 # NewsWatch — Iceland News
 
-_Last updated: 2026-10-25T08:59:02.866899+00:00 · 50 articles_
+_Last updated: 2026-10-25T14:08:22.026239+00:00 · 50 articles_
 
 ---
+
+## Sales of Insulin Syringes Rise Amid Concern Over Unregulated Peptides - Iceland Review
+
+- **URL:** https://news.google.com/rss/articles/CBMilgFBVV95cUxOV1I1czZqZWg5TGpsUHBhNU04eXBJV19DS1dnMW8yYkxLUTFoU1NmeG5tWUxYQnBMakNOSE5KUWRLallaUlZRc21YSkhwd0N1M2paWmMtVFpvaGRRSENfXzhRUFc1QnRMQml5NjZWREhBLTdVMTRGTldfaUpjbDBIQjVKcGZOLWpHaGJiM1NPODloTUdWa0E?oc=5
+- **Source:** Iceland Review
+- **Published:** 2026-10-25T13:30:00+00:00
+
+## Anne Carson Wins 2026 Nobel Prize In Literature - LEADERSHIP Newspapers
+
+- **URL:** https://news.google.com/rss/articles/CBMiekFVX3lxTFBLM1JXQW5uTFZtU3VVUk4yaWZxZ2hUX1ZWYmJKN3pzT01aWHpaVWVpQklXNXFWMERvck9MNzRmZU9ZbXJXSllLdTR0aVVBcFM5UGhGWjBGSEthaUpEeWhMbVRRZnhQc3F4S1RSN2UwUklvMlFKLUhVdUJn?oc=5
+- **Source:** LEADERSHIP Newspapers
+- **Published:** 2026-10-25T11:58:15+00:00
+
+## China's international air connectivity to improve in winter-spring season - Global Times
+
+- **URL:** https://news.google.com/rss/articles/CBMiYkFVX3lxTE9Tb0lvaWVXbzBnTXdCaUQwMjV4UnJqVnpmRDI3THFUYVFSeGlhdllPOEFBNG1KeHpNTUpPa1lHbVU2bl80TUVQTFZmRDE0cU1LZGZXano4R2ZmM1hEa0xkVG1n?oc=5
+- **Source:** Global Times
+- **Published:** 2026-10-25T11:44:00+00:00
+
+## Reykjanesbær Warns of 48m ISK Ambulance Funding Gap - Iceland Review
+
+- **URL:** https://news.google.com/rss/articles/CBMijAFBVV95cUxQWnRWX3k5YkQ4VFFFRmV4Si1PaS1tcG9EM3ZtakRZYWRSSjkyTDZWWGpkTGdIaDdGREpIZ3Y0OEpzNHFoazRva1JEbl80eUxjdDB1REJZTF96OVl2NnlSZ1ZSM1lsQm1GYTJyQWtkX2l6clo5YlVNaDZzTC14LUlqdE05dTJUX0VLeTEzMQ?oc=5
+- **Source:** Iceland Review
+- **Published:** 2026-10-25T11:30:00+00:00
+
+## 7 Countries With the Happiest People, and 6 With the Unhappiest - Yahoo
+
+- **URL:** https://news.google.com/rss/articles/CBMijwFBVV95cUxQY2JmdktRd3llMndCTDM4OUtPVlpqMS0tRkRIMVJGRkg5cWVzZlpjQWs4UnlTZ3MzNnNELUVlYU1XSGxRbjZ1d3BCYTh0NTFZQ2d0c196UkpuRHh1cG1iUGdJeTVBTFBaM09PM0EwbERZNVgtaXVFQURCc3JtcGlaUDJTTUdleWUwWFlscGF3MA?oc=5
+- **Source:** Yahoo
+- **Published:** 2026-10-25T11:17:00+00:00
+
+## October 27th’s Complete Sports Schedule: Where, When, and How to Watch Your Favorite Sports Events - EssentiallySports
+
+- **URL:** https://news.google.com/rss/articles/CBMitAJBVV95cUxNbTRSQUZIRy1vY2l5cFpBbFpPcDY5b0Uxb1EtUGwtQUNjMS0xTFVTclBSaUhpdkZiN29TZ3lkTkZrclFYdVk1TW9NQWhHOEFqWTdfY0VaOEttUEtrZldtcURXbl80NXExMDg2dk5GWEwwdlVVSG1qYlA2b1VIVGRkQ3Y1SVJQUEVGMVk1OU42MEdvcy1OWEN6X3VnenRWS2NGYUdyV2Faamo2aE1uRWRuZnQzT1F6a2cyc181MldiV0dicHI5b29FQ29qeE44OVB6amhseUlGQXR0MFpWOERZUmRBcnByZXRUQnc3ZjM3eEptUXlHZHhaa1F6eFVkblgwRWpQQjFyQXRtZTlLaHNvc1FYb3JkX3RLUkRNVVlfUkJuVkdLNndJbl80TkNZYnI3aWhkVw?oc=5
+- **Source:** EssentiallySports
+- **Published:** 2026-10-25T11:00:00+00:00
+
+## Ari Eldjárn takes the stage at Royal Danish Theatre - mbl.is
+
+- **URL:** https://news.google.com/rss/articles/CBMirgFBVV95cUxNVGo0VDlhdnBQZGFQeGlLWTJNblhhZ1NHdHNsdXlvNFdQVWRjbHJlQ2NqRU1TdHZRQ19Vdm9uRDJNZl9xV21jSVlZTUFoTzZWa0QtQjRxQjdFYUpTVGFLOFhxYS0wZ1pmN2xkVmxJYU9wS0Vsa3drSDFDZGhiR3cwekR3QlJwVkw3T0EwRF9mZWlwTEducUVuaVp2UFVMcW9TbzZad3ptTng0eFUzdnc?oc=5
+- **Source:** mbl.is
+- **Published:** 2026-10-25T10:00:00+00:00
+
+## Today in Flight Simulation News – October 24, 2026 - Simulation Daily
+
+- **URL:** https://news.google.com/rss/articles/CBMiggFBVV95cUxPZWFKN3ZmUjA2ck8tZkNhWnYyU2M0cE9UZ1YwOEI2MlBjR2lxdkJJV0wtU1FUdExyMG9oaUhvb0FqcWx4aGplR2did2VpcnZpSjVTbzYxQldMNFctVFoxWnVzZ1pIZ0w5NHZ6bW8xVkVlSF9wY2lBZFhJeERqTW8wZWdB?oc=5
+- **Source:** Simulation Daily
+- **Published:** 2026-10-25T09:46:44+00:00
+
+## Efling to Review Whether Union Should Leave ASÍ - Iceland Review
+
+- **URL:** https://news.google.com/rss/articles/CBMihwFBVV95cUxQSkpBdF90RVlPbURpTUwwN3JOaU9QUXNZbHhtSDREaUNwcFhla0ZDSlRwb1BoWm54d1ZZTHVPRmpFSXBubG1MSVQxamF3ckRrM3hzOElQRU5UZkljd0hrb2RGNEp2Mm9icXV3bVpkQnpMa0lZVnREbWlzZzZFeG9rc3k0bUJ6bnM?oc=5
+- **Source:** Iceland Review
+- **Published:** 2026-10-25T09:30:00+00:00
 
 ## China builds a giant city of ice every winter. Here’s how to see it - IndulgExpress
 
@@ -249,57 +303,3 @@ _Last updated: 2026-10-25T08:59:02.866899+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMiwgFBVV95cUxOamt2QThiQmFfSlB4aTBBNHRkaUZySGJMOVFxYkh4MFdQRHpnWlM5UzJqOS1EdDN3S3dFYW0wVEk1SUNraGJUMnF0SFRieGg1c3JfM0hyX0YyZHdOWDBjTnVsUW93X3pXdGZ0OWxsMmo1Q0pUZDZ4YXllSnA3TF9LVVAxQ3ZmVTAtNzhoalQzdGN4Ti1qR29ISmhzM3BKU2VvbnJ3dFdXQ1V4bV9wSVZtUFhLNFpZSVk2Z2VTSEVURFRSZw?oc=5
 - **Source:** Data Center Dynamics
 - **Published:** 2026-10-23T12:42:39+00:00
-
-## A New Ferry Route from the UK to Iceland is In The Works - Time Out Worldwide
-
-- **URL:** https://news.google.com/rss/articles/CBMimwFBVV95cUxOdWpuSC1VSXY0TGl2YnJuZkFPNkFDcmlFTXZPeW5LUnl1dGJiS2RhVlZvSGZxYUdTUl9wWXFNMWV3Y1lHQXhmX0J6RGdpOUMyWkRnR2RUOGRRbTZCeVlGaUpIOE04OV9WNTlYYURJdm9tdTZfNFdJQzN2b2dVQnFqRVdSX3FRdVo4TklhSjNkSWRhNVU2bTNOREJ2NA?oc=5
-- **Source:** Time Out Worldwide
-- **Published:** 2026-10-23T12:34:41+00:00
-
-## Experiencing rejection of transplanted arms - mbl.is
-
-- **URL:** https://news.google.com/rss/articles/CBMikAFBVV95cUxOelBha3NWUFkxYzlsSUtHTmEyYXdENTJMU0EwX0FwOWJuYUt5amU4aTFfOWdRRllrOUxkaUF5aFVhUXVSUWlsWlNXcVRtbExPUDNPZFpzM2g0b2pEbkZuMWtvWXVmbldhd1FCX3FOTFk4RTRwV1RsTV95QVNXN1dDMlU0QURQQndlLVMwR1VLcnU?oc=5
-- **Source:** mbl.is
-- **Published:** 2026-10-23T12:30:00+00:00
-
-## How To Choose An Icelandic Basketball Team - The Reykjavík Grapevine
-
-- **URL:** https://news.google.com/rss/articles/CBMinwFBVV95cUxOUlI5RFFua0M1VFFlcWhILUpMaWdjUG9fWUd3ZnFIOHhMem9nZzB0b3RqR0RxN3lWTnFvbGlkRHdCSFJvUFlrVEp2R25mbGpwYjJUNVlEa2N5eDVvd3I3eXN3X1FUY3RKblk3c2ROdnd2ZUpaWmo5YXNzSFFWQUFUU0NONHpzczFVWWpsRl84NVladEU4eko3WnViLXpnS2c?oc=5
-- **Source:** The Reykjavík Grapevine
-- **Published:** 2026-10-23T12:05:35+00:00
-
-## Minister Drops Disability-Services Employment-Ban Change - Iceland Review
-
-- **URL:** https://news.google.com/rss/articles/CBMiiwFBVV95cUxQQVFydWlLaDdMT3RkRkxNQ0NmS2M4bnRTZnJSX1VjMkFUZTh4MGtZTi1wbU1acUNzRkxYazl5UmxMcEUxd3NYVU42RE5GekNIa2thakhiT2FUdl9JNXJJUV9xRzJLMV9hd0Q5SUFsUkRqR3dUT0ZjaC1IblV5ZjZ1a0lmZnVPcGoxUVBZ?oc=5
-- **Source:** Iceland Review
-- **Published:** 2026-10-23T12:00:28+00:00
-
-## Press release: Flott Taxi Offers Private Keflavík Airport Transfers from ISK 15,000 - Iceland Review
-
-- **URL:** https://news.google.com/rss/articles/CBMijAFBVV95cUxOV2MxU05jVmVnZS1CclNReXhydDE5Zk5SdVVpTXBwWWZhNTN2VlppYWowMzNqc2NycHZSRTk1c3VmTkd6MlJtenFyVFZrUEFoUVlWVUpiQXRJZmtEdVN4R3RqVEJXelU0dXJmN2lJYy1RLWlYZUZQcXBaVFNwYXZ6LWVYdXBRb2FRUnlqdw?oc=5
-- **Source:** Iceland Review
-- **Published:** 2026-10-23T11:48:21+00:00
-
-## Scientists Traced a Strange Hydrogen Fingerprint in Iceland’s Lava Back to the Deepest Place on Earth, and It May Not Be What They Expected - The Daily Galaxy
-
-- **URL:** https://news.google.com/rss/articles/CBMic0FVX3lxTE9CNFRER2lGaEV2V1R2cnIxUldkbFhpMHFaWXBGNUNhZ01fRmk5cFNlMWtrM3A5bS1WeVJPVEZzRTJMUlUzNlowUVZtOEp6WDZtUWE4dTJET1puakR0cWNZWmVJanNlRjVOOTdtaFBXc2liZ0U?oc=5
-- **Source:** The Daily Galaxy
-- **Published:** 2026-10-23T11:15:00+00:00
-
-## The new £2.50 supermarket pizza slice that shoppers are convinced is 'a scam' - Metro.co.uk
-
-- **URL:** https://news.google.com/rss/articles/CBMioAFBVV95cUxOZGlYZ0d3TC1zSW1iWFRtRWtTbWJ4bDRJVzh0Vk9yR0xBVEwtZ0VxTGJNZVlLMS1DbXB6TmdGbk5NU2RJMHNoX19wbkpPSUxYOWJNeDN2RDZFOUtyb3d3MW5BU05teGJELUxKWmkzRWZVYTE1MU9KOXZqcVMzQnJYM25SZWg1RXZyZmxPQ2pGSVdkczJpdlpudl94N3pQVUdw0gGmAUFVX3lxTFB3dHM0bmRPRm1hTjBQX2E4VnZQajRLTzN0M2xCT2l3Mk1tMTFVck5RaU52QzJfSEozcklKb3ZiTm13N2RmOExldFBZaV9HV2JLcHRrbE5EMERfZnR1NGVJWEZPTjl1SEdmUHNQRkpuSl82WjdrYzRzd1YxNnlHS0JWUkZsTkJaTXVMMERWTVo0T084blI5VTlwZFIzQlRIdTJfWEtRckE?oc=5
-- **Source:** Metro.co.uk
-- **Published:** 2026-10-23T10:47:00+00:00
-
-## Iceland Seeks Tighter Nursing-Home Medication Oversight - Iceland Review
-
-- **URL:** https://news.google.com/rss/articles/CBMiigFBVV95cUxOcW5zWUhwMWNrS19Qby02SngyUHd2TFVxc0FSRmhkblMxVmJnbnJmLWNSYUJScko0WHZURTJJMFRQelhqbmJ2N0J6a3pzRWliSVJ4TGxnYl96cmt0OEgtaHZuVlVxR0VGVmtRaWFHQUhDaG1VN2tpN2EtWm5NQnFTbDk5TTNzZ1hnNXc?oc=5
-- **Source:** Iceland Review
-- **Published:** 2026-10-23T10:00:09+00:00
-
-## Icelandic cargo connectivity complemented by Kales Iceland Air China appointment - Star Concord
-
-- **URL:** https://news.google.com/rss/articles/CBMirAFBVV95cUxPN0RkUl9NaUt0Zi14WFNGRGYydnBMTjhWQVVNc1hmMWZNcXpuS3FHSWdzeW1PTEdKVm9FdG5VZVBWMEhtREZoRmNDOTIzcU1tQ1pJMWwxOTd6WE5LcFBCREt1QXpTTlYzZ0VSWjdibkFYdjBnVzJ5NHpDLWk3Zm81Zk9mWHFvUHRzSmZvMzBCUUU4cHVwcFJNTFFKbVVhSmttNDY3eXB5UHoyUk12?oc=5
-- **Source:** Star Concord
-- **Published:** 2026-10-23T09:52:41+00:00
