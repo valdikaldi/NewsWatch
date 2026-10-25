@@ -1,8 +1,68 @@
 # NewsWatch — Iceland News
 
-_Last updated: 2026-10-25T00:02:33.943536+00:00 · 50 articles_
+_Last updated: 2026-10-25T08:59:02.866899+00:00 · 50 articles_
 
 ---
+
+## China builds a giant city of ice every winter. Here’s how to see it - IndulgExpress
+
+- **URL:** https://news.google.com/rss/articles/CBMitAFBVV95cUxOT09lN2xUX3d5UXhLUnFfU2xuUmw1YXY1OExVNVM1YVpjb2M4dk5mVkUwaXRHWVc2QnNyV1hLUktJYmdQSkY2ZUFQbFJWbW9PcFUwZzFmbWZkeWhfQlRFdjlsZjlOQW5sdHVXLW5ITUlNcUJRSnFEMkxpUVZHeTVQUDhqeU92WnVaOERPRU9iV0h1WEdoWktaZ3dobFBYWVlYVHJ5YTB0STJCTmZoeW12eExzRWLSAcIBQVVfeXFMTUZtb1QzMWp5T2dUOW9sQm1FTWY1LUYyNXNiYlR2bFc3NXllY3ktTjhzMzlqbzRqaG1sVWxhUTMzRGtBbjVEdy1kTXR0Z2pOZFJCbm16X3ctaUdfblVpY1p3a0JrcXNIb1gyWnkydEpHNkRoZ0FxSnV6X3BmcEg3Q2w1ckVzemNZdnNnYnZ5ZXNtY3A1bFhsSWFQaUdRdnhGalBTTjU2Z1BwMFdrM1JmU0hzaU9TcmI4SFFLTzE2TUw2dEE?oc=5
+- **Source:** IndulgExpress
+- **Published:** 2026-10-25T07:47:08+00:00
+
+## Is EU putting profits over human rights in Vietnam? - Inquirer.net
+
+- **URL:** https://news.google.com/rss/articles/CBMilgFBVV95cUxNUTQxNXN0Sl84RTc2aVF3TDBKaUlmNTQtN3RGeXFDZVR4V19TVHNvZnFFWjdIUHBlSV9xOTlPYWhfTHZDdTQ0N2Vmd25IOHhqSk5mNUlwbTZlc25TZXNpdDQwRHVfbGhSWDdWWFBzQ3VyUXN2NU5CSldnbHJTUWhhdzlfazh6cEdGa3FUWUFKSFhTVGphcXc?oc=5
+- **Source:** Inquirer.net
+- **Published:** 2026-10-25T07:10:00+00:00
+
+## Jetty by Archie2022 - ePHOTOzine
+
+- **URL:** https://news.google.com/rss/articles/CBMiW0FVX3lxTE1vdnl1Qzl5SUhCQ2JCVHA1emRmTGJPbnJjNjFmeXh4Q2toWWdURThYSGNhZWZXRUhXRjBMVWRuQ2cxR3h4WnFTdnJ6SjZ3WkdQTjlzNDh4b0VVTXc?oc=5
+- **Source:** ePHOTOzine
+- **Published:** 2026-10-25T07:07:22+00:00
+
+## East Iceland Municipalities to Challenge New Loftbrú Subsidy - Iceland Review
+
+- **URL:** https://news.google.com/rss/articles/CBMimgFBVV95cUxQYzdUY0VGTHFHalRuQktTV1hXSFpEQVNidHF6WWhwWFlHc0VFcGs5RVpmWDV0Q1M0cnA2Q2gyb2t6eFYyWXY3T20zR2VZUkE0WVRKd3QxSGhNc0ZLY0pucmY0bUJKUG9DLTA4Ym1jTVlBenZXRmpmdW9SemJEODZKVDdqLXRZbDdaTktfV1EwVWRjdHAzYUdTZUZR?oc=5
+- **Source:** Iceland Review
+- **Published:** 2026-10-25T07:00:00+00:00
+
+## ‘Ridiculous’ No 10 better off as a museum, says ex-Starmer aide - AOL.com
+
+- **URL:** https://news.google.com/rss/articles/CBMie0FVX3lxTFBaaW1JNHJWekhaaTlYSGlpaGVnWGhjLTgxSWxCM1F2ZEk1ZDBWMjZXeE12Q0xpcVFpcFFFSl9ZTmFjT1Z2SW05VHZ4Z01YQUJoc1lCeDdUV2ZjalFPQzRDNVBBNlZQQmZXZFdIR3ZMQ0w1QV95Mk9henFYWQ?oc=5
+- **Source:** AOL.com
+- **Published:** 2026-10-25T06:30:00+00:00
+
+## Discover the film locations for Project Hail Mary (2026), in Cambridgeshire, Dorset, Hertfordshire and Hampshire. - The Worldwide Guide To Movie Locations
+
+- **URL:** https://news.google.com/rss/articles/CBMiakFVX3lxTE4xaGRoVFFPRVJvN3BvTzhlU3YtZDNnbVBPdzJFRjJKWi1hTjRqSXRhS2p6dmJYZmJTemRTRTNHMWo1WnJZWEhXdWlIRkFaaU5aREg2TUlNWHFIbkwtY0xSUDVhSDVoTWlNY3c?oc=5
+- **Source:** The Worldwide Guide To Movie Locations
+- **Published:** 2026-10-25T05:57:33+00:00
+
+## From Iceland to Ocho Rios - Jamaica Gleaner
+
+- **URL:** https://news.google.com/rss/articles/CBMie0FVX3lxTE1qd0xkQ1hQb3FYVWJZYzZ5NER2UFZwLUJDTV92cVZwcmp1OFJqcmt1U3kwQWx4Q3B4Q0RBVXR3YXVVVEF5cW9ER21hc1ZZSFZoR3FkZW1KUl8xeHhlenJLUEFyZFR0NFc1Q1M0MWt1c0xyWjROeDVadGxWOA?oc=5
+- **Source:** Jamaica Gleaner
+- **Published:** 2026-10-25T05:10:39+00:00
+
+## Discover the film locations for Supergirl (2026), around the Cairngorms in the Scottish Highlands and in Iceland. - The Worldwide Guide To Movie Locations
+
+- **URL:** https://news.google.com/rss/articles/CBMiZkFVX3lxTE1USUEwakZRMEFZQ09IMEw1eFVfdVBtRUhDZ3dJaWhlNlUtelFfQ1B4OXN2UVhTY0V5SzJpSmNJNXB3UFVlZE1UZ3hwVmJ5ZVk3bzRkVXE3aWxkREhEQVpHWVdvMFV0Zw?oc=5
+- **Source:** The Worldwide Guide To Movie Locations
+- **Published:** 2026-10-25T03:50:55+00:00
+
+## These 11 Extreme All Terrain Vehicles Can Go Just About Anywhere - SlashGear
+
+- **URL:** https://news.google.com/rss/articles/CBMiggFBVV95cUxOMUJSRlhTVUswLU9La0Vqc0FzYXJ0MmVkNnllb3NMXy1kSm54LWZ4WlZjMGFnaVZRODVGcUd3T1h3cHJfMW5xaUQ0bXhGSGlBZTVUcm1WLTNVcjJRaFFDbHBUYWdtd2JhV0xJOXpLSDFHS1ZjNHlMYkZYNzYzdE5FUXBn?oc=5
+- **Source:** SlashGear
+- **Published:** 2026-10-25T02:30:00+00:00
+
+## KJALLARINN: PHASE 2 - The Reykjavík Grapevine
+
+- **URL:** https://news.google.com/rss/articles/CBMiWkFVX3lxTE5mdWdEVjBMN082M0dzOFNhbnJyMm1mVlZmN2MwUWs4Y1VNZG1mTDlmdU9VNExMQmlDVG4xWkJxV3l1MWFvbEk5bVJIVlBqVjl5WWFSTy04ekZkQQ?oc=5
+- **Source:** The Reykjavík Grapevine
+- **Published:** 2026-10-25T00:24:39+00:00
 
 ## Super Lig News: Samsunspor vs Amed SK Confirmed Line-ups - FootballPredictions.NET
 
@@ -243,63 +303,3 @@ _Last updated: 2026-10-25T00:02:33.943536+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMirAFBVV95cUxPN0RkUl9NaUt0Zi14WFNGRGYydnBMTjhWQVVNc1hmMWZNcXpuS3FHSWdzeW1PTEdKVm9FdG5VZVBWMEhtREZoRmNDOTIzcU1tQ1pJMWwxOTd6WE5LcFBCREt1QXpTTlYzZ0VSWjdibkFYdjBnVzJ5NHpDLWk3Zm81Zk9mWHFvUHRzSmZvMzBCUUU4cHVwcFJNTFFKbVVhSmttNDY3eXB5UHoyUk12?oc=5
 - **Source:** Star Concord
 - **Published:** 2026-10-23T09:52:41+00:00
-
-## Coastal states agree mackerel catch limit for 2027 - IntraFish
-
-- **URL:** https://news.google.com/rss/articles/CBMinwFBVV95cUxORTZUbmJ2SEZEclZoaWpwYUFOUzdGeVliMmNxT1NPLVZxNGJmN0ZsNVE3REJtdWVMOVRWM2I3bnY2bURqZDZDamxWbUlJRWZUZV9DQzZudWg1Zy1WeFFRYXlRYjhCdVY4TWhCdk03T2M5Qkx3aWh3WThORUxFUDQ2eU9uVWlfUkZuZDYyeTRyWWp5d0dneXJZSmhDdEVTWXc?oc=5
-- **Source:** IntraFish
-- **Published:** 2026-10-23T09:25:46+00:00
-
-## Icelandair Q3 2026 slides: record revenue, tough winter ahead By Investing.com - Investing.com UK
-
-- **URL:** https://news.google.com/rss/articles/CBMivAFBVV95cUxPWVIyOGZxTFJ3U1pzX2h0MTdlMFNxY2ljV3F3M2xqOG5yOHZlcnJtZmxlV2ZHd1dTai16aGtnV0wwX09ub0FCRkswaXFvYnBzWEFRZTloeExnbWxWSzJUQ2I0amxXTHdsWjkwLXdOT0RUekZIdjZaU2U4QUxDZlBLOGkweUJPOEcyajZMX0Z0SFlickRqUXpxem1ha1NoLWFael9tSno3R09HcXJzT0Q0ekNMNHljcW1tWXZlZQ?oc=5
-- **Source:** Investing.com UK
-- **Published:** 2026-10-23T09:20:00+00:00
-
-## Icelandic land-based farmer closes $12 million round - IntraFish
-
-- **URL:** https://news.google.com/rss/articles/CBMingFBVV95cUxQNWpjN2MzUDEwWFpsNHZyWmp6d2xVaXU0UWRuMWxlWVhIVnRDc3VmUXYwdmJxcHlTckZtdlcxTjk0clhMNWw5WWdBWkdRRXU1QTZla1UtcEUtUHJHaXhRWXUxZzhvNUdMWFpBbE5JVUdCNWhRbTR3TnJpYU5zTXNRNnBQZFJHcTdqNjRJOWF1NGtVS1FfN2R3WTl0VG5RZw?oc=5
-- **Source:** IntraFish
-- **Published:** 2026-10-23T08:28:44+00:00
-
-## Best Glacier Hiking Tour Operators in Iceland According to Booking Data and Verified Reviews - Guide to Iceland
-
-- **URL:** https://news.google.com/rss/articles/CBMiiwFBVV95cUxPaEt1b3lna291WHk5cHJlaUU0NTJrNEhJaWNxaXpxN0xJTXZMTUxENUxQZzEwclUzS0VLaHJQbmlpbVJUdGFLbkI2V2ZkRDNJRmFaQUdlSFZkYnM5Z0FZLW5VcElpSU45VG9EcVhSZXhlU3lsMUhybXBVb29rX1lCUEYxcWxtVFhWOWlr?oc=5
-- **Source:** Guide to Iceland
-- **Published:** 2026-10-23T07:43:59+00:00
-
-## Hulda María Agnarsdóttir carries Njarðvík with her into a new chapter in Florida / Stories - Support by Report
-
-- **URL:** https://news.google.com/rss/articles/CBMiygFBVV95cUxPU1o1aXNQQS02TEVjRGJGTDVnbnRNSzJ1VnNPRVE0RGZ4azFycDdPeDVTQTAtQXhvX3l0eTlHS0xUazl4UUJhVDZuR0ZJMGtqVTNkMTVidER6SnhHOVllMERxMG0xMnZ6dW9KN0RSSHNCVmJmR1pYQUQ4T1BJekpTc3d4NFhSajBiZmFjOHdHRDl4SVZfZ3oyRURycklYdHFMYzZGemtxMWItdnZRdnliM2lTUjlaa3o1R2o1TmdTM213cVpJQWtPRFJB?oc=5
-- **Source:** Support by Report
-- **Published:** 2026-10-23T07:03:23+00:00
-
-## Report Calls for Overhaul of ME and Long COVID Care in Iceland - Iceland Review
-
-- **URL:** https://news.google.com/rss/articles/CBMif0FVX3lxTE9IRDZQMWNpajllZmlPeGo5UUN1QzdiTk53MmNGYTJBcElFYkZ1VFVLWm1ZZk1fQlFhSjBWSm9DNGQwZlk3ak1ZbDlEOUpoejBRVjN3LTBYN1FoRWZyWUxmMldzX3JQRXVDSWRSU2RtMlVJb3U5ZEpPZlJUZzdsTDQ?oc=5
-- **Source:** Iceland Review
-- **Published:** 2026-10-23T07:00:00+00:00
-
-## Key facts: INCH cuts FY margin;Iceland/Bulgaria lift E&A - TradingView
-
-- **URL:** https://news.google.com/rss/articles/CBMizAFBVV95cUxPNGhKUGNmbng3eE9mek9zTlRnZjdaMVlhRGJ0NkhoN1EtVHZsVGN3aV9RdExJbGlmcjcwX083eF9PM3ZOeW9fT0dPTXdnOVE4TGRGX1VZT1NJeC01YWlZUGVrR1lvV21OaGo2QkFySHRLLXh6TFhRWHl6bkJXaVVYbm1nTjNLMkQ0UkRsa3l3TVZvaXB5VURFbERtTm9DT3VQc1VGRHBpNUh3azd5QU9JZkI3T1MzZTFzZDJNWjZicWZCUEc0cEFhQmp6MFE?oc=5
-- **Source:** TradingView
-- **Published:** 2026-10-23T07:00:00+00:00
-
-## I Took These Waterproof Hiking Boots to Iceland Without Breaking Them In—and My Feet Stayed Pain Free for 3 Days - Real Simple
-
-- **URL:** https://news.google.com/rss/articles/CBMilwFBVV95cUxPNEtXeVZlcWlpOEptWmJENUtnMWJGbEFUcURHbWVGR1BWWUtMaTlsaUE3S2hFcHA2Y3lpWjhETl8yN2pvMU9OenpvUS1MT21XMjk5aV9UZDFickJ3SE90U1V4eE5kRTIteHFRc3JLNm5pQzlTdG9PaUdodHVyWVpxcXFsSlk0V0RBWGlibjl3X0NGOE55SHBV?oc=5
-- **Source:** Real Simple
-- **Published:** 2026-10-23T06:30:00+00:00
-
-## Weak mag. 2.1 earthquake - Iceland: 8.7 km WSW of Geirfugladrangur on Friday, Oct 23, 2026, at 06:06 am (Reykjavik time) - Volcano Discovery
-
-- **URL:** https://news.google.com/rss/articles/CBMiyAFBVV95cUxObjF1bFR4dG80Y0VuTk9vWmdSTEZhYklRTUJHMGdCT2tXbG9YZENmVHE3LUl0QVRHLU8tUnBSUVI3ek5FeFg1Z0EwMFdjNlM5SXNSSWpjTUlXQ3RibE05NTJFa25NRXVoM01EZmxXb3BHcXFQcDFkNFpHZ2swWTNoQmdOM0YtYjFaa0pDdHFOcGthWFAtaWV3VDRLZ056OUw4bTE5eFl0RTA0WlJSeTg2VTllZ0ZqWGdJRFBmOGYySTBTUWpqcUVhZg?oc=5
-- **Source:** Volcano Discovery
-- **Published:** 2026-10-23T06:13:00+00:00
-
-## New Iceland Arctic Acquisition (NIAAU) Stock Price, News & Analysis - MarketBeat
-
-- **URL:** https://news.google.com/rss/articles/CBMiW0FVX3lxTE1aYWIwaHoyd0k5QkNhTjRzNWRjNThfNGM4Y0NKRmh6Q3kxRDR6NGp4bHotdWZBUTg4T2VvSjVQYXZla2tIX3dGdjUzXzQteGhhdHg2cTdOS2o1R0k?oc=5
-- **Source:** MarketBeat
-- **Published:** 2026-10-23T05:50:58+00:00

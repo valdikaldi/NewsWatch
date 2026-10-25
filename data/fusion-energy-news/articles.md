@@ -1,8 +1,44 @@
 # NewsWatch — fusion energy News
 
-_Last updated: 2026-10-25T00:02:34.346457+00:00 · 50 articles_
+_Last updated: 2026-10-25T08:59:03.225232+00:00 · 50 articles_
 
 ---
+
+## ESG Today: Week in Review - ESG Today
+
+- **URL:** https://news.google.com/rss/articles/CBMiZEFVX3lxTE5ab3Q1cTdzcDVaVTdGY2l1bDJPbF8tcGVKdHdlakIwUDFqZi1xcGpqbktTME03WTFLNUtKTTZBM0hfaV9jcHAwZW4zbnlUeF9ibDFHTmJSLTNMM1FidlBVUDFqM3k?oc=5
+- **Source:** ESG Today
+- **Published:** 2026-10-25T08:21:35+00:00
+
+## Get ready for darker evenings: 10 tips from electrician James Harrison to cut energy - Exeter Today
+
+- **URL:** https://news.google.com/rss/articles/CBMigAFBVV95cUxNSUhrelRiNngtUTNRRGVrWGtUVDBMcVVSWVZmeVNIMm5OVFNjYm13MDFxRWRDWFVlV3h2dXA2cnpRX1hYZWxIVVNZSTJFYnhoN2VVTTNEYldwM2NLbW1Xc3JSMXRUOWI2Yk5CVnoxQVlzODRXVnp6al9zbE9rajJkNg?oc=5
+- **Source:** Exeter Today
+- **Published:** 2026-10-25T07:00:00+00:00
+
+## Kay Da Ace Injects Fresh Energy Into Afrofusion With New ‘7 ELEMENTS’ EP - Tooxclusive
+
+- **URL:** https://news.google.com/rss/articles/CBMiswFBVV95cUxOY2hzQTNWYjhFWFdXVnhhZDRFZTRUckVVRnBEekhQRmJyYWdxbk85WmtyVnJHOTVWLWNJQVFSSTJqR2RSclE5MWFXenVDa3Yya0UwUUdncmdCY3NvQmNNeXA5X0N4bk5zMmVobC1YRWNPSXlsOXZXZWJMWGE2bGkzLTkxU0tTNEx3UEUyaUQ3U2x1Y0d1NC1nVUQtc05sMG55OW1YN2tPNkc5Ym5ydGpsY3Q5bw?oc=5
+- **Source:** Tooxclusive
+- **Published:** 2026-10-25T06:07:15+00:00
+
+## Singapore expects all parties to honour commitments, says PM Wong after Indonesia cuts gas exports - The Business Times
+
+- **URL:** https://news.google.com/rss/articles/CBMi0wFBVV95cUxQRVoxclM4cXpCOGE3R0tMa3ViWkJoa1NqQWVoS3l2QUNJRjBYeElWYW10SW1IUTN2dURHM2pnZWVBU0o3U1pBUTBNcUVXQl9JZTI1R0lfLVpJU2NkYWwzVEVxUGdpSE1kMUdCMVpwajR5NVRVVURzTUN0NDJRRUlfVXJtNDJobVJuMTMxZzQ3LTZFeGFjRHNLVm5qeVBVb0llU2pMZ2dvRGRGSVUwTzAwRS1kRzNRYzBDRW9DOF9iZG5TSTdGV2VFQ2N2RFQ0ZVFNb1g4?oc=5
+- **Source:** The Business Times
+- **Published:** 2026-10-25T02:49:00+00:00
+
+## New Mexico Deploys JTIP Workforce Grants to Support Quantum Hardware Hiring at IonQ and Bandelier Technologies - Quantum Computing Report
+
+- **URL:** https://news.google.com/rss/articles/CBMi3wFBVV95cUxNMXYteWw3Y1YtcE1YWkVGT2pLMC1QNVZjcGI1b2NCQWZUaXJmdkc2RW5Walk5TlpLU19ybE9JeFdHYWh2cTRfcTBEZUllMFNqdUs3Z1M2N2ZoTThhYlkyUVpwUnVtQzRwVVZQdEtoamtqSnprUy1lcXZ3eFRlUU5LS3BCem05dzNmXzBodEk4VmVGM3ZIU2l0SjNJV3RScW1POGstZnR0N3B5eGphdEFXUlB0V1BUWHIwT0NHMU9ab2lQbm9sbjhudFI4Z3NSclRVMU9ZVkxKcXdDNVBMRVF30gHkAUFVX3lxTFBscktIOHpIS1NiTlBzb3had2JXYUEzdm5aQ0ozanpxREFwRW1xUXV1bWstb09pX3ZjbHJBZml1OC1RcHU2eC1WMjRqNWpvYVVzWXV1S2JuUGJ5QnAzOXlIY19BSVhiZ2lmS3o4YUxWOFB0Y0czZElqMUdhRzl2TzdYZWc3bnR0S3JVaU5GOU5zZTlYVUJNUDRYTVAyWllZclNEV1ZyQ3lvVHN2aEtKd1ZmdEFHYXBUOUhyLXllOGJ0bk01cHZQLTU3SFRUSGx3blowdFVNSmRldXdod05KaFpTdUtTUw?oc=5
+- **Source:** Quantum Computing Report
+- **Published:** 2026-10-25T01:25:46+00:00
+
+## California Awards $5.7 Million in Workforce Grants to Establish Sub-Doctoral Quantum Hardware and Technician Pipelines - Quantum Computing Report
+
+- **URL:** https://news.google.com/rss/articles/CBMi6AFBVV95cUxPOWpScEI4UHRoaVdzZU1KUmdPdExLcEZId1dIc1hYTWs5Ymw2bHBfdkY0SGNxb29mRW1iZjlSeDNTNlVCNms1TEx2T2Nqa2s2OGFKTXZMNU1JbXZxTzl3NUlwN2xnaUlFYzZHS3ZIektnTjRWQXRwNkREYUdLZGRIbVZKc3RkLVBpSk0tOUk2TUt5a3Zhc19SbVRJUFRLM2R3S2llWlFlRkVqQkptdHQzRVk1R3JjUlJxNUFTX1JOR3BjWXNoQ3JZc05KU0Q0WTlOTzRZcS15WlBmTk5sUGVMcUNVUlVpZzJ50gHuAUFVX3lxTFBiYk9malZHM19hZWgzZTZzWGNwM2hOMG1RZ1E1RmhkUU9tSWNFMFhkSkJsRjJTNWdpSHRwR1ZTRzEyRFpVSktpS1dCRmgxaDdNNS1CUlhoNXF2OEc4SEhvYkNPRGVzSkhoU0I0WllHcldQTUdNRjZMTTRCMEQ4dDdRT1ZoeEpHSDNPc19zTTlfdWJIWHplemtUWWQ5MDBIVDhvUHlOSXdYZzJNeU8yNFpZeEpPSEJKUmkzczV2Q2ZJaTBvVGlKMWdwYjREaXV6NHBrQTFSd3lYYlQxMUlLNENEZXNGcEl6dm5OQnBTRkE?oc=5
+- **Source:** Quantum Computing Report
+- **Published:** 2026-10-25T01:25:46+00:00
 
 ## The Moon is Ours: A possible future Moon Cold War between US and China - The Aviation Geek Club
 
@@ -267,39 +303,3 @@ _Last updated: 2026-10-25T00:02:34.346457+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMitwFBVV95cUxOa3VJeFI2eWcyYThiX24tOUZYSXVaYk5QOVJyR2s4cHRUT1Y0TTJ5OXgwMHNtMkl1cGdCQW1FTzZfZGMxdGdKMkJ0UGpjU1BybW1FTWFNVGpCUXd2SnM4RUwwQTBpbW44TlkxMDZoZE5EMFVDU1pRdS05dlpTckx1VVFQcWtDMDNBSFVJNkhQT0txUlBXYTBzZFZJQld1eGZSZ1dzMEpIbjVNTmJHekVZOXBkUmlURVk?oc=5
 - **Source:** energynews.pro
 - **Published:** 2026-10-23T00:02:55+00:00
-
-## General Atomics Scientists Win Dawson Award, Help Prove a New Path Toward Fusion Energy - General Atomics
-
-- **URL:** https://news.google.com/rss/articles/CBMilwFBVV95cUxOR0duMmpPeWtnaU9wQW00Z2o2UWM2RFg1SVF6SkZiTlNYTTJXMWlNRXVWUERadnB3V2pBR3lvUWVTcXpsUDc2MW1JaEhmNlZETFhWUlNnWlZUc3I3aGtiZFRJenYzVEJ0WS13QzdKTlFPNjdPekltendWRVJaOHF5QlQ4X3VRUVh6RHpkZjRVYUR1Y29QS29R?oc=5
-- **Source:** General Atomics
-- **Published:** 2026-10-22T23:22:45+00:00
-
-## Two fusion reactor designs team up to tackle fusion's biggest hurdles - Interesting Engineering
-
-- **URL:** https://news.google.com/rss/articles/CBMikAFBVV95cUxQWkdtV25DNnlrbV9Bd2RTNGRDVTBmVGxMM1VYODFMcWp6QTR5VFl1bXk1Z1d1cFRNYmtXVUU0QkdlSVAtNlQ4SEQ0dFptd1ZtZ0J6a211Q0JvSkl6MTNQNkE0dG5POTNBYUlEWUQ2SHU2MEdlNnpnN2d1US1MWmU3eWViN1FWWmhFb1JLX2poUko?oc=5
-- **Source:** Interesting Engineering
-- **Published:** 2026-10-22T22:32:00+00:00
-
-## Everett fusion company lands $225 million to build advanced semi-conductors - Everett Post
-
-- **URL:** https://news.google.com/rss/articles/CBMitAFBVV95cUxOUndMMjc4NU5ZSjhBNUwySEJGcThNbVY0RTR3ZEZ4bUJVLW5fWFBCUkJ6cDRMMTNUb3Z4Y2lmVWZDSThEbVQ2RmMyN0N1blRwb3RfdFZ1dlAzNjg0bF8yRHE0aEczeGhHa2ZnUThJdTVyMHR6Q0stdlBiSm9rSkVEVlRlQUtDTjBJTGgySVUzNEtlNTFJZEo1SXB0MXU4YjU5eHhxUWZIMTBva181UGtSOG5jMU4?oc=5
-- **Source:** Everett Post
-- **Published:** 2026-10-22T22:09:58+00:00
-
-## Everett fusion company Helion lands up to $175 million award for chip development - The Business Journals
-
-- **URL:** https://news.google.com/rss/articles/CBMiqAFBVV95cUxQaFZNS0YzMEFzUE5pYVU1clJxM2tCQUFOUkltTGN3VDFEdlA5MjhWNlN4T0cyWk9zWWNzemh5VUxJbnpGaEl0Njl5X3lhbW9laWVPTjJOOWc5dU9sLW9XY0NkSTNlLV85aWVzMWhVdGVQOFQ4cVBMY0ZQdVl2cEp1Q25mUG5QOHhPaUxfZC0wdWN5ajlCSmd4Z2J0VE9EMktWblVHZi0xN24?oc=5
-- **Source:** The Business Journals
-- **Published:** 2026-10-22T21:07:00+00:00
-
-## Helion Secures $225M in New Funds to Boost U.S. Fusion Semiconductors Manufacturing - TipRanks
-
-- **URL:** https://news.google.com/rss/articles/CBMisAFBVV95cUxPU09YNnJ4enJaeEJNc0ZEdnQ2THdQcy01bGN1dmlIQm10aW52N2IwLTFtNW94UTNoOXJBSTdIV182ZkJnb2hwenByeGJGUlBBVVpwWnJVeDRXNmluU2dzVloxLVl2UTVvY3ktc2dIVG9jaWpwUG9nLUFQQkdRc2NxV051b0RMZlhkSV9EUW0xakloT3hJUlpNNUp5STc1VzNLWEJkTGJ3TWE3VzZpbkJUcg?oc=5
-- **Source:** TipRanks
-- **Published:** 2026-10-22T19:47:18+00:00
-
-## 15 Future Tech Inventions You Need to See - Gadget Review
-
-- **URL:** https://news.google.com/rss/articles/CBMidkFVX3lxTE1fV2dOZFU2ZV9uaXh5aUtRRGJsWWJzcmxRREdqU3d1dmVTVlpibjAxYXd3TzdoQjhJWnoya1ZTaXpFTklEazRRQlVLbDA2cGo1b3E3TmxocFZtQ3JBeHlvczlpcUY1NW96M3NBZ2R4UlFLTS11cHc?oc=5
-- **Source:** Gadget Review
-- **Published:** 2026-10-22T19:30:00+00:00
