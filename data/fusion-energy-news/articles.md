@@ -1,8 +1,32 @@
 # NewsWatch — fusion energy News
 
-_Last updated: 2026-10-25T14:08:22.454790+00:00 · 50 articles_
+_Last updated: 2026-10-25T18:45:23.496891+00:00 · 50 articles_
 
 ---
+
+## Ranked: The Countries Building the Most Nuclear Power – Visual Capitalist - EnergyNow.com
+
+- **URL:** https://news.google.com/rss/articles/CBMiowFBVV95cUxNdEt5SDJ1Y3UwcUxhYUZ6dTFsQkFoQ1QyRVQ4R3IwSk9lcHZyTThvUXVnT2xaUmg4dVFSZjhBUkdrbUdCbXNLVzlWdDlYbEpPX1BDU2dwVEF4aFFsakJ5Y2hWV2pVSkJEcTZRZnJoOGc5TU0wdE1hYll1Q3dIM1RXM281a3l2WUxvOG5YZ29wNDR4bC1YWExVdFJfTjVwLUEzd3c4?oc=5
+- **Source:** EnergyNow.com
+- **Published:** 2026-10-25T16:43:50+00:00
+
+## Fujikura invests in fusion venture. Fujikura stock costs EUR 23.00 - ad-hoc-news.de
+
+- **URL:** https://news.google.com/rss/articles/CBMixwFBVV95cUxPTmRuRURXcmpxQ1RZSURaVDM4SFFiLVlSb1JqeU1hNnFFN21GUVpSTmpxTktRbVdTRnJOLUhXOHJHYlpJTkxyT2xzWXU4cFVGbGRKTGNJQVZETHVtQWw0V3dsQUNDS2RfUlBiUU53RjdIU3NrUmpmb2dUaEdDTVZtcDJfVk1HUDhuZFIyREk2RUl6U1EzNW93Tm9iMXBWb1VGcld3bHJLN01pSG5lVldnWTNBUkk5eWNEQldRYTRZX2V3Q0ZKV3VV?oc=5
+- **Source:** ad-hoc-news.de
+- **Published:** 2026-10-25T16:12:18+00:00
+
+## US Plans ₹3,693 Crore R&D Push for Power Semiconductors - The420.in
+
+- **URL:** https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1FVW9SUmI4UGVqQkFmNHRmcW1yb2xoN2tyeUJNOS0ycmdCOE5QekhLa2V4WkdyWkRWdnlHMHFUaE1vT1ZQV1F0NTdKUi02V2pJZzBWcW82S0FiRW91b3RNYVBOcGc4bzA?oc=5
+- **Source:** The420.in
+- **Published:** 2026-10-25T14:32:18+00:00
+
+## Ahead of SOFI’s Earnings Report This Week, Here’s What Analysts Are Saying - TipRanks
+
+- **URL:** https://news.google.com/rss/articles/CBMiowFBVV95cUxNdlhHTmd5Y0JJUnBYYV9vaGJGVS01N0JPd0Qza0lFVXZ5ZHNHLVl3bzBkcHY4aHNnbEVaNEppM3Z2T0JiY3pXb0xVOUR1ZDk1TXVwZEY1UzhGRFVkSWxYbHNsNWRDb0FLekZ1b1l3N2RRenBZVHBnUTh2Y1E2cnhLZTdNbEhMOHFjTndLS1ozMTYtLVpyb3BQbXcwWjM1ckMwdEUw?oc=5
+- **Source:** TipRanks
+- **Published:** 2026-10-25T14:23:24+00:00
 
 ## Google (GOOGL) Launches $150K AI Contest to Cut Quantum Computing Costs - TipRanks
 
@@ -279,27 +303,3 @@ _Last updated: 2026-10-25T14:08:22.454790+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMiowFBVV95cUxPQlV2UloyZ2JhWjdaS2l5TE1RZm1pMzNzYUVpOWJNazZlNXVfM3pJTjN3TFdfMWE0MHgwOGF1NzlDR1lFSEs5bk8tMWJnQmM5bTFKSXZqWlh5bnZBcVhtLUpnaDJ4bjZCa05WVTFpTmRxYVdTVUE0NVQ3czYxMGJyLXdoUFgyUWdzWkVJSVhlVnhLSHBLWUNqMFdFM3ZqRUJfMkww?oc=5
 - **Source:** ESG Today
 - **Published:** 2026-10-23T12:23:39+00:00
-
-## Israel weighs $644 million investment to compete in global fusion race - The Arab Weekly
-
-- **URL:** https://news.google.com/rss/articles/CBMikwFBVV95cUxPOUFrUlVLWkxjUWhHUFIzYm9RUDJ5N2NVQXVnbW1yQTVhTnRLM19QQXR2QzNKZV9OUGNpM3JqMjdPakFtbE1INHlzdnJEczNqRU5KY3RlOTFkYU1zWWFSdXlHM2tzUGpxSHBiU2xhZWpPN1c3ZjNSdWRjVnVvUndWOUI0dTFWTFhxRUs1T1VrVHhWaDg?oc=5
-- **Source:** The Arab Weekly
-- **Published:** 2026-10-23T11:03:01+00:00
-
-## U.S. Commerce Department to Put 520 Billion Won Into Power Semiconductor, Critical Materials R&D, Taking Equity Stakes - BigGo Finance
-
-- **URL:** https://news.google.com/rss/articles/CBMidkFVX3lxTE92ek5HcXV2WG5IREx6cGJ6NTl0SndfOG5zUzBUTzRSRDh3UlVwQjVVOUZhYmNIU2RJRm5hRVB0NGxEV05KbVBKa3V1eEZaMnpSTFdQVmhNYVZDc2s1NldiMGlPZzZVbE9ybEFTZEZTaXNKWWlDSnc?oc=5
-- **Source:** BigGo Finance
-- **Published:** 2026-10-23T09:25:00+00:00
-
-## U.S. Commits $389 Million to Power Chips, Key Materials - Seoul Economic Daily
-
-- **URL:** https://news.google.com/rss/articles/CBMioAFBVV95cUxOSFBmaXJpQUQtSTlsOUFDMDJNU1FkZXZTY3N0U0xrTXBrc2hFX0dXdHJsaWRuUjFrOXQ5LW1YTWpZOVZzWERlZHo5c2NMYkl3aUtOa0RUUk15MDRReDV5U2hxRDB1d0lwM2lNVkJuNl9wZ2pkR2JMZ3pFMkFtQ2ZwV0JIRWh5NGo0ZDcxUHJXVjVFQmE1MjRUMnJZOUJUMXZ6?oc=5
-- **Source:** Seoul Economic Daily
-- **Published:** 2026-10-23T08:02:39+00:00
-
-## A San Francisco Startup Says It Made Gold From Mercury. Here's What It Did - NDTV Profit
-
-- **URL:** https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTlpoZkRZemVRZm1YVW5NX09QUkt3R0JVX1UzYUladFk2VnhvMmpURF9sekFORU01N3VGUl8zd19tdUp2V1RfdVJKNHI3elZjeTE2a2wzNDRjYktCeGpxY29pZGwyN0h4WjdtWFZ5QThGUlhZSWpXTmwxVWNjdDEwb3Q2bndSdGkyUmFSRDFLcDk1NmttemlDQWVQVU94N0ZoM2lHYUNzbW5qRE5SXzJsLWEwN3F3SXBpS1l0QTN5ZTDSAcABQVVfeXFMT05aaGZEWXplUWZtWFVuTV9PUFJLd0dCVV9VM2FJWnRZNlZ4bzJqVERfbHpBTkVNNTd1RlJfM3dfbXVKdldUX3VSSjRyN3pWY3kxNmtsMzQ0Y2JLQnhqcWNvaWRsMjdIeFo3bVhWeUE4RlJYWUlqV05sMVVjY3QxMG90Nm53UnRpMlJhUkQxS3A5NTZrbXppQ0FlUFVPeDdGaDNpR2FDc21uakROUl8ybC1hMDdxd0lwaUtZdEEzeWUw?oc=5
-- **Source:** NDTV Profit
-- **Published:** 2026-10-23T07:59:00+00:00
