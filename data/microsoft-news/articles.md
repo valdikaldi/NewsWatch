@@ -1,8 +1,68 @@
 # NewsWatch — Microsoft News
 
-_Last updated: 2026-10-24T20:22:01.933324+00:00 · 50 articles_
+_Last updated: 2026-10-25T00:02:33.462646+00:00 · 50 articles_
 
 ---
+
+## Xbox COO Helen Chiang Leaves Microsoft After Just Three Months in the Role - eTeknix
+
+- **URL:** https://news.google.com/rss/articles/CBMioAFBVV95cUxPU1RLUmNMRmVTVUhaWGRkcDhoNF9BVURRcDJUaGlmaENRY19vM0s4SVNzTHg5XzBnQTdseGxxaTZIWXo4QzJvVzZaQUN1YlBoRF9LM1N5VFN2Y1h2YWlyYWFyb01rM053OThOb3F1RnlTX09RWlFxajNYeGJGU1NvU0c3MUNGWkd4WUNLUnJTc3VrRE9YdzVnUnQ0ODVHZHBi?oc=5
+- **Source:** eTeknix
+- **Published:** 2026-10-24T23:40:46+00:00
+
+## Cursor vs VS Code Extensions Audit in 13 Steps [2026] - tech-insider.org
+
+- **URL:** https://news.google.com/rss/articles/CBMihgFBVV95cUxNdGppNWNMU0FLT1dWVWZKeHVON3R6V243U0t3S19kYzZXVWVKcE1sYVN3VzJxYUNldDhSVnhVeVB2eW9CNE9oLUgtQ0hhemowNkpCOVBfX0xIU0FCZFNFOHZkak5OQ3RDclZpUnhjOEk4YV9zUkdhamxId3RXcXB4VG9sWmc0QQ?oc=5
+- **Source:** tech-insider.org
+- **Published:** 2026-10-24T23:04:24+00:00
+
+## AWS vs Azure: Up to 72% vs 65% Savings [2026] - shattered.io
+
+- **URL:** https://news.google.com/rss/articles/CBMib0FVX3lxTE9Ca0pFSGFGd3B4eGdKTmtkd3I1RV94WFVwNzVadGxSSUljWGMxN25WUU8zTFpjTVZieW1va1dHV25pWXpoTkxqNjZNZTNIWVRGa19Yby1iYVQ3N1JkUWdQaExXQThRWXozQWRwM2wwcw?oc=5
+- **Source:** shattered.io
+- **Published:** 2026-10-24T22:50:17+00:00
+
+## Microsoft heard my complaints, Windows 11 finally getting proper Internet Speed Test tool - Neowin
+
+- **URL:** https://news.google.com/rss/articles/CBMivgFBVV95cUxOWllQNy1nU0NKTTZwcmZrS0lCMFFScEdtTHlOVW1yWjVvcUpSazhFblQ2RzNGSHZIU2R5MElsemQ3OWFwUFpUTld2ZThaQ1BXSXRDNmhfVHJ2OWZpTngzNHBSR3JNZnRObmc3MlZaUFV1eWRFUUxDQTBCT21NVjVwLWR0XzRtR0ktSTI1YWtfNlNPRWk5WGdZNVFIYjh1bE9kSExFRnhfVzVxdEZQTzZnR2xkNEFydkV1aXF5eEZn?oc=5
+- **Source:** Neowin
+- **Published:** 2026-10-24T22:20:00+00:00
+
+## Windows 11’s native app framework isn’t being killed this time, Microsoft promises, after Silverlight and UWP - Windows Latest
+
+- **URL:** https://news.google.com/rss/articles/CBMi4AFBVV95cUxNQXQtRDFtcmxJajYzRDlmU2dwVUdRTFVWMnRYZHczdWFsc2FfWlQ1ZEd0bTFIOXJNNmxsTHFBek94WFpUczN0RXpOWk5SVkM2WW5vc2FkRDk1YmI2RENaUUl2aWtFSktycTdES3BIU3NJOWNqN1ZYSXpHbUxOY2VIcjYzeWVCa2lNM3ZVUUF2SnpOUHdZT0Y3SF9paDl2WUkwM1F1eFRqY1Noc2lyU0t1Y091aFFaaVFQcDQwRDFSZ2JPOEM1ek5td0M5VFI2S2NVVGxyNVhDNHdaSFdnQW9xMg?oc=5
+- **Source:** Windows Latest
+- **Published:** 2026-10-24T21:48:40+00:00
+
+## Microsoft continues trying to copy Apple with the Surface Laptop Ultra - Notebookcheck
+
+- **URL:** https://news.google.com/rss/articles/CBMitgFBVV95cUxPbjVqU2tKZUIwY2ZRZFdLT21qU2ZrMWdlT1duMnZTUVpTQzVjVnhTeTEyWEZYWmVJaXotdmpjQ25pX1NkN01ldFE1Y19EejRYRUxpSWQtdTVBUUYybDZHc21PQWI1LXM4a0hIWDhlbkcwZlloM0EtQndubjFnX1RnTzNDWFNVaXJBNDVpX0d3RTg3TjZNNjlpWmVIbjZYTkhoODl3UExfNXY5YjZTak1hVlN3RnVPdw?oc=5
+- **Source:** Notebookcheck
+- **Published:** 2026-10-24T21:23:00+00:00
+
+## Xbox's first-ever chief operating officer leaves as Microsoft gears up for next-gen Project Helix - TweakTown
+
+- **URL:** https://news.google.com/rss/articles/CBMi3gFBVV95cUxQQXZZVm13blNIYUZ5MWw5aWNRVWtqMDR4X2xHRGhOSElwbXd5STlPQ3pVX1NCMzZqaDRuZDgyY01jZm5NeGJmSlZxYXhPNzVsbUwxd2VVZ0hCU0cwcHJFVF94clY3X1pKZWhrbEpMWUxfYWFJMFBhdWszVFBScTRQRlFJa3hRTmgzZ1hHWnl5dW13SFZvaEczMWhsRXBBbWcwbkZzd3QzdGwtY0FzNnRDVTZQTTdrT01mQVE5cnY1c3k0V1BjT3BHcy12NWcxc0JIaWZYSk4zMjJUd1VteXc?oc=5
+- **Source:** TweakTown
+- **Published:** 2026-10-24T21:14:13+00:00
+
+## Microsoft (MSFT) In Focus As Blazor Partnership Fuels The Valuation Debate - Simply Wall Street
+
+- **URL:** https://news.google.com/rss/articles/CBMixwFBVV95cUxQbWFfbGZDVFBCdTRmZHJNU1dGWDRmTHg3YUtCOEI5SjFxQ1VCclZ0OTlXNWxBbWN5RGtGVHFqbkg5VmNXLVdIQmh1MHBZM3hYbkVzZHFDSVV3UHRUd2w3dl9TblJ0c3QxblhrTVR5T2tNSkVxNmhuR211NXhhampLc0RUQllFVDRZU0w5a1dicTZuNV9MNFgzeTI2NklBX3dCd2xWNUlPakJGdHcyWE9XMDJtdDhacENTakx4aWVicGhNRU1RbzJZ0gHMAUFVX3lxTE5TX1lSTE9BdG1jR0Q1by1WZXFrQXdlOVBJUGhHOE02aUR0R2FwTGREYUVfcko4dmxfZFJ3M25ydmpYeHVob3lIOVp3UC1kNUVnc1pWekdMQlo0cXY2Mk5LMXM1ZE5xd25PQzl3NUl6bHA5TWlQd1NqYWJqalQwOWFiMkdWdmcwbUJxQnUxbHkybTAxSzF4aDJ4Rlh5RkVUUklpeURsU3EwTnNqMXBZaVpiWHpMV1hDWW9fVTd3RTdOMVNfWmpoMXNlTWhibg?oc=5
+- **Source:** Simply Wall Street
+- **Published:** 2026-10-24T20:37:19+00:00
+
+## How much MSFT stock does former CEO Steve Ballmer actually own? - Yahoo Finance
+
+- **URL:** https://news.google.com/rss/articles/CBMilwFBVV95cUxQRDQzQVIwUTd2enpXdkVoWHBnaWctT29Oa3lJQXM3UDZYeHVoOUJRSXlJR3VVWjRMdnlYR1V3QkJXWEFlOEM3eFpoZk5tMTlqcVhDTEhWUTdvMHVkMTNiWHE4QmVEQl9hTU1VYVFhamNkWWJ2QW9VU1BySWM0cmVRLVdSZ2RhYXVyZ2JKMXRiYlN6M2QyX1dj?oc=5
+- **Source:** Yahoo Finance
+- **Published:** 2026-10-24T20:30:22+00:00
+
+## Chrome, Edge finally getting a key feature built-in which Firefox, Brave has had for years - Neowin
+
+- **URL:** https://news.google.com/rss/articles/CBMiuAFBVV95cUxNT0pYRzh0MXFtWFMyOTdsVWRyWlliaDlMU2M3VXlCaHpzZEl5UkVocFhkbHJOanV6NERsaklpcU5LQUlGbkFNb1hKU3pwY3c5QlNaYUtKSVZMQ0kwRTZWX25NTHh6ckpnaU9CTG1BejZNMVZIS0dFZ05uemIwSjJMRFBYaWk0X0JfdUVyWnY3WFAxSk40M3otNkhnYktjS3RLMDV6T3UyLXI2RVNJZE9pOFRoUTBMaWF1?oc=5
+- **Source:** Neowin
+- **Published:** 2026-10-24T20:24:00+00:00
 
 ## Xbox’s brand-new COO already leaves Microsoft after three months - JournalArta
 
@@ -243,63 +303,3 @@ _Last updated: 2026-10-24T20:22:01.933324+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMingFBVV95cUxOTGFjLUwtS1V2WlJ2ZGFmUUhnaGNQWFVBZXRxWlRnS2hUMUQxeFRRRS1FVmh4a29meXRpeGQ3OU5Fb2ItS1prQTBjaUJpZ1RpQWxhUERiRWJqUTZzU29heVBYVldWcWE4bzVReEg3WGNTWk1OVTAxYWIteWJwejNjalZXZmxCNXY0WjdYLTY5dFkyQzVQMlYxSnNZUkJLdw?oc=5
 - **Source:** Neowin
 - **Published:** 2026-10-24T10:04:00+00:00
-
-## Microsoft Rewards & Xbox: How To Make 10,000 Points Per-Month (Overhaul Edition) - Pure Xbox
-
-- **URL:** https://news.google.com/rss/articles/CBMirwFBVV95cUxPLVpKRWxlSmxPWi0wRHdKeGNmekpVRERJdHNqZWE3WXU0WG9hM1BxckhFLUY4dGctaDV5YnBKNFlfcElKTEg2MHk4OEJoeWdxNkFxdFY3bW03cWxPTEZMR0RORjh1aHZqWlhucXNDVGl0Ti1mU2NDLU5yc2xqWkJ4dXEwZ0VUYXcyckkyTVV5cUNhWmNfWWhlZzFfRlBRSlN5Rm0yVmxqTmp6Z1RKRG04?oc=5
-- **Source:** Pure Xbox
-- **Published:** 2026-10-24T09:49:32+00:00
-
-## Microsoft Edge Extended Stable Channel is finally coming to macOS - Neowin
-
-- **URL:** https://news.google.com/rss/articles/CBMimgFBVV95cUxPZU9sSmREMnhMbzZ5cnI2S3pCM05Kb1FYOTFtck9vWU44Q2FzaGM1WDNpWTAxcWE2UkhRX2Mwb1ljY3E4dkRrRkFGc3p3ZlB3dmZiOGI5WXp6aEprVHZuNWRFdS04REtTeWhvaXl1eXdYZ1JUSy1nYmE2TjlIRUxzR243X3cwV1ZWVWZNVExfX1gzWFdBcUl4cEV3?oc=5
-- **Source:** Neowin
-- **Published:** 2026-10-24T09:46:00+00:00
-
-## Buy SCP-3008: Infinite Store | XBOX - Microsoft
-
-- **URL:** https://news.google.com/rss/articles/CBMiekFVX3lxTE5pM2lWQlc5WnhiaXNCeWpJMzdTMkpZY1MzVWI1bENCNUR2MFoxcTFmR0RMTlJ5Zlloa2trUnpwMDFkeksyUG1qZzBWbzdxMFBpWmtla0hTYURlRHRxalU2MmdEbXhONW1oN2NQYkduWXFVbHRJYThiRTBR?oc=5
-- **Source:** Microsoft
-- **Published:** 2026-10-24T09:36:47+00:00
-
-## Microsoft releases Windows 11 Build 26220.9757 Preview with a redesigned File Explorer context menu - KuCoin
-
-- **URL:** https://news.google.com/rss/articles/CBMiygFBVV95cUxQSldyOEdhVjlnTEhWcmtUd0Rrc21hU0ZJb3VrMnVFdVZSTnJnR0R6WThJc2Y3RUh4UWduZkNBTGdKV2VJZGJnNzA5Z09rZmJfMC1jVUVOUjlrdWJEcXFNSVh5YXhnVWxDZ09nVHk0Z2dYMEgyMkRzN0V0cElaT0JfZUVncWFKT2k2Z3JxN2toQWh5UThfeEFRUXN3RG5IVXVHZ1k1NTNSRVpaR3NjNEJMYTQxeVBYZVhrdFZxN3ZWVGtkY0Z6SkhxUVB3?oc=5
-- **Source:** KuCoin
-- **Published:** 2026-10-24T09:34:51+00:00
-
-## Get Windows 11 Pro for just $9.97 before November rolls in - Mashable
-
-- **URL:** https://news.google.com/rss/articles/CBMiaEFVX3lxTE15ZUUzQ3ZFLV85RjB0QVl3Zzl0SkJ4SG55OXFFMlROOVoyNHBBMjBJQkdGMC1MemhfQXZvaTZVMmxJOGt1NTVZUldDcjFrTzJyZi1GanFNdzBHcXEwT2JIakJRTHJtRkN1?oc=5
-- **Source:** Mashable
-- **Published:** 2026-10-24T09:00:00+00:00
-
-## Skype is finally shutting down - Mashable
-
-- **URL:** https://news.google.com/rss/articles/CBMickFVX3lxTE1IY0VHN0NNVFFiUldBNjZDY3MyOS1pNGctZWVnNFdLLVNmUUY4cDlqZjlzMmRSZk5FUW9BMDQ4N3BkTkpna3NWd1M0T3VpTzYzWm84VFQ2MFd2ellLOTlzYjRNNmttZ25Bdlg0UjFTWENKQQ?oc=5
-- **Source:** Mashable
-- **Published:** 2026-10-24T09:00:00+00:00
-
-## BSOD is back, baby! - Mashable
-
-- **URL:** https://news.google.com/rss/articles/CBMiZkFVX3lxTE9zSXY2Tk9uMVg1YzlBRXlGQTd4VWFHcUdMWjI0ZXZFX1laNGZfOVBLZ0hJamRaMUJmbEFfSFJmWTBpR3JDY0sxQ2NSS2hZR1h1WXJoSU1ZcXZOdG0ydjdtdFV1dXB0Zw?oc=5
-- **Source:** Mashable
-- **Published:** 2026-10-24T09:00:00+00:00
-
-## Trade recurring Microsoft 365 fees for a $28 lifetime Office 2021 license on one PC - PCWorld
-
-- **URL:** https://news.google.com/rss/articles/CBMixgFBVV95cUxQcVdqcWlLSWo2NWZLeE9RTGdfRkR6Zmx4bFVtejNfbC1YX3g0dDdrbEh6dkVwS0lZWTFNWUp6cEk2ckpac3B3TUptblVpb2pjYTgxVDNPZjJ3OUc3U1g4ZFd1VUFMc0tKakpRSGh4RmZNN04zUXhFRmp6NWVBQzJLZU5iQjY0MjFhVnAzTlhTZmFoTXJvNjJVdjlfbTdoNm9sYWhoQ2VKRGZqNnRmcmRtR1EySFRIZDVIYXB0dmRWajZJSFZQS0E?oc=5
-- **Source:** PCWorld
-- **Published:** 2026-10-24T08:49:47+00:00
-
-## Microsoft Project Professional 2024 drops to $50 for a lifetime license - PCWorld
-
-- **URL:** https://news.google.com/rss/articles/CBMitgFBVV95cUxQbHM4dWxwZ2IxMWVlc19JZVp3b3c0UE0ydG5WZ255TmZKLXYtSEpWLUdtQ1k4N2xiQms2ZGpEOXh5YTM0eUJuTnk3OVB0RzRaUHBlekFRWmUyRmpfZnlLUHJ1alZMZnNSZVpzb25TLW1FOFp0b3ZlM0lib2h0d1FRaEpaRGY4TVpjRnFWeEg3dWJ6a05PMjZVOE05SVh2SHp0TVNSbG0zNkRta1d4MHpJUEdPSlROQQ?oc=5
-- **Source:** PCWorld
-- **Published:** 2026-10-24T08:49:47+00:00
-
-## Microsoft fixes a Windows 11 audio vulnerability. - 超能网
-
-- **URL:** https://news.google.com/rss/articles/CBMiS0FVX3lxTFBONkFEUXp1REloT0V2SnR1ZDJycU1zZzJXNlAxUHloVFBMTmgtTVFsUTNjajZsZmFfTW1VU19CTEdOUTVXUXRlX3NlWQ?oc=5
-- **Source:** 超能网
-- **Published:** 2026-10-24T07:57:05+00:00

@@ -1,8 +1,20 @@
 # NewsWatch — Iceland News
 
-_Last updated: 2026-10-24T20:22:03.417706+00:00 · 50 articles_
+_Last updated: 2026-10-25T00:02:33.943536+00:00 · 50 articles_
 
 ---
+
+## Super Lig News: Samsunspor vs Amed SK Confirmed Line-ups - FootballPredictions.NET
+
+- **URL:** https://news.google.com/rss/articles/CBMihwFBVV95cUxNdUtCUWxJNjBMLTdMc0Q1cWZGSkkxelFkUFFwT0stTjh1M0x1c1Q5MS01djFOeEZlbmJOeUI5WVpZc3YtSW50NzdDeGZxTDVWandUMk02T1BYOFJfekVxa0IzRTVpcTMxU1o1RjdzY0E5dnlLck1UMXZzdDhTNVFOOXFBMC0zZXM?oc=5
+- **Source:** FootballPredictions.NET
+- **Published:** 2026-10-24T22:07:54+00:00
+
+## Iceland boss fires warning at Chancellor over business taxes & benefits bill - The Sun
+
+- **URL:** https://news.google.com/rss/articles/CBMijgFBVV95cUxPVUpvcWdyM1NsaVRvMVNtOWtEQ2VKMGR4MzB6emYtdzk0bkt1cEszVjc5ZGRGY1U3aUcza0tjdE91NFZlcWY0dWc5a2RoTm9nZXZCODM3Uk9GVUpCeGcxU1BtRWhPY2tOR2xLRUFTSHZoYlkycVF6RFJuTFc4Z3dHQkdjQkJjQlVqUFpJRndB?oc=5
+- **Source:** The Sun
+- **Published:** 2026-10-24T20:37:00+00:00
 
 ## Poland beat Iceland 35:34 in final friendly before Euro — Interia Sport - UA.NEWS
 
@@ -291,15 +303,3 @@ _Last updated: 2026-10-24T20:22:03.417706+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMiW0FVX3lxTE1aYWIwaHoyd0k5QkNhTjRzNWRjNThfNGM4Y0NKRmh6Q3kxRDR6NGp4bHotdWZBUTg4T2VvSjVQYXZla2tIX3dGdjUzXzQteGhhdHg2cTdOS2o1R0k?oc=5
 - **Source:** MarketBeat
 - **Published:** 2026-10-23T05:50:58+00:00
-
-## Islandsbanki stock: Islandsbanki sets October 29 results date. What it means for Islandsbanki stock - AD HOC NEWS
-
-- **URL:** https://news.google.com/rss/articles/CBMi7AFBVV95cUxOaExEemNzNFQyRVVWa01vaEY2bDFzUVdjME0taWdDdzM3T21jYTFkUnRvTDFtLTVoZVIwQVczdjlmRGd6N3E4c0oxbUwxelJKeHJjdzE0aFpwaUs2d3NoeHlVd3lzcUIzMi0zYk80YlRRZS1XV1ExazlXWWt1bXoxZzZVNjMwenlJY3hITUcxdkI2eEZwVE54ZXZDQnYtREVudkdFZnVHUUxZSWVVcUxEeXp3Z1BnRFd5N0k4b1J3cEdQeF9ZWkJsVWVqaWF3NE9GSXJUSjBBQXhXd2lGN0hTMTJWZHdQYTBiSU1Ubw?oc=5
-- **Source:** AD HOC NEWS
-- **Published:** 2026-10-23T05:01:37+00:00
-
-## Watch Iceland vs Bulgaria - TOD
-
-- **URL:** https://news.google.com/rss/articles/CBMimgFBVV95cUxQVklheDFpU3hYUVVLOWIwSl9waDFRUjNhbmpIVDFpSk00OUx6d1JqT29aSFBma1oyYmRDQUowU1lINS1EeDJoSWJoMHlRN0pnVDh6Q090WW5Uai01Q0s2ekd4SGY3ZjBCbFE4bkd5VGFFbVR4aDJhUWkwY1hSVi11OE9FQkRPZ2ZJdDVGakhXNUVTX3JSUVZqN0FR?oc=5
-- **Source:** TOD
-- **Published:** 2026-10-23T04:28:13+00:00

@@ -1,8 +1,62 @@
 # NewsWatch — Oil News
 
-_Last updated: 2026-10-24T20:22:07.044548+00:00 · 50 articles_
+_Last updated: 2026-10-25T00:02:34.947436+00:00 · 50 articles_
 
 ---
+
+## Oil shocks no longer hit the US economy as they used to - CEPR
+
+- **URL:** https://news.google.com/rss/articles/CBMiggFBVV95cUxQODlwNDROdzU0WG1keDFQQzNPM050V3FMcDlWX3RIYW9rWFBQYm5PeXdzSDRheTBJVWVPamwtWjd1NklTYlEzamY3em91dVV1WklCY0FkWEh5dnVIUGE4V1lUTUpJNTRFMlIzU2FuTUJCWjEtVU9WUW9hR0hPLV9oNkd3?oc=5
+- **Source:** CEPR
+- **Published:** 2026-10-24T23:54:47+00:00
+
+## Berkshire Owns Both Chevron and Occidental. Which Oil Stock Is the Better Buy Now? - The Motley Fool
+
+- **URL:** https://news.google.com/rss/articles/CBMimAFBVV95cUxNQVdPRTZFcjhZQ0xGcDlGNTF3NVpIWTNiLVRjeUZRd19nRTZDMlZYMDhSdFdLeWxVTWl5WGdzeDZsR2E4WGdzZGYyQWQ5Wmo1YzZNeFRrNGU3YXhjbldQdVVZZEhPbDVMRWVKVHE1LWNlZGR2elY0VmhwS04tYjlCcXFId0hwZk44YkoxX1dhN2J5SXFSYUcteA?oc=5
+- **Source:** The Motley Fool
+- **Published:** 2026-10-24T22:15:00+00:00
+
+## Houthis Target 4 Saudi Airports and Yanbu After Sanaa Airstrikes - https://houseofsaud.com/
+
+- **URL:** https://news.google.com/rss/articles/CBMidkFVX3lxTE9SRHhUd2c2cEk4MEViVjFEcW9zZEdZVG11MWNiclRYWjc4VF90NUlyMlc3eWItT3pyR2JjczVhV09Wd2ZiWkNKMDRQNEU5UWJsRDNHVWxJT01VQ2F0cFpRUndUczZYQVNpbFVDSkNhWDd4UURIc1E?oc=5
+- **Source:** https://houseofsaud.com/
+- **Published:** 2026-10-24T21:35:11+00:00
+
+## Berkshire Owns Both Chevron and Occidental. Which Oil Stock Is the Better Buy Now? - AOL.com
+
+- **URL:** https://news.google.com/rss/articles/CBMiigFBVV95cUxPOUY0ekljeFVfN3VnZDcwcHItR0VyOUN2Vi1kMmNwNF9FNlBVZnpNblJGRElRTFhqR0xyYUJGa2FmbWxfM0VESTg3ODNvczNGS0FVYlBnSVNQOU1RYlpGSm5MR0xOTXZjOTQ2aXgzcE5tbmpzdTdoNTVRSjM1ZHhmSFFScmpKVnJMLUE?oc=5
+- **Source:** AOL.com
+- **Published:** 2026-10-24T21:35:00+00:00
+
+## Houthis say they targeted Saudi oil sites; attacks reported in Aden - KSL News
+
+- **URL:** https://news.google.com/rss/articles/CBMipgFBVV95cUxPUFo5Y21teDdxNFYtUWNQREJ2Sm84bFY3dWc4aGZzaEpNQndBcUxhM01kSUFoTFVGZC15SGE1VUF1YlB1R3hqZjgwWTVxejlSUWFOaFVxamcyNjIySGlaeGlBWS03VlpTY2ZWNjZvbWZaWkYyVXAwSTkxTFpRT3N1WE11YW1uS0JhSjA5X1JpMGdpMElDUW5ON3ozRzFEQnRCYjY5bVlB?oc=5
+- **Source:** KSL News
+- **Published:** 2026-10-24T21:30:52+00:00
+
+## Fuel Oil Becomes Asia's Next Cost Shock - Crude Oil Prices Today | OilPrice.com
+
+- **URL:** https://news.google.com/rss/articles/CBMiiAFBVV95cUxQanFVcGU2U2VGclJsa2VSUTlKUFJFalpNTy11QTd5a0pwT1hrX3dhbHZDRVIwaTRrc2sxYTd6Rk5DR3hWOURCZXJmTU16aTBPbUFnZHlKbk5VYjVWc2FmbUFMaHFWOHlhMmRySC1nX1hINS03MEhQZWsxeEFYNkpqM0JoNWkyb1FW0gGOAUFVX3lxTE0zaEoxQm5iMl9qa2RMZ0JSQlQwSVctZkVVblk2SFpTdF8yR0xoN2d2cEdmcVZqSzViMTdORGFoOVc4TjdFbk1Ec2dxempPZEt3ZUk1bmVEd1cyNGVObkx4SXlQakROUTdJZ2FVUWNQcWMtQ2p6R1VxT0wzLUZVbmNtUW8zeTVKLTRHNDFTTXc?oc=5
+- **Source:** Crude Oil Prices Today | OilPrice.com
+- **Published:** 2026-10-24T21:00:00+00:00
+
+## Weekly Death Notices (10/17/26–10/24/26) - Oil City News
+
+- **URL:** https://news.google.com/rss/articles/CBMiigFBVV95cUxOWEVQVG1PZVIzTEJkTU55emxXZHVWR3c0bTVXeWlkSk5TT3hHUmdjYl9iV2pUY0JLNDRlTUlzVTQ2NExXbUR2bnA2cnptNzlUdzR1RjNpMnpMeFRuM1puZ2MtNmh2YzRaUFVQam56Q242VkIzeHFaWU1ieGhNQ0lnNzdpZUZwZ1dyR3c?oc=5
+- **Source:** Oil City News
+- **Published:** 2026-10-24T20:53:05+00:00
+
+## Western Media Accept Trump’s Plundering of Venezuelan Oil as Business as Usual - Venezuelanalysis
+
+- **URL:** https://news.google.com/rss/articles/CBMitgFBVV95cUxPQTZCUTNSZ1NObmtfZTVyekQ1UVNDLXdselpfZGQ0Qnd1UTdEYjd2SDdzdktNTW5hRHo4QzRxbFd2Q3VZYk1kZXRxZGFxN2RYdXk5WERybkE3Q2VYTEJSVlE1U3VNWU5Xb2UyNDZOckRmSXlvaGtUWHh4TEthZng4WVJUdmRtWlctSTV2QllsWGNoQklpVzdadzk1WUZaLTAyVmljSm9Xalc3Q0xiQVVRRXlvU0FDUQ?oc=5
+- **Source:** Venezuelanalysis
+- **Published:** 2026-10-24T20:50:34+00:00
+
+## Crude Oil Weekly Outlook: Brent Tests September Highs, WTI Tops $100, and XLE Reclaims 18-Year Resistance - StoneX
+
+- **URL:** https://news.google.com/rss/articles/CBMi4wFBVV95cUxPSzBqSmZyMG5ucHhrS3Z3Um9SQk9TM3pFMjBWdnNIT1E5VVNLd3A4WjNUN3FRYmUwWDZkWm5uMEhoeS1adEJVTmxTc3pvZ1hWdHhWOFZySm5qRnhBc1dDSGg5S2UzTzNISFlCdkRwU0ota3lwX2VNMUEyOWxKS3V3VDlURDlVVm9DYnpUTVVuM1cwR21MX05sWG1VM21ITUVpQzhENEZ6YTcxYkR5dGxNd0hyTmhUOVI5VDFoWG4tYUhEZXdYeHVnTHZpMVRfNVhMNVdvR0xOZmVhMVdvWmp5Yy1wUQ?oc=5
+- **Source:** StoneX
+- **Published:** 2026-10-24T20:35:16+00:00
 
 ## Form 4 Oil States International Inc: Robert L. Potter (Director) For: 30 September By Investing.com - Investing.com South Africa
 
@@ -249,57 +303,3 @@ _Last updated: 2026-10-24T20:22:07.044548+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMihgFBVV95cUxOdkFJWlZEZ181a2FDbGxBN3R0VHlVZVRlaGJSZWwxc3ppMGQ0bkF3SW1HbFNUaGtoV2RoYkxSUDA1c3dKTU9xem5kZWgwaC1Cc1JvNWFmaXFPVzc4LXc3OW9QZ1g0TGQzLUFNcFgyVHcwalFqR2xwWkd4TU5wVzdDQVNXcDBYdw?oc=5
 - **Source:** Yahoo
 - **Published:** 2026-10-24T12:48:09+00:00
-
-## Global oil prices hit highest level since April as Middle East conflict grows - WKYC
-
-- **URL:** https://news.google.com/rss/articles/CBMi9AFBVV95cUxNUzd0Zm95YXNYX1pVSGFLcGhMQ1lIbmQ3Tkg4LXFjRm5YQ2JIWVkwbTlpOWdnSTRycXBrTDQzMVJrTjJGMW16dkpJWHh3NlQ5Z3ZvTGVJdkFsTUVHOTJWQW9BN2VWck9oMlVYdFJ2bS1nRmgtSUZMTnJFdjlacGJBU2ZIajRKbTVQUkZMQmk1NGhoVjNoa1QzNjE2c1hhbjc3WlI4UUhMS1d2UXI0Y3FvUGhCMlZhRmR2REd0UUgtSTZDYi1jV1FCVVBIdGtSUUplODFQTWw3UlFCYmd6Q1lhMmFOd25EbWhlVjd1NkMzYU9BU0FD?oc=5
-- **Source:** WKYC
-- **Published:** 2026-10-24T12:46:00+00:00
-
-## UAE's Ras Al Khaimah shuts all beaches as neighbours grapple with oil spill - Reuters
-
-- **URL:** https://news.google.com/rss/articles/CBMiwwFBVV95cUxPeDMwaHJxZFNJTlFkYnB5UDY2SEdRcnRvdGRMSUNDR0I3cmhHT0xkTHQ4QjR5d241bnMtTm44UFIzdTZJYUJwcXZTcVFwN2FSVm80aTBWNmpXQVhrSTdtMnZHbWJiZTV1WFl1cGVyOHlJSmZ2d3gxZ0ZpTkpVOW0xTWFrNEFlTDczUGY1TVl0SmVKSVQ5cnN3S2NhU2dwZGZuYldJZDB3WWpaQTYzQ1RQeUdqNS1acnNqY002emRQMHV0TFU?oc=5
-- **Source:** Reuters
-- **Published:** 2026-10-24T12:45:43+00:00
-
-## GMC Sierra Owner Faces $1,600 Repair Bill After Routine Oil Change - Yahoo Autos
-
-- **URL:** https://news.google.com/rss/articles/CBMiigFBVV95cUxQbnF3RFhBbVdJM1FpMVpPUnVsLXdRYnloUUJwU25BbUZWdER6WXhFaTZrU19McGFIQVMwbmt1Z2ZVTnU3U2gyTnFMa2tDeE1QT19MWV9VS2EtZUtzT0oxM2s2STI4emdlM2JVMWRNVG9FM2haU0phOFJmRzYydm5lbHN0WDNBLTFhMGc?oc=5
-- **Source:** Yahoo Autos
-- **Published:** 2026-10-24T12:41:19+00:00
-
-## Cheiron Enters Peru with License for Country’s Largest Oil Concession - Egypt Oil & Gas
-
-- **URL:** https://news.google.com/rss/articles/CBMioAFBVV95cUxOS3laVV9ZeXg4TnZRMHZHVzhrV2NWUTZhRVB1Qms3cVhzOVBQS1E1RGNDMjdYVXJyek1oZVN3YjdBRlJUakRQRjNfUHJnYU1OU2N2Y1U2RjFQQmc1QjhnWmZrV3hUc25nU09BQVpBZC1RRnNsYzFKRWxKc09ZbkZYYlJpY0xXLVJjY1JiWGxYOGJ0WmFnbnBmLU5qV3dYLTl4?oc=5
-- **Source:** Egypt Oil & Gas
-- **Published:** 2026-10-24T12:37:41+00:00
-
-## Stock-Bond Correlation: Oil Broke The Hedge. Oil Will Fix It. - Real Investment Advice
-
-- **URL:** https://news.google.com/rss/articles/CBMiqwFBVV95cUxOelF4SlJKWGlhamVjRWlwbDEzZm1pUS1nMURyRXY3Q0dpTlZraTJMbUpBRUNGZG5oNnBvQWpvZkRxdzZZRldUcEY4Sjl6cndMektqWjNJRXd1bGdEZE5xSm8yNWVZU3ZRLTJLV3RLVFpBSDlmMVdHR19fVFFkWGxieF9ZVHJVc0hsMU13WGNzOG1vSXJLcldJa3Y4UWNieFYyQ2d1MGRfcWxMclU?oc=5
-- **Source:** Real Investment Advice
-- **Published:** 2026-10-24T12:27:19+00:00
-
-## Libya reopens oil pipeline to Zawiya - TradingView
-
-- **URL:** https://news.google.com/rss/articles/CBMiqgFBVV95cUxQal9lRkd6M1pOcG05LUhMOVVtUVhwU29mMWxveXJwcDYwZzB4YklXR213NHBmMllDdUREYV90cUF5T3Y0OU9VUS1zSDBfTUVSZTdoY2FEeXB3U1BEQ3Jtb1F6R0xwS1JhVFkyOWNLUURsMU5LTkJLcVNjOWIwUzRMcjFTR2lvUm0xOEFJOFlNS3pxal9FNi1PUDdkYV9wek45T1B4VEhzRUQ4Zw?oc=5
-- **Source:** TradingView
-- **Published:** 2026-10-24T12:23:02+00:00
-
-## Woman Takes Her Car For An Oil Change At Meineke. Then She’s Told It'll Be $800: ‘How Much?!’ - Motor1.com
-
-- **URL:** https://news.google.com/rss/articles/CBMiakFVX3lxTE55SkNpUTJqVHlYT19vY2pHWFRlczJNSWZ5aHpGbEdTZUpCbUVtaFJPaUJDTi1MRmlBS0pMX0pYTWRDdlNfU2JFWlVDTGtjaU4xdk1WUlk1aXpuN2RWcGZneEVlUEYtMi1sNnc?oc=5
-- **Source:** Motor1.com
-- **Published:** 2026-10-24T12:00:27+00:00
-
-## Janet Mills Praises Release from Oil Reserve, Criticizes Trump Admin for Rising Costs - The Maine Wire
-
-- **URL:** https://news.google.com/rss/articles/CBMivwFBVV95cUxPM25ISGswODVGZG9wbWNUQXFlMzY3VFVGVlVMbW9xaXk2WnhsRzlyd2NzbnFLLVEtSXdhS1lBZU9jSW1iZ1k3bXNvdWl4b0lBUDVwbU1mVnktdnQzMzhwRGtjSTJNREg4MWhKcXZVS0FjdkVlNFZnb1N3WFAtOHZndFhXUVNWOUVJa0pOUGdyU2ZKQU1vQk14UTdfdXAzbkRMdlJXZ3dqSUhwWllzVWJrdzdwZFAzcWtsSzJSVERBVQ?oc=5
-- **Source:** The Maine Wire
-- **Published:** 2026-10-24T11:47:52+00:00
-
-## Oil Prices Are Soaring: How To Profit No Matter What Happens Next - Seeking Alpha
-
-- **URL:** https://news.google.com/rss/articles/CBMiqAFBVV95cUxQN2NCOGJCejF4LW5aQ09pS3ctT0FGQW1FQTlHaG5tRzBkLXp4alJjTkF1TWlhLXZOLW5FcWZGTnNCYkJISnFkTFQ1QU1xMW12WmNQejczZmJDQnZrWDhzcndXakMyRjctWnRTM1FKRUstSG1fbHI0aUVUSERiWWFMd1lnVFU2VmV5amt5SDY1STVHVWdBNVJkN25jdjR4VDZVazhaZlcxSG4?oc=5
-- **Source:** Seeking Alpha
-- **Published:** 2026-10-24T11:30:18+00:00

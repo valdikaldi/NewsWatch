@@ -1,8 +1,14 @@
 # NewsWatch — fusion energy News
 
-_Last updated: 2026-10-24T20:22:05.140601+00:00 · 50 articles_
+_Last updated: 2026-10-25T00:02:34.346457+00:00 · 50 articles_
 
 ---
+
+## The Moon is Ours: A possible future Moon Cold War between US and China - The Aviation Geek Club
+
+- **URL:** https://news.google.com/rss/articles/CBMipAFBVV95cUxPc2xUUXNqOThGWlhWbXdxbnlwMzdCRVhIQ2Z2R0J6a2ZKenVleGpJRXY1cVY5emVNMXFkdVREblNreDlqRUZXelRaUTh1NnU3Skh0RGNxM09rTlB5eTJDTU54cEgwaXRzczZFMzhSTUlsajhJZExQZWhpR2d5VnNwdzlqMFQ0VU9SUjBBcTI1cVY5SWlpazVBM3NGSzVnZjAxN0NTVdIBpAFBVV95cUxPc2xUUXNqOThGWlhWbXdxbnlwMzdCRVhIQ2Z2R0J6a2ZKenVleGpJRXY1cVY5emVNMXFkdVREblNreDlqRUZXelRaUTh1NnU3Skh0RGNxM09rTlB5eTJDTU54cEgwaXRzczZFMzhSTUlsajhJZExQZWhpR2d5VnNwdzlqMFQ0VU9SUjBBcTI1cVY5SWlpazVBM3NGSzVnZjAxN0NTVQ?oc=5
+- **Source:** The Aviation Geek Club
+- **Published:** 2026-10-24T20:39:05+00:00
 
 ## Oxford fusion firm wins Ministry of Defence research contract - Oxford Mail
 
@@ -297,9 +303,3 @@ _Last updated: 2026-10-24T20:22:05.140601+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMidkFVX3lxTE1fV2dOZFU2ZV9uaXh5aUtRRGJsWWJzcmxRREdqU3d1dmVTVlpibjAxYXd3TzdoQjhJWnoya1ZTaXpFTklEazRRQlVLbDA2cGo1b3E3TmxocFZtQ3JBeHlvczlpcUY1NW96M3NBZ2R4UlFLTS11cHc?oc=5
 - **Source:** Gadget Review
 - **Published:** 2026-10-22T19:30:00+00:00
-
-## White House Makes Unusual $389 Million Bet on American Tech - TradingView
-
-- **URL:** https://news.google.com/rss/articles/CBMiugFBVV95cUxQaEZsMXhkYUpjeWFLX0JRdERBVGJiTXpLR0VLWnBiVmVSR0l6UTVhTWZfV3RVdTlGV3Fad29PeTdYcEkxblBLTnVVYXlMSWtVQ0l3MXRnRTJnZGlObUFjdldNdk9HYmZ6Q2JkSXNKeU9hZUJEclVHNF9zWEF3ZVMycF9PRTJPME9aR1lhMXNtdV8xd3B1VmlObEN3UE8tTldVSDJSOWxSZnpldnZmcl9lUzB2d0Zoa3U3X2c?oc=5
-- **Source:** TradingView
-- **Published:** 2026-10-22T19:08:34+00:00
