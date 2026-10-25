@@ -1,8 +1,26 @@
 # NewsWatch — fusion energy News
 
-_Last updated: 2026-10-25T18:45:23.496891+00:00 · 50 articles_
+_Last updated: 2026-10-25T22:20:42.355497+00:00 · 50 articles_
 
 ---
+
+## PPPL's Tungsten Warning Matters Most for ITER and Other Fusion Machines Already Committed to Tungsten Walls - Nature World News
+
+- **URL:** https://news.google.com/rss/articles/CBMi6wFBVV95cUxQeFJiakN5S0ZGTnJ0MS1WcHY0YnRVR2stSUUxWlFvZDFhVUhPWWV2Uy1Kb3pKS1FvNzZ2bjFGYm85R0ZraDJzYUt2c0Uxclp4SDYxSVVzYWpncnAyaXMtUGJIbFNJN1JndDdsWmM4Y1ZIN2FEVDNpV2xIam9CZGNwRkNYNzM4emlNb29uNjRnT080MW02WjBCeC1TTGpoR0otSkhzOW9NTDlDcUNtRFZzZWNmNU55Nm1zN0stSUVjek1PNnhYTDYwUEFEalRORk13U2J3UkpBeFNmbzVCUi1LM0pDNjg3WjNwd0JB?oc=5
+- **Source:** Nature World News
+- **Published:** 2026-10-25T21:48:13+00:00
+
+## Parabilis Medicines announces safety, efficacy data for zolucatetide - TipRanks
+
+- **URL:** https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbzVEQjcxODExUVdkVFIzdXBUeVFka2FJbWJuc1dlUGpWVXc0VmRROXM1dWN3c3lqSXlXZ0lIUVRJOEZ6MDh0VENiZ3RkOXZsNjdOM2lHQV9nTkFrbUVCdnJJVWc1TEJFeXZUTl9CZVEyaTJGQkExVnVRX1g3RHN1TU5mT2lqZWk5aVZXY2pnUzdxWXdmUlBUMHlSTlEzbEZPdEgwdkFYYUxKeEdTWWdndE01TkFlTU5H?oc=5
+- **Source:** TipRanks
+- **Published:** 2026-10-25T20:40:05+00:00
+
+## Victony & FOLA – TWIN - Tooxclusive
+
+- **URL:** https://news.google.com/rss/articles/CBMiXEFVX3lxTE5tRC1xVXRzN0o0WVJwYzQ1X09XVUNlMWlZUlRtWWs5US1LX3p4VkhEbUF1OWJXZlR0dGN6ZVdmVnZWRnZhNDdibjlFOVB2NC1XTzNBQ0hKU2NDVU40?oc=5
+- **Source:** Tooxclusive
+- **Published:** 2026-10-25T19:46:58+00:00
 
 ## Ranked: The Countries Building the Most Nuclear Power – Visual Capitalist - EnergyNow.com
 
@@ -285,21 +303,3 @@ _Last updated: 2026-10-25T18:45:23.496891+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMimwFBVV95cUxOTm5oeGVqWnF0VFdQenpuTTdEa2E3OWpva1AzZExHcUNpd3dtanFjZjBZVUw5MGdRaWM2aC1MTTF4SGo5aHBPblRmTDlhMnc3ZkM4Rko3c0JVTmJFdjNUNGFhb1k2TDhCaVk4ZG1OZFV5SnhWT1gtUDV3SmprQ1lWZGRnU2g4WUxnT3VCSmJpRjVVRXg3V3BPM1kxRQ?oc=5
 - **Source:** American Nuclear Society
 - **Published:** 2026-10-23T14:53:46+00:00
-
-## US nuclear fusion push tackles high-voltage limits in semiconductors - Interesting Engineering
-
-- **URL:** https://news.google.com/rss/articles/CBMihwFBVV95cUxNTXVXcDFkNUFDelozQlNmUHNnOVRoRHRoMDIwQ1haMDBmaERyM3JSNUs1NWY3cmZhNTRrcjdCdmlQN1g2TUFJYnZneVp5SC1tZGlULVVqNlhtb0V4MC1BT1NSQTJDVmowcHlqeFRibXE1V3lIVWNhVDRvWDBFeU53cHdJSmlybTQ?oc=5
-- **Source:** Interesting Engineering
-- **Published:** 2026-10-23T14:21:00+00:00
-
-## US DOE Approves Safety Analysis For Last Energy’s Pilot Fusion Reactor - NucNet
-
-- **URL:** https://news.google.com/rss/articles/CBMirAFBVV95cUxObmFlcHl5bnZrd3RwamNMSU1XYUMzLVBtOE9ueGdQSmE2VHpheVBic0xNSnU5ZENhS1ktSzlxWHByY2JHazV0LXhVMU1ubWNHWGJZaWgyRjNKUTNmeHJySE9PYThQb2pOUGFTby0yZTUxUlFHVFlyMmFWc2xoTVBNUWRDM1pFWGhwX2JseWcwM0UtRW9ib1JSaXNsMGNEX3JQdzZfS1FNN003SXg2?oc=5
-- **Source:** NucNet
-- **Published:** 2026-10-23T13:26:40+00:00
-
-## Cambridge Heavy Industries Raises $6.2 Million to Build Mini Fusion Reactors - ESG Today
-
-- **URL:** https://news.google.com/rss/articles/CBMiowFBVV95cUxPQlV2UloyZ2JhWjdaS2l5TE1RZm1pMzNzYUVpOWJNazZlNXVfM3pJTjN3TFdfMWE0MHgwOGF1NzlDR1lFSEs5bk8tMWJnQmM5bTFKSXZqWlh5bnZBcVhtLUpnaDJ4bjZCa05WVTFpTmRxYVdTVUE0NVQ3czYxMGJyLXdoUFgyUWdzWkVJSVhlVnhLSHBLWUNqMFdFM3ZqRUJfMkww?oc=5
-- **Source:** ESG Today
-- **Published:** 2026-10-23T12:23:39+00:00

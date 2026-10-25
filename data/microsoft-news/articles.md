@@ -1,8 +1,68 @@
 # NewsWatch — Microsoft News
 
-_Last updated: 2026-10-25T18:45:22.463613+00:00 · 50 articles_
+_Last updated: 2026-10-25T22:20:38.513642+00:00 · 50 articles_
 
 ---
+
+## Bill Gates, founder of Microsoft (MS), predicted that advances in artificial intelligence (AI) would.. - 매일경제
+
+- **URL:** https://news.google.com/rss/articles/CBMiT0FVX3lxTE11dTBXdllGUkdNZmhzbWtWLVJLRjlOZG9CYzVrU2g2NzlZVjcxRkgzZlpEeE1Sc2NXa0dvR2J4S0ZBX204NG5FeE0weUZIeUU?oc=5
+- **Source:** 매일경제
+- **Published:** 2026-10-25T22:01:00+00:00
+
+## Don’t miss your chance to get lifetime Microsoft Office Pro 2021 for $28 - Mashable
+
+- **URL:** https://news.google.com/rss/articles/CBMinAFBVV95cUxPU004Tk9fRllkTUpHYnM5c3dYUEZKOHN1X0lra1QtSHBSLU1sNWlvRTAxTG1rNVFEcGFqNHQxdDFYeFRvak1sNHByVExyN2FXakNxWEdjS09NRkVCU2VPS0JGRkVFWVE1TW5rN1lkU1N6bTlfZ2R6ZWthSGFfb3RlNXg4THozSzN5M2huaUZOYTdIM2d3V3UyZTB1UWY?oc=5
+- **Source:** Mashable
+- **Published:** 2026-10-25T22:00:00+00:00
+
+## Microsoft's Cloud Storage Changes Frustrate Users - Here's Why - BGR
+
+- **URL:** https://news.google.com/rss/articles/CBMifEFVX3lxTFBYSkpqZ0I5MUhiMXdXaEVKOFhLY1JsZUl4WTRHSkxVdGhPUEN6OE1uQW9rZWRQMUFoTVZCV3U0d2dlSkxiMnNqOUNuWmM1M0VCMWZtYzZsaUIzR2dwb2ppeE1XZFduUnN6enczMFN5OHNOdXZ5ZjIzWnpHN2o?oc=5
+- **Source:** BGR
+- **Published:** 2026-10-25T20:47:00+00:00
+
+## Nasdaq Index: AI Spending Fears Put Alphabet, Microsoft and Amazon in Focus - FXEmpire
+
+- **URL:** https://news.google.com/rss/articles/CBMiwgFBVV95cUxNT1RMRE5CcnMtdnRsNzc2TnBhV01WaUl6YThELVpYQTZpZm1VSlZ3X09vR3lpUlFIMXY5MEtWTk5NZ1VwTmtlOV9ZQ19BZEg1Z2R1eGZ0ajBpZ3JrSG5vQlNLc25jSFdiOTA1LUlLVlhZcUlPSTVnSkxRcmVKbzFaaFBQMEFTckRqU1JhOTFXMXR5M3pxbVVTc1M0M0M2Y0pqdlduWnh2eHpBTkhwOFg0WU95aEhjVklraTFUdDhic1kxUQ?oc=5
+- **Source:** FXEmpire
+- **Published:** 2026-10-25T20:34:04+00:00
+
+## Can’t Create a Microsoft Account? This Could Be Why - Guiding Tech
+
+- **URL:** https://news.google.com/rss/articles/CBMihAFBVV95cUxPWTNWX3dIZDhyRms0S3NoTHlQMkYyaHNMOEtxQWRoVjJickpKaklzUk5DeWgwQThMaDQycVZONkgyNDdpZTBveEhCT2pLUDlYZEVKSWxZWldER3NPaTloTTlkOE1OQTNndU9wQkJ3SDlSU2JwdDRob2FyLUpOeE5kT3NPMHo?oc=5
+- **Source:** Guiding Tech
+- **Published:** 2026-10-25T20:32:41+00:00
+
+## Having Windows Outlook access problems? An update might have caused it. - Mashable
+
+- **URL:** https://news.google.com/rss/articles/CBMigAFBVV95cUxQUXVDYThub2h6dmQ1N1F3WVFGSDRHNW5xSU9ZOFNXQXJuUWxUQlk4ZDVzMFVZSU9ONzVCaWcyR1FxdUhkdHlrVlFOZjRxVzhwVVZEeTNMQ191NlFkTVhoeFd4V2M5OXpfbDhfcFJXSERUTE9NcnJ4Y3RiMVl0cGlEUA?oc=5
+- **Source:** Mashable
+- **Published:** 2026-10-25T20:22:20+00:00
+
+## Netflix Reportedly Walked Away After Xbox Asked $800 Million for Its Game IP - TechPowerUp
+
+- **URL:** https://news.google.com/rss/articles/CBMitAFBVV95cUxNMDlLZ2Zub0ZjUlJ1VXpwY2lCYXlELUFIQzZjbXJCOS1PeVdEVXVPSXVqNU8yZ1dXQW1YR0UyblJ1X2VPNXFXM3IxYzZIN1RiMF9LWXJEcDlzdzJvR0VqMm54OVBmMnZDV3RhN3liTXpYS1lHU0xOcUljR1NLWmFNVUVfb3hTdTJzVkl6S2YtaDJVbHFQS2VzT29DbUhvUkZUd2FfVmZlZjZlNjRRZmdfZHNiOF_SAboBQVVfeXFMTk44cjF4WFktczNIVGlNdEEtMWVWSklXSlBUUk5CUzduaWtXZmZfeUxDVHM2cmllWWlNQWZGRmtoM2lzTmVlSDV3ZENaU3BIMGdrNlgwTTBueWZiMkp0VTVqcnJKN2dmMXlaa2Y3c0tFOFB3cjFvTDFwbHZYRldkQmJOR0JqMHBCTkxtSTJ1S0EyS09FbmNNM21HQnpNS1JLLUktMXk2Y052WV80WFBDczkxdEdJYWhtZEVR?oc=5
+- **Source:** TechPowerUp
+- **Published:** 2026-10-25T19:18:54+00:00
+
+## Microsoft (MSFT), Alphabet (GOOGL) and Amazon (AMZN) Earnings: Can They Save the AI Stock Rally? - Stocks Down Under
+
+- **URL:** https://news.google.com/rss/articles/CBMigAFBVV95cUxPOG5TZHpqYkVsSTVEUDhRZGdualhHTnFTSTBtaHBrWE1tUVp1clNEbHFxWEVfNDZlV01NNjYzdjczM3lrSkFiN2E3el9NOHZKV1hqZEFkblVTdnZDN0lrd0tUUXp3Zkk1U3JmX0ZxbktGay0xMWlxdHV4SFY3cW0tcQ?oc=5
+- **Source:** Stocks Down Under
+- **Published:** 2026-10-25T19:01:24+00:00
+
+## I replaced Word, Excel, and PowerPoint with free vibe-coded apps, and they hold up better than expected - MakeUseOf
+
+- **URL:** https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNjZaRFpaeTNNcWxIY2FBNVBXQWVmTHp1di1DbVY3bVdpeDhROW53eUxObGJ2WnVReTNPYWlpV1VpdkQzSWUwNVNBUmJxd1RuMEtuVUhLd0lMTHIyOU1ZWVV0Z1dXb2ZteUx4UzF2Z2V3TVpkaGd4ODRrY2lpUG0yb2tCQXhnb1NrcnBz?oc=5
+- **Source:** MakeUseOf
+- **Published:** 2026-10-25T19:00:17+00:00
+
+## XBOX COO Helen Chiang Departs Microsoft After 21 Years - Insider Gaming
+
+- **URL:** https://news.google.com/rss/articles/CBMidEFVX3lxTE5lTzdDckpKSldERm9OcVU4VFY1eDUydUllWjNTY3NsOUh3SFJqTnJHQ2h5S1pDY0FGR2l2azE5VGR5SE9ESkVveENYU2dIQXdlMWpyLUZtY1RFNmR6SWt4V005OGZKX1NuU0FGSGNhbm1EejZ5?oc=5
+- **Source:** Insider Gaming
+- **Published:** 2026-10-25T18:56:10+00:00
 
 ## Microsoft explains why deleting Prefetch can slow down Windows 11, as it’s “designed to speed up” app launches - Windows Latest
 
@@ -243,63 +303,3 @@ _Last updated: 2026-10-25T18:45:22.463613+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMikgFBVV95cUxOeWhzTzduNHlzbHluM1E1OXhxcktNcUxDRkQyaGxEcGd6S05LOUk0bGR4ZVEwZGVKcEdJVnJzX1dEdDRtV1pKRzdHYkhUcjJPbzJBQW90Zm4xbXdoRjBtOXkwUmhxZTFrWTFkZzc2OE0tS001Ui15cEdZQUtfMjVfaG1GZzNoOWx0STRUdVotVVlzdw?oc=5
 - **Source:** Yahoo Tech
 - **Published:** 2026-10-25T10:39:51+00:00
-
-## Stealc Stealer: What It Steals and How to Remove It - 2-Spyware
-
-- **URL:** https://news.google.com/rss/articles/CBMiYkFVX3lxTE0tbGRvZnhBSzVNTzB4bkZTYkRTT0ZobGREN1FuRkV0MktyQzIxbWk2bXk1dkxTb1ZSUXI3X1Q5UGlNYTRrYUZBN0daOVFxQUlHMUVPdjFpQzhRYmNKNkFCOHpn?oc=5
-- **Source:** 2-Spyware
-- **Published:** 2026-10-25T10:34:18+00:00
-
-## Report: Xbox overplays its hand and loses $500 million Netflix content deal - TweakTown
-
-- **URL:** https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSktIaU1fcUFMRzNCWm1CRHdvX2RHREJGLXZOeE1kYjlST2ZfcWVGMURfcG92OEJIOHFONENObTgyWHVlUVBmUFQxYXVZMngtUEpYM3JOTy11eElaU1pmdk5TVW5rdmE2WDdhYzQ1MmcxcnFlMVNIb2RfZ01ydnpheGNVbHFXTFZ6aUItbUlNRGNnMmVHTEpDblU3R1REWnQ1TXJuMDIxUmhzWGQ0Q1ZMd0NabnhSeEloM0F5WHBvYU1QbEtwb2VZTQ?oc=5
-- **Source:** TweakTown
-- **Published:** 2026-10-25T10:31:12+00:00
-
-## Xbox's first COO leaves after three months - Gagadget.com
-
-- **URL:** https://news.google.com/rss/articles/CBMifkFVX3lxTE1YbU12Sk8tR1M0bHE1Z2xDSHhGVzJzZVNmblUzVWduMlROX1ZxZTl0VlNRM1RHdmpxNThSeVZPUnVGRi1vMWktNEJiamhjT0VGemVTQWtzX1lWUFBSUHd1RUFzT0VxR2tZRVhvbFdiSjEzZUhNcl9WMGh0NW9PUdIBgwFBVV95cUxNLXJrelJFd2UzcWtja3NIT0VDWGstZkdxYndxN2FfbU1WX2VSVnBXX3pVeUk2UlMxUGx5SGw2WTcyVV9DbnpFbTJGNHpwWG1qQWxoeUdVdkswU0Rka2VVZWZ0ZGphZXhIZUd3ZzI1LVAyTmw3UVBvUEQxYVVuSWI0WGMySQ?oc=5
-- **Source:** Gagadget.com
-- **Published:** 2026-10-25T10:18:54+00:00
-
-## 4 Reasons Owners Regret Buying An Xbox Series X - BGR
-
-- **URL:** https://news.google.com/rss/articles/CBMie0FVX3lxTE5sSDREMXNNUlZpVnp0Szc1VVo1U0dPTEZ3N2ZoNXZFSkhfWkgyV1VKcjFpMVV2OXRUUFpyX002X0N1VEY1QURUUG1kOHE3Y0NtRzEyV3pfYVBsT0hfTUd2NkprUFExQVhJTG9pVTM4M2Rfemxic2dhaXFKQQ?oc=5
-- **Source:** BGR
-- **Published:** 2026-10-25T10:17:00+00:00
-
-## Compare 12 Agent Swarm Frameworks: OpenAI, Google, Microsoft - AIMultiple
-
-- **URL:** https://news.google.com/rss/articles/CBMiSkFVX3lxTE5XVno1NGlTNktyYVgyRkpFZ25TZmhUS2U4U1ZsYU5qSk5QcGlCNFhKUi1UXy1iN1Y0cko5Nm5uUXBZZ08wbW5OdEdn?oc=5
-- **Source:** AIMultiple
-- **Published:** 2026-10-25T10:04:59+00:00
-
-## Office 2024 Home for PC or Mac is currently on sale for just $115 - Popular Science
-
-- **URL:** https://news.google.com/rss/articles/CBMirAFBVV95cUxOQ0ZCQkFIMVQ1QTdNUTFsbHdZZ3pwNVJtc3FCRzIycm4yaDloZWRnQUlVMDlCYUNaWXNieXlYX3paakVCOG43UW1zZU9lNTNwNlZTcWNNWWxiZ0FBakhGalpzdlV0LUlxN0dZcTdILUx6UHYwZkcxWi1IbXZ0LURLZFpaeU9XZU5VNGFBUW9kQlVOY1p4OWNreFB0ODlQREs0LUsxckFwRnphUF9O?oc=5
-- **Source:** Popular Science
-- **Published:** 2026-10-25T10:00:00+00:00
-
-## The Enterprise Agent Price Nobody Will Show You - Forkast News
-
-- **URL:** https://news.google.com/rss/articles/CBMieEFVX3lxTFBHVlJnZXdXVnpjc0JkV0xaeVR5VldVekdldGI5VWpKX0NpcWZ5d01iU0c3dmdiNjRoSmlnZ1ZQU0FkWjB6THFqS1RQUE5PTlFOZTJ6U09rbi1NdHRzYVJtdWNoREY3WWo5ekRIUnRaU0J4RDRTY0NMQg?oc=5
-- **Source:** Forkast News
-- **Published:** 2026-10-25T09:59:24+00:00
-
-## Microsoft's Surface Laptop Ultra lands in Australia with NVIDIA RTX Spark, up to 128GB of memory and a very local idea of AI - iTWire
-
-- **URL:** https://news.google.com/rss/articles/CBMi9gFBVV95cUxNaHlLQzdnRVNrYzc2UU9yYlVuY3hnUFhZdHNMNjdmZDg2VHJsOENzd0I0eGxGbWxzUHRuVUZOaWN4TWVlUmtVMG5CSTdjSGsxcm4tUjctOVVGem9hQktuRDVDemsySVl4aE5MODBmV2p2NFAwRkJZZFQzV3BKOTZxOGpqMXhJUVFsV0JYcGhDTmFNMzVUT3VhQjQyN0RHejhmOGxIVjBtUl9CNXRuSnRRRXEtTWstN2d4RWhocVFWWWJxZUNTTXNreFFHZW1Lb3hHbG9jMDJjOVNSZXhzS05KaDR2YUJtbjZZcTF6cDF0QlNFYUtyR1E?oc=5
-- **Source:** iTWire
-- **Published:** 2026-10-25T09:58:22+00:00
-
-## Here's the Price at Which I'd Buy Microsoft Stock - Yahoo Finance
-
-- **URL:** https://news.google.com/rss/articles/CBMimAFBVV95cUxPYV9iT1lNYk9EUFhLNEczc3YwWFI1bjA0S3JmVkhNRmh6czdkdnQtUkQyd1R3VGR6UFRGOUt4d1U2emltQ0FCdnEwdXBvWDdtY21MVVc1UlhqdkMway15cExkaVRYTDBxWUppOWxZRGhpcnZlTHU0YTlKTkd1ZkFqbWFQdmFKZldaSUpHZ0l2M0lDZDRkempRbg?oc=5
-- **Source:** Yahoo Finance
-- **Published:** 2026-10-25T09:47:02+00:00
-
-## Own Microsoft Office on your Mac for $99.97, no subscription - Macworld
-
-- **URL:** https://news.google.com/rss/articles/CBMipwFBVV95cUxQNks0Ym1PdXRERTJkV05xU01DcTJTLTJFYWtxNkdqWjE5bk0xQ0Z1YVVBQjNfMXRaQUdhTzdDZkRtSHVwV2lsaFhFXzJTb3JqWGkwR2R1ZXZvMThtRmVBdk02WGpQX0RoVUtwdmlPWHVLZktHZU9wZVQ5LWg0dXdyUC1hU3QzbzN6VGJpaWFjcGl3XzQxd0xsdmJCWDVtSzZvMWFUeGduMA?oc=5
-- **Source:** Macworld
-- **Published:** 2026-10-25T09:40:29+00:00

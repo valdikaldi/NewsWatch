@@ -1,8 +1,92 @@
 # NewsWatch — Iceland News
 
-_Last updated: 2026-10-25T18:45:23.034989+00:00 · 50 articles_
+_Last updated: 2026-10-25T22:20:40.474749+00:00 · 50 articles_
 
 ---
+
+## KALDVÍK AS (KLDVK): Extension of waiver period - StreetInsider
+
+- **URL:** https://news.google.com/rss/articles/CBMitwFBVV95cUxNZVdvd0o0Z3dRY0gwUmcwTGVMSDQ0T2VuX3lVMXlkWTNRci1fdXBNTU5NaEdZU0N3emtUcmJYd2swMWNrNFBKZWR4N3VnelFpT290SWl3MTRGb21kSXpXTzM4Z3A0dzBvVnMxZFktMTRnV1g4cXdVdXVUaGluY0ZFOFBJRGFFVmprX0FGYjktelE4UDh3OFlKbGxWYTl0dnFaaW1UdVF1T0NMd1piam54MVAtcUhQb00?oc=5
+- **Source:** StreetInsider
+- **Published:** 2026-10-25T21:58:46+00:00
+
+## Elazzaoui Wins Golden Trail World Series by Just Two Points - Sportzhub
+
+- **URL:** https://news.google.com/rss/articles/CBMinwFBVV95cUxQZlZ3WlhmTE1xbTB3TkNOQWVTSGZKdE5zNmczMllhQVNyTDhYUnpaLXpZN3JMRUtSakFUQWxvZC0yaTllWTVaSlNiYWdIcTdkOUtib3k0RG52YXppQ0Y0d2ZaN090ZmVmQWpZalhST240bkhqUE1aZEdOVjdUZlhRYjZsOVhpTE04ZkNvdFAtS24wMml2TnlHMExKWVdQWFU?oc=5
+- **Source:** Sportzhub
+- **Published:** 2026-10-25T21:55:41+00:00
+
+## Andrea Kolbeinsdóttir Wins GTWS Grand Finale in Muju - Marathon Handbook
+
+- **URL:** https://news.google.com/rss/articles/CBMikgFBVV95cUxNOGxEakpveHJoVTRobDhGRlRKTHZKRG56a0NpWGsxUkpCRDhrRWZ4TzRNRlZIR1V2T2pVak9hZl9FOHVCdFFQVGRwUUd0OV9XYng2ZGlKN0EyVFBBZ0dKcFQ5MTJNUnAxdkJZOVA4UXdRUTZDN0poVVNkNVRub01sSXhhaHdUYmxKNHoyNWszaHptUQ?oc=5
+- **Source:** Marathon Handbook
+- **Published:** 2026-10-25T21:49:30+00:00
+
+## New ferry link between Aberdeen and Iceland under discussion - ScottishNews.com
+
+- **URL:** https://news.google.com/rss/articles/CBMinwFBVV95cUxNMXZyUzlWeGpQcjJvUnRMa0JkVzhjbGd1MnRtVVdfMEF0bEdCbE5VVUtuS1ZHN056X1RvSVR0UFBJTmpkdGZPX3lkbDlWTUs4VEpLR3RER2lKV2NGTWo0R1BMQUxENGlFa2t4cUwyRWRfMGRuM3FsWGY3NGFqdlNWdGRES0NtTi1QM2NSV1JsVG1sWjV6NV9XQUZMRE1BejA?oc=5
+- **Source:** ScottishNews.com
+- **Published:** 2026-10-25T20:53:27+00:00
+
+## [STREAMING GRATIS] REAL MADRID VS FC BARCELONA Gratis Partido La Liga de España 2026 31 Junio 2026 - Fabryka Norblina
+
+- **URL:** https://news.google.com/rss/articles/CBMiqwNBVV95cUxPZUV5X1FkdHU3LS1pNU1wVDhfZmN4TDR3M21ZNGRUMFVJMlB6X3BJR3R0X2hLMU1QSTFrUnk3RTNsVENjemw1c1l6LUI0NjV4VmxyaUM4azJrdkdMZ2hXQm56b0dfVzdub2N6NE90c3JISFZGS0F0dFI3TXpKM2tmWnBadzJMd05IaVRVUDJLUUxOemlqeG5DWDBDU0ZHLVVZekI2ZVBkV2hndUt1UnlxVVlXY0t1azJqQWRBbnhGR0pHbHdRV3NzYUtMdzB3YzZwZzlfT2w0ZmkyQzFZV2ZNUVo5WUpyTDFGbXJZaGRURnFnd0xlTk43TUJFTUlEM012bzdJbkh0VkkxY2xDRGdaSER5UmRFakhfdGItcDJaR3RkZzl6WVhGdmE3MDJYWlU5bXcxWDNqYkx3QUdZVC1Ed1BFQTQ4dUpvcGpPcGs1QkVjSHZLbjFyd1gzeHNINWJSRUxFcXZIUGhGU09jeFFPM0VBdElWX0g3eDlJT04xTzlSN1NrSzlvcmVXTmtfNnBkTTI4X2ZLUkxhczFOVnVxSFlvYnp0aDV5dkdF?oc=5
+- **Source:** Fabryka Norblina
+- **Published:** 2026-10-25T20:24:13+00:00
+
+## [¡Ａｑｕｉ ｅｓｔａ En Ｖｉｖｏ!] FC Barcelona against Real Madrid DÓNDE VER LA LIGA DE ESPAÑA 2026 EN ESPAÑA - Fabryka Norblina
+
+- **URL:** https://news.google.com/rss/articles/CBMiwANBVV95cUxQa29ma1FXUmx3cENHbm1oSV9XSWkzc3NjTG9lbmwxTzdSYnJ5bW5WT3V1WlBsWFIzaldMM09nSlo0OGpMaW1NUUR4RkdWM21VbVFJUU9FcFdzdks3S19BejVRSDlDN3VFNlN0R0xIWlRndTBqYXlPSXljRXdKd3NCbU8tSzVPM0xoZUR2cFFlZmxxcVEtMmo4SmZObUE4N2RDekNmNmVjd3F1RktZLWlNQkV2QTBTbmFQMjNieGRsT0haM3pfY1lkTlgtOG9KY0toLXd6aERtZ0JoSnJ3eFNqeU5JMURrN3lLYkxMMGozbEpXN0xyMjNsQlhxMHdXUUlxRlBZYzhuYTgxdEljVTFvVkJXZ3FMLUkzVV9oQ1NTUjVrOFVxS0d4dmZicGZENmZNUEVYUFN4Qkl6ekM0bEVQWGpud0lCTVZEZC1LaFo0eGNURTllQmpZczRQRzVISU84dl9zbkZNYkE3SHJjUUpLVFNTMHkySVJFbUVlM2dOM1pTM2ZaNVY1TmlTQTA1Z0hzLUVKdEo2T3o1NVc2NllMbVlwNTVDeWVqLUFKSG5aV2JPNXR3aDdwY014UVkyNFp3?oc=5
+- **Source:** Fabryka Norblina
+- **Published:** 2026-10-25T20:24:01+00:00
+
+## EN-DIRECT@!!.. Barcelone-Real Madrid En streaming - Fabryka Norblina
+
+- **URL:** https://news.google.com/rss/articles/CBMi6gJBVV95cUxQdGZOai1EN3ZJN2Z6Qi03YTFoWVdWOG1JRTRGei1OcGNrVUdpSXhFdU0zU29aYkJTV19ueDN1VXBUQ0tIUkZGUDg4NGpyaFZaUnVBSThxSHB6UlNrclplNi1CTzBIU0VjNGN2cE5pQUttU3FBb0ZvcE5mTThNOVpuOHBtM25oOGpmQ1lCbG1pYkRPX1lnaWZCeGkyWE53Rkp6WU9UTFVtMGZrZ2E0cF80LU5XZURPSW8yOFNoWGZiR3hwclM4aGlsLVltRHlmYUFBLTRPVS15X29wRDRPcU5OSHpLaU4xZU9kMzNEZGJ5Q2JFdEFraEFzeS1DODdLNEtlbXdlSGhNaGdXWWRXQVFuTXZGUTVSN0lmcFZxV1JscktKRFhWSUJKZGdFczNhbml1ZFlyNkU0U2NYYzY2azRDRlZ1OWI0eUR5WVJ6TTFDTmstREVpWVo4elJQanlEdEE3bHBqZ1Vkc0JlQQ?oc=5
+- **Source:** Fabryka Norblina
+- **Published:** 2026-10-25T20:22:36+00:00
+
+## +++[Regarder-TV] REAL MADRID-BARCELONE en direct Live 25 octobre 2026 - Fabryka Norblina
+
+- **URL:** https://news.google.com/rss/articles/CBMi2wJBVV95cUxPNEI4UmhMcDdkU2drbEYzaUxid25CMDNQT2VTVmVWWFVuQ21nYVY1eFd4UmRycWJRcml5eENqNDJCZ2daemFQemUwcERwbm5VblhuUGp1TkllalpMTVMyVUptbUdYSGNyV19JMGNLLUQ2MEZxWThmMEJwYWdGR2NIcU1peElOOENJQktWd2hUZ2FqR0hDdU45YUxreGFYM1VCNHdfVmNRX3d0YU1KZ2ZiMnB6QWNuR1ptSGl2OUx5a0twQzVZb2RXR3hpZm5qX3g3cXp4d3cxMnoxQS03MzJZZEdjZ2RRMk9VX2NPVnUtSkllUHFlQmFSWmZFYTE4Tlh4UjZndXI3dHpPRk5rcE9qdnRVYXdrQ1NsZl9ZeVdWNWJ3djZBRUdOSDd0WnhEd0tDSWVEcXJUdHZGRkVKc1VIZXJFOGp5TkZnbFY0Y0ZibmdkMGh6R2ZjN0poVQ?oc=5
+- **Source:** Fabryka Norblina
+- **Published:** 2026-10-25T20:22:18+00:00
+
+## [(BUGÜN İZLE)] Barcelona Real Madrid Canlı Yayın HD 25 Ekim 2026 - Fabryka Norblina
+
+- **URL:** https://news.google.com/rss/articles/CBMi2gJBVV95cUxPSDNWeGhHdnFkMGE5Tm05T19JU0JQXzhHMzFqTkE1SEtQNHlsbzFjVHdmYkdtQ2VTSFBRUDl6b1dzVFJ0VVhvR3JtSV9EZ19qalNSbF9HUUJpaS1fLTkyLVVwQTYxTFV2TFNDUWRLR0tnWmVuUTBBUlpvQzNYS2t3bXdiZW52ZGoyeVBFRGlYYWRUdWloSy1vajhYSGs2RVNtMXBkOUtxQ3hWZF9DaXVMbmNLRnhYeHVOVXVzY1JnZFVEUS1ObVpGWlh2MTdoREhKa3RzNDdvcEJYLVZCVUJmcWRyY0FfSHprWkQ2OUtMR0U0NmlqNlQ0MDFTX05HdW84bDVzMDkzN3owVDdLMS1ZWF9Uc0RNczJ0NDBicEdyUk1NZFgwN0V0RDBfTi1nWl9Zc0V3ODVBT3kyaWVCbnNMSXNsNVhhSHpPZk44WTNfa3dKbjZvUXlvdGR3?oc=5
+- **Source:** Fabryka Norblina
+- **Published:** 2026-10-25T20:22:12+00:00
+
+## Iceland to appear in Euro Truck Simulator 2 in November - new expansion trailer - iXBT.games
+
+- **URL:** https://news.google.com/rss/articles/CBMiwgFBVV95cUxNN3Nhck13ZjBfd3RCelZSRGpkeFlmZjFKRDFTdWxlUUtLSmttdzQ1cGNNSmdsVkV0MDBQMjhlbEZkNVE3U0RZSWYwNWR4NTZOWFdkU291UGJqWk15WGtTbnMzZDZqVXpkajVCR244Z1l4ai0yQ0V3QWtiUVZQZ1V1S0ZPS05GNXpBZjhrcjk3VFVKaHRzbWptYmxjN0ZnQWI5R010VFlHaldFc0VlU2hmcGZ0YkhiRFUtTGNmUTI3ZlA5Z9IBxwFBVV95cUxOa1d3VEdOSVE2SUpKT28xTk1kYTBWQ3VGSkpnTjBxRTE5Q2NxOXZCemtHcS1vbFZCa1VJT21WeXF6M3ZIZEkwbWM4WWVQYWNGOWEzUjVBRlBSUUhUd0lIaGF2VEV3QUUyQ2ZMWVJHd29kN1ljOEdaWXBsZ3BmTWZpQ3NOZ0hRNlhqY2lidEhUU0kzNzFLT00xcWxnZXpoNm5vWTNqdmJXcGdqcGU5aXpWb3o1YXpBWFJEamc4TXJjZEZOY2NiUjBV?oc=5
+- **Source:** iXBT.games
+- **Published:** 2026-10-25T20:21:00+00:00
+
+## ⚠️[~!ＬＩＶＥＳＴＲＥＡＭ)!]⚠️!+【【4K】】 REAL MADRID VS BARCELONA ｉｍ ＴＶ ｕｎｄ Ｌｉｖｅｓｔｒｅａｍ 10. Oktober 2026 - Fabryka Norblina
+
+- **URL:** https://news.google.com/rss/articles/CBMi0gJBVV95cUxNSl9xY2xVT0hhZlVXWEJaQkkyaHNTNDBJaC1jd09YVHFvWU04VU1fSEtSSXIyaUFFRXlTdWdRRUtJSjhNRFVDTjk2QmkzN2xwYVlnSjYtaHktVXRhTEYwb1Yta0t6Q0tYTWhwOEVEdlhRTnhZNGNIREdGRzUwc1QxRkxPTmM2TVN1TUJkemFKdlZ5UFhrVGlOM2EwS1NaZHFwUm1QcHJHVHJZVnVpNndESUtUQ3VkM0U5MGlCczlRMmxmQy1VREJVQU5IQzM2Wmg2U3RUeXpsRGZDNVh1X0dXUGRiODd5RXdPZ0FLLXZaOFdpcm5Rd3JLZ3hLUFdjbzBPdzB1YjVDYlNEMl94RDBHNWNJaTRhTVdBOWNjclZGenRDejYwOFJSTk42T0FUb1NTeWJETDdPQWVRZ3hDd0NUWUU2SE1xc3NCYWhMMUhLSGpfQQ?oc=5
+- **Source:** Fabryka Norblina
+- **Published:** 2026-10-25T20:20:47+00:00
+
+## [((TV-GRATUITE)) 4K] REAL MADRID CONTRE BARCELONE Match en direct Live 25 octobre 2026 - Fabryka Norblina
+
+- **URL:** https://news.google.com/rss/articles/CBMi6AJBVV95cUxNVVM1RnBQNkh2SWFmaS16dkJCbEE0MV84QWdNZFJlN2RLTEhsVDBrbXdlbndGOTFpRjltMUM3Q05SV0lyeEFwNFZ5OC1lMmNVTlJKcjZQTUdlRGFaTmhQSE43WEthaE9rUnJySjFKWjNuUXRSdkoxN0Z2Yll3VlhxNzNtUjJVeXF2TGw1dkRrbDZnN243QmZWanVFSkg4TFg5bF84bFFxVDlsX3lhbVJDc3pKWjU0WnNma28wSXpGUGdVcXpSNWUxRHEtQ2dXWmh3dktoLWExOVBqY2tfejNCd19VMHFkcVpBRnVwVFd5d2NrVDZxX3VSeGZzU3JuSnoyQVk3TGE2bkZoNXdUN2Z5YW1YMlVSb2RrWXNaTi1nZ0o0R21fTnhueHRzUDFvRFhQWXpDcXNlZm9YbDE3NGxpMDlTVFJ5Nk5yUEE3NVV6b242OUppWlVyc0YtVkl6ZUpnMkJKY2lMV1c?oc=5
+- **Source:** Fabryka Norblina
+- **Published:** 2026-10-25T20:20:41+00:00
+
+## ⚡[JETZT ANSEHEN] Real Madrid gegen Barcelona Live Im tvＳｔｒｅａｍｓ - Fabryka Norblina
+
+- **URL:** https://news.google.com/rss/articles/CBMi2AJBVV95cUxOUmdFdFpSYlB6T3kxc1BlMS1NQVpRSGFLOGxsUHlxQ0hvRTNpbzM0M0V5Z2JKWkF4VEFocXdGNjRkV0JTcEFWOTltN1dhYldOUVI5WTlPaFplVkJOT1VYam52NnIwYTVmNDFYcFVNalFBSEk2M0tST2d0NjdNM0FqZ3dBdGt6d1JzV3pnUkVkX2RNMjVsazZXeXl5M1dOWXo2N1ZtMGw2bWRDYWNfWDRmMWFUQjJQVmlKMWtVMy12Wm5VbmFwVnM4Q19GZUtnYldQclBkQ2NMWVpmNE4tMzR0RGt2Z0xTdlM3VVZ3ZGotckVabFpja3AzMFo0eTc1dHlIdkdFR0NON2ZjZ19iSWoxcU9sOXptNjdUX0hvY2tWbTYwekVJUXJOYm5OM3lCUmFLRUJQRjBfQ0tNaWxkOFRVb2JPS0l5cS1UeGtmampFUUhQcDBMdlZ6ZQ?oc=5
+- **Source:** Fabryka Norblina
+- **Published:** 2026-10-25T20:20:23+00:00
+
+## Watch Sky Sports - Fabryka Norblina
+
+- **URL:** https://news.google.com/rss/articles/CBMiwANBVV95cUxQTUJxSjh3WUszNTJEcTk0dlNVRDBFNml1N3Iwdlk1eW9ZWjJYckZ2cGFWR3FuVFBYbjBKOG81WjVuNl9qSHlsTHdkajN3OV95XzR0Q3pUd09MeGN2MzdyNlp2a25XMThHbVkwNThiTVJGSnZHU1FmVWR3T0ozYVpDY3VsSjlJNjVGSWdVWmJXdEs3ZUxqOVlsN2gzdHNQQlhMT0ZBM0dSeThHUlFNaUM0dWY5dlRkd2czeEw0dFNabkdWMWpJY2tuMVdZS05fOGo2RER6aEd3cDhFNEU0ZThHM1hGQ2lSWmtMMWNHdVJHTDFHWE9OVnVrSFZXc3dMQVlxSzFoV1FHTG9ybHdSTjBPOGhNb3NKZ0UydnlQandBNDlBbzZ5LWRpNjN6UXplN296WmdWVzJoQ3NpTkg0R0tWdDNTeVNubkdzbDJUaWJXejkxUXNFME13R3hLUURDcVJsYURrcDNrdnJ3Q3VfdEhkT2RnXzVkbjI3VkVfTkEyeG5GN0NIckJJSW53VlVnbnZ2ckJFbERhZlJTMW1aYk1UNnRJYldfLVpPVzdDS21yODJra2N5RzJKRl95emhmOWJG?oc=5
+- **Source:** Fabryka Norblina
+- **Published:** 2026-10-25T20:07:57+00:00
 
 ## Today in Flight Simulation News – October 25, 2026 - Simulation Daily
 
@@ -219,87 +303,3 @@ _Last updated: 2026-10-25T18:45:23.034989+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMiiwFBVV95cUxPckhuWEYzbVRwTXNrT2VBUWFhRVVUOVI1bjFfZkhpaWt4V0s4SW5MS2F6SHl2MjNCOUNIMjdWVmIyT2lUVjZsbGhhSUhIQkVuY2V2TDhpQTFOOVRuaTZ2V28xZ3IzNlJUcV9oVTVzSTVPV25CZkhZWU82cFBlVFpvNERvdlhoUUV4NHRR?oc=5
 - **Source:** freeyork
 - **Published:** 2026-10-24T16:21:34+00:00
-
-## Iceland Review Playlist | Women’s Day-Off - Iceland Review
-
-- **URL:** https://news.google.com/rss/articles/CBMigAFBVV95cUxQdWtsZWhIdW1zdDQ2TjREWXhhbk1DY0NnUTdZVXVuVlc5VVZ3R2J2N2tXcnRIMEt3Rm5naTlsWkdsdnhYdmdzbmlPbGNFdm50RDZtaUdKbEVoZmFyb01CLWc5bDNKWnluX1R5NEhVUGpUVGpmNktOZE01WlFlREV3Tg?oc=5
-- **Source:** Iceland Review
-- **Published:** 2026-10-24T13:45:35+00:00
-
-## Iceland Replaces Percentage Discount on Rural Flights with Fixed ISK 7,000 Subsidy - Iceland Review
-
-- **URL:** https://news.google.com/rss/articles/CBMiigFBVV95cUxPZlRWcGstS2RRbGwtV29DZTk0SjBhRVg5TjVjSlhTQVh0YWNTdnByMjFGYllwM3hweW44TEFDWkxXQmJzd2NEdmlhVU5GTDhIRnNOY2ozXzhWTDVxQkFVSXNER3dnOXRkWUE1VTJReTZFSk15YzBncHJkRm54d2pKbUtaZTFpTGZ0RFE?oc=5
-- **Source:** Iceland Review
-- **Published:** 2026-10-24T13:00:00+00:00
-
-## Icelandair Posts Record Q3 Revenue and 11.8bn ISK Profit - Iceland Review
-
-- **URL:** https://news.google.com/rss/articles/CBMiggFBVV95cUxOOTFyNVFWc1V6VEVjQnRPVTdlaDJldEE3bGl2dlQwblVtcGZranNDRDhxak14NUNKblJqcEFGU1JoLXF2akYwaTNHdm5jUV9oTkthdDZYaXVlRHQ5UzV2X0ZQcWQ0eGRsUUJNdWV4aFVteUxLd0FEbzI4NllEQlF4TV93?oc=5
-- **Source:** Iceland Review
-- **Published:** 2026-10-24T11:00:00+00:00
-
-## Skip The Blue Lagoon And Soak In Iceland's Underrated Geothermal Spa Hidden In An Enchanting Forest - Yahoo
-
-- **URL:** https://news.google.com/rss/articles/CBMimgFBVV95cUxOWUFzS2RndlZDNXJiZFBUaDlzaGR2UXNNTUJqNV83TzhrNWNaMktBZHYtUlJZV0tKOW5veGo2X3NUNUxoTFdVcUZRMl93bUpkOUFSRzZUdXlrWC1DQnVmZDhiTFd1QXpnbU9jWm9oTm1zTUxGU2dFenl2SVJ6c3RzdVVzcDdTMnF4UDltWGhqa0N0UHVuUzFtc1R3?oc=5
-- **Source:** Yahoo
-- **Published:** 2026-10-24T09:45:00+00:00
-
-## Iceland Sets 2030 Targets for Reading, Maths and Rapid School Support - Iceland Review
-
-- **URL:** https://news.google.com/rss/articles/CBMilwFBVV95cUxNdEdqQXNBTFEtYWZDUXJ3M0x0S25tak5CY00wLUx2dmoxalVJRWtUZ2tYU0laejYxSEJ5Q3d4RnZpRFlvd0cwQ3dJNGp0cEl0OV9QSHFwVVFBZ1B0bkVZUEgyRC1fX2dubUxUQndjSUk1eVFBSFk2WVY2U2hqbm9EWHdpRV82YktuX3hxZGhKeXg4WEpXemFj?oc=5
-- **Source:** Iceland Review
-- **Published:** 2026-10-24T09:00:00+00:00
-
-## Farming on the edge of the Arctic - Farm Progress
-
-- **URL:** https://news.google.com/rss/articles/CBMifEFVX3lxTE5UVjdyUmktTUg5RmpJZGpxY3pQSDg1V2xVc0RHTGc2R1JQZTFUcTNwLU02NVhxR1FDSnU1SkVlRlZTcUFyeE5VRWlsaEVHaXFCNXlGSEh6Y2pmQkRxbk9pb1BSN2JmckpoUGlQNE90V3J2dS1Wc1NGMmptM3o?oc=5
-- **Source:** Farm Progress
-- **Published:** 2026-10-24T08:13:51+00:00
-
-## Iceland Bill Would Let Police Seize Vehicles in Off-Road Cases - Iceland Review
-
-- **URL:** https://news.google.com/rss/articles/CBMijwFBVV95cUxQLWNzOEhRZHg4c3FWMXlGOWx6Z1ZXZ0ptOXhkaWhnVlVCOGI2Qjc4UnhtMURPclQxS0NPamxWdkd0Rl9yRkROQXI3TERNa1pFLUc3V3BoRmJWYTFkdFhkQ3NjTXczV0xwdVFqZEduS0VnRFBfaWlpQXBfQzUyU1BTRzJqek1lSlRfUUJmX0dySQ?oc=5
-- **Source:** Iceland Review
-- **Published:** 2026-10-24T07:00:00+00:00
-
-## 10 Best Places To Visit In November 2026 - Outlook India
-
-- **URL:** https://news.google.com/rss/articles/CBMisAFBVV95cUxNTko1aHExcDZkRVFKeEs3Mnh5dWxnLTd6WDF0WlE0YnNESFhwUUFFWGp6MTZyMS1UQXNXZzhoU2VTMVQ3NjY3NTFLVUNKS2NYalpyTnFmcm1mdlA2dHJDMHFtNUlBRlVMTElQbmJ4SlI5OWNDX0Q0b1V6QlBrOGJKbHhkR09uanlpcFRhN002SHJBTXFlaEpSMjBBQnBDN0ZsNDNlVF9ENW5EbWdrd1hIcdIBsAFBVV95cUxNTko1aHExcDZkRVFKeEs3Mnh5dWxnLTd6WDF0WlE0YnNESFhwUUFFWGp6MTZyMS1UQXNXZzhoU2VTMVQ3NjY3NTFLVUNKS2NYalpyTnFmcm1mdlA2dHJDMHFtNUlBRlVMTElQbmJ4SlI5OWNDX0Q0b1V6QlBrOGJKbHhkR09uanlpcFRhN002SHJBTXFlaEpSMjBBQnBDN0ZsNDNlVF9ENW5EbWdrd1hIcQ?oc=5
-- **Source:** Outlook India
-- **Published:** 2026-10-24T05:47:39+00:00
-
-## Made in Iceland Souvenirs Shop in Reykjavik - Guide to Iceland
-
-- **URL:** https://news.google.com/rss/articles/CBMifEFVX3lxTE1PNVRyX2hPREhqZzJOSWd1SzFGVWJnOHh5dzVabkJidG5GTUpyLWJPUGU1elh3VlNsSlE2N192cXBQZnFfc0J6cUJ4NkJfTE1IbTFCTWkzb1pXUU9TMnJJbVp4VS1HOFJtSWxmanpLT3BoaXo4aUhDNUVNNTU?oc=5
-- **Source:** Guide to Iceland
-- **Published:** 2026-10-24T05:32:31+00:00
-
-## Iceland’s ice cave season is here: When to go and what to know before booking - IndulgExpress
-
-- **URL:** https://news.google.com/rss/articles/CBMiwgFBVV95cUxQR0lLNE41M0hFUTBOZ1FFT3dhV0ZEeFFEWDFDYmxpU1plOS1rdWY4elZNZm5aNUtBXzF4Qk5iQ0loOGY0cEFWTG1hSmUxNEw4aFR3eFZpcnpNSE40T3JOSm82amZ5SF9jSjNYMkU3OF9oT2tmWGU2UVhzYXllYml6WWdacEp6LWtKbGFscXdHc1hnZHRSeEd4bUx5Skcxc2wwS3lvM3hFUjlUZkw2TWRaZWltX2IwMXI4cnFVOXJpZEVTQdIBzwFBVV95cUxNWlI2bVNwd0pNRFozUWUwQXQtU0l5emJCUE4tVURLTWdVSnBUczhGU2JWNnZILW5NV3dBcmZGZXdRT1FCdmlYeEh4NDhleEphOHdCaEpkSkxHV0x0LXhlcGFNRV9HbzRrYnFnRlg4Ym5Ucjh1YjhjWnZsQ2RULWwyRGxoWFZpOExtMC1oR2pjZWNfMDRudHlFWXJuLTM5VXY2MTdXNDNkekdmMW1STWlDWWJBZm5UWC0zR2pjbVRlbW5MVjctdFlHNFd0MW5oMjA?oc=5
-- **Source:** IndulgExpress
-- **Published:** 2026-10-24T04:01:17+00:00
-
-## Delta Detroit Iceland: How a Hub War Left Passengers Strande - The Aviation Hub
-
-- **URL:** https://news.google.com/rss/articles/CBMidkFVX3lxTE11NXdjckdJV1Z1SDRFLUN6M1owOEsweDhKeWZZaTlkUm5OcDh0cHJZcjJtbW5Ib1ZmRHpVZFZRN2l1cTZ2Q1ZHMndkYTRwRDRvQkNOYlpiczNYeHVDYXFVWlRCQk5zXzhmaU92LVAyMFM3QmhaMUE?oc=5
-- **Source:** The Aviation Hub
-- **Published:** 2026-10-24T01:00:00+00:00
-
-## Illugi Thór Gunnarsson - Transfermarkt
-
-- **URL:** https://news.google.com/rss/articles/CBMi1wFBVV95cUxNZzJ5eWVta0ZUQXBTVUFfbjVjMDhGTjVYdU9zVHFhVjRGY1BBQ3Z6aFVIcnhvYVZHZGltYVBGZ2lZWUJlUG1vYUJSUTZMN1F2UEZZNmxWU28zaC1PaGxheS1HdkJkX0laMVdKQm9hczctTWFweVp5M3QyX2wxWmlfdlBHQlo4aVUyWE40RHJwZFJMM2MtVzcxUm9BaEZ4MTVqMUw5S2tqeExURGY0MHhJd0FheVdpLTQ0enpUNDV4U1JuVk9ndDhVMFpLQVlmdEQ3VVQ0Qi1DSQ?oc=5
-- **Source:** Transfermarkt
-- **Published:** 2026-10-24T00:56:04+00:00
-
-## Where was The Odyssey filmed? (with maps) - The Worldwide Guide To Movie Locations
-
-- **URL:** https://news.google.com/rss/articles/CBMiXEFVX3lxTFBwdkNrYUs1R0h4X1ozWmt0NkNOcnl5RVRNXzNIcWZ1YmNyaGNvWHNKYVRyZlJQWV9haWV0cC12S2x1TU1QUWllbUEzLWg3cEhpc2p3VTliVFZoSHpn?oc=5
-- **Source:** The Worldwide Guide To Movie Locations
-- **Published:** 2026-10-24T00:04:32+00:00
-
-## Delta Fought Over Detroit’s Iceland Route—Then Canceled It Once The Competition Was Gone - View from the Wing
-
-- **URL:** https://news.google.com/rss/articles/CBMitwFBVV95cUxQSzZaQ01jYTZzTlUySE9nX280dHAyaEI2MEFtdGk0ZUtqX2V3LWJSbllza3RVSkk4QVhqc3N5QVRubkllOG56aTZMazlDSUZHeTg4Y2xvaEpGU01CTDdwU3hTbllNWElkRnRpdURxM0RKU2dNTDR0SEhVNDJxOWI2NzltQm1ZOWtYNm9sTE9DdVppVER0cjJvNFpCeDRvc2R4bHViNmw2YVhOS2U2UkVRZU9BLUQwVDg?oc=5
-- **Source:** View from the Wing
-- **Published:** 2026-10-23T21:33:34+00:00
