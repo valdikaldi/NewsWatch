@@ -1,8 +1,56 @@
 # NewsWatch — Iceland News
 
-_Last updated: 2026-10-26T16:34:30.947600+00:00 · 50 articles_
+_Last updated: 2026-10-26T22:22:11.098890+00:00 · 50 articles_
 
 ---
+
+## Peaceful holiday destinations and relaxing travel escapes in 2026. - eTurboNews
+
+- **URL:** https://news.google.com/rss/articles/CBMiggFBVV95cUxQb3RjSjN0czB1WExXVW5LelEyeFlma1VHVkp6dV95OXVqM1EtMC1VanFfRk9Mc0RKWTNwMi1pdUtrVFJDX0R5TF9LMEgxbm9QcDJQbHhjaHdJZ1QwUHA0V2F3eWkzWnBfeVp2b3ZhbFplZGNnalhXeUVXNzM2WnBQTWN3?oc=5
+- **Source:** eTurboNews
+- **Published:** 2026-10-26T20:18:09+00:00
+
+## The ChatGPT moment in transportation? Autonomous driving nears commercial inflection - T. Rowe Price
+
+- **URL:** https://news.google.com/rss/articles/CBMi4AFBVV95cUxPdWNpUUx2akVwWTdwSE9DSVBrSnViZEI4TVVxU2Y3clRtbEQ5M1cwcFQwN1VFUjRMVXVCTHN0czdVNmd2Qjc2QWlES3FNM0Y4cG14NUEweW1FRlI4eEZZd1hucGhQMW41RDc0Z003TTdGN0Q1aWwzXzFjVzRFTWFnMmdKLVdkd2pXbFd3NDRnQnduZ0ZIdER1VjJCNE9LTnBtdlZwNER3REJzVzJCRFJiX25GMVZRMzJFcDhGOC1jS3dvdTBiU2dJaUVpUVAwNUUzY0dfQUZRS3dIdURUVVcyWQ?oc=5
+- **Source:** T. Rowe Price
+- **Published:** 2026-10-26T19:00:34+00:00
+
+## Euro Truck Simulator 2 Reveals Iceland’s Scenic Viewpoints - BoxThisLap
+
+- **URL:** https://news.google.com/rss/articles/CBMifEFVX3lxTE85d2dKci1LbjYzLU9OeEJZVEl1V0xjREdMX3hzMzYyUkt0UWtkVmduWHE3SkpsZUhkM3lhb3lFT0VWWXpUMThuR3U4SHBTSFpzZWR0aVBoVmdJR2dVMGlOU1BLVVd5T2Rva0NSNEt4QlA1cktDc3NkTm9nalc?oc=5
+- **Source:** BoxThisLap
+- **Published:** 2026-10-26T18:50:00+00:00
+
+## KALDVÍK AS (KLDVK): Further extension of waiver period - The Manila Times
+
+- **URL:** https://news.google.com/rss/articles/CBMiwgFBVV95cUxOOWFNZkN1VHkwNDFiM3VMV21RLWRTbGxQRndiLXY2eTQ3dlBsZkMwWWNwbnZfMVg4OU5RQzBfWXNZZnBJSm43ZElXRE5nUkhUZWxiM3ctZ1lsR211UDJQdEpJUXBZMjhaN1hURzFCcURvbjljRVVaWXh3OW5KMmlLZkpSdkdXdnFCaTF1VmdBTDNDRVc4bjBxclNLdk9BSWFvUTRzLWZ0aF9nYlk0dkxXa055RTJ4SE10cjMtWWt2RHFRQdIBxwFBVV95cUxQejVJdDBGM3JjS0dqdTU1bzVXck5JbVpwNVB5U0ZBV3ZYemxvZkNJNmZLUXZGc3RTR0NwRWlaSzNkWWszVEx6dFpYZXBpelFmeVlUUWFzNjFIX0hsVXFuR2R4RXItaDZtMmlURTJ6MklkbFFCT3NWcV9BampDWlFJb2p5bXVBT0l0dWRtV0luVWlDWHFJWjhtbU5IcE1TbXhwTGpSY2N6U3MyNTBpS2ZabUc4NF9oX0xPT29uNjMtTDZlX1ZoLWlz?oc=5
+- **Source:** The Manila Times
+- **Published:** 2026-10-26T18:32:36+00:00
+
+## APSU’s Science on Tap to explore how insects shape Icelandic ecosystem - Clarksville Now
+
+- **URL:** https://news.google.com/rss/articles/CBMipgFBVV95cUxQcXRrT3B1XzdYSVVQek1fR1NFZU1YbFd0cERRZUN2T1JmY2dORnQzRG1KZzlKUFU4LVhaaUJRZVBYZk1ac2hYbmRxTE9hOEhaaGUzZDZROE10ckZsVU5oN3l0amhlb05PQ0xhMTQ1VTYtczQ3azBPNGotcUh6cHN5TlNMQWNFX3ZxUjcydnA1cE43MmpkekdIMURHVDFIUDB2RUdFYkJB?oc=5
+- **Source:** Clarksville Now
+- **Published:** 2026-10-26T18:11:00+00:00
+
+## Discover the film locations for Supergirl (2026), around the Cairngorms in the Scottish Highlands and in Iceland. - The Worldwide Guide To Movie Locations
+
+- **URL:** https://news.google.com/rss/articles/CBMiZkFVX3lxTE1USUEwakZRMEFZQ09IMEw1eFVfdVBtRUhDZ3dJaWhlNlUtelFfQ1B4OXN2UVhTY0V5SzJpSmNJNXB3UFVlZE1UZ3hwVmJ5ZVk3bzRkVXE3aWxkREhEQVpHWVdvMFV0Zw?oc=5
+- **Source:** The Worldwide Guide To Movie Locations
+- **Published:** 2026-10-26T18:01:10+00:00
+
+## New multi-million ferry route set to connect UK city to ‘Snow Land’ - The Sun
+
+- **URL:** https://news.google.com/rss/articles/CBMigAFBVV95cUxOb3kwSkl6RDdrMExsU2R2bHVLSmtUaU5hSDFDV2ZSZ0VCb1lFcTY1bnlxdUZFdk5TVTBFenhjU2VyRVVFcl8wSm0tQk1DUUktdW1kckR1WlB1cFhRWjE1bHlwcEd6LUY5Yko3YjVjWHRaT0xNZ0VaMllLYXpOLXA3Tg?oc=5
+- **Source:** The Sun
+- **Published:** 2026-10-26T16:55:00+00:00
+
+## Iceland keeps escalating its response to the risk of AMOC collapse - Arctic Today
+
+- **URL:** https://news.google.com/rss/articles/CBMimwFBVV95cUxPbG03aTM2b1R3X1FSdlJxMTZMbi1NQ3paWTJ5WHBsNWFsWHBjTXhtUmw3bTlnNjU4Y1FlMGh1OTBYMkRQR3ZSbUZabnhxWEx5LUNWQVl6N3lPQUhJR2d1Q2lmSFhHbDhxZUxPeGN3NlNVeTFaaHUwSlJEVG9iSGExY21ZVDYzZk41TzBJOUtRcVhuNDZoNGhSbkdfTQ?oc=5
+- **Source:** Arctic Today
+- **Published:** 2026-10-26T16:46:28+00:00
 
 ## NGOs call on Nordic Council to adopt AMOC resolution and make good on polar fuels promise - American Journal of Transportation
 
@@ -255,51 +303,3 @@ _Last updated: 2026-10-26T16:34:30.947600+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMi2wJBVV95cUxPNEI4UmhMcDdkU2drbEYzaUxid25CMDNQT2VTVmVWWFVuQ21nYVY1eFd4UmRycWJRcml5eENqNDJCZ2daemFQemUwcERwbm5VblhuUGp1TkllalpMTVMyVUptbUdYSGNyV19JMGNLLUQ2MEZxWThmMEJwYWdGR2NIcU1peElOOENJQktWd2hUZ2FqR0hDdU45YUxreGFYM1VCNHdfVmNRX3d0YU1KZ2ZiMnB6QWNuR1ptSGl2OUx5a0twQzVZb2RXR3hpZm5qX3g3cXp4d3cxMnoxQS03MzJZZEdjZ2RRMk9VX2NPVnUtSkllUHFlQmFSWmZFYTE4Tlh4UjZndXI3dHpPRk5rcE9qdnRVYXdrQ1NsZl9ZeVdWNWJ3djZBRUdOSDd0WnhEd0tDSWVEcXJUdHZGRkVKc1VIZXJFOGp5TkZnbFY0Y0ZibmdkMGh6R2ZjN0poVQ?oc=5
 - **Source:** Fabryka Norblina
 - **Published:** 2026-10-25T20:22:18+00:00
-
-## [(BUGÜN İZLE)] Barcelona Real Madrid Canlı Yayın HD 25 Ekim 2026 - Fabryka Norblina
-
-- **URL:** https://news.google.com/rss/articles/CBMi2gJBVV95cUxPSDNWeGhHdnFkMGE5Tm05T19JU0JQXzhHMzFqTkE1SEtQNHlsbzFjVHdmYkdtQ2VTSFBRUDl6b1dzVFJ0VVhvR3JtSV9EZ19qalNSbF9HUUJpaS1fLTkyLVVwQTYxTFV2TFNDUWRLR0tnWmVuUTBBUlpvQzNYS2t3bXdiZW52ZGoyeVBFRGlYYWRUdWloSy1vajhYSGs2RVNtMXBkOUtxQ3hWZF9DaXVMbmNLRnhYeHVOVXVzY1JnZFVEUS1ObVpGWlh2MTdoREhKa3RzNDdvcEJYLVZCVUJmcWRyY0FfSHprWkQ2OUtMR0U0NmlqNlQ0MDFTX05HdW84bDVzMDkzN3owVDdLMS1ZWF9Uc0RNczJ0NDBicEdyUk1NZFgwN0V0RDBfTi1nWl9Zc0V3ODVBT3kyaWVCbnNMSXNsNVhhSHpPZk44WTNfa3dKbjZvUXlvdGR3?oc=5
-- **Source:** Fabryka Norblina
-- **Published:** 2026-10-25T20:22:12+00:00
-
-## Iceland to appear in Euro Truck Simulator 2 in November - new expansion trailer - iXBT.games
-
-- **URL:** https://news.google.com/rss/articles/CBMiwgFBVV95cUxNN3Nhck13ZjBfd3RCelZSRGpkeFlmZjFKRDFTdWxlUUtLSmttdzQ1cGNNSmdsVkV0MDBQMjhlbEZkNVE3U0RZSWYwNWR4NTZOWFdkU291UGJqWk15WGtTbnMzZDZqVXpkajVCR244Z1l4ai0yQ0V3QWtiUVZQZ1V1S0ZPS05GNXpBZjhrcjk3VFVKaHRzbWptYmxjN0ZnQWI5R010VFlHaldFc0VlU2hmcGZ0YkhiRFUtTGNmUTI3ZlA5Z9IBxwFBVV95cUxOa1d3VEdOSVE2SUpKT28xTk1kYTBWQ3VGSkpnTjBxRTE5Q2NxOXZCemtHcS1vbFZCa1VJT21WeXF6M3ZIZEkwbWM4WWVQYWNGOWEzUjVBRlBSUUhUd0lIaGF2VEV3QUUyQ2ZMWVJHd29kN1ljOEdaWXBsZ3BmTWZpQ3NOZ0hRNlhqY2lidEhUU0kzNzFLT00xcWxnZXpoNm5vWTNqdmJXcGdqcGU5aXpWb3o1YXpBWFJEamc4TXJjZEZOY2NiUjBV?oc=5
-- **Source:** iXBT.games
-- **Published:** 2026-10-25T20:21:00+00:00
-
-## ⚠️[~!ＬＩＶＥＳＴＲＥＡＭ)!]⚠️!+【【4K】】 REAL MADRID VS BARCELONA ｉｍ ＴＶ ｕｎｄ Ｌｉｖｅｓｔｒｅａｍ 10. Oktober 2026 - Fabryka Norblina
-
-- **URL:** https://news.google.com/rss/articles/CBMi0gJBVV95cUxNSl9xY2xVT0hhZlVXWEJaQkkyaHNTNDBJaC1jd09YVHFvWU04VU1fSEtSSXIyaUFFRXlTdWdRRUtJSjhNRFVDTjk2QmkzN2xwYVlnSjYtaHktVXRhTEYwb1Yta0t6Q0tYTWhwOEVEdlhRTnhZNGNIREdGRzUwc1QxRkxPTmM2TVN1TUJkemFKdlZ5UFhrVGlOM2EwS1NaZHFwUm1QcHJHVHJZVnVpNndESUtUQ3VkM0U5MGlCczlRMmxmQy1VREJVQU5IQzM2Wmg2U3RUeXpsRGZDNVh1X0dXUGRiODd5RXdPZ0FLLXZaOFdpcm5Rd3JLZ3hLUFdjbzBPdzB1YjVDYlNEMl94RDBHNWNJaTRhTVdBOWNjclZGenRDejYwOFJSTk42T0FUb1NTeWJETDdPQWVRZ3hDd0NUWUU2SE1xc3NCYWhMMUhLSGpfQQ?oc=5
-- **Source:** Fabryka Norblina
-- **Published:** 2026-10-25T20:20:47+00:00
-
-## [((TV-GRATUITE)) 4K] REAL MADRID CONTRE BARCELONE Match en direct Live 25 octobre 2026 - Fabryka Norblina
-
-- **URL:** https://news.google.com/rss/articles/CBMi6AJBVV95cUxNVVM1RnBQNkh2SWFmaS16dkJCbEE0MV84QWdNZFJlN2RLTEhsVDBrbXdlbndGOTFpRjltMUM3Q05SV0lyeEFwNFZ5OC1lMmNVTlJKcjZQTUdlRGFaTmhQSE43WEthaE9rUnJySjFKWjNuUXRSdkoxN0Z2Yll3VlhxNzNtUjJVeXF2TGw1dkRrbDZnN243QmZWanVFSkg4TFg5bF84bFFxVDlsX3lhbVJDc3pKWjU0WnNma28wSXpGUGdVcXpSNWUxRHEtQ2dXWmh3dktoLWExOVBqY2tfejNCd19VMHFkcVpBRnVwVFd5d2NrVDZxX3VSeGZzU3JuSnoyQVk3TGE2bkZoNXdUN2Z5YW1YMlVSb2RrWXNaTi1nZ0o0R21fTnhueHRzUDFvRFhQWXpDcXNlZm9YbDE3NGxpMDlTVFJ5Nk5yUEE3NVV6b242OUppWlVyc0YtVkl6ZUpnMkJKY2lMV1c?oc=5
-- **Source:** Fabryka Norblina
-- **Published:** 2026-10-25T20:20:41+00:00
-
-## ⚡[JETZT ANSEHEN] Real Madrid gegen Barcelona Live Im tvＳｔｒｅａｍｓ - Fabryka Norblina
-
-- **URL:** https://news.google.com/rss/articles/CBMi2AJBVV95cUxOUmdFdFpSYlB6T3kxc1BlMS1NQVpRSGFLOGxsUHlxQ0hvRTNpbzM0M0V5Z2JKWkF4VEFocXdGNjRkV0JTcEFWOTltN1dhYldOUVI5WTlPaFplVkJOT1VYam52NnIwYTVmNDFYcFVNalFBSEk2M0tST2d0NjdNM0FqZ3dBdGt6d1JzV3pnUkVkX2RNMjVsazZXeXl5M1dOWXo2N1ZtMGw2bWRDYWNfWDRmMWFUQjJQVmlKMWtVMy12Wm5VbmFwVnM4Q19GZUtnYldQclBkQ2NMWVpmNE4tMzR0RGt2Z0xTdlM3VVZ3ZGotckVabFpja3AzMFo0eTc1dHlIdkdFR0NON2ZjZ19iSWoxcU9sOXptNjdUX0hvY2tWbTYwekVJUXJOYm5OM3lCUmFLRUJQRjBfQ0tNaWxkOFRVb2JPS0l5cS1UeGtmampFUUhQcDBMdlZ6ZQ?oc=5
-- **Source:** Fabryka Norblina
-- **Published:** 2026-10-25T20:20:23+00:00
-
-## Watch Sky Sports - Fabryka Norblina
-
-- **URL:** https://news.google.com/rss/articles/CBMiwANBVV95cUxQTUJxSjh3WUszNTJEcTk0dlNVRDBFNml1N3Iwdlk1eW9ZWjJYckZ2cGFWR3FuVFBYbjBKOG81WjVuNl9qSHlsTHdkajN3OV95XzR0Q3pUd09MeGN2MzdyNlp2a25XMThHbVkwNThiTVJGSnZHU1FmVWR3T0ozYVpDY3VsSjlJNjVGSWdVWmJXdEs3ZUxqOVlsN2gzdHNQQlhMT0ZBM0dSeThHUlFNaUM0dWY5dlRkd2czeEw0dFNabkdWMWpJY2tuMVdZS05fOGo2RER6aEd3cDhFNEU0ZThHM1hGQ2lSWmtMMWNHdVJHTDFHWE9OVnVrSFZXc3dMQVlxSzFoV1FHTG9ybHdSTjBPOGhNb3NKZ0UydnlQandBNDlBbzZ5LWRpNjN6UXplN296WmdWVzJoQ3NpTkg0R0tWdDNTeVNubkdzbDJUaWJXejkxUXNFME13R3hLUURDcVJsYURrcDNrdnJ3Q3VfdEhkT2RnXzVkbjI3VkVfTkEyeG5GN0NIckJJSW53VlVnbnZ2ckJFbERhZlJTMW1aYk1UNnRJYldfLVpPVzdDS21yODJra2N5RzJKRl95emhmOWJG?oc=5
-- **Source:** Fabryka Norblina
-- **Published:** 2026-10-25T20:07:57+00:00
-
-## Today in Flight Simulation News – October 25, 2026 - Simulation Daily
-
-- **URL:** https://news.google.com/rss/articles/CBMiggFBVV95cUxQWjNZOWd6Z2xaV3Etdm9aOGVYaTBCSV9MR3owdXdlaEFNZ0RwaEpoVzlqS0o3UlRvOTUxX0lkTVo4Yzd5T0ZfaDBvT0NCZmVIYTFreU9abFV3aVAxZjkxa04tOUtiUEVaOC1kNERScmlvby1ZeXJZLW13OEstQnY5LWFR?oc=5
-- **Source:** Simulation Daily
-- **Published:** 2026-10-25T17:41:10+00:00
-
-## This Week in Flight Simulation News – October 18 to October 24, 2026 - Simulation Daily
-
-- **URL:** https://news.google.com/rss/articles/CBMihwFBVV95cUxNS0piSnlmYnhtVExud0hyRUpkcGh1SzB6aEtfdmJadXJWcGRVOENyRmVNU0Z1eFZkQlVCX1YtRkJBMHNER2dLNGlSV0txWENVSGVWRW5xNS14R3A3d0ZNS3FtYmZqTVlVeGlpLXZ3blJxSnI5NUxBNVplSU9pOWY1alByQXF0NFU?oc=5
-- **Source:** Simulation Daily
-- **Published:** 2026-10-25T16:01:43+00:00

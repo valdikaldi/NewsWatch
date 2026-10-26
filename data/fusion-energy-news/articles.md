@@ -1,8 +1,56 @@
 # NewsWatch — fusion energy News
 
-_Last updated: 2026-10-26T16:34:31.387561+00:00 · 50 articles_
+_Last updated: 2026-10-26T22:22:12.340732+00:00 · 50 articles_
 
 ---
+
+## Watch out, YouTube; Instagram goes from short-form to 90-minute videos - TechCrunch
+
+- **URL:** https://news.google.com/rss/articles/CBMipgFBVV95cUxOa2phZFVlQ0YzMEJiMjlhenFDcmtqUm53Q3NfNUFkUEkteDhaZmJYbGVSNlpkSGUtamRCY3ZDQzNtZThzUlc4SUxJRkxKUjYzLUtXb2NSWDBsVDNFUEtWZkhKcFpZb0lveDZJX1owLUF4a2luU1hOQURndHItd0twaTE5VVJxdnlaNGFnZE9uV2xDc1pCSDNjUW4xaWJxTEVKQ0ZITEZn?oc=5
+- **Source:** TechCrunch
+- **Published:** 2026-10-26T21:05:11+00:00
+
+## Green Laser Tuning Yields Dense, Strong 3D-Printed CuCrZr Alloy - Bioengineer.org
+
+- **URL:** https://news.google.com/rss/articles/CBMikAFBVV95cUxQbHc3S21hZVZERF9neFlqNHBhdGVWRGIxaGYxenl4NEhITGZUM3hpVUxEZjNlc25NUE9icl9iZ2puSW1CVXdNQ1c4STIzTzhRNWFjeWxncW5TV0tfSS1ybmhCS2pMVjY3UndEVXZiS0ZXbUZrQjdTMEdvWS1melVsX05DZVVqZTcwdHZhekZGRVk?oc=5
+- **Source:** Bioengineer.org
+- **Published:** 2026-10-26T20:39:07+00:00
+
+## Nucor Reports Results for the Third Quarter of 2026 - TradingView
+
+- **URL:** https://news.google.com/rss/articles/CBMisgFBVV95cUxObEhXVmtnZU5RcERoblB1NER1a0JNT0tLSDdsT1psUUlSUjZaVTFsOWl5LXVoUEY1enZHMVlMVzdyRS05ODg3cTAzY2hfd19KMXZBZF9VSEZCcmktVzNYa2d3aTROanpSVERkbE5sbVBlSXp1RzFRUXhuRkwwLXJtMG5tbWtmbHlwUWczbnlGeVdpa255Y2hvMjZtYk9DVF8wVXZNV2hLNFFzRjNUS2dfYnVB?oc=5
+- **Source:** TradingView
+- **Published:** 2026-10-26T20:30:00+00:00
+
+## MITEI announces energy storage, grid modeling, and carbon management focus areas - MIT Energy Initiative
+
+- **URL:** https://news.google.com/rss/articles/CBMiugFBVV95cUxOWXMxS2FZd2wwbnVxVm1HVEYyR2JodmdFNUpBNWR1RUpIb2FBbDVDU2F3amxyV2QzRjJMR3hqdng1N1pDcEVEU0dGWFJxVlo2b2Jlb3poX05nY3V2Y0VuYWdXaGdvLURmXzVFdE9PNC1vMXpUTGNpdmh0azZYc2xhcE9YOWRvdlJYZXNfTlFQbzFGWE15OXp5azNyY1RTQlFOSFJjMnBleTJkSTN6ZjdkQ2tHNVZnaDFMVFE?oc=5
+- **Source:** MIT Energy Initiative
+- **Published:** 2026-10-26T19:53:45+00:00
+
+## New Multi-Material Metal 3D Printing Infrastructure Could Revolutionise Component Production - Cincinnati Enquirer
+
+- **URL:** https://news.google.com/rss/articles/CBMi4AFBVV95cUxOdjJqMHlqREJEdkVBZlhBczcxNUk0QnpvZUZXVzMzNURJaWgwREk0aGg0d3B6bFM3UURyNHVtN01GZ09PSEFzRDM1UW9ESTdPUk8xcWpDQTZ4dTNJd1FLN2E0aldQYkRoc05rVGdFREhoMGFiSjNodXlYN2VSLWZQNzJ6WXhtdm9sRDlnRER1LVpUSDkzNjBhSzZMQURYWW1xQXNTVTlrWVlaMzNtQnIyY1kzNDVjcjUyVGs1Y3ZsTlhfS2tGNW5iOEFzNzBfQlJBbjVYdVFrclJ4cF9jM0EwSQ?oc=5
+- **Source:** Cincinnati Enquirer
+- **Published:** 2026-10-26T19:46:21+00:00
+
+## General Atomics Scientists Win Dawson Award, Help Prove a New Path Toward Fusion Energy - General Atomics
+
+- **URL:** https://news.google.com/rss/articles/CBMilwFBVV95cUxOR0duMmpPeWtnaU9wQW00Z2o2UWM2RFg1SVF6SkZiTlNYTTJXMWlNRXVWUERadnB3V2pBR3lvUWVTcXpsUDc2MW1JaEhmNlZETFhWUlNnWlZUc3I3aGtiZFRJenYzVEJ0WS13QzdKTlFPNjdPekltendWRVJaOHF5QlQ4X3VRUVh6RHpkZjRVYUR1Y29QS29R?oc=5
+- **Source:** General Atomics
+- **Published:** 2026-10-26T19:08:01+00:00
+
+## Fusion Startups Trade Equity for Federal Funding - The Tech Buzz
+
+- **URL:** https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUTlvN3diYUJWanNFbzB5N2J6NUg0UFZjOWpySDR0MnNZZ2FmbXF2TW9MbzRCTHRmcTdZc3Y3enFfdGpqLWN4UEQzTnBCUkNkbFRBYkczLTVOWmNzWUNacU9NTjBvYUdLdk9DVUxyOWx1WXlDZkNkNklCaS1Ycks3QzlQZ2cwWEZR?oc=5
+- **Source:** The Tech Buzz
+- **Published:** 2026-10-26T19:07:00+00:00
+
+## Fusion startups are giving the government shares in exchange for awards. Is it worth it? - TechCrunch
+
+- **URL:** https://news.google.com/rss/articles/CBMivgFBVV95cUxQXzdkZm12NUE0SjJPRDRteldsRHlOM3JBbUpUSm1XZjR0bDJObXZrdlFSb1RyRXZxYjNuZU9VQnFicUpmTzFoTVpHam9aa2ZmRk1QYlVkd1dvR2tKX0w4WUxsTHVuWWhBQTdoS0ZWOGFlS0JPWldmek54eXZINk9Mc25YX2JqUUxzUVdQS3dIYV96WVk4TWViQ3BMS29PWFl2ZFBJaVJlUFRDY1gxTkZNcElKX3NLdnJreE8tcHF3?oc=5
+- **Source:** TechCrunch
+- **Published:** 2026-10-26T18:59:52+00:00
 
 ## ARC Founded in Berlin - Max-Planck-Gesellschaft
 
@@ -255,51 +303,3 @@ _Last updated: 2026-10-26T16:34:31.387561+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMiswFBVV95cUxOY2hzQTNWYjhFWFdXVnhhZDRFZTRUckVVRnBEekhQRmJyYWdxbk85WmtyVnJHOTVWLWNJQVFSSTJqR2RSclE5MWFXenVDa3Yya0UwUUdncmdCY3NvQmNNeXA5X0N4bk5zMmVobC1YRWNPSXlsOXZXZWJMWGE2bGkzLTkxU0tTNEx3UEUyaUQ3U2x1Y0d1NC1nVUQtc05sMG55OW1YN2tPNkc5Ym5ydGpsY3Q5bw?oc=5
 - **Source:** Tooxclusive
 - **Published:** 2026-10-25T06:07:15+00:00
-
-## Singapore expects all parties to honour commitments, says PM Wong after Indonesia cuts gas exports - The Business Times
-
-- **URL:** https://news.google.com/rss/articles/CBMi0wFBVV95cUxQRVoxclM4cXpCOGE3R0tMa3ViWkJoa1NqQWVoS3l2QUNJRjBYeElWYW10SW1IUTN2dURHM2pnZWVBU0o3U1pBUTBNcUVXQl9JZTI1R0lfLVpJU2NkYWwzVEVxUGdpSE1kMUdCMVpwajR5NVRVVURzTUN0NDJRRUlfVXJtNDJobVJuMTMxZzQ3LTZFeGFjRHNLVm5qeVBVb0llU2pMZ2dvRGRGSVUwTzAwRS1kRzNRYzBDRW9DOF9iZG5TSTdGV2VFQ2N2RFQ0ZVFNb1g4?oc=5
-- **Source:** The Business Times
-- **Published:** 2026-10-25T02:49:00+00:00
-
-## New Mexico Deploys JTIP Workforce Grants to Support Quantum Hardware Hiring at IonQ and Bandelier Technologies - Quantum Computing Report
-
-- **URL:** https://news.google.com/rss/articles/CBMi3wFBVV95cUxNMXYteWw3Y1YtcE1YWkVGT2pLMC1QNVZjcGI1b2NCQWZUaXJmdkc2RW5Walk5TlpLU19ybE9JeFdHYWh2cTRfcTBEZUllMFNqdUs3Z1M2N2ZoTThhYlkyUVpwUnVtQzRwVVZQdEtoamtqSnprUy1lcXZ3eFRlUU5LS3BCem05dzNmXzBodEk4VmVGM3ZIU2l0SjNJV3RScW1POGstZnR0N3B5eGphdEFXUlB0V1BUWHIwT0NHMU9ab2lQbm9sbjhudFI4Z3NSclRVMU9ZVkxKcXdDNVBMRVF30gHkAUFVX3lxTFBscktIOHpIS1NiTlBzb3had2JXYUEzdm5aQ0ozanpxREFwRW1xUXV1bWstb09pX3ZjbHJBZml1OC1RcHU2eC1WMjRqNWpvYVVzWXV1S2JuUGJ5QnAzOXlIY19BSVhiZ2lmS3o4YUxWOFB0Y0czZElqMUdhRzl2TzdYZWc3bnR0S3JVaU5GOU5zZTlYVUJNUDRYTVAyWllZclNEV1ZyQ3lvVHN2aEtKd1ZmdEFHYXBUOUhyLXllOGJ0bk01cHZQLTU3SFRUSGx3blowdFVNSmRldXdod05KaFpTdUtTUw?oc=5
-- **Source:** Quantum Computing Report
-- **Published:** 2026-10-25T01:25:46+00:00
-
-## California Awards $5.7 Million in Workforce Grants to Establish Sub-Doctoral Quantum Hardware and Technician Pipelines - Quantum Computing Report
-
-- **URL:** https://news.google.com/rss/articles/CBMi6AFBVV95cUxPOWpScEI4UHRoaVdzZU1KUmdPdExLcEZId1dIc1hYTWs5Ymw2bHBfdkY0SGNxb29mRW1iZjlSeDNTNlVCNms1TEx2T2Nqa2s2OGFKTXZMNU1JbXZxTzl3NUlwN2xnaUlFYzZHS3ZIektnTjRWQXRwNkREYUdLZGRIbVZKc3RkLVBpSk0tOUk2TUt5a3Zhc19SbVRJUFRLM2R3S2llWlFlRkVqQkptdHQzRVk1R3JjUlJxNUFTX1JOR3BjWXNoQ3JZc05KU0Q0WTlOTzRZcS15WlBmTk5sUGVMcUNVUlVpZzJ50gHuAUFVX3lxTFBiYk9malZHM19hZWgzZTZzWGNwM2hOMG1RZ1E1RmhkUU9tSWNFMFhkSkJsRjJTNWdpSHRwR1ZTRzEyRFpVSktpS1dCRmgxaDdNNS1CUlhoNXF2OEc4SEhvYkNPRGVzSkhoU0I0WllHcldQTUdNRjZMTTRCMEQ4dDdRT1ZoeEpHSDNPc19zTTlfdWJIWHplemtUWWQ5MDBIVDhvUHlOSXdYZzJNeU8yNFpZeEpPSEJKUmkzczV2Q2ZJaTBvVGlKMWdwYjREaXV6NHBrQTFSd3lYYlQxMUlLNENEZXNGcEl6dm5OQnBTRkE?oc=5
-- **Source:** Quantum Computing Report
-- **Published:** 2026-10-25T01:25:46+00:00
-
-## The Moon is Ours: A possible future Moon Cold War between US and China - The Aviation Geek Club
-
-- **URL:** https://news.google.com/rss/articles/CBMipAFBVV95cUxPc2xUUXNqOThGWlhWbXdxbnlwMzdCRVhIQ2Z2R0J6a2ZKenVleGpJRXY1cVY5emVNMXFkdVREblNreDlqRUZXelRaUTh1NnU3Skh0RGNxM09rTlB5eTJDTU54cEgwaXRzczZFMzhSTUlsajhJZExQZWhpR2d5VnNwdzlqMFQ0VU9SUjBBcTI1cVY5SWlpazVBM3NGSzVnZjAxN0NTVdIBpAFBVV95cUxPc2xUUXNqOThGWlhWbXdxbnlwMzdCRVhIQ2Z2R0J6a2ZKenVleGpJRXY1cVY5emVNMXFkdVREblNreDlqRUZXelRaUTh1NnU3Skh0RGNxM09rTlB5eTJDTU54cEgwaXRzczZFMzhSTUlsajhJZExQZWhpR2d5VnNwdzlqMFQ0VU9SUjBBcTI1cVY5SWlpazVBM3NGSzVnZjAxN0NTVQ?oc=5
-- **Source:** The Aviation Geek Club
-- **Published:** 2026-10-24T20:39:05+00:00
-
-## Oxford fusion firm wins Ministry of Defence research contract - Oxford Mail
-
-- **URL:** https://news.google.com/rss/articles/CBMiowFBVV95cUxQOTRBT01GbDRhRzVidWVUUzh1NU81dlU4QjUxSi1VYjRYMjdVcUhuWWpjcmRYSlVJU01NcVZzU3l4VXhhdmdMdGlDazFfSWpiLXI1R01NSDJQMk5LYzkwY1BlWTd6VTRmLWhnRDl4T0RNLVpyQjV1UHBzTnFiM1VQSlF5WkJNX01lODVWQUc0QXFXS2VXTDlqNERlZkpqaGVGTnlB?oc=5
-- **Source:** Oxford Mail
-- **Published:** 2026-10-24T19:00:00+00:00
-
-## WHAT'S UP IN THE SKY: Costume ideas from above - dailyrecordnews.com
-
-- **URL:** https://news.google.com/rss/articles/CBMi0wFBVV95cUxQR19tMVlWV0laX0ZXMHdBTnlJbW5kaGRLSkE1a0pPMEI3VmlyaG1scjFZZll0ZTE2NE5Kc1MwUWRnV3ZUX3FvSUU5R21USnpVWG5IZzcyUG5oLWNUR0JHUW5ISTJ5UGFCcWxjTmFkaDZmTk9xcXZOLUhrX0c0RGE5UkpLdzFycFNYZnVzV2c4QmQxemtxc05NQUx6OFpsU3JSaGtDZ1dsMDFCUFdnSlF0ejRuWkFkMnZjb0NCNEdQSlpySVpQRFMxd24tR2REOTdxV0pv?oc=5
-- **Source:** dailyrecordnews.com
-- **Published:** 2026-10-24T11:00:00+00:00
-
-## Marathon Fusion says it has turned mercury into gold with fusion neutrons, 10x CERN's record - Dealroom
-
-- **URL:** https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQTZ2T0o3a1VseHk3c0hFSFpMOW5jVFAweXA1NGV2MkRSTVpyYWNUYkFwRXVBUklpMlVyclBTRlBDVDhZc1lueXdLSHJRVHIxM0xmeXlsX0pzOEJjMjYtVmtBOS1Wek81VmFxZUJMOE1UMlJDSnRPbU5mSXNtUlplUmliN0hCdVVUSk5TNktDaUt3VkZnZm5OVW03S0lWYWRUNEktMnBiTWlQTGVHNzhISjJBajl0eGZqODRDbFc3NG1TbUk?oc=5
-- **Source:** Dealroom
-- **Published:** 2026-10-24T09:46:25+00:00
-
-## SRS a keystone of a nuclear renaissance in the Southeast, DOE Asst. Sec. Walsh says - Post and Courier
-
-- **URL:** https://news.google.com/rss/articles/CBMi-gFBVV95cUxQN2d5bmJqdlRaemM0dkRsb1l6WTJwNjctQ0lnVDVveXRhaUduZFlfY2xOdVBITC1rNVZvS0c5ektVSEJtOFdsd0lWcDZPeUxLUlVRZGhyWmNjcUJ6dTVQQUZIbjRpM1M2RGttWlhLWnFuS1VZN3dIUG04a3R4Mi12ZHJhRm9zMElBdm94YzdMZXJGMkg4OU5FSnZKNFdDUlJnOWxES0QyQTdWaEpQR1hPODY3dk5vdFgzdHlZWmd6RC1Ja3I5Yk5GWDBUa1RLX3lHSUdlXzlMNlJUSnpzR3NQMzMxUEtCbi11cHJjcXM4Q1NHdmNNMFcybUdB?oc=5
-- **Source:** Post and Courier
-- **Published:** 2026-10-24T09:45:00+00:00
