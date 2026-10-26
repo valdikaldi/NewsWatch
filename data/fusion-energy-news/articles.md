@@ -1,8 +1,68 @@
 # NewsWatch — fusion energy News
 
-_Last updated: 2026-10-26T09:49:13.679647+00:00 · 50 articles_
+_Last updated: 2026-10-26T16:34:31.387561+00:00 · 50 articles_
 
 ---
+
+## ARC Founded in Berlin - Max-Planck-Gesellschaft
+
+- **URL:** https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBCWjFHZTQ3N0xyQV9zNE1Yajk3NFlfZ3hyREZiVG5WYVo2Ui1rYUlETFA4b3NnbGlscS1GQzNvR2RtZnoxRk45djMwa19KYjI4RXdFSDlDTnNNLVBXc3U5OTl5SS1NUlk?oc=5
+- **Source:** Max-Planck-Gesellschaft
+- **Published:** 2026-10-26T15:01:46+00:00
+
+## U.S. startup launches 200 kWh flywheel energy storage pilot - pv magazine India
+
+- **URL:** https://news.google.com/rss/articles/CBMipwFBVV95cUxQajdFdzRCNE96M0NHS2QtVmR2djdnc0QxcUZkR092NUpZSzJrXzlpcXl5Y3BOdnA4Y3oyenhVbnlXM2pkcDRONTFMNjk2ZjQ4bTV6VC1MMXAtejI0QUFmd3ZtOXpiN3dUckF2aV9YekFIYk9aMTNtR2NFUnQxaWg0a2lrYTZzcmxaNkdvVWJRRFBkZmVtVTUycmt0WkRoWFBrb2g3SHRVbw?oc=5
+- **Source:** pv magazine India
+- **Published:** 2026-10-26T15:00:00+00:00
+
+## THE WEEK OF OCT 26, 2026 - AIP.ORG
+
+- **URL:** https://news.google.com/rss/articles/CBMidkFVX3lxTE9WQ1F3NC1JWXpXMUF4YnQxdmhrel9QQ2JiX05MalUwdWVwOFU4UXZ5eVRoZUZFN25OUWZZSEk5dWpKaFZaZEV4N0FUNDhMSTRSel9BeFpRMHA3RUdKOTFoSTNSR3BwS0ZHdXg1QUV0ckRpYm9XUkE?oc=5
+- **Source:** AIP.ORG
+- **Published:** 2026-10-26T14:07:23+00:00
+
+## The MagLab creates $709 million in the US each year. What does it do? - FSView & Florida Flambeau
+
+- **URL:** https://news.google.com/rss/articles/CBMiwAFBVV95cUxQcFdBcmxNbi1kTUd3WFdHektoMGd5UGgwd0d2VW9WN3FqSHM5aGVNSDN4TW9EZ3A4Vm9mOG9DcUR3M2p1REoyZFhZeXBNSVFkYnZPaG92MFhnTE5PaDdXQWdaQ0t5djVUSUVqTTJlU3BLc0RqOHd6UVBWMjZhQnREMkh5WTRMWlJUNnJOTkU1SmVCMVRCUS1BaUN5ZnZsQWJuMkt1alFhM18yZTAtVXVaVXprSkFjZ2VSb0hsVFE1SS0?oc=5
+- **Source:** FSView & Florida Flambeau
+- **Published:** 2026-10-26T14:01:00+00:00
+
+## New Max Planck Columbia Center to advance fusion energy - Innovation News Network
+
+- **URL:** https://news.google.com/rss/articles/CBMingFBVV95cUxNU053NVdRa0tCREZDeWFMNEZKakpOdUlhOTM0ckZTai05ZjlWX29GM2xtaEN6aXlvY0hlbjU1N2tOSXBYY2YweFBfUy1scGYxSDBCdXctTHFXaWQ0WWk1UU5JeWFkLTlLZHE1SUkxd2RfWHdLZjREXy1zZWtiLS0zR0tEeGkxekRHMHZwSUhBa2llbml4WmtNSXRoLXU1dw?oc=5
+- **Source:** Innovation News Network
+- **Published:** 2026-10-26T13:33:23+00:00
+
+## Faster, more accurate airborne radiation detection - Michigan Engineering News
+
+- **URL:** https://news.google.com/rss/articles/CBMikAFBVV95cUxNQWZ6SjYtVFF3cExOTDNmRnZyVjhwbEJCUW9hM2liQ0tfd2NHNThBeExveVl5UWNWSkxxbkRYNkNCQ2QwcjdwTnI3Um9vOW5vMXU5YXAtREV6THNUaHdDR0hzaURVQ090OFdoRm9OQzEzQ2lrZ3NhY1RYa2pIZEdXaE1xZzdBV1JWeW9CeFhEOGI?oc=5
+- **Source:** Michigan Engineering News
+- **Published:** 2026-10-26T13:09:09+00:00
+
+## Gold From Mercury? US Startup Claims It Beat CERN’s Record - NDTV Profit
+
+- **URL:** https://news.google.com/rss/articles/CBMipAFBVV95cUxQZURBTGM3YTlDWWdYcWxZVnpTbjlYMGVNRVMxei1hanZHTUZHdHdTSml0aXVaT3ZkSlNOeVpGNXdXd2tfZHUtbml2NE05c1YyNk9iZWVZWUFGbTR2TEhuY2t1MkhraTBMaTMtRkl1UmJaS1g0UUhaWVpFRHZ2WHFZVWpnVjZhVkRPNXNneUpWdUVfS1hUSUllSklhak02N1d2QnFXS9IBrAFBVV95cUxPVFVOLWRtVkttWU4zZVJpVUVodUpMSHZYOTRlMng5bm14LWdrdEZZV0ZnSDFHS0JqQ01YbzgxRG1TeFhPV25Yb1IwRGtTLXZBOTU2VXprWkZOVTZ1NHdKN0RjSlVpY01aUHdENVB1RllkRFkyWExvSkVxNGFzWVNNM2FBTDJJV3V2WkZUelM1bXZHR1RvamNpenpPeFVyRkxoYlYtekduTlUwWF9z?oc=5
+- **Source:** NDTV Profit
+- **Published:** 2026-10-26T12:36:28+00:00
+
+## New Multi-Material Metal 3D Printing Infrastructure Could Revolutionise Component Production - Akron Beacon Journal
+
+- **URL:** https://news.google.com/rss/articles/CBMi5AFBVV95cUxNYlB1VThHSDhMX1ppY04tVnFPRGNPQk5CN1hOXy1ZQldfb0ozUU9fQWpFWldGZTAzZ2dYd2UtLUg5X1JHY01jV1ZKa1k4ZXo3YkFNMWpKSGxOYkJiZVdIOWJXRlVPeVk1WGw4LXZxTVBBVW92aTcyOWxyNmlSVG16N1ZuRHV1ZVlUV3VEdE5wYzBrVUZBY1NvMGhjc0N0ZFd0dTI2N3pyNlE4TzY4eDE4MldPUlNTWkNId1ljdXhNbFUtclBnWnZRMHlOSk9STXh5VGMxOHpmOXhXdUdCU1BzR1JFU2s?oc=5
+- **Source:** Akron Beacon Journal
+- **Published:** 2026-10-26T11:26:30+00:00
+
+## Tesla Stock Rises in Premarket as Barclays Upgrades Rating and Lifts Price Target by 20% - TipRanks
+
+- **URL:** https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQjU0TTZJdUM0NjhPS3AyU2RvZFpteGhhWERfeXBjZUJrNVhPT01xVU4yUFcxMnZrS3lwM0REeVZhUjNxVzA4dlNvX3ZqNFF5eXl4cWhFQUw1OGg1WWgzQ1JKMUNOdXIzMG9HcTZiZEZzWEZGLUE1OVo4bzVwSW93UHBQNXpxNkktaVlqWVVjck9LRlR2bk9SSkVueTROaXFXZkMwSm5uM1VfY090alZXVl9jN01YcUpZQTVWa0lUUVZYUQ?oc=5
+- **Source:** TipRanks
+- **Published:** 2026-10-26T10:59:04+00:00
+
+## The U.S. invests in semiconductor research and development - TahawulTech.com
+
+- **URL:** https://news.google.com/rss/articles/CBMimwFBVV95cUxQdnI0Mmt1bDN4Tlh0a1lacTJmR2U2MWxlTHpHRjVqeW9QdUFyM25mc3JVUnloWnB6dW91di1IYm1WNVQ2cVc0bm5YTHktT2hrSGVZY24xSW16dnF3Q3NaTk1PenpHTmdHVnlNR3EzeDF1UWZvbHg0QkdmT2lHaFVKVFRhck5XbjNvOWtvV2xWbER4MVZiU0VuaWlhMA?oc=5
+- **Source:** TahawulTech.com
+- **Published:** 2026-10-26T10:50:02+00:00
 
 ## Fusion Reactor Market Accelerates With Private Capital Inflows and Utility Power Purchase Agreements | SNS Insider - openPR.com
 
@@ -243,63 +303,3 @@ _Last updated: 2026-10-26T09:49:13.679647+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMi-gFBVV95cUxQN2d5bmJqdlRaemM0dkRsb1l6WTJwNjctQ0lnVDVveXRhaUduZFlfY2xOdVBITC1rNVZvS0c5ektVSEJtOFdsd0lWcDZPeUxLUlVRZGhyWmNjcUJ6dTVQQUZIbjRpM1M2RGttWlhLWnFuS1VZN3dIUG04a3R4Mi12ZHJhRm9zMElBdm94YzdMZXJGMkg4OU5FSnZKNFdDUlJnOWxES0QyQTdWaEpQR1hPODY3dk5vdFgzdHlZWmd6RC1Ja3I5Yk5GWDBUa1RLX3lHSUdlXzlMNlJUSnpzR3NQMzMxUEtCbi11cHJjcXM4Q1NHdmNNMFcybUdB?oc=5
 - **Source:** Post and Courier
 - **Published:** 2026-10-24T09:45:00+00:00
-
-## US Startup Claims It Turned Mercury Into Gold, Says It Beat CERN's 2025 Record 10-Fold - NDTV
-
-- **URL:** https://news.google.com/rss/articles/CBMixwFBVV95cUxQSUpKem14Nzc3aElaUFZEVGNkamVyX3FSOXVMc1hZSDV2a3M0ZkY1RHlXUXJ6Q2xBR25qS3lUc016TUJ1UTIweHZOV1NuR3dwQ0pkS3YxdjNOM1ZRbVhoMjFLcnN2Z1pKNWtNQ1lCTUlNU0l4UGJwS2c0ektJSUppcHRvdXVpQUVzdW9oc1Iweml5bWV1cXdCS1p5NU1SLUg1Sk80ZU9OZmdQTXZVOWIxX1labVRJWmZ4SHl6N3hVdjNlYm9JVEE00gHHAUFVX3lxTFBJSkp6bXg3NzdoSVpQVkRUY2RqZXJfcVI5dUxzWFlINXZrczRmRjVEeVdRcnpDbEFHbmpLeVRzTXpNQnVRMjB4dk5XU25Hd3BDSmRLdjF2M04zVlFtWGgyMUtyc3ZnWko1a01DWUJNSU1TSXhQYnBLZzR6S0lJSmlwdG91dWlBRXN1b2hzUjB6aXltZXVxd0JLWnk1TVItSDVKTzRlT05mZ1BNdlU5YjFfWVptVElaZnhIeXo3eFV2M2Vib0lUQTQ?oc=5
-- **Source:** NDTV
-- **Published:** 2026-10-24T06:26:39+00:00
-
-## US Commerce offers $389 million for energy semiconductor R&D - ET Datacenters
-
-- **URL:** https://news.google.com/rss/articles/CBMingJBVV95cUxOS1Q0THBYanZIbGdlbWhkSjFDZVRDMFRwWEtfTk1rczBnSXBHcFo5R0FfVzJrSnpvOFY0c1FmXzhxVWp2Y19nUlJWMWYySm5JdGtpTms0c0FIeXJCN0pLOW9ULXFqSnc5Z0J1WWluX1hYTDBjX3ZmdlROcF9xODJLUkRfZHFFRWU0cGY4cExHci1WanBMcWJtWWlZbWVRbENtSXBPN0t1VHk5R1RNZnNTRFpUNVhZYmp0VzAwd0J1Z213SVVSbXpNaDU1ZGpMUlluSkpHVlhxYTQyeDdUUW1lYXFfS0d3WXhoWDlCOTc1TTdHR25vMGJZc1VwNWxYOEN0Wl9ZOHNqcnNfWjBlbWFuNlM5RkJXYWFfS2lhUHJR0gHmAUFVX3lxTE1OQXJkRU8xTzJseVY1ZjZHdm1lTGJYcFVYSjZVMHhvR2RuYUdaNUtGdWFtODdXY1lsMlpuVHhmSkp5aEZnTW9IXzloZlJRLUVWVmtMZFpIWHN4dUJRdGdMYjZjWkRmcHZlSElnb3hZUm5pMEd3MlhPbmFmWDVLOU41MUxhTlNHSzBlUzNCZXhOLTQ4WnA1akhja0tFYmRUVHhTdEVuYWxObTdOY1ZrMzZLd045QmdIaDdpQzBJNWpLTEFqc0l5N1UwSDUzV3R4WEVNS2RMUmh1Q3R3ZllsVDkyQ2JZSlhn?oc=5
-- **Source:** ET Datacenters
-- **Published:** 2026-10-24T05:32:48+00:00
-
-## Wash clothes at one exact temperature and 9 other hacks to slash energy bills as clocks go back - Irish Mirror
-
-- **URL:** https://news.google.com/rss/articles/CBMihwFBVV95cUxQMm9OR1p6Qm9yLWVpM3FSZlZjRFlWSlJZZ3JwcmFjSFVjV0lFWXJzOG40RVNXZmpUb2VvdHE2WlV4QjVKT0xobXplc2xkUzMxOHFWODVrUTlxYkdTdmhRSVF6Y29JT1dSN3Nfb0h2M2poOWVwMDFjOHE2V0NlYzlXX2oxWS0yMGvSAYwBQVVfeXFMUDdub3lwb2VMbmxnUW5iWlpOZFEwenZERTBON1dIUnRxa2JGN3JwdmZhN1lFdjMybEdiVW9UMUF2VUtiOXJMQnFHYVI2c2FDQzQzOFpuVWY2V0U5QlRtNXZVVGVyTEFSX2l0UFpiZHpqeVp1NG96Q1o2UEdwUWFId3dpX0lLQzhsRzFvX3E?oc=5
-- **Source:** Irish Mirror
-- **Published:** 2026-10-24T04:42:58+00:00
-
-## Commonwealth Fusion Systems Receives $85 Million From U.S. Commerce To Develop Fusion Chips - NewsCord
-
-- **URL:** https://news.google.com/rss/articles/CBMi6gFBVV95cUxPZmhpRHYxUUdLeEdxZnctM2hQQ2pSN1ZyaVAtYVVBc19YUzdueDFmR2h6MThfRll4dnNYc3lDOUgzNklhUjdNeGJQRkJ2VnVrVXJZdExLTGc2d1VpLWo4eUFFdFY0UUlUMzV4eWprbll0U1JRaEk4LS0xb29ad1dXcDlPRXVJem44ZWJIMGJIZWphREZLb3lxWVNrYmpTR3Q1MkpzNVRIM0RtLVhldko3ai1udWlvd0RTdWNzaFB2TUk1TVl6N0pla2R6ZXpTY25MWU50bEI1allDQWRkTnEzWUQtTDRPWjVDeWc?oc=5
-- **Source:** NewsCord
-- **Published:** 2026-10-24T03:08:30+00:00
-
-## EU Auditors warn of grant payment errors and further ITER cost overruns - INSIGHT EU MONITORING
-
-- **URL:** https://news.google.com/rss/articles/CBMi1gFBVV95cUxNdUF2cXU3RGVzUG5xZGZSY05oemRJek1BZF9oUktmXzJDanJRSl8zTGhDaWx2RTZFVG9iem5hRWJ3SWY5aDJjVE1zS2sxZEpOenRESS1TRW9hTmZNTDNsNVlKY2l6MUF6Mm9aRnJ0cE9XSVZTMThBZ0dLVldMWGQyN0xQank2NW1SbW5uVUh4anlqTVNfUms3UDNkZ04wdFYxMlBOZ3A5Q2poMTRnakRFSjJXeFNNRHZXTHRwVlFpd1ZTaDNqaGZjSXBvZDI1LVN2SXJJNkNB?oc=5
-- **Source:** INSIGHT EU MONITORING
-- **Published:** 2026-10-24T00:32:03+00:00
-
-## Daytona Raises $60 Million Series B At $1 Billion Valuation Led By FirstMark Growth: what 5 outlets left out - NewsCord
-
-- **URL:** https://news.google.com/rss/articles/CBMi6gFBVV95cUxQSkdLc0s1cE1LM0s3Y0JXUmM0MVdUSjlwbHFvZUdNZ0liVGhvTENYdjNZV3QtREZ5b3d2SzNkYWVIakgyQ05EWHpXckVHb01iNUNveHVubnhxalVuMm1UZjJCcmlNcVNkNEc0RW9zcFBXQ2FIUFBFQXBucGNpc01FTEh0UE5pd1ZhdmpDQ0FRYTZPWDJXbHhzRUF1YTFQeTVjd3BqbG9FVGMyRkZwU2ZJZ3RvVGNTOEZkWUhIcGtNZkpsUWtfczFOQ1B0azRVVV9MVzlfQ05sc3R4blY2bHBPZUR3WUdsUGFUaHc?oc=5
-- **Source:** NewsCord
-- **Published:** 2026-10-23T23:24:36+00:00
-
-## Rolls-Royce, GBE-N contract kickstarts U.K.’s SMR plans for Wylfa site - American Nuclear Society
-
-- **URL:** https://news.google.com/rss/articles/CBMipgFBVV95cUxOalBBVjRtYktSSUlfTkpuM3ZIY21JbjVMVXBybGd5aTJSLTFZaC1XUElSSFJfMFBUdWhDbkttb09VQ3F0RlBUVnNPWlAxTS1YWktWZGlucE9JLUloZUlhdXlxWWhCV284U2hKU1FxazBqQnZyVl9RYzd3OVBjR0w1dUZXYVhidHAycW42TjVPRDZKc0FocDFMd0lndjNjT3dEcUZ5WUpR?oc=5
-- **Source:** American Nuclear Society
-- **Published:** 2026-10-23T23:08:03+00:00
-
-## Commonwealth Fusion lands $85M CHIPS Act award for fusion-ready chips - Dealroom
-
-- **URL:** https://news.google.com/rss/articles/CBMipAFBVV95cUxQcWdMWEt2R216R0gwd1R6MDdqYjlmT0lkWF9md0Z2WEN5aTZOVGNqaTFVVVczY0ZCNGdiUTdxTDdld3NtYWlyVzU2U21ZY3dRYno5dWpKcVpNb3NjbFM4NUhaN0lVQlhFbUp2eS1RTVFnWkJWVXMzalB4R3gzY0t1X0RzcnJhd3pfWGtwazlEdzdMbTdiOXE0OUItQjkwRTRiR2t6Xw?oc=5
-- **Source:** Dealroom
-- **Published:** 2026-10-23T23:05:02+00:00
-
-## The AIDC Paradox: Why Did Meta Leave RE100? [Energy Odyssey] 14 - 아시아경제
-
-- **URL:** https://news.google.com/rss/articles/CBMiZEFVX3lxTE1TU3QwT1BJSExCY2FZSkk2OXRBVWVqcXNJZ3ZuckpLdFQzeWN2VlFzd2M4b0lYaDU2Ti1ESHF2YUFheGVtSVVqZUZrT2ZBYUpkM0o2SnplVE5uZzdGbWNxR0hBWTg?oc=5
-- **Source:** 아시아경제
-- **Published:** 2026-10-23T23:00:00+00:00
-
-## Commerce Plans $389M in CHIPS R&D Awards for Power Semiconductors, Fusion - ExecutiveGov
-
-- **URL:** https://news.google.com/rss/articles/CBMimwFBVV95cUxNUDgxT2s0MjIxUkVvSkx3VElkdkZqOFVCeHVFQXZNSVlSbW1wbmFPaG9Bc1k0YV96cFBNOWg5R2MzTFdSSmxPemRubVczRnJHLW9KdTZjQ1JIVjRDQ0xBOVE1dlJTWU9YLVdRcmc4d1Z4NkU4TzlHSDlUTDc0WEx1X3E3WkFudXFUUWpvZ1JwcExCc0xST09KSE0yRQ?oc=5
-- **Source:** ExecutiveGov
-- **Published:** 2026-10-23T21:25:23+00:00

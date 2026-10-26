@@ -1,8 +1,122 @@
 # NewsWatch — Iceland News
 
-_Last updated: 2026-10-26T09:49:13.312311+00:00 · 50 articles_
+_Last updated: 2026-10-26T16:34:30.947600+00:00 · 50 articles_
 
 ---
+
+## NGOs call on Nordic Council to adopt AMOC resolution and make good on polar fuels promise - American Journal of Transportation
+
+- **URL:** https://news.google.com/rss/articles/CBMitgFBVV95cUxQa2ZSLWFNU3VVLXFyVXJDWGZJTGk5MXFmVHRKRGVFcmpRNE1JRGMyaFFUbUVOX0RNbGZQUFdrbFBhUDFkUnZSbi04WUNjbVQ2ck1ZdkxodE8tUnBjVUFVWjBKekcwaTZ5WkxyZ3g0S2xjazFaNjJSc1NHVm1wSDZUX1piR0x5NWNDLUNjVEdpV0pBaHFBTUI5elhTeXlzUU5WeDFPMXVIazdNUGhqODhVVkpPQW9aZw?oc=5
+- **Source:** American Journal of Transportation
+- **Published:** 2026-10-26T15:54:00+00:00
+
+## Syntholene says independent review backs up cheaper eSAF production claims - FlightGlobal
+
+- **URL:** https://news.google.com/rss/articles/CBMivgFBVV95cUxQcWJXbGR1UzhUTnAzb0RMdXhEN2xvZWV5MnJ4cmxCWWVwOVliR3VNWEFMQnhSR2REUDBVVDRPdFlwbjNobUlNYnlTbTE3VnFjS0FFNG8tZmtjMmtNY2YtazlBdF9FRmJyd09vX1ZqSHZKU0hobUhIZkFQSU9UcHdUM2d5WHRXXzVqRDFvenRlUEhqYXgxbEdaX2w3WTRLeVVRSVhhSGt0cjBGOXFOcXZueERHbmZtZGl0cGZzODJR?oc=5
+- **Source:** FlightGlobal
+- **Published:** 2026-10-26T15:45:48+00:00
+
+## Discover when we will be driving in Iceland in ETS 2. - virus.hr
+
+- **URL:** https://news.google.com/rss/articles/CBMirwFBVV95cUxPdEZocGk2UW45ekh3N0lISWZiVDVJMWlIUE9fVTl3cmJ3ME5INFM5TkloaVcxRndKVzBpaHF3LWpqZTM1cDBjNktDd1B5bXZKX3JuUG1oNXlxcFFtT2hpcC0tYUQ5YXR0VWdsUUNrZFVkWktaSFEwNm1ETTdWYkNrb2FSZUwxV25MY2dteURoM2wwT3hwMDVOZmZIOGtJTE9kVG5odFd4cmFGbEpITUlV?oc=5
+- **Source:** virus.hr
+- **Published:** 2026-10-26T15:05:00+00:00
+
+## Police Warn Commissioned Violence Has Links to Iceland - Iceland Review
+
+- **URL:** https://news.google.com/rss/articles/CBMiiwFBVV95cUxOalZyNWpBX3ZYRmhBMHZJZWxMWWpyRkNZUllIdUZVekZMQ1d4cWd2LTZvZ3lsSnhZdWhEanBOSGVmYUdNX2hFTWh5TW95TTlESnRYektHQ2c0WDJWOTIzY2ZTNFFleDFXbEdFYlJkYjV1Z0ZjUTl3d1pzYllrcWdneHNOeG9RQlhKdVdJ?oc=5
+- **Source:** Iceland Review
+- **Published:** 2026-10-26T14:00:30+00:00
+
+## Ring of Bjólfur - Dezeen
+
+- **URL:** https://news.google.com/rss/articles/CBMie0FVX3lxTFAxNVd0clotTklmVG9mMG02ckF4d0o0aHVLeDhLbGZJYk44aHJrRFF3Y0lvSDFLWi05ZC1XUms3LUktNnUzM3dtQ0ZvLXlJSlJVQ3NkQ2Q2VDB3ZG5DVUtHQjVmcHg4WVNWTlpycXhSMlJ4RzBPd0FzTjVoNA?oc=5
+- **Source:** Dezeen
+- **Published:** 2026-10-26T13:55:27+00:00
+
+## Watch Queens Of The Stone Age give 'Phantom Limb' and 'Insignificant Other' their live debut and perform 'Tangled Up In Plaid' for first time in eight years in Iceland - NME
+
+- **URL:** https://news.google.com/rss/articles/CBMipwJBVV95cUxPMG9WUTdJdVoza0tpWjU4Z2MzZkpJUW5YbjZMcnVQMlRWVjhjYzZrbjlENXFWSk1ONDZOWmItdk0tYTlveUY5OFdBX1d4VFQ0RVB0TS1IenlJaUpWelh0ZXJBdnFqYU9taUR5cmM2WFlvZ1RCMFFDXzFVZXljOEdkQVdFWGJuRG1rdXl4NHJkV1VNczhvdlkxWFBrcmQwRHpVS3hNR0ZJWmpHVEpUX0U2ZzhoR1JKYm9WektMdlNaVFpYY2pMUG5vQ0NxQWJPZGJRWktoTFZ3MWN5cHdWTmdFLUNOOE5PeUNtenpzNGU3YTNXdmFuS0xuWE9iSGxSZjYzQncwTmhWckpla0xWeF9hblNhTVp6bWZuMFRhVjhJZmJwT0pkUWd3?oc=5
+- **Source:** NME
+- **Published:** 2026-10-26T13:54:27+00:00
+
+## From archer to illustrator: Antonella Ballarin’s new chapter in the sport - World Archery
+
+- **URL:** https://news.google.com/rss/articles/CBMioAFBVV95cUxPZm1md3ItaFFwZlBJejhwRUt5cTdMLVh4dG5BU3lhVXVmOXh0N2VKZjk2Tk1Zc3pIYXF0cDRtb0RHYUlCTnE1MGxmOHVzbWZVRWJBZk40Vzd2VTcxaDlRSVBnSEZPN0t1UW1vYU5iQU1GbzV4djM4Z1ZMU0FkNGV1TjVnTkZWYm1kUUVYN095dkE4ZGljS2FobnVjb2V2bVdz?oc=5
+- **Source:** World Archery
+- **Published:** 2026-10-26T13:46:31+00:00
+
+## Laugarás Lagoon Christmas menu marks Iceland spa’s first year - Travelling for Business
+
+- **URL:** https://news.google.com/rss/articles/CBMinwFBVV95cUxNWmtScC1FenZHY2t5YXZweHZNSzk1aWVkY3lhd2xnOUtMeHQtYXE5cWJYbkNWcUx0aTlHSVlhaWxxdXotRXAzNjFMYjJ5cEtSSjVrcDM0OU9IdmJVLUVYSm5qMVRHd0czaUhKdzJ0bXg3bUNiNzQtYWpGX3N1T29Nc3RSSC12YWJHNnBQRXNZeGNsdTNpLTBZYlJPVDN1clE?oc=5
+- **Source:** Travelling for Business
+- **Published:** 2026-10-26T13:15:47+00:00
+
+## Delta Air Lines Reveals The Dark Side Of Competition After Abandoning Route Its Rival Airline Was Forced To Cancel - TheTravel
+
+- **URL:** https://news.google.com/rss/articles/CBMisAFBVV95cUxQSUphRUZvZzg4VnlpOVg1TmdBZ2ZLaDRWTjYwR2tISThZV2xiSGZGQmk1cEYycVZOSGZOTHN1LWgwTE1XRWFCRlBNR2FMNkNWX081bDNhU1dSMEFhS2M0Mmdicm5EQ1ZCR1pLcW1icExKcVhDZXNTX0xwXzFvVU1pcVFMdkNfXzNDSTVwelhEZkZuZ0wxUkt2eTVqUWoyaS1fbl9BOEdMbWJGcU1VTUIwLQ?oc=5
+- **Source:** TheTravel
+- **Published:** 2026-10-26T12:28:21+00:00
+
+## Protocol 35 Bill Can Fit Iceland’s Constitution, Scholar Says - Iceland Review
+
+- **URL:** https://news.google.com/rss/articles/CBMimAFBVV95cUxQbllGVmxDLVZHVk9lcjg1V3N6T2lkNkFwN0tBMkp3VmlncDBXZ1RWVUw2T2JpZG5qZmgyelNIYy1BS3JCc3Utc3BoY3JmUV9hQlpaWEdoRlhwTnA4RXpHNTFGa2JxWGZWbG5QSGs2OVJ3RGtUVTdHNjNENGNOaTdpQ1g1c0dBaE5nMG5uRUl6MjhLOTc0WEd3SQ?oc=5
+- **Source:** Iceland Review
+- **Published:** 2026-10-26T12:00:07+00:00
+
+## News - Sea well drilling completed at major Iceland land farm project - Fish Farmer
+
+- **URL:** https://news.google.com/rss/articles/CBMipAFBVV95cUxQckJXUlhZUmR1SmVUQ2JlNEYyeG1MWEhpdmFGU0E1WTlETV9lTk5pMmVfeVFwMmJQV1E2V195MHp1X3B2Q016NlpuT1Z5MWhCV2twWDB5OXhGU2ZETnQzODZOWnctUTlXbTE3ek5DZzc2cTlLRlhPeWVrbUwyZklwa25weFZqOFdHWUdFYkN6a1RRcFdLYjlfdGVOZjdrU3RjZkllbg?oc=5
+- **Source:** Fish Farmer
+- **Published:** 2026-10-26T12:00:00+00:00
+
+## Large hotel to open next to Forest Lagoon next year - mbl.is
+
+- **URL:** https://news.google.com/rss/articles/CBMimwFBVV95cUxQbXM0OHJZTkhEaG1VQThYZkUya09DaGhzOGFwVWRVWEh6LWtneXVaSl9FckJUY3F4NXVCUXktcVVxNEV6a0JMajZHN1pfaDVaZFU3cTEzNzFTZ3RVVEFPOG5DZU5UTy1PbnVsV0FMVlBmdnJ3cllhWVFtT3VnOHM4eTVfaWVwRTdsdTFJR1U0bUN0V2pmUVN5MDh6SQ?oc=5
+- **Source:** mbl.is
+- **Published:** 2026-10-26T11:54:00+00:00
+
+## Icelandic cod prices hit multiple records despite near-doubling of auction supplies - Undercurrent News
+
+- **URL:** https://news.google.com/rss/articles/CBMixwFBVV95cUxQOENQajg1MTNDc1ktMjktdnFvQ1pLbU0tRFFVVkRJNmkxVXlMaDV6aFgxUDYyb2hrVTEzNDhjb3hUSTdLRER0RHJBODJGUVN0OTFGWXJ3N2ZoOENSa0tnNFF6LVBhMzZ2Nkc5OEZLU093VkNFeFo2czhzWWNjZjM4SFV4ajZUNXRrWE1XWDFmSXhjWHQ1VDlxMkJfMnNxVUljeENJUlV2OVRLLUJ2WDRtMkpSNE9tVGxJY2FzOHg0Y2o3eWZWYngw?oc=5
+- **Source:** Undercurrent News
+- **Published:** 2026-10-26T11:53:00+00:00
+
+## Mums are going wild for £30 Christmas dinner in a box - it serves four people and involves absolutely no chopping - The Sun
+
+- **URL:** https://news.google.com/rss/articles/CBMijwFBVV95cUxQYU1rRDRMWVBHSFV1ODdlQjA1VE04UVJvaVpSZU5QQU1ENVJwXzA1Y1pDakZ3dUNQSVZfWmdOVkE3QkpBRzZXVzhYd2c4YW1NNnREb1ZHOFpteGRhMjRwT3hpN215Vy1xdDlBSGlya3ZLa2lRWkp1LXJMeHI0ZnNMajViV2x5WUhLWGx3aUswcw?oc=5
+- **Source:** The Sun
+- **Published:** 2026-10-26T11:04:00+00:00
+
+## Skagafjörður Seeks Mileage-Charge Exemption for Fire Engines - Iceland Review
+
+- **URL:** https://news.google.com/rss/articles/CBMilgFBVV95cUxQc2gzdGJxYlM3NU5INmpXMkNHTVBsWFdneG9HUVBPRFZ1TUVLZjZSLXlNMlVNVkJ0cXZGZ2hNVnFvb3Ztb2d4aTdKeDZkQXhScXFoa1RhZ1ZOM25XeUk3VHAxd08wSHpJYzdYRnk2N1FEQUdoR1NVMGstUDU4U0FjYkNUOHNWaXZCd0RuQVFVYWpyTExlQ0E?oc=5
+- **Source:** Iceland Review
+- **Published:** 2026-10-26T11:00:50+00:00
+
+## Air China Adds First Beijing–Iceland Flight Connection - Rus Tourism News
+
+- **URL:** https://news.google.com/rss/articles/CBMingFBVV95cUxPSmI5Rl95cTRiclFTNzJ6X19nUVhocTlqMTVNbjFLV0F0MmJtN3hHdnc1ajB2ejk2QkZ6REhkMUZ3d3p5Mm95bWNuSEpjR1h4djdrTEZhVmR1Vi15RFRaZzZCQXFTVUtBOXlOdTNWRzhqS2xFS1Jlc0dCMjdfVEVrY0NtNG1VUlZzdUltZWZ4VHNtMU9YUzBFX1N3Sy1JQQ?oc=5
+- **Source:** Rus Tourism News
+- **Published:** 2026-10-26T10:53:27+00:00
+
+## Foreign Ministry Spokesperson Guo Jiakun’s Regular Press Conference on October 26, 2026 - 中华人民共和国外交部
+
+- **URL:** https://news.google.com/rss/articles/CBMifEFVX3lxTFBhdUxJakNLOUwyNnFlMU9nWk5XenQzVTk3dVhpbk1VdGpXUUJuSTl0MWFtZTRKTnZyMkcxbTg2MU5QelpiNXcxS2pld3U2UTdmazZ4aWRKS05SdEZJRUNza0ZjYTB3STNVMG5lSWJDcDFkZGFtcXVTSjJWbVg?oc=5
+- **Source:** 中华人民共和国外交部
+- **Published:** 2026-10-26T10:51:00+00:00
+
+## Suðurlandsvegur Near Rauðavatn Closes Tonight - Iceland Review
+
+- **URL:** https://news.google.com/rss/articles/CBMilAFBVV95cUxNbllaUVItUTdsOVY3eXFBLXgzZmNpZk5xUVN3R0dxLUlmUkZwRU01RER6anYxVTE0MTR3SnQtb3FweENfNkRWNzJNUnlmYVFjcmt4anlHbVBpTG1XeVdTM2VfYml2aXZvb0FDaFU0U1pwcktwNnlXcVRiWGF6UkxnQmZrNFF4SE5nTF9abnNIeW5iZUw0?oc=5
+- **Source:** Iceland Review
+- **Published:** 2026-10-26T10:00:36+00:00
+
+## Gljúfrabúi coraz popularniejszy wśród turystów - RÚV.is
+
+- **URL:** https://news.google.com/rss/articles/CBMilgFBVV95cUxPZURLR0ZUSUZHWHZHQk1lUmJFczlTNWZLZkY4Mmh5NmczVXE0ZzVMbDQtNnZjeDFLaFF2Vm5TN1JaRkV1bVpFdENDVXZCaVprRWZIMXpwbTZRV2c5X3hrNl9LenZwVHZVcVdLOVB2bDJMTGljbjdvMzRHamthOU1DaWVodklBdGNaa0h1OC1TMEk4RlZKWGc?oc=5
+- **Source:** RÚV.is
+- **Published:** 2026-10-26T09:51:00+00:00
 
 ## Heimar hf.: Regular Notification of Share Buybacks in Accordance with the Buyback Program - TradingView
 
@@ -189,117 +303,3 @@ _Last updated: 2026-10-26T09:49:13.312311+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMihwFBVV95cUxNS0piSnlmYnhtVExud0hyRUpkcGh1SzB6aEtfdmJadXJWcGRVOENyRmVNU0Z1eFZkQlVCX1YtRkJBMHNER2dLNGlSV0txWENVSGVWRW5xNS14R3A3d0ZNS3FtYmZqTVlVeGlpLXZ3blJxSnI5NUxBNVplSU9pOWY1alByQXF0NFU?oc=5
 - **Source:** Simulation Daily
 - **Published:** 2026-10-25T16:01:43+00:00
-
-## IN BRIEF Pride flag demonstrators, Jason Lee removed, blood donation in Iceland, Iris Prize, Them's Person of the Year, Colman Domingo, Bette Midler - Windy City Times
-
-- **URL:** https://news.google.com/rss/articles/CBMijAJBVV95cUxOXzdsSUJhSy1hWHdwV1JISldiNTVtZU12bHQzX1czcHpiMlNoVlloaVlqckdWMG1IOFFlWll6S1pDbkFNeUxmQW95U1JJbUI1dk1sNW9Qd2tlNHM3Z1RFcFJTOEFOb1IzeHNUQUhSSzB6Y1pGaVZDUmhDZ2VNdGlGWWlNTjJwTWdLdjFfcXR4RjZwdWtTak1IczVFeFF6cEFKMWpjeXl4WWR1ai1WZG5DNVhnMHRhdmp0U19XMW5PWUZLZm1iYXVEVllhMEU5dXo2NlpscjhlYzNVSkhmcWI4M3M2eE9yQ1Q4TDlVRERnd0VFUl9fZUd3RksyeUlJdWVRVGFoMTQ2aEtjQUUy?oc=5
-- **Source:** Windy City Times
-- **Published:** 2026-10-25T15:23:13+00:00
-
-## ⚠️[~!ＤｉｒｅｃＴＶ)!]⚠️!+【【VER】】 Real Betis v. RC Celta de Vigo Ao Vivo Online ver y Em Directo| 26 de Octubre 2026 - FC東京オフィシャルホームページ
-
-- **URL:** https://news.google.com/rss/articles/CBMi4AJBVV95cUxOSVVRODRsX3ZGakZZZ19BMGdNMFdFbGJwYlQwMTRWcUtHbzNhZjREVGw4RWNFbDM0SEQyS2EyeHNNSEV0V3NlZUo0TlVjMEc0a0lnU0JIRUhBZl93Y1dmTFdhOGc5LUxzOF9vMzFhQ01qdk4tOXZRbzlMMW94WnV5TFVEZWp6ejlWZllPOGwtT0hjQTZDVU5ieUplaXdvcnFweDQ3UFVQZGx0aVlBNFMzY2NSSkFaZjhuVHRCci05ZzV6b3Brb0NSMkgtZWlBZHl5TEhuYnlLM0w1VGh3S2U3OW5OZ1hGdXZ2dlMtVncwQncxQUdrY0JuUGRYSEF6a3JuRHNjM3pYQ2lhS2JrOW9mMTVnSWpsY0FGaVRlZGlvbWRMUHpMZVVEZ2dBRGMxUV9zWGtmak9pdm1MUlJjLXU4ZmdxeWx4dE9kcXRubGtvZTBzVkl1akxyUkdhbVdFSEdm?oc=5
-- **Source:** FC東京オフィシャルホームページ
-- **Published:** 2026-10-25T15:15:45+00:00
-
-## [VER ONLINE] Celta - Betis EN Vivo 25 de Octubre 2026 - FC東京オフィシャルホームページ
-
-- **URL:** https://news.google.com/rss/articles/CBMiywJBVV95cUxOakFpWXpGVkQ5YUsyai0yZXBKYXEtSnVSLUxWRE9hcmltVDRpVkN4RlJVaG01djlwS0ZWbTNBN2xBQ0hLLVRWVkFOWlEzczM5VEM5Yk4yR2tDTUdDeWZ3VFFEM2ppWFBDS2w4LW83WW0wSkwyZkFRWXRXMW0zODExV09pbGVqZDMxaHZ0TURDVUZRcUhNa2tacmcxY2pBdk5zUGVTLWVULXlYNUtBRUdEbTN1MDdmZTZnVlIyT2tFM3FGQWpDSjQ1cVMwcEJ5WFN3VmgwRkppX2FfQzFvSGJ2UlZ1bjczZVNMMWtURUFKNXIyWmY1YzJhWjdCdWdveVpUNURzOEpJM3lpSWhoMXI1WUJseXVjclVjWTBBNUY4dzc1U19ua0dEVWZGR0d1OUVFWS1yeXU2VHF4Y2JCTkxLdmRCVWIxdnU5c1Qw?oc=5
-- **Source:** FC東京オフィシャルホームページ
-- **Published:** 2026-10-25T15:15:45+00:00
-
-## [TRANSMISIÓN¡] Celta de Vigo v. Real Betis Ao Vivo Online ver y Em Directo| 26 de Octubre 2026 - FC東京オフィシャルホームページ
-
-- **URL:** https://news.google.com/rss/articles/CBMinwNBVV95cUxOd083R190eWQ1czgzZURxSVZGelRkTjRvZ2tCZ1BCRmZjbk1DV05zcmd6aHVfNldDalFMYko0V2hpNWR2VkpoRzQ1NlF6VVBLLS1BcWNaZ1dTdG8yUm5kVkVzd3Izd2tOMV9IT3lXZ0lFQU80S2tZUDdhQ0hOc0ZuZTZGMjFWc0FRWjI2NU9meXRTWFFvSXdLbGNONmI4Y0VsV1hRSlZDMVZ6RUR6NkptQ2hBbXBRV2QzOTQ2dzdSWGMyZ3JXSll0cU1QRGNfLU9hTlZULXpOUUtzT3oxYURzZEo2VHY1UVNidlJvT0dfX0hJR0hFRElRTUVGVUpTX1JUeFpYQlJOU2VOU2FXc2V5cTV1R2kzSEFlbjR1eXpoZENwTUVzQ2VHNmQ1UVZpcDVyODN6YmtLMlkxbG1QSWNMVUFDMDd6blpkODRrclhfYXVUcU9BSVdLb1hnTENiaDJicHFFTWlZdXpzWUNhX24yZHZzUGdSVy12Z1ZCb2JRR3Z4Tl9CWXhCQmU0UkpWb2xMckJUU19QdFhLWjV3cXpB?oc=5
-- **Source:** FC東京オフィシャルホームページ
-- **Published:** 2026-10-25T15:10:53+00:00
-
-## +⛔❤️(Ａｑｕｉ ｅｓｔａ En Ｄｉｒｅｃｔｏ)@$!)] RC Celta de Vigo - Real Betis Ao Vivo Online ver y Em Directo| 26 de Octubre 2026 - FC東京オフィシャルホームページ
-
-- **URL:** https://news.google.com/rss/articles/CBMi3gJBVV95cUxNeTBEY3JNSkgxaTB1V3phWkUwTUhPQ2pnZnJUWXpaempvN3Y3cUJOOXJsLW83Y3ZVTDNROHUtdFc2dl9lZEk1UTJiTmU1Z0ZGajliZlcwLVhnUXZZbzlWdTVYOFAxQldZWVdQb19rNmRfcjUwUHlDWmtzV3BGZHc2bU5fMEV5M0NxSXdST09ZT3ZRX2lWVXNtdkw0N2ZYVXA1V3JubXV2ZmpaZ0ZmNGpucEhkbW9HZ0tNejBlbEJQUHBmZEMzWTcycDFMUlRVNTZnaExZQ210Y0NwUlVReTlPekNRVmRfNWxnVk00bWdlY3BnZ3I3WHJsMWtJRzVvT0ZUMl9sbWRvTi13dnNMbHpPX3RsdDZhY0trRXhUTnU5dUQtVEZKNHlTajdfN2RUdVBNaUVMMXZIV3drd203M1ZBc3VlQUItVzVKZjBGZ2s3ZzlzMzNwZFRqTThNZ2ZGZw?oc=5
-- **Source:** FC東京オフィシャルホームページ
-- **Published:** 2026-10-25T15:10:42+00:00
-
-## Man Utd vs Bournemouth: Rayan gives Cherries the lead at Old Trafford! - Sky Sports
-
-- **URL:** https://news.google.com/rss/articles/CBMilgFBVV95cUxNVTU1VTJCZnE1SGdmTGpyczE0OE1BNDVTR2dOYzlqUWtYOHpvU1pQWXRLYUZLZW44WC16QVkyRExiNkJINHJpcjBvcV9kWFY2TzBLa1Z0R3pYbWc5WXFMalppeEFMS2o1bkVVYnFfRXRKcFBDQU1BdHpFdmItSktRXzQ3OXM3V1ZCRWtrWnYwcnpaSEVualE?oc=5
-- **Source:** Sky Sports
-- **Published:** 2026-10-25T14:49:40+00:00
-
-## ++[EnVivo]@!~ Real Betis v Celta de Vigo Transmisión en vivo gratis - FC東京オフィシャルホームページ
-
-- **URL:** https://news.google.com/rss/articles/CBMiqgNBVV95cUxQdjQtUjVlRW1OWlk1SWFsR016UVhlQV9NQXUyemdtSWctWlV6RGYzcURZdVlyZXJXQm5oSEU3djkzWXF2ZGZzYWVGbzhTWi1sUTBxNFVQS05KZ3RjMUdxMmhMRENYUkxPb1RablpxRXpQNVhNa2E4UG5hQ1lPazBaNWJwV2dQNVB1djdkQlZfSkcyR1hRQktBY0pGX3l1NVhUOXIwM21ZOC1DZGFnV3o2X1ZVMEhJTG9IRXhfcko0SXlKUlB5R21rNXFTT2RkcnlVVE5tZHNJTlJtdFNtUE9HUDM4WDloOG96UTZqRmNFZ0N3VUp0WWdaNW5FOEJYQ1p2RHVpRm5NMElabVljN3lxbUhoUkpoWFdrU3RRNFlGalpyX041THpQeURfeDZ3bzEwVFk1aUM5QnZmUUlxeF8ydjhoa29lMjJEalBjUDl5WDNsZW1mU2U3M2VJZlI5dDFVZHdrMEctVk9aN25TaFg5Wmt1c1puR056TXlyRlpKMU5jU0poVi00VUx3VnJZNEpJSGVwTzBnNHN4VWY3b2doRGNfa0dram1ZakE?oc=5
-- **Source:** FC東京オフィシャルホームページ
-- **Published:** 2026-10-25T14:28:57+00:00
-
-## Beneficial bacteria cut fertilizer and water use in Konya research - Türkiye Today
-
-- **URL:** https://news.google.com/rss/articles/CBMiswFBVV95cUxQenZ0V2xGRlhFdnlnMDdEVF9sZjlkOVUwWE4ybExBSE5jSnZodWRhTGszMUp0LUxpQmVPN1daY21rd0VxUUpIR2FHNnZSVUoySHVZOVhzcFB3eE1oM0I5SEJZT3B5Y0hpdjh4NmIzbl9tSnBmeWhPUUg4ckcwaTFOaWVhclNzUG5nQlMzNjFpOEVqRncxUk1INVYxZ2s2S0lueXZCMVpTZzd1U1E2LVZPenN1VQ?oc=5
-- **Source:** Türkiye Today
-- **Published:** 2026-10-25T14:28:34+00:00
-
-## ++[EnVivo] Real Betis v Celta Vigo Ao Vivo Online ver y Em Directo| 26 de Octubre 2026 - FC東京オフィシャルホームページ
-
-- **URL:** https://news.google.com/rss/articles/CBMinwNBVV95cUxPZXR1U3JqMzZnNDFpVGh2SjhVUWFHX3ZjMzZIczNDbGdMemQ1U2hYTXZ2dGlSTlZmVnVNd29GV3QyelFSMjJkc0FBbGZNMTJlbDBXMDktVTNtSFZId28wMEhiWk5aUHIwbU5XMjhtRFBSQTliVDBMdWdENVF4RHh5N0J6eEc1UHlNSmlNaXM3VVJ5UFBlSHFGLUJ2bldkLVhlWThCOG5iX01ZNG5zNFZIekZDRlVGNnlxc2tPaVZjaU1IQnNidnZpblhCcm9lVk50MkVTY016MzZXODVqUzRSb3Z5WnFDb0phLXQ0blpBdVNpdTRGckRsa0JScmFUNjl4YnFldDFUTWcxM2gzN1JIdE1oMzEtTXhKUkVicnIxLTVERy1HaU1fZUFrTml0cVpkbC14VlA5NGpvMDBXd0txbFY0VFZtTHAwVWVGZ2Jac3FjRGczTlhERjhyaE05ZWFZbEJnclFmLXR1emUxTXN5d2JfSEo0VEVKWXNzS2V1TFdES0JLWVpJaHNlNGRYdm1nWklnS3RONFN0LUtlMmRr?oc=5
-- **Source:** FC東京オフィシャルホームページ
-- **Published:** 2026-10-25T14:23:35+00:00
-
-## ☀️[EN-DIRECTO] Real Betis vs. Celta de Vigo Ao Vivo Online ver y Em Directo| 26 de Octubre 2026 - FC東京オフィシャルホームページ
-
-- **URL:** https://news.google.com/rss/articles/CBMipANBVV95cUxQZUtVVjlPVWhidkpzVEhkaGZMNEFKdDNuU200R1o4d0RjVXliQ2NyTXQ5aXlqZW94M3I1RHdaY3poM1YzWGZ4X1hXT2hFOW9KdTFHRlNCdmo2UlAzOEYzTVEzYnA3YmVzQ0xBOU1GYnctTmhFY240NWxVbWI0UktRLVIxbC16cHZnTDhzeVlKMDZpLUdSVTRVTkM3LVl3UnNVeGh0UENJYzl0al9fcUZSM0tJcnp5aG1OSmVBN1FDWHdUd2YxTzRGcUtsSmJJUGFsZXUwdTNTdmpRNEdlcnRFNzZEb0FyUWllb09DMEJCdnV5cmZHWDVGa3RoZU1zTF9EdzF0VUtOOGx1cTZpbHF4RUNSX29TS1ZVblV5SzVHUHZxSXJTRHFXaGo0Z1FYR1NCeXdPMTFTNURqY3YxajZZSXllbGJEUzBpQjdXMnRxQS1obGVwc0p1cy1nRFZDa0dsYUgzdElBb0hmUnFEaFlrcTMxMWtCS3ExVnF3TEhDVkVuTW42VzkxVkhybzMxbktHcV9MNlc2YzV0dS1YWWQ0dEpsNlg?oc=5
-- **Source:** FC東京オフィシャルホームページ
-- **Published:** 2026-10-25T14:10:50+00:00
-
-## Sales of Insulin Syringes Rise Amid Concern Over Unregulated Peptides - Iceland Review
-
-- **URL:** https://news.google.com/rss/articles/CBMilgFBVV95cUxOV1I1czZqZWg5TGpsUHBhNU04eXBJV19DS1dnMW8yYkxLUTFoU1NmeG5tWUxYQnBMakNOSE5KUWRLallaUlZRc21YSkhwd0N1M2paWmMtVFpvaGRRSENfXzhRUFc1QnRMQml5NjZWREhBLTdVMTRGTldfaUpjbDBIQjVKcGZOLWpHaGJiM1NPODloTUdWa0E?oc=5
-- **Source:** Iceland Review
-- **Published:** 2026-10-25T13:30:00+00:00
-
-## Anne Carson Wins 2026 Nobel Prize In Literature - LEADERSHIP Newspapers
-
-- **URL:** https://news.google.com/rss/articles/CBMiekFVX3lxTFBLM1JXQW5uTFZtU3VVUk4yaWZxZ2hUX1ZWYmJKN3pzT01aWHpaVWVpQklXNXFWMERvck9MNzRmZU9ZbXJXSllLdTR0aVVBcFM5UGhGWjBGSEthaUpEeWhMbVRRZnhQc3F4S1RSN2UwUklvMlFKLUhVdUJn?oc=5
-- **Source:** LEADERSHIP Newspapers
-- **Published:** 2026-10-25T11:58:15+00:00
-
-## China's international air connectivity to improve in winter-spring season - Global Times
-
-- **URL:** https://news.google.com/rss/articles/CBMiYkFVX3lxTE9Tb0lvaWVXbzBnTXdCaUQwMjV4UnJqVnpmRDI3THFUYVFSeGlhdllPOEFBNG1KeHpNTUpPa1lHbVU2bl80TUVQTFZmRDE0cU1LZGZXano4R2ZmM1hEa0xkVG1n?oc=5
-- **Source:** Global Times
-- **Published:** 2026-10-25T11:44:00+00:00
-
-## Reykjanesbær Warns of 48m ISK Ambulance Funding Gap - Iceland Review
-
-- **URL:** https://news.google.com/rss/articles/CBMijAFBVV95cUxQWnRWX3k5YkQ4VFFFRmV4Si1PaS1tcG9EM3ZtakRZYWRSSjkyTDZWWGpkTGdIaDdGREpIZ3Y0OEpzNHFoazRva1JEbl80eUxjdDB1REJZTF96OVl2NnlSZ1ZSM1lsQm1GYTJyQWtkX2l6clo5YlVNaDZzTC14LUlqdE05dTJUX0VLeTEzMQ?oc=5
-- **Source:** Iceland Review
-- **Published:** 2026-10-25T11:30:00+00:00
-
-## 7 Countries With the Happiest People, and 6 With the Unhappiest - Yahoo
-
-- **URL:** https://news.google.com/rss/articles/CBMijwFBVV95cUxQY2JmdktRd3llMndCTDM4OUtPVlpqMS0tRkRIMVJGRkg5cWVzZlpjQWs4UnlTZ3MzNnNELUVlYU1XSGxRbjZ1d3BCYTh0NTFZQ2d0c196UkpuRHh1cG1iUGdJeTVBTFBaM09PM0EwbERZNVgtaXVFQURCc3JtcGlaUDJTTUdleWUwWFlscGF3MA?oc=5
-- **Source:** Yahoo
-- **Published:** 2026-10-25T11:17:00+00:00
-
-## October 27th’s Complete Sports Schedule: Where, When, and How to Watch Your Favorite Sports Events - EssentiallySports
-
-- **URL:** https://news.google.com/rss/articles/CBMitAJBVV95cUxNbTRSQUZIRy1vY2l5cFpBbFpPcDY5b0Uxb1EtUGwtQUNjMS0xTFVTclBSaUhpdkZiN29TZ3lkTkZrclFYdVk1TW9NQWhHOEFqWTdfY0VaOEttUEtrZldtcURXbl80NXExMDg2dk5GWEwwdlVVSG1qYlA2b1VIVGRkQ3Y1SVJQUEVGMVk1OU42MEdvcy1OWEN6X3VnenRWS2NGYUdyV2Faamo2aE1uRWRuZnQzT1F6a2cyc181MldiV0dicHI5b29FQ29qeE44OVB6amhseUlGQXR0MFpWOERZUmRBcnByZXRUQnc3ZjM3eEptUXlHZHhaa1F6eFVkblgwRWpQQjFyQXRtZTlLaHNvc1FYb3JkX3RLUkRNVVlfUkJuVkdLNndJbl80TkNZYnI3aWhkVw?oc=5
-- **Source:** EssentiallySports
-- **Published:** 2026-10-25T11:00:00+00:00
-
-## Ari Eldjárn takes the stage at Royal Danish Theatre - mbl.is
-
-- **URL:** https://news.google.com/rss/articles/CBMirgFBVV95cUxNVGo0VDlhdnBQZGFQeGlLWTJNblhhZ1NHdHNsdXlvNFdQVWRjbHJlQ2NqRU1TdHZRQ19Vdm9uRDJNZl9xV21jSVlZTUFoTzZWa0QtQjRxQjdFYUpTVGFLOFhxYS0wZ1pmN2xkVmxJYU9wS0Vsa3drSDFDZGhiR3cwekR3QlJwVkw3T0EwRF9mZWlwTEducUVuaVp2UFVMcW9TbzZad3ptTng0eFUzdnc?oc=5
-- **Source:** mbl.is
-- **Published:** 2026-10-25T10:00:00+00:00
-
-## Today in Flight Simulation News – October 24, 2026 - Simulation Daily
-
-- **URL:** https://news.google.com/rss/articles/CBMiggFBVV95cUxPZWFKN3ZmUjA2ck8tZkNhWnYyU2M0cE9UZ1YwOEI2MlBjR2lxdkJJV0wtU1FUdExyMG9oaUhvb0FqcWx4aGplR2did2VpcnZpSjVTbzYxQldMNFctVFoxWnVzZ1pIZ0w5NHZ6bW8xVkVlSF9wY2lBZFhJeERqTW8wZWdB?oc=5
-- **Source:** Simulation Daily
-- **Published:** 2026-10-25T09:46:44+00:00
-
-## Efling to Review Whether Union Should Leave ASÍ - Iceland Review
-
-- **URL:** https://news.google.com/rss/articles/CBMihwFBVV95cUxQSkpBdF90RVlPbURpTUwwN3JOaU9QUXNZbHhtSDREaUNwcFhla0ZDSlRwb1BoWm54d1ZZTHVPRmpFSXBubG1MSVQxamF3ckRrM3hzOElQRU5UZkljd0hrb2RGNEp2Mm9icXV3bVpkQnpMa0lZVnREbWlzZzZFeG9rc3k0bUJ6bnM?oc=5
-- **Source:** Iceland Review
-- **Published:** 2026-10-25T09:30:00+00:00
