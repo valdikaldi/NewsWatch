@@ -1,8 +1,98 @@
 # NewsWatch — Iceland News
 
-_Last updated: 2026-10-25T22:20:40.474749+00:00 · 50 articles_
+_Last updated: 2026-10-26T09:49:13.312311+00:00 · 50 articles_
 
 ---
+
+## Heimar hf.: Regular Notification of Share Buybacks in Accordance with the Buyback Program - TradingView
+
+- **URL:** https://news.google.com/rss/articles/CBMi6AFBVV95cUxQVmtvTTRlZnhVYWllTWhmOWVWWXkzWURzTkFxbTlNRG1PY1ZmczJuV0hmUUFtS3ZWUlhtQXdwckh6Qkc2RGRIYzZSM1JJZ0w2VHRNSmZrMF9IanRjRmpHUjZ1UjFtVDYwVUVHRDF2N3ZTVF9VVHBmaFBuelozUU8xdG9kSlB6aUd1S1NZNlMwX0h0U2pSSGF4RlYyNzlRX1ZJOWtBVTFNSkVPMW1BbWZVV210RkUxM2wxN0taT25raFJIWUlxbElQbEJDT0ROenpzOXJwbG4wX1BfUDc5Ymp4MG1YNzlaMXBj?oc=5
+- **Source:** TradingView
+- **Published:** 2026-10-26T08:38:00+00:00
+
+## Iceland's foreign minister to visit China - CGTN
+
+- **URL:** https://news.google.com/rss/articles/CBMinwFBVV95cUxPNFkwQVc2NkUyOFZqX08yaTFIWFNtQ2lGYnZoblpCQkJ5MElMNHZZdkItX2c0d0lBbEtFaUVNVzNKZXBQOXBnS1VKZHlNU3AxdVJhdURoeWJzTjhqZU5RbmJwOHJRSjlQTEFBcEpIOEM3bnJORTlYQ3pGaUJJTkRpdEpMcW9YcFl5ekswNTVuM3hTOTZpdmk1ZG9WVEtqbEE?oc=5
+- **Source:** CGTN
+- **Published:** 2026-10-26T07:38:26+00:00
+
+## Minister Raises Planned Loftbrú Subsidy to 9,000 ISK - Iceland Review
+
+- **URL:** https://news.google.com/rss/articles/CBMifkFVX3lxTE4tbV9YZFZTTTdvLWR0VDB3OVFUOEhNSWVZSGtKblRVaFNHVW8wdllBanBUQVJDWlMxanNmdVdpLXcxX2NaRHBSZjVTU3dad3A2X25QbGs4bEwwb1BETkFKaHdOUGQzZXZ4bnNLVFJfdDU2bFlqMlJ0Q3gxLW5mZw?oc=5
+- **Source:** Iceland Review
+- **Published:** 2026-10-26T07:00:00+00:00
+
+## Trade Ski Slopes for Geothermal Waters This Winter at Laugarás Lagoon, Iceland - Breaking Travel News
+
+- **URL:** https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQ0pPd2dEdlZOMzFPLUJXbWpKc0d6YW9JWW12WUVxZjdwVlFJNUxJdkktMDY1Y21fa1FITjhJSmwxZUZsanBVMWgxMVNGMlFiZXIxbnNMZ21VR2ZkdHN5bmo5WGtKRmxabnpnZ2F3UHdfSWdZc0s1cHB3aE9uX0FjM2ZtWEc5aTBoSGVmcDlrWEUwVjZ1QW9uMXVQRTlveEp6MzMtdVdfbDRHLXViaGdVeEhvdG82MHRrckRzN2xsa1YtZw?oc=5
+- **Source:** Breaking Travel News
+- **Published:** 2026-10-26T06:05:41+00:00
+
+## Gljúfrabúi gives Seljalandsfoss some competition - RÚV.is
+
+- **URL:** https://news.google.com/rss/articles/CBMimgFBVV95cUxPZFlJT3JLQWFlaC1pdXgtWUg5Z05kdmp1dy03dG02OHY2azlLTUhHUXdxNHFENFFIWHk3SlIxZFNzWm9TYmFZbloxTTBrRzFvVHlCU25hakpJUjJBeXJ2LWQ3b2xnMDd5YzI5ZlZHS2dVME8tdXpNeVVIaVpMS25NeGc2VjJIYk05bEcwZVJWRFdjb2hjMmU1aGNR?oc=5
+- **Source:** RÚV.is
+- **Published:** 2026-10-26T05:48:00+00:00
+
+## CACC Cargolinx handles oversized cargo at Cairo Airport - The STAT Trade Times
+
+- **URL:** https://news.google.com/rss/articles/CBMipgFBVV95cUxPY19rQWhCSFRCYnZaNzN3MERsN2dxaWVocHdPUDgxbTVFUWhyVG9MTmNJb0N0cl9QeGJ5U2ZhengxMWVMbmNSNDNnemJWZk1xbm5OLU5HYVItNUNRYm9ON0VjYTNqc19IYWVIX25jcW5XWWFZWlV3Xy10dng1ZnZVNl9OZ2FVYmpvNE1UanFYQkV2R2RLUnZZUXg5NmE4Wnd1QlR2d1dR0gGmAUFVX3lxTE9jX2tBaEJIVEJidlo3M3cwRGw3Z3FpZWhwd09QODFtNUVRaHJUb0xOY0lvQ3RyX1B4YnlTZmF6eDExZUxuY1I0M2d6YlZmTXFubk4tTkdhUi01Q1Fib043RWNhM2pzX0hhZUhfbmNxbldZYVlaVXdfLXR2eDVmdlU2X05nYVViam80TVRqcVhCRXZHZEtSdllReDk2YThad3VCVHZ3V1E?oc=5
+- **Source:** The STAT Trade Times
+- **Published:** 2026-10-26T05:16:20+00:00
+
+## Two Experiences With C. S. Lewis After His Death? - Patheos
+
+- **URL:** https://news.google.com/rss/articles/CBMiowFBVV95cUxPLVlKZThPTlZIVDc2Uk9RTWNmMF9Qcjl6VUV2bGtqbUp1T3g5akxIWWU0Umt6V2tmMmxvMTdPaS1UcWp6UDJTaWN2bTBqMXJwSVcybmJXVjRoU1JPWHBUZFRDYWV5bFBsYUtNNElWcC11SE1MWXFmYkdKZnpKbmhuNUxzT1h6N2wyQXhydG8tX2ZUdnlGNnVxclp5bTlHakl4WDh3?oc=5
+- **Source:** Patheos
+- **Published:** 2026-10-26T02:50:50+00:00
+
+## New air route to bolster China-Iceland exchanges - China Daily
+
+- **URL:** https://news.google.com/rss/articles/CBMifkFVX3lxTE1iUlVjeVc1bU5reXFsekJITHNpdGY2OGdDZm54bVpVZzBnZHltNHp2d2Q0Y2hfanhhY2ZsTEFfNXJ6eWVfanp6SkQwZ1FHczlOTE5NVXlhYTQxR0tjRVJQLWdSaVNuNFpxNnlnYVNPRFM2dXN4eGQwZkdtQmVHQQ?oc=5
+- **Source:** China Daily
+- **Published:** 2026-10-26T02:21:25+00:00
+
+## VEFTA offers gateway to premium seafood markets for Việt Nam: VASEP - vietnamnews.vn
+
+- **URL:** https://news.google.com/rss/articles/CBMirwFBVV95cUxPMmtUSE9TNmgxY3hSREprVG9WWkRxR3lxdkFKR3plWkR3Sm5acktBckNZS3ZZQ3R0QzVWWGRkS0hrS1lHUW1JWnpBbjVCYU1fTXZvRk9rUFZLcVVaYkw1M0MtWTlTRWZZRWFSM0FYbS1OOG14b2Jjbi1LcXc4S2dqeldlcWpMS3pzSTc4NlpyNmdadjFfNlpCTW9NUWplSmdIV0JsXzRNdHFxZFNVSkEw?oc=5
+- **Source:** vietnamnews.vn
+- **Published:** 2026-10-26T02:21:00+00:00
+
+## Watch Iceland vs Bulgaria - TOD
+
+- **URL:** https://news.google.com/rss/articles/CBMimgFBVV95cUxQVklheDFpU3hYUVVLOWIwSl9waDFRUjNhbmpIVDFpSk00OUx6d1JqT29aSFBma1oyYmRDQUowU1lINS1EeDJoSWJoMHlRN0pnVDh6Q090WW5Uai01Q0s2ekd4SGY3ZjBCbFE4bkd5VGFFbVR4aDJhUWkwY1hSVi11OE9FQkRPZ2ZJdDVGakhXNUVTX3JSUVZqN0FR?oc=5
+- **Source:** TOD
+- **Published:** 2026-10-26T01:58:09+00:00
+
+## Marinó Snaer Birgisson - Transfermarkt
+
+- **URL:** https://news.google.com/rss/articles/CBMirwFBVV95cUxNcGhrYlhqTXV4TXgzSTZOaE1kaWFITnU2Y1N2b3FFSGJpZU1KTGtLa0huUzQzamhGNTY3VHJWT29vZ3p2bjF3MnhWb2l2QXJ3VmFDaXppemtrcFB4Z19VWk51MDdOczJTdEZ2cGgxWmVEZFN5eGZTWHBUSFpBaWswZHJxSzkzNzhDOEpYU2NGUjhHUTZ5bldfaVo1eTB1SXpDWnNzSW5jLVNuSGNVNXBZ?oc=5
+- **Source:** Transfermarkt
+- **Published:** 2026-10-26T01:39:45+00:00
+
+## Canada Considers a Subsea Power Cable to Europe - The Maritime Executive
+
+- **URL:** https://news.google.com/rss/articles/CBMikwFBVV95cUxQSVVrVXpoWEppT0ZERnBMWjY4ZTVibXVLVXQyMFR3VlQwSGJIVFJqZVlOeWR5MzRuU3lJc2pfRmhZMXhOMnJPeFdCeDBqUEFNTXptSmc2a0hGX2Z2bElRaEJyYkc0WV9ITFloZl9sU0xvcHY4blVPYU5kbUFOU3FLdmQtLVNuNDFWemd2anY2djhyWHM?oc=5
+- **Source:** The Maritime Executive
+- **Published:** 2026-10-26T01:36:21+00:00
+
+## Weak mag. 2.2 earthquake - Iceland: 11.6 km NE of Þingvellir on Sunday, Oct 25, 2026, at 09:57 pm (Reykjavik time) - Volcano Discovery
+
+- **URL:** https://news.google.com/rss/articles/CBMivwFBVV95cUxQY2hzVDM0MUJBc0Z1MjhkYjdsUmdiWFdqVVpvQXM4d1d5LWlpOTV5MXhUajJWb1VWZEU4WHk0bHc0cFhEbFlvOHhsQjRUZFo5WEVnbGNWa2o0WGxURDI1XzRBb2kzRm9hVVJRYVdfOUFDcVJidVBQSGlWSmE2cE5jYlExaXV4LUQ4U1lnWWp0RWpNR3E4dWZRbzhCbkwteTdmZWhVQ051bVRFWVhtYWptQmktRFJxWjNBRWJES0w3UQ?oc=5
+- **Source:** Volcano Discovery
+- **Published:** 2026-10-25T23:42:35+00:00
+
+## “The nerdiest thing I've ever done!” - Iceland Monitor
+
+- **URL:** https://news.google.com/rss/articles/CBMinwFBVV95cUxOUDd2WHFzTVVONVpsb3R2MnVOUmtJNTBkTHBhN2JoX2dkTGUzOFFIOVRSQnpJU2phckpWUFNVQ3Y2a0tvVkUwLVpjcVJKR3ZIbWV6TFpJaFk5SVBkVjJKUU9jQ2lYdEtVdU5tQ3hiaDNXYXRJVVE4aEdTalZnZWpubUp0ajROWTlQOVNTdlhGMXVRNXE3cldvYTRRWHgzMnM?oc=5
+- **Source:** Iceland Monitor
+- **Published:** 2026-10-25T22:30:00+00:00
+
+## Iceland Seafood International hf Estimates – OMXICE:ICESEA - TradingView
+
+- **URL:** https://news.google.com/rss/articles/CBMie0FVX3lxTE9OeVF4WUZVZUFGb1h2UjJmU0x3ZlNqWmE2bXZMWV9nMFhPVHNTaEFUcU00OHFXTW1nMzRhRzR6V2VoaEU4Z0FPZzhYaVVpT0M2WlhVQ0Z4OTAxR0NoZkV6NW5VZG44R284bnJMRlNsSUQxdnhHMENBMTlGVQ?oc=5
+- **Source:** TradingView
+- **Published:** 2026-10-25T22:25:36+00:00
 
 ## KALDVÍK AS (KLDVK): Extension of waiver period - StreetInsider
 
@@ -213,93 +303,3 @@ _Last updated: 2026-10-25T22:20:40.474749+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMihwFBVV95cUxQSkpBdF90RVlPbURpTUwwN3JOaU9QUXNZbHhtSDREaUNwcFhla0ZDSlRwb1BoWm54d1ZZTHVPRmpFSXBubG1MSVQxamF3ckRrM3hzOElQRU5UZkljd0hrb2RGNEp2Mm9icXV3bVpkQnpMa0lZVnREbWlzZzZFeG9rc3k0bUJ6bnM?oc=5
 - **Source:** Iceland Review
 - **Published:** 2026-10-25T09:30:00+00:00
-
-## China builds a giant city of ice every winter. Here’s how to see it - IndulgExpress
-
-- **URL:** https://news.google.com/rss/articles/CBMitAFBVV95cUxOT09lN2xUX3d5UXhLUnFfU2xuUmw1YXY1OExVNVM1YVpjb2M4dk5mVkUwaXRHWVc2QnNyV1hLUktJYmdQSkY2ZUFQbFJWbW9PcFUwZzFmbWZkeWhfQlRFdjlsZjlOQW5sdHVXLW5ITUlNcUJRSnFEMkxpUVZHeTVQUDhqeU92WnVaOERPRU9iV0h1WEdoWktaZ3dobFBYWVlYVHJ5YTB0STJCTmZoeW12eExzRWLSAcIBQVVfeXFMTUZtb1QzMWp5T2dUOW9sQm1FTWY1LUYyNXNiYlR2bFc3NXllY3ktTjhzMzlqbzRqaG1sVWxhUTMzRGtBbjVEdy1kTXR0Z2pOZFJCbm16X3ctaUdfblVpY1p3a0JrcXNIb1gyWnkydEpHNkRoZ0FxSnV6X3BmcEg3Q2w1ckVzemNZdnNnYnZ5ZXNtY3A1bFhsSWFQaUdRdnhGalBTTjU2Z1BwMFdrM1JmU0hzaU9TcmI4SFFLTzE2TUw2dEE?oc=5
-- **Source:** IndulgExpress
-- **Published:** 2026-10-25T07:47:08+00:00
-
-## Is EU putting profits over human rights in Vietnam? - Inquirer.net
-
-- **URL:** https://news.google.com/rss/articles/CBMilgFBVV95cUxNUTQxNXN0Sl84RTc2aVF3TDBKaUlmNTQtN3RGeXFDZVR4V19TVHNvZnFFWjdIUHBlSV9xOTlPYWhfTHZDdTQ0N2Vmd25IOHhqSk5mNUlwbTZlc25TZXNpdDQwRHVfbGhSWDdWWFBzQ3VyUXN2NU5CSldnbHJTUWhhdzlfazh6cEdGa3FUWUFKSFhTVGphcXc?oc=5
-- **Source:** Inquirer.net
-- **Published:** 2026-10-25T07:10:00+00:00
-
-## Jetty by Archie2022 - ePHOTOzine
-
-- **URL:** https://news.google.com/rss/articles/CBMiW0FVX3lxTE1vdnl1Qzl5SUhCQ2JCVHA1emRmTGJPbnJjNjFmeXh4Q2toWWdURThYSGNhZWZXRUhXRjBMVWRuQ2cxR3h4WnFTdnJ6SjZ3WkdQTjlzNDh4b0VVTXc?oc=5
-- **Source:** ePHOTOzine
-- **Published:** 2026-10-25T07:07:22+00:00
-
-## East Iceland Municipalities to Challenge New Loftbrú Subsidy - Iceland Review
-
-- **URL:** https://news.google.com/rss/articles/CBMimgFBVV95cUxQYzdUY0VGTHFHalRuQktTV1hXSFpEQVNidHF6WWhwWFlHc0VFcGs5RVpmWDV0Q1M0cnA2Q2gyb2t6eFYyWXY3T20zR2VZUkE0WVRKd3QxSGhNc0ZLY0pucmY0bUJKUG9DLTA4Ym1jTVlBenZXRmpmdW9SemJEODZKVDdqLXRZbDdaTktfV1EwVWRjdHAzYUdTZUZR?oc=5
-- **Source:** Iceland Review
-- **Published:** 2026-10-25T07:00:00+00:00
-
-## ‘Ridiculous’ No 10 better off as a museum, says ex-Starmer aide - AOL.com
-
-- **URL:** https://news.google.com/rss/articles/CBMie0FVX3lxTFBaaW1JNHJWekhaaTlYSGlpaGVnWGhjLTgxSWxCM1F2ZEk1ZDBWMjZXeE12Q0xpcVFpcFFFSl9ZTmFjT1Z2SW05VHZ4Z01YQUJoc1lCeDdUV2ZjalFPQzRDNVBBNlZQQmZXZFdIR3ZMQ0w1QV95Mk9henFYWQ?oc=5
-- **Source:** AOL.com
-- **Published:** 2026-10-25T06:30:00+00:00
-
-## Discover the film locations for Project Hail Mary (2026), in Cambridgeshire, Dorset, Hertfordshire and Hampshire. - The Worldwide Guide To Movie Locations
-
-- **URL:** https://news.google.com/rss/articles/CBMiakFVX3lxTE4xaGRoVFFPRVJvN3BvTzhlU3YtZDNnbVBPdzJFRjJKWi1hTjRqSXRhS2p6dmJYZmJTemRTRTNHMWo1WnJZWEhXdWlIRkFaaU5aREg2TUlNWHFIbkwtY0xSUDVhSDVoTWlNY3c?oc=5
-- **Source:** The Worldwide Guide To Movie Locations
-- **Published:** 2026-10-25T05:57:33+00:00
-
-## From Iceland to Ocho Rios - Jamaica Gleaner
-
-- **URL:** https://news.google.com/rss/articles/CBMie0FVX3lxTE1qd0xkQ1hQb3FYVWJZYzZ5NER2UFZwLUJDTV92cVZwcmp1OFJqcmt1U3kwQWx4Q3B4Q0RBVXR3YXVVVEF5cW9ER21hc1ZZSFZoR3FkZW1KUl8xeHhlenJLUEFyZFR0NFc1Q1M0MWt1c0xyWjROeDVadGxWOA?oc=5
-- **Source:** Jamaica Gleaner
-- **Published:** 2026-10-25T05:10:39+00:00
-
-## Discover the film locations for Supergirl (2026), around the Cairngorms in the Scottish Highlands and in Iceland. - The Worldwide Guide To Movie Locations
-
-- **URL:** https://news.google.com/rss/articles/CBMiZkFVX3lxTE1USUEwakZRMEFZQ09IMEw1eFVfdVBtRUhDZ3dJaWhlNlUtelFfQ1B4OXN2UVhTY0V5SzJpSmNJNXB3UFVlZE1UZ3hwVmJ5ZVk3bzRkVXE3aWxkREhEQVpHWVdvMFV0Zw?oc=5
-- **Source:** The Worldwide Guide To Movie Locations
-- **Published:** 2026-10-25T03:50:55+00:00
-
-## These 11 Extreme All Terrain Vehicles Can Go Just About Anywhere - SlashGear
-
-- **URL:** https://news.google.com/rss/articles/CBMiggFBVV95cUxOMUJSRlhTVUswLU9La0Vqc0FzYXJ0MmVkNnllb3NMXy1kSm54LWZ4WlZjMGFnaVZRODVGcUd3T1h3cHJfMW5xaUQ0bXhGSGlBZTVUcm1WLTNVcjJRaFFDbHBUYWdtd2JhV0xJOXpLSDFHS1ZjNHlMYkZYNzYzdE5FUXBn?oc=5
-- **Source:** SlashGear
-- **Published:** 2026-10-25T02:30:00+00:00
-
-## KJALLARINN: PHASE 2 - The Reykjavík Grapevine
-
-- **URL:** https://news.google.com/rss/articles/CBMiWkFVX3lxTE5mdWdEVjBMN082M0dzOFNhbnJyMm1mVlZmN2MwUWs4Y1VNZG1mTDlmdU9VNExMQmlDVG4xWkJxV3l1MWFvbEk5bVJIVlBqVjl5WWFSTy04ekZkQQ?oc=5
-- **Source:** The Reykjavík Grapevine
-- **Published:** 2026-10-25T00:24:39+00:00
-
-## Super Lig News: Samsunspor vs Amed SK Confirmed Line-ups - FootballPredictions.NET
-
-- **URL:** https://news.google.com/rss/articles/CBMihwFBVV95cUxNdUtCUWxJNjBMLTdMc0Q1cWZGSkkxelFkUFFwT0stTjh1M0x1c1Q5MS01djFOeEZlbmJOeUI5WVpZc3YtSW50NzdDeGZxTDVWandUMk02T1BYOFJfekVxa0IzRTVpcTMxU1o1RjdzY0E5dnlLck1UMXZzdDhTNVFOOXFBMC0zZXM?oc=5
-- **Source:** FootballPredictions.NET
-- **Published:** 2026-10-24T22:07:54+00:00
-
-## Iceland boss fires warning at Chancellor over business taxes & benefits bill - The Sun
-
-- **URL:** https://news.google.com/rss/articles/CBMijgFBVV95cUxPVUpvcWdyM1NsaVRvMVNtOWtEQ2VKMGR4MzB6emYtdzk0bkt1cEszVjc5ZGRGY1U3aUcza0tjdE91NFZlcWY0dWc5a2RoTm9nZXZCODM3Uk9GVUpCeGcxU1BtRWhPY2tOR2xLRUFTSHZoYlkycVF6RFJuTFc4Z3dHQkdjQkJjQlVqUFpJRndB?oc=5
-- **Source:** The Sun
-- **Published:** 2026-10-24T20:37:00+00:00
-
-## Poland beat Iceland 35:34 in final friendly before Euro — Interia Sport - UA.NEWS
-
-- **URL:** https://news.google.com/rss/articles/CBMipwFBVV95cUxQTHZwaEhxbnJQeTI0N2pSQ01FZ0VFWk1vcHJoOG1vUHQ1VldGVHM0QWM3S2FZZUFHeDM3bV9faUloZEhBTExqN2hnWk9UOW1uS3RuWU82ZkpCcGhVOUY5enFBZTdYLWxPMkY4cHcxanVkaFQ3TmJkSi1hcUlqMTJrU3lHeFYtSHhOX2Fvc1RrU2JZV2pqNFRHQW56VFNKcF9mcFVvTFN6QQ?oc=5
-- **Source:** UA.NEWS
-- **Published:** 2026-10-24T18:29:35+00:00
-
-## Emergency landing on highway caused by engine failure - Iceland Monitor
-
-- **URL:** https://news.google.com/rss/articles/CBMipgFBVV95cUxPU1FvblEzbnNXYU1WOGc3T29iUkRuRTlNS2o2UlJmNzhRRlRaeUQ5UWFHbUVFQy1BQzVmTUJLcEhRU3BFS1VfRGZaNnFxank5QkpFQjRsa0I4QTN4eEhvYlBOd0M0VUVMNEF1cGxSU3BBLWs1Z0RpMjNyUTFULTdOY2xmcURiaGRId0c2SktqRWFvamFMelJpaVVkVDJfdExsblBLb0lR?oc=5
-- **Source:** Iceland Monitor
-- **Published:** 2026-10-24T17:31:00+00:00
-
-## Dramatic Black-and-White Captures Showcase Iceland’s Perilous Reynisfjara Beach - freeyork
-
-- **URL:** https://news.google.com/rss/articles/CBMiiwFBVV95cUxPckhuWEYzbVRwTXNrT2VBUWFhRVVUOVI1bjFfZkhpaWt4V0s4SW5MS2F6SHl2MjNCOUNIMjdWVmIyT2lUVjZsbGhhSUhIQkVuY2V2TDhpQTFOOVRuaTZ2V28xZ3IzNlJUcV9oVTVzSTVPV25CZkhZWU82cFBlVFpvNERvdlhoUUV4NHRR?oc=5
-- **Source:** freeyork
-- **Published:** 2026-10-24T16:21:34+00:00

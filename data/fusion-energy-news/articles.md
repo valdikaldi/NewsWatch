@@ -1,8 +1,80 @@
 # NewsWatch — fusion energy News
 
-_Last updated: 2026-10-25T22:20:42.355497+00:00 · 50 articles_
+_Last updated: 2026-10-26T09:49:13.679647+00:00 · 50 articles_
 
 ---
+
+## Fusion Reactor Market Accelerates With Private Capital Inflows and Utility Power Purchase Agreements | SNS Insider - openPR.com
+
+- **URL:** https://news.google.com/rss/articles/CBMinwFBVV95cUxOaEhpWEs1aDFoaHMwemNzcGN0bUtfY2ZLejdVNXpTV1BTeFZkTHAyM0FYdzA3T29sQVpkUy1mOTRjM1dBRUdONjJxTjlwTDkzclpUYlE1WWg1OHJLNmxvUWwtbEJXbHlxUGlWRDV0VGRuVzBleHd5aG8ydG83dWpLSjE3Sk1aSWhjTUZJRjFtSXlQamR1RjZ1dEkwZmRsUG8?oc=5
+- **Source:** openPR.com
+- **Published:** 2026-10-26T08:55:01+00:00
+
+## Power System State Estimator Market Set to Reach USD 2.97 Billion - openPR.com
+
+- **URL:** https://news.google.com/rss/articles/CBMiowFBVV95cUxNODEtcEtWYlFRcWpTUVdJa3EyX0xVQlhpeEhNc3NjSWJ5WDBnQ3VrTnZhTUIyOFcxZEh2a044dG1GTGN6dlpxRkNRcHlSbnMxNjVyaXVnQXlORkdlaWhUVGNrekFubTF0Z0M2bldIQXNsdXh1d1pJQk8tWG1uUHJBWDRHMFJZMndhdG1IVElIaU9xTkVUUXNmeXFBX1BtQWpWYkNV?oc=5
+- **Source:** openPR.com
+- **Published:** 2026-10-26T08:52:17+00:00
+
+## Nuclear Fuels Market to Be Led by Cameco, Kazatomprom, Orano, Rosatom | SNS Insider - openPR.com
+
+- **URL:** https://news.google.com/rss/articles/CBMimgFBVV95cUxNaFZGOXVXZXFCWWhhUDFSMFhsYThESTROTTVoX1hPYmFFMHk1akNTMWQzY0d3M1d5X1VvOWV4MHFkbnRHLWRvbnN5N2dqSzlfd2NVVTFYdldVUWFCTlp4cFdtLWE1TW5vSU9NaFdRTGZNaE1IaXZ5YWNVOU5ZWFpoWXItN09oMXEyNnA1UnhNRGk5cU9JaTRjQXhB?oc=5
+- **Source:** openPR.com
+- **Published:** 2026-10-26T08:49:37+00:00
+
+## Electric vehicle tax credits losing their luster for Democrats - Politico
+
+- **URL:** https://news.google.com/rss/articles/CBMisgFBVV95cUxPcm9wSXNJSlJCc0loMFptMWszZm52Nk56N0Y3Z2RqVHE4azN3NDR0ZVVKV0lfX3pRU3V0S1I1bWpnYVlUYjJKWmhxUHA5RHFnYUJCRFdNT2tjVlVMcUtnUWdOQVJ0T284WHhjOGlCRzFCQkZTT2k3dkkzLVpieVZnWlJ0LVhleG01RjYybnJjb2kwNFBtOU5ZR0ZoeVNlTVZRWXJYQzcxeXJQLUpGc0dScDNB?oc=5
+- **Source:** Politico
+- **Published:** 2026-10-26T08:45:00+00:00
+
+## Fujikura invested in fusion venture: 13 analysts cover Fujikura stock - ad-hoc-news.de
+
+- **URL:** https://news.google.com/rss/articles/CBMiywFBVV95cUxONUdRRGFoRDBiRjNraG1xaW9oVnUyMERFdXRHaW9EQmhaYnhPUG9ja2xuZzFoMXlyX29DeEtmajVkTXRYNzFiRGF2ckxRUHhlcXJQZHNnYzVWZDhSQjhKRHpOUUhER19rcjdXZzd6cGJxSW0wZW0wYnBZUVNXU01tdDVJbEluYjB4MGVpYjFKT1kyVXBkdnJmWlp6MlVoVjVxcmItUl9OUTZxcDQ4MHB6dVV3Y3NkRWoyYjhPcXRUVkNYSll2T2UzTVhRaw?oc=5
+- **Source:** ad-hoc-news.de
+- **Published:** 2026-10-26T08:31:39+00:00
+
+## Seven caveats in the claim about turning mercury into gold with nuclear fusion - The Hindu
+
+- **URL:** https://news.google.com/rss/articles/CBMi1wFBVV95cUxQdkZaM3ZiR09uT1V4RnhSM0g3U3RqVTZicHRKenB3bE94bGpqYmZLclN5bTYzalNvNWxrRkNUY3hkb3h5Uk1rcTlxcmFhNEFYdVI4OGloTmpFUDRqTlFWNFp4YnNXQkNkcW0ydTVySEJINUxXby1sNXEwTFhXZ2t2QTlHNGdsYkk1cXVNRXZ1NFM1NlJhNW9DZElkX0lqdS00dkVGNWdqRThpekF3bDlxTmwxU3UxenRndk00MzFuZFpfWjdRdEdzQ3dJM1FiZl96V0IxVXhtTdIB3gFBVV95cUxNUWhQeHI4SGlQeDJ6MU1SLU5vOGNKNWZRTTgyQzE0MUR1c0xZY3llcHZUOGNfeXBRbS1QLTNBMVduSTlrSU1YZUVVZ0xibGdkQUxQdndoQVpFRnJQX2VlbXA1Q3RNSGY4ZVFzRnpaNVRtZ1pnbEFMWU5HeUxQSHF2MFJFemc2a2F0UUdzenFwTXhxanVhRnVKWmhDTHdIbElNWThZWV9Mb09DbW9MRm1XaGFNd1N6a2hQanNyZE83YkUyN2hUQkd4bGpSVGJlMEpLS3FGMFdZbzFHRU80Rmc?oc=5
+- **Source:** The Hindu
+- **Published:** 2026-10-26T08:15:30+00:00
+
+## Well, What Do You Know, There Is Hope for Humanity After All - Gatestone Institute
+
+- **URL:** https://news.google.com/rss/articles/CBMiakFVX3lxTE9XRnpaWVBTQ2d2eWVzYUVqbmROOVdsb3NzdVgtUU1HQ001Z1dzWjc5NGVaTnc3eVdaTkdlVzd1cEpHbVI5SWJONnVnM2dUWFJEQ3QwWkpUNHhCUU5Lb0JPRDdQa3I5MUE5X1E?oc=5
+- **Source:** Gatestone Institute
+- **Published:** 2026-10-26T08:00:00+00:00
+
+## Marathon Fusion on turning mercury into gold and scaling medical isotopes - Dealroom
+
+- **URL:** https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQzU5UHFRRmVSX29IZXZVdXBYMDBHTll1dng0ZHNuVTJUUkZ0cm03RnRocC1Nd0NqRF9kbl9xV19KaW00ci1zYjYwaGpOWXZ1bDZiR1R3UDZ2TlBvamQ1OGJBd3UyS2NDc1hjWXJGYmlkNHNmQkYtc1hMOUZkaE9pTXZSeUpOeU9yVG5teFJ0SFFIUWJWN3dqSGxseFdkYUllUjYxaDBOZmE2Qlk?oc=5
+- **Source:** Dealroom
+- **Published:** 2026-10-26T07:29:31+00:00
+
+## Startup Claims It Turned Mercury Into Gold - instoremag.com
+
+- **URL:** https://news.google.com/rss/articles/CBMidEFVX3lxTE9DZWtyQkZ2dnBjbnlqWnJDOHlibF9JaWR3YllXS1NlVWctZG9vVllHc2M3eGt2enloZUFKTHREM2xYdEJDVTdiTndjZ2pCUzdyX2xXNUd2ZGxYT3ZBR2g0bnVvcUlTTXlCX29sM2MwelJCaHFj?oc=5
+- **Source:** instoremag.com
+- **Published:** 2026-10-26T05:48:45+00:00
+
+## The United States adds helium to its list of critical materials for energy - energynews.pro
+
+- **URL:** https://news.google.com/rss/articles/CBMiogFBVV95cUxQZ2JnbzlDTGhnLTlJTEJUWnVjUHN4cTBpSTM5WHJkd2V6Sktqa3NsRkhsRDdEMXdtSE9UR2g1M0pWaTdsRk01bjBEa05MdkQ1alNWWms5dk5jY3FhSFZtMVliMjU3S2lQTThacTdHRC0tQ2RyQ3NKel9mOXdCQWZqM2d4cnQ1RFlCQnU4Mno3dVptNWtKb1pOSkE3MlpZQzlOZFE?oc=5
+- **Source:** energynews.pro
+- **Published:** 2026-10-26T05:32:58+00:00
+
+## Founders who chose the ‘nuclear option’ - TradingView
+
+- **URL:** https://news.google.com/rss/articles/CBMimgFBVV95cUxOUVozMzVBSHpkRzM1UVlBZ1ZIZnVvQWpQN1NXR19SUzhJN3dJVjR6aHZtZHQyR2xhcjV1ZDlZay1YVThzVzlzTlRtdHl3UDBYcUZkWFFGbDRpRmVJdzM4TEltTUcwak9QR2hNc3JuQWJVeWJoRm10Z3I3NXZDSjhZMTZvR0FYa1VqRmFkTnNwVmdVQVRwSzd3QzhR?oc=5
+- **Source:** TradingView
+- **Published:** 2026-10-26T04:14:00+00:00
+
+## IPP, Columbia University establish international fusion research center - American Nuclear Society
+
+- **URL:** https://news.google.com/rss/articles/CBMirgFBVV95cUxQblhLdW05cHVHWjIwWTRUYTNyZnpIWHdIUTdWMkxwaGxlNkxSdlhwYXVndDBjNzZXSGRzbnN3UHJ1aGJxMkxBd19OdHJBb1dMMkNlMUJoTlZJclFOckh6V0ZybXdRenJwdmVkNmszTF9rcjFFZ3diaVdkQk45VW5LbGc5QmxzYnZQZzRDZV9yNU9pMTRaeDF3T0JrVUxKNVRDdUFwSGdINmw0MDJPM2c?oc=5
+- **Source:** American Nuclear Society
+- **Published:** 2026-10-26T01:39:55+00:00
 
 ## PPPL's Tungsten Warning Matters Most for ITER and Other Fusion Machines Already Committed to Tungsten Walls - Nature World News
 
@@ -231,75 +303,3 @@ _Last updated: 2026-10-25T22:20:42.355497+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMimwFBVV95cUxNUDgxT2s0MjIxUkVvSkx3VElkdkZqOFVCeHVFQXZNSVlSbW1wbmFPaG9Bc1k0YV96cFBNOWg5R2MzTFdSSmxPemRubVczRnJHLW9KdTZjQ1JIVjRDQ0xBOVE1dlJTWU9YLVdRcmc4d1Z4NkU4TzlHSDlUTDc0WEx1X3E3WkFudXFUUWpvZ1JwcExCc0xST09KSE0yRQ?oc=5
 - **Source:** ExecutiveGov
 - **Published:** 2026-10-23T21:25:23+00:00
-
-## How to Secure Community Buy-In for Renewable Energy Projects - StreetInsider
-
-- **URL:** https://news.google.com/rss/articles/CBMixgFBVV95cUxORUJld1dMdHpzMlg2c3c4d242NElLVk9ZVkVwMzNxeU5Gc1ptT2M3bFFVMzRlQUVhc25qMHRuNnNqVXdWMzlzeE40Um1KRUlnWThSS0RUbk1ZZm93Q1czOURRVWdPaW8xcHo2WG5XVXRsM3JwWHRFczEydmVDZHhKLXNCX0JOdkJMdm9NZllOZmE2dENGdVRSeG1ldFlUNHVPZXpIdUZQdnVmc1llZDVyTmV4cFlqVEpSNER3NG9pWVhCVzVONFE?oc=5
-- **Source:** StreetInsider
-- **Published:** 2026-10-23T20:26:00+00:00
-
-## US plans $389M for fusion and AI chip R&D - Metal Tech News
-
-- **URL:** https://news.google.com/rss/articles/CBMirwFBVV95cUxPZDctR2NWQUFtWE1VRW1RUVVIOWhSbVVIakdjOHJkR19uTlZCN2dNQUZXOWlGX19PTmhWLTRLTmU1Mk5XREpMcDVIYUdlN0RyOGRJUHhSU2dhUDlUZHktWnA1TkNnV1NLYUFwNi1tNnVLenV4WC1Ud2hfWUFORUhFUEpWdjRmS05nME4tU1Fja0ZOQkpCaTZrMlhEUFo2RGVqek84eXRpcDdySkVTOXdF?oc=5
-- **Source:** Metal Tech News
-- **Published:** 2026-10-23T19:31:52+00:00
-
-## Commerce Dept. Plans Equity Stakes in 4 Companies Under $389M CHIPS R&D Proposal - HPCwire
-
-- **URL:** https://news.google.com/rss/articles/CBMitgFBVV95cUxQZ1lOTG9hZmxXY0JDU3VfaXNUVW9CN0dUbEtrTWdoNkZRSm1IQmgwSVBpUWVveTZrTkZUUEV2ZEloRzBfTG44MEdsakd5b1NXeDZObWdIMDg2aFFSeTZ1WkdNTUdfdUhjcnNNNkczVExpYmRxYUtkNVlMRHNjUElqVmRnQnVCRWNSZ0M3TDg3X2ZLOUpaMTFxbFlFSWk4Nm5TRUtfOWZYTVVWdTVTYlBqVjV3UnBGQQ?oc=5
-- **Source:** HPCwire
-- **Published:** 2026-10-23T19:25:24+00:00
-
-## From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026 - TechCrunch
-
-- **URL:** https://news.google.com/rss/articles/CBMiuwFBVV95cUxQazJhdGYySTlvLXFaMk8yemVBYjBLUXlwdWpIM1hrUWpVbi1KNmRsVXZjMzVYX3p6YmhhQXBJdFVLNmNILU5wZkcwNFZUVmdWdFVyYXlwd0RKSmlSOGV4dHdsVDkxWndNanRDanR1Mkg0TG1qcXVBX09IakJJeXVLbUFRalNfa19sQmZDREZYcEswRm80VmZnUDhDc0VlYzF6YmJndVV0OHV4dERqbGozWHZJMjBUNFpiVnBj?oc=5
-- **Source:** TechCrunch
-- **Published:** 2026-10-23T19:06:23+00:00
-
-## Helion signs Letter of Intent for $175 million CHIPS award to support fusion energy - Vermont Business Magazine
-
-- **URL:** https://news.google.com/rss/articles/CBMitwFBVV95cUxPamFlc2p1YjRfZ3NPdVIwOWhEZk81R1dvLVl5Y1o2RThNcU9saU1aUVVreFB2NGxjbW9hOXc1X1JFRzhvcGR0SFlxUzRzYV9aWURRM2ZReUZqMEhJQ3RhWkxzYmROZGQwLVNwbURkM0JQUGw2YjVPVHJSeG1oMUd1N0E5RGpLdG9PaFB2WVJ2a3JnSFdSc0ZZM2hzQzA0T01GREQzOGd0Z1BiUHhSQjRnd1BtMTR6MG8?oc=5
-- **Source:** Vermont Business Magazine
-- **Published:** 2026-10-23T17:38:39+00:00
-
-## Commonwealth Fusion Systems to receive $85M for fusion-ready chips - Mezha.net
-
-- **URL:** https://news.google.com/rss/articles/CBMijwFBVV95cUxPVm8tR2M1dGJxaHBkdW5feVU2Q3JYcGtMakI3TW5WNEdVaW9SQklib3lPX0FNVGlJMmFweGlUSzhla1FSdlBUd2ZtYlBBZVRES0k4R0Z0ZFROdnl3Y2xwMVBXeEZNMWN4VTlXdFFmT3dMMlNmd2NMblBaUnB0RURBVXgzUlo0d0NscFBQaDg0bw?oc=5
-- **Source:** Mezha.net
-- **Published:** 2026-10-23T17:05:17+00:00
-
-## Who is Marathon Fusion CEO Kyle Schiller? Can the startup really turn mercury into gold? - ET Now
-
-- **URL:** https://news.google.com/rss/articles/CBMi0AFBVV95cUxQRHVrX0FOTjREdm1mRlJIbmttZXR4dmdVQlk0SkJ4S25icG56MUNYLS1Ubl9xTHowTWtXcnhCY0l3dkw3bTlaeUFWUjZJanV6Nzl4b1Q5RGowTGt2ZGR6Y3Z1OTBNT010NFpmX2RvYWg3ZlZ1cmxZRi1kUFM5VERpWjRzeldtY0psMVpsaW0zME8xT0tYTk5yU3VadTVEUER5ajZuRHJVTzY3NkFJMFNwZjNCQ3Vidy1mODh3VWw3ejduaUFIYWt3SlZlS3pKQUJR0gHWAUFVX3lxTFBpWnJyM21abFNOeG5fbW5nUl81cFB2STN1QXQ2Wk4wM0xyMnJrWnFWcmZUMVdRLWRFRERjdGxtVFc1RENSWHA3aVhtVFZlTHJlTlU2U2hUYldFVk1EQWNFUDF4M1d0dGNxRHhJdXMxaVZwanpjVzJTeVA3dUpaaUR5cW9mQTlCU0J4ckVmODdJemdhMnRKNEhYSlZzb2lSdVFjSV82WmczeHROTUY1YjJiSXVWbS01ZzhPdFh2TGFwOHBWXzNNTUZ4aWZzRlpDa0FaS3R3c1E?oc=5
-- **Source:** ET Now
-- **Published:** 2026-10-23T16:59:34+00:00
-
-## Commonwealth Fusion Systems gets $85M to build better fusion-ready semiconductors - TechCrunch
-
-- **URL:** https://news.google.com/rss/articles/CBMitgFBVV95cUxNZm9aRVdadXVfblNmMU1hUkh0OGpuODI0Z2l2S1NXQmtER2ZsMlJaR2Y2M1hpZXFoV2hfRTJNaUNMc1JYbC1hYTR6RW5TR21JNnlZZnFkak9vV3ZNSnRKcW1XWHhyWFE5Rjhtc1ViQTVObTBkYmZjYXNBZmdsa0N2UURxRC1kSkZ3N3RJWDl0dUV3UEhTNU9UVno1UDBWeHBFOUpLb2FhY3lfSTYyV3F5elcyODJnZw?oc=5
-- **Source:** TechCrunch
-- **Published:** 2026-10-23T16:20:28+00:00
-
-## What some of Anthropic’s backers are reportedly worth before its IPO - TechCrunch
-
-- **URL:** https://news.google.com/rss/articles/CBMipAFBVV95cUxPVHpqZVBLNHVsZGtWdnBoQ2o4WUttQTZXbG16S3p3eV9PTVZvMDRIVFJMa0JnV3RhUTJONGsyNmJ5VEwwQWJWVnVGRVlqMV9ZOTFMLW15YXV3XzV4YXk1SGNBVkViMUU3ZTlTZ1JHZmJKQ2NTS0xFSG5QU0ZkY2hKdkZZeHJoRHpZVFdSLXAwVmEtTnpHWHl6eWVfQW1SUVhfT3JrTg?oc=5
-- **Source:** TechCrunch
-- **Published:** 2026-10-23T16:02:43+00:00
-
-## Mercury to gold: How US startup Marathon Fusion plans to make lab-grown gold - ET Now
-
-- **URL:** https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNE5SdTQ0S3hMVThjNHI1bzMzQkxFSVlCd25UOE8yQ3Exd3BNNmdEVmRZWk1uMzhPVWpyWEZJMEpwaGNVZVE4RTIySHNvbzRGRU4teHRkMnRkdXdhTXhLaHRsR1JiQmhoMGRkeW5WZ084ZTRJcXpNcXhvT0Z4N1JVYW9qNEJjTnhDUFpMSHYyalg1OTZkWExRVzFNUEtiRWFtRUE4blR4YUdDaUlncXY0SmxqOFkyTEx0T1l3RUEyX3J6cWx5MlVYedIBzgFBVV95cUxQODRfNlQxOWtZN2FHdUNNbEo3UVphS2JKWTFKNm02RjRyc1QwQjRxYXNBZVFVdkE1NkROZ3l3cWZrekJwVU9mN3dsNU9ESzg5dDB0NXBaR1E5dlB6a1A2S2hUNTZrTW1DOHhfenVlajVIUzJsWV83UGY5U0NJTmNTRG9qNlQ1WlotUTEyYi1hbFRteGFDQUwySTRqVVkxRnEwaUFRUUwwdndHc1NKdVpkTlhBc2Z4aWxFN0RQLXBUTFJKb0pPZkZSNzlVZ3FTUQ?oc=5
-- **Source:** ET Now
-- **Published:** 2026-10-23T15:08:13+00:00
-
-## US Startup Claims To Have Turned Mercury Into Gold, Says It Beat CERN’s Record By 10 Times | VIDEO - Free Press Journal
-
-- **URL:** https://news.google.com/rss/articles/CBMizAFBVV95cUxNS0JuQUZWa1lrZlVKR3lRb0w1QUhCMzE2Zy1jR2JDNmZFbk95ZXRNa1JtQ2F5Q2JUVUdONG9kVE9YNC03SF92VkNnVFV0X21QUXNVMG9uMlV5OGk4Y3dUSEVpSTZNVVdTekJrOURxMlB2R2tPdDc4T1d3SnF5djhSUXZVTkl2UmpsV2NtUjVQMUd2RDdLNjYya08tOGtNYUFvZEVvQnNjV0F3SzZzWGRtb1JjVjlCN3VrclU0SktxSzN2UXhrOWNfc3NwV2bSAdIBQVVfeXFMTmlkLUVpbVpjNkNIZFBrTFM3OVQ5cmprcW04S0NGVnNuTmllLS05aGlsWnRzcERKNHhjMEQxUkt6eWJWaFJlOVZCLWpBUnBmeUZDblhHbU9kSTd2a1puRU9wZHp6M3FsUFlNSTlJNGw1QjBDYmhxUGw1UEE3MnBmbjFqaXZtNGFMM1kzVzZqdHFCVklPOXVkOV9sUmxmM0t3RHlJczZ1N3o0Y0NwNktFODNCRmlfMUR2WjREdTh0RW1XYXBoRkxTZ1dyZVFqQzl3YjBR?oc=5
-- **Source:** Free Press Journal
-- **Published:** 2026-10-23T15:05:51+00:00
-
-## ITER vacuum vessel exempted from fission-based regulation - American Nuclear Society
-
-- **URL:** https://news.google.com/rss/articles/CBMimwFBVV95cUxOTm5oeGVqWnF0VFdQenpuTTdEa2E3OWpva1AzZExHcUNpd3dtanFjZjBZVUw5MGdRaWM2aC1MTTF4SGo5aHBPblRmTDlhMnc3ZkM4Rko3c0JVTmJFdjNUNGFhb1k2TDhCaVk4ZG1OZFV5SnhWT1gtUDV3SmprQ1lWZGRnU2g4WUxnT3VCSmJpRjVVRXg3V3BPM1kxRQ?oc=5
-- **Source:** American Nuclear Society
-- **Published:** 2026-10-23T14:53:46+00:00
