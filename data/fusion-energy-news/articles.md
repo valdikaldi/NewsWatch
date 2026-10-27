@@ -1,8 +1,44 @@
 # NewsWatch — fusion energy News
 
-_Last updated: 2026-10-27T09:39:07.259485+00:00 · 50 articles_
+_Last updated: 2026-10-27T15:45:40.861848+00:00 · 50 articles_
 
 ---
+
+## Israel Ministry Calls For ‘Immediate Action’ To Launch Fusion Energy Industry - NucNet
+
+- **URL:** https://news.google.com/rss/articles/CBMiswFBVV95cUxQTVJfQzlUZ3NuVUlwZ041bS1uNlVOTTQ5aEZlbF9jelN6RWRHSURubW9mX1dIU1d1LWl5bkNoNk4xWDZ3T0lyaVdiV2I1WEx6RU9vRnJSMTduQ1VCZE53WjZoTXlFOHh4TXJUS0g3UWJLZUVtN3VuT0pXMzU0X0J6QVdxdzJGYVdRbzk1WWlrZndraksyUGtPZ0hCejNHYzJMZnQzTEcwSjhZMllSVWVCSjVDRQ?oc=5
+- **Source:** NucNet
+- **Published:** 2026-10-27T15:07:45+00:00
+
+## Artificial sun - Global Times
+
+- **URL:** https://news.google.com/rss/articles/CBMiYkFVX3lxTFBPaG5aeEFKMmFlSDEzV0FLSm9jeDFJSmhvakZXa2ZXeFJySVVRX2l3aFhQS3IwanJ1VlJCWDF3MlhRM01hUk05VXVhUGxiT3JRVXl1ZWt3UGRZV3FTR1p6U253?oc=5
+- **Source:** Global Times
+- **Published:** 2026-10-27T14:48:00+00:00
+
+## Scientists Demonstrate First Evidence of “Helicon Current Drive,” Bringing Continuous Fusion Power Closer to Reality - The Debrief
+
+- **URL:** https://news.google.com/rss/articles/CBMi0wFBVV95cUxNTXJuZ0haRHpRLUhKN2lXSkZCcHMtSUZyZC1kU2dqdUg4RVNjZFBmcEZhWUozNGYyUDdFNEZBQ0xPczl1VlJZdE04TXh1ZXFIRjhJT3JHbFp2MXBkVWpsUS1OVVdvSGlQS2R6WGkxeWx4TGtKSi12LW0zYVZRTmRGWG1sUnJOUE1zN2hTOHVxc1duSmZROG1nSUJibHlJbEs0RVQ0cDRQLUhhNGxLUDI5aGxPZzE4UVNsYW4zTFhvclNGS3M2eENJQmItS0hVUDVFQXZZ?oc=5
+- **Source:** The Debrief
+- **Published:** 2026-10-27T14:29:13+00:00
+
+## AMPERA AND IMPERIAL COLLEGE LONDON PARTNER TO DEVELOP PHYSICS-GROUNDED AI PLATFORM FOR ADVANCED ENERGY SYSTEMS - Yahoo Finance
+
+- **URL:** https://news.google.com/rss/articles/CBMimwFBVV95cUxPYlE3dFRqN0xoT2hhVzlzUncxQm5VRkxoU3pWd3czWWxfUjA2Y09FdS1hMjZkcEtEWTRuSjJwZGFFY2l2aWwyMXlYbXpTcWYtRVFGMlV0SDlETzZSZ0drLUgxSk1HQUp4R1h6TVBHNy1fTnBiQWZHWk9HeUdBV29KSkhfX3ppOHZ0NkxlaWVvX3BtNFg4ZThraDdURQ?oc=5
+- **Source:** Yahoo Finance
+- **Published:** 2026-10-27T12:58:00+00:00
+
+## Radio waves drive a fusion plasma current that could help reactors run continuously - Phys.org
+
+- **URL:** https://news.google.com/rss/articles/CBMie0FVX3lxTE5DSTZibTRDTUxqSm90R003aHM0ZVI5QTlLWjQzQU9TU1FuemRIbjB6WkVHYzgzTTlVRjc2VXd3dUxDZTF1RWNGOVZZNnEzR3dzRmFkSXFHQUc0NHZPZm5PSnljdEJyWktlYXJUWW85bHo1OTVxek9NOWZ5bw?oc=5
+- **Source:** Phys.org
+- **Published:** 2026-10-27T11:20:01+00:00
+
+## Siemens Energy partners on fusion technology. Siemens Energy stock gains 1.79 percent - ad-hoc-news.de
+
+- **URL:** https://news.google.com/rss/articles/CBMizwFBVV95cUxPakRLZmMwZTdNLU5CZk9lWEFSWVA0YlNHMy1VXzAwMF9TME9DcGNlZmQyRllJZUJGMVRZem9MS01oSnVjaC1qV1VuTmJHNC1CQ0hBU2M5QldRN2VndUljYTI4RFdwSFcycTZvbjd2cUNRdjgyMWV2aHBrM1JZY2V4WXBBNFhDZjVFTjgybXVRcGJWVGNOdEl1WTNoQVlMUExmeDRPdXVKb1g0eEdBMUhxOV84Ny1yWE1GbFA0VFdiUFpWWGhHUXFkM2xJWFpiZEk?oc=5
+- **Source:** ad-hoc-news.de
+- **Published:** 2026-10-27T09:43:52+00:00
 
 ## Siemens Energy: Fusion Heat-to-Power Talks, a 40% Earnings Gap to GE Vernova, and the Buyback Runnin - ad-hoc-news.de
 
@@ -267,39 +303,3 @@ _Last updated: 2026-10-27T09:39:07.259485+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMiowFBVV95cUxNdEt5SDJ1Y3UwcUxhYUZ6dTFsQkFoQ1QyRVQ4R3IwSk9lcHZyTThvUXVnT2xaUmg4dVFSZjhBUkdrbUdCbXNLVzlWdDlYbEpPX1BDU2dwVEF4aFFsakJ5Y2hWV2pVSkJEcTZRZnJoOGc5TU0wdE1hYll1Q3dIM1RXM281a3l2WUxvOG5YZ29wNDR4bC1YWExVdFJfTjVwLUEzd3c4?oc=5
 - **Source:** EnergyNow.com
 - **Published:** 2026-10-25T16:43:50+00:00
-
-## Fujikura invests in fusion venture. Fujikura stock costs EUR 23.00 - ad-hoc-news.de
-
-- **URL:** https://news.google.com/rss/articles/CBMixwFBVV95cUxPTmRuRURXcmpxQ1RZSURaVDM4SFFiLVlSb1JqeU1hNnFFN21GUVpSTmpxTktRbVdTRnJOLUhXOHJHYlpJTkxyT2xzWXU4cFVGbGRKTGNJQVZETHVtQWw0V3dsQUNDS2RfUlBiUU53RjdIU3NrUmpmb2dUaEdDTVZtcDJfVk1HUDhuZFIyREk2RUl6U1EzNW93Tm9iMXBWb1VGcld3bHJLN01pSG5lVldnWTNBUkk5eWNEQldRYTRZX2V3Q0ZKV3VV?oc=5
-- **Source:** ad-hoc-news.de
-- **Published:** 2026-10-25T16:12:18+00:00
-
-## US Plans ₹3,693 Crore R&D Push for Power Semiconductors - The420.in
-
-- **URL:** https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1FVW9SUmI4UGVqQkFmNHRmcW1yb2xoN2tyeUJNOS0ycmdCOE5QekhLa2V4WkdyWkRWdnlHMHFUaE1vT1ZQV1F0NTdKUi02V2pJZzBWcW82S0FiRW91b3RNYVBOcGc4bzA?oc=5
-- **Source:** The420.in
-- **Published:** 2026-10-25T14:32:18+00:00
-
-## Ahead of SOFI’s Earnings Report This Week, Here’s What Analysts Are Saying - TipRanks
-
-- **URL:** https://news.google.com/rss/articles/CBMiowFBVV95cUxNdlhHTmd5Y0JJUnBYYV9vaGJGVS01N0JPd0Qza0lFVXZ5ZHNHLVl3bzBkcHY4aHNnbEVaNEppM3Z2T0JiY3pXb0xVOUR1ZDk1TXVwZEY1UzhGRFVkSWxYbHNsNWRDb0FLekZ1b1l3N2RRenBZVHBnUTh2Y1E2cnhLZTdNbEhMOHFjTndLS1ozMTYtLVpyb3BQbXcwWjM1ckMwdEUw?oc=5
-- **Source:** TipRanks
-- **Published:** 2026-10-25T14:23:24+00:00
-
-## Google (GOOGL) Launches $150K AI Contest to Cut Quantum Computing Costs - TipRanks
-
-- **URL:** https://news.google.com/rss/articles/CBMinwFBVV95cUxQWC1ia3V0UHE2dUx6SnBLTElYMG9BakhPbmdldzNFSjJOV2ZFd0ZSUTJjLVgzQVpMcWJ2TzdsdjhSLW5rRFp0T21EWkM2NjRWS2dKYkl4UWxFb1hMT1YxRjQ3SnM0MWNmVmZSdlY1WVpFM1ZYdUJHNkxHXzc1Q0FFZWYtTDJKX2g1dzQ2V1hoUDg5LXVTLTZtWHRkNEdZVlk?oc=5
-- **Source:** TipRanks
-- **Published:** 2026-10-25T13:51:02+00:00
-
-## Can a Fusion Startup 'Transmute' Gold? Marathon Fusion's Claim Sends China Arguing About Alchemy Again - Trending on Weibo
-
-- **URL:** https://news.google.com/rss/articles/CBMijgFBVV95cUxPVjF5SnRiLTRSVk43N0Rvay1Rb2JHR3l3MUFkWU1jZGtfNEh6RE93bHQzQVNOVWstX09ySF85VnJCc2RTczhGQmN2T3JMQy1iTGJ3Q3NxZVR6Uy1sbmxZZHNIYUJDUEtOR2U5M3BocUs0Y2hDdFhTZ2IzX2l4dGlaQXczblZLR1JuTmV4S2JB?oc=5
-- **Source:** Trending on Weibo
-- **Published:** 2026-10-25T13:41:26+00:00
-
-## Gye Poppin – Nzulezu Ft 4mula Energy - TrendyHipHop
-
-- **URL:** https://news.google.com/rss/articles/CBMie0FVX3lxTFBfeGpjUy03Y3d2N01NU1BsVHFvc2F6RG5pOW5QQlVTOVZpNm14alBiZVlsS3VzSElqRDBBS2dWSDZvN1dpWS1COVhJajl2am9TSUV4cGFmaUhlckRZZTZxMmNtUFlBbl94cjFHWkFENUx3c0FyQWx1QVNfZw?oc=5
-- **Source:** TrendyHipHop
-- **Published:** 2026-10-25T11:55:55+00:00
