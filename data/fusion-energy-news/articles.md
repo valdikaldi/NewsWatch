@@ -1,8 +1,68 @@
 # NewsWatch — fusion energy News
 
-_Last updated: 2026-10-26T22:22:12.340732+00:00 · 50 articles_
+_Last updated: 2026-10-27T09:39:07.259485+00:00 · 50 articles_
 
 ---
+
+## Siemens Energy: Fusion Heat-to-Power Talks, a 40% Earnings Gap to GE Vernova, and the Buyback Runnin - ad-hoc-news.de
+
+- **URL:** https://news.google.com/rss/articles/CBMi_gFBVV95cUxOa1UxZG15MWc4aVJGb19nMm5GYlZWaDZDenVIaXRocGlvQk95Y3g1NXNmcENzM3pDUFhfT0tXa3Boa21RNjlPeDd2ZE5HR2RkVzR6QnNWM2U0aTFOX1NnRFdlVXB0OUdhZkNub3J0QW1fZU5zVHZXaEY5WWMwYzRBYzZ6NXJMUExDV2NBYlNYUWc5dWMxN2V4ZTd1NTVtdWRfazFVdlR3ZExIS2FqNjh2RGFTR2tCRGRYNkFscnBxNG04Y1RBRlJWX3F5aWlsZDc5LW5QeF9VTEYtbkZXMkk5UTU4LTgyX0p4aE5JOUxhdnZuclBQQ0w1WHRjMHdGdw?oc=5
+- **Source:** ad-hoc-news.de
+- **Published:** 2026-10-27T09:31:03+00:00
+
+## Inside Pacific Fusion's $1B Bet on Mass-Manufacturable Fusion - Dealroom
+
+- **URL:** https://news.google.com/rss/articles/CBMimgFBVV95cUxPNmR2VzRnS2dOdHVkVjZ2SnNTSlY4OTBmUXhOY25lWFl6bTduRkJMQkFscnJmQ19hbC1WWXdVNUMxSFJkdnZDZzNkZng0NnI1UmZuZFNwOXI2Q2NQR1NUMzhueWpPWFBnamw4T1ptN3h0ZE8yZ0lNYkN6anZDM1ZuUXg4bmctS2xKTG42dnQxNmEya3Z6VXZHYXhB?oc=5
+- **Source:** Dealroom
+- **Published:** 2026-10-27T07:37:37+00:00
+
+## 3 US Chip Infrastructure Stocks Getting A Fresh Look After Federal Fusion Funding - Simply Wall Street
+
+- **URL:** https://news.google.com/rss/articles/CBMi5AFBVV95cUxQaWUtUDdKamkzOEVlaFpYVlN5Mlk0SHo2OURGaUF4SUtLMXdmdndtOVJQaE50T0xhVFBEaFlFOVU4b3hRcC1sUjdvckNjYm4yYnpJTkpWbl93VUhlX0VOTm1ma21YTThRSkFOYy14VUJvM0g0dW9LVER5a2prOWxLaWZ5WnJGZ1Q0R2hiRG9QeUhvRnFEVGc2YllKTFBKMGtTTkZqVDlrMjB0bHpMWU9CQ3ZBem40WlBUUDhFdmxGc1lqNnE0OTU5NEZsd2EyRHhUUjFCUWRxaXBvQ3J0elRnREg0SjHSAeQBQVVfeXFMUGllLVA3SmppMzhFZWhaWFZTeTJZNEh6NjlERmlBeElLSzF3ZnZ3bTlSUGhOdE9MYVRQRGhZRTlVOG94UXAtbFI3b3JDY2JuMmJ6SU5KVm5fd1VIZV9FTk5tZmttWE04UUpBTmMteFVCbzNINHVvS1REeWtqazlsS2lmeVpyRmdUNEdoYkRvUHlIb0ZxRFRnNmJZSkxQSjBrU05GalQ5azIwdGx6TFlPQkN2QXpuNFpQVFA4RXZsRnNZajZxNDk1OTRGbHdhMkR4VFIxQlFkcWlwb0NydHpUZ0RINEox?oc=5
+- **Source:** Simply Wall Street
+- **Published:** 2026-10-27T06:25:49+00:00
+
+## Siemens Energy to Partner with Japanese Companies to Develop Fusion Power Technology - marketscreener.com
+
+- **URL:** https://news.google.com/rss/articles/CBMi0wFBVV95cUxOLXBRREp0bmM1ZkQ1Q0JCbFRvcEFsZjlyaU5teWhraHZTQ2EyQ204Q085cGZyYjg1S1ZJc3kzbFlka1hzcVA3SGMxT09ITVdqREcwR2tDQlhkaXVrX0RDa2NRbWpaY1ktZkthak52YlVyd05KeURUeDNyRkhzX0tXNUx5ZWJuUWxpcU43b0VNcEpya0p6ZTlGQ0s2MUFaUk1LYnVlN0tNcEF3Tkp1U01lU2dUN3NXcGdoSzNLWWpwWHJOZ3ZuY1N4WXdCVTVIb3NHVVY0?oc=5
+- **Source:** marketscreener.com
+- **Published:** 2026-10-27T05:33:33+00:00
+
+## By Design donor event celebrates the power of philanthropy - Inside UNSW
+
+- **URL:** https://news.google.com/rss/articles/CBMioAFBVV95cUxPQXl1d1E4MkZVWmo3NlRiY21ZSEU5OGNXc2k3OVY4eC1WejNTNVI2NnhBVDhITGFKbFBKWHJBTVNNbV9nQnJHWWdXNU9MYUxnaER6LURzVFR2UzlpZWZhSEZLZmFTWTh3dFdwdUQxdTU3WURUb2MxNHdiNTZFdDVsY1k5b1c3RGRCUWtTb3J1ek5iMm9DbVFfMnAyTU5xbV9q?oc=5
+- **Source:** Inside UNSW
+- **Published:** 2026-10-27T03:14:23+00:00
+
+## Could Fusion Plants Pay for Themselves With Gold? A US Startup Claims It Turned Mercury Into Gold, but Key Data Are Missing - Nature World News
+
+- **URL:** https://news.google.com/rss/articles/CBMi4wFBVV95cUxQdEFDbWtmbUZVc2U4VTNFQzh4dVRRN1NKTm1ZUTBZbEJ4aVR0dHBhR2VjZkRRZGlya0NNZHRUcUZxSzFtMGlQWC1MWE5yZlJoam1oY05CUzA4NFo0T0huM2twbENPUHgtYzRVMV9DTXlCWlIzU0ItZlZYd2dNS3NpZjFvNXIwN3JCS1ZjWm1vWlRkMWxxQ3RxeGhYd3NrRXBmTzlqMmN6QmhYRk1YcXI2d3h1NEkwZVh3bHg5Ty16X2dpZW01cGdkcGpwQXprVjlCRkFlZWNiYjdTdHY3ZFA2bVpDaw?oc=5
+- **Source:** Nature World News
+- **Published:** 2026-10-27T01:56:33+00:00
+
+## Could $389M in US chip grants accelerate Bitcoin miners’ AI pivot? - Cryptopolitan
+
+- **URL:** https://news.google.com/rss/articles/CBMif0FVX3lxTE93OUVhajM1M3dIc0lkVHZHaUEtYUVQbWtaOWczS3RIR0pyd3JmU1NHY2pvZzNzNzh2OGpQU2tOaEtzXzhicExScmt3THRPM0Vlcnd2dDVNcFk1Y3dnSnp5SmlrQTl6SUFwbU9PRHA3cGFQYW1oQldTWVE3ZllKUDA?oc=5
+- **Source:** Cryptopolitan
+- **Published:** 2026-10-27T00:47:28+00:00
+
+## Sembcorp and ST Engineering prepare for nuclear future - The Edge Singapore
+
+- **URL:** https://news.google.com/rss/articles/CBMimwFBVV95cUxOQ2Q0X2tSeWdsNXZGSkNRS0VIc0dhQXdQM3FuQlpoMEJuODJMVk5qM1JYTFN0Mzh5a0FENnVSYU1zM0RvTkNXMnBWU3VNR1FHcmFvbGFKSElkQ3diWEp2QWJEZUtKS1kwZEdNVHdqX0xPamprOG9IQ1VKQWVWVWwxSFFOeHBRZjVEWmRTR0hJaHo2MHNyQkJtRlNiMA?oc=5
+- **Source:** The Edge Singapore
+- **Published:** 2026-10-26T23:52:16+00:00
+
+## Everett-based Helion receives millions for next-generation semiconductors - HeraldNet.com
+
+- **URL:** https://news.google.com/rss/articles/CBMisAFBVV95cUxPaUNHeXFPV3oxRTVJdVBfaUwyTE01TkI2bzVIUG9BckVxUUctT2hVRlp1TDR1WTRqOU9RVm9RTkZJODZydURIbUhzZ09DOV9NNzRMaHNnRjRpV3FPSk16YmZYYmlHTzdFNG1URUtZalY2bm5qU0RPdG1WVHJqRlZYV3dyOEZzQVA5SkRfQ29vdlRlWnpFNUFhenVNaDRjNk9Rc1RmaThiYVl1c1BTZ1VybA?oc=5
+- **Source:** HeraldNet.com
+- **Published:** 2026-10-26T22:45:26+00:00
+
+## State Workforce Board announces $5.7 Million to build career pathways in quantum and fusion - Contra Costa Herald
+
+- **URL:** https://news.google.com/rss/articles/CBMivgFBVV95cUxPYzdtbWZ3cHR3bmY5ay1JVVRjdHhDR3liM0dLUG5UMUpmR1ZYRUZiSWJKSG1BcTZsUmFzRVVzUUxYN2Q5bEp5Wkh3Z1dBZS16Q0ZCbC1hcnBIQUZRNzRsVlFSb0lXY1FiaXB3UDBhQ1F0bXhOeXRfRGY4QlZyWmE3SENJOExrSkY1clNIY21jM1l2WG1iUVlOeEQ3VVVoMVZjeTljd1VsS0l2T1pwWV9yZEVTdHFPQTQ1SXpVLWpn?oc=5
+- **Source:** Contra Costa Herald
+- **Published:** 2026-10-26T22:40:54+00:00
 
 ## Watch out, YouTube; Instagram goes from short-form to 90-minute videos - TechCrunch
 
@@ -243,63 +303,3 @@ _Last updated: 2026-10-26T22:22:12.340732+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMie0FVX3lxTFBfeGpjUy03Y3d2N01NU1BsVHFvc2F6RG5pOW5QQlVTOVZpNm14alBiZVlsS3VzSElqRDBBS2dWSDZvN1dpWS1COVhJajl2am9TSUV4cGFmaUhlckRZZTZxMmNtUFlBbl94cjFHWkFENUx3c0FyQWx1QVNfZw?oc=5
 - **Source:** TrendyHipHop
 - **Published:** 2026-10-25T11:55:55+00:00
-
-## American nuclear fusion startup claims to have turned mercury into gold - Here's how it works - Startup Pedia
-
-- **URL:** https://news.google.com/rss/articles/CBMiswFBVV95cUxQUWFZVzAyVnhySUpHdFVtNDlfTndKVWlTTks0SmtpaElyYnJjZ3BTdHllRmhIQ0J3QVhpc3FSU1RXNkdCaFdSZG45bFlhUVMzanJ6VV85LWVUc2pHT3NUdnZ3LWJ1aTFDY2N4UUNPVXVRTnM4eTlnWjFXRE5ObGFiSC1vSWlGcnNhS3pwUVRVZklFN1pHVnZ4WF94RXdPQTNPVTdMc1RZNWNNcGlsRTJuZkMtbw?oc=5
-- **Source:** Startup Pedia
-- **Published:** 2026-10-25T11:30:37+00:00
-
-## The Trillionaire Man: Who Could Become the World's First Trillionaire? - 白鲸出海
-
-- **URL:** https://news.google.com/rss/articles/CBMiZEFVX3lxTE10VFI5dlpFY1RUYzRwMG92d3pTSEhUVkFvWTNIc3paVUNrdE40UW1vMTBkbkNJaFBHeUkyLTZsdFdnQlRFbVRwekFmODMwRkZoQUFnSjByRnY2eDZGSTdIU1VUSmg?oc=5
-- **Source:** 白鲸出海
-- **Published:** 2026-10-25T11:24:38+00:00
-
-## Video: Opinion | The Second Big Bang Is Here - The New York Times
-
-- **URL:** https://news.google.com/rss/articles/CBMijwFBVV95cUxOU0NQRnRBNDZHUkRvMDBfZTU4czVzZW5jRVdRTkYxcUtidjZRck1Jb2RfamlfZExyUXF1UHphcHZlaWczU0s3eU5NZWVaeTRldEVDS19GSklXWS1yN0c3aUdSQUhQZEJRa2p5X1AxTTFVWkt5TnhIUjZMYXJPWTR2WWI0Z2lrbEo5NDh4RG4xQQ?oc=5
-- **Source:** The New York Times
-- **Published:** 2026-10-25T11:07:47+00:00
-
-## Opinion | Thomas L. Friedman: We Just Set Off the Second Big Bang - The New York Times
-
-- **URL:** https://news.google.com/rss/articles/CBMidEFVX3lxTE8yLUFQRHU1LVFjbFFReThhbmk0WHRhbURqdnl6cVQ3Q1JPSjZlUWUwaUlpWGNOZjU3N2VCcTF1QlBEWTd5Q2pZVDc4YWhQN1BHVzEzMXdsSUV2S3R4dS1QQzFEbEtSN2V0RzUzeG1tZm9qMGlf?oc=5
-- **Source:** The New York Times
-- **Published:** 2026-10-25T11:00:04+00:00
-
-## Dessie - Seduction | Music Legal Download - TrendyHipHop
-
-- **URL:** https://news.google.com/rss/articles/CBMiY0FVX3lxTE1rSjZLYjhYbHRVQkRsbEI1dWN3NWE5cnFRWUxJSUY3WVlkbHRGODdyNXVQLWJDOFA2Ums1d3BUWFNtNVdSemszWEdBamRGNmVJbXRhMlJmTHNTZ2FVT3NnVzhxNA?oc=5
-- **Source:** TrendyHipHop
-- **Published:** 2026-10-25T10:17:53+00:00
-
-## TIFR and the Tata Trust - Gateway House Indian Council on Global Relations
-
-- **URL:** https://news.google.com/rss/articles/CBMiYkFVX3lxTFBEdnFvQ250VE1KbTVFVVdaY3c1Qi1pYTZ6ZE51V3R3MGprY3NfQ3FyVWpYZW1kZ0JyT2tsXzI3NWtxVzZZa2ZfWkh2MG5sN2J0MmkzZVh5ODNIOVYzMU1EWEdB?oc=5
-- **Source:** Gateway House Indian Council on Global Relations
-- **Published:** 2026-10-25T10:15:04+00:00
-
-## Will gold prices crash? US startup turns gold into mercury: Marathon Fusion creates diamond-like moment for... - Bhaskar English
-
-- **URL:** https://news.google.com/rss/articles/CBMivAFBVV95cUxQdkJlTjZmMUhMTWxQYW5FN1cwbzVQNDR1R1RaRVowNHpFRFZfc1NGdFBlWW4tYVZVVVI3cFFhSlBnaWt6ODE4aUM0bmd2OHpubzVNTEs5elByYjRKNTFVQVFaQUhWNXFraE42Zlo5WG9OemF2ZTFRcTVIUzFPRlg3eVAwOEllcmZNR3BrMHlBNVNlOVNJb3pyUlU3R204SnlNWHhCVXJpLVZ1WDVraTRJa3V1ang2ei1zNERaSNIBwgFBVV95cUxQdEdlcjV4Ty1BLTExRDBJTjNfMUhsbzRnSUUwRWNHaDF3SGxLZHZ5a25NRGxtQ3BuYUhOc2k4bllhVXR0SlhsU1NNejEteVMtUVUyVUpVUjhwUVRGZ0ZReER0S1NINDdEdE93YWY2d3VjZHpVQWYwSVlHZFZOU3BWakxkNDgzZVVKQ0RPLXdoakx2ZUtPcmZtb3NzYW1zWWtnai1kNjJmdF9mX0ZzdjdGZTNsWG9MOGJjVDJuM1N1SFY2UQ?oc=5
-- **Source:** Bhaskar English
-- **Published:** 2026-10-25T10:00:32+00:00
-
-## ESG Today: Week in Review - ESG Today
-
-- **URL:** https://news.google.com/rss/articles/CBMiZEFVX3lxTE5ab3Q1cTdzcDVaVTdGY2l1bDJPbF8tcGVKdHdlakIwUDFqZi1xcGpqbktTME03WTFLNUtKTTZBM0hfaV9jcHAwZW4zbnlUeF9ibDFHTmJSLTNMM1FidlBVUDFqM3k?oc=5
-- **Source:** ESG Today
-- **Published:** 2026-10-25T08:21:35+00:00
-
-## Get ready for darker evenings: 10 tips from electrician James Harrison to cut energy - Exeter Today
-
-- **URL:** https://news.google.com/rss/articles/CBMigAFBVV95cUxNSUhrelRiNngtUTNRRGVrWGtUVDBMcVVSWVZmeVNIMm5OVFNjYm13MDFxRWRDWFVlV3h2dXA2cnpRX1hYZWxIVVNZSTJFYnhoN2VVTTNEYldwM2NLbW1Xc3JSMXRUOWI2Yk5CVnoxQVlzODRXVnp6al9zbE9rajJkNg?oc=5
-- **Source:** Exeter Today
-- **Published:** 2026-10-25T07:00:00+00:00
-
-## Kay Da Ace Injects Fresh Energy Into Afrofusion With New ‘7 ELEMENTS’ EP - Tooxclusive
-
-- **URL:** https://news.google.com/rss/articles/CBMiswFBVV95cUxOY2hzQTNWYjhFWFdXVnhhZDRFZTRUckVVRnBEekhQRmJyYWdxbk85WmtyVnJHOTVWLWNJQVFSSTJqR2RSclE5MWFXenVDa3Yya0UwUUdncmdCY3NvQmNNeXA5X0N4bk5zMmVobC1YRWNPSXlsOXZXZWJMWGE2bGkzLTkxU0tTNEx3UEUyaUQ3U2x1Y0d1NC1nVUQtc05sMG55OW1YN2tPNkc5Ym5ydGpsY3Q5bw?oc=5
-- **Source:** Tooxclusive
-- **Published:** 2026-10-25T06:07:15+00:00

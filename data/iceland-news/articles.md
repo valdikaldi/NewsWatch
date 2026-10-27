@@ -1,8 +1,50 @@
 # NewsWatch — Iceland News
 
-_Last updated: 2026-10-26T22:22:11.098890+00:00 · 50 articles_
+_Last updated: 2026-10-27T09:39:06.883633+00:00 · 50 articles_
 
 ---
+
+## How Often Are Tours Canceled in Iceland? A 2024-2026 Study - Guide to Iceland
+
+- **URL:** https://news.google.com/rss/articles/CBMidkFVX3lxTE5LUzJuV0g1dE43SHIteGIyMGpXN3A1RTBiWDcxdFNIUHp0SWVCMmkyLUk0WG5KazhkbnU3TktCbnlQUXFObjhnNHRIQk5NRERZcUV3Wkp2MUhXREN5b1RPTmJPcms2LWhYVEN2VGxfTExCbXcwdWc?oc=5
+- **Source:** Guide to Iceland
+- **Published:** 2026-10-27T09:08:57+00:00
+
+## Iceland's Jónsbók raises early VC from Crowberry and Leo Capital to expand across Europe - Dealroom
+
+- **URL:** https://news.google.com/rss/articles/CBMivwFBVV95cUxQbk1BYmVmb3FENXJISmhIRGhsZGFqU3RCZXRudEdKUGlkU2czR1BXcWxSUDl5NFhQS0VTWEZadkFyUHY2NktFRGN2cllqOE5ockdmS0lQWUlkaDB0OHNwNUZSaHVzQVpIb1NxSzNoZnNWSm94TkpiU0FsOVB4ekh5MW5YOEZkUHZwU2RONVdQOG9Ib09kc2xQZUFkTlJXaEtCTzFpZlpET21EZWxHZVRDX2RocjR4bTRUOWFsd25HVQ?oc=5
+- **Source:** Dealroom
+- **Published:** 2026-10-27T07:11:27+00:00
+
+## First Air China Service Lands at Keflavík - Iceland Review
+
+- **URL:** https://news.google.com/rss/articles/CBMihgFBVV95cUxQclFZcnk5VnpsWnVkNTNwSy1oU0N2cG9ET0phNk1sajY2Z3JBblhhY3JRZ0l1UFlNV3JBU1hVSi10RTRhdWFBNWgtLXhxLTBXV19WZGx6UThrei1mbWFTTDNYdThFM0ZBTzZDMlVMRHVRV0FPeFFtRDBpamY4Z1BwbUNiYTFLZw?oc=5
+- **Source:** Iceland Review
+- **Published:** 2026-10-27T07:00:00+00:00
+
+## Iceland’s Jónsbók attracts Crowberry and Leo Capital to expand legal AI in Europe - ArcticStartup - ArcticStartup
+
+- **URL:** https://news.google.com/rss/articles/CBMiXkFVX3lxTFBUUWcybzgzQ0loTlgxVUhjREtycUxONWJjVHFyWFNicmFQM1dVbU1BTEM4ZmpxejJsVm15amFjaVFfcEw2eklMdlNKY2hTc1lJUlNUeXVRbFA2Y2R1NVHSAV5BVV95cUxQVFFnMm84M0NJaE5YMVVIY0RLcnFMTjViY1RxclhTYnJhUDNXVW1NQUxDOGZqcXoybFZteWphY2lRX3BMNnpJTHZTSmNoU3NZSVJTVHl1UWxQNmNkdTVR?oc=5
+- **Source:** ArcticStartup
+- **Published:** 2026-10-27T06:26:28+00:00
+
+## Queens of the Stone Age Debut “Phantom Limb” And “Insignificant Other” Live In Iceland - mxdwn Music
+
+- **URL:** https://news.google.com/rss/articles/CBMiwAFBVV95cUxNOE42YlNKWklUalRIOExTbkoxc1ZLeWFFVE1OVDM2bVZPUVpYVWZYQldaeS1CVW0wVkdxNzVtX3JGXzIzYUxia200a2EwdGdKYzBtb1l2cWxicjZwZFQybFFnRXpaRzJaN2lGaW9KeWNURThfLU1KS3A5eWZZTHZvd3VydXJ4VkZmQ09IbktnQTFfMUQ5UjNLVmhnN3Q5UDBwdmxod1BRaHpaZWtjZWw0UGdpWmV0OU5BVjdKU29acUbSAcYBQVVfeXFMUG90Z1FOZlpPUHdfMUdBT1VLdnQ5LWx2blRPUlEzbk40TlVCc19hOXdNLVk2Xy01ZEZEYmQwb2NpcUo1SGw0dG1fSHIycVNyaEYzcFhYOThRbGRxMkJiTGFtZ3B1bnQ2M05YU0ZrSk9QX2Zaclp0dEhaRWFWOUVuTUNaRjFEZGp0NUxZN05XblNMeEFzYXBrMG84MWtoRDJKM0ZVYnVsMGxtZnh2MlB3QTEwQTFFTmw4VXc4aEF5a2dXYU1OTDln?oc=5
+- **Source:** mxdwn Music
+- **Published:** 2026-10-27T04:55:30+00:00
+
+## Weak mag. 2.3 earthquake - Iceland: 6.0 km N of Álftavatn on Tuesday, Oct 27, 2026, at 03:54 am (Reykjavik time) - Volcano Discovery
+
+- **URL:** https://news.google.com/rss/articles/CBMivAFBVV95cUxPZHowM0ZIdDJ0STV1WnAxY3gwdkR4RE40R2RaNzNnNktvellaUDJGT1RmSXlXaDFPM05wYk9wLWRDT0JSRU1FaktyVHZXd0VPYTRKUi1Ualdrd1Z4MFVmSVlSTVhTS0NtZ0JISW1oYnhqSkZJRW5KYmQ4YXhGblJFRmQ2M3dDTE1iMUNfSklmbDNHUE5Od011Zi10YU1NcUVPcGhlTzkwREJjcjV6Y1g5UjhBUGlnLVFzNVJKMQ?oc=5
+- **Source:** Volcano Discovery
+- **Published:** 2026-10-27T04:11:23+00:00
+
+## Oddur Ólafsson - Iceland - Player profile - U20 European Championship Men - DIVISION B | FIBA Basketball Events - FIBA
+
+- **URL:** https://news.google.com/rss/articles/CBMiuwFBVV95cUxOaGxndGdBeUVVazJYWkZGRmE0LWpVZWkyOVlzaFdSU0oycENWLWoya1dqVl9nM2k1bFBZdzZGU3dlZlBKSlJfUjNlcnZQeHlyY2R2TDN0VHFNT1RFVW92SjJVeVV6Yy1OTTY2TlhZNlB0VUYxd0Zvem5LOE5sZWFxSnRwbURHcENmOTBBOE9veU5JR1hMQXl6dXJvN2lnMDFFMVJ1VlBabjNweDcyQ3JJNVg4Q1otcjRIWDZn?oc=5
+- **Source:** FIBA
+- **Published:** 2026-10-27T01:52:15+00:00
 
 ## Peaceful holiday destinations and relaxing travel escapes in 2026. - eTurboNews
 
@@ -261,45 +303,3 @@ _Last updated: 2026-10-26T22:22:11.098890+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMitwFBVV95cUxNZVdvd0o0Z3dRY0gwUmcwTGVMSDQ0T2VuX3lVMXlkWTNRci1fdXBNTU5NaEdZU0N3emtUcmJYd2swMWNrNFBKZWR4N3VnelFpT290SWl3MTRGb21kSXpXTzM4Z3A0dzBvVnMxZFktMTRnV1g4cXdVdXVUaGluY0ZFOFBJRGFFVmprX0FGYjktelE4UDh3OFlKbGxWYTl0dnFaaW1UdVF1T0NMd1piam54MVAtcUhQb00?oc=5
 - **Source:** StreetInsider
 - **Published:** 2026-10-25T21:58:46+00:00
-
-## Elazzaoui Wins Golden Trail World Series by Just Two Points - Sportzhub
-
-- **URL:** https://news.google.com/rss/articles/CBMinwFBVV95cUxQZlZ3WlhmTE1xbTB3TkNOQWVTSGZKdE5zNmczMllhQVNyTDhYUnpaLXpZN3JMRUtSakFUQWxvZC0yaTllWTVaSlNiYWdIcTdkOUtib3k0RG52YXppQ0Y0d2ZaN090ZmVmQWpZalhST240bkhqUE1aZEdOVjdUZlhRYjZsOVhpTE04ZkNvdFAtS24wMml2TnlHMExKWVdQWFU?oc=5
-- **Source:** Sportzhub
-- **Published:** 2026-10-25T21:55:41+00:00
-
-## Andrea Kolbeinsdóttir Wins GTWS Grand Finale in Muju - Marathon Handbook
-
-- **URL:** https://news.google.com/rss/articles/CBMikgFBVV95cUxNOGxEakpveHJoVTRobDhGRlRKTHZKRG56a0NpWGsxUkpCRDhrRWZ4TzRNRlZIR1V2T2pVak9hZl9FOHVCdFFQVGRwUUd0OV9XYng2ZGlKN0EyVFBBZ0dKcFQ5MTJNUnAxdkJZOVA4UXdRUTZDN0poVVNkNVRub01sSXhhaHdUYmxKNHoyNWszaHptUQ?oc=5
-- **Source:** Marathon Handbook
-- **Published:** 2026-10-25T21:49:30+00:00
-
-## New ferry link between Aberdeen and Iceland under discussion - ScottishNews.com
-
-- **URL:** https://news.google.com/rss/articles/CBMinwFBVV95cUxNMXZyUzlWeGpQcjJvUnRMa0JkVzhjbGd1MnRtVVdfMEF0bEdCbE5VVUtuS1ZHN056X1RvSVR0UFBJTmpkdGZPX3lkbDlWTUs4VEpLR3RER2lKV2NGTWo0R1BMQUxENGlFa2t4cUwyRWRfMGRuM3FsWGY3NGFqdlNWdGRES0NtTi1QM2NSV1JsVG1sWjV6NV9XQUZMRE1BejA?oc=5
-- **Source:** ScottishNews.com
-- **Published:** 2026-10-25T20:53:27+00:00
-
-## [STREAMING GRATIS] REAL MADRID VS FC BARCELONA Gratis Partido La Liga de España 2026 31 Junio 2026 - Fabryka Norblina
-
-- **URL:** https://news.google.com/rss/articles/CBMiqwNBVV95cUxPZUV5X1FkdHU3LS1pNU1wVDhfZmN4TDR3M21ZNGRUMFVJMlB6X3BJR3R0X2hLMU1QSTFrUnk3RTNsVENjemw1c1l6LUI0NjV4VmxyaUM4azJrdkdMZ2hXQm56b0dfVzdub2N6NE90c3JISFZGS0F0dFI3TXpKM2tmWnBadzJMd05IaVRVUDJLUUxOemlqeG5DWDBDU0ZHLVVZekI2ZVBkV2hndUt1UnlxVVlXY0t1azJqQWRBbnhGR0pHbHdRV3NzYUtMdzB3YzZwZzlfT2w0ZmkyQzFZV2ZNUVo5WUpyTDFGbXJZaGRURnFnd0xlTk43TUJFTUlEM012bzdJbkh0VkkxY2xDRGdaSER5UmRFakhfdGItcDJaR3RkZzl6WVhGdmE3MDJYWlU5bXcxWDNqYkx3QUdZVC1Ed1BFQTQ4dUpvcGpPcGs1QkVjSHZLbjFyd1gzeHNINWJSRUxFcXZIUGhGU09jeFFPM0VBdElWX0g3eDlJT04xTzlSN1NrSzlvcmVXTmtfNnBkTTI4X2ZLUkxhczFOVnVxSFlvYnp0aDV5dkdF?oc=5
-- **Source:** Fabryka Norblina
-- **Published:** 2026-10-25T20:24:13+00:00
-
-## [¡Ａｑｕｉ ｅｓｔａ En Ｖｉｖｏ!] FC Barcelona against Real Madrid DÓNDE VER LA LIGA DE ESPAÑA 2026 EN ESPAÑA - Fabryka Norblina
-
-- **URL:** https://news.google.com/rss/articles/CBMiwANBVV95cUxQa29ma1FXUmx3cENHbm1oSV9XSWkzc3NjTG9lbmwxTzdSYnJ5bW5WT3V1WlBsWFIzaldMM09nSlo0OGpMaW1NUUR4RkdWM21VbVFJUU9FcFdzdks3S19BejVRSDlDN3VFNlN0R0xIWlRndTBqYXlPSXljRXdKd3NCbU8tSzVPM0xoZUR2cFFlZmxxcVEtMmo4SmZObUE4N2RDekNmNmVjd3F1RktZLWlNQkV2QTBTbmFQMjNieGRsT0haM3pfY1lkTlgtOG9KY0toLXd6aERtZ0JoSnJ3eFNqeU5JMURrN3lLYkxMMGozbEpXN0xyMjNsQlhxMHdXUUlxRlBZYzhuYTgxdEljVTFvVkJXZ3FMLUkzVV9oQ1NTUjVrOFVxS0d4dmZicGZENmZNUEVYUFN4Qkl6ekM0bEVQWGpud0lCTVZEZC1LaFo0eGNURTllQmpZczRQRzVISU84dl9zbkZNYkE3SHJjUUpLVFNTMHkySVJFbUVlM2dOM1pTM2ZaNVY1TmlTQTA1Z0hzLUVKdEo2T3o1NVc2NllMbVlwNTVDeWVqLUFKSG5aV2JPNXR3aDdwY014UVkyNFp3?oc=5
-- **Source:** Fabryka Norblina
-- **Published:** 2026-10-25T20:24:01+00:00
-
-## EN-DIRECT@!!.. Barcelone-Real Madrid En streaming - Fabryka Norblina
-
-- **URL:** https://news.google.com/rss/articles/CBMi6gJBVV95cUxQdGZOai1EN3ZJN2Z6Qi03YTFoWVdWOG1JRTRGei1OcGNrVUdpSXhFdU0zU29aYkJTV19ueDN1VXBUQ0tIUkZGUDg4NGpyaFZaUnVBSThxSHB6UlNrclplNi1CTzBIU0VjNGN2cE5pQUttU3FBb0ZvcE5mTThNOVpuOHBtM25oOGpmQ1lCbG1pYkRPX1lnaWZCeGkyWE53Rkp6WU9UTFVtMGZrZ2E0cF80LU5XZURPSW8yOFNoWGZiR3hwclM4aGlsLVltRHlmYUFBLTRPVS15X29wRDRPcU5OSHpLaU4xZU9kMzNEZGJ5Q2JFdEFraEFzeS1DODdLNEtlbXdlSGhNaGdXWWRXQVFuTXZGUTVSN0lmcFZxV1JscktKRFhWSUJKZGdFczNhbml1ZFlyNkU0U2NYYzY2azRDRlZ1OWI0eUR5WVJ6TTFDTmstREVpWVo4elJQanlEdEE3bHBqZ1Vkc0JlQQ?oc=5
-- **Source:** Fabryka Norblina
-- **Published:** 2026-10-25T20:22:36+00:00
-
-## +++[Regarder-TV] REAL MADRID-BARCELONE en direct Live 25 octobre 2026 - Fabryka Norblina
-
-- **URL:** https://news.google.com/rss/articles/CBMi2wJBVV95cUxPNEI4UmhMcDdkU2drbEYzaUxid25CMDNQT2VTVmVWWFVuQ21nYVY1eFd4UmRycWJRcml5eENqNDJCZ2daemFQemUwcERwbm5VblhuUGp1TkllalpMTVMyVUptbUdYSGNyV19JMGNLLUQ2MEZxWThmMEJwYWdGR2NIcU1peElOOENJQktWd2hUZ2FqR0hDdU45YUxreGFYM1VCNHdfVmNRX3d0YU1KZ2ZiMnB6QWNuR1ptSGl2OUx5a0twQzVZb2RXR3hpZm5qX3g3cXp4d3cxMnoxQS03MzJZZEdjZ2RRMk9VX2NPVnUtSkllUHFlQmFSWmZFYTE4Tlh4UjZndXI3dHpPRk5rcE9qdnRVYXdrQ1NsZl9ZeVdWNWJ3djZBRUdOSDd0WnhEd0tDSWVEcXJUdHZGRkVKc1VIZXJFOGp5TkZnbFY0Y0ZibmdkMGh6R2ZjN0poVQ?oc=5
-- **Source:** Fabryka Norblina
-- **Published:** 2026-10-25T20:22:18+00:00
