@@ -1,305 +1,305 @@
 # NewsWatch — Microsoft News
 
-_Last updated: 2026-10-27T15:45:39.979941+00:00 · 50 articles_
+_Last updated: 2026-10-27T20:28:12.938790+00:00 · 50 articles_
 
 ---
 
-## Microsoft Offers Buyouts to 60,000 Staff: What It Means for Copilot and Windows Partners - Channel Insider
+## Here are all the new features Microsoft added to Excel in October 2026 - Neowin
 
-- **URL:** https://news.google.com/rss/articles/CBMigAFBVV95cUxQNmtIOURzYTd5aHlPZFgzak1CaEJqZ25LaDV0QWRlY3prYzF1eUVOSmFlOVVuZzRrVG4yWENTRkNwT0pyTF82OTJjQW1NYjdQc2ZiTDJWdjlRU282b1lCV3R1RVJwcHhoN0J4RzFUWFNkcEhndkFPUzJiTWxSSGUwRw?oc=5
-- **Source:** Channel Insider
-- **Published:** 2026-10-27T15:40:03+00:00
+- **URL:** https://news.google.com/rss/articles/CBMioAFBVV95cUxPZWdfQVJ0NzdfMGJFRHRWalZUa05sTHhXTkhZeDlGTXdOQ011bHdxbVktYklVTDY5Y3M4UUtwckJfQk4yMkpmMVdmRnFaeDhONUMwSlhmbHJnbHJvajVJMnBPbXNVcFY2Z05HS1pqRnFoYnRkai1hdHByUEwwTkVPaEZSYm4xUHdocGZ6eEw4NnBJeUstOWNVQTJaUGtXTVdC?oc=5
+- **Source:** Neowin
+- **Published:** 2026-10-27T19:44:01+00:00
 
-## Microsoft's Voluntary Buyout Plan: What 60,000 Employees In Four Countries Need To Know - Brut
+## The pros and cons of offering voluntary buyouts to employees - Business Insider
 
-- **URL:** https://news.google.com/rss/articles/CBMi5wFBVV95cUxQYWdzWk9FU2JyRGxOSTNRV3NVWHp1UFphaWJ6bzVxYWpJeThWaVkzaHYyNVVzcjhaN055RUt3ZjJycEx1bUZfTl9Pal82YnRZdzhncGViOF9QN2JhMXdtWG5mVzRmYmExcThURm1peFhJdEFIc1o5Z2gyY2pncXBoa3VFUEFsaHBrbGQ0UTRUNWZQb1BMS2tPNGRNeng3THNLSDFiaWlydFhQaDh6VHZJcWxtV3JraU82QjdRWnRMeTd1b1FBNzFaZWJ6NEhZTjB4UGkyaUxNWEM5QjBVbzU5YXNnQnk4QW8?oc=5
-- **Source:** Brut
-- **Published:** 2026-10-27T15:35:13+00:00
+- **URL:** https://news.google.com/rss/articles/CBMioAFBVV95cUxOcHVld1ZLNW52YXlBQTJGQkltdnZOZXV3dzNUVE1laEJKZnc1bHF3Sm9BTGFid2tuSGdncnBLMzJnZXBRWE5ERmk3WWxNVTI3M3J2Qlh3NEhpS3ZjYThFV2xrM3BWMHUxUjBWdDhRX01RS0JTWlJUZWNaUm11THNQdmV5V19LZkgxTFJ6eVE5TGdzMEtRZk84SmJVOG9fcUVW?oc=5
+- **Source:** Business Insider
+- **Published:** 2026-10-27T19:39:47+00:00
 
-## Microsoft unveils new image AI model, MAI Image 2.7 (MSFT:NASDAQ) - Seeking Alpha
+## Microsoft, Alphabet On Deck Wednesday As AI Spending, Cloud Growth Face Test - Benzinga
 
-- **URL:** https://news.google.com/rss/articles/CBMikgFBVV95cUxQbFpIUnJRQkt2eWdzMHplZERDb0lmSmkwWjQyLTRDamNCNUxiS3pBZ2NxTWlRLVM5Tk1qNlAwa0FDelU3ZzRBSVBZUGFKc3hoX0JnYUg1LWZjakNUYzM0ZlUtZmdiLWxUZnlRUjdJQkp3QVNuVm5kNHFJMWtDQmNyNEtoWGhRVS1YVncyMFFrOTJ4UQ?oc=5
-- **Source:** Seeking Alpha
-- **Published:** 2026-10-27T15:30:14+00:00
-
-## Microsoft pays $95.5 million for Dallas County farmland - Business Record
-
-- **URL:** https://news.google.com/rss/articles/CBMijwFBVV95cUxOenQ3dVlFVlhfZElKZTd2ODByQWo0MGdmS1VFNXl5LXpmWTBqVkZsaGRtaTBqN0o0c0hTR0Q3UHYtQzdidXkzc3FyVVkxM25tRTJzd0dYUUc3cU5UbzhxSHB3clhZanVFOFpQalMwd2JRcGpUd3JMc190NFVwVE1PaE5OMENXcW5xLXVENVFtSQ?oc=5
-- **Source:** Business Record
-- **Published:** 2026-10-27T15:26:56+00:00
-
-## Why not remove H-1Bs: Alleged leaked messages show Microsoft workers questioning exit package amid Green - The Times of India
-
-- **URL:** https://news.google.com/rss/articles/CBMikAJBVV95cUxPb1ZLdnJQZko2Mk9taGt5TWp3aDdyNW4wSUNVNFJZd0xHYll0dDRrN29CWEpnQkt6M0lmbVo2UWx5Njk5UUNDREJXT3ZfVjZPbDlDNDFYLTdUWXNVTXZ6YVkwZHEyLUlqTUVvSjhxZ3RNTy1ZSVd0cm5NWm9CQmlrZzhWempVYkJoakQ4VXZXR09BeEtRWDQteXkwUGkwWDVMT3Zta1pWcnJuZkc3bGhDTS1hZ1FTTTNJRGxiQkV2dU9TdzhlY2RmdTkwekk1ZXZTM3pETlRtN2V3VHgwZXdBVzMyaUN6a1NKcWgyamxHQk1ieVZOQndyRDhZTnlXdEwtYlVHSElIeHBMLWpMX3plbNIBlgJBVV95cUxOZjRvd3V2engzWFp1WUF1d3lYaGlhVTRtRHJyakY2aXlxeUNCUnN2aGozUGppbjRnLUR0UVJWQzNSS1IzWnd5NUcxejdERDVlUWJLOWYzZ3lJRTYtMTF5elZfUEtqQkJqR2wtSnEwaTlqVEdIYmZMa1gtZGU5WlJHXzk0REI2REVCUnhHYzNEVUZybFZ3RnJtcjc5b2tMNW5Od2pTMV9CN1BwcmIxbENNR1lYOG9nVzJBX1VKeG5DdnZSZUtybFBhNXZVeTdtRFdwcFhfME9OVE12aDJVTV9zdlpqd0llc0FyODlLajR2RVNfaXBobG9XSG84TFMtRlZRSi1JTHNEdnVYTjd5S1BDd1RMSWxvdw?oc=5
-- **Source:** The Times of India
-- **Published:** 2026-10-27T15:24:00+00:00
-
-## Microsoft Earnings Will Look Funky - but an Elusive Number Is Finally Arriving - 富途牛牛
-
-- **URL:** https://news.google.com/rss/articles/CBMipAFBVV95cUxOejEzNDNPNVRyZDItVmdETEItU0g3Q0F3c1pQQkduWjU2SzhNaGJlU21PaF9CVzZtUHNxQlRRVHJreEVreDRSNi1NWWFXa3JDMk4xWFZ0TnowZDMtVHBQQXhjTWI4b1dLY195YXFmQnI1cjhiUndvVko2Z0Jic3lhNW03Z3c5eDBGU0F5S2ZFWm11cjYzYUUyS0poWFk3bVhSanJ1cA?oc=5
-- **Source:** 富途牛牛
-- **Published:** 2026-10-27T15:19:08+00:00
-
-## Microsoft Balances AI Investment With Buyout Offers to 60,000 Employees - The National CIO Review
-
-- **URL:** https://news.google.com/rss/articles/CBMiywFBVV95cUxNcURXOGhCdXBGT191UGJETVBsQ0JfSHBfc2NPall4R3VKcXhkR0dVbFA0VWZoWmR5dWJscEU0cnFGbF9hejM4X2tyYVFtYkptVVlBak82Q0hNVFVOME5KeVJKWDY1cjNYWDNZVkZISTZsWmN4SzBtVE0tN1JucG5jSFBFQXR1X05FLU53UEhWcWIwRnZycTNpLXpTVWlxVFpYU2c4elBYT3lheWdvUS1vVjJ4elZfS1VaclJvX0xxeXNHRzdOTVlzSHRfMA?oc=5
-- **Source:** The National CIO Review
-- **Published:** 2026-10-27T15:18:52+00:00
-
-## “I'll probably take it.” Is Microsoft’s voluntary buyout not a bad thing after all? - Cybernews
-
-- **URL:** https://news.google.com/rss/articles/CBMidEFVX3lxTE9MMW4xekpJVnlpM1Q3RjY5d3ZjYUNYQWs5R1d4RHlRMERuc0kxbTBfVWN1U2VfWnVBWVdVbUxGMlFTTHhOMVFnQjVzYVFNamNDSlA0aU5zZFFaVXZpVWxzTEZ0ZU9xbUNyRWE2WVEwZzNfc08w?oc=5
-- **Source:** Cybernews
-- **Published:** 2026-10-27T15:18:50+00:00
-
-## Microsoft Q1 Preview: AI, Cloud Key As Company Eyes 15th Straight Double Beat - Benzinga
-
-- **URL:** https://news.google.com/rss/articles/CBMi1AFBVV95cUxPU0FYT3c2UEIyM0h2Z3pXY1FFbVF4N0hoQS1ka2w1bzN0dVBNOEhNNHFaM2M4VTRRY1U2ZWl4a3o4RzZYckRTVUd0bll3a2NicGJrSWY0X01MM1BYWGZ6XzBTWU1FeDZiMTkwREVadDZsMkhud2ZoMnRGRFAyaVk4ekJSUURoWklaM2drb0VxN09VdEh2SU1EVlZ3OV9DSG5IRkt1ajR3MFcwb1Z1ZlVDOGhjVE9oZFAyMlNmNExhRWxwdDJKTE5lYmR4QldkeUZ4QVBXeg?oc=5
+- **URL:** https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSXhoTmdYcUlPRjFSYUhBQl9JdGdFbEt0LTdmNENmbnlEdHZqNGxXWEwwWmhhTnQ1Yzk0d0FJa3NLdWhYZ3hUSnJneThmVl9tUGRmMlk3TzJLSWVjaTM5RTM2SjVCR2JUX3ZfMVJ4cnJQd216bzNkREJ3bW9MMFhWN051dDlLZkYwaFlJMUNlX3dIV3dkdU90Z3lnYVQ3Z0RRLUkxM3pHTFZkQjNuTDhsMEY0UmNSVktvNU9j?oc=5
 - **Source:** Benzinga
-- **Published:** 2026-10-27T15:13:26+00:00
+- **Published:** 2026-10-27T19:30:44+00:00
 
-## Microsoft Releases Windows Certificate Update After eMudhra Key Compromise - Petri IT Knowledgebase
+## Microsoft Could Swing By $184 Billion After Earnings - Benzinga
 
-- **URL:** https://news.google.com/rss/articles/CBMiZkFVX3lxTE90RUV3TlpKYzh3TkJSajhlbGRNdWxYdXlROHdrb1hzR0RvOUhfTVNJbUxWSmFoT0ZIcnFscFFRTWoyRElYT1B1VXRnRUlzZzI3TVVaODE2amtOR2RBemprRHN1d0RfZw?oc=5
-- **Source:** Petri IT Knowledgebase
-- **Published:** 2026-10-27T15:10:03+00:00
+- **URL:** https://news.google.com/rss/articles/CBMiqwFBVV95cUxNYjJNVGZyMFdZb1VCN0VzX2p2UFROQmVzWU50RmdzemZUX0UtMTZoSVY2S1Q0MTZWcVdsUXlGTlFWYW5aRTNQT1RPMkMteHRab0VtTkFNNXh6dXZkbC1tenByWHRDcXdBM1VqUGdUM293RktGX3pzSTExZFNPb0RDYW5yTzREVjM4aUM4R0FzQmd6UmEtWmRVX0p6U1ZiOUZSVy12d3JCVkdnOWM?oc=5
+- **Source:** Benzinga
+- **Published:** 2026-10-27T19:30:35+00:00
 
-## Microsoft Teams is getting a suite new AI features to crack down on phishing attacks - IT Pro
+## SSOJet Releases mock-idp, an Open-Source Tool That Simulates Okta, Microsoft Entra ID & Seven Other Identity Providers - The Des Moines Register
 
-- **URL:** https://news.google.com/rss/articles/CBMiwgFBVV95cUxQOUdaY3pXbzNFNmpvWlg3NGJ3TGFvbjNydF83QmZoVUQ5UDE0TWRTZ1R1M1ktaGE1ZVlsczVocXRPcS04UnJvWURaZjRNaTEzTm1rSncxZ3ZaWjNQRE40WlFPZ0VKMzdyR3NaaFVkRmQ2cGtBaDlDamNQdGV4ejVJdl94amlMc2lYT2NUaEw4THV0LWlwRTJESmVnaUZuaURZVko2ZERwNWx3QnRGRVpXdnRLLVdRRHpJTU1kcTNfS2NxUQ?oc=5
-- **Source:** IT Pro
-- **Published:** 2026-10-27T15:08:57+00:00
+- **URL:** https://news.google.com/rss/articles/CBMihwJBVV95cUxPZl95VHVLbjlvZ3JZYnNEOTg4RTZBZFlLVkJTR2NuQzFwUXcwV1ppbERna0c2akRwckZZRlRtS3c4LWxxSjhlVXNkT0hEajZtV2pDSlhfRFdhWWdRVFhhU3ppTHhYczFwZkhSeWpTVDQ1d2JpazhuTnNDcEJMRWQ2ZTJzTTg5MllfOVN0dUhCQUJ3LW50Q0c5RFdKRHZiTVVhcXhoSXp6SFVUVE9TSUh3RFJsaHFpMGNoRi1qR3BJbWs0YzA0ZUxpQVBYUVdydVpyMTFXdUpfeFJJX2xvektQX1ZXaktDbXc4OU9henk0dnZwX3RYVzRYTFlGVEktZ21laDBFUFF2aw?oc=5
+- **Source:** The Des Moines Register
+- **Published:** 2026-10-27T19:19:15+00:00
 
-## Microsoft Wants Up to 60,000 Employees to Take a Buyout and Walk Away - Android Headlines
+## Microsoft and Skydance announced buyouts. What does it mean for workers in a 'low-hire' market? - Yahoo Finance
 
-- **URL:** https://news.google.com/rss/articles/CBMitAFBVV95cUxQWWYwVV9DSmVVRU55SXA3Mnl3cFF6alRfVEpsZ0ZkcWhMMWZ6VVp5LVF1dHFhbVVnYnZuMHdpczFCV0s1YW14VF9FWFBld2ttc1cwd1dLSW1zdTZBb2pvR2hVaC0zRWtzVG1ZbkZZYnRiVEdTQWhFR1NJVFBLWWZrRHZnN2NoeTUzS29mM3NKN190WFBxSi1MWDc3NlVjQl9UeGxTTjFWekotUGdrcW51YzUtckI?oc=5
-- **Source:** Android Headlines
-- **Published:** 2026-10-27T15:07:23+00:00
-
-## Microsoft Fixed a Major Authenticator Security Flaw - Thurrott.com
-
-- **URL:** https://news.google.com/rss/articles/CBMinwFBVV95cUxNTXhtMXdfMzQ3NldBWHFPclRjQkkzV0toMy1acUdNRXJ0S0dhaTczLUhVZUg1ZFhDclIyMExTX2Nmck01MGsybVJRUWJoeFc4cGFKTGpwRW16cDM0SFhnTzVPdFNhNzFheTBzVmRHaWxWYm1zVWNra2ltQU92MGlDOXQyZWIwWVJ1b09zS3o1ZFN0NDRlUkx5THRCX0VpbkU?oc=5
-- **Source:** Thurrott.com
-- **Published:** 2026-10-27T14:59:10+00:00
-
-## r.Potential Appoints Former Microsoft Executive Paul Maher President of Ecosystem Partnerships and AI Transformation - citybiz
-
-- **URL:** https://news.google.com/rss/articles/CBMi6wFBVV95cUxOc1RiZFpXWTRfS215cEdqLXRVblRYUTFIQ3JqcFJzZXM1QkdOZm5vSGNKQTg3RUVzUlBPd082YmZTZlA3bjJYSUdKb0VlTnF2MVdIUGlkbXFEQldLNjhkbFhXTWt2dTJDdWhwdWZQZnZGaW1WaVFDLTF4RklwdW1HQWVyVFdick9tTkxfVTNFd3lvenBxTjVuNjBGeHdYdUlhMF9rS2FzMzRFb0otblotNGVkcEFaQTUwR3dSb2NRWWdWeGFrWjNsT2paZmZyMm81T1pxMV9GNVI5WUMwLXVwLXZkZkVBZDlSbEdN?oc=5
-- **Source:** citybiz
-- **Published:** 2026-10-27T14:58:29+00:00
-
-## Microsoft earnings will look funky — but an elusive number is finally arriving - MarketWatch
-
-- **URL:** https://news.google.com/rss/articles/CBMiuwFBVV95cUxNOWhkRDNYdTF4UEVvU0ZUTGxjYTF5T0lvTENBWGpHU3Y3eGgzeWQzOXQ1bVpESV8td2hYcHhxSXgxTEgxc0pydndGd1dDNko4Q0hWT3RfN1BHb2MxNXUxeXFBVVVoZDhIZENzejJ6UEJSajhUdnZlcmNZbFhldW1idFY4S0taSUxOeEJmUnVXVXNxd01NWVI3RC1ER2hubEZZeDBtZWJoZDZ2MENxREtpbVVUeFJaVlh6c3pN?oc=5
-- **Source:** MarketWatch
-- **Published:** 2026-10-27T14:53:00+00:00
-
-## Hackers Abuse Microsoft Teams External Chats to Access Corporate PCs - Hackread
-
-- **URL:** https://news.google.com/rss/articles/CBMieEFVX3lxTFBNODdpS2FXdXJwSVRtandVd3hxOGZUb3VJTDI2UGtxWjNXOWZEMUFNaWZhaUVlVENXQ0VnV09TSU0tV2x0VjNieUFoVXhxUEtselIxY3JzdVk2M2t6TjdTM2dfc0JBR09kRWk1bFlqRGxiRXZsY19MTg?oc=5
-- **Source:** Hackread
-- **Published:** 2026-10-27T14:44:26+00:00
-
-## Microsoft offers voluntary exit buyouts to more than a quarter of its existing workforce - Massively Overpowered
-
-- **URL:** https://news.google.com/rss/articles/CBMiwgFBVV95cUxNMjU0YmtlT21kQW9LUWdRM0JBSGVwcVRvbER4MWxIUjBwbC1JVUdqSUhKSnI0SjVRVUFydEFxS2VhWkpxYk5mOThqYk5Jd292ZjNYNjRlOExzbjNDSjdIWTFhcC1sejlKcmRXdVJzRnhHMFZjM28ybGpmemZnQ05kem9IT1d2WVEzYmNIMUZ3M3dLNEhRWkw0X0xzdDJlbkVkSWRlV1dzUDRFV292dFlrNTNncjN5S0cwU1ZwdWZhdmdVdw?oc=5
-- **Source:** Massively Overpowered
-- **Published:** 2026-10-27T14:30:19+00:00
-
-## Hackers bury inboxes in spam then show up on Microsoft Teams posing as IT support - Help Net Security
-
-- **URL:** https://news.google.com/rss/articles/CBMinAFBVV95cUxPelVKTlhFSFdFQkJJd20xcWd5NnZDZUdBVUlxb1p6S2lvME5GeVJtT1RteXRiSmxCQlF0MDlaOWg1RTJUbVZ3WndGM0dzbTdHQjd2dk05endSRG5nOWM2aFNyNElYLVpQbGt5THhOcDdDS3VCQ2J6alBMOXRsc0tVeUxhLXlaeTBCRW9DNUlQczI4aEVaX3p6b0dQbGQ?oc=5
-- **Source:** Help Net Security
-- **Published:** 2026-10-27T14:16:43+00:00
-
-## Does Azure AI Growth Make Microsoft Stock a Hold Ahead of Q1 Earnings? - Yahoo Finance
-
-- **URL:** https://news.google.com/rss/articles/CBMimgFBVV95cUxNQ1BMZi1wM3FuNmNna25BU21aV1NsR1g5ZzR0Rm5zZEgtWlgwX1NxeU5mLUhsZU1SalFnXzhQUURMZUFleWhwXzA5bGpYM0pyLUNMTnBaSC05UGlOVTl2aVotVUtJRmJKdDk1dGUtMUZhUFRGMWI4SE56ekV4TGdQcjd4b0JocFRwY0ZvMC1ybUZUWGFfeVZGOFBB?oc=5
+- **URL:** https://news.google.com/rss/articles/CBMi4gFBVV95cUxNTnJfUHJXdDh1LVFMQmQ2eGg3VTNWYk04bHp3dVM3ZDc3d2ZRdzZ2T2pMa3I0U0wzd2hyRFRiSWtVNzNOMmFPWG5sd0QzZWx3OVlobTdyMURUa3Q0cXIxOFkwUTRsSjB0YVNYeWNZb0ZWSU1keGt1WW9Odmc5Si1HZDlXNm1nTExoSGpYWkhvMVM5S0ZCOVVRM3oyYVRhdFdWcUJIZzNvaVJXc3lScjVZUEo1LVc4djY1bHAtS3FfMXo4NzdxNkQ1UGxPV19LSXdBYzhnNTBxcWFMQzd3VXI1bWFR?oc=5
 - **Source:** Yahoo Finance
-- **Published:** 2026-10-27T14:15:00+00:00
+- **Published:** 2026-10-27T19:10:21+00:00
 
-## Decoding Microsoft's AI workforce shake-up: Are more layoffs coming? - Yahoo Finance
+## Microsoft offers buyouts to 60,000 employees amid AI investment - Mashable
 
-- **URL:** https://news.google.com/rss/articles/CBMisgFBVV95cUxQYnQwamRKeEZ2bU1ISk1femx0T2hzQllzUlNHa3BzZlBpNHMtVWRmcUQ0Tk03VW1QWU5BNWRZdE9GbTl2WmRuUmUxWUltWFAtWFVjSFRWTTRCcXJMUUtDY2JNcEktU2x5Z0FNZFVSUUpQaHZ4QS1DbDdwR0ViT2RpbHM0TnU2a3Z4V0p1cTQyMzI3Q3piN3NhZGcwMk9OeUdiQ1FtTjhlOUw5T19BUHRKQkd3?oc=5
-- **Source:** Yahoo Finance
-- **Published:** 2026-10-27T14:07:38+00:00
+- **URL:** https://news.google.com/rss/articles/CBMia0FVX3lxTE9hcEdkSTR5MEx3UUQxbmpDVlNfTHdmTkl3eGlvbTBMMnlabnh4RW1ad1ZzY0pGbjdXaFlfc2dCV2hyQm5RT3UwN2hnWkU2ZURKbWdKLU50NVZ6dzgyWUF5TWtabkVZMFRPQXZB?oc=5
+- **Source:** Mashable
+- **Published:** 2026-10-27T19:07:30+00:00
 
-## Xbox Workers Are Eligible For Buyouts As Part Of Huge Shakeup At Microsoft - GameSpot
+## Microsoft offers buyouts to 60,000 workers amid AI expansion - ABC10
 
-- **URL:** https://news.google.com/rss/articles/CBMirgFBVV95cUxNSVc5OWp4OFpaUWNpbGpEUnpnRExvZktpQmtkazAyQXI4N29LRU9DLXdvRjFJbVlueGtDWHhwNjVVNHBZS2phSUZxVndfbUFzeWlhTlRCRzl2UTR2VF9sR21iY3lpZDk2U2FSdFZlRnNlaW93dW8wZU5FamQwYnBBaVlQWUZjd2tTVVphTXd3RVczOEtYQWpOXzBvMW5pY1FuN2J3Wk5KYXg5TGZfcGc?oc=5
-- **Source:** GameSpot
-- **Published:** 2026-10-27T14:05:10+00:00
+- **URL:** https://news.google.com/rss/articles/CBMizgFBVV95cUxQbDJhRDkzSWpRQy1TNENpVFZ4WncwRUljMDduQnI0QnMzOGdQT2tDN29neWI2OHRtVGJzMjVFb0lFZVEzZEFkOGRNMmZWcXRzdkdhdVlDdE9IOVhlWVJVdlFwanRUcEVSY3pGOGFoMFJHM3hYaWdLZGNILUw3QktEVWlVWmRXMEw0cXIySmFEbHFlSktma1NKdzUxbnRWUnB5c1FaRkFPbG1VV3Rsc21PMi1xQWY3a1FYSzNreldDbElaeGRfbWtDUWlrUngwZw?oc=5
+- **Source:** ABC10
+- **Published:** 2026-10-27T18:57:00+00:00
 
-## Earnings season, Anthropic IPO, and decoding the Microsoft buyouts - Yahoo Finance
+## MSFT Stock Alert: What to Know as Microsoft Offers Buyouts to 60,000 Employees - Barchart.com
 
-- **URL:** https://news.google.com/rss/articles/CBMisAFBVV95cUxOLS1SSnhUTmVBNFJERnVhaVhCV2ZZNUZyb2FJTzlZYjlZak9DcTZsaHFsVTI1MW92SC1VSlhZWm16aFRFYzNlTTdwWTRPYlk0SXozZ2FjaDVmSTlTOFduLUc5cDl5a01oRGVzTlVLNU1kcWR1WmVXdHYtdUZ1WHoxcFpLcXg1RHZwQ0hRLXIwZlBhN3Uwb2FOWjZNWmdDbDY3TTM3cW4yWVhkRWFpT2UtSQ?oc=5
-- **Source:** Yahoo Finance
-- **Published:** 2026-10-27T14:02:47+00:00
+- **URL:** https://news.google.com/rss/articles/CBMivgFBVV95cUxPQzNBMDZvRWNDVkNqXzBUeC1jYWtXSVRLVTg5WkhjN3hCemY5TzE2WDVweGo5NU1KTXpOeHlEbjRnczM0Y2JyMFVBZXB4S3kyVnIxZDdhWENYb0tlNG13amx4RUFnakowVFJwZW9KUHBBdnVXdmdINll6TVZIYWZlVGRnaVF4N3JTbG41bTFlSWtmcmhkaVdVWE4xVHpaVDAyQUlySlBrY3pxenk5ZlJhNXM5MWo2N3liVkFtVF9R?oc=5
+- **Source:** Barchart.com
+- **Published:** 2026-10-27T18:55:31+00:00
 
-## Azure Growth and Enterprise AI Adoption Drive Microsoft Corp. (MSFT) Higher - Yahoo Finance
+## Epic and Microsoft Target AI Game Clones While Using AI - Gadget Review
 
-- **URL:** https://news.google.com/rss/articles/CBMiogFBVV95cUxQbW1JZHlpTVNJWVhuLVBaRnJuR0luVVRHaXhqMFU4SDdxeWVzZVNEZ19QWWRVWkF1R1IxcVFWcWxyRmlsRnM5ZlFZZ1RnSGduaTBBb3VGT3FiTVFVcTJOYVZIRm5OZnJOakhzVEJPdGVtM3d6dmdDYmlRd3pUcjgxVnlwWFNjYngyVVZIN3ptS05KMEs1cm1WQW5NdjNLYjJqUXc?oc=5
-- **Source:** Yahoo Finance
-- **Published:** 2026-10-27T14:01:54+00:00
+- **URL:** https://news.google.com/rss/articles/CBMijAFBVV95cUxPUzV2eXptOVdtVkc4dUg1cGVsUXl3R0NKeWNrZlZ0WUU0Y2lGT2FkRy11QmZISHRQeVB2TUpHTDZWTnR0cUNJS0pIYmJGbVJuNU5EajhOX1dHZFJCaktzRzBRbFY4dmJ6Y3laQU03aWRYU2pYTDd0bmRpeUZlMEJaSjJPVjdRLU5wZE4xNg?oc=5
+- **Source:** Gadget Review
+- **Published:** 2026-10-27T18:34:10+00:00
 
-## Microsoft’s buyout offer to employees shows which tech jobs matter - Semafor
+## Epic and Microsoft Target AI Game Clones While Using AI - Yahoo Tech
 
-- **URL:** https://news.google.com/rss/articles/CBMirAFBVV95cUxNYlpLVElmV1RTMUUzOW8wV1kxbFNjdVI1X0tiMGc1NVluZWYzU1AtMzYwYU1Yb2JLM3hsOGhDZXNIaGpMN2RjLTZsUkhIOTRHMUFGdS1mR090YUhlaWxYd3ZzaU1hTlMzTlgzRVhobTlQWkRiejEwV1oteHhUemszRVBmMTVQbDBOLUpqN1NQdFZEVUl2dUF4VGE2VFdJdWVpVmd2NlYydW5vMmJl?oc=5
-- **Source:** Semafor
-- **Published:** 2026-10-27T13:55:00+00:00
-
-## Microsoft offers “voluntary buyouts” to 60,000 employees, including those in Xbox division - Game World Observer
-
-- **URL:** https://news.google.com/rss/articles/CBMixgFBVV95cUxNZHR5c1daM1UwbXdRTHBEbmh2NFQ3bUFVV0ZIZWt3VG5QTzRZcDhXc2NSMmVHT0lnTmcycm5XS1l2T1BLUnoyZXAzbXpCdlZkN2NvYUw3Xy1NTTJEaGVVNW9WaXBZSDRPbjg5cnBjN3NuVjFib0RITmdJdERkcnJQcnl4QVdPaVNuQVhJOHMzOWk2djJ1YngzdGlRRHRwQVdVLU9TVTd2OTZuOVBqdGpfVzlGc1Jnalo0bjJpUHBCb3ZFTllDb3c?oc=5
-- **Source:** Game World Observer
-- **Published:** 2026-10-27T13:50:55+00:00
-
-## Microsoft to Retire Defender Advanced Hunting APIs: What Security Teams Need to Know - Petri IT Knowledgebase
-
-- **URL:** https://news.google.com/rss/articles/CBMidEFVX3lxTFBYelM1TGN6Wnp1RXJVdTU1Tk14QWdHdHMyX2k1QnRqTkhIanhxTjhkZXVYTlFXSnpqRkRXMUdCRkF0ZjYyMEJjNTlaOURRaHRzNGRySmVhU2I2eFVmblZsRFUzNl9uOEVoaXQ4bU9PZllXdTB0?oc=5
-- **Source:** Petri IT Knowledgebase
-- **Published:** 2026-10-27T13:40:48+00:00
-
-## Microsoft Issues Emergency Patch For Critical Google Algorithm Flaw - Forbes
-
-- **URL:** https://news.google.com/rss/articles/CBMivAFBVV95cUxPYlNRbk9pYTlnNXRTNWdQTG1tUkUxcUt0UldCVTFCTzR4QVJLYlE1NDBrTXhrek5KY1ZUZ0dqM1p1b1RGRTJpdWg3dHQwX0pvS09iMlNpMHBGR2pqX3JCYnhJYmx1NUR4TVItdmNQRExET1R1M281Nm5fUzlwTlY4NE1nUV81dHBJdkx2ZDNmT21JcmxvUmVwOHJiU0hrd0NGdk90MThxRW9reTVGc2p0eVBGUjZHdDYyeXdEZg?oc=5
-- **Source:** Forbes
-- **Published:** 2026-10-27T13:39:00+00:00
-
-## Why Voice AI on Microsoft Teams Is Harder Than It Looks - CX Today
-
-- **URL:** https://news.google.com/rss/articles/CBMilgFBVV95cUxNWklscVlIbVAxLWVNamJkMmZ1Y1J5VG1DcGMyZ0pZQWRQM3lFMVJSZDJIeUdhQV9rYWpRQXNrN1ZVYUJseS1FOG5XQlpjZzZ4elNQZ3dEekwxSFh5Nl9BbGRXc3AxaXM3S3JsMmVMNTlfUjRhQlJlZ0t6SHNlM1lGZVIxdFg3YXBDOVg2WEhteHM5eFpLMkE?oc=5
-- **Source:** CX Today
-- **Published:** 2026-10-27T13:31:12+00:00
-
-## Microsoft offers voluntary buyout to 60,000 employees - Yahoo Finance
-
-- **URL:** https://news.google.com/rss/articles/CBMisgFBVV95cUxQNWlMcnRsRmpDZ2dvdUJwSHozZVJYZzVMY21SakNwd3ZKWUFMX25xX19wVjVUQnh1NkllWEN4RjZXYTVMR2JUVEoxczlfeVRlbGRpY2Y0bDczYUotQXJacVJHNS1FT0FfTXBFVXRPNGk3VG50SGszb2c3MHNvQnRHVE5BcHBETzc4dFVzaU1GTm5oMTU3X2NOUElCWGxNa2tjUGVpVk4zUGRXSi1QMGNsRVln?oc=5
-- **Source:** Yahoo Finance
-- **Published:** 2026-10-27T13:27:20+00:00
-
-## Microsoft earnings: Options traders bet on $555 calls while stacking $460 puts (MSFT:NASDAQ) - Seeking Alpha
-
-- **URL:** https://news.google.com/rss/articles/CBMiswFBVV95cUxON2RFMW14bGpEVzdfZVJ6M0xpOEdxRUVkZG9hSEcwR3BiVWRVbTlYbTR3OHhpRGlVNmo2bTVJLVN3UC1yV1F4R2ltVHVYRjlPdlJxNHd2aWdGVjI1LVFHY3lZdm1lVkVLUmM3ZGlDak82THFEdlZjZnhPU0MzdVRyNUx6OHBjaEhrUmJJMGIyZkhKcWg5TjJORDBzSklvTzBGc0hKVFdLaEJRR0UxdWN0eEVzbw?oc=5
-- **Source:** Seeking Alpha
-- **Published:** 2026-10-27T13:21:32+00:00
-
-## Microsoft Launches Major Buyout Program for Up to 60,000 Employees - Evertiq
-
-- **URL:** https://news.google.com/rss/articles/CBMiowFBVV95cUxOVG5UQ05LbEFHbHJhTWxoTDFhRDNuQ1daSlpZSW55Q3hlY2lqUXdtWjBSSHZCaWFxTnU0TjhnTktwdWFOTXNPRE5JT1oydU5uLW80czVTcUdFejgxdkNremdUMWM2RHh4cmF2ZDJHNzFwR2ZuUzIyWEU1X2o4TXpGYzFSMEVDZHFFa2xfaHBEWWFvWThtcllkaFRPanpfVFZWaE5Z?oc=5
-- **Source:** Evertiq
-- **Published:** 2026-10-27T13:20:00+00:00
-
-## Microsoft offers buyouts to 60,000 employees amid AI spending push - Gulf Business
-
-- **URL:** https://news.google.com/rss/articles/CBMipwFBVV95cUxNc2N4ckpQVDkyTk1fcjhQaldFUllyWmtDVk16OTZsLW1WOFNIbXB5NkJiY0dRS3hBR0dpTmMtT1h5cUNQSzlpTFdvM3lPOTlVNzR1LVN4bGY5SUhvc0UwalBVMWZpRWtMak40MkJ5b1I2VHVxSDczYmxBLUU0ZXRwSmkyUmt0NVFoMktzSnFiYzJ4bVVNRzI4NXhNM3o2ZDB2d3FkUlhzbw?oc=5
-- **Source:** Gulf Business
-- **Published:** 2026-10-27T13:18:37+00:00
-
-## Microsoft offers exits to thousands, including employees on AI and Copilot teams - Computerworld
-
-- **URL:** https://news.google.com/rss/articles/CBMiygFBVV95cUxOQ1A0aERBTW5yeDd4OFYyNVlHdVpTbFRqdUFTZmtaV2k3R1UtdGdLRkJHT2hibDVRVGJOWDRERWoyX3hnQkZjbjJkZlFaUk5SN25mOFB0SHFoNnNDb1d3REZuaDZHYmNMaFNSd01aMFJqVUMyNFlpTG15TmZnMmE3bUJabkRLUWNtNmhial9aY1g0Y2pHT3RvMWJaSk5OZGZmU0VxcldpeGIxVTFCQzZ4eE9zaUhITk5Vak5Od0s3c1pobDlPUzlJMzl3?oc=5
-- **Source:** Computerworld
-- **Published:** 2026-10-27T13:17:06+00:00
-
-## New report slams Microsoft for leveraging "dark patterns" to force people to use Edge - Neowin
-
-- **URL:** https://news.google.com/rss/articles/CBMitgFBVV95cUxNeGhuR2owdVJUMmROdEhRQk80OEtkRDlsNHlDU3MtZFZiQ0gyMDd1enU4TXVwSzZXNTh5MkVXa1l4WHlwdi1yTEduc1dXV2pwZWs1UVJJR2JWRTRUMWlHeG81dDdmTTdBWm43bTRTd3VLWHVIbDlIbkh0Y0ZYc01jd0swNXRBZWYweTctMEdTX1NScWJ5cGN5YTlaM2p4SjhzZGJ2TkRlSkVhd0gwRUNmN0ZVQlA4dw?oc=5
-- **Source:** Neowin
-- **Published:** 2026-10-27T13:06:00+00:00
-
-## Microsoft is offering voluntary buyouts to about 60,000 employees, a quarter of the company - TechSpot
-
-- **URL:** https://news.google.com/rss/articles/CBMirAFBVV95cUxQQzVKUnQzeUh6TXFGYTZsc19RNV8xVUZVQXY5LVdWRUtjMFNka2t2N3hsX01ybjRZOVhxNnFHamdvYzFVOWZRRm9HNDU1eDdRZXZTdmhycFNOZEFQblpyMXFvbU1IUzBQS2VnbWl1T2prZlhiaTZhdW1kMFpLN2tmSXg5WXZYMGJjaGVaekdlZHJlcWFMa3dZOFVta0ZPaWpNREg5SDZyMUY0Qk9H?oc=5
-- **Source:** TechSpot
-- **Published:** 2026-10-27T13:06:00+00:00
-
-## Microsoft offers 60,000 workers buyouts amid AI push - USA Today
-
-- **URL:** https://news.google.com/rss/articles/CBMitAFBVV95cUxNVnpSY1hqT2E1Z0tqVFVKSl9HRFVNUzlySXlKYkZYY1lrVjd6MmZ4MGVLeDZFQ0pOWEl2QWF4Qzc3M2kxcWpabkRYd2hzaHRmdjdaMEpGd0JKR3dqT1BMcVZ0ekFoUGpic3dqMWl4cVZYdWdqbVljMmVWVlo0QVNGMmY0aXY2clI4eEhpeWhSWkY4MDB4YWJTdFBkdDdGMkpJSnNUdXZvZUdmVUd5a3hVMGZpb1U?oc=5
-- **Source:** USA Today
-- **Published:** 2026-10-27T12:58:36+00:00
-
-## Windows 11's latest Microsoft 365 feature walks a fine line between useful and advertising - Windows Central
-
-- **URL:** https://news.google.com/rss/articles/CBMitAFBVV95cUxOdDF4dkVLbW1Ubktsbk1OdG4yTXBlY1AyZG52YW1PLXAySnpURTI0ZlNnenZzZUhrbndUaVdvVzFhT1ZRNzBuTXFLaTQtU0xNWnBSdmNSZl9IUDl3Q2w0MWVCczRHeG85RENrSzhLUGE4S001REpHMk1ISjl4R1VBYVBnQTBVTE1EX0c4aGM0MHVSeHRWSWthOE81MUhwSmFjdzM4bXFpZ1lrM3lYTE1QRFZlMG8?oc=5
-- **Source:** Windows Central
-- **Published:** 2026-10-27T12:56:01+00:00
-
-## Windows 11's latest Microsoft 365 feature walks a fine line between useful and advertising - Yahoo Tech
-
-- **URL:** https://news.google.com/rss/articles/CBMikwFBVV95cUxQdXF5M3ZULUFhWkE2MEQzZTlHdFhsb0dQMG1KQ1BnQ0hMX1pIVlJGUVRNRk5yZ2tvM192OEU3S1hscWRfZGFiLXlQcVNaSE5GNDd1TV84TzE0ZWJrN3RORXpaQ2xydlJRMU1ycHZ3TEZicFYtUVpsMlQzaks0bktZRnV3ZThpSEQxTVhtSm9sRFZBTFk?oc=5
+- **URL:** https://news.google.com/rss/articles/CBMiiwFBVV95cUxNeXpXdGFNVUNYMWMzcmwwWGhUMnZkZjhyZlN6YnN3RTVJT2ZWME1uTnByMzNmanlHM2FjTlBMeG9vRVlKTFdqZkRHTER2WXBaWWRuSFdDMS1ISXNfRVBNWEhOeW55WEp1UG1wa0tBXzV4LWNaWkZZTFdNcFZfeUdXYThxTndkYVNuRW0w?oc=5
 - **Source:** Yahoo Tech
-- **Published:** 2026-10-27T12:56:01+00:00
+- **Published:** 2026-10-27T18:34:10+00:00
 
-## Oppenheimer Revamps Microsoft Stock Price Target For 2027 - TradingView
+## Microsoft Teams Will Use AI to Detect In-Chat Phishing - ExtremeTech
 
-- **URL:** https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMklyLWM3X0tLb0NSMXYweDl3bDRfeklMcU02dnd5Q05DLUZfc1ctRzBkcG0yTVRGbmdhR0c0N0dIb1VoX1NLWUpJekVhWHBsOW53RnpWNEZ3TjVyM1BoUkFtZjRJbWdMNUtVR1NyV0RlWUpoNWc5TFNNUTlDNDV2RlZmSG82emsxbm9pQy1QNy1mNnFnWkpHb3JwT2dmckpSYmNlclZsdk00Um1paTZ6bWZmWjRVTWd3?oc=5
+- **URL:** https://news.google.com/rss/articles/CBMilgFBVV95cUxNRmJqWndOcHVxTm1lTV9UOGUwYWxacWtBLTVFRHZMV2JhNzU0dHRDdTZCRl90S0ZxZ0lmR0RXUF83djdQbWIwQVRQLVVFQmx6cTJIRVNuOXY0VDhLb2VpQzhwM2NIT0pfMWo4bEROT3dJNlpfemFnQUUyRHVYWnBmUUxQZlBYNGh2LV91elYyVW90NGRRTHc?oc=5
+- **Source:** ExtremeTech
+- **Published:** 2026-10-27T18:32:48+00:00
+
+## New AI Classroom Toolkit helps students decide what to trust online - The Official Microsoft Blog
+
+- **URL:** https://news.google.com/rss/articles/CBMi7wFBVV95cUxOTm9YV3FveEZGaDg3TW1raENzRFc3TTNFZEVtTHFSVmtYYTZILVdjNW5iUVRoeEpEM0ZVTXFDN1NadHl0N0NpejdhckVPMjJsNXh4TkhOR18zbUJKQkNhXzEtWTZad29kMVpBcnRsQkFDdGYtQU8tNGZyODZfM3U1RFlwT3FqT0RfX2RyNXhmNFIyTTdOYmgwY1Z3a2RjU0Z0X0NmLUZ5Z3NpLU5FVmhmZVNSM0stdnNVcVZ2MjRGLXdhdXlPcGtfS3FoM1VfZWJtSi1HdkdnSzN3NmFLV0VqRURfRlBnODB2YlpyT3JXSQ?oc=5
+- **Source:** The Official Microsoft Blog
+- **Published:** 2026-10-27T18:32:33+00:00
+
+## Microsoft Earnings Could Trigger 5% Move as Options Traders Brace for Impact - TradingView
+
+- **URL:** https://news.google.com/rss/articles/CBMi0AFBVV95cUxNS0dZaU1FNHl3bDJpSDhCQTViNUN6Q0p3RFNpOFJPeko5NC1XRkU1WEJSQ3llRnNWdUFTckt2dGNJVkthclhqd0Y2Zno3TGtlamhKLTlvU3ByWTlUYkNwMjVibGtWdTU5cWIxNnJyRGpvNzBVQXVVUmpqZC1odnBOMHJSOVpPWE91V0w5cFJpb2RJTVJJdm9SdGdPTlhPdGJ4VUo1Q1RnNGhvNGQzR3dSaWFsandrU0NKVXN1RENoZnVTYzJXZmJjV29SeHAtNlVW?oc=5
 - **Source:** TradingView
-- **Published:** 2026-10-27T12:52:05+00:00
+- **Published:** 2026-10-27T18:28:00+00:00
 
-## Azure and Copilot Reacceleration Reinforce Microsoft’s (MSFT) AI Leadership - Yahoo Finance
+## Microsoft Stocks Edge Higher Before Azure's New Disclosure Test - TradingView
 
-- **URL:** https://news.google.com/rss/articles/CBMisgFBVV95cUxOYVZFOW9xRzZMN1JXSzNHLVZlU3pfbllDN2E5THFwcjhDemxPR2h5Z0YtUGFyQ2RheUpDTHh0S1ZWUFdjWVE3Z1ZWaUx3ejUwNEJZQk5kdUI2QXVNT0VjZHVpa3RJeHQxNXF0MnJjM3pBRzk0OVgwLWM3eEpScDZiR2FPVVdlcjUxZWtKRUlYOWRzeHFCVGVMd1BaNkp6UnhkWEtkeWM1a0NuX1dON2xkRlln?oc=5
-- **Source:** Yahoo Finance
-- **Published:** 2026-10-27T12:48:52+00:00
-
-## Alphabet vs Microsoft: Which stock has the better setup ahead of earnings - Investing.com
-
-- **URL:** https://news.google.com/rss/articles/CBMizwFBVV95cUxOdHdXVGFGdWVBdHd2Nl9rbHRhZ1hyalhaMXVPbEJCU3JMN1hXTUlRYks4b0JnQjhZTVpVbklaQ1FIQmI0andUTnpETEZLQmNFM1dmYkV4QUVkVUliRHRCUGIxSnZvb3lmczQtMXd4MmRQV0IwdnpvbmlYa1ZDbHlJdFVMX2dEX2Fpbmw1RnBLRUZlRl9ocTN6NzVjbTdMcGFTcS12SmFuSlNMeHo5Z1ppbEx6aFVCQkpuUDdqZ0VheDREOXEyQ0VGYkwzTUJVUWM?oc=5
-- **Source:** Investing.com
-- **Published:** 2026-10-27T12:47:01+00:00
-
-## Microsoft Teams to use AI to detect phishing scams hidden in conversations - The American Bazaar
-
-- **URL:** https://news.google.com/rss/articles/CBMipAFBVV95cUxQV0M1X1d0TmwzYmp3THUySjI5M3RTT29Od2NZMXFENXlFenRsV0NFTkRUenBwdklENmg4OW5PSTlDLWhfQmZrM2h1R2dNQ3dZR2kxX24yaFZtSkVDU2tDMnFhaFZ0ZlA1eGhLQlFqUlJUTlF3NHktSnZ1SVVFMDh5WF8yZVVzSTdjNFdpY1pSVEc3V1BTTmNReUV0TWRnRTdYODQzTA?oc=5
-- **Source:** The American Bazaar
-- **Published:** 2026-10-27T12:40:21+00:00
-
-## Node2Shell puts Microsoft and Node.js on Brotli patch duty - CSO Online
-
-- **URL:** https://news.google.com/rss/articles/CBMiqAFBVV95cUxObmlnUE9oUEFtZUpzZXVydjlrVE5kRmNhcl9yZHpoSk1aNVZzb1lZTm8yVU9uRzZzTDJTZW16YXZ0ZFd5dWZjR05ldUxCSE9VOHI4UTA0R1pYeGF1WUZnZFFsc2NiclJiUmJrZHgzUzl2UkE2YUc4TTVrM0JpQ2JlcVFSTTktTGN4R3ZvQnpyZkNhcUpnaDR1QlhURzdHRHd2TWlSTGJxZFU?oc=5
-- **Source:** CSO Online
-- **Published:** 2026-10-27T12:35:32+00:00
-
-## Microsoft releases out-of-band Windows fixes with certificate updates - The Register
-
-- **URL:** https://news.google.com/rss/articles/CBMiwwFBVV95cUxQemdETHFMRDF1MHc2Ry1LV21aQmQ1d1AyRlhDLUJVaTkzZExMZm52QTVjc3B0b241V3pnandmVGs3Y1ZWM0dMQUR5NFRLSk5PTlMwSjFjWHM4TFNmSXp3aHdIdXBUSkRZOS0xUUNVby1aSnc0ek92VVE5VzZPenJhUGtXMk10cmNCbl9yWlhEb21fLVBrc045MjV3dm5vVFNMWUhRUXNEc1JIdEZMM0lpMDFWdmMxazdHcHRZV0pkSFlhc28?oc=5
-- **Source:** The Register
-- **Published:** 2026-10-27T12:30:00+00:00
-
-## Microsoft offering voluntary buyouts for 60,000 employees - KING5.com
-
-- **URL:** https://news.google.com/rss/articles/CBMiygFBVV95cUxPVS11ejhYVXRsUFpJNWpHOEdRaHZLLWtJTC1nUWdRS0c1N0E4UzN4NmNSdE1fdUUyTm1aUmQxeUpDMzVtazk1N1NnY196eUp3UHdhbXNMcW1vY1VHLXVVQmZDbGVmMXpMUS1RTnlsYUN5TUNST2NHTzNNdWhDbDhiRnpaYWlqX3VBak5vVDRUcDVWYkdMUW93ZHJTdW5RVldmZE1kZThqdTVMUVNNNGhFcTBvczM4RzgycTg2d2NkNXZTLXRiYUlyTEZ3?oc=5
-- **Source:** KING5.com
-- **Published:** 2026-10-27T12:28:00+00:00
-
-## Microsoft Flight Simulator update overhauls Poland and Baltics - Neowin
-
-- **URL:** https://news.google.com/rss/articles/CBMilgFBVV95cUxOSHZTV2RlbjhuNHVwOE5fSFkyWXk0V1BGWmFzLWJYYkd4eXBwYXNjVVBCbmE0NHBpWG1hNFZWUUU2YmRXUDdFVGozd1ByWUsxNTg0RWk3VVU0cmFOanp5X2Y5ZzRSdkx4T3NJM0VSSGNXcENmWUc0TUFHSmpwQmNuaEI2UTZYaDBaYkRNRjR6VUo5Q1hOLVE?oc=5
-- **Source:** Neowin
-- **Published:** 2026-10-27T12:28:00+00:00
-
-## Microsoft Offers Buyouts to 60,000 as AI Spending Rises - Yahoo Finance
-
-- **URL:** https://news.google.com/rss/articles/CBMimwFBVV95cUxOWkhuWXZXSmsza2VoR09uemtER0xSVzdJcTdTX04xOERqLXVRUUI5cjh4bmZabnpkUHQ1eXVUaGg5OE10TXNnRUdYclZwbXlLTGhRZDlqa18wcDAzSGExRzZpSUh6bjkwUmVxZUdjTzB5Q2c0cURBZWwtdERqb01ibElTbnowOXRkZGdCN0RGcTZDeFl3M21aM3hCbw?oc=5
-- **Source:** Yahoo Finance
-- **Published:** 2026-10-27T12:26:25+00:00
-
-## Microsoft Offers Buyouts to 60,000 as AI Spending Rises - TradingView
-
-- **URL:** https://news.google.com/rss/articles/CBMitgFBVV95cUxPejJsTkhJTjZEVEJwdnF5bGVLMS1zQ0w4ZmhSM09fc0JkRmZMNUtIVkhCeERqTFR5bVBqUGg1Z18xR191R3Q5T0lyWVVFUVFsbFRxV21fQUZnWVFfbW9ENW96OWFzeXk5UlZDd2l1ZGtGakt4b3FORlNHeVgyc0ZnTGt2RTE5dXJtTzNFbU5MNjVBWmhDakdTWEx5WGlxVDlpcUFkZDhwV1ZrU1BDaWlJbmsyOFRVdw?oc=5
+- **URL:** https://news.google.com/rss/articles/CBMiwAFBVV95cUxObjJWd3d6QmI1bWpUcTg0RDc4UG05S0x1cDdseVpEYW1hWXBVX0psbUF6Q3I2X2VpcDJ3NzcxY01mUTdhalJNbUk2TmVaNFBTZUpYWlM3dG1QOGlybjVnbFlkMnVidWI2ZkFPNC13b1lESWJRVENGaG9Cam44bGY4ZlYzbVlaQkp4bTlMeFZrOTFySjJNcC01ejlsbDRfN0ZqX3F3SUJ6UjJtdHlCZTBGdEJqTFV5enJHVVEzZlJqMHI?oc=5
 - **Source:** TradingView
-- **Published:** 2026-10-27T12:26:25+00:00
+- **Published:** 2026-10-27T18:24:07+00:00
 
-## Microsoft is offering 60,000 employees a way out - TheStreet
+## Microsoft Authenticator Flaw Lets Malicious Android Apps Steal Account Tokens With Zero Permissions - CyberSecurityNews
 
-- **URL:** https://news.google.com/rss/articles/CBMijAFBVV95cUxNQWlUV2tCNVJ0UXB6Vjg2Y3dLRUZUVmhGSnZMSXlRWmJ6SXl4U0FuRWo1amZaZEVEc3R3WEJXTU9Lcnk5LWRBYVA0YnptbXYxZnM3YmJZak1hcF9sX0RKeXhiTUNiUWpVQVo4QlQyQk9vem83aHY2RW1Ccm5VR3U4VzBvZm16RGIzUXVaZQ?oc=5
-- **Source:** TheStreet
-- **Published:** 2026-10-27T12:17:00+00:00
+- **URL:** https://news.google.com/rss/articles/CBMia0FVX3lxTE9xNElHWVkwZjRweElUa1FvaUZJQmg0ZkR3OWFPQ2JQT3E4RGJraDZfTWVEVlhYVzVja2tGY2M2MEZBVmpPa2wwN0trdGFuYmdZMkV1Ry1BTWJHaG5CY2dUcl9naUlDa3lpbjA00gFwQVVfeXFMTkJwWVQtakhuNzlMdlU0cjllVnpyRkhtSWdMMFZ0elBPbnh5d0MyaG1uOVItYTB1Q0FiQ2JZUXFOTVlIOTltUWx0dFJ1VjlHdmlPVDdCMkEwTkFwLUVGRUpBX1dDYk5MWTliUmtQQ0Qxdg?oc=5
+- **Source:** CyberSecurityNews
+- **Published:** 2026-10-27T18:22:29+00:00
 
-## Microsoft Is Paying Workers to Leave So It Can Pay for AI - 24/7 Wall St.
+## Microsoft releases Windows OOB updates to distrust eMudhra certificates - BleepingComputer
 
-- **URL:** https://news.google.com/rss/articles/CBMiowFBVV95cUxNMjFmbWhZVjlERXh0ajh3bGpIeEFvellNd0lvMnN6MWJuT3F1Z095SFZJZmh4eFYwMjVPYzB1Z1dJN2ozNzUtdnd5SVA3Yjl4MUNZWTNod3pzRzJSaXRPYVpPdGJSdm52cVp6WGd5MTgxUWsyMXpTN2F2dWd0UjIyZ215a2tEMjVJdmpyYmFXZ1BTaFRmM0NrUUlHX3BVd0RpMlEw?oc=5
+- **URL:** https://news.google.com/rss/articles/CBMivAFBVV95cUxPdmVfY2R3Rm92a0d3X0lhdFdOTGI5V1FnXzJjSC1EV1U2V3VCWmN4MjB2bDktRm5mM1NNX2tjaGtKcE1EZkVmUEVsWGdfYzVTNzFGTGNheWZiMGpWTDVsUnF0MnJCOGF1OUdTMmFVTTJNQ3dvcEVtM3NSb0MzdnlUcjVFel9XSHF1T2xuZzY2VllreVRSM1hiWGpfOWxQR0VzZHNqMElEdzgxdHRzbVlLNHJjcWl6d0V2NnQ1NA?oc=5
+- **Source:** BleepingComputer
+- **Published:** 2026-10-27T18:20:28+00:00
+
+## Alphabet & Microsoft Earnings Preview: AI Cloud Growth Takes Center Stage - Zacks Investment Research
+
+- **URL:** https://news.google.com/rss/articles/CBMisAFBVV95cUxNNDJVMGRTOTZRNGJfYkNXSC1adjhOOGdLclktLUc0MmdYNVIxVUVKVVpKVnc5OHRad3M5bEdKbEphU3FjQjJla0NfSEh4a2hTY0IzYVh3eXRVYnZhRG0zbldBeEJlbVVkU2s1Z013VUdnMWM5c3FzckhzTnFUakRabVF1ZlJpdTAzS1VQM1prb2I0TG9RbnZzU2lXb1NtOE1CVmp1UWVZMTkzbkVlbElBZA?oc=5
+- **Source:** Zacks Investment Research
+- **Published:** 2026-10-27T18:18:36+00:00
+
+## Microsoft’s Dividend Yield Looks Small. The Check It Writes Every Year Doesn’t. - 24/7 Wall St.
+
+- **URL:** https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNHVlRm5XMTBURTJ0anFzMUx6VUU1aEhiNUFVWFUxaEw5enduNElLTkxVZFdfSWxmY2NrTFQ4RWlSODFNUE4wcDJzUmg4cE1zMjA2dEQ4bXM2WDVndnAxR19JUlZUZzRpd25SWnZIVmJTV3NFTVpURjlxVUc1bzBENXpXTkpLTjBlQ2Q3R1NqN0xPZmhJWU95QktNMGtqY2NUbXZFUmJ6X1VPTTdRSGlEMXlZb3F1dDJNdFF3?oc=5
 - **Source:** 24/7 Wall St.
-- **Published:** 2026-10-27T12:15:00+00:00
+- **Published:** 2026-10-27T18:13:42+00:00
+
+## Microsoft Has Offered Buyouts to Tens of Thousands. An Expert Says the Company Is Falling Behind in the AI Race. - Yahoo Finance
+
+- **URL:** https://news.google.com/rss/articles/CBMipwFBVV95cUxNYW5WRGhLc3JXTkQ5YWNpUjQzUDZNQ0FPMWFUYW5fMkhER1dSLVhQWEVwN0tPMEVBVllYaDZzd0l5Y2JDTTRSN3h5bWVZYU1sVEd5RWpDblg5RUlyQWQtSW1IMnNJTXZVTnB3NXpFZHNoVXJMbEFRSUZhUzJSb3dTdzhyTnBqdTlWS0MwNl94QnpBaWtBdC05VFZhUjRsTFZReHRjREJNaw?oc=5
+- **Source:** Yahoo Finance
+- **Published:** 2026-10-27T18:11:19+00:00
+
+## Microsoft’s AI spending boom comes with a workforce shake-up - ChannelE2E
+
+- **URL:** https://news.google.com/rss/articles/CBMitAFBVV95cUxPX0VlUWdzWVRCQ0M0Zk4tTWkydDNZV1BRWFAxaWVWQVhzZzROMFp2QTdfY3lFdm02eF9ZZ1RUNndYNjZYNjJPYzA0WmxmTkNYVHJCbHdBemc2enlXSmZxSHlvaDdDSWFleHJ4QWNGSEVxSlF5VVlKblRTZXBQX0NtNmhTeXFjNHdqTDFQdlc2ZzhSbjFiWDlMT3RtZEl1ZVZSVkgxTlBUdFkzb2lNellCX1FjaWc?oc=5
+- **Source:** ChannelE2E
+- **Published:** 2026-10-27T18:10:35+00:00
+
+## Microsoft, Google, Ford and more set to report earnings Wednesday - Investing.com
+
+- **URL:** https://news.google.com/rss/articles/CBMiwwFBVV95cUxOampGMXNmeEhQT2lqSmpWOXRhUjZ1ZEh6MmtJRm5KRHYyZ1JBT0dwS283bFotTDdWY3VyWlljcTJwR1IxTldRZVpteC03UzhtRWFSZVBFWWFPdjlwY0pHeHZEWGtyOHlNZFNjS2dZd3h0cXRSWWM4ZTBPWmdBZXZ5MDVOaXY3WG9vbjROcFU2RGlMaHU2dDlpakY5NklTeDEyMjlLNEZEUHFuUzMxbTFDNms2WEQyLXlQM2dBSDRha2tPbTg?oc=5
+- **Source:** Investing.com
+- **Published:** 2026-10-27T18:08:54+00:00
+
+## Oracle Rises 5% as Google TPUs Come to Oracle Cloud and NVIDIA Deal Expands; Amazon Nudges Higher, Microsoft Treads Water - 24/7 Wall St.
+
+- **URL:** https://news.google.com/rss/articles/CBMi9AFBVV95cUxQbUZPSkFxbExpR25ZVDBtcGxjVUtKbGVFVW1hUnJXVjFlSnFKa2VNSzVkNllxWkRIVTY2NXlYUGlPS3lRUzQ1aHEtTVl4d2Vha2dSWkluYmwtZVhSY2kyLVJqYURtOERSQUZQSkpFeG1UVldtUXlUT3hiS1lQMEZzSm9BVTRqYmRRc0U4ZnktRnJoU0JuVlg5UVAwS1pGc05IREpxMFY2SGJJWnZRUUhqakRSbVFPN1lZWlVZQncxbXhjV3l0Yzh5cWtxRUJXeGF0blpFNEJEN0VlRW9kVl9CV3g4bXAwTUl5Y1pISlY3bnJ2RVVy?oc=5
+- **Source:** 24/7 Wall St.
+- **Published:** 2026-10-27T18:02:00+00:00
+
+## Microsoft offers voluntary buyouts to 60,000 employees - KYMA
+
+- **URL:** https://news.google.com/rss/articles/CBMipAFBVV95cUxNd2pfV196SkZKd3kwVDJWZnBBRERvcUE0VWxxWUZ3UkhncTN2eE05OXZiTmFBWXlMczVSU1QxdVBhd2NTU3hTbjVpT2hTdmlMYTlWdGc4ZXNPVG00MmVjbnExdlRjNC1wc2FKY0pmTHNqeW5MRzlzTVFmR29TcjhsRERISkpvOTVZYWhrcnJvZVJXZWRaOEF2R0QtN0RoUEc1WlBRMg?oc=5
+- **Source:** KYMA
+- **Published:** 2026-10-27T17:58:41+00:00
+
+## Microsoft offers buyouts to 60,000 workers as it pours money into AI - Valley News Live
+
+- **URL:** https://news.google.com/rss/articles/CBMipwFBVV95cUxNZF9GZWd4OGpRZlBkZjl4VE13NHFFa3c3eUZGYVNGRDJpc28zcU0tUlBrRTg5NXNJRVZyWVJ2aHExMENJTkxZYXQySlViR1ZEMUh1UmRIeFN5SnFJekt6eG1fdnZZSkxqeTVCMjE4ekZ4cW1ZSURpNWhka0ZfU19XaU1FUFVuc3kwWWxfb0JyblVaUjViQjB5bkwwOWU2WS1uQS1WQlI1VQ?oc=5
+- **Source:** Valley News Live
+- **Published:** 2026-10-27T17:49:00+00:00
+
+## Microsoft offering buyouts to thousands of workers - KHOU
+
+- **URL:** https://news.google.com/rss/articles/CBMi0gFBVV95cUxPTFJ0RWRaV2cxUUJTTjBycnBDMzRaalk5VzR1UVlGR3RhZlNBSzlpY1h4VUV1eXBvOWFYY0RJVk9aRktfclJDbEo4OTR4YUx3dEFtaUF0d0YwN25rNU9DR21URW1HYlRQLWt6LTBILW1uOVZUd3lMTmNLUUJsM3VGeEVkMFhIMXJKeXhfQ0JMOWFxVms3X3hrQ2tyVFJYdmYyZ1Z1Rlh0T3ktTWYtdHlxbTlfMG10MnBSRkxENm9CVHJRUzRpU2RQTFdBTnBZcEVtM0E?oc=5
+- **Source:** KHOU
+- **Published:** 2026-10-27T17:48:00+00:00
+
+## Microsoft Offers Voluntary Exit Packages to Approximately 60,000 Employees - Yahoo Finance
+
+- **URL:** https://news.google.com/rss/articles/CBMiowFBVV95cUxNNWFReFg1LUUwb3N1S0lrOTM0QXJ5NWhHM25UMmlMRzVnd3BmNk5OLWg5clNNZW1LWVNGemVhZzNabTdoN2J3MGdBMTE5QnAzQU5FUy13Y3hLMVhHWkVuZkVvRE0zdERkQ2t1eWhqT1liczEyUG43OW96azVYdkdVYlRkTHpVRmJWV1NuNDRIZTViMEZEbkFlVEV5cEtaLXlrV2pj?oc=5
+- **Source:** Yahoo Finance
+- **Published:** 2026-10-27T17:38:58+00:00
+
+## Microsoft Offers Voluntary Exit Packages to Approximately 60,000 Employees - Gadget Review
+
+- **URL:** https://news.google.com/rss/articles/CBMipAFBVV95cUxOd2k4bmk3NkNYbW42SkRSYUtnOTRuQlR3eFJkNnpCX2g0RWpvT1RpMWgwM2RWQnRkRElyUFVaaHBtVnYyU3VPQWFoWW5qa2I3S3hDWHYtbXhWSFdZZVZpdUhiU0p6VnBJdFFIZl9NZVl5akFGWl81WUQzaE1wUmM3b1BzZ2VkR1dEOG8xSHlzYUwwOWxmUEYzYmVCSmU5T0dUUnpDeQ?oc=5
+- **Source:** Gadget Review
+- **Published:** 2026-10-27T17:38:58+00:00
+
+## Microsoft voluntary buyouts - Nonstop Local News
+
+- **URL:** https://news.google.com/rss/articles/CBMipgFBVV95cUxPZGU5QjV6bERFbDAxdWp2c1E2VWZ3b0JDZDRseE1zVnZPVjA0TTBURHNZdjQ5WENZYlRSZFptRi1OVDNUVFpURnZ3eUVndFBia2FWZmRBRWZUclhpcVlBRDc3dlEzTnVFYVlwaUxZMUszNndLeFNKbnE1X2JpNUZOZDV5b2g0SXlycUpCS20wSmIzVW1rN0ppU3FDMm41M3F6S1BXRDJn?oc=5
+- **Source:** Nonstop Local News
+- **Published:** 2026-10-27T17:34:19+00:00
+
+## Microsoft offers buyouts to 60,000 workers as AI spending grows - NonStop Local KHQ
+
+- **URL:** https://news.google.com/rss/articles/CBMi4wFBVV95cUxNUG1kN3RmZENDSWRtT3dJdkRhX09WQ2xrd2oxc0lScVY2aFlLOExDMmxidkVtS0RmUU9aUDlpQ2tkZGl5NDVPai1TdTU4TkhMd05qWk8yck9HTHkwMGRBT00wV1Zac3ZSMWVPWEY1Y0c2NGVtQnJzSUFkTEFENkxBaDQwYnhualBibjZUMHNZbkxnb1UwS05aLUJHMXBGeHFWRWZKcVNObWRvUUtyZkd0MkktaVJFVmFHSFN6a3pRajdVcHdKaFBpZl9uZnZ5cFp5VklLdFJlX1ZabjVyVjRrY0k3QQ?oc=5
+- **Source:** NonStop Local KHQ
+- **Published:** 2026-10-27T17:34:19+00:00
+
+## Microsoft offers a quarter of its global workforce voluntary buyouts as AI spending accelerates - Nonstop Local News
+
+- **URL:** https://news.google.com/rss/articles/CBMijAJBVV95cUxQSnhKMzZDT2wxRkI5b21wR2xnSXZvWXZDSUVWdHJyRV9jN0VwZkFaLVVWTkVTSGdpV1lSZm0yOEtxY1FOQ0dDSXlvdjNPYXBzVjJNZFJCbnhzRGlhd1VyWWZhQlVPalFGZFlTRGZlSVdDWGdqdDlQMUQyYlpIbmhjRUJlWml3QURoTG5rSy1rMDhEQ1ZRZlFMTkJsd2EwRVpBVnpFSHh6YllrenBERkRqejFOV1lmaTVMRHlrWU1xb1Jla1VadHRZTTlMM0QxZTlhSkZOZVQ5eEJPVTROU0haY0JfN2NCMEI0LXVfUjVtSDM0YV8yZWZnS2RRdG5zd2ZZbEFNRUVmbDhxeWts?oc=5
+- **Source:** Nonstop Local News
+- **Published:** 2026-10-27T17:34:00+00:00
+
+## Microsoft offers voluntary buyouts to a quarter of its workforce - Oregon Public Broadcasting - OPB
+
+- **URL:** https://news.google.com/rss/articles/CBMipAFBVV95cUxOLU9CZnotR3BUVFVYcktMS3dnX05CTnNPTE00ZWl1a1ZCR05NWGlNbEw5bmJoUksxYVpfNGZlclk5Rk5sd0pCcEJuRUVvSzk5amRVNkt2Ukp3bjZxWU5uUDBzT3ZPbG50dVlzYXNDUXVBX19ESTd5OTJOTWF4RjZfc2pwaTRSSEY4bktkNnpIYUV1ekxmSjBGTUNEOFpDTWI4b0hraA?oc=5
+- **Source:** Oregon Public Broadcasting - OPB
+- **Published:** 2026-10-27T17:30:01+00:00
+
+## Microsoft Is Spending $190 Billion. Now It’s Paying Thousands of Employees to Leave - Inc.com
+
+- **URL:** https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNTFVcjc1djh2RjNnSkk3V1FWX1gxd3RReHBQeU1BaG1jMnM3dkRLVUNoSFlaOGtxcmY3VXE0X09vYnRIbkRpeVl5aG9ZOEtaRkdQTHlVTXNwa0tINlRKeTdRSnYtSXdmUHVYb1R4SFF4YkprTkVpZkdPT214ZjhGcnBFMGRyWEZyeTlBMUY4Q0c4czdoMm40NC1Yd3VmUFNRT0JjS25tVk9IVmJDZTVqbllEbWtYRWFtVThVVFBoN2xvNmM?oc=5
+- **Source:** Inc.com
+- **Published:** 2026-10-27T17:21:16+00:00
+
+## Microsoft Offers Voluntary Buyouts to More Than 25% of Workforce - TODAY.com
+
+- **URL:** https://news.google.com/rss/articles/CBMipAFBVV95cUxPV0k0TjZBR0hIdzJXdmR0N0lyYTVpLUFaSVBYMFAzTEV4WDNzVThGd3JVN0VLRG55bHpHVzZwc1pzRGEyTEQ4WjF2ZFE3NFR5ZUJ1X0JOSkNtYXhrdFZRbHcyT19MMlhPRkdiWTJRUW5zRHFvWV81cWNER1FHclZaeVNtbmh3N3Z1ZktjTjIwMllCUXByQ19WREVqSGpYU1dWbG5ZTg?oc=5
+- **Source:** TODAY.com
+- **Published:** 2026-10-27T17:16:10+00:00
+
+## Researchers Find Microsoft Authenticator Bug That Exposed Corporate Access Tokens - Redmondmag.com
+
+- **URL:** https://news.google.com/rss/articles/CBMilwFBVV95cUxQNUtMNS1FdHE2ZnBEc1N3Y0xhQkFEN0w5SGlBR3p5dzgyd05Tb3pkMnQzXzdyNkh5QWZTZnROS3p2d2llb3NJUDI2YU9KN1ZXdlNjQ08zTVRxdWJ2dGpEMlpxMHZ5UGEwdktoZnMtQXJUOUlxclh1cXpDUnRxT2Uwb3dCSE8zNVl5THNiaUJ4cEMyejJlb0NJ?oc=5
+- **Source:** Redmondmag.com
+- **Published:** 2026-10-27T17:01:08+00:00
+
+## Microsoft looking to massively reduce its workforce - WFAA
+
+- **URL:** https://news.google.com/rss/articles/CBMizwFBVV95cUxNQ1NTekRic3d5WDhYNmc2YWxGdjBNSFp2ZUZWcTNWS0hnOGpjYmZXc2JqenZ6MXRLT3dCTXFPSk1pekRCeGRGeFRPeS1fNGY0VS1aNi1EY3ZGbFRjOG81a055TGRoeHBMdXpFdkloNnJhdlVGWFRGMnpiTWxsZTFuUGs0WmtlV2RDRTFXQXF2Z0FQQ1hFRlkxQUJiTXpTZEF5bTBsbktVZV92VEhZR2RoWUliVUF3dmM3bmJRR05KY0VEeUxvcWwyaFlkMzNZd1U?oc=5
+- **Source:** WFAA
+- **Published:** 2026-10-27T16:58:00+00:00
+
+## Microsoft to Offer 60,000 Staff Voluntary Exit to Cut Costs for the AI Buildout - Barron's
+
+- **URL:** https://news.google.com/rss/articles/CBMiiAFBVV95cUxNc3lrSWhQYUJIUHZlWGN6TnRfYmU5YUVaNmV2dF9NQ2ZxMkVqTERxcWg5dG1Jc0Zzbl9JZEdaaEVPQ0xFaUdJTWJFR0ZWSmVKXzZPSUEtYzJqT2dnQmJmMXQwazNLMjl0aFNPeXdVMWlxekc0ZDY2RUNVWjJHcDVVcHhzbU5uODlu?oc=5
+- **Source:** Barron's
+- **Published:** 2026-10-27T16:47:00+00:00
+
+## Microsoft pushed Copilot hard in Edge, now some users can't access it in the Sidebar - Windows Central
+
+- **URL:** https://news.google.com/rss/articles/CBMi9wFBVV95cUxQSVpsQmZ1dXFSVUdDTmFXVHZVNGowZzA4RkQyZ0xJQjRzYjRVeHNkYjMzVURnOFBILS13cnFIWF94eDF4NEREM2dNTXpnV3BRTExhQWY4U0VGcVpHZ0tkVl90X3FsVmRsemdrOXVXcjlSa2FmVWJ3N0t2aUhnWnJYdFdfWlVvdHl0Z3Z1blNYbmlhZDdzcXVFWUx5VS16R2ZxM0ZJQ1plaUNUd2h4TDVXVnJrRUctTWswSl9GX3NCMnF2QzV6blcyZGoxanRZblA4TWx4Z2tqRm5qclF2YWRFVEFnYUJFQzhnRzJuTERpejhNRmVXLWE4?oc=5
+- **Source:** Windows Central
+- **Published:** 2026-10-27T16:42:54+00:00
+
+## Microsoft pulls 7 eMudhra certificates from Windows. Here’s what that means - PCWorld
+
+- **URL:** https://news.google.com/rss/articles/CBMiugFBVV95cUxOVGRzdkhXbUFKdEN1OGdlal9Wdmd3azFUVHRtSWJqRnNLZm5zMUV5VHlaaXZ6anFzakNSMGFiUlZrampWd0RJMW9GeW1QeU9OTFNIRDF0ZXZ3Z2Q4T0dnZTkzdXh4RmZ4RDBhdWYxZmhNYmlzbkJ1bFhyeFF1TVBXZkxkNFRTU1V4SHZ6VDdoNElSVGhXTlBVTzc4UTk3XzNEZTdubWNNQ1FuN0w4RUh6QW9td01oZmNXUlE?oc=5
+- **Source:** PCWorld
+- **Published:** 2026-10-27T16:42:10+00:00
+
+## Microsoft Doesn’t Want to Fire People, So it’s Asking if They Want to Leave - Yahoo Finance
+
+- **URL:** https://news.google.com/rss/articles/CBMilwFBVV95cUxOc1VxRXp3eTNqbWZPb3pqUjVDQXZaTHFvX19mNnBWLXVwMU14eGFGUWlRNFR2eDI0LURuRFZZWGJMQktwa05iT253WVpCNmd0RlRrMWJzRnVYd3prRWtsVVRlRklBSHdlWVkzdGVBV28zYmFhR0pwRWtydlZ3Ums2dVRlRkFxMzg2QURGbGRqbXllTFplaC1Z?oc=5
+- **Source:** Yahoo Finance
+- **Published:** 2026-10-27T16:40:28+00:00
+
+## Recovery readiness for Microsoft environments: What IT teams need to check now - mcpmag.com
+
+- **URL:** https://news.google.com/rss/articles/CBMiwwFBVV95cUxNODBFX0d4eUNVVGN0aVBscWRmN1BMalZ1MEctajRmYTNoc21KX1k5VG1DbTRBX2dvdjNiemJuNDhjZk1ZYUhselFKeE5XUzlUdXAtLXNOX0JOTXR6VmJEQkxiZVIxeEdZdlhpazlER3ZlUzl5ZEJrSWcxajJaeXp2NksxemxNZm9kV3dYQXhmTHR3NkVtQjMtbWVqNXlVR0VJZUFwa3JLX0xiZF9QN1lFNHBrVU44YktaTmFJWFJsajNWRGc?oc=5
+- **Source:** mcpmag.com
+- **Published:** 2026-10-27T16:34:08+00:00
+
+## Microsoft offers buyouts to 60K employees, but expects low uptake - The Daily Chronicle
+
+- **URL:** https://news.google.com/rss/articles/CBMipwFBVV95cUxPS016WTc0dml6RF9DZFRVUERBeHgwSEJFTUxQUjB0aVY4OVMyTXdrTThUS3JZYnJMczVvV05WUnZCTEVDdko4NVV6bVNzZ3pfVkZsZk1zUlRsTXN6S29BZE5mb2QyLS1LdmUydy0xaG9ReWlqTXJrMHI0SEJRRDRyci1uOXBfdFZtenE3WTF0NlJYTG5YdllBcTQyRjl2dVU2WlVPTlRoNA?oc=5
+- **Source:** The Daily Chronicle
+- **Published:** 2026-10-27T16:25:33+00:00
+
+## Microsoft to report Q1 earnings with Wall Street looking for further Azure growth - Yahoo Finance
+
+- **URL:** https://news.google.com/rss/articles/CBMi2AFBVV95cUxNRkplaDMzMG01RjlOTzdET1NqNnhETWZyeHVCQTlkNVdVQnBjbHI4ckpyN21sa3U4ckJKbUtFbTJTZFZ4TVBURGY4OHlwaWJLOXBnVmYwbHNfSkVTQWI5aGNKb3MzS2d2NElBdkg5eHl3ZlZCRWZRUGwyTDVEM05SRy11aTBBQ3RoTGNDQ3g1dVNFSDRycnlscVBVMkZnbTNkdE1sbGNOejJLXy1zd0JRdm1jcElCRWhHRTdZMTBVRFdLTktSOFEtTjdNaUxWb1pVYTRvcGQ0RTM?oc=5
+- **Source:** Yahoo Finance
+- **Published:** 2026-10-27T16:08:35+00:00
+
+## CISA Offers Two Free Tools to Detect Security Misconfigurations in Microsoft 365 and Google Workspace - CyberSecurityNews
+
+- **URL:** https://news.google.com/rss/articles/CBMif0FVX3lxTE5vZzl6QW1NX0RkencwdjctN0c2N1ZsWDd6SHdGOXV2dmRwZnI2X053RXlJTEZVbUFYNF82Mmh6QldDeUdRSjEtRk51TmNhdTBWUXhWX0xUMDZXMHhzdG1QNEQ4dHh5LUpwZWdGMm80SjhGVW1KOXl4UXY0Z2NaQXfSAYQBQVVfeXFMTWFMZ0pDUVk4aF9pcmVXWUl1WkhZMGhTRlJoRUlHZ3hjc05zSXhMby1SMzBoZV9zRVNiWmp2SDZGejZKXzNpY29rV0stcWFWUkJwWVdfSm8zdmtlYTdzNHE4YzBka2Y3UnYzOEZ4NDVjQVVKLWp4eDl6M2FKYzh1Mkd6N2I0?oc=5
+- **Source:** CyberSecurityNews
+- **Published:** 2026-10-27T16:07:47+00:00
+
+## Microsoft offers buyouts to more than 25% of staff - WBUR
+
+- **URL:** https://news.google.com/rss/articles/CBMib0FVX3lxTE1iY3NhNVdNZG1fcjFvVWVCOWVZRTBNRUI2dE5jZk1oZlVCRGFhSm8wWW5fM1V0Ykl2cXk2b2k0cTNON3hGY0ZOR25RWngySVdrNTlLZGE3Y2xSeGg3LUx0eUdycVRFb243ZnhjeGp4TQ?oc=5
+- **Source:** WBUR
+- **Published:** 2026-10-27T16:07:23+00:00
+
+## The platform approach to becoming Frontier - The Official Microsoft Blog
+
+- **URL:** https://news.google.com/rss/articles/CBMikAFBVV95cUxQalVkZHNZSHBfaWVudVd5al9LblgwR2NvMC1Cd0VVU2x6NlVoczJDWXI4aHg0UnQwd1JpMnBtMUxYbm1YQTBsUEZrRDlDQVZhZTdZZUN6WVM3cXB1QVdFa2ZZTmE3N1VqZlIySjk3WHlWRXdfQkFiOUZrSC1qZDZ2ajFyZkRGWkR6R2FwbkZYNXE?oc=5
+- **Source:** The Official Microsoft Blog
+- **Published:** 2026-10-27T16:06:31+00:00
+
+## Microsoft Releases Emergency .NET Patches - Security Magazine
+
+- **URL:** https://news.google.com/rss/articles/CBMikwFBVV95cUxPbUVSLXRWQS1aTVRkN3U3cEh4UUFBMzdSWGRYNGRvQ0hXX0l0RU9zU0lhVTFqRWJZd2xDblJKay1CYndHOFNrbThVREdoUWhpZDN2c19XT05jU1BVQVY4c3Z2VlhYV19OOGh5OEJIYl9acXN2b3FkVzV6SkRCejdqbGdacVNsb3RpMjNxcXdEenIzMXM?oc=5
+- **Source:** Security Magazine
+- **Published:** 2026-10-27T16:00:00+00:00
+
+## Microsoft offers buyouts to more than 25% of staff - WVTF
+
+- **URL:** https://news.google.com/rss/articles/CBMilgFBVV95cUxPazhMOWx2elJGbVF5WnZqWmZObDM1ZlFtR3lWbG5HWlBabXNZcUJLU0hBYVhKR3hFVGNpRVlMdldxVTNCN2k2aUIta3RiV2NPV2JNRkZYWV8tb3dhTzBmNXlUR2htc0I4WlRBYXVnaHpGTXExTjBZejZIU1B1MDNleDI5Q0xLQWxlYVJMTU85dl9nand2aHc?oc=5
+- **Source:** WVTF
+- **Published:** 2026-10-27T16:00:00+00:00
+
+## Microsoft offers buyouts to more than 25% of staff - WKNO FM
+
+- **URL:** https://news.google.com/rss/articles/CBMimAFBVV95cUxNd3YwMDZxNFN3MzktZFAxN19ocHVLaWI4WWpMZE9hU1liVDNWZjBXQnVvVkozdkpYRXJEX2Y1YnJ0eExjaHVVeTVndTZyY21QbUVZR2ZRZThqMU01ckNSMVQyVGRhNUdkckRSVEtkZUZyenpOY2tleXZocnNxUTlEUGpEVEg3RmNKRC1acmwwR1ZZZ01JclRrTw?oc=5
+- **Source:** WKNO FM
+- **Published:** 2026-10-27T16:00:00+00:00
+
+## Microsoft offers buyouts to more than 25% of staff - YPR
+
+- **URL:** https://news.google.com/rss/articles/CBMijAFBVV95cUxNVFR5TU43aUd3VUY1SzEyU1dnMWN3SklGTzJuZHVSR0xlbGNySDczaXVlUEpFR01Ud0MycWdXTFh0cGxyRjBXNnR2VkpiTGQyaVJ0T1pqTmU2R2FZa0NaS3NqYlVZNGVqX0Q3VFpxZUExYVpocTR0OHYzTVVhU3psMnZVTm5tNzd1QUpnVg?oc=5
+- **Source:** YPR
+- **Published:** 2026-10-27T16:00:00+00:00

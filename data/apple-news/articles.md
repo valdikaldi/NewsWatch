@@ -1,8 +1,20 @@
 # NewsWatch — Apple News
 
-_Last updated: 2026-10-27T15:45:39.386579+00:00 · 50 articles_
+_Last updated: 2026-10-27T20:28:12.258668+00:00 · 50 articles_
 
 ---
+
+## Apple hit by ‘Crackgate’ outcry over iPhone Duo screen problems - Financial Times
+
+- **URL:** https://news.google.com/rss/articles/CBMihAFBVV95cUxQV0NCd0F3Uk9Ba3dlSXNtODhtcGhKYkxjeWNFQ19MdkhfemtKaGhtcGQtd00yd2U1MDg4QXVqVEd0d1NzakxrMjBHLVRmX0JzQkQ1a0kxTktZcmlDNkZEQWRUSkxKaGVKdERtck9uRHNEbU11TnE2QkI0LWI4akRLSzBIbE0?oc=5
+- **Source:** Financial Times
+- **Published:** 2026-10-27T17:55:41+00:00
+
+## What Is Going On With Apple Stock on Tuesday? - Benzinga
+
+- **URL:** https://news.google.com/rss/articles/CBMingFBVV95cUxOVDVmamRlV0sxY1JPSmJJbXRZbGllbGlIUkxzZ09YMzFuSF9WNDRRWlRWYzd4R2l2eERBUlB3R09DaUQ1YmVZOHRYQ3lhXzFRcU9RR2hHTzlRR3ZzX0htTTRoMkgzaGx1TlBSWVBNOUUzTmo2VjVOMlBhU3BQc01XZ0duREstSmZGcFRqRC13cjZCZmtFSmRJWmVBQzZ2dw?oc=5
+- **Source:** Benzinga
+- **Published:** 2026-10-27T16:57:07+00:00
 
 ## Apple (AAPL) vs. MSFT and GOOGL: Is the Post-Earnings Selloff Creating a Long-Term Buying Opportunity? - Yahoo Finance
 
@@ -291,15 +303,3 @@ _Last updated: 2026-10-27T15:45:39.386579+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMinAFBVV95cUxQYkl5RHNMN0hiM2ZtSGxMWEZFVHE2SnBjY1hfQ25McW8xa0RzQmJvRXg0M2JBak1tbEs4WUhTaDd0ZXFiajIyVE04ekw3TDZuZ21iNHdrbldlanJ0UXlaU0s5TGtOODN4QS1PdXdQQk9jV05XVVAzajIwSWltR0JHd0R0bzVSRXBONnhMakloYVdyOGRkeVJFemZObW8?oc=5
 - **Source:** Stock Titan
 - **Published:** 2026-10-26T13:03:00+00:00
-
-## Apple (AAPL) Earnings Expected to Grow: Should You Buy? - Yahoo Finance
-
-- **URL:** https://news.google.com/rss/articles/CBMinwFBVV95cUxPNkZWUzFDVnV6dnJSNWxJZzQwWm94bFpsa1lGaXpXR3RGQktsN0JzaVMxZUVkTk56Z0M0cG9KTHFFa2w4QVg0dVF3RjRVYjFNams2NTJreTJsTlNQd1hEMkQxMVBMZ2lxVUxzMV9FZHRnd2oyVlc1eFlUMWdtWFdyamk3Zy14ZzBneFRvSE01YmpiSXFjSXNGTTQybEFFeUE?oc=5
-- **Source:** Yahoo Finance
-- **Published:** 2026-10-26T13:00:10+00:00
-
-## [Video] Screen cracks just six hours after purchase... the iPhone Duo’s abysmal durability - 매일경제
-
-- **URL:** https://news.google.com/rss/articles/CBMiU0FVX3lxTFA0aEU0djNYTnFFMXplNzdURFNnYkFYazlxSFF3Y3EyMHRnOWZQd0Z0dmpGcWNYN3hsdFdESy1xaXlTcnhGVnNNWl9hQjByWU1mVnE4?oc=5
-- **Source:** 매일경제
-- **Published:** 2026-10-26T12:21:30+00:00

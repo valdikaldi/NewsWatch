@@ -1,8 +1,32 @@
 # NewsWatch — Iceland News
 
-_Last updated: 2026-10-27T15:45:40.479179+00:00 · 50 articles_
+_Last updated: 2026-10-27T20:28:13.380436+00:00 · 50 articles_
 
 ---
+
+## Queens of the Stone Age debut two new songs live in Iceland - Chaoszine
+
+- **URL:** https://news.google.com/rss/articles/CBMipgFBVV95cUxNSWczZjE2MTlpWnl3bnl5TWRJYzRscjd4WVVHVjcwT0FDY2lQazVENDljaktuYjZEaml5WU5pb0NDSUlTOWlxTlNnd2lIamtkTjhrU19CbzBqMTRMNXlXNjhpVVRBbUxwV2NRYVZYS3FfSGRnZE5kRC1rdG96YzBwSGdnNDJYT3lLQ2stZ3VuQW5jZ2s4Q2ZSM19XdmtFeFpuZ0FXdEtn?oc=5
+- **Source:** Chaoszine
+- **Published:** 2026-10-27T20:20:14+00:00
+
+## Delta cuts flight to Iceland from its 2027 plans - TheStreet
+
+- **URL:** https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUVFfWTVqMGtPVW1jM2VnbjB3cmRJS0gxU1N4WElyeGQwNVg4aVMwU1Y4NDhYOU5ISndpdnBzTmpoajFXWjlGOEFvTHB5RmNodGp5NFF2U25uRHVCd3N3TXVTNzhhcFNQNTNoS0xHXzR0Q1oxY2F2X0lnd2JxWmViYUdfa1J4TTIw?oc=5
+- **Source:** TheStreet
+- **Published:** 2026-10-27T20:16:00+00:00
+
+## 10 acts we can’t wait to see at Iceland Airwaves - Paste Magazine
+
+- **URL:** https://news.google.com/rss/articles/CBMiogFBVV95cUxOOFJfTG1fSGhiRl9PbzdaUVNrVFdMU1d6OTNhVi1FQzQxR1lYYTNUZXRhbEt1b1VzR2VwbmZjUjI4ZzBhWnBlWm45VUlVbTQwb2w1VGhKaDNOYk81UlBlaTliSGxpcS1SVmt1UU5TMml2bmF5TmRZSVFKNkJSYVgwVUpEcnhabktEcXJUdk1JbTBfYkhvcm9qVEkzLUU5b3RKZ2c?oc=5
+- **Source:** Paste Magazine
+- **Published:** 2026-10-27T18:32:20+00:00
+
+## What Does Iceland’s Proof-of-Performance Mean for Syntholene (TSXV:ESAF)? - Kalkine Media
+
+- **URL:** https://news.google.com/rss/articles/CBMirwFBVV95cUxQR1RFek5YYl9EVW9fel9WLXladTNUbTQ5T0VCMHZJbUdCSnJZSWd1aENQUWxPd1ZnRzBEcnp5eHA5aWlNWU1DQVYzX2trWEtMcGhVal9wOXQ1T2FHQ3NNMHBPZi14eHZWSV9SaDJ1UElqNWNfUkZCUldWc2xXYmktOFhGTHotOWlRU294MURoOXVkZVJlU1FXNWpoS3dhS1FxZW5NNW5seWpDaU5ILS1N?oc=5
+- **Source:** Kalkine Media
+- **Published:** 2026-10-27T16:28:00+00:00
 
 ## Portugal and the FIFA 2027 Women’s World Cup: everything about the road to Brazil and the Iceland playoff - OneFootball
 
@@ -279,27 +303,3 @@ _Last updated: 2026-10-27T15:45:40.479179+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMimwFBVV95cUxQbXM0OHJZTkhEaG1VQThYZkUya09DaGhzOGFwVWRVWEh6LWtneXVaSl9FckJUY3F4NXVCUXktcVVxNEV6a0JMajZHN1pfaDVaZFU3cTEzNzFTZ3RVVEFPOG5DZU5UTy1PbnVsV0FMVlBmdnJ3cllhWVFtT3VnOHM4eTVfaWVwRTdsdTFJR1U0bUN0V2pmUVN5MDh6SQ?oc=5
 - **Source:** mbl.is
 - **Published:** 2026-10-26T11:54:00+00:00
-
-## Icelandic cod prices hit multiple records despite near-doubling of auction supplies - Undercurrent News
-
-- **URL:** https://news.google.com/rss/articles/CBMixwFBVV95cUxQOENQajg1MTNDc1ktMjktdnFvQ1pLbU0tRFFVVkRJNmkxVXlMaDV6aFgxUDYyb2hrVTEzNDhjb3hUSTdLRER0RHJBODJGUVN0OTFGWXJ3N2ZoOENSa0tnNFF6LVBhMzZ2Nkc5OEZLU093VkNFeFo2czhzWWNjZjM4SFV4ajZUNXRrWE1XWDFmSXhjWHQ1VDlxMkJfMnNxVUljeENJUlV2OVRLLUJ2WDRtMkpSNE9tVGxJY2FzOHg0Y2o3eWZWYngw?oc=5
-- **Source:** Undercurrent News
-- **Published:** 2026-10-26T11:53:00+00:00
-
-## Mums are going wild for £30 Christmas dinner in a box - it serves four people and involves absolutely no chopping - The Sun
-
-- **URL:** https://news.google.com/rss/articles/CBMijwFBVV95cUxQYU1rRDRMWVBHSFV1ODdlQjA1VE04UVJvaVpSZU5QQU1ENVJwXzA1Y1pDakZ3dUNQSVZfWmdOVkE3QkpBRzZXVzhYd2c4YW1NNnREb1ZHOFpteGRhMjRwT3hpN215Vy1xdDlBSGlya3ZLa2lRWkp1LXJMeHI0ZnNMajViV2x5WUhLWGx3aUswcw?oc=5
-- **Source:** The Sun
-- **Published:** 2026-10-26T11:04:00+00:00
-
-## Skagafjörður Seeks Mileage-Charge Exemption for Fire Engines - Iceland Review
-
-- **URL:** https://news.google.com/rss/articles/CBMilgFBVV95cUxQc2gzdGJxYlM3NU5INmpXMkNHTVBsWFdneG9HUVBPRFZ1TUVLZjZSLXlNMlVNVkJ0cXZGZ2hNVnFvb3Ztb2d4aTdKeDZkQXhScXFoa1RhZ1ZOM25XeUk3VHAxd08wSHpJYzdYRnk2N1FEQUdoR1NVMGstUDU4U0FjYkNUOHNWaXZCd0RuQVFVYWpyTExlQ0E?oc=5
-- **Source:** Iceland Review
-- **Published:** 2026-10-26T11:00:50+00:00
-
-## Air China Adds First Beijing–Iceland Flight Connection - Rus Tourism News
-
-- **URL:** https://news.google.com/rss/articles/CBMingFBVV95cUxPSmI5Rl95cTRiclFTNzJ6X19nUVhocTlqMTVNbjFLV0F0MmJtN3hHdnc1ajB2ejk2QkZ6REhkMUZ3d3p5Mm95bWNuSEpjR1h4djdrTEZhVmR1Vi15RFRaZzZCQXFTVUtBOXlOdTNWRzhqS2xFS1Jlc0dCMjdfVEVrY0NtNG1VUlZzdUltZWZ4VHNtMU9YUzBFX1N3Sy1JQQ?oc=5
-- **Source:** Rus Tourism News
-- **Published:** 2026-10-26T10:53:27+00:00

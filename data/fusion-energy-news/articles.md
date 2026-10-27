@@ -1,8 +1,32 @@
 # NewsWatch — fusion energy News
 
-_Last updated: 2026-10-27T15:45:40.861848+00:00 · 50 articles_
+_Last updated: 2026-10-27T20:28:13.779184+00:00 · 50 articles_
 
 ---
+
+## Constellation Lands Up to $5B Conditional DOE Loan for Nuclear Uprates - Securities.io
+
+- **URL:** https://news.google.com/rss/articles/CBMinAFBVV95cUxPWmRxa3AzVEp0ZVNFZm9RQ1MxU1pzMzE4WWszSVh3SnhwSGYtVUNsRjNnZlBFX3VZeFB0R0tMaUJxM0RFN2Q1eUVZUjFfZklyRy1JdHpvZUYweDJ1TE9BcHdOeEtCWFEtZVF0TVZzNVdOX01CUEJRUXFsNnU4aEVUel9uNmUtdU56Z2ZIeW1KUGp1WW0tRmM4QzZybFI?oc=5
+- **Source:** Securities.io
+- **Published:** 2026-10-27T17:52:03+00:00
+
+## Fission vs. Fusion: Two Startups Racing to Re-Engineer Next-Gen Nuclear Infrastructure to Solve Traditional Energy Barriers - EnergyTech
+
+- **URL:** https://news.google.com/rss/articles/CBMijAJBVV95cUxQbmdvc2tDRHpzS3RNMFl3azFhNktzX3RSLVNYWHIxNEYxTWlnOG9qSGtZN2NQaWFIMVZmSHROaENHY3dQWDR6RUdRNS1iX3ZHNHM0SjlEUGNVT25Kd1NLSGN3dHl5RU1tZWlYb2RIT210UEM5ZFduVGNXcUtlUFg2WWhWX2RHNWVQdERGRXJzbDNIVWZqLURnY28tOVFSNFpmUUdxWTRBVDMtamEwcWxMMjZPRFdCdWhZdTMtM2txSC1FcTd4UUV5c0c0bkI2ekN4TUZ5ZnJOLVdXRk1uSXdHRk9lTUNDT09pSTduM1lvUEFBeTBJeUtqY1F1OHdnQURublJfQ09FdlRqYl8z?oc=5
+- **Source:** EnergyTech
+- **Published:** 2026-10-27T17:36:47+00:00
+
+## Nuclear Fusion & Gold? "The New GOLDEN ASTEROID" - SilverTrade
+
+- **URL:** https://news.google.com/rss/articles/CBMioAFBVV95cUxPV2M3cS1kNXhLNS1TMng1ck96S1lobUNlV21WeV9UT3pmRmVDMlZkT2lBTGNVc1ZUN0wyOFpvUTd1M2g1cVM5eUt6MVU2elZwcC0wWnZEYzhPUjB1SmVYSjRXWGJQUlRha242OVQxZGdmeFlxalloLWhuQmhfcXpMUFBxcVVRUkZZb1JIUTZGUmlQYmJKRU9tdVlSeWpWTmZT?oc=5
+- **Source:** SilverTrade
+- **Published:** 2026-10-27T17:20:46+00:00
+
+## Two UT Physicists Receive Department of Energy Early Career Research Awards - College of Natural Sciences
+
+- **URL:** https://news.google.com/rss/articles/CBMirwFBVV95cUxNbU1Bc1dERVp0NTFsbC16X05ZdldVQ2hPcGRXMTBBTnRkcW8wRWtuZDhGR01DUWZnZWJtNVZYVnFfdERFQUc3WVFseUpVUDdqMDk2TWdCZ2xXOEY4aGlKRDIzVjJHOTBKY2J6U3JBNFI0czNjNllmalBpNEZQc1paWHRKSV9QT0swVzJOaENnalY5LVpHVlVTQWctS3ZUZmtMNm50MV81TTBWdUF3bDA0?oc=5
+- **Source:** College of Natural Sciences
+- **Published:** 2026-10-27T16:36:00+00:00
 
 ## Israel Ministry Calls For ‘Immediate Action’ To Launch Fusion Energy Industry - NucNet
 
@@ -279,27 +303,3 @@ _Last updated: 2026-10-27T15:45:40.861848+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMirgFBVV95cUxQblhLdW05cHVHWjIwWTRUYTNyZnpIWHdIUTdWMkxwaGxlNkxSdlhwYXVndDBjNzZXSGRzbnN3UHJ1aGJxMkxBd19OdHJBb1dMMkNlMUJoTlZJclFOckh6V0ZybXdRenJwdmVkNmszTF9rcjFFZ3diaVdkQk45VW5LbGc5QmxzYnZQZzRDZV9yNU9pMTRaeDF3T0JrVUxKNVRDdUFwSGdINmw0MDJPM2c?oc=5
 - **Source:** American Nuclear Society
 - **Published:** 2026-10-26T01:39:55+00:00
-
-## PPPL's Tungsten Warning Matters Most for ITER and Other Fusion Machines Already Committed to Tungsten Walls - Nature World News
-
-- **URL:** https://news.google.com/rss/articles/CBMi6wFBVV95cUxQeFJiakN5S0ZGTnJ0MS1WcHY0YnRVR2stSUUxWlFvZDFhVUhPWWV2Uy1Kb3pKS1FvNzZ2bjFGYm85R0ZraDJzYUt2c0Uxclp4SDYxSVVzYWpncnAyaXMtUGJIbFNJN1JndDdsWmM4Y1ZIN2FEVDNpV2xIam9CZGNwRkNYNzM4emlNb29uNjRnT080MW02WjBCeC1TTGpoR0otSkhzOW9NTDlDcUNtRFZzZWNmNU55Nm1zN0stSUVjek1PNnhYTDYwUEFEalRORk13U2J3UkpBeFNmbzVCUi1LM0pDNjg3WjNwd0JB?oc=5
-- **Source:** Nature World News
-- **Published:** 2026-10-25T21:48:13+00:00
-
-## Parabilis Medicines announces safety, efficacy data for zolucatetide - TipRanks
-
-- **URL:** https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbzVEQjcxODExUVdkVFIzdXBUeVFka2FJbWJuc1dlUGpWVXc0VmRROXM1dWN3c3lqSXlXZ0lIUVRJOEZ6MDh0VENiZ3RkOXZsNjdOM2lHQV9nTkFrbUVCdnJJVWc1TEJFeXZUTl9CZVEyaTJGQkExVnVRX1g3RHN1TU5mT2lqZWk5aVZXY2pnUzdxWXdmUlBUMHlSTlEzbEZPdEgwdkFYYUxKeEdTWWdndE01TkFlTU5H?oc=5
-- **Source:** TipRanks
-- **Published:** 2026-10-25T20:40:05+00:00
-
-## Victony & FOLA – TWIN - Tooxclusive
-
-- **URL:** https://news.google.com/rss/articles/CBMiXEFVX3lxTE5tRC1xVXRzN0o0WVJwYzQ1X09XVUNlMWlZUlRtWWs5US1LX3p4VkhEbUF1OWJXZlR0dGN6ZVdmVnZWRnZhNDdibjlFOVB2NC1XTzNBQ0hKU2NDVU40?oc=5
-- **Source:** Tooxclusive
-- **Published:** 2026-10-25T19:46:58+00:00
-
-## Ranked: The Countries Building the Most Nuclear Power – Visual Capitalist - EnergyNow.com
-
-- **URL:** https://news.google.com/rss/articles/CBMiowFBVV95cUxNdEt5SDJ1Y3UwcUxhYUZ6dTFsQkFoQ1QyRVQ4R3IwSk9lcHZyTThvUXVnT2xaUmg4dVFSZjhBUkdrbUdCbXNLVzlWdDlYbEpPX1BDU2dwVEF4aFFsakJ5Y2hWV2pVSkJEcTZRZnJoOGc5TU0wdE1hYll1Q3dIM1RXM281a3l2WUxvOG5YZ29wNDR4bC1YWExVdFJfTjVwLUEzd3c4?oc=5
-- **Source:** EnergyNow.com
-- **Published:** 2026-10-25T16:43:50+00:00
