@@ -1,305 +1,305 @@
 # NewsWatch — Microsoft News
 
-_Last updated: 2026-10-28T17:58:34.916616+00:00 · 50 articles_
+_Last updated: 2026-10-28T22:28:39.647586+00:00 · 50 articles_
 
 ---
 
-## Microsoft employee with ‘200/200’ rating weighs exit package amid layoff fears - The American Bazaar
+## Microsoft Posts Record Revenue on AI-Driven Azure Growth - 조선일보
 
-- **URL:** https://news.google.com/rss/articles/CBMirwFBVV95cUxNY2lQQVkwZHhsWFpWa2NsYnh4SXBnUDQzbFF1SEdYR1lnVF83dkJyOG1sdWR0ZEJQZ0lmRnZKSFRGTHh3WUhPMlUta2g3WThmeHBKWUJQc0FWNmVkREg2Yk1SYXVfZTJtdXNXa0s3TlJwU0UtdWpQbEpvVm5SX3M3NUJGbnU3ZGpoRDM3Mm9XNnhleDFNeDdFVFJmdHVkU0thWDBnSWs4VXk1UU1ya29V?oc=5
-- **Source:** The American Bazaar
-- **Published:** 2026-10-28T17:50:54+00:00
+- **URL:** https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQU1zdzNZQ2hTeGZDbDB3cUFUUWtFRG54c3k2eFhETnV1RzFMa2VQczJUVkw0VXNqcU9QN0JnY1lXbW9rT1pJeEdOWnhJbkk3cEJBV3k0UV8yNFBCbFhGeEp3WXdPdko4VlhBUm11LUlQZkthVWtYZklsM2VaTWN2VHo4Z0dpY3d2?oc=5
+- **Source:** 조선일보
+- **Published:** 2026-10-28T22:23:15+00:00
 
-## Microsoft might be the 'adult in the room' when it comes AI. Here's why. - Yahoo Finance
+## Microsoft's cloud growth, cash flow offer respite from AI spending fears - Central Oregon Daily
 
-- **URL:** https://news.google.com/rss/articles/CBMitAFBVV95cUxQRkM0cEFJU2hDVUZKSU1lSkswUG9CbkR6bmFfTVBPejVZOGQ2czFJcFg1UEpOaE5ydVRuWmtaZnV5QkRVNTNrRmZEcFN6bndxSFRJX3JaS2pvU0g2TEctajh3YTBWUHRaWXFhNDZmbExKem1oY25Ua0Qzb0ZxVGFvZFNFa3RWeFpoQ1VIMTloSVNqUlJPblBCenFzeXNHbEhkdlhOSFUyQjJJSGNoSjRHZjlXWVU?oc=5
+- **URL:** https://news.google.com/rss/articles/CBMigwJBVV95cUxQUUxQZkkzck5oR3VhRS1icnN3dGlnNU9sZm1ZZjBUZWtrZ2FEcXdIR3dvd3VaOFVad0VPS0FkaTVDUlotUXc4ZTBFQkc2UDZwTzlXNkM0Vi1oOTlQajl0Uld2SEZXeFA1c243eTlFMVFhamZlUS1CMTgtOE5sUm43QXc4Z19rVUFFek1xRE9hdm0tTDdwVzl1bjJnNmFoZDBjLXhxWkNCSFVJVHNOWUNlNFFVTEhIWFI4RnhDSUhHYWZjS3hJMlM1OU0xR2JueXdpaUVkNkVhWm9VVzB0T2Q2SzNpbDd1QXc5X2ZWY1pPM21mU0hLaVlCZW1xcURLUllfRVRV?oc=5
+- **Source:** Central Oregon Daily
+- **Published:** 2026-10-28T22:18:53+00:00
+
+## Microsoft's Satya Nadella says 24 new data centers built during Q1 - Yahoo Finance
+
+- **URL:** https://news.google.com/rss/articles/CBMisgFBVV95cUxON1VSSUx4UWw0TGlOdWpqeDA1YlV2ZkRObGQwRDNtakQ5eTg0VjVZTnZ0ZXBCSXU0X2dHTkxzYXJWa0JUa0ZXeS10MXB5Q2V0LV82SS1rdnNjUmlRZzlXMHFYVDJsNmlyeFV3cFR6dmJQTlNnTElhRldfRVpvckF6aC1YQnhKZ0JCa1JaMkptX2VGWUhqeElXNmgzOS0tYUxXaUhUSG5FcmU0T2JNQ0VhZFh3?oc=5
 - **Source:** Yahoo Finance
-- **Published:** 2026-10-28T17:43:38+00:00
+- **Published:** 2026-10-28T22:18:32+00:00
 
-## I'm the ex-VP of HR at Microsoft. Here's what the 60,000 employees mulling a buyout may not realize. - Business Insider
+## Microsoft (MSFT) CEO Satya Nadella says Minecraft had record revenue and engagement in Q1 FY27 - Shacknews
 
-- **URL:** https://news.google.com/rss/articles/CBMikwFBVV95cUxNQkxQU3ZoM1lGNnhwWlMwU09ydFZmWnotU0NxdS10MHpSaEg1dG1yVlh0Z2dScWlFQnZXOS01ZFBhVEloem5VODRSM1d4b25hdXlQWDlMV1FNNTJKZ0MxWEZKRm93MllienBObjJaVGFma3ZQNEJoSFJrZHJXOHVhMWstRXFqUzEybHlKdXVYQmdJOXc?oc=5
-- **Source:** Business Insider
-- **Published:** 2026-10-28T17:38:44+00:00
+- **URL:** https://news.google.com/rss/articles/CBMikgFBVV95cUxOOEZ3QVRlbFNNaDNQMFYtLWNiN1NyOVVBcnFoUExLM1ZPTDNJNmVVTklIb1I2dmJaWXZnXzN1UWEyZkpFT2Q0QnREbzdrcFNOQktRN3hwc2hPalZ2YXFHNVNmTXNLSHRGZkFZRWVzWHE5YmV3SlN1all1amFoUkdyQnZ4elBzQjRBX0pEMTdUeG9lQQ?oc=5
+- **Source:** Shacknews
+- **Published:** 2026-10-28T22:17:00+00:00
 
-## Microsoft earnings live: Microsoft to report Q1 earnings with Wall Street looking for further Azure growth - Yahoo Finance
+## Microsoft Q1 Earnings: I Was Bullish, Now I'm Doubling Down (NASDAQ:MSFT) - Seeking Alpha
 
-- **URL:** https://news.google.com/rss/articles/CBMi_gFBVV95cUxOQUFab0V6U3FBYnBsV1o1Tlh0OUtpM3JtRGxicGdiNi0tNF9wQ1FPT0NocUx1Zl95eFR0RTBGZGpQTWozcW5NZDBsOV9rdnNsTVVzcTVfYW9pekJRZW84YURfcmxjOWktSGxTb3hEYjNnV0MyNThOZWVRNU14aTFiMnJ0ZkdwZDRXNEl1NENMOEozQm5PZkVWVGZRSk9Wc0lxZ2dmcUp4cXIzWXFQVTJMeTVKMG1BRDhuNXU2VkpPRDlTSXBlNS1IUFVWaTViMFpKbHdEYlBETjR4UzBjQTV3UGJiM2RTak11QlZ5ZzhRc0V3VDJtaE1tdmIteHIxZw?oc=5
-- **Source:** Yahoo Finance
-- **Published:** 2026-10-28T17:30:00+00:00
+- **URL:** https://news.google.com/rss/articles/CBMingFBVV95cUxNUF9NTmZaQVhtd1FsWDdzc0dzMVdZTEJfVEtHZ3huNTlWRzMyNGE0ek5oLWx5Vy1VZDVVUmhCUHJJYWlNQ1l6U1Y0X2w3US14cWxDSFp4ZWlQTEpmN0lteVVLbHM5dlk5SmQ5M3NPby1KbUpWRXFKRm9HWE10dUpvSnk2Q2d3bVI3Vkt6QkNxR2ppT1VnalBxSm1MU2JKQQ?oc=5
+- **Source:** Seeking Alpha
+- **Published:** 2026-10-28T22:15:08+00:00
 
-## Port prepares to manage Microsoft's used cooling water in Malaga - The Wenatchee World
+## Microsoft Predicts Xbox Will Return to Revenue Growth in the Current Quarter - Simulation Daily
 
-- **URL:** https://news.google.com/rss/articles/CBMi6AFBVV95cUxPb2ktb1JyTWk3T2xRcmZRUmNPY19ZaE0tYnJ3VUkxOC1UdWlWNGRrTzYtQXBsaW0ya1E3T2lSNDJWOXZkRlpYcElOTm1Nekpnbms2NFdhb3hvT0FFUXlzdHl4TUhVVGdTTS1EQ3l6ZXFCOS1qLWZEUlA2YWhuMGp2NVRyVHRIRHQ0YktlTHpKYmdkdDhmSDlQY2FhZ1JjMERjVHdLUnI2R0RkVk8wcGE5MnFJelJpQk5jazE1YU5BSE9KaUx4RE5Td0U2MFZzLVBsZGJmMFEyWEZ0eDVzQkVSbUp3cTEtM0I3?oc=5
-- **Source:** The Wenatchee World
-- **Published:** 2026-10-28T17:30:00+00:00
+- **URL:** https://news.google.com/rss/articles/CBMieEFVX3lxTE1fbmlCZEk0T1dPdDg0QjNCcHlwV0hMQWVyZElIcFdRRlF2WlRqMUYtd1YwaDg0aUFFeWo3MHdSd21tQ1RQT2UxcG14YkIxWHlPai00cTBEcGNEUWxQQzQ0RW5oZ3ZWZkJBSldxbVZzbGhsQ3pJRjJqSA?oc=5
+- **Source:** Simulation Daily
+- **Published:** 2026-10-28T22:11:12+00:00
 
-## Microsoft Doubles Down on Azure Cosmos DB Developer Tools - Visual Studio Magazine
+## Microsoft Expects Q2 Capex To Be Over $50 Billion, Total Revenue $96 Billion-$97.1 Billion - TradingView
 
-- **URL:** https://news.google.com/rss/articles/CBMitgFBVV95cUxNbm5Gelp6Z0JnSGwzWnJXejk4WmtTaXNZamFIQmx3TGNfamthb1dwckxGcVpFTjMtbDl3MEFsaHN6ajA3OWRDdUhFLUZrYlliZjV5MFFQSVBVUGYxV21MV0I4Z0tFSWRudG4yUWdORDYxYzlUYzlTaXZnUzdNSU9nczFMbWVGQmJFTUtZSXRMdEpUdnMzbEFRbXN1ZkEySXVsRTZ1VUhnVWVTYklmSFAxMGVZYU9QUQ?oc=5
-- **Source:** Visual Studio Magazine
-- **Published:** 2026-10-28T17:28:43+00:00
+- **URL:** https://news.google.com/rss/articles/CBMi7AFBVV95cUxQX3hvWDF6bU5xTERvMUpNN0I3QVdMNVhDRDdIdk5pelRwZXpYOGRhWU15bUdPUDB0bzRtR3ZZc0ZWN0ZOMXI1OGN1T0E1VXZLODVZd2VhT091OHRPeGQtYzdkZGVpY3dpU2dGdTlRdHlWSXp0b2h5TnZpOVVWSy0zT0pmdFdEdzUzQjZlY2NMNTNtNHI1TEhaampyV3UxVnNKSDhFUU1VSFRlbjBIakxnQ2Y1bGU5N2lhQ3lWNGdmVGFXU3Ezb3VmT3dvQXB4LVZiSHBJQkJET0hZXzFTVGN6dDNPOWVjY0lmaGVQbQ?oc=5
+- **Source:** TradingView
+- **Published:** 2026-10-28T22:07:33+00:00
 
-## Microsoft Stocks Edge Higher Ahead of First Results Under New AI Reporting - Yahoo Finance
+## Microsoft results show software 'is doing great,' says Deepwater's Gene Munster - CNBC
 
-- **URL:** https://news.google.com/rss/articles/CBMioAFBVV95cUxQanZGNWdSVEFoeHhBNHRkY0JseHNzSVRrcHVsX19mdG1xQXdaS25SQy1UUlctWnRCcUZSUFhPTTA3TWdUZF93RkpvWEpGNDlnQ0JlSUdlOVUxR2lfQkRiVGZ2ZDAtWUxIZU81YUF1OEhhVWJLMS1IZzgwSFhqUEpOTjM2YWhvOWVHT1NDamU3WTBudDliSUd4ZVdEc0lhR09w?oc=5
-- **Source:** Yahoo Finance
-- **Published:** 2026-10-28T17:28:25+00:00
-
-## Microsoft Signs Clean Energy Deals in Japan with Macquarie’s Blueleaf - ESG Today
-
-- **URL:** https://news.google.com/rss/articles/CBMimgFBVV95cUxOdmFNa2o2Vy1JZy1hLVJkeFpLc0R2WGR1R2NjNXMzaGFCcHMwQTVvRC1yWE9rOWhnemg0dzRxYzlDeHRLVkU4cFBfckRPRW5ZZTV6UjBmcXA4QWJNaktkOVZaYURzc2pQWVZGOTdXWnhuSmVqam5MaXlfc3Bkc0RDRWpfTGl6WEt0WUtwODRpbkRkNXNobTZQZTBB?oc=5
-- **Source:** ESG Today
-- **Published:** 2026-10-28T17:18:56+00:00
-
-## Microsoft wants to make storage that lasts 10,000 years, and it's not an SSD - MakeUseOf
-
-- **URL:** https://news.google.com/rss/articles/CBMiogFBVV95cUxNZHM1Qk1GWTN5T01BcWtiY2VnVWZiRzVmVkd0amtRMUIyYzN4VmJGUkJQS292alN3dW5lRDdnVXM2bUE5ZzF3clpQbG5LNERHVTNKVzlfUk1XVXhOM3JqUkpyRUFqSzBVQjQyS0U1UUlYeUJvUEIzcll6b1JDVFBXOHJyQ1ZkVlVnY2trNjhHUlRFSjhhRVBNX1p3cUFxY2ZiVEE?oc=5
-- **Source:** MakeUseOf
-- **Published:** 2026-10-28T17:15:45+00:00
-
-## Microsoft Makes Copilot Harness Available Through Foundry - Unite.AI
-
-- **URL:** https://news.google.com/rss/articles/CBMihgFBVV95cUxQVWFLZTJNMzkwLW9ieFk2ajNJaUI3X05PYV9iYWduU2gtWWliQVlUaURBQkgtOTRVRnJrTHA2VDItbnZaQjA0TXlYRlZjVmE5LUVWbVVMRkFzV1RVdzBJY0VzLVVfY1pTVmozUWdxUHBZTGUwVzdobWdmS2JEdDAzMmpuYWhBUQ?oc=5
-- **Source:** Unite.AI
-- **Published:** 2026-10-28T17:14:03+00:00
-
-## Score a Microsoft Visio Professional 2024 Lifetime License on Sale for Just $50 - PCMag
-
-- **URL:** https://news.google.com/rss/articles/CBMinwFBVV95cUxNSWd5UkxDczQxRzZRaFpjRk5PUm1EOWFXdmUwRzBNR3FXNUFJUW8xYk1LSXJ1MnY2OGQ2dHFGbUJValk2VE5MOXFzYVR4OENMMk45T2xFd2MzNUFJVkhjSXB4Ym5CQnROWHoyRU9keWc4Z0NfNUdKYXZ3eF9qM0xBTTNaSjk5S2MtNlJHSVBUS0RsRVdmQkhGU1o2UndKZ0E?oc=5
-- **Source:** PCMag
-- **Published:** 2026-10-28T17:08:23+00:00
-
-## Microsoft Reports With Zero Sell Ratings and a Year of Flat Returns, We See 22% Upside - 24/7 Wall St.
-
-- **URL:** https://news.google.com/rss/articles/CBMixwFBVV95cUxPeTBQWVFmTFpjRHFvOUdGREQ0WkFEQVRNQlRWZ0YxekNjOFZCSHEzZlIwX3dqVER2RkdKUXpKSExlRXVTdEduWkxnLXdnR1BBQ3BEejJJTjNWZF9GbmM3dWdlWGE4RTFjTVVXWXptdUt4aWNDeW1pOUo3YmdQM3YzSE54RTkyYnpFZkFzam5lWEZ3cmV0ZkpvN2NUODNUTl8tRDIxMWVZRUhzTEVVREQ2YzhnY2dWVU1NTEZvQy1CZllKT0hJQkdn?oc=5
-- **Source:** 24/7 Wall St.
-- **Published:** 2026-10-28T17:03:00+00:00
-
-## Microsoft adds Intel's performance-boosting APX instructions to Windows 11 insider preview build - TweakTown
-
-- **URL:** https://news.google.com/rss/articles/CBMi3AFBVV95cUxQLUZWUC1NMkQ0ay1rQl9Dbk5JV0Z3Wl9ScVlRQWNvc0laOTV0X1pzY3RjYWdMaEFEY1JuUFNmbDR1U3ZmMng4UFQ1bUFTTFpvX2NaV0VtbzNvREJHN0VZTFk3Y0tzRmp5ZG80Qlc0Q0xiOThRNzJRUkYxYWVOS2lhZnd3R1ZBQW14RGgzbkthSTFZOTBGT0J6aWNPd1ZWdEhkazZfNFFHNThhWmlCeWVzYUI1YzVYTzZSaTJTbngtTGpTdzNtVzg3ZEc4dmpfOGFFYkFNcmFfSmxZV3Rw?oc=5
-- **Source:** TweakTown
-- **Published:** 2026-10-28T17:00:02+00:00
-
-## Here are all the new features Microsoft added to Excel in October 2026 - Neowin
-
-- **URL:** https://news.google.com/rss/articles/CBMioAFBVV95cUxPZWdfQVJ0NzdfMGJFRHRWalZUa05sTHhXTkhZeDlGTXdOQ011bHdxbVktYklVTDY5Y3M4UUtwckJfQk4yMkpmMVdmRnFaeDhONUMwSlhmbHJnbHJvajVJMnBPbXNVcFY2Z05HS1pqRnFoYnRkai1hdHByUEwwTkVPaEZSYm4xUHdocGZ6eEw4NnBJeUstOWNVQTJaUGtXTVdC?oc=5
-- **Source:** Neowin
-- **Published:** 2026-10-28T17:00:01+00:00
-
-## Microsoft offers a quarter of its global workforce voluntary buyouts as AI spending accelerates - News Channel 5 Nashville
-
-- **URL:** https://news.google.com/rss/articles/CBMi5AFBVV95cUxNQml1blREWE12RzA5dndrUGt5OGJQTVoyeGxuME9BY2VnNWphOWdhSHZuTUJWbUQtSkJGNWJvU1gycm5CS21PelV2cUExVUFqeGtmWk51V1RVS3JnT1BheDFDZ1c2cGtuTEZaWVRmbXB6RVFqdU1YYndZeTFnd21CNmE5UDB1VFpqczU3aEZkYWU2NkJkRmhUNGhtYm9oX1dWbVltZjUtMG1uN3lnMVpfbGg3R3p0dVQ5emx4cjBXRVl3V1hybmc0N2Z4djJSUlZiaDZacGZhYkVUVmFPQUk3MlVxSXU?oc=5
-- **Source:** News Channel 5 Nashville
-- **Published:** 2026-10-28T16:29:48+00:00
-
-## 📊Hyperscaler Results: Alphabet and Microsoft. Will results justify giant investments? - XTB.com
-
-- **URL:** https://news.google.com/rss/articles/CBMi1gFBVV95cUxNdUVTM25ya01wb1JqR09RTnlZSFd6alVUNE10RVliaHNwYVRqYTc4RHFHRUk1ZzhpNTZabEJGekdqVERlal9wcFJFNmxmN3paS2tOWGxEYjd1azdtSFBZbGpGOHY2TTlCT1ZOME1TR2JqcllCeGROTW1neHJTT0hnYjA0TDNYZlRlcmphTkhIQVN1cWtMLVo4ZF8tZkJYbTlXdUc5NHU0bERORUloa2pxeUZMZUpyd0Vqa0lTYnctRHBIQmxmMmVQVFpXa0ZjWmw0RXdXTXl3?oc=5
-- **Source:** XTB.com
-- **Published:** 2026-10-28T16:26:45+00:00
-
-## Microsoft offers a quarter of its global workforce voluntary buyouts as AI spending accelerates - KOAA News 5
-
-- **URL:** https://news.google.com/rss/articles/CBMi2gFBVV95cUxNcDZOWUNpWkFCcTlDQV83RDBLRmJsQWYyOEFmUWFDWTNyLXVpNkJtN2V6Zm9nWDc2Z1NMeW8xcEw0VUJBTThiSjFfZEJOUDA4MkJvQk16aUUyb0FoemtFMS1fSmFpMFN5TGpQVGtrckJBVUwzY0Q4OWhQVmJkMzUzRFU3YzJWOGRaVURhV0ZXTXZ6VGs5TWVibmZzLWxtc3NqLXRsOHdFc3FZZFVnX1p4T3h0alRVbzlVOVhHYU8xZ1pkZWp0Nzdfd0ZmMGp5TjFNb1h3UlJaSzJtUQ?oc=5
-- **Source:** KOAA News 5
-- **Published:** 2026-10-28T16:24:56+00:00
-
-## Researcher Reveals How Logic Bugs Alone Cracked Microsoft Edge in $175,000 Pwn2Own Win - The Hacker News
-
-- **URL:** https://news.google.com/rss/articles/CBMihAFBVV95cUxQeE5pVlpYdmFvZnBnTldZRGNjSmJuVnRaUm9FX3RSS2FtV0dVWTI4WUdkVkR4MWc4dEJtVGRLTGVIVlBfNmU2OWJGdmkxREZncUJYdWhhSmxobHhjN0FCVUxpbjRkRTlOb0xOMERVdlBVazhpTkpkVHNLOWpoNUJlS0RINTQ?oc=5
-- **Source:** The Hacker News
-- **Published:** 2026-10-28T16:23:00+00:00
-
-## Microsoft MSFT stock Analysis at $527.8, down 0.66% - The Cryptonomist
-
-- **URL:** https://news.google.com/rss/articles/CBMihAFBVV95cUxPNjJnWkFNUEE1MVBPM09Gd0ViWGdxRU5jSFEtWDdLN0tvZHhvMGo3eG1STTFqR1ZSdUI1cHYySFBXby1lSzB0MXBjWl9IcjVYZkgzVXNnR3g1cndNOGxGTEpNZzg3RGJwd1hVeTFYek9uZVBPcklvTkdnWmtTZktIRGtKeWU?oc=5
-- **Source:** The Cryptonomist
-- **Published:** 2026-10-28T16:13:59+00:00
-
-## Microsoft Offers Voluntary Buyout to 60,000 Employees - Yahoo
-
-- **URL:** https://news.google.com/rss/articles/CBMijgFBVV95cUxOQjFXNTN5czRTRzNhZHZzbnAtTHBNSV9yUjVhdFliNGR3Wm5BTlUtQkNraW1FVERUTlBXQ0M5NEFFZmUxWmZLRjJ6NERnaU1qOXBkMHI1eFhDaVRrWFZZczNsTmpLZUZqU281Sy1IS0VnRmdFWjljRTlYaktUWUJONFRrZXVud3dkWk9QRUZ3?oc=5
-- **Source:** Yahoo
-- **Published:** 2026-10-28T16:11:23+00:00
-
-## Here’s How Much Microsoft Stock Is Expected to Move After Earnings - Investopedia
-
-- **URL:** https://news.google.com/rss/articles/CBMixgFBVV95cUxNQVNKTWNlM2x1Sm5oa2M2TDd5QUVvdGhWQ0ItRkpQdDluN1lhRkhCOFBpTjNhUlBQRWVaUlFDR3E4b1R2WnNFQlB6TjcxZEE3c3BweW5OY1ZWNzk4aWltVEdibjdrOHNMTGtRNm9QcVh5a0Z1aFpxaTNPTmdDbXNNeGUwalJHUUpxd2NsUFJlcUkzQXhaVmtBTVcxV3ByS3FxQ2VZakxqRFhySV84dTZESGhQNzRYMlRTT0ozZlJrNUNkU0J4NEE?oc=5
-- **Source:** Investopedia
-- **Published:** 2026-10-28T16:11:01+00:00
-
-## Microsoft Extends Work IQ Business Context to Cowork, Copilot Studio - ERP Today
-
-- **URL:** https://news.google.com/rss/articles/CBMijwFBVV95cUxOS05vc1MwTHlPTmYxMExxYkFVVmFNTkM3SGJ1bi1MRTZZVk9Wc3JqU3V0Y0hCLVlad203QndZd0Q4U1NFY3d1QnRCdWRmbkt3eXdsSkl2QXpwU2Q2TGt4dFNUQlhhaVBsVVZvck5iTVdtVGlJNFBhYklHbjhpRmlOQXp4XzFlOXlmNHEzdXpOcw?oc=5
-- **Source:** ERP Today
-- **Published:** 2026-10-28T16:06:06+00:00
-
-## Microsoft earnings will land after the close - CNBC
-
-- **URL:** https://news.google.com/rss/articles/CBMigAFBVV95cUxNclpVVGdGd3NYYWo4bGNFRTVlYjhQc0VhMzhmZnRsRnlTNkRidVNwaGlQVVdPMktwMHRMYzhUTWpYUXFYaVFfZFRkSkRmbDNGOWxVa29MSWhhUDk4RE9BVElXUTY3SWo2SHRNbGVhRU9vbjd3ZHJnZlpTdHpSbHpDNNIBhgFBVV95cUxNRXA0VC1WZEYxMWVmenJmdVRiRzhDRFVzUVNVNlJXaEJDc011NjZuT2VHdTJLYndYaGV1NDM2UU93Zm12X1J2VWtYMEJNQ3ZkU0Nhb3M0c0dQT3pzVFl3eTlqLWluNHJjRHpVRTJicTdqSXNTSHBVQjdKWlJtYjZjN2tQZkc3dw?oc=5
+- **URL:** https://news.google.com/rss/articles/CBMiugFBVV95cUxPMjVLTFRObF9XMlNIWXp3M2hXbWt6bFlOZnpJb05iWTJ2TFFDbWtYLUxaWUJ5RjZ1RmFtTzNOMDBaM01SQmwtRW1qMXFMZ0NpdVc0b3RiSDE5ZEFBQkdFbEhyVW5aM2tQNjRhYWN6ZGdOcDl1SW4wNzJUR1E4X0wxT2RwTFNpa3QwWUFsakhiSlRwYkt3MEVGM2hpeUk1czd3dzc2U3ZnU1NnY0RNNkdvQUQxeVM1ODR4MVE?oc=5
 - **Source:** CNBC
-- **Published:** 2026-10-28T16:00:01+00:00
+- **Published:** 2026-10-28T22:04:25+00:00
 
-## The CISO’s evolving role: Protecting and defending in the agentic era - Microsoft
+## Microsoft Corp Q1 2027 Earnings: Live Updates of $MSFT Earnings Call, Stock Forecast - Yahoo Finance
 
-- **URL:** https://news.google.com/rss/articles/CBMiwwFBVV95cUxQVWNSRHZtQmU1TExCSDN5d2toaEtaY3FUV3hqWTN2SlJibDdvT2pfVHZRX3cwMUEwYUtGMmRBekRiNlBBQVZTbndxYnpibUZqbnJpOVAyd0tiLTY4SEVtWmY5UmFSSlZfZjZBY0pmSTE3Z0lQSHRiNzdpSHBrR1pOVmNBbWk3Z1Y5SGNvYXNHMjFPT0JrU2pxbURSd0FvUFJOOFc5RGlFWWtCN3RrSTBILXFRSXpCTFk5T2JXN0gxTnljZG8?oc=5
-- **Source:** Microsoft
-- **Published:** 2026-10-28T16:00:00+00:00
-
-## Should 60K Microsoft workers take the buyout and run? How to know when you should nab a package, or turn it down - Yahoo Finance
-
-- **URL:** https://news.google.com/rss/articles/CBMingFBVV95cUxNQ2FuODEtb083UFFZVWljdnBFdHl6YUYzWVhfTDM2WVhYRnNyUDhKM1Rzd3k3VFpWRklPcm9zeDNmSmdzY1FORjM2VmlIUWNRdDRyZ0pERGRZRUZ2MFl5TzhPakVLeXJGWXVZb2Y4S1BrdjVCWDVmamdEZUUySWptbU1SR0MzemZMQWxGVlVDdzAzLWVsQ0hnYVRJamNlZw?oc=5
+- **URL:** https://news.google.com/rss/articles/CBMinAFBVV95cUxPaFFMZVFhcXYxVXZlbzhmMzNJSkVYcG1UUFlzYW0taXdRd1ZqMUZER2tZdW90dksxd0RUTlVGbjN5LVAxaFJWN3FrT0JFREg1aFYtODVPTFEwRm82VE51cEQ3RXM5Vy1CMFBVRWdJd3JidWJOaHJlQXYxSlU2YlV4YUk0V0g1VTc4cG5QZlFrWEFybGsybHVYSHZSaE4?oc=5
 - **Source:** Yahoo Finance
-- **Published:** 2026-10-28T16:00:00+00:00
+- **Published:** 2026-10-28T22:01:41+00:00
 
-## Verisk adds insurance data to Microsoft, Amazon AI platforms - Business Insurance
+## Microsoft just shared Azure’s actual revenue in dollars: $33.2 billion - TechCrunch
 
-- **URL:** https://news.google.com/rss/articles/CBMimgFBVV95cUxQLXg3dzh3SXhiMWRPRTRCZnFwaG1XeHd6dmNKT090QlFfWmduYVd0azd3Uk04ekxabHFaZ215eXdsckNyUzNZMjlsWXVjWk1nLWpFZndxdGRsXzRWWGpoT3kwb2dtdGZkV2RDY2hwZmRiTXpLTW1lMWZDN2p6ZXA2cmVpNEZRWmFuTklncklvVWNXVTFJdUZvLU5R?oc=5
-- **Source:** Business Insurance
-- **Published:** 2026-10-28T15:58:10+00:00
+- **URL:** https://news.google.com/rss/articles/CBMipAFBVV95cUxQcENMNDNucFFVZ2k0Y09Ea0p0SWxPckFpQmsycnE0MWVzTXNZTTY0VUpoa25RUl9POEdfVGdDYks0T2F3cHpVRjdnOXFycGNqd19iVGFzSGZPYjhMZW5HQmZUVWswS19wS1dEUzJNNDhfOUhsWVl6Nm82TlNoZkRhZnl4d0I4bEg2dHZYUEdwc3RwVjBCMHR2UGFqejVwSDZHVUQ3Mg?oc=5
+- **Source:** TechCrunch
+- **Published:** 2026-10-28T21:58:32+00:00
 
-## Microsoft Releases CLAT for IPv6-Only Networks in Windows 11 25H2 - Petri IT Knowledgebase
+## Google and Microsoft weave tangled AI webs - Breakingviews
 
-- **URL:** https://news.google.com/rss/articles/CBMibEFVX3lxTE1EN01UV0hydXNOYW9GbXlvWUNmeGxRMTdzYlJGTVVuMk50aDhzT2NFYWlfMkdHb21scV9va045TDA0ZXRBNEZXV1lIdFNOQ2JEOTZqYzdwbGJ1MUlNcEw1anU3U25hWmZNQ1lBUA?oc=5
-- **Source:** Petri IT Knowledgebase
-- **Published:** 2026-10-28T15:52:19+00:00
+- **URL:** https://news.google.com/rss/articles/CBMipAFBVV95cUxNVzFlZ1RtVFN0OTdOS0l3WHlCMHlXanNzNGlLeXVkak1wOEFRdG1rMFFuVjN6UFF6ckZONTRyTkpvdzZRUHJnckFEQUJBMmtEalh1NkZUUGVncERmUFIyZDVRSVJIN0VrM1hHblF6S0xfZHVsNzFpaUoxcEM2NGdrZkg0VWc1cW04VUREX0RocWptZzZwLUQ2Ti02Yi1NbXdvMGZiYg?oc=5
+- **Source:** Breakingviews
+- **Published:** 2026-10-28T21:56:15+00:00
 
-## Microsoft Details New Blazor Analyzers and Free Infragistics Controls - Visual Studio Magazine
+## Microsoft Seeks $115M NJ Refund Over GILTI Apportionment - Law360
 
-- **URL:** https://news.google.com/rss/articles/CBMixgFBVV95cUxPVFZfZEgwZUd6U2pSNjBkUUVmMVEzSnhQcVU3WVpIV2hlcnRGXy1Jc0xlSGp6QkxNbllMcnJVVWxicklnLXRHaWljUHNyektYSnpkVHRDWFc2MzBaZWRsaGFWdnlfbUo2cTFmS0hrcjlwRVVYY0RMNUY5OW15ek1TaU1TbVhENDVhV2lmUEYxQi1FczFLSXRKRHk0c1hXSWQ0aGZZNXNUTWdJX1dMMGZVUkwyNmY2RnljaEd5eXRDR1J4Z2doZWc?oc=5
-- **Source:** Visual Studio Magazine
-- **Published:** 2026-10-28T15:38:14+00:00
+- **URL:** https://news.google.com/rss/articles/CBMimwFBVV95cUxNbHdkMmVkbDN4VlVLb1J3YzNHVW9XbmozS3FGSDRabFhsYzNBUTZ0aGF4WWFwS3hnSTdKUDNUc1l3ZmFNTS03ekk1akRpaTQwN0lBemhoZU5ranBTZHNiN0VSTHJ2b0dBcENaVlBld2dqaTdacmdHa0RzS3BfZnZXNGd6em92MEpOcnhIQ3VkaDBlZkp6NWpjNEoxSdIBaEFVX3lxTE0wb3JCR2M4VmxTYnVwZTNqYTVqM1phVTZLNkpXX1dHWmJYZmpzX2g1bUg0RzVOU1JXaVQ5VHBvOW5xSDk0Tm1iZ3dkbE9yYzhOVWJtdERLODY3UmZFejlfbWlHM2RRVWNr?oc=5
+- **Source:** Law360
+- **Published:** 2026-10-28T21:45:12+00:00
 
-## Microsoft, Alphabet Have a Lot to Prove to AI Skeptics - Bloomberg.com
+## Alphabet Disappoints as Microsoft’s Cloud Brightens - Bloomberg.com
 
-- **URL:** https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbUo4XzFsZVZWRnRNOXhfVXdCNTdQR0pCVHc4MDBoYzVRb3lPaER2eWxwMjZHQ0FGUVpnQWNMUHFOR0xPbW9qZkNPNjhScDdab1BWZ0ZxeHA1a2hYOFdhQWplb0xOMkdRd1ppUDdoaXIwMlgwd2M5MlFLdEpyNngwT1VtcTFPVExyMVp1LXlrXzFmazV6T1o0ME5aR0NWSk8tOHNXMThpOElic0k?oc=5
+- **URL:** https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbXltd0hxX3hrSXQ0LUROTjA3b3Y2ZWJVZUNFbnpLYjJCSENSZWZqbjJsTjFWcHlDTXpaVnBZY1VwN1o4SWU0WjBNQUJMNlRaQzJXSDYzWXIzc29UeEVoMjVpRzJYM1VnMi0zNlBNT2lEQm9US1ZLbEZFcGphdlVIWDlBN3dnVmRrMGZjeUlkdFBJUGJPZmZuX0xpcjNwc3IyUmJBQ0psbEU?oc=5
 - **Source:** Bloomberg.com
-- **Published:** 2026-10-28T15:37:07+00:00
+- **Published:** 2026-10-28T21:42:01+00:00
 
-## Amazon Presents Data Center Water Details, Microsoft Postpones - InkFreeNews.com
+## Microsoft FY27 Q1 Earnings - Microsoft
 
-- **URL:** https://news.google.com/rss/articles/CBMiowFBVV95cUxQM1JSNzhwN29QUjdOMmZTdDZCcHBBQmtKRnEyNHU1Um82NERvYXVsRXlJdmt4OHp0N0ZrZUJQUDRGVTVhOXBZRW1HUVNjUTl3NmMzZGZNRGpsWE1wcVpHam1MQWlGTVRuNGlrMFhlNjRkWGZTVmJmYllnRkNRb1pYbmk1LXdpU0oyZVgtR2RqWWQxRTIxV2Z0bjlSWjh1ckdVa0tj?oc=5
-- **Source:** InkFreeNews.com
-- **Published:** 2026-10-28T15:30:44+00:00
+- **URL:** https://news.google.com/rss/articles/CBMikwFBVV95cUxOdnBSdXcwaGVhV1hSQ2xMMVNieFZmVWozVGExMHYwVFJaYlZlbnB1VlY2cXR5TVJUc3hMZmozS3RQLUhZV090Q3BqODBRTmdRc00yVWFOUVF3SDhZNXl0WXlJTndqd0lxYUh6emJ0NFh3aEoxQk9lZEtIcHhCOURGaDVGTHVRaFJ1LVlHR3Q0MUJ2N28?oc=5
+- **Source:** Microsoft
+- **Published:** 2026-10-28T21:41:26+00:00
 
-## As I Await Microsoft, Alphabet Earnings, Here’s What I’m Not Doing - RealMoney Pro
+## Microsoft’s cloud growth accelerates, and so too does the spending - Fortune
 
-- **URL:** https://news.google.com/rss/articles/CBMiogFBVV95cUxPY3ppZk9JQlVjeHlyLTM5SG00RU1yTlFQVU51cHNoMzBrRnNWdXh3YWlFWkhNSlFCNjJOdnFib25yTGNIOEVvWVVFSEFEajJONzFIemd1NWJoWlZmZmNFTVZDajRwekh3UkU5RF9HMjBzbVVDYUZvQ015MEo5elZZeUZSSC0ycWpzR3RvdjZqNVJnMERXZ2pPWDBpSEF0NGEtUFE?oc=5
-- **Source:** RealMoney Pro
-- **Published:** 2026-10-28T15:30:00+00:00
+- **URL:** https://news.google.com/rss/articles/CBMinAFBVV95cUxNd1NGVDNCdUFrZi1FRWlaOXlPVkpaeVZuRjh1R3kzYWNKbzBCQkl5VFRKWjUyclozQ095dzUtalNwRWMyd05CdzRKVjVRbDZfSkRTSXZ2aUV6NHpWTDEyNzlOOWxFQTgxNUNFcnVaSm5odUtfcDl1UTBSOTBMNVBGS1FXWWpFSVFPUXBpOWVrSmt2dGdFb2lwWHZLSXM?oc=5
+- **Source:** Fortune
+- **Published:** 2026-10-28T21:38:00+00:00
 
-## Microsoft results to test whether AI investment is paying off - Yahoo Finance UK
+## Microsoft recorded $10 billion in revenue from OpenAI - TechCrunch
 
-- **URL:** https://news.google.com/rss/articles/CBMiigFBVV95cUxQU09vckY3aUFlOTFlWDRqb1dXbnJmcGg5Q1JYNVVfOHBPUlNJcXBXeDVTeFk5anNQX2l6NDFZU3poWXhJNWx2QVhqMFFNU053VlNRWV9XLXVIbWQ4M0Q1VkVRZ1NXcGtCS0U0QWhOOUJsMTUyLV9SR2J4X01meUNoTzRsbGdvNXFrR1E?oc=5
-- **Source:** Yahoo Finance UK
-- **Published:** 2026-10-28T15:29:00+00:00
+- **URL:** https://news.google.com/rss/articles/CBMikAFBVV95cUxNYV80X2ZSR19DczEyTktuUi1xSHpudXhzOFNZVE5NWjFDdVNvV1haaEYtMjZYVnAzd24tbWV5ZXpJTTZIbTY1ZW95eHNpTWdzaHBhNy1memlSMUJwVzZuc2h6aEE0RU5tRFZTZmVtY3FRbVpWTXE3aDNZV01NTy1rZnV2Y2IxZUQ5MUtadDlNSDI?oc=5
+- **Source:** TechCrunch
+- **Published:** 2026-10-28T21:34:30+00:00
 
-## Microsoft And Google Face Monetization Test Amid Expected Fed Pause— Seagate And Oil Cloud AI Trade - Benzinga
+## Breakingviews - COMMENTARY: Google and Microsoft weave tangled AI webs - Reuters
 
-- **URL:** https://news.google.com/rss/articles/CBMi3wFBVV95cUxNU0hhM25xT1hvYlZwOVRyU0NsVmZ5ZVJfWlJ2bkI4RGQ4WVNyYmpKWV9kSzFZcWM0RHNkTWtTV1dfRktfM3BNd2x6RWhON3oxVVRoTE9Ld2ltR180eGFVMktSaDUzQ3V4UWtVTEl2a29QVnNkWVp6dVdHRHRDNnNUUDJ3VGluRWJUSGxnVHVPeVhTalZJdG1RY2d5b09TX0lTTHlDNGVMNmdCY2hxbzNwNWtUTnpReW1fSDNGdDJ5Y3QzMTNoaUlsemNRNUZOZjhBTGw2dlA1eW5JNzBoc1dn?oc=5
-- **Source:** Benzinga
-- **Published:** 2026-10-28T15:25:20+00:00
+- **URL:** https://news.google.com/rss/articles/CBMioAFBVV95cUxNVm43cDBhVFBTTlpKaVFQWVMtbUhkRmtZOHFRV0Nrb2hYblRMSTZIaTZuTlJUVGJSWGhHOWl3a1RjclBvUm1uQnd5RVlUdW5ocTYtYTZMendCUWNGTmNzWjJkRzhyNTJGbWNzQ3hpUjdUTjVvbmVNRW0teER2WUktTnVVbzdHTnpxeEZZTm5uUGQ2T0pNUkNQVElBZER1V0dT?oc=5
+- **Source:** Reuters
+- **Published:** 2026-10-28T21:33:49+00:00
 
-## Here's what options traders see before Alphabet, Microsoft report after the bell - CNBC
+## Microsoft stock up over 2% after hours as Azure strength drives FQ1 results beat - Investing.com
 
-- **URL:** https://news.google.com/rss/articles/CBMiowFBVV95cUxOcS1iWDlkRWs4VmtmUDNMUlR5SW5sNFFSbFhUbWQ5c3Qtb3gtMWRRV3RCVlZmZEVWM2phZ0hUSzU3OHlIRDhSazJPLVlpaU1CVGVHWVlIZThTZXBtV011cW1RaldjaWlINHc1R3RzV3FHTTB4NzVGLUdaeW01Smgwck5kcDFKeXVteWdWV2tGYUFPR05pRmFsS05UeDIyUTA4TWVv0gGoAUFVX3lxTE1iOUJ4ek1UZ19WanZ4TXAyRk9ibmZWb19zU0VCRUlBTjJ1SmkyMHJtQUZTc1hjVTBiVU5UYzE5dTZtZWNEdzlXT3AxbHYtb29jcW5Cb0NDUDdiOU1TQmQtNzJFcTVzcnVTQUtkNGE3OThpSThSUVZOVVRQSDFSd1Mwem1oT1BvRkJEUmRpbzBsS0RHT1ZOSWg2cmtyT3J1MUNEZnpUYW56bA?oc=5
+- **URL:** https://news.google.com/rss/articles/CBMitAFBVV95cUxPOHVCcGo3eC1BdWNEWjktOG1JUThGb2FSTE5ZRERhZmlSUnd3NVhGa3FrQ0JWVkUzNmJYQlVJcGtCd0pOTUdtSkFxOThqS05TZlZsdDRXMWJpSjlUaWg0ZmVRb3lQTGdLdzI2Q0FtanZqakstM0p5SUNFSUJ6QWlHMHQ5Tjl2RV9FNWlDSGtaM2E0eEk5TGM0TFF3XzNQdmRHN1FOWlVNZ3phN0hIQTBMZnpiRGQ?oc=5
+- **Source:** Investing.com
+- **Published:** 2026-10-28T21:33:45+00:00
+
+## Microsoft Quarterly Profit Soars as Cloud Growth Accelerates - WSJ
+
+- **URL:** https://news.google.com/rss/articles/CBMihAFBVV95cUxObG1JUFZyWEVVeTdxNHJ3djFId2dCZDY3Vkc3Qnc4Vzh1NVFKTXN2cVFEcWdrbEtSdlE5Y1VfQUV6aDE3M1BscVgzVFJXVWZ5R01XQnpjb0FGb2dmTVFEWFhlWGFBUm52dlZzTXhhZ081RzF2dWNWT3U0RU1tejhYZXdSQjA?oc=5
+- **Source:** WSJ
+- **Published:** 2026-10-28T21:30:34+00:00
+
+## Microsoft reports better-than-expected results as Azure booms - The Times
+
+- **URL:** https://news.google.com/rss/articles/CBMiowFBVV95cUxOQVpqbkdUYnpFLTJIa1VBNHNsNE1HVUdIb2NJTVI2RTUwTzAzQm1DNWY2aGRaWVN0SS1LS1BRTXY2Q3QzSTFaa3JmUmVDQUkyWDBybC1sMVhNNXh6NEpFRlNDd0EtZjk1ZlUydHVWUTlvYXcwYmFWWGpFcmxBQkhGVzZsclRSNFhjSGpYbzZycTNkS0wybWVlbXFSWExuaXB4NE53?oc=5
+- **Source:** The Times
+- **Published:** 2026-10-28T21:30:00+00:00
+
+## Tech Futures Fall On Google, These Huge Losers - Investor's Business Daily
+
+- **URL:** https://news.google.com/rss/articles/CBMizgFBVV95cUxOLUdSem16UWptYVlYTUowZGkxbXhveEt3M2xMZGlxS3d6bldfUFJjZzVWRTFRXzdDemt2YlB6RGRuTkE5Qk91T2R6dFMwZGJzTlFQUGd6WHhHNFFkM0NQYnZkOGhvUi01ano2V285RGFwUC1uYXExYVhzMEkzS2VXLUJrczNMTmFodFBtOTZ2Znk2RXdwWDY0UV82Z0Y2U1N5MENLdVdkQzJsUXU3aVFMTmltWmVZbnB4d2J5NWhLUm1ZUUlBU2lQVTROMlgtUQ?oc=5
+- **Source:** Investor's Business Daily
+- **Published:** 2026-10-28T21:28:39+00:00
+
+## Micron, SK Hynix, Google, Microsoft, Vertiv, Wendy’s, Enphase, and More Stocks That Explain Today’s Market - Barron's
+
+- **URL:** https://news.google.com/rss/articles/CBMiZEFVX3lxTE9leUwzMl91Nk42aDZmOXNSYmxZWF9OM2hXR1hINEI3UzJPVDJSMnNNRnd5N2wzMVJSM1JzYjkzMHczS1JNR24xMGpfSXRncElmblNlU0RiSkNDU0xGd0t0VmJ4Q2E?oc=5
+- **Source:** Barron's
+- **Published:** 2026-10-28T21:28:00+00:00
+
+## Microsoft Q1 2027 Earnings Call Is Live - TradingView
+
+- **URL:** https://news.google.com/rss/articles/CBMirAFBVV95cUxPTkt1cEVzZm5PeWhFYTJySWhMa3hMRmFuVVlyTWNUMkVRbzNoN05DSlRERWd3YkNuR25ZLXdNR3g2MHNnOC1LaTRwb0xTYkdUX1BBTWZYYUxVc2tnQldrSmJYZXFYbU1uQ0ZhRTJ4cHNBX3VPMnpWZWlvVXN2T3NJY210NzB5MklGLU1wQlNleTJ1NTJ4RktJR2dHNGhZQTNjelZDQkVoY1RPSU5L?oc=5
+- **Source:** TradingView
+- **Published:** 2026-10-28T21:27:04+00:00
+
+## Microsoft Tops Quarterly Estimates As Azure Growth Accelerates - Investor's Business Daily
+
+- **URL:** https://news.google.com/rss/articles/CBMikAFBVV95cUxPSThkSVNfWm5qaDhnWFVkMDRubV9ScU16UVNvQTFmQ2ktSTdkX1lKRXRvVXViSGdRYzdrYTFjTWVEcWdCTlVHcnVLdzNJbUEyN0ZXTmNXNjA1VDFZWGZkLW9YckdNcFhjNUYxUER2clY5cGZGMEdYMHpKTmpLOExNcWVrcUlDRDhJbXRGZE05Q3c?oc=5
+- **Source:** Investor's Business Daily
+- **Published:** 2026-10-28T21:26:35+00:00
+
+## Microsoft hits 10 quarters of record- breaking revenue in a row - TechCrunch
+
+- **URL:** https://news.google.com/rss/articles/CBMingFBVV95cUxPamdkWnI5d0V0Q0hFeTBaRFhoQjh0WkNxeEZhOWlKN3FONUVZYjB4OFJKMDBIVDBORzBjQ0ZBRVVoUXE4ZWw0bjlFblRBLTN0c21kcWdWSmU4SVBDTFF4c0FzYmFOVm9wbUVxYUpiOG96Tm16Nk9NSkJwN2FaaTRYUmdfcE9rWmp5Q2pnRFFHcmV6ZE1TeUpsaDRmOXdyUQ?oc=5
+- **Source:** TechCrunch
+- **Published:** 2026-10-28T21:25:30+00:00
+
+## Microsoft (NASDAQ:MSFT) posts better-than-expected sales in Q3 CY2026 - Yahoo Finance
+
+- **URL:** https://news.google.com/rss/articles/CBMioAFBVV95cUxNN2VNRGpvUjg3WHAzako5S2pFYVRGTTFmQ2wwSF9QbmtDdXVobXdNRUt0aUF5NHZ5WUlSNjZqWmM0Z2RLSGJkck1YV1I4V3h0SFdFTEs3VkZxQ2tlaFJ4Z0Y4M3BYdm00VzBHbGN0cFJCREVMRW0zcWxYdTZ1VHlNTHkxeXc0RmdwcERVZVJIU1hETzR0YXQzSkJtZFU0dkxa?oc=5
+- **Source:** Yahoo Finance
+- **Published:** 2026-10-28T21:21:48+00:00
+
+## Microsoft earnings: Cloud growth overshadows CAPEX & FCF questions - XTB.com
+
+- **URL:** https://news.google.com/rss/articles/CBMitwFBVV95cUxOZ2VmRnZ5VjRmdnFvcUhEUS1iaHlLa0ItU25rWVMxMDhhVHFfbW4weWpCNnBSelVUQWpHWVBscEFpMEIzQjlOS2J1cXRMd1ZjazI2SFJESnJweWFxbmx0SnFoTDkzX1ZidWpwbF9MRG05SEZYeUNicVJleFFkSjN6T0ZHN29xalR1MFdINkxUTHI1MVRqWXB6SUJMMmlPUk1RdFFNXzZjY3lRTUZkRlRvNWtqUHpMeDg?oc=5
+- **Source:** XTB.com
+- **Published:** 2026-10-28T21:19:56+00:00
+
+## Microsoft stock is going higher from here, says Jefferies' Brent Thill - CNBC
+
+- **URL:** https://news.google.com/rss/articles/CBMisAFBVV95cUxOb0VxdVhWWDdTUUVZSTVUS3g1bGpzTFBNYjNaOVhwSXpIa1pvaUZzejJaR0s0WU1hcEdkYUt2bXMxcTdHeFJvQkJlcmhIREFLUXIxZ0hhOFBKMzRCYUd6RDRsdE01ZXItdHdRdnJIYWRxcGw3a2pXY3FCNTFfTHBpSkRHaXpRdDhJdmJfX21yWC1KR1RfSmVtMUlPSU5tT0tnWVk1ZmNmc1FPbzIwV00yZw?oc=5
 - **Source:** CNBC
-- **Published:** 2026-10-28T15:12:09+00:00
+- **Published:** 2026-10-28T21:18:55+00:00
 
-## Verisk adds Amazon Quick and Microsoft Copilot integrations - Coverager
+## Microsoft Stock Jumps on Earnings Beat. Capex Was Lower Than Expected. - Barron's
 
-- **URL:** https://news.google.com/rss/articles/CBMiigFBVV95cUxNUVB1Skd6Uk9NeVg0NkNOLXI5OWZxT3dJR1cxbzJNc0gxNHdyWGRkT3Y3RHdEYlgzYlFNbFF1dWN4OGdYS0lLRjByejJnUUw2Sk1RYzlsUEtYSmV5ZXlXLXNaUjFnQnhIbkQ1TlNvaG13c28wZ0ZZRHBRWFF6emhYVUFuX0V2WEVfYlE?oc=5
-- **Source:** Coverager
-- **Published:** 2026-10-28T15:09:41+00:00
+- **URL:** https://news.google.com/rss/articles/CBMigAFBVV95cUxPbW9XUTM0bmRYT0FiWE9Va2JjdF9YN3lZdXhLZEUyeXpaT3BFTG9CaWdxMG5Ndk9BR25uTWJ6dHk5MndaQ01fNFlkUG5BT1JZMmp3Szg4NTJxcHJ4VXI5VFp1dDVmQnJzcmdjSFdqUjVYT0NtZ2xHZ2VBOTVuV0NLdQ?oc=5
+- **Source:** Barron's
+- **Published:** 2026-10-28T21:18:00+00:00
 
-## Microsoft Earnings Top Item to Watch for AI Stocks: Dan Ives Says 'Most Important Print of the Week' - Benzinga
+## Microsoft Reports Rising Cloud Sales That Show Payoff From AI - Bloomberg.com
 
-- **URL:** https://news.google.com/rss/articles/CBMigwJBVV95cUxPQXJxdGRDM3hYRG0zVy1hQnM4dkJOZjB1RjY5SW4yNmpuZnc2RXY2TkI3UnQ5ZEs4S29RS3dFdjlZRUhGdFdyRWl4QVlqYlhHM2psMDJ3MndQSlE0bXpxSG5DX3hvWV85U3ppRUFUSDJJTWp6UkpBTmZVdFBubWpodlhBUTNTbGZEVVRSajZBVWJjd0tuaWhZdHhVV3NOV2VWbTJtbU9XRmF4VUVlNG13bUpid08tOThWc0ZHUmVkY1g5Mjg4YlRQc1dBVDFsZWRUTnFfN3NSMlVjSVQ0UnUwV0VOUlhIUjhKUS1SUDFldjJ0c0xmX2ZKcTJnQU53U0FocmpB?oc=5
-- **Source:** Benzinga
-- **Published:** 2026-10-28T15:05:04+00:00
+- **URL:** https://news.google.com/rss/articles/CBMirwFBVV95cUxQMFplZTkxUEdqUExRU0N0UHdSdGNtNWZzWVAxd1hrTXZNa3NCQVFXUXJxcW9icjhXZ0x3ZTVNS2NmRVhlT1lEYnQ0a2VPNG5zem1fQWRpTnZNdkNuRkZtdHJkVDUzSlA5MmNZOEF2ZUlCaERpLTdzUFdqUGtqaEMtZFlWRlU5aU5ZMEN3NTU4bjZsMHE2WHFBemx2cEFCcXlpeHRfendMa1Y1b2lFWWQ0?oc=5
+- **Source:** Bloomberg.com
+- **Published:** 2026-10-28T21:17:19+00:00
 
-## Spice Capital Appoints Former Microsoft Executive Jamal Edwards as Strategic Advisor - citybiz
+## CoreWeave and other neocloud stocks drop after Microsoft capex comes in below expectations - CNBC
 
-- **URL:** https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVTlScUw0Q1RXN2pLT3BQekd0aGlsNnBVTnlQSGNpWnVlZEh3anZvNU1ic1NHdFRRNUZMR3ZZVWpjYlBjTUY2NjZMSmVMM0ZuR1FLanhVZFd2TVpMWTdZblNDaEhYYm0yTFFONHVFNTlPaVdKQUNyMjdMSlZGYmtSdUxaalFUWEpMZC1sSTdmQUV5Q3JuQ1ZGNEczdGEzdWZnS2hxalhjb3NaQmZLQmszQXBNeFZDXzE5UFRhMDFkWVc?oc=5
-- **Source:** citybiz
-- **Published:** 2026-10-28T15:03:05+00:00
-
-## AI game clones put Microsoft and Epic on the spot - Cybernews
-
-- **URL:** https://news.google.com/rss/articles/CBMibkFVX3lxTE1KSWhFTE9mbmFkV09odXEzRm5aTTBfUGpYSlR6WkZMOEY0RHFoZDVNWUpJeDdma2xzWDEyczVoVzdQT3V4bGdlTFRobFVHYmx2RmIwdUVTbHN5bElwaTRncl9rQjJrV3NBcUJoTkhB?oc=5
-- **Source:** Cybernews
-- **Published:** 2026-10-28T14:48:56+00:00
-
-## Microsoft urges Entra ID admins to migrate users to passkeys - BleepingComputer
-
-- **URL:** https://news.google.com/rss/articles/CBMisAFBVV95cUxQV2ZvTU1JWVhVM0VGNkZ5aWdsTV9Xd2drYTBDcmxndTRDOVY3M2laMHRHcFp6bDBhU1cyd1J4eG9PQlBxQ2M0X184dVZMQnJzLTNqYXhPb2ljMV9fOGRZUTZ2MjVmY1UzMEZod3FhUUh3OFluakV2YjJ1MWdkS3IwOFM2d0NtMDhxM1Y2ZEM3M1V4LUZ6X3JzQnV4N1pJSENZRjYyZ091Z2NPY2dzYWRGRw?oc=5
-- **Source:** BleepingComputer
-- **Published:** 2026-10-28T14:48:32+00:00
-
-## Microsoft won’t spend all its free cash flow on AI and data centers, says Jefferies’ Brent Thill - CNBC
-
-- **URL:** https://news.google.com/rss/articles/CBMi0gFBVV95cUxPTGpJZmswS19vdG5uWnN4eEJ3WXE1ZmxHRG5VTnl2cks5R2QydkdNdWMxcW04dHFRNFNoc2ZKTjRYQ015TTRuX1BkanhsTDRfZ2ZXd1dfNFhWR3pQc2VRRTdYc3A0SXEzUVhESnRDWV9EVHVIbjdKdzkzdV8xQ1RNcDRBVjBkNFo4Z2sxd3AtZklrb2hFbEx2aF9OXzhXUjFFT3hMaV9GMWhCYmpZcVhSNFczX2ljVFJxbGxJNmQ0THo1dFBkdS1VbkhXNmVCN1pfYUE?oc=5
+- **URL:** https://news.google.com/rss/articles/CBMilwFBVV95cUxObjNhS1ZoMHVidC1hUVBQTFQzQjFhRTR0ZVBYV3ZOUnlYZU1LM1NFVjkzMTVVMkdwLUNuc3l4ckN6TlZLQlprcWtvWGJZa0syWWFnWTdxcTdfVlNoNU0yRlVJSEVTUWk1MmJ2R0xfYTRVZGxaUFBhV2pVZXpPUC1xeG9TQXp5eVdqeFdHWUR1MThnM09OU0VF0gGcAUFVX3lxTFB3SmNvYnVoZlFaR3UyWUg5QmxkZ3E0M21XRk0tMzk5WGljRUpqTGt0c3BYTWt0NVMxOVdWbGhrMUJYUi1HTm1Ub1J3N2Zvb3FXal9lcVZiZEk2bG1BR05LTDdwanlaR0wyTmpCME9LNTdtYmYza09LdS1UcHE5b2t6b3RwUlZZamRZaTBHdGxsOTlDRU1ST1ZSS0Excw?oc=5
 - **Source:** CNBC
-- **Published:** 2026-10-28T14:45:37+00:00
+- **Published:** 2026-10-28T21:14:08+00:00
 
-## If You Invest $1,000 in Microsoft Today, Here’s What It Could Be Worth by 2030 - 24/7 Wall St.
+## Microsoft Tests Isolated Cosmos DB Environments for Parallel Coding Agents - Visual Studio Magazine
 
-- **URL:** https://news.google.com/rss/articles/CBMiugFBVV95cUxNMzlETXpPeVBDS2dRakZOeEFTSlN5OG9nVFZWSGpiVjdnTVZJWGRnbklfWWNjanBYd1gyaEZXUnBaNFE1MGRlSnAyN1FhR2NmOEt5aHBPS0loeDNFZEVhaE02eTM3bWNlc0RfYlJzM3RjX2RqY0g1UVBvXzlMR2RxYUFqVFNyQ3RxdVBqdlc4YVFKaG82aEQycW00d092SXVEN2JsdTRtazZ5QVpYTWFnc0dTcXNxa1FBcHc?oc=5
-- **Source:** 24/7 Wall St.
-- **Published:** 2026-10-28T14:33:00+00:00
+- **URL:** https://news.google.com/rss/articles/CBMizAFBVV95cUxOOVVxbkRQdlFQM1E3b2RSQ0hSdjU3cDNKXzlGNzM5bHh4blBIOEc5dEJQWjNnRWZhWktyNzluS2lna1h6SzI1SHIzTmhWVVVxc0FSTDdrUlpQbnRvTlBYcE1GVHp5RTJwS0RpRF85Umh3UFpqcm1CXzRUZUZ6ZUM0SFFJMkt2Q2JBa291OVBkYmFuakFycWxIcURxdm5HdVNHTmlObTVURE0xazNjbWxyRGNOYV9nY3RYYndmUGFJSTdORlFhUC1wZlNKUms?oc=5
+- **Source:** Visual Studio Magazine
+- **Published:** 2026-10-28T21:13:07+00:00
 
-## Microsoft Earnings Prediction Market Preview: What Will Satya Nadella Say? - Yahoo Finance
+## Microsoft beats forecasts as Azure grows 48% to $33bn, and its shares rise about 4% after hours - Nacionale
 
-- **URL:** https://news.google.com/rss/articles/CBMirgFBVV95cUxNVjlxQjhiSjNjdTJ6YVF2TTR1UnRkMlVjMEpnNGp3dGtuNWYtR21NOURlY0tmdURaXy1uaXJrS1ozc04zeEpral9ZODFZenlJQnppQXNpR2JiTGkxUlluU1pxRkk4SXFzd0ctWnhGZXVjZllnVjRnR1pleTdXUS1nUEUyc3BWLTJ4aEVzM2Raa2hobTdZenVab3JRVDllUWZxSHlFQy1pNk9JdWh3LVE?oc=5
+- **URL:** https://news.google.com/rss/articles/CBMilwFBVV95cUxOal9IUEVha1N4elRXd29JSHFDeFhKZU9mVlpaWFFaVHMzeEExZ3NPVzkyYUs4N0ZjcUFaNjNjWHdCY0ZDcDItdlg3Z05uTUVFM2JmZmRKTi01QlZ2UUh4Ym14ZTVIX0p5T1cxVVpUVEJNWG1yRXFud0JXU3dXTEhwNkpNQl8zcEJ6ZzRRdWdsZVEwd0l4RmR3?oc=5
+- **Source:** Nacionale
+- **Published:** 2026-10-28T21:12:23+00:00
+
+## Stocks making the biggest moves after hours: Alphabet, Microsoft, Chipotle, ServiceNow, Fortinet & more - CNBC
+
+- **URL:** https://news.google.com/rss/articles/CBMioAFBVV95cUxONDlMUjZncndlZ2hNVG9mUTRSQmV0VEt3SzRteS1zLTF1SWtjekNyNW1sUE1jSmYyWjRRQXF4NFRRNmZRMkN4eTJQR00tb0NzWU1IaS03UWp2ZWVSNlB0UmRzRVZYZUhTeUtQT3h1TW1uS0pLWlJSdjBoZWZadXNJLVAteGZUS25RX2pJMnBab3dQa0NlMm5QbXRpX0c3aVZz?oc=5
+- **Source:** CNBC
+- **Published:** 2026-10-28T21:09:21+00:00
+
+## Microsoft cloud revenue beats estimates in sign that AI bet is paying off - Reuters
+
+- **URL:** https://news.google.com/rss/articles/CBMirwFBVV95cUxPLTNUYVRBd0RuOWg5SUc2SzFCSTR1TGJsRndOTjNDWmtkeU1fRHZwWUxaakxsdE9sSV8tZzZDMXpXV2dDNDhhbTMyM291Z0Rua2lNSEwxaVZlTVVMbG5icUY1dllTNm9QVEk1R0NpdHdNRzVmSFA2MXZublNmaGN4NXJ5RGdMeWhiTHZmdENGX0t6UUdGaWNLS0JkbkVHWkRONXk5dkg0ZFA1T3Q0dGVR?oc=5
+- **Source:** Reuters
+- **Published:** 2026-10-28T21:06:30+00:00
+
+## Microsoft stock jumps as cloud growth drives earnings and revenue beat - CNBC
+
+- **URL:** https://news.google.com/rss/articles/CBMiswFBVV95cUxOQVJCTTBDSFBaamhVbEMybkd5YkRsU2lWRGNmM3g3bkltc1haem5tUE9aUGRJLXdjSjRiTXFKWV9zdVJKMGtGMnpKRjlPd2NVLVJab0stRmhacWMwc0wwMEh0bUEtUnhia0F0WlE0TmJ2WmVQTENibi04UDdDUDZ2NldUcWljaUtLZ2pabk5SVlJidFZ5Tk0xTmlVMVRRLWoyYzZNd3ZzQ1IxczZTYTRTWm42WQ?oc=5
+- **Source:** CNBC
+- **Published:** 2026-10-28T21:03:08+00:00
+
+## Microsoft revenue rises 19% to $92.3B in July-Sep - Anadolu Ajansı
+
+- **URL:** https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZ05aVVVUVjl2WGxWelhiclVBaENlbmM3TW95VDlXcmk2VlF3ZE9sbndHeGRlaTNGZmdRZjdOeUdkaUdheWFCd2dkc003azJiY1hZQV9zWC1EWDM3dTVNNGdZUDhHX09MZUo4dVAwRUhfVFVNUGtNRDVXY0g4NF9fcktBZ1l5REZKYzR3?oc=5
+- **Source:** Anadolu Ajansı
+- **Published:** 2026-10-28T21:01:13+00:00
+
+## Microsoft Q1 earnings: Why capex is the big number 'worth watching' - Yahoo Finance
+
+- **URL:** https://news.google.com/rss/articles/CBMisAFBVV95cUxNeWRFUm5qaGlYeXdqVTVCb2NRRlk1RzlHZTUydVlIZlBkejAwVE5pN1V2dzAtcV9POXdtTDVGYXhCTVFraGpHN3hweXpVdXR6Q2lDRjlKODZFSnEteVVzeWNEbHdFYkRQblZzVUVGVWJaaC1xb0Z5WkxPVFBOZkFLNWphNHdiNVowMjYydzBXOGY0S014bF9DUmVQcThxUVVfUzZUZElncGVVcHBVRjQyRg?oc=5
 - **Source:** Yahoo Finance
-- **Published:** 2026-10-28T14:31:59+00:00
+- **Published:** 2026-10-28T20:55:47+00:00
 
-## Fed decision, Google and Microsoft earnings test Wall Street - Quartz
+## Microsoft announces first quarter results - Microsoft Source
 
-- **URL:** https://news.google.com/rss/articles/CBMif0FVX3lxTE5VXzQxT3FrTE51eS1XWTFXVEdkU2UzTDNWMXRiM2ZwejZrUzN3amN3Nm1BWnhWX1NPV3lUcllwTmhLWUtkcjhqd3R4cTBDVlRXYUt2MnBDU3JlMGVjOFMyZVdnTG1xcnRvUktYZHBrdUZNYXEtdUlEVEhLaVVRbkE?oc=5
-- **Source:** Quartz
-- **Published:** 2026-10-28T14:16:05+00:00
+- **URL:** https://news.google.com/rss/articles/CBMikwFBVV95cUxPY09UTTZ3dWNGdzdXRGZsYlFMWlVyZFBRR2dWR3JaVUJwbGhlSXVpRzQ2Zjd5S29ld3pHb2duV2tHMlJJWGM4NFQyRXFqQnhBeHZzalZGOUtGWmxXTUJzb09IMm5HYkZJU1Uzb3c2YXZtUklhZjdjWUZnNktaQ0JHZ0VhMmRrV1JiUzdZX1UtMFdqY2c?oc=5
+- **Source:** Microsoft Source
+- **Published:** 2026-10-28T20:54:10+00:00
 
-## Microsoft faces potential vote: Shareholders curious about its plans to tackle emissions - The Register
+## Why is Microsoft stock surging today? - Investing.com
 
-- **URL:** https://news.google.com/rss/articles/CBMi2gFBVV95cUxONl92RlZ2WGh3WE1iZlJzSV9fYlUxZ0xBalpOUF81cEJHMEdsVFJ1MHZhbllGcXFjZGZsRkJabXFwMkNncWRrNk5XS0c1aGw0N1VTazZQc19qRlNXV0NpeWtDRTM4UE15VzJyVXdPS09jd3Ywengzd0I2ZkRQc3hkYkpTRWFGQ1ZzQU53cGZQenJGc3poWTV6ZGhlc3F2STFkN2ppWGg4Y0ZVUEZ5NTJseGpkUmtINzdTQldoUDNPMWthdHIwWmFNRVROZUtfOEV1SnhhOXNEMU1VUQ?oc=5
-- **Source:** The Register
-- **Published:** 2026-10-28T14:15:00+00:00
+- **URL:** https://news.google.com/rss/articles/CBMinwFBVV95cUxPUnVod0RDMlVPMEQ4UUgteVpEN041WW05RzR5NU1YckJrb0twb0NsVkJZaHNFZzZob3pnWlVzMmpUTlFxc1RvNUs0X0ZvVi0ySmJwLTNQNDNHdEZJd0ZWZnRrR0VFcHhpOVdHQVJfWFhSb2gzYnFSbGxtR1BOTXNQeFZrVFJYeHVRM0tQTU9zSTdTeldEaUdJc3M1ZEE4R2M?oc=5
+- **Source:** Investing.com
+- **Published:** 2026-10-28T20:53:44+00:00
 
-## Microsoft Is About to Mess With Your Most Important Keyboard Shortcut - PCMag
+## Microsoft beats quarterly cloud revenue estimates - marketscreener.com
 
-- **URL:** https://news.google.com/rss/articles/CBMinAFBVV95cUxOaVhEU2x2WG1IWnFqVUUtdGZjYW5GZUZocEpVdkE3ZkdKUjN5bEkydGFZWTBMVkt2R1ZHY1lBT05fdDl1OUZQMlVPRHlGanZUS2Y2TjhqTHRLSkRJdTdneDFNc050Yll0dTRBcC1STVh6bjJlVXVfbUZwR3JJNUtPUElGb29Rby02aTF6ZzJuS2o3V3FYdWJ2c2xpaDc?oc=5
-- **Source:** PCMag
-- **Published:** 2026-10-28T14:00:16+00:00
+- **URL:** https://news.google.com/rss/articles/CBMipAFBVV95cUxNN3kyMnNFcVlXaTVzWjU1WC1QX1BEbG1vNHNsM05uTEhMUzFNUTNHZHlVQTMzWHJ4U04zc2ExelljRzFVLVZRMHlVcnF2MEVWQXlQZXcxV2h3cC00anJ3RHdheDBGdGVfSWZ5V25ibDBsWHYtOGstY2dDV3JUSWZOdGZaTU9LOWhBUE14bXN6ZDN1SE5nZHVPRVM5amdod3ZOV2N2SA?oc=5
+- **Source:** marketscreener.com
+- **Published:** 2026-10-28T20:53:28+00:00
 
-## Tech rises for third day in a row ahead of Microsoft, Alphabet earnings, Fed decision in focus: AlphaCheck - Yahoo Finance
+## Microsoft Stock Climbs 5% as AI Spending Undershoots: Is Wall Street Rewarding Restraint? - Yahoo Finance
 
-- **URL:** https://news.google.com/rss/articles/CBMi8gFBVV95cUxPNjVlRGJ4WGsyclFhTmFzT0NTQmlUaTFzcjItQndoOHcyQ2RyTjVvZjNuaVNCTTR3bUNZa1EzTUxGVC1QQmhBd0V0b09sU0c1YnFfcnZ5MmVQdkQ5SU9wQTJhM1M4bXEteWdhTEpXUTdnSncwRWk1bnNlci1mdmV5c0xmVl9RUDBNMENrelZNelVPQWw0N0pPMlNqWDdsT1NkcjJob25hUWNIV3RjcnRwZThtUjJMb3owMkZMWU9PTmE0NjlCdWlGSHpsWGdDRXV4dmliZWpNdWp0YVNXcnJfX285bF9QcmstZ3Q4eGFnM3EyQQ?oc=5
+- **URL:** https://news.google.com/rss/articles/CBMilwFBVV95cUxOWTlEYWFETktWVllsZGdoSTdfdWNLZWJsVDRqcXR6dHN4d3RJeldla0JFbm43bmV5X0hFdW5naDdwRVM3T092Zm4zYnFlZXo2SXpESjB6RkxENXFvZFBYVUxpSVNVZlRKdEhxclZ3RFR0Vkh4czQya2l3TG1memliQUdCWFp1UzR6Sl9sNm9kTUoyd0J6UEtV?oc=5
 - **Source:** Yahoo Finance
-- **Published:** 2026-10-28T13:49:10+00:00
+- **Published:** 2026-10-28T20:47:30+00:00
 
-## Verisk expands insurance intelligence offerings across Amazon, Microsoft and Claude AI platforms - ROI-NJ
+## Microsoft Azure revenue surges 48% to $33.2B, beating expectations as cloud and AI demand grows - GeekWire
 
-- **URL:** https://news.google.com/rss/articles/CBMi0AFBVV95cUxQQ2cwenB3VzRKMGxDTURrX1U2SG14T3h1S2NWbkpCTE9kbmVZMHNZVHd0VGFrb2xCUWFRQ3FnZEZZUTc3TWE4Qng2VDRYaHl5WFMzZ3hzOG1vcDZhM052cnZWMnV6UnlHZXptSml3cnp4M2dMS2pGV0duNy03WHVvOFcxc0ZEaWhmM0pNY1d2V1dlQ0lkQzBQT182cXdxZTlqaWRVYXBVMXMzTHRfTHJSUEYtZ0xna0RFNE5FUWJCcjFjU2Q5T1FXWEgtNmIxVENC?oc=5
-- **Source:** ROI-NJ
-- **Published:** 2026-10-28T13:43:52+00:00
+- **URL:** https://news.google.com/rss/articles/CBMiwAFBVV95cUxQN2VFNFpET3I0VThqOHJwd3hwTmw5dy11VDBOWnU3bE4ydjhDYWVLVFV4cHJaSlNleVVTbTZsMHlralJIenBueHRkbmd3aGNKcE1KR09zMC0xblREbE9MMU9xR1pYalFqNnBodGo5b3Qwa3hEWlFkREk1SkNPVVg0djljeWt1Z2RPTDNadFI5QTNIQmh2ZFVQdHExazRSV0huZFlXUlZkZjJ2cmdTaGk3UzZjOVN4QWRISW5Cc1ZiNzE?oc=5
+- **Source:** GeekWire
+- **Published:** 2026-10-28T20:47:08+00:00
 
-## Microsoft is killing off Copilot on smart TVs - Neowin
+## Xbox hardware revenue decreased 14% year-over-year during Microsoft's (MSFT) Q1 FY27 - Shacknews
 
-- **URL:** https://news.google.com/rss/articles/CBMif0FVX3lxTE5OOHplNl9FMm5Sb2wxYW9MX2J3bWRkX0ZYcm96YTEzVXdPOWZ0ZkFTVnhMdDM3U0JJYlJJVF9XU1B2VjItSXFhMS1Jd0w3bDNRX1UwcDRERFdscE9jZFg4UnBhRXlpX3Zhc0Z5VXRlYXgza1g2cFV6OGRycHZKOXc?oc=5
-- **Source:** Neowin
-- **Published:** 2026-10-28T13:43:08+00:00
+- **URL:** https://news.google.com/rss/articles/CBMijgFBVV95cUxOcXMyZk1QWjlZRlZzNVVfYi15OTBVSm45UlRHck5UQWw3WllrdnZxTEppV1E3UVV3ZDFvRExQVHRXQVNPRGFiVEV4eFZmZzFBSDNzaUd4YzVsM1JQaWcyMkxUUmFNS0s0RjlKX0s1NXoxZ3FJNkpxeVp2blUzOEtraUFhNW12UnVpTDhqTmNR?oc=5
+- **Source:** Shacknews
+- **Published:** 2026-10-28T20:44:00+00:00
 
-## Investing in AI beyond Nvidia, Microsoft, and Google earnings today - Yahoo Finance
+## What Microsoft’s buyout offer includes - Yahoo
 
-- **URL:** https://news.google.com/rss/articles/CBMisgFBVV95cUxQOU5mblBrVk1kRmVMQ3ZvaGZjMmZWWTVuRWVGQlpIem5MN1BKSk1DcGFKdE1xZ3Izcndia0xHVFFxZjVuRTFOV3JrV0loMDNuQWtsQm92ZjZ2a2dsZmdraEFhRk0zZGE4TWl2eG1hQnVFc1BBUVFzOGxjNlJkaVlBT1FxSUpIUWM4SGNHcWZkb3BWdmszNHR1Z016VUpXZjhDd0hSR25vRTlOLWdvVmdoTGxR?oc=5
-- **Source:** Yahoo Finance
-- **Published:** 2026-10-28T13:43:04+00:00
+- **URL:** https://news.google.com/rss/articles/CBMihwFBVV95cUxPcGkwT3lsOEoxdkdHZmhQRkpQZjBzeXdjRURidWZNUkVqT1VzeXJtWW9IM2Y0TGlNRXQtRlBfWXRvZzFPMUpVZVhSSVlrRzBWNFJOUWxvak56S2ZtSVhUN09NS3RYanlSRzhpanM0MzBrMFhpVWNOSUI2aEk3VUxiLXZ2WFBqbE0?oc=5
+- **Source:** Yahoo
+- **Published:** 2026-10-28T20:37:40+00:00
 
-## If You Invest $1,000 in Microsoft Today, Here’s What It Could Be Worth by 2030 - Yahoo Finance
+## Microsoft’s Profit Jumps 32% Despite Big Increase in Spending - The New York Times
 
-- **URL:** https://news.google.com/rss/articles/CBMimAFBVV95cUxPX3BJZG1SbUNxaVVETGpRSnRRRnZZRmd2bWp0SzJRb2x4LWdEUlI4RVo5VUhhMjRQZWw0Ml92WVZleXlLc0ZmVV9uZVdXSkJhNnNwUTRRUTRlTUJtQXMzVDRnclJyanZNbnJsWDlaV2ZPeUwzdVhvZGwwVnVtOHdyNG10a0JvaGxHcTNMdTFpckw2ckJ0Ry1VcQ?oc=5
-- **Source:** Yahoo Finance
-- **Published:** 2026-10-28T13:33:01+00:00
+- **URL:** https://news.google.com/rss/articles/CBMifEFVX3lxTE1JV0t1VzdLRjByRlFFemJORWcybEE3eFhxMUpFWGNYS0hnVTk3VzJLLXMzZlBXUzlyTWJWenEzSjFNWVE4NUxsMmFFU29KeEhpNGthZWVjQW53Y2xUQjNtNU9ReGJpNzF4YzhuVUYtXzltTXJvNm9VeFlPMTM?oc=5
+- **Source:** The New York Times
+- **Published:** 2026-10-28T20:37:00+00:00
+
+## Microsoft expects 'very few people' to accept buyouts, CFO says in internal memo - Business Insider
+
+- **URL:** https://news.google.com/rss/articles/CBMiogFBVV95cUxPRG95SnZ6TDlZRkN2X3YxaVl0UjJuci1GaGQ3a2Z5NFludTF5UlNjdnltSFBTY3ZQQ1JqOTlwdGFMQ2xGeVF2VHVuNjhkbk5sNGk5MXJsdXl1SVNYTDdKRjd5djZ6UWI1NEJXMkQ5dHl2RnM0Z3NENG5zQ2cxYzlhVUNzSFhzSi1RUHJoNWQ2enNkWkY0U2xpam9qRmV4YmJxUFE?oc=5
+- **Source:** Business Insider
+- **Published:** 2026-10-28T20:35:13+00:00
+
+## Microsoft (MSFT) Q1 FY27 earnings results beat revenue and EPS expectations - Shacknews
+
+- **URL:** https://news.google.com/rss/articles/CBMihwFBVV95cUxQSVBGQjZSeEtLQnBxNFZnclRaZXN4ZzRzS2dRc0xlV2I3VGlidXdwdE9XUDVsZzFWS2ZBQjhzRU9yLWNoRkVVSTVSS2tTOGxFMGlId05mVlFnT2JnRzhfVFYwZG9pbVZta3JLQlY5NDBEM3B4ME1pcjJNMlRfcFg1Mktsc0ZpdWM?oc=5
+- **Source:** Shacknews
+- **Published:** 2026-10-28T20:35:00+00:00
+
+## Microsoft expects 5% or fewer eligible employees to take its big buyout - Business Insider Africa
+
+- **URL:** https://news.google.com/rss/articles/CBMiugFBVV95cUxQdGhXSHhQdFRlN0M2eC14S2dMT3ExaGpiUHhkbHNNaXhlM1dydFRpbU5XTWhEZjNWTU8wNFBkd3NoRl9RNnAyUFhqTUd0RGN3MFlHN0VONEN0a1JrVXZHUDNlckVVZzVMdEQtMVEwX2lJS0RUUnNmOW9MQy1pSFU3Wi1fb0M1MjNjUmpBRGNWa2dobmdpdGMybXhMeFRjdHF6d3JETVJPQ3B5UW83MEtWWURqWjk0TnlEMGc?oc=5
+- **Source:** Business Insider Africa
+- **Published:** 2026-10-28T20:30:45+00:00
+
+## Microsoft Surpasses Cloud Revenue Estimates Amid Rising AI Spending - Global Banking & Finance Review
+
+- **URL:** https://news.google.com/rss/articles/CBMilAFBVV95cUxPdGR6MmFQT1VIVzNWMm45cnlUVnlNZS16bF9XVjZySm5sYU5nOEFXMzhkNWFpZGxSNGhLa25FVm1yanM1MjB6UGVPZEs3TEZwRkhLdE43bjZhTWhvRnVKTFVOYnpyajVHbzU1OEN2QVhVQUVQaWJvRmpSMW9YbVo1c2JQSTdVWmtjR1RFc3g0c09taFRf?oc=5
+- **Source:** Global Banking & Finance Review
+- **Published:** 2026-10-28T20:29:08+00:00

@@ -1,8 +1,39 @@
 # NewsWatch — Apple News
 
-_Last updated: 2026-10-28T17:58:34.351146+00:00 · 50 articles_
+_Last updated: 2026-10-28T22:28:38.766836+00:00 · 50 articles_
 
 ---
+
+## Form 4 Apple Inc For: 28 October By Investing.com - Investing.com South Africa
+
+- **URL:** https://news.google.com/rss/articles/CBMilwFBVV95cUxNaTFBaGs1ZXRoQkZMcGN4dkFqVkpsR0J3M1FlbGdtN1F4ZE1faUlfaU5aenA5OVlPUS1jcWhLU3lQQjZpQURESVZjcHlGel9MU2R0ZjF3QVlybFFRUVRpMVVjS1FGaTVTOGJlZVRFWkk0aE1iNU9Xc1M2RGh2Zk9wRzBZa1pEUkN0LWViUkdOWlg4UGtfanpn?oc=5
+- **Source:** Investing.com South Africa
+- **Published:** 2026-10-28T20:51:16+00:00
+
+## Apple's new hardware shines as AI monetization nears: Ives - Seeking Alpha
+
+- **URL:** https://news.google.com/rss/articles/CBMimgFBVV95cUxOVUdsZXVURmJmTzZ4NnIzR1ZyOGpJbXp6aHRUY01adVhJR01Vd0NaQU8zNklRQXpMNzhuSkxZdkFFejNIY0c2cGJFVXI3bzhuQ1loYU5xSEZiTWNia1NaeGJWYl90UE1ncDdhQ2ZnN3dtTTZleFVBRU5YUG9vMXFqcnkzUHFxQTh3eEViSDNkdzRObUVnY1BxaV9B?oc=5
+- **Source:** Seeking Alpha
+- **Published:** 2026-10-28T20:40:53+00:00
+
+## Apple MacBook Pro with PROLED XDR Display becomes first touchscreen Mac | Technology News
+(HT Tech) - Hindustan Times
+
+- **URL:** https://news.google.com/rss/articles/CBMizwFBVV95cUxPbjB4U1FjdzY3eFRudUxTMFN2ZFFNdzhkNVNSd3pXaDR5TzJuRlMwU04wSTRMelg3a1gzRF93d3kzRjIzVWV5TEtoVFFBRDkzLThENEtjYkd4bzVRRU5ya3VjUDFzaDgwYVU0Rm1zY2xwWGl3d0g0Ukp6U3JBNDNEUHdhQUZOMmdadkhrX05DUjVweHJjZWZZRmo1Q1pFNXZuOUROSlpRcl9rNUIycHhGVzQtdE9tMElWVmZ6TUYwa1VkTk9lMlNoNWxLZVFaeUnSAdQBQVVfeXFMTnBDTW5vWDVaZlF4VFUtUTU2Z2xQM0h0TXE0dDVnOGZ1b3VmaF90NnAtLWUxbThDVzVvZHJMeUVIQzBtQWlxTkVxVzBELWl5cnVEbG94MHlmVDl3VlVES0JOT0FhbVRaQ3NVbEdjNHZwc3VRVF9VeW1pZnd6eTYybU5lZ0xOWUdrSUlpSDM0bnEydEJSbUczVmxRZ2xtTFBqTU9QLUNGM2VzdkFtUlB4NTN2MnJyVi1UMGhPc1F2Vm5JdGJEZlV3X0RzS1ZDbXVqUV9iVDg?oc=5
+- **Source:** Hindustan Times
+- **Published:** 2026-10-28T19:07:05+00:00
+
+## Apple Stock Dips: What's Going On? - Benzinga
+
+- **URL:** https://news.google.com/rss/articles/CBMilwFBVV95cUxPVnVwYUpiYU1BWTF4a0Z1VnBTWmEyVng0MWItc0RESUZIQmN3OWw4YnJ6VGZmdFVOcTBWX0dLcHVLejdJREN2b0U4bXItU09iTk5ZZDlFMmYwQTVJY01sT1ZmdnRVdlVLSHF3cUd5SkFqc055MTFMSnFzRUVwcnIxRkhCeUppRF95OGVqMDdHVWdUOXY5cWI0?oc=5
+- **Source:** Benzinga
+- **Published:** 2026-10-28T19:01:47+00:00
+
+## Apple Inc. Unveils MacBook Pro With PROLED XDR Display And Touch - marketscreener.com
+
+- **URL:** https://news.google.com/rss/articles/CBMitwFBVV95cUxPTFhrYkpZTGtKbm8yTklFRS11eUYzWi1QdEhFRDRQZEhoSHRKNlg5UFp4dDBtNFpIS2EtOTdxSWtYNGtZOVgyZDJlVDlhOVh5OER6eDBWdFBONUFDVERpSW5PNXZVVEdudHdBdk9EZFNlWm8zMHZ0dk1NcVFlY0FOYV84OU5rZm55a1lERkNLc29Yc1ZSc0stQ0hWeFhnYzduR1lGUE9ZS1YzNXVOYkpDdzc2XzZVRnM?oc=5
+- **Source:** marketscreener.com
+- **Published:** 2026-10-28T18:50:59+00:00
 
 ## Apple shows first touchscreen laptops amid product blitz - The Lufkin Daily News
 
@@ -273,33 +304,3 @@ _Last updated: 2026-10-28T17:58:34.351146+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMiiAJBVV95cUxPWEpXdl9tRXNxcnhweUtOSkdtbERUOFNoMVpPaHR4N25YWFJtVXZyV3dGdnpsM0dfNXJCSVN0dWFxRzBvRHUzTUphOXVDOXd5ZjFCSHF6SWJibnA3WlNwRnFrVlBXYXQtRDJ6ODcySVN5MnJWMEl6V296ell4QXQ2eUFBSVFxeV83MXV3bEZxVEJiNTNYQVJCQkJIYlZSOWlZdXdSZWt4elZKZks3NmpxRHUwYnJIZm1TbVEzSU1KUHlsZ0RReWR0ckl6TVdsWk1CeHVaVUM4TUZRQzlzVkJzckVFQWh1S0VMcWlpV3YwaHRzNWh2djJOc0JQdkZ5cE1hZ0RPWjVMX3U?oc=5
 - **Source:** Inventiva
 - **Published:** 2026-10-27T10:44:52+00:00
-
-## Form 4 Apple Inc For: 27 October By Investing.com - Investing.com Australia
-
-- **URL:** https://news.google.com/rss/articles/CBMilwFBVV95cUxPNFd2US1pNTV5ZmlKQWNSMXFrZmNGN2U5ZHFZckhuWDlaaEF1em55MC1JdEp5OXBxdDFIYms3ZTlXZThlNFJCTllMSXNiUTNEOWdmQ2tOZ0Q2RDFCajlraXptNDNwMEVnS2o0WUJGWUNHV0didVJzaXR1eWF0U3luVTd2b3dmS0w5Q1R1VE1xaURGRVNZMjFv?oc=5
-- **Source:** Investing.com Australia
-- **Published:** 2026-10-27T09:57:04+00:00
-
-## Apple Inc. $AAPL Position Reduced by MPS Loria Financial Planners LLC - MarketBeat
-
-- **URL:** https://news.google.com/rss/articles/CBMixwFBVV95cUxNRThaeDY2MWpvV3FmSmozVU9KZWRMeTlSNGN1QWZkQWFIWGpFQjcwbUhWWXJrbEZGcnVJWVRuOWkxVTFvVEI5OGpPaW9vTjZPWFAtRWVJV2dmNXluTFM1U294V2VDME1TY2FQTlpuU3J4LS1OVlJqVDVBTTJvVS1JRkhUaTI4RDdnY0d3WmE1emNDRU9BZFF4bG0zMnRaYUxLTE1NV0gyWWRuU0FJalVJZE9uZWpuR0JJWm1UXzBpR3E2bXBVOV9V?oc=5
-- **Source:** MarketBeat
-- **Published:** 2026-10-27T09:12:32+00:00
-
-## Orgel Wealth Management LLC Sells 2,158 Shares of Apple Inc. $AAPL - MarketBeat
-
-- **URL:** https://news.google.com/rss/articles/CBMiwgFBVV95cUxQeXowOXU5aU0tV09iTTFLQVNjUzdMaXgxM1JvNFFkeUpQem9abFpzVVRjLTljSjZBcGdtOVFHNnR4cmU0U0NKcHd1NWI5WkRNMVlsQlE1ZEJER09iTFFmS1A0eEtiRkpMdk5yUi1kZ29HbjlmLTJGbUVocklLeHRULWpHVWhIcGt3aHVySm5Xb1ZZc2dhbWVEeEdCaE9xV1lhOV9DWW8xQXJsMUp4OVVGOXFiR3g0ZWQyc3U3TzVKTk9ZQQ?oc=5
-- **Source:** MarketBeat
-- **Published:** 2026-10-27T09:12:31+00:00
-
-## 51,654 Apple Inc. $AAPL Shares Purchased by West Wealth Group LLC - MarketBeat
-
-- **URL:** https://news.google.com/rss/articles/CBMiwAFBVV95cUxOeTdMR0JfVTNBMGI5dkl3S2tiSlBoWERzeWJ6aFNORkN2Y2lwdGFpdk13U3RYSDZvYWZwWHFxemM1elI5TG5Rbk10MzhFTUhJd3VnSk5LeWZZZDg1RUVvazVzMUFHT19yS0xOOElUMG1wRVZkdGhmOHJhV2dRSUQwOVdoVnpBUGRVRmFwN0RiczN0WTdNT2NfZDAxUVFtMkdpQmRfMXNTVTVHcEVodWxTeVUwSUs1WjJJWjNvd1U3VzM?oc=5
-- **Source:** MarketBeat
-- **Published:** 2026-10-27T09:12:30+00:00
-
-## Apple Inc. $AAPL Stock Acquired by Martin Capital Advisors LLP - MarketBeat
-
-- **URL:** https://news.google.com/rss/articles/CBMivgFBVV95cUxOM1BobUVfbnptWWpFQzJHcHFOdWFORmVnT3U5Tlg5OXdwY1UwTlZYTzJNZjhsS2J0aFFmemx0aHgzWW9xSWlraUJJSkN3czJvUDJUaVAxYkcyZ1lxZlZjSzlheXVCdHE5MmlheHpjR0lVU2NWaTJZbWpFRkh1WXp4a2FOd0xYbFZHZXZSSzBsbG9nT29EbjFZRmZmYl9jb2xmeVE1cU1PYnlNcUVxMV9YZF9UaE9tc0l0S1hYSVpn?oc=5
-- **Source:** MarketBeat
-- **Published:** 2026-10-27T09:12:29+00:00

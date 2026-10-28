@@ -1,8 +1,26 @@
 # NewsWatch — Iceland News
 
-_Last updated: 2026-10-28T17:58:35.377750+00:00 · 50 articles_
+_Last updated: 2026-10-28T22:28:40.310086+00:00 · 50 articles_
 
 ---
+
+## Watch Estonia vs Iceland - TOD
+
+- **URL:** https://news.google.com/rss/articles/CBMimAFBVV95cUxONHdLUHFDMUxkcTFZSkgwb1FLeU1xTy0tNXlTUFBlbmxsNjMxZXdBUHhhcTZzT2lIZm5YdDd0akVNamhSYnpqRlQ2OGJZUkgwYlRBYVNqdlZBQ2Z4blEyRDNNcXBsRVlQOGc4Nmh5QlRRdFJNcklPVFRWeVRKUktVMW1rckZkQzNhTTA2YTVQb2s4Y1M1VFdsNA?oc=5
+- **Source:** TOD
+- **Published:** 2026-10-28T19:12:35+00:00
+
+## Iceland Government Approves Major Residence Permit Bill - Erickson Immigration Group
+
+- **URL:** https://news.google.com/rss/articles/CBMigAFBVV95cUxOZE1JWVdCWnFaV0V5eDBRUTNqZ3k3TUt3d0hqRFRtSUg3VzNUakU0QWtLUEZaOVhVcTBsMzBZUnhkVDJweHZLNFhZMGMzTmw5X3EyNFlsSldnLUNJakRZemhPWjdvdFhyNG91R3QzSXVVZU82cy03TWtnZ205dWJkdA?oc=5
+- **Source:** Erickson Immigration Group
+- **Published:** 2026-10-28T18:03:03+00:00
+
+## Vancouver's new Icelandic festival is bringing four days of live events to the city - Curiocity
+
+- **URL:** https://news.google.com/rss/articles/CBMiXkFVX3lxTE91RTJmN1pLeDlONWR0UWg3VHhTTnM0R2lMNm1fdE5zNzBnd21kTnBzaUFzVlpBRnJuemRyR2lYZGprY1FRbExWemJ1NUhHWjI5QlZqQkNnaUctM3VsU0E?oc=5
+- **Source:** Curiocity
+- **Published:** 2026-10-28T18:03:02+00:00
 
 ## Weak mag. 2.6 earthquake - 12.5 km NNE of Flatey on Wednesday, Oct 28, 2026, at 03:41 pm (Universal Time) - Volcano Discovery
 
@@ -285,21 +303,3 @@ _Last updated: 2026-10-28T17:58:35.377750+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMinAFBVV95cUxNSXFQbkhKanZUd2Z5NVlJUkpOWGxXOHBhenIzMXJTWDMxZHExS1BTcU5SdnQwS0o4Vl9lZGR3NV9aeVVCQ0c3ZWlkV3VmbmJwQkRuMlUyUE1wLUxaUDVFLVYxSHhYaERZWG9BdEkyZTNTRUJPcWpCeWFFTVpPX3NHTHBHOTNucHVRNjNlRTQtdl9vOXV5LUlBcEpwTXE?oc=5
 - **Source:** Iceland Monitor
 - **Published:** 2026-10-27T13:00:00+00:00
-
-## First scheduled China-Iceland passenger flight service starts operation - 巴士的報
-
-- **URL:** https://news.google.com/rss/articles/CBMiwAFBVV95cUxOMVFIakVMenJCeGRuTlh0RXp3azNmcWNTYXpxeGwxbG5IZlZZM1U5NXd5TUlaaWwyZ04yazJXZFdTdE5hX3pYaW5IQ3V3cFVJRDNSZ09wQ0NOYWhaejROOEFVbklVTVJjM0toV1FwbTdxNkdtTXlBNGZSaUl5SGxTNVpaMnJuNGs0THVwY1RCbGwtUzlVSlh4cko1b0l6U05oLUxtVEZyb0hLYTE5LUpndWk1aTZWOXlmclViODNZRHE?oc=5
-- **Source:** 巴士的報
-- **Published:** 2026-10-27T12:19:09+00:00
-
-## Iceland And The New Arctic: Geopolitics, Innovation And Pakistan’s Third Pole - The Friday Times
-
-- **URL:** https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdzZqV2lFTlFuQ3prOFktd3JlejJXWjA0bUtIUmpDdTA1bEFqcmVUNHdLYkhpaEh2M29McTBHMzJoUTFMUDZnWHlVb3ptR19NM3FJY21hOXdmOVBvMWt5Q0ppSkVYbHh2TDZqNm9uQVJvZzBfZ05DRmhVcWlNOEozWmY1elB4M0RKdmhRMFNQeG1vTy1jcGdGekNPNUdJZHV3dGNTQXNkYVZNQQ?oc=5
-- **Source:** The Friday Times
-- **Published:** 2026-10-27T12:04:00+00:00
-
-## Iceland rolls out '30 minute' delivery service in Merseyside - Liverpool Echo
-
-- **URL:** https://news.google.com/rss/articles/CBMijwFBVV95cUxNcmdvanE1clZkX3dfVnBfdjk4cDVnd0dBdURmRV9meVNvUDMzWGVYbzBtNlRxaEFYTlpWSXV1RmdvdXNZM3FIMEwwcGVRX3BsdGZfSUh1TkMyMGlUY29aUTAxV3FaZWxQSUVfUmNwc0RTNUd0OW95bjI4eHctdmhCZDd1ZWFYa3A3b2FiQXQ3ONIBlAFBVV95cUxQUFpsbmdTSjNqWnROM3c1NUdFSGMxZjlsRExPZ01sTEhrQkU4ck9BZUlxQXNSbTlCQllZam5jUFZtX0tGZUwzY3Fha3ljOGh3RndoSmp6VHM5ZlVJaFRqZlBBa3poMzZtT2ZKNFFSeDN4NU5KbnZWUy1IUFJFUVRzWWRvdEw0N011R2ZXNC1WaXZ1bmls?oc=5
-- **Source:** Liverpool Echo
-- **Published:** 2026-10-27T11:55:00+00:00

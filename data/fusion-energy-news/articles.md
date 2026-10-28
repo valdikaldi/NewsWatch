@@ -1,8 +1,68 @@
 # NewsWatch — fusion energy News
 
-_Last updated: 2026-10-28T17:58:35.742801+00:00 · 50 articles_
+_Last updated: 2026-10-28T22:28:40.949659+00:00 · 50 articles_
 
 ---
+
+## Fusion Power Needs High-Voltage Chips That Are Made Mostly Overseas, and the U.S. Plans Up to $175 Million to Build Them at Home - Nature World News
+
+- **URL:** https://news.google.com/rss/articles/CBMi4gFBVV95cUxNNFJPekdPQXZxVXNpMThYNjhqWGJwWWY2eklZOUhMbC1tWkJkSDZ1NFUtTk5JSW1sZDNRTzRGdXJSQi1QQjBVdHBMMzNPWmk0S2NKQmczdVd1MTdqZ1FzN0FMdm9PMGhTQjVtWVRmZ2cxbDFkT3E0Q2ZLS2d5RUNKTkFpMnAtZDNLcXRMckNZbEY3cXgxVy00S0VuRGUwWW9sMWFBbXRkTUd1ZEJoQkg3VmJmbWdVZl92UjdldjdLSHQtTWcyT3lDT2w0ZEhQNWEzSjB4OWNESlEycTRKT2RxLUZB?oc=5
+- **Source:** Nature World News
+- **Published:** 2026-10-28T21:27:49+00:00
+
+## Fusion research tackles fuel and instrumentation challenges - American Nuclear Society
+
+- **URL:** https://news.google.com/rss/articles/CBMinwFBVV95cUxOeE53WkNpV1VzNThUR3pjTlF4Q1FsUDQxOHk5MHBna3pqQjFoSUE0NjBseTdBVnRYekJKWldzMV9MSXNnWkxEcHE1R05NazUtOGZWajU4ZUVfUzZoQm1aakpDRkFfNmVnREYwZ2dzM0tleW9WeDY1b096WldPSUx5RFdKSmVJQUV0cVlCWnRDRy1RQVhLWGp0WHdHN2wzNFk?oc=5
+- **Source:** American Nuclear Society
+- **Published:** 2026-10-28T21:15:08+00:00
+
+## ITER vacuum vessel exempted from fission-based regulation - American Nuclear Society
+
+- **URL:** https://news.google.com/rss/articles/CBMimwFBVV95cUxOTm5oeGVqWnF0VFdQenpuTTdEa2E3OWpva1AzZExHcUNpd3dtanFjZjBZVUw5MGdRaWM2aC1MTTF4SGo5aHBPblRmTDlhMnc3ZkM4Rko3c0JVTmJFdjNUNGFhb1k2TDhCaVk4ZG1OZFV5SnhWT1gtUDV3SmprQ1lWZGRnU2g4WUxnT3VCSmJpRjVVRXg3V3BPM1kxRQ?oc=5
+- **Source:** American Nuclear Society
+- **Published:** 2026-10-28T20:51:31+00:00
+
+## Quantum, fusion and AI stand out during DOE leader’s campus visit - UW–Madison News
+
+- **URL:** https://news.google.com/rss/articles/CBMijwFBVV95cUxNZHlrTVdjWGpJR3dfaWZRMi10a2xTdk5Lc3BxSldVZndsdUJuRUNRRklsVW92QWtvQjFXcGtZLWhSQXVNZjg0V1VsdG84a2FNbThNRzFSTjg2T0FqOEcyaWF2VEc1eHZ5R3Z2MkVRWjZ6M3JWMGxFTFhzQlRCM3JEMElRX1RvMWdEYVhkR3VxSQ?oc=5
+- **Source:** UW–Madison News
+- **Published:** 2026-10-28T20:06:19+00:00
+
+## ICYMI: Nuclear developments around the nation this month -- ANS / Nuclear Newswire - American Nuclear Society
+
+- **URL:** https://news.google.com/rss/articles/CBMimgFBVV95cUxOdkpzTG9UWUFaci1zZVhwZ3R0VXVXbldBcjFLbG1uQVphNENNOWhRWkdPNzhuMlZPU3pSTHNVTmViVlFuZjZYVG8wOXprMzFNMm5QYmJ0WDBnaV84eE5iMDNBQTFyNUM1OTlHQUl1Z3FubVVrYzBObmx5NDBmcVdHYzVTQm9IOGZzeUp1SWdtbERBSUp5cTE5T2V3?oc=5
+- **Source:** American Nuclear Society
+- **Published:** 2026-10-28T19:07:38+00:00
+
+## Japan could replace up to 14 reactors by the 2050s under new proposal - American Nuclear Society
+
+- **URL:** https://news.google.com/rss/articles/CBMirAFBVV95cUxOVmt0Nm1xaDBlZWVOeGFDbkc4cGVBUVJNbldKdzE4Y2tVZjNjemhIYUQyekxocmZuYlYweGhGMU5BQVBLdHJzbjFRV1dwSVFNb01uSHpsay1Yc3VTajhIQkRXUlFTMHpmZFhucTduYjAtR1ltUlhad1NIMkc2eFZBSGg1OUlRaHp1MDVVeG4tNEJwZU1DU2VQU1pBRnN2Q3I3b2xxc1c4TVpVTEV5?oc=5
+- **Source:** American Nuclear Society
+- **Published:** 2026-10-28T18:32:07+00:00
+
+## INL opens molten salt testing facility - American Nuclear Society
+
+- **URL:** https://news.google.com/rss/articles/CBMigwFBVV95cUxNYzBDMnZFam4zY3JFYS1SdHEwMEN1ZmFwQmZ3MS1RdkxTdEpHaFdVbU40LWE0NUVoYkRWdy1GZVZPUW5zYUFiSDE0bUpGbXhBRlVLT0w0SmNZUmhXWlBUTjFySUdtUnhBNHcwMTUtS0dIb0tBaVFMMnE3N2RIdXV6ZERWcw?oc=5
+- **Source:** American Nuclear Society
+- **Published:** 2026-10-28T18:31:44+00:00
+
+## State Workforce Board Invests $1 Million in UC Berkeley-led Northern California Quantum Training Pipeline - University of California, Berkeley
+
+- **URL:** https://news.google.com/rss/articles/CBMivgFBVV95cUxOR25GWGRNTllzbXF0LVhIWXptYjVpaVk1U3JmUmpVdVlCb0RqdXhiLTVsSy1zTVdHd1c4U3NkR1FFN05VVWE5QjZiRVMzc3EtZFNCQjEtUml5YjRTTzRPOXhrbHpZWW9oekJISmEydklQN1BaVXFSbDJBb3lkUlhmWHllcVQwdThoTmJiQkI2RWxVdXk5N2pIb291UEZxMUtlQWc5eFNsbVNEMlVIcEJxNUI0NXhEWlJNbVN0bmVB?oc=5
+- **Source:** University of California, Berkeley
+- **Published:** 2026-10-28T18:27:00+00:00
+
+## U.S. Energy Department makes $5.1 B funding commitment to Alliant Energy tied to gas expansion - GazetteXtra
+
+- **URL:** https://news.google.com/rss/articles/CBMi8gFBVV95cUxOYXZJUDJiN1I3VUF5TWJ3YWFaT0VGVlUyaDNTalNuVGpOT3VLM2ExQVlOQzdkd3hwTkQzOGxmODRSNF9wMVpmR0VKanJsRXM2WENtTFlYZHM5RnFJUGIzVVlsZkFtNFFyMi14U1pWWVdjZTVSbk1rMnNiY1NLaG84S0tkVTlxR1drOHpub1VqTnZxeEZQcERWd01lSlJ6a3hieFhWT0w1Z1hnV1BsNU5rMFRZd2xlVC03TENmYjQtREROejNqU3lFbGJVUWdIT0xRSVNVSEhrN19zdm1OWV83NzBPV25aS3h6a0QySGhfNmZTUQ?oc=5
+- **Source:** GazetteXtra
+- **Published:** 2026-10-28T18:15:00+00:00
+
+## Constellation to get up to $5B DOE loan for planned uprates - American Nuclear Society
+
+- **URL:** https://news.google.com/rss/articles/CBMingFBVV95cUxPTnZRRkpLWS1sOTh2czZwMnBFTXVNa3E4cEh6TWZ2OHFOeXpQcTVnOW1Ua29LbG1QWUYwMEFNYVVVTVFQdmJJMEhQZkF0MmlRa1RmTGtHZ1Z3eU5vd1lQWHR4T1RfelJjU2lJbVRMVWFEeU82REgtWXZuZ2YyTE1zckdtdWFCTjVjdmJWaGpJVW5JenVqM1YtUHFqbkJjdw?oc=5
+- **Source:** American Nuclear Society
+- **Published:** 2026-10-28T18:07:33+00:00
 
 ## ‘Conversion gap’ a defining challenge for power systems, and more top energy stories - World Economic Forum
 
@@ -243,63 +303,3 @@ _Last updated: 2026-10-28T17:58:35.742801+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMie0FVX3lxTE5DSTZibTRDTUxqSm90R003aHM0ZVI5QTlLWjQzQU9TU1FuemRIbjB6WkVHYzgzTTlVRjc2VXd3dUxDZTF1RWNGOVZZNnEzR3dzRmFkSXFHQUc0NHZPZm5PSnljdEJyWktlYXJUWW85bHo1OTVxek9NOWZ5bw?oc=5
 - **Source:** Phys.org
 - **Published:** 2026-10-27T11:20:01+00:00
-
-## Siemens Energy partners on fusion technology. Siemens Energy stock gains 1.79 percent - ad-hoc-news.de
-
-- **URL:** https://news.google.com/rss/articles/CBMizwFBVV95cUxPakRLZmMwZTdNLU5CZk9lWEFSWVA0YlNHMy1VXzAwMF9TME9DcGNlZmQyRllJZUJGMVRZem9MS01oSnVjaC1qV1VuTmJHNC1CQ0hBU2M5QldRN2VndUljYTI4RFdwSFcycTZvbjd2cUNRdjgyMWV2aHBrM1JZY2V4WXBBNFhDZjVFTjgybXVRcGJWVGNOdEl1WTNoQVlMUExmeDRPdXVKb1g0eEdBMUhxOV84Ny1yWE1GbFA0VFdiUFpWWGhHUXFkM2xJWFpiZEk?oc=5
-- **Source:** ad-hoc-news.de
-- **Published:** 2026-10-27T09:43:52+00:00
-
-## Siemens Energy: Fusion Heat-to-Power Talks, a 40% Earnings Gap to GE Vernova, and the Buyback Runnin - ad-hoc-news.de
-
-- **URL:** https://news.google.com/rss/articles/CBMi_gFBVV95cUxOa1UxZG15MWc4aVJGb19nMm5GYlZWaDZDenVIaXRocGlvQk95Y3g1NXNmcENzM3pDUFhfT0tXa3Boa21RNjlPeDd2ZE5HR2RkVzR6QnNWM2U0aTFOX1NnRFdlVXB0OUdhZkNub3J0QW1fZU5zVHZXaEY5WWMwYzRBYzZ6NXJMUExDV2NBYlNYUWc5dWMxN2V4ZTd1NTVtdWRfazFVdlR3ZExIS2FqNjh2RGFTR2tCRGRYNkFscnBxNG04Y1RBRlJWX3F5aWlsZDc5LW5QeF9VTEYtbkZXMkk5UTU4LTgyX0p4aE5JOUxhdnZuclBQQ0w1WHRjMHdGdw?oc=5
-- **Source:** ad-hoc-news.de
-- **Published:** 2026-10-27T09:31:03+00:00
-
-## Inside Pacific Fusion's $1B Bet on Mass-Manufacturable Fusion - Dealroom
-
-- **URL:** https://news.google.com/rss/articles/CBMimgFBVV95cUxPNmR2VzRnS2dOdHVkVjZ2SnNTSlY4OTBmUXhOY25lWFl6bTduRkJMQkFscnJmQ19hbC1WWXdVNUMxSFJkdnZDZzNkZng0NnI1UmZuZFNwOXI2Q2NQR1NUMzhueWpPWFBnamw4T1ptN3h0ZE8yZ0lNYkN6anZDM1ZuUXg4bmctS2xKTG42dnQxNmEya3Z6VXZHYXhB?oc=5
-- **Source:** Dealroom
-- **Published:** 2026-10-27T07:37:37+00:00
-
-## 3 US Chip Infrastructure Stocks Getting A Fresh Look After Federal Fusion Funding - Simply Wall Street
-
-- **URL:** https://news.google.com/rss/articles/CBMi5AFBVV95cUxQaWUtUDdKamkzOEVlaFpYVlN5Mlk0SHo2OURGaUF4SUtLMXdmdndtOVJQaE50T0xhVFBEaFlFOVU4b3hRcC1sUjdvckNjYm4yYnpJTkpWbl93VUhlX0VOTm1ma21YTThRSkFOYy14VUJvM0g0dW9LVER5a2prOWxLaWZ5WnJGZ1Q0R2hiRG9QeUhvRnFEVGc2YllKTFBKMGtTTkZqVDlrMjB0bHpMWU9CQ3ZBem40WlBUUDhFdmxGc1lqNnE0OTU5NEZsd2EyRHhUUjFCUWRxaXBvQ3J0elRnREg0SjHSAeQBQVVfeXFMUGllLVA3SmppMzhFZWhaWFZTeTJZNEh6NjlERmlBeElLSzF3ZnZ3bTlSUGhOdE9MYVRQRGhZRTlVOG94UXAtbFI3b3JDY2JuMmJ6SU5KVm5fd1VIZV9FTk5tZmttWE04UUpBTmMteFVCbzNINHVvS1REeWtqazlsS2lmeVpyRmdUNEdoYkRvUHlIb0ZxRFRnNmJZSkxQSjBrU05GalQ5azIwdGx6TFlPQkN2QXpuNFpQVFA4RXZsRnNZajZxNDk1OTRGbHdhMkR4VFIxQlFkcWlwb0NydHpUZ0RINEox?oc=5
-- **Source:** Simply Wall Street
-- **Published:** 2026-10-27T06:25:49+00:00
-
-## Siemens Energy to Partner with Japanese Companies to Develop Fusion Power Technology - marketscreener.com
-
-- **URL:** https://news.google.com/rss/articles/CBMi0wFBVV95cUxOLXBRREp0bmM1ZkQ1Q0JCbFRvcEFsZjlyaU5teWhraHZTQ2EyQ204Q085cGZyYjg1S1ZJc3kzbFlka1hzcVA3SGMxT09ITVdqREcwR2tDQlhkaXVrX0RDa2NRbWpaY1ktZkthak52YlVyd05KeURUeDNyRkhzX0tXNUx5ZWJuUWxpcU43b0VNcEpya0p6ZTlGQ0s2MUFaUk1LYnVlN0tNcEF3Tkp1U01lU2dUN3NXcGdoSzNLWWpwWHJOZ3ZuY1N4WXdCVTVIb3NHVVY0?oc=5
-- **Source:** marketscreener.com
-- **Published:** 2026-10-27T05:33:33+00:00
-
-## By Design donor event celebrates the power of philanthropy - Inside UNSW
-
-- **URL:** https://news.google.com/rss/articles/CBMioAFBVV95cUxPQXl1d1E4MkZVWmo3NlRiY21ZSEU5OGNXc2k3OVY4eC1WejNTNVI2NnhBVDhITGFKbFBKWHJBTVNNbV9nQnJHWWdXNU9MYUxnaER6LURzVFR2UzlpZWZhSEZLZmFTWTh3dFdwdUQxdTU3WURUb2MxNHdiNTZFdDVsY1k5b1c3RGRCUWtTb3J1ek5iMm9DbVFfMnAyTU5xbV9q?oc=5
-- **Source:** Inside UNSW
-- **Published:** 2026-10-27T03:14:23+00:00
-
-## Could Fusion Plants Pay for Themselves With Gold? A US Startup Claims It Turned Mercury Into Gold, but Key Data Are Missing - Nature World News
-
-- **URL:** https://news.google.com/rss/articles/CBMi4wFBVV95cUxQdEFDbWtmbUZVc2U4VTNFQzh4dVRRN1NKTm1ZUTBZbEJ4aVR0dHBhR2VjZkRRZGlya0NNZHRUcUZxSzFtMGlQWC1MWE5yZlJoam1oY05CUzA4NFo0T0huM2twbENPUHgtYzRVMV9DTXlCWlIzU0ItZlZYd2dNS3NpZjFvNXIwN3JCS1ZjWm1vWlRkMWxxQ3RxeGhYd3NrRXBmTzlqMmN6QmhYRk1YcXI2d3h1NEkwZVh3bHg5Ty16X2dpZW01cGdkcGpwQXprVjlCRkFlZWNiYjdTdHY3ZFA2bVpDaw?oc=5
-- **Source:** Nature World News
-- **Published:** 2026-10-27T01:56:33+00:00
-
-## Could $389M in US chip grants accelerate Bitcoin miners’ AI pivot? - Cryptopolitan
-
-- **URL:** https://news.google.com/rss/articles/CBMif0FVX3lxTE93OUVhajM1M3dIc0lkVHZHaUEtYUVQbWtaOWczS3RIR0pyd3JmU1NHY2pvZzNzNzh2OGpQU2tOaEtzXzhicExScmt3THRPM0Vlcnd2dDVNcFk1Y3dnSnp5SmlrQTl6SUFwbU9PRHA3cGFQYW1oQldTWVE3ZllKUDA?oc=5
-- **Source:** Cryptopolitan
-- **Published:** 2026-10-27T00:47:28+00:00
-
-## Sembcorp and ST Engineering prepare for nuclear future - The Edge Singapore
-
-- **URL:** https://news.google.com/rss/articles/CBMimwFBVV95cUxOQ2Q0X2tSeWdsNXZGSkNRS0VIc0dhQXdQM3FuQlpoMEJuODJMVk5qM1JYTFN0Mzh5a0FENnVSYU1zM0RvTkNXMnBWU3VNR1FHcmFvbGFKSElkQ3diWEp2QWJEZUtKS1kwZEdNVHdqX0xPamprOG9IQ1VKQWVWVWwxSFFOeHBRZjVEWmRTR0hJaHo2MHNyQkJtRlNiMA?oc=5
-- **Source:** The Edge Singapore
-- **Published:** 2026-10-26T23:52:16+00:00
-
-## Everett-based Helion receives millions for next-generation semiconductors - HeraldNet.com
-
-- **URL:** https://news.google.com/rss/articles/CBMisAFBVV95cUxPaUNHeXFPV3oxRTVJdVBfaUwyTE01TkI2bzVIUG9BckVxUUctT2hVRlp1TDR1WTRqOU9RVm9RTkZJODZydURIbUhzZ09DOV9NNzRMaHNnRjRpV3FPSk16YmZYYmlHTzdFNG1URUtZalY2bm5qU0RPdG1WVHJqRlZYV3dyOEZzQVA5SkRfQ29vdlRlWnpFNUFhenVNaDRjNk9Rc1RmaThiYVl1c1BTZ1VybA?oc=5
-- **Source:** HeraldNet.com
-- **Published:** 2026-10-26T22:45:26+00:00
