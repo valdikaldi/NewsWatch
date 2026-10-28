@@ -1,8 +1,86 @@
 # NewsWatch — fusion energy News
 
-_Last updated: 2026-10-28T01:00:39.937513+00:00 · 50 articles_
+_Last updated: 2026-10-28T10:23:36.390756+00:00 · 50 articles_
 
 ---
+
+## London’s AP Ventures closes €269 million third fund to back early-stage industrial and energy tech startups - EU-Startups
+
+- **URL:** https://news.google.com/rss/articles/CBMi2wFBVV95cUxNdDV0TkgzUnZ0RHkyaU1xcGxCWkdMRmFmdDV0cWo2MXNYaHFRU1hHeVJSN3RLZFdtekcya05EY1FfcVFXdHpvbHVyQ3VHMXZLZzZ1VXluVW9ySjcwYkxqc1ZhazEzTDBtZWxXdkVqeWR2aWk4WHZVWkMxdnFLQlhpTm13SVJUM3lZSVNLMnUxUE52dU5RUXlWazhGMWZLdkt5WHBBS0YwSUFLX0xhVnYtVjNjM2FwbWVya3FMRmdKaUVnYmNVZHlOUXFCbGlMUlVCVUEtaFo0MW9fVDQ?oc=5
+- **Source:** EU-Startups
+- **Published:** 2026-10-28T10:13:57+00:00
+
+## As Merz visits Japan, energy startup Proxima Fusion moves to secure Germany's place in the global fusion race - EU-Startups
+
+- **URL:** https://news.google.com/rss/articles/CBMi3AFBVV95cUxPcGJqN1drSzFIQ3VzT1RoUXkxU0U5M2w5bGRuSE40c3hpUmZGUjY3dEJySWNLYlZvcHIyMEh5LU5aZHRReVJSUUxDQVpCeE5LTjRrakk3UjljeXBwUzdtdm55MmhSM3NZWHB6MS1ZcVM1UmZyNFRsYUQwYzJOYTZQT2FTcFNOX2NQWUJscV9ycmRDbDlFdE5VcHZKaDBmSXJUZVVzODlHYmN6a3FKYnpPMzlYZmtvYzFoQk4tUFF3TlhyTTJiNmdCaWlyd2FNSnhHalByZjlXU2EwVkxj?oc=5
+- **Source:** EU-Startups
+- **Published:** 2026-10-28T09:51:56+00:00
+
+## Commonwealth Fusion lines up $85 million federal award for reactor tech - Richmond Times-Dispatch
+
+- **URL:** https://news.google.com/rss/articles/CBMipAFBVV95cUxOZ3ZldkRwemJqQmtBVXEzYUVHRDYwdVB2X0pJNjQyajJ2OEdoMG1Zc1RsRFhyQlg0SndwdFh2VndYUFg4MXBGZE00Y0VyaG9mODZFOEFuOG9uZFRYR3dSelh6UG9SMGV4RkFuSTBBNC15OW9sWnd2V3JUaHZzRkFpb1M5STdVZlZHNG5LdjhrNGYwYmNLdHNiaFktQ2tBQkVRNTI4WA?oc=5
+- **Source:** Richmond Times-Dispatch
+- **Published:** 2026-10-28T09:30:00+00:00
+
+## Industrial Decarbonization Market to Be Led by Siemens Energy, ABB, GE Vernova, Honeywell | SNS Insider - openPR.com
+
+- **URL:** https://news.google.com/rss/articles/CBMingFBVV95cUxOLWFGTjQ2aG9iT2RHb182cVdzRTZhbTBkcndMTlIwbDY3aTY3TG55Tmoya243OUsyNjBhelF5WktjT00tSEtoV2RzSVloTS00Yml4QVVWbTJ3YmpwY2gxeVZTUkN0TWQtQTVGcF91MDhLWV9QYTdCVnN1YVRjYnM4TXJjd1BoRDRCRVFkNExsRk5VaUxYWTFKLS1YaUtyQQ?oc=5
+- **Source:** openPR.com
+- **Published:** 2026-10-28T09:12:15+00:00
+
+## Top 10: Energy Start-Ups - Energy Digital Magazine
+
+- **URL:** https://news.google.com/rss/articles/CBMiZkFVX3lxTE5iSXJQb2YtMTJhbURPdXV6eUpfek55ZEszZVo1MUlOWlVReEhHdXg1aFZfaUhEWXhsc241TEFhM3JOQlRLWEl3Y2hhNVA2aFp4MHoxWDV3bGJBWUtHbmpTLVQyS2JTUQ?oc=5
+- **Source:** Energy Digital Magazine
+- **Published:** 2026-10-28T08:37:30+00:00
+
+## The U.S. invests in semiconductor research and development - The CFO Middle East
+
+- **URL:** https://news.google.com/rss/articles/CBMimgFBVV95cUxOaTFJTHRrX3FWLWFLUlVhVnR6VWVXM2RHOElhTkhVb3U3ZTBxckduYmJzbU5sc0N6TXdkQ2lLYnRvZkpGNjJTNTBsVlkyYWpYUjBQNElZVGJJUzI5c3Mway1FNHRxc3pxS3dPVXhvcVptaDNqUmpPRnlrRTZFUERkWXZ2VThlVk1rSUdCUzV2NmdWVGF5NWhlZVJn?oc=5
+- **Source:** The CFO Middle East
+- **Published:** 2026-10-28T07:35:22+00:00
+
+## How This Ship Engine Hits 54% Efficiency - Engineerine
+
+- **URL:** https://news.google.com/rss/articles/CBMiW0FVX3lxTE5HNGRQRm0yaEJUQkhhOWEtV0doeEdsXzJCc01QcFZsYVJieHl4aVMzLXVZMHZMVkhJcm83VEZLNENuZTczLUVYME1jV1YtMWtwZ0xPSWdBbVdCVjA?oc=5
+- **Source:** Engineerine
+- **Published:** 2026-10-28T07:09:58+00:00
+
+## OCTAGRAM, ONDIPA Sign Agreement for Proposed CNG Plant in Ondo - THISDAYLIVE
+
+- **URL:** https://news.google.com/rss/articles/CBMiowFBVV95cUxPblVqSjkzZEp5VWdab2J1WDJCWE56UlJrdld3Wm1HcW8wbDVXOU54aHIxWjF1eHN3WWxPRWFNQlY4NzdNQzFoY2VjeGIzcUh5SmRTTU1qYWVYMzlNalZzRGJsQUVsQnM4MlFVMmhYMUhJaDV1Ykk1MnBEZ0xLN3VOZkdCUXlkZ1QzdjFYRWFRMGtoZEdWNWlsYkFmTjVVSTdEQnZN?oc=5
+- **Source:** THISDAYLIVE
+- **Published:** 2026-10-28T06:32:46+00:00
+
+## Budget IoT sensor array tracks solar irradiance with three low-cost proxies - Bioengineer.org
+
+- **URL:** https://news.google.com/rss/articles/CBMiogFBVV95cUxNbHIzODdCWm9DVEtZd2RKVzJDVktCdGsyR09leEVzdzhSRXNZRkRkeWVVOVA0NTVpLWdNZ3pla2V6RHBCQWtteXFzZnVEUGhKZzZQdHhCZ2dPZmtsY2lzLS1tNTRUZFZHSEJlaWpQQW85eXYwSEpUalY5RmFFUW1EZk51NzQza1pBdW55RUtDSFZzRWF5SVpfVmJ0RXh2ZVoyb1E?oc=5
+- **Source:** Bioengineer.org
+- **Published:** 2026-10-28T04:47:18+00:00
+
+## AI agent finds four severe bugs in industrial control software in under four hours - news.lavx.hu
+
+- **URL:** https://news.google.com/rss/articles/CBMisAFBVV95cUxOWFA2Y1NpeS1BSmpZQ3hwTGRlNk83RHR5OGJnZmhCNlRIQXZfSDBrTnhBNm1yeUcwa2hlUnl2ODBrN2JjR29qSHlRSUlEdUtDVGF1T1FJMmJqS0RFWnlELVdfSC11Um1WUUR5SVYwbjZuRVUwLUNod21ObUV0Vm1XZFpEUnlVRk1zQVYyZnpSUTdGeWZVZlhYUFlwNkdkbm5pVl8teExVNHpkckxDMXQwWQ?oc=5
+- **Source:** news.lavx.hu
+- **Published:** 2026-10-28T04:05:40+00:00
+
+## Why are Japan and Germany cooperating on nuclear fusion? Nuclear phase-out and reactor restarts: The future aimed for by two industrial powers that have walked different paths｜仲島池哉＠仲池屋 - note
+
+- **URL:** https://news.google.com/rss/articles/CBMiXEFVX3lxTE1zNWpid0plbTYwM0MydXZha2QxZnpXVWtma25ZalBCdElWOVB3dkJNN0lKVUZnX1FTRmtLLUlHcXk4LWVLTnBFT1Y5d09aQWZIRVNqV0dIXzE3bWUt?oc=5
+- **Source:** note
+- **Published:** 2026-10-28T03:00:00+00:00
+
+## Trump Media & Technology Group | Truth Social, DJT, History, & TAE - Britannica
+
+- **URL:** https://news.google.com/rss/articles/CBMic0FVX3lxTE5lT2dhSXRTdXhSaGh2djRnVUFnTUdVRlZzRzdxdXdjTElyMF9ZeWJUUG1kbWJIYUlpWkhJVTdoREJsWU9TaEdibjNIdE4wdjFwQTk4bmZaU2lNRm4tM1Z1M0trcFdhZ2kyM1ZDYWZwQmphRDg?oc=5
+- **Source:** Britannica
+- **Published:** 2026-10-28T02:27:11+00:00
+
+## Government of Korea Aligns Private Demand With Seven SEED Projects for SMR and Fusion - DongA Science
+
+- **URL:** https://news.google.com/rss/articles/CBMiVEFVX3lxTE00dzRIMkNjWGJsd2lZcjNBWkRhenNVTUlwTm5uQTg3LUJlQ2h2bHBydjJMcWc1Y2U0Y3dpS043bTJ3dFBlempMSTEzYVY0Skp5NW9sWQ?oc=5
+- **Source:** DongA Science
+- **Published:** 2026-10-28T01:45:00+00:00
 
 ## Clean the Sky - Modular Floating Wind Platforms - Trend Hunter
 
@@ -225,81 +303,3 @@ _Last updated: 2026-10-28T01:00:39.937513+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMipAFBVV95cUxQZURBTGM3YTlDWWdYcWxZVnpTbjlYMGVNRVMxei1hanZHTUZHdHdTSml0aXVaT3ZkSlNOeVpGNXdXd2tfZHUtbml2NE05c1YyNk9iZWVZWUFGbTR2TEhuY2t1MkhraTBMaTMtRkl1UmJaS1g0UUhaWVpFRHZ2WHFZVWpnVjZhVkRPNXNneUpWdUVfS1hUSUllSklhak02N1d2QnFXS9IBrAFBVV95cUxPVFVOLWRtVkttWU4zZVJpVUVodUpMSHZYOTRlMng5bm14LWdrdEZZV0ZnSDFHS0JqQ01YbzgxRG1TeFhPV25Yb1IwRGtTLXZBOTU2VXprWkZOVTZ1NHdKN0RjSlVpY01aUHdENVB1RllkRFkyWExvSkVxNGFzWVNNM2FBTDJJV3V2WkZUelM1bXZHR1RvamNpenpPeFVyRkxoYlYtekduTlUwWF9z?oc=5
 - **Source:** NDTV Profit
 - **Published:** 2026-10-26T12:36:28+00:00
-
-## New Multi-Material Metal 3D Printing Infrastructure Could Revolutionise Component Production - Akron Beacon Journal
-
-- **URL:** https://news.google.com/rss/articles/CBMi5AFBVV95cUxNYlB1VThHSDhMX1ppY04tVnFPRGNPQk5CN1hOXy1ZQldfb0ozUU9fQWpFWldGZTAzZ2dYd2UtLUg5X1JHY01jV1ZKa1k4ZXo3YkFNMWpKSGxOYkJiZVdIOWJXRlVPeVk1WGw4LXZxTVBBVW92aTcyOWxyNmlSVG16N1ZuRHV1ZVlUV3VEdE5wYzBrVUZBY1NvMGhjc0N0ZFd0dTI2N3pyNlE4TzY4eDE4MldPUlNTWkNId1ljdXhNbFUtclBnWnZRMHlOSk9STXh5VGMxOHpmOXhXdUdCU1BzR1JFU2s?oc=5
-- **Source:** Akron Beacon Journal
-- **Published:** 2026-10-26T11:26:30+00:00
-
-## Tesla Stock Rises in Premarket as Barclays Upgrades Rating and Lifts Price Target by 20% - TipRanks
-
-- **URL:** https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQjU0TTZJdUM0NjhPS3AyU2RvZFpteGhhWERfeXBjZUJrNVhPT01xVU4yUFcxMnZrS3lwM0REeVZhUjNxVzA4dlNvX3ZqNFF5eXl4cWhFQUw1OGg1WWgzQ1JKMUNOdXIzMG9HcTZiZEZzWEZGLUE1OVo4bzVwSW93UHBQNXpxNkktaVlqWVVjck9LRlR2bk9SSkVueTROaXFXZkMwSm5uM1VfY090alZXVl9jN01YcUpZQTVWa0lUUVZYUQ?oc=5
-- **Source:** TipRanks
-- **Published:** 2026-10-26T10:59:04+00:00
-
-## The U.S. invests in semiconductor research and development - TahawulTech.com
-
-- **URL:** https://news.google.com/rss/articles/CBMimwFBVV95cUxQdnI0Mmt1bDN4Tlh0a1lacTJmR2U2MWxlTHpHRjVqeW9QdUFyM25mc3JVUnloWnB6dW91di1IYm1WNVQ2cVc0bm5YTHktT2hrSGVZY24xSW16dnF3Q3NaTk1PenpHTmdHVnlNR3EzeDF1UWZvbHg0QkdmT2lHaFVKVFRhck5XbjNvOWtvV2xWbER4MVZiU0VuaWlhMA?oc=5
-- **Source:** TahawulTech.com
-- **Published:** 2026-10-26T10:50:02+00:00
-
-## Fusion Reactor Market Accelerates With Private Capital Inflows and Utility Power Purchase Agreements | SNS Insider - openPR.com
-
-- **URL:** https://news.google.com/rss/articles/CBMinwFBVV95cUxOaEhpWEs1aDFoaHMwemNzcGN0bUtfY2ZLejdVNXpTV1BTeFZkTHAyM0FYdzA3T29sQVpkUy1mOTRjM1dBRUdONjJxTjlwTDkzclpUYlE1WWg1OHJLNmxvUWwtbEJXbHlxUGlWRDV0VGRuVzBleHd5aG8ydG83dWpLSjE3Sk1aSWhjTUZJRjFtSXlQamR1RjZ1dEkwZmRsUG8?oc=5
-- **Source:** openPR.com
-- **Published:** 2026-10-26T08:55:01+00:00
-
-## Power System State Estimator Market Set to Reach USD 2.97 Billion - openPR.com
-
-- **URL:** https://news.google.com/rss/articles/CBMiowFBVV95cUxNODEtcEtWYlFRcWpTUVdJa3EyX0xVQlhpeEhNc3NjSWJ5WDBnQ3VrTnZhTUIyOFcxZEh2a044dG1GTGN6dlpxRkNRcHlSbnMxNjVyaXVnQXlORkdlaWhUVGNrekFubTF0Z0M2bldIQXNsdXh1d1pJQk8tWG1uUHJBWDRHMFJZMndhdG1IVElIaU9xTkVUUXNmeXFBX1BtQWpWYkNV?oc=5
-- **Source:** openPR.com
-- **Published:** 2026-10-26T08:52:17+00:00
-
-## Nuclear Fuels Market to Be Led by Cameco, Kazatomprom, Orano, Rosatom | SNS Insider - openPR.com
-
-- **URL:** https://news.google.com/rss/articles/CBMimgFBVV95cUxNaFZGOXVXZXFCWWhhUDFSMFhsYThESTROTTVoX1hPYmFFMHk1akNTMWQzY0d3M1d5X1VvOWV4MHFkbnRHLWRvbnN5N2dqSzlfd2NVVTFYdldVUWFCTlp4cFdtLWE1TW5vSU9NaFdRTGZNaE1IaXZ5YWNVOU5ZWFpoWXItN09oMXEyNnA1UnhNRGk5cU9JaTRjQXhB?oc=5
-- **Source:** openPR.com
-- **Published:** 2026-10-26T08:49:37+00:00
-
-## Electric vehicle tax credits losing their luster for Democrats - Politico
-
-- **URL:** https://news.google.com/rss/articles/CBMisgFBVV95cUxPcm9wSXNJSlJCc0loMFptMWszZm52Nk56N0Y3Z2RqVHE4azN3NDR0ZVVKV0lfX3pRU3V0S1I1bWpnYVlUYjJKWmhxUHA5RHFnYUJCRFdNT2tjVlVMcUtnUWdOQVJ0T284WHhjOGlCRzFCQkZTT2k3dkkzLVpieVZnWlJ0LVhleG01RjYybnJjb2kwNFBtOU5ZR0ZoeVNlTVZRWXJYQzcxeXJQLUpGc0dScDNB?oc=5
-- **Source:** Politico
-- **Published:** 2026-10-26T08:45:00+00:00
-
-## Fujikura invested in fusion venture: 13 analysts cover Fujikura stock - ad-hoc-news.de
-
-- **URL:** https://news.google.com/rss/articles/CBMiywFBVV95cUxONUdRRGFoRDBiRjNraG1xaW9oVnUyMERFdXRHaW9EQmhaYnhPUG9ja2xuZzFoMXlyX29DeEtmajVkTXRYNzFiRGF2ckxRUHhlcXJQZHNnYzVWZDhSQjhKRHpOUUhER19rcjdXZzd6cGJxSW0wZW0wYnBZUVNXU01tdDVJbEluYjB4MGVpYjFKT1kyVXBkdnJmWlp6MlVoVjVxcmItUl9OUTZxcDQ4MHB6dVV3Y3NkRWoyYjhPcXRUVkNYSll2T2UzTVhRaw?oc=5
-- **Source:** ad-hoc-news.de
-- **Published:** 2026-10-26T08:31:39+00:00
-
-## Seven caveats in the claim about turning mercury into gold with nuclear fusion - The Hindu
-
-- **URL:** https://news.google.com/rss/articles/CBMi1wFBVV95cUxQdkZaM3ZiR09uT1V4RnhSM0g3U3RqVTZicHRKenB3bE94bGpqYmZLclN5bTYzalNvNWxrRkNUY3hkb3h5Uk1rcTlxcmFhNEFYdVI4OGloTmpFUDRqTlFWNFp4YnNXQkNkcW0ydTVySEJINUxXby1sNXEwTFhXZ2t2QTlHNGdsYkk1cXVNRXZ1NFM1NlJhNW9DZElkX0lqdS00dkVGNWdqRThpekF3bDlxTmwxU3UxenRndk00MzFuZFpfWjdRdEdzQ3dJM1FiZl96V0IxVXhtTdIB3gFBVV95cUxNUWhQeHI4SGlQeDJ6MU1SLU5vOGNKNWZRTTgyQzE0MUR1c0xZY3llcHZUOGNfeXBRbS1QLTNBMVduSTlrSU1YZUVVZ0xibGdkQUxQdndoQVpFRnJQX2VlbXA1Q3RNSGY4ZVFzRnpaNVRtZ1pnbEFMWU5HeUxQSHF2MFJFemc2a2F0UUdzenFwTXhxanVhRnVKWmhDTHdIbElNWThZWV9Mb09DbW9MRm1XaGFNd1N6a2hQanNyZE83YkUyN2hUQkd4bGpSVGJlMEpLS3FGMFdZbzFHRU80Rmc?oc=5
-- **Source:** The Hindu
-- **Published:** 2026-10-26T08:15:30+00:00
-
-## Well, What Do You Know, There Is Hope for Humanity After All - Gatestone Institute
-
-- **URL:** https://news.google.com/rss/articles/CBMiakFVX3lxTE9XRnpaWVBTQ2d2eWVzYUVqbmROOVdsb3NzdVgtUU1HQ001Z1dzWjc5NGVaTnc3eVdaTkdlVzd1cEpHbVI5SWJONnVnM2dUWFJEQ3QwWkpUNHhCUU5Lb0JPRDdQa3I5MUE5X1E?oc=5
-- **Source:** Gatestone Institute
-- **Published:** 2026-10-26T08:00:00+00:00
-
-## Marathon Fusion on turning mercury into gold and scaling medical isotopes - Dealroom
-
-- **URL:** https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQzU5UHFRRmVSX29IZXZVdXBYMDBHTll1dng0ZHNuVTJUUkZ0cm03RnRocC1Nd0NqRF9kbl9xV19KaW00ci1zYjYwaGpOWXZ1bDZiR1R3UDZ2TlBvamQ1OGJBd3UyS2NDc1hjWXJGYmlkNHNmQkYtc1hMOUZkaE9pTXZSeUpOeU9yVG5teFJ0SFFIUWJWN3dqSGxseFdkYUllUjYxaDBOZmE2Qlk?oc=5
-- **Source:** Dealroom
-- **Published:** 2026-10-26T07:29:31+00:00
-
-## Startup Claims It Turned Mercury Into Gold - instoremag.com
-
-- **URL:** https://news.google.com/rss/articles/CBMidEFVX3lxTE9DZWtyQkZ2dnBjbnlqWnJDOHlibF9JaWR3YllXS1NlVWctZG9vVllHc2M3eGt2enloZUFKTHREM2xYdEJDVTdiTndjZ2pCUzdyX2xXNUd2ZGxYT3ZBR2g0bnVvcUlTTXlCX29sM2MwelJCaHFj?oc=5
-- **Source:** instoremag.com
-- **Published:** 2026-10-26T05:48:45+00:00
-
-## The United States adds helium to its list of critical materials for energy - energynews.pro
-
-- **URL:** https://news.google.com/rss/articles/CBMiogFBVV95cUxQZ2JnbzlDTGhnLTlJTEJUWnVjUHN4cTBpSTM5WHJkd2V6Sktqa3NsRkhsRDdEMXdtSE9UR2g1M0pWaTdsRk01bjBEa05MdkQ1alNWWms5dk5jY3FhSFZtMVliMjU3S2lQTThacTdHRC0tQ2RyQ3NKel9mOXdCQWZqM2d4cnQ1RFlCQnU4Mno3dVptNWtKb1pOSkE3MlpZQzlOZFE?oc=5
-- **Source:** energynews.pro
-- **Published:** 2026-10-26T05:32:58+00:00

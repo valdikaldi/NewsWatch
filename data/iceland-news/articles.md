@@ -1,8 +1,68 @@
 # NewsWatch — Iceland News
 
-_Last updated: 2026-10-28T01:00:37.640399+00:00 · 50 articles_
+_Last updated: 2026-10-28T10:23:35.753583+00:00 · 50 articles_
 
 ---
+
+## 19 Photos Of Iceland’s Most Unforgiving Coastline By Vilhelm Gunnarsson - Bored Panda
+
+- **URL:** https://news.google.com/rss/articles/CBMiowFBVV95cUxOUFBCWnlyNGV2RkgyODZ3Nk1IcFcyN19ReGlkQUtDYmNMMUY1M3M0cmw5RTlXYndqcC1mYVhMajFudWRaRmdqakVDQzZDeWpGbDE3ZVViRVpvcFg2clJkVkw2ME13eW9ZQjZOVE5yRHdmdFdpS1BCcmJGQ3U0SjBjOU9iZW1nbk5PRVhTdVZyV3ZycFJuTDAteUxic2lHYnNlTXZJ?oc=5
+- **Source:** Bored Panda
+- **Published:** 2026-10-28T10:17:43+00:00
+
+## Government Clears Tighter Residence Permit Bill - Iceland Review
+
+- **URL:** https://news.google.com/rss/articles/CBMikgFBVV95cUxOdVNCV241Zmc1ak10Yld6TWI0d3R0SlAzQWVnajRPNVF2NHJyQ2JTck1Mc2hhZmE2M0lNRFpQaUFRVldZdDVfSmJ3SVM2eFhCM1NhM3VmWUtIWnA3NF9scTNOdzBtN0NuVFRmR09jMWUzWkVCOExjOGRqS1ZCcHVub09IaUI0aFM4ek1ZNUo0MVM0QQ?oc=5
+- **Source:** Iceland Review
+- **Published:** 2026-10-28T10:00:15+00:00
+
+## Everton plotting January move for red-hot Iceland striker as David Moyes eyes crucial addition - TEAMtalk
+
+- **URL:** https://news.google.com/rss/articles/CBMiqwFBVV95cUxOS1JMZE85MkE0RmZ4Ykd4U1BRVXpfOWZ0VTlXWmppVzY0bUNySGNabjNKMWdkUmQ5b09pV1FYQkdxMXRPUk5fVTV6Q3U2d3RySzhTQ2s1VEgyWkdJLWFtMFRqazZqaF9PVFVyTUpxMXpINnBqaXJrZEg3cTd1cWItaVJFZkZLdWFRMGZhbTVMQU5heEQyX0JOVkM4MVEtY1RFU3I3Skgxcmtnakk?oc=5
+- **Source:** TEAMtalk
+- **Published:** 2026-10-28T09:53:23+00:00
+
+## Weak mag. 2.1 earthquake - Iceland: 8.6 km ENE of Krýsuvík on Wednesday, Oct 28, 2026, at 09:13 am (Reykjavik time) - Volcano Discovery
+
+- **URL:** https://news.google.com/rss/articles/CBMivAFBVV95cUxPSVlfcXlUYVcyVGJhWXR2dl85YzdoMlhrNVhwS3ZFYW9iWWkwbXBEc194d0hiRVR0a05UNmlVZG1NQlBKYUNXTTZLME1PYjgxUkMxT0t5aUU4MkxFdERRdkVmaW9RdVZ1N0V0bFJXcWZsSndyajN0R0d1aHhZX3FHRk0wT19rQ2ZIbEFhc1RDUG5aXzRibTJBbGlKVjdBeDVMQlVfdEtiWHNzdGJIa3dyOHJPVmdVWjdlNmh1WA?oc=5
+- **Source:** Volcano Discovery
+- **Published:** 2026-10-28T09:17:00+00:00
+
+## IHG signs 90-key Holiday Inn Express Reykjavik – Valhöll - Travel Trends Today
+
+- **URL:** https://news.google.com/rss/articles/CBMikAFBVV95cUxNbnN2OUtJbmROZV93NkNDdUdUYjhpN3A0Y2VrYlRMNDhsTWRKdGhpNUp1QVVXUGhGbWt6XzlITGk2ZjdTQlJvRVJEVGw5eHdSazNIVmo5Y0wwTVM4M0poTzRXRi1SRlYxa0hoU1hyVURzNDRRRVA5cTQ3ZEc1ZzVMXzlpajM0T2x5NGJ2NEx2ZU4?oc=5
+- **Source:** Travel Trends Today
+- **Published:** 2026-10-28T09:07:04+00:00
+
+## Icelandair and Air China Sign Codeshare Agreement - Iceland Review
+
+- **URL:** https://news.google.com/rss/articles/CBMiiAFBVV95cUxOeDRnbDl6elIwTjdnbDB4cVJFYVJPSGZ6dTZjeWZZSlRHVVBKeG1rS0lzUDE4OTRQcGxOWVlnY0QwbEtkNlM1V1lPOEpvb1hEOU5pT2NFbzQ5dVlWaWVWNGM1SDk4SmN1dm9VcjRvYjc1T2d1TktOOS1xb2dKLURBNmstRnVBWEtD?oc=5
+- **Source:** Iceland Review
+- **Published:** 2026-10-28T07:00:00+00:00
+
+## Iceland boss: Budget must show Labour is listening to business, not just managing decline - City AM
+
+- **URL:** https://news.google.com/rss/articles/CBMisAFBVV95cUxPa2dkb0dDQU82em9qMk9lTXJPbXNuQ2lvU0tpT0hQaE9ja05scGpOSUpwVG1LNi1Kazhkem14RndiMUxNLURpT0MtbVhJckZXUEJxTFhpbU95WVh4cC03cW1ZOEh2WUVBa3R3NkpleDJJRHp5YW11Z0JWeTZpcDFuMGFKMkpVQUtXVXJJbHVDR2FtRENSRmVJQkY4M1JBTFlPc2ltWEJuLXYzNUxQTFpQaA?oc=5
+- **Source:** City AM
+- **Published:** 2026-10-28T05:16:00+00:00
+
+## Best Ice Cave Tour Operators in Iceland - Guide to Iceland
+
+- **URL:** https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVVo3VmwzYVhQRE95N1VWR050aVA3OTZ0d2dqSndfeElMUUp2U1d5ODB3TUNOTDRhdzJ4anFmTDZBUk43Y19UUDdMZGZJUTkyT01fTHhkb0VfOFRKQWpoYkQzdUFwSy1FVUVDazFxYnZkLXVxYUZzQUV6UUllanB1WHdPaEUyXzRk?oc=5
+- **Source:** Guide to Iceland
+- **Published:** 2026-10-28T03:33:33+00:00
+
+## Where was The Odyssey filmed? (with maps) - The Worldwide Guide To Movie Locations
+
+- **URL:** https://news.google.com/rss/articles/CBMiXEFVX3lxTFBwdkNrYUs1R0h4X1ozWmt0NkNOcnl5RVRNXzNIcWZ1YmNyaGNvWHNKYVRyZlJQWV9haWV0cC12S2x1TU1QUWllbUEzLWg3cEhpc2p3VTliVFZoSHpn?oc=5
+- **Source:** The Worldwide Guide To Movie Locations
+- **Published:** 2026-10-28T03:16:55+00:00
+
+## Energy drinks, not coffee, linked to autumn blues in Icelandic study - Bioengineer.org
+
+- **URL:** https://news.google.com/rss/articles/CBMilgFBVV95cUxPbnpSY0xlVzBBMExteXBxbi1rWXQyRG0tMjRqSXFoLTk3Nmg1QnBrOWdrY0k4am56OUxyREs5NXEydk5lT05fd19ER3Q4M2M0bEkxMkZkMjBPNS1OTTJLeG5Bcld2ZERSamJPWEt0RGVlckRiMGxmVmktUzEtTTlXN1ZQVm92eXJySGlSWlNNOW5jdHlvS1E?oc=5
+- **Source:** Bioengineer.org
+- **Published:** 2026-10-28T01:53:11+00:00
 
 ## Air China launches Beijing–Keflavík service via Copenhagen - Aviation24.be
 
@@ -243,63 +303,3 @@ _Last updated: 2026-10-28T01:00:37.640399+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMimwFBVV95cUxPbG03aTM2b1R3X1FSdlJxMTZMbi1NQ3paWTJ5WHBsNWFsWHBjTXhtUmw3bTlnNjU4Y1FlMGh1OTBYMkRQR3ZSbUZabnhxWEx5LUNWQVl6N3lPQUhJR2d1Q2lmSFhHbDhxZUxPeGN3NlNVeTFaaHUwSlJEVG9iSGExY21ZVDYzZk41TzBJOUtRcVhuNDZoNGhSbkdfTQ?oc=5
 - **Source:** Arctic Today
 - **Published:** 2026-10-26T16:46:28+00:00
-
-## NGOs call on Nordic Council to adopt AMOC resolution and make good on polar fuels promise - American Journal of Transportation
-
-- **URL:** https://news.google.com/rss/articles/CBMitgFBVV95cUxQa2ZSLWFNU3VVLXFyVXJDWGZJTGk5MXFmVHRKRGVFcmpRNE1JRGMyaFFUbUVOX0RNbGZQUFdrbFBhUDFkUnZSbi04WUNjbVQ2ck1ZdkxodE8tUnBjVUFVWjBKekcwaTZ5WkxyZ3g0S2xjazFaNjJSc1NHVm1wSDZUX1piR0x5NWNDLUNjVEdpV0pBaHFBTUI5elhTeXlzUU5WeDFPMXVIazdNUGhqODhVVkpPQW9aZw?oc=5
-- **Source:** American Journal of Transportation
-- **Published:** 2026-10-26T15:54:00+00:00
-
-## Syntholene says independent review backs up cheaper eSAF production claims - FlightGlobal
-
-- **URL:** https://news.google.com/rss/articles/CBMivgFBVV95cUxQcWJXbGR1UzhUTnAzb0RMdXhEN2xvZWV5MnJ4cmxCWWVwOVliR3VNWEFMQnhSR2REUDBVVDRPdFlwbjNobUlNYnlTbTE3VnFjS0FFNG8tZmtjMmtNY2YtazlBdF9FRmJyd09vX1ZqSHZKU0hobUhIZkFQSU9UcHdUM2d5WHRXXzVqRDFvenRlUEhqYXgxbEdaX2w3WTRLeVVRSVhhSGt0cjBGOXFOcXZueERHbmZtZGl0cGZzODJR?oc=5
-- **Source:** FlightGlobal
-- **Published:** 2026-10-26T15:45:48+00:00
-
-## Discover when we will be driving in Iceland in ETS 2. - virus.hr
-
-- **URL:** https://news.google.com/rss/articles/CBMirwFBVV95cUxPdEZocGk2UW45ekh3N0lISWZiVDVJMWlIUE9fVTl3cmJ3ME5INFM5TkloaVcxRndKVzBpaHF3LWpqZTM1cDBjNktDd1B5bXZKX3JuUG1oNXlxcFFtT2hpcC0tYUQ5YXR0VWdsUUNrZFVkWktaSFEwNm1ETTdWYkNrb2FSZUwxV25MY2dteURoM2wwT3hwMDVOZmZIOGtJTE9kVG5odFd4cmFGbEpITUlV?oc=5
-- **Source:** virus.hr
-- **Published:** 2026-10-26T15:05:00+00:00
-
-## Police Warn Commissioned Violence Has Links to Iceland - Iceland Review
-
-- **URL:** https://news.google.com/rss/articles/CBMiiwFBVV95cUxOalZyNWpBX3ZYRmhBMHZJZWxMWWpyRkNZUllIdUZVekZMQ1d4cWd2LTZvZ3lsSnhZdWhEanBOSGVmYUdNX2hFTWh5TW95TTlESnRYektHQ2c0WDJWOTIzY2ZTNFFleDFXbEdFYlJkYjV1Z0ZjUTl3d1pzYllrcWdneHNOeG9RQlhKdVdJ?oc=5
-- **Source:** Iceland Review
-- **Published:** 2026-10-26T14:00:30+00:00
-
-## Ring of Bjólfur - Dezeen
-
-- **URL:** https://news.google.com/rss/articles/CBMie0FVX3lxTFAxNVd0clotTklmVG9mMG02ckF4d0o0aHVLeDhLbGZJYk44aHJrRFF3Y0lvSDFLWi05ZC1XUms3LUktNnUzM3dtQ0ZvLXlJSlJVQ3NkQ2Q2VDB3ZG5DVUtHQjVmcHg4WVNWTlpycXhSMlJ4RzBPd0FzTjVoNA?oc=5
-- **Source:** Dezeen
-- **Published:** 2026-10-26T13:55:27+00:00
-
-## Watch Queens Of The Stone Age give 'Phantom Limb' and 'Insignificant Other' their live debut and perform 'Tangled Up In Plaid' for first time in eight years in Iceland - NME
-
-- **URL:** https://news.google.com/rss/articles/CBMipwJBVV95cUxPMG9WUTdJdVoza0tpWjU4Z2MzZkpJUW5YbjZMcnVQMlRWVjhjYzZrbjlENXFWSk1ONDZOWmItdk0tYTlveUY5OFdBX1d4VFQ0RVB0TS1IenlJaUpWelh0ZXJBdnFqYU9taUR5cmM2WFlvZ1RCMFFDXzFVZXljOEdkQVdFWGJuRG1rdXl4NHJkV1VNczhvdlkxWFBrcmQwRHpVS3hNR0ZJWmpHVEpUX0U2ZzhoR1JKYm9WektMdlNaVFpYY2pMUG5vQ0NxQWJPZGJRWktoTFZ3MWN5cHdWTmdFLUNOOE5PeUNtenpzNGU3YTNXdmFuS0xuWE9iSGxSZjYzQncwTmhWckpla0xWeF9hblNhTVp6bWZuMFRhVjhJZmJwT0pkUWd3?oc=5
-- **Source:** NME
-- **Published:** 2026-10-26T13:54:27+00:00
-
-## From archer to illustrator: Antonella Ballarin’s new chapter in the sport - World Archery
-
-- **URL:** https://news.google.com/rss/articles/CBMioAFBVV95cUxPZm1md3ItaFFwZlBJejhwRUt5cTdMLVh4dG5BU3lhVXVmOXh0N2VKZjk2Tk1Zc3pIYXF0cDRtb0RHYUlCTnE1MGxmOHVzbWZVRWJBZk40Vzd2VTcxaDlRSVBnSEZPN0t1UW1vYU5iQU1GbzV4djM4Z1ZMU0FkNGV1TjVnTkZWYm1kUUVYN095dkE4ZGljS2FobnVjb2V2bVdz?oc=5
-- **Source:** World Archery
-- **Published:** 2026-10-26T13:46:31+00:00
-
-## Laugarás Lagoon Christmas menu marks Iceland spa’s first year - Travelling for Business
-
-- **URL:** https://news.google.com/rss/articles/CBMinwFBVV95cUxNWmtScC1FenZHY2t5YXZweHZNSzk1aWVkY3lhd2xnOUtMeHQtYXE5cWJYbkNWcUx0aTlHSVlhaWxxdXotRXAzNjFMYjJ5cEtSSjVrcDM0OU9IdmJVLUVYSm5qMVRHd0czaUhKdzJ0bXg3bUNiNzQtYWpGX3N1T29Nc3RSSC12YWJHNnBQRXNZeGNsdTNpLTBZYlJPVDN1clE?oc=5
-- **Source:** Travelling for Business
-- **Published:** 2026-10-26T13:15:47+00:00
-
-## Delta Air Lines Reveals The Dark Side Of Competition After Abandoning Route Its Rival Airline Was Forced To Cancel - TheTravel
-
-- **URL:** https://news.google.com/rss/articles/CBMisAFBVV95cUxQSUphRUZvZzg4VnlpOVg1TmdBZ2ZLaDRWTjYwR2tISThZV2xiSGZGQmk1cEYycVZOSGZOTHN1LWgwTE1XRWFCRlBNR2FMNkNWX081bDNhU1dSMEFhS2M0Mmdicm5EQ1ZCR1pLcW1icExKcVhDZXNTX0xwXzFvVU1pcVFMdkNfXzNDSTVwelhEZkZuZ0wxUkt2eTVqUWoyaS1fbl9BOEdMbWJGcU1VTUIwLQ?oc=5
-- **Source:** TheTravel
-- **Published:** 2026-10-26T12:28:21+00:00
-
-## Protocol 35 Bill Can Fit Iceland’s Constitution, Scholar Says - Iceland Review
-
-- **URL:** https://news.google.com/rss/articles/CBMimAFBVV95cUxQbllGVmxDLVZHVk9lcjg1V3N6T2lkNkFwN0tBMkp3VmlncDBXZ1RWVUw2T2JpZG5qZmgyelNIYy1BS3JCc3Utc3BoY3JmUV9hQlpaWEdoRlhwTnA4RXpHNTFGa2JxWGZWbG5QSGs2OVJ3RGtUVTdHNjNENGNOaTdpQ1g1c0dBaE5nMG5uRUl6MjhLOTc0WEd3SQ?oc=5
-- **Source:** Iceland Review
-- **Published:** 2026-10-26T12:00:07+00:00
