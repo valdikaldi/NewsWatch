@@ -1,5 +1,215 @@
 [
   {
+    "id": "301643d59e50",
+    "title": "Futures: Growth Rallies, Google, Microsoft Loom; 5 Earnings Movers - Investor's Business Daily",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOOXctSXZneUdSOFNkQzc5bC1BWHgyUmJNS25RYldwUzJpeGwwUjVHTFhGSlZmS2Ytd3oxTEdHbFdrVlRPaG56eGZ1X0FVTmgwYUUwUDlmTlljVEx6V2prWHhyTWdZUXJJWG5oWWtXOUFuckhPZGRZR3p0eWxhRXZFVmhPeFdxVHNMOEJwWThoX2xtZXNwb1pYclVUd0hjVUU2QUNmQWtadndfZnNRNG9Td2FVM0xJeGZHRTFVZkoyQzVDVEFjWGc?oc=5",
+    "source": "Investor's Business Daily",
+    "published": "2026-10-28T00:46:48+00:00"
+  },
+  {
+    "id": "690e77898ab8",
+    "title": "Amazon, Google, Microsoft, Oracle win JWCC contract - TechTarget",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQ21sc092ZWlZTkVMLVM2WUNvOEVWbnBtYTI4YWFkdFdQdWhLS0otMGpSUVdTbnloT0FzdDUtTVFJZndHX24tZkU4dGVCUHo5WE9iYVBFOWNSNzhaYVNFdGtFb0RWMkM4cGV2QVhBbXM4azVTcURWRVlQMVozMkxNNGlWRVpHeW9oYjB3MmZsRHdHQQ?oc=5",
+    "source": "TechTarget",
+    "published": "2026-10-28T00:03:49+00:00"
+  },
+  {
+    "id": "a09cfe44b993",
+    "title": "Earnings from Google and Microsoft and a Fed rate decision: What to Watch - Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdEJUMUtuaUhHLWZkc243Z29ueFYtUFAwV0NHTHN1dERfM25yUXllWmxKTm9ndU5IQzY1bUd0Q01LbDRuWjg5MS1PZ2s0dGlEVTRfaWN5M2R4a3lVQWwtTDdiZzdaVmhNcmpJdkJxUXhDNXZmNzJULUJDRjNWM05qQmQ5NXZ3VHF3?oc=5",
+    "source": "Yahoo Finance",
+    "published": "2026-10-28T00:00:00+00:00"
+  },
+  {
+    "id": "ca398efcb0fc",
+    "title": "SAS, Microsoft a possible pairing after Broadcom talks end - TechTarget",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRk1POWhfSmtFREN0TGt0bFpIY08tZFBTb0NDbUlEd05tMmpacW9lbUxYUnVOTHVOUXhEVUJaTDl5VzFyQUtUa1gwX21sa0RsME9FQXc2dHdENmkwQ1FCbVVXbDNQaFd0dkVUX3RjdnN4WmpJNmVyODV0bTM4VGRTNUdCNUlyV1VOVGxocjZTU3ctRDdyT25nYjBqWXZ1QQ?oc=5",
+    "source": "TechTarget",
+    "published": "2026-10-27T23:32:18+00:00"
+  },
+  {
+    "id": "26aa7c28e9f1",
+    "title": "SAS, Microsoft make Viya available on Azure Marketplace - TechTarget",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZmo2ekhUWks2U0tZel9yVFhoQ1lWcEVfZVoxdFozQVJmejdXMHVzeGV4dXhSaUZlVjNPT3d1WlA4R3FfUHlJV0hCeWFVNjgxUUhxc2hzSXRrQ1JjZmlMRWdXM2J2b3lnU0lEdk83UWdNTHdubEI4dDJWUzNDMDZ3cFhPZ05CZ1FacjVjVXBoU2hCR1NabFRZMzBn?oc=5",
+    "source": "TechTarget",
+    "published": "2026-10-27T23:27:17+00:00"
+  },
+  {
+    "id": "e79d8b31dd54",
+    "title": "Microsoft boosts Fabric to make it a foundation for AI - TechTarget",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMnYzZzYxZi12LVJOTmhmNmlDcEVOQjFKU1U3T0NaWEMzYmVPdGdLMFotTDd4eHBudGlvQ0N1ZFk0cE05U2NDMVZYQTRNY193SXcwd21RaGpyYjgycUdBRVBhVjQ0bFllcjlDQUFjRFBRTlJlc1dGdmpnTkJESFVMejFzXy1kYXZSTG1nWDNaM1ZCekFyaGZLS29B?oc=5",
+    "source": "TechTarget",
+    "published": "2026-10-27T23:27:11+00:00"
+  },
+  {
+    "id": "9f6245cc473f",
+    "title": "Comparing Microsoft Teams Rooms Basic vs. Pro licenses - TechTarget",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQam1reXhUMHdadHQ2XzhlV2tjb0lHWkpDMl91Q2c2aUFNaVpHMXR5YktkVXNtckVkclBHMF9ZTkM5RmlUdEFQbmowWEFNcHlTZ2ZRaDZCdWFfekdOZUJBbkN5a2FiVktmMHFacFpmazBVTEJ0d3dHZjlKcWhxbnNKM1Z6UWQzcHg4SGIwWVlaWlRDVGdld29sLQ?oc=5",
+    "source": "TechTarget",
+    "published": "2026-10-27T23:26:15+00:00"
+  },
+  {
+    "id": "84efb8f5a154",
+    "title": "SSOJet Releases mock-idp, an Open-Source Tool That Simulates Okta, Microsoft Entra ID & Seven Other Identity Providers - Knoxville News Sentinel",
+    "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNSzNSVHkzdWpQVEpfV0cySVJudnZaY2NaQlV1RlpWSWVXV0JnQmZGdm16NldxT1FMWE1wUGU0M3R4MkVtRV9fSFBIdnVRY210eHk3U0RhR1RNeXdmRlFpMVVQZWxZVEg4ZUR3UmZ3LWQ2NlQwdThIMGphdWR0cTNPUi1RMG9sMkNuQnlmbVRRSG14R2tXeWwtU3hmbE1WQ1BNMDdkeEJab01aRVl2VWplVzhnOXBvUzl5UnVwbWtiTm9nT1VvR2RCQ1dSVVFpVURyNUZvSkFvVUlRaXJXUXlpQi01NlJQMXVieFYzdEk1OXNCcWwtZ05xRUdZcw?oc=5",
+    "source": "Knoxville News Sentinel",
+    "published": "2026-10-27T23:25:50+00:00"
+  },
+  {
+    "id": "98a2609fd9ec",
+    "title": "Invite agentic coauthors to collaborate with you directly in canvas studio! - Microsoft",
+    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOTnEyMkxHMUxMWnBUbkpWbnFlNGVySGdSSzhvSW1uYk9kR0ZvYzRHTHhzLUFCZWU1VUgwRG5nWFlsalZFRFhCYlFiMlZBSWhvaWVldERhRmJpcFUxMTVBakZiWW5RMjNWSGNHd2l1M2ZKMnBLekhnRXliZE9wZFEzUHVmbUtGUFE1X1NlMzR6TXcyemJzYTZTcm5mUXlkdW42R18zNWVYNDFydVR3b3FFR1pLODJWWTNHS05ZNy05VmdEaHdHWmdyVWEzMDZxN1pueXJUMw?oc=5",
+    "source": "Microsoft",
+    "published": "2026-10-27T23:18:13+00:00"
+  },
+  {
+    "id": "163160ee5aad",
+    "title": "Watch out — that Microsoft Teams chat might be hackers impersonating your IT support - TechRadar",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOb20wazhPb01ONS1ySTlnTDJrd1BlSGVzNlJXclVnYmhRQXNsSmkxandOa21RS2VEMjhGUHhJTkZXeHg1Mmt5a0NYTHRycmRpT3BoVU1xdWJxVkVPZ3BpOWJ4Yl8tcXJGWnltWEVFbFRhb3dZaVJHNG9WMmVRdjBEQlRSMkVYV2IzM2JJdldsR2VQT2p2b01MRUlMb1prU0hmd1JJZkl0TmE5Slp5SS1Xc1Q3TUJTbXM4RmRVZzdB?oc=5",
+    "source": "TechRadar",
+    "published": "2026-10-27T23:05:00+00:00"
+  },
+  {
+    "id": "d69a7fa53cb2",
+    "title": "Microsoft Shows PostgreSQL Development Inside VS Code - Visual Studio Magazine",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdjdTVUFpaDhsWldCb1A3ZXJ4UkFuVXUxVVMyN3RHaDA5eXM3V2RZZUJuRVVvZEREOE5paUJLVTRENm9CSGxKY2J2Zi1rV3paNTRKVnNkYnhESngwdHZsZmlDOThoZkh5LVIzb1QxakpMVndHUFBZdEwzTjJjU2pmMkxPa01QV0RtMjNXd2FodGFLanA0ek1QMWp6cUU0QXB4VC1LTXFVWUVlUXZTck5LSg?oc=5",
+    "source": "Visual Studio Magazine",
+    "published": "2026-10-27T23:02:54+00:00"
+  },
+  {
+    "id": "33a566a4b8e7",
+    "title": "Your projects need a plan — Microsoft Project 2024 is on sale for just $49.97 - Mashable",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQVHhVeG01Q0lfaU5JVVYydlN0dUF1VDhlZlp2VEdlZUc2cnlWWlRORHJQd1U0ay10ZWV4endPeFVGdmNra3hxY3dEMTdNUEI1Z3ZGSVJuTUhrQzhrMm5DX1ViNXFudDdjZVd5NndDNFN4WDFYSlhLd0FYZTVfOFJKTDhYcDFmQXFmdDhUdVFBN3AxNFhOLXE3QUlSSlc2Zw?oc=5",
+    "source": "Mashable",
+    "published": "2026-10-27T22:19:45+00:00"
+  },
+  {
+    "id": "76d8f30dfe25",
+    "title": "Microsoft offers “voluntary” layoffs to 60,000 as bosses make workers pay for AI gamble - Liberation News",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQVYtcS1NNmRLWFJiYnJES1ZMME1YQWtrSVl2RWxLa1J3cHlLSTBfeC1TTUpvOTRoVGs4YlU5blBJa1d4QVZCMG50Y1I2SlRaMW9ZSU9ab21PX2NoODRJVjQ1UmV2Nm5sVUNsNWJNTmpOc01DNkl0aklGdVd6TzR0Nnltb0ZqV09VSkF1WFg3Nzlhc0hDUl9Yd3hYb2t6bDJwOUczQ0V2Z3NBeS1CbTFrSkJ3?oc=5",
+    "source": "Liberation News",
+    "published": "2026-10-27T22:19:36+00:00"
+  },
+  {
+    "id": "d12ac0e7ba50",
+    "title": "Oracle Database Service for Azure connects Microsoft to OCI - TechTarget",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQWVJjeXV6bWxtUk1MZFgzSlR0R3ItdHRsTzZuLTgzXzA1YUV0V0FNcEY3S2pPeWNtV3JvZnR0WGtIM0lKeFZKZllDN0RwMlNCWi1xYXM3X3RyTDczdVFvenN0VllJT0Q0aTdpZ1pYdjJ0VElyTmJaSWN0MkRWejdrUG9sY0FoZlNLVGRCRHp1UG81WExSNVJoLXBGWVpCRDEz?oc=5",
+    "source": "TechTarget",
+    "published": "2026-10-27T22:17:00+00:00"
+  },
+  {
+    "id": "8fec4a70f134",
+    "title": "Microsoft SQL Server 2022 bridges on-premises to cloud - TechTarget",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWFU3UG44dVkxc3pvQnI5alFRcnBDV25FQmZtdHhjVnJlRy1LbFVxZjBZc1JNMms0YnpCc3ZCZXA3N3FjbTktamRCT0FTZHFHdnVNVWZRbXRqdjZDUzJ1dnFLNUtBUjFGVjBIdEI2TGo5OUhlYnp6VjRhWVdnWEVyOEpuTUZpVWtaNF9ac09hMVZLclg5eWh1a1hB?oc=5",
+    "source": "TechTarget",
+    "published": "2026-10-27T22:16:31+00:00"
+  },
+  {
+    "id": "d621da43ecf0",
+    "title": "‘What do they owe some of these humans’: Gee questions Microsoft’s duty to workers as it offers voluntary exits - MyNorthwest.com",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5wTHpFZk5RMEZGelZTVEdlTXJmM0Z6ak80Wmg1SndITHFBTFdjNUVVQzlSbmhESk9jSUdwNk44TTI1ODF3TXZlOHJCRTRLLWtVZ0pZbjIzb3cyaGNFRHI2ZXZUUWJKRkhQOGE1M3lRRWxBT0tvbGR1bGhkY2I?oc=5",
+    "source": "MyNorthwest.com",
+    "published": "2026-10-27T22:16:28+00:00"
+  },
+  {
+    "id": "9832b67cf555",
+    "title": "Microsoft ignites Apache Cassandra Azure service - TechTarget",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPNW9FeE1aTVJDaTMyS2dnX3E2SUYybnBKc2dpazJibW1BcnlIQU96V1hQeFFKbUFPY1lnU2FNTGZTWTU4bmFiMkFMcDVPXzNKdVdkVFZaZDIyYlhyWWItS0N0eW1Eb1hySHZXYUFCbDNWcWtFYkI3enl6dXRRcWdJbzZCX2owLVVsUHNUdEVGRm50dw?oc=5",
+    "source": "TechTarget",
+    "published": "2026-10-27T22:15:47+00:00"
+  },
+  {
+    "id": "eb25677ba78e",
+    "title": "Microsoft OCP 2026 – Maia 300 Node-3 - ServeTheHome",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOaF90VGVwN2VDdUJhdXhvMjRybGNiaS1sUW5GVkx2T2hPRG13R29BQzRYWm5rNVRsNElYQU8tckRZYndBa19IejNfUTZYYTFPVnFkTllvRTIzdVU2VDZQUVBXczFtS1JtaTBobGJZbVREZnRkOGdtTWhINzRQUGdXSmRUb1JTX3hpZDIxNG4yU1VvUWxJT19fUjJ5NEJoUi1vaGk4?oc=5",
+    "source": "ServeTheHome",
+    "published": "2026-10-27T22:06:28+00:00"
+  },
+  {
+    "id": "88f9617ffa26",
+    "title": "Microsoft Maia 300 Node Overhead Stock Large - ServeTheHome",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQRnZUWUxpQ3ZoM21jRXRnWlY5c3R5aER4Y0R2Y3FubG92ZzN2MkZGSFZUX0l5QlQ2S1RJdmtWMU1yUGN5cWdBV2tieFF3TUVVT01rRko2RGMyc21rR1dKZmFKY1ZxQld1UWNCdU95T3ZCV0EwRHFfMXdMWEFDWS1qT0x3OE5rYlhjZGE3NmlXZl9VdUYtOWdNamZycFROZm5ncHUxQkU1bHB4QUtrMFlyRA?oc=5",
+    "source": "ServeTheHome",
+    "published": "2026-10-27T22:06:28+00:00"
+  },
+  {
+    "id": "28c433818d67",
+    "title": "Microsoft OCP 2026 – Maia 300 Node-6 - ServeTheHome",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSUFvWU9JSERIc3EyUDlYN0NZNVgyb2cyYTFpbVN2NURjTzI0dGlBWjNTRGlNd0RLSUkzUEptUmkzbTd0SkZ5cE0tQkF3YXVpa0xIbWlCSFFxdElwOUxHc3dycG1MU2RtbmRxZ3I2eUdRQ05UWU10bHpiRGNOS2hDeDFNclBmZ0pLZE1pQzlsaUd5ZDF6VVZVdHFzLXByZW5iMmVV?oc=5",
+    "source": "ServeTheHome",
+    "published": "2026-10-27T22:06:27+00:00"
+  },
+  {
+    "id": "740e9c8fc8a1",
+    "title": "Microsoft Maia 300 Node Key Specs Large - ServeTheHome",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPX1pKYXA5RVV0LS1oS0czRDNJekJzUC02RHZhQzgyY2pSOF81SkhuWEQyWk5pdTVVYlVEcGtYRVlNbm1RcVo3V1ZFWlAxN1Rxd3A2LVNIdG1xcjV4MW9RLS02Nk9jbklua29LaElZNHBBeEpBYnY3a05LX1gxZzNFYU1FUWNpbGFBNElpZTJqYTdYRThaRDlpd0dwc0pvV0VIVnBSQ1NCU0lmUQ?oc=5",
+    "source": "ServeTheHome",
+    "published": "2026-10-27T22:06:26+00:00"
+  },
+  {
+    "id": "e88f61643037",
+    "title": "Microsoft OCP 2026 – Maia 300 Node-7 - ServeTheHome",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNS05zd0dENkI5czkwRlNpV2pxdXFkM1VMYTJLM3VoUEJKR2x2WDBDUGNSWjAwUU5GMEw0alUwWTlZM0lDSnFpRzI3eUdoQnBtSmdOSkJrNjBiZ20wSzdJZUVxNHNFOHVaV3NyWDR4THI1R256Y0FtOUhTV3dyM003ZU15OGdfOHdEVFF2QlE5ZGNsUHo1b01LbVh1X1ZmdzJvOEdV?oc=5",
+    "source": "ServeTheHome",
+    "published": "2026-10-27T22:06:26+00:00"
+  },
+  {
+    "id": "0cf447483013",
+    "title": "Microsoft OCP 2026 – Maia 300 Node-1 - ServeTheHome",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUEk0RzExZ0dJZnFmLXp3YXdvdHNobTBQT01HQzRzSjNsT0U3UzA2OXpscWxTQ2JWb0RMOThjUHNwNU02b0h5UXdsZDB6NlY4dFdpVTFRbGRpampaOW0zbk8yZDFaazMzNWx5QjFXRXZ0SVFGZGViNHFXT2VGVkZ2aEJsZGkzZVBIZmxxX1ppMy1aLU1TSU81VUtqbDVQYlI0em1r?oc=5",
+    "source": "ServeTheHome",
+    "published": "2026-10-27T22:06:25+00:00"
+  },
+  {
+    "id": "cce5ec5ed70b",
+    "title": "Microsoft OCP 2026 – Maia 300 Node-9 - ServeTheHome",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSGRGblAwZVdEUHhhVnlGZ05xSTlpZlgzWGpoemtWUXBwWTI4bWN2NnRSOWRnSVZPSDNkRXhvYkw3OHlDVnRNUUlkakMyZEs4Si1JZWFPbmtCaHVWSGNCdXdSbGtHVHdlc1pHMkFnWUJRcTBZWVRHOFdCZ0QxTzVQbnlrN1IyRTlqUzZlMFhNUXpFSUN6bHpab1RYSnNkeWstRWVv?oc=5",
+    "source": "ServeTheHome",
+    "published": "2026-10-27T22:06:24+00:00"
+  },
+  {
+    "id": "41b448c842c3",
+    "title": "Visual Studio Pro is just $28 — how to claim this limited-time deal - Mashable",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5jZ3JJVG1tUUlUaWNXYXR3d3k3ZERKUWM0d0FJSEtqSlJKajdjZVJLeWNUTTZZTFE2eF8tZU92b1ZHMlVEWlVLU3R5d3daTkhYNG9EdVJ3ZHlBSl83aF9XMUlCZXZDNmFTcjhTaTI5NjNEN1U0aDBFZQ?oc=5",
+    "source": "Mashable",
+    "published": "2026-10-27T21:33:37+00:00"
+  },
+  {
+    "id": "f1cbda792708",
+    "title": "Microsoft Maia 300 Shown at OCP 2026 - ServeTheHome",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE82cmtRNWhXUHVIVjRmSXVLUEtPdmVELVlKTjVrazRoSzYwZnNRXzlmWEQyWXNBWmdHNnRhNGlpV0dJa3p0NDAyMDFKZi1YeTdqNFY1MHU0UVY0TWZKU3JpTVZzLWRwWkNGOVhvelN1U3otZ1Vn?oc=5",
+    "source": "ServeTheHome",
+    "published": "2026-10-27T21:28:01+00:00"
+  },
+  {
+    "id": "d49feb714e7a",
+    "title": "Microsoft Test Finds Local Git Remotes Can Skew Agent Evaluations - Visual Studio Magazine",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPS2x2VjZsNzVSOWVwYm9TcmNZMjZxYm9fOGtqekwzeG9IbFlJWXFCaC1MV0ZzU2FlcTRYRmZKd1QtUk9BcXBVQUxWTk10SXhwYVJISzBQS1BHUFBpLWdJckF6QWNOMHRqa1QwdWZuR0w2dzJ6TXVfcHg3V2gzaldKeHM2TlI3bnJPOUdCeU5MR1ZkclNKekN1ZFZEYU1MTEl1cGFucW1JUkM3cVZfM3UtOHA2THNLdDMzaWFDT0I5Q2s?oc=5",
+    "source": "Visual Studio Magazine",
+    "published": "2026-10-27T21:22:52+00:00"
+  },
+  {
+    "id": "db045d85a117",
+    "title": "Microsoft Issues SQL Guidance for Canada Time Zone Changes - Visual Studio Magazine",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOLTFvMENjUEFVZUo0R2p0cHJvR0ZTNW44TFlHcDVaZWdteDFsVkk1WnhBXzFLLXE0UkVUVDJRMzZqOXV1T0IwVGd5NzdOSEpaSlhjR19Wd2d2NGxNekJzeGhyUXdKdFJmZ0xRVnotTGRrOGZmelMwUzJYUnMtcGlMZ00ya0VjSkFaa2lDajRGMEdqRkZvY0dZY2poS09FVzd0a1pKUFVxOG1nRllfYXVwR2ExM29OUjg?oc=5",
+    "source": "Visual Studio Magazine",
+    "published": "2026-10-27T21:22:30+00:00"
+  },
+  {
+    "id": "0d53e2b70a68",
+    "title": "This Microsoft Teams Setting Could Be Making Your Company Vulnerable. Change It Today - Inc.com",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOT0lCWG1QbXpJcS1QeGtaSWZPTTlud1FIVkhYdGoyVHAzTXFVMnA2VDExeGoxZERRMkxheTBYQkFYbjJqczZhN2RzZUtXcTJhYlJiaDhsMTNqcGQxTHN4ZVpXcHROOEx2V3h2ZzRwQ3VMUlhzQTFiQVNPRGUwa2hxMnVTYzdaTkRjM1JPNXFoVVI0SWNIQng0OFpRdkxvWFU0TmdxUUl4WEt5cjJFbXFmaUtTNEVCc18xb0NyeERsQUJPOWlz?oc=5",
+    "source": "Inc.com",
+    "published": "2026-10-27T21:03:57+00:00"
+  },
+  {
+    "id": "cef1bbb17aff",
+    "title": "Understand Microsoft Copilot security concerns - TechTarget",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNemNWSlFZR245Ml9QRXdtNkh5YkJNS0RLMnBCblNrOVdwVHJLNzVnTkMzd1Yzdl93Uk1sX1VfeEpJM3QtN2NiTlEtcE1GUEoxdmdmWWlCWkNyU2NXYUlqRlpEWW44S3lIcG0xSXBsMlhkUUE5U3VubWxsTV9GcTN0aUVvY2RqTWZCc0k2UG9Gbw?oc=5",
+    "source": "TechTarget",
+    "published": "2026-10-27T20:46:15+00:00"
+  },
+  {
     "id": "8a9ace389dc0",
     "title": "Here are all the new features Microsoft added to Excel in October 2026 - Neowin",
     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZWdfQVJ0NzdfMGJFRHRWalZUa05sTHhXTkhZeDlGTXdOQ011bHdxbVktYklVTDY5Y3M4UUtwckJfQk4yMkpmMVdmRnFaeDhONUMwSlhmbHJnbHJvajVJMnBPbXNVcFY2Z05HS1pqRnFoYnRkai1hdHByUEwwTkVPaEZSYm4xUHdocGZ6eEw4NnBJeUstOWNVQTJaUGtXTVdC?oc=5",
@@ -138,215 +348,5 @@
     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNYW5WRGhLc3JXTkQ5YWNpUjQzUDZNQ0FPMWFUYW5fMkhER1dSLVhQWEVwN0tPMEVBVllYaDZzd0l5Y2JDTTRSN3h5bWVZYU1sVEd5RWpDblg5RUlyQWQtSW1IMnNJTXZVTnB3NXpFZHNoVXJMbEFRSUZhUzJSb3dTdzhyTnBqdTlWS0MwNl94QnpBaWtBdC05VFZhUjRsTFZReHRjREJNaw?oc=5",
     "source": "Yahoo Finance",
     "published": "2026-10-27T18:11:19+00:00"
-  },
-  {
-    "id": "ac5c4e6dc68e",
-    "title": "Microsoft’s AI spending boom comes with a workforce shake-up - ChannelE2E",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPX0VlUWdzWVRCQ0M0Zk4tTWkydDNZV1BRWFAxaWVWQVhzZzROMFp2QTdfY3lFdm02eF9ZZ1RUNndYNjZYNjJPYzA0WmxmTkNYVHJCbHdBemc2enlXSmZxSHlvaDdDSWFleHJ4QWNGSEVxSlF5VVlKblRTZXBQX0NtNmhTeXFjNHdqTDFQdlc2ZzhSbjFiWDlMT3RtZEl1ZVZSVkgxTlBUdFkzb2lNellCX1FjaWc?oc=5",
-    "source": "ChannelE2E",
-    "published": "2026-10-27T18:10:35+00:00"
-  },
-  {
-    "id": "9cf51679f639",
-    "title": "Microsoft, Google, Ford and more set to report earnings Wednesday - Investing.com",
-    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOampGMXNmeEhQT2lqSmpWOXRhUjZ1ZEh6MmtJRm5KRHYyZ1JBT0dwS283bFotTDdWY3VyWlljcTJwR1IxTldRZVpteC03UzhtRWFSZVBFWWFPdjlwY0pHeHZEWGtyOHlNZFNjS2dZd3h0cXRSWWM4ZTBPWmdBZXZ5MDVOaXY3WG9vbjROcFU2RGlMaHU2dDlpakY5NklTeDEyMjlLNEZEUHFuUzMxbTFDNms2WEQyLXlQM2dBSDRha2tPbTg?oc=5",
-    "source": "Investing.com",
-    "published": "2026-10-27T18:08:54+00:00"
-  },
-  {
-    "id": "bb11c0169c46",
-    "title": "Oracle Rises 5% as Google TPUs Come to Oracle Cloud and NVIDIA Deal Expands; Amazon Nudges Higher, Microsoft Treads Water - 24/7 Wall St.",
-    "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQbUZPSkFxbExpR25ZVDBtcGxjVUtKbGVFVW1hUnJXVjFlSnFKa2VNSzVkNllxWkRIVTY2NXlYUGlPS3lRUzQ1aHEtTVl4d2Vha2dSWkluYmwtZVhSY2kyLVJqYURtOERSQUZQSkpFeG1UVldtUXlUT3hiS1lQMEZzSm9BVTRqYmRRc0U4ZnktRnJoU0JuVlg5UVAwS1pGc05IREpxMFY2SGJJWnZRUUhqakRSbVFPN1lZWlVZQncxbXhjV3l0Yzh5cWtxRUJXeGF0blpFNEJEN0VlRW9kVl9CV3g4bXAwTUl5Y1pISlY3bnJ2RVVy?oc=5",
-    "source": "24/7 Wall St.",
-    "published": "2026-10-27T18:02:00+00:00"
-  },
-  {
-    "id": "899ec979c366",
-    "title": "Microsoft offers voluntary buyouts to 60,000 employees - KYMA",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNd2pfV196SkZKd3kwVDJWZnBBRERvcUE0VWxxWUZ3UkhncTN2eE05OXZiTmFBWXlMczVSU1QxdVBhd2NTU3hTbjVpT2hTdmlMYTlWdGc4ZXNPVG00MmVjbnExdlRjNC1wc2FKY0pmTHNqeW5MRzlzTVFmR29TcjhsRERISkpvOTVZYWhrcnJvZVJXZWRaOEF2R0QtN0RoUEc1WlBRMg?oc=5",
-    "source": "KYMA",
-    "published": "2026-10-27T17:58:41+00:00"
-  },
-  {
-    "id": "744822becd88",
-    "title": "Microsoft offers buyouts to 60,000 workers as it pours money into AI - Valley News Live",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZF9GZWd4OGpRZlBkZjl4VE13NHFFa3c3eUZGYVNGRDJpc28zcU0tUlBrRTg5NXNJRVZyWVJ2aHExMENJTkxZYXQySlViR1ZEMUh1UmRIeFN5SnFJekt6eG1fdnZZSkxqeTVCMjE4ekZ4cW1ZSURpNWhka0ZfU19XaU1FUFVuc3kwWWxfb0JyblVaUjViQjB5bkwwOWU2WS1uQS1WQlI1VQ?oc=5",
-    "source": "Valley News Live",
-    "published": "2026-10-27T17:49:00+00:00"
-  },
-  {
-    "id": "d49c74a48666",
-    "title": "Microsoft offering buyouts to thousands of workers - KHOU",
-    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPTFJ0RWRaV2cxUUJTTjBycnBDMzRaalk5VzR1UVlGR3RhZlNBSzlpY1h4VUV1eXBvOWFYY0RJVk9aRktfclJDbEo4OTR4YUx3dEFtaUF0d0YwN25rNU9DR21URW1HYlRQLWt6LTBILW1uOVZUd3lMTmNLUUJsM3VGeEVkMFhIMXJKeXhfQ0JMOWFxVms3X3hrQ2tyVFJYdmYyZ1Z1Rlh0T3ktTWYtdHlxbTlfMG10MnBSRkxENm9CVHJRUzRpU2RQTFdBTnBZcEVtM0E?oc=5",
-    "source": "KHOU",
-    "published": "2026-10-27T17:48:00+00:00"
-  },
-  {
-    "id": "e37e56f1355f",
-    "title": "Microsoft Offers Voluntary Exit Packages to Approximately 60,000 Employees - Yahoo Finance",
-    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNWFReFg1LUUwb3N1S0lrOTM0QXJ5NWhHM25UMmlMRzVnd3BmNk5OLWg5clNNZW1LWVNGemVhZzNabTdoN2J3MGdBMTE5QnAzQU5FUy13Y3hLMVhHWkVuZkVvRE0zdERkQ2t1eWhqT1liczEyUG43OW96azVYdkdVYlRkTHpVRmJWV1NuNDRIZTViMEZEbkFlVEV5cEtaLXlrV2pj?oc=5",
-    "source": "Yahoo Finance",
-    "published": "2026-10-27T17:38:58+00:00"
-  },
-  {
-    "id": "2e7be9cd052e",
-    "title": "Microsoft Offers Voluntary Exit Packages to Approximately 60,000 Employees - Gadget Review",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOd2k4bmk3NkNYbW42SkRSYUtnOTRuQlR3eFJkNnpCX2g0RWpvT1RpMWgwM2RWQnRkRElyUFVaaHBtVnYyU3VPQWFoWW5qa2I3S3hDWHYtbXhWSFdZZVZpdUhiU0p6VnBJdFFIZl9NZVl5akFGWl81WUQzaE1wUmM3b1BzZ2VkR1dEOG8xSHlzYUwwOWxmUEYzYmVCSmU5T0dUUnpDeQ?oc=5",
-    "source": "Gadget Review",
-    "published": "2026-10-27T17:38:58+00:00"
-  },
-  {
-    "id": "0ec30624fd28",
-    "title": "Microsoft voluntary buyouts - Nonstop Local News",
-    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZGU5QjV6bERFbDAxdWp2c1E2VWZ3b0JDZDRseE1zVnZPVjA0TTBURHNZdjQ5WENZYlRSZFptRi1OVDNUVFpURnZ3eUVndFBia2FWZmRBRWZUclhpcVlBRDc3dlEzTnVFYVlwaUxZMUszNndLeFNKbnE1X2JpNUZOZDV5b2g0SXlycUpCS20wSmIzVW1rN0ppU3FDMm41M3F6S1BXRDJn?oc=5",
-    "source": "Nonstop Local News",
-    "published": "2026-10-27T17:34:19+00:00"
-  },
-  {
-    "id": "38810b709e5d",
-    "title": "Microsoft offers buyouts to 60,000 workers as AI spending grows - NonStop Local KHQ",
-    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNUG1kN3RmZENDSWRtT3dJdkRhX09WQ2xrd2oxc0lScVY2aFlLOExDMmxidkVtS0RmUU9aUDlpQ2tkZGl5NDVPai1TdTU4TkhMd05qWk8yck9HTHkwMGRBT00wV1Zac3ZSMWVPWEY1Y0c2NGVtQnJzSUFkTEFENkxBaDQwYnhualBibjZUMHNZbkxnb1UwS05aLUJHMXBGeHFWRWZKcVNObWRvUUtyZkd0MkktaVJFVmFHSFN6a3pRajdVcHdKaFBpZl9uZnZ5cFp5VklLdFJlX1ZabjVyVjRrY0k3QQ?oc=5",
-    "source": "NonStop Local KHQ",
-    "published": "2026-10-27T17:34:19+00:00"
-  },
-  {
-    "id": "926d53d96824",
-    "title": "Microsoft offers a quarter of its global workforce voluntary buyouts as AI spending accelerates - Nonstop Local News",
-    "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQSnhKMzZDT2wxRkI5b21wR2xnSXZvWXZDSUVWdHJyRV9jN0VwZkFaLVVWTkVTSGdpV1lSZm0yOEtxY1FOQ0dDSXlvdjNPYXBzVjJNZFJCbnhzRGlhd1VyWWZhQlVPalFGZFlTRGZlSVdDWGdqdDlQMUQyYlpIbmhjRUJlWml3QURoTG5rSy1rMDhEQ1ZRZlFMTkJsd2EwRVpBVnpFSHh6YllrenBERkRqejFOV1lmaTVMRHlrWU1xb1Jla1VadHRZTTlMM0QxZTlhSkZOZVQ5eEJPVTROU0haY0JfN2NCMEI0LXVfUjVtSDM0YV8yZWZnS2RRdG5zd2ZZbEFNRUVmbDhxeWts?oc=5",
-    "source": "Nonstop Local News",
-    "published": "2026-10-27T17:34:00+00:00"
-  },
-  {
-    "id": "5c2f6047a9b4",
-    "title": "Microsoft offers voluntary buyouts to a quarter of its workforce - Oregon Public Broadcasting - OPB",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOLU9CZnotR3BUVFVYcktMS3dnX05CTnNPTE00ZWl1a1ZCR05NWGlNbEw5bmJoUksxYVpfNGZlclk5Rk5sd0pCcEJuRUVvSzk5amRVNkt2Ukp3bjZxWU5uUDBzT3ZPbG50dVlzYXNDUXVBX19ESTd5OTJOTWF4RjZfc2pwaTRSSEY4bktkNnpIYUV1ekxmSjBGTUNEOFpDTWI4b0hraA?oc=5",
-    "source": "Oregon Public Broadcasting - OPB",
-    "published": "2026-10-27T17:30:01+00:00"
-  },
-  {
-    "id": "c3035a306610",
-    "title": "Microsoft Is Spending $190 Billion. Now It’s Paying Thousands of Employees to Leave - Inc.com",
-    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNTFVcjc1djh2RjNnSkk3V1FWX1gxd3RReHBQeU1BaG1jMnM3dkRLVUNoSFlaOGtxcmY3VXE0X09vYnRIbkRpeVl5aG9ZOEtaRkdQTHlVTXNwa0tINlRKeTdRSnYtSXdmUHVYb1R4SFF4YkprTkVpZkdPT214ZjhGcnBFMGRyWEZyeTlBMUY4Q0c4czdoMm40NC1Yd3VmUFNRT0JjS25tVk9IVmJDZTVqbllEbWtYRWFtVThVVFBoN2xvNmM?oc=5",
-    "source": "Inc.com",
-    "published": "2026-10-27T17:21:16+00:00"
-  },
-  {
-    "id": "2d99e6fd23f4",
-    "title": "Microsoft Offers Voluntary Buyouts to More Than 25% of Workforce - TODAY.com",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPV0k0TjZBR0hIdzJXdmR0N0lyYTVpLUFaSVBYMFAzTEV4WDNzVThGd3JVN0VLRG55bHpHVzZwc1pzRGEyTEQ4WjF2ZFE3NFR5ZUJ1X0JOSkNtYXhrdFZRbHcyT19MMlhPRkdiWTJRUW5zRHFvWV81cWNER1FHclZaeVNtbmh3N3Z1ZktjTjIwMllCUXByQ19WREVqSGpYU1dWbG5ZTg?oc=5",
-    "source": "TODAY.com",
-    "published": "2026-10-27T17:16:10+00:00"
-  },
-  {
-    "id": "8f70b400467c",
-    "title": "Researchers Find Microsoft Authenticator Bug That Exposed Corporate Access Tokens - Redmondmag.com",
-    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQNUtMNS1FdHE2ZnBEc1N3Y0xhQkFEN0w5SGlBR3p5dzgyd05Tb3pkMnQzXzdyNkh5QWZTZnROS3p2d2llb3NJUDI2YU9KN1ZXdlNjQ08zTVRxdWJ2dGpEMlpxMHZ5UGEwdktoZnMtQXJUOUlxclh1cXpDUnRxT2Uwb3dCSE8zNVl5THNiaUJ4cEMyejJlb0NJ?oc=5",
-    "source": "Redmondmag.com",
-    "published": "2026-10-27T17:01:08+00:00"
-  },
-  {
-    "id": "783cfc0a39a5",
-    "title": "Microsoft looking to massively reduce its workforce - WFAA",
-    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNQ1NTekRic3d5WDhYNmc2YWxGdjBNSFp2ZUZWcTNWS0hnOGpjYmZXc2JqenZ6MXRLT3dCTXFPSk1pekRCeGRGeFRPeS1fNGY0VS1aNi1EY3ZGbFRjOG81a055TGRoeHBMdXpFdkloNnJhdlVGWFRGMnpiTWxsZTFuUGs0WmtlV2RDRTFXQXF2Z0FQQ1hFRlkxQUJiTXpTZEF5bTBsbktVZV92VEhZR2RoWUliVUF3dmM3bmJRR05KY0VEeUxvcWwyaFlkMzNZd1U?oc=5",
-    "source": "WFAA",
-    "published": "2026-10-27T16:58:00+00:00"
-  },
-  {
-    "id": "23506cf78b88",
-    "title": "Microsoft to Offer 60,000 Staff Voluntary Exit to Cut Costs for the AI Buildout - Barron's",
-    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNc3lrSWhQYUJIUHZlWGN6TnRfYmU5YUVaNmV2dF9NQ2ZxMkVqTERxcWg5dG1Jc0Zzbl9JZEdaaEVPQ0xFaUdJTWJFR0ZWSmVKXzZPSUEtYzJqT2dnQmJmMXQwazNLMjl0aFNPeXdVMWlxekc0ZDY2RUNVWjJHcDVVcHhzbU5uODlu?oc=5",
-    "source": "Barron's",
-    "published": "2026-10-27T16:47:00+00:00"
-  },
-  {
-    "id": "04ecb0d6ef88",
-    "title": "Microsoft pushed Copilot hard in Edge, now some users can't access it in the Sidebar - Windows Central",
-    "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQSVpsQmZ1dXFSVUdDTmFXVHZVNGowZzA4RkQyZ0xJQjRzYjRVeHNkYjMzVURnOFBILS13cnFIWF94eDF4NEREM2dNTXpnV3BRTExhQWY4U0VGcVpHZ0tkVl90X3FsVmRsemdrOXVXcjlSa2FmVWJ3N0t2aUhnWnJYdFdfWlVvdHl0Z3Z1blNYbmlhZDdzcXVFWUx5VS16R2ZxM0ZJQ1plaUNUd2h4TDVXVnJrRUctTWswSl9GX3NCMnF2QzV6blcyZGoxanRZblA4TWx4Z2tqRm5qclF2YWRFVEFnYUJFQzhnRzJuTERpejhNRmVXLWE4?oc=5",
-    "source": "Windows Central",
-    "published": "2026-10-27T16:42:54+00:00"
-  },
-  {
-    "id": "e0ea063947e1",
-    "title": "Microsoft pulls 7 eMudhra certificates from Windows. Here’s what that means - PCWorld",
-    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVGRzdkhXbUFKdEN1OGdlal9Wdmd3azFUVHRtSWJqRnNLZm5zMUV5VHlaaXZ6anFzakNSMGFiUlZrampWd0RJMW9GeW1QeU9OTFNIRDF0ZXZ3Z2Q4T0dnZTkzdXh4RmZ4RDBhdWYxZmhNYmlzbkJ1bFhyeFF1TVBXZkxkNFRTU1V4SHZ6VDdoNElSVGhXTlBVTzc4UTk3XzNEZTdubWNNQ1FuN0w4RUh6QW9td01oZmNXUlE?oc=5",
-    "source": "PCWorld",
-    "published": "2026-10-27T16:42:10+00:00"
-  },
-  {
-    "id": "8d6f0c27133e",
-    "title": "Microsoft Doesn’t Want to Fire People, So it’s Asking if They Want to Leave - Yahoo Finance",
-    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOc1VxRXp3eTNqbWZPb3pqUjVDQXZaTHFvX19mNnBWLXVwMU14eGFGUWlRNFR2eDI0LURuRFZZWGJMQktwa05iT253WVpCNmd0RlRrMWJzRnVYd3prRWtsVVRlRklBSHdlWVkzdGVBV28zYmFhR0pwRWtydlZ3Ums2dVRlRkFxMzg2QURGbGRqbXllTFplaC1Z?oc=5",
-    "source": "Yahoo Finance",
-    "published": "2026-10-27T16:40:28+00:00"
-  },
-  {
-    "id": "5fbb126242c2",
-    "title": "Recovery readiness for Microsoft environments: What IT teams need to check now - mcpmag.com",
-    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNODBFX0d4eUNVVGN0aVBscWRmN1BMalZ1MEctajRmYTNoc21KX1k5VG1DbTRBX2dvdjNiemJuNDhjZk1ZYUhselFKeE5XUzlUdXAtLXNOX0JOTXR6VmJEQkxiZVIxeEdZdlhpazlER3ZlUzl5ZEJrSWcxajJaeXp2NksxemxNZm9kV3dYQXhmTHR3NkVtQjMtbWVqNXlVR0VJZUFwa3JLX0xiZF9QN1lFNHBrVU44YktaTmFJWFJsajNWRGc?oc=5",
-    "source": "mcpmag.com",
-    "published": "2026-10-27T16:34:08+00:00"
-  },
-  {
-    "id": "73a50dc7db1b",
-    "title": "Microsoft offers buyouts to 60K employees, but expects low uptake - The Daily Chronicle",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPS016WTc0dml6RF9DZFRVUERBeHgwSEJFTUxQUjB0aVY4OVMyTXdrTThUS3JZYnJMczVvV05WUnZCTEVDdko4NVV6bVNzZ3pfVkZsZk1zUlRsTXN6S29BZE5mb2QyLS1LdmUydy0xaG9ReWlqTXJrMHI0SEJRRDRyci1uOXBfdFZtenE3WTF0NlJYTG5YdllBcTQyRjl2dVU2WlVPTlRoNA?oc=5",
-    "source": "The Daily Chronicle",
-    "published": "2026-10-27T16:25:33+00:00"
-  },
-  {
-    "id": "9c1f0cfabc42",
-    "title": "Microsoft to report Q1 earnings with Wall Street looking for further Azure growth - Yahoo Finance",
-    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNRkplaDMzMG01RjlOTzdET1NqNnhETWZyeHVCQTlkNVdVQnBjbHI4ckpyN21sa3U4ckJKbUtFbTJTZFZ4TVBURGY4OHlwaWJLOXBnVmYwbHNfSkVTQWI5aGNKb3MzS2d2NElBdkg5eHl3ZlZCRWZRUGwyTDVEM05SRy11aTBBQ3RoTGNDQ3g1dVNFSDRycnlscVBVMkZnbTNkdE1sbGNOejJLXy1zd0JRdm1jcElCRWhHRTdZMTBVRFdLTktSOFEtTjdNaUxWb1pVYTRvcGQ0RTM?oc=5",
-    "source": "Yahoo Finance",
-    "published": "2026-10-27T16:08:35+00:00"
-  },
-  {
-    "id": "c87cd1edb6e9",
-    "title": "CISA Offers Two Free Tools to Detect Security Misconfigurations in Microsoft 365 and Google Workspace - CyberSecurityNews",
-    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5vZzl6QW1NX0RkencwdjctN0c2N1ZsWDd6SHdGOXV2dmRwZnI2X053RXlJTEZVbUFYNF82Mmh6QldDeUdRSjEtRk51TmNhdTBWUXhWX0xUMDZXMHhzdG1QNEQ4dHh5LUpwZWdGMm80SjhGVW1KOXl4UXY0Z2NaQXfSAYQBQVVfeXFMTWFMZ0pDUVk4aF9pcmVXWUl1WkhZMGhTRlJoRUlHZ3hjc05zSXhMby1SMzBoZV9zRVNiWmp2SDZGejZKXzNpY29rV0stcWFWUkJwWVdfSm8zdmtlYTdzNHE4YzBka2Y3UnYzOEZ4NDVjQVVKLWp4eDl6M2FKYzh1Mkd6N2I0?oc=5",
-    "source": "CyberSecurityNews",
-    "published": "2026-10-27T16:07:47+00:00"
-  },
-  {
-    "id": "f901d9129f01",
-    "title": "Microsoft offers buyouts to more than 25% of staff - WBUR",
-    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1iY3NhNVdNZG1fcjFvVWVCOWVZRTBNRUI2dE5jZk1oZlVCRGFhSm8wWW5fM1V0Ykl2cXk2b2k0cTNON3hGY0ZOR25RWngySVdrNTlLZGE3Y2xSeGg3LUx0eUdycVRFb243ZnhjeGp4TQ?oc=5",
-    "source": "WBUR",
-    "published": "2026-10-27T16:07:23+00:00"
-  },
-  {
-    "id": "7626c6aa8a1d",
-    "title": "The platform approach to becoming Frontier - The Official Microsoft Blog",
-    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQalVkZHNZSHBfaWVudVd5al9LblgwR2NvMC1Cd0VVU2x6NlVoczJDWXI4aHg0UnQwd1JpMnBtMUxYbm1YQTBsUEZrRDlDQVZhZTdZZUN6WVM3cXB1QVdFa2ZZTmE3N1VqZlIySjk3WHlWRXdfQkFiOUZrSC1qZDZ2ajFyZkRGWkR6R2FwbkZYNXE?oc=5",
-    "source": "The Official Microsoft Blog",
-    "published": "2026-10-27T16:06:31+00:00"
-  },
-  {
-    "id": "a9b1c9581ebd",
-    "title": "Microsoft Releases Emergency .NET Patches - Security Magazine",
-    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPbUVSLXRWQS1aTVRkN3U3cEh4UUFBMzdSWGRYNGRvQ0hXX0l0RU9zU0lhVTFqRWJZd2xDblJKay1CYndHOFNrbThVREdoUWhpZDN2c19XT05jU1BVQVY4c3Z2VlhYV19OOGh5OEJIYl9acXN2b3FkVzV6SkRCejdqbGdacVNsb3RpMjNxcXdEenIzMXM?oc=5",
-    "source": "Security Magazine",
-    "published": "2026-10-27T16:00:00+00:00"
-  },
-  {
-    "id": "1308e87eef08",
-    "title": "Microsoft offers buyouts to more than 25% of staff - WVTF",
-    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPazhMOWx2elJGbVF5WnZqWmZObDM1ZlFtR3lWbG5HWlBabXNZcUJLU0hBYVhKR3hFVGNpRVlMdldxVTNCN2k2aUIta3RiV2NPV2JNRkZYWV8tb3dhTzBmNXlUR2htc0I4WlRBYXVnaHpGTXExTjBZejZIU1B1MDNleDI5Q0xLQWxlYVJMTU85dl9nand2aHc?oc=5",
-    "source": "WVTF",
-    "published": "2026-10-27T16:00:00+00:00"
-  },
-  {
-    "id": "40dd88dbd036",
-    "title": "Microsoft offers buyouts to more than 25% of staff - WKNO FM",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNd3YwMDZxNFN3MzktZFAxN19ocHVLaWI4WWpMZE9hU1liVDNWZjBXQnVvVkozdkpYRXJEX2Y1YnJ0eExjaHVVeTVndTZyY21QbUVZR2ZRZThqMU01ckNSMVQyVGRhNUdkckRSVEtkZUZyenpOY2tleXZocnNxUTlEUGpEVEg3RmNKRC1acmwwR1ZZZ01JclRrTw?oc=5",
-    "source": "WKNO FM",
-    "published": "2026-10-27T16:00:00+00:00"
-  },
-  {
-    "id": "bce47b2c6de6",
-    "title": "Microsoft offers buyouts to more than 25% of staff - YPR",
-    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNVFR5TU43aUd3VUY1SzEyU1dnMWN3SklGTzJuZHVSR0xlbGNySDczaXVlUEpFR01Ud0MycWdXTFh0cGxyRjBXNnR2VkpiTGQyaVJ0T1pqTmU2R2FZa0NaS3NqYlVZNGVqX0Q3VFpxZUExYVpocTR0OHYzTVVhU3psMnZVTm5tNzd1QUpnVg?oc=5",
-    "source": "YPR",
-    "published": "2026-10-27T16:00:00+00:00"
   }
 ]

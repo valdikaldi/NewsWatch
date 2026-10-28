@@ -1,8 +1,20 @@
 # NewsWatch — Iceland News
 
-_Last updated: 2026-10-27T20:28:13.380436+00:00 · 50 articles_
+_Last updated: 2026-10-28T01:00:37.640399+00:00 · 50 articles_
 
 ---
+
+## Air China launches Beijing–Keflavík service via Copenhagen - Aviation24.be
+
+- **URL:** https://news.google.com/rss/articles/CBMipwFBVV95cUxPMTA1ZVRPbkFOYW9IMEdFclZrSEZIWlByQjFoeXdkM0F6MTFvdURadEJ6Mi1mdkxGZFdwM0dYWlZjS3VGamIwQmpWTEpPeWxmWHRMenpjc284VzhKbXQzVnIwVEF5R0IwUmZlZFNTQ0gzYlAyUm8yenUzTnk5aV9JZDFIYldkMG9sUlVXa3pCRnhkOXh0ZlpuZnJVVnc5eFBRSEFOOVVyTdIB-wJBVV95cUxPUEVqekFtOGhUOEVIdnFkTHVBS0thX3dBT3pHVzN4d290SXZNYV9faGxGdHFlSFFPUHl6elpDZWg1RnpheGZDOFZicGtSRnFqam1tR1Q0eWlKTi1mMHQ2M0E0b0VuWnZ3bnVyV1hBSjNQTXJiNHBqRXFUR3JscXdYT0JUdlJjZ0xJcl9MN3d4QmdnX1d6aEVrWGJLMXlOS0VPd1JXNlhmeGthdzFMZE1IVWZTQVpWS3Jua0FDenYybWN1TVJweE5WbHNGNGlrRGtscW82T2VLNGpUMFJBcTRMQVQ1b1p0XzBBM1ZHTHItNUN3MlNmdkNnWnBnUnJIYzl4V09CVFB3LVc2WEZMeHR1dC1aYzdlRVI2NTJqbGNDZDRWa0pvSUVEMVZKN05HSVpIMk51dXg2RUR5MEtfTkJUbTRMcDBGZjNUc2tCYjBZY0F0U2pZVmZZYzQ3U1ZyNEt0UGNfRXA5WW1qY09PTTJRdTIyMnZYNGRiTnE0?oc=5
+- **Source:** Aviation24.be
+- **Published:** 2026-10-27T21:16:35+00:00
+
+## APSU Science on Tap to Explore Iceland’s Ecosystem on November 3rd - Clarksville Online
+
+- **URL:** https://news.google.com/rss/articles/CBMisAFBVV95cUxPYm9mWnlVT1lid3FkSlNUX3VKU24yQ3hnR1A0b3ZsQ1BOMUo1dU5WVVBKZnBBMEk5ZTE3MlJUaWQtZTRrdlYtQ0FKT3BBOGpjUEUyZE1NVDZwWWxnYWxBYUlpMFpabWVKN3VoZEJzSFJUcWdNdTVCalZ4b0N3VHlpMFpYOW10Rjd3MEY2WjB0QjI3Vml4U0RfUkNkbHhjMWpoYlIwV0VWVjFjbWR3REQ0WA?oc=5
+- **Source:** Clarksville Online
+- **Published:** 2026-10-27T21:00:16+00:00
 
 ## Queens of the Stone Age debut two new songs live in Iceland - Chaoszine
 
@@ -291,15 +303,3 @@ _Last updated: 2026-10-27T20:28:13.380436+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMimAFBVV95cUxQbllGVmxDLVZHVk9lcjg1V3N6T2lkNkFwN0tBMkp3VmlncDBXZ1RWVUw2T2JpZG5qZmgyelNIYy1BS3JCc3Utc3BoY3JmUV9hQlpaWEdoRlhwTnA4RXpHNTFGa2JxWGZWbG5QSGs2OVJ3RGtUVTdHNjNENGNOaTdpQ1g1c0dBaE5nMG5uRUl6MjhLOTc0WEd3SQ?oc=5
 - **Source:** Iceland Review
 - **Published:** 2026-10-26T12:00:07+00:00
-
-## News - Sea well drilling completed at major Iceland land farm project - Fish Farmer
-
-- **URL:** https://news.google.com/rss/articles/CBMipAFBVV95cUxQckJXUlhZUmR1SmVUQ2JlNEYyeG1MWEhpdmFGU0E1WTlETV9lTk5pMmVfeVFwMmJQV1E2V195MHp1X3B2Q016NlpuT1Z5MWhCV2twWDB5OXhGU2ZETnQzODZOWnctUTlXbTE3ek5DZzc2cTlLRlhPeWVrbUwyZklwa25weFZqOFdHWUdFYkN6a1RRcFdLYjlfdGVOZjdrU3RjZkllbg?oc=5
-- **Source:** Fish Farmer
-- **Published:** 2026-10-26T12:00:00+00:00
-
-## Large hotel to open next to Forest Lagoon next year - mbl.is
-
-- **URL:** https://news.google.com/rss/articles/CBMimwFBVV95cUxQbXM0OHJZTkhEaG1VQThYZkUya09DaGhzOGFwVWRVWEh6LWtneXVaSl9FckJUY3F4NXVCUXktcVVxNEV6a0JMajZHN1pfaDVaZFU3cTEzNzFTZ3RVVEFPOG5DZU5UTy1PbnVsV0FMVlBmdnJ3cllhWVFtT3VnOHM4eTVfaWVwRTdsdTFJR1U0bUN0V2pmUVN5MDh6SQ?oc=5
-- **Source:** mbl.is
-- **Published:** 2026-10-26T11:54:00+00:00

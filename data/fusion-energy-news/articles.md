@@ -1,8 +1,20 @@
 # NewsWatch — fusion energy News
 
-_Last updated: 2026-10-27T20:28:13.779184+00:00 · 50 articles_
+_Last updated: 2026-10-28T01:00:39.937513+00:00 · 50 articles_
 
 ---
+
+## Clean the Sky - Modular Floating Wind Platforms - Trend Hunter
+
+- **URL:** https://news.google.com/rss/articles/CBMiekFVX3lxTE9oLWJBOW13TTM4ZDdyZ1cyTTV6UUY0OHllRmtWNzZsdHFnLVBsT0ZId2ZlSFJ6RFJjQzJfaUZXQmwzZkI2a1J6cHp4S3JDUTdfaUxxOXI4QXljSE9waDJ2Z1N5ZERxdjJjNlNISjI3NUhOVUtmLVNkUUZR?oc=5
+- **Source:** Trend Hunter
+- **Published:** 2026-10-28T00:07:00+00:00
+
+## Seattle AI Week 2026: Third Year Draws Protests, Big Tech - Hoodline
+
+- **URL:** https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZUNIVFRSU2oyQmIyME5VNXk3R0doazlqWlJlRHhiZER2Mi1ad0V2UTZvQUpaQ2pLQU9SaVV5NjVKMVdXUVozWHV4RExjOVpvUHdfZi14SDRWam9JNUx0QnpSWmRqN3B5VWxxNmotWnkxdnRsYmRjN2h4dGdFbkF2X0tSV1Y0RUtDSWpMMkV5dTU0c2tKUjV5aGlWbXo3OE4zak9qX0xJd2R6bjQ?oc=5
+- **Source:** Hoodline
+- **Published:** 2026-10-27T22:41:11+00:00
 
 ## Constellation Lands Up to $5B Conditional DOE Loan for Nuclear Uprates - Securities.io
 
@@ -291,15 +303,3 @@ _Last updated: 2026-10-27T20:28:13.779184+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMiogFBVV95cUxQZ2JnbzlDTGhnLTlJTEJUWnVjUHN4cTBpSTM5WHJkd2V6Sktqa3NsRkhsRDdEMXdtSE9UR2g1M0pWaTdsRk01bjBEa05MdkQ1alNWWms5dk5jY3FhSFZtMVliMjU3S2lQTThacTdHRC0tQ2RyQ3NKel9mOXdCQWZqM2d4cnQ1RFlCQnU4Mno3dVptNWtKb1pOSkE3MlpZQzlOZFE?oc=5
 - **Source:** energynews.pro
 - **Published:** 2026-10-26T05:32:58+00:00
-
-## Founders who chose the ‘nuclear option’ - TradingView
-
-- **URL:** https://news.google.com/rss/articles/CBMimgFBVV95cUxOUVozMzVBSHpkRzM1UVlBZ1ZIZnVvQWpQN1NXR19SUzhJN3dJVjR6aHZtZHQyR2xhcjV1ZDlZay1YVThzVzlzTlRtdHl3UDBYcUZkWFFGbDRpRmVJdzM4TEltTUcwak9QR2hNc3JuQWJVeWJoRm10Z3I3NXZDSjhZMTZvR0FYa1VqRmFkTnNwVmdVQVRwSzd3QzhR?oc=5
-- **Source:** TradingView
-- **Published:** 2026-10-26T04:14:00+00:00
-
-## IPP, Columbia University establish international fusion research center - American Nuclear Society
-
-- **URL:** https://news.google.com/rss/articles/CBMirgFBVV95cUxQblhLdW05cHVHWjIwWTRUYTNyZnpIWHdIUTdWMkxwaGxlNkxSdlhwYXVndDBjNzZXSGRzbnN3UHJ1aGJxMkxBd19OdHJBb1dMMkNlMUJoTlZJclFOckh6V0ZybXdRenJwdmVkNmszTF9rcjFFZ3diaVdkQk45VW5LbGc5QmxzYnZQZzRDZV9yNU9pMTRaeDF3T0JrVUxKNVRDdUFwSGdINmw0MDJPM2c?oc=5
-- **Source:** American Nuclear Society
-- **Published:** 2026-10-26T01:39:55+00:00
