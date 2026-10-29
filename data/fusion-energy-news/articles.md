@@ -1,8 +1,74 @@
 # NewsWatch — fusion energy News
 
-_Last updated: 2026-10-29T10:44:15.618048+00:00 · 50 articles_
+_Last updated: 2026-10-29T18:07:30.061741+00:00 · 50 articles_
 
 ---
+
+## Can Fusion Power Solve the Energy Crisis? Twilio’s Co-Founder Is Betting Big - Cheddar
+
+- **URL:** https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbUpoaHpuX2Vucnl3d184QWpJTG9mTkJBUHY3Qm1NS205Q0s2b01sYjlpSEZNVTZQdklVdllOdkNvZUZ3V1dhTU1kVm4zWkY0d092SVRLcjM3eTVmWGNmYlV3b0JwU2lfZzNYVHVuU3VoeGllU1JSWWpTUDVlV18wSVA4MGp6X19DLXNxMV9tVlNyR1dURE5ZTnU5N0lxaGJQVDIwR2ladFA?oc=5
+- **Source:** Cheddar
+- **Published:** 2026-10-29T16:18:38+00:00
+
+## NuScale Signs Doosan Contract for Upper Reactor Coolant System - Securities.io
+
+- **URL:** https://news.google.com/rss/articles/CBMikwFBVV95cUxPNjZfZXI2UkY4WlN6VXp2dWhzSHA1R3l6cERjbWlJeVdjanhwNXNxSExNSUFOSF9HV282YjRFTlVUMzY3bmxlRERjenJYdnlWekJTS3Q4VG5LZUptQW9naWlxa1V4STQzdklMNWw1cmtjdjgzaENSWWVndFpOMS1HcHFwZGFCMHRQbEpTaTFZV0JKVlE?oc=5
+- **Source:** Securities.io
+- **Published:** 2026-10-29T16:14:04+00:00
+
+## US and Finland expand cooperation on tech and critical minerals - Latest news from Azerbaijan
+
+- **URL:** https://news.google.com/rss/articles/CBMijAFBVV95cUxQMTlFenk5cWZaRkpVanlKamloeWtOUUhlNG9PNHBlZDBEckQ5UHlaMDhLWVVFLTZTVnZfcVEzZmJSOGRIWkM5SGhhRzRJSE5sUUZ6UktsdXNrcGVlVHFjbWN2NTFDYS1KSXpBZnZ4RjNtWnUzS2lZSG1zdWxia2tQemNaU2ZhRFNHZnk2WA?oc=5
+- **Source:** Latest news from Azerbaijan
+- **Published:** 2026-10-29T15:17:12+00:00
+
+## Japan's science minister visits Kyoto Fusioneering to back fusion energy industrialization push - Energies Media
+
+- **URL:** https://news.google.com/rss/articles/CBMicEFVX3lxTE5VVWVUb0dJMmw5aFgxbjI3cFVlbTMxZ3JaWjBuNkVyR2hJUTdmamNFLTNOalNjYXdkdG5YVHQ3V3ROVXFHemEtc0FxZThuSENIU1l0NHlvNkRMa2tiQi0tOENLNF9HRnpZbm9rQmtCc0M?oc=5
+- **Source:** Energies Media
+- **Published:** 2026-10-29T13:55:16+00:00
+
+## Corporate investors push fusion into its commercialisation era - Global Venturing
+
+- **URL:** https://news.google.com/rss/articles/CBMitwFBVV95cUxQenhNazQtZ2VXWU12d0h5U3ZFNDdKMmt3aUdIVDlYM0xJMFJaSXczSGNwb0ZHU0k3a1JENURZOVBXVGlNSy1CbGxhYkg4R05RM0pxa25rUFpvczBpVTBnLTlBejh4bUg4T1ZTdElyMGZzWng3X3JveXh2OVdaNXFFV2NzVlhwVDJPSmtwMHBRQU5EQ2k3Snl5Rjh4S1NGcDREeFhxeHJuZlM1Z2h1T0pSSkZKdDBCZXc?oc=5
+- **Source:** Global Venturing
+- **Published:** 2026-10-29T13:50:28+00:00
+
+## Blue Laser Fusion raises $34M, goes public via reverse merger - Dealroom
+
+- **URL:** https://news.google.com/rss/articles/CBMimAFBVV95cUxNYXJUUkRuUFJ0eTQxTEo5Ry1US0pZQ3p4Y2lLWWxpWDQ2QWwtWV9sYV8yYkxGT1duVmJtV2F3cm1PSHctRUhXcmlUNkJ5Z1RELUhSVVlkdkxFSmF6OU9XUVJGWm5nbDZ4azJtenpJNTI4Ni0tYWkxdjRTRTVXeEVxbDVhbU0tVnN6Z3gxdkx6Tl9kcUhVVTVHQw?oc=5
+- **Source:** Dealroom
+- **Published:** 2026-10-29T13:42:06+00:00
+
+## Near Rome, Georgia, Rocky Mountain sends water through a 700-foot tunnel, then reverses three turbines to pump it uphill overnight - Energies Media
+
+- **URL:** https://news.google.com/rss/articles/CBMid0FVX3lxTE9ydmRuck1ra3AxS1pBblhTTHFUMERxMU9fSERFWEZhNFQ4dVR6YmhmNzdjOGtQc0pEM2VtT1hBbnVGUlJrM2dVM2ZqZWFWaFhDLTVpNWc0bmc3LWdQczdFczBXS05uZGdfeTNSeDNNN1BlZng4Tkx3?oc=5
+- **Source:** Energies Media
+- **Published:** 2026-10-29T13:40:08+00:00
+
+## Japan and Germany launch high-level AI dialogue after Tokyo summit - London Daily News
+
+- **URL:** https://news.google.com/rss/articles/CBMinAFBVV95cUxQdFVMclNwcXc4NEJrNGtqTmxsSksyNjZwUHFJdE84T1ljcVY1YjNpOTlKeDdVbHhsaEZuNHQ5dFVfOGlZRy0xdTdrdzB5SFZsNWwybEY5N1RvNVJob2lqSnpDR3FidlpmTEtHczNfZ0Uwd1lPZ0dTNzhkbktwUXdTbERzNURHdURoSDdFOVNZOTlOSzhlOWRXSTNEVlg?oc=5
+- **Source:** London Daily News
+- **Published:** 2026-10-29T13:20:43+00:00
+
+## Lali X Lola ready to bring twin energy and Afro-fusion vibes to Hitz FM-Joy FM Beach Rave - MyJoyOnline
+
+- **URL:** https://news.google.com/rss/articles/CBMiugFBVV95cUxOdUExZERHNTZlNVYwcE92TTZfU0VKcUVGSHJPc2loWEJ4WEVFNWJXa1FDVVNiODg4dVBhR205UDl5VTh3YWFhTEJtbE03VEJIMzhud2U4VGVwMlF6dEQ0a2IzVkVoQmtsWExSblUyZHdYZlhHekdMeDd5QUJiN2FxZUhLUjAzenl4YVEzdG5raFkxSDlESTU3ZXpPOUx5djBxdzJCTEtrcDNvNS1VVXQtdHk0bkdrRVRwcWc?oc=5
+- **Source:** MyJoyOnline
+- **Published:** 2026-10-29T12:13:41+00:00
+
+## Blue Laser Fusion Announces Successful Closing of Capital Raise and Alternative Public Offering to Accelerate Directed-Energy Defense and Fusion Energy Commercialization - Kitsap Sun
+
+- **URL:** https://news.google.com/rss/articles/CBMixgJBVV95cUxON2I2aUFrMGNxeFREcF9JT1RmUEZoMzNXVzItRERXdjRGd1c5bU9Hc1hobTlNOTlCOWo3ZG03M25MdTVHaE9pVVJsNXJzV1FNdDd3bHlialBSY0d1U05sNUJfT0Y3UnprQ1BHX3JQYVIydjNuN3JCbjk5Z1c3MG14Wkh1dFdMQ0N6ZXpfYzJkalQ3R1Z6S1I1M0F5dnVJTEktNUU3MWd0Y3NuZjVHbDVqQlhQcnpJU2d3SVhWczVMR1V0YlIwY1duaDNwTzFJR0J3QkZZWkpSV0ZHeXdRajJNUW1CdllGOXh2NGp6UFBMc2p2c3JJd3owVTlERFhWZ0FDWjVkN0E2QXZwUGYtR0szSmtnSVhFSDNsZ0l6UGFvYTBuNWp6cVAtVlN1Z3RJeHBNOVN2SmZ4em1NU2t6b1FEU1lqV2JLUQ?oc=5
+- **Source:** Kitsap Sun
+- **Published:** 2026-10-29T12:08:23+00:00
+
+## Industrial symbiosis needs reliable exchanges as well as willing neighbours - Innovation News Network
+
+- **URL:** https://news.google.com/rss/articles/CBMilAFBVV95cUxQUFhzMEhPTG5oZnF2bVNDTUw0Snd2cGVlcFRMaHZoLUNaMGc1Qy1ibzBUYmRJaF8tWEdfMjB1V3FaclBMeWZETHVVNWlJYXNDaU0tUzJlQmRsbmZDRGpPa2hLMjhnUVZDSC10dFd5T3AzSV9pTGZBYS1CaG8zTmdpM095RWhxenEwWWU4cVhkMWgzT0Vs?oc=5
+- **Source:** Innovation News Network
+- **Published:** 2026-10-29T11:00:51+00:00
 
 ## Blue Laser Fusion Announces Successful Closing of Capital Raise and Alternative Public Offering to Accelerate Directed-Energy Defense and Fusion Energy Commercialization - The Batesville Daily Guard
 
@@ -237,69 +303,3 @@ _Last updated: 2026-10-29T10:44:15.618048+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMiqgFBVV95cUxQd1hhM0swTko5WXV2LTNIRTY5akduMU5hdXZubFNqb2YxUGdzbEZQeURncGhiY194WVROREQzX054VXA5RWhzRHI5MkJreTQ2ZUxBcHJyYldOaUxYU25PekVyQzBaUFdFX3BaQTlhTm5fQjlldkNZV0lsSmtCQVJtOFJjS2c5dEtydmVVUHJQXzFEejVhdkthUm0tQlJseGJvYXBkaDFMOE1nZw?oc=5
 - **Source:** Bioengineer.org
 - **Published:** 2026-10-28T11:14:05+00:00
-
-## Proxima Fusion Japan Deals: €140M HTS Plan Explained [2026] - shattered.io
-
-- **URL:** https://news.google.com/rss/articles/CBMikwFBVV95cUxNRkU1ZTZGdjBDZVRxMU5NYmVEWVB4bFhBcmJtZkZ3WEFYMEJNbERscUJmbUZ6UU5Ic2ZleGdGekU2VXNSOWVRZWd6S1VHcTZ4S0ZMNkNDbDNjcVFCT0FzdkRkUmFqZHE0VDUweXNUcWEwYnQzOER5ZEtkdzdzS1FWTUg0aTlZSnlsckM1U3RBZ1RKNDg?oc=5
-- **Source:** shattered.io
-- **Published:** 2026-10-28T10:25:35+00:00
-
-## London’s AP Ventures closes €269 million third fund to back early-stage industrial and energy tech startups - EU-Startups
-
-- **URL:** https://news.google.com/rss/articles/CBMi2wFBVV95cUxNdDV0TkgzUnZ0RHkyaU1xcGxCWkdMRmFmdDV0cWo2MXNYaHFRU1hHeVJSN3RLZFdtekcya05EY1FfcVFXdHpvbHVyQ3VHMXZLZzZ1VXluVW9ySjcwYkxqc1ZhazEzTDBtZWxXdkVqeWR2aWk4WHZVWkMxdnFLQlhpTm13SVJUM3lZSVNLMnUxUE52dU5RUXlWazhGMWZLdkt5WHBBS0YwSUFLX0xhVnYtVjNjM2FwbWVya3FMRmdKaUVnYmNVZHlOUXFCbGlMUlVCVUEtaFo0MW9fVDQ?oc=5
-- **Source:** EU-Startups
-- **Published:** 2026-10-28T10:13:57+00:00
-
-## As Merz visits Japan, energy startup Proxima Fusion moves to secure Germany's place in the global fusion race - EU-Startups
-
-- **URL:** https://news.google.com/rss/articles/CBMi3AFBVV95cUxPcGJqN1drSzFIQ3VzT1RoUXkxU0U5M2w5bGRuSE40c3hpUmZGUjY3dEJySWNLYlZvcHIyMEh5LU5aZHRReVJSUUxDQVpCeE5LTjRrakk3UjljeXBwUzdtdm55MmhSM3NZWHB6MS1ZcVM1UmZyNFRsYUQwYzJOYTZQT2FTcFNOX2NQWUJscV9ycmRDbDlFdE5VcHZKaDBmSXJUZVVzODlHYmN6a3FKYnpPMzlYZmtvYzFoQk4tUFF3TlhyTTJiNmdCaWlyd2FNSnhHalByZjlXU2EwVkxj?oc=5
-- **Source:** EU-Startups
-- **Published:** 2026-10-28T09:51:56+00:00
-
-## Commonwealth Fusion lines up $85 million federal award for reactor tech - Richmond Times-Dispatch
-
-- **URL:** https://news.google.com/rss/articles/CBMipAFBVV95cUxOZ3ZldkRwemJqQmtBVXEzYUVHRDYwdVB2X0pJNjQyajJ2OEdoMG1Zc1RsRFhyQlg0SndwdFh2VndYUFg4MXBGZE00Y0VyaG9mODZFOEFuOG9uZFRYR3dSelh6UG9SMGV4RkFuSTBBNC15OW9sWnd2V3JUaHZzRkFpb1M5STdVZlZHNG5LdjhrNGYwYmNLdHNiaFktQ2tBQkVRNTI4WA?oc=5
-- **Source:** Richmond Times-Dispatch
-- **Published:** 2026-10-28T09:30:00+00:00
-
-## Industrial Decarbonization Market to Be Led by Siemens Energy, ABB, GE Vernova, Honeywell | SNS Insider - openPR.com
-
-- **URL:** https://news.google.com/rss/articles/CBMingFBVV95cUxOLWFGTjQ2aG9iT2RHb182cVdzRTZhbTBkcndMTlIwbDY3aTY3TG55Tmoya243OUsyNjBhelF5WktjT00tSEtoV2RzSVloTS00Yml4QVVWbTJ3YmpwY2gxeVZTUkN0TWQtQTVGcF91MDhLWV9QYTdCVnN1YVRjYnM4TXJjd1BoRDRCRVFkNExsRk5VaUxYWTFKLS1YaUtyQQ?oc=5
-- **Source:** openPR.com
-- **Published:** 2026-10-28T09:12:15+00:00
-
-## Top 10: Energy Start-Ups - Energy Digital Magazine
-
-- **URL:** https://news.google.com/rss/articles/CBMiZkFVX3lxTE5iSXJQb2YtMTJhbURPdXV6eUpfek55ZEszZVo1MUlOWlVReEhHdXg1aFZfaUhEWXhsc241TEFhM3JOQlRLWEl3Y2hhNVA2aFp4MHoxWDV3bGJBWUtHbmpTLVQyS2JTUQ?oc=5
-- **Source:** Energy Digital Magazine
-- **Published:** 2026-10-28T08:37:30+00:00
-
-## The U.S. invests in semiconductor research and development - The CFO Middle East
-
-- **URL:** https://news.google.com/rss/articles/CBMimgFBVV95cUxOaTFJTHRrX3FWLWFLUlVhVnR6VWVXM2RHOElhTkhVb3U3ZTBxckduYmJzbU5sc0N6TXdkQ2lLYnRvZkpGNjJTNTBsVlkyYWpYUjBQNElZVGJJUzI5c3Mway1FNHRxc3pxS3dPVXhvcVptaDNqUmpPRnlrRTZFUERkWXZ2VThlVk1rSUdCUzV2NmdWVGF5NWhlZVJn?oc=5
-- **Source:** The CFO Middle East
-- **Published:** 2026-10-28T07:35:22+00:00
-
-## How This Ship Engine Hits 54% Efficiency - Engineerine
-
-- **URL:** https://news.google.com/rss/articles/CBMiW0FVX3lxTE5HNGRQRm0yaEJUQkhhOWEtV0doeEdsXzJCc01QcFZsYVJieHl4aVMzLXVZMHZMVkhJcm83VEZLNENuZTczLUVYME1jV1YtMWtwZ0xPSWdBbVdCVjA?oc=5
-- **Source:** Engineerine
-- **Published:** 2026-10-28T07:09:58+00:00
-
-## OCTAGRAM, ONDIPA Sign Agreement for Proposed CNG Plant in Ondo - THISDAYLIVE
-
-- **URL:** https://news.google.com/rss/articles/CBMiowFBVV95cUxPblVqSjkzZEp5VWdab2J1WDJCWE56UlJrdld3Wm1HcW8wbDVXOU54aHIxWjF1eHN3WWxPRWFNQlY4NzdNQzFoY2VjeGIzcUh5SmRTTU1qYWVYMzlNalZzRGJsQUVsQnM4MlFVMmhYMUhJaDV1Ykk1MnBEZ0xLN3VOZkdCUXlkZ1QzdjFYRWFRMGtoZEdWNWlsYkFmTjVVSTdEQnZN?oc=5
-- **Source:** THISDAYLIVE
-- **Published:** 2026-10-28T06:32:46+00:00
-
-## Budget IoT sensor array tracks solar irradiance with three low-cost proxies - Bioengineer.org
-
-- **URL:** https://news.google.com/rss/articles/CBMiogFBVV95cUxNbHIzODdCWm9DVEtZd2RKVzJDVktCdGsyR09leEVzdzhSRXNZRkRkeWVVOVA0NTVpLWdNZ3pla2V6RHBCQWtteXFzZnVEUGhKZzZQdHhCZ2dPZmtsY2lzLS1tNTRUZFZHSEJlaWpQQW85eXYwSEpUalY5RmFFUW1EZk51NzQza1pBdW55RUtDSFZzRWF5SVpfVmJ0RXh2ZVoyb1E?oc=5
-- **Source:** Bioengineer.org
-- **Published:** 2026-10-28T04:47:18+00:00
-
-## AI agent finds four severe bugs in industrial control software in under four hours - news.lavx.hu
-
-- **URL:** https://news.google.com/rss/articles/CBMisAFBVV95cUxOWFA2Y1NpeS1BSmpZQ3hwTGRlNk83RHR5OGJnZmhCNlRIQXZfSDBrTnhBNm1yeUcwa2hlUnl2ODBrN2JjR29qSHlRSUlEdUtDVGF1T1FJMmJqS0RFWnlELVdfSC11Um1WUUR5SVYwbjZuRVUwLUNod21ObUV0Vm1XZFpEUnlVRk1zQVYyZnpSUTdGeWZVZlhYUFlwNkdkbm5pVl8teExVNHpkckxDMXQwWQ?oc=5
-- **Source:** news.lavx.hu
-- **Published:** 2026-10-28T04:05:40+00:00
