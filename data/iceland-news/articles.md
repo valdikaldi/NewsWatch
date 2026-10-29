@@ -1,8 +1,122 @@
 # NewsWatch — Iceland News
 
-_Last updated: 2026-10-28T22:28:40.310086+00:00 · 50 articles_
+_Last updated: 2026-10-29T10:44:14.460185+00:00 · 50 articles_
 
 ---
+
+## Air China’s new route, codeshare to boost China-Iceland connectivity - The Bangladesh Monitor
+
+- **URL:** https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRmJTLVlzMzJYMy1ocDBmN3NzN2JESTJmbExtX3JGRG5fWXF0bkM1WmFQbWZReDRuUjZOMjRjZlJBckV1cE5fMFFRREpqRUZCdGhfMkd0OFRZRm9FaUxHaDJzVHZWVFVpT0F6V0lSOGtpWUExTm9ORWZUb212WUtnN1ZaaEU1MUZwVVZhZF9KS1NOUTJISFpHVk5FUGtqdkJpblBzcWF6Ym45Z28?oc=5
+- **Source:** The Bangladesh Monitor
+- **Published:** 2026-10-29T10:12:37+00:00
+
+## Iceland Absent From Eurovision 2027 Participant List - Iceland Review
+
+- **URL:** https://news.google.com/rss/articles/CBMiggFBVV95cUxNWktEVklNRWpqUVhCWi05WHpOTHlyLW4zX1ZwTEF0dFVRMzJoWjEybFM3elVKenRndWx4V29nTzF1c0tRZHRiR3ZIdWRNdWJYTS1Bc3c5bE9maWNqbnlpQk5wYnQ5QWtzMnViRDY3SnpRdVJmVVcxZEd6TWVwOEptbk9R?oc=5
+- **Source:** Iceland Review
+- **Published:** 2026-10-29T10:00:58+00:00
+
+## Arion Bank Q3 2026 slides: strong ROE amid Iceland headwinds By Investing.com - Investing.com Canada
+
+- **URL:** https://news.google.com/rss/articles/CBMivAFBVV95cUxQUjhFUTJKMHpDdG9CZlo5UUtZbjBsRU1YOC1ZYURsZmJKZzBaZ1NvUTBmRHZ1bGR0cWhzSVA3YXRoZWtId2txUXdLdXNKdHVhcEVkQk5QX0QtUWZHUG84SzhtcThoT1FfLTZIZnVKd0xpZjYzUjhmVXVVdllELXlxNjgzeVltRHhFQzlwekFuZmVYanJIaVZIN3BnVWRuVVN1VTJlY085d19lbE5UcWNtOHB2aXlzalR6YTFfZg?oc=5
+- **Source:** Investing.com Canada
+- **Published:** 2026-10-29T09:46:19+00:00
+
+## Iceland Inflation Holds Steady at 5.9% in October - TradingView
+
+- **URL:** https://news.google.com/rss/articles/CBMioAFBVV95cUxOSkpGTThRbzBETnYxUXRmelgzdDUwS0I2Nk5DZE9kNllZcy1QMTFXTDE0SFFsYzBuNWV4Vmt4OHYzbWlLb2ZGUjMwbTk0bUsyb3pKcWVWdkpQM1JSZTFoWjJOcGNGdzRwMDdSSGlQb1JBV3dDVHljTnI3VW9YRzF1WFEzWUVSbFlWanNteDJpUV9VVHBuUXVXVVd1d3JGQ1hP?oc=5
+- **Source:** TradingView
+- **Published:** 2026-10-29T09:07:37+00:00
+
+## Visit Iceland will send a knitter to your pointless online meeting - Famous Campaigns
+
+- **URL:** https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQ2wwdExNdUhLLWU1Um0wYjV2c1VQdEYydERrMFRVaU0tSllYVjJ3QnNwT2FxcElQUmRmOHRNZVVhakpUODlXYVlxRmY0b2Itanc0cWd0RDZucHJkV3hNWl85ckg5bXZranVwVm1abmI1YzEzS1ZzWkNadXFuWXhteEphNVlKYVd4UUx2VHNXVm5EaVN3ZnZCSU9XNGFaczd6eVBnNm83bkd3SDg?oc=5
+- **Source:** Famous Campaigns
+- **Published:** 2026-10-29T08:58:33+00:00
+
+## Iceland: More than one million farmed salmon die in September - Salmon Business
+
+- **URL:** https://news.google.com/rss/articles/CBMilwFBVV95cUxNUFZEOGdhejNqQURLQlFtTUNxUkhEekR3VU5rZGJPTV9ObW5fM0M4aWRILUVCU3MtbVhjRUFuUjZWcHBiU1JVZFJVSzJoR0Y4YXNmZTZPLWx1QTNzNTJpamtYdmU4UEliSDhlZWpOX2pYNDZPVlcyam5XaHVaVWp0amJwcFpkRUxncHRuaXFpUl85aFA4LUc4?oc=5
+- **Source:** Salmon Business
+- **Published:** 2026-10-29T08:26:15+00:00
+
+## ICELAND IS SENDING KNITTERS INTO THE WORLD'S MEETINGS TO GIVE PEOPLE TIME BACK - PR Newswire UK
+
+- **URL:** https://news.google.com/rss/articles/CBMi0AFBVV95cUxOMzdzVFFaZmoyMTBJZ01yMkMyMFpPTDhDSWlWdkx4QndCUUdfZlVJWU4yaWJjTDc5d1RsRWJMS2wxOWxyazRFaGJmX2xKRk9NMUJiUmVvN2ZuVk1fQ3hISUs5cXpCWWhvOW93eGlGdWtRUUVIdWx2bjdBcjZTeTRDT2VESkdSMmxOUVE5azdIUzBOMVE2NjBCNHFDSW1tSXQtcy1FS1JCVE14QUpGV08yNXpZeDJFV0g5ODk3UHhTTS13em95dDRUMWZVcElMbU1Q?oc=5
+- **Source:** PR Newswire UK
+- **Published:** 2026-10-29T08:08:00+00:00
+
+## Iceland Plans to Tighten Permanent Residency Rules for Foreigners - ProPakistani
+
+- **URL:** https://news.google.com/rss/articles/CBMiowFBVV95cUxPZ3B2OXVQVm0tbVhjbXlUb0FwZmVtMll0Y3p3bl9oTnUyb3l4c1pyUDloWnNxVGdhSTNTbG56T1c1WG12VUVLVXMyNUFMaHYwUnhZWGpab2hPT3FRZzNUampjRmJfRmtrMHZYM3V6ei1ldWVlMlFKOWJVOVpCWHRZV0ZRa2dURDh5RDJIWXJRcGdGQzRtbW1ybzZHalFEY2FEdWlz0gGoAUFVX3lxTE13Q3pEeWNISzdYWmhSYWliM1RIRUxxdVlfa3czcnZlNXlvOXJaN3RvNGdCYkZja1VmY0gzNkJDZUV6Ty00UVFKWDFwLU9qb19BdnN6Tmw0d1NodU1DcWhDQjBmNHJILU9JcTEzYTVnSGpIbnNNZDREWE8wRGhYUEl3cTZSV3htYklwRHVPay1VUHNvUEtwQVlmSjhKYzA5OUJjdW9XeXliNw?oc=5
+- **Source:** ProPakistani
+- **Published:** 2026-10-29T07:55:24+00:00
+
+## New Icelandic cultural festival coming to Vancouver - Vancouver Is Awesome
+
+- **URL:** https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSV9GQlFQV1BNU3IyS1llQXAxSXpFdEdKVGtEX2ZCVXhKdVBzT29GQmhwaWFuV0hzeE9NbzF3VzdXTFRRZDZrbWwzUmhvWGFhekMtN1lmcE9RWDV1dm5DQjNGSmtfWVduUU50X3UwTmU1bkVXTkVLVTI4NWVDTW4xejdxTU5qZk5fNUp1OFNIXzAxV05vMHp1T0FraTFmS2dKcU1QZk8zd0Zmdw?oc=5
+- **Source:** Vancouver Is Awesome
+- **Published:** 2026-10-29T07:45:00+00:00
+
+## Glacier Melting Rates in Iceland: An Analysis of 135 Years of Data - Guide to Iceland
+
+- **URL:** https://news.google.com/rss/articles/CBMiekFVX3lxTE8xaEp4MWduQkJkVHZjeHpjemQycnc5UFFxb0VFNnFQMXg4X3BUSTRnWUk0X1BHcUVYTW16c205YUlmRVhzdTJ1bWVmSXFkY0doRlk1cWlrNU5fTHQ0aVJXT2wyNldVdHVTQjllYmY5eDhUWkdpTzB5Mm5R?oc=5
+- **Source:** Guide to Iceland
+- **Published:** 2026-10-29T07:28:57+00:00
+
+## Yellow Wind Warnings Cover South Iceland and Faxaflói - Iceland Review
+
+- **URL:** https://news.google.com/rss/articles/CBMimwFBVV95cUxNeEhsOVNzcGl5b3NrVUljeDZRQW5Jb3BLNXVuTVFuMDJyYXhTTldUM0NyQWMzVXlHV0FvNnBhUFJ2ODV6TWpQRFVLenhid3p1ZnE0S2tRVF9aSlRfT3ptXzd2Z0kwTkFxdTBZVUJMcVd2Wk5GOThCTEpIWm5FZ1lXNlB3MWFLTHBjaThqb0lpMDhnNTZ0MDJGN0dxWQ?oc=5
+- **Source:** Iceland Review
+- **Published:** 2026-10-29T07:00:00+00:00
+
+## Jet2 pilot flies daughter and Framlingham students to Iceland - BBC
+
+- **URL:** https://news.google.com/rss/articles/CBMiXkFVX3lxTFBRRTJCQURRMXZsdk03ekthdURSTzdvTllkM0dkX2NVSTZnZVFLcXR0WUhlU2JhbDA4SUwwVWVNcXBieTl3RDlDcEoxXzYyTGNiZWtHTXNGVEJHQjRMR3c?oc=5
+- **Source:** BBC
+- **Published:** 2026-10-29T06:56:52+00:00
+
+## An interview with the king and queen of Icelandic crime fiction - Euronews.com
+
+- **URL:** https://news.google.com/rss/articles/CBMixAFBVV95cUxPOURDQlZVU1VIdXJ3YWRJSmliaHVMeWJrLXp0TFZhbGZ3OUh6cjF6TEcyOFY2aEtmTjdzendObktfbVhSbkNfOV9LY3Q0amFXWTNqQzRrZ0U3cjR2U21IRU55UXZQYzNybFVuSlB4aDBORFlnUTg2XzdyZ3lPeThfa1hqZ1lNN0FDc3dKU3NjYkZ3Mi05TW9MNWV0SmFja3I4RGpjaG53QUk0TXRHS1Y0QWhCbFhOODJVYzRXQlVIVkFPdHRs?oc=5
+- **Source:** Euronews.com
+- **Published:** 2026-10-29T06:16:52+00:00
+
+## Discover the film locations for Supergirl (2026), around the Cairngorms in the Scottish Highlands and in Iceland. - The Worldwide Guide To Movie Locations
+
+- **URL:** https://news.google.com/rss/articles/CBMiZkFVX3lxTE1USUEwakZRMEFZQ09IMEw1eFVfdVBtRUhDZ3dJaWhlNlUtelFfQ1B4OXN2UVhTY0V5SzJpSmNJNXB3UFVlZE1UZ3hwVmJ5ZVk3bzRkVXE3aWxkREhEQVpHWVdvMFV0Zw?oc=5
+- **Source:** The Worldwide Guide To Movie Locations
+- **Published:** 2026-10-29T05:37:33+00:00
+
+## Reception marking 55th Anniversary of Iceland-China diplomatic relations held in Beijing - People's Daily Online
+
+- **URL:** https://news.google.com/rss/articles/CBMiY0FVX3lxTE9yVllsVldnck9aRWh4N2VLZno1TU1TUmZuZlBuaHhKVk9ZajFWRHVWMkRVN0J1YlU0WFREYXhkREhVMzBvRS0xa3lPNGJrUHVhcU55U3NiUlBieElQZ3NGd1JqMA?oc=5
+- **Source:** People's Daily Online
+- **Published:** 2026-10-29T05:27:00+00:00
+
+## Björn Vidar Ásbjörnsson - Transfermarkt
+
+- **URL:** https://news.google.com/rss/articles/CBMimAFBVV95cUxNSFFFNGM3OXVTTDVJQlRSR1I4LWRoVnhGWjZpMlRLUElSNTE0T29Gd3hmcmp1RWtycHNYcXJCWmxsUko0ZWVhZHdwYXBXcGRuM25raGJxSDZ1cnEwUzNXZFI0Z3I1amw4Zk9xbmhTSXFvdmZkRVJfdUVGSUNKR1dOZlJkTjlrUi1JeVJBMmNWZHZra1U4c1FUWQ?oc=5
+- **Source:** Transfermarkt
+- **Published:** 2026-10-29T03:18:34+00:00
+
+## Magnús Már Lúdviksson - Transfermarkt
+
+- **URL:** https://news.google.com/rss/articles/CBMi1gFBVV95cUxQYXkwQThPdnVOaTV3OUV3SUluUkJOcG9aSmgzSTA2TmNBVF9SUm12NEJQWVMwU2N3RlBWSXV3SWJCMURFaG5WdC1EWmptMU0wZ2NNdXluTEMwWWNabjQxUGtsSjNuY1d2ay1BdERaTTQ0ZmFQV3YzX3NlR1NHVnQzam1mc1dTWHFiX0FFd3JtLWltbEZ6WURFR3puOERtQ2tEdzh5TVFpR3FrcFozZlhEenAwdHJXclBvSzZlVVFPeUhTT1NNREVpbWxiNjJZTUVzUU5nOUhn?oc=5
+- **Source:** Transfermarkt
+- **Published:** 2026-10-29T00:48:12+00:00
+
+## Natural History Museum of Kopavogur Travel Guide - Guide to Iceland
+
+- **URL:** https://news.google.com/rss/articles/CBMiigFBVV95cUxOZTFMUkFfeF9BRHp3bncxOGpfc1ExYmVPR2ZYMkI1VVdzTlJtRjhFaG55R2JYM2lsWnVjUmhaYlhrNFVXMXJNTFVyV2FkWFFDbXNDYjBQT0VjaUtad29YV0tqZmZNQmFnd05zYXA2N29paFNDeVh1TkhwbmZjY3RNTEh5Z3FiallDMHc?oc=5
+- **Source:** Guide to Iceland
+- **Published:** 2026-10-29T00:14:27+00:00
+
+## Serbia SRL 4-0 Iceland SRL: Result and Key Stats - Football.com
+
+- **URL:** https://news.google.com/rss/articles/CBMiVkFVX3lxTE1Ramtaa09KLW01X3dwZmtkLVRsQkpnakZTM0FFMm5mbXJKRWhoV2tMdWpIbUI5YndnN2RQbWROVVl6ZWpCYkdfZmd1a3VKc09CSmlLSjNR?oc=5
+- **Source:** Football.com
+- **Published:** 2026-10-28T22:46:23+00:00
 
 ## Watch Estonia vs Iceland - TOD
 
@@ -189,117 +303,3 @@ _Last updated: 2026-10-28T22:28:40.310086+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMikgFBVV95cUxOdVNCV241Zmc1ak10Yld6TWI0d3R0SlAzQWVnajRPNVF2NHJyQ2JTck1Mc2hhZmE2M0lNRFpQaUFRVldZdDVfSmJ3SVM2eFhCM1NhM3VmWUtIWnA3NF9scTNOdzBtN0NuVFRmR09jMWUzWkVCOExjOGRqS1ZCcHVub09IaUI0aFM4ek1ZNUo0MVM0QQ?oc=5
 - **Source:** Iceland Review
 - **Published:** 2026-10-28T10:00:15+00:00
-
-## Everton plotting January move for red-hot Iceland striker as David Moyes eyes crucial addition - TEAMtalk
-
-- **URL:** https://news.google.com/rss/articles/CBMiqwFBVV95cUxOS1JMZE85MkE0RmZ4Ykd4U1BRVXpfOWZ0VTlXWmppVzY0bUNySGNabjNKMWdkUmQ5b09pV1FYQkdxMXRPUk5fVTV6Q3U2d3RySzhTQ2s1VEgyWkdJLWFtMFRqazZqaF9PVFVyTUpxMXpINnBqaXJrZEg3cTd1cWItaVJFZkZLdWFRMGZhbTVMQU5heEQyX0JOVkM4MVEtY1RFU3I3Skgxcmtnakk?oc=5
-- **Source:** TEAMtalk
-- **Published:** 2026-10-28T09:53:23+00:00
-
-## Weak mag. 2.1 earthquake - Iceland: 8.6 km ENE of Krýsuvík on Wednesday, Oct 28, 2026, at 09:13 am (Reykjavik time) - Volcano Discovery
-
-- **URL:** https://news.google.com/rss/articles/CBMivAFBVV95cUxPSVlfcXlUYVcyVGJhWXR2dl85YzdoMlhrNVhwS3ZFYW9iWWkwbXBEc194d0hiRVR0a05UNmlVZG1NQlBKYUNXTTZLME1PYjgxUkMxT0t5aUU4MkxFdERRdkVmaW9RdVZ1N0V0bFJXcWZsSndyajN0R0d1aHhZX3FHRk0wT19rQ2ZIbEFhc1RDUG5aXzRibTJBbGlKVjdBeDVMQlVfdEtiWHNzdGJIa3dyOHJPVmdVWjdlNmh1WA?oc=5
-- **Source:** Volcano Discovery
-- **Published:** 2026-10-28T09:17:00+00:00
-
-## IHG signs 90-key Holiday Inn Express Reykjavik – Valhöll - Travel Trends Today
-
-- **URL:** https://news.google.com/rss/articles/CBMikAFBVV95cUxNbnN2OUtJbmROZV93NkNDdUdUYjhpN3A0Y2VrYlRMNDhsTWRKdGhpNUp1QVVXUGhGbWt6XzlITGk2ZjdTQlJvRVJEVGw5eHdSazNIVmo5Y0wwTVM4M0poTzRXRi1SRlYxa0hoU1hyVURzNDRRRVA5cTQ3ZEc1ZzVMXzlpajM0T2x5NGJ2NEx2ZU4?oc=5
-- **Source:** Travel Trends Today
-- **Published:** 2026-10-28T09:07:04+00:00
-
-## Icelandair and Air China Sign Codeshare Agreement - Iceland Review
-
-- **URL:** https://news.google.com/rss/articles/CBMiiAFBVV95cUxOeDRnbDl6elIwTjdnbDB4cVJFYVJPSGZ6dTZjeWZZSlRHVVBKeG1rS0lzUDE4OTRQcGxOWVlnY0QwbEtkNlM1V1lPOEpvb1hEOU5pT2NFbzQ5dVlWaWVWNGM1SDk4SmN1dm9VcjRvYjc1T2d1TktOOS1xb2dKLURBNmstRnVBWEtD?oc=5
-- **Source:** Iceland Review
-- **Published:** 2026-10-28T07:00:00+00:00
-
-## Iceland boss: Budget must show Labour is listening to business, not just managing decline - City AM
-
-- **URL:** https://news.google.com/rss/articles/CBMisAFBVV95cUxPa2dkb0dDQU82em9qMk9lTXJPbXNuQ2lvU0tpT0hQaE9ja05scGpOSUpwVG1LNi1Kazhkem14RndiMUxNLURpT0MtbVhJckZXUEJxTFhpbU95WVh4cC03cW1ZOEh2WUVBa3R3NkpleDJJRHp5YW11Z0JWeTZpcDFuMGFKMkpVQUtXVXJJbHVDR2FtRENSRmVJQkY4M1JBTFlPc2ltWEJuLXYzNUxQTFpQaA?oc=5
-- **Source:** City AM
-- **Published:** 2026-10-28T05:16:00+00:00
-
-## Best Ice Cave Tour Operators in Iceland - Guide to Iceland
-
-- **URL:** https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVVo3VmwzYVhQRE95N1VWR050aVA3OTZ0d2dqSndfeElMUUp2U1d5ODB3TUNOTDRhdzJ4anFmTDZBUk43Y19UUDdMZGZJUTkyT01fTHhkb0VfOFRKQWpoYkQzdUFwSy1FVUVDazFxYnZkLXVxYUZzQUV6UUllanB1WHdPaEUyXzRk?oc=5
-- **Source:** Guide to Iceland
-- **Published:** 2026-10-28T03:33:33+00:00
-
-## Where was The Odyssey filmed? (with maps) - The Worldwide Guide To Movie Locations
-
-- **URL:** https://news.google.com/rss/articles/CBMiXEFVX3lxTFBwdkNrYUs1R0h4X1ozWmt0NkNOcnl5RVRNXzNIcWZ1YmNyaGNvWHNKYVRyZlJQWV9haWV0cC12S2x1TU1QUWllbUEzLWg3cEhpc2p3VTliVFZoSHpn?oc=5
-- **Source:** The Worldwide Guide To Movie Locations
-- **Published:** 2026-10-28T03:16:55+00:00
-
-## Energy drinks, not coffee, linked to autumn blues in Icelandic study - Bioengineer.org
-
-- **URL:** https://news.google.com/rss/articles/CBMilgFBVV95cUxPbnpSY0xlVzBBMExteXBxbi1rWXQyRG0tMjRqSXFoLTk3Nmg1QnBrOWdrY0k4am56OUxyREs5NXEydk5lT05fd19ER3Q4M2M0bEkxMkZkMjBPNS1OTTJLeG5Bcld2ZERSamJPWEt0RGVlckRiMGxmVmktUzEtTTlXN1ZQVm92eXJySGlSWlNNOW5jdHlvS1E?oc=5
-- **Source:** Bioengineer.org
-- **Published:** 2026-10-28T01:53:11+00:00
-
-## Air China launches Beijing–Keflavík service via Copenhagen - Aviation24.be
-
-- **URL:** https://news.google.com/rss/articles/CBMipwFBVV95cUxPMTA1ZVRPbkFOYW9IMEdFclZrSEZIWlByQjFoeXdkM0F6MTFvdURadEJ6Mi1mdkxGZFdwM0dYWlZjS3VGamIwQmpWTEpPeWxmWHRMenpjc284VzhKbXQzVnIwVEF5R0IwUmZlZFNTQ0gzYlAyUm8yenUzTnk5aV9JZDFIYldkMG9sUlVXa3pCRnhkOXh0ZlpuZnJVVnc5eFBRSEFOOVVyTdIB-wJBVV95cUxPUEVqekFtOGhUOEVIdnFkTHVBS0thX3dBT3pHVzN4d290SXZNYV9faGxGdHFlSFFPUHl6elpDZWg1RnpheGZDOFZicGtSRnFqam1tR1Q0eWlKTi1mMHQ2M0E0b0VuWnZ3bnVyV1hBSjNQTXJiNHBqRXFUR3JscXdYT0JUdlJjZ0xJcl9MN3d4QmdnX1d6aEVrWGJLMXlOS0VPd1JXNlhmeGthdzFMZE1IVWZTQVpWS3Jua0FDenYybWN1TVJweE5WbHNGNGlrRGtscW82T2VLNGpUMFJBcTRMQVQ1b1p0XzBBM1ZHTHItNUN3MlNmdkNnWnBnUnJIYzl4V09CVFB3LVc2WEZMeHR1dC1aYzdlRVI2NTJqbGNDZDRWa0pvSUVEMVZKN05HSVpIMk51dXg2RUR5MEtfTkJUbTRMcDBGZjNUc2tCYjBZY0F0U2pZVmZZYzQ3U1ZyNEt0UGNfRXA5WW1qY09PTTJRdTIyMnZYNGRiTnE0?oc=5
-- **Source:** Aviation24.be
-- **Published:** 2026-10-27T21:16:35+00:00
-
-## APSU Science on Tap to Explore Iceland’s Ecosystem on November 3rd - Clarksville Online
-
-- **URL:** https://news.google.com/rss/articles/CBMisAFBVV95cUxPYm9mWnlVT1lid3FkSlNUX3VKU24yQ3hnR1A0b3ZsQ1BOMUo1dU5WVVBKZnBBMEk5ZTE3MlJUaWQtZTRrdlYtQ0FKT3BBOGpjUEUyZE1NVDZwWWxnYWxBYUlpMFpabWVKN3VoZEJzSFJUcWdNdTVCalZ4b0N3VHlpMFpYOW10Rjd3MEY2WjB0QjI3Vml4U0RfUkNkbHhjMWpoYlIwV0VWVjFjbWR3REQ0WA?oc=5
-- **Source:** Clarksville Online
-- **Published:** 2026-10-27T21:00:16+00:00
-
-## Queens of the Stone Age debut two new songs live in Iceland - Chaoszine
-
-- **URL:** https://news.google.com/rss/articles/CBMipgFBVV95cUxNSWczZjE2MTlpWnl3bnl5TWRJYzRscjd4WVVHVjcwT0FDY2lQazVENDljaktuYjZEaml5WU5pb0NDSUlTOWlxTlNnd2lIamtkTjhrU19CbzBqMTRMNXlXNjhpVVRBbUxwV2NRYVZYS3FfSGRnZE5kRC1rdG96YzBwSGdnNDJYT3lLQ2stZ3VuQW5jZ2s4Q2ZSM19XdmtFeFpuZ0FXdEtn?oc=5
-- **Source:** Chaoszine
-- **Published:** 2026-10-27T20:20:14+00:00
-
-## Delta cuts flight to Iceland from its 2027 plans - TheStreet
-
-- **URL:** https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUVFfWTVqMGtPVW1jM2VnbjB3cmRJS0gxU1N4WElyeGQwNVg4aVMwU1Y4NDhYOU5ISndpdnBzTmpoajFXWjlGOEFvTHB5RmNodGp5NFF2U25uRHVCd3N3TXVTNzhhcFNQNTNoS0xHXzR0Q1oxY2F2X0lnd2JxWmViYUdfa1J4TTIw?oc=5
-- **Source:** TheStreet
-- **Published:** 2026-10-27T20:16:00+00:00
-
-## 10 acts we can’t wait to see at Iceland Airwaves - Paste Magazine
-
-- **URL:** https://news.google.com/rss/articles/CBMiogFBVV95cUxOOFJfTG1fSGhiRl9PbzdaUVNrVFdMU1d6OTNhVi1FQzQxR1lYYTNUZXRhbEt1b1VzR2VwbmZjUjI4ZzBhWnBlWm45VUlVbTQwb2w1VGhKaDNOYk81UlBlaTliSGxpcS1SVmt1UU5TMml2bmF5TmRZSVFKNkJSYVgwVUpEcnhabktEcXJUdk1JbTBfYkhvcm9qVEkzLUU5b3RKZ2c?oc=5
-- **Source:** Paste Magazine
-- **Published:** 2026-10-27T18:32:20+00:00
-
-## What Does Iceland’s Proof-of-Performance Mean for Syntholene (TSXV:ESAF)? - Kalkine Media
-
-- **URL:** https://news.google.com/rss/articles/CBMirwFBVV95cUxQR1RFek5YYl9EVW9fel9WLXladTNUbTQ5T0VCMHZJbUdCSnJZSWd1aENQUWxPd1ZnRzBEcnp5eHA5aWlNWU1DQVYzX2trWEtMcGhVal9wOXQ1T2FHQ3NNMHBPZi14eHZWSV9SaDJ1UElqNWNfUkZCUldWc2xXYmktOFhGTHotOWlRU294MURoOXVkZVJlU1FXNWpoS3dhS1FxZW5NNW5seWpDaU5ILS1N?oc=5
-- **Source:** Kalkine Media
-- **Published:** 2026-10-27T16:28:00+00:00
-
-## Portugal and the FIFA 2027 Women’s World Cup: everything about the road to Brazil and the Iceland playoff - OneFootball
-
-- **URL:** https://news.google.com/rss/articles/CBMi3AFBVV95cUxNMEYtN19Sb3RmdW80LXBaLUdSZUFNVW5KR200T3RtcEF0d1ZVS19tV2ZwNGlWdzRwNkRHX3Z2Y3Z1dVllc1lYX1VDZkxfVXE3TVB1Y2VDRWlVZTF4cm53RkZlQTR1ZFRULS05X2tkWFQ4eldmMzRLcTJPUDAtVUtPd3BUVXEtZUFhV2Zxb0ZIM2wzX3ZJanBiSy1qTzQyUG0tRnQ4WnprRVBXU0U4U1NHeFVta183c2dOYl9wRmhfNlhWSWFPSjBrdTE4LWt3a3MwLWhQaF9VbmtVWmpF?oc=5
-- **Source:** OneFootball
-- **Published:** 2026-10-27T14:43:08+00:00
-
-## Ben Phiri hails Iceland vehicle donation as boost to district service delivery - Nyasa Times
-
-- **URL:** https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZGprcU1XSzRRTEhjOG5UZlBOd3RDNFQxckpkMzQtWFJFWktZbUk3OTMwZ3hHLXlHbHJzVnNhXzVyUUZjQTFNMU5KeWZJeHU3Z2Z6ZXJEVkw1dGc4RXd5aHhDTkxmeVBCUm54ZC14bjhOSmo2cVl1Z1ZqekNlNGIyRGZlREpEWnczYkdwcUswVHExZ3FJVkFNS1lUbk1sVlVFX1JDT2VlS05wQQ?oc=5
-- **Source:** Nyasa Times
-- **Published:** 2026-10-27T13:51:42+00:00
-
-## KNACKERED HAS NEVER FELT MORE ALIVE - Wonderland Magazine
-
-- **URL:** https://news.google.com/rss/articles/CBMidEFVX3lxTE1uNWlXQ1FpQmY5c0plRWZPbzlrQjlFWkZ0WUJ5U0ZQckJfZGhNU3RRQTNJVDZOR0dRSGFEWWJQa3ZRcEhrakVXMzJaRmtQdHdhR01kd0hjM3BaYXRTWFFkMUpmbi1qaWlnSmZZMjVwd3pWVHdH?oc=5
-- **Source:** Wonderland Magazine
-- **Published:** 2026-10-27T13:05:59+00:00
-
-## Remand Prisoner Numbers Quadruple in a Decade - Iceland Review
-
-- **URL:** https://news.google.com/rss/articles/CBMiigFBVV95cUxQX1JyeUxUd0Vwa0IyRXNQLVFlaDF6aTdGWU16cWt6QXRHSEpINDhrOEt4TW9OajIxMHd4LVRkaDhrQUgxcmZtM29HLVZXTjhNRDBVVldRSURmRlJ6YVhpTWtGZFZncjNab0xPbHBWMVJrVHk3Q0xFS21lQnplbGhPcDZiQ2RoMFJWbEE?oc=5
-- **Source:** Iceland Review
-- **Published:** 2026-10-27T13:00:33+00:00
-
-## “Partnership with Air China an important step” - Iceland Monitor
-
-- **URL:** https://news.google.com/rss/articles/CBMinAFBVV95cUxNSXFQbkhKanZUd2Z5NVlJUkpOWGxXOHBhenIzMXJTWDMxZHExS1BTcU5SdnQwS0o4Vl9lZGR3NV9aeVVCQ0c3ZWlkV3VmbmJwQkRuMlUyUE1wLUxaUDVFLVYxSHhYaERZWG9BdEkyZTNTRUJPcWpCeWFFTVpPX3NHTHBHOTNucHVRNjNlRTQtdl9vOXV5LUlBcEpwTXE?oc=5
-- **Source:** Iceland Monitor
-- **Published:** 2026-10-27T13:00:00+00:00

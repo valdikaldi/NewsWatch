@@ -1,8 +1,140 @@
 # NewsWatch — Apple News
 
-_Last updated: 2026-10-28T22:28:38.766836+00:00 · 50 articles_
+_Last updated: 2026-10-29T10:44:10.815778+00:00 · 50 articles_
 
 ---
+
+## Milestone Asset Management LLC Buys 22,567 Shares of Apple Inc. $AAPL - MarketBeat
+
+- **URL:** https://news.google.com/rss/articles/CBMixgFBVV95cUxOalk1a1kzbXZnTUJMM2hiRUhwV3ZyaW1FWXZfMHNxNjlrX2xEbVM1LUExZXZpMGFMZVR0bEozcmhuVktUQmd2NHc4dE0xVUpkdUdsV2NtRWVDbDZjWlVuOUF6c3Baempobnk2cGJBcV92dFJGS2x5Y1R5VlZHRnhqRnJiLXI1a29CdFp2TGhRcmI3YzRPRTRIaFRvekVzb0d0R3UxbXpnaXJyNnZYcWZCb09ERk5PZnp0MldGbGF3MThfSWRXTXc?oc=5
+- **Source:** MarketBeat
+- **Published:** 2026-10-29T08:37:55+00:00
+
+## Apple Inc. $AAPL Stock: SLT Holdings LLC Trims Position - MarketBeat
+
+- **URL:** https://news.google.com/rss/articles/CBMiswFBVV95cUxNaW5zaUphRjF1M3NYV00zZFptenUtenpINmgzR2pnUThDa1Y3YUxvWmVjOWliNWduT0k1ejRwZktiamtNYlk0WGh3RkFpYTJiM3JtMlhXSmc0R1VacE9rcUxOMndrclZCcU1RekJtTkVlOU1UTE1wSzNWRDR1YmFqS2JjZGNHVjQ2SFJiUHZxZ3ZDVDROa2NpdDQxQnBsZFFlUXFha3pvMXN5ajFwRWs2ZHRJdw?oc=5
+- **Source:** MarketBeat
+- **Published:** 2026-10-29T08:37:54+00:00
+
+## 6,015 Apple Inc. $AAPL Shares Sold by Quattro Financial Advisors LLC - MarketBeat
+
+- **URL:** https://news.google.com/rss/articles/CBMixAFBVV95cUxPRDRJZ0piZjZtT0dpWk14NGtiR2pHZHZiclVnVUNUbjNWdjFuQkltOUozVlEwTzBYVHZWb1NFZ24zQ0dNTExFdXlNWjVxRWRRZXpQc0hZQW9nSkY5ZnNSaTZrbkRSamV6dnJGNk1vQU9WRFZSTWdiaXg1Rzdablo3WkRwaHVWSVBSVVVxeUV5NlR6blVBUEpYRVFnalNaNW9HMS1NdTMtT3RSOURCTWhteGhObExxdF9SWE1wenl0UWdRMTBo?oc=5
+- **Source:** MarketBeat
+- **Published:** 2026-10-29T08:37:54+00:00
+
+## Neumann Capital Management LLC Buys New Stake in Apple Inc. $AAPL - MarketBeat
+
+- **URL:** https://news.google.com/rss/articles/CBMiwgFBVV95cUxPR0h4d3dRaVF4OXJkblVndUhzLWpwSm5RdjhuMWhyajItMU1tcTh0R2pqN3VRbURac0pwem43SUlPX25xMTFpa2ZjX1pYc0hRUjBZbGFNc2p3d0Y2Wll5dk9TYXRfZEtKQ2VFM3NIYlRIOVJxOWdDbXAwRS1BX3MtRjFacEZ0NjdKYUlyVjRDYmJ5WTFCS1FSNFdXRnp0N1UwS1VsMzRIbW13dTVSdFY0aVFBNVJJRmd4MHgtZ2V5OGpIZw?oc=5
+- **Source:** MarketBeat
+- **Published:** 2026-10-29T08:37:54+00:00
+
+## 8,252 Apple Inc. $AAPL Shares Sold by Whitener Capital Management Inc. - MarketBeat
+
+- **URL:** https://news.google.com/rss/articles/CBMixgFBVV95cUxPQW9PU1VsNERVYWhpOHNXZ0JKVERiT0ppOGNUSFl0VUZITzJuNlhtaWJMVXZhcXVpRnR4dzM5QkVUeEtxZGY3NWt0cjJGT3RUV2w5UzBBM0lWMUh3NmtjM0dzbEpoOEJIOVR3TGJyeFlOUVZaUjdFLXI4d3BxYWNWdHZIV2NzZVhqWGVzaU9mOXduS2NEWUV5S25IVnBHa1p1Wk1oR0t3UEZCMXhBY19RSWJqTkZFM2F5QXJlRkdrZjMwcEpwZ1E?oc=5
+- **Source:** MarketBeat
+- **Published:** 2026-10-29T08:37:54+00:00
+
+## NFSG Corp Purchases 3,141 Shares of Apple Inc. $AAPL - MarketBeat
+
+- **URL:** https://news.google.com/rss/articles/CBMirwFBVV95cUxOQ1hLaU8xMkpXSFgyb2dENDdmQkwtRDhNRC15aHN1blVNMkNCU3ZzZkhpQW00YjF4a0J6bVp5d2FaOTdnZUdjaXFSMHR1cmZyZ05xWlY0SFVVaV9FVE9UV3pDYWFDVTdLbGNsZmdSaEg3ODlickJld1plbGpNRm14TDJIUDBvS09iV3NwYnZBZjAwbzhHNFN5dUNBQWtOLTVjalg3UHE1SWw3TXhDZUlv?oc=5
+- **Source:** MarketBeat
+- **Published:** 2026-10-29T08:37:54+00:00
+
+## Apple unveils its first touchscreen MacBooks, from $2,899 - marketscreener.com
+
+- **URL:** https://news.google.com/rss/articles/CBMixwFBVV95cUxNUktfdnhUUWZkNHdPNTZKQm5YOGhhRUFvalBpUC11TlM2UkpzS0E4UXZaNTliYTNDM1B5cjR3SFlpSGY2MTNGV0NnZ3N1bGtBOGVabW5GanR1VTJLTDZIblZOeTZ1aXVXS1ByVW5SeWJkcnM1V2xYM0dMTW1reFF4YTJORWlMaFhhS3dTa0dOQjQyWWJWdVJ3Z0hyUV85WjQ4RmN1NnpLMUV3WDJ2dVZSaEhKN1NULU1jdGlOS2pkQXNDNFBReUNZ?oc=5
+- **Source:** marketscreener.com
+- **Published:** 2026-10-29T08:03:37+00:00
+
+## Apple Inc. $AAPL Shares Sold by First Merchants Corp - MarketBeat
+
+- **URL:** https://news.google.com/rss/articles/CBMisAFBVV95cUxNQU1HTlBhNmY5VmY4MmVNdV9POUhxQTJQck9Ob0NRLWhtV3ZJaF9WdjVpa1o5RGFLckNNWEN4bG5VZkJ1SFQ5X0tCVFF5Yld5UHF0blZoN2FqQzkxek0wUUljekl4MW44d1cwUXZ4NlZfeVV5QWNhMThZaUNKeDlHZWpZV2tFa2p6cmIwTXhTS0ppWnAzV0NqTE9paGpfbVBwVjkyQl9CRVVoTHpUYzRPcw?oc=5
+- **Source:** MarketBeat
+- **Published:** 2026-10-29T07:38:03+00:00
+
+## Apple Inc. $AAPL Stock: Iams Wealth Management LLC Grows Holdings - MarketBeat
+
+- **URL:** https://news.google.com/rss/articles/CBMiwAFBVV95cUxNQjduSEFabUlnZzhKUUNGRk1vSVNuT0UtRVFXWUMyOXEyUVdKLTR1WU16X2VuUkpJY2VCeDJEc2VmWC1tWGJEYlliX0U3Y0pidFUyajBnbEdCMUw2THotYVpUVGVzZVdERUM3REVYVmYyZFVDYzZLSEw2TkR3YlZTcF9VQVhoQXNFQ3BMUUFpcUlmOS1aUDFkU01NZWlVSUlld01SWm5kbTRlZkc5MjREdHpxUzVUbS1FWUx6WU9OV00?oc=5
+- **Source:** MarketBeat
+- **Published:** 2026-10-29T07:38:03+00:00
+
+## 5,654 Apple Inc. $AAPL Shares Sold by Ellsworth Advisors LLC - MarketBeat
+
+- **URL:** https://news.google.com/rss/articles/CBMiugFBVV95cUxNdVh1WXF1bjQyNlJBcFJBM1hkZE5IczJOY2VJdlRKTjVRQVpVN1VRU0VZUGo3UlNHYmlXRXgyaTJ1d1dROUhhcnJUWFhhSEN0NER1bUc0WkVrejV6akcxbl9fZEFfOHFGcDBNWmMzRE1qcVRkNTNtUUVZU0lxdUN2d2F5NHh4b1J4UVduQmNGcXVKcTNQMlBRZWV5TW5Sa3NKc0VBLTA0d3FWSGxPbU1NNE13U3J3OVFIX3c?oc=5
+- **Source:** MarketBeat
+- **Published:** 2026-10-29T07:27:56+00:00
+
+## 1,526 Apple Inc. $AAPL Shares Sold by Comprehensive Financial Consultants Institutional Inc. - MarketBeat
+
+- **URL:** https://news.google.com/rss/articles/CBMi4wFBVV95cUxObjBDQTlsMUozVGhZZm5vQ0t6QkFKa240SlA3eVM1Wm12blFfYy1acVdqa0s5ZHpwM3FRWWZRZ2E4V3ZLMU84Wkg1aWs4dnpKU1F4eXJUTHNkdXF0eVBSNUViWHAzaHU1ZG1DRmc0eHVfdTZrTlNzaDRUUzUxMU8wUXZUbXFRSngyVV92X0QwU005TnNtQU5pYkJRazRFb2JEYWg3SUF3RUdfNmVmVnpKVEZhNi15U2FDZXc4SzVWN1dNek1tYzlsUXRYZVM4XzRLTEd1R25fRHAxSWVEOHpXbTdicw?oc=5
+- **Source:** MarketBeat
+- **Published:** 2026-10-29T07:27:54+00:00
+
+## Apple Inc. $AAPL Stock Purchased by Davidson Capital Management Inc. - MarketBeat
+
+- **URL:** https://news.google.com/rss/articles/CBMixAFBVV95cUxNSnUxcE1Mb3ZsM3lycU5GVVVSVWpyeml5NG13ZXhRbWFmY1JUd21hQTcxREswcEFhWDIxaFUzYWhlUFNGeVpJNjdyMk4yTHBKM3FnSFRvbnE5YjJPUjdoYmdxMUNoVFRfNkFWSGN4bUJHUHNzVDdCQXRtbG1LcmRTODdyTGh1SXlzSWQxdGxrUEVfUmFjSVozQ1NuajAzZVE5cWVsYlNYNVN4enlMTDR4Nld0dzhBYzFxc2trVmtOSUprUHFZ?oc=5
+- **Source:** MarketBeat
+- **Published:** 2026-10-29T07:27:53+00:00
+
+## Apple Inc. $AAPL Stock: Fortitude Advisory Group L.L.C. Reduces Holdings - MarketBeat
+
+- **URL:** https://news.google.com/rss/articles/CBMixgFBVV95cUxNd0dBcDcyUmJqYVlMLWh4a09QWWE1RjNGLXI3b1I2VEdHeTNpU1l3MXB6QUhTVHhNQUxXTVpNZ2ZOSWQ2cms5TkFtaWJhQnVoSlpqOGVxbjVjeUJJaDRPS2NxamxaSlIyS1JxQW1OM3FlZG1sd2xwMTR0SkZER0N5RXRxVjcwV3k3OXl5QXpMc3NMY25XQ0N4TVlzb09oOVlzaGs0c245RmNOQmQ4OHlLQWJDM1R3M1MtbXd2OTNQOVlkMkUxYWc?oc=5
+- **Source:** MarketBeat
+- **Published:** 2026-10-29T07:27:52+00:00
+
+## Financial & Tax Architects LLC Sells 2,039 Shares of Apple Inc. $AAPL - MarketBeat
+
+- **URL:** https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNEV1YjJ0cEgxWlRicjBPNERjZ3g5VjNIcHBrQTlBMEJ1Ry0wZUx0MW03Nl9FX2Itc3JoeEhqdEgzRnZ4bThQZFJVQllVQ3J0TnVtY3M2S01ZQ0tyOUtId0VVc1p0ZExBYXZnNEI1LU5YTHVNVWNEMzMtV01pX1RCNzBGRFdRTVdmMzR0YW5TazdVT0lieGRzNXRnRnBmLVNlTlRJcVp3MVB6SVgzUW90eW93aUdNMDBSN19LeThYd1g3T0U?oc=5
+- **Source:** MarketBeat
+- **Published:** 2026-10-29T07:27:52+00:00
+
+## 1,780 Apple Inc. $AAPL Shares Sold by Community Financial Services Group LLC - MarketBeat
+
+- **URL:** https://news.google.com/rss/articles/CBMizwFBVV95cUxNM3hYVk42WkRuMVQzSDhxZklObHFPMkcweVJJNVdpWl83cy1WN0N1LUl4TWVUMmpnNFB5ZGtmQWg2cURGTHJPWUs4RzBCMEs0NUVoenZESi00UnAxTFltSU53cGlGOUoyNG1WN0RZV3dOcjZKc05ZQTdhbWtxZXdNRnZHVjRWTl8yTm9lcDIxWkpnblNYNDJKRlFyak5iNlhNRkY5ekhKZ1U2ZVlIanA0blgzd3p0Qkxva1kyekNEMUF0YVRqdXlxaVB3Z0FsdEE?oc=5
+- **Source:** MarketBeat
+- **Published:** 2026-10-29T07:27:52+00:00
+
+## Apple Inc. $AAPL Holdings Increased by AdvisorNet Financial Inc - MarketBeat
+
+- **URL:** https://news.google.com/rss/articles/CBMivwFBVV95cUxNNXctaTV2T2ZPdGstdUkxcUdFVUJyU2EySEZtX0tHMWItSTJRT0FoeHlnbXc5ZkNiUW9TTWg0N1lZQjlqZlBVNU9mb3pTVU5aMDhtRVJId0NSLUVHT2UwTndGUERNd0hDWnJFRWNoWThGWTMwak8zSHlHNElEcWJfSGo4cnZhYmRtdTh6VHZYcXRab2lXZEowd1NWRGJfdjFtMVlpLUI1TC1tLTJnYUxVQUdCTXdKbTViTnJaVEZoUQ?oc=5
+- **Source:** MarketBeat
+- **Published:** 2026-10-29T07:21:00+00:00
+
+## Apple Q4 Preview: One Phone Could Beat Wall Street's Flat Holiday Forecast (NASDAQ:AAPL) - Seeking Alpha
+
+- **URL:** https://news.google.com/rss/articles/CBMiswFBVV95cUxQTmlKWXVlUWcyblAzRTZqd09OYnRlQXZqeXN3VFBvZzBRTGFaXzItdkpGdm9aOHhtQzJPNlVPV3AxcVVRUXB1dnFQaHdoYkxQLTRFZFVfRUtPUzAtR2tCTUVWU0lrMXNqNkZKVElvMzJOYy1janN4Yll6OVBOMDd5ekNNYTlKamF3SGIxZzFac0ZCTkdDalJ5VGQ0MGE3M3ZCT0NWaVVOQ29HWFlmM3YxWTJ6WQ?oc=5
+- **Source:** Seeking Alpha
+- **Published:** 2026-10-29T06:43:02+00:00
+
+## Form 4 Apple Inc For: 29 October By Investing.com - Investing.com Australia
+
+- **URL:** https://news.google.com/rss/articles/CBMilwFBVV95cUxOZmM3cGdKUXBFZ2hOZFU0SVg3SlVtd2Q3eG9CZWJMaVlkb1FRd2t1Ujc3alJUcXZWZTI1V0EwMnhXNEpudHFYUlZJYjZIaVlMVDlkTEZyaWJwa3JVSlFCODQ3OEFMRnFBUi1JUmthVXVZMkpHNUFKRVBrWWNnRVhScllrTERhQ3EtbzVVN0s1NW9vMjJNOUEw?oc=5
+- **Source:** Investing.com Australia
+- **Published:** 2026-10-29T04:37:56+00:00
+
+## Apple Inc. unveils MacBook Pro with OLED and touch, introduces Dynamic Island - 파이낸셜뉴스
+
+- **URL:** https://news.google.com/rss/articles/CBMiWEFVX3lxTE1NME4xT044RjljZDBBUlhoUUEwM2d1ckNsYnFFeGJtUTRoWi13dnNLYVVIaXRkRm94TThHN2hZUEx1Z1Atb0M4SXpPZGFzQU41VTdQbE4wZ0c?oc=5
+- **Source:** 파이낸셜뉴스
+- **Published:** 2026-10-29T02:41:00+00:00
+
+## Korea fines Google, Apple $47 mn over in-app payment practices - 매일경제
+
+- **URL:** https://news.google.com/rss/articles/CBMiV0FVX3lxTE54bDVOdkhOTzZWbEl6ZnVGa1BLRmFOSTgySFlZZDg3a2oyaUNqaHNtSGVET3FqUURONXBkbXNtajRTRDZENmlHdUcyUGVaT1pHdllfb0diZw?oc=5
+- **Source:** 매일경제
+- **Published:** 2026-10-29T02:05:03+00:00
+
+## AAPL: Apple defined, key history, primary product lineup - 9to5Mac
+
+- **URL:** https://news.google.com/rss/articles/CBMiR0FVX3lxTE5YT25nRDV2WDBrbkJNcGEtUTVaMXUwRUZiQjFPWURPanYxM0RaRE9yblZHZFJMbmpWT2FmaXhCanlyWFNwM2ZF?oc=5
+- **Source:** 9to5Mac
+- **Published:** 2026-10-29T01:41:57+00:00
+
+## Apple shows pricey touchscreen laptops, a first for the iPhone maker - Central Oregon Daily
+
+- **URL:** https://news.google.com/rss/articles/CBMi-gFBVV95cUxOcTlXa3ljUVowNHQ2czhuRDVhdGdfZW5Pb2EtenZjTkxQbTdxY1I3NGNvMTVZVHNFamJSZGlvbDB6Rl9ydjdyNTMwekxUdE05QXk4R251STVBZ1lWZE5qMkdzWFlwWmQ2QWJoQ1QxSjVoRF9qbHpSZ1oyNUdEOFJpNXlFa0ZXMGhqM3dhcml1emktYzdrQkxOZGxad2V0YkFIM2NSYTFYX0J3NU9CUnJ0R29zNGVCQ3VOeUt6MW03cVA0UmNxdEp4STlOalVBSS1pUVJHWXBTR29JbVV6LU5vQk5hWU5JX0hvWThhU2UzR09ZTkJzQnV4M2lR?oc=5
+- **Source:** Central Oregon Daily
+- **Published:** 2026-10-29T01:00:00+00:00
 
 ## Form 4 Apple Inc For: 28 October By Investing.com - Investing.com South Africa
 
@@ -172,135 +304,3 @@ _Last updated: 2026-10-28T22:28:38.766836+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMi8gFBVV95cUxNdmJXcFIxRlNQejhTMFZMWmo3SVBhdjVmOGRmTVZWTnJVY0Q3NjVJSjZxcWZuU3RLNUlCd00yNksxQ3ZuT1FJa3dJZ01HWlVnLXpDNUExM0Q3ZjR2OWVtbVg1VS1QellsbmZ0YzM3emZxRENlNW94ekhCTklXMmlhMHRzdTZfbk83REFXZ18xM245T2xMamktSVktLWt2SUM0VnpNSTZUbTJzWEI5SDhUUHpoYUhhZlVhOU1LRDh4TEs5QWFHOHR1VUtiemJnR2o1ZFFjMkt4V3M2bjRkMVQ2Qmw2SDZDeHhUOHdhWmhSX2pLZw?oc=5
 - **Source:** MarketBeat
 - **Published:** 2026-10-28T08:01:32+00:00
-
-## Apple Inc. $AAPL Stock Sold by Formuepleje A S - MarketBeat
-
-- **URL:** https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSENfeVlQYkkyNDdHcGRkRExzODdxWWlvYWxDQkRHZ1BGMVZUeUtmWmlid01PUFFSSzZicFNhNVM5R3Nqb0NqVzFRZm1QQ0RVcE1QaVhFQjR2TENGUWI1MUtkcWJ6OFRJVVQteVhLaUY3dDl3UDFvaXFCYkxfQjQ5ZnNPZFo1SkRJRm5faXRMeEEzaEtuNDJ6UktZeWhjNGVOTi1TaFhnR2I?oc=5
-- **Source:** MarketBeat
-- **Published:** 2026-10-28T08:01:29+00:00
-
-## Apple Inc. $AAPL Stock Bought by Barlow Wealth Partners LLC - MarketBeat
-
-- **URL:** https://news.google.com/rss/articles/CBMiugFBVV95cUxOTkh4MzZkZEJrRGRJa0M4MnRSblB2c242bVZvdWVqWkVwb1BLc0EtUmFDWHpsUTlYRXhDWFJhQVBOV0twRHlib09sZExBNFJMQ2xrYm5JRXFNeEpVYzRlM08wb1pqU0lQenRmcjdJOXRYSFJTbEN3LVR0ZzRNV3JuRlpYeTgwaDZNa0lQUkJjUVRSM21Gbkt0TmxYRkVCYURzTG9JV2hHSDVESTdoUUNHMnZlQklFbHdYVGc?oc=5
-- **Source:** MarketBeat
-- **Published:** 2026-10-28T08:01:29+00:00
-
-## 595,146 Apple Inc. $AAPL Shares Sold by Curated Wealth Partners LLC - MarketBeat
-
-- **URL:** https://news.google.com/rss/articles/CBMiwwFBVV95cUxQVWp3dmhISndTcExyWXJxbFFXc2NSdU9wOFpINTg5M0g3QXVDWlBmM3lXT200MkU5V19DVUFPR2hYTmxWN3ZQVy1BV3EtN25QUktCQnRkTGh0eU9vbkQ1WDlNcHFlNktzVEVlQmFBalRFYjJCQ3EwN21kQjZZMm5qRXUxa0tOclJtdkpvSlBuS0xCcG5JN1RnN0d1elF1bjRoaFlpZDl5QktTRmlGdWZwRDB3V1Z0dXEtVnVabTdTQm5yckk?oc=5
-- **Source:** MarketBeat
-- **Published:** 2026-10-28T07:38:59+00:00
-
-## Apple Inc. $AAPL Position Boosted by Charles Schwab Trust Co - MarketBeat
-
-- **URL:** https://news.google.com/rss/articles/CBMiuwFBVV95cUxPbjVsalVRZXFUcnVfcjQ4U0MxbnU0UzJWRlpxWEdvUlFHR0QxNjhDd1ZBRjUxNGVoMUJLSjJuOWVET2xPemV3RnRNZmhuWlVJQzdfOUVxTE9JdUw2ZEdWc2h1UFJTSks0QWhNa3Qyc1FWQTZWRi1ZX1VEMFNMaENWWEVFd2xDdmQtWExZSlVCN3RPYmdEM2I2Q1RSMEo4RFV3Z0NjZkZnUHI5X3BwX0NDUWVrenc3U091WU1j?oc=5
-- **Source:** MarketBeat
-- **Published:** 2026-10-28T07:38:59+00:00
-
-## Apple Is Breaking Away From Big Tech in a Way Wall Street Has Rarely Seen: ‘Unprecedented’ - Benzinga
-
-- **URL:** https://news.google.com/rss/articles/CBMi3AFBVV95cUxNaXh6UW9LcHBiZlNJLVRodXhvLXBCNFMtUmRjdmVOVEQ5TXJkenF4WHJJUGJQZ1NTQjJpQ0cxQ2NUWG05VmMweGl5WkoycEwycnIwWEl5bzdqMUdzaDhmc3dMRlQxaVJoQjJ0Qmg2SVU1eEhqaTIzdlFpbzluZkZHYjJaZkY1N18wc0U2VmEwOVREdkMzQjJyZFFPUm0tMUprSHlDX3dhUzkzUWlFb0xteC1WMkpUVlMxTzc1bGJvVVRIMEczRG92SzJ5T21aTlE1cHN6S2I1TmJuVnVt?oc=5
-- **Source:** Benzinga
-- **Published:** 2026-10-28T06:46:31+00:00
-
-## Steve Jobs Thought They Were ‘Ergonomically Terrible,’ but Apple Is Reportedly Betting You’ll Pay a Premi - Benzinga
-
-- **URL:** https://news.google.com/rss/articles/CBMirgFBVV95cUxOOGR5bkpxN0dNaU5ScHJPbmhRZ0lUbmZCNTBBeExtN0JHRE1oUGpueElwSlhIa245UzA0VEE0cjJEUTdoMl9vQnVzRkltamFWMFRzYWRWUHhnWDVzaXRWcXBWNGtNeXlDQzZjTjVZRi05dkduSjVGb1ZQbkZ6X1NrV3VGcWhHVjFmMmdHcG5jbk1SUGFRbzh4cEVPTk5YdS1STjloOWZNdlAyRGpfOXc?oc=5
-- **Source:** Benzinga
-- **Published:** 2026-10-28T04:30:36+00:00
-
-## Franklin Multi-Asset Income Fund's Apple Inc(AAPL) Holding History - GuruFocus
-
-- **URL:** https://news.google.com/rss/articles/CBMijAFBVV95cUxPdUIzQllWZDN1eHktSnJuWkstYzAxZWgyTExTNnR2OW1iYkczckhsNkt3VG5LdGdzV2hzWmF4Q00tTHktVVpmRUU1UHZmM0JZcFBFMkFNRHp5c2xtODVTVF9KMV91MXZJNk1YS1pXckhZYlRCclFfZDdBbWoxS0RrR203aHdqSXhfWl9vLQ?oc=5
-- **Source:** GuruFocus
-- **Published:** 2026-10-28T03:39:36+00:00
-
-## Progressive Investment Management Corp trims Apple Inc stake - The Globe and Mail
-
-- **URL:** https://news.google.com/rss/articles/CBMi4AFBVV95cUxNUmRlYlh4UzJ6bWJ3VXpqcnYzanVEeGYzdURkeTJWNktBb09OYWhuNXlibmpudWJFZDFkY203RTBjc2lyZUd5VFBPYW5PS2w0YWZzQkdDMVpMWVNUYTN0QUdHZmxpVkVYNE1ieDRzVnVYM1k1dDVtaUw0RlB4eUxic0gzeGZoRXlDZXhpMW90TmVqd3N0cXlfc1NRcWVmcXVTaUtpTkpqMjV3OXFHU3JsZ0VMNzc2aVE0bmVVMmlaMlBUTUc0SFNaUGFIVjlhdXMwTi1xWlJzMF9XRVBsZmdmSQ?oc=5
-- **Source:** The Globe and Mail
-- **Published:** 2026-10-28T03:08:25+00:00
-
-## Apple's new foldable iPhone Duo faces ‘Crackgate' controversy amid screen defect reports - NBC Bay Area
-
-- **URL:** https://news.google.com/rss/articles/CBMikAFBVV95cUxNVkcxUC1vdDRnMkNSank5MUk5dkRyVHRWQXlLMFhHclE2dG5iMXFxbW4yTUgwdkJEcDF4TkZfVnhPMHp1X2FSNnRZazFyUmhyQVNNYXBpU1EzemFWWXVfRnFhQkRFUXltRTY0dk5yOG53UVQyWHdWa1dpSGNUblBmS05QWUpUd1EwaV82WEFxUkXSAZgBQVVfeXFMT1R2Z19sQ1VmMk9ZRzRqT2o2T0RNeUpiRU5XakYzWDZCYXFjeldZalM5bW9xdW1DckcwX2pvUURuWktsQjN6WWpucXBIdTNYWElYY19YbDlBaXJmd1FaLURNSzVHanlSUndpZjRzYW5jZGdCbWJ1SE43ZWk5Q0JzdTBVNElKYkM3enlEak1VRnlBdkc4ZVQxbF8?oc=5
-- **Source:** NBC Bay Area
-- **Published:** 2026-10-28T01:54:44+00:00
-
-## Apple Bets MacBook Pro Buyers Will Pay More for Touch Screens - Bloomberg.com
-
-- **URL:** https://news.google.com/rss/articles/CBMixgFBVV95cUxNNENTUXRkWmlfODV0c3h2OWZQcG42ZDZ3NlpzVEJ3MUY1SUJtZm03X3ZtR0cyZFdKZzVfdVMwQUYwVE9hSzN2cl9mVjY1TnhSb2p2RDNhVHBIRHhkbXJVVXlYMFdTVGZPV3M4R0FVaWJvd3Fkc2lUdW4xR21IUVZqRUUxOTc2TUlJOFNBOXhtblZWQzJlZURmMUVQSFhLQ2hOWFE1TkYySHhGMVhzX3FnX0dLd1YxX0hGWjNwWlJ2NzdSMTJDeEE?oc=5
-- **Source:** Bloomberg.com
-- **Published:** 2026-10-27T22:01:19+00:00
-
-## Apple’s 11-inch iPad just dropped with a rare $50 savings - USA Today
-
-- **URL:** https://news.google.com/rss/articles/CBMitAFBVV95cUxNLUVjWmVqaEU4OXE4MGdDQTBWbVR3YTdMTWstVi1hQmg0Ml82bmQ2djdYOTE2MzViOGlVSXZhX05GZU5Yajd6c09rQ1VkdHJPcEpacWUtVW9kWEpUYTEwMUt6d0Vmd2xNdTRBZEtkc2hvMEEwSWNqU3RNWWhzOUtaaTBYeGtVeHJGLWdTYnV4NVllM0tUWEI3LV9ZblBkQzM4WklHNVhrdjZRUnlaUlBadDhoVFg?oc=5
-- **Source:** USA Today
-- **Published:** 2026-10-27T21:46:00+00:00
-
-## Apple hit by ‘Crackgate’ outcry over iPhone Duo screen problems - Financial Times
-
-- **URL:** https://news.google.com/rss/articles/CBMihAFBVV95cUxQV0NCd0F3Uk9Ba3dlSXNtODhtcGhKYkxjeWNFQ19MdkhfemtKaGhtcGQtd00yd2U1MDg4QXVqVEd0d1NzakxrMjBHLVRmX0JzQkQ1a0kxTktZcmlDNkZEQWRUSkxKaGVKdERtck9uRHNEbU11TnE2QkI0LWI4akRLSzBIbE0?oc=5
-- **Source:** Financial Times
-- **Published:** 2026-10-27T17:55:41+00:00
-
-## What Is Going On With Apple Stock on Tuesday? - Benzinga
-
-- **URL:** https://news.google.com/rss/articles/CBMingFBVV95cUxOVDVmamRlV0sxY1JPSmJJbXRZbGllbGlIUkxzZ09YMzFuSF9WNDRRWlRWYzd4R2l2eERBUlB3R09DaUQ1YmVZOHRYQ3lhXzFRcU9RR2hHTzlRR3ZzX0htTTRoMkgzaGx1TlBSWVBNOUUzTmo2VjVOMlBhU3BQc01XZ0duREstSmZGcFRqRC13cjZCZmtFSmRJWmVBQzZ2dw?oc=5
-- **Source:** Benzinga
-- **Published:** 2026-10-27T16:57:07+00:00
-
-## Apple (AAPL) vs. MSFT and GOOGL: Is the Post-Earnings Selloff Creating a Long-Term Buying Opportunity? - Yahoo Finance
-
-- **URL:** https://news.google.com/rss/articles/CBMikwFBVV95cUxOWmtIUVJ6QllHYkFmS3pqMDh6WkR1ZUM0X0QyWll5d0RpMllEeFJrVG1pcl9WdUlyWmtDWkhZbU1HZU1oSF9lVVB2b3R2SHZFNzVPOUFseEhQS1Fqc04xaWlYdE14SUxoYTFyRFYzVjUyUGZ0NE5VMGhBWkZPQzVURV9mcWE1TEU1aFBUakFZU3I1dXc?oc=5
-- **Source:** Yahoo Finance
-- **Published:** 2026-10-27T14:59:56+00:00
-
-## Apple Unveils New MacBook Pro Ahead Of November Launch — HSBC Sees Strong iPhone Demand, Potential AI-Driven Upgrade Cycle - TradingView
-
-- **URL:** https://news.google.com/rss/articles/CBMijAJBVV95cUxON2ZReERBdEc3UFlDUjVQWkxBNjRMNDJFWGR1TXpRV0xMNnM0QjkzU3R2NS1iR3plYWllemsxVXVUTFZWZ19kR2hkTE1MeU9QUnA0SHJqckV2MWRMQ3k4aUc4Q3EteVg0Y2hOWDlQZTlGTHVMTnZXazVoOGt6WEw5RkliT25neE9LN0J6MTItUHRIdldpcHhPSVZtVm12cm5SYWVCYmgwazQtVkh1SDIyVGU5azRhUUozRFdzTXZ0SHdjSmRSamJ1RXlxTG13eWUydV9jN1psWmRJWnh1NHpNckRZSmVxb1FvQkhLYmgwcWNHZVVIM1NMVzVEZEFFeVpWNzFlYXNXZmZEaE53?oc=5
-- **Source:** TradingView
-- **Published:** 2026-10-27T14:09:31+00:00
-
-## Apple unleashes new iMac and MacBook Pro with M6 chips; pre-orders start tomorrow - Seeking Alpha
-
-- **URL:** https://news.google.com/rss/articles/CBMiugFBVV95cUxOdjAzYUxtd3FjREpVY3pER2lmbWdERHRrU3YzbVUwWGdld3FJSW9WLUl0XzdJZWVpMDV2YllUUy1iVXVWb0tkM2dOUWJHb2x5MEJHQkFhUlRYdm45X3VTSTUwcG9DUjN6MFRMMExXUEdHMmdaU0owVkVaM2d3WDV5aTRVT2VIRGhGUVJqR0V6eGhQdE1GWnRtcXFXVm4yVjdncTYwdW9sMFlCTXdMc05qRUFCMGNfOGRaa1E?oc=5
-- **Source:** Seeking Alpha
-- **Published:** 2026-10-27T13:51:01+00:00
-
-## Apple Launches M6 iMac, Entry MacBook Pro Ahead of Touch Laptop - Bloomberg.com
-
-- **URL:** https://news.google.com/rss/articles/CBMiswFBVV95cUxNazBVaTkyQ2FweG1WMFlGWHVYWEt4U0ZUSkt5MFd6aWU5VzFDWlhsRlFlejBSQm9XLVBSVU5vdHp2dkktbGNIYmZicEV0cW5ERTFWNFU2ZC00Q0YtZ1JHdkVucFRNQkVHYk12aFYzbXdpZUdfVUJCWGpaSkN4MTUzYXJPMVR3RFpXeUZaQlo1cUEwWVBMUjZQek85U3N0OEo4Q3A4TVVzSDB0MGJhSWtQaDNLZw?oc=5
-- **Source:** Bloomberg.com
-- **Published:** 2026-10-27T13:14:00+00:00
-
-## Apple Acknowledges iPhone Duo Screen Failures - TradingView
-
-- **URL:** https://news.google.com/rss/articles/CBMiqAFBVV95cUxNY1pjR2J4SE8wNW00T2tLa1FkRXdwWVVuclp0V0Zkd3RnelZwQkppUE41Ny1RTWcwRldORjFCRldVUG9DTG5UUDFNTUxZa1FjanhlaVppZ3hVVTl1ZktuXzZmUGJYQUt3TjgxYTNEWVlNc0RUZXpxd1h6akVTQXZoTXdfa19XbmJDODRyelNQVkVQakd6WHk1M0JVRFhCZFpFdHpBRXBBS3Q?oc=5
-- **Source:** TradingView
-- **Published:** 2026-10-27T12:16:50+00:00
-
-## RTI vs privacy: Why India's news publishers have moved the Supreme Court - Business Standard
-
-- **URL:** https://news.google.com/rss/articles/CBMi0gFBVV95cUxPWlVxSVA3cDlTWWg2VGFhSFBRLWtkenFqVXJNbllwM2dCV1ZFdmN2RDVBNnBDY2t5RWprR3JISVlnUGVVVE1zR1pyUVZLRzEwRk4wYWFiV0paMk1ZbkdYZWM3T2VHZjNnbk1UbkV6WVdIQnRPakZUUm1UWlhxSDI3aS04dXJuNlhBSmdBR3NhajlpMEs4MUxLejF4QXdyRkFqdFZtWFJCTTdPT1c1TzJzVG5DUjFub3FuTl9YMDlSUDMtTW5RNktyRHRaT01lZzBNQ1E?oc=5
-- **Source:** Business Standard
-- **Published:** 2026-10-27T11:16:31+00:00
-
-## What Invesco S&P 500 Momentum ETF (SPMO) Bought: Apple Leads on Friday - Yahoo Finance
-
-- **URL:** https://news.google.com/rss/articles/CBMilgFBVV95cUxPNFV1WXdtaWQ5eUJmb3ZoUHhHaGVmQjVLck9FZFRFelRyNlJlS2pja1pxWktic3RPNVE3dzlpVWpsbVJkeTJ4dlRSOUJYVlVnaDRTR3hBY0ZXekVDUzJrYVdlbFpfaHphUnQwLV9nSGNheExzNnRoc3NaTmtPS04zSW9OMXhSbFU2S3F4NDJUNVJZbElHVGc?oc=5
-- **Source:** Yahoo Finance
-- **Published:** 2026-10-27T11:05:45+00:00
-
-## INVESCO QQQ (QQQ) Adds NVIDIA and Apple on Oct. 23 - Yahoo Finance
-
-- **URL:** https://news.google.com/rss/articles/CBMilwFBVV95cUxNaXI3LVhuYmVoUDFuN0R2OTRuTFdHbWR6b3RMOFgzVnRxNkZnVjdORWs2ZWt4NVVUcEd2NHIyTzFKWWU3YktndHhQZDFzcWFtQzZ5eWxybzFCLVNmeHoxXzQzd1U4V1lfZEVZYm92Wmw3SnMyeU1KUS10NnA3c2RVaXBIOEhVaVljblhGSHhOLVRuWWNHTUVn?oc=5
-- **Source:** Yahoo Finance
-- **Published:** 2026-10-27T11:04:11+00:00
-
-## Apple's First Foldable IPhone Runs Into Trouble Within Days Of Launch. Has Apple Inc Finally Fallen Off Its Pedestal After The IPhone 18 Launch? - Inventiva
-
-- **URL:** https://news.google.com/rss/articles/CBMiiAJBVV95cUxPWEpXdl9tRXNxcnhweUtOSkdtbERUOFNoMVpPaHR4N25YWFJtVXZyV3dGdnpsM0dfNXJCSVN0dWFxRzBvRHUzTUphOXVDOXd5ZjFCSHF6SWJibnA3WlNwRnFrVlBXYXQtRDJ6ODcySVN5MnJWMEl6V296ell4QXQ2eUFBSVFxeV83MXV3bEZxVEJiNTNYQVJCQkJIYlZSOWlZdXdSZWt4elZKZks3NmpxRHUwYnJIZm1TbVEzSU1KUHlsZ0RReWR0ckl6TVdsWk1CeHVaVUM4TUZRQzlzVkJzckVFQWh1S0VMcWlpV3YwaHRzNWh2djJOc0JQdkZ5cE1hZ0RPWjVMX3U?oc=5
-- **Source:** Inventiva
-- **Published:** 2026-10-27T10:44:52+00:00

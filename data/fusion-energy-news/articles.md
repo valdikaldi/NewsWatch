@@ -1,8 +1,92 @@
 # NewsWatch — fusion energy News
 
-_Last updated: 2026-10-28T22:28:40.949659+00:00 · 50 articles_
+_Last updated: 2026-10-29T10:44:15.618048+00:00 · 50 articles_
 
 ---
+
+## Blue Laser Fusion Announces Successful Closing of Capital Raise and Alternative Public Offering to Accelerate Directed-Energy Defense and Fusion Energy Commercialization - The Batesville Daily Guard
+
+- **URL:** https://news.google.com/rss/articles/CBMiqAJBVV95cUxPV0tsSkJSYVFkMzVXZFRwNzNHbmNycGRkc2RUMW9QZzNobGxmMTVXME0wT29kRjR5YmpUQWNPcVFyX1VRRldvcXhLSmZXaF9WeUx3UEZiZG41SEstc2FoM1pCTWwwQU14VHR4eHFPMW80QzBFcFc2V0d3dk5nZFVPVW9KU3g2SEFnTnZrTTU2d3paa0dRTUQxdHBENENjY3JmV2YzY2ZTMkd4T1FNVTNJb3Vsa3dzLWVFd1hieEJFSV9nSTJwbzJ3Z3pIMzBmbmFOQWx3QWtoLWkwQmFaV241Vk56SlJ1bE9sOVFHcFRSTm14Y25MdmRKS05ncHdZWXVWTlhJTGJnZVlFbzBSOXZhWWtZbU8zblN4cVZIdW1uSkJfdnoteDdRVg?oc=5
+- **Source:** The Batesville Daily Guard
+- **Published:** 2026-10-29T10:16:32+00:00
+
+## Blue Laser Fusion Announces Successful Closing of Capital Raise and Alternative Public Offering to Accelerate Directed-Energy Defense and Fusion Energy Commercialization - lincolnjournal.com
+
+- **URL:** https://news.google.com/rss/articles/CBMiwwJBVV95cUxOOS12R2t6TlFGQWxYNnRfUWluTmcyS3dQWVozMjBiMHJQMm5wSzhzSUwtVllXcnQtQ3R5TFE4enlqeEFCdVVuTW9pU1BMZVNTelRDRDJGcXgzbjY0WUFpV25OazE0NjI5eWJXcW41WXlyUl9EdzRHdkxSbnoxTEFaX2FQQTVpby1kS1Y3WnM5VnJGcnZZdDRsV2huTTlKS1FTelV0VUoxaUdNVzdROGREOUVHcDc3ZmEwdGF1VWJWVF8tTGJyLWZkUVpXYUQwaGtDOFczYVE5VGM5Y3VkN2FoVVNfQk93a0t1Ykplb21OcG9DVlBFUTFSZXA2cUJ2S09sTmR2QmY0Vkg2SGV3N2lvUEh2aTRfbW9KSnZIdVRVMy1VclA0enVka0tqM2k2UG1nRkEtVVE1WEQxRHhFdER5WXluVQ?oc=5
+- **Source:** lincolnjournal.com
+- **Published:** 2026-10-29T10:15:00+00:00
+
+## Helical Fusion and Germany’s Gauss Fusion Sign Joint Statement of Intent to Advance Fusion Power Commercialization - The Des Moines Register
+
+- **URL:** https://news.google.com/rss/articles/CBMihgJBVV95cUxQUV80cktERzNZbHQtSWNBT1hxU1JOODd4S1E1c2JnazNteE5JZWxaSllpd0twbGtCNjNveEd3OXdwR3pTQVpwUkJpZ3hfbzQyaG02R2p5dC1nSmdMX1M5RGhJTlczZGkxMmJ1VkE1QklZQ1A0NW1XU1RCdWd6YWRiLXIzdUdndENuSTB1LTZ5NHFZNUo4NndlTGhWdjNib2x2RUwwdVFGQUNnMmIxZWxvM0hBS2Q3VGRuYXpnY0FKVlZoRzM3aHpMTVhPdnZLRkhvMkx6U24xRW9YazM5TXVTb0YzMUlVUjlpeHVEVy1ra1l1bUJpM0Y1eWxMSUc4WlNySUpfS1J3?oc=5
+- **Source:** The Des Moines Register
+- **Published:** 2026-10-29T07:59:16+00:00
+
+## ‘Technology is playing an increasingly important role in the nuclear sector, but safety comes first’ - Il Sole 24 ORE
+
+- **URL:** https://news.google.com/rss/articles/CBMiowFBVV95cUxQSURZcHpyal9zSEZ2UnNnZk5OZktMVEhyclZEd0tNREhZQ0ZhV3BHYjc2OU05QXBmTk9MSWIxNWl4RjZZWVhPd3MzT1ltdGdBV3NUSlQxbEFWYmprSjloeUlhaUpDTXBHMDVJZ3RZdFhxVHNETE8taUFzRU9HTnV1RFVhQW8yaGNrU0V5RElLRDZVMWJwb1J5aTdIUzh1TUcwTzRZ?oc=5
+- **Source:** Il Sole 24 ORE
+- **Published:** 2026-10-29T07:49:37+00:00
+
+## Taiwan and Wisconsin groups sign trade cooperation agreement - Taiwan News
+
+- **URL:** https://news.google.com/rss/articles/CBMiWEFVX3lxTE1qZFpxY0NoRkZzUHh6RGxxanlneV9nVEdOcTVjTkFuRU0zRXNRV19MMlUwa3NQb3dhV0NOWUxhZ0dFVkpsZW9rOHVCLUJwdFRMQUxGQWNYZTc?oc=5
+- **Source:** Taiwan News
+- **Published:** 2026-10-29T07:36:00+00:00
+
+## Clean the Sky - Fusion Semiconductor Funds - Trend Hunter
+
+- **URL:** https://news.google.com/rss/articles/CBMidEFVX3lxTFBPT25xbHpqZEZDOTFpVGs1RkJoYmxTQ2szZ2QtcmtxSWt4QXJ5QWUzZDJYTTVLTDVGQURLT0N4ZEtvMmNNYUxwMmZfQmg5NjNCMW5HMDA0OHZ0LW9pc056SzFFaENFVWcxX1JHOVA5QkNmRWo5?oc=5
+- **Source:** Trend Hunter
+- **Published:** 2026-10-29T02:51:00+00:00
+
+## Google-backed fusion start-up taps Japan to revive German industrial base - Nikkei Asia
+
+- **URL:** https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSVdtZnctZEIycmxJS0VWbjdieFhxLVVYSDVwRUNsaE5uQ2VBUjFBZnRfWUZsd3h3TFlWNDdnTl96OERWZ2diRWMyempLWTFJbFR0VzZWX1U3UmtnTDh2QVlOQnFjeC1NX2ZxZlo0TlRmVjJQRFBqRXdxVWRrOVdaUnZkaFNndkd5dkl3WFQ0RmprSG16emU0Y1RfQmx0d0k1bGlpQzU5U2gySGhEbzFReXFleUo5ZFBi?oc=5
+- **Source:** Nikkei Asia
+- **Published:** 2026-10-29T02:23:00+00:00
+
+## Thought Experiment: Bright Visions of Future Energy - American Physical Society
+
+- **URL:** https://news.google.com/rss/articles/CBMiUkFVX3lxTE9YcWNFWURHNWpfTTd2VDdqR0NNSUNiM3hwVXVYZzNIUzlXLXhuVkVka2JnS2NIc01nOTRMSWhMRGFJMGpTRTFBTEwza2tXWlVKSWc?oc=5
+- **Source:** American Physical Society
+- **Published:** 2026-10-29T01:55:22+00:00
+
+## Proxima Fusion Eyes Giant HTS Tape Plant With Fujikura, Citing 40,000 km Per Reactor - XenoSpectrum
+
+- **URL:** https://news.google.com/rss/articles/CBMikgFBVV95cUxOVnpncU5LYjBRNmc2azE1ZTNzeWxxWWdQeXBPVUJBZmRjc2ExS0Z0M01Qdm82R051U0Jwcm8zRWRZSlhPeTR6YmtBaVVZdWJlY2FpeXhSYU02Nkl3T09iSWt4Z25HcE5pcFhtcDZ4WUw0OEtNWnZJaUEwY3VLSDdIX1hkTWVfZFFFU1VBOFdfZ1QwQQ?oc=5
+- **Source:** XenoSpectrum
+- **Published:** 2026-10-29T01:20:02+00:00
+
+## Kyoto Fusioneering and Focused Energy Join Forces to Advance Laser Fusion Power Plant Engineering Between Japan and Germany - KYOTO FUSIONEERING
+
+- **URL:** https://news.google.com/rss/articles/CBMiY0FVX3lxTE9hckVpSmpLS0NNZXBLMzI2WWh5Y3dwNnlYVjl5ZFg1TEdnY1Nhd25pUjR4amZVOUs2OWgyNFlPamtCUVRHTm05YjdJSjBoWk1uSm5XVENNYkF2SUx2enp1eWdubw?oc=5
+- **Source:** KYOTO FUSIONEERING
+- **Published:** 2026-10-29T00:00:00+00:00
+
+## Kay Da Ace Injects Fresh Energy Into Afrofusion With New ‘7 ELEMENTS’ EP - Tooxclusive
+
+- **URL:** https://news.google.com/rss/articles/CBMiswFBVV95cUxOY2hzQTNWYjhFWFdXVnhhZDRFZTRUckVVRnBEekhQRmJyYWdxbk85WmtyVnJHOTVWLWNJQVFSSTJqR2RSclE5MWFXenVDa3Yya0UwUUdncmdCY3NvQmNNeXA5X0N4bk5zMmVobC1YRWNPSXlsOXZXZWJMWGE2bGkzLTkxU0tTNEx3UEUyaUQ3U2x1Y0d1NC1nVUQtc05sMG55OW1YN2tPNkc5Ym5ydGpsY3Q5bw?oc=5
+- **Source:** Tooxclusive
+- **Published:** 2026-10-28T23:23:50+00:00
+
+## DOE-EM continues to be plagued by staffing shortages, GAO says - American Nuclear Society
+
+- **URL:** https://news.google.com/rss/articles/CBMioAFBVV95cUxNNmRZYVNQZENuVDdad2V2R0hReXIwNmtEeHF6UmFtaUl5aW5Dcmt2MlNFRHJFcUxxVGJCczI2dzZIUm9JcENzUThUVUtWci04T09ySFhLMTNla1hlbXZvdkRwV1NyMHV0cUVGNFFNekF3Z1FhQkd0VFlFVDh2aThKcFNuZ200S0EwVmNycG5lUVp3eGprTktuZTJVLWdveHVx?oc=5
+- **Source:** American Nuclear Society
+- **Published:** 2026-10-28T22:52:18+00:00
+
+## New measurement of diamond phase change could mean increased ICF energy gain - American Nuclear Society
+
+- **URL:** https://news.google.com/rss/articles/CBMitgFBVV95cUxNdmFudXpfajNhRVJSOXoxUW12RVNZTC1XbW1TTmNZNnRacnhGUFpoRUN6VUdoQVlaZlhObVBTNktHZFpXbVFsWjR1OVhkQmg2TGplLWZrOGIwQW16bTlHamJ2NldvTU5TX0w4Y3RrQ2NjajM3bE9uZ3VseFpTc1JBOE4yOEotMHN3bFk2Zll0NUkzaXh4R3UtZG9FOEUxa1hOVW1DbWhZNDFFakhSdkZfTmR3eUlkUQ?oc=5
+- **Source:** American Nuclear Society
+- **Published:** 2026-10-28T22:39:07+00:00
+
+## Energy Mining: AMFN, BIOF, GPUS, AMLM, CFTN in Focus - WBOC TV
+
+- **URL:** https://news.google.com/rss/articles/CBMi4wFBVV95cUxQdGJiTmVPRTdTZWZXeHUzemtwZXhzaVFELWxFTVdpVEpmN2hHMG5EU2wtYWlhX1ZnTFVTNnNTYVMxREl3SGVmeFBoVGF3WnFCVXdFRXBKUEFUX1N3bzJMbHo0QzMyOWhUZFVjRWJnNHdTMEt6b1ctWm1DX2xHN20yMjVmTVJmc0xtOFMzcUtCWUNEa2V0NFNGdHZyWmtBam1ObmNHY09sY3R0QWpNSUx4cUxHOTZKX2FRUlI2ZzZWcVpTS0VEQTdaTWpvZ0NqOUpTa1NhaUJwdmJJaVozVlNzZXV2TQ?oc=5
+- **Source:** WBOC TV
+- **Published:** 2026-10-28T22:35:02+00:00
 
 ## Fusion Power Needs High-Voltage Chips That Are Made Mostly Overseas, and the U.S. Plans Up to $175 Million to Build Them at Home - Nature World News
 
@@ -219,87 +303,3 @@ _Last updated: 2026-10-28T22:28:40.949659+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMisAFBVV95cUxOWFA2Y1NpeS1BSmpZQ3hwTGRlNk83RHR5OGJnZmhCNlRIQXZfSDBrTnhBNm1yeUcwa2hlUnl2ODBrN2JjR29qSHlRSUlEdUtDVGF1T1FJMmJqS0RFWnlELVdfSC11Um1WUUR5SVYwbjZuRVUwLUNod21ObUV0Vm1XZFpEUnlVRk1zQVYyZnpSUTdGeWZVZlhYUFlwNkdkbm5pVl8teExVNHpkckxDMXQwWQ?oc=5
 - **Source:** news.lavx.hu
 - **Published:** 2026-10-28T04:05:40+00:00
-
-## Why are Japan and Germany cooperating on nuclear fusion? Nuclear phase-out and reactor restarts: The future aimed for by two industrial powers that have walked different paths｜仲島池哉＠仲池屋 - note
-
-- **URL:** https://news.google.com/rss/articles/CBMiXEFVX3lxTE1zNWpid0plbTYwM0MydXZha2QxZnpXVWtma25ZalBCdElWOVB3dkJNN0lKVUZnX1FTRmtLLUlHcXk4LWVLTnBFT1Y5d09aQWZIRVNqV0dIXzE3bWUt?oc=5
-- **Source:** note
-- **Published:** 2026-10-28T03:00:00+00:00
-
-## Trump Media & Technology Group | Truth Social, DJT, History, & TAE - Britannica
-
-- **URL:** https://news.google.com/rss/articles/CBMic0FVX3lxTE5lT2dhSXRTdXhSaGh2djRnVUFnTUdVRlZzRzdxdXdjTElyMF9ZeWJUUG1kbWJIYUlpWkhJVTdoREJsWU9TaEdibjNIdE4wdjFwQTk4bmZaU2lNRm4tM1Z1M0trcFdhZ2kyM1ZDYWZwQmphRDg?oc=5
-- **Source:** Britannica
-- **Published:** 2026-10-28T02:27:11+00:00
-
-## Government of Korea Aligns Private Demand With Seven SEED Projects for SMR and Fusion - DongA Science
-
-- **URL:** https://news.google.com/rss/articles/CBMiVEFVX3lxTE00dzRIMkNjWGJsd2lZcjNBWkRhenNVTUlwTm5uQTg3LUJlQ2h2bHBydjJMcWc1Y2U0Y3dpS043bTJ3dFBlempMSTEzYVY0Skp5NW9sWQ?oc=5
-- **Source:** DongA Science
-- **Published:** 2026-10-28T01:45:00+00:00
-
-## Clean the Sky - Modular Floating Wind Platforms - Trend Hunter
-
-- **URL:** https://news.google.com/rss/articles/CBMiekFVX3lxTE9oLWJBOW13TTM4ZDdyZ1cyTTV6UUY0OHllRmtWNzZsdHFnLVBsT0ZId2ZlSFJ6RFJjQzJfaUZXQmwzZkI2a1J6cHp4S3JDUTdfaUxxOXI4QXljSE9waDJ2Z1N5ZERxdjJjNlNISjI3NUhOVUtmLVNkUUZR?oc=5
-- **Source:** Trend Hunter
-- **Published:** 2026-10-28T00:07:00+00:00
-
-## Seattle AI Week 2026: Third Year Draws Protests, Big Tech - Hoodline
-
-- **URL:** https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZUNIVFRSU2oyQmIyME5VNXk3R0doazlqWlJlRHhiZER2Mi1ad0V2UTZvQUpaQ2pLQU9SaVV5NjVKMVdXUVozWHV4RExjOVpvUHdfZi14SDRWam9JNUx0QnpSWmRqN3B5VWxxNmotWnkxdnRsYmRjN2h4dGdFbkF2X0tSV1Y0RUtDSWpMMkV5dTU0c2tKUjV5aGlWbXo3OE4zak9qX0xJd2R6bjQ?oc=5
-- **Source:** Hoodline
-- **Published:** 2026-10-27T22:41:11+00:00
-
-## Constellation Lands Up to $5B Conditional DOE Loan for Nuclear Uprates - Securities.io
-
-- **URL:** https://news.google.com/rss/articles/CBMinAFBVV95cUxPWmRxa3AzVEp0ZVNFZm9RQ1MxU1pzMzE4WWszSVh3SnhwSGYtVUNsRjNnZlBFX3VZeFB0R0tMaUJxM0RFN2Q1eUVZUjFfZklyRy1JdHpvZUYweDJ1TE9BcHdOeEtCWFEtZVF0TVZzNVdOX01CUEJRUXFsNnU4aEVUel9uNmUtdU56Z2ZIeW1KUGp1WW0tRmM4QzZybFI?oc=5
-- **Source:** Securities.io
-- **Published:** 2026-10-27T17:52:03+00:00
-
-## Fission vs. Fusion: Two Startups Racing to Re-Engineer Next-Gen Nuclear Infrastructure to Solve Traditional Energy Barriers - EnergyTech
-
-- **URL:** https://news.google.com/rss/articles/CBMijAJBVV95cUxQbmdvc2tDRHpzS3RNMFl3azFhNktzX3RSLVNYWHIxNEYxTWlnOG9qSGtZN2NQaWFIMVZmSHROaENHY3dQWDR6RUdRNS1iX3ZHNHM0SjlEUGNVT25Kd1NLSGN3dHl5RU1tZWlYb2RIT210UEM5ZFduVGNXcUtlUFg2WWhWX2RHNWVQdERGRXJzbDNIVWZqLURnY28tOVFSNFpmUUdxWTRBVDMtamEwcWxMMjZPRFdCdWhZdTMtM2txSC1FcTd4UUV5c0c0bkI2ekN4TUZ5ZnJOLVdXRk1uSXdHRk9lTUNDT09pSTduM1lvUEFBeTBJeUtqY1F1OHdnQURublJfQ09FdlRqYl8z?oc=5
-- **Source:** EnergyTech
-- **Published:** 2026-10-27T17:36:47+00:00
-
-## Nuclear Fusion & Gold? "The New GOLDEN ASTEROID" - SilverTrade
-
-- **URL:** https://news.google.com/rss/articles/CBMioAFBVV95cUxPV2M3cS1kNXhLNS1TMng1ck96S1lobUNlV21WeV9UT3pmRmVDMlZkT2lBTGNVc1ZUN0wyOFpvUTd1M2g1cVM5eUt6MVU2elZwcC0wWnZEYzhPUjB1SmVYSjRXWGJQUlRha242OVQxZGdmeFlxalloLWhuQmhfcXpMUFBxcVVRUkZZb1JIUTZGUmlQYmJKRU9tdVlSeWpWTmZT?oc=5
-- **Source:** SilverTrade
-- **Published:** 2026-10-27T17:20:46+00:00
-
-## Two UT Physicists Receive Department of Energy Early Career Research Awards - College of Natural Sciences
-
-- **URL:** https://news.google.com/rss/articles/CBMirwFBVV95cUxNbU1Bc1dERVp0NTFsbC16X05ZdldVQ2hPcGRXMTBBTnRkcW8wRWtuZDhGR01DUWZnZWJtNVZYVnFfdERFQUc3WVFseUpVUDdqMDk2TWdCZ2xXOEY4aGlKRDIzVjJHOTBKY2J6U3JBNFI0czNjNllmalBpNEZQc1paWHRKSV9QT0swVzJOaENnalY5LVpHVlVTQWctS3ZUZmtMNm50MV81TTBWdUF3bDA0?oc=5
-- **Source:** College of Natural Sciences
-- **Published:** 2026-10-27T16:36:00+00:00
-
-## Israel Ministry Calls For ‘Immediate Action’ To Launch Fusion Energy Industry - NucNet
-
-- **URL:** https://news.google.com/rss/articles/CBMiswFBVV95cUxQTVJfQzlUZ3NuVUlwZ041bS1uNlVOTTQ5aEZlbF9jelN6RWRHSURubW9mX1dIU1d1LWl5bkNoNk4xWDZ3T0lyaVdiV2I1WEx6RU9vRnJSMTduQ1VCZE53WjZoTXlFOHh4TXJUS0g3UWJLZUVtN3VuT0pXMzU0X0J6QVdxdzJGYVdRbzk1WWlrZndraksyUGtPZ0hCejNHYzJMZnQzTEcwSjhZMllSVWVCSjVDRQ?oc=5
-- **Source:** NucNet
-- **Published:** 2026-10-27T15:07:45+00:00
-
-## Artificial sun - Global Times
-
-- **URL:** https://news.google.com/rss/articles/CBMiYkFVX3lxTFBPaG5aeEFKMmFlSDEzV0FLSm9jeDFJSmhvakZXa2ZXeFJySVVRX2l3aFhQS3IwanJ1VlJCWDF3MlhRM01hUk05VXVhUGxiT3JRVXl1ZWt3UGRZV3FTR1p6U253?oc=5
-- **Source:** Global Times
-- **Published:** 2026-10-27T14:48:00+00:00
-
-## Scientists Demonstrate First Evidence of “Helicon Current Drive,” Bringing Continuous Fusion Power Closer to Reality - The Debrief
-
-- **URL:** https://news.google.com/rss/articles/CBMi0wFBVV95cUxNTXJuZ0haRHpRLUhKN2lXSkZCcHMtSUZyZC1kU2dqdUg4RVNjZFBmcEZhWUozNGYyUDdFNEZBQ0xPczl1VlJZdE04TXh1ZXFIRjhJT3JHbFp2MXBkVWpsUS1OVVdvSGlQS2R6WGkxeWx4TGtKSi12LW0zYVZRTmRGWG1sUnJOUE1zN2hTOHVxc1duSmZROG1nSUJibHlJbEs0RVQ0cDRQLUhhNGxLUDI5aGxPZzE4UVNsYW4zTFhvclNGS3M2eENJQmItS0hVUDVFQXZZ?oc=5
-- **Source:** The Debrief
-- **Published:** 2026-10-27T14:29:13+00:00
-
-## AMPERA AND IMPERIAL COLLEGE LONDON PARTNER TO DEVELOP PHYSICS-GROUNDED AI PLATFORM FOR ADVANCED ENERGY SYSTEMS - Yahoo Finance
-
-- **URL:** https://news.google.com/rss/articles/CBMimwFBVV95cUxPYlE3dFRqN0xoT2hhVzlzUncxQm5VRkxoU3pWd3czWWxfUjA2Y09FdS1hMjZkcEtEWTRuSjJwZGFFY2l2aWwyMXlYbXpTcWYtRVFGMlV0SDlETzZSZ0drLUgxSk1HQUp4R1h6TVBHNy1fTnBiQWZHWk9HeUdBV29KSkhfX3ppOHZ0NkxlaWVvX3BtNFg4ZThraDdURQ?oc=5
-- **Source:** Yahoo Finance
-- **Published:** 2026-10-27T12:58:00+00:00
-
-## Radio waves drive a fusion plasma current that could help reactors run continuously - Phys.org
-
-- **URL:** https://news.google.com/rss/articles/CBMie0FVX3lxTE5DSTZibTRDTUxqSm90R003aHM0ZVI5QTlLWjQzQU9TU1FuemRIbjB6WkVHYzgzTTlVRjc2VXd3dUxDZTF1RWNGOVZZNnEzR3dzRmFkSXFHQUc0NHZPZm5PSnljdEJyWktlYXJUWW85bHo1OTVxek9NOWZ5bw?oc=5
-- **Source:** Phys.org
-- **Published:** 2026-10-27T11:20:01+00:00
