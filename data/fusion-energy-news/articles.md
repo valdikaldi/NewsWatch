@@ -1,8 +1,20 @@
 # NewsWatch — fusion energy News
 
-_Last updated: 2026-10-29T18:07:30.061741+00:00 · 50 articles_
+_Last updated: 2026-10-29T23:49:30.326279+00:00 · 50 articles_
 
 ---
+
+## Kyoto Fusioneering and Germany's Focused Energy Team Up on Laser Fusion Power Plant Technology - XenoSpectrum
+
+- **URL:** https://news.google.com/rss/articles/CBMidEFVX3lxTFBMSkd5c01JRXhDMS1yZGtwVEg4VDNZWjFFbjRRRXhCLW92Y3BHbHhla0NPQVpmc1hkc0xOSEpiR1FKdWgxeG1MTkk2S3BZWThvSzNVcHlzdjZjUjQ0TldXblowaXMyWENLb2ZadTZpemFaNElU?oc=5
+- **Source:** XenoSpectrum
+- **Published:** 2026-10-29T23:40:42+00:00
+
+## InvestorNewsBreaks – American Fusion Inc. (AMFN) Positions Texatron(TM) Development Around Race to Power AI - StreetInsider
+
+- **URL:** https://news.google.com/rss/articles/CBMiqAJBVV95cUxQZ3lFSzVmVG5CSGJfM0djcnFDVndpaUp3Qlp1UmZNT0JwUGp5QzRrMXV1RVEtel9zUEZEOXp4c0l6eElLOFFGQ3JkcjgxQ3BUaTBZZ0dHZllLUWRnb0FWcjNMQmlaUmtZZDNhbk1lZF9FbGdrMHdiTi01RnlVZ3puN3BBZk5oSWU1Nmwtc2l5V3dISVNma3pFQV9FMi1CWWpkaFJCLW5RbTI3NGdhYjRVUzVidlE0c29DTU54UjZNUlN5cC1pdFVSWm1QLW1YaTZ5ektlOHBoMHpWZDFuV01rTGVZSEt2MHBWTFlsSE11OXVoOVZGampHSEM5X3MxUjRnSy1NV3lFQXU3SEFoeVZHcE1UQkxFbVl2d3g1MmYwM2hjQlQtX2FFTw?oc=5
+- **Source:** StreetInsider
+- **Published:** 2026-10-29T19:56:11+00:00
 
 ## Can Fusion Power Solve the Energy Crisis? Twilio’s Co-Founder Is Betting Big - Cheddar
 
@@ -291,15 +303,3 @@ _Last updated: 2026-10-29T18:07:30.061741+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMi4wFBVV95cUxPeTJhWVBMMzJoNlkwM3lsWDhkVTFJeW1qTnFpMkVnbzZ6Yi1IRENHaGZZUUJhYWFfWllJWU5JdC1fY1Vrd1RQZllYcnJxZEJGTlVFb2d2VkVTNFoyci0tQlMwbTl4Vm1JQ0ozWUpQOFR2XzZpYVYxdG9PUXZDRjNzYUNqS3JoWlJkNzRENkwyTnZLeUVYZm5BUDNTZGllT3V5dlJseWlwbG81aEVQaUkxcGI2ZjVSRHJTQW13X1UtSGdSQW92RmF0TjVWb05oR0xhTHFGSlZndktiTjhpX1NzWDcxbw?oc=5
 - **Source:** 3D Printing Industry
 - **Published:** 2026-10-28T11:29:36+00:00
-
-## EXCLUSIVE: Fusion Fuel Expands UAE Footprint, Reaffirms Outlook - Yahoo Finance Singapore
-
-- **URL:** https://news.google.com/rss/articles/CBMiigFBVV95cUxNRmtkNFRmRW92ak8yZkV3bGhqZ0FCQXhwd2VlZWtfVkRwX3JsQmo3aDk4ZC04YTUyUndfMFVURzA1UVNGa2VYMUdQNzkwRGhMQXNSM3hNMmxMbHZXTGNjQ3IzWUpoV1EyTGg2SndoeUx2NkNTNTFKOFljYXRjcDY3d25wcXNOdmx0UlE?oc=5
-- **Source:** Yahoo Finance Singapore
-- **Published:** 2026-10-28T11:20:08+00:00
-
-## Green laser 3D printing of pure copper hinges on power–speed matching, study finds - Bioengineer.org
-
-- **URL:** https://news.google.com/rss/articles/CBMiqgFBVV95cUxQd1hhM0swTko5WXV2LTNIRTY5akduMU5hdXZubFNqb2YxUGdzbEZQeURncGhiY194WVROREQzX054VXA5RWhzRHI5MkJreTQ2ZUxBcHJyYldOaUxYU25PekVyQzBaUFdFX3BaQTlhTm5fQjlldkNZV0lsSmtCQVJtOFJjS2c5dEtydmVVUHJQXzFEejVhdkthUm0tQlJseGJvYXBkaDFMOE1nZw?oc=5
-- **Source:** Bioengineer.org
-- **Published:** 2026-10-28T11:14:05+00:00

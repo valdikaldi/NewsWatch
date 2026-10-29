@@ -1,8 +1,38 @@
 # NewsWatch — Iceland News
 
-_Last updated: 2026-10-29T18:07:29.651154+00:00 · 50 articles_
+_Last updated: 2026-10-29T23:49:30.004819+00:00 · 50 articles_
 
 ---
+
+## Visit Iceland Will Send a Real Knitter to Your Dumb Meeting so You Can Skip It - Matador Network
+
+- **URL:** https://news.google.com/rss/articles/CBMib0FVX3lxTE9RZFVZaW1MSjRQZHI4aFUzeUYyeFZ0d2w2c25LWWdBRDdmcWpWQUExbzFYY1RkeVNXTl9qRVlmX29JeWpXUEhlVkdCb09EVWlYTFdHeHhJYXVnYW5GdGVQcG9lTjJFU2ptWHQ1YmtTbw?oc=5
+- **Source:** Matador Network
+- **Published:** 2026-10-29T23:27:31+00:00
+
+## Bac Ninh native completes 3,000km road trip in Iceland - Báo VietNamNet
+
+- **URL:** https://news.google.com/rss/articles/CBMilwFBVV95cUxQWUZxTEZpWGpUQXVBU3dENFFvampncGFXOFltSktEZjBrV3ZyZjJNRGtIMmdReENkM1ZQeXo5LVVGRXgwbHZLWXdzUXk2RkstUDBKLXNSUkotLWQtWlMyejV0ZkszSThTSlVRTEtPb2xLTTVTLWZfWU83UVl0XzJFYzJZd2pibzhKcjFMUUpqcDNrd0xYR1pr?oc=5
+- **Source:** Báo VietNamNet
+- **Published:** 2026-10-29T23:09:00+00:00
+
+## The Rainiest and Driest Months in Iceland: A 26-Year Rainfall Study - Guide to Iceland
+
+- **URL:** https://news.google.com/rss/articles/CBMicEFVX3lxTE5ueHlJRVpLUG11TWRWRDZWTjNxRGU3WHE3dFpqd1BQTzBiWnQ0THd1TXJRRGRrdllHeWNJX3UwaGFBZGxmYWczNFMxVGtPU3I3TWlxbV9CQ2dSS0RrMU0tcDlIb294YnpMUmxSYmc2cEo?oc=5
+- **Source:** Guide to Iceland
+- **Published:** 2026-10-29T21:54:32+00:00
+
+## Tourism shake-up: the countries that became tourist hotspots and those that crashed - Ynetnews
+
+- **URL:** https://news.google.com/rss/articles/CBMiX0FVX3lxTE5nSnV5d1pCa3hLVnZUeno5TkhhZHkyOUZkSWRrUTUyQjItVklILUh2SEFFMTZ1eXNvT0RmYVlLbXpFSjd2TngyQ1B3bEV3b0haQ0NhYkl5YVZXbkxIVkJV?oc=5
+- **Source:** Ynetnews
+- **Published:** 2026-10-29T20:55:15+00:00
+
+## Air China’s new route, codeshare to boost China-Iceland connectivity - The Bangladesh Monitor
+
+- **URL:** https://news.google.com/rss/articles/CBMipgFBVV95cUxQVHd3YVJ6Yzg4RHV1Zk5fRXgzbHJVbVQ5bFdKVVY4ejVhODNpaWZoV2xlY0o4QmNaeXVGRWZJbWdwb3BhVTFmbGtqYmtCVDBuME5pc1BzSDFxQ1V4NFJQckdOTlllYVV5cXJxblNrenJ0c18za2tmSzZ4RU52c0x3cDZZeWNxMHhUYU53aG9wVVpYaVR3cjB5RF93X243QjFHaVJoajlR?oc=5
+- **Source:** The Bangladesh Monitor
+- **Published:** 2026-10-29T20:46:49+00:00
 
 ## Visit Iceland Has a Yarn to Spin About Pointless Meetings — LBB - LBB - Little Black Book
 
@@ -273,33 +303,3 @@ _Last updated: 2026-10-29T18:07:29.651154+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMimAFBVV95cUxONHdLUHFDMUxkcTFZSkgwb1FLeU1xTy0tNXlTUFBlbmxsNjMxZXdBUHhhcTZzT2lIZm5YdDd0akVNamhSYnpqRlQ2OGJZUkgwYlRBYVNqdlZBQ2Z4blEyRDNNcXBsRVlQOGc4Nmh5QlRRdFJNcklPVFRWeVRKUktVMW1rckZkQzNhTTA2YTVQb2s4Y1M1VFdsNA?oc=5
 - **Source:** TOD
 - **Published:** 2026-10-28T19:12:35+00:00
-
-## Iceland Government Approves Major Residence Permit Bill - Erickson Immigration Group
-
-- **URL:** https://news.google.com/rss/articles/CBMigAFBVV95cUxOZE1JWVdCWnFaV0V5eDBRUTNqZ3k3TUt3d0hqRFRtSUg3VzNUakU0QWtLUEZaOVhVcTBsMzBZUnhkVDJweHZLNFhZMGMzTmw5X3EyNFlsSldnLUNJakRZemhPWjdvdFhyNG91R3QzSXVVZU82cy03TWtnZ205dWJkdA?oc=5
-- **Source:** Erickson Immigration Group
-- **Published:** 2026-10-28T18:03:03+00:00
-
-## Vancouver's new Icelandic festival is bringing four days of live events to the city - Curiocity
-
-- **URL:** https://news.google.com/rss/articles/CBMiXkFVX3lxTE91RTJmN1pLeDlONWR0UWg3VHhTTnM0R2lMNm1fdE5zNzBnd21kTnBzaUFzVlpBRnJuemRyR2lYZGprY1FRbExWemJ1NUhHWjI5QlZqQkNnaUctM3VsU0E?oc=5
-- **Source:** Curiocity
-- **Published:** 2026-10-28T18:03:02+00:00
-
-## Weak mag. 2.6 earthquake - 12.5 km NNE of Flatey on Wednesday, Oct 28, 2026, at 03:41 pm (Universal Time) - Volcano Discovery
-
-- **URL:** https://news.google.com/rss/articles/CBMivAFBVV95cUxQRHpSdmR3aXZWR3gwY1E5TEJRNGlpbUxnRHZpMk81ODFtSFM0WnY0d2lpNENKaTJTV21WYnRYaEo5WG5NNmw4LXVkVTkxaGFMTms1dFBRVFVIRFozbG1ITlN6YnAwNFRCWjdIUC00TnBkOGthLTFxcUJqME82MUdiT3V2RUtUbl9Ud1ZObWNtanRDa0VNWncwOTBzMWhhNkpQVnhLbHp0YXRZQWtTcWpuRkRkVU1MOTVEQnpqWQ?oc=5
-- **Source:** Volcano Discovery
-- **Published:** 2026-10-28T16:03:44+00:00
-
-## Żółte alerty przed silnym wiatrem - RÚV.is
-
-- **URL:** https://news.google.com/rss/articles/CBMihAFBVV95cUxPaXQ4ckdLQ2RJVVhBUmZIdFZrUUpObTVBSlM4UmNxLWE4dEN1cE01MW1aMkhnS3N3WFBCU1UwVUFva0dOcERCVVJxUTNDbUJKTXEta3lWazBXTTdiUEdkWF9zWkI4b2wteGpETl9Ta1Ezb2JXVDRUbzJPYmRsbXNuOU9Fenc?oc=5
-- **Source:** RÚV.is
-- **Published:** 2026-10-28T15:55:27+00:00
-
-## Why shooting in Iceland has never been easier with Hero Productions - Screen Global Production
-
-- **URL:** https://news.google.com/rss/articles/CBMiswFBVV95cUxPNkhVN0JMZFJpTnp6MWhhTzM3VE96bi0wbXd6LWFlU3lPSGJZTjlJYm41MF91UnRNa1lqWHFiY3JOQ01DOFFUMFc5ZmhPYnJLNHhrVkZMZFlmX1BwcEZWQUlUSDgxZmpUZnlGaEVOdjNJNV95VDRaT1pNbk44aXh0ajFIZEhxOVhXbGVxT1I4eC1Sb1ctcG11N3g4Y2xVWE83Q1B3ZkR1WkE4bXlWSURVQVpjbw?oc=5
-- **Source:** Screen Global Production
-- **Published:** 2026-10-28T15:43:43+00:00

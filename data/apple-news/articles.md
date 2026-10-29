@@ -1,8 +1,86 @@
 # NewsWatch — Apple News
 
-_Last updated: 2026-10-29T18:07:28.003549+00:00 · 50 articles_
+_Last updated: 2026-10-29T23:49:29.126146+00:00 · 50 articles_
 
 ---
+
+## Form 4 Apple Inc: Jennifer Newstead (SVP, GC and Government Affairs) For: 27 October - Investing.com UK
+
+- **URL:** https://news.google.com/rss/articles/CBMi1wFBVV95cUxQZWN5bE55YTI1aDk2ZldhWGIwYm1sbWFKREV5Vk9ya205bkxKckNrdEZmR19mN0h3VF9fdzJIWm9EV2hrSlQ3QlhaZHk0b1JFUGVpdk5MenlzTjB1MXN0a2M2XzVybWotX2V0cWtqZ3NOSkxwTDFfSFpLUG52MG5TNThXaVNVdzY0MTlaemFDTTRvY0pKRjFEdXgwREotd0RHUmtrMkV1bWdBMFBaVFBZM2ZndWtFTWdKa29OeUxnX2NKdWNfakNVb2R0cEVlYl82a3B0ZTlWaw?oc=5
+- **Source:** Investing.com UK
+- **Published:** 2026-10-29T23:06:00+00:00
+
+## Form 4 Apple Inc. For: Oct 27 Filed by: Newstead Jennifer - StreetInsider
+
+- **URL:** https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTjNnUEJYZFRGTW90MzMyOExvTlFDZy1naXc4bDhHVkIxcW9zS1FIY2VhSTZuSS1TUk9RQkwySXNqM1JSTDZoSGFvZVVsRzcyRnVxX3c2Z0FRZmx1R3VFeGlRWVVIVHRNQmk3NlZOd21vRUZ6MXIzbS1uVkMyMlZSVGZpRVdUekNDSnFMMDJOaEEwTldyMjFhcUFkaVJQd3B4ZmpjRjZIanI2ak13QlMzVzVDcDJvTjJr?oc=5
+- **Source:** StreetInsider
+- **Published:** 2026-10-29T22:31:54+00:00
+
+## Apple Inc. (AAPL.NE) Seasonal Returns Chart - Yahoo Finance - Yahoo! Finance Canada
+
+- **URL:** https://news.google.com/rss/articles/CBMiZkFVX3lxTE8tSDFvbjIyRXV4akttRWd5SUF5bzVxNU0yelc1ekZ1bWVOZHptaFV0ZmRPejV6cHhGV3lrNkV1NmQ1ejVQWmk1UlVQOWdKNE9LYlhaUXVaZktSZHBEMWxXc1RZdnZXUQ?oc=5
+- **Source:** Yahoo! Finance Canada
+- **Published:** 2026-10-29T22:31:27+00:00
+
+## Apple (AAPL) executive sells shares at $343.36 under a preset trading plan. - Stock Titan
+
+- **URL:** https://news.google.com/rss/articles/CBMipgFBVV95cUxQaW5zOTg3S2lmVmRhem1UYVVQZEdGQkF3UXd2Snpib081eVpyUnE5UXBzb1VIOUNQWUllWm8zeFVKMkNVZWhoaU9XM1hBRTI5eTdYOGVDNldyYS1BMDE2Y1plSEJGSE02TGp1RHp5akZfN3RCLWI2MVhCbVJZQjQ4QktGTUdjaWdsRTZEa3VDQmdrcmZ6cmJZbTVIYXc5V2hrWWU3eGZR?oc=5
+- **Source:** Stock Titan
+- **Published:** 2026-10-29T22:30:40+00:00
+
+## Apple Inc (APC.SG) Seasonal Returns Chart - Yahoo Finance - Yahoo! Finance Canada
+
+- **URL:** https://news.google.com/rss/articles/CBMiZEFVX3lxTE10RlVBR1FJMGFiZmVMV2pSV1ZPMTM5eXhVYUt0UGtOUWo5bTJiM21MS1dDaDRIWTN5T005UGZVM1dmY0hUX2hIbC04Y2lSc2toY0I2VDBrbkpCbUtFT0VUcXdRUTI?oc=5
+- **Source:** Yahoo! Finance Canada
+- **Published:** 2026-10-29T22:26:10+00:00
+
+## Apple Inc. (AAPL.VI) Seasonal returns chart - Yahoo Finance Australia
+
+- **URL:** https://news.google.com/rss/articles/CBMiZkFVX3lxTE5YUXIyaU42cUNLaXJDcXNWeGptZFFhYVpUUlR6S3RWRXlrZmJDSERicHBmWGVKWl9yekZUQk1JZ1BUNy1DOXlmdUd4d0xhTXp0ZE0yR2YxalRKOTVzTHpqRnhWUS1hZw?oc=5
+- **Source:** Yahoo Finance Australia
+- **Published:** 2026-10-29T22:14:53+00:00
+
+## Apple Inc. (AAPL) Seasonal returns chart - Yahoo Finance Singapore
+
+- **URL:** https://news.google.com/rss/articles/CBMiYkFVX3lxTE90ZDlvQVhaSjJqNThGTUFQb0dubUM0V296MlhsZ0lHRm5fZUUyR09Id08zSjhrSF9wNXJCeWMtRDZvOU10QVZjdTVJRVA2bjJHNHBITUgzakp1M2Z4TGRjNEtB?oc=5
+- **Source:** Yahoo Finance Singapore
+- **Published:** 2026-10-29T22:12:24+00:00
+
+## Apple Inc. (AAPL) Seasonal Returns Chart - Yahoo Finance - Yahoo! Finance Canada
+
+- **URL:** https://news.google.com/rss/articles/CBMiYkFVX3lxTE9RRHhINjlwY1dZSFRDTDc2X1RTVlBsdzIyUEhSdXBVeHNMS0FXZGdqbVRIYXRnOS0xUzc4d1JmRUFINmoyQ3pFWHRfdU1UR04ycVVITVdNbVVxWnRDRnlHMUR3?oc=5
+- **Source:** Yahoo! Finance Canada
+- **Published:** 2026-10-29T22:08:50+00:00
+
+## Apple Inc. (AAPL.TO) Seasonal Returns Chart - Yahoo Finance - Yahoo! Finance Canada
+
+- **URL:** https://news.google.com/rss/articles/CBMiZkFVX3lxTE1xRGw3V19FaHRPYUZZb0RsRDdJb3dHZTF2bFY2OUQxTUZzRlJFSTRub0p1MHRGaUphZUtVb1NEbzU1RzhoQU1ldVVLVW9Cb1dTVXpPYTRvdjZVaGJ1QWtMcEhha0hDdw?oc=5
+- **Source:** Yahoo! Finance Canada
+- **Published:** 2026-10-29T22:08:28+00:00
+
+## Apple Inc. (AAPL) Seasonal returns chart - Yahoo Finance UK
+
+- **URL:** https://news.google.com/rss/articles/CBMiYkFVX3lxTE04VHlFRWg4SlJGTjh5Mmp2QW9ucURicEZZUm91M1RlZDRITDZtLVlLOGVlanpLbC1la3F0Q0ZTaEl4UlVremhvZ0JXWVpnbHdPNlQwckVmQ3oxSW9MQ2FUdHln?oc=5
+- **Source:** Yahoo Finance UK
+- **Published:** 2026-10-29T22:08:21+00:00
+
+## Apple Inc. (AAPL) Seasonal returns chart - Yahoo Finance Australia
+
+- **URL:** https://news.google.com/rss/articles/CBMiYkFVX3lxTE5pZWwzYzV6ZnUzRzEwdTNya3VuS3NIOHVLbzFyX3VYcm84ZzFLWHR3bGdkZFVFT082Qy0xQVdiUGZ1RF9TME5Zak9qX2M5X0dpNVVoZFJNNHl4S0dCemdyNjJ3?oc=5
+- **Source:** Yahoo Finance Australia
+- **Published:** 2026-10-29T22:06:09+00:00
+
+## Apple shares hit new all-time closing high - MacDailyNews
+
+- **URL:** https://news.google.com/rss/articles/CBMijwFBVV95cUxNaXpJQ0J6WUtiU1g0SFhWcVBMeC1iNEdqdmhaREVBb1JhWjFHbUxwSzZnMlNWenBvNTNtTFlTRFpMVkc3aldxWWlpUVUxZFlub3AyOWdPMTlScjVkSHY0a3JTd0F3bWpSdmF5S0JkU2ZCWkVxMWNwbkt1QVh4dkxKTTVWdHVkbE9NZ0xJcTRuY9IBlAFBVV95cUxPNnEwSS16NFZDaWQ0NzJIZFYyaG5uYVdORmJwZ2sydzRhN1FubWE0LWtFSmFyZHNqY3hHcDFIZnFFdS1NZWNMaFk4Yk1kbkd5c2d4VHlsT19OT2pUWGU2T2hoWWFQM3hRdG5UYkd1eVhPLTBCVHdHYkdubDUwYWdtMWFlNXBybmRlVjJzRDVTTkFzUG1M?oc=5
+- **Source:** MacDailyNews
+- **Published:** 2026-10-29T21:00:17+00:00
+
+## A 20X Valuation Gap Separates HP (NYSE: HPQ) And Apple (NASDAQ: AAPL) - But Does It Tell The Whole Story? - Foreign Policy Journal
+
+- **URL:** https://news.google.com/rss/articles/CBMi3gFBVV95cUxQbDRxWXJxNzNfemtYRzlyR2lCUWhjdTFhRHUtUE95MXM2Skhmc3JYSkNSMDFSNnQ3ckVQZTFJM3d2eGozVEh3WWVmbWdhbjZNaVFxQS1lV1I3T05qaGxsSVNfRTlYb3MzQ21YcHhSUTNBc2dsQTJkUmkwaWlHbWRLb3RoNGNBMml6OS1vVTdpYXRERDg5YTJHN2ZJcnRKT0J6THJtdlRwZGVhQUhTREE5OEV0WVVmVEU5amxJZ0RJakFndlgyVEEtbndGa3ZqTE5MbnBpTWZUaGlaNTNaYkE?oc=5
+- **Source:** Foreign Policy Journal
+- **Published:** 2026-10-29T20:11:00+00:00
 
 ## Alphabet Sinks 11.8%, Small Caps Rally on Strong GDP Growth: Stock Market Today - Benzinga
 
@@ -226,81 +304,3 @@ _Last updated: 2026-10-29T18:07:28.003549+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMivAFBVV95cUxPM1p2R3MwTFlrSjJFdWd3QlNRU3k4djhCeHc2bi1MblhMRHQwbFZidWJWS0lPWWhrblVKbDE0WFpxVDhOQ1JBVTZOVHZ2dGVPaGRFVFlDZHFJRFZqSDFLOHNSVkhKWlc1NWp1dy1ZZmFaWW1PdWNCWkZaU1h2ZnBySklWYl85NTk3TjdzTkpWdmxyUTJvN2xSTldJWHlaeW9CcjBHVTFSUUVGdDhPcWgtVVZMVDBlTTVyTTV2cg?oc=5
 - **Source:** Bloomberg.com
 - **Published:** 2026-10-28T17:19:12+00:00
-
-## Apple takes wraps off MacBook Pro with touch screen to end product blitz (AAPL:NASDAQ) - Seeking Alpha
-
-- **URL:** https://news.google.com/rss/articles/CBMirwFBVV95cUxPNVZqNVJZNmM5VGtOSXNuRnN6Z3VEQTl0OTZUV09DSTF6TEJnNjg5LWJGOXdZR1h2aEgxcXRPVmp1RGpyV2VOX0ZNRWlzbHJ1MWdLVHk3eHlwRFNpWnpKLUdWMXVLOE9rNG5ZNnBzU0NRVVVMV0t1NHhIWU1DeUY1bG9oWVFhQ3VMNzJQdVlveHhLX01pdS1RaXhFTmtWMm5rb09HMTVXS2lrZGs3VGVr?oc=5
-- **Source:** Seeking Alpha
-- **Published:** 2026-10-28T17:17:32+00:00
-
-## Apple brings touch to the Mac, reversing years-old stance on touchscreen laptop - CNBC
-
-- **URL:** https://news.google.com/rss/articles/CBMieEFVX3lxTFBPNFViTGtJWVdWdkpvQ2ZneVVGcWdsV0RCRWFPeW1GY2V3eUVIYWxLMER4ZzVBdmdtSl9IZ3ZkMlYxRTdZTHlZRHAzM2xFRXRidjFUa2hMU25RbmNLSzVsU0E0ek5CM1JDcHVxdG5Xc2VUREl3aWwxOdIBeEFVX3lxTFBPNFViTGtJWVdWdkpvQ2ZneVVGcWdsV0RCRWFPeW1GY2V3eUVIYWxLMER4ZzVBdmdtSl9IZ3ZkMlYxRTdZTHlZRHAzM2xFRXRidjFUa2hMU25RbmNLSzVsU0E0ek5CM1JDcHVxdG5Xc2VUREl3aWwxOQ?oc=5
-- **Source:** CNBC
-- **Published:** 2026-10-28T17:08:09+00:00
-
-## Apple slated to unveil first touchscreen laptops amid product blitz - New York Post
-
-- **URL:** https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUUxabWwzcHJDdW1kSkhmQi1ZOFNPeXVFN0xPUHZJMXEtd1VIWjB3QzN1aGZKOUxYclpwOURVWElxTzExRVNHYXp1c2ZtejNCSzY0eFpaa0l6X215d19ENHEtMmtpTGNTX0NpTzAySktlUm10RDJnV1plQWVSSmZlN3JEM0NINmFhZXRPSF9iNGhMUV9mVkM0dWdnRGVpSUE2THpNMmhEYVhhaWs?oc=5
-- **Source:** New York Post
-- **Published:** 2026-10-28T16:57:00+00:00
-
-## Apple's $2,000 iPhone Duo Shrugs Off Early Screen Issues - TradingView
-
-- **URL:** https://news.google.com/rss/articles/CBMitgFBVV95cUxPU2ZFdWZlMVliNDE0Y2Z4dUcwU1N6dEFTdmhOX29LS0pnN1ozM29FWlpRUHdkck1kWXVFTWFmWkVzY3dwbDZaSzlONzhwbHdCV2pMOXNBRV9QMm94ZTFxV1JTSnFCdHFJYTA5cnd6ZTRGTm9hek5CZUxQTXBWVUU1LU9ZZVJoVmM2X3dmVW9YY0JRLTNxYTBEam1DOUFtZUNJMGtpcVk1OHhJUDFlbF9PVHRCU3Y2QQ?oc=5
-- **Source:** TradingView
-- **Published:** 2026-10-28T15:33:32+00:00
-
-## Judge orders ex-Apple engineer’s ChatGPT and Claude records handed over - Cryptopolitan
-
-- **URL:** https://news.google.com/rss/articles/CBMie0FVX3lxTE5zSF9NUGp2bUk4X1llMEVEVGRjWkVCZHBFelkzdE1rekMxZUVFR3lfNWJDYjhWN3JuZU9FRHhNVjFyT1BUcGtja2ZZNHVMbnJOeTdIRkZZUnNLU2U4QWoyUi14Ul9aZ2FXLUx1bV9lZ3l2UW5KSng3cGJyaw?oc=5
-- **Source:** Cryptopolitan
-- **Published:** 2026-10-28T13:58:18+00:00
-
-## South Korea media commission fines Google and Apple over app payment systems - Reuters
-
-- **URL:** https://news.google.com/rss/articles/CBMitAFBVV95cUxOcW4xekU2MEFsTlhLV2hTT3luWGVvLVVlb3FWVzJOV3hDX1R2eDFzNVRfQWhCSDFOOE1obl9rblBfSldIYTdwMGlpbmkySzYtYTBZUDZJdXNrUUxjSEw1LVNEUGYwN01obGJOTExsQXdoSm1zMldSS0tUek16cVFqU2I2M2stQXo0eGc0NmNCa1dlV3VBYW0yNGdkYXg0emQ3SFlmbjlmcHQzd0lRZUtJUDlWLWI?oc=5
-- **Source:** Reuters
-- **Published:** 2026-10-28T13:04:46+00:00
-
-## Apple in spotlight as Monness, Crespi, Hardt ups price target on new products (AAPL:NASDAQ) - Seeking Alpha
-
-- **URL:** https://news.google.com/rss/articles/CBMiswFBVV95cUxNXzNLSTBNbGdOX2N3WExQSGkyRDFHYkFyVEwyOF9SRTl1b251TW02eEtMdUhGRUZPUWEySzcxY0FXYnMwWWo3QW9KdEduQTIzbEM1eTJ1SC03ODQzR2U5Uy1aclkyb01seU5ycEp6d1RxekppYTU2TXhzQmVZeVJ0Nlk3LWwzV1dLaXJOOXY0N3VSVW9DT01qYmVwdDd4alhNUnp5b1YyMks4ZzRzblg4cWhrWQ?oc=5
-- **Source:** Seeking Alpha
-- **Published:** 2026-10-28T12:13:27+00:00
-
-## Delta Air, American Tower, Apple And A Health Care: CNBC’s ‘Final Trades’ - Benzinga
-
-- **URL:** https://news.google.com/rss/articles/CBMizAFBVV95cUxONktKWnpCeC1LOUdXd0lTR2lPZl93ZkFUcERsZHc1eGVnS0NBU1htc0V2a0F2eUF2dVRDTmhPM3ZGQkppRC1TMmt2LXpFVXgwMlNoMDJpV0c1MGVOSzVaNG42QldxYUVYVGxmcko1b0FUQVpjX0tjNF8xQkxJbUYwTWprbTg1OVg5YXdtLW9sVkNGSW85Rkc3NFlWVU9QX3NNSlU1UzNyd2o5cWJLeDJCSFhZSnZKM2dxci13UDFBaVpOOHZTTEhJWG02R1U?oc=5
-- **Source:** Benzinga
-- **Published:** 2026-10-28T12:06:18+00:00
-
-## Invesco NASDAQ 100 ETF (QQQM) Adds NVIDIA and Apple on Oct. 26 - Yahoo Finance
-
-- **URL:** https://news.google.com/rss/articles/CBMilwFBVV95cUxPUW91NHZsVG0xVm9oTmUyM3pCWjN4eEcyX0J3dENJMmdXNHBQS0R6UlZ2OThyb3ZxYU81MWhsYTNyTlpkUVBQQ21EcnQ3TndWY0tPYkhqMjRoMGNlRFVwMmdzYktkSThwRGpacUM3UTY2c3JVTHgwbWhCTUxHQlZhYmUxUGtzTHNFR2c0Tk81dDh0WElhc1hF?oc=5
-- **Source:** Yahoo Finance
-- **Published:** 2026-10-28T11:04:24+00:00
-
-## Apple Inc. $AAPL Shares Sold by Ninety One North America Inc. - MarketBeat
-
-- **URL:** https://news.google.com/rss/articles/CBMiuwFBVV95cUxOR0dlNGxKLTVJRjBmbUtzenRaeGFjZnUxSG1TS1pQTm9fM04tcDN1Q0p1QTBWV2JsYTBLYklaaUlyVG1DaXNTWk45Y2pGa3VjUVJ6OUczY2tpNUtIRTgzSmdhd2xjaEx5cUw5UlFJNG5MZDdhYWJXWG9lXzlLVEloOWRPUWZUc0xucTlubTB3Z0t2Mzd3TWRCUGJSakE0Ul9pOVlaVDVfMDMtYTVvVDJFcHYteDdPNldHXzNJ?oc=5
-- **Source:** MarketBeat
-- **Published:** 2026-10-28T08:41:21+00:00
-
-## Apple Inc. $AAPL Stock Sold by WealthPLAN Partners LLC - MarketBeat
-
-- **URL:** https://news.google.com/rss/articles/CBMiswFBVV95cUxQOERZaXZrNDBwTmt1UnoxcVNlZWU4d0k3Wm9wWlFzUjZ4cXJHeE5GR29xNVdmTGphcGdaelFMc0VVLUhFZTBDM2lESXhxMlBEWW5TMWtKNG5PdEVrZGNMU0NwWUJ6Z0dyQWdlUTAwWXFsSXFpOWdmSTBSdzhuWjJsdDNZZ2F6RmpBUGp3ODFreFA1bzFZb1JNZmRfOUg5RzRjWW5tVXRBOEJ6Qy1EcXVhY0daaw?oc=5
-- **Source:** MarketBeat
-- **Published:** 2026-10-28T08:41:21+00:00
-
-## Apple Inc. $AAPL Shares Sold by Ninety One UK Ltd - MarketBeat
-
-- **URL:** https://news.google.com/rss/articles/CBMirAFBVV95cUxQY2J0NEgwX2xhckkxOEVoZFdaMC1pdUZZVVJ0QXZjV3JmeTgtQVgtcTAxZ2Vqd0JfanllQ2IzYldla2dHeUtUMGo1MXBUX0NGQXN3SFlqRHc2Ym5qd0V5UTlyYzJSLWdZa0ZXTENvdTUwSGpPQ1h4c3dpYkxiVTNzeDc2M0R5dy01SlV2ekN2TkVVdEFsZHB1RjcyeHZRUzdUVTNRODh5Uzc1TFBL?oc=5
-- **Source:** MarketBeat
-- **Published:** 2026-10-28T08:41:21+00:00
-
-## Apple Inc. $AAPL Stock Acquired by Saxony Capital Management LLC - MarketBeat
-
-- **URL:** https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSS1iYnlYLTh1THRuZzVyRjNUSGl4T3ZBNVplVGw0bWJocUZ3OUdJcEpVZmlXcjVtRlRwN2JKYXA3ZFQ2TnNVazhTdTBITTdRanNsVm0wZDBfSEhDclpqM2tPdzB5N1dvX1JFT214LU1CRWNqZk1qNHoyaWw5VW8wVFBaalBOUEZXRmY4Si1XcWdRX1RIRkdXcV93dE1tenQwMkh4SF9NaGlEUWZWZEp6eFpvZW8wVWJCSkpqX2V1a3A?oc=5
-- **Source:** MarketBeat
-- **Published:** 2026-10-28T08:41:21+00:00
