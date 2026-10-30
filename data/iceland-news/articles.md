@@ -1,8 +1,68 @@
 # NewsWatch — Iceland News
 
-_Last updated: 2026-10-30T10:43:44.254936+00:00 · 50 articles_
+_Last updated: 2026-10-30T17:47:02.678296+00:00 · 50 articles_
 
 ---
+
+## Prices reduced on new cars - mbl.is
+
+- **URL:** https://news.google.com/rss/articles/CBMijwFBVV95cUxQWDdLSk1HSk5RSjlFc0lYQVZoTUhFUlRvSU9VRnNWdElHVFQ0UVE1RkFUdW5LeEMwMWFlQjUwQXhIS3FUajhyT1k3RC16cWYxRnh3RlRrZU5iVDduNnJnZFc3WU5mOEVSMk5WdFpKOHRwbmswQTFkdk5HeFdNNGNJYUw1NmxnX0NpSm9KSV9qYw?oc=5
+- **Source:** mbl.is
+- **Published:** 2026-10-30T17:12:00+00:00
+
+## Iceland Sends Knitting Experts to Business Meetings: New Visit Iceland Campaign Offers an Alternative to AI Assistants - media-marketing.com
+
+- **URL:** https://news.google.com/rss/articles/CBMi7wFBVV95cUxQdWFUdmtRZGlKYU5kZTZiWWNmaW02MjFTSWQ5WUNyUXQ2cHhxelZwMHRHblFJSFNoSUt2d2k5d25vakttazBKaVRNa2EwTG9ybjdiZWY1UnJRRDlzcXZPQzZwOVZqSHNUX1ZXSG1sNE9ydF83Y1lxODBHVWF6bXZZU2RscDdzS01CU1VjRVpoZ19aTkJRVDA3U3kzSkNZVFJwR0gyNFJjWXk2NFFDT2FRNGVjdDFmY0RYelg3VDRnejdUSHloVlVQb1l6VW9DSE1tVXcwYzgtQ2NtVlVGaFdFb1RKQldpZ3EwSU5vZHBQOA?oc=5
+- **Source:** media-marketing.com
+- **Published:** 2026-10-30T16:24:23+00:00
+
+## Reykjavi French Shop with the Best Sardines - Iceland Review
+
+- **URL:** https://news.google.com/rss/articles/CBMijwFBVV95cUxPZ1dHcjh6MnFmeDFVZ2JLVF8xbXVDOFg1STRhOF9QdW50by1iZGg2SHdxYUFVbEQ5NFNvcnhRa1pTOGo5Y0Z2Sk9RZ182UG42cDVUbm9Cc3ZuR3JzTjU3X0Myd3c2U085d1Y2UF9TeEs3Ry1Cc0NKRXR4dk5meHJ1QVRpNEUwTEI1YjljUmR3TQ?oc=5
+- **Source:** Iceland Review
+- **Published:** 2026-10-30T16:00:41+00:00
+
+## Iceland’s Top Tourist Attraction Blue Lagoon Spa Plans IPO - Bloomberg.com
+
+- **URL:** https://news.google.com/rss/articles/CBMirgFBVV95cUxQTVVxM3pyRVVwX2RzT1JUdFZiQkttakgxRElPM1ZMMXFZcjh1X181ZnBJZzJoZnFWWHllZ0h4UHFFdnljdW1JN2djdGowUko1LWFTMHpFMF95NW5obEdFSWMybllxMWpXX3d0UFBuSjdCbnBQM01lZU16S1JXOENGd2Vxd3ZpcU95X2NaWVlibGJGbkRWMDZ3dTBUek1mcmZZVEtrUGliSkRvRHUteWc?oc=5
+- **Source:** Bloomberg.com
+- **Published:** 2026-10-30T15:14:52+00:00
+
+## Blue Lagoon shareholders approve stock market listing and staff share options - Arctic Today
+
+- **URL:** https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdlVqSHhvbU0yR1RrN1lXbDZvbDAyVXEwWXFFM0V4SWFocGVWYzlKWmhaakU3MVhuUmFaUGlUanp6QllSR0hLcVcxMmpQdmozeWdJbzhNcjI1WElBMmZVUTdIX1lzUHhvU0I4MnRDeHFlLVdSU092YjQ4RGJmLXBHSDF2WXRVbk5qcHNTdFU2azBzQm9ZVjFHSThfTkQwUGdscDk5XzVuZnY0QQ?oc=5
+- **Source:** Arctic Today
+- **Published:** 2026-10-30T15:13:57+00:00
+
+## Air China Adds New Beijing–Iceland Flights via Copenhagen - Rus Tourism News
+
+- **URL:** https://news.google.com/rss/articles/CBMiogFBVV95cUxPNUI5WEhJNS1WaUktVVprRGRUeXA2d3pjWGt4OGI1V21EZGF1NjhyTmpCd2Z5NE5pS1dvZ24yQmo5WDlfQ2lkWlR5Y3RHUFpsSndjQnFVX2NZdWFpMHdzbWJmcGRlVHlvNkY4ZTF5S1lsUVd2MHpOYWoyeWNPZlRaU2g4QzYxWkJITW9oclpYeWRDVWRQX3pZY3hQZ1UzTldIOUE?oc=5
+- **Source:** Rus Tourism News
+- **Published:** 2026-10-30T13:33:46+00:00
+
+## Icelandic Electricity Too Cheap? Landsvirkjun Chief Challenges Fine - Iceland Review
+
+- **URL:** https://news.google.com/rss/articles/CBMijAFBVV95cUxOZ0k4SVhxbmNyMGNpTzZlX2JOcU9YX1dKWURYeDU0OVRfWUpwcVNwc0hTbU8zVWFQZWFLRnlNT2JVdXVDQlFPdGxQY3NpU1lIeFY3Ujh0X3g5TXljZXFobTlGYTctS2Rrd3hsYlJDYTNSb0dtZ3BUNy1CeFA4UHF0cDllUUJLNzJDa2xCbw?oc=5
+- **Source:** Iceland Review
+- **Published:** 2026-10-30T13:00:26+00:00
+
+## The Watchers Become the Watched: Icelandic Host Refuses ICE Data Takedown - Iceland Review
+
+- **URL:** https://news.google.com/rss/articles/CBMiiwFBVV95cUxOQzBDYklSUGZUckxsUVJZdlVYeGdTRTkzSW9JMl94Q0Y5N1NKR2k5SEJDN2NQMkN5N0RINFEzeFNVTXFWNFRnUEdmYlBwSXBGdF9xeUZHTTNoTWpuXzZyWW51c1JtVlo3YUFGOTdEb2RpUkRXMlMyVUpUNVVfdnlWTnQ5ckJlQi1MQzdz?oc=5
+- **Source:** Iceland Review
+- **Published:** 2026-10-30T12:00:33+00:00
+
+## 'Tilikum in Iceland,' by Robin Jones - Santa Fe New Mexican
+
+- **URL:** https://news.google.com/rss/articles/CBMizAFBVV95cUxPczlHRzFUUGtMRHlDUHFNMHV0M1ExNGJwbzJkOUprT3NfSHpwOVY2cm1GMV9vNlFtWU94NzdLUTN4VlEzOUthSU9OTlFaSmFFZmI2UnhZWEJsQlJweUN1RjhDZGI1cTZqdFJKdjFqeTRFNmM0ai1ia1JWWWg5dkh2dmpsS0hoZXpDWm9PVzNMeWNya0hpbTNtblkxcGpMbmRSX29sYVJmWEYtV0NZd2RKTWZaNTFaeGZrbXZuVGhlREp1RjBEQjdYMklSSHY?oc=5
+- **Source:** Santa Fe New Mexican
+- **Published:** 2026-10-30T11:00:00+00:00
+
+## Arion Bank in Exclusive Talks to Sell Blikastaðaland Site in Iceland - www.marketscreener.com
+
+- **URL:** https://news.google.com/rss/articles/CBMivgFBVV95cUxQMEpMcTlhUmVRSEhPdElPX3M4QS1EYnJBejFBdkVLeS11RDJKTkdBeWFaUGRWWWF0VlYxdF9kZ1U1UWI3ZnFkUWk5blVaVTh2dFl6WFpYUG5fR25BM2pVSmVKLVpkMWxMVXpDdVJpSURnOXVLeVZkWGVFMWk1djViSU9FNUlSYmkyRy1pNEdVWHpsUlFMX1gza0gwRDREb3JQUkNCNWVjRWFDT2kxQ1BkMUVjN0ltUllvVklSYzRR?oc=5
+- **Source:** www.marketscreener.com
+- **Published:** 2026-10-30T10:44:28+00:00
 
 ## AI Knittakers: Visit Iceland’s answer to meeting fatigue - Travel Daily News International
 
@@ -243,63 +303,3 @@ _Last updated: 2026-10-30T10:43:44.254936+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMiqgFBVV95cUxNa2FoUVQ3cnF4MHhscWJ5Z05XelVJcUhyaWJtTEpiN0d4N0RoZFR3ckNhV1hFLTU4TGNRamZSVFFRcDltM0F6OFdvd3RUYVFNSmRtRXpJaFk1NGdkR3JFVldxX20yckhkQnVLY3hKR2JScTI4VnlqT09NbzdWYlQzYnBYX3NHNS1WczF0cXdTT2k5SlVweldLNFVOMURXSXB4Vmg2ZzAtbUplQQ?oc=5
 - **Source:** 巴士的報
 - **Published:** 2026-10-29T16:09:00+00:00
-
-## 🇮🇸 From fisheries to ferrosilicon – the project behind NIB’s first loan application - Arctic Today
-
-- **URL:** https://news.google.com/rss/articles/CBMiywFBVV95cUxPb0JzZWtqck5paWdDdXBIMlVhOTRVVUo4czZVbGZhTjRkUGVJclFCT1dQSFRnNDlwQ05hUXRkSXd3ZnV5X285SGswc0ZockZCYUpRWkNQbTFXY3FUaEZBVlVwendQTUlrMkROQTZoWlhfYXlJQTUtZ2M5VS1YZ192aE1LTHdNQ2prcnpRN2hNT0VLR1FOU0Q0NER1cFFDa3BFOHdrV1Z4d0VtWTdySVVNeXU1b0RXVDYzWFZxdV9neGd0Qmt0cW1IbTcxUQ?oc=5
-- **Source:** Arctic Today
-- **Published:** 2026-10-29T16:05:37+00:00
-
-## Foreign Minister Wang Yi calls for deeper China-Iceland cooperation - CGTN
-
-- **URL:** https://news.google.com/rss/articles/CBMiwgFBVV95cUxNS1FpNGU1QUlhSzlWcmdVQWpWRmRmTnR4S0h2Z0JSYm1FMUs1Z3JsQUw1Y1d4cEp5bWZWX0YxM2szdy1DYmhSN29wMmdUaERpNF81WVV0c2Q3czU3YmtZNVprbEE2Qm5EOFhWX2x1ZzFfSHNPb243bVlQZW0zVVF5R2hGX296cUFZV3QtQzNIaEtwWVZtMy1LbWZCN0N2eW1tWGFlclZZZHdUMVN0ZHNwaURBM3JybjNKbWJaZl9neWZ3QQ?oc=5
-- **Source:** CGTN
-- **Published:** 2026-10-29T15:11:37+00:00
-
-## Boluda Shipping to Acquire Samskip in 2027 Deal - Iceland Review
-
-- **URL:** https://news.google.com/rss/articles/CBMifEFVX3lxTE1xMS00WE9pa2NEaF9zclZDUFNKWnVWX0Y4UXVreXVnY0Z5Q3NfaHNuWW1abW9Td0p6UG14cGptWG5rMHljbjFYUHlwdnRBRWc0dHhkLTYyMkg0YmU5OUx5MWZhdkVtZTdkQ2NrZzNFZGRLbGlkYkNmOEJqLVc?oc=5
-- **Source:** Iceland Review
-- **Published:** 2026-10-29T14:00:34+00:00
-
-## John Snorri’s Last Winter on K2 - Iceland Review
-
-- **URL:** https://news.google.com/rss/articles/CBMidEFVX3lxTE1jRjRyWXlteXlxNVNmVE5waVlDSU84TTNiZ2pEYkstZzRmZlI0NmlkeW1xMk5obDJpN3RMVGRkNEhvRDJWVXdZSUN1YklhMF9CN2I2d1ZtRzFhZElWMmM1WFpiSXFwT0IwU1pCb2otV2k5bXdY?oc=5
-- **Source:** Iceland Review
-- **Published:** 2026-10-29T13:00:10+00:00
-
-## The UK could be getting a direct ferry service to Iceland - and it would link a major British city with one of the most picturesque towns in the Fjords - Secret London
-
-- **URL:** https://news.google.com/rss/articles/CBMia0FVX3lxTE82bUtpRjBFUjhTWkJicnAyazJPdWRlZzdKR1hDOE9oRGpUQWFZOG9jeUNic2cyU181VkN2WXNhbnluUllzRHZSRFAtM0NNUFZmMVpkc1RIRVBDTTlQYS1SVExVWVBnNHpwQzNr?oc=5
-- **Source:** Secret London
-- **Published:** 2026-10-29T12:56:07+00:00
-
-## China signals closer cooperation with Iceland - mbl.is
-
-- **URL:** https://news.google.com/rss/articles/CBMiqAFBVV95cUxPb1JPYzFzSnAxclBtcWdSQTRFcEw1VUNsVnR0bFZfSjlBVmNSOEJpR2l2YlFTbkF0a1B1ZktwTmFXNEo3eVF0U2VBNHp3RGVfc2FGVHZSZC1UTklxRXFPNExqdlJ1VEFKRmQ4NHp2Y0pJOE1aOWFsTmRZRFNUbll0M0FnZkZXNGUwb0E3a0pqaGZqU2wzbGRWVHRYOHJkY2F1ckZJc0UwTmU?oc=5
-- **Source:** mbl.is
-- **Published:** 2026-10-29T12:30:00+00:00
-
-## Síldarvinnslan’s Börkur Lands 1,550 Tonnes of Herring - The Fishing Daily
-
-- **URL:** https://news.google.com/rss/articles/CBMiwwFBVV95cUxPMVg2bTNrQ1lLbGF3VWpKTkJWUGhMeW1SYUJ1d1U3ZTVqcFJwT1B0Z1U1dWtUZjJMc0M4Mlljc0JKamdDdXFDTTk1ZjNlQ211VTByUTlvQ1k0dndUakhpNXM0TXUyZzAtWlg4c09jZGxrcUlSSEctZ3FBN2EtN2tST1JPTjNjVnA1emtfZFdKZC1zX0h1Yk9OUmZ0LVdDOVRCeUpCdHhERUx2U1ltSHlfa2h4aWtCS2c0QUFHZk9ScEFLX3M?oc=5
-- **Source:** The Fishing Daily
-- **Published:** 2026-10-29T12:27:47+00:00
-
-## Tuition Fees Announced For Non-EEA/ EU Students At The University Of Iceland - The Reykjavík Grapevine
-
-- **URL:** https://news.google.com/rss/articles/CBMiswFBVV95cUxOWEhveDROU0NTckc0U1RhV0JlQlNHZ2djSEZ6Tnl4b1VCUXlzQXg1N3VyT2JMYWhzdzJEMDBJTFJaUy1MYTN0ZzdRd2IxX3hZSHNsZ2REejg5eE5BS3lCaDNTUnRwMl9rU0sybU9sZ0dEU1FDek0zNXZGX3VLQlVwTmhrSGNvQi04VHdobkMtM0NNbWt3LVA3Y01oZHgycGdVd18wOGRxUHJOeFVHMGlBUHhmSQ?oc=5
-- **Source:** The Reykjavík Grapevine
-- **Published:** 2026-10-29T12:25:49+00:00
-
-## Iceland Plans Stricter Permanent Residency Rules for Foreigners - TechJuice
-
-- **URL:** https://news.google.com/rss/articles/CBMikwFBVV95cUxPZ2phbnRjWnVaT053TUljdm9EdzVIVVJzODlnR184ZjQxd04zTFFkS2Z5N3p2YnBER0R0c3JrSGNxZmROdEVQQko5OEJPaUpHRV91ZzJSS2J0YWZpRVBxcWdEQ1JOd1UyLXhGbGwwSlBmazFIQ3Q0b0dKMWlMM0gyM3NMY21zSGp2bFNDYUZJNV84cUk?oc=5
-- **Source:** TechJuice
-- **Published:** 2026-10-29T12:15:19+00:00
-
-## Iceland Sets Out 2027–31 Law Enforcement Plan - Iceland Review
-
-- **URL:** https://news.google.com/rss/articles/CBMif0FVX3lxTE9uOFowS3N0ZUNhNnhWU3luMlBPMEUxd0xadnV3NzVXN3pLWkZRMVVua1paTlNHTnM5Y2xGNEdBV1M4QV8xOU0zdXY1MFhQLWg2ZEZfb1B0cU9fdHdKZzQwb25LRjB1WjlSUnlDM0F2N01LS0tPNUZTUjlEOVVua1E?oc=5
-- **Source:** Iceland Review
-- **Published:** 2026-10-29T12:00:26+00:00
