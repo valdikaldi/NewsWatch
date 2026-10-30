@@ -1,8 +1,128 @@
 # NewsWatch — fusion energy News
 
-_Last updated: 2026-10-29T23:49:30.326279+00:00 · 50 articles_
+_Last updated: 2026-10-30T10:43:44.722573+00:00 · 50 articles_
 
 ---
+
+## Pokemon TCG Pocket: Best Mega Mewtwo X ex deck guide - Sportskeeda
+
+- **URL:** https://news.google.com/rss/articles/CBMikAFBVV95cUxORWlGclY3ZFEwb2kzVzd0dUQ0UFhpMU1hX2dUS2Nhakhpd1JvVnAyR2lKa3AwdGRIbFVPY0paSVB1aXFhTmVpdjBVVnczNzdrVkZBcGxRbklZNGwxZE1iZVBRZnlPTXBBaGx5clFUd1M0UFJkNk8xcXZrRTZyWWp0VEd5UkNueUZSUEJNSEIzRHc?oc=5
+- **Source:** Sportskeeda
+- **Published:** 2026-10-30T10:29:00+00:00
+
+## The Week’s Dealflow: October 30, 2026 - ImpactAlpha
+
+- **URL:** https://news.google.com/rss/articles/CBMia0FVX3lxTE1QY3JXYUxMWU9xRjZTYlctYmpTUXFoWkRoWnhYOUxwN1F5Ui1nckNrRklOZGJQNzhpZmdwdDhBZzVtcVBqNzdYREl2SExtcEhKbWpvQ2hvRzhzNmVzNkkzU1gzRXQtZlA2ZDZN?oc=5
+- **Source:** ImpactAlpha
+- **Published:** 2026-10-30T10:09:10+00:00
+
+## Cal Fire has a new app. It looks a lot like Watch Duty - Los Angeles Times
+
+- **URL:** https://news.google.com/rss/articles/CBMilwFBVV95cUxNX0Q5TjF5R1FzcEdUYjIyNjFsek1sWWFBazZ6aTA1a09FVXpBbXlheDRWMkdKNXREWlRCOVdjREk0WndZa0MzdS00enJRUTU4RFk3dGZfUENQVGZ2NXRzVG1wT0lqWXVFOU9ydGE5azZlWjNreGNvd3pQQTJQMzBiVGxfZklMUHpNVnpOX1Y3aXkxS0toUDZN?oc=5
+- **Source:** Los Angeles Times
+- **Published:** 2026-10-30T10:00:00+00:00
+
+## Helical Fusion Co-Founder & CEO Takaya Taguchi to Speak at Web Summit 2026 - EIN Presswire
+
+- **URL:** https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRy0tNEp1NDFhaXhKQlNMQmZmakE0Ni1jSnRTOUc4MnR6c3NEZGFSMHpQNVByNFRDdUJZWG84WDBVSUx1aTJXS0ctQXNZSlhudXlkYnM5T0E1NldMYmVBaXI2c1k3YXVSY1dGYUVvMW81cjh0UGF0RTVrWlEwX3FPYXZlajVJMG1OaUZ3MmtVMkxyWk41UzN5YTdFYnZCNy1hQ2FXajh1OTlmblE0OC1DWEd4UHQybEdCd1NZ?oc=5
+- **Source:** EIN Presswire
+- **Published:** 2026-10-30T09:00:00+00:00
+
+## Interview: The Fusion Future with Dennis Whyte | NOVA - PBS
+
+- **URL:** https://news.google.com/rss/articles/CBMiigFBVV95cUxOLXAyWnh1WkdpcVZRR3lQdWppaDc1UmRUQzhUZmVNamdBQXdKcUxIN1NPejA4cG96WXRSOWN5WWp5WEQ0M3JLbXpHWEUzVVZKZnlqLUQ4czRsQzVicXRKMFk1ZEVqQXQtWWpBVV9VV3FYX29tdmFpUG1qVTNhU095N0lON0VIQVNZSEE?oc=5
+- **Source:** PBS
+- **Published:** 2026-10-30T08:23:44+00:00
+
+## Federal Adds 22 Creedmoor Loads to Its Fusion and American Eagle Product Lines - Outdoor Wire
+
+- **URL:** https://news.google.com/rss/articles/CBMixAFBVV95cUxOWFN0UXhkSnFtYjFrVmJxTk5BUUpoLTRmZ1B6UFpsRkVuWWtTVHo1U0c5bWNVN0o5Zjh1LXMycUZkWVNwU1dLRGhsSEtNT2pjTzFhUGJjTzJhZmkwZzlqSGtuN25aQmpZMFFhT2hQdmdnYlVSaHNSR0psY1J1a0FpcE9wNGVJMnBSb2haMDZMOFpPOXBpYjdPUmZCcHFpM1dzckFYXy1PdTZRNElsblQzYnJTWmlNQmx4VHYyY3B1YWVSTy13?oc=5
+- **Source:** Outdoor Wire
+- **Published:** 2026-10-30T08:13:03+00:00
+
+## AI Learns to Say I Don’t Know: New Network Flags Unseen Tomato Diseases It Was Never Taught - Bioengineer.org
+
+- **URL:** https://news.google.com/rss/articles/CBMitAFBVV95cUxOVUp4dW1Oamd5Rm42ckExZXRBVmJ1NFljQnVOZm1HZVp1TUoyNWN3MnBGWVY2dUM1eGZVUC01N3o2b0M0ajc2UjBWRmVKcnUyMzQ1VWhiUkZQOG9DT0dHVU1RX2hCc0NaR3RQd0FodGJmSjhXNndsU1hjbnZyWS1SUXRSelFmNFRfd1Fub1k4MlB3UjRSVFAwODVpdmtuc0ZuT0lvb3RqSUZKaWVMWU1PWFZjWEc?oc=5
+- **Source:** Bioengineer.org
+- **Published:** 2026-10-30T07:22:37+00:00
+
+## Reducing the drive-deficit problem in fusion simulations - AIP.ORG
+
+- **URL:** https://news.google.com/rss/articles/CBMijwFBVV95cUxPM041VmpGQ3lObk1ZdWdFajl4ZVlYTVZ6MDZ3V2tNQkc1QkY4VGR3clFiRXZGM2RYMkhtNDV2TXlVZnF1N1hNTVA2R0hXV0RhRkNxb2NjWmdxdWpyRzh1Rk01Mko4V3ZNdXNLaktRX2hhNDNBb01ZVS0tNXFZcEdYRGdEZHFjVzhJRnVybnFtUQ?oc=5
+- **Source:** AIP.ORG
+- **Published:** 2026-10-30T06:41:08+00:00
+
+## The trouble with small nuclear reactors - Financial Times
+
+- **URL:** https://news.google.com/rss/articles/CBMihAFBVV95cUxPNDN1UUVIdWJmaVNxXzJtVWJlMDVZZmR6Wi1mVXExWmI1RWFWcWtRSVFWd0lycGRVM0FkcVpuZDVfb2tDaF9wNm1xQ1VWLUtQNTVHM3JPb045bjkzS3c4WXBOQUJCZ1oxb0xCSnpVREFzZWtrb0ptMGROREEtVFh2dzc3SXU?oc=5
+- **Source:** Financial Times
+- **Published:** 2026-10-30T05:00:42+00:00
+
+## Thermodynamics of the Youth Pledge - Kompas.com
+
+- **URL:** https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZ0N6bzZqcy1RZGxoekdsQ2x3WGpoWFp1U0FrdE1UcVB1U2ttclBTcGZ5d2ZxUDEtLVpkbm1iaUJ4RnB6TlNWQkVLRVhQUl92NndFZ1pQc3VQcXQtenZaU0dQQ3UzV3hCM1FBazZtcUJEWWZ2OGNiRW9wWGdTbTVNbHdCZHhSc1NB?oc=5
+- **Source:** Kompas.com
+- **Published:** 2026-10-30T04:49:28+00:00
+
+## Global Laser Enrichment Secures Victory for First-of-a-Kind Uranium Enrichment License - Orrick
+
+- **URL:** https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQzJZY2dIdzlOV19JLXdWb0plbnV2dEVydEo0X1pZdUdhVmx3M2RpLUxabW1PWDlyVmxTc2lHUVN2SUR5T1ZMRE0tRXNCYjdNQUJrYlRvYmFxWWVDVXNVLUk2MmpULTBRcEdfTVJHVWNaV3RoU0ZFTjdxVk84TUJtUDlhajFVcmlYeDV4bThXUm11TzgzT0JxZ2JpMmNtbXo4Z3dTMUpmX0EyNzN2YVhEbUJtZ2JWNTlwVzZwcFk3OE9DRTA?oc=5
+- **Source:** Orrick
+- **Published:** 2026-10-30T03:10:19+00:00
+
+## Workforce needs in the energy sector - Community College Daily
+
+- **URL:** https://news.google.com/rss/articles/CBMieEFVX3lxTE9EdEpjZGtGWkR4TUd4bTA5cEp6VHpmbGl4U2JPMTBCWkt0QkdhUnhRdmF4QlpTMVBIcnlrUERmMGRWRHNfRUVHUUU4bXA3UnhMMmttbGlEbEZhdWItaGNLVHhoUVpMZEFaU1BxWE1EUkd4UElDbFdoTw?oc=5
+- **Source:** Community College Daily
+- **Published:** 2026-10-30T01:46:38+00:00
+
+## NASA and DOE sign space nuclear MOU -- ANS / Nuclear Newswire - American Nuclear Society
+
+- **URL:** https://news.google.com/rss/articles/CBMif0FVX3lxTE1hZnNkVzB0ODE4YVhyeEhSVjdEOXpVWnMwNi0xbzBIRTdFbmdFeUZLd0JSQW9ueWdOQk1kRUZ0NENIRi1jalN0dTJmNmdjSHAwdEFZdHZWRE9UdzFfQTBQcC1oemRPcjFhWXNHeFhlR2lLMWUwYmtOa2cyY3h4ZEk?oc=5
+- **Source:** American Nuclear Society
+- **Published:** 2026-10-30T01:30:07+00:00
+
+## Germany's Merz visits Japanese nuclear fusion firm - NHKニュース
+
+- **URL:** https://news.google.com/rss/articles/CBMiY0FVX3lxTE1INXdabWJEQkpYOFBZRmNpc0RaNFg5QzROU2xyUXBrbmNuam54ZHF0RF84WUpaTU80a0RGSzZIVW55amZNNExGYlNQVFgtTjBJelJXSy1xbmxiWXRieXhqSk9pSQ?oc=5
+- **Source:** NHKニュース
+- **Published:** 2026-10-30T00:47:56+00:00
+
+## DOE selects first companies for nuclear launch pad -- ANS / Nuclear Newswire - American Nuclear Society
+
+- **URL:** https://news.google.com/rss/articles/CBMikwFBVV95cUxObHExV05RTWJXaUxsMTRxeGx4c0h2WnJjVkppaEFDX0N5UDNUSmtfMnZ4WUtCX0tWLWNvQzhMU1RtMHhrRHpNRlhuck56U2ZuaExpUGd4elkyVV80UFgzQjNsRzl2SFdXUTkydHhtY3IyVTNjMGxuVjFMY0tpTmw1Z0VYT1pxdmRsWkxuLWk3X1FNVG8?oc=5
+- **Source:** American Nuclear Society
+- **Published:** 2026-10-30T00:46:19+00:00
+
+## Oklo’s Isotope Test Reactor achieves criticality - American Nuclear Society
+
+- **URL:** https://news.google.com/rss/articles/CBMijwFBVV95cUxOa0NCc3llSXI1X3NjUlllckFBd2htbTR4dGU5N25QVHVNSmpQNEIzRVN0c2g3N2VnNU9RR2k5Y1FuRjktS0NDU3NLMk5aU21kLU1Zd0h4SXNya1NTZWZkVWdPbFlRQ3JPVGZ1cHhPU21YajA4TlUtVUNldjZya1N5b0FMdTV6N2FKbzlFRVY5QQ?oc=5
+- **Source:** American Nuclear Society
+- **Published:** 2026-10-30T00:41:31+00:00
+
+## Oklo announces plans for Groves-2 - American Nuclear Society
+
+- **URL:** https://news.google.com/rss/articles/CBMie0FVX3lxTE80LXJuV2J2VThiWHJiZXJQczh3U3BqYVNqejhrRmN3RVhLUXlHVE1JdXNGajVJY29Ua2xTMTZJWVZNaExtZGViZmc1Sjd4blY3YTNkbEVMb2k2ZHQ3eURqaTc3ZU93eUFmYzJJZ1REdm5NNHFzWHRadW9YUQ?oc=5
+- **Source:** American Nuclear Society
+- **Published:** 2026-10-30T00:39:15+00:00
+
+## American Fusion Advances Texatron Testing to Target AI Data Center Power Demand - citybuzz -
+
+- **URL:** https://news.google.com/rss/articles/CBMitgFBVV95cUxQVnp1bkJETFZiSjh5ZTZhcDA2NXk4MEdkaDhNam5lRmQ2MWdDdDdKWkFzN0RVMVdWNHllTTNPT0xlVjZ0c2p0NjVCQzl3a2tVUDVLWER2YW9yNlU5MmZPWWZSQjdkaGRIRkdjU3NDZ29uanZtVlpJSmdNUU5BVHRla1RscFh0YUNNbExZUTNHQzBkNlo3SDlRb3hReU02dTRrejRJX3VtbXVpVVUxSmJmTTVwelloUQ?oc=5
+- **Source:** citybuzz -
+- **Published:** 2026-10-30T00:30:29+00:00
+
+## NRC to review Radiant R-50 Part 70 license application - American Nuclear Society
+
+- **URL:** https://news.google.com/rss/articles/CBMilwFBVV95cUxOZG1KYzFMdXI1UzhQeGhObjZ6MTlPTDFoQ0E4bjNrczBPMThkMlFMSHVGWWRISnVjUjFScmNEcnlTdWpsTi1lSWU4YUl0Wi1mcTJEVmRkU3ZoTS1TcXpFaFlaX19IOVlMNy1TeDlGaWhNYTgxYmE0bWZhZlBOajlZdW9LRWYzN201ZVpFV3RDS3AxMzE1a3Nz?oc=5
+- **Source:** American Nuclear Society
+- **Published:** 2026-10-30T00:08:38+00:00
+
+## South Korea's Doosan to build reactor components for NuScale - upi
+
+- **URL:** https://news.google.com/rss/articles/CBMiwgFBVV95cUxPX3QyMFh0V2dsMmlmVDNvSWx0UlM3U1RhZzJVQ3drQTYwcUZXZUZjWGR5VFBKZ1VWR1A2SDItTGpRVlFNYmNQY1A1UDR5Tm9sTVVzWVE5eGNiTHM5Nmt2Z3A5TDkySWxaU3hTX19ESFZ2b0NNaEJrOWFlMWxJeXhFeERKenRKTkdSeHFjRThrSks5SEpfaVpIUnNxeG5lMGE0SmQwLUJMMDBJUkhXZS1KVjRFcUhWZldUTW04ajE2TkJRUdIBwgFBVV95cUxPX3QyMFh0V2dsMmlmVDNvSWx0UlM3U1RhZzJVQ3drQTYwcUZXZUZjWGR5VFBKZ1VWR1A2SDItTGpRVlFNYmNQY1A1UDR5Tm9sTVVzWVE5eGNiTHM5Nmt2Z3A5TDkySWxaU3hTX19ESFZ2b0NNaEJrOWFlMWxJeXhFeERKenRKTkdSeHFjRThrSks5SEpfaVpIUnNxeG5lMGE0SmQwLUJMMDBJUkhXZS1KVjRFcUhWZldUTW04ajE2TkJRUQ?oc=5
+- **Source:** upi
+- **Published:** 2026-10-29T23:57:00+00:00
 
 ## Kyoto Fusioneering and Germany's Focused Energy Team Up on Laser Fusion Power Plant Technology - XenoSpectrum
 
@@ -183,123 +303,3 @@ _Last updated: 2026-10-29T23:49:30.326279+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMimwFBVV95cUxOTm5oeGVqWnF0VFdQenpuTTdEa2E3OWpva1AzZExHcUNpd3dtanFjZjBZVUw5MGdRaWM2aC1MTTF4SGo5aHBPblRmTDlhMnc3ZkM4Rko3c0JVTmJFdjNUNGFhb1k2TDhCaVk4ZG1OZFV5SnhWT1gtUDV3SmprQ1lWZGRnU2g4WUxnT3VCSmJpRjVVRXg3V3BPM1kxRQ?oc=5
 - **Source:** American Nuclear Society
 - **Published:** 2026-10-28T20:51:31+00:00
-
-## Quantum, fusion and AI stand out during DOE leader’s campus visit - UW–Madison News
-
-- **URL:** https://news.google.com/rss/articles/CBMijwFBVV95cUxNZHlrTVdjWGpJR3dfaWZRMi10a2xTdk5Lc3BxSldVZndsdUJuRUNRRklsVW92QWtvQjFXcGtZLWhSQXVNZjg0V1VsdG84a2FNbThNRzFSTjg2T0FqOEcyaWF2VEc1eHZ5R3Z2MkVRWjZ6M3JWMGxFTFhzQlRCM3JEMElRX1RvMWdEYVhkR3VxSQ?oc=5
-- **Source:** UW–Madison News
-- **Published:** 2026-10-28T20:06:19+00:00
-
-## ICYMI: Nuclear developments around the nation this month -- ANS / Nuclear Newswire - American Nuclear Society
-
-- **URL:** https://news.google.com/rss/articles/CBMimgFBVV95cUxOdkpzTG9UWUFaci1zZVhwZ3R0VXVXbldBcjFLbG1uQVphNENNOWhRWkdPNzhuMlZPU3pSTHNVTmViVlFuZjZYVG8wOXprMzFNMm5QYmJ0WDBnaV84eE5iMDNBQTFyNUM1OTlHQUl1Z3FubVVrYzBObmx5NDBmcVdHYzVTQm9IOGZzeUp1SWdtbERBSUp5cTE5T2V3?oc=5
-- **Source:** American Nuclear Society
-- **Published:** 2026-10-28T19:07:38+00:00
-
-## Japan could replace up to 14 reactors by the 2050s under new proposal - American Nuclear Society
-
-- **URL:** https://news.google.com/rss/articles/CBMirAFBVV95cUxOVmt0Nm1xaDBlZWVOeGFDbkc4cGVBUVJNbldKdzE4Y2tVZjNjemhIYUQyekxocmZuYlYweGhGMU5BQVBLdHJzbjFRV1dwSVFNb01uSHpsay1Yc3VTajhIQkRXUlFTMHpmZFhucTduYjAtR1ltUlhad1NIMkc2eFZBSGg1OUlRaHp1MDVVeG4tNEJwZU1DU2VQU1pBRnN2Q3I3b2xxc1c4TVpVTEV5?oc=5
-- **Source:** American Nuclear Society
-- **Published:** 2026-10-28T18:32:07+00:00
-
-## INL opens molten salt testing facility - American Nuclear Society
-
-- **URL:** https://news.google.com/rss/articles/CBMigwFBVV95cUxNYzBDMnZFam4zY3JFYS1SdHEwMEN1ZmFwQmZ3MS1RdkxTdEpHaFdVbU40LWE0NUVoYkRWdy1GZVZPUW5zYUFiSDE0bUpGbXhBRlVLT0w0SmNZUmhXWlBUTjFySUdtUnhBNHcwMTUtS0dIb0tBaVFMMnE3N2RIdXV6ZERWcw?oc=5
-- **Source:** American Nuclear Society
-- **Published:** 2026-10-28T18:31:44+00:00
-
-## State Workforce Board Invests $1 Million in UC Berkeley-led Northern California Quantum Training Pipeline - University of California, Berkeley
-
-- **URL:** https://news.google.com/rss/articles/CBMivgFBVV95cUxOR25GWGRNTllzbXF0LVhIWXptYjVpaVk1U3JmUmpVdVlCb0RqdXhiLTVsSy1zTVdHd1c4U3NkR1FFN05VVWE5QjZiRVMzc3EtZFNCQjEtUml5YjRTTzRPOXhrbHpZWW9oekJISmEydklQN1BaVXFSbDJBb3lkUlhmWHllcVQwdThoTmJiQkI2RWxVdXk5N2pIb291UEZxMUtlQWc5eFNsbVNEMlVIcEJxNUI0NXhEWlJNbVN0bmVB?oc=5
-- **Source:** University of California, Berkeley
-- **Published:** 2026-10-28T18:27:00+00:00
-
-## U.S. Energy Department makes $5.1 B funding commitment to Alliant Energy tied to gas expansion - GazetteXtra
-
-- **URL:** https://news.google.com/rss/articles/CBMi8gFBVV95cUxOYXZJUDJiN1I3VUF5TWJ3YWFaT0VGVlUyaDNTalNuVGpOT3VLM2ExQVlOQzdkd3hwTkQzOGxmODRSNF9wMVpmR0VKanJsRXM2WENtTFlYZHM5RnFJUGIzVVlsZkFtNFFyMi14U1pWWVdjZTVSbk1rMnNiY1NLaG84S0tkVTlxR1drOHpub1VqTnZxeEZQcERWd01lSlJ6a3hieFhWT0w1Z1hnV1BsNU5rMFRZd2xlVC03TENmYjQtREROejNqU3lFbGJVUWdIT0xRSVNVSEhrN19zdm1OWV83NzBPV25aS3h6a0QySGhfNmZTUQ?oc=5
-- **Source:** GazetteXtra
-- **Published:** 2026-10-28T18:15:00+00:00
-
-## Constellation to get up to $5B DOE loan for planned uprates - American Nuclear Society
-
-- **URL:** https://news.google.com/rss/articles/CBMingFBVV95cUxPTnZRRkpLWS1sOTh2czZwMnBFTXVNa3E4cEh6TWZ2OHFOeXpQcTVnOW1Ua29LbG1QWUYwMEFNYVVVTVFQdmJJMEhQZkF0MmlRa1RmTGtHZ1Z3eU5vd1lQWHR4T1RfelJjU2lJbVRMVWFEeU82REgtWXZuZ2YyTE1zckdtdWFCTjVjdmJWaGpJVW5JenVqM1YtUHFqbkJjdw?oc=5
-- **Source:** American Nuclear Society
-- **Published:** 2026-10-28T18:07:33+00:00
-
-## ‘Conversion gap’ a defining challenge for power systems, and more top energy stories - World Economic Forum
-
-- **URL:** https://news.google.com/rss/articles/CBMingFBVV95cUxNN2FjSEZxamJjbUktVzV2YjFxMndNamwxMl9ITmdsakJkREl1VzRLZ0x5OHZBY0NQakJsLVBmRjVzRkdwX3pUb0RQbGRkSzhnYnNabXFJenhlVTQ1VDNxUEFHRGZyZTVsQWFGZnlfVTdtTFlIR09xX0dJODAtOGViNmF5UVZOUzloZHRLZF9fMjdzRG1sQy1jd2FVVWcwdw?oc=5
-- **Source:** World Economic Forum
-- **Published:** 2026-10-28T16:34:52+00:00
-
-## Proxima Fusion signs two Japanese partnerships to strengthen Germany's fusion supply chain - Tech.eu
-
-- **URL:** https://news.google.com/rss/articles/CBMiuAFBVV95cUxPY2RHVmxaX0ZNWU0xUVJJUTl3RmM2bDg0YlVXV0NYZm5qS2xvZnAtTnJtV082dXE3clQ0aElFUFNsUWg0VXF1OWlxMFd3MUttQS1Lb3Z5SkFra2hFVTVqSjFoRnZCNlZHZW0taEdwb2ZHY2VremlrZjVzaUtpN0JZMkNzOHFKQXBvUy1vcG5XT3JSbllLNGswMGNtdm5KSVBpMzlvbmtydkVzMWFFZmJDQ3lYdS1kVnRD?oc=5
-- **Source:** Tech.eu
-- **Published:** 2026-10-28T16:06:30+00:00
-
-## German startups are betting big on Japan. Should the rest of Europe follow? - EU-Startups
-
-- **URL:** https://news.google.com/rss/articles/CBMirwFBVV95cUxOTVZYblFsRDZ4dEJLaFdRSk9xRUtOSk94eWM5RlpER3huREJiNWJ0TnktcFY5VFNYcUFiOUNxclFhX0xsNlJ1amZLZGFRNUxsOUlNSzR3QTc2RVlVZm9QR1NIb1NqZ1Y2ZHdCeDREd2tEOGJMU3JWODEwdlZSb0pENEc5dUc2Y3Nmd0lYMTFUd1d6WnRzVV8waWtEUTl2S2d3UHFzcXVoRnNOWGtMb3Q4?oc=5
-- **Source:** EU-Startups
-- **Published:** 2026-10-28T15:44:35+00:00
-
-## India’s nuclear journey — from current power to the fusion frontier - The New Indian Express
-
-- **URL:** https://news.google.com/rss/articles/CBMivAFBVV95cUxOTDNOYTdiTlJ2Z0JObnc0Rmk5T3RiOG43R3dUOWVqb2hoRWxHUlJWZ25nX3ZGdk9IWjZLRTd0THJYRDdNczRlOXVHZDBmeU5iaERnZmxXU3hiUUNvRE5xQ2J4bXFuc3dhbUlFTFJwRFgwdUUydF9xMEV1NERQdUJwMUlLdDR2Q1A4SDFpY2FuX1Viai1oX2xBVmJBd0F4TmlhY1NsNnVNdTluOEhFUDRrWjZOYnk2ZXIxaTRlR9IBygFBVV95cUxOWHRKODBUYkVtSmRIRWJlM2hKQWZiazlBNS1qUUxSaW50ZnJhXzJuZEJkRF9CQXBnNHJ3aUw1eWIyZ2V2bDRfSmJmY3Jhak0tWF9wX0ZNLW50T2YtZ29kS3I1Rm9PMnFkSFNjOEFDOEQ0ZENaLXRvYmtxUkdyb090ejBTSHlmNEFnZWNVVm1DQ09abWUwRXlYVDJsdkRYRTJTY0pkbjVYOWNCa0xHblZhd2ZkcDk2WVFaMVJvb054WHJ5ekRGcXYwSWxn?oc=5
-- **Source:** The New Indian Express
-- **Published:** 2026-10-28T14:45:27+00:00
-
-## Baker Hughes Wins Significant Subsea Production Systems and Services Award for Eni’s Cronos Gas Development - euro petrole
-
-- **URL:** https://news.google.com/rss/articles/CBMi3wFBVV95cUxNdUl2emxCT1NHRXNEWXNZeHFmemgzY2FfbzZiTVE3Wno0dXhIOXZxQXUyZkp1STMtU29pdnU4MDJwcVF2cFFrRVVFSV9sbFZfMjF5eWFOYzZOd1dOYzJSd2lQSzVEaUlKZVFvblN6OFlXa3RUbFJ3UXNvcU5kUkI4N19YVVRfSFBEdzVhMEdFODF4UTZfc3NsdGlkWEhKRUl2U2FTakY1cDFiLTZ4dDRNX3FoTk56SEVKNDJhbENHQnEwQm1YQUdDTjJ1Yk83TVc2TzdJRDhrSW1vU1A5T0dN?oc=5
-- **Source:** euro petrole
-- **Published:** 2026-10-28T14:00:23+00:00
-
-## MIT fusion spinout Cambridge Heavy Industries raises $6.2M seed to build tritium-maker - Dealroom
-
-- **URL:** https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcjFZb3FuakV2X3ctYVl2ZVlLcWNkaFhJTzdIbmFmajhrd2U2WjduSUFqekotRF9XSnBqcW1PMFR3aEV1ZkZYWV9rWkRxOWdHVWxHOHpMeFYxdHp1ZzVqaWtoUXRyQzhnOFNCcFpZcW5tUW5rZnNYZzhFRVJ3LWotaDQxNDZsZTFlazIzdFM3Vmt3eFljeHRQVThydEgtSjhWTDljcU5GMHZYeHhYTU1EVmdrUmxPSG5sdjBV?oc=5
-- **Source:** Dealroom
-- **Published:** 2026-10-28T13:24:23+00:00
-
-## Fusion energy needs a clearer account of what each breakthrough measures - Innovation News Network
-
-- **URL:** https://news.google.com/rss/articles/CBMiuAFBVV95cUxQamdnRWhWekM3Ukw4clg1WDdkZy1QZk9LTnhIQV9JQkEyOHJtZ19UVHRpSUM5NlpTX3AzWkI5aTBQNlRIeGx4NEFQNzVJN3RHdUhGa1JTd09VM2FiR045NDFZMHZQaWRCOVRVS01TQ2NMWjNOOHM3NVlURWliSzBfaDZUcnVLWDhld0Y5THNqZjZOYTNrS21ITW1SRkU3ajZ6NTZCTEkzQldpU01wcTE4ZWJFcG94Q0NI?oc=5
-- **Source:** Innovation News Network
-- **Published:** 2026-10-28T13:11:19+00:00
-
-## Fusion Fuel's Al Shola Gas secures $5.2M in LPG... - Pluang
-
-- **URL:** https://news.google.com/rss/articles/CBMikwFBVV95cUxNdHB1Y1cwekVVMDY1ajJNQ0x6UEdQUUQtTS1oc054dEJBMDh3Nll0aUlUNUFzSm9xV1RIaG91OHNWcUhzOFc4RGRxSTg4dDJBQnRxTXNZTGptT3gzUlQtY1FHOWJpbTBXcHptM0VINHZESHVBZnkwNDFGeXZDb1pvNXVjeUdnLXV5cndXYTJnbjNMRE0?oc=5
-- **Source:** Pluang
-- **Published:** 2026-10-28T12:06:50+00:00
-
-## From solar power to on-chain assets: The cross-boundary fusion of XRP and renewable energy - FXStreet
-
-- **URL:** https://news.google.com/rss/articles/CBMi2gFBVV95cUxOdlQxaUluV0psNWNSZnRGa3IzbUVmajBwMmd4WFJtQmFaMnlDbU9qZTV2YXByaUxmNjZLRU53NzNGNXU1RWRFVXFWYmNMNHo1OEptOExyWWpxOG8tcGF3blU5TDZlS0tHSHRjZGhvOW5JWGxYM3BWNHJlWENLY2JEM0V3SWFpQmRpUEs3Z0ZYdnRYUkhidHZwTzJkTDVLYm5mUTVQUjZ6S1JWV1dHRl9HaWNIU18temJYcUdOTktELTdDd194WThrMXdNVmhYdlNLQ2JucXZIaXN2dw?oc=5
-- **Source:** FXStreet
-- **Published:** 2026-10-28T12:03:00+00:00
-
-## Proxima Fusion and Fujikura join forces to advance industrial-scale HTS manufacturing in Germany - EIN News
-
-- **URL:** https://news.google.com/rss/articles/CBMi1AFBVV95cUxOTTU0elgxUnZDOW44Q1ozTURaS0ZxbGJtVGJDbDNBdzF5c21RQkFvcGtnT0tyYVROZi1ZbVJzN1U2Y0NUNWxUWmxFeUNhSmtLamM4Q2dnd2RUTkU4NzZkeVFNZ254SE0tSG9CdV9WM21aLTNFWEhfa0s2SmZ3bEg2WVAzRTRrSGhJTWcyR1BIU19xZFJZN0trY0pIUm80a1NfYUtSUU1oRUU2aWZHTERSZE0xRVBGamxlQVFiT3JvX3VRbTEwWUdHRjR4amNjNjE0bUtuYQ?oc=5
-- **Source:** EIN News
-- **Published:** 2026-10-28T11:56:00+00:00
-
-## Proxima Fusion and Kyoto Fusioneering join forces to build critical technologies for commercial fusion power - EIN Presswire
-
-- **URL:** https://news.google.com/rss/articles/CBMi6wFBVV95cUxPVlNCYjRoLXJnbDRqSmV4c3NhR3FlMEU0NDI2S04wa0dLSHd2S0lUc1gtU185UXAycTJtTXdKdXpPaWlKN1hsRmlteXZBdnVPZ3NxRzVfOHRfeFpydGxmbDdMWlpJSGNOX2NGcUY5T0NLNDdKSU42bkJJU2pCRk00TlRUckgwbHVhTDN1cmk4aTM1U2xka3V1ZkwwbTZBeFg5RmQ3dWhmRHMxcWQ0bG12Z01QcHFibG5yZ2xteEZ6TFhiZ2VHblhlWEgwbnR0MTJhZzdNalJiQ1dVamFUUmJDNnAwOUZhSlR6ZWI0?oc=5
-- **Source:** EIN Presswire
-- **Published:** 2026-10-28T11:48:00+00:00
-
-## Fusion Fuel Announces Al Shola Gas Contracted Engineering Project Portfolio of $5.2 Million Across 87 Projects - GlobeNewswire
-
-- **URL:** https://news.google.com/rss/articles/CBMijgJBVV95cUxOel9LSldrSmxYLW1KeWNpQTNhMDNyM0ZPWmM1OUZnRVVLSEpvdnB4QXdoZ3VwNlZPbm5oOFVFWV9IYUtWc0dCMWRQTFR1RFZyV0ZKbk9UN1VpaHZaRkU4LVNSaFVCQzV1RUtUZnN5UE90RFJDTkdvN19sNXNoQW91ZkJIM3NDbTEyX1NEbDBQZFR3d3NWcmQwMW5RWkdEWXIweFpWaTZMYkhZVmFSLUZjVjJRZUd3WEMyMDRMekNieldMZXdSUU1qVl9WaVdjMExzSjFJOU9GNkk2czZaVFZtWDdhTjBQN3FOYUNTcElYZ1puN0N0MENpY0xyN2NPWGVqaTk0TXBValhic2lpb0E?oc=5
-- **Source:** GlobeNewswire
-- **Published:** 2026-10-28T11:45:00+00:00
-
-## University of Turku Can Now 3D Print Different Metals in a Single Layer for Fusion and Aerospace Research - 3D Printing Industry
-
-- **URL:** https://news.google.com/rss/articles/CBMi4wFBVV95cUxPeTJhWVBMMzJoNlkwM3lsWDhkVTFJeW1qTnFpMkVnbzZ6Yi1IRENHaGZZUUJhYWFfWllJWU5JdC1fY1Vrd1RQZllYcnJxZEJGTlVFb2d2VkVTNFoyci0tQlMwbTl4Vm1JQ0ozWUpQOFR2XzZpYVYxdG9PUXZDRjNzYUNqS3JoWlJkNzRENkwyTnZLeUVYZm5BUDNTZGllT3V5dlJseWlwbG81aEVQaUkxcGI2ZjVSRHJTQW13X1UtSGdSQW92RmF0TjVWb05oR0xhTHFGSlZndktiTjhpX1NzWDcxbw?oc=5
-- **Source:** 3D Printing Industry
-- **Published:** 2026-10-28T11:29:36+00:00
