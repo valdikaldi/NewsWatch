@@ -1,8 +1,38 @@
 # NewsWatch — Iceland News
 
-_Last updated: 2026-10-30T17:47:02.678296+00:00 · 50 articles_
+_Last updated: 2026-10-30T21:59:02.132597+00:00 · 50 articles_
 
 ---
+
+## China-Iceland meeting: Beijng talks Arctic, Reykavik talks Ukraine – Eye on the Arctic - Radio-Canada
+
+- **URL:** https://news.google.com/rss/articles/CBMitwFBVV95cUxOc3V1dlEtbjB5VHlrNWdEUFZJZlVfNnpnV0llSHliY0I5RGM5WFNyUTFFSkVDUUdOaDlFS3ZEaDNLdk4yQzZjc0s3V1lBTnM0enU1Z2xqWWF0MzAwRzJ2ZlpoZkNZeC1MSUhtdGZQZUdGeDQ1YllkS3BnSFJYVVNMUms0TDFEZVpBeENBZi1Mb3FZcnlhSERTU1dGV1RydDdZOE5VcXNDd1RXTE1oQk9IeGtyWGZIaHM?oc=5
+- **Source:** Radio-Canada
+- **Published:** 2026-10-30T20:25:36+00:00
+
+## Iceland Airwaves 2026 announces final lineup - Northern Transmissions
+
+- **URL:** https://news.google.com/rss/articles/CBMihgFBVV95cUxPR3JaOU5ZcHBrS1JScURZU1lGTjRhM3JvT1pkR0JqeTNHRkhON0NrdlpFcXNiMnFzTHBORUxCZzQ0OEdEdW83b1NZdUdWamZzdmhKby10WVRROHZjdkVNUDFnZm9qNzZoaGgtZlVsQ3g2OTlFeE40RjhrNzFuOHhKYk1fRV9WQQ?oc=5
+- **Source:** Northern Transmissions
+- **Published:** 2026-10-30T20:14:52+00:00
+
+## Icelandic cruise with dolphins and whale watching sails from Liverpool in 2028 - Liverpool Echo
+
+- **URL:** https://news.google.com/rss/articles/CBMioAFBVV95cUxOcEhMVTUwQnZRa2dmR2I2UFB5ZlFYdkJCZnFjMDloOXVmdnZHaWxMeXhuYWJKYVZqR3g0SWdDZWtnS2dnWkN3Ri14Z1pSUlpDVHppTVhacmdoMkMtdHQtVnNjX0NXTnNPSDVPMG1PbDdhdy03U29teXhWdGotYnNGRVhXRHI5bUl1eFpSMHNBeEVLNHNWb3ZTOTkzSFVfUEpN0gGmAUFVX3lxTFBmenF2UE1saEFtcXRhOFVsUldDN0N0b3FNdmVVU3lHT3VGX3l2NzBDZ2ZrSXZTSXFWVmN0ZEZGVlFEdk8yOE9zN1B0cTBkVkZTQzlhQzdPOW1odDItNVpiQzdEUXNod2NpVE1QQ0luSDZDRjJZMllJOUljaDJiSjgweWItN2VYMjFtT00weGFuSmxnV24wOTB1Wk9qaUxrN3p3Q2d6WUE?oc=5
+- **Source:** Liverpool Echo
+- **Published:** 2026-10-30T20:00:00+00:00
+
+## The Cheapest Time To Visit Iceland: A Study of 350,249 Bookings - Guide to Iceland
+
+- **URL:** https://news.google.com/rss/articles/CBMif0FVX3lxTE1iRUhvbTE5RUhpQTliRlcxV1cwRlZhamhhUjJLeDV2VTB1LVRtcjBMSGpDR2I2SzNKQVdUZm8tYzVJbG4tS1YtNkxEbkJRSGo3RzhybTg0T2N4Z3VRclJIcGVUWWM4T3VkeG16bXlqRmhGNFhobGtXVHZvaTMzaUU?oc=5
+- **Source:** Guide to Iceland
+- **Published:** 2026-10-30T18:25:46+00:00
+
+## Moody Gardens Iceland: Caribbean Winter Wonderland Takes Shape - CW39 Houston
+
+- **URL:** https://news.google.com/rss/articles/CBMimgFBVV95cUxPd1l4VGl5YXRFQWRkU1NuWldiNExkOERZamUyMmdBMTBqWFNCNXZSZENYNFJza21OdzdWYVU2ZU1XSl9fM0xYMVlyZTQzRTQ5YjRsSmFqZkdUU2U3am1jQjN0R1hURW52ZTF0NHUyazVSMy0xcjVNR3kyTGkzNG5Kbk1YQlA4S3BTR1FQWlhpME9hM0NrTkFIZjdB?oc=5
+- **Source:** CW39 Houston
+- **Published:** 2026-10-30T18:15:22+00:00
 
 ## Prices reduced on new cars - mbl.is
 
@@ -273,33 +303,3 @@ _Last updated: 2026-10-30T17:47:02.678296+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMivgFBVV95cUxQNkU3TENsTlN2WmpqRzhPc2RoMEROUE55TGJyY0dvTkZ5NnN3SDVKYnU4TEVMdVhXcUxhQkNjVi0tQmJFanZQTmpWc0xGQzhuVlI5QlJzQjJHQ0JQdElVNHFBSHllVHVwME42a2dUa2ltUTVxeXI4WDl1RE9hT3loTDQ4ZG5sVXlpLUtzcjZPQXJRNkR0V29HbHNLWXlZdDROLTlmM29EUmNzZENUaDdXQnllVlVGLTdreEN4M2dB?oc=5
 - **Source:** ConstitutionNet
 - **Published:** 2026-10-29T17:35:57+00:00
-
-## Jet2 captain flies her daughter and classmates to Iceland on geography trip - East Anglian Daily Times
-
-- **URL:** https://news.google.com/rss/articles/CBMilgFBVV95cUxOZEo2TEFubjJLeTFjRVBBdHhsSVdaREVURk9ETDJVNnJGWVJDNklvNXZ2V1JYT2k0SS1LY0w0Uk1UTnZ5dW9jbGgzd1dha0V3eDExQmhWdjNOTDRrNWdDY0lwbUVXQXlva05zZnhJMEs1cTR2dDBuaUdNX1d1RUxPS0RXbllQc0d3SE0zQXlKUlg3SDlvVlE?oc=5
-- **Source:** East Anglian Daily Times
-- **Published:** 2026-10-29T17:00:00+00:00
-
-## Escape the tyranny of AI notetakers and let these Icelandic knitters transcribe your meeting - Fast Company
-
-- **URL:** https://news.google.com/rss/articles/CBMiyAFBVV95cUxOcmtQbGdoQnpHaUk3alVXbGJJSEllYTdoWVJqUV9pYUdxMldNbER5N1RfMjlVV3hEazlQbURpSGRXRjIwLVRKbUxaMXRMYVpWQkZyem96bUZETUZpalhNcTE2YnJmRURxWjdXZGRGY0FSMkdIZV95VGtZUTZtYU10Mzh6c1UtUGlnUzRxRGxYNXcwaW50dFMzdFZHLWprekVkZWtGbWFGQzBXZlJqUVJ5SXBNOG1BR3o1d2x4R0NDckI0bjJ2aDBXZg?oc=5
-- **Source:** Fast Company
-- **Published:** 2026-10-29T16:45:40+00:00
-
-## CHINA-BEIJING-WANG YI-ICELAND-FM-TALKS (CN) - Big News Network.com
-
-- **URL:** https://news.google.com/rss/articles/CBMikAFBVV95cUxPWWFjT0tPaVNCak9CQkY1TGZuMTg2YXVZRnh2bFZCMUJOSW5lbUExVU5OQ0lYNXdraGtVNkdVNkttNHVsalZsTWdvVkc1SkpUN0w3eXVteUc2SmRYWGNtZDVCY1lqbi1VZE4yTWJWNHR2TmNiUjgtV3BDa1ZBRE81VXhMTXVPUnREd3N5UkJPZGI?oc=5
-- **Source:** Big News Network.com
-- **Published:** 2026-10-29T16:15:00+00:00
-
-## Vast majority of Icelanders have used AI to obtain news - RÚV.is
-
-- **URL:** https://news.google.com/rss/articles/CBMiogFBVV95cUxQMkVDTEdSa1N1bG5Del9SWDRxNWM2UnFuQktaTkRpQjdTT1AzQ01vUXh4b05lWGhUd1R2NFVVUHlkUVFjbk5DdHhpbDFhTzlqdWc2cDEtbjd4M2VUZ2k3el9jTjNxcUc1eW8xeEhXVUtucFY3YzJIUmFXOWlkQXlpMVlwYTh5V0RJOW9rbFZob3ZzbXVUYXk4UXNDazlkZ2FVWkE?oc=5
-- **Source:** RÚV.is
-- **Published:** 2026-10-29T16:12:00+00:00
-
-## Chinese FM holds talks with Icelandic foreign minister - 巴士的報
-
-- **URL:** https://news.google.com/rss/articles/CBMiqgFBVV95cUxNa2FoUVQ3cnF4MHhscWJ5Z05XelVJcUhyaWJtTEpiN0d4N0RoZFR3ckNhV1hFLTU4TGNRamZSVFFRcDltM0F6OFdvd3RUYVFNSmRtRXpJaFk1NGdkR3JFVldxX20yckhkQnVLY3hKR2JScTI4VnlqT09NbzdWYlQzYnBYX3NHNS1WczF0cXdTT2k5SlVweldLNFVOMURXSXB4Vmg2ZzAtbUplQQ?oc=5
-- **Source:** 巴士的報
-- **Published:** 2026-10-29T16:09:00+00:00

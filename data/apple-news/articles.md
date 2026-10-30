@@ -1,8 +1,26 @@
 # NewsWatch — Apple News
 
-_Last updated: 2026-10-30T17:46:58.702609+00:00 · 50 articles_
+_Last updated: 2026-10-30T21:59:01.293861+00:00 · 50 articles_
 
 ---
+
+## Apple Overtakes Nvidia to Become World’s Most Valuable Company - Bloomberg.com
+
+- **URL:** https://news.google.com/rss/articles/CBMiswFBVV95cUxQemhEdzVEaEpkYUJtQ2dYN2c3MlQ1N01MR0oxMnNheDZlbXVzaEJJd2k3bksyWGZwR0stcFZUOTNJZFB5dU1jajQ3RVZZYTBodlRJQXR4TG5tbjRibWYtUk9pUVpOWFZ5UGNOQV9sNnUyR3dfZllSSm81U2FjMDJFQTBsOU9XN2ZhRkVoTVBNdWxtVmJzdEVLRElxU2dkdG1HdjU4cGp6WmhjLVVEenJqQU80aw?oc=5
+- **Source:** Bloomberg.com
+- **Published:** 2026-10-30T20:28:39+00:00
+
+## Qualcomm Inc Stock (QCOM) Moved Down by 12.09% on Oct 30: What Signal Does It Send? - TradingKey
+
+- **URL:** https://news.google.com/rss/articles/CBMiiwFBVV95cUxPa0tvTkVxakhIbjR1dzZkZXUwZWxZbkEyRHlVY3ZWb2p6czhmSjE1cVJkejVxbXhHbzlPVER5SFUtcWVZVGpZS2w3aTJHZVhwY3AxdUhTS0plNkVWS2xsSnJjN21CVnJrb1p3LUV3dUE5aENDYTFuLV9GZmE5eFItOEVpTi11Vm4tbk1v?oc=5
+- **Source:** TradingKey
+- **Published:** 2026-10-30T19:16:03+00:00
+
+## PROLED XDR vs. Liquid Retina XDR: Choosing a MacBook Pro Display for Your Work - AppleMagazine - AppleMagazine
+
+- **URL:** https://news.google.com/rss/articles/CBMiakFVX3lxTE9QVExDUkdnTEdxQmJwVHZiRDZFa2M0YkRZUmJCZG02dEs0VmIyU0tDUFVqaXZ5ZGZKdEdqaVRpU20wYWE5M2dtNlVmTTUxNlF6Q0ZNZmc1Ry1Iby01cVVtTkZ1SVAwcVV4YXfSAW9BVV95cUxPanpJUWJvVUdwS3BseWF3REEyV0dxbFNicHhjZll2ZWxjZ0FfSDBDVzJXUE0tVXdyRnJhZlhHaC1aNjNuNGtXN2d1eVN6LU45TDBUaE5SdDcyV3pjalYtcTJoUjNoOVJWVEh2N3pyTDg?oc=5
+- **Source:** AppleMagazine
+- **Published:** 2026-10-30T18:32:37+00:00
 
 ## Stock Market Today: Intel Flirts With Worst Day on Record - Apple (NASDAQ:AAPL) - Benzinga
 
@@ -283,23 +301,5 @@ _Last updated: 2026-10-30T17:46:58.702609+00:00 · 50 articles_
 ## Apple Inc. $AAPL Stock: SLT Holdings LLC Trims Position - MarketBeat
 
 - **URL:** https://news.google.com/rss/articles/CBMiswFBVV95cUxNaW5zaUphRjF1M3NYV00zZFptenUtenpINmgzR2pnUThDa1Y3YUxvWmVjOWliNWduT0k1ejRwZktiamtNYlk0WGh3RkFpYTJiM3JtMlhXSmc0R1VacE9rcUxOMndrclZCcU1RekJtTkVlOU1UTE1wSzNWRDR1YmFqS2JjZGNHVjQ2SFJiUHZxZ3ZDVDROa2NpdDQxQnBsZFFlUXFha3pvMXN5ajFwRWs2ZHRJdw?oc=5
-- **Source:** MarketBeat
-- **Published:** 2026-10-29T08:37:54+00:00
-
-## 6,015 Apple Inc. $AAPL Shares Sold by Quattro Financial Advisors LLC - MarketBeat
-
-- **URL:** https://news.google.com/rss/articles/CBMixAFBVV95cUxPRDRJZ0piZjZtT0dpWk14NGtiR2pHZHZiclVnVUNUbjNWdjFuQkltOUozVlEwTzBYVHZWb1NFZ24zQ0dNTExFdXlNWjVxRWRRZXpQc0hZQW9nSkY5ZnNSaTZrbkRSamV6dnJGNk1vQU9WRFZSTWdiaXg1Rzdablo3WkRwaHVWSVBSVVVxeUV5NlR6blVBUEpYRVFnalNaNW9HMS1NdTMtT3RSOURCTWhteGhObExxdF9SWE1wenl0UWdRMTBo?oc=5
-- **Source:** MarketBeat
-- **Published:** 2026-10-29T08:37:54+00:00
-
-## Neumann Capital Management LLC Buys New Stake in Apple Inc. $AAPL - MarketBeat
-
-- **URL:** https://news.google.com/rss/articles/CBMiwgFBVV95cUxPR0h4d3dRaVF4OXJkblVndUhzLWpwSm5RdjhuMWhyajItMU1tcTh0R2pqN3VRbURac0pwem43SUlPX25xMTFpa2ZjX1pYc0hRUjBZbGFNc2p3d0Y2Wll5dk9TYXRfZEtKQ2VFM3NIYlRIOVJxOWdDbXAwRS1BX3MtRjFacEZ0NjdKYUlyVjRDYmJ5WTFCS1FSNFdXRnp0N1UwS1VsMzRIbW13dTVSdFY0aVFBNVJJRmd4MHgtZ2V5OGpIZw?oc=5
-- **Source:** MarketBeat
-- **Published:** 2026-10-29T08:37:54+00:00
-
-## 8,252 Apple Inc. $AAPL Shares Sold by Whitener Capital Management Inc. - MarketBeat
-
-- **URL:** https://news.google.com/rss/articles/CBMixgFBVV95cUxPQW9PU1VsNERVYWhpOHNXZ0JKVERiT0ppOGNUSFl0VUZITzJuNlhtaWJMVXZhcXVpRnR4dzM5QkVUeEtxZGY3NWt0cjJGT3RUV2w5UzBBM0lWMUh3NmtjM0dzbEpoOEJIOVR3TGJyeFlOUVZaUjdFLXI4d3BxYWNWdHZIV2NzZVhqWGVzaU9mOXduS2NEWUV5S25IVnBHa1p1Wk1oR0t3UEZCMXhBY19RSWJqTkZFM2F5QXJlRkdrZjMwcEpwZ1E?oc=5
 - **Source:** MarketBeat
 - **Published:** 2026-10-29T08:37:54+00:00
