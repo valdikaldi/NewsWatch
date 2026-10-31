@@ -1,8 +1,14 @@
 # NewsWatch — Apple News
 
-_Last updated: 2026-10-30T21:59:01.293861+00:00 · 50 articles_
+_Last updated: 2026-10-31T01:29:45.237919+00:00 · 50 articles_
 
 ---
+
+## Apple’s foldable iPhone Duo draws early complaints of the sc... - New Hampshire Union Leader
+
+- **URL:** https://news.google.com/rss/articles/CBMixwFBVV95cUxNeFNTc0E1VFBTV2VWbGZHVDRVT0F3SURqM2xFcFUyX1RyUHg2VVdZMnNBQnJwXzMwc0dKTTg1OElvX1VFcEo0SE9sSlp6Zi1aSmxiRjVTWFZBOGpMckQ3dkVrZHVkQlNnOHZfNW9IR1lWc19YV1NoSDRUZjdGS2dKbnN4LWdRNHdCaFcwTjh5S2hkU3prellULW9FY3piS1AzMDM5cjdnVERyNmJOMnhVbXpFUzhRc0ZWcmhucmtQaXAyMG5uY1NB?oc=5
+- **Source:** New Hampshire Union Leader
+- **Published:** 2026-10-30T23:30:27+00:00
 
 ## Apple Overtakes Nvidia to Become World’s Most Valuable Company - Bloomberg.com
 
@@ -297,9 +303,3 @@ _Last updated: 2026-10-30T21:59:01.293861+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMixgFBVV95cUxOalk1a1kzbXZnTUJMM2hiRUhwV3ZyaW1FWXZfMHNxNjlrX2xEbVM1LUExZXZpMGFMZVR0bEozcmhuVktUQmd2NHc4dE0xVUpkdUdsV2NtRWVDbDZjWlVuOUF6c3Baempobnk2cGJBcV92dFJGS2x5Y1R5VlZHRnhqRnJiLXI1a29CdFp2TGhRcmI3YzRPRTRIaFRvekVzb0d0R3UxbXpnaXJyNnZYcWZCb09ERk5PZnp0MldGbGF3MThfSWRXTXc?oc=5
 - **Source:** MarketBeat
 - **Published:** 2026-10-29T08:37:55+00:00
-
-## Apple Inc. $AAPL Stock: SLT Holdings LLC Trims Position - MarketBeat
-
-- **URL:** https://news.google.com/rss/articles/CBMiswFBVV95cUxNaW5zaUphRjF1M3NYV00zZFptenUtenpINmgzR2pnUThDa1Y3YUxvWmVjOWliNWduT0k1ejRwZktiamtNYlk0WGh3RkFpYTJiM3JtMlhXSmc0R1VacE9rcUxOMndrclZCcU1RekJtTkVlOU1UTE1wSzNWRDR1YmFqS2JjZGNHVjQ2SFJiUHZxZ3ZDVDROa2NpdDQxQnBsZFFlUXFha3pvMXN5ajFwRWs2ZHRJdw?oc=5
-- **Source:** MarketBeat
-- **Published:** 2026-10-29T08:37:54+00:00

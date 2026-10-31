@@ -1,8 +1,20 @@
 # NewsWatch — Iceland News
 
-_Last updated: 2026-10-30T21:59:02.132597+00:00 · 50 articles_
+_Last updated: 2026-10-31T01:29:46.202382+00:00 · 50 articles_
 
 ---
+
+## Handtas Met Franjes - Northern lights Aurora borealis over Iceland lagoon Stock Photo Alamy - auroradesio.it
+
+- **URL:** https://news.google.com/rss/articles/CBMiU0FVX3lxTE4xVzNVX291QWQ5ZVhBVDJ4bHA4SzNvTzJ2eW9sWXBmeUlvMjhYTU9La0RtWnF0dGE3OXQ2NE5hZTJHZThMR2FLUmRFRmREcTlXaDhB?oc=5
+- **Source:** auroradesio.it
+- **Published:** 2026-10-31T00:51:01+00:00
+
+## 🇮🇸 Arctic resilience in its most human form - Arctic Today
+
+- **URL:** https://news.google.com/rss/articles/CBMimgFBVV95cUxOa2EtbHRHSGt3VXR2bEY3NUxuZWUxY0drclBXbHZyeVVfNTdHd01oVHVSXzFyMElYTHBhc3lIeXI3RU5fS3ZlRXhXSDE0bVFEWHBiUFVwWHBaeWMzYUhKSXBsdWlYdFVyLXBpODVQMWVETl9QSFJOejdHNWFqZ216Wm85by1xSDV0MWdSeE1UZy01a21OVVFnQlJ3?oc=5
+- **Source:** Arctic Today
+- **Published:** 2026-10-30T23:07:29+00:00
 
 ## China-Iceland meeting: Beijng talks Arctic, Reykavik talks Ukraine – Eye on the Arctic - Radio-Canada
 
@@ -291,15 +303,3 @@ _Last updated: 2026-10-30T21:59:02.132597+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMipgFBVV95cUxQVHd3YVJ6Yzg4RHV1Zk5fRXgzbHJVbVQ5bFdKVVY4ejVhODNpaWZoV2xlY0o4QmNaeXVGRWZJbWdwb3BhVTFmbGtqYmtCVDBuME5pc1BzSDFxQ1V4NFJQckdOTlllYVV5cXJxblNrenJ0c18za2tmSzZ4RU52c0x3cDZZeWNxMHhUYU53aG9wVVpYaVR3cjB5RF93X243QjFHaVJoajlR?oc=5
 - **Source:** The Bangladesh Monitor
 - **Published:** 2026-10-29T20:46:49+00:00
-
-## Visit Iceland Has a Yarn to Spin About Pointless Meetings — LBB - LBB - Little Black Book
-
-- **URL:** https://news.google.com/rss/articles/CBMirAFBVV95cUxOTWZGdzVSeGltWkFDUlc2RlpRblh4SUNJLVBqS3hCblpQcXk0Y3lhZTk4YTFDRWFUSGFiY2tLSzltZ2FhODhqWXJfeHVLYXJIYWZueEpudk1GMkVKczYwVVlrdGl0OGMxYkdzX09fTF9GVGlDWHBZM095NE02N3pIN1Z0bWNEQmMwSk1Bb0ppT1AtSm9RMzhWZnJyWHo1OGhINXp4d2l4Qlk5QUQx?oc=5
-- **Source:** LBB - Little Black Book
-- **Published:** 2026-10-29T17:53:40+00:00
-
-## In Iceland, legal scholar argues proposed law establishing hierarchy of statutes doesn't violate constitution - ConstitutionNet
-
-- **URL:** https://news.google.com/rss/articles/CBMivgFBVV95cUxQNkU3TENsTlN2WmpqRzhPc2RoMEROUE55TGJyY0dvTkZ5NnN3SDVKYnU4TEVMdVhXcUxhQkNjVi0tQmJFanZQTmpWc0xGQzhuVlI5QlJzQjJHQ0JQdElVNHFBSHllVHVwME42a2dUa2ltUTVxeXI4WDl1RE9hT3loTDQ4ZG5sVXlpLUtzcjZPQXJRNkR0V29HbHNLWXlZdDROLTlmM29EUmNzZENUaDdXQnllVlVGLTdreEN4M2dB?oc=5
-- **Source:** ConstitutionNet
-- **Published:** 2026-10-29T17:35:57+00:00

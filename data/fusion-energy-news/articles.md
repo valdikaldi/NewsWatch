@@ -1,8 +1,14 @@
 # NewsWatch — fusion energy News
 
-_Last updated: 2026-10-30T21:59:02.577456+00:00 · 50 articles_
+_Last updated: 2026-10-31T01:29:46.528752+00:00 · 50 articles_
 
 ---
+
+## Tech giants and nuclear leaders make news at CERAWeek -- ANS / Nuclear Newswire - American Nuclear Society
+
+- **URL:** https://news.google.com/rss/articles/CBMilwFBVV95cUxPRjZBT3dXTHlySUN4Rm5WRm9YM01zRHFyb0xGUmRzRUZOSWt4R0lHYmRnR0tfLTVudi1TblFGSWRQeHJ4R18tcWNuQTRyNHFWY01YUlpycTQ4ZG4ybGhuUGZJQjdKMUNMbnN1VGRrbFV0M29xSGhLRVdIeFRTZXBrblpCdF9ILXkwMnVGQVJ1V0ozcE13akgw?oc=5
+- **Source:** American Nuclear Society
+- **Published:** 2026-10-30T22:10:02+00:00
 
 ## American Fusion appoints Brent Nelson as new CEO - TipRanks
 
@@ -297,9 +303,3 @@ _Last updated: 2026-10-30T21:59:02.577456+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMijAFBVV95cUxQMTlFenk5cWZaRkpVanlKamloeWtOUUhlNG9PNHBlZDBEckQ5UHlaMDhLWVVFLTZTVnZfcVEzZmJSOGRIWkM5SGhhRzRJSE5sUUZ6UktsdXNrcGVlVHFjbWN2NTFDYS1KSXpBZnZ4RjNtWnUzS2lZSG1zdWxia2tQemNaU2ZhRFNHZnk2WA?oc=5
 - **Source:** Latest news from Azerbaijan
 - **Published:** 2026-10-29T15:17:12+00:00
-
-## Japan's science minister visits Kyoto Fusioneering to back fusion energy industrialization push - Energies Media
-
-- **URL:** https://news.google.com/rss/articles/CBMicEFVX3lxTE5VVWVUb0dJMmw5aFgxbjI3cFVlbTMxZ3JaWjBuNkVyR2hJUTdmamNFLTNOalNjYXdkdG5YVHQ3V3ROVXFHemEtc0FxZThuSENIU1l0NHlvNkRMa2tiQi0tOENLNF9HRnpZbm9rQmtCc0M?oc=5
-- **Source:** Energies Media
-- **Published:** 2026-10-29T13:55:16+00:00
