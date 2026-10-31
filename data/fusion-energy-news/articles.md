@@ -1,8 +1,20 @@
 # NewsWatch — fusion energy News
 
-_Last updated: 2026-10-31T16:55:31.427512+00:00 · 50 articles_
+_Last updated: 2026-10-31T21:06:17.601679+00:00 · 50 articles_
 
 ---
+
+## Punk favourites Millie Manders and the Shutup heading to Reading - Reading Chronicle
+
+- **URL:** https://news.google.com/rss/articles/CBMikwFBVV95cUxOY2pSNWhFSDAwUGFTMldrUXhSWnVqQUtacFBpTzVUc3QxdkJZWkhvS2FVNFN4UURoUFBhV012VzVURWY0dWRWbGRvU21FT2R0dEI2U0hCS2tPcGx6ZFNrTFBTRHBkVDZ4Tmg5aHh2WFQwLVBrWXpNbVNmOXBabnhJcW1sZ1BEYUppUDZ4Umd2Y2ZfS2M?oc=5
+- **Source:** Reading Chronicle
+- **Published:** 2026-10-31T19:00:00+00:00
+
+## In Richmond, British Columbia, pistons squeezed a lithium shell around plasma until it passed 12 million degrees, and the machine cleared fusion's oldest temperature bar without a single magnet or laser - Energies Media
+
+- **URL:** https://news.google.com/rss/articles/CBMigwFBVV95cUxOQzRsWjN0XzJ6TEhtM0otbFVvZTZ0VzFDYXlhMU9Pc1Z2Mm5qQnZQWXViclRwS293c2ZmVC1qMDFqUHE5N3ZTd2U3T2FWMk1CejZUejJZNkMtYWNyS2xNUW9yc2E5Y2NGQzRBQmFvd040bld5X3RIVTNLS3BLdkdtalY2MA?oc=5
+- **Source:** Energies Media
+- **Published:** 2026-10-31T17:50:00+00:00
 
 ## India’s first fusion power company takes key steps - The Hindu
 
@@ -291,15 +303,3 @@ _Last updated: 2026-10-31T16:55:31.427512+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMif0FVX3lxTE1hZnNkVzB0ODE4YVhyeEhSVjdEOXpVWnMwNi0xbzBIRTdFbmdFeUZLd0JSQW9ueWdOQk1kRUZ0NENIRi1jalN0dTJmNmdjSHAwdEFZdHZWRE9UdzFfQTBQcC1oemRPcjFhWXNHeFhlR2lLMWUwYmtOa2cyY3h4ZEk?oc=5
 - **Source:** American Nuclear Society
 - **Published:** 2026-10-30T01:30:07+00:00
-
-## Germany's Merz visits Japanese nuclear fusion firm - NHKニュース
-
-- **URL:** https://news.google.com/rss/articles/CBMiY0FVX3lxTE1INXdabWJEQkpYOFBZRmNpc0RaNFg5QzROU2xyUXBrbmNuam54ZHF0RF84WUpaTU80a0RGSzZIVW55amZNNExGYlNQVFgtTjBJelJXSy1xbmxiWXRieXhqSk9pSQ?oc=5
-- **Source:** NHKニュース
-- **Published:** 2026-10-30T00:47:56+00:00
-
-## DOE selects first companies for nuclear launch pad -- ANS / Nuclear Newswire - American Nuclear Society
-
-- **URL:** https://news.google.com/rss/articles/CBMikwFBVV95cUxObHExV05RTWJXaUxsMTRxeGx4c0h2WnJjVkppaEFDX0N5UDNUSmtfMnZ4WUtCX0tWLWNvQzhMU1RtMHhrRHpNRlhuck56U2ZuaExpUGd4elkyVV80UFgzQjNsRzl2SFdXUTkydHhtY3IyVTNjMGxuVjFMY0tpTmw1Z0VYT1pxdmRsWkxuLWk3X1FNVG8?oc=5
-- **Source:** American Nuclear Society
-- **Published:** 2026-10-30T00:46:19+00:00

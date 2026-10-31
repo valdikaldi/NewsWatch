@@ -1,8 +1,20 @@
 # NewsWatch — Iceland News
 
-_Last updated: 2026-10-31T16:55:31.064434+00:00 · 50 articles_
+_Last updated: 2026-10-31T21:06:15.722720+00:00 · 50 articles_
 
 ---
+
+## After 14 years, Euro Truck Simulator 2 will feature transparent water — new screenshots of the expansion about the “land of fire and ice” - iXBT.games
+
+- **URL:** https://news.google.com/rss/articles/CBMi8wFBVV95cUxOZi1nLXlJbndRclNLbWhkYTRRV2g5X3RIM0VueXFHaFZjcHNiaGZNQXBUMUVSLVFLNm5mcTd0cjVDeG5GUGl6aHZqdk5ESGNEbVFSMVJZVTZhSmhTNzhPRWJrTk9vdGx2ODlRRUhBWkt4VkxiMUlHYlg5T01XVDJfdkh2RjlkTnhuRUR2dkdBdkJya3VBQzhLS0NFVE92Q3EtdE9mdUlyUjVtMTlXU0lrczIyd1ZPa1NyYWRvY0Q0MFJwNDJ4cGFmbC1HYmVKaEh0UWNCSG54M3NnWFZGVEQ2cmlxQzdMc2VOWFpsaTNyaTVaRWPSAfgBQVVfeXFMT3NHWDVyOVlrYTV6ZWRFU1BaOUpKM0o2LUl0NlRZa1dNN3ZJUjVQODhpcVVmWVByaVNoYWxGbUN0akVVY1FIemZXbHU4Z2J3QWM4aEVWZXR1cjFtY1NIZ3FTLVJxVlotdnJWcDRZT0taaFlFc1JnSW95YVdHMFZYUVNXdXFhQTRUODlnV3hPOVIyQ2Nhek1HQnN6dnRwYlZOUERYckN1V1pWQVZHMGwtbHRIZmVKMkdaa3dNcEZjUXkwSFV3MzhyMjNueHI5YkJlXzRlMHl3VlRiMHlGSmFXeG1pbEVFVUlHamFXWmMwdGhvbmM4R3I1ZjE?oc=5
+- **Source:** iXBT.games
+- **Published:** 2026-10-31T19:59:00+00:00
+
+## Taste of Iceland Vancouver: Events, Dates, Northern Lights - 604 Now
+
+- **URL:** https://news.google.com/rss/articles/CBMiY0FVX3lxTE9JMUotRE5zV1RxRmZBb2FDZWQ2TUNtZnJjUXo5UzdMV0xGeGhDR1RTdWY1RjYxdFN0ZnJDUGxROWdqVnRXNmpwaGFUY01aOGsyUExMU09wcEEzU2RpZW1CYl9hWQ?oc=5
+- **Source:** 604 Now
+- **Published:** 2026-10-31T18:08:21+00:00
 
 ## This haunting, beautiful black-sand beach hides a deadly secret beneath its waves - BBC Wildlife Magazine
 
@@ -291,15 +303,3 @@ _Last updated: 2026-10-31T16:55:31.064434+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMitgFBVV95cUxPa1d6Unhpc1NLRk1oMTZ4NVZwOWZlcGdsXzlMXzhKMzVzX3dtWUJCMlJkVXVJa2NCQ0FTTXYyck9CLXBWUGpMS3YtY0hodWRyajAtRmNWME84WnpBTURVbFJqaGJzaUhEdFBVTG9yRVdwdDB5dzNkRnowV2dzNUlaNktaYXhJbGtjZW42WU4tWG51eFJUb2RXQjZOQ0NYYm81Y3RlV29TYkpuMktEaU9rTVlMRDMzdw?oc=5
 - **Source:** Dimsum Daily
 - **Published:** 2026-10-30T08:06:38+00:00
-
-## China-Iceland Ties: FM Wang Yi holds talks with Icelandic counterpart Katrin Gunnarsdottir in Beijing - CGTN
-
-- **URL:** https://news.google.com/rss/articles/CBMieEFVX3lxTE1rckxQSFJyMk9QUFZBMlBiQmpldlhqZlB5SnBadlBnZ2R2WHl3THZ5Q015Wlh4S3VZSTFGLWk4Q2llcDE4QkNLbGdtRmdXeEI3N0M4SU9jZTJVX1BZMUV4OVdETXJOcXE2V0RNdmFYX0JxZVVPcmFXTQ?oc=5
-- **Source:** CGTN
-- **Published:** 2026-10-30T08:03:27+00:00
-
-## Equipment worth many times more than data centre buildings - RÚV.is
-
-- **URL:** https://news.google.com/rss/articles/CBMipwFBVV95cUxNMEk5aGJmdEpPY3NVcXJGUnFmZnFYMFZZX041NlR1X2xiWmpuZTB4MEx3TFpLMHFJM3BQQWZVVVdURkJBLWE1emZzTUNVVmozeVJodjdWZlBhOVZDTXRtcUhsWjlpOThsdEltNXJrYW8yNDBnUHZxOVNhRVZFQ3Z5TFdMRkRBUmxsTHNYMTNsN09yUlhIZW90MWViOTZCaTgyMkFNVVc0SQ?oc=5
-- **Source:** RÚV.is
-- **Published:** 2026-10-30T07:04:00+00:00

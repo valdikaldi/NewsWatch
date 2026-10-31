@@ -1,8 +1,74 @@
 # NewsWatch — Microsoft News
 
-_Last updated: 2026-10-31T16:55:30.572255+00:00 · 50 articles_
+_Last updated: 2026-10-31T21:06:13.849069+00:00 · 50 articles_
 
 ---
+
+## FY27 Q1 - Press Releases - Investor Relations - Microsoft
+
+- **URL:** https://news.google.com/rss/articles/CBMiigFBVV95cUxPaXNEUTdVWndDS3RFQS13VmtYUjYya2J6NTJvOU5rX29OY25MVjd0ZDFrakZJanZ6TXpmYnduckNrQ2FkaUFRaXlaR1ktNXhwdEozTUVGcVUwRDRLa3BjdkUyNDU1Skk3cnA1NnlxQWFBWG5JRUNlNU9UQjFueDM1V2pla21XZmFfWUE?oc=5
+- **Source:** Microsoft
+- **Published:** 2026-10-31T20:48:20+00:00
+
+## Microsoft Visio Professional 2024 is on sale for $49.97 - SFGATE
+
+- **URL:** https://news.google.com/rss/articles/CBMipgFBVV95cUxNZjMweUJCLUNDaS1GTUxmV0pydVc0UGdVajVTM0l0Y21seUJlR2pnREVMUjdmZGJQUFhoZUx6c3ZPcW9RQ09fSDZsU0RsZmR3Yk1qbVBCOWNYeGtqa1VKV3JnNDlZYWtCTjJPaks3SGVtLUE3bVdyYjN6THVzdkdVaDhBeG5CZ0M1eXpfM21ROGMzT3YyR0lMYzN4c0xKamZTUERmdUFR?oc=5
+- **Source:** SFGATE
+- **Published:** 2026-10-31T19:27:33+00:00
+
+## CMB International Securities Remains a Buy on Microsoft (MSFT) - The Globe and Mail
+
+- **URL:** https://news.google.com/rss/articles/CBMi3gFBVV95cUxOc1JNMmxNb3FXSWp4MnU1WURsMXp0NFR4dlFEdW5yQkgtWVFNUlo1dHg2QVBqVGNtZTVvaktqbWxyWmFDSjdzeTBzYTFia1RKa0FmU1loblRONC1WWGZKTnYwanZ4MVgxUk1RNWY1T2hwVnFMU2JSMlVOUVZlWkZZVzNOXzlsRldxUUdXOHNzM2oxd3ZSckZTS19kSlhkOTQ2emk0SUpRLWljbjhBMWVSSnZTOGxaNm5KRXRlRnNtMU9IN01iUGQ0TElodzZsSUpKMVRzdnYtZE56NFdneWc?oc=5
+- **Source:** The Globe and Mail
+- **Published:** 2026-10-31T18:56:07+00:00
+
+## Microsoft And 2 More Quality Stocks To Improve Your Portfolio - Simply Wall St
+
+- **URL:** https://news.google.com/rss/articles/CBMixwFBVV95cUxPOXZDMGVhUWJ2V3J4a0F0S0V5VDVFcmd3MHd6ekxKYUZGdlFyQ2VxNjlNWTQ4UnNleGZ2Z3ZKTUFXSzdzZE55Y21vWFBCY1o0UDBpVXJ2ekd1SXhPX1p1X2FXNzk5RmRjTkVRQ2JCSWZjM0R0LVF0eU1vWWNUa3REcnVEYkR3VzN0RjFUYmVtWmFwY2ozU1ZrUTV6clUzbktmVkhYVWhKNVZxWTZuZzlzSFFiZXpsM2dsVjRHRlFaNF90RElUWWFJ0gHMAUFVX3lxTE0tRkg2anN3bmlFNmVLSXEzWnBGMlRGa0ZJd2pZU1p0LVE3ZU5QdVAxR1J2Tmd1UUd0eFZHajE3aTU3cDVvTkhqUVo1RnFMRlV5M19tUFlyQmdSTVBZU3luUUVHeDUtNVE2dndJYUQzTmU0OFFFWW15LWN4UXlhY3BNR1oyM043dlcwLXpSY1g2Q2lKUjBNWTcxX2lFZFJHRW01Y2xLSFZsRTNwVmg1QVp4XzRvRzBRZ0xPa052QTNUNEV5cHMtSWdYTzF6Tg?oc=5
+- **Source:** Simply Wall St
+- **Published:** 2026-10-31T18:35:18+00:00
+
+## Microsoft's DirectX Raytracing Trick Could Slash VRAM Use By Up To 90% - HotHardware
+
+- **URL:** https://news.google.com/rss/articles/CBMidEFVX3lxTFBkZ0ZhcFRIclYyNVk2UVBwd2QyZmpPQ18yd0l5TTc0bDhFVFpEMU5waUtfN29GR0JPdE8wR2pNREtraVpWaFpWZW93cmw5SmhKUkhIX3BvODZnSEdVZ0p0LThvb21iektDV0dTLTNETWF1eUN6?oc=5
+- **Source:** HotHardware
+- **Published:** 2026-10-31T18:30:00+00:00
+
+## 5 insightful analyst questions from Microsoft’s Q3 earnings call - Yahoo Finance
+
+- **URL:** https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWHlMS05aaFg4dF9zV01VR0FObkp6dEMzU1ZKS3UyR3ZMTmNESFNCajBJU0FEbmUtQzZyR2lxdjNudVI3Qm16V2RWSUZmNnpnMnJ0UUJvVGxwaTJtS3VkcXZLbWJUa1NJdExsZms4TmpQMXpERmVucFZDVUFRYk4xM3Q2N0lGbUk4a0lsQ0NNZkRta1kzc1hvd0NMMXNGNHdJUUJ3UVNNNHg?oc=5
+- **Source:** Yahoo Finance
+- **Published:** 2026-10-31T18:27:29+00:00
+
+## Here are all the new features Microsoft added to Intune in October 2026 - Neowin
+
+- **URL:** https://news.google.com/rss/articles/CBMiogFBVV95cUxNUHA5OHZrQ3RiWmI5Q216c1c0YlVGclp4Sm15QXVkN1ZvTFZmeE9iRnExMXRwM0lZaTBvQmk4eFUyNHFDa3BpVnI0X0VYSDZjdXp4UFdEN0FhZkZHUlZLNHdWdm9DenFMWXBTMmozN2NVaHJoZ1ZZZUh3NHZsakJwWUtIZzh6V3kzNkFaaGZ2WGcxRmU4Q0NmQUFIMFp5cldyMGc?oc=5
+- **Source:** Neowin
+- **Published:** 2026-10-31T18:00:05+00:00
+
+## Microsoft Just Gave Edge A 33% Speed Boost, Contributes Tech To Chromium Source - HotHardware
+
+- **URL:** https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWUFEZE1xZkp4VlMxTjl6X3ZrN0w0UlNkaWdIbVZxNlM3RkxsbkV3Slg1djIwdU9YSHBNOWw1SDZMZDVMTGtmR2xUTEUzMkZBVmY5SDR3dDU1NnBjQjRzaDk0azhuQmNnWXdtMEFaalNmRWNxT3B3dmxKR1poZ21LeWNUMTZ0TktKb0F0cGlPb1NJS3N4cHY2NldPbmtLQWZ0QjBfZzFhRS10dw?oc=5
+- **Source:** HotHardware
+- **Published:** 2026-10-31T17:40:00+00:00
+
+## "Without AI slop": Microsoft says AI built a Windows 11 feature, and it just needed a human in their spare time - Windows Latest
+
+- **URL:** https://news.google.com/rss/articles/CBMi4wFBVV95cUxOdmh1ZGhDMjB2T05YUl9RUlJvdmpmMFN3eUw0bDdJM2d0NzF2LWFzZUFRRjZkLS1fTmREOTFlTl9jWUoxaDh5dG5FNUlUM3ZDeGM4dDlvM2JSRGp2UVUtb2I0QXVEZFBjczZncVNlbkxOcHk1R0VNZXpqWlc3UGx6RklXdWdCZkV6d3dDVkxSMEtITjFWSnBwcVlpck9NSkdxbkxRakhYbG1NSXRreERlaTV4NWw1U1U1cXVibzBUamg3MUVtWDNVbGJ2cU9xdnp3cWRJLWszQjRtcXp6ajN3a0o4OA?oc=5
+- **Source:** Windows Latest
+- **Published:** 2026-10-31T17:30:15+00:00
+
+## Google, OpenAI, Anthropic and Microsoft back one AI opt-out - Gagadget.com
+
+- **URL:** https://news.google.com/rss/articles/CBMikwFBVV95cUxPRnFhODFORkxsakt5TW5NR0hxMHZiVnJwa2JPSkt2V0tQdFlqYzFoaHB0MFljd0tVc3UtMTUyNF9vdi1HT2NXUjNmbVVaT1JTQnRpbFlRY215YkVoczdSd3VNU3BJTGhkU1VFdHd1cF90d1dzbjYxeHRhYldmZ1pHUmdXREtKaW41R2FzODVQYzhNUnfSAZgBQVVfeXFMT0xJWjJHTTQzOVB6SlljbndWa2hsU0VPd3JmWW9TTkdlYzZ3dmVUN2huYWR1QV8xUUNmZG9LZEV1VFVTNXZ6cGdjcnFVbnA3VnVQNVdXSmw5cnpfaUtGd1V4S1ZYblBJUE9HejdkdElxeVR0QWV6Z3IxMUJvemVnekY1Q1lxd3VCSTdVNXJfcm9QTElJZUFqWWs?oc=5
+- **Source:** Gagadget.com
+- **Published:** 2026-10-31T17:19:09+00:00
+
+## Tony Pollard 3 TD Day | Film Review powered by Microsoft Surface - Tennessee Titans
+
+- **URL:** https://news.google.com/rss/articles/CBMiogFBVV95cUxQblZHYnBabG1NMWZyakc0aG0wc0lhZXNvNjFRVTFsaWRveVM2dHFubGU1UEVEVWRvVW5sc3JkZlJsWUZ5Z1dXVTNHSkFoQ0RhdHliYXFINHNaenVpZmlqSUw4Y013cU1Ia1ItT0RlSFI0M3hnNmlDQUlPQTltVGZsY1BZczlDWTJCQ0FtcnBCWDVNUGFNWkRTY0lfVVVVbUtZVlE?oc=5
+- **Source:** Tennessee Titans
+- **Published:** 2026-10-31T17:02:57+00:00
 
 ## Microsoft just gave Nvidia shareholders a reason to pay attention - TheStreet
 
@@ -237,69 +303,3 @@ _Last updated: 2026-10-31T16:55:30.572255+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMif0FVX3lxTE9rZWRYT1FyU0dmWi1WWHU0VUpYWkoyMkJHUlZYdXB6dDk3UTlRVl9PTWlxbXhiSXdUYVRJVjFFb09ETFNOWlV2eDBfanc3ekNnam4ta3ZIWm9hS2Voejl2TWdGQnhhdWxHQ0ExcmJvZ3dQRXNrVUdIenQ1TktIbXM?oc=5
 - **Source:** eeNews Europe
 - **Published:** 2026-10-31T11:59:59+00:00
-
-## Holding the power button doesn't just force your PC off, Windows 11 quietly saves a crash dump for Microsoft first - Windows Latest
-
-- **URL:** https://news.google.com/rss/articles/CBMi6gFBVV95cUxQMTl6a05EOWhGcVVlR19OUTF0bXFGVVRUWnBNMlU0Zkd3VWpSSGNLYlJicmpNRk1IaHpkbFA4VS1HVkNub1ZMZHFoekpOcFVXUkFVRG5Mb0k2NnB4eXpUVjN6clhhQV8tMW5Ga3VGS0FQcDAySVpySGpXTmN5TlMwWTRhbXlnYm1Wa1lsVV9MSllYQnBacnktNUp2OEJpbktvZU13a1JMY2dfZ1RWeEtHVi0wcUFnd0p4UVZmSEc0VXhfSHNwVERnQUtqM3dBMm1KUXFBZmF1U041NklFWVV4Z08xVks3MlhyMkE?oc=5
-- **Source:** Windows Latest
-- **Published:** 2026-10-31T11:54:22+00:00
-
-## Veteran Microsoft engineer makes his own RAM from scratch using AI — custom FPGA board dodges extreme 1970s PDP-11 memory prices - Tom's Hardware
-
-- **URL:** https://news.google.com/rss/articles/CBMi_AFBVV95cUxOX0RNZHlpczFfVk53ajhaMlp3RktOUjBBVFJwaE1VS25oTkxvSWM5Y0VWdE5NTm0xTGc1ajg4cXA1LUd2dG90MHBDWTlCX0JKUmlCWjNvUlNjcUpkeUZvS2RzLS1XbGhpSEZXSzJtd2hVN2FfTzRBajIzZmItMVlzNXFPb3FuSUNpU2N6WDdUeW96WmZZTm81dFIzc2NoY0JqMzM3TWJrQXc1RHNHWU1jMG9LLW9MZEpIa3hQaUdZZVRpQkZYSEtGbmRvQzdWaWZXc3hvc2RYUkhvT05jT0pNNDg2Q3l1TjlnQnBUTjhPUERFeDlwQ3V4cVBpYjU?oc=5
-- **Source:** Tom's Hardware
-- **Published:** 2026-10-31T11:40:00+00:00
-
-## Make Microsoft Office Pro Plus 2024 Yours Forever for Just $50 - PCMag
-
-- **URL:** https://news.google.com/rss/articles/CBMikwFBVV95cUxONzczTFNTOXdPdk9vd3hWTjZodU04ZGc0UUFhbkR5MW9UM0t3cXpLdUlGSmtiRkdvNlhoZmhjcm5laUM0dm5uYTdEUkF3RG9CdllCdmtOekZYTGhoUFNjcEtqX2NKc0N4bGQwdnFPTXdlZFZRREktczd0RE55OGI0a2REZFhkdVBNalNJVm5ZMDZjMm8?oc=5
-- **Source:** PCMag
-- **Published:** 2026-10-31T11:00:10+00:00
-
-## Microsoft dared Curry Barker to edit his latest horror short unplugged - Ad Age
-
-- **URL:** https://news.google.com/rss/articles/CBMijgFBVV95cUxNc21UMWpFWHhtdVFwVDlpV0xxN3lDcTN4b2YxeHFPNy1XQlRzSFV3OGZlN0dBR1lGT1JoeGc1QlBZaUZReVdjSEJrUldobWhQM3lCMjRZQ3pHQUYzTGxhbVktVkVZWkxKT1VmRkppeWEzcUQ1azJuM1d5WEhQOFRNbzdjSzR0RmhvX1RkcUF3?oc=5
-- **Source:** Ad Age
-- **Published:** 2026-10-31T11:00:00+00:00
-
-## Microsoft Veteran Engineer Explains Windows 11 Task Manager Lag Under Heavy CPU Load, Saying It’s “Hard To Fix A Runaway System From Within That Same System” - Wccftech
-
-- **URL:** https://news.google.com/rss/articles/CBMilgFBVV95cUxNelhoa29JRC1pX19YcmxmWmJ1OTdLVWJQSEc2ekcycnpJajVvYzg4WXNuQlRXOE1EZmJjOU13amJNU2RnU095UWEzWmc1VWtBV2hDbUlOb1Q4d096QWNOM0tEbmxuZWNoSHUwX24zeDJLbFlrVXBFdlUwczRqY1o3VzR4djJZYVhRTVRVcXFrbmxMb1VEbGfSAZsBQVVfeXFMT0RGS3ZHZDhTaXRzaWZialh3RE50Y05BaTRJV3lKR0NURklyTGpfOTVULTd3Zk5WSmtZQlotbEREMlJ2TXpsR201V0RiMTlaTW5xb3V3dUtqMzZ2alhUYTI5b1RibnFlY3B3SE9CTWFlZ19JS2U3R3pxZGN0Z0RqM3BkOU56TkJkOUFzeFhMNVdVMnplellJdVB2S1E?oc=5
-- **Source:** Wccftech
-- **Published:** 2026-10-31T10:49:31+00:00
-
-## Freedom Capital Markets Initiates Microsoft(MSFT.US) With Buy Rating, Announces Target Price $625 - Moomoo
-
-- **URL:** https://news.google.com/rss/articles/CBMivAFBVV95cUxPUHdjdVplWWpjOURCMGh6QWxWT1dPUm9Wb0tNOHNGZjRHSTNaLXNMSzZHbDNwTlZKM1drVFlESWl0SFUzM19OMFU3YktsMFlGcC1LOTdMZ3lIUzBBZE1SUUxQcnBKcjVvc1dLTTg5ejZUUmIxWWJNNzdPWnBRWUpoZTNub1g3ZjVobDBtVjJWZVhUbjViM1dDT2lkdDZxSzRrYTdmXy1OQlZfaTFldWx2aHl6SXdCTTlQX1BrNQ?oc=5
-- **Source:** Moomoo
-- **Published:** 2026-10-31T10:31:00+00:00
-
-## Fake Apps Outsmarted Microsoft’s Authenticator - Yahoo News UK
-
-- **URL:** https://news.google.com/rss/articles/CBMijgFBVV95cUxPaUc2Y25tbHBia05xQ191dFpCdU1XcHJpWDJ1VlNqQWh4TmtTOFdlZ3RJaHFwOTV5M0xmZThiS3BNWEY2bEU3TXhHdWJpRDBablNLVTNIZmRnelBYTkxPcy1YaWF6LU96YUdWUVVlNVpwdE51cVgxS2xCaDZSM1p6MkhhcmxyOE10Z0JPMDRn?oc=5
-- **Source:** Yahoo News UK
-- **Published:** 2026-10-31T10:02:00+00:00
-
-## CAS AI chief on agents, Copilot and the physical lab - R&D World
-
-- **URL:** https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZFBxRVN5RDIzQzEyOFdJNWxaTVBWSnBKLVRiS2M1Qk5wUE9JUEx6TTRMTl9MbkVLb3pqcElJU202cU9IX0d2WnFGMWFFcmlZSENTTjJjT1BxUjI1c0RRXzJxc2tuVFAtQktodUVYSTRBMVNmMnBBN0J0T2U0YVpKTXlNb1FPV1hRWW03RmdXa1kzWEZCbWZPOXJKaklZTmxHZVJsREcwSzZWWE5CM1VkN0RKLUU3LVdU?oc=5
-- **Source:** R&D World
-- **Published:** 2026-10-31T09:48:45+00:00
-
-## Work Management News: October’s AI Giants Have to Show Their Work - UC Today
-
-- **URL:** https://news.google.com/rss/articles/CBMiiwFBVV95cUxPd0Z5WVdUZlJxUURMb0Y4SlNTT29ZNkNFUEpGN3VlWk8tdVVBSVpxcTVFMTR1b2Vka3BCLWNqMFgtYjJCN2Z6cnZ6NUhFMXRJV0ZQSy1EUldiYzgwaDVlNFNxM0hqSUtuTXEwSktCWFpTSHp4SkVYa0dfdnBQQk1TbFlLSmZ6N3NRQVBF?oc=5
-- **Source:** UC Today
-- **Published:** 2026-10-31T09:29:46+00:00
-
-## Boehringer, Microsoft, NVIDIA, GSK: This Week in Healthcare - Healthcare Digital
-
-- **URL:** https://news.google.com/rss/articles/CBMilgFBVV95cUxOZ0UwbmRHc3RROXF1MmMxNXpPNjFmbWZ6VmVCdGIxQ2JkMmU4elhiRnR0TUlENVNmVkIxX0E3UDcyM0F3bUhJMkhEX3BZUy1IRm9OVVV1Q1I0Z25pWkJ4M0Jma0IyMHVzS2FQd2RfbEhFa29laWZxVHV0cndEX3VMTDJqbkJJM3g4S2RHUm5oVjFqWlcxS3c?oc=5
-- **Source:** Healthcare Digital
-- **Published:** 2026-10-31T09:01:24+00:00
-
-## Replace Microsoft 365 with a $27.97 lifetime Office license for Windows - PCWorld
-
-- **URL:** https://news.google.com/rss/articles/CBMitgFBVV95cUxOWlBfT21fV2dkRE56VE44d1ZmV1ZrUWprOWpzXzE5bi1mTXFES0IyZ0hzNmEtb1NFNllMeFN6WnFFN3c3TUYyTnBqYTBNbVI3bklHZGEtbzlGRjZ5aGZpSWZvY2NCcmlETllvcnFnODNnNXdYMmc4WnU1ZFhoZHZWZFhyYVZfQWEyRUV0VWxHOVF2U1B3eGpPeEtUN1dfY2FrdjRMRzQ4dVpYV3AxdHpPT3czV21Ndw?oc=5
-- **Source:** PCWorld
-- **Published:** 2026-10-31T08:04:57+00:00
