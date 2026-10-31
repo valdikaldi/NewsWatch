@@ -1,8 +1,38 @@
 # NewsWatch — Iceland News
 
-_Last updated: 2026-10-31T01:29:46.202382+00:00 · 50 articles_
+_Last updated: 2026-10-31T10:13:43.051925+00:00 · 50 articles_
 
 ---
+
+## 19-year-old farmer: “This is so dangerous” - Iceland Monitor
+
+- **URL:** https://news.google.com/rss/articles/CBMiqAFBVV95cUxPX1c0TUZVM1Y1bGVtSWdlb291eXlFTTk5OS1VdzNXSzdOajdTc3ptdDQ1RGk4YVY0X3hUS2tqelBQQTB6WXd0TVZxR3E1MkNHbFd4emdNTHlXXzNBR0gxcG5aV1lqU0NibDhQdy0wRWgtRmJKaGFOWFRYbndRc2dTXzFvb1A0LVN0UmRQb25YZFdXQm9LSENYek5obFRoYy1ZdW1VSU9xRTI?oc=5
+- **Source:** Iceland Monitor
+- **Published:** 2026-10-31T10:00:00+00:00
+
+## Top 16 Free Things To Do in Reykjavik - Guide to Iceland
+
+- **URL:** https://news.google.com/rss/articles/CBMifEFVX3lxTE9QVndUVVlIQlF3Y0FNdmE2NU5Gd2ZoUHBjTy1wZ05UUEp1UzJ4cVVKS1QzcHVyVi01SDduTGFLWG1razM5ejlaQ3hRdGRzRWpxenh4T2Y3RENnYm5pYmFhay1YRGpMemMzeWZrOW4tZlBEeGdXX0lVQkQ2QlY?oc=5
+- **Source:** Guide to Iceland
+- **Published:** 2026-10-31T07:59:34+00:00
+
+## Blue Lagoon Approves Public Offering and Nasdaq Iceland Listing - Iceland Review
+
+- **URL:** https://news.google.com/rss/articles/CBMihwFBVV95cUxPRVpQRWZQM05ITWEzWW0xVVQyX0g2NXNoZ1A3OVFhdU5uSm82NFYyRUk2VlpQd0VzTDNicTN2SE1RQ3BrcFh4NExiUWhqN2VJS1M3Yy10d010VTNZTWRiM3FmQ3FucHIySnN2OFh2MC1HWG9vcHFCU2NZc3Z5RmxEcFZIaU5TLTQ?oc=5
+- **Source:** Iceland Review
+- **Published:** 2026-10-31T07:00:00+00:00
+
+## Blue Lagoon Owner Eyes IPO on Iceland Main Market - Briefs Finance
+
+- **URL:** https://news.google.com/rss/articles/CBMikgFBVV95cUxPbXQtYnEyZHJpUUtyWkFBX2h0S2kyWTJFX1BIM2UtcnhqMTBMNEJ2VmxBUUdRenVxNl9tS2taY0NtaDRuTWpaLWZTSXRqNndaeE43M2JSbjFQRVhHN3hKMVk5VG5LVWVVbnNmYzFXRk9WZWkxUnVIUE1KVnM0ejZVd1BjOHA2aWpmUmNWRnE0SWZWQQ?oc=5
+- **Source:** Briefs Finance
+- **Published:** 2026-10-31T03:42:00+00:00
+
+## Where was Masters Of The Universe (2026) filmed? - The Worldwide Guide To Movie Locations
+
+- **URL:** https://news.google.com/rss/articles/CBMieEFVX3lxTE83QjlSYS1OMGstY29oSmlHbnlQZmJMdDhNTjNlNUpzTFdYd0pSRmZYZ1BCd0RoTkpQaWRKSGViMnpVV0tEcEZaOWg0MDBRRzRkUzRLdlk0MmY3bEhhd0pOaTAzTmJoQ2kzQXcySHdUUGx0aWVaTzF6cQ?oc=5
+- **Source:** The Worldwide Guide To Movie Locations
+- **Published:** 2026-10-31T02:01:44+00:00
 
 ## Handtas Met Franjes - Northern lights Aurora borealis over Iceland lagoon Stock Photo Alamy - auroradesio.it
 
@@ -273,33 +303,3 @@ _Last updated: 2026-10-31T01:29:46.202382+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMi1wFBVV95cUxQV2RKbThBZS1zZDBlazJCT0lrV2ZlUTBVNnM2YnpFcDk3T2pjSUN6ZHdnVjl0cFdheHBkLTJsYWppSzdfUWI1X3F5S2NYMjZYLVpyeGhfenNlcXlTQm11bVdTam0tM0RuRFg4NXhyQjhXaWRDejRNM01uT0dCemxkMXlhem0wNWNkTS1sR3ZsQV9FZVlIaFk2NVJQdVl5UDA4N3hWZW1WdmxNS3J0dWpJa2p3aGFKaTJmTGpmYTEzMlphSWMxNmVMd1dSNFl3aVk2OGVTa21lSQ?oc=5
 - **Source:** Transfermarkt
 - **Published:** 2026-10-30T00:12:29+00:00
-
-## Visit Iceland Will Send a Real Knitter to Your Dumb Meeting so You Can Skip It - Matador Network
-
-- **URL:** https://news.google.com/rss/articles/CBMib0FVX3lxTE9RZFVZaW1MSjRQZHI4aFUzeUYyeFZ0d2w2c25LWWdBRDdmcWpWQUExbzFYY1RkeVNXTl9qRVlmX29JeWpXUEhlVkdCb09EVWlYTFdHeHhJYXVnYW5GdGVQcG9lTjJFU2ptWHQ1YmtTbw?oc=5
-- **Source:** Matador Network
-- **Published:** 2026-10-29T23:27:31+00:00
-
-## Bac Ninh native completes 3,000km road trip in Iceland - Báo VietNamNet
-
-- **URL:** https://news.google.com/rss/articles/CBMilwFBVV95cUxQWUZxTEZpWGpUQXVBU3dENFFvampncGFXOFltSktEZjBrV3ZyZjJNRGtIMmdReENkM1ZQeXo5LVVGRXgwbHZLWXdzUXk2RkstUDBKLXNSUkotLWQtWlMyejV0ZkszSThTSlVRTEtPb2xLTTVTLWZfWU83UVl0XzJFYzJZd2pibzhKcjFMUUpqcDNrd0xYR1pr?oc=5
-- **Source:** Báo VietNamNet
-- **Published:** 2026-10-29T23:09:00+00:00
-
-## The Rainiest and Driest Months in Iceland: A 26-Year Rainfall Study - Guide to Iceland
-
-- **URL:** https://news.google.com/rss/articles/CBMicEFVX3lxTE5ueHlJRVpLUG11TWRWRDZWTjNxRGU3WHE3dFpqd1BQTzBiWnQ0THd1TXJRRGRrdllHeWNJX3UwaGFBZGxmYWczNFMxVGtPU3I3TWlxbV9CQ2dSS0RrMU0tcDlIb294YnpMUmxSYmc2cEo?oc=5
-- **Source:** Guide to Iceland
-- **Published:** 2026-10-29T21:54:32+00:00
-
-## Tourism shake-up: the countries that became tourist hotspots and those that crashed - Ynetnews
-
-- **URL:** https://news.google.com/rss/articles/CBMiX0FVX3lxTE5nSnV5d1pCa3hLVnZUeno5TkhhZHkyOUZkSWRrUTUyQjItVklILUh2SEFFMTZ1eXNvT0RmYVlLbXpFSjd2TngyQ1B3bEV3b0haQ0NhYkl5YVZXbkxIVkJV?oc=5
-- **Source:** Ynetnews
-- **Published:** 2026-10-29T20:55:15+00:00
-
-## Air China’s new route, codeshare to boost China-Iceland connectivity - The Bangladesh Monitor
-
-- **URL:** https://news.google.com/rss/articles/CBMipgFBVV95cUxQVHd3YVJ6Yzg4RHV1Zk5fRXgzbHJVbVQ5bFdKVVY4ejVhODNpaWZoV2xlY0o4QmNaeXVGRWZJbWdwb3BhVTFmbGtqYmtCVDBuME5pc1BzSDFxQ1V4NFJQckdOTlllYVV5cXJxblNrenJ0c18za2tmSzZ4RU52c0x3cDZZeWNxMHhUYU53aG9wVVpYaVR3cjB5RF93X243QjFHaVJoajlR?oc=5
-- **Source:** The Bangladesh Monitor
-- **Published:** 2026-10-29T20:46:49+00:00

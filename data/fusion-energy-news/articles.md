@@ -1,8 +1,38 @@
 # NewsWatch — fusion energy News
 
-_Last updated: 2026-10-31T01:29:46.528752+00:00 · 50 articles_
+_Last updated: 2026-10-31T10:13:43.542360+00:00 · 50 articles_
 
 ---
+
+## A tribe returns, joyful, to 51 acres in the San Gabriel foothills - Los Angeles Times
+
+- **URL:** https://news.google.com/rss/articles/CBMikAFBVV95cUxPVGl2VW55UHNQWndTTmtmcTduX1VxcmZfU3NfcG9LWWZiZnZKM0QzQjFpb0Joc0xIS1BKM1dFTWc3MW9DaG95dHNseDktTnVTcGhvZGpyZmFQVTFHQzVTUjg0WGZKNFBQcUpkeld2R0k4cTYySEdNXzhQeHg3OWdZbHNOYkt2dzF0b0c5VkxPdkc?oc=5
+- **Source:** Los Angeles Times
+- **Published:** 2026-10-31T10:00:00+00:00
+
+## October 2026 HPC Career News - HPCwire
+
+- **URL:** https://news.google.com/rss/articles/CBMickFVX3lxTE5tZzlkSEh1a3B1VlRjX1B5N2ViUll3anB3aG1YWURZS0VxMERpY1VKdzZuNkNCc3pUOGJXQXBEeG9fRlJqNF9tZlVocGlGckVKeVAyTjFTN09wS2pDaVNSeVlKeDZzNHJuMElvVEk3R2Jmdw?oc=5
+- **Source:** HPCwire
+- **Published:** 2026-10-31T09:21:48+00:00
+
+## Tests and treatments for Alzheimer’s | Bill Gates - Gates Notes
+
+- **URL:** https://news.google.com/rss/articles/CBMi0AFBVV95cUxNZVpuN3ZaOExJWDJSNlBtcUZBay1aQWdaQXprc0E3eDlranM2bGMzSFNTeDdZSnhLNXRWWmZzOV82cFMzWjFRRTJ4ZjNlS01sUno3MDVGYnVqZndQbGNHbmF3Yk4ycko0emR3RGRCVXQ1V3VmenlxNWMzMFNob180RENXeEpqMWFRUzV1b21NMkpWTHdUUy1yYXNtMW9US3AxcHBZdGtxMFJZd3lveVVGU3JkSGJUZzgyalY4Z0dxUGp6M2hMNGFHOGFkWHBLV1oz?oc=5
+- **Source:** Gates Notes
+- **Published:** 2026-10-31T07:13:19+00:00
+
+## Trump Media & Technology Group | Truth Social, DJT, History, & TAE - Britannica
+
+- **URL:** https://news.google.com/rss/articles/CBMic0FVX3lxTE5lT2dhSXRTdXhSaGh2djRnVUFnTUdVRlZzRzdxdXdjTElyMF9ZeWJUUG1kbWJIYUlpWkhJVTdoREJsWU9TaEdibjNIdE4wdjFwQTk4bmZaU2lNRm4tM1Z1M0trcFdhZ2kyM1ZDYWZwQmphRDg?oc=5
+- **Source:** Britannica
+- **Published:** 2026-10-31T05:40:33+00:00
+
+## Dessie - Seduction | Music Legal Download - TrendyHipHop
+
+- **URL:** https://news.google.com/rss/articles/CBMiY0FVX3lxTE1rSjZLYjhYbHRVQkRsbEI1dWN3NWE5cnFRWUxJSUY3WVlkbHRGODdyNXVQLWJDOFA2Ums1d3BUWFNtNVdSemszWEdBamRGNmVJbXRhMlJmTHNTZ2FVT3NnVzhxNA?oc=5
+- **Source:** TrendyHipHop
+- **Published:** 2026-10-31T03:32:27+00:00
 
 ## Tech giants and nuclear leaders make news at CERAWeek -- ANS / Nuclear Newswire - American Nuclear Society
 
@@ -273,33 +303,3 @@ _Last updated: 2026-10-31T01:29:46.528752+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMiwgFBVV95cUxPX3QyMFh0V2dsMmlmVDNvSWx0UlM3U1RhZzJVQ3drQTYwcUZXZUZjWGR5VFBKZ1VWR1A2SDItTGpRVlFNYmNQY1A1UDR5Tm9sTVVzWVE5eGNiTHM5Nmt2Z3A5TDkySWxaU3hTX19ESFZ2b0NNaEJrOWFlMWxJeXhFeERKenRKTkdSeHFjRThrSks5SEpfaVpIUnNxeG5lMGE0SmQwLUJMMDBJUkhXZS1KVjRFcUhWZldUTW04ajE2TkJRUdIBwgFBVV95cUxPX3QyMFh0V2dsMmlmVDNvSWx0UlM3U1RhZzJVQ3drQTYwcUZXZUZjWGR5VFBKZ1VWR1A2SDItTGpRVlFNYmNQY1A1UDR5Tm9sTVVzWVE5eGNiTHM5Nmt2Z3A5TDkySWxaU3hTX19ESFZ2b0NNaEJrOWFlMWxJeXhFeERKenRKTkdSeHFjRThrSks5SEpfaVpIUnNxeG5lMGE0SmQwLUJMMDBJUkhXZS1KVjRFcUhWZldUTW04ajE2TkJRUQ?oc=5
 - **Source:** upi
 - **Published:** 2026-10-29T23:57:00+00:00
-
-## Kyoto Fusioneering and Germany's Focused Energy Team Up on Laser Fusion Power Plant Technology - XenoSpectrum
-
-- **URL:** https://news.google.com/rss/articles/CBMidEFVX3lxTFBMSkd5c01JRXhDMS1yZGtwVEg4VDNZWjFFbjRRRXhCLW92Y3BHbHhla0NPQVpmc1hkc0xOSEpiR1FKdWgxeG1MTkk2S3BZWThvSzNVcHlzdjZjUjQ0TldXblowaXMyWENLb2ZadTZpemFaNElU?oc=5
-- **Source:** XenoSpectrum
-- **Published:** 2026-10-29T23:40:42+00:00
-
-## InvestorNewsBreaks – American Fusion Inc. (AMFN) Positions Texatron(TM) Development Around Race to Power AI - StreetInsider
-
-- **URL:** https://news.google.com/rss/articles/CBMiqAJBVV95cUxQZ3lFSzVmVG5CSGJfM0djcnFDVndpaUp3Qlp1UmZNT0JwUGp5QzRrMXV1RVEtel9zUEZEOXp4c0l6eElLOFFGQ3JkcjgxQ3BUaTBZZ0dHZllLUWRnb0FWcjNMQmlaUmtZZDNhbk1lZF9FbGdrMHdiTi01RnlVZ3puN3BBZk5oSWU1Nmwtc2l5V3dISVNma3pFQV9FMi1CWWpkaFJCLW5RbTI3NGdhYjRVUzVidlE0c29DTU54UjZNUlN5cC1pdFVSWm1QLW1YaTZ5ektlOHBoMHpWZDFuV01rTGVZSEt2MHBWTFlsSE11OXVoOVZGampHSEM5X3MxUjRnSy1NV3lFQXU3SEFoeVZHcE1UQkxFbVl2d3g1MmYwM2hjQlQtX2FFTw?oc=5
-- **Source:** StreetInsider
-- **Published:** 2026-10-29T19:56:11+00:00
-
-## Can Fusion Power Solve the Energy Crisis? Twilio’s Co-Founder Is Betting Big - Cheddar
-
-- **URL:** https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbUpoaHpuX2Vucnl3d184QWpJTG9mTkJBUHY3Qm1NS205Q0s2b01sYjlpSEZNVTZQdklVdllOdkNvZUZ3V1dhTU1kVm4zWkY0d092SVRLcjM3eTVmWGNmYlV3b0JwU2lfZzNYVHVuU3VoeGllU1JSWWpTUDVlV18wSVA4MGp6X19DLXNxMV9tVlNyR1dURE5ZTnU5N0lxaGJQVDIwR2ladFA?oc=5
-- **Source:** Cheddar
-- **Published:** 2026-10-29T16:18:38+00:00
-
-## NuScale Signs Doosan Contract for Upper Reactor Coolant System - Securities.io
-
-- **URL:** https://news.google.com/rss/articles/CBMikwFBVV95cUxPNjZfZXI2UkY4WlN6VXp2dWhzSHA1R3l6cERjbWlJeVdjanhwNXNxSExNSUFOSF9HV282YjRFTlVUMzY3bmxlRERjenJYdnlWekJTS3Q4VG5LZUptQW9naWlxa1V4STQzdklMNWw1cmtjdjgzaENSWWVndFpOMS1HcHFwZGFCMHRQbEpTaTFZV0JKVlE?oc=5
-- **Source:** Securities.io
-- **Published:** 2026-10-29T16:14:04+00:00
-
-## US and Finland expand cooperation on tech and critical minerals - Latest news from Azerbaijan
-
-- **URL:** https://news.google.com/rss/articles/CBMijAFBVV95cUxQMTlFenk5cWZaRkpVanlKamloeWtOUUhlNG9PNHBlZDBEckQ5UHlaMDhLWVVFLTZTVnZfcVEzZmJSOGRIWkM5SGhhRzRJSE5sUUZ6UktsdXNrcGVlVHFjbWN2NTFDYS1KSXpBZnZ4RjNtWnUzS2lZSG1zdWxia2tQemNaU2ZhRFNHZnk2WA?oc=5
-- **Source:** Latest news from Azerbaijan
-- **Published:** 2026-10-29T15:17:12+00:00
