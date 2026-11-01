@@ -1,8 +1,20 @@
 # NewsWatch — Iceland News
 
-_Last updated: 2026-10-31T21:06:15.722720+00:00 · 50 articles_
+_Last updated: 2026-11-01T00:44:50.314614+00:00 · 50 articles_
 
 ---
+
+## Danish Folk Pop Star Tina Dico Finds Her Footing in a Noisy World on New Album 'Balancing Small Things On Sharp Edges' - That Eric Alper
+
+- **URL:** https://news.google.com/rss/articles/CBMi7wFBVV95cUxObl84UDJHM3JkSWM2Tm13WXRxMkUxVlVZQWZ1YVRfaU9BbkFkLXctNHFKTEVzbzV2dHZHcTNIeUNPalFtbnJMZG9haWE0UkU5blFwV3duUTZGSHRoMXRRQXVTUXVQYjRjZzBOWFkyTXU4aHRVazZrNGM1cWpyaEVEbWFEaDlFUnN0dkY3RXVvWGhOekpGcWtKNDg1Wmlmd3Z5R29kQ094SzFoLUFydV8wNWdPdmNZenZFYk8tRXNJUkRMU0M4ekdpdVQ3Z25QV0c2TDNfeW1kbXZuRGVTazRsaVo4MFFUOEp6NUpKeFZlZw?oc=5
+- **Source:** That Eric Alper
+- **Published:** 2026-10-31T23:51:13+00:00
+
+## Skip Chobani. These 2 Brands Sell Consumer Reports' Highest-Rated Vanilla Yogurts - Mashed
+
+- **URL:** https://news.google.com/rss/articles/CBMimgFBVV95cUxPaFU4VHk5M1R3VWtraFJqWTV0TE41S253RmhXRl85cVFYeHRSdFVvWmJxLW1ZZHFrZlFMcWpQQTlXeVhFaTU3aVBCbnFQRW92ZVJFWmNjNS0xT3lmOVM5MVZPcWpLdUhaUzUzYzNkUXp4UFZuR21vQWdGb0VCRllRWFMxd2NmR3lPTmpHUUlOV0ZzSXdxaGtSOGJR?oc=5
+- **Source:** Mashed
+- **Published:** 2026-10-31T23:03:00+00:00
 
 ## After 14 years, Euro Truck Simulator 2 will feature transparent water — new screenshots of the expansion about the “land of fire and ice” - iXBT.games
 
@@ -291,15 +303,3 @@ _Last updated: 2026-10-31T21:06:15.722720+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMihwFBVV95cUxOdzhxOFBDckJ5eTY1S2d1aEhSX0lYM1NEbmlZeWNwLWJqWk1HUzRxMFN0ZXVkT3hnVXhpb3BZWGVFal9Ma2loS3JOVENvRXZ5RDBYMnBwY3VsMDdmMkF4VDItdWRia0J0b3VuMWFTTmZSdGJmdGhpMy1oMmc5UnNNYU13NFZaRTg?oc=5
 - **Source:** AOL.com
 - **Published:** 2026-10-30T08:37:51+00:00
-
-## Achat Gilet Femme - Northern lights Aurora borealis over Iceland lagoon Stock Photo Alamy - auroradesio.it
-
-- **URL:** https://news.google.com/rss/articles/CBMiUkFVX3lxTE1Rc1dKTzRGVk94WmdZMkVQM25GQVV2ZmZCQjNQQVJCck1nNGI2dDBERURpbTNWM0FESllRX1pXME5IYjRoeERPSTZFZzBmN0VHN1E?oc=5
-- **Source:** auroradesio.it
-- **Published:** 2026-10-30T08:07:28+00:00
-
-## Wang Yi meets Iceland foreign minister in Beijing to deepen ties and expand cooperation - Dimsum Daily
-
-- **URL:** https://news.google.com/rss/articles/CBMitgFBVV95cUxPa1d6Unhpc1NLRk1oMTZ4NVZwOWZlcGdsXzlMXzhKMzVzX3dtWUJCMlJkVXVJa2NCQ0FTTXYyck9CLXBWUGpMS3YtY0hodWRyajAtRmNWME84WnpBTURVbFJqaGJzaUhEdFBVTG9yRVdwdDB5dzNkRnowV2dzNUlaNktaYXhJbGtjZW42WU4tWG51eFJUb2RXQjZOQ0NYYm81Y3RlV29TYkpuMktEaU9rTVlMRDMzdw?oc=5
-- **Source:** Dimsum Daily
-- **Published:** 2026-10-30T08:06:38+00:00

@@ -1,8 +1,56 @@
 # NewsWatch — Microsoft News
 
-_Last updated: 2026-10-31T21:06:13.849069+00:00 · 50 articles_
+_Last updated: 2026-11-01T00:44:49.900679+00:00 · 50 articles_
 
 ---
+
+## Amazon, Google, Microsoft Backlog Hits $1.83T, Up 2.4x - FourWeekMBA
+
+- **URL:** https://news.google.com/rss/articles/CBMihAFBVV95cUxNYnpjTllYdmVfbHBERDhxbFhEeTE5WE9KeFRhZmU2dVp0ZnJkRUVpQURwVm1PWUlGQndSekc3YWVHanpWZk5lMUdubFpjbUVMYlU3NF9sUW9nWUtuMXJ3c0Z1OXZiQmNaZ2Y2US1FSGtfa3A3N3pRS1phemxudmpsSzF6WHU?oc=5
+- **Source:** FourWeekMBA
+- **Published:** 2026-11-01T00:12:12+00:00
+
+## Dragging the Windows Taskbar To Move It Is Dead, and That's a Feature - TechPowerUp
+
+- **URL:** https://news.google.com/rss/articles/CBMipAFBVV95cUxOZ29JSnFnNlNDMS12M0VnVUtEUzB4SXRrdU05eUxENm9yQlVHc054VHZwSU1XOU93QWRCYmxYR2dmRnFtNHBsM05pM3RpbzRGVDZ0bDN6cHdJc2JUdGRrTXFydjg3NEljRWZqeGZqWm5WUG5WTTkteS12ZW1RdDFwUWlFU0dGcTZZaEh4Ty1RNk1hTGwzcE94WkpVODhwX256WlkyRdIBqgFBVV95cUxNdzR1NGJ0SWlUdGxuZHZQN1hzMUJaeXV2V2lfSEMtdWowakd2U205WFJLc3JjRG56VGtBT2dkV1NKTWtjV2ZtUGhZelotRzhOVk1TT3F0cm01eVRjQk5qYmY5UVhjcFp4M2hTWk9VY0NQX1NYVmNMS2toMGFkZkoxZ2hxS0xtSkJ6R2l0c2lYZ2w5c1FaeFg1S0hqeXNmU1l2c1lfS0tzY1Uydw?oc=5
+- **Source:** TechPowerUp
+- **Published:** 2026-10-31T23:11:27+00:00
+
+## Microsoft's 32% profit growth has a lesson hidden in last ye - KuCoin
+
+- **URL:** https://news.google.com/rss/articles/CBMic0FVX3lxTE1PNDBBbFdEMWZvZWNORzIwT0x5NGpRWC1SUF9NMG55UWk5SXl3X2NlNWlQejZXcVExbmR4WWt3bFdkTmp2VG55VXMwX2xEdzZTcEZWLXluaWd2UEhiYXQyR0pIWnUzVC0teEplaEpuNU0yVzQ?oc=5
+- **Source:** KuCoin
+- **Published:** 2026-10-31T23:04:14+00:00
+
+## 4 Important Features You Should Know If You Use Microsoft Teams - Engadget
+
+- **URL:** https://news.google.com/rss/articles/CBMihwFBVV95cUxPcFJfdXZoV01nZFhLb1lyMGt1NFRCaGpSVHB6YlhHa3BkSmlEclRZeXQ5NWdzWlExZ0lSTVp0NldIdTFhMGJxc0xnUGtzQzRtMk93U0tKY0FrSzFGTkpDekwwRThNRUxJNk1yeXBKd2FId2lOOGEzYmJuMUNBQUtiTDluLWh1LXc?oc=5
+- **Source:** Engadget
+- **Published:** 2026-10-31T22:45:00+00:00
+
+## Microsoft says Windows 11 won’t let users drag the taskbar to reposition it - Mezha.net
+
+- **URL:** https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUEw5bUZHV2ZaaHVQYVZfZmx3VzUtdUFtVmREUDZKVzRZbGQ2SXNibml4Q3UwdVQ4RmhGYlQ2b2dqVGJyY1h3bmZ3LXVoUjVvUFNXRUMtUW5lejRZNWlzVFV4NXZmNXNmb3VwaXFFYldqVzM0dlVzSVlKb1pHX1Y4SVNyZ2RkMXpu?oc=5
+- **Source:** Mezha.net
+- **Published:** 2026-10-31T22:14:45+00:00
+
+## Microsoft explains why Windows 11 users cannot drag the taskbar to reposition it - Yahoo Tech
+
+- **URL:** https://news.google.com/rss/articles/CBMilAFBVV95cUxPWm13LTd0TWtLUXk3Vlo3ZHJkbUdlQzk1U3ZnU1dIQ3RYOTlMTzA0czNjQzdXaVZEenJJdGo1QlB1bWJubzVTeldPamcxamJRR1hyc18wcERiZ3gwMGdVaUtCLUZtdTE3STFwU3ZoeG9uaDlKV1BkN0lMbVhQa3pEZXJaWmNIQ0NKT2tJZW81NlNSdGN1?oc=5
+- **Source:** Yahoo Tech
+- **Published:** 2026-10-31T22:00:01+00:00
+
+## Windows 10 had it, but Microsoft says it’s never coming back to Windows 11 because you’d only mess up your taskbar by dragging it - Windows Latest
+
+- **URL:** https://news.google.com/rss/articles/CBMi_AFBVV95cUxOYW5Ma0Uwd3d0S1M2UDY4OVhoaXpWUVJOV09fR2UwX2VWaXpSbDZOTUJFYmZyamhoSmVsejNqX01jLVdoZDdPWlk5a2RpdDdlUUw2YVFtMkM0WWVUYnlKbUdqN1JGR0xrUU8tRkktZkdkaGluUmMyZTQtWmktazdlcHlMU2ZRWGNtU19QaHBSa0dTci1ZQjRBZ0hEYzhnQUxubWdCTWNvREFFRVBodzlTMHdPdkloRHdreXoya1M0Vl9xY0ZFWG15bUZKMDFrSm9kSzBHbDVSSXZVWnV2MUw3Vl9ld3FhSVRPUkVYR0NXR25yYnZabTFPanplUC0?oc=5
+- **Source:** Windows Latest
+- **Published:** 2026-10-31T21:30:08+00:00
+
+## Xbox Series X 1TB Digital Edition Still Packs Full Power for Digital Players - TechEBlog -
+
+- **URL:** https://news.google.com/rss/articles/CBMijAFBVV95cUxOUURETlRtLThxS3NSTUdZY3YtUnhHX0Jsc0dSWDYydnp5ZlU4QkpneGxZb3NxUFFFSXR3WldGalpWUWdRMFpmLUFMU2hwMENyQTM4N0xyV0NCSlZ3TXhFX2R1UFFySjNvY1lSaGxXZHhvT3ZhX3VuZ2pRVGxyTm5fTG51M3l0V3hLOFlZYg?oc=5
+- **Source:** TechEBlog -
+- **Published:** 2026-10-31T21:20:14+00:00
 
 ## FY27 Q1 - Press Releases - Investor Relations - Microsoft
 
@@ -255,51 +303,3 @@ _Last updated: 2026-10-31T21:06:13.849069+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMirAFBVV95cUxPb1ZXLXZHZnkzUFIyX0xpSEhYRThCeDZyUEwycVVrZzU5bjJveGxNRjhuME5lcHZVcnVrb1hkeFkxZjR1OE9DR2xiRy1Ba200d2NpV0tfdnpzU3dsXzZwaG95OGNaNXlaTzluaXdPcTBvTXF5WW1aZmhWNFR4c1czVDhyLWhJUDBXcUVvQ29qSGZEakYzazFUeXUxNVR0RmJxRFlqdmFoTGNUeUxZ?oc=5
 - **Source:** KuCoin
 - **Published:** 2026-10-31T12:14:05+00:00
-
-## Microsoft Unveils Physical AI Revolutionizing Automation in Manufacturing - Small Business Trends
-
-- **URL:** https://news.google.com/rss/articles/CBMiowFBVV95cUxPS0NwNUJGQ0phMWRHdkhna3lPc2VfWUFZYjE2Q2E0ZVdqLWw0RFJKWldEOUh6TWlzcHN5Z2g2NGJwWlpHckI4dXpqamh1ajFuSjI5MWE1RlNCdEVqc2xmdVF0TnZxZVl5enpEYkRDdGx0RUNBdFZlM1FRYjJyYlZibXJsZnNXalAzb2xrNjF4aWVzRmFoQ0lhUk9yc0xXb3pMRVZJ?oc=5
-- **Source:** Small Business Trends
-- **Published:** 2026-10-31T12:11:00+00:00
-
-## Xbox Continues to Struggle: Microsoft Reports Declines in Content and Game Pass, While Its First-Party Lineup Sees Only Modest Growth - levelup.com
-
-- **URL:** https://news.google.com/rss/articles/CBMi9wFBVV95cUxOYUxYZk95ZXpud29aU3ozMl9YTHRvUHo0MUloMXBoOEF1cGNPRUlldUtsWXVsZFZoSDNPQmdHbnllQ3VYaWNBUVJma2xiM2lXMVI1Yi1TaW9qcEpSN1JXdkxPX0ZRa0dOM3VXaGo3b1kwT1VvNG9naHg5VU9ONGhfUUpRRjBYQmJlcFZFZTdVbHlmUTBPVllUU3d4b2tzWE5CM29DM0xhMGg2RVM3bE9acHVPTm9qNzVDZFJ1Xy02cXplYnpQLVVMZWRQUDhNSm5ydUo5UVZyV0Z3MW1rNjRlb2xwRDF5SWdyZnNFSXFPdzh1NFh3bzU0?oc=5
-- **Source:** levelup.com
-- **Published:** 2026-10-31T12:07:46+00:00
-
-## Denmark’s Collabora Pilot Was Never The Microsoft Replacement it Was Made Out to Be - It's FOSS
-
-- **URL:** https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9aQzBuOUFFMGlFWUk1M2VNT2NtWVFuelNZbnVoOEg5QWFNSGRDODNkYUZuNUdvcW1JbkU4bzN1VVU1bC1ZalM0R1l6djE5ZTFxMWNDd3dSX0N3N2J6RmxLVjBuZUxHaGs?oc=5
-- **Source:** It's FOSS
-- **Published:** 2026-10-31T12:05:45+00:00
-
-## AI Security and Customer Data Risks Feature in Big Tech Results - CX Today
-
-- **URL:** https://news.google.com/rss/articles/CBMikAFBVV95cUxQNHFtcDJ2amFfN3ZuVXVYdHdBU3lMTUVZcTRfYjhIWTkwZ1kxMDhlbDkySnA3Q0tBeUREZTBWTFBWeUlPNk9qYmVybFNjdWN1VldvbTJ3NFZkMlRnSU1VOUhRYVlLTW5PUEZ1aktxX2syZ2prcUxDN3BMZy1YcFEyVnZwTG9YSHQyeTZSN1RndF8?oc=5
-- **Source:** CX Today
-- **Published:** 2026-10-31T12:02:52+00:00
-
-## Everything new coming with the Windows 11 November update - Sportskeeda Tech
-
-- **URL:** https://news.google.com/rss/articles/CBMijgFBVV95cUxOLW1YN3dGeC1RbU5JMXl6OWgyekREWUJLNjZJYURTbWtNaExna3RwUnQ2SVltWXN4ZWNFT3JyNk9lU1VBd2h1ajhCOHZLTnpZQmJHM2t3ZGxPQ25wdlJ4ZkFqeV80SlVCLWhMYkZ0VDhOMkVyZHFuWGYwMEp6Nlo2QzJNaUZ3UURjSmZCY2NB?oc=5
-- **Source:** Sportskeeda Tech
-- **Published:** 2026-10-31T12:00:36+00:00
-
-## Microsoft: Cash Is King - Rich AI SaaS/Cloud Monetization Prospects - Seeking Alpha
-
-- **URL:** https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcjVSUzVsSWhkcmU5XzlRU3ZEZ0pHVy00N3Rna3NCdEgyN2Nrd09vSzVWa1hCSGJMNFpLVGVncVQtODdTSUJBVFY3S01rckFHOU5nYmhSTHVRa1E0OVB2Y0dCckNhS3V4aTZxTDVDWjlUYzZPb0xIeXFaNWNQMzhfeGx3QzJ4V3NTMlFUeklDQldHUDhwX1hfVGExZzNhY1F6WDVyY3JldUs?oc=5
-- **Source:** Seeking Alpha
-- **Published:** 2026-10-31T12:00:00+00:00
-
-## Goth aesthetic gone wild: a user's self-inflicted black screen of non-death in Windows 3.1’s - The Register
-
-- **URL:** https://news.google.com/rss/articles/CBMi2wFBVV95cUxOdHNfeS14a1BoREZwS1JGNm5aMW05YkM5OHlfaHdfWUxucTNhekh3b282TVNJV3BPeEhaN19CWkN4RVpVY0NCRkhRUDJqaDdIUTkza0h2czR1RWt6SWpaMXdsZE5VR3gzWWdjWUJqZDVTczItaGswLW1aajZWQVJyclJrTjN4eEpaYXV2T1NpandfYTBWU09VSGl6V1ZLb2tSUEZsZU5qZy1rdGhJa3h0a0VTWXNoWU5KM2kzSjZyMlA4UHZpcW5GMk1qSHpzUUttaFRyQnRPcW8wcW8?oc=5
-- **Source:** The Register
-- **Published:** 2026-10-31T12:00:00+00:00
-
-## Microsoft links ConnectWise supply chain attack to AI agents ... - eeNews Europe
-
-- **URL:** https://news.google.com/rss/articles/CBMif0FVX3lxTE9rZWRYT1FyU0dmWi1WWHU0VUpYWkoyMkJHUlZYdXB6dDk3UTlRVl9PTWlxbXhiSXdUYVRJVjFFb09ETFNOWlV2eDBfanc3ekNnam4ta3ZIWm9hS2Voejl2TWdGQnhhdWxHQ0ExcmJvZ3dQRXNrVUdIenQ1TktIbXM?oc=5
-- **Source:** eeNews Europe
-- **Published:** 2026-10-31T11:59:59+00:00

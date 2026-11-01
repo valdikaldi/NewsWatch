@@ -1,8 +1,32 @@
 # NewsWatch — fusion energy News
 
-_Last updated: 2026-10-31T21:06:17.601679+00:00 · 50 articles_
+_Last updated: 2026-11-01T00:44:50.729899+00:00 · 50 articles_
 
 ---
+
+## Ongoing Global Upheaval Demands More Practical Cooperation Aetween India And ASEAN - OpEd - Eurasia Review
+
+- **URL:** https://news.google.com/rss/articles/CBMixgFBVV95cUxPR0F1R2hlV25RZFA2TGprWjN3Q08tZ1VVODh2MG15X1RhMHRIbzJjNzhQR201NUltbW5JX0hQMmpja0tWVHJBS0lTVnhWZzVaS2dfbzY1dTVEQnJTellLLUpSMXIySW0xUzBCZlFaelNla20tN2lVV01uek9UWV9ZWUZocHNNTE9yWmsyNjNsSHp4WEdtMEQ3M0hDMWc5M0NCdGl6M0VKVERBLXRwblczUmJ4RmcxNmFBTm93NjNOeElJT1VId3c?oc=5
+- **Source:** Eurasia Review
+- **Published:** 2026-11-01T00:33:46+00:00
+
+## 10 Most Powerful Dragon Ball Z Movie Transformations, Ranked - Comic Book Resources
+
+- **URL:** https://news.google.com/rss/articles/CBMiigFBVV95cUxOQ0p2My1veW1STFJ5MUl5T01raUNiZG15QkJIdXFrTUN5MkhxZ2hjT3pFTHRHWEVwdjlDNDVIOHIzeE5lRzdvN2IwOFdkejNXUVhkaGlQbU0zVmtsSVcydXo4ZGlVWjRnbW1IMjFTVElKdWhuZ2kyX001M3pob0l5N0V4NzBCclVqaVE?oc=5
+- **Source:** Comic Book Resources
+- **Published:** 2026-11-01T00:15:00+00:00
+
+## Tests and treatments for Alzheimer’s | Bill Gates - Gates Notes
+
+- **URL:** https://news.google.com/rss/articles/CBMiogFBVV95cUxNMjlQVEh1SG1JcGlWVUZMUVZFMTlPZ3JQWUxVUHlzZlVHTjQtSGppb1BOR3VSN0dPT0RQUVVjOGNKQVlWMFBXaHQ0S2NXZldZTlUzQjlDUERDWW5mMFV3RnZicE5hbzQyX0NzczNQZGJnV3JJWmQ2ejNQU3JHNDlnSllOMV9oTGtHNmhUR2R0VVlNMzJBTmhnMngyTGgzeGdISHc?oc=5
+- **Source:** Gates Notes
+- **Published:** 2026-10-31T21:35:03+00:00
+
+## “Peace” - Open Letters, from Anne Applebaum
+
+- **URL:** https://news.google.com/rss/articles/CBMiVEFVX3lxTE1Kb1h1LWRLaFdYTWYtck8zb0dBWFpEV29nZVJvb0dpckcxSzRNUDM1TFoyX2JCVHU2bnNCWkRqc2VxcnJ6aGlSTUUzQ0dPbnZPVVdIQQ?oc=5
+- **Source:** Open Letters, from Anne Applebaum
+- **Published:** 2026-10-31T21:22:55+00:00
 
 ## Punk favourites Millie Manders and the Shutup heading to Reading - Reading Chronicle
 
@@ -279,27 +303,3 @@ _Last updated: 2026-10-31T21:06:17.601679+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMihAFBVV95cUxPNDN1UUVIdWJmaVNxXzJtVWJlMDVZZmR6Wi1mVXExWmI1RWFWcWtRSVFWd0lycGRVM0FkcVpuZDVfb2tDaF9wNm1xQ1VWLUtQNTVHM3JPb045bjkzS3c4WXBOQUJCZ1oxb0xCSnpVREFzZWtrb0ptMGROREEtVFh2dzc3SXU?oc=5
 - **Source:** Financial Times
 - **Published:** 2026-10-30T05:00:42+00:00
-
-## Thermodynamics of the Youth Pledge - Kompas.com
-
-- **URL:** https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZ0N6bzZqcy1RZGxoekdsQ2x3WGpoWFp1U0FrdE1UcVB1U2ttclBTcGZ5d2ZxUDEtLVpkbm1iaUJ4RnB6TlNWQkVLRVhQUl92NndFZ1pQc3VQcXQtenZaU0dQQ3UzV3hCM1FBazZtcUJEWWZ2OGNiRW9wWGdTbTVNbHdCZHhSc1NB?oc=5
-- **Source:** Kompas.com
-- **Published:** 2026-10-30T04:49:28+00:00
-
-## Global Laser Enrichment Secures Victory for First-of-a-Kind Uranium Enrichment License - Orrick
-
-- **URL:** https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQzJZY2dIdzlOV19JLXdWb0plbnV2dEVydEo0X1pZdUdhVmx3M2RpLUxabW1PWDlyVmxTc2lHUVN2SUR5T1ZMRE0tRXNCYjdNQUJrYlRvYmFxWWVDVXNVLUk2MmpULTBRcEdfTVJHVWNaV3RoU0ZFTjdxVk84TUJtUDlhajFVcmlYeDV4bThXUm11TzgzT0JxZ2JpMmNtbXo4Z3dTMUpmX0EyNzN2YVhEbUJtZ2JWNTlwVzZwcFk3OE9DRTA?oc=5
-- **Source:** Orrick
-- **Published:** 2026-10-30T03:10:19+00:00
-
-## Workforce needs in the energy sector - Community College Daily
-
-- **URL:** https://news.google.com/rss/articles/CBMieEFVX3lxTE9EdEpjZGtGWkR4TUd4bTA5cEp6VHpmbGl4U2JPMTBCWkt0QkdhUnhRdmF4QlpTMVBIcnlrUERmMGRWRHNfRUVHUUU4bXA3UnhMMmttbGlEbEZhdWItaGNLVHhoUVpMZEFaU1BxWE1EUkd4UElDbFdoTw?oc=5
-- **Source:** Community College Daily
-- **Published:** 2026-10-30T01:46:38+00:00
-
-## NASA and DOE sign space nuclear MOU -- ANS / Nuclear Newswire - American Nuclear Society
-
-- **URL:** https://news.google.com/rss/articles/CBMif0FVX3lxTE1hZnNkVzB0ODE4YVhyeEhSVjdEOXpVWnMwNi0xbzBIRTdFbmdFeUZLd0JSQW9ueWdOQk1kRUZ0NENIRi1jalN0dTJmNmdjSHAwdEFZdHZWRE9UdzFfQTBQcC1oemRPcjFhWXNHeFhlR2lLMWUwYmtOa2cyY3h4ZEk?oc=5
-- **Source:** American Nuclear Society
-- **Published:** 2026-10-30T01:30:07+00:00
