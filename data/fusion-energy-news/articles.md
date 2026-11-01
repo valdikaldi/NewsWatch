@@ -1,8 +1,44 @@
 # NewsWatch — fusion energy News
 
-_Last updated: 2026-11-01T11:04:24.935823+00:00 · 50 articles_
+_Last updated: 2026-11-01T17:42:45.040210+00:00 · 50 articles_
 
 ---
+
+## Chattanooga’s quantum commercialization studio kicks off with four teams - Teknovation.biz
+
+- **URL:** https://news.google.com/rss/articles/CBMiogFBVV95cUxPd2RocDY2NnNCX3hfeEJGUnRWQzhrb3hZQ3UzMFE1anlQYURBaHdlUzNpbGZrWnpNRms5OVVKem9zb1Q0OEJOdkNwVzFpRlZCNl80dDZpNEpPbFFEalIzU1JhWGtTc0MyMFlXWi1CcUtNT3QyZi05S1Zkb3drX01Nam9JV3U4Ri1ET2ttT1lzanBZZ21BVVRwNHNZRmlZbkt2Snc?oc=5
+- **Source:** Teknovation.biz
+- **Published:** 2026-11-01T17:07:02+00:00
+
+## Nuclear reactors under construction rise to 79 globally on AI demand - Nikkei Asia
+
+- **URL:** https://news.google.com/rss/articles/CBMirAFBVV95cUxQQ2JVTTFfUUJUbzN1Q0s0dG9LV3pZMjdJbGpQRUJJdW1sVTlPOWcwN0dMTldCRzJhQWdYNmZzeHhmbWRVRXdodFRUWHJNTV82SHhyaXM5eVFKV255WjJNaDlTRXBFQnpEN2dWOTE2YlRmeU0wSllXWTVfZnJ4NjQ2ZHVsbU1WcE13aGx3VXBkSFk4OFp5S0dWdjBQU3Z6OURpT1FlT05rSzFETnhX?oc=5
+- **Source:** Nikkei Asia
+- **Published:** 2026-11-01T16:20:00+00:00
+
+## Sodium-ion vs. lithium-ion: Tracking the battery race in 2026 - Interesting Engineering
+
+- **URL:** https://news.google.com/rss/articles/CBMiigFBVV95cUxQLTFsazNCOXNvNGlUckxFankzZy01MXNZd1R1X1pheEpZZ3NoWUtVcko2aXBPWmNVR0lnUW9aTnhIblBuamNUbmw5bjBPelpiSXlGSWNaUGJkTTNNN2poRXdOa1pmcG9hRGdRdDhsZnhWc3IzY1EyYl9reUEtTVlacjYtb0Zsb3RLTnc?oc=5
+- **Source:** Interesting Engineering
+- **Published:** 2026-11-01T15:50:00+00:00
+
+## Type One Energy paper proposes splitting tritium breeding and power generation across future fusion plant fleets - Energies Media
+
+- **URL:** https://news.google.com/rss/articles/CBMickFVX3lxTE1hNE1iRnlvLVl1eEt0Q0swU1NId2lkOFV6NWxhMDZfUFZOMHlXZXBYRDNKNkZ0LWY3RmJjRXBwS2hXZ1JvNGF3LV9xZHM5RVpnQ1ZreEtUdmd4M3FRa1p6MVYzanhLbHVvNHlaQXpFSC1mQQ?oc=5
+- **Source:** Energies Media
+- **Published:** 2026-11-01T14:55:07+00:00
+
+## Pokémon TCG Pocket Dual Fusion Trainer Card Review & Meta Analysis - Pokémon GO Hub
+
+- **URL:** https://news.google.com/rss/articles/CBMiqgFBVV95cUxQajh1YzMyRGY5M1hVTThrYUNnZS1nZDdFMnIwYVB2SF9mb2p2LW9tTGhnMGZZU3pwV2M1TFdEVHFWQmpURzBmWUhFLVpXREJjWDNFZXJqRDJlczh1MlBJR05ydjlqSjVTNUU1SnVBTFpqOEs1SHdLZi1ZbFZTM0hBV1F2blpxU3JrNWJSb1VIdFlsck9Id2dteVZGRUxlbm1aOWpOeWtlaEJ4dw?oc=5
+- **Source:** Pokémon GO Hub
+- **Published:** 2026-11-01T12:43:55+00:00
+
+## Pokémon TCG Pocket Dual Fusion ex Card Review & Meta Analysis - Pokémon GO Hub
+
+- **URL:** https://news.google.com/rss/articles/CBMiowFBVV95cUxOQ2Rhcmt5LUI4X09Pc084NVU1ZGttQ0Q5VFY0RDFFWnBhQVc3cld3dU1JT2czWXQzRjUwbzkyNGQ3N1Z5VEZqbk1mQTdFSUNfeEYxUmV2LW5IckI0Q0pRQktzVm9jYnhKRGRHTjhDTmM4V2JqV29xdGtEYXo5bVpYTzFxa1h5a3c3bUlJM0hGZmVOZDVYdXBrSER2YWNtUHBNUklv?oc=5
+- **Source:** Pokémon GO Hub
+- **Published:** 2026-11-01T12:43:29+00:00
 
 ## H13 Tool Steel Powder for Additive Manufacturing Market To 2035: Tooling Demand Drives Growth - News and Statistics - IndexBox
 
@@ -267,39 +303,3 @@ _Last updated: 2026-11-01T11:04:24.935823+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMiwgFBVV95cUxNamJpZzNCMWtZdFUxaU9aWVlxNnhkNVpsWnFQX2VlRkg2LUxVOERrMW8ySGpHbFNtTlZZajJoRG5iSzVqSjU0U3ozTTBnYk5GNUVMbW9QZlJaaWQ4R0IzUUJfM2pNWlZwNndRTjl3TjNsSkxHOG5JY0VTTWROelZYOTE1V3NOSUEtVXNab2lGaW5WTDVzY2h1VjYwcGJmZ3V4YkVVYnpENUFDU1hDeVAxZmxkMkdZOUdXb2xTVURoRmc0dw?oc=5
 - **Source:** The Chemical Engineer
 - **Published:** 2026-10-30T12:20:59+00:00
-
-## Fusion drives US semiconductor investment - Nuclear Engineering International
-
-- **URL:** https://news.google.com/rss/articles/CBMigAFBVV95cUxOWGozV1BxWjNLZmNOU2xSRjNPaDlhNzJDWERGcDg0MjNaSlRULW9naXZfYUpmVDJuUEJsTHNBR1hGcXdjOU5VcWRXdXkycHNNbFZzMUNad0xGdkFIU1ZKb1BWcHJRdHY0c1NLMlpTdnAxcXdwWVVHb0dSYm9Kc0oxeQ?oc=5
-- **Source:** Nuclear Engineering International
-- **Published:** 2026-10-30T12:11:35+00:00
-
-## Thank You, Michel: Celebrating the Founder Behind General Fusion - www.marketscreener.com
-
-- **URL:** https://news.google.com/rss/articles/CBMitgFBVV95cUxOT0J5dWx3LVhxaDdPN3JvazR4QTJ5akk3YzVUMGRWVEVxaGJqbEVJNVVwR2hJZGhST001UmdGOGVNcFpYQ0V6aTBaYVYyemd2X1NZa3VocHF5NjFySGRrSDVzU095S0FWMGhlYjFPUENNd2VacV9nd2c5RVRSb1E1eVV0ZFhVYVh1ckhULUhRSG04QkU1Q0NQdzdqQzJyay1EeV9MUkVJZGFESDN5LTZkZGY0WXI1dw?oc=5
-- **Source:** www.marketscreener.com
-- **Published:** 2026-10-30T11:55:09+00:00
-
-## Cork bookworms to enjoy the delights of a fine dining-literature fusion at reading retreat - Irish Independent
-
-- **URL:** https://news.google.com/rss/articles/CBMi3wFBVV95cUxQR2xXTG5wSWdXUkdZb2ROck9KSTJzR3p2aVlqY00xSGtjbnVhQUlmQTh2RUJQRDdvMllodUN6SElVZXJ3ajZOd0phd3dDU3ZqNzdHWWxwcmVIVGRxS1ZBaXhyM2RKemhLQjVkRXhWblNiaEw2MEF4T3p5dHZiVDJ5MDVzZUxTSlZxZlhCQVB5aWo4XzAxLV9CT2laZU00VlVHX1h3TUJYeXpvVEpJQlh5V1hxdUlrSjhaUnNlZEVGdFJHc3V3NlJ6VmstZ0l2SkhUaXRLVjcxM0lHbzlrOXZn?oc=5
-- **Source:** Irish Independent
-- **Published:** 2026-10-30T11:20:00+00:00
-
-## FIA and J-Fusion Partner on Commercial Fusion Deployment: Week in Brief: 10/30/26 | Business | Oct 2026 - Photonics Spectra
-
-- **URL:** https://news.google.com/rss/articles/CBMilAFBVV95cUxNNndVNkFzUDRRdDFhd3ZETmt2YTdzMkhsbHFLc3lpckUxWTZTcElkU0hWX0RwZ2hrYVZWSUdaU3RtYjJRNEs5S05mQXNTVVBHemVsZ3pHUWtfS3p0UGxDUkhHbGVzQURMcjRTckc3WGhGb1dFRGwxSjkxdENmdFRnSWxNZjBLOGxkQWhRTmZ0cXBfZHd2?oc=5
-- **Source:** Photonics Spectra
-- **Published:** 2026-10-30T11:04:02+00:00
-
-## 7,000 parts for a neutron machine: Freemelt wins ESS tungsten deal - 3D Printing Industry
-
-- **URL:** https://news.google.com/rss/articles/CBMirAFBVV95cUxQVWpmQ29CRDh5OTJRWXNvUmFOSDRRajhQVVB6OHo0Y0Vpb0pKVTdGcnFNT3o1c05LYnhobXN4Z2Fhc2dJOWtwbUtVMjQyR2tGY0xLeFNjWWgyTVluZFRYY0RoTGRQS2tyamplU1VUcWZ2OElIYmtxY3VTTnpmQ2sxaEYyV2xPczdyVnpXOTNKWm5hTjBRd21VeVh0ZWd1OGd3LTFFX1pjS09HNlQ3?oc=5
-- **Source:** 3D Printing Industry
-- **Published:** 2026-10-30T11:00:32+00:00
-
-## Pokemon TCG Pocket: Best Mega Mewtwo X ex deck guide - Sportskeeda
-
-- **URL:** https://news.google.com/rss/articles/CBMikAFBVV95cUxORWlGclY3ZFEwb2kzVzd0dUQ0UFhpMU1hX2dUS2Nhakhpd1JvVnAyR2lKa3AwdGRIbFVPY0paSVB1aXFhTmVpdjBVVnczNzdrVkZBcGxRbklZNGwxZE1iZVBRZnlPTXBBaGx5clFUd1M0UFJkNk8xcXZrRTZyWWp0VEd5UkNueUZSUEJNSEIzRHc?oc=5
-- **Source:** Sportskeeda
-- **Published:** 2026-10-30T10:29:00+00:00

@@ -1,8 +1,80 @@
 # NewsWatch — Iceland News
 
-_Last updated: 2026-11-01T11:04:24.494398+00:00 · 50 articles_
+_Last updated: 2026-11-01T17:42:44.518667+00:00 · 50 articles_
 
 ---
+
+## Iceland’s Biobuilding Cabin Uses Hempcrete Grown at Sandhóll to Test Local Materials - freeyork
+
+- **URL:** https://news.google.com/rss/articles/CBMijgFBVV95cUxNNkt1dFk5ektnenhMVUkzZHNkU2RnbFF0emtjNVdZeUFJeFRHcHotcFk4WkFPZUFxNUhmN2FEV01vcFdFMDMxV2RrdnZ4UE1ETVlJQlF5R0xLN1dsbW1ZQVlOdWtCUG1fZWJjbF9wZDJlLUpubF80cHMtU095OWVpN1kyYmQzc2R6b2NRdlBR?oc=5
+- **Source:** freeyork
+- **Published:** 2026-11-01T16:55:20+00:00
+
+## Iceland shoppers can get £20 bonus – but deadline is days away - Skint Dad
+
+- **URL:** https://news.google.com/rss/articles/CBMidEFVX3lxTE5JS2pIQWdHdU42TXFqUjZ6RWdGNnJhNGJGX19VamJQZ0hWVHdibVFUYkdpa0RGUXNQWkZ6VmRfR3lnZHo0YlpBNllkTmthRXlwZzJjQmRpM3A1Qkp0UUdlMXR2OElkbURnUmh5TW82aXo3dWlJ?oc=5
+- **Source:** Skint Dad
+- **Published:** 2026-11-01T16:24:00+00:00
+
+## What to Do This Week | Iceland Airwaves, Oldboy and More - Iceland Review
+
+- **URL:** https://news.google.com/rss/articles/CBMikwFBVV95cUxPYzdNRjc0ak9NTDdrZG9mbS1ZX09NWkRZQVd1LW1YSG5TZ1BLdmlkZjlsNmtDamhnNDUtQlZaQnJ4YnNsZzdkODdvUEFhNkJoR2xVTGNNSFN0VGlSX09kNC04d05CUU1CdFY3SjgxaWxkZjQzdE5NcDF1ZHpDWl9pN3Z3dUw5dk43TEJ5NmVHMTh1a2M?oc=5
+- **Source:** Iceland Review
+- **Published:** 2026-11-01T15:30:06+00:00
+
+## “I'm not allowed to keep these at home” - Iceland Monitor
+
+- **URL:** https://news.google.com/rss/articles/CBMipgFBVV95cUxNQk9HUnBONmJpeVZzZnNWUm85XzdDdDVWTkpiWnJpZnpuSEJUYVFqUW0yYzduc0haRTZmMjZrVXhHcHhhTDladUVnN2h0N0Vac1dBR1hnTHZFWENod1hQRTVsdWdiRVhfUmNmMlZEeGsyd01rRmZpQ042N0xxZVcxU1BPTU9IazRtNm50RjNmQmUzNTZULWJ4UzNmTE9XYzNsc2V5aWxB?oc=5
+- **Source:** Iceland Monitor
+- **Published:** 2026-11-01T15:00:00+00:00
+
+## Tómas Óli Gardarsson - Transfermarkt
+
+- **URL:** https://news.google.com/rss/articles/CBMi1gFBVV95cUxQWktaQmFia0lmcEhGOXQ2SDdkbEx2VU9OTVZWZG1IOTNNUWVSRFZvMDhWc0ZvSldONjhSc1FySU5hdmI5M2JmckQ1c1lDR3FveGgyVmNfTTQzMWNvTEtXREFFbWxfSmg1Z3RCS2xpcXNxU1RQRFNMRVBqNGZmdVlSd2hOTktZQW1vOVByZTJ0TGhPYmlDY0FMYVBLaVZOcFk2NE5BeC1OZWJaYkpWVUJHaTBkSktDYUc4UlRGWEVRT053V1dfbzZMUE10WFptRjZNVnk1a05B?oc=5
+- **Source:** Transfermarkt
+- **Published:** 2026-11-01T14:56:00+00:00
+
+## Ukraine Is NATO's Shield, and Its Allies Are Turning a Profit on It - fakeoff.org
+
+- **URL:** https://news.google.com/rss/articles/CBMilwFBVV95cUxQVU5WU01tY1BzaXJVSUdKNXpheVp0VmhFYjRDMTNYRE80MlBYX28xWUMxZ2hUVElZa2REUkdDemNMMXZsSm5MM2htSC1wMF9scFcyNXNGOXdWM3FRMTBna2FjYmRIb1JjNW5qelZzY3VoYms0d0RrMnJSai1IX3pROFFNRUJIUEY3a0R6OEZ1aTRFeGswS1pB?oc=5
+- **Source:** fakeoff.org
+- **Published:** 2026-11-01T13:32:18+00:00
+
+## Man dies following stabbing attack in Breiðholt - Iceland Monitor
+
+- **URL:** https://news.google.com/rss/articles/CBMioAFBVV95cUxPNnp1MlM2bENfcWxfWFVYX3JuVndva2RURDQ5b1N6NXJBZUhmQTlTNVRqT1VuWG1idWRoczRwR0ktalBCYjJFQkJ2OXozanR4VzlkTFE1OE1nQ0l3dDNZZUUtUVBib281QXVzcGtteE9fRWpKTTY3TEJ6d3RkZE9BeHE4SU9BOWljTW1HWFJOZTJJNXZ6ajlsZjJSa0M3Qk5Y?oc=5
+- **Source:** Iceland Monitor
+- **Published:** 2026-11-01T13:01:00+00:00
+
+## Aiding Arctic sustainability for win-win results - China Daily Global Edition
+
+- **URL:** https://news.google.com/rss/articles/CBMiggFBVV95cUxOOFlwbVpSMW5LNTUxemNFMWtfVVhlLVlQdjJTbUhWN0pWMnN3VERDaFRZdTBrTTFWUG1QS29UVmtIeUc3eFFWWUk5ZzBwQ2ZHWVg2RGhqaHNKRjUtRTZKYzl2Rnl6RmhZYlJzalprOFNoczVWUWptaWxwM2lnVDFwejJB?oc=5
+- **Source:** China Daily Global Edition
+- **Published:** 2026-11-01T12:20:03+00:00
+
+## Movement detected again at Svínafellsheiði - Icelandic Meteorological office
+
+- **URL:** https://news.google.com/rss/articles/CBMigwFBVV95cUxOYnBBMC1EX1VBNjdvS3ROZnUwNnFUbXFUbDBjUjhkSUxqeWxXRDBJX1dfalI1RU1OVVBpUHJCclNXek0zTHE5Nkk1NmJsSERjanVzS1NqcUJ3TElvd1N3dVBISEhQNVh6ODYtR1g4WENWcDk4QXZVeHdheXpGQks2LWVDOA?oc=5
+- **Source:** Icelandic Meteorological office
+- **Published:** 2026-11-01T12:19:21+00:00
+
+## Presidential runoff underway at all polling stations across Europe - БНР Новини
+
+- **URL:** https://news.google.com/rss/articles/CBMiogFBVV95cUxNQXZnSFplSlNBLTBEZ3lyR3NyZjZSYzhVUHN0Mi1nRlR2Uk5aVlZqNlFlc2hpcXVEYjYtYUdnQWlTVTktdG1hOHBQaFBNS0pPTVdPazN3eDRrNDlqUWVFN2UzQTBUQkNhOFg2MTBhVmlLaUtjenJjMzdZbG1zVUlxblY0MEVZNU9yNFJJTmNHTURmZU5nUFltNWt6cEFtQzZWYUE?oc=5
+- **Source:** БНР Новини
+- **Published:** 2026-11-01T11:32:14+00:00
+
+## Kristinn Örn Aegisson - Transfermarkt
+
+- **URL:** https://news.google.com/rss/articles/CBMi2gFBVV95cUxPM2tZM25OTGItQ0pDSjFSVVhYbTNfLXE4ZFlvOHB6eWxiaEZIdWJHd3BqMmcxLWxhTHowNjNzaU8yU3FvSlNMZzdzWUwzWHE0VVkzQzZBbjYxb296amc4QlpGN2NEa29rcklsS1JsYmhIYVhzZU1rTVJraG1qaGhENlR5a21BaTF1Q1k2Wi1aOXFtREhReDlKMmNkYko5anNkYUpDWV83VDBnSkNrVW5td1N1TXFBenRlck5CVEdHaHBWNS1MbzNMbWxhbUhybDUzWTgzckJMOVZjQQ?oc=5
+- **Source:** Transfermarkt
+- **Published:** 2026-11-01T11:08:34+00:00
+
+## Sindri Björnsson - Transfermarkt
+
+- **URL:** https://news.google.com/rss/articles/CBMizAFBVV95cUxOZUcwOW1qazd0bWlTUTc0a212TDJUbVJOY3lqSHIwZHJqV0ttekI0RmVVdVMySjhrYmhyaU85UWhOQUlMWWg0QVd2R1ZXVmMzeGRTOG1OVjBjeWFDVFBWX3BsS2JiUUhoaTF3d3lsXy1sQjViaTY0RE9fZzRxN2xNS1NxX285cGlBZjFIdVcwaDdXTFpvWEcxUHVLUmpoNnNUUncxdUhRcDNFa2hYNDlQTmREbG9hUjVjLUI5VjdPLVZvQXozNllIRExRX1Y?oc=5
+- **Source:** Transfermarkt
+- **Published:** 2026-11-01T11:06:58+00:00
 
 ## I used an airline hack to turn a layover into a mini trip to Iceland. It was worth the short detour — and saved me money. - Business Insider
 
@@ -231,75 +303,3 @@ _Last updated: 2026-11-01T11:04:24.494398+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMimgFBVV95cUxOa2EtbHRHSGt3VXR2bEY3NUxuZWUxY0drclBXbHZyeVVfNTdHd01oVHVSXzFyMElYTHBhc3lIeXI3RU5fS3ZlRXhXSDE0bVFEWHBiUFVwWHBaeWMzYUhKSXBsdWlYdFVyLXBpODVQMWVETl9QSFJOejdHNWFqZ216Wm85by1xSDV0MWdSeE1UZy01a21OVVFnQlJ3?oc=5
 - **Source:** Arctic Today
 - **Published:** 2026-10-30T23:07:29+00:00
-
-## China-Iceland meeting: Beijng talks Arctic, Reykavik talks Ukraine – Eye on the Arctic - Radio-Canada
-
-- **URL:** https://news.google.com/rss/articles/CBMitwFBVV95cUxOc3V1dlEtbjB5VHlrNWdEUFZJZlVfNnpnV0llSHliY0I5RGM5WFNyUTFFSkVDUUdOaDlFS3ZEaDNLdk4yQzZjc0s3V1lBTnM0enU1Z2xqWWF0MzAwRzJ2ZlpoZkNZeC1MSUhtdGZQZUdGeDQ1YllkS3BnSFJYVVNMUms0TDFEZVpBeENBZi1Mb3FZcnlhSERTU1dGV1RydDdZOE5VcXNDd1RXTE1oQk9IeGtyWGZIaHM?oc=5
-- **Source:** Radio-Canada
-- **Published:** 2026-10-30T20:25:36+00:00
-
-## Iceland Airwaves 2026 announces final lineup - Northern Transmissions
-
-- **URL:** https://news.google.com/rss/articles/CBMihgFBVV95cUxPR3JaOU5ZcHBrS1JScURZU1lGTjRhM3JvT1pkR0JqeTNHRkhON0NrdlpFcXNiMnFzTHBORUxCZzQ0OEdEdW83b1NZdUdWamZzdmhKby10WVRROHZjdkVNUDFnZm9qNzZoaGgtZlVsQ3g2OTlFeE40RjhrNzFuOHhKYk1fRV9WQQ?oc=5
-- **Source:** Northern Transmissions
-- **Published:** 2026-10-30T20:14:52+00:00
-
-## Icelandic cruise with dolphins and whale watching sails from Liverpool in 2028 - Liverpool Echo
-
-- **URL:** https://news.google.com/rss/articles/CBMioAFBVV95cUxOcEhMVTUwQnZRa2dmR2I2UFB5ZlFYdkJCZnFjMDloOXVmdnZHaWxMeXhuYWJKYVZqR3g0SWdDZWtnS2dnWkN3Ri14Z1pSUlpDVHppTVhacmdoMkMtdHQtVnNjX0NXTnNPSDVPMG1PbDdhdy03U29teXhWdGotYnNGRVhXRHI5bUl1eFpSMHNBeEVLNHNWb3ZTOTkzSFVfUEpN0gGmAUFVX3lxTFBmenF2UE1saEFtcXRhOFVsUldDN0N0b3FNdmVVU3lHT3VGX3l2NzBDZ2ZrSXZTSXFWVmN0ZEZGVlFEdk8yOE9zN1B0cTBkVkZTQzlhQzdPOW1odDItNVpiQzdEUXNod2NpVE1QQ0luSDZDRjJZMllJOUljaDJiSjgweWItN2VYMjFtT00weGFuSmxnV24wOTB1Wk9qaUxrN3p3Q2d6WUE?oc=5
-- **Source:** Liverpool Echo
-- **Published:** 2026-10-30T20:00:00+00:00
-
-## The Cheapest Time To Visit Iceland: A Study of 350,249 Bookings - Guide to Iceland
-
-- **URL:** https://news.google.com/rss/articles/CBMif0FVX3lxTE1iRUhvbTE5RUhpQTliRlcxV1cwRlZhamhhUjJLeDV2VTB1LVRtcjBMSGpDR2I2SzNKQVdUZm8tYzVJbG4tS1YtNkxEbkJRSGo3RzhybTg0T2N4Z3VRclJIcGVUWWM4T3VkeG16bXlqRmhGNFhobGtXVHZvaTMzaUU?oc=5
-- **Source:** Guide to Iceland
-- **Published:** 2026-10-30T18:25:46+00:00
-
-## Moody Gardens Iceland: Caribbean Winter Wonderland Takes Shape - CW39 Houston
-
-- **URL:** https://news.google.com/rss/articles/CBMimgFBVV95cUxPd1l4VGl5YXRFQWRkU1NuWldiNExkOERZamUyMmdBMTBqWFNCNXZSZENYNFJza21OdzdWYVU2ZU1XSl9fM0xYMVlyZTQzRTQ5YjRsSmFqZkdUU2U3am1jQjN0R1hURW52ZTF0NHUyazVSMy0xcjVNR3kyTGkzNG5Kbk1YQlA4S3BTR1FQWlhpME9hM0NrTkFIZjdB?oc=5
-- **Source:** CW39 Houston
-- **Published:** 2026-10-30T18:15:22+00:00
-
-## Prices reduced on new cars - mbl.is
-
-- **URL:** https://news.google.com/rss/articles/CBMijwFBVV95cUxQWDdLSk1HSk5RSjlFc0lYQVZoTUhFUlRvSU9VRnNWdElHVFQ0UVE1RkFUdW5LeEMwMWFlQjUwQXhIS3FUajhyT1k3RC16cWYxRnh3RlRrZU5iVDduNnJnZFc3WU5mOEVSMk5WdFpKOHRwbmswQTFkdk5HeFdNNGNJYUw1NmxnX0NpSm9KSV9qYw?oc=5
-- **Source:** mbl.is
-- **Published:** 2026-10-30T17:12:00+00:00
-
-## Iceland Sends Knitting Experts to Business Meetings: New Visit Iceland Campaign Offers an Alternative to AI Assistants - media-marketing.com
-
-- **URL:** https://news.google.com/rss/articles/CBMi7wFBVV95cUxQdWFUdmtRZGlKYU5kZTZiWWNmaW02MjFTSWQ5WUNyUXQ2cHhxelZwMHRHblFJSFNoSUt2d2k5d25vakttazBKaVRNa2EwTG9ybjdiZWY1UnJRRDlzcXZPQzZwOVZqSHNUX1ZXSG1sNE9ydF83Y1lxODBHVWF6bXZZU2RscDdzS01CU1VjRVpoZ19aTkJRVDA3U3kzSkNZVFJwR0gyNFJjWXk2NFFDT2FRNGVjdDFmY0RYelg3VDRnejdUSHloVlVQb1l6VW9DSE1tVXcwYzgtQ2NtVlVGaFdFb1RKQldpZ3EwSU5vZHBQOA?oc=5
-- **Source:** media-marketing.com
-- **Published:** 2026-10-30T16:24:23+00:00
-
-## Reykjavi French Shop with the Best Sardines - Iceland Review
-
-- **URL:** https://news.google.com/rss/articles/CBMijwFBVV95cUxPZ1dHcjh6MnFmeDFVZ2JLVF8xbXVDOFg1STRhOF9QdW50by1iZGg2SHdxYUFVbEQ5NFNvcnhRa1pTOGo5Y0Z2Sk9RZ182UG42cDVUbm9Cc3ZuR3JzTjU3X0Myd3c2U085d1Y2UF9TeEs3Ry1Cc0NKRXR4dk5meHJ1QVRpNEUwTEI1YjljUmR3TQ?oc=5
-- **Source:** Iceland Review
-- **Published:** 2026-10-30T16:00:41+00:00
-
-## Iceland’s Top Tourist Attraction Blue Lagoon Spa Plans IPO - Bloomberg.com
-
-- **URL:** https://news.google.com/rss/articles/CBMirgFBVV95cUxQTVVxM3pyRVVwX2RzT1JUdFZiQkttakgxRElPM1ZMMXFZcjh1X181ZnBJZzJoZnFWWHllZ0h4UHFFdnljdW1JN2djdGowUko1LWFTMHpFMF95NW5obEdFSWMybllxMWpXX3d0UFBuSjdCbnBQM01lZU16S1JXOENGd2Vxd3ZpcU95X2NaWVlibGJGbkRWMDZ3dTBUek1mcmZZVEtrUGliSkRvRHUteWc?oc=5
-- **Source:** Bloomberg.com
-- **Published:** 2026-10-30T15:14:52+00:00
-
-## Blue Lagoon shareholders approve stock market listing and staff share options - Arctic Today
-
-- **URL:** https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdlVqSHhvbU0yR1RrN1lXbDZvbDAyVXEwWXFFM0V4SWFocGVWYzlKWmhaakU3MVhuUmFaUGlUanp6QllSR0hLcVcxMmpQdmozeWdJbzhNcjI1WElBMmZVUTdIX1lzUHhvU0I4MnRDeHFlLVdSU092YjQ4RGJmLXBHSDF2WXRVbk5qcHNTdFU2azBzQm9ZVjFHSThfTkQwUGdscDk5XzVuZnY0QQ?oc=5
-- **Source:** Arctic Today
-- **Published:** 2026-10-30T15:13:57+00:00
-
-## Air China Adds New Beijing–Iceland Flights via Copenhagen - Rus Tourism News
-
-- **URL:** https://news.google.com/rss/articles/CBMiogFBVV95cUxPNUI5WEhJNS1WaUktVVprRGRUeXA2d3pjWGt4OGI1V21EZGF1NjhyTmpCd2Z5NE5pS1dvZ24yQmo5WDlfQ2lkWlR5Y3RHUFpsSndjQnFVX2NZdWFpMHdzbWJmcGRlVHlvNkY4ZTF5S1lsUVd2MHpOYWoyeWNPZlRaU2g4QzYxWkJITW9oclpYeWRDVWRQX3pZY3hQZ1UzTldIOUE?oc=5
-- **Source:** Rus Tourism News
-- **Published:** 2026-10-30T13:33:46+00:00
-
-## Icelandic Electricity Too Cheap? Landsvirkjun Chief Challenges Fine - Iceland Review
-
-- **URL:** https://news.google.com/rss/articles/CBMijAFBVV95cUxOZ0k4SVhxbmNyMGNpTzZlX2JOcU9YX1dKWURYeDU0OVRfWUpwcVNwc0hTbU8zVWFQZWFLRnlNT2JVdXVDQlFPdGxQY3NpU1lIeFY3Ujh0X3g5TXljZXFobTlGYTctS2Rrd3hsYlJDYTNSb0dtZ3BUNy1CeFA4UHF0cDllUUJLNzJDa2xCbw?oc=5
-- **Source:** Iceland Review
-- **Published:** 2026-10-30T13:00:26+00:00
