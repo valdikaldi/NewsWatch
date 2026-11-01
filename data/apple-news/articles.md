@@ -1,8 +1,14 @@
 # NewsWatch — Apple News
 
-_Last updated: 2026-11-01T17:42:43.388812+00:00 · 50 articles_
+_Last updated: 2026-11-01T21:46:35.251587+00:00 · 50 articles_
 
 ---
+
+## Apple, Palantir On Deck Monday As AI Demand, iPhone Growth Face Test - Benzinga
+
+- **URL:** https://news.google.com/rss/articles/CBMisAFBVV95cUxPQzE3cVN4bGdJU2QxZ3ZFUWlJN29pM2ZJUWNRNExGNklTVktzRlFkVzcxRHpmR19vRzRvRmh0MnpabnFWdTNfMTI1d0R3NFFuN1hNUEY2Zm95NE5zS1E2MXZQdWpFbDBtUHNhZFZFUkx2c2VaekQ3S1hmU2w1ZFNvQVhLbG1GR18tcmIwOWlDS1lBUHJKcXBmT0c5dkVBOXVQUHVOcTc2VmRHOTFVSjFUYQ?oc=5
+- **Source:** Benzinga
+- **Published:** 2026-11-01T20:30:59+00:00
 
 ## Apple Q4 Earnings Are on Nov. 2 – Here’s What Analysts Expect from AAPL Stock - TipRanks
 
@@ -297,9 +303,3 @@ _Last updated: 2026-11-01T17:42:43.388812+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMivgFBVV95cUxOX0RWNUJyNWZkX0VTTVZXYXZ5U3pwMkVieTlZcnpDT0YyRU5BbmJHUzRHVnEzWVdzal9CcE8yN1ZYSFFXZUppMzg3VjA5cHlJbHJCVl80dEZxaUh4X0xVM09KWDVXOWR0ZWt1MTBfVy0wTXhNWm42RVpVZ0l4TUk4bWFlczZadE56NENJWENHLTFpRlROXy1mMU45ZE5tbHlXRW5kT05LZkh2YWhKOWo2eGxFUU8zeGxOYWN0a19R?oc=5
 - **Source:** Seeking Alpha
 - **Published:** 2026-10-30T12:32:55+00:00
-
-## Apple, Samsung Dodge Worst of Smartphone Chip Meltdown - Benzinga
-
-- **URL:** https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRU9saWlJT3hCbWdTQU02SDdGRUFsbnRzUlRPTFpuMlpiMXhXNVdxbE9VaVZCU3NleHU3dWsyOWUtSno2RkFmak9TT1hNZXBVaHhiSlpjazRBc2M5OGgxMEQ3RUEyTExrSm5WWkRzX2lHbzdZMkFIa0c1SVhwTDNaVmJVZkRTclFTcW5xNlVqR3F0TVpFRjFqb3cxcFBkckM3ejZwOFVQanJZdw?oc=5
-- **Source:** Benzinga
-- **Published:** 2026-10-30T12:18:10+00:00

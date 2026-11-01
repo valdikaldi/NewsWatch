@@ -1,8 +1,32 @@
 # NewsWatch — Iceland News
 
-_Last updated: 2026-11-01T17:42:44.518667+00:00 · 50 articles_
+_Last updated: 2026-11-01T21:46:37.698729+00:00 · 50 articles_
 
 ---
+
+## Blue Lagoon plans Reykjavik listing as Iceland tourism demand grows - Traders Union
+
+- **URL:** https://news.google.com/rss/articles/CBMilgFBVV95cUxQRFRtR25FaVlBZXBhZDMwdHY4cHR6QUIzZHRVU0hxVVJwWEFTWFZRQzhMQ3dFdWtWcENBd1Z0WlJ1eXFSVUJRVVctWEFmdVBZeU5CYlRkanQxT2tuRkVFZGFaSFk3NC1vandtS1VfUDd2VjlBU2syYWZla0lQU0V6MWM2dWxWaEJtX3FYMmhEMkZ1LTIxbUE?oc=5
+- **Source:** Traders Union
+- **Published:** 2026-11-01T19:10:24+00:00
+
+## Walkers Variety Snacks Sharing Box recall: batch 107543 - Skint Dad
+
+- **URL:** https://news.google.com/rss/articles/CBMic0FVX3lxTE5jUU4zUy1ldURHTmx5Yk93TjhoRl8tUkNYUlpCQkVmNXU3T2Jkci02WS12YV9scnotUlltak5wTnh2NXpfR1ozUU1ieXI2VWhFZmt1Q0xjUml0OGRyaEcxaFNBWkMzRV9iMjRJNUZOeXpsSWM?oc=5
+- **Source:** Skint Dad
+- **Published:** 2026-11-01T18:40:00+00:00
+
+## Iceland's Blue Lagoon seeks $115M in IPO to fund tourism expansion: FT (GLCR:NASDAQ) - Seeking Alpha
+
+- **URL:** https://news.google.com/rss/articles/CBMiqAFBVV95cUxOOWNERVI2Smtsd0QwdFExckZNZlFPZEpWVEt6OGlNcjNFaUJCUk9INjNzcGd3NW1KdFA4VWpYMURHaUFGZHdNcmVFS2FZY2N0VlZ4alhJMlJpRXRycnRqSzNqaW83d1J4azZRS0w2SVFkWHZMVG9Oa3Rac2tXNUFJNlVFRElkWmxrMUhrdGhDNGZuWENzUWFvRHFVSzBQc1Z5VEx2N1pES1k?oc=5
+- **Source:** Seeking Alpha
+- **Published:** 2026-11-01T18:30:17+00:00
+
+## Blue Lagoon owner plans to float as Icelandic tourism booms - Financial Times
+
+- **URL:** https://news.google.com/rss/articles/CBMihAFBVV95cUxQWGgyUlo3ZDZpbHI0eVhib0t0bERrVUpMZFpOTmo1eDNHY3IxNmVuclh4di1XdTU1dGRBaGdYN08wQ2ZfSkJOQmZ1b2lPTW1fX0JWcGV1Z1VETTNjbEpWbnJYc25jRUE2NnFxSlRNRGdqWUdnQzNnYnJoV3Nuc243d29KUUc?oc=5
+- **Source:** Financial Times
+- **Published:** 2026-11-01T18:00:03+00:00
 
 ## Iceland’s Biobuilding Cabin Uses Hempcrete Grown at Sandhóll to Test Local Materials - freeyork
 
@@ -279,27 +303,3 @@ _Last updated: 2026-11-01T17:42:44.518667+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMihwFBVV95cUxPRVpQRWZQM05ITWEzWW0xVVQyX0g2NXNoZ1A3OVFhdU5uSm82NFYyRUk2VlpQd0VzTDNicTN2SE1RQ3BrcFh4NExiUWhqN2VJS1M3Yy10d010VTNZTWRiM3FmQ3FucHIySnN2OFh2MC1HWG9vcHFCU2NZc3Z5RmxEcFZIaU5TLTQ?oc=5
 - **Source:** Iceland Review
 - **Published:** 2026-10-31T07:00:00+00:00
-
-## Blue Lagoon Owner Eyes IPO on Iceland Main Market - Briefs Finance
-
-- **URL:** https://news.google.com/rss/articles/CBMikgFBVV95cUxPbXQtYnEyZHJpUUtyWkFBX2h0S2kyWTJFX1BIM2UtcnhqMTBMNEJ2VmxBUUdRenVxNl9tS2taY0NtaDRuTWpaLWZTSXRqNndaeE43M2JSbjFQRVhHN3hKMVk5VG5LVWVVbnNmYzFXRk9WZWkxUnVIUE1KVnM0ejZVd1BjOHA2aWpmUmNWRnE0SWZWQQ?oc=5
-- **Source:** Briefs Finance
-- **Published:** 2026-10-31T03:42:00+00:00
-
-## Where was Masters Of The Universe (2026) filmed? - The Worldwide Guide To Movie Locations
-
-- **URL:** https://news.google.com/rss/articles/CBMieEFVX3lxTE83QjlSYS1OMGstY29oSmlHbnlQZmJMdDhNTjNlNUpzTFdYd0pSRmZYZ1BCd0RoTkpQaWRKSGViMnpVV0tEcEZaOWg0MDBRRzRkUzRLdlk0MmY3bEhhd0pOaTAzTmJoQ2kzQXcySHdUUGx0aWVaTzF6cQ?oc=5
-- **Source:** The Worldwide Guide To Movie Locations
-- **Published:** 2026-10-31T02:01:44+00:00
-
-## Handtas Met Franjes - Northern lights Aurora borealis over Iceland lagoon Stock Photo Alamy - auroradesio.it
-
-- **URL:** https://news.google.com/rss/articles/CBMiU0FVX3lxTE4xVzNVX291QWQ5ZVhBVDJ4bHA4SzNvTzJ2eW9sWXBmeUlvMjhYTU9La0RtWnF0dGE3OXQ2NE5hZTJHZThMR2FLUmRFRmREcTlXaDhB?oc=5
-- **Source:** auroradesio.it
-- **Published:** 2026-10-31T00:51:01+00:00
-
-## 🇮🇸 Arctic resilience in its most human form - Arctic Today
-
-- **URL:** https://news.google.com/rss/articles/CBMimgFBVV95cUxOa2EtbHRHSGt3VXR2bEY3NUxuZWUxY0drclBXbHZyeVVfNTdHd01oVHVSXzFyMElYTHBhc3lIeXI3RU5fS3ZlRXhXSDE0bVFEWHBiUFVwWHBaeWMzYUhKSXBsdWlYdFVyLXBpODVQMWVETl9QSFJOejdHNWFqZ216Wm85by1xSDV0MWdSeE1UZy01a21OVVFnQlJ3?oc=5
-- **Source:** Arctic Today
-- **Published:** 2026-10-30T23:07:29+00:00

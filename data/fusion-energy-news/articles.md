@@ -1,6 +1,6 @@
 # NewsWatch — fusion energy News
 
-_Last updated: 2026-11-01T17:42:45.040210+00:00 · 50 articles_
+_Last updated: 2026-11-01T21:46:38.711641+00:00 · 50 articles_
 
 ---
 
