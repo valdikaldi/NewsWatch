@@ -1,8 +1,56 @@
 # NewsWatch — fusion energy News
 
-_Last updated: 2026-11-01T00:44:50.729899+00:00 · 50 articles_
+_Last updated: 2026-11-01T11:04:24.935823+00:00 · 50 articles_
 
 ---
+
+## H13 Tool Steel Powder for Additive Manufacturing Market To 2035: Tooling Demand Drives Growth - News and Statistics - IndexBox
+
+- **URL:** https://news.google.com/rss/articles/CBMi4gFBVV95cUxOd0JmbGVOMkl6Nm9hVHREbXdBYVJGMVRCS0FWc0FLNDJvcExPSWFza0tXTTRWNzBkTGExTDRBc3VhanZsLUprX3hJTC03eUtiVExOM0FNZ1dHLWJBdmNjakJpcTNjRkxGeVJtSHpRVW1xUWp3Vm5BdkY3OGZyOGJsTjNYNUFIajJKMG9MLVFpU01iV3REMFkxS1VDRFVTcGtucnU2NDlYY2pncmxuNEgwcERCNEd0cUdoLWpDdFdHWU1TNXh6ODlGUEdUVmIyMlBObFhoUHV6cWltem1Demtod2hR?oc=5
+- **Source:** IndexBox
+- **Published:** 2026-11-01T10:01:04+00:00
+
+## Keto Fusion Sugar Free Gummies Shop Price: A Realistic Guide For 2026 [1fZJHKADsZI] - WRMJ RADIO
+
+- **URL:** https://news.google.com/rss/articles/CBMiUEFVX3lxTE1TeWJOajV6YldKUXF2TURmZHZaSkcwc3FvZWt4OWl2M2pOSkZ3YU5wTDVQRzZENmxfeElidGJhSzdRNVY0Y1AtYmY1dDYzbWZ5?oc=5
+- **Source:** WRMJ RADIO
+- **Published:** 2026-11-01T09:34:51+00:00
+
+## Fusion Capital LLC Makes New Investment in ExxonMobil Corporation $XOM - MarketBeat
+
+- **URL:** https://news.google.com/rss/articles/CBMiygFBVV95cUxPQnNiX2xTUHRGZ1ViblBBcEZrbFRRa1FxajFleWpBeHpFUFVIdEZPYnZSZWhnMXpKaWZ0NWg0cTdoZnRNWWZ6TW5OMThlYi1uMlFCRE03X0NUa3gyWnlqM3dNS1pCdjJaVGFVZmxuajhjcHcwQ0E2UnRQYks2MGtnOGhZM1plNHVUM0gtM2tVZ0RLUHp3anY3cDlHMlU4Y1BkYkkxOFlPTUtoSllNM0k0ZDJWbjM2MFZEaDhiWWM5Qk8tZjNEcnZnbjln?oc=5
+- **Source:** MarketBeat
+- **Published:** 2026-11-01T09:09:10+00:00
+
+## Victony & FOLA – TWIN - Tooxclusive
+
+- **URL:** https://news.google.com/rss/articles/CBMiXEFVX3lxTE5tRC1xVXRzN0o0WVJwYzQ1X09XVUNlMWlZUlRtWWs5US1LX3p4VkhEbUF1OWJXZlR0dGN6ZVdmVnZWRnZhNDdibjlFOVB2NC1XTzNBQ0hKU2NDVU40?oc=5
+- **Source:** Tooxclusive
+- **Published:** 2026-11-01T06:51:51+00:00
+
+## Pakistan refineries report 1,860% jump in profit amid war windfall - Nikkei Asia
+
+- **URL:** https://news.google.com/rss/articles/CBMiqgFBVV95cUxPb2dUd0kwUkp5VC1NM3J3QUFoUUJQWXEyNjlXQVRqdHdqQkR5ZVB2Y0tzOHFwbjhrLWlrWVo4VjRCWjJ2blE1cnpKS3FDcUZrQmhNb1ZaNDh5dktXOEYxOXM4czhBbTlUc00tNjNjRzVKbjY0M3FJeHpvV3Z3NDVHelNzMjg0RHk0LUpKVmQ2R3lxUTZyMUFFU0Z4NUxqblZyZVFEUTQ2Zzl3dw?oc=5
+- **Source:** Nikkei Asia
+- **Published:** 2026-11-01T05:30:00+00:00
+
+## INNOBIZ to build future growth engines in semiconductors and physical AI, identify 50 innovative companies - 파이낸셜뉴스
+
+- **URL:** https://news.google.com/rss/articles/CBMiWEFVX3lxTE5XeHZBWVJIZmltLWR1aTgtQXhCcWxnT293anl3VGc1Y18tdlFlckthS0N5OFJJRHpaUFBGUVpZZkVfTFVVSHY4NlI2bDhCbHRyOEp5N21CemE?oc=5
+- **Source:** 파이낸셜뉴스
+- **Published:** 2026-11-01T05:15:25+00:00
+
+## Extension of MIDAS-1D2V model: fusion reactions and neutral beam capture - Cambridge University Press & Assessment
+
+- **URL:** https://news.google.com/rss/articles/CBMiiAJBVV95cUxOTllkQWNOS0tYSTFHR3JnbGE1TXNwc0hJTFRKT1BfU2VnZFFiMzBZM0lpeDFoT0x2M3Rna3JHMVp4NTRONDBqQUQwZ2JNbkR1S3ZuVWIzdk15dEFIR1BWc3Q3MXNEU1l3Z2dQVnZuNmM2a1ZyMnladXpIWDNIb0VoVWpmV3RMb09GODlkamt5dUp6ZnVJMzlUandYWGdRckpSVV9Mb3hWVzFkOGZhOTZINGxNMlRERDltZVdFR0lYUGh4cXJwNFd2SUt2cUlkS3hRNnlUVnlUa3BTUVV1LV9fWl9NbFRnbE9QZDB1NzB0eFFObi1RbUYtUkxPTDdSSlpNc1pFQ2tuc2k?oc=5
+- **Source:** Cambridge University Press & Assessment
+- **Published:** 2026-11-01T03:30:48+00:00
+
+## JPM Fusion Growth G Acc (GB00BWBSGF32.L) Seasonal Returns Chart - Yahoo Finance - Yahoo! Finance Canada
+
+- **URL:** https://news.google.com/rss/articles/CBMib0FVX3lxTE1LT3BqbmVESVVXRm9OMFUwTExyTHRPRjE5U1JqQWhJajROeTlpT2VPQy1OVDFrZ2duRTF2bWFhOVM5Q2RQSDRHUEJyOXV6QWp0ZVg0NW9sZDJfREtabnRuMl9lZlNPNGgtT2h2dDREcw?oc=5
+- **Source:** Yahoo! Finance Canada
+- **Published:** 2026-11-01T00:56:03+00:00
 
 ## Ongoing Global Upheaval Demands More Practical Cooperation Aetween India And ASEAN - OpEd - Eurasia Review
 
@@ -255,51 +303,3 @@ _Last updated: 2026-11-01T00:44:50.729899+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMikAFBVV95cUxORWlGclY3ZFEwb2kzVzd0dUQ0UFhpMU1hX2dUS2Nhakhpd1JvVnAyR2lKa3AwdGRIbFVPY0paSVB1aXFhTmVpdjBVVnczNzdrVkZBcGxRbklZNGwxZE1iZVBRZnlPTXBBaGx5clFUd1M0UFJkNk8xcXZrRTZyWWp0VEd5UkNueUZSUEJNSEIzRHc?oc=5
 - **Source:** Sportskeeda
 - **Published:** 2026-10-30T10:29:00+00:00
-
-## The Week’s Dealflow: October 30, 2026 - ImpactAlpha
-
-- **URL:** https://news.google.com/rss/articles/CBMia0FVX3lxTE1QY3JXYUxMWU9xRjZTYlctYmpTUXFoWkRoWnhYOUxwN1F5Ui1nckNrRklOZGJQNzhpZmdwdDhBZzVtcVBqNzdYREl2SExtcEhKbWpvQ2hvRzhzNmVzNkkzU1gzRXQtZlA2ZDZN?oc=5
-- **Source:** ImpactAlpha
-- **Published:** 2026-10-30T10:09:10+00:00
-
-## Cal Fire has a new app. It looks a lot like Watch Duty - Los Angeles Times
-
-- **URL:** https://news.google.com/rss/articles/CBMilwFBVV95cUxNX0Q5TjF5R1FzcEdUYjIyNjFsek1sWWFBazZ6aTA1a09FVXpBbXlheDRWMkdKNXREWlRCOVdjREk0WndZa0MzdS00enJRUTU4RFk3dGZfUENQVGZ2NXRzVG1wT0lqWXVFOU9ydGE5azZlWjNreGNvd3pQQTJQMzBiVGxfZklMUHpNVnpOX1Y3aXkxS0toUDZN?oc=5
-- **Source:** Los Angeles Times
-- **Published:** 2026-10-30T10:00:00+00:00
-
-## Helical Fusion Co-Founder & CEO Takaya Taguchi to Speak at Web Summit 2026 - EIN Presswire
-
-- **URL:** https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRy0tNEp1NDFhaXhKQlNMQmZmakE0Ni1jSnRTOUc4MnR6c3NEZGFSMHpQNVByNFRDdUJZWG84WDBVSUx1aTJXS0ctQXNZSlhudXlkYnM5T0E1NldMYmVBaXI2c1k3YXVSY1dGYUVvMW81cjh0UGF0RTVrWlEwX3FPYXZlajVJMG1OaUZ3MmtVMkxyWk41UzN5YTdFYnZCNy1hQ2FXajh1OTlmblE0OC1DWEd4UHQybEdCd1NZ?oc=5
-- **Source:** EIN Presswire
-- **Published:** 2026-10-30T09:00:00+00:00
-
-## Interview: The Fusion Future with Dennis Whyte | NOVA - PBS
-
-- **URL:** https://news.google.com/rss/articles/CBMiigFBVV95cUxOLXAyWnh1WkdpcVZRR3lQdWppaDc1UmRUQzhUZmVNamdBQXdKcUxIN1NPejA4cG96WXRSOWN5WWp5WEQ0M3JLbXpHWEUzVVZKZnlqLUQ4czRsQzVicXRKMFk1ZEVqQXQtWWpBVV9VV3FYX29tdmFpUG1qVTNhU095N0lON0VIQVNZSEE?oc=5
-- **Source:** PBS
-- **Published:** 2026-10-30T08:23:44+00:00
-
-## Federal Adds 22 Creedmoor Loads to Its Fusion and American Eagle Product Lines - Outdoor Wire
-
-- **URL:** https://news.google.com/rss/articles/CBMixAFBVV95cUxOWFN0UXhkSnFtYjFrVmJxTk5BUUpoLTRmZ1B6UFpsRkVuWWtTVHo1U0c5bWNVN0o5Zjh1LXMycUZkWVNwU1dLRGhsSEtNT2pjTzFhUGJjTzJhZmkwZzlqSGtuN25aQmpZMFFhT2hQdmdnYlVSaHNSR0psY1J1a0FpcE9wNGVJMnBSb2haMDZMOFpPOXBpYjdPUmZCcHFpM1dzckFYXy1PdTZRNElsblQzYnJTWmlNQmx4VHYyY3B1YWVSTy13?oc=5
-- **Source:** Outdoor Wire
-- **Published:** 2026-10-30T08:13:03+00:00
-
-## AI Learns to Say I Don’t Know: New Network Flags Unseen Tomato Diseases It Was Never Taught - Bioengineer.org
-
-- **URL:** https://news.google.com/rss/articles/CBMitAFBVV95cUxOVUp4dW1Oamd5Rm42ckExZXRBVmJ1NFljQnVOZm1HZVp1TUoyNWN3MnBGWVY2dUM1eGZVUC01N3o2b0M0ajc2UjBWRmVKcnUyMzQ1VWhiUkZQOG9DT0dHVU1RX2hCc0NaR3RQd0FodGJmSjhXNndsU1hjbnZyWS1SUXRSelFmNFRfd1Fub1k4MlB3UjRSVFAwODVpdmtuc0ZuT0lvb3RqSUZKaWVMWU1PWFZjWEc?oc=5
-- **Source:** Bioengineer.org
-- **Published:** 2026-10-30T07:22:37+00:00
-
-## Reducing the drive-deficit problem in fusion simulations - AIP.ORG
-
-- **URL:** https://news.google.com/rss/articles/CBMijwFBVV95cUxPM041VmpGQ3lObk1ZdWdFajl4ZVlYTVZ6MDZ3V2tNQkc1QkY4VGR3clFiRXZGM2RYMkhtNDV2TXlVZnF1N1hNTVA2R0hXV0RhRkNxb2NjWmdxdWpyRzh1Rk01Mko4V3ZNdXNLaktRX2hhNDNBb01ZVS0tNXFZcEdYRGdEZHFjVzhJRnVybnFtUQ?oc=5
-- **Source:** AIP.ORG
-- **Published:** 2026-10-30T06:41:08+00:00
-
-## The trouble with small nuclear reactors - Financial Times
-
-- **URL:** https://news.google.com/rss/articles/CBMihAFBVV95cUxPNDN1UUVIdWJmaVNxXzJtVWJlMDVZZmR6Wi1mVXExWmI1RWFWcWtRSVFWd0lycGRVM0FkcVpuZDVfb2tDaF9wNm1xQ1VWLUtQNTVHM3JPb045bjkzS3c4WXBOQUJCZ1oxb0xCSnpVREFzZWtrb0ptMGROREEtVFh2dzc3SXU?oc=5
-- **Source:** Financial Times
-- **Published:** 2026-10-30T05:00:42+00:00
