@@ -1,8 +1,104 @@
 # NewsWatch — fusion energy News
 
-_Last updated: 2026-11-02T01:19:02.727297+00:00 · 50 articles_
+_Last updated: 2026-11-02T12:02:45.093358+00:00 · 50 articles_
 
 ---
+
+## Pokemon TCG Pocket: Best Alolan Exeggutor ex deck guide - Sportskeeda
+
+- **URL:** https://news.google.com/rss/articles/CBMilAFBVV95cUxNSUZpWnNDVm1nd2wxLWlXZEZGemtsOXZzQjRsQ2pScHdCTWJzXzg3aGFHcFZrNG9rZXRQXzN4TE9KdmlsZ0o1YzRWQjF1Tk5iYjVXTklubzduWmRRdU15STdUOGYzcXk3cGd4Y0hZMXhQVC1wZEw2NFktQS1aRUNOaElRM2E5Y2hzUENENGkyMnAzLWtw?oc=5
+- **Source:** Sportskeeda
+- **Published:** 2026-11-02T11:09:00+00:00
+
+## Federal Now Offers Fusion Tipped in 25 Creedmoor - Outdoor Wire
+
+- **URL:** https://news.google.com/rss/articles/CBMinAFBVV95cUxNa0ZGejBON252UkhhQUllTVlfUUxyU3dMNTJmR0JUeWlMeUsxUkRsUWd2M3pfQU1NRnp1UVlzSzh5X29PYzd0d2hra0t5ZzFsTnFEenR5OFl4SGhHNFZwSnlzZ0ZwdHh6WXJQSnBRV2h6aHI1VUFBOUVpMTlOUmlHS3VYd0t5dUNLbVBhUUt4VHZ0WFdYSHdJRW8wMlA?oc=5
+- **Source:** Outdoor Wire
+- **Published:** 2026-11-02T10:02:10+00:00
+
+## Pranos Fusion: India’s First Private Fusion Reactor PRANIK and PRAGYA Tokamak - INSIGHTS IAS
+
+- **URL:** https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVjBJVjhHMXU5a1FpYndRMEZIaE1HX2Zla002bThabE9HY3RuSFlyWVRhSWE2d1JpX1JHRlg4TU92YktQMVFSaDQ5alNiZVBGVFo3a09iUDZTQkxNLWFVVXhOWklKNDZkNVVHbnBKYy02enJzSWdMU1hyZGJkZlJMT01DQ0ZzM2t5MnBsSWJld21naE1VQTU1ZTY1UDBGMEt1VUFKQ2EtRVFGYlJnTGdEbWVLcFhObjV2Rl9F?oc=5
+- **Source:** INSIGHTS IAS
+- **Published:** 2026-11-02T09:57:42+00:00
+
+## India’s first fusion power company sets road map for a nuclear reactor - PressReader
+
+- **URL:** https://news.google.com/rss/articles/CBMihgFBVV95cUxOUFhrbzhzU3hGUXhVNjJ0OEZhSWVNakdHaWM5Q1MxdjNfeTFncWdpcDRFTTdfbEFSU3Z0UWlZNlVkSzFtcHhHaVAtdkNMZVM2NF9IMURQWEpJWXFWNTRXVkYyU0lPMUxwS01seDQ1bUtWVEZrYTJGR2t4VW9FMEI4WmpXb0F6UQ?oc=5
+- **Source:** PressReader
+- **Published:** 2026-11-02T09:33:45+00:00
+
+## UTEC, Sonardyne Tackle GNSS Disruption in Middle East Pipelay Projects - Offshore Engineer Magazine
+
+- **URL:** https://news.google.com/rss/articles/CBMisAFBVV95cUxObnFieUhJSVZ2X1hEQVYzYkQ3OXdZR3hqdVdONEFBc09PY2NoNnJTUXJlODIwWFZRcllXYUxLOTJiUXFSNHBlSHh4RkZERllfblZkNGl1bVVJT05lWFIwLXBBOGxjVmpCRmdXR05FTkJPUS00cjFvbW1hdS11Q0lLcEdzZ192SUhGYnJub195dkxOb2loLXBtX3REUkpMQm1XNERaQ2NtcmVZWHdPOU5IdA?oc=5
+- **Source:** Offshore Engineer Magazine
+- **Published:** 2026-11-02T09:14:38+00:00
+
+## The Levellers deliver a High Energy Performance in Blackpool - TotalNtertainment
+
+- **URL:** https://news.google.com/rss/articles/CBMiogFBVV95cUxPUkdObVpVVnhZTTJvWTBRblRGVDhnU2oxLWllY2lYMG5vTTE5UjlLUkhiTDVOdlZDaE1Tck91ZUt1WGlhdjhzY2xCczJHWnBjcl93Zl9VTktSTEY2MGQwQ2ZUZXBZYWY1VnFKZHd2eFgyb2gtU0oxejBXbkRzcjVndm9paVlWc1NhOW1zQmtoN1FwS1pNUUI0Wl9hMHR2d1g2Q0E?oc=5
+- **Source:** TotalNtertainment
+- **Published:** 2026-11-02T08:36:13+00:00
+
+## Unprecedented, Seven Nations Gather in Genshin Impact 7.2 'Snezhnaya' - 게임메카
+
+- **URL:** https://news.google.com/rss/articles/CBMiWkFVX3lxTE1fcUpObi0zMzBHZjdwTEtuUDV2QlVydjhaWEpVVnctR09xdGpwakFUSnBOUDhlZ2NjVDc0dkwtVXR1V0hqLUpndk1NT2J0VG1RWHdHR3ZSalBXUQ?oc=5
+- **Source:** 게임메카
+- **Published:** 2026-11-02T07:43:16+00:00
+
+## Keychron Q19 HE 8K pairs magnetic switches with a Golden Compass finish - Mezha.net
+
+- **URL:** https://news.google.com/rss/articles/CBMif0FVX3lxTE93WDZQYjFaWHctNkllaE56OHJYbkw4LUtabnZQUmlaeWQ3eTNLbDV5eEZ0ZlZqcktYc015QVRWaFJDSkJkMTNOVDlyYS1uQmhGWlJqMlV2Q1JwQUZMNHBPNVJ6OHZaTWJBTHpCMjRiUG01elRNZHgtdGx2QjBxbWs?oc=5
+- **Source:** Mezha.net
+- **Published:** 2026-11-02T07:33:22+00:00
+
+## Deobi – Nakupenda Ft. Incredible jj - TrendyHipHop
+
+- **URL:** https://news.google.com/rss/articles/CBMieEFVX3lxTE9SQUJwcXp6VkJiRzEwTXhyZUp6VjVlQ3VvcG5IMHRTb081aUpCd1pHOGIyell3SWl5VUZ0MWhDRkktQjFsNndUc3ZTb21GUXdTT0NzQnpkSWdoeURlRkpBcV9LaHhyQVBfd2o0YmxvbGlOZDRDdTZsWQ?oc=5
+- **Source:** TrendyHipHop
+- **Published:** 2026-11-02T07:31:21+00:00
+
+## Japan sells fifth climate transition bond of the year despite fossil-fuel reliance - Mezha.net
+
+- **URL:** https://news.google.com/rss/articles/CBMiggFBVV95cUxPVUtlcHhXUFRDUVBFN05QV3BWY0NEejJCS1EwSjh6WTV4MXdxSk9ISmtRQkVPSkJ3Mnp4Wk14ZXEyLVNBdlFrcXg1THkwbXhvM2hsbGlPUmhkbHpmenl6eTdnckxCOU1SZG1scmExTGpfY3kySnhxV01iSDZoZS1lT0h3?oc=5
+- **Source:** Mezha.net
+- **Published:** 2026-11-02T07:23:36+00:00
+
+## Japan extends transition bond push despite fossil-fuel reliance - The Japan Times
+
+- **URL:** https://news.google.com/rss/articles/CBMihgFBVV95cUxNMkxUQmlFVW5HUS1uR3NkUXk3QzRfcGNvdTlqS1V4NERxMmhDeFBsZW1kSTBmeGdrbXl5WVMtdUE5VjgyandWbU41MjZibnVGMFFvUW9JTkx2dWMwWXY3bEFfZE5MSERKd2psSUdxc2JqNmFZRW1MWmxfdUtRV09hUnJMWWQzdw?oc=5
+- **Source:** The Japan Times
+- **Published:** 2026-11-02T07:09:00+00:00
+
+## Bensoul – A Glass of Wine Ft Spyro MP3 DOWNLOAD - CitiMuzik
+
+- **URL:** https://news.google.com/rss/articles/CBMijAFBVV95cUxOd2tHbnl0Tl9WeHc2UkRadXlkRWNQTUlNSFEyU1drcmF3eEZGUWl6TTZCb1YtMzFwWTAyemxENGVnLWhNX1FDRmtYMGFzZzZFTWdIRDE4cVQ5T2tUODZ5QVg2ZmdIc25Uc28yNU1LeWtWMktyRnZSSzBRYkhDTEZ6R09EN0xMUElUeHhiTQ?oc=5
+- **Source:** CitiMuzik
+- **Published:** 2026-11-02T06:37:00+00:00
+
+## Huawei's 7th Global Installer Summit: Meeting the Best Installers, Building New Home Energy Ecosystem for a Greener Future - Press Release Hub
+
+- **URL:** https://news.google.com/rss/articles/CBMigAJBVV95cUxQRGp1Ti1MOENOUlpWekI3S0dyazl6MUZ4bG1JSDl6aGtSaHBDOHB5SExtX0YzQTU1Zk1sRk5TUW1TNHN1X3Eyc2RuT0UyQlgxekduaGJNY1ZfX3Rkczk5YXJId3VnemlqNnVoTmtWTXRpa0JKV3F0cjU1QnJkZzNIZVluLVhPalVxeEs2MVBTcjZZMk1fV3B1dWZ2LUxYNDdxazhfeVMtZXRxQll4dVpIZ3lILXdEUno3R2NOR3VhMnBUTVFibnA2bWNIUFdfZzZBclNhbW5PeWNlV2RnSXd3Q0JWZHd5d2VKNGxFcEN2a2JScmpUaTdRc0NPRlNKNE4y?oc=5
+- **Source:** Press Release Hub
+- **Published:** 2026-11-02T06:32:52+00:00
+
+## Baba Vanga’s ‘predictions for 2027’ include superhuman pandemic survivors and an AI-fuelled gold surge - UNILAD
+
+- **URL:** https://news.google.com/rss/articles/CBMiugFBVV95cUxQOV9OTTl3QUNCM2hjV2dyT0wxZjVPVVh5ZHVQYi16RkpHOFBYZ3h0LWpnNHhyRTV2cjl0aUE4M3NUMUpPWDVPaDBWQ3dyTGVHVW9odGpuOHIzY0k5d2Y3cHZpbHZYd0YtSVpocFpMWE1iMVItR0RuNWFWcUFGeHN6bGR1M3pPMmJlYU5vdXltVnYzVlhZbXVCSC1ZQUE5TXdEaUpnRFRNVjFCLTluN04xZUpaTG9hLTFKVHc?oc=5
+- **Source:** UNILAD
+- **Published:** 2026-11-02T03:49:32+00:00
+
+## Q2 Results, Nov 2: ITC, Marico, NALCO, UPL, NLC India, Tata Investment Corp, ESDS Software Solution, others to post earnings - Dailyhunt
+
+- **URL:** https://news.google.com/rss/articles/CBMioAJBVV95cUxNYTdRNEFRekFyQTllVTFwVDdia0wxTzJsbGFNRlBIQ3g1a2E3NG9hQWI5bXpDazBnVGs2XzZvQWNBWHdOUlNxMXY0YUV6dC11WU1zeFRpM0JGdnNWMkZyS2hlUVRwajRyRHNOcnh1Mmk5NU1JcE1MVmwzSDY2WW5lbVRiTEFYOEd0eGliTTk3VUUzaF9CTU1Wd1VMLUg1cFh2YXlEZ2JreWp2MmZRWi1nUVJsamV6Mkd1Vk9MVmMwWXRqWmVHWW9Vd0tQUk92ZnNVSkJWMjFRQTl4ODBxUFBBbFhyMG5JTkI4U1dxODRIM0xDS0VDLTBodmN1NmJRWVZITzh1NlZmY1A1em9hVVJBRk8weWFCSVRQcVBUaEhUV3Y?oc=5
+- **Source:** Dailyhunt
+- **Published:** 2026-11-02T03:34:02+00:00
+
+## Tyla & Future – Game Time - Tooxclusive
+
+- **URL:** https://news.google.com/rss/articles/CBMiYkFVX3lxTE5GTWlQdlJkOE10b19NLTU3czJ2amdKd3RRcUp2NVg1NnVFS3hkSXZmN01aa2ZxWFRhdmF5azg2ZXhWczJySC1INGxWZW5ydFE2SnpqbndmejF4X2J5bEdoZ2JR?oc=5
+- **Source:** Tooxclusive
+- **Published:** 2026-11-02T03:28:47+00:00
 
 ## IAEA’s New Climate Initiatives: How International Cooperation Is Evolving? – OpEd - Eurasia Review
 
@@ -207,99 +303,3 @@ _Last updated: 2026-11-02T01:19:02.727297+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMiogFBVV95cUxPazBUSklrSUdLRm1uVk1sejNsbmhYWkxVSlVlVDFsaHppbDQxR2NQcGRaS3NLYWlld3dOSDUyMkRKUDNDMkhjY0l3aWhNMlRyc3VGakNYMXBXT1VJQnY1azNTQUxMLVRwNkJncFV4TFNTaE0wVDhRcTl3MHlGaENRbjlZMjhyaGhOZmtmNEtuQ3N4cFpPQUJfdEktTFdhSXVzTUE?oc=5
 - **Source:** TipRanks
 - **Published:** 2026-10-30T21:02:18+00:00
-
-## Pokemon TCG Pocket: Best Pikachu ex (Dual Fusion) deck guide - Sportskeeda
-
-- **URL:** https://news.google.com/rss/articles/CBMimAFBVV95cUxPd0NvTVkwU05HM3l0UThEQXVxbThubVVuV2pDX1ZMT3JyVTROYWlEU3B1RjcxaTZsVDNVLUpXeUZaajdhcVhhb3BEeGN2MWxTVFNDeWpKRmd6MlFCZWxmV2tjWDJYMHM3SkF4TVBNQmhyenk0R3NJU2RQN0dPRmxQUzY1ZGdaQmtDVEgzY2pSQmZtM3BfQ1Z6Xw?oc=5
-- **Source:** Sportskeeda
-- **Published:** 2026-10-30T20:33:00+00:00
-
-## SUNY Chancellor King Visits Stony Brook University to Highlight Research Excellence - SBU News
-
-- **URL:** https://news.google.com/rss/articles/CBMiwAFBVV95cUxNQ0dGRDR3b0E5a01qLTdVT1Bib1J3R2R0b2pXTkQzVHNnd0NoMFJDZVk0R2xqbl9zakNpalJMVkRWVWxmNWU1VUFZM050V3JSNl9ZUG9CbldSYVBrWE1HTnpnaXRneEJpT1A2X09EUG1ibGlvQWNrdjV6WXhkR2xzaHFwQ3B1eDBWVWg2dlVKV0g5X2FNV1hWZGFpTzNfcUw2dEM4TWFYYkxwWFhpOGdfajJ1eUtaOTU5c2ZUR29adzI?oc=5
-- **Source:** SBU News
-- **Published:** 2026-10-30T20:04:28+00:00
-
-## Pokemon TCG Pocket: Best Giratina ex deck guide (Dual Fusion) - Sportskeeda
-
-- **URL:** https://news.google.com/rss/articles/CBMimgFBVV95cUxPWlFWX2VUOC1pbWtiVm5qSFNmU2tBZHVDcGxzV0l6WDBvdFkzSWl4U1dvdzkzaXRTSWxuRmplX2Z4VVZfcDVrTEhPdTIyaXlFZnkzYnFDd3Nkby1qM01JTzI4eUV5TFNSUlFpQ3lpT3pVanlPdHdNQUphU015WldwT3JXUnlObXozWmpuN0pfSlE3c1liTnJhb1Bn?oc=5
-- **Source:** Sportskeeda
-- **Published:** 2026-10-30T19:25:00+00:00
-
-## The Reactor Is Not the Science Fiction. The Cap Table Is. - Foley & Lardner LLP
-
-- **URL:** https://news.google.com/rss/articles/CBMirAFBVV95cUxPSlFkd3d5VkFLcGl5Y0lJZi1tQl9UcFJFbVVxS0xXTkZMaDZBRTRfQWFnLXNtRXVOQzJKQjhIejdFNGxoZGhFWGxXejFuU3dRNWgybVc4SmhnNkxTZzdFcUsyTzl0aEhJcUYzRWFZNTh0V1hBVEJxa3UxUEw3N0VyWWd5UkRDQ19kVFd6cnBlLVJDbWdDdUgyRzBXeTBROHRmVU51dXpUNUplUl95?oc=5
-- **Source:** Foley & Lardner LLP
-- **Published:** 2026-10-30T18:58:11+00:00
-
-## US, Finland Sign Technology, Critical Minerals Agreements - MeriTalk
-
-- **URL:** https://news.google.com/rss/articles/CBMilAFBVV95cUxQTE53RW5BZ0g3aFlMWklFZV9jdjNBTlV6U05iR3VwN2E3MExRWERrU2FaQW5oNmhiYjc5UHpEajRlRU1FNm5sd0ZZLVBvS3VRWDY1b3UybzhGMzlOOWFTZWVkVWh5Q3pWVFNHUkxvN0JGc1BPZDQtSXp3SkxJTGhKTzFPX214N2xrQkRPMU1WRWNsTU9i?oc=5
-- **Source:** MeriTalk
-- **Published:** 2026-10-30T18:40:17+00:00
-
-## Pokemon TCG Pocket: Best Mega Skarmory ex deck guide - Sportskeeda
-
-- **URL:** https://news.google.com/rss/articles/CBMikAFBVV95cUxQNmNFR2ZGWlhtdXYyV29NcHBJYXVpbWNCaTBERHFNS0VVNEl5RTJQYmhnR0ZMaVprUHlXM1Myd210YUdvYXZtMTJid1ZSWHpZcWd6V0s5UXYtNmJWOVk1SnFzNGZpbHhUdjhKY2dzb1RCNk5kR2VhTGsyWDFoWnFhWkdmVkdOOTcxTUN6RDZTT0w?oc=5
-- **Source:** Sportskeeda
-- **Published:** 2026-10-30T17:20:00+00:00
-
-## Federal Lobby Wrap: Saskatchewan potash developer seeks Ottawa's help with mining expansion - iPolitics
-
-- **URL:** https://news.google.com/rss/articles/CBMixAFBVV95cUxOcUlfYWo2eXIwQU9tSFdqMHowUmZaOFlHOTM3emhDa0x0ZS00ZXVMTlZQLTBQRjBWQ2I0MUoyYlZydlJudXVBZC1ZZTZTUGpyV3l2RGJPbVd2QWtFRFVEVUVKbjBZLTNDcWQ0TnhEV2NRbGkwRFI5NmRubXJpMjFmNnNqbW1zU1hUb2NnaEF0aldyTWZ1YzVSVmdOTW5LM0JqcVRXOTcyYVZscjRyd3Q1dC1uOHBSXzBLLVBPWUlWamtFWkVs?oc=5
-- **Source:** iPolitics
-- **Published:** 2026-10-30T17:00:09+00:00
-
-## Pokemon TCG Pocket: Best Mega Tyranitar ex deck guide - Sportskeeda
-
-- **URL:** https://news.google.com/rss/articles/CBMikgFBVV95cUxQS24yY1VuLXpTMk80UmktNlVNOUEyZUFPLVJFMU52TGxSNjBjNGh3UFNqSUhpSVJkU2ZzOTdIYmItZE9FLUppd2hiTFFLb2dYOEx0dWt3dHVoRjRfeHNaeFloZmpDbldyWWw5NExfemRpX3V3SlBvNjFBcWphMkpPZldlQjVMYjE5bkx0TjV3c3VrZw?oc=5
-- **Source:** Sportskeeda
-- **Published:** 2026-10-30T16:22:00+00:00
-
-## This Gamma-Ray Burst Wasn't Dim, It Was Just Misunderstood - Universe Today
-
-- **URL:** https://news.google.com/rss/articles/CBMimwFBVV95cUxNSWFVTFlxZkhxODR5U2pjMTZIcm9BSzhuNlhhZUVoVGpZQ19lSlI5MGFnMzVjVmZPWWR2ZE1fVXlvR2ZPRmx1bFpONEJvNklIMUJXTVVnWGpjdENTdmlKdlZtSk5wXy1hZWM0aU1xcl83N2dGVHpURTFQVTRlQ25uMlJFT0NJaWM3dmFaX2NuZEJ0UTB1eC1vZFZKUQ?oc=5
-- **Source:** Universe Today
-- **Published:** 2026-10-30T16:20:00+00:00
-
-## Pokemon TCG Pocket: Best Mega Dragonite ex deck guide - Sportskeeda
-
-- **URL:** https://news.google.com/rss/articles/CBMikgFBVV95cUxOd1ljZ05lRGJNMnU0VkxpRHREUDJyb0p5eS03T1pobEMzWVZUejJ0VnhDazNRa0ZNWTFlaGlVTjE1MVRyMVNtd3VsdDVCYlJaaFkwRkFJUGNZdW45OTh2c0NGM2I1OFVIV0YyczBTWFg2R05RTDFiSDR1ejlOODFiNDJPNUpHa3NJQk9OdjJmZXdiUQ?oc=5
-- **Source:** Sportskeeda
-- **Published:** 2026-10-30T15:58:00+00:00
-
-## Fusion Category Symmetry Often Implies Equal Particle And Soliton Masses. - Quantum Zeitgeist
-
-- **URL:** https://news.google.com/rss/articles/CBMiggFBVV95cUxOZjVqSlJKWU8zVnBubUdZWGNrSVIwS2NVNXl4WDlQSHBsNWpjU0kycFBELUp1QVhPalRHZGVWUEtvWTBhU3U4cnozSU4yeGdFa2t6VWZiNGUyb201bldNQ1ZVWDdpUHlDaTZRdG5IOXhGc01wNHFFWHdxcU1JaDJuVy1B?oc=5
-- **Source:** Quantum Zeitgeist
-- **Published:** 2026-10-30T15:34:23+00:00
-
-## Asia-Pacific Conference of German Business in Seoul: Why industrial AI has everyone buzzing - Table.Briefings
-
-- **URL:** https://news.google.com/rss/articles/CBMi0gFBVV95cUxOWjVQbHFxX2d1dmY3blpJUHIxMTlGZzBqc2F3RkE0czNHM0t4OThVV1o3WjVxOXJiM0VHWVVZcmFYa2NGbGpYY1JDb1FTUDFmUzd1djlEcXVZWHNLR2xRY0NXVVR5dWJXZXpvS0xDTFdta3VkdFBWNnVMX3MyYURuU0hncVA4aGdCTWxUNE93LWp3WjdMT3FzanhuMUJFY0RZOUlmV0owRWtubzJ4ZW5jU19hcXFZdHNhRTVWS1BWWFhPLU9sYTQ3bFdXUlZHQVJ5dXc?oc=5
-- **Source:** Table.Briefings
-- **Published:** 2026-10-30T15:22:23+00:00
-
-## Japan's Ibaraki Prefecture Bids to Host Nuclear Fusion Demonstration Reactor, Second After Aomori; Site of Former Research Facility in Hitachiomiya Eyed - BigGo Finance
-
-- **URL:** https://news.google.com/rss/articles/CBMidkFVX3lxTE9WaEJJQ0pWSDBWTVhLOUhRYy1aVTBjZWU5cGFhb0diWmlxLUJjMU9jem40amVhU29mSFlobzd1MXBxWlJfTUhvVVhpR1JCQzE1MFZNclIzS19NM3hjM1F0aWVJQmhWZUVxYzlWNmVNMmppTmlBTlE?oc=5
-- **Source:** BigGo Finance
-- **Published:** 2026-10-30T14:55:00+00:00
-
-## Clean Air Task Force recognized among world’s most effective climate organizations for seventh consecutive year - Clean Air Task Force
-
-- **URL:** https://news.google.com/rss/articles/CBMi0AFBVV95cUxNZFpreFhxQ202RWpCMVBQdk1jazN3TGVPd3VGQTdHUkVWaEt1UmVJVDl2NFdqenF6V0FOMHFtN1pjUXdvVi12a1BTZW5rdjV1eXUzMVF1MFBNYUpZeVpYLTlORjJmQUhNdFU4QmJPdDVPbDdiTjZGY3VFcDRQQU51ME9iMzZkdnhOcHZOeGc0Y3JyQVFpTlhKVHhMOGxOV1pHS3hJSUtlWTRjTEZpNWUxcFhyT084eW9jVUlaWExHYmRmYjFZUG5TazFyUmR5X01s?oc=5
-- **Source:** Clean Air Task Force
-- **Published:** 2026-10-30T14:23:30+00:00
-
-## Is lab-grown gold coming, too? - The Jewelry Wire
-
-- **URL:** https://news.google.com/rss/articles/CBMidEFVX3lxTE5LNDdxcFY0OGlLMXYwLVNwc01saWhicTdFc3h1UnA2c1BNdzh0N2Q5R3lhS2tCeF9FUjN2ZE1UdFd2azA0bVZHNDVZUm01b09lRjRPZFpCSzc4X1QzdWJraXVOVjk5dl9DQ0hTclZYcDVER0VV?oc=5
-- **Source:** The Jewelry Wire
-- **Published:** 2026-10-30T13:56:17+00:00
-
-## SUNY Chancellor Highlights Quantum and Energy Research at Stony Brook - The Quantum Insider
-
-- **URL:** https://news.google.com/rss/articles/CBMijAFBVV95cUxQU3NDa2xNUDVsWVRuMFZESHQzOFJpbFRUbnZmSGVXcUVMOG1naVk4ZmlZS1dTckZ1OUNScEU1djk0dE8yV29QUDBnVlQ3UEJBbmNETlZHNWdYSFRlM2hueGhFcC04RTl4NE9qNFJ0amxEUFk5QmcwbDJvV3hXY0FWUndFZmFleVBRbTFicQ?oc=5
-- **Source:** The Quantum Insider
-- **Published:** 2026-10-30T13:37:36+00:00
