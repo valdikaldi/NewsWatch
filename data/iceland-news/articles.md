@@ -1,8 +1,14 @@
 # NewsWatch — Iceland News
 
-_Last updated: 2026-11-01T21:46:37.698729+00:00 · 50 articles_
+_Last updated: 2026-11-02T01:19:02.289119+00:00 · 50 articles_
 
 ---
+
+## The Cheapest Time To Visit Iceland: A Study of 350,249 Bookings - Guide to Iceland
+
+- **URL:** https://news.google.com/rss/articles/CBMif0FVX3lxTE1iRUhvbTE5RUhpQTliRlcxV1cwRlZhamhhUjJLeDV2VTB1LVRtcjBMSGpDR2I2SzNKQVdUZm8tYzVJbG4tS1YtNkxEbkJRSGo3RzhybTg0T2N4Z3VRclJIcGVUWWM4T3VkeG16bXlqRmhGNFhobGtXVHZvaTMzaUU?oc=5
+- **Source:** Guide to Iceland
+- **Published:** 2026-11-02T00:17:31+00:00
 
 ## Blue Lagoon plans Reykjavik listing as Iceland tourism demand grows - Traders Union
 
@@ -297,9 +303,3 @@ _Last updated: 2026-11-01T21:46:37.698729+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMifEFVX3lxTE9QVndUVVlIQlF3Y0FNdmE2NU5Gd2ZoUHBjTy1wZ05UUEp1UzJ4cVVKS1QzcHVyVi01SDduTGFLWG1razM5ejlaQ3hRdGRzRWpxenh4T2Y3RENnYm5pYmFhay1YRGpMemMzeWZrOW4tZlBEeGdXX0lVQkQ2QlY?oc=5
 - **Source:** Guide to Iceland
 - **Published:** 2026-10-31T07:59:34+00:00
-
-## Blue Lagoon Approves Public Offering and Nasdaq Iceland Listing - Iceland Review
-
-- **URL:** https://news.google.com/rss/articles/CBMihwFBVV95cUxPRVpQRWZQM05ITWEzWW0xVVQyX0g2NXNoZ1A3OVFhdU5uSm82NFYyRUk2VlpQd0VzTDNicTN2SE1RQ3BrcFh4NExiUWhqN2VJS1M3Yy10d010VTNZTWRiM3FmQ3FucHIySnN2OFh2MC1HWG9vcHFCU2NZc3Z5RmxEcFZIaU5TLTQ?oc=5
-- **Source:** Iceland Review
-- **Published:** 2026-10-31T07:00:00+00:00

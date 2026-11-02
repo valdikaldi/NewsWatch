@@ -1,8 +1,224 @@
 # NewsWatch — Oil News
 
-_Last updated: 2026-11-01T21:46:39.847287+00:00 · 50 articles_
+_Last updated: 2026-11-02T01:19:03.231029+00:00 · 50 articles_
 
 ---
+
+## Oil Falls Ahead of U.S. Midterms Despite Hormuz Tensions on Hopes for Diplomatic Solution - bloomingbit
+
+- **URL:** https://news.google.com/rss/articles/CBMiVEFVX3lxTE15cEJzSi0xQlo2OGF6UVVnUDFndHVOOTVyNmczZDRDWFZQZk1RbVl1dVREbjVNZzlCc3FubkdPQy1DeGtLOHMtWjNDSVduY0VnMXhSNg?oc=5
+- **Source:** bloomingbit
+- **Published:** 2026-11-02T01:15:16+00:00
+
+## Oil Drops Amid Diplomatic Efforts to Revive Mideast Peace Talks - WSJ
+
+- **URL:** https://news.google.com/rss/articles/CBMisgFBVV95cUxPT04yMnppWUt6Sld5MV84N3FXMk8wY1ZUeTdPV2pzblBnY0VtbDZsclRtYmZWcE1BQjZjQk9fQlJHZXZoM0RkWlZ6UkRTbmEyY2k2VDJqZUhBTkpoWnN1THcwNTFhUEo4U05uTWh3UmthQmNQVkx1bzFfY3BWUU80UU5TUHdVRDJxdU1lN3RaMVVYUndPOWlhQmJndHZPWEo3Qk9mUFRMU2Q3U0hQUTJKSEFB?oc=5
+- **Source:** WSJ
+- **Published:** 2026-11-02T01:15:00+00:00
+
+## ROI-Asia's crude oil imports back to pre-war levels but refined fuels lag: Russell - marketscreener.com
+
+- **URL:** https://news.google.com/rss/articles/CBMizwFBVV95cUxNSU92UW5QWERjZjA4aC03S2ZMdlRLWDFseVk2eUZSOGNnMjl0Y3g2WGU3dDdOcHd2akp4QVlOLUtZc0ZGWEpKYU4wbUVQc2d5TTNDWmxxT2U2ODA1aEpjQXltSVZuNDl0bnF2RTA5eGlQTVpGWnp5NldQYmR4OFdEZVhBaDR3V2VydkNVd2QwY0RLdklKZHdtc3IxdXVjSGpSTDIxdFlHRlVQS0dtNEhzN18yVXZla2kxWWlJb0VJYi12X3lMNU5DWlN2enRIUXc?oc=5
+- **Source:** marketscreener.com
+- **Published:** 2026-11-02T01:14:18+00:00
+
+## Daily Boom: AI Cracks, Oil Blinks, Gold Tests the Floor - The Dark Side Of The Boom
+
+- **URL:** https://news.google.com/rss/articles/CBMihwFBVV95cUxOMHprVTd1TjlnNjdQWDdkR09jLVlTRy0zOGFlM0NfaW10RHh2aHBHNTBiMlpZckgtTE9EZGhLbS1HWlphWGZfNVd0OXdUcHJVY3RpSnpPNno3WUo4djNkWl9rZDMzV3BUT29sb2hnRmxZeUtMTTRRMzBpVXFJcnR3SWtRMTk5bXc?oc=5
+- **Source:** The Dark Side Of The Boom
+- **Published:** 2026-11-02T01:00:55+00:00
+
+## Oil Prices Rise as Middle East, Ukraine-Russia Conflict Fuel Supply Worries - WSJ
+
+- **URL:** https://news.google.com/rss/articles/CBMivwFBVV95cUxPUnhpZVZHQUliUnJIQUJWb3JmbVl6VV9GZ3NJN0M3X0EzZU9pa2N4SEcybGNlakZkcmxyeVNqV0E5LWRxTU1VZUM4Uk9TdGZTS0RJLU1CZ1JVVFBlM0pTcWFPd2U0b1RFTkVyV2oxSzNwZzYzMjBwVmRtbUFvWUowS1RPSEQ3eE1Qa2ZQQVJ5SExsbzVXQTQtNlZYRC1Bbnh2YmpnZ2VGaHZLQlJDRWJRZEZOU2VCZ1hPcENQcTUtYw?oc=5
+- **Source:** WSJ
+- **Published:** 2026-11-02T00:59:41+00:00
+
+## Asia FX Talk - MUFG Research
+
+- **URL:** https://news.google.com/rss/articles/CBMibkFVX3lxTE00MkFIcURDQnpGeldpb3BuaVhuRU1pQlFZUkpMdFh1RUZnaFF3UmJxcHFPcWRCc2diWjk1ZkZhQndZT3ZQVzc0cEN1UGZlWXJtejhubjR3dkNqdGw0NDJxZk5iNUNXRVMtc0JxRjZR?oc=5
+- **Source:** MUFG Research
+- **Published:** 2026-11-02T00:59:09+00:00
+
+## Asian Stocks to Fall as Tech Rout Fuels AI Fears: Markets Wrap - Bloomberg.com
+
+- **URL:** https://news.google.com/rss/articles/CBMilAFBVV95cUxNUXhSWUZpNlU1UFZVSEtvY3QwQVB4T3FuYlpCT3lpaE05MThfMFFTZVZWWllFZDZDYkJFdTBIWEx1X1ZMVXlESFdaX3Noc2VSSW1QRHFzYzhPZkowLVNZeWR1N2dBN2hlLXY1VlJ3SHJNR3Ayc29JOXN4cXN3bklZQzN5bEctRER1aGp1eFdUVjhITWM0?oc=5
+- **Source:** Bloomberg.com
+- **Published:** 2026-11-02T00:59:00+00:00
+
+## Iranian ‘ghost fleet’ filmed evading US blockade en route to China, UANI says - 930 WFMD Free Talk
+
+- **URL:** https://news.google.com/rss/articles/CBMiqwFBVV95cUxOY3ViRUpUaWhuS2FES3d5dDYwZkxHV2llRlJfWGJNam9DTlZvalRLUFVlU3dlQzRhcWkwT2VkVEVmVWk4ZWswSUhOY3E1SHFQUDQ3RmlPV2xrcW5qT0czdlp4WTkzTHl3SUF1VEtVakJacnhMQXFqMWFGUG9BY2pRZnFWSElmbDdlM1NkTzFhSGJRbzJwbFlaa2Z5cWhFakdUblhBWEpSekV1bU0?oc=5
+- **Source:** 930 WFMD Free Talk
+- **Published:** 2026-11-02T00:55:46+00:00
+
+## Crude Oil, AI, and Bonds: Has the Market Trading Landscape Undergone a Complete Transformation in the Past Month? - Moomoo
+
+- **URL:** https://news.google.com/rss/articles/CBMioAFBVV95cUxNczdxd2VIUE81SU5EOGpNLWptTlV6QXBvMzJGc2daR3lEcjY3Q3c0NTl4Um5NUjJ4WWwyYXlQTk1TTFQ5Vkw5eEwxY245NVMzZGVqR012d2hWRk9aRGRTYTZGQXphaUg0NVEtVkJINjcxYmN2cXRYSkU1NUs3SF9jWXhqaFJoeTNrTU5aT2FqZlN0VVJ2TE5vLTdScEVRRjVB?oc=5
+- **Source:** Moomoo
+- **Published:** 2026-11-02T00:47:39+00:00
+
+## Regulators let oil company restart wells blamed for toxic wastewater threatening drinking water - The Cool Down
+
+- **URL:** https://news.google.com/rss/articles/CBMiigFBVV95cUxPN0VmYVhKOF90eVlzdGtsTFVnZ09WdjIzYXJGQW40TFBGamF4Q2VkT2Q0M2RLLUM0SHZORFlSblE2TXFyX29zMUpyN1RVR2RZc0JVNmdhQk1HdWUtdnljS0NRam1VbnRac01ycjY1aVNMMFg3SHVtTmphV19jcHZkOVNHcDhmLUtrQ1E?oc=5
+- **Source:** The Cool Down
+- **Published:** 2026-11-02T00:39:00+00:00
+
+## OPEC+ keeps December oil output targets steady as Iran war disrupt flows - Honolulu Star-Advertiser
+
+- **URL:** https://news.google.com/rss/articles/CBMixwFBVV95cUxOVzhYVDhVU3g1WEE0YXJwQkdnSk1zY3BOdTl3YklQMFpxckc4b0RkVk1aNGxLYjctMWpNVjRvQ2h5dUNYT2NnRHpKSUVzTkl5alUzbk9iQlZubm5uNHlselZNZ1BUWVBaeFJlVVpGeHU2MUpqU3NGbTBZX0xPcUlieFR4SldHZHd3Q05DdlYyOVRrby1HLUJCQ2ZvbmMzQ0xvYnRKQVJJdGs2OGVUZVFmMWY2S1RuMzVXRGZjZW1tcmwwak1ibGN3?oc=5
+- **Source:** Honolulu Star-Advertiser
+- **Published:** 2026-11-02T00:10:34+00:00
+
+## Oil prices retreat ahead of U.S. midterms despite renewed Strait of Hormuz attacks (CO1:COM:Commodity) - Seeking Alpha
+
+- **URL:** https://news.google.com/rss/articles/CBMiuwFBVV95cUxQRUs1ZVN4Yy11akhnS2x2cjNHWEN3Q1Fqbm1yVFVzcEo2a2NpaWRWOVpteEVfUjRPVFFmekU3V0hrRktQcEZlckNpcUNtSEUtc0RVLWFweXhXcVl6eGxmUU1CbVBvNUQ1RDVPLWRIWGlwMndCVEZxSV9TX3lpZkRMOGtqam40Y0tKcWtEelpScllhclJqR3A2enFsVU83aHl4MGQzRHhxc3Z6SnpDZEN3S01iTlNKS1RQVTV3?oc=5
+- **Source:** Seeking Alpha
+- **Published:** 2026-11-02T00:06:12+00:00
+
+## Oil Prices Surge Past $100, Big Five Oil Majors Rake In NT$1.8 Trillion in Q3 Profits — Yet Rarely "Dare Not Spend" - BigGo Finance
+
+- **URL:** https://news.google.com/rss/articles/CBMidkFVX3lxTFBzMDFkTlk0T1I2WDlqUG5OUXZJTXZTVWpOQ1BWcFJaX21fZkEza2VGR2o2d3piSWQ5UnI4eW5MVXJmS1JWRnBwbV93eUdza1dnM1BoR1BIdlhQb1ptT2JWNEdmU1ExRHV4d1JQOGtsVHdFSVM4Ync?oc=5
+- **Source:** BigGo Finance
+- **Published:** 2026-11-02T00:05:00+00:00
+
+## Oil Prices No Longer Follow Headlines - Yahoo Finance
+
+- **URL:** https://news.google.com/rss/articles/CBMikAFBVV95cUxPSmpTZGx1Y1V2R0haa0NheGoyb1FaY2FQS3VRMWcteC1YSXI3WnlnN2JWZ3cwTF9OMTgxdUVqN2puel92NU81MWlZU1VvTXJ0Y3JwWkhhMlZQVWt2ekgtSjFBdzBhQmNRdEI5Qm9fdk1qY3pvbnJ0OWxEWHpWN0hoQ2lpNHlobExKdkdweXZJMzg?oc=5
+- **Source:** Yahoo Finance
+- **Published:** 2026-11-02T00:00:00+00:00
+
+## ‘No rush to end Iran war’ as oil prices defy worst fears - Arabian Gulf Business Insight | AGBI
+
+- **URL:** https://news.google.com/rss/articles/CBMiqAFBVV95cUxPcWt0YjZuWVJTSGpUNzI3UF8wcXhOYVdFQm9NQnJrZ3U4RkVreHpaTS1pSVBhTkgxLXdjTzNid1pQQkh4M1JSUTkwY1hySUlFeFdJcUdMX2ZKRGhrNDlkWXBGdXJLWVJPVWZmZlI1bGpGeHZ6dVpIdTRwcXlMWkRJZDdkQTAzOTdYMWF2aHJ2TGRTLXNxSlJMVkh0Ym1WWGxPR1g0bDVPcU0?oc=5
+- **Source:** Arabian Gulf Business Insight | AGBI
+- **Published:** 2026-11-02T00:00:00+00:00
+
+## Oil Falls on Mideast Diplomatic Push - TradingView
+
+- **URL:** https://news.google.com/rss/articles/CBMikAFBVV95cUxOTTBPeE5WZERBcVNFYXdTYVpsSGFIbW5fcFZvaUxzM0dVdGxlWjhzVDJDTkpycWFRTDVYdDVCM2ozemlHV0NFX0dRSFlZajNGdTI0OE9sVkMzT19NVHRIZjI5RTlRQTFUV3owTUM0RHQwVkRUZzlmc1ZkYlNGdERUejBZdmdwaDhPV01YdHYxRzI?oc=5
+- **Source:** TradingView
+- **Published:** 2026-11-01T23:48:23+00:00
+
+## Australian Stocks Brace For A Quiet Open As Oil Risks Linger - Finimize
+
+- **URL:** https://news.google.com/rss/articles/CBMikwFBVV95cUxNaWxEb09VZ01BQkZxbjdJdlFvSEg4TUlkNkt3ZFo0bFlQX0hxXzFCZkFNNzZwUldWVXp3SXc5UGZxTnlvUVV5M3VrRTRnSUVWZlVXcS1fejRXcFVPakZVS1pZUXNVQ1poclAtUEx5MlcwMW4ydzRoUnZqaTdmUlktYS00YTNTN2h6R3Nsc1RycDVqOGM?oc=5
+- **Source:** Finimize
+- **Published:** 2026-11-01T23:42:09+00:00
+
+## Oil slips more than 1% as talks continue on ending Iran war - The Mighty 790 KFGO
+
+- **URL:** https://news.google.com/rss/articles/CBMikAFBVV95cUxPNUdhV3VNT1RTdmVTQTY1eVZIcVVSVmVuaUNneEpvY1JNUjlVZkdwQVVidFd0WkN3ZHhTSjlRRFZaR2JKYnhwazQ4cUg0c1ViRWY1OWFSdTlvWENuSkpiaUd5c3JRdFhWRm1XR3JRUC1UQkFid2pscERYZDZiT05iTDJGSFN4bWs1UGtSSWVWelE?oc=5
+- **Source:** The Mighty 790 KFGO
+- **Published:** 2026-11-01T23:40:40+00:00
+
+## Oil slips more than 1% as talks continue on ending Iran war - Euronext Markets: Real-time Stock Market Data | live
+
+- **URL:** https://news.google.com/rss/articles/CBMilgFBVV95cUxNd2VacTdFbDVDdFF4dTd2ZWFYWHhMMThGRl9NUmFHbllpemg5QUtFRHJORUJSd1N1RlRGdktWTWp6MzZJTDdVT01GbmFjU1prYk1LVEZEUG9taEFQbDliQnF2eWY4Rk4yRGt1b2o2ai1Ka1BTOUY5cG5UTWhxTmVOSnFtYm5aMFk4SHJLVUZwZjJwLUJmWUE?oc=5
+- **Source:** Euronext Markets: Real-time Stock Market Data | live
+- **Published:** 2026-11-01T23:29:31+00:00
+
+## Oil slips more than 1% as talks continue on ending Iran war By Reuters - Investing.com
+
+- **URL:** https://news.google.com/rss/articles/CBMitAFBVV95cUxPc3Mta2JrR09tMm5HSGFjMXJTaEk2LXJXSG8wTUFHNlMyMDhkUDQ2Y0pMdmNlX1RKY2NiXzQtb2FtSHJzN2ZlOW1XR0NDNlp2NDBXMzB4THRRY0oxdVFBLUdXS0ltdDVOc3NzdkZ6eFRZT1d6dlhyblVRUUFlOThUTGhhOUNpaTkyWWFpWC1Pc1Ata2JUdVZteEgtb2kxWms4Umk1SVRxM0dXc2ViMnN4cV9JeGM?oc=5
+- **Source:** Investing.com
+- **Published:** 2026-11-01T23:25:23+00:00
+
+## Trump on price of oil - KWQC
+
+- **URL:** https://news.google.com/rss/articles/CBMiZEFVX3lxTE4tZlozSXJQeFFpUVNNYzliQ1BpaFg1bE5Mc0o0azJGTkN3clQ3YU9ZTFFOamdWeUxsVEZHM3Rva1lKNFc4MG5jWHgyOGVUa3l5eTA5T09tZEJCT3pFeW8zUGVOVFQ?oc=5
+- **Source:** KWQC
+- **Published:** 2026-11-01T23:20:00+00:00
+
+## Oil Prices Drop 1% as Iran War Talks Continue | Market Update - Global Banking & Finance Review
+
+- **URL:** https://news.google.com/rss/articles/CBMiiwFBVV95cUxNVi1JeVpxQTBnR09zUGw4SGg3MjE5Mk5scWlqNTd2ckMwVEN5QTJtTUlRY295Zm54ZXNneEp2S0lzNjl6cjdfSlVTMjdVRkJLTGkyVXdpZ2x5ZE9yNE5LWnJNYlJ1UWVGUDA1T0N1RkRsZTVFU3gyY01Ra3NOOFlWU1lBMUU4UmZQeVdV?oc=5
+- **Source:** Global Banking & Finance Review
+- **Published:** 2026-11-01T23:18:19+00:00
+
+## Oil slips more than 1% as talks continue on ending Iran war - Reuters
+
+- **URL:** https://news.google.com/rss/articles/CBMipwFBVV95cUxPeHdxcnVlWmx5T1pjbDZQS19XeXlYTW1xZmNONnJQWHk4YU1EQTRzZFZQVEJxYjd6WEJTN2pfZC10ZGlzXzVURVdHZkg1RjZGY2tjN0ZVRjNRc0p4UmQ1c2F6MUt4eEpHSml6Z3Q4WHpqV094aEo0dTlVbk00OGFBazlmdGhsWGdtckFHQjlBTVU5Q0FRR3hxUnVmcVpPeGZsTHBlWmhTdw?oc=5
+- **Source:** Reuters
+- **Published:** 2026-11-01T23:13:00+00:00
+
+## Oil slips more than 1% as talks continue on ending Iran war - Central Oregon Daily
+
+- **URL:** https://news.google.com/rss/articles/CBMi7gFBVV95cUxNWWZoWldTUHIxTTAybWF5d3dIdWJjajRNVXh0Vk5TNnFFOWotZlBpaFZia0dNOHMzZC1vbXlqOW8xVEtyOGZybTZQOHR0bHcxSWFBM2xSYnVxTWU2WmdzSEFMVnZRLUxFVmV2ZEdXdHJRaEptSE5vRGJuOHJaSWlWekxvcFJQbHE1a2lYVDNFYmdJTnl5MU1PbVFKVjlINmFyMkwxbzdPMFNQYTd1ZEVOLUZiUGsyRXNjVDN5Ujg1SEgwZkJZbUY4c0hKa1BtdDZqY3pzdkU4SU5UOERSdlRZMWVhZ3o5bkg2cEZiLXJR?oc=5
+- **Source:** Central Oregon Daily
+- **Published:** 2026-11-01T23:12:57+00:00
+
+## Oil Declines Ahead of Midterm Elections Despite Hormuz Attacks - Bloomberg.com
+
+- **URL:** https://news.google.com/rss/articles/CBMinAFBVV95cUxQemlrUnpqR1g0OFFfbnJHTUktSE94dmx1MUQxbFpseThLLWNLaFVmdUp1ZFBHMjloZDFSR1Z2aDFVRHU0bmN4aE1vMGJRR1c4UldXMW9iWDY4clhNODVZVV9OQ0VvelF0Y2pKWlo2T0o3OWVCRTlGeU9fVXNiNEZfNTF5cnU0Rk5yX1htSDd6UW9oSDBNdU93NXNmV08?oc=5
+- **Source:** Bloomberg.com
+- **Published:** 2026-11-01T23:11:50+00:00
+
+## ASX Preview: Australian Shares Set for Flat Open Amid Oil Supply Uncertainty; Ingenia Communities Receives Higher Avid Property Group Takeover Offer - Yahoo Finance Australia
+
+- **URL:** https://news.google.com/rss/articles/CBMiigFBVV95cUxNenJrcUtoVWlzWjd5QVdvZ0VaSF9nY0VGc240cUFFS2VDYWpDRW9vV3NnMFFlQXl0ako3MDQ3dDhxNWpxbGNUUk1MX0g3LWNmdXR3dV9wQm80Z1RpZlJGcFJ5ZTdqZEhiZ01jaWU3Nm9ncHlTZjJ6dzdRZEJVZXppdEVZM0lSaWpFMmc?oc=5
+- **Source:** Yahoo Finance Australia
+- **Published:** 2026-11-01T23:08:19+00:00
+
+## Bitcoin Uptober Failed as Oil, Bonds and AI Broke Pattern: What Changed? - CryptoRank
+
+- **URL:** https://news.google.com/rss/articles/CBMif0FVX3lxTE1VcUVtTnp0WU1RZnQtQWZEd0tEcDBNUFhjOUxMZUhlQjg5R0dvZjBxMmZTaUNfeVR6VDc1cklacUdwWXBPaWJNSmN2UVlISEd2dTFVdEcwM2FJQW9WQ3E1Mk9ScC1MaGp1SjZSOWNEaElwLUtGQTZJcEd1THk0Q1E?oc=5
+- **Source:** CryptoRank
+- **Published:** 2026-11-01T23:02:27+00:00
+
+## Oil slips more than 1% as talks continue on ending Iran war - TradingView
+
+- **URL:** https://news.google.com/rss/articles/CBMixwFBVV95cUxPTzByV2djRzlmbkxZenU1dnhSbXNEYk8xWFJ3REx5YW1acUwxbl8yTm5TMGFwdlUxN0lhek1rOHhTRDZocGx1cHZjRjJKa05TSjZvYUFQS2E3dV9GbWFXZVNsRlRMU3VTTVJHOFFqa1RFcnV5VUNoTERLQzlGTC1zTjUwZFNRMWs3WFprZ25PTzczYVpQa3gwaEpTVUpYcUpQV2o3YUw5OURvN2pPbzIzVUJPOVlqRGlOd3dVbXRVUjNGUWQzU1dF?oc=5
+- **Source:** TradingView
+- **Published:** 2026-11-01T23:01:21+00:00
+
+## Bitcoin Uptober Failed as Oil, Bonds and AI Broke Pattern: What Changed? - Yahoo Finance
+
+- **URL:** https://news.google.com/rss/articles/CBMingFBVV95cUxPcmtQZUs2bVRGLWZLdTBFUlA3b2JhR2p2aFU1UVdON1A3dFBUYTNnSDM0b05zRllLdnZlMDlEcjZsOG5JeThHd1NydkVNNlcwUE9tUEY1RmlWX1lHWGpYS2dHZG5JaENNNmlQSUVYcEc1SkNpRmYxRkdid09DSEFvblRIVHpjS0ExM1lmOTU0OS1DU2UwLUxObl9GYzlYUQ?oc=5
+- **Source:** Yahoo Finance
+- **Published:** 2026-11-01T22:32:38+00:00
+
+## Bitcoin Uptober Failed as Oil, Bonds and AI Broke Pattern: What Changed? - BeInCrypto
+
+- **URL:** https://news.google.com/rss/articles/CBMibEFVX3lxTFBZUzdJMG1TU3N4elZ0T2ptZVI0SDc0SE9Nb2JBa2huOEF3Nnl2REhqSDlCc3ZEUVcwZG5PNXBZUUtocURFU2JoZ1kwMHJoVFBkUUJ0T2x4RUU2aV9PbGthckozSGh0bmhZMEFFZg?oc=5
+- **Source:** BeInCrypto
+- **Published:** 2026-11-01T22:32:00+00:00
+
+## Unchanged rig numbers across the U.S. and Oklahoma - Oklahoma Energy Today
+
+- **URL:** https://news.google.com/rss/articles/CBMiiwFBVV95cUxOa1E2cG1YQnV6ZGt3dktLNm15dHdBdTRRLWpKTDd4dW1ITmV2ZnQ0ZEc0Q1lOV1dTX1hJVGpJaDZmVHJaRmhDbGJOSGFyTjRYUHc3T2xZRVpmcnNqazFmQmJGQXNuWHJoRktnMUpTTWJOeEhabmxYaHBwZkJTc1dwdkFhMmZLLV9DN3hv?oc=5
+- **Source:** Oklahoma Energy Today
+- **Published:** 2026-11-01T22:21:00+00:00
+
+## Cushing Hub oil inventories follow national decline - Oklahoma Energy Today
+
+- **URL:** https://news.google.com/rss/articles/CBMijwFBVV95cUxOd1FaRktQeWxSTFZyR2xndEFaZlJuT3FiM2NUME1lU25pWkFHbTBEMTYySHVySlFNck1zeHdJWVc1bV9sM1g5OUlNdVlOOG5DY084Uk9QdldXU29kRTFnbFpaTXQxbzczRkpESzhYT3h2REZoQnNMNlZrRXplb0ZTZHNZb2ZOYUpoVmwtNDdsQQ?oc=5
+- **Source:** Oklahoma Energy Today
+- **Published:** 2026-11-01T22:20:03+00:00
+
+## Oil Slips More Than 1% as Talks Continue on Ending Iran War - US News Money
+
+- **URL:** https://news.google.com/rss/articles/CBMiugFBVV95cUxOZ0NZX3ZCMmJ5bWttQzVaVUdvZGNPbXVWcm00RDNidmNMdTlVSUFFNnV1VlNEZkJ4akdJOVZYWWxBd0dsZ1FvWXhvdG5oLU01YnpybDZod2p3VjRvRUNKZ04yOUswUjh4RTI0SS1sWUNLZGVEQ3BCYTZYRjZ4aThQRU9oQTAzQkRWM29uMXVHdDdTUXBDZndQV2dBSDdGYld3ejEzWTk4WWNiY0d0S1ZIdU14UVh6a1RmVEE?oc=5
+- **Source:** US News Money
+- **Published:** 2026-11-01T22:12:00+00:00
+
+## Bresnahan’s account bought oil stocks before Big Beautiful Bill vote - Heartland Signal
+
+- **URL:** https://news.google.com/rss/articles/CBMikgFBVV95cUxQZWY5b01FX2dLd2lTZTF5UDV6aWNNa2F3OUFqTklfSXB3Yk8wV1l5WEVKWmFEOXhoNnlMX0RvQ0FCMXIzQ0VsSi1BMVVqV3FiWVo1b2tWaFFTT0lYUlp2QmVJOFYzcTlGQzVDVTR2N2ZoTFo0THp0T3h2QWZvSDc5UW9UR3RWQlFyc3QzejhvS3JlQQ?oc=5
+- **Source:** Heartland Signal
+- **Published:** 2026-11-01T22:08:10+00:00
+
+## Jesse Konig and Ben Johnson built a frozen French-fry brand around a seed-oil-free recipe; in 2026, Jesse - The Times of India
+
+- **URL:** https://news.google.com/rss/articles/CBMi4wJBVV95cUxNMHBzZTdjdVFtc0pjcVM2ZGVRNVZIVnBwMC15dzFpX2xyX1Nwc3BoTFh5WWI3ZU1BOXc1WGxRRVFrQnVpY1lBbzZtbkpOY21MWVM2NVZneklUZW12Tk04Y1hrM1ZpSTBWeFgwd2t4ZEs5b0VtVWdwWlROakpDQUtyV1NNQmx2dVVVZFNvMkV5TTVlS0hXSlNGNWdnSW8zcnJrSVJhSEpzSzhyU3FvbVEtaFlFcGl6SS1FRGw4Zkt3ZjRSbWMtSlMyRWhyYXBjWFp5djZQaFhaMXd6VFgxR1JiVURqS3hBSUh2WV9FN0RIaEQycXE1U0NaQzFDQlRtbXo0MEx4WndweGl0aTBJUlB0ZUY5TTI4WGVLcmM4LWFydkdMTC1Wa3RIVTBwRE84Tm40MkxOY1BHT1luOVZiNDZPWTQ5b2ljem1sajF0UFNhOFVCcE4wNmY2VTM2R3llVU5XSFVn0gHoAkFVX3lxTE96RkxxbEthWDEzUERHZDFxYWt4d0JOTG9XMXF5YzBEYnhLVDdpaHhZWmxYOGlFUUdpSnkwLTU1VE5uR1hWWDdBLTR2RXNFRmJZaWJ4RWgxY3JGdUllcF9JTk9ZTW92bnpSWS1BeV96VGJhRENFdUZ4MlQ0Z2I1VWk3UGZkdFVEdlVNY3pqYkRPcjRDTThMU0lDWU9wWmJLLWUzSnlJeUMtNUdPQnZrajREclhfMFpsbUZFYUctTlZKTEd5YjJVZkRmTHRFcnhFcVZaYkxXWGtNQi14ZDI2cG96M2dpRkRtdGJ0YmkybDhWNkc5allKVndYYWUtUjE0a1pXMXgwNTFaSm9RTDJtSmh2aUtGRkdlcko0T2RuNkwwR3NhWDFzcHR4VHBqYW9MUUxqeThTZ0o3bTdySGVZR1VmX001Uy1XRkhHTHhScGJNYUhvNVZnSnJpSnp5OVpnenE0QTh6bzBjaQ?oc=5
+- **Source:** The Times of India
+- **Published:** 2026-11-01T22:00:00+00:00
+
+## Replay: Home - 2026 Northstars vs Oil Kings | Nov 1 @ 12 PM - FloHockey
+
+- **URL:** https://news.google.com/rss/articles/CBMijgFBVV95cUxQSU1ZZEFfRFhVUWpQckVJRldjRzdLbHZsazl4cHo4NTk1bWpIUTNVQ2l4QVR5SS1aSFhEcDZhVlZwckFWRDBDWmp3dHlFR09KNmNIc1pGNHhUZzNadGtyZl90VGx0RmVzcVBFZlU2TFBwcm96ckxVWEJiel9PbzdpQ0RSRkI2aGYtWUVkdVVB?oc=5
+- **Source:** FloHockey
+- **Published:** 2026-11-01T21:56:23+00:00
 
 ## Two violating oil tankers explode in Hormuz Strait - Mehr News Agency
 
@@ -87,219 +303,3 @@ _Last updated: 2026-11-01T21:46:39.847287+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMiVEFVX3lxTE1WNkhzYnh5QlVZalZscFczWWtWaEFMbG1mbEhEXzlvOEp5dU9La1N5NGMtQlV4X1VMQmF0WDhRdFNwNS1IZTBkWTByODkyZ1pKTUd1aA?oc=5
 - **Source:** AzerNews
 - **Published:** 2026-11-01T19:59:00+00:00
-
-## Iraq to keep oil output unchanged in December 2026 - IraqiNews
-
-- **URL:** https://news.google.com/rss/articles/CBMiigFBVV95cUxPdWNRZlhnQ0hjQ2xSUmlNZUxVU2JDOWtMTnJtTGhuazdsNXk5LTB3NHRMbDJUQ1dIX1lSUDFxUFlibW8yWVdweUZzaXJyVVF0cUdBZURtelFhYzJDcEtnVnhtX3hoeXZpUXNIYm1kWU5aTVlnLWF1aHNUeEtLbG54S3JMUTRSOHNrX3c?oc=5
-- **Source:** IraqiNews
-- **Published:** 2026-11-01T19:40:15+00:00
-
-## Bleaching Earth Market To 2035: Edible Oil Refining and Biofuel Demand Drive Growth - News and Statistics - IndexBox
-
-- **URL:** https://news.google.com/rss/articles/CBMiywFBVV95cUxNdFNHRVpUdTA5VGtxTnFWaVlGbUw0Z3VzR3lYREV6YUFCZXlTcjhzbTB5d3pQUXZvdm5YRzhRT0swQXMzaEVqTzhFeE5CZ2c4UHdfbjl1ZHhrTDNPSWU5b1N0bTZKSzBVd3lhUDJEQVlaZ3l4dnIyLVFMXzBDRVBXWThRV1d6eTJFY1QxeUF0WnJPRWY3RUg0UUhLMlA5blZNVW9RUWNZaE1QZmRGQzM0eWJPNUJ2MUl2czd1dXJXckhndy1tX1BOQXlnVQ?oc=5
-- **Source:** IndexBox
-- **Published:** 2026-11-01T19:36:04+00:00
-
-## OPEC+ keeps oil production quotas unchanged for December - Qazinform
-
-- **URL:** https://news.google.com/rss/articles/CBMikwFBVV95cUxQUlBGZ3lwck5BXzV1eWRHUW4yTlNQTDNtT2JuaWNJUW94NmZvMlRqdDNkbld6UzlnU3p4Z3hoeVpsVUljME1HdDZzVFBzTTMyZklTUGdTcU9EenI2aDN6QmNBd01zbnIxa3BTS1h4ZkczV2RjcUNBa2c1SFVFb2NOOHAza3dGUER3cEs4WmlOdGxWYmPSAZMBQVVfeXFMUDMwZHZqUTJVcFg4WlRmLTdrYVc1ZlFHbF9iSUxleU8zQzMyTTh2cFRsaHlaXzlkV2MxSzdOUjhsVTN5Ry1YT1BvTGpWVXZCUTdCYUx4N0h2MXYwektqOWdVMUVfQzNjbFpKTFlpelRLZEFRU1ZhVXR6VF9rb0JfblNBMG91Q1lJM1NNT2ZrZXhYVzBv?oc=5
-- **Source:** Qazinform
-- **Published:** 2026-11-01T19:34:10+00:00
-
-## TotalEnergies Signs Methane Reduction Deals with Petronas, Sonangol and Oil India - News and Statistics - IndexBox
-
-- **URL:** https://news.google.com/rss/articles/CBMiuAFBVV95cUxNc3FlUkt1VjgxYWlQa25HdmNLckUzTVBpQXQwa3JtUG9oU0txbFVzbEdkczBwVV8xRUsxd1p2eVVEMndxLWtqWXlJbXBWaEJqbVpkTWc4d0U1aHpLRnVPSjdBRXlxNkk4ZjJ5LW43RFB4Z3BEb21FODI2Tm1GM0ItX1JRVURXUldjeHFkRnU4aURxcVpmTC1rc0d4N19WRy1JbXo1aDNtMS12MkZrVXpQMnZpRk5taTdw?oc=5
-- **Source:** IndexBox
-- **Published:** 2026-11-01T19:31:42+00:00
-
-## Oil Settles Lower Amid Middle East Diplomatic Efforts - WSJ
-
-- **URL:** https://news.google.com/rss/articles/CBMiogFBVV95cUxNWk9kRWJfSkYwUzNmQ3pfOUVSU21YWjFpWjJDb3YydFREdDBHSF93TUhjYTkzaXdXQkExcTdUZEJCQ1A3M2FnWG04NFpTaXBQdFVFdnZzOUhGakFrVlgyNWNZV2VwUlFiLXp6TVdkelRhU0tUWnNqQWlqR3NfcS1fY0FVZkNkYzR0RGVoa05GMmJQM1ZldUFPcmstazJVM1dTS2c?oc=5
-- **Source:** WSJ
-- **Published:** 2026-11-01T19:31:36+00:00
-
-## TotalEnergies (TTE) Partners with National Oil Companies to Cut Methane Emissions - GuruFocus
-
-- **URL:** https://news.google.com/rss/articles/CBMiugFBVV95cUxPYkpHd2NYa01RTVdRU2RqTHpacnRFeXV1VlVkQ3Zya3RlNWc4VVViRFVaNnJ5dkRINXhYZVd6c25NZE1JaGFVWXRlWVZ6LURzODlNVDJOVFU1TTN1cTNSYjRkcktjRC02allEcW5hR1pnRFlhVHFoSUJmYnNKUHdxUWx0OTFpSHV1OFpuTF9mT0EtRElWbThla19HZVltazFyTVJuRFVadzQ2X2lYOHdYalJwQmY5bU1tOUE?oc=5
-- **Source:** GuruFocus
-- **Published:** 2026-11-01T19:21:22+00:00
-
-## Weekly column: Crude Oil surges past one hundred dollars while crypto digests record heist - FXStreet
-
-- **URL:** https://news.google.com/rss/articles/CBMi0gFBVV95cUxNbFlET1h1WnRoTDU2bDVZTElaNm5UOEdpdjExQV9zVWN3dkNpVDVBVkcxWEpQVW1mOU9ySm84cVRMTk4wLXhxNjJZWC1fb1BEdTlrZjl3eXRMSDFic3hjTUZjaERJZG9RdVFZekVoSklqZHJQTVFGWjZyYVd0aVZlOGw5WWlSNGpycGJaNDVZeGdoZ3RzeDlVUUcwekhDM21hY0ZSa0piMUtZMFd5UVYyY0p3eFN5UWxFNlFyRFJDTUZyM3IyWWdkRWlVemtMRlBwM1E?oc=5
-- **Source:** FXStreet
-- **Published:** 2026-11-01T19:16:04+00:00
-
-## TotalEnergies teams with Petronas, Sonangol, OIL on methane - World Oil
-
-- **URL:** https://news.google.com/rss/articles/CBMinwFBVV95cUxNUUlKby1GNF9FSFBEOTVKTHlfdnFUMWJ3ajJnZzF1Y2FSWkNPSnVqVGU3UEJDSGt4cEV5czhTVGpwclRkWXdTLVRBSEJVMVJTV3pLdmd0UjMtYUFlRFB5MEs0aE0wNWYtREl3T1NlcWdPV3haSGMzallKN3EzMkNGXy1zbmtlOUc2SllPMDQ3NjFnLW83UHJuM2J6b1RDT0E?oc=5
-- **Source:** World Oil
-- **Published:** 2026-11-01T18:52:21+00:00
-
-## Homebuyer questions need for oil tank soil test as commenters warn of a $100,000 cleanup risk - The Cool Down
-
-- **URL:** https://news.google.com/rss/articles/CBMie0FVX3lxTFBENmxLN3JmZTJwSC04WTQ4OTcxYm8yNXRJRjhFTkZkWnBmZng3MHBSMmM4UGZZMzFRd2h3d3Fidi1XRE01SXV4SmFCcXJEc1p1a3FaSHlKelRFcFMydEhSV3pWdXZERW1PTDJxSi0xYlpUT3R0ZTNhdnFBcw?oc=5
-- **Source:** The Cool Down
-- **Published:** 2026-11-01T18:49:00+00:00
-
-## OPEC+ Keeps December Oil Production Quotas Unchanged - Fana News -
-
-- **URL:** https://news.google.com/rss/articles/CBMikwFBVV95cUxORGk2YjFSdDRfcU1hMXl2OFpnNXJpdlpxVTIwN3BCeXRFVFFzTHZUR2ltcFZITFIyRFdtSjJuZ2trdDl5aEVCQnRHTmhwbEdlYkdSSm4yblFwQlh3VTBFd0xSdDJOLURWQmNtR2RjOEt6TVBWUTF2aU1od2tvNU1DMGVsbmlWb1haVU1rWVFzQ3R0TjQ?oc=5
-- **Source:** Fana News -
-- **Published:** 2026-11-01T18:23:22+00:00
-
-## Emergency crews respond to Casper Mountain Road after vehicle crashes over edge near Lookout Point - Oil City News
-
-- **URL:** https://news.google.com/rss/articles/CBMi3gFBVV95cUxPbGlNMVV4b1JXRFJPVGkxYnpGb0N6V1M1dEI3YzlydHhjczhzQjJrbjZ6ZmhISzZXS1BhTXJ1QVFDTDFVelhmNU9SbXFac3pjVUV5SFdEc0lJMURNcmtLNm1rZy1zMm1ZY3JrbnhxMlV5bV81SDBUOEp4MGlJcFUwa205ODVNNEJNV1VzSlhIMlBacGZIblo2eUx3VTRxTTZwV0EzTmQxTERrUk9vbTFLM1pOMVphX0l1Q2FXRnRjWklEQndjUThRUGstZmlFX05NSGdPY2E3ZXZuWUpJWHc?oc=5
-- **Source:** Oil City News
-- **Published:** 2026-11-01T18:09:51+00:00
-
-## The Endless Cruise's Real Problem Wasn't Oil - Bloomberg
-
-- **URL:** https://news.google.com/rss/articles/CBMisgFBVV95cUxPNEl2bzVRNGVXdU1ia2lUdkdBZHQ3WVdOTEdfNGZXaURKTXFwTVpBWU8wOHdEYlpfRGdZV3Rpb1dMRTdpZ1ptLUt2MjVjUVZXODJpMnRoX3J6d2R6WmgwUHdtWDR1MGNydGpDaU9nQksxUUhVME9PQUNwTXhxOVN6cklhdjJQUC13LVlvckZRSDJEVjhFclRlNUNELWl0NVdBR19leFVwY0N3NzNIWmlBZmR3?oc=5
-- **Source:** Bloomberg
-- **Published:** 2026-11-01T18:01:00+00:00
-
-## Weekly Death Notices (10/24/26–10/31/26) - Oil City News
-
-- **URL:** https://news.google.com/rss/articles/CBMiigFBVV95cUxNWEdzRXZJb1o2SlBWZndJSHhTaHJ2OXhfUnlTVExsb09QS1VrSU5UcmFlUE1sQk5PYlFmSEh5V1B4T21OQkRId3BhYlJTVl9pR1ZxZnpqNDVOZWV0ZUw4RXpRTVZKNE93SEdBR2E5QXpGM2xoQldCb1p1OFNjUGtLRlBab3IxQjNFZXc?oc=5
-- **Source:** Oil City News
-- **Published:** 2026-11-01T18:00:00+00:00
-
-## Vehicle crashes through Hat Six Travel Center; no injuries reported - Oil City News
-
-- **URL:** https://news.google.com/rss/articles/CBMiswFBVV95cUxOQkhWTFM4VFV5ZEkwMnY3a0pmRXpsYWYySTJfdkNIOWZCZzcya2IzQWRjMk1iUzRNNkpsQWwzYXR2QUptbi1xU2FNOU04bncxdEo0WjdYWFlYaTE2RnM1VTFmUU5KWmUzcE9vZzhhWWdYLUlJUzZwMVF6MUZzX05FM0RJY0tFdHZmem9xeF92Mk03RnRMd2NnSGQ3NXBDYWRfQmoyTkRJVHVoZEx3WHJmeHY5Zw?oc=5
-- **Source:** Oil City News
-- **Published:** 2026-11-01T17:59:22+00:00
-
-## Shafaq News..Syria foils “terrorist plot” targeting Homs oil refinery - شفق نيوز
-
-- **URL:** https://news.google.com/rss/articles/CBMijgFBVV95cUxNXzN2NVRMWkplYktTZ2FZMkg4ajBra082QmhjWjZlR1NTNjNxLTMzTlI5bnMyZzJWVDBld1RtRHRKNFBRWVFSWmxQeG00Q0NoTHNLcmlzelN2aXdna0UxYndCVHlxUy1WRUNmbHk3eVpDbVpfUlpHTkJMdnE2R1dVY0U1ZThjUmR1RU43cThR?oc=5
-- **Source:** شفق نيوز
-- **Published:** 2026-11-01T17:33:34+00:00
-
-## Western oil majors, Europe's arms makers win the money war as Saudi Arabia, Qatar lose out - IntelliNews
-
-- **URL:** https://news.google.com/rss/articles/CBMi0gFBVV95cUxQckFNQVVwdlVVcDV5dWRvdC1FTU1SRURJSDlTbWZvUjhfSG11N3Vsa0Z6YkIwLXBWRmRkYTF4REY4WXFaVkpjaS1LWnhNYlBnRGdKR3Z5X3hhV3AtWW80Q2w5NmVYS1hqLVZZUVhDQ2xTWEItSVNnZmhNQWEwcnhSUEpOY1R0ZTV1ci1VRTNVLTRRYXVJeG5XVnZSaWxOMGJ0QlZheFhjMDJFNDFKajFkcnVrcTF6THA2QWxQX3J2RDhEdDJYV1NMNV80RzVEaVoxM3c?oc=5
-- **Source:** IntelliNews
-- **Published:** 2026-11-01T17:27:50+00:00
-
-## Oil, Inflation, and Fed Risk. Why MicroStrategy Still Wants More Bitcoin Now? - BeInCrypto
-
-- **URL:** https://news.google.com/rss/articles/CBMib0FVX3lxTE9rOGNSSmgxbmhDbWdvbWdTZ0JsU2ZGT1lvd1FIRGRxWHBCRjk2Y2dFMWZSNmwwbi1QLTlhb2lGbTZxQmtGOW83RThNWlhWVVc4eE54T3laMXlRQkwtZUJueFhSV0F3NXVVZUtKMmhRMA?oc=5
-- **Source:** BeInCrypto
-- **Published:** 2026-11-01T17:23:00+00:00
-
-## Ukraine defies Trump to resume attacks on Russian oil - The Guardian
-
-- **URL:** https://news.google.com/rss/articles/CBMimgFBVV95cUxOZ19rWVE2TGotNE9jeVFKZnFoaEpZaDRlTHVjZVhPcks0am5ieVl2ck9MaTYxR25CQXVvcDNfZ1FibEo3QjRIRWRjcno1eXRGVTlkT0FmVmZLYkNYYm12akswdFBHNGRMOXdiTEQyb01rLW5NWFZJMGU5QjRMV3p4MjE0aC01Skx6UXAzWTktVVl3UC1VZXA0SGFn?oc=5
-- **Source:** The Guardian
-- **Published:** 2026-11-01T17:22:00+00:00
-
-## Oil States International (OIS) Stock Climbs On Q3 Results As Backlog Builds - Yahoo Finance Australia
-
-- **URL:** https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQVQ0RjctZXpzZ2wwRng2X2FtYXBjRTY4YlhBa1htZ25aelNxLXFCT21ZeGsxTnBWSktOY2hQc0tUQV8zcW9rRGJ0dkRFeGs0SkxwX2JXNnpxSE1iRE5FUW5zOGlVVjlPa2F3eXl3cUZZSGJ2Mlk4dVhBaEVLS0tTOFFsRUVRMnB5Zmdn?oc=5
-- **Source:** Yahoo Finance Australia
-- **Published:** 2026-11-01T17:10:15+00:00
-
-## 3 Oil And Gas Stocks Linked To Higher Brent Prices - Yahoo Finance
-
-- **URL:** https://news.google.com/rss/articles/CBMihwFBVV95cUxQVlkwVkNKMGk2RTFiaXlQRzVhQ1BKWkVnTzNJWnM1Rks4N19jaWFWVHJIV0RpRGhHdWRIY1hLMFdfRDQ0Y1REaGJ5OFRRcTRtUG5LUEFKS004bzJzR2stZ3U3bzRsaEI5eGNUS0tFLWYtbDZFR2hTOUo0aXIzQVdmTHJ4MTdaQ2s?oc=5
-- **Source:** Yahoo Finance
-- **Published:** 2026-11-01T17:07:34+00:00
-
-## Preserving the Oil Region's Jewish history, cemeteries - The Derrick
-
-- **URL:** https://news.google.com/rss/articles/CBMi3gFBVV95cUxNTFhkejNURkFzQ2xMcFZ1VU0zVlZIeVN0UW1sd21nbFVrekliVWZBZGFjZ3lTdzhtZ3JNOFVmNmpLQm5ia3lPaXhTZWZlVWozMnZJYVRUUm4tdlpnbEhOUGNFZjN0THhjaTRoNUFJWDVBOTlyZGJHcl9tNzJFX0NsYUtJNUdXb3RnUXAxZXd4Q2JyVTB6eEVwcWNHRy1wcUFvU24yTFFDZGRWOU1VWFNvYmNOM1A5blRKN3ktR3Rra3BKZHc3LWc1cXVDSktFVEY4OUh6MXloRkdwZHVJVUE?oc=5
-- **Source:** The Derrick
-- **Published:** 2026-11-01T17:00:00+00:00
-
-## Ukraine war latest: Russian oil refinery in Kstovo ablaze after reported overnight drone strike - The Kyiv Independent
-
-- **URL:** https://news.google.com/rss/articles/CBMiwAFBVV95cUxQeHVwclhUTkx5SDdyeWdiUHRaQm1nc0N3d094cDBwZ1BBLWQzNTA4WWtDTTQ1ck9PSzJTVjFxTmtaVWotYl9VV3dMTHJkN24xZnlkamZubi1xZmNiZVdzRDBkU0NMM0h4Y1NseGdRbVNSZnVYMmFkbE5zaXY3S2Y5TUZOUjJVNG55TV8zWnIxeEs1dFBtR09IZ3F2aE5CUkJZMlVJRkZ2OXdyMFc5SklSMkVwUUhOLVRhem1xSi1ldVY?oc=5
-- **Source:** The Kyiv Independent
-- **Published:** 2026-11-01T16:59:37+00:00
-
-## Gold's October Meltdown: Follow the Oil Markets, Then Follow the Money - The Dark Side Of The Boom
-
-- **URL:** https://news.google.com/rss/articles/CBMigwFBVV95cUxPeTIyT1RPUzI4aHlWTEZuX01ranNHZkpteDFKd2NTZ1BhaFlDMTY0WkdzSDgzVWo1cU1xVXBMYzZlWE01WEtUbUljTEZNWG82aENVa1lBcVNEdjBBOUdlUGlKSXhQUm1rRWNoblJxd2hFYWg3dHRxMW96YTRVZ3V0UENiTQ?oc=5
-- **Source:** The Dark Side Of The Boom
-- **Published:** 2026-11-01T16:30:57+00:00
-
-## EU Retreats From Arctic Oil Ban Language In Strategy Draft - gCaptain
-
-- **URL:** https://news.google.com/rss/articles/CBMihwFBVV95cUxQM0ZlSWdyX1V0SV8yQjRINTgyaU40dTlIN0RiM0FOcHhzS2dxbEdpckhkT0pHcHNoT3RjbXhvZ2pROXgzQ1hJY01DeVN4c0dvTTBCWV82bjFQVVpPQU82RUFUSHp2bkZOVzJISHdScWtYSFNzRm9JcnRLNGxzV1JQcnhfcWdoclU?oc=5
-- **Source:** gCaptain
-- **Published:** 2026-11-01T16:15:09+00:00
-
-## Production leap in South Azadegan achieved by launching largest oil processing center - Tehran Times
-
-- **URL:** https://news.google.com/rss/articles/CBMipgFBVV95cUxNUllTTVJkSjJJaGV3MGVKeUF4bG5wTV9lV2JpU0RGN3VzTVNxdHI3eWtCQ3lSaF9tNnozNmgxS0NGWnFybWZ5MDhJMm9hdENDWHBUR1N4Z3pqcGk3a2tKa19FS2R6S2pVYlVPYlo0aW5GdlhfQlZMZlJYNW9VcGtyWTdSSUxrVTIydzBFaVZhVlBMdzdZNEtSYllwLTVXWFlXU2o3Xy1B?oc=5
-- **Source:** Tehran Times
-- **Published:** 2026-11-01T16:12:17+00:00
-
-## Falklands: Argentina’s new legal fight over the Sea Lion oil project - Lowy Institute
-
-- **URL:** https://news.google.com/rss/articles/CBMiswFBVV95cUxQeDE3aGlVM01mQjNGd0VTbmxaMGRsVEUwVEp1M3IwUVZuR0o5RGxqZkRna1Y3Vm04bElyOTZyeGxMcEdwcTBaeTJZYXFzWnlVNGZYY1VHNkZtMFJ3cFpJNG5WSjVJTnVPX1NaNE9RQ00yNW51TGlQeWRPeUpaeWgzZEpxU0hXM0JaRmVpbENrbWxnX1dUcHdmX2hHeTd0dzExV2JtUGNDUDFxZXQ5V2thSzhBTQ?oc=5
-- **Source:** Lowy Institute
-- **Published:** 2026-11-01T16:00:00+00:00
-
-## US oil giants report profit surge again on Iran war - thenational.co.za
-
-- **URL:** https://news.google.com/rss/articles/CBMimgFBVV95cUxNMERISzZUVmNXRE9lSUFhbnRxcWw4dFpHR3RkZ3A4OHczSF9ab0FqVjh3QU5JbzBiTUs0VTBESEZNa1RSdVprdlA0UmEtaURVRzhwcFg0RTZPdFN2T21wSVZaTTJYanVlejBpdEdGa005emg0eUZIRUV3eGl4Mjd5TXl3QW91U2FpU1JaTk43SHlydDVsakNKTlVn?oc=5
-- **Source:** thenational.co.za
-- **Published:** 2026-11-01T16:00:00+00:00
-
-## Fuel prices unchanged for seventh straight week - Taipei Times
-
-- **URL:** https://news.google.com/rss/articles/CBMidkFVX3lxTE8ySFlTNlNQNDZfSkszVUdVdzBZQUVnOWQwMWxMb3R1UDAzTUkzRG5GMGE1dUZuaVl1WEtiT0lrZmlubVoyZVdDQi1DOU9SQVdxSHdJSFhEU204THZRRnd1UHZqajBqOW1OWkh1dm1Xelh3amQwYXc?oc=5
-- **Source:** Taipei Times
-- **Published:** 2026-11-01T16:00:00+00:00
-
-## Everything changed for the oil, AI and bond trades over the past month - CNBC
-
-- **URL:** https://news.google.com/rss/articles/CBMib0FVX3lxTE55dmNrd1FhM2Y4WF9rSFZ5Tm91U1p6T0lkcDFtMjdSTC1HeW1nckRObm80bGNoMkIxVGMtenhNZERydEk0Y1Y0ZGNsZnhCVmR1UjQwcnE2cHloLVZDT3VXT3E3dzNnR2k0NFZtLTg0TdIBdEFVX3lxTFBvYzVYUk8tSlRXcDhuMVh4bU56TVJaRjNfc0pjcmctU1JPaUtmWmhFZzMtWXhkdGxRTlRYQ2xHblVGRVRUbXZleVh0UHJQUWdpazlKMjBxa1RRaGtPMl95a1hwUjMteUp2NzJIV1dPMTZOeW1z?oc=5
-- **Source:** CNBC
-- **Published:** 2026-11-01T15:58:24+00:00
-
-## Ukraine Hits 10% of Russia’s Oil Refining Capacity in Just 72 Hours - UNITED24 Media
-
-- **URL:** https://news.google.com/rss/articles/CBMisgFBVV95cUxQNXRsdTEzN0h6VmhWczR1RkZFRjF0SHVSZTJZUVRqdVBWRGJsWU4ybm85REQxUXotYWhpV19sbmhvb2wtNUs3dTNGaUhHZFFxNk5menR3UHBqTHlUd1R3Wld2VTg0UTZSTmd6MjhDR3ZCZ2NIOEhEeFM0a3VSMzhGeF8tLWpTUElaeU9reUdyVTk1NFB1UTdxd1laaTJKTnJxNUFqUzBvREVsNFp6S3pjei1B?oc=5
-- **Source:** UNITED24 Media
-- **Published:** 2026-11-01T15:58:13+00:00
-
-## Iraq, Saudi Arabia to revive joint oil export pipeline - IraqiNews
-
-- **URL:** https://news.google.com/rss/articles/CBMijgFBVV95cUxQcUFvY2pBUjM1VXRkWm5SZVNXcDNKYXd3NUtkUERlTDA2a09vRGZGcERxU0J5S3V1OVEzWVRWMkJheVQ2V1pxVEpRNUV4NVpxNkp0V0hZdVJnZ0JGTm1lSk1zSEx0c3RnMTRnWEdMMG1DT3V2Z0swTlh5UkhYVldsbjE3anFKYmE5MEp5aXB3?oc=5
-- **Source:** IraqiNews
-- **Published:** 2026-11-01T15:54:31+00:00
-
-## Cavvy Energy Benefits Tremendously From Iran War – And Not Because Of Oil (TSX:CVVY:CA) - Seeking Alpha
-
-- **URL:** https://news.google.com/rss/articles/CBMitwFBVV95cUxQaHp0azBudTk4dGVZTG1wNHdCY2NzMlBxYTJuaEMtWXpDTkFlUWJDR1drTWRtWHppZ1F4dkxaM2l3aDNzalB2M01VWnV6ZHg1ZVFQbTR0U0prbHZaZlJ1YUdzVDltNGNpa2RkLTdhRUcxeFlWY0JNSVZVdDJTXzJmNTBHRWZHN0ZBNXpRb1VkLWZZbndEaF9jc0N2Z1ByLVNxSnFDOWVjMDhQVlpfdXFEWTA3UGMxWU0?oc=5
-- **Source:** Seeking Alpha
-- **Published:** 2026-11-01T15:35:00+00:00
-
-## The Hidden History of How Big Oil Invented the American Dream - The Good Men Project
-
-- **URL:** https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSW5UdThteWR5QlR2ejJoMDU4NnlNd09Oc0lXV0UwYy1pS2x1bnBJRi1qWWhXTmFPRUxuYmMxZHlQSkFxUHBNZmlDdi1GSEE4Mk5OSWN5V2s2emk0U1dneVNub29PRHZqc19LV2YxMmNQd1JxS0hKLVdiaWwzdXFvS2FfdHBGa1hIQThPZzJlOU94TlhjZF9tOTc5dG93NTczbktRRTVXUG4zQQ?oc=5
-- **Source:** The Good Men Project
-- **Published:** 2026-11-01T15:33:45+00:00
-
-## Crude Oil Weekly Outlook: U.S.–Iran Deal Hopes Ahead of Elections? - FOREX.com
-
-- **URL:** https://news.google.com/rss/articles/CBMiuwFBVV95cUxNekEyWllLeWhYb1R2Mkt1RHFmLUVZMXhYNm1Ra0RTYllNQU9tSWFMOEJra3JjZ0s5aGVJM0ZzYVhvVE56WV9nZjR0NDNaT0V4M3pYLVBaelhrQzlSb0ozdGtITGtubVo0VmhCNDloSkRLVmNUdG1fdXNXVkZRWXdnN094SHVNYkdxaUF6M2xra2tpc1V6bmRESkxBMkJzakoxemNEV09fekpIRFdnWXFkbkNIbEN0NnFnUGk40gG7AUFVX3lxTE16QTJaWUt5aFhvVHYyS3VEcWYtRVkxeFg2bVFrRFNiWU1BT21JYUw4QmtrcmNnSzloZUkzRnNhWG9UTnpZX2dmNHQ0M1pPRXgzelgtUFp6WGtDOVJvSjN0a0hMa25tWjRWaEI0OWhKREtWY1R0bV91c1dWRlFZd2c3T3hIdU1iR3FpQXozbGtra2lzVXpuZERKTEEyQnNqSjF6Y0RXT196SkhEV2dZcWRuQ0hsQ3Q2cWdQaTg?oc=5
-- **Source:** FOREX.com
-- **Published:** 2026-11-01T15:29:51+00:00
-
-## Big Oil reaps $56 billion as wars send fuel prices soaring | Los Angeles Times - newspaper - Magzter
-
-- **URL:** https://news.google.com/rss/articles/CBMiuAFBVV95cUxPR0Z0bnhET1ZWMVdhRHpLendJVUphZlRNbzNuOU9rVENQeWJoeWYyMFkzVWxYc0hBcGFreGFnVS04RVloWVM3Uk9VZ05WMy1JcWFUWERYRlFIc3ZrZ1NXLTRtOE5kaGFIa0pqNzJSTWpBa3BmZHBqNFRmSVBYNlRTa1NUa3ZCZk9fb0hMQ0I4UzY1V3pZNldXQ1NVTTlBUXFHRVVyV2lKUjlaaEVZZW5VWG9Rek9yRDI2?oc=5
-- **Source:** Magzter
-- **Published:** 2026-11-01T15:22:30+00:00
-
-## Crude Oil Weekly Outlook: U.S.–Iran Deal Hopes Ahead of Elections? - FOREX.com
-
-- **URL:** https://news.google.com/rss/articles/CBMirwFBVV95cUxOSnBDR01GMUF3UzRua0Y4SmRUb2U2RlU0LVBtYlZwa1FSTnlEWHY2OWZxWTR6c3V3Nm13dEZyQy1YRmxneWZDVkdwZ3lhR0J4V0p5OFFvbmZOUkhkQ2puZVJQd1h3R09ITlB4YkpKdEFzc2ZuMjdPLVk0OVJDX1Bwc2l6cHY4YlJSREtCZzI5Nnl4S0RoaEVhbnF5UmxmQTZXSkFhSk5XRnlCajFSbV930gG7AUFVX3lxTE5EcU1wMTZ5MXprZ0tRTmhCck93VVB5VlVMRVFuaDl5aF8wR20wY0RhNTNtdjllVTJYSkZBWHdDMFZWY1AxMm5BTkswQzlqZExLdkZyRF9TLUN3cmdtc1VTSjRnZHI3WTRNTEU3Ukx2MlJGdE5uaWlYSnozTlM2OTkzU1gyczRzMGdFUUQxa1h2NnhuYmFvR1VEOXlKX1pWTUptX1dRblRPTGlTcEQ5ZUdvMkpORV9VUm5Banc?oc=5
-- **Source:** FOREX.com
-- **Published:** 2026-11-01T15:11:43+00:00

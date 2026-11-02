@@ -1,8 +1,32 @@
 # NewsWatch — Apple News
 
-_Last updated: 2026-11-01T21:46:35.251587+00:00 · 50 articles_
+_Last updated: 2026-11-02T01:19:01.335066+00:00 · 50 articles_
 
 ---
+
+## Asia shares bend under AI stress; Apple earnings loom - marketscreener.com
+
+- **URL:** https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdnRyamVRd2cwZlI2TzBfYjlLVEdBakR4VmpNQldhdThmUTNsVmtlLU1mRzNBV0k2OWRPTTBaTFNOQTludFpRRWliMUhyY2lxdmFNVFlNUkZpTFMtbDk4UDNDU1hxSzRTcnhaZFVhYXV0V1RYUGJWakxteURrWlZEYjhzMVdQVjdZS0NwMFpJbzJnZFVGREY1b2dLdDFWazh2NjlwcnZQWVM?oc=5
+- **Source:** marketscreener.com
+- **Published:** 2026-11-02T00:33:25+00:00
+
+## Apple Gift Card Scam Settlement (Canada) — $1.25 Million CAD - openclassactions.com
+
+- **URL:** https://news.google.com/rss/articles/CBMilgFBVV95cUxOMUdJRUJhN002X09jVERoaTQxM2ZNbnBUb1VkZlFfZ29qc3hMd3BuU3dhcW1zYXpBOXpHOW1OMkRab250SENxQUljZXl6TzVfbk9NcWp3Y1hGcno5YkVUQ2R4UmVCSUdieVBJaXBaQXlZM2NYY1BCVW53T0F4R3d5Mm8wb1hNbUNCbnFNaU9KZ3UwYjdLRWc?oc=5
+- **Source:** openclassactions.com
+- **Published:** 2026-11-02T00:30:00+00:00
+
+## Jobs Numbers Due Next Week - The Globe and Mail
+
+- **URL:** https://news.google.com/rss/articles/CBMirwFBVV95cUxNSkdjMWNBZGxacUhuX1p5bjVFQ0VtRjJ0dk1OQW9RdFpSSlhxQ2hvY2N4MDBkVzFMaFctSXltNTBJZ2NzaUJlZXBMTjhnUmliNWNWMHZrN25aLTRwR3VyOW9ZN3kyU3NQc29SZ1EwZnBKZXBBQWJYNHF3Skk3ZkQ2T1FNZTR1MWVDbEpJODBJTlppWExoclBqN0U1ZnZoR1loU2RQZUp0X3N2amkwenQ4?oc=5
+- **Source:** The Globe and Mail
+- **Published:** 2026-11-02T00:16:48+00:00
+
+## Earnings calendar for: - Yahoo Finance UK
+
+- **URL:** https://news.google.com/rss/articles/CBMibkFVX3lxTE1BNWM0ZWw0RXBNaUdxQnpKaTBoR1BTUnVFWV9POThINE5hS1hTTjlKQUw5cl9rY1VkRkRDRjA5bHV5QmV4cGlUZnNVUzB2cWhaaU82NUpPZVNsRkpkbnc5eF9CcWhFZzQ4VG1hbGtB?oc=5
+- **Source:** Yahoo Finance UK
+- **Published:** 2026-11-02T00:01:04+00:00
 
 ## Apple, Palantir On Deck Monday As AI Demand, iPhone Growth Face Test - Benzinga
 
@@ -279,27 +303,3 @@ _Last updated: 2026-11-01T21:46:35.251587+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMimgFBVV95cUxQRGtXOUozTTlNQVVlSGpMUFcydVlpc3UtanpKeGpfaGwwV0x1VmV5SnJlVlRTbUF4Y3pKbmpMeTFVdzJVWFlMekZqbmNPSmhLbm96SWp2Q3o3YzFqM040WDB3TVlWcUhlSzk0WjFaTUpjNjJyNk1CbnJ4TDhnZTF3RnoyZDRNeDFON2VCSDlpelZ6c1BZdE9iRDN3?oc=5
 - **Source:** Seeking Alpha
 - **Published:** 2026-10-30T13:35:32+00:00
-
-## Apple acquires agentic platform Ascension Labs (AAPL:NASDAQ) - Seeking Alpha
-
-- **URL:** https://news.google.com/rss/articles/CBMijAFBVV95cUxPa3EtSHdSTV81YXVmX05MVzRPbDBmTk9UM292ZzdsRnAxNE8wYkpSWEd6Qmg5QzlGRTVHdnM3aHdacjVobHdaNEc4Q29XQnN5UENvdHd1U2Z2THgtQjlMTGVEdEdqZndhSW9meTRXTGhrXzFPb09VT3BPMEFTZjg2VG1qWTBNQXYwYWpvQg?oc=5
-- **Source:** Seeking Alpha
-- **Published:** 2026-10-30T13:24:38+00:00
-
-## 71 pc iPhone users in India face contact search issues after iOS 27 upgrade: Survey - Telangana Today
-
-- **URL:** https://news.google.com/rss/articles/CBMirgFBVV95cUxNQVFYRnd6RFFMNHo5aTRDZlJMUkU2R3FyWm0zd1Z4RzBMZm0yU0pBck94SjFidEtaQXJpa0FNQjVsZU9pUXdxdk9KZFJGOWQ5aFFVNG95R3M5QmFLbUs1RC0zZFpFaTBndk5vWUFYelRiTHpmNUc2bF9wWkxQU1FfRWI0aHpsYnpDM3FqUFdwb3g5SzZEbFhfUlIySE5ZXzVmQTFXYkhJdVRDSURGVnc?oc=5
-- **Source:** Telangana Today
-- **Published:** 2026-10-30T13:13:22+00:00
-
-## AAPL: Apple defined, key history, primary product lineup - 9to5Mac
-
-- **URL:** https://news.google.com/rss/articles/CBMiR0FVX3lxTE5YT25nRDV2WDBrbkJNcGEtUTVaMXUwRUZiQjFPWURPanYxM0RaRE9yblZHZFJMbmpWT2FmaXhCanlyWFNwM2ZF?oc=5
-- **Source:** 9to5Mac
-- **Published:** 2026-10-30T12:39:23+00:00
-
-## Apple in focus as BofA questions Wall Street estimates amid staggered iPhone launch (AAPL:NASDAQ) - Seeking Alpha
-
-- **URL:** https://news.google.com/rss/articles/CBMivgFBVV95cUxOX0RWNUJyNWZkX0VTTVZXYXZ5U3pwMkVieTlZcnpDT0YyRU5BbmJHUzRHVnEzWVdzal9CcE8yN1ZYSFFXZUppMzg3VjA5cHlJbHJCVl80dEZxaUh4X0xVM09KWDVXOWR0ZWt1MTBfVy0wTXhNWm42RVpVZ0l4TUk4bWFlczZadE56NENJWENHLTFpRlROXy1mMU45ZE5tbHlXRW5kT05LZkh2YWhKOWo2eGxFUU8zeGxOYWN0a19R?oc=5
-- **Source:** Seeking Alpha
-- **Published:** 2026-10-30T12:32:55+00:00

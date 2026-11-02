@@ -1,8 +1,20 @@
 # NewsWatch — fusion energy News
 
-_Last updated: 2026-11-01T21:46:38.711641+00:00 · 50 articles_
+_Last updated: 2026-11-02T01:19:02.727297+00:00 · 50 articles_
 
 ---
+
+## IAEA’s New Climate Initiatives: How International Cooperation Is Evolving? – OpEd - Eurasia Review
+
+- **URL:** https://news.google.com/rss/articles/CBMitwFBVV95cUxQTmVlSG8xZEtYVTNURk1RMWg1VUU3UmVZTVhyZzNXM3kyN0VTd1dveUR0TEczbjloakxIOEpyX1BYTkJnemJTUldieV9FclgxZWttSlotRlNxTFRFNnZIc3RVRXBGbzhqSHk4d3ZRNnRfNGNnYmZSRG1IQnFYdmgwaVVHM2laREd5SS1HN1lGUmxkTGZDUEdKbjB4UlB0ZFhXUlUwWmRvaXBtSU1LRHJDTHB4b3ZjdDg?oc=5
+- **Source:** Eurasia Review
+- **Published:** 2026-11-01T22:46:13+00:00
+
+## India’s first fusion power company sets road map for a nuclear reactor - PressReader
+
+- **URL:** https://news.google.com/rss/articles/CBMijAFBVV95cUxPRzhQMF9XRFRjeHFmbUdiQ2lXRmh2ei1JYmlQMzZadHdFT1dPT2xwRzY2M2dVU0xLSTAzVm1hOEhmTWNxbDU5cEJZVkxLSkhRU2QzTmpjZUZfeERETngtMTc5VkhqMml2NmZWVUx1czRqUmZqdFFJU21aYldWVmQ5UGQzS3haT1lCR0dHZA?oc=5
+- **Source:** PressReader
+- **Published:** 2026-11-01T21:47:56+00:00
 
 ## Chattanooga’s quantum commercialization studio kicks off with four teams - Teknovation.biz
 
@@ -291,15 +303,3 @@ _Last updated: 2026-11-01T21:46:38.711641+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMijAFBVV95cUxQU3NDa2xNUDVsWVRuMFZESHQzOFJpbFRUbnZmSGVXcUVMOG1naVk4ZmlZS1dTckZ1OUNScEU1djk0dE8yV29QUDBnVlQ3UEJBbmNETlZHNWdYSFRlM2hueGhFcC04RTl4NE9qNFJ0amxEUFk5QmcwbDJvV3hXY0FWUndFZmFleVBRbTFicQ?oc=5
 - **Source:** The Quantum Insider
 - **Published:** 2026-10-30T13:37:36+00:00
-
-## ICYMI: Nuclear developments around the nation this month -- ANS / Nuclear Newswire - American Nuclear Society
-
-- **URL:** https://news.google.com/rss/articles/CBMimgFBVV95cUxOdkpzTG9UWUFaci1zZVhwZ3R0VXVXbldBcjFLbG1uQVphNENNOWhRWkdPNzhuMlZPU3pSTHNVTmViVlFuZjZYVG8wOXprMzFNMm5QYmJ0WDBnaV84eE5iMDNBQTFyNUM1OTlHQUl1Z3FubVVrYzBObmx5NDBmcVdHYzVTQm9IOGZzeUp1SWdtbERBSUp5cTE5T2V3?oc=5
-- **Source:** American Nuclear Society
-- **Published:** 2026-10-30T13:32:43+00:00
-
-## German and Japanese leaders to cooperate on fusion as commercial agreements signed - The Chemical Engineer
-
-- **URL:** https://news.google.com/rss/articles/CBMiwgFBVV95cUxNamJpZzNCMWtZdFUxaU9aWVlxNnhkNVpsWnFQX2VlRkg2LUxVOERrMW8ySGpHbFNtTlZZajJoRG5iSzVqSjU0U3ozTTBnYk5GNUVMbW9QZlJaaWQ4R0IzUUJfM2pNWlZwNndRTjl3TjNsSkxHOG5JY0VTTWROelZYOTE1V3NOSUEtVXNab2lGaW5WTDVzY2h1VjYwcGJmZ3V4YkVVYnpENUFDU1hDeVAxZmxkMkdZOUdXb2xTVURoRmc0dw?oc=5
-- **Source:** The Chemical Engineer
-- **Published:** 2026-10-30T12:20:59+00:00
