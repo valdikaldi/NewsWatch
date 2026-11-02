@@ -1,8 +1,152 @@
 # NewsWatch — Iceland News
 
-_Last updated: 2026-11-02T12:02:44.626608+00:00 · 50 articles_
+_Last updated: 2026-11-02T22:37:10.127013+00:00 · 50 articles_
 
 ---
+
+## Why Romain Gavras’s Netflix Movie ‘Sacrifice’ Ditched Iceland for Greek Volcanoes - IMDb
+
+- **URL:** https://news.google.com/rss/articles/CBMiZEFVX3lxTE1GN19Tek5ablJxSWZYRDJUeFhwRkpnVUY1cmczQ290c1RkMmtrd1IxNUZVR1NacEp2NlF5RXFKVE1UNGNIbzlBREJrM0ozQ2dNNzJFaEhwdnk0Sk9QV1pMd3NqazY?oc=5
+- **Source:** IMDb
+- **Published:** 2026-11-02T21:56:17+00:00
+
+## AltaSea and Iceland Ocean Cluster Advance Global Blue Tech Innovation - Business Wire
+
+- **URL:** https://news.google.com/rss/articles/CBMixAFBVV95cUxPa0o3TUptZHBkM201MHpkNUplTHhfNjFja0NjZmZ0WGR1S3dLMklWdElkUWxNTDNTVUwwellSZ0ItdE11cElDRTl6RXNwWEptVHAzM1VFa1dYTTV5MWZ3Rm9FcUZJZ2tBYVhDc05LeXhhaE51anZVU3pRX3c5WkN1dzZiV1lERjlZdExhZnBNNHJ3ZkdJNUdMNFJKV0RKMzRVOTE2ZlNhQmZzTDd0NEJiUGtLZDdKOTUzWXM0bFBGRWdraDhG?oc=5
+- **Source:** Business Wire
+- **Published:** 2026-11-02T21:54:00+00:00
+
+## Forget the AI Notetaker, Someone From Iceland Will Knit a Summary of Your Meeting - CNET
+
+- **URL:** https://news.google.com/rss/articles/CBMiyAFBVV95cUxPbXM4cEVmdVNISUtCRC1EdGhCRFIyUEZWQW94MDB4b2xhQ0FPNGtsRkpFTWZUZGhDdXZRd19MRmFRaGttb05YWEhOYXd6ay1ZU2U2SUxac01GbEZYNHQ1U3h6WUNWUk90Sl9oeWk0bndUTUlPT3Qzb00tdTd4RVk0SUszVG5yQ3hvUnFnOUUyMThvaGE0V3ZlOE5GMVJySzVBYWhyWnVMTWxWTjBuNkVxSW9ES0o0cTBSVFh0bFM1cnlobkQtejFlSA?oc=5
+- **Source:** CNET
+- **Published:** 2026-11-02T21:20:19+00:00
+
+## Iceland unveils major 2026 innovations and wellness experiences at World Travel Market - World Travel Market Events
+
+- **URL:** https://news.google.com/rss/articles/CBMiogFBVV95cUxOMzNheElCc01UTEh3NDVVVWJiTzZZZ0lQUy14MmJrTTJ2V1djeHprYW9GUEp1aHpLdlM4ZFFFbUtma1p4UGpic3Brem1BTVpuTHdzck5SZnBlSm92YXJUdl9rQTB2U1JBV0RKZGd1NDFCNXFmajl1a2tQSzA3S1JLT1hqVS1sSjBsc1VjdUdYSmZqQ0tabDlzR25GcnFQaGVnRnc?oc=5
+- **Source:** World Travel Market Events
+- **Published:** 2026-11-02T21:14:30+00:00
+
+## Euro Truck Simulator 2 Coaches Release Date Announced; Iceland Ferries Revealed - Simulation Daily
+
+- **URL:** https://news.google.com/rss/articles/CBMifEFVX3lxTFBPWWVqd0FjZnVvejZsaTNNV3YtamtYb2NKQ29HN0xKdzNSUG83UWc4cVA3dG9PbDdMbW4wNk4xX2RQa2NSRzRGUzdySWRYNEJxVmdwdlI1dHoyamVQQTkyVXdBSTdWeGlfcURrQXFGYTRkSnRsMlFLV1FYTHI?oc=5
+- **Source:** Simulation Daily
+- **Published:** 2026-11-02T20:56:24+00:00
+
+## Taste of Iceland Vancouver 2026 Brings Food, Drinks and Music - Foodgressing
+
+- **URL:** https://news.google.com/rss/articles/CBMijwFBVV95cUxQM3BNeFIzQXdCY2IyTWJmczEtN2ozNkF1SXUxT2c4ZW9zaVJhM01yNF9KOGQxb0VmSl9HZHJ6cE55Sjhydl9fdTdpTnVnUHNxRXVYaW81QUF3MWVkV2c0S1ZQUUdWV052WjRFOWswYkp1VzlYdnF6RzlQMEpncWpHUGxmX0UxS1duZ1BDN196SQ?oc=5
+- **Source:** Foodgressing
+- **Published:** 2026-11-02T18:33:48+00:00
+
+## Conscious Streaming | Iceland Airwaves: A Retrospective, 2013–2025 - Iceland Review
+
+- **URL:** https://news.google.com/rss/articles/CBMinwFBVV95cUxQcGR2UGF3Y2xaNDNMcHZFWmVpc3dXT043am9yQVRwWUZPMkJFVkN1d09FS2x6R0k4M1lGZzVDd1NtTmNjMUNNdnlKTl9sa1Z2WXpNWW9zSG1vWGxlcGRudmdTQ09RRmZVRUVJajYyV1U0TkYza2NBN0JpeEZXQ2tveUhpQ1BUWjlGdlVZZGZmbzA0TkJSWWJYd0otQWkyWEU?oc=5
+- **Source:** Iceland Review
+- **Published:** 2026-11-02T17:41:04+00:00
+
+## An archaeologist in Iceland found a battered suitcase 2 years after scientists left it on the Arctic sea ice, and its memory card held something they had never been able to confirm - ECOticias.com - El Periódico Verde
+
+- **URL:** https://news.google.com/rss/articles/CBMiuwJBVV95cUxNMUFVdXo1WG1XcnFtX0VTSWJMNktfNUdHRmpfbkNzaDVJUWw0UEtrbjhnVWxBeURpY2ZvMlV5X1cxWGtfaVBkVTlEZjM0a2cwSmJKeExwZFN4dW5McHNLVjY4bDlreHNnejZTRVBYekp1VmYzVHNTV2xzTWZtYlFMdlZCQkk3Sjl3RHpRdkZvUXFfV1dOVmdyci1uQVNVLTh0VUo0Wk5nUGhCeEdfclF5d1MyUUZ3aW4xLXBzOE8zQkNIUTBRb3lsZ0RlRXhldFpCY2lSeU1nZmQycVpDaHFadFBnVVQ0VEdvZnNoTjVqN3h0Tm16Zk1DbHZQc1hwNEp5MC1YYktSdFZzVzdvdTdQaG5jUFAxUndZQ2w4cm8xVW55WWNVMlVER0VvNjNEeEVrNF8zSG1GWWlIems?oc=5
+- **Source:** ECOticias.com - El Periódico Verde
+- **Published:** 2026-11-02T17:35:00+00:00
+
+## Festi hf.: Issuance of Bills - Yahoo Finance Australia
+
+- **URL:** https://news.google.com/rss/articles/CBMifEFVX3lxTE5FWnY5NDZra0dfYW1iM1QwQ19BRUpUMnF2bmVWLUdVbnBTY1RtNVE2ZWRpdl9TMEM1aFJSZmdOVGJOTzUzMFVUVXFvZko5d1VtZFZjMHE2ZUFqcjM1WHp6b09IYldXOTdnVlowQlBjU1h2NWpIY0lCVDZhY2w?oc=5
+- **Source:** Yahoo Finance Australia
+- **Published:** 2026-11-02T17:32:00+00:00
+
+## Pensioner subjected British-born woman to racist abuse in Iceland supermarket - Southend Echo
+
+- **URL:** https://news.google.com/rss/articles/CBMikgFBVV95cUxQWGRIRlk0ekx4NldiUG1Vb1dCbFpOcmRRRzl2bXlyRnYzXzVrQVRPZkVGclN1Q044Y0d1TEwwbGZLdUpEOUQ5WUJQSHNXdE04VkZhZ3BfdHIycGM1aFhwVzVKVUxNc3NDaTVaRDIxcXpXM1c5OEF2ZDVFYUhHdmxFQXdvQW0yWWpjWFhXN3dLTV9XQQ?oc=5
+- **Source:** Southend Echo
+- **Published:** 2026-11-02T17:00:00+00:00
+
+## Iceland takes seat on Ted Stevens Center advisory board - Arctic Today
+
+- **URL:** https://news.google.com/rss/articles/CBMijAFBVV95cUxNN1BNVWpuSm9QellQZk1ib2NJVnhZZW9JcGdfMTY0OWZFQUwxMUY5OVFKQkxYclBSX3FrUGZsYXRpV2ZrSFpaRVlJME43QzA3SFNsb0RjWjBsMTIzN1NlSUc0Q1dXUHVuSnplT2U1clo1dW15LUFndkN3SFQ0elZ5TklLc2Fia0dieUp1aA?oc=5
+- **Source:** Arctic Today
+- **Published:** 2026-11-02T16:10:05+00:00
+
+## US pharma giant exits Icelandic aquaculture tech company - IntraFish
+
+- **URL:** https://news.google.com/rss/articles/CBMipAFBVV95cUxQWXBCc3hkcXBPSmZ0c2liQzhxU1RQMHFpdlgtWmFMNkp1VWpTam4xMlVTZFZWMWpwaU54MXJZNzNFTmpHbFdnemVwSVNvTVlHVDJYZFdUSHU0dEJYVS0tMkJoemd2YUJMNHY4YWdrbnZHbkdFSkpETExIYmR1Ty1IZ01IUldDcHN3RlZleF81T2pCanAwMm1vM3VldkFpR2hHS000aA?oc=5
+- **Source:** IntraFish
+- **Published:** 2026-11-02T16:03:44+00:00
+
+## Why Romain Gavras’s Netflix Movie ‘Sacrifice’ Ditched Iceland for Greek Volcanoes - IMDb
+
+- **URL:** https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5YNlZsbzN4VEJPT3JIN2hBSW9SWWlkam90aFVqdEhYUFVpQU1vTVZVMS1lZy1WQ3NQRURLMjMxTDRpczlsNlJ0dHlCMTBudlpxNDlFLXJXVjUxeTVUdkV1X256ckpQOTQ?oc=5
+- **Source:** IMDb
+- **Published:** 2026-11-02T15:32:50+00:00
+
+## Iceland Runs Crisis Exercise for AMOC Ocean Current Collapse - Gizmodo
+
+- **URL:** https://news.google.com/rss/articles/CBMihAFBVV95cUxQV0hLTGwzN3VEdHpWaWlia3NxNVJTVS04TVAzdVZFY2JYMUpaR2RKNmhjX1JtWVNsQW4tZmRfTkVDZncxWFE3dHZYMGpRMDlfbTdfbnpwYmxLaFRhM29vWlkwNU5IX3hZdmNGWmlrZFhlQ0hPcF8ySzliV3EtdUVWb2t0RDA?oc=5
+- **Source:** Gizmodo
+- **Published:** 2026-11-02T15:30:38+00:00
+
+## Syntholene Energy advances synthetic jet fuel production after Iceland demonstration - Yahoo Finance
+
+- **URL:** https://news.google.com/rss/articles/CBMikAFBVV95cUxQMlNuUnZzeTBTQi1xbmdoLVJtZVhRU0Z0NURYdUNDWF9xMXhaOHlsVVphWVF6OTBDRVFzbTZrdFlYM0JRWWVxZTlYbXQ1RHk5TVBXdEE3bzBnMk1xMERyT2k5cFJkbFY1ZmlKSDJTU1EtTGNWOTZDWkRLTEUtRWxqbE9tMFNZUnBmQlpfYlEwcnE?oc=5
+- **Source:** Yahoo Finance
+- **Published:** 2026-11-02T15:26:31+00:00
+
+## Scientists unveil the secrets of Iceland's spectacular lava fountains that pulse like a heartbeat - ZME Science
+
+- **URL:** https://news.google.com/rss/articles/CBMimAFBVV95cUxONnRSYjlWZ0ZQeDd6b1BSajdjV3R6OHoxQlNPTmxpdEE3SEFTVmJmTXpVckJkYlVGek40by1CYjFpZktLTk1EeHp1VFpVRHlQMUk5bi1YQ3dxLWlIa3MzVmozSGZnZmQ5ek5hUGx6d2lHTXNWbTFSbWJWSGlaLXBTZVJRNlpRR2s0cXpuV1dNel9HVnM1eENrNg?oc=5
+- **Source:** ZME Science
+- **Published:** 2026-11-02T15:25:32+00:00
+
+## How Art Stays Afloat in Iceland - Seattle magazine
+
+- **URL:** https://news.google.com/rss/articles/CBMijAFBVV95cUxNMlk0THNLM1JxazNuOWtFTzVDUnRydmt6b2lRWTZNV2FBZHcyOUNJNVR4dFViWGxFTmJrMVhrNks2SFotbTNNdFhVbjFuV3BVYktBRmFLYjRhYWdhT19NNXktc1RPQVBoZzVEOUtSSHZoNUFnVDYzNXNYYmdqQzNRSlFsck9WUUFFMG5IeQ?oc=5
+- **Source:** Seattle magazine
+- **Published:** 2026-11-02T15:23:06+00:00
+
+## New cancer vaccine raises hopes - Iceland Monitor
+
+- **URL:** https://news.google.com/rss/articles/CBMiiwFBVV95cUxNYU9HUWFzeFhaTDFlMFZKRXMzWDhqb3lGd3daeFpnd1lGSWNZZDhpTnpYeEllV0FNeWdERlpmeU5JN1IwM0JRQXY3X0hwNTNlTWFkRmxqVm45WnRua3dNMGl6dGQ2cU85eXBQYjFtWGNEaUp6TU5XbTlTWXVOWG9meHlwNjZFT2NGbGpj?oc=5
+- **Source:** Iceland Monitor
+- **Published:** 2026-11-02T14:30:00+00:00
+
+## Why Romain Gavras’s Netflix Movie ‘Sacrifice’ Ditched Iceland for Greek Volcanoes - What's on Netflix
+
+- **URL:** https://news.google.com/rss/articles/CBMimAFBVV95cUxPNzYyWWVMUmZsdHN5bjhOWnFOTk1fWVJzYUhEaW5PaFZTQk1vRDZyVlBzbDd1MkZIOGJTTXdjS3pTbWRRcFZvQ2U4QTFnN013bi1Yb0NtZWw1T19fNGZxOFdLUXkwOVJUOU5rU2Z6RVN5Nm1BNGlZa2lVcFJyS2F5ak85V01ieDQ5ZWVKUy1SS1ZLejRtQjZhRQ?oc=5
+- **Source:** What's on Netflix
+- **Published:** 2026-11-02T14:27:14+00:00
+
+## Minor mag. 1.8 earthquake - Iceland: 72.4 km W of Kolbeinsey on Monday, Nov 2, 2026, at 03:49 am (Reykjavik time) - Volcano Discovery
+
+- **URL:** https://news.google.com/rss/articles/CBMivgFBVV95cUxNN3A2NUV0RlZubFBfSTdCbTdrdUJTV3Exb0tUbkNVbExnUU0xRTQ3VDBjc2ZTOERIVTViQXdUeGtHWGk3dmwwc3BPd2pHVlRaODJvRlRhWnBRTEJVdE5EcTMtWFlOcnZUUHllbGI2ZGJLQzlRQXlMdGxmdWtBZ1h2ZEVMNHZ2aWtMLWhKbjcyLXdYbXVISkxsZ0lKZU5SYkpndS1vb3JLV1BDampEWU9MVWtEbVBPNWk3aFZlN2dR?oc=5
+- **Source:** Volcano Discovery
+- **Published:** 2026-11-02T13:10:00+00:00
+
+## Where was Masters Of The Universe (2026) filmed? - The Worldwide Guide To Movie Locations
+
+- **URL:** https://news.google.com/rss/articles/CBMieEFVX3lxTE83QjlSYS1OMGstY29oSmlHbnlQZmJMdDhNTjNlNUpzTFdYd0pSRmZYZ1BCd0RoTkpQaWRKSGViMnpVV0tEcEZaOWg0MDBRRzRkUzRLdlk0MmY3bEhhd0pOaTAzTmJoQ2kzQXcySHdUUGx0aWVaTzF6cQ?oc=5
+- **Source:** The Worldwide Guide To Movie Locations
+- **Published:** 2026-11-02T13:05:16+00:00
+
+## Is it illegal to jump off waterfalls in Iceland? - Iceland Review
+
+- **URL:** https://news.google.com/rss/articles/CBMijgFBVV95cUxOUm9TMGRUak5pU1VGU18tVG1jYy00Mm95UVRMT2k3eXBlbGl6NmlTODR4c09sSjh2dVhBRVdDMXZXUWxDRVpFc1dIdEtaSm9sS2drczd1TVBVb1BpZ1FMbFEyZmRQU3dOSVhVV1pNUzJyNXdBT2Q5emYxYUdZbWxiZ1N5alVyeWlZRWxWb0lR?oc=5
+- **Source:** Iceland Review
+- **Published:** 2026-11-02T13:00:33+00:00
+
+## Father and son detained in murder investigation: Knife recovered - mbl.is
+
+- **URL:** https://news.google.com/rss/articles/CBMimwFBVV95cUxPNDcyaHZiZFJqS3I2X3ZZcUdIZS00bVRXY09kTGNadllhQzdEX1RvTlhJVzc3RzhTTjIySHRkZTdpcERacGZvTzFtdWxFekhSNWpNS3dFNldJZXFuaFJvTmRzWlBRRXhhVVUtYmJpOUNQb0t6Nk9nQWd0Ml9oNFVWNEJ6YmVHNmdzYkUxSDFRdHhPMkRXZXBacUx4VQ?oc=5
+- **Source:** mbl.is
+- **Published:** 2026-11-02T12:36:00+00:00
+
+## Finago completes the acquisition of Regla and expands into Iceland - Cision News
+
+- **URL:** https://news.google.com/rss/articles/CBMirAFBVV95cUxOM1pCWk53SG9vN1hIRUZhRXlxTjFiSTRTZDIxRUJNakkzemI2MVJRODZtTENkTnp6X2JWaHBLNzBIWHRIenVHY2w1QkY2dlBSejM4SFlIcXc1OWU0WjY4UmJQbDB5dkRRMlA5emJYUm1hV0IwcDJzSVZ6cFdhdnBJY3F1OFVUYVl0QmVWOXhIaVB0bHlEWUpFRDZOT0lwX2l3VFh0eUgzR3ZYVWNa?oc=5
+- **Source:** Cision News
+- **Published:** 2026-11-02T12:34:37+00:00
 
 ## News - Iceland opens direct salmon flights to China - Fish Farmer
 
@@ -159,147 +303,3 @@ _Last updated: 2026-11-02T12:02:44.626608+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMikwFBVV95cUxPYzdNRjc0ak9NTDdrZG9mbS1ZX09NWkRZQVd1LW1YSG5TZ1BLdmlkZjlsNmtDamhnNDUtQlZaQnJ4YnNsZzdkODdvUEFhNkJoR2xVTGNNSFN0VGlSX09kNC04d05CUU1CdFY3SjgxaWxkZjQzdE5NcDF1ZHpDWl9pN3Z3dUw5dk43TEJ5NmVHMTh1a2M?oc=5
 - **Source:** Iceland Review
 - **Published:** 2026-11-01T15:30:06+00:00
-
-## “I'm not allowed to keep these at home” - Iceland Monitor
-
-- **URL:** https://news.google.com/rss/articles/CBMipgFBVV95cUxNQk9HUnBONmJpeVZzZnNWUm85XzdDdDVWTkpiWnJpZnpuSEJUYVFqUW0yYzduc0haRTZmMjZrVXhHcHhhTDladUVnN2h0N0Vac1dBR1hnTHZFWENod1hQRTVsdWdiRVhfUmNmMlZEeGsyd01rRmZpQ042N0xxZVcxU1BPTU9IazRtNm50RjNmQmUzNTZULWJ4UzNmTE9XYzNsc2V5aWxB?oc=5
-- **Source:** Iceland Monitor
-- **Published:** 2026-11-01T15:00:00+00:00
-
-## Tómas Óli Gardarsson - Transfermarkt
-
-- **URL:** https://news.google.com/rss/articles/CBMi1gFBVV95cUxQWktaQmFia0lmcEhGOXQ2SDdkbEx2VU9OTVZWZG1IOTNNUWVSRFZvMDhWc0ZvSldONjhSc1FySU5hdmI5M2JmckQ1c1lDR3FveGgyVmNfTTQzMWNvTEtXREFFbWxfSmg1Z3RCS2xpcXNxU1RQRFNMRVBqNGZmdVlSd2hOTktZQW1vOVByZTJ0TGhPYmlDY0FMYVBLaVZOcFk2NE5BeC1OZWJaYkpWVUJHaTBkSktDYUc4UlRGWEVRT053V1dfbzZMUE10WFptRjZNVnk1a05B?oc=5
-- **Source:** Transfermarkt
-- **Published:** 2026-11-01T14:56:00+00:00
-
-## Ukraine Is NATO's Shield, and Its Allies Are Turning a Profit on It - fakeoff.org
-
-- **URL:** https://news.google.com/rss/articles/CBMilwFBVV95cUxQVU5WU01tY1BzaXJVSUdKNXpheVp0VmhFYjRDMTNYRE80MlBYX28xWUMxZ2hUVElZa2REUkdDemNMMXZsSm5MM2htSC1wMF9scFcyNXNGOXdWM3FRMTBna2FjYmRIb1JjNW5qelZzY3VoYms0d0RrMnJSai1IX3pROFFNRUJIUEY3a0R6OEZ1aTRFeGswS1pB?oc=5
-- **Source:** fakeoff.org
-- **Published:** 2026-11-01T13:32:18+00:00
-
-## Man dies following stabbing attack in Breiðholt - Iceland Monitor
-
-- **URL:** https://news.google.com/rss/articles/CBMioAFBVV95cUxPNnp1MlM2bENfcWxfWFVYX3JuVndva2RURDQ5b1N6NXJBZUhmQTlTNVRqT1VuWG1idWRoczRwR0ktalBCYjJFQkJ2OXozanR4VzlkTFE1OE1nQ0l3dDNZZUUtUVBib281QXVzcGtteE9fRWpKTTY3TEJ6d3RkZE9BeHE4SU9BOWljTW1HWFJOZTJJNXZ6ajlsZjJSa0M3Qk5Y?oc=5
-- **Source:** Iceland Monitor
-- **Published:** 2026-11-01T13:01:00+00:00
-
-## Aiding Arctic sustainability for win-win results - China Daily Global Edition
-
-- **URL:** https://news.google.com/rss/articles/CBMiggFBVV95cUxOOFlwbVpSMW5LNTUxemNFMWtfVVhlLVlQdjJTbUhWN0pWMnN3VERDaFRZdTBrTTFWUG1QS29UVmtIeUc3eFFWWUk5ZzBwQ2ZHWVg2RGhqaHNKRjUtRTZKYzl2Rnl6RmhZYlJzalprOFNoczVWUWptaWxwM2lnVDFwejJB?oc=5
-- **Source:** China Daily Global Edition
-- **Published:** 2026-11-01T12:20:03+00:00
-
-## Movement detected again at Svínafellsheiði - Icelandic Meteorological office
-
-- **URL:** https://news.google.com/rss/articles/CBMigwFBVV95cUxOYnBBMC1EX1VBNjdvS3ROZnUwNnFUbXFUbDBjUjhkSUxqeWxXRDBJX1dfalI1RU1OVVBpUHJCclNXek0zTHE5Nkk1NmJsSERjanVzS1NqcUJ3TElvd1N3dVBISEhQNVh6ODYtR1g4WENWcDk4QXZVeHdheXpGQks2LWVDOA?oc=5
-- **Source:** Icelandic Meteorological office
-- **Published:** 2026-11-01T12:19:21+00:00
-
-## Presidential runoff underway at all polling stations across Europe - БНР Новини
-
-- **URL:** https://news.google.com/rss/articles/CBMiogFBVV95cUxNQXZnSFplSlNBLTBEZ3lyR3NyZjZSYzhVUHN0Mi1nRlR2Uk5aVlZqNlFlc2hpcXVEYjYtYUdnQWlTVTktdG1hOHBQaFBNS0pPTVdPazN3eDRrNDlqUWVFN2UzQTBUQkNhOFg2MTBhVmlLaUtjenJjMzdZbG1zVUlxblY0MEVZNU9yNFJJTmNHTURmZU5nUFltNWt6cEFtQzZWYUE?oc=5
-- **Source:** БНР Новини
-- **Published:** 2026-11-01T11:32:14+00:00
-
-## Kristinn Örn Aegisson - Transfermarkt
-
-- **URL:** https://news.google.com/rss/articles/CBMi2gFBVV95cUxPM2tZM25OTGItQ0pDSjFSVVhYbTNfLXE4ZFlvOHB6eWxiaEZIdWJHd3BqMmcxLWxhTHowNjNzaU8yU3FvSlNMZzdzWUwzWHE0VVkzQzZBbjYxb296amc4QlpGN2NEa29rcklsS1JsYmhIYVhzZU1rTVJraG1qaGhENlR5a21BaTF1Q1k2Wi1aOXFtREhReDlKMmNkYko5anNkYUpDWV83VDBnSkNrVW5td1N1TXFBenRlck5CVEdHaHBWNS1MbzNMbWxhbUhybDUzWTgzckJMOVZjQQ?oc=5
-- **Source:** Transfermarkt
-- **Published:** 2026-11-01T11:08:34+00:00
-
-## Sindri Björnsson - Transfermarkt
-
-- **URL:** https://news.google.com/rss/articles/CBMizAFBVV95cUxOZUcwOW1qazd0bWlTUTc0a212TDJUbVJOY3lqSHIwZHJqV0ttekI0RmVVdVMySjhrYmhyaU85UWhOQUlMWWg0QVd2R1ZXVmMzeGRTOG1OVjBjeWFDVFBWX3BsS2JiUUhoaTF3d3lsXy1sQjViaTY0RE9fZzRxN2xNS1NxX285cGlBZjFIdVcwaDdXTFpvWEcxUHVLUmpoNnNUUncxdUhRcDNFa2hYNDlQTmREbG9hUjVjLUI5VjdPLVZvQXozNllIRExRX1Y?oc=5
-- **Source:** Transfermarkt
-- **Published:** 2026-11-01T11:06:58+00:00
-
-## I used an airline hack to turn a layover into a mini trip to Iceland. It was worth the short detour — and saved me money. - Business Insider
-
-- **URL:** https://news.google.com/rss/articles/CBMiigFBVV95cUxNR1NVdWkyMWFhNWdhQ1ZXb3kwSlROMS1ZZ3BFM0Z0Q3ZlODZUVzJjWEJUZjc4czJQUHppR0JnNVJaNlI2VjdOcWxZbHdISmlVSVhnOVZGN0JDZ3NGemVBOUFZYWlXY0ZJS19lQmxuUlFmS2RaZ2N1Q3p5eGk3XzZRT1hSVHJ6b0pYQlE?oc=5
-- **Source:** Business Insider
-- **Published:** 2026-11-01T10:27:00+00:00
-
-## Auður Confirms Iceland and Scotland Landing Sites - SubTel Forum
-
-- **URL:** https://news.google.com/rss/articles/CBMiekFVX3lxTE4zLXZ5cFhmcGt4dVYzZ256Y0FDQk9KcWdDdGtJT0Vwdl9NOFA1MkhTdzZvWkQyakZPN0daWERrZjJweXBFVkVzdDhLdGxrODBWc2dxOC12d2gwX05kSHdHTnFaZ2dudkZ1bUFaMDhXbVBiMXNxak1SY2VR?oc=5
-- **Source:** SubTel Forum
-- **Published:** 2026-11-01T08:31:55+00:00
-
-## Tesco, Asda and Iceland shoppers warned as urgent product recalls issued over safety fears - Daily Star
-
-- **URL:** https://news.google.com/rss/articles/CBMikgFBVV95cUxNWEdaOVZfTmNiMFdoUVFSMjZBOGJEUjB0QzFGb2E1YXktQlBDeWJuenN6dWJMY3loNTJWWW5KVjlKc0pFcHBQN09PMGRuMDdGZ3BSMDZld2RXUWxYMW8tZnZ5Sy1fN2Nkbk1LNnF1dndJSlFSN0tXR0pIMGdhelJuSmxOSWN5LU5GR0tqOGo2dVplQQ?oc=5
-- **Source:** Daily Star
-- **Published:** 2026-11-01T08:21:00+00:00
-
-## A hempcrete cabin in Iceland is a ‘house for the soul’ - Wallpaper*
-
-- **URL:** https://news.google.com/rss/articles/CBMigAFBVV95cUxQcXlvOHoyMHQtQktnSFpDNG1KWXQ4RWlVWDRnTkhzdVhJYnBEVjBtTElJZWVPN09rUGlYSDZpekRxZWRQc3BfTVZQRlpmdXF4emFOZ2JaaVBFWWZKbFZoQVlwbGFnZkFOdVpDRHRVUmZkNlo5cjd6TF9PWjRPY0hmaw?oc=5
-- **Source:** Wallpaper*
-- **Published:** 2026-11-01T08:00:00+00:00
-
-## Magma Volume Beneath Svartsengi 40% Above Previous Eruption Levels - Iceland Review
-
-- **URL:** https://news.google.com/rss/articles/CBMijgFBVV95cUxPWlhyckRVdDUzTmpUWW5adU5pdlBzeUtHamxBTU9waTdBUWJDRDJRb3VZSVk0dS1aYmxLZEY5LTd2SV90SnFuYTllMThnRzRfMnRUZ01kQkNtUkxpVHctSldoRno2cVo4RUJGSElkQmhINWlQeG1jOTJ1QmFtMkpPckRKX0ZNYTFHVFZYMUxB?oc=5
-- **Source:** Iceland Review
-- **Published:** 2026-11-01T07:00:00+00:00
-
-## Debrecen announced: Plamen Andreev received a call-up to the national team ᐉ News from Fakti.bg - Sport - Fakti.bg
-
-- **URL:** https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUHdieWZvT0p1ajdCMXFkSDYwOF9QRzlUOHZPQTk5M3Qzd3BVNWs1akNZaXplVkVhbkxjZktBaEY0Y2l2ZXo0REgyX3NSSFNldktDb2JqR1RSTk03Z1RraVRGdV9ac2ExMFJSdVBBYVJVc3BSX0w0Sk8yQndIbW1Hc3A0WkMtcGFEbFVMcnN0WG90cU5FaGFsTlVNY0xRdy1vajhTUG1TQlRSZ0E?oc=5
-- **Source:** Fakti.bg
-- **Published:** 2026-11-01T06:33:00+00:00
-
-## I Stayed Warm Walking Around Iceland in These Thermal Jeans, and I Plan to Wear Them All Winter in NYC - Real Simple
-
-- **URL:** https://news.google.com/rss/articles/CBMihwFBVV95cUxPdTJEcG5qTjRvRERKTzF5UkRTYk1kM243c0Z2ckVNWmJsR1B1dHJyVEtKNWRnZW1lQmN4dnZNYVdSUzlNcExhaVU4el9STk9TRFFXbE1BM2FtanVhYXZ1R0QtR3hCb3dVeTlpRjJ0SlE5cDhoa29NMFhoOUxrYmthWElZQ2NIX1k?oc=5
-- **Source:** Real Simple
-- **Published:** 2026-11-01T05:30:00+00:00
-
-## Minor mag. 0.3 earthquake - Iceland: 1.0 km NNW of Hagafell on Sunday, Nov 1, 2026, at 05:16 am (Reykjavik time) - Volcano Discovery
-
-- **URL:** https://news.google.com/rss/articles/CBMivAFBVV95cUxONy1aRXF5WkVzVUZqaXV6UmphWjNtOHZNMEVNWVozVGNPUUJtOGtWdUNvOXlEQVVxbWo5RUZTcUl6NjZ6OERrbXlNeGdSOW5VY2pva2FrVkwzZFQzTTRkOHo3dTNNOWhxMWJ3RWxyWFktaDJ6Y2Q4cFVDUldLbWh3eElEZW9VLU5nSHpIOWt1eFdHR0dzTTR4VWo4STlJU2EyWWU0MGNzRWVXVUdhb1laQUNReEd5Zl9ENDN6eQ?oc=5
-- **Source:** Volcano Discovery
-- **Published:** 2026-11-01T05:26:00+00:00
-
-## Urgent product recalls as Tesco, Asda and Iceland items pulled over 'do not use' warnings - The Mirror
-
-- **URL:** https://news.google.com/rss/articles/CBMihwFBVV95cUxNTmJDZlFoZjNRdHdWSWswWkZyY0owVHpsX0ZxZ1lGb0lFV1lyM3BKZE1MXzVyRmVBY0JZT2VMR3BBZGxpcjNZZXNHWmhKZlg5WGpLX09VczdYVmJyeVp2STdCcmZZczloMk5lcGZSbjFFUW9qUXVBMFMwTjQtejlxVHJNaVRnUDjSAYwBQVVfeXFMTlcxVHlDaGZuYWx0Wk9KaUs3eUtVZDhOUWdqRzdMSzBZUjJHTjgxMjNfamRFQ2ZDUVJGRHcyZVlvazBOQ0pRZzBMU3RSS3NLcjkzZEpneFgyZGl0dW90QmwtMHc3Uy1yVE5ZRklTODhzQjFiZnJheTZsRnpDMGp4cDRKOGhHbXo1Q2FWWng?oc=5
-- **Source:** The Mirror
-- **Published:** 2026-11-01T05:00:00+00:00
-
-## Where was The Odyssey filmed? (with maps) - The Worldwide Guide To Movie Locations
-
-- **URL:** https://news.google.com/rss/articles/CBMiXEFVX3lxTFBwdkNrYUs1R0h4X1ozWmt0NkNOcnl5RVRNXzNIcWZ1YmNyaGNvWHNKYVRyZlJQWV9haWV0cC12S2x1TU1QUWllbUEzLWg3cEhpc2p3VTliVFZoSHpn?oc=5
-- **Source:** The Worldwide Guide To Movie Locations
-- **Published:** 2026-11-01T04:14:19+00:00
-
-## Discover the film locations for Supergirl (2026), around the Cairngorms in the Scottish Highlands and in Iceland. - The Worldwide Guide To Movie Locations
-
-- **URL:** https://news.google.com/rss/articles/CBMiZkFVX3lxTE1USUEwakZRMEFZQ09IMEw1eFVfdVBtRUhDZ3dJaWhlNlUtelFfQ1B4OXN2UVhTY0V5SzJpSmNJNXB3UFVlZE1UZ3hwVmJ5ZVk3bzRkVXE3aWxkREhEQVpHWVdvMFV0Zw?oc=5
-- **Source:** The Worldwide Guide To Movie Locations
-- **Published:** 2026-11-01T04:05:38+00:00
-
-## Urgent recalls issued for Tesco, Asda, Iceland and Amazon products - 'do not use' - AOL.com
-
-- **URL:** https://news.google.com/rss/articles/CBMihAFBVV95cUxNeTZFS0RZZXAycE5yYnBBSmtMX3YwbFF1cnpqTTlBaUp6RzgyVnFOX3JQX0hMNzVpeURnZkhRck1yWmwzS1BPMm5PRWZDNE5OeHVYMi1GZzJTaEdfQnJsTUp0RnFSWnlfX1FtWGcwd3BEVmQyNkI3aG4tb0lIS2M3ZHBQTVQ?oc=5
-- **Source:** AOL.com
-- **Published:** 2026-11-01T03:00:00+00:00
-
-## Danish Folk Pop Star Tina Dico Finds Her Footing in a Noisy World on New Album 'Balancing Small Things On Sharp Edges' - That Eric Alper
-
-- **URL:** https://news.google.com/rss/articles/CBMi7wFBVV95cUxObl84UDJHM3JkSWM2Tm13WXRxMkUxVlVZQWZ1YVRfaU9BbkFkLXctNHFKTEVzbzV2dHZHcTNIeUNPalFtbnJMZG9haWE0UkU5blFwV3duUTZGSHRoMXRRQXVTUXVQYjRjZzBOWFkyTXU4aHRVazZrNGM1cWpyaEVEbWFEaDlFUnN0dkY3RXVvWGhOekpGcWtKNDg1Wmlmd3Z5R29kQ094SzFoLUFydV8wNWdPdmNZenZFYk8tRXNJUkRMU0M4ekdpdVQ3Z25QV0c2TDNfeW1kbXZuRGVTazRsaVo4MFFUOEp6NUpKeFZlZw?oc=5
-- **Source:** That Eric Alper
-- **Published:** 2026-10-31T23:51:13+00:00
-
-## Skip Chobani. These 2 Brands Sell Consumer Reports' Highest-Rated Vanilla Yogurts - Mashed
-
-- **URL:** https://news.google.com/rss/articles/CBMimgFBVV95cUxPaFU4VHk5M1R3VWtraFJqWTV0TE41S253RmhXRl85cVFYeHRSdFVvWmJxLW1ZZHFrZlFMcWpQQTlXeVhFaTU3aVBCbnFQRW92ZVJFWmNjNS0xT3lmOVM5MVZPcWpLdUhaUzUzYzNkUXp4UFZuR21vQWdGb0VCRllRWFMxd2NmR3lPTmpHUUlOV0ZzSXdxaGtSOGJR?oc=5
-- **Source:** Mashed
-- **Published:** 2026-10-31T23:03:00+00:00
-
-## After 14 years, Euro Truck Simulator 2 will feature transparent water — new screenshots of the expansion about the “land of fire and ice” - iXBT.games
-
-- **URL:** https://news.google.com/rss/articles/CBMi8wFBVV95cUxOZi1nLXlJbndRclNLbWhkYTRRV2g5X3RIM0VueXFHaFZjcHNiaGZNQXBUMUVSLVFLNm5mcTd0cjVDeG5GUGl6aHZqdk5ESGNEbVFSMVJZVTZhSmhTNzhPRWJrTk9vdGx2ODlRRUhBWkt4VkxiMUlHYlg5T01XVDJfdkh2RjlkTnhuRUR2dkdBdkJya3VBQzhLS0NFVE92Q3EtdE9mdUlyUjVtMTlXU0lrczIyd1ZPa1NyYWRvY0Q0MFJwNDJ4cGFmbC1HYmVKaEh0UWNCSG54M3NnWFZGVEQ2cmlxQzdMc2VOWFpsaTNyaTVaRWPSAfgBQVVfeXFMT3NHWDVyOVlrYTV6ZWRFU1BaOUpKM0o2LUl0NlRZa1dNN3ZJUjVQODhpcVVmWVByaVNoYWxGbUN0akVVY1FIemZXbHU4Z2J3QWM4aEVWZXR1cjFtY1NIZ3FTLVJxVlotdnJWcDRZT0taaFlFc1JnSW95YVdHMFZYUVNXdXFhQTRUODlnV3hPOVIyQ2Nhek1HQnN6dnRwYlZOUERYckN1V1pWQVZHMGwtbHRIZmVKMkdaa3dNcEZjUXkwSFV3MzhyMjNueHI5YkJlXzRlMHl3VlRiMHlGSmFXeG1pbEVFVUlHamFXWmMwdGhvbmM4R3I1ZjE?oc=5
-- **Source:** iXBT.games
-- **Published:** 2026-10-31T19:59:00+00:00

@@ -1,8 +1,122 @@
 # NewsWatch — fusion energy News
 
-_Last updated: 2026-11-02T12:02:45.093358+00:00 · 50 articles_
+_Last updated: 2026-11-02T22:37:11.801212+00:00 · 50 articles_
 
 ---
+
+## Who Gets To Benefit If We Start Mining In Outer Space? - The National Tribune
+
+- **URL:** https://news.google.com/rss/articles/CBMikwFBVV95cUxNSjRqcEYzYlYwMTU3MVlwb0NxNm93MTdUYl9xMDQ3dUluSlh5bFZqZzMwZ0d6bFJuUldFS1VBMVFkUjdLbFZhUVp4MkhUM1l5NGFwZkd4d0pqY01NZmFHamxRLWhvRTJMelp4X2p6NDZRakVrMWxkLWZPZWxMa3NQN0xFM1BnYVcwMnl2ZF9YZHE2RWc?oc=5
+- **Source:** The National Tribune
+- **Published:** 2026-11-02T22:19:09+00:00
+
+## Another bipartisan push to reboot Congress’ tech expertise office is underway - FedScoop
+
+- **URL:** https://news.google.com/rss/articles/CBMidkFVX3lxTE9VUXZZSlV5R3FvOXBwNXVCQkVmMnpRTTZnQzJKTXB2TzJqQlJXbTF6YmpkcGlaWDE4b0Z2Vmx6bG5jaEk4WTR2ajlkdXZJTGRlR0J0Uk9FcEhqSDd6LWZyZnNZNlRBanlxTWVEMVpiZnNNcV90Zmc?oc=5
+- **Source:** FedScoop
+- **Published:** 2026-11-02T21:43:49+00:00
+
+## DOE Awards $8.5 Million to Advance Commercial Fusion Energy Research - EnergyTech
+
+- **URL:** https://news.google.com/rss/articles/CBMiwgFBVV95cUxOY3hjbTFyWGsyU3hJSGF4dy1FTDE1Y0dYek85NUh2ZnRpd2dsNUdvMGdqUGw4N3EtV0RtMGZ4ZmQyMWpDYzVDNFhQNHI3ZnppNVAxNE1BWnlvMXVDODExd0lCTGpXVTV1cHBia3J5YWlqZnFaNnk2TER1RTZwdllSNEp0Ql9Bc1dlb1JtQm5KM18zbnRYcmpOdnQ0R0ViNk8wTmJXbFA4amhPYVJhNlhuSkFsbVNOS3VtWk9WcFhOcEJlZw?oc=5
+- **Source:** EnergyTech
+- **Published:** 2026-11-02T21:21:23+00:00
+
+## NTEU wins two cases for employee members against the IRS - Federal News Network
+
+- **URL:** https://news.google.com/rss/articles/CBMiswFBVV95cUxPZWZVV1g2M0REeE1rcGEtYXFLbDFKR1FTZjNCaklNa0FqLVVJeE9CbFJiTHNuMXg1OUtMcnItMzZEa3lKN2M4ZWFIbWFGbU5jcmhwcDlGWDdnRVhrVGR6bGVtMmpWY3NHTGdsNWdsTlR0Vm93MEF2QVhqU2s2V2czRDg1OVQ5N0w3Q2xIUnRqcTNNaTFlRENobnAwZWFOUUhqT1BMbDJTZFVmc2FmR0NSN1RoQQ?oc=5
+- **Source:** Federal News Network
+- **Published:** 2026-11-02T19:46:21+00:00
+
+## “The repair campaign obliged us to rethink the way we work” - ITER
+
+- **URL:** https://news.google.com/rss/articles/CBMihAFBVV95cUxPV01UNGVyRVBROEM3Z0Y2U2s0OGFtOGhFU3NkVVF1ZUVLcVFEWmZmcHlZWnF5UXRjUWN3cnY2MlN3dmY1cFlRT1BBbjM1YmlFUm1ETHU4M3AtWkFqYmU4Z0RscGI4ZE1ycUdCX2t5NWpPSHE3a2NSMklURWFCOUdvZFBiaV8?oc=5
+- **Source:** ITER
+- **Published:** 2026-11-02T19:10:46+00:00
+
+## Deeper international partnership must help unlock geothermal globally - Clean Air Task Force
+
+- **URL:** https://news.google.com/rss/articles/CBMinwFBVV95cUxQQlFRcUJNb0tWMFpXRmRSZzA5X195SGFucHlGRHY0dmY5NTI0X2oxcGlBNzdNY1NFblI5RDMtLVZtYkFieFVMSGw1ZTVMNVZqQ2JrR0pFZmM3dG1mOFBIb2Y1dE16WExiR2k5eEtVWlZtVzUzNnFnRzNCM2R2dXJjTllyd2laRjQ2aGVqbGNmbll3aFNwYld2WUdSaXR5X2M?oc=5
+- **Source:** Clean Air Task Force
+- **Published:** 2026-11-02T19:05:29+00:00
+
+## MITEI’s Future Energy Systems Center kicks off projects to address data center energy demand, long-duration energy storage, energy affordability, and more - MIT Energy Initiative
+
+- **URL:** https://news.google.com/rss/articles/CBMiuAFBVV95cUxNeHdKUjI2eHFVX1dreXZHc3VwVlc2MEs4LWUyTUFYRGtlbWNXQTMxWkFXWmgzdTVMMk5fc0xXdkh2Yl9CRWsyZm80QkxSSDAyTHJfWUljNTU4Z2JveE1EVnBfSFBqQU9tQmRPRG5wSllIMWV3eXk5Vi1aRmVaaEhNRWs1RXk5ZUlNWHI0Y2VPOXlnWDg5SzdlWEJETndtbXNHcmJZbmt4bFNHU1I1Vm01Wm5EbU5KaEh3?oc=5
+- **Source:** MIT Energy Initiative
+- **Published:** 2026-11-02T18:33:45+00:00
+
+## Trump Media Rises 6% Ahead of Midterms With No Clear Catalyst; Rumble Slides 3%, Reddit Gains 3% - 24/7 Wall St.
+
+- **URL:** https://news.google.com/rss/articles/CBMi0AFBVV95cUxPR0laclpBdnVybWVJOC0xeGxUS19WbktpXzlNcElwMHU4MXlVQUU1d3YzZ0FjdmJ1SktIMlZuU083RV9ETTgteVhneXl5U2E0THF6eG9aeVpDYXBwaFpVcFN6ei1XQVdpaUtfbV8tS2VMelQxVUJBb2drLTE5VlZFYVhpU05BS2xpY2hlQlExWFRGbkxBc2RfU2tROF9XdHUxSTlDU2JuRU5pSEg5bnBSeURXVkFRZkpHZmwybjVjYnRsRDAyX0dUek1UdDVXWmVX?oc=5
+- **Source:** 24/7 Wall St.
+- **Published:** 2026-11-02T18:04:00+00:00
+
+## Embo Music Fusion Concert - Algoa FM
+
+- **URL:** https://news.google.com/rss/articles/CBMiaEFVX3lxTE43dXVzNEU5MDIyN1R5UzVjU2Z6OFkwZnBTaHB5V2Nkc3pVZHNJRHd4cmZ6d05aa1l1Y2U3c0pqVldEdkN3OHNyS1JycEhnSEZoZl9rel91UF9Nc1JSWGFuVmJSQXRtX2JC?oc=5
+- **Source:** Algoa FM
+- **Published:** 2026-11-02T17:40:33+00:00
+
+## Urenco USA Completes First Commercial LEU+ Product Cylinder - Securities.io
+
+- **URL:** https://news.google.com/rss/articles/CBMilAFBVV95cUxQa0syTGk1ZHBabkdDdVJGQ3ZWbkNMbnVXZHhzZFpOWS1sei1JX0R1NWc3NTMxdUcyMXpHMDJPSmYtNy1EVmRaM2d6eTNtLWJNUkljTGJ0Um9YM1VUOGlSNGdEbVhReVh0a3dMdm02d3d4VG9HbFR1Wm9ONVhxRlJ0Q1R4UmtNNmtLN2p1S2psWEhhRHZT?oc=5
+- **Source:** Securities.io
+- **Published:** 2026-11-02T17:27:49+00:00
+
+## Freemelt Announces Preliminary Financial Information for the Third Quarter of 2026 - TradingView
+
+- **URL:** https://news.google.com/rss/articles/CBMi4gFBVV95cUxPTUJCX0ZSQ0libVZNTEpNczFzeDB4RXplSVk0SzA5ZEcwdHlaTGVJWTh1dVBwZGZsd3hZVmNNYlY0aEREamtQVjZwUHdnbnBSVVhZcWxOeDRRREdtQTZoYnNBMkJ2X3lzbURob0U0cnhpZFlzcDJocjB4SEdkMG9wQjJqVEZyOEZ4VklvZnc3QUlUY1VsUXBKdGl6cVFNdnpER1BDWW5Kdjd3ZFZIS0NPRHl2VEs5X1l3cHBsUGJFQTdVM3VmVExrUkxxUC1Ddm90dm9udmVJOVE4dXdVTVEyM3RB?oc=5
+- **Source:** TradingView
+- **Published:** 2026-11-02T16:44:00+00:00
+
+## Freemelt Holding AB (publ) (FREEM) Reports SEK 60.5M in Q3 Orders, SEK 33.4M Cash - TradingView
+
+- **URL:** https://news.google.com/rss/articles/CBMi1AFBVV95cUxPaldqd2ZjXzhJYk5xbXRfNll6bFZ5N0RWb2RwMmZ6RXN6OWVhWU1HMWhJdFRaYnloN1hCZlhRMlFDTWtLU2FOLTM1V3JkR0cteFl4dTRMMGpGSTZ1VlgxcHB0aDlhc1pURjJ0a1U5R0FmNzNjejFJaWVkeElTODgxMVU2b3ZPYzQtSnNlaTFvOWZLVm1Oc1FBWFdCODdsdE4wdmQ3NnBQUTVlNlRhdmxuMWZtM1Q2dDE3RkxydHJEZmh0YTVGbmxHTE1WdDJEZE5QbE9JNg?oc=5
+- **Source:** TradingView
+- **Published:** 2026-11-02T16:44:00+00:00
+
+## Laser Fusion — An Industry Perspective | Features | Nov 2026 - Photonics Spectra
+
+- **URL:** https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbzBRVGpDQk15cjNBVko5Y1FoSDZ2c3ZPZl82Z1R1T19DSDZ1RXZPd01raGFRbEgtWE1jNzg0dkhqaEhBMWliSVNZd3BBUUxLd1lSVEpESldITldUQ0RMa0w5QnUtV3pwSkNHbnRXZ21wTXQ3OW0xZFZ2cW5QUFhBZVlzRjNKdHJW?oc=5
+- **Source:** Photonics Spectra
+- **Published:** 2026-11-02T16:32:15+00:00
+
+## Is There Anything Left in the Dream of Cold Fusion? - Quanta Magazine
+
+- **URL:** https://news.google.com/rss/articles/CBMilgFBVV95cUxPbW9UNkluMlZZcmpjcloteWNhYi1uZ3BRdHVyOUNmTWRDeFhndHdjTXk5X3hfbUhUcDFua2Z0TnBKWmFaempvNmIzVXJLVnUwN2h3RVljRC1ZNDlsdllBVXBFT2FJbmNweFlaX1ByUWlmb3NsVlItRWtRRy1kUk0taWFFczRrb2JreVpndUV6TEdFSUgtb3c?oc=5
+- **Source:** Quanta Magazine
+- **Published:** 2026-11-02T15:53:48+00:00
+
+## THE WEEK OF NOV 2, 2026 - AIP.ORG
+
+- **URL:** https://news.google.com/rss/articles/CBMidkFVX3lxTE5IZ05qQTU3QlJPVkpkQkd0bVI5WGRGNTFOX1VSQmU2TGR2TkUwX3l2N0JxOG9rLUR5Z1Q4SEV6UlRRb2Nhc2RIR0hGa0otbTZaTWlDME1tWVN6bzdlQkNJUVBfOXIzRlBXOUo5aVMydi1pYnRZN0E?oc=5
+- **Source:** AIP.ORG
+- **Published:** 2026-11-02T15:25:38+00:00
+
+## Fusion Finance swings to Rs 86.5 crore profit as asset quality improves - The Economic Times
+
+- **URL:** https://news.google.com/rss/articles/CBMi4wFBVV95cUxPejZVdjNaOEVYd0hNVHV2WUdWMkQ1NmpTSE8yN3VZMmpuRFlnR3ZUSUpHcjNWd3c5bnllcDZnNXdIeHhBeUZCdkF6Ni1FY09YLXgtNktDR2pZWVlsUlByRWFTZkJVNWxMdVZ3eS13Zzh1cFl6QTNqMVVSSl9VRThXZF9RNnllc0FSaUViMmlXUGg1N3VKZVJRbGxrdXpPZGdPVnRaaXVHUHNMQWM0TDJ1T1V6Z3NEZElQVmwwVDFteWJFUUsxQ1hIZS1xWlNIU0o3RE1SWmFEc2t1clY2VTVEUk9ta9IB4wFBVV95cUxPejZVdjNaOEVYd0hNVHV2WUdWMkQ1NmpTSE8yN3VZMmpuRFlnR3ZUSUpHcjNWd3c5bnllcDZnNXdIeHhBeUZCdkF6Ni1FY09YLXgtNktDR2pZWVlsUlByRWFTZkJVNWxMdVZ3eS13Zzh1cFl6QTNqMVVSSl9VRThXZF9RNnllc0FSaUViMmlXUGg1N3VKZVJRbGxrdXpPZGdPVnRaaXVHUHNMQWM0TDJ1T1V6Z3NEZElQVmwwVDFteWJFUUsxQ1hIZS1xWlNIU0o3RE1SWmFEc2t1clY2VTVEUk9taw?oc=5
+- **Source:** The Economic Times
+- **Published:** 2026-11-02T14:43:00+00:00
+
+## Tronix3D plans $4M expansion of Pittsburgh 3D printing operations - Plastics News
+
+- **URL:** https://news.google.com/rss/articles/CBMicEFVX3lxTE5hQURQVXp2eVpSUFpnWWtOQVowXzNzZ3ZPQXVsamVqN0J4RTF3cTBPXzhpNk1pa2t1YVZ0MWtuOEV0eldLXzZFVnhmTGxkQkpfTU5YX01NRDRMQWpwbTY2N0dGbkdJVWJoMGtKWjBlMng?oc=5
+- **Source:** Plastics News
+- **Published:** 2026-11-02T14:18:00+00:00
+
+## SuperMatics Is Building AI to Find the Next Superconductors for Commercial Wire - Business Wire
+
+- **URL:** https://news.google.com/rss/articles/CBMi0gFBVV95cUxNZWRuRGFxMVZpSy1NTnpORmNmN3BXdjgzUXk0WnBTT2ZMZXJsYjg5aTFyRWkzOHRJS3l2RUZoN1lEOG9lQnVGNGhLbXY1S2k3ZE01MWRnVVFxQ2ZXN1VyWkxQVDJTNmFCNTg0bnRORzdEMzFUUXRGRHVtQUFhS25iTnpEd1lYdE1obmxPR3JWVC1qMS16V0puNm9BdDVfNXQ5TnM0MVZfUnI5YlZHaWRzY2lYMjFuZnVmZnhuX1FLWUJ2MEtpR0RDU1pMOGtITTZJX0E?oc=5
+- **Source:** Business Wire
+- **Published:** 2026-11-02T13:05:00+00:00
+
+## General Fusion to Host Third Quarter 2026 Results Conference Call - The Spec
+
+- **URL:** https://news.google.com/rss/articles/CBMi6AFBVV95cUxQY08xZVE3a2JSM2pVTDludTlxejYyMnZORk9KZ0ozQWZMMlRhb19wdXlQWEpHd2VYcTNtUUE3YnpRUDdwYnhMNFVwWlBkam53VGdxU3dBTjVUejBsQVdTRGhLTkdqY2pkNDdSLW9vR2xHRzVKbllvSGRyWS00eHBVTkxDWkY2NGVJdUNRVGRUYXktc09QaWd6MVV4YmVDd0VGVjJWNjI1dGdYZERJV1VVaGh0bFljQzBpNWx5V2tMWFhxTjRSdXNMQnV2Sk9velZrc2hQOTk0WDZ2c1RKeUlDdXZza2RoMzQ5?oc=5
+- **Source:** The Spec
+- **Published:** 2026-11-02T13:00:00+00:00
 
 ## Pokemon TCG Pocket: Best Alolan Exeggutor ex deck guide - Sportskeeda
 
@@ -189,117 +303,3 @@ _Last updated: 2026-11-02T12:02:45.093358+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMiiAJBVV95cUxOTllkQWNOS0tYSTFHR3JnbGE1TXNwc0hJTFRKT1BfU2VnZFFiMzBZM0lpeDFoT0x2M3Rna3JHMVp4NTRONDBqQUQwZ2JNbkR1S3ZuVWIzdk15dEFIR1BWc3Q3MXNEU1l3Z2dQVnZuNmM2a1ZyMnladXpIWDNIb0VoVWpmV3RMb09GODlkamt5dUp6ZnVJMzlUandYWGdRckpSVV9Mb3hWVzFkOGZhOTZINGxNMlRERDltZVdFR0lYUGh4cXJwNFd2SUt2cUlkS3hRNnlUVnlUa3BTUVV1LV9fWl9NbFRnbE9QZDB1NzB0eFFObi1RbUYtUkxPTDdSSlpNc1pFQ2tuc2k?oc=5
 - **Source:** Cambridge University Press & Assessment
 - **Published:** 2026-11-01T03:30:48+00:00
-
-## JPM Fusion Growth G Acc (GB00BWBSGF32.L) Seasonal Returns Chart - Yahoo Finance - Yahoo! Finance Canada
-
-- **URL:** https://news.google.com/rss/articles/CBMib0FVX3lxTE1LT3BqbmVESVVXRm9OMFUwTExyTHRPRjE5U1JqQWhJajROeTlpT2VPQy1OVDFrZ2duRTF2bWFhOVM5Q2RQSDRHUEJyOXV6QWp0ZVg0NW9sZDJfREtabnRuMl9lZlNPNGgtT2h2dDREcw?oc=5
-- **Source:** Yahoo! Finance Canada
-- **Published:** 2026-11-01T00:56:03+00:00
-
-## Ongoing Global Upheaval Demands More Practical Cooperation Aetween India And ASEAN - OpEd - Eurasia Review
-
-- **URL:** https://news.google.com/rss/articles/CBMixgFBVV95cUxPR0F1R2hlV25RZFA2TGprWjN3Q08tZ1VVODh2MG15X1RhMHRIbzJjNzhQR201NUltbW5JX0hQMmpja0tWVHJBS0lTVnhWZzVaS2dfbzY1dTVEQnJTellLLUpSMXIySW0xUzBCZlFaelNla20tN2lVV01uek9UWV9ZWUZocHNNTE9yWmsyNjNsSHp4WEdtMEQ3M0hDMWc5M0NCdGl6M0VKVERBLXRwblczUmJ4RmcxNmFBTm93NjNOeElJT1VId3c?oc=5
-- **Source:** Eurasia Review
-- **Published:** 2026-11-01T00:33:46+00:00
-
-## 10 Most Powerful Dragon Ball Z Movie Transformations, Ranked - Comic Book Resources
-
-- **URL:** https://news.google.com/rss/articles/CBMiigFBVV95cUxOQ0p2My1veW1STFJ5MUl5T01raUNiZG15QkJIdXFrTUN5MkhxZ2hjT3pFTHRHWEVwdjlDNDVIOHIzeE5lRzdvN2IwOFdkejNXUVhkaGlQbU0zVmtsSVcydXo4ZGlVWjRnbW1IMjFTVElKdWhuZ2kyX001M3pob0l5N0V4NzBCclVqaVE?oc=5
-- **Source:** Comic Book Resources
-- **Published:** 2026-11-01T00:15:00+00:00
-
-## Tests and treatments for Alzheimer’s | Bill Gates - Gates Notes
-
-- **URL:** https://news.google.com/rss/articles/CBMiogFBVV95cUxNMjlQVEh1SG1JcGlWVUZMUVZFMTlPZ3JQWUxVUHlzZlVHTjQtSGppb1BOR3VSN0dPT0RQUVVjOGNKQVlWMFBXaHQ0S2NXZldZTlUzQjlDUERDWW5mMFV3RnZicE5hbzQyX0NzczNQZGJnV3JJWmQ2ejNQU3JHNDlnSllOMV9oTGtHNmhUR2R0VVlNMzJBTmhnMngyTGgzeGdISHc?oc=5
-- **Source:** Gates Notes
-- **Published:** 2026-10-31T21:35:03+00:00
-
-## “Peace” - Open Letters, from Anne Applebaum
-
-- **URL:** https://news.google.com/rss/articles/CBMiVEFVX3lxTE1Kb1h1LWRLaFdYTWYtck8zb0dBWFpEV29nZVJvb0dpckcxSzRNUDM1TFoyX2JCVHU2bnNCWkRqc2VxcnJ6aGlSTUUzQ0dPbnZPVVdIQQ?oc=5
-- **Source:** Open Letters, from Anne Applebaum
-- **Published:** 2026-10-31T21:22:55+00:00
-
-## Punk favourites Millie Manders and the Shutup heading to Reading - Reading Chronicle
-
-- **URL:** https://news.google.com/rss/articles/CBMikwFBVV95cUxOY2pSNWhFSDAwUGFTMldrUXhSWnVqQUtacFBpTzVUc3QxdkJZWkhvS2FVNFN4UURoUFBhV012VzVURWY0dWRWbGRvU21FT2R0dEI2U0hCS2tPcGx6ZFNrTFBTRHBkVDZ4Tmg5aHh2WFQwLVBrWXpNbVNmOXBabnhJcW1sZ1BEYUppUDZ4Umd2Y2ZfS2M?oc=5
-- **Source:** Reading Chronicle
-- **Published:** 2026-10-31T19:00:00+00:00
-
-## In Richmond, British Columbia, pistons squeezed a lithium shell around plasma until it passed 12 million degrees, and the machine cleared fusion's oldest temperature bar without a single magnet or laser - Energies Media
-
-- **URL:** https://news.google.com/rss/articles/CBMigwFBVV95cUxOQzRsWjN0XzJ6TEhtM0otbFVvZTZ0VzFDYXlhMU9Pc1Z2Mm5qQnZQWXViclRwS293c2ZmVC1qMDFqUHE5N3ZTd2U3T2FWMk1CejZUejJZNkMtYWNyS2xNUW9yc2E5Y2NGQzRBQmFvd040bld5X3RIVTNLS3BLdkdtalY2MA?oc=5
-- **Source:** Energies Media
-- **Published:** 2026-10-31T17:50:00+00:00
-
-## India’s first fusion power company takes key steps - The Hindu
-
-- **URL:** https://news.google.com/rss/articles/CBMitwFBVV95cUxOSE82OTRiNUt4RjFaSldIeXRKZWVWWk1INWVXV0NaMzJOQ3R4Tno4RmVoSU50WGZDNF8yUEVZTjgyMldEblBsYXM1V0VGeGoybE44enFHcm5tZm1YYkVVZzRzSWdWS0NsQVlmQlFsYlRIVUNHZWY0Mk9JOU5PaEZ5Q0ZNaXNuWS1FdjM4OGtwZUwxTzFmVG5zQzBvcXZPSG9ZNHJhRDNvb2FIYmQwbVFKanNRbUMxVk3SAbcBQVVfeXFMTkhPNjk0YjVLeEYxWkpXSHl0SmVlVlpNSDVlV1dDWjMyTkN0eE56OEZlaElOdFhmQzRfMlBFWU44MjJXRG5QbGFzNVdFRnhqMmxOOHpxR3JubWZtWGJFVWc0c0lnVktDbEFZZkJRbGJUSFVDR2VmNDJPSTlOT2hGeUNGTWlzblktRXYzODhrcGVMMU8xZlRuc0Mwb3F2T0hvWTRyYUQzb29hSGJkMG1RSmpzUW1DMVZN?oc=5
-- **Source:** The Hindu
-- **Published:** 2026-10-31T13:46:30+00:00
-
-## General Fusion Group (Nasdaq:GFUZ) - Stock Analysis - Simply Wall St
-
-- **URL:** https://news.google.com/rss/articles/CBMihAFBVV95cUxPdHR5cUNXNkJpN3BjYnEwVEU4QUxJcndiN0F4T09mQ3lWdzY5ZmlFRVpHUFVfb2Z4b3cxQWRMMlhEajB6MTgzcTZGNU9XSnlxcWQ5TGJaOTR6dFBic1ZLcjlQRGJtclI3ZDdOS3IzdUtzdmlCVkFXNC03Um1KUll5QTN2TXc?oc=5
-- **Source:** Simply Wall St
-- **Published:** 2026-10-31T12:55:30+00:00
-
-## DOE's $5B Loan to Constellation: Revolutionizing Nuclear Power - Neutron Bytes
-
-- **URL:** https://news.google.com/rss/articles/CBMijwFBVV95cUxQVl9qQTdjQ05lb1BXWUVtVlYydlJYWnhSdm5LQlB0WmtWMG82WlpiUVR4SmhZeHp6UWhwRkFFakpFOE0zNDNXSjhtQUhuVEc3Nkk5TGFRRFRTSzdGM3VFNUJhRjZqbVJNZ0E2NHl4d0VxcGpWXzF0UFoxakdyM19yQTN6cnFVMkpkdmY3cnpWNA?oc=5
-- **Source:** Neutron Bytes
-- **Published:** 2026-10-31T12:52:33+00:00
-
-## Pokemon TCG Pocket: Best Rabbit Jumping deck guide - Sportskeeda
-
-- **URL:** https://news.google.com/rss/articles/CBMijgFBVV95cUxOZWt4dmdfTnFYTkdBVllwaVdjUG5OV3U0Wm9XbEVSWUVyZmt2WUdKLXZCYndnSXQ3U2hqVk1qSHpER043Z3JCbFdqcjBQQU11d1RKLUdHXzh4Nm9reVJnaDluZHUyalk2UmpZbWg5VUpZUVNPdEZNU1FuTk1ZRU5IQW9yWk9Yb3VydmhTVTRn?oc=5
-- **Source:** Sportskeeda
-- **Published:** 2026-10-31T11:32:00+00:00
-
-## Hotter than the Sun: Why fusion reactors need such high temperatures - Interesting Engineering
-
-- **URL:** https://news.google.com/rss/articles/CBMigwFBVV95cUxPNldKekhHcEtVclltRGgweGxuUjBOTnBobFhkMm5JVWVJaHFnX2xWczFXeVhTS05CcVVLbFMwMkhZX2t6dGNuWXdHMl9SX2UyTkRnNktjajdzd1NlN2YxTmJ4TGM5RGR4Snd6MFFzTm90Wk5ZZlpYVjFsek9sTXkzMDl6TQ?oc=5
-- **Source:** Interesting Engineering
-- **Published:** 2026-10-31T11:04:00+00:00
-
-## A tribe returns, joyful, to 51 acres in the San Gabriel foothills - Los Angeles Times
-
-- **URL:** https://news.google.com/rss/articles/CBMikAFBVV95cUxPVGl2VW55UHNQWndTTmtmcTduX1VxcmZfU3NfcG9LWWZiZnZKM0QzQjFpb0Joc0xIS1BKM1dFTWc3MW9DaG95dHNseDktTnVTcGhvZGpyZmFQVTFHQzVTUjg0WGZKNFBQcUpkeld2R0k4cTYySEdNXzhQeHg3OWdZbHNOYkt2dzF0b0c5VkxPdkc?oc=5
-- **Source:** Los Angeles Times
-- **Published:** 2026-10-31T10:00:00+00:00
-
-## October 2026 HPC Career News - HPCwire
-
-- **URL:** https://news.google.com/rss/articles/CBMickFVX3lxTE5tZzlkSEh1a3B1VlRjX1B5N2ViUll3anB3aG1YWURZS0VxMERpY1VKdzZuNkNCc3pUOGJXQXBEeG9fRlJqNF9tZlVocGlGckVKeVAyTjFTN09wS2pDaVNSeVlKeDZzNHJuMElvVEk3R2Jmdw?oc=5
-- **Source:** HPCwire
-- **Published:** 2026-10-31T09:21:48+00:00
-
-## Tests and treatments for Alzheimer’s | Bill Gates - Gates Notes
-
-- **URL:** https://news.google.com/rss/articles/CBMi0AFBVV95cUxNZVpuN3ZaOExJWDJSNlBtcUZBay1aQWdaQXprc0E3eDlranM2bGMzSFNTeDdZSnhLNXRWWmZzOV82cFMzWjFRRTJ4ZjNlS01sUno3MDVGYnVqZndQbGNHbmF3Yk4ycko0emR3RGRCVXQ1V3VmenlxNWMzMFNob180RENXeEpqMWFRUzV1b21NMkpWTHdUUy1yYXNtMW9US3AxcHBZdGtxMFJZd3lveVVGU3JkSGJUZzgyalY4Z0dxUGp6M2hMNGFHOGFkWHBLV1oz?oc=5
-- **Source:** Gates Notes
-- **Published:** 2026-10-31T07:13:19+00:00
-
-## Trump Media & Technology Group | Truth Social, DJT, History, & TAE - Britannica
-
-- **URL:** https://news.google.com/rss/articles/CBMic0FVX3lxTE5lT2dhSXRTdXhSaGh2djRnVUFnTUdVRlZzRzdxdXdjTElyMF9ZeWJUUG1kbWJIYUlpWkhJVTdoREJsWU9TaEdibjNIdE4wdjFwQTk4bmZaU2lNRm4tM1Z1M0trcFdhZ2kyM1ZDYWZwQmphRDg?oc=5
-- **Source:** Britannica
-- **Published:** 2026-10-31T05:40:33+00:00
-
-## Dessie - Seduction | Music Legal Download - TrendyHipHop
-
-- **URL:** https://news.google.com/rss/articles/CBMiY0FVX3lxTE1rSjZLYjhYbHRVQkRsbEI1dWN3NWE5cnFRWUxJSUY3WVlkbHRGODdyNXVQLWJDOFA2Ums1d3BUWFNtNVdSemszWEdBamRGNmVJbXRhMlJmTHNTZ2FVT3NnVzhxNA?oc=5
-- **Source:** TrendyHipHop
-- **Published:** 2026-10-31T03:32:27+00:00
-
-## Tech giants and nuclear leaders make news at CERAWeek -- ANS / Nuclear Newswire - American Nuclear Society
-
-- **URL:** https://news.google.com/rss/articles/CBMilwFBVV95cUxPRjZBT3dXTHlySUN4Rm5WRm9YM01zRHFyb0xGUmRzRUZOSWt4R0lHYmRnR0tfLTVudi1TblFGSWRQeHJ4R18tcWNuQTRyNHFWY01YUlpycTQ4ZG4ybGhuUGZJQjdKMUNMbnN1VGRrbFV0M29xSGhLRVdIeFRTZXBrblpCdF9ILXkwMnVGQVJ1V0ozcE13akgw?oc=5
-- **Source:** American Nuclear Society
-- **Published:** 2026-10-30T22:10:02+00:00
-
-## American Fusion appoints Brent Nelson as new CEO - TipRanks
-
-- **URL:** https://news.google.com/rss/articles/CBMiogFBVV95cUxPazBUSklrSUdLRm1uVk1sejNsbmhYWkxVSlVlVDFsaHppbDQxR2NQcGRaS3NLYWlld3dOSDUyMkRKUDNDMkhjY0l3aWhNMlRyc3VGakNYMXBXT1VJQnY1azNTQUxMLVRwNkJncFV4TFNTaE0wVDhRcTl3MHlGaENRbjlZMjhyaGhOZmtmNEtuQ3N4cFpPQUJfdEktTFdhSXVzTUE?oc=5
-- **Source:** TipRanks
-- **Published:** 2026-10-30T21:02:18+00:00

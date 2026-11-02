@@ -1,8 +1,152 @@
 # NewsWatch — Apple News
 
-_Last updated: 2026-11-02T12:02:43.699336+00:00 · 50 articles_
+_Last updated: 2026-11-02T22:37:06.368937+00:00 · 50 articles_
 
 ---
+
+## Apple posts stronger-than-expected Q4 revenue in first earni... - seMissourian
+
+- **URL:** https://news.google.com/rss/articles/CBMi2gFBVV95cUxQM1R0Q0V5bE8xazBYR3NBV1FhLWcycDZQUlhwVUJYNGhfOG02Sk1nQmNZbk5nX0d3dmhPSGJlOGdJRjd1cmJMUTBldUpBb0VtZWFadHZwdzVSSkNGSm83ZFZlM1p5UjZaY19zMlBSSWgyVlM3dFFmNUt1LWc3dXJDYVNtaWlLWHJVZUd4V3dFLXYzdHFFWDV1Q05KSkpUODRuX3RJNm9zVXM2QnlwNEJJQ1NRUjE2bXptSWZSS1hLNHplQ2RETXZhNzZsM2xPd2V1R3JhenZ4OG1aQQ?oc=5
+- **Source:** seMissourian
+- **Published:** 2026-11-02T22:34:57+00:00
+
+## Apple Services Revenue Hits New Record of $31.6 Billion, up 10%, in September Quarter - Yahoo Finance UK
+
+- **URL:** https://news.google.com/rss/articles/CBMiiwFBVV95cUxQSTJjTkp6SnFsSW5fRjV3dnJ1ZnZ4cy1vZlVkOHlTUDRISEZ3WTJjSHM3TS1VR0xSTmwyOGFnenl3c0FncC15Nkt1cXc5UEhYRHloODh4VmhuRUZPVjV2eEotYlZxSmhyaEJKTFJER0ZVZHphYm53Y3lSVGpNSlV5VTc2OFZJUEEzNUZZ?oc=5
+- **Source:** Yahoo Finance UK
+- **Published:** 2026-11-02T22:04:38+00:00
+
+## Apple Tops Expectations in Q4 as Active Installed Base Hits All-Time High - Benzinga
+
+- **URL:** https://news.google.com/rss/articles/CBMiygFBVV95cUxNLUlFSTRFdXBnMnFobGI3b1FMekFzbEN4TFB3aDdUM0ExZnJFcEVkdUZEVW5OWkZVQThXTE1SV0ZxZTY5ZXUycmN2S0tPblA5YnAwLTJwQnlZNE1aRmZLcWRNb3haZEx2ZjhKX1ptaFBGSE5fVmk4dC0yYkJpZ2tXeld6UDhwdTNVVFI0ZHE1azQydm02d0RJNkRZVnlhc1lIZGwyRWl3MW9Da3M1YzA1TUQxSkdYdG44a2JsNDZQQThEQktmaFhwbHhR?oc=5
+- **Source:** Benzinga
+- **Published:** 2026-11-02T21:49:38+00:00
+
+## Apple FYQ4 Revenue Tops Forecasts On iPhone Sales As New CEO John Ternus Steps Up - Yahoo Finance UK
+
+- **URL:** https://news.google.com/rss/articles/CBMiigFBVV95cUxQUDBDUUtrMEpPeXpmOERTVFp6N3ZQbUxQWU5YVUdYYkFtTGd6TG8zVE5XNVZkOGtvY3kzRklhdThSaVhSLXdEbklMMk10ZWpMMzhRdGd6dlN2OHpncFRPb0dGTC10U3dlZWpZNWQ5VVhxRW1RZVhzSTB4bUJYcFpsZnBuZFowODRjOUE?oc=5
+- **Source:** Yahoo Finance UK
+- **Published:** 2026-11-02T21:48:11+00:00
+
+## Apple Q4 revenue rises 12% to $114.5bn as iPhone sales grow - grafa.com
+
+- **URL:** https://news.google.com/rss/articles/CBMimwFBVV95cUxQSEVSVkhIMjEtNnAzZkM0NWNkMV9lQVpuT2NvOGxXSEs0aFUtTUtsTlNTVFFETjJiNlFrUC1HMHE1X09lai1ieEVkNXhfZDNmLW96R05sVFJDRWNCc3Nka0oyZm1zQ3JneVFFQ2hMWmpvYnB5ckFST1hCdDNvZkpZTzR4YnhpenVKMmYzYVZGcXFPb1FmOVdwNEFlRQ?oc=5
+- **Source:** grafa.com
+- **Published:** 2026-11-02T21:43:19+00:00
+
+## Apple beats fourth-quarter earnings expectations as revenue rises 12% to $114.5 billion - Proactive financial news
+
+- **URL:** https://news.google.com/rss/articles/CBMi7AFBVV95cUxPODdKck5WR29GSDEtOTJqWWszckJPV1E3Sl81a3J1bnZpWUhPWnl1b1hsRHpnTC03S0xCWDgzUGVGOWduWTZTc2U3ZzBWWXA1aE5UWTU1RFhpLWVHOTk2RnFPd2tWajlDYVpHWmtkNXp1Zk5WdWJHRTdqYm0yQUxDRFFQN3pwYlI1UUN5a3pUWXBMYTRISUk2NzBJSTllWlRiYWgycC12VVBWYkhCQ2NydHB2WW1PekNDWkhZS1pxWEUtZ3ltajN2eUJ0NzhGQ0FkRlFJdlNsTENxOXJLSE1SSWNzRU9VcWVqZk9DbQ?oc=5
+- **Source:** Proactive financial news
+- **Published:** 2026-11-02T21:41:00+00:00
+
+## Apple Growth Decelerates, With China Sales Missing Estimates - Bloomberg.com
+
+- **URL:** https://news.google.com/rss/articles/CBMirwFBVV95cUxPNjVqdFViRENfaVVnVkZiWUdtVVZlVEp2ZDBnUlNDaFk1TG5kYS1XWUpXZWlhUUxrZDdDZk1FTjQ2N0xVbnpxaEdrOEZjQ2NQLWNlc3ZneWNfbG5oSXo2RVg1NzZuSnVNU05YTzgwQWZvRjBFZHQyajFROVBiU1A5OG5vSXRjc05lVngtMy1OemdvZURnbVluQlpXTjlvbERMdENydFpwVS1CLU5CQ1Bn?oc=5
+- **Source:** Bloomberg.com
+- **Published:** 2026-11-02T21:37:54+00:00
+
+## Apple slips as Q4 results top estimates on iPhone strength (AAPL:NASDAQ) - Seeking Alpha
+
+- **URL:** https://news.google.com/rss/articles/CBMinAFBVV95cUxQWUtsRTlqS3NvM2NITnJMVTY0MjZTVkFzdng4dnRoMjd1RVBIU3RaeVV0TGIxUmYyd2tKNnNsOTZQT3k2cVJHUDYwQ3FnRVNaMkVKbC1MS2dvYlgzY0RUWm4tb05aanpTc044OXJGcGdYZ3JzT0p5dVlJdnhXN0FrTkxUNF9oVXhOZk9EUTRPeHFLZmo0NDJqaEtUaDk?oc=5
+- **Source:** Seeking Alpha
+- **Published:** 2026-11-02T21:35:42+00:00
+
+## Apple Reports Record September-Quarter Revenue of $114.5 Billion - TradingView
+
+- **URL:** https://news.google.com/rss/articles/CBMiwwFBVV95cUxOS0dKSm9aWlVIRGZoY0xBRktZTVdBNmZCcUJRUm41UWtzNG9fWXE3bWljV29lOGJQU2lXdVAtWXl4RDNOYklESHBWSU1jYVptQVhfQ3djSUdGWVNBb1ItM1dUdE9TX1hhZVNBaW8zWnhVMmp6eVI3YVkyQWxTYU9uWmxmcUp4X1dZVEVWd284bEktSklLOEJVY0FsNDhmbmhYeURkQmYwMTA2LTByWEdTRWVMejlSUlFCNXNkVGN1ZlVwRTg?oc=5
+- **Source:** TradingView
+- **Published:** 2026-11-02T21:33:00+00:00
+
+## Apple beats expectations with Q4 revenue of $114.5B - Breakingthenews.net
+
+- **URL:** https://news.google.com/rss/articles/CBMiowFBVV95cUxNT0RMbXdQcVpmTDk5TU5WV29RZ1RmX2NXQ0JMNUNEbTItc2NubmxIR0tnQXdhZzhSZTkyXzl0RjR6UVFEdTNjR0xJVXhKd0hSSlVFeEVDbnM4b1pzMFNhWEdzWkljM2FYcm80ckxGUUtOempjdmc0LWdZbzhCR0RtNGEyM2JZc3lhUTlwNEd0TTE0Mkw0NTA2SGdMWWVHRTVWX1JV?oc=5
+- **Source:** Breakingthenews.net
+- **Published:** 2026-11-02T21:30:00+00:00
+
+## Apple's full-year revenue hit $479 billion, an all-time record. - Stock Titan
+
+- **URL:** https://news.google.com/rss/articles/CBMiiwFBVV95cUxQcXhLRGFub2N3WHZfY0tFRjlOTmhOY0NPaVlxak1hLUVMUmVqUlgxLUp6T3VfamRuWWx6VGFOMi1ZMlZHXzZWTUpyUFN5WG1KVXhteTNyNFVqcmdDSU9ycEJxWVZ3cDZKbXc3eGIwZlVRUWk0OGVfTFVSSDZQZUlhNG5DbmhHS29fOXdB?oc=5
+- **Source:** Stock Titan
+- **Published:** 2026-11-02T21:30:00+00:00
+
+## Apple’s Hidden Google Problem Could Cost It Billions - Benzinga
+
+- **URL:** https://news.google.com/rss/articles/CBMirgFBVV95cUxOelI3clZIeGlhYlZKWGFHNUlyRzhEdzVMcFJQX3NCZElpVW9kb0dSb3BJOVY2bkFGMkM2eEV6cWlvX2VWZkpoVG1yY2NZRzN5eklQTUpIWXlBYURYRHRKdVRzWXk3SmhjOFh6OHRDSW8zRnQ0d3g3ZVR6bWdRYUxwYVgwRGlqb1c5eFVLbVNCeGd0QktpVC1nYmRaMDZfNTVJS0U2bTZpMXhhWjUwU0E?oc=5
+- **Source:** Benzinga
+- **Published:** 2026-11-02T19:27:59+00:00
+
+## Coming in 2027: Apple’s $1,000 home robot for FaceTime and switching on lights - Ars Technica
+
+- **URL:** https://news.google.com/rss/articles/CBMiugFBVV95cUxQQkZpNkVTVkZOY3U1WW1GUDFHN2loRHRpNUpMQ3NDb3FCTEZxdDhSMlJwSGlWanJ4VTN4cmdwZlZmRmdhRXMwcW9TeFNBYTBISkZxVVFldjd0cFhsdmRrX24tRkpEM056aE1fTkxsXzd6QXRmZDVEcHhCazcxRmxTdFF4RkRJQUQ0eXpQdlZqVmhtTFNIV2lTSmgxZUp2WXR3bVBWUW5QOE5KYWNRV3RVdW9zVDMzVGJESmc?oc=5
+- **Source:** Ars Technica
+- **Published:** 2026-11-02T18:32:21+00:00
+
+## Should Apple (AAPL) Stock Worry About Ternus’ First Call And Rising Chip Costs? - Yahoo Finance Singapore
+
+- **URL:** https://news.google.com/rss/articles/CBMihAFBVV95cUxPUUJKVWVES1AycTBCaG1ZOFV0UFFYT19rTm9LTzdWX2xOMzJZcmNaODFsM0JfbUYzZGg5djdtMU1hSFJiQzhHaDBjRkhEYkN5RkJSTlAweU9MUVRNS0lKT1dFR1hZcTRFRlBabFRwWFYxYUNYQVR0WTNCeWhrdHBJNVRFOFc?oc=5
+- **Source:** Yahoo Finance Singapore
+- **Published:** 2026-11-02T18:07:12+00:00
+
+## Apple Is Big Tech's Safe Haven — but Has Its Price Tag Become Too Steep? - Benzinga
+
+- **URL:** https://news.google.com/rss/articles/CBMivgFBVV95cUxOZGlWZTJnT2c2OTdGUkl3UmZ6QzZvdk1YVXQwbFB6LTdFZGxxYk1tdjBoQ3VVN2dzbFNBVFM3clBWdWNJczQ1N3hHT0s0WEZVS1g3dmlRNHdwRkJ4MXYxaFQ4ZU5XdWtub2lRY3pUeGJwb3hGX0VuRWZ6Tkk4THp2eHFERzlUcThRNXNXUnp1LXdOQy1QWHM0RXp4MUFVcER5cXk2VmdnYVJEVjl0ZVFRa3pVaHV4VmpQaVV0NXBB?oc=5
+- **Source:** Benzinga
+- **Published:** 2026-11-02T17:24:37+00:00
+
+## Are Options Traders Betting on a Big Move in Apple Stock? - Zacks Investment Research
+
+- **URL:** https://news.google.com/rss/articles/CBMingFBVV95cUxQQnpfMnllX2ViNjRQTTR2azc5N0FhcnZLYUxVMktSUHlCbHRoVTViYWVnZDZsVEJGMVdzNi11blhKaXN5RlhGekU3cFNDMkw3NjRLRXFpSDBQb0I4V0RhSVY3blcyR3UzaTc0dHFQZ3pFSGEzRHBFWnhiUkt4S3JuaTBoazA0VUk2aVp3VDJ3UzdGTzhHVGY2SEJRUlB3UQ?oc=5
+- **Source:** Zacks Investment Research
+- **Published:** 2026-11-02T16:32:11+00:00
+
+## Apple Q4 Preview: All Eyes on iPhone 18, Dan Ives Says Company ‘Has the Demand Backdrop to Deliver’ - TradingView
+
+- **URL:** https://news.google.com/rss/articles/CBMi6gFBVV95cUxOX3VyZUQwek1YZEljZzhhQlpObEEwVnNLaWd1UEtjSzgtSncwRGk0d1g5TkplUEVZSXZDRW5GYlVaU1J3VDVna3ZpanZCc0pZbmx5UUk0RlUzUmFHZm9jRmNiXy10aFlEVXBBc3dzOFlhWldYVkRzZVdqVzNOalJtU0gwMVM1WTBsVklnZHFNMUNvMFpPd2tFSGZfODlRX0RQVkdqOHRWOWRON09UMTVBZnl3U1dHSFNOOXpMdmdFVjN0UVN2bDhnM2oyeFF2UFN3emhYc01zTmcxRXdUUjBvZ0ZvT2FfZXF5MkE?oc=5
+- **Source:** TradingView
+- **Published:** 2026-11-02T16:01:53+00:00
+
+## Earnings Results Wrap with Apple After the Close - TradingView
+
+- **URL:** https://news.google.com/rss/articles/CBMipwFBVV95cUxOMm5jVTAtdDBJVUNaQll1RW4wR254NkpWYy1CR2dZU3FVanhwT09YemY0azNmSEVCbU83QUZlZ1czTldyYzI0ZXQwaEQ5Tm1aNC05YUFPSnJCVC10dGZQdUNJdWx2RFJfb3ZNQlRua2xsMkJfZnlkcHRGd3JTY0dpeUNWX0N3bjNKdGRqaHc3ZEhRZE1UbmVlTC1neHdCY3Q0WXpQNzJFNA?oc=5
+- **Source:** TradingView
+- **Published:** 2026-11-02T14:36:00+00:00
+
+## Apple Earnings Put New CEO John Ternus in Focus - TradingView
+
+- **URL:** https://news.google.com/rss/articles/CBMiqwFBVV95cUxOcTl5T3lSTk56cENjRkptM1V5dFpDNE00dnBDLUExdTIwVlZBWGpvSURTN0FPODdwbEUzdUp3akhLYzZTODU5aTVHWFV4SS14YlVPbDh5d0pHYjhrWWkxdU5wbW11WHBNOHpnVEhJS2E0dkN4ZG9qQnEyaFdxblIwUktCQm9reUttR1Zka0RNQ1k1YmNEYm1EWHdWWmhnV0hEWDQtQTc4UmxVaVk?oc=5
+- **Source:** TradingView
+- **Published:** 2026-11-02T14:01:56+00:00
+
+## Apple Earnings Prediction Market Preview: What Will John Ternus Say? - Benzinga
+
+- **URL:** https://news.google.com/rss/articles/CBMikwFBVV95cUxNaHNWdDJhOXJHeHVqVnhSQ2ViX2g4a3FoS3oyZkpjUWJISmZ6ZUI1SzJIRmZsWVlGWXhlXzgyUmtuN2lFQ1JOeVlPVzI1X3I1VlN2SFZNMF9Obi1aREZMMnhlYW04TUhDSGNnbEdWd2pnRTM2Yl9zRjVWWnI0WGF1SkFEbXlQT2dQZTZnZDJ4VE8zeWM?oc=5
+- **Source:** Benzinga
+- **Published:** 2026-11-02T13:54:37+00:00
+
+## Apple Inc. (AAPL) Stock Forecasts - Yahoo Finance
+
+- **URL:** https://news.google.com/rss/articles/CBMiigFBVV95cUxOdk5Da2pWQTNiYkUyVHVRc1I0RHFoM203YmxMMVdrY2JXcmNUOFNZQWV1WC0wOGJMbS1BcjJzUFlOMjNsXzFLNzVuUmZHWWRYOG9GTDBGOHFXc2FuOV9RdzdVZ2dXZGR1aGVRMFY5Y25Lak9Zbkk5b2JLUjFmTkZOMkhSUmlGMUFuZEE?oc=5
+- **Source:** Yahoo Finance
+- **Published:** 2026-11-02T13:33:01+00:00
+
+## Stock Market Today: Dow Jones, S&P 500, Nasdaq 100 Futures Rise Ahead of Apple, Palantir Earnings; RYAAY - Benzinga
+
+- **URL:** https://news.google.com/rss/articles/CBMi9AFBVV95cUxQS0I4TndwX2lhUDdjS3FSenhLdUJaaVpJZlNLblpkaTdCV2hpZll0ZG9iOGdaNHlURDIySnQ1dHE1dTZ2ZTktdGdJelJNcDltd1doRFdWdV9nbGFpMkN1NzRDNTZIWEZISVRXbjBUdUdiSEZFVmgtZ2R6VTBaeXZCTkZWNzZXcGZiLUJsQjVYMk1WUzB2N3FKUDB6ODlhMDlVbVRSaUVxWTlBYWliT3pOcDdQZlBVVi0wckxacjNjcUR4Nl8wd1B0UTljTUtmU0hZQzZBU3dMNTRTZE9LazhRazYtcHpRZndKOUtBXzJBR1h3bUxV?oc=5
+- **Source:** Benzinga
+- **Published:** 2026-11-02T13:15:00+00:00
+
+## Apple Is the 'Only Mag 7 Stock' Beating S&P 500 by Avoiding the AI 'Spending Binge,' Says Market Strategi - Benzinga
+
+- **URL:** https://news.google.com/rss/articles/CBMi7wFBVV95cUxQeWphV2l6WnZqd29XQkVCZExvRFUwdDBhOVBQbDFWdzl6TUlocUFDWkJleWlRbFJ4aFBSS1ZzbEVFVy05T0RZNlRBcUlPWktxTW9IS3daVWVDbFJrdHEzNXplalZtUTlQV3diY1F5RXhxVDFMMElGMWRyQVp4UjN0S0VqcEZHU0RkalBkVzlPcmJhcllQUVZNY3A3aVotQUlMUW93Vk84czB0U0JuY3lYdTUzcEg3WEpmZW5MV0R1WEozZ2tydXBpWjdXcjl5TU42djFsMDZQZnppWFg5cDNpaW02cmxIQXNPMng1TTVGSQ?oc=5
+- **Source:** Benzinga
+- **Published:** 2026-11-02T13:04:13+00:00
+
+## Apple (AAPL) Earnings Preview: Why a $1 Trillion Rally Could Spell Trouble for Investors - TipRanks
+
+- **URL:** https://news.google.com/rss/articles/CBMirgFBVV95cUxPSFRWMkQzN3J6RFV6dHZlZHptd19DSDVZelVZVzEtZjgyNW9ZR2RkNV9HNFFFN0ZRZ0x5Zjd0SHBEV2l4YmdrRzBuT1l4X1p3aFlfb2YzR2pTSEp4OTZMdzRjQldVVUhwSUVqV1FvenVheEEzaWVBNnR2T3JaNk54UzNwTjlaU05WZGdTTTEzbFlseWtSczNoM00zUkZ1WU8yZmNacVMtRFVzcjhNcmc?oc=5
+- **Source:** TipRanks
+- **Published:** 2026-11-02T12:37:53+00:00
 
 ## Apple Inc. $AAPL Holdings Raised by Strata Wealth Advisors LLC - MarketBeat
 
@@ -159,147 +303,3 @@ _Last updated: 2026-11-02T12:02:43.699336+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMiwwFBVV95cUxNY2F4eW9lR3lEQURjRkdTanRSbkdfUDhqVjl6bUk3aVVsUnppM3k5MElROXpKR3VGRmtCQ1FYQjFGZ21QRFNiWC01TW5KRERmMVNscmV3U1dMbW5hMVhXZE01MTJpd2pUNlQzZFk0R0FLTGcteldJNHI2T2RaXzVEOHJUbzV4VlB2Mng0MUR0Q053V3BCeHlDZWNaSnVjRGZxNzNPZ2VHbGtPSUtDaEhEVUxrLTVpakRpNjhNVmNGUHpGYzg?oc=5
 - **Source:** marketscreener.com
 - **Published:** 2026-11-02T05:01:38+00:00
-
-## Apple Tariff Refund Class Action Lawsuit - openclassactions.com
-
-- **URL:** https://news.google.com/rss/articles/CBMilAFBVV95cUxOOThWMFdWNzlNRWwzY1d3M3A1TWllYld3Ymlmc19FdGZoWTUwVGpOVnRmcWQ5LW0tZW55djlJX0U4dVVuN0JadEhBbERucWN0ZUJQakpoVk5JZFg5ZmxlZU16YlQzalF2MS1oMFFmUmZrUGpuNkxZd3pDcWo1ZF8zOWI5enE1MUV0OWhweU11eFJXa29q?oc=5
-- **Source:** openclassactions.com
-- **Published:** 2026-11-02T04:54:35+00:00
-
-## Apple warns German politicians of potential phone compromise: Reports - NST Online
-
-- **URL:** https://news.google.com/rss/articles/CBMivAFBVV95cUxNaThWb19OMEVvQjlUOWpzUWxYLWp3dkh1NkJkMV9YV1hNelF2Nm4weU93a2VRUEFtbnRjUTZnWWpGRkcxTm5udk84aW1hY3preHFzUWNEckxzM2hvQlBTSFBzbkdFWlJOVmdzYU4wNXRFd0dKMGo3NkhHaGVYd1VKX3BaTndaN3V6RENuczlSQnVwZHMtTWtycmpyeDhmOHF1cWFKS0dDQkdCeGJyVEpwbERabnprWHN5Y0VpQdIBvAFBVV95cUxNaThWb19OMEVvQjlUOWpzUWxYLWp3dkh1NkJkMV9YV1hNelF2Nm4weU93a2VRUEFtbnRjUTZnWWpGRkcxTm5udk84aW1hY3preHFzUWNEckxzM2hvQlBTSFBzbkdFWlJOVmdzYU4wNXRFd0dKMGo3NkhHaGVYd1VKX3BaTndaN3V6RENuczlSQnVwZHMtTWtycmpyeDhmOHF1cWFKS0dDQkdCeGJyVEpwbERabnprWHN5Y0VpQQ?oc=5
-- **Source:** NST Online
-- **Published:** 2026-11-02T04:35:13+00:00
-
-## Asia shares bend under AI stress; Apple earnings loom - marketscreener.com
-
-- **URL:** https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdnRyamVRd2cwZlI2TzBfYjlLVEdBakR4VmpNQldhdThmUTNsVmtlLU1mRzNBV0k2OWRPTTBaTFNOQTludFpRRWliMUhyY2lxdmFNVFlNUkZpTFMtbDk4UDNDU1hxSzRTcnhaZFVhYXV0V1RYUGJWakxteURrWlZEYjhzMVdQVjdZS0NwMFpJbzJnZFVGREY1b2dLdDFWazh2NjlwcnZQWVM?oc=5
-- **Source:** marketscreener.com
-- **Published:** 2026-11-02T00:33:25+00:00
-
-## Apple Gift Card Scam Settlement (Canada) — $1.25 Million CAD - openclassactions.com
-
-- **URL:** https://news.google.com/rss/articles/CBMilgFBVV95cUxOMUdJRUJhN002X09jVERoaTQxM2ZNbnBUb1VkZlFfZ29qc3hMd3BuU3dhcW1zYXpBOXpHOW1OMkRab250SENxQUljZXl6TzVfbk9NcWp3Y1hGcno5YkVUQ2R4UmVCSUdieVBJaXBaQXlZM2NYY1BCVW53T0F4R3d5Mm8wb1hNbUNCbnFNaU9KZ3UwYjdLRWc?oc=5
-- **Source:** openclassactions.com
-- **Published:** 2026-11-02T00:30:00+00:00
-
-## Jobs Numbers Due Next Week - The Globe and Mail
-
-- **URL:** https://news.google.com/rss/articles/CBMirwFBVV95cUxNSkdjMWNBZGxacUhuX1p5bjVFQ0VtRjJ0dk1OQW9RdFpSSlhxQ2hvY2N4MDBkVzFMaFctSXltNTBJZ2NzaUJlZXBMTjhnUmliNWNWMHZrN25aLTRwR3VyOW9ZN3kyU3NQc29SZ1EwZnBKZXBBQWJYNHF3Skk3ZkQ2T1FNZTR1MWVDbEpJODBJTlppWExoclBqN0U1ZnZoR1loU2RQZUp0X3N2amkwenQ4?oc=5
-- **Source:** The Globe and Mail
-- **Published:** 2026-11-02T00:16:48+00:00
-
-## Earnings calendar for: - Yahoo Finance UK
-
-- **URL:** https://news.google.com/rss/articles/CBMibkFVX3lxTE1BNWM0ZWw0RXBNaUdxQnpKaTBoR1BTUnVFWV9POThINE5hS1hTTjlKQUw5cl9rY1VkRkRDRjA5bHV5QmV4cGlUZnNVUzB2cWhaaU82NUpPZVNsRkpkbnc5eF9CcWhFZzQ4VG1hbGtB?oc=5
-- **Source:** Yahoo Finance UK
-- **Published:** 2026-11-02T00:01:04+00:00
-
-## Apple, Palantir On Deck Monday As AI Demand, iPhone Growth Face Test - Benzinga
-
-- **URL:** https://news.google.com/rss/articles/CBMisAFBVV95cUxPQzE3cVN4bGdJU2QxZ3ZFUWlJN29pM2ZJUWNRNExGNklTVktzRlFkVzcxRHpmR19vRzRvRmh0MnpabnFWdTNfMTI1d0R3NFFuN1hNUEY2Zm95NE5zS1E2MXZQdWpFbDBtUHNhZFZFUkx2c2VaekQ3S1hmU2w1ZFNvQVhLbG1GR18tcmIwOWlDS1lBUHJKcXBmT0c5dkVBOXVQUHVOcTc2VmRHOTFVSjFUYQ?oc=5
-- **Source:** Benzinga
-- **Published:** 2026-11-01T20:30:59+00:00
-
-## Apple Q4 Earnings Are on Nov. 2 – Here’s What Analysts Expect from AAPL Stock - TipRanks
-
-- **URL:** https://news.google.com/rss/articles/CBMipgFBVV95cUxOLUtzUmpOaDZvTzFDclFGSmRkenAyYXVCVTAteVB5aEt4N2NyTG03NlhoekN4WjQ5VXJsUWw1NzB2MzBhTzlGdlVxNEZxWmZ4ZDlDRmlTdTAyajJJcFo0VXN4T1BOTFpVVm5wekFwV3cyWGVGOGRrdGFhcFo4ZFNRYlJwdHJ1Y2ZTWkdIMElUamd4dWxJMmZHQ3FCbkpWZ2ozNHZVQ3hn?oc=5
-- **Source:** TipRanks
-- **Published:** 2026-11-01T17:30:07+00:00
-
-## Apple stock faces Monday earnings test as margin outlook sharpens - ad-hoc-news.de
-
-- **URL:** https://news.google.com/rss/articles/CBMixwFBVV95cUxOenExTkVwTXdkblV2YURXdTl4SldtbVFBR0ZldUFMNXA3NTMtdkpxWDE0bGJza2xCSThDSUNCcmIyY0gzdDJPbkVvRGc3WUZJQ0UzUS1SQ0dObmQwLVV6NVoxbEF2LVMybEpmeEdyXzV1OGcycHVkVjFMRmV4djBabVEwV1g5dTlNT0JjRUgwREJONzBvVUwxaV8xbEpkemFTMml1cEFhdGh1X2tHWHBRTHFVZUpYOHN6dnRwd2tIUzl1VzhBdHdn?oc=5
-- **Source:** ad-hoc-news.de
-- **Published:** 2026-11-01T16:32:39+00:00
-
-## Apple Missed a Chance to Be Revolutionary With Touch-Screen Mac - Bloomberg.com
-
-- **URL:** https://news.google.com/rss/articles/CBMiygFBVV95cUxNVXczVk9tbnhYRzdPcUhxV0FBODgyVzlPVHF5X3pyUjFNUkMyV3c4YUUydHBHY0xjYWhRZ1dheUNhSGFTd3VsQlFlc2UxLXljeXh4TFkwRXl6V2RQT2Zabm5jdFZaV3IzRW5KRGhoSGdnWk1KVXhBaUlPa290Y0hOVm9EcDZMQ09lQ3FnN21ybFMyTHZsVGx4SkJVWVNmQ1NPajBjeW5lY3VlWDlvYUFyLWRHVnk5ZjZOWmNZOFVpMlZvaG94aXJfZmdR?oc=5
-- **Source:** Bloomberg.com
-- **Published:** 2026-11-01T16:32:16+00:00
-
-## Apple Diverges From Magnificent 7 as Options Point to Jump to $355 After Earnings - Benzinga
-
-- **URL:** https://news.google.com/rss/articles/CBMi3gFBVV95cUxPR1p2TGpCQVNKcHZOOVpxX3VORE9jYy1YdjhPZWFocjF4NEg2eFpQVmN2Z3dQdTQ5YnJid0RCRHRTRTNvbnA1M1ZnT2Vxb19nREtVcE5GdDkzM0pKdkRnZ0pSdERhMUVmakVPakVaV2RZNEotVjh1WWEyZERVc2pHZjFyWFJJZFdvOTJvTVJMUU5WQ3VHSUxjT0pkQ25YNDFvb2xuV3BTakZleGYtV19JLTVnTHpySnF0V0h2dVRBQWZlcHI1emlWdWJxVno4Ui0yVW5BMVMySTFPcldpQUE?oc=5
-- **Source:** Benzinga
-- **Published:** 2026-11-01T16:15:06+00:00
-
-## What To Expect In Markets This Week: AAPL, PLTR, AMD, SMCI, SHOP, Earnings, Jobs Report And More - TradingView
-
-- **URL:** https://news.google.com/rss/articles/CBMi_gFBVV95cUxPUDg4NG1sN3hlbnlJNzRQRFpoWEMtbzl0VU5VYUVzcXdRSm8wcEtlMlJTcWRhUm15QjlwOGozSFh5MmNZN2JhRlUtTHV0NHZxVFdUYUJQV3JhTWlsa2QwMHlLcEN5cXRJWlpnaVBmcUhCRHFINFRFUHBfcTlUNGxqQTkxWkpKbHQ1djM0UEg1RTZFRVBXc29nQUVnc1QzTUgwcDh1X3NlaW5jdmdobEh3VnI4cXR3eG1lckp6MkVDZmdJMEVaYmEtWUJVeHFud0JwOFRveXZUaVNPZWdIMEtuZU1NSVl4T25YLTdRRHQ1eThZM3VUYTVlUFJrVmZ2Zw?oc=5
-- **Source:** TradingView
-- **Published:** 2026-11-01T14:06:16+00:00
-
-## This Week in TSLA: Elon Musk's Apple Mac Studio Jibe, Former Autopilot Lead's Vision-Only Criticism and More - Benzinga
-
-- **URL:** https://news.google.com/rss/articles/CBMi7gFBVV95cUxPZ1FhU20zZU4waVZUdFY4OGdoeDJqQmtWWTAtYm5WdVZYWFpVS1lpemNrS01hUVdvME1WWXlwMy1nQlRFQU0wNXJfY1oyb21RMUJtRFpUaHdGajZRXzZJQjdNTWRjNXZvMlVDd0VOc2twY1NuOXZWT1VRNGNFQkM0aENEeUQ1eXRXNVlINTFXUnlyUnpNZUxYYVJjVXR1ZU9hRlBDQW9jbVk4ajlBLXhibjNxekpEMVVsTmwzRkxlMDBjaU5ZSm5iS1g2aWxpSlNKNEJEQUVLa1I1TGlUU1VDcTZRWGJNdHlKWU5EdElB?oc=5
-- **Source:** Benzinga
-- **Published:** 2026-11-01T14:04:25+00:00
-
-## iPad mini Fast Charging Requires a 35W or Higher USB-C Adapter - AppleMagazine - AppleMagazine
-
-- **URL:** https://news.google.com/rss/articles/CBMiakFVX3lxTFBLbTNiakdROUNsbXpRYlB1U1REZXRNZFh5dnpNS0dTb3BOMUVPaFR0cUxGQkgtMnE0LVJ4N2draWFza21DX0ZrZ2s5VW1JZ09pbmRyN3BtVmFMdHE3Z3BmZXkzZEdHcGZmLVHSAW9BVV95cUxNa3lfQ0thM3NweWE2Ri1qQ2lTYllOQjgyRWdmVGZzMTgyTzFjd2IybDJXTjZ3R2RnbjZlMnNSczU5QlVOc1VzRFcxQXRsQXFvb1c0UlkwVnRnYUJQWnFUaXRNUE1FWV81cXRxdnpERFk?oc=5
-- **Source:** AppleMagazine
-- **Published:** 2026-11-01T12:32:26+00:00
-
-## Earnings Volatility Watch: 10 Stocks Are Set to Swing More Than 10% This Week - TradingView
-
-- **URL:** https://news.google.com/rss/articles/CBMizwFBVV95cUxQNnJWdldmVkFVWUUyM2gyRmFwTUE5QnNGM1B4RlprY2RDWFVwNzVxTGxrV1pDMU9FcFRmMEhjWkk3ZkFsdlpOd004WGE4WUlYa3QyeDNPZmw2NHI0WUNSb2pYT24xUFBCSnVrZ01DS0FUSXd5T3pqZVVfRm5XZVFzUVphcTZKOU5qU0JTQW5RaEp3ZWdUOGkxMVRTeldpM0FZYjVpb25La3dHYVByZkYtM00wWi04cTNrWGlwWVFUcG1jdF8yRUtyNVZEOE1PeFE?oc=5
-- **Source:** TradingView
-- **Published:** 2026-11-01T12:30:07+00:00
-
-## Apple (AAPL) Q4 Earnings Preview: Strong iPhone Demand Meets Rising Costs - TipRanks
-
-- **URL:** https://news.google.com/rss/articles/CBMiogFBVV95cUxNNDFZaHpfLU5wQW5MbHBsOUdXZF84RWg0aG9SeVBoWWsxXzhRd2UxWUtNUVFHcXljMmEwYjBlak50VzNCdUdkQlBlbDlUaHdDaHhic21RRFVBTWxYUUY1cTBCNzJGd1pXWWNSNHBXWTdVWlZHYVViWGVwdlA5YVBHTU1RWDBTbEk2SUh1SC1ORWxidlg0NEZXXzdOd3FxWVJnVFE?oc=5
-- **Source:** TipRanks
-- **Published:** 2026-11-01T12:15:42+00:00
-
-## Weekly Tech Roundup: Apple’s AI Strategy, Musk’s Mac Studio Jab And Tech Stock Turmoil - Apple (NASDAQ:AA - Benzinga
-
-- **URL:** https://news.google.com/rss/articles/CBMipwFBVV95cUxQcUR0WUlYZWUxNWZNTmtaVlpkOUhkeUtxY3RPODRhdXhDVGlzZkNMNy1YWG5CSjZSajJHRGJHUjB1a3Bhb1hKUEFpeTdWeElxQlprSHAtc2RfMFF5NWFvd0ZuZlR4LUVUT3lYcGRpdnRpYkU4TWhSN2xjakhoVFlhc210R0JPOV9STVpJdnZucGhpOEFVNUx2TW9qa2h0bU05NXhUNWd3bw?oc=5
-- **Source:** Benzinga
-- **Published:** 2026-11-01T12:00:08+00:00
-
-## Apple's AI Strategy, Chip Downturn, Musk Mocks Mac Studio and More: This Week in Appleverse - TradingView
-
-- **URL:** https://news.google.com/rss/articles/CBMi4AFBVV95cUxORUlmTEhpZjVIc1I1LUFOSU5YSkd4SnAtd3l1TjgwckJobkxQMDdKcWswQi1HRWpCc3hpMVVJM050MkpRNlZKN0RwbjhZY1VoZ2VVTk9TazNUSG4zQW00NG5BdXladnJJZnpMYkwtWXlCaU1DN0FWSExoLWFfTTY4T3NYaGdtOUVDdTZUU09SLXNrZEhUTzFVSHFpUTlIdmE4OXlET1p2SGszb25HeEpFSlRFMmZtazE1SWZHOGsyVlN3YWZmSlB6VTVUbHJrTHluWXpBLVEwcWJ0RmZycWlSdA?oc=5
-- **Source:** TradingView
-- **Published:** 2026-11-01T12:00:08+00:00
-
-## Apple CEO Tim Cook is stepping down, John Ternus set to replace him - ABC News - Breaking News, Latest News and Videos
-
-- **URL:** https://news.google.com/rss/articles/CBMijgFBVV95cUxOTXg5VFBDbk1xMmlfZEdLVW1sOW5pOUd5ZWY5NWtFbzFwQmpDMzQ3c1lrVjhyVEVpZmhuZmh5X0VHeVVNV1d5d3VWTi1jazI5QjRoRkFrMTd1TnJER0lkS05hTGR4WTQyNUFNeDBOMkRBRFhPNlFkQ2tNbDdJUGdJc0lVTWVQbWo3OW56OFdn0gGTAUFVX3lxTE9Zbjg0dnVYX2NodkpINTY0UXJaNGdlYUp5MXNFcTJ2c3ZRQW5lVE5rX1Z6dEtYUVJBdjdJRmVsMjJtN21MVWhlZFBveE9SYmJMeDM5VTRfQWUyejNTYnY3RlBBdjd0OWgwOXRwaWtEN0x1Y0czWXhuRlJSWVlQUy11LXE1TDNrUTAzZlFRWGw0OG5zaw?oc=5
-- **Source:** ABC News - Breaking News, Latest News and Videos
-- **Published:** 2026-11-01T10:26:28+00:00
-
-## Apple Inc. $AAPL Stock Holdings Raised by New England Research & Management Inc. - MarketBeat
-
-- **URL:** https://news.google.com/rss/articles/CBMi0gFBVV95cUxPaVZkdzZ4YUw5d3JrNGNzWDlWSENqNlNHN0V2QTFXVG9ZbWk3anY2cWMzZGN3cF9mbUFpYXY0WW5aMHNQWUQ3bllieDdYaG5Vb094c2NhRXN1cEx5NVA0eXpNa0xXU1lZUDh0SlZzeWZ4amhMTTY3WXhzcW5oUlhlR0NTaUZncTdFRXRFTlAyVWF3UkZ4RnMwNHVrZEUwT19DSmZkeDZTaW5hTDlGMmJkcC1NRFN5S1l4X2R2LVZMM3hUTEttMVhPN0tVWWw0alRta1E?oc=5
-- **Source:** MarketBeat
-- **Published:** 2026-11-01T09:49:49+00:00
-
-## USA Financial Formulas Buys 3,336 Shares of Apple Inc. $AAPL - MarketBeat
-
-- **URL:** https://news.google.com/rss/articles/CBMiugFBVV95cUxQTUhzUDgtMEFVV0RsbldGOTEydFlJcGFHOGJEQzNJZTJteFJ5OWhwTjFGaFZmaUE5TkZuYk00VDlBUHVuNWdFckwyMlRWTkJEUkMzc04yVjFweHZNeld5dWZBSmJOZWtldmhVOUcxVDRxMkRjaG1XZWZDVXYyMk1WX3ZOU0stN0YtcUk3XzIxbWVzSE1sbThZT0p4aDhoXzkwY21sNHVMYXRMWWVBUVEwejh1dFVVQTNLT2c?oc=5
-- **Source:** MarketBeat
-- **Published:** 2026-11-01T09:49:49+00:00
-
-## Apple Inc. $AAPL Stock: Kintegral Advisory LLC Boosts Holdings - MarketBeat
-
-- **URL:** https://news.google.com/rss/articles/CBMivAFBVV95cUxPQk8yV3RWejd0UW1wdGtPLVc4cFJZS29YOV8tT1NIMnBQTm1zZ2ZubG1PX0J4YmZOM3VaRkZjUFFBNDJnYlpabGdReHNKc0JET0Qxb0pMbnZuOHFCck5mLUJUb0p3dGV3V2NMTG5ScmhqYWZyMmlyUkhxb0RrODBhU2gxRlV5SFpJTVctQThKZ2NYZXRmaW83aTRrR09FUFdHQXBBaUxBMGRQdmdTOGtIRm5UZkxPZW1JSUhybg?oc=5
-- **Source:** MarketBeat
-- **Published:** 2026-11-01T09:49:47+00:00
-
-## Apple Inc. $AAPL Stock: Hengehold Capital Management LLC Raises Holdings - MarketBeat
-
-- **URL:** https://news.google.com/rss/articles/CBMiygFBVV95cUxQdk11VUpMMTlPbzdMVFAtWFYwRnY2eWZOUGRZZG9VNnVPMzlOWVpKeGRTWmhHZDliaU5feHQ0ekRvRVpYbXRhakN0ZjhfQklUb2prVXRFUHlWdGxqSXhya2ktQ2p2TENCN3NfazZMdV95NWRRellWb0xONWxWcURXeEdDR2xYYldTekRqcjBNTmV1cWxVZm5zY2Zkd1FmdVB1VWhaR083UE5GVkxmNVNEUEw5aGpkWG5BQUpHY1BzMGtDQXBtR0EwQ3Fn?oc=5
-- **Source:** MarketBeat
-- **Published:** 2026-11-01T08:51:13+00:00
-
-## Apple Inc. $AAPL Stock Purchased by CWS Financial Advisors LLC - MarketBeat
-
-- **URL:** https://news.google.com/rss/articles/CBMivgFBVV95cUxNenltZGRIa2tuYW55MGRXOUN2US05X2U3WHNnN0E3MW9pRWVBTzJHVXFmZDItT01aYU95QjFFZWo4ZWoyenVyRzdyNEtrbUQwc19wdVVPSWpMcS11SHBoNXBMNHRBWHdLb2JVMk9yamJpaWxaQzJrLVdoUWhCT1lBMnBxNFlic2FXdmJ5MHhSYU5xaUxOanNoV09YRFFkRGdTQVlkeUtiZmFhQ0ZYQ3RHeW43VVNRWERlWDRPa1BB?oc=5
-- **Source:** MarketBeat
-- **Published:** 2026-11-01T08:51:12+00:00
