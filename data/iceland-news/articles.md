@@ -1,8 +1,176 @@
 # NewsWatch — Iceland News
 
-_Last updated: 2026-11-02T22:37:10.127013+00:00 · 50 articles_
+_Last updated: 2026-11-03T11:40:30.261883+00:00 · 50 articles_
 
 ---
+
+## Founder of Iceland’s Vaki reacquires aquatech business from MSD - Undercurrent News
+
+- **URL:** https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTFpQVFJkeWxZQWZDb2lvTjZ1NS13MTZQMlh0T1FyMkFEOEI2VFRvQkc0VnNDY05iaUYyMkx4TnR0bUhvcTRNOU41bWxWSWl2QVFvRGR2TUNtU1l1TDUyYVNiU2NuUU5kZ1lvQVM4V3FJUmRpNF9UblA2ZmtoZlRnbGpkNXFqSDloUUJndTZwX3FPdjVPbDdhSjNlTWRoQW5iY1dBbEEyV0E0SjA?oc=5
+- **Source:** Undercurrent News
+- **Published:** 2026-11-03T11:36:00+00:00
+
+## Iceland Joins US Arctic Security Centre Advisory Board - Iceland Review
+
+- **URL:** https://news.google.com/rss/articles/CBMijwFBVV95cUxPbVVNd0pxenF2RjJDT1psek9GY2hhMFF1ejVVRkRwcVB4YVFPd2hCazdUellpRGpCSnlBV09ZQTk3Wm5nRDZlYldTZ0VCTTBjREtUazFIclpoNVdGLWdaaTFtMkcwQVpjcnhpVGJhMFprYUdZZ3lVZUJYME1VYjZGYlhWOXl0b0NrcG9mYnNpSQ?oc=5
+- **Source:** Iceland Review
+- **Published:** 2026-11-03T11:07:50+00:00
+
+## Icelandic Salmon more than doubles North America share - IntraFish
+
+- **URL:** https://news.google.com/rss/articles/CBMiogFBVV95cUxOaTIzLU56YmJqZXZZXzJlZ2ZmZGlRZ2t5WFpzaTgtVTJmZFRyeWFzcHNpbFJIVGVWVmpKMklUMVVYVUU3V2hrcngyVkJRYnVHVE9neFVWWUdJZU5HbnRDeVd1SjA2enlWaEdFckstb3BuLXdRQ2dnMmhkdWx0MWF2enh3WHZUdmRid3J2cEdQdHdWY29RUGVUeDlHUjUwU3ItTGc?oc=5
+- **Source:** IntraFish
+- **Published:** 2026-11-03T10:48:36+00:00
+
+## Iceland expands tourism offering with new wellness, hotels and adventure experiences - Travel Daily News International
+
+- **URL:** https://news.google.com/rss/articles/CBMimgFBVV95cUxPWTQ2a20ydTRUZ0ZHU1ZsSFNpODM1b2hpaTJfZmFYN1ZLQWU4QklDLTVNZTA2Y1hudTZSd2FkbnhCLW5aeC10azV5clZpVk1rSjRKeXd2Z253Ty1TSmNPSll5N3Fsb19ETC1YRWlkMkhxSWRXaGF0RkdQaENHcVJyUUZURUpSdkxWa1ZFSVJZc0NZSEExdldNcDB3?oc=5
+- **Source:** Travel Daily News International
+- **Published:** 2026-11-03T10:29:03+00:00
+
+## Minor mag. 1.9 earthquake - Iceland: 27.4 km ESE of Hveravellir on Tuesday, Nov 3, 2026, at 10:03 am (Reykjavik time) - Volcano Discovery
+
+- **URL:** https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVy1TOE9tWTdSSEhoRzBmZ2VDTkdWVEF4MTNVeTRCNW4zaEkzWGNJalhSU1E0ekVnb3dqcExZbmpBZ203OGlXcDMySEk0ZTlyaXdxZXRUaFFwaXRXc0FZdHZlM2U5aE13VDhtZkR6YzBFUjhfTHNNMWJuRXptaGJIemh3RzZnWWtwNENWMkxLUzZIa0FzXzlyQVlMdTRXZUl3dXJ6SUhDWUswV1M5ZkxMUXhrWmRjSTI1SEc5X044a2hTZw?oc=5
+- **Source:** Volcano Discovery
+- **Published:** 2026-11-03T10:09:00+00:00
+
+## Turkey Opens First Embassy in Iceland - Iceland Review
+
+- **URL:** https://news.google.com/rss/articles/CBMigAFBVV95cUxOVjh0bzVsaXBjcFQ1NXNkS1J5TDhSQjhxc1FvQU5jM1dzcndIWXV6R2FTdS1BOUhuQlp1TzJvYm5fNFE0d3JUQncwa254WFh1T2lIWGg4UHp2U25kR1FKU3lJaTVTY1lyeGFFOVZ4ZVFFd2lxaEFVdi1UQ3NOOEhCWQ?oc=5
+- **Source:** Iceland Review
+- **Published:** 2026-11-03T10:00:44+00:00
+
+## Iceland unveils major 2026 innovations and wellness experiences at World Travel Market - Breaking Travel News
+
+- **URL:** https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSm1tdHIyUnAwU21aaldsV2JtYzlCbDFCZkp5SEdmQkU1TmdMbVBBbFowM0xGMFBqT3BVbnpobVBmX2pDdVJSS1Zfc3hVYVBCSFlwUTRIeHNnaUNNbjRKVUd1QkhMY0d2NldCLUFteHpfTTZTYVJJOUxkb2pSdGpkV2ZCNWRnczF0SDRVUkpqY3FCdDdRSFdZR2hvU0tpY09zcXBSS2pLYnR3UnYtYlAzNzRsekJ5RW1vTFVRNzllbFc5dw?oc=5
+- **Source:** Breaking Travel News
+- **Published:** 2026-11-03T09:34:34+00:00
+
+## Strong Winds Disrupt Travel Across Northwest Iceland - www.thetraveler.org
+
+- **URL:** https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWElWRnpFY2RaWERlTVNSYXlJMkY0b1VMOENManVhdXFyeXBrejVvSm4xLUtSMHpMV2VVd1RYQm9yczd4a29Ib2Y1aU83QzdBaWFXWlhEQVZrcGI0bkJVck5JU1Y4Qlh4d3ZHb0N2VlYtTE1fcnZfX212NC1WaklyWm5pMVlRRm5I?oc=5
+- **Source:** www.thetraveler.org
+- **Published:** 2026-11-03T09:15:33+00:00
+
+## Ribarski calls up three debutants for the matches against Iceland and Estonia. Here is the full squad - Fakti.bg
+
+- **URL:** https://news.google.com/rss/articles/CBMizwFBVV95cUxPLUJUbVNvb0Z0Ym5EbDJsa1ZFSE9ZU0hEZ290Q3o0M1otUTdXTzhMbDY5TExBT3k2Ym1iYXRyOTl0YjdLc1NLemVtb19vU1A0Qm14cm5NakFwQ1ZURklkQkFvRjc0WjMxSjRwVjFmS19PNHdfUTFFSm1DRXQwakpHeHZGcWZxb04zWmtac0lWdU51bmJiTVU3UWRaVXNrZTcyU205U3c1eERESUhkdjRleEdHODVEdWxpOUk4S2FDMUJFRW1hdVZBbnNyUXMtdW8?oc=5
+- **Source:** Fakti.bg
+- **Published:** 2026-11-03T08:51:00+00:00
+
+## Strong Winds Trigger Travel Warning Across Northwest Iceland - https://www.thetraveler.org/
+
+- **URL:** https://news.google.com/rss/articles/CBMikwFBVV95cUxNZ0FHVmFZSnB5U2Y5aFhGbGVCQ2tHNXpNOWQ0S2ZkbDEyVXh1T0g2ZGMyMW5XbnB1ZlJiREc5QzA2RnFnTFQ2MC0yNGo0WXVEc0VQdE9CSGFFMXoxVGdTQXVHaFRtd21fclNaRHhHSFloZS1USzNKVm1UXzJqcERnU3JIUWRENG5Qb09wYWlLR2Y2cGc?oc=5
+- **Source:** https://www.thetraveler.org/
+- **Published:** 2026-11-03T08:34:37+00:00
+
+## Treble wins Icelandic Innovation Award after $18M round and Amazon, Logitech deals - Dealroom
+
+- **URL:** https://news.google.com/rss/articles/CBMitAFBVV95cUxNd3I1Y3VmLW5wR2ZXRDJvXzIya0tIQTdsTHJFTlVzVlFKUjZQS0J0RjRWeDlUWEJaallhNXZZaFI0YzRnaWJYcEZIUDRxN3FKVW5heGVETkZyQWFqRVR1em43RkdrU3dZRzFsZXhTdW94UTZ3ZFluUE1EbVhBOWEzTS14WlBJZ0R6ZVgxRDdCcmFFdkYtQ1g3dVZKbkxHcHdBdnYxWjdURXUyYzFGVzE3SXBrNjU?oc=5
+- **Source:** Dealroom
+- **Published:** 2026-11-03T08:24:44+00:00
+
+## Strong Winds Prompt Travel Warning in Northwest Iceland - https://www.thetraveler.org/
+
+- **URL:** https://news.google.com/rss/articles/CBMijAFBVV95cUxQRFNKVmtyZWZOejhRanpZLVlfenNuX2gwMGluWkptQXRtNW14NUFnTkItWWZoS3MzM1NiR0tQbjJHelBDV1hfNjJScC1nZlhnV1dsVlAtaEF1bTV1UWY1MzRoUlZQRVFCVlY3dktZdXowcjZGRVc3Vnp4Wi1ZaUZlaEJnVFBMVGZMTkpBTQ?oc=5
+- **Source:** https://www.thetraveler.org/
+- **Published:** 2026-11-03T08:04:37+00:00
+
+## Strong Wind Gusts Trigger Travel Warning in Northwest Iceland - https://www.thetraveler.org/
+
+- **URL:** https://news.google.com/rss/articles/CBMilAFBVV95cUxQT1RqQUhoS2FpeVJXRDNpOGJzckFVYk1CRHlJVU1rNUFCb2lsY1o0YTVHMUFyd3p2VDFRUHZZblhneWV0QUpTNDJSRVo3OXBOa1loemRUWHE0eHljYlQyMkpVMjZWOUxJalItVGc4UDNYVE15UUwxUDNIX1hlZlNyWU1HcE9RZlFVYVpIcjljYjhLQ18z?oc=5
+- **Source:** https://www.thetraveler.org/
+- **Published:** 2026-11-03T07:29:37+00:00
+
+## Strong Wind Gusts Prompt Travel Warning in Northwest Iceland - Iceland Review
+
+- **URL:** https://news.google.com/rss/articles/CBMiigFBVV95cUxOakNZNmc0M011WmJJSzk5YkFxaFFoS2pWRDJ4amZERVc3Z25ib1lkS2VwRkRfTnVRMWhIN1pxbWtPaS1MdzhER1lJeUkyd0ZwZ3RRMmNDdklmLXdGZ2dZaWhDRWFQS3lDeF9FWVBFdlFuTUo2cTF1d1ZXdnpDZWlDeU91RkVkeUI3Nmc?oc=5
+- **Source:** Iceland Review
+- **Published:** 2026-11-03T07:00:00+00:00
+
+## Icelandic Salmon - Third quarter 2026 results - GlobeNewswire
+
+- **URL:** https://news.google.com/rss/articles/CBMitgFBVV95cUxQV1hTNThiTTFRTmNSVmJCRHdmLUd1SHhCN1hKRzRyT2tWYVBKRUZiV1FvSG5pbkVxR0RvNk1GX2Z0bDlmNkVwVXRuWVBXZWxwb1NtXzFCMlAtQWpxWjhDaGhROXpsS001YmdFUUF6dllrUG1NNXAycjdwdUNvckxUdkZhaVhGTVRESWN0R0RubkptWlFmZERkUl9MWlU0OGE0OVU5NERsYTcyT2hQTkxMYXBqa0tFZw?oc=5
+- **Source:** GlobeNewswire
+- **Published:** 2026-11-03T06:30:00+00:00
+
+## Turkey opens embassy in Iceland - RÚV.is
+
+- **URL:** https://news.google.com/rss/articles/CBMigwFBVV95cUxQMS1hX2FMbng4YkZ3RmFGbmxDdTEwZE5BREFaYlVJVTNOWU9UTzlvSngwdFpFMDhiaUxCbmZSdFlDMVhOTWswZlMzZlA1S2tHZUNsb0VheGhDMmdBcmdQcWZ4TUFQRjl2QWRKbWZMd2RoWTJOd3FMZFdGX2pnRHhwT2pSQQ?oc=5
+- **Source:** RÚV.is
+- **Published:** 2026-11-03T06:30:00+00:00
+
+## Child poverty action 'needed immediately' - RÚV.is
+
+- **URL:** https://news.google.com/rss/articles/CBMijgFBVV95cUxPLUxiR05hOFhFblg1YVVCcGFXcjZEZFFBYU1zRWxmMS13aHNjZTltVklSRW5idHlQV3hMR3U0Mkk3d2lHTDJ1eVp3dFZvX3JuMzBWODNsTlhfbDB3NlNKRXMzUGZqX2pXRlBPalI2NmRqdmJtWG5PVmNJYTdZM1RHUi1NNFJ3cDFhTWZxT3N3?oc=5
+- **Source:** RÚV.is
+- **Published:** 2026-11-03T05:51:00+00:00
+
+## Weak mag. 2.4 earthquake - 4.3 km NNW of Herðubreiðarlindir on Tuesday, Nov 3, 2026, at 05:22 am (Universal Time) - Volcano Discovery
+
+- **URL:** https://news.google.com/rss/articles/CBMiygFBVV95cUxQbjIyWVF1V19zd2ItcWZ0Q0Z0V19xZHd6aS1qcVRoRU5wd1dVdzBic1hxRE5kOEZiN3Z0YlBuNlRTVUUtcDdndXFqWGlRS1NIS3NISU53QkV1akdkNi1FdXhXcmxtSkZvc1BnaXp5dTBHY3BycVRfQkRjSDRTR0xtVUUtUFdqclc5T0JsSFA0ZTB6TFdCMl83NExxb0RxOEFZVURyUFgyckdjal9jbXM0SElYbGN4dXE5YndQRzlaOHphM1VDZ3NtT0F3?oc=5
+- **Source:** Volcano Discovery
+- **Published:** 2026-11-03T05:37:46+00:00
+
+## Young Filipino-Icelandic performers celebrate heritage at Reykjavik gala - Scandasia
+
+- **URL:** https://news.google.com/rss/articles/CBMimwFBVV95cUxQQzNkN0VoZUdWUFdDSm1BNnJEakIyNUkzcVplTE5HTFRlQWZsU2VGUTdTNHVLZ1dPdGNGam9BbmtEWjhKWW1zZDhpX0lsTDM5ZHFLOEVDYlhiNzZBMnMzNm94YVdzbzh1Vjk2Y1FQbXFOVnJuQjlnMHJMaVB1ZlNVZUl5czYxcWdMLUZCdzh1U1k2aU1RZVUzVWhlbw?oc=5
+- **Source:** Scandasia
+- **Published:** 2026-11-03T05:14:49+00:00
+
+## The quirky shop on the site where Iceland used to be - Dorset Echo
+
+- **URL:** https://news.google.com/rss/articles/CBMilgFBVV95cUxQLVEtZUNmY21EdDVuY2dBWG95d0hYTzFzZTF0eEhDdE9sUVpwLUlKVExad0J2NWVtdk9hajdTenlWRGFuVldWSkEzQWFzTzd6RlJiVVlwelZGaVV5T3EtMjVlVkd1WmZUYk14bXlyY0d0bkUzLW1kejd1MzhweHNZb1ZUUXZoZEllMlFKTGhrSjdDbTFHT1E?oc=5
+- **Source:** Dorset Echo
+- **Published:** 2026-11-03T05:00:00+00:00
+
+## Minor mag. 1.7 earthquake - 51.3 km ESE of Kolbeinsey on Tuesday, Nov 3, 2026, at 02:48 am (Universal Time) - Volcano Discovery
+
+- **URL:** https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdk1KODB3MTBPdUc1NXYtb3ZaSHhVMWlCZGZpQU9HLVdCbHBrNHJUWGZKclNLdWQtM29mR3BWQzBPbUxrZm8tRXV6T2pYT1JfaWFEOXliZjFEUjZIREFFZktsbkZPOUE4bWJJb09pclBFdVMySmdLSlhtcmx5ZDU1SGoxMTQtWFFUZGxUcTdSbzJJd2FFMTFOWVFvVGptQVl4TzVwQk9EVGZxcmRtMjdKbjVsYmVsU3doODQycy1SOFg?oc=5
+- **Source:** Volcano Discovery
+- **Published:** 2026-11-03T03:57:49+00:00
+
+## Discover the film locations for Supergirl (2026), around the Cairngorms in the Scottish Highlands and in Iceland. - The Worldwide Guide To Movie Locations
+
+- **URL:** https://news.google.com/rss/articles/CBMiZkFVX3lxTE1USUEwakZRMEFZQ09IMEw1eFVfdVBtRUhDZ3dJaWhlNlUtelFfQ1B4OXN2UVhTY0V5SzJpSmNJNXB3UFVlZE1UZ3hwVmJ5ZVk3bzRkVXE3aWxkREhEQVpHWVdvMFV0Zw?oc=5
+- **Source:** The Worldwide Guide To Movie Locations
+- **Published:** 2026-11-03T03:48:13+00:00
+
+## Weak mag. 2.6 earthquake - Iceland: 49.3 km ENE of Kolbeinsey on Tuesday, Nov 3, 2026, at 02:43 am (Reykjavik time) - Volcano Discovery
+
+- **URL:** https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWHBNX2x6cmNTc3BuMEs1R3AyWllMX2NBUE9JMkJfWS1vUkZGdmswU3JQbTBVUzZrdFdKakVGaUxTTFZEcXprNE81VDU0RXBiV2U3c2NKZFVIcmRBakE5N0FhbkZ3VEJwRUQ4MXF6Qzd0SVpCTTlJdTZHNmdtckN0R1V2MTFZWFJ4blpiNnpJLWhyUktRRWtkU3Y5M3o1ckk0RzVoWGJZWGZjY0pGbnNVUHZaZFRrX1FtenF6Y3dKQlM?oc=5
+- **Source:** Volcano Discovery
+- **Published:** 2026-11-03T03:31:22+00:00
+
+## Weak mag. 2.1 earthquake - 52.6 km ENE of Kolbeinsey on Tuesday, Nov 3, 2026, at 03:08 am (Universal Time) - Volcano Discovery
+
+- **URL:** https://news.google.com/rss/articles/CBMiwAFBVV95cUxQb3A2V2MzajVremJEZGd5S3d5RmdMZlYyY2s0QWlkcmZfNm9mZW1qdTZoR0M4bWMzSzNybTB5OF9oY3Nid3NEOGFfWUxVVk5hTEJha2JiUW8tNU91cDlDV2g5QWZnVW4zYWVad2ctNUoySFhWME1rUWI2TkR6UkNSVk5lOTV1WGx5S3czNW01bk1EazJRTDRaVmRtRU9KZmFxS1VGSDNxMWlPb2pldE9PWVl2WmllWVhxYTZ3TS14QWQ?oc=5
+- **Source:** Volcano Discovery
+- **Published:** 2026-11-03T03:31:20+00:00
+
+## Weak mag. 2.1 earthquake - 46.4 km E of Kolbeinsey on Tuesday, Nov 3, 2026, at 03:03 am (Universal Time) - Volcano Discovery
+
+- **URL:** https://news.google.com/rss/articles/CBMivgFBVV95cUxOYmszWFJ6SEdSWDd0YXFfNmhBbDNSNm5YS1hrWVp6ZXZSYVJIOXhuMHV3cVNXYVBOUWtMTVNWRXktQnhYTTBFUm9lTEZ0YWhMTXo5MGFwZkxhRldfWVdBSmU1NDB1anpsUnBjQ3kwck9Cc3VxMEFHcWYxWDB5cmNpZjFGZTBoWHQxSy1NUTRpSzBlV21GUTU4STZMYUl0ZWJ2ei1fdllpV0tSZ1htV19ZVmZGZ09qQms0YThCemhB?oc=5
+- **Source:** Volcano Discovery
+- **Published:** 2026-11-03T03:30:55+00:00
+
+## Weak mag. 2.4 earthquake - Iceland: 47.5 km ENE of Kolbeinsey on Tuesday, Nov 3, 2026, at 02:41 am (Reykjavik time) - Volcano Discovery
+
+- **URL:** https://news.google.com/rss/articles/CBMiwAFBVV95cUxNc1pDQlZFbjlwSHJKQm92ajQzbWZoT2RsRkNSV092SnJHdURTZndGSmtDZ3dOeVFaeDBSSGpwOUtUc3VucmJrSFJiVWhYZk5UVGZJdUF3WnZmQ3RlalVHcUZGUmhmLWJma1hUWTFIT29XZVBld0dmWkgwQUFDdzFCRTl6VlVRa3M0NkhiNWpER1Eyd2owc2tyS1hIT0UtMzdCNDVaSzFMUExWRE0taUxHUzJfSEUxT2Ytc3BmS0ZmelM?oc=5
+- **Source:** Volcano Discovery
+- **Published:** 2026-11-03T02:50:00+00:00
+
+## Iceland October 2026: Leapmotor #2 brand at 8.7% share, Skoda Elroq best-seller - Best Selling Cars Blog
+
+- **URL:** https://news.google.com/rss/articles/CBMitwFBVV95cUxNanowQktzcklqVXNncjcybTBTTEo0MjZpSjhSZ19yZGhwRDB1NU91QllZNXdJQ3Bac2N1Z0piVW4xbjNDazBXM2lOU2NvQ0NNVEtCM3pQQUdIZ25Hc1YxT2xqTlBXWi1wT2lPbE9venAxTGJrWXZfbFA2Yk05clU0azhSZWk2SmV3UVlaSEpLSGtFMHBZSUVuNFFwRFNmaGQ3T003bWxKWVFkMzVzVC1Zajl2eGtWNzQ?oc=5
+- **Source:** Best Selling Cars Blog
+- **Published:** 2026-11-03T02:36:51+00:00
+
+## AltaSea and Iceland Ocean Cluster Advance Global Blue Tech Innovation - 01net
+
+- **URL:** https://news.google.com/rss/articles/CBMilgFBVV95cUxNSGRFNFVJOGtXcUFnMXhLMGhpUUxxblZLemlwek5UYXNVN2hiSFlPemI5Sm1yelV0UFVQckMwZS1vbWFCR3hLa0Ztb1lLTVhBaTg3Rzl6Smg3Ykh6eFR3U1BLUUE4aFliNm1mOEdrOWhtV2x0TWVrRXNEVl9fRUZUX1E2Zy1Zdm9xcVBjWjNvcWJZc2wzS0E?oc=5
+- **Source:** 01net
+- **Published:** 2026-11-03T00:54:00+00:00
 
 ## Why Romain Gavras’s Netflix Movie ‘Sacrifice’ Ditched Iceland for Greek Volcanoes - IMDb
 
@@ -135,171 +303,3 @@ _Last updated: 2026-11-02T22:37:10.127013+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMijgFBVV95cUxOUm9TMGRUak5pU1VGU18tVG1jYy00Mm95UVRMT2k3eXBlbGl6NmlTODR4c09sSjh2dVhBRVdDMXZXUWxDRVpFc1dIdEtaSm9sS2drczd1TVBVb1BpZ1FMbFEyZmRQU3dOSVhVV1pNUzJyNXdBT2Q5emYxYUdZbWxiZ1N5alVyeWlZRWxWb0lR?oc=5
 - **Source:** Iceland Review
 - **Published:** 2026-11-02T13:00:33+00:00
-
-## Father and son detained in murder investigation: Knife recovered - mbl.is
-
-- **URL:** https://news.google.com/rss/articles/CBMimwFBVV95cUxPNDcyaHZiZFJqS3I2X3ZZcUdIZS00bVRXY09kTGNadllhQzdEX1RvTlhJVzc3RzhTTjIySHRkZTdpcERacGZvTzFtdWxFekhSNWpNS3dFNldJZXFuaFJvTmRzWlBRRXhhVVUtYmJpOUNQb0t6Nk9nQWd0Ml9oNFVWNEJ6YmVHNmdzYkUxSDFRdHhPMkRXZXBacUx4VQ?oc=5
-- **Source:** mbl.is
-- **Published:** 2026-11-02T12:36:00+00:00
-
-## Finago completes the acquisition of Regla and expands into Iceland - Cision News
-
-- **URL:** https://news.google.com/rss/articles/CBMirAFBVV95cUxOM1pCWk53SG9vN1hIRUZhRXlxTjFiSTRTZDIxRUJNakkzemI2MVJRODZtTENkTnp6X2JWaHBLNzBIWHRIenVHY2w1QkY2dlBSejM4SFlIcXc1OWU0WjY4UmJQbDB5dkRRMlA5emJYUm1hV0IwcDJzSVZ6cFdhdnBJY3F1OFVUYVl0QmVWOXhIaVB0bHlEWUpFRDZOT0lwX2l3VFh0eUgzR3ZYVWNa?oc=5
-- **Source:** Cision News
-- **Published:** 2026-11-02T12:34:37+00:00
-
-## News - Iceland opens direct salmon flights to China - Fish Farmer
-
-- **URL:** https://news.google.com/rss/articles/CBMijAFBVV95cUxNX0xzbXBrcjZpV3BBZnBBcTZmWGlJM3ZUQmJUdmZvdjdSQVBjZ2ZhWXduc3VHUUFhWTYzWFVjY1VfSk11Ynppa3FUZnV0SDlMaTRmSWxGNGN2RF9vQ0FRdlRkcU1iOWhEc3poTVBEbGYtTTVkUkh3V1NYdWkxQl94VHlvY3pnZkxXbEhpRQ?oc=5
-- **Source:** Fish Farmer
-- **Published:** 2026-11-02T12:00:00+00:00
-
-## Family, friends, fans pay tribute to Rene Baterbonia on Undas - Inquirer.net
-
-- **URL:** https://news.google.com/rss/articles/CBMingFBVV95cUxNcVR4UU9BbHF5eXhRc2w2LTk5UjBER0M1NERIZkRVNkN1S0VpWFpUVWhtMHFydV9Dd0tfazV1NjVDcDFBRV81RXdYR0NJVXBGdFo5d0lwSnlXejVxTTFTVjhFNTRnRUw3Z3hqZkZaOTdmNlk1Z2xQd19jWmxVaUdtakdjLUJ4OVJIV0RpZnpSWkpkVndpUFlETDNyaTJaQdIBowFBVV95cUxNTUQ0Q2lOaHRvVUlUTjI2SGx3YlplczhxZUlvV2tIclJGTVpaUTNNdFd5amo1MGtZLXY1QnBTU0tQQlREX0F5ckoyNTh0UEVHdVpITVZwTFRyWE96dFhjNHo4SnI5SjVLQ2ZESHJqVXllYW50cXdKb25LS0hUb0lTSU5RZlhkaWdFckU5SWJIa0VaU1duLUZVNjMyamItNVp4bkdr?oc=5
-- **Source:** Inquirer.net
-- **Published:** 2026-11-02T11:42:00+00:00
-
-## Weak mag. 2.4 earthquake - Iceland: 7.1 km ENE of Goðabunga on Monday, Nov 2, 2026, at 11:02 am (Reykjavik time) - Volcano Discovery
-
-- **URL:** https://news.google.com/rss/articles/CBMivgFBVV95cUxOZ1JPTUI4YmNia0xmZFM1alJ0aXl0d0lObVlraVVqQlR6WVk2OHBkRnRjWW9NVUVYa1h4LTBiVnluVEtoNllNRzFPdi1UZVRkRmRCc0l5S2I1N254encyUmlHQ2szNjVCUWtmd0FFbm9wN2J5cTdOTi13MFNzNUdYWTdxYk1jYWdTd0hNRVJxeUJYcGlOVm1pR0drNU1mV0tUbC1MUnlndWdFLU9qRXFHbmozWUJRcHRfbUEwRkx3?oc=5
-- **Source:** Volcano Discovery
-- **Published:** 2026-11-02T11:14:00+00:00
-
-## Large Icelandic cod hits all-time high of €7.20/kg as wider market retreats from records - Undercurrent News
-
-- **URL:** https://news.google.com/rss/articles/CBMizgFBVV95cUxPSm5GMUs3ZE9FdWY0YUJwUjFubm5wQl84UXRtZUdtWlRIb05BUVFyenNWNktLZEgtNXlkMWFEbHFiY2VjejRUQjVEMUZsY3lhWDRiQ05SbHVBdjVyNkRhMDBHMWZySjl2UklackFqTGlsamNCaWlkdHZRaS0yNzJJR3J2U21OeEdVNTlPaW1xUXNJelZVQ0hkYkE0eWhCREVVVkFCSGlpSDFuc2tsVm1PRmtTZHFINjk2Tnd4MHo4eHB5akFvZE1aSVpncHMxZw?oc=5
-- **Source:** Undercurrent News
-- **Published:** 2026-11-02T11:02:00+00:00
-
-## AI reveals the five safest countries to be in to survive global disaster - UNILAD
-
-- **URL:** https://news.google.com/rss/articles/CBMinAFBVV95cUxPaks0aXpSaE1WMTczZW5XOTI2UFlrQ3A5YzItbmVwckdfdjhNRi1yOHJlQkN3dnRLUUdWcTMyTHBnVkNsUWNZZDBpTFAweGdrOXpBbVlZUmRSa2kzR1NsOFdxU1dKYUdlS0pUajJydzl2UmZYTE5vLWJfSnJ2MXhaVWdUZmdFYTRGQThjWW1Vd1VWckp2MWJYQlozR1c?oc=5
-- **Source:** UNILAD
-- **Published:** 2026-11-02T10:14:51+00:00
-
-## Reykjavík Meal Orders Fall 15% After Price Increase - Iceland Review
-
-- **URL:** https://news.google.com/rss/articles/CBMijAFBVV95cUxPQ3JLb2c1ZTA2TjNkVzMzNzZHa1l5Y2FzcWhrX0Q3YVRrVEE3SFhtcks4NGhrN1U2LUlEc2JmbzlNWlFHMy01aW94ZDhlZHY4bjQtRUVEaFF5a3VTbDlzdHRtQmM1dTRlYXFUbms2bG1SMk5GREZqbUpTbUlDMmhNUGZpYUJGcU5FYmdaeA?oc=5
-- **Source:** Iceland Review
-- **Published:** 2026-11-02T10:00:23+00:00
-
-## Amgen Bets on Icelandic Genomics and Monthly Injections in High-Stakes Obesity Drug Race - streamlinefeed.co.ke
-
-- **URL:** https://news.google.com/rss/articles/CBMivwFBVV95cUxOcTFOdGlUc1F0eTB6ZFk2VXVKYWRwaEgtWWdNSWVsYzZJc2d3bEZKVU5nbTJYRjlMSVF4LTdDWWw0R3RSVlhIcXN5N0pfaXY1NTZOSHhUeVpTSlZxaDFkV2RqLXRVSmFBN2dTWG1nMVhoR2hWQXQtOVp6aHQ1RFpSaE9NdDlXUi0tZVRZS2JiV2tEQlZMMkVJSnUxT0RpakQzWUNnVTNHRUZyQTM0LXhTd2ZJYUNUbWtRZXdpY2tzTQ?oc=5
-- **Source:** streamlinefeed.co.ke
-- **Published:** 2026-11-02T07:02:53+00:00
-
-## Renewed Movement Detected Above Svínafellsjökull - Iceland Review
-
-- **URL:** https://news.google.com/rss/articles/CBMiigFBVV95cUxQVHNiSWJZdTktLXkxQmVBZElCNU9XWmw5NUpnUHVFVDJhMFFxTTROZWx1VHZKd1dlNHRGZS1yRnNjbEZrLVh5TUl1VnV2VmVOOEJ0TE5BUWo4M0FUbWhndWNHVVFUNVpvdG9Ha05vczY2NTlZa25seDFYS2UzVTRvYmVTQ041MmRLWGc?oc=5
-- **Source:** Iceland Review
-- **Published:** 2026-11-02T07:00:00+00:00
-
-## 'Everything is falling into place' - RÚV.is
-
-- **URL:** https://news.google.com/rss/articles/CBMihAFBVV95cUxOaTBudjU5TUtISTd4WjFUaENZeXdBSlowTTlxTXFqNG96a3VHSkc4dnUxeWlFSVpkd2ZNMjhZTzR1TEpDTmZ1bVg3a015SmJhaHdBaGpfV2xiMXhYQ2xsS2NWZ2xSQ1VuQzJzSVhoeWowRkxtUy1Gd3dxQUcyWk5hTUJoXzc?oc=5
-- **Source:** RÚV.is
-- **Published:** 2026-11-02T06:38:00+00:00
-
-## An Icelandic finding - Diari ARA
-
-- **URL:** https://news.google.com/rss/articles/CBMibkFVX3lxTFB2RnM5akpFTEkwQWRMdW16SGpmZnBoRmMtUjd0bmR2bnFlM2pZcXFqOUtpVWRvQmFiZ1YzS1VJaTIyRzAwRzVCd080ZHA2YU5hYXd2Vy01ZmtwMmo0ZWEya1h1bmVKcUZOalNFRlFB?oc=5
-- **Source:** Diari ARA
-- **Published:** 2026-11-02T06:15:30+00:00
-
-## A weekend in Iceland: Northern Lights, spectacular glaciers, buzzy restaurants and lots of tourists - The Irish Times
-
-- **URL:** https://news.google.com/rss/articles/CBMi6AFBVV95cUxOZ2xONHEwUnd5TURtVDdXd2JxUmN5YVQ0TEdtRTByYVFOWlFCc3ZRVG1iUVd3dzlhWDdwM2FjdXBfMnlEVEc3djVyM1Z6ZW1aREFXSlI0aHBibGYwTWJTNl8xQ3A0LXJlVDBrZmxKMUh3WG5nYUVoNjRwczk0M2Rpb2VjYjB3aUZFTDg3ZWFWTzl2cGNMS19qcXhiMUp0Q0FCZGdDTHFVYjV2QjIyRjVZQzFlYXFTSzh4RFdCS0l0VE15aC1zUVBiOWZObDJJbW1nYTBTb3JFNDRvWU9yaUFaZlc2YjNXb0Na?oc=5
-- **Source:** The Irish Times
-- **Published:** 2026-11-02T06:01:28+00:00
-
-## A camping trip to the ‘other Iceland’ - The Irish Times
-
-- **URL:** https://news.google.com/rss/articles/CBMilwFBVV95cUxQQ2dCby1qU2ZMN1ZlMDZRSmo4Z2lxSWFvMkltZkVkRWJITEhEcnRoRjZzSy1yX1FDckktaExCZzZ3N3NzMkFicjVGdFhDRjg2NnhRWkVxZW9nY2J0VS1ITU11SkFnUk1NbXpRaVVseXE2U0dWYzI3aTZkZXJFQ1RuQXoyMVM2RzBJWHZaQktfa3hmM0lob2c4?oc=5
-- **Source:** The Irish Times
-- **Published:** 2026-11-02T05:40:36+00:00
-
-## Tómas Óli Gardarsson - Transfermarkt
-
-- **URL:** https://news.google.com/rss/articles/CBMi1gFBVV95cUxQbkVpOHpIYjQ3bEZ6cUt3VmVhN2xjV2dVV2ZZLUNkNXV3Vldsd1FMOS1yb2pKRmJlZFlWS2htQW1ydVI2ME5zY3c0QkdITldHTl9rV3RVLUpmRDdXcFpTYlJJV2ppS3B2WE4tVFhBVVg1Y19BcmxvT2ROeFNjMEV0dVY1LThKcUVUTXhxVFd5RnVDVmVTaDFWLVlSZ2F0X1ZGR0JRTlZEWEo0QU9IdXBwb2JORzJlYU42eXZzV3NsUWNReEJKQVZnaDRmdGhhN01vN2Fka0pn?oc=5
-- **Source:** Transfermarkt
-- **Published:** 2026-11-02T05:11:29+00:00
-
-## Watch The Icelandic DNA Behind Amgen’s Hunt for the Next Ozempic - Bloomberg
-
-- **URL:** https://news.google.com/rss/articles/CBMiqwFBVV95cUxObVc1aDZjbkVFeXBvaS10V1BQOVAtc1kzYW00QVBCOEFvZnhwMjV2aEY5dWxWdXFkNUZJcTRlTlpQbVc0MnpoX00xZ0k3ampFXy1KSHVQdWllRjNxS1dNRjZrbkszVGNGLTUzaTJxMlExVkg1VGIyUjZ2Y0FhWFNLX09neWZOdk9MQXVra3g4TC02c3NpcVpGcy0xelhUWl9ldkFjNTZtcUs4eUU?oc=5
-- **Source:** Bloomberg
-- **Published:** 2026-11-02T05:01:48+00:00
-
-## Hunt for the Next Ozempic Started With a Trove of Icelandic DNA - Bloomberg
-
-- **URL:** https://news.google.com/rss/articles/CBMitAFBVV95cUxNZElhVHhPcVZUQ0FDbk5IWS1nZ01MeUhyU1o1b3J1RnFOdzNBUVk4X3BMSERPQmlIU3N3cl9RczA0NnVfNUhGT1cwY1Q5T25WdDBVZGpKNkNJQ1MycmpFN0d3RGF5N1c0M1hadkpYeVZOSE94cW1icnlTa042YmtUa05fcHNGdXNrMW9Gdkw0dVMyNUswa3ZDNFJQMGxJTW4xZlZUWHF1YUVITmZ5cFcwc2ZqVDI?oc=5
-- **Source:** Bloomberg
-- **Published:** 2026-11-02T05:00:00+00:00
-
-## Earth is splitting apart in Iceland and humans can literally fall through the crack - WION
-
-- **URL:** https://news.google.com/rss/articles/CBMiygFBVV95cUxPUWF3RGxuR3ZRcHZYMUpTc1JzYXNVTGdYMUxmbnBQUHhSWlhBVGdkYVNUSUFocy1RNV95cG1SbjNuMkZua0hyNzQxZ1ItY1JxTEN6MjRiTHF2d1N3VnhudV9CZExXeVhSRXJ3Y1J3TGIxUDhONHZ2bkQ5LTI0WjhyaWFWOVlpa0xLUXFTN2hQTzdQdlBmOFQtdnppbnZMVXdJaWNHSGJET2ZBVGVwangwd0FlNGJzbmdzZXlYWDBsQ25paU5vSlJKOWJn0gHPAUFVX3lxTE1ITnUtaDA2Qm04TGt4cV9WeUtReEREOEV0VXJ1b3YzX0IxeTdFS0dfSjlRUVRCU2drbnUxQUVIS3h1WFpUQ3AwOEZrMFdOaUxVX3EwX0VPYXk3cUF2RjFlV05WMDJTV3MtVmh0NjlQS3dvY3dLeVluOWhmS2YxZ2RPa01rZDNjN0VxY01oMm5pMGhncFNIZDAxWEhEWWVwYUREVzlLUTlBMTRSUjRrcGpNazVMYTFaeHFJZ1lvNmlBUW1NRGxuVVZXWjJMUGFVOA?oc=5
-- **Source:** WION
-- **Published:** 2026-11-02T04:16:00+00:00
-
-## Magnús Már Lúdviksson - Transfermarkt
-
-- **URL:** https://news.google.com/rss/articles/CBMi1gFBVV95cUxPSjlFLVhyOUpEQk1FeXZfbnZTZEhCQlBrSWlkX1dwZ2QtbXBra1p6dFMxSmdNeHVQVUFBUWg2cEl1bVNGLWZSdW5meXg5QmxqOVFoRGJ2WVpRVUhKSC1MeVh4cWY3Y1p5VU9GRkFfWlFuSTU4RkZjUWRFdEJkNWZtNWZwRGE2bTBza0Q2SHl5TnhhV05zQl9HMzVoX1FaQjgtY2QxdXQzM0FfZFp3TGtwMjF2dEV0UjdtQXhuUkw4ZWhxU3M2NlRrbDY4eWxhdTVaZ3FYR1pR?oc=5
-- **Source:** Transfermarkt
-- **Published:** 2026-11-02T02:12:51+00:00
-
-## Iceland's Blue Lagoon is seeking to raise €100 million (about 149.6 billion won) through an initial - 매일경제
-
-- **URL:** https://news.google.com/rss/articles/CBMiT0FVX3lxTE1NTGVqUXg5aUx0d2Zka0hGR0h2ajc0a3d5R2x3OEpGQ3BIN2xEZ0V0aDNfTWxXTWk4NExXWWJRUjdWOVFTSVZnN0hTczZmZDQ?oc=5
-- **Source:** 매일경제
-- **Published:** 2026-11-02T02:11:38+00:00
-
-## The Cheapest Time To Visit Iceland: A Study of 350,249 Bookings - Guide to Iceland
-
-- **URL:** https://news.google.com/rss/articles/CBMif0FVX3lxTE1iRUhvbTE5RUhpQTliRlcxV1cwRlZhamhhUjJLeDV2VTB1LVRtcjBMSGpDR2I2SzNKQVdUZm8tYzVJbG4tS1YtNkxEbkJRSGo3RzhybTg0T2N4Z3VRclJIcGVUWWM4T3VkeG16bXlqRmhGNFhobGtXVHZvaTMzaUU?oc=5
-- **Source:** Guide to Iceland
-- **Published:** 2026-11-02T00:17:31+00:00
-
-## Blue Lagoon plans Reykjavik listing as Iceland tourism demand grows - Traders Union
-
-- **URL:** https://news.google.com/rss/articles/CBMilgFBVV95cUxQRFRtR25FaVlBZXBhZDMwdHY4cHR6QUIzZHRVU0hxVVJwWEFTWFZRQzhMQ3dFdWtWcENBd1Z0WlJ1eXFSVUJRVVctWEFmdVBZeU5CYlRkanQxT2tuRkVFZGFaSFk3NC1vandtS1VfUDd2VjlBU2syYWZla0lQU0V6MWM2dWxWaEJtX3FYMmhEMkZ1LTIxbUE?oc=5
-- **Source:** Traders Union
-- **Published:** 2026-11-01T19:10:24+00:00
-
-## Walkers Variety Snacks Sharing Box recall: batch 107543 - Skint Dad
-
-- **URL:** https://news.google.com/rss/articles/CBMic0FVX3lxTE5jUU4zUy1ldURHTmx5Yk93TjhoRl8tUkNYUlpCQkVmNXU3T2Jkci02WS12YV9scnotUlltak5wTnh2NXpfR1ozUU1ieXI2VWhFZmt1Q0xjUml0OGRyaEcxaFNBWkMzRV9iMjRJNUZOeXpsSWM?oc=5
-- **Source:** Skint Dad
-- **Published:** 2026-11-01T18:40:00+00:00
-
-## Iceland's Blue Lagoon seeks $115M in IPO to fund tourism expansion: FT (GLCR:NASDAQ) - Seeking Alpha
-
-- **URL:** https://news.google.com/rss/articles/CBMiqAFBVV95cUxOOWNERVI2Smtsd0QwdFExckZNZlFPZEpWVEt6OGlNcjNFaUJCUk9INjNzcGd3NW1KdFA4VWpYMURHaUFGZHdNcmVFS2FZY2N0VlZ4alhJMlJpRXRycnRqSzNqaW83d1J4azZRS0w2SVFkWHZMVG9Oa3Rac2tXNUFJNlVFRElkWmxrMUhrdGhDNGZuWENzUWFvRHFVSzBQc1Z5VEx2N1pES1k?oc=5
-- **Source:** Seeking Alpha
-- **Published:** 2026-11-01T18:30:17+00:00
-
-## Blue Lagoon owner plans to float as Icelandic tourism booms - Financial Times
-
-- **URL:** https://news.google.com/rss/articles/CBMihAFBVV95cUxQWGgyUlo3ZDZpbHI0eVhib0t0bERrVUpMZFpOTmo1eDNHY3IxNmVuclh4di1XdTU1dGRBaGdYN08wQ2ZfSkJOQmZ1b2lPTW1fX0JWcGV1Z1VETTNjbEpWbnJYc25jRUE2NnFxSlRNRGdqWUdnQzNnYnJoV3Nuc243d29KUUc?oc=5
-- **Source:** Financial Times
-- **Published:** 2026-11-01T18:00:03+00:00
-
-## Iceland’s Biobuilding Cabin Uses Hempcrete Grown at Sandhóll to Test Local Materials - freeyork
-
-- **URL:** https://news.google.com/rss/articles/CBMijgFBVV95cUxNNkt1dFk5ektnenhMVUkzZHNkU2RnbFF0emtjNVdZeUFJeFRHcHotcFk4WkFPZUFxNUhmN2FEV01vcFdFMDMxV2RrdnZ4UE1ETVlJQlF5R0xLN1dsbW1ZQVlOdWtCUG1fZWJjbF9wZDJlLUpubF80cHMtU095OWVpN1kyYmQzc2R6b2NRdlBR?oc=5
-- **Source:** freeyork
-- **Published:** 2026-11-01T16:55:20+00:00
-
-## Iceland shoppers can get £20 bonus – but deadline is days away - Skint Dad
-
-- **URL:** https://news.google.com/rss/articles/CBMidEFVX3lxTE5JS2pIQWdHdU42TXFqUjZ6RWdGNnJhNGJGX19VamJQZ0hWVHdibVFUYkdpa0RGUXNQWkZ6VmRfR3lnZHo0YlpBNllkTmthRXlwZzJjQmRpM3A1Qkp0UUdlMXR2OElkbURnUmh5TW82aXo3dWlJ?oc=5
-- **Source:** Skint Dad
-- **Published:** 2026-11-01T16:24:00+00:00
-
-## What to Do This Week | Iceland Airwaves, Oldboy and More - Iceland Review
-
-- **URL:** https://news.google.com/rss/articles/CBMikwFBVV95cUxPYzdNRjc0ak9NTDdrZG9mbS1ZX09NWkRZQVd1LW1YSG5TZ1BLdmlkZjlsNmtDamhnNDUtQlZaQnJ4YnNsZzdkODdvUEFhNkJoR2xVTGNNSFN0VGlSX09kNC04d05CUU1CdFY3SjgxaWxkZjQzdE5NcDF1ZHpDWl9pN3Z3dUw5dk43TEJ5NmVHMTh1a2M?oc=5
-- **Source:** Iceland Review
-- **Published:** 2026-11-01T15:30:06+00:00
