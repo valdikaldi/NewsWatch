@@ -1,8 +1,68 @@
 # NewsWatch — fusion energy News
 
-_Last updated: 2026-11-03T11:40:30.689604+00:00 · 50 articles_
+_Last updated: 2026-11-03T19:11:23.652267+00:00 · 50 articles_
 
 ---
+
+## Nuclear fusion developing as new energy source - Odessa American
+
+- **URL:** https://news.google.com/rss/articles/CBMihgFBVV95cUxNT0RwdG1mRjdvTlRuU1VKUDhHSWNDdkhLeXRhdmxQRk45eVBKTWJhTFBObHM1bnFpMlFYcGNHSzhSaF9LS3ZiSkhkQjk5WEF2dlFoMGFqYzVVZjg2MG5YdTdMb2phVFRUcE1RN1dfM0Y5RXVlZFRFZ3Q3dmRSalIzNGNLWks1dw?oc=5
+- **Source:** Odessa American
+- **Published:** 2026-11-03T17:29:50+00:00
+
+## Amentum and Kyoto Fusioneering Announce Strategic Collaboration to Accelerate Global Fusion Commercialization - Nuclear Industry Association
+
+- **URL:** https://news.google.com/rss/articles/CBMizAFBVV95cUxPNU1tYmQ2a19UUnZwOVBSZExtaHVDbEVrQnFPaUR5QzIzLU9QMUpsbkwzaHlObl9ka3l2RFFWTFN2dDZvWUZTUXVjUTZGVFZQU21DUnJYVHZrdEdCUks5cW5tcUFHcXdyUng3LTZoeXF3X2JRQmszMzZHSV9aaGhiRmhOQ0VOLVZZalo2Z2J1VDVDN0hYS3cwY2daZzZDNHNWODZDUWFrb3lYcUE0dVQ2Um00UUY2bmxKTGtDdUdveDBOWXh1TFVwUVplZDQ?oc=5
+- **Source:** Nuclear Industry Association
+- **Published:** 2026-11-03T17:10:42+00:00
+
+## UC San Diego, OpenStar Awarded DOE INFUSE Grant To Advance Dipole Fusion - UC San Diego Today
+
+- **URL:** https://news.google.com/rss/articles/CBMiogFBVV95cUxNWmVyTW9HSl94Y3BNSFZocTU0OVNickVvY3h6ZGNSYW52TGdsZXFfbERFTEFNcHFtWWN6aVd6dlhmc05Ic2RWeld4QzVOV3pGNkZXbTY3MmFydDNZRFFfdkFmOE9OT0s5RWZOY0NseWJkdnF6Y1lKN3FvQUp2S2p1MDJhTEhaRXpXRElPYWpKZVJaM2NXNGxNelhrNjYyYmxmQWc?oc=5
+- **Source:** UC San Diego Today
+- **Published:** 2026-11-03T15:49:50+00:00
+
+## Thea Energy Appoints Former Oklo CTO Pat Schweiger as Chief Engineer - citybiz
+
+- **URL:** https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWXhSd0NBVEE3M3lqV2RpY0lFQXMtSHpaSEhnZGdJX1FXdTFIajlyUXV2azYxbE5YejY2ek9OUktYdEFJOGQ5elc1cldfN2VKRWlKbTNxVnMxUXJwdDNvekIxZDJGSzVET1RGNVNuSDFlVVpfdHk2MGtnRUpGaTgzcndGckFJZHc2YVM5ck1raDhiUGZ3X2w5RUpHVm1Fd0UwdVRvNjBDYXdMeUU?oc=5
+- **Source:** citybiz
+- **Published:** 2026-11-03T15:07:46+00:00
+
+## Amentum partners with Kyoto Fusioneering on fusion energy - Investing.com
+
+- **URL:** https://news.google.com/rss/articles/CBMitAFBVV95cUxPTjVwTWtVTWNVdXF2eno2eEt3bC10d3RGd0FHNFVSMUg3YlZZQ3VxZExEUW5WbHZ0a20tQlpPeWZOLVNRU09wN096ZHRESkV4aFp3VkI0MklmTWp1TnNESU5ILUs0RzllMmREbFFCZF9PS0pHelVITU5tTGNUcFZDNjJyLWFoUTNaRkRxZWhiWExKSnZSakNmSzNGaGQtUjQzMWplRzEtUHpZQ3VVcklnNmoyVDM?oc=5
+- **Source:** Investing.com
+- **Published:** 2026-11-03T14:16:24+00:00
+
+## Fusion companies sign agreements during Japan-Germany meeting - American Nuclear Society
+
+- **URL:** https://news.google.com/rss/articles/CBMioAFBVV95cUxNbThoQVFyVkMyb3VsVFNNRjNGSEo0TlNUUmNUNmlTNFhUbmFJdGQ0dDRhZHJGV1ZZaXhVY0RYNVQ4d2lTZTBxS3d1Q2NMcHk5MUs1cW5kdlRqQUZXQkRDM1BxNW9PTFk0V29XcDdVRE8tN05KX0FyeWcwVUVkWUVGZ1o1R1N6dVE0WWF5RFhpT0E3MUNYa1JBVzFWWjBLZVMy?oc=5
+- **Source:** American Nuclear Society
+- **Published:** 2026-11-03T13:56:11+00:00
+
+## Thea Energy Appoints Pat Schweiger as Chief Engineer - The Manila Times
+
+- **URL:** https://news.google.com/rss/articles/CBMixAFBVV95cUxNQWNQMTlKbEZHSFVHdmlwV1gycDNkS3c4YXREdmNoS2JUNG5TemZXakhLYjlQVGdfQ1haaHVWV2M0b1gtakhpRS15ZUtJWUJiU0phdjFwQmlBb3lHWlhuWmRhVkl6UGhLRmc4ZjlMNmFTM2ZwbzVkdXpYSHJVa1ptdnU4VXplSzZDS0k3dTR1a20zV0lwU3NXMTNxb0lSZ3pxTDI4UmFMS0Z4Tk40cFFMZzdaOURvNzNTOFNWWVQ3dGNVMjBS0gHKAUFVX3lxTFBIUzJxdVJLZEdnb1dEVG9kSWlCVEI5b3hoalVIMXBJZTNOU1kxREwyYVRwSGJTOHpaZzZsSnZVOG1pNXJrU1l6YlZvWmdXZjF5ZHdlay1FNWZvdlpZMXR3b0hldE1KekhRX2pLWmxaTWEwRUtfa1FKUnZMOFlLYzdQSDExVWN1MlBOOGRETzU0LW1wTHNmTjFQaUxWS3RNTkxfYjV3WDhSaDhmdEdtMDRfMm9LQ2VyZmUxdlRIbWpPWjFiR3pJTzl5Rmc?oc=5
+- **Source:** The Manila Times
+- **Published:** 2026-11-03T13:38:28+00:00
+
+## Amentum and Kyoto Fusioneering Announce Strategic Collaboration to Accelerate Global Fusion Commercialization - Press Release Hub
+
+- **URL:** https://news.google.com/rss/articles/CBMi8wFBVV95cUxQTlNRS2M3VWxKU3JGby1GVEsxNGNMTkRyYV9xc29uZWtXMTRUcXQwNm9HZU9xS2tyOWtDNXI3bmhoenNYeV84TFhIOGNCZzNRbHhvdWV4QThURWxudjhkRkJISlZDQ1F1NEtkZ3hTTlZzVGppOUMwU3JVVGpkd3IwZFFXb1RYUXFHZlZHOVU3Z2tDeXBlRUR5LTAxa3JFS19FRmFEMkNBU2lLa2RVRzc5Vk5QVG1EZEdKZmU2Y0lvX2ptYzZUUTFJbTJxdENMR3VJSllvNExWc2xlUHJUVkxFcFIwN293QzVRT2lIT1dyX1dQV1k?oc=5
+- **Source:** Press Release Hub
+- **Published:** 2026-11-03T13:34:24+00:00
+
+## Amentum and Kyoto Fusioneering sign MOU on fusion energy - StreetInsider
+
+- **URL:** https://news.google.com/rss/articles/CBMitgFBVV95cUxNZUpRWWxHR1JSaWY2cFQxLUZ6akhycndCaHZJT3NHMzhRZUNxZFQ0SlZ6VnJLbEZIS1VpcVEzTElldXRieHJoU29ZQW4xcldjdEtjZEVBRVNpZDVaa0RtX19hRDZTbEhuMENMaV9tZWdWYlJXUWs5ZzY5LXBWaUVUVUFGSmNKRmpoS0h3VGVTaWVBQ1JVWDZRVlVHekItZ25FQkZEbU5XTWR5S0l4SmIzel9DMk1TQQ?oc=5
+- **Source:** StreetInsider
+- **Published:** 2026-11-03T13:33:21+00:00
+
+## US fusion reactor could unlock 24/7 power using helicon current drive - Interesting Engineering
+
+- **URL:** https://news.google.com/rss/articles/CBMigwFBVV95cUxORFN5LWlZQWhDT1NwZ3UzcnNmdk95T0hYdEYtdWpHeG1wcEVvdW9aaU53dTVJZmJabnFOREZGckFnb3JYN1dHTWUzX2FYV1Z3a040ajNxeVU1eTFrazZfdDJJWGxCV25aRDIycXFRZjB3MUlhVkdLS1lIcjNxVi1mZDhRRQ?oc=5
+- **Source:** Interesting Engineering
+- **Published:** 2026-11-03T13:03:00+00:00
 
 ## 12.9% of emerging quantum technology innovations are already at the operational stage - Open Access Government
 
@@ -243,63 +303,3 @@ _Last updated: 2026-11-03T11:40:30.689604+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMidkFVX3lxTE5IZ05qQTU3QlJPVkpkQkd0bVI5WGRGNTFOX1VSQmU2TGR2TkUwX3l2N0JxOG9rLUR5Z1Q4SEV6UlRRb2Nhc2RIR0hGa0otbTZaTWlDME1tWVN6bzdlQkNJUVBfOXIzRlBXOUo5aVMydi1pYnRZN0E?oc=5
 - **Source:** AIP.ORG
 - **Published:** 2026-11-02T15:25:38+00:00
-
-## Fusion Finance swings to Rs 86.5 crore profit as asset quality improves - The Economic Times
-
-- **URL:** https://news.google.com/rss/articles/CBMi4wFBVV95cUxPejZVdjNaOEVYd0hNVHV2WUdWMkQ1NmpTSE8yN3VZMmpuRFlnR3ZUSUpHcjNWd3c5bnllcDZnNXdIeHhBeUZCdkF6Ni1FY09YLXgtNktDR2pZWVlsUlByRWFTZkJVNWxMdVZ3eS13Zzh1cFl6QTNqMVVSSl9VRThXZF9RNnllc0FSaUViMmlXUGg1N3VKZVJRbGxrdXpPZGdPVnRaaXVHUHNMQWM0TDJ1T1V6Z3NEZElQVmwwVDFteWJFUUsxQ1hIZS1xWlNIU0o3RE1SWmFEc2t1clY2VTVEUk9ta9IB4wFBVV95cUxPejZVdjNaOEVYd0hNVHV2WUdWMkQ1NmpTSE8yN3VZMmpuRFlnR3ZUSUpHcjNWd3c5bnllcDZnNXdIeHhBeUZCdkF6Ni1FY09YLXgtNktDR2pZWVlsUlByRWFTZkJVNWxMdVZ3eS13Zzh1cFl6QTNqMVVSSl9VRThXZF9RNnllc0FSaUViMmlXUGg1N3VKZVJRbGxrdXpPZGdPVnRaaXVHUHNMQWM0TDJ1T1V6Z3NEZElQVmwwVDFteWJFUUsxQ1hIZS1xWlNIU0o3RE1SWmFEc2t1clY2VTVEUk9taw?oc=5
-- **Source:** The Economic Times
-- **Published:** 2026-11-02T14:43:00+00:00
-
-## Tronix3D plans $4M expansion of Pittsburgh 3D printing operations - Plastics News
-
-- **URL:** https://news.google.com/rss/articles/CBMicEFVX3lxTE5hQURQVXp2eVpSUFpnWWtOQVowXzNzZ3ZPQXVsamVqN0J4RTF3cTBPXzhpNk1pa2t1YVZ0MWtuOEV0eldLXzZFVnhmTGxkQkpfTU5YX01NRDRMQWpwbTY2N0dGbkdJVWJoMGtKWjBlMng?oc=5
-- **Source:** Plastics News
-- **Published:** 2026-11-02T14:18:00+00:00
-
-## SuperMatics Is Building AI to Find the Next Superconductors for Commercial Wire - Business Wire
-
-- **URL:** https://news.google.com/rss/articles/CBMi0gFBVV95cUxNZWRuRGFxMVZpSy1NTnpORmNmN3BXdjgzUXk0WnBTT2ZMZXJsYjg5aTFyRWkzOHRJS3l2RUZoN1lEOG9lQnVGNGhLbXY1S2k3ZE01MWRnVVFxQ2ZXN1VyWkxQVDJTNmFCNTg0bnRORzdEMzFUUXRGRHVtQUFhS25iTnpEd1lYdE1obmxPR3JWVC1qMS16V0puNm9BdDVfNXQ5TnM0MVZfUnI5YlZHaWRzY2lYMjFuZnVmZnhuX1FLWUJ2MEtpR0RDU1pMOGtITTZJX0E?oc=5
-- **Source:** Business Wire
-- **Published:** 2026-11-02T13:05:00+00:00
-
-## General Fusion to Host Third Quarter 2026 Results Conference Call - The Spec
-
-- **URL:** https://news.google.com/rss/articles/CBMi6AFBVV95cUxQY08xZVE3a2JSM2pVTDludTlxejYyMnZORk9KZ0ozQWZMMlRhb19wdXlQWEpHd2VYcTNtUUE3YnpRUDdwYnhMNFVwWlBkam53VGdxU3dBTjVUejBsQVdTRGhLTkdqY2pkNDdSLW9vR2xHRzVKbllvSGRyWS00eHBVTkxDWkY2NGVJdUNRVGRUYXktc09QaWd6MVV4YmVDd0VGVjJWNjI1dGdYZERJV1VVaGh0bFljQzBpNWx5V2tMWFhxTjRSdXNMQnV2Sk9velZrc2hQOTk0WDZ2c1RKeUlDdXZza2RoMzQ5?oc=5
-- **Source:** The Spec
-- **Published:** 2026-11-02T13:00:00+00:00
-
-## Pokemon TCG Pocket: Best Alolan Exeggutor ex deck guide - Sportskeeda
-
-- **URL:** https://news.google.com/rss/articles/CBMilAFBVV95cUxNSUZpWnNDVm1nd2wxLWlXZEZGemtsOXZzQjRsQ2pScHdCTWJzXzg3aGFHcFZrNG9rZXRQXzN4TE9KdmlsZ0o1YzRWQjF1Tk5iYjVXTklubzduWmRRdU15STdUOGYzcXk3cGd4Y0hZMXhQVC1wZEw2NFktQS1aRUNOaElRM2E5Y2hzUENENGkyMnAzLWtw?oc=5
-- **Source:** Sportskeeda
-- **Published:** 2026-11-02T11:09:00+00:00
-
-## Federal Now Offers Fusion Tipped in 25 Creedmoor - Outdoor Wire
-
-- **URL:** https://news.google.com/rss/articles/CBMinAFBVV95cUxNa0ZGejBON252UkhhQUllTVlfUUxyU3dMNTJmR0JUeWlMeUsxUkRsUWd2M3pfQU1NRnp1UVlzSzh5X29PYzd0d2hra0t5ZzFsTnFEenR5OFl4SGhHNFZwSnlzZ0ZwdHh6WXJQSnBRV2h6aHI1VUFBOUVpMTlOUmlHS3VYd0t5dUNLbVBhUUt4VHZ0WFdYSHdJRW8wMlA?oc=5
-- **Source:** Outdoor Wire
-- **Published:** 2026-11-02T10:02:10+00:00
-
-## Pranos Fusion: India’s First Private Fusion Reactor PRANIK and PRAGYA Tokamak - INSIGHTS IAS
-
-- **URL:** https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVjBJVjhHMXU5a1FpYndRMEZIaE1HX2Zla002bThabE9HY3RuSFlyWVRhSWE2d1JpX1JHRlg4TU92YktQMVFSaDQ5alNiZVBGVFo3a09iUDZTQkxNLWFVVXhOWklKNDZkNVVHbnBKYy02enJzSWdMU1hyZGJkZlJMT01DQ0ZzM2t5MnBsSWJld21naE1VQTU1ZTY1UDBGMEt1VUFKQ2EtRVFGYlJnTGdEbWVLcFhObjV2Rl9F?oc=5
-- **Source:** INSIGHTS IAS
-- **Published:** 2026-11-02T09:57:42+00:00
-
-## India’s first fusion power company sets road map for a nuclear reactor - PressReader
-
-- **URL:** https://news.google.com/rss/articles/CBMihgFBVV95cUxOUFhrbzhzU3hGUXhVNjJ0OEZhSWVNakdHaWM5Q1MxdjNfeTFncWdpcDRFTTdfbEFSU3Z0UWlZNlVkSzFtcHhHaVAtdkNMZVM2NF9IMURQWEpJWXFWNTRXVkYyU0lPMUxwS01seDQ1bUtWVEZrYTJGR2t4VW9FMEI4WmpXb0F6UQ?oc=5
-- **Source:** PressReader
-- **Published:** 2026-11-02T09:33:45+00:00
-
-## UTEC, Sonardyne Tackle GNSS Disruption in Middle East Pipelay Projects - Offshore Engineer Magazine
-
-- **URL:** https://news.google.com/rss/articles/CBMisAFBVV95cUxObnFieUhJSVZ2X1hEQVYzYkQ3OXdZR3hqdVdONEFBc09PY2NoNnJTUXJlODIwWFZRcllXYUxLOTJiUXFSNHBlSHh4RkZERllfblZkNGl1bVVJT05lWFIwLXBBOGxjVmpCRmdXR05FTkJPUS00cjFvbW1hdS11Q0lLcEdzZ192SUhGYnJub195dkxOb2loLXBtX3REUkpMQm1XNERaQ2NtcmVZWHdPOU5IdA?oc=5
-- **Source:** Offshore Engineer Magazine
-- **Published:** 2026-11-02T09:14:38+00:00
-
-## The Levellers deliver a High Energy Performance in Blackpool - TotalNtertainment
-
-- **URL:** https://news.google.com/rss/articles/CBMiogFBVV95cUxPUkdObVpVVnhZTTJvWTBRblRGVDhnU2oxLWllY2lYMG5vTTE5UjlLUkhiTDVOdlZDaE1Tck91ZUt1WGlhdjhzY2xCczJHWnBjcl93Zl9VTktSTEY2MGQwQ2ZUZXBZYWY1VnFKZHd2eFgyb2gtU0oxejBXbkRzcjVndm9paVlWc1NhOW1zQmtoN1FwS1pNUUI0Wl9hMHR2d1g2Q0E?oc=5
-- **Source:** TotalNtertainment
-- **Published:** 2026-11-02T08:36:13+00:00
