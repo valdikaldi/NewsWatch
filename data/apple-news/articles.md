@@ -1,8 +1,50 @@
 # NewsWatch — Apple News
 
-_Last updated: 2026-11-03T19:11:22.140459+00:00 · 50 articles_
+_Last updated: 2026-11-04T00:25:45.684565+00:00 · 50 articles_
 
 ---
+
+## Apple Inc: Redesigned Health App Available in - Moomoo
+
+- **URL:** https://news.google.com/rss/articles/CBMinwFBVV95cUxOTjBKRVlZMS1XaHZVMy1RbHQzZ3VfZ3V6QkQwVDFtSVNGa2JRRnE1NXdrRFY2Vkd0Q0pNRkpxRlhaYXpOU290MmpPU3VwUFlCVGNhOTB2ZmQyNG1mRzNBQTFYREd1aUVDREtZT3JjSllmRjdqdl9PcklwWFZkOVlrazZqOFBLQ1JZMWhPdmtQQXM0Tm0za2dCbzBnU3laVlk?oc=5
+- **Source:** Moomoo
+- **Published:** 2026-11-03T21:14:45+00:00
+
+## 9th Circ. Told Apple Stock Awards Belong In OT Pay - Law360
+
+- **URL:** https://news.google.com/rss/articles/CBMitwFBVV95cUxNZG54ZVRSMkxybjBTdkVXbTFwOHNTczRqaDk3eGgyUUx3WDJxWjFLRVJfakFXNzFESHR3ZElMT2JxSktTclVNaWNGcGpsQ3lfc05FRHNHYWd0cTEzTXZZMXNndVUtb0hkdXZTYWpkeHU0bnZOWHNrbGNoUzRBOTY1R3NYTEUtdU1GSl93ZG1vV3cxajU4T1R6LW9qekRVMDRJaEFKQmtMcU9ObDhnRkU4Qzh2M1JQVVHSAXJBVV95cUxNTzJRQWsxTVAzRHBNeVpsNGEzLXliVVROT1kzVlQ5aHZXVUR3MTlfMUNRd0syMDVGMjl2dzlSQWk5UXEyWG5wczgyeWtmU0F5M1JzNTYyYWFKdjJ5dWNxUEhXWl9UbnI3LWliSS03b0daWGc?oc=5
+- **Source:** Law360
+- **Published:** 2026-11-03T21:08:01+00:00
+
+## Apple opens Siri AI integration to all app developers - Seeking Alpha
+
+- **URL:** https://news.google.com/rss/articles/CBMilgFBVV95cUxNSTN1cWttNTlTd0Q0Q3Y2OEJ0M3NCa25abmctaVhhc2xPNmppUzU3S1VNSU02NkQzanN2YmVkMjFVbTF6UklwcVZaX1owejB5TlRKQmxhTXVKbUY4OUhTUE9IV0Q0dzUyYXB3Zi1lUkFxZmZ6RTdudWZaWjd1RUJFRkpWM0dHSC1JV05UOE1tbWQ4YmRJeVE?oc=5
+- **Source:** Seeking Alpha
+- **Published:** 2026-11-03T20:42:11+00:00
+
+## Apple: The Midterms Won’t Save It (NASDAQ:AAPL) - Seeking Alpha
+
+- **URL:** https://news.google.com/rss/articles/CBMifEFVX3lxTFB6RkNJaloxY2pfNWF6c1djdVBGV2pSUFBfNmdmRk5FNGtYODBRald2T1RjeWdET051NkRwUlB5SDdHU2ZqOWU5M19ZQ19sa1JPaUh6ZEFjZTdFT1p6UXVuTUpqV0NDelBldzFTR0s1aHdlVlJqVDRZOHVnRU4?oc=5
+- **Source:** Seeking Alpha
+- **Published:** 2026-11-03T20:30:38+00:00
+
+## Apple warns of risks related to AI agents behaving in 'unintended or unpredictable' ways - CNBC
+
+- **URL:** https://news.google.com/rss/articles/CBMipwFBVV95cUxNNVJIWkp5OFN3T2lxV05NUmlFaUt4UzFTQlo4dGZnOEJ3SDJiS1lSX1hqSkY4a3BUenltR1Jpc0JXdU02VEkwaGhQLWdKdm9fSHZwV2NnMHFCdE94b0dSY0dJdm9JMHlvYzNKNW52RmkyYkpTNTdkVDc0RW82SG5XQV9tM0szTDVuMlRDWFdRc1hEaGRPTXdlbGF4Yzl4ZWJGSFRua19td9IBrAFBVV95cUxQRGNRVF9HVC11VTEwM2phOGtXbEZoVzhRekRQNW5VX0o0VGNtbEp0RGk0cjFNcW5YQjNEclQ3a3pONmh1LUE2SkhMdVhhcWN2VDVWR19yU0pxNFhBWGxLY05GRjJWVEpNdGNYaGlyeTRnTkowVjJWaXZ4VTBOZ1pWSndqaGM4RnM2V1kxcEtuaWhFX3h1Y2ZPSDFCMXpObzloblpGYU1fcVgwOV93?oc=5
+- **Source:** CNBC
+- **Published:** 2026-11-03T20:10:41+00:00
+
+## Apple Stock Faces Analyst Divergence Amid Revenue Growth Concerns - KuCoin
+
+- **URL:** https://news.google.com/rss/articles/CBMioAFBVV95cUxQaU92bEIwSk16Ym9FS1l5V3F1Q0dFLThPZzAtWTAzcHR1VHJDVFNhXzJDdk1MWXhHbkNfaFFIdElHWWM3TGk0ZDh2a1oydloxckNvd2Zxb29JYnZNd1NYQzZ4WmhlbFkxV3lVMm5rWnk5cU5IdnpLazBOazc2RTVHRUcwYkJrNFBUUEU5N25QRGh1YmZaV2lINHNLTlkyaWJY?oc=5
+- **Source:** KuCoin
+- **Published:** 2026-11-03T19:23:44+00:00
+
+## Apple Inc. Stock 12‑Month Price Target Raised to $338.28 - TradingView
+
+- **URL:** https://news.google.com/rss/articles/CBMitwFBVV95cUxPRThUUVM3OE41NHpLLTZ4TWZNcC1jdWpCWThGdHA4WlFONzU3X0lSd2t5M28xaEJrc3g2cFFRUURpZVZpc3pTdVpnX01HNmRGVDZWVml1T0hheTFSMHFEWEFtaTg2YXZla09EQmhVMmFBRWJjOTlRQ1hYazNOX01rOVpWVzBGS2JCbUNTME1uOUN5cWZwY1JVeUdBc3pfbGY4S0hqcHVONElHSHRTX1VrT01fTHRwcjg?oc=5
+- **Source:** TradingView
+- **Published:** 2026-11-03T19:20:00+00:00
 
 ## Apple Stock at ‘Extreme Overvaluation’: Analysts See Slowing Revenue Growth - Benzinga
 
@@ -261,45 +303,3 @@ _Last updated: 2026-11-03T19:11:22.140459+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMiuwFBVV95cUxNN2ttNjZXczg2cFdPYXpUWFVqM1ZyQWw2VnBFMV8xbEdEejRkSklWLXF5cWFBYmNGWXFVejNVckI2ZXJuS0Vqem5qY1pseXVrQ1EtSVdiV2JLREpHNlRsaXVudWdNRzhNLVhHMHBVRHl0UEQ5eTFYYlNmMDVRYVZmX1RvY0wxYmtLbGc0TkFYaTQxUkIxQ3BuSnNYNU1BSDF3R21NN3VfTGtKXzEwaURuMUViNUQ3aGhNSnJv?oc=5
 - **Source:** MarketBeat
 - **Published:** 2026-11-03T09:38:50+00:00
-
-## Apple Inc. $AAPL Shares Sold by New Wave Wealth Advisors LLC - MarketBeat
-
-- **URL:** https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQnVjLU1RcWFralVWLUF2MzBud0ZpUUJuSC1PY2lXQ0t1OWRZbTlyR25QNDRMbVZKa0VlbE9MaEZDV25qUkN0eW1uT0tCTlppbzZ2RHVwSzFUbnVOdzdxNE14ZjdObTdQOEdGcUN5NWhzcU5FdTk4dnhFZ2JVLUpoT0g4YVhzZDRoaWkwd1BVbzFQTmdFQi1uQzNPdlhra3UwUU9rYVdVYkYtSEIzU1Q3MGFWMVZYREFPOHBF?oc=5
-- **Source:** MarketBeat
-- **Published:** 2026-11-03T09:38:49+00:00
-
-## Apple Sets New Sales Highs in China Even as Increased Costs Bite - Bloomberg
-
-- **URL:** https://news.google.com/rss/articles/CBMitgFBVV95cUxPeVl1blg2Q2VFWlJvSU1RYVBXNXBSVDN4STdUXzU2aksyZTlpa2UwX1NxNzMzQkpKTldPN3lFUGowd2FncEI1dmpueXVsdzVBaTd3T2IxS2UwUTVyR1QwNWh4TEdDTzN1eFpwcVRHbS1kU3lpRVJWOS1UTWc5NVlWNWFaRFRqZmtFa1d5SkdTSzV5YUZvZFBlMndVZHVVTkREaEJOelR3QU5ha1phTEZ3Y3ZKWEY0UQ?oc=5
-- **Source:** Bloomberg
-- **Published:** 2026-11-03T08:35:32+00:00
-
-## Apple Inc. $AAPL Shares Sold by Foguth Wealth Management LLC. - MarketBeat
-
-- **URL:** https://news.google.com/rss/articles/CBMiuwFBVV95cUxOblU2R0tSTzNpaFd3dk5NN1lFbWlidHVxcVBtalBVNzRERm53VEhieGhNeWxycW1TTTR5WUdLMDUtYzAwUUYwa3FtRTl2VWFEVUtWZXd3YUh4dDI5cUsyWDlHb0g1cjV5RnF1LWVBVkI3WGhva3ZkVU0yb2dNZlZIWnNjU0daakZZMGtYWFllZGVmODMxOXN3UUMyY18zc3h1THdyaVlJNmNYV1djazFsT1NSMHI3Wk9hNWxB?oc=5
-- **Source:** MarketBeat
-- **Published:** 2026-11-03T08:34:35+00:00
-
-## Apple Inc. $AAPL Holdings Lifted by Kaufman Rossin Wealth LLC - MarketBeat
-
-- **URL:** https://news.google.com/rss/articles/CBMivAFBVV95cUxObWhzS19kcjNMRnRsRW01TTcwZFctV0cxbUlLMEhEVmt3LXdGMm5fNUhNSzdiZEZMdG90c0hsYTllUDNwT25qaDVsa2U5elNZTjJrcU03YTdvLWwxUG1zeDduTGd4Z1JuRWp5dmVKU2ktZV9SN3c4Z0c5SGx5SXh6Rl9zc09JbmhULVEySEM5S1d0dmUydmxPMVU5VlJGRl9za2N0QWNpeDhFV2x3UGthRVN6M3BUcEFmTjZsMA?oc=5
-- **Source:** MarketBeat
-- **Published:** 2026-11-03T08:34:34+00:00
-
-## Apple Inc. $AAPL Shares Purchased by Gimbal Financial - MarketBeat
-
-- **URL:** https://news.google.com/rss/articles/CBMisgFBVV95cUxPRzB4OVYwY3M2cW1OQXo2SUxzQktPNGZhSDJfRzAtMUZQNHVNZWYycEJ5TEk1YjhNaUxuUlNQU0thNmY5MnNoN05NQ3V1Sld6THR1eWRHd0w1NGRiekszNm5uMGhuMmVnSnlOSklzcDYtUjB1QkgtcUpYMng2dmN1NVQ5c2gzUUg3YW1SVTEtalFHM3dIUGEwd1htYml5aHpqaUJnZ1p6R0tlN25uSHJZM3Bn?oc=5
-- **Source:** MarketBeat
-- **Published:** 2026-11-03T08:34:33+00:00
-
-## Apple Inc. $AAPL Stock Position Raised by Jackson Square Capital LLC - MarketBeat
-
-- **URL:** https://news.google.com/rss/articles/CBMixgFBVV95cUxQc2h4X0ZsRTFNdVBfZmZMMWtkOGpncUxmRjBqLUpId2p4YkFPbkdjZU5kdHA3MGtSMDFab2haWUd3aEFWWlhHbmNFa3dBcnotWDV6aEczZnRiSV9BSnJjbmY0cWFxU19lZXJvRmk4R0NoSkVGbTVhWUJHLURzN3E5VHZHT3hGNVFPbFN1MjUwMXZKN2VyTXIwcWNWRlFKOHVzWVlYaFVoNDd2emdvOGtVdzBXaFF3c2tZTGpOZ3BqZngzekg2d2c?oc=5
-- **Source:** MarketBeat
-- **Published:** 2026-11-03T08:34:33+00:00
-
-## Apple beats expectations on iPhone 18 Pro sales and price increases - marketscreener.com
-
-- **URL:** https://news.google.com/rss/articles/CBMi1wFBVV95cUxQb0tTYU1XdEZUdmdqNVJRSVo5TWI1YnN4RnliZTJMajU3bnQ5Zld5UjdMUlRfWXhTWURxSE9Tak85aG9fMUo3Z0xwSGZKTGl0STFqVmNNTzR2VzZhVGk5TkVQb1RaX3c3Z0xPRkc2WHBZWVlXZUh4V29Rc0RHR0xoODh4RnFnY0FZM0lEb0RERnVTNV83cmRaZmMzWFJLVjlQUGVYV1FEU2l6b3RKaThyOFpJeWF0MHlhdXdkWVFOUHQ4Yno5azl3Sm5EeGJLMENHck12cDd0UQ?oc=5
-- **Source:** marketscreener.com
-- **Published:** 2026-11-03T08:31:51+00:00

@@ -1,8 +1,38 @@
 # NewsWatch — Iceland News
 
-_Last updated: 2026-11-03T19:11:23.236716+00:00 · 50 articles_
+_Last updated: 2026-11-04T00:25:49.318706+00:00 · 50 articles_
 
 ---
+
+## Parent scolds college-dropout daughter, Madison, for being jealous that her younger sister, Becky, gets to travel to Iceland - Yahoo Lifestyle Singapore
+
+- **URL:** https://news.google.com/rss/articles/CBMihwFBVV95cUxPdko2cFFSLXE5WDQ2elhnWU1XUHlLdzlsSXcyak02cW94cTBFM2lzejF0V3dLMmpOWlZ3VXBtb2pWS2JMTjBfQ3Zta2d3cUd6dTFrdC1HSDBsaW9HWmZJc09OU3U2NkEwNXphS3dKb0V0ODlFa2QxYzVoNS14a2U1dlZ3b0RBNUU?oc=5
+- **Source:** Yahoo Lifestyle Singapore
+- **Published:** 2026-11-03T22:15:00+00:00
+
+## Handsfree Bluetooth Bose - Northern lights Aurora borealis over Iceland lagoon Stock Photo Alamy - www.auroradesio.it
+
+- **URL:** https://news.google.com/rss/articles/CBMiU0FVX3lxTE5TSGZCTnY0VFN3c2phOVVKQl9MaXBUM0NLWm03cmFBcUpZVWxHUUdiOHZxZ1BkRC1zZFBBaGtrQ2xpeThqWUZoLWhYdWFKNDlIYmJZ?oc=5
+- **Source:** www.auroradesio.it
+- **Published:** 2026-11-03T21:47:11+00:00
+
+## Strong winds disrupt travel plans across northwest Iceland - www.thetraveler.org
+
+- **URL:** https://news.google.com/rss/articles/CBMikAFBVV95cUxNdk1YNng1RXNMX0hVbWdrcGJOZWNZWll5SnpQSTJIVVUxaFRTeWdXakRZaFRieTFlOUViZDg2OHpUMm5lX2dlQ2U0RlBjLUZ2Q2kzemtfc243bEVpN2w4ZWVqbkVBUFc2VFVvZEtBVVVvc25oeU5KNVRwcG13dHlpaTI2cm9IdzRpeHplOVlyT0c?oc=5
+- **Source:** www.thetraveler.org
+- **Published:** 2026-11-03T21:41:12+00:00
+
+## Strong Winds Trigger Travel Caution Across Northwest Iceland - https://www.thetraveler.org/
+
+- **URL:** https://news.google.com/rss/articles/CBMikwFBVV95cUxPd3dZWDJSYWNySXplaGttLTRfclFiNEwxNEQyQXFwb3FwYzJ3aTNCWExUUG1ESEEzRFAzLWZQVkVmQ01wSi0zNGIxNkxXa09nMHgxLUp3V3ZOeTY5UFFYbVIwWEppdVJOWE5MR1JJek91TjVDcU5YcEwwMUROWXVEaUViZnhHaEdiaTBSOEh4Y01ydGM?oc=5
+- **Source:** https://www.thetraveler.org/
+- **Published:** 2026-11-03T20:59:41+00:00
+
+## Gestur Ingi Hardarson - Transfermarkt
+
+- **URL:** https://news.google.com/rss/articles/CBMi1wFBVV95cUxPNldORkVKVl96akthREg2RWFCdTNvTUJWS05IdGkzZTZLWDUwRXB4MXc4bUlRSXd1dV9jQlk2NFRaOGExZFRDeWJvNnFiUXBPTERic29Ea296SWFBeDN5NHBhM2FvWmNFSU5YdFQwcnVRRDlkcHdyWG54NlhTZDJ2WkQyZ1hIQWRsTHR6MHNrNzhpVjZRRzBlSmNqeTlpNHJxVV9TTkdfcGVacmgtQU92RHVMN2VRblZOVXk0SFBQTFNhVVBIV0RneWJnUTM4bnFfVEtOOXA0Zw?oc=5
+- **Source:** Transfermarkt
+- **Published:** 2026-11-03T19:21:19+00:00
 
 ## Icelandic Salmon Q3 2026: Harvest Up, EBIT Turns Positive - Seafoodnews
 
@@ -273,33 +303,3 @@ _Last updated: 2026-11-03T19:11:23.236716+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdk1KODB3MTBPdUc1NXYtb3ZaSHhVMWlCZGZpQU9HLVdCbHBrNHJUWGZKclNLdWQtM29mR3BWQzBPbUxrZm8tRXV6T2pYT1JfaWFEOXliZjFEUjZIREFFZktsbkZPOUE4bWJJb09pclBFdVMySmdLSlhtcmx5ZDU1SGoxMTQtWFFUZGxUcTdSbzJJd2FFMTFOWVFvVGptQVl4TzVwQk9EVGZxcmRtMjdKbjVsYmVsU3doODQycy1SOFg?oc=5
 - **Source:** Volcano Discovery
 - **Published:** 2026-11-03T03:57:49+00:00
-
-## Discover the film locations for Supergirl (2026), around the Cairngorms in the Scottish Highlands and in Iceland. - The Worldwide Guide To Movie Locations
-
-- **URL:** https://news.google.com/rss/articles/CBMiZkFVX3lxTE1USUEwakZRMEFZQ09IMEw1eFVfdVBtRUhDZ3dJaWhlNlUtelFfQ1B4OXN2UVhTY0V5SzJpSmNJNXB3UFVlZE1UZ3hwVmJ5ZVk3bzRkVXE3aWxkREhEQVpHWVdvMFV0Zw?oc=5
-- **Source:** The Worldwide Guide To Movie Locations
-- **Published:** 2026-11-03T03:48:13+00:00
-
-## Weak mag. 2.6 earthquake - Iceland: 49.3 km ENE of Kolbeinsey on Tuesday, Nov 3, 2026, at 02:43 am (Reykjavik time) - Volcano Discovery
-
-- **URL:** https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWHBNX2x6cmNTc3BuMEs1R3AyWllMX2NBUE9JMkJfWS1vUkZGdmswU3JQbTBVUzZrdFdKakVGaUxTTFZEcXprNE81VDU0RXBiV2U3c2NKZFVIcmRBakE5N0FhbkZ3VEJwRUQ4MXF6Qzd0SVpCTTlJdTZHNmdtckN0R1V2MTFZWFJ4blpiNnpJLWhyUktRRWtkU3Y5M3o1ckk0RzVoWGJZWGZjY0pGbnNVUHZaZFRrX1FtenF6Y3dKQlM?oc=5
-- **Source:** Volcano Discovery
-- **Published:** 2026-11-03T03:31:22+00:00
-
-## Weak mag. 2.1 earthquake - 52.6 km ENE of Kolbeinsey on Tuesday, Nov 3, 2026, at 03:08 am (Universal Time) - Volcano Discovery
-
-- **URL:** https://news.google.com/rss/articles/CBMiwAFBVV95cUxQb3A2V2MzajVremJEZGd5S3d5RmdMZlYyY2s0QWlkcmZfNm9mZW1qdTZoR0M4bWMzSzNybTB5OF9oY3Nid3NEOGFfWUxVVk5hTEJha2JiUW8tNU91cDlDV2g5QWZnVW4zYWVad2ctNUoySFhWME1rUWI2TkR6UkNSVk5lOTV1WGx5S3czNW01bk1EazJRTDRaVmRtRU9KZmFxS1VGSDNxMWlPb2pldE9PWVl2WmllWVhxYTZ3TS14QWQ?oc=5
-- **Source:** Volcano Discovery
-- **Published:** 2026-11-03T03:31:20+00:00
-
-## Weak mag. 2.1 earthquake - 46.4 km E of Kolbeinsey on Tuesday, Nov 3, 2026, at 03:03 am (Universal Time) - Volcano Discovery
-
-- **URL:** https://news.google.com/rss/articles/CBMivgFBVV95cUxOYmszWFJ6SEdSWDd0YXFfNmhBbDNSNm5YS1hrWVp6ZXZSYVJIOXhuMHV3cVNXYVBOUWtMTVNWRXktQnhYTTBFUm9lTEZ0YWhMTXo5MGFwZkxhRldfWVdBSmU1NDB1anpsUnBjQ3kwck9Cc3VxMEFHcWYxWDB5cmNpZjFGZTBoWHQxSy1NUTRpSzBlV21GUTU4STZMYUl0ZWJ2ei1fdllpV0tSZ1htV19ZVmZGZ09qQms0YThCemhB?oc=5
-- **Source:** Volcano Discovery
-- **Published:** 2026-11-03T03:30:55+00:00
-
-## Weak mag. 2.4 earthquake - Iceland: 47.5 km ENE of Kolbeinsey on Tuesday, Nov 3, 2026, at 02:41 am (Reykjavik time) - Volcano Discovery
-
-- **URL:** https://news.google.com/rss/articles/CBMiwAFBVV95cUxNc1pDQlZFbjlwSHJKQm92ajQzbWZoT2RsRkNSV092SnJHdURTZndGSmtDZ3dOeVFaeDBSSGpwOUtUc3VucmJrSFJiVWhYZk5UVGZJdUF3WnZmQ3RlalVHcUZGUmhmLWJma1hUWTFIT29XZVBld0dmWkgwQUFDdzFCRTl6VlVRa3M0NkhiNWpER1Eyd2owc2tyS1hIT0UtMzdCNDVaSzFMUExWRE0taUxHUzJfSEUxT2Ytc3BmS0ZmelM?oc=5
-- **Source:** Volcano Discovery
-- **Published:** 2026-11-03T02:50:00+00:00

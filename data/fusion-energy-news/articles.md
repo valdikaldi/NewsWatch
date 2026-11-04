@@ -1,8 +1,14 @@
 # NewsWatch — fusion energy News
 
-_Last updated: 2026-11-03T19:11:23.652267+00:00 · 50 articles_
+_Last updated: 2026-11-04T00:25:50.489662+00:00 · 50 articles_
 
 ---
+
+## DOE Announces $8.5M for Fusion Energy Public-Private Partnerships - HPCwire
+
+- **URL:** https://news.google.com/rss/articles/CBMipAFBVV95cUxNNXNTV2tmMXRweUFLcVhEVG1ZLVpEV2Zzdk1acDBxZG5LMFpwR0htQTBPV250cGdKdTFJUkdSY29vbE9ydGhaemt3Zk5Pd3J6TlJSZWtQVmE2UmhKZkhZR2NWekJKbmRiX2lyemxkX1Rza0VSQkZ6bmdJbkJabmtqWjcxNVBSYUwyOWdfYVZydGRoRkY3bUFJSmEtUmNybDZENHBCUQ?oc=5
+- **Source:** HPCwire
+- **Published:** 2026-11-03T21:54:20+00:00
 
 ## Nuclear fusion developing as new energy source - Odessa American
 
@@ -297,9 +303,3 @@ _Last updated: 2026-11-03T19:11:23.652267+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMilgFBVV95cUxPbW9UNkluMlZZcmpjcloteWNhYi1uZ3BRdHVyOUNmTWRDeFhndHdjTXk5X3hfbUhUcDFua2Z0TnBKWmFaempvNmIzVXJLVnUwN2h3RVljRC1ZNDlsdllBVXBFT2FJbmNweFlaX1ByUWlmb3NsVlItRWtRRy1kUk0taWFFczRrb2JreVpndUV6TEdFSUgtb3c?oc=5
 - **Source:** Quanta Magazine
 - **Published:** 2026-11-02T15:53:48+00:00
-
-## THE WEEK OF NOV 2, 2026 - AIP.ORG
-
-- **URL:** https://news.google.com/rss/articles/CBMidkFVX3lxTE5IZ05qQTU3QlJPVkpkQkd0bVI5WGRGNTFOX1VSQmU2TGR2TkUwX3l2N0JxOG9rLUR5Z1Q4SEV6UlRRb2Nhc2RIR0hGa0otbTZaTWlDME1tWVN6bzdlQkNJUVBfOXIzRlBXOUo5aVMydi1pYnRZN0E?oc=5
-- **Source:** AIP.ORG
-- **Published:** 2026-11-02T15:25:38+00:00
