@@ -1,8 +1,74 @@
 # NewsWatch — Iceland News
 
-_Last updated: 2026-11-04T11:53:59.048194+00:00 · 50 articles_
+_Last updated: 2026-11-04T19:27:19.725116+00:00 · 50 articles_
 
 ---
+
+## ‍!+! [ＬＩＶＥ ＯＮ ＣＨＡＮＮＥＬ] Iceland vs Ukraine LIvE FrEe StReAm TV 04 november 2026 - tagesanzeiger.ch
+
+- **URL:** https://news.google.com/rss/articles/CBMi8gJBVV95cUxOU24zeHNTcjJPbFhBWVhzOTlUaXFtbzQ4NjJIQlRyQ3Y4ZjBsWVRKcU5sY1N6M2puNXhBQ2txRGd2SzFZNmRuSDFVbXo2dktsdWlCNmoxUm5WTlFuZTFkUGsxbElCcFB6bW9ITWZlRjk0THhORUJTZFZ5U3VfeDAyWHpXQ2oxdjZ5VGFQX0l4VFgxWnlIMjlZUDVjdDU3SFpaOEZyemhrUzRxSDFEbHBSdlZxV25nUFlEaHBtMGpBX0tfbTRyelptTmhnMDExMmZPRUNERVBPa3lYdldXUy1nM3NfZUJyZ2tXWnFQbUFXdThXOWJReVZlLVBWeVp6QTJoZERwdURlUWFnN0FFX1hoSHlEWHcyMzJxX0pBbnJMcjZSYkJZd040UzJNNGFoSnpjSnZhN19ubUY2OEY2WTZpT2w5OXBpMElXd0JyYWdSc2VuUHJEWlF5LTUzOGh2c2hHZklnRmZvOVkxRV9LLV9kci13?oc=5
+- **Source:** tagesanzeiger.ch
+- **Published:** 2026-11-04T18:54:17+00:00
+
+## India And Iceland Since 2000: A Partnership Built In Good Faith And Still Waiting To Be Used - Analysis - Eurasia Review
+
+- **URL:** https://news.google.com/rss/articles/CBMi1wFBVV95cUxOWFZ3aENQdUd5ZTVFRTFVd1hER3hpTVRIVm0tQi1ZeEtrSlFJOU1Gb3dONHRKSlJuTVRvdEFPR0dSODhnUS1fc294dkNETzJEa1MtdGxHRU5ZWUxPR3lEbGRNR2dyc2RiUGt4dnJxX05OLUNkSG5JdlpzN0ctWnRiRXlraUdmWHp1RmF0ZXVNaXd2a2VlNDBNQVgzSWU4X2Rpd0xqME5vTEkzbmdOQXdBeWViQ3NTYzhaVzlHQkFYRlZWa25lQUEzZTRIclZNYWdvak93bDNEVQ?oc=5
+- **Source:** Eurasia Review
+- **Published:** 2026-11-04T17:50:47+00:00
+
+## Yaima Music Project returns to Iceland 7.11.26 - The Reykjavík Grapevine
+
+- **URL:** https://news.google.com/rss/articles/CBMif0FVX3lxTFBpek1MVjBrV0d1Z2hRdmxIbllOcmtsNFl0NmxFR25venVuSmtGVm1BRFhDTkRHcjVyeDl3MEcxdTBCWFNNVWZiYWxIRUJoV0o0eWppTnhfMmhGTE54LTNwUTFXS2pJNUxHdS1YcGRuTVd3ejE3X0ZhWFZtQzhxTmM?oc=5
+- **Source:** The Reykjavík Grapevine
+- **Published:** 2026-11-04T16:39:51+00:00
+
+## Maður játaði að skemma bíla - RÚV.is
+
+- **URL:** https://news.google.com/rss/articles/CBMif0FVX3lxTFBOTEpMU0V2cm1NQndlcVByYklBaE9SUGVFOWViMHVLMjBVdUs0a2Q1TmdJV0pQeHE5RTA1RGpPcjliWEhnVWlFZTNpaXJ6TG9TUWtiM2xsQi1aVTlKbzQzZVRBRjF2Ylp0VFhMZDlIMzgtY0JfUVBKblItblNYWEU?oc=5
+- **Source:** RÚV.is
+- **Published:** 2026-11-04T16:38:00+00:00
+
+## Student Data Breach Affects Up to 16 Icelandic Schools - Iceland Review
+
+- **URL:** https://news.google.com/rss/articles/CBMifEFVX3lxTE81cUowaDNhVGRCZ1FSYmhaM1pJMm1LRmVXX2ZobGFHMkZ3LUk1TkhOclRHTkg4aWMzOHR6ODlYa2hnQlNTRHJaVGpoSmhfY0NSVllvRXV1MUgyMFpkZW1WXzNwMnBfUm5oOU1IMmVpYXZXNXo2bHlmY1ZveVE?oc=5
+- **Source:** Iceland Review
+- **Published:** 2026-11-04T16:00:01+00:00
+
+## St-Georges Announces Resumption of Trading on the CSE and Provides Corporate Update - TradingView
+
+- **URL:** https://news.google.com/rss/articles/CBMi8AFBVV95cUxPMUxmNHAyUE0xZUwyc2xRRUN1VXVoOWE4aEdPZDczd202UEdKUEpUSVg2WVhDcG5IbVAwbExHc3piTVRFcVVkM1NPalFyWlk1dVlBOTFvWXFNcmhndksxV014ajF2Y0h1ZEZtZ19MR3RocXpGVFF5TlFrelBGTkxOb1pObU1vN2c3ZmRaalFRVjhGR1hua3Y0OUVZOXFYLV8tU2hiUjV2ZlBFa0YtS2p3S3FjRGtZbXVaNDhLY1BDZmoxdFlKQ2piOTJFeGdBSnp2ZWhTOXZ4ejl1d2ZDWjd1WlY0Wms2UUkwcXc4QndVRnQ?oc=5
+- **Source:** TradingView
+- **Published:** 2026-11-04T15:50:06+00:00
+
+## Iceland Tourism Campaign Offers 'AI Knittakers' to Attend Meetings So Visitors Can Enjoy the Sights - Laughing Squid
+
+- **URL:** https://news.google.com/rss/articles/CBMiW0FVX3lxTFA1WkoteldRVXJIai0wVVEwMTBvQ2pPdU9OWG5TV09GdjUwa1VIWWN4dDJCcWlRVm9rQXd5X0JaZzhDaGhVd3FfWjBEc3dMVjVBRXMzejJlWUJuUm8?oc=5
+- **Source:** Laughing Squid
+- **Published:** 2026-11-04T15:04:52+00:00
+
+## Danish Resident Says Iceland Treats Its Residents Like Tourists - Iceland Review
+
+- **URL:** https://news.google.com/rss/articles/CBMicEFVX3lxTE8ybHNLQUlSMEk5VEVVSGJMcDdNSEZKWVpWQW1Qd3JCOWlkbjdPakkxMEdlRkdQcnRxeFh2eHdBZ1FHc1ZMX0hPWlJ1anNRamlHMjdxSlV4S1IxQWowekhYOFZoM2lqclNwX1lKM0wwNkk?oc=5
+- **Source:** Iceland Review
+- **Published:** 2026-11-04T15:00:42+00:00
+
+## Powerscreen appoint Trukkur as Iceland distributor - Agg-Net
+
+- **URL:** https://news.google.com/rss/articles/CBMihgFBVV95cUxQY1pXOUIzdW5tUGxWZnFGYUY0M0JYRGZuZ0x0cWctTFJmR0FOTGR1bVpkQTk3LVJKcF9yMTFld2hqQU4xamFjb01DcV84b096dGVjbzBoX1M4aVpUNjRkbHAzQm84U1M5UTZEOE5FemtGdkQ2d2FtcVFSUVJOd1lKR3BPeXQ5dw?oc=5
+- **Source:** Agg-Net
+- **Published:** 2026-11-04T14:26:15+00:00
+
+## Iceland Airwaves 2026 Traditionally Kicks Off at Grund - Iceland Review
+
+- **URL:** https://news.google.com/rss/articles/CBMilAFBVV95cUxQUVJLRVJpaks1VzZBY3QyRFJMeGJNRGJfc0dCc2RIZ0NLQjdvWXdkajNhd0pZU1RhT2NlWDNXeGY4UmZ0RFc2eGhCdS1uTGxoaWpHU09SeW50UnR5bGJEZ19iVTg5T2FVSXRESG5tVFdibjZrbDZBN2c4VG5ubkFuLWhFY1JUSjNteUVNN3J1Y0lyRmtS?oc=5
+- **Source:** Iceland Review
+- **Published:** 2026-11-04T12:30:21+00:00
+
+## Iceland and US Target Critical Infrastructure in Strategic Dialogue - Iceland Review
+
+- **URL:** https://news.google.com/rss/articles/CBMihgFBVV95cUxQUzdveTlkS2g5T3NIT010TVFUZFd6NkxIbDJITG9RMS0zMFVqV3hCam9oVnVPUEVBWVI5ZFFEbVRraVc3WDRBM0l0T05fUkpxWE1FTmZBaFNsX25GcDVfYXpmazd6VlZCZDhsUjV1WGcxVzZZT295bFlnSXc5YnFBb0dkLXNjZw?oc=5
+- **Source:** Iceland Review
+- **Published:** 2026-11-04T12:00:13+00:00
 
 ## Exploring the isolated Kerlingarfjöll mountains and hot springs in Iceland’s highlands - The Irish News
 
@@ -237,69 +303,3 @@ _Last updated: 2026-11-04T11:53:59.048194+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRVFiYXlVT2pfTmU5VWhRWlZEYUVva2xEX2dmTzFnZ3ljNDBvcVpJRlY0QnlTUGF6ckZwOVFnUlVCZzFqUm40enB2czI4MGt4M25Bdjd0YnNRQ2lGRGxaS1NPZnBXRjZmZ2x6UzA4ZkRnejNJUGROa215THFPMjN1Z2NQa0Jkd0Rv?oc=5
 - **Source:** mbl.is
 - **Published:** 2026-11-03T12:08:00+00:00
-
-## Aurania Resources Ltd. (TSXV:ARU) Records 5.82 Million Shares Traded as Iceland Gold Drilling Completed Draws Focus - kalkine.ca
-
-- **URL:** https://news.google.com/rss/articles/CBMi2AFBVV95cUxORGN0eXBoQU5rV1hYczdmQlhoVnNKWVpSZEtCbF85MHN3M1BfdloycmF5LXhRMXBDQlRlOUd0bHVuUXhFdFd3SmllTThvSE1LbEtkLXhwMGF4YVhTSUF2ZDV2NXB2SVVqOGNya1RMMkw4NVdLUEZJdkFlakU1aENiRnZRLUZSTVVocWZzdEh6dGtsSUpQV0xPWm4yMjA3WXJ2aXlVa2VjNmtabXlQOVdvODVsQ3NGNVdBbE9PRThGUmFWOEJwY0Fndi12dEZKY2tnbGViTGswbFA?oc=5
-- **Source:** kalkine.ca
-- **Published:** 2026-11-03T12:03:00+00:00
-
-## Public-Sector Cuts Drive 281 October Redundancies - Iceland Review
-
-- **URL:** https://news.google.com/rss/articles/CBMihwFBVV95cUxPcGVsQ3lyc1FBODVtU1F2RTVtbU43bDV6QnRzRzRpRVdFZ194Q2prNUdhSGdfRG9GeVAySWZSX0dBN0hJWUx2VGlZYXdQUmpYdTdHMXVNdjhxVVMtWUt0Vlo4NnlKZXEtTUVsYTM2Wl91WkJEQVBXa250dUctNk1PRWZBX1QyaWM?oc=5
-- **Source:** Iceland Review
-- **Published:** 2026-11-03T12:00:25+00:00
-
-## Founder of Iceland’s Vaki reacquires aquatech business from MSD - Undercurrent News
-
-- **URL:** https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTFpQVFJkeWxZQWZDb2lvTjZ1NS13MTZQMlh0T1FyMkFEOEI2VFRvQkc0VnNDY05iaUYyMkx4TnR0bUhvcTRNOU41bWxWSWl2QVFvRGR2TUNtU1l1TDUyYVNiU2NuUU5kZ1lvQVM4V3FJUmRpNF9UblA2ZmtoZlRnbGpkNXFqSDloUUJndTZwX3FPdjVPbDdhSjNlTWRoQW5iY1dBbEEyV0E0SjA?oc=5
-- **Source:** Undercurrent News
-- **Published:** 2026-11-03T11:36:00+00:00
-
-## Iceland Joins US Arctic Security Centre Advisory Board - Iceland Review
-
-- **URL:** https://news.google.com/rss/articles/CBMijwFBVV95cUxPbVVNd0pxenF2RjJDT1psek9GY2hhMFF1ejVVRkRwcVB4YVFPd2hCazdUellpRGpCSnlBV09ZQTk3Wm5nRDZlYldTZ0VCTTBjREtUazFIclpoNVdGLWdaaTFtMkcwQVpjcnhpVGJhMFprYUdZZ3lVZUJYME1VYjZGYlhWOXl0b0NrcG9mYnNpSQ?oc=5
-- **Source:** Iceland Review
-- **Published:** 2026-11-03T11:07:50+00:00
-
-## Icelandic Salmon more than doubles North America share - IntraFish
-
-- **URL:** https://news.google.com/rss/articles/CBMiogFBVV95cUxOaTIzLU56YmJqZXZZXzJlZ2ZmZGlRZ2t5WFpzaTgtVTJmZFRyeWFzcHNpbFJIVGVWVmpKMklUMVVYVUU3V2hrcngyVkJRYnVHVE9neFVWWUdJZU5HbnRDeVd1SjA2enlWaEdFckstb3BuLXdRQ2dnMmhkdWx0MWF2enh3WHZUdmRid3J2cEdQdHdWY29RUGVUeDlHUjUwU3ItTGc?oc=5
-- **Source:** IntraFish
-- **Published:** 2026-11-03T10:48:36+00:00
-
-## Iceland expands tourism offering with new wellness, hotels and adventure experiences - Travel Daily News International
-
-- **URL:** https://news.google.com/rss/articles/CBMimgFBVV95cUxPWTQ2a20ydTRUZ0ZHU1ZsSFNpODM1b2hpaTJfZmFYN1ZLQWU4QklDLTVNZTA2Y1hudTZSd2FkbnhCLW5aeC10azV5clZpVk1rSjRKeXd2Z253Ty1TSmNPSll5N3Fsb19ETC1YRWlkMkhxSWRXaGF0RkdQaENHcVJyUUZURUpSdkxWa1ZFSVJZc0NZSEExdldNcDB3?oc=5
-- **Source:** Travel Daily News International
-- **Published:** 2026-11-03T10:29:03+00:00
-
-## Minor mag. 1.9 earthquake - Iceland: 27.4 km ESE of Hveravellir on Tuesday, Nov 3, 2026, at 10:03 am (Reykjavik time) - Volcano Discovery
-
-- **URL:** https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVy1TOE9tWTdSSEhoRzBmZ2VDTkdWVEF4MTNVeTRCNW4zaEkzWGNJalhSU1E0ekVnb3dqcExZbmpBZ203OGlXcDMySEk0ZTlyaXdxZXRUaFFwaXRXc0FZdHZlM2U5aE13VDhtZkR6YzBFUjhfTHNNMWJuRXptaGJIemh3RzZnWWtwNENWMkxLUzZIa0FzXzlyQVlMdTRXZUl3dXJ6SUhDWUswV1M5ZkxMUXhrWmRjSTI1SEc5X044a2hTZw?oc=5
-- **Source:** Volcano Discovery
-- **Published:** 2026-11-03T10:09:00+00:00
-
-## Turkey Opens First Embassy in Iceland - Iceland Review
-
-- **URL:** https://news.google.com/rss/articles/CBMigAFBVV95cUxOVjh0bzVsaXBjcFQ1NXNkS1J5TDhSQjhxc1FvQU5jM1dzcndIWXV6R2FTdS1BOUhuQlp1TzJvYm5fNFE0d3JUQncwa254WFh1T2lIWGg4UHp2U25kR1FKU3lJaTVTY1lyeGFFOVZ4ZVFFd2lxaEFVdi1UQ3NOOEhCWQ?oc=5
-- **Source:** Iceland Review
-- **Published:** 2026-11-03T10:00:44+00:00
-
-## Iceland unveils major 2026 innovations and wellness experiences at World Travel Market - Breaking Travel News
-
-- **URL:** https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSm1tdHIyUnAwU21aaldsV2JtYzlCbDFCZkp5SEdmQkU1TmdMbVBBbFowM0xGMFBqT3BVbnpobVBmX2pDdVJSS1Zfc3hVYVBCSFlwUTRIeHNnaUNNbjRKVUd1QkhMY0d2NldCLUFteHpfTTZTYVJJOUxkb2pSdGpkV2ZCNWRnczF0SDRVUkpqY3FCdDdRSFdZR2hvU0tpY09zcXBSS2pLYnR3UnYtYlAzNzRsekJ5RW1vTFVRNzllbFc5dw?oc=5
-- **Source:** Breaking Travel News
-- **Published:** 2026-11-03T09:34:34+00:00
-
-## Strong Winds Disrupt Travel Across Northwest Iceland - www.thetraveler.org
-
-- **URL:** https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWElWRnpFY2RaWERlTVNSYXlJMkY0b1VMOENManVhdXFyeXBrejVvSm4xLUtSMHpMV2VVd1RYQm9yczd4a29Ib2Y1aU83QzdBaWFXWlhEQVZrcGI0bkJVck5JU1Y4Qlh4d3ZHb0N2VlYtTE1fcnZfX212NC1WaklyWm5pMVlRRm5I?oc=5
-- **Source:** www.thetraveler.org
-- **Published:** 2026-11-03T09:15:33+00:00
-
-## Ribarski calls up three debutants for the matches against Iceland and Estonia. Here is the full squad - Fakti.bg
-
-- **URL:** https://news.google.com/rss/articles/CBMizwFBVV95cUxPLUJUbVNvb0Z0Ym5EbDJsa1ZFSE9ZU0hEZ290Q3o0M1otUTdXTzhMbDY5TExBT3k2Ym1iYXRyOTl0YjdLc1NLemVtb19vU1A0Qm14cm5NakFwQ1ZURklkQkFvRjc0WjMxSjRwVjFmS19PNHdfUTFFSm1DRXQwakpHeHZGcWZxb04zWmtac0lWdU51bmJiTVU3UWRaVXNrZTcyU205U3c1eERESUhkdjRleEdHODVEdWxpOUk4S2FDMUJFRW1hdVZBbnNyUXMtdW8?oc=5
-- **Source:** Fakti.bg
-- **Published:** 2026-11-03T08:51:00+00:00

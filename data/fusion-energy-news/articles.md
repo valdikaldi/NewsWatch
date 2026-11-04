@@ -1,8 +1,80 @@
 # NewsWatch — fusion energy News
 
-_Last updated: 2026-11-04T11:53:59.513962+00:00 · 50 articles_
+_Last updated: 2026-11-04T19:27:20.154215+00:00 · 50 articles_
 
 ---
+
+## New zinc-ion batteries retain nearly 90% capacity after 10,000 charge-discharge cycles - Interesting Engineering
+
+- **URL:** https://news.google.com/rss/articles/CBMiggFBVV95cUxONEt1S3lMcExKeTFQTnpBUklnekxfdHhpVTFvRW8yYVJRVkZKc0lFbTBzbW5EUkNsUjZhbk1DTVpGaTg5SXBMdm9WQUlueE9qcWk4enZDOHN2LUJkNkdVcnczdDN4aUlaM1BScEd5OFpST3hZSjJwTVB1c09Dd0UwbUNn?oc=5
+- **Source:** Interesting Engineering
+- **Published:** 2026-11-04T17:18:00+00:00
+
+## The science will melt your mind but UK leads race for £12TRILLION nuclear fusion prize - AOL.co.uk
+
+- **URL:** https://news.google.com/rss/articles/CBMifEFVX3lxTE4xNFN0cVl2TEtSTWhFNzhSNWdBdWFkaFNkNERURFVLUVltR3p3TXNWc1ZvSGxCNWFrMGp6ZXJxTGsxVzBvZE9FWHVwSWdUeElvY3pPZHV2QWdwSzNXa3kwSzBrSUxjNkJRTk93cWNEeHBYemhHLUdYOHJ3QkE?oc=5
+- **Source:** AOL.co.uk
+- **Published:** 2026-11-04T16:36:16+00:00
+
+## The AI Boom Needs More Power. Could Nuclear Fusion Be the Answer? - www.cheddar.com
+
+- **URL:** https://news.google.com/rss/articles/CBMimgFBVV95cUxQb0loVElNX2QtcXphZ2VFanZmNEFlQWZsUDUwaWs1M1QwZV96aE5uNnFhS2F0ZHZSVFFVWkNxakRXeXNWNk9zUEV0V1M4bUFteEdYZG5DcWV5N3gtcHJwT2JBYWJBa01VeVFoZmZsLTJ0bmZjNGRoVGd6aHRWb2dfcFMwZndFRzBhOTNmWVJZMHNqaVQzZlpZaG1R?oc=5
+- **Source:** www.cheddar.com
+- **Published:** 2026-11-04T16:17:47+00:00
+
+## NSUF awards 18 Super Rapid Turnaround Experiments - American Nuclear Society
+
+- **URL:** https://news.google.com/rss/articles/CBMikgFBVV95cUxOUmdDTy1vTzZha2FiM19meWRrSWt1YzFNQkduSmFxY1MtQXRtMHdFMTlxQ2dnN3RzZkVDX2RjTXFmSTZLOE1JeVFnQzMwOGVEQ3BadXVDYUMxenpCTDBZLTJMRXQzNjltUGRNSjVoUnFTTUlOSjc4MzNvUGJXV3cwTWg1N1h1OHJyNEJMTXVmdGJpdw?oc=5
+- **Source:** American Nuclear Society
+- **Published:** 2026-11-04T16:15:24+00:00
+
+## US nuclear reactors secure new fuel as Urenco ships first advanced uranium batch - Interesting Engineering
+
+- **URL:** https://news.google.com/rss/articles/CBMigwFBVV95cUxOYU1oRjZTaThDMkR4d1RLX05PMnpOTHRsNmd6Z0I2T3RZODU3c0w0RERaQTg0V2l3czZiZnlTYldRR2RIQ1g1MV91bTJKeWhvN1p3bm80emNOakVyd2t2bkRMYWFwd0xwcDk2ckdTY3FVdk1HRjVOcjNYTUlDdkM2SlBldw?oc=5
+- **Source:** Interesting Engineering
+- **Published:** 2026-11-04T15:48:00+00:00
+
+## Nuclear fusion reactor gets massive 13-ton beam box to achieve 108 million °F - Interesting Engineering
+
+- **URL:** https://news.google.com/rss/articles/CBMihAFBVV95cUxObFhveW1kLThRdUVhV2RJcXE2cEd6N05RUEV4TWFuY2FYRnR0TkZ2MGZxVHhxNzM4ZTNNUm5XRXdMOTRWbmFYdklLTEJueExlWTlIWlB4Y3FhZnhQQkdJbHpFdXdUQVF5NzY1MGF4cDNkcXBiOFZsTGJuME12YUFyd0x5LXU?oc=5
+- **Source:** Interesting Engineering
+- **Published:** 2026-11-04T15:27:00+00:00
+
+## VIRGINIA: How Governor Spanberger Plans to Make Virginia a Shining Star - Site Selection Magazine
+
+- **URL:** https://news.google.com/rss/articles/CBMingFBVV95cUxQNWEtOHRNWlZXbzBUMHB2TjR0RFpucjk5M3ZKZElQUnFxb2FHWGJFeEg4ck10OXhVc211dW1VaWVUNkRpODB0QVhhOVNPNlgzU3M3bDc5YnUwbGpUQjhNNGFleHhfaWpmdnpZNmlDMUVxTkh2NlZZRUhvZHFkMHFpbGU4Q2lvVEcwQ1RSR0prbDdjUmk2Q0t2SFZibzN5UQ?oc=5
+- **Source:** Site Selection Magazine
+- **Published:** 2026-11-04T13:48:23+00:00
+
+## Thea Energy Collaborates with MIT’s Plasma Science and Fusion Center on Planar Coil Magnet Program - The Manila Times
+
+- **URL:** https://news.google.com/rss/articles/CBMigAJBVV95cUxQWHNyQ1NlWEhHS0lUNXRxT0VDVFlncnp5RDdGcFF5U3FuQTNEZzd4QlVwWkRPWUhkZFdlZkdwV1FNTWxKb3lvMjNPT0Y5NFBYOWNldndHV0hfYU5EUnV3dEJ4Q2QzT2VkdkIwNVl0WGtCNGhlR2RoUE44bGRYN1Y2bTZTRFNWMFVmSWJpTTV6c29TdTl5MnBPRnJSRGU1T0hRZ1dIRGp6Q1c0SHNnRmcyRnZ2MnJOcmMwaHAyME5lWEJQSkpfN2lNczV6ZE5hR3JlMktIX19iMTVIUTBrZVBXRHpQTU9jaDdyUlhud2dxdzhMR245aUFVVkI0UXIzYzJF0gGGAkFVX3lxTFBvQTlZcUF1eC1aZUhSOUZnNnlCd05VM1d3V2pBYmN3WlVPcmlIQ252MnBaaU5la0FoZFg0cXQ5WW5hWmMzMHliTVFvdndWdFZjR05sZ3FpWWlycm5Nd3dlZ1dYNkM0MDVyMFUxYUs3MU1xeE9NeFd6Yk5UajNPNlA4ODAwMXY4QWVaWHZWbko3bVJGTC1PQVpJNjNHSEZaWFNLQVp0cGE0X1pYSnJ0em1oN2RXNVB4cTRJVUpxeVdCWWJMNGd1SEtNQktjeVFkUzg5dUFESFplUTFZLW9Ba21oZGtNM3owVDRJd1JuTDJoWC00dkE3YmQzRThtQzJIY1lmY3hQYkE?oc=5
+- **Source:** The Manila Times
+- **Published:** 2026-11-04T13:43:20+00:00
+
+## Ranking Member Lofgren Announces She Will Seek Chair of House Science Committee as Democrats Win Control of Congress - House.gov
+
+- **URL:** https://news.google.com/rss/articles/CBMiggJBVV95cUxORk5ESW9yLXlPUkRBVGlhcUxLdUVPb0xNaGdzRk1QQi1ZNWpFRTFQUXlTRU5FUHhma1B6eWpmdDctMF80SzZ4bW5nR3RURzNWakpxaU16N2RDWUlvUWI2Mlp2WVNQajZtcjRCaHZVN1V0VVRwcHBRUUhXX3lnQ1JNUGZ6VDctNkRVMzBNUUg0VUl1ZXRBRG5pczRzRGVFcTRDVzAtZktiLTZJY1F0NDJ6dDNMYllyRkc4RldtNlNxLXN4YjY2TmdXWVJyZ2pwWkxLZTczYUctMENPLVhPYnF6VFZzQ1g3cEk3RF9hcGo2c1hIeTBmVWtSeXhIU2RrN3oyNlE?oc=5
+- **Source:** House.gov
+- **Published:** 2026-11-04T13:32:55+00:00
+
+## Hyundai unveils 5 MW hydrogen system designed to produce over 700 tons annually - Interesting Engineering
+
+- **URL:** https://news.google.com/rss/articles/CBMieEFVX3lxTFBtdGdTc3RHdG1sZkluS3ZrcFRXZWtncWxpY2FJTFgwV0JLQnB6dmc3dEliMU0yUzkzRzZUNmxkOFRqdnlJdkJvcHljUk9xYWNEQ0M2VjFPTWVyZEh6Zy1WQk5uWmFjT0ZzWGRoeG51Q2VSR0N4bmsxeg?oc=5
+- **Source:** Interesting Engineering
+- **Published:** 2026-11-04T13:31:00+00:00
+
+## Nuclear Fusion Market Size to Hit USD 49.73 billion by 2034, Growing at 13.49 % CAGR - openPR.com
+
+- **URL:** https://news.google.com/rss/articles/CBMimwFBVV95cUxOTXNaZ3hsNDZVZGVYWU1QSElXYVBXa1JGWG0tVExsZHdIUDJzZEZxZWhmR1NmOWRUUUlHM2tTNGdsZS0ybVlhSmxha1NVMkhENXZVOTFISEpOYndVWjdYNS1FVDduUjdsczBNa3BHQ09TZHdWZlBhZUhRZFZybE9jb3VSRkJKd1VWQWZ3N1dCTG5idzBNZkVNMkppMA?oc=5
+- **Source:** openPR.com
+- **Published:** 2026-11-04T12:47:34+00:00
+
+## MPs double down on fusion as Britain’s next big energy bet - Energy Live News
+
+- **URL:** https://news.google.com/rss/articles/CBMiogFBVV95cUxPOW1BX25tdThPTnRwWEhhaml1T1Q5aUpKRDJ0VF9OMkd5UGd0eTNNREFwQUhoOFlDUUlsajVBNVNmQjFjMEtvaUFRZUVyMnVRVi1IdWg0RnA0cThFYzdwMHJrWktFM1pSRFVCT3R0TGdLdkd1R0hJbHNNVklUaW53TzdDNUxrWTVFSGtSZ0Y2a2JMX0RJV1B5ZHFsdERTNlJyYkE?oc=5
+- **Source:** Energy Live News
+- **Published:** 2026-11-04T12:08:38+00:00
 
 ## UK fusion upgrade advances with 12-tonne component installation - Mining.com.au
 
@@ -231,75 +303,3 @@ _Last updated: 2026-11-04T11:53:59.513962+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMia0FVX3lxTE8tdzI5VHE3alViUHRrYmp6cUktc1hweUdVbkhudk40ZlBoU1hvX0c1X1RJVVdhb1RpWHZERDg1SmNxenNXanNqWUxBOFQ5T2pzRU1tS1dUb2ZQMzNjNDRScGoyZHI0YmJqWFhz?oc=5
 - **Source:** Make Tech Easier
 - **Published:** 2026-11-03T03:08:30+00:00
-
-## Ranked: The Countries Building the Most Nuclear Power – Visual Capitalist - EnergyNow.com
-
-- **URL:** https://news.google.com/rss/articles/CBMiowFBVV95cUxNdEt5SDJ1Y3UwcUxhYUZ6dTFsQkFoQ1QyRVQ4R3IwSk9lcHZyTThvUXVnT2xaUmg4dVFSZjhBUkdrbUdCbXNLVzlWdDlYbEpPX1BDU2dwVEF4aFFsakJ5Y2hWV2pVSkJEcTZRZnJoOGc5TU0wdE1hYll1Q3dIM1RXM281a3l2WUxvOG5YZ29wNDR4bC1YWExVdFJfTjVwLUEzd3c4?oc=5
-- **Source:** EnergyNow.com
-- **Published:** 2026-11-03T02:29:27+00:00
-
-## Exotic Atoms Reach Magnetar Field Conditions in Lab, No Neutron Star Required - Tech Times
-
-- **URL:** https://news.google.com/rss/articles/CBMixwFBVV95cUxOMjV0WmR4Qm9WeVFURW5RYzFWTUtmTzZJelJEeklCNWo3SEpQTDFTOGZOcFpNd3VpUXBQYmNhbWg5c0ptU1k2VlZOVmpWZzZkMGlYQmJwU0RXb0E5dDBkdkdqWWZBX05DUk1pWWN0ZGp5Z3BfX3lzYUlFWDVFUGQyQ2VYeVlfM3JfMlF3RldvdkVPT2NaSXROc0RuQ1dIRWZNVXNUcFhrclc2UG1lVzVmd05jYmtlRlpOXzA4UV9HUVZjZEFFMnhJ?oc=5
-- **Source:** Tech Times
-- **Published:** 2026-11-03T02:09:05+00:00
-
-## Tests and treatments for Alzheimer’s | Bill Gates - Gates Notes
-
-- **URL:** https://news.google.com/rss/articles/CBMiogFBVV95cUxNMjlQVEh1SG1JcGlWVUZMUVZFMTlPZ3JQWUxVUHlzZlVHTjQtSGppb1BOR3VSN0dPT0RQUVVjOGNKQVlWMFBXaHQ0S2NXZldZTlUzQjlDUERDWW5mMFV3RnZicE5hbzQyX0NzczNQZGJnV3JJWmQ2ejNQU3JHNDlnSllOMV9oTGtHNmhUR2R0VVlNMzJBTmhnMngyTGgzeGdISHc?oc=5
-- **Source:** Gates Notes
-- **Published:** 2026-11-03T02:08:45+00:00
-
-## Iron Ore Price Steadies as China Steel Output Cuts Fall Short - Discovery Alert
-
-- **URL:** https://news.google.com/rss/articles/CBMijgFBVV95cUxQcWlJZXhlUGM1N1hPLWJqQmEtVk9HcllacFhKWV9ac3NGYS1jc01UNHdtVVpyMjNWNVhteXhIbFg2N25mMnhiakRWNnM3R3N5UE91Z3EyMmNVekwzb0x3OFY3Wmx6V0ZGOTlGLTV3SnpUbDR4ZE9YTW55aUxkRDlXeEtZeWJlSW5JY0YwY0R3?oc=5
-- **Source:** Discovery Alert
-- **Published:** 2026-11-03T01:27:17+00:00
-
-## Richard Buttery to Join UCLA as Kenneth C. Griffin Endowed Chair Holder in Fusion Science - UCLA Samueli School of Engineering
-
-- **URL:** https://news.google.com/rss/articles/CBMitAFBVV95cUxOWnZHYXpnczNsRENvNkk0U2dnSTRWZG0xTWxFRGNnZUp4aTAxYzJHS1M2LXlBcmF6cTR0Rm9UN3pRdnEwd0R3ZC1MMlU2VmVHQkNFa2x6SG9SOERvTGRCcUZhUElIb25nOFNWMy1US3BmcjZLS3ZNcUVFMEtPdlVVQjREWVZTVzBnbnFfR0NUM1NVQ3lONEhSMVljcE9vNFctMlNRSHh0b1loSnROVEVhbVllSW8?oc=5
-- **Source:** UCLA Samueli School of Engineering
-- **Published:** 2026-11-03T00:44:26+00:00
-
-## Fusion energy planning consultation misses the mark, says ESNZ Committee - UK Parliament
-
-- **URL:** https://news.google.com/rss/articles/CBMi_wFBVV95cUxOZ2hVMzFOaV9FRzdRNjEzRGg5S0FLWW94NzhjS3VhbXhRanB3QWpNSEpBTGFHdDZDSjBzWEVGLUdWZnVxencxVkVrZVN0QUJKWV9jV0dSMzYxT0J1aFRzVUZHaFBvTW96STBCZkhOdE1oM1JhNGQ1NHlxQmJSZlhrTjNubnE4MTdRQ3ZCdHpLcEVlNWtLYmpHazVldjJJZjVua3V3cHBQeUFsMGRjWTUzdmJTWE5uWGhLbU9XRHVKb3RCWXNXamVrQlV2TG5QdlZpek9MUHBmUzl2SlR3a3V2T1JOa0N3TTRvN3F1Z3pORGVQRUk0eDdDLXRGVXpTMVU?oc=5
-- **Source:** UK Parliament
-- **Published:** 2026-11-03T00:18:04+00:00
-
-## ADNOC’s OpenAI–G42 plan connects field design with commercial decisions - OpenTools
-
-- **URL:** https://news.google.com/rss/articles/CBMiiwFBVV95cUxONlo2di1BRGFBR2FtaW42UDQ0dkx4a1VnR1A1S1JBbVVvUHR2ZkwteDQtWU9jYUYxeDB3UTBXTXR6QlVxQnVxbEs2RHM5NEZKbmd5THhDVzJrOUt1RmI5Qms0TE1iM3VhZ0FFTzFYRl9KQnM4U1ctQ3MzQVc0R3djSVRzOEFIcS1ieGdr?oc=5
-- **Source:** OpenTools
-- **Published:** 2026-11-03T00:15:16+00:00
-
-## Dancing, praise, pure joy at Vintage SonFest - Barbados Today
-
-- **URL:** https://news.google.com/rss/articles/CBMihgFBVV95cUxPaXRWTDd2U0toSEREUXBibDd4WkF6RG5oenZfcXJCUG12TVczaGt6ckpLUXBVZ1VtY1VoUG5Jd3ZQQXBuVDVhbWJZRzl1MEQ0Tl9jTl8tVllxbFlNUG9OcW1ULUNMdVY5cGJTOHY4cmJUQno3cWNKeFVkdzJYdUlHdjlqaDg3QdIBiwFBVV95cUxPVHJYd1BCMUx2Y1JWVnFOdlQ5bGNBWUd1b2dNd29LeUNWSVFqSXlabG10c1JTdjM2ajV6VVdRUHFZWmFDUTM5bGlNVkVTUDR4bXl2NDJJMmRJT3Q0aUs3MmJmcTlIbHVrTlg1OFFhWUlTSDZuZFNIU1BGYnJMdHFfdmRyY0czcmVRSkN3?oc=5
-- **Source:** Barbados Today
-- **Published:** 2026-11-03T00:14:29+00:00
-
-## Lab-created gold back in the spotlight as start-up makes bold claims - Jeweller Magazine
-
-- **URL:** https://news.google.com/rss/articles/CBMitgFBVV95cUxNNEcyRXZmdTlFYVVrUnFLSzFoeEk2YkN2WGdCVUdxZUdYVUpYNHByaXFPZk5fRW5QZTRyeTFFdWdkRGVCV1BCMl84cE02SUxmMHMtVTROQm1GOXBLcjJoeHhyZUo2MlEyQXBLQlZkN0pZLXFIa0RGdHpaS1J0RmVXbHpCMU83M0VSSFZCRUtvRkVha0N6UTN2aGd4X1ZiY1M0MDJWTUViZjI3SkY4NXBNUlpxTWpJUQ?oc=5
-- **Source:** Jeweller Magazine
-- **Published:** 2026-11-03T00:06:32+00:00
-
-## ATS Energy appoints CTO, board members - BizWest
-
-- **URL:** https://news.google.com/rss/articles/CBMieEFVX3lxTE9tTTZrX2Y3OWNjSGlfMS1KWERZeEhOSG8tcms5ZXhZSUxxVlpuVkhtdkZNNGwtbkJobUM5dHlBa2RteTZfNEszWV9SYTA3YTNMeXlCR1BYaEJNNDdkMHhMZ0h4S3doaU1hdV95N3hzNzNCX0tnT2Z6Yg?oc=5
-- **Source:** BizWest
-- **Published:** 2026-11-02T23:04:08+00:00
-
-## Who Gets To Benefit If We Start Mining In Outer Space? - The National Tribune
-
-- **URL:** https://news.google.com/rss/articles/CBMikwFBVV95cUxNSjRqcEYzYlYwMTU3MVlwb0NxNm93MTdUYl9xMDQ3dUluSlh5bFZqZzMwZ0d6bFJuUldFS1VBMVFkUjdLbFZhUVp4MkhUM1l5NGFwZkd4d0pqY01NZmFHamxRLWhvRTJMelp4X2p6NDZRakVrMWxkLWZPZWxMa3NQN0xFM1BnYVcwMnl2ZF9YZHE2RWc?oc=5
-- **Source:** The National Tribune
-- **Published:** 2026-11-02T22:19:09+00:00
-
-## Another bipartisan push to reboot Congress’ tech expertise office is underway - FedScoop
-
-- **URL:** https://news.google.com/rss/articles/CBMidkFVX3lxTE9VUXZZSlV5R3FvOXBwNXVCQkVmMnpRTTZnQzJKTXB2TzJqQlJXbTF6YmpkcGlaWDE4b0Z2Vmx6bG5jaEk4WTR2ajlkdXZJTGRlR0J0Uk9FcEhqSDd6LWZyZnNZNlRBanlxTWVEMVpiZnNNcV90Zmc?oc=5
-- **Source:** FedScoop
-- **Published:** 2026-11-02T21:43:49+00:00
