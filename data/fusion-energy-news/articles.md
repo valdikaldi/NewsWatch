@@ -1,8 +1,80 @@
 # NewsWatch — fusion energy News
 
-_Last updated: 2026-11-04T00:25:50.489662+00:00 · 50 articles_
+_Last updated: 2026-11-04T11:53:59.513962+00:00 · 50 articles_
 
 ---
+
+## UK fusion upgrade advances with 12-tonne component installation - Mining.com.au
+
+- **URL:** https://news.google.com/rss/articles/CBMijwFBVV95cUxQWXduLVhTQjV0elg3bG9jUG1kY3NxeEgya3AwNkVlODBIZ2M2SllRakt2SVVHT1NOaDE5QUdad0VibmtBVnBaX21USlgwNWp0MGVyMk1aZVhodUdiNzNMX1hMVlNaVGhPNTBwUVo2X3ZCdFVaWmhWX0NCMnlvb3M3SEwwVXhTOXRzSkdma0lKOA?oc=5
+- **Source:** Mining.com.au
+- **Published:** 2026-11-04T09:56:15+00:00
+
+## 235 Wh/L battery uses tin and carbon layers to reduce lithium loss - Interesting Engineering
+
+- **URL:** https://news.google.com/rss/articles/CBMiigFBVV95cUxNcTdGRGE3VW9qaU9tbTAtbTVRWU9BVlR1RnROQ1ljZFl3WXVYSERtcVQ1RHdzQ3N6UUJhZThaNkpjOFVob3hmcS1LSEVDM2RibjkyME5zWVhPeWlJbHNPMjhpM0lQTjVPLUpsXzhWU0ZLdTlDOVMwTlhwclFjTFZUcVpnU3RycFVrRlE?oc=5
+- **Source:** Interesting Engineering
+- **Published:** 2026-11-04T09:36:00+00:00
+
+## Agreement forms strategic collaboration to accelerate global fusion commercialisation - TheBusinessDesk.com
+
+- **URL:** https://news.google.com/rss/articles/CBMi1wFBVV95cUxQWW1MUkkxV0RvYVkxbTlkalY3eExPeHBYTnhBVWl4TlRiZy10Y1B5ZWF5THBYMWlUVUhBU295Q0g3bTFsb0lHTHI0WlRYVW9lc3VrOXJ4Y0JsWFFLUXBmWDgtQzJkcjkwZDdLS2I2ZUpaeEpTcEtqTG4xS3NfeHFaZWlMSlRpZmNTVjc1bDZFdm5rNTlMRWg2NXcyMFRHajJJck90R1NCLS1aanRWRFpmclVMYUxhYVhPNWkwVlJ6QWU2bHZSWWZxbVk4WVJ2X2U2UFczem5Nbw?oc=5
+- **Source:** TheBusinessDesk.com
+- **Published:** 2026-11-04T09:30:24+00:00
+
+## 600 MW floating nuclear power barge targets US in world-first offshore advanced SMR bid - Interesting Engineering
+
+- **URL:** https://news.google.com/rss/articles/CBMigwFBVV95cUxNcUVmaUNsdHJkNHZOZGlwVVpFdUVkSWFnOUMteDBESlJQWklWLTdyTExYOXNuekpKWVdtNkJGLTVKQ09PVkdNeEpiZF85QWtmTkJVQkFLODktRWlCUkpDcTFNVHM4SjBXVklKMXFVWXhaRkZaRHJOZXNPX28yU2pFRWgxVQ?oc=5
+- **Source:** Interesting Engineering
+- **Published:** 2026-11-04T09:07:00+00:00
+
+## UKAEA installs 12t ‘double beam box’ to boost heat power at fusion facility - New Civil Engineer
+
+- **URL:** https://news.google.com/rss/articles/CBMiwwFBVV95cUxQb1djVVktME5UR3hzVUdxUDhPdDU3WllrX3plclZxdTUzdjAteUZQS1hqR01LbElGODVYZ2prMk40eUxmczBJYk5MN053a3dYX01hMEdBTjUzVTc3TDFVVzhIZ2FJdHNLaUhFbnVqdEN4OWZDWXl3c0diZXFmc2VDanR5aFFBUG5mbU9NRUJaXzRhOXhWY1RzaEp4MTBPWWdScV9SYjdwX0g4Q2RVNEJ5MGgyeFlnMEZETEpBNFVDLUVwNjQ?oc=5
+- **Source:** New Civil Engineer
+- **Published:** 2026-11-04T08:46:16+00:00
+
+## INOX India Q2FY27 slides: record backlog, aerospace orders drive growth By Investing.com - Investing.com India
+
+- **URL:** https://news.google.com/rss/articles/CBMiygFBVV95cUxPemt3ZWVNT2VCR1RrZ2EtZVZYeFdNRXVQeEdyTHlmYU9wX3NFNXJLV0dSOERqZEV0Nk1QZzdQZjl0SWRwczRibzg5dk94Wlh3bkdKOWY0ZGxjWnQwbjFNemJZY2JzazR0WXA2ZE9UNlJPV0NWN0pPQ1hOc2J3cU91Z3VwMmR0endvQ3lsbGJBZEdNN2lrTE9tR2w2akhpMHo2ODlKNUxlMHdlOEE0NTlYOXhQYmdfMGd4cnJiMFgxWjMtekp0UEJhci1n?oc=5
+- **Source:** Investing.com India
+- **Published:** 2026-11-04T07:47:52+00:00
+
+## Freemelt secures ITER-related qualification project from Alsymex - TradingView
+
+- **URL:** https://news.google.com/rss/articles/CBMiygFBVV95cUxQRGNzZi1pcFlJVEdrMEwtZFZRTW55cFh0Y1FpVC1tY1FQNkNDaWRpMEFiM0xtaktGUnNpeWFaMDIxOERLMzdreHlqaFdPLU9vT1FMT0wySDBub2VzeHlPYW5mLVZRYThvU2hOcVlEMkJQOTVzbTlDdmFvSDVtamNLRnp2RVNTbVZUcE1mQ1FsZnRhbVcyeFVkdmhaMkEzamw0R1QyOFNFdFlwQkcxUlczOG4waUdxejdPczRBem5ZTTZTVFN1U2JEbnRn?oc=5
+- **Source:** TradingView
+- **Published:** 2026-11-04T07:18:00+00:00
+
+## Kyoto Fusioneering und Focused Energy bündeln ihre Kräfte, um Kraftwerkstechnik für Laserfusion in Japan und Deutschland zu entwickeln - The Joplin Globe
+
+- **URL:** https://news.google.com/rss/articles/CBMiowJBVV95cUxQMU9IcTczNnJkY0tDR3dRS0p0dU1qaGZhUk90REdveEpwcnNLWHc5MWdZYm80NkRIeXVRWGdfNDNIckZpck9TQ0NrZUtuY3dNZHcxM0pkU0tGY0Y4eW52eXlESGxQcFFtamFyU3ZVNU10V1czTUxzQWxibVJTcG5ZRk1hYTk2SnhZbDg0aTdXSGhBSWxEWWgyeHF5SzdPM1E5T2dDZXVoWndXVkF0T19Qc3VuTkU4ekZ0bUprMkJGYVdMYXBVTzBsQzh0Q3V2T0NkT2lDOGZET1lDOHRYS1lDWVRMV3VBNEpkeDFpYkZLeGNKNUZEWFhHMGdUNnhGZTFHVmktTFZuTjNadDNiNGQ4UERmWWhaLWpjZmFyT2RvTjdITnM?oc=5
+- **Source:** The Joplin Globe
+- **Published:** 2026-11-04T07:00:51+00:00
+
+## Pranos Fusion: PRAGYA and PRANIK – India’s Private Nuclear Fusion Initiative - StudyIQ
+
+- **URL:** https://news.google.com/rss/articles/CBMiW0FVX3lxTFBNMFhjZU1BRWlfWXJRdnlkMUc1dkpHbkdMZUVLWnRmSWU4a2RhTVlDeGdvaHQ3RXhZNXE0aDRaSG90RzZ6ODlUUVJneUFkYVF5MDFRMVV1cjhXOXM?oc=5
+- **Source:** StudyIQ
+- **Published:** 2026-11-04T05:36:52+00:00
+
+## FIA Leads Fusion Trade Mission to Japan - Fusion Industry Association
+
+- **URL:** https://news.google.com/rss/articles/CBMiigFBVV95cUxOS21MVFdKQWRIbkpVRjJXX1NScDNrRU80ZmN0VFlZVGpMQ3pQc3MzWWZNXzJYMDBkNzJuVlF3cnR6SDN4Zmd2OUNtdVh6dV9FYXBFQ3FGazVCYXY3b1BSSDFPTjh2NF9mWXhjd0FCXzgwSHY2YUtrMV84NklKV3dWb3ZKaUtqYVJ6cWc?oc=5
+- **Source:** Fusion Industry Association
+- **Published:** 2026-11-04T04:02:49+00:00
+
+## Kyoto Fusioneering and Amentum Announce Strategic Collaboration to Accelerate Global Fusion Commercialisation - KYOTO FUSIONEERING
+
+- **URL:** https://news.google.com/rss/articles/CBMiY0FVX3lxTFBTcllnRXNXUGtJeW1fU2xaSEZRdTdkZ252Y184SU1wVG9QTDZSdUgyYVlMclA3Qkx0WkJRWXhKUWRFUV81TzdQZWZZd3ZXM1h5LVRFQlNYT2tyTzNVeFJOeDRqSQ?oc=5
+- **Source:** KYOTO FUSIONEERING
+- **Published:** 2026-11-04T01:00:00+00:00
+
+## World’s largest fusion reactor tests 330-tonne magnet built to control superhot plasma - Interesting Engineering
+
+- **URL:** https://news.google.com/rss/articles/CBMijwFBVV95cUxOc3MxZmhpb0gtQ1EwVHFPcTc0c1E2SVVlM1JiNEZ4WXZBX0dvQTlreUs2eXVObk05RXJ0a1c0bXVxeFZ0QTFEclNzMnp4RlU1M0RMTktDTHROSVJLQkVvTjNpMC1FRmFyOXdhRGR0ekM4ZlNJaG1PZFhfcGVoVFNqZWVLMm9jcGhOSE1ONXlXdw?oc=5
+- **Source:** Interesting Engineering
+- **Published:** 2026-11-04T00:51:00+00:00
 
 ## DOE Announces $8.5M for Fusion Energy Public-Private Partnerships - HPCwire
 
@@ -231,75 +303,3 @@ _Last updated: 2026-11-04T00:25:50.489662+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMidkFVX3lxTE9VUXZZSlV5R3FvOXBwNXVCQkVmMnpRTTZnQzJKTXB2TzJqQlJXbTF6YmpkcGlaWDE4b0Z2Vmx6bG5jaEk4WTR2ajlkdXZJTGRlR0J0Uk9FcEhqSDd6LWZyZnNZNlRBanlxTWVEMVpiZnNNcV90Zmc?oc=5
 - **Source:** FedScoop
 - **Published:** 2026-11-02T21:43:49+00:00
-
-## DOE Awards $8.5 Million to Advance Commercial Fusion Energy Research - EnergyTech
-
-- **URL:** https://news.google.com/rss/articles/CBMiwgFBVV95cUxOY3hjbTFyWGsyU3hJSGF4dy1FTDE1Y0dYek85NUh2ZnRpd2dsNUdvMGdqUGw4N3EtV0RtMGZ4ZmQyMWpDYzVDNFhQNHI3ZnppNVAxNE1BWnlvMXVDODExd0lCTGpXVTV1cHBia3J5YWlqZnFaNnk2TER1RTZwdllSNEp0Ql9Bc1dlb1JtQm5KM18zbnRYcmpOdnQ0R0ViNk8wTmJXbFA4amhPYVJhNlhuSkFsbVNOS3VtWk9WcFhOcEJlZw?oc=5
-- **Source:** EnergyTech
-- **Published:** 2026-11-02T21:21:23+00:00
-
-## NTEU wins two cases for employee members against the IRS - Federal News Network
-
-- **URL:** https://news.google.com/rss/articles/CBMiswFBVV95cUxPZWZVV1g2M0REeE1rcGEtYXFLbDFKR1FTZjNCaklNa0FqLVVJeE9CbFJiTHNuMXg1OUtMcnItMzZEa3lKN2M4ZWFIbWFGbU5jcmhwcDlGWDdnRVhrVGR6bGVtMmpWY3NHTGdsNWdsTlR0Vm93MEF2QVhqU2s2V2czRDg1OVQ5N0w3Q2xIUnRqcTNNaTFlRENobnAwZWFOUUhqT1BMbDJTZFVmc2FmR0NSN1RoQQ?oc=5
-- **Source:** Federal News Network
-- **Published:** 2026-11-02T19:46:21+00:00
-
-## “The repair campaign obliged us to rethink the way we work” - ITER
-
-- **URL:** https://news.google.com/rss/articles/CBMihAFBVV95cUxPV01UNGVyRVBROEM3Z0Y2U2s0OGFtOGhFU3NkVVF1ZUVLcVFEWmZmcHlZWnF5UXRjUWN3cnY2MlN3dmY1cFlRT1BBbjM1YmlFUm1ETHU4M3AtWkFqYmU4Z0RscGI4ZE1ycUdCX2t5NWpPSHE3a2NSMklURWFCOUdvZFBiaV8?oc=5
-- **Source:** ITER
-- **Published:** 2026-11-02T19:10:46+00:00
-
-## Deeper international partnership must help unlock geothermal globally - Clean Air Task Force
-
-- **URL:** https://news.google.com/rss/articles/CBMinwFBVV95cUxQQlFRcUJNb0tWMFpXRmRSZzA5X195SGFucHlGRHY0dmY5NTI0X2oxcGlBNzdNY1NFblI5RDMtLVZtYkFieFVMSGw1ZTVMNVZqQ2JrR0pFZmM3dG1mOFBIb2Y1dE16WExiR2k5eEtVWlZtVzUzNnFnRzNCM2R2dXJjTllyd2laRjQ2aGVqbGNmbll3aFNwYld2WUdSaXR5X2M?oc=5
-- **Source:** Clean Air Task Force
-- **Published:** 2026-11-02T19:05:29+00:00
-
-## MITEI’s Future Energy Systems Center kicks off projects to address data center energy demand, long-duration energy storage, energy affordability, and more - MIT Energy Initiative
-
-- **URL:** https://news.google.com/rss/articles/CBMiuAFBVV95cUxNeHdKUjI2eHFVX1dreXZHc3VwVlc2MEs4LWUyTUFYRGtlbWNXQTMxWkFXWmgzdTVMMk5fc0xXdkh2Yl9CRWsyZm80QkxSSDAyTHJfWUljNTU4Z2JveE1EVnBfSFBqQU9tQmRPRG5wSllIMWV3eXk5Vi1aRmVaaEhNRWs1RXk5ZUlNWHI0Y2VPOXlnWDg5SzdlWEJETndtbXNHcmJZbmt4bFNHU1I1Vm01Wm5EbU5KaEh3?oc=5
-- **Source:** MIT Energy Initiative
-- **Published:** 2026-11-02T18:33:45+00:00
-
-## Trump Media Rises 6% Ahead of Midterms With No Clear Catalyst; Rumble Slides 3%, Reddit Gains 3% - 24/7 Wall St.
-
-- **URL:** https://news.google.com/rss/articles/CBMi0AFBVV95cUxPR0laclpBdnVybWVJOC0xeGxUS19WbktpXzlNcElwMHU4MXlVQUU1d3YzZ0FjdmJ1SktIMlZuU083RV9ETTgteVhneXl5U2E0THF6eG9aeVpDYXBwaFpVcFN6ei1XQVdpaUtfbV8tS2VMelQxVUJBb2drLTE5VlZFYVhpU05BS2xpY2hlQlExWFRGbkxBc2RfU2tROF9XdHUxSTlDU2JuRU5pSEg5bnBSeURXVkFRZkpHZmwybjVjYnRsRDAyX0dUek1UdDVXWmVX?oc=5
-- **Source:** 24/7 Wall St.
-- **Published:** 2026-11-02T18:04:00+00:00
-
-## Embo Music Fusion Concert - Algoa FM
-
-- **URL:** https://news.google.com/rss/articles/CBMiaEFVX3lxTE43dXVzNEU5MDIyN1R5UzVjU2Z6OFkwZnBTaHB5V2Nkc3pVZHNJRHd4cmZ6d05aa1l1Y2U3c0pqVldEdkN3OHNyS1JycEhnSEZoZl9rel91UF9Nc1JSWGFuVmJSQXRtX2JC?oc=5
-- **Source:** Algoa FM
-- **Published:** 2026-11-02T17:40:33+00:00
-
-## Urenco USA Completes First Commercial LEU+ Product Cylinder - Securities.io
-
-- **URL:** https://news.google.com/rss/articles/CBMilAFBVV95cUxQa0syTGk1ZHBabkdDdVJGQ3ZWbkNMbnVXZHhzZFpOWS1sei1JX0R1NWc3NTMxdUcyMXpHMDJPSmYtNy1EVmRaM2d6eTNtLWJNUkljTGJ0Um9YM1VUOGlSNGdEbVhReVh0a3dMdm02d3d4VG9HbFR1Wm9ONVhxRlJ0Q1R4UmtNNmtLN2p1S2psWEhhRHZT?oc=5
-- **Source:** Securities.io
-- **Published:** 2026-11-02T17:27:49+00:00
-
-## Freemelt Announces Preliminary Financial Information for the Third Quarter of 2026 - TradingView
-
-- **URL:** https://news.google.com/rss/articles/CBMi4gFBVV95cUxPTUJCX0ZSQ0libVZNTEpNczFzeDB4RXplSVk0SzA5ZEcwdHlaTGVJWTh1dVBwZGZsd3hZVmNNYlY0aEREamtQVjZwUHdnbnBSVVhZcWxOeDRRREdtQTZoYnNBMkJ2X3lzbURob0U0cnhpZFlzcDJocjB4SEdkMG9wQjJqVEZyOEZ4VklvZnc3QUlUY1VsUXBKdGl6cVFNdnpER1BDWW5Kdjd3ZFZIS0NPRHl2VEs5X1l3cHBsUGJFQTdVM3VmVExrUkxxUC1Ddm90dm9udmVJOVE4dXdVTVEyM3RB?oc=5
-- **Source:** TradingView
-- **Published:** 2026-11-02T16:44:00+00:00
-
-## Freemelt Holding AB (publ) (FREEM) Reports SEK 60.5M in Q3 Orders, SEK 33.4M Cash - TradingView
-
-- **URL:** https://news.google.com/rss/articles/CBMi1AFBVV95cUxPaldqd2ZjXzhJYk5xbXRfNll6bFZ5N0RWb2RwMmZ6RXN6OWVhWU1HMWhJdFRaYnloN1hCZlhRMlFDTWtLU2FOLTM1V3JkR0cteFl4dTRMMGpGSTZ1VlgxcHB0aDlhc1pURjJ0a1U5R0FmNzNjejFJaWVkeElTODgxMVU2b3ZPYzQtSnNlaTFvOWZLVm1Oc1FBWFdCODdsdE4wdmQ3NnBQUTVlNlRhdmxuMWZtM1Q2dDE3RkxydHJEZmh0YTVGbmxHTE1WdDJEZE5QbE9JNg?oc=5
-- **Source:** TradingView
-- **Published:** 2026-11-02T16:44:00+00:00
-
-## Laser Fusion — An Industry Perspective | Features | Nov 2026 - Photonics Spectra
-
-- **URL:** https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbzBRVGpDQk15cjNBVko5Y1FoSDZ2c3ZPZl82Z1R1T19DSDZ1RXZPd01raGFRbEgtWE1jNzg0dkhqaEhBMWliSVNZd3BBUUxLd1lSVEpESldITldUQ0RMa0w5QnUtV3pwSkNHbnRXZ21wTXQ3OW0xZFZ2cW5QUFhBZVlzRjNKdHJW?oc=5
-- **Source:** Photonics Spectra
-- **Published:** 2026-11-02T16:32:15+00:00
-
-## Is There Anything Left in the Dream of Cold Fusion? - Quanta Magazine
-
-- **URL:** https://news.google.com/rss/articles/CBMilgFBVV95cUxPbW9UNkluMlZZcmpjcloteWNhYi1uZ3BRdHVyOUNmTWRDeFhndHdjTXk5X3hfbUhUcDFua2Z0TnBKWmFaempvNmIzVXJLVnUwN2h3RVljRC1ZNDlsdllBVXBFT2FJbmNweFlaX1ByUWlmb3NsVlItRWtRRy1kUk0taWFFczRrb2JreVpndUV6TEdFSUgtb3c?oc=5
-- **Source:** Quanta Magazine
-- **Published:** 2026-11-02T15:53:48+00:00

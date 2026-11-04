@@ -1,5 +1,285 @@
 [
   {
+    "id": "9dc6fdf9c3c0",
+    "title": "Daiwa Securities Adjusts Price Target on Microsoft to $620 From $595 - www.marketscreener.com",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQkphZVhqOWJtWmZ1SEJXeDhPSHJwZDBKODZlOXd2VWJaTC03YUZMb1RUckxCMHJ4QURyWl9wMlg0YXZaU0NOY0JHN1c5WkNvNTFxdW5Ta3J0Ql9JcmVfREpHTEtmRS1CUHZPWG14T0xRUmJlUlJQQ2hmTzFpUXkzWng5THExZnItTjBQWXg4TGpfSUxSOGFNWUloOGIzLWtFTHltd0xNUldVWm5janhYbjdOSVVwUDlsUmUw?oc=5",
+    "source": "www.marketscreener.com",
+    "published": "2026-11-04T11:38:31+00:00"
+  },
+  {
+    "id": "0e233305926b",
+    "title": "Exclusive: OpenAI targets Microsoft's GitHub with deal for startup - Axios",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5OaUdITlV1WEtmam1aNDlWMG4yd1hMZXBSc19qTExTVkdOeTgtbkt0VGtzWklpUlg0VENqOXBmUjlZUjEtNmNPdDdBak01dmRZTlAtd0kyTlA4WFlQdFVVUHluVFpKNjZPQS1CRWRHcw?oc=5",
+    "source": "Axios",
+    "published": "2026-11-04T11:33:27+00:00"
+  },
+  {
+    "id": "e3e3f85aa1fc",
+    "title": "Microsoft's tradecraft report: North Korea's LLM chain - OrcaRouter",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1xTENjWGJ0WlliM3ppRWV5S0RrcDM0dkRMNWpld21DRUk4X2dLczFOWWRRbFpoUFZfdnR5RWxVTk1nYXRVUU9sNW9Ib0tER3V1akVuQ0duRDdOaWVGdDNEOUt5djFycGNGeGI3VURpQlItN28?oc=5",
+    "source": "OrcaRouter",
+    "published": "2026-11-04T11:12:57+00:00"
+  },
+  {
+    "id": "3aa504cd0407",
+    "title": "Get a load of Excel’s new multi-value cells - Computerworld",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcURUcUt0QWxmSmxrYm12eW50MXpEajBBTlV3Y1RDaTNoZ0lHSF84V2lNazRlT0MtcXY4Vy1RQkcyYVU5Sng1TDI3NXhheGhlZFptbU15R1dENzZqclJ3T0hDeHp3N3B3T0VEU3dlX1BGS0VWb2ZYeVhCQ1BtNEZHR2c2cXpZdDBTLXlXRDhwanhVNXZaNVJPQg?oc=5",
+    "source": "Computerworld",
+    "published": "2026-11-04T11:11:35+00:00"
+  },
+  {
+    "id": "07e72abf5394",
+    "title": "Capital Group Cons. Equity (CGCV) Adds Microsoft and Philip Morris on Monday - Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNT3Y1NUhUVU5GQ0dCRE54RUpWMnhQLTdwNVRic1JiZWZJV3VPVTAxRDl1VjNRZ2gzYThkNWFmMERlRHU4b213WmFLNzluU3RobU1kbURUSjFtSnhfVmNOY2RINnhKRzBTS1FpR003b3BOeFJfRnVCdWhERDZ5WGJVclozcGd6Y1pjbzY5WVVTcXB4LUltRFN3TC1KZw?oc=5",
+    "source": "Yahoo Finance",
+    "published": "2026-11-04T11:06:05+00:00"
+  },
+  {
+    "id": "c35effc84abe",
+    "title": "Microsoft, Nvidia launch AI support scheme in UK and Ireland - Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOeFZrM1Uwd3dSakNZZHg0c0hiblB2UmkzR3hmNUQtaGZoSGhmX2pSNmFONUtDM0g3WEtteUVZOTNsa1BzYmVCQjhYZWxJSmlaVzJSekFhMWhtbkZVLUZ5dlVLY1RCUkdxMEx3a3F1anpKQTByLXdNTUxLNWh3eDBRaUpWMDhHVkE?oc=5",
+    "source": "Yahoo Finance",
+    "published": "2026-11-04T11:05:34+00:00"
+  },
+  {
+    "id": "5ad79d35f76d",
+    "title": "Microsoft claims Windows 11 now runs up to 40% faster on PCs with just 8GB of RAM - Club386",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9OVVN4T1ZjTXBpNW9XcVA5QjUwZEtZS1hEY08yV1p1WUsxNjhqN193TE9GQ2Jyckk4dWVkbURpMmlsd09WRWZTb3h4OHRSZ2Q1dW45M2M2X2c2T2NEUnJ5Sk9jRVdCMGxvQ2Zwck5SRW1JQlAzd1E?oc=5",
+    "source": "Club386",
+    "published": "2026-11-04T11:01:35+00:00"
+  },
+  {
+    "id": "5c435335a407",
+    "title": "ETFs Bought $561.6 Million of Microsoft (MSFT) on Monday - Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxONWRFWERQczFobzFSekhaN0lBX3JRSk1SN3Q1VWg0azN4M3BTTmZFNVFhaG5LRUVWZGN3YV9kN1h5Y3ROTUJncTRMbUxXbHhtNlJfNl9YNlZvNUU3THdSeTZERmZpeG15YmdqU240TGx5TnFlaExjazFiaDE1RkZGZThNcTk4anYwZTBkZWhsZnhLMG9r?oc=5",
+    "source": "Yahoo Finance",
+    "published": "2026-11-04T11:00:55+00:00"
+  },
+  {
+    "id": "ffa71cd22ed5",
+    "title": "If you skipped Windows 11’s 2026 update over bugs, Microsoft has now fixed all but one, and even that’s mitigated - Windows Latest",
+    "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPaF9QbVNtYnlmLVM5MHJvWHBqODhYSVlFd01FS2JyRllJdjZLYTVLNTh5WV9RblBJZl9jeGdQYzl5bWFOXzFONkdmVzJRaktyck1DSkRWMFpYTUFHZHkwcUJGV1laMm9Ub2JCZUhVZzVuc1A4SGtYSFNoZ2lNZzhuN0RaZ01UVTNjbXR2SnJyTjRrZWszcGNlNjdPYVIzblZYWElGdWRaUGQweGdNOTNpWDFHaVMyMXQwdkRTUjFNQjFmTmxSN2NZVkdjYlAxcGxELTJFT0plTkplSDNjQ01YUkx2TDRCUQ?oc=5",
+    "source": "Windows Latest",
+    "published": "2026-11-04T11:00:24+00:00"
+  },
+  {
+    "id": "a7383bcdea64",
+    "title": "Microsoft stuffed an Xbox Series X inside an alligator, and you could actually win it - Digital Trends",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTDU5U2o2ZEJXVnREY2FvRDRFaFdLcEdiRUt3bG82WW43VzJaSzlaUmJoQ2xOelNXOXZ1cG9YRGw5Y3gtOEhqcy1ySXJxRWdldEkzbHVXOHV3czM5M253eFJGQnBQSE12RlhEU2VwN3laMXZVdHRacjc3alBFV0dVYVlUb25UczhXYjZrbFJodjl1LXNBVnJHX0xzR1BieW52ZU14NTB6aGFia0hCT19hMlRCcjdta0U0OHNDMVdqTQ?oc=5",
+    "source": "Digital Trends",
+    "published": "2026-11-04T11:00:18+00:00"
+  },
+  {
+    "id": "8aeaf3c73a56",
+    "title": "Microsoft names next-gen AMD/Intel CPUs in Windows AI roadmap - OC3D",
+    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPVlBndU1wYTV2LTZ4aVlxSmhBMzJmTHFRWHg1WnV0VjZfVE1QZF8zNmZ1bWVKZ205VS1YU214RTdRVGJnOG5sLTdlR3BXajdnYnE5d1VKOFpqTnhISXhpbzExNVJrZnBaejJrNDd4bDlFbnoyd202UFo3aUo1MVhBVzNxSG56bG52WTNrNnNyd2J6QWI5SGhicWFPSzJEUTl0aW5ob0hCbk1DRUpzb2VmQk1lZUJkWVAtVnJNSjlVc2Y3bXJ2WGg3VUFJYzFVRVFLMnhfcWp3?oc=5",
+    "source": "OC3D",
+    "published": "2026-11-04T10:58:21+00:00"
+  },
+  {
+    "id": "533a5fee1c8f",
+    "title": "Microsoft has removed PC-to-PC file transfer from Windows 11, pushing OneDrive instead - BetaNews",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWXJ6d2Y4c0loSHp2anhLVGQwU2wzeVZTVjRuV1hXWkZMRElTcjhkRkRTTzh3R3FoNFdJVl9JZS1RRTVXNXQyXzJDRVQ0LXV0SnRmTFFaa3JST1Vua192LWNBRndZV3NIT0dDenBxZ2VWOUdNV0xxdFNrbmtJSW9rcllHd3Q4dG5K?oc=5",
+    "source": "BetaNews",
+    "published": "2026-11-04T10:54:03+00:00"
+  },
+  {
+    "id": "7e479ab4abc4",
+    "title": "Jim Cramer Sees Tech Leadership Shifting Beyond Nvidia and Microsoft - www.tokenpost.com",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE92b0Z6NlRFdjdocWxEYk10bXNtUnFmSjh1QmtRTE5wcUhnSHJWM2dOYmdySE1jMDh0WnlCX0ZkV1gtMGVxNzNsbnBWd3MzMmVNVDJuR2R3LUdNZw?oc=5",
+    "source": "www.tokenpost.com",
+    "published": "2026-11-04T10:35:28+00:00"
+  },
+  {
+    "id": "5859fe83169c",
+    "title": "Microsoft’s Humane Buyouts Imperil Its AI Ambitions - Bloomberg.com",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOalpzaVYyaTNUb3M2RktlY3FKazREN3ZCXzN1LXpGeWtoY29WVVR2ZmdqWThjTTNUZ1dvWmtCNVI4NFdzbDc4QTlPSzd1cV9FVnU5Ui1fbmxfWW14UjFaQ3AxaTFoZFJvMzRFeTlVY2JpM3JSZUN0STNyb1VmOEI4X0ZDcVVfSkw5aGRaV0F5T0dSSnRXUk1adTFtcVkxandDRWJYMTU3MF8?oc=5",
+    "source": "Bloomberg.com",
+    "published": "2026-11-04T10:30:01+00:00"
+  },
+  {
+    "id": "81911e2f33e9",
+    "title": "Jim Cramer Sees These 'Non-Magnificent' Tech Stocks Emerging as Market Leaders While Nvidia, Microsoft St - Benzinga",
+    "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxOOVNCaXlXS09ra2swNWJ4NmdUSWNEcURQalg1WFNlRkRxejNPamlvZW9sNl9JUnowMkJWcl9FS3FXbTR5WmNwanY1MFBIU2xQVDZBaVN6dkE1SGRyaXFuVUVZRG9uZkxnR0FYcHJKNXpQLTViNHFpR0Q1a0c0dGtrNzkzZ2NibkhQdlhxZ2tSb0czaWRoZWx4SElJRzRPNnZSc2YyMi1tQlFXajBRY1FTX1BCakNSZ05SR05CeFAyTE9acmkwNnlPR2ZPT3BBNS1pMUUwMDJnc2wwNUpJZHN5RXJ1WXBlVU8zM0VaTjl1VDdOcVp3eEx4Y2NwZm5nenktdWxEUWFoellUYzlkdng2azV3YkprYm5oc3ZLTURsNy1JUQ?oc=5",
+    "source": "Benzinga",
+    "published": "2026-11-04T10:27:43+00:00"
+  },
+  {
+    "id": "627a428d1928",
+    "title": "Microsoft wants companies to put PC refreshes in AI budgets as memory costs rise - Mezha.net",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQQ3VfZllONGRoUTNIMkFnNUpCXzdEZUQxOENxY1NzUzJrVDQzTGYtNTFoaGh6QTZEOThFd0k4RjE2Y0xHcE9VR0E5bVVZUklGTXlVU09EZGNaMlY3N2RORHBoeWVTQXMxWlVkMGlPeVhIX3pybXFaSklIUFpJU0VubktaRUJSQnlPc3dUcw?oc=5",
+    "source": "Mezha.net",
+    "published": "2026-11-04T10:24:12+00:00"
+  },
+  {
+    "id": "b6f27a2f4f76",
+    "title": "Microsoft's AI PC push meets a wall of RAM prices, but Redmond is still beating the drum - The Register",
+    "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNZm9yeEtIZzA4c1NFTnR3SW9NejY4cDlNUE4wSDlmWDFyaHgwbFNlWkJQZWUzMk1TWmpTX2dqS0IyNUNFVXhJTHhtVlcyb29mUVYtdVlNQUlpZlZWYXc3VU9oOFNYdDJLbEVUWFA3ZFlXdzlabHVheUhXZTR4WmJyeEtfTFNzaG1CS253ejY0bnZqdDhhQWNKcmlLQTllWkRkZGFLMGNNdE0wcFgxOGhXVEd4RHRtbTlvUkp3Z3R6RmlSeWlQLXhTTGNUcFZEeXZvWjdMb09EbGc4RkluQ2kxZw?oc=5",
+    "source": "The Register",
+    "published": "2026-11-04T10:15:00+00:00"
+  },
+  {
+    "id": "e82969450cff",
+    "title": "Microsoft hires International Energy Agency attorney for its energy team - BeBeez International",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNT082aVpvbUxteURobkU2R3dXY0lmSWN2WUlSZFZ5WWcwWHBFZVhmNU9MczA4bHNPTHlSOS0wQjRwc2hOYjhKUUQ5dFNZUTVlRGd1QVM2MlQ2enRRaW5GelNmd2dMLVdURWtmQXlwUE40VTgwTWxRS2hwNkkyMVpxYnpDWVhTUFg5OG1zNWI0MGhWYmhHVzE5TXdMRnRrcGtqRkoxWA?oc=5",
+    "source": "BeBeez International",
+    "published": "2026-11-04T10:10:06+00:00"
+  },
+  {
+    "id": "9be4d99f4d05",
+    "title": "Promoted In July, Gone Months Later: Former Xbox COO Helen Chiang Addresses Microsoft Exit - NDTV",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQekhJQ3FlbW90alVQMmZIMWdVOGhubmpjbUJBb3ZfYm1fZFBrOXNLMGJuNy1nX1Ewd2hEVjhEdE5jYzZDUmppT1UwcXVob3lrTGgxaVp5RjYxS2hjVGUwWDFHb0ZPcGp5bXNwUGx2LXMxRFZZOHJFaEtZclZRczFLWnlkSUFuMTZ2dTlZOEZLM3FLazBCS3h2Ri1CTWN5T1ZaS2dOMEd4LUtneUphdzQ5ZkltbFlrUFJjMTNodjAxelZJNkFF0gHMAUFVX3lxTE90U3BtV0M5d01WdzVCR2VPak1Xa0lrOWxoWmZXbGc0SjhVVDlNQUdReG8wZXlSandVMjJLWlE0YXNYVkg0QzhJMlhnOTF4d1M4d0pYTUo3VUx2RmVVaWNkWGViUjV6Ujh1WGpGZGw5Q3AydktCQXFrNENWMENvTGFLS1FSeWJxdHRBc09sdzBQN3EzTk9kVEZUenZrU2ZyNlhhbTVUU0NVcm9XU3JSY1NQbnNZOEM1WlZBeEZ2QjNjMjVLWUlmTFJ4MVlkXw?oc=5",
+    "source": "NDTV",
+    "published": "2026-11-04T09:38:09+00:00"
+  },
+  {
+    "id": "2afd99b52469",
+    "title": "Kyivstar passes annual Microsoft audit - Telecompaper",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMWt3NDJKWmxwTTl4VFhRUXRLYzJNb1k4Q1VqVmJpUjA0WjVzWmdwdkpxMkRXM3F2NGN2bGZITkxMWnlOb1BfeUpPYTk1NU8tU1RGUXk1MkNwbUU3VXR6OHMta0lOanVYNGUxYmoxMEdENDhYcHpEMDUtd2owS1p0bTRFT3JTdGlo?oc=5",
+    "source": "Telecompaper",
+    "published": "2026-11-04T09:32:13+00:00"
+  },
+  {
+    "id": "ff23a9595a0e",
+    "title": "Windows: How to check if your PC gets updates in 2027 - Notebookcheck",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOU0tqWGNhNFk4QVZ3OVFTQ0xYaXotZzF4OWZVSXZldFpHempnNGpVanRtdWxMRG1uRTdzRHZ2WHRkekZZZkNTeVVkaEtXUGV5dklyUk50Q0hxVXJxeVJKYmt2SUVVUHhpdjB3a2FpM0M5RmVZbUEwT1pUM1oxMzRxV0VyOWJmLWoxRFQwTWpvbHJzTzM5QW1xd185TUl1QQ?oc=5",
+    "source": "Notebookcheck",
+    "published": "2026-11-04T09:10:00+00:00"
+  },
+  {
+    "id": "859db9c5a55c",
+    "title": "Xbox cannot advertise GTA VI, so Microsoft came up with a clever move - iXBT.games",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVkZBWTl2LVpNSktDVUZGSzhsR1lYWlNUd2luSElKLWd6N0RSbHpwaWpCVG5jOXNaMmQ5bEZOaVF6MkRWaDFoLWptdGFxR050WFVHbnR2T1oyWVY4QWYwejk2UUxHeExybDJPT3lRQXJwV1I0M1dSQTJpTDNWV2k5dzlGdks0bnpUTHNNR3RmV1hZYjlWUjNIMzBPa1NZTm5GV241d1JpX0U2aW5DNk5nbndhNnpEUdIBuwFBVV95cUxOb1RsY3V3RWE5OThZTmpaNlVnUU9CeVJiSkhCaklPVXVCOU4yWnVIVHVRVEFKUG1IcGdHcDRLMWJQczdNTGtWWmRYNUt4RkN2a0owc0h6cUtNeDNqdHVLWlNLQno1ckhVSnZvbk05N2lpNG9lVEdYWlh3aFN3Vk9Pc0J0N3dMZERVUkdualhkU2k3RURLekxaeWNvLUt1eXMtZW5hZzJ3bTY4dVdEYkk4Y1VEM2F5ZTJRTzgw?oc=5",
+    "source": "iXBT.games",
+    "published": "2026-11-04T08:39:00+00:00"
+  },
+  {
+    "id": "5caab44c5960",
+    "title": "Microsoft offers buyouts to 60,000 employees amid AI investment - Mashable",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9hcEdkSTR5MEx3UUQxbmpDVlNfTHdmTkl3eGlvbTBMMnlabnh4RW1ad1ZzY0pGbjdXaFlfc2dCV2hyQm5RT3UwN2hnWkU2ZURKbWdKLU50NVZ6dzgyWUF5TWtabkVZMFRPQXZB?oc=5",
+    "source": "Mashable",
+    "published": "2026-11-04T08:31:45+00:00"
+  },
+  {
+    "id": "cda902bcb9af",
+    "title": "Own Office for Mac outright for $100 and skip the Microsoft 365 bill - Macworld",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPY0E1OWQybUJPMmJMcFpIc0tzdUxTLW5WNHc4c2lEWjFrWDlzT2ZQbDdmSWRCYlgtejZzQVhOMU9wYUE4WWpZTmFnTDlYbVBncTFBQUJfWExaeUZDeGY0aFFHTi1tcXJMM05oM1k1c0U5ZnM1VHAtOGJpQ0VVREJQaWlST3hvMEFRdDhqX19RVHpRellIX2RKWjdrQmZTZkRoTDNQcTAxazl3MHN5ZWlCWDNmUQ?oc=5",
+    "source": "Macworld",
+    "published": "2026-11-04T08:13:45+00:00"
+  },
+  {
+    "id": "72db5565b26c",
+    "title": "Microsoft Is Reportedly Fielding Bids for Arkane Studios, With Ubisoft Among the Potential Buyers - Hypebeast",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQLXcwZTEwVlB3QW5xc3pHeWNXcy13dTNSbDh5MWU0ZkpJMXB2LUNTUklZektIaVJ0VVhVbGRhVHhJYklLUzdHdmxQSDlhN2xsQ3VBMkRoazZ5bVNEdGhGT1Q5QWxrYXpJZEc1c2pBMGpvUURKLWVwMFRPNHBtX0ZWdGgxNC1Qa0hnd2ZnQ0k4Y2dldw?oc=5",
+    "source": "Hypebeast",
+    "published": "2026-11-04T07:57:22+00:00"
+  },
+  {
+    "id": "f803cff344c8",
+    "title": "From Copilot to agents: Inside KPIT’s AI-powered marketing transformation - Microsoft Source",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNeEFUQ1Q1YU9tdXdaWkNxVjNYd29UbjVNQVBoMkdNUUxWWllFeGl0LTV6d1AyRmM5QUhtVDg5SEFaODNBSG5KdWtIeDM3OVNGNUVpaXhsUjVKNHIzeGo2bEhaZk0zNXJhc2pvRk1RRkhKcGVFdTNEcTVZS3RZYTk2bVFIUFdlWkZJWV9vVHhLaVdLX1BGQm9qMU1saDh5LTktUGNTa3FEX1hPUTRuSlMwN05zOGp3aXVUNWhPTA?oc=5",
+    "source": "Microsoft Source",
+    "published": "2026-11-04T07:54:51+00:00"
+  },
+  {
+    "id": "990bcc8c4d1a",
+    "title": "Mott MacDonald: Engineering a responsible agentic AI future - Microsoft UK Stories",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWkdXSUxIc21SMFZTMHh0V2NYN1NPVWJYQ3pYZDFaX0JYR2xLQzdEQV90V2tsSW15SS1lTFpiWk5jOWlUcUMzSnBaWDhOWElZM3p3U0U5WmhEclZwSENWNk5sMXhYVWNZc0FQSGVSZzhWZVgwT3lGQnBkUnhHTXV3cVU1eE9KRXNEV1Y0cGlKd1lZaGcwR2JaamZuUXZDbzBlMVE?oc=5",
+    "source": "Microsoft UK Stories",
+    "published": "2026-11-04T07:52:24+00:00"
+  },
+  {
+    "id": "3db76145e423",
+    "title": "Hackers Use Stolen Microsoft Entra ID and Azure DevOps Credentials to Access 27 Organizations - CyberSecurityNews",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1qOGphaXQ1OE1oRmt2dndtbTljRXJGa2tjYmdNRHV4RDFLLWw2cmZrLUctV2VGczFLRXhGMTYwdjBsMzNhUG9SVmJmNFhHNEVYZ0owNGc4bWxNNEV2YTJ1UGZ5RzFHbG5SamMtWlprcTRhR1BEU2dF0gF8QVVfeXFMTnZIY0JrbGJJS21La3FPUmF0WGlwaUI0WTVNMGFEdEFfRUJUMUx6WGRfWFR1akI4X1JETHhwRFMyZmFvekxBY2UtTzBMdjRLeklDQV9DLXVGdHg4cGhXaUd3WmdNcE1HdUFyZk5ZcUp3RUJkdlVuLWp1dTJJNg?oc=5",
+    "source": "CyberSecurityNews",
+    "published": "2026-11-04T07:35:25+00:00"
+  },
+  {
+    "id": "cf5987c43907",
+    "title": "Microsoft’s Saab 340B crosses back over to MSFS 2020 - MSFS Addons",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQV25lNGdITEhyQzdKeGFwUWlKVHcyS2lWQ21HVVZGTV9WYXhZSVF2SVg2bVZBUVBkTkJHbWhibjR0RFNsbVhkckpkQVI0VnRQRFFNZ0JaOEpQVkhyeklENHB4OTNsbU85U1BZZFdxbFh1dUFpOC1uVDJxX29ZQUZuTWU4YmdraENDMTJwd1ZUSQ?oc=5",
+    "source": "MSFS Addons",
+    "published": "2026-11-04T07:30:59+00:00"
+  },
+  {
+    "id": "fdc1bd80d935",
+    "title": "Ex-Xbox COO breaks silence on Microsoft exit after 21 years, says silence should not be mistaken for agreement - India Today",
+    "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOaHdKNGozeGIxTG1JYnpBRHlzd2N0Y202RncxLTJ3ZHlUbm0tSkZfRlUxYnoteWlPT3ZlT0VyYmlyMm12WFRNTVFSaTdkeUtaRm1WRjdSLUdGeFUzQXVGclhGMW1QeXJoOU1oMFpGdzZCQmNNajd6Y2pxTFVtR3lPSEI2aWFvSl95VmRtaWgzNHo0Ymt1ZnhDbEJzN1dBSWV5UTFja0hiS1BDaHpxTjNxMkNtbXJ0MkVuV3FSRTEyR1FGb1dTZlNnRHdhVVRPTHdjbUhnRkR6bWJNc1NhRVExQXctUFlUZVRCTnVHODBQWlVuZ193SkFGWEFaX1MtWnB3WUpOQzQxZ9IBjAJBVV95cUxNUFFhZDVDT3RLVmU4WEFDNGl1VEpqZzFmeWhNWVZxTmNpWlY3TXdUUG03bXRCQTJBbGdPZDJFcVBJYlRNMXFoakVzcDF1a2NOeGFWTTAzWWxhbVFqU0JEU2JDQ0ZDZm56TG8zNEEyMEg2bEdldDlWSEhGclEwaGhBemF3ZDltcVdydTQzUlZXdGZEdmdoZDJZREVKU1dQdVV6cWlIUWM0YTdycnBBNkZzaTgySzJwUTNBbHF2Yi1fV2J6N3VtNklHU2F2LTdxQ0dBbWM5dklTcHlSTGRibDRWTzFqelFhbGlWcnNjQm1ZZDZrVTNud1k3ZHVudU5DTlRWM3c3UEliOW1nT2Nw?oc=5",
+    "source": "India Today",
+    "published": "2026-11-04T07:15:49+00:00"
+  },
+  {
+    "id": "5af173fea4f6",
+    "title": "Microsoft reveals November Game Pass additions. 20 games await subscribers - iXBT.games",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPeFVjSV9iN2pUUnlrX0xDRFo0c0Z2aVotNGxOX09KSlFPMDYzNjdLd3FvV05yNmZZTTJJalQ5OGMwUVd3cm1OQzN3dHZ3QUNUanhUaThnSDktdzVuTGpLVFFQcTJkX0FrQzJqM0I4TVNGRWlNNV8xU0ZMNlR4ZTR3UFNlWWh5b3pFUlVxRndkNW4yaVNXcGxycGdpNWo0UmppQ1FJVVBlZ1NCdG95d0plRmw0NFFidDR40gG-AUFVX3lxTFBjR1lacWkwWHgtSVZyblBxZjdqMnRlcUhHbzZsdHE1QnhMemd0MlR1eExTTUxoZ2poSGZmUzNMRXVGeXFtbUJ3cERvOXUwbjZJSUNlejVUQWpBaTFjVEptVGM0bmRzVGI1dG9oaFVZZ1NnejVhTlhrdWJhdXR3Y0lHTThWaDhyeUk3YVFrTXhQZkhnX2FkNmhVZDZYM1NBMzlSaGgtcE5uc3RVMFNHVktoQTl0UU9JYnliTGlWWGc?oc=5",
+    "source": "iXBT.games",
+    "published": "2026-11-04T06:46:00+00:00"
+  },
+  {
+    "id": "a641a170d09b",
+    "title": "Garrison Keillor: My plan for a few days from now - New Hampshire Union Leader",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTG8tMlptVnFDQmdEY3JuVl9FZXhjWXJXNHNCemlMX0J6SEQ1ODNqb0RPRkxnQktWbzA2ZVFTVVAtdW93TTNldl9nbnI0T3l2Um5WRlpzcEc2OVdZVVdFZXhUdEVucFBTOUoyU3hORFBtRVFaZy1oX214ZnpwVjJHTE41eWVjakZnQ004SHFyODJHWXJIbFpBay04WkRKVlJKU1c2Tg?oc=5",
+    "source": "New Hampshire Union Leader",
+    "published": "2026-11-04T05:34:42+00:00"
+  },
+  {
+    "id": "5bfe9714694b",
+    "title": "Microsoft’s Xbox Series X-Bite Houses a Working Console Inside a Five Foot Alligator - TechEBlog -",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1tU2o3cFNGc3FRRjFCLTl5QS1fOGp1RnJCVWhjZGlQdDJBQkFWRGZkMFhsRkhQaXFqNkd3UnhUM2xOX0RSZzFnd0JQY2VXUzl0MUlQLXhodkpfenNscWxkQXlrVGdWaEc3cnVOel9yUlZvaEc3QmhlcFdxTlQyUQ?oc=5",
+    "source": "TechEBlog -",
+    "published": "2026-11-04T05:22:43+00:00"
+  },
+  {
+    "id": "0af8ad657da5",
+    "title": "Microsoft is putting an AI model into Outlook Search, but it's not what you think - Neowin",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQSEVxWkNPOEI3RTJvekVYamN2S2toNjQtUFpUN0FFQ1VaUjJraWt5blhtSFJBWW9pbFNkZjAwVFJVM3ZhUWZKalNTd0tHREcxdkNaV01KbXRIc19wV0x2Wm84bXNITGVJaC1qMXBOSjVFNXB3Smkwbk9oRm1RcnlCbE13dF9PYUFwOU8tX28wNHd3ZU9CcktIQklVX1NlNFNJcDFUUkVPR0UxbTlz?oc=5",
+    "source": "Neowin",
+    "published": "2026-11-04T05:10:00+00:00"
+  },
+  {
+    "id": "01ad0f1cfd4a",
+    "title": "Microsoft AI vs Physicians: Who Makes the Better Diagnosis? - Medscape",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQYm1OTjdEWU5UbkhjZFZSZldBU0E1Z09ZTHZMYUFIcHhkQzdOZEVCcjVuOWpTS1F3Z25GalZCX2RVQkF4bXVXWXc4RWkzUnVjbEhtUElBeEE2V29Sdm1oekFsS2tjc2huQ1hDZ243VVhEc0ZGVVhwUm1XdmowUkRFakFSc25Oc0FUYTh4WkZsUnJFSU1UZzBpZlpwM3NlZmVjSWVDc2hB?oc=5",
+    "source": "Medscape",
+    "published": "2026-11-04T05:03:10+00:00"
+  },
+  {
+    "id": "df20ec448018",
+    "title": "The Xbox Nano controller connects to Microsoft servers wirelessly via Wi-Fi. - GameGPU",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNdGZ0bFZGNXV5LWc5Zl8wSFgxeEJyZ2hSSGJiQjdsWEh3cnc3S0F5VkluaXNaUkJQc0xlWEhFbDRVTzlyVFRTZlZheHhzWHB0TWdvQWM3aEN2MzR3LV9lelN2Ym5PZ3FYZXVZLXo4Y2c0bWJ0T0lUWVNsZ3g2RTN2OWlWR1VrUjZScG01eGpUUXY5X3d2Yzc0aTZqSE5aaTN2U2t3MEFCMjFaOXhHdXBHM2VjdkFYS2M?oc=5",
+    "source": "GameGPU",
+    "published": "2026-11-04T03:59:24+00:00"
+  },
+  {
+    "id": "2957691a73e6",
+    "title": "‘Not the whole story’: Former Xbox COO denies policy violation claims after Microsoft exit - Storyboard18",
+    "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNcm5zYlJvS196YmJMWkFFa0diNzFCMVAwU1hVS2JXNVUtbWEzMVJVNm9nbXZHYW9IQkJlNm91Q3Q1REp1S3ExbmVMRFkxWGstMVM4cV9ieS1BMXZxV2diWXMxRXVabHhkVTdXU05DSTlVdmVTeWNjM3FpRnlhcFhpRDdacTU3ZVNrR2RmUVJnLUxPczIxNTZEUzRJakZBU181TlZNMlRrbk83eFVLVjB5WDBheExtRFY0UzdIaGNDUWhlYjVqZThQSzRWaWxiTHBCT2UtbjZyYzdxM2U2OTZoUG1XOURQSWVC0gHuAUFVX3lxTE5jWEJhaE4wLW5jNEhwUkhUazVtVVNMelJuajl3Q2tmWXd0aHRiY0xMcnVaUTJETWVTZjFUM2pfOVd1RDQ5bWdNZE9EaHBsbGtiT19NLXJTN29mUkZXakU2T2wzMUhzY1NyN3VPYzlVam5adGRoLXBHT2ptZ3VRR0J0RHNQUHhHSTZyOFRSVHBfMGtPLXJWaHFfSlBhSTAzcGwyQjBVUEZ1aUlLaUN1N1Y1cGcwc1BZNnlDeTFOQlBqWXRTV3Z0b2lSWjlta1VxUV9ERHgxWnhQS01PT1U3a2VVd1ZzckpuTzJpN0NWOHc?oc=5",
+    "source": "Storyboard18",
+    "published": "2026-11-04T03:51:55+00:00"
+  },
+  {
+    "id": "bedf8140a2d4",
+    "title": "Microsoft AI CEO Mustafa Suleyman clarifies to everyone: I stand by my view that AI does not have rights - The Times of India",
+    "url": "https://news.google.com/rss/articles/CBMizgJBVV95cUxPM0VwVFQ2MDlmaVlVZllRbzhBc2VWX0NJNHpuQmZ0Z25zUmk3aWxJempfYVdEczNpekNZaXJTMnpSWmMtYXQwSGlaRDJzTXFzcE8teUxMelppVjFOejY0azh5X0t6SzlZVGdyNkhPY2hVTjdVZ2R2dDdGTVIxbXZSU0RySXgxYk0wdVV1M2dSME0tMjIyTHg3c2ZEdDBaRmZlaFZadks2VEpEQWxWMFJPa1hmNWYwMFh1VVdNakI2SlY4TXFSWVB1Nk4tSTJjbGNDOXBQUnJ4eEtGeGFzOGEyaXR3N2lsV1REd09DbnRZMzRxUjRqX21UZE0wd0k5bnViZDB2MjNlZVpta0NVbDRPX1RhcDFBZDdscUlnX2dvbnJaUUZhNzhQMVFiQ2g2VXkzSjRhdjVMNm5mR3Z6aW1mak1OQTdPYnd3MEpZVnB30gHTAkFVX3lxTE1Ud1lQSHUxSkhXVUJPV1l0bFp2aTBhV2ZPTTNfOVA3cWw2TkJLc2swYnF6TG9GeWllLUtqVzE0UlFpdnl2WmpvVUtfOUI3a1VfcGZHOVdvOEpFWHZ4N3haQk13VTRIblZ1MHRpSEpLYlB6aVYxaF9GUll5blhsQ0tSM0Jrd3RNd3ozdFRwNU4xei1tdjlTVmFOUW5Cd0FnVmt2Rm5PTldLTEZHTEFUYkZ6bGc4d29TanFob2FCaXgtY2FxN09MRzh2RmxSNEpnaXZmLVc0aG1vZVhLOW15XzVzaEVUaVc5Rnc3YTRheGpnb0RrWXNIak1qZFBVb211djQxcDE5MGRKLVdjckZ2ME45Zl9vTjNTTUowNEJhWWVuODRWUEFvbkY0ZlA0eUo4MkN6R3l5b08wdXhfVG5uZmw5NWJHQ2hjOXhLX0RjcW1EUXNPTQ?oc=5",
+    "source": "The Times of India",
+    "published": "2026-11-04T02:09:00+00:00"
+  },
+  {
+    "id": "e7c8dbd1637f",
+    "title": "Microsoft’s own video show how badly Windows 11 struggled on 8GB RAM PCs, and how much faster it is now - Windows Latest",
+    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNZzVGWm0xb2JXUmZNaTlia2xpdFBOOUE5UEdVX0l4UFdsS0NsdmhQamNIRWV6cXRaTGZQalFTd3VoZGxJNDY0cXhGczNKdjN6T2Rxd1hhLXJwM0g4c01IdkhaX0hmM19NWW1aelhVSWFFeUcyMGtMbkk4M0F3X0Q5eEZzaTlKdVpwVWxkMzZTbi1kdWVRZVh1Q1ZwRUpVdmE3TFQwV3NJeTJTeFZjLWJ3VjQ0WnA2X21nZk5ubklfUW9qRzVaOGdLZnloVkhzdXU3TGhSdktDdW1VWm8?oc=5",
+    "source": "Windows Latest",
+    "published": "2026-11-04T02:07:58+00:00"
+  },
+  {
+    "id": "9a4bcbd0cdee",
+    "title": "Microsoft (MSFT) Deepens Enterprise AI Networking Partnership - Yahoo Finance Singapore",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOeU5PYkxjTWhIRnZWeV9HRkxYUWtQLXo4eW1kcTRPOHRYY3pNaFhLNjZ4ZGx4MEVzX0VwNWhQYWRxZEFhZ3hYLUxQQ0F4anZGU2RVZWVwOXNqNUxtcHJjUTRDajVUbmxKZ0VyN3B5QWpCZGF1QUFnLXR0VXZMYjNsT25LZFYtNlg0cVhNbjVB?oc=5",
+    "source": "Yahoo Finance Singapore",
+    "published": "2026-11-04T02:07:00+00:00"
+  },
+  {
     "id": "7fad3d37c07d",
     "title": "How innovation is helping a digital bank maintain human connection in chat conversations - Microsoft Source",
     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQQnJrZ29GRG5RVU5hYm1Wbks1cXFWbFp1RjlRalJDLVF2OXo2Y0JIV3dqOTJXY1YycDNCX3BsbUZRUUZ2anptem1IMXZaS2d2Mzd1WGpMTE5zeDhreG5lODhsQ3R4UjN2QXhoeUZ0dVp6dlNac0ItLVZQZk5RTkE5MWRMTlVQN3J5RUxlakk3MWgtYzM3UEVuX0c2X1hzcjlqY0FJNU8xRXREVUdtQ1FhNHdsZ3Q3NUltZ2VzR0lacDY4X3h2Y1gyeUU2MVBGd1RpcTdDXzZ3?oc=5",
@@ -68,285 +348,5 @@
     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNMi1MY09Fb2VOeGtfQW1nUHYtTWZvSFBzTkRIS0VpbDVfTExfV2lDM2hOSDVxb0l3MFRNT0wwMFBQU1ZtcncyUmduN0piY0dhNUp5aVl3V3phalBlem9yTjlibTJXX3MtRFVFZzVYejh1U0pjSEJoYWtOU3FHdjZsUlQzNlR2aUYtN1RNWEtpVjEwMG1UVTVRZzNleC1ZYzdlZzU4SmUxNVZCN3duenlRdEgyM1Y4QWRoR2JTeHZnVU0wRjgxbVBfdGI4NzNXaHQ1dTVR?oc=5",
     "source": "The Register",
     "published": "2026-11-03T21:38:29+00:00"
-  },
-  {
-    "id": "6046614862ff",
-    "title": "Microsoft Options Spot-On: On November 3rd, 415.91K Contracts Were Traded, With 3.55 Million Open Interest - 富途牛牛",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPSzNhSEsxbkxLcGNBWnpZNXdzSWZXZnhIYVJUMFNyOHhqSFRtZUpocFFYQ2FkN0JyRmdzR2NmbEhiVUc1VEtiTFhQa0VOb21zcHJhcGY2OFdFLTVXTVJaVlI1OW5oT1VtWUt4UVRxTjVNaHFuTThsNFJ0elhrTkYwRWVNQVY3RllSazFmRlpMUE5ubVhRNEZQeU15UEQ3dFZ3VW9haQ?oc=5",
-    "source": "富途牛牛",
-    "published": "2026-11-03T21:38:20+00:00"
-  },
-  {
-    "id": "cfd44721593d",
-    "title": "Microsoft Surface Pro 12 2026 - Fanless convertible gets a display downgrade - Notebookcheck",
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQOWFzUjdscHJYS1Azb1ppOUtOeWNhOXR6RU1HTF84dWlnRlVPamNRQ2NDSVVDVHdEam9INEpKaUw2dWNLc0JQOHpDdmdmYS1URklLaUI1cU8xUHlBSmcyVHUtZ0FNV0NnOWp1VjFlRjZWRmw2UkkzbGp4YXJRekhKRUNaZmdPWUVCckVwMGx4eEM1NnV1eTlkWWxBZWtPMnFVMVFMY2kwQldFYnZrd3BMbW9GUkRUZ1JRM3Yw?oc=5",
-    "source": "Notebookcheck",
-    "published": "2026-11-03T21:37:00+00:00"
-  },
-  {
-    "id": "690673ae5f22",
-    "title": "Microsoft buyout offer: Should you take the payout or risk future layoffs? A legal expert explains what to - The Economic Times",
-    "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxPdy16dUd0SUhZS1FrWGlQY1hsb1Q3bC15MHF4cnJPWGVTeHE2SFlNSFItd0NwczJueHZnRkxSOXJjQ28wR3JxM0c5UllYazNTSjE5a1hfdko3ZjVxQjdlTWpVUUpzQkFobFVGY2FiSjNVZWlxVjlMVVBIUFNnVDhjMnA3dFJmWlpkUndfN0t2c1d5R0ZlVEtsTTYwY0w3dy14RXBpeG9PaWZhUVdmWHhHalhTMnd2WWVLUEQ2RGwwbjU3WjY3LWREcFEwdDZNRkxXS1NLNE5vRlBjWFowUTNJeGdKRkNrbS10N0drSllvZ3d3V0JEVEVfb1NRdXJsZlY2dGtsRVBlWHNhbUNmNmxic2dmSjdheVNRQnJPdGlzOWcxUXpt0gGqAkFVX3lxTE1ZbmFYN3ZYZ0FPa3hMVzZ0R3J2NGtyV183MXdvNDVqNTRycTEyR2pPQVRld1FKcVNvb3VLWmFiOUhGSmFYWm5wa1BnbzQ0LVVMSlhlMEdMdTV5dVZabEZuV1Y3ZXdBbDRzQzExLUpFblJKSUh6a2hVZFU3c0p1R0R4NlZUZTFRdW4zV3ZkTmJ5NHI4NHRxVXcxQ1EwcVlmUG1wUE02RnItSkZJZlEzeVQ0bmkzZEFuWFNCcE9CbjI3RjMxQXhja0UwZmdpa2VubFkyV1BWSVRUTUZxZ2JfZGdQTmN6UVU5X0tnbHRzVkNzNzVXRFVkUllvTWl3d3hTOU8zWmZTX2JOZFlIWnZRQ0Vwc29QUUlEc3RMVVZPXzBGVnRSc3hReHdJcGc?oc=5",
-    "source": "The Economic Times",
-    "published": "2026-11-03T21:27:56+00:00"
-  },
-  {
-    "id": "e418f14a64a2",
-    "title": "Microsoft issues final warning and guidance on Entra ID MemberOf retirement - Neowin",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQM0RnMmZ1ZmdnMkhKLXVRLXFhMEVZSV81NzJBaUgwSFhSRUI2MWtLX3JxcGhzbFZ1YnFpekliU3JrUzdMdE1YU0JWVFNGeGtsU3RYSGNyd1lpejJfMW9pQVlQdVZ1RG1GMjZ6QUNwWUVleDJHNUt6Z3RMS1dTTnZ5WGRPR2VyY090WGxiXzBhcjk1STJJM0dGLXpkUl9tOUgxeUd0WGJrQQ?oc=5",
-    "source": "Neowin",
-    "published": "2026-11-03T21:23:40+00:00"
-  },
-  {
-    "id": "0280e3cfde57",
-    "title": "Microsoft Posts the .NET Conf 2026 Schedule - Thurrott.com",
-    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxORUc3WVAxWkFBNXQ0NmpIT2doWk5lbkJwai1tbXhXWXFwUGlGSHVwRFRGdE9CVGFoSDRpaWQyT1NQQmFRX3JIcDBUU2d4SFBnQlBlVjFpODl4aWt0a2NiYnVXay1OV1NreE56VzdMWmJPMkVMZjlEek1KVjBRWmRCUDF4Mks?oc=5",
-    "source": "Thurrott.com",
-    "published": "2026-11-03T20:58:54+00:00"
-  },
-  {
-    "id": "923f8b3d7505",
-    "title": "Microsoft Granger Data Center Groundwater Plan Approved - Hoodline",
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQblJKUXdKNENiOUVybW93Unl3THhYa09WVGpYTjdROTI0SHg5WkRaMDZfU1pMeUd1Si1HQXZvcW1WdHBCLVZ2MF9MeC1fUVVPX18zYU1aZGk1cDNWMENzWk1UelpGbndMSW1EaVNvQXpMbG15elEtMEJWZlRtUlRIeURpbXBvU29pQ3ZnanAzYkctaTF1b1VsVy1IbVBoRHRNeVZHalIwenJOVHZPcmhtM19DMDRILWFR?oc=5",
-    "source": "Hoodline",
-    "published": "2026-11-03T20:43:53+00:00"
-  },
-  {
-    "id": "bfff3a20e3e4",
-    "title": "MSFT Stock Rebounds Above $520 as Microsoft's Anthropic Commitment Reaches $44.9 Billion - FXLeaders",
-    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNUDBXaVRLeFd2U0FOYzd0OWRKNFQ3OUhkdU9sZTNqb1VvdU9PSmswVVVpN1pLcXEtSDNVSUt0NGIybG1hdkZ1UGI1QUJVT0kzaW8wQmlBcmJ6MTFrYi1UUHRTNzVDd2RXRFBHRHRhUndFcncyMkJaZG9laDNTTUVoWkRZcldfQjBxNlpfYmFiRXZEUVNhMUZLTHotbmh1eHlFVUMxYUQwY3ltYUJRZzkzdWhmSFBTUUpvMXZNMHRieDZ1VURNV2pZ?oc=5",
-    "source": "FXLeaders",
-    "published": "2026-11-03T20:36:10+00:00"
-  },
-  {
-    "id": "5e643d982b0c",
-    "title": "Microsoft Is Giving Away The Most Insane Xbox Series X Ever Created - Pure Xbox",
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZWVKVG4tQ3NYRkdQOVdvNWZUeGt0VHA4dFY0TGV3dTdySG5OSjJKZnZSVEZtZVNyQ1BVeENyOFhrQkVrdnU1aHZSWWZrb0g3T2hqX1R0aVFZeldNbTN0UlpOTWFZZ29udnBiN2tZa20zaHBDcDRSSTVaY1BaZldGaWZtc1hfTFFuelpMUkpqUzQ5a3kyUXpHT21zUnl2TUJvU3g3QzZBV0U?oc=5",
-    "source": "Pure Xbox",
-    "published": "2026-11-03T20:19:10+00:00"
-  },
-  {
-    "id": "d494bf1ae37a",
-    "title": "Microsoft Corp Stock (MSFT) Moved Up by 3.09% on Nov 3: What Signal Does It Send? - TradingKey",
-    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNOG9BV3B5dW0wdjZyOU1hcGVral9QN3BNOHFPOXZUdW9DN29hc19TLTNBajlyZk1OV1BQc1ZxUmNnSFpCdkJ4NEtydzdoalZMNmhKalpNaDhqSk5COHhUcVRDSjBOTnM1cFlRZDNWNllnV2JjRVJaTmEtY0F0eGRYM3oxRFpQWDk2U2k4?oc=5",
-    "source": "TradingKey",
-    "published": "2026-11-03T20:19:05+00:00"
-  },
-  {
-    "id": "d096069bd57f",
-    "title": "Microsoft and Oracle Can't Cool AI Data Centers Without This Growth Stock. Here's Why It Could Soar. - The Globe and Mail",
-    "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPYl80NlphX05nVTJ2d0d5dDlINkNCMmxoMzMzUkF0Rm9HRi0yY3hnOUpLX05oUUJHeDBMM0JkZ1VPWl9rRXZIdnpBcUJrQ0ViZVYzamlDX2w0NFp2UmJueFA0MzhlbFJzUGVxa0RaYkE4azhpbnlYUHRQUEwyREFOdVlLOEp3MFV5T2RWcnVJZTJaYjBYdG5BUDlkNG5QY01CR0NrMzhwc2VFbm5NejlMNUl1cU1NTmhWUnpwNVpIX1NPVWI0QmdQMmZzcUpKMWxhenZkam9HSV9IZDZ4VXNiYWZzeTllaWtRU1lvWi03UldRR0xSWGdZYTZJMVJxX25ISl9mYW9yc3FKczVCbHFPN0x3?oc=5",
-    "source": "The Globe and Mail",
-    "published": "2026-11-03T20:05:27+00:00"
-  },
-  {
-    "id": "3164ed29904b",
-    "title": "Microsoft credits agentic AI for new Windows 11 Quick Settings speed test - BetaNews",
-    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1LQTNtMExsQ1FrM1VKZ2N1QUVpY3FZb2YyMEFGMVhwRk4xcFZnTlkxdVp5OXZ2ck9xcnNOLVI2Ni1WZWFjTThHM1ZHcW5QZUxUak01MmpEeEM1SWQ2bUpxX1ZRSjlmZkwyTnNYUkI4YU1zRFp5aVNF?oc=5",
-    "source": "BetaNews",
-    "published": "2026-11-03T19:58:01+00:00"
-  },
-  {
-    "id": "08743c20f4da",
-    "title": "Microsoft’s Windows EVP Pavan Davuluri Believes “Your PC Should Respond When You Need It To,” Saying 8GB Systems Now Offer Up To 40% Faster Multitasking - Wccftech",
-    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOR2Z3aWRzcnZQcFpPNndPVVdqcXJHYURlOWhmdmVOV2FLRGxPVjRhWXJDdklaTGRCYUg4Q1pQS1V6M25HTmdVazNNX2pMT2Raa0RzZlR0a19iMXd0RXRmN1RQc1FKSnd6cU5FMDl6WlZLTnRXdGtISXBnRHF0RThVSDlLYjRzaVBBMVJ5bjhOZkx0Tm8tdVZkdldmZ29kQdIBowFBVV95cUxQcmpZRjF1clNSbWFSSHNQN24wamFVTFdoM1l2SDZtZWtBZFgySEZ3dmVjUG1jMW45VktHbWZrcFpmdmlQRHhtdUJzalkyZzlhTlBGRmhQYXpZdmd0Yk5TRV9iVzVDWkZXM2FyczFEU1Z1ZE1oZXlZbXdKN19QMUlzUUtLWnY0Tk55bEhJN1ItVkx3UFhmb1ZGTk1CbFhCUU1zWmNZ?oc=5",
-    "source": "Wccftech",
-    "published": "2026-11-03T19:50:32+00:00"
-  },
-  {
-    "id": "1ca900972cba",
-    "title": "Microsoft’s AI Engine Is Becoming Even More Powerful (NASDAQ:MSFT) - Seeking Alpha",
-    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQcW8yclFmcV9EUWZFTGFtQTJJdzNFcE9wb1dIZndGTngzUjNwUGpEcnRaWENyR0JlQmRDa2xPY0JES2pXM1BocVl1T05oTWxCcjJKd3NrVWpUOTBHWnpwZF94UjRDOGE3QWJHc1E5OHNraFJ3eWFDY1o2ZGJGajhWSHY0endSYklFTEhURE5EWVI1ZW9YR1E?oc=5",
-    "source": "Seeking Alpha",
-    "published": "2026-11-03T19:41:12+00:00"
-  },
-  {
-    "id": "3d684d9fd985",
-    "title": "Microsoft Corporation (MSFT) Is Betting Big on AI: Is Its Growth Story Just Getting Started? - Yahoo Finance",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQcjZDbnhpSFhJeDNidjNPUlFXM2hKZk52ZGJHRjhublBjVWd2NWVlZ0ROV3ROOXJXajVYMHlrbnd4dXBtT2xRUlY2Qk9YMklpN053d3BQVVRjUmRhSUhvbFZtUnpfTjZqeTdmZ0FRR3p5LUFhUDJrUk04d1RVaXRIaURhRVhKb082aFhLdzNsQ3JDX1k2eXdRbXRTTWdHZk4wNlEyOQ?oc=5",
-    "source": "Yahoo Finance",
-    "published": "2026-11-03T19:35:55+00:00"
-  },
-  {
-    "id": "6cb19405cbc2",
-    "title": "Get 6 Microsoft Office apps for life for just $50 - Mashable",
-    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAwTXJrWGVQM2Z1b2RGTTZ3WnJTRUtDdjVkU1FROXNRNzlNQ2FNWmNrVmVlLXdPdWIwYlNva2pJbFZvMC11dVZBdkpPaFFjem1mWXBvNUJldElZSkVudndmVmtucFRCVjhWbnNUSGNpNmZtSWtwRlVzTVc3Tmk?oc=5",
-    "source": "Mashable",
-    "published": "2026-11-03T19:35:16+00:00"
-  },
-  {
-    "id": "c3cb596c4926",
-    "title": "Microsoft and Oracle Can't Cool AI Data Centers Without This Growth Stock. Here's Why It Could Soar. - The Motley Fool",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcXRKM191SjAybEN4SGJaajBtRWNSWHFYNDZwcEJVTFhaZTBqcjA0dEM2UTlINXFZUVRyRk8wcVpFRDRpODJuaEJZRzQyaU94aFhEMEtQX1FJUkpzbVVhWEFpeVJyM1pxbmdFUTRxNGJhLXdFenZuNC04SVlFUGh2ZzRrVEdNRVRzOE5PcC11QWlKZHZpeGF6Ug?oc=5",
-    "source": "The Motley Fool",
-    "published": "2026-11-03T19:31:00+00:00"
-  },
-  {
-    "id": "425d2463caf3",
-    "title": "Microsoft AI CEO warns against trying to build conscious machines - Channel 3000",
-    "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQMG5ibm1KaUxta2REXzVwYkFORG1TWTBUWVp1RjF4dF9nQkxCYmZ3N2xvenlUd0lEZDBwNW9OaVVKeXJVLWZ2aFJkVExGUU80ZTdENTREd1ZoX1dOZWtVMlJOSTFKVTNZbjI1bzhiZjM3VWNhR05Ed21pd0JmbGF3U0MzRmx1NXZ2REswSjhZQW5RbUxvWjBYdzZDNFNEVVJKUkw1dm9Dek5uYXFhOWFLRFNTOF8tSGVBZkpSM3dia3hiRTcwY1VjZm5DTDJuVXN1VWtSTG9VajNQSnRUdUdWQkhob283S01DTEZHYllZNHpYWEtwN0tUeUFn?oc=5",
-    "source": "Channel 3000",
-    "published": "2026-11-03T19:30:00+00:00"
-  },
-  {
-    "id": "e4fb787d1eaa",
-    "title": "Microsoft’s Imagine Cup opens to startups, drops diversity scoring - LinkedIn",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSklpMnpLbFV1NWhXZjdDcUdrMl85a2ZhMWdaZjhiVGRTTVg0VUp0dXRZdmhOTlZrTGtyZjlJOTlnWFMxeW0xTW5pQTc4Z3VHR01fTnVfYzY4cmdTSUZjTEFpWGpkNnhyd3RCS0J2R0NMaldqdlVTZm42eVE1QUJvV0w1Q3BYTVFmM3U2RXJtMl9XQ2hiY2tqVDNIbGdZMm8?oc=5",
-    "source": "LinkedIn",
-    "published": "2026-11-03T19:25:48+00:00"
-  },
-  {
-    "id": "50146f768855",
-    "title": "Microsoft files patent for AI that can change what people say in live video - Yahoo Tech",
-    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPendKa1UxcEpfRXR1dTd6QXZVelhvX3ppWUZHZ2d1ZFZISWQ1S09USWp4SlFYNC1zTFI2c2JqYVpuc0FWdUhwNFYwUVl2enpSYURfemRENFZtaG9KX2VwSTdSMmdlNUQ4UVV5V2hTNDZkek5kdHVSaHNxWWpvNklxMlE0azFsbzl1QjdPYlV3V3NKaVdr?oc=5",
-    "source": "Yahoo Tech",
-    "published": "2026-11-03T19:21:45+00:00"
-  },
-  {
-    "id": "e43ddea6ef6b",
-    "title": "Microsoft claims Windows 11 multitasking is now up to 40% faster on PCs with 8GB RAM - VideoCardz.com",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZzVFenIzRzhjejhrdElSUHZ3MU1jYWVxTVdRSDV1VjBrbkdQVXVzYUpYbXBmS2NzMWNZZ1pRX1l6Sl9lSXM3VjI4WVNPNEZyUEJiX3JMODVvSFk2bkhQM250TktPeWUtTEY1T0hXRlRmd1VlaEl2QzhxZHhJZjJVRWo3bFR0Um5vbG9sM2tWTDRLUTZMU1Fhd01rWFY4R28yZ1E2M283bmN0T3A2TXV4cg?oc=5",
-    "source": "VideoCardz.com",
-    "published": "2026-11-03T19:04:11+00:00"
-  },
-  {
-    "id": "2d3c1e835063",
-    "title": "Microsoft Corporation (MSFT) Delivered Strong Fiscal Fourth-Quarter Results: Mott Capital’s Take - Yahoo Finance",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQk9QazJNaHFhVHFmSzhPcUFMbHJzQk05dXV3ZXNwZ0xEM3JoazhBbktLS0I1RVpIckc1VnhQOEt4VzNOU3I3N1N2YVU2cW50S0RheWhNU3ZUNjJja0RXbkVuU2N1VThHM0tNX0hWemd3LXpGNjluODk2NzFnVV9jclAwNnhtTWxKeFhYcVRBcm11cWhVaUVWZWJnbXJVclAzQ1UtLU9KZzV4MUd5?oc=5",
-    "source": "Yahoo Finance",
-    "published": "2026-11-03T18:44:29+00:00"
-  },
-  {
-    "id": "2c7f326c6d97",
-    "title": "Microsoft Reveals 78% of Exploited Vulnerabilities Enable System Takeover and Privilege Escalation - CyberSecurityNews",
-    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQWlFtQlp6cnltTEstYzcyeVpzQUFlM0FOLVhZREd0QnhCVUkzZU1aTjNTS2g3LWQ1NmRFcEItWklIZzZ1eDktWXZoT0RSVEQ1d2Ffd1RrX3hpaHJlZWlyV0huMW9Zc3hTUDJBVkpha3doaEl5WGctcmptR2RiczdPOXpmZWtTN3PSAYwBQVVfeXFMTjhPUFpBZkhhTHJJWWdRb2dLZkVGSmJLM3FVMlU5Tm41NS1xVDEtYVNjd044emV4VFhSSjE4Z0JfWWhJZl95cGxoNEQ1M19nOTluTHNZc1pVT3VadENPZ2NmLVpyV3pVbUNmUjJMWm9fUzk4WHdQNGRXRzdTUXN2eUhBM0ZvMWE3OWJZeHo?oc=5",
-    "source": "CyberSecurityNews",
-    "published": "2026-11-03T18:33:45+00:00"
-  },
-  {
-    "id": "6c3d3d80978b",
-    "title": "Tech Moves: Microsoft loses a CVP to AWS and gains one from Alteryx; Lila Bio and BECU name execs - GeekWire",
-    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQT1NieUw2QXVFZzNnN00tYjRhaXFFRjdUSU5LdnZnY2VYOUNYbWluQWtqaUE2cGxfeTZNYnMxOVRZS2Q1OXpOWnAtN002Z1RIWUlVOFRibE81YnJHRXBaTDdmMkVoWWdidGYyQ1VNMDhhaUlQUDFJMXE0cDd2NjhPWjVqTjJjbTUxYTlOSE04ZlJqc2kyOUtSdl80cDlCc0tBQVAyTHlKeVJuS0xNTk45NnNJa0R2bWNqZmpxS2hiMmF0ZFhF?oc=5",
-    "source": "GeekWire",
-    "published": "2026-11-03T18:28:09+00:00"
-  },
-  {
-    "id": "ad9ba5012ac8",
-    "title": "Former Xbox COO speaks out on departure from Microsoft - TweakTown",
-    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPY1FHTWZhNzNtQTFGbE0zT0pMaTl2bzNTd250UnRZbUpNMEpybmhYSWl5TVZlUHczZUhqUy1rd1p5dXBxZUUxZzZnUUhTT1RVaWZsVzJZNS1lMDQ3eC0xTmZxLWxBTDVTT0N5ZjlieThMaFQwTlRvd29tXzB1OEl1Rko1RzNCNl9UM1laUGRYRWUyVkFzbmVZMEh0eFp4M1BLRDFHeFd3?oc=5",
-    "source": "TweakTown",
-    "published": "2026-11-03T18:28:02+00:00"
-  },
-  {
-    "id": "71fd32399905",
-    "title": "Microsoft Stocks Rise With $44.9 Billion Anthropic Commitment Disclosed - TradingView",
-    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOV1BlY3RiWkVtWVliNnpPTHZlX2VyT1RWWWk5RTZLTUVoUWpwU1VWa0RGcGdmTDR5a09wbmE0bkU4Zy1vTVpRc3Z2MWF5UlkzV3R0eDNSRWltc1AyU21fSVFxU29nZUNxV2xBUVh0MURPOVFqVlFFc194ZHNqTk5rR2JUdTZLdkgtbk5MVXNwcElFWkNHeTMwN1dSaUtnOXNULUpvdHRwNW42bk43cC1HVVp5VHR5Q25faG1CTXNGQmUzUGttR212ZUVB?oc=5",
-    "source": "TradingView",
-    "published": "2026-11-03T18:09:55+00:00"
-  },
-  {
-    "id": "edd0854581a7",
-    "title": "Yorkville Ives names top software pick for 2027: Microsoft leads on AI strength - Yahoo Finance Singapore",
-    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTFZOS3RLZnFQMzdwWUpta2ZkYVh5aHNoWGdrSGJHSkgteUNFRGh3SC0xRmFJY3ZVanVuSVI3YkNHSFNEX05JS2JRbC1XdUtKaGpRbUlZWW5PN0ZPRmxWTVZDYmVqckpWZlF0LU5qeXNKNVdRUnk3WXFLbVczTGU3dHJ5ZVp2b1hpZEE?oc=5",
-    "source": "Yahoo Finance Singapore",
-    "published": "2026-11-03T18:01:18+00:00"
-  },
-  {
-    "id": "3d2e48150cfd",
-    "title": "Make Microsoft Visio Professional 2024 Yours for Just $45 Until Nov. 8 - PCMag",
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPb3lxdlBuVnUtZ0NEQm9nQlFDeFo2UEwzV1NSdmtOQ0ZCcGxtQ19nZVhzVDlKNnAyc0FSRWZDWjhPWmpoMWEwRzlaQmM0WVl2OXNfUm1EVGg1eVlMRm83Q0hEQTdBbjhQY2JQaDRPbldoUGVGMEJRNVpiUHhidWxOS1ZaeXNzd0dBSHRFMXg2R1RRalN5ampIbUt3Y0Q?oc=5",
-    "source": "PCMag",
-    "published": "2026-11-03T18:00:33+00:00"
-  },
-  {
-    "id": "b0e682f3ab1e",
-    "title": "Hollywood backs NYT in AI copyright battle versus OpenAI, Microsoft - Axios",
-    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB0VzBtMjBQalR5dzM4UlNkR1JCZE0zaUdkdWdjWWM5UXdDS3VPZTEwZENKa2xsZk8wMEc0ZHVrOEE5R2RGWnV3OXBSRGExNW5zdjJCTDlmRkN1VWx0aDRjOHItVkJ0TXVzaFB5ZWtSQ1lERzJSdnZ4b2pka3dMMjA?oc=5",
-    "source": "Axios",
-    "published": "2026-11-03T17:55:37+00:00"
-  },
-  {
-    "id": "b29802068414",
-    "title": "Microsoft says Windows 11 multitasking sped up by up to 40% — The Verge - UA.NEWS",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTXRzZG85QXV1NXdPeXQwSTVUTmVtbkFZU25GbnZmc3ZvY1RVSnRVVWRYZUhlMnJyNkw0VWNCUWQzcUVZOTRQR2pVeno3R2MwaG0zUlRiLWoxeERScHowdlluTl9ndFdWcGZjdVg2NFBRTHhKd1dBY2RLa0lhYjJkT2lHbkh5RFZsUzhyY21kU251UTFTaUVrVTcybF9XUnBxcVFCVjZjM2RpWmxaTzBQUXRqUmo?oc=5",
-    "source": "UA.NEWS",
-    "published": "2026-11-03T17:51:11+00:00"
-  },
-  {
-    "id": "f2fef4799619",
-    "title": "Microsoft data center water discharge plan approved - 95.3 MNC",
-    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPV1Zobk9VZG1JeU9IVjV2ckdqZG1UTDBnODhUYzY1aXR5SHUtSlByZGZTWE1JNmFBdFg0ZFBHbmZKM2hQMHptcEo2cEo2dGYwS0dTams0b1BIY3RPbUpIS21GMG55ZFdlcm9PeXkxcFM1WU1RdjY3QktiaHJtcFc3OEZSWnp5azZNUEpZcU9pcw?oc=5",
-    "source": "95.3 MNC",
-    "published": "2026-11-03T17:50:11+00:00"
-  },
-  {
-    "id": "28e3deca197f",
-    "title": "Microsoft files plans for $340 million data center in Floyd County - The Business Journals",
-    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQQTlJb1VrVnBMdTNiUHFtZ2FyUnpWbDZaUUVMSEVMRUM3UWhPZXpMQi1PRVNvamE3WVFRQl90TENRdi0zZ0lJRjJWYURrbnVFMllMSnE0dUdpVG9jdzZyd3RiRUxETXBENnZ1aHREeEgxMi1LdlMyVnpSLS00UWwxekNxU0xmU3Jrc1JWUnptX2tQWTV3Zmc?oc=5",
-    "source": "The Business Journals",
-    "published": "2026-11-03T17:44:00+00:00"
-  },
-  {
-    "id": "2207ff369796",
-    "title": "What's Going on with Microsoft Stock on Tuesday? - Benzinga",
-    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObXEzZ0Z4VFpkR3U4Xzg0YU90ZXNxT2RHS2tCNUJxT1E2c0RwQ05YaThtc3Y3bk5qLWpOUlhFakNEOWI5dUdpVWNzM1M2U0ZLMGd6ZjRiMG5YZ3Q5Q25OTkxqdGJpOThnYXlCVDE0cE5OYXlMbkZvYVR4a1VhSWNReG9Pa2xyN2lrNW5tZGVDYWF6WVJVcUM0VVFIU1p1MFJV?oc=5",
-    "source": "Benzinga",
-    "published": "2026-11-03T17:42:46+00:00"
-  },
-  {
-    "id": "83a788e6f64a",
-    "title": "Navigating MSFT Volatility: Leveraged Strategies for Microsoft’s AI Capex Shift - ETF Database",
-    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQRVNGRDBDcjVNU1ZIdWlsUnN2M0h6ZXJuYm5WRWpuNzlKdDFqNnVkZWtCTm9kMVNhSG9xRzdvZ1o2MzZ6VjJsU3pkUHpCX0dnMTBkZjByT2MwQ09GOVprTkZwX21tZjd5dnhtODZFNkFPMzlJOHVCOFh6VXFVbmZzajlvYmtDVEF6c3NoN3NyU2xRSl9kQ3YwNlh3?oc=5",
-    "source": "ETF Database",
-    "published": "2026-11-03T17:39:57+00:00"
-  },
-  {
-    "id": "9e812d41040a",
-    "title": "Fake-download campaign uses trojanized installers to deliver monetization payloads - Microsoft",
-    "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPSmw0UnJWd19PS3RFdUxicl9YbUt3Q3R0b3NzRktLVUpfYllhUzFXb2JJVHgwb293WHUzYi14eXJxT0hsM0FFcWpyODBMMC1fNU5FTllOaVh4VWRCdWs0YkE4VEdSWFpvNVR0WlhPR1R0S3hKV3dSVGh4bnRuanNNcWJKZ1UzRWVENXN5LUo2TUpjeFdPZDdVeFQyejUtVmVsSi1PamNNaWVqREVvZEtPb1Qwb1k2emVTajlNeHdnRTBpODRhQnp6VmpBVnRkc1dxM0lMY3BPRzdNMEI5dTBKRWZEQWkxT18wMjhQWE9JdllMazg?oc=5",
-    "source": "Microsoft",
-    "published": "2026-11-03T17:32:47+00:00"
-  },
-  {
-    "id": "8be3fd9f9e1f",
-    "title": "Microsoft claims Windows 11 is up to 20% more responsive on 8GB RAM PCs - Mezha.net",
-    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPcEdGWHc2MGF0M3hCbnViRlo4UXlSN2JGS2ZTa0EzUmROQmJra2x2Q3hKVVhodkNaaGdldWpoZUw1VnpXRjFlLUcybEpvbmlVTFc3UWxHWHR2aThzeEhFT0VacUszSE5BaEVxRTRJa0phb1FHOUhTLXJibE5tSUNiaDRrYXREZnFDYU44?oc=5",
-    "source": "Mezha.net",
-    "published": "2026-11-03T17:23:32+00:00"
-  },
-  {
-    "id": "4e5b19c5a03d",
-    "title": "BlackX UEFI bootkit infected fully patched Windows machines. Is Microsoft to blame? - Mezha.net",
-    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxORjF4OFAyckJlV0x4aVppTnNUTWlNM1lDTVVuR0ozV2RFZWUtZEowT2JTUDN3MWd2VkZlZllDZFdaTDhldTVoR3ptNHNyTWRLWmVTOWltZGhwcWRMQmlreFVZcU10Z3QyM2dYRF9wb2JURDNLbzZSQUVmeEJJbTBvU1NsNzE?oc=5",
-    "source": "Mezha.net",
-    "published": "2026-11-03T17:23:31+00:00"
-  },
-  {
-    "id": "4690d446c0b9",
-    "title": "Windows 11 26H2 Runs On Just 128MB Of RAM, 32 Times Below Microsoft’s Official Minimum - Wccftech",
-    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZ3N5OGhYMmtuOU91NGxpY3ZuQlY1bTc2VmkyR0VxUDR4dUt6d0JDTzN3RmN1NFhFNnhBenNaYkszXzFQTmJISEtfNmhSZjN4UlM4bUJhRTR5Mm8wcDJudWRBb3BrRzM3blNXc0g4MWFKc0xTeEFjZ284cFlqR2ZPWV96R2xZS2tXMHZPeHN1Qi05bVdlZHl2VFRaTThIbVI3Vk1FNzFmanFoUdIBrwFBVV95cUxQeGNwckY1Rlp1dkNMT213cFRtMHowME8yckFldFpZaHAwdVpQdWtmUFRfTHBFWElvZmsyLTl0bTAzNnBkTEdtZzh1c2xPbHJIMEV3eHZ1Q1A3U21VM192cGNZTGNoR3VlTEVqaFkybzh4aXJTUlZjVlo5Y1NJNFpwc3hHeC1GN2cwcUNaQnhBZS1MN0VpMldKa0lMOWxPUjRSRDNRakxJS2xXRjZzd1FF?oc=5",
-    "source": "Wccftech",
-    "published": "2026-11-03T17:08:09+00:00"
-  },
-  {
-    "id": "8b5147c17835",
-    "title": "Microsoft Says Windows 11 is Now Up to 20% More Responsive on PCs with 8GB of Memory - Thurrott.com",
-    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQakNVbHhFMUFZeTB2YWtFQlp0SG1ETGhCYS1yTXZpNlBPbkRoQUVOVmxOUktfR0hvZ3lQX1I2Z0Q2eWVZaDJFQjFYbDRmM2IzMGJleW5lSWh0SFFwSk5UV2wxVmp1SjNiMHd3Skp5VzhPNVlkVWktXzZMbnpreG5aNmtwTmpFQVFTMkJEOWNsM3RFX2F4dDBudHFiN19yYmJ0cWF5Vzl6YUtKak1kaW1iSkNkYXNmRVlMRDNZam96eEw?oc=5",
-    "source": "Thurrott.com",
-    "published": "2026-11-03T17:07:53+00:00"
-  },
-  {
-    "id": "e369a11cc7f0",
-    "title": "Microsoft is optimizing Windows for 8GB PCs, but it may be in vain - PCWorld",
-    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUEhCWWEyZy1zRU1LSVVxS19COWVXeEVkWmFGNTBHWkNmWkpVdGRIYm9aT1dVaVl0bHZXRWpCNkFvbGw5RXhmdU9nR1pJNnVQOERUYzZiWDk4SXc3N29vMndCUHlGVmluWjN2WF9fMml1cXVZUVVEdUFJREJHY3pjM01YWDRGSXZsLUtoVmZidjhUajJldkNLalRPY0tZMS01ZUtHbGVjZjlfOFBGcjdV?oc=5",
-    "source": "PCWorld",
-    "published": "2026-11-03T17:04:58+00:00"
-  },
-  {
-    "id": "e9a6c2d7e853",
-    "title": "Microsoft Has Listed Some Concrete Ways That Windows 11 Is Getting Better With 8GB Of RAM - Engadget",
-    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPbGpWdmNkWTdjLWdxMVRZZXRsR1VsOTAwSEpRa1FZWVZGWkVqVXR0Yk1pb0J0azZJTHFRamxSZWR4VUlqZEFZZUxYRzNGV1dzNzhSRmtmaUY2a3NJclZwY2g2bU90MDFoOExoczZxbG5OOVltNUZTSllOckJFVkpDQm1sZkY0MnNYdm9wQkNHZTFvNFZSQnVwaldja2FkRmZyRjlTNU9zVDJjZGlDZjJpdHlKbDlpUnZQNS1nWlVPN0s?oc=5",
-    "source": "Engadget",
-    "published": "2026-11-03T17:02:49+00:00"
   }
 ]
