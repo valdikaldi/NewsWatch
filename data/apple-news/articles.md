@@ -1,8 +1,68 @@
 # NewsWatch — Apple News
 
-_Last updated: 2026-11-04T19:27:18.659691+00:00 · 50 articles_
+_Last updated: 2026-11-05T00:45:24.273701+00:00 · 50 articles_
 
 ---
+
+## Apple Series 4 40mm Bands - Apple Store sales in neutral ahead of new Apple Inc. AAPL product releases - www.auroradesio.it
+
+- **URL:** https://news.google.com/rss/articles/CBMiUkFVX3lxTE9MMllXUnVQYzJ4U2JQWjFOUkVwTURraGhkRjN6TWZjOExqeUxDN2U3a3RBbXdhOGFZRkJXRkhwRHotMjA5dnZZOHJQZThJM3BaalE?oc=5
+- **Source:** www.auroradesio.it
+- **Published:** 2026-11-04T21:54:25+00:00
+
+## Apple Reportedly Tightens the Belt On Employee AI Budgets Amid Cost-Cutting Drive - TradingView
+
+- **URL:** https://news.google.com/rss/articles/CBMi2gFBVV95cUxOaTRCOWNubWhmX2ExSHFYN2RiUnNpQ1o0NVlEbjUtOVE2RjR4RGVGd2dFX1hWUXE4OFNqT1VoMVl4eGZ4R29ROEpoRGhxb0JpNjdER2VPNVNwOEM1bTZxb3p3ZFdQMzM0UlBYaXBYRFh1eWtSVzZCT1lWNmZPYWEtZkYtTDFtRUNoLTZuUDVTUzhTTDVnYjkxaFFwVVN6YU9DX1hSNE1FakdFcFl2aW5icDM4NEZfODJHSlFVTnNHWW4zSk1mWko0dVFxX2F3ZnZoZHNXS0IzaGFNZw?oc=5
+- **Source:** TradingView
+- **Published:** 2026-11-04T21:35:25+00:00
+
+## Apple Gets Rave Inc.'s Antitrust Suit Transferred to California - Bloomberg Law News
+
+- **URL:** https://news.google.com/rss/articles/CBMipAFBVV95cUxNVmtKRFlwQXkzSHFKbHBsWG1vb1BaYVZCd1pDTFhDbWJ2SnN6RjNIbEhtZ0lpMF9YbzdQQTN2c2FCaU1MV09GeEp1UTNEb2k1YXpOR25IRlQwMjdicHhDdF9FN3BTZkpIVEk4ZklfYm05MV9yX1JEdjZMQ0ZXcXlVdHNnd3JGSkZqU1JRLTlsTnFRa1ZtWVBwY3pscjlienFfVWNYVA?oc=5
+- **Source:** Bloomberg Law News
+- **Published:** 2026-11-04T21:24:00+00:00
+
+## Apple Trims Daily AI Token Allowances for Engineers as Cost Scrutiny Mounts - BigGo Finance
+
+- **URL:** https://news.google.com/rss/articles/CBMidkFVX3lxTFBsbTh6eTFtS3hydDlkcE9ZOGFCY1RwZTlCMDNzMVBUd09pSlg1WUF4Qk96Wkl4VUNVMWNGOGRSanB3THpDMzBwd2hmODVoY25OeGhlWGFCQmZpTmpjZHo0SkktWXllS041ZEtVbjVHNVg0N210ZUE?oc=5
+- **Source:** BigGo Finance
+- **Published:** 2026-11-04T20:55:00+00:00
+
+## Apple reportedly lowers daily AI spending limits for engineers - Yahoo Finance Singapore
+
+- **URL:** https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVjdaLU91ampYRDBaR2tXRkhCVkx6VTNzLVJqSEFLS2hudXVPQkpNWGtkekt5YXpkSmhCMVpvaTlMVVpRdjA5Y1dzc3pBeU1VbHFVTUhhSG1wcThEclVJYk5mN1o3Y0Nfb0NyOHRFUzA3d3hNWHBLblNoWEJ2cWtYaVBMLS1zLUEz?oc=5
+- **Source:** Yahoo Finance Singapore
+- **Published:** 2026-11-04T20:32:45+00:00
+
+## Form 4 Apple Inc For: 4 November By Investing.com - Investing.com India
+
+- **URL:** https://news.google.com/rss/articles/CBMilwFBVV95cUxOMENqdmt3Tlh6UlBiZi1pSGM4RzNfdG1zQlBtVVUzZFNXeUdLNG0xS0xQYlBrMGF5N1JMMnZmUUx2Z21SMVEtTlRDQlluaXhMRnBZb2tEamhzMDA5ZEFCZzlxZk1mUW42QkphUUxqUjdsM2dlTzJaN2NzT1Q4VFdhNzh1NzdGODdnM1EyYkE5ZGM0WjlSbGxF?oc=5
+- **Source:** Investing.com India
+- **Published:** 2026-11-04T20:27:01+00:00
+
+## Apple reduces internal AI tool usage budgets: report - Seeking Alpha
+
+- **URL:** https://news.google.com/rss/articles/CBMikwFBVV95cUxOYmIyUFNNeTJqMThpc2FPUWF3eXZXWTRKc0NXdHRieUNQemh0VGh4NUl1Vk5Bb3ZQM0cxdUs0ck9ucjBqa1RTak16Y25mMTQ0bkl0NmFHX3NoY2ZBWmFtS2dqVGoyVlFLMUlNZ25FUE1ITHNYOUcxazFNMjdWWjlPSk1xNzJ2T0JQek5NajEwR0ppU0U?oc=5
+- **Source:** Seeking Alpha
+- **Published:** 2026-11-04T20:15:32+00:00
+
+## Apple Cuts Internal AI Usage Budgets in Move to Reduce Spending - Bloomberg.com
+
+- **URL:** https://news.google.com/rss/articles/CBMitAFBVV95cUxQNlpwLUc1MHh4TnNOVk9HY3BLVUlLS2ZwTjRIUEtqb0VKa2JYZG13VTc2TzdZZ2dlOUUtTmlZYTdmeGJIUVVpcWFBeS1PWGQ5X3FFS3lBMzJ0WjJsRjMzWmpaRl9KRUZzSWRpTHVaQ3lUeU5wNnM0S3dZLTVaMWo3RWNnMmZqcTBCY3NOajRvSk13UmM4R2VBUjNtT2w0NU96aU9FelhEZ1BJcHNWTExwYVRNczg?oc=5
+- **Source:** Bloomberg.com
+- **Published:** 2026-11-04T19:45:00+00:00
+
+## Apple Series One - Apple Store sales in neutral ahead of new Apple Inc. AAPL product releases - auroradesio.it
+
+- **URL:** https://news.google.com/rss/articles/CBMiUkFVX3lxTFAyOEZRbDhWWmVFZ2ZyQ0NFUGZYS3NaR2JKSFozdWVIQnNYb2ROU1BNc2pSTll5NzBYQnVqRF9ndFJoRmxLaFZjbk0wb3hicDBOcHc?oc=5
+- **Source:** auroradesio.it
+- **Published:** 2026-11-04T19:35:31+00:00
+
+## Apple, Tesla Supplier Is Taking on 3M: Here's What Investors Should Know - TradingView
+
+- **URL:** https://news.google.com/rss/articles/CBMiyAFBVV95cUxQUVZ1R21fTVZEZzFDV256UzlCaXVCUm9Qd0toR05GVmVRbTFEejczZWhGTVJVb2xGTUNkNGZLczc4TUR4bUFORjJYWGwyeU82WmRQYUROX1ljQ1EzNzI3eWNfZ1N4MTNwZzdoTXhxSU1HUll5cjROSS1qNGtPcmt1OG1YR3BFWkJXX3hYZUJkcmFhdURIUEUwbXF6dHZYQTNYV1Z0QWNoR3RlRWJ0c1FiXzVVNFpOdGlEbllkOTlZNl9HTWZLYndzRg?oc=5
+- **Source:** TradingView
+- **Published:** 2026-11-04T19:34:09+00:00
 
 ## Deadline set for Canadians to claim money from $1.25M Apple settlement - Daily Hive
 
@@ -243,63 +303,3 @@ _Last updated: 2026-11-04T19:27:18.659691+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMilgFBVV95cUxPM1NHajJFbkh0blJ4OXdPakpTWjB2eGZvS3dMSDhpYVMwVGFyRnc2OE1ZYUprZ3IwTWxzUE1EYnNtN29HLVZZRm13SDd4NWZ4TEJFVkNJbVZZa19ydzk3d0o1eHRBY2cxRnFEalF4aURiMDVhM3g5WmlPOFEtcWdHajM0TEVFYW14Ums4c1piYmpydlU3dVE?oc=5
 - **Source:** Yahoo Finance Singapore
 - **Published:** 2026-11-03T18:24:18+00:00
-
-## Tariff class action lawsuit accuses Apple of overcharging customers - Top Class Actions
-
-- **URL:** https://news.google.com/rss/articles/CBMiyAFBVV95cUxPaDc5WG1CMmVieDllZm9kRGlpcEVFTnd2aU5wYnR5LW9DRkNOUk1VSi1lcENoOEszYlhxREtVM2REY184RER5OWpUaXVYTlVLSmZJTnFWVGtrbWk4SmkzREs3d1FOall4V1NJRGFUZmxwT3ZrQ2lqazVNU2NuWDJpT0tub3gydnZUN2YtOVluRnAzcUp0emh6WUdyeVh6TVJaNHhwMmwxMlN4eXZnSTE4ZllvTDFJMVhjd3c4dVZiQ0RQRWs3aGVNZg?oc=5
-- **Source:** Top Class Actions
-- **Published:** 2026-11-03T18:02:42+00:00
-
-## AMD Earnings To Test Whether PC Weakness Is Intel-Specific, Apple’s AI Agent Problem - Benzinga
-
-- **URL:** https://news.google.com/rss/articles/CBMiygFBVV95cUxPRFNNbUFNZVlTcldLQ2xaX25oVFBYSmFqeU9PX2RqUmttSFlCN2dERkl2NXkwTTBQb1pvMHZPVnlsZG5kdHNwMVZNWEYxdTU0VmdIZURrb2tXbjR4RHlJQUdtdm1scDdTWjUzckt4N2lpN2FaU3FXdFRRN2l2alR0QXBEQ0VwWFBVVzdIMUpNUXpkT3poREN1Wl9sQkxYT3podTFJVFgyY3hjY1F6dExrWkV3QzhlVHRtU2VxLXBjaVF3V0pORkt5b1N3?oc=5
-- **Source:** Benzinga
-- **Published:** 2026-11-03T17:49:16+00:00
-
-## Apple faces valuation test as slowing Services growth and rising costs weigh - Proactive financial news
-
-- **URL:** https://news.google.com/rss/articles/CBMi4AFBVV95cUxOZUljZWw4eVVOdG9NdHZkT2twQmtzOUFKdlFQS3N5WE9hNzdQRTlkNmM4bkVmOXo1V3NoY0N0VG1iVVRhd3hIVkR4SEFwMTFEeWppbV9TTG1VVlVjT2xWOGkydjBBSmhRa29xTDRzbjA2YTFBbmNmbDdibWNkRThGZ2pxeTdYUTdtcEd1dVYydzNwdmMyVXE4QlJSQUM3ZFhxRUdBNkphbXh5eVp3S1A0Z3ZPc0VKREo5YmVfLTBJbjhPbHVYY01iVmFSLVZDUlg1NHZJZWpnWGVtTUE0eXB3dw?oc=5
-- **Source:** Proactive financial news
-- **Published:** 2026-11-03T17:42:00+00:00
-
-## Nasdaq 100 Gets Lift, Nvidia Overtakes Apple: Stock Market Today - Apple (NASDAQ:AAPL) - Benzinga
-
-- **URL:** https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSGdla1dBUTQ0bVZDRmxXNWJ1Q1pnNzBhZVNUTVdiS0dLaVdiQ2lOQ19pVzNxcXl6VlJQV2F3U2hnSmZTY0lUenZVaUxwNkw5bUg5QjVFbkluWDNpN0EwNEZsNmdrbHpHTEZ1Z3B4VXJORDBkWWNRcmVjOVdMNTk5YWctbFFGX3dydlYwSTRGWGNaQmNhVUxVM1FmY3JYVlN1UGtxNHVKQlpCWkxGbjMwV05RbkZpbE1MTE9QX3Z5YnJDbTNSZ0U0TA?oc=5
-- **Source:** Benzinga
-- **Published:** 2026-11-03T17:24:36+00:00
-
-## Apple's record India quarter has more to it than meets the eyes - Livemint
-
-- **URL:** https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQW1PTGFZd2dtQ0RCdllVTXRyNU9kUEJUQkRqVXpQOWFCczU2Y3EzMnBGN09jMTJOVExmYjAtTlFrMEpzZGZOSlhJQUc4OERzX0pSTjJOSTRENVcyV1dRb0Z2dVNZdTBMTi1mWFlaclhPM1NKT1ZZTXlmUC1jalRUd0x6YlR4WWw2cDFldl9tRzZpVTdLblBDRFhNWms5Rlh2SmNKZkRDYUPSAa4BQVVfeXFMTlBUYlRhVDREOXNQWUQtbG9ZaGN3Q2JzYjU0emZ1WDkwdVVMdC1VMTQ0Sl96ekVMUnFwVUx3SGVQYlFNVGJmMmFVRGtvY1dQbm1oYjJfZm82bDVLRnMtdGFzVkJOMGVsNklUTy13T21OazFKTDBDbVVMaGN6SFNtaTJDakU1Y2dNckJMNXpnel9TZVdKMzVTOWpkM0xYd1FHck9WeFV3M0ZSR09iOHJR?oc=5
-- **Source:** Livemint
-- **Published:** 2026-11-03T17:14:39+00:00
-
-## US open: Stocks mixed as Apple slips, investors watch midterms - Sharecast.com
-
-- **URL:** https://news.google.com/rss/articles/CBMisgFBVV95cUxQRlVmSlY4M08zeGFiWFNweWFWZDVaaHJYRXRkeHVNd1JiaHdZcmktZ1VEaUs1ZG9pMjNtb2M1d0l4V0xvTzFWNkdVVmJFU1UzOXlVcjk1bDNVVENpVEZrbUdDS0lTdEkzbDdpY25JZ1BRLWVkaEp6VGxoWmw0RmRlMlJmZ09PYUFyd2wtTURGNUk1M3ozN1FYQ2NHV0M5Q3NDMjR5UlJGV25uWkd2bWNELW5B?oc=5
-- **Source:** Sharecast.com
-- **Published:** 2026-11-03T16:25:08+00:00
-
-## Apple Inc. Stock 12‑Month Price Target Raised to $338.44 - TradingView
-
-- **URL:** https://news.google.com/rss/articles/CBMitwFBVV95cUxPLWFJQmtsb3V4N1FwbzVkeE1yOEoxTE1RNnhQS0JuVU8wZFdYbnlrU3NJbXZNVlcyeU1sc2JDZ01xTUtmN1NsRi1Sc1ZSODkzSHp3aEhxSC12SXk2R3pleDN5NlFiRjUwTG1odzJJWS1HaGkxbzAtbmRHVTdXcXVBM25UbGpXcEFmU0VNZGZtZ2FzTFpaYUhQMC1FTU54WHJ0dl9qSlVZTmtuSUVQMmM3U1AxcVhWZFk?oc=5
-- **Source:** TradingView
-- **Published:** 2026-11-03T16:20:00+00:00
-
-## US Stocks Mixed; Apple Shares Slide After Q4 Results - Benzinga
-
-- **URL:** https://news.google.com/rss/articles/CBMitAFBVV95cUxPXzBKR1RFdFdLRlV4Q25EYjZKS1d4SFVtam5HeThJWVZCbmRPeVZHYUxEMTJQZ0JJdC1lSFNLOWNvREYwc1dhSEhvRklodEZJTVlnaDhiWWs1Y0owSDM4VHdvUjlBR2VOM1RrZ09jZ1loVDg4clFWcmpkVWhDX25jbVowYWRfVjcxY0xsZEw1VTJLbGUzQXp4dkozMlNVTmRvUEoxU0xKNjczdVQzVV9MWFFMbmM?oc=5
-- **Source:** Benzinga
-- **Published:** 2026-11-03T16:16:52+00:00
-
-## Apple's Margin Problem Is Micron's Pricing Power - Micron Technology (NASDAQ:MU) - Benzinga
-
-- **URL:** https://news.google.com/rss/articles/CBMirAFBVV95cUxPTmVaWUM3UUp6LUVlb252OUhPd29BVWt1eDZ3VTZPUXZITnV0SjVCSGhMMGtHWk5qaTBSVnVKWWUycC1KQkJZLVh6SF9oSGpBclJoWjFEZ3pyS1FGZ2dLN1VaVEpWZ1hJUXhkTEtpNnFRZTViX25PaTktbnhLLWJRMGtYRGFEbjNxd3FycmR1SEZRaS1mbWJ3NVp5OVNyM0dldzNrczBjZ0cxbFpv?oc=5
-- **Source:** Benzinga
-- **Published:** 2026-11-03T15:58:13+00:00
-
-## Spain's competition watchdog plans to sanction Apple, Amazon (AAPL:NASDAQ) - Seeking Alpha
-
-- **URL:** https://news.google.com/rss/articles/CBMinAFBVV95cUxNUUJiRkRuV055QW45Q1pmWEN5MHRyWllIYlVpR2h2UUlNcGpuMWVaZmxnRm1FemVGVFRwX09sMmkzMlFPa2ZoT2t1ODY0LTVMRUNDVWo4R3hFajl4blVhcVd1NlRGTkJpVlRFdXktU3dRZDRJbG9qTFFxUFQ0eFBDV21iSTJmdVdrQm9DMURSZTR6cDBYc3R5TVpUWVo?oc=5
-- **Source:** Seeking Alpha
-- **Published:** 2026-11-03T15:45:03+00:00
