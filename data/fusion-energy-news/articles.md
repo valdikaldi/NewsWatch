@@ -1,8 +1,38 @@
 # NewsWatch — fusion energy News
 
-_Last updated: 2026-11-05T11:56:07.400511+00:00 · 50 articles_
+_Last updated: 2026-11-05T19:41:28.994444+00:00 · 50 articles_
 
 ---
+
+## National labs working to tackle fusion energy challenges - Fermilab (.gov)
+
+- **URL:** https://news.google.com/rss/articles/CBMikAFBVV95cUxQTVprSmlmRlNyTTdLYm4temF3SjB0ZEpPMy03VXpBcTJZNmFsbW0xaktZSVZvbzUySzJHTzl0WFIzN1ltdzk3QTNlY244R3I1OFlkRE56S29iSk5xVTRFWldNalNqWFJySndfcjRpa1JHTFRBQ0JHbGdkRGpfRXpvdkdQTWItNGE5OEJpZTd4SjE?oc=5
+- **Source:** Fermilab (.gov)
+- **Published:** 2026-11-05T15:00:00+00:00
+
+## Amentum and Kyoto Fusioneering team up on public and private fusion programmes - energynews.pro
+
+- **URL:** https://news.google.com/rss/articles/CBMipwFBVV95cUxOcDE5T3NwQlZBTExPMXBqcnBqX2d4b2V1ZHY3YVdSZEluTFE0UVNyaVRDUzNqMS1rVWtRa0otZEhtMVVncUxGRUo3UV9QbF92cHhMdnlGMGlqLUlCXzZEOXRwcmRHV3B5RXZiS201M3Znb3RlR0o5ekcwWmNEa0E3TnVvTzQwMXh6OFREbk5sWVhXdl9KTndPb1ItVnRwNmpxbnA5MTdZRQ?oc=5
+- **Source:** energynews.pro
+- **Published:** 2026-11-05T13:14:32+00:00
+
+## Christine Lagarde Urges Europe to Strengthen Its Power Grids and Energy Storage - energynews.pro
+
+- **URL:** https://news.google.com/rss/articles/CBMiqAFBVV95cUxQYWJpQmEtVmxhdHFVaF9DT3Vpd0xEUkZUTUkxT2ZWY08zdkIzTlhLY1ktX19yUXlDMDFZX0lkandHclVIRXE0UUhPRU1fSUNlb1Z0Y1JZSW44bWFoMHpVSzRNclhaZlA5RFBQLWVnQ0hydERZc1RCeG53MmRCS1ZWbFFDc2xkU1BOWmhCU1ZTUmZyUTBpcTFGeHR3MVBaa0djRkZVbTBkLWo?oc=5
+- **Source:** energynews.pro
+- **Published:** 2026-11-05T13:02:20+00:00
+
+## Kyoto Fusioneering to Provide Gyrotrons for Type One Energy's Infinity One Stellarator - Business Wire
+
+- **URL:** https://news.google.com/rss/articles/CBMi2gFBVV95cUxNTUQ4cDJyMnJBbE5uVGFzU2pkWXlKaVhsTUdBbUNhSGR2NEdsN2JpVmFWTU9sWnBKYjhqamFuZzhYLVBMV2VJcG5WVHhNVkFKZld6d3ZhWklEdXpZTWx4UjVmVXItWHFaWjdHcVJrcXdITnlSWDNwNmFVNGVxQm01OXh0MlhvbWR5ejd3SU5LZEtzZVlPNWo1TkQ4RWhaem1Db3dld3h4NEhiaExkOXluRzZSVV8waDg3VXE0elREUjE0ZkRSMW9ndlNlX2hDMjMtRXpsQ01FTjFmZw?oc=5
+- **Source:** Business Wire
+- **Published:** 2026-11-05T13:00:00+00:00
+
+## AI data centers drive nuclear energy revival, $50 billion investment by 2029 - ET Datacenters
+
+- **URL:** https://news.google.com/rss/articles/CBMisgJBVV95cUxNUHdiajYzMXlkRDdOaGhvVFZVZFU4NU05RXlUU1plRGh1SXptM3VsQ3RFOUpncE56amJuSkRCV3pCTTlCMWhkVlFoU3NiX0xLSWs5RWVmVzlqRU45UncyZDRja2tuMGp0ZlctTXR0XzNzZlN5WFVhR3JzclRXdFkzVlRLNmFRUnhTUUNsZjZOQ1pmbW1lMG5Tck5iR2NhR1lzX3RYTHRLT3RUcEtEbnBsQXhOZGM2MWlaMlVIVEVFeC1Mc0hOM2d6bldDZ2xrRjBPeHNMaUNlUlV4Z0h3OVJjUWgyd1pyQTZ6Y2lBTm40NHZ4bkxLNFdoUmI3c3U2TktrWUYyVDd6TDI2NXlVZ3ZtejlYTmlfdzJDdnBDRE5RTnRqa0E1V2RZa1hTWGlReUt2LXfSAYACQVVfeXFMT1duYUx1NnJIanZMQzVzVXNPZVppWU05MlhMMmk4M3J1WTRJU3ZELXlZYVZGMnpNRHM5OExLQ2w4ZmJ6ZkRia0xIcjZnWDlOajkxQjRUd1BUQ2x5RUotVmNib1d2aU5CRU1JdGdzSFJ5NVZWeUJUVWN3SXRvWHVlNHA0dVFHcllXWFJtVURJV25CTU1JSTVlSmNjMU4xcTM3SlBvRUN2RW9Oc2s0SHpUSTRLdUJ3RE9URWhySHNLbmdkUDRNSHhESmh2U1ktTkJiaGNyWnFIeEtzUnliZ1pWT0ZrVWhENHpib2hLa04tSTFlUUlkdHJNMXFRSjlUT1lkUQ?oc=5
+- **Source:** ET Datacenters
+- **Published:** 2026-11-05T12:15:47+00:00
 
 ## Nuclear fusion reactor gets massive 13-ton beam box to achieve 108 million °F - Interesting Engineering
 
@@ -273,33 +303,3 @@ _Last updated: 2026-11-05T11:56:07.400511+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMipAFBVV95cUxNNXNTV2tmMXRweUFLcVhEVG1ZLVpEV2Zzdk1acDBxZG5LMFpwR0htQTBPV250cGdKdTFJUkdSY29vbE9ydGhaemt3Zk5Pd3J6TlJSZWtQVmE2UmhKZkhZR2NWekJKbmRiX2lyemxkX1Rza0VSQkZ6bmdJbkJabmtqWjcxNVBSYUwyOWdfYVZydGRoRkY3bUFJSmEtUmNybDZENHBCUQ?oc=5
 - **Source:** HPCwire
 - **Published:** 2026-11-03T21:54:20+00:00
-
-## Nuclear fusion developing as new energy source - Odessa American
-
-- **URL:** https://news.google.com/rss/articles/CBMihgFBVV95cUxNT0RwdG1mRjdvTlRuU1VKUDhHSWNDdkhLeXRhdmxQRk45eVBKTWJhTFBObHM1bnFpMlFYcGNHSzhSaF9LS3ZiSkhkQjk5WEF2dlFoMGFqYzVVZjg2MG5YdTdMb2phVFRUcE1RN1dfM0Y5RXVlZFRFZ3Q3dmRSalIzNGNLWks1dw?oc=5
-- **Source:** Odessa American
-- **Published:** 2026-11-03T17:29:50+00:00
-
-## Amentum and Kyoto Fusioneering Announce Strategic Collaboration to Accelerate Global Fusion Commercialization - Nuclear Industry Association
-
-- **URL:** https://news.google.com/rss/articles/CBMizAFBVV95cUxPNU1tYmQ2a19UUnZwOVBSZExtaHVDbEVrQnFPaUR5QzIzLU9QMUpsbkwzaHlObl9ka3l2RFFWTFN2dDZvWUZTUXVjUTZGVFZQU21DUnJYVHZrdEdCUks5cW5tcUFHcXdyUng3LTZoeXF3X2JRQmszMzZHSV9aaGhiRmhOQ0VOLVZZalo2Z2J1VDVDN0hYS3cwY2daZzZDNHNWODZDUWFrb3lYcUE0dVQ2Um00UUY2bmxKTGtDdUdveDBOWXh1TFVwUVplZDQ?oc=5
-- **Source:** Nuclear Industry Association
-- **Published:** 2026-11-03T17:10:42+00:00
-
-## UC San Diego, OpenStar Awarded DOE INFUSE Grant To Advance Dipole Fusion - UC San Diego Today
-
-- **URL:** https://news.google.com/rss/articles/CBMiogFBVV95cUxNWmVyTW9HSl94Y3BNSFZocTU0OVNickVvY3h6ZGNSYW52TGdsZXFfbERFTEFNcHFtWWN6aVd6dlhmc05Ic2RWeld4QzVOV3pGNkZXbTY3MmFydDNZRFFfdkFmOE9OT0s5RWZOY0NseWJkdnF6Y1lKN3FvQUp2S2p1MDJhTEhaRXpXRElPYWpKZVJaM2NXNGxNelhrNjYyYmxmQWc?oc=5
-- **Source:** UC San Diego Today
-- **Published:** 2026-11-03T15:49:50+00:00
-
-## Thea Energy Appoints Former Oklo CTO Pat Schweiger as Chief Engineer - citybiz
-
-- **URL:** https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWXhSd0NBVEE3M3lqV2RpY0lFQXMtSHpaSEhnZGdJX1FXdTFIajlyUXV2azYxbE5YejY2ek9OUktYdEFJOGQ5elc1cldfN2VKRWlKbTNxVnMxUXJwdDNvekIxZDJGSzVET1RGNVNuSDFlVVpfdHk2MGtnRUpGaTgzcndGckFJZHc2YVM5ck1raDhiUGZ3X2w5RUpHVm1Fd0UwdVRvNjBDYXdMeUU?oc=5
-- **Source:** citybiz
-- **Published:** 2026-11-03T15:07:46+00:00
-
-## Amentum partners with Kyoto Fusioneering on fusion energy - Investing.com
-
-- **URL:** https://news.google.com/rss/articles/CBMitAFBVV95cUxPTjVwTWtVTWNVdXF2eno2eEt3bC10d3RGd0FHNFVSMUg3YlZZQ3VxZExEUW5WbHZ0a20tQlpPeWZOLVNRU09wN096ZHRESkV4aFp3VkI0MklmTWp1TnNESU5ILUs0RzllMmREbFFCZF9PS0pHelVITU5tTGNUcFZDNjJyLWFoUTNaRkRxZWhiWExKSnZSakNmSzNGaGQtUjQzMWplRzEtUHpZQ3VVcklnNmoyVDM?oc=5
-- **Source:** Investing.com
-- **Published:** 2026-11-03T14:16:24+00:00
