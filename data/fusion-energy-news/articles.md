@@ -1,8 +1,104 @@
 # NewsWatch — fusion energy News
 
-_Last updated: 2026-11-05T00:45:31.107418+00:00 · 50 articles_
+_Last updated: 2026-11-05T11:56:07.400511+00:00 · 50 articles_
 
 ---
+
+## Nuclear fusion reactor gets massive 13-ton beam box to achieve 108 million °F - Interesting Engineering
+
+- **URL:** https://news.google.com/rss/articles/CBMiugFBVV95cUxPSHVVc3pyWEJpR005cV9NUUtLVnluRk9XTVEwaTQzWXBwRnJnaWQxLTZEZkFHNWZEdnFfQldfZE9PWUgteUlSYm1wTE02WkNJVmFVem9QQ2JUYk1BRm96am51U1FOZThxbXNXR2RibnNVZjZKQWMyanZJZDh2NXhQUWRmN0NtUTEtUFFTSm53NHFBUTR6Y0s0bF9ybmhBQTJlRndGT2Y0U09ZamVidHZzNnNWQUZqS2N4dEE?oc=5
+- **Source:** Interesting Engineering
+- **Published:** 2026-11-05T11:26:32+00:00
+
+## 2.1 Trillion Won to Be Invested in Fusion, Marine Reactors, and Displays... Projects Pass Preliminary Feasibility Study - 아시아경제
+
+- **URL:** https://news.google.com/rss/articles/CBMiZEFVX3lxTE9KbHQwUEFrd2RsVFVKdUFhYlkwWDUwRGN4WG9pS21oUVVQZzVMN2JSOXpkNEFrZjRJOFV6WFMwV2l1WWEzSW9XZzBrSG1HaDBMSTlmU1RhZmZpY0p3NFliczE5OEc?oc=5
+- **Source:** 아시아경제
+- **Published:** 2026-11-05T11:08:31+00:00
+
+## US nuclear fusion reactor drive taps advanced plasma tech in new deal - Interesting Engineering
+
+- **URL:** https://news.google.com/rss/articles/CBMikAFBVV95cUxQY0J4LWl3YnVHOXE4bURxR3k5ajBDWVJCSmRFOHhqOWZCbHNDMm1ZSUtQN3ZpUHRjRTQ3SHUybkQ3Wkttd1U2N1hOQ0tBVXVVdm5Vb2dXaklyMFFDMU92d3JwZ3hCaWtFRGRXbG1qNFVrYkEya1JhY1gxWEJwbE03WHNreVNJckpHREhvdWQxWXQ?oc=5
+- **Source:** Interesting Engineering
+- **Published:** 2026-11-05T10:58:00+00:00
+
+## Studsvik Wins First Major Novatron Fusion Reactor Assignment - TipRanks
+
+- **URL:** https://news.google.com/rss/articles/CBMisgFBVV95cUxNY2RqUlR4MFZ5ZkRzdUp6M0tPLXVrUFhkRWRKVU1fZUh6cy1RZ2RqLW5BZFhmbVF2M011UkxCN2pjOFpEazV3V3Rrd1N2aXV1eHRUSU5GcHpvM2g3SG56STVmS0hDM3BteXZmODZiQjQxS2V6TUc0NTNYLXlJa25vTk83b0NuRnI5SlZDS0xsdFVGOUFpSHpzbVpreWR6ajZvZmhubnNrZ3VLazZqQXdjc3NR?oc=5
+- **Source:** TipRanks
+- **Published:** 2026-11-05T10:01:08+00:00
+
+## Korea to Launch 2.2 Trillion Won R&D Push Led by Fusion Energy - Seoul Economic Daily
+
+- **URL:** https://news.google.com/rss/articles/CBMiqAFBVV95cUxPaEhBYTM1RWxuRnpRaEI0UHB2RC10VHZMaXotSVNTMWZ2bWRNVndJQm5IQXdxVUE2RTlaYkJwTVd1dGZEdGdaNGJCYzFqemhyRmtiWWR1bU1sRmJSRFg2U1JmNkNzX3dwWjA0MjB4TFFla2dORkJTQ3FpNVNVeHc0dnVsb0dLbGlDUjRfMGJ2TVN3OG8wWnF2bnEtZ3R5WGhqVmtwSEVKWm4?oc=5
+- **Source:** Seoul Economic Daily
+- **Published:** 2026-11-05T09:51:37+00:00
+
+## MAST Upgrade gets major heating boost as 12-tonne fusion component installed - Innovation News Network
+
+- **URL:** https://news.google.com/rss/articles/CBMivgFBVV95cUxPU3FFYl9fVFRIVnBGckhLTEF6OERQZTUzNE1YaGU1MDJVOFBfRzNKQ016ZEE2eDVjOVluWmN4Ym5raG9ycVlEQ3c4T01wUmRMYmhpUU5hZnE2aXZGQzhTWG1xZl9FRi1jV2RhV2lqcUVVT2FrSGVISTFfRGRVWmJTbnVSQkNzZ0FWLWR3Rllhc1JvbnNsLWxVcENQeEQydnl5VUt5b19lbUlUODBSR1g2akxEd19uNGxMeERzcG1n?oc=5
+- **Source:** Innovation News Network
+- **Published:** 2026-11-05T09:44:18+00:00
+
+## Swedish Company Announces Commercial Availability of Clean Nuclear Fusion Power - PR Newswire
+
+- **URL:** https://news.google.com/rss/articles/CBMi0AFBVV95cUxPTl9oNV9ZME1WZzB5Xzd6aXcybUQxTEItaDJLbkVOQ2hKbW41OV82SHJuTmdaNzF0WTRhbDlBMFVhSjFvdm5rcjFleEduTGU5MlFseDNXMjNNZG1LNktrTHhNQVZ4VG0weUZNMFdxU1ZKRG5uR05KbHlRVkswOUdRaWJEWU1mWnlTSWFHMENHYmdNUV9XbkRMc3d2Z2NLbVdncFRjZDZIb0RySWo4UVUxVGtPSmhRai02YTRzZ183Z1RCMkRQQ1R6MlNralB5dzJN?oc=5
+- **Source:** PR Newswire
+- **Published:** 2026-11-05T09:17:00+00:00
+
+## Naju to Host 'Artificial Sun' as 1.2 Trillion Won Fusion Project Clears Feasibility Review - Seoul Economic Daily
+
+- **URL:** https://news.google.com/rss/articles/CBMimwFBVV95cUxOOEE5akhoaGlCbG1WUUpzQ08wSXdIZDhqM3hCUkEzdW9KNk82azE5ZTJBMVNUMllLbWNVclpPYklIaXVjY1NvMzRSXzJXajktbXEyakxuam9MNDYxS1NYdW1DX19FS0hKNVBmVWcyU2x0LWQ4S3NmamwwWWpqVnlPUTFmR0Fwd2NqY1hINW84VFB4UFYxZnk4MnFVYw?oc=5
+- **Source:** Seoul Economic Daily
+- **Published:** 2026-11-05T09:10:05+00:00
+
+## Korea Institute of Fusion Energy launches fusion and marine MSR R&D from 2027 - DongA Science
+
+- **URL:** https://news.google.com/rss/articles/CBMiVEFVX3lxTE5zRUFjdDVPUG9NZXNmYlZpNk5sTmNuY18yVGlyR2d6dVplVkQ5WDV3M1lqTDdLeklLbWEyZGVHa19VZ2haZHU1amdVc1NWR3FmYzkwVw?oc=5
+- **Source:** DongA Science
+- **Published:** 2026-11-05T09:10:00+00:00
+
+## Naju Artificial Sun Research Facility Passes Preliminary Feasibility Study... 1.48 Trillion Won Project - 아시아경제
+
+- **URL:** https://news.google.com/rss/articles/CBMiZEFVX3lxTE94bGUwZF9FM2JPTmt0ZkxUTXNNeHllWGVvQlY5d2pkVjR5ZkduYWJKX3pzV3ZzMXFoTl9tdlFJN3V2c0ZmeTNYWng5VVUtcDkyOEs2SV9PTzFoN2E5MVZFaUg3Unk?oc=5
+- **Source:** 아시아경제
+- **Published:** 2026-11-05T09:02:48+00:00
+
+## Construction of Naju’s 1.48-trillion-won Artificial Sun Research Facility Picks Up Pace - 파이낸셜뉴스
+
+- **URL:** https://news.google.com/rss/articles/CBMiWEFVX3lxTE1YclFSb0RvYXRoNnJDVHpYX09UUWU0TUp6Wm5KZXdqUGhJcmVHemJJbktHTlJOUlU1bl8ta3cwYV8zN3E0UVRpY2s4N1JtcHNxaFNpb0EyU20?oc=5
+- **Source:** 파이낸셜뉴스
+- **Published:** 2026-11-05T09:00:00+00:00
+
+## How Fusion Energy Is Connecting Talent Across State - independentnews.com
+
+- **URL:** https://news.google.com/rss/articles/CBMi6gFBVV95cUxNVFBQdXl4cFR1ZmJSZ1Y5cEVDR1FxOXRoMmIxMk5MeERRTTJHUGJPTFc1dXBvODlfMjl0WU1JOFlJN3VUQ0lyZEhkYkZqTTIzQ084X2Rpa245S2JRQUQwVzliV3BueGZSMFZCNERFQVVveGVCVEIyZEVwd1A1Z1A3TXNRSVkxZDBfaGVuVUQtOXY1V1lsOUhQemxBM2o0ZTNqNEx2VjFoX045NHRZMDZaT0RSR3R2cFFkXzZOS1R2MUFzWk0xYmJfN0pZcnA5YUVubXQ1UUgyNWFnZ1BLYnJWZTUwUFpURWtLbkE?oc=5
+- **Source:** independentnews.com
+- **Published:** 2026-11-05T08:00:00+00:00
+
+## Studsvik wins contract related to Novatron's fusion reactor - www.marketscreener.com
+
+- **URL:** https://news.google.com/rss/articles/CBMisgFBVV95cUxQLWZ2aDRwd2YzeE11RVktWEtxMTFpaWphWTlMTUM0UVdZanBydU9MbVZGWEhXT2JJd2hoOWpMdlFmdFpXZUpWOXNyN3gwbjhnQ3RZU1JJcVhNdmJmeEJzM3NfS1dTVEhLM2IwQmVMSEVKR1dFcEFKVkxNYnZ5Y3c3QXctZ3dMUk9GMGJWRjYtMmpndkxWb1lINDdldC1Ed0VvZm9IeHJ3dUFBYm1rTHlYTS1n?oc=5
+- **Source:** www.marketscreener.com
+- **Published:** 2026-11-05T07:34:18+00:00
+
+## Novatron taps Studsvik’s nuclear expertise to guide fusion reactor design - Cision News
+
+- **URL:** https://news.google.com/rss/articles/CBMivAFBVV95cUxOOVdEbFFJU1VjVXF4NFl6SW5Qc2UzX2J6S0VJWkdDai1haDMxWFlKYUJGa2JHTERvTEYyT3VkWDVvYjUyMEJRd0V6Q0tfUnBCRlFmNlFpYkoxbFRMdXpMbmFYNHg5QTMtb2t6dzRoQlFZRGxkVE1rRFdVWnRNQkJyVTROWkliNjlsRlRZOE5Vei1OME9MbVFOdzBMV3VQYmYxdmJBQzN2VlZGbUdsWFlrR1lFVWluVXYwdkZZRw?oc=5
+- **Source:** Cision News
+- **Published:** 2026-11-05T07:00:00+00:00
+
+## General Fusion Group (Nasdaq:GFUZ) - Stock Analysis - Simply Wall St
+
+- **URL:** https://news.google.com/rss/articles/CBMihAFBVV95cUxPdHR5cUNXNkJpN3BjYnEwVEU4QUxJcndiN0F4T09mQ3lWdzY5ZmlFRVpHUFVfb2Z4b3cxQWRMMlhEajB6MTgzcTZGNU9XSnlxcWQ5TGJaOTR6dFBic1ZLcjlQRGJtclI3ZDdOS3IzdUtzdmlCVkFXNC03Um1KUll5QTN2TXc?oc=5
+- **Source:** Simply Wall St
+- **Published:** 2026-11-05T05:24:11+00:00
+
+## MIT puts next-generation stellarator magnet through full-force test - Interesting Engineering
+
+- **URL:** https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRzBReHlEQlBhX3BKVnNSQlhjZU5pLUV5MDk1TXRuMG5sbDhCVVBXUlJtUGh4ZzlQLVNCODFDNEdJc19FaUtuMjEzNVY1SHRlNjk5TjdCdkM2MXN2OXU3a2Z4eU1pSmRMY1B4dVV4d3ViSDZLVWVMQ3lxV3Fmb3h3ZXdYZWxYZ1My?oc=5
+- **Source:** Interesting Engineering
+- **Published:** 2026-11-05T03:11:00+00:00
 
 ## How Trump and AI Data Centers Are Boosting Nuclear Power - EnergyNow.com
 
@@ -207,99 +303,3 @@ _Last updated: 2026-11-05T00:45:31.107418+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMitAFBVV95cUxPTjVwTWtVTWNVdXF2eno2eEt3bC10d3RGd0FHNFVSMUg3YlZZQ3VxZExEUW5WbHZ0a20tQlpPeWZOLVNRU09wN096ZHRESkV4aFp3VkI0MklmTWp1TnNESU5ILUs0RzllMmREbFFCZF9PS0pHelVITU5tTGNUcFZDNjJyLWFoUTNaRkRxZWhiWExKSnZSakNmSzNGaGQtUjQzMWplRzEtUHpZQ3VVcklnNmoyVDM?oc=5
 - **Source:** Investing.com
 - **Published:** 2026-11-03T14:16:24+00:00
-
-## Fusion companies sign agreements during Japan-Germany meeting - American Nuclear Society
-
-- **URL:** https://news.google.com/rss/articles/CBMioAFBVV95cUxNbThoQVFyVkMyb3VsVFNNRjNGSEo0TlNUUmNUNmlTNFhUbmFJdGQ0dDRhZHJGV1ZZaXhVY0RYNVQ4d2lTZTBxS3d1Q2NMcHk5MUs1cW5kdlRqQUZXQkRDM1BxNW9PTFk0V29XcDdVRE8tN05KX0FyeWcwVUVkWUVGZ1o1R1N6dVE0WWF5RFhpT0E3MUNYa1JBVzFWWjBLZVMy?oc=5
-- **Source:** American Nuclear Society
-- **Published:** 2026-11-03T13:56:11+00:00
-
-## Thea Energy Appoints Pat Schweiger as Chief Engineer - The Manila Times
-
-- **URL:** https://news.google.com/rss/articles/CBMixAFBVV95cUxNQWNQMTlKbEZHSFVHdmlwV1gycDNkS3c4YXREdmNoS2JUNG5TemZXakhLYjlQVGdfQ1haaHVWV2M0b1gtakhpRS15ZUtJWUJiU0phdjFwQmlBb3lHWlhuWmRhVkl6UGhLRmc4ZjlMNmFTM2ZwbzVkdXpYSHJVa1ptdnU4VXplSzZDS0k3dTR1a20zV0lwU3NXMTNxb0lSZ3pxTDI4UmFMS0Z4Tk40cFFMZzdaOURvNzNTOFNWWVQ3dGNVMjBS0gHKAUFVX3lxTFBIUzJxdVJLZEdnb1dEVG9kSWlCVEI5b3hoalVIMXBJZTNOU1kxREwyYVRwSGJTOHpaZzZsSnZVOG1pNXJrU1l6YlZvWmdXZjF5ZHdlay1FNWZvdlpZMXR3b0hldE1KekhRX2pLWmxaTWEwRUtfa1FKUnZMOFlLYzdQSDExVWN1MlBOOGRETzU0LW1wTHNmTjFQaUxWS3RNTkxfYjV3WDhSaDhmdEdtMDRfMm9LQ2VyZmUxdlRIbWpPWjFiR3pJTzl5Rmc?oc=5
-- **Source:** The Manila Times
-- **Published:** 2026-11-03T13:38:28+00:00
-
-## Amentum and Kyoto Fusioneering Announce Strategic Collaboration to Accelerate Global Fusion Commercialization - Press Release Hub
-
-- **URL:** https://news.google.com/rss/articles/CBMi8wFBVV95cUxQTlNRS2M3VWxKU3JGby1GVEsxNGNMTkRyYV9xc29uZWtXMTRUcXQwNm9HZU9xS2tyOWtDNXI3bmhoenNYeV84TFhIOGNCZzNRbHhvdWV4QThURWxudjhkRkJISlZDQ1F1NEtkZ3hTTlZzVGppOUMwU3JVVGpkd3IwZFFXb1RYUXFHZlZHOVU3Z2tDeXBlRUR5LTAxa3JFS19FRmFEMkNBU2lLa2RVRzc5Vk5QVG1EZEdKZmU2Y0lvX2ptYzZUUTFJbTJxdENMR3VJSllvNExWc2xlUHJUVkxFcFIwN293QzVRT2lIT1dyX1dQV1k?oc=5
-- **Source:** Press Release Hub
-- **Published:** 2026-11-03T13:34:24+00:00
-
-## Amentum and Kyoto Fusioneering sign MOU on fusion energy - StreetInsider
-
-- **URL:** https://news.google.com/rss/articles/CBMitgFBVV95cUxNZUpRWWxHR1JSaWY2cFQxLUZ6akhycndCaHZJT3NHMzhRZUNxZFQ0SlZ6VnJLbEZIS1VpcVEzTElldXRieHJoU29ZQW4xcldjdEtjZEVBRVNpZDVaa0RtX19hRDZTbEhuMENMaV9tZWdWYlJXUWs5ZzY5LXBWaUVUVUFGSmNKRmpoS0h3VGVTaWVBQ1JVWDZRVlVHekItZ25FQkZEbU5XTWR5S0l4SmIzel9DMk1TQQ?oc=5
-- **Source:** StreetInsider
-- **Published:** 2026-11-03T13:33:21+00:00
-
-## US fusion reactor could unlock 24/7 power using helicon current drive - Interesting Engineering
-
-- **URL:** https://news.google.com/rss/articles/CBMigwFBVV95cUxORFN5LWlZQWhDT1NwZ3UzcnNmdk95T0hYdEYtdWpHeG1wcEVvdW9aaU53dTVJZmJabnFOREZGckFnb3JYN1dHTWUzX2FYV1Z3a040ajNxeVU1eTFrazZfdDJJWGxCV25aRDIycXFRZjB3MUlhVkdLS1lIcjNxVi1mZDhRRQ?oc=5
-- **Source:** Interesting Engineering
-- **Published:** 2026-11-03T13:03:00+00:00
-
-## 12.9% of emerging quantum technology innovations are already at the operational stage - Open Access Government
-
-- **URL:** https://news.google.com/rss/articles/CBMisAFBVV95cUxPOVZza1JhYy04OUxKXzZVeWZSR0hiQUNuTkljQnc2VmZ4eXZLd0xYSUNVYzlQdDhKTFpjMTNmakx0bWExSTFSci1HM1NJUGJZQWtWUEFaQjhIcFY3Vnd1dmNMb3RsZExrQlkyVEM1MVpSN2lOWGl5NkpZM01GQW9PWm9DbHVWc2hwWmZsdWVNQ3Z6OHV0Zjd1bE1yWFpTYXluQVdQcEZ6WHl2NmVndlFHYw?oc=5
-- **Source:** Open Access Government
-- **Published:** 2026-11-03T10:37:51+00:00
-
-## Giant 12-tonne box lowered into place for fusion upgrade - GOV.UK
-
-- **URL:** https://news.google.com/rss/articles/CBMilgFBVV95cUxOcGQ1TjVzMEVzVWhUaDNnX09xVlJzVjZMQ21jM0x5ZEpzVXA5LU5KX1BpUEhkaHIyekZfckNfQ2x4MWRPbHk5RUJBZF9GQnd4YWFZcEZOSlMwY0RRZjNaRVFzWk5FbHFyd3lnenM5RDRNakdmUHVuMWJBeWpuQ3FUOXZzVUlKZXZCNmM5S3Mzd0Q2eFRRM1E?oc=5
-- **Source:** GOV.UK
-- **Published:** 2026-11-03T09:29:32+00:00
-
-## Montanstahl Laser Welds 100-Metre Steel Profiles for Fusion Magnet Research - openPR.com
-
-- **URL:** https://news.google.com/rss/articles/CBMimwFBVV95cUxNTmpNaXVTMnZlbWxNR1F5Y1BqSjV1WHl3RGc0X3g5dUxhY3ZobnhJSmI0ZWdQYkVycEFFM2Y4REhvTUMyLWs4Y05DNExHcXNjMDEtb0tOOW13MUF3WjZBWDZxQWx1bnd1OE5rdmpCakxPXzE3Ujd3T0hIZkdLeF9tREx2a0RPRkp6LVpKN3RJdXFYSV9hQ1ViNXZqWQ?oc=5
-- **Source:** openPR.com
-- **Published:** 2026-11-03T08:50:41+00:00
-
-## China’s top economic planner pledges to take ‘extraordinary measures’ to drive new breakthroughs in key fields - Global Times
-
-- **URL:** https://news.google.com/rss/articles/CBMiYkFVX3lxTE5VRUNENE85QW1DT3NqalgxdktPQVRmVk5MOWVicXY4eHJwOVJGSmZfR0pCb0lyYVZHRFhXc1hCN1ZGMnJMVkF5ajBocG83ZHl5Qm1jRWtPMm5wYWtDYm5xVE13?oc=5
-- **Source:** Global Times
-- **Published:** 2026-11-03T08:49:00+00:00
-
-## US commits $8.5m to accelerate commercial fusion energy development - Innovation News Network
-
-- **URL:** https://news.google.com/rss/articles/CBMioAFBVV95cUxOWkJVZ3YwUFNiS3drNEdsOHpxNWdSYUEwSW9QLVQ5U1NFSUFOWmlyZDhybnE1V1JlMnhCX3NlNnV1OGdvbEhqOC1xY2xxWG5JazNoRXpQWFFiQWhqY2g4Q29xckNxYmpUOW1nZjRtbElyQ3ZNUkF4bEJNc0xGSmpGd3p6R3JxeWlXUjZUcEZLYzE3Y2ZUZVgxMGtaYWoyeGRq?oc=5
-- **Source:** Innovation News Network
-- **Published:** 2026-11-03T08:41:08+00:00
-
-## China to beef up support for emerging pillar industries - Xinhua
-
-- **URL:** https://news.google.com/rss/articles/CBMifEFVX3lxTE5nRkViQU5VX3NqdjFUTzJ3NWxGckQtd3JzT1lzTEVLVkViNDluTmlURWhHRWVYa2FNZUhsOWFObm5NWW1KcXZXQkVlYTBiNHZNSko4R1RYV3RocXlqU09nYURaTV9yRUViVmQxUVA0YkJCcFJjNzFTV01YSU0?oc=5
-- **Source:** Xinhua
-- **Published:** 2026-11-03T08:00:15+00:00
-
-## Who gets to benefit if we start mining in outer space? - UNSW Sydney
-
-- **URL:** https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZkJRS1hmVi1CdDl3c1hJcWZMMUdFcDd1MXZiS3o0LUxZVGZSMlh4ZXFoUVdHZDVuWGVLTEpVb25KenFrVXB4QU83MXdrU09GeDlCNGNsVGtPMkJnYlR0aWdKSUVCcGZqUlFHekROdXZIcXdLeVpoSkdZZFZtNFRPcERWOVItbGtK?oc=5
-- **Source:** UNSW Sydney
-- **Published:** 2026-11-03T07:58:13+00:00
-
-## Crystal advances will help power next-gen fusion laser systems - Laser Focus World
-
-- **URL:** https://news.google.com/rss/articles/CBMi3gFBVV95cUxOWWlqX3RmV2JvXzMzTjNhQTN5bUowaE1hZGNuNXRDbXVJVTcwa05HWURmVHp1dVJmRnpjN0doQ0dnMFFxQnh5eEVtU0F3dDhBUXlsWGZ5alEtOGpnM3hTQmI0Z1pwRVppMGlPOEp2blF3YWFqLW1DRnFtNl9NYWk0eHdGU2dMbExSYmhxWEstaHRhODF0NnJwYWR6SjBGOGdDQkx6aThXellFVU9BX1JiTlFjWlFsYU1JYk9jellzTXVNM19fLW1DV1N5SHgzSE1oXzhVVTIxUm0zeXJ1VHc?oc=5
-- **Source:** Laser Focus World
-- **Published:** 2026-11-03T07:38:39+00:00
-
-## Hormuz disruption drives up energy costs as AI fuels demand for electricity - Khaleej Times
-
-- **URL:** https://news.google.com/rss/articles/CBMiswFBVV95cUxPRnpURXF1eUtyb3ZMWDAwdzRFM3N6MXRfZll4dHA2WXBJT3Vsb3FwVFlUeVM1c0owUl9pQjU4cUFLTnExa2J4TndydEVTVUNrcTZYX1FYTzZJNkZxRVNkdVl6UFp3bXo1Q0VqU0pod0RYclBKWmNyanZZVWxid3Fvcmt2X29qaURROUJ0N3JNTnQwVjgzcGVuQlJFd296OWh1VnJQRWp4c0xJU2tiSXFvVlpBa9IBuwFBVV95cUxOdmJsVnpNNnMwWE5uYURtSmVWUGtUMlJSWUxPQVdpcURqc2pjMDRYdk1UajhrT0JPWXdiNDBBMTNjNWF0aGRpbkdmRVctaURoYmtrVEh6YjdMaUVmUFMyTGl2ak8zaTFBb0ctMDV5UkprUy1pUDNWSUlVMzhaWTFWNVpCZ09pR04zbk9OU3lwMkFteTF3ZjVtNzVxVHR6dmpZYWdWaGhfZWVBdEREYkR4OHQ0VkluNnhjQWRN?oc=5
-- **Source:** Khaleej Times
-- **Published:** 2026-11-03T06:21:19+00:00
-
-## Kyoto Fusioneering and Focused Energy Join Forces to Advance Laser Fusion Power Plant Engineering Between Japan and Germany - The Joplin Globe
-
-- **URL:** https://news.google.com/rss/articles/CBMisgJBVV95cUxQd2FIZjZfcHFlVEhqOWJObGZmcTdWV1JHQ2xuZGx6Wm9iRHpZLXhSd1pveVNWUGZhXzV5V3ZLeHRlSk94aEJ0S2NiQkZDbS1IWHJBeVItS19CdW53QTJESEY2LVRWeHRXLWdGdWp5Ny1waTNrWGd3TU9WZGo5bUZaZ2U5b05rUVZad1FRT0dGNmxhN1N3ZENkLUR5ZldXbzJKT3pvdzdGbG8zbjZCejJGMzJKcWdqUE9TWUJPMWVuamtZR0dBRTNNYlBTOHF1UXFVdmFPWjJBbFQ4ZjhsMkRoUzdCbElUanEtcUpkVWc5RVpqLU5VdGtwaTBMNEVXVEJYWXMwU3FfWjluMEQ1ZEtiY1lmRGxMLVRwTlEwdXNEeTl1akk4a3NDVHdPMVRXVnRjVnc?oc=5
-- **Source:** The Joplin Globe
-- **Published:** 2026-11-03T06:01:18+00:00
-
-## KYOTO-FUSIONEERING - GazetteXtra
-
-- **URL:** https://news.google.com/rss/articles/CBMisgFBVV95cUxNVExFQWxQNjk5V0prc0Ixc3ozSEVqX1NlTU5XeWpjdG9xTUFQYlhJVnZ0MFpTWFpqQktzeUJEdkliMDAyVkdBYmNXOVljdW9RNFF0U09IODhpaW84MFFKM0pDYkNFMHk1dTVqc3BjQTRnVmFoOUlId3I0R2xveUxHREdzUmJEajlfdEI3VUhRMFZkaWFHTkRCbkdnQ0pzQTlWZzJXVDBROU1tZjl3ZnVwVjB3?oc=5
-- **Source:** GazetteXtra
-- **Published:** 2026-11-03T06:01:18+00:00

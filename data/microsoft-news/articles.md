@@ -1,305 +1,305 @@
 # NewsWatch — Microsoft News
 
-_Last updated: 2026-11-05T00:45:27.067828+00:00 · 50 articles_
+_Last updated: 2026-11-05T11:56:06.708758+00:00 · 50 articles_
 
 ---
 
-## Microsoft Eyes 349-Acre Floyd County Site for Massive Data Center Campus - Hoodline
+## Microsoft, Amazon Add $400 Billion in Market Value as Analyst Sees Pricing Upside From Data Center Constraints - Benzinga
 
-- **URL:** https://news.google.com/rss/articles/CBMipAFBVV95cUxOOXk3YVQ1VmJXeVFmaGw5MERNSElOQ2NocmRPOEF6eENHTVR3cjVLejRQZWktNnAtdjVYbnRNLS1QYjBRYy04bHhJNmlYSGpMbHVHcUo1M2R3eGp4ZEJDUG90U3hPa3huN0FBc252Znc5NkcwSWcyX0ZvS1UxRWY0d1ZYMGVWbnpobE9YUUs0WUZhTkJnMmZaQllsSXM5VVVKN3dQXw?oc=5
-- **Source:** Hoodline
-- **Published:** 2026-11-05T00:33:45+00:00
-
-## FY27 Q1 - Press Releases - Investor Relations - Microsoft
-
-- **URL:** https://news.google.com/rss/articles/CBMiigFBVV95cUxPaXNEUTdVWndDS3RFQS13VmtYUjYya2J6NTJvOU5rX29OY25MVjd0ZDFrakZJanZ6TXpmYnduckNrQ2FkaUFRaXlaR1ktNXhwdEozTUVGcVUwRDRLa3BjdkUyNDU1Skk3cnA1NnlxQWFBWG5JRUNlNU9UQjFueDM1V2pla21XZmFfWUE?oc=5
-- **Source:** Microsoft
-- **Published:** 2026-11-05T00:29:57+00:00
-
-## Microsoft just gave you another reason to stick with Outlook Classic, faster search that falls back to your PC, even as it pushes you to New Outlook - Windows Latest
-
-- **URL:** https://news.google.com/rss/articles/CBMilwJBVV95cUxQcXp2bF9aNy1DcTRjTjd1eEpXRlEwTlJmQTVsSkhFcXNEVUlCYXB2SThtanpEY2FlMks2Rm8xV1RLdjJiWk9EY3E3SDlieldCelF5ZkFwM0d5RWE2OFFIMmI0SlBQdWxkRV95Y19VN05sRllKRGlTNDNOUndDQ2hscUp0QWotRDRwdDBubThtT1pXQnc2dWxDUFJ6ZVRWM1JtTzVXeXQtS1ctTVhsa1Yxc3Vyd0ExdF9rQ1NJUDJiQ3BtMmQyQ1JFUV9tOVA2YmJuSlFPLWE0dF93Q2d3Nm95OUY2Z3o3RU40WXF1MGRGdlhEaElFazVITGNoWnJnWWRrQ2EtZndhQlFabTZDcm4teUg2SzNJckk?oc=5
-- **Source:** Windows Latest
-- **Published:** 2026-11-05T00:16:57+00:00
-
-## Microsoft Rides The Wave, Leads These Hot Prospects To Best Stock Lists - Investor's Business Daily
-
-- **URL:** https://news.google.com/rss/articles/CBMijgFBVV95cUxOdDBlYlluOFFPMDFTSjdxTTcwSnpEdnE4akNjZF9seEwtdUU4ckNCbHZfWGIxNDdERzFTTWVZOTJRS0JTZWlwb2M0czhlRFpvaDI3U1ZQZHkzYkxkc2k4Mng1S2NGMktTWUdPNzVxZVVqRi1YNktraDN3UTJUVDdVak1TMmFzYU82NjVCeEpB?oc=5
-- **Source:** Investor's Business Daily
-- **Published:** 2026-11-05T00:01:00+00:00
-
-## Microsoft Breaks to a 52-Week High at $555.80, Up 2.27% From Its Prior Peak - 24/7 Wall St.
-
-- **URL:** https://news.google.com/rss/articles/CBMizAFBVV95cUxPYmNieDZkQVUwa1Y4LUI3c1BtT05heEE4YWljNnFSbWZnUXFHeUUwYzkwYWFPeHVWNWtzeTI0b3d5SG5USHdzTGJvQk1vYUVKOXQxRkpBQnRaUVVjenBrUkxNTmtJR2RpS01XVk14bEJxLXlOYjdwSVd3eHpqWWpvT3ZXMG42c2lvQW5FdjNVZGw0YzVFcGo4bUN6TWJZc0ZsZ2JXOEpZVmx4TmJXb0FtWkJmNXRWVkhRaUVpX0liRFlQTnFHbGlHZE54U3c?oc=5
-- **Source:** 24/7 Wall St.
-- **Published:** 2026-11-04T23:54:41+00:00
-
-## Microsoft Created the Problems It Now Blames for Arkane’s Closure, Union Claims - Wolf's Gaming Blog
-
-- **URL:** https://news.google.com/rss/articles/CBMiuAFBVV95cUxQcWFsX0R3VmtBU0UwZ3FkemdvY0k4aG9XcmNBZVBFaUVIRUtCMmxkenI4TUF4OWR5XzEwalZIQVdrcTQ1OFBib3pSYnRneF9meW4zbXZBWnhwbE9DS0xMV2tUWHRiaHozOTYyNUxrUnlUWHVUeXhERDNXU2M0bjR3SGFtNk9NY196OHZWaThIaC1ybDNXS1VTZF96WEZ6THNjVF8yQkhGNkZkSG5sUjM2SGxUYXpxand3?oc=5
-- **Source:** Wolf's Gaming Blog
-- **Published:** 2026-11-04T23:46:32+00:00
-
-## Amazon, Microsoft and other tech giants close higher after Democrats’ midterm sweep - SiliconANGLE
-
-- **URL:** https://news.google.com/rss/articles/CBMiugFBVV95cUxONFhSQllONzdpRko4bmoxWHRxRFk4TnMzMXpsVFdTVjBTbWMxaGxVOVFRWkE0NzVURU5zZ0JoUWlvZnF4cUoyZ3plZV9qZHdMLTFfdVk1NzFNRzNDNG9sdHdKdHFob2dEcXBXR2hQOTNidlE5cm5FRnJMa18xNHlJS0xsNmNFWV9EM19sVTY4YVhxSmdKNVJaTDBHOGJaZndoMWlBd04weUJuNWpUaXY5R25UZEFsaGJIV0E?oc=5
-- **Source:** SiliconANGLE
-- **Published:** 2026-11-04T23:42:00+00:00
-
-## French Union Accuses Microsoft of Deadlocking Marvel’s Blade - DualShockers
-
-- **URL:** https://news.google.com/rss/articles/CBMijgFBVV95cUxQX1NIWThaNm9hazVOZUdhY3JBY1kzcVhaajgzeTNEYmE2Tzl1NUNzOTdGbVV6WDF4WG5fam4yQU53R1R1dUxSckFlT19JSVd6NTF4Y080bGx2djVRTVV5ZDU1Mk5Gb2NvTHNVUU42YmdfVGRGLUJESFB4QjV4TENKNmcyR3VuQ0ZPMTdCVS1R?oc=5
-- **Source:** DualShockers
-- **Published:** 2026-11-04T23:42:00+00:00
-
-## Arkane Lyon union says Microsoft's hiring freeze caused the delays it now cites to close the studio - Inven Global
-
-- **URL:** https://news.google.com/rss/articles/CBMi2AFBVV95cUxPYjNUckU2OU1Ld0NFQ2tMOE4wcUZmU0tUSmxBTTNnNk1XU1pIVXlZUVVXN1c3TTRSeE1SNWlTTzJNc1ZkNDNKWGNtRFpmVDg1OEM1Wm5Yc1AtUzA4MUd0TWhVWm5XSE1nRTdERTF1RDRpRjd3NTdicXR4NWdydlg3REZnTFlUSl9EdWgzSFc3aDRiYXktS0djNkQtTjQxdU9COVZCVFRlVk9HMXoxR1ZJczhGSEdZTDdWaXBENVhlbktzZDEwSUpCVzFkNnFtRWEzeHoyUzM2VXc?oc=5
-- **Source:** Inven Global
-- **Published:** 2026-11-04T23:17:29+00:00
-
-## Microsoft Delays Default Copilot Usage-Based Billing Again, Citing Partner Feedback - CRN
-
-- **URL:** https://news.google.com/rss/articles/CBMitAFBVV95cUxPMWxLbTMxellNWldlam81cWNtYURuY1BwZV85Zko5RVJiRFQ5SFJjcjVETHRNdEFBWlN0NGRpUktZdEEwWGdCT0Zwb05kMlpUWk5yTi04aWhKQmNyb1FJSmhNdmtjemU5UVlRUlU0UUc0dEdUcXU2b0E3bDNob3dMUnp6RG1uTXNybXF1RmtRWWJ2blNMRkZVUXRFZlZhZG1CN0tET2V0TjQ3b1d1TGtLdWZFUHM?oc=5
-- **Source:** CRN
-- **Published:** 2026-11-04T23:04:00+00:00
-
-## AI race raises GPU, memory and software bills - VentureBeat
-
-- **URL:** https://news.google.com/rss/articles/CBMitAFBVV95cUxQcndYcnBMZks1TXZaTjFIVUN6Z3pvS1BGV0JaaEwtczFNbmJ2S2xNd2RxV1hKQnRReDNzQW9TSm1FVUwzOFlUNVB3UExNSmRsVmo2Y0NKUHhrQ1M1aExyeTBXNERlNEsxM0VsU3VlUzFZYjZCcy1IMEo1UGg3R2hteDNWU1VseHpEa09FMHljY1FhVDRIODJWWlZsVGx1VWVCSllucHdGVlhIbkRFeHJXS1d6SkY?oc=5
-- **Source:** VentureBeat
-- **Published:** 2026-11-04T23:00:10+00:00
-
-## Dow Soars, Leads Postelection Rally; These Three Giants Are Buys - Investor's Business Daily
-
-- **URL:** https://news.google.com/rss/articles/CBMi4AFBVV95cUxNQmliVFRWX3pISnI2UzBXQlE0bUhCVExKXzhqZkNWTXY0emxpN2RHYWpqTklDR0x2Mk4talloWE5vSmtZcE9VTlUzVmFhS3ZYZUlpN2psY2lOWGNRV1huaUx5VWtpa29lVGt1ZWFiWU12VzIxamE4cHItM3E4SVAxb2QyZE4wTm8xV0k1RGZDdmhVU0VaLTVsQk9Sd3dnczlpa1JRV2dScVNwOGZpOENqdWRuZi15XzRYaWEyNFFndmFZRHJpNWZYazdMb05PdjJuMEJINS1PRlhESl82VGJFUQ?oc=5
-- **Source:** Investor's Business Daily
-- **Published:** 2026-11-04T23:00:00+00:00
-
-## Microsoft Intros New Protections and Controls for Sovereign Cloud - Campus Technology
-
-- **URL:** https://news.google.com/rss/articles/CBMivAFBVV95cUxOV0JQV19keUphc0NBNUhSa0Fib2w2dG4xZ1g2UnhSU3dOa3I2MlY3cU9YMEpYMlRqZDZjazJuVzFsSWx1OUVzcXBhYzcwbWVDR3VxMjVrNXFIT21ic1VEUEhCeGJrSjNacGMwMjRfenBpWXFVeE9nTUkyRlVvcG1HT1V1ZjRmOXFXRHVzei1PUS1xaml5M2pDWTFfb01ZbGhFZG9kbkM1bGZ2cVItdzhMcGFzVllSZDlkX01mdg?oc=5
-- **Source:** Campus Technology
-- **Published:** 2026-11-04T22:26:17+00:00
-
-## Microsoft-backed pocket park project sets official opening date - Urbanize Atlanta
-
-- **URL:** https://news.google.com/rss/articles/CBMimwFBVV95cUxNaXZaVUdYMWhWQkhsaUZ1TUMzQWF6ZXBjOVl1WHcxU0ZrejNZR0RaLVhCWjVUbVI1Qm1CcTVVd3k2TVl6WlRxaWpfR3MxMFJ6QmRqeFhkODZLaEg4dEtuNXpfUlIyVnFtWXlCbTlsZlVSWndHUkxSOGdrdWhMVXFHVk9abV9RLURqT2FiZDJpMmFFUU92X2dSQXNFUQ?oc=5
-- **Source:** Urbanize Atlanta
-- **Published:** 2026-11-04T21:59:30+00:00
-
-## Asana lets AI teammates act across Google, Microsoft and Slack - Quasa.io
-
-- **URL:** https://news.google.com/rss/articles/CBMijwFBVV95cUxNeHp2TFlXZ1ZqY1F3THVRcDJCb3pRaEIzOHFBbFFpY0tWRE4xU2txRDYxdGFwa3UwUHVPaVhOemlESktkclNTZk5DXzFGWURVcGU3RVMzZ1FlaDFZSzM3NF9QaG1SZ3NtbmhybUpFanYtSkdsd0hVTlBMMnc1R1Z4SEszTTNSS1NBOUxBTnV2aw?oc=5
-- **Source:** Quasa.io
-- **Published:** 2026-11-04T21:59:00+00:00
-
-## Vylor builds a governed agentic AI knowledge framework on Microsoft Foundry in 6 months - Microsoft
-
-- **URL:** https://news.google.com/rss/articles/CBMif0FVX3lxTE85QTlZZTc3NXlZcGc0clNSU1FkejFPOGIwbXZiN1JYbWgwc2tzV2Jrak93Vm9BbDVucHphazRKZERCR1ZGWXdacjd1bXJoQXRCdEZLeDFqcmZTTkZnbVgzU1RzUmxFZ2xrQUtMeHlLZ01YVUd2VFQwVWc0NmJCS0U?oc=5
-- **Source:** Microsoft
-- **Published:** 2026-11-04T21:42:16+00:00
-
-## IREN delays said to cause Microsoft's AI spending cuts - Breakingthenews.net
-
-- **URL:** https://news.google.com/rss/articles/CBMioAFBVV95cUxQUS1xZll2NWpfV2NDekVGZUl2dWhmcFlDQk93U1I2WXJubDlGRVM5QUI3eEFkUGlZaVJ3RWRqU0FzX1RsZV91OVlubE1lTlBpbzlTcjNvRVJFTWE4bjBCWXBIekFZZ09Nelh2UUR2VlZmbENac2swV3N1dmFQVTg0S2JxcnpJSUwxdE9iYUFISlkzWGFkWWxhWEtCdDlPSUJv?oc=5
-- **Source:** Breakingthenews.net
-- **Published:** 2026-11-04T21:40:00+00:00
-
-## Microsoft files patent for AI that can alter what people say during live broadcasts - Computerworld
-
-- **URL:** https://news.google.com/rss/articles/CBMizwFBVV95cUxOUmZOcUc5eGhxR0xvd2J5MUEzZ1hXX0lORE5WTFNRNWY2NGN1bWZLeGp5RV9oTEtBQW9iYVBCRU15cG42S0kyeDRpOGFJdjhxYkhVVkQ1TDc5WS1nYjM3aF9CUWxpRU5EZ3VMVkZlVFQyNmZWQlVMQUx1VWp0VEo4SkpDZlFDQncwbnBlMi1LSm5GbjVnNDBFQ3ZxVDlMRDhrMV9ORDBRbTMyTnRKZFBoeFBzU1RlLXZIU3ZGWWFqNmFMMGNoSWZnSDZ1UkFEVjQ?oc=5
-- **Source:** Computerworld
-- **Published:** 2026-11-04T21:38:50+00:00
-
-## Microsoft and Amazon combined to see a $424 billion market-cap boost — and these factors show why - MarketWatch
-
-- **URL:** https://news.google.com/rss/articles/CBMizgFBVV95cUxNdi0zSURlVTVEMnJNUmFzVGN5Z2FlUXQ3S3l4ZGZuUkswa0RyU0tlVUhaUDY4NmU3NWR0YlBNWExPdjFjNzVia1ozNzM3Q2xVUTJlOFlQRjNSVmQzMGY4eEJnUjdsbVlOTGFaNXNaTV8zYVBnb3h2MzRaSG5zNUxZZ1NmMGxoN2Nib0JzZzRYb2hNNEl1c3o3QkQtdU9IOWk5VlpkVkJ3NHRkWXpBRkxEX3pSZXlOVHZvNnNNck5oT3YzZU1TeGNXUnRQeWhHdw?oc=5
-- **Source:** MarketWatch
-- **Published:** 2026-11-04T21:33:00+00:00
-
-## Microsoft climbs 7% to hit a new 52-week high (MSFT:NASDAQ) - Seeking Alpha
-
-- **URL:** https://news.google.com/rss/articles/CBMihwFBVV95cUxPVVlnY2ZOa2RoVWFscDZPblVuWTNWeFp3VkUySTNHNEpiU0lMaHFxMnZtaEZtYXlWQzVodG5sNXV0ZC1JNUtHQ0xDaUlNQVI3RHJRaEMtOGozT0dVUkNPVWtYc1hUdlRfczVxcWptWkNJa1RtZnpwV0JWRTZfWWtJTDlYX2E4VHM?oc=5
-- **Source:** Seeking Alpha
-- **Published:** 2026-11-04T21:14:52+00:00
-
-## Exclusive: Microsoft Lowered Data Center Spending Following Delays By Cloud Firm Iren - The Information
-
-- **URL:** https://news.google.com/rss/articles/CBMivwFBVV95cUxOYVJ5WmdRNU81TGVkcGpRby1jRGx5QnV6ZVFUUTgxc1U1Q2JxOUFCYXNrQVhnTlZMRlhGdW80RUZObUVudjl6QTlNVlM4X2t4ek9KNkw1N3dyVG1jUUVuZFlyb0drYm55Z29DNVctWjVYQVJIVDVaeHZXR1Q4SkVHaW9aS2hYWWNEbGhrc1JNcjBQbXVDUjl4MEZIUFFYS1RHOFp1R0FFdDV2NjZJb1lVb05PTDZOTF81RWJhUGFESQ?oc=5
-- **Source:** The Information
-- **Published:** 2026-11-04T21:05:00+00:00
-
-## The Nasdaq-100 Is Outperforming Nvidia, Microsoft, Amazon, Meta Platforms, Alphabet, and Tesla This Year. Here's My Favorite Low-Cost ETF to Buy the Dip. - AOL.com
-
-- **URL:** https://news.google.com/rss/articles/CBMijgFBVV95cUxPbEMwNVF1SjlHbVZEMjFCSnZ3QWI1VjlCTE1nMTltWjltTFYwSEhzNHVYbmpLdTNIbmxzeFZFZFFLSXY4anpYS1U3QXppdFJtZGVQWTVrTUx4Q09YeGxZaGxZR2tlQTBQbFlYRmRLUXpEZENIc1Y5ZHhGc0JhV21vRXBnbHhpVDVsejJsbHB3?oc=5
-- **Source:** AOL.com
-- **Published:** 2026-11-04T21:05:00+00:00
-
-## Microsoft Draws Higher Analyst Targets as Its Expanding AI Commitments Come Under Scrutiny - FinanceBuzz
-
-- **URL:** https://news.google.com/rss/articles/CBMidEFVX3lxTE83cVpxeWg1N2tvaklEMHZOZkVQVmJDSEZVbThHVXRlVzJNQXI4RThwQUlTdlZHa21uRy1XQUJDWWFZcnNBUEgxZlhhZHJhQ0xqZXJVWlBmQ3BCZ3ltWXNKdzBEbjJjTm83QndUNGwwZzREVVNE?oc=5
-- **Source:** FinanceBuzz
-- **Published:** 2026-11-04T21:04:05+00:00
-
-## Microsoft Clarity Helps Merchants Welcome AI Shopping Agents - PYMNTS.com
-
-- **URL:** https://news.google.com/rss/articles/CBMiugFBVV95cUxOLVVFOVE2aHJDd3R6Uk45TFJ2ODhqYzlPUVV6dGJta21YV25MR056Mmx2ZjlqSWlreXFkRFphU0dUaWE1bEtCRHhEY29ob1JpSjZWMWtmMUhxQWtWU0NlRFBPcUNsa19DRTVDT0IySkxscUZ1T1J2ZkpWaVU0UVBWbV9OYnRGbXBLMVBtUXJTcHRoS1hhY2txNVk2WUZ5MFN1d0I5ajVKSjdkQ3E4ZXd2c1ZRZ1M2Smx4Y0E?oc=5
-- **Source:** PYMNTS.com
-- **Published:** 2026-11-04T20:54:51+00:00
-
-## French game union accuses Microsoft of 'sabotaging' Blade and then using the fallout to justify closing Arkane - Yahoo
-
-- **URL:** https://news.google.com/rss/articles/CBMimwFBVV95cUxNalVzRW5VMTNoM3hEeFJyd0MxdXdZVU9rcmROWUtDejJ6OS1RR2lBYmNBcHlWX25reHZfdFZQUkFreVQxdjRMeDEtZFBrSThqLWY1a3BSVDl4QVVhZmlIbmxmVk9BLVk0dW9WQUNVOUx2VDhtZGlQZUZWUG4yeXdCakxsSmJEN3ZTblJ4NnMtWDFEV3RqN2JwcmNoMA?oc=5
-- **Source:** Yahoo
-- **Published:** 2026-11-04T20:51:28+00:00
-
-## French game union accuses Microsoft of 'sabotaging' Blade and then using the fallout to justify closing Arkane - PC Gamer
-
-- **URL:** https://news.google.com/rss/articles/CBMi4wFBVV95cUxOVmh3RHBrNGdwZHhpRy14MjZmek4ySHFCZllqQk82Y1J1ak9YckFmRklqaGZMS2NuOW9IekRmUXVPRWdfeTZaTS1JamFoSzN0NGM3RzNkT25BOXZMVmU0OHAzc3RiRFZNSk82WmI1cXpLYjFnOS1GRlJqbGhYdHRDa0doWnVQRHBBLXJmZHBfVFhqRUR1aEl2ME9NXzZmZWlyODU0cEVmU0pRNDh0MXBzMWIxVDRVWGlYSlMzY2x5Ul9GZzRvMFJBVUZaMVRMSWt3amhYN0ZVMG9QT1l2MngtUVBNOA?oc=5
-- **Source:** PC Gamer
-- **Published:** 2026-11-04T20:51:28+00:00
-
-## Alphabet, Amazon, and Microsoft All Surged Today. You Can Thank the Big Blue Wave. - Yahoo Finance
-
-- **URL:** https://news.google.com/rss/articles/CBMipgFBVV95cUxNZ0RBVTFNVTQ0Z05yZU5JUjJHeVlZWDRfNnF2ZnRNNFpkZWMxN0o0ZmI0NHR2TE93V19pZl9PbXpJSklReVV3b0x0RjJxUHh3ZFV2dEdUTEY4MFZFNnlJVW9Gd3BvNklxMlQ4Um1oVE1qc0dIMnZ2YmhHV2U4QWlBVkVZODk3VUNwRUI3S3V6N1FoQ2p2SUhWRnpZclRsTlJjZTVHMldn?oc=5
-- **Source:** Yahoo Finance
-- **Published:** 2026-11-04T20:45:19+00:00
-
-## The Nasdaq-100 Is Outperforming Nvidia, Microsoft, Amazon, Meta Platforms, Alphabet, and Tesla This Year. Here's My Favorite Low-Cost ETF to Buy the Dip. - The Motley Fool
-
-- **URL:** https://news.google.com/rss/articles/CBMimAFBVV95cUxPRHVTVGF6UWh0bW5RTmZVRlozWU9KU3J1QURKQXJQMzlRTjA3c0lFQ09HZldGYkNiYkFDYnB5cFVfcWNwempXRl9NUDd5cXpFQy15eEE0OXFGTENYRFVaaVM4dEVzSkhwQ0h0eFRrMDkySHRFUE9hUWxPbjlXVnpsY2VfaGMtVlA4MmhXbmNYQl91cWdxRW9aSg?oc=5
-- **Source:** The Motley Fool
-- **Published:** 2026-11-04T20:45:00+00:00
-
-## A rare second exit: AI startup Suplari acquired by Docusign nearly 3 years after Microsoft spinout - GeekWire
-
-- **URL:** https://news.google.com/rss/articles/CBMivgFBVV95cUxPejYzVEt5YXNiZnJxLVpkalA2Y0g3RWdLNkZRUlpRXzd5X0FGSVhmZFVOOTdDXzJCczNFTllVY1F0SG93T1lmYzlBRzVHVk5jcWJPTExCaG5SdDZ4REtGSmZHNHBzcVRnY0dGT3hQLWF0UGlzN1ZKWHZ3XzRWZklQM3NqbnBmalBHeFdkcWowQ1RmZ0pZUU1YeV8xRmdtUnZhZHYwOE44N0dlUWxhM0lqblZ2OG1TVE9qdERqSERB?oc=5
-- **Source:** GeekWire
-- **Published:** 2026-11-04T20:43:25+00:00
-
-## Satellite images expose potential trouble behind Microsoft's $5 billion AI spending shortfall - Business Insider
-
-- **URL:** https://news.google.com/rss/articles/CBMijgFBVV95cUxPSzRQNlBSSGpYS1RHM0w3V0VpZjh6c1hJVXE0SFVGdXpEeUI5SWxQQmZLMjZLQXFuMnI2QzA3RW5ReVhxdkd1YjI2N245RDlnRjZxdy03LVlRSDMwTDFnMk12MEtJVWtxTXlMcXcwNUVnc0JQU0VrVWFwOWhGZHlsYWh3N1hFeVlGMWo5ck13?oc=5
-- **Source:** Business Insider
-- **Published:** 2026-11-04T20:42:00+00:00
-
-## Windows 11 using most of your RAM? Microsoft says that’s a good thing, as “the real test is whether your PC stays responsive” - Windows Latest
-
-- **URL:** https://news.google.com/rss/articles/CBMi9AFBVV95cUxNamtsMjZlelJtamJ4OHNoTHJNclhyS3pBMVpGSkd0d2dQaEpIRDBuRGxzT3Mtc183TDl5UFM0M1lnU0laVEdxbkFNcnVjYTVqYUFrTDFxbDVjS2psbTNibmdpcHBWbkhQZFppWklZWklUaTY3X0xrNGs2bmx5TzQ0UmxQUjRGaGd6NGNFVVNmRHllTDdKa0JmblYxMFZpZktuVXFXdF9qNlYxTlBGbHhlY3FJQTBpM0FkQzJNSGFsSzZYNm8yeXVySFI0bkhybEVKRXRkS1ZHcFJpRU83YjdDRUtSN1pTQmU0VUZtbnBreUxJZXpW?oc=5
-- **Source:** Windows Latest
-- **Published:** 2026-11-04T20:37:39+00:00
-
-## Arkane union says Microsoft sabotaged Marvel's Blade - GameLuster
-
-- **URL:** https://news.google.com/rss/articles/CBMie0FVX3lxTE5rWnRZemdnZ2cyOURXbm5JemoteFRuTWpNcVVvQTdvOUNYUWs1cmF0S3B2Zzl2cVNqZkRWQ0JIVkM1VkVqX1hzdVd0NktRTThnVVBEdmJGX0JwU25WbzJwSE50QlRKUmdBc05yek5WREhSWm1wVGVyRkt2Zw?oc=5
-- **Source:** GameLuster
-- **Published:** 2026-11-04T20:35:16+00:00
-
-## Alphabet, Amazon, and Microsoft All Surged Today. You Can Thank the Big Blue Wave. - The Motley Fool
-
-- **URL:** https://news.google.com/rss/articles/CBMivgFBVV95cUxQS3FPNjF0Qnk2dkx5Z1hfblotbmJudmtpaWF5Zk1vR2xmMHBQLUVMbUVNTC1nQUJfRDVacldTUDllT3lpOHRVSnJCSTB0eEZlV1AycktIdFFNMmF4UVJxa0Z6VExPcFBXUFhKZzNBeUZCMHd4UGhQcjZscVl5blJodFZqSDE4WU82Q3FXTmo2YTdWM0tta01ZREFSbmxBUzdDVVpqaXNLXzM1YmlUaWlLV2RNQXRaVW1GVkJtWjlB?oc=5
-- **Source:** The Motley Fool
-- **Published:** 2026-11-04T20:25:00+00:00
-
-## Top Research Reports for Microsoft, SpaceX & Marvell - Yahoo Finance
-
-- **URL:** https://news.google.com/rss/articles/CBMipAFBVV95cUxOamtwR1h0aDIzNGpQSW9vQ0pNUEI5bHozNldvY2ZVV2xTbmdxSGdKa1ppRFJaSko0LVZYM1Jhelo0bDFSaGJWQURsMmxPcmk1Nm41aHhMa21VRGxGNk9qUGpNNEs3TDFWZEVucTRYcjc1aFJaVUtrOXZVSWdLeXpnTU1qM3htblBXcjV1a3EzcnoxX2dUbEtYMG1jZXJodUN3MnY2eQ?oc=5
-- **Source:** Yahoo Finance
-- **Published:** 2026-11-04T20:25:00+00:00
-
-## Arkane union accuses Microsoft of "sabotaging" Marvel's Blade with 19-month hiring freeze - GamesIndustry.biz
-
-- **URL:** https://news.google.com/rss/articles/CBMitwFBVV95cUxQVnNQQ2tlNlMyeUNWb3l6aFR2dEdxcUsxZXhaNnFud1RDYkZtLW4wcXZiWG5MV2p5Z01HTzNXMFBoQTM0d05Sd0ZDWDdwOGlxSXU0a0d5NlNuQVpXNEhZcl9ZdV90SWt4eml6TzZ6LWxJQVgyY1ZJdlpVT1lZd2k3SDB4V1NTNUlxUzFfOVVqbmU1OFhURS1fVjFpMkltbFlDQTEyd1BlTWdZR0oxOVBLd2lPaUxtRXM?oc=5
-- **Source:** GamesIndustry.biz
-- **Published:** 2026-11-04T20:17:10+00:00
-
-## Microsoft disrupts EvilTokens phishing service after thousands of accounts targeted - Digital Journal
-
-- **URL:** https://news.google.com/rss/articles/CBMiwAFBVV95cUxPa1ZLanpHSWp3eTZvV2xkRFlGTFdDdDFPVms3MXcwVDZoaVFNTFpOd2dfVEM4by0zbnZJc3dxZEhQZmVRRldLaTVKd1hWVVRuWC1NU3g4MUw2bGdfUjl5X1pNaXNHSGVWZXBTWXk5c3A0UVFqSldsTFhQdm44c2FTSEZSLXpjUmQzNjlUUnBTWENDRzhxNll4alhtbHJYWVFQNmhUTkZTLWJKT2d5RngwVkFVNmVSMzlGZmplN3BmQlM?oc=5
-- **Source:** Digital Journal
-- **Published:** 2026-11-04T19:57:00+00:00
-
-## Microsoft Put a Working Xbox Inside a Five-Foot Alligator To Promote GTA VI - Yahoo
-
-- **URL:** https://news.google.com/rss/articles/CBMiogFBVV95cUxOVnpKWjhoc0dJN3JPYjRtdmVtaldNckhDM0FDV2lIbnFvUDV0Qmpib2pFYXg4Vi1xbjRGTG52c0NRZVFaUEFTUENaRFNxamNwMUtveWp6QnVHS1ZrMU9KTlZrZGJMWm1HdjdfMmptSVJvTldzZ1EtZU1oeWFPRTVDMXNSck40SGtkZncwMThTVE9BY2RSTGZMWXpjdmN3eVRhSFE?oc=5
-- **Source:** Yahoo
-- **Published:** 2026-11-04T19:42:49+00:00
-
-## Microsoft Paint CVE-2026-83844 lets hackers hack Windows 11 PCs over internet - Neowin
-
-- **URL:** https://news.google.com/rss/articles/CBMiqgFBVV95cUxPX1BWM3dkVVVvSVQwXzFoU3I5ckRRRDJ2Y054b0lhcFJsbEVGY25jd1RMUzVSRWNhV1NuNzlFTFE0UnJMNDBVTFVkZnJwT291OXBGUV81aGpnWU0xOF9zeUFuQVBKZ1hTOGhNYmpvV1VUQVF4d1lQd3ViME5Cc1g2amxWbzU5dHBuTFZub2xsZl80a00xLVhkRnRZdHhvdEFYcjd6SzlQU0xCdw?oc=5
-- **Source:** Neowin
-- **Published:** 2026-11-04T19:36:00+00:00
-
-## Windows 11 gets faster on 8GB PCs: Microsoft promises up to 40 percent better performance - Notebookcheck
-
-- **URL:** https://news.google.com/rss/articles/CBMizgFBVV95cUxNSW1mMUtJMkdzT3M1SUJLU3B6ZWxqb1ViVllweVZFV0JTR2MzWjIyVFExWHFiUC1PSGJOVFk4VXFSRHJfWGlaM29vTUYzSTNOZjVYZUVaQXk0NTk0TkxtclpCZFQtbVZwOU9XVFJkNUxDZVNmR3ZFRzZJdkRjQnRQd2VaNDFDdDRvWmtFTEd4anZHV2gwNFU2VWZ5UHBwVXQ2TXdxcDVjbkxBYUw4UU9scF9TRDlvQUhxcllJOWFMOTM5dk0tLXcxZlg4dkJmUQ?oc=5
-- **Source:** Notebookcheck
-- **Published:** 2026-11-04T19:32:00+00:00
-
-## Call for Applications: Microsoft Imagine Cup 2027 Offers Startups $250,000 and Up to $1 Million in Startup Credits - MSME Africa
-
-- **URL:** https://news.google.com/rss/articles/CBMi1wFBVV95cUxQcU5SMF9fRU14M3BNai1VWHhsYy1NUVZiZGRnSERFYWszQWZxRjFrYmhsQlFhaVVlWFh1Z1U1YWVuUmdWVEtqZ29RM2FaZXN2NmxpR0k0ZWhQWDFSV1lnZm5sbVlDLXRISTVpaGlfNUNqU2hhWHd4RXJ2cjR3TVRpeU5mYTFvY0lDakNLcW5IendnS09HbnBWWDhfTC1zWG5hWXB2d1llbk5YTWI5MVY0N2E4TU9tZnJXVUstMjAwN3p1N1ZUUUMzWFhfWHIwRDl6ajBMbERZaw?oc=5
-- **Source:** MSME Africa
-- **Published:** 2026-11-04T19:14:15+00:00
-
-## Amazon, Microsoft lead mega-cap stock movers on Wednesday - Investing.com
-
-- **URL:** https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTU5xZmJFZzVrOW9oMm5QYTZVODFXY2NrN2tMQnlQbGN2Y2pPSFY3TWVBdlZaZjhvbnBMRVdCTnVDZXBTYUlPWVBkM2RKUmRLbzEyazVEMjVfVEpEdTljSm51YU1rdzlXSEtZcW95WkFMU2I2eGtjM3hYelpVaDVzenVoME5MVlR2dWdLN0lKSU02dzRKX0V3c1B5UVpmNEFjVGVubUx6WG9DN3N0X25sN01Sd25GNWcy?oc=5
-- **Source:** Investing.com
-- **Published:** 2026-11-04T19:12:32+00:00
-
-## Microsoft: Don’t Get Too Excited About Its Positive FCF (Rating Downgrade) (NASDAQ:MSFT) - Seeking Alpha
-
-- **URL:** https://news.google.com/rss/articles/CBMisAFBVV95cUxOdWMybGRXZjEtTGRDVldwU0RFUmo5OWxLbWtpRHA3dDFBLURXd1gxMGFfRnJMSmxlOEI5QWFzR2dZMDFxb0FyTUFCekY4aWVTNDhUNWRsenNUOEExYnJQNEdIX1pXZ0MyYlFEa3dMa0tqNWJfcHlEYll3dVpMcDh1LUoxbEtzMm5nT0JoNy1oUkJtc2RlSTdsZVBnNUhrcXhXSUtXNFhXa2h0QmFqanQ2TA?oc=5
-- **Source:** Seeking Alpha
-- **Published:** 2026-11-04T19:05:25+00:00
-
-## Free app bypasses Microsoft's limitation, letting Windows 11 desktop run without any GPU - Neowin
-
-- **URL:** https://news.google.com/rss/articles/CBMitgFBVV95cUxQZXZldUM0TWlrcFUyOTF2WUE4ZVFaVDJ3c3pxYWN4Z1RMdDNyd043SFlIZFFRNHRvajVaVmNpVDc3NFI5cFJDalExaWgtRlFuYU5RdWtVc3NiRHlfTjBaaWF3REd5S0ozTkEyS3VBcTFNZ3EyMWt1ZHNyMHJkRWdGbm9OZWVSdFJaU0o0Sm11VEJpdkY3bUctdUwtWC1SaXJEaWtwYTBfblNNSHlDUzlMTy02RmdPZw?oc=5
-- **Source:** Neowin
-- **Published:** 2026-11-04T19:04:00+00:00
-
-## Microsoft Rallies as Political Risk Fades: What It Means for Your Retirement Fund - 24/7 Wall St.
-
-- **URL:** https://news.google.com/rss/articles/CBMixwFBVV95cUxQaDFORkJ3VnNZM3NPN21hQjNobWQ0aTdRQW96REM2dGRvdEFKNlBGY05zZXpFelhTSEVmNjlOODAycjB0aXNGOWV0R1hiNFAzVlpWZENIU01tejkzRThyQnFMd1ZNLVhUWURuQXVadDJ3QjJCMHVNTk1UNzNaNkdvUGhZZlR6RWNjVXhpdkJpcGlhamRja2F4dDZYSmVUYkdVWDVjel85SHpiZ3FyU3FGTEJlOXJVaXBTcS01NmotOHlwemlJZU93?oc=5
-- **Source:** 24/7 Wall St.
-- **Published:** 2026-11-04T19:03:00+00:00
-
-## Xbox just dropped a preview letting you use your phone as a controller for Cloud Gaming - Windows Central
-
-- **URL:** https://news.google.com/rss/articles/CBMiggFBVV95cUxNeDhBQ3JhWm5waFYxMGg3QU54MzBZYmlFaDJKdXlwNGQ0ekJvSUZJeVpvWVh3UmtqZl96bHdnVndOWllOZ0V3R1Q1X3BRZlQ1MVdzakZicGRPTG5QRDdZQjVjVWh2NWNiaEZ2bkNXV2NlQWF3MnRGSVpLcmxlTGJuMkNR?oc=5
-- **Source:** Windows Central
-- **Published:** 2026-11-04T19:00:00+00:00
-
-## Microsoft Stock Hits Record High After Blue Wave - Microsoft (NASDAQ:MSFT) - Benzinga
-
-- **URL:** https://news.google.com/rss/articles/CBMisgFBVV95cUxQS1ppWDQybXQwdG1xM2xLM1BtRlBfeWFLUHVTWlNPR3d5WGpaYldJSzctdE41VndvbnA2N0M1aVRKMWtGQVQzdnhJNUllSmtmRHZWZURfTERJN29razFZZkdoQk5tdGJFQlRBa0RGNHBESHl1djhVSXJxY0RHXzhkem5GYlF2X0QyQTZjenZseUtaMjl0U244ckREeG1DVHhBWGdYck9YYWpVMkVPZXFBVFRR?oc=5
+- **URL:** https://news.google.com/rss/articles/CBMi8wFBVV95cUxQMzVmTUNTc1JQU3JRTjhObnZSWTJnN2x5bHBJTU5GMjZOTXJyekFsVlNtOTBSUzB2MzhqQWlnemhzcXNlaG4wX3N4Vk9jS3pOT1E1WXhySWVfY0o4WHVxa2R1cGNibDYyYmRrcXhpaGtFOHFvZnRYYWlsZWszRTlhdmZUUkRheDd4ZDRnM3R2TFRhck53ZTFFaV9aVmJtbmZCUXYtcGxxWUota0FEYWFfREk5TW9ndV9XRzBmSGVNcEpHYlU5TVEwRGZiVVNfMG5YSk5JYU0zSW9Zd0U3b29LZjdBTm9XVU5SRHppb2p2dndBeUU?oc=5
 - **Source:** Benzinga
-- **Published:** 2026-11-04T18:59:25+00:00
+- **Published:** 2026-11-05T11:48:20+00:00
 
-## Microsoft’s Medical AI Is Over Twice as Good Diagnosing Diseases as Doctors - SingularityHub
+## Microsoft says 'big No' to UK's most-valuable startup Nscale; as Texas datacentre troubles haunt - The Times of India
 
-- **URL:** https://news.google.com/rss/articles/CBMiswFBVV95cUxOT1RneWZyTXdjVzBhN0owd3pqUGE0SFJIWlktVERseHo5SjhSVGF2cnNucEVJX1p6M0dScXkta3BUaWh1UzFsWTZqZWNESV9mUFBobWZyLS02X0NWSnJ5S2hYSWV4WFhmaWJsX25ocXhRaGZVd1RFMm9NSUxYUm9ucklUbXgwcUJmQkJ1TFJrbkdRSkZfeXNKdWMtY0JTVXhVbWpZdDVKNnB5TnBNU0duTEhKOA?oc=5
-- **Source:** SingularityHub
-- **Published:** 2026-11-04T18:55:52+00:00
+- **URL:** https://news.google.com/rss/articles/CBMihgJBVV95cUxQX1BYX0VRRXc0dlg4UnhCckJRcjJYY0VZand0Ui0yYjVqQmhoNXNaZUJsRDhYVmNfWlZMM1M5cllLMjNvVmJQMDhIc0NmNm53WlZwVlVxMS1qOVhrbFMyclR1LTRPNlJ2ZlI4X0ctNW5BWVhyaFkxcWF2SFpmcHpNdUp5dWxjS0tfaFNLUTRlbUtVYndtOTdSR3BtdHc2WmlOM3V0X3JVZjlJMGF1eVF0Wl9DcEhlRUZXck93T2xPYVQ2NWxwQVNLZGhXdnpiMjVCek5UV3NxSG9IdHZSOHRRZFRWaVZORWFfUkdxZ0JHa050OWhSbGYyb0ZTQmVmUldsRU1lMzJn0gGLAkFVX3lxTFBFZzFodkctdlJ1SlNUc3Y5RlRVT0lZYnZoVXJ4Y0VfckktY2NSOFYxQm9fczNrbmY5OFNNX1NtZTJUZi1FdC1xbEVobkxITUlXOFpXX2llejdsd2Vad29janpvRkJ3Z3VWZE5oSVRydWI3UEtaMmF6YW1tU2owOG9zX0MwdDNQTW1SNXdNaUdWelFNV3l5R1hBQ0JYdnE1OHlHSEJuSWQ1VGRXMEFnOS1Gd0g3V011Z1JPVFRFQ0g1RW5iTlVySTVKa09haG5janFjUDlkSlJSdjBqUnRVX3VlZGJZVndQelRrU0EtaVFlMkYzM2t4dUxFZ2hYUFRrMU1pWi1sYUo1QWVaTQ?oc=5
+- **Source:** The Times of India
+- **Published:** 2026-11-05T11:40:00+00:00
 
-## Microsoft Bumps Up Its Windows 11 Responsiveness Claims for 8GB Laptops - ExtremeTech
+## Arkane Union: 19-Month Blade Freeze Explained [2026] - tech-insider.org
 
-- **URL:** https://news.google.com/rss/articles/CBMirgFBVV95cUxOSXlLZmxQUjNaUjNFd1dfNFNIaWplckJ6bFF4TG9BTjVqZHhYbXozZWczTTBqUHg2VUJDWG5KM3F2MFNRckFSQTBHci1QVjRPVEZEYURtUEdzWjNVdm5hSHRMeW9GZktJNFR3VnNwRUg4aURKcDE1Y2RFNlg0Y0xiTVRlY1hwVWJfNlFENU56UVZRNnJGZEEtUGNWV2ZDTWszQXh6WkVsSm9SZVNOVnc?oc=5
-- **Source:** ExtremeTech
-- **Published:** 2026-11-04T18:45:47+00:00
+- **URL:** https://news.google.com/rss/articles/CBMimAFBVV95cUxNZXBPNURVVXNVSUxENlZ1M3BNbER3Wk94UURZUWd0ZU5fV2hYb1FKMklwUTVmb1JxMWdUajdtZWZ3WUc0UWlGQlk5Y09QT1g1Q2k0Z3BFLVpKUXJQSjlWclRYbFYyUVUzSHJ2RlVmTUgtT1Q4ZTdZSzVPX04tbkFfWjBBcTkyMjVGODN2MHpmdXczZ1hHNVBFWQ?oc=5
+- **Source:** tech-insider.org
+- **Published:** 2026-11-05T11:33:05+00:00
 
-## Microsoft Teams report shows hackers still exploit help-desk trust - Mezha.net
+## Microsoft Opts Against Expanding Nscale Texas Data Centre Agreement Ahead of Planned $35 Billion IPO - Yahoo Finance
 
-- **URL:** https://news.google.com/rss/articles/CBMiiAFBVV95cUxQT0RuUG9TZnB5TGQwWFBZMVNIamwtQnZDeUk0V2M0UjV4UXZXbTFwelZPaU5GdzhESzZYTTk1WnZxZF80T0xrMWVpVVdqTllLU01QUXVCelBiM1cyQjRfR1NMcDl4VlF5MGF0M21Zc0FtcTVNWXBwTnQ3a0FOWGlMeHVTWFZmMGVM?oc=5
-- **Source:** Mezha.net
-- **Published:** 2026-11-04T18:40:35+00:00
+- **URL:** https://news.google.com/rss/articles/CBMipgFBVV95cUxOMUhvVzlBLXVLS1dtU3hjNXJXRFFiRnBVQ1FmT016UFdTRWJ1bzFjZ1BVdFV0Z1c5TjY1Y1ZrdXBoM1EtZ0VZNnc2Njh6LThCYjg3cTBxaHNVRzk3MXRTeW9ESHhOOEF0SEwyVWc3T1A4Si14SGZRNk90WjBpOXRmRVNleFNYWXZJdDhNTmhZZzI0Ul9OTFhVa2FNbXBSaDFwenhJYkNB?oc=5
+- **Source:** Yahoo Finance
+- **Published:** 2026-11-05T11:27:00+00:00
 
-## French Video Game Union Says Microsoft Undermined Arkane - Aftermath
+## 48 ETFs Add to Microsoft (MSFT) Holdings on Nov. 3 - Yahoo Finance
 
-- **URL:** https://news.google.com/rss/articles/CBMiZEFVX3lxTE9PbDltdDNkX1o4MG9RazlpdmJvYjB3QWpTSktOV21sMENSRG1CdmpvWTZuU3lwTzBCZDZhZ254bk9JWUNLNERHREJPOTI5Y2Q0cXRXdHRsU0xjX3pxLXdpenNPUnQ?oc=5
-- **Source:** Aftermath
-- **Published:** 2026-11-04T18:40:17+00:00
+- **URL:** https://news.google.com/rss/articles/CBMilgFBVV95cUxPS2RmVmRNRFNiYTg4aHlOSlUtcnJtSkwzaEIwbEJ6NW5xQmlQSm9YT3VZR0hXSXI4R2EwWV9vZUhha1ctSUFmWUN4aVl2TTZsclgtR044NXc5OTIzRVV3NlZmamlhQXNtRTVXV20yUEpoTFk5RmJpWV94VVlhdWdIRC1yT1dIMlBlaENucXROcmZJRWc1MXc?oc=5
+- **Source:** Yahoo Finance
+- **Published:** 2026-11-05T11:01:06+00:00
+
+## Microsoft decides against multibillion Texas data center expansion with UK's Nscale: reports (MSFT:NASDAQ) - Seeking Alpha
+
+- **URL:** https://news.google.com/rss/articles/CBMixwFBVV95cUxNeTFyTXhfQkV4WUdpcUQ1QWZPRnBXbGIxUjBtdk1lN0JONy13akhfXzRYdXBBTHBISHJ6RHV2UHV0V21UZnJveGZmU21SdWxMbUpaVk9Yb1dFcEVvUnY0anJscXgybko5d2FyYkNYYkZ0ODZXZl94S0FzQnBsZVZ2ZVp4SjRfTE5zbmpWdHNncWJUS19SRzZuU2VaRzYyd2x0Znp0SVQxLTZpUzhiWUI3a1Azc0xJdGYtdXdGM3RHZWdhZzlGeXZJ?oc=5
+- **Source:** Seeking Alpha
+- **Published:** 2026-11-05T11:01:00+00:00
+
+## Microsoft's $5B AI Capex Gap: Satellite Images Point to Delays at IREN, Nebius Sites - BigGo Finance
+
+- **URL:** https://news.google.com/rss/articles/CBMidkFVX3lxTE94RE9ENF9aSmRJRWlpLWhna2pOQ0QwMkZnbnNrRWw0LUR0YXQ4YzBPb1BtSDZUSVVhOXdkamcxOTFZTEREN1F0eHBhT0JrQV96aVczdURfTEpwUUpxaVE1Q18zVE9BQUtaTjR3cVBMa0RnQWpvZmc?oc=5
+- **Source:** BigGo Finance
+- **Published:** 2026-11-05T10:55:00+00:00
+
+## Microsoft Unifies Entra Private Access and Internet Access Under Global Secure Access - Petri IT Knowledgebase
+
+- **URL:** https://news.google.com/rss/articles/CBMihgFBVV95cUxNbkhtMFlFQ3ZCTENtd19fWU5DVmNiSllWMWszcTBzVmxLRzVJMDBlZzVfTzExcjFTeTJKOEhKSm9oUGJMSVJ4X0ZoXzBtdE5JVVVUQUo0QWtvakp0c2JpcU9oT2FZT2FLMDUzQmZ0ZG5yM012Z2N0UElsSHBQVmItVmxUUWFYdw?oc=5
+- **Source:** Petri IT Knowledgebase
+- **Published:** 2026-11-05T10:54:08+00:00
+
+## Microsoft-Backed OpenAI Pledges No NDAs for Data Center Deals, Promises Residents Won't Pay Power Costs - marketscreener.com
+
+- **URL:** https://news.google.com/rss/articles/CBMi5wFBVV95cUxOOHdBWEU5SUowWlVQM3hIanJaWUMzZjhwTW9oQ2FrZ3FXYzh0dzNmNmppV2EzS2VFS2M1MF9Na3ZLUUQ2UzVGZmx3bHZzZjVfQ09XbmtSd1BPV3NJV3B4TEJ4U3R4S2tsek1xVm0ta1JzbjhpR0h5YWxFbHVSbW5RQnlJdnN6TS03SEFWSmFnZjhlNERDOGthZjdCYkZ4RkN2ZWZZeUpnSlRqbXdGa09tSVkzS0VYRFFEOFdQLUhrZjlSaGVFQ2pid3RENWJpUzZXR1Q5bWdhXzJZbDNKQVhQU1FFY0NQSDQ?oc=5
+- **Source:** marketscreener.com
+- **Published:** 2026-11-05T10:47:35+00:00
+
+## Microsoft Skips Nscale Texas, $43.8B Deal Stands [2026] - shattered.io
+
+- **URL:** https://news.google.com/rss/articles/CBMijAFBVV95cUxPS1BReE93RVdSQnd3amk5VHppTzRMb1RjVl9jZXZmZTZqc2NKWlhHdGdMMm5BNFFfMDVtSUxnNFBwNnAzV1ZxMElmc3M2VmZnNkJESTk2cnVFUGpiMU1nRV80V0JaWWhzOWpTSmNUSDlDTWRDZE1IU18xalZVQmxjZ2JaZWpZYmM2T1RLdA?oc=5
+- **Source:** shattered.io
+- **Published:** 2026-11-05T10:43:04+00:00
+
+## Microsoft’s $5 Billion AI Spending Shortfall Puts IREN, Nebius Under Spotlight as Satellite Imagery Shows - Benzinga
+
+- **URL:** https://news.google.com/rss/articles/CBMijgJBVV95cUxORmVoZ1RCSUhrSmM0akttNlpLMV9sUTNGRlFfYnBFd3VZcGJxYk5uZ2REd3JaZ2tUMmpNR1dLMzlVWGlnclMzTzNWMkVmeXdGRnRxdDRtMGFKY3laMmNqdWdiU0M1dWxvLVFuQ1JNYS1JX3hCOUoxZkppU2VtTnR4d2t1dDd3ZF83bzUzU1NWY3VYZGJES1hybFgxY2w1QWpLSEV5VkF0NWE2M3NhVmJwUHJyS3lLUFVMZnB6MVAyYmdHdGk3Q1YtM0lGNmRqNmZyYk1mbTQ3RkhmeEl1RU9XQ2lfYlF1NG1JaFNtNkVXNFY2clNWc2NiYkxzRi0zTkhGaGxfdzRNNWFRU2w3SkE?oc=5
+- **Source:** Benzinga
+- **Published:** 2026-11-05T10:30:55+00:00
+
+## Microsoft’s New Windows 11 Accelerated App Launch Feature Makes Edge Open Up To 33% Faster, With More Apps To Follow - Wccftech
+
+- **URL:** https://news.google.com/rss/articles/CBMi0AFBVV95cUxOb2FhWnAxSUg1QlZZTzlyWUJSU2VUVDkzcU1yemRHVERZcllMRVQ1YkFkaS1xWF9pRG5heDhqZ3pRa0pReXVqOEluU0xSa3FOYkU4Z0NwU082c3oteUlaYU9MM3VRZEpDMWpRZDNtZGdQbTZBbVRneFJsa2RNWGsxTW43aFNVR3A3RU02N2xhajJiZFozRUl3a080MnZuaC1veG00Nk1lT3dhZ0FZbW1tVjhiNGJVNjBEa3hNNXI2YWFZd3F0QUhObERibzFzZGFD0gHWAUFVX3lxTFAxUzBLUkljelJLUWVDNEUwMWFuSXNNQlBMWThZR0ZiX3FIY2tNVUMtZUtUM0VTOG5keWlqajFuNjhIQ0RMbVhDR2dmTXRoZDJXSHZnVGpxVDUxV2lnQ1VLLVpqRVozWlJERVQ1Tk9zNWpBVGtjSWJ3ZTh0Vk9vSWkwSktpd0ZtcHpkZmE1bk9WUUxYUHRPdHp4eGNRSUFJSERieEloclg4bHNwSnF6NGFlaEFMWkFyU2JRT0puM2E4UFdDOGhhSzVEcnd5bkpHWEZ1cmZha1E?oc=5
+- **Source:** Wccftech
+- **Published:** 2026-11-05T10:28:50+00:00
+
+## Microsoft Refuses Multibillion-Dollar Deal With Nscale's Texas Data Center - marketscreener.com
+
+- **URL:** https://news.google.com/rss/articles/CBMixgFBVV95cUxNYWVVYUV3SHhFQmNPSzNiMGw3T3Fxdlp4TEtxeDBkOFZQZDJ0Y05wR01FTmlfWXVQR0JxaGlIMEE0VElTc285SVREZ1pWeW94RVhZNlNYS0NvTTdCNzVuTzlKNG1xeW5lTkNuRmJmUldwRzJwZEhRODBzU0R4cnBtbDJlNEYzMGVHeC1DMlFfbXBDYjJVN25RYUNRcUpCWHNSYzlXNVF3Sk1VaWFhbU1vcERaaVIwclVoZGQ3dVkyRU5yY2N6TUE?oc=5
+- **Source:** marketscreener.com
+- **Published:** 2026-11-05T10:22:16+00:00
+
+## Microsoft Nscale Texas: 1.2GW Data Center Option Dropped [2026] - https://tech-insider.org/
+
+- **URL:** https://news.google.com/rss/articles/CBMiiwFBVV95cUxOMkpwWnN0dzQybnBBaWM5NjFubFdneXJzTEgzeXcxRFphZFpLZWIzY3ZaaHRSalNCOG9vb1NPU3VRQ0gwamdrcFFkTWRYUXozMWlrVTYyMmZzbFRKWVFBMWtuUWMxTzVOMzZ0QTNyc2xGSno2N21zYkJIUHV3V2VBZ1Zta2lpSE5KQkVF?oc=5
+- **Source:** https://tech-insider.org/
+- **Published:** 2026-11-05T10:21:57+00:00
+
+## Microsoft: Wall Street Is Looking At The Wrong Numbers (NASDAQ:MSFT) - Seeking Alpha
+
+- **URL:** https://news.google.com/rss/articles/CBMilgFBVV95cUxNLXBLVVFpT1ZQZ0xmaE9QZGRrUlFqcnFodGVoZHlxTFNwMDdKS0tXbjV2aW54MEE2SkNVaTUzR3RNcXdqTGo4VXRGOVdPc0piMG1fbnVxLVZEazBlX1o0Z09xQ0FhTmlJblFZaXVsN0EweGRMU29RSzN2alV6S0R0QWpGQ29lbTl3Wi10THdoVlM0S2FmVFE?oc=5
+- **Source:** Seeking Alpha
+- **Published:** 2026-11-05T10:14:26+00:00
+
+## Tech Stocks Surge Post-Election: Amazon (AMZN) and Microsoft (MS - GuruFocus
+
+- **URL:** https://news.google.com/rss/articles/CBMisAFBVV95cUxQbXJONV9YbzcxT1dxemxsSHhxQTdGUGx5NmFKWkVDT3ZmWDNubHRVdVdYdWM1QXU3dC1PbnhWdkx5SnQ1WTFJa2dEZzd6MnFRblVvV0NreGhlVHVIV0tCN0xfZjhYUnJGTVJHWE9MMEpndEIyT19kSVQ3R2drb1hxOGpqU1lUZTdqYUR2XzVPQ0JNNWZqcHJvRmRnMDRrRkVCNXVwMzd5c1F2NGpxRVVyeQ?oc=5
+- **Source:** GuruFocus
+- **Published:** 2026-11-05T10:07:43+00:00
+
+## Hackers Use Stolen Microsoft Entra ID and Azure DevOps Credentials to Access 27 Organizations - CyberSecurityNews
+
+- **URL:** https://news.google.com/rss/articles/CBMid0FVX3lxTE1qOGphaXQ1OE1oRmt2dndtbTljRXJGa2tjYmdNRHV4RDFLLWw2cmZrLUctV2VGczFLRXhGMTYwdjBsMzNhUG9SVmJmNFhHNEVYZ0owNGc4bWxNNEV2YTJ1UGZ5RzFHbG5SamMtWlprcTRhR1BEU2dF0gF8QVVfeXFMTnZIY0JrbGJJS21La3FPUmF0WGlwaUI0WTVNMGFEdEFfRUJUMUx6WGRfWFR1akI4X1JETHhwRFMyZmFvekxBY2UtTzBMdjRLeklDQV9DLXVGdHg4cGhXaUd3WmdNcE1HdUFyZk5ZcUp3RUJkdlVuLWp1dTJJNg?oc=5
+- **Source:** CyberSecurityNews
+- **Published:** 2026-11-05T10:05:45+00:00
+
+## The midterm AI backlash could strengthen Amazon, Microsoft, and Google while squeezing smaller rivals - Business Insider
+
+- **URL:** https://news.google.com/rss/articles/CBMinAFBVV95cUxQVEItNWZHVjR5M3lydTNEUF9BYkRKckFSQXYzZEVkMldiNXFKc2RzZUxrNzZQV3JxRU4ydy1kY2NHM29CWWljbzdNdnFTcnpHajNONWZWZHJxMXpJNkFKUlpnVTZsTF9Ma2xuSms1eHFtbDJNWFVwZndsYUdzMWprOGhoXzNac191dmFYbEdaVGx4eWdOdUMyWThxSlE?oc=5
+- **Source:** Business Insider
+- **Published:** 2026-11-05T10:00:00+00:00
+
+## End of seasonal clock changes cause problems for some Microsoft users in Canada - BNN Bloomberg
+
+- **URL:** https://news.google.com/rss/articles/CBMi2AFBVV95cUxNMzFVNDIxU1YteHV6ZjhJdGhZWGtXV2Z5WFN0SmkxMUVRUDhGRk5paTlfZ1FhOHRsdkREUExPT2hkNXdITEJBeVEwRkxaV3JhUXhIOHZzdDdrMlBpczZkaG1JemlmYV82bjlreGkzeFVkWDEweUl2dHNTbTl5TUpJcW9saGkxV2JKaTd5QnpCRVRReUhCREhHYTJHSmFJdUYwRDNhMTNWM3NVOVBCdVN0U2N3bjV1anNoNE9qSTdDaDJlNGNtckdKajZ3ZWJ3N3BDMk56SDNQU2s?oc=5
+- **Source:** BNN Bloomberg
+- **Published:** 2026-11-05T10:00:00+00:00
+
+## Microsoft reportedly rejects option to expand Nscale’s Texas AI deal - The Next Web
+
+- **URL:** https://news.google.com/rss/articles/CBMic0FVX3lxTE5YS2xGVl9NSTB0bHlvMXBIY3QxbnNJR3pCVWZrTWt5UWFBTUxwWldvMG9GYzM0TXhPM25zVUpTRzFRMW9tb2N0TjV4VU5tNDVlSEhyRXlIelhBMFVhdy1qYTNua0hnTmdWbjNQdzkzUU9qTjA?oc=5
+- **Source:** The Next Web
+- **Published:** 2026-11-05T09:57:41+00:00
+
+## Windows brings some relief for those struggling with 8 GB of RAM: PCs now 20-40% faster - Cybernews
+
+- **URL:** https://news.google.com/rss/articles/CBMigAFBVV95cUxPajNDOWViVnFHc3I3cXRpdm9NeEpkc0NXSnNGMU5vNUpuclRDQnNZemJPTTZ4NGpCc1hEUkRkQzFaS3hzM0xBZXU0aVp4Z0JIU3R5dTJMaEtoVGZXWENFVFh6eDB5MHVCbkg5UHFCS2hYU2ZqY2xxOHRaVU5EWm9LWA?oc=5
+- **Source:** Cybernews
+- **Published:** 2026-11-05T09:51:47+00:00
+
+## Microsoft Won’t Expand Texas Data Center Nscale Pact - TradingPedia
+
+- **URL:** https://news.google.com/rss/articles/CBMilwFBVV95cUxPX2J5dmY0aERHV3RLMUoySkMwZHg1Sk1HQTBKU2JQYlkxZUFlZEdodlZvVmpJWXlLMzdvd1NacXhoekRQT3VLRkloMUlKX3ZQWGpDdHJtMXpiTkp6eGdHZndKRVUtN1AwLV9TS0p1SmNBN0dVSjZLTERTWER2b00tM0N1blBfczNxYWhBdi1WdVJNUndDYTB3?oc=5
+- **Source:** TradingPedia
+- **Published:** 2026-11-05T09:51:37+00:00
+
+## Microsoft retiring M365 Project usage report next month - Neowin
+
+- **URL:** https://news.google.com/rss/articles/CBMijAFBVV95cUxOZlp6eXJUakh3bnBpM2VnZEtLY1pqdEtJZGZLay1OWHFuMy1JNVZscl8zWXVxejM3bnFaZlIxS21JZGdYYjZsdUtCUUhPd0QwaWNXMVItRFFYelJnVjYxTGlLQTVubExoQUN1REdMQnlDR2k5eHdoMS1VNnpSeE8zR1BLNkpMNi1IaEdNSA?oc=5
+- **Source:** Neowin
+- **Published:** 2026-11-05T09:44:00+00:00
+
+## Microsoft Decides Against Expanding Texas AI Data Center Deal With Nscale - www.marketscreener.com
+
+- **URL:** https://news.google.com/rss/articles/CBMixAFBVV95cUxNUkJsRHV2VWNEZ2U0XzQtRXdBVERleVJwLWo5eW1EVE41cURXZlo1ODBZTTFJb1NBeEgxVV9YS1d4cXFVNTNRTTVvVE5UVEFKaElqVTVkU3RFMC1lcWZnWF9jT04yTlZBTnd6bTF5UHpfcGFsTmtGNzV0LUtJbFlkaWhMQnFTLVp4bUdpbzllak1kdUdkZlA1VXdGTnBON2RXajYweGVJdFJHYzlnZ21uS1JRSWlwcllEd1JwTFBxMGpzSFQy?oc=5
+- **Source:** www.marketscreener.com
+- **Published:** 2026-11-05T09:41:10+00:00
+
+## Microsoft Declines Option to Expand Texas Data Center Deal with Nscale - BigGo Finance
+
+- **URL:** https://news.google.com/rss/articles/CBMidkFVX3lxTE1qQk54ZHpIOFFsbzVScjN3VlEwcE4yVGg0eHI3TExsdmZRX1BmSlRtN3NaX3lsbVNHT2V4eWc0YngzYzI2U2VuV3MtY01BMDNtMXdtRVlPTlM0SmNlT2Y0QWl1NXlWaTdTcEY4cFBUV3R4VDd2YkE?oc=5
+- **Source:** BigGo Finance
+- **Published:** 2026-11-05T09:36:00+00:00
+
+## Microsoft Teams can now remember your swear words - Neowin
+
+- **URL:** https://news.google.com/rss/articles/CBMihAFBVV95cUxQUnB2ZXhKeFY3cFZIbUtNUUFKSWszdGZyWHF5c3B1eUJPTkV4RnhUVFM1LWRDd2dRNzBGOHNKdHMwSi1MdWY0WDBSX3BpQ3dfb1REMVVOa2VBTnI4YXFpSGxxdXVxR3pERURjbXNSakVNVXhUbW93NVJTRHJRRlU1SEpPcXA?oc=5
+- **Source:** Neowin
+- **Published:** 2026-11-05T09:28:00+00:00
+
+## After Pulling Deal For Nscale’s UK Data Center, Microsoft Rejects Texas Expansion Option: Report - Yahoo Finance
+
+- **URL:** https://news.google.com/rss/articles/CBMilgFBVV95cUxPamFKTnUxeVFtdURYNC1iMkxwc3U3RzdDaUZHeW9vQlExWEE2OGQtR3dNN1E4V1IxMHRDV2Jsd1phR1B0a0pqa19tbXhoWEQzTVRDbEk2NnlHNzUzUU54RjFkUGxhV1N2Z21rRnk3ZTl1eC1jM1Q3MUdPRjlzLU10QVZGOEZwRkl5VHB3VUpNR0JGcFRINHc?oc=5
+- **Source:** Yahoo Finance
+- **Published:** 2026-11-05T09:21:14+00:00
+
+## Microsoft Is the Last Big Tech Buyback Holdout: Alphabet, Meta, Amazon Go Dark as AI Spending Eats Cash, Says This Market Commentator - AOL.com
+
+- **URL:** https://news.google.com/rss/articles/CBMigAFBVV95cUxQcG40dFoxQm9URllaWjlQMkdMOU44ZTFSN18tUG9CckNHTnNkdXBPX1BCcktGVHJFRVBNT1dRM3NuSzdVMnRicWhUTkkxdFVlUjJyNWV1ZlZzZVFLbTJfVVRjU0RKdnBDYVNlR24xWEpoVjJUUGx5NHBoSkxZZ2Jseg?oc=5
+- **Source:** AOL.com
+- **Published:** 2026-11-05T09:14:39+00:00
+
+## Microsoft Canada time zone login issues only have one manual workaround - Neowin
+
+- **URL:** https://news.google.com/rss/articles/CBMiogFBVV95cUxOMFF1ajNxVzQ0Ny1uM2N3Ti15VVcwYTVUUmNSdE5ubkhxcG1MTzNWMzE4bmIwcWFNa3gwWTAtVGlTMkRYX3pfMklfeHlrbTRjdnR6WURFc2tjekRfdHNPWm5MOXRpemd3Y2ZLZThDQUJDdWI5UUExYjFPU3pGejV0YWRWUXZBTGZDQjA2MHI2VTlWNk5QeEY0eXdNWXRLSjRxckE?oc=5
+- **Source:** Neowin
+- **Published:** 2026-11-05T09:12:00+00:00
+
+## Meta Joins Microsoft And Google In Offering Voluntary Exit Packages To Employees: Report - NDTV
+
+- **URL:** https://news.google.com/rss/articles/CBMiwwFBVV95cUxQVkJXLWQ3eWF0aUZ6NXcxa0xXQTFyTU4yb3dkdUkwUWRUeWk5OElOYUwzMUYyWUdCT3hRYWllZ3RYbnRwcVVUdkROaGZRZFNOaGh0T2NmempVSFlDN2NqUEhyNXhBdDBGQzBiRnZLME04eXhYaUtkUUNMSWVFWkN3cGZ4U3BDT2F4TlNSTUV6TEg5dXFGV29YZkFoeXo2YVdwODBEejBMc0R0U04zbVdiaThFUERLU2pyQ1NiRms5aFY1ZFHSAcsBQVVfeXFMUDJmTTI4VWdDTzRZUGlxTkJjSG51M09sSEdVVjhLdklNd01DbC1ZUFFJRHBscHhFSWpOMjFkUkFzVVl2dTFDZDhYUnMyR0FSdFdmTm9fSkFIRVRwc3ZZV2tQSlItd3YxYkItdWhTMTVYUjRvZi0tV3JqYXZOMzdHTjEtZzlsWmxRT3o0NE5LdVlnZldOQklLN3RGT2k0STBQWE93WEw5NkdnYWxHSVBHMkI5YzZTWUwzOHVUYUFYcHllMHVEV3lkdUVKY0U?oc=5
+- **Source:** NDTV
+- **Published:** 2026-11-05T09:02:16+00:00
+
+## Microsoft Stock Price Forecast: Shares Surge 7% in Single Day to Record High as Azure Growth Could Drive MSFT to $600 - TradingKey
+
+- **URL:** https://news.google.com/rss/articles/CBMizwFBVV95cUxPYnlteU1qSlZHc1BIb2tVcDRzR0ZhNkJCWlgzX0hHd20tbTU4ZTZycXNmd2h4M0JyQ1NHRzA5QzEwOUhVZHVJZlpwSTliMWZVLVMxQi12eGxTZDNRTWExbHhBUTBycjA1UUFjc3AwbDMweUtJRzkybmwxSDRtTHZ1N1JhSUtWRDRaT2dEcDZCclh2MTNBcmdxRTVWd3JCTGlJQTZkTDIydGcxZ2dySGR6NHg3Z1h5VzR6TFl6RzMyVnNRcDI5LXhON0NoTDF6T1E?oc=5
+- **Source:** TradingKey
+- **Published:** 2026-11-05T08:48:16+00:00
+
+## 2026 Tech Exodus: Microsoft & Amazon's AI Shift - theoptimist.news
+
+- **URL:** https://news.google.com/rss/articles/CBMifEFVX3lxTE1pdUJuM3dQdGV4cWZnQ1dITlA5NE9uWWdSNXl1NEJFSTNYZ25YN01wdGpGejRvUDVodzBEbk1STmxkMm95Y0d3SkdqRG1EVlpjZ05vSklQQTlhcm5KRnpuOGxRT3R0RXd5R3VJTThRR3JWV3JOOE10dTBMTDY?oc=5
+- **Source:** theoptimist.news
+- **Published:** 2026-11-05T08:44:48+00:00
+
+## Microsoft releases major Intelligent Terminal update to improve multitasking - Neowin
+
+- **URL:** https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdEU5cURRUGkyNW9LZVpRUlhEVGFuZUR6Y0pOc1ZrTmdTbk53WXBVVkJnZVk1MmFSXzZEMmRGU1JFWkphS3BTODVFNVJFSWlmUUFsOEY4ZHIta01CNHlueWp0Yk5veDc1MUpzTUpudHR6T3B3NHlLVWlkZS1rRTk2OGwtVnFPTFF6QlZSOElrM0dXZGJraG4weFNpLXNaYUlmQlhaVnl4cHE?oc=5
+- **Source:** Neowin
+- **Published:** 2026-11-05T08:40:00+00:00
+
+## Microsoft Project Professional 2024 drops to $40 for a lifetime license - PCWorld
+
+- **URL:** https://news.google.com/rss/articles/CBMitgFBVV95cUxOVjA0NmRsTEpsWWM3S1JqVThxMGZlclNQNmpwVjU3YWxxVjVhblFabnZLUVFiRS1PUm5DVHE3WkN6Z0tvSE9aeFBoVDI3d2pvSkJjaTd1ME1ZTFR2N3lWN25UVlhLZnNQZlhZQmFyMDdxaGViRlRiNzVNVVdtSDh5UzhycFUzUFhPMlY4Qk43RG9DM3ZaTjZNSG1fOVJWRVZTRm1WSEZqT294MXk0OFVaaWRCbFo2UQ?oc=5
+- **Source:** PCWorld
+- **Published:** 2026-11-05T08:11:20+00:00
+
+## Microsoft Passed On Expanding Nscale’s Texas AI Contract - Finimize
+
+- **URL:** https://news.google.com/rss/articles/CBMijAFBVV95cUxObGxJRTBKUVRHeEZ0N01haVBvOW1DSXAyeE81ZXBodk83Wk81dnZSWkFVVW9RM2ljaUp3M0x6cllvbHBOUDVaRnAzYXZFM0ZpMFQxeExVUU1UUFlTdEJCbGcxVzNXalpFZ2twZllhMzNWNlc0b041RU9wMXFWVFo5OTEybmhnZHNNMWd4UQ?oc=5
+- **Source:** Finimize
+- **Published:** 2026-11-05T08:05:04+00:00
+
+## Microsoft will not expand Texas data center deal with UK’s Nscale, source says - شبكة تواصل الإخبارية
+
+- **URL:** https://news.google.com/rss/articles/CBMiU0FVX3lxTE9jb3ZqRWNKVFRVQzRPZUR5alY1bFoySDREbXgwWXcxc1NjS0QyVGVuTHRPNlh2emZuMFpyMDNTbXNwS3JNOUtfdUpPeXQ3TnhRRW9V?oc=5
+- **Source:** شبكة تواصل الإخبارية
+- **Published:** 2026-11-05T08:02:55+00:00
+
+## Microsoft’s New Operating Leases Up 4.6x as Capex Fell Short - FourWeekMBA
+
+- **URL:** https://news.google.com/rss/articles/CBMikAFBVV95cUxQTGNoSGozMHROVl82a3RvcDN1S0hibksweHpBcDFhZUVRT3hsOUhrODFFQmdfV05xbXppR2xZUHZ6Y0ZQV1FpNGRVcEFrNkNicXN3ZUt4RmFfYXVwLVZwSGlpVV9ocndRUmFudVZBMWJmTGN6SnpGaUN0N1Z3bGVFekxQRlJ1dWxoYWZEcjNORDQ?oc=5
+- **Source:** FourWeekMBA
+- **Published:** 2026-11-05T07:24:41+00:00
+
+## Big Tech Buybacks Fall to Lowest Since 2017 on AI Spending - Alphabet (NASDAQ:GOOGL) - Benzinga
+
+- **URL:** https://news.google.com/rss/articles/CBMiygFBVV95cUxNS0hTUm9jRDFPdGVCeHZ6U0VXQUZzZWVKNThJdDFSS2hwX0JrUVI4RFZGanBubjlteEdCZmN4aU8tQjF5RzJxSFlVbVc2N3RsLURTcV85MEJRandiV2lYOHFDUG9SanZzVEpsX21rakZXdDZwWHdIdHl5YXFKaFRZVGJCc19FdW5QNHF4T0hzUFdYRXJNQ3hJYkQ1c1g2SHpXQWVsa1llTlotbl9WT1paMnpRUkYySXp4UU9zZ2VKcDVXNmZqMl9JOTJR?oc=5
+- **Source:** Benzinga
+- **Published:** 2026-11-05T07:14:39+00:00
+
+## The Zacks Analyst Blog Highlights Microsoft, SpaceX, Marvell Technology and Preformed Line Products - Yahoo Finance
+
+- **URL:** https://news.google.com/rss/articles/CBMipwFBVV95cUxONzJrUnRQVXhHZmFINVJkalJOdGRpdlB5Y1VSSXprVm05bUxwaE1wVEluUHZlZ3hoYmYyOFV1cU95ZlEwR3hlaXpYckx5T3JwVkNXYXVsWkJDY0dhVFN5T0hDMEZBRWFCMVZDRXZGaXJLNWVmZE5tYmJTbUF3bmF3ZGxiQk5QcHZMa2dMcDhyOTI0aHZQbXdyS2RLa1A4RHFxLU9aSUtOZw?oc=5
+- **Source:** Yahoo Finance
+- **Published:** 2026-11-05T06:50:00+00:00
+
+## Microsoft partners urged to monetise Copilot - ITWeb Africa
+
+- **URL:** https://news.google.com/rss/articles/CBMilAFBVV95cUxOaG1zVkMzZGJxcGhlUVNKSWJQS2N1RktiUnN4NU9CU1dxaFJNVXZnYWE5MURhWTZKYTlDT211YVFub3F1cktRdmFweWt6RE9XZmVaUlZUS3pDdl84NUszSVp2ZzVJUFRzek9Pd2JPSEVXdDhOUThyV0dLZFBOTE5ZNU4zaHZfc2tBX3Q2a3pNdGhOVU5p?oc=5
+- **Source:** ITWeb Africa
+- **Published:** 2026-11-05T06:30:21+00:00
+
+## How Microsoft’s upcoming Southeast Asia 3 datacenter region will expand Malaysia’s multi-region cloud opportunity - Microsoft Source
+
+- **URL:** https://news.google.com/rss/articles/CBMi8gFBVV95cUxONDlzT1dFZDdXRFFxVF9PTnV6QU9CUG41eUFpYV9Wd1Q3U2NSSEkyektsdV9XUVBoNHNpZURhSXpJOFBVMTY4WDR3dkNPODRxdElhaC1TT0p5RjdZSjNYd25TRkRZMWtiaVF6NUhzR0RaYjBreWV4Z1lOTWhfVHZBenYyWjVUbGN1dF83OWZlWm15RW1uN3dMSmVPZFBZamVWX2daQkFyOE9udHB3VmhfNUJ6RXhtVUFwOGFxZjJQazRFOFBrODB4d0FlSVpkenZWTURrdERsNU4tXzdhRzM1REtPdmZ4em5iMENXMnFvbXJZUQ?oc=5
+- **Source:** Microsoft Source
+- **Published:** 2026-11-05T06:25:01+00:00
+
+## Microsoft declines Nscale Texas expansion ahead of $35 bln IPO - report - Yahoo Finance
+
+- **URL:** https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSTN0bmoyZzNmQThsTVBVWlRMV091SmIwcTF1di1GaDJjRVhDY2ktQVdEWDFRemhGVDlqc0V1eWQxRWg4SVdpYU11R0NhUXYtN2dSXzBZY21Tc3NSWWNtZ1BQLWRaZEJKSjVJc3kxQmVDTUhNam1YLUhOZVhMQ1BPY0hYNTUwMktjX1Bnakgycmt6YUpfRUtQNllzNlZBdUt6c2tlQ2d2Wks?oc=5
+- **Source:** Yahoo Finance
+- **Published:** 2026-11-05T06:25:00+00:00
+
+## Microsoft rejects multibillion-dollar AI deal with UK’s Nscale, FT reports By Reuters - Investing.com
+
+- **URL:** https://news.google.com/rss/articles/CBMixwFBVV95cUxOaE1sOXljLU8yeXluNjBzd1lsdGROQThwM0Jzbkc4eTNMNl9NWXVRcjY1Y2R5OXNzaXYzNnVKSWtuUF9XWUxtdXc1ajZCSlozc2xmdDNROWo1RDVtRGxVMmtEVkVFTmttTURFQmVneFRMRWtLRVFPNWFmSXhUUE5BdXlLTkYtbnhZdVpTREtpblBTMkEyTEwtQWhVWWhZMUpKRlhRcndPbEhWQnBpZ3FJUmRQWVphVVNfS0pSOWhwT2pzTXNfelh3?oc=5
+- **Source:** Investing.com
+- **Published:** 2026-11-05T06:22:09+00:00
+
+## Microsoft rejects multibillion-dollar AI deal with UK's Nscale, FT reports - The Lufkin Daily News
+
+- **URL:** https://news.google.com/rss/articles/CBMiggJBVV95cUxQV2Q5NTlOT0pxbFMySWwtS2hfYTRvNXM0ak1tb2MwWjJZWmQ0WGp5VlZyOTNQNEg3NHl4YzVPV0s1ekowUk1MYUhUZ3l0TXBPTHhZcDFjVTYybFh3THc2RWN4eU12c0dLZ0dFSFowT2NtME5jTnpXcmtHS1kzTnAxU21DcXZIT1BTSjA5WWdObjZjNlNwVWp5UmhpSnNmTmREY2M0T3g3TWY2TlB3cUlkS0Y1WE1ldWYtLUtwbEZwMU5VVEpRWTUxNEFnZTRHMXo1ZkhxRW1QNGJoUWQyQTRSZzdxbm1zV0tQdkcweGdJNEdiYjlXUHJYMmNOa05EbWZ6eGc?oc=5
+- **Source:** The Lufkin Daily News
+- **Published:** 2026-11-05T06:12:12+00:00
+
+## Europe’s Markets Open Higher As Microsoft Steps Back - Finimize
+
+- **URL:** https://news.google.com/rss/articles/CBMihwFBVV95cUxNZi1JRFVCRkRZX0x6dDdDRThIMFBOZ19XSnIyc2g0ZF81cHFoTUtmenJ1SHBDeTRQVzdOS01RQlBJN0NmVDhsT1VBcmxiTjVqaGlfNmNJTUhSRTlpT0F2dF9VR1JJYUVlcXFJMkN1Z1Q0aGRLNXUyVlFCUllNY0QybGdJbllZTUU?oc=5
+- **Source:** Finimize
+- **Published:** 2026-11-05T05:59:50+00:00
+
+## Microsoft declines Nscale Texas expansion ahead of $35 bln IPO - report - Investing.com
+
+- **URL:** https://news.google.com/rss/articles/CBMixAFBVV95cUxNcnU0a2FGWW0wN1diZ2FlVHBYcGpuaUxQREUxRm9pdlYwZk9VVEMydEdNUnR1T3dTX2R4THVLMHVYMkhEMTN1cEdPTkxhOVg3WTdILXpVaEFpRC1BUFFhVGh5eVdJWG9FcGJldy1kcEZmaUVqcUNZUzBzc1pNZUpGYmVwSXIzSTdScDdET3lkdmp4WWFzZEtodEU1dVZQTl9SVnNuTGF0Z0JWVFMzSV82YUhuOHRKZ1daa0xjTnNxYkFXSmJz?oc=5
+- **Source:** Investing.com
+- **Published:** 2026-11-05T05:55:46+00:00
+
+## Microsoft said to decline expansion of Nscale AI deal - Breakingthenews.net
+
+- **URL:** https://news.google.com/rss/articles/CBMinwFBVV95cUxQLUpQMXZZRHBnSzhtZmdqYjBMejNoZVJKRElQOUp4TElsVzFPbG5HRVhVUkFnY1NBcGFiQzdCV1NtZmMxaWNTSWxYUDJDNTdPd0Z0VTVoZjcxUGpnREVqWXJxWFEzUlZSTmd4dzJnMDVzdkljNnBvbnlfbWowbUhRVi1kenUtZ3l3UXpaVGdzWWRDYnhRV3hLUTVGdnU4TG8?oc=5
+- **Source:** Breakingthenews.net
+- **Published:** 2026-11-05T05:46:00+00:00
+
+## Microsoft reportedly walks away from multibillion-dollar deal with Nscale - FT - marketscreener.com
+
+- **URL:** https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSmhNZzBnUzZxRHJsdzhHeWtDWGJrT1pmbXgwT0tWdXhwcW5DMUp0S3A3NFkyTkhZd0xaOTM3ZjlPZnVYcE9NZXgyQ1B5dFVrUFVsd08tVUZNNjlvbXBIckt2MnpKZDlQXzdVMTliU09XcTlySGUtU05POGx3VVFvUG16Unp6WGxtS2tfYk9PbUdlcFlQOHhya0NxLXJlUDQxYldCU1paX3U3ZC0yWmxILVJQSnVCbWR6QVZpTEFBRGNGQkN4VkFGWA?oc=5
+- **Source:** marketscreener.com
+- **Published:** 2026-11-05T05:45:24+00:00
+
+## Microsoft Clarity adds analytics for AI-agent visits - ContentGrip
+
+- **URL:** https://news.google.com/rss/articles/CBMib0FVX3lxTE1XZlNrVXZTTUwzUDdlQnR5dEZtYTRzTGQ4cldUMS1PMHp4X2ZObmI0WHhlZFN4MEFmcHFRUFhkZmxjeGpDZE5UNTEwWWdfaDJHbEo5SUJDbzdnVU0zMndwMXE0SFVGd0J2R2N1c2VZNA?oc=5
+- **Source:** ContentGrip
+- **Published:** 2026-11-05T05:44:07+00:00
+
+## Microsoft and NVIDIA standardize RTX Mega Geometry technologies in the new DirectX Agility SDK - GameGPU
+
+- **URL:** https://news.google.com/rss/articles/CBMiygFBVV95cUxNalROZUl0M2pDWWVHM29tSjNWMG9xYkhrRkd0NHM0ZUF0ZjRBV2JpVjVSUkUwMWJjZDhfSm9PRUxBTzVKekNSNTM3c1J3QVBzNktMTjlBSWQ3bWRkUmdnTDl0Y202SUcyWG1LaUpmSGhRQVdtOU5WdGFsMXg5UXpoaWdYbjM1MWoycmVTN2RpSXNndk1VT3JiRzNFYndWUU5RNWktSGRka0piWTVNNWJVTUhwNlJQSmV5aW9Fa0ZtYTh4eHhKSVJfR1pR?oc=5
+- **Source:** GameGPU
+- **Published:** 2026-11-05T05:43:33+00:00
