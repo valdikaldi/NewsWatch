@@ -1,8 +1,44 @@
 # NewsWatch — fusion energy News
 
-_Last updated: 2026-11-06T00:50:14.659281+00:00 · 50 articles_
+_Last updated: 2026-11-06T11:52:07.499885+00:00 · 50 articles_
 
 ---
+
+## German Chancellor Merz Visits Kyoto Fusioneering, Exchanges Views on Japan–Germany Cooperation to Address Common Challenges in Fusion Energy | NEWS - KYOTO FUSIONEERING
+
+- **URL:** https://news.google.com/rss/articles/CBMiY0FVX3lxTFBGTEFYVkJnbUxDcUZGMW9NRjB3bjBFRlRwZUtmbUVXV2NvaUFVekhoWFJwa084QTlqYTE3cmE5Vzk4TTJKWlBWNnkza3Y2YjJVd3JfOGV0NW5pZ1hIX0dya3hDVQ?oc=5
+- **Source:** KYOTO FUSIONEERING
+- **Published:** 2026-11-06T07:00:00+00:00
+
+## A 1.48 trillion won artificial solar research facility construction project to be built in Naju, Gwa.. - 매일경제
+
+- **URL:** https://news.google.com/rss/articles/CBMiU0FVX3lxTE1GTV9PS1dhYVVKUnBBTDA3VWhmWGduSW1GQXFZQzA4UEtjS1pQVURCWUhZQVJST2VnWkl3LXFOODZtZGZkZFJ5aG9NR3N5N0FET3pV?oc=5
+- **Source:** 매일경제
+- **Published:** 2026-11-06T05:21:12+00:00
+
+## Finding fusion’s missing input energy - AIP.ORG
+
+- **URL:** https://news.google.com/rss/articles/CBMidEFVX3lxTFBJM1A1RzdhT2ZTNk15XzR6WUhhaF9nRU5yWDVCcm85aEdjNVItT21wc3ozZzRuUm5JbHUzc3p4MU5SSkpQMmF3VVdCbVNObWVnSE40WGhrTnJOa3FTTDMya2xGdDdRUGduaDZPM2NTeGtKSlVZ?oc=5
+- **Source:** AIP.ORG
+- **Published:** 2026-11-06T05:06:15+00:00
+
+## China's robotics industry development strategy in the AI ​​era. - Vietnam.vn
+
+- **URL:** https://news.google.com/rss/articles/CBMimAFBVV95cUxQeV80bmwxTXZKSVFQOS04YW5yQW1qU3hwdnhQX2d2VENnSjVXOW43NmVuU0IxQ2IxLXU0bnBQUlJUcWN1bDZ4Z3RNRGtSQ21FS3hLVXF2V2ZldkR6cGk5LW1xWmQweE12MWNaUkRfSWYtYzF0UTljZG9ybm9ub2ozcWlMcUItZHlCVnlFQmlBOUY1eUh4ZjFiUg?oc=5
+- **Source:** Vietnam.vn
+- **Published:** 2026-11-06T03:54:43+00:00
+
+## How do tokamaks work to make nuclear fusion possible? - The Hindu
+
+- **URL:** https://news.google.com/rss/articles/CBMiuwFBVV95cUxQemktTTFhTmNERXlqYm5yRmRGTGo0eDRQUzE1clpDWlNBZGswZHFfc3BCSjB6T0F1OHNqMXR2czB3eURiNmFwVzlvT29VeTBGandXSzNta0h0NzllcXdGbjZLNEhzRFpQVkFSSmZScnJfQ0N4UC1rYnAwZnpHWUlrUlh2Z1I4QkUzaU90RjNLajdoLUJiSXFqYnpRbUhQTFd2THJzdmNRZERpYThMNjVEbGpTTVR1Y3BZdzJF0gG7AUFVX3lxTFB6aS1NMWFOY0RFeWpibnJGZEZMajR4NFBTMTVyWkNaU0FkazBkcV9zcEJKMHpPQXU4c2oxdHZzMHd5RGI2YXBXOW9Pb1V5MEZqd1dLM21rSHQ3OWVxd0ZuNks0SHNEWlBWQVJKZlJycl9DQ3hQLWticDBmekdZSWtSWHZnUjhCRTNpT3RGM0tqN2gtQmJJcWpielFtSFBMV3ZMcnN2Y1FkRGlhOEw2NURsalNNVHVjcFl3MkU?oc=5
+- **Source:** The Hindu
+- **Published:** 2026-11-06T03:00:00+00:00
+
+## Germany and Japan Strengthen Fusion Energy Cooperation - Fusion Industry Association
+
+- **URL:** https://news.google.com/rss/articles/CBMingFBVV95cUxPM0FFV0YxVzdSYmdJLWdmVi0yUTk0SW1GMlhDV0xSb08yWmJ3Z1BlODdvdnJISkk4NEl1cEVHekNEdk1lWFptblhick5kZkxldDVYZXdRUFEzSV9ucDZiOGF5eGNKejZhZkNxSFZjaW9qT1VieTFueVU5Q2xqa0kzb3JqYUhoanNmREJUeGs2bDRRTDh4ZndfVVdoQnRNQQ?oc=5
+- **Source:** Fusion Industry Association
+- **Published:** 2026-11-06T01:20:26+00:00
 
 ## ANU receives Google funding to boost fusion energy research with AI - space & defense
 
@@ -267,39 +303,3 @@ _Last updated: 2026-11-06T00:50:14.659281+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMiwwFBVV95cUxQb1djVVktME5UR3hzVUdxUDhPdDU3WllrX3plclZxdTUzdjAteUZQS1hqR01LbElGODVYZ2prMk40eUxmczBJYk5MN053a3dYX01hMEdBTjUzVTc3TDFVVzhIZ2FJdHNLaUhFbnVqdEN4OWZDWXl3c0diZXFmc2VDanR5aFFBUG5mbU9NRUJaXzRhOXhWY1RzaEp4MTBPWWdScV9SYjdwX0g4Q2RVNEJ5MGgyeFlnMEZETEpBNFVDLUVwNjQ?oc=5
 - **Source:** New Civil Engineer
 - **Published:** 2026-11-04T08:46:16+00:00
-
-## INOX India Q2FY27 slides: record backlog, aerospace orders drive growth By Investing.com - Investing.com India
-
-- **URL:** https://news.google.com/rss/articles/CBMiygFBVV95cUxPemt3ZWVNT2VCR1RrZ2EtZVZYeFdNRXVQeEdyTHlmYU9wX3NFNXJLV0dSOERqZEV0Nk1QZzdQZjl0SWRwczRibzg5dk94Wlh3bkdKOWY0ZGxjWnQwbjFNemJZY2JzazR0WXA2ZE9UNlJPV0NWN0pPQ1hOc2J3cU91Z3VwMmR0endvQ3lsbGJBZEdNN2lrTE9tR2w2akhpMHo2ODlKNUxlMHdlOEE0NTlYOXhQYmdfMGd4cnJiMFgxWjMtekp0UEJhci1n?oc=5
-- **Source:** Investing.com India
-- **Published:** 2026-11-04T07:47:52+00:00
-
-## Freemelt secures ITER-related qualification project from Alsymex - TradingView
-
-- **URL:** https://news.google.com/rss/articles/CBMiygFBVV95cUxQRGNzZi1pcFlJVEdrMEwtZFZRTW55cFh0Y1FpVC1tY1FQNkNDaWRpMEFiM0xtaktGUnNpeWFaMDIxOERLMzdreHlqaFdPLU9vT1FMT0wySDBub2VzeHlPYW5mLVZRYThvU2hOcVlEMkJQOTVzbTlDdmFvSDVtamNLRnp2RVNTbVZUcE1mQ1FsZnRhbVcyeFVkdmhaMkEzamw0R1QyOFNFdFlwQkcxUlczOG4waUdxejdPczRBem5ZTTZTVFN1U2JEbnRn?oc=5
-- **Source:** TradingView
-- **Published:** 2026-11-04T07:18:00+00:00
-
-## Kyoto Fusioneering und Focused Energy bündeln ihre Kräfte, um Kraftwerkstechnik für Laserfusion in Japan und Deutschland zu entwickeln - The Joplin Globe
-
-- **URL:** https://news.google.com/rss/articles/CBMiowJBVV95cUxQMU9IcTczNnJkY0tDR3dRS0p0dU1qaGZhUk90REdveEpwcnNLWHc5MWdZYm80NkRIeXVRWGdfNDNIckZpck9TQ0NrZUtuY3dNZHcxM0pkU0tGY0Y4eW52eXlESGxQcFFtamFyU3ZVNU10V1czTUxzQWxibVJTcG5ZRk1hYTk2SnhZbDg0aTdXSGhBSWxEWWgyeHF5SzdPM1E5T2dDZXVoWndXVkF0T19Qc3VuTkU4ekZ0bUprMkJGYVdMYXBVTzBsQzh0Q3V2T0NkT2lDOGZET1lDOHRYS1lDWVRMV3VBNEpkeDFpYkZLeGNKNUZEWFhHMGdUNnhGZTFHVmktTFZuTjNadDNiNGQ4UERmWWhaLWpjZmFyT2RvTjdITnM?oc=5
-- **Source:** The Joplin Globe
-- **Published:** 2026-11-04T07:00:51+00:00
-
-## Pranos Fusion: PRAGYA and PRANIK – India’s Private Nuclear Fusion Initiative - StudyIQ
-
-- **URL:** https://news.google.com/rss/articles/CBMiW0FVX3lxTFBNMFhjZU1BRWlfWXJRdnlkMUc1dkpHbkdMZUVLWnRmSWU4a2RhTVlDeGdvaHQ3RXhZNXE0aDRaSG90RzZ6ODlUUVJneUFkYVF5MDFRMVV1cjhXOXM?oc=5
-- **Source:** StudyIQ
-- **Published:** 2026-11-04T05:36:52+00:00
-
-## FIA Leads Fusion Trade Mission to Japan - Fusion Industry Association
-
-- **URL:** https://news.google.com/rss/articles/CBMiigFBVV95cUxOS21MVFdKQWRIbkpVRjJXX1NScDNrRU80ZmN0VFlZVGpMQ3pQc3MzWWZNXzJYMDBkNzJuVlF3cnR6SDN4Zmd2OUNtdVh6dV9FYXBFQ3FGazVCYXY3b1BSSDFPTjh2NF9mWXhjd0FCXzgwSHY2YUtrMV84NklKV3dWb3ZKaUtqYVJ6cWc?oc=5
-- **Source:** Fusion Industry Association
-- **Published:** 2026-11-04T04:02:49+00:00
-
-## Kyoto Fusioneering and Amentum Announce Strategic Collaboration to Accelerate Global Fusion Commercialisation - KYOTO FUSIONEERING
-
-- **URL:** https://news.google.com/rss/articles/CBMiY0FVX3lxTFBTcllnRXNXUGtJeW1fU2xaSEZRdTdkZ252Y184SU1wVG9QTDZSdUgyYVlMclA3Qkx0WkJRWXhKUWRFUV81TzdQZWZZd3ZXM1h5LVRFQlNYT2tyTzNVeFJOeDRqSQ?oc=5
-- **Source:** KYOTO FUSIONEERING
-- **Published:** 2026-11-04T01:00:00+00:00
