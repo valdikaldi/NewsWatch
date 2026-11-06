@@ -1,8 +1,38 @@
 # NewsWatch — fusion energy News
 
-_Last updated: 2026-11-06T11:52:07.499885+00:00 · 50 articles_
+_Last updated: 2026-11-06T18:58:38.579627+00:00 · 50 articles_
 
 ---
+
+## Thea Energy, MIT collaborate on testing stellarator magnet technology - American Nuclear Society
+
+- **URL:** https://news.google.com/rss/articles/CBMiqwFBVV95cUxQY0xyX2IxUGlzblJSdzJMdUJlaUpRNlNwZmR6dGI3Y1FhRklKQU04MHpWRUxHQ0stTENSVXJMYW1fWTczYlE1d1lIZ2hqYzR2eE1seGZnWWJJOTVGM19aZWRXREd3QkFCOHFxOTJpWUZDeEE1Mlp6Uzhnc2NrQzBjaHdaVElYbms2Y1hHMDF1U05FbDBsTkRVM3VoRDF5SVRjcjBVV2hGTmt4NTg?oc=5
+- **Source:** American Nuclear Society
+- **Published:** 2026-11-06T16:17:03+00:00
+
+## Tungsten 3D-printed at 2,552°F survives 74 plasma blasts in US nuclear fusion reactor - Interesting Engineering
+
+- **URL:** https://news.google.com/rss/articles/CBMijgFBVV95cUxOZjVHUU5Tbm1WQ2czT3V1Q0pKdXA3RV9BWVFwUlFxcjNvSG5nMjdJMlZrN0ZZV3lOYmNUdS1aNllsb1NQWmtLOWR4S3dJNGJxc1FCZTlTRHgwMWlGQS00YnoyX0Fyejk5OGpuWl9qRWNkRGZwZEpmalM3ZVhWMkpVZnZiM3lqaUtGcUs0RWd3?oc=5
+- **Source:** Interesting Engineering
+- **Published:** 2026-11-06T14:06:00+00:00
+
+## UCLA Receives $5 Million Gift From Ken Griffin To Establish Fusion Science Chair And Master's Program - Pulse 2.0
+
+- **URL:** https://news.google.com/rss/articles/CBMiuwFBVV95cUxOaUxtTF9CSEdSWU5wODRNYkNHcjQ4WVZjMFZfU1ExZERySk5pcnBIUEpMSjhVY052NTlDdm1FLU5rRlhaRTM0MWRVMDVyTF9EMHpaN0ZPVzdMT0o4VlNydnZuM3dvLVAwOTBUVHk3YkVLYmJXZ0VQMTF1QWtpWlhPS1NGU3dHbEI5WkQzcmVQTmRtbEZWcUV3S2FUWU81NXBuSmVLelp0YndxNnRUbVBOd3JpNmlsUWVzLVNn?oc=5
+- **Source:** Pulse 2.0
+- **Published:** 2026-11-06T13:52:56+00:00
+
+## German Chancellor Merz Visits Kyoto Fusioneering, Exchanges Views on Japan–Germany Cooperation to Address Common Challenges in Fusion Energy - 巴士的報
+
+- **URL:** https://news.google.com/rss/articles/CBMimwJBVV95cUxPM0xkdmRhR2FVVF9ULUhvUHI5SVpWODRxbjVHSXU1VmRlVlh4TnJHSy1xSUY2QTZSc29fajNOY0liaDhoWFhLWEF3TV9NeC1KeEd2alNVRWZvV2RyNjE1M3FtU1NGb2I4Q2lick5MZmpKcWEwejdPdUJXbG5mUGtWajh6SEZ6N1Q0WGM5Y1B0ZXdCcUF1cWJzNGJPblZ5dnRLMXdBbThvVk5LWEdfbzZrN3l0U2Ixa1BWUDJ6Y2xvdVg1Z1JmNjFkWW5vTktxWjh5R1dzbm5UOWpibDVNZ0o2b1FHZVdheGZSUk9hNkpaSUx0aHdSMjVkRlQxVjJnTjd6Y3AxbE1kSVJpdjBfQUdlNDNIMEJKMnIxWVRN?oc=5
+- **Source:** 巴士的報
+- **Published:** 2026-11-06T13:00:22+00:00
+
+## German Chancellor Merz Visits Kyoto Fusioneering, Exchanges Views on Japan–Germany Cooperation to Address Common Challenges in Fusion Energy - Eagle-Tribune
+
+- **URL:** https://news.google.com/rss/articles/CBMiowJBVV95cUxNS2w0YnliOUVsSkNkbENqaWZ2VDhvQjAxbTZKOXJPR1NEdnZCUkI5RS04cFZSNDk4cHpKeVhMQk5OaEsweTBLV0VxNWt0ajJvTnM1MVRjSFlzUVFqNGo4Zk10cXJyVU5QeHE0UmE2bWNFREFOVGNkY3ZseXNNS1E4QURsODFLOGhOTUcycENnbE1ONlRELVJrc0VGWjVwbmZDTGtPU001ZURfa1IwTTU2QVk0OTRYMl84LTNNc3R5ZkdHQ1ZEcjJ6XzhIaGJYQkwxRzN5TnlqRkY1TU40Y284TkRUZmpUUkRoWWdNblVfdUgzc3JXcjNqb3B4eFpDejJmdW5peTh1SlR3bWlWR1hyUlRnZGxqTFNTcHpLLTRyb1NTVjQ?oc=5
+- **Source:** Eagle-Tribune
+- **Published:** 2026-11-06T13:00:20+00:00
 
 ## German Chancellor Merz Visits Kyoto Fusioneering, Exchanges Views on Japan–Germany Cooperation to Address Common Challenges in Fusion Energy | NEWS - KYOTO FUSIONEERING
 
@@ -273,33 +303,3 @@ _Last updated: 2026-11-06T11:52:07.499885+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMiogFBVV95cUxPOW1BX25tdThPTnRwWEhhaml1T1Q5aUpKRDJ0VF9OMkd5UGd0eTNNREFwQUhoOFlDUUlsajVBNVNmQjFjMEtvaUFRZUVyMnVRVi1IdWg0RnA0cThFYzdwMHJrWktFM1pSRFVCT3R0TGdLdkd1R0hJbHNNVklUaW53TzdDNUxrWTVFSGtSZ0Y2a2JMX0RJV1B5ZHFsdERTNlJyYkE?oc=5
 - **Source:** Energy Live News
 - **Published:** 2026-11-04T12:08:38+00:00
-
-## UK fusion upgrade advances with 12-tonne component installation - Mining.com.au
-
-- **URL:** https://news.google.com/rss/articles/CBMijwFBVV95cUxQWXduLVhTQjV0elg3bG9jUG1kY3NxeEgya3AwNkVlODBIZ2M2SllRakt2SVVHT1NOaDE5QUdad0VibmtBVnBaX21USlgwNWp0MGVyMk1aZVhodUdiNzNMX1hMVlNaVGhPNTBwUVo2X3ZCdFVaWmhWX0NCMnlvb3M3SEwwVXhTOXRzSkdma0lKOA?oc=5
-- **Source:** Mining.com.au
-- **Published:** 2026-11-04T09:56:15+00:00
-
-## 235 Wh/L battery uses tin and carbon layers to reduce lithium loss - Interesting Engineering
-
-- **URL:** https://news.google.com/rss/articles/CBMiigFBVV95cUxNcTdGRGE3VW9qaU9tbTAtbTVRWU9BVlR1RnROQ1ljZFl3WXVYSERtcVQ1RHdzQ3N6UUJhZThaNkpjOFVob3hmcS1LSEVDM2RibjkyME5zWVhPeWlJbHNPMjhpM0lQTjVPLUpsXzhWU0ZLdTlDOVMwTlhwclFjTFZUcVpnU3RycFVrRlE?oc=5
-- **Source:** Interesting Engineering
-- **Published:** 2026-11-04T09:36:00+00:00
-
-## Agreement forms strategic collaboration to accelerate global fusion commercialisation - TheBusinessDesk.com
-
-- **URL:** https://news.google.com/rss/articles/CBMi1wFBVV95cUxQWW1MUkkxV0RvYVkxbTlkalY3eExPeHBYTnhBVWl4TlRiZy10Y1B5ZWF5THBYMWlUVUhBU295Q0g3bTFsb0lHTHI0WlRYVW9lc3VrOXJ4Y0JsWFFLUXBmWDgtQzJkcjkwZDdLS2I2ZUpaeEpTcEtqTG4xS3NfeHFaZWlMSlRpZmNTVjc1bDZFdm5rNTlMRWg2NXcyMFRHajJJck90R1NCLS1aanRWRFpmclVMYUxhYVhPNWkwVlJ6QWU2bHZSWWZxbVk4WVJ2X2U2UFczem5Nbw?oc=5
-- **Source:** TheBusinessDesk.com
-- **Published:** 2026-11-04T09:30:24+00:00
-
-## 600 MW floating nuclear power barge targets US in world-first offshore advanced SMR bid - Interesting Engineering
-
-- **URL:** https://news.google.com/rss/articles/CBMigwFBVV95cUxNcUVmaUNsdHJkNHZOZGlwVVpFdUVkSWFnOUMteDBESlJQWklWLTdyTExYOXNuekpKWVdtNkJGLTVKQ09PVkdNeEpiZF85QWtmTkJVQkFLODktRWlCUkpDcTFNVHM4SjBXVklKMXFVWXhaRkZaRHJOZXNPX28yU2pFRWgxVQ?oc=5
-- **Source:** Interesting Engineering
-- **Published:** 2026-11-04T09:07:00+00:00
-
-## UKAEA installs 12t ‘double beam box’ to boost heat power at fusion facility - New Civil Engineer
-
-- **URL:** https://news.google.com/rss/articles/CBMiwwFBVV95cUxQb1djVVktME5UR3hzVUdxUDhPdDU3WllrX3plclZxdTUzdjAteUZQS1hqR01LbElGODVYZ2prMk40eUxmczBJYk5MN053a3dYX01hMEdBTjUzVTc3TDFVVzhIZ2FJdHNLaUhFbnVqdEN4OWZDWXl3c0diZXFmc2VDanR5aFFBUG5mbU9NRUJaXzRhOXhWY1RzaEp4MTBPWWdScV9SYjdwX0g4Q2RVNEJ5MGgyeFlnMEZETEpBNFVDLUVwNjQ?oc=5
-- **Source:** New Civil Engineer
-- **Published:** 2026-11-04T08:46:16+00:00

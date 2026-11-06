@@ -1,8 +1,44 @@
 # NewsWatch — Apple News
 
-_Last updated: 2026-11-06T11:52:06.322213+00:00 · 50 articles_
+_Last updated: 2026-11-06T18:58:37.178846+00:00 · 50 articles_
 
 ---
+
+## Apple Series 4 Amazon - Apple Store sales in neutral ahead of new Apple Inc. AAPL product releases - www.auroradesio.it
+
+- **URL:** https://news.google.com/rss/articles/CBMiUkFVX3lxTE1aNGVZQUJPNnJzQXAzV1JaNUFCM2dLamc4cEZ5eTE1c0dDUEo0Tk1lSUVCZkFFQkJOVFJacDh0bUNjLVZjdFUyS0EycC1JSHNvQ3c?oc=5
+- **Source:** www.auroradesio.it
+- **Published:** 2026-11-06T17:27:02+00:00
+
+## Invesco NASDAQ 100 ETF (QQQM) Sees Major Net Buying on Tuesday with Top Buys in NVIDIA, Apple, and Microsoft - SSBCrack
+
+- **URL:** https://news.google.com/rss/articles/CBMiywFBVV95cUxPd202eTdpNjFRQlZSUDVhQjBHa0RTbzVCUVV6TWZBNm1RdV9BTEtaTW9Pa2tseXZ4Zl91QWVEdXRPSVkxRElMakJBTExrZnE4OC1Gd3E2ZmhSeUlsbmtLVElPTVIxLWNndmE0cnQyd0w4My1LbVBfYmVDMDN2N0NuMVhPR1JpUkdaQlU0OEcxRlI5YmVjNG1KdXl6VjdpUThPdXU3aFpvaks1SFFfSk5DSWs5anlWUkVvclY2Sko1cDNhcUZDQ3d6cHdJYw?oc=5
+- **Source:** SSBCrack
+- **Published:** 2026-11-06T15:21:15+00:00
+
+## AAPL: Apple defined, key history, primary product lineup - 9to5Mac
+
+- **URL:** https://news.google.com/rss/articles/CBMiR0FVX3lxTE5YT25nRDV2WDBrbkJNcGEtUTVaMXUwRUZiQjFPWURPanYxM0RaRE9yblZHZFJMbmpWT2FmaXhCanlyWFNwM2ZF?oc=5
+- **Source:** 9to5Mac
+- **Published:** 2026-11-06T14:12:06+00:00
+
+## Microsoft, the Safer Tech Bet Amid Looming Apple, Meta, Musk Probes - NAI500
+
+- **URL:** https://news.google.com/rss/articles/CBMingFBVV95cUxPT0x3djBaY293VWZiRER2XzRuX0xPY1FjcG1YcHNWRmRXU1Bsb2x3NXNTdDFDelB5M0VEeUR6ZlBRNFBTc1VzNUpfVGZzaG5EMmVnTWNBV2htY0lQejF0MEhjLXIyeVN1a3hwdXpHQTJnazJpYWZqVGhESWppUUQ3MkhKeUxBeENkQW81c0pHUGNqR3V3UDJMZGk5c3c5UQ?oc=5
+- **Source:** NAI500
+- **Published:** 2026-11-06T13:18:01+00:00
+
+## Apple faces scrutiny over 100,000 restricted iPhone phrases - TradingView
+
+- **URL:** https://news.google.com/rss/articles/CBMiuwFBVV95cUxNemU3QWplQkRHZ0pRMHZrczk4bkZpSVhmZHZRYllQYjhGakE0dEMtYlNpMDVZUG12OFJfeGhBd2h3VjdvYW54VWlJMDUzWTd4Q2ZkU2N3T2lYYkFNZ2JTSE9wYS0xWndFWk1kMjJNbGxlYjBWMkk3MmUxalNieGhKRmZzekxRcnJNQjNZZXotV29rM041b1lENE4tTU5WeE1DYTNUSTlaRnk3YzhhWFczazkyUllEVlpiOXNB?oc=5
+- **Source:** TradingView
+- **Published:** 2026-11-06T13:07:08+00:00
+
+## Investors Heavily Search Apple Inc. (AAPL): Here is What You Need to Know - Yahoo Finance
+
+- **URL:** https://news.google.com/rss/articles/CBMioAFBVV95cUxPRDZiUGo4aWMyRjJ6UkdIbVZRNmt0SXFEcGlsaHNrS0pibV9KREF5X2NBOF9LVnd6RDh1OUR4SUhUV2lVVVRpRW5SeVBtUXNhQ1ZWWFU2cHFlRWlfaXpCV3ZPWVZFbjdYTkhHdGFwbWVqY2dLTW1ad056bVprVTl2ZTFwNkxLR2RQMmNzTU52aUJaME9oRFluNl9vMVdOTml0?oc=5
+- **Source:** Yahoo Finance
+- **Published:** 2026-11-06T13:00:02+00:00
 
 ## Democrats prepare corporate probe wave targeting Apple, Meta, Musk cos.: report (AAPL:NASDAQ) - Seeking Alpha
 
@@ -267,39 +303,3 @@ _Last updated: 2026-11-06T11:52:06.322213+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMiywFBVV95cUxNOFliMVBqZlY3aThxUGhsUDU2QVVrTXFsMXlZbVozMnlMelMxbDlkdkpnbzBjUms2VnUzeHpqQzdhV1AxOEF4dGxjZnpCYkJ0WXZvNUc3ZTg4dnRPVGQ5UGJSVER6NS03aGhUS0lpV2VjWE5xeDJSRkNvLVJoUEFYdzZsSldocTktazlndXFfVFRYOFVkcG9FQlBGUzR1SGpFT1U1c1NMMG9CZENKdUJMMHNva1hhaTR1c0dYdUVrNVByY2laTzhDUGl6Zw?oc=5
 - **Source:** MarketBeat
 - **Published:** 2026-11-05T09:33:29+00:00
-
-## Apple Inc. $AAPL Shares Sold by Grandview Asset Management LLC - MarketBeat
-
-- **URL:** https://news.google.com/rss/articles/CBMivgFBVV95cUxNUzZqM2oyS3FydnlmaE1LVHlRckxyQ0RQNG9PR0VVVlpjdHJzMkxST3BzZHVOT3JpWFlnSlJoZjRyNTljS2w4OHhHbTdHS1UybFFHb2RUZHJKOTdyWHBNQ1VEb0ZtQVJQSVJfOHBybnROdDBFdlV5MGRVZlhpaFpvTXBybnBDaFhhTUVVZmdTMmFxNUJLU1hjYW9FWUdydElrMGprZE1FTkZrMUl2LXpVNjN6M3FBZllkaWdncmpn?oc=5
-- **Source:** MarketBeat
-- **Published:** 2026-11-05T09:33:29+00:00
-
-## 38,186 Apple Inc. $AAPL Shares Acquired by Sumitomo Mitsui DS Asset Management Company Ltd - MarketBeat
-
-- **URL:** https://news.google.com/rss/articles/CBMi4gFBVV95cUxOcUdjRXRzWnliR1h6Q1hXZkxDd2x5eHBIcUxEazRiSVkzdURvZ1Rsa203WnUzdXNORGpmRmQ5T1RsNVMycE92dzRyM2ZKTXpPLTJpbUtYUmo0ME1taUw3alF5ci1xR0hjbjRfaDM3LTlKdGhsSC1lRUthNjlHVF96SVlqU011N3dBX012M2Fwc1ZpWHFuWjhCRjByQW1kZDlIN2IwaTdYYmV0bXoweGJuVEhjX1hBSHBPRTRoaXRmcnNBQ2Z1cUpIY0JuMGhpYzY0RjAzU3ViUHcwZkV3MTQxOG5R?oc=5
-- **Source:** MarketBeat
-- **Published:** 2026-11-05T09:33:29+00:00
-
-## Apple Inc. $AAPL Position Cut by Vision Capital Management Inc. - MarketBeat
-
-- **URL:** https://news.google.com/rss/articles/CBMivgFBVV95cUxPZWdaY3BrdF9fU0Q3Ymo3Mmk5N0o4Q2RlY2NBMElBd1A2MUp2dXZXcGYxOXVvd2ZpeExfUm41YVZNY0pXZTZUelNIbXJ3d3lPa1NCeTRFM1o3UVZhX3VRaVB6VFJ0WjJMYmhfMklMTXBnZUFhZXRKWW9CRkpsWG94UWFuVWRYeFY5bDlGTTZMd0pLQ2N5NW95M0ROSTNVRFpES3NUZlgxS3ktVlBfckI5Yzg5VjhxQUxqNGdrd0Fn?oc=5
-- **Source:** MarketBeat
-- **Published:** 2026-11-05T09:19:15+00:00
-
-## Apple Inc. $AAPL Stock Sold by Cordatus Wealth Management LLC - MarketBeat
-
-- **URL:** https://news.google.com/rss/articles/CBMivAFBVV95cUxQWkVVaTdBVG56b3NSRjBlLUpIdklzWFd2enh5OGhOWnh0bVRhQ1pYRzZqTElyLTNWVG5tSXhJSkJHSWZVNnZTcmFWbnZmc0tESUxGbGtQWnFqQnF6eVUyQUtVMzlMbDRiZGpSVHJxVDYzaXd6dWJzZVdQeUw0alk5MG5sNVZoaXVEVmpaMEM3QWUyTV90U0M2U3Z2NDZ1WjNtRG5sMnRiT1FncmlXSVB2cHBsdDNHT2J3eTFfaA?oc=5
-- **Source:** MarketBeat
-- **Published:** 2026-11-05T08:14:38+00:00
-
-## 8,072 Shares in Apple Inc. $AAPL Purchased by Altium Investment Strategies LLC - MarketBeat
-
-- **URL:** https://news.google.com/rss/articles/CBMi0gFBVV95cUxOYl9MX2JpcWhtNTJIb3JPWFRhQTlRczgxVG9kUnBMdGJuNnk5UEVUS3lfYVRoWTRNdUtkUmwya1I0a09QejVTa01KWHdnTFJGMHVlRjB6Z1pRSjZVT2hfZFlxNy00aThyRjRUNzdHd0xfejJnUEFFcVBUX01aQUk3V1UtV0JRRk81WGFSOFJVMC05azdlZTlXeVNhMGhBVm9YejVsbldaMTZURGJvaEJVU2g4NVpydGN0dGFvVmFWaEJyVmtmTW5reUxSNDFBR1lpcUE?oc=5
-- **Source:** MarketBeat
-- **Published:** 2026-11-05T08:14:38+00:00
-
-## Key facts: Apple Beats EPS; Memory Costs; China AI Tests Lift Shares - TradingView
-
-- **URL:** https://news.google.com/rss/articles/CBMixgFBVV95cUxNcktUSjh6ZjdiNDdCdmp1TlV0ajRYMlAzQ1dHNExheTFCWUI3X2JNbE5DamdWSDZaRmFxcmd0d0FudVRRN0RudFEzWkgyMXRqNUxpOXNCSTVianRUczk5SFp3aC1udFNjZWlIRDk0MnZvSkI3d0UtVUtRcnhicUNUamRacVJMNEVjdWhjX0xTN3BhWDNhY2o0ZzM2T0dLSFJDQnlSM01iUFVuclhhM1QzUmltdjFxNUM4ZDdLaVZwcGx3XzhtOWc?oc=5
-- **Source:** TradingView
-- **Published:** 2026-11-05T08:00:00+00:00
