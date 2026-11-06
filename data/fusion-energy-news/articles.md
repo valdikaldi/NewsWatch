@@ -1,8 +1,20 @@
 # NewsWatch — fusion energy News
 
-_Last updated: 2026-11-05T19:41:28.994444+00:00 · 50 articles_
+_Last updated: 2026-11-06T00:50:14.659281+00:00 · 50 articles_
 
 ---
+
+## ANU receives Google funding to boost fusion energy research with AI - space & defense
+
+- **URL:** https://news.google.com/rss/articles/CBMimwFBVV95cUxPWnVwMHlvUXJpNzNZV3Y3TXhPRVRIOHdTNXhIMWRYbldNZ2hkcGRTZE5tblpPb0FHbVNZaUtMbDJQcUh5RHVxVmN0eGhZX2VJc0N2MGVQSndzNzlQZmtvblI3VWdYVTlDRmhhdl9IN0RRR3RpZ3NnTzRqZ3BtYXFtTHhnSmhFbmp3OXdaNFJNOTRZdEs3djRzT3p1aw?oc=5
+- **Source:** space & defense
+- **Published:** 2026-11-05T23:39:31+00:00
+
+## 3D-printed tungsten tiles tested at DIII-D - American Nuclear Society
+
+- **URL:** https://news.google.com/rss/articles/CBMihgFBVV95cUxOejNEYVRuWGF2dXV0RXZzdFU2QmpwSThVaW1NT0hwZHo2X2ZDazVnRUg4TGhLaXZ0MVhzbHJhblNaV1AyOVBfNWw1U3hhUzVzNTlyRU5SR3NLNWdhS2ZvRm5xeDZnOW9zRUFyaEh1Z2NSU3NZOWhsek52RzhtQmZmUUxoU0ZyUQ?oc=5
+- **Source:** American Nuclear Society
+- **Published:** 2026-11-05T19:51:57+00:00
 
 ## National labs working to tackle fusion energy challenges - Fermilab (.gov)
 
@@ -291,15 +303,3 @@ _Last updated: 2026-11-05T19:41:28.994444+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMiY0FVX3lxTFBTcllnRXNXUGtJeW1fU2xaSEZRdTdkZ252Y184SU1wVG9QTDZSdUgyYVlMclA3Qkx0WkJRWXhKUWRFUV81TzdQZWZZd3ZXM1h5LVRFQlNYT2tyTzNVeFJOeDRqSQ?oc=5
 - **Source:** KYOTO FUSIONEERING
 - **Published:** 2026-11-04T01:00:00+00:00
-
-## World’s largest fusion reactor tests 330-tonne magnet built to control superhot plasma - Interesting Engineering
-
-- **URL:** https://news.google.com/rss/articles/CBMijwFBVV95cUxOc3MxZmhpb0gtQ1EwVHFPcTc0c1E2SVVlM1JiNEZ4WXZBX0dvQTlreUs2eXVObk05RXJ0a1c0bXVxeFZ0QTFEclNzMnp4RlU1M0RMTktDTHROSVJLQkVvTjNpMC1FRmFyOXdhRGR0ekM4ZlNJaG1PZFhfcGVoVFNqZWVLMm9jcGhOSE1ONXlXdw?oc=5
-- **Source:** Interesting Engineering
-- **Published:** 2026-11-04T00:51:00+00:00
-
-## DOE Announces $8.5M for Fusion Energy Public-Private Partnerships - HPCwire
-
-- **URL:** https://news.google.com/rss/articles/CBMipAFBVV95cUxNNXNTV2tmMXRweUFLcVhEVG1ZLVpEV2Zzdk1acDBxZG5LMFpwR0htQTBPV250cGdKdTFJUkdSY29vbE9ydGhaemt3Zk5Pd3J6TlJSZWtQVmE2UmhKZkhZR2NWekJKbmRiX2lyemxkX1Rza0VSQkZ6bmdJbkJabmtqWjcxNVBSYUwyOWdfYVZydGRoRkY3bUFJSmEtUmNybDZENHBCUQ?oc=5
-- **Source:** HPCwire
-- **Published:** 2026-11-03T21:54:20+00:00

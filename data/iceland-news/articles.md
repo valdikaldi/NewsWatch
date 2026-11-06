@@ -1,8 +1,14 @@
 # NewsWatch — Iceland News
 
-_Last updated: 2026-11-05T19:41:28.545708+00:00 · 50 articles_
+_Last updated: 2026-11-06T00:50:13.043984+00:00 · 50 articles_
 
 ---
+
+## Weak mag. 2.8 earthquake - Iceland Region on Thursday, Nov 5, 2026, at 08:55 pm (Reykjavik time) - Volcano Discovery
+
+- **URL:** https://news.google.com/rss/articles/CBMiqAFBVV95cUxPR3ZnVjZQZk5BcmQtNVR3WW02TjliZ24tM1dNYjRnTkNsbWlLNFdybkpaUnF5UG00WHZLS1M1UGc4NWtUZnYweWgwbjAyc2R6dHdoNVNvYmdULWpvdkRuc05fQ3NyNWNMdWJSdXhHLV9wNnhuVEJYWXpXX3lPdk5sU1pMSy1lNjcxYlFfRDBGYW04Wm9Qb0FBQjF0bkxBUUNyRHBkd2ZQQUY?oc=5
+- **Source:** Volcano Discovery
+- **Published:** 2026-11-05T21:12:58+00:00
 
 ## Weak mag. 2.9 earthquake - Iceland Region on Thursday, Nov 5, 2026, at 05:56 pm (Reykjavik time) - Volcano Discovery
 
@@ -297,9 +303,3 @@ _Last updated: 2026-11-05T19:41:28.545708+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMiYEFVX3lxTE56WkNJaWMxdjJmM0ZqWnotSGtxWndTYlBrZFcwdkoyLXpXSTRMOHhpRUFpUmZ3RHdsU3Y5OXhvZWIzc1QzZWlibUFyRjFZaUdOQzRXVHcyLVMzUkhRRGRnRtIBXEFVX3lxTE01OG42UlZ1ZUFIR1NlWmJOVzVHZXpPYUpqRlcwckE1d1FwMWctczZ1WlZKb29lOVFuYlpsLWNpck1WcmoyOG11YkZkQ0Z2d1U4eHJqZDBJUThXTlRB?oc=5
 - **Source:** Modern Ghana
 - **Published:** 2026-11-04T08:10:00+00:00
-
-## Iceland - Finance, Economy, Fisheries - Britannica
-
-- **URL:** https://news.google.com/rss/articles/CBMiXEFVX3lxTE1rVTNxTU1wVWpFNU5NNGMwRUUtRXN0R0FFaUp6VWNnU1VzRmtIWV9Jdm8xYnF1WEI2LWRzNjBLVE8zWWdWZXZnd1RhV1R2V01sX01ZS0hFZjZiUXdh?oc=5
-- **Source:** Britannica
-- **Published:** 2026-11-04T08:07:56+00:00

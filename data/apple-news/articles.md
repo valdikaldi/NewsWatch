@@ -1,8 +1,26 @@
 # NewsWatch — Apple News
 
-_Last updated: 2026-11-05T19:41:27.496745+00:00 · 50 articles_
+_Last updated: 2026-11-06T00:50:09.091904+00:00 · 50 articles_
 
 ---
+
+## Form 4 Apple Inc: Jennifer Newstead (SVP, GC and Government Affairs) For: 3 November - Investing.com Canada
+
+- **URL:** https://news.google.com/rss/articles/CBMi1wFBVV95cUxQTnI2M3MzM0hJQVRmWUF0M1JHMW83Zk51X1ducjVaLTFoc3QtaGh3QXNyYm9FSFptbW5aUVlBbWRvUnl1MDJyRmp4UHc4VXJSVENKRVhvVi1oMVY5ODJfc21FTmQ3S05HcFozTDlWWmdFN0ZKSUJWOGdnQUJlb1c0UnBtX1VhTlFtU1ZQMHkyODhfcHNVZnl3cWFBM0FteWZvZVVZUmRVSGs3MU1WUHRqYU9FaU9mLThMRmpQU2pyNDloV1ZXUVJhZEVUMnBDNHhYblY3UnlpVQ?oc=5
+- **Source:** Investing.com Canada
+- **Published:** 2026-11-06T00:07:04+00:00
+
+## Apple (AAPL) legal chief sells shares at $325.75 under a preset trading plan. - Stock Titan
+
+- **URL:** https://news.google.com/rss/articles/CBMipgFBVV95cUxNQWRuenVQMWh6ejBGSFVZSVBOcFZDTFVxUkNYTFZ4dUFUZ043NHEtS1czMmo1V0g5cGxEZndtMXpEMThfOERTMUJXUHBjSndERFFnbUR0SFV4ZTJONkhsVVlzY0htSy1FbGhVRnptWnctMEFITEFKMThZcWFqM2gzR2pGcTd3NC1QVFNMS2l2bzJNbmN6bzc1OE5JZHlnWHhvOWE5ZGh3?oc=5
+- **Source:** Stock Titan
+- **Published:** 2026-11-05T23:32:22+00:00
+
+## Apple Reportedly Set To Raise $7.5B From Bond Offering Amid Market Selloff - TradingView
+
+- **URL:** https://news.google.com/rss/articles/CBMizwFBVV95cUxPNF93bEZDOGQ4UDVFMzVFXzQxeUUtNE9hMWc2bF9oZVc3eTVjY2dFLWtES1ZvQXI1elBxQUtzeWF1dTRoRWp2MEtuRWxob3VGRmR1UHNGYjVIaV9IRzlGMFlQZURfanVLaVhoM0M0OVg5cVhDVnJ6RnZjaFhjTDE0UFZuUC0yYnlCYUt2T1k5VU9MMWFKZWlGZ3R4MzhRdjA4RWg3b2U5a2RldUtZOWlPXzJ5YU1MWnNRLThkVlVqb3oxOXJ0SU1wbS1vaDAyQWc?oc=5
+- **Source:** TradingView
+- **Published:** 2026-11-05T21:03:05+00:00
 
 ## Apple Seeks About $7 Billion From First Bond Sale in Over a Year - Bloomberg.com
 
@@ -285,21 +303,3 @@ _Last updated: 2026-11-05T19:41:27.496745+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMigAFBVV95cUxNVWNNdW45THp0LTlZT1lTUngyU2JRSmc5RjlFanZoWFBjRzVwT3oxNW9XTkhVdmpuNl9OcGE4NXR2cFQxVnpwR1ZobXpkcjJoa1gxUlkzLUs4TmhVLVVlWEZJOGdJVGd4SGdCU0hlZVhSRkdxOXlGZ2Z6YWV3RG1uRg?oc=5
 - **Source:** Yahoo Finance UK
 - **Published:** 2026-11-04T11:05:59+00:00
-
-## What Direxion Daily S&P 500 Bull 3X ETF (SPXL) Sold: Apple Leads on Nov. 2 - Yahoo Finance UK
-
-- **URL:** https://news.google.com/rss/articles/CBMif0FVX3lxTE40Uy1QQVA2SnUyRlhuWUpzdHFPY2lpTFhuYTRyckNyNjNMemJlX25jZzRfY0FsWWdnUDY3dXBzaDlwZWxDekZjVXBjLVM5dUFaMEpELWxES0wzR0tlalFVTGtRLVJwckNtdzNjWE1aaVpBS1k4el9nb0VrOC1HaGc?oc=5
-- **Source:** Yahoo Finance UK
-- **Published:** 2026-11-04T11:05:09+00:00
-
-## State Street Tech Select SPDR (XLK) Buys $74.3 Million More Apple on Monday - Yahoo Finance UK
-
-- **URL:** https://news.google.com/rss/articles/CBMihAFBVV95cUxNeEpZX2VBMjctSTVnY0lYYmNHalBwNXBxX21xQmxQYzNJblVzaWlDMEZHcVJwaGhiQ3lrQjZEWjJ3cEVKaWlHY0pVTjBYQnV0Y0xnU0VJOXBWZXZpVkkyTzlxR2hwREpXc3RWZDV3am5ELXZpT2VUMTJMVW5GeGdSUnVuUlg?oc=5
-- **Source:** Yahoo Finance UK
-- **Published:** 2026-11-04T11:04:44+00:00
-
-## Apple Inc. $AAPL Stake Raised by RWQ Financial Management Services Inc. - MarketBeat
-
-- **URL:** https://news.google.com/rss/articles/CBMiyAFBVV95cUxNaXBLWGhzaU9tWjcxTHM2SGNNcXZWX19rcV83emdWYTlPeHJvd1dkdUxDYTZGR09PX2t5Zy1ZT3huUkp3ZWwzMHdxRjhqV2NWa0FqUU1XeDJYLUFwc2QxaHN2SFNpYmVZQXJrWXExU0VzcEhMQVVVU0pkb3M4UElRRmlfYlNtMEpEemxyUnFFcHRfWU9uR0lIdlhPZUgwRWdLbmF5Q2Nuc3dWT0Q5NmFKUzlNRjI3X2lyMVN5a0dhd0MxOXUya1dVNg?oc=5
-- **Source:** MarketBeat
-- **Published:** 2026-11-04T09:49:59+00:00
