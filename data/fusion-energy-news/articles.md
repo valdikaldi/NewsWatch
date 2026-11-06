@@ -1,8 +1,14 @@
 # NewsWatch — fusion energy News
 
-_Last updated: 2026-11-06T18:58:38.579627+00:00 · 50 articles_
+_Last updated: 2026-11-06T23:58:16.186867+00:00 · 50 articles_
 
 ---
+
+## Nuclear News 40 under 40 2026: Supporting deployment -- ANS / Nuclear Newswire - American Nuclear Society
+
+- **URL:** https://news.google.com/rss/articles/CBMilwFBVV95cUxQcTg4cTFXbVhKanZJS0J4OENYNTkwd0FlSF9pRmZRd1Y3M0pMTUNwRlE1b190SHR4TnZPdkRSV2Q1WkhSLTk5NUdlOXkwYTB3a09VdmMxdUJ4LUdXckNqUERDeUdodWtVemRVQmRrVU5ITzhXcmx2WlZ2Z3pnb1Zyb1dXeDRKWjAyTU92VXVWbjJvdlUtZk1B?oc=5
+- **Source:** American Nuclear Society
+- **Published:** 2026-11-06T22:36:49+00:00
 
 ## Thea Energy, MIT collaborate on testing stellarator magnet technology - American Nuclear Society
 
@@ -297,9 +303,3 @@ _Last updated: 2026-11-06T18:58:38.579627+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMimwFBVV95cUxOTXNaZ3hsNDZVZGVYWU1QSElXYVBXa1JGWG0tVExsZHdIUDJzZEZxZWhmR1NmOWRUUUlHM2tTNGdsZS0ybVlhSmxha1NVMkhENXZVOTFISEpOYndVWjdYNS1FVDduUjdsczBNa3BHQ09TZHdWZlBhZUhRZFZybE9jb3VSRkJKd1VWQWZ3N1dCTG5idzBNZkVNMkppMA?oc=5
 - **Source:** openPR.com
 - **Published:** 2026-11-04T12:47:34+00:00
-
-## MPs double down on fusion as Britain’s next big energy bet - Energy Live News
-
-- **URL:** https://news.google.com/rss/articles/CBMiogFBVV95cUxPOW1BX25tdThPTnRwWEhhaml1T1Q5aUpKRDJ0VF9OMkd5UGd0eTNNREFwQUhoOFlDUUlsajVBNVNmQjFjMEtvaUFRZUVyMnVRVi1IdWg0RnA0cThFYzdwMHJrWktFM1pSRFVCT3R0TGdLdkd1R0hJbHNNVklUaW53TzdDNUxrWTVFSGtSZ0Y2a2JMX0RJV1B5ZHFsdERTNlJyYkE?oc=5
-- **Source:** Energy Live News
-- **Published:** 2026-11-04T12:08:38+00:00

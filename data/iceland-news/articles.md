@@ -1,8 +1,38 @@
 # NewsWatch — Iceland News
 
-_Last updated: 2026-11-06T18:58:38.223013+00:00 · 50 articles_
+_Last updated: 2026-11-06T23:58:15.754169+00:00 · 50 articles_
 
 ---
+
+## Discover the film locations for Supergirl (2026), around the Cairngorms in the Scottish Highlands and in Iceland. - The Worldwide Guide To Movie Locations
+
+- **URL:** https://news.google.com/rss/articles/CBMiZkFVX3lxTE1USUEwakZRMEFZQ09IMEw1eFVfdVBtRUhDZ3dJaWhlNlUtelFfQ1B4OXN2UVhTY0V5SzJpSmNJNXB3UFVlZE1UZ3hwVmJ5ZVk3bzRkVXE3aWxkREhEQVpHWVdvMFV0Zw?oc=5
+- **Source:** The Worldwide Guide To Movie Locations
+- **Published:** 2026-11-06T23:08:17+00:00
+
+## Cranbury Public Library presents "Visions of Iceland's South Coast" Photography Exhibit - NewJerseyStage.com
+
+- **URL:** https://news.google.com/rss/articles/CBMi0gFBVV95cUxNM1k2cl8tXzlIcUF4MW03bjR1M0NrNmREUUdRMnh4UEJFOGktZ2xoZ1JUYlBINEpMWVdKRHhNaVgwdkZGNGtXdm1RQWpfYjllcHA3ZHN1NzZYU3hPUTU4NnB6VDR6eE9yX0trVTVMZXllN2JKLVVkT0pGYzJqaTZDNnZIZjN0cFU3V0Q2VmJYMUdjV1plcHk5V3lSWEVJSlFQRjdNaWJMOEFMOElEVERrQmpkWHZWV2VRU2VUd0ZaU2txVjJYVXp3YVY1VFVPMGNYVFE?oc=5
+- **Source:** NewJerseyStage.com
+- **Published:** 2026-11-06T22:26:44+00:00
+
+## What effects did the Danish trade monopoly have on Iceland’s contacts with other countries? - Britannica
+
+- **URL:** https://news.google.com/rss/articles/CBMivwFBVV95cUxPZHhYcTEtSnR5Sm1BUDJVa3BqRUczTEdJR05xMDl3RnRpX2J6X2ttQTdsVlZHSW4wYlQ3WE1mTVJjdjlzV3VHS3gyZVhqMm9qSVRuTDN0U1hBUUpIUndxcnFUYzdEZDd0VjV2NlJhd2xUVThRQTNTMk5kSFJ2QTRQMjh3VHExenlSdWw5NUIzZWMzYm14UC15Vmtnbm1JeG5ud3l0ejFYemFuV2lqOVFUTms0Q0ZqM3RqUThqMzMtbw?oc=5
+- **Source:** Britannica
+- **Published:** 2026-11-06T21:49:18+00:00
+
+## After a Week in Iceland, Here’s the Cold-Weather Capsule Wardrobe I’d Pack Again - Women's Health
+
+- **URL:** https://news.google.com/rss/articles/CBMifkFVX3lxTE84TjJibjJDTzhZOXgzZmZFcWhHVi1qT3EzMHBiNFp3M2R0aGxiZHAwd05kbEN4ai1KTWNpT3VJeFJPV2I3SmVDUzhqaHF5b0FNVEdweFg4eEdxbndicTFZVHNiNVJQM19UUU5DV0xic29DR3Q5QWlMUjMzX2tJdw?oc=5
+- **Source:** Women's Health
+- **Published:** 2026-11-06T19:59:00+00:00
+
+## Kourani suspected of being behind bomb threats - mbl.is
+
+- **URL:** https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMHhhRU9ocHJLcmVOaGR6SlZuYV9TcTROUTNCbnJJMmFOczJnQmw1Q1lYa1JmM0JXUmlXNjd1S0k3bFpuYktoUmNuOEpnYjVmZTdCVVZJMl81b2QxQWN4d2NiRGV0UDFMSlBSX2dOS1B0MHBBUHE3akdxU0xZT3VDNnlaNmVQVVplcWc5UU8xWUpvd01kZmNWanl1VW91TEkzYzA4SWFyVV9Xdw?oc=5
+- **Source:** mbl.is
+- **Published:** 2026-11-06T19:00:00+00:00
 
 ## Iceland Allows International Students to Work Without Separate Permits - TechJuice
 
@@ -273,33 +303,3 @@ _Last updated: 2026-11-06T18:58:38.223013+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMirgFBVV95cUxQVjZ0VDNWMDBGMlFpcEwtRWhEQ3luLXc5ZGtkaFJxdmdQcmhsODVvOTVEdGxSLXJlakNSVkpvQ05XWWJNM1pSeDBoR0MtX3UtSmhMYm9TVG9OYzFZeEQ1amNEUmNRVmpROEIyRGVudjJQUzlPck1BRzJ0eXhXMFdTcDFYZVVTcVR4TS1HczdaOUppVWZxdVRVZzFNOFFjb3pQaVJCN0VUbWliUFJZQmc?oc=5
 - **Source:** Iceland Monitor
 - **Published:** 2026-11-05T13:00:00+00:00
-
-## Navy Seabee helped to build Diego Garcia base, enjoyed Alaska, Iceland - Countywide & Sun
-
-- **URL:** https://news.google.com/rss/articles/CBMiogFBVV95cUxNNEpGajJib18taWRaNW9ITU94Y3hqcFFKWWpzUWdXd2dPR0oxWjFXbVhfQ0M3QmhDeGpaQlluZUdqUHN2Y2lCMUNEenBLQ0FTbVkteDdFY3lPa2NWZ2xyU2ZwSTR2RXBYX3YxQ3Z6cFpnZXR5WVZSYk1Gc1ZHYTZKc0taZVJXanRZMzl2Nk94a25FUFFHb041Vjh2THRhbkVKZmc?oc=5
-- **Source:** Countywide & Sun
-- **Published:** 2026-11-05T12:02:03+00:00
-
-## The Bremont Supermarine Full Ceramic Deep Blue Conquers the Ice - WatchTime
-
-- **URL:** https://news.google.com/rss/articles/CBMikgFBVV95cUxQRkRmS1pjVVhWeXYxaFh5ZEt5LTJJeExfM3g0RVBiWExEMUpYREhwZnZQdHY2Q3RpZ0JqT2FHbWpZSVI5cHVlRG94VWVlSU1yQkp1dDJYcUpKMi1SYnVtM3NpbE5wTC1EZ1VfZGpzWUk5QkhocjBZU2xQQ3dENnNyQ0pTblUyNXNPalhyZDZ5c056UQ?oc=5
-- **Source:** WatchTime
-- **Published:** 2026-11-05T12:00:00+00:00
-
-## Launch of direct flight to bring new opportunities to Iceland-China bilateral ties: Icelandic FM - 巴士的報
-
-- **URL:** https://news.google.com/rss/articles/CBMi4AFBVV95cUxNTExLS3pTNWdmcWtvRHhxX2FjMjlyV0hJc3dVUWZsRkpGYVQ4WG9kcEg4WTlzVnVjVFE3YV9HbFVJSTlWakM4cmcxRG9acnczajFkSVFQVkNrcHhuSnFjaWY4NDJhbnRtWWcxSHFjeUtWTDFPQ3BocVZBek8zSDdjdGs0OVJBTDl2eENmVFFqSmhKQURaenliWjg0M0JVZDhuY2cxR2dHazZ6eWNaV0NIY1NUN1VuMGkyTzdfbGdFMVgyc29jVU9fZjU1RjVWaEQzcTJtNHpJdm5YWGV6Um9ZVA?oc=5
-- **Source:** 巴士的報
-- **Published:** 2026-11-05T11:03:00+00:00
-
-## MPs Propose Second Summer Ferry for the Westman Islands - Iceland Review
-
-- **URL:** https://news.google.com/rss/articles/CBMihAFBVV95cUxPSEpwVEMzWEVGakh6SHBuTmtaNjBxVmwwLTRWTmlFR0pJalUzVVd5S0xpZHk0YkZNYWZjZFRUSUI1V3F2SWI3ZHRTTFZPNzVqNlRoRERDTFNra0Yyb2VrYnhsSDNOTFRTQWJrLXRIVk9sajFhczlEdnZsMjNpVlE5cXdvaXA?oc=5
-- **Source:** Iceland Review
-- **Published:** 2026-11-05T11:00:40+00:00
-
-## Proposed tourist fee may breach EEA rules - Iceland Monitor
-
-- **URL:** https://news.google.com/rss/articles/CBMimAFBVV95cUxNM3pKQmJSV3Z5cWpDTWVEV2tDUFFWLXptTnBQMG1vbEVxSlJvTTM0dEVkV1F1Y3BxLUE1ckJVZnYzTDVBaDRGcml0RTJHRHN6Q20xcWdQR0Y3eGlrRmd2blVpeFFVU3diVGpMWkp2UXRLX3I1alV3WmQ1N2lzbjRBb2dIQk12SFo4Qm9ZLW9VNmI5WWtsa1RGNw?oc=5
-- **Source:** Iceland Monitor
-- **Published:** 2026-11-05T10:58:00+00:00
