@@ -1,8 +1,62 @@
 # NewsWatch — Iceland News
 
-_Last updated: 2026-11-07T10:54:44.845097+00:00 · 50 articles_
+_Last updated: 2026-11-07T17:30:59.864312+00:00 · 50 articles_
 
 ---
+
+## Why Did the Vikings Stay in Iceland? A New Study Offers Answers - Medievalists.net
+
+- **URL:** https://news.google.com/rss/articles/CBMiogFBVV95cUxNT2VKUk9nOFM2MzNZRWlWY0VyQjNsOVBIcGlpVHFqdG54YlhvR2lfQl9mUmZYZjQxOEZwcXVFbUNINVBOS2stM2cycXU3Y3pPbmRJWGdBRlNXWl81MElPY1dhSG9zLTFhZHl2eS10V2FTOGU2VHphMkJiS21lQ2Z3MUdOZlJ1NW52angxWGg4dXNRYXR6WDczLUpyWmpxakVFNUE?oc=5
+- **Source:** Medievalists.net
+- **Published:** 2026-11-07T16:25:45+00:00
+
+## Photos: Lively opening night at Iceland Airwaves - mbl.is
+
+- **URL:** https://news.google.com/rss/articles/CBMiqAFBVV95cUxONW4xV1RIeURHbjMzeXE0SFhTQVhjbDVPUmdBOEFuOVJVOXpsY1RQUjhvT1RkeUxsNlNCSGE4QmhiX0tMYTRhaU1HUHBTMGVfSXpBcVh5NHlGQi1QamNTTkR4MTVQRDVORnU5VnpYVDNkNG1ObTJFckQwNGFHTzgyNU56d2tLczBHanc5dTNyaE0yZzl4Y2gydnNETjJDaGJrQ1dSTENYV2o?oc=5
+- **Source:** mbl.is
+- **Published:** 2026-11-07T15:53:00+00:00
+
+## Midwives Can Now Order Prenatal Tests Directly in Iceland - Iceland Review
+
+- **URL:** https://news.google.com/rss/articles/CBMikgFBVV95cUxPTmFXc1ZhRU4yWks0SEFmcWtWR0hpNmRVdDB4NzhTOUtTcXlfWEM2MVFxZW9KYndfeDdELWthSkxzbWlULU5pbkRhU3NuQXN1Q1NnVnNjSjdNaWJfSGZlMXh3d2Y4YmZWQ2M2cjc2RVBDTVFMY2ozRW5jd1FoSXpJcUMtbEhTcjNCMDhYY3ZOVDZUdw?oc=5
+- **Source:** Iceland Review
+- **Published:** 2026-11-07T15:00:00+00:00
+
+## Urgent product recall issued over Walkers crisps sold in Iceland supermarkets - Cambridge News
+
+- **URL:** https://news.google.com/rss/articles/CBMimgFBVV95cUxPSE5yRUJnZm5wZ2kyQWdNOUtnQm4yeTVXbUpBTHBiYVB2TkU4S0d6OVRVS3l3LUUzS0VyWjhkY2ZTWEFvMkN1OEMzamw3M1JWWmgtOTZ6Qlo1aTJ5SnhhZEVETzZUay1pZ2NlYkZmaE82NXViRVAwXzBmbGhkNGhEVWlpSXZvd0lrVVhSSEVqR0FqelZmQmkyTWNR?oc=5
+- **Source:** Cambridge News
+- **Published:** 2026-11-07T15:00:00+00:00
+
+## Iceland Adopts Alcohol and Drug Prevention Strategy to 2035 - Iceland Review
+
+- **URL:** https://news.google.com/rss/articles/CBMiekFVX3lxTFBaZzBBRlRBR19URmZfSFc0bDBCbm5GRXB5V2YxaW5oWFowUTNoY3lqZnNoQ2diVmIzTnFqSDJjU3VHcGg2RW5IZkFOTi1wbjRrc2x2RlBTOW9XTVhDTnc3d3U2NXpxQ2lmS1RUQkFNUzFOTmlpZGRPY2N3?oc=5
+- **Source:** Iceland Review
+- **Published:** 2026-11-07T13:00:00+00:00
+
+## Vill fleiri hermenn til Íslands - RÚV.is
+
+- **URL:** https://news.google.com/rss/articles/CBMihAFBVV95cUxPWEFudzJYZF9mMGJPVU9HMTUzNnEyOHVac0JGa01uOUpQZzAtSWt5ZjFsNUlSNVBQV3dBdzdKWm93MGFiOE5mZ1lRa1dRcUdEbWdkLWpLZ0VsSWRvUXE1OFR2b0VUUVBNY3dpY3BCZzBkR3dSNGZRd3JBY1Z5U3l5RzYxUGU?oc=5
+- **Source:** RÚV.is
+- **Published:** 2026-11-07T11:35:00+00:00
+
+## 007 First Light Free Starter Pack Lets Players Try The Opening Mission In Iceland - The Otaku's Study
+
+- **URL:** https://news.google.com/rss/articles/CBMihwFBVV95cUxOYk9qMzduWGFmQV8tTDhvaURFbjl6Yk04TjVWNTlxbm82OEtQanJGblExZmxlQkRfWkxFNzhCY0E4NE43SktKeVEtQW1HV00tNlN0NWVBQmNQdmRMRG9wUVU4YUtxUXk5aEN5d3RBVDVhb1g2eU92Vms0N1VvVXFKc2Y1RUR0RFU?oc=5
+- **Source:** The Otaku's Study
+- **Published:** 2026-11-07T11:19:01+00:00
+
+## Minor mag. 1.8 earthquake - 4.3 km NE of Bárðarbunga on Saturday, Nov 7, 2026, at 10:53 am (Reykjavik time) - Volcano Discovery
+
+- **URL:** https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWGNsVnotVVZLWmkzRF80SXJOaDRydjNmYXZ2aDVHNks1THZqZzlJS01OMk1wZkotdktxeHh0RG9hQjRLVFo5dGh1ZkRmVmZmTGFYRzVYRGZKN3VZTG51Y3VzajBmdmZHclRTbm10NDFRdEZBTXc0NTc2aG9VeDBjS1hqMi1IYnY2V3cyMHBwQU9MbVBuRERZemVWdk1JUE5mVG8wdUx4NjBza3NhWUV5N2FwcERSaXdSTkVoTWk1cGU?oc=5
+- **Source:** Volcano Discovery
+- **Published:** 2026-11-07T11:04:17+00:00
+
+## Blue Lagoon Share Offering Opens November 10 Ahead of Nasdaq Listing - Iceland Review
+
+- **URL:** https://news.google.com/rss/articles/CBMiggFBVV95cUxNQy1mU1Q0c2I1dURMNWJ4eW1tcEkxWFlYVDZnNDZROXpsUmhBeThWam5odXZ5MUZJLWZUNHc0Z1BYNmFqUVc0ekV4elRSbkkyMUlOWmwwLV9YVXBMWUJwZHJ3N3libU41M1dJZWd1VEwzZkFEQ1c4VTh5SkJGUnFqcTV3?oc=5
+- **Source:** Iceland Review
+- **Published:** 2026-11-07T11:00:00+00:00
 
 ## How Iceland tackled its substance abuse crisis with sport and what Scotland can learn - The Herald
 
@@ -249,57 +303,3 @@ _Last updated: 2026-11-07T10:54:44.845097+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMiigFBVV95cUxNRW9ZRFdDTWpNRE9oM2thSDh5TjN3WkdhSmNfaDVWd3IyWFZmamZ2UlIyWHBFOG55QUxWemtET0JuSDBGRF96TmwxSU9MaWJFcEdWd2hULW9kbVIzbkFNQlVMeTlDYndfSzE4RUdsVDV0OGQzcFVKcHZKR19sUVZCWDZUbGUxeUNaUUE?oc=5
 - **Source:** MonsterVine
 - **Published:** 2026-11-06T05:23:23+00:00
-
-## Öraefajökull Volcano, Iceland: Facts & Information - Volcano Discovery
-
-- **URL:** https://news.google.com/rss/articles/CBMiYkFVX3lxTE42MTVWWEZCNU1nNkxGWFJuVjZHR3phZE5YWjVWWDlZaG1pdnMwSjkycVVCUVBwMzVQUllLaHFHdjRBM0FsbXVhZ2t0VVFfWEVQMWdSQXlVcmtKRFJfX1pfMzZR?oc=5
-- **Source:** Volcano Discovery
-- **Published:** 2026-11-06T03:33:09+00:00
-
-## Brennisteinsfjöll Volcano, Reykjanes Peninsula, Iceland, Iceland: Facts & Information - Volcano Discovery
-
-- **URL:** https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1LY0NSaUJqcnUxV3llZWRueFFlZXJUNC0xbVJ5MkczY3V5bF9RS3Z6RlFaNEV0TFNlTWF5YlY1ZDVxdW04YjNpMkRlTWhubjJ0bzlmTksxMGtMYkZGLW1kLVVwYzE4NEk?oc=5
-- **Source:** Volcano Discovery
-- **Published:** 2026-11-06T03:33:09+00:00
-
-## Vietnamese tourists in Iceland have to pay an extra 3 million VND to get a blanket. - Vietnam.vn
-
-- **URL:** https://news.google.com/rss/articles/CBMingFBVV95cUxQMVZnWk5CVHVUcmxvd2lFNGNpdGNYWm53V3ZNUlluWjF6ek51XzJoemY2Mnc3Nmo5bWpqX3R6MEh5QWFUU0s2OWZ6NnZ2M0tNMXd6UXBXdVZ5Y19qbS1wTXhEMFlTRmgzYVZWUVpJT0djTndCdzJST2dQY0M3NFdvZE5nZFVSS05nRlpmbGotV3RPUHBJUGl5bTE4bGR6dw?oc=5
-- **Source:** Vietnam.vn
-- **Published:** 2026-11-06T03:07:00+00:00
-
-## Iceland U17 - Transfermarkt
-
-- **URL:** https://news.google.com/rss/articles/CBMijwFBVV95cUxORk1mVFcwWXdWeXJWOGxDeGNXUFJiTllwX21jYml1YzIwajZpUm0tSEsxNVRzVmItN3dHX25GdXhMV3JkX3lEb05CbVdTVDlQc0ZndlVxX25tZlBSRi1VV1IxOVZHZ3dQX1ZvV1NtRXI5ZWI0OEZCNWxUMThBY2NUUjlHZVB4ZTltT0NVSFUyTQ?oc=5
-- **Source:** Transfermarkt
-- **Published:** 2026-11-06T03:00:22+00:00
-
-## Iceland experience available, 007 First Light starter pack released - 게임메카
-
-- **URL:** https://news.google.com/rss/articles/CBMiXEFVX3lxTE9McF9ZNHdUTS02d08xZVdUSlVFWVdSQ1E2NklJYjNTZDgtd2hSMmJ2Uy00ZlNkd0xnZVI1dENkMzVIMjVXZ3hNN2xMSXRUUTUtOUpuWmQxdzdWWUp3?oc=5
-- **Source:** 게임메카
-- **Published:** 2026-11-06T02:17:33+00:00
-
-## Weak mag. 2.8 earthquake - Iceland Region on Thursday, Nov 5, 2026, at 08:55 pm (Reykjavik time) - Volcano Discovery
-
-- **URL:** https://news.google.com/rss/articles/CBMiqAFBVV95cUxPR3ZnVjZQZk5BcmQtNVR3WW02TjliZ24tM1dNYjRnTkNsbWlLNFdybkpaUnF5UG00WHZLS1M1UGc4NWtUZnYweWgwbjAyc2R6dHdoNVNvYmdULWpvdkRuc05fQ3NyNWNMdWJSdXhHLV9wNnhuVEJYWXpXX3lPdk5sU1pMSy1lNjcxYlFfRDBGYW04Wm9Qb0FBQjF0bkxBUUNyRHBkd2ZQQUY?oc=5
-- **Source:** Volcano Discovery
-- **Published:** 2026-11-05T21:12:58+00:00
-
-## Weak mag. 2.9 earthquake - Iceland Region on Thursday, Nov 5, 2026, at 05:56 pm (Reykjavik time) - Volcano Discovery
-
-- **URL:** https://news.google.com/rss/articles/CBMiqAFBVV95cUxPR0d4V0F4dDRNZVpRVUtCazY2U0VMWi1BVXp5d21rNkhUcHhJTFVUV243bF9idlBVQURVTGZoSVR0RFppZ1JFMzQ1Q0MtaE9VRlVhSUZrRlZyODlHSlFSSnRzQ0dibHlsNnZaMnZRU0s2ZTRoWS1WNDFMWTVuam5XM3NiVnA0c2NMTmlIVXV0Vm01NnR5TnAwWnR0THpYS09VNDNWTWJad2U?oc=5
-- **Source:** Volcano Discovery
-- **Published:** 2026-11-05T18:29:58+00:00
-
-## Light mag. 3.5 earthquake - 174 km north of Akureyri, Northeast, Iceland, on Thursday, Nov 5, 2026, at 05:51 pm (Reykjavik time) - Volcano Discovery
-
-- **URL:** https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTy11NGxNNGFDWXZoa1p3NHk4RFBMc2kwTzU2anhLd19DS1ZMWklCcEpFVE5MVUZNYjI2b1NBaENGNUhBRks1WFpiMEJzSTZTZGx3NzduY3lVMVFibUZtak1ibzRfc0ZZdzkyY1RMOFdwTmVGNnphZE9sMUxuS3JQLXgwa291N1l5RXp4R1NhVXh1WlBEVTZncFlTa1RIWUhjdnBUb1IxeUI?oc=5
-- **Source:** Volcano Discovery
-- **Published:** 2026-11-05T17:55:53+00:00
-
-## Light mag. 3.5 earthquake - 173 km north of Akureyri, Northeast, Iceland, on Thursday, Nov 5, 2026, at 05:34 pm (Reykjavik time) - Volcano Discovery
-
-- **URL:** https://news.google.com/rss/articles/CBMiqAFBVV95cUxOY2llbHNqZDh6NFVDZjR4ZTdDZm5hel9YdVpIQ1lJMlczU3VNMEFBMXVpeWhVWnlQb0NfMzVocWhweUNnU25ZY3BEektNWkdvd2pzTnFaQnByWHVPSE9EelpJcWlVNGxtT1ZkNjdxWjY5U2Q0V0xkY2swclNfYnpnMjNOZFBfWk9iZWVHbEdxbUpiMjFvcW1paTgtdjlQeFVBcUxxMmprcFI?oc=5
-- **Source:** Volcano Discovery
-- **Published:** 2026-11-05T17:49:00+00:00

@@ -1,8 +1,38 @@
 # NewsWatch — fusion energy News
 
-_Last updated: 2026-11-07T10:54:46.362873+00:00 · 50 articles_
+_Last updated: 2026-11-07T17:31:00.304995+00:00 · 50 articles_
 
 ---
+
+## DJT stock plunges nearly 70% in 2026, causing $2.2B losses for investors; Trump retains $460M stake. - Pluang
+
+- **URL:** https://news.google.com/rss/articles/CBMirAFBVV95cUxPWlprYzB0T0xDZXkteVdYcl91S3p1WWFwUDF2NloxU0Q5MGhPWm5hMHU5c3Q4VVE5c2YwRkpZbXBuZnk4aWUwUm50WEtReFVsREhxUnJZc2hPRDdpTlg3b0ExSkdlWmpGY3lqR3NCdlJmdDRzMWhCMWRVbUlnQUR5Y3RNSnZZaEFTVjl0U1BMRERHa3V0S1ZhX2YwNW5tWXktRzhvZXZtRjhEb0hq?oc=5
+- **Source:** Pluang
+- **Published:** 2026-11-07T17:08:02+00:00
+
+## Oxfordshire fusion machine upgraded with 12-tonne beam box - Herald Series
+
+- **URL:** https://news.google.com/rss/articles/CBMimgFBVV95cUxNSWZndlozMHhHTzVIYnM0X1lETmxwS1lEYk1PLVdoNUFSSjdrdl93azF3NUs0UWZ6WC1aMWdEUGlkaTFrSUF0TDFtYXR6SWhMR01SVzZZSmY1R3FaV1VtZUYxZDFIMkREWTJpMThoMXJHXzlUUXR6S2xwNkxOV29SOE5FYU5abDgwcXJHNVEtbEQ1SXowTmJEZ21n?oc=5
+- **Source:** Herald Series
+- **Published:** 2026-11-07T16:00:00+00:00
+
+## Trump Media (NASDAQ: DJT) And Fusion Energy Firm TAE Technologies Set December Shareholder Vote On 50-50 All-Stock Merger - Foreign Policy Journal
+
+- **URL:** https://news.google.com/rss/articles/CBMi-wFBVV95cUxQdkNzclJoVEtMVFZ2SHBDWDlXYjMxckZmQmdGa0E2alhUMF9JRkItZEl3NTBaZ0VCVFNHQnZFX0RBY01odFJ2eGpvQkd1emhJMzBHM2ZnRzYyTmdIRnhJMGhGaWt2SUlwRlNTTHdMS0t4eUd3X29uTDVhU0s0Q3Foa2JHWHRwUk45WU5JMWdIMVBnZzY4amZ2UGpUN1dqSGRzb1hXaWRtWlhDRmxWVWdWVnpBblVxelJFSWdzTFhFVnFBdkZaRzN2S2xFTVBEVVJEM2xNelN0cVlNMF9Wal9uMG8wbDdFUm9VVzFRY0xoRzktWU44bUtudm9hZw?oc=5
+- **Source:** Foreign Policy Journal
+- **Published:** 2026-11-07T12:59:00+00:00
+
+## The race is on to build the first fusion power plant — and Europe is l… - richtv.io
+
+- **URL:** https://news.google.com/rss/articles/CBMitgFBVV95cUxOY0xlb3VORVRaR21mOFM4ZkdOLUVyaWRDaXROcUp5VzZfOUNweWlKZFdOS3A2YVVYbEV3eWtpei1xTHdsWUs5cEowVGdlaXFFWVJBMWFTQWQzSWhpaXdDM1Mta0dBOXpodGpPdHdZaUNFSl9paGFtOG8zREVEWlU3ZU5XN0xPZDFRM0Fma3RrTGYxcWc4cjVhVFk4TVFGM2E2NURwT2x4a2FLaEJadWhDSllHZDQ5QQ?oc=5
+- **Source:** richtv.io
+- **Published:** 2026-11-07T12:44:52+00:00
+
+## NC State and ORNL 3D print full-size tungsten tiles for fusion tokamak - VoxelMatters
+
+- **URL:** https://news.google.com/rss/articles/CBMiogFBVV95cUxPS1BrSFVSR1ZKalUwMHAxaUp3UUVFOVhzLWxzZm1veGZZN0o4bTBBZXd0cDdlUG53dEJzdmpOOXpza0NQczdZdmNBUkQ1ZXRXbGxtOUl0bFBhc1ZBeXpnWGpyOXFfZTZQTVd6dGl4MC04aV9zSVlEVG5DRllwOXBybVBVU2VKeEdlUWFpNWZDUjU2eEh2ZlhoeEFrSkVNRks3VXfSAacBQVVfeXFMTWlpdEVCMzFyelpzRW5WQ3JTN083OEpzRDRLYXd0ZUo1NGtJMTJpSnhBY2dEYnhxSWtSNDJOZjdLTjlhLUhGMlBCQjNZVVVUNXJkRVhVYnlMNDV0QnRZNzlWeTUzaGVuWE4ybHVWN1NJY1F1NHVUeXFVNS1CSlo5cDBBajlERDZTdWFMeXdyRHFFQmw1VjdIbl9PbWlVZV95RWN3VGpsRzQ?oc=5
+- **Source:** VoxelMatters
+- **Published:** 2026-11-07T11:04:01+00:00
 
 ## Proxima Fusion expands Japan supply chain deals for fusion power ambitions - Traders Union
 
@@ -273,33 +303,3 @@ _Last updated: 2026-11-07T10:54:46.362873+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMi2wFBVV95cUxNM3VubU04X3RocUlWd0JKNWJZamhHS25UQ0s1czhnTVJILVhiRk5NOUVSYXc2MmVnQThqNDEwcnl1WTlSbUpXQ3RsUl81Y09uMFZMOXlzeDh3b0J2NUN1SUFEU3VsdURmcWZic2hVVFhRZnVQc3pkSlJMdVQteVJfeHlxLWlYbGY0TjVnM2VqNGVFWVFxYXRwcU54dzlQMk1qYzJZcDItM3lLRDBDeTAwaEZrQVZaTGVGbjhDN2RlazgtelZ2TEo1QWtjZWNxY0xlbHVJYVNWQ1hqVE3SAdsBQVVfeXFMTTN1bm1NOF90aHFJVndCSjViWWpoR0tuVENLNXM4Z01SSC1YYkZOTTlFUmF3NjJlZ0E4ajQxMHJ5dVk5Um1KV0N0bFJfNWNPbjBWTDl5c3g4d29CdjVDdUlBRFN1bHVEZnFmYnNoVVRYUWZ1UHN6ZEpSTHVULXlSX3h5cS1pWGxmNE41ZzNlajRlRVlRcWF0cHFOeHc5UDJNamMyWXAyLTN5S0QwQ3kwMGhGa0FWWkxlRm44QzdkZWs4LXpWdkxKNUFrY2VjcWNMZWx1SWFTVkNYalRN?oc=5
 - **Source:** Newswise
 - **Published:** 2026-11-04T22:35:00+00:00
-
-## DOE's INFUSE fusion vouchers open to lab consortia - R&D World
-
-- **URL:** https://news.google.com/rss/articles/CBMiowFBVV95cUxOSm9BUHg4SWc3anNLZzhsNFVmTDVHcV9Cdm50QU05cko0VGxHTEg0bjJpTEtRcXNubkU1T05jRUJoNHZialJ0eTViVnZUOWdGVGFUZDZRcE16bHVHR1JSblFGcXVCWEU4b2dTZHBia0tsOWtTc2MxZHJ5NW55bnZJbVVvM1dsVHRFSDhnRFh4OER4RXdnZTVJeUFhWkVHR3VtYzRF?oc=5
-- **Source:** R&D World
-- **Published:** 2026-11-04T21:48:12+00:00
-
-## Trump Media Group Sees Merger with Foothill Ranch-Based TAE Technologies Late ‘26 - Orange County Business Journal
-
-- **URL:** https://news.google.com/rss/articles/CBMiiAFBVV95cUxNakVXSWk1OFdKSVM3b3d6cXR4aWZPcG5rMjczeXNLbEVmaXpXblZCZFJwVmVJS1l2LXdLdjdqNlRHZHJiU1ZQV0NrX2ZEdjA5dXhGQU9FTlNqdk5MRWE4bWtvOW4tRFVub2hQZGluVF9fcDd1X3UxU0g0LWJpcFVhV1poX19rZFFx?oc=5
-- **Source:** Orange County Business Journal
-- **Published:** 2026-11-04T20:56:13+00:00
-
-## New zinc-ion batteries retain nearly 90% capacity after 10,000 charge-discharge cycles - Interesting Engineering
-
-- **URL:** https://news.google.com/rss/articles/CBMiggFBVV95cUxONEt1S3lMcExKeTFQTnpBUklnekxfdHhpVTFvRW8yYVJRVkZKc0lFbTBzbW5EUkNsUjZhbk1DTVpGaTg5SXBMdm9WQUlueE9qcWk4enZDOHN2LUJkNkdVcnczdDN4aUlaM1BScEd5OFpST3hZSjJwTVB1c09Dd0UwbUNn?oc=5
-- **Source:** Interesting Engineering
-- **Published:** 2026-11-04T17:18:00+00:00
-
-## The science will melt your mind but UK leads race for £12TRILLION nuclear fusion prize - AOL.co.uk
-
-- **URL:** https://news.google.com/rss/articles/CBMifEFVX3lxTE4xNFN0cVl2TEtSTWhFNzhSNWdBdWFkaFNkNERURFVLUVltR3p3TXNWc1ZvSGxCNWFrMGp6ZXJxTGsxVzBvZE9FWHVwSWdUeElvY3pPZHV2QWdwSzNXa3kwSzBrSUxjNkJRTk93cWNEeHBYemhHLUdYOHJ3QkE?oc=5
-- **Source:** AOL.co.uk
-- **Published:** 2026-11-04T16:36:16+00:00
-
-## The AI Boom Needs More Power. Could Nuclear Fusion Be the Answer? - www.cheddar.com
-
-- **URL:** https://news.google.com/rss/articles/CBMimgFBVV95cUxQb0loVElNX2QtcXphZ2VFanZmNEFlQWZsUDUwaWs1M1QwZV96aE5uNnFhS2F0ZHZSVFFVWkNxakRXeXNWNk9zUEV0V1M4bUFteEdYZG5DcWV5N3gtcHJwT2JBYWJBa01VeVFoZmZsLTJ0bmZjNGRoVGd6aHRWb2dfcFMwZndFRzBhOTNmWVJZMHNqaVQzZlpZaG1R?oc=5
-- **Source:** www.cheddar.com
-- **Published:** 2026-11-04T16:17:47+00:00
