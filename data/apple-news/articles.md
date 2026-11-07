@@ -1,8 +1,26 @@
 # NewsWatch — Apple News
 
-_Last updated: 2026-11-06T23:58:14.700175+00:00 · 50 articles_
+_Last updated: 2026-11-07T10:54:39.817536+00:00 · 50 articles_
 
 ---
+
+## Apple Inc. $AAPL Shares Sold by Arnold Financial Planning LLC - MarketBeat
+
+- **URL:** https://news.google.com/rss/articles/CBMivAFBVV95cUxQeXJNNnh6eDBWV3I1YkNNYWotbFl0VkJ1V21WbkVQR1NEN3dDVE5PZTRlc0pDTXRCZVR4M1RrNnZmcVV0aEdnb0pDczExM21KZkszWlJjdnh2NU45S3NRSXE4RnlyWnlhOUlUOGlrY0ZYcU5meUl1TnVXWjhaNXBiWEg3enZ3TUxFZ2hXYVMzM1NoeWtveEo0VlNFLURqX1BzMHRpSHpfYk5lX28xcUNRc1Z6OHFsVzBTSnJKNw?oc=5
+- **Source:** MarketBeat
+- **Published:** 2026-11-07T10:15:22+00:00
+
+## Apple Inc. $AAPL Shares Sold by AMI Asset Management Corp - MarketBeat
+
+- **URL:** https://news.google.com/rss/articles/CBMitwFBVV95cUxQbWJZQ2JDUmc4S2gyZDRwblJzUE9Eak56b0V1dURfaFFweFpsOGllN1Y3NnVVMFc4cTZVcVBPbThid0oxT3RGeklaNDZOT09YbmtjSEVoS01VdGFDLXlZaWs1RGF3cW91OEQwemc0V2RFVnN4M0U0Zmt0NjZlcFAxc0RubDVaVnViZWQxNnpUSWMyenBLemJndldkaGsya3VFLUdYQlB4a2RTZTRfcS1lU1RnSTN2Y1k?oc=5
+- **Source:** MarketBeat
+- **Published:** 2026-11-07T10:08:00+00:00
+
+## Apple Watch 4 Frys - Apple Inc redesigns its stores for 15th anniversary by removing Genius Bars adding trees - auroradesio.it
+
+- **URL:** https://news.google.com/rss/articles/CBMiUkFVX3lxTE5RWmJrbkJYYWdxakQ3UThoYWFRRHBxdU5rcVhzd09oaTNMVno3NGt0SVNic0NNaXBJOFFkQmNYcThhSDZFNEhGNGNwTHA3U0lHM1E?oc=5
+- **Source:** auroradesio.it
+- **Published:** 2026-11-07T03:13:47+00:00
 
 ## Apple Nike Plus Watch Series 4 - Apple Store sales in neutral ahead of new Apple Inc. AAPL product releases - auroradesio.it
 
@@ -285,21 +303,3 @@ _Last updated: 2026-11-06T23:58:14.700175+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMifEFVX3lxTE84QXgzWUhYbkxQQVhtODEtYlE0T3lXTXUycjFnX2xrTWs3bGU4X0VHbnE2eGxjWVNnaTcwTE9fOHV2YjFKcWdSRkVtMUZnYXFGUHNXUjIxT2gtOHU0S0xFMFoxR1pWTTY3cGtBbEpFZ2JwcGZLTVBJbUVTTl8?oc=5
 - **Source:** Seeking Alpha
 - **Published:** 2026-11-05T12:54:50+00:00
-
-## Binance’s AAPLUSDT Tracks Apple Shares Without Ownership Rights - www.tokenpost.com
-
-- **URL:** https://news.google.com/rss/articles/CBMiWkFVX3lxTE02NDN4elRGanBRMWxOS2NjVUZlVlFZd3hsenp0YlN0V3VfS2FRQ0ZQUDVzSkt0NlVqNXpPSzVrWDBvQUhDeGJNUW41M1o5Z2tLVERFTlJXdzE5Zw?oc=5
-- **Source:** www.tokenpost.com
-- **Published:** 2026-11-05T12:49:26+00:00
-
-## Amazon, Apple, FTAI Aviation And A Basic Material Stock: CNBC’s ‘Final Trades’ - Benzinga
-
-- **URL:** https://news.google.com/rss/articles/CBMiygFBVV95cUxQM3dfWHBucDZYRmVXOW1zbVlQdXhVQ2JHWmw0RGxCajIzMFZ4ZEtXam1aNjZfVEFpSExvVHl4RWxKTVA1eWk0OERKQkYxSDRNejFxUG0ycThFOEU3N0JGZmJvUkl3TnVhalZLS3NRaTdOMi02bW5HUmlTa0lyaUpoNGgzU2hOcGZaSGJnMHo5cDlJVHNXU09HM3l1UURCa1pQc091aEc1R0FUUC1jUG41SThIN1RWNW9VQkpQLXZpZmp2bktJWEVYNmFR?oc=5
-- **Source:** Benzinga
-- **Published:** 2026-11-05T12:12:08+00:00
-
-## Invesco NASDAQ 100 ETF (QQQM) Adds NVIDIA and Apple on Tuesday - Yahoo Finance
-
-- **URL:** https://news.google.com/rss/articles/CBMilwFBVV95cUxPRFpZSXd0ZWlUWVpDbjl0M0ZMa1FGNjJMb0ltdFEwbS1RZWJNa0prbnBzM3lVNnVENTM2ZnBOcFpCS0hmc0dMUEFqYms3TGdjSFhpOUJrZnhHYUxJOUdRTHoyRHJ4UXhROHBheFBpYjV6UGFQZVg2WHdVVU5ONER5Y0VoYlZzTHl6emtnUUtaOGpQTDdJY0hV?oc=5
-- **Source:** Yahoo Finance
-- **Published:** 2026-11-05T11:05:16+00:00

@@ -1,8 +1,62 @@
 # NewsWatch — Iceland News
 
-_Last updated: 2026-11-06T23:58:15.754169+00:00 · 50 articles_
+_Last updated: 2026-11-07T10:54:44.845097+00:00 · 50 articles_
 
 ---
+
+## How Iceland tackled its substance abuse crisis with sport and what Scotland can learn - The Herald
+
+- **URL:** https://news.google.com/rss/articles/CBMingFBVV95cUxNM3BqbkNpY0trZ2JoTTdaQW5ZTGVVT29tMGwyXzhRWmdhTTFIYjljTnRRdVRQSHU4VVRsSUtNYTdsUEFMbjRkckp6MU5HX01CV1JHMHh5T0VGdktRTldwNEVZUXhCRGRYUnNrXzlGRllta2dDUVZIRmRjQzJ3emlCRENDa1ZnZlY1aVdjc1hTaEFVclBJem1PY2lRNmhrQQ?oc=5
+- **Source:** The Herald
+- **Published:** 2026-11-07T09:01:57+00:00
+
+## Study in Iceland, Work Without a Separate Permit Under New Rules - Bloom Pakistan
+
+- **URL:** https://news.google.com/rss/articles/CBMilAFBVV95cUxQbWZXZG94T2pTMUlYUGdoaTVfQWpCMnRQZmdLbXhLLTJ0R3lVNjJ1Q0lTWmNMODRHeVNEX05ERUxVZklfSnF5Vkx5cHFTSGhHSzFnYnlWOVUzZXBrRl9FZXItRURDZGVWaFhzYzE2S2pNZXlGZWNjZnFLUXF6WnhveXZ4QzVDZlBGVmo0RnA2QkdvQThy?oc=5
+- **Source:** Bloom Pakistan
+- **Published:** 2026-11-07T07:43:43+00:00
+
+## Data-Centre Imports Push Iceland’s October Trade Deficit to ISK 70.3 Billion - Iceland Review
+
+- **URL:** https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRmZfS3RsSUpraXhnQk14YWRBOWJ5VXFIUTZJc1I2WGM0R3EzbW9zQXVvUVVwUjRTNkppRnV1MjhlN1Y5eURmbFhRTjFRanpVMWlmelhzNkQyTXRVWkE1Z1ZlRzhFcTZhZnp5UkpkdUJmWU9HeDYwd21Eem1aUmJBZ3o0eHYyam41ZzZr?oc=5
+- **Source:** Iceland Review
+- **Published:** 2026-11-07T07:00:00+00:00
+
+## Iceland U15 - Transfermarkt
+
+- **URL:** https://news.google.com/rss/articles/CBMilgFBVV95cUxNc29RekdjNXFVUTdIYVVkSFRFbjRoa19LanZvLVAyYXNFbGtDMGZ0VDNkaDhQVWZOWHYxbWZDcGFTUnhJeHFvY1dfM0lmYjYyRU14TlNNdGx3WElzNmUyQkFkcDdJQ3RQV0FvbERlYTRycm5PZDVzU0x3Zk9WcGVGeTF3RmgtZzBWeU5SN2F0ZUJIU083SGc?oc=5
+- **Source:** Transfermarkt
+- **Published:** 2026-11-07T06:54:29+00:00
+
+## Bardarbunga - Volcano Discovery
+
+- **URL:** https://news.google.com/rss/articles/CBMiXkFVX3lxTE5mLWs2WEZvYlZQaHdNVnR3UHg2RHlZOTQwVDBGQ1A4N1IxTWF3U29RT3RFU0d4VER6b2NYNGphVGhPR3FyYldfNG1BZHAwYm9LMW84QzgwaWRicGlPUlE?oc=5
+- **Source:** Volcano Discovery
+- **Published:** 2026-11-07T05:42:53+00:00
+
+## Would you spend $25,000 on a duvet? This Icelandic brand is betting Dubai will - Arabian Business
+
+- **URL:** https://news.google.com/rss/articles/CBMitwFBVV95cUxNd1pzWkt2SVhrRTlJTXFiZno3ZnR6QWJ6bjZ5X1U4OWRmSmZFZGxmWEd2TW1RY1lQeERmQWlyQkw0d1M5TzRRWHZHYWc0d3JiVVJfbG1KbnVmRzNuc2U5TzRUY1djQW1QcWM3b29Hc21iWFZhRTZSME1CbVpvRlJIV19vYmdDYm9odGlaV3dtTTZwVFk2Zmtad2tMcWR1ZWprdGJYWHp2RzRpVm1jQjlkZEREal9xZW8?oc=5
+- **Source:** Arabian Business
+- **Published:** 2026-11-07T05:11:07+00:00
+
+## New routes added to airport an hour from Carlisle as it prepares for winter season - News & Star
+
+- **URL:** https://news.google.com/rss/articles/CBMioAFBVV95cUxOVzlybndFWERjNlp6YWlvVURENjNtYk4wVXROSjRLYWVnd3FQRER1NXA3OVRSenVLTjRVTnZIZDRPeWhSdEhqZEtuWHdEeTBNT1pXd1JWUFFjcXVEV0JRRDF1ajFrVHE0MnRBd0ppTVR4alFVeFNIWnZlcW9na2hHSjNIUW5xMzU4X0JZWk5UcmFuTUROSmdxaG1JNG1OVy1P?oc=5
+- **Source:** News & Star
+- **Published:** 2026-11-07T05:09:00+00:00
+
+## Newtown shoplifter's impact on stores laid out as he's banned from Spar and Iceland - County Times
+
+- **URL:** https://news.google.com/rss/articles/CBMikgFBVV95cUxQY0tIamRYLU05U0V5TXY4WmZfXzFLY2U4LXBzdHNWc0g3QmduTngzWjl0c1A2ZmhpRjlKZ1MzeEg3MXhfeTJlYnMycUFOVGViMEZ5cXA5RW5PaWVSVUlzRWNzSmpBcHBNT2dZWkpKNnlFLWh1dDZtTXZKZGNhX01sRmExUU1SWGtUWVNKUnFGS2U5dw?oc=5
+- **Source:** County Times
+- **Published:** 2026-11-07T05:00:00+00:00
+
+## Erna Traustadottir - Iceland - Player profile - FIBA U20 Women's European Championship Division B - FIBA
+
+- **URL:** https://news.google.com/rss/articles/CBMizgFBVV95cUxQSlFucUwxYVp6eGxnYlhCeGQtWGRQU2hYQVp3RTRuWXhlX3Rua0VHSzc5cGtNZVNvVEU4d25hUkItb2x2YWxEMDNQamkxLWJoQThDRGRhSTZqdzNmdlBXbS05SWdXMUZmOUhwM1hlbVdpUmNGZDhaZTFOdkFOaHhpMHpnbGw0cUhLcFpUcUdlZ2VFaTY5bDNGSkJUV29LMDVDSnk5Vm9YNFNVRHpRb0xPS0NDbE9Oc0c1NjdkS1JVYklUelZqc3FhTEFMX1JCUQ?oc=5
+- **Source:** FIBA
+- **Published:** 2026-11-07T03:52:41+00:00
 
 ## Discover the film locations for Supergirl (2026), around the Cairngorms in the Scottish Highlands and in Iceland. - The Worldwide Guide To Movie Locations
 
@@ -249,57 +303,3 @@ _Last updated: 2026-11-06T23:58:15.754169+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMiqAFBVV95cUxOY2llbHNqZDh6NFVDZjR4ZTdDZm5hel9YdVpIQ1lJMlczU3VNMEFBMXVpeWhVWnlQb0NfMzVocWhweUNnU25ZY3BEektNWkdvd2pzTnFaQnByWHVPSE9EelpJcWlVNGxtT1ZkNjdxWjY5U2Q0V0xkY2swclNfYnpnMjNOZFBfWk9iZWVHbEdxbUpiMjFvcW1paTgtdjlQeFVBcUxxMmprcFI?oc=5
 - **Source:** Volcano Discovery
 - **Published:** 2026-11-05T17:49:00+00:00
-
-## Rang Tan Iceland Toy - Clearcast halted Iceland s plans to reuse Greenpeace Rang tan film - auroradesio.it
-
-- **URL:** https://news.google.com/rss/articles/CBMiU0FVX3lxTFBPNy1tTlprZUFRT2Jrd3pHd0o4SnVDX1RXWmF2TDVSQzRDeGNFb3dnU3JQaHJPMkUwSjV3U2ZxdHI3ZVRLOTM4LXdGVTdpYzdjalNV?oc=5
-- **Source:** auroradesio.it
-- **Published:** 2026-11-05T17:35:32+00:00
-
-## NWT premier and Tlicho grand chief attend Actic development summit in Iceland - Yellowknifer
-
-- **URL:** https://news.google.com/rss/articles/CBMitAFBVV95cUxNSVJCYVI0Q1czT3o2Y1BvUmtiVXUyRFFIOGs0UkpQSjNRaXhZejFXcExvUF9BZmdOUWU5dkhmTjd3LTVmd3hrNmdMNDJoQ2Q0YlhBYVJJamJBcm9ZazF6dHI0TksxbVRFWkdmRnphaEpmZGwxU01tN2d3R0F6S2VJWENMbFhsdUFEX2tiNmIxTjVyU29aZkhiV2VHVUtVbV9PVXRPY0pETVQ1RWFjRUp6aFJjZG4?oc=5
-- **Source:** Yellowknifer
-- **Published:** 2026-11-05T17:12:38+00:00
-
-## Aisles Abroad: How a UK grocer is looking to its past to help tackle today’s affordability crisis - Grocery Dive
-
-- **URL:** https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdkplV1h2elFFWndhWHRQVHZ2V0JYQ245ck5ka0V5YURyR0hEVmNibWRaU3h2eHh0cjI1aG9pdGt5MzdJRzRoRWpLQXlaVEgtU1pQM0t6SWhBRDJtZ0hiWnFwMVdFdTNqd1VfM0kxTHdWTWNFU1c1STBVb0xOY0dYZ0lqUVU0cmV6aDJhRTRfR1BEaFRVcG5ta2NFeUJKYlFIMW04MW16eWhVWVU?oc=5
-- **Source:** Grocery Dive
-- **Published:** 2026-11-05T16:41:42+00:00
-
-## Iceland Airwaves 2026: Eight Acts I’m Looking Forward To - Iceland Review
-
-- **URL:** https://news.google.com/rss/articles/CBMihwFBVV95cUxQVm5zcHNYbGhLLWl5RVIzX3NjTktkekZGVXdTVldzQ3ladHQ2TnZzQUpFeDdHMjNUYmpIXzZQbk5hUU9OZERTN2RVNVhxdThTa1ZVS2JRVVJoLXIyejNhTVEwbEZFVjN0OEVlcWhHNTJNMElVa2lkT1ZoaEhXUUczeHZ1MHlEdDQ?oc=5
-- **Source:** Iceland Review
-- **Published:** 2026-11-05T16:00:38+00:00
-
-## Icelandic land-based Arctic char farmer files for bankruptcy - Undercurrent News
-
-- **URL:** https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdU5QYXlZRU9uUkM5SklCSjlSbXJ1UW9pNHRwSmkzVm40ZnFZRlN5MkRHd0NiM3RhUnZrcGxiNHR4dUE5aWhOdUdOX3A1cEpOLUJ1SVhZLThURmlaVXVlSS1sUzBuTW90Uk93N0tjUmx2RUUzbXlpOTNlMUZ0bGVZaHpSOHdrOXVtQ2ZOdUI3M0xlTkh6WmZ1QUxnUGs2Qy1fMXFUNnBrMEU?oc=5
-- **Source:** Undercurrent News
-- **Published:** 2026-11-05T15:58:00+00:00
-
-## Facebook blocks ads for Ólafur Ragnar Grímsson's book - Iceland Monitor
-
-- **URL:** https://news.google.com/rss/articles/CBMipgFBVV95cUxORE9Vd0FnR1Zjb0NJcm5heTFyeks4dmdJamhiT1lubXVBclJTUVBsMWdfQU9xRGgxTHVQZHJmaFlZR205c0w3eGNuRUxIV2VTbzdxTGpEUEk4VExBQlhYcUpWSFJ4SjdFM1JJWmVFTXpzUGtiYWNtNVl6NDRQYmJMS1Z2YWdLVmVKcWE5VElWekN5dnN1bkd3TGV6UzczY1VLSkk2TFhn?oc=5
-- **Source:** Iceland Monitor
-- **Published:** 2026-11-05T15:30:00+00:00
-
-## Wendt bulldozed way through Iceland, served in Korean War - The Norfolk Daily News
-
-- **URL:** https://news.google.com/rss/articles/CBMi4AFBVV95cUxOZHhiM3NZNDN0VFVobzUwdzA3aEI5T2pJRkR3djdBdlJDTUF2SUhKaXJVREFDY1B2Z0FadlFGdTVNdnpROGdaWWcyXzQtV2NwM1h5cWVLNFJjbXZ5ZDl1YzVkbF9zTUEzUGgteEV5TDZDdTZlVEJFR1p3VS1WcGhRTmJ0TGMzLVF2S1FBUnhSdFdPakZpWVdjM1Z4ZHFpWC1kYXpRQ1lWbzA4VXo2dVR1eDBIckd0aWwyUUo2Tzk5cUxpSWxEZGVkMTF2Y1hhZGh2eTBVX0FMMWtkcnBuOFFQMQ?oc=5
-- **Source:** The Norfolk Daily News
-- **Published:** 2026-11-05T14:55:00+00:00
-
-## ‘World’s loneliest house’ powered by solar panels from Lee-on-Solent firm - Portsmouth News
-
-- **URL:** https://news.google.com/rss/articles/CBMilwFBVV95cUxQb0dteEk3WUFOOGpzNjZkYmZDQ3Uya0JSYlozNExLUEJtbWUzNVowV0dkX0FrTTRacjZIT0txOG9sUS1uVXpEVExXVWVQbDg5dERmV1RNUjd5eGZMUmdsUGw2clMwZWhIRzQ0OGhmS3RFM0RWTWVRUXBxX1dzMGFJVm5BOHJ4NjZOOTV5NExsaEdkaElYRzBN?oc=5
-- **Source:** Portsmouth News
-- **Published:** 2026-11-05T13:04:00+00:00
-
-## Relocating road would be a major undertaking - Iceland Monitor
-
-- **URL:** https://news.google.com/rss/articles/CBMirgFBVV95cUxQVjZ0VDNWMDBGMlFpcEwtRWhEQ3luLXc5ZGtkaFJxdmdQcmhsODVvOTVEdGxSLXJlakNSVkpvQ05XWWJNM1pSeDBoR0MtX3UtSmhMYm9TVG9OYzFZeEQ1amNEUmNRVmpROEIyRGVudjJQUzlPck1BRzJ0eXhXMFdTcDFYZVVTcVR4TS1HczdaOUppVWZxdVRVZzFNOFFjb3pQaVJCN0VUbWliUFJZQmc?oc=5
-- **Source:** Iceland Monitor
-- **Published:** 2026-11-05T13:00:00+00:00

@@ -1,8 +1,56 @@
 # NewsWatch — fusion energy News
 
-_Last updated: 2026-11-06T23:58:16.186867+00:00 · 50 articles_
+_Last updated: 2026-11-07T10:54:46.362873+00:00 · 50 articles_
 
 ---
+
+## Proxima Fusion expands Japan supply chain deals for fusion power ambitions - Traders Union
+
+- **URL:** https://news.google.com/rss/articles/CBMikAFBVV95cUxOX2xXVVV6N2o2a3p3cUpUZmhndFFXUFQ0Rk1kSHdoUmdGM2lmNVBXMTdIX0poWmZhUUNxUDVDN2s0OFBYb3lRVU9VemJ4NVM1UW5xT28zbk1hLXllX0FPVDlyLU1PU29jOHhsYkN6dDM4NWpZbkZacExsUGVCY0REbi0yek5Qc3NzSkhxQzNSNnc?oc=5
+- **Source:** Traders Union
+- **Published:** 2026-11-07T06:25:24+00:00
+
+## The race is on to build the first fusion power plant — and Europe is looking to Japan for help - CNBC
+
+- **URL:** https://news.google.com/rss/articles/CBMiggFBVV95cUxNRDNZcTFDRkFORlMzQk9FU2wyMVpvY1RPMzRHSUZRSGJ4S2x2cmJKMHgyOHJGSWtXUU9wU2FPWG1xNUg2cVRKOGY1NVNxZldqSnFoTnZCaE1oS0ZuWVVKVkVlUzEzbG5tcGlJZ2VBMGxobGlkSjFRbFRXMXJEeFBMeHpn?oc=5
+- **Source:** CNBC
+- **Published:** 2026-11-07T06:00:01+00:00
+
+## The Tokamak - INSIGHTS IAS
+
+- **URL:** https://news.google.com/rss/articles/CBMiZkFVX3lxTE5tNlYyeHlUcldBRktBYWdsSFVmQ2VraXJOVFRhMFEyQ3pldk5IS2tIbDRJUGdtbHFfLWpxbkRULXRuU1EwNjUtYnZjSlFPUGZSdXRTQXVfU1ZaZ1JDZ1FsTHlONy1EUQ?oc=5
+- **Source:** INSIGHTS IAS
+- **Published:** 2026-11-07T05:49:43+00:00
+
+## Amentum, Kyoto team up on fusion - Nuclear Engineering International
+
+- **URL:** https://news.google.com/rss/articles/CBMic0FVX3lxTFBqNTBnSGdfZEhMS056eHRKcnh0aUNNb2h6TFVldlBBbmwxYk1NS2J0X0ZuWTM0c1k1VnBYMGRSR0hpNjFNNG12Z2tGZnRBall3MmktRElWaF9vdWZZblhDWFE4bUt6ei04Q1VWN3dxNDhMa2s?oc=5
+- **Source:** Nuclear Engineering International
+- **Published:** 2026-11-07T02:35:23+00:00
+
+## Can American Gold Become Dearer in Kashmir? - Kashmir Observer
+
+- **URL:** https://news.google.com/rss/articles/CBMiigFBVV95cUxQTDRzLWlSZXQzSk5RX3Uyb25zMmd4b090U0V6NnJRdmwyUmtKc1BGZUhKbW9lOVZlRFpTaUQ4NUtlZDlXbzFzdXNiZmN1U2xQWmFaeGFtekpuRGlIRVVBWXowdGdPQl9ndV8xaGlKS0tKenVGWjJWbDVjdXZ2VFRQUzFtZzZMcXZpV3c?oc=5
+- **Source:** Kashmir Observer
+- **Published:** 2026-11-07T02:26:57+00:00
+
+## American Fusion’s Texatron Tests Yield Hotter, Denser Plasmas - citybuzz -
+
+- **URL:** https://news.google.com/rss/articles/CBMimwFBVV95cUxNLWFOTjlLM0hiZUFiSFZiaGZNU2xSMUNkdVlJYzlsSnU3czdDV2xJcGxZaFNDeUJqOTVBejlNMTlfZGpHVW9NYlN6akZDNzBkdGVvSUlGRzd3V1JQSzJvVWR6dXQzai1zd01WVkp2c1Q4VGlzT1c3VkFadFB2YTctVTBLOFBjWVUzeEktSXA5eUdyZWtfQUpPcHRPRQ?oc=5
+- **Source:** citybuzz -
+- **Published:** 2026-11-07T01:02:43+00:00
+
+## Abang Jo on how clean energy will draw tech investments - KLSE Screener
+
+- **URL:** https://news.google.com/rss/articles/CBMiqAFBVV95cUxOLWZib2l6dWFyTGx1N3lKTmNqZlZjeHNwVDIwaFlkNHBVRzVHX2hnQVdwa1V4dTZhWU1MQzVVcng0d3lEVG1VMnNiczl4bUE3V2F0ckJoSnRHVmE2TWp4WGYxR0dabWlNZEMtbnRKSFktVkNqdlpLSkNGS3hXQVdJY0JGRFlLUHVXMUVlQUU3OXVyWVNpdlRINzNpczhXSkVBcktQNXdleDg?oc=5
+- **Source:** KLSE Screener
+- **Published:** 2026-11-07T00:30:00+00:00
+
+## Deuteron-Deuteron Fusion - IEEE Spectrum
+
+- **URL:** https://news.google.com/rss/articles/CBMigwFBVV95cUxOelYyOVVzblFibW91N3BqVndlLVJEc3BZZUNZRVNSYlpZS2YtQXZkazhGeG1IWWoxdHBGMnI4cXBwZ19wclctbmNCSDIyeUtWSjNaa18yQzNZMmFSZ01xNFhPZWRvLWJzdXdFeUNrR19DeEVZSFlkc1dEWjVDNU5zWkpGQQ?oc=5
+- **Source:** IEEE Spectrum
+- **Published:** 2026-11-07T00:07:39+00:00
 
 ## Nuclear News 40 under 40 2026: Supporting deployment -- ANS / Nuclear Newswire - American Nuclear Society
 
@@ -255,51 +303,3 @@ _Last updated: 2026-11-06T23:58:16.186867+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMimgFBVV95cUxQb0loVElNX2QtcXphZ2VFanZmNEFlQWZsUDUwaWs1M1QwZV96aE5uNnFhS2F0ZHZSVFFVWkNxakRXeXNWNk9zUEV0V1M4bUFteEdYZG5DcWV5N3gtcHJwT2JBYWJBa01VeVFoZmZsLTJ0bmZjNGRoVGd6aHRWb2dfcFMwZndFRzBhOTNmWVJZMHNqaVQzZlpZaG1R?oc=5
 - **Source:** www.cheddar.com
 - **Published:** 2026-11-04T16:17:47+00:00
-
-## NSUF awards 18 Super Rapid Turnaround Experiments - American Nuclear Society
-
-- **URL:** https://news.google.com/rss/articles/CBMikgFBVV95cUxOUmdDTy1vTzZha2FiM19meWRrSWt1YzFNQkduSmFxY1MtQXRtMHdFMTlxQ2dnN3RzZkVDX2RjTXFmSTZLOE1JeVFnQzMwOGVEQ3BadXVDYUMxenpCTDBZLTJMRXQzNjltUGRNSjVoUnFTTUlOSjc4MzNvUGJXV3cwTWg1N1h1OHJyNEJMTXVmdGJpdw?oc=5
-- **Source:** American Nuclear Society
-- **Published:** 2026-11-04T16:15:24+00:00
-
-## US nuclear reactors secure new fuel as Urenco ships first advanced uranium batch - Interesting Engineering
-
-- **URL:** https://news.google.com/rss/articles/CBMigwFBVV95cUxOYU1oRjZTaThDMkR4d1RLX05PMnpOTHRsNmd6Z0I2T3RZODU3c0w0RERaQTg0V2l3czZiZnlTYldRR2RIQ1g1MV91bTJKeWhvN1p3bm80emNOakVyd2t2bkRMYWFwd0xwcDk2ckdTY3FVdk1HRjVOcjNYTUlDdkM2SlBldw?oc=5
-- **Source:** Interesting Engineering
-- **Published:** 2026-11-04T15:48:00+00:00
-
-## Nuclear fusion reactor gets massive 13-ton beam box to achieve 108 million °F - Interesting Engineering
-
-- **URL:** https://news.google.com/rss/articles/CBMihAFBVV95cUxObFhveW1kLThRdUVhV2RJcXE2cEd6N05RUEV4TWFuY2FYRnR0TkZ2MGZxVHhxNzM4ZTNNUm5XRXdMOTRWbmFYdklLTEJueExlWTlIWlB4Y3FhZnhQQkdJbHpFdXdUQVF5NzY1MGF4cDNkcXBiOFZsTGJuME12YUFyd0x5LXU?oc=5
-- **Source:** Interesting Engineering
-- **Published:** 2026-11-04T15:27:00+00:00
-
-## VIRGINIA: How Governor Spanberger Plans to Make Virginia a Shining Star - Site Selection Magazine
-
-- **URL:** https://news.google.com/rss/articles/CBMingFBVV95cUxQNWEtOHRNWlZXbzBUMHB2TjR0RFpucjk5M3ZKZElQUnFxb2FHWGJFeEg4ck10OXhVc211dW1VaWVUNkRpODB0QVhhOVNPNlgzU3M3bDc5YnUwbGpUQjhNNGFleHhfaWpmdnpZNmlDMUVxTkh2NlZZRUhvZHFkMHFpbGU4Q2lvVEcwQ1RSR0prbDdjUmk2Q0t2SFZibzN5UQ?oc=5
-- **Source:** Site Selection Magazine
-- **Published:** 2026-11-04T13:48:23+00:00
-
-## Thea Energy Collaborates with MIT’s Plasma Science and Fusion Center on Planar Coil Magnet Program - The Manila Times
-
-- **URL:** https://news.google.com/rss/articles/CBMigAJBVV95cUxQWHNyQ1NlWEhHS0lUNXRxT0VDVFlncnp5RDdGcFF5U3FuQTNEZzd4QlVwWkRPWUhkZFdlZkdwV1FNTWxKb3lvMjNPT0Y5NFBYOWNldndHV0hfYU5EUnV3dEJ4Q2QzT2VkdkIwNVl0WGtCNGhlR2RoUE44bGRYN1Y2bTZTRFNWMFVmSWJpTTV6c29TdTl5MnBPRnJSRGU1T0hRZ1dIRGp6Q1c0SHNnRmcyRnZ2MnJOcmMwaHAyME5lWEJQSkpfN2lNczV6ZE5hR3JlMktIX19iMTVIUTBrZVBXRHpQTU9jaDdyUlhud2dxdzhMR245aUFVVkI0UXIzYzJF0gGGAkFVX3lxTFBvQTlZcUF1eC1aZUhSOUZnNnlCd05VM1d3V2pBYmN3WlVPcmlIQ252MnBaaU5la0FoZFg0cXQ5WW5hWmMzMHliTVFvdndWdFZjR05sZ3FpWWlycm5Nd3dlZ1dYNkM0MDVyMFUxYUs3MU1xeE9NeFd6Yk5UajNPNlA4ODAwMXY4QWVaWHZWbko3bVJGTC1PQVpJNjNHSEZaWFNLQVp0cGE0X1pYSnJ0em1oN2RXNVB4cTRJVUpxeVdCWWJMNGd1SEtNQktjeVFkUzg5dUFESFplUTFZLW9Ba21oZGtNM3owVDRJd1JuTDJoWC00dkE3YmQzRThtQzJIY1lmY3hQYkE?oc=5
-- **Source:** The Manila Times
-- **Published:** 2026-11-04T13:43:20+00:00
-
-## Ranking Member Lofgren Announces She Will Seek Chair of House Science Committee as Democrats Win Control of Congress - House.gov
-
-- **URL:** https://news.google.com/rss/articles/CBMiggJBVV95cUxORk5ESW9yLXlPUkRBVGlhcUxLdUVPb0xNaGdzRk1QQi1ZNWpFRTFQUXlTRU5FUHhma1B6eWpmdDctMF80SzZ4bW5nR3RURzNWakpxaU16N2RDWUlvUWI2Mlp2WVNQajZtcjRCaHZVN1V0VVRwcHBRUUhXX3lnQ1JNUGZ6VDctNkRVMzBNUUg0VUl1ZXRBRG5pczRzRGVFcTRDVzAtZktiLTZJY1F0NDJ6dDNMYllyRkc4RldtNlNxLXN4YjY2TmdXWVJyZ2pwWkxLZTczYUctMENPLVhPYnF6VFZzQ1g3cEk3RF9hcGo2c1hIeTBmVWtSeXhIU2RrN3oyNlE?oc=5
-- **Source:** House.gov
-- **Published:** 2026-11-04T13:32:55+00:00
-
-## Hyundai unveils 5 MW hydrogen system designed to produce over 700 tons annually - Interesting Engineering
-
-- **URL:** https://news.google.com/rss/articles/CBMieEFVX3lxTFBtdGdTc3RHdG1sZkluS3ZrcFRXZWtncWxpY2FJTFgwV0JLQnB6dmc3dEliMU0yUzkzRzZUNmxkOFRqdnlJdkJvcHljUk9xYWNEQ0M2VjFPTWVyZEh6Zy1WQk5uWmFjT0ZzWGRoeG51Q2VSR0N4bmsxeg?oc=5
-- **Source:** Interesting Engineering
-- **Published:** 2026-11-04T13:31:00+00:00
-
-## Nuclear Fusion Market Size to Hit USD 49.73 billion by 2034, Growing at 13.49 % CAGR - openPR.com
-
-- **URL:** https://news.google.com/rss/articles/CBMimwFBVV95cUxOTXNaZ3hsNDZVZGVYWU1QSElXYVBXa1JGWG0tVExsZHdIUDJzZEZxZWhmR1NmOWRUUUlHM2tTNGdsZS0ybVlhSmxha1NVMkhENXZVOTFISEpOYndVWjdYNS1FVDduUjdsczBNa3BHQ09TZHdWZlBhZUhRZFZybE9jb3VSRkJKd1VWQWZ3N1dCTG5idzBNZkVNMkppMA?oc=5
-- **Source:** openPR.com
-- **Published:** 2026-11-04T12:47:34+00:00

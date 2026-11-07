@@ -1,8 +1,176 @@
 # NewsWatch — Microsoft News
 
-_Last updated: 2026-11-06T23:58:15.331743+00:00 · 50 articles_
+_Last updated: 2026-11-07T10:54:43.142190+00:00 · 50 articles_
 
 ---
+
+## Windows Paint CVE-2026-83844 (CVSS 8.1): Patch Now [2026] - shattered.io
+
+- **URL:** https://news.google.com/rss/articles/CBMikAFBVV95cUxOa2QzaHJxcURNRGxFTkkxcG9TRjBlVzh4UEo1OGVDR0N0dGJ0YWxScW5ZUHRMaWRBTHUyU2Q4dUU0T1BfdWRUYUwtenB1Nk1MNnBGNzVZS21JczZxUWs4Nng1Y0tNbGc4TFpoOFl2MTJ5NEZENWs5Q0lnQ1kyenJTaFR5T2RqbVVXZzR4QVJGZjk?oc=5
+- **Source:** shattered.io
+- **Published:** 2026-11-07T10:47:41+00:00
+
+## Get 7 Microsoft Office apps with this $30 lifetime license - Mashable
+
+- **URL:** https://news.google.com/rss/articles/CBMihAFBVV95cUxQWlNtd0p3NjRucXpvUHlVOXloOXV6SWFSMGFyYTlZNzZFUmFVcDdXWC1FWF9COUJuZXlKcFdPMUhTTUNfQ2FoYXVHS3hFWXFBUzd2YU5rTXhkVW1iUUhoamplWnpid3RhekNLSWx2MEtfVF9SR0dpVVRRcXNRaE1HY3dKOTY?oc=5
+- **Source:** Mashable
+- **Published:** 2026-11-07T10:00:00+00:00
+
+## Microsoft compared FSR 4 on Xbox with PlayStation scaling technologies - GameGPU
+
+- **URL:** https://news.google.com/rss/articles/CBMitgFBVV95cUxQOV9XRHZOSzR3RWMxem9Odmg5VzMtaVAtYTNYbUk5d1BCRGJfeG94dkxNN2daYkVITkRrSEQwMi1hTkg5TWhRU18yV0lFTmNMOHdhTU13WUI1NnR0VkJJNVg3S1hQVVhtSjFVVExmeEF3dWtnMk5XMVhyZ3JCWk9YUnR6UFNDeFVaSE5EQ0pzRmEwTjNHVTJXZWFocjV1OHg3OVNhYnZnWUc0WEl3aWJ2R0E4UGlwZw?oc=5
+- **Source:** GameGPU
+- **Published:** 2026-11-07T09:21:55+00:00
+
+## Google Workspace vs. Microsoft 365 vs. Proton Workspace: Which Is Best for Developers and Freelancers? - SitePoint
+
+- **URL:** https://news.google.com/rss/articles/CBMihwFBVV95cUxPaTNyYVZTLXZxUmVJSnJJaGNySW1QSnJVek11T0locnRPSG9FTXpqcEVKSmx5WU9DMnFPSHlQbmdPdEhNU0k1V1NjWXBMZ3VIdEl4cE1DS09saFU4TFQtRWJfVkdvVDV2MlZEYmZYY0VVWTFhejN1b01EN2pid0JfanZVRUE3N3M?oc=5
+- **Source:** SitePoint
+- **Published:** 2026-11-07T09:20:17+00:00
+
+## Microsoft could sell Xbox as analyst raises concerns over gaming division's future - Sportskeeda Tech
+
+- **URL:** https://news.google.com/rss/articles/CBMitAFBVV95cUxPOXhzVlZ3REstUTFjeFdmeTNPT3lDLWxTWkVwTWNLbExFeDI1cnBLNjBqTVhQUnRCb0tsMVZ0OXhvbTZNUk1GZEJLSzNQR2RMNVUwakU1bG1rVlJMZlJYY3V6czRMYl9HQllQcVJHWlpXT1I0aDlBS3RndEhkSUhEY3JHY3dzQ2puWUFIYzlXeW5WdWtNMk5sb0hlVlVva25nbklQNWN5WEpsQnRQRDJFTkl1V0s?oc=5
+- **Source:** Sportskeeda Tech
+- **Published:** 2026-11-07T09:08:19+00:00
+
+## You don't have to wait for Black Friday to get this Microsoft Surface laptop at its lowest price on Amazon - PC Guide
+
+- **URL:** https://news.google.com/rss/articles/CBMi0gFBVV95cUxQUXZ0LUtOc0dvOGJKVXB3M3UtWVl1dE5GUk5LZmZXbDFWRVF2RGM2S3dDT1BxNmx1aEpjT25oSncwbU9lRFo1MkE0MGxzU3BUMDQ0bjlrcjhhTENHQTBsVmtmeFZVNWpRSFB6OEdoWF9BVGxHWjBudEw0Tm1UVXF3WHl5alhWYWQ3YzhlUklwSG5hWTQxbjZNWm5zWWY4MU9aSjhndkxRMmFFVVYzMDdONjJvWUVvekxtc0Q5Y3VmRjRLNVRJUlpSSGhaV2I2NFZoRVE?oc=5
+- **Source:** PC Guide
+- **Published:** 2026-11-07T08:36:05+00:00
+
+## Microsoft Edge 157 Stable Release Adds Faster App Launch for Windows 11 - KuCoin
+
+- **URL:** https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQlhNclNUbWZ1UlhJODNOWXMybFhhVF9WaGxOOGFzcS1PckktM2p2LWEwVjVLY1M2WkZpWHBISmZXTnhPbERKUk5uUmM0RHJGa05rd050bk9wT3UxRzJfaVFZMURaTGdnbmFhSGsteVNTNVg1X2s2dTBjcG8yWE1KYXBLYkdGeEdIcnpUNEI3bzItMlNaY044d0t4ZE95SkRZN29ONWFPNnY?oc=5
+- **Source:** KuCoin
+- **Published:** 2026-11-07T08:33:26+00:00
+
+## Oracle ( ORCL) Faces Pressure Near $100 Following Microsoft AI Contract Non-Renewal - FXLeaders
+
+- **URL:** https://news.google.com/rss/articles/CBMivwFBVV95cUxQVkcwRUV5blZLVGZkNHFJbml3eEhmdV95eGdYdFRlMHVVMDJaWnd3cXpPYjduWXo1VmY4dnhkQnkxWWFWdDROMHFNOUFLZHQ1ZTNnMUtrLWZ1UDUxVklZOVBjbWpvOE1GbWY2MGNMYThmUXctRDJ4V1hROXBKNC0ya0x5MkJjT1pRcHZzMEJDX3ljRmU0dU82djhOWDBMODZfWTREdWg0WjZiTEJtSHdDN2F5YmcxeERzVmpXdjNMcw?oc=5
+- **Source:** FXLeaders
+- **Published:** 2026-11-07T08:15:51+00:00
+
+## Microsoft Prioritizes Own Data Centers Over Neocloud Partners - KuCoin
+
+- **URL:** https://news.google.com/rss/articles/CBMimwFBVV95cUxNUmhjaG5oUzU1NVREVnd6Y3VXbzRwMjI5d0VIRmRBRF91MG5YZ0pKU1BsWEIyQV9oWlBrYmFWODJHTTBDaXo2YjAtTF9OaUpxYzRkUGlIMTAxVER2dWNsVzlrSjVkXzZjc3JBVzhCU0JfdjdYcjF2Q2xLSUdPVVFGaElFQ3c0RFlsWVFueDhJSDY1emVFX3BkNUtJVQ?oc=5
+- **Source:** KuCoin
+- **Published:** 2026-11-07T08:03:32+00:00
+
+## Key facts: IREN Revenue +66%; Microsoft 200-MW Upgrade; Analyst Cuts - TradingView
+
+- **URL:** https://news.google.com/rss/articles/CBMiwwFBVV95cUxPMlMyZGNHTzBrS0xaa1haU29QcjEyV1RQdVZHaXp0cXFmZnRtLUdpelp0ZGMxTmJ2U2FjVXlINjF4MU9oMWY3UWNWNVFiRW5waE9UQUM5dHkxX25WZy1PWTFYR3cxYUFVN1RDSDlLMVlzeU9ZcDZJVXBIMFFZWVBrRkg4MjY3RlA2MEMxZllqY0xqSXRIaTVFU2hGS2xRTWFVWDlQTndYQnZLRjVlTG81Ykd4Z2lkeUQ3QmVYRG9sNS1hTms?oc=5
+- **Source:** TradingView
+- **Published:** 2026-11-07T08:00:00+00:00
+
+## NL Protesters break into Microsoft data centre construction site - Digital Watch Observatory
+
+- **URL:** https://news.google.com/rss/articles/CBMie0FVX3lxTE9UYi1EcTV5VFVob2NzdTZ6Y29jb0V4YUljd0xuNndWN2lVMmY5SmpBaVlfblNBVG5VLUFkbk5ET096TmNCczJUVTRZdEsyb1pYajhvTEk2MWhVSU1JSjlyMk84ZjFiNXlIcGN0c3RUVWJrWGtCVHVxYTZWQQ?oc=5
+- **Source:** Digital Watch Observatory
+- **Published:** 2026-11-07T07:44:23+00:00
+
+## Microsoft Data Centre Protest: Over 100 Activists Occupy Amsterdam Construction Site As Anti-AI Demonstrations Spread Across Europe - NDTV Profit
+
+- **URL:** https://news.google.com/rss/articles/CBMiggJBVV95cUxNaE8wNFNSRmZ0LUZyN0tQbnNOd3ZZNVRKV1o2ZFh2TmN5YmIxdDdYVlJoQ1d5TXJtRmF1eGk3b1hVNmgwa3haXzE4M0RzREpQcm9jNmg4MjY1RVJTUHhuRUJnc3VxZjVPbVVjZzVvSGd2SVZmWXpBV1pGR01DRFA4d1lCbEdqWFQ4N1VQRzV4MWlSNV9KcmxvRDVyLWVoWGxLRENXcTh1TEl1ZGF5Z3pNS1pEamJpY1Z5SmlWaWhPb045SXYzRm9ES3pvYzhJRzJhRFFIQURRTFhXX1d1MW5lLW15RDkxY3IxbU5DZGxJVXVWc1ZfeXdNWENFZVQtZzZCM2fSAYoCQVVfeXFMTzhmcHBETnV1bnhpZkhZTk0zVVBOX0RtQXVjdXZnZmlndlhWcDNnTWtXRDBlbU54VVdFYm4wdE9zTWw5OF9KRUhXMXpjbzNraUJDMlA1UDdTaU9rUks0RUVnMjlqaWNJWDA5YU8taTE5cXJydnpTeWVmUEVUM2dlODBOaWRPaDYybEN0NjhqUS1MOE5HVkxuYmNfV3BNVmxQQ01UR2JuQ1RtOEVJTm92a2V4aXNpZENRdUJFVklhNGFnOWdETktNSlZnMGVnT20yWWVZbWtBTmxUOEJIeTd1ZURFcEhMQ0xLc09Dcnc1SHQ1Qlotak5GZHlFNkFUcVhNcjNmR2o1ZDFTU2c?oc=5
+- **Source:** NDTV Profit
+- **Published:** 2026-11-07T07:11:53+00:00
+
+## Microsoft AI Economy Institute Open Call 4: $75,000 Research Grants for Global Researchers – AI, Jobs and the Future of Work (2026–2027) - Global South Opportunities
+
+- **URL:** https://news.google.com/rss/articles/CBMibEFVX3lxTFBqRnZST092dVZMUXNhb05WQ2gyMktoSmU1djRlUElQa3o3V2pQV0hLU29XTDM2U3AzYnlUQmFWY1YwOEVRQXVBRUhOQkx5djl4T3FkazNIV0JCaXVWU2ViU29yXzVkM3FINXJQaw?oc=5
+- **Source:** Global South Opportunities
+- **Published:** 2026-11-07T07:05:36+00:00
+
+## Microsoft, in its race to secure AI computing power, has successively cut orders! - 富途牛牛
+
+- **URL:** https://news.google.com/rss/articles/CBMingFBVV95cUxPbnByRXhQSC1ZNWhxdm5iaDdONkt0aXBfN016MDZZVUpweGZVTEdJWjdYUndqY25mNDBLZzVxZE9uakJheU1LTk9aZnkteFV1a3Nkbm9LcUE0c2NBQjhTSGE5M3RIY282d2pLbktoQldKenU0LWpFcURqcWFpM3lUMkNIemY2TWwxdjl0Vm9lNUZjekRkdk9EWEFWQ0tFUQ?oc=5
+- **Source:** 富途牛牛
+- **Published:** 2026-11-07T06:52:39+00:00
+
+## Microsoft Reduces Neocloud Partnerships Amid AI Infrastructure Stock Declines - KuCoin
+
+- **URL:** https://news.google.com/rss/articles/CBMisAFBVV95cUxQM19xYWxEWEFiUUpHeTJwdnpNbVppZ3lmenR1d1pzZHNIekwwNGpJMm5ZdWFKNElYX0QzMmY1OURfRWVjMGZ5NmZzaFNMUEhJdVlCQ2xqV3BvRDVOb1drT3NzOXJmcWFROUIycTVFdENqazRfMEtGZHFVQTl6RnM4a2dzanBvejlsMF9nY09leHFXZFVoZWkxZXpPQzBwR0s2bWRZZmVJeVdDaDdMNXk5Vg?oc=5
+- **Source:** KuCoin
+- **Published:** 2026-11-07T06:44:46+00:00
+
+## 'It would facilitate Gaza genocide': Protesters storm Microsoft planned site - Middle East Eye
+
+- **URL:** https://news.google.com/rss/articles/CBMiwwFBVV95cUxQUzVLVkROT1M4dXJUeDR3WV80UWhVaUxwUDd1SFNnQTJ4SGVQdFNaaHVEUnUxZWRFS3pGWWxhREl6NnE3a0hOMXNEYnpFY3J1WUpYaWkySTVOSHpTYW1RR1pSbDhMZUVOTUU0bW5Ld0FwT0tFYlFoQ2dELVQwdXh6TjFkcG84eHZOdDVnYzBRQmFwbXF3YzRZMzFNWHJleUJNRkdNQ2VZRmVlZ2xYLXBONGxBUE1pbk4xRzIwc25zUlFIVjQ?oc=5
+- **Source:** Middle East Eye
+- **Published:** 2026-11-07T06:43:00+00:00
+
+## Microsoft Scales Back Neocloud Partnerships as AI Infrastructure Stocks Face Pressure - Microsoft (NASDAQ - Benzinga
+
+- **URL:** https://news.google.com/rss/articles/CBMirwFBVV95cUxPX0lzZy1ldXQxRTFROTZtMXlsNTJnR2txQTdlazVVN3ZMdlBzeDFEQUEtLXE1TjBMQXk2M1BqMjBoMlNoSFFxa3lQYkJYdmN2MHZFMXM3R0NQMHRPWmVmaHhNWFVHejNUbV9IV01EZXhHVWdsYkdoTkU0b2NCNDhmX21iT2N0S2NVVmJlMmtLUG1mQlBsVlMtOG1uZVdvbjBqa0MyQWZjSzVzcC1xTnFr?oc=5
+- **Source:** Benzinga
+- **Published:** 2026-11-07T06:08:27+00:00
+
+## Protesters break into Microsoft data center site - timesdaily.com
+
+- **URL:** https://news.google.com/rss/articles/CBMizwFBVV95cUxOeTNJejNWcVM1VWpjaE1uOEtEb2Mwdi1QNXlKTTl5VF9IS05oeWJFbVpTbE5qV2I3R1JCNXNwN3NVWlNEYmdscF9PSGdZWk1jR0tyT3ZUZ052Z2d1TjEyRDRGYmdOZUdYb0tpUGo0UFJxc0dreG5LQVpoYVRoZlpBNUtPQW5temN1VzZCT2Nlb0ljeXdDOXhJX0lnc2NON2ZKVzlTVTBZMmlVbHN0Qk5NQ0JralBZdmRJZnpEZGVMR3NQZi1HU1FEcUFlbElmQnc?oc=5
+- **Source:** timesdaily.com
+- **Published:** 2026-11-07T06:00:00+00:00
+
+## 'Stop Dirty Data Centres': Activists storm Microsoft AI data center site in amsterdam amid global protests - WION
+
+- **URL:** https://news.google.com/rss/articles/CBMi4AFBVV95cUxOZngxSWlCaHBQcm5wWDY2cVI5VEdaZ1YxRmlpVjloUkxiY1R2MzNweXFVdEJmSlMteFZpU0NVZXVyQ0lFV25kZ2wxM2hISTM3SDNYb3hiTEdxTDlwdTZaM2NDOE9vOTRLWkllOWRKLVRfS1duSm5fdHp1RS1nQlZWNGpqa0d1NWcwR0JTeHRQWS1aNHNxTDhfLWhkV3pVUGdwZGFRUy1OVWpWVlllRnV3dXVmXzdWWm9nZXZoSUhfS1hWelVWUGZ2YzFvT2p4ZGNRTnFQVDZDeFFfeXY3WXBFMNIB5gFBVV95cUxPaWotZURSQmhjdWw2ekx2SDJ4Vmc3TVR1YVRvSUhuMC00dXU1dFh2MlBJV1lzWlAzN1BvSjNMaEdmc1pVZi1ZeS14cU9yMGZlSWloS19tS3FRNFJ4R3BOaFdRVmhLMG5HTHVJRGU5VDU0eld4MHlDektNVFlRQUstUXhQNDBxblY2RExUd0NEazAxY2VlYnBtNGRoWnJEUURXcURzVnh5a1VhcmMxcnctNXkxbV9rZlFhWks4VGM0SjNaems1X0gzZFRDY01SSkd3M3NrVlRpc09mSld6STRHMmZJWjh5QQ?oc=5
+- **Source:** WION
+- **Published:** 2026-11-07T05:42:00+00:00
+
+## Microsoft AI CEO Mustafa Suleyman reacts to Delaware’s AI agent proposal, says it is ‘deeply concerning t - The Times of India
+
+- **URL:** https://news.google.com/rss/articles/CBMilgJBVV95cUxPcmd5NTBBTUlSYVl5TGlhNnFQZWdNQVVTZ3VsOHI2QWZmWHlMeW9ydWNRNDBVb1o2TGRoX1psVVFUZ256dkRPeVdvM2FHUkN0OVdGc2ZQcVN1OEt3dzdHRkt4NWlmeXVpTHBpM2dtTFM5bUpxZm1LdllWU2pEVUlacElESzZQYW9JTllGc3ZfWkJ0WGFva29jSE14Y1VoRjR1bl94U1l4enhUMzZ2SFVYVVhBa3hBRVdraWtmeGdXZUxndFhiZnVBQzB2UUpvSmlKeWNtSlJ1YUtnZnNQenY0V2lLRmZqdmtfOVZHRUhVNTZORFlSWTNBd3pVVFBpX1ZUbGR3cEFkcXY5WEpQWWZNdHp5MFFRd9IBmwJBVV95cUxNbDZEZ1pmR0ZrNDlaTmU1MHgxN3dCSTItMWRaWTRlVko1SlVtcG1adzVqbnJVQ05hZVoxUDlqNk5EcXYwNHJBVWx2ZjFpcDFBdWRqb2xHN2VER1ZpU3FKaDViR3VCOWtZZk92alB3YlNXQWVjeXZnV3lMck9hQ3p2M1N1ZDRyY1R4cUd6UkVqVTBjTFdFOFlzVkk3RXZKcHFRUjYxLUkxNEJSZ0tENUlONEFVZUhaWkp4YkhkSnY2SlNXNXRVX19aVXhDRnpDZHRWdmhKOTY0clR5SVl0U2QwR1VuY2ItRVJWYlYtY3dlblJ4Zk1HV044VW92RVFycjlFemxVeXNqUjZnOHB1bXVmYkdOU2ZpWVhXckVj?oc=5
+- **Source:** The Times of India
+- **Published:** 2026-11-07T05:32:00+00:00
+
+## Democratic Party's Midterm Landslide Raises Policy Uncertainty; Analyst Says Odds of Microsoft Selling Xbox Are Rising - BigGo Finance
+
+- **URL:** https://news.google.com/rss/articles/CBMidkFVX3lxTE9CdzNJaXppaHg3eUZPRXU0bDBJQ0dvcW5VMjczUFRCVUxYXzUwUkxoczRhNnlURVAwV0NkdUI2d2VOSVR3RFFYRkgyMUF1aE01WmRPMHBic0lvNWZhVTc5aW53dnY3U1RTYlh5WlE4TDFBanpiZFE?oc=5
+- **Source:** BigGo Finance
+- **Published:** 2026-11-07T05:25:00+00:00
+
+## ▶️ MICROSOFT - IMDb
+
+- **URL:** https://news.google.com/rss/articles/CBMiUkFVX3lxTE85ajZlVFYzN3pmd0xPMk84anJkNEd3MHhiRXpJQVY4SDZPYUVKZFBHbkNtNTdmZjdhSElTR1dPT19vNUhlSWlMcnZHSi1zRU9YSlE?oc=5
+- **Source:** IMDb
+- **Published:** 2026-11-07T04:55:27+00:00
+
+## Protesters storm site of Microsoft’s planned Amsterdam data centre - Al Jazeera
+
+- **URL:** https://news.google.com/rss/articles/CBMitwFBVV95cUxQSDRYc2RIYl9vRzhRSVplWi01QTJNdXcyeVk5eGRkdTh4R3h6cWZmbXBUMlpkLWtlMnlBOEZuOFNGamFJa05vVURlMkdsbTllZzN2TW9oV25vRmctVXpqcGNlVFlJcXlGTTlaNV95UmRRallpWk9SZk92ZGVUV2RLZmstd21HTFpDVHNtQnFvbWotejloQjhieEZOZkRPLVNXSDd4aW41cjk4WWJINEI1eGhZSmwtNUXSAbwBQVVfeXFMTXFaMDFQN0RUbkxSc2pYeFBRQmZ5WW1SMzB1Z1YybXB1S0JvcWZJNk04bUVsUGZTYVdPdW1SejlhUWM1RUtBTnNMZmFodl8zd3Vna3MzZ1JqaFVwMXhKWTE1V1hfWEJZdnEzY3VKb2M2OG5JOXE4RFRuM0gyelhUbUNSUXYyVzlnaVF1cjlwdW81eTJwWDVIV3l4Y3hpdzZUVVV2bFgxLTNrN1J3V0xVMnlIQ0pJVkk1NlFFRkM?oc=5
+- **Source:** Al Jazeera
+- **Published:** 2026-11-07T04:08:21+00:00
+
+## Microsoft Adjusts Computing Power Partnership Strategy as Multiple New Cloud Providers Face Order Changes - NAI500
+
+- **URL:** https://news.google.com/rss/articles/CBMi1AFBVV95cUxOQkpFOVhyTjFsdFVtVmRyM0V6c21rTkk5VnVzcUY4ZVQ5bTktYzZGN1ZwRkJfZkNkODZ0UWdzcXJlMXRJaE4zSXZGOWxOMUYycm9Zcjc3aFRERkpsT0VqTHpXU0Zid3Y4dlQyTWtUa0lXSlhLd21OV0NTSkY1Uk4zUUYyb0lyajMxZUZaTmVfbVJFdXdtUmVYUzNqVDdYNEZaWjJVSUxVYjFGTDdzNFY4VjhyeUg0Qm9NVVlrVi13c3d2OHJIbTJTZS1ubzY4MFZaU1ZaRA?oc=5
+- **Source:** NAI500
+- **Published:** 2026-11-07T04:00:16+00:00
+
+## Protesters break into Microsoft data center site in Amsterdam as Europe’s backlash spreads - The Killeen Daily Herald
+
+- **URL:** https://news.google.com/rss/articles/CBMijAJBVV95cUxQeFBiZEVPRy01TThvbWUzZkp2TnJlLXhocHFOOHM3aXdTaFk0eFJvRFFUeUp0SndSRjIzek8xekZvOUNrYW8wV09WR2tqOXc3V25JMFI3UXRHZUtSQVdQR1I5dlNsbmlmVkNJQ1RiTVlyTlNuYXlzS2EzNlhMTUk4MEdTZmdMOS1sbG5iUXJXYkd4RmptazljR1g5Z3NIZXNWNFFpTWZZLV9UbERPWWdrVDVPLUpXMDd0aXFURnpueExVS0tmWlo0MXVudGcyVUpHMEFOMC10NjF4dHVFV1pDa3dNUzZpSVc5UkI0N0lwc0diTGdCX3F4TDc5TDF0Yk92a3dQekFMaTl5Q1Bq?oc=5
+- **Source:** The Killeen Daily Herald
+- **Published:** 2026-11-07T03:53:03+00:00
+
+## Microsoft (MSFT) Is Pulling Back From Key Neocloud Data Center Deals - Yahoo Finance
+
+- **URL:** https://news.google.com/rss/articles/CBMilwFBVV95cUxOMl9UODZoUFhCcm5lSkVLRnpNOC1aUjJDTGpfYnRhZkdYZllZb0R2MWJZQjhZekFFZjVwZUJ4OGRYdU01cHl1aldmYVJaaEtqZmtKMDVqWlBKWk83TEh4alptZHF1dlVYb0h1UllvY283ZnRwaENMRUlIUmVEcmZlUmZ0WU1zU1BMT2h5SDBhRzNfQTN0N0Nz?oc=5
+- **Source:** Yahoo Finance
+- **Published:** 2026-11-07T03:38:01+00:00
+
+## ARTEX abuse expands as cybercriminals target financial sector - Microsoft
+
+- **URL:** https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSHdvajI2Y3h5N1VFVWh1SHhYNXVELWxPTndDbjBoZzFWaFJzSlRyWUtnTEJtUF9nUWFZMTAzMnZVX25kUlQxOWFQQi14Ylk1RDE4XzNDdWtPUDVRaUFJYmtmdGU2RGhITkdBckhTWndsWHVNWTdTOURHOVEwSWJTV2xycDF4WkpCcUxHdzdIQ0NVdUllVEIyRENublNjMi1nTjdhTlhUU3RBWDNkRWZiNEZMZ21hS3ZScTVN?oc=5
+- **Source:** Microsoft
+- **Published:** 2026-11-07T02:44:34+00:00
+
+## Microsoft addresses high-severity vulnerability in Paint application - SC Media
+
+- **URL:** https://news.google.com/rss/articles/CBMinwFBVV95cUxQM2xqNU5wZ2djSGhLSEpTUkIyWkRFN3duTXJkYjFkclBPUTlia0E3VWJvUkZMWmtDcjJPQVdCX1hxUU11N2ZMSWMzM3lUdXVaU2Q3dVRNYzlFM21Ndkp4bXZXTHdXaDR1SkVYWmk4azVKUDNsU3drNzkydG1FTVYyaEZ2UHdac2U4WkZwenNqeE4teDdfb0ROUDE2ZEdDMTQ?oc=5
+- **Source:** SC Media
+- **Published:** 2026-11-07T00:05:50+00:00
 
 ## Microsoft proposes 30-foot sound wall near incoming Granger data center - WSBT
 
@@ -135,171 +303,3 @@ _Last updated: 2026-11-06T23:58:15.331743+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMilwFBVV95cUxNcXZRdUx4cUthUi1GRUtZR0p4eGtCNi1EZ3A5S1NLQWZGMzAxV1Q4cjhYM2o0RVpRd25KbTdlSzNCN3dTS3FPOHdFbURmbFdIeXkycG1zT3VLYkFxMGt4cUcwODZMMXV4azlGUElwbWV5TXR2QVQzVVpOaUJfZDZqTkx4ZWJnRGhnamVSbW44aG5icjBpaUhZ?oc=5
 - **Source:** The Tech Buzz
 - **Published:** 2026-11-06T19:11:22+00:00
-
-## Microsoft Stocks Move Lower 0.80% as AI Rotation Swings Back to Chipmakers - TradingView
-
-- **URL:** https://news.google.com/rss/articles/CBMizgFBVV95cUxNWkc5S3BPbWU3MHQwWjBURGdlODlhNW5lY3NaNjlHQlU0WHE5cjFWQnhVaWpmcVBuanAyZTFCYlV5ZDA5d0pTYmFjXzNXN1hzMXpYRV9rNTU1bXpsMlhUajQ4LUNGdlE5S09hSDNUT0M4dC1ZeW9LUGo5VTNwZW55dXhxallnNW13bVQ1Uk0wQ2hlUGFfXzZ5eF8yRldxOVZGNDdobm8tYU8zLXYzUXJWaW9RQ2QwUzBUN3h1cHB4ZTRJcDZ3SHJRSE1tb0Q1UQ?oc=5
-- **Source:** TradingView
-- **Published:** 2026-11-06T19:09:41+00:00
-
-## Even Microsoft Paint is being targeted by cyberattackers — update now or face the consequences - TechRadar
-
-- **URL:** https://news.google.com/rss/articles/CBMiywFBVV95cUxNcVQwdXRiOXNaQzFuODVQQjIxSXZLOU5DSU5RZlgxbmxFWmVoeXFXMm5Rclh3ZEpLVGFFX25HQVZOSUdqNmt3ZEtnUnI1aVlwQXhONzJoajJBS0hJc1ZFYzEzeUVxMEIwaGt5YmJvc0gzdU1uUzVRUnZWaTcyc3cwRU16cmFSeWV6UF96VFdpc0xLa2VOUEJfel91M1lDbUpYNkdoWm5idUFpU3REb0tycVNybGF5eVQzMFRYcUZFbGVLUGRTLWIxeEVmcw?oc=5
-- **Source:** TechRadar
-- **Published:** 2026-11-06T19:05:00+00:00
-
-## If you use Magnifier across multiple screens, this Windows 11 update could make a huge difference - Windows Central
-
-- **URL:** https://news.google.com/rss/articles/CBMitwFBVV95cUxQUDBXeGtNZHlMVjhKbk1fZjljOUNmQlo4bTh0amhYTTZ6dlFoVmdQcTRqSTVheGNoaHdCMjdoSGViVFAtczd5R01OV2IyWlkwbFJTMlhSY1B3SVZRRU1YZmFlcmZ2WnFtU19jdWFwWUthVDJWUi1yMEMxLU8xemc2dFE5bzQzX0hSV0haYzBFWFdlVGNYU0dOUkU0ckJnUzJkY1Fsb2U0NHIxcThkQk5jNTU5Y2UzVHc?oc=5
-- **Source:** Windows Central
-- **Published:** 2026-11-06T19:00:58+00:00
-
-## Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for Cloud ERP for Product-Centric Enterprises - Microsoft
-
-- **URL:** https://news.google.com/rss/articles/CBMikAJBVV95cUxOcE5CMEhVUHFEUlhGaWdfQkhtR3l2amZsSnVyMVVSUFdjWFNSeFdPU3BQV3k0dWF3bFIxOTlZQTBkSk1lYzg5bl9vQ2tYMEI3WXpGZ295V0NRZ2pWUThselhSRGlXclNPVzhNV0pnWndsZ0hDaG0yN09CdkF1NnU2MGxnN3F3RU1Ic0VPYzBSdWdydjNvMHNfbGJtOV9ENmxESG1RWXEwbXBtNi1GMndrSDNibklVWW1KNFpVbEJvbjVYdEVkeDJlNXVDWFI3WVZoYnMxc3lpUzRUZDNzQ1FkcFZaVTZ3MndzV1JKdzlPZktfZjYwb3ROZGYtNzNkMFBKa0Uzb2hXR3QtSFRDYjlnYg?oc=5
-- **Source:** Microsoft
-- **Published:** 2026-11-06T19:00:00+00:00
-
-## Microsoft Ends Deal to Rent Cloud Servers from Oracle - The Information
-
-- **URL:** https://news.google.com/rss/articles/CBMijwFBVV95cUxQUVphdkt2MDgwLUl2WXVYbFpSYTN2LVVSTm9mSHNYeTNCMm5oOWxQb0dzb2l3Zjl6b2FuZDZSVFVfN1FCY1lTbks1UmN0REtuclg0ZVhNQTJnSXFySlNDcFE3dXJqNmRoWmp0RXNkbXJOanU3TW9YZ1ptbzFUYXlnN1otb2NSVllwWDZyN3Njbw?oc=5
-- **Source:** The Information
-- **Published:** 2026-11-06T19:00:00+00:00
-
-## Activists break into building site of Microsoft datacentre in Amsterdam - The Guardian
-
-- **URL:** https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTjhvckhKVVg5OFBvdTJtaGNDdU9pdG9pNmh6ZFVNVzhBUWcwWVZ0MEhOYnZGbmhiNTZHck1FRVVPRFZoQS1HbHJISHdlbDJCRUtaa3RHc0lDdFh2MEtEeVJvelltSU16SjNuVmVtT1VZSGxZU3duU2JRb3Y3V2hkenpENTFLT0Fud1FQa3VzRWx0ZmRfU21yQlF1T3lsbzg4eGhXeWtXdzBsY0x4T3NCMkhYVzdQd2Zi?oc=5
-- **Source:** The Guardian
-- **Published:** 2026-11-06T18:51:00+00:00
-
-## Microsoft is scaling back its AI computing power leasing! It is reportedly phasing out its Oracle cloud agreement, and CoreWeave's "new cloud" has plummeted. - 富途牛牛
-
-- **URL:** https://news.google.com/rss/articles/CBMipAFBVV95cUxQZ1RjeUNURVJqNGZyRHluM1BtOGFiMkZFN1VaOVp4Rklzb0dxWlVXUW94bkRvWEtPbzJBNXF4MjhaWnp1SGdrUGRZYlRXb1lSbzUwVEdETjZTYzI5VjFJVzlBSVJQcDdVVkRmWUxFWkt3ZzhMOVA4M1FsTEM2YUZWMW85d0E3RUUzU0JJLTFrdVdSOEhwNzhqTEgwMURxUnROYXVLTg?oc=5
-- **Source:** 富途牛牛
-- **Published:** 2026-11-06T18:50:00+00:00
-
-## Microsoft Releases Five Windows Insider Preview Builds - Thurrott.com
-
-- **URL:** https://news.google.com/rss/articles/CBMiqAFBVV95cUxQelJfOXRDV0duVWluWFM3SGpYUWxFTWRDbnpkcG5IUGRaclFwZHF5RE9BZkRwT1FidTcyRi1DVWNxUUR5RmVXRjRIRWM5OWZyZjRoaUVNeHBESlVYSzZCdWZXbWNPSU1XWGZfLW1sYmJGbWVFa2I5MENtNGk4Vy1MQmxGQ1E4TXJSWTVSaFRJeEIzTldNb1k2OExnSEhXZXprbV82RDF1QzA?oc=5
-- **Source:** Thurrott.com
-- **Published:** 2026-11-06T18:49:26+00:00
-
-## Microsoft: AI Monetization Accelerates, Strong Buy Reaffirmed (NASDAQ:MSFT) - Seeking Alpha
-
-- **URL:** https://news.google.com/rss/articles/CBMiogFBVV95cUxOai1ncFNYWG53d0VSTnBwVndZSU8yWVAzRkFrVDNucVM5Wk5pNmEyelhtMHNLeG1pcWkxbzFjNXNLRXdEY20wTThvLUpZTGkteXlKNTlxaF8wWmpEanlqMWdOQmRvNVQ4RUl0VHh2RWQwdEp6M2huVHcwb1BNbU5HTWVaWk0wRElwNjlERHRQR3otdnJIZGFkdTVxSExlUkUzcUE?oc=5
-- **Source:** Seeking Alpha
-- **Published:** 2026-11-06T18:47:58+00:00
-
-## Microsoft to Conclude Deal With Oracle for Renting AI Compute - marketscreener.com
-
-- **URL:** https://news.google.com/rss/articles/CBMitAFBVV95cUxOSnhoUkRVU1VxVXl0NU1IVWFrSXdYSlpmS1AybjluRE54bDJzcGlLdDJRQjRnQ3Vzb29DQ1ZtbTV4dnBDNWN6V2JYMHppcFQ2dlI3MFNkZU1jaFluWXFYMkFBdXQweEthTnlkQ1ZmZ2liMkRkZEV0MHpfOHNid0FCM01nU1BLYXJjT0ZFNEpoa1NqWTczZTRHM3RIaXc0dEM3SzJDZGlxWlI2Sk5mMGFpekxEX1k?oc=5
-- **Source:** marketscreener.com
-- **Published:** 2026-11-06T18:47:17+00:00
-
-## Microsoft Winds Down Oracle Deal To Rent AI Cloud Capacity - Startup Fortune
-
-- **URL:** https://news.google.com/rss/articles/CBMijwFBVV95cUxObWo4elJ2eUdYVEVReTZOU0xmN1hmN1NnYlcwaEFURnlJaTIwUUdIYUtZRmRQblh2Sl9TRjNCSERkRHNUa1FhUk9NcEpxQnQ1U1lUVm1pMDUwckdRR0pBbzZRNjFUcTRwU3o5SE5MbTdvR1ZfcWtPVVB5VkhSYlhqM0dwOTEwVmlsWTFOUEZqQQ?oc=5
-- **Source:** Startup Fortune
-- **Published:** 2026-11-06T18:46:17+00:00
-
-## Oracle Stock Slides as Microsoft Reportedly Pulls Back From AI Computing Deal - Benzinga
-
-- **URL:** https://news.google.com/rss/articles/CBMi1AFBVV95cUxNNTU3dnFrRjE3bHRSOHhWdEh3S1dlTVF5eGxjVlNYalVOLUItdUhZdmlRWlJ3RWFJM2NrZFdLdzIwMTJhV3BUdkhPRDlwN2FoQmg5X0FyOWJjTVQzTEhxYVo3ZjZEVThmNzV1U2hnWDcwN0xwTjZ3OFlpbmJmS3V4UnczU1NsNC01Y09ITnBhWm1NRlFQMnliUkV0U08tcTBWSU53dW9MTUthTk5xUmljcEJuSzA3YUhpTUZOVVAyRTdOZkVnMXFmOXJPUXFnRDVMRHE3OQ?oc=5
-- **Source:** Benzinga
-- **Published:** 2026-11-06T18:45:10+00:00
-
-## Microsoft Won’t Renew Deal for Renting AI Cloud Capacity From Oracle: Report - Barron's
-
-- **URL:** https://news.google.com/rss/articles/CBMifkFVX3lxTE9VMldqNUtPTEN1N2JuNFB3OGwwV0k2bnNtbVJObWhoSDRMOUg2ZGh6d0hsUlB4WFF3bDJobDUxNEQ3cEN3dDhBaEl1WUlCRG1mTlNvbkJ6RVNMZ2JNTkhjSVRpckYxRnN0dkVhb3ZBQ1JsM1ZpWFdKNnNQcHdldw?oc=5
-- **Source:** Barron's
-- **Published:** 2026-11-06T18:33:20+00:00
-
-## Protesters break into Microsoft data center site in Amsterdam as Europe’s backlash spreads - AP News
-
-- **URL:** https://news.google.com/rss/articles/CBMipgFBVV95cUxNMWg1SzZHQUk0WHZnZEZhLXhJaVVsaWFCR0ZEMklGeC1YZmE4UVZWRGs2aXBxNVhYeVBBMFlhU2pRZ0VKRjcyOVVFYzdnTTAyV0dCUWxlamwtU0VDZGI1UkJvbFVwZ3JiM1Bpb2REVENuTzRNSHZweDNIUXVadVR4TnNORjlQWU41ekYzNnlUdTZ0am1QaDlwSGZmUFVlYjY5Z2JtaTlR?oc=5
-- **Source:** AP News
-- **Published:** 2026-11-06T18:32:00+00:00
-
-## Microsoft plans to use fewer neoclouds as AI buildout shows signs of strain - CNBC
-
-- **URL:** https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTlBrMkJ1TjdYY3VXQTVQeWZ3NFBvZE10d25OU1d2UXVLTlhXQWlrUzBDX082T2UyY3dSY2VBX2tnanFYQmRkVmRMMnU1Y2pvcEZ1eHU0WXBNRmZMa1pzaWFrT1FWZkF3cE44QVVkblgwMHFKOXZEZS16UHVNV3RNQUhEbUdmTHBGd3B6NTF4YmpHNEJrUktjdVdyZlgyU1V0ZEstT2hvNWdxQdIBrwFBVV95cUxNUWxBWFlLbTJteFZrY2Z5dVcwT3FrelRobWc5c013N1hsR05RVThlWUFuN09YcHpfa0I4V0tLb0V1QVFsVlkyREp1a3A2cnN1UHhmR0tJN1p0YWtib0Q4c0NNaHNiSW83enY1VUJQejM5YU42RlBvVm1qdTJkc3NzM1diemg1Ry0zVjNzUEM0bVc5NzcwbmRubms1amhVVHRfdHpTSEJ2VW8tS0dscFpJ?oc=5
-- **Source:** CNBC
-- **Published:** 2026-11-06T18:31:32+00:00
-
-## Microsoft brings Windows 11 26H2 to Beta Channel Insiders - Neowin
-
-- **URL:** https://news.google.com/rss/articles/CBMijwFBVV95cUxPMThBNmp5V3hxb1Y2NWpOclAwLUVoWDlfQ1JRTEYyWlpqZFFhaWhxaW41cWQ3VVpUMVlNenVXLWRLTDUza0JlWlVrSnhwU05CUDAxWkJvTHlhZllZQ1B6SmwySEZobU1HZGt6YVZUbHlJZkZWN2lCNDVodkdJSWh4NVBCWlNLb1ZYYm56a21jbw?oc=5
-- **Source:** Neowin
-- **Published:** 2026-11-06T18:21:42+00:00
-
-## Oracle falls 4% as Microsoft reportedly winds down AI cloud capacity deal - Yahoo Finance
-
-- **URL:** https://news.google.com/rss/articles/CBMioAFBVV95cUxQN25DZl82VVZGblFmVjNxOHdaeFk0WnNFLWV4RWNYSDA2WUtobWRFR2RCOXM2b0pDeW5LenJTLVpwQ09VMmNqTHJvNlA2TGxmNWpZNzV6RDdNU3FlZ3U2cjVodXRjejduQnhXZFRsR1pVTzZ4VHhuYVBXSDExZmEzUWt2ZXZ1cFdNNDlyUFhSMDZCR0owcVEzY2hOdk52RkZa?oc=5
-- **Source:** Yahoo Finance
-- **Published:** 2026-11-06T18:17:18+00:00
-
-## Microsoft Starts Turning Off Oracle AI Cloud Capacity - Finimize
-
-- **URL:** https://news.google.com/rss/articles/CBMiigFBVV95cUxNblFzRnNxUE9NWjVlZzJhZHFFTUVRbUZfenJGeXhXeEJEaEdUM3pUZTB5UVl1bkVmbW03UVNXZ0NUcVhJNDFWWXg5OVprRFdQR2dyNXJEeVFvUmlvaWRHS3dOb0hEYThiV0l4U1g3Qmx1cmFBZWUxb091ZlZkVVN5SEFDb3VLdm51YWc?oc=5
-- **Source:** Finimize
-- **Published:** 2026-11-06T18:16:05+00:00
-
-## Microsoft Paint Fix Runs Into Store Update Failures on Windows 11 - www.tokenpost.com
-
-- **URL:** https://news.google.com/rss/articles/CBMiW0FVX3lxTE9IWE9sNlQ5MG52YVp1eEpMUDBtaVZpMUZyeWJJbnl2VkxESzZYT0syMFA3MDh5RUFFX2hBaXc2NUZpMjRRNFNZZ3JZc2l0R0hDNzNwVjJNZHpUVkE?oc=5
-- **Source:** www.tokenpost.com
-- **Published:** 2026-11-06T18:15:18+00:00
-
-## Microsoft Said to Wind Down Oracle AI Rental; Backlog $664B - FourWeekMBA
-
-- **URL:** https://news.google.com/rss/articles/CBMijgFBVV95cUxQSEE3VENWeVEyV3lqdURDcFhYTWY5WEM5RGgzazBhbWFpNHIwVHNSZmpEQjI5STd5YlBCX09nZjZZdnlvS2tYVkFmSkxoNVZfZTZVV3R0Y1NmcjBtM0VJT1pvMGFFdnQtM1NXaXpwRk5ZMF84WE8zTERQQ0RMbGl6dVg0UXlzVWtVUmdvOWRn?oc=5
-- **Source:** FourWeekMBA
-- **Published:** 2026-11-06T18:11:15+00:00
-
-## Oracle falls 3% on report of Microsoft AI cloud deal - Breakingthenews.net
-
-- **URL:** https://news.google.com/rss/articles/CBMinAFBVV95cUxOemZ4eXlMczhBRTZWSDEzczFhVDItT3dYamtYSnFEZ3o0b2NBRnlTQ0Z5RTEtQWcxRUcySzR2c3VZbGZjeWFVQWxQanQtbElSanRESkpkdkQwT0l5d1pybFkzMWhfR3M3T0VxQ2lnWjZFY2xjTlZMVE14RHVNR3lqdGI1NzlpQVVJS0tWVXFkb3c5bXJmQ1ltVTBtWk4?oc=5
-- **Source:** Breakingthenews.net
-- **Published:** 2026-11-06T18:11:00+00:00
-
-## Microsoft winds down Oracle AI capacity rental — Channel NewsAsia - UA.NEWS
-
-- **URL:** https://news.google.com/rss/articles/CBMioAFBVV95cUxOU1VDUkNwMHJneGdiUWhmV29fNXNzOXNRZXpmQld3SzR4VHlVMWZzRFVHUy05N1RDY3hTc3dHMnVwenVMTlBmSUF0TEp6SjJSN3c4SmJzNkFvbEwyV0JQcFEwT2hDWHlINTcwR1pJdDRFVld1VThidnlRZUpQQWRBY2czYlllTE5DbEZOTzJzZEVNSEtvTGxpaHdISVMxeWdp?oc=5
-- **Source:** UA.NEWS
-- **Published:** 2026-11-06T18:09:41+00:00
-
-## Microsoft winds down Oracle AI cloud deal as older chips fall short - Crypto News
-
-- **URL:** https://news.google.com/rss/articles/CBMibEFVX3lxTFBZQzcwNF9qWHdKNmJSYmlnbGtZMVJkcVZmMmxPOWRHUmZjX1FpMk84QXhHVU02bm82bVA3TkpIRXA5eFlETmhoYUFCVk1sMGdFZjBqV2F6NlpRUlNIaW5iQWlDU1pyWHZyRHQxeA?oc=5
-- **Source:** Crypto News
-- **Published:** 2026-11-06T18:08:58+00:00
-
-## Microsoft Amsterdam Data Centre Protest: 100+ Enter [2026] - https://tech-insider.org/
-
-- **URL:** https://news.google.com/rss/articles/CBMingFBVV95cUxNaU1TWmFqbHVwRGMydEUzOXBtb1lTSXF5LXRHUkRXanJwRGEwaWNiMUFIQ1Rwck1wSEt6ZnJ4cEhKQlJqRmY4Zi1sbWhfWXNPYlRxMTY0aEZDTm5Kb3BLMllDcGNKYXZSRkZzZEl1WFBZTjZ5V2dnZFJISTFEM0M0TjdRc3ljaVVjWG1ycjFLZDZ0azZXUWluUlVwcDF2QQ?oc=5
-- **Source:** https://tech-insider.org/
-- **Published:** 2026-11-06T18:08:01+00:00
-
-## Microsoft and Oracle’s AI ambitions are suddenly a lot more expensive - TheStreet
-
-- **URL:** https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdk5mVkpEMUpoSm5Iem9NUWhEVVNoY3B0ek93TlVxT0xqWllKX0ZSYU5zbjc0aXlqVVl3TVdVbjB6S0l4ZlFXMklLR1o1Z0lvWkJFa3JEeTk3bmkxM1p4SWE3NVdqZm1nRHp6RGdRZmIwWGVaT3ROQXEzTm5sQ2ItSjZ4WHRya3FhQ1NSRUM1QVlOZTBWZmRycmFlNnc4ODV0Q0pVOFlUYkpFU1U?oc=5
-- **Source:** TheStreet
-- **Published:** 2026-11-06T18:07:00+00:00
-
-## Oracle Shares Slide 4% as Microsoft Said to End AI Cloud Capacity Arrangement - BigGo Finance
-
-- **URL:** https://news.google.com/rss/articles/CBMidkFVX3lxTE5aYzFTeTVuZGZkQlVIU2JZOHlWM0REekJmYllXUjF3UFJ3TU1DaGJwTmlKRF85cHVQUnhQZFZSeHR0MmV1UDNMUVlfZkdnS29CZEtGSWF6SWd1Z202QU5vV0tLVXJrOG1sOGRuMDVIeHQ5RkZicGc?oc=5
-- **Source:** BigGo Finance
-- **Published:** 2026-11-06T18:05:00+00:00
-
-## Microsoft winds down rented AI computing capacity from Oracle: report (MSFT:NASDAQ) - Seeking Alpha
-
-- **URL:** https://news.google.com/rss/articles/CBMiqgFBVV95cUxQOF9pWl9KSUVidWlYTmR0RURMNWsyWF9TdWZvaXA3WllqVW54Y0VPN1hoQkVWdkFrVVMtQktIVkVHOFJDMFNFWkhfdnhpaHBLaEpFYmRLdkI5LW55WmxaTmFoRFdFenlsdk1JbTNBc1NKRkgwLUd1TFdJN3d5ZmRMTnprSVgtVHh2WVFvNk9YRmlUUEw0Qy1pLTBzWXBQZFk5QTg0TlBaSnVnUQ?oc=5
-- **Source:** Seeking Alpha
-- **Published:** 2026-11-06T18:04:13+00:00
-
-## Oracle Shares Drop Over 4% to Two-Year Low as Microsoft Reportedly Declines to Renew Older-Chip AI Compute Lease - TradingKey
-
-- **URL:** https://news.google.com/rss/articles/CBMiyAFBVV95cUxQRG9GRzRyX3lGZ21ZTzlGYVpBR0thS1ZIWkliRWFBS3V0am14Q1ludWgyMU9Wd3FiTjBMTFNwMzhfeFR3bm8yWnRTc01YeHg4ajNrNHZ6NURSeTgwVEhQLVZSNUVTdTJBWXlPck1qLThlLUd1ckhkWWZndEN3SDctTU4tOU1rbGZISWNXRWtyTTdKY2hhNUxWbHBzX24tN1RBWVM5VzhINnFyZUtpMGdad0U0dm9iS3l3VWNlcUlTcjNhUTVVSXdLdQ?oc=5
-- **Source:** TradingKey
-- **Published:** 2026-11-06T17:58:31+00:00
