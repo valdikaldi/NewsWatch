@@ -1,8 +1,14 @@
 # NewsWatch — Iceland News
 
-_Last updated: 2026-11-07T17:30:59.864312+00:00 · 50 articles_
+_Last updated: 2026-11-07T21:31:15.818348+00:00 · 50 articles_
 
 ---
+
+## Installation of new radar stations underway - Iceland Monitor
+
+- **URL:** https://news.google.com/rss/articles/CBMimwFBVV95cUxPVVpVc1hULWJOQmNVMWxQdUNYdDRPLXVQb3pGV29WZzZ2MUg1UmtzaHZkZEd5bmFFM0VvbmZldnZrRXpYX0dJTERzTEFQU1ZSRGViSnFMMl9qd1JzR0dYd3ozQmZTWjhWOGZTNUpUcWhiUm1Ha3QweVFFU0ZMdTlBVFZtczdDMWlXZFBuT0tkeUUyY05QcVJsbnM2MA?oc=5
+- **Source:** Iceland Monitor
+- **Published:** 2026-11-07T18:00:00+00:00
 
 ## Why Did the Vikings Stay in Iceland? A New Study Offers Answers - Medievalists.net
 
@@ -297,9 +303,3 @@ _Last updated: 2026-11-07T17:30:59.864312+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMipgFBVV95cUxPS2pMWUFZYkY2WkZCZTVYMmVIRjNVcmswVU1aeWxWUER6bGhuTHQ0X3g3RUNSYmVZNGVLWmVERzJlbHp1ZlFmUEdtRlNlcUdLSXdGX2RyVk1tbG0zQnBnZzNMYml6eDQ1VU1QaGVnOWp2Z0tfNXJWSXNoX2YtTlhiVGpyaUpLTGNBWDF3TVJ6VkZzV2p2WDE5SnhRYkJ1MVUtTm5fNmhn?oc=5
 - **Source:** Brookdale Community College
 - **Published:** 2026-11-06T06:21:58+00:00
-
-## 007 First Light Launches Free Starter Pack With Full Iceland Mission - MonsterVine
-
-- **URL:** https://news.google.com/rss/articles/CBMiigFBVV95cUxNRW9ZRFdDTWpNRE9oM2thSDh5TjN3WkdhSmNfaDVWd3IyWFZmamZ2UlIyWHBFOG55QUxWemtET0JuSDBGRF96TmwxSU9MaWJFcEdWd2hULW9kbVIzbkFNQlVMeTlDYndfSzE4RUdsVDV0OGQzcFVKcHZKR19sUVZCWDZUbGUxeUNaUUE?oc=5
-- **Source:** MonsterVine
-- **Published:** 2026-11-06T05:23:23+00:00
