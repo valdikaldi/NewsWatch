@@ -1,8 +1,20 @@
 # NewsWatch — Apple News
 
-_Last updated: 2026-11-07T21:31:14.931552+00:00 · 50 articles_
+_Last updated: 2026-11-08T01:08:23.148039+00:00 · 50 articles_
 
 ---
+
+## Apple Watch 4 Features Ecg - Apple Inc redesigns its stores for 15th anniversary by removing Genius Bars adding trees - auroradesio.it
+
+- **URL:** https://news.google.com/rss/articles/CBMiUkFVX3lxTE93MGEyVWpNclBqT01wZzlabVlWMWhCbmg2UV9KVHF5SllLZEQxUERRYVdQQzc3Mjl5VDNUYVN2SFZRdmEwbjdYOHM1Ul9PVUFuMFE?oc=5
+- **Source:** auroradesio.it
+- **Published:** 2026-11-08T00:25:52+00:00
+
+## Apple cuts internal AI usage budgets in move to reduce spending - The Edge Malaysia
+
+- **URL:** https://news.google.com/rss/articles/CBMiUEFVX3lxTFA5Vm9OWVdfWk1tUXJVNGNyZk1lUVhRMHhMQ1pCWXhNM2dWTnFjbHY0b01mR3BTX1o1UGZldU9lNXA2N3FSZ0pFaERPOGNNaHk3?oc=5
+- **Source:** The Edge Malaysia
+- **Published:** 2026-11-07T22:34:53+00:00
 
 ## Apple Series 5 Price In Usa - Apple Store sales in neutral ahead of new Apple Inc. AAPL product releases - www.auroradesio.it
 
@@ -291,15 +303,3 @@ _Last updated: 2026-11-07T21:31:14.931552+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMikAFBVV95cUxQeTVZLVh0OW5oMHl3UHNPMGctdFdzbE5nUktBNFdBS0VZcnVwMzgtUEVwLS12bnFHNHZhTVZtX1JRZ0JHNnlBUFpjR3NLc3lqU2NsQ21lTnlyWU9Fa1dfdUI3QjMxb1hXSWFqdEF0YzlXOERWcVppV2FobU9lMjU3dmkxdmhCb2l6MFRHclJoeVg?oc=5
 - **Source:** Binance
 - **Published:** 2026-11-06T01:20:51+00:00
-
-## Apple Stock: Record Revenue Ahead, But Memory Costs Will Eat The Growth (NASDAQ:AAPL) - Seeking Alpha
-
-- **URL:** https://news.google.com/rss/articles/CBMipwFBVV95cUxPN3JpaXBrc0w2MVBlQ3I5cnBjY0RJUENhYWNOWlEyMTBOdjZIN01DWFdWNXFMeVRveldMdC1KaFBETHZXdHdKbjNOVFpGV3dFUUpUZUFUNC0zQW5fR0ZlWHhYeTU0aEtvQ2xfa2NtMXRESHJzZEQyV3ZOa3p5MWh2dFNjR0NaT3lmaXdTdi1hVU52ZUxNSnFEMEZPNjVSLTdpT1RUcEV1OA?oc=5
-- **Source:** Seeking Alpha
-- **Published:** 2026-11-06T01:05:22+00:00
-
-## Form 4 Apple Inc: Jennifer Newstead (SVP, GC and Government Affairs) For: 3 November - Investing.com Canada
-
-- **URL:** https://news.google.com/rss/articles/CBMi1wFBVV95cUxQTnI2M3MzM0hJQVRmWUF0M1JHMW83Zk51X1ducjVaLTFoc3QtaGh3QXNyYm9FSFptbW5aUVlBbWRvUnl1MDJyRmp4UHc4VXJSVENKRVhvVi1oMVY5ODJfc21FTmQ3S05HcFozTDlWWmdFN0ZKSUJWOGdnQUJlb1c0UnBtX1VhTlFtU1ZQMHkyODhfcHNVZnl3cWFBM0FteWZvZVVZUmRVSGs3MU1WUHRqYU9FaU9mLThMRmpQU2pyNDloV1ZXUVJhZEVUMnBDNHhYblY3UnlpVQ?oc=5
-- **Source:** Investing.com Canada
-- **Published:** 2026-11-06T00:07:04+00:00

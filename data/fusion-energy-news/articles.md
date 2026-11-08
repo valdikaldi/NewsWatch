@@ -1,8 +1,14 @@
 # NewsWatch — fusion energy News
 
-_Last updated: 2026-11-07T21:31:16.175350+00:00 · 50 articles_
+_Last updated: 2026-11-08T01:08:24.382400+00:00 · 50 articles_
 
 ---
+
+## A nuclear renaissance is not yet on the anvil - The Sunday Guardian
+
+- **URL:** https://news.google.com/rss/articles/CBMilwFBVV95cUxPUEFwQkpyYnUySUIxY2MyRzZST0c0QjRoRTBOMTJaOF8xLUVwVGllSGZfZ0ZfZEtlUnZ2bVJyMzRVMGNWdzBWYnpzdElzT005UGtoRnRRY3pvdjBObkxHX2k3QTJLU2QtZHFWTTdhZXdBbDUtemZMT0dIQzBEMEtNRHZfQmRtVWRraVl6ZVdCaWNBNUxIalR30gGcAUFVX3lxTE9nS05wYW44MzhOa21lVVVLQmNHQk1wb0JJU1NzTnlqak84d1VGMmFaaTdTY3J1M1oxb21qTlJaYUY4MWtsS2pmYWlzbnR6dWktZXBReTlhVi13R3FxckxYVmJCOFRRV0FVMGcxSzNncjZneWRERVdtdHN3UVc2dVZUbmtrV3ZKU2pKWkI3Y0R1NXZjTXNNUzU0UWl1cQ?oc=5
+- **Source:** The Sunday Guardian
+- **Published:** 2026-11-07T22:38:29+00:00
 
 ## DJT stock plunges nearly 70% in 2026, causing $2.2B losses for investors; Trump retains $460M stake. - Pluang
 
@@ -297,9 +303,3 @@ _Last updated: 2026-11-07T21:31:16.175350+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMikAFBVV95cUxQbHlPNnRFRUJ1Qnh5azFRSVRfdmx2YjNXakw0UUFQTTJhM2VLMTlRcERENlRycTFVRWgzNTNZUlpvRklJWFBvSW1BZU5XeUtzTG8zLU5wTWJHOHk1NndIYWJwWjZpWWoxYVBWdFZCVnZVUWR3Q3M4NlI2cTB0Z2N4T2Z6aWIwck03Y09RZmlwYmg?oc=5
 - **Source:** EnergyNow.com
 - **Published:** 2026-11-04T22:50:03+00:00
-
-## PPPL Will Work with Private Companies on the Fusion Energy Systems of Tomorrow, Thanks to DOE Funding - Newswise
-
-- **URL:** https://news.google.com/rss/articles/CBMi2wFBVV95cUxNM3VubU04X3RocUlWd0JKNWJZamhHS25UQ0s1czhnTVJILVhiRk5NOUVSYXc2MmVnQThqNDEwcnl1WTlSbUpXQ3RsUl81Y09uMFZMOXlzeDh3b0J2NUN1SUFEU3VsdURmcWZic2hVVFhRZnVQc3pkSlJMdVQteVJfeHlxLWlYbGY0TjVnM2VqNGVFWVFxYXRwcU54dzlQMk1qYzJZcDItM3lLRDBDeTAwaEZrQVZaTGVGbjhDN2RlazgtelZ2TEo1QWtjZWNxY0xlbHVJYVNWQ1hqVE3SAdsBQVVfeXFMTTN1bm1NOF90aHFJVndCSjViWWpoR0tuVENLNXM4Z01SSC1YYkZOTTlFUmF3NjJlZ0E4ajQxMHJ5dVk5Um1KV0N0bFJfNWNPbjBWTDl5c3g4d29CdjVDdUlBRFN1bHVEZnFmYnNoVVRYUWZ1UHN6ZEpSTHVULXlSX3h5cS1pWGxmNE41ZzNlajRlRVlRcWF0cHFOeHc5UDJNamMyWXAyLTN5S0QwQ3kwMGhGa0FWWkxlRm44QzdkZWs4LXpWdkxKNUFrY2VjcWNMZWx1SWFTVkNYalRN?oc=5
-- **Source:** Newswise
-- **Published:** 2026-11-04T22:35:00+00:00

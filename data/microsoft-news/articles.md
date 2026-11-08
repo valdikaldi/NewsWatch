@@ -1,8 +1,50 @@
 # NewsWatch — Microsoft News
 
-_Last updated: 2026-11-07T21:31:15.508907+00:00 · 50 articles_
+_Last updated: 2026-11-08T01:08:23.665121+00:00 · 50 articles_
 
 ---
+
+## 'The next generation won’t replace this one so much as sit on top of it' — Industry analysts say Sony, Microsoft, and Nintendo's 'relentless push for higher-end performance will need to be moderated' to avoid $1000 launch consoles - TechRadar
+
+- **URL:** https://news.google.com/rss/articles/CBMi8AJBVV95cUxOYktkOEQtVmxHQnM2eGZObkpScFNjVzNjWVpMMHhNdTRKUHJZMlVEQU05ZHpPNmYxU0FhLTc5WloteXNaVDRVRkZPSnFZTFVIY01XcGZhZ3RjYWJ6NHljWGZ3Y0NrbXBzQ1ZSa3BOam1XT3VPMVpPd1psRUt5aWo4a013eTZBVnFuU2ZGLWlSWkdzVlh5UUtrYUZqWGRFUkktb2R1Ry01Um9oU0o3U05DRVFOUlhoZzUxY0MzTlRQT25haTBIZVJ6amtDRjZDRks2dXJlT3B5MHc3bG00VWozTHQycVpTSkNTVlRGOTBJdDFfWm4wMlhkNnJxTXdrZ0RVLWVYTjUxTFBpTHpPSXdKT0JydHRteFNTSktBYjFtbnpPdngxbGstQlZ1anA1R2l3TklocEU2N3BKR2NiaGRCNXpCTi1LYnVIZ0VhZFJ4eDVCRGpvRVcxWWdYU0xGUmlCamRmTDhtUFdJSFQ3SGJCZQ?oc=5
+- **Source:** TechRadar
+- **Published:** 2026-11-08T01:00:57+00:00
+
+## Microsoft is begging you to ditch Outlook Classic, and now it’s handing out Rewards points to try New Outlook on Windows 11 - Windows Latest
+
+- **URL:** https://news.google.com/rss/articles/CBMi9gFBVV95cUxNMUdIelZBYUlGc2J0bkthWGVNUjdwSHR2dDVuSlNhbHVVRDlOMExQbnpya0VkQ3gyQnhZNUNJTFhlbTJHLXA0Zmg2cUhlVVZYVWpjbHVjOXRoeHlPZ09CSHZlU3JySU42SkpiRDQ0U2JWUXUxRTZRMWt3RzdfdmxCN1BUN2NIR0FBVHVWaEpmVlNUZHNCdWhybDVzWWRGcmdhZ0UxSGlOTDZrUU1WdDBYTVRodHJxT0ViNjNaOVFpTmtFR1AzbC00cjJTZTRpTS1ab3VzcVpWdUdMS29HTm5xRFlxcEptYnFWYnhUM3FQR0VINzJkeXc?oc=5
+- **Source:** Windows Latest
+- **Published:** 2026-11-08T00:42:00+00:00
+
+## Protesters storm Microsoft data centre site in Amsterdam amidst growing European backlash - European Interest
+
+- **URL:** https://news.google.com/rss/articles/CBMivwFBVV95cUxNdnlfZ1lUckFJSFVqOWE4SFNOd29SM0dEOFNLU2dycDN5d2lBVXloZmhIMzVpX0ZsYkpOTGdGWG1ZaVNkb1NlbUlOSm82REdvVWdVT1AxWGdZM3JpQlZVMk9FeWt1bmp1c3JKZDVtbnF3eGR5bGVSVWdRcFJiWnpjbXpGWS1VcmUwSVNlMFQzLU1HcnVTeFN1RXoteXdubzV4M1NxNUlmVWN6dzVJWnJKYllsTlhmT2ZVS201UFJJQQ?oc=5
+- **Source:** European Interest
+- **Published:** 2026-11-08T00:11:49+00:00
+
+## Microsoft Ended Personalizer 10.2 Years After Langford Paper - FourWeekMBA
+
+- **URL:** https://news.google.com/rss/articles/CBMikgFBVV95cUxPekZ3TFhweUpHbktXYzFnZHk5bmVLemlZRFRZbGl3NEtGODhGWUxlMkkwcnFHT05ILVA5VTdBR2FjSVpoSzlkYVFqY083UktZOUlMejd2cEVxV2dnV1NraXd2d19LaWo3UVVYb2lQajVYa3ZqNDF2TGNZMlhtNkVYZnY1MjZJSjhpanNCdWxkTTJmdw?oc=5
+- **Source:** FourWeekMBA
+- **Published:** 2026-11-07T23:22:49+00:00
+
+## 8GB of RAM is the new 16GB on Windows 11, says Microsoft, in an absurd comparison with five-year-old hardware, as it pushes $429 8GB laptops - Windows Latest
+
+- **URL:** https://news.google.com/rss/articles/CBMiigJBVV95cUxNRGhQOTRwUlRpRzBiX0t5cElpeFZmc2luXzU3ZTNXVnJSZmF6TVpIQ2xGZ1JiYVNOZ2pIb3czRVFwTGpzWE0wcDF3YV9NQ04xTkM2T0NVOHgxbXR5OFAxVVlHU3lyaG1YRV9SM1Zjc3dKeENoQllWOHE1QmF5bkJBVEx4MVNiNmRycVFqOEdNYmpKSzAxT3cwQ1o5NVBpM29Ub3Q4TlhaV1ctYS00SFNOUWtEbnhsMVFtWWhOLWFvd21pcnpNV3A4N054dXZxblFpZDl5Uk9VNXk2WDlHQkhHVVE2TERIZ1NTWHp0bzJLcXNDNTk1X2toWVg5Zk5xMkI3bFRFRGo5eDdZdw?oc=5
+- **Source:** Windows Latest
+- **Published:** 2026-11-07T22:30:09+00:00
+
+## Anti-data centre protesters break into Microsoft site in Amsterdam - 1News
+
+- **URL:** https://news.google.com/rss/articles/CBMipAFBVV95cUxPMnlpeXZQZXU3dm5ORzBLOEJPRlhjUXNVb3pTRGM5M0pjLVhOTXVoalJueWVtc19EdWxENkpscGE4SGdKWHBxM1ZHRXdDUFRmNFNjeFJSZ21GWE82RjlzUzRCRloxZUh6MW1BVlR3YVNzWjZTYjJQY0FDNlExTmRkd0diSENxMGtUclBUakNkTGZLZU5hMEIyWWx1emM3SXppXzA3Ng?oc=5
+- **Source:** 1News
+- **Published:** 2026-11-07T21:56:10+00:00
+
+## Tech layoffs 2026: Tracking the job losses across Canva, Squarespace, Amazon, Microsoft, Apple, Meta and others - Yahoo Tech
+
+- **URL:** https://news.google.com/rss/articles/CBMigwJBVV95cUxNXzdUTzFhNUxQbXF4MzFPVUNkekFpYkpwdkhDRnNYaldpMGxQdHloUkRSREtfRDVEMzJtU25ISUozZFN2SF9DN3V1RHRSRUJMU1oxRlVPQlQzZE5sekpCWDlrd1U4NVA0eDE4eVNlRWJxUGM4d3BweUhDWnpHSTRzTHhGaU50bjhYYlkyWVZMOWRQTTFSU0dzMUs4NDg3ak1NOVJ3eFF5Mm41RU45cnhxcmRaNHFIN0N5ZGkwdUhKQVN4eE83cWZmUU5fQlU4cTU1NS1rOEFrRzJYYjAzVnhac0NjbVBHSktkdlQ4NnhfSnlmRHJEdTV2TEhpSTNtMXdSVUxN?oc=5
+- **Source:** Yahoo Tech
+- **Published:** 2026-11-07T21:41:05+00:00
 
 ## CoreWeave and IREN Stocks Face Pressure as Microsoft Reassesses Its Computing Deals - Benzinga
 
@@ -261,45 +303,3 @@ _Last updated: 2026-11-07T21:31:15.508907+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMihAFBVV95cUxQWlNtd0p3NjRucXpvUHlVOXloOXV6SWFSMGFyYTlZNzZFUmFVcDdXWC1FWF9COUJuZXlKcFdPMUhTTUNfQ2FoYXVHS3hFWXFBUzd2YU5rTXhkVW1iUUhoamplWnpid3RhekNLSWx2MEtfVF9SR0dpVVRRcXNRaE1HY3dKOTY?oc=5
 - **Source:** Mashable
 - **Published:** 2026-11-07T10:00:00+00:00
-
-## Microsoft compared FSR 4 on Xbox with PlayStation scaling technologies - GameGPU
-
-- **URL:** https://news.google.com/rss/articles/CBMitgFBVV95cUxQOV9XRHZOSzR3RWMxem9Odmg5VzMtaVAtYTNYbUk5d1BCRGJfeG94dkxNN2daYkVITkRrSEQwMi1hTkg5TWhRU18yV0lFTmNMOHdhTU13WUI1NnR0VkJJNVg3S1hQVVhtSjFVVExmeEF3dWtnMk5XMVhyZ3JCWk9YUnR6UFNDeFVaSE5EQ0pzRmEwTjNHVTJXZWFocjV1OHg3OVNhYnZnWUc0WEl3aWJ2R0E4UGlwZw?oc=5
-- **Source:** GameGPU
-- **Published:** 2026-11-07T09:21:55+00:00
-
-## Google Workspace vs. Microsoft 365 vs. Proton Workspace: Which Is Best for Developers and Freelancers? - SitePoint
-
-- **URL:** https://news.google.com/rss/articles/CBMihwFBVV95cUxPaTNyYVZTLXZxUmVJSnJJaGNySW1QSnJVek11T0locnRPSG9FTXpqcEVKSmx5WU9DMnFPSHlQbmdPdEhNU0k1V1NjWXBMZ3VIdEl4cE1DS09saFU4TFQtRWJfVkdvVDV2MlZEYmZYY0VVWTFhejN1b01EN2pid0JfanZVRUE3N3M?oc=5
-- **Source:** SitePoint
-- **Published:** 2026-11-07T09:20:17+00:00
-
-## Microsoft could sell Xbox as analyst raises concerns over gaming division's future - Sportskeeda Tech
-
-- **URL:** https://news.google.com/rss/articles/CBMitAFBVV95cUxPOXhzVlZ3REstUTFjeFdmeTNPT3lDLWxTWkVwTWNLbExFeDI1cnBLNjBqTVhQUnRCb0tsMVZ0OXhvbTZNUk1GZEJLSzNQR2RMNVUwakU1bG1rVlJMZlJYY3V6czRMYl9HQllQcVJHWlpXT1I0aDlBS3RndEhkSUhEY3JHY3dzQ2puWUFIYzlXeW5WdWtNMk5sb0hlVlVva25nbklQNWN5WEpsQnRQRDJFTkl1V0s?oc=5
-- **Source:** Sportskeeda Tech
-- **Published:** 2026-11-07T09:08:19+00:00
-
-## You don't have to wait for Black Friday to get this Microsoft Surface laptop at its lowest price on Amazon - PC Guide
-
-- **URL:** https://news.google.com/rss/articles/CBMi0gFBVV95cUxQUXZ0LUtOc0dvOGJKVXB3M3UtWVl1dE5GUk5LZmZXbDFWRVF2RGM2S3dDT1BxNmx1aEpjT25oSncwbU9lRFo1MkE0MGxzU3BUMDQ0bjlrcjhhTENHQTBsVmtmeFZVNWpRSFB6OEdoWF9BVGxHWjBudEw0Tm1UVXF3WHl5alhWYWQ3YzhlUklwSG5hWTQxbjZNWm5zWWY4MU9aSjhndkxRMmFFVVYzMDdONjJvWUVvekxtc0Q5Y3VmRjRLNVRJUlpSSGhaV2I2NFZoRVE?oc=5
-- **Source:** PC Guide
-- **Published:** 2026-11-07T08:36:05+00:00
-
-## Microsoft Edge 157 Stable Release Adds Faster App Launch for Windows 11 - KuCoin
-
-- **URL:** https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQlhNclNUbWZ1UlhJODNOWXMybFhhVF9WaGxOOGFzcS1PckktM2p2LWEwVjVLY1M2WkZpWHBISmZXTnhPbERKUk5uUmM0RHJGa05rd050bk9wT3UxRzJfaVFZMURaTGdnbmFhSGsteVNTNVg1X2s2dTBjcG8yWE1KYXBLYkdGeEdIcnpUNEI3bzItMlNaY044d0t4ZE95SkRZN29ONWFPNnY?oc=5
-- **Source:** KuCoin
-- **Published:** 2026-11-07T08:33:26+00:00
-
-## Oracle ( ORCL) Faces Pressure Near $100 Following Microsoft AI Contract Non-Renewal - FXLeaders
-
-- **URL:** https://news.google.com/rss/articles/CBMivwFBVV95cUxQVkcwRUV5blZLVGZkNHFJbml3eEhmdV95eGdYdFRlMHVVMDJaWnd3cXpPYjduWXo1VmY4dnhkQnkxWWFWdDROMHFNOUFLZHQ1ZTNnMUtrLWZ1UDUxVklZOVBjbWpvOE1GbWY2MGNMYThmUXctRDJ4V1hROXBKNC0ya0x5MkJjT1pRcHZzMEJDX3ljRmU0dU82djhOWDBMODZfWTREdWg0WjZiTEJtSHdDN2F5YmcxeERzVmpXdjNMcw?oc=5
-- **Source:** FXLeaders
-- **Published:** 2026-11-07T08:15:51+00:00
-
-## Microsoft Prioritizes Own Data Centers Over Neocloud Partners - KuCoin
-
-- **URL:** https://news.google.com/rss/articles/CBMimwFBVV95cUxNUmhjaG5oUzU1NVREVnd6Y3VXbzRwMjI5d0VIRmRBRF91MG5YZ0pKU1BsWEIyQV9oWlBrYmFWODJHTTBDaXo2YjAtTF9OaUpxYzRkUGlIMTAxVER2dWNsVzlrSjVkXzZjc3JBVzhCU0JfdjdYcjF2Q2xLSUdPVVFGaElFQ3c0RFlsWVFueDhJSDY1emVFX3BkNUtJVQ?oc=5
-- **Source:** KuCoin
-- **Published:** 2026-11-07T08:03:32+00:00
