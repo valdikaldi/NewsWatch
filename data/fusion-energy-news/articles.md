@@ -1,8 +1,50 @@
 # NewsWatch — fusion energy News
 
-_Last updated: 2026-11-08T01:08:24.382400+00:00 · 50 articles_
+_Last updated: 2026-11-08T11:05:34.980899+00:00 · 50 articles_
 
 ---
+
+## Mumbai Mélange: Where Art Meets Fashion and Showbiz - Open Magazine
+
+- **URL:** https://news.google.com/rss/articles/CBMimwFBVV95cUxQRE41WVFSSnBnWjNhSHFjUWtfaEZJRWZNcE1fakxIWl9hNjVpUE5Nd2xnYkY2Q2RMNGNmelZGS1RPZHdhcHhVU1ZDTVZOQXpka1JselJNM1hacW5qdDV5aTlWQWhNSXZ6ZkhKM0RjS0NBQkRZR2pZVExiblRhZThiQjQ2NURMZDlPTFBkOHlpZHdrZkdsLVZJZ0tiYw?oc=5
+- **Source:** Open Magazine
+- **Published:** 2026-11-08T09:40:45+00:00
+
+## Ryu Soojung, DJ Suki Take Stage at Gangnam's Sports-Music Fusion Event - 조선일보
+
+- **URL:** https://news.google.com/rss/articles/CBMijgFBVV95cUxOQkRXNVJQQV9TQzNaOXVleEppMTEtT1NqMHVxM1RETHVKWEwzYkd3eENtMkh6ZG1iNzYyWnFZZ0lqZTR5UjFBXy1SSTVuUWJrZkFOLU9td0tpY1htYktaTHZuS1VQRzltY2hmRmo5UDZ2T1JCZ09Tb3JWSlc0cDgzUy1ubC1sNGtqQzRBSXZR?oc=5
+- **Source:** 조선일보
+- **Published:** 2026-11-08T07:38:32+00:00
+
+## Trump Media’s investors lost $2.2 billion - SABC News
+
+- **URL:** https://news.google.com/rss/articles/CBMif0FVX3lxTE1TUlI5V0Z2WEhLdjBOVGwxNVR1cENIWE1wbmF6UWxlTE1ocUgxOVUzSTBoWkNjbDA1T0tnX1lzdFlwbVlpSHZ5UldqVDlobnd6ZHFCVjRBX0FmTkRvMmhrdVBQQmstajVNeHRpYkVPa3Q3WlhSNDhyaWhZdmZGZUU?oc=5
+- **Source:** SABC News
+- **Published:** 2026-11-08T07:27:36+00:00
+
+## Jodhpur RIFF: How Polish singer Karolina Cicha created folk fusion stage magic - t2ONLINE
+
+- **URL:** https://news.google.com/rss/articles/CBMivAFBVV95cUxOcktaQ0VuWkxEcnNFU0NZM3RvRTFZWGk3aWlXYTdYMVlrMWFJN213VUppenluTTVUcG95N2l3SGl2c2FabGxUUHFtcTFIUHEwSHpERE5CSnEteElja21BVUVpRXg5UjBCOXBCTUg1b2pDR2hCTnVZVkR1R2hJVnVMME5GTUN0bHpsSS1QaEh4Nmw1QU5CdHdCWEZIN0FnVE9OQlRHTjBqQUJoai1hZWJ2Sm9EbXdlQkdoa3JTaA?oc=5
+- **Source:** t2ONLINE
+- **Published:** 2026-11-08T06:00:00+00:00
+
+## Air Jordan 6 Retro Tinker Hatfield - Air India unveils new brand identity aircraft livery Company Business News - auroradesio.it
+
+- **URL:** https://news.google.com/rss/articles/CBMiUkFVX3lxTFBIdV8xOU1zOUtSemNGWnNtWk9YR080OVFZT3IzUWFnaHBPZmowbEwzSFE1ZklvQllLcWp3d3QzcGtYMnZKcXFTNTJuOVBqRFdoQWc?oc=5
+- **Source:** auroradesio.it
+- **Published:** 2026-11-08T04:44:55+00:00
+
+## This week on "Sunday Morning" (Nov. 8) - CBS News
+
+- **URL:** https://news.google.com/rss/articles/CBMid0FVX3lxTE9UQ1piVHdJM0RGYWxSdVQ5aVRpdklOVkUtdGpJckYxdjlzTUJIbFNTcE5RcFQzVW02MU9BQjNMSkJRSFlOQ1NrcnJsVnFYZ0p4aUZCUlBtcGJxanZGQ0tRQmY1WUczRlFNeU50dHFYaElMTVYzRm5z?oc=5
+- **Source:** CBS News
+- **Published:** 2026-11-08T03:06:00+00:00
+
+## Air Jordan 11 2019 Bred - Air India unveils new brand identity aircraft livery Company Business News - auroradesio.it
+
+- **URL:** https://news.google.com/rss/articles/CBMiUkFVX3lxTFBJZVdjQ3p6a0YySlNvME9VWV90dE8tZUNwX2xfZ1FBS1ZtNklGTmV3YmFQUTdYc09LV1c0SEN6aHdjYXZTZWFQaFpxV2p5NzlzT2c?oc=5
+- **Source:** auroradesio.it
+- **Published:** 2026-11-08T02:21:18+00:00
 
 ## A nuclear renaissance is not yet on the anvil - The Sunday Guardian
 
@@ -261,45 +303,3 @@ _Last updated: 2026-11-08T01:08:24.382400+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMiZEFVX3lxTE94bGUwZF9FM2JPTmt0ZkxUTXNNeHllWGVvQlY5d2pkVjR5ZkduYWJKX3pzV3ZzMXFoTl9tdlFJN3V2c0ZmeTNYWng5VVUtcDkyOEs2SV9PTzFoN2E5MVZFaUg3Unk?oc=5
 - **Source:** 아시아경제
 - **Published:** 2026-11-05T09:02:48+00:00
-
-## Construction of Naju’s 1.48-trillion-won Artificial Sun Research Facility Picks Up Pace - 파이낸셜뉴스
-
-- **URL:** https://news.google.com/rss/articles/CBMiWEFVX3lxTE1YclFSb0RvYXRoNnJDVHpYX09UUWU0TUp6Wm5KZXdqUGhJcmVHemJJbktHTlJOUlU1bl8ta3cwYV8zN3E0UVRpY2s4N1JtcHNxaFNpb0EyU20?oc=5
-- **Source:** 파이낸셜뉴스
-- **Published:** 2026-11-05T09:00:00+00:00
-
-## How Fusion Energy Is Connecting Talent Across State - independentnews.com
-
-- **URL:** https://news.google.com/rss/articles/CBMi6gFBVV95cUxNVFBQdXl4cFR1ZmJSZ1Y5cEVDR1FxOXRoMmIxMk5MeERRTTJHUGJPTFc1dXBvODlfMjl0WU1JOFlJN3VUQ0lyZEhkYkZqTTIzQ084X2Rpa245S2JRQUQwVzliV3BueGZSMFZCNERFQVVveGVCVEIyZEVwd1A1Z1A3TXNRSVkxZDBfaGVuVUQtOXY1V1lsOUhQemxBM2o0ZTNqNEx2VjFoX045NHRZMDZaT0RSR3R2cFFkXzZOS1R2MUFzWk0xYmJfN0pZcnA5YUVubXQ1UUgyNWFnZ1BLYnJWZTUwUFpURWtLbkE?oc=5
-- **Source:** independentnews.com
-- **Published:** 2026-11-05T08:00:00+00:00
-
-## Studsvik wins contract related to Novatron's fusion reactor - www.marketscreener.com
-
-- **URL:** https://news.google.com/rss/articles/CBMisgFBVV95cUxQLWZ2aDRwd2YzeE11RVktWEtxMTFpaWphWTlMTUM0UVdZanBydU9MbVZGWEhXT2JJd2hoOWpMdlFmdFpXZUpWOXNyN3gwbjhnQ3RZU1JJcVhNdmJmeEJzM3NfS1dTVEhLM2IwQmVMSEVKR1dFcEFKVkxNYnZ5Y3c3QXctZ3dMUk9GMGJWRjYtMmpndkxWb1lINDdldC1Ed0VvZm9IeHJ3dUFBYm1rTHlYTS1n?oc=5
-- **Source:** www.marketscreener.com
-- **Published:** 2026-11-05T07:34:18+00:00
-
-## Novatron taps Studsvik’s nuclear expertise to guide fusion reactor design - Cision News
-
-- **URL:** https://news.google.com/rss/articles/CBMivAFBVV95cUxOOVdEbFFJU1VjVXF4NFl6SW5Qc2UzX2J6S0VJWkdDai1haDMxWFlKYUJGa2JHTERvTEYyT3VkWDVvYjUyMEJRd0V6Q0tfUnBCRlFmNlFpYkoxbFRMdXpMbmFYNHg5QTMtb2t6dzRoQlFZRGxkVE1rRFdVWnRNQkJyVTROWkliNjlsRlRZOE5Vei1OME9MbVFOdzBMV3VQYmYxdmJBQzN2VlZGbUdsWFlrR1lFVWluVXYwdkZZRw?oc=5
-- **Source:** Cision News
-- **Published:** 2026-11-05T07:00:00+00:00
-
-## General Fusion Group (Nasdaq:GFUZ) - Stock Analysis - Simply Wall St
-
-- **URL:** https://news.google.com/rss/articles/CBMihAFBVV95cUxPdHR5cUNXNkJpN3BjYnEwVEU4QUxJcndiN0F4T09mQ3lWdzY5ZmlFRVpHUFVfb2Z4b3cxQWRMMlhEajB6MTgzcTZGNU9XSnlxcWQ5TGJaOTR6dFBic1ZLcjlQRGJtclI3ZDdOS3IzdUtzdmlCVkFXNC03Um1KUll5QTN2TXc?oc=5
-- **Source:** Simply Wall St
-- **Published:** 2026-11-05T05:24:11+00:00
-
-## MIT puts next-generation stellarator magnet through full-force test - Interesting Engineering
-
-- **URL:** https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRzBReHlEQlBhX3BKVnNSQlhjZU5pLUV5MDk1TXRuMG5sbDhCVVBXUlJtUGh4ZzlQLVNCODFDNEdJc19FaUtuMjEzNVY1SHRlNjk5TjdCdkM2MXN2OXU3a2Z4eU1pSmRMY1B4dVV4d3ViSDZLVWVMQ3lxV3Fmb3h3ZXdYZWxYZ1My?oc=5
-- **Source:** Interesting Engineering
-- **Published:** 2026-11-05T03:11:00+00:00
-
-## How Trump and AI Data Centers Are Boosting Nuclear Power - EnergyNow.com
-
-- **URL:** https://news.google.com/rss/articles/CBMikAFBVV95cUxQbHlPNnRFRUJ1Qnh5azFRSVRfdmx2YjNXakw0UUFQTTJhM2VLMTlRcERENlRycTFVRWgzNTNZUlpvRklJWFBvSW1BZU5XeUtzTG8zLU5wTWJHOHk1NndIYWJwWjZpWWoxYVBWdFZCVnZVUWR3Q3M4NlI2cTB0Z2N4T2Z6aWIwck03Y09RZmlwYmg?oc=5
-- **Source:** EnergyNow.com
-- **Published:** 2026-11-04T22:50:03+00:00
