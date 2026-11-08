@@ -1,8 +1,20 @@
 # NewsWatch — Apple News
 
-_Last updated: 2026-11-08T17:41:55.583105+00:00 · 50 articles_
+_Last updated: 2026-11-08T21:46:40.982175+00:00 · 50 articles_
 
 ---
+
+## Apple Series 44mm - Apple Store sales in neutral ahead of new Apple Inc. AAPL product releases - auroradesio.it
+
+- **URL:** https://news.google.com/rss/articles/CBMiUkFVX3lxTE1ncW5PVzlJRnFDaUNiSUxTZVVPdENLenlSMlBBZjZWVHZrWkVpRDVfci11ZzJPWWdUeGJpZnN4MGE3OC0zeDBDbThkYjdiS3N2RWc?oc=5
+- **Source:** auroradesio.it
+- **Published:** 2026-11-08T20:26:24+00:00
+
+## Apple Cuts Internal AI Budget Amid Strategic Cost Reductions - RS Web Solutions
+
+- **URL:** https://news.google.com/rss/articles/CBMirgFBVV95cUxPb3BTdGhNbk9FWng3cEtvdVZfWkNUSkt0eDNGbldzdXJ3TnJxZG5yUXRYSjdfMVJmVm5ZQ3AtYk9YLWNlR2R1OVZIdUtTVUpzcUtTMm5UM3Z6ai13c1ZtNzVJemIwWloxRktMeFhoMVg1cW9PYVVBU3ZEOElDQm9xQmFWQWxLN25jQ1c1Y1I4b1Vjby1JRllKVWo0Z1NVUWtPVlRDMjZpYXcwLWpIQUE?oc=5
+- **Source:** RS Web Solutions
+- **Published:** 2026-11-08T18:00:00+00:00
 
 ## CPI | Apple’s DOJ Antitrust Fight Draws Epic, Samsung and Roblox Into Legal Clash - PYMNTS.com
 
@@ -289,17 +301,5 @@ _Last updated: 2026-11-08T17:41:55.583105+00:00 · 50 articles_
 ## Apple Inc. $AAPL Stock Sold by Net Worth Advisory Group - MarketBeat
 
 - **URL:** https://news.google.com/rss/articles/CBMitAFBVV95cUxQVldLbHlsWVlGbUFmQzNRSGJDdkx6V3FMWFppTGpBYThxSmNCWlVrS3JudFFaOHhfVnJQSHp1WERsY3dQUGlXMm1EcWM3bmxXRHBma2t0ck45SjFvQVZSN0YwdUhlYy1kY01Xc3pETUI5TExGR250UmtVS2tlT0JJcWhrTnRpUFk3RVJRYUFpM01qUHhXS1ZKWllBWXBtNDVuOTlfU0xTbV9nMGFHMDhnYmFVaVA?oc=5
-- **Source:** MarketBeat
-- **Published:** 2026-11-06T09:36:28+00:00
-
-## Apple Inc. $AAPL Stock Bought by MBM Wealth Consultants LLC - MarketBeat
-
-- **URL:** https://news.google.com/rss/articles/CBMiugFBVV95cUxOYlZHS1NxMkphOVJiRFZJV2pTY21sd1VLSnRURE81MUpicC1aN3RDLVQtaVQ0ajhidHJmUnJOeHI5cENOeERMVC1hN1V1Z19hT3lfamx3NUFWcnlpTWpTWndGd29lZkFacG43LTZmSmI0Vjl5MlVlRzNOcGhGajZXNTFDOEtwLW9QRHplT3BvYWRSUWlTbnljZHg1ejBUaERzdzZtWkZFcWlUQ3BpNTFmdlI2NGlYZTFDZmc?oc=5
-- **Source:** MarketBeat
-- **Published:** 2026-11-06T09:36:28+00:00
-
-## 2,537 Apple Inc. $AAPL Shares Sold by Lazari Capital Management Inc. - MarketBeat
-
-- **URL:** https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUmhySGxncDAzdXNQd0RFbV9QenQwYXd4MG5xR3pMa3l5UWlIVF9yQ2F2Q1k3QnMzaXNSb2tIWGMxOUZSVU5qVDhaZkVLQUxTZl9pMzZNM2FTa1JCTVdaUmctNkpiZkZXX3ZRSlJDVFBmbDltOHBtNmQzX3NtbmVmbFJVVFNmUW5aV2ljUG5PcTVldXRBS255QTU2dGhLSnhLVTBEOHV1Ry1aT1MzS01JUlRYODd4T1ZVWnhtSUlMeEplZE0?oc=5
 - **Source:** MarketBeat
 - **Published:** 2026-11-06T09:36:28+00:00

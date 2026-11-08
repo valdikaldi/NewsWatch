@@ -1,8 +1,26 @@
 # NewsWatch — fusion energy News
 
-_Last updated: 2026-11-08T17:41:57.012225+00:00 · 50 articles_
+_Last updated: 2026-11-08T21:46:42.370869+00:00 · 50 articles_
 
 ---
+
+## Air Jordan 4 Retro Womens - Air India unveils new brand identity aircraft livery Company Business News - www.auroradesio.it
+
+- **URL:** https://news.google.com/rss/articles/CBMiUkFVX3lxTFBpQzllZmdUMm1tZGE1WmNpMzNnb2pzd0IwcmJWWXZ3VnZzRG9BZE9hTEJsX2duajhxZTdRd05uRDhTVTNpc00wdi1WR0RGdmdsM0E?oc=5
+- **Source:** www.auroradesio.it
+- **Published:** 2026-11-08T21:23:27+00:00
+
+## AI Frameworks Optimize Battery Life and EV Safety - Bioengineer.org
+
+- **URL:** https://news.google.com/rss/articles/CBMif0FVX3lxTFBCMUpmNTc4S1RMV3dmUjc5TnU5QXpzWUZybmVXMUVjVUhRVVRWVzhzTGdkYV9SSi1SN1BVRUVmMFFDMktReGpyUm1rMlREdnB3Ni1iZ1RfYzkxMG9WVWRxLW1kRzNWSWpFa3hyQnRDX09uNHBlNlBNMGhOaDFtWTA?oc=5
+- **Source:** Bioengineer.org
+- **Published:** 2026-11-08T20:19:53+00:00
+
+## Abang Jo on how clean energy will draw tech investments - The Edge Malaysia
+
+- **URL:** https://news.google.com/rss/articles/CBMiUEFVX3lxTFBBVGNGQWFLRm85SlZId2hucEZ4U1BJUU9RMTFYaDBHSTZCTDNaN3cwUlEtYXdXOUtvRFM0dUZiQlJKTTUtaHBHS3REa2paYkVn?oc=5
+- **Source:** The Edge Malaysia
+- **Published:** 2026-11-08T18:28:19+00:00
 
 ## Air Jordan 12 Playoff For Sale - Air India unveils new brand identity aircraft livery Company Business News - auroradesio.it
 
@@ -285,21 +303,3 @@ _Last updated: 2026-11-08T17:41:57.012225+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMisgFBVV95cUxNY2RqUlR4MFZ5ZkRzdUp6M0tPLXVrUFhkRWRKVU1fZUh6cy1RZ2RqLW5BZFhmbVF2M011UkxCN2pjOFpEazV3V3Rrd1N2aXV1eHRUSU5GcHpvM2g3SG56STVmS0hDM3BteXZmODZiQjQxS2V6TUc0NTNYLXlJa25vTk83b0NuRnI5SlZDS0xsdFVGOUFpSHpzbVpreWR6ajZvZmhubnNrZ3VLazZqQXdjc3NR?oc=5
 - **Source:** TipRanks
 - **Published:** 2026-11-05T10:01:08+00:00
-
-## Korea to Launch 2.2 Trillion Won R&D Push Led by Fusion Energy - Seoul Economic Daily
-
-- **URL:** https://news.google.com/rss/articles/CBMiqAFBVV95cUxPaEhBYTM1RWxuRnpRaEI0UHB2RC10VHZMaXotSVNTMWZ2bWRNVndJQm5IQXdxVUE2RTlaYkJwTVd1dGZEdGdaNGJCYzFqemhyRmtiWWR1bU1sRmJSRFg2U1JmNkNzX3dwWjA0MjB4TFFla2dORkJTQ3FpNVNVeHc0dnVsb0dLbGlDUjRfMGJ2TVN3OG8wWnF2bnEtZ3R5WGhqVmtwSEVKWm4?oc=5
-- **Source:** Seoul Economic Daily
-- **Published:** 2026-11-05T09:51:37+00:00
-
-## MAST Upgrade gets major heating boost as 12-tonne fusion component installed - Innovation News Network
-
-- **URL:** https://news.google.com/rss/articles/CBMivgFBVV95cUxPU3FFYl9fVFRIVnBGckhLTEF6OERQZTUzNE1YaGU1MDJVOFBfRzNKQ016ZEE2eDVjOVluWmN4Ym5raG9ycVlEQ3c4T01wUmRMYmhpUU5hZnE2aXZGQzhTWG1xZl9FRi1jV2RhV2lqcUVVT2FrSGVISTFfRGRVWmJTbnVSQkNzZ0FWLWR3Rllhc1JvbnNsLWxVcENQeEQydnl5VUt5b19lbUlUODBSR1g2akxEd19uNGxMeERzcG1n?oc=5
-- **Source:** Innovation News Network
-- **Published:** 2026-11-05T09:44:18+00:00
-
-## Swedish Company Announces Commercial Availability of Clean Nuclear Fusion Power - PR Newswire
-
-- **URL:** https://news.google.com/rss/articles/CBMi0AFBVV95cUxPTl9oNV9ZME1WZzB5Xzd6aXcybUQxTEItaDJLbkVOQ2hKbW41OV82SHJuTmdaNzF0WTRhbDlBMFVhSjFvdm5rcjFleEduTGU5MlFseDNXMjNNZG1LNktrTHhNQVZ4VG0weUZNMFdxU1ZKRG5uR05KbHlRVkswOUdRaWJEWU1mWnlTSWFHMENHYmdNUV9XbkRMc3d2Z2NLbVdncFRjZDZIb0RySWo4UVUxVGtPSmhRai02YTRzZ183Z1RCMkRQQ1R6MlNralB5dzJN?oc=5
-- **Source:** PR Newswire
-- **Published:** 2026-11-05T09:17:00+00:00

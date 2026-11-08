@@ -1,8 +1,26 @@
 # NewsWatch — Iceland News
 
-_Last updated: 2026-11-08T17:41:56.620699+00:00 · 50 articles_
+_Last updated: 2026-11-08T21:46:41.915942+00:00 · 50 articles_
 
 ---
+
+## Minor mag. 1.8 earthquake - Iceland: 3.5 km SSW of Geirfugladrangur on Sunday, Nov 8, 2026, at 08:46 pm (Reykjavik time) - Volcano Discovery
+
+- **URL:** https://news.google.com/rss/articles/CBMixwFBVV95cUxPZzNSeFNzdXpuWkEzeXFDaFZiVkJLT3JrMDlkU25tcFFIaVV0a2ZiXzBvSGVYeFBPb1pTVUdGemxUeFItT1F5TTFGWmR5dDhYVUNZek9OYXF3TjAtaUxqeHlPYVdVa2dieUo5YWVCcnlxRFdsSXEzNk4tVF9GNG1Qcl9kLVl0ZGlyVlhRSkdRTkVmTjdkdm0tYkZXMC1SWjFxekJGVVNVU09LbGg2Z091OUJGN09udkJCMGpyQ2E3dURQTmdzWjZj?oc=5
+- **Source:** Volcano Discovery
+- **Published:** 2026-11-08T20:51:35+00:00
+
+## Fifty Wycombe High students explore Iceland on school trip - Bucks Free Press
+
+- **URL:** https://news.google.com/rss/articles/CBMiqAFBVV95cUxOY3ZxN1FkT1N6THY5cHctRW00STBHaGFVV0l5NkpYd3VTZEgtWXBkSEE3SjVzV3hTeW1yVmJpRUVHekVUYVJ1akxMNnZWUEhQdzRXaG0zcFFsVDcyRnNibjl6TW9vdkZCNEZTbHpUbXFNQ3ozLXV6cWdicHB3YUxkdnBXcGRKa3ZtZWVTc2J3UVV5RVNiSEQyZEZOcEhUSy1XdnhKQkJnVjg?oc=5
+- **Source:** Bucks Free Press
+- **Published:** 2026-11-08T20:00:00+00:00
+
+## Weak mag. 2.3 earthquake - 16.1 km SE of Húsafell on Sunday, Nov 8, 2026, at 06:57 pm (Reykjavik time) - Volcano Discovery
+
+- **URL:** https://news.google.com/rss/articles/CBMivAFBVV95cUxQbGR0dDZOTzVLQ3hPbWg1YklRX0U3cXFBeUJlN2N5NVFMWExEUjBRWmpjY0Fub2cwcFlvczFWXzVzdXhacEgzazBWRXJwdEpQSThEWVFzRWUzbGJVc1g2NklTWUYtMGxRS0FhRzY5RXI4bE9ENm95RER6eVlDOEpnOFNKLTNxSmdYbjF2UGwtUFRpc29TTHdaa1ZJRnhwZVR3c1VDanF0UmlUM2JNY3JNLUxtcHNzWkt5dXV6Mg?oc=5
+- **Source:** Volcano Discovery
+- **Published:** 2026-11-08T19:12:51+00:00
 
 ## How a tiny island took on the British navy over fish and won - Dagens.com
 
@@ -285,21 +303,3 @@ _Last updated: 2026-11-08T17:41:56.620699+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMivwFBVV95cUxPZHhYcTEtSnR5Sm1BUDJVa3BqRUczTEdJR05xMDl3RnRpX2J6X2ttQTdsVlZHSW4wYlQ3WE1mTVJjdjlzV3VHS3gyZVhqMm9qSVRuTDN0U1hBUUpIUndxcnFUYzdEZDd0VjV2NlJhd2xUVThRQTNTMk5kSFJ2QTRQMjh3VHExenlSdWw5NUIzZWMzYm14UC15Vmtnbm1JeG5ud3l0ejFYemFuV2lqOVFUTms0Q0ZqM3RqUThqMzMtbw?oc=5
 - **Source:** Britannica
 - **Published:** 2026-11-06T21:49:18+00:00
-
-## After a Week in Iceland, Here’s the Cold-Weather Capsule Wardrobe I’d Pack Again - Women's Health
-
-- **URL:** https://news.google.com/rss/articles/CBMifkFVX3lxTE84TjJibjJDTzhZOXgzZmZFcWhHVi1qT3EzMHBiNFp3M2R0aGxiZHAwd05kbEN4ai1KTWNpT3VJeFJPV2I3SmVDUzhqaHF5b0FNVEdweFg4eEdxbndicTFZVHNiNVJQM19UUU5DV0xic29DR3Q5QWlMUjMzX2tJdw?oc=5
-- **Source:** Women's Health
-- **Published:** 2026-11-06T19:59:00+00:00
-
-## Kourani suspected of being behind bomb threats - mbl.is
-
-- **URL:** https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMHhhRU9ocHJLcmVOaGR6SlZuYV9TcTROUTNCbnJJMmFOczJnQmw1Q1lYa1JmM0JXUmlXNjd1S0k3bFpuYktoUmNuOEpnYjVmZTdCVVZJMl81b2QxQWN4d2NiRGV0UDFMSlBSX2dOS1B0MHBBUHE3akdxU0xZT3VDNnlaNmVQVVplcWc5UU8xWUpvd01kZmNWanl1VW91TEkzYzA4SWFyVV9Xdw?oc=5
-- **Source:** mbl.is
-- **Published:** 2026-11-06T19:00:00+00:00
-
-## Iceland Allows International Students to Work Without Separate Permits - TechJuice
-
-- **URL:** https://news.google.com/rss/articles/CBMinAFBVV95cUxPTjdOaUFBX25UTTU3ZVFuYjFTZUhpdXVkQmFLTHlHYVRXTXZIejU0c0N6ZFBNS1V6MVAtblU4Y2pNd1VMeFFiVE52aml0bnhjbmU4VVFwX3pBdDZPeE1nYkZqNVU0OVJ4aFRJTklBeXlFSTJKaVNpSGZxZlluY2Z6ZlJzNS16TFV4VmxWUEowX2JZNFROWi0xYWVEeUU?oc=5
-- **Source:** TechJuice
-- **Published:** 2026-11-06T18:16:41+00:00
