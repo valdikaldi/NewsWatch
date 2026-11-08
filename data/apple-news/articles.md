@@ -1,8 +1,38 @@
 # NewsWatch — Apple News
 
-_Last updated: 2026-11-08T11:05:31.282506+00:00 · 50 articles_
+_Last updated: 2026-11-08T17:41:55.583105+00:00 · 50 articles_
 
 ---
+
+## CPI | Apple’s DOJ Antitrust Fight Draws Epic, Samsung and Roblox Into Legal Clash - PYMNTS.com
+
+- **URL:** https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcnVkQS1CQWJoT0paZl9kUi1QQk1kMWwxdVdSdlhvTDVTeERvRXk5cWxadkN5MWZZaEFEYU9OU2h6eFdMd2txQmxNa0VQb3I2VXBlQ200clZKZjUyazJmcGI3bGJZTVV0S3g2NVcyS3gwZ1Boa0NqVUFlRUlvLXFRNW4xeG45OWpHM1gzQVVnSnJJNDZvZDZNVERLQldxejFpcnV2V0k4dVUxNnc?oc=5
+- **Source:** PYMNTS.com
+- **Published:** 2026-11-08T17:09:46+00:00
+
+## Apple, Palantir, AMD and Nvidia Put AI and Earnings in the Spotlight and More: This Week In Tech - TradingView
+
+- **URL:** https://news.google.com/rss/articles/CBMi5wFBVV95cUxOYnZrRkgzaFBfSlBPcTNlZGpXX24zTDU5OVYwcDFXbHV4NC1HQkZOcmMzNDlpSEc5Sy01bk9Iam9NMHNraXFWSHd5aXI1RzVPaHFubGFnWndpX3dMbW9YdWs2cUVGcDJ3UndtUGJPa045OXYtMWVMekVWdnFLSE5SQWdTZGRfaS1QQXlkeTlJd2Fod011XzFsQ1REdGVMRjVaT3RoazVvYTZyZ1NVcVo0UHMxRjFmUFI2YmloYkNVUkFPNGN1ejhxUHBoYjBPLW5nNF9saU5EZnhCdmt5QTdhNVVXbjRobGM?oc=5
+- **Source:** TradingView
+- **Published:** 2026-11-08T14:00:08+00:00
+
+## Apple Earnings, Valuation and Micron Opportunities: 5 Key Stories This Week - Apple (NASDAQ:AAPL) - Benzinga
+
+- **URL:** https://news.google.com/rss/articles/CBMipgFBVV95cUxQRjRSUC1IRVkzZlJLVU5CYktVdnUwNzBGeHZMc1V0bElyclZubFplaS00VGphY05ybVp2M0F2QlNrd3RSVEJUcVR3NDlFTHc1d1VxUFl3ZmxoWVNxUWo2WUJpQlZsSkduMWtXOFlXR09hNEE3QlNHdmtIYXRVTHRMaHRPdmtlV2pveXdVaHVoZDJaeXQyYnRTTlNwcEJBSFdPdzJGcG9R?oc=5
+- **Source:** Benzinga
+- **Published:** 2026-11-08T13:00:08+00:00
+
+## Apple Watch 4 Gold 44 - Apple Inc redesigns its stores for 15th anniversary by removing Genius Bars adding trees - www.auroradesio.it
+
+- **URL:** https://news.google.com/rss/articles/CBMiUkFVX3lxTFBhV3RBUWJKNHhUV0xKM0RFNGktdHpDTFUxNE9Jbk9nWWk0QzBYUnhLV1RPZXZMSXR3czZoa2RSVV9CZS0yZzhGYmlJQmUwRy1sbXc?oc=5
+- **Source:** www.auroradesio.it
+- **Published:** 2026-11-08T12:56:16+00:00
+
+## Apple Series 3 Watch Target - Apple Store sales in neutral ahead of new Apple Inc. AAPL product releases - auroradesio.it
+
+- **URL:** https://news.google.com/rss/articles/CBMiUkFVX3lxTE9xZ2pLTGVwV3gtMU95SUc5ekRSUl9vVWJHdFlFMUNmN3pMQnBHdkY3eXRKRmFoamJFaDlPMjVCUWYzR0htRjRONDJmNEZuU0U1V3c?oc=5
+- **Source:** auroradesio.it
+- **Published:** 2026-11-08T11:51:02+00:00
 
 ## Apple Inc. $AAPL Shares Sold by Robbins Farley - MarketBeat
 
@@ -273,33 +303,3 @@ _Last updated: 2026-11-08T11:05:31.282506+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUmhySGxncDAzdXNQd0RFbV9QenQwYXd4MG5xR3pMa3l5UWlIVF9yQ2F2Q1k3QnMzaXNSb2tIWGMxOUZSVU5qVDhaZkVLQUxTZl9pMzZNM2FTa1JCTVdaUmctNkpiZkZXX3ZRSlJDVFBmbDltOHBtNmQzX3NtbmVmbFJVVFNmUW5aV2ljUG5PcTVldXRBS255QTU2dGhLSnhLVTBEOHV1Ry1aT1MzS01JUlRYODd4T1ZVWnhtSUlMeEplZE0?oc=5
 - **Source:** MarketBeat
 - **Published:** 2026-11-06T09:36:28+00:00
-
-## Apple Inc. $AAPL Shares Sold by Willis Investment Counsel - MarketBeat
-
-- **URL:** https://news.google.com/rss/articles/CBMitwFBVV95cUxNNGhYZFVTUjNtZ1JxVkZkLUdlQmowdlNnMFZxbGZiekN5SUpjR0ROWVEweS1wb0ZsWlcyQ0Z4VW04Q1h6Y0dBYUNzS3JrUXpoMk1za25MV19BSW5Pd2ZaVnBlT3hlS3FpSm43cXVpOVdDaGUxdC1ybmxpcm1KWS1EcURTYnpGNzd2OF8wQXF2dFhjdXN4VDRIY1VjQzltMjV0VXg2alhFOE55c0U3MGw5dTJwODhMLWc?oc=5
-- **Source:** MarketBeat
-- **Published:** 2026-11-06T09:36:27+00:00
-
-## Apple Inc. $AAPL Shares Sold by West Branch Capital LLC - MarketBeat
-
-- **URL:** https://news.google.com/rss/articles/CBMitAFBVV95cUxOenBxcEw2MmE5b0VwWUFOTWgwUmpGb0FpM2VpU2ZLaF9OeGw1eU9CdFlneWZHUHpXV01qWjRvZnhoU3ZNdkVSZE5MOGdxRXRwajhnMGt0ajRlc2E1cXYteE00TTBuR2pSM1J2YlNwT0VfTVJ3QmlCLThiaTUxa3lydnd4Nm1PU0xqZk55Q2owTS1Wemoyay1TRUEwZ1pGSFZHT2QzdnpsWDQ1R3RNMW1UZ0QzWWU?oc=5
-- **Source:** MarketBeat
-- **Published:** 2026-11-06T09:36:27+00:00
-
-## Apple's iPhones Are About the U.S. As Much As the World - RealClearMarkets
-
-- **URL:** https://news.google.com/rss/articles/CBMirgFBVV95cUxNaG1kbmpfWHVTaXN4Um9yYmY5TDFVdi1FbkY5V2EwVE1sTjFqWXBwXzVLMmxxZmtnVEt0a2ZNRTVXMjhwWTJ6Q2VuQTVmNkVWeWZxWWV1Um56TDdhOFdEZXpJYzRuMmJoY0ljWTZhYlZFQVZBcHpjY2hmZjNLRkEtV0hjZVkwX1lTak5RUm01VTZ3dU0weXNGMHNYWWZhQlVGMXlMb1JQam5xc3dDVGc?oc=5
-- **Source:** RealClearMarkets
-- **Published:** 2026-11-06T09:34:06+00:00
-
-## Commonwealth Financial Services LLC Sells 3,800 Shares of Apple Inc. $AAPL - MarketBeat
-
-- **URL:** https://news.google.com/rss/articles/CBMizAFBVV95cUxPVGxtNEZQWVN4RFJwdkhUQVpFalZKcWZfc3RhVzNIYi1LUF9JZnlPdHJQdlFOYW85RVRmdzNBZE82Vlc3Ulg4U0FGSUFzOTJISWw0dFUtRVY4Z3FMNEJsMVBWTDIyRTlMSkpiS0pacWR1NngtdFJ3ZVpiQ3AyNkh0MkRCVFJTa0RBdE8zeFMyV05NUENsdTV6ckxIcGlmdHlHUkJPcTVMS3hxVVQ4eUt6WWFQS2pZQ1lDcWV3RUFaNmNaMkg3emZObUlhcEw?oc=5
-- **Source:** MarketBeat
-- **Published:** 2026-11-06T08:54:28+00:00
-
-## DUTCH ASSET Corp Sells 2,511 Shares of Apple Inc. $AAPL - MarketBeat
-
-- **URL:** https://news.google.com/rss/articles/CBMiswFBVV95cUxOR3ZyWmJtQ211c1hibWdmbGk0UldsSkMyUTZsLUdkNTBSdmlueWlwSUcwbXk1WVFYYUxYUGsxaEZtYjdpR2MtSjRRNnVpeG81YWFaZ3VHYVVvbk5IWVRHX3I4NXJxZGVNbUNUbmltWW1HNlU1MDFhT3BHQUFSeUpPdDJxZlJjU2pTRjluV3l0T1oyQjRKeFZMM056YjhYWEhSUDk4SlNiaGNZQ01fbzhRVlJRaw?oc=5
-- **Source:** MarketBeat
-- **Published:** 2026-11-06T08:54:28+00:00

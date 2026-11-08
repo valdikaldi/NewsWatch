@@ -1,8 +1,26 @@
 # NewsWatch — fusion energy News
 
-_Last updated: 2026-11-08T11:05:34.980899+00:00 · 50 articles_
+_Last updated: 2026-11-08T17:41:57.012225+00:00 · 50 articles_
 
 ---
+
+## Air Jordan 12 Playoff For Sale - Air India unveils new brand identity aircraft livery Company Business News - auroradesio.it
+
+- **URL:** https://news.google.com/rss/articles/CBMiUkFVX3lxTFAtV243NGUwWTBiLXJteVkwZy15QWcwWXhXdndlTDlkLWJxa1R6ZDNRTDVRM25nWHY3Q2NwQ2tPbjdaVHlRRGFTcXJEV2hzR1Y4U2c?oc=5
+- **Source:** auroradesio.it
+- **Published:** 2026-11-08T12:25:20+00:00
+
+## Scientists Finally Captured An Image Of The Reaction That Destroys Nuclear Fuel - BGR
+
+- **URL:** https://news.google.com/rss/articles/CBMihgFBVV95cUxPdmZRTTZVMkN2Xzg3ZlRPLWprcElDVGtTcGpyaTdMTGtLVGdjUUMxbUtsX2NRb0Rqa1pBTldwZ0JSRUxTVUc1WWtzbGRMVFEydWNvYTkxZFczOXZOR20zYW11RDZOQk5lZzJhMFUzc0RDc2pUaDVWR1BkcmxDWTI1ZEVBaGc4dw?oc=5
+- **Source:** BGR
+- **Published:** 2026-11-08T12:17:00+00:00
+
+## This Week in Pokémon GO (November 9–15): GO Wild Area Global, Into the Wild and Minior Showers - Pokémon GO Hub
+
+- **URL:** https://news.google.com/rss/articles/CBMixgFBVV95cUxPMkwzcTlmXzl0ZkQ2dzRhTldOSnlRckJVUktKbnVGX3F3U1NieXVpeU0ydG9JWDNWWVV4aXFDWXpJdlNmV1hMcVY3M2ktb29DZWNZRzhLXzM1SG10a2dfc0llSUVXVDVoa0J2TWpKaWJZZTRuaHpiaUsxYmJ5TFRmeUZERkhvVUc0UElQZGFMSjNXVW9SUENWbnR1NjJjdE5fcm9ZbWdONjJhOExQc052WTRwREJVbWd3TDAySlU5aVdyOHppWHc?oc=5
+- **Source:** Pokémon GO Hub
+- **Published:** 2026-11-08T11:24:56+00:00
 
 ## Mumbai Mélange: Where Art Meets Fashion and Showbiz - Open Magazine
 
@@ -285,21 +303,3 @@ _Last updated: 2026-11-08T11:05:34.980899+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMi0AFBVV95cUxPTl9oNV9ZME1WZzB5Xzd6aXcybUQxTEItaDJLbkVOQ2hKbW41OV82SHJuTmdaNzF0WTRhbDlBMFVhSjFvdm5rcjFleEduTGU5MlFseDNXMjNNZG1LNktrTHhNQVZ4VG0weUZNMFdxU1ZKRG5uR05KbHlRVkswOUdRaWJEWU1mWnlTSWFHMENHYmdNUV9XbkRMc3d2Z2NLbVdncFRjZDZIb0RySWo4UVUxVGtPSmhRai02YTRzZ183Z1RCMkRQQ1R6MlNralB5dzJN?oc=5
 - **Source:** PR Newswire
 - **Published:** 2026-11-05T09:17:00+00:00
-
-## Naju to Host 'Artificial Sun' as 1.2 Trillion Won Fusion Project Clears Feasibility Review - Seoul Economic Daily
-
-- **URL:** https://news.google.com/rss/articles/CBMimwFBVV95cUxOOEE5akhoaGlCbG1WUUpzQ08wSXdIZDhqM3hCUkEzdW9KNk82azE5ZTJBMVNUMllLbWNVclpPYklIaXVjY1NvMzRSXzJXajktbXEyakxuam9MNDYxS1NYdW1DX19FS0hKNVBmVWcyU2x0LWQ4S3NmamwwWWpqVnlPUTFmR0Fwd2NqY1hINW84VFB4UFYxZnk4MnFVYw?oc=5
-- **Source:** Seoul Economic Daily
-- **Published:** 2026-11-05T09:10:05+00:00
-
-## Korea Institute of Fusion Energy launches fusion and marine MSR R&D from 2027 - DongA Science
-
-- **URL:** https://news.google.com/rss/articles/CBMiVEFVX3lxTE5zRUFjdDVPUG9NZXNmYlZpNk5sTmNuY18yVGlyR2d6dVplVkQ5WDV3M1lqTDdLeklLbWEyZGVHa19VZ2haZHU1amdVc1NWR3FmYzkwVw?oc=5
-- **Source:** DongA Science
-- **Published:** 2026-11-05T09:10:00+00:00
-
-## Naju Artificial Sun Research Facility Passes Preliminary Feasibility Study... 1.48 Trillion Won Project - 아시아경제
-
-- **URL:** https://news.google.com/rss/articles/CBMiZEFVX3lxTE94bGUwZF9FM2JPTmt0ZkxUTXNNeHllWGVvQlY5d2pkVjR5ZkduYWJKX3pzV3ZzMXFoTl9tdlFJN3V2c0ZmeTNYWng5VVUtcDkyOEs2SV9PTzFoN2E5MVZFaUg3Unk?oc=5
-- **Source:** 아시아경제
-- **Published:** 2026-11-05T09:02:48+00:00
