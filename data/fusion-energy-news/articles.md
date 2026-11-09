@@ -1,8 +1,104 @@
 # NewsWatch — fusion energy News
 
-_Last updated: 2026-11-09T12:35:25.714386+00:00 · 50 articles_
+_Last updated: 2026-11-09T23:17:20.687836+00:00 · 50 articles_
 
 ---
+
+## Physicists Gave Up on This Fusion Technique in the 1980s. Now It’s Working - Gizmodo
+
+- **URL:** https://news.google.com/rss/articles/CBMipgFBVV95cUxQTDJhNXluQ1FLNlNuNFN1dEh6NkJCWmIwX1lyOE5pNlNjSEQwMXQ0YWJuYm5wQUhxVEF1UUxVVWRyTVZzSXAyZEJ1N3hPaFFPMjcyUUpDbnQyWXJZMmRJN1lucDNkQ1RSejV1WnFGVnhwdC1DRG44eDJJYjFuSzl4cWdTT2NDNmV1SmRQVy1saXpVMDlWUjlJaWptbmFIY3BPZURpcWFR?oc=5
+- **Source:** Gizmodo
+- **Published:** 2026-11-09T21:10:04+00:00
+
+## Paul-Henri Rebut, a fusion visionary - ITER
+
+- **URL:** https://news.google.com/rss/articles/CBMic0FVX3lxTFAzYVdOczVjbXhtN0NPXzZHUmVzTGwxM3JnTllnQlAwVjBPT0JkLTJTaTl1cHlkS1BrcUt5TjNvX2JoYVpRMVAzMDZHMk91Tl9sOHgwY25RVUlJWkIyRWE2dWpwemFsVS1ON3dmai13S0RtTXM?oc=5
+- **Source:** ITER
+- **Published:** 2026-11-09T20:03:15+00:00
+
+## Following the thread - ITER
+
+- **URL:** https://news.google.com/rss/articles/CBMiXEFVX3lxTE9ackVCVVBKLTBGcDUyYTU5ejBlclVXWFlheXM5ZzNnX2NuUEdKTjZ6OVpwZDN4SzhrX05ycXR0V0pVVk5veVpZckRoc0VIaC03MUwwczFOcHJTZlBz?oc=5
+- **Source:** ITER
+- **Published:** 2026-11-09T20:03:15+00:00
+
+## Seven Ways Nuclear Science Helps Protect the Environment - International Atomic Energy Agency
+
+- **URL:** https://news.google.com/rss/articles/CBMimAFBVV95cUxNSFdCT3piWGVjZXh2Wnc3eWJxQ1hRWkRLMVZsUU5nZFRYV0lZLTFjd3lYcmtraG90eEtFaFhoSDlidGpZeVI5Y0s4X2RBWDdBN2R5ZUdZczJSTGJNTXpTWnhkcHB4T0gzZnNLdFl0aEhNS0FIS045VUZUMFN4anVSdDdERW9qRGJtYmk4Y0xXMWlRc212VVJWNw?oc=5
+- **Source:** International Atomic Energy Agency
+- **Published:** 2026-11-09T18:45:35+00:00
+
+## Strategic Collaboration Sets Sights on Commercial Fusion - Tomorrow's World Today
+
+- **URL:** https://news.google.com/rss/articles/CBMiogFBVV95cUxOSjIyQUlELTVoLUxiOEVrZ1FBWkdRNlFHYU9WZWhVNm81ZnRiWEtzN0tTM3pqUFpsOEUzb2xidzI5anZKbVVSQ0pwVElBQUlLZlFkVXdyXzJLTDhyZWdNQTEzU25tNXpQdWpWZ1U4RG5Od0E4UElkdXlPSUppR1Z5dm1FMjlaTkkyTWRJdEFVWEg0MXE4WnRJUGl4bzlvU20ybHc?oc=5
+- **Source:** Tomorrow's World Today
+- **Published:** 2026-11-09T18:28:39+00:00
+
+## Engineers develop the world's first megawatt ultra-wide bandgap semiconductor module - Tech Xplore
+
+- **URL:** https://news.google.com/rss/articles/CBMif0FVX3lxTE8tUkh4c3B6NGZsQTYxYUlnYWdLYmpfNWk3SHlfTlpiVTAzSjRBQlhmUm5jZGRCQzRRQnI2bkxpa2JscGNYdEN6a1hmeXozZ1RFRUt5ZWNMb3dXQXoxSENDeGE2ZURySWFGbmR4aHNlUHpnUW1NYlFXb29YSVpPVW8?oc=5
+- **Source:** Tech Xplore
+- **Published:** 2026-11-09T18:20:09+00:00
+
+## Young John, Desperados unveil new Afrobeats-Latin fusion, ‘Let It Go’ - Vanguard News
+
+- **URL:** https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSC1Zd2RqZ25kS1ZTcXdUVmVvZHNlc29IYXpIbjFFSEliOV9zYVhnVXNfOTlOTWJnTkMzQ1JJY28yT01RbTJsQjRqWW11aFNMeEhLZW1JaXJ4aGJCcTNVOENwZE43LUlEMGxyclB3VWo5Yjd1cG9PQm5CVWdaaUpXbEhCWGFGLWtFWW5mMDEzel9uQjE5QkZtUi03b1BKYWttdzU0bG1IdkFTUdIBqgFBVV95cUxNSC1Zd2RqZ25kS1ZTcXdUVmVvZHNlc29IYXpIbjFFSEliOV9zYVhnVXNfOTlOTWJnTkMzQ1JJY28yT01RbTJsQjRqWW11aFNMeEhLZW1JaXJ4aGJCcTNVOENwZE43LUlEMGxyclB3VWo5Yjd1cG9PQm5CVWdaaUpXbEhCWGFGLWtFWW5mMDEzel9uQjE5QkZtUi03b1BKYWttdzU0bG1IdkFTUQ?oc=5
+- **Source:** Vanguard News
+- **Published:** 2026-11-09T18:13:27+00:00
+
+## Inertial Confinement: Physics, Drivers & Fusion - CASRAI
+
+- **URL:** https://news.google.com/rss/articles/CBMiWkFVX3lxTE8xLVhGczVyTUhQTWdHenpVOW1nek9QMGx6dVpIRmdkbFNQaVBwQjJlX3diMGRFNlg3Uk9adDU0ekl5YV9fM2NFUzVvejFTUEYtcUtISjFEX1dodw?oc=5
+- **Source:** CASRAI
+- **Published:** 2026-11-09T17:56:49+00:00
+
+## American Fusion Launches Independent Texatron Review, Eyes North Texas Facility - citybuzz -
+
+- **URL:** https://news.google.com/rss/articles/CBMitAFBVV95cUxORElrcE90a0pHWWdhVlhOd2xCUDU1RmwxRTdWWlpZOXNXUVctZEt3WGYya0Q1S09wQ2h1aVFfa2FRNloyckpybENFS2h1Q21uRWNfczRTMTBvRU52OFdpS3FzSTd0SVFYRXdKOURlU2JBMHRpcFV3bnRleUtmd1VjZUgzS2MzbXdlT0Jrak93N0w0ZXRGV3B5Q0R2eGJFOV90Nm84XzZMMjFjMGFibkdjanZES2Y?oc=5
+- **Source:** citybuzz -
+- **Published:** 2026-11-09T17:10:09+00:00
+
+## American Fusion Submits Texatron to Independent Review and Plans to Buy North Texas Site - energynews.pro
+
+- **URL:** https://news.google.com/rss/articles/CBMitAFBVV95cUxPLWY4NzB5SGFoR0NLc1d0YlkwT0hwS1pMcFJLcW82QkZ4Wmt5aGsyR1o0M1IzWXVrS2xadGlZYjM0WkR0VEpHM3p3UmFWNlExU3JwZzFneDlhQzVQSFJ3dFctd1h0LXpYclRONHpwbDNMQ2VQZmVfeXJjU2JKS0VlNFJDbk9aX3YwT3dDN2VaYVc3NGVVTUZIc254VVJud2VXdjZiRWpNeGJQY1pydWQ3TWZmTG8?oc=5
+- **Source:** energynews.pro
+- **Published:** 2026-11-09T16:30:49+00:00
+
+## American Fusion Begins Independent Texatron Technology Review and Plans North Texas Facility Acquisition - Yahoo Finance
+
+- **URL:** https://news.google.com/rss/articles/CBMiogFBVV95cUxQXzczcmtOSF9YTVI1NkhrdnN1VnQwajN0Q3kzMVEwU3pEMC1zdUpSalZ4YUhjZDhaLWRzYzM4MkpUZXAtc3NCMmpBX3huVkJ3Vzh4YjFIZF9VSUg1d3BBNVQ3bmZqcGpfS01mSXZJTjVNemROaEwtUFd3S2U1ZXVhTEEyTEtzOHFmbVg0R3hvUFhCNkdhaE92UmF1ZmRxZVJMMXc?oc=5
+- **Source:** Yahoo Finance
+- **Published:** 2026-11-09T15:47:10+00:00
+
+## Rolls-Royce and Infinity partner on submarine manufacturing - ADS Advance
+
+- **URL:** https://news.google.com/rss/articles/CBMiiwFBVV95cUxOSWFDMVhtT2w2cE5zQ0U5R1pCY193LUNuLVppaU9ldHFBcmFQZUFtZFFxa1ZNUjVlTHBId0U1dGtEb3RYWTlfbkJlc1YxOGZkVlRFMFJDejdCXzVMb0RJQ1ltdGpsVXQyUFRRMEVKLUw2a1h5SWdsS1h3bEk4VTA3TnFpU0hWMFZHZW0w?oc=5
+- **Source:** ADS Advance
+- **Published:** 2026-11-09T15:22:00+00:00
+
+## Accelerating scientific discovery worldwide with Lenovo HPC and AI infrastructure - Lenovo StoryHub
+
+- **URL:** https://news.google.com/rss/articles/CBMilAFBVV95cUxNM2lSd0RjRThLWlNReFlJM01TdmhkeWVFTTRqaWhlWmNnZkJnUGxJTzFqRmtpWEFHb01DYV9MdkZlclNucXd4eUtXQTFQcXpnSnE2bzNjOC12RHc2RU01T0dBeGxWVXJyZmpjbXc2TzBYV2dmV3NtY2R0a1dsSDdaVXhld0IybzlZSDA4cTRySEprRzhf?oc=5
+- **Source:** Lenovo StoryHub
+- **Published:** 2026-11-09T14:52:02+00:00
+
+## General Fusion Group (Nasdaq:GFUZ) - Stock Analysis - Simply Wall St
+
+- **URL:** https://news.google.com/rss/articles/CBMihAFBVV95cUxPdHR5cUNXNkJpN3BjYnEwVEU4QUxJcndiN0F4T09mQ3lWdzY5ZmlFRVpHUFVfb2Z4b3cxQWRMMlhEajB6MTgzcTZGNU9XSnlxcWQ5TGJaOTR6dFBic1ZLcjlQRGJtclI3ZDdOS3IzdUtzdmlCVkFXNC03Um1KUll5QTN2TXc?oc=5
+- **Source:** Simply Wall St
+- **Published:** 2026-11-09T14:26:49+00:00
+
+## ITER tests giant fusion reactor magnet with a current of 34,000 amps and a temperature of -269°C - Fakti.bg
+
+- **URL:** https://news.google.com/rss/articles/CBMi0gFBVV95cUxOT19vWHdEbVlTQ3l5TVFfbnYtWFFCTWNZcHUxVkhteFcwRVV2dWdXLXJULVFIaGhERkRaY2s0WlhoN3FaM1B3bTRuaXBBOVhUYTh2RDd0enFaWkxfRGNqclh0UldqTnYzUVhkcDdieDdUMHlTUEdIM2FHdTBMQVJ3eWdtdThyNVctNGlabkxkY2dKanIwbjN6TndCY3pRM2tvMXBhTE5LSzFuRlJ2S0k5YjZiMXNUXzgzYU1scXZvdFQ3bG1RVlNTZXRnLWptTmNjLUE?oc=5
+- **Source:** Fakti.bg
+- **Published:** 2026-11-09T13:35:00+00:00
+
+## American Fusion Inc. (OTCQB: AMFN) Announces Independent - GlobeNewswire
+
+- **URL:** https://news.google.com/rss/articles/CBMivwJBVV95cUxPblRBSi1IRU40OUZNTHdHUVU5VDFpanFWeU40cEV3SDR2ZjNGcVRsUzJJZ1BDQTRmMVNCLXR5ejVVQ01MaXAwWHpOVnJZQmkyN1JaSmRXZXNRMlhQRkVENVFuYnpBRVFtQnJXRXpZdHVvUmExTXRsd0QyWUM2Tndfb0tHcEd4RVR0eWlDcVNXYWI2LU8yQWJIbEg5LXFfcDVBdEN3WW94b3RqYnRZMzZmLW12elBWY3owTzQyT1hQajdJT3dKZjJaRzJxLUJ5QzltTUNwdG9Dek1DRXY1cW1EeUg4NmZFOTAzaVJ5QXdhb29GS2tUcDN2X3dDNC0yd0xJOElwSEZsYlFGaGpFUXBmQktxX093dFNrUU9kY3JucmZKODd4b3l4cmg4UFdYSThHc1ROTnNqQ2dITW9ZOUtN?oc=5
+- **Source:** GlobeNewswire
+- **Published:** 2026-11-09T13:00:00+00:00
 
 ## Constellation Lifts Guidance Midpoint as Quarterly Profit Grows - Securities.io
 
@@ -207,99 +303,3 @@ _Last updated: 2026-11-09T12:35:25.714386+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMid0FVX3lxTE9UQ1piVHdJM0RGYWxSdVQ5aVRpdklOVkUtdGpJckYxdjlzTUJIbFNTcE5RcFQzVW02MU9BQjNMSkJRSFlOQ1NrcnJsVnFYZ0p4aUZCUlBtcGJxanZGQ0tRQmY1WUczRlFNeU50dHFYaElMTVYzRm5z?oc=5
 - **Source:** CBS News
 - **Published:** 2026-11-08T03:06:00+00:00
-
-## Air Jordan 11 2019 Bred - Air India unveils new brand identity aircraft livery Company Business News - auroradesio.it
-
-- **URL:** https://news.google.com/rss/articles/CBMiUkFVX3lxTFBJZVdjQ3p6a0YySlNvME9VWV90dE8tZUNwX2xfZ1FBS1ZtNklGTmV3YmFQUTdYc09LV1c0SEN6aHdjYXZTZWFQaFpxV2p5NzlzT2c?oc=5
-- **Source:** auroradesio.it
-- **Published:** 2026-11-08T02:21:18+00:00
-
-## A nuclear renaissance is not yet on the anvil - The Sunday Guardian
-
-- **URL:** https://news.google.com/rss/articles/CBMilwFBVV95cUxPUEFwQkpyYnUySUIxY2MyRzZST0c0QjRoRTBOMTJaOF8xLUVwVGllSGZfZ0ZfZEtlUnZ2bVJyMzRVMGNWdzBWYnpzdElzT005UGtoRnRRY3pvdjBObkxHX2k3QTJLU2QtZHFWTTdhZXdBbDUtemZMT0dIQzBEMEtNRHZfQmRtVWRraVl6ZVdCaWNBNUxIalR30gGcAUFVX3lxTE9nS05wYW44MzhOa21lVVVLQmNHQk1wb0JJU1NzTnlqak84d1VGMmFaaTdTY3J1M1oxb21qTlJaYUY4MWtsS2pmYWlzbnR6dWktZXBReTlhVi13R3FxckxYVmJCOFRRV0FVMGcxSzNncjZneWRERVdtdHN3UVc2dVZUbmtrV3ZKU2pKWkI3Y0R1NXZjTXNNUzU0UWl1cQ?oc=5
-- **Source:** The Sunday Guardian
-- **Published:** 2026-11-07T22:38:29+00:00
-
-## DJT stock plunges nearly 70% in 2026, causing $2.2B losses for investors; Trump retains $460M stake. - Pluang
-
-- **URL:** https://news.google.com/rss/articles/CBMirAFBVV95cUxPWlprYzB0T0xDZXkteVdYcl91S3p1WWFwUDF2NloxU0Q5MGhPWm5hMHU5c3Q4VVE5c2YwRkpZbXBuZnk4aWUwUm50WEtReFVsREhxUnJZc2hPRDdpTlg3b0ExSkdlWmpGY3lqR3NCdlJmdDRzMWhCMWRVbUlnQUR5Y3RNSnZZaEFTVjl0U1BMRERHa3V0S1ZhX2YwNW5tWXktRzhvZXZtRjhEb0hq?oc=5
-- **Source:** Pluang
-- **Published:** 2026-11-07T17:08:02+00:00
-
-## Oxfordshire fusion machine upgraded with 12-tonne beam box - Herald Series
-
-- **URL:** https://news.google.com/rss/articles/CBMimgFBVV95cUxNSWZndlozMHhHTzVIYnM0X1lETmxwS1lEYk1PLVdoNUFSSjdrdl93azF3NUs0UWZ6WC1aMWdEUGlkaTFrSUF0TDFtYXR6SWhMR01SVzZZSmY1R3FaV1VtZUYxZDFIMkREWTJpMThoMXJHXzlUUXR6S2xwNkxOV29SOE5FYU5abDgwcXJHNVEtbEQ1SXowTmJEZ21n?oc=5
-- **Source:** Herald Series
-- **Published:** 2026-11-07T16:00:00+00:00
-
-## Trump Media (NASDAQ: DJT) And Fusion Energy Firm TAE Technologies Set December Shareholder Vote On 50-50 All-Stock Merger - Foreign Policy Journal
-
-- **URL:** https://news.google.com/rss/articles/CBMi-wFBVV95cUxQdkNzclJoVEtMVFZ2SHBDWDlXYjMxckZmQmdGa0E2alhUMF9JRkItZEl3NTBaZ0VCVFNHQnZFX0RBY01odFJ2eGpvQkd1emhJMzBHM2ZnRzYyTmdIRnhJMGhGaWt2SUlwRlNTTHdMS0t4eUd3X29uTDVhU0s0Q3Foa2JHWHRwUk45WU5JMWdIMVBnZzY4amZ2UGpUN1dqSGRzb1hXaWRtWlhDRmxWVWdWVnpBblVxelJFSWdzTFhFVnFBdkZaRzN2S2xFTVBEVVJEM2xNelN0cVlNMF9Wal9uMG8wbDdFUm9VVzFRY0xoRzktWU44bUtudm9hZw?oc=5
-- **Source:** Foreign Policy Journal
-- **Published:** 2026-11-07T12:59:00+00:00
-
-## The race is on to build the first fusion power plant — and Europe is l… - richtv.io
-
-- **URL:** https://news.google.com/rss/articles/CBMitgFBVV95cUxOY0xlb3VORVRaR21mOFM4ZkdOLUVyaWRDaXROcUp5VzZfOUNweWlKZFdOS3A2YVVYbEV3eWtpei1xTHdsWUs5cEowVGdlaXFFWVJBMWFTQWQzSWhpaXdDM1Mta0dBOXpodGpPdHdZaUNFSl9paGFtOG8zREVEWlU3ZU5XN0xPZDFRM0Fma3RrTGYxcWc4cjVhVFk4TVFGM2E2NURwT2x4a2FLaEJadWhDSllHZDQ5QQ?oc=5
-- **Source:** richtv.io
-- **Published:** 2026-11-07T12:44:52+00:00
-
-## NC State and ORNL 3D print full-size tungsten tiles for fusion tokamak - VoxelMatters
-
-- **URL:** https://news.google.com/rss/articles/CBMiogFBVV95cUxPS1BrSFVSR1ZKalUwMHAxaUp3UUVFOVhzLWxzZm1veGZZN0o4bTBBZXd0cDdlUG53dEJzdmpOOXpza0NQczdZdmNBUkQ1ZXRXbGxtOUl0bFBhc1ZBeXpnWGpyOXFfZTZQTVd6dGl4MC04aV9zSVlEVG5DRllwOXBybVBVU2VKeEdlUWFpNWZDUjU2eEh2ZlhoeEFrSkVNRks3VXfSAacBQVVfeXFMTWlpdEVCMzFyelpzRW5WQ3JTN083OEpzRDRLYXd0ZUo1NGtJMTJpSnhBY2dEYnhxSWtSNDJOZjdLTjlhLUhGMlBCQjNZVVVUNXJkRVhVYnlMNDV0QnRZNzlWeTUzaGVuWE4ybHVWN1NJY1F1NHVUeXFVNS1CSlo5cDBBajlERDZTdWFMeXdyRHFFQmw1VjdIbl9PbWlVZV95RWN3VGpsRzQ?oc=5
-- **Source:** VoxelMatters
-- **Published:** 2026-11-07T11:04:01+00:00
-
-## Proxima Fusion expands Japan supply chain deals for fusion power ambitions - Traders Union
-
-- **URL:** https://news.google.com/rss/articles/CBMikAFBVV95cUxOX2xXVVV6N2o2a3p3cUpUZmhndFFXUFQ0Rk1kSHdoUmdGM2lmNVBXMTdIX0poWmZhUUNxUDVDN2s0OFBYb3lRVU9VemJ4NVM1UW5xT28zbk1hLXllX0FPVDlyLU1PU29jOHhsYkN6dDM4NWpZbkZacExsUGVCY0REbi0yek5Qc3NzSkhxQzNSNnc?oc=5
-- **Source:** Traders Union
-- **Published:** 2026-11-07T06:25:24+00:00
-
-## The race is on to build the first fusion power plant — and Europe is looking to Japan for help - CNBC
-
-- **URL:** https://news.google.com/rss/articles/CBMiggFBVV95cUxNRDNZcTFDRkFORlMzQk9FU2wyMVpvY1RPMzRHSUZRSGJ4S2x2cmJKMHgyOHJGSWtXUU9wU2FPWG1xNUg2cVRKOGY1NVNxZldqSnFoTnZCaE1oS0ZuWVVKVkVlUzEzbG5tcGlJZ2VBMGxobGlkSjFRbFRXMXJEeFBMeHpn?oc=5
-- **Source:** CNBC
-- **Published:** 2026-11-07T06:00:01+00:00
-
-## The Tokamak - INSIGHTS IAS
-
-- **URL:** https://news.google.com/rss/articles/CBMiZkFVX3lxTE5tNlYyeHlUcldBRktBYWdsSFVmQ2VraXJOVFRhMFEyQ3pldk5IS2tIbDRJUGdtbHFfLWpxbkRULXRuU1EwNjUtYnZjSlFPUGZSdXRTQXVfU1ZaZ1JDZ1FsTHlONy1EUQ?oc=5
-- **Source:** INSIGHTS IAS
-- **Published:** 2026-11-07T05:49:43+00:00
-
-## Amentum, Kyoto team up on fusion - Nuclear Engineering International
-
-- **URL:** https://news.google.com/rss/articles/CBMic0FVX3lxTFBqNTBnSGdfZEhMS056eHRKcnh0aUNNb2h6TFVldlBBbmwxYk1NS2J0X0ZuWTM0c1k1VnBYMGRSR0hpNjFNNG12Z2tGZnRBall3MmktRElWaF9vdWZZblhDWFE4bUt6ei04Q1VWN3dxNDhMa2s?oc=5
-- **Source:** Nuclear Engineering International
-- **Published:** 2026-11-07T02:35:23+00:00
-
-## Can American Gold Become Dearer in Kashmir? - Kashmir Observer
-
-- **URL:** https://news.google.com/rss/articles/CBMiigFBVV95cUxQTDRzLWlSZXQzSk5RX3Uyb25zMmd4b090U0V6NnJRdmwyUmtKc1BGZUhKbW9lOVZlRFpTaUQ4NUtlZDlXbzFzdXNiZmN1U2xQWmFaeGFtekpuRGlIRVVBWXowdGdPQl9ndV8xaGlKS0tKenVGWjJWbDVjdXZ2VFRQUzFtZzZMcXZpV3c?oc=5
-- **Source:** Kashmir Observer
-- **Published:** 2026-11-07T02:26:57+00:00
-
-## American Fusion’s Texatron Tests Yield Hotter, Denser Plasmas - citybuzz -
-
-- **URL:** https://news.google.com/rss/articles/CBMimwFBVV95cUxNLWFOTjlLM0hiZUFiSFZiaGZNU2xSMUNkdVlJYzlsSnU3czdDV2xJcGxZaFNDeUJqOTVBejlNMTlfZGpHVW9NYlN6akZDNzBkdGVvSUlGRzd3V1JQSzJvVWR6dXQzai1zd01WVkp2c1Q4VGlzT1c3VkFadFB2YTctVTBLOFBjWVUzeEktSXA5eUdyZWtfQUpPcHRPRQ?oc=5
-- **Source:** citybuzz -
-- **Published:** 2026-11-07T01:02:43+00:00
-
-## Abang Jo on how clean energy will draw tech investments - KLSE Screener
-
-- **URL:** https://news.google.com/rss/articles/CBMiqAFBVV95cUxOLWZib2l6dWFyTGx1N3lKTmNqZlZjeHNwVDIwaFlkNHBVRzVHX2hnQVdwa1V4dTZhWU1MQzVVcng0d3lEVG1VMnNiczl4bUE3V2F0ckJoSnRHVmE2TWp4WGYxR0dabWlNZEMtbnRKSFktVkNqdlpLSkNGS3hXQVdJY0JGRFlLUHVXMUVlQUU3OXVyWVNpdlRINzNpczhXSkVBcktQNXdleDg?oc=5
-- **Source:** KLSE Screener
-- **Published:** 2026-11-07T00:30:00+00:00
-
-## Deuteron-Deuteron Fusion - IEEE Spectrum
-
-- **URL:** https://news.google.com/rss/articles/CBMigwFBVV95cUxOelYyOVVzblFibW91N3BqVndlLVJEc3BZZUNZRVNSYlpZS2YtQXZkazhGeG1IWWoxdHBGMnI4cXBwZ19wclctbmNCSDIyeUtWSjNaa18yQzNZMmFSZ01xNFhPZWRvLWJzdXdFeUNrR19DeEVZSFlkc1dEWjVDNU5zWkpGQQ?oc=5
-- **Source:** IEEE Spectrum
-- **Published:** 2026-11-07T00:07:39+00:00
-
-## Nuclear News 40 under 40 2026: Supporting deployment -- ANS / Nuclear Newswire - American Nuclear Society
-
-- **URL:** https://news.google.com/rss/articles/CBMilwFBVV95cUxQcTg4cTFXbVhKanZJS0J4OENYNTkwd0FlSF9pRmZRd1Y3M0pMTUNwRlE1b190SHR4TnZPdkRSV2Q1WkhSLTk5NUdlOXkwYTB3a09VdmMxdUJ4LUdXckNqUERDeUdodWtVemRVQmRrVU5ITzhXcmx2WlZ2Z3pnb1Zyb1dXeDRKWjAyTU92VXVWbjJvdlUtZk1B?oc=5
-- **Source:** American Nuclear Society
-- **Published:** 2026-11-06T22:36:49+00:00
