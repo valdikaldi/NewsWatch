@@ -1,8 +1,20 @@
 # NewsWatch — fusion energy News
 
-_Last updated: 2026-11-08T21:46:42.370869+00:00 · 50 articles_
+_Last updated: 2026-11-09T01:28:52.707326+00:00 · 50 articles_
 
 ---
+
+## Air Jordan 6 Psg Stockx - Air India unveils new brand identity aircraft livery Company Business News - auroradesio.it
+
+- **URL:** https://news.google.com/rss/articles/CBMiUkFVX3lxTE04RnlBcG5EVHhUSnNjMUp4VmF2Skt0cUlzazBTUG1yYlQ2eXJDeWdJUHBOWEZBNVgwdHdERzFud0RKZjFFYWpRUzVYTkszRFh5Z1E?oc=5
+- **Source:** auroradesio.it
+- **Published:** 2026-11-08T23:18:13+00:00
+
+## Air Jordan 6 Retro Db Doernbecher - Air India unveils new brand identity aircraft livery Company Business News - www.auroradesio.it
+
+- **URL:** https://news.google.com/rss/articles/CBMiUkFVX3lxTE9pVi0xNU5uVTI5OWE5d2NDdkk1TE8wb2FvQldFRlZtLU1XZHBfcm5NbEFnS2NtQXo0N3J0d2NOTi01TUY3aEVhR29zVEVUZm5maUE?oc=5
+- **Source:** www.auroradesio.it
+- **Published:** 2026-11-08T21:56:54+00:00
 
 ## Air Jordan 4 Retro Womens - Air India unveils new brand identity aircraft livery Company Business News - www.auroradesio.it
 
@@ -291,15 +303,3 @@ _Last updated: 2026-11-08T21:46:42.370869+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMiZEFVX3lxTE9KbHQwUEFrd2RsVFVKdUFhYlkwWDUwRGN4WG9pS21oUVVQZzVMN2JSOXpkNEFrZjRJOFV6WFMwV2l1WWEzSW9XZzBrSG1HaDBMSTlmU1RhZmZpY0p3NFliczE5OEc?oc=5
 - **Source:** 아시아경제
 - **Published:** 2026-11-05T11:08:31+00:00
-
-## US nuclear fusion reactor drive taps advanced plasma tech in new deal - Interesting Engineering
-
-- **URL:** https://news.google.com/rss/articles/CBMikAFBVV95cUxQY0J4LWl3YnVHOXE4bURxR3k5ajBDWVJCSmRFOHhqOWZCbHNDMm1ZSUtQN3ZpUHRjRTQ3SHUybkQ3Wkttd1U2N1hOQ0tBVXVVdm5Vb2dXaklyMFFDMU92d3JwZ3hCaWtFRGRXbG1qNFVrYkEya1JhY1gxWEJwbE03WHNreVNJckpHREhvdWQxWXQ?oc=5
-- **Source:** Interesting Engineering
-- **Published:** 2026-11-05T10:58:00+00:00
-
-## Studsvik Wins First Major Novatron Fusion Reactor Assignment - TipRanks
-
-- **URL:** https://news.google.com/rss/articles/CBMisgFBVV95cUxNY2RqUlR4MFZ5ZkRzdUp6M0tPLXVrUFhkRWRKVU1fZUh6cy1RZ2RqLW5BZFhmbVF2M011UkxCN2pjOFpEazV3V3Rrd1N2aXV1eHRUSU5GcHpvM2g3SG56STVmS0hDM3BteXZmODZiQjQxS2V6TUc0NTNYLXlJa25vTk83b0NuRnI5SlZDS0xsdFVGOUFpSHpzbVpreWR6ajZvZmhubnNrZ3VLazZqQXdjc3NR?oc=5
-- **Source:** TipRanks
-- **Published:** 2026-11-05T10:01:08+00:00

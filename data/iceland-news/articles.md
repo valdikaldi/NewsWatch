@@ -1,8 +1,32 @@
 # NewsWatch — Iceland News
 
-_Last updated: 2026-11-08T21:46:41.915942+00:00 · 50 articles_
+_Last updated: 2026-11-09T01:28:52.291533+00:00 · 50 articles_
 
 ---
+
+## SKEL fjárfestingafélag stock: Buyback reaches 0.81% of capital - ad-hoc-news.de
+
+- **URL:** https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUWNXNlhjNHhpQ0hIaFlrQ0FfYzBXZDc4enFzUm54Vy1uRElVM3ZrWVREeHYyZXJka1FrX0lMdlBsMW9icGJsM2dDd2RDS1liREZDX1V2ZE5ObXYwNmRoV0dHSkw0YnE5cUQwMGZKZDZWQjd6VmlRdER5clRkdUtOc0F4SjFHNUJvaDlsM0dfX0FKZElzeFVCZVBHSjdLQ1l6aGwtaEdqbG9UX20wU1hoRGl0Y09fOWdxWjhZ?oc=5
+- **Source:** ad-hoc-news.de
+- **Published:** 2026-11-09T01:15:23+00:00
+
+## Hagar stock: Strong Q2 lifts full-year EBITDA guidance - ad-hoc-news.de
+
+- **URL:** https://news.google.com/rss/articles/CBMisgFBVV95cUxQMkFLY21ZN19SRHFVWncxQmowWHdKTHpxQnEtZlVuSlBtY0V1Ylg0MFNBbUxEOG05MGtPc2tRUjVvcGIzWFZzckV0SjIzOWppb1NFeWtmMnZZc20zYjZpNjlpX25MUXAtVlBWdUpnZ3NleTZqUHFXb0N2enNjYXozYk1WUUpRdHhnUlFORm93OHU5b2NLd0xLMUlJY18zc1pzTWtDaWtwS3dyeWp5MmdHZktB?oc=5
+- **Source:** ad-hoc-news.de
+- **Published:** 2026-11-09T00:17:14+00:00
+
+## Young foreign tourists: Both hospitalized - Iceland Monitor
+
+- **URL:** https://news.google.com/rss/articles/CBMilwFBVV95cUxQYVNFVi1MSThVNlgzRThZc0w3T0NIdFRFMFZzcGs0ako5bUJ6WVkxZFRMcVJrNldGc2U4UThVOXVpSEdFOThfcERINElDRFlma1BveDRuNmMyNmc2SFVOaUxEbjZ5RVphQTduNl9BOE01bzNqY0JXTFJYWXAyXzh1SWlHNkVCRjYxdFhwREl4N2FkamR5d3cw?oc=5
+- **Source:** Iceland Monitor
+- **Published:** 2026-11-08T23:56:00+00:00
+
+## Brim stock to acquire Matorka assets in Iceland aquaculture move - ad-hoc-news.de
+
+- **URL:** https://news.google.com/rss/articles/CBMiwAFBVV95cUxOY0hIc0JKRWp2a2gweFBtNmtZUS04WFhsc2pyaTE2dDNmY1NQZDhza0duMHZNYlJmQlhoZ25iclNFSU8yazJ1UGZjdUYwTGR5dTZDa0F4TGcyV05TaEYxRFNFU3QtYVNNMll6QUJsSjZUcXVlaVBBV1JaOXA0M205MHJDZFk3a04taU9oRnluSVVCNmhuSEU1Ujd5WEFreTlSakFUMXRqb3dzbzBNOGc3c1ZQWjFyN1VoV1JmbVZ1WUY?oc=5
+- **Source:** ad-hoc-news.de
+- **Published:** 2026-11-08T23:06:50+00:00
 
 ## Minor mag. 1.8 earthquake - Iceland: 3.5 km SSW of Geirfugladrangur on Sunday, Nov 8, 2026, at 08:46 pm (Reykjavik time) - Volcano Discovery
 
@@ -279,27 +303,3 @@ _Last updated: 2026-11-08T21:46:41.915942+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMikgFBVV95cUxQY0tIamRYLU05U0V5TXY4WmZfXzFLY2U4LXBzdHNWc0g3QmduTngzWjl0c1A2ZmhpRjlKZ1MzeEg3MXhfeTJlYnMycUFOVGViMEZ5cXA5RW5PaWVSVUlzRWNzSmpBcHBNT2dZWkpKNnlFLWh1dDZtTXZKZGNhX01sRmExUU1SWGtUWVNKUnFGS2U5dw?oc=5
 - **Source:** County Times
 - **Published:** 2026-11-07T05:00:00+00:00
-
-## Erna Traustadottir - Iceland - Player profile - FIBA U20 Women's European Championship Division B - FIBA
-
-- **URL:** https://news.google.com/rss/articles/CBMizgFBVV95cUxQSlFucUwxYVp6eGxnYlhCeGQtWGRQU2hYQVp3RTRuWXhlX3Rua0VHSzc5cGtNZVNvVEU4d25hUkItb2x2YWxEMDNQamkxLWJoQThDRGRhSTZqdzNmdlBXbS05SWdXMUZmOUhwM1hlbVdpUmNGZDhaZTFOdkFOaHhpMHpnbGw0cUhLcFpUcUdlZ2VFaTY5bDNGSkJUV29LMDVDSnk5Vm9YNFNVRHpRb0xPS0NDbE9Oc0c1NjdkS1JVYklUelZqc3FhTEFMX1JCUQ?oc=5
-- **Source:** FIBA
-- **Published:** 2026-11-07T03:52:41+00:00
-
-## Discover the film locations for Supergirl (2026), around the Cairngorms in the Scottish Highlands and in Iceland. - The Worldwide Guide To Movie Locations
-
-- **URL:** https://news.google.com/rss/articles/CBMiZkFVX3lxTE1USUEwakZRMEFZQ09IMEw1eFVfdVBtRUhDZ3dJaWhlNlUtelFfQ1B4OXN2UVhTY0V5SzJpSmNJNXB3UFVlZE1UZ3hwVmJ5ZVk3bzRkVXE3aWxkREhEQVpHWVdvMFV0Zw?oc=5
-- **Source:** The Worldwide Guide To Movie Locations
-- **Published:** 2026-11-06T23:08:17+00:00
-
-## Cranbury Public Library presents "Visions of Iceland's South Coast" Photography Exhibit - NewJerseyStage.com
-
-- **URL:** https://news.google.com/rss/articles/CBMi0gFBVV95cUxNM1k2cl8tXzlIcUF4MW03bjR1M0NrNmREUUdRMnh4UEJFOGktZ2xoZ1JUYlBINEpMWVdKRHhNaVgwdkZGNGtXdm1RQWpfYjllcHA3ZHN1NzZYU3hPUTU4NnB6VDR6eE9yX0trVTVMZXllN2JKLVVkT0pGYzJqaTZDNnZIZjN0cFU3V0Q2VmJYMUdjV1plcHk5V3lSWEVJSlFQRjdNaWJMOEFMOElEVERrQmpkWHZWV2VRU2VUd0ZaU2txVjJYVXp3YVY1VFVPMGNYVFE?oc=5
-- **Source:** NewJerseyStage.com
-- **Published:** 2026-11-06T22:26:44+00:00
-
-## What effects did the Danish trade monopoly have on Iceland’s contacts with other countries? - Britannica
-
-- **URL:** https://news.google.com/rss/articles/CBMivwFBVV95cUxPZHhYcTEtSnR5Sm1BUDJVa3BqRUczTEdJR05xMDl3RnRpX2J6X2ttQTdsVlZHSW4wYlQ3WE1mTVJjdjlzV3VHS3gyZVhqMm9qSVRuTDN0U1hBUUpIUndxcnFUYzdEZDd0VjV2NlJhd2xUVThRQTNTMk5kSFJ2QTRQMjh3VHExenlSdWw5NUIzZWMzYm14UC15Vmtnbm1JeG5ud3l0ejFYemFuV2lqOVFUTms0Q0ZqM3RqUThqMzMtbw?oc=5
-- **Source:** Britannica
-- **Published:** 2026-11-06T21:49:18+00:00
