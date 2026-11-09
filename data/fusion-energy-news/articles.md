@@ -1,8 +1,128 @@
 # NewsWatch — fusion energy News
 
-_Last updated: 2026-11-09T01:28:52.707326+00:00 · 50 articles_
+_Last updated: 2026-11-09T12:35:25.714386+00:00 · 50 articles_
 
 ---
+
+## Constellation Lifts Guidance Midpoint as Quarterly Profit Grows - Securities.io
+
+- **URL:** https://news.google.com/rss/articles/CBMilAFBVV95cUxQNi1CMHpmSDJkZWwwYTJmWGdiS0owcGpwZVNFNFdvRnVJZElpRndGbE96UUdHaHZibENxOE80ajVOa1c1UUE4TE9pcGJDYjk2QkJ4dTh4a1hvckNGY1VhbXRvM0NDUlpGQm94LXYzZTlJWmNfZXBmYzJEMXVVb3J3QXp6Y1ZCblBNdVBDczNTX0g5T283?oc=5
+- **Source:** Securities.io
+- **Published:** 2026-11-09T12:22:03+00:00
+
+## YGN: Keeping the Lights On: Nuclear Power in Wartime Ukraine - Nuclear Industry Association
+
+- **URL:** https://news.google.com/rss/articles/CBMiiAFBVV95cUxQM1I3WThDZjd4YzBoYWxTelBGczRnYTFjX2hsVDVRYWsxSWhtd2NpUkZkX2JhRlpYU1FSMVFnQjBqR3l5MzV2US1Xc3YwaGF5SGpRYU01dFJ4MDJ5cXlXNXRCLTNGSzZkSkRCcVN1WmRvNy1Cb0h5QlpYU0c0bm55S05maW5veGxF?oc=5
+- **Source:** Nuclear Industry Association
+- **Published:** 2026-11-09T11:32:25+00:00
+
+## Rolls-Royce Submarines teams with INFINITY for nuclear prototyping - The Engineer
+
+- **URL:** https://news.google.com/rss/articles/CBMipgFBVV95cUxOUWZZZVBWandldUxHdFJ1a2lDdlFUZ2xzRjNEN2l3dGhQMFl3aDl3RTlqeTNwRkowX0ExWXItV1d0WTRBUzM3NVNtZnY5RFlOQmpLa0JMODJUZ2hSb3FHU2JuMTZZYXJMWmRDcTZvck5BcWQwb2dZT3JtZzBXNzJQMUMyVnJjeFhqOEVqcWEySG5ZdGZUcnl5Nzc3SVBUSUxuX19tdGtB?oc=5
+- **Source:** The Engineer
+- **Published:** 2026-11-09T11:13:09+00:00
+
+## Home stretch | The sun in a twisted doughnut - Eindhoven University of Technology
+
+- **URL:** https://news.google.com/rss/articles/CBMipgFBVV95cUxNMnlSRzZ2RTY0VHhkeHFScUc5bTFfZFlWTXZFMXRCTE00YWtQZFRpdTAySk5FaG1PVkRTT2RNVVl1djV0b0dodkN0RGhSd21JVkZuVTViSkZGMkhEbGhMRFQ1YzBLU25qc3NRX0dUM1FVejBQdkIyQnlnS3otVjdrcmNzVHBxSGVza1Z1NXBlMWRQT3lxUnFteU9WRTVRM0JaT0Jjbm1R?oc=5
+- **Source:** Eindhoven University of Technology
+- **Published:** 2026-11-09T11:11:15+00:00
+
+## UKAEA Doubles MAST Upgrade Fusion Heating Capacity - The Engineer
+
+- **URL:** https://news.google.com/rss/articles/CBMimAFBVV95cUxPNGk3azBmTFhOTTF1aUdQOWIxX05vUElFRVpvSmRVekhQSFpiaFlsS3l0X1JOWjdleEV5bjlFQmthM0FhM3JacEZlY3dUellrUUREUWNYNWg3Yjd5WE56aWhXMm5ldlJ3cnp3dDlPSkd1ZHpqS2hCajJ5RGxoOWJPYzhVZ2t5d3czX011UWI2N3h3RExmM0VJaw?oc=5
+- **Source:** The Engineer
+- **Published:** 2026-11-09T10:43:03+00:00
+
+## Rolls-Royce tech park partnership set to create 17,500 skilled jobs - Marketing Derby
+
+- **URL:** https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMXdSeHh6Mlc5Vnp1bDJCaWI3M0J4UUJuWFdHai1fWXlsYU85M1NHUGZLZ0RHVGNPOVhHcFc4QjNfRmxIak1pTGdmMkdWS0VYaHhhcDEwYk5jcVNwbFlqNXRYbGZ1T0FkYkdkTXFqRlptVHJDUWFmREx4bFZVaE40ZnFCTm8teDE2Mi1acjlSNjF5TFh5SHZveWcyOHJHcW5JRl9ZMW1xbkI?oc=5
+- **Source:** Marketing Derby
+- **Published:** 2026-11-09T09:44:34+00:00
+
+## SK Telecom joins hands with Nvidia to build sovereign AI infrastructure - The Korea News Plus
+
+- **URL:** https://news.google.com/rss/articles/CBMid0FVX3lxTE1ndllyWnlwTDlsUGJ3cjFpUWoybTk0M2Z3VFplSFRSZTdNUW1CN1R4bEdnTWlPQ1hMb0l6WC16enhfRDExamVwbWJZcXRyaTE0RGVFSGZzU2MtcGFfaVZQTVFQY0o0M19xSEZaY1Voa2dyTDBRLUtz?oc=5
+- **Source:** The Korea News Plus
+- **Published:** 2026-11-09T09:24:29+00:00
+
+## Nvidia, SK Telecom and Rebellions Partner to Build South Korea’s Sovereign Heterogeneous AI Infrastructure - https://streamlinefeed.co.ke/
+
+- **URL:** https://news.google.com/rss/articles/CBMi1AFBVV95cUxPMkFJV3FkaE5lNTBqaE9RTTl6YmEzelZsejNTc3ZMWHQwQ1FsLTluVTMzV3lIWTFXWFNhbl9nczBWWnozQ0JQbC1VVFp0ZXJjb3JnNDA2N1RhSGEzdTZJTFBlalpVT2JMajZUaEFickRsampZbzZGSTBUMFNEVUMyM0ctUUxZMEFFVUl2eGpiZUktSnJTdm9UNUFmZUVJNXhPZk1FQ2tlS0VZeU5JekNicFp2cDVFSl83U1ExaGE0bUhZZlpaZlNWMEZCV3h6aWJlY0NXVw?oc=5
+- **Source:** https://streamlinefeed.co.ke/
+- **Published:** 2026-11-09T09:23:50+00:00
+
+## Air Jordan 12 Retro Chris Paul - Air India unveils new brand identity aircraft livery Company Business News - auroradesio.it
+
+- **URL:** https://news.google.com/rss/articles/CBMiUkFVX3lxTFBBUXlhS3Z4eXhTaGIxSlZzMmtGZkFsVTlCUmFuTmgxQWdIZjNxRUtLdGxVdUhkOGhaTmROd0NYeHRFU09Rdi1LWllsVDBjUVBHUmc?oc=5
+- **Source:** auroradesio.it
+- **Published:** 2026-11-09T09:05:12+00:00
+
+## Deep Fission, Inc. (FISN) stock price, news, quote and history - Yahoo Finance UK
+
+- **URL:** https://news.google.com/rss/articles/CBMiUkFVX3lxTE0tbTRkR2VYZ0pxNVFvcENLMW5CUWZNRHoxLUpyZnQ0eU14bURBZUVGdjVkdXZ4TjlOUlI2b1VZM19sYU9aeURmM0t2Wi1kRFJUU0E?oc=5
+- **Source:** Yahoo Finance UK
+- **Published:** 2026-11-09T08:59:09+00:00
+
+## HKU Engineers Build World-First Power Module Using Emerging Semiconductor Material - The University of Hong Kong (HKU)
+
+- **URL:** https://news.google.com/rss/articles/CBMigwFBVV95cUxQMUhOZkpCbHRhQTY5dXNPZ0dxWjBDWE9Sd1d3NFNwMHpST2QxYTBPQ3ZPaGU4TzRXZW9JdlBncXNhbmQxYTJvZDlFNHgteGQxVXVFOVBRYWdlLXlpaWR1QzhoT2QxeGZ5VUNCR3dTOHZpcXdGei1HR1lSLUhidEh0dmd3UQ?oc=5
+- **Source:** The University of Hong Kong (HKU)
+- **Published:** 2026-11-09T08:02:00+00:00
+
+## Air Jordan 7 Pantone On Feet - Air India unveils new brand identity aircraft livery Company Business News - auroradesio.it
+
+- **URL:** https://news.google.com/rss/articles/CBMiUkFVX3lxTE03VXNhS2E4T2FvYWRtV2R0UEQ4YlBFeUxzQ3UwU254WERSc2h2bllON1I2XzdmMVR3a1h2ZEpmS2dWanQwMWlQZW1pcGk4T0RSb0E?oc=5
+- **Source:** auroradesio.it
+- **Published:** 2026-11-09T07:19:41+00:00
+
+## Germany and Japan are preparing a commercial nuclear fusion power plant - Informat.ro
+
+- **URL:** https://news.google.com/rss/articles/CBMimgFBVV95cUxQUTFsZGJBMlhMMFFkT1J2ZGs4VzZtanZFeEdQd2JMOE5QYnVPTG5XZ1FTZ0NNVXpJV0x4Ny1Vb2Jub1B6UW80TkZpOEJabUxRRlhMWmNndlhBdk1ZR3BDOVgycmFTemktTHhCSGhzdm5LR09qTXpkdUctZWQ1Y3NZcDZUdXVOZHBFdnBCdkxwN1BBc3VsRGVPZVpR?oc=5
+- **Source:** Informat.ro
+- **Published:** 2026-11-09T06:51:27+00:00
+
+## Rolls-Royce Submarines forms landmark partnership with manufacturing and technology park - Insider Media Ltd
+
+- **URL:** https://news.google.com/rss/articles/CBMi7AFBVV95cUxPejhoeURCY2oyZl92Wm1KdUpQT1VFZ25rUVBwQXdpX3hKemJLUE5WTkhkVDMwTEFPNzJGMVJfS0VaeWJ2RVRVb2pBeVFpMDhNeTM2NHZGRndWbG1tZTdWNmh0V0lZb2xQZWpEZVUtekFndy0tNmE3MUhfeWM3T3pqUU0tWEZDNldKNkt2NHQzek13MDdqYU1JSkFDc1VvMTBoR3pRNTBVQ2hxb0J1YlJqRlBveVRjRGJIT3Nvek9kUWZWdkYwbDdqVWF6cTI4VnZLbzdaYkJvVVN5MlppMVVQZ3BSLWNLU195TWZ2WQ?oc=5
+- **Source:** Insider Media Ltd
+- **Published:** 2026-11-09T06:12:23+00:00
+
+## Rebellions to Use NVIDIA NVLink Fusion for Korean Sovereign AI - Unite.AI
+
+- **URL:** https://news.google.com/rss/articles/CBMijAFBVV95cUxONEhZQzVFQlkyZjc2X0dXazducjUydVlaNnJZcHFQTjlCby16dFEwVFVkYzZqNVhIV2NDMUNGOXBMLXBHZkd3ZjAxQTZRcWV2TW1naHRRUWhVcmRjSEd4d3FzcUNjYmtVY1VYNWRFSzZRbE03cEZXRDU1WGpFWWtReVFxVmpjRGZYcEM0bQ?oc=5
+- **Source:** Unite.AI
+- **Published:** 2026-11-09T05:22:04+00:00
+
+## Nvidia, Rebellions and SK Telecom team up on sovereign AI infrastructure - TradingView
+
+- **URL:** https://news.google.com/rss/articles/CBMi0gFBVV95cUxNX2RObXVpR3VEM0VoV3hEYXZVUGJ1T2JhMDlYNmM0cGNZeWtWTUo2dV9VcjN0d2lqZXJiejJZX3JNU0VsWXIxalNsXy1HY0x2RGlHSFhEMFYxdHNRUFd2RThfanNuVTM0OEFKZjBlY3FpWFhCQ2N5RlVORDFHVHRkY3dpX3BGOG1SMkJpN0pQSGlJQzVfYVZTWVBoVXlzMjVhU012bU9UMlhlTjk3UFNiT1J6X0UzbFlRZEtnaXRDNlBNT01yNU9WLWlyNHlKT2UwbVE?oc=5
+- **Source:** TradingView
+- **Published:** 2026-11-09T05:05:55+00:00
+
+## Air Jordan 4 White Cement On Feet - Air India unveils new brand identity aircraft livery Company Business News - www.auroradesio.it
+
+- **URL:** https://news.google.com/rss/articles/CBMiUkFVX3lxTE5qX0sxNWNacUhJd3F6UW9MNFRHQmJ6T0NqZGlqYWZZVnFUX1lJYXFZWDhfSmJLY3U0TkFZWHdIUmExWEJZZ0FmLV9kTjQ3LWFqRnc?oc=5
+- **Source:** www.auroradesio.it
+- **Published:** 2026-11-09T05:02:38+00:00
+
+## NVIDIA, Rebellions and SK Telecom Announce Collaboration to - GlobeNewswire
+
+- **URL:** https://news.google.com/rss/articles/CBMinAJBVV95cUxQYUFGS0dBVjYwVFBfSENjLUJ5aXJPSFV1LUhBRTFGTXpvS2Q5ZlZNQThzVWg2b0UxNjNoRG8zay1Xdk10ekNaUG45ZWltZFpQdENNUlpLelBYZUpXMnc4bkpKZ0ZkUjZncTZ6dlJxZUtGZDlEOFRoYWhTbklxTzZJT0twaXhFYnY2SnVaLXZoRE5Jc0IybTJmX1hYYWQwRGd3bVd5UGFrT1VzRm1XdVl5TTI4Xzg1RG5wZy1KeUZ2eU55N2IzVm90TEtKVHlfck5kN3RtY0RhdUI4LV9BelZ1ZTlHZzNzSWVfX1FoM25fWVJaZXBFVkVJU2ZjdW04SC0yZ2FseW1mNHVMN25OUklsRnB5djhjUGZ0dXJVZQ?oc=5
+- **Source:** GlobeNewswire
+- **Published:** 2026-11-09T05:00:00+00:00
+
+## Trump Media & Technology Group | Truth Social, DJT, History, & TAE - Britannica
+
+- **URL:** https://news.google.com/rss/articles/CBMic0FVX3lxTE5lT2dhSXRTdXhSaGh2djRnVUFnTUdVRlZzRzdxdXdjTElyMF9ZeWJUUG1kbWJIYUlpWkhJVTdoREJsWU9TaEdibjNIdE4wdjFwQTk4bmZaU2lNRm4tM1Z1M0trcFdhZ2kyM1ZDYWZwQmphRDg?oc=5
+- **Source:** Britannica
+- **Published:** 2026-11-09T03:43:50+00:00
+
+## HKU Researchers Develop World's First Megawatt Ultra-Wide-Bandgap Semiconductor Module - Mirage News
+
+- **URL:** https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdFRVdXR0R1RqN1Ewd0pJY2RlLWYtVy10N0ZxT1k5cEJDQU9ZelYyYXo4SWsxTlRlanRtanRLTTRxQldHUENUbEd1REl3SmljUFlVR0pNanJjbWdKQk4wQjZQeC1TRmVlaGtJaUlHRDZPWDcwNjFSNGNmbTJGMXdxdHhSTDhLS3BG?oc=5
+- **Source:** Mirage News
+- **Published:** 2026-11-09T03:10:00+00:00
 
 ## Air Jordan 6 Psg Stockx - Air India unveils new brand identity aircraft livery Company Business News - auroradesio.it
 
@@ -183,123 +303,3 @@ _Last updated: 2026-11-09T01:28:52.707326+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMilwFBVV95cUxQcTg4cTFXbVhKanZJS0J4OENYNTkwd0FlSF9pRmZRd1Y3M0pMTUNwRlE1b190SHR4TnZPdkRSV2Q1WkhSLTk5NUdlOXkwYTB3a09VdmMxdUJ4LUdXckNqUERDeUdodWtVemRVQmRrVU5ITzhXcmx2WlZ2Z3pnb1Zyb1dXeDRKWjAyTU92VXVWbjJvdlUtZk1B?oc=5
 - **Source:** American Nuclear Society
 - **Published:** 2026-11-06T22:36:49+00:00
-
-## Thea Energy, MIT collaborate on testing stellarator magnet technology - American Nuclear Society
-
-- **URL:** https://news.google.com/rss/articles/CBMiqwFBVV95cUxQY0xyX2IxUGlzblJSdzJMdUJlaUpRNlNwZmR6dGI3Y1FhRklKQU04MHpWRUxHQ0stTENSVXJMYW1fWTczYlE1d1lIZ2hqYzR2eE1seGZnWWJJOTVGM19aZWRXREd3QkFCOHFxOTJpWUZDeEE1Mlp6Uzhnc2NrQzBjaHdaVElYbms2Y1hHMDF1U05FbDBsTkRVM3VoRDF5SVRjcjBVV2hGTmt4NTg?oc=5
-- **Source:** American Nuclear Society
-- **Published:** 2026-11-06T16:17:03+00:00
-
-## Tungsten 3D-printed at 2,552°F survives 74 plasma blasts in US nuclear fusion reactor - Interesting Engineering
-
-- **URL:** https://news.google.com/rss/articles/CBMijgFBVV95cUxOZjVHUU5Tbm1WQ2czT3V1Q0pKdXA3RV9BWVFwUlFxcjNvSG5nMjdJMlZrN0ZZV3lOYmNUdS1aNllsb1NQWmtLOWR4S3dJNGJxc1FCZTlTRHgwMWlGQS00YnoyX0Fyejk5OGpuWl9qRWNkRGZwZEpmalM3ZVhWMkpVZnZiM3lqaUtGcUs0RWd3?oc=5
-- **Source:** Interesting Engineering
-- **Published:** 2026-11-06T14:06:00+00:00
-
-## UCLA Receives $5 Million Gift From Ken Griffin To Establish Fusion Science Chair And Master's Program - Pulse 2.0
-
-- **URL:** https://news.google.com/rss/articles/CBMiuwFBVV95cUxOaUxtTF9CSEdSWU5wODRNYkNHcjQ4WVZjMFZfU1ExZERySk5pcnBIUEpMSjhVY052NTlDdm1FLU5rRlhaRTM0MWRVMDVyTF9EMHpaN0ZPVzdMT0o4VlNydnZuM3dvLVAwOTBUVHk3YkVLYmJXZ0VQMTF1QWtpWlhPS1NGU3dHbEI5WkQzcmVQTmRtbEZWcUV3S2FUWU81NXBuSmVLelp0YndxNnRUbVBOd3JpNmlsUWVzLVNn?oc=5
-- **Source:** Pulse 2.0
-- **Published:** 2026-11-06T13:52:56+00:00
-
-## German Chancellor Merz Visits Kyoto Fusioneering, Exchanges Views on Japan–Germany Cooperation to Address Common Challenges in Fusion Energy - 巴士的報
-
-- **URL:** https://news.google.com/rss/articles/CBMimwJBVV95cUxPM0xkdmRhR2FVVF9ULUhvUHI5SVpWODRxbjVHSXU1VmRlVlh4TnJHSy1xSUY2QTZSc29fajNOY0liaDhoWFhLWEF3TV9NeC1KeEd2alNVRWZvV2RyNjE1M3FtU1NGb2I4Q2lick5MZmpKcWEwejdPdUJXbG5mUGtWajh6SEZ6N1Q0WGM5Y1B0ZXdCcUF1cWJzNGJPblZ5dnRLMXdBbThvVk5LWEdfbzZrN3l0U2Ixa1BWUDJ6Y2xvdVg1Z1JmNjFkWW5vTktxWjh5R1dzbm5UOWpibDVNZ0o2b1FHZVdheGZSUk9hNkpaSUx0aHdSMjVkRlQxVjJnTjd6Y3AxbE1kSVJpdjBfQUdlNDNIMEJKMnIxWVRN?oc=5
-- **Source:** 巴士的報
-- **Published:** 2026-11-06T13:00:22+00:00
-
-## German Chancellor Merz Visits Kyoto Fusioneering, Exchanges Views on Japan–Germany Cooperation to Address Common Challenges in Fusion Energy - Eagle-Tribune
-
-- **URL:** https://news.google.com/rss/articles/CBMiowJBVV95cUxNS2w0YnliOUVsSkNkbENqaWZ2VDhvQjAxbTZKOXJPR1NEdnZCUkI5RS04cFZSNDk4cHpKeVhMQk5OaEsweTBLV0VxNWt0ajJvTnM1MVRjSFlzUVFqNGo4Zk10cXJyVU5QeHE0UmE2bWNFREFOVGNkY3ZseXNNS1E4QURsODFLOGhOTUcycENnbE1ONlRELVJrc0VGWjVwbmZDTGtPU001ZURfa1IwTTU2QVk0OTRYMl84LTNNc3R5ZkdHQ1ZEcjJ6XzhIaGJYQkwxRzN5TnlqRkY1TU40Y284TkRUZmpUUkRoWWdNblVfdUgzc3JXcjNqb3B4eFpDejJmdW5peTh1SlR3bWlWR1hyUlRnZGxqTFNTcHpLLTRyb1NTVjQ?oc=5
-- **Source:** Eagle-Tribune
-- **Published:** 2026-11-06T13:00:20+00:00
-
-## German Chancellor Merz Visits Kyoto Fusioneering, Exchanges Views on Japan–Germany Cooperation to Address Common Challenges in Fusion Energy | NEWS - KYOTO FUSIONEERING
-
-- **URL:** https://news.google.com/rss/articles/CBMiY0FVX3lxTFBGTEFYVkJnbUxDcUZGMW9NRjB3bjBFRlRwZUtmbUVXV2NvaUFVekhoWFJwa084QTlqYTE3cmE5Vzk4TTJKWlBWNnkza3Y2YjJVd3JfOGV0NW5pZ1hIX0dya3hDVQ?oc=5
-- **Source:** KYOTO FUSIONEERING
-- **Published:** 2026-11-06T07:00:00+00:00
-
-## A 1.48 trillion won artificial solar research facility construction project to be built in Naju, Gwa.. - 매일경제
-
-- **URL:** https://news.google.com/rss/articles/CBMiU0FVX3lxTE1GTV9PS1dhYVVKUnBBTDA3VWhmWGduSW1GQXFZQzA4UEtjS1pQVURCWUhZQVJST2VnWkl3LXFOODZtZGZkZFJ5aG9NR3N5N0FET3pV?oc=5
-- **Source:** 매일경제
-- **Published:** 2026-11-06T05:21:12+00:00
-
-## Finding fusion’s missing input energy - AIP.ORG
-
-- **URL:** https://news.google.com/rss/articles/CBMidEFVX3lxTFBJM1A1RzdhT2ZTNk15XzR6WUhhaF9nRU5yWDVCcm85aEdjNVItT21wc3ozZzRuUm5JbHUzc3p4MU5SSkpQMmF3VVdCbVNObWVnSE40WGhrTnJOa3FTTDMya2xGdDdRUGduaDZPM2NTeGtKSlVZ?oc=5
-- **Source:** AIP.ORG
-- **Published:** 2026-11-06T05:06:15+00:00
-
-## China's robotics industry development strategy in the AI ​​era. - Vietnam.vn
-
-- **URL:** https://news.google.com/rss/articles/CBMimAFBVV95cUxQeV80bmwxTXZKSVFQOS04YW5yQW1qU3hwdnhQX2d2VENnSjVXOW43NmVuU0IxQ2IxLXU0bnBQUlJUcWN1bDZ4Z3RNRGtSQ21FS3hLVXF2V2ZldkR6cGk5LW1xWmQweE12MWNaUkRfSWYtYzF0UTljZG9ybm9ub2ozcWlMcUItZHlCVnlFQmlBOUY1eUh4ZjFiUg?oc=5
-- **Source:** Vietnam.vn
-- **Published:** 2026-11-06T03:54:43+00:00
-
-## How do tokamaks work to make nuclear fusion possible? - The Hindu
-
-- **URL:** https://news.google.com/rss/articles/CBMiuwFBVV95cUxQemktTTFhTmNERXlqYm5yRmRGTGo0eDRQUzE1clpDWlNBZGswZHFfc3BCSjB6T0F1OHNqMXR2czB3eURiNmFwVzlvT29VeTBGandXSzNta0h0NzllcXdGbjZLNEhzRFpQVkFSSmZScnJfQ0N4UC1rYnAwZnpHWUlrUlh2Z1I4QkUzaU90RjNLajdoLUJiSXFqYnpRbUhQTFd2THJzdmNRZERpYThMNjVEbGpTTVR1Y3BZdzJF0gG7AUFVX3lxTFB6aS1NMWFOY0RFeWpibnJGZEZMajR4NFBTMTVyWkNaU0FkazBkcV9zcEJKMHpPQXU4c2oxdHZzMHd5RGI2YXBXOW9Pb1V5MEZqd1dLM21rSHQ3OWVxd0ZuNks0SHNEWlBWQVJKZlJycl9DQ3hQLWticDBmekdZSWtSWHZnUjhCRTNpT3RGM0tqN2gtQmJJcWpielFtSFBMV3ZMcnN2Y1FkRGlhOEw2NURsalNNVHVjcFl3MkU?oc=5
-- **Source:** The Hindu
-- **Published:** 2026-11-06T03:00:00+00:00
-
-## Germany and Japan Strengthen Fusion Energy Cooperation - Fusion Industry Association
-
-- **URL:** https://news.google.com/rss/articles/CBMingFBVV95cUxPM0FFV0YxVzdSYmdJLWdmVi0yUTk0SW1GMlhDV0xSb08yWmJ3Z1BlODdvdnJISkk4NEl1cEVHekNEdk1lWFptblhick5kZkxldDVYZXdRUFEzSV9ucDZiOGF5eGNKejZhZkNxSFZjaW9qT1VieTFueVU5Q2xqa0kzb3JqYUhoanNmREJUeGs2bDRRTDh4ZndfVVdoQnRNQQ?oc=5
-- **Source:** Fusion Industry Association
-- **Published:** 2026-11-06T01:20:26+00:00
-
-## ANU receives Google funding to boost fusion energy research with AI - space & defense
-
-- **URL:** https://news.google.com/rss/articles/CBMimwFBVV95cUxPWnVwMHlvUXJpNzNZV3Y3TXhPRVRIOHdTNXhIMWRYbldNZ2hkcGRTZE5tblpPb0FHbVNZaUtMbDJQcUh5RHVxVmN0eGhZX2VJc0N2MGVQSndzNzlQZmtvblI3VWdYVTlDRmhhdl9IN0RRR3RpZ3NnTzRqZ3BtYXFtTHhnSmhFbmp3OXdaNFJNOTRZdEs3djRzT3p1aw?oc=5
-- **Source:** space & defense
-- **Published:** 2026-11-05T23:39:31+00:00
-
-## 3D-printed tungsten tiles tested at DIII-D - American Nuclear Society
-
-- **URL:** https://news.google.com/rss/articles/CBMihgFBVV95cUxOejNEYVRuWGF2dXV0RXZzdFU2QmpwSThVaW1NT0hwZHo2X2ZDazVnRUg4TGhLaXZ0MVhzbHJhblNaV1AyOVBfNWw1U3hhUzVzNTlyRU5SR3NLNWdhS2ZvRm5xeDZnOW9zRUFyaEh1Z2NSU3NZOWhsek52RzhtQmZmUUxoU0ZyUQ?oc=5
-- **Source:** American Nuclear Society
-- **Published:** 2026-11-05T19:51:57+00:00
-
-## National labs working to tackle fusion energy challenges - Fermilab (.gov)
-
-- **URL:** https://news.google.com/rss/articles/CBMikAFBVV95cUxQTVprSmlmRlNyTTdLYm4temF3SjB0ZEpPMy03VXpBcTJZNmFsbW0xaktZSVZvbzUySzJHTzl0WFIzN1ltdzk3QTNlY244R3I1OFlkRE56S29iSk5xVTRFWldNalNqWFJySndfcjRpa1JHTFRBQ0JHbGdkRGpfRXpvdkdQTWItNGE5OEJpZTd4SjE?oc=5
-- **Source:** Fermilab (.gov)
-- **Published:** 2026-11-05T15:00:00+00:00
-
-## Amentum and Kyoto Fusioneering team up on public and private fusion programmes - energynews.pro
-
-- **URL:** https://news.google.com/rss/articles/CBMipwFBVV95cUxOcDE5T3NwQlZBTExPMXBqcnBqX2d4b2V1ZHY3YVdSZEluTFE0UVNyaVRDUzNqMS1rVWtRa0otZEhtMVVncUxGRUo3UV9QbF92cHhMdnlGMGlqLUlCXzZEOXRwcmRHV3B5RXZiS201M3Znb3RlR0o5ekcwWmNEa0E3TnVvTzQwMXh6OFREbk5sWVhXdl9KTndPb1ItVnRwNmpxbnA5MTdZRQ?oc=5
-- **Source:** energynews.pro
-- **Published:** 2026-11-05T13:14:32+00:00
-
-## Christine Lagarde Urges Europe to Strengthen Its Power Grids and Energy Storage - energynews.pro
-
-- **URL:** https://news.google.com/rss/articles/CBMiqAFBVV95cUxQYWJpQmEtVmxhdHFVaF9DT3Vpd0xEUkZUTUkxT2ZWY08zdkIzTlhLY1ktX19yUXlDMDFZX0lkandHclVIRXE0UUhPRU1fSUNlb1Z0Y1JZSW44bWFoMHpVSzRNclhaZlA5RFBQLWVnQ0hydERZc1RCeG53MmRCS1ZWbFFDc2xkU1BOWmhCU1ZTUmZyUTBpcTFGeHR3MVBaa0djRkZVbTBkLWo?oc=5
-- **Source:** energynews.pro
-- **Published:** 2026-11-05T13:02:20+00:00
-
-## Kyoto Fusioneering to Provide Gyrotrons for Type One Energy's Infinity One Stellarator - Business Wire
-
-- **URL:** https://news.google.com/rss/articles/CBMi2gFBVV95cUxNTUQ4cDJyMnJBbE5uVGFzU2pkWXlKaVhsTUdBbUNhSGR2NEdsN2JpVmFWTU9sWnBKYjhqamFuZzhYLVBMV2VJcG5WVHhNVkFKZld6d3ZhWklEdXpZTWx4UjVmVXItWHFaWjdHcVJrcXdITnlSWDNwNmFVNGVxQm01OXh0MlhvbWR5ejd3SU5LZEtzZVlPNWo1TkQ4RWhaem1Db3dld3h4NEhiaExkOXluRzZSVV8waDg3VXE0elREUjE0ZkRSMW9ndlNlX2hDMjMtRXpsQ01FTjFmZw?oc=5
-- **Source:** Business Wire
-- **Published:** 2026-11-05T13:00:00+00:00
-
-## AI data centers drive nuclear energy revival, $50 billion investment by 2029 - ET Datacenters
-
-- **URL:** https://news.google.com/rss/articles/CBMisgJBVV95cUxNUHdiajYzMXlkRDdOaGhvVFZVZFU4NU05RXlUU1plRGh1SXptM3VsQ3RFOUpncE56amJuSkRCV3pCTTlCMWhkVlFoU3NiX0xLSWs5RWVmVzlqRU45UncyZDRja2tuMGp0ZlctTXR0XzNzZlN5WFVhR3JzclRXdFkzVlRLNmFRUnhTUUNsZjZOQ1pmbW1lMG5Tck5iR2NhR1lzX3RYTHRLT3RUcEtEbnBsQXhOZGM2MWlaMlVIVEVFeC1Mc0hOM2d6bldDZ2xrRjBPeHNMaUNlUlV4Z0h3OVJjUWgyd1pyQTZ6Y2lBTm40NHZ4bkxLNFdoUmI3c3U2TktrWUYyVDd6TDI2NXlVZ3ZtejlYTmlfdzJDdnBDRE5RTnRqa0E1V2RZa1hTWGlReUt2LXfSAYACQVVfeXFMT1duYUx1NnJIanZMQzVzVXNPZVppWU05MlhMMmk4M3J1WTRJU3ZELXlZYVZGMnpNRHM5OExLQ2w4ZmJ6ZkRia0xIcjZnWDlOajkxQjRUd1BUQ2x5RUotVmNib1d2aU5CRU1JdGdzSFJ5NVZWeUJUVWN3SXRvWHVlNHA0dVFHcllXWFJtVURJV25CTU1JSTVlSmNjMU4xcTM3SlBvRUN2RW9Oc2s0SHpUSTRLdUJ3RE9URWhySHNLbmdkUDRNSHhESmh2U1ktTkJiaGNyWnFIeEtzUnliZ1pWT0ZrVWhENHpib2hLa04tSTFlUUlkdHJNMXFRSjlUT1lkUQ?oc=5
-- **Source:** ET Datacenters
-- **Published:** 2026-11-05T12:15:47+00:00
-
-## Nuclear fusion reactor gets massive 13-ton beam box to achieve 108 million °F - Interesting Engineering
-
-- **URL:** https://news.google.com/rss/articles/CBMiugFBVV95cUxPSHVVc3pyWEJpR005cV9NUUtLVnluRk9XTVEwaTQzWXBwRnJnaWQxLTZEZkFHNWZEdnFfQldfZE9PWUgteUlSYm1wTE02WkNJVmFVem9QQ2JUYk1BRm96am51U1FOZThxbXNXR2RibnNVZjZKQWMyanZJZDh2NXhQUWRmN0NtUTEtUFFTSm53NHFBUTR6Y0s0bF9ybmhBQTJlRndGT2Y0U09ZamVidHZzNnNWQUZqS2N4dEE?oc=5
-- **Source:** Interesting Engineering
-- **Published:** 2026-11-05T11:26:32+00:00
-
-## 2.1 Trillion Won to Be Invested in Fusion, Marine Reactors, and Displays... Projects Pass Preliminary Feasibility Study - 아시아경제
-
-- **URL:** https://news.google.com/rss/articles/CBMiZEFVX3lxTE9KbHQwUEFrd2RsVFVKdUFhYlkwWDUwRGN4WG9pS21oUVVQZzVMN2JSOXpkNEFrZjRJOFV6WFMwV2l1WWEzSW9XZzBrSG1HaDBMSTlmU1RhZmZpY0p3NFliczE5OEc?oc=5
-- **Source:** 아시아경제
-- **Published:** 2026-11-05T11:08:31+00:00

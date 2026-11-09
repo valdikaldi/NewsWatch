@@ -1,8 +1,146 @@
 # NewsWatch — Apple News
 
-_Last updated: 2026-11-09T01:28:51.189516+00:00 · 50 articles_
+_Last updated: 2026-11-09T12:35:21.106108+00:00 · 50 articles_
 
 ---
+
+## Many are predicting a ‘United Ireland’ but Apple Inc is not - The Irish Times
+
+- **URL:** https://news.google.com/rss/articles/CBMitwFBVV95cUxNeUZNWHVaNi1BVEpWWk9RQkdwRFBybGI3SFdCNV9MSGctbTZaVElsRlR6MVVtSmI2cEFzQWIzX01WT0EtTEkzRVZkb0FVYVpKbFRMV0Jha1MxRkdIMWg0NG5ONmV5U0d1SHpnV3AwUk1kZ2hfLUxxbmxTOHlmaVdab2hkb0tLdXhhLVBhYlhmUnRwRnVzU3ZYLWkxNHNpbUxIUUVwX3NNUzR4N2o3OThVc2h4UEp2b2M?oc=5
+- **Source:** The Irish Times
+- **Published:** 2026-11-09T12:28:27+00:00
+
+## Apple cut tax bill by $2.7B by moving some earnings to Singapore (AAPL:NASDAQ) - Seeking Alpha
+
+- **URL:** https://news.google.com/rss/articles/CBMiogFBVV95cUxPYTJicFA2UmI2NFk2S29QbmlmLVJiRGRIVG1GeXJWYjRoeXpPXzdPRktLbXR3dzBCUFhGZDNWZllkUmFqekRQWWVKVThsd2VZY2J1bDVaREUzRjRsSEdyaFhHYmhRZWpSbF9USUtTZ3FRTDh3cE1oQ09jTm9PWU5Va1M4YkZyMmo3eU54bWVHY0dvX1ZqUkJYWW11MjhQMzNSNXc?oc=5
+- **Source:** Seeking Alpha
+- **Published:** 2026-11-09T12:20:00+00:00
+
+## What Direxion Daily S&P 500 Bull 3X (SPXL) Sold: Apple Leads on Nov. 5 - Yahoo! Finance Canada
+
+- **URL:** https://news.google.com/rss/articles/CBMif0FVX3lxTFBvaDFsQ2pMWXkxUjJ5M1R3ZlQ2TG5sS2VWb1hPNl9oUl92aUlKajh4VmhrYzlmZDdIX0tPSzVTSGowcFJSeUJ1TDVseEFtRFBlTDV1R1hVcDNlaTBQOXZCWWNqTVZRaTNZZXJfNFY0U3lBUEJfajhueVpTU1kxbW8?oc=5
+- **Source:** Yahoo! Finance Canada
+- **Published:** 2026-11-09T11:06:04+00:00
+
+## Invesco NASDAQ 100 ETF (QQQM) Buys $38.3 Million More Apple on Nov. 5 - Yahoo Finance UK
+
+- **URL:** https://news.google.com/rss/articles/CBMiggFBVV95cUxOT1pFRFljSGZEZXd4d2xlZ0JHUXcwYmtzZk5WY3NoZmtKM3JKVkRwZFg1SUZLU04zMll6d0RQV0I4WjVzVlh5amZGZVU4NExqZ0JieEJOMTlCRFcyaEtiZzEtRG92YXlLT2tzTzRjVnFQakdiUW1Rck1mUHRVTXU0NlZ3?oc=5
+- **Source:** Yahoo Finance UK
+- **Published:** 2026-11-09T11:05:26+00:00
+
+## Proshares Trust (TQQQ) Buys $83.0 Million More Apple on Thursday - Yahoo Finance Singapore
+
+- **URL:** https://news.google.com/rss/articles/CBMigwFBVV95cUxOa1ZiWnEzcTJiMDdLZzE4bUw1dWlBN29HamFDeVBlUHRvUnZPdzJDLWxrVGZlNGpGN3lEaHlkUFB3Yl9UUWtWTWZiSnBQRjVIUEVpXy1QaHI5SUdCdGhnb3pVMTNjZDZJSE11WGp2MzBNdDJPR2FHelZyd0p0UzJ6Ty1GYw?oc=5
+- **Source:** Yahoo Finance Singapore
+- **Published:** 2026-11-09T11:05:00+00:00
+
+## Invesco QQQ (QQQ) Sells Apple and Nvidia on Nov. 5 - Yahoo Finance Singapore
+
+- **URL:** https://news.google.com/rss/articles/CBMiggFBVV95cUxQNWlUNjNoTE8xYlJpeUs4UWZIbmFob2p4eDJFYXVOTUJXSjlNbnFGdTYwUXBHZHBRMkhSczVrZjNQVWt6QmpGOWMwREJGODB0Sm9Mb1ZXa2szSV90ZHg5OEFKZmlkVGJmcHFBb2pWUzI0TzN6Wnc1MzVXVDUwM1lfRUZ3?oc=5
+- **Source:** Yahoo Finance Singapore
+- **Published:** 2026-11-09T11:04:38+00:00
+
+## Apple Inc. (NASDAQ: AAPL) Stock Analysis: EPS Growth of 20.31% and a P/E of 38.15 - Kalkine India
+
+- **URL:** https://news.google.com/rss/articles/CBMivwFBVV95cUxPTHJ6b3hzT1VSZHdiTEdPanNyLTA5Rk5RbkJjRE5tOWZEWWh1Qk9vNUJlc1VsUE9EUmJQOFllQWpLcllWM1dQd0NHaWIzOER0V1l4RTRDTmZFZklMaEpQQ3VrWTNJM2pTWHRzOTVJX1FaLXlSMlFjU0V2cUtzRExUSlM4aUtlcVFoU1VQZjRoNXBGbVVSZDJLTjktRFROUnB0MU1ZWVVTZklISW5neTJZVlhfTlloWlVGV1JjeDktQQ?oc=5
+- **Source:** Kalkine India
+- **Published:** 2026-11-09T10:46:00+00:00
+
+## Apple Tv Bike Trainer - Fortune India Business News Strategy Finance and Corporate Insight - auroradesio.it
+
+- **URL:** https://news.google.com/rss/articles/CBMiUkFVX3lxTE1KMWdDWjNJSUtYb0FuQlNFT2stZ2sxczhkV0E2N1Q4MkxnRVJLRW1raTJ2OTVYeUxwR3FtbGJJNXRZTUtmRnJhVTZ5WVZmQ0RwZ3c?oc=5
+- **Source:** auroradesio.it
+- **Published:** 2026-11-09T10:44:59+00:00
+
+## Apple Chairman Tim Cook visits Ataturk’s mausoleum in Turkish capital - Anadolu Ajansı
+
+- **URL:** https://news.google.com/rss/articles/CBMirwFBVV95cUxNbHg5S0tveG1RRUo3a3BiTWcxUXdkcUg2S2pRTHJwckJFcUJ1SHdJektnVW41R3lJcFI5Zm0zTzlRR2VuVjRZZTFEZkM5R2kwU0ItN2piWEtIbTVJSmVfRkdUd3p6U20xa0JST2p2UHlZajdoSjRyMlpEeXNTR0M4OVVhNEVQUEoxMlZDUDJ2Mk14MkVqZ3N4ZkNYOXBha1R0T1NmMWliMHdfblNZTV9N?oc=5
+- **Source:** Anadolu Ajansı
+- **Published:** 2026-11-09T09:54:37+00:00
+
+## Apple Smartwatch For Sale - Apple Store sales in neutral ahead of new Apple Inc. AAPL product releases - auroradesio.it
+
+- **URL:** https://news.google.com/rss/articles/CBMiUkFVX3lxTFAyeDVZWEZjYU1fSFNTc1lyRktWUERFVk5uY1lDU1hWb1M0ZW4wb0pMdFgxOEhlb2lRRmVfblZXVzM5ZW95MzZJV3lzbUljOHdkZlE?oc=5
+- **Source:** auroradesio.it
+- **Published:** 2026-11-09T09:50:37+00:00
+
+## Apple Inc. $AAPL Stake Trimmed by Hoese & Co LLP - MarketBeat
+
+- **URL:** https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRzlHOGdlNWRxTnZob3RCTTVqY3hFVEJMZFdGSUcycXhqVVdsbUwya3JIYy1BZ1FZNUpnOWExNkZIQ0M5MTRqWWhib3NPcmZaWWdWNlh6NUw5WFNPcGtjRVZBcTRzdENhMy1nM0w5bTBnajZDMlZ4a3FMdzBJenR4amd5U1FWdWI2X3dEaDVQVldiTnQ5cnRwcm96emRWdUZxSWxrS25lbF8?oc=5
+- **Source:** MarketBeat
+- **Published:** 2026-11-09T09:40:08+00:00
+
+## Wavvest Wealth LLC Purchases 4,891 Shares of Apple Inc. $AAPL - MarketBeat
+
+- **URL:** https://news.google.com/rss/articles/CBMiuwFBVV95cUxQYXFTQnlXZzdfc1ZPdHJuNTRWSDdveXk1V2dZYmRnRzJHRURPRUZGbkdhcTZ0OGR5UUF6MVRNS1ZnTlZUWnZNdVVPZkJfN2VaV1ZBSHZPeV94dklhNTFrWjB0bzZYdmsyRm96SXR3djhxVFF5LVMySUNUREZ5Zm4wSzQtMHd5NkQ0WFFCcGZaMlZuLUNndWcxVnlfWllLTE1lS1hRYWFMazlTUjA4U0VDbXNfemtQaW8yOHNV?oc=5
+- **Source:** MarketBeat
+- **Published:** 2026-11-09T09:40:08+00:00
+
+## Trifecta Capital Advisors LLC Acquires 1,491 Shares of Apple Inc. $AAPL - MarketBeat
+
+- **URL:** https://news.google.com/rss/articles/CBMiyAFBVV95cUxPV0U3VFZETUdyM2FpdEhfU1pMWFhBbDF1QzBUYm5XMmZoOWhzbFNoN2VWVWs1SUI2RERoYjAtOFhndzJObDRKNWUzalRRQloxa2hyZndvWlZMTndiSW1RRVFNd01WX3hFN09kN2M3UGpRWjRIbEF4S1BRcVdua2diX2lwb2ZzcUVnam01Z2Z2dkJNN1ZzR3ZkcVlkTU02THBsT1hsVWc2VmFRZUFNZjBVQTJ0Z0JFUTJPNlNCV1hCSUttYjFoSGczNA?oc=5
+- **Source:** MarketBeat
+- **Published:** 2026-11-09T09:40:08+00:00
+
+## Apple Inc. $AAPL Shares Sold by Skylands Capital LLC - MarketBeat
+
+- **URL:** https://news.google.com/rss/articles/CBMisAFBVV95cUxPV050RmVQcE9hcDRtU1dWVWNXQllPMm1zMWhzd3NhVXJsTUhkSWVDbzB1QkgzWDQ2UnRUbGJfRGU3LTRKNFpVVjkycHR1S3FYX3N0clZicG4yY1F4R2Z2UU56SlNzeW56dU91QXp0Y3RyNXBVVXQtTDRoRktURVlHb2NVX0ZLZ1NoanJoR3pqMVd6UG5XREh5RmpuWjNKcnpsZm8wNFpYclV4MjI4QnlqaQ?oc=5
+- **Source:** MarketBeat
+- **Published:** 2026-11-09T09:40:07+00:00
+
+## 2,121 Shares in Apple Inc. $AAPL Bought by Kings Path Partners LLC - MarketBeat
+
+- **URL:** https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcVIzOW0ybk9WV2I0Rmlfend1TE5lSHZhcnR0M0Znb1RCSlBDMXctenBWWlVUc0dWLVhRVWpHS0VTdDNEMlAwRS1KTVRrSWMzZHltREQwdnFwQzhPSVQ1S0lTQk1ycEo0c2p5QlMzNW93aWtsMTd3YnIzd29OZ3kyNVBzYmkzcXo1WmI4ZElILVBNcThBVnNEQ2ExRGRlVVhaeURUbTlVcXJGa1psNk1QU2Fha1dLRWd5SEU3aFdoTFVfUQ?oc=5
+- **Source:** MarketBeat
+- **Published:** 2026-11-09T09:40:05+00:00
+
+## Apple Inc. $AAPL Stock: Axxcess Wealth Management LLC Lowers Stake - MarketBeat
+
+- **URL:** https://news.google.com/rss/articles/CBMiwgFBVV95cUxNd3RGbldKTVQ0YXRVbFpWQ1ZlVTRsLVdKa0pUc3ZMODZXb285Q2pOamxfaFd3WFUtVlp4dHpXZ0MyVnozTDgzTEtMZVJORlJDUU5qSHFUSkdVTTE0UVI0Vm53aDFPY2RKYzFMV01qT2FDZU5IUGo2Z3VOendzdWtqTWpFcThlYk5pWDV6QzN5bHNPMl9zSTlaZWdDQWNuSU1DSXo0bHZ4Wk15cEl4Qi1HbEJQeWxxRE8wOThpNEFyR2ZNUQ?oc=5
+- **Source:** MarketBeat
+- **Published:** 2026-11-09T08:39:49+00:00
+
+## Apple Inc. $AAPL Shares Sold by Crossmark Global Holdings Inc. - MarketBeat
+
+- **URL:** https://news.google.com/rss/articles/CBMivAFBVV95cUxON1J6V2Z2MnNvNG9VYldkVHJlWGpOcVpwdm5BZlZRLTVBZDM1VDh0cDZCcGtsSXFRWU5aaEFqVTdtaG4xbkJKdWpKU2lIMXhRQklPcFg2dTNpR1BISGpiZWwwMmVGYVYySzZhajBQMHA1Undpb3RWaXhaa0NIX0ExQkRUemRWaUNJNzRxSEU2NXh3VDBueDNxZk5QaE5QWTg3eTROdUY0NmllUGhNY0JlUzR4bDRZVV8ya3JRSQ?oc=5
+- **Source:** MarketBeat
+- **Published:** 2026-11-09T08:39:48+00:00
+
+## 18,456 Apple Inc. $AAPL Shares Sold by Bender Robert & Associates - MarketBeat
+
+- **URL:** https://news.google.com/rss/articles/CBMivgFBVV95cUxOZ0JXWGJ3Vlk2Z25kdjJqLWZ0WEZubHBKR2dKaHJCelUzdTlHTjByeV8zd19xNVlMTUpuOEtGSUs1dWtBZnIxQW51T1o2MHRhRG03RFA0Q0wyQ1VrVEIyaHRpVy1Na24wamZEZlpoRE1GWXNTdFFVZlpBNXlWcmhRR1F4SlRsczRTN0U4ci1QR2dRc0x3a3MwZmdCSXBYSTVsTENRa3Q1UU9sR2I3Y2h2VTc3YS1ZT09KUzIxWjFR?oc=5
+- **Source:** MarketBeat
+- **Published:** 2026-11-09T08:39:48+00:00
+
+## Apple Inc. $AAPL Stake Lifted by Catalyst Investment Management LLC - MarketBeat
+
+- **URL:** https://news.google.com/rss/articles/CBMixAFBVV95cUxNQnlIb3N2c01ieDZCdmZYY2E3RHJRTDF1LS1mWTVHMkxXWGk1VWU5VjRNMFdUVDFEU0hhaGVTZm1DeEZ3aklQRDB3a1RiTUhDTERhMVR0aGlvV0VhX1hJbXRIbkhGQkpSN2ZSQ0M4YnBZZzA2dlRSLUwycndZZF9QZTQtZkRMeW9KNmtfaHRvYV9MWGpUUnRPc2NJRlBLQlp0T0VwOEJicC16NUttbmg0Vm1FZWJDLUdPMW9jYzQ5Z29RelQw?oc=5
+- **Source:** MarketBeat
+- **Published:** 2026-11-09T08:39:48+00:00
+
+## Apple Inc. $AAPL Shares Acquired by Albion Financial Group UT - MarketBeat
+
+- **URL:** https://news.google.com/rss/articles/CBMivAFBVV95cUxPU1RydDJNdjc1bHdmNzM2T3dLZXlDaTRhZjdad1pROGpOc2JNekZiNU1iQzVVbkFOSU5OeTRPTklydVlmY19YTWcxZ3k4ckhRVGsxbEM4eHN0dFBUMEdKbEV5TTlOeEN1TXJSS3k1Y0hzTjBGS1N2cXNBRF9MRWxaSE5OMWhBX2t2WmdXTnNhZ092TVlCRzd0V2drc0VfV004SGVaNzlYVzVhZlhqR0t1VGR1ZlNpbGtCRUI0Zw?oc=5
+- **Source:** MarketBeat
+- **Published:** 2026-11-09T08:25:47+00:00
+
+## 5,248 Apple Inc. $AAPL Shares Sold by AMG Asset Management Group Inc. - MarketBeat
+
+- **URL:** https://news.google.com/rss/articles/CBMixAFBVV95cUxQbnJnQUhHN0hOVllLSk03dFhIZ0laQ0Q4Z2VqeXlZNFY2enNZbTNnRGhwSzhXTkhKYjdXOWR0OF9sTWlXcmU4eU96TElNdVY1azNIV0NhaTNtV2pacjI1X3o0TVFHaV9WbjIzLXNHOGpKcWRSQTVIWVRueFFKRzZoZWxnX1pyWWlHcV95bWRDMlhUeUd4R2ZqbHV6NWI2RHhpdkt5bjltSTR5QXBkV0ZyNkdPb0lreG9hckxPLWVEYWVrVWJn?oc=5
+- **Source:** MarketBeat
+- **Published:** 2026-11-09T08:25:46+00:00
+
+## Apple Smartwatch 4 Series - Apple Store sales in neutral ahead of new Apple Inc. AAPL product releases - www.auroradesio.it
+
+- **URL:** https://news.google.com/rss/articles/CBMiUkFVX3lxTE9yLXNseHZIdDRkTnA0QkU3cXJOeWxpVG5oZjJsUmkyRzJkWlJkOGZ0YUk1RElwWm5tT0dmbjNOWGNVVzRwcC1zblRjUk9NanVoaHc?oc=5
+- **Source:** www.auroradesio.it
+- **Published:** 2026-11-09T07:12:53+00:00
+
+## Apple Bringing Agent Capabilities To Siri? Report Says Apple’s AI Is Up For A Major Upgrade As CEO Ternus Pushes For Faster Roadmap - TradingView
+
+- **URL:** https://news.google.com/rss/articles/CBMimwJBVV95cUxQUXUwV0R3NWV5cU9VRjlFNXdTNXozM21ET0VyOXZCaG00dWxKYnJVcnk5ZlYyZVBOcm1ZRFFOSWpXUDRwMldFdTJDdXZWT1hQalVzN3gzd0tOVFpoWFdITjl6QWc4c3EwRG9MVXg1enpMcXVPSWVuZGxOc2RIOUZTYU5MMTY3d3dScUNrN01FS2NDcTBVRFBIVXhrSUVaVzZOcTU2TkQwR29FLUlRSjllaWIzYkYxUnIwNXNiSkMyUGdBTWp5Q0N6eUpLNkVaUUplSGwyR3YzM3M4Q0RoX2I3YmYzVk5LdjBLVy1rUk1RTkkyTnMwVjE1WGI3OHdLWEtrTnlDTzNIcUhiclRTZmdUY2k5bkk4RHhyS0Zz?oc=5
+- **Source:** TradingView
+- **Published:** 2026-11-09T04:53:00+00:00
 
 ## Apple Series 44mm - Apple Store sales in neutral ahead of new Apple Inc. AAPL product releases - auroradesio.it
 
@@ -165,141 +303,3 @@ _Last updated: 2026-11-09T01:28:51.189516+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMixwFBVV95cUxQa0NrcWc2ZmczbmJZbThMTXRfaEdiTEwzeF9MNmRBQXlrM2pJeDFDVTBXdDZocHN5TVJLemlWOUNOcFp0SWZPTkFpaEdBNjJqRmRwQk5ZcUYwcnpfZEVPbkUzZDBUaUJ2dXJFbWk5Q2l1QUFrOGI5WTMwRGdNclprZDc1M3UtTC1iYlpEUFBuMjJBbmxjWlVLQ0dKRkJGWlEtand6WWhTenFudFgtZnQwM1g2dkFBTUZva0U4UGU5YTNBM1NIREd3?oc=5
 - **Source:** MarketBeat
 - **Published:** 2026-11-07T16:09:38+00:00
-
-## Apple Inc. $AAPL Stock: Revisor Wealth Management LLC Cuts Stake - MarketBeat
-
-- **URL:** https://news.google.com/rss/articles/CBMivwFBVV95cUxNWUFfcUkycHZtRFYyTHllVzFQeXBQRkxBSG9tLUFjVmlNS3hRRU5fZkd3SkJRNms2eWcwalNlRlYxUmgtejVSVVdrSkpJeUFUcktmbHBLb3dNT3QwVDJoaFJQZVBtU1F4dFRKaGRHbWtWbnZ0U1V1Qi15eUtxXzZjZ3o3Z1QyQnQ3UWk5N2FHQk92ZVphbDhNMHlwZG9lckxrWmQ4YWVaV0VCV3d0bTlfSXlhZUsweTY4d1RHbGNFUQ?oc=5
-- **Source:** MarketBeat
-- **Published:** 2026-11-07T16:09:37+00:00
-
-## 3,905 Apple Inc. $AAPL Shares Sold by Kapitalo Investimentos Ltda - MarketBeat
-
-- **URL:** https://news.google.com/rss/articles/CBMiwAFBVV95cUxPUVI2QzdFeDRhNEg0QmgtaW9qcE42U1BUZDVxSjVZM2FIbVF5azB4Q0piQldDSnFqcUtBT3g2MWdjRmhWaWo4YUtsNmhIWnhWQ3NHRXowMzZubWlOUkxfZHZ6Sm9tQkFUWE45WGZhS3ROR1J1c3poempyQ3N4R0kxNXlCSFc2ejB3bHNjUzhQWDV3b0RLVmh4YUE0TDJDVl80Q3BiWXN4dngxcmJRTWtRbEw1WlU0cl80R1hKNkJaTkI?oc=5
-- **Source:** MarketBeat
-- **Published:** 2026-11-07T16:09:37+00:00
-
-## Apple Inc. $AAPL Shares Sold by Robeco Institutional Asset Management B.V. - MarketBeat
-
-- **URL:** https://news.google.com/rss/articles/CBMiywFBVV95cUxOYVQ3R2xmSmxZOXBoT1Q3OE1LSmJQNGRZVVhTMzJtbkNVOUI3aXFHYlpzcmk5ZkhRb1BLZE5yNGlPT0V6SXl5dG16SkMtRGFLNVVPaWU3S2VoNjZydWhad1JWQXJsX2xmdXNIM3hQenVsRW9NWW5tSmFja0RfMlE5M3l4N1pVWjRYVzU3WDAxdFhmQmVTcXRwZlBWSkVVa1k0Z2xFdVNHUWN2WF94T3MyczNCbWlzZWVOUWtaeVozQUh6ZjJJT0tCZFdmUQ?oc=5
-- **Source:** MarketBeat
-- **Published:** 2026-11-07T16:09:37+00:00
-
-## 66,482 Apple Inc. $AAPL Shares Sold by Nisa Investment Advisors LLC - MarketBeat
-
-- **URL:** https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSnBBdFZYOGR2Z05kMVVmNTZBQ01YLUg2My1KM0wzdEppSG40SHhXQXJ1MTNEVjZXX0JQdVR1cGhDRXZoU0ttdHhHel8zSUZadFB4d0pxMFVkUWY2dHZERUcwNU1iTWZiYnZHd0QwWXNobHpYQjAzXzBvS0dyRUlONWN2M2c4WXZjMnVCN2pkenI1WUstU3c1WHBMaDNUcVpiN3JiTmRpMTYxSzI5ZTZVMnpEeHJta29OOHZ6UTd2QjN6Y1k?oc=5
-- **Source:** MarketBeat
-- **Published:** 2026-11-07T16:09:37+00:00
-
-## Apple Series 5 Ceramic - Apple Saket Store Photos A look inside the retail outlet in Delhi Pictures - www.auroradesio.it
-
-- **URL:** https://news.google.com/rss/articles/CBMiUkFVX3lxTFBOWUpReW5ROTNEVldCbHZhQU1FQnE0RGZKUW5jZ0lsZEQ1bkhGUlhNTW04UEd5dF8yQ3VvZHhGM1ZLSXlmcXhGME1uRTVYQmlqdUE?oc=5
-- **Source:** www.auroradesio.it
-- **Published:** 2026-11-07T15:44:29+00:00
-
-## Apple Series 4 Gold Stainless Steel - Apple Store sales in neutral ahead of new Apple Inc. AAPL product releases - www.auroradesio.it
-
-- **URL:** https://news.google.com/rss/articles/CBMiUkFVX3lxTE80WmRuVjI3dF8zb1VBSDhEVTE1SzkwbEVaTXE2SjJtNVdvaUdfT3E0bXhlVmpteldWSHozQnBYbkZvVkoweGc0Z25FNklicm1KSEE?oc=5
-- **Source:** www.auroradesio.it
-- **Published:** 2026-11-07T14:43:30+00:00
-
-## 10,909 Apple Inc. $AAPL Shares Sold by Integrated Advisors Network LLC - MarketBeat
-
-- **URL:** https://news.google.com/rss/articles/CBMixwFBVV95cUxQNjQ1V3AtNGlvc19ZbVYtT2F5UWVIc1VoaHlSZWxEdThoazZHdlduX3poVmRidWlZNlExNm4teHFXZTUyWnlFQWMzLWdJMlNsZXo3VkllVERhczNQUDhEMVFJaWNoZE5XS2V1ZDF2TWpTS2p4UXJkNkk5UU1XUS1MOUlGdjdqYlZ5dEE5THN2cERoREVteWV4TFlIb0JMLTJjT2xRZHNTU0F1TUdMTE5YYVRfd0lFTnQ3bUZmOUg0b215NHdUejZV?oc=5
-- **Source:** MarketBeat
-- **Published:** 2026-11-07T13:57:09+00:00
-
-## 36,341 Apple Inc. $AAPL Shares Purchased by China Universal Asset Management Co. Ltd. - MarketBeat
-
-- **URL:** https://news.google.com/rss/articles/CBMi2AFBVV95cUxNMTN6ZGFhQnh3RHk4NTQtZ1ZvNHBfTmtCbGdpWElDVWVvUlJzV24zMjAwQ0FBY3pLVjFuaUItRjVKRk56V2lCQXotekxsZ2h0M284dUFFNkRQb3BRWU9kdUdKWUlmSXAtOVI5RFpFdmVEdlZGWXdXZWVpRHlkd0J0MHNhWHZtVFVpUW9tdUttak1fdkI0X2FlSmg1NzE1RTNrUWdpOVVfUl9iUDdrenFZWFZjdGx2cFdoOEtBQUFDRUpWTTFKczdkZ1BpNUlWaGtSQ0didkJmZkw?oc=5
-- **Source:** MarketBeat
-- **Published:** 2026-11-07T12:55:20+00:00
-
-## Apple Inc. $AAPL Shares Sold by Arnold Financial Planning LLC - MarketBeat
-
-- **URL:** https://news.google.com/rss/articles/CBMivAFBVV95cUxQeXJNNnh6eDBWV3I1YkNNYWotbFl0VkJ1V21WbkVQR1NEN3dDVE5PZTRlc0pDTXRCZVR4M1RrNnZmcVV0aEdnb0pDczExM21KZkszWlJjdnh2NU45S3NRSXE4RnlyWnlhOUlUOGlrY0ZYcU5meUl1TnVXWjhaNXBiWEg3enZ3TUxFZ2hXYVMzM1NoeWtveEo0VlNFLURqX1BzMHRpSHpfYk5lX28xcUNRc1Z6OHFsVzBTSnJKNw?oc=5
-- **Source:** MarketBeat
-- **Published:** 2026-11-07T10:15:22+00:00
-
-## Apple Inc. $AAPL Shares Sold by AMI Asset Management Corp - MarketBeat
-
-- **URL:** https://news.google.com/rss/articles/CBMitwFBVV95cUxQbWJZQ2JDUmc4S2gyZDRwblJzUE9Eak56b0V1dURfaFFweFpsOGllN1Y3NnVVMFc4cTZVcVBPbThid0oxT3RGeklaNDZOT09YbmtjSEVoS01VdGFDLXlZaWs1RGF3cW91OEQwemc0V2RFVnN4M0U0Zmt0NjZlcFAxc0RubDVaVnViZWQxNnpUSWMyenBLemJndldkaGsya3VFLUdYQlB4a2RTZTRfcS1lU1RnSTN2Y1k?oc=5
-- **Source:** MarketBeat
-- **Published:** 2026-11-07T10:08:00+00:00
-
-## Apple Watch 4 Frys - Apple Inc redesigns its stores for 15th anniversary by removing Genius Bars adding trees - auroradesio.it
-
-- **URL:** https://news.google.com/rss/articles/CBMiUkFVX3lxTE5RWmJrbkJYYWdxakQ3UThoYWFRRHBxdU5rcVhzd09oaTNMVno3NGt0SVNic0NNaXBJOFFkQmNYcThhSDZFNEhGNGNwTHA3U0lHM1E?oc=5
-- **Source:** auroradesio.it
-- **Published:** 2026-11-07T03:13:47+00:00
-
-## Apple Nike Plus Watch Series 4 - Apple Store sales in neutral ahead of new Apple Inc. AAPL product releases - auroradesio.it
-
-- **URL:** https://news.google.com/rss/articles/CBMiUkFVX3lxTFAtekd6MVRxZ1RNY2xuY0xabkV0N180QjVPNk81MnFSb2Jmd3pQUFlveEppdXhCUDRYZDdZa0h2akxWWlJfaVAwOVRKVzBWREptbHc?oc=5
-- **Source:** auroradesio.it
-- **Published:** 2026-11-06T22:33:29+00:00
-
-## Apple (AAPL) offers $7.5B in notes with fixed rates up to 5.35%. - Stock Titan
-
-- **URL:** https://news.google.com/rss/articles/CBMioAFBVV95cUxNY2d3emtJQll0SGdiYzVnWXhiRl90UzA1cExjQW5JQXh2OVg1NXhoekY0ck9EaTU1STJwZ1pNem5qZDFMS1F1VjFhYTRBdWctbDBJcXc0MDRqU1c4Tm5jSGpLWDM1b1ROUDIzZGhCMjd6ZWNoeVVSdzcxNkw1YWFwRk5JT0k1QzhIVTU3ZEhiYkVuWlhaRzFPckZVVUFWN2tZ?oc=5
-- **Source:** Stock Titan
-- **Published:** 2026-11-06T21:42:39+00:00
-
-## Apple, Meta reject OKX–ICE tokenized stock plans, leaving crypto firms as the ones to watch - CoinDesk
-
-- **URL:** https://news.google.com/rss/articles/CBMizAFBVV95cUxPbFdQRy1WbjNxQk90c1ZBTlpxY3o5QUhKQXF3TndFY0d5WTVYUkFEczhsdktBenRkXzdudFZ5dTUyNk5nbUlWbklnTnFidmNyRUo1ZVBTTmhoVU5HOUZTQVFKdHVHWUVRcGJuMVZleWJtZkdndlZ5VmdDTEw3b0oySDNJVlh3ZlBXdHN2dXNyNDI3QW1UNnpHZWFOZTdnSFpMMV9QeWlBcnFPQ3NZaU1SMWtYMEpZWXBwOExmWUtvaWtmVzRQSWN5Wl9BYnY?oc=5
-- **Source:** CoinDesk
-- **Published:** 2026-11-06T20:09:18+00:00
-
-## Apple Series 4 Amazon - Apple Store sales in neutral ahead of new Apple Inc. AAPL product releases - www.auroradesio.it
-
-- **URL:** https://news.google.com/rss/articles/CBMiUkFVX3lxTE1aNGVZQUJPNnJzQXAzV1JaNUFCM2dLamc4cEZ5eTE1c0dDUEo0Tk1lSUVCZkFFQkJOVFJacDh0bUNjLVZjdFUyS0EycC1JSHNvQ3c?oc=5
-- **Source:** www.auroradesio.it
-- **Published:** 2026-11-06T17:27:02+00:00
-
-## Invesco NASDAQ 100 ETF (QQQM) Sees Major Net Buying on Tuesday with Top Buys in NVIDIA, Apple, and Microsoft - SSBCrack
-
-- **URL:** https://news.google.com/rss/articles/CBMiywFBVV95cUxPd202eTdpNjFRQlZSUDVhQjBHa0RTbzVCUVV6TWZBNm1RdV9BTEtaTW9Pa2tseXZ4Zl91QWVEdXRPSVkxRElMakJBTExrZnE4OC1Gd3E2ZmhSeUlsbmtLVElPTVIxLWNndmE0cnQyd0w4My1LbVBfYmVDMDN2N0NuMVhPR1JpUkdaQlU0OEcxRlI5YmVjNG1KdXl6VjdpUThPdXU3aFpvaks1SFFfSk5DSWs5anlWUkVvclY2Sko1cDNhcUZDQ3d6cHdJYw?oc=5
-- **Source:** SSBCrack
-- **Published:** 2026-11-06T15:21:15+00:00
-
-## AAPL: Apple defined, key history, primary product lineup - 9to5Mac
-
-- **URL:** https://news.google.com/rss/articles/CBMiR0FVX3lxTE5YT25nRDV2WDBrbkJNcGEtUTVaMXUwRUZiQjFPWURPanYxM0RaRE9yblZHZFJMbmpWT2FmaXhCanlyWFNwM2ZF?oc=5
-- **Source:** 9to5Mac
-- **Published:** 2026-11-06T14:12:06+00:00
-
-## Microsoft, the Safer Tech Bet Amid Looming Apple, Meta, Musk Probes - NAI500
-
-- **URL:** https://news.google.com/rss/articles/CBMingFBVV95cUxPT0x3djBaY293VWZiRER2XzRuX0xPY1FjcG1YcHNWRmRXU1Bsb2x3NXNTdDFDelB5M0VEeUR6ZlBRNFBTc1VzNUpfVGZzaG5EMmVnTWNBV2htY0lQejF0MEhjLXIyeVN1a3hwdXpHQTJnazJpYWZqVGhESWppUUQ3MkhKeUxBeENkQW81c0pHUGNqR3V3UDJMZGk5c3c5UQ?oc=5
-- **Source:** NAI500
-- **Published:** 2026-11-06T13:18:01+00:00
-
-## Apple faces scrutiny over 100,000 restricted iPhone phrases - TradingView
-
-- **URL:** https://news.google.com/rss/articles/CBMiuwFBVV95cUxNemU3QWplQkRHZ0pRMHZrczk4bkZpSVhmZHZRYllQYjhGakE0dEMtYlNpMDVZUG12OFJfeGhBd2h3VjdvYW54VWlJMDUzWTd4Q2ZkU2N3T2lYYkFNZ2JTSE9wYS0xWndFWk1kMjJNbGxlYjBWMkk3MmUxalNieGhKRmZzekxRcnJNQjNZZXotV29rM041b1lENE4tTU5WeE1DYTNUSTlaRnk3YzhhWFczazkyUllEVlpiOXNB?oc=5
-- **Source:** TradingView
-- **Published:** 2026-11-06T13:07:08+00:00
-
-## Investors Heavily Search Apple Inc. (AAPL): Here is What You Need to Know - Yahoo Finance
-
-- **URL:** https://news.google.com/rss/articles/CBMioAFBVV95cUxPRDZiUGo4aWMyRjJ6UkdIbVZRNmt0SXFEcGlsaHNrS0pibV9KREF5X2NBOF9LVnd6RDh1OUR4SUhUV2lVVVRpRW5SeVBtUXNhQ1ZWWFU2cHFlRWlfaXpCV3ZPWVZFbjdYTkhHdGFwbWVqY2dLTW1ad056bVprVTl2ZTFwNkxLR2RQMmNzTU52aUJaME9oRFluNl9vMVdOTml0?oc=5
-- **Source:** Yahoo Finance
-- **Published:** 2026-11-06T13:00:02+00:00
-
-## Democrats prepare corporate probe wave targeting Apple, Meta, Musk cos.: report (AAPL:NASDAQ) - Seeking Alpha
-
-- **URL:** https://news.google.com/rss/articles/CBMiswFBVV95cUxPd0ZVTEtKOVdYNkNoaklzcVFaSEt3cmpKV2pBWkVrYWhhbHBrbDU3YVN5cUFwMGxVRzNGVmtrQnNXZWF4TFU4RGVJejFGUDU2T3NBRVNoNGtQaWRZOGc5WWM0UXI2Q040anN0cFl4S3JfZWMtWHBYYWF2SUN0bjVza1JfMWJDajkyTjBHZ0h5V3ZSRl9jckxIakgyQzVUVzI2aWR6MV94MTM5c3liRTF2YWdNWQ?oc=5
-- **Source:** Seeking Alpha
-- **Published:** 2026-11-06T11:08:58+00:00
-
-## What ProShares Ultra S&P500 2x Shares (SSO) Sold: Apple Leads on Nov. 4 - Yahoo Finance Australia
-
-- **URL:** https://news.google.com/rss/articles/CBMihgFBVV95cUxOZHl3NXgycXB2eFhDNjNsV281NWR0cmlfV2lGbDV6QVhBaWlOUVpTOGQtSVV0NVhEZmxvTTRyUV8xM1pVcVRYQTVHN183ZFdwRG1pV05JRXctaW9sY0c5VWd1STl6U3dkZkhsLVJQNC1hUlJnajVNZ1k5akZYejN3Q29HQmpCQQ?oc=5
-- **Source:** Yahoo Finance Australia
-- **Published:** 2026-11-06T11:04:43+00:00
-
-## Apple Inc. $AAPL Stock Sold by Net Worth Advisory Group - MarketBeat
-
-- **URL:** https://news.google.com/rss/articles/CBMitAFBVV95cUxQVldLbHlsWVlGbUFmQzNRSGJDdkx6V3FMWFppTGpBYThxSmNCWlVrS3JudFFaOHhfVnJQSHp1WERsY3dQUGlXMm1EcWM3bmxXRHBma2t0ck45SjFvQVZSN0YwdUhlYy1kY01Xc3pETUI5TExGR250UmtVS2tlT0JJcWhrTnRpUFk3RVJRYUFpM01qUHhXS1ZKWllBWXBtNDVuOTlfU0xTbV9nMGFHMDhnYmFVaVA?oc=5
-- **Source:** MarketBeat
-- **Published:** 2026-11-06T09:36:28+00:00
