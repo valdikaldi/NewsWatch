@@ -73,7 +73,7 @@ jobs: # what this workflow does !
         id: commit
         run: |
           git config user.name "github-actions[bot]"
-          git config user.email "56283052+valdikaldi@users.noreply.github.com"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add data/
           if git diff --staged --quiet; then
             echo "changed=false" >> "$GITHUB_OUTPUT"
