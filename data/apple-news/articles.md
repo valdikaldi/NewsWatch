@@ -1,8 +1,44 @@
 # NewsWatch — Apple News
 
-_Last updated: 2026-11-10T12:12:47.865035+00:00 · 50 articles_
+_Last updated: 2026-11-10T20:43:01.574351+00:00 · 50 articles_
 
 ---
+
+## Apple to provide 18,000 computers to Louisiana groups, local governments - KTBS 3
+
+- **URL:** https://news.google.com/rss/articles/CBMi7gFBVV95cUxOUWdmcTU1SHpaTmxOLUxPczgwaF95aVdIV2VWRmIyUG9yOWZLcGRLQzBhTTRRd0JkaEYzYTdPemRDVm8zRXB3STdMeTk4SjRoVkc5MUhodXdMdHFWQWtKNkI0MzBqYjYydUcwTTZxZ2VGd25jSmE3UGtNMkkwcmJ0bEZkWElyUWZtQ1NESjJxOEhIZElzdjhWS052RzVLeFZvX01jNjJsbDZtUXBwZUxwWGNyX2lDOVNCUnpkWHI1RS1yV3VockpuWV9rdlcwMW1sZjQ3TDNJT25mTndYSTV2Qnk2S2RjTXVXa25MdkJB?oc=5
+- **Source:** KTBS 3
+- **Published:** 2026-11-10T17:33:20+00:00
+
+## Apple holds capex steady as peers accelerate AI infrastructure buildout - Seeking Alpha
+
+- **URL:** https://news.google.com/rss/articles/CBMirgFBVV95cUxNTG1mMjNTdjY5UTQxcldlTUt6U2ZKQ0gyMlNUSWh4ejI5cGg5UlJ0UF90YjAwTmRFc1BWMFYxakdvU2x0V2pqaHo0dERSTGVGdk1ldmxTcy1SaVFyTUh3MHdwVnNOS3U2M2R3dzcyekxCcUNkUzBqN3VtTnhBOUhjeFdyN2EtU2VURkdneUxBNkpyd1Q1UVdSMElhYmM1SWF3UGRxa0p6SG9wWlF4R0E?oc=5
+- **Source:** Seeking Alpha
+- **Published:** 2026-11-10T17:18:00+00:00
+
+## Apple Inc: Apple TV Introduces New Sign Langu - Moomoo
+
+- **URL:** https://news.google.com/rss/articles/CBMitgFBVV95cUxPYzM2NVFScGYxcUhxVVIyaFpvdFQzN3V2VVdJWUZRdWVPOW9heG9XRnVCa2xXdHZ4aW1TQTRfX0FnZ3R2WVBOMzhMQ2QtQjNITFpTNXNjM0hvSU1oNVlEdHFOSFk5Q3IwWFJhY1RXXzh0dUJsY2h3WEtCaW5LOE53b2x3ZnFvUWkwUm13Z3R0VDhvMFN5a2I5RHh6VzJ1RGZQX1FyMVJvZVhMLVRJRzdldGZPcDJqQQ?oc=5
+- **Source:** Moomoo
+- **Published:** 2026-11-10T16:20:35+00:00
+
+## Apple Inc. (AAPL) Rallied 15% as Investors Reassessed Its Growth: What’s Next for the Stock? - Yahoo Finance
+
+- **URL:** https://news.google.com/rss/articles/CBMilAFBVV95cUxQOTluMHhsdUl2LXpHekdlOUZIWmFHQ0t5M3c1LTJaNm9uUU9ENHJlQ25BNzN6SFJaaXd5NVE0SlJtMEl2UHBhNnllV0JXVS1GRGhJWUdEMjBxT1RhRDBwTmo1R2hnNTZpOVpPb3Z4YVl0My0tQTc0NTZMZzZKTnpGOHlNYXUtd252c3NSOE9vMFhybUc4?oc=5
+- **Source:** Yahoo Finance
+- **Published:** 2026-11-10T15:56:10+00:00
+
+## October CPI Rises 0.4% Amid Energy Price Gains; Apple Inc (AAPL) Valuation Under Spotlight - GuruFocus
+
+- **URL:** https://news.google.com/rss/articles/CBMiwgFBVV95cUxOaWNvTkVFYW5UcW5Fb1JSaDk3ZTlja2oyeVotbWowZFVvd2ZvNzE0NWMyNFEzYzh4WkxyeGVUVlJkclFQVE9ydVIxbjNnelZYOXdaQ2p1YVQ4bGxjNDMxTWdUS09pSkwtQS01cHNxVzFMVWdTZmFIQTRsbXVlWnl4aUlNZjFzeFBoZm9sRGcwVEZ1R2J3TlpTS3ZPczZQZFNpbXo0bGMzWWE1OFdSVUdCWm9BbG9tbGw5QXBlVXpOc00xQQ?oc=5
+- **Source:** GuruFocus
+- **Published:** 2026-11-10T15:02:39+00:00
+
+## Apple Watch 4 Black Stainless - Apple Inc redesigns its stores for 15th anniversary by removing Genius Bars adding trees - auroradesio.it
+
+- **URL:** https://news.google.com/rss/articles/CBMiUkFVX3lxTE5zOUN6LVUyOWN3RzA4YXVRbnVUUGd0UTlHWkJpSFBFdTNuU1lvb25CWjZCLUhtNUpHdmxCNUV1cDJVbzVpcmZrbzgtZXJsWW1hTnc?oc=5
+- **Source:** auroradesio.it
+- **Published:** 2026-11-10T14:03:23+00:00
 
 ## Proshares Trust (TQQQ) Sells Apple and Nvidia on Friday - Yahoo Finance UK
 
@@ -267,39 +303,3 @@ _Last updated: 2026-11-10T12:12:47.865035+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcVIzOW0ybk9WV2I0Rmlfend1TE5lSHZhcnR0M0Znb1RCSlBDMXctenBWWlVUc0dWLVhRVWpHS0VTdDNEMlAwRS1KTVRrSWMzZHltREQwdnFwQzhPSVQ1S0lTQk1ycEo0c2p5QlMzNW93aWtsMTd3YnIzd29OZ3kyNVBzYmkzcXo1WmI4ZElILVBNcThBVnNEQ2ExRGRlVVhaeURUbTlVcXJGa1psNk1QU2Fha1dLRWd5SEU3aFdoTFVfUQ?oc=5
 - **Source:** MarketBeat
 - **Published:** 2026-11-09T09:40:05+00:00
-
-## Apple Inc. $AAPL Stock: Axxcess Wealth Management LLC Lowers Stake - MarketBeat
-
-- **URL:** https://news.google.com/rss/articles/CBMiwgFBVV95cUxNd3RGbldKTVQ0YXRVbFpWQ1ZlVTRsLVdKa0pUc3ZMODZXb285Q2pOamxfaFd3WFUtVlp4dHpXZ0MyVnozTDgzTEtMZVJORlJDUU5qSHFUSkdVTTE0UVI0Vm53aDFPY2RKYzFMV01qT2FDZU5IUGo2Z3VOendzdWtqTWpFcThlYk5pWDV6QzN5bHNPMl9zSTlaZWdDQWNuSU1DSXo0bHZ4Wk15cEl4Qi1HbEJQeWxxRE8wOThpNEFyR2ZNUQ?oc=5
-- **Source:** MarketBeat
-- **Published:** 2026-11-09T08:39:49+00:00
-
-## Apple Inc. $AAPL Shares Sold by Crossmark Global Holdings Inc. - MarketBeat
-
-- **URL:** https://news.google.com/rss/articles/CBMivAFBVV95cUxON1J6V2Z2MnNvNG9VYldkVHJlWGpOcVpwdm5BZlZRLTVBZDM1VDh0cDZCcGtsSXFRWU5aaEFqVTdtaG4xbkJKdWpKU2lIMXhRQklPcFg2dTNpR1BISGpiZWwwMmVGYVYySzZhajBQMHA1Undpb3RWaXhaa0NIX0ExQkRUemRWaUNJNzRxSEU2NXh3VDBueDNxZk5QaE5QWTg3eTROdUY0NmllUGhNY0JlUzR4bDRZVV8ya3JRSQ?oc=5
-- **Source:** MarketBeat
-- **Published:** 2026-11-09T08:39:48+00:00
-
-## 18,456 Apple Inc. $AAPL Shares Sold by Bender Robert & Associates - MarketBeat
-
-- **URL:** https://news.google.com/rss/articles/CBMivgFBVV95cUxOZ0JXWGJ3Vlk2Z25kdjJqLWZ0WEZubHBKR2dKaHJCelUzdTlHTjByeV8zd19xNVlMTUpuOEtGSUs1dWtBZnIxQW51T1o2MHRhRG03RFA0Q0wyQ1VrVEIyaHRpVy1Na24wamZEZlpoRE1GWXNTdFFVZlpBNXlWcmhRR1F4SlRsczRTN0U4ci1QR2dRc0x3a3MwZmdCSXBYSTVsTENRa3Q1UU9sR2I3Y2h2VTc3YS1ZT09KUzIxWjFR?oc=5
-- **Source:** MarketBeat
-- **Published:** 2026-11-09T08:39:48+00:00
-
-## Apple Inc. $AAPL Stake Lifted by Catalyst Investment Management LLC - MarketBeat
-
-- **URL:** https://news.google.com/rss/articles/CBMixAFBVV95cUxNQnlIb3N2c01ieDZCdmZYY2E3RHJRTDF1LS1mWTVHMkxXWGk1VWU5VjRNMFdUVDFEU0hhaGVTZm1DeEZ3aklQRDB3a1RiTUhDTERhMVR0aGlvV0VhX1hJbXRIbkhGQkpSN2ZSQ0M4YnBZZzA2dlRSLUwycndZZF9QZTQtZkRMeW9KNmtfaHRvYV9MWGpUUnRPc2NJRlBLQlp0T0VwOEJicC16NUttbmg0Vm1FZWJDLUdPMW9jYzQ5Z29RelQw?oc=5
-- **Source:** MarketBeat
-- **Published:** 2026-11-09T08:39:48+00:00
-
-## Apple Inc. $AAPL Shares Acquired by Albion Financial Group UT - MarketBeat
-
-- **URL:** https://news.google.com/rss/articles/CBMivAFBVV95cUxPU1RydDJNdjc1bHdmNzM2T3dLZXlDaTRhZjdad1pROGpOc2JNekZiNU1iQzVVbkFOSU5OeTRPTklydVlmY19YTWcxZ3k4ckhRVGsxbEM4eHN0dFBUMEdKbEV5TTlOeEN1TXJSS3k1Y0hzTjBGS1N2cXNBRF9MRWxaSE5OMWhBX2t2WmdXTnNhZ092TVlCRzd0V2drc0VfV004SGVaNzlYVzVhZlhqR0t1VGR1ZlNpbGtCRUI0Zw?oc=5
-- **Source:** MarketBeat
-- **Published:** 2026-11-09T08:25:47+00:00
-
-## 5,248 Apple Inc. $AAPL Shares Sold by AMG Asset Management Group Inc. - MarketBeat
-
-- **URL:** https://news.google.com/rss/articles/CBMixAFBVV95cUxQbnJnQUhHN0hOVllLSk03dFhIZ0laQ0Q4Z2VqeXlZNFY2enNZbTNnRGhwSzhXTkhKYjdXOWR0OF9sTWlXcmU4eU96TElNdVY1azNIV0NhaTNtV2pacjI1X3o0TVFHaV9WbjIzLXNHOGpKcWRSQTVIWVRueFFKRzZoZWxnX1pyWWlHcV95bWRDMlhUeUd4R2ZqbHV6NWI2RHhpdkt5bjltSTR5QXBkV0ZyNkdPb0lreG9hckxPLWVEYWVrVWJn?oc=5
-- **Source:** MarketBeat
-- **Published:** 2026-11-09T08:25:46+00:00

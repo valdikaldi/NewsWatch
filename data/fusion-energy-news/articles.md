@@ -1,8 +1,68 @@
 # NewsWatch — fusion energy News
 
-_Last updated: 2026-11-10T12:12:49.250995+00:00 · 50 articles_
+_Last updated: 2026-11-10T20:43:05.112840+00:00 · 50 articles_
 
 ---
+
+## Shuji Nakamura's Blue Laser Fusion files to register shares for resale after going public through a shell merger - MLQ.ai
+
+- **URL:** https://news.google.com/rss/articles/CBMizAFBVV95cUxNdVJvWndfb3lJRnNTc3pFN1Jta2dCSFdId1ZmTVg2dm04aUJGRmRsSHZ5TVUtMThQZ2dfZEtnck4zMjZBX2FUR0pHWW9uRFQ3bTZDWjVfRll5aDVMUS1QMzZlaXdMWE9pZTR5OXhfSmhhWWxmTXBXRDlqT054ZWw3X3dzRHZkTUl1NjRYQWpCa0E3anVLMXIxWjhVV05TQTJXUFo2Uy1KaHlsZHhCa0NVX25fcnc3UVZwaU1rbUJkWmJRMC1ka0twVG9GZWs?oc=5
+- **Source:** MLQ.ai
+- **Published:** 2026-11-10T18:47:25+00:00
+
+## Kyoto Fusioneering and Amentum sign MOU to jointly advance commercial fusion energy in the UK, Japan, and US - Energies Media
+
+- **URL:** https://news.google.com/rss/articles/CBMidkFVX3lxTE5FRVVsUXViR1ZtU1QyZ1VSc0M2Z0RKTlo3UGRzOFRkZFZzd2I4bEFzNUtfdUNWREVScktVZnppcnpjWEhybXdxRGxMUVRQbEl4RWFpSmRVTjRnYTRaTV9zOVlfakI5Z3FSLTF3REtHTDZBejZzdUE?oc=5
+- **Source:** Energies Media
+- **Published:** 2026-11-10T18:10:46+00:00
+
+## Is the U.S. Finally Fighting Back on Fusion? - RealClearEnergy
+
+- **URL:** https://news.google.com/rss/articles/CBMiqgFBVV95cUxPS1lWTl9ObDRFZThSc3J5OFBZU3JNUnk3Y2ZkM3dlbUtDLUVaaEpTVThRM1FlVUZhRWlQaHBPQ2pJSFNOa1VpSmxkY29JZnFTVUJ3TVFYWVROcW1QWTJ6Z1lVU19odUQxcnpIMWhZMTI2YWJzZlJjbUUwM1NRWnZrOVdZbkVvVThCM2lydERwd28zV3lsM1NoOFVJRGFJcGRnTllpd2ZiWlh6UQ?oc=5
+- **Source:** RealClearEnergy
+- **Published:** 2026-11-10T15:43:19+00:00
+
+## PPPL's Major Fusion Experiment Nears Completion - Mirage News
+
+- **URL:** https://news.google.com/rss/articles/CBMiigFBVV95cUxPS0VyME82cHpPU1gtSkNBZWlYMEtZQk5TSVE1STBNdUthSnNUY3NrYXFCWlJhOVd3TE5Tby1OZ2k4Q1cxN0NWX2gtUGlMckEyaUpyaUtZU1E5eGFXNG90TXpxNGtoOVFhczYwdHNXclpoNGNIZTYxSHJsaC1QXzFQOTFpU3VydVJtMFE?oc=5
+- **Source:** Mirage News
+- **Published:** 2026-11-10T15:20:00+00:00
+
+## Fusion Energy Reactors and Rare Earths: How REEs Support the Shift from Physics Experiment to Power Plant - Rare Earth Exchanges
+
+- **URL:** https://news.google.com/rss/articles/CBMiZEFVX3lxTE5BbWJMR0ltZElhZVRjN3E0OFdOckhUZWVYd2hrTFBJODZLMmJhbGpqZnpicHNqVzhpdFRqNWZVWTJWX3hFVnAwMWNrdXdveEpHVi1fZDRNUnNPbV9lZl9vSzNGSXQ?oc=5
+- **Source:** Rare Earth Exchanges
+- **Published:** 2026-11-10T15:03:46+00:00
+
+## Lord Ravensdale opens new building at West Burton fusion power plant site - West Bridgford Wire
+
+- **URL:** https://news.google.com/rss/articles/CBMipwFBVV95cUxOVTg1LTllN1lLWE8xdGJtSlo1YlRpcU85VkVRdEVYWGJkRWpDZ2pQRC12SmpMQ3g1TEJsN2wwei1XUHN0LXpJNkp3UzVRYWdvbjFCNG5CRGoxYmtwYkZFZnBkaFdfenFzZUN2M3F2VndlWjJTUXhsQUpYbGgzZTVUeUZFZkwtREFWWTg2M0VkQmxhMjI1Mk5weFZfcXJodmozb0V1dXV1aw?oc=5
+- **Source:** West Bridgford Wire
+- **Published:** 2026-11-10T14:05:40+00:00
+
+## Multi-MA Fusion Accelerator Performance Insensitivity to Electrode Contamination - APS Journals
+
+- **URL:** https://news.google.com/rss/articles/CBMibkFVX3lxTE5TZ2xKV2xFaDBaY2tzazB5MEwxSjZRQTN1bFR1Uk00aWVIb1M0alVlZTJnWVp1eEZtaXdCcUxQeWl6cldxYjh6TEMyeTVDcUJ5RnJzNnVzWWxBMzQ5aG00azVtc1hZVjROTlpESGJ3?oc=5
+- **Source:** APS Journals
+- **Published:** 2026-11-10T13:47:10+00:00
+
+## Trump Media & Technology: 3 Key Takeaways for Long-Term Investors - The Globe and Mail
+
+- **URL:** https://news.google.com/rss/articles/CBMi4gFBVV95cUxNX2g1bUtYTGFzUk81UHd2MTBwN3BUeGJ4Vkw1YWV3SFhCaWNyQVRGTTVxNUg2akN1MU14TjVFMHRmdGs4OXhPdzY2ZjRWc0xsejlRY0lfMnJhbkp0algyMTRCUHRJLTNlbHhBbFFuSkVjbzU3Ml84YjJDWXJEeGJRaC0tTndQV05FQmtVRXR2S3ZsOTNvUmRhNHg4Um5Pa2FoOW5ya0Npd2lhazQxWDU2QThGUVM1RHhUVDlTTDJTQlVqYlRSaVgwVFRQOEJLeG5DWVpWN1ByeUhJX0tRRWgybURB?oc=5
+- **Source:** The Globe and Mail
+- **Published:** 2026-11-10T13:34:30+00:00
+
+## General Fusion Expands Executive Leadership with Appointment of David Janashvili as Chief Financial Officer - The Manila Times
+
+- **URL:** https://news.google.com/rss/articles/CBMikwJBVV95cUxNQVRDMDB3aVN2Z2U5aEZUUHVtMjZoVU1kdkY2MUhDS3pGZ3BTLWNYYjNzeFJVUGdfYTZMTktsVTJYQXNKSF9VbmFEWGQzcThpVGhDcEVjVm9WYlFkNWRLVXg5WFF6RFFqVnQ3c0VXREdGN2pfLUVPazJUZ0xBcUo3dlZTRWlHbmxjRk4zZEVzb2w3NkF5UHd0dFNGZlZkaHJ3WVA3ajZVd1laSFhyUnB1cW9mTVhrOTd6elJZSjZPT3F3Nkg2WDJTeUY3eGVmZThGRHF2d0dOX0l6ZDE5emJ1NlRJVHVwXzVKN1VlanJ0NGN5RUdwSkpFM3d2OUNDWXJsbmpWTjJ4Q3B6TzFJb0RoOHpmTdIBkwJBVV95cUxNQVRDMDB3aVN2Z2U5aEZUUHVtMjZoVU1kdkY2MUhDS3pGZ3BTLWNYYjNzeFJVUGdfYTZMTktsVTJYQXNKSF9VbmFEWGQzcThpVGhDcEVjVm9WYlFkNWRLVXg5WFF6RFFqVnQ3c0VXREdGN2pfLUVPazJUZ0xBcUo3dlZTRWlHbmxjRk4zZEVzb2w3NkF5UHd0dFNGZlZkaHJ3WVA3ajZVd1laSFhyUnB1cW9mTVhrOTd6elJZSjZPT3F3Nkg2WDJTeUY3eGVmZThGRHF2d0dOX0l6ZDE5emJ1NlRJVHVwXzVKN1VlanJ0NGN5RUdwSkpFM3d2OUNDWXJsbmpWTjJ4Q3B6TzFJb0RoOHpmTQ?oc=5
+- **Source:** The Manila Times
+- **Published:** 2026-11-10T13:19:03+00:00
+
+## General Fusion appoints David Janashvili as CFO By Investing.com - Investing.com Canada
+
+- **URL:** https://news.google.com/rss/articles/CBMirAFBVV95cUxNNjF3aW5JVlhraGQtU19sWlEtUEQ2MGdMdWpWbl96YzFmZ0h5ZTdvaW1OTWxUdWY0bFhJRGlCOVpQeVJfNldPM3h0REdQRTFVN3JwYXZ0Ulp3S0tuZXh1ZS11MVpzQ2RCSzM4eGZ2NE5vODRveThHODdBWk85VzlvbG9RWDI3Wllsbm84ZFlmYnVQYTZLOWQ5elBYTmxybE4zS1ZvYUVHTFNnTHpJ?oc=5
+- **Source:** Investing.com Canada
+- **Published:** 2026-11-10T13:15:13+00:00
 
 ## Wedbush Expands Equity Research Coverage into Advanced Nuclear Energy, Led by Director of Equity Research Seth Basham - The Manila Times
 
@@ -243,63 +303,3 @@ _Last updated: 2026-11-10T12:12:49.250995+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMinAJBVV95cUxQYUFGS0dBVjYwVFBfSENjLUJ5aXJPSFV1LUhBRTFGTXpvS2Q5ZlZNQThzVWg2b0UxNjNoRG8zay1Xdk10ekNaUG45ZWltZFpQdENNUlpLelBYZUpXMnc4bkpKZ0ZkUjZncTZ6dlJxZUtGZDlEOFRoYWhTbklxTzZJT0twaXhFYnY2SnVaLXZoRE5Jc0IybTJmX1hYYWQwRGd3bVd5UGFrT1VzRm1XdVl5TTI4Xzg1RG5wZy1KeUZ2eU55N2IzVm90TEtKVHlfck5kN3RtY0RhdUI4LV9BelZ1ZTlHZzNzSWVfX1FoM25fWVJaZXBFVkVJU2ZjdW04SC0yZ2FseW1mNHVMN25OUklsRnB5djhjUGZ0dXJVZQ?oc=5
 - **Source:** GlobeNewswire
 - **Published:** 2026-11-09T05:00:00+00:00
-
-## Trump Media & Technology Group | Truth Social, DJT, History, & TAE - Britannica
-
-- **URL:** https://news.google.com/rss/articles/CBMic0FVX3lxTE5lT2dhSXRTdXhSaGh2djRnVUFnTUdVRlZzRzdxdXdjTElyMF9ZeWJUUG1kbWJIYUlpWkhJVTdoREJsWU9TaEdibjNIdE4wdjFwQTk4bmZaU2lNRm4tM1Z1M0trcFdhZ2kyM1ZDYWZwQmphRDg?oc=5
-- **Source:** Britannica
-- **Published:** 2026-11-09T03:43:50+00:00
-
-## HKU Researchers Develop World's First Megawatt Ultra-Wide-Bandgap Semiconductor Module - Mirage News
-
-- **URL:** https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdFRVdXR0R1RqN1Ewd0pJY2RlLWYtVy10N0ZxT1k5cEJDQU9ZelYyYXo4SWsxTlRlanRtanRLTTRxQldHUENUbEd1REl3SmljUFlVR0pNanJjbWdKQk4wQjZQeC1TRmVlaGtJaUlHRDZPWDcwNjFSNGNmbTJGMXdxdHhSTDhLS3BG?oc=5
-- **Source:** Mirage News
-- **Published:** 2026-11-09T03:10:00+00:00
-
-## Air Jordan 6 Psg Stockx - Air India unveils new brand identity aircraft livery Company Business News - auroradesio.it
-
-- **URL:** https://news.google.com/rss/articles/CBMiUkFVX3lxTE04RnlBcG5EVHhUSnNjMUp4VmF2Skt0cUlzazBTUG1yYlQ2eXJDeWdJUHBOWEZBNVgwdHdERzFud0RKZjFFYWpRUzVYTkszRFh5Z1E?oc=5
-- **Source:** auroradesio.it
-- **Published:** 2026-11-08T23:18:13+00:00
-
-## Air Jordan 6 Retro Db Doernbecher - Air India unveils new brand identity aircraft livery Company Business News - www.auroradesio.it
-
-- **URL:** https://news.google.com/rss/articles/CBMiUkFVX3lxTE9pVi0xNU5uVTI5OWE5d2NDdkk1TE8wb2FvQldFRlZtLU1XZHBfcm5NbEFnS2NtQXo0N3J0d2NOTi01TUY3aEVhR29zVEVUZm5maUE?oc=5
-- **Source:** www.auroradesio.it
-- **Published:** 2026-11-08T21:56:54+00:00
-
-## Air Jordan 4 Retro Womens - Air India unveils new brand identity aircraft livery Company Business News - www.auroradesio.it
-
-- **URL:** https://news.google.com/rss/articles/CBMiUkFVX3lxTFBpQzllZmdUMm1tZGE1WmNpMzNnb2pzd0IwcmJWWXZ3VnZzRG9BZE9hTEJsX2duajhxZTdRd05uRDhTVTNpc00wdi1WR0RGdmdsM0E?oc=5
-- **Source:** www.auroradesio.it
-- **Published:** 2026-11-08T21:23:27+00:00
-
-## AI Frameworks Optimize Battery Life and EV Safety - Bioengineer.org
-
-- **URL:** https://news.google.com/rss/articles/CBMif0FVX3lxTFBCMUpmNTc4S1RMV3dmUjc5TnU5QXpzWUZybmVXMUVjVUhRVVRWVzhzTGdkYV9SSi1SN1BVRUVmMFFDMktReGpyUm1rMlREdnB3Ni1iZ1RfYzkxMG9WVWRxLW1kRzNWSWpFa3hyQnRDX09uNHBlNlBNMGhOaDFtWTA?oc=5
-- **Source:** Bioengineer.org
-- **Published:** 2026-11-08T20:19:53+00:00
-
-## Abang Jo on how clean energy will draw tech investments - The Edge Malaysia
-
-- **URL:** https://news.google.com/rss/articles/CBMiUEFVX3lxTFBBVGNGQWFLRm85SlZId2hucEZ4U1BJUU9RMTFYaDBHSTZCTDNaN3cwUlEtYXdXOUtvRFM0dUZiQlJKTTUtaHBHS3REa2paYkVn?oc=5
-- **Source:** The Edge Malaysia
-- **Published:** 2026-11-08T18:28:19+00:00
-
-## Air Jordan 12 Playoff For Sale - Air India unveils new brand identity aircraft livery Company Business News - auroradesio.it
-
-- **URL:** https://news.google.com/rss/articles/CBMiUkFVX3lxTFAtV243NGUwWTBiLXJteVkwZy15QWcwWXhXdndlTDlkLWJxa1R6ZDNRTDVRM25nWHY3Q2NwQ2tPbjdaVHlRRGFTcXJEV2hzR1Y4U2c?oc=5
-- **Source:** auroradesio.it
-- **Published:** 2026-11-08T12:25:20+00:00
-
-## Scientists Finally Captured An Image Of The Reaction That Destroys Nuclear Fuel - BGR
-
-- **URL:** https://news.google.com/rss/articles/CBMihgFBVV95cUxPdmZRTTZVMkN2Xzg3ZlRPLWprcElDVGtTcGpyaTdMTGtLVGdjUUMxbUtsX2NRb0Rqa1pBTldwZ0JSRUxTVUc1WWtzbGRMVFEydWNvYTkxZFczOXZOR20zYW11RDZOQk5lZzJhMFUzc0RDc2pUaDVWR1BkcmxDWTI1ZEVBaGc4dw?oc=5
-- **Source:** BGR
-- **Published:** 2026-11-08T12:17:00+00:00
-
-## This Week in Pokémon GO (November 9–15): GO Wild Area Global, Into the Wild and Minior Showers - Pokémon GO Hub
-
-- **URL:** https://news.google.com/rss/articles/CBMixgFBVV95cUxPMkwzcTlmXzl0ZkQ2dzRhTldOSnlRckJVUktKbnVGX3F3U1NieXVpeU0ydG9JWDNWWVV4aXFDWXpJdlNmV1hMcVY3M2ktb29DZWNZRzhLXzM1SG10a2dfc0llSUVXVDVoa0J2TWpKaWJZZTRuaHpiaUsxYmJ5TFRmeUZERkhvVUc0UElQZGFMSjNXVW9SUENWbnR1NjJjdE5fcm9ZbWdONjJhOExQc052WTRwREJVbWd3TDAySlU5aVdyOHppWHc?oc=5
-- **Source:** Pokémon GO Hub
-- **Published:** 2026-11-08T11:24:56+00:00
