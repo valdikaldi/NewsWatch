@@ -1,8 +1,44 @@
 # NewsWatch — fusion energy News
 
-_Last updated: 2026-11-09T23:17:20.687836+00:00 · 50 articles_
+_Last updated: 2026-11-10T12:12:49.250995+00:00 · 50 articles_
 
 ---
+
+## Wedbush Expands Equity Research Coverage into Advanced Nuclear Energy, Led by Director of Equity Research Seth Basham - The Manila Times
+
+- **URL:** https://news.google.com/rss/articles/CBMimgJBVV95cUxOQ09IZlRvTEpaRVFFM3M5b1Z1XzlfNlgxOUliNFplNHVGS0JCbVh3bG5vY2x2MVhDVEUxQzh0TVBJWDJNbG5pZG1vdGE5T3NOZlViOFl5QjlCM3RwalJ3NlYzbXNGVGpIbTVxc21FQWRrWU1MM0lUa2w0d1FTMWIxSk9NdTRXcVFRekdVY3p6MVhGa3dodnROVHY4bFhQTGdjRm5MY1pzS0M0NTZpdk5tWGFhR1BlMVRsYnRFZGZBQ2NNd3hlXzVteWhkR3E2LUpUcWU0aW4yUEdZTU9oTzV3SkJ1dHIyOVpaeUJkTUs5UXU0VjBCLXl2MGw1cmtLS2tFaVhNQzRQWVplaGdzWmtwdE9aTHJkM1R4cUHSAZ8CQVVfeXFMTXlLWWVfbGUxc3czWHJZZWxMUkp4a290Z3JqOEtqZVhiZ0ZWc0ZyRUQxQmlRTGRIcW5PX1VGLTdhaFdiXzNPZ1RvV0F6RTVBcjRyZTY3cjF4eE52ZlVDUTFDc0xlSXpCRmZ3LXNuQXoxMWl4XzUxM05kSXJ4UDlEOVdJQzhOX3dZa0ZVQlNqeWV1THg5cl9ZRkJtS1dkM05NOUVSUi1HVm1hTXFiVW1GZUZQQXNlLWZCZXU4VXkwWkVVS3A0UDNnNXJDb0ZtWXdTeG1nQ1pMZzN2anZEX0J5by0xRG5LRFVLTERqY25PWFoxeHFKWnh1bk9QdGdHS1IyRzBnV2k0ZEtZa3l1aGxvOVlnenNmQnI3Ylo0cEZuY1U?oc=5
+- **Source:** The Manila Times
+- **Published:** 2026-11-10T10:52:46+00:00
+
+## Google Researchers Use AI And Mathematical Proofs to Cut Quantum Computing Requirements - The Quantum Insider
+
+- **URL:** https://news.google.com/rss/articles/CBMiyAFBVV95cUxPcWNOUm1INHRGYXVRcjM0a3FGT05iZ2szYUhNUGJaZGp2VVNwOEdNT0RoejhvNEM1S1ZnV2tRV3JSdzR6MFcxa05CMWVVckVLR2FXWFdkdE1CTm9xR09yXzBpVzFlRVJkMXBJOWVzb2JabGRQS2YzTnJYSnhkS3pmbkFPeUpDZVdjZG1zcTRDaGhuZTJNdFNKdEFfNXNQNXZHOFowQWtCcnNpQVRjTzhQVTd6RXhHYjlESjdZTUVoVnlyR2FtREhYOA?oc=5
+- **Source:** The Quantum Insider
+- **Published:** 2026-11-10T09:41:12+00:00
+
+## Unlocking the power of plasma physics - Innovation News Network
+
+- **URL:** https://news.google.com/rss/articles/CBMiigFBVV95cUxONFg1dWJBQWthRDVJbkdoMGE2b0JTWDUwNC1ud0p6LXZROWdLY3N6S2lDZ2thNXVTQTZaeVZLaDljLW0yTzlUZk9NYnFSYVVydUI5b09ZaUZtcl9mUmlPc0RDRW1VTmlvZ01iWm45dFdGU3RDekxpVEUxdzl3NlBWZDZVU1hOcDdCekE?oc=5
+- **Source:** Innovation News Network
+- **Published:** 2026-11-10T07:52:21+00:00
+
+## The Fusion Energy Industry Needs More Credibility To Commercialize - Forbes
+
+- **URL:** https://news.google.com/rss/articles/CBMivAFBVV95cUxPT3RmU2xYOUdUUm8xTnhYZTNKVTRIeHMyZDZWRWp5STZOWTRFZy1GVUh2cXJKYnoyRk0zUU1GbzNvQ2dUa2dpYzVUTmlNMV9WNmxmcVRmRXBKenpFZGVsQUpQdXUtLVFtOHpjZ3UwTVgyZnlGZ29BNUx0X040Y185TDY5NEpnUUF2QWFuS2FuSHA0Z3otdkJDY19ONTJrVUhXbUp0VkZKZGlRa3d2WkJnTXRXWTdiRjJFajBtRg?oc=5
+- **Source:** Forbes
+- **Published:** 2026-11-10T05:00:27+00:00
+
+## Fusion Energy's Birthday - Gatestone Institute
+
+- **URL:** https://news.google.com/rss/articles/CBMicEFVX3lxTE0yR09LeTZsV2pOUnpDMUoxMkdkVGdwQlYydk5vSFQzRGFmSHJ5SGtiN19Idy1QcXZBR1NCdHdrTjQ1N0V5bFNxTUYtOHBIMHAyeWZDN2Zsekc2ZFREQnlRQjQ5UmZ4VUNqNHRuRy1oQ0E?oc=5
+- **Source:** Gatestone Institute
+- **Published:** 2026-11-10T03:00:00+00:00
+
+## Fusion Engineering Institute co-hosts Beryllium Safety meeting with General Atomics - UC San Diego Today
+
+- **URL:** https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMEtKZk1UMnF4TWtTanRTQ0J4VkVuVGtuQUZ1SlJ0alVpVGs4VjlHNHY1OW5SeGJNc19IaFczUHlXTGdSOU1yVUw5elNhdEhQZFN0SkVwSTgycmxMcE1scEdTcVk2d0N3WUtkTE9WY3lEM2x0T3VObzZ2N1JqSV9iOVlWdG1GYWFGQ3Z2ZzFwSHpUdUU3aE1LYmh3d1BjdmV1eTZNUTV5QUdwcVhCb1V1dkVSbm9yZHhl?oc=5
+- **Source:** UC San Diego Today
+- **Published:** 2026-11-09T23:17:43+00:00
 
 ## Physicists Gave Up on This Fusion Technique in the 1980s. Now It’s Working - Gizmodo
 
@@ -267,39 +303,3 @@ _Last updated: 2026-11-09T23:17:20.687836+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMixgFBVV95cUxPMkwzcTlmXzl0ZkQ2dzRhTldOSnlRckJVUktKbnVGX3F3U1NieXVpeU0ydG9JWDNWWVV4aXFDWXpJdlNmV1hMcVY3M2ktb29DZWNZRzhLXzM1SG10a2dfc0llSUVXVDVoa0J2TWpKaWJZZTRuaHpiaUsxYmJ5TFRmeUZERkhvVUc0UElQZGFMSjNXVW9SUENWbnR1NjJjdE5fcm9ZbWdONjJhOExQc052WTRwREJVbWd3TDAySlU5aVdyOHppWHc?oc=5
 - **Source:** Pokémon GO Hub
 - **Published:** 2026-11-08T11:24:56+00:00
-
-## Mumbai Mélange: Where Art Meets Fashion and Showbiz - Open Magazine
-
-- **URL:** https://news.google.com/rss/articles/CBMimwFBVV95cUxQRE41WVFSSnBnWjNhSHFjUWtfaEZJRWZNcE1fakxIWl9hNjVpUE5Nd2xnYkY2Q2RMNGNmelZGS1RPZHdhcHhVU1ZDTVZOQXpka1JselJNM1hacW5qdDV5aTlWQWhNSXZ6ZkhKM0RjS0NBQkRZR2pZVExiblRhZThiQjQ2NURMZDlPTFBkOHlpZHdrZkdsLVZJZ0tiYw?oc=5
-- **Source:** Open Magazine
-- **Published:** 2026-11-08T09:40:45+00:00
-
-## Ryu Soojung, DJ Suki Take Stage at Gangnam's Sports-Music Fusion Event - 조선일보
-
-- **URL:** https://news.google.com/rss/articles/CBMijgFBVV95cUxOQkRXNVJQQV9TQzNaOXVleEppMTEtT1NqMHVxM1RETHVKWEwzYkd3eENtMkh6ZG1iNzYyWnFZZ0lqZTR5UjFBXy1SSTVuUWJrZkFOLU9td0tpY1htYktaTHZuS1VQRzltY2hmRmo5UDZ2T1JCZ09Tb3JWSlc0cDgzUy1ubC1sNGtqQzRBSXZR?oc=5
-- **Source:** 조선일보
-- **Published:** 2026-11-08T07:38:32+00:00
-
-## Trump Media’s investors lost $2.2 billion - SABC News
-
-- **URL:** https://news.google.com/rss/articles/CBMif0FVX3lxTE1TUlI5V0Z2WEhLdjBOVGwxNVR1cENIWE1wbmF6UWxlTE1ocUgxOVUzSTBoWkNjbDA1T0tnX1lzdFlwbVlpSHZ5UldqVDlobnd6ZHFCVjRBX0FmTkRvMmhrdVBQQmstajVNeHRpYkVPa3Q3WlhSNDhyaWhZdmZGZUU?oc=5
-- **Source:** SABC News
-- **Published:** 2026-11-08T07:27:36+00:00
-
-## Jodhpur RIFF: How Polish singer Karolina Cicha created folk fusion stage magic - t2ONLINE
-
-- **URL:** https://news.google.com/rss/articles/CBMivAFBVV95cUxOcktaQ0VuWkxEcnNFU0NZM3RvRTFZWGk3aWlXYTdYMVlrMWFJN213VUppenluTTVUcG95N2l3SGl2c2FabGxUUHFtcTFIUHEwSHpERE5CSnEteElja21BVUVpRXg5UjBCOXBCTUg1b2pDR2hCTnVZVkR1R2hJVnVMME5GTUN0bHpsSS1QaEh4Nmw1QU5CdHdCWEZIN0FnVE9OQlRHTjBqQUJoai1hZWJ2Sm9EbXdlQkdoa3JTaA?oc=5
-- **Source:** t2ONLINE
-- **Published:** 2026-11-08T06:00:00+00:00
-
-## Air Jordan 6 Retro Tinker Hatfield - Air India unveils new brand identity aircraft livery Company Business News - auroradesio.it
-
-- **URL:** https://news.google.com/rss/articles/CBMiUkFVX3lxTFBIdV8xOU1zOUtSemNGWnNtWk9YR080OVFZT3IzUWFnaHBPZmowbEwzSFE1ZklvQllLcWp3d3QzcGtYMnZKcXFTNTJuOVBqRFdoQWc?oc=5
-- **Source:** auroradesio.it
-- **Published:** 2026-11-08T04:44:55+00:00
-
-## This week on "Sunday Morning" (Nov. 8) - CBS News
-
-- **URL:** https://news.google.com/rss/articles/CBMid0FVX3lxTE9UQ1piVHdJM0RGYWxSdVQ5aVRpdklOVkUtdGpJckYxdjlzTUJIbFNTcE5RcFQzVW02MU9BQjNMSkJRSFlOQ1NrcnJsVnFYZ0p4aUZCUlBtcGJxanZGQ0tRQmY1WUczRlFNeU50dHFYaElMTVYzRm5z?oc=5
-- **Source:** CBS News
-- **Published:** 2026-11-08T03:06:00+00:00
