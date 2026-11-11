@@ -1,8 +1,50 @@
 # NewsWatch — fusion energy News
 
-_Last updated: 2026-11-11T11:42:44.367274+00:00 · 50 articles_
+_Last updated: 2026-11-11T19:19:10.505154+00:00 · 50 articles_
 
 ---
+
+## In Cadarache, France, a tokamak held plasma steady for 1,337 seconds on a February morning, and that twenty two minute run pushed fusion's endurance record up by 25 percent - Energies Media
+
+- **URL:** https://news.google.com/rss/articles/CBMiekFVX3lxTFBCN1Q0emV2ME0yV2dXTHM1UHFBRS0zN0JYRVdVaW93aWJwZmVacUtoMjlfSVdfcXhXTlVpeHp2ajE4akVWcHpLb2VDMENTUzVyVTdXTEUwckR0MDBPOGdKeVVqSEg0UFYycHBvQzdxX2J1bDJNV0NrNk1R?oc=5
+- **Source:** Energies Media
+- **Published:** 2026-11-11T16:50:00+00:00
+
+## Eni Pledges £11 Bn Investment in UK Energy Sector Through 2030 - Egypt Oil & Gas
+
+- **URL:** https://news.google.com/rss/articles/CBMilwFBVV95cUxPX3ZLY2ZvY2NTbUNqeGh6cjZUcHpBdThyWnNFSW5hWFAtMzBJaTE1Z1hoT1l3R0NSdm8zX05fSGZIWnhXck5uSVV0b3cwSFJZT3QxZTJrbVRJR2VnRnNKNUM4R3EtSlVad0tLWC1jR05IdmYwLUZQR0FIQmhMTDVVOUxuVTh0OUowejhPRkpVZHJXb00wVkpr?oc=5
+- **Source:** Egypt Oil & Gas
+- **Published:** 2026-11-11T15:42:57+00:00
+
+## NRC issues construction permit for Dow/X-energy Long Mott project - American Nuclear Society
+
+- **URL:** https://news.google.com/rss/articles/CBMipAFBVV95cUxOUjczdS1DdVp1QklhRXVpMzNMcHZCdlQ5Q1BPQWFVVkl3NWdDdlRRTXQwbUt6anJRMWxwMXJuT3pmYnVhRm5uc2JRUmV2VmVfSE43WlFSWERfcUtGS1d3NkgxQ1k1ZDdUMXpvSVNDQVc0bk1aamZsbTkxMXFPa3Y5RnN6dkNURmVEWDdGVTBRdHQwU0s5RDVRRDYwOHh2Y2tfQWxDZw?oc=5
+- **Source:** American Nuclear Society
+- **Published:** 2026-11-11T15:00:12+00:00
+
+## SOUTHWEST USA: Brick by Brick, Artisans Build a Business in Tucson - Site Selection Magazine
+
+- **URL:** https://news.google.com/rss/articles/CBMilgFBVV95cUxNYmJYNmVmbjZpblN0emdPVUNhTnk1LVEwcVJJUVpneWNLLTFhX19TOFZicExPMVNDNHd1cHZuX2FqZDRXcDJiMUdVOWtIaUlqSXR1V1VvR2RkNVRqazRFaGRha1VQTVFZN0NWcDgwdkR5clBxeXltWlZvZ3RwYUxjVDJqNGt3eWM4cjZBaXlDdHVmT2pGSlE?oc=5
+- **Source:** Site Selection Magazine
+- **Published:** 2026-11-11T14:47:50+00:00
+
+## Pokémon GO Wild Area 2026 Full Guide: Raids, Mighty Pokémon & GPS Changer - Root-Nation.com
+
+- **URL:** https://news.google.com/rss/articles/CBMixgFBVV95cUxPSWdYckpmN2hMODIzTEVjZjVLb2d0Y0Z1aUkxZVN2Z0VWczdZUTVLbFgtRjF4Q3NYVUkwWS03WGRGUmVWbDFmQkdvaXRTcjVMX1hYNk1UWXJjMVhfa2JDWnloNGV1NlRIWDFlUE1JUHZFN3Y0SkJnVFJOaE9peVlfOFRiOWdJOHVUdmlIRGtldXBoYmRRNFdjVlV1ZGJOOEJXVlZTTEdSX2dKakRvdXg5d1NiRHhvZ0FhbFd5SDNzMGt3Z3k5V2c?oc=5
+- **Source:** Root-Nation.com
+- **Published:** 2026-11-11T14:05:21+00:00
+
+## Mysterious Bright Structure Near Black Hole Explained - Mirage News
+
+- **URL:** https://news.google.com/rss/articles/CBMihgFBVV95cUxPR2hTOUVpYXlXMXUteE5acUdneVpFTkZRblZTdUpJdDVwOFVQRm4tY2ZGQU5VTS1qLUFMTXM4UDU5OU5JQTR6dEVodEt4Wm56aUhCdHVBNGRyWHM4OE5FNjNMWHdWUDBSSk45aS1QZnJGTU1FMzBzZGFQazBDYW15QWlPcG1EZw?oc=5
+- **Source:** Mirage News
+- **Published:** 2026-11-11T13:06:00+00:00
+
+## The Energy Transition | UK advances clean power with reform bill, electricity regulation and fusion research - Osborne Clarke
+
+- **URL:** https://news.google.com/rss/articles/CBMixAFBVV95cUxQeDFTbW15aHViUUk1bTg4Q1Y2MXplbE54WVZTZks0YlBQRkxBZ0cyYVBaU0NGeVVQVjNNNFZ4cDY3MUVXOThvM0RtcUF2eDhldkMtZUZkRjdUSnBnTE5YeEpGNk5jZHJfUTdGbzU4ZzBHcnpHc05kSHVFcTJjYUQ1ZVRxVTBvcU9abllBUnVqeUlURzB0WWdFempGLWhZeEgtTng4eE9vd1hKRDdleHhNZHJCejlVbjNHajV3VW90X3d1ZDdL?oc=5
+- **Source:** Osborne Clarke
+- **Published:** 2026-11-11T12:07:50+00:00
 
 ## My Skeptical Grad Student Take On Unlock Stable Energy: A Reality Check On The Future Of Power [tlhBCIwO97Y] - WRMJ RADIO
 
@@ -261,45 +303,3 @@ _Last updated: 2026-11-11T11:42:44.367274+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMivwJBVV95cUxPblRBSi1IRU40OUZNTHdHUVU5VDFpanFWeU40cEV3SDR2ZjNGcVRsUzJJZ1BDQTRmMVNCLXR5ejVVQ01MaXAwWHpOVnJZQmkyN1JaSmRXZXNRMlhQRkVENVFuYnpBRVFtQnJXRXpZdHVvUmExTXRsd0QyWUM2Tndfb0tHcEd4RVR0eWlDcVNXYWI2LU8yQWJIbEg5LXFfcDVBdEN3WW94b3RqYnRZMzZmLW12elBWY3owTzQyT1hQajdJT3dKZjJaRzJxLUJ5QzltTUNwdG9Dek1DRXY1cW1EeUg4NmZFOTAzaVJ5QXdhb29GS2tUcDN2X3dDNC0yd0xJOElwSEZsYlFGaGpFUXBmQktxX093dFNrUU9kY3JucmZKODd4b3l4cmg4UFdYSThHc1ROTnNqQ2dITW9ZOUtN?oc=5
 - **Source:** GlobeNewswire
 - **Published:** 2026-11-09T13:00:00+00:00
-
-## Constellation Lifts Guidance Midpoint as Quarterly Profit Grows - Securities.io
-
-- **URL:** https://news.google.com/rss/articles/CBMilAFBVV95cUxQNi1CMHpmSDJkZWwwYTJmWGdiS0owcGpwZVNFNFdvRnVJZElpRndGbE96UUdHaHZibENxOE80ajVOa1c1UUE4TE9pcGJDYjk2QkJ4dTh4a1hvckNGY1VhbXRvM0NDUlpGQm94LXYzZTlJWmNfZXBmYzJEMXVVb3J3QXp6Y1ZCblBNdVBDczNTX0g5T283?oc=5
-- **Source:** Securities.io
-- **Published:** 2026-11-09T12:22:03+00:00
-
-## YGN: Keeping the Lights On: Nuclear Power in Wartime Ukraine - Nuclear Industry Association
-
-- **URL:** https://news.google.com/rss/articles/CBMiiAFBVV95cUxQM1I3WThDZjd4YzBoYWxTelBGczRnYTFjX2hsVDVRYWsxSWhtd2NpUkZkX2JhRlpYU1FSMVFnQjBqR3l5MzV2US1Xc3YwaGF5SGpRYU01dFJ4MDJ5cXlXNXRCLTNGSzZkSkRCcVN1WmRvNy1Cb0h5QlpYU0c0bm55S05maW5veGxF?oc=5
-- **Source:** Nuclear Industry Association
-- **Published:** 2026-11-09T11:32:25+00:00
-
-## Rolls-Royce Submarines teams with INFINITY for nuclear prototyping - The Engineer
-
-- **URL:** https://news.google.com/rss/articles/CBMipgFBVV95cUxOUWZZZVBWandldUxHdFJ1a2lDdlFUZ2xzRjNEN2l3dGhQMFl3aDl3RTlqeTNwRkowX0ExWXItV1d0WTRBUzM3NVNtZnY5RFlOQmpLa0JMODJUZ2hSb3FHU2JuMTZZYXJMWmRDcTZvck5BcWQwb2dZT3JtZzBXNzJQMUMyVnJjeFhqOEVqcWEySG5ZdGZUcnl5Nzc3SVBUSUxuX19tdGtB?oc=5
-- **Source:** The Engineer
-- **Published:** 2026-11-09T11:13:09+00:00
-
-## Home stretch | The sun in a twisted doughnut - Eindhoven University of Technology
-
-- **URL:** https://news.google.com/rss/articles/CBMipgFBVV95cUxNMnlSRzZ2RTY0VHhkeHFScUc5bTFfZFlWTXZFMXRCTE00YWtQZFRpdTAySk5FaG1PVkRTT2RNVVl1djV0b0dodkN0RGhSd21JVkZuVTViSkZGMkhEbGhMRFQ1YzBLU25qc3NRX0dUM1FVejBQdkIyQnlnS3otVjdrcmNzVHBxSGVza1Z1NXBlMWRQT3lxUnFteU9WRTVRM0JaT0Jjbm1R?oc=5
-- **Source:** Eindhoven University of Technology
-- **Published:** 2026-11-09T11:11:15+00:00
-
-## UKAEA Doubles MAST Upgrade Fusion Heating Capacity - The Engineer
-
-- **URL:** https://news.google.com/rss/articles/CBMimAFBVV95cUxPNGk3azBmTFhOTTF1aUdQOWIxX05vUElFRVpvSmRVekhQSFpiaFlsS3l0X1JOWjdleEV5bjlFQmthM0FhM3JacEZlY3dUellrUUREUWNYNWg3Yjd5WE56aWhXMm5ldlJ3cnp3dDlPSkd1ZHpqS2hCajJ5RGxoOWJPYzhVZ2t5d3czX011UWI2N3h3RExmM0VJaw?oc=5
-- **Source:** The Engineer
-- **Published:** 2026-11-09T10:43:03+00:00
-
-## Rolls-Royce tech park partnership set to create 17,500 skilled jobs - Marketing Derby
-
-- **URL:** https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMXdSeHh6Mlc5Vnp1bDJCaWI3M0J4UUJuWFdHai1fWXlsYU85M1NHUGZLZ0RHVGNPOVhHcFc4QjNfRmxIak1pTGdmMkdWS0VYaHhhcDEwYk5jcVNwbFlqNXRYbGZ1T0FkYkdkTXFqRlptVHJDUWFmREx4bFZVaE40ZnFCTm8teDE2Mi1acjlSNjF5TFh5SHZveWcyOHJHcW5JRl9ZMW1xbkI?oc=5
-- **Source:** Marketing Derby
-- **Published:** 2026-11-09T09:44:34+00:00
-
-## SK Telecom joins hands with Nvidia to build sovereign AI infrastructure - The Korea News Plus
-
-- **URL:** https://news.google.com/rss/articles/CBMid0FVX3lxTE1ndllyWnlwTDlsUGJ3cjFpUWoybTk0M2Z3VFplSFRSZTdNUW1CN1R4bEdnTWlPQ1hMb0l6WC16enhfRDExamVwbWJZcXRyaTE0RGVFSGZzU2MtcGFfaVZQTVFQY0o0M19xSEZaY1Voa2dyTDBRLUtz?oc=5
-- **Source:** The Korea News Plus
-- **Published:** 2026-11-09T09:24:29+00:00

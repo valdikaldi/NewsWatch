@@ -1,8 +1,128 @@
 # NewsWatch — Iceland News
 
-_Last updated: 2026-11-11T11:42:44.025880+00:00 · 50 articles_
+_Last updated: 2026-11-11T19:19:10.102641+00:00 · 50 articles_
 
 ---
+
+## ▶️ Signals - Photo shoot scene (Drama) - IMDb
+
+- **URL:** https://news.google.com/rss/articles/CBMiUkFVX3lxTE9QOWhCMmxlYnhwa2MxNGdlWV9oRGZyWUZSdlRSaUlQUnZYeWpLcW94bi1DWmVaM0hCVXlQVU5iMzc5Q1dGcFNGck5nU1hBc1MtTkE?oc=5
+- **Source:** IMDb
+- **Published:** 2026-11-11T18:56:06+00:00
+
+## Dinnertime chaos as ready meal supplier to Lidl, Aldi and Iceland falls into administration - Metro.co.uk
+
+- **URL:** https://news.google.com/rss/articles/CBMitwFBVV95cUxNeGREdzNPTVdUNG5tNnhBRFVHUXI2YjIzWnpQNjNXaFVhQ0VHNjBVbWhOOUN0VGs1TnUwbF8zYlJJMm9zbjl5ZzVKaWh1NTZLcnYwcUNkd1M5LThYZ2NXUDM4VkpUdUNDUWxzSVk4Tk5ZUUFzYzFoNFB4dGhOdGRwUTlvSU9UMU1wVzFqT2tlUVJTVWRCd0tFREdOV1VrVkcyRFhCNm9DRUxDOEU3SzJIT2dGSlRMUFXSAbwBQVVfeXFMTnhIaWk0UTQxMmJpWVRtaWVFQ0VXSXVQMnFUSHo5eklNYTV2c0Z4dlZyNVN1OEhBNmF2Z0F5dFJCWjRMdEdzN0g0bWcxSldjeEg5dHNUM3FoMk9HSWUtREV2RFRLTE9jMEo2UDBrYjJsUW9NV1YzTkF4b2xpNE9WT2UtYWgzbnNTeDZLWFRlLTI2SVJUX2VLQnBYMVlsMU9FQWVjbVN5YTJMUmhuS0pfVzJPb0RvZXI4Q2tMYzg?oc=5
+- **Source:** Metro.co.uk
+- **Published:** 2026-11-11T18:04:00+00:00
+
+## Man Utd 'set to battle Tottenham for Iceland striker, 22, as club desperately hunt No9 following Benjamin Sesko injury' - The Sun
+
+- **URL:** https://news.google.com/rss/articles/CBMiqAFBVV95cUxOX2NsVHdMWG5WaDF1bmhMZXlPaTlpYU5aUURHbDRJMURLd05Qck5UaEVEWnpOUVBhYm5sdmIxOWVDZTRNelhWS3labGZfaWQ2SDlLbUNOamVSMzdIOVFaVWNoT0w1T09ZZ3hXNmJoVXdBbVdrZ0puZjZhRVcxRE1najIxR1ItaDk5b1Z6ejJkWTEycjBlaGJsUlVvYVRSTnYzWDJldDlneVA?oc=5
+- **Source:** The Sun
+- **Published:** 2026-11-11T17:39:00+00:00
+
+## What 6 months in Iceland taught me about medical training - Royal College of Physicians (RCP)
+
+- **URL:** https://news.google.com/rss/articles/CBMisgFBVV95cUxOanVmejBiWkpDWlAta05EczdrMTNrU0d1emZjWjRoM01uS2xNcGFPZzVNZjZ1NnVvSzFESHNTXzBqR1pJcF95ZWZGeGZNenl4dUhpVExDYmZVUWJRaTZRZlJER1cyNUNPcHh4dXNydWtYelJVV1d0aTM2TEY1RGJSWkdPdXQxd3RLWVR2WE9KVWN5Z3ljelAxSTlEYWpZb05iajlpaFp1cW5IdlhMNzFta0t3?oc=5
+- **Source:** Royal College of Physicians (RCP)
+- **Published:** 2026-11-11T17:12:57+00:00
+
+## Iceland Airwaves’ 2026 Edition Ditched Headliners in Major Shake-Up: ‘If You’re Not Evolving, You’ll Just Die and Wither’ - Billboard
+
+- **URL:** https://news.google.com/rss/articles/CBMiiwFBVV95cUxPc2ZfR3BQVk9CMFpLV2lBY0FqTlpiU2VsamFlcmhFZ0M1MGRqb1gzbUx1MmJZdDJPQXlZTERHbDRrel9xVjZnVzJ6QWMySmVRX1ltUnFUVlBvV0hJcjAwYzZaVHl6VXl4Vy10Q003M3VGTExGZWl4MkRFZUV2RkZnTjhOU2hyR3FNeGNv?oc=5
+- **Source:** Billboard
+- **Published:** 2026-11-11T16:39:37+00:00
+
+## Brittany Mahomes' journey from playing professional soccer in Iceland to helping create opportunities for - The Times of India
+
+- **URL:** https://news.google.com/rss/articles/CBMiwgJBVV95cUxPckMyZmhpb1d3Y2d3S2xCVTZna21TQWg4LTR2VFVzU1pLMGN2N0JpWHJUd0VDWXpBdkZPQ1F2S0trb0dZNVVOZnJYU1NmZDRoektmdHFia19qX05SVHhmaDY0R001VnJacFdndWItZFhCTl92cFJaaHVZWTlmME52MjFrak5WeTNkZ2JGdlFLTDEtX0Z3dVkwZTlkdG1QaG9BSUhMTENfZ0dFOW9uZWRyNGNSc0drcXBZNWNzLTlsWWlhYzlpc0g1Y0RjT2VrVTE3WEtNeTRrZm5OZ0JodzBpWmxBS19pRFRSQTFmOC15anR6ekN3WnRGRUhIelM3bkZEU3VqYV94WkV6ZkJMLXFQM3RqVnZwVEJQbktkUVJrX2Y4Q3BQMElTMmlyUkJDUThUajhNS0ZZcHJYaEJrc0c0bG1n0gHHAkFVX3lxTE9Nalg5YlhhdGtBQXRyWDNqYWtEUEJfdU13elF6SEs1b3Ixd1FRZU1Ld3BrSTQ4cHh4MWR4eGlad1Q4dEhtblVhanVqZlU4VzNHMXU0ekpMdzRFMlJpc215OFVCZFRwd1pyRDlUbjBJRnlqNjlqQUo0LVVCYzlicmhtTDJ1OVVEUzhDZVFsaGFPOWVBMVlBQ1dTRnBOUjN6U0hLUTUzQmNiX0VXMHlNRHZ1VHFmS3lvVHd2MnRsVGY2MnktclFsSV9DcTh3blZpLWdRTTNhTFZHUU9tSm5uQnBqSHpsYVMzZnJ2RjRVeGtnUXNHRzUzbTFyZldFQVhLNVJWMmhydHBIVDVmcnVJb3Fna3RKamlRNTl6WEtUd21zcmx0WU8yLWRvNklQYllfczNyNGg3TkxTWEdiRTIzYzNlOUc4M1JpQQ?oc=5
+- **Source:** The Times of India
+- **Published:** 2026-11-11T15:32:00+00:00
+
+## Bulgaria vs Iceland Prediction and Betting Tips | November 13th 2026 - Sportskeeda
+
+- **URL:** https://news.google.com/rss/articles/CBMioAFBVV95cUxOcGpRVlQ3dG5oUDB5S1hybkpnSWVOX1dwSzgxOV81cXNSOUt3R2pVLWdWbjc3a0xqdDJiWFgxWVpYYjZ6RVFqNndOc3VHZlI1allHbGNyaXF6MFFlaEFHZkNVZV84blBjY1hzQlZZazQ5OFBJUDR3b0hONVNQd0Y2Mi1EQjhabVB0VHBwUHRwOVBGd0JnZ18yQW1vWl9XWDJB?oc=5
+- **Source:** Sportskeeda
+- **Published:** 2026-11-11T15:28:00+00:00
+
+## Grindavík residents offered three-year right to return to repurchased homes - mbl.is
+
+- **URL:** https://news.google.com/rss/articles/CBMimwFBVV95cUxOQUtBSTU5bmI2UUNqZkJ1a3RCZ0s0SEs5VUV2RXVNQ0pVc2g4Z05ESW1ycW4zb0JIaGJYUnFjeEdCR2d3b0Y1RWhXbkNMRlZUZ0tfcTZpRERIOWNMdjdyWWI1ZzJKTVEtTzF1REp2U1FJVjFWM2o4bkR5QVkwX1RnY182RnZzSG1CZVR5N2owV1BWMnBKWXNKemJQMA?oc=5
+- **Source:** mbl.is
+- **Published:** 2026-11-11T15:10:00+00:00
+
+## Síldarvinnslan’s Börkur Lands 1,660 tonnes of Icelandic Herring - The Fishing Daily
+
+- **URL:** https://news.google.com/rss/articles/CBMivwFBVV95cUxOeFZWYVljNDJEM2VRSDBVcDlyejVMRjBrSmJzNWVQYlkxTjFWVi1RYzRqUy1IVjFROU9JRkRUemNGSUVxLWctc29XS3YycnpOeGd0M3gzOFp2YzRqTExlRWVMaWZhMTBCZDNWSkxsWkN0aE4xczMtNUxmaUYyanNQd1FUNTUyb1ZYcEpiaDczZEk1QU9wcTdNY0xWVXJ0MjczeDlUQXZKdTBrTzMyNDRkenZjaWQweVM2UmFWeXlZbw?oc=5
+- **Source:** The Fishing Daily
+- **Published:** 2026-11-11T14:49:57+00:00
+
+## Keflavík Airport handles 662,783 passengers in October as travel patterns shift across key markets - Routesonline
+
+- **URL:** https://news.google.com/rss/articles/CBMigwJBVV95cUxOa2djdnVqSFgzYkZUZl9hak9wOThJaGQ2dEtMS2JNZ3dMZkZGTGVaLUxiWWFyNWpPSHhJZmlGdFR4c0o4Rjk0UVQzQWFFd2xNc0N2cHFKTXBfYkNZNmFRb29kaWFKbnFfRHdmTFQyempaY01fd1RSMmlwajg5amNtb0hRQzdjRURZbVFXeWp3VGwyalRranZ1Q0tOYjVhX1F4eHJBRGZiZmVnX3FGM3ZEeGx0eFRPalJ1Q2xNTkJkWHJjY0RmS3JVeUwwTXFJbS1paFYyYUJHaUF6ZHdpSTVsdkpfV2dOWlgzWHBtMEk3MlQxcExyMUsxRVpQeEVvM0pHSUgw?oc=5
+- **Source:** Routesonline
+- **Published:** 2026-11-11T14:45:00+00:00
+
+## All You Need To Know: Ireland v Iceland - Basketball Ireland
+
+- **URL:** https://news.google.com/rss/articles/CBMidEFVX3lxTE1KQVB6UFpkcUlCTW9waXR3UEcyT0lLRTVteEVKaGRMRWV6c2U4aEE4cGhCcEtqLUlzUVZuakNtQTZJMGFvQkZ6TTA4MU9mTGZ5YUJfNGxsYXZPRkJRNzM5S280ZE1ORFVyXzZqaENTdXVnMEhV?oc=5
+- **Source:** Basketball Ireland
+- **Published:** 2026-11-11T13:45:22+00:00
+
+## Iceland Sets Age Requirement for Young Foreigners Seeking Citizenship - Legit News
+
+- **URL:** https://news.google.com/rss/articles/CBMipAFBVV95cUxOMElXRzJEbzF2TmwtNlJIaTM3eDNFSlZ6ZlRKLW42dEd3VzBlU2ltd0ZwUDlST1ZNanNINHFVTUxtN3FXcFBsUXhhTFREeTBWcW4wWUdBQVloSng3b2dYRXBuckY2bmRUblAwbnpJZnNvSDZXcXFSeW5saldiclVtMTFKU1BRVmV4TWFYLXlYYWtBN2NBYkhJSjNvRWQ0b2FPR0dmeQ?oc=5
+- **Source:** Legit News
+- **Published:** 2026-11-11T13:23:16+00:00
+
+## Registered Unemployment Rises to 4.3% in October - Iceland Review
+
+- **URL:** https://news.google.com/rss/articles/CBMihwFBVV95cUxPVTMwaVFsYWZyTE1zSlNNR1NMb2pNdlBNcThsc21jQlJLc3FKYUs5cW9zS3JkbWNFNVJZTkpwc1VCbjl6M2JzWkhJNnlmMHlSVUd1Z0JUT2FyWWlVTU52OW9mZlZ1LUx3c3V2WlR0TVRBc09tbW1YbC1rWnVnSm1zVmlFSmZhWms?oc=5
+- **Source:** Iceland Review
+- **Published:** 2026-11-11T13:00:24+00:00
+
+## Iceland’s Laugavegur Ultra Marathon celebrating 30 years - endurance.biz
+
+- **URL:** https://news.google.com/rss/articles/CBMingFBVV95cUxQSEdIbnRLMF9ybWtKWkpJanAtRHNfX1ZsZlBNWnp1SUl0Z21ZVUVrQmZ6bTQyWEJpTUxVdnZVUDhuak90QThmRkxyb3A5bldiWWhTZGR0R1hwcDNZaG5hS3NQam1rd1VLcnFqcllERnd6bFFWblFQbk42QW5sUTZoN3pJSG5wS0lwZ2QydERyNmN4U0lWRUI0SWxhcEpfZw?oc=5
+- **Source:** endurance.biz
+- **Published:** 2026-11-11T12:58:56+00:00
+
+## Casino Bonus Iceland: Four Ways Welcome Offers Are Structured, Side by Side - London Post
+
+- **URL:** https://news.google.com/rss/articles/CBMiogFBVV95cUxNbVNranNaRF9UbDA3dGt3VDd1NGJCWFg1RlFMLTNrZUFGMEFLQVVWU1JPVnEydUlUVEJHRFNieDFDRTRacHJLYkFUYjZ2bXhCeGQ3aWVhaEN5cmp0cm5BNmlqT2lXa3lmbG90NmhobU1qM2k4NWJrYzlqaVZ5ZHNmOFhqZXRVRG4wV2FnWUViSUFoTG5meDBGZWdSNjliRXlQcGc?oc=5
+- **Source:** London Post
+- **Published:** 2026-11-11T12:36:54+00:00
+
+## EasyJet holidays to debut new fam trip style in Iceland - Travel Weekly - Home
+
+- **URL:** https://news.google.com/rss/articles/CBMikAFBVV95cUxPRXBNUzc3Q0p4LWdqR0ZvLW1jVUtuVkl1WU8yeWNMUF9KaEEzTUdtRXgyR05HY1BBcmJEXzE3b0o1eUxtREw5OWl1U3ZJdERHSk9ha1Y4M1I2blFobEctVE1KMmw5VEJtVkxoNWJSQ1ZKUXBlU1hOQkJfYjZiV1RCcXc4cU4zXzFxeEpTdlpJMVM?oc=5
+- **Source:** Travel Weekly - Home
+- **Published:** 2026-11-11T12:30:00+00:00
+
+## Major food supplier to Lidl, Aldi and Iceland plunges into administration with hundreds of jobs cut - The Mirror
+
+- **URL:** https://news.google.com/rss/articles/CBMilAFBVV95cUxNaE4weXVfOWhPYW1RaWcwWWFuVjNkb085bUw4d01wZGdCaVhOZ25KUHNmM3dDeUVtZ0RESGRId1o5YU8wdm02b016R3czbDlkMXRTdE1qeXhvMFluN096WTV0WXFCU3V6SFBma2lsRVBTeGlhTnBGbHRoaVRWMW9LcjZtbERDTi1JR3FPZXk4RFU1TTRy?oc=5
+- **Source:** The Mirror
+- **Published:** 2026-11-11T12:20:00+00:00
+
+## Government Approves Bill Changing RÚV Funding Rules - Iceland Review
+
+- **URL:** https://news.google.com/rss/articles/CBMigwFBVV95cUxPbG13YWFkZ2RpRmRvVVZEelhwYmxYYVNHdlFWTlRSUk9FSmZLR1NIYzRfVUVGMGZzVmpZY01RYmN4d0VlSUgxaU9reHVxVUNOSmJKZnJHNTllUldITzZIZnZSVmVkOVRKdUxKUGxtd3MwUWVDRGV1MFRwcFJDRGZodFptdw?oc=5
+- **Source:** Iceland Review
+- **Published:** 2026-11-11T12:00:11+00:00
+
+## ‘World’s loneliest house’ gets solar power - The Times
+
+- **URL:** https://news.google.com/rss/articles/CBMitgFBVV95cUxNNHpWSW9OYW5mRl9zdFBNeTEzeUNvN2staEhwY196WUVOc29SRW12ZGFIZC1jUFh5LU1ZSDdHTmZyZWU0NGV2bDhBaG9pa2FMTmJIeGJfNENQNjJ4LXFjOWNFSEZIcGszaTYxRkRkTmtkU0g3VXc2Z0dybTFfbEVpYW9Sa2ZtaEhuQmpSNkJzS2pwWHJvRWk0Z2VQZ0ZFWDFmakFDeVF6MDdKOFdSNU5xbXh5NWtDQQ?oc=5
+- **Source:** The Times
+- **Published:** 2026-11-11T12:00:00+00:00
+
+## Iceland Seafood cuts 2026 earnings outlook on weaker Argentina performance - Undercurrent News
+
+- **URL:** https://news.google.com/rss/articles/CBMiuwFBVV95cUxOcUs1bFlVTzF1RndHN19vSDhKc0tvOWFjYWFrWjZzX2VkQWk0TGxoVnJJczhYdHdnWEVZQm5lUG1jX0ZhN3hmeTZpX3R2MDlYVHJaYVhGaWJnbjh3ZkpWYXpIbHVsY0tJVFRHb21CQndQSG0wRk9MRVhFNWFmUUFqSlIxSUZYTDZxRV9CV0NFVEt2b3pmQmxmT1ppaVd0WTc5N2dlRXFWMF83UTVEQWFvcGU4cnp5b0swOE5Z?oc=5
+- **Source:** Undercurrent News
+- **Published:** 2026-11-11T11:52:00+00:00
 
 ## Slogans painted on Bandero - Iceland Monitor
 
@@ -183,123 +303,3 @@ _Last updated: 2026-11-11T11:42:44.025880+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMidEFVX3lxTFBwLTE3ZVlSR3U2eS10SUxWd2xVRV9la1pwajJVNEFyYS1aSENTVjd6YXRiYTY1d1pFMml1T2xGWGgtamxCcF9LSTM1RlNuVzVPV2xUTk5oem1Ub3pjZ0tzVGJPazgyWVIyWWJFdkJfNXdMT2Nu?oc=5
 - **Source:** Iceland Review
 - **Published:** 2026-11-10T13:00:27+00:00
-
-## “Completely unacceptable service” - mbl.is
-
-- **URL:** https://news.google.com/rss/articles/CBMigAFBVV95cUxNeE5oNjBDUGJDczlaQmI0YTdnWlNaUkVGMXl0RExfOXJEb0pGdW8zX2hHdWktSm0tQUQ0MHh3Y0JZZDZCNE02WDVFVDdfaEl2WjFobkZJa1QzaFpEY29aYXdvbWczX1EwcFctelBxcmp5RzFwVV9WYVVUMVRuTjZxdQ?oc=5
-- **Source:** mbl.is
-- **Published:** 2026-11-10T13:00:00+00:00
-
-## Iceland Seafood cuts profit outlook on Argentina woes - just-food.com
-
-- **URL:** https://news.google.com/rss/articles/CBMidkFVX3lxTE1nZU9BVEYtVGtYNEpFYzlyNzgxQUt6TDRCa1g1dFdpakhEdlBLMnY5TGtxT0g1NkRoeS0tMkw5Sm9NUG1QVGFiWVI1eXR4ZGltRGprRjc3UGZaU1A2QjQ3WWR2LVVOUkRIQWxkeUd3SlZZcU9iWlE?oc=5
-- **Source:** just-food.com
-- **Published:** 2026-11-10T12:53:37+00:00
-
-## Iceland Seeks International Funding for Energy and Infrastructure - Iceland Review
-
-- **URL:** https://news.google.com/rss/articles/CBMisgFBVV95cUxPWFBSeVYtemUyd1pfMFlLc25FbTV4dkFfTkRuY0VRdW9YSnpPYU5pTEdXWGpZdC1lNHF3QmZxTnc4M3FrbGp4VXpDcGl2N201d1FRUHZ6ZVJXazNZWlZxQnk5RnhfTTdnQXJXMU0tV3c1LUFNcGx0aXFWbjRTbkwtYVlIUGZsUk9NM2xiVWRXRG8yZWVmTzdNTGRHQ19Bc1ZnYXVXaE50Y1p2cVdpMGk5Wmln?oc=5
-- **Source:** Iceland Review
-- **Published:** 2026-11-10T12:41:53+00:00
-
-## Euro Truck Simulator 2 Iceland DLC Launches Today With 14 New Destinations - GameWatcher
-
-- **URL:** https://news.google.com/rss/articles/CBMipAFBVV95cUxPUGcwcjM1SkFQMGo1QzZmLW1YUUZTV1RpNS01VWp2R0FFWFZaeEtEclZSMU1qeURhTExYNXg5YTNpYUExcC1KWVdsZElvenhQeU1yQUlmZElOTmItejd6QVJhQWplTGJMNlFVdHdzeUl5OGtfN1Q1RjRHa3FMU1hobWlNRTBzUU9wUjA5VGdSNUVwMXV0WTFuZ0JLc0Z6bGtrNzlraQ?oc=5
-- **Source:** GameWatcher
-- **Published:** 2026-11-10T12:20:00+00:00
-
-## Iceland appeals court upholds dismissal of Alcoa claim against Eimskip and Samskip - Container News
-
-- **URL:** https://news.google.com/rss/articles/CBMirwFBVV95cUxOUjFwOUZtbUV4bGVhZmhiRVF2VnNpX1A0aUVZcGVEWmkyNHVSUGZfQUdfNlZudElwZlRvSmE5M1dmODRvTjQxTjlTOXRWdThTd3hFcjllRG80VGlUanpiZF82SmgyRWRBazFRbmZweDlSMGVZS05jWF9UVG1QZUdwM1kwUkgwVHJiYnFXdDhjb2FKSFU0QmhMWHF4cjVtN1NhRERBTndvdnpjbnF3cTQ0?oc=5
-- **Source:** Container News
-- **Published:** 2026-11-10T12:00:11+00:00
-
-## deCODE and Kári Stefánsson Clash Over MariTide Origin - Iceland Review
-
-- **URL:** https://news.google.com/rss/articles/CBMiigFBVV95cUxOcGRPRVM3ZUZCelczTFJ0S0hzcU9Kc1pOUXFXY3lJVjV5eDJMXzRKZGp5ektzRUdhTEItc3pvbUM1NENpbVhjYmxTVzBVMWVXS1BZQ01RMUxVdTNXci1TWTRxVEczYnA4OW51NFJiZ3JtaGNSZHBRZFpjYjVCbjc4dkJSdHlGa0ZaaWc?oc=5
-- **Source:** Iceland Review
-- **Published:** 2026-11-10T12:00:06+00:00
-
-## Bulgaria vs Iceland predictions and betting tips: in-form visitors to complete the double - Squawka
-
-- **URL:** https://news.google.com/rss/articles/CBMimwFBVV95cUxPWHZyRDlraGpHQjdtSVNzMk5xWTgtQW9Db2szSEZKR2NKblQwV1hUWXFYa21uYzhDb0lmeXpaTjVRenFBNzJ0RmlCUGZVcnBxOFd3WkZ6Qm43NGNpdU41NXVNZ2JabFFHMURQc0d2bUlUMjZsRUxVOUtaRVZPUENXZnFtUFFjcXE0WWhJV1kyeGNHX0dfcnF6TkxqMA?oc=5
-- **Source:** Squawka
-- **Published:** 2026-11-10T11:58:44+00:00
-
-## Viking legend inspires Ring of Bjólfur viewpoint in Iceland - Dezeen
-
-- **URL:** https://news.google.com/rss/articles/CBMifEFVX3lxTFBET3FOMDJwRmpXNno4NVhkbDd0WDQtLTRUeTB1OWptN2FaWG5wcC1hQzdKWTM3Q1dGM3NoZXdneHo5bkJ2SnVnUlhQQVZUanhnakZIS2wzWUxkbWRvR2tiRDJKQl9hNFZpN19GLXFPbTI1ejZqbkhOQmJFR1k?oc=5
-- **Source:** Dezeen
-- **Published:** 2026-11-10T11:30:00+00:00
-
-## Visit Iceland Offers to Send a Knitter to Your Next Meeting - Iceland Review
-
-- **URL:** https://news.google.com/rss/articles/CBMifEFVX3lxTFBteU9BYVNBSUJLVXlzVlZWOTl1SlVBOTRKTEF3bDBYeDFqeUprNC10X2ExZFg3aG04eUdPUmktc0RZZVM2Yi1Mc2xfczhhV1pzRk9NQWFEN3lLeXlnTW01X3p6cmFXcXpkdzVjcDJvYlF4NjQzek9QaEdudlI?oc=5
-- **Source:** Iceland Review
-- **Published:** 2026-11-10T11:01:51+00:00
-
-## Euro Truck Simulator 2 Iceland and Coaches DLC release countdown: Exact date and time - Destructoid
-
-- **URL:** https://news.google.com/rss/articles/CBMiswFBVV95cUxPdWk3b2l2Y3c2aGpEMEg4bFRfcG5RT0RCcEE0RjNTaWlPU1ladTY0ZkdDekI0WVBjQXhWTERLOXA1bE9CRVV2bmpaWW5BZ3FNVzJCdVlyUjF6WUdDMVVuN002M29BdTctOFYtVXAtX1V5dFlocVJPWUdSbmdsNDN1NUxZeDhwTHRRVjhRWDAzcVdDN2NzX0plQlFEbEwtSWhxTVRJbUZ6VUhNM3ZCdVJXS1pLQQ?oc=5
-- **Source:** Destructoid
-- **Published:** 2026-11-10T10:32:00+00:00
-
-## Foreign Tourist Dies After Car Enters Kleifá in West Iceland - Iceland Review
-
-- **URL:** https://news.google.com/rss/articles/CBMiggFBVV95cUxPaXhsWVVUaFJIQjR5REIyWjQ1RkxiXzZPc3NsbU1xaElMSy04TnQwOEw3T0NXN0lGYWswT2YwOXlJbnYtcUlFbVJkeHNxRjF4TEw5Q25QLUE1ZUJKcnphSXBEMENnRXVSZ0JaQ2VLbHpFRTAyV0RnaUMyZk5ZdE4tOEtB?oc=5
-- **Source:** Iceland Review
-- **Published:** 2026-11-10T10:01:52+00:00
-
-## ESA finds Iceland and Norway can meet 2030 climate targets subject to sustained efforts - EU Law Live
-
-- **URL:** https://news.google.com/rss/articles/CBMirwFBVV95cUxOZnVKSHRYMWZMMnM1YjhvNjBXTVlDY0pTTzh0NUdubDN5NkUzUTVpRzl1NDRTVjVUYXZzNkx4aGZIaXg0RW5zY3lTclo2eUxvaFJPVDNZcWg0X1pxakQ1QXEtbTZzeTRfREJvcW1pakFfcmdfZmYtNjhxXzdjQ3VRX04zTnN4LXdJbzhicGVUYUVySUk3Ungwam1OQzYzZnQ3LUV0MENpWmpkUzhqdVNJ?oc=5
-- **Source:** EU Law Live
-- **Published:** 2026-11-10T09:30:24+00:00
-
-## Iceland Seafood Lowers Earnings Forecast For 2026 - TradingView
-
-- **URL:** https://news.google.com/rss/articles/CBMiuwFBVV95cUxOeXpEMG1iazZqUjZaQlBnbDVJWmdMTk13bWJpVlczY29TQVVyek5uaC1HcGNxcFN1WDhRVF9FUVQzdEdpbUJWMTR6ZlJTRDFmV2VNc281N3NTa2RaeE1Iek90bWotRE1jOUNDMkdHaTY3cFAxdmRPQlpsaDhadXNzVXhURGhscEJ4NU0tUjRJMlhMOFJWTHBXNWJfMlpkSzFoUkRGZ3hYZ3U2QkpQQmk1ZjJYbE1BNnNuaHBv?oc=5
-- **Source:** TradingView
-- **Published:** 2026-11-10T09:24:14+00:00
-
-## Iceland Seafood International hf.: Lowers earnings forecast for 2026 - Yahoo Finance UK
-
-- **URL:** https://news.google.com/rss/articles/CBMikgFBVV95cUxOSWVaWW1jZW8xVjRETWFkdlJ2MldOSUszX2NBYVNCWUp0el9EMlBvMk1DcUVuNVltTTl6NlRwY3Jrak5WUUZHTGJPSk5QdzdEWC1QRE12SmNHNWd0V1hURVpkM3ZSclRJT2x0bURnVk4tZks3eWVUSUk1eFRIVDRQelZvLUtnTGZRbV82RTBfeVJMdw?oc=5
-- **Source:** Yahoo Finance UK
-- **Published:** 2026-11-10T09:11:00+00:00
-
-## Must-know Travel Guide for Iceland’s Iconic Reynisfjara Black Sand Beach - Info Labuan Bajo
-
-- **URL:** https://news.google.com/rss/articles/CBMiWEFVX3lxTE1ELWgxQk1MZzh4TEhVdll5VG14RWNVZlY1eVAtOHdPZ2VqM183R3ZiYXFyTlFoZXpTWWdFNXZ6bkM0ZzNhSlJFbEZRQ2tGaEN2TlVoVi1adlY?oc=5
-- **Source:** Info Labuan Bajo
-- **Published:** 2026-11-10T08:50:14+00:00
-
-## Three-car collision in Garðabær - RÚV.is
-
-- **URL:** https://news.google.com/rss/articles/CBMihAFBVV95cUxPbUY2SzRDUDlsMGJMNTRudWMyVGNfZkpBbE96ckhnSU9LSzFKZThHdTRjWDJQUERmeU81anJSTXNvMkNBd1l6dHR5eEs3ZzVuSnFteEszb2hjbHRMV2lPcUh0ckl3NlNEWGdVeWN0WE1lYVR1WUZ3X0RFXzhSMDhyNjZiYzY?oc=5
-- **Source:** RÚV.is
-- **Published:** 2026-11-10T07:21:00+00:00
-
-## Iceland’s Population Projected to Reach 500,000 by 2051 - Iceland Review
-
-- **URL:** https://news.google.com/rss/articles/CBMigAFBVV95cUxNaTV3MW55S1ZlNTZ3YlNJS3RDeVBLUWR6cTNLRWtHWnN4OU42eFlBcU1WMUEwSTl5VXFOakhTTENYWEEtNk4tRnhZZlhoc2g0MjA0aWFkcTZpbGVKdzUySzM5R19SeU12MXBDX0lhc0Vsbm5NUnQyd25kUG9NSjhWTw?oc=5
-- **Source:** Iceland Review
-- **Published:** 2026-11-10T07:00:00+00:00
-
-## Free Prediction: Iceland vs Luxembourg | UEFA Nations League | 16/11/2026 - The Daily Star Lebanon
-
-- **URL:** https://news.google.com/rss/articles/CBMieEFVX3lxTE9LZUhQQW5kd1FCUG94WGt6Zm1MdnRKWHhVcGtvSFFBUFBmMzViUEEzdmhiSExYdng4N2hINHN5Qnd0THkxbE53NW5Kdko0V1Ywakc5TFNBX3FsYl9MaUxYbktNZVNkdUFTcEJRa3Fpa0pUQk1tbHhPUA?oc=5
-- **Source:** The Daily Star Lebanon
-- **Published:** 2026-11-10T06:42:22+00:00
-
-## 2027 Norton Atlas Review: Tested in Iceland, 45 Photos - Ultimate Motorcycling
-
-- **URL:** https://news.google.com/rss/articles/CBMingFBVV95cUxPSGY5bURUTWsyVDRWbVpKZ3hqdk1KdldpcGJsQi1tZXB0ZENiTmswMGhtTkllSk12by11dFFIV1dQT0pLUFN1ZHpMeFhvMzJQOFItX05md0VQMzdqd21hWXBXMkY5YXBqYjZuVC16VTljQ1NKSExpUzE4ZjA2NjZsQnZ0eFJ4UEdpVVhXY3pRajFJRFcwV1JrTGxzNVpXZw?oc=5
-- **Source:** Ultimate Motorcycling
-- **Published:** 2026-11-10T05:56:30+00:00
-
-## Where was The Odyssey filmed? (with maps) - The Worldwide Guide To Movie Locations
-
-- **URL:** https://news.google.com/rss/articles/CBMiXEFVX3lxTFBwdkNrYUs1R0h4X1ozWmt0NkNOcnl5RVRNXzNIcWZ1YmNyaGNvWHNKYVRyZlJQWV9haWV0cC12S2x1TU1QUWllbUEzLWg3cEhpc2p3VTliVFZoSHpn?oc=5
-- **Source:** The Worldwide Guide To Movie Locations
-- **Published:** 2026-11-10T04:45:45+00:00

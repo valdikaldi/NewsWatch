@@ -1,8 +1,62 @@
 # NewsWatch — Apple News
 
-_Last updated: 2026-11-11T11:42:43.207597+00:00 · 50 articles_
+_Last updated: 2026-11-11T19:19:08.830779+00:00 · 50 articles_
 
 ---
+
+## Google Adds Gemini Voice AI Assistant to Apple CarPlay - Bloomberg.com
+
+- **URL:** https://news.google.com/rss/articles/CBMiqAFBVV95cUxPeHVxSVBEQ0VNQmRBdDYtY0dZNk0tVHFpZ1I3eVRURnB2anRqTDN2dGZDb29xRG90eTZLN3ZmSktIVnFWVkFqWlp3ejc2LWFPa01BZ0JhQTl6MHFKamNfalljd2NsS1ExNzdSSEhpbHBnemxrdHZ5NG1yWEpKVWw1MlQydUJ4YU51UnBQb1AxVWcyczBVM2RfSWFucjAzZERsbnlCeElSR0E?oc=5
+- **Source:** Bloomberg.com
+- **Published:** 2026-11-11T18:57:04+00:00
+
+## Apple Stock Climbs Near Record High as iPhone Maker Holds $5 Trillion Crown While Nvidia Battles CEO Scandal - International Business Times Australia
+
+- **URL:** https://news.google.com/rss/articles/CBMifEFVX3lxTE1BWVhBaGdUTF9HV1Y4ZmFGbnlrcEtNNmNZOXBEc1FVNlNkVmtwMF9sZHI4enA3c3E1cXJtaWhrVFdXQjhubHkyeDE0ejNkRWRQNGViQXFKMDF2c1NVNy1seEw4Mk5IMGttRVdjYVFOZ1MxRTZoRTg5NjdtaGU?oc=5
+- **Source:** International Business Times Australia
+- **Published:** 2026-11-11T18:39:37+00:00
+
+## Apple iPhone 18 Pro wait times near zero: UBS data (AAPL:NASDAQ) - Seeking Alpha
+
+- **URL:** https://news.google.com/rss/articles/CBMikAFBVV95cUxNdF82RlFXZU1zRjd1S0Q4VDdveHlsRHItOEhxLWFySlZzRFVFcjhxWmtsSGdtNlRTMlVHVWpRcHR3WFJVYXphaUtCaG44Yy1FX1hWQld1dFRPQzZVdF9rQkR5ci1MdzhldWdVN3JEaUpuM2twb2dDdlkzblVCWl96LWpNc2podGhONjFyVXdyLW4?oc=5
+- **Source:** Seeking Alpha
+- **Published:** 2026-11-11T18:07:38+00:00
+
+## What's Going On With Apple Stock Wednesday? - Benzinga
+
+- **URL:** https://news.google.com/rss/articles/CBMinAFBVV95cUxOdW5ZN2QxY2xIN3lFT1dqRWx3dUxLYVlieklHV2IyVVVnVEJFZkNnWE83Q1JtV1Y3ZUcwWE0tcy13YmRMNmxDa0NmNlNWaDJYSFBJT3Uyd1RhblBSc1Jjenp1UFFZdWNCVTV4TlBBMHFYa2h6N2xGNG9PMm9lU2tpbnA3dk11MVB1MGFXTTZJTUhZMXVQU0RaLV90MEg?oc=5
+- **Source:** Benzinga
+- **Published:** 2026-11-11T17:55:02+00:00
+
+## This Apple Analyst Turns Bullish; Here Are Top 5 Upgrades For Wednesday - Benzinga
+
+- **URL:** https://news.google.com/rss/articles/CBMi2AFBVV95cUxQNktnWFlaYjIxQXpTeXpmUW84QlBrS3NZZmJtVzk1Z1ZCbmFnYmlwVzhMSEQxQ2tmcm5XMHNyNzM4cnV1WUhEVlBaTjhYVVFRUWczdTZyd3V6ZWRWLUFVMTdqUzhIdUlQVWY5eEFXNktlVjlMenRBTEZIdGhmdnU2ckFoblF0N2FhTE02Sms4NEZYUmFoZEJxQUQ5VmhmOUpER09KazRsMC1iaGFodkx4eDRUWE9kandsM2xVbW9Tb3pQTUNsT2twQnYwWjJoZTBwWDV0S3dFSGs?oc=5
+- **Source:** Benzinga
+- **Published:** 2026-11-11T16:09:29+00:00
+
+## Apple is shutting down its beloved Support Community later this month - Neowin
+
+- **URL:** https://news.google.com/rss/articles/CBMinwFBVV95cUxNNmdONXdzX2xzMXktMDlsR0lRbTNSUUZOdGt0TGVtbkpvMDdxLTZLWXljb2tEa2lzR1ptSWZYQko2Q3VtNGM2MzZkRDJPUEtSc3BCTXIwbnkxUlBZejdUazhldDZ3cVRCSVhRSnRVOFM3RnRvUTZqSEltUzBPYThMeklUQUtFOFkyYjNXM29zZkFSSTYtdkhzajBBemx6cHc?oc=5
+- **Source:** Neowin
+- **Published:** 2026-11-11T14:02:00+00:00
+
+## Famous Investors Face a Nov. 16 Holdings Deadline While Recent Filings Fill In the Gap - TradingView
+
+- **URL:** https://news.google.com/rss/articles/CBMi3wFBVV95cUxQa2JzdkhtVUdmYWVFUldsOVAzLWRCR21QbDZKdU1VM25PZ3ZRSVFVcE12MTZwaVFZa0RXU21uVklKd1YxSlJ2UllveUFkbDFjcVIxVXBieHVMZ1BLYVVuczZZQ2dlcHVEWVBQYnAzU2NXSVVCSi1sLVlkQ1lXTVUxcW15VWlpU3NxNUxRX0RXdzFiTkR3NkVWa0dFYjdEWXBsMWk4NFhKa0RLTmwxOFRtblNKeC1FeFBvV19pOXJ4ckZFZ0llbXpic2FvRlRVRVlkTGJZYXNYbDdHV0w5eFQ0?oc=5
+- **Source:** TradingView
+- **Published:** 2026-11-11T13:37:00+00:00
+
+## Apple’s 2nd-gen AirTags are under $18 each in this 4-pack deal - USA Today
+
+- **URL:** https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZktKWmF3NmwxU2RIbEV1dEJYYnAySFR6UlJPaFlxTU80QkxxS0dXUzNOTXdjSkxCVWJhRU91TmhTaEhvMEpXdWlQdlpfVzZOSGZseVQtamJEcXpMMkt4d0V0MnVnS2d6V0dIblNEQlNQQVBEeEcxMERXazBGMU95YTlBZlVKRTI5ZGp1ZVpNSTBweW5TcE1kTGtZNGxaakxDVHk4cDFJTm5Ld1E0MW1WNVF2ZVUzT09MdU5j?oc=5
+- **Source:** USA Today
+- **Published:** 2026-11-11T13:09:00+00:00
+
+## Apple upgraded by China Renaissance with a new price target - Quantisnow
+
+- **URL:** https://news.google.com/rss/articles/CBMipAFBVV95cUxNY2h0RVplOTVWOTFMOHhZZlBELWNKQXRneXNyRVRld1dWZE5weXpCY1FsVDg4YzVvOHJHOG9wMjA2MUwyRnhNeFFPRFFoX3NBMUFYZHBueDBEZTRhSlU3Uk5sWVROYU4yUVVTd0piNjBuVXY1dDljaVBFZHgySGh4c00zNXgzTGg5SEFaZXVYN2U5M3BHZUZtdVBETDJtTEMzaE1LMA?oc=5
+- **Source:** Quantisnow
+- **Published:** 2026-11-11T12:31:20+00:00
 
 ## AAPL vs GOOGL - Quantisnow
 
@@ -249,57 +303,3 @@ _Last updated: 2026-11-11T11:42:43.207597+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMixwFBVV95cUxPQW9VVElTNVR3MHJhZnczYlc5T0dNMGJtTU5DdUZ0NHNtdW1PV2FEdUxsWUp5blV1S1VOdHRjUjhqeVlkM2JqdnhSMm5RVWNKaDhUUG42V3lEVEpKZ1NPSlltV1pvbWphY2hQQzlrdVdlUmpYcG9BSmdya2JrNDBZYTY2cXJ5T2FnTm1OVy1vR3ZVRnFrVzBkbTZqamRxREpzN0hoMVBWZEc0RHlaa25icklDbEdvVnZCYjl3SU9KQU0xTjd3WXN3?oc=5
 - **Source:** MarketBeat
 - **Published:** 2026-11-10T09:38:40+00:00
-
-## Clarity Wealth Advisors LLC Sells 2,100 Shares of Apple Inc. $AAPL - MarketBeat
-
-- **URL:** https://news.google.com/rss/articles/CBMiwgFBVV95cUxPOWw2TEhET3NSbUQwdE92Sk4zaUNGZEN3dXhlWXAzLXN4UEhwWW51ZnJMd2dzRWd1OUpBWFJJc1ZYTVF0ZUJFRlhkVVF1Mk1ObFAtMVhaemdsU2VKajZGZEJGUng3LTQyOTFQX2liY3pZUUs2YXJfMHphVzIyU3BncUxIclFrd3J4ZHRiV01teENiUWs1N3hCdmFPTi1ZdmtCRGE1cDl6ZVBVcmxaM3BUZ3Mwd1JpMm40YUZ0Q3RfRENNUQ?oc=5
-- **Source:** MarketBeat
-- **Published:** 2026-11-10T08:52:27+00:00
-
-## Apple Inc. $AAPL Stock Sold by Aire Advisors LLC - MarketBeat
-
-- **URL:** https://news.google.com/rss/articles/CBMiqwFBVV95cUxPS0tUMFd5eExfT1ZzcGhRVU8yb2NmY1YxRDgxSDhDcmpLWjYzN2pLNHdoZl9qaXBVWXRPZUNQSlViYTZTMzBZWkhlaFh4WGpxSHVSa2IydkpMYTNHdXBENjhpRUNEdUJ3YW5RRHNLMHhDTVQtZUFBa2VFaDFnZkotUmZzVTlUT2gwQTNrV2RvbGctV0dkVW5zRFNZdW04THd6ODZEZjVPTm9nRmc?oc=5
-- **Source:** MarketBeat
-- **Published:** 2026-11-10T08:48:01+00:00
-
-## Apple Inc. $AAPL Shares Purchased by Foster Victor Wealth Advisors LLC - MarketBeat
-
-- **URL:** https://news.google.com/rss/articles/CBMiyAFBVV95cUxOcFc1WExnZmxzS2dvVXVqZEhIREJwU3ZYejBwLUZFWWNsaDNMVTNxbWVZeDAtT1NJR0F0am01UUowZUM1QzhYUlVadnZ1RUdVc0hkN2hObHA1Tm92VlNYTUdmaXBndTduNHV1bVZGNUR4ZXZMT0hvSXZhQmVfU2JCTTNEcGJRQjJ0Z0l3VkxTR3ZSeVd2VnRjQlRYOXVTVGFOT2NKVzItOGVtaTNQMjhLZTJNV0c0ZGI2ODR5d0FyZE1lb1l6N21EXw?oc=5
-- **Source:** MarketBeat
-- **Published:** 2026-11-10T08:40:16+00:00
-
-## Apple Inc. $AAPL Stock Sold by E. Ohman J or Asset Management AB - MarketBeat
-
-- **URL:** https://news.google.com/rss/articles/CBMivwFBVV95cUxPbHJabkhoR2txUFl6eEFRQ21zS2hNZnFKTG5LWGEwMXEzREFwT2I0ZjhpM0t2YmgzbHZ0OWtCX0VkQVVMZTd5aDY1NkVpV2xZc2tzTkZ4MVZRamJUc05qcmc2QjJybk02aHFGRUhINkxob2dMeF9iYldBcWJGWEdNQks0bU50VlQ0SzBBSTNqSWtaUUdwWXRhSjlkQXNNVEdEa01XMnk4N3Vzb3lkd1JXTUZ0TWpPVGJHSWN0WnRxTQ?oc=5
-- **Source:** MarketBeat
-- **Published:** 2026-11-10T08:40:15+00:00
-
-## Apple Series 4 Vs Garmin Fenix 5 - Apple Store sales in neutral ahead of new Apple Inc. AAPL product releases - auroradesio.it
-
-- **URL:** https://news.google.com/rss/articles/CBMiUkFVX3lxTE5HTlFMb0lkOWpLSVZOSmY5ZW1xRHBPRDNqamdFZEpzUFlNaTRyYkNDYkl6X29SUVNjYUxHU29zMUczalJtVnNUM2dKUFYtTHQ0dFE?oc=5
-- **Source:** auroradesio.it
-- **Published:** 2026-11-10T05:44:34+00:00
-
-## Apple Issues $7.5 Billion in Senior Unsecured Notes - TipRanks
-
-- **URL:** https://news.google.com/rss/articles/CBMipAFBVV95cUxQcnVJVHE5T2VIQ0EwWEhRd0VybUZJMDQ3MDVXSlc3UHdySUw5MElxTk9IZ2pNWGhmVXVBaFZsZXd4UmhoLWE2S3FXX2JaeVAyNUotRGEwQlpmT3RjdmY1R2lqME1FZEpUZlZUcmt1bXRXZ0RBYnNvUk1ENG1RakNPUFNudk9RUmxTMVRub1pBRnBYZGZkOWR1TnJrZU9mdUNMNlhYOQ?oc=5
-- **Source:** TipRanks
-- **Published:** 2026-11-09T22:43:57+00:00
-
-## Form 25-NSE Apple Inc. Filed by: Nasdaq Stock Market LLC - StreetInsider
-
-- **URL:** https://news.google.com/rss/articles/CBMi3wFBVV95cUxQUFo1QnJlV3lxLXJWRWJ6YlNSNUJvdXY2MFhYLTFvTHFqVjBNNUVCSU5kX1NiRi14Z2VpZC1BZHhETVdWR19FWDhaVGJueEdGSTc2YjVPVnRZb0dhNi1ORW5wZHBWU1VqQ1c2a1VDNHNVd2ZmQmNYc3BuY3pyLVBMNFltMElhMjFOTDQ2ZVdCcGpZdnhPWUNGVUgyOUYzbHJNY2hiS2IwNkxWTDh6NkM3YWNiVWhUb21ZWW92eUxRblFHNTNabzNWbzhWcUwwUWo4TUJDMXBwMUdjTEQwZXZz?oc=5
-- **Source:** StreetInsider
-- **Published:** 2026-11-09T22:38:57+00:00
-
-## AAPL: Apple defined, key history, primary product lineup - 9to5Mac
-
-- **URL:** https://news.google.com/rss/articles/CBMiR0FVX3lxTE5YT25nRDV2WDBrbkJNcGEtUTVaMXUwRUZiQjFPWURPanYxM0RaRE9yblZHZFJMbmpWT2FmaXhCanlyWFNwM2ZF?oc=5
-- **Source:** 9to5Mac
-- **Published:** 2026-11-09T20:06:58+00:00
-
-## Apple Reclaims $5 Trillion Crown: What's Going On? - Benzinga
-
-- **URL:** https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdkZUcGM1NkxHZHZlQU9MUW5yWVJwUUxxTVZJbHVxdW8xamxEdUVaN0hkcXJyZm9HY1k4M2k1bzJyc1Q3ZFpKYXJBbUozMzJLUFQtUVQzdDlMZjY0VGNBTUhmUThFaHdFMkN4THpNa1FSOTd1dV8xODZfaUNmbUNJWUZhZXowUDJmd2J2dDMwc1ZmVzFRcmsxNDRncGVfUkJvdTc2czZLTmZlZVk?oc=5
-- **Source:** Benzinga
-- **Published:** 2026-11-09T17:48:49+00:00
