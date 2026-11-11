@@ -1,8 +1,14 @@
 # NewsWatch — Apple News
 
-_Last updated: 2026-11-10T20:43:01.574351+00:00 · 50 articles_
+_Last updated: 2026-11-11T01:43:51.639939+00:00 · 50 articles_
 
 ---
+
+## Apple Issues $7.5 Billion in Senior Unsecured Notes - The Globe and Mail
+
+- **URL:** https://news.google.com/rss/articles/CBMi0wFBVV95cUxNNF9RN1dfNklkXzdWWHBKU2l3dk1vLVVTZEpoSnBmMG51c0tkS3ZCR0FiY1FRX3NubVNTNi1ySFozZjBDU1M3RzhxM05lODJ0MFNwY0JVOE5OS2JxVURBYjd2TDhNNjhxdHpTOUp2TzdZQlpZRnpOYzZmcnpRYm4yOHYtYjYzOHZpbXZBMHZMRWw3NVNUS3NvNzl6eWNlLTYwMXpTd0g2djRKQkktUkZodExYZHkzTWxWeURDdndTZUJpcjFGUVd6MzNfZ2I1TVlBQm1F?oc=5
+- **Source:** The Globe and Mail
+- **Published:** 2026-11-10T22:59:12+00:00
 
 ## Apple to provide 18,000 computers to Louisiana groups, local governments - KTBS 3
 
@@ -297,9 +303,3 @@ _Last updated: 2026-11-10T20:43:01.574351+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMisAFBVV95cUxPV050RmVQcE9hcDRtU1dWVWNXQllPMm1zMWhzd3NhVXJsTUhkSWVDbzB1QkgzWDQ2UnRUbGJfRGU3LTRKNFpVVjkycHR1S3FYX3N0clZicG4yY1F4R2Z2UU56SlNzeW56dU91QXp0Y3RyNXBVVXQtTDRoRktURVlHb2NVX0ZLZ1NoanJoR3pqMVd6UG5XREh5RmpuWjNKcnpsZm8wNFpYclV4MjI4QnlqaQ?oc=5
 - **Source:** MarketBeat
 - **Published:** 2026-11-09T09:40:07+00:00
-
-## 2,121 Shares in Apple Inc. $AAPL Bought by Kings Path Partners LLC - MarketBeat
-
-- **URL:** https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcVIzOW0ybk9WV2I0Rmlfend1TE5lSHZhcnR0M0Znb1RCSlBDMXctenBWWlVUc0dWLVhRVWpHS0VTdDNEMlAwRS1KTVRrSWMzZHltREQwdnFwQzhPSVQ1S0lTQk1ycEo0c2p5QlMzNW93aWtsMTd3YnIzd29OZ3kyNVBzYmkzcXo1WmI4ZElILVBNcThBVnNEQ2ExRGRlVVhaeURUbTlVcXJGa1psNk1QU2Fha1dLRWd5SEU3aFdoTFVfUQ?oc=5
-- **Source:** MarketBeat
-- **Published:** 2026-11-09T09:40:05+00:00

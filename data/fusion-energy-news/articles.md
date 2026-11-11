@@ -1,8 +1,26 @@
 # NewsWatch — fusion energy News
 
-_Last updated: 2026-11-10T20:43:05.112840+00:00 · 50 articles_
+_Last updated: 2026-11-11T01:43:52.990815+00:00 · 50 articles_
 
 ---
+
+## Indo-Fijian fusion meets Melbourne energy at Uprising Music Festival - Fiji Sun
+
+- **URL:** https://news.google.com/rss/articles/CBMisgFBVV95cUxPbG9YMEZuRDFpQTY0UUF5Z1J0ZTRtSkl0aTlzaU5UM3NGLVNHR2ZXc01pVXJDMmdGaF9hbVo3UHZZNTlZaUVqYjJDOGRGQ3JkeExKNVVRam1neDdvOUYzeUpMQmViRXdnMDVZdm5FRnJkYTE3SzVtaVFmNGpzOE43WmNFRmVYVTFJNzdkbnFzb3IxRGJNWUhRM0RucWdhU2N2bjJYTm5BNm40SExzeW1sZER3?oc=5
+- **Source:** Fiji Sun
+- **Published:** 2026-11-11T00:54:24+00:00
+
+## Amentum Holdings (AMTM) Shares Climbed, So What Is Behind The Attention? - Simply Wall St
+
+- **URL:** https://news.google.com/rss/articles/CBMi3AFBVV95cUxPb1JNblpGUUlzMzJRSkVJdFhQRE5nYjYwemRVU2VEWUpzMVp0c1UyYWNuejkyamdJYklfMUxhMm9HSGxMZ0NtTm1hWUpLR2xMaVFWQ0ZETi10a2Fac21QR2FRUVJ3MHM5T2NzUmNfZTJnQXF6OUUxTFZPUXEtX3BOQkp0cC1Kaml3bU1ITkFLcDVUOGFjbWl4SVVkRmZoWHpKUmhtUlo1V1B0NlAwRmhIS01tS2Rpa3hqN0lEMGpZZDNTUjBUWjFQeUlKRnhUSm1BRHRsOFVEZVBvWVNl0gHiAUFVX3lxTE5TTVMtZ2s5SHhvZHJHTVZGUVhObW1OeVh3N01jRllWSTRXTVY0NmdnRF9VeEZncUptRGJ1MTBjaFlXQnViRElpTkRYcGhwX2kwaEJfTktmWVp3SmNLb0RWdHMxSTNCU2MzR0ZRMEs3RzJSODRqS0cwVzNBcmVZTjVIdXhNVC13bUU3V1YxUTRJOHNuY0tKY0x4ckhjQ3RNQ3B0UHFack1KcjVzRW94NDdSNVljR3pUbW5RVUFJUU5Ua3J6SGl6QXFOYmg4Z1RvTUNzemFvUDd1YkZfdDJiSjU0VUE?oc=5
+- **Source:** Simply Wall St
+- **Published:** 2026-11-11T00:48:44+00:00
+
+## Auburn physics students take on new questions in quantum materials and fusion - Auburn University
+
+- **URL:** https://news.google.com/rss/articles/CBMiwAFBVV95cUxOdkt0VFEyMk12MlRxMC1SOGFuajJWcHV3WTMzdk55RzRYR3lTQ1dPaVZXYmRkeGZUelRPZHBwcFg3Q1U1Z0VzU3JOX1JqaHpBTkZVaWdBQ0drMEpzNEZrckpyckc4OVA2QzJKSGh4OUN2MjRvU1BETmhhWm9hTHU3NWU5bmZ3MHhVN09mQW0yRkZmWEdqU2Z1UTVNUUhEUXJyQ1RDUEZ0M3owRUI4SHpIVWpXenE2T0dGOW9YM0lCczA?oc=5
+- **Source:** Auburn University
+- **Published:** 2026-11-10T23:35:31+00:00
 
 ## Shuji Nakamura's Blue Laser Fusion files to register shares for resale after going public through a shell merger - MLQ.ai
 
@@ -285,21 +303,3 @@ _Last updated: 2026-11-10T20:43:05.112840+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMijAFBVV95cUxONEhZQzVFQlkyZjc2X0dXazducjUydVlaNnJZcHFQTjlCby16dFEwVFVkYzZqNVhIV2NDMUNGOXBMLXBHZkd3ZjAxQTZRcWV2TW1naHRRUWhVcmRjSEd4d3FzcUNjYmtVY1VYNWRFSzZRbE03cEZXRDU1WGpFWWtReVFxVmpjRGZYcEM0bQ?oc=5
 - **Source:** Unite.AI
 - **Published:** 2026-11-09T05:22:04+00:00
-
-## Nvidia, Rebellions and SK Telecom team up on sovereign AI infrastructure - TradingView
-
-- **URL:** https://news.google.com/rss/articles/CBMi0gFBVV95cUxNX2RObXVpR3VEM0VoV3hEYXZVUGJ1T2JhMDlYNmM0cGNZeWtWTUo2dV9VcjN0d2lqZXJiejJZX3JNU0VsWXIxalNsXy1HY0x2RGlHSFhEMFYxdHNRUFd2RThfanNuVTM0OEFKZjBlY3FpWFhCQ2N5RlVORDFHVHRkY3dpX3BGOG1SMkJpN0pQSGlJQzVfYVZTWVBoVXlzMjVhU012bU9UMlhlTjk3UFNiT1J6X0UzbFlRZEtnaXRDNlBNT01yNU9WLWlyNHlKT2UwbVE?oc=5
-- **Source:** TradingView
-- **Published:** 2026-11-09T05:05:55+00:00
-
-## Air Jordan 4 White Cement On Feet - Air India unveils new brand identity aircraft livery Company Business News - www.auroradesio.it
-
-- **URL:** https://news.google.com/rss/articles/CBMiUkFVX3lxTE5qX0sxNWNacUhJd3F6UW9MNFRHQmJ6T0NqZGlqYWZZVnFUX1lJYXFZWDhfSmJLY3U0TkFZWHdIUmExWEJZZ0FmLV9kTjQ3LWFqRnc?oc=5
-- **Source:** www.auroradesio.it
-- **Published:** 2026-11-09T05:02:38+00:00
-
-## NVIDIA, Rebellions and SK Telecom Announce Collaboration to - GlobeNewswire
-
-- **URL:** https://news.google.com/rss/articles/CBMinAJBVV95cUxQYUFGS0dBVjYwVFBfSENjLUJ5aXJPSFV1LUhBRTFGTXpvS2Q5ZlZNQThzVWg2b0UxNjNoRG8zay1Xdk10ekNaUG45ZWltZFpQdENNUlpLelBYZUpXMnc4bkpKZ0ZkUjZncTZ6dlJxZUtGZDlEOFRoYWhTbklxTzZJT0twaXhFYnY2SnVaLXZoRE5Jc0IybTJmX1hYYWQwRGd3bVd5UGFrT1VzRm1XdVl5TTI4Xzg1RG5wZy1KeUZ2eU55N2IzVm90TEtKVHlfck5kN3RtY0RhdUI4LV9BelZ1ZTlHZzNzSWVfX1FoM25fWVJaZXBFVkVJU2ZjdW04SC0yZ2FseW1mNHVMN25OUklsRnB5djhjUGZ0dXJVZQ?oc=5
-- **Source:** GlobeNewswire
-- **Published:** 2026-11-09T05:00:00+00:00

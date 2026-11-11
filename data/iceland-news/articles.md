@@ -1,8 +1,44 @@
 # NewsWatch — Iceland News
 
-_Last updated: 2026-11-10T20:43:04.072984+00:00 · 50 articles_
+_Last updated: 2026-11-11T01:43:52.602086+00:00 · 50 articles_
 
 ---
+
+## Euro Truck Simulator 2 Releases Iceland DLC - Inven Global
+
+- **URL:** https://news.google.com/rss/articles/CBMijwFBVV95cUxOeDFJVjM5ZzNvN0lPT3Q1QXpQTDVDVEJBdzBDVWczb0FqSThkZ3FqRnVhLWs1dlEtY0RQWm5aZmdCZEhub3B4ZndBR3owRnNzS0ZvX3JkS19EYS14TkZUWGZDeWc4aXZad2dJeW91UDlheTJNR0FMbEZ3Q0VTUVJkMHEzYmJ1RHBORHd4d2gwbw?oc=5
+- **Source:** Inven Global
+- **Published:** 2026-11-11T01:15:44+00:00
+
+## UI hand-built bike course leads doctoral student on Icelandic expedition - The Daily Iowan
+
+- **URL:** https://news.google.com/rss/articles/CBMiqwFBVV95cUxOblRDcmthYXliaFJfZHFfckIzS195SDdidk8zelJLTGt0U2NYWlNaQkRpYVlKRmZBblNvdS1wSWtPYllLaXg0ZWthSER3UTh3REVldFBpalNuS1NwUjBIT1lBUkRvRERRc2hvaW5CSm54Wl9zMjc4OVhLSjkxYVRpZ19jNEREdG5EUlU1THZucXpqU2wxS1d1VXRUVmV2THJEcVRUc3A2eGJaejA?oc=5
+- **Source:** The Daily Iowan
+- **Published:** 2026-11-10T23:55:14+00:00
+
+## Best Places in Iceland To See the Northern Lights: A Study of 89 Years of Cloud Coverage - Guide to Iceland
+
+- **URL:** https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTDE1ODc5OXJSWTdlUDlLMGFtSWJyU3Y4R19lbTM2RWlZaTdfVUlSdUN4NFhxNVFRWW1hamRYSVRYbmQ3M3NYa1NqSUQ3VVJRYmxFVmpQM29aTVNvRHB0NWlGTkhmSGpuX0thUDRtVm4tbklfUlgzOUtzU2pUb3dhTE5zU3ljZkF6ZS1hY2JLU3c0ZktIX3pGMTZfNHBBdjdManBaOWl3aHhTUQ?oc=5
+- **Source:** Guide to Iceland
+- **Published:** 2026-11-10T23:04:38+00:00
+
+## ▶️ Signals - Phone call scene (Drama) - IMDb
+
+- **URL:** https://news.google.com/rss/articles/CBMiUkFVX3lxTE5ERkZyMmNkaEpUMVZzUVlMMmJSTnZyaDdvOXR4ak4waG9OdU5uWlBBb2lxSUZVaTRNVkZqcm1FcjRLTEQ2amZycHdMSUw3SEc0LVE?oc=5
+- **Source:** IMDb
+- **Published:** 2026-11-10T22:13:33+00:00
+
+## Zelensky meets with the heads of government of Denmark, Iceland, Norway, Finland and Sweden - Mezha.net
+
+- **URL:** https://news.google.com/rss/articles/CBMihAFBVV95cUxQNG0wX0JqZks1SmhYazZPUVZWOUxEcndmc2FBNkNiM3ZNNGRTSEVtSi1Wc3pOQkQ5SFZ3T2FvaUIyRjRmOVlCX3d4N1hvaDhvdjlGUDhFYnQ3MVhmaWhROEViT2V3YVl1cVZIeVNvcVhtTE8yU2p3ajB3NlVidzVyTE1yTEE?oc=5
+- **Source:** Mezha.net
+- **Published:** 2026-11-10T21:59:02+00:00
+
+## Iceland U21 v Greece U21 Odds - FanDuel Sportsbook
+
+- **URL:** https://news.google.com/rss/articles/CBMinAFBVV95cUxQNDd1dlh3aUdQc2QyYXByQzlwSTFWU3N1ZC1oQ0J4N0V1dnZ4dWNqZU5nc0ZsUXhROW5Zbk1WQy1FbHVSdmtDeldSd2plNVFwejg3UUM3SWZ4SkRlbEdNalN0TlZMS2J6TGN2RkpyLTEwMlRHTnJkdXNJc2J0cWhNY00tZy1LM1NqSHA5VHR5VFk1T2RsZnM0cW80bHA?oc=5
+- **Source:** FanDuel Sportsbook
+- **Published:** 2026-11-10T21:47:32+00:00
 
 ## Why Would You Ever Get Your Haircut in Iceland (DUDE EDITION) - Iceland Review
 
@@ -267,39 +303,3 @@ _Last updated: 2026-11-10T20:43:04.072984+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMimAFBVV95cUxQT21zMk05Z3JtVkVRcVpSal9SZTdUaFFsT2pPeTZHYmU2MnN0cEJUa3RPSWRZYUI3RmgtcXRlOHlUOEVJNHNYdmZiUzZoUGVKX2d4b1JZV2dHWnE3MHNLcEZSNGNrS3p1OFI1TlJjRFo5NDM0OHVTLVk5eXdXelNpTGZXTVZaalJrdDFBczh5MGRlTzZzQ3BDRw?oc=5
 - **Source:** Iceland Review
 - **Published:** 2026-11-09T18:00:10+00:00
-
-## Brain tumor discovered after alleged inaction by healthcare clinic - mbl.is
-
-- **URL:** https://news.google.com/rss/articles/CBMimwFBVV95cUxOME82WmJPQ09CWHpIZ1c2U2ZJRG9ETzRCY1pQNlEyQkV0YjQ5SWlfRzRpaDJMOVFWU1BRV2pRdmJQc1J1RU94Q0VWanZFUFp0V0hqeU1zdWRPZzVGZ1dSeFJSMHJWMkpmM3JYTDFRVTJ6azZsTjN6anZLZlZJckdfTm94ellGaUUwckdjcEFnTmR3ejNmNjR0RlVYSQ?oc=5
-- **Source:** mbl.is
-- **Published:** 2026-11-09T18:00:00+00:00
-
-## Rhyme is The Reason to See The Great White Milkywhale - Iceland Review
-
-- **URL:** https://news.google.com/rss/articles/CBMidEFVX3lxTE5jNFVKRW9jVmFPU2tfSHRQSjdUOEVzWHJ1V0ZFSmtxcWk4ZUdYcmF6WVhVSk1RYkVkeV9yeW4yX25iR0ZVWEY0S2thejJXQUpKbVd6a1pIc2pFSVY1SENTdmgzWWU2R0ZmTjZEUGVFSXdBZVJK?oc=5
-- **Source:** Iceland Review
-- **Published:** 2026-11-09T16:30:44+00:00
-
-## Hydrovolt and the Icelandic Recycling Fund to collaborate on end-of-life battery recycling solutions in Iceland - Batteries News
-
-- **URL:** https://news.google.com/rss/articles/CBMi1AFBVV95cUxNTUNaR3FzTnJJOXNoZjVCQVY3Z3dQWFlKMjVxSU1HS29Ydi1CYzNBTEpIZGE5R0pMSlN2SjcxYnBNMGN4X0VZdjEwRVZpU0FpemtjMGRocV9WbjV1UkVKMUIyVUNoak4xU1g0LVdnRFJYTkRpcFFmSG1IUXhhZGhBYV9fSE9sNHRJajFEMXJ2d2NDZWxlSHdScjJzaTNjUjRhT2ZIMXY4YXhOYU9uOU9sVVl1eWtzV2k2Wmk2a2FnWnYyOVZaYU92bkxicFJ2cXBpZDhOdg?oc=5
-- **Source:** Batteries News
-- **Published:** 2026-11-09T16:23:52+00:00
-
-## “Reykjavík is becoming known as a prostitution hub” - Iceland Monitor
-
-- **URL:** https://news.google.com/rss/articles/CBMiowFBVV95cUxOTnE5dVlWUVBhNmpsSTVNXzBlNzJTMzBaUm5Od055RDYzS1FfVm5vNDZlSVJZRXJjeVduV2VQYWhkUzBpSTFtRGRGd0JKN0VjQWkzRHlDYXprcml5Q3RhZ0tCVC1HUWJEQmVULUhNMHItRmNHRW9meUZfMWVPUWk4eGVWX1l5Y0xKMU85OV9qSV84b1BPb2Y3bmJaUXRXTTRVakVZ?oc=5
-- **Source:** Iceland Monitor
-- **Published:** 2026-11-09T16:00:00+00:00
-
-## Faxafloi U19 - Iceland - Competition Profile - Playmakerstats
-
-- **URL:** https://news.google.com/rss/articles/CBMibEFVX3lxTE9nb2JLdGc3Ym5jcHhJUU1GRERxNVNQMlJRMzhjT0tOX1NWa1p3OTBnaXJKam9pVzNsTWZxSzdiVWhSV0lVTFNyUXZCZ3FveWRyb1cwbTBBeU9xcGc3bGJNOExfa1lYS3RhYVdMYg?oc=5
-- **Source:** Playmakerstats
-- **Published:** 2026-11-09T15:48:47+00:00
-
-## Highest STI rate in 40 years in European country visited by 230,000 Brits every year - Daily Express
-
-- **URL:** https://news.google.com/rss/articles/CBMihAFBVV95cUxQS1otRHlMam13VDhmM1N6bmJfRzVnaXdkREg0b3V6Z2VJMFRMOVhnVmwzUEtkcXZVRWZtQTh2M2pJMThHZE9IM2d6cERwczZkaFNVV0l2RWc1VWZCd1h1RnZuV243Mld5Qk51LXZuTll0c1F1Q3RJSFl3MlNnMGdNZDJiZkjSAYoBQVVfeXFMTUJQMExSRXFpTE8tb0ltVUVZN0NKaTNuZjBKTl9QOXFIb2J0ay13UTlOcnlLc3pUU1cwRnZlTXZLUS0wVzNlZ3JOVkg4eUVIM1NYZDRuTnpjYVFkeWYwTGJsZnFRLWwtbzV5YVhSMGxQQWM3TkFISjB1S3p3UGtIbmpBQ3oyblhzaHF3?oc=5
-- **Source:** Daily Express
-- **Published:** 2026-11-09T15:25:00+00:00
