@@ -1,8 +1,56 @@
 # NewsWatch — fusion energy News
 
-_Last updated: 2026-11-11T01:43:52.990815+00:00 · 50 articles_
+_Last updated: 2026-11-11T11:42:44.367274+00:00 · 50 articles_
 
 ---
+
+## My Skeptical Grad Student Take On Unlock Stable Energy: A Reality Check On The Future Of Power [tlhBCIwO97Y] - WRMJ RADIO
+
+- **URL:** https://news.google.com/rss/articles/CBMiUEFVX3lxTE5ET2w4R3Q1VzJfc2Q2NGJtYTJnZkpiZWJBbFZ6blJvbmw5NkhDWTY1ZGlLWmcxZ3FORS1HVVZTdkdkZUwwclllbHZoa0JRdlZN?oc=5
+- **Source:** WRMJ RADIO
+- **Published:** 2026-11-11T11:39:51+00:00
+
+## New £1.5m centre opens on Infinity technology park in Derby - BBC
+
+- **URL:** https://news.google.com/rss/articles/CBMiXkFVX3lxTFBHV01MazdZQkQwQVdqQjh6Y3dUMU8xUkpRSTZ5NWhpckFoY09sXzI1cTBoTl9wNFQ0aXhjanVYWmQtb3ZISHBxeFFvbmluVnJrQnFIbUJUMXQzcUpYbUE?oc=5
+- **Source:** BBC
+- **Published:** 2026-11-11T10:49:14+00:00
+
+## Google’s AI agents write quantum algorithms in Lean and prove them correct - Quantum Zeitgeist
+
+- **URL:** https://news.google.com/rss/articles/CBMiekFVX3lxTE91MWR4VE9WUnJaRUVIT3Fvd0hGeWtMekdOZjhEQllKMG5UNHZmRVJpRG9PZFBNSldUWmZ0ZTlmbkRsRGM2bmp0R2lkSE9mTmc2Y2tLdzBkRl90TTMzNXJ3bHdtSzlXa3o4RTBJbk5qZTBhX0xNZUx1TTV3?oc=5
+- **Source:** Quantum Zeitgeist
+- **Published:** 2026-11-11T09:00:00+00:00
+
+## [Big read] From underdog to deep-tech pioneer: Will Anhui’s bet on the future pay off? - ThinkChina
+
+- **URL:** https://news.google.com/rss/articles/CBMirgFBVV95cUxNekVEdkpBdzZkOTY3ZTZhMXFuNVhRaDlscGUwQVJod2FCRV82M1pZR1BvTjNtdTVBY1VBUGZGLTQ4NnRJM2lGLU1UTzhWckhxN29HOHNZWW1kQl9zSjVwTlo4M09QaTZReVE2SU5pTkxSVTVvQ3R3OFRyUEVyV1hUeHhYaFN4RXNLS0NhR25WUkxqblh0dmhEVnFrNW1vMUpPbFp3NVlPb252RzIta3c?oc=5
+- **Source:** ThinkChina
+- **Published:** 2026-11-11T07:39:02+00:00
+
+## Is the U.S. Finally Fighting Back on Fusion? - RealClearEnergy
+
+- **URL:** https://news.google.com/rss/articles/CBMingFBVV95cUxPdG9jUnl0dWNjSWdJN0NoeE41cWFfcW9XeV94R040cVNDcmJaZFR0ajhKaTVwUFBkQVRkaHdCeUwwTjNTUnhQQUdIVDBUbDJBWklGbHVqN1JZaTJGdUlqTURlTnFwWFZHTjRiZnowRVV1bC1HSGtRM1VWeXAtQWdCTk5wVFlYUUhlai00bTVkbGZyMUtiR0U1MHJaWUdYQQ?oc=5
+- **Source:** RealClearEnergy
+- **Published:** 2026-11-11T06:27:17+00:00
+
+## Europe’s nuclear revival: the hidden cost of energy security for the AI boom - Sustainability Online
+
+- **URL:** https://news.google.com/rss/articles/CBMiugFBVV95cUxOMTBJUjN2RkhjOVhsTDhBX3dpNVUway1DQVNjTUJHNXFKZUNQZmFfUGVEVzE0NHQxbE05cmJzRmFoQlJHWEVCZ1BUZjRWUEJac213RW0xakRmeV84UlAtZ1dJUHZUemZRNTc1QlRKMDZ5VWtzeXM3WmtYLWs4ekRKbERYWnlRa0p5TWMtLTdaM0NXZi1uTkxQUWhIbkFXT3V5OUJHaUNhaVNRMERPeUpHRXBWSmgyUHpILXc?oc=5
+- **Source:** Sustainability Online
+- **Published:** 2026-11-11T05:02:51+00:00
+
+## Auburn physics students take on new questions in quantum materials and fusion - Auburn University
+
+- **URL:** https://news.google.com/rss/articles/CBMijAFBVV95cUxNNndqQ2dQN2NBNExvQ0ZvYkFhNjhxTEQwOUpQQ1pXeXA3YXVYb20weldJR3RSbXFDR3ROaDUzNVRSc0Jtd0FUOFlnX1lmWnNDakJHNFdCUEhIazIzVXBMdjd0ZzRUOGFlSTdjNkpIYXdoZzA1RHJFNlp2Rk12SEs3ektNbk9XZWZzQzhaQQ?oc=5
+- **Source:** Auburn University
+- **Published:** 2026-11-11T02:37:30+00:00
+
+## Who Pays To Keep The Electrons Cold? – Analysis - Eurasia Review
+
+- **URL:** https://news.google.com/rss/articles/CBMijAFBVV95cUxQb1dKaXhxQWsybW9HbEhENmIwN09HOFo5eG9xU1B6dzlaRm9fYmk0NXExaVBQbVpvbUFKamRRWFlEV2YtNTltTVVVZDNJNjVCNlFrRFFCc2hyT2pKUmFqdDNPTkZmMmRqdFhhc2EtaWV1TmV4X2o0ZHRnbDE4bkZmekVnN01Uck05ZXdobg?oc=5
+- **Source:** Eurasia Review
+- **Published:** 2026-11-11T02:01:21+00:00
 
 ## Indo-Fijian fusion meets Melbourne energy at Uprising Music Festival - Fiji Sun
 
@@ -255,51 +303,3 @@ _Last updated: 2026-11-11T01:43:52.990815+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMid0FVX3lxTE1ndllyWnlwTDlsUGJ3cjFpUWoybTk0M2Z3VFplSFRSZTdNUW1CN1R4bEdnTWlPQ1hMb0l6WC16enhfRDExamVwbWJZcXRyaTE0RGVFSGZzU2MtcGFfaVZQTVFQY0o0M19xSEZaY1Voa2dyTDBRLUtz?oc=5
 - **Source:** The Korea News Plus
 - **Published:** 2026-11-09T09:24:29+00:00
-
-## Nvidia, SK Telecom and Rebellions Partner to Build South Korea’s Sovereign Heterogeneous AI Infrastructure - https://streamlinefeed.co.ke/
-
-- **URL:** https://news.google.com/rss/articles/CBMi1AFBVV95cUxPMkFJV3FkaE5lNTBqaE9RTTl6YmEzelZsejNTc3ZMWHQwQ1FsLTluVTMzV3lIWTFXWFNhbl9nczBWWnozQ0JQbC1VVFp0ZXJjb3JnNDA2N1RhSGEzdTZJTFBlalpVT2JMajZUaEFickRsampZbzZGSTBUMFNEVUMyM0ctUUxZMEFFVUl2eGpiZUktSnJTdm9UNUFmZUVJNXhPZk1FQ2tlS0VZeU5JekNicFp2cDVFSl83U1ExaGE0bUhZZlpaZlNWMEZCV3h6aWJlY0NXVw?oc=5
-- **Source:** https://streamlinefeed.co.ke/
-- **Published:** 2026-11-09T09:23:50+00:00
-
-## Air Jordan 12 Retro Chris Paul - Air India unveils new brand identity aircraft livery Company Business News - auroradesio.it
-
-- **URL:** https://news.google.com/rss/articles/CBMiUkFVX3lxTFBBUXlhS3Z4eXhTaGIxSlZzMmtGZkFsVTlCUmFuTmgxQWdIZjNxRUtLdGxVdUhkOGhaTmROd0NYeHRFU09Rdi1LWllsVDBjUVBHUmc?oc=5
-- **Source:** auroradesio.it
-- **Published:** 2026-11-09T09:05:12+00:00
-
-## Deep Fission, Inc. (FISN) stock price, news, quote and history - Yahoo Finance UK
-
-- **URL:** https://news.google.com/rss/articles/CBMiUkFVX3lxTE0tbTRkR2VYZ0pxNVFvcENLMW5CUWZNRHoxLUpyZnQ0eU14bURBZUVGdjVkdXZ4TjlOUlI2b1VZM19sYU9aeURmM0t2Wi1kRFJUU0E?oc=5
-- **Source:** Yahoo Finance UK
-- **Published:** 2026-11-09T08:59:09+00:00
-
-## HKU Engineers Build World-First Power Module Using Emerging Semiconductor Material - The University of Hong Kong (HKU)
-
-- **URL:** https://news.google.com/rss/articles/CBMigwFBVV95cUxQMUhOZkpCbHRhQTY5dXNPZ0dxWjBDWE9Sd1d3NFNwMHpST2QxYTBPQ3ZPaGU4TzRXZW9JdlBncXNhbmQxYTJvZDlFNHgteGQxVXVFOVBRYWdlLXlpaWR1QzhoT2QxeGZ5VUNCR3dTOHZpcXdGei1HR1lSLUhidEh0dmd3UQ?oc=5
-- **Source:** The University of Hong Kong (HKU)
-- **Published:** 2026-11-09T08:02:00+00:00
-
-## Air Jordan 7 Pantone On Feet - Air India unveils new brand identity aircraft livery Company Business News - auroradesio.it
-
-- **URL:** https://news.google.com/rss/articles/CBMiUkFVX3lxTE03VXNhS2E4T2FvYWRtV2R0UEQ4YlBFeUxzQ3UwU254WERSc2h2bllON1I2XzdmMVR3a1h2ZEpmS2dWanQwMWlQZW1pcGk4T0RSb0E?oc=5
-- **Source:** auroradesio.it
-- **Published:** 2026-11-09T07:19:41+00:00
-
-## Germany and Japan are preparing a commercial nuclear fusion power plant - Informat.ro
-
-- **URL:** https://news.google.com/rss/articles/CBMimgFBVV95cUxQUTFsZGJBMlhMMFFkT1J2ZGs4VzZtanZFeEdQd2JMOE5QYnVPTG5XZ1FTZ0NNVXpJV0x4Ny1Vb2Jub1B6UW80TkZpOEJabUxRRlhMWmNndlhBdk1ZR3BDOVgycmFTemktTHhCSGhzdm5LR09qTXpkdUctZWQ1Y3NZcDZUdXVOZHBFdnBCdkxwN1BBc3VsRGVPZVpR?oc=5
-- **Source:** Informat.ro
-- **Published:** 2026-11-09T06:51:27+00:00
-
-## Rolls-Royce Submarines forms landmark partnership with manufacturing and technology park - Insider Media Ltd
-
-- **URL:** https://news.google.com/rss/articles/CBMi7AFBVV95cUxPejhoeURCY2oyZl92Wm1KdUpQT1VFZ25rUVBwQXdpX3hKemJLUE5WTkhkVDMwTEFPNzJGMVJfS0VaeWJ2RVRVb2pBeVFpMDhNeTM2NHZGRndWbG1tZTdWNmh0V0lZb2xQZWpEZVUtekFndy0tNmE3MUhfeWM3T3pqUU0tWEZDNldKNkt2NHQzek13MDdqYU1JSkFDc1VvMTBoR3pRNTBVQ2hxb0J1YlJqRlBveVRjRGJIT3Nvek9kUWZWdkYwbDdqVWF6cTI4VnZLbzdaYkJvVVN5MlppMVVQZ3BSLWNLU195TWZ2WQ?oc=5
-- **Source:** Insider Media Ltd
-- **Published:** 2026-11-09T06:12:23+00:00
-
-## Rebellions to Use NVIDIA NVLink Fusion for Korean Sovereign AI - Unite.AI
-
-- **URL:** https://news.google.com/rss/articles/CBMijAFBVV95cUxONEhZQzVFQlkyZjc2X0dXazducjUydVlaNnJZcHFQTjlCby16dFEwVFVkYzZqNVhIV2NDMUNGOXBMLXBHZkd3ZjAxQTZRcWV2TW1naHRRUWhVcmRjSEd4d3FzcUNjYmtVY1VYNWRFSzZRbE03cEZXRDU1WGpFWWtReVFxVmpjRGZYcEM0bQ?oc=5
-- **Source:** Unite.AI
-- **Published:** 2026-11-09T05:22:04+00:00

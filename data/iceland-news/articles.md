@@ -1,8 +1,80 @@
 # NewsWatch — Iceland News
 
-_Last updated: 2026-11-11T01:43:52.602086+00:00 · 50 articles_
+_Last updated: 2026-11-11T11:42:44.025880+00:00 · 50 articles_
 
 ---
+
+## Slogans painted on Bandero - Iceland Monitor
+
+- **URL:** https://news.google.com/rss/articles/CBMimgFBVV95cUxNN0h3UjliOEN2X2dLUlhFdW1Wc0xqRXgxZndxYjg4bDVxNmg5NTJMczY4U3h4QUFoUklKLTBlLXA2Q1JSYk1fSHhLbi1RYTBHaWIyVnhiTnhPcVo3ejJpQzl5WHJjTHFKVjZ1ZHR6Vnh3Ykpzb05lYkFJUThYa1JmMzF0X0tCQjJLZVpWaFBFdWt3Ty13SVNtajJB?oc=5
+- **Source:** Iceland Monitor
+- **Published:** 2026-11-11T11:00:00+00:00
+
+## ‘Devastation’ as UK ready meal supplier stocked in Lidl, Aldi & Iceland collapses into administration with 662 jobs axed - The Sun
+
+- **URL:** https://news.google.com/rss/articles/CBMiiwFBVV95cUxOOFdzUWphQVpRakJfZkgzQ0pQanFhNTNrYi05WGU3SDR3NENUb1ZWQ0NFX0wwMGdNSFlWSHdFSEFxMU1UdVpFTTN0RUxwdkNsWnRaU1h1SGYyM3kxWjlaYmNXeVA0UHQwV3FJZ2tTWGt6QnAyTjg4RFBiMTE4RmF0YlNnZHJ2VTIyN2VV?oc=5
+- **Source:** The Sun
+- **Published:** 2026-11-11T10:48:00+00:00
+
+## Euro Truck Simulator 2 Iceland DLC Is Out Now - BoxThisLap
+
+- **URL:** https://news.google.com/rss/articles/CBMieEFVX3lxTE5nZ0hXSDIzbW5tdC1seEU4b3MtZkd0NkFJMl9WT1ZxMjRLemtQRnpwNGRGWDBmNFpWRTBZRUlIaW1lRS0yV29TeVBPN0NhQXV6bFRRYUdSNGdObF9NSkZ1dTFCaS1JLU15aHNMVkphTXNuM193b0hURg?oc=5
+- **Source:** BoxThisLap
+- **Published:** 2026-11-11T10:21:05+00:00
+
+## Icelandair Announces Direct Akureyri–Tenerife Service - Iceland Review
+
+- **URL:** https://news.google.com/rss/articles/CBMijAFBVV95cUxPVkRoaG9CZHhPZFJDZ3ZRU3E3M0lHTmhkdEVjblU2Ti00WmplVndGZzR5NmZxN21UdDVhQ3lmRU1mSVJ1bHhjRndFRXJvRGs1Nm9veHM2WHN4Q1V4eVZmNnYycUlaVnNyWnpHSkIxeXEzTDl1b3R1TEZjVTVtcHpvZHlRWUxWMTJYcG9Xag?oc=5
+- **Source:** Iceland Review
+- **Published:** 2026-11-11T10:00:05+00:00
+
+## The Best Whale Watching Companies in Iceland: A 22,000-Review Study - Guide to Iceland
+
+- **URL:** https://news.google.com/rss/articles/CBMiigFBVV95cUxNYUJuTXBpQkNnQWNBWjJlOVJNQjF0VWJ6RGFOSzB3VjF6THoteWhPYWlXeVhkRTFjQmVTeVpIMlpoWGc0a0NMbEdiQzhrNGRQSU82bWhwSk1JdlV0ck5QWWxpQ2ZpZmdpdl9Gd3ZLYS1vSWtPSnRwbkkteWpzaVlCcWFNeE5VSEdRc1E?oc=5
+- **Source:** Guide to Iceland
+- **Published:** 2026-11-11T08:40:11+00:00
+
+## Bulgaria vs Iceland Preview & Prediction | 2026-27 UEFA Nations League | League C - The Stats Zone
+
+- **URL:** https://news.google.com/rss/articles/CBMisAFBVV95cUxOajRuODc1LW9zRTQ3Y3dyQVJvNWpHSXlPVVdISzZEbWtRX3BKbXNnLTdGSGdfNVVRcWJvTzRjY0cyN2xBalRtQzd5TEk3akM3ekZmR0xURzFkX09rRk53Z0JzSUlMY3dKTllfX2V5SGo2SElDVmpZYnMwanpxSTlCeFctelJBUGxOYS1heFRCNGRxaUR0VHdNc2Y3Nk1pMWpvSHZFQ0ZvYVMxRnMwY3hjQw?oc=5
+- **Source:** The Stats Zone
+- **Published:** 2026-11-11T07:32:00+00:00
+
+## Yellow Weather Alerts Issued for East and Southeast Iceland - Iceland Review
+
+- **URL:** https://news.google.com/rss/articles/CBMingFBVV95cUxQd1ZXWlhfSUxwYnNKb3VNUjg1LVJoMGpKaVZmbHRVaW15VEhEQWVwUThzeUUyOFc5MHBHV2hFS0FvVTFBY1MzdWxDRTlSRVkyd1QzRzN0TmU0NkRkTGc1QS1qeFBiWldOVjFXR1FkZG1qOTdBcGJYZW5SZC1ON3plTWhuOGtVWTh1cUZKOUczb3Iwa0RBNXl3ZUp0VG96UQ?oc=5
+- **Source:** Iceland Review
+- **Published:** 2026-11-11T07:00:00+00:00
+
+## Magnitude 4.5 earthquake in Bárðarbunga - RÚV.is
+
+- **URL:** https://news.google.com/rss/articles/CBMiiwFBVV95cUxQeS0zYVM0ZU9qZ0FtMUNRcXVmZ1RuR1pRNUFYTURWLTI5QWcxN0pJTHltbDRFNXRWYWJYUTZYRDBDOWZKNGNxY000MVQteXZxNDFLRkJGQ085enJFYUhKcmR3aEJVZGpjVkl2c0R5MHJKOHNUQkpMbE92ZWxGWXFraW0yVFg2R25wSmtF?oc=5
+- **Source:** RÚV.is
+- **Published:** 2026-11-11T06:20:00+00:00
+
+## Sports Mentoring delegate from Iceland inspired by time at NHL - NHL.com
+
+- **URL:** https://news.google.com/rss/articles/CBMikAFBVV95cUxOLWttU1h4b0dhRS1fTkJUekxXWExOQjJRUlpPbEJPc2xaTkRJSFczZEFYRFZaYWhOcm1NdGg1SzRLdWlQcjNnd2p0OU5BTF9DY0xOWXFXeFdVMVVkbl9KeU90N3VRZ2E4dFpLa2RVVzZLUDFTcGtfX2xCcVktSnN3bkczblNpY3VNX0xVOFYxN1o?oc=5
+- **Source:** NHL.com
+- **Published:** 2026-11-11T05:42:37+00:00
+
+## Unpredictable costs from abandoned vessels - RÚV.is
+
+- **URL:** https://news.google.com/rss/articles/CBMikgFBVV95cUxQU28yaV9NM2ZWLTNDeEwxME11eEU5cE9QdXlERW1aUXo5LTIxdEZtU3Z3RWVSVmdLUS1SbGRNZ2pWRGVtQUtadjBZeS1iT3BnZHNEZVFvbW1aY3luWlVqZEEwc3VYZmtqbThmUjFUenFuVDltRVFfR0Mtc3Q4ckYxQ3RYMFlwMTNHR0hMcXlvWjRmQQ?oc=5
+- **Source:** RÚV.is
+- **Published:** 2026-11-11T05:21:00+00:00
+
+## Discover the film locations for Supergirl (2026), around the Cairngorms in the Scottish Highlands and in Iceland. - The Worldwide Guide To Movie Locations
+
+- **URL:** https://news.google.com/rss/articles/CBMiZkFVX3lxTE1USUEwakZRMEFZQ09IMEw1eFVfdVBtRUhDZ3dJaWhlNlUtelFfQ1B4OXN2UVhTY0V5SzJpSmNJNXB3UFVlZE1UZ3hwVmJ5ZVk3bzRkVXE3aWxkREhEQVpHWVdvMFV0Zw?oc=5
+- **Source:** The Worldwide Guide To Movie Locations
+- **Published:** 2026-11-11T04:56:40+00:00
+
+## The hottest product in Britain this year? A 2kg bag of ice - The Guardian
+
+- **URL:** https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUC1xX2J6bjVNWDNsUkxJQXA5LUVjbUw2MTNjMm9icEo2SWdvdXRheGtMU2s3aEhPTmlCWk9wMF9HeHJlT1hxWjJwaGl1c3ZROHRPZjc5MVh2dGV4TEFrOUp4bDN3ZUk1NTFhak9wNjE3d3hUWm9yU05vXzlGRm5Wa3ltTnBOYkQwMzJ0RXFmakM4dS1QbFJFOVNoYk1IZVVnZjJpWUtkSENFUQ?oc=5
+- **Source:** The Guardian
+- **Published:** 2026-11-11T04:55:00+00:00
 
 ## Euro Truck Simulator 2 Releases Iceland DLC - Inven Global
 
@@ -231,75 +303,3 @@ _Last updated: 2026-11-11T01:43:52.602086+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMiXEFVX3lxTFBwdkNrYUs1R0h4X1ozWmt0NkNOcnl5RVRNXzNIcWZ1YmNyaGNvWHNKYVRyZlJQWV9haWV0cC12S2x1TU1QUWllbUEzLWg3cEhpc2p3VTliVFZoSHpn?oc=5
 - **Source:** The Worldwide Guide To Movie Locations
 - **Published:** 2026-11-10T04:45:45+00:00
-
-## Study of the Best Northern Lights Tour Operators in Iceland: Ratings, Prices, & Cancellations - Guide to Iceland
-
-- **URL:** https://news.google.com/rss/articles/CBMiowFBVV95cUxQVWp5QkJxQ1p0ZlhiaVVXWGxTOUtDWHZ1MnZWS3JfZWJDX3R1Ulo1ZG5kZlh5OTQ2Q2pJTW85Q3NFTGNMZXBBbWpWRWJzOTZyT0xiWWt0ZXlmeXpHRzZ1SThvZnhCLXN5OS1VS3RLSXMyLXFQN1RnMlhILTQ2QTFxUzVEMXN0MmtOSXFnU3BZcG1wMHdTdERKTFN4d0ZIV0V4TEtz?oc=5
-- **Source:** Guide to Iceland
-- **Published:** 2026-11-10T03:37:05+00:00
-
-## Weak mag. 2.2 earthquake - Iceland: 2.7 km NNW of Geirfugladrangur on Tuesday, Nov 10, 2026, at 03:01 am (Reykjavik time) - Volcano Discovery
-
-- **URL:** https://news.google.com/rss/articles/CBMiyAFBVV95cUxOS0dfZHI0bVBuZkdIbkdheTA2YTctRUtSSlp1YzhUOERPZ28xN3BNbmZnWlNwX2NKelFMeXpUQ0xFSGQwbGtlX0Z4dW5nNm1xREJMWHlvMHNqLUFmWmFQVXdTNTFVUDF1dnNrYjFQMTVfTk15b1lYOEZWdWVVMk12ZnhRd1RwQnZHLXV0ZDdsU2J0Q2VQUFMzMTlYckctX0NMQndmTEotQTlvbUdjalNvM3F1LUFpcFRWN0JRb3h1WkxJMmVjT2VKeA?oc=5
-- **Source:** Volcano Discovery
-- **Published:** 2026-11-10T03:15:17+00:00
-
-## New Ireland head coach says 'door will always be open' for Claire Melia as she opts out of qualifiers - Irish Examiner
-
-- **URL:** https://news.google.com/rss/articles/CBMic0FVX3lxTE9GTXl6eHZQZy1FcnJYS2IteHRGTUF6dm5iWXQ2dXljNTNSUXMzVHBBcm9nc19PVDlJUVZROHNpaDMzNUNoLXp6LVNyNkZuYnpKOC1mWDRENVpsNDgxb2hHblMtRVk3WGlpZ1VwMXk0OTNSRUk?oc=5
-- **Source:** Irish Examiner
-- **Published:** 2026-11-10T02:45:00+00:00
-
-## Portugal-Iceland | Match info | Women's European Qualifiers 2027 - UEFA.com
-
-- **URL:** https://news.google.com/rss/articles/CBMilgFBVV95cUxOMHRmTHBfU2NDUl93Yk5CenpNaFFjSVd1LV84Tk0xS1N5V2VZXzFhaGlxZE1XajNoYlRuVmQ2eTRSMlZocDIzMXFPQ1I5LWp2TFZKQWtJNWQwMGlRczJlbjdfYWNBdzBnLVcyanJ4cmdLR1NkbXV0NlZISzlJUHNDRGlVODlsYndlN3o1Y01sUHlIRkR6T0E?oc=5
-- **Source:** UEFA.com
-- **Published:** 2026-11-09T23:34:58+00:00
-
-## U20 League A Women 2025/26 - Standings, Games and Stats - Iceland - playmakerstats.com
-
-- **URL:** https://news.google.com/rss/articles/CBMibkFVX3lxTE81ekdvR2tnNzl3ZEE5dENRbTZ0OE5qU0VPeGZ5Tl83QzV2R3A4TnhfR1h1VnQ1ZjkwZVBNVHc2emZPazR0ZXYxRGpwSlpQbS1PRGktZnc1Y0Q5alN0ZTg0Q3VvWF9Xc210cEd5bnBB?oc=5
-- **Source:** playmakerstats.com
-- **Published:** 2026-11-09T23:02:59+00:00
-
-## HMCS Ville de Québec Honours the Fallen of HMCS Skeena in Iceland - Pacific Navy News
-
-- **URL:** https://news.google.com/rss/articles/CBMimwFBVV95cUxNUEFyX0FxenJmV3VYMVVGZmJjVm1WbWNpRXg0YkVCb2xqVG14R0I4TjJ4S3I0OUFGMEZ4b3QxVU9zOVlOa3l5MUU0ODBZS3VBbU5hV2Z1QXc5VkFsak1lTFY2QVYwUWFFNEc4OVI1SVZjVlQ5LXlKWUdIMjVhZG9DS1NGNngxcVJsZXZvV3djSkVneVQ0TGlrRG9vOA?oc=5
-- **Source:** Pacific Navy News
-- **Published:** 2026-11-09T22:54:49+00:00
-
-## Euro Truck Simulator 2 sends players across Iceland for two rewards in its next community event - MIXED News
-
-- **URL:** https://news.google.com/rss/articles/CBMihwFBVV95cUxOV3hldlVCaHRDMzE4dGt4WUw3M1puOTJ3RTVvLVJxVTdDbmkxcE9ibzFFWXBDdlU0WEJOWWJ3MEdXUjhSUkJtb09OT3pweWNUMkdQVWpIRWRRQi1NNEI2T2NzdWk1OHRsc1BkaEo4V09rekhrX3Jjc2FpaUF6Yjdpd05uYURycVU?oc=5
-- **Source:** MIXED News
-- **Published:** 2026-11-09T22:20:40+00:00
-
-## Geoengineering’s Closed-Door Coming-Out Party in Iceland - Heatmap News
-
-- **URL:** https://news.google.com/rss/articles/CBMiZkFVX3lxTE9nd29IMnBCdEJhcmlKVW16VWFtZ1FRLUR4VjN4RmJvczA2eE1jX2J5WWthSkFRaDRBVlRqV2FfZlF0SGVpaXY0enRNZkowS3RsRmw4SU1BV2pYYmM0VG1mRlYwblladw?oc=5
-- **Source:** Heatmap News
-- **Published:** 2026-11-09T22:15:05+00:00
-
-## Highland Base Kerlingarfjöll: How Blue Lagoon Brought Nordic Comfort and Wild Trails to the Highlands - Hotels Above Par
-
-- **URL:** https://news.google.com/rss/articles/CBMizgFBVV95cUxQZzc5alpNMWtRSHdnQUpGNno4TmlkdmZObXlaLXkzUlV3MWROM0xmQV8yN1UyOVNuX1V1c2l4UGMxNHFrNTA2VW81OVdSemFJcWVNU0hhdTlUR1I0YUM0empYSGtTeFpyRjlOaVdzT2J0SzlFSTQ5N01rNmxQQjBWd1JJM2RxNFdTWGlVZ042TVhVUmZ5cURvdDFyNmRJZkJMdHN1M3prRFRMUmpQQjRZemliX2RVeFhkOGhTdlFVVjRNcUdaNGZJMmVvN3Fmdw?oc=5
-- **Source:** Hotels Above Par
-- **Published:** 2026-11-09T20:03:11+00:00
-
-## Brim acquires bankrupt Arctic char farmer Matorka after volcanic eruptions take toll - SeafoodSource
-
-- **URL:** https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSWRJTkhnYy1aTVJuY2t2X0xETVZON1g5dDBEWjBKNmRWSXFLTWowY1A0ODljMUg2Rnc5N0V6ZEc2YTNDRTJ5anpMMnpGOWlIeEl1OGJ1MnVfaklFeUxITUo3SFNBcm9PcTR1d2FjTWJ5bnZpTEQ4NGhQTnNBMWd2NThyOEVubm82bEU5UVNOZ3ZleXdITnZwRmxhZWxQcXRfaGxTZ3VtSU1WWUVIZXIwNjFSQS0yaW00cnZN?oc=5
-- **Source:** SeafoodSource
-- **Published:** 2026-11-09T19:55:03+00:00
-
-## Iceland-Croatia | Match info | Women's Under-19 2027 - UEFA.com
-
-- **URL:** https://news.google.com/rss/articles/CBMihgFBVV95cUxPejA3UHlZdHBnbDZ1MGNTTTVoUG41WmlPVEpVckZrX3JlN3FONk9aX0NsaWZwcFVtMjVSN2VPcF9ZNFFrRldTenhjVWtyYnViMkF4VllMS1F1eHJlY0J4TzhicTNiazRjTHc5NElsVDNjeVJOdEt2Nmt3RF9EX2NxNXQzc3l6QQ?oc=5
-- **Source:** UEFA.com
-- **Published:** 2026-11-09T18:49:07+00:00
-
-## What to Do This Week | Iceland Noir, Italian Cinema and More - Iceland Review
-
-- **URL:** https://news.google.com/rss/articles/CBMimAFBVV95cUxQT21zMk05Z3JtVkVRcVpSal9SZTdUaFFsT2pPeTZHYmU2MnN0cEJUa3RPSWRZYUI3RmgtcXRlOHlUOEVJNHNYdmZiUzZoUGVKX2d4b1JZV2dHWnE3MHNLcEZSNGNrS3p1OFI1TlJjRFo5NDM0OHVTLVk5eXdXelNpTGZXTVZaalJrdDFBczh5MGRlTzZzQ3BDRw?oc=5
-- **Source:** Iceland Review
-- **Published:** 2026-11-09T18:00:10+00:00
