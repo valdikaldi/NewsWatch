@@ -1,8 +1,20 @@
 # NewsWatch — fusion energy News
 
-_Last updated: 2026-11-11T19:19:10.505154+00:00 · 50 articles_
+_Last updated: 2026-11-12T01:49:23.772238+00:00 · 50 articles_
 
 ---
+
+## Fusion's Next Race Is Over Superconducting Tape, Not Plasma - Yahoo Finance
+
+- **URL:** https://news.google.com/rss/articles/CBMimwFBVV95cUxOX011ejBQZ1A0VVozS0pQajlCcFhDRWo3ZlozNEc4WTBJYzNfQWRRRnY4U05UVDh2a3dxSlBOaTJvYlFHckpLMWdHUERoQXZOLU9YSFlDUEgyOGlEM3ozd21TQWxEY3hSQUYwajNJT0RIVk52V1RlY0x3dDJJdWN2NVA0QmFHN0R1UDZkZE5HekVvTlY1cTRQanlEYw?oc=5
+- **Source:** Yahoo Finance
+- **Published:** 2026-11-11T23:00:00+00:00
+
+## Green Laser Improves Gold Additive Manufacturing Efficiency - Bioengineer.org
+
+- **URL:** https://news.google.com/rss/articles/CBMijAFBVV95cUxOT29ob2JDSzZPdmY5ZmRpRHBidDdCYnBGYjRWX3Y1c3dzLXJVbDRtQzBiN0U4bUhEUm1mamZmYVZtY1JVX1RSOTE2ajBhdlBxeURZNWlnZE5qbm4zWnd6QkIyZnUzTzFqWG8ySFhlRWJJWkZTdTF5ZGVXak5aaTViUVBuUjZDRGVIajVJaA?oc=5
+- **Source:** Bioengineer.org
+- **Published:** 2026-11-11T22:27:51+00:00
 
 ## In Cadarache, France, a tokamak held plasma steady for 1,337 seconds on a February morning, and that twenty two minute run pushed fusion's endurance record up by 25 percent - Energies Media
 
@@ -291,15 +303,3 @@ _Last updated: 2026-11-11T19:19:10.505154+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMihAFBVV95cUxPdHR5cUNXNkJpN3BjYnEwVEU4QUxJcndiN0F4T09mQ3lWdzY5ZmlFRVpHUFVfb2Z4b3cxQWRMMlhEajB6MTgzcTZGNU9XSnlxcWQ5TGJaOTR6dFBic1ZLcjlQRGJtclI3ZDdOS3IzdUtzdmlCVkFXNC03Um1KUll5QTN2TXc?oc=5
 - **Source:** Simply Wall St
 - **Published:** 2026-11-09T14:26:49+00:00
-
-## ITER tests giant fusion reactor magnet with a current of 34,000 amps and a temperature of -269°C - Fakti.bg
-
-- **URL:** https://news.google.com/rss/articles/CBMi0gFBVV95cUxOT19vWHdEbVlTQ3l5TVFfbnYtWFFCTWNZcHUxVkhteFcwRVV2dWdXLXJULVFIaGhERkRaY2s0WlhoN3FaM1B3bTRuaXBBOVhUYTh2RDd0enFaWkxfRGNqclh0UldqTnYzUVhkcDdieDdUMHlTUEdIM2FHdTBMQVJ3eWdtdThyNVctNGlabkxkY2dKanIwbjN6TndCY3pRM2tvMXBhTE5LSzFuRlJ2S0k5YjZiMXNUXzgzYU1scXZvdFQ3bG1RVlNTZXRnLWptTmNjLUE?oc=5
-- **Source:** Fakti.bg
-- **Published:** 2026-11-09T13:35:00+00:00
-
-## American Fusion Inc. (OTCQB: AMFN) Announces Independent - GlobeNewswire
-
-- **URL:** https://news.google.com/rss/articles/CBMivwJBVV95cUxPblRBSi1IRU40OUZNTHdHUVU5VDFpanFWeU40cEV3SDR2ZjNGcVRsUzJJZ1BDQTRmMVNCLXR5ejVVQ01MaXAwWHpOVnJZQmkyN1JaSmRXZXNRMlhQRkVENVFuYnpBRVFtQnJXRXpZdHVvUmExTXRsd0QyWUM2Tndfb0tHcEd4RVR0eWlDcVNXYWI2LU8yQWJIbEg5LXFfcDVBdEN3WW94b3RqYnRZMzZmLW12elBWY3owTzQyT1hQajdJT3dKZjJaRzJxLUJ5QzltTUNwdG9Dek1DRXY1cW1EeUg4NmZFOTAzaVJ5QXdhb29GS2tUcDN2X3dDNC0yd0xJOElwSEZsYlFGaGpFUXBmQktxX093dFNrUU9kY3JucmZKODd4b3l4cmg4UFdYSThHc1ROTnNqQ2dITW9ZOUtN?oc=5
-- **Source:** GlobeNewswire
-- **Published:** 2026-11-09T13:00:00+00:00

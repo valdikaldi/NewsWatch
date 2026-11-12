@@ -1,8 +1,110 @@
 # NewsWatch — Iceland News
 
-_Last updated: 2026-11-11T19:19:10.102641+00:00 · 50 articles_
+_Last updated: 2026-11-12T01:49:20.862226+00:00 · 50 articles_
 
 ---
+
+## Iceland food chain backs dementia campaign with a cool £50,000 donation - Daily Mail
+
+- **URL:** https://news.google.com/rss/articles/CBMinwFBVV95cUxQdm9LU1JKMzhNZFRCZFc0NkhIdVZURk9NSldJTHdiMTZ3ZUF3N0xYdFV4bkxweGRJcFBuWXRKTHVLNlMwT2x3LU5vWXQ1UnBnMzZySGRIMEs0YkVPWmtnSi1yQXZKQWRDY3pGV2pJZ29sVWJqZENYbk0tZnZBVVprTktTN0F4U3JwYndDMnphWU9TRGhvY3VTUnlBTnhWWUXSAaQBQVVfeXFMUElHNzZoWFpJb0wzQ3dsbkx3OGxxYlFLdWUwTGZoUWZYWTZyc3lsMUI4LVJTa1g0OFlqVFRGaGtoWU1CSE5rTjdUcncxY1JHYWpIeXlNcEcwS3hQWU1hU01zbGEtbW9Zbm9nSlBycVZ0ZXdNQVFvYTJTa29Rcl9xRHZNenpRNDhXZ1U3R2NDNW5LV3NXUElNdUJ0emI5eFU0bmdlcHA?oc=5
+- **Source:** Daily Mail
+- **Published:** 2026-11-12T01:08:00+00:00
+
+## Iceland (u21) vs Greece (u21) Odds | Tips, Stats & Match Betting - BettingOdds.com
+
+- **URL:** https://news.google.com/rss/articles/CBMimwFBVV95cUxOZGxodlNhS1AtTm1iZWpVYnktbE41WmlfUWpWQzJSVGxKeVJIdE9ReVdpM0xDcmRTWFhnUFRYc01lUDJtZXNPVnNwYlBUbWVJZkRNVDFXM2FZNGRWM0FxMDlLd3JjbjV5QW95c3lxcFVidFYxZFVHbWJMUVdya1FmdmFLQ2d5eWpub0FUOGMxc3NfalMwMFZLTkNxcw?oc=5
+- **Source:** BettingOdds.com
+- **Published:** 2026-11-12T00:02:39+00:00
+
+## Mixed evening for Mayo native as Ireland suffer defeat to Iceland - Connaught Telegraph
+
+- **URL:** https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVlAtNnpBT3l5WTRzUmJwSzZZeExUbGxIT2V0TjloWERSVmc3aHpUcVpKTHpZZFB3ZnhUTEhtVkFTN1I1QWtmR1FlUktpRXliNTBEZldQRXlycHFRU1hrSUsxU1EzcFZlT24xVUVDMWIwSFEzdno2ZHVFenFSaGZHRVdwX013cjlsX1BjdkdSVHpwNVI1U0M1dXFJODIyeHJHbUtUUFBYYjRBUQ?oc=5
+- **Source:** Connaught Telegraph
+- **Published:** 2026-11-11T23:26:45+00:00
+
+## Ring of Bjólfur Stands In for a Viking’s Lost Silver Treasure on Iceland Ridge - freeyork
+
+- **URL:** https://news.google.com/rss/articles/CBMibkFVX3lxTE9PZ2VYZnY4Vy00RG01NlVpQUJVVk15RHVWcTlxTWpjc183NHdtRjIwT1dYcTBXUlo2MnhTZHh2WUVUQVNkYURvNzQ0em9FZVBRR3VKcXR3cXROQ29ScDF6cEZfeGJNd3pXY2l5VlJB?oc=5
+- **Source:** freeyork
+- **Published:** 2026-11-11T23:09:15+00:00
+
+## Ireland defeated by Iceland in FIBA Women’s EuroBasket 2029 pre-qualifiers opener - BreakingNews.ie
+
+- **URL:** https://news.google.com/rss/articles/CBMixgFBVV95cUxOSElqVFpqTEpsQzVkVXlpU1pIUTdja1BIUVZCR05hT1N0VlZidmdMbFJEdjgzang2cnl1eERGWEJHQXl3alUtR2VBVlpFaExSWWF6cjVOM1R0R1Z3eFBJaFJaaEcxUHhTdGJta25yYU10UnZIaWN2bTF0MWZfS1U3alRZNTI3ZWZ0Z3NjS1ZmQ3FUcmY3VFVXUFhZTEN2UDBrWXZsajRkNzRianBXYlJEWFhtX1JpTWx2QlVxYlFwaHRPallBc2c?oc=5
+- **Source:** BreakingNews.ie
+- **Published:** 2026-11-11T22:48:27+00:00
+
+## KR/KV (U19) - Iceland - Games, Standings, Squad and Stats - Playmakerstats
+
+- **URL:** https://news.google.com/rss/articles/CBMiXEFVX3lxTE5pRDZOVG1nMjdMNl9IQnk4Y2ZwVXIzYVZKTGktck9EWEpTYmh2ZXBNZE5Na2lzQWlOTTE2NElNNmhWQkpNWEZqZmdRWHhsQmtsWW5hUVpKQXFfUEJZ?oc=5
+- **Source:** Playmakerstats
+- **Published:** 2026-11-11T22:37:33+00:00
+
+## Defeat for Ireland in opening EuroBasket qualifier - RTE.ie
+
+- **URL:** https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNTVWMVp3YWhyM2lOM09hUUtXNXBPcnNadm0ya1RiWnlvOFRVUzlCMExOblRwelZaMWZWbVpabzBxekw1bDduc2hTZlE3SHR1X3NZTmdkbkxXaVlmd2JDbTY3N0ZYVTQ1ZnJVbWI5T0hmc05JNlRnem85UDZOeEduRUdPRk1GV0dLZG5CWkxmYVBsTk14OGw4dFp3XzNKVjRjb0QwSjJWa0Q?oc=5
+- **Source:** RTE.ie
+- **Published:** 2026-11-11T22:28:25+00:00
+
+## Ireland defeated by Iceland in FIBA Women’s EuroBasket 2029 pre-qualifiers opener - Irish Examiner
+
+- **URL:** https://news.google.com/rss/articles/CBMic0FVX3lxTE14UXpnQ3ZSRjEtZjJQdGNGbmhkUGZmbkNMdFBxZFQxSkpZcDk1enY4Wm0zMm9uQ21fRjdhbHJzWlhTSE9IajR1VFZ1cWE2cFpaOTNDa2ItYnRPbERUOUVTU25iVWQyblF4Uk9FdFhOSWhXOFk?oc=5
+- **Source:** Irish Examiner
+- **Published:** 2026-11-11T22:26:00+00:00
+
+## Bulgaria vs Iceland Betting Odds, Tips, Predictions, Preview 13th November 2026 - Easyodds.com
+
+- **URL:** https://news.google.com/rss/articles/CBMingFBVV95cUxQWFpzVlZfVjZZd0lTZ2ZhMVhlQ2xkUmJpQVBBSkVZQ3FpcmdjUXQzdU1qcEw2V3lIVjNmNXkwUktZT3FRMlVYVlVaY1hnM1Y4bHNQdU42MHFWS1JpSjN2WWY3TUFxeUVCcHozcWcxUThuZnRialQxcUtJV2YwUjltWnFSQmc1eERFV1I3czlkVGVqRHpITmlNaVlQamh6UQ?oc=5
+- **Source:** Easyodds.com
+- **Published:** 2026-11-11T22:24:42+00:00
+
+## Icelandic Ports Become Full Member of European Sea Ports Organisation - Afloat
+
+- **URL:** https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSUwxeno0N2RVd29za0NCNXdrakxyR3lPTXh5Q0FNODZpVXFmMGM1Z1lsY3UyMGlaTEhLNk1WX1dXZS15ZDZOck5QU2xmdmJ6b0IwN1NnaDhSYUJqcjdMUjZUVm1TZnVhSkI0eU1jWUU2NEpJREFIV2M5OUQ3Q25laVFTNTlGWFA3VU1uTVNxMnJZNG0zNnBkRzB4c2hsTFM1Ul9SM29qU25nZw?oc=5
+- **Source:** Afloat
+- **Published:** 2026-11-11T22:08:58+00:00
+
+## Ireland suffer frustrating defeat to Iceland as European campaign begins - Irish Independent
+
+- **URL:** https://news.google.com/rss/articles/CBMi3wFBVV95cUxQeUk2RE9tV1BKQWhOUUE1SGdwcWEtcE5ybUtQTy1oa2dILWxYVFV4VDZFWGN2S05QQ1JJeEhoQnFpSlUwRWJoZk9WSVJxX0QwOHNVNW9DVkdBSGZyQ2ZGS3lJMlZ6UWdOdy1tMGtaZmpWbjRNZS10SEtCc1dwQkdRVkFMQkxXbXBFenIxcGhyRzlOZmo2QjJCYjJ2Y3Z5R1JSQXhOVEE2aHUxZmt3YWFQOUV1OHlNZExVRjkyZ0NOa1VUTkhXMFNFcnQ5LVgtY01mZFIweThlU1dUVXFHWFhN?oc=5
+- **Source:** Irish Independent
+- **Published:** 2026-11-11T22:04:48+00:00
+
+## Iceland’s £5,000 Christmas giveaway closes 15 November – how to enter for free - Skint Dad
+
+- **URL:** https://news.google.com/rss/articles/CBMibEFVX3lxTE1INTNkMDkyOWhBM1hldzl1YnZOYnJFOHVlNWNQcGE2MW9EbGktMTkzNnA1bVlzZkxaVjdNZVFtUnltWUdEamUtdjZ5a0hnVWxVd2VrbGphYkx4M2E5aEtQbFA4ODJqbmVTUXpxWQ?oc=5
+- **Source:** Skint Dad
+- **Published:** 2026-11-11T21:52:00+00:00
+
+## Iceland biosimilars maker Alvotech's nine-month revenue falls 23% - TradingView
+
+- **URL:** https://news.google.com/rss/articles/CBMizwFBVV95cUxOMHJfOEIzMDdFalVsZVVFNVhmLU54T0JLc0NUUmxlNXdqWHNKY2NzeTlXT3A3WkxiNExxVzVpUjdqX1VLeUV1MjU3SmhkT2pReVhFZXo5Um9xWkU3dnA1Q2RjSEQyT0FDbXEwZDZxbE1MeE5YYXFYWEhOQVJBb19QSm1GS3dsTktRMnBqQzJubndyRnUwYW5qUFJ1TG5vUGx1bkF5cGNZWXZLWUhXU0xmVXBST3pJM0ZvYm9LSjdJTF92cWFGcXVEM0VhMTJEenc?oc=5
+- **Source:** TradingView
+- **Published:** 2026-11-11T21:28:42+00:00
+
+## Pangalos puts on a show for Cyprus; Iceland win a thriller - FIBA
+
+- **URL:** https://news.google.com/rss/articles/CBMi2wFBVV95cUxQaEpxb1BjTWdNOGp3Z19DYXpQT0xxWElLZkFhTzI4YzdDVG9ob0NXSDhrWEh5X0RVZTNCZ2I0ZE1iR0ZrR2ZhZFdIcGZoLWpsVGNCZEgzaDlfVFdPYXQ5Y2dXNXBiRE5sSDVPNUg3MldROEtveWU4WmJkZzFneHM3SnpPa19IS3MtNHRCY3lPVmFLa1Q5ckV4YjQtQU9PWkd6WE1TRjJBaXFmVUgtU1d6VWFTb3ZMYU1lTnN3eU83ZzNGOUt2YVg5elZNV19BRHBYbjY1b3NNRjFGaVU?oc=5
+- **Source:** FIBA
+- **Published:** 2026-11-11T21:22:27+00:00
+
+## Preview: Bulgaria vs Iceland - prediction, team news, lineups - Sports Mole
+
+- **URL:** https://news.google.com/rss/articles/CBMi0AFBVV95cUxQSFRGN2RQdUdEYTMzd2ZnQlpwVzU3cUhqTkNtMEw1Z0pkbVdXeXpQU3J0ODJ1bENZeGFBbjlPU1h5VjFJd05XMmExajM0Z3pBNlg1SmZTd0NGR3QtNXNYZUI5Wnc1ZDEwdjEzSU5Ga0NvczhLMlBhVnBBQnB5SnpXdmRzSmVaOTA5RXVONEY4dGstamlqblZpek9LLS1mX09lRktOamEya09pUlV2dDkzelk0Q3hyR1pVc2llNkMzZ1NYRm41ZllQRFU2bmVMakxZ?oc=5
+- **Source:** Sports Mole
+- **Published:** 2026-11-11T20:37:19+00:00
+
+## Prediction Bulgaria vs Iceland: analysis, odds and betting tips - BetMines
+
+- **URL:** https://news.google.com/rss/articles/CBMiwAFBVV95cUxQSFN4TWd1REJFQVZvTThYOS1paUhRdXljZHBlTzNyVXZ3eXV4dGw1TjB0ZnpSZm1zRkVDc0l6dV83SHRUOWpjcmp4WXRSczNrUTJ2WDR2blowOWR0R1VQXzNMdmZ2MnR1cHo5NkF3enpreDFLcW03b3F1UkQ2NmZDZDF6NlAxaHlkbVAxcTY5aGZWcjBwU0RlM2VURUJKSEtYMWhfc1hna0hNV3JSNk10dDBVT2t2UVFvbWdTeHg0M3g?oc=5
+- **Source:** BetMines
+- **Published:** 2026-11-11T20:24:54+00:00
+
+## Bulgaria vs Iceland Tips & Predictions – Points Shared in the UEFA Nations League - Freetips.com
+
+- **URL:** https://news.google.com/rss/articles/CBMifkFVX3lxTE0xc3pkeW90SGExR1k4RW01dHlfODZPeGl2Q2NXRnhxb2Yzek9SSmpYbnVXT2tJT3E2VHhmZVVMWEcwb3BFT0QzRjFtdzFhODhkMGlWbEp5UXdZb2dRbm5BM2RfbllSNk1wekd2bUhhT1owcW9Gd01qck5sRzI2UQ?oc=5
+- **Source:** Freetips.com
+- **Published:** 2026-11-11T20:12:08+00:00
 
 ## ▶️ Signals - Photo shoot scene (Drama) - IMDb
 
@@ -201,105 +303,3 @@ _Last updated: 2026-11-11T19:19:10.102641+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMijwFBVV95cUxOeDFJVjM5ZzNvN0lPT3Q1QXpQTDVDVEJBdzBDVWczb0FqSThkZ3FqRnVhLWs1dlEtY0RQWm5aZmdCZEhub3B4ZndBR3owRnNzS0ZvX3JkS19EYS14TkZUWGZDeWc4aXZad2dJeW91UDlheTJNR0FMbEZ3Q0VTUVJkMHEzYmJ1RHBORHd4d2gwbw?oc=5
 - **Source:** Inven Global
 - **Published:** 2026-11-11T01:15:44+00:00
-
-## UI hand-built bike course leads doctoral student on Icelandic expedition - The Daily Iowan
-
-- **URL:** https://news.google.com/rss/articles/CBMiqwFBVV95cUxOblRDcmthYXliaFJfZHFfckIzS195SDdidk8zelJLTGt0U2NYWlNaQkRpYVlKRmZBblNvdS1wSWtPYllLaXg0ZWthSER3UTh3REVldFBpalNuS1NwUjBIT1lBUkRvRERRc2hvaW5CSm54Wl9zMjc4OVhLSjkxYVRpZ19jNEREdG5EUlU1THZucXpqU2wxS1d1VXRUVmV2THJEcVRUc3A2eGJaejA?oc=5
-- **Source:** The Daily Iowan
-- **Published:** 2026-11-10T23:55:14+00:00
-
-## Best Places in Iceland To See the Northern Lights: A Study of 89 Years of Cloud Coverage - Guide to Iceland
-
-- **URL:** https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTDE1ODc5OXJSWTdlUDlLMGFtSWJyU3Y4R19lbTM2RWlZaTdfVUlSdUN4NFhxNVFRWW1hamRYSVRYbmQ3M3NYa1NqSUQ3VVJRYmxFVmpQM29aTVNvRHB0NWlGTkhmSGpuX0thUDRtVm4tbklfUlgzOUtzU2pUb3dhTE5zU3ljZkF6ZS1hY2JLU3c0ZktIX3pGMTZfNHBBdjdManBaOWl3aHhTUQ?oc=5
-- **Source:** Guide to Iceland
-- **Published:** 2026-11-10T23:04:38+00:00
-
-## ▶️ Signals - Phone call scene (Drama) - IMDb
-
-- **URL:** https://news.google.com/rss/articles/CBMiUkFVX3lxTE5ERkZyMmNkaEpUMVZzUVlMMmJSTnZyaDdvOXR4ak4waG9OdU5uWlBBb2lxSUZVaTRNVkZqcm1FcjRLTEQ2amZycHdMSUw3SEc0LVE?oc=5
-- **Source:** IMDb
-- **Published:** 2026-11-10T22:13:33+00:00
-
-## Zelensky meets with the heads of government of Denmark, Iceland, Norway, Finland and Sweden - Mezha.net
-
-- **URL:** https://news.google.com/rss/articles/CBMihAFBVV95cUxQNG0wX0JqZks1SmhYazZPUVZWOUxEcndmc2FBNkNiM3ZNNGRTSEVtSi1Wc3pOQkQ5SFZ3T2FvaUIyRjRmOVlCX3d4N1hvaDhvdjlGUDhFYnQ3MVhmaWhROEViT2V3YVl1cVZIeVNvcVhtTE8yU2p3ajB3NlVidzVyTE1yTEE?oc=5
-- **Source:** Mezha.net
-- **Published:** 2026-11-10T21:59:02+00:00
-
-## Iceland U21 v Greece U21 Odds - FanDuel Sportsbook
-
-- **URL:** https://news.google.com/rss/articles/CBMinAFBVV95cUxQNDd1dlh3aUdQc2QyYXByQzlwSTFWU3N1ZC1oQ0J4N0V1dnZ4dWNqZU5nc0ZsUXhROW5Zbk1WQy1FbHVSdmtDeldSd2plNVFwejg3UUM3SWZ4SkRlbEdNalN0TlZMS2J6TGN2RkpyLTEwMlRHTnJkdXNJc2J0cWhNY00tZy1LM1NqSHA5VHR5VFk1T2RsZnM0cW80bHA?oc=5
-- **Source:** FanDuel Sportsbook
-- **Published:** 2026-11-10T21:47:32+00:00
-
-## Why Would You Ever Get Your Haircut in Iceland (DUDE EDITION) - Iceland Review
-
-- **URL:** https://news.google.com/rss/articles/CBMiiAFBVV95cUxNb1hEMzcybkVSQVZDd19kZUJ6cXZ0NmhYZ21VUWlpN3B2QXI1RGlLd2tRQWYxVGNiRkxRS2tvZzJ2aGpOTk9hOUhkWllpU08xZkJoTHkwX0dDZy1fX1JBVzFXaTJJdlN0dkxTdlU4Zk5Pck5RY0h3SnZEUXVka2Q5ai1kcjZwNWx0?oc=5
-- **Source:** Iceland Review
-- **Published:** 2026-11-10T19:01:24+00:00
-
-## No Björk, No Shy: Shygirl Makes Her Iceland Debut - Iceland Review
-
-- **URL:** https://news.google.com/rss/articles/CBMiiwFBVV95cUxNcWFyNVhFUTJ4MFNpMC1LbzRNR0JpbWsxTDI3cmlpV1c5ZHdOZTJXVmhVY2EwT21rX1pxWHRGTV8tWVpHdzV3OG1uNDRDS0F2WVUxYWhhT2VDeWhUaGxmTXNmVlBFRWUtWHhwZ19ZVDZVQzFNcEo4cFJYV05BbXQxVHVXbVRhSVZ3Tm9B?oc=5
-- **Source:** Iceland Review
-- **Published:** 2026-11-10T17:13:56+00:00
-
-## “Breathtaking” Iceland expansion released for Euro Truck Simulator 2 - Traxion.GG
-
-- **URL:** https://news.google.com/rss/articles/CBMijwFBVV95cUxPejY3WGw2M2tvT2xCV3JKRmpDcTRGWUZDcnFUMnBJeFRoeXFpMGZBOTlIeGpTNnFwejRjbWFyUVEzdUkzWlEzYUtSd1FDSHpmdXFVb3VMVi1CZmZoQzVnN29oQ2pDYXdNa2lTbWZEV2tCMnlnc3QxVmM1MW04VHVwR3o4dzRIRTNCU2c0VzBrYw?oc=5
-- **Source:** Traxion.GG
-- **Published:** 2026-11-10T17:07:10+00:00
-
-## Major UK Supermarket gives away £5,000 before Christmas - Daily Express
-
-- **URL:** https://news.google.com/rss/articles/CBMikAFBVV95cUxNRU9ZRzlKYTYwenV2cE5UVnp1LUYyekxYQ3VCMXZQVldQeFNJd21fTVozYmVWem9IYkZRaGl0b2tUaUdSOTZ3N29SQVVRMXM2ZjMybWk2bmVqd3RCNDJsOFF3MlREdXRlazRCNmg1UkMzbUdpTm1Oa0RTdEtxdEZTd21TYUxYb2RWZEJJN01UdHbSAZYBQVVfeXFMUEhXMjNxcktWeVhJMFFsVkpsaW9ybkFONzJtNVUzeGttcHNvU2pGQnlFSEpIOWkxNUl1VEgzRlZHTGJiaUY1cE9DSWZiendQdEI3S1VOMXNkQ0ticVB6TkIwSEk4ZWhBZlZQVlJ0aFRrQmwzci1YTC0xTU01TEs0ODdxWlo4NTdDaUQ3dEFUemk2OExCNlh3?oc=5
-- **Source:** Daily Express
-- **Published:** 2026-11-10T16:57:00+00:00
-
-## Euro Truck Simulator 2 Iceland Is Live: Map Details, Ferry Routes & World of Trucks Event - Racing Games
-
-- **URL:** https://news.google.com/rss/articles/CBMiwwFBVV95cUxQUnZHeWNIalhnNzZOWHRlVWpzclAtMy0wcjdoWDdSZ1NnRFBsMGpTX25UN1lLNWFRX25iVm5VRGdTeWtWZWFrdzJYWnBrZnk4aVFDd1h5MVA2b0NpLTNVbksyd3M5UFR1cU8wQ2lhd2RQNFE2Y29Qb2hIU2J1UTFCZmpIcG1Zc2duZ2hYcDJmVjMyWkdhN0o5RTNKMVRqdmtRVjBMbHpraHVkWFhkRkhmcXp6RU5hMThUVDc4NDdBT3ptdHc?oc=5
-- **Source:** Racing Games
-- **Published:** 2026-11-10T16:02:12+00:00
-
-## How a tiny island took on the British navy over fish and won - Dagens.com
-
-- **URL:** https://news.google.com/rss/articles/CBMilgFBVV95cUxNVWdqR0N2NmNvSFJMU2hpNXJIZVVFZlk4ODBjSWx0ZWl2SElneldQUjFOLUpoT2QwbnFteWxMU3h1RVBhZ2hPRl9Yc1NpZDlaRUIxd0VFMnJNZ1EzWmZHWXQ5ZlZyN0Q0dkY1RHhjRXlGbXdLY05lZ0dnc2JjMnJlUzNiUkFtVDRzN3BZNy1rUUkxVjJkWHc?oc=5
-- **Source:** Dagens.com
-- **Published:** 2026-11-10T15:38:06+00:00
-
-## Aiming to make Iceland one of the world's leading wellness destinations - mbl.is
-
-- **URL:** https://news.google.com/rss/articles/CBMirAFBVV95cUxOVThHRk5jZGU1NmszLURVcWNyWkJtZy1nTGc3WjlxbmxTUk0wOXA0SG9Pblk4aVhVRW1lY0NJS0kwVUowRjgtNHZiM2pxTFg4YXp0TkhmYllzbmFZMVRlVHJlcm53VnZ4UVd0b3RyMlFlSEt2UGgwQkUzU2FublM3dzFUaUFHY0dPX1cydEFaa05pZjNuV0haQ182MXRiZzZKZmpPeHhLU0ZaS1RJ?oc=5
-- **Source:** mbl.is
-- **Published:** 2026-11-10T15:00:00+00:00
-
-## Century Aluminum (NASDAQ:CENX) Q3 2026: Iceland Restart Lifts Profit - Kalkine Media
-
-- **URL:** https://news.google.com/rss/articles/CBMitwFBVV95cUxPWmZIb01uZkltUkF6d3hlWk5xNXo5c3NoMkpDNW1xVUFUNzlEbmEwNkY1eEFQSl9hWXJvVEdwcXB2RFBTWnFtVFRKWXR6QzFfVGpnU242VkRTS0FxdmQwamxhd2JRVVpoU1RLNXhoTWJyOXNVeHpKejRHdFhNOUtZZE1hd3lvdHY3RzlUVGVwbk1jNlBDdXNvYWplQWs3NVRQbUhIYkJycmthNElJWmJiZGRaZWR0Qk0?oc=5
-- **Source:** Kalkine Media
-- **Published:** 2026-11-10T14:57:00+00:00
-
-## Learn Icelandic (If You Can Afford It) - The Reykjavík Grapevine
-
-- **URL:** https://news.google.com/rss/articles/CBMijgFBVV95cUxOVUFwamZrNC1GelpndzNVSUNGU016bU03TUE4VmlnOUVsbWxtRjFJOHFDQV8tdkMwdno4OGVad1MzQjdCZGhoR3hYMktqZ3paSWNEQlJvYXJGNndjQ0NHUFcyVkxxcTJsQUh5NWFib3pvYmtwaTdqMEY2dlhzOG5LSjNJd29ZMnFqdDFfd0l3?oc=5
-- **Source:** The Reykjavík Grapevine
-- **Published:** 2026-11-10T14:18:35+00:00
-
-## Moderate mag. 4.7 earthquake - 114 km south of Akureyri, Northeast, Iceland, on Tuesday, Nov 10, 2026, at 01:37 pm (Reykjavik time) - Volcano Discovery
-
-- **URL:** https://news.google.com/rss/articles/CBMioAFBVV95cUxQc09KemphY2cyeUZ4Z3dFLUltb1NfNFIwX2hhQlV2UDI1TGNHT0k0X2Y1Smk3UW1ucHA3V2lXNHZHUlZzenExSDEycUo1Umh0Q3htbUVoMDBxa2g3VUpXSXZrYUxOTTVCb2JrQWpkN0swYmsxZGNVZUdCN1BCVWw2MjBsQUJraDJSWVVkcGhsVC1sRHdEZU9BUHNzWUpYWkVr?oc=5
-- **Source:** Volcano Discovery
-- **Published:** 2026-11-10T13:49:57+00:00
-
-## Flug frá Akureyri til Tenerife - RÚV.is
-
-- **URL:** https://news.google.com/rss/articles/CBMigwFBVV95cUxOVUVEb3FPSTE2SzhTMTdkS21qc3l3SlM4ZC0zcEJ6cXc4ZGRvN1ZQdnhPOVZPZkhxLXdzTmhESjUyb2NCZF9sc0MtUUNkd0RURzR1b0FlcGRTUll5N25pUUFrV1BGRzhXSVpFdGNqeVhuRWd2UUVGWkJuSmVrWm03REE5bw?oc=5
-- **Source:** RÚV.is
-- **Published:** 2026-11-10T13:03:00+00:00
-
-## Running a Car in Iceland Costs at Least ISK 42,000 a Month - Iceland Review
-
-- **URL:** https://news.google.com/rss/articles/CBMidEFVX3lxTFBwLTE3ZVlSR3U2eS10SUxWd2xVRV9la1pwajJVNEFyYS1aSENTVjd6YXRiYTY1d1pFMml1T2xGWGgtamxCcF9LSTM1RlNuVzVPV2xUTk5oem1Ub3pjZ0tzVGJPazgyWVIyWWJFdkJfNXdMT2Nu?oc=5
-- **Source:** Iceland Review
-- **Published:** 2026-11-10T13:00:27+00:00
