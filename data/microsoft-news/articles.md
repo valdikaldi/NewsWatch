@@ -1,305 +1,305 @@
 # NewsWatch — Microsoft News
 
-_Last updated: 2026-11-12T12:16:19.613470+00:00 · 50 articles_
+_Last updated: 2026-11-12T21:19:49.522064+00:00 · 50 articles_
 
 ---
 
-## Microsoft admits SQL Servers might wobble after October update - The Register
+## Microsoft outage disrupts Outlook and Teams for businesses worldwide - Human Resources Director
 
-- **URL:** https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbW44WnEwNERtS2FOU2dwazFHcTdESy1kTU5EeC1RNkFsRnRIMHJhZmlzUzVqeTFGLTVxaFRaU1N0RlZiamVDTTF1SmFTRDQ2YTd0SHp4WHNwX29qZFE5RFk2cDFXYWdBNlgzUWdXOVRjcE9QS1c3YmlRemxUR2tlcTNxVmZqN1VLR2tIQ1pIZ2xIVHRRM2dleFZ0MkdSMUJFWHA3VUhFXzdsWUtZMjBab2Vid0psT3RqRXY0?oc=5
-- **Source:** The Register
-- **Published:** 2026-11-12T12:06:04+00:00
+- **URL:** https://news.google.com/rss/articles/CBMitAFBVV95cUxOcEhmS3hBNHBaTDJOQkE1NXBSbExWQ0RUczRPc3lUeDh5WHplWU9BX0hZV2VhazlNeURJOXl2WllZMTZWeU44T19EbmQ2NXdydjU5M1NVZ3VnSHlhNGpUMlJXOFAzUVV6TzVTV284eVFOeXNpYXJreVVqS0ZWU0RjQ3ZZa050UWptT054elJvQkdpM1E2MFg4RzhnR3pvQ2dUYWdjT1d0eXhzaUlHdVRmakc4MEw?oc=5
+- **Source:** Human Resources Director
+- **Published:** 2026-11-12T21:14:15+00:00
 
-## Microsoft Bing Touts Two Methods To Turn Off AI In Search But Not A Search Setting - Search Engine Roundtable
+## Microsoft outage hits tens of thousands of users - Al Jazeera
 
-- **URL:** https://news.google.com/rss/articles/CBMie0FVX3lxTFB3blU1M1pJUG04d012SHI0WnNGZE83NFhRejM5TWxCaDlLMW5rakdUdGlzYnhubFpkSkY5V0dlUEF4T20wT0pDSEZCQmtpOC12ZlNvek5UWWdhT2l3WWxhUW1aVF9PZmxYSkRPMUVxWTY1RDhOdVhtMHZXQQ?oc=5
-- **Source:** Search Engine Roundtable
-- **Published:** 2026-11-12T12:05:00+00:00
+- **URL:** https://news.google.com/rss/articles/CBMilAFBVV95cUxNVVNnLWh2MFhsanVaRkl3ZkFlNUphQnJ1RUVOMEw4MHRsVmJkOEJTcUJyWVFRV2ZZZ3VMOG5CLUo2MFZGQmRfMnV0ZlZNNnEwUDVGN0lkMkgyUzJaVzVkWmFBMF9HenMzbFlURHpZeFBpRC1Ta0FxeDJZLXYwSnN3QXlNS0dfd0hFSG42OE9nUU1uajZJ0gGaAUFVX3lxTFB5SU5lc3F0THNKSHFxM2dXRTU0MW9WTnhrR2RmOUd6TV8yakVwR05wQkxuaV9Pd19qNmo1ekp4NEpvSWhZMjNiM0hvOGVGRDlOQ09VZlNjRTF2dk9ueF9ZdWdXLWxZaklwZW1WZUJmMklMNlJNcS1rb1JlQjc5QzkwdnFITmZFcUQ3TEY3a2Q5S1MyVWZQNDVCVkE?oc=5
+- **Source:** Al Jazeera
+- **Published:** 2026-11-12T21:03:32+00:00
 
-## GSocket Backdoors Let Hackers Survive Critical Linux Patches - SQ Magazine
+## Outlook outage delays responses from Southern Nevada agencies - FOX5 Vegas
 
-- **URL:** https://news.google.com/rss/articles/CBMid0FVX3lxTE5JWUdIUjNzY2lLUEVIc0hMckx2ODJRNzdvN0huSHlDdnI3dm1jblN2dUx0UEVjdG9EV0dXZ0hMaXJCTGxTOTVHYTZZY05LcGIyNDEyQ21VV1l5UENJU25ESy1UYVFxNHRqRUZwdTJoTFB2eXdTTnE0?oc=5
-- **Source:** SQ Magazine
-- **Published:** 2026-11-12T12:04:35+00:00
+- **URL:** https://news.google.com/rss/articles/CBMimgFBVV95cUxNT3lFYkJLdXEzSnZfelZwZ1lwcVJnTFFLcTk5TThRN0ZsZUpTa2YzSTVWOVoteUh6S0s2SFd2NzR5c183UTZSdzJ0VmhteS1lUlRWY1g2VzhjenVZN2pCNjI2bGxXWlNwQ2F5NzJmVk5LRGNPYkJJbEo1elVpNGZVc09wcGZrZ3RrUFRjWDZVM2JFTGMzTzQwbTN3?oc=5
+- **Source:** FOX5 Vegas
+- **Published:** 2026-11-12T21:01:00+00:00
 
-## CX AI Moves Further Into Workflows and CRM Control - CX Today
+## Microsoft 365 outage: Outlook is down, and the internet is touching grass - Mashable
 
-- **URL:** https://news.google.com/rss/articles/CBMif0FVX3lxTFA0WUpNemM4anRzWGdGN2pYdFI2Qi0tbWRaUXN6VTR3OFBoYzZ4aUlsQ3Rtd2dJeWM5YkdxNkc5V2drdmlOSmR0ZUNveVhNV3dvZWNMYXBLY2NGaEVUS0hFOG5HSmxESmVwTnNoam5TNmhVS3JYLTV1U3pQaFkzTTg?oc=5
-- **Source:** CX Today
-- **Published:** 2026-11-12T12:03:49+00:00
+- **URL:** https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTWtPdzlBaGRHX2otT2tZMUNFUHNKejlIcXJpdWh6N0N3bzJUME1iTWtlcmNleFdnQjRyWXVrdDlseFhyek5lVGdkOU5LRGs0bldPRGVESVVmQnBDWjBoQmdqR1Q3U3l3dUhoWE94bGw2MVhlZFdUNVJvVmVFbFZCeXV6ZVYtM2pl?oc=5
+- **Source:** Mashable
+- **Published:** 2026-11-12T21:00:00+00:00
 
-## Microsoft says small tweaks to model weights could create AI ‘sleeper agents’ - IT Pro
+## Microsoft outage: What the company has said so far - Mashable
 
-- **URL:** https://news.google.com/rss/articles/CBMi0AFBVV95cUxPbzlIOE9ncHROZUh1Y1dKWkZiRWpIOUYtb3BnQkx1MHh0c256dWtxaWtWangzTDlRTVhlcWdlbmQ5LVRzQ2VuZi0zZDRlS05DRzhadmV2cFR2REJXaXVXUHQzZWNiUFVFNzFKci14OXg3djlpTWdUSGpjWk50a0dCcXVJWVdxM01aZ2VPQ0Jwd1Jmc0ZXd1lyQUl3VHBhRVVuTmk5dDNjZ19jYUd3X2s0aVNhUTdCcU5pamlUZG9mOG5WZ0QtM3Y3YUhQcHNuS2N5?oc=5
-- **Source:** IT Pro
-- **Published:** 2026-11-12T11:30:12+00:00
+- **URL:** https://news.google.com/rss/articles/CBMickFVX3lxTE9yMGQ2Vzd5dXB5bVVrM2lUdmRsVXV2bnBpS1pyR01VTGFmU2dKbHlIaERYZ2N3eFlYaHJPblJWSVZxQk1NbVFPTDBtb2RqVUpRSkZXeVZNNXdtM3haX1VZYTFxd295YVdpNVJnd194eGNQUQ?oc=5
+- **Source:** Mashable
+- **Published:** 2026-11-12T20:55:00+00:00
 
-## Microsoft Stock At $521: Anthropic’s Landlord, Customer And Rival? - Trefis
+## Microsoft outage hits Outlook. AWS and Google users also report issues - CNBC
 
-- **URL:** https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTEJFc2NFUnVpNXZqYXdVM0h5WUNlMDhoSEJ4azE4eHB5ak81SkFSYmh4X2pqNHo3UkFIZUVLVzdOMGFQeTBzYzhtZ3VKY0dTZldlMnduLWlSbUNnVGFQRjdLd05mX0lhQndlQjkxSFhsZ0RzanNEekVLYWV1LW1Jc1hZbXdBVVBKWDB2TVZzOFJfN3RXWVpuR0thcjVrNjZMTk10cGZWMElxeV9GYTcxMzRVMWVCOWJiaW9Vd2d1TTA?oc=5
-- **Source:** Trefis
-- **Published:** 2026-11-12T11:25:02+00:00
+- **URL:** https://news.google.com/rss/articles/CBMifEFVX3lxTE8zWVd0VTRLTkFhaHlDLTNmZUNmLXkzd3ZLQVBULVd3Wk5GTDBPNzA1TkRGSmlzM0NlTURMX01hdmZHSHE2SW1zbE5OTE80ZjhfX1BZMTFJY2pyUGJjYktrVEJzT0VGelQxQmE5RjhlZkxEcjUwQ21KWnRTZS0?oc=5
+- **Source:** CNBC
+- **Published:** 2026-11-12T20:54:22+00:00
 
-## Microsoft Entra adds a seven-day safeguard against irreversible identity deletion - Help Net Security
+## Microsoft ‘restarting’ as outage impacts global users, with Outlook and Teams affected - The Guardian
 
-- **URL:** https://news.google.com/rss/articles/CBMijAFBVV95cUxNZEFYdFVNUzRIcC1SQ3QyRHRMbEJzZ1hQc2VSOFZ3NndmN2VCNFZMUjNsRjJ0amcwT2ptaThRSEpObUYzVkJYQnhYRGVaRjdUc1dMa2dRQlBNZTNGYVdzR1N1THFFbEFSeWZ2XzI1LWxMLVFjQ3hXZHgxWUR1ZTJjSXFTZ2pHMFItMG16Zg?oc=5
-- **Source:** Help Net Security
-- **Published:** 2026-11-12T11:04:24+00:00
+- **URL:** https://news.google.com/rss/articles/CBMiogFBVV95cUxNUUZWOUNtNWFCM2JscG9FNzZHc1JVYzVPSmtUd2pUM05DVUNxSEtyTDBtN3IyYVpLRUJXdVhFNkFzcE0yZ1VDdUxLeWFwU2xmTkVjSGRfcUREbWVldTFoX1RibnhjUkFzRmVNcU9HOS1pVnlzOXVtUHo4TlRtMHZIcWQzZ1h4bENjN25Sd3ZOMkFRb3VqSGZBYUNQdTdjd1FYMVE?oc=5
+- **Source:** The Guardian
+- **Published:** 2026-11-12T20:53:00+00:00
 
-## Microsoft plans to build hyperscale data center on former Holy Cross farmland - www.ndsmcobserver.com
+## Microsoft outage disrupts Summit County email and communications - TownLift, Park City News
 
-- **URL:** https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUS15Q01BOEZrYmFmVjVYcUNYMFlkM0x0bTRTZzhfUHRmNTJYNEkzd2xzX3VWZ2hUeVE3WDJwZ3d6ZDN2cjdudnZRdkcyejVlNnVkMk5qR1JDNGJUVlBSbFBxYWtTbVJiSDFnZU0zZ0YyVHRLTG9TS2hoMkpncmVlSk8wLS1HSXZDVVNadllBcU5FSmNuREtjaWdzU2dyYW40M0hDdWZIbW1OYkFwWjZBQUxvcDZJTm5KTnBFWHh1MUFPdw?oc=5
-- **Source:** www.ndsmcobserver.com
-- **Published:** 2026-11-12T11:02:43+00:00
+- **URL:** https://news.google.com/rss/articles/CBMimgFBVV95cUxNNXFLeU1yUzAtTWxpUUctUkk0M0daMVQ2UW56RlZJd28xN0w5QTBnYWRjV2dTNzVUVDA4eFZqRUc3Mm9wSFlRWG5ZT0REV2FlRl9pcG1mX3RQZlJrUTQtNG1jbXh1cGR3NjI5S2pNUk1JUVRiWl9UX1paMlYtcklLb3VnQWZ2MDV5STMxbUdUTXlEUVJwWUh4SWZR?oc=5
+- **Source:** TownLift, Park City News
+- **Published:** 2026-11-12T20:52:23+00:00
 
-## ETFs Are Buying Microsoft (MSFT) on Nov. 10 - Yahoo Finance
+## Widespread Microsoft outage cripples Michigan state government email - MLive.com
 
-- **URL:** https://news.google.com/rss/articles/CBMimwFBVV95cUxQWWxCVUhHQ1NaNThLRkJZVmZJR2RVXzJfNVdTMWNOZTMtd3NjQ2NpLUt4MERvSVV6bXZIZ3YzUXpIZ3Bfdjk2WTRsZXc2dkpiRDJTYk9OMThONTNWMk1CdzlkR0J6RmM0Uk95WC03RExtcENTTWVwQWFxRU14Qy1NM1NXV2htU3RMcTFUdzdYZjl4WkJEOC14bDVrdw?oc=5
-- **Source:** Yahoo Finance
-- **Published:** 2026-11-12T11:00:43+00:00
+- **URL:** https://news.google.com/rss/articles/CBMirAFBVV95cUxQTjZjSnRfVnA5VHB1amhFMkdia3IwU2RGUFBLNUtrSEFQb00xNFJqal9TSzFOTFZ4cmV2eWhJekNrREpsbXYxRGZpbTJvbDV2VWRPSWJNdk02cUFEcGpRTEQycFlHMzV2eGhtU0lKQ3R0RE5XNENUdldEbXFRV1ZNVEQwQmhZRnVFMVZuZEMxM0xGd2NRY1REZ29VdTdmaF96NnJtUTl0WERTaE5H?oc=5
+- **Source:** MLive.com
+- **Published:** 2026-11-12T20:52:00+00:00
 
-## Simform Recognized as a Finalist of 2026 Microsoft Innovate with Azure AI Apps and Agents Partner of the Year - Morningstar
+## Microsoft experiences major Outlook outage - Franklin County Now
 
-- **URL:** https://news.google.com/rss/articles/CBMi_wFBVV95cUxQdFluVmhmSTh6WlJzd3lnbUNmT1FFZE9CalRsM0Qxb0wwSHZqUjRWOWR0cGc2bHdmdlJYWjlNNUtQYmN6RU9MZ0l3dkl3NnZMOU9XZU92TXM4U0tKeUo0LTFuOVVrWjd1dXlNZkdJQ2tZQ2xlZGpHYWdDS0RIZGdUaUlpb2ZtZ2MxS0Y2NU9LSEVtUi12Tjl4Ry0ya21zQW9vOUR0RV9GS3ZmTWJEQ2xOcHBQU2VhbmxlcjJNNWVKa1pBZ3N2UklydjRieUJkMmgwaVJkdkI4R3lLQ2lTVVExODk0dkhYdE1XNmFwWGtfRUNxNkw3dlBBMFRIOXc4cU0?oc=5
-- **Source:** Morningstar
-- **Published:** 2026-11-12T10:52:00+00:00
+- **URL:** https://news.google.com/rss/articles/CBMijgFBVV95cUxQV1RYWmV4LXFkUUxURk55WVBUcE44WElsOEUxbF9valFUbGgtWmxEcUw5S1NfemVjclFjRzIxcXY4WVBNbFhFQXlVV0RiczBQTVNjUnFXaFI0VWc4UzhkZ2p4bzRwOUxvSWdMNHpWRF9wZU44MHBGMGpWM3AxaVk3ckg2azg0czB6d2ZQb0Z3?oc=5
+- **Source:** Franklin County Now
+- **Published:** 2026-11-12T20:51:57+00:00
 
-## Microsoft just made the ROG Xbox Ally X’s AI upscaling much less fiddly - Trusted Reviews
+## Microsoft outage: Microsoft 365, Teams, Outlook, Copilot all impacted - Mashable
 
-- **URL:** https://news.google.com/rss/articles/CBMiqgFBVV95cUxPT09FTm9GbGlNNHIyVDRYMEhpX1U1N0J5RkxlYTlmMkVha0FPVWttdk5TU0I4WF9BZ1pjbGNKc3gtalk0SzRmRDBMcGVMQmk1S3l2eGhuOHhTSHdha3daTmZ1RmJKemR5cVNRVm9JWTMyVExSUjkyenNaMF8tQW9HRWlsS1d6cExSU1d4M21XTEs4ZFZ3TGtkQ0RUV0JIamFoNVltRk95WHZEZw?oc=5
-- **Source:** Trusted Reviews
-- **Published:** 2026-11-12T10:33:06+00:00
+- **URL:** https://news.google.com/rss/articles/CBMilAFBVV95cUxQaTVjT2hmZEFUQ1N3QUFZZVhlRHA4RU9uLVpRZDlCZEo5QmRNaGJNY0N6b2doVDZ2ZDBCYXBYMmRFd2xhX0NaSExsc2xKemRSaE1IMFBQNmVlclRCNzFNN3U5TV9Mc1pvWk1NeFhJNWVvTEZkSUE4TlUtdkJ3UmNGaDU2dGFSMmg5VWJjUGc3QmhVUWIz?oc=5
+- **Source:** Mashable
+- **Published:** 2026-11-12T20:48:45+00:00
 
-## Microsoft confirms Windows security updates installation issues - BleepingComputer
+## Thousands of Microsoft 365 users report email access problems as company investigates - WJAR
 
-- **URL:** https://news.google.com/rss/articles/CBMi0wFBVV95cUxQdWZ0MFhYUmdlQ0U5c0J6OW5xQmVyMGtWUVNZOVEtdjRWSmhHVmQtbW1kbV9DQ2dpZUpLVkVvdHRRR0xkRXg2UTJzQWhld3ZkakxXOHBnYkpiSERNM1dqdGhwNUZ3X0xVbWtBZ1VQT2hzczBPa3JDbzFZSHF4N2VpMDlKTFNvTHZCZkllLXJtOE50M1N1M2RESy1mSjRZRmp6SDM3dHNkVU9TNnQ2TmdsekoyMkdrZVY0ZXU2WDg4LURIcjR0OS1vVnBSOW5PeGVMSU9j0gHYAUFVX3lxTE45b1BRXzFPRE5jb2MzT01TLUZqUkpvd2RFYTVmaDh3OWMyWGh1SGlPQlJQcXI1RmZFT1hJYWxJU1JjMllVOWUwb190NW90bUhHNld0Tl9tTnFGZjl5a2VCRklDOFpXYlAtajB5RkNvNmVRMTF6elNQTk9SWHgtbE4tTUtaSVZUYlMtY3hjdHBLSHNfOVhvbDNIeWh2Ym8zSXVpUThpRWJxTTVraXl6QkNDZ25PWUh4dEVZeXp2TmI5dDVXZEl1TWdFYmdIMVQyelFrTHNUdkZwaQ?oc=5
-- **Source:** BleepingComputer
-- **Published:** 2026-11-12T10:24:07+00:00
+- **URL:** https://news.google.com/rss/articles/CBMitwJBVV95cUxPakRlM29odlY0OElsNi1kU29oZTFzWjIyZ1dHU0I0RTNSb0MtYnNibkdnX2NBeFh3TzBRRWJrSEhEMjFkV1hQa1BmLXM3VzgwMmE4SlFfT3ZQWHVGX1ZRWUxqd2lpOGpNOVF6cXdzajIyUXpQdDh3VEtfNTczYnU0SElGSXJWb3EzUW5YNXg2MDl4QW5Ta1ppNUpZa2s5UF9oWUJZdDExZGVEek9Oa1k5Si0tbHhMbkk2ODVId3Y2ajZMZndXZEtyb3dVYlEwRWh5SUhXc1ktRExKUW5TNmlyRnN2dkJFZTdDUVJxSUo4MHhrdWdjdEZyNV9HeHZXYU5aU1FhM3JLb1VoQ2JJNjNMVmdiSUhQUHU4R1ltV2ZHU1lIZDRDTmpacG5fUVlITkpmazcyandXWQ?oc=5
+- **Source:** WJAR
+- **Published:** 2026-11-12T20:48:14+00:00
 
-## Viirtue MCP Now Works With Microsoft 365 Copilot and GitHub Copilot - AiThority
+## Thousands report issues with Microsoft Outlook as company investigates outage - WUSA9
 
-- **URL:** https://news.google.com/rss/articles/CBMirwFBVV95cUxNOXJfSnRnYWhXbDY1bXNyZzBrMnpOWUowdEFjeEg4eVVOZ1l5LVVXeXJlb0NqamM3WnFJODhRZ0Y2LS1OcVR0SXN0eW9Mb0tDaHgteVRiNXVoRzlUaHlEV3p2SWZTU2hqalpKaGZ5ZUw5MU9TWUowV3V1eGxVeWxkQWNZNFJNeGV0bFdqXzVZU3pIQS1mbVM1aXRiSUpSX0dSNUNFVUhzS0FPSWkwOHpn?oc=5
-- **Source:** AiThority
-- **Published:** 2026-11-12T10:03:22+00:00
+- **URL:** https://news.google.com/rss/articles/CBMi9gFBVV95cUxPSWFZamd6M2ZZRW9OaXB0ZGhiUGc2YmN3WS1aWUVmMzVOa1JSTmFFeHVRLWc2NUxLVmR2dl9ZYlEyR0JyRmhVSFY2Z3I0c2szY3diUHNzRHNYSVpESTRON2F3Qm9KbVFfTm5yTUNYSU1fZ2ZBZ24zbzFNMnZoMHh1Uk0taVA5Yy1LTTJONVBxYmdwbmNmSG9DYnhqSWV6bWRkRzVkZHF0ekxUeGtsM2RyVUpockpDUGVodnpHcW1Uc2l1OWlxU3JicUp1UGo4dTNLc3ZTbEtkSmpzeFlYY1FfWG5XYVhaWHAtLTgwbHZ5cllVeExOX2c?oc=5
+- **Source:** WUSA9
+- **Published:** 2026-11-12T20:43:00+00:00
 
-## Microsoft’s November 2026 Patch fixes 1.094 vulnerabilities, including exploited Outlook zero-day - Digital Watch Observatory
+## Microsoft 365, Outlook down for thousands of US users, Downdetector shows - Reuters
 
-- **URL:** https://news.google.com/rss/articles/CBMieEFVX3lxTFBpZFJ3UTU1Q1lPa1lGNy14NjdyaGZud0paaF9hQkZiUS1kSW5INGRHdE9JZHRKXzBwYkNvVU5ZUS1CU0JHMEhpYkVrbDJiNF9ueS1yT0VscDNLb2plVnJJQ2ZYNWp4cUZRc2RfTDR6aGI3TXdPQm9fNg?oc=5
-- **Source:** Digital Watch Observatory
-- **Published:** 2026-11-12T09:39:11+00:00
-
-## New Microsoft Entra ID security feature cannot be disabled by an administrator - Techzine Global
-
-- **URL:** https://news.google.com/rss/articles/CBMiwgFBVV95cUxPcXpvdHZiVVhrdXJHMl90NVNLOE5xVDVxNUY2ZG9RYnEwQURfMVBjdzVCZTZUbDNPU0VvOWlLUUFicTVOcVFUU2gtRzBYOGNJSk5ObkdKUU8yamZ0c1dnOW5TV1ZnWkFpQW1qTE1yTWNHdEIxMC1TajhKVkN6NWJNS21XSWxsZzhMTnFsVVAzWkZuakZrVUF0ckNCZFo2Sk03eG1BVXlfOEhaQU9UTUh0Y2RGcVI4UjZnU0E5NWExU1p4UQ?oc=5
-- **Source:** Techzine Global
-- **Published:** 2026-11-12T09:28:56+00:00
-
-## Anthropic IPO Or Amazon, Google, Microsoft Stock? - Trefis
-
-- **URL:** https://news.google.com/rss/articles/CBMiqwFBVV95cUxPenBrLUpkNmFkTHB6Vlk3amJfZUdHbkFxNEREREhWNEFsdlotTlhqVV9ldGxaak9RcldwQ1AyVVNsUU82Y2RKRUFVRlBucWtTTjgwMFcwLVV3RkhNdlRKdUFNbU9aRjJ4dWdqcUNkaE0wYms5RDIzaTVibGtOSmhkLWRWODViODc3c1BXNmYtdG1SVXduallmcEszVm10QkpMY1NOUlRvNXk1a2M?oc=5
-- **Source:** Trefis
-- **Published:** 2026-11-12T09:22:38+00:00
-
-## Nvidia Stock At $174: Could It Repeat Microsoft’s Lost Decade? - Trefis
-
-- **URL:** https://news.google.com/rss/articles/CBMivAFBVV95cUxOTmYyY20zWVQzbk92eUduRW5iNTlYdlFOSjJoTWxCRUdKamFLWHZCN0pMZE5HdnJGMWxUREhPdllRcmZodmRPNDJhV3AyVXVWZldVUEZNTlViMU1XZDVXTkFBYW9EaUpFVFY2MnBaa0ZjRE5QNDc2SDV0QVJVUTgtR1hfWDNzM29KTVNRazN1Y3RhWjN3azk0ZWUyQUp6LWJWajV1VlhfbHE1UDBHaElqdm0wTGFXXzhmcEV5Mg?oc=5
-- **Source:** Trefis
-- **Published:** 2026-11-12T09:21:58+00:00
-
-## Microsoft releases PowerShell 7.7 with security fixes and new commands - BetaNews
-
-- **URL:** https://news.google.com/rss/articles/CBMicEFVX3lxTE03MFltNXBGOU1jcW9FbzNmdWxwUFFkZy1UX1plcnFnXzNZc25lZ2ZMVHlYMW5DOWQ3aXVMeHZrZkFDeXVEMXhoS0JrNzJERkhiZzJqS0ZWeF82a3R5YnVhdXBnUThfRktFazhWWGhZQXM?oc=5
-- **Source:** BetaNews
-- **Published:** 2026-11-12T09:20:04+00:00
-
-## Petition challenging Cheyenne’s Microsoft data center fails - Wyoming Public Media
-
-- **URL:** https://news.google.com/rss/articles/CBMiyAFBVV95cUxOWFUzM1hTdk5tYTZLWWRRS183bUJNTno1VWlyZ2paRkpqLUZxeWJYNGZqTFNXdkFrNTlZZ0ZvMnJZTDBMVTRKZEtMeWNjeEJhVG5nUmhTSWtHcER4SzhqV0ozVWh4aE42elFtbTRCY0Z1RWlraHFiLWg0enRqWFRVcDB1WHpSOHJFUnZwYXRaTmI2YmRkVmN5dzhfd1RfdUwxWEQ3MWJfbUIwLU05ZjZpM2JPdUV6OUtvOWdfcEYwSk1BX0ZERWNPVg?oc=5
-- **Source:** Wyoming Public Media
-- **Published:** 2026-11-12T09:15:00+00:00
-
-## Exploring Microsoft’s AI foundation models - InfoWorld
-
-- **URL:** https://news.google.com/rss/articles/CBMikAFBVV95cUxNeVJ1Vm9QYVJrcWU0bGFEaWVTVWJnSzg1bVVzN2tjZHc1OHZ6S1hZUEVRbU1fVUlQX1pRSTVfc1ROd3BtWGV4XzFxa3FsemNlQ1h5eWZNWkRoVzY2RXlHd2szOXE5Q19wTlpCeDJwbmgzZ0dlZlE1cFFzX051YUNFMWxiQXFUTGMwcW1MMVc4Y3c?oc=5
-- **Source:** InfoWorld
-- **Published:** 2026-11-12T09:02:54+00:00
-
-## How Big Could Microsoft Stock’s Next Fall Be? - Trefis
-
-- **URL:** https://news.google.com/rss/articles/CBMipwFBVV95cUxQdWpVM3R6MlUwVEVFaTR5NktpdnhuZzBfUEluX0dLS0JIRXV6QlJVRXM0VXctZDlmWDUyYTdZTE9GaHFqUUVWX0x2OVVjRnZqTzhTNGo1VTJUb3poWjJhLTJlelRJQnVZWmNQSWhwZDlKS2NZM1UtVWE5dVNlVXJudnRVampfYng5WmtRWTdkT2lZcDdhV3hnZFdIODQzUzlLbE5zTFJzZw?oc=5
-- **Source:** Trefis
-- **Published:** 2026-11-12T08:26:10+00:00
-
-## .NET 11 security changes target the software supply chain - Help Net Security
-
-- **URL:** https://news.google.com/rss/articles/CBMidkFVX3lxTE1QSDNSVVdiOHA5MDZic1pXTmFTUWtfcWhaX3FfTFpmSHhNWlJwdWNsY1BOQUZvWXFWdVdhWXpRcC0xOTB4MFVweHV3VkpjaTZaZnF4aFhscXVVTnVUQTJidE91QVl5SS1vNVRpX21uYndsdWU4VHc?oc=5
-- **Source:** Help Net Security
-- **Published:** 2026-11-12T08:23:33+00:00
-
-## Microsoft Confirms Red Dead Redemption 2 for Xbox Cloud Gaming - RDR2.org
-
-- **URL:** https://news.google.com/rss/articles/CBMikwFBVV95cUxOcHliUEV2VG9hdW9sVGZndVRReUR3aHdzUlRKNkxDS3VYaWRmY1piZTJNNVQtNW9EN1VTc3FfMEtxX2VEbnM2WXpHS2RVazQ5dy1FUFlOams5Y1h2ZXR0eWdGa3UtOHpQTXp5T2F6UmJsdERiMjdyZ0NrS0Y5Njk3bHpQbzVjNWNnS3o1cDFWcWJNeEk?oc=5
-- **Source:** RDR2.org
-- **Published:** 2026-11-12T08:06:51+00:00
-
-## Key facts: Microsoft Falls; $1B Anthropic Deal, $30B Azure; Excel Risk - TradingView
-
-- **URL:** https://news.google.com/rss/articles/CBMixAFBVV95cUxOdFlVUW5sVXdRX3dZMFFRN1RLQzRPVE1sWTk5R0pGa010cGFwWmpFOFBoNklGVEtQUmFSR0RiSmZLdGdTSGt0azgtWEhiMkhmWUF4RnlWVFRuTDc4U09jQV9lR0x3dmxEZ1NiemtQQnExVmstU3RyYm5RUjJLWHpnS01xS3dCT1VzamxVWDE5Yk00RzFiVVFwREQwNXM1UnhkUHFIdDFLbU93Z0JEbUZJX29xVDE4NURpNzdKRV9qMmxDTEtr?oc=5
-- **Source:** TradingView
-- **Published:** 2026-11-12T08:00:00+00:00
-
-## AI Agent Backdoor: Microsoft Shows Fewer Than 10 Edited Neurons Hide Attack Until Date Trigger Fires - Tech Times
-
-- **URL:** https://news.google.com/rss/articles/CBMi4wFBVV95cUxPNDdnaFFzNXZQYVRmSW5NUl91NzZYc09jN0hqd01DSm41SnBVYzRqSDRYbEtTbmh3cVNfcWRPWk1wWWhUT1Q5SXZtY21Qd1NnQVJuTUowY01SNFVkNVdBanp2bzhUTWZiVm9XMkdHc21wUTdPeDl2YjluZXlTZFlOSU4yUjY0Y3l1SzQ2QjI0UncwYlEtRnVLc3ZaRXNRN0oxUmNpY3N1eC0wQkJnaTN2UE93cFpYcUtrYXVSZENRZHc2d2FXSWI5eGJmYnh4UnRrbVZMSlN6WVRVQmRrcFpOdHFQUQ?oc=5
-- **Source:** Tech Times
-- **Published:** 2026-11-12T07:40:15+00:00
-
-## FPT Becomes the World’s First Microsoft Partner to Earn Frontier Advanced Specialization - Eagle-Tribune
-
-- **URL:** https://news.google.com/rss/articles/CBMihAJBVV95cUxOVzNadm52aVdsVTA3R1ZKdlIxbU5BUkdaTG1ZS2xzMGdCNlJBZFBNeHRZcGRTcnoxZnBsYWZwckJ6LXhXOWtVdjRXaENKWkNtRTBEMlNWcTlrSHRZWVdRNXcxYUx2RzlvenlXclRQQ2lvdDI0VWhVdFliRnY3aFFqX1czR3dQUGQzN0xLQVV5NmVoWE5EdlpLVEJOZ2xPYjA1Snk3b1JHUnpHMHdZWkRiWFN5eVBweW5ObE4xNDQyLXMzcHlvcTZpWkZ1MzA1elVVTU42WlNVcExyY01GUS1OQmRobXlibHVKanpXakZLSDhEOEpDdjZiY2U3YU5vZDF5a0Zpdg?oc=5
-- **Source:** Eagle-Tribune
-- **Published:** 2026-11-12T07:32:23+00:00
-
-## FPT Becomes the World’s First Microsoft Partner to Earn Frontier Advanced Specialization - Yahoo Finance
-
-- **URL:** https://news.google.com/rss/articles/CBMingFBVV95cUxNQ0VXekpybVh2V3J6LVlnSHZSUlByckJfaF9QXzJ4MUdFZ2FqdGhaSjJpZzdhdTZpc1ZVbHFNckp4eXBhUW1BUWZUX2tYZExfREdHdlp3NjVwUGdtRkJmbFNpTGpKWUE1SEVIMkNEQTltSkJNdTNrZmFoQkh2RlZId3hFaXZ0NmJoeVJoZXRBWm9yZ0U0eHo5VUxXNDVyZw?oc=5
-- **Source:** Yahoo Finance
-- **Published:** 2026-11-12T07:30:00+00:00
-
-## Citi: Microsoft Ignite conference expected to reinforce AI growth narrative; maintains Buy rating with a target price of $680 - 富途牛牛
-
-- **URL:** https://news.google.com/rss/articles/CBMiuAFBVV95cUxPc3lWd0syZ3c0Y3VQdGx6aTVncDBLTkJPNTE2Z3JHb2FuWjQ4SzVHdzBqS3RBcm5McC0yUk1TYndOMktlS1NTbEN3UGktandUWXBwSFk2V1EtUWhwVHR3Z0VOLUw0Q3hWNVFPanluZjIzdms2cFhoNDEyMUVSNW9IZHJnR0QzcXJPOGxuQWw1bUtia0Q0SFRDQlk2azlnYjFVbmlPUnBwMEh2QkFSOEFnZkM5V0h6TTBX?oc=5
-- **Source:** 富途牛牛
-- **Published:** 2026-11-12T07:20:42+00:00
-
-## Microsoft Auto SR Upscaler Exits Preview on ROG Xbox Ally X: Undocked Play, One Frame of Latency - Tech Times
-
-- **URL:** https://news.google.com/rss/articles/CBMi2wFBVV95cUxORGkxa2RtUVNvanZoaHN2QWV4TzQxWWZnQ2ZEYlA1VWVOVVhmTWk1MjZZcDVxT2tSTUxpWUVSOWRwWHB0bkFSV2FnRjZsV3pIWW5JMWw5ZmI2YmJsTF9fT1VLRnFOWEV1MHQ5ekc2Y1AzdWFnV1E4c3A5QWpQUkVXSHUtWHRKOUJTRWt2ckZEbTczbHNQMjlQWmRrUExSUFN1ZDVXY2NGeWlwdkpFeWZpc1pJc0R4NnljcmpkNkRGZ3hscXV0NFlLUWV3dHFOOElfZW5aVFAwa2hyMTg?oc=5
-- **Source:** Tech Times
-- **Published:** 2026-11-12T07:20:13+00:00
-
-## AI's Last Mile: Microsoft, Five9 and Salesforce Pay to Get You Live - UC Today
-
-- **URL:** https://news.google.com/rss/articles/CBMihwFBVV95cUxOOFRGa09nVUJXTzFnbEppMG56aVlHWjVSVjV3blk4NDVkV19pUlZxcmhmNkdjb2ViVF9VUU5lUWtmdVN4WlJPWTJCenJCMmZxQmlPZVI0b0IxS1NMNTRhM2x0cERiZ3RvNVdUZV9SWTd2RmdhZ1laeGNNZDVDeWFvMkkwUThTTUk?oc=5
-- **Source:** UC Today
-- **Published:** 2026-11-12T07:10:36+00:00
-
-## Vodafone and Microsoft call for AI agent skill standards - TM Forum Inform
-
-- **URL:** https://news.google.com/rss/articles/CBMisAFBVV95cUxNci12dFNxQ1M2VEpBWGRoai1qYVlaVVJtNWVPVDAxSUtRdUJWQTZqM3hVTjdKRE9QcmRiUWtDbXBTTG81Ymp2UEFRZUllSGhYbDZjTkxBU1BUUjRxUWE2VVd3a2lNamFUZ1BhUXNxSE00RGpRbjZxUVFnZWdHNGZGc3RwenV3ZWFaQnRybkI0eGk4M25jTWJqTkxsR1g5bi1hNFNEU3dvcEttSkQ4V1NWTw?oc=5
-- **Source:** TM Forum Inform
-- **Published:** 2026-11-12T06:54:51+00:00
-
-## [Major Banks] Citi: Microsoft (MSFT.US) to ignite the next phase of AI monetization; reaffirms “Buy” rating - 富途牛牛
-
-- **URL:** https://news.google.com/rss/articles/CBMiowFBVV95cUxQRXd1VjVtYmZVaXlONF9PUkh3SWdIaHM5aXpSTDhJNnNZYjY1cm9ES0RoS3F1V3ZkdW0zUGItUVNOTzI5a2V0SUNLSWhOeGNlVzBBZHJNc2FLNHFKcVNySEc1dUVvcEtTM2RyTEJsVEpHMUNoOHR3eUg0VnQ3MnpCZmxYRGV0X0t1aUhrMTNoQnNNRFdBUUNxcUpJcHZfdmJnN2ow?oc=5
-- **Source:** 富途牛牛
-- **Published:** 2026-11-12T06:22:08+00:00
-
-## Microsoft Corporation (MSFT.O) | Stock Price & Latest News - Reuters
-
-- **URL:** https://news.google.com/rss/articles/CBMiXkFVX3lxTE5mc1U3MkxiZ00yS0FLaXVrTG1GRkFVdFRNTVRBV2cxQm1vSGl4bThaMXdGRHI2Q09oUkpsTE5mcElfN2ppbnlkcTQ2eE5jYlZETzBnNTdCN2lUNDluNkE?oc=5
+- **URL:** https://news.google.com/rss/articles/CBMisAFBVV95cUxPQWpWeUZnbllhcFk4WktZS0s3T1N6T3k3Vnhhd3pfSE9SWF9iRmRIQUljdHZXN0UtWS1uZS1rbUNZSlVPd1NXLXRtVUVtc3NQNTgxMVFMWjVnT3pPb09EX1g1YUx3WkF2VHk0bUMwWlhkRHdpT0JFRE5SQ3pQRkdmSnpUOHNXLUo1dXNSY3lFdkpSdU5laDdwSlhWRDVnNjBFcUh2Y0FwMXNldE8tSFpPaw?oc=5
 - **Source:** Reuters
-- **Published:** 2026-11-12T05:57:28+00:00
+- **Published:** 2026-11-12T20:39:49+00:00
 
-## Viirtue MCP Now Works With Microsoft 365 Copilot and GitHub Copilot - EIN News
+## Outlook is down: Microsoft outage disrupts email and Teams nationwide - San Francisco Chronicle
 
-- **URL:** https://news.google.com/rss/articles/CBMirgFBVV95cUxQYVZvYmNWbUdfRnp3QjRRMjhocUFXYzdQSjduaktfRGtYeFVkbm53RGgzZGEtZ2ZESmlTS1FlTVBJZFA4X2NkbHY4Q3RjQUZ1WlQ2WW56MnpOLVg0dlBNMzk2c092LWlsTXBnTUI2ZTlOMzNCVUw2SjJTT2lkMXE0MXBDRzN4T3JSNjlfS3R5ZzRveXJUNXloSmY3STdBUlJ6NUdndnJTTkNuYVlsOGc?oc=5
-- **Source:** EIN News
-- **Published:** 2026-11-12T05:00:00+00:00
+- **URL:** https://news.google.com/rss/articles/CBMiiAFBVV95cUxNWXJjU014RENvT1NPS0RkU1J6VnA3MFg1Mm5lSElLMTdtSi1LN0ZUTzhRTlp3ajBiM3lSNXFoaUJYZkh4SXM0ckw4V2lkbTlGenc2dXdLNTRLT1ZHQ2NHR1VXN3JvVDFIekdkSjRyX24tQTVXbUNKMW14Wk9Bcm5udnZUSnJERWt0?oc=5
+- **Source:** San Francisco Chronicle
+- **Published:** 2026-11-12T20:37:26+00:00
 
-## Microsoft's AI-powered Auto SR upscaling tech is now officially available for ROG Xbox Ally handhelds - TweakTown
+## Microsoft blames server outages for widespread Microsoft 365 disruptions - Anadolu Ajansı
 
-- **URL:** https://news.google.com/rss/articles/CBMi4wFBVV95cUxOcFFjdXRKQy1GcS1tdVZuRzMwRTJKZlNrckFSQm50WGJfclJFWUlWbDVURktsZ3g3OVJralhsSHJzSjY3YmJ5bzZFSUFpbWhsMXVhcjBaRzZjdjNfZFdVQVIzaDY1TnR2ampSOTRXUEFzYy03QXBqMXdpWGp0czNjZDVsRHJ3WlhSRmpxQXNCdEVpUXdDQnhMZklSMTBGLWJzRWJjNmthYUwwSzJmRUdlR3BRcmtIbEVERzk5WW9CNE12SWJ1b1IzdklvaTF5NGd2bl8yUVRIUExjR3RpNFZhLWNfWQ?oc=5
-- **Source:** TweakTown
-- **Published:** 2026-11-12T04:56:13+00:00
+- **URL:** https://news.google.com/rss/articles/CBMitAFBVV95cUxQTHZGX0lySnNfYnVfbGdxQ0lWNjBXRUlxWGtIWnNHYUstd1dJcm9tWFc3M1M3b00wcHR6ODBocmtSNkNpeEF0YTloTF9mSGNBZGdTWTk1dW53b3lzaVJzN01ETmI5RXpxS1JKd0VZMTF5T0RxOHlFWVFDbkthUFFRUGtHSTVrbU4yRzYtY1MxdTRSS0JPXzl1SmQxMnVsTjJwV29MU01JaUJoTGMyWTJ0VE51dlc?oc=5
+- **Source:** Anadolu Ajansı
+- **Published:** 2026-11-12T20:34:43+00:00
 
-## You may have missed emails on Outlook for days, as Microsoft confirms its spam rule wrongly blocked them and blamed senders’ settings - Windows Latest
+## Microsoft Outlook Outage Cripples Email for 365 Users - The Tech Buzz
 
-- **URL:** https://news.google.com/rss/articles/CBMigwJBVV95cUxQNGRjNzRpeURzeGVLR1UwVzl1QXNNQXVMTDYtbEhaMTlhVE1UZ3BHbkFkejR4eDZRUzNXWlJwTTZHb2lRUUJLU2VkUW9KOXZiLTB6Z0xtaXcyZ0lVMGNJdWg5NTVBbjVmanVZcjFrSDdiTTg2MWM2NHBWQnBnOUhFTzl0RzVMQUN5XzM3WG02WlBzQUNPdnpLdHZ3WXRfNnI3aFh3bkNqYXVtdUV0TnpjSl9qZW11azNtZ2IzM21zTjRDZWZKODFYZUxtcUFvWGxpWnZIb3dvZ3hrQl8teERiQzZBZnRQT0FnUno3RktFd0ZTWmNNU2FCX2FzNGgzbENodlBR?oc=5
-- **Source:** Windows Latest
-- **Published:** 2026-11-12T04:53:33+00:00
+- **URL:** https://news.google.com/rss/articles/CBMijwFBVV95cUxNcDR4QUVsZDlqbU1VdDE5LWl6MndMTEhla2Z0Q1FNblM0X3p0VE95dGZKT0s0VHRNNTNKZVVNSlltc05hOEQyZDBsazdiejd3YjU5TFVKMUdHcEIxbk1qdlhaREUxeS12SzFIV2dlMU43Q2lzM2dlbXVKRW9rX3AxYnA1NXoyZnJYYWcxVzlVOA?oc=5
+- **Source:** The Tech Buzz
+- **Published:** 2026-11-12T20:33:39+00:00
 
-## Microsoft's $5,899 AI Laptop Is Here, and You Should Absolutely Not Buy It - PCMag Middle East
+## TNS: Microsoft 365 outage disrupts Outlook email, may affect users worldwide - Ball State Daily News
 
-- **URL:** https://news.google.com/rss/articles/CBMixAFBVV95cUxOcFhVaDlRZlp5TXdCdzlJTll1NV9KTFJMbzVDaUEtXy0tNkhWenpRMGp2aWt3QlNBZDFXMFlZTzhuVmJMakpfbTlCUGZfNWY4U0pIVjZSRlU4Y092NlBlcG1IWHJFZWtuanpLWmxZeWVsd1ozenFTNWN4dlRXNHp4TlpkQlVBT21qNEs3M3EzS0RGU1RTYUp3bjctQ0xJYUhJSHdHWjY2Y01KaW1xOTQzY2pIQmlKOXhqNEMyMmROdWRmdDda?oc=5
-- **Source:** PCMag Middle East
-- **Published:** 2026-11-12T04:47:09+00:00
+- **URL:** https://news.google.com/rss/articles/CBMixAFBVV95cUxOblpEVUVaYk5MdUdxbWVXRnlpcWNKNU56ckZ0STlZb3Q5b2s3SUh0RUo1anBweG5TYjFsNFRNSzRzWlJkRGJ5eWtBMmxHX1dDaTNsYTcwLU9pSTAxdzE2b2xzNERuSFlDUnV3R1lURGdlZHVnaTg3Q3ZmMWJYbEdPdlIyblNwYzJoX1dJa3Q5S1BEbU14XzNOOWcwOWRhX0h6Tm5XWVdlcFJFMnhEMjZHVDhhNFVEREN4VGdpQWNwSVBFSkJv?oc=5
+- **Source:** Ball State Daily News
+- **Published:** 2026-11-12T20:27:21+00:00
 
-## Anthropic Now Makes Its Own Spreadsheet Software. Here's What I'd Do With Microsoft Stock. - Yahoo Finance
+## Is Outlook down? Widespread outage hits Microsoft apps - AP News
 
-- **URL:** https://news.google.com/rss/articles/CBMioAFBVV95cUxPS3lsbk5PNHd3d2swVERWUUJGX3liTWpvdDhRVFJ1amdzZFhLZC1yUGJ6SHUzdWFMTnF1YlNjQ1NyRElJYlpvcmVXeFJ6TjgxTmxtOHBWMUJiYUVtZmJoRV9fbU5qaEYxU2FFQlRXX3Rnb2xwWm00Vm00aFNoYk41U21WXzgxRmg5ODNrWjQ3SXFySHJ4cE5BUGNZQ3NHMlN2?oc=5
-- **Source:** Yahoo Finance
-- **Published:** 2026-11-12T03:42:32+00:00
+- **URL:** https://news.google.com/rss/articles/CBMinAFBVV95cUxOb2ZUZnZ6Z1JPSWM2YWVQel9wdC14MWloZ3FvX084b1RFcmRsUWhNZFJGSjZxd1hOOWZsb2ZEbTVqVWx3Zkl1T01TY21QUTRHVGRsUmF5bUx3UDctd0lJOGZlblJFYjRIMFEyNkZGTFl1R05jYS1PXzNXSWhIMHgtRDkwLU1XNTFUZmkxbGhoRS1CbWpKMHhfbFFWdlA?oc=5
+- **Source:** AP News
+- **Published:** 2026-11-12T20:26:00+00:00
 
-## KPMG scale trusted enterprise AI in Thailand through Microsoft Copilot and Microsoft Agent 365 - Microsoft Source
+## Microsoft Outlook outages reported nationwide - WKMG
 
-- **URL:** https://news.google.com/rss/articles/CBMi3gFBVV95cUxQSXFtTlZoQ0IyMFU2M0REX24yN3FWYVppZnBHM3A3bHF5TVphWFp0X254WHc4Z3N6V2EzT1BSX1Q1ci1mekQxdkp5ZFJXLWZKSm00OWpmVVRuUC1vOU5FYzJTUWZWZkhIWkstOVpOUmc4WkVXSnNDc0tyRHhDQW1fVEhjcXBYel9JWDZ3TktyeXQzTUNEZnNPbjB5TDV0T1ZmRWwzTHNaWHF5Y015aTB1Uy1xSEl4M1BLVXpXdjBFR3oyaTI2aElYamQ1RUd2OE1jdGR3Tm1MQnRqeW5XVnc?oc=5
-- **Source:** Microsoft Source
-- **Published:** 2026-11-12T03:41:41+00:00
+- **URL:** https://news.google.com/rss/articles/CBMingFBVV95cUxNVDBFY254NjRfTnZOTi1ib0s1LXVra1BLQXJFTHo4cWlJXzNwQWM1SEFXanJfYTVDRTBCQU8xZGhGc01Vd1BTTDhyOVAtWkdRTE9xeFE5bEF0WnZJNVV0UnVaZkVaLXp6dGNhb2ZtWm0wVkZuaFJSOE9PMkExaXFPNVRjYTNzYjNESm5ScVZ5QjMxalUxa3hCaUI4TlhtZw?oc=5
+- **Source:** WKMG
+- **Published:** 2026-11-12T20:25:56+00:00
 
-## Big Money Bets on Microsoft: $46M in Unusual Calls Hit MSFT Options - Moomoo
+## Is Microsoft Outlook Down? Problems Continue Hours After Widespread Impact - Forbes
 
-- **URL:** https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdE8zRzBPT0dNVWRNajItQk9EMlZvN2JXWVowajR0OGY3ZjZvWTlzaW5rd0dBRVVVby12ZHdoeGhNTTg4M2Z6MVlwSUFZOW82MTdib2ZlSGc3RzRuSU4wR3FyTEUtczZRZXlINmN3ZHhZdDJrXzBMQ3NFX092d2JubGFUcnJnTzlsRWh5cTliRzRiVmNNWWRxenRQTldVYkRKcE5qbGF1LWZLUQ?oc=5
-- **Source:** Moomoo
-- **Published:** 2026-11-12T03:28:47+00:00
+- **URL:** https://news.google.com/rss/articles/CBMixgFBVV95cUxPUTVMQ2otVGhvbjNrUkYtU0hLSzdWN1V0U2ZPQTc3Q09aOUt2RldJNld1V0NEb083YWphMFJYYlQtSGhxYTg4M0xkZGhTdUlSV1BkbEozNXRDRTdlNzVCZFNtaWIzZGNnZE9wU3JoZWJ3ZzM2WG5uT0drMHNENXdlSnNmaEExeE5Jc2RZRk1ySjNyVUpMTUpaV0Zxem5ad2dKb2NGcmxKM0ZGZ296cFlibVg0MVluc1R3SVE5amlUS1BQYWJVeVE?oc=5
+- **Source:** Forbes
+- **Published:** 2026-11-12T20:19:04+00:00
 
-## Anthropic Now Makes Its Own Spreadsheet Software. Here's What I'd Do With Microsoft Stock. - The Motley Fool
+## Microsoft Outlook email services down across the country - Cap City News
 
-- **URL:** https://news.google.com/rss/articles/CBMiywFBVV95cUxNZndNbVRqdXNxa1dGdE5TdnlweWFuaXBDUjZaU05nQmhEdkwxZmRMU0tZOEVwaFdBRU56T3BkUTBPQ0tHTGwyZ1hCZmRUTUxWaV9ueDJGS3pGN2xNd25JWjJ3aTNwWmRkRkNXM05URzRXZXhLOERXdlRYclBhLXgxRXFIcVdvRlR6eWlTU0wxMzZWNFZ5ZUQ0VlNrOVJVT2dZMWFnUUNHRXEydXlKVUZvUWhvR0U1N3JLRXUtd213MDZFMzZtUXFkWUFkRQ?oc=5
-- **Source:** The Motley Fool
-- **Published:** 2026-11-12T03:07:00+00:00
+- **URL:** https://news.google.com/rss/articles/CBMiowFBVV95cUxPRFlnZkYtaUMwRHltcnJDcnQ5NmFWdVBiN3BNZ0duWHVBZmpRSndfM3R0VTd6ckJtdm1CaTZjeUczMmpNMFJIWlpYVk5EQjZFQTU4R3p5d0NoNXJ2WTRCRmFrV1hIdXdOdUNKZUJTdXp3QjlYa3VCVDhRczJqT3ltaEhCQWQ2SF9kQnNPMDdXWVBhYlVGaFJHQWpTTmZiVXBjUWY0?oc=5
+- **Source:** Cap City News
+- **Published:** 2026-11-12T20:17:08+00:00
 
-## How To Set Up A Microsoft Teams Meeting And Invite Attendees - Dataconomy
+## Widespread outage hits Microsoft Outlook, affecting Mass. government emails - WGBH
 
-- **URL:** https://news.google.com/rss/articles/CBMikgFBVV95cUxNZmcxcVhUYTN5Y2ZBZzVBbUFERzdPX1Q3QnlDOFA5Yi0zX1pxdDNpdEJaNnVQWkFZX0JsMjFhOHJyUVJwSzNBTjhjd0hYWVA4QTFjZmx2Y0t5SVBJUGJOVjk2MVAxRkIxczh4UXhJUWUtSHhnZG1ZVjhvR2lmUDhPOGJxdUlOTTZUcGxCeXNJRHRudw?oc=5
-- **Source:** Dataconomy
-- **Published:** 2026-11-12T03:05:09+00:00
+- **URL:** https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUm1CbnlnR2JXczJzakNaUUlvQWRYVXp1dy1mSEVUQ2gwTGxxbjA1WmcwanFZSDk1Z201MHh5d2pkN1NIMnU1Y0ltajBFaG96ZWxhNzgzYWtOd21iZ3pteEphZjB4U3N1UlNQZGFlWmlFOG03dlpva2tQM2d4VEduaHEtcWZmYjA2UVEyb0lseUpBTktiOFp4Um8ySTd4M1JyZjM5SGwzVUNFWmNNNWtMRFdaZVp2b2xxMHhV?oc=5
+- **Source:** WGBH
+- **Published:** 2026-11-12T20:16:54+00:00
 
-## Goodbye to passwords: the login Apple, Google and Microsoft want you to use instead - Make Tech Easier
+## Massive Microsoft 365 outage disrupts Outlook, Teams, Copilot worldwide - BleepingComputer
 
-- **URL:** https://news.google.com/rss/articles/CBMirgFBVV95cUxQelFRWHI0YW1KQmE5dG55WUJfRnRtRGlOSVBuZld3ei1nSVdYNTdlOG9CTThlUldiNHYza0tpcGJJTGpvLWQ5WFNxZFVmczNzZW9KdHVjN2dwdTFyLUlwRXZOOWp1UHlfc1lpVlpBd2RQdkdhTG1VYkV1V19yQTItSDhpdWc5dEVLSk9ZVkdTYUZiN2pqd0dILVZEV2NObm1BeDEzaVg2WXFHM1lRb0E?oc=5
-- **Source:** Make Tech Easier
-- **Published:** 2026-11-12T03:00:04+00:00
+- **URL:** https://news.google.com/rss/articles/CBMiugFBVV95cUxORUEtbE82eDZxeC1ubkhOcFFPUFhLQUNMdXdKbDlVTGtDbmFfakxXd2hpVmJZTEw1UFdOaThfNTdtcUhXWTU4TWgtUnF3RkowN0xRNlM5SW9ZOFhvMUpZaUFPQXNJOHh5bzlSMHk0QmhTNTNXWkgwVGVsVTlDbE5fMnhDQXJndU5hOG9FUl9GaEtreTVkWENOUnhpMVIyNUpTMndwQ3gxd08yNUN0aVVnem9sc3owcUdweFE?oc=5
+- **Source:** BleepingComputer
+- **Published:** 2026-11-12T20:15:16+00:00
 
-## Microsoft has begun canceling pre-orders for the limited-edition Xbox Series X25 console, priced at $899.99. - GameGPU
+## Microsoft 365 Outage Disrupts Email, Collaboration Services - Facility Executive Magazine
 
-- **URL:** https://news.google.com/rss/articles/CBMixwFBVV95cUxQaUI5cEVXQjlEUGFxeVFxQnRMWDlNS1NWLTNaYVZRY1dLUi1aSUh6MGdySDFXTFlYUjRTaTA3b25Qck9Ya2MyWlRVOWdyZVBGSFBySEJHSkJLTmxKU19Ib1FVTG9LTHRkbzFOaV94MUFyampVMXFpLVRwRzFiRFhyMmRTMEV2ZlVSOTdmeVNHNE03ai1vcHp0c1hEZFBnTHJhdE14MVJGQndRR3lFMGF3bFpUNzdiOFh5ZUpIRTBJR0NlZGY5VHNz?oc=5
-- **Source:** GameGPU
-- **Published:** 2026-11-12T02:58:27+00:00
+- **URL:** https://news.google.com/rss/articles/CBMikwFBVV95cUxNclpqc2ZqbkozekdQOVY3aURZSGJkNDRVLXJKRHlqdFRRbUZTX09GMkNTdnI1NjdmaEhpYWFwNkt0cHMybmdDakYxd2V0TzhvYzNNaW5kNkZMejByRWRJZ3lwU1NuUHVSZVhGU1VCVFFPUE5mS2lqMVBDdUQ3d3RxTVJnblQxY09qakFUbThDTlo2aUE?oc=5
+- **Source:** Facility Executive Magazine
+- **Published:** 2026-11-12T20:14:00+00:00
 
-## Quarterly Earnings: Alphabet Sold $62B in Stock. Microsoft Paid in Cash. - Global Data Center Hub
+## Microsoft Outlook, Teams outage disrupts thousands of users across Texas, U.S. - San Antonio Express-News
 
-- **URL:** https://news.google.com/rss/articles/CBMiekFVX3lxTE1ZN2RHdjdmeFVfWjVFSnNCRU9IZTBGNUo2RkRQTm9GU3lUWEVtQkNPU016MF9VYm1XcXh3eVdlZGdGX1NMVHExVW81ZlpHU3g4cXp2a3FEY2dfSEl1bzJ3V1NsNXJGbjFvaE1TUlJZOTdoX0xTMFAwSzBR?oc=5
-- **Source:** Global Data Center Hub
-- **Published:** 2026-11-12T02:01:03+00:00
+- **URL:** https://news.google.com/rss/articles/CBMirwFBVV95cUxOem5ZNlhPS0NvU3hVb2lCRXZzZWhQM2pzSHh1ZDdDZFJWcjdhLU00Tmw2WHhKWGRFTzVSTXNmUER6dkFGc2syQl9PSlg1Wk16YjM2U0hXMnU5NUJ3UFRUS21qTHFObTFRRlJWcmJ6Y3VEeW9hUTJEQWFmYVBwN3Z2dklERU9xRVU3dXZpNW9HdDFLV29pTmp3cXlTeGRoMGViQlBzSFlrLXkzbWdUeGZZ?oc=5
+- **Source:** San Antonio Express-News
+- **Published:** 2026-11-12T20:13:53+00:00
 
-## Microsoft Ignite 2026 Kicks Off in San Francisco on November 17 - Inven Global
+## Microsoft Works To Address Massive Outage Across Copilot, Teams - CRN
 
-- **URL:** https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdUQzeHg5aExNMGlVUlg4SUV1WS14a29rQjR5OENKaWllVHV0bktGZWp5c0N4bllzZnFIcjJURHExZ1RWU01rbmNxQ2pUMUZNa1dKdnJYZ3dFbzJFS1hTcF9SanpBd2F4X2VEUmhZcHpRaXp6emlSWjVuN0ZlUWtYMWluYThJY2lPTFRtMkhiR0t0M3dGdzZ1UUo4Wm5Lek42NEh2RlY0UmxfUQ?oc=5
-- **Source:** Inven Global
-- **Published:** 2026-11-12T01:51:40+00:00
+- **URL:** https://news.google.com/rss/articles/CBMimwFBVV95cUxOVHl5REdIWFFFRUFCV0RlTklpQ1k2NTAwV1NKYzZqZWl2elByZ0ljdW93eFZPa1V4bHVWajZRUmFBWHFJa0FpRWQ4YWZUYVdUdDV0cnFNbDNFWlFjQk1Mb1pPc1NkMkNCdUZfdzVPV1dianoxN1FFVEJUbVVZVUJkWEJxcEdxUXM4WXcwa1h0WE84SUc1VTlqZ0pSVQ?oc=5
+- **Source:** CRN
+- **Published:** 2026-11-12T20:09:00+00:00
 
-## Microsoft Flight Simulator 2024 Adds Halo Pelican Free for One Week - A 90s Kid
+## Several Microsoft services appear to be down – what we know - ZDNET
 
-- **URL:** https://news.google.com/rss/articles/CBMilwFBVV95cUxPd2stalA0M29iTmJKYmV0Y2p4ajRpOWI2cmlNS3VRY3VQWllzN1lpSnp2bEJmNkxjeGRBVDNVVWt5MWxJZ3lHN1ZCYnlKNzU0T0g0b01pWWxBdFNGNEVyY1RkZnhVZFA1SWV4VFFfWTJmbVc3M0dINVNmOFlGX3YwdzNnMF96UjZraXhpTGRPMWJRWWs5LVR3?oc=5
-- **Source:** A 90s Kid
-- **Published:** 2026-11-12T01:13:26+00:00
+- **URL:** https://news.google.com/rss/articles/CBMiekFVX3lxTE1aTzc5YUtNLVZqb0g4dFZXUXIzbkZMMWlfQmlYNGFjT0dMSmVSVmdIV1VWd0FybmpyQzZ5UXVOZVNxVHlBdGNUTWRwZWM3czJ3UlRVNjhpaGRxazg0aVcteXN2UkhjRWtWODRkdU5ZaU0wOFJ5Y2pENGZn?oc=5
+- **Source:** ZDNET
+- **Published:** 2026-11-12T20:09:00+00:00
 
-## Protecting privacy and press freedom: A Fourth Circuit ruling - The Official Microsoft Blog
+## Microsoft Outlook outage reported nationwide - KGW
 
-- **URL:** https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVFNkSGxCZnhNZkxGcDRNakVRaXBrNUhJQ2ZodVlqck5fZ3dselpfZnBLNEhTWEJSUTFkOHM0UEpLQXluajRkV2FhOEw3dXpPUzgtZ3p5WUNVa2d1Z0JzemNGSkRPOTFfTDM5Mi1xWHh0a2pHTkNjeS1BRklFNm1LcmhPb0RCbVJ2UzFVSzdBdVVROFFjdndlcmptYzhVcEdlLUtfQ05sYzNtTFNCVnpjUmJlNlI0Sk9FVXd5LVpmOWVqZ2c?oc=5
-- **Source:** The Official Microsoft Blog
-- **Published:** 2026-11-12T01:04:51+00:00
+- **URL:** https://news.google.com/rss/articles/CBMizgFBVV95cUxQNXVUdWJnUno0UGpmMWowdUEzc0VnZElaSzZBNDhlaFV4dEU5ejVqUWRneUd5Z05LVGF2YkJHbEVvQ3BKU2VqcnI2andqdUtpbHlBWTN2WTNQN0lkQXpycGpuSXZNMXg5eVVCam5JWjRRSTdrQU1HUXVaMEVkZXBEYU54RHlBQkZxc3lHdkoxcWxLLWU2WHozbEFWZ2kwZVFGX1VxY1ZxWFFxenNBLXVDUkFiT0JrMF93MHFuRHhRbmg5ZnVBaEhqQ3h0aHBXQQ?oc=5
+- **Source:** KGW
+- **Published:** 2026-11-12T20:09:00+00:00
 
-## Microsoft Spent $5.5B Less Than Expected and Azure Grew 48% Anyway - Global Data Center Hub
+## Outlook outage: Microsoft reports 'issues' with Teams and email - ABC News - Breaking News, Latest News and Videos
 
-- **URL:** https://news.google.com/rss/articles/CBMijgFBVV95cUxPa1hKLTF4TTFaSGxmdjItVmF0YmxMRi1qakh2RVdjZmducGpleVpHdzRxNURGNkQ4TzVUU3BBS0hma2JORXlWTEE1NE9JN0t2X1YzdDZ0cXVaWHVVQ1JvcGR4ZThlWE5zM005R2JFanVOVFZNeXlOZW9hd3Z1MjdVLVoyV0UtNXktZ2cyajdB?oc=5
-- **Source:** Global Data Center Hub
-- **Published:** 2026-11-12T01:01:18+00:00
+- **URL:** https://news.google.com/rss/articles/CBMijgFBVV95cUxOcjZSX2hZVHVlY0d2clcySTg2UEhUcnc0MlkxQmdNOGhDcWJnMkpxOXY5UWJ3T2JUUGdrZDkyeTVTeFBZb3psd3Y1NEJiMU9nbWFBX2ZLSEduWlNmWnpuZkVfYlRNR0RiNDBraFpSV0lzOUFrX1FaNXdCNkFFTktFTkZNN01CYzJTakc2OVFB0gGTAUFVX3lxTFBya0ZHS3VKZzZLZFFRMzlBQVFfaW9kT2syZGZxVFh1UlBPdXhaUDdlODhVT1dRSlFoSXl0Q1ZzVFJnMXRmX0hDOHZYeEJBdUs2VEY1YW9oenU0dkduS0dkS1VzMnVUd1ltSExvMEV4cXZCa2NlXzdvZGdZbUV6c3RhekdQOGs0aFczV1l1X2xwMVJoWQ?oc=5
+- **Source:** ABC News - Breaking News, Latest News and Videos
+- **Published:** 2026-11-12T20:03:45+00:00
 
-## Microsoft Researchers Reveal How Tiny Weight Edits Can Hijack AI Models - Security Boulevard
+## Is Outlook down? Users report Microsoft outage. - Mashable
 
-- **URL:** https://news.google.com/rss/articles/CBMirwFBVV95cUxNemxYaHVTeHJ5WjItNmdqYVA3ejZvTkNXeXNwdVZ4NTZxR0dHb0JFRXlwaWFlaHlfZExxSHBxd3JmQTNSNUVPRkp2WFBlQ2V2MFd6dk5kd282YzlRVXNzZjhHa0dKVkg3TjF6d0ppQzZua3pHdXktMW9NLVhMRE1ZYjlKc0FMQ0FIcjhCYWQ2OEFXTGUtWkpwcnJLczVmdFE5S1Q1ODhGZW4xVDZFamFN?oc=5
-- **Source:** Security Boulevard
-- **Published:** 2026-11-12T00:56:15+00:00
+- **URL:** https://news.google.com/rss/articles/CBMib0FVX3lxTE1PUWJMNm5aOVdpOXJNT1E4NDRMMV9fdXYzakhwdFZ1cVphS3BTdXp1Nk5kR0pPeWlKdXZRMVNlUXVEUFlUQ21nMmtudHY3Q2RldWdoWDl3cV9ObHRjaXdDSml3a21kUEEwc29YM0lCZw?oc=5
+- **Source:** Mashable
+- **Published:** 2026-11-12T20:03:45+00:00
+
+## Microsoft Outlook outage disrupts email for more thousands of users - New York Post
+
+- **URL:** https://news.google.com/rss/articles/CBMipwFBVV95cUxQMF9EdV9PcHN5RHpidndfYl9ISldRZGY0emoxQndNVGt4dHlVWTF5TWNEU0wzX250TDE0LWtwY1NmMzkyYnVYVzJkYTBLQVZjb2dTczR0d1hyLUR4TExrMVgwbU1ibEM2bGlSUWhsQjRSdWZSR1JlRUVtZW5hbjBER1NoS0UzRmJTSXFMR0NubHB1RFFCblhDNmUybVFjMElySGxYTDZ6bw?oc=5
+- **Source:** New York Post
+- **Published:** 2026-11-12T20:03:00+00:00
+
+## Major Microsoft Outlook Outage Leaves People With Email Jobs Unable to Email - WIRED
+
+- **URL:** https://news.google.com/rss/articles/CBMilwFBVV95cUxNWTEycUFvNHRyM0VUODM2ZTlvRlJVZlpETng5b1BUdEhKdExzX09pN1I4eldjSXZvd21GUTJmOXNIb1JHVGJ0SXp2SVFMM0ZZVFhDSnNXbHRkZXFHbVhDRmVrclhkcm5hRENPNGVpS0QzNXNhTjVQZ3ZSRWZablJpM1N6eXNhcGh0NDdGNTlxaXFTTzBuQ3l3?oc=5
+- **Source:** WIRED
+- **Published:** 2026-11-12T20:01:00+00:00
+
+## Microsoft confirms Outlook is down for many users - KPTV
+
+- **URL:** https://news.google.com/rss/articles/CBMijAFBVV95cUxNcFduakhRb196YWJkRE9uZGNNbHJrakMwc1hfZmF4MjN1aU5aU0E2VGRpV2dzNFY3M3E2YVhscXkyZGI5Nmo2RFR4NzNQcWd0RWdrY3RjSU5pNDFhZ3gxUHdyM25nSERXOUVacm9Fd1Jwb0l4ZktPWlM5UzdUS0JMU01XZjY4djBhMkJvUw?oc=5
+- **Source:** KPTV
+- **Published:** 2026-11-12T20:00:00+00:00
+
+## Outlook, Copilot are down. What Microsoft is saying - Detroit Free Press
+
+- **URL:** https://news.google.com/rss/articles/CBMiswFBVV95cUxOMmRNYURwRTl6WjhvSTZMQllvQUFaWHdCdjE0VlVicFFOOEUyNTRZYmUxVU5uMDZLazBFZUlXUmN0TzZMRy1idHowcnd5al9kTkFFOGJWUEFaVG0yMkgxRFp5Slhob3V5bWlpczR3bERPVkplc0VpeUF2Z2FjbDl1OHkwZi1GSHVWWmpZSEoxbGgxbjFCMWVLMmVtUmlqd242S21RUXpUZ3RrdEVTSHh5cWFNRQ?oc=5
+- **Source:** Detroit Free Press
+- **Published:** 2026-11-12T19:59:00+00:00
+
+## Microsoft outage: Mass issues reported with Outlook, 365 and CoPilot - USA Today
+
+- **URL:** https://news.google.com/rss/articles/CBMixwFBVV95cUxPeFI1UklwOUpvRG9PeDZWLWZpeDhGTzJLYWJtRE1xOFBCd2xRd3dnd1JqdTVJNjNMZnUybUg2TFEzVXNQbUZmWHB6ZkNjLUctTTlrRFRPeC1sSnJJd3ZiQkcySmwtQjE4ekVLZGlxNVJlOS1WN0x1UXdObGF5UTM4WWRjNll2SmRaRmNrUkVCM1RvaFQ1eUM5MW8yYjhLc0FWSlV5UERjTkRYUDBPQ0pCci03LXNsX0dYRHBmN01YQk54Uzg2dFBB?oc=5
+- **Source:** USA Today
+- **Published:** 2026-11-12T19:58:34+00:00
+
+## Global outage affecting Microsoft 365 and Outlook - NewsChannel20
+
+- **URL:** https://news.google.com/rss/articles/CBMi1wFBVV95cUxNSHZPT2xDeUl3MUhiN2xCbzA0U3YtR1lIT0VDSWVuMUlMMk1vczFCa0xhd3ZnWXNNdGs0MHlQYTlMY0p5c3ZMMzUxX3N2cFJpaEhCRVRhZWtBZGFGbjNUM0pUUzQ3Q3RtYVpMUDJXeVNzRFBySGc2dVZtMlpua1Q4bTlIejNwY2ZVM2lINThZQ0hRbmw0Qm1FMDl4Z19GdTNnYUIyYjZqN1IzMTVLc0xsaU1XNXZBZ2U0TVQ0ekFRU3IzekZBRW43YzY2eXoyMG1tRWxHbERvMA?oc=5
+- **Source:** NewsChannel20
+- **Published:** 2026-11-12T19:56:00+00:00
+
+## Microsoft Outlook and other services down; company says it’s investigating - Yahoo Tech
+
+- **URL:** https://news.google.com/rss/articles/CBMi1wFBVV95cUxQUFhNclJqVDVBWEZzTDI5UllfN2NLMVNxVlpSdVRjN09GNEk3eWJ1MDRSUnhMZUQ3b1BfR3pkNU9NbVd1YVNHdVFHT0xQUVg3MWs0TTZGRnZoZ2dOZkVNcU1Ec21ZRnQ2bUhFQTJhbTdYeU9ySndBeXMzZnlkRmF6LVBLTVBUNURHRmNmbEI3TXZpTzF5N1hPQTROYUZFaHVVa0dfazQ1U24zaVJuSnZnUUxEY0wxT2hTRHVUZ1c2R1F1MGNRakRvSENyNy03aWRGMERxdzF1SQ?oc=5
+- **Source:** Yahoo Tech
+- **Published:** 2026-11-12T19:55:06+00:00
+
+## Microsoft Outlook down across the country - Nevada Appeal
+
+- **URL:** https://news.google.com/rss/articles/CBMikgFBVV95cUxOc3Q2UmRUc0lXX0p0RWw5ekRUNWNWSkpaMG81QURIZnJrOVZRS3JFQTFxYVl6V3VNSXJNRl9Pc1dhLXhabUREX1R6N0RQdzVaSkgzNGpOVFVrdFdVWHMyU3FwRWR2X1BOdEp1ZV9QNFhISVlRZnN5T0xrblFwVUNDSkVIN1ZOdEtDSHZRUk1GVTNSUQ?oc=5
+- **Source:** Nevada Appeal
+- **Published:** 2026-11-12T19:52:36+00:00
+
+## Is Outlook down? Widespread outage hits Microsoft apps - Sun Journal
+
+- **URL:** https://news.google.com/rss/articles/CBMilwFBVV95cUxPeTg4M01ybkJ6V2JXNnVaQlNqU2ZDNV9KZ3BZSDFnWHdiWEpwT2p3VlJtbk1wbEYzbTUxUHZWamFvV2lKWnhOSHNzSzFPSC1yN0NvS2tDRXh3aGJKTWEtS3IxbHhvSkhXdjBVUU9xLVVobDAzdlYwMG4yM1dXQUZ5VC0zQUk5bTlUVm1wWjJSdk52QXhYR3ZF?oc=5
+- **Source:** Sun Journal
+- **Published:** 2026-11-12T19:51:59+00:00
+
+## Is Outlook down? Widespread outage hits Microsoft apps - Portland Press Herald - Maine Sunday Telegram
+
+- **URL:** https://news.google.com/rss/articles/CBMimAFBVV95cUxPQ081czBYVHBpZlBLSWpQN1pvaWw2X1g4V0tkRnpTQm1lazV6M3FJVW8tUU9vU3ZVZ21pMmdzNkJ3eXpwMUg3NldGWGxLMURzdVEzNkZoeVlTTXpBRlplSUpsWUtqWnBKemJHaDgxX0RVS3B6ME5wMldXR0lhVVRLUW5vSEFrSFk3SkR6TFFEeHlSZ25lN2czWA?oc=5
+- **Source:** Portland Press Herald - Maine Sunday Telegram
+- **Published:** 2026-11-12T19:51:59+00:00
+
+## Microsoft reports global outages, thousands of Outlook users affected - SFGATE
+
+- **URL:** https://news.google.com/rss/articles/CBMifkFVX3lxTE0wUDI1ZWpPZHZKa01QSzAySVZhMVBxeUFTZ3lVTFg4N1J0Z3paY1FWLXNPdVNKTkVsaGpmT25xeEJxZC1HNG83SGJ4bE5KUXg1enZUd3JDd09LZG5Gc09mWXA5U2xPZ2tfQ1NWdmFYLUFSY25oQ2N3TWoyeF91QQ?oc=5
+- **Source:** SFGATE
+- **Published:** 2026-11-12T19:46:37+00:00
+
+## Microsoft Outage - UT San Antonio Today
+
+- **URL:** https://news.google.com/rss/articles/CBMiW0FVX3lxTFBHWl8wZ3hNWlprbGpSb2VjaWZ6bEx0UlRmcDJhdTBWbl9ZTEVsRXZzckw3TkZnZzlTM2dhVE1LRm9aLUoyTGZDSWdmV0t1cXdDMkYwQlEwdlVJX1k?oc=5
+- **Source:** UT San Antonio Today
+- **Published:** 2026-11-12T19:43:07+00:00
+
+## Why tens of thousands of workers suddenly lost access to Microsoft Outlook and Copilot - AL.com
+
+- **URL:** https://news.google.com/rss/articles/CBMiwAFBVV95cUxOYzRlbWp0clFtamxHbng2eFl1cVlWbUIwSUVSTlhRZjZZQ0VRbFAyUW5oSGVRbHl6Y3N1RjU0RC03T0NkM1FWM2xwWFhlRGU0Q0VzbGN6Z1BlNmx3Y1FQVzM2RnpqN0FIejdOUmROQ2ZaRFVSUnEzbFFUUURQaU9SMEgzb0d6YVljNzJNMVB5UnZ2RmtwUmJybFhLdUd2Tk5ZbjhUWXBHcTRTT084YjVZTTh3dDBGR2lTeUc2ZTJhWknSAdQBQVVfeXFMTlBhV3JjUXBLQ0E3S1JMYURLbjZxZGVnTFpPRC1NamhxTDlBUHhfMFZFRU1zOUczRmd5ZjFMX183S0RwS3Q1ekV5cVg1VFJLd3N5ZnA4M2NkZEp5cmt4c19KZVlBamdybVMwdHVhNTlKRHk4ejNySXRFSzRxVmVWcTdLd3lOUmRyYkF0c2JzSjJ0QXgzV1c1QU5lVmNveGpCeHV2YUs3RC1paDJjUWduQnhJaU1SWmdfbWoyeE4xM2YxVnZZSGd6MnN1LXh3QVNfTmplRGg?oc=5
+- **Source:** AL.com
+- **Published:** 2026-11-12T19:43:00+00:00
+
+## Microsoft Outlook Outage Hits SoCal Users - MyNewsLA.com
+
+- **URL:** https://news.google.com/rss/articles/CBMiiwFBVV95cUxPcnQzT1o4VlZaYUZGNnYxMEhhQUxHV2NIVG9aUjZLSGJkWm1xVW1ZV05FcENLVEVJM3JFU2NGc212NFNZeGZoZFNWa1VlQzc4djJsQTNvdHBfSDlpR0ZqYnJucFo4TmM2cjNlR2UtMVlYcGdGMGpydF9jNUR5LVduLUZtTzE1a2RzYzNR?oc=5
+- **Source:** MyNewsLA.com
+- **Published:** 2026-11-12T19:42:45+00:00
+
+## Is Microsoft Outlook down? Widespread outages reported - WLWT
+
+- **URL:** https://news.google.com/rss/articles/CBMihgFBVV95cUxOWXhCUHpLNHg2c2d2NmF0LUZ2Q2VaVHhsS2NqQmpucGdwUGhHazlKREdoUkVuQUZ5czU4YnZMT1ZZUjdMTlp6OTdncjNkQWVUcV84T1FORzg5YXFqUWNRek9DZFNGMVBmRTJrV2RnSmdiQzRyUmNkczY4U0J6Ml8wUzI2UV8xUQ?oc=5
+- **Source:** WLWT
+- **Published:** 2026-11-12T19:42:44+00:00
+
+## Microsoft outages reported with Outlook, Teams and more. What happened? - Savannah Morning News
+
+- **URL:** https://news.google.com/rss/articles/CBMi1wFBVV95cUxPZ1paVmdMU3NKWVByS1pKOTR3YkZVSU9XZkxKOGJyd05xWnJHOEd4YWpqTlQyRHp4N3l0VDh4SFY0blQ5OUVLTlZoU1cxMEdPdlk1Zm1xSEVXVmNyODdkLUxqR00tOGQzdUJjWDBQLVIzTGR5VWt4SVVlZ1ZjTldyN096YTFPd1hReWxsWENlcEIxaVNibmdPZFAxN0dBcnplblQtWlAydDU0QkhHVGlVeFJXVkxzQ0lRcFRzWk5ybHFFellLVFRLX2FwQXEtN0o2eTZ1T2hXMA?oc=5
+- **Source:** Savannah Morning News
+- **Published:** 2026-11-12T19:41:00+00:00
+
+## Is Outlook down? Widespread outage hits Microsoft and OpenAI - Yahoo Tech
+
+- **URL:** https://news.google.com/rss/articles/CBMimAFBVV95cUxNRTUwRHdRLU10d0FBUDVVVFR1blNWTzg0aXpTcUF3VHppcnM0NWVpOW91ZUNFajRzZkRyX3dtYUstclQzMWRxbkJDNUtaclhPTDVYU0NuOEtTRnFtWU02RTR5ZFNwY2hXdmRXN2xENWFGeERwaTlhZl94bV9SV0V3QXZmcmtjaDFQTkJtd08zNEMtNFRackxUTA?oc=5
+- **Source:** Yahoo Tech
+- **Published:** 2026-11-12T19:39:27+00:00
+
+## Microsoft outage hits Outlook, Teams and Copilot, disrupting thousands - Euronews.com
+
+- **URL:** https://news.google.com/rss/articles/CBMipwFBVV95cUxQMVZLdEpkTE95ZU5XaDNwcUtVVXlzbkk2UnUyRGJkLWlETmg5eWlrVTRQRmxYQnRnNU9lbHQ4UGU5b1BDRDY1RmI1NUE0RUVsQVRsUFljYmtoamxCZlFmWmNSbm90YnlVSURFZHpTRXBoeTlGTUpIVlpKS3Y3VEFjT2R1eG9VdDNrMWdzRW5TVU5lanBVYXpyVnQ2OHQwU0I2TTFIM2s0VQ?oc=5
+- **Source:** Euronews.com
+- **Published:** 2026-11-12T19:38:47+00:00
+
+## Microsoft Exchange Outage - Old Dominion University
+
+- **URL:** https://news.google.com/rss/articles/CBMiY0FVX3lxTE11SUpIN2lQSDduNHA3Nm0wSDY0ZjZmeXREb2xtaWZxYTZrMHFlX2NsNV9TckZXazN0VE9Qam9jb0JQZGVjOHpTRkFtWFlEYktyc041VDdKSGpWRk5IdVVTNEFLMA?oc=5
+- **Source:** Old Dominion University
+- **Published:** 2026-11-12T19:37:56+00:00

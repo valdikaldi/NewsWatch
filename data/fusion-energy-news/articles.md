@@ -1,8 +1,86 @@
 # NewsWatch — fusion energy News
 
-_Last updated: 2026-11-12T12:16:20.559971+00:00 · 50 articles_
+_Last updated: 2026-11-12T21:19:50.366528+00:00 · 50 articles_
 
 ---
+
+## UK Fusion Energy launches five tender lots for its STEP fusion plant - energynews.pro
+
+- **URL:** https://news.google.com/rss/articles/CBMimgFBVV95cUxOOE1iMEhXY1NueHlFTVBSbnRRSk9pZGU1R3RUZ05ERTgxeVB4djBSemRreFFtZGtlVThIdm14dXZKU2hXTWVlNHFLcGZzdkxjMDBIMDlsZURZMU5mb2x0SG1PNzJzbU1ZNHpZMkJUM3pRaUdaWEFfSGRlZFZlbEZfanNwRm4wQzhkWDBJM3BQZHhodklQeU5ReXRR?oc=5
+- **Source:** energynews.pro
+- **Published:** 2026-11-12T19:19:47+00:00
+
+## Turkey and China announce a memorandum of understanding on renewable energy - energynews.pro
+
+- **URL:** https://news.google.com/rss/articles/CBMiowFBVV95cUxNVXRBaGFKWG56a0hGUld3MVNjWDIxVEdMTGlmMWxPcERkM0N4WXVYVnc4WGxZSFB4Ukh0UmEzbzhpczU1bHhyaFhJandoSzI2aVF6XzJVOUlkMy1hRjRDalBSanZicEloakZ5ZkNHSXdib3lvQU82eWtRS0xOWlZrZUdTWm9CT2x4VXp3SC1wa09rakNQbXo4SkxoOEJGcnlCb1hF?oc=5
+- **Source:** energynews.pro
+- **Published:** 2026-11-12T18:34:40+00:00
+
+## UK Secretary of State for Energy Security and Net Zero Miatta Fahnbulleh meets Eni CEO Claudio Descalzi as company confirms £11 billion of gross investment in the UK - WebWire
+
+- **URL:** https://news.google.com/rss/articles/CBMiYEFVX3lxTE82MkVOb2lrRGloN0ZCaHJ5Y3FyMWFWdWFmb2RycF9LS0xnSTBjb3lDYzhicmdJQ1hHQ2w1R0NYcnRyMmJ0RlU3QWdLQUI4QjY3ZVVVY2U4Rll0UDlPVVRKcw?oc=5
+- **Source:** WebWire
+- **Published:** 2026-11-12T18:34:29+00:00
+
+## Saudi Arabia Participates in Third High-Level Meeting of IAEA World Fusion Energy Group in Vienna - وكالة الأنباء السعودية
+
+- **URL:** https://news.google.com/rss/articles/CBMiSkFVX3lxTE9mcERsUGlOUWZ3c21wWmNLc3p2YzJKWFVaSmhKSXR4am01cjhWb08zWHQ2VFI4UEZuSEduLXNQS2lCX3g1OE5VS1Rn?oc=5
+- **Source:** وكالة الأنباء السعودية
+- **Published:** 2026-11-12T17:03:49+00:00
+
+## Exascale Fusion Simulation Team Named Finalist for 2026 Gordon Bell Prize - HPCwire
+
+- **URL:** https://news.google.com/rss/articles/CBMisAFBVV95cUxPUndzSXo3Y0NMSTIyTTd3cTZCY09oRkx3VjNXc0tWOXJsSnA2MERpb0VpSEVMakRQREhVRkU2Q1Bsc0tscEhEOHdHN01vdUFtNnkzWUlranFtNzJqZkNaRDNoX0RzcVZoOHg3Nk9CN0V5WElqWGJ4SlpMRW9IQldVbVo5RGtfQ3RPa1NGSjIxSkFUdGFRamU0SHdNb0MzSlk2bDY5ZzdCN2F6c3l1VGtETQ?oc=5
+- **Source:** HPCwire
+- **Published:** 2026-11-12T16:36:48+00:00
+
+## Bids invited for construction of UK prototype fusion plant - World Nuclear News
+
+- **URL:** https://news.google.com/rss/articles/CBMinwFBVV95cUxPWkc0OGFCMVRNemMySGdPSjZTRUQtSDJlUlVkY1l2UVVaYjN5TmtWb2stNUctVTRVXzN3aFJzd0VXLXAwcElrLUE2ZHptWGdvNkotaDgybHpqNmRzNXBWZk05a3dfUTEwTUdJb1ZTU2hLaDFtdlZkOWhFZ2FYN2hVQjIxUHJqWGQ3UmpBTTlodm9BMjFKd01zQTh1eWczNEE?oc=5
+- **Source:** World Nuclear News
+- **Published:** 2026-11-12T16:20:09+00:00
+
+## Advanced nuclear test reactor unlocks full clearance for core hardware trials - Interesting Engineering
+
+- **URL:** https://news.google.com/rss/articles/CBMiiwFBVV95cUxQQmxTaGZiampET3JsUXd6TlRNNWFLY0dvTXVxSkhMYUFRX2x4cjB3YlFHQS1STFdXd3pTMHo4VUVGWWVlTUx1RXRsVHBUSWcyOTZkdDNCbDk5V1libkEwTzFMeVRrbmxMVkFkazdRZDZkRGR0T09RSDFvWEhzS0w4Qjl1aUVraW9ySlJR?oc=5
+- **Source:** Interesting Engineering
+- **Published:** 2026-11-12T14:16:00+00:00
+
+## AGORACOM Launches AI Powered American Fusion Verified Forum For Civilized Shareholder Discussion And Direct Management Engagement - The Manila Times
+
+- **URL:** https://news.google.com/rss/articles/CBMiqwJBVV95cUxOSUtsbXJZLXpQS3ZjTjBoOWFiMlRLYlJCV3VnR3dyTDY0OGFJRlZPdWo4VDQ3Njh2RGxEMEF6Sk5maXdsY1cxT3U0UHV1WFN2SGpBdzRaTDdSMTREQzhlZkpzdS10WFFrQ1lTUjIzZGZIbHN0Y1F4VS1ITEp1R0RWM2ZtVzM0RkxGbVk5Ul8zWlZxRHJnRThMWV9yT1RuSDFyZlZvY1lIVUltZ0JGR3FzcXpSZTMzT0E3Z1VSNHZYSkMyM3VnWVBrMGJQY3Bldy1sdXVUNVdqMm4tazB6RzJzWFp3TmlfalhhcFF3ZkpWQ0JESUw3eWg0WVBsWEdkc3ZCR0gwVUFXY2YxX1Q4aElJbUxaMFp3dk9vYnlWZFVoZ3NkZDh0UW1DaGpJRdIBsAJBVV95cUxPYUJ4UF95Wk1TMENDUFBsSW1NX05PZjNWeTVTV1VnM3RhRWtpMVpHVU1pYlhraG5ZbWxyd282OUNKUWlpRFJETEFVT0ZLYXRkTUhxdHBXeWFzNnU5OWtfSFI4WUZZR3hDYXRjajBfa3ZtWmMyS1QxeUZGT0M3YldBQ0x0WVV1Z0N3UllzX2w1OXVKd1FYcGFLWGl2bHFBa0pidFczeHl3Vk52ZkF5Wm5rRGljMkRRQ3VZMS1kcWRsd3A0NV93ai1Wb3V6ME1Rem50d1MySWN4T1pQN1k2Vy0tcWRNUU1DaUtEN0t4d203Z1JVVi1zbUhKTzA4N3l3dzZ1eGZtQ1ZSaGs4Q1A4azEyQl9uOGNpbFZFWjd6ZGtLRDA5V21aSEVzVW92NFdidlAy?oc=5
+- **Source:** The Manila Times
+- **Published:** 2026-11-12T13:49:54+00:00
+
+## AGORACOM launches AI-powered verified forum for... - Pluang
+
+- **URL:** https://news.google.com/rss/articles/CBMijAFBVV95cUxOODY5SUNZRTJXUWJWR0pSbmRRRldoX1F1SXpVd3lEV1pZXzhydUoyV0t1d1NMWDNYRlVZbmZFTXVrVlE0S0k4YjFoWlVHd0dGRFc4M2k5QmVVYjFMMlJvcEpsVS1ERXhxUnFBTDNJMzhxZDlhcTlodlhOMi1xM0NNU01BREE3UldvMUcwRg?oc=5
+- **Source:** Pluang
+- **Published:** 2026-11-12T13:45:13+00:00
+
+## U.S. Statement – World Fusion Energy Group – November 2026 - U.S. Mission to International Organizations in Vienna (.gov)
+
+- **URL:** https://news.google.com/rss/articles/CBMiiwFBVV95cUxQTnZtX2FkS3FGVk1WUC1PeDB0N0tHbnN2Z1dYZDUzQ0c4aFpFOFdHQVRuVmsxRkNIcUZ4STdCSnEtYk5TZDU5V2dtLWNfd3ptRkVGTDByYkREbHBLaFl6NUJFaFRfdklEWVhmRktrQ1JPUGpsZFdHVk45OVhOSGJkZVBibUpHbWlRalZn?oc=5
+- **Source:** U.S. Mission to International Organizations in Vienna (.gov)
+- **Published:** 2026-11-12T13:44:06+00:00
+
+## Fusion Is In ‘Crucial Transitional Phase’, Says IAEA Report - NucNet
+
+- **URL:** https://news.google.com/rss/articles/CBMimgFBVV95cUxPdnZVNTYwUXVtVVN2NWxTdkVOdVpPc0doaW1PMTV0Ulp6bldqQ01OY2VybnpYYld6MHVBVnRnMllYcExZS1FQUGotRmVIdlR3Q0VjWTNwQWlLOFBtMlBqQVFiOVlMSkxNM3hFUzhoMV9uTnF0MG9iZGRoLVhobUxjcWxKMjRoZ2l4SUZkVTh2SFFMYVpJNlgwNVd3?oc=5
+- **Source:** NucNet
+- **Published:** 2026-11-12T13:33:39+00:00
+
+## Community town hall on Thursday to discuss energy issues - WTVR.com
+
+- **URL:** https://news.google.com/rss/articles/CBMihAFBVV95cUxNd3NGWFBXSzU3WnEydXhyZzlwSEFzaWdBLVMtemVmZDNXOXhQTXFlSW1HRmM0V0kydGt5QmNYTjRxSWhhOHo1dDh1d3NfZTN6WU10TEQwQ243ai1yNjBnX2tkOE9aNnNDNTJWUlNLNVhVeldzVlNsVTZrZ0FaeksyRDJSaW4?oc=5
+- **Source:** WTVR.com
+- **Published:** 2026-11-12T13:11:16+00:00
+
+## Nuclear fusion reactor exhaust heat gets world’s first levitated dipole divertor tech - Interesting Engineering
+
+- **URL:** https://news.google.com/rss/articles/CBMihAFBVV95cUxQcDZlazByX3Y0Y01mcV9BdmYwdzRkMzJOT2c4bkZnSk9RamZpRnRGV2RmbmtsaFZiQzduMl9FcXptQXFYUGp5eU00MTFLWERMZkpUc25MVHREVnhLTG9ocFl1aFZ1Z3FHUWhhSmRJMG5sdFlwcmNocEhKbVo1ZVBIeGJ0dHA?oc=5
+- **Source:** Interesting Engineering
+- **Published:** 2026-11-12T12:51:00+00:00
 
 ## UKAEA installs 12-tonne component to boost UK fusion heating power - PES Media
 
@@ -225,81 +303,3 @@ _Last updated: 2026-11-12T12:16:20.559971+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMiigFBVV95cUxPS0VyME82cHpPU1gtSkNBZWlYMEtZQk5TSVE1STBNdUthSnNUY3NrYXFCWlJhOVd3TE5Tby1OZ2k4Q1cxN0NWX2gtUGlMckEyaUpyaUtZU1E5eGFXNG90TXpxNGtoOVFhczYwdHNXclpoNGNIZTYxSHJsaC1QXzFQOTFpU3VydVJtMFE?oc=5
 - **Source:** Mirage News
 - **Published:** 2026-11-10T15:20:00+00:00
-
-## Fusion Energy Reactors and Rare Earths: How REEs Support the Shift from Physics Experiment to Power Plant - Rare Earth Exchanges
-
-- **URL:** https://news.google.com/rss/articles/CBMiZEFVX3lxTE5BbWJMR0ltZElhZVRjN3E0OFdOckhUZWVYd2hrTFBJODZLMmJhbGpqZnpicHNqVzhpdFRqNWZVWTJWX3hFVnAwMWNrdXdveEpHVi1fZDRNUnNPbV9lZl9vSzNGSXQ?oc=5
-- **Source:** Rare Earth Exchanges
-- **Published:** 2026-11-10T15:03:46+00:00
-
-## Lord Ravensdale opens new building at West Burton fusion power plant site - West Bridgford Wire
-
-- **URL:** https://news.google.com/rss/articles/CBMipwFBVV95cUxOVTg1LTllN1lLWE8xdGJtSlo1YlRpcU85VkVRdEVYWGJkRWpDZ2pQRC12SmpMQ3g1TEJsN2wwei1XUHN0LXpJNkp3UzVRYWdvbjFCNG5CRGoxYmtwYkZFZnBkaFdfenFzZUN2M3F2VndlWjJTUXhsQUpYbGgzZTVUeUZFZkwtREFWWTg2M0VkQmxhMjI1Mk5weFZfcXJodmozb0V1dXV1aw?oc=5
-- **Source:** West Bridgford Wire
-- **Published:** 2026-11-10T14:05:40+00:00
-
-## Multi-MA Fusion Accelerator Performance Insensitivity to Electrode Contamination - APS Journals
-
-- **URL:** https://news.google.com/rss/articles/CBMibkFVX3lxTE5TZ2xKV2xFaDBaY2tzazB5MEwxSjZRQTN1bFR1Uk00aWVIb1M0alVlZTJnWVp1eEZtaXdCcUxQeWl6cldxYjh6TEMyeTVDcUJ5RnJzNnVzWWxBMzQ5aG00azVtc1hZVjROTlpESGJ3?oc=5
-- **Source:** APS Journals
-- **Published:** 2026-11-10T13:47:10+00:00
-
-## Trump Media & Technology: 3 Key Takeaways for Long-Term Investors - The Globe and Mail
-
-- **URL:** https://news.google.com/rss/articles/CBMi4gFBVV95cUxNX2g1bUtYTGFzUk81UHd2MTBwN3BUeGJ4Vkw1YWV3SFhCaWNyQVRGTTVxNUg2akN1MU14TjVFMHRmdGs4OXhPdzY2ZjRWc0xsejlRY0lfMnJhbkp0algyMTRCUHRJLTNlbHhBbFFuSkVjbzU3Ml84YjJDWXJEeGJRaC0tTndQV05FQmtVRXR2S3ZsOTNvUmRhNHg4Um5Pa2FoOW5ya0Npd2lhazQxWDU2QThGUVM1RHhUVDlTTDJTQlVqYlRSaVgwVFRQOEJLeG5DWVpWN1ByeUhJX0tRRWgybURB?oc=5
-- **Source:** The Globe and Mail
-- **Published:** 2026-11-10T13:34:30+00:00
-
-## General Fusion Expands Executive Leadership with Appointment of David Janashvili as Chief Financial Officer - The Manila Times
-
-- **URL:** https://news.google.com/rss/articles/CBMikwJBVV95cUxNQVRDMDB3aVN2Z2U5aEZUUHVtMjZoVU1kdkY2MUhDS3pGZ3BTLWNYYjNzeFJVUGdfYTZMTktsVTJYQXNKSF9VbmFEWGQzcThpVGhDcEVjVm9WYlFkNWRLVXg5WFF6RFFqVnQ3c0VXREdGN2pfLUVPazJUZ0xBcUo3dlZTRWlHbmxjRk4zZEVzb2w3NkF5UHd0dFNGZlZkaHJ3WVA3ajZVd1laSFhyUnB1cW9mTVhrOTd6elJZSjZPT3F3Nkg2WDJTeUY3eGVmZThGRHF2d0dOX0l6ZDE5emJ1NlRJVHVwXzVKN1VlanJ0NGN5RUdwSkpFM3d2OUNDWXJsbmpWTjJ4Q3B6TzFJb0RoOHpmTdIBkwJBVV95cUxNQVRDMDB3aVN2Z2U5aEZUUHVtMjZoVU1kdkY2MUhDS3pGZ3BTLWNYYjNzeFJVUGdfYTZMTktsVTJYQXNKSF9VbmFEWGQzcThpVGhDcEVjVm9WYlFkNWRLVXg5WFF6RFFqVnQ3c0VXREdGN2pfLUVPazJUZ0xBcUo3dlZTRWlHbmxjRk4zZEVzb2w3NkF5UHd0dFNGZlZkaHJ3WVA3ajZVd1laSFhyUnB1cW9mTVhrOTd6elJZSjZPT3F3Nkg2WDJTeUY3eGVmZThGRHF2d0dOX0l6ZDE5emJ1NlRJVHVwXzVKN1VlanJ0NGN5RUdwSkpFM3d2OUNDWXJsbmpWTjJ4Q3B6TzFJb0RoOHpmTQ?oc=5
-- **Source:** The Manila Times
-- **Published:** 2026-11-10T13:19:03+00:00
-
-## General Fusion appoints David Janashvili as CFO By Investing.com - Investing.com Canada
-
-- **URL:** https://news.google.com/rss/articles/CBMirAFBVV95cUxNNjF3aW5JVlhraGQtU19sWlEtUEQ2MGdMdWpWbl96YzFmZ0h5ZTdvaW1OTWxUdWY0bFhJRGlCOVpQeVJfNldPM3h0REdQRTFVN3JwYXZ0Ulp3S0tuZXh1ZS11MVpzQ2RCSzM4eGZ2NE5vODRveThHODdBWk85VzlvbG9RWDI3Wllsbm84ZFlmYnVQYTZLOWQ5elBYTmxybE4zS1ZvYUVHTFNnTHpJ?oc=5
-- **Source:** Investing.com Canada
-- **Published:** 2026-11-10T13:15:13+00:00
-
-## Wedbush Expands Equity Research Coverage into Advanced Nuclear Energy, Led by Director of Equity Research Seth Basham - The Manila Times
-
-- **URL:** https://news.google.com/rss/articles/CBMimgJBVV95cUxOQ09IZlRvTEpaRVFFM3M5b1Z1XzlfNlgxOUliNFplNHVGS0JCbVh3bG5vY2x2MVhDVEUxQzh0TVBJWDJNbG5pZG1vdGE5T3NOZlViOFl5QjlCM3RwalJ3NlYzbXNGVGpIbTVxc21FQWRrWU1MM0lUa2w0d1FTMWIxSk9NdTRXcVFRekdVY3p6MVhGa3dodnROVHY4bFhQTGdjRm5MY1pzS0M0NTZpdk5tWGFhR1BlMVRsYnRFZGZBQ2NNd3hlXzVteWhkR3E2LUpUcWU0aW4yUEdZTU9oTzV3SkJ1dHIyOVpaeUJkTUs5UXU0VjBCLXl2MGw1cmtLS2tFaVhNQzRQWVplaGdzWmtwdE9aTHJkM1R4cUHSAZ8CQVVfeXFMTXlLWWVfbGUxc3czWHJZZWxMUkp4a290Z3JqOEtqZVhiZ0ZWc0ZyRUQxQmlRTGRIcW5PX1VGLTdhaFdiXzNPZ1RvV0F6RTVBcjRyZTY3cjF4eE52ZlVDUTFDc0xlSXpCRmZ3LXNuQXoxMWl4XzUxM05kSXJ4UDlEOVdJQzhOX3dZa0ZVQlNqeWV1THg5cl9ZRkJtS1dkM05NOUVSUi1HVm1hTXFiVW1GZUZQQXNlLWZCZXU4VXkwWkVVS3A0UDNnNXJDb0ZtWXdTeG1nQ1pMZzN2anZEX0J5by0xRG5LRFVLTERqY25PWFoxeHFKWnh1bk9QdGdHS1IyRzBnV2k0ZEtZa3l1aGxvOVlnenNmQnI3Ylo0cEZuY1U?oc=5
-- **Source:** The Manila Times
-- **Published:** 2026-11-10T10:52:46+00:00
-
-## Google Researchers Use AI And Mathematical Proofs to Cut Quantum Computing Requirements - The Quantum Insider
-
-- **URL:** https://news.google.com/rss/articles/CBMiyAFBVV95cUxPcWNOUm1INHRGYXVRcjM0a3FGT05iZ2szYUhNUGJaZGp2VVNwOEdNT0RoejhvNEM1S1ZnV2tRV3JSdzR6MFcxa05CMWVVckVLR2FXWFdkdE1CTm9xR09yXzBpVzFlRVJkMXBJOWVzb2JabGRQS2YzTnJYSnhkS3pmbkFPeUpDZVdjZG1zcTRDaGhuZTJNdFNKdEFfNXNQNXZHOFowQWtCcnNpQVRjTzhQVTd6RXhHYjlESjdZTUVoVnlyR2FtREhYOA?oc=5
-- **Source:** The Quantum Insider
-- **Published:** 2026-11-10T09:41:12+00:00
-
-## Unlocking the power of plasma physics - Innovation News Network
-
-- **URL:** https://news.google.com/rss/articles/CBMiigFBVV95cUxONFg1dWJBQWthRDVJbkdoMGE2b0JTWDUwNC1ud0p6LXZROWdLY3N6S2lDZ2thNXVTQTZaeVZLaDljLW0yTzlUZk9NYnFSYVVydUI5b09ZaUZtcl9mUmlPc0RDRW1VTmlvZ01iWm45dFdGU3RDekxpVEUxdzl3NlBWZDZVU1hOcDdCekE?oc=5
-- **Source:** Innovation News Network
-- **Published:** 2026-11-10T07:52:21+00:00
-
-## The Fusion Energy Industry Needs More Credibility To Commercialize - Forbes
-
-- **URL:** https://news.google.com/rss/articles/CBMivAFBVV95cUxPT3RmU2xYOUdUUm8xTnhYZTNKVTRIeHMyZDZWRWp5STZOWTRFZy1GVUh2cXJKYnoyRk0zUU1GbzNvQ2dUa2dpYzVUTmlNMV9WNmxmcVRmRXBKenpFZGVsQUpQdXUtLVFtOHpjZ3UwTVgyZnlGZ29BNUx0X040Y185TDY5NEpnUUF2QWFuS2FuSHA0Z3otdkJDY19ONTJrVUhXbUp0VkZKZGlRa3d2WkJnTXRXWTdiRjJFajBtRg?oc=5
-- **Source:** Forbes
-- **Published:** 2026-11-10T05:00:27+00:00
-
-## Fusion Energy's Birthday - Gatestone Institute
-
-- **URL:** https://news.google.com/rss/articles/CBMicEFVX3lxTE0yR09LeTZsV2pOUnpDMUoxMkdkVGdwQlYydk5vSFQzRGFmSHJ5SGtiN19Idy1QcXZBR1NCdHdrTjQ1N0V5bFNxTUYtOHBIMHAyeWZDN2Zsekc2ZFREQnlRQjQ5UmZ4VUNqNHRuRy1oQ0E?oc=5
-- **Source:** Gatestone Institute
-- **Published:** 2026-11-10T03:00:00+00:00
-
-## Fusion Engineering Institute co-hosts Beryllium Safety meeting with General Atomics - UC San Diego Today
-
-- **URL:** https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMEtKZk1UMnF4TWtTanRTQ0J4VkVuVGtuQUZ1SlJ0alVpVGs4VjlHNHY1OW5SeGJNc19IaFczUHlXTGdSOU1yVUw5elNhdEhQZFN0SkVwSTgycmxMcE1scEdTcVk2d0N3WUtkTE9WY3lEM2x0T3VObzZ2N1JqSV9iOVlWdG1GYWFGQ3Z2ZzFwSHpUdUU3aE1LYmh3d1BjdmV1eTZNUTV5QUdwcVhCb1V1dkVSbm9yZHhl?oc=5
-- **Source:** UC San Diego Today
-- **Published:** 2026-11-09T23:17:43+00:00
-
-## Physicists Gave Up on This Fusion Technique in the 1980s. Now It’s Working - Gizmodo
-
-- **URL:** https://news.google.com/rss/articles/CBMipgFBVV95cUxQTDJhNXluQ1FLNlNuNFN1dEh6NkJCWmIwX1lyOE5pNlNjSEQwMXQ0YWJuYm5wQUhxVEF1UUxVVWRyTVZzSXAyZEJ1N3hPaFFPMjcyUUpDbnQyWXJZMmRJN1lucDNkQ1RSejV1WnFGVnhwdC1DRG44eDJJYjFuSzl4cWdTT2NDNmV1SmRQVy1saXpVMDlWUjlJaWptbmFIY3BPZURpcWFR?oc=5
-- **Source:** Gizmodo
-- **Published:** 2026-11-09T21:10:04+00:00
