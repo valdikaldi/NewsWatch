@@ -1,8 +1,86 @@
 # NewsWatch — fusion energy News
 
-_Last updated: 2026-11-12T01:49:23.772238+00:00 · 50 articles_
+_Last updated: 2026-11-12T12:16:20.559971+00:00 · 50 articles_
 
 ---
+
+## UKAEA installs 12-tonne component to boost UK fusion heating power - PES Media
+
+- **URL:** https://news.google.com/rss/articles/CBMilgFBVV95cUxNU3JudzVlenlVTTNYTHZJTWlqNG56dW9IWXoxZ2VhOS1VRVA2a2o5X0pTQWtSZDJEY0dCU0JNUldrQ3VMWXE1YzdnSzR4cjFoTGRDWkR3WnRJQnNKWGRPSXlOSkdkMllrb1FBVWxMeWJHTng3bXVLMlR0YzFIWGlVdDc4eHR1NjB6Skw3aTFlTDAzM0hWZUE?oc=5
+- **Source:** PES Media
+- **Published:** 2026-11-12T12:13:40+00:00
+
+## Fuse will not build SMRs or fusion until it makes $1B a year in free cash flow, says CEO Alan Chang - Dealroom
+
+- **URL:** https://news.google.com/rss/articles/CBMiywFBVV95cUxQSlB5RUZDNzl4bWJ0WTlIOHpHYTA0aEtIODUtcHJzVFM3UnNXeUZ2UnVzRTZYSXZ6anR2TF9LdTRiYzJON3N5Mk11YUpmX1Y0LU40NXk2c1NfNlVEVlJFZ3BBZWh4bHU4NHZOQkt4RmprcjhEU1lXS1VaRFllaFZ0WWw3Z2lzaU9LeWNhNVhwMXU1Z3BTVU5IRDdUM2h6YVNDU21Yal95SFRGWndrUURwa2h1NHIwR2lIWGI2ZHdpN2dHQ1dSWUxKb1BmQQ?oc=5
+- **Source:** Dealroom
+- **Published:** 2026-11-12T11:49:44+00:00
+
+## UK fusion engineering partner programme tendered - Partnerships Bulletin
+
+- **URL:** https://news.google.com/rss/articles/CBMiowFBVV95cUxQcE5ETUY2bTkwcFpyVktqS3V4WF9PUHE3RGtySGxad3hPSS10VGpuWVIzTDhPU1BZQUpqWEFuWk9lNFhoR2RKX05kQkxWQ0sxTlBGWXAtV2JmUEtKaXQxUmlQME5QRmpwRl9DeTI1M1hTMGpJZW15S191UHA3VVpoWDdxZkpkMFdvOTgyRkxlNzZENW5VMmlLNnIzYTFDS056a0p3?oc=5
+- **Source:** Partnerships Bulletin
+- **Published:** 2026-11-12T11:42:27+00:00
+
+## China Pushes to Lead Global Gas Turbine Market Amid AI Boom - NewzTodays
+
+- **URL:** https://news.google.com/rss/articles/CBMiiwFBVV95cUxOQm12TmdsZWppTUk4WVRrTHRsYjFFVEs0V2FDVlNxUlBXUlY1eW1XVXJUSGU0OTM1WnlfVmpPSWg3T3dlalVxdVlpZEFodUxmRkZqY1FxaFJOa2NYd0lUQnM2ZkhBbTVfSmRyWHJzeXJUQUtCRjdoUm5fRlRoeEpyT3g0ZzUwWHM3US1Z?oc=5
+- **Source:** NewzTodays
+- **Published:** 2026-11-12T11:39:09+00:00
+
+## £115m fusion plant contracts up for grabs - Construction News
+
+- **URL:** https://news.google.com/rss/articles/CBMingFBVV95cUxNc3N2RTlMXzZ3VWw2VlI2UTZCX2F5QTcwdGZ3ZEJ1c083bVZwQXFTaDZmbmlrSWMwakdUREt4MW4yelVMT1pSVEhRa3JrNlMxYWQ2MHRvMUFYOWZ5TWM0eDMwYUthVVFBSThzZ2p2SGtWNW9pMldiWFkyS2Y1dVpaUVg3Zy1fRnl5TzBhQmsxdUxwSXE4WUVWc3RkVFFTdw?oc=5
+- **Source:** Construction News
+- **Published:** 2026-11-12T10:41:15+00:00
+
+## RWE (XTRA:RWE) Is Backing A €140 Million Fusion Materials Plant - Yahoo Finance Singapore
+
+- **URL:** https://news.google.com/rss/articles/CBMifkFVX3lxTFAzcDlabzJBakpHOVFzZjNTQkZnMzlvUllsNGRhUWZERnl0cmhUc2tlYWlKdFJaaGlVLWdydncyYkd2cXZydUhTZk9PUzFIRF9ySHVvenh0aXM1VUVtZzctUTVTdTJjUzhlc0EtSHVHLTJ6b20waFU5YkZKMGRoUQ?oc=5
+- **Source:** Yahoo Finance Singapore
+- **Published:** 2026-11-12T10:14:53+00:00
+
+## hi-octane price lowered by PSO across Pakistan cities - NewzTodays
+
+- **URL:** https://news.google.com/rss/articles/CBMifEFVX3lxTE9SSUFzUV9SM3Y2LUJqc0xSLW1VNHVMM2pDckVCODRoNlBmRWVTZTNJVVc5enI2MXVTWjdEQWZDSjNfN0dhY0tZU1BXRXBTUlpCcUFEMVNPbWVIOVNPMDlnMXl0OE1QTjQ4bG5NSTFOU1pWR3RqZlNUOU9oVUY?oc=5
+- **Source:** NewzTodays
+- **Published:** 2026-11-12T08:38:56+00:00
+
+## Tenders opened for nuclear fusion programme - Trending Now Infrastructure
+
+- **URL:** https://news.google.com/rss/articles/CBMimgJBVV95cUxQZjRvYzhKcGp4bFZ5bFl6LThORDNqcjZhbDhlSDRVd3lFaVZFWTVLYURJcVI0RzJDam1MbTRZa1REcWk5ZEkxUFJsdGpjV3MwLWNzQlh4c3IzMHctQkd1UlRPNHhzdGRHSDZreEN1ZndGdW1seDF6Mk5vLVQtSm5LTVRaTTF2MWhVbjdqU1YxRGREMzdjczc5cXI2bTlQUmJrekZ3Z3o4clM3Q25Mc1BGNk5IMnFUN2YwSlhsd0tCSGR3YjVrY242SFFvNENEeHl1RkpSYU8xQUQwWDBCN1B0NXdpNlhZX0JyUlJUT3dEUlMwYmQ2VFByMExSSEVuY1ZrVnYwVDB5Tk1WSjVGMUVINzYwbjVvWkF0bVE?oc=5
+- **Source:** Trending Now Infrastructure
+- **Published:** 2026-11-12T08:18:34+00:00
+
+## Pakistan Collects Rs220 Billion Petroleum Levy in Two Months - NewzTodays
+
+- **URL:** https://news.google.com/rss/articles/CBMijAFBVV95cUxQczkwUTkzclR6UGlmLTkwODlyNEl5UFdadXB5RWpmb09LVnNDS1hhZE5kSkQ0anh6UTNFcENmNzRQZm9hQlV5NnhHaVBEanpuVjk5YTdXcXpFSmc5SmFPVU84Rl9ZNW1CeC12bGc2QWRlRjQ3NXgyRnU4ZGxTNGpHSlNiUExHeXVUSXg5cw?oc=5
+- **Source:** NewzTodays
+- **Published:** 2026-11-12T07:49:09+00:00
+
+## California Refinery Closures Impact Sable Offshore Oil - NewzTodays
+
+- **URL:** https://news.google.com/rss/articles/CBMihgFBVV95cUxNWEJEbDJQdklKN0V0dkctWWxUTGZKa2lIWWc4S21acHh6NWcwSWtnUnF1RXJETU9UUDV2TFpRdkFZdG9rZHlzM2prYzlrUzhvTnhsWWpRWnBmYWhUVHJ0Yy1TZm1nbExWOEVvS1BUM3lvbl9Pb1FKTTdHODV4V2FQVTlzeW5GQQ?oc=5
+- **Source:** NewzTodays
+- **Published:** 2026-11-12T07:02:01+00:00
+
+## Fusion Energy Focus Shifts to Superconducting Tape Production - NewzTodays
+
+- **URL:** https://news.google.com/rss/articles/CBMijgFBVV95cUxNUjNXMVBhX2UyZnFuV2J5NG0zRmdLZ09DQXpUd0xDcUFoZkhjNTNBRDMzWWZFMThqVHpsQWg4MGFjcU1IMVV4VzN1Q3czc1ZFNnltSUJTUy14QV9WSFNSOXZ5cXdud0JydC1MMlQyakl2MHh6dTlfTmJMdEktUXRJWWFmUFZBYWwtY1dNWkd3?oc=5
+- **Source:** NewzTodays
+- **Published:** 2026-11-12T05:50:01+00:00
+
+## Is Nucor (NYSE:NUE) Riding Higher Steel Pricing? - Kalkine Media
+
+- **URL:** https://news.google.com/rss/articles/CBMinAFBVV95cUxOeURRMExnSDRRUHdJR1BycFRDajlFd00xLW9hWVpnYnB6X3dqQUZTZVJ4TXF1X2lDZGxnSExlUUR4SWZiNDV2MS1ONTlnUU5uS3gtM3FlcjBoS0oxMUY0dGU1MHVrd203N1RhbWFrNnV6SlZLbjlYZHJHbk91Tzdnd3VQVUR6ZkZlUGd1eG1HTnpMNzZ2MGd3cENpbFk?oc=5
+- **Source:** Kalkine Media
+- **Published:** 2026-11-12T05:39:00+00:00
+
+## Accelerators Map Material Erosion and Fuel Retention in Controlled Fusion Devices - Bioengineer.org
+
+- **URL:** https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTFE1bHFLemN3OElhdTZqR3pzUjN6ZFh4a19NdUpZNmhjTmlEUW9IeEdIXzhkTkJSbHFYb0c4eVRSLTRQZkViMks4cm0xOWg0QjM3T2cwMWUza2RlVVhJQS10RHUyaXNQb200SThyQnBGdnlsbF9qSzR4WUlSWkZjYW5ESFluMFptVVlhUWlkOUg3MUZiek5icXFwWWR6RU1GQTZ4SFg2T2pBdw?oc=5
+- **Source:** Bioengineer.org
+- **Published:** 2026-11-12T04:02:58+00:00
 
 ## Fusion's Next Race Is Over Superconducting Tape, Not Plasma - Yahoo Finance
 
@@ -225,81 +303,3 @@ _Last updated: 2026-11-12T01:49:23.772238+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMipgFBVV95cUxQTDJhNXluQ1FLNlNuNFN1dEh6NkJCWmIwX1lyOE5pNlNjSEQwMXQ0YWJuYm5wQUhxVEF1UUxVVWRyTVZzSXAyZEJ1N3hPaFFPMjcyUUpDbnQyWXJZMmRJN1lucDNkQ1RSejV1WnFGVnhwdC1DRG44eDJJYjFuSzl4cWdTT2NDNmV1SmRQVy1saXpVMDlWUjlJaWptbmFIY3BPZURpcWFR?oc=5
 - **Source:** Gizmodo
 - **Published:** 2026-11-09T21:10:04+00:00
-
-## Paul-Henri Rebut, a fusion visionary - ITER
-
-- **URL:** https://news.google.com/rss/articles/CBMic0FVX3lxTFAzYVdOczVjbXhtN0NPXzZHUmVzTGwxM3JnTllnQlAwVjBPT0JkLTJTaTl1cHlkS1BrcUt5TjNvX2JoYVpRMVAzMDZHMk91Tl9sOHgwY25RVUlJWkIyRWE2dWpwemFsVS1ON3dmai13S0RtTXM?oc=5
-- **Source:** ITER
-- **Published:** 2026-11-09T20:03:15+00:00
-
-## Following the thread - ITER
-
-- **URL:** https://news.google.com/rss/articles/CBMiXEFVX3lxTE9ackVCVVBKLTBGcDUyYTU5ejBlclVXWFlheXM5ZzNnX2NuUEdKTjZ6OVpwZDN4SzhrX05ycXR0V0pVVk5veVpZckRoc0VIaC03MUwwczFOcHJTZlBz?oc=5
-- **Source:** ITER
-- **Published:** 2026-11-09T20:03:15+00:00
-
-## Seven Ways Nuclear Science Helps Protect the Environment - International Atomic Energy Agency
-
-- **URL:** https://news.google.com/rss/articles/CBMimAFBVV95cUxNSFdCT3piWGVjZXh2Wnc3eWJxQ1hRWkRLMVZsUU5nZFRYV0lZLTFjd3lYcmtraG90eEtFaFhoSDlidGpZeVI5Y0s4X2RBWDdBN2R5ZUdZczJSTGJNTXpTWnhkcHB4T0gzZnNLdFl0aEhNS0FIS045VUZUMFN4anVSdDdERW9qRGJtYmk4Y0xXMWlRc212VVJWNw?oc=5
-- **Source:** International Atomic Energy Agency
-- **Published:** 2026-11-09T18:45:35+00:00
-
-## Strategic Collaboration Sets Sights on Commercial Fusion - Tomorrow's World Today
-
-- **URL:** https://news.google.com/rss/articles/CBMiogFBVV95cUxOSjIyQUlELTVoLUxiOEVrZ1FBWkdRNlFHYU9WZWhVNm81ZnRiWEtzN0tTM3pqUFpsOEUzb2xidzI5anZKbVVSQ0pwVElBQUlLZlFkVXdyXzJLTDhyZWdNQTEzU25tNXpQdWpWZ1U4RG5Od0E4UElkdXlPSUppR1Z5dm1FMjlaTkkyTWRJdEFVWEg0MXE4WnRJUGl4bzlvU20ybHc?oc=5
-- **Source:** Tomorrow's World Today
-- **Published:** 2026-11-09T18:28:39+00:00
-
-## Engineers develop the world's first megawatt ultra-wide bandgap semiconductor module - Tech Xplore
-
-- **URL:** https://news.google.com/rss/articles/CBMif0FVX3lxTE8tUkh4c3B6NGZsQTYxYUlnYWdLYmpfNWk3SHlfTlpiVTAzSjRBQlhmUm5jZGRCQzRRQnI2bkxpa2JscGNYdEN6a1hmeXozZ1RFRUt5ZWNMb3dXQXoxSENDeGE2ZURySWFGbmR4aHNlUHpnUW1NYlFXb29YSVpPVW8?oc=5
-- **Source:** Tech Xplore
-- **Published:** 2026-11-09T18:20:09+00:00
-
-## Young John, Desperados unveil new Afrobeats-Latin fusion, ‘Let It Go’ - Vanguard News
-
-- **URL:** https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSC1Zd2RqZ25kS1ZTcXdUVmVvZHNlc29IYXpIbjFFSEliOV9zYVhnVXNfOTlOTWJnTkMzQ1JJY28yT01RbTJsQjRqWW11aFNMeEhLZW1JaXJ4aGJCcTNVOENwZE43LUlEMGxyclB3VWo5Yjd1cG9PQm5CVWdaaUpXbEhCWGFGLWtFWW5mMDEzel9uQjE5QkZtUi03b1BKYWttdzU0bG1IdkFTUdIBqgFBVV95cUxNSC1Zd2RqZ25kS1ZTcXdUVmVvZHNlc29IYXpIbjFFSEliOV9zYVhnVXNfOTlOTWJnTkMzQ1JJY28yT01RbTJsQjRqWW11aFNMeEhLZW1JaXJ4aGJCcTNVOENwZE43LUlEMGxyclB3VWo5Yjd1cG9PQm5CVWdaaUpXbEhCWGFGLWtFWW5mMDEzel9uQjE5QkZtUi03b1BKYWttdzU0bG1IdkFTUQ?oc=5
-- **Source:** Vanguard News
-- **Published:** 2026-11-09T18:13:27+00:00
-
-## Inertial Confinement: Physics, Drivers & Fusion - CASRAI
-
-- **URL:** https://news.google.com/rss/articles/CBMiWkFVX3lxTE8xLVhGczVyTUhQTWdHenpVOW1nek9QMGx6dVpIRmdkbFNQaVBwQjJlX3diMGRFNlg3Uk9adDU0ekl5YV9fM2NFUzVvejFTUEYtcUtISjFEX1dodw?oc=5
-- **Source:** CASRAI
-- **Published:** 2026-11-09T17:56:49+00:00
-
-## American Fusion Launches Independent Texatron Review, Eyes North Texas Facility - citybuzz -
-
-- **URL:** https://news.google.com/rss/articles/CBMitAFBVV95cUxORElrcE90a0pHWWdhVlhOd2xCUDU1RmwxRTdWWlpZOXNXUVctZEt3WGYya0Q1S09wQ2h1aVFfa2FRNloyckpybENFS2h1Q21uRWNfczRTMTBvRU52OFdpS3FzSTd0SVFYRXdKOURlU2JBMHRpcFV3bnRleUtmd1VjZUgzS2MzbXdlT0Jrak93N0w0ZXRGV3B5Q0R2eGJFOV90Nm84XzZMMjFjMGFibkdjanZES2Y?oc=5
-- **Source:** citybuzz -
-- **Published:** 2026-11-09T17:10:09+00:00
-
-## American Fusion Submits Texatron to Independent Review and Plans to Buy North Texas Site - energynews.pro
-
-- **URL:** https://news.google.com/rss/articles/CBMitAFBVV95cUxPLWY4NzB5SGFoR0NLc1d0YlkwT0hwS1pMcFJLcW82QkZ4Wmt5aGsyR1o0M1IzWXVrS2xadGlZYjM0WkR0VEpHM3p3UmFWNlExU3JwZzFneDlhQzVQSFJ3dFctd1h0LXpYclRONHpwbDNMQ2VQZmVfeXJjU2JKS0VlNFJDbk9aX3YwT3dDN2VaYVc3NGVVTUZIc254VVJud2VXdjZiRWpNeGJQY1pydWQ3TWZmTG8?oc=5
-- **Source:** energynews.pro
-- **Published:** 2026-11-09T16:30:49+00:00
-
-## American Fusion Begins Independent Texatron Technology Review and Plans North Texas Facility Acquisition - Yahoo Finance
-
-- **URL:** https://news.google.com/rss/articles/CBMiogFBVV95cUxQXzczcmtOSF9YTVI1NkhrdnN1VnQwajN0Q3kzMVEwU3pEMC1zdUpSalZ4YUhjZDhaLWRzYzM4MkpUZXAtc3NCMmpBX3huVkJ3Vzh4YjFIZF9VSUg1d3BBNVQ3bmZqcGpfS01mSXZJTjVNemROaEwtUFd3S2U1ZXVhTEEyTEtzOHFmbVg0R3hvUFhCNkdhaE92UmF1ZmRxZVJMMXc?oc=5
-- **Source:** Yahoo Finance
-- **Published:** 2026-11-09T15:47:10+00:00
-
-## Rolls-Royce and Infinity partner on submarine manufacturing - ADS Advance
-
-- **URL:** https://news.google.com/rss/articles/CBMiiwFBVV95cUxOSWFDMVhtT2w2cE5zQ0U5R1pCY193LUNuLVppaU9ldHFBcmFQZUFtZFFxa1ZNUjVlTHBId0U1dGtEb3RYWTlfbkJlc1YxOGZkVlRFMFJDejdCXzVMb0RJQ1ltdGpsVXQyUFRRMEVKLUw2a1h5SWdsS1h3bEk4VTA3TnFpU0hWMFZHZW0w?oc=5
-- **Source:** ADS Advance
-- **Published:** 2026-11-09T15:22:00+00:00
-
-## Accelerating scientific discovery worldwide with Lenovo HPC and AI infrastructure - Lenovo StoryHub
-
-- **URL:** https://news.google.com/rss/articles/CBMilAFBVV95cUxNM2lSd0RjRThLWlNReFlJM01TdmhkeWVFTTRqaWhlWmNnZkJnUGxJTzFqRmtpWEFHb01DYV9MdkZlclNucXd4eUtXQTFQcXpnSnE2bzNjOC12RHc2RU01T0dBeGxWVXJyZmpjbXc2TzBYV2dmV3NtY2R0a1dsSDdaVXhld0IybzlZSDA4cTRySEprRzhf?oc=5
-- **Source:** Lenovo StoryHub
-- **Published:** 2026-11-09T14:52:02+00:00
-
-## General Fusion Group (Nasdaq:GFUZ) - Stock Analysis - Simply Wall St
-
-- **URL:** https://news.google.com/rss/articles/CBMihAFBVV95cUxPdHR5cUNXNkJpN3BjYnEwVEU4QUxJcndiN0F4T09mQ3lWdzY5ZmlFRVpHUFVfb2Z4b3cxQWRMMlhEajB6MTgzcTZGNU9XSnlxcWQ5TGJaOTR6dFBic1ZLcjlQRGJtclI3ZDdOS3IzdUtzdmlCVkFXNC03Um1KUll5QTN2TXc?oc=5
-- **Source:** Simply Wall St
-- **Published:** 2026-11-09T14:26:49+00:00

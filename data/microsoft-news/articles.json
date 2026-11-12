@@ -1,5 +1,327 @@
 [
   {
+    "id": "c4f647926939",
+    "title": "Microsoft admits SQL Servers might wobble after October update - The Register",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbW44WnEwNERtS2FOU2dwazFHcTdESy1kTU5EeC1RNkFsRnRIMHJhZmlzUzVqeTFGLTVxaFRaU1N0RlZiamVDTTF1SmFTRDQ2YTd0SHp4WHNwX29qZFE5RFk2cDFXYWdBNlgzUWdXOVRjcE9QS1c3YmlRemxUR2tlcTNxVmZqN1VLR2tIQ1pIZ2xIVHRRM2dleFZ0MkdSMUJFWHA3VUhFXzdsWUtZMjBab2Vid0psT3RqRXY0?oc=5",
+    "source": "The Register",
+    "published": "2026-11-12T12:06:04+00:00"
+  },
+  {
+    "id": "f15c5fa82d96",
+    "title": "Microsoft Bing Touts Two Methods To Turn Off AI In Search But Not A Search Setting - Search Engine Roundtable",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB3blU1M1pJUG04d012SHI0WnNGZE83NFhRejM5TWxCaDlLMW5rakdUdGlzYnhubFpkSkY5V0dlUEF4T20wT0pDSEZCQmtpOC12ZlNvek5UWWdhT2l3WWxhUW1aVF9PZmxYSkRPMUVxWTY1RDhOdVhtMHZXQQ?oc=5",
+    "source": "Search Engine Roundtable",
+    "published": "2026-11-12T12:05:00+00:00"
+  },
+  {
+    "id": "f77b3590b66c",
+    "title": "GSocket Backdoors Let Hackers Survive Critical Linux Patches - SQ Magazine",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5JWUdIUjNzY2lLUEVIc0hMckx2ODJRNzdvN0huSHlDdnI3dm1jblN2dUx0UEVjdG9EV0dXZ0hMaXJCTGxTOTVHYTZZY05LcGIyNDEyQ21VV1l5UENJU25ESy1UYVFxNHRqRUZwdTJoTFB2eXdTTnE0?oc=5",
+    "source": "SQ Magazine",
+    "published": "2026-11-12T12:04:35+00:00"
+  },
+  {
+    "id": "bd7e4d45cc5e",
+    "title": "CX AI Moves Further Into Workflows and CRM Control - CX Today",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA0WUpNemM4anRzWGdGN2pYdFI2Qi0tbWRaUXN6VTR3OFBoYzZ4aUlsQ3Rtd2dJeWM5YkdxNkc5V2drdmlOSmR0ZUNveVhNV3dvZWNMYXBLY2NGaEVUS0hFOG5HSmxESmVwTnNoam5TNmhVS3JYLTV1U3pQaFkzTTg?oc=5",
+    "source": "CX Today",
+    "published": "2026-11-12T12:03:49+00:00"
+  },
+  {
+    "id": "86d283648d92",
+    "title": "Microsoft says small tweaks to model weights could create AI ‘sleeper agents’ - IT Pro",
+    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPbzlIOE9ncHROZUh1Y1dKWkZiRWpIOUYtb3BnQkx1MHh0c256dWtxaWtWangzTDlRTVhlcWdlbmQ5LVRzQ2VuZi0zZDRlS05DRzhadmV2cFR2REJXaXVXUHQzZWNiUFVFNzFKci14OXg3djlpTWdUSGpjWk50a0dCcXVJWVdxM01aZ2VPQ0Jwd1Jmc0ZXd1lyQUl3VHBhRVVuTmk5dDNjZ19jYUd3X2s0aVNhUTdCcU5pamlUZG9mOG5WZ0QtM3Y3YUhQcHNuS2N5?oc=5",
+    "source": "IT Pro",
+    "published": "2026-11-12T11:30:12+00:00"
+  },
+  {
+    "id": "a3e727f20949",
+    "title": "Microsoft Stock At $521: Anthropic’s Landlord, Customer And Rival? - Trefis",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTEJFc2NFUnVpNXZqYXdVM0h5WUNlMDhoSEJ4azE4eHB5ak81SkFSYmh4X2pqNHo3UkFIZUVLVzdOMGFQeTBzYzhtZ3VKY0dTZldlMnduLWlSbUNnVGFQRjdLd05mX0lhQndlQjkxSFhsZ0RzanNEekVLYWV1LW1Jc1hZbXdBVVBKWDB2TVZzOFJfN3RXWVpuR0thcjVrNjZMTk10cGZWMElxeV9GYTcxMzRVMWVCOWJiaW9Vd2d1TTA?oc=5",
+    "source": "Trefis",
+    "published": "2026-11-12T11:25:02+00:00"
+  },
+  {
+    "id": "83af51fb7272",
+    "title": "Microsoft Entra adds a seven-day safeguard against irreversible identity deletion - Help Net Security",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZEFYdFVNUzRIcC1SQ3QyRHRMbEJzZ1hQc2VSOFZ3NndmN2VCNFZMUjNsRjJ0amcwT2ptaThRSEpObUYzVkJYQnhYRGVaRjdUc1dMa2dRQlBNZTNGYVdzR1N1THFFbEFSeWZ2XzI1LWxMLVFjQ3hXZHgxWUR1ZTJjSXFTZ2pHMFItMG16Zg?oc=5",
+    "source": "Help Net Security",
+    "published": "2026-11-12T11:04:24+00:00"
+  },
+  {
+    "id": "3932c22c3f2e",
+    "title": "Microsoft plans to build hyperscale data center on former Holy Cross farmland - www.ndsmcobserver.com",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUS15Q01BOEZrYmFmVjVYcUNYMFlkM0x0bTRTZzhfUHRmNTJYNEkzd2xzX3VWZ2hUeVE3WDJwZ3d6ZDN2cjdudnZRdkcyejVlNnVkMk5qR1JDNGJUVlBSbFBxYWtTbVJiSDFnZU0zZ0YyVHRLTG9TS2hoMkpncmVlSk8wLS1HSXZDVVNadllBcU5FSmNuREtjaWdzU2dyYW40M0hDdWZIbW1OYkFwWjZBQUxvcDZJTm5KTnBFWHh1MUFPdw?oc=5",
+    "source": "www.ndsmcobserver.com",
+    "published": "2026-11-12T11:02:43+00:00"
+  },
+  {
+    "id": "51e254e7fede",
+    "title": "ETFs Are Buying Microsoft (MSFT) on Nov. 10 - Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQWWxCVUhHQ1NaNThLRkJZVmZJR2RVXzJfNVdTMWNOZTMtd3NjQ2NpLUt4MERvSVV6bXZIZ3YzUXpIZ3Bfdjk2WTRsZXc2dkpiRDJTYk9OMThONTNWMk1CdzlkR0J6RmM0Uk95WC03RExtcENTTWVwQWFxRU14Qy1NM1NXV2htU3RMcTFUdzdYZjl4WkJEOC14bDVrdw?oc=5",
+    "source": "Yahoo Finance",
+    "published": "2026-11-12T11:00:43+00:00"
+  },
+  {
+    "id": "53cd945dbd17",
+    "title": "Simform Recognized as a Finalist of 2026 Microsoft Innovate with Azure AI Apps and Agents Partner of the Year - Morningstar",
+    "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQdFluVmhmSTh6WlJzd3lnbUNmT1FFZE9CalRsM0Qxb0wwSHZqUjRWOWR0cGc2bHdmdlJYWjlNNUtQYmN6RU9MZ0l3dkl3NnZMOU9XZU92TXM4U0tKeUo0LTFuOVVrWjd1dXlNZkdJQ2tZQ2xlZGpHYWdDS0RIZGdUaUlpb2ZtZ2MxS0Y2NU9LSEVtUi12Tjl4Ry0ya21zQW9vOUR0RV9GS3ZmTWJEQ2xOcHBQU2VhbmxlcjJNNWVKa1pBZ3N2UklydjRieUJkMmgwaVJkdkI4R3lLQ2lTVVExODk0dkhYdE1XNmFwWGtfRUNxNkw3dlBBMFRIOXc4cU0?oc=5",
+    "source": "Morningstar",
+    "published": "2026-11-12T10:52:00+00:00"
+  },
+  {
+    "id": "fa3cc580475f",
+    "title": "Microsoft just made the ROG Xbox Ally X’s AI upscaling much less fiddly - Trusted Reviews",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPT09FTm9GbGlNNHIyVDRYMEhpX1U1N0J5RkxlYTlmMkVha0FPVWttdk5TU0I4WF9BZ1pjbGNKc3gtalk0SzRmRDBMcGVMQmk1S3l2eGhuOHhTSHdha3daTmZ1RmJKemR5cVNRVm9JWTMyVExSUjkyenNaMF8tQW9HRWlsS1d6cExSU1d4M21XTEs4ZFZ3TGtkQ0RUV0JIamFoNVltRk95WHZEZw?oc=5",
+    "source": "Trusted Reviews",
+    "published": "2026-11-12T10:33:06+00:00"
+  },
+  {
+    "id": "415fc5adad67",
+    "title": "Microsoft confirms Windows security updates installation issues - BleepingComputer",
+    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQdWZ0MFhYUmdlQ0U5c0J6OW5xQmVyMGtWUVNZOVEtdjRWSmhHVmQtbW1kbV9DQ2dpZUpLVkVvdHRRR0xkRXg2UTJzQWhld3ZkakxXOHBnYkpiSERNM1dqdGhwNUZ3X0xVbWtBZ1VQT2hzczBPa3JDbzFZSHF4N2VpMDlKTFNvTHZCZkllLXJtOE50M1N1M2RESy1mSjRZRmp6SDM3dHNkVU9TNnQ2TmdsekoyMkdrZVY0ZXU2WDg4LURIcjR0OS1vVnBSOW5PeGVMSU9j0gHYAUFVX3lxTE45b1BRXzFPRE5jb2MzT01TLUZqUkpvd2RFYTVmaDh3OWMyWGh1SGlPQlJQcXI1RmZFT1hJYWxJU1JjMllVOWUwb190NW90bUhHNld0Tl9tTnFGZjl5a2VCRklDOFpXYlAtajB5RkNvNmVRMTF6elNQTk9SWHgtbE4tTUtaSVZUYlMtY3hjdHBLSHNfOVhvbDNIeWh2Ym8zSXVpUThpRWJxTTVraXl6QkNDZ25PWUh4dEVZeXp2TmI5dDVXZEl1TWdFYmdIMVQyelFrTHNUdkZwaQ?oc=5",
+    "source": "BleepingComputer",
+    "published": "2026-11-12T10:24:07+00:00"
+  },
+  {
+    "id": "3bcc32d25405",
+    "title": "Viirtue MCP Now Works With Microsoft 365 Copilot and GitHub Copilot - AiThority",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNOXJfSnRnYWhXbDY1bXNyZzBrMnpOWUowdEFjeEg4eVVOZ1l5LVVXeXJlb0NqamM3WnFJODhRZ0Y2LS1OcVR0SXN0eW9Mb0tDaHgteVRiNXVoRzlUaHlEV3p2SWZTU2hqalpKaGZ5ZUw5MU9TWUowV3V1eGxVeWxkQWNZNFJNeGV0bFdqXzVZU3pIQS1mbVM1aXRiSUpSX0dSNUNFVUhzS0FPSWkwOHpn?oc=5",
+    "source": "AiThority",
+    "published": "2026-11-12T10:03:22+00:00"
+  },
+  {
+    "id": "d382d5763371",
+    "title": "Microsoft’s November 2026 Patch fixes 1.094 vulnerabilities, including exploited Outlook zero-day - Digital Watch Observatory",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBpZFJ3UTU1Q1lPa1lGNy14NjdyaGZud0paaF9hQkZiUS1kSW5INGRHdE9JZHRKXzBwYkNvVU5ZUS1CU0JHMEhpYkVrbDJiNF9ueS1yT0VscDNLb2plVnJJQ2ZYNWp4cUZRc2RfTDR6aGI3TXdPQm9fNg?oc=5",
+    "source": "Digital Watch Observatory",
+    "published": "2026-11-12T09:39:11+00:00"
+  },
+  {
+    "id": "dd4f6f2caa92",
+    "title": "New Microsoft Entra ID security feature cannot be disabled by an administrator - Techzine Global",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPcXpvdHZiVVhrdXJHMl90NVNLOE5xVDVxNUY2ZG9RYnEwQURfMVBjdzVCZTZUbDNPU0VvOWlLUUFicTVOcVFUU2gtRzBYOGNJSk5ObkdKUU8yamZ0c1dnOW5TV1ZnWkFpQW1qTE1yTWNHdEIxMC1TajhKVkN6NWJNS21XSWxsZzhMTnFsVVAzWkZuakZrVUF0ckNCZFo2Sk03eG1BVXlfOEhaQU9UTUh0Y2RGcVI4UjZnU0E5NWExU1p4UQ?oc=5",
+    "source": "Techzine Global",
+    "published": "2026-11-12T09:28:56+00:00"
+  },
+  {
+    "id": "adbb014c0b70",
+    "title": "Anthropic IPO Or Amazon, Google, Microsoft Stock? - Trefis",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPenBrLUpkNmFkTHB6Vlk3amJfZUdHbkFxNEREREhWNEFsdlotTlhqVV9ldGxaak9RcldwQ1AyVVNsUU82Y2RKRUFVRlBucWtTTjgwMFcwLVV3RkhNdlRKdUFNbU9aRjJ4dWdqcUNkaE0wYms5RDIzaTVibGtOSmhkLWRWODViODc3c1BXNmYtdG1SVXduallmcEszVm10QkpMY1NOUlRvNXk1a2M?oc=5",
+    "source": "Trefis",
+    "published": "2026-11-12T09:22:38+00:00"
+  },
+  {
+    "id": "bb547f226402",
+    "title": "Nvidia Stock At $174: Could It Repeat Microsoft’s Lost Decade? - Trefis",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOTmYyY20zWVQzbk92eUduRW5iNTlYdlFOSjJoTWxCRUdKamFLWHZCN0pMZE5HdnJGMWxUREhPdllRcmZodmRPNDJhV3AyVXVWZldVUEZNTlViMU1XZDVXTkFBYW9EaUpFVFY2MnBaa0ZjRE5QNDc2SDV0QVJVUTgtR1hfWDNzM29KTVNRazN1Y3RhWjN3azk0ZWUyQUp6LWJWajV1VlhfbHE1UDBHaElqdm0wTGFXXzhmcEV5Mg?oc=5",
+    "source": "Trefis",
+    "published": "2026-11-12T09:21:58+00:00"
+  },
+  {
+    "id": "541c0d6a7e7c",
+    "title": "Microsoft releases PowerShell 7.7 with security fixes and new commands - BetaNews",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE03MFltNXBGOU1jcW9FbzNmdWxwUFFkZy1UX1plcnFnXzNZc25lZ2ZMVHlYMW5DOWQ3aXVMeHZrZkFDeXVEMXhoS0JrNzJERkhiZzJqS0ZWeF82a3R5YnVhdXBnUThfRktFazhWWGhZQXM?oc=5",
+    "source": "BetaNews",
+    "published": "2026-11-12T09:20:04+00:00"
+  },
+  {
+    "id": "92caad68822c",
+    "title": "Petition challenging Cheyenne’s Microsoft data center fails - Wyoming Public Media",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOWFUzM1hTdk5tYTZLWWRRS183bUJNTno1VWlyZ2paRkpqLUZxeWJYNGZqTFNXdkFrNTlZZ0ZvMnJZTDBMVTRKZEtMeWNjeEJhVG5nUmhTSWtHcER4SzhqV0ozVWh4aE42elFtbTRCY0Z1RWlraHFiLWg0enRqWFRVcDB1WHpSOHJFUnZwYXRaTmI2YmRkVmN5dzhfd1RfdUwxWEQ3MWJfbUIwLU05ZjZpM2JPdUV6OUtvOWdfcEYwSk1BX0ZERWNPVg?oc=5",
+    "source": "Wyoming Public Media",
+    "published": "2026-11-12T09:15:00+00:00"
+  },
+  {
+    "id": "53fa39f2d468",
+    "title": "Exploring Microsoft’s AI foundation models - InfoWorld",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNeVJ1Vm9QYVJrcWU0bGFEaWVTVWJnSzg1bVVzN2tjZHc1OHZ6S1hZUEVRbU1fVUlQX1pRSTVfc1ROd3BtWGV4XzFxa3FsemNlQ1h5eWZNWkRoVzY2RXlHd2szOXE5Q19wTlpCeDJwbmgzZ0dlZlE1cFFzX051YUNFMWxiQXFUTGMwcW1MMVc4Y3c?oc=5",
+    "source": "InfoWorld",
+    "published": "2026-11-12T09:02:54+00:00"
+  },
+  {
+    "id": "23bbd3a1e4da",
+    "title": "How Big Could Microsoft Stock’s Next Fall Be? - Trefis",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdWpVM3R6MlUwVEVFaTR5NktpdnhuZzBfUEluX0dLS0JIRXV6QlJVRXM0VXctZDlmWDUyYTdZTE9GaHFqUUVWX0x2OVVjRnZqTzhTNGo1VTJUb3poWjJhLTJlelRJQnVZWmNQSWhwZDlKS2NZM1UtVWE5dVNlVXJudnRVampfYng5WmtRWTdkT2lZcDdhV3hnZFdIODQzUzlLbE5zTFJzZw?oc=5",
+    "source": "Trefis",
+    "published": "2026-11-12T08:26:10+00:00"
+  },
+  {
+    "id": "95bbc8870024",
+    "title": ".NET 11 security changes target the software supply chain - Help Net Security",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1QSDNSVVdiOHA5MDZic1pXTmFTUWtfcWhaX3FfTFpmSHhNWlJwdWNsY1BOQUZvWXFWdVdhWXpRcC0xOTB4MFVweHV3VkpjaTZaZnF4aFhscXVVTnVUQTJidE91QVl5SS1vNVRpX21uYndsdWU4VHc?oc=5",
+    "source": "Help Net Security",
+    "published": "2026-11-12T08:23:33+00:00"
+  },
+  {
+    "id": "505cbd093116",
+    "title": "Microsoft Confirms Red Dead Redemption 2 for Xbox Cloud Gaming - RDR2.org",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOcHliUEV2VG9hdW9sVGZndVRReUR3aHdzUlRKNkxDS3VYaWRmY1piZTJNNVQtNW9EN1VTc3FfMEtxX2VEbnM2WXpHS2RVazQ5dy1FUFlOams5Y1h2ZXR0eWdGa3UtOHpQTXp5T2F6UmJsdERiMjdyZ0NrS0Y5Njk3bHpQbzVjNWNnS3o1cDFWcWJNeEk?oc=5",
+    "source": "RDR2.org",
+    "published": "2026-11-12T08:06:51+00:00"
+  },
+  {
+    "id": "99471dd7e31d",
+    "title": "Key facts: Microsoft Falls; $1B Anthropic Deal, $30B Azure; Excel Risk - TradingView",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOdFlVUW5sVXdRX3dZMFFRN1RLQzRPVE1sWTk5R0pGa010cGFwWmpFOFBoNklGVEtQUmFSR0RiSmZLdGdTSGt0azgtWEhiMkhmWUF4RnlWVFRuTDc4U09jQV9lR0x3dmxEZ1NiemtQQnExVmstU3RyYm5RUjJLWHpnS01xS3dCT1VzamxVWDE5Yk00RzFiVVFwREQwNXM1UnhkUHFIdDFLbU93Z0JEbUZJX29xVDE4NURpNzdKRV9qMmxDTEtr?oc=5",
+    "source": "TradingView",
+    "published": "2026-11-12T08:00:00+00:00"
+  },
+  {
+    "id": "0f8d98d30e24",
+    "title": "AI Agent Backdoor: Microsoft Shows Fewer Than 10 Edited Neurons Hide Attack Until Date Trigger Fires - Tech Times",
+    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPNDdnaFFzNXZQYVRmSW5NUl91NzZYc09jN0hqd01DSm41SnBVYzRqSDRYbEtTbmh3cVNfcWRPWk1wWWhUT1Q5SXZtY21Qd1NnQVJuTUowY01SNFVkNVdBanp2bzhUTWZiVm9XMkdHc21wUTdPeDl2YjluZXlTZFlOSU4yUjY0Y3l1SzQ2QjI0UncwYlEtRnVLc3ZaRXNRN0oxUmNpY3N1eC0wQkJnaTN2UE93cFpYcUtrYXVSZENRZHc2d2FXSWI5eGJmYnh4UnRrbVZMSlN6WVRVQmRrcFpOdHFQUQ?oc=5",
+    "source": "Tech Times",
+    "published": "2026-11-12T07:40:15+00:00"
+  },
+  {
+    "id": "f9070d3b532f",
+    "title": "FPT Becomes the World’s First Microsoft Partner to Earn Frontier Advanced Specialization - Eagle-Tribune",
+    "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOVzNadm52aVdsVTA3R1ZKdlIxbU5BUkdaTG1ZS2xzMGdCNlJBZFBNeHRZcGRTcnoxZnBsYWZwckJ6LXhXOWtVdjRXaENKWkNtRTBEMlNWcTlrSHRZWVdRNXcxYUx2RzlvenlXclRQQ2lvdDI0VWhVdFliRnY3aFFqX1czR3dQUGQzN0xLQVV5NmVoWE5EdlpLVEJOZ2xPYjA1Snk3b1JHUnpHMHdZWkRiWFN5eVBweW5ObE4xNDQyLXMzcHlvcTZpWkZ1MzA1elVVTU42WlNVcExyY01GUS1OQmRobXlibHVKanpXakZLSDhEOEpDdjZiY2U3YU5vZDF5a0Zpdg?oc=5",
+    "source": "Eagle-Tribune",
+    "published": "2026-11-12T07:32:23+00:00"
+  },
+  {
+    "id": "214d5924bbcb",
+    "title": "FPT Becomes the World’s First Microsoft Partner to Earn Frontier Advanced Specialization - Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQ0VXekpybVh2V3J6LVlnSHZSUlByckJfaF9QXzJ4MUdFZ2FqdGhaSjJpZzdhdTZpc1ZVbHFNckp4eXBhUW1BUWZUX2tYZExfREdHdlp3NjVwUGdtRkJmbFNpTGpKWUE1SEVIMkNEQTltSkJNdTNrZmFoQkh2RlZId3hFaXZ0NmJoeVJoZXRBWm9yZ0U0eHo5VUxXNDVyZw?oc=5",
+    "source": "Yahoo Finance",
+    "published": "2026-11-12T07:30:00+00:00"
+  },
+  {
+    "id": "d604aaaf19a0",
+    "title": "Citi: Microsoft Ignite conference expected to reinforce AI growth narrative; maintains Buy rating with a target price of $680 - 富途牛牛",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPc3lWd0syZ3c0Y3VQdGx6aTVncDBLTkJPNTE2Z3JHb2FuWjQ4SzVHdzBqS3RBcm5McC0yUk1TYndOMktlS1NTbEN3UGktandUWXBwSFk2V1EtUWhwVHR3Z0VOLUw0Q3hWNVFPanluZjIzdms2cFhoNDEyMUVSNW9IZHJnR0QzcXJPOGxuQWw1bUtia0Q0SFRDQlk2azlnYjFVbmlPUnBwMEh2QkFSOEFnZkM5V0h6TTBX?oc=5",
+    "source": "富途牛牛",
+    "published": "2026-11-12T07:20:42+00:00"
+  },
+  {
+    "id": "5b6929e4538a",
+    "title": "Microsoft Auto SR Upscaler Exits Preview on ROG Xbox Ally X: Undocked Play, One Frame of Latency - Tech Times",
+    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxORGkxa2RtUVNvanZoaHN2QWV4TzQxWWZnQ2ZEYlA1VWVOVVhmTWk1MjZZcDVxT2tSTUxpWUVSOWRwWHB0bkFSV2FnRjZsV3pIWW5JMWw5ZmI2YmJsTF9fT1VLRnFOWEV1MHQ5ekc2Y1AzdWFnV1E4c3A5QWpQUkVXSHUtWHRKOUJTRWt2ckZEbTczbHNQMjlQWmRrUExSUFN1ZDVXY2NGeWlwdkpFeWZpc1pJc0R4NnljcmpkNkRGZ3hscXV0NFlLUWV3dHFOOElfZW5aVFAwa2hyMTg?oc=5",
+    "source": "Tech Times",
+    "published": "2026-11-12T07:20:13+00:00"
+  },
+  {
+    "id": "c25c9ed658be",
+    "title": "AI's Last Mile: Microsoft, Five9 and Salesforce Pay to Get You Live - UC Today",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOOFRGa09nVUJXTzFnbEppMG56aVlHWjVSVjV3blk4NDVkV19pUlZxcmhmNkdjb2ViVF9VUU5lUWtmdVN4WlJPWTJCenJCMmZxQmlPZVI0b0IxS1NMNTRhM2x0cERiZ3RvNVdUZV9SWTd2RmdhZ1laeGNNZDVDeWFvMkkwUThTTUk?oc=5",
+    "source": "UC Today",
+    "published": "2026-11-12T07:10:36+00:00"
+  },
+  {
+    "id": "072899fc6bb1",
+    "title": "Vodafone and Microsoft call for AI agent skill standards - TM Forum Inform",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNci12dFNxQ1M2VEpBWGRoai1qYVlaVVJtNWVPVDAxSUtRdUJWQTZqM3hVTjdKRE9QcmRiUWtDbXBTTG81Ymp2UEFRZUllSGhYbDZjTkxBU1BUUjRxUWE2VVd3a2lNamFUZ1BhUXNxSE00RGpRbjZxUVFnZWdHNGZGc3RwenV3ZWFaQnRybkI0eGk4M25jTWJqTkxsR1g5bi1hNFNEU3dvcEttSkQ4V1NWTw?oc=5",
+    "source": "TM Forum Inform",
+    "published": "2026-11-12T06:54:51+00:00"
+  },
+  {
+    "id": "639ebd3fce8e",
+    "title": "[Major Banks] Citi: Microsoft (MSFT.US) to ignite the next phase of AI monetization; reaffirms “Buy” rating - 富途牛牛",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQRXd1VjVtYmZVaXlONF9PUkh3SWdIaHM5aXpSTDhJNnNZYjY1cm9ES0RoS3F1V3ZkdW0zUGItUVNOTzI5a2V0SUNLSWhOeGNlVzBBZHJNc2FLNHFKcVNySEc1dUVvcEtTM2RyTEJsVEpHMUNoOHR3eUg0VnQ3MnpCZmxYRGV0X0t1aUhrMTNoQnNNRFdBUUNxcUpJcHZfdmJnN2ow?oc=5",
+    "source": "富途牛牛",
+    "published": "2026-11-12T06:22:08+00:00"
+  },
+  {
+    "id": "80bcefded678",
+    "title": "Microsoft Corporation (MSFT.O) | Stock Price & Latest News - Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5mc1U3MkxiZ00yS0FLaXVrTG1GRkFVdFRNTVRBV2cxQm1vSGl4bThaMXdGRHI2Q09oUkpsTE5mcElfN2ppbnlkcTQ2eE5jYlZETzBnNTdCN2lUNDluNkE?oc=5",
+    "source": "Reuters",
+    "published": "2026-11-12T05:57:28+00:00"
+  },
+  {
+    "id": "1144455b326a",
+    "title": "Viirtue MCP Now Works With Microsoft 365 Copilot and GitHub Copilot - EIN News",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQYVZvYmNWbUdfRnp3QjRRMjhocUFXYzdQSjduaktfRGtYeFVkbm53RGgzZGEtZ2ZESmlTS1FlTVBJZFA4X2NkbHY4Q3RjQUZ1WlQ2WW56MnpOLVg0dlBNMzk2c092LWlsTXBnTUI2ZTlOMzNCVUw2SjJTT2lkMXE0MXBDRzN4T3JSNjlfS3R5ZzRveXJUNXloSmY3STdBUlJ6NUdndnJTTkNuYVlsOGc?oc=5",
+    "source": "EIN News",
+    "published": "2026-11-12T05:00:00+00:00"
+  },
+  {
+    "id": "a8626ef6b2b3",
+    "title": "Microsoft's AI-powered Auto SR upscaling tech is now officially available for ROG Xbox Ally handhelds - TweakTown",
+    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOcFFjdXRKQy1GcS1tdVZuRzMwRTJKZlNrckFSQm50WGJfclJFWUlWbDVURktsZ3g3OVJralhsSHJzSjY3YmJ5bzZFSUFpbWhsMXVhcjBaRzZjdjNfZFdVQVIzaDY1TnR2ampSOTRXUEFzYy03QXBqMXdpWGp0czNjZDVsRHJ3WlhSRmpxQXNCdEVpUXdDQnhMZklSMTBGLWJzRWJjNmthYUwwSzJmRUdlR3BRcmtIbEVERzk5WW9CNE12SWJ1b1IzdklvaTF5NGd2bl8yUVRIUExjR3RpNFZhLWNfWQ?oc=5",
+    "source": "TweakTown",
+    "published": "2026-11-12T04:56:13+00:00"
+  },
+  {
+    "id": "4a7abca726cb",
+    "title": "You may have missed emails on Outlook for days, as Microsoft confirms its spam rule wrongly blocked them and blamed senders’ settings - Windows Latest",
+    "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQNGRjNzRpeURzeGVLR1UwVzl1QXNNQXVMTDYtbEhaMTlhVE1UZ3BHbkFkejR4eDZRUzNXWlJwTTZHb2lRUUJLU2VkUW9KOXZiLTB6Z0xtaXcyZ0lVMGNJdWg5NTVBbjVmanVZcjFrSDdiTTg2MWM2NHBWQnBnOUhFTzl0RzVMQUN5XzM3WG02WlBzQUNPdnpLdHZ3WXRfNnI3aFh3bkNqYXVtdUV0TnpjSl9qZW11azNtZ2IzM21zTjRDZWZKODFYZUxtcUFvWGxpWnZIb3dvZ3hrQl8teERiQzZBZnRQT0FnUno3RktFd0ZTWmNNU2FCX2FzNGgzbENodlBR?oc=5",
+    "source": "Windows Latest",
+    "published": "2026-11-12T04:53:33+00:00"
+  },
+  {
+    "id": "59b37a7099f4",
+    "title": "Microsoft's $5,899 AI Laptop Is Here, and You Should Absolutely Not Buy It - PCMag Middle East",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOcFhVaDlRZlp5TXdCdzlJTll1NV9KTFJMbzVDaUEtXy0tNkhWenpRMGp2aWt3QlNBZDFXMFlZTzhuVmJMakpfbTlCUGZfNWY4U0pIVjZSRlU4Y092NlBlcG1IWHJFZWtuanpLWmxZeWVsd1ozenFTNWN4dlRXNHp4TlpkQlVBT21qNEs3M3EzS0RGU1RTYUp3bjctQ0xJYUhJSHdHWjY2Y01KaW1xOTQzY2pIQmlKOXhqNEMyMmROdWRmdDda?oc=5",
+    "source": "PCMag Middle East",
+    "published": "2026-11-12T04:47:09+00:00"
+  },
+  {
+    "id": "9796c76b54b2",
+    "title": "Anthropic Now Makes Its Own Spreadsheet Software. Here's What I'd Do With Microsoft Stock. - Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPS3lsbk5PNHd3d2swVERWUUJGX3liTWpvdDhRVFJ1amdzZFhLZC1yUGJ6SHUzdWFMTnF1YlNjQ1NyRElJYlpvcmVXeFJ6TjgxTmxtOHBWMUJiYUVtZmJoRV9fbU5qaEYxU2FFQlRXX3Rnb2xwWm00Vm00aFNoYk41U21WXzgxRmg5ODNrWjQ3SXFySHJ4cE5BUGNZQ3NHMlN2?oc=5",
+    "source": "Yahoo Finance",
+    "published": "2026-11-12T03:42:32+00:00"
+  },
+  {
+    "id": "5bfd4a23f3f1",
+    "title": "KPMG scale trusted enterprise AI in Thailand through Microsoft Copilot and Microsoft Agent 365 - Microsoft Source",
+    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQSXFtTlZoQ0IyMFU2M0REX24yN3FWYVppZnBHM3A3bHF5TVphWFp0X254WHc4Z3N6V2EzT1BSX1Q1ci1mekQxdkp5ZFJXLWZKSm00OWpmVVRuUC1vOU5FYzJTUWZWZkhIWkstOVpOUmc4WkVXSnNDc0tyRHhDQW1fVEhjcXBYel9JWDZ3TktyeXQzTUNEZnNPbjB5TDV0T1ZmRWwzTHNaWHF5Y015aTB1Uy1xSEl4M1BLVXpXdjBFR3oyaTI2aElYamQ1RUd2OE1jdGR3Tm1MQnRqeW5XVnc?oc=5",
+    "source": "Microsoft Source",
+    "published": "2026-11-12T03:41:41+00:00"
+  },
+  {
+    "id": "72b16cda9e60",
+    "title": "Big Money Bets on Microsoft: $46M in Unusual Calls Hit MSFT Options - Moomoo",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdE8zRzBPT0dNVWRNajItQk9EMlZvN2JXWVowajR0OGY3ZjZvWTlzaW5rd0dBRVVVby12ZHdoeGhNTTg4M2Z6MVlwSUFZOW82MTdib2ZlSGc3RzRuSU4wR3FyTEUtczZRZXlINmN3ZHhZdDJrXzBMQ3NFX092d2JubGFUcnJnTzlsRWh5cTliRzRiVmNNWWRxenRQTldVYkRKcE5qbGF1LWZLUQ?oc=5",
+    "source": "Moomoo",
+    "published": "2026-11-12T03:28:47+00:00"
+  },
+  {
+    "id": "cbefae9cc3eb",
+    "title": "Anthropic Now Makes Its Own Spreadsheet Software. Here's What I'd Do With Microsoft Stock. - The Motley Fool",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNZndNbVRqdXNxa1dGdE5TdnlweWFuaXBDUjZaU05nQmhEdkwxZmRMU0tZOEVwaFdBRU56T3BkUTBPQ0tHTGwyZ1hCZmRUTUxWaV9ueDJGS3pGN2xNd25JWjJ3aTNwWmRkRkNXM05URzRXZXhLOERXdlRYclBhLXgxRXFIcVdvRlR6eWlTU0wxMzZWNFZ5ZUQ0VlNrOVJVT2dZMWFnUUNHRXEydXlKVUZvUWhvR0U1N3JLRXUtd213MDZFMzZtUXFkWUFkRQ?oc=5",
+    "source": "The Motley Fool",
+    "published": "2026-11-12T03:07:00+00:00"
+  },
+  {
+    "id": "5f644d670355",
+    "title": "How To Set Up A Microsoft Teams Meeting And Invite Attendees - Dataconomy",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZmcxcVhUYTN5Y2ZBZzVBbUFERzdPX1Q3QnlDOFA5Yi0zX1pxdDNpdEJaNnVQWkFZX0JsMjFhOHJyUVJwSzNBTjhjd0hYWVA4QTFjZmx2Y0t5SVBJUGJOVjk2MVAxRkIxczh4UXhJUWUtSHhnZG1ZVjhvR2lmUDhPOGJxdUlOTTZUcGxCeXNJRHRudw?oc=5",
+    "source": "Dataconomy",
+    "published": "2026-11-12T03:05:09+00:00"
+  },
+  {
+    "id": "8666f5e79c59",
+    "title": "Goodbye to passwords: the login Apple, Google and Microsoft want you to use instead - Make Tech Easier",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQelFRWHI0YW1KQmE5dG55WUJfRnRtRGlOSVBuZld3ei1nSVdYNTdlOG9CTThlUldiNHYza0tpcGJJTGpvLWQ5WFNxZFVmczNzZW9KdHVjN2dwdTFyLUlwRXZOOWp1UHlfc1lpVlpBd2RQdkdhTG1VYkV1V19yQTItSDhpdWc5dEVLSk9ZVkdTYUZiN2pqd0dILVZEV2NObm1BeDEzaVg2WXFHM1lRb0E?oc=5",
+    "source": "Make Tech Easier",
+    "published": "2026-11-12T03:00:04+00:00"
+  },
+  {
+    "id": "32fd7563d07a",
+    "title": "Microsoft has begun canceling pre-orders for the limited-edition Xbox Series X25 console, priced at $899.99. - GameGPU",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQaUI5cEVXQjlEUGFxeVFxQnRMWDlNS1NWLTNaYVZRY1dLUi1aSUh6MGdySDFXTFlYUjRTaTA3b25Qck9Ya2MyWlRVOWdyZVBGSFBySEJHSkJLTmxKU19Ib1FVTG9LTHRkbzFOaV94MUFyampVMXFpLVRwRzFiRFhyMmRTMEV2ZlVSOTdmeVNHNE03ai1vcHp0c1hEZFBnTHJhdE14MVJGQndRR3lFMGF3bFpUNzdiOFh5ZUpIRTBJR0NlZGY5VHNz?oc=5",
+    "source": "GameGPU",
+    "published": "2026-11-12T02:58:27+00:00"
+  },
+  {
+    "id": "c726dc287064",
+    "title": "Quarterly Earnings: Alphabet Sold $62B in Stock. Microsoft Paid in Cash. - Global Data Center Hub",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1ZN2RHdjdmeFVfWjVFSnNCRU9IZTBGNUo2RkRQTm9GU3lUWEVtQkNPU016MF9VYm1XcXh3eVdlZGdGX1NMVHExVW81ZlpHU3g4cXp2a3FEY2dfSEl1bzJ3V1NsNXJGbjFvaE1TUlJZOTdoX0xTMFAwSzBR?oc=5",
+    "source": "Global Data Center Hub",
+    "published": "2026-11-12T02:01:03+00:00"
+  },
+  {
+    "id": "a934ecb4a897",
+    "title": "Microsoft Ignite 2026 Kicks Off in San Francisco on November 17 - Inven Global",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdUQzeHg5aExNMGlVUlg4SUV1WS14a29rQjR5OENKaWllVHV0bktGZWp5c0N4bllzZnFIcjJURHExZ1RWU01rbmNxQ2pUMUZNa1dKdnJYZ3dFbzJFS1hTcF9SanpBd2F4X2VEUmhZcHpRaXp6emlSWjVuN0ZlUWtYMWluYThJY2lPTFRtMkhiR0t0M3dGdzZ1UUo4Wm5Lek42NEh2RlY0UmxfUQ?oc=5",
+    "source": "Inven Global",
+    "published": "2026-11-12T01:51:40+00:00"
+  },
+  {
     "id": "985aeecb31ba",
     "title": "Microsoft Flight Simulator 2024 Adds Halo Pelican Free for One Week - A 90s Kid",
     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPd2stalA0M29iTmJKYmV0Y2p4ajRpOWI2cmlNS3VRY3VQWllzN1lpSnp2bEJmNkxjeGRBVDNVVWt5MWxJZ3lHN1ZCYnlKNzU0T0g0b01pWWxBdFNGNEVyY1RkZnhVZFA1SWV4VFFfWTJmbVc3M0dINVNmOFlGX3YwdzNnMF96UjZraXhpTGRPMWJRWWs5LVR3?oc=5",
@@ -26,327 +348,5 @@
     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNemxYaHVTeHJ5WjItNmdqYVA3ejZvTkNXeXNwdVZ4NTZxR0dHb0JFRXlwaWFlaHlfZExxSHBxd3JmQTNSNUVPRkp2WFBlQ2V2MFd6dk5kd282YzlRVXNzZjhHa0dKVkg3TjF6d0ppQzZua3pHdXktMW9NLVhMRE1ZYjlKc0FMQ0FIcjhCYWQ2OEFXTGUtWkpwcnJLczVmdFE5S1Q1ODhGZW4xVDZFamFN?oc=5",
     "source": "Security Boulevard",
     "published": "2026-11-12T00:56:15+00:00"
-  },
-  {
-    "id": "ae9a70e08682",
-    "title": "Microsoft names 2026 partner award winners & finalists - IT Brief UK",
-    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPeVpLNGxXZV9tYkJueWwtNWV4YXFaaEY4QUVXbnBxX0w2V05xWHVjalIzN1FSR3NQd3BMVzRiQWxadEszVXY1cXJ3b0FOeUItcE1oR216Zmdsa2kyejJxMU9URVJlaUlRaVJPbWptaXo2S2tnczh0MkktUlgtYWFwckNHVHE0emM?oc=5",
-    "source": "IT Brief UK",
-    "published": "2026-11-12T00:53:28+00:00"
-  },
-  {
-    "id": "2dae1e9f6b75",
-    "title": "Market Chatter: Microsoft Wants to Power Data Centers Without Subsidies or Higher Costs for Others - Moomoo",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNFlEUHA3Y1EwRGJOYmIyVFE1ZjROUDNtbFlac01RUUlueTVmSnRaX2N1Z0hURmdCNFNKbjNReEJFSWhPQnk1dlFUdmxNMkhFa2MwZGZBU1NaOFF4UHNSai1VR2dMM0d0WklfLUtJeV9zOGdaWDZPWVI0d040VHZEMUNZY2hRMWM2dEJyNy1XUVYzWm5KeUgxMjFDMVJoN0xpNmJlelBrelZqbkVsdjBodk9DVjY?oc=5",
-    "source": "Moomoo",
-    "published": "2026-11-12T00:50:23+00:00"
-  },
-  {
-    "id": "eb396d2bbdbf",
-    "title": "Microsoft data centers bring tax revenue and jobs to small Washington town - KHOU",
-    "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQdWxDTlBCVVRDX2JqaFh1a081elc3UC1ERWhkTWFoU0VZa19OY0ExeWN2ZEp1dUxQS05pN1RVdjV2YlMwSWE1eXM4elk0MkFSemFoN1gwc1dXWG5WY2hXQXBESWlOSTB6UUYtY2kxb21UZGxJSUR1OVFBdm9nZWR0SGk4STEyRHU5YS1RMFFrQVZRN3JuOUlIZTBwbjVPZURxQkFMSlVUdndFZUtSVmRBbHktMmxFYUZheE45bGhtN1ZQM3ZRTUVuNGI5SUdlRkhEX2M3QVN6R1RUSjdSNTV6dGxBdElxN0FXbVdCbg?oc=5",
-    "source": "KHOU",
-    "published": "2026-11-12T00:28:49+00:00"
-  },
-  {
-    "id": "760d6c63e149",
-    "title": "IBM and Microsoft unveil Imagine Enterprise for workplace AI agents - EdTech Innovation Hub",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNS0k4ZERTOXN1QkVIbGFNN0FqOWdVYkNZODVOdFFzcVNtQ0hwY0V5UFI4VHB4c1E5czFXN1FjTDNJbVZycFpDVjdZYThOZFNNb2N2VUJJS2RIaWlPNXNia0F5bi1MT1lWUHNTU0dieXNJMGtOWDM5dFpSSUFIbDRnbGNYNDhGYWU0RXZBcHZob044YnNmcG9Mb2s2T3ZSVWkzeTZvcGd1eUJpMGxv?oc=5",
-    "source": "EdTech Innovation Hub",
-    "published": "2026-11-12T00:26:53+00:00"
-  },
-  {
-    "id": "266655be8b09",
-    "title": "Microsoft CEO Satya Nadella: Workers in AI-heavy jobs are having an identity crisis - Fast Company",
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQY2RzN1lhQ2NmRUhRUE43NUFlSjJSZ3JyZGdQanRRMFpZb3ZWYTVvc2JyaGpyVXJTVW1yRjYxQWR6bHBJWVZ2TE1NWWtJeTYtU0JsbVJYTUl1NGJYLVlFNjQ4N2FWbzdsa0lfVnp2bUkwQ1lsN1hzbW9fRDYtN0hjZXhGQnNpbFNhZVhacTZOSmpYVGtaMDdQWWlDNUdZbzFBbDIxZ3N0Ql9SVlExX2dmZ1BoVjhSWHF2MVVr?oc=5",
-    "source": "Fast Company",
-    "published": "2026-11-12T00:18:08+00:00"
-  },
-  {
-    "id": "ba45747366e5",
-    "title": "Microsoft adds ways to turn off AI features in Bing - Mezha.net",
-    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNVnM1enlERFFWczFmTWl2WTVqc1lWTTZDT19tVlQwS1VfbmdtUm10OGk0OTJacGd5aW5YOEVYNFVsaGNJZFRqVDRzd1ZweFdGaTZ1UzRKaTZwYjNCOEpfakVJVXp4VTdoZXNVU2VEeURwQ3dKanV0b3pxVHVUcUx2ZnFnZFc?oc=5",
-    "source": "Mezha.net",
-    "published": "2026-11-12T00:17:09+00:00"
-  },
-  {
-    "id": "e2a1526499b6",
-    "title": "Microsoft Wants to Power Data Centers Without Subsidies or Higher Costs for Others - marketscreener.com",
-    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQUWplZVppaFdmdU9GbmZuN2dDNU9YODMzWW9CeERreGxqTlZfb1g0cVpuNjJKblNwS0VjNmlnejdpQ2hnTW9JRG9EUzNPZTVVSHVsWFY1eHBjVWtUSmtKNGVRZXBGX1ZHZFZmTzBtbVh4bldHM2ZzQ2QtSHpZSWEzMW5odV80UmMxWDdGc3d4dmxpdEFlTXhEVHM1MTJycXNldDhHYkdnUE9qZEpFQzZSWGdjZXdVaFhqOTlET1FHNzAtZEJTTTd4X3Z0dUFqV1NN?oc=5",
-    "source": "marketscreener.com",
-    "published": "2026-11-12T00:09:12+00:00"
-  },
-  {
-    "id": "20e87866a04a",
-    "title": "Microsoft Wants To Power Data Centers Without Subsidies - Finimize",
-    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOUnVnMDRHbF9lMmFfQjVSZzZEd2p4dGJBVm5HYjNxU0luX2VFUjVFM1dGMlFQMmVjZlpnTHJTTG5QNWdSZDlnUDFKWVhFTWZ4ZWF6SXdGb2lmNXdNMk95N2h6LXhjbFdzSGdfcWRWZmZnbW5NaEZsMG9SSmlSNHdfdGRFTi12ZXlCb19SdQ?oc=5",
-    "source": "Finimize",
-    "published": "2026-11-12T00:04:20+00:00"
-  },
-  {
-    "id": "9b445f7ea85a",
-    "title": "Microsoft's Auto SR Upscaler Goes Handheld on Xbox Ally X and X20, Gains 120 FPS Mode - TechPowerUp",
-    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOR3NCZWV4WklBbGtJRlM4RUdzVTB5QUxHbmdTenZNM0wyYlNaVUVLYUVCVmtHSXlpVEdOSG9XNUpXOElsc3JaV2lXcUFuTGV1SVlYenpXYWlhSk5vSExsMFZ3YlozWEZ3ZEI4VG5CTElvZV9ON1JpYUZnQXJuWldJZ0xRQTkyT3NSMW5kSEpCSFphRHZlRGRQVEpPelJ6cHRQQWdqblRhdmVZS0MyXzhmUW1RY1J1M19uQWfSAb8BQVVfeXFMUEZrODQ5NmdKdG5ITGxzSlJVM21yaUVQYU1xZmc3OTA1cTl2OGp0Q0NkS3VoUnl4eFRyNlF2MFhKc1RsX1lLNGFDanlqQi1EZkJOVUZiV1MzSnJwckZGaHkyVmM5WC1YUjZwTE1GeDQ5N3V3T3Z1UlhWZEp1N0pPdXp3TmNXWU51bU80WmFwNDV6bjZYVzA4RWxYWUVhQjluR3RlWUpRM1Z5d0NORmdpcGg5S2hONndyUEh3X0xOaVU?oc=5",
-    "source": "TechPowerUp",
-    "published": "2026-11-12T00:04:18+00:00"
-  },
-  {
-    "id": "400251e526be",
-    "title": "Amazon, Microsoft and Google pledge more transparency on data center after NDA concerns - WSB-TV",
-    "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPQ2xHTjFsMEtpNk94TVVOZk5Sdi1FUzNucUppeFptRWV4TWxNOUtsT0xqT0FZczN1NW9wNHBCVmROUE1yMmhzd3oyb3pfZk9kazZmTVAydTRrZlFLQS1Da3BWSDYxSW01d1JWNHRPSUhpcVl2TWphc3pnblJvay00UVowOW9zVlJWaUdvY3BLcXVRazh0VHBjYXROcXcxcG5oaU9PdlVPWV9CbzFZd0c1WVRsMDM3cHhmVEEwcXVURXlNbUU2bXRvUTlScnM3akVnRkZlRkoyNTNvd0FfN1hHLVJ3SkQ4cWZBUWNWZWV3?oc=5",
-    "source": "WSB-TV",
-    "published": "2026-11-12T00:01:35+00:00"
-  },
-  {
-    "id": "01b903fafd7c",
-    "title": "Microsoft admits people don't want AI in search, releases new tools to let you turn it off on Bing: \"Users want to have the option to choose whether or not AI is involved\" - Windows Central",
-    "url": "https://news.google.com/rss/articles/CBMitwJBVV95cUxNZEFWQnA5M2haRzdNV2xRNWh0X2RhelJkS2ZwX25MbVlqcFNoMk9UUUs4SUgtMF8zYTdOeXl2SDJzbnN2VEtxaXlqUzM3WGFjN2p2S1FoSHRWNlN4LUNNSFprbjlGMlBNb0pGNTdEOG9YVmJEUHJIaXRxaHc2dW12T1FoVHJBZkU4VEZ3RUk5dF90cGhfNWktMk5WeV9IV1ZpczZwQlZZWjgtVGx0X0NVZW5SSFZSZjh3RW56NDJ4bmlpOGdXTnBWNDFMS1FpeDNVWlFLUmMwUzV3bzltRm15Wm82c1pEczV4VnB6cl9adkgtcnlaTXM5NldaSDE1S2tQM1YyUHZ0TW9nZ1ltaTB2WndqZVQyYkphcm8welZFcXlJM0R6MlhsTURTMzRTR0c5QXp3SzYzaw?oc=5",
-    "source": "Windows Central",
-    "published": "2026-11-12T00:00:55+00:00"
-  },
-  {
-    "id": "0da49c15498b",
-    "title": "Databricks launches always-on Genie agents to take on Anthropic and Microsoft - Startup Fortune",
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMklhNVBPLUhtaTlUV0JDaEJEQ1hjXzJ2TW50M042b2N3OE55dUhQdmZUUEl5V3NkcjNsTFI3LVhsdEVIU29nRUJwdHZEdHZQS2h1WFMyNUc3dENPSUR3U1g4d21tNmxheV8xdFZUdXhPVW1rejFtSzd1eVMzcWVDdk9EVHhuUDFFSTVKWGtVRHdJNkxWak55RWx2d2tnT3psTWN6WTFSZGU?oc=5",
-    "source": "Startup Fortune",
-    "published": "2026-11-11T23:51:07+00:00"
-  },
-  {
-    "id": "1a7e6ddc5c8f",
-    "title": "Microsoft donates $120,000 to help bring makerspace to Cheyenne library - WyomingNews.com",
-    "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxORFhXVVRyY3k2R1FxSXZ5NTdHZTRMQWNBVHZWZzA3dEI4SktLZ1BvSkJhTXczVFJqZWhGVzNzNjcySXVMckgzU2htYWRfcGdJbGtPaXVhdU1rcjRtNlJXc0dudFFNMkdNQmlxNHFEeDd3MHR2S0Z0OTBTbTZlOU05QkY5N212Q2N5T0h3aWxYOVdZbEZqNzBCY1JxQXppY1RjRGZxSjk3dV9WelIxVUxJOFRSUmdNc2NUX2pJbEdlMmFZS0pScDBEZHBXcU5EUENsYWVKdGpZUGplWVBkaHdiWE5GbkttS3RfUC1UOHlTSTUwSERrNW9B?oc=5",
-    "source": "WyomingNews.com",
-    "published": "2026-11-11T23:45:58+00:00"
-  },
-  {
-    "id": "95a1e2f349d8",
-    "title": "Microsoft’s best data visual software is only $44 with this promo code - Mashable",
-    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNQjZhak5jTTQ1UWpBRXRidVo3RTloOWFMUDV4eXlPbkcxR0JyX3puRGVkb2R1RXBKWnVrZlZBUFI3dW5qOTM5RmhvVnJ3M0dXX19mU3lGdWhKT1VWazJSc0NIYW42TVlROUxsT2laR0RnZzBRbzdxWHNQQTVvQlQyYWpRNWN2VkNmVlRvTUZ4SjhFc3RMVkJ6ZmVMWQ?oc=5",
-    "source": "Mashable",
-    "published": "2026-11-11T23:40:01+00:00"
-  },
-  {
-    "id": "0a5048e1a9fe",
-    "title": "Amazon, Microsoft and Google pledge more transparency on data center after NDA concerns - WSB-TV",
-    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOWDBOWHJlbURDMXlWMXNQaW1VUmt0MGhpV2Z4NUdMOGZENlZhbDhZNG5MaUd3dExtbmxJclRCQk1JQzR6T0VVQ3F2VE40VGlkTnYxZHlkUVBpWTYtM3pvTURoU0JNQ0FMcUJha1JmZ0pMX3FoY2lSSTBuMTM3OTNra0Z3bURVLVhoSVZyaDlvNXFLYThBeThnQmVVcHItVmE3N2VkWmVnU05scG9TZnU3RUd2aEltUktienZIMHlLZkdsWjA1SGRkR2FZQVIyMkFGRFJuVTdVY9IB6wFBVV95cUxOc1ZpZmJCektzZXM1djhIZU9FMExPZWh4cW9UaWNqN0JPZVZYbGktUHdJZFRFUk5ERngzU1licTgtY0pLN191S1E4M0s3QWp0NHJlUVFxcEhhaGpnQlIzeHlRM1o3X0Z4SEhlVDFLaXBJOHVTWDRKRXk1Sm5nZ1ZVb1V3aFRyelhTcFFZU2NybTZIRGczcEk0MnQtcnN3WVpTOTJObGRqamkzZzg3ellPanQ4TVJGM1NyVU5aSU9MNU9GdnRxT2J1NjVOQjlwYmNpZmkxcjl6SVdwMDRuY1pISXo4TGdKQzhwbzVF?oc=5",
-    "source": "WSB-TV",
-    "published": "2026-11-11T23:08:43+00:00"
-  },
-  {
-    "id": "9ebb6314bf7a",
-    "title": "ROG Xbox Ally X gets Microsoft’s Auto SR without a dock, with a 120 fps mode on the way - MIXED News",
-    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1veDNXS21OTldEaXB2MUxkNEFzbmJUNEw0b1RmTmNBcGJYeGxFdHV4d0Y3S2FMSXpzWm42NENOX3FFM296WWdVU25uRksxRzNkUF9FYTM3VnBycU8zRVhZZmVJaE1meFpDemdiTGN1b2t3T2FtUUhhSVhYbHM?oc=5",
-    "source": "MIXED News",
-    "published": "2026-11-11T22:30:46+00:00"
-  },
-  {
-    "id": "3c05e2aa8925",
-    "title": "Microsoft Vows to Pay Its Own Way to Power Data Centers - Bloomberg",
-    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbGdoX2lkTENMZU93QnRMcXZwM0hnNTMtRHdyV0M1YVpWTDljbFkwOUpiNWxCbm04bnlUa1djMHYtWUZNWnc1dVdrQk9vWjJrQnBvZDBLRE9TTGtuUWw0UlNreE1OUDRhc2djdi1lSWhkUWt2dTVyLTkwUVNucVZrLTZYVHVKdGNWS19DSnVlSWxCdnlES2d6NWt5OERrcGpfaFdWVTJXZFJ2UQ?oc=5",
-    "source": "Bloomberg",
-    "published": "2026-11-11T22:11:22+00:00"
-  },
-  {
-    "id": "536ecd9f06db",
-    "title": "I rebuilt Zune as a Jellyfin client, and Microsoft can't kill this one - How-To Geek",
-    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE16RHhEcFlGNl9MemlPMnA0RVJablpHSHl6ZngwMmR0bGdhTFZ0cUtoUERPNERNbHlQTEQ1WDNyLXRWaWRpa0hPUXJuVTFDcVJnQWVta2xXSFYzalAxOWlnQ2hmTXlHd0RlVW9TRTFObw?oc=5",
-    "source": "How-To Geek",
-    "published": "2026-11-11T22:00:15+00:00"
-  },
-  {
-    "id": "1f5bf373f0a1",
-    "title": "Microsoft Options Spot-On: On November 11th, 821.79K Contracts Were Traded, With 3.82 Million Open Interest - Moomoo",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNamIyS29Vai1sRThRNUJScVRSRlNtYkVmOWtraGVKSnAyVWRndTNhUC1FWmVoejktSHVUa0JEZTR3NVI4bTlKRm40cVgtT2RjWVlLMVptRkpaNGlpUWFIeEg4UmJISi1TbXpmbHR0ZURmeGxQZUxaMldqSnZZWGVZWGlmS0JyZ3kyNnBpMkpWZEcwRkxrckdQTWdaLUJZT0ZWckx5ZmQ3MA?oc=5",
-    "source": "Moomoo",
-    "published": "2026-11-11T21:30:00+00:00"
-  },
-  {
-    "id": "5c068eb8b385",
-    "title": "Microsoft plans to 'pay our own way' to power data centers - TradingView",
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQd1p3dG9zakZQYlMyMVNNb21YUWxtbmJXZHNPSHNiaTcweHNZVy1NdUh6T05FcVNWVlNNeHR6NmJpUFhWeHltMldWSjJ4N3RHOVpIUGJvRjA2R2dkelRPbVZxVkVuX01iaEZwZnZMWWUxNFZNNFpyTzV4cV9DeTNYdWttTk5fZlMyYkNlWkpVQWNsX2plTExVQm5TUmNZUVRzMU5RcVhKOUR1dkVBaTd0N3pZLWtDUk1XQzhr?oc=5",
-    "source": "TradingView",
-    "published": "2026-11-11T21:26:35+00:00"
-  },
-  {
-    "id": "cdfb228b571d",
-    "title": "Introducing Verovia: Microsoft-First AI Orchestration for Industrial Operations - MSDynamicsWorld.com",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPYUI2QzJBczduY2oyWnF4M3YycFBUZDh6c0Y0Z1Y3dmNqY1ZuM2NXakxVY2N0VTQzRWVLdmItVUs3TTl3bVZzUDNVZVVRVXgxNVlCR1V4WXZxYTBFcEhuU2pnNzZjUFNjV1JwY0lnbE4yZFdoZktaVkViWVhEUDFzVEREVXQwRmpxNTdvX2VySzZ0WjRobVNDS1VQQWQ1SHA2MGxqQzh1Z2dzeC1q?oc=5",
-    "source": "MSDynamicsWorld.com",
-    "published": "2026-11-11T21:09:59+00:00"
-  },
-  {
-    "id": "6b3fdddc8d53",
-    "title": "NYU Stern Launches AI Startup Competition With $5 Million Gift From Microsoft (NASDAQ: MSFT) Executive Jeff Teper And Wife Sandy - Foreign Policy Journal",
-    "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQX0NNZ25mTDNCNHF0M3RWTDMtYU5jbV9KMGdJN0FuczZCOG5uRld0Rl9nRXJYS2drWTROdElmYkdHNURGS3c0M2xRM0VicVp3Q2xGNTgzRjhSbzg0aktQc0ZSVFJrVWYzR190cVpRYlNCcjZUMzBtTVNuZENiWUxGR1k4cjVzN2M1SWpvcEI4X2tEWVl0Vnc3cGYwNi1zMllDVjJFUDg3dFQ0cmd1SkVtZVlTSk5NcVQ1R0stYnZ0TTVaUHZFT3FlZHU2VUYwcDh1aTB3cUZoWjB1OHRINWE5RGdQc05RQkN4Tno4ZXJFTzIyNzBJaFZfSVZHVFRXam44UFlZ?oc=5",
-    "source": "Foreign Policy Journal",
-    "published": "2026-11-11T20:44:00+00:00"
-  },
-  {
-    "id": "961cf9b094b4",
-    "title": "Microsoft touts data centers’ benefits in small Washington town - cbs19.tv",
-    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOWmFQRjA5alFFa1hUcUxUcS13N3Boa2tuaFo2Ni14YUtESFZwT0txa1RuZk05RktISGpqcG4yQXBnR1Y0TVp2RUJER3loMHVPbzhReDBLNi1ibDlNQTRUakhsY3hrbnRYMGwtWmRIUllKeGdFQ1JVeHkwWXc5SDBTdHFDT3hBNWk5bHNobVpaSjh6NVBudS1IRTN5NXRIQ3NYTU9qa0Q2dmV0YTIycjB6a0NHRnI2UTFfdWRIU2JNQkZYQ3k4UkFLN1pGeEt0Tk1Va1FsellLWTQ?oc=5",
-    "source": "cbs19.tv",
-    "published": "2026-11-11T20:08:01+00:00"
-  },
-  {
-    "id": "589602196354",
-    "title": "Microsoft Patches 1,235 Security Flaws: Outlook Zero-Day Already Under Attack - TechRepublic",
-    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPenpXV3diNGc3akZBeW03U3NfcU9fV0FpZXNmVk12bmo4bVQyaVlCb2xHUUx0X2RkRnAySllocG9XOHlpZnhJeFlyQW82R3J4LTJYOGlIbnlQczZmbEdkN2FsTUpuQUxBMU1jR3RQSzNQdHEyWGJNN3pWbGhqQTVVMkZldkhkeHM?oc=5",
-    "source": "TechRepublic",
-    "published": "2026-11-11T20:07:49+00:00"
-  },
-  {
-    "id": "cfedb18e942d",
-    "title": "Microsoft November 2026 Patch Tuesday Fixes Record 1,200+ Flaws Including Actively Exploited Zero-Day - LinkedIn",
-    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPSzhjVmNHeVB3aWJWdUF4Q0FJTnRRQnhCMFVUS0x4MXROOEVpdEdrdExZTDF5Sm90akJCTmlNRjlTM3pQWlBUX0N2NHRLblppN29oSlFhcGdWWWtrUTI0cjB3eWpWTDFqbjRidlYtM2tKb1BmT1hCUmZSV01mTXlZYlg5cEtNYWE5aUJJRWZpTFM?oc=5",
-    "source": "LinkedIn",
-    "published": "2026-11-11T20:00:06+00:00"
-  },
-  {
-    "id": "953dfc74e34e",
-    "title": "Invoke Wins Worldwide 2026 Microsoft Secure AI Productivity Partner of the Year Award - EIN Presswire",
-    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQOVFvYmMxVjVnVGlpZ1FHNUI4Tjd2ZjJmaEh2d2FmcW1KNkJlelI5eVRfb3BHdHY0ODczbVZhSmlER2lfT1ZsNVdxVjFwRjVsRkU3Y1VaTV9iR2poY3p5QnV1VDhoMXMyUlM5NzdESlNyZTNRalZWTnRHalRHY2xZVFZvbDFqZDJfQmlCT3cxVFJlMjJrVG9WUl9BRk5RMjlMdEF6RkdoS0xoN19HNndPZlh6Z1hrc0lzV0NoV1pPUXlIN01ZMklWRVNhVV8?oc=5",
-    "source": "EIN Presswire",
-    "published": "2026-11-11T20:00:00+00:00"
-  },
-  {
-    "id": "21b24c619b40",
-    "title": "Microsoft’s Noelle Walsh says the company will pay for its own data center expansion - Crypto Briefing",
-    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBSV0I1R0NBc1FSMGRkb2NmVTJleWtvc3dSMjJnTy1QTXBjUHZzblhRNFdNMk9KWThYYy1YSEwtcmJZaDdQN2VCUnBkR0FtX3ljWUJIelFZNUlwS0czbVBETEt1VERtVnNVVVo4bGRONlRqdkowZDRUSQ?oc=5",
-    "source": "Crypto Briefing",
-    "published": "2026-11-11T19:56:26+00:00"
-  },
-  {
-    "id": "d01f032a24d2",
-    "title": "The global socket: how threat actors are weaponizing GSocket for stealthy C2 - Microsoft",
-    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZUpXeFJHX2hVcnZtd2w1SVBDZ05yQTBoQnhqTGdveVR4R2RBd01peXRCZVFTYTE4VWt2dm5rSno1bE0wMFNiSFY4RTVNd2UxSmxpQ0xLbE9TLUg1bDhTVWdXdHpvYl92ZFhzZ1lGakl1Vmt5LWR1cmhMZjZ6d0Yxdzh2QzJYMlIzM0kxQUpoZXUyYnZDODdyQXVYdmx1bV9sTEZ6RTlPZloyNzBvU2VLS0E3ZkdxLU85V2MzQlh3?oc=5",
-    "source": "Microsoft",
-    "published": "2026-11-11T19:49:57+00:00"
-  },
-  {
-    "id": "69ae418eb588",
-    "title": "Microsoft patent filing describes paying users for idle computing power to train AI - Crypto Briefing",
-    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5aajh6YWRKbGg0ZnpXclpBdlQzT2VrdExKbVpzREkybXQ5UU90aTFSREhTODJZT0EtZm5yNDIyVkVqaHU3bzJDYlpVTVZKaHlOb2x4S0VZM3FwUkxMbmJmcWJDM3JUVFdQNjlKTVQtLVl0SG4xRmtZ?oc=5",
-    "source": "Crypto Briefing",
-    "published": "2026-11-11T19:30:41+00:00"
-  },
-  {
-    "id": "adc43727ba9a",
-    "title": "Amazon and Microsoft Lead the Cloud Market. One of Them Has Far Greater Upside. - The Motley Fool",
-    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVTNhc051cXZBc2g4eXN0aFlZSDVPRUp2TzFuNTVCNmVCOWNJYXE0WkZ0TTZJYXJlcE04eXd4X0tqN3ZVRXF5MDh6Q0wwZEsxWG9MN2l5ZXNMOHY0elc0emVYaTJhUGNUMDlvX1Fvb0ZjaEZMb21iWGR1TmdiTlJwUk4ybHlqVkVveXdncmlreXNRb0xoOEsw?oc=5",
-    "source": "The Motley Fool",
-    "published": "2026-11-11T18:45:00+00:00"
-  },
-  {
-    "id": "1e83098157ef",
-    "title": "What is Nebius? The AI cloud company that grew out of Yandex, explained before its earnings - Nacionale",
-    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQTk4MzExT2dxN1FuTHFFVHNmeDRSS2tEUzV1V1l5elBmN3FGZHFLWVFhZ3NHMURrZy1keFVYa2RTYnhIQ0NVRGpobkFrTnE5MVZaWkl0cnlrc2JtUUl3OWFlQkViRDZnWWlGaTlpckhvVlhkZ0lpY3ZrUDJNMVhILWZvTjNCTzVqU0ZqNWlSWDFsaWw0cXJsMFJLSlNQRm5jVEY1anAtY2dIM1E?oc=5",
-    "source": "Nacionale",
-    "published": "2026-11-11T18:39:18+00:00"
-  },
-  {
-    "id": "76876563a772",
-    "title": "Microsoft vice president builds open-source tool to show which apps are using GPU memory - Mezha.net",
-    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPTko0bU03cnVGOUdxZ3A2OS1GbHBqWTFwdEdHMEZLbWhJczRfZ1ROLTZJVmx2S0wweWdZRzNfeXVVTmxUNTBJbzNNaUphV0RuZnVZbnVaaTJ2LWZqTmQtU1hWRnhzaTNzMjdiTzg1QlRFMnBMTEhPb0NXc3NwSHN5eERfVm9ucFRRVTZz?oc=5",
-    "source": "Mezha.net",
-    "published": "2026-11-11T18:26:44+00:00"
-  },
-  {
-    "id": "1672e265e09e",
-    "title": "Microsoft releases Windows 10 extended security update for November 2026 - SC Media",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSzBydFNIMzlPcE5lRC1sMFkzS1lfY2VKOXNELWdVeUJubm13eWFDQTNJMTl1ZjE0RWszX3BsMzVSQURlY1hRN3JiRzZzWkNWdGtlMTNKaFgwcVAydGxMNnFBbUR2NkNRd2pIOFgzZlJZX0xqc0VOUjc2UHg5VjFySU56UWR5MEZDeDJsSFNrM1plazdtR2NuM0ZFczAwUC1CNFM0aw?oc=5",
-    "source": "SC Media",
-    "published": "2026-11-11T18:15:53+00:00"
-  },
-  {
-    "id": "9bb2aca17643",
-    "title": "AI Data Center Demand Revives Microsoft After Selling Pressure - FXEmpire",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORlBYbTRjaGZnQmtxLUdVVDU5ME40WjhRdGlJNk1ENnBhRFJHZE1RS3VYQThRZzdSUzV6LUo5RmwwVThaa2I3S3hOLU1adVpaMDFXYnVORkROMGpTRlJKeE9tSXhDN2dDOE8td01qNFpabzAtVTNTZm9WMmZEVWVGWl9KSzZ5NWRRYk9zWmdoYVVtdzNGb2RiN011R2paRmZ6aDJDc2xnVlhUTE1PVjM5R2xSNA?oc=5",
-    "source": "FXEmpire",
-    "published": "2026-11-11T18:12:43+00:00"
-  },
-  {
-    "id": "ddbc0d3db9c8",
-    "title": "Microsoft's vice president develops open-source GPU task manager to show which programs are using VRAM - Notebookcheck",
-    "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQMWtRWE5VSWhWMDZKdE5tcGxTWDBkSkpJTlZ6VEhYZXVlb2ctTG5DZUsxcEF5YmJWVFh1TFA3VklRNTRFdDVZSVBGQ19WQm04ZXE1YlFXUGpZVGppUjdXY1pzOExZTjhHekw1Q09vRUZxaFVBTWp6RTIzRjFaOGJXd1BmYVRPN3JNbklBZjJaNnktNUpQbkRZU3U2TTBTcDZTYnFTc0NVLXF5RXB0UF82OHZkVGptSmhUY0NSTFVTT3BycU5xclVialRpUzVuSTNmYjNzUGEwc0ZhQldhTWJLbQ?oc=5",
-    "source": "Notebookcheck",
-    "published": "2026-11-11T18:07:00+00:00"
-  },
-  {
-    "id": "685b02c86933",
-    "title": "Microsoft urges Trump administration not to ban Chinese data center parts, report - Heartlander News",
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSmxoeWxjUDhUU0otal9PR1M1V3pvdWJlb2Rnc0hsUWpUM0xmakx5OG9WQWlac0M4OWpBTDkxMXpIS01BZmlxTDAtTzRNbHpsVDR3UDdPWk1QUFFwazZqbGpmamg2T1NXcWE2VjRFM1RLWVRpQ0U5WXJxYTRIeW5fVURwbXp1Tml3YVNRRF9mOUNhVVFvc3VZRnlwdDVqNHoxRV9RM1hjRUNOM0F6aWc?oc=5",
-    "source": "Heartlander News",
-    "published": "2026-11-11T18:00:19+00:00"
-  },
-  {
-    "id": "1b70bc401983",
-    "title": "Excel isn’t dying because of Claude Sheets, but Microsoft is in trouble if your workday starts in a chatbot instead of the Office apps you pay for every month - Windows Latest",
-    "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxQNzZ4UUV1SWxiZGUxMFdDbkVyNUJVMzR4YzhvcEk1MHliVkN3eEtWc2ZTczNLUFdob190NU94RGE1YzFFV2N1V0hlM21jUTE2SnVWVUxobmw0MFpfVW5ybmRWMzN5M1RFajFiSGk3RXA5YXNZQTB1SmhhYXV1NUw3TXR1Zkw1V3BVWHpGTENnVWQ1M3lCUzIyUmFqemNqY05Qc0VQbURrTkNpUE1FS2RfOGhXbXJ2QlB6Q2xDejhNTHdjNmNBQndyMlhoQVZGRTM3cjJYVms4UWhkQWthRzF4YUpsbk9zOGZTWlIyNlRUb2V5bTNvQ0ZWM0N3OWtZUTdPWGsyWUdvcnNvRWpsSHBkM3lwQjl1TVpWNnBqRDlybkRYZ2Vs?oc=5",
-    "source": "Windows Latest",
-    "published": "2026-11-11T18:00:18+00:00"
-  },
-  {
-    "id": "ae4b0e0ef797",
-    "title": "KT ‘Meisters’ and Microsoft engineers build AI agents to spot network issues before customers do - Microsoft Source",
-    "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNRmlHa010N1huTWRDb2xmYS1JcDVPMFBDdS1lV0pQSG5RNUxKOVdwNEUxbjV5NkxRaklPU1J0MTRMT3BWcGFUMURoRERaellDblY0M2tQM2x1OVBDSEFrdlFYaVcwWW90dm5RalFmbk4ya3NJbE1NdE1Za21qdi00T09veHRyNTdPUGMtM3JEQlRaY1lPQ0RWZy1hbG9aLXJHM3VnV3JvYWFEWHdTaVhHaXNPUy02R2FUMm0xS3hJck9ZSDl0U2dNbzVEUnhjNkRBdkhkejczd2lJdmx1R0JyMmVPV2wwVXdGdFotb3BvaGJQNUE?oc=5",
-    "source": "Microsoft Source",
-    "published": "2026-11-11T17:48:45+00:00"
-  },
-  {
-    "id": "40f3273ae288",
-    "title": "This Number Tells Me The Microsoft Data Center Selloff Is Excessive, Prompting Me to Buy - Yahoo Finance",
-    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZjVJYXNReFpfNG4wSkZpTHptNGxqUWVyVGNlamhOc21QLUg2WFEyT29XM2FUa3JqS1d1em9mOGwxeFA3LWd5LXk2c01RcVp0UUZzXzdRNy0zM1FrTlh4ekxhMm5vNHBvZ0xoWkNyRXRiakQ4Wld0bUJURFA1MElRMUlWbVpfWTJrZldQc2pLcEcxMWdzeUExbnZSWFNfVk94?oc=5",
-    "source": "Yahoo Finance",
-    "published": "2026-11-11T17:45:26+00:00"
-  },
-  {
-    "id": "1f1c9d42bb30",
-    "title": "This Number Tells Me The Microsoft Data Center Selloff Is Excessive, Prompting Me to Buy - 24/7 Wall St.",
-    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPcDFRb2NpUlJCWG9WMmw4QUt0V1ZhTHJnYTRaOFd6VGJSaDFXRjJzclVWVHdTTE5rQURqYlNrSkI5RjZIdmhYVlp6bEdTc19CbEJpUEtqbnd6QVpmSnFieDNrSGNnWTJjMnVRWTVRQjl0YlpaMy1xNEkwWkRvLWxYNmhpMGNPUTB5WUdWX2ZWN2Q2MDdaTHlYeU01bWl0eGlQbzFjZHhiZURtdlEwcl90Wm5SZzlZc0ZCc1AwNml0ZDJfWXFRMmJMNkpPRQ?oc=5",
-    "source": "24/7 Wall St.",
-    "published": "2026-11-11T17:45:00+00:00"
-  },
-  {
-    "id": "b2bb91dcc74a",
-    "title": "Microsoft Stock Suddenly Has an Anthropic Problem - TradingView",
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOR2czU1lPQnIyWjBJYTYxVXFxTG5ralR5TEZFWEoxUHRlcG9wa1BGR1V4alZ1a2g0enF3SVpPR0RHLW5DVGFxYy1hRC1VZGRkd28wWG4xSzNaVEJFekdFOFU0RzZ3SG41TVdWazA2bUd1UEt1STJtdnFtVVhXV2pxNVotQ2ZiekNzZlVyaEVfU2V0aGRpMk51OFNnTTdiX1VKeFNaQkdYOHcydUhjd2c?oc=5",
-    "source": "TradingView",
-    "published": "2026-11-11T17:44:00+00:00"
-  },
-  {
-    "id": "53933f94b643",
-    "title": "Evercore Plays Down Microsoft 365 Disruption Fears After Anthropic’s Claude Sheets Launch – ‘Not Yet A Substitute For Excel’ - Yahoo Finance",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZXBUdnhrRGh1bmFtajNWcGo1YmZva2otVEYtTWx6S0NHdTduNV9FLUotUDVROXk4TklJOW1xbGpnYkxSRHhfbjRYem5lY0w0VHZ5R2F2Z01EMmtlRkFFS3M2a1F3T2NRM3JPcmZPQWVndFREUGZ6T1phMUtYczJ0RVpxdWV6ZVNObUNsaHFaYTFMZUNadVdTcDM1UlhfTlk?oc=5",
-    "source": "Yahoo Finance",
-    "published": "2026-11-11T17:33:48+00:00"
-  },
-  {
-    "id": "7acb2218de9c",
-    "title": "What's Going On With Microsoft Stock Wednesday? - Benzinga",
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSWd3REhYZ1hQUlJRbjBNa2kwOURNLWU5ZnBIX1ZZdW1pYmp2bHVmLTljVURoNmJXWGswSkxJTy16MnFVd0FUSmFlNkh3TnR5Z005RkpXeXd0Q3RyQ3k2c0dOMlJaSFg3eTZ1cmxvaU9kSzY3SzNtY3NFci1LZ3d2VGZqUkktS19tcW51WmFGR1ZIT0w5aU1QWXo3cm5Tak16THc?oc=5",
-    "source": "Benzinga",
-    "published": "2026-11-11T17:30:12+00:00"
-  },
-  {
-    "id": "80db06208069",
-    "title": "Litera Brings Document Comparison and Firm AI Search to Microsoft Copilot for Legal - LawSites",
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOeVRwVjMxT0FMNzFjVFd6aHV0cE9xd2stOEhqTHRJbjgyMEZJcm9NWW5PY29HbVdYb2lYOWRaU0FtMnJaWGUxRUxGeG1pQ3RVUEhRd0lGT2JXek1paTdyOUVzRFJadzNXb2FfV19MenBLLUI4R25TU2hSYjRxUHYxYjZCSlN0RXotQjZGWmJHVkN2cFRZbkRaYmg1RDlaMU5jeVBnQlRNUERmSS1QMldVLTRicE5DZ2dEd1ZvWA?oc=5",
-    "source": "LawSites",
-    "published": "2026-11-11T17:28:49+00:00"
-  },
-  {
-    "id": "ed3cc06517ef",
-    "title": "Microsoft data center in Washington state brings \"a kind of boom\" despite growing AI pushback - CBS News",
-    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9NMkdUQ2lNanlnUUxqNWJCM0dTM0I2RldsYnBmVURXVWVqYWtKZ0lnaHpzQzI4NnVlc0tFdjdZY296TGZWa09uWXhVX0liaFlIbzRmUUNfU0NwSHpsUXlZWGxnZU9TMTQwNTVGY2haVEQ5TXhwZWdWdnhn?oc=5",
-    "source": "CBS News",
-    "published": "2026-11-11T17:06:37+00:00"
-  },
-  {
-    "id": "7bdac3d70cc3",
-    "title": "Proposed trade limits keep Microsoft under pressure due to potential supply constraints for AI investments - Traders Union",
-    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPOWNqdG5CLTVGUm1rZFYtY2JBVEtEdUJsUDVSd0ZDdWdzSEVWNGc4ajJNTkFVUWJLNEpFS3JzaHlBbW85TTNqQ3VyZWdXTnczTGFNdGhySndEUVRrbjl0U1RYU2FkXzA0WDlST1duZEpLbXBFbm9OYVdNVEluTWVhZU03UFAzeExkNmVfUFh3?oc=5",
-    "source": "Traders Union",
-    "published": "2026-11-11T17:02:36+00:00"
   }
 ]

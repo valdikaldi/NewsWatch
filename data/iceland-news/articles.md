@@ -1,8 +1,122 @@
 # NewsWatch — Iceland News
 
-_Last updated: 2026-11-12T01:49:20.862226+00:00 · 50 articles_
+_Last updated: 2026-11-12T12:16:20.117659+00:00 · 50 articles_
 
 ---
+
+## Hierarchical Divine Liturgy in Reykjavík, Iceland - Orthodox Times
+
+- **URL:** https://news.google.com/rss/articles/CBMigAFBVV95cUxPRzI1Zmd5ZTJFOTd0dFptUnBPV2RpWDNQNFV2YzJWZWp6ZVlkT3JrVktyVHdfTEVZLWtXTlBtWmFNaXFIa3k1NDFKMzNqVFJNeDBRSXE4NEVnc2lUcGZxbEdib2hZZUJHaThORHA1LXRkSkhRX2FjUGhMaEhxSUdRVg?oc=5
+- **Source:** Orthodox Times
+- **Published:** 2026-11-12T12:12:06+00:00
+
+## Icelandic watchdog runs hearing on Mila reference offer and tariff for alien wavelength services - Telecompaper
+
+- **URL:** https://news.google.com/rss/articles/CBMi1gFBVV95cUxPNm1hZG8yY1dnbklYQmdFQ1djM0N4R0dXclVfRDBXRG5BeHhDcDZndTczVWljYUpCemRWQTNWaUFkQUdpYWN6eGlxVnUxRmtCWi1pMzRmUlc3eGF6MjVManBpSDVWOTNKVlNKeG10WW5BWEF3cW5RT2RkNE56N3dKMU5zQkh4TXdBc2I3dWpZQTVOcXNlYmhwT1E3OXlJQnAydjZJRVBwTFZVYjZBUklmQy0wdEJLLTFXdGhGS1M5ZmdVRFpwbzFVVHJ6MVhOVWZJeWJwVEF3?oc=5
+- **Source:** Telecompaper
+- **Published:** 2026-11-12T12:11:23+00:00
+
+## Boost for Newcomer Integration: 26 Projects Receive Funding - Iceland Review
+
+- **URL:** https://news.google.com/rss/articles/CBMigwFBVV95cUxNNHo2VDN6WGlqNF93RFFDV2xOV3BaTGlBQUZfUTNuckNkQTMzTVI0bHp0R0g4d3VQQlZpMzVBb1Vxb21VTWxiTTExXzNib2FXRXdrUHVKZEJvazZzSUlpd3pSTEJLYzlZck4yUlN4SWotSEZwSV9UenJvaUtXSzk2aUQwQQ?oc=5
+- **Source:** Iceland Review
+- **Published:** 2026-11-12T12:00:31+00:00
+
+## Long and Lee Child attend Iceland Noir opening reception - mbl.is
+
+- **URL:** https://news.google.com/rss/articles/CBMimwFBVV95cUxPQnVHVmdsZGJ5c3ZldHlTX3I5amRhSzRRQ1NCTElPSmdxR01oOWlLeGg5UHNjQ0xaX3J1ZnZlbGQ5MlBDUHNyNWt2UlRjNXJIRnh2OTJIRDRuVFlOSVZ4VXk4TV9CdjhKNk5ldEQ2dEtKN29NVXBldkFPYWw0aFlUZXdfQk96TVlOTnpVMTZxMWlEemRaUlhMNDF6Yw?oc=5
+- **Source:** mbl.is
+- **Published:** 2026-11-12T11:38:00+00:00
+
+## Bulgaria vs Iceland Prediction: The Vikings will maintain their top spot in the group - Telecom Asia Sport
+
+- **URL:** https://news.google.com/rss/articles/CBMiywFBVV95cUxQMW9XeV9DMmc2N2VDSHpqN3o1VVd0b1JEbElCb1VoWjRjN1k3M0lmMVNaZjRRVGVZTV9uTDZkVklid1ZGVHU1TlRuM2t1c05IRmpXVDhQUS1pUGxheDBWaE53UFBnTlZMcGV3NjZvel9iS3g0cHE1SG1GNjRtRm1pSVdGRVlZdGZwUHVGYWpVVkJEN2lFaEVCVXF5SDg3cGlYdHdNYkZLRVVSU0pua1JFSlRJY2M3T2xqdjhWV1dFM3pLeVZyVWkxaVFOaw?oc=5
+- **Source:** Telecom Asia Sport
+- **Published:** 2026-11-12T10:50:14+00:00
+
+## Iceland’s Proposed Nature Tax Faces EEA Legal Objections - Iceland Review
+
+- **URL:** https://news.google.com/rss/articles/CBMigAFBVV95cUxNNkZoS2pLMFpCSThRVFVQZXFfeGR1NE92Ykh2aUduTWt4ZUpsanB2Z083OEVyMTgzTUJqdkRSakRoNTFjYUdTTGZ5UlNTTC1CeUJVdExONFFpalcyM2ZtdDdfZC0yWXV2RU5lVjZMa004TzlMaDhxUFBUVmxDajhYQw?oc=5
+- **Source:** Iceland Review
+- **Published:** 2026-11-12T10:29:52+00:00
+
+## Williamson insists there is more to come from Ireland after narrow loss to Iceland - kildare-nationalist.ie
+
+- **URL:** https://news.google.com/rss/articles/CBMi2AFBVV95cUxQYnRfcUl4aEljUVppMUd3MzdKSG9YdlRGT2NxRm9RMDJVLTlYUlBUMHpmZDZTZUZIa1l1cGtCNmE0UkV4d0YyTHpuSFRvQlpxMGVGaUZvU2ROTmpEcWdjZlVXcUNleFRFbURRa3hEREZFRGZDUUlDTHJiY2JScHR2cVpXREUzUko3U2pIVGtPT21lY3drSlZZNkJmb3VzTzJlMG1pXzlDaFJYUTVjSXI5TVJwVlRHVFB2dWd0OHFwWjBMS0pMTFVMeVFlQUd0dkNZSXFlZnloUXg?oc=5
+- **Source:** kildare-nationalist.ie
+- **Published:** 2026-11-12T10:04:26+00:00
+
+## Matorka’s Arctic Char Farm in Iceland Bought by Brim - Perishable News
+
+- **URL:** https://news.google.com/rss/articles/CBMikAFBVV95cUxOb3NIb0M1TnBuV3lGNVgzSjBmOVdVOGtsWnV3Sm1ockNNWmdRT2FKSEUybThXOXMtbVd6blR6eEp1TXBDaFI1LXZGOVd4dDdlUjFUSmdDb0VLT2ZBeFF5UVlOaG1oeXdUQTZWMHBpdUVvejR3QUJjamNVY1puT0tNTkZyay1hQ3RwVG9fa3ByU3U?oc=5
+- **Source:** Perishable News
+- **Published:** 2026-11-12T10:02:35+00:00
+
+## Iceland Breaks Ground on New National Arena - Iceland Review
+
+- **URL:** https://news.google.com/rss/articles/CBMihAFBVV95cUxQdC1BcXJkcm5La3REX05vQzk1LW9TYUR3ZmY5b0E4ckkxU0RBN0pUSmNmUXpQODRJYk1BaGt3RWo0NGlmOVhaV2J5STRNc2x3X2R6NDQweEVGcTFueDNJQWt4RE02ZjVwR0pRbTFXWjRWUFZwQU5xWXpzWE1JZDY1d0RTQmc?oc=5
+- **Source:** Iceland Review
+- **Published:** 2026-11-12T10:00:01+00:00
+
+## Iceland's £30 frozen Christmas dinner in a box serves 4 and is unbeatable for budgets - Liverpool Echo
+
+- **URL:** https://news.google.com/rss/articles/CBMiowFBVV95cUxPS0xDVmluengzTDZLc2Jsdnp6WUJ2YjZvQWJwRmNpSkljQlE5NTFCa1lzdEJuZXdqcWduSkwwdDJCTnhZOUNpMUlyWnA2RE13WkV2dHItcjZKdWlFcGowUGo5NF80bF9vanhmQ2U3QUtxZmgyeV9vLUlMYkNQTkZHakxUSzJOWGdxRmNzRWxxdGZQWFlYNVVzS2VkNzlJUUhJUmdB0gGoAUFVX3lxTE1BUFJHdUxmZXF6ZkZNMGd4T09UVi1lOXRhOUp5WXJCLUNCMXdvTVlhQkVvMzYzMkRnQjE1WHotZGRFNkJ4d1dfbXZMaE1acDdMWTIzdHpCa0dwclhtakU5NzBqRkZxY1BaWU5iVGFJQWEtMjVRSHVtcjhpMUtnNXBiYmpQbFpZb1F6dEhtYVpSYjJSYzB0aHZrSmZzSWhCaWxVNXR1cDdtMQ?oc=5
+- **Source:** Liverpool Echo
+- **Published:** 2026-11-12T10:00:00+00:00
+
+## Nordic countries to work towards common defence deal, Norway says - Yahoo
+
+- **URL:** https://news.google.com/rss/articles/CBMinAFBVV95cUxNM1UwclcyN0RYMXJGUFNBSGwzQ2l1UFhvalVaYTkzSHNiSm84RzZUT2tPel9WdVM2MWNLUzFSZXZGTFlMQlJzeW0zSzFtdko1Vk1FdzNFM0ZXX2RGcDNyQWN1NWZnZjJMN0loZC1CczNDUlIwcVE2U0tlQlAtWjN1UC1DMmdmeDRXRy1kdEg2N20waWFncnhHVXh5Wjc?oc=5
+- **Source:** Yahoo
+- **Published:** 2026-11-12T09:43:54+00:00
+
+## I tried Iceland's Christmas dinner for 4 and at £7.50 a portion it's unbeatable - The Mirror
+
+- **URL:** https://news.google.com/rss/articles/CBMikgFBVV95cUxOQTJ0OXc0RS15aVJXemR0QWJRbVNTY0tfa2wteVNYZE0wZVNwVEFuQlJJOHU3bC1mYkZVQmQ2ZFphX1JQVHM4MWtJaEg5TmpmemFrNl93a3ptTzlleHJCaEtUMU5DM1htaXhIT3hqR21FRXM3QzNoR0xlbjRmajNvOVY2RlZWTEthbENGUUpxZTdXZ9IBlwFBVV95cUxOdE1CUGdlNk96OHZzSGN2WkZleEsyajZpRkZ6ai1HQ2ZDZWdwYS1PU19vTnR4UGlUMndobXFzUTIwTnd4Vi1EOGtnREZ0THliUGU0dWRWY2pDNXhGOWtwYkVDZnQzOEdpU1dHWFhqNVVaeFVSbndYcmVueGtzQjJIN0xPM2pXTTdMdVY2WWZsYWZCZkM5X0dz?oc=5
+- **Source:** The Mirror
+- **Published:** 2026-11-12T09:18:00+00:00
+
+## Iceland star: We are expecting a very tough match against Bulgaria - BGNES
+
+- **URL:** https://news.google.com/rss/articles/CBMilwFBVV95cUxPMmVUYWZ1RERDeVBWWlN0TUVubVd2c290WXJvZmQzN2pxQmRwYjJzTHZLclJJV3ZCTmpWU2NrU3dOVmtoOXZzSElGNzFDYlNWX0FwSlg4NXdVZ3F4Zk01ZXFTVDhlemxmcW5tSDJ3N0VrZTNYbjZYakQ5U3dfc1E3Snhxc3BQTlU0b0dHLWhGOFRYTk1Tc1NN?oc=5
+- **Source:** BGNES
+- **Published:** 2026-11-12T08:43:56+00:00
+
+## I was an Aurora Guide above the Arctic Circle - here's how to see the Northern Lights (and why I wouldn't go to Iceland) - TGO Magazine
+
+- **URL:** https://news.google.com/rss/articles/CBMivgFBVV95cUxQaE4tMU01MU5mOE45d2I5eWRicklCQnJpSG4xdTVYRF9VWDR1YTV4OUppT2dVdWQ3azBVNDZjdm1Bem9fbGxhMzNnUUhxdVBkVDg0cDV1cTVaSFViSUgtYWFQTWpNbG1BODk4R1VWN3h4aW5OY3d5N3FLWjFYbHVmRE4zc1Y2aGJoNVhSZ21ZSmJ1QzAySFlJZWtiY25Cb3dLVTdHNFY1Z0FNTzVhYUUtQmtSejJlX0hDYVJCTXZB?oc=5
+- **Source:** TGO Magazine
+- **Published:** 2026-11-12T07:30:00+00:00
+
+## The Safest Month to Visit Ice Caves in Iceland - Guide to Iceland
+
+- **URL:** https://news.google.com/rss/articles/CBMihwFBVV95cUxONzVSX2V0Q0k1MjJSelZ1OTd6WHd4aGxZZHRWZ1hHblplZlpCT0NEZGRGQUwtMEQ2MUQ2dXZUMjR2UGpUN052SDVXdm1BeVl1WUJzaFJQYVZQN204bElNVGQ1ajc3VzhWcElkT3l3U2lPd3JIdUpnaklGNTNpaVBHbWJOVUU1UFU?oc=5
+- **Source:** Guide to Iceland
+- **Published:** 2026-11-12T07:24:53+00:00
+
+## Iceland’s Departure Centre Hits Another Delay - Iceland Review
+
+- **URL:** https://news.google.com/rss/articles/CBMihwFBVV95cUxQeC1raWZpb0k3UFNKaGVGY19hb3R5UXRoYklXYVd5MGpSUEt3cWJKejZPR0ZmY3RLakVxQ1FMeUxKekVsZXNaZmJoTjMwd3k5MWp2QjhTTk9qZzlRQXI0bzdDWndKZFR6YWgtbVNncmF4T1FIRWFQZTlLbVo4SXhIdlpMQXp6bnc?oc=5
+- **Source:** Iceland Review
+- **Published:** 2026-11-12T07:00:00+00:00
+
+## How Often Do Volcanoes Erupt in Iceland? 1,155 Years of Volcanic History - Guide to Iceland
+
+- **URL:** https://news.google.com/rss/articles/CBMigwFBVV95cUxPb1FyYVhVOWthYThGdkpXR0thYnFSMmNRYU5QTWlJSEVaUGtYdmliVzFncjlsM2hRQnYyT28xbm9YTENIVVZBU0MtUzR1M0E2ZS04SWJwaHk3S0dwZE9tbzMzZ1V5NDlVWW5YdUlkdU9HSG5uWUpMSF9rVmJHYTRVbzJKNA?oc=5
+- **Source:** Guide to Iceland
+- **Published:** 2026-11-12T06:34:21+00:00
+
+## Bulgaria vs Iceland Prediction, Betting Tips, Lineups & Odds | 13 Nov 2026 - Sportsgambler
+
+- **URL:** https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVGFqRWY1OUstSFRsMGJqRWJSTXlOZUQ2RjFOMlpiU2J5cVNUYmJ4NTU4bVIyVHUyeHZmVjIwWndtTFhJeWtvSXU2SEJ4UURtVy1WWjVERDJQUllNV3FUYzRKV21PNjN3b1pyWWJYNWo3a0Z3WlhYRnh0aGF5QmdmS0s4Z1EydDd5cENBYWJhaGhuMGFBYW94WHcyT0drM0tpTnhIWTE5Y3VRN1k?oc=5
+- **Source:** Sportsgambler
+- **Published:** 2026-11-12T03:43:04+00:00
+
+## FTSE Iceland Index (WIISL-BAS-TR.FGI) Options Chain - Yahoo Finance - Yahoo! Finance Canada
+
+- **URL:** https://news.google.com/rss/articles/CBMibEFVX3lxTE95STlCd25MSGltdVZXMk04Nm1iVTlCbklKNTlzU2ctVkN2S1NFNG9LTzl0TXVXU2xfSy14NUNOSkdqZFItaFF5RlowWjNZXzdvQkZtY05DclJrRW5CYTZPOUdfc19zMFBfbFFpSg?oc=5
+- **Source:** Yahoo! Finance Canada
+- **Published:** 2026-11-12T03:36:58+00:00
 
 ## Iceland food chain backs dementia campaign with a cool £50,000 donation - Daily Mail
 
@@ -189,117 +303,3 @@ _Last updated: 2026-11-12T01:49:20.862226+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMingFBVV95cUxQSEdIbnRLMF9ybWtKWkpJanAtRHNfX1ZsZlBNWnp1SUl0Z21ZVUVrQmZ6bTQyWEJpTUxVdnZVUDhuak90QThmRkxyb3A5bldiWWhTZGR0R1hwcDNZaG5hS3NQam1rd1VLcnFqcllERnd6bFFWblFQbk42QW5sUTZoN3pJSG5wS0lwZ2QydERyNmN4U0lWRUI0SWxhcEpfZw?oc=5
 - **Source:** endurance.biz
 - **Published:** 2026-11-11T12:58:56+00:00
-
-## Casino Bonus Iceland: Four Ways Welcome Offers Are Structured, Side by Side - London Post
-
-- **URL:** https://news.google.com/rss/articles/CBMiogFBVV95cUxNbVNranNaRF9UbDA3dGt3VDd1NGJCWFg1RlFMLTNrZUFGMEFLQVVWU1JPVnEydUlUVEJHRFNieDFDRTRacHJLYkFUYjZ2bXhCeGQ3aWVhaEN5cmp0cm5BNmlqT2lXa3lmbG90NmhobU1qM2k4NWJrYzlqaVZ5ZHNmOFhqZXRVRG4wV2FnWUViSUFoTG5meDBGZWdSNjliRXlQcGc?oc=5
-- **Source:** London Post
-- **Published:** 2026-11-11T12:36:54+00:00
-
-## EasyJet holidays to debut new fam trip style in Iceland - Travel Weekly - Home
-
-- **URL:** https://news.google.com/rss/articles/CBMikAFBVV95cUxPRXBNUzc3Q0p4LWdqR0ZvLW1jVUtuVkl1WU8yeWNMUF9KaEEzTUdtRXgyR05HY1BBcmJEXzE3b0o1eUxtREw5OWl1U3ZJdERHSk9ha1Y4M1I2blFobEctVE1KMmw5VEJtVkxoNWJSQ1ZKUXBlU1hOQkJfYjZiV1RCcXc4cU4zXzFxeEpTdlpJMVM?oc=5
-- **Source:** Travel Weekly - Home
-- **Published:** 2026-11-11T12:30:00+00:00
-
-## Major food supplier to Lidl, Aldi and Iceland plunges into administration with hundreds of jobs cut - The Mirror
-
-- **URL:** https://news.google.com/rss/articles/CBMilAFBVV95cUxNaE4weXVfOWhPYW1RaWcwWWFuVjNkb085bUw4d01wZGdCaVhOZ25KUHNmM3dDeUVtZ0RESGRId1o5YU8wdm02b016R3czbDlkMXRTdE1qeXhvMFluN096WTV0WXFCU3V6SFBma2lsRVBTeGlhTnBGbHRoaVRWMW9LcjZtbERDTi1JR3FPZXk4RFU1TTRy?oc=5
-- **Source:** The Mirror
-- **Published:** 2026-11-11T12:20:00+00:00
-
-## Government Approves Bill Changing RÚV Funding Rules - Iceland Review
-
-- **URL:** https://news.google.com/rss/articles/CBMigwFBVV95cUxPbG13YWFkZ2RpRmRvVVZEelhwYmxYYVNHdlFWTlRSUk9FSmZLR1NIYzRfVUVGMGZzVmpZY01RYmN4d0VlSUgxaU9reHVxVUNOSmJKZnJHNTllUldITzZIZnZSVmVkOVRKdUxKUGxtd3MwUWVDRGV1MFRwcFJDRGZodFptdw?oc=5
-- **Source:** Iceland Review
-- **Published:** 2026-11-11T12:00:11+00:00
-
-## ‘World’s loneliest house’ gets solar power - The Times
-
-- **URL:** https://news.google.com/rss/articles/CBMitgFBVV95cUxNNHpWSW9OYW5mRl9zdFBNeTEzeUNvN2staEhwY196WUVOc29SRW12ZGFIZC1jUFh5LU1ZSDdHTmZyZWU0NGV2bDhBaG9pa2FMTmJIeGJfNENQNjJ4LXFjOWNFSEZIcGszaTYxRkRkTmtkU0g3VXc2Z0dybTFfbEVpYW9Sa2ZtaEhuQmpSNkJzS2pwWHJvRWk0Z2VQZ0ZFWDFmakFDeVF6MDdKOFdSNU5xbXh5NWtDQQ?oc=5
-- **Source:** The Times
-- **Published:** 2026-11-11T12:00:00+00:00
-
-## Iceland Seafood cuts 2026 earnings outlook on weaker Argentina performance - Undercurrent News
-
-- **URL:** https://news.google.com/rss/articles/CBMiuwFBVV95cUxOcUs1bFlVTzF1RndHN19vSDhKc0tvOWFjYWFrWjZzX2VkQWk0TGxoVnJJczhYdHdnWEVZQm5lUG1jX0ZhN3hmeTZpX3R2MDlYVHJaYVhGaWJnbjh3ZkpWYXpIbHVsY0tJVFRHb21CQndQSG0wRk9MRVhFNWFmUUFqSlIxSUZYTDZxRV9CV0NFVEt2b3pmQmxmT1ppaVd0WTc5N2dlRXFWMF83UTVEQWFvcGU4cnp5b0swOE5Z?oc=5
-- **Source:** Undercurrent News
-- **Published:** 2026-11-11T11:52:00+00:00
-
-## Slogans painted on Bandero - Iceland Monitor
-
-- **URL:** https://news.google.com/rss/articles/CBMimgFBVV95cUxNN0h3UjliOEN2X2dLUlhFdW1Wc0xqRXgxZndxYjg4bDVxNmg5NTJMczY4U3h4QUFoUklKLTBlLXA2Q1JSYk1fSHhLbi1RYTBHaWIyVnhiTnhPcVo3ejJpQzl5WHJjTHFKVjZ1ZHR6Vnh3Ykpzb05lYkFJUThYa1JmMzF0X0tCQjJLZVpWaFBFdWt3Ty13SVNtajJB?oc=5
-- **Source:** Iceland Monitor
-- **Published:** 2026-11-11T11:00:00+00:00
-
-## ‘Devastation’ as UK ready meal supplier stocked in Lidl, Aldi & Iceland collapses into administration with 662 jobs axed - The Sun
-
-- **URL:** https://news.google.com/rss/articles/CBMiiwFBVV95cUxOOFdzUWphQVpRakJfZkgzQ0pQanFhNTNrYi05WGU3SDR3NENUb1ZWQ0NFX0wwMGdNSFlWSHdFSEFxMU1UdVpFTTN0RUxwdkNsWnRaU1h1SGYyM3kxWjlaYmNXeVA0UHQwV3FJZ2tTWGt6QnAyTjg4RFBiMTE4RmF0YlNnZHJ2VTIyN2VV?oc=5
-- **Source:** The Sun
-- **Published:** 2026-11-11T10:48:00+00:00
-
-## Euro Truck Simulator 2 Iceland DLC Is Out Now - BoxThisLap
-
-- **URL:** https://news.google.com/rss/articles/CBMieEFVX3lxTE5nZ0hXSDIzbW5tdC1seEU4b3MtZkd0NkFJMl9WT1ZxMjRLemtQRnpwNGRGWDBmNFpWRTBZRUlIaW1lRS0yV29TeVBPN0NhQXV6bFRRYUdSNGdObF9NSkZ1dTFCaS1JLU15aHNMVkphTXNuM193b0hURg?oc=5
-- **Source:** BoxThisLap
-- **Published:** 2026-11-11T10:21:05+00:00
-
-## Icelandair Announces Direct Akureyri–Tenerife Service - Iceland Review
-
-- **URL:** https://news.google.com/rss/articles/CBMijAFBVV95cUxPVkRoaG9CZHhPZFJDZ3ZRU3E3M0lHTmhkdEVjblU2Ti00WmplVndGZzR5NmZxN21UdDVhQ3lmRU1mSVJ1bHhjRndFRXJvRGs1Nm9veHM2WHN4Q1V4eVZmNnYycUlaVnNyWnpHSkIxeXEzTDl1b3R1TEZjVTVtcHpvZHlRWUxWMTJYcG9Xag?oc=5
-- **Source:** Iceland Review
-- **Published:** 2026-11-11T10:00:05+00:00
-
-## The Best Whale Watching Companies in Iceland: A 22,000-Review Study - Guide to Iceland
-
-- **URL:** https://news.google.com/rss/articles/CBMiigFBVV95cUxNYUJuTXBpQkNnQWNBWjJlOVJNQjF0VWJ6RGFOSzB3VjF6THoteWhPYWlXeVhkRTFjQmVTeVpIMlpoWGc0a0NMbEdiQzhrNGRQSU82bWhwSk1JdlV0ck5QWWxpQ2ZpZmdpdl9Gd3ZLYS1vSWtPSnRwbkkteWpzaVlCcWFNeE5VSEdRc1E?oc=5
-- **Source:** Guide to Iceland
-- **Published:** 2026-11-11T08:40:11+00:00
-
-## Bulgaria vs Iceland Preview & Prediction | 2026-27 UEFA Nations League | League C - The Stats Zone
-
-- **URL:** https://news.google.com/rss/articles/CBMisAFBVV95cUxOajRuODc1LW9zRTQ3Y3dyQVJvNWpHSXlPVVdISzZEbWtRX3BKbXNnLTdGSGdfNVVRcWJvTzRjY0cyN2xBalRtQzd5TEk3akM3ekZmR0xURzFkX09rRk53Z0JzSUlMY3dKTllfX2V5SGo2SElDVmpZYnMwanpxSTlCeFctelJBUGxOYS1heFRCNGRxaUR0VHdNc2Y3Nk1pMWpvSHZFQ0ZvYVMxRnMwY3hjQw?oc=5
-- **Source:** The Stats Zone
-- **Published:** 2026-11-11T07:32:00+00:00
-
-## Yellow Weather Alerts Issued for East and Southeast Iceland - Iceland Review
-
-- **URL:** https://news.google.com/rss/articles/CBMingFBVV95cUxQd1ZXWlhfSUxwYnNKb3VNUjg1LVJoMGpKaVZmbHRVaW15VEhEQWVwUThzeUUyOFc5MHBHV2hFS0FvVTFBY1MzdWxDRTlSRVkyd1QzRzN0TmU0NkRkTGc1QS1qeFBiWldOVjFXR1FkZG1qOTdBcGJYZW5SZC1ON3plTWhuOGtVWTh1cUZKOUczb3Iwa0RBNXl3ZUp0VG96UQ?oc=5
-- **Source:** Iceland Review
-- **Published:** 2026-11-11T07:00:00+00:00
-
-## Magnitude 4.5 earthquake in Bárðarbunga - RÚV.is
-
-- **URL:** https://news.google.com/rss/articles/CBMiiwFBVV95cUxQeS0zYVM0ZU9qZ0FtMUNRcXVmZ1RuR1pRNUFYTURWLTI5QWcxN0pJTHltbDRFNXRWYWJYUTZYRDBDOWZKNGNxY000MVQteXZxNDFLRkJGQ085enJFYUhKcmR3aEJVZGpjVkl2c0R5MHJKOHNUQkpMbE92ZWxGWXFraW0yVFg2R25wSmtF?oc=5
-- **Source:** RÚV.is
-- **Published:** 2026-11-11T06:20:00+00:00
-
-## Sports Mentoring delegate from Iceland inspired by time at NHL - NHL.com
-
-- **URL:** https://news.google.com/rss/articles/CBMikAFBVV95cUxOLWttU1h4b0dhRS1fTkJUekxXWExOQjJRUlpPbEJPc2xaTkRJSFczZEFYRFZaYWhOcm1NdGg1SzRLdWlQcjNnd2p0OU5BTF9DY0xOWXFXeFdVMVVkbl9KeU90N3VRZ2E4dFpLa2RVVzZLUDFTcGtfX2xCcVktSnN3bkczblNpY3VNX0xVOFYxN1o?oc=5
-- **Source:** NHL.com
-- **Published:** 2026-11-11T05:42:37+00:00
-
-## Unpredictable costs from abandoned vessels - RÚV.is
-
-- **URL:** https://news.google.com/rss/articles/CBMikgFBVV95cUxQU28yaV9NM2ZWLTNDeEwxME11eEU5cE9QdXlERW1aUXo5LTIxdEZtU3Z3RWVSVmdLUS1SbGRNZ2pWRGVtQUtadjBZeS1iT3BnZHNEZVFvbW1aY3luWlVqZEEwc3VYZmtqbThmUjFUenFuVDltRVFfR0Mtc3Q4ckYxQ3RYMFlwMTNHR0hMcXlvWjRmQQ?oc=5
-- **Source:** RÚV.is
-- **Published:** 2026-11-11T05:21:00+00:00
-
-## Discover the film locations for Supergirl (2026), around the Cairngorms in the Scottish Highlands and in Iceland. - The Worldwide Guide To Movie Locations
-
-- **URL:** https://news.google.com/rss/articles/CBMiZkFVX3lxTE1USUEwakZRMEFZQ09IMEw1eFVfdVBtRUhDZ3dJaWhlNlUtelFfQ1B4OXN2UVhTY0V5SzJpSmNJNXB3UFVlZE1UZ3hwVmJ5ZVk3bzRkVXE3aWxkREhEQVpHWVdvMFV0Zw?oc=5
-- **Source:** The Worldwide Guide To Movie Locations
-- **Published:** 2026-11-11T04:56:40+00:00
-
-## The hottest product in Britain this year? A 2kg bag of ice - The Guardian
-
-- **URL:** https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUC1xX2J6bjVNWDNsUkxJQXA5LUVjbUw2MTNjMm9icEo2SWdvdXRheGtMU2s3aEhPTmlCWk9wMF9HeHJlT1hxWjJwaGl1c3ZROHRPZjc5MVh2dGV4TEFrOUp4bDN3ZUk1NTFhak9wNjE3d3hUWm9yU05vXzlGRm5Wa3ltTnBOYkQwMzJ0RXFmakM4dS1QbFJFOVNoYk1IZVVnZjJpWUtkSENFUQ?oc=5
-- **Source:** The Guardian
-- **Published:** 2026-11-11T04:55:00+00:00
-
-## Euro Truck Simulator 2 Releases Iceland DLC - Inven Global
-
-- **URL:** https://news.google.com/rss/articles/CBMijwFBVV95cUxOeDFJVjM5ZzNvN0lPT3Q1QXpQTDVDVEJBdzBDVWczb0FqSThkZ3FqRnVhLWs1dlEtY0RQWm5aZmdCZEhub3B4ZndBR3owRnNzS0ZvX3JkS19EYS14TkZUWGZDeWc4aXZad2dJeW91UDlheTJNR0FMbEZ3Q0VTUVJkMHEzYmJ1RHBORHd4d2gwbw?oc=5
-- **Source:** Inven Global
-- **Published:** 2026-11-11T01:15:44+00:00
