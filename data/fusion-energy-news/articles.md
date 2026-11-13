@@ -1,8 +1,38 @@
 # NewsWatch — fusion energy News
 
-_Last updated: 2026-11-13T02:27:14.127580+00:00 · 50 articles_
+_Last updated: 2026-11-13T11:54:40.832765+00:00 · 50 articles_
 
 ---
+
+## India's Big Ambition: An Artificial Sun By 2042 - NDTV
+
+- **URL:** https://news.google.com/rss/articles/CBMijwFBVV95cUxQOUFPUVFGNFR1SnNFdFBmS1pKaEFWMVhKZTdFU2RZY3A0QTVqZkV3YWljRWRGYk9PczQ4WHlKZnFqWEVMQVM3UVZNSnd6S2xqaUNwaFJrb29tdWhmSjJMYThCUTNEVE5Rd01keVVXd2h3ejBwTGVadGtvWHlTRXRZQTNmUkhZaXZtNGxFakdPb9IBlwFBVV95cUxOY0p5SGs4TURtbHJUQ1FpODZaVkRzQURtRV9Gb2tPNnlReEQyaW01SlJZUVhJcU9kQktlVm5Eck1oMncyNi04SS1iUTBJNXhON2lTTFRCSVZwQlFPNmRsLWlGNHAyVllDRldpTnViNGk0SnhDMjdiZVNqU3BkWFdGS3JMbWJ1R3ZJNWh6ZlFieDV2V2otWmtR?oc=5
+- **Source:** NDTV
+- **Published:** 2026-11-13T11:24:44+00:00
+
+## Eni Plans Nearly $15B Gross Investment in UK through 2030 - Rigzone
+
+- **URL:** https://news.google.com/rss/articles/CBMiswFBVV95cUxOMjQ4dE9UMC1JblNtd2JBemtDQ0xxY1V1bXJFRG0zeDU0RTVac2o1Y1pzVE5aM3l1QWFpX0RyU0hMamlOV1BCanZDSEYwZW5SQ2M2REVDOUx2LUFnV1pjaE5uT0NzOGVqU2VvZm54SW10NVBmSWdyRERoVnFOYndndXRUQTF2MW9nUUk4b3hsMmtoU2JxanA4a2lYRkU2cEcwaXBEMkpoNkRzbTJlcmtHRUVxZw?oc=5
+- **Source:** Rigzone
+- **Published:** 2026-11-13T10:53:00+00:00
+
+## Constellation Energy (CEG) Secures 270 MW Peak+ Deal And Expands Clean Power Role - Simply Wall St
+
+- **URL:** https://news.google.com/rss/articles/CBMi1gFBVV95cUxOLTlGMlF1TGdVVnFtTmpXNm5haHNjTmVnZkh5Rl85RTlzQjBaMFVERlpDVFkxbmF2V0EyUUNVbXV3eUV6TXhXOHVlcUJ0R0YyakRnUkFwVGc0RXFuUEl1OGZkcmI3VDJvMDRmbXFTV1FRUmhVdFl6ZDFrcFlyWndZaFBpV29IOFhOLXh0cTRnUkFjR2Y2dFFYbWxtdXdUVnVyRlRfemxjaUNoQzRaWHVvbTk3MTcycTF2ZElHTkFCblhHVC1QTFZIeDBBengtTTRsNkM0X253?oc=5
+- **Source:** Simply Wall St
+- **Published:** 2026-11-13T10:25:26+00:00
+
+## Blue Laser Fusion secures $35M to advance directed-energy defense systems - Evertiq
+
+- **URL:** https://news.google.com/rss/articles/CBMirAFBVV95cUxOcFRyVlZvdV9FZkxEQnktVVU3YlY0SDJCakJ6dFFWeFA0Ul9OV1oxVjhQZGIwcmFLZUNsdDBxNVZENXJ4MmZmNkJEU1NOeGpyQmRtTUM3NU9oR2duMUdBM0txSjNBRlEwZDQxczNwNmplZDZFNFE0SFZBUnNTTmVadXBiTTNYUnBNZjBPWHRTVTNZa2oyY2dyMGtsYzVFdUktTHRTUEhPQkFVZlRS?oc=5
+- **Source:** Evertiq
+- **Published:** 2026-11-13T09:00:00+00:00
+
+## Rolls-Royce Submarines Partners with INFINITY to Develop Advanced Manufacturing Capabilities in Derby - Machine Maker
+
+- **URL:** https://news.google.com/rss/articles/CBMi0AFBVV95cUxQNnlERzE2Qmh1ZGE2MWdKYTItemJ6cUVyVWItcnJKQUlFa24tVWNQcXdHakRaNzdnQzlMRXFHSFdCbW1KTDF3WU1GS0RsanhzUlU4SUEtUm9BbVJBZF85YTR6aWZaZTlzV0lmcmtLU0VvbXdCbmFTRDJoWUFjak4xem0wWVFlaVFyZVNsd0JONnkyS0FwX25WZmpXVjdHaExYV09LYzIzUmw2MEhfUHhpS3k5TDZYbG9BM05hRnFfZG1wNmxlM1ZHcDE1Rk5heVR6?oc=5
+- **Source:** Machine Maker
+- **Published:** 2026-11-13T07:57:36+00:00
 
 ## Self-Heating Demonstrated in Unstable Plasma - Mirage News
 
@@ -273,33 +303,3 @@ _Last updated: 2026-11-13T02:27:14.127580+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMijAFBVV95cUxNNndqQ2dQN2NBNExvQ0ZvYkFhNjhxTEQwOUpQQ1pXeXA3YXVYb20weldJR3RSbXFDR3ROaDUzNVRSc0Jtd0FUOFlnX1lmWnNDakJHNFdCUEhIazIzVXBMdjd0ZzRUOGFlSTdjNkpIYXdoZzA1RHJFNlp2Rk12SEs3ektNbk9XZWZzQzhaQQ?oc=5
 - **Source:** Auburn University
 - **Published:** 2026-11-11T02:37:30+00:00
-
-## Who Pays To Keep The Electrons Cold? – Analysis - Eurasia Review
-
-- **URL:** https://news.google.com/rss/articles/CBMijAFBVV95cUxQb1dKaXhxQWsybW9HbEhENmIwN09HOFo5eG9xU1B6dzlaRm9fYmk0NXExaVBQbVpvbUFKamRRWFlEV2YtNTltTVVVZDNJNjVCNlFrRFFCc2hyT2pKUmFqdDNPTkZmMmRqdFhhc2EtaWV1TmV4X2o0ZHRnbDE4bkZmekVnN01Uck05ZXdobg?oc=5
-- **Source:** Eurasia Review
-- **Published:** 2026-11-11T02:01:21+00:00
-
-## Indo-Fijian fusion meets Melbourne energy at Uprising Music Festival - Fiji Sun
-
-- **URL:** https://news.google.com/rss/articles/CBMisgFBVV95cUxPbG9YMEZuRDFpQTY0UUF5Z1J0ZTRtSkl0aTlzaU5UM3NGLVNHR2ZXc01pVXJDMmdGaF9hbVo3UHZZNTlZaUVqYjJDOGRGQ3JkeExKNVVRam1neDdvOUYzeUpMQmViRXdnMDVZdm5FRnJkYTE3SzVtaVFmNGpzOE43WmNFRmVYVTFJNzdkbnFzb3IxRGJNWUhRM0RucWdhU2N2bjJYTm5BNm40SExzeW1sZER3?oc=5
-- **Source:** Fiji Sun
-- **Published:** 2026-11-11T00:54:24+00:00
-
-## Amentum Holdings (AMTM) Shares Climbed, So What Is Behind The Attention? - Simply Wall St
-
-- **URL:** https://news.google.com/rss/articles/CBMi3AFBVV95cUxPb1JNblpGUUlzMzJRSkVJdFhQRE5nYjYwemRVU2VEWUpzMVp0c1UyYWNuejkyamdJYklfMUxhMm9HSGxMZ0NtTm1hWUpLR2xMaVFWQ0ZETi10a2Fac21QR2FRUVJ3MHM5T2NzUmNfZTJnQXF6OUUxTFZPUXEtX3BOQkp0cC1Kaml3bU1ITkFLcDVUOGFjbWl4SVVkRmZoWHpKUmhtUlo1V1B0NlAwRmhIS01tS2Rpa3hqN0lEMGpZZDNTUjBUWjFQeUlKRnhUSm1BRHRsOFVEZVBvWVNl0gHiAUFVX3lxTE5TTVMtZ2s5SHhvZHJHTVZGUVhObW1OeVh3N01jRllWSTRXTVY0NmdnRF9VeEZncUptRGJ1MTBjaFlXQnViRElpTkRYcGhwX2kwaEJfTktmWVp3SmNLb0RWdHMxSTNCU2MzR0ZRMEs3RzJSODRqS0cwVzNBcmVZTjVIdXhNVC13bUU3V1YxUTRJOHNuY0tKY0x4ckhjQ3RNQ3B0UHFack1KcjVzRW94NDdSNVljR3pUbW5RVUFJUU5Ua3J6SGl6QXFOYmg4Z1RvTUNzemFvUDd1YkZfdDJiSjU0VUE?oc=5
-- **Source:** Simply Wall St
-- **Published:** 2026-11-11T00:48:44+00:00
-
-## Auburn physics students take on new questions in quantum materials and fusion - Auburn University
-
-- **URL:** https://news.google.com/rss/articles/CBMiwAFBVV95cUxOdkt0VFEyMk12MlRxMC1SOGFuajJWcHV3WTMzdk55RzRYR3lTQ1dPaVZXYmRkeGZUelRPZHBwcFg3Q1U1Z0VzU3JOX1JqaHpBTkZVaWdBQ0drMEpzNEZrckpyckc4OVA2QzJKSGh4OUN2MjRvU1BETmhhWm9hTHU3NWU5bmZ3MHhVN09mQW0yRkZmWEdqU2Z1UTVNUUhEUXJyQ1RDUEZ0M3owRUI4SHpIVWpXenE2T0dGOW9YM0lCczA?oc=5
-- **Source:** Auburn University
-- **Published:** 2026-11-10T23:35:31+00:00
-
-## Shuji Nakamura's Blue Laser Fusion files to register shares for resale after going public through a shell merger - MLQ.ai
-
-- **URL:** https://news.google.com/rss/articles/CBMizAFBVV95cUxNdVJvWndfb3lJRnNTc3pFN1Jta2dCSFdId1ZmTVg2dm04aUJGRmRsSHZ5TVUtMThQZ2dfZEtnck4zMjZBX2FUR0pHWW9uRFQ3bTZDWjVfRll5aDVMUS1QMzZlaXdMWE9pZTR5OXhfSmhhWWxmTXBXRDlqT054ZWw3X3dzRHZkTUl1NjRYQWpCa0E3anVLMXIxWjhVV05TQTJXUFo2Uy1KaHlsZHhCa0NVX25fcnc3UVZwaU1rbUJkWmJRMC1ka0twVG9GZWs?oc=5
-- **Source:** MLQ.ai
-- **Published:** 2026-11-10T18:47:25+00:00
