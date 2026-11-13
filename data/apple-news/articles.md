@@ -1,8 +1,26 @@
 # NewsWatch — Apple News
 
-_Last updated: 2026-11-12T21:19:48.997026+00:00 · 50 articles_
+_Last updated: 2026-11-13T02:27:09.376659+00:00 · 50 articles_
 
 ---
+
+## Form 4 Apple Inc: Jennifer Newstead (SVP, GC and Government Affairs) For: 10 November - Investing.com UK
+
+- **URL:** https://news.google.com/rss/articles/CBMi2AFBVV95cUxPR3dXTGhOQ05NOGx2WnFrTGJWdjdFUWQ2UEV3MThKZTBEN3JOZzZwUXp5NElKM2RDU3NBcUtLRjBqLTB0c3ZPTDZSdEZ4b1FJcERMRTM5aW1wVC00Rktkd0tCaFNZVTNtcjZUbl9aSjJ4Y3hwOFZwcDRoaGdEWlVUcVpWVklHM1NpVlAzS1dxa1UtakpBQ3NxZFZUeUVoZTRlU19hRnpsYzRSeFBOQnMtOXN6N0FJS1hHZ0xnM3RTbHNJOVJJV2Fta1lWVnM1b1R1YWNLbEltSC0?oc=5
+- **Source:** Investing.com UK
+- **Published:** 2026-11-13T02:24:00+00:00
+
+## Apple (AAPL) general counsel sells shares at $351.36 under a preset trading plan. - Stock Titan
+
+- **URL:** https://news.google.com/rss/articles/CBMipgFBVV95cUxQcHRXVDVYR0JzOWZEd2RQM2ZIYkRfeWlZZmtxSkVqUDV4cFFZLUVQZWRyZHpMcUVmM3Bwc2JMMHRTc0ZDUDdmdHN6VXpPMk5reFpXYnJ6OWZCbnIzcFdWN2kzNUJ0R1lxWndzZVpCNGNaWmxhYjFjc2FrMllWNV8xSjE4UXNTb0tpYmRjMmhqZXowbFBwOEdBR0VZTXdLU29QVHRsWm13?oc=5
+- **Source:** Stock Titan
+- **Published:** 2026-11-12T23:58:43+00:00
+
+## Apple: Deserves Costco's Multiple (Rating Upgrade) (NASDAQ:AAPL) - Seeking Alpha
+
+- **URL:** https://news.google.com/rss/articles/CBMikAFBVV95cUxNX1Q3Q0ppRGVaRnZnZmo0ekF1V3FUZkh0YTEwVXhYX2REUGIteGNjaTl2a2szb21zQkd3eEdMOHdlYlhhNFMzeVlIbWQwbFk1VFdHckxmQW9qcExZSlQ2S1UtTGJleWZEQ28yRHF5OGZUbVZQOGs3UHRtT3pVSDNVSTZzdVVicEFkV0VhOXBMczA?oc=5
+- **Source:** Seeking Alpha
+- **Published:** 2026-11-12T22:20:01+00:00
 
 ## Apple AAPL Record Quarter Results and Holiday Success Outlook - RS Web Solutions
 
@@ -285,21 +303,3 @@ _Last updated: 2026-11-12T21:19:48.997026+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMisgFBVV95cUxOWkpRcXJyTl9leDlOWEx6WU8ySzhodkw5ZFhiT1N5djZ5UEs5T01WeFh1OTdGcW5KSkFyNjRFMTRKckw0ZHQ2TERsY2Z4eXF5Q2ZPWTVlRmZzeDgybkVMY3lKWEZFcC1ScjJfVVFtYzdHR2JfbWZkV1o4WFkwYmtSOHFCUjF1YUFyaWM2RjNwWjZFcS1aaExPUGE2S0NTRmFkYUlReHNnU1A0Y1BkbUR5RjVR?oc=5
 - **Source:** 9to5Mac
 - **Published:** 2026-11-11T20:18:00+00:00
-
-## Google rolls out Gemini AI voice assistant to Apple CarPlay dashboards - Yahoo Finance UK
-
-- **URL:** https://news.google.com/rss/articles/CBMigwFBVV95cUxPUXdOelpUeDRFQXdFcUNzN3Qybzliam5rU1hiNV9aVWZQM1ljNDZsTFVoNTk5aUpYSUdIZFpuMDA5cm40cUJCX2FWOUpHeDV6S25aeXJWczNsSjZNNm1SX0h0bkNHVW1ZTkxGRDgyWTdoMUJvdzYySWw5N0VPNnN0MG40dw?oc=5
-- **Source:** Yahoo Finance UK
-- **Published:** 2026-11-11T20:16:09+00:00
-
-## Google Adds Gemini Voice AI Assistant to Apple CarPlay - Bloomberg.com
-
-- **URL:** https://news.google.com/rss/articles/CBMiqAFBVV95cUxPeHVxSVBEQ0VNQmRBdDYtY0dZNk0tVHFpZ1I3eVRURnB2anRqTDN2dGZDb29xRG90eTZLN3ZmSktIVnFWVkFqWlp3ejc2LWFPa01BZ0JhQTl6MHFKamNfalljd2NsS1ExNzdSSEhpbHBnemxrdHZ5NG1yWEpKVWw1MlQydUJ4YU51UnBQb1AxVWcyczBVM2RfSWFucjAzZERsbnlCeElSR0E?oc=5
-- **Source:** Bloomberg.com
-- **Published:** 2026-11-11T18:57:04+00:00
-
-## Apple Stock Climbs Near Record High as iPhone Maker Holds $5 Trillion Crown While Nvidia Battles CEO Scandal - International Business Times Australia
-
-- **URL:** https://news.google.com/rss/articles/CBMifEFVX3lxTE1BWVhBaGdUTF9HV1Y4ZmFGbnlrcEtNNmNZOXBEc1FVNlNkVmtwMF9sZHI4enA3c3E1cXJtaWhrVFdXQjhubHkyeDE0ejNkRWRQNGViQXFKMDF2c1NVNy1seEw4Mk5IMGttRVdjYVFOZ1MxRTZoRTg5NjdtaGU?oc=5
-- **Source:** International Business Times Australia
-- **Published:** 2026-11-11T18:39:37+00:00

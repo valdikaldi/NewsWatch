@@ -1,8 +1,44 @@
 # NewsWatch — Iceland News
 
-_Last updated: 2026-11-12T21:19:50.014254+00:00 · 50 articles_
+_Last updated: 2026-11-13T02:27:12.781155+00:00 · 50 articles_
 
 ---
+
+## Bulgaria vs Iceland Preview: Nations League Prediction - Football.com
+
+- **URL:** https://news.google.com/rss/articles/CBMiUEFVX3lxTE1iLU1uRnR2emdCdEI4VU95eEtnZVR3cjNfeFNzcWlhaFdaYnphWDFYZlprVlZKRlpPWDVHNWROa0pCWnpIZVd6Yy14QTNjNjJn?oc=5
+- **Source:** Football.com
+- **Published:** 2026-11-13T01:17:04+00:00
+
+## Iceland international Dagný Brynjarsdóttir announces retirement after 29-year football career - Her Football Hub
+
+- **URL:** https://news.google.com/rss/articles/CBMivgFBVV95cUxOSU9URk9ibEdZei1nQVJtRm9kSmxzMnpERXNBUjY3Mlo2WTVRVTdXYWtFQnlCakY0TlZ6YU5fVEZsM1dpUmVna2tXWFpiSk1jQ2xmWERpV3poNGtnTk82TWtvUnZRTXIxRWJmQjluVFhUUi1pY2hoMnBRY0g4Q0M4dUNFV1dRSVpMZXJ6alphMDVQR0JVbXEtbXJNYXc3V09zR3FGX25qNmllc0NHQzFxMFRIT1FFTVQ4ekNWbkJn?oc=5
+- **Source:** Her Football Hub
+- **Published:** 2026-11-13T00:44:07+00:00
+
+## Bulgaria vs Iceland: UEFA Nations League stats & head-to-head - BBC
+
+- **URL:** https://news.google.com/rss/articles/CBMiY0FVX3lxTE8zSnA5ekw0aFZkd3dJaS0zTlY3VVU2VGNMRmlzcVZPWG1fN1BuOVJtYkUydUs2dko1YVBXTlJZZ3puQzF5c0o5dF84SklwUVlTY1NtSmRZYm5TOXpiSWlfNFdRZw?oc=5
+- **Source:** BBC
+- **Published:** 2026-11-13T00:01:57+00:00
+
+## Bulgaria vs Iceland prediction and betting tips 13 November 2026 - Dailysports
+
+- **URL:** https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZXBVajg1d2xyMnJ3RThDamwxTjA0c1kycTB2OEFBSnA1a2pJVk00dXVjUHJwbFhoU1dLSUFCRGVNQk9mcTRzUGI2WUhuNVBLaW1WUTdKTDRGT1c4cWlFcTZQNDZSOGxDQlc0VFdFVnlOZkJoSGtHbWVfZGd5U3ZMUjlVakxjdGxfZ1NiZmd6YUZ4VXRsbVE3T1pqVDRvMl82bFprV1BsaDU?oc=5
+- **Source:** Dailysports
+- **Published:** 2026-11-12T22:49:37+00:00
+
+## Moderate mag. 4.6 earthquake - 117 km south of Akureyri, Northeast, Iceland, on Thursday, Nov 12, 2026, at 09:53 pm (Reykjavik time) - Volcano Discovery
+
+- **URL:** https://news.google.com/rss/articles/CBMioAFBVV95cUxQYndJamU5OThua3VQX1p5SnFRRGNSTHgxUy1pQUJtLTg2enBOckJPYzZiUjB3UHp5bkxzZ3Y3NXpmYlUxQUtSZVNEUW1SRUhkYVpnQ3Q2U3Z1aG16S2dQWkZUbG9VNGFKbFNjRDByVGNZczVwc21tamNGZFRyd2ZCczZzM0R1bVJmb0pubWNaaDY3TkRwNktXY3B0MGhsMzla?oc=5
+- **Source:** Volcano Discovery
+- **Published:** 2026-11-12T22:31:00+00:00
+
+## Light mag. 3.0 earthquake - Iceland: 13.8 km E of Hrómundartindi on Thursday, Nov 12, 2026, at 09:54 pm (Reykjavik time) - Volcano Discovery
+
+- **URL:** https://news.google.com/rss/articles/CBMixAFBVV95cUxQcEdTUHhSLV96bGwxTGxEelpyQzlKakJxRFVvNnM0SWE3Y2h2VndxWTYwXy1YN1lYaVJNQ1FfWDFDdW9VQ0hmdjN6NGpxUGRCNEpvNnl6aGQ1U2lKSUdhZXRJTEZFV1M2NjJESVBzM015SGpkSEtrbGZUOFU3cEdjUVE4VFZ6ZDE1Ukg3Vi1LQ0RTaVpiX0czMjJCX01vc3ctNGFXWkprQllwVEhCOUxxcW5SeXY2MFhtbk9QV3Qwb1U1QmNl?oc=5
+- **Source:** Volcano Discovery
+- **Published:** 2026-11-12T21:59:31+00:00
 
 ## Coaches and Iceland DLCs send Euro Truck Simulator 2’s player numbers to new heights - Traxion.GG
 
@@ -267,39 +303,3 @@ _Last updated: 2026-11-12T21:19:50.014254+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMiXEFVX3lxTE5pRDZOVG1nMjdMNl9IQnk4Y2ZwVXIzYVZKTGktck9EWEpTYmh2ZXBNZE5Na2lzQWlOTTE2NElNNmhWQkpNWEZqZmdRWHhsQmtsWW5hUVpKQXFfUEJZ?oc=5
 - **Source:** Playmakerstats
 - **Published:** 2026-11-11T22:37:33+00:00
-
-## Defeat for Ireland in opening EuroBasket qualifier - RTE.ie
-
-- **URL:** https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNTVWMVp3YWhyM2lOM09hUUtXNXBPcnNadm0ya1RiWnlvOFRVUzlCMExOblRwelZaMWZWbVpabzBxekw1bDduc2hTZlE3SHR1X3NZTmdkbkxXaVlmd2JDbTY3N0ZYVTQ1ZnJVbWI5T0hmc05JNlRnem85UDZOeEduRUdPRk1GV0dLZG5CWkxmYVBsTk14OGw4dFp3XzNKVjRjb0QwSjJWa0Q?oc=5
-- **Source:** RTE.ie
-- **Published:** 2026-11-11T22:28:25+00:00
-
-## Ireland defeated by Iceland in FIBA Women’s EuroBasket 2029 pre-qualifiers opener - Irish Examiner
-
-- **URL:** https://news.google.com/rss/articles/CBMic0FVX3lxTE14UXpnQ3ZSRjEtZjJQdGNGbmhkUGZmbkNMdFBxZFQxSkpZcDk1enY4Wm0zMm9uQ21fRjdhbHJzWlhTSE9IajR1VFZ1cWE2cFpaOTNDa2ItYnRPbERUOUVTU25iVWQyblF4Uk9FdFhOSWhXOFk?oc=5
-- **Source:** Irish Examiner
-- **Published:** 2026-11-11T22:26:00+00:00
-
-## Bulgaria vs Iceland Betting Odds, Tips, Predictions, Preview 13th November 2026 - Easyodds.com
-
-- **URL:** https://news.google.com/rss/articles/CBMingFBVV95cUxQWFpzVlZfVjZZd0lTZ2ZhMVhlQ2xkUmJpQVBBSkVZQ3FpcmdjUXQzdU1qcEw2V3lIVjNmNXkwUktZT3FRMlVYVlVaY1hnM1Y4bHNQdU42MHFWS1JpSjN2WWY3TUFxeUVCcHozcWcxUThuZnRialQxcUtJV2YwUjltWnFSQmc1eERFV1I3czlkVGVqRHpITmlNaVlQamh6UQ?oc=5
-- **Source:** Easyodds.com
-- **Published:** 2026-11-11T22:24:42+00:00
-
-## Icelandic Ports Become Full Member of European Sea Ports Organisation - Afloat
-
-- **URL:** https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSUwxeno0N2RVd29za0NCNXdrakxyR3lPTXh5Q0FNODZpVXFmMGM1Z1lsY3UyMGlaTEhLNk1WX1dXZS15ZDZOck5QU2xmdmJ6b0IwN1NnaDhSYUJqcjdMUjZUVm1TZnVhSkI0eU1jWUU2NEpJREFIV2M5OUQ3Q25laVFTNTlGWFA3VU1uTVNxMnJZNG0zNnBkRzB4c2hsTFM1Ul9SM29qU25nZw?oc=5
-- **Source:** Afloat
-- **Published:** 2026-11-11T22:08:58+00:00
-
-## Ireland suffer frustrating defeat to Iceland as European campaign begins - Irish Independent
-
-- **URL:** https://news.google.com/rss/articles/CBMi3wFBVV95cUxQeUk2RE9tV1BKQWhOUUE1SGdwcWEtcE5ybUtQTy1oa2dILWxYVFV4VDZFWGN2S05QQ1JJeEhoQnFpSlUwRWJoZk9WSVJxX0QwOHNVNW9DVkdBSGZyQ2ZGS3lJMlZ6UWdOdy1tMGtaZmpWbjRNZS10SEtCc1dwQkdRVkFMQkxXbXBFenIxcGhyRzlOZmo2QjJCYjJ2Y3Z5R1JSQXhOVEE2aHUxZmt3YWFQOUV1OHlNZExVRjkyZ0NOa1VUTkhXMFNFcnQ5LVgtY01mZFIweThlU1dUVXFHWFhN?oc=5
-- **Source:** Irish Independent
-- **Published:** 2026-11-11T22:04:48+00:00
-
-## Iceland’s £5,000 Christmas giveaway closes 15 November – how to enter for free - Skint Dad
-
-- **URL:** https://news.google.com/rss/articles/CBMibEFVX3lxTE1INTNkMDkyOWhBM1hldzl1YnZOYnJFOHVlNWNQcGE2MW9EbGktMTkzNnA1bVlzZkxaVjdNZVFtUnltWUdEamUtdjZ5a0hnVWxVd2VrbGphYkx4M2E5aEtQbFA4ODJqbmVTUXpxWQ?oc=5
-- **Source:** Skint Dad
-- **Published:** 2026-11-11T21:52:00+00:00

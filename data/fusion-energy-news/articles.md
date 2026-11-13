@@ -1,8 +1,26 @@
 # NewsWatch — fusion energy News
 
-_Last updated: 2026-11-12T21:19:50.366528+00:00 · 50 articles_
+_Last updated: 2026-11-13T02:27:14.127580+00:00 · 50 articles_
 
 ---
+
+## Self-Heating Demonstrated in Unstable Plasma - Mirage News
+
+- **URL:** https://news.google.com/rss/articles/CBMihwFBVV95cUxQRE1LTk1nZUtObTVqNEhqVnhRX0t2d2dGU1lrT3ZWN1RDMEdQVmYyRVZuUV9PUU9ITGV0a2d2UVd0ZFp4cW82NEJSbEg0Sjg5Uk4yeXYtaWtFc3RpUm03c3R2UkVlZWRJclVZYmkxZUJ1RXpiQUxFZXVmRGt2WDlmOHdmN0RiTXc?oc=5
+- **Source:** Mirage News
+- **Published:** 2026-11-13T00:10:00+00:00
+
+## Energy, prosperity, emissions, and innovation: A decarbonization progress report - MIT News
+
+- **URL:** https://news.google.com/rss/articles/CBMiowFBVV95cUxPVVR5QjIxVVpKODZ3Z3AydElWeTlyaF8xV1lXcmlOOXZBaVRibWJSbTVUYlBWVFRla0pJdWZ4eVV0bTVfNGJHZnhkaGRnc3FwbGRJYnZpbGU0MkI2NFZmRWlQRG9aZkEyd2JqOFBrZ19DQmh6Vm5qd2ZyTEJSaDA3YUFFQjBSVlR0VkdHT1NZT0QxbS1sNjFQM3hLZzhkQkhNb3RV?oc=5
+- **Source:** MIT News
+- **Published:** 2026-11-12T21:30:00+00:00
+
+## STEP begins major procurements; First Light collaborates with U.K. laser facility - American Nuclear Society
+
+- **URL:** https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbHlnN05BYjU5ZTN4dW5RbW10VUlFTG14VHNudkpUX2xsbllHYktnbjA1U3pXQmZ3czh1amlqRXJlRnVUczdXUFB3ZjRTazRxM2JKemxYZm5GdG5VaGJVbzBGMXM4Vm90OUZUR2R4bDRjaFR0S3Jubk5BaHNxSTl3dTJTT2d3RHlBNk5rZnNxUjdPbzBNLVA1aTk2S3hoaFJLV1VaTkZHODV0NlYySlZzdFg5bEY1djBJ?oc=5
+- **Source:** American Nuclear Society
+- **Published:** 2026-11-12T21:24:15+00:00
 
 ## UK Fusion Energy launches five tender lots for its STEP fusion plant - energynews.pro
 
@@ -285,21 +303,3 @@ _Last updated: 2026-11-12T21:19:50.366528+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMizAFBVV95cUxNdVJvWndfb3lJRnNTc3pFN1Jta2dCSFdId1ZmTVg2dm04aUJGRmRsSHZ5TVUtMThQZ2dfZEtnck4zMjZBX2FUR0pHWW9uRFQ3bTZDWjVfRll5aDVMUS1QMzZlaXdMWE9pZTR5OXhfSmhhWWxmTXBXRDlqT054ZWw3X3dzRHZkTUl1NjRYQWpCa0E3anVLMXIxWjhVV05TQTJXUFo2Uy1KaHlsZHhCa0NVX25fcnc3UVZwaU1rbUJkWmJRMC1ka0twVG9GZWs?oc=5
 - **Source:** MLQ.ai
 - **Published:** 2026-11-10T18:47:25+00:00
-
-## Kyoto Fusioneering and Amentum sign MOU to jointly advance commercial fusion energy in the UK, Japan, and US - Energies Media
-
-- **URL:** https://news.google.com/rss/articles/CBMidkFVX3lxTE5FRVVsUXViR1ZtU1QyZ1VSc0M2Z0RKTlo3UGRzOFRkZFZzd2I4bEFzNUtfdUNWREVScktVZnppcnpjWEhybXdxRGxMUVRQbEl4RWFpSmRVTjRnYTRaTV9zOVlfakI5Z3FSLTF3REtHTDZBejZzdUE?oc=5
-- **Source:** Energies Media
-- **Published:** 2026-11-10T18:10:46+00:00
-
-## Is the U.S. Finally Fighting Back on Fusion? - RealClearEnergy
-
-- **URL:** https://news.google.com/rss/articles/CBMiqgFBVV95cUxPS1lWTl9ObDRFZThSc3J5OFBZU3JNUnk3Y2ZkM3dlbUtDLUVaaEpTVThRM1FlVUZhRWlQaHBPQ2pJSFNOa1VpSmxkY29JZnFTVUJ3TVFYWVROcW1QWTJ6Z1lVU19odUQxcnpIMWhZMTI2YWJzZlJjbUUwM1NRWnZrOVdZbkVvVThCM2lydERwd28zV3lsM1NoOFVJRGFJcGRnTllpd2ZiWlh6UQ?oc=5
-- **Source:** RealClearEnergy
-- **Published:** 2026-11-10T15:43:19+00:00
-
-## PPPL's Major Fusion Experiment Nears Completion - Mirage News
-
-- **URL:** https://news.google.com/rss/articles/CBMiigFBVV95cUxPS0VyME82cHpPU1gtSkNBZWlYMEtZQk5TSVE1STBNdUthSnNUY3NrYXFCWlJhOVd3TE5Tby1OZ2k4Q1cxN0NWX2gtUGlMckEyaUpyaUtZU1E5eGFXNG90TXpxNGtoOVFhczYwdHNXclpoNGNIZTYxSHJsaC1QXzFQOTFpU3VydVJtMFE?oc=5
-- **Source:** Mirage News
-- **Published:** 2026-11-10T15:20:00+00:00
