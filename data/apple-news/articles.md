@@ -1,8 +1,38 @@
 # NewsWatch — Apple News
 
-_Last updated: 2026-11-13T11:54:39.621892+00:00 · 50 articles_
+_Last updated: 2026-11-13T19:18:02.590904+00:00 · 50 articles_
 
 ---
+
+## Nvidia Without Huang Has It Harder Than Apple Without Jobs, DA Davidson Says - Yahoo! Finance Canada
+
+- **URL:** https://news.google.com/rss/articles/CBMiigFBVV95cUxPV0RpcEpSdDZLY0F5bUJ6TnJPVGxOd2hSNmJTSURMaURfMnY3cUFyczhWQnhZNmk5SEYtaXkxWnRTTy1IalBENVZENlZiMW51VmdTeTRkNU5jZXdtaG5CczhqVFlpbTVfMWRLQWhRTVNpaXlqR0NJbzJjR191RTF0MUw3dUhEbUx0MkE?oc=5
+- **Source:** Yahoo! Finance Canada
+- **Published:** 2026-11-13T17:55:59+00:00
+
+## AAPL is Trading at a Premium at 36.15X P/E: Is the Stock Still a Hold? - TradingView
+
+- **URL:** https://news.google.com/rss/articles/CBMiwgFBVV95cUxOS3NWZkRCc2Z2aUNKWGdheDJPLVc0b3l2eldHWmVjcllNMWZrRFRlOWR4bm81LWdGVTR0aDkyLUhDRDRIWDZSVnJNRFpiTUFOeEpIcGVOYU15elJCS3VEY2NCYWlxWUg1RTNaV193ZlhqLVVPVENYRXRjOXBGdklIbGxwbUpTOEFyWm5mTlY5VnRCZUFVazYzQmhydlUzSU9QVGV0OGUxMG5ZcFNKcWdkSDhUVVRKYjg2ZFdlQkpsRDJSdw?oc=5
+- **Source:** TradingView
+- **Published:** 2026-11-13T16:59:18+00:00
+
+## Apple: A Downgrade To Hold Would Be A Wise Move Before Q1 (NASDAQ:AAPL) - Seeking Alpha
+
+- **URL:** https://news.google.com/rss/articles/CBMingFBVV95cUxORm15ODNFbGlFdjBNa1A3aHlFZUJNTFNvNm5vZmJuYXBpa3BGUjZnU2g3aktoclI4bTBMOGFuVmo1cklSY25JTTdKLW45cC13ZmwzZHhLT1Btbm55MkRBUFpENkctWWdVY2tNZFJ0MXNxZ1RDeW9EdFF5LTdpU1FYbHBpbXk2Yy1kUE1YZjJZTENweU1xdnhzQVowTkp0QQ?oc=5
+- **Source:** Seeking Alpha
+- **Published:** 2026-11-13T16:15:44+00:00
+
+## Apple Inc. : Bernstein reiterates its Buy rating - marketscreener.com
+
+- **URL:** https://news.google.com/rss/articles/CBMinwFBVV95cUxQS1M1d0Z3ZDE4LVpfLUZzcXh5WXY1Qm1OelRVM1lkNlNubVlWLTJwSTNIYWhCaElSbjFXRnFtMkswTE5GMktEd1kzazRvWFNEeHNPaHNlNGllSTVHdU82RFBPamh2YWpwRlBrV3BNZ05VUnJadEF5MWdvb0tSTkVtRHM1YVBaVG5zZGY1dGxLNkVzcU5FdXJBWTcwbC1oWHM?oc=5
+- **Source:** marketscreener.com
+- **Published:** 2026-11-13T14:33:01+00:00
+
+## APPLE INC: APPLE HOMEVIEW AVAILABLE TODAY - Moomoo
+
+- **URL:** https://news.google.com/rss/articles/CBMijgFBVV95cUxQcWJCZnVuNTJCX2tjUFlCNWtULV85eXZObzlIYU4zN2xiVnRubE1WTldMNG1PVGQyRExBNEtkMkgzU0hfclcwVnBqYmsyN1BXTkh5b1NNMzZVUlNSaEdCMjBvaEs5LVIxb1R6MXJyX2RMT1dzYVpMdGNTU2JlMkFDa0syQV96LU5vWTFYd3NB?oc=5
+- **Source:** Moomoo
+- **Published:** 2026-11-13T14:03:38+00:00
 
 ## Amazon's 5 best early Black Friday Apple deals worth shopping now - USA Today
 
@@ -273,33 +303,3 @@ _Last updated: 2026-11-13T11:54:39.621892+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMiuwFBVV95cUxQQ21YLU0yNGlCWWJqNjdxSVVZcjR6ZHdaM3Y0Yy1OWnlnc3BmYWNSeGxhcGlJcWlwMUlEUUdJeUxST0hVOTk2Y3JVUlJlV3RFOWFPNUNMOHpIZVlSWU9HcktvcUdwNDhUTVBhMExya05FR3JWNXBia3BSZlVSUFpzcEN3WE9qZ1VraFFzd3o2TzhEWTdTWGk1TU1rMVY3dTZOYlA3XzluaWVSeTFBcUZYMmFVajJoVGRIckdZ?oc=5
 - **Source:** MarketBeat
 - **Published:** 2026-11-12T09:42:14+00:00
-
-## Apple Inc. $AAPL Stock Sold by Studio Investment Management LLC - MarketBeat
-
-- **URL:** https://news.google.com/rss/articles/CBMivwFBVV95cUxQcTJlOS15cjdWSkFUYjhrdFRSajNxcHVaX3hsYzg1WEhYX3Z4Vmx4N3YxbHlOTzFGUDRadmxYOEdETEdDaThPYUtOdTF2andLbGhWaC1IM0VzcnpmSXFqZWxOYVFFUk5IUV91UjVrTFhQcy01RVRONlcxX2ZBYVRNM2k4QlczNDZzTVpUeE0tUTNXemhOMTFSTTlabDhVUzRKWGgyei1XV3VFekZINkJyM3hJeU5DN2xqUlQ3Tldmdw?oc=5
-- **Source:** MarketBeat
-- **Published:** 2026-11-12T09:42:13+00:00
-
-## Apple Inc. $AAPL Position Decreased by Seven Mile Advisory - MarketBeat
-
-- **URL:** https://news.google.com/rss/articles/CBMiuAFBVV95cUxOSXdIZnpoakx4dnNCTy00T3pJc3dxNDVWU3RSUFZ4S3Y2MG13V2xMRnJDdE5jNVA2MnRxeGVsa2wwMjVnelE3ZjZXYTB2VzlLaVMtNUlnU3BkdHlBcGdyU0FIajRvOHNIMmx0V0xyM3ZwWENtTC1UNDcyc2ZqZTlJRERPSkMwUmxQNjQweHNaZW1DYjEydTRxczRweHZjc2tsQlFKZHJCSTcxdDZKam5GZGJ6NlJ0TWZ1?oc=5
-- **Source:** MarketBeat
-- **Published:** 2026-11-12T09:42:13+00:00
-
-## Mills Wealth Advisors LLC Buys 1,545 Shares of Apple Inc. $AAPL - MarketBeat
-
-- **URL:** https://news.google.com/rss/articles/CBMivgFBVV95cUxOa0E0VTlyaGVrcVdkeUhUYWNuTHY3WHlhMXRJcjR4NVBzdDhaRWx5M3FRcmVWT2xaZlQzN2xpenI4MUVkV1FNMmF6OGxPNk00dnJHdHhFYjFCTmhaODd2Z0MzWEw0WENUVFllclVvczlhNG11VTNTRjJuSTZqZk1oekFad2JYTUF5czlVTTN1ZW00TVNxbWhzTEc1Ql8tZE5zSldYcFFFbWhNZXE2ZEhHLWViVVd4bU94b2dDX2t3?oc=5
-- **Source:** MarketBeat
-- **Published:** 2026-11-12T09:42:13+00:00
-
-## Yousif Capital Management LLC Sells 11,550 Shares of Apple Inc. $AAPL - MarketBeat
-
-- **URL:** https://news.google.com/rss/articles/CBMixgFBVV95cUxNZk42VHlfVWJYMW5TM0FaSFYtVUVqUy1JeFJyamJMcExvMlVJczM4TUVPeW5QZk5pLV81eklpMkNSQUlPbWNKUEFaczFQS2dpNUJYaFlhVXROWHE0ZHZ4VmlfQWNIQ0VqcnRvUXA1MGtQRUxCZGhoUXNsa3ZOTU9uaDhnQmlWX2dROHF4a1NLdS1vWGE1QzNjWkpiRHR2NjJtNWFpbXBvbjVFZ3pjTFpkVzJHOVYwS1dXNC1mNUVJSlBWTkltQUE?oc=5
-- **Source:** MarketBeat
-- **Published:** 2026-11-12T09:42:13+00:00
-
-## Washington Trust Advisors Inc. Sells 4,685 Shares of Apple Inc. $AAPL - MarketBeat
-
-- **URL:** https://news.google.com/rss/articles/CBMixAFBVV95cUxPTWtuYkRBMndlYkFMZENXX2lqYjBCVDExd09vS2FZMEtreldhTWNOTmVSSExJQnhJY2M4azcxRVNqbzNnZ2JfemZPdWZieGp1OHJzcmJFYTZKMk5hOGR4WVdaOVh6UjlGd3hOclVSc2x3a3dmWTF4bzRkVXpoX0F6TXdrdG40S3c2dDdTU3N1eUlDa3E5VW4yWERqdkxKRzhwNHM5UjhWZWczZHpWd0hnYksxcWxFbjJXdjJxZTRkUTdtYXFG?oc=5
-- **Source:** MarketBeat
-- **Published:** 2026-11-12T09:42:13+00:00

@@ -1,305 +1,305 @@
 # NewsWatch — Microsoft News
 
-_Last updated: 2026-11-13T11:54:40.161895+00:00 · 50 articles_
+_Last updated: 2026-11-13T19:18:03.109441+00:00 · 50 articles_
 
 ---
 
-## Is Microsoft 365 still down? Outlook outage disrupts users as recovery continues - KATU
+## Microsoft 365 Outage: fax machines, early exits and chaos at work - USA Today
 
-- **URL:** https://news.google.com/rss/articles/CBMimAJBVV95cUxONGNlSUhDSG1Ka25sLWR3VHlISk1WOFFaVl9ETWpGQjhPV0Z4WDRxdnRnZjFUb1pXcmJLOTVqRk5SZlBHSUVJem1DbWYxN2lrWjRuRDNDaE9VblZjNE5UUUl2R1V4TzdPT1JYUE9MSXcyaTN4UlRpc2dPbWlIVnF4R2ZnZ1R6d0w1dXBnTWhWVkpfdXdqdlB6WkFNeDcwLVFfaGZoNEdKOUdMZUVZYmV0V1ZvSk8tekhFTWM2M204NlJMcU5zTDBGU3lIYzJxekF2QUJRcFlXdGtMWWtFc2F5YTRFMGNzNEtXOWFOYTRaRTFyTjRpNHd5bldMWk5FMDNXVWZ3M3JmRGRfcXRQM3RkY3dCc1N1R3VJ?oc=5
-- **Source:** KATU
-- **Published:** 2026-11-13T11:51:07+00:00
+- **URL:** https://news.google.com/rss/articles/CBMiogFBVV95cUxOSWhza3F1ZGNFS3kwamd4NTUxZ1R5ejY1NU43b1pqRTRUb2o4YU1mSW0zVTc0Z25JN1JJMUFIbHlySVdZSkw0UHluWFlVaUx6MmlwQUR2MUc1eTdOTFRZNVFVekFLUjJSajVTY3ZnRXRnUlUxQ2RvUHh1WVJiLVhXUGcwWDR1a005dGotNVVHMmZXUU5jdV9mMExJVi1BSEpDalE?oc=5
+- **Source:** USA Today
+- **Published:** 2026-11-13T19:08:00+00:00
 
-## Is Microsoft 365 still down? Outlook outage disrupts users as recovery continues - KVII
+## Is Microsoft 365 still down? Outlook recovery expands as email delays continue - KCBY
 
-- **URL:** https://news.google.com/rss/articles/CBMinAJBVV95cUxNcVQtelBCckN5UTh4MXJIWDg0ZUxqMUxNeUhsR0J1dTc0bGlMUkdlYm16UGlFbzMzcHVNZVI5MC00T1BJaUx0Z3NTcWM5aWFSMnlfQW5aTkYydlJ4T05ieEFxS3FCdnJYWU56QjdYZ2tFc0VVUjR2cGRremhaVjUyLTRXY1d0YmJTc1V3RUtickFJSkNIZThBT1hxLUkzY0lXTENFYk0tR3hwQlRRR21iQVI2aW1BTkZHUnNMT2VOMGdmR3pVU1g5b0Ffd2Q0OG1uYU1KLVp0c0k5Nm1LQlpOMUdVZWV6V21XcjNDMEdkdjROQV9OM3ZsU0owb2xDdmdNenoyaWZEVFlDN210c3U0ZUMxZU1YZUJsaWhaMg?oc=5
-- **Source:** KVII
-- **Published:** 2026-11-13T11:48:21+00:00
+- **URL:** https://news.google.com/rss/articles/CBMirwJBVV95cUxQZXVkV3pTYlU4RkRCdlR0MnFQcTJJRTQxWDY2WG53RVJleVp6WS1SaENocVRJdzJfSUg5eTdiVEgxaXVrZU81UnotVmVIY2hLeWViMlc2N1dRSGNhTmFQa0drR1VRTW9leFc4SWFkNXF4R3FqZ0Q0UTIwSDhxTGpndW5MNUQ3S29SUzgwREJMZFhZRVB3UjZtWEFKUzVDVTNfeDU3OGlSYzRLX1RLNGUwODlLTHBRejJWb2txVURHMjBjTzhiUFQ3a3FRUzhVYk55aHIyVE56VkZUaFdzRERDT25oWTR0ZXVzd0JEUkEzSDZJM1B3TFFVT0dWcmF0Q0ZxYV83Q1JYN25acG1HT2VqaW51cURUT2s3cjhURDBqWWJaX2VHc2phck5pNm11YVE?oc=5
+- **Source:** KCBY
+- **Published:** 2026-11-13T19:06:36+00:00
 
-## Microsoft struggles to restore services as outage hits companies and governments worldwide - Boston 25 News
+## Microsoft says major outage was due to 'a network capacity upgrade' - NBC News
 
-- **URL:** https://news.google.com/rss/articles/CBMi5wFBVV95cUxNWlR2SFJvTktWQTlzakRZQmMxOUQwVVpTOG5aS2ZPMkFYdEdLMHp1Y1cwMkNyTkJHbkN2elN6c2NpZnJad2MxYXM4R3Y3NHZhOXhveENzV2FCTTNTWG0wdlRFSmI3VlYxZDU5TUs0clV1NU8xWU9sNllHT2VMY2RBMDQwUjZ6NmxsY2phUzdSS1kxLWFXU1FjeEdNTnJxRTlKa0hBRnlWelpPUDhEeERUVU5HcXZFN1JFdFRHcW9tUHZDaEdZWTdzZ1o1SldaX2NDTzZfYmhHYmlzc3dYLUpJdEh2c1h3TGc?oc=5
-- **Source:** Boston 25 News
-- **Published:** 2026-11-13T11:47:15+00:00
+- **URL:** https://news.google.com/rss/articles/CBMisgFBVV95cUxOMzB2RFVLMHhDcER2YVRpVVY3d2tNdmpXSDdHWDVQY3lUYzF3NnduZWR1MUdPUUZnRkFsYkF4b0U0WU0tZnhhQ3pUNmdXQjhieXBzY0xuNUFRM0k2RElaMTNkeWg2MTNqQmg2aXVfZ2lzOEFtZzRsWjhZS1k5WmdLa3BMdEdhQUpHM1poZngzN3NSeHZsYnd0aDFzVnhkeDk4RjFtZXJSMEtHM0dUeVd5NGZ3?oc=5
+- **Source:** NBC News
+- **Published:** 2026-11-13T19:03:27+00:00
 
-## Microsoft Outage 2026: What Happened and What the Law Says - Diplomacy and Law
+## The Microsoft outage didn’t lose your email — here’s what it does mean for you - Yahoo Finance
 
-- **URL:** https://news.google.com/rss/articles/CBMigwFBVV95cUxPTGpVTXQxcWFJUVdKQzdXZmpjWG40U0lQdWJtbE1uWFRlUUdsNUhMV3ZWQkQwWGJEeWxQNzFYVEJOb3dzWU5uZWxrRS1QQ1FSZGlqNmp0Y2xKZ0prSVlFT2d5ZzZYV3lJcW01YnI5NjZDY1ZaSmlsNHlIZmlnVHNaOTkzQQ?oc=5
-- **Source:** Diplomacy and Law
-- **Published:** 2026-11-13T11:43:47+00:00
-
-## The Microsoft outage means no incessant email chimes or message pings, but still we stayed online - WTOP News
-
-- **URL:** https://news.google.com/rss/articles/CBMiywFBVV95cUxNbllxZXZCQXZGbDJObHlQQmZQbV9oX1dyWXhVSHFhREdyd3ZST3lSR0dCQTA5M0RlVTR1SXVubDc3TTczRnozRmtMNVV4LU40LVhLZVZuUTd1N1lOTXgyUkMycXFPcGxhZzBCQ01iUlRRVUkyZGhmWlladlBLYVAwMmRBNmdoX2JYQUZwOWcySGRZc1NNZnhtU3pOZHhYa0xUN1JFMlZGa0NpLTJrU0FfLXZaYmJPc01IczVmNHVoNXVhYzBaMHN5MWtxRQ?oc=5
-- **Source:** WTOP News
-- **Published:** 2026-11-13T11:43:16+00:00
-
-## Microsoft scrambling to fix outage affecting countries around the world - upi
-
-- **URL:** https://news.google.com/rss/articles/CBMilwFBVV95cUxNUVVpZWNRdDZYaUJ4U2pDbklyNG9PNFBVZ1lySjBUYmFEUjJaRmRIUkc2OVdiSU14UXVGWXVKbHEwV1V0Wm5NaG9EZFgxRVRWejJKYjZnNnJIalFoVHB6VFhNQUxGeHR5MUtJS1A4OWNfem0wY1A4clZ1OW1WODhpUG1HeGRwNjdXdm5qMUpCVXRxMXNaWmNN0gGcAUFVX3lxTE1yYWFzcGRoVTRzdTIyazBMSi1FSHlvYWE3bWt6cTNvbmM5Vi1GczNoZm96OVhBVGJEMDdaSUM5Y1VvUzE1d1dQY0h4NUo1eWdNV1laTmNPYWtqQU5wNGt2aEllclJuU2xsWWMtbmt0WmptUzQ2LURTdDZLSGR5NU5Mblh5aUR5Wm5zMWViMHJUMXVob0ZBWEV1VEhpTw?oc=5
-- **Source:** upi
-- **Published:** 2026-11-13T11:41:28+00:00
-
-## Microsoft outage still affecting Outlook, 365 apps - Live 5 News
-
-- **URL:** https://news.google.com/rss/articles/CBMikAFBVV95cUxNTVo3NnFNQVFHNjZyc0w4ZVNSUkpadUhSai1SRUM2NUJfd2prcFRBX0hDZmxVOWh4aWtsanlaYlJMeEJ0Y3RoNEF5VUNLQ2ZuT0U5RkNMajlRQk9UVnZaQ3JKRWFnVVhpQV9taHhwWllBaVltSFpKVXlmYnJMbFZPUURaTUxoM1pDc3JRS09uaWI?oc=5
-- **Source:** Live 5 News
-- **Published:** 2026-11-13T11:40:00+00:00
-
-## When will Microsoft Outlook and Teams be fixed? Latest on the global service outage - FOX 5 New York
-
-- **URL:** https://news.google.com/rss/articles/CBMioAFBVV95cUxPY3RVWF9TZ1dWZ0RVVWdWdHd3WFZuUWl3U0d0cTZNeHFPQTZvZ08tUHltNUhLdDdnU2JoM252QXpYMmhObUFnTTVEcE5vX3J0bVdiVVhhaERXMDc3MGVGVVNXNWwxX08zVUM2bHNJWUdkVEhmM1RMeDN2c0o3NktMa1gtRUJWTnJ5UHBIcGVRbGkzSU5MQWZ6aHNrYi1Qc3M1?oc=5
-- **Source:** FOX 5 New York
-- **Published:** 2026-11-13T11:37:08+00:00
-
-## Microsoft's outage is in its 2nd day, and it's affecting Claude. Here's everything we know. - Business Insider
-
-- **URL:** https://news.google.com/rss/articles/CBMioAFBVV95cUxOLU0xamdXN09HRDkzbFk5Wkc0WkhQcEtqQTNPMGZKaUNxd3lkdm0zdnF4YWhmTHJlampwMnhPT2NNbWZRRWdOQnktY1JBdUkzZHI2NUxpM1UxRGVCcnVETXJ2VUdBOWZJdlNVbTdOVlRyX0F5bEM0SzJqSnQzYlVOcGJJVEZ5eUFVRW9aLThXQ0NGVi1xeGp1ek41ck44dXp2?oc=5
-- **Source:** Business Insider
-- **Published:** 2026-11-13T11:37:00+00:00
-
-## South West: Disruption caused by Microsoft outage - Yahoo
-
-- **URL:** https://news.google.com/rss/articles/CBMimwFBVV95cUxNdnJHSkJUR2RSQmt6X3IxN1diV1Zhcjc3Tk5PQlJQM2NCdzdnMExYSWc3NmFRUVZOTHllT2NmUVdrRXRRY1NMcVF4YXNRWmFvLUhrUUNZSGhVZjRiT3phUGxQdjBVdVU2S0FRTU1FM2pTcXFEOU5JdUxaMnl5R2tMNDVaQ0JCby03UmxXc09VVVJLVHU4clRDazlVTQ?oc=5
-- **Source:** Yahoo
-- **Published:** 2026-11-13T11:36:30+00:00
-
-## Microsoft battling major worldwide outage - CBS News
-
-- **URL:** https://news.google.com/rss/articles/CBMibkFVX3lxTE1NbXlDdURCNEJmNjBwS29XR1RQQW1GSVZNRkFMU3phMmNNcXg4ZnRnaXZzZnZyNzd6SmdQZjVxZjJmWC1SMWhXZ1hwZVlOVTl5aU05NG02Q1NVVFJqOURKWHZNTk9VZS1vdm5XTjZR?oc=5
-- **Source:** CBS News
-- **Published:** 2026-11-13T11:32:34+00:00
-
-## Widespread Microsoft outage stretches into second day - CNBC
-
-- **URL:** https://news.google.com/rss/articles/CBMinAFBVV95cUxQWjhnRnZ0dUhqT1RQLVVCa1RheGxOcU0tUEF4SGdER0lkdTgyeDJoeVRLSEZpMGxJQlFteVp0SDF0NmthdzF4dHZwUjg4eDVRdHRJazVkVXVKWFJuUEljbDlQNUtURGNIVzcweV9kVGNyN1pGNVJvR093ZEY0bHV2RWdPMFZseU5wUHgwUVBTbEJkb3hrWDFQMmV6U3U?oc=5
-- **Source:** CNBC
-- **Published:** 2026-11-13T11:31:48+00:00
-
-## Nvidia, AMD, Microsoft, Broadcom, and More Stocks That Explain Today’s Market - Barron's
-
-- **URL:** https://news.google.com/rss/articles/CBMiZEFVX3lxTE5xNUN1dEs4N0hEbVFCd3JKNGlNTTkycmp5al82X1RBdWxPSzgxc181eF8zZHpyWHVtYlR3OWlxMTFySzlKQjVLNUg1aWFJLUVQa3c3enFtMER5QUd6OUZ0VzNvQ3o?oc=5
-- **Source:** Barron's
-- **Published:** 2026-11-13T11:31:00+00:00
-
-## Microsoft outage hits global food and drink - FoodNavigator.com
-
-- **URL:** https://news.google.com/rss/articles/CBMinwFBVV95cUxOd08zRFBET0FwVXJ3bGNEdmNOQll2TG80ZkhWQkpSM2Q1cThRV05QZmRwdUVJWjNydS1rR0M2a1dTMmVhemdmX0RzbTFOUzJ1SEJOaElnRV91QWJQek5RQVBpMjZtYV90LWtaeFlaekRPSTM5M0lrXy1XSG5JRktfWFduUGxpcXhWMjB1c1JMd3QwUmZ2S1pjeVo3c1BJdDQ?oc=5
-- **Source:** FoodNavigator.com
-- **Published:** 2026-11-13T11:24:46+00:00
-
-## Microsoft racing to fix global outage affecting Outlook, Teams and Copilot - Euronews.com
-
-- **URL:** https://news.google.com/rss/articles/CBMipwFBVV95cUxQMVZLdEpkTE95ZU5XaDNwcUtVVXlzbkk2UnUyRGJkLWlETmg5eWlrVTRQRmxYQnRnNU9lbHQ4UGU5b1BDRDY1RmI1NUE0RUVsQVRsUFljYmtoamxCZlFmWmNSbm90YnlVSURFZHpTRXBoeTlGTUpIVlpKS3Y3VEFjT2R1eG9VdDNrMWdzRW5TVU5lanBVYXpyVnQ2OHQwU0I2TTFIM2s0VQ?oc=5
-- **Source:** Euronews.com
-- **Published:** 2026-11-13T11:24:12+00:00
-
-## Global Microsoft outage disrupts banks and financial markets; Nubank reports 31% increase in Q3 profits - TheBanker.com
-
-- **URL:** https://news.google.com/rss/articles/CBMiekFVX3lxTE14UDdlQmdmS01kVUJPd1JpYzRDU0djbVM1aXNieHIybHNBSlBXZTV2dFBWa3hWamMwcUNKYXktQ0Y2R3dyTlVNTUpjMkRZWXZVR25heXdoRXRiS0VrSEhqNEFwcmxOTGo4cFJ0ZldzUHhnY1k4cFNnYXRB?oc=5
-- **Source:** TheBanker.com
-- **Published:** 2026-11-13T11:20:55+00:00
-
-## Microsoft Outlook Outage: What Went Wrong And Why It Is Taking So Long To Fix - NDTV
-
-- **URL:** https://news.google.com/rss/articles/CBMivgFBVV95cUxPNkhHdlBNMk5vdEhzRHpxbHNwTDNHSWdRcmpFMlJiYlVFR2Y4TmtjNS1LTWVCTEhWNTVsZTctaVczdFhfUnpEbUN4eVJWaTlGQ3dmS1pGX2ZqbW9GN2RWZGtyblo5bVR1UXpwVWNsSVNCSlhEQlpqdHhIQkF2dzdIY1hLMW0welh5R3UyUUFjREdOZzQ2Wld0a0VWUTRHSVRHWkQxa2RlZmtlTWs4Q3BjeXNzajRVM3lPOHRKb2lB0gHGAUFVX3lxTE9WM0Q3ZnNUX2ttVkdvTHhSeTIwdUg5V3ZVcG5UX0JJb2otX29qaVhfTjRvNnV0bGhxWTJUWV9MLWQ5cDRLdEtad0RPUXlRZFR6ZlZzXzZ0dWhkWmhaNFoxNDlCQ1JCX3RXRGNZRllqcjU5Wm9CeTYzbHRrNTZVN2tYRExrSUZuMGtxaDgxTzMyckw0dXE0SmlPUGg3SGlpVlNFUjY4SzRTc0s1OGo2MDRlS19qYzh6aEFPMUo5VG1QaURqZGpUUQ?oc=5
-- **Source:** NDTV
-- **Published:** 2026-11-13T11:20:15+00:00
-
-## Microsoft Just Piled Onto the Bad News for CoreWeave, Oracle, and Nebius - The Motley Fool
-
-- **URL:** https://news.google.com/rss/articles/CBMimwFBVV95cUxNazA2cTdqSm1ESV9La1ZuY0JXeElPTXVSMllzMDBkVmp3bU9qOHBRb3dkRTUxNVFlWXRDSWhsMkZuYnY0bFIySkR0T3lKbzRqMW5rZ0dKZGVvam52NWNId2RJeGxaQVVNajBSaFhyVnBoSEFJN3BiZmVFcFRFSzJRQkkxa2RaQm41bnpiaHJVdHdSRWNsYnI4ek9MNA?oc=5
-- **Source:** The Motley Fool
-- **Published:** 2026-11-13T11:20:00+00:00
-
-## Microsoft outage: Outlook still down Friday morning - Mashable
-
-- **URL:** https://news.google.com/rss/articles/CBMijwFBVV95cUxOMjhON2E0Znd0NFBvdnVSOF9zM3VHT1hFa19DZTlmdmlHWDRVZV8zeVZQOWlCenV4U1oxenlLOEROemlXaWRlX0k5S1VMcXhKczUxdW5qQ0dvLTJjZEMzcXFyYm9tb3VIZU9iamdDc1lwWUF3QkUtc01Ea2N2cXRxSDJnTnVsX2VQZzJvVXhnTQ?oc=5
-- **Source:** Mashable
-- **Published:** 2026-11-13T11:19:37+00:00
-
-## Microsoft outage reactions: Global life disrupted as Outlook still down - Mashable
-
-- **URL:** https://news.google.com/rss/articles/CBMidkFVX3lxTE9pOWw3aHNMSTJScTRoRlc2TUNTeE5jUGtPenE3c2FVOG53OXJqUDljdlRwOGxnZGlQekdLNXJhZTBaQkZSYUExQy0zeWtuZm1QdWI5Zmc5aVB0TXFOLTI3LThMTEdHcWd3Mnd0dklvanFTWUdpQXc?oc=5
-- **Source:** Mashable
-- **Published:** 2026-11-13T11:19:37+00:00
-
-## Microsoft outage continues into second day, hitting services around the world - The Washington Post
-
-- **URL:** https://news.google.com/rss/articles/CBMiswFBVV95cUxNbk14YWFobWN1bmJkTjhrc2VPMjRFRWtSbFM5bjdiZEVIMjQ3VkxEZkszck13cnFhbEl1WkIxaWJndmN6SmxSSUNHeTRmV0FMQk5xd2o1QnpBRFRuek1WTXdUaUR2X1FJcXlkYXp4UkdvLTM5TklQSDhsZDhYZFk5RlAwc0FJM2hob3pCOTZhUGZoZVQzUUttRnJjM0ZjUk9Zd1VWUGNSZlpyaC1LU1lfZ3NfRQ?oc=5
-- **Source:** The Washington Post
-- **Published:** 2026-11-13T11:17:38+00:00
-
-## Millions affected as Microsoft outage continues - CNN
-
-- **URL:** https://news.google.com/rss/articles/CBMiogFBVV95cUxOeUl4cEQtbHdWdVRZSzNlSVV1VlBIbWdpbXcxamVjWm1Hb3FLcWEtZTdWekZaZjZpSmh4SXQ1aS04Zng5WVN4T0tHWWkxU3ZFcGo2dHNOREVieWRGb3JoNElaLVBUUDJjMEhUbXpuNG5RQkJTdVlILVJTenlSdGp1NDJITzYtM2tIVll3R3BjTjl1a2FQYzlpVjNPR3RrLTFjZlE?oc=5
-- **Source:** CNN
-- **Published:** 2026-11-13T11:13:00+00:00
-
-## Detroit, Michigan government offices among those affected by Microsoft outage - CBS News
-
-- **URL:** https://news.google.com/rss/articles/CBMitAFBVV95cUxPTGpTR2J5M240eVZyTHowVmtFNWl4c3lSOGtwWW1KYXpwa3hOTng4blIxaHdJUjhkMkNXTGcwNmFSSTJPTDNXOWdmcWY1U3E3S3dMNmNBNzBrMFBRaUdSRi1kM2hDR1ZTR2ZRT3ptOVZILUFxb3F1YXp6dk94bVNXUG9pd2ZiYS1YbmFnOUxTNnhqdlBwUnUwZ0N6UzBfcHVPdDZCWWI2Q1Q1S0RwRGtDb0ROTkY?oc=5
-- **Source:** CBS News
-- **Published:** 2026-11-13T11:12:49+00:00
-
-## Microsoft outage hits airlines worldwide - TravelMole
-
-- **URL:** https://news.google.com/rss/articles/CBMid0FVX3lxTE5Ibl9qR0pTb1A3Qi02b0s1NHo3ZHFVVGJ6d3R6RERBdTFoMTRfdlJ1WGpaLTQtUFFHZF9jNmZYdlJVMnBzXzZadFlrUkZ5c05hS2ZleUtZMzJmVkNYeVVoR0xXWl9maE8yNkNSSk1nWjBJZllqN3Fj?oc=5
-- **Source:** TravelMole
-- **Published:** 2026-11-13T11:12:40+00:00
-
-## Microsoft outage continues to cause problems on Friday the 13th - Naples Daily News
-
-- **URL:** https://news.google.com/rss/articles/CBMirAFBVV95cUxQY05RMGN2UGxQYjdGWXoyUEZ3X2lkUVR1U2FKM2VfR19qY3VBNDBMR1Q3cERSYTJ5alo0ZlFqUDd1dGhqRE9BR0FKa25pUFRYR2tMTUZlM2FzLXllSnI3cWEyMU9vUVVYX2xzdmRtdmNjODA4U3FoWWJOYlpBZ2hTNU42LWlGWmJ2MjFyNGxMbUh6MFlUcURMUXZBRGdLd2RrY0FCNG1ZWmNOejUw?oc=5
-- **Source:** Naples Daily News
-- **Published:** 2026-11-13T11:08:00+00:00
-
-## Microsoft Corporation (MSFT) Stock Price, News, Quote & History - Yahoo! Finance Canada
-
-- **URL:** https://news.google.com/rss/articles/CBMiUkFVX3lxTE9uOUNhWEIyM0RRVERRZVRjUWx6dFJ2N2tGYXBpVWl2RVI3MjM2b3kzVmtabzNDRjdGMGw2Z2hJSTB0S2Q5YWRWT1dab25WVERnZlE?oc=5
-- **Source:** Yahoo! Finance Canada
-- **Published:** 2026-11-13T11:07:44+00:00
-
-## Global Microsoft outage affecting NI schools, councils and other services - Yahoo
-
-- **URL:** https://news.google.com/rss/articles/CBMimAFBVV95cUxPWXV1aXpjUjdtSlFPdEd3TnRlNi1WR2xzdm1zbHB0amtKcHpYUm9TTVNXblRFYnJiV0pRYkVGX3dFZlNZWGx6OFd0OEdOLXFab0ZMN3Nqc09CNno4bGc3THBlZjdQOWx4dnB4S3R2Qk1DMktyTks3SVM5U2FUZWpZbVlFT245TlF2YXVMSHBMaWRWMUlVTHhkcA?oc=5
-- **Source:** Yahoo
-- **Published:** 2026-11-13T11:03:01+00:00
-
-## Multiple Microsoft issues affect the tri-campus community - Observer Online
-
-- **URL:** https://news.google.com/rss/articles/CBMipwFBVV95cUxOU19QUUpDbWNWTUU3ME8wRmg0OFEzTXA3bmlVREV2TWdVYnlWUEZ3SjRQOFZMcGNNVGVQRWxPVjJRUkp2NTdwblNwb29sZWZJekdqOV9sV2kyRnhTUzBJbFpaV2o2ZmljaERIS1ltNnJaSGVpN1RBUFdlbXE0cTBZaldiOUdwMkduYzJWX1JDdDNNa1B0ZjZEQ1JUOHVlVmFJeFZXcDNlTQ?oc=5
-- **Source:** Observer Online
-- **Published:** 2026-11-13T11:02:10+00:00
-
-## Microsoft (MSFT) Sees $360.6 Million in Net ETF Buying on Nov. 11 - Yahoo Finance
-
-- **URL:** https://news.google.com/rss/articles/CBMilAFBVV95cUxPWmdKX2VHelFFazNocWt6TDZUNTJoNGZRbnloaVV6QWZ2WWt3T2ZHNm5BSEdrT25hcXlucURMQ1hWRXVZc3VHa2xZSlpjY2RpTWFPaGN4NGp2S2REeXV0aW9zcHp6eGNxN3lBZVl3U2FnQ3NxdnZVVmx6NzV0bGZUbDlzdTJXTWNTWTlrU205bXUyNllS?oc=5
+- **URL:** https://news.google.com/rss/articles/CBMi0AFBVV95cUxQenFENG44c2tIRWlsR1FZSkxRMnRGOTZnZHZNRF9TbDBSeDlqS3phbU9xQlN3MkhoWkdFVnIxUGY3Ymw4cnlPeDRBVlkwQXcxdjZLblJuQmpneHYwbElQZE0zcncwR0ZrV1pKZVgwREU0ODQ1UVdLRm1RVGZuMlA0ZHBKOVlfNXp5X0M0dUp4eWJDVkphTEFRZFJpWXBmQ2hUc0dXbElSQVpvamk5NG9wb3dLdUtJZERXX2hzcVRrM2JJWDJfTEdPQnFvYmQwNkZG?oc=5
 - **Source:** Yahoo Finance
-- **Published:** 2026-11-13T11:00:45+00:00
+- **Published:** 2026-11-13T19:01:21+00:00
 
-## Microsoft outage having global impact - FXStreet
+## ‘Strangely calming and unnerving’: How Microsoft’s massive outage upended the corporate workday - MarketWatch
 
-- **URL:** https://news.google.com/rss/articles/CBMijAFBVV95cUxPMG9YaTQ0c2tkSERBV2JsV2VuTjBpRGV2TGxmeUtwZHQzSWR4YnJpblY3Y0FNMDY0ZllRdHNlUmZkN2FjYnBOV0x0N2FMMnh3RWZLbUhlazI3X0RXLTJfVlotZXpqUlZaRFZuVGQybHBmdHhHOEhXSWRNckJfalhTZk9OTmhhVEdXZkR6TQ?oc=5
-- **Source:** FXStreet
-- **Published:** 2026-11-13T10:57:24+00:00
+- **URL:** https://news.google.com/rss/articles/CBMizwFBVV95cUxOVk9mQk5EWUViTk5sZzNFZGhfbHpCelBFb19VdUs0RWQzUXR6a1hteEJuS3VMVTExWGEyN1JHaUFRbS1tSlZuX3I2V1RGMTV3VmtQTzFkYWt6ZDlDVm1Ka250SWZhclZSbjVZNUpzTUcxNi1kVHdyNjgtWkYwem85cktuRkhscnB5bktkUlFoWmRJdmlJNXFGNDhyY3ExbDBzQkh3aHFEUmE1Z1ZveDJQT1BVb2ZCeExDYTlwVUhLejBxaUtVc0dQMHhNdHZKZUU?oc=5
+- **Source:** MarketWatch
+- **Published:** 2026-11-13T19:01:00+00:00
 
-## Outlook down: Microsoft says outage cause is not related to 60,000 job cuts - Syracuse.com
+## Microsoft 365 Outage: Outlook, Teams Near Full Recovery - LAmag
 
-- **URL:** https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUlMxaWVRTmoyang0NC1KUENDWnB0bDZxekM4ak5jc29NTVM4cU13dkF1RXRteU5taTZjOEdZRHM1eGZFQnF1Y1hnZnhfMkpEa1l0c2pMUWdiamo0VkJKNkM1Vmt0MWJWalVwT1E4dnYyRHZWU2g0ZlBuaW8wVDBjNVFpMm92SHpEd051NUJ2ckV1aEg2TDgzMlQ2QjdQVlZ6ODdrZTEwVC1SNGRPVW83bW1LdGI3WUdQeU5j?oc=5
-- **Source:** Syracuse.com
-- **Published:** 2026-11-13T10:57:00+00:00
+- **URL:** https://news.google.com/rss/articles/CBMigwFBVV95cUxPQVBQcV9pUWRQNlUyM0g2bnBpdlJibnRDOW1sNzZIeW4xUE9lRkptM0JZTFJ4M3VxOGM4Tlp1T2hCQXo2VmZLZUxFTVR0bnVLMEQ5ZTJwekpXTm12ek4tQmtaZzVoTmQ1eERqeFctZnFzNVRDeDZYdmkzWFRkNm9YdjNsTQ?oc=5
+- **Source:** LAmag
+- **Published:** 2026-11-13T19:00:55+00:00
 
-## Advice to patients in the West as Microsoft Outlook outage disrupts emails - BBC
+## Microsoft issues apology for the widespread service disruption - newscentermaine.com
 
-- **URL:** https://news.google.com/rss/articles/CBMiW0FVX3lxTE9kNFVCWDFmbDd3U0F0bmZ4RVo1YzFPdkdzN1FFVzB4a1c5bU15YUpIc3YyOENMNEVsY1dVQjVfU29TVzJtSVpHMy1yTGNKMVFncGNmUlRSUll1Uzg?oc=5
+- **URL:** https://news.google.com/rss/articles/CBMi7gFBVV95cUxPcW5hMUpnU0lndmlNTlJNOHZTM1FLS2lmbU9EbWlwRzkxeDMxVVhDdVM5dzMwSHBVNjVWVXpSRldwV255RFdjZnc3b2FpbkRzUWNrY3IzYWNPMndGbThvMFFkSDNOV2dPMm9YY3RZbWV3NGxGNTJBTmhYOEYtM1B2VVFtOW5kQnh3aWRlUXRzaFl0d0tHNk9rR2ZST3dkZnBCam9sZVBZUWI4VnYyU1RIMjZRRTRZVC12QWFadGZ0RGlDbWRtWTRVQUYxLTZnU1VsQ0dSM09ndnBQM0tUVUFIcjJMVUJOODNZVW43dW9R?oc=5
+- **Source:** newscentermaine.com
+- **Published:** 2026-11-13T19:00:00+00:00
+
+## Microsoft outage: The internet reacts - KATU
+
+- **URL:** https://news.google.com/rss/articles/CBMi5gFBVV95cUxORWlUODFIckM4eWlBYVNTV1lNOW9SbUFLU19xS1RZdGZnbHBTVTBodDhoZ3V1b1hEUHlvc1R1ZWozVFcwcTFhc0lmTko2S0pSQlNPUDNWVXYxaGxpd3llczVsSHZFQ2FkNEEtdnBTVjVWbXpSTjNHLXgxbUFEcVVsWGREYzJUUldMaDZEdm93ZTBGRXBab2VzVWwzSTZqV0l5Zi10Vk5TeXV5ZDhJUl9lMVBsOFJxSmJveDMzb0QzWEx4V05vdHVZTTJnMzk5b01jbnZkZ3RTSFo1b1IxRGR4czkwamUtZw?oc=5
+- **Source:** KATU
+- **Published:** 2026-11-13T18:54:04+00:00
+
+## Governments, courts, trains and hospitals hit by Microsoft outage in North America - BBC
+
+- **URL:** https://news.google.com/rss/articles/CBMiW0FVX3lxTE91NTl0TFVhVnZTci0xcEFFenNKU3kyTXlIVGU1SzIzQi0wYkk2RlFvVUluQ3NLUS1jTjJFaWJyeXRrYk5CSUF0aWJCQ2FndmJ3b3o5RGQxQmZGUm8?oc=5
 - **Source:** BBC
-- **Published:** 2026-11-13T10:56:36+00:00
+- **Published:** 2026-11-13T18:53:48+00:00
 
-## Microsoft outages extend into 2nd day, company not aware of malicious activity - CBC
+## Microsoft Meltdown: 51 Million Workers Lost Real Work as Losses Climb Into the Billions – Services Slowly Coming Back - South Pasadena News
 
-- **URL:** https://news.google.com/rss/articles/CBMifEFVX3lxTE84eWE5ZU9pZUtxaE10MEI2aXVEbGctNnpJbDV6S2xrbE9oVlZzUndYMFU2VGp1a2ExYmFqVlVLRVRoeGdDb1dFbU5CM2NfTDNoV1lLM0UzS3d1OHB1SW9KQlRWR0NCSFFrd1FHX1RkWDBDa1U1Z3V6TkJNTFE?oc=5
-- **Source:** CBC
-- **Published:** 2026-11-13T10:55:51+00:00
+- **URL:** https://news.google.com/rss/articles/CBMi2gFBVV95cUxNMVBRV3ZmbkRHLV9RUGJWZWZ0SmVJdmZjOFpoT1V2X1pUMUhDV1A5NjItNEhXODl1XzE1QkZyZ3dVNWlQbEtvVkhCc3J6T09EVzRpQkpZWlpvSmNyWl9vNUtBNDRrUHlER29JRTlPVy1TUEw2VnZGb0taU01aZlJVd1R1TG5McEZzdlV6Zzk3N3FYdzBmdWRjelBHSnB6TmVock9mYzJCNjRHV2d6bzBXbG92aE92c1RRQWpETTRDM29XUHctR01IUlNhT1paMl9tVjVZV3IyVk1Ndw?oc=5
+- **Source:** South Pasadena News
+- **Published:** 2026-11-13T18:53:36+00:00
 
-## Guernsey: Disruption amid Microsoft outage - Yahoo
+## Microsoft says outage not caused by AI or cyber attack - KUOW
 
-- **URL:** https://news.google.com/rss/articles/CBMinwFBVV95cUxQOWNmQVlmT2Zyekdmd3ZnRko2VmRjMlZXY2pkaDVtUGdnOW40eURHQWRHWnhLZmV4dzdrYnBpVURlRTAtNHFhanNxcUtkenU5S1hCeWxRR2Z0b2Rkdnc3ZEUwVzV2ZEF5U0NnUlV1LWdub00yaDJ1N0VNaW5oeEk1bk5GNVF1enRMQWlXMTZRcjdOdjFhLW9MWnQwaDJ1Slk?oc=5
-- **Source:** Yahoo
-- **Published:** 2026-11-13T10:55:26+00:00
+- **URL:** https://news.google.com/rss/articles/CBMingFBVV95cUxOQ1hWUElmdmFDcVNnalQ4ci1VbFVZVkxiSVRwWTB1bGxzTlRSWHpicEMzTS1QU0pxNjBzZUl1eFljUm1FLWpWVkRVbWNnZmtaOTdNXzI5dmFkWm9SLXF2d25wdVA5NXp1ajVYSzBELXVqb0Jfc29DRDEwY3hqRnpybXZSU2gwd0F4em0yMVNrUEg5OEEtczF6cXVYY3phdw?oc=5
+- **Source:** KUOW
+- **Published:** 2026-11-13T18:50:00+00:00
 
-## Microsoft Deploys Configuration Patch to Stabilize Global Microsoft 365 Outage - Petri IT Knowledgebase
+## What the Microsoft outage reveals about cloud dependence - SC Media
 
-- **URL:** https://news.google.com/rss/articles/CBMifkFVX3lxTE83Z3lYZDZGOFFqMWRuOGVQZzZhd1RNQlRPOHJveU45QlJucGlrN3IxRFExcmZsMGg4WW5VMUlBNzBzV290YUZUWGFra05Fa2luTWNVQk1PN1p4aG5BZHJXbXgwbVJNR3Z6dmNvempuZjBHZGszdzUyaGRmNDk0Zw?oc=5
-- **Source:** Petri IT Knowledgebase
-- **Published:** 2026-11-13T10:51:48+00:00
+- **URL:** https://news.google.com/rss/articles/CBMilwFBVV95cUxORXFnY3hOYzYwZVNlVDN0TnVaTml4X2VxU0RrRXZwWFVCZFFtMS13QUFVdDRaTHBqNmI2TXl6aEtsaklnckI1VkZqeWhaTjlSczgxQ01QbVpLOTFMQWg4c2d6My1fY2FaMGtzek1zTEc5dzRGWU1WbjN5N2tZS2JGRGZDTi0yUWtTMWROSUFXVklZZy03c084?oc=5
+- **Source:** SC Media
+- **Published:** 2026-11-13T18:43:54+00:00
 
-## Global Microsoft outage leaves users open to phishing attacks - Computer Weekly
+## Early lunch, more chatter: Microsoft outage brings workers to a standstill - Yahoo! Finance Canada
 
-- **URL:** https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNEFKRGFfR0xMZUJmR25FNE5FcGJ5aEJhdzJlLV8wQnROaVlFZWdUdFNvNndUUTdCWTU5TUt5LTNsbnNodGxaRWc3ZlZUN2tmd2pqTnI3V1ZHTEtsWFh6V3FnOHhwRTdDVTRGcldIc21aaHh4OUdrQ3gwRzNJRzhCUVRMbVNzb2dxbjZRdHNRQWYzV1ROSENJSG1BQWhjQ2p5WFcwb2hUN3lpOVk?oc=5
-- **Source:** Computer Weekly
-- **Published:** 2026-11-13T10:51:04+00:00
+- **URL:** https://news.google.com/rss/articles/CBMiiwFBVV95cUxNbXV1QUpwcW9abHNmdjZpWFAzUmhmVkRYLWo4VGxoQjZjQzNreGtOLXVzcVVKM2ZPOUVDSFlqMmFUZzlILVVTbEgwRjgtTnFsUFViUndXQmxPazZ6VVhtWEI1dzZscEQ0YzZFOTQwZ2FhWHBnOFJnQWMtd0NuMnhwQ1pwZzJncnRaM0tB?oc=5
+- **Source:** Yahoo! Finance Canada
+- **Published:** 2026-11-13T18:39:45+00:00
 
-## Microsoft struggles to restore services as outage hits companies and governments worldwide - AP News
+## Watch Nvidia Fallout, Microsoft Outage and Anthropic’s IPO Push - Bloomberg.com
 
-- **URL:** https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYWY5MnRXdTRCaHJZT3BKRWs4TzQxdUR3NEZzQ3ZsTmxCLW9wcFJJMzFaLS1pVGhtb3BabWdhN3pvQUhPU0FNbDJMV2I0a3BWaGtuQWpxVVNxRTZIUGhNS3c5RG5oVHNGaGg3XzJDdkE1V0RBWFJKVzMzTFVnN3otc0xZNWhCWWducmlfS2dXZ3lGcUtWcFJQWkxnejVqWjFxTlZKbENDamJfUQ?oc=5
-- **Source:** AP News
-- **Published:** 2026-11-13T10:51:00+00:00
+- **URL:** https://news.google.com/rss/articles/CBMihwFBVV95cUxPQUxtb2c1cjUwMXlmSEI1ckVkYW5CU19zS3dYTkVKT0huSE5fc1EzaXJ3U3I2dWhSSl9tOGUzVHdSWTNaN3VsQnlBc0xCQ1ZYbnNqM2J6Q0taMDlEdjhHYzFzZk9RbndTc0RaRGFyOEpwV1JNMUlfbTZFUW9oQS1zMUVWREpuTEE?oc=5
+- **Source:** Bloomberg.com
+- **Published:** 2026-11-13T18:38:52+00:00
 
-## Microsoft outage: What went wrong and when will Outlook, Teams return? - Gulf Business
+## Microsoft faces Washington scrutiny after global outage - Politico
 
-- **URL:** https://news.google.com/rss/articles/CBMiowFBVV95cUxNMlRod205QVlKS09ranBUT0VmLTFsZG1TLW5LMVBDblJVQzBkenRkby1sRlE1NEhyeFJTbzdqWWlTSWtPbFN5dzdyOEl1cndzMkxLTVd3VndaZEk1YXgtaTYtcmZzUEtDZmlCZzZKSDR2UnR4TUc5YWd2VmNzR0NLWGp5ZTNCS1AwUG5QWmRob2NZN0dHbzJQV1VOSHBfNjBMX25V?oc=5
-- **Source:** Gulf Business
-- **Published:** 2026-11-13T10:50:41+00:00
+- **URL:** https://news.google.com/rss/articles/CBMimAFBVV95cUxNTUJsZmk3SWFnNzNtZnAyZTQ2bllpRUFQeERUMkFmOEVXR1lIRWNLYWQyRXlmbWdvbFdFRmNTT291NTlaSHhreTJxSXRYaDNZZW1BWGROMG9KUFlFbFMwWUh0blBBWHBwSHozdkJTbHRFd1YxdmQ2RVlwUzlfMDROWmhjUEZaaHpMSFN4c2tyWDdxVUVHaDlpSg?oc=5
+- **Source:** Politico
+- **Published:** 2026-11-13T18:37:00+00:00
 
-## Why did Microsoft go down worldwide? Outage causes explained - The Jerusalem Post
+## Why is Microsoft's outage lasting so long and will emails be lost? - BBC
 
-- **URL:** https://news.google.com/rss/articles/CBMihgFBVV95cUxQeTBZTklBX3BnTkM0TkJiczl5UWl1WDBzRXpuNGFKWWZjNGhQUTFTNWE5VVZMUnZZaEo0eVY5WTZZQk9JYWdhOFpMRWJ0bmVaNnduOWdmU1d6MkFyWVZnaEZyTWljOFl4VUZBMkFCbkVpZW9jZUEtUWd3QVg5TEhyalNjRjRLQQ?oc=5
-- **Source:** The Jerusalem Post
-- **Published:** 2026-11-13T10:50:01+00:00
+- **URL:** https://news.google.com/rss/articles/CBMiW0FVX3lxTE9DTFFtbnRDTEMtMVlLWk44djBYVEhja0dXYkI3LWVTMkxiNm1EZld4Vkg0Z2hBVGFlU2JUZEFkdTdrUHVWYzd2SGNQNmI4S0dKd2NxZV8xNlBuYlk?oc=5
+- **Source:** BBC
+- **Published:** 2026-11-13T18:36:57+00:00
 
-## Microsoft struggles to restore email services as outage hits Mass. state government - WGBH
+## While the joke has been “they should call it Microsoft 364” it’s more like “362” in 2026 - Pocketables
 
-- **URL:** https://news.google.com/rss/articles/CBMixwFBVV95cUxQTzlyUnlkaHVBbm43MFczUzY5VWhBYm5uSWowWnN2MkJGUU9yVllyakFMLUN6MkJqRlJGSi1WV29Rb25QWGkyMkptaEkzc292RlExcDlhVWVESi0xWmdCWncyYi1OcWtzRktkaTl1ajdMQ3JXYU9hUk9GN1htQk9PTG9SdFpiQURHeHlIVGI0ejJzTlVyTmtyRG14c1pPRmk4UngyT0w5WTBZY1d0NUVKX1ZCOFJpV1dXZGdtb3BSOE5fNUt4d0lr?oc=5
-- **Source:** WGBH
-- **Published:** 2026-11-13T10:46:35+00:00
+- **URL:** https://news.google.com/rss/articles/CBMivAFBVV95cUxOVUZIZHN3Tkpfd3kzdnBtVDhidXFQNEpaQU1kdF9ZRjJIMlV6Q0VYak9YczlWbVV1c1poRGRFXzgzODJiQW90ZlVUTkRnc2w2cXdfbllnN3lmTjgxc2RYaDJqWXZwc1NERWtYY0s2TDF3QVlacHliWGcxek5MX2toUkQxNEJSeXk5UjhtZHJtam8xSXhzSFdBbmlpVEpPQTE3NXplclFOaWd5alFHWDVBODFlRmZQWGJsaXExUQ?oc=5
+- **Source:** Pocketables
+- **Published:** 2026-11-13T18:35:11+00:00
 
-## Microsoft 365 outage: Outlook and Teams see ‘incremental improvement’, but company says issues are not fu - The Times of India
+## Was Microsoft hacked? Company says cyberattack not suspected - USA Today
 
-- **URL:** https://news.google.com/rss/articles/CBMiowJBVV95cUxNeDdsdWZNeG9ld2JiaHZ3SGdTNGU0bzB1R0JtYnNOSlhyV1cyWGE4aUZ6VGpsRVRBNWhDY0dJbmxHTThwR0ZGT2o1cEQxelRxc3JQbkdkbEM4bXZsaktma2VIOGtGNHVLY0JQbGVHbVVWTFgwMVR5bUtsSGN5RWJMeXM2ZnRlOU96LXNvSXRtTFlFUlpKZE1DeFB0MWFzWEViQzR1Ui1UYkZNVmtwMFFTSEZOQXh5cGZBV1lWenB3c3B3VE4xVm56V3NyMUktUW1UbU90czhRQUN0ZXU2SWQ3Yl9jNDdOb3dVWVAxZ016VmYxLXlON2tEbkJpTzhHM0x0NjMzOVVLWjd1Q0d3c1ltMjdRVUs0LWFYMmJoaGU3QTdVa0XSAagCQVVfeXFMTjdfQXNtSDBrSUlKMWN3cXBVNTJmRnEtS0dBUm5rc2JURk02R0s3MEdmS1haUFNTUHVZX3Zfa0RzTW0wYWJRNVNLcUV1UFo1Vk9RUm5hQ3gxZUJjektvY21xc1BXaV82U1JtUmxUOG5fb2dlZjI1VXRHOGt4cHVZZDZ6WkZyd2tZeVI2a1pLNjVvTWlwaThXMDI4bHA0ajVZVW43eEJuczJidGFYUjZ5MzZsRUxuRGN5X0lLakRfSXpKRGpnbnFuaEtMOW5PRWhYa0s3blp3MXo4OWo4Z3BjTGNaM281SHJXd3JycEZhUmlpLUdkZGpPbzBQNGNfRmJXOFduM0FLTHlCbXZSU2VmamxoVzkxSjZRUk84VEszd1M2SlRoQ01mMmE?oc=5
-- **Source:** The Times of India
-- **Published:** 2026-11-13T10:46:00+00:00
+- **URL:** https://news.google.com/rss/articles/CBMitgFBVV95cUxQY2FVdmpJSXFDRWZjMHBhWUlmZTZraWEzMF9QcXVSTWUyVUEtWFlvMFlURVhPODdvSnF2VkRYdGJMczhXYll3eHNuSFlYRVpoMzFOTlZ3LTJpYXRQX25WOXd0RWRtUlRLWjMzYnFnbERLakozVFEwMWY5SklEZzN4ZUdWZTY5TUxlYXgwdWxXVUxyMGh2ZjFVRVh5T25fbERPU1dDckplZ28wRldKa3BncmdZaXRsUQ?oc=5
+- **Source:** USA Today
+- **Published:** 2026-11-13T18:24:00+00:00
 
-## What caused the Microsoft outage? Update issued with Outlook and Teams down - Yahoo Finance UK
+## Poland pushes open-source software after global Microsoft outage - Anadolu Ajansı
 
-- **URL:** https://news.google.com/rss/articles/CBMikAFBVV95cUxNNklPS1dIeDdFanVzbUFmZXFOLS1Id2kxc3Z1ZE9nd09XSTV6WTRFSElKSkxfMzNNRksxSDRFTk01aDVqOVVNMVViOW4xdzdmM1BsOWFqbS1telQzV3VMbmVwSmtFdDJVVTZKZHVnZFVGbE5tSzlpOVZGVHJhZ3NNTl85NzJBS0thNHRDTWp4VEI?oc=5
-- **Source:** Yahoo Finance UK
-- **Published:** 2026-11-13T10:43:29+00:00
+- **URL:** https://news.google.com/rss/articles/CBMipwFBVV95cUxPaWxvazM4eDVqTkpoeU9yQUd1S2ZxSldwWFl2TGVYNzNYMkM5NTFhMGd3RzFobjZ5N091SmM5ZWdSNTg2alVldjg0Vm43T2hYNVJTaklGWVczWkFyOUhoaDFqS1FjR19jR01kM0haTmhhTnBZV08yaEhPLU5KMXhRaXIxTDA0ajdnMnl3TUpwYVpsS2UzdXFialNOYkFQR19MUHdvbE1oRQ?oc=5
+- **Source:** Anadolu Ajansı
+- **Published:** 2026-11-13T18:18:41+00:00
 
-## Microsoft Outlook outage enters second day, leaving thousands without access to email - Gulf Coast News and Weather
+## Microsoft outage affects state and tribal governments in New Mexico - Santa Fe New Mexican
 
-- **URL:** https://news.google.com/rss/articles/CBMimgFBVV95cUxNMUZMNTNxQjF2LURPS2ZWQlVyZktkRV9LX0E3NHN3cEVOcVFIWWpSa093WkJ2d1IyUWNBcFlOWVdqeC1xUnZiQmV4cHFkMHROYmZRdExqcHlmSWpHcW1PeG5lTVdJcENpeWVCazE0Njc1NlhyRENyb0g3ZDFXSXVJcWlWeXF6T3d1UndSMklicVdqMHUwWG9fWGJn?oc=5
-- **Source:** Gulf Coast News and Weather
-- **Published:** 2026-11-13T10:43:00+00:00
+- **URL:** https://news.google.com/rss/articles/CBMi-wFBVV95cUxPRnpab3paMXNwTWJQc2dmQnVqVngxV0hncHlDVXpjUGVJcWhHWkJoelFHcFc5ZmsxaDk0T05rSDV4LUxBak14SlB0XzhPT2owSlVDTEItQURzaUZTdDBkMzQ2V0QyalQySzFqeW4wbl9fdmduelg0dU5MRVFCczI5VEl3cnZZQVpOZlRRYjktNXdBLXRUMnlwWjBiamRwM3QwczFaQU1SUWx3Z0ZSQjRyT2dHNi1QUlFvUFRjQmxkaE9lcm9GRlZYYVpBdHpqejdhOS1uZ08xVTZfVy1kXzNEdHdwdzh1MTZobTBaQTZESmlHNHFnMHJneTV1OA?oc=5
+- **Source:** Santa Fe New Mexican
+- **Published:** 2026-11-13T18:10:00+00:00
 
-## Microsoft Outlook and other services down; company says it’s investigating - Yahoo Tech
+## On Day 2 of massive Outlook outage, Microsoft moves toward recovery - The Seattle Times
 
-- **URL:** https://news.google.com/rss/articles/CBMi1wFBVV95cUxQUFhNclJqVDVBWEZzTDI5UllfN2NLMVNxVlpSdVRjN09GNEk3eWJ1MDRSUnhMZUQ3b1BfR3pkNU9NbVd1YVNHdVFHT0xQUVg3MWs0TTZGRnZoZ2dOZkVNcU1Ec21ZRnQ2bUhFQTJhbTdYeU9ySndBeXMzZnlkRmF6LVBLTVBUNURHRmNmbEI3TXZpTzF5N1hPQTROYUZFaHVVa0dfazQ1U24zaVJuSnZnUUxEY0wxT2hTRHVUZ1c2R1F1MGNRakRvSENyNy03aWRGMERxdzF1SQ?oc=5
-- **Source:** Yahoo Tech
-- **Published:** 2026-11-13T10:40:04+00:00
+- **URL:** https://news.google.com/rss/articles/CBMitgFBVV95cUxOemhOLU5LQWJXeVNRRGFYSV9NVldpQnVMS3RpUEEtY3lSeVlmR3lEaWNYS0VEV29sdFdDNUNyRnhLcXdlQmhlOVREV25YaEllald4eVQ2cXp3aTBNOWl0R1lOZ1dGaExac2ZFMThERDlSSDNrcnY5dFcwQmE2N250b0pNcHEybFR0QmxWajJkRFlmSmJ0eW0talE3QnB0V0dmSnEtWnZCdHF5WHU2TG9uQnY1TmJBQQ?oc=5
+- **Source:** The Seattle Times
+- **Published:** 2026-11-13T18:08:06+00:00
 
-## Microsoft Stock Falls Amid Global Office Outage. The Timing Couldn’t Be Worse. - Barron's
+## Microsoft Says Outage Disrupting Outlook Is Improving - The New York Times
 
-- **URL:** https://news.google.com/rss/articles/CBMigAFBVV95cUxQRUtKYTY3Q0wwdDR0WDQ0NlBVV0xsZVEzM0J5aDVUd1hrX2VBOXFTbks4Z2JFZFF6RG9TNjVIb3ZNRl9KRUJvNGxnYlgzQzBKbWVYWDFuU3F2X2VBdU5UWVo1OWVFOHpUX0E3RHNmNXBJQTE0dVU2R0dUS3pvVWhGNQ?oc=5
-- **Source:** Barron's
-- **Published:** 2026-11-13T10:40:00+00:00
+- **URL:** https://news.google.com/rss/articles/CBMijAFBVV95cUxNcEFndUdOd1h4OFFsR3psRUxjVFNqeS1yRmMzM0tKMGtOV1BVaHRTak1tZ0c5WmVqWElMT1Y0S2RPTkpDcU4tT0pTOC0xWmdwRHFOMGRlbjJUaEV0YXNxay1KWElka0pWQ3lCY0JhZlJucU1RMUx1SWF4cFFOYl9FTER3OUZldzZORDc0NQ?oc=5
+- **Source:** The New York Times
+- **Published:** 2026-11-13T18:05:00+00:00
 
-## Millions affected as Microsoft outage still ongoing on Friday morning | CNN Business - CNN
+## The Microsoft Outage Also Hit ChatGPT and Claude. But There’s an Easy Workaround - Inc.com
 
-- **URL:** https://news.google.com/rss/articles/CBMixgFBVV95cUxQUnVSMU9aaEtmWVlQOUdZOUpGNWlmdi1vSDFvNjJ1TVo2YnRXZVA0OVp6bmxvc29BOG5sUDVnZFo0ZW5mcnZhV3JuLXRxWVdJU2dWQzBMTFR3czhmbnJpM29xMkd5WmZONldmSWdqUEpMQVcwZGdTU0VTVmdLUnZhZGdpWmw0XzlMT1A2VEFvQ1Rnc1RVc0FVV2swSjVlVkxiRVNaVDltQTR0bEsxeE1RTkNvbUtXU0syWHdiWUxQZHFhMndxOHc?oc=5
-- **Source:** CNN
-- **Published:** 2026-11-13T10:39:00+00:00
+- **URL:** https://news.google.com/rss/articles/CBMiuAFBVV95cUxPXzEtUGhBWDIxZFJGeUU2RGR4YTJTck9RcjFPOXFjelFBWDk1RjdwakJidW1mRXBJMEVCZ2Nvb0Vxa2JhN3ZQZDM0TU1tMUpRT0QyWjRGcmp1YTBHZ2lpa2dXUk10VDRkQjVpekNBX0tGT1h4WXN2WVEtODdBbGpnUjZjNGh2RXNFSng2RHJkLWRqQm1selA2c19qYUtmNHhiREJiaEhWdU1RamtqZHB3WGxfaEUzcGhs?oc=5
+- **Source:** Inc.com
+- **Published:** 2026-11-13T18:04:15+00:00
 
-## 'You kind of turn old school': Massachusetts workers react to Microsoft outage - WCVB
+## Microsoft Had a Global Breakdown. These Brilliant Brands Capitalized on the Chaos - Inc.com
 
-- **URL:** https://news.google.com/rss/articles/CBMiswFBVV95cUxNaV9MY1lSbEJZOUZtUlJzZUxIeE9LeHhNSktobkxHbjNyelprNTdnRW1vdnkzUjVXUThVdng1eF9qa2dPXzROZWc4RmVNRUc2SkV6a2k5Q3I2Sm5IVFZlZ2ZYaFRBWHpVckhzQ1FHbUc5V3B5XzZPcnlMOHNHNU5OR0t6QUUxQmQ5Ykl6OUtHSGpJVS1lM2RKTndwZWtXOW16bl9OYVUydWMxZVc0eW5ESjhkRQ?oc=5
-- **Source:** WCVB
-- **Published:** 2026-11-13T10:31:00+00:00
+- **URL:** https://news.google.com/rss/articles/CBMijAFBVV95cUxQQ1dfNFdJbTh1QTlFeTYxTWp6Um11S2lQSUVBY1VUdnNCdlhXUzA4dUdZeURPTWQ2TkptRHNJOUhKNWVYU2JBbC1wX044bGNISnYzOThrd253THBTcTZ0UkR2SjNpekhqZks0UkVkLUNRdm95LU14LUI0TGh3Q24wam56MmVhb3c0V3hVdg?oc=5
+- **Source:** Inc.com
+- **Published:** 2026-11-13T18:02:45+00:00
 
-## Microsoft 365 Outage Extends Into Friday—Governments, Airlines Report Disruptions - Forbes
+## Microsoft Says Making Progress Fixing One of Its Longest Outages - Bloomberg.com
 
-- **URL:** https://news.google.com/rss/articles/CBMi1AFBVV95cUxPZE53VDdPY3BrWW5MRUJLU094MWg3bWZISzBtdVo2QkZUblRiVGY4d2dfQXZZVjlLS211LTEtWVpMc0FlSGZqbG91dWt4X1ZRNnhVOFhpQ2xsMHMwLVRrRVp4UWt3NlByb3hESmNteG9WWno5dlNjQ0VkUzhmYkJxZjZhTThTY0hzZnV3ZTFVYVhwY1JkOW9UTHM0ZDdOdVh6dEdVV3doalpGdFFmT2hjeTZDOG04SUJGdVU2dWQxX1lQcUY4dGZvX0lGNWVJWGxpc2ZYbQ?oc=5
+- **URL:** https://news.google.com/rss/articles/CBMitgFBVV95cUxOeENuMk4tX1MwYkVSbFlHNFhKc0RGTFBMbTdrMzRLYktPdDBfeFJmT3lhZkp4QmZsOFo5SUVSZFh5VzZPN2xMZ0FMcXZzOXVTSzJkWUdJSFdRSjVNZHVnV3pXWDh2Mk1kM19uSkw5MlFKSS1qcnpzbG4zcjRJM3VGX1MzaEtsdHExWlloTWdzQ0cxaFFvNUJzWk9CcXJRVGdvSGpGT3RJSHZFNUcxTkplNnF4cDdxUQ?oc=5
+- **Source:** Bloomberg.com
+- **Published:** 2026-11-13T18:02:01+00:00
+
+## Microsoft apologizes for global outage: We 'regret the impact,' can rule out cyberattack - Mashable
+
+- **URL:** https://news.google.com/rss/articles/CBMikAFBVV95cUxPLUxvMnlqdU52eU5sVzZGRmFkeDZQclJZVmJrWUthbVBPWXdSNWJZOVREMnVuUnRPSEpnM29ZZFptck05UU5NTkZ4MGo0MHp6aFNrV19OOVhHQVZ1ZENSakNJQ1BqUkJSYWZ3Wm13d0JzZ2RvUWhfOEx1RlhTcEpIUkNNclFyUjhzdDNBNWRGOHE?oc=5
+- **Source:** Mashable
+- **Published:** 2026-11-13T18:01:02+00:00
+
+## Microsoft Apologizes for Massive Outlook Outage, Affected Customers Can Request Credits for Service Interruption - Variety
+
+- **URL:** https://news.google.com/rss/articles/CBMipAFBVV95cUxNSG0wd0dsZnFtQnVuZ0JsSGwxajlpRXRhTF9TSDFmRmpHa3J5RjBlSnpqM0FZM2ZOeEhzSDlvdjhiNllGcVpwVk52aHZ2djRCT09Wb19qQTN4X1JMamY1cnkzY2hNSVU5T3RwcmNseWJyVmxtZklqTGpoZVlWX1FJWXBQY3hERmpxUmNpNnVIM0lubTBjUU5ibld4YUNJYXNGcV8yeQ?oc=5
+- **Source:** Variety
+- **Published:** 2026-11-13T17:59:00+00:00
+
+## No emails, no problem? Workers joke about Microsoft outage - Al Jazeera
+
+- **URL:** https://news.google.com/rss/articles/CBMirAFBVV95cUxNb0R1RVRsNEZDNnJXazdjbnd5ckxVNnRtZVJELWZmVHVscm9ERDFwUHV1SlhUZVoxV19FdVVwZjVOZ3cwbUM3Q3BpWEZVSWpENmM0aDFBSVVtLTdvQkpHYjM4TnRLYjl2ODBKS09TMElUQ25jVUhwTWdESXlnMHp6R3dYS2pOVElKTC1MWC16RzI1UFFQZGYzd3VSd19TOGZTYnk0QXNUaU5HTjdE0gGyAUFVX3lxTE9GWDZyZTZMQ09wUnZrNkx1d296Q2hiMHQ0Zm9Wd0NVMjJIMHF4WGFLUlJlMlVtWjUwcHh1QmNrVElGaVY5LUtDRFhkaVhJWHV3Y0YzZUdtbDdTc0dzZ2YwRzFoVzZNZjV4UFpveUk4dWRjaGpfcTVPd0pQQUFJemJpNW0wMmVqNW5haFNzMlM3eWpPZFZScUpqYU5iN1BUcF9yVU9CWWdmZWt6VnBMSWM1M2c?oc=5
+- **Source:** Al Jazeera
+- **Published:** 2026-11-13T17:56:37+00:00
+
+## Microsoft Officially Apologized for Yesterday's Outages - Lifehacker
+
+- **URL:** https://news.google.com/rss/articles/CBMiigFBVV95cUxNZU9DNENxOVBCNXZnVm1TTzQxc3RWN3g5empXUFExWmxVSGU1S3BfTUJsclJESDZYellnYkxVa0NQWWJvM3d5M3J1R0lwbXp2Zm11OE5FY0Q3ZXRxTmpnUHZKS3RwemJrLXpyN0ZibUszdER6TE1oZUpqSUpwQlQ4RXlOWUV5ckpPUXc?oc=5
+- **Source:** Lifehacker
+- **Published:** 2026-11-13T17:55:20+00:00
+
+## Microsoft apologizes for widespread outage, explains what went wrong: ‘Deeply sorry’ - LiveNOW from FOX
+
+- **URL:** https://news.google.com/rss/articles/CBMioAFBVV95cUxQYUVEYlBfYzJNYTFBRXBiS0pfTHpYbnJ4eHRUaHJlSHNyVUJTRm1OS3FSLXJrazAtZFNoMDFMaGZqdG5manUyT2VXNlp6VE5DLTRRSDJiTklxY1FRMXlfYXo2ZkJZTk5ycThCVG1ubHBFeUR0R3BQdjVLeHM1bU9BR3c4OFBTUGRBQm1yV3hPcEdDS1RNYkI5eXFKamdoWnF0?oc=5
+- **Source:** LiveNOW from FOX
+- **Published:** 2026-11-13T17:53:56+00:00
+
+## Microsoft’s Global Outage and Fixes: What We Know - The New York Times
+
+- **URL:** https://news.google.com/rss/articles/CBMihwFBVV95cUxPaV9OOFc4QTdHMUphOExTMjdyYUZNTm1HeUdLb0dBN0s1UENMTmJnMlV4SmVxTnhjclljQm53NXpwdkVBRXZXckZrYWtPWXhLNmxLcjRaZkc3ZUhHQkc2dGRUODY5N3dBa0lVUlE3UmZKU1hPVDhYUWlLbW52bEJqLXBqcHFhMnM?oc=5
+- **Source:** The New York Times
+- **Published:** 2026-11-13T17:52:16+00:00
+
+## What caused the Outlook outage? Microsoft issues apology after some services restored - NBC 5 Chicago
+
+- **URL:** https://news.google.com/rss/articles/CBMiywFBVV95cUxPRHVxUDNjRi1tampnNEgwUUY3NWhxZkVaOHc4dnNjODZIZE1nbzE0WmJudVkweDdFRUMwV1JNNmluemlJNnd6REZ3eThtdU9FN3M1WWxwendyTnNSVjl6eV9NT1VSWjR3eldiVWNkTXFCemI3TVBKUkstSmcxa2ZGNWF6cWNvQUVuQTl2VEhRS0xKWDJuUzhKaXltSUZBZFRad3J3Y3JHUmU4MVA1LUMwZlVhRXBjR0psWklNekFKT0o5SkZ2cTBGRE1kRdIB0wFBVV95cUxNVzJ4UUNwU1ViVzJtU0ZQb1paaUYyWkI5aEhDeEhkdmFuWnNVRmFDaXNsRnFPMmYzcE5EQTJVaUFKMUh5cDNUUlBoODNMZUo3RWZlX2gzNE9vQzNwUG5FQjMxVmRXcGROaGZka3hMRXZ1Y0duc3I1Vlk5LXQ2QS1YVC1XcU9zYWRuRDNoZHJBUmdLNk45MkllS2pFZl9jUXdOd3lYZGJTU3FZRTFIcE5OZ1NDLUFPWEdscDZUNFk5N0p3aGptd2g3cFNRczhFTWt2Tk1J?oc=5
+- **Source:** NBC 5 Chicago
+- **Published:** 2026-11-13T17:46:58+00:00
+
+## Microsoft: AI, hackers not to blame for Outlook services outage - PCWorld
+
+- **URL:** https://news.google.com/rss/articles/CBMiqgFBVV95cUxPU3dWYk5fcm9ZVS1vcmhRX3VzaWpNNjdnZmJreVk5VmF6Tzhham5YX3NsT2FYVlBMSTlSalNDSy1nVl9zQU1KOXF4QnNrZ21XR1FKRTQtenBoUUo4VlFrU01nR2k0SVBFNzk5VFVSbzZSRXJkXy1pZnptSXVPZ19ESEFCUGxLRTZUSWY0TFN3X1huNVNMQWM1RXF0QzZfUmdRQnpyeW53SlZpQQ?oc=5
+- **Source:** PCWorld
+- **Published:** 2026-11-13T17:42:03+00:00
+
+## Microsoft’s Outlook Outage Exposes Tech Dependencies CFOs Aren’t Pricing In - PYMNTS.com
+
+- **URL:** https://news.google.com/rss/articles/CBMiywFBVV95cUxOaGtyeE1BRHRPaENPV3VyT1hxNGFXTzRianpLVmoxTFpjaWdWV2hMSE8yd1BWUXpYMUhLMFRxeDVReXlkamRLYTBMcXZ4LXBLQXNYZmdnRGJWUWxSUWlCbktIaHh3THVIV3Q5c2ItYlZlaWQ1MlcyR0V4TUR2dW91LWR4anBSZnFERUV6bUFtVFE1UjgtVXZGODNLaDZGTWlnUkJwdTdBVXcwbHoxblFtSXlBTEVraUY4LUJpdnRJdDhCUDJwRHd3MU4tNA?oc=5
+- **Source:** PYMNTS.com
+- **Published:** 2026-11-13T17:37:30+00:00
+
+## Microsoft outage renews European calls to detox from US tech - POLITICO.eu
+
+- **URL:** https://news.google.com/rss/articles/CBMimAFBVV95cUxObzRkRmNsell0UEdBYlJ6U0tESkNUOEVMaHd6QWFkSHd6eFFoeWFWd0V5U3lrRHJOZ2JsczNZYjRhanJYOWJ0RmxXY0hXbk5hNWJkcEN6XzB6LXd3Z1RhNXkyWkVReUpSbjNzenBVMjlSMEREU29tZW93S2VodG5WcTdlTC01a1FxaFFXbUkxbjNFdnp4RlBzdw?oc=5
+- **Source:** POLITICO.eu
+- **Published:** 2026-11-13T17:32:00+00:00
+
+## Microsoft Outage Exposes a Dangerous Flaw in Company Backup Plans. Next Time, Make These 3 Moves in the First Hour - Inc.com
+
+- **URL:** https://news.google.com/rss/articles/CBMi5gFBVV95cUxNTGZEQzJ1YWJ6R2NzbEo5Q1VUUnAtTzFlbnVxSG1SVC12aTdhN3hmUXFZVVRRRmlxQkpRc1FpMC1veGZuZmhkaklranQ1SGNWRzZZX0E3bU1iSDB6WWRkNDJtdEZGZVR5WUNPN2R1T0k3WEJtXzBOemMzaEZNYW1YaUFpRDQ1cE5MNXhDMksyMHlxc1VCUDVVay1KMldVNmhHNzVpekd5LWp2cHY4V3VRQnc4Y2hvQktoR2RyUXdKM1FxZ0Y0dmJscE9WaFFGN2Uyd29HNUZRSkVaYWI1WmU3QW9JN1JWdw?oc=5
+- **Source:** Inc.com
+- **Published:** 2026-11-13T17:28:47+00:00
+
+## Microsoft outage leaves Northeast Ohio schools, courts and businesses scrambling - Cleveland.com
+
+- **URL:** https://news.google.com/rss/articles/CBMizAFBVV95cUxNVDZLb2p6blZsNzJTUk9FdXBLb3R3NkxuS2RKSy14WFpRUGU4eFJOeDVQS1ZDU1ZsczFCWHFuU2ZkRFJVTFNtS1diMzJrNlhQTHM3OXdkdlZqcUJzbG14MUJZelpMRlV5Nk9NdHBWcnREanFONnV4ZHg3WlVyb1M1SzhycGE3VlU0Q2w0TjEtRFdiZDR6QllHZFEyUWdYYUhZdW5YbzFpRVJ5bzVkU1Z5OWY0UUtEOWt5ZmZOMGFFV2h4RHVtbVNPTGVlX3I?oc=5
+- **Source:** Cleveland.com
+- **Published:** 2026-11-13T17:28:00+00:00
+
+## Microsoft outage worldwide seems to be easing - CBS News
+
+- **URL:** https://news.google.com/rss/articles/CBMijAFBVV95cUxPdF9Ga3VTc3BITkttZHlMZkEzRmI1WlpXMjlObzdCbGJtM3h2M3BwcHJuRUZtSE9JOFpJaDZlSHVHcVNMSzlSVk1DVk4wbXdYV3VVOFd5YVJZUzhLNExOTVQweFo5M2YwcThJejViWkpOWDNHWVYxT3V0RDRaMVZpLTUzUElNYXJ3WmR0bA?oc=5
+- **Source:** CBS News
+- **Published:** 2026-11-13T17:28:00+00:00
+
+## Microsoft is repairing Thursday’s global outage – what we know - ZDNET
+
+- **URL:** https://news.google.com/rss/articles/CBMiekFVX3lxTE1aTzc5YUtNLVZqb0g4dFZXUXIzbkZMMWlfQmlYNGFjT0dMSmVSVmdIV1VWd0FybmpyQzZ5UXVOZVNxVHlBdGNUTWRwZWM3czJ3UlRVNjhpaGRxazg0aVcteXN2UkhjRWtWODRkdU5ZaU0wOFJ5Y2pENGZn?oc=5
+- **Source:** ZDNET
+- **Published:** 2026-11-13T17:24:00+00:00
+
+## How Microsoft outage affected South East NHS trusts, councils and police - BBC
+
+- **URL:** https://news.google.com/rss/articles/CBMiW0FVX3lxTE9zd3lrc3pOdlJaLVNJVGRiV2VYcHFGMDRjcUoxVERSdFBsWHdjSTBqS2Z4WDBNWlFNSXV6ck1nQVFZdFdtamV5Y1pIaGI3b3BSZXhrLWR1RFdTYVU?oc=5
+- **Source:** BBC
+- **Published:** 2026-11-13T17:21:01+00:00
+
+## Microsoft outage shakes up companies, schools and local governments across US - The Guardian
+
+- **URL:** https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUWh5X2RDQ1BlNDBhN1c1TXRhUk5kTUVLZDdZQ0ZWaGRYSmZoMDJaYTlyVmRnaVBRdWJwV0I3S01Xejc0Q1BVekVzQVZ1VnVOSmFSdk9EZ2laeFlJNUpWNXNVVFpoczRFelJqaTdZMWdXS2dqcUNocklhcnQtZmctNWZIMC14X2Vkd2UzNU5xOEVZUkFsT1pqWWg0VnBxWng3NDEtMnNrNFY?oc=5
+- **Source:** The Guardian
+- **Published:** 2026-11-13T17:18:52+00:00
+
+## The Microsoft Outage Is a Warning for the World - WIRED
+
+- **URL:** https://news.google.com/rss/articles/CBMiggFBVV95cUxNN1JPWl9pbzJKaWdNRmlqNU1iQnhhUDVSZkF5QklIQnYzRUdNcjdyLVJzb0tTcUhBb1h3eXBPd29yMWppUmRyTU1TWmpRZWMteUs1SkxlOG5iSHdpSGdzaXZFRHBGTjVCYWZWTGlxZU82ZkdkYUV5M0lueDVTcEN2NW1B?oc=5
+- **Source:** WIRED
+- **Published:** 2026-11-13T17:15:00+00:00
+
+## Microsoft apologizes for nationwide outage, but what took so long? - FOX 13 Seattle
+
+- **URL:** https://news.google.com/rss/articles/CBMid0FVX3lxTE1JaERJZzNwNTJiZ2hVNlpIT1dpNTVpV0daal8xT2lLLVYwaU45MmRUOF9CVFdqb0RwTUtZX3JkenlYODEwbWNHWG1ERXZ6QnhRN2ZwRU9QZTVUOWhJeGFCVlloczJveFdRa2xCVTdIMlRaRkk4NEJn?oc=5
+- **Source:** FOX 13 Seattle
+- **Published:** 2026-11-13T17:14:14+00:00
+
+## Microsoft Struggles to Repair Worldwide Outage. Here's What You Need to Know - Time Magazine
+
+- **URL:** https://news.google.com/rss/articles/CBMimwFBVV95cUxPYnlvMXEwQ0Vid3RuTk5TQnFNTkY3ZTh1SU03a1AzRkNXdlI5LXFKUmQ1RzNDQmVGWVdTWldKMEJkck5VNGM0U0otMzNseUg1Vnlwa1h3YjMzWHBLVW5XZGxZNHdsUl9VdGlhaUZJTzhJamd4VXRBTEQ5U2g5SWwwOTFQX2o4VmpHVWRyU0FzY0hxVmgxd3doNUgwMA?oc=5
+- **Source:** Time Magazine
+- **Published:** 2026-11-13T17:09:46+00:00
+
+## Microsoft reports progress in fixing widespread outage - WBUR
+
+- **URL:** https://news.google.com/rss/articles/CBMia0FVX3lxTE5IZFI2eHBwb09YaWRrRnVFWm5UR1pTMnpZNGdsNWVRRi1Fam1VUFRkWkhmTlNrZk81WVhBaV9peEFXLXZCbkRuTHJFM0ROMHc2OUU3eHNsaWs3eGh5bmYwZVJuRkxXZUJYSFRV?oc=5
+- **Source:** WBUR
+- **Published:** 2026-11-13T17:02:12+00:00
+
+## Tech expert explains challenges in restoring Microsoft programs, chances of another major outage - News4JAX
+
+- **URL:** https://news.google.com/rss/articles/CBMi0wFBVV95cUxQQkl2Y3FoMTF5WExiVXFRcVRpVnNHZExEczBJa1ZtUFlhd3VOU0d2M1ZfSFljaHd4ckU1cm1HQmpFUVNtYjAtX0VZNXB0b0YxYTRUa3dCMXYzTUgxdzIyalozaEFtS29LbmIxSloxZ2FuVUhVLWFiQzBHU3dxaHpHZjlrcjlvZ1R6b0xaRkRIOGZ1ZUFtQnlXb2Y4VmFKclhqTUlJVTNZMU9iUDQxUWRvNV9MblpqRE53bWpmRlR3NjhIUHoyZXgwTEp0U3ZFQ1Nxd3BF?oc=5
+- **Source:** News4JAX
+- **Published:** 2026-11-13T16:49:04+00:00
+
+## Microsoft 365 Goes Down. What’s Your Backup Plan? - Forbes
+
+- **URL:** https://news.google.com/rss/articles/CBMingFBVV95cUxOZFZvMUJpOC1vTlg2Ung2M1MwcW1jY2JzalZ1WlpoajQwQ3RMTnZLWExxTDV1UUc2Wm5jWDYzM2g1VjhFbFVmdUhtYzNlVDZSSDVLTzFNZUowaEZtYVJjUnVDaDY1Vk1rNzJvdkEtWnUtQ1JHS19ZZW9iN0dFOVFJR0xVQlBMXzJzaWRvN2c4b3d1Q3NjWkZRYXh0NXhldw?oc=5
 - **Source:** Forbes
-- **Published:** 2026-11-13T10:26:49+00:00
+- **Published:** 2026-11-13T16:44:27+00:00
 
-## Microsoft outage hits schools and universities | ETIH - EdTech Innovation Hub
+## Microsoft 365 Went Down for a Day. The Internet Gave It a Brutally Accurate New Name - Inc.com
 
-- **URL:** https://news.google.com/rss/articles/CBMi0wFBVV95cUxNblZGNTVpUVlRLU9WWE1HZnZ5eFhKMjF5aXE0TEkxNUNGYW95N1BkTEJGZjNKbkh0UzhMQkdIaGJsWWc3MFVZdEpJelk1c1BNRkl6dWFSNnBQaERtOUNOZ1NodW1aVlhMMnhKV05BcmtQcnVWTFFieXhIOE5UZ3JSTlZxR29XYmp3SEhrMXNhZnM2bENaZUR1SmtCUWpyXzF2UlZYR1VvcnlySWRwVW05cVZ3eGhGcVdqNFBqbFgydnR6MFJoU1pNWkU3VWMxRUl1b3Bn?oc=5
-- **Source:** EdTech Innovation Hub
-- **Published:** 2026-11-13T10:25:55+00:00
+- **URL:** https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMFlsNm9HbkVSc2s5YjVEaDZsU0RuNW1qeWQzTUNKQ25kY3p5ZXVIOVhwMlppS0luWFNIVmx1dWdlSkRBWVFhQ01mWVhweTgwd2Z5alc0UHVtTUFXR0hVRGxHT2dpSS1wN3BhOHh4UFVHWTZhR2dHVmlPeTFGSDJDUTRCQUQwaUZKYklSb29IdjZhdlJpSEZCNnV0WU5RbnFRTVlwWnlWenZuZFE?oc=5
+- **Source:** Inc.com
+- **Published:** 2026-11-13T16:33:47+00:00
 
-## Microsoft 365 outage continues into Friday as company works to restore Outlook, other services - Click2Houston
+## Microsoft’s massive Outlook outage continues - The Verge
 
-- **URL:** https://news.google.com/rss/articles/CBMi4wFBVV95cUxPVGw3SUg0YjVTQzNabzRzYjhBZUc3dHBySmZ3S1pUdjdmOUFwZHNwOEVodTRESVI3OFc5U1ZMVWs5RFFKenNVYTNDRm0xd2pVa3Rsem1EZFFWMWdTYzFaZVpDRVlNSUE5RmNmT3dEZXJXVEpsODFseVFya0xBVl9zNHZFeHFVdlk4VzNxaC02c1RpX2tadGhOeld3dWlOVlVyNjAyLXhHN3Q3RF82NVZUMVB2RUVZLUpZV1huSmx3cW5XTkdiSHN1cXg5T3VCcmx0YnRmM0NCSTVRYVhvX3N2OUw4SQ?oc=5
-- **Source:** Click2Houston
-- **Published:** 2026-11-13T10:25:18+00:00
+- **URL:** https://news.google.com/rss/articles/CBMidkFVX3lxTE9TSVRGYVNXOVAzaVNzdTAtX0NxUWJyQjZfQlZ1LTJWazdpRjNKeGpOSFVQWnNBQ2VfM25VMjk4SlRBRGlPelRqdmN4akQwZ0czWGxnbllQc29aTW5lUlhIVlhIRkpIeHA3R2REdlV6WnlJZkNQOUE?oc=5
+- **Source:** The Verge
+- **Published:** 2026-11-13T16:17:11+00:00
+
+## Microsoft Outage: ‘Millions And Millions Of Dollars Lost,’ Partners Say, As Microsoft Finds ‘No Evidence Of Malicious Activity’ - CRN
+
+- **URL:** https://news.google.com/rss/articles/CBMi7AFBVV95cUxPZkVnMVFVTnF5dlVHSlNjcEgyaDlqNnc4ZHJkVzhFSmxRLVIyUF9YbkZLcVU3ZVNpQWVfeTd1Tko0aEtzNTYtN0x0emxSLWtTVlpyVTdOQkpVdmZVS05LbTFLV2NtNXBQZTRRSkVES2ZBRTBJd01QVG9jZGZ4SWw0QTJLRUJjTlBKLVBDS2EwdEQtUUZWRHc2NVdzNENIZFhlVkFzRzlDc01Id1lIbV9CV2VNaVFOLW1YOXo0T0pld1F0VENjeDlXeWRaSnJzUmpUSGVXTzlNSERXcmQ1YnlxTnU2Sl9CQmhTMm9hQQ?oc=5
+- **Source:** CRN
+- **Published:** 2026-11-13T16:15:00+00:00

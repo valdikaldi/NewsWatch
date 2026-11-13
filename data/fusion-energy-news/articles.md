@@ -1,8 +1,44 @@
 # NewsWatch — fusion energy News
 
-_Last updated: 2026-11-13T11:54:40.832765+00:00 · 50 articles_
+_Last updated: 2026-11-13T19:18:03.841225+00:00 · 50 articles_
 
 ---
+
+## What Could Be Revealed When General Fusion Group Ltd. (NASDAQ:GFUZ) Publishes Its Q3 2026 Update on November 16, 2026? - Kalkine
+
+- **URL:** https://news.google.com/rss/articles/CBMi4AFBVV95cUxQQnRLU1NnSmhDOE4zc1JxLWVUV0pIRUZGWWl1NUdxX2dvRkY4alAzaG1sUW9LM0lJZzR1RDJsN0FnM2YtRzhLSGRuQUc1R1dTZEg3UERPMllmUVpXT2xIcERMa1RZQWluX25KX3l2U282WWZKN0JBZEVEdnY0RzI5b2lDSUZMemIwQlB0bThNUTktRlFBdkVmUmMweG8zamtVNXV5cmFOQXVPS3IyR2x5MV91MWdHdWtMUnhyekdvUHNnZ0FoUkhqRmxsbWt4ZkloT0hDRmxtVUEtV1dUMGp0QQ?oc=5
+- **Source:** Kalkine
+- **Published:** 2026-11-13T17:55:00+00:00
+
+## Can Scientists Make Gold in a Lab? The Real Story - U.S. Gold Bureau
+
+- **URL:** https://news.google.com/rss/articles/CBMiaEFVX3lxTFBmZGJyZGVTS1hrTFdfQ1FkWldrSTlvb0M1Mk1nVGljS3o5UVBlbDZlSjVBWW5pUEU2V1lIQ00yakZYcDBnT0ZpMG0wWVNraHFUZ2o3T2EyMHdIc0psNHRHNnpocUJqWHZH?oc=5
+- **Source:** U.S. Gold Bureau
+- **Published:** 2026-11-13T17:12:11+00:00
+
+## IAEA publishes 2026 World Fusion Outlook - American Nuclear Society
+
+- **URL:** https://news.google.com/rss/articles/CBMihgFBVV95cUxPV0Q5bGNOa1BCbEYyRlNRemhTOVdWZjFDblpDOV9xRzhkNW1yUm10eV9JTjNmNVRMVUdYYWdWWmU1cmREaHVRTldsNHlib3p4Z0hnSUdoZFVETmhCeklhM2tvdXREeDhQV2dNdElnVnQ0dFd3ZlcxVEtVM0tXYnpZczhkem9IZw?oc=5
+- **Source:** American Nuclear Society
+- **Published:** 2026-11-13T14:39:14+00:00
+
+## Temporal Fusion Transformer Improves Power System State Prediction in Benchmark Simulation Study - Bioengineer.org
+
+- **URL:** https://news.google.com/rss/articles/CBMivgFBVV95cUxOZmh6dFVPdFdzWkFWZUNiUHFQTG5majZwYWtSd040dzI3QmQtTGN1TWt5MkNRaXY3RWJTNHhzR19FWENIOHZnMl9OeE5nRXE2bGo0SVhYSFQ4MmJUenNnMU9hNVJQRFJTZnVzSll4bDBSU3ZoOHFJN0xzanc4Ym1yYnJEVmtRT0VWRjJxQW5JZlYzZnpmMzZjeHZYd2duMzdKVE8tX1FZWjh2eXN1a2FDcS1tbjN5blplNldnS0xn?oc=5
+- **Source:** Bioengineer.org
+- **Published:** 2026-11-13T14:15:24+00:00
+
+## Russia Develops New Material to Protect Fusion Reactors From Extreme Heat - Frontier India
+
+- **URL:** https://news.google.com/rss/articles/CBMiogFBVV95cUxNZHVxSTdvcVRNLUFzRTJVOW9NYmhzLWNtWkJrMlljakV2WFY2VnRYc2JieFU0bTNFcHZOLVpvOXlnRzVzVjBScjkxM3JyX0ZXb25felRFcTR1X0VBTWYwMGJzNWdWOXl2azVmSFZBVmpRVjhyV045M1BhNmF1WEVIMF8xemNCNHROZmdJTGNnRW5rbm5fd1dJTzVUV3pyQVpDdnc?oc=5
+- **Source:** Frontier India
+- **Published:** 2026-11-13T13:32:00+00:00
+
+## Commonwealth Fusion’s CEO sees UAE primed for new energy tech - Semafor
+
+- **URL:** https://news.google.com/rss/articles/CBMipgFBVV95cUxPQUhIV1ZVRXJoN1hQQlZwNF9VcmpmM0U0MTBLV1RqY1ZqUUg0eWNyNEJ0OXdiY2tXTldDb1hLa194RlZXUG5YUkI0WlRTQ1RGRXFCdjY4ckYyZlJpN0RKelFRWGc0R0dialNUVE0tVTZvdU4yM1pkN21OUlBsTDlwTl9McWNKbi1ieE1tV0QyVnZnV0NRd3JWc2syS2t0dDVMZlZUU3dB?oc=5
+- **Source:** Semafor
+- **Published:** 2026-11-13T12:26:00+00:00
 
 ## India's Big Ambition: An Artificial Sun By 2042 - NDTV
 
@@ -267,39 +303,3 @@ _Last updated: 2026-11-13T11:54:40.832765+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMiUEFVX3lxTE5ET2w4R3Q1VzJfc2Q2NGJtYTJnZkpiZWJBbFZ6blJvbmw5NkhDWTY1ZGlLWmcxZ3FORS1HVVZTdkdkZUwwclllbHZoa0JRdlZN?oc=5
 - **Source:** WRMJ RADIO
 - **Published:** 2026-11-11T11:39:51+00:00
-
-## New £1.5m centre opens on Infinity technology park in Derby - BBC
-
-- **URL:** https://news.google.com/rss/articles/CBMiXkFVX3lxTFBHV01MazdZQkQwQVdqQjh6Y3dUMU8xUkpRSTZ5NWhpckFoY09sXzI1cTBoTl9wNFQ0aXhjanVYWmQtb3ZISHBxeFFvbmluVnJrQnFIbUJUMXQzcUpYbUE?oc=5
-- **Source:** BBC
-- **Published:** 2026-11-11T10:49:14+00:00
-
-## Google’s AI agents write quantum algorithms in Lean and prove them correct - Quantum Zeitgeist
-
-- **URL:** https://news.google.com/rss/articles/CBMiekFVX3lxTE91MWR4VE9WUnJaRUVIT3Fvd0hGeWtMekdOZjhEQllKMG5UNHZmRVJpRG9PZFBNSldUWmZ0ZTlmbkRsRGM2bmp0R2lkSE9mTmc2Y2tLdzBkRl90TTMzNXJ3bHdtSzlXa3o4RTBJbk5qZTBhX0xNZUx1TTV3?oc=5
-- **Source:** Quantum Zeitgeist
-- **Published:** 2026-11-11T09:00:00+00:00
-
-## [Big read] From underdog to deep-tech pioneer: Will Anhui’s bet on the future pay off? - ThinkChina
-
-- **URL:** https://news.google.com/rss/articles/CBMirgFBVV95cUxNekVEdkpBdzZkOTY3ZTZhMXFuNVhRaDlscGUwQVJod2FCRV82M1pZR1BvTjNtdTVBY1VBUGZGLTQ4NnRJM2lGLU1UTzhWckhxN29HOHNZWW1kQl9zSjVwTlo4M09QaTZReVE2SU5pTkxSVTVvQ3R3OFRyUEVyV1hUeHhYaFN4RXNLS0NhR25WUkxqblh0dmhEVnFrNW1vMUpPbFp3NVlPb252RzIta3c?oc=5
-- **Source:** ThinkChina
-- **Published:** 2026-11-11T07:39:02+00:00
-
-## Is the U.S. Finally Fighting Back on Fusion? - RealClearEnergy
-
-- **URL:** https://news.google.com/rss/articles/CBMingFBVV95cUxPdG9jUnl0dWNjSWdJN0NoeE41cWFfcW9XeV94R040cVNDcmJaZFR0ajhKaTVwUFBkQVRkaHdCeUwwTjNTUnhQQUdIVDBUbDJBWklGbHVqN1JZaTJGdUlqTURlTnFwWFZHTjRiZnowRVV1bC1HSGtRM1VWeXAtQWdCTk5wVFlYUUhlai00bTVkbGZyMUtiR0U1MHJaWUdYQQ?oc=5
-- **Source:** RealClearEnergy
-- **Published:** 2026-11-11T06:27:17+00:00
-
-## Europe’s nuclear revival: the hidden cost of energy security for the AI boom - Sustainability Online
-
-- **URL:** https://news.google.com/rss/articles/CBMiugFBVV95cUxOMTBJUjN2RkhjOVhsTDhBX3dpNVUway1DQVNjTUJHNXFKZUNQZmFfUGVEVzE0NHQxbE05cmJzRmFoQlJHWEVCZ1BUZjRWUEJac213RW0xakRmeV84UlAtZ1dJUHZUemZRNTc1QlRKMDZ5VWtzeXM3WmtYLWs4ekRKbERYWnlRa0p5TWMtLTdaM0NXZi1uTkxQUWhIbkFXT3V5OUJHaUNhaVNRMERPeUpHRXBWSmgyUHpILXc?oc=5
-- **Source:** Sustainability Online
-- **Published:** 2026-11-11T05:02:51+00:00
-
-## Auburn physics students take on new questions in quantum materials and fusion - Auburn University
-
-- **URL:** https://news.google.com/rss/articles/CBMijAFBVV95cUxNNndqQ2dQN2NBNExvQ0ZvYkFhNjhxTEQwOUpQQ1pXeXA3YXVYb20weldJR3RSbXFDR3ROaDUzNVRSc0Jtd0FUOFlnX1lmWnNDakJHNFdCUEhIazIzVXBMdjd0ZzRUOGFlSTdjNkpIYXdoZzA1RHJFNlp2Rk12SEs3ektNbk9XZWZzQzhaQQ?oc=5
-- **Source:** Auburn University
-- **Published:** 2026-11-11T02:37:30+00:00
