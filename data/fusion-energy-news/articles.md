@@ -1,8 +1,26 @@
 # NewsWatch — fusion energy News
 
-_Last updated: 2026-11-14T11:14:55.016411+00:00 · 50 articles_
+_Last updated: 2026-11-14T17:43:43.853212+00:00 · 50 articles_
 
 ---
+
+## New to The Street Show #780 Premieres Tonight on Bloomberg Television with Robo.ai, American Fusion, Stewards Investment Capital and FreeCast - Corsicana Daily Sun
+
+- **URL:** https://news.google.com/rss/articles/CBMikAJBVV95cUxPMVdZQkwzQmI2Y0FnNkE2YlI3ZVZrTFdsekhVVGxCbXFJbjVEaFJ2YXZWSWEzMV9GY1pYM1ZZRHVnaHdjZl83SUlXcGp2ZVB2QkZYS2xfdm9IZUhvN3FnRFdvN09vcHFHeWxBY0ZMQTQ1Mi1oS3ZPSXlnYmgzc01MclBvOENiSU9KM05JMnQ0VnZVNEZpYjZIbU9zWGoxbUN2OTd4RFpjenNFdVZjRS00UURWUDdrOHdrRHJrU2w3YUM2WDRjbEx0MUNoUW9JVl9IUGViNzZVRWpCWVllTGs0elJFZmlHTkZWZHE1U1RWbUc1bDMtTkhFQzZTYnhlWnhHeVNFdGpRT3BRd09ReU5tXw?oc=5
+- **Source:** Corsicana Daily Sun
+- **Published:** 2026-11-14T17:22:01+00:00
+
+## New to The Street Show #780 Premieres Tonight on Bloomberg Television with Robo.ai, American Fusion, Stewards Investment Capital and FreeCast - Yahoo Finance
+
+- **URL:** https://news.google.com/rss/articles/CBMingFBVV95cUxOT2hlcWppa0hEdldfNEdtd3pSR1M1OWdQdThfdG5lRGpIcTJOMFp5bUFpSWxfTWVMTG5EbnppalJCLWtvd1h2NEhUVkJhY3MzWmV4VmdwTE9pSDFmcmQ5SUI5RVpkcGRmdzQ3ZkdsMTR2QU1HVTVnQ1lHZzdZTTlmeFNaUU1DcVM3R0xyby1fME9BNUcyNTZtTW5NRXZOZw?oc=5
+- **Source:** Yahoo Finance
+- **Published:** 2026-11-14T17:18:00+00:00
+
+## IAEA World Fusion Outlook 2026: AI and $80B Gap - CASRAI
+
+- **URL:** https://news.google.com/rss/articles/CBMiggFBVV95cUxOdXBYZW1nOWR1cDVuNjQyVWZiX3lOcXBOejdLcmtuRXMydEp1eVlwM3JVdlpJUUhVWlo2ODRuWmp3Wk5Id0paVFdrMGQtaUdrNnp3UnlUcVhhYXVfX0x4Y0pCVFN2SFRqQjRnSHMySm0xSnI2R0s5R1AtV3I2Smx0V2FB?oc=5
+- **Source:** CASRAI
+- **Published:** 2026-11-14T13:43:27+00:00
 
 ## The 330-tonne magnet built to cage a 150-million-degree plasma - Interesting Engineering
 
@@ -285,21 +303,3 @@ _Last updated: 2026-11-14T11:14:55.016411+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMihgFBVV95cUxNWEJEbDJQdklKN0V0dkctWWxUTGZKa2lIWWc4S21acHh6NWcwSWtnUnF1RXJETU9UUDV2TFpRdkFZdG9rZHlzM2prYzlrUzhvTnhsWWpRWnBmYWhUVHJ0Yy1TZm1nbExWOEVvS1BUM3lvbl9Pb1FKTTdHODV4V2FQVTlzeW5GQQ?oc=5
 - **Source:** NewzTodays
 - **Published:** 2026-11-12T07:02:01+00:00
-
-## Fusion Energy Focus Shifts to Superconducting Tape Production - NewzTodays
-
-- **URL:** https://news.google.com/rss/articles/CBMijgFBVV95cUxNUjNXMVBhX2UyZnFuV2J5NG0zRmdLZ09DQXpUd0xDcUFoZkhjNTNBRDMzWWZFMThqVHpsQWg4MGFjcU1IMVV4VzN1Q3czc1ZFNnltSUJTUy14QV9WSFNSOXZ5cXdud0JydC1MMlQyakl2MHh6dTlfTmJMdEktUXRJWWFmUFZBYWwtY1dNWkd3?oc=5
-- **Source:** NewzTodays
-- **Published:** 2026-11-12T05:50:01+00:00
-
-## Is Nucor (NYSE:NUE) Riding Higher Steel Pricing? - Kalkine Media
-
-- **URL:** https://news.google.com/rss/articles/CBMinAFBVV95cUxOeURRMExnSDRRUHdJR1BycFRDajlFd00xLW9hWVpnYnB6X3dqQUZTZVJ4TXF1X2lDZGxnSExlUUR4SWZiNDV2MS1ONTlnUU5uS3gtM3FlcjBoS0oxMUY0dGU1MHVrd203N1RhbWFrNnV6SlZLbjlYZHJHbk91Tzdnd3VQVUR6ZkZlUGd1eG1HTnpMNzZ2MGd3cENpbFk?oc=5
-- **Source:** Kalkine Media
-- **Published:** 2026-11-12T05:39:00+00:00
-
-## Accelerators Map Material Erosion and Fuel Retention in Controlled Fusion Devices - Bioengineer.org
-
-- **URL:** https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTFE1bHFLemN3OElhdTZqR3pzUjN6ZFh4a19NdUpZNmhjTmlEUW9IeEdIXzhkTkJSbHFYb0c4eVRSLTRQZkViMks4cm0xOWg0QjM3T2cwMWUza2RlVVhJQS10RHUyaXNQb200SThyQnBGdnlsbF9qSzR4WUlSWkZjYW5ESFluMFptVVlhUWlkOUg3MUZiek5icXFwWWR6RU1GQTZ4SFg2T2pBdw?oc=5
-- **Source:** Bioengineer.org
-- **Published:** 2026-11-12T04:02:58+00:00
