@@ -1,8 +1,116 @@
 # NewsWatch — Iceland News
 
-_Last updated: 2026-11-14T00:43:08.118717+00:00 · 50 articles_
+_Last updated: 2026-11-14T11:14:53.903997+00:00 · 50 articles_
 
 ---
+
+## Iceland PM appears to dodge Macron's embrace in viral Dublin encounter, sparking online frenzy - Connected to India
+
+- **URL:** https://news.google.com/rss/articles/CBMixAFBVV95cUxNa3FBMGloWWVpT2JabEZkVHNGMF9qZkJYYlppckU1aEVsdkRVcURDMmFCb0RUZ2trTjc5QjM5bjRvT294bE9nUTVoc1JqMkV4eGFfUkEzemlBZHp6SlQ3SHc2Q3JOOGhyZmZWVENRaC1SdTdWQm01QzlzRTl6dXdERkRWWXhEN2syNWZUelFjYlhGNGJKRUZkaktYYmlaQzd5RDRGejlWQ0txSEItZGFYU2lKTnd2LXEzUmNDTWROSnZFQVNZ?oc=5
+- **Source:** Connected to India
+- **Published:** 2026-11-14T11:03:45+00:00
+
+## One in Four Icelanders Has Lost Someone in a Road Crash - Iceland Review
+
+- **URL:** https://news.google.com/rss/articles/CBMijAFBVV95cUxNYUdyZENwQVRmOWZaZnE5clpHRXlKaG5Fa2pWeGtza1hCY3BvcTMxU2JQRzBTV2NlVmVDODBqZHlFcldBTmU0UDNCdm94MmtRbUZWaEIxUnRUZ3pBYkV4UzBsejFHNHpVNHBmaWFQSS1EeVRwa3RKdkZNc0ZoSDBISnpULWotRVVId3pReg?oc=5
+- **Source:** Iceland Review
+- **Published:** 2026-11-14T11:00:00+00:00
+
+## Italy-Iceland | UEFA Women's Nations League 2027/28 - UEFA.com
+
+- **URL:** https://news.google.com/rss/articles/CBMifkFVX3lxTE9SQ1V2RTM0eEg2V3BWaWVPYkFVYWtzbE5lLWFIZEZoRlJYS1RuM01sYWFwdFcyeUI2b0tyZVZTa254Sl8zTVd3TnM1bThNMHZCRGF5UllRMi1DeFhhdFJZVVU3ZFdMRFhCX2djZ1NpR2ttZEpGbG56bWZUYVBhdw?oc=5
+- **Source:** UEFA.com
+- **Published:** 2026-11-14T10:43:05+00:00
+
+## Iceland-Wales | UEFA Women's Nations League 2027/28 - UEFA.com
+
+- **URL:** https://news.google.com/rss/articles/CBMifkFVX3lxTE5FeWdTTTFxSThqYVpkelBWUWozdUtBWkFpaFJHOEQ0aW5yVUdES3FzYkF0Q3RGaU10X1hyNWxjb05hbmtaczNCNWptV0NkRWRwRUx5a3RvWUU2dDU3ZWxGaUc4Y21TRHFxUDBIUXgxQlVPVGx2ay04aUJDdFdrQQ?oc=5
+- **Source:** UEFA.com
+- **Published:** 2026-11-14T10:43:05+00:00
+
+## Iceland Airwaves Day Four: A Love Letter To The Streets. - The Reykjavík Grapevine
+
+- **URL:** https://news.google.com/rss/articles/CBMisAFBVV95cUxNa00yejBpSVV0T0EybDFCNWxWUHhOdVk4TG9STF9iMnlCa2JKZTBoZUtxa0lJVHZYT0lydVU3THlQMGFMZXJjZGp4LTBjNEhnSmpJczE2N2wwMG1kVHBITVdhZld4N2kzUGhsT0k1VGVjbEc4c01pSXBUSmdZcnRlY0ZLbWFRdjdxdW5zWHhfdFlZcmRXTDduYlVTQi1oYXpXSnB2WHNlaWYyR3hzYlBaSA?oc=5
+- **Source:** The Reykjavík Grapevine
+- **Published:** 2026-11-14T09:52:40+00:00
+
+## Nations League highlights: Bulgaria 0-5 Iceland - UEFA.com
+
+- **URL:** https://news.google.com/rss/articles/CBMi1wFBVV95cUxObmoxRXgwYlFqVjJQU2gwTkNzb3Z2U1JaOEY5ZFo2ZjhuQ3RUc3QxN2F3aTJ2S21uZUJ5c1d0OXZpU3ZPM0t3dnpNcEE3RnZCcXR3Qk4wS0EtSzJGYXB0bXU5cm5JTXVqaGJ4ejlFSVRzUE1oTnVsNG5UYzg2N1pxNkFxQmZXcF9yR2JxSU9DUndoYVkxdkNtOWF0cFBCb2Nvd2FPalVoVjRJdUw1LU91bXR0Wkc4WnJ2VDBNdkEyb2pLWldpQ1Z5SkdjT01NT1owRC13c3BOVQ?oc=5
+- **Source:** UEFA.com
+- **Published:** 2026-11-14T09:37:02+00:00
+
+## Why The Atlantic Ocean Is Getting Wider - WorldAtlas
+
+- **URL:** https://news.google.com/rss/articles/CBMihAFBVV95cUxQVnhkaFk3c3VCNFZETUhZN1R3bTlhME92aTB0c1ZOZ3ZtR1gyU1NISnVIN0hDNHB4cHFCNXdZMEoxMTNsVlZISXJ1allnakhYSlZqdHI0NnRhY2xWUjJ3ejcyeDFPQkhDSUdFYnplMHNLODBfSmpaenM3aDJmR0t1bGRnR3A?oc=5
+- **Source:** WorldAtlas
+- **Published:** 2026-11-14T09:30:00+00:00
+
+## Iceland Publishes Processing Time and Requirements for Visa Application - Legit News
+
+- **URL:** https://news.google.com/rss/articles/CBMioAFBVV95cUxONDJkMjRCYUlRR1BzdENiR3BNcXZWQ0dubWxieEJlaDVRNlNCY1FNYWNqUzJiVmVDTVlpVUJqYUdfTlFUTnp4ZEtidVBXZUF6ZzBkODAwWU9Sd0x1VG91VkJ1ck52WTNpbGt1NjREelVDZS1aSFZPSWhpdmFvbF9xYnRuYkkzYlR2bG5KM0paSlJaTTd1bjcwRmJXeUw3aFhW?oc=5
+- **Source:** Legit News
+- **Published:** 2026-11-14T09:02:29+00:00
+
+## Macron’s awkward embrace with Iceland PM Kristrún Frostadóttir goes viral – What happened? - شبكة تواصل الإخبارية
+
+- **URL:** https://news.google.com/rss/articles/CBMiU0FVX3lxTE5qMUIwaDY3MWEyUHAxNTRsWEJXSTZRMUNGdXRBWm56cHZMLXJ2eVNMdHhtU25SLXFJT0dJbV9rdE1Jc0p4d2xUNDVycXIxOGFqME9J?oc=5
+- **Source:** شبكة تواصل الإخبارية
+- **Published:** 2026-11-14T08:42:56+00:00
+
+## Macron’s awkward embrace with Iceland PM Kristrún Frostadóttir goes viral – What happened? - WION
+
+- **URL:** https://news.google.com/rss/articles/CBMizwFBVV95cUxQSUdrQnZKZlJLU0hYNjhzdFFGdi03SHlvQ2xaNWJEUVhKNlFsTFFPLWpGVmFjdDVKamFlT3R6NjVjTUtZdktBLTdDSm55V0lESm5rWTBkSDNFclpENWJGN0o3TVI5WFFySTF5OG5RSG44RU1ZWHNqOFczVXNFdDV2SDhxa3E0NnVXOVM5VUNtTkZrY2VEQzJQRDBqNmtyYW9XS3BLSjRCbTN0UU5LVTBJU2JVaGduYlVaTFphcXlWSmNXcVJKeEljQVM1X2JObWPSAdQBQVVfeXFMT1M0YVBoUEN0WlFSczBIV2V4Yi1KNHRZRlg0NXc1MVpzeGR3dUxvdVJZMDVtYmI1LXZwRHJIbUxBb3p0RUw1a2R6d1M3MHRXbVBnYVJXd1NWamNQbVhHNHhIQzNEZFJiZFFZUFdwMW44bVRLYjlQM213dkdhQTZNeXBEUVNXdG1MNm45c0ZLWFVNSHQwaTlDYnVVX0t3bVRMdWdrQU9na1h6OE93M01pLWg2dW5tcmxjamNkWGliME56aU55OC1wNzgxSVdxdnVsYzAtZ0c?oc=5
+- **Source:** WION
+- **Published:** 2026-11-14T08:37:00+00:00
+
+## Beið margar klukkustundir í flugvél - RÚV.is
+
+- **URL:** https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZmJlaXJZZUlvTnEwVFJvZGpobFctTEVQeDUxTWZHT1ZmQ2dpQmFfV3dmUkNFcVladHRMMkRnRFdsLTMtWkpUWk5TbkNDSGdFTWNzeG1GOV82LXppSmRBc0g3bms3RlcwMjFCZFF1b2RZclg5MXRPYW96aUlULUh5MFFiZ0dOMjVnQkow?oc=5
+- **Source:** RÚV.is
+- **Published:** 2026-11-14T08:14:00+00:00
+
+## Euro Truck Simulator 2 Breaks Player Record After Iceland and Coaches DLC Launch - BoxThisLap
+
+- **URL:** https://news.google.com/rss/articles/CBMidEFVX3lxTFBQQXBIX0NLZWJuUjYyRHUtTWdQeTdLcTNqcHlBZ25sWTE2aTBNYnY1R2dXUG9mUW1qLTFpM21mZS1aWnQ1VTNsa1hWTWtwUmlSQTdVbEtKUGVZd0hWT0RPWFA0STJsWWRDYzJmdWVadTItcHA5?oc=5
+- **Source:** BoxThisLap
+- **Published:** 2026-11-14T07:58:25+00:00
+
+## Blue Lagoon Share Offer Draws ISK 15.3 Billion - Iceland Review
+
+- **URL:** https://news.google.com/rss/articles/CBMihgFBVV95cUxNOEJTM3FEWlVXTmlwdnBRdTdOWUpvNGRrUDRIS21oSk5iVTZrbG1QaXNIX2Nnem4zemVrcXhYTUJ5ZU5MSUNpM0dpbTFpWjhLT0JjV2ZDdjlJaFpWejM0dkdQSVYzdHZPeG9PanBnaHVMMm5paHcyLXNVTmtqNUJVTzBSdUhNUQ?oc=5
+- **Source:** Iceland Review
+- **Published:** 2026-11-14T07:00:00+00:00
+
+## I've just eaten Iceland’s £30 Christmas dinner in a box - 3 words sum it up - Daily Express
+
+- **URL:** https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZFBQc1Q5a2o5YkpRdGJ3a1pKQjRlYnVSaklwTktiZWloMTNrRlJ3VlZ4M3BxLWU5QUlsbHVic0ZmVjVQUzV1Z3ZMc3Utal9uNlpJcm5qeFdDbXVwNXM5ODdfb2VSTHRmN0lHVWhaNGdJeURnZjVBVU9BOXAtWmZ0NWd1Vk5ESFBlRUtr0gGQAUFVX3lxTE53Yjh3bExCcVk3MVJQMUIxRTB6bWFMa3d2X1lGMHJSMjFWQTMxR0JBMFFWWHJ2SHh3NW9FNC1pZF8yY2ExWVJ4a19mRGVRcDBzMVBsdkxBRW9xcW82bWhBVEpoc1BPUDk2ODZFNm5QRDNfcHJTRGs0U3JVUk45a1luRDNfeXIxWUFjZlZXWVdtSg?oc=5
+- **Source:** Daily Express
+- **Published:** 2026-11-14T07:00:00+00:00
+
+## Macron's viral hug moment with Iceland's leader steals spotlight at Dublin meeting - Bol News
+
+- **URL:** https://news.google.com/rss/articles/CBMirwFBVV95cUxOX0c4VS1hbmFMRU5lanU3dW1hTlhWVXpxWnBwbFV2Zl95d2NseFRxcG9TMF9Zb29qem5UVFZGa0J2Nmp3RDFCNnlrOHZJRkFuVHB1VGREVW1WR1kyQS1qVDB3eWxtdU1YU2FQUFI5OGVnNE9DeWdjT2ZhdklBTnk0NzdESEg2dklXWV96bHBGVUZBZ2dvYlNMcGVVNm01UnZUMENJOHJIYVRDNzhSMG84?oc=5
+- **Source:** Bol News
+- **Published:** 2026-11-14T06:54:16+00:00
+
+## Coventry School Committee Approves 2028 Iceland Science Trip - Uprise RI
+
+- **URL:** https://news.google.com/rss/articles/CBMiqgFBVV95cUxQaDNWUFY1U0R4bkZ4SnJuRnJWODB2bVBEUTB1a0xBZFBpbFZNMDRoZUFXLVMtWDQ3aHhLa1p1RlhHN19UV3RMRG93UFQ5MU1zTkFSUWFJYTNTdlBUS3Bma3hwNGpuWlhuSy1JZmVwSGJxVlEzdDc1SkN2RmN1UTNaRjV5UGJteVNsS2k2Q0FRYy1tYkU4NERYdzAzWUJFWmtha29IaDkzb184UQ?oc=5
+- **Source:** Uprise RI
+- **Published:** 2026-11-14T05:54:18+00:00
+
+## Brick man wins big on ‘Wheel of Fortune.’ Here’s how much he took home - Asbury Park Press
+
+- **URL:** https://news.google.com/rss/articles/CBMiywFBVV95cUxNZXJmMXU1emcwVjRtQ2xUXzBjcGJlclVYbzdjNjdZcktld2JCWkpJdGtYWjUyWDd1U3dHcTl0SndnUUdFS3l2Z3RncVpXdXpROVYwTjBVaFBiZ2dud1FoejlOem1EM0N2ZVdDQUY1THFPZkJmbVl1ckFsVXBRd3cwaU5FVDV1TV9JYkhlZ3ZjSHFMZUY4T2FLTzhNWUpKZ0s2YngyMVFLQTBJakZLUHBWOVprX2J3c1lXMmpvTHNteVlkMHVZTTRWN3c5NA?oc=5
+- **Source:** Asbury Park Press
+- **Published:** 2026-11-14T05:23:00+00:00
+
+## 2026/27 Nations League top scorers: Harry Kane leads Michael Olise - UEFA.com
+
+- **URL:** https://news.google.com/rss/articles/CBMi2gFBVV95cUxOUnZ1YWVrQ0NKY3VDSnlLQVN0Y254OU9lZmRlRW9wcVhuRDY2Uy1GQ0Z4MUQzSHZ3QldUU0loUEtwNlo3S1pObmM1ZUllVVd5d0trb2I2aHBDQ0VJSS1LR3AwUG8td3FYV1dwZ3NFQjd6c3V3RGdyd1dWMm9vMUl5dkhVNERkdlo4c2tzdXpzQTFCVGFRMTc2elZFRnUtX2lNWG9INXJOWUtHeXdaaXpXZElmbE5TMlczODFGVTNCbjRfT2oteGE5MklaQ0FFRUMyNGJ3UlZGYk1MZw?oc=5
+- **Source:** UEFA.com
+- **Published:** 2026-11-14T05:00:49+00:00
 
 ## Eurostat Updates EXT_LT_INTERCC Trade Dataset for Iceland, Liechtenstein and Norway - News and Statistics - IndexBox
 
@@ -195,111 +303,3 @@ _Last updated: 2026-11-14T00:43:08.118717+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMiuwJBVV95cUxQcFVrVHhBM0tfemRVdWk3dmZsZ3dQUzF6T3ltYkYtdlR0NVljNnc1OGZmY1ozUUNrOGhlSnVRZ1RCaVVEc2dxSDlfZEhYaFU3V0UyNHJrZXdON3VOa1QweW01eTdvY1plOFdqTFlZbHozaEJ2V01NZ0hzQVRYSi1WYUJGY2Z5X0xYOGl6cE9TSTdCUkx6SjgxTVN5YUloTG00aGNvR2dkX3FROXUwSkgyVHhhMUF3QW51cGVJYldYVWx2bG1TZUt3LVpPUmhfSnB3c2ZySzFqcklXbEItSk1IUllDcTFHVjdhdWo3bndxT0JxSV96bnJFbFByUlRfRGI4cWRiQXM0TjV1eDJvN2pvSjg2V1djSmZ6MVZNbk5BVXVIdU5adW5fNEpsNEd0U0xlTnZ3c2pFSHVPc1U?oc=5
 - **Source:** 日本取引所グループ
 - **Published:** 2026-11-13T19:26:19+00:00
-
-## ‍‍‍~$!【LIVE@FOOTBALL】 Iceland vs Bulgaria 𝐋𝐈𝐕𝐄 𝐒𝐭𝐫𝐞𝐚𝐦 Ｔｖ Ｃｈａｎｎｅｌ 13 November 2026 - 日本取引所グループ
-
-- **URL:** https://news.google.com/rss/articles/CBMiuwJBVV95cUxORUQ1QXFDU3FMT0dYLVlORnRJX05ITXZVZUdXTm1VVHhHNm9pWWItM2Vsd1g5bzd4bEl4akZfdmhqNDJNSEREWGxLVHJzajJFUy1aOTczaDhGYjZZeEFHVWFPbFR0V0dsX1ROaUMzR3YwVUdkUU8tZEFoV1pGbFo1aXNBc2ZBZUFqUk1VNG0xQ0oyNjdNSnVSaFIwaFhrOXVXamlYSnBhcUJsUzhjVkhPYlQyVTVjcFhfR3Jpa0drVWdkZV9OUTR4ckU0MGNaWFdlU0haZWhwX0hDMWhQNEd0YjJpTFZBMWM4T3NFVGlUVGNuT1NvRloxSmlPel9HQkZwR1NXSHoteUlKSGZUVmxyZTdKOVJqZ3MwVzlWUUxfWkttNlZtaVdrNURZWHFpOGotbHFxSGtZV01TWkE?oc=5
-- **Source:** 日本取引所グループ
-- **Published:** 2026-11-13T19:26:18+00:00
-
-## ‍‍‍!+Here's Got the ways to watch Iceland vs Bulgaria 𝐋𝐈𝐕𝐄 Ｓｔｒｅａｍｓ Ｆｒｅｅ ＯＮ Ｔｖ Ｃｈａｎｎｅｌ 13 November 2026 - 日本取引所グループ
-
-- **URL:** https://news.google.com/rss/articles/CBMiuwJBVV95cUxQaXc3bW13dEJEcjQ3c1dZWFB5TnJMbEFlUXZGNFhoMXJiZTFWSmFpMTRlbndDSFlsdlFxUXc5eElMY0tvQTljVkN5RXo3YmhPWkszaFJwWkNpSGRka2pJWmJDZ3Q0UHFpMjQ4eVZTcC1JSzJMWFpMYWhtVlhDUHNYNGx2Zk9ReElJTURsRG9VTlFrTzRwR2FJUEk1T0N2dVV5a3ByUEJNeVNmR3JublZ5TkhHc3dXMnp3MzFzM2otSk1EdkFvek9mQ2pyeGpWUFBaX2pPejZZdTNoTURLVlFQUzJNNG5mc1FxbDZWNkVzT0V3bXZsSVhKT0p1QUs2dm5HREpoZm1NaldWc2l6c3VBX1ZfS3ZmMlM4d1ExODE2RHdGVDdnT2l6clg4QjllZGpXSDJ5YXppZktTRm8?oc=5
-- **Source:** 日本取引所グループ
-- **Published:** 2026-11-13T19:26:17+00:00
-
-## ‍‍‍[WATCHLIVE]SKY!] Iceland vs Bulgaria LIVE STreams ON TV Channel 13 November 2026 - 日本取引所グループ
-
-- **URL:** https://news.google.com/rss/articles/CBMiuwJBVV95cUxQR19lZXo0eVZDOW9rbGpKWEN2U0pGMUhYT0ROTllydjJPVzFzbVlUNnR5UmxrUG9FUW00Q2dITloxUVN2ZlUtU2VPYjVKTGt2M2JfemNmUUpjWWoxdVFrVUJNZXhNUFUwQTdqTk15OUJIT1dsaVE1WGRYZ25CQmhOYXNTOHIxQW5Temp4RmNsc3hOcldQTmQzcnJKVVJaNHU0eWRGMzdZWEo2OFhLQi1DZy1uaDlzdkV2eEU0ZmxyT0tGTTJVUTI5T0xua2pIOWhPMmJiX0FjQnB2RlVqLUd1VHAtLW5SVm5JS1BGN3pqUXh1RlNFcENLRVhOMHpSYlh5OHVPbHEyNjRyTmtwT0ZodzdPV0ZxMkZDZUVYbmh2blRkcVBhekVheGs3NWNMT2trSG4wR3Rhb0prSjQ?oc=5
-- **Source:** 日本取引所グループ
-- **Published:** 2026-11-13T19:26:17+00:00
-
-## ‍‍‍+##+(LIVESTREAMs!) Iceland vs Bulgaria LIVE STreams ON TV Channel 13 November 2026 - 日本取引所グループ
-
-- **URL:** https://news.google.com/rss/articles/CBMiuwJBVV95cUxPd0NNTGRpTmlEelNrSGRqSU9LYlZEemxPWTZUTW5nVUxfdTRXZTZEVmdvdm14ZWVsRV9MTU1EVUN2NTVIZ0FGS1B1NWdrclR6YlI5N25zZzU5ZEVXZnpEVGQ0ZVBudW5fbDFSWFdXWTBSNDRvRkc0eW0yRVhrSUoxZ0xtSDN1T0g1X0Y0Ujk3WklVakN2bU9sWUU1dHNDTTBEdUZLSGFKd2VvVTNKU3MxRE00UXZqcmhhWlc3VzA1WmtzVDUyTzlMZGlLdTBxbzZRNU1wRmxEbTUxUHlXUENpdUs0R1ZPWmFsQ1pseElGbW1CVzdDdEhtX3NFdXI4dGFSbHpsWmtKZEV3S2ltRjBkNWpUd3pVMTVpa0l6VWM5SGJ2Q1ZHNmUyLWhtRm9wWDdXQWlrOGtpMXUxUmM?oc=5
-- **Source:** 日本取引所グループ
-- **Published:** 2026-11-13T19:26:17+00:00
-
-## ‍‍‍=+![TOTAL SPORTEK]! Bulgaria vs Iceland 𝕃𝕚𝕧𝕖 Ｆｒｅｅ Ｓｔｒｅａｍｓ - 日本取引所グループ
-
-- **URL:** https://news.google.com/rss/articles/CBMiuwJBVV95cUxQQU8yMEhBMC1IS3pIOHlvSzZYZnFBVEhWd3RmVmZmR0wtZ0tRSFQ2cEpEY2lNNjRWZUxjNC1hTGxITTZuWUJRcXVkd3JCNmR5QlJKMjZtM0tiYkJWNVVOOFpNN05sU2JRazRELWdlcDBmTGVKdWJCZDhXUHotNU9VZUVHaE02MHdobmJ1QWF1bjY3YjczRUpfaVA3c2hQVFZFM1FBTTI5c3hrNVhzVlJKVmJld3BBdXd0eFFDaWVtVWkzZmF5VmVfalhXaGljOTNBSlJaRi1iY3VXdjZuVXMxMTFTSkFFd1RzTlRUYUtBVGZHZ0lQb1lTS1hsWlhla0thTUhOSDFSRm8wYTMyUFlGdF9MMUIxNEFWMldiYnlXZTNGVWNwS2xEblQzckJBTEd3TC0tRVhSQVE0YzQ?oc=5
-- **Source:** 日本取引所グループ
-- **Published:** 2026-11-13T19:26:12+00:00
-
-## ‍‍‍=+>[LIVESTREAMS] Bulgaria vs Iceland LIVE STreams ON TV Channel 13 November 2026 - 日本取引所グループ
-
-- **URL:** https://news.google.com/rss/articles/CBMiuwJBVV95cUxNWmZycE1QbDlnc3ZFUWhkUnhLVVRXMnBpc3RJWHJwZ3MwRHlzZTFEbWp0MktXcjZnX2E5cG9DWGl0cDJFNy1ZcVdMZFctVVRpRFIwQkF0R0V1VWpEYlFLRE5WeHNsbFcyZUtZSUVyM2VFSGhSenZmSFhuNkozMXhfN0NtbDJHY29zVHN3S2lyM1E0cnFFOXdZVHJhQS1WTmZCVkItMUxzUWNzeWJidS1fNndqay1qaWpFbmlwb0FWZ2Y5TFBQWDNnemNZZkVxTW9reUlLX1AxRmtnejV2bDJ0bGU5dlM2U293VDczSFZidlBVZWxRY2x3anBIS2taWmJCeUJIbnNaOXMxMWwwYnROTy05TkE1cEI3bGpZamRMOE9JUzJNb2k3ODd5Sk41cndnYUpiN3pWTjVSa3M?oc=5
-- **Source:** 日本取引所グループ
-- **Published:** 2026-11-13T19:26:12+00:00
-
-## ‍‍‍【LIVESTREAMS】FREE] Bulgaria vs Iceland LIVE STreams ON TV Channel 13 November 2026 - 日本取引所グループ
-
-- **URL:** https://news.google.com/rss/articles/CBMiuwJBVV95cUxOenp5eTlXRWxrTldVUjlsT1VhWTBnbklIZl9rZUxVdl9ncmN0WUpsOEJNSEwyT0J3SW1QQ0h3QzM0TEZxdE9hZXllWGhfWnJvOTFoSGRCNWtfMkFsb2ZqUnJrLWtKWU5xbzRDT1hRWnI5dG5oUHZqeGhPWVRXSVFsclFzWlA5RUN0R1hkS3pCczRnN3dnUEs0T0FRck9fMnBCZEh2NlVJTWRacWxuRUU5RGt4RHdMN3luUlRHeXB0bEphQk5UVGpKWk1Ta2xMN2xvM0ZNNEVUWWFrN1NYbG50YXZ0ckhyMEtIN3JESUlLLUdsYTc3V2FmUXpyM1VVRDA2amNDWTRhVlUxRFUyZjI5VHpUa0xUWDlVamtPZS0tcDBwcXpIdEN2Yjk1V2dvQjR3WkllLTJrOU9aZEE?oc=5
-- **Source:** 日本取引所グループ
-- **Published:** 2026-11-13T19:26:11+00:00
-
-## ‍‍‍=+![TOTAL SPORTEK]! Bulgaria vs Iceland 𝐋𝐈𝐕𝐄 Ｓｔｒｅａｍｓ ＯＮ Ｔｖ Ｃｈａｎｎｅｌ 13 November 2026 - 日本取引所グループ
-
-- **URL:** https://news.google.com/rss/articles/CBMiuwJBVV95cUxQZzdadF9pSmRGQzcwdFlmZlMyOFFfRzFKamgwQk0tTWVIVDVOOER5bnJfNzAyVHRGbTZIeGJzTVdfaFhIVnRpdzVNVnR1QWtzbmtaR18tZTJoZWdnbzdfNVFvZVF1ZFF2dHZWUjZzTDlEQUI1bGZValpNdnZGWnFLMGNhcDBpTlpiUWZSNnlwUk9Td0VRbUstQlZMMzZlbjhIWWhlRjFuaDFWMHZSOWExRXFPOFBHaWl0UWJKbEdfYUtTV012X1pna3BEMHo0TkNQSmxpY1hyWXdQRkxDOGRNRU1PNmdmbWZiYjBhWUtwNm5OemQ0VHFxQXJPa2tZQmw4QVNwQlZrb2ZnQzdQOTVmZF9sNmVkMzdrX0NHSWh0YlcyMFk2eGdzV1VRb3RCU0puSGRieW42Umx3cTA?oc=5
-- **Source:** 日本取引所グループ
-- **Published:** 2026-11-13T19:26:11+00:00
-
-## ‍‍‍~!~!【LIVE@STREAMs】 Bulgaria vs Iceland Live Free UEFA Nations League 13 November 2026 - 日本取引所グループ
-
-- **URL:** https://news.google.com/rss/articles/CBMiuwJBVV95cUxNdURZV29aejJHZWxwYXVlTGZwamkxcnlzMnFmLU5QRXNPX2VSOV9tUXhvNG0zZWVSVm56SXZqNUFpd3Y1ZzNYUUNtUE5tMnMwMkYzdzJGNjcwY1FiLVJmbzhnUzV4UjJZYi00UWJBSWtyWnZ6eFdxNUZpMVFTby1mY19HYUtNOXk1a19rRVhNZVMtaDF3Y1luMERpU29PRXNKalloR0hPNzRkeURnQVA0OEZjMEptTjFFelNMVHE1cXFZYnY3bUdyR3lMak0zZ3RhUkxHX2t3S3NVUW4wSjVpZjFydXNuNG4tNmZGNzEwcTVsalN1T0VGMHZnV1JBaV95MGVyQ2Rua2ZFcHNncTFoUkN6RVp0QjZUajhadENMQTNjMS11U2NwMzdFbE9qSkR4cEZYZERLZ3F4aVE?oc=5
-- **Source:** 日本取引所グループ
-- **Published:** 2026-11-13T19:26:11+00:00
-
-## ‍‍‍TV~[LIVESTREAMs]!! Bulgaria vs Iceland 𝐋𝐈𝐕𝐄 Ｆｒｅｅ Ｓｔｒｅａｍｓ ＯＮ Ｔｖ Ｃｈａｎｎｅｌ 13 November 2026 2146 - 日本取引所グループ
-
-- **URL:** https://news.google.com/rss/articles/CBMiuwJBVV95cUxQSEFFT1hmNjNDRW1WZ2RJMlNjQ2hpVzktaFFUV0RLSlVyYUExbkluT3JHMDRtVUpoYzMzZDZNNW1Ic09kM0pTSnRpTk1zWGthS2RNX3hCOHFlWTd4UVg0NnpRZTZhbHlLc3o4elgtT2IwekJYSExObDN6TzJDZTNtVl9UX2pfR0F4N2JfQmZRQk1ZVVc5QW5ubFFjMjN4LXM2V3RJTXdad2J2MGdoRkdwUHJNZ2FiMjg0Y0Z0UjVJaUg5UVNhc2k5V1hXdUhySG45c2dmeDViR1hlOFFOcGJPbmhZdGd5bUpmMDF2ZXRkMUxLQS1FVlhmcE9PcF8wQ09nMlZIOEN5dXYzUTc5MUxNWWRnSHVnT3BuRnJzc3prYmJ3aHVESFhhNnZSY0xJQzdvcEcxTGJHVmxyRm8?oc=5
-- **Source:** 日本取引所グループ
-- **Published:** 2026-11-13T19:26:10+00:00
-
-## ‍‍‍!$+[WATCHLIVE]ESPN@] Bulgaria vs Iceland Live Free ＯＮ Ｔｖ Ｃｈａｎｎｅｌ 13 November 2026 2146 - 日本取引所グループ
-
-- **URL:** https://news.google.com/rss/articles/CBMiuwJBVV95cUxOMm1NZ2dKODF4YkZTV0xKNjBieG8yZU1zUDRjVXFsTlB1V3hOZ0NGb3UyZFQ1SE1vMi1lOEZqXzZQR3M3SjZlbTNjWnprZEFyUDlHYkk2ZkhqWmhEaG5DSVFDTGYxTEt3V0NHUHFNSE9GSERBOE9JdDlUR2FiOVViOTZvdTBlZE1qT01QdXl6Sm4teXJHTWY4V3QzbUpnU09QS0NHenZtbTRMWjNHVDFnTDh2UW8xSEVnR2lnUGJXdkVMQ3hDSVhxS0ZwVjlHZTBkS0FLamZELXd0MUtXTGRFb29VamN6eWdhbXNuZXd3ZE84dExTb29Pbm1IaUltbnNfdVUzSTBoejM1X3QzdFE4dnpJc2VnZ01makFaa3g4S0EwaFZNMHdlcE52NndkdzN3dXJvYk1ZendZWGs?oc=5
-- **Source:** 日本取引所グループ
-- **Published:** 2026-11-13T19:26:09+00:00
-
-## ‍‍‍【LIVESTREAMS】FREE] Bulgaria vs Iceland Live Free UEFA Nations League On 13 November 2026 - 日本取引所グループ
-
-- **URL:** https://news.google.com/rss/articles/CBMiuwJBVV95cUxPZzREOTRrMEZqWTJMYmxiVWN5clJTcXRxZjNoTFd6cVpkeTNVM1ZQUW9VYTFHbm9QVVNkOVdzQ0pLQmkzanhGeWZEVzNmUVJQRDJxODVuMFBST3dfQjIxU3FKTTNGNFBTYVUzYVFkVnJmdTFFUVVBcUsxTk9NRXBPOTRuR19vdlptdXpnSXoyRk1UYXdHMk9mY29tdW9SN3hEbk1jWjR6ellkOXB2NHBEcndPT0lLRkRIMGYza0NVejB2Y0VtTW5mblNCd3Y1bTRvZktLdHdLRUV1N01hYmRWeUlHRDNXS0N0ZWVROXpGMDktV1JmSDJEM0VPcGdILUtlV0djSDNIREFXRlBURDlmY0Q3eUpWMGFxU1ZOb3hHYV9LblBJLUpMLVk1T1ZnRWpBNVFMSkFtaWoxTkk?oc=5
-- **Source:** 日本取引所グループ
-- **Published:** 2026-11-13T19:26:09+00:00
-
-## ~!@!(𝐎𝐅𝐅𝐈𝐂𝐈𝐀𝐋-𝐓𝐕) Iceland vs Bulgaria Live FREE Tv Streams - 日本取引所グループ
-
-- **URL:** https://news.google.com/rss/articles/CBMinwNBVV95cUxQelUyemx1dTFwQ0VXeU1UanN4aHloUzVwZm8xRk5LbUJRWmdpNjJ4eWNjQm1wNmVQN093Ui01Qjlza19SX1RKTWxzcHpoTUJPUS1PR2M1Vlc4VFdtenhMSktGRnZfZjJFWkZPOU8tc2g5bDRSbXJ2dHVRUkl2Tkx3cGltR1JyeWpJSTdBY1RBRjVTYXZwLTQzM0M1RlpPNVFuQ0dSUXJxQXNuenVUSEZJdmRRVk1YaTViNWZGN0h0U2F0VXVIUUtLY3BYMHpYU1d5OVVweF9wZlRRY0VZald2dnluTW1oaW1pM18tT0JzSTdXdElmbE9uaHg2OFdkWlhZNzlFOWN5MXl6b0otVTFmal9CZUJNR0dGVndTTmZ1aWFnaDJrZHRSRzRkOFZOZkdLMWNUMXhEdVByencxYTBiSVp1dkhfS1ZpaGx1emlzWFY4c1F5U2dOTGFPNlVwMWJEUUtvSl81U18wV3UyeW0ydlliVHhBenZHNkFiQ3pQSDBXcnd4OEZCMk85SmhIS3Y2X05Ra0NmbWt5bERHLVJn?oc=5
-- **Source:** 日本取引所グループ
-- **Published:** 2026-11-13T19:11:15+00:00
-
-## [WATCHLIVE]ＴＯＤＡＹ!] Bulgaria vs Iceland ＬｉｖｅＦｒｅｅ ＯＮ Ｔｖ Ｃｈａｎｎｅｌ 14 November 2026 - 日本取引所グループ
-
-- **URL:** https://news.google.com/rss/articles/CBMimgNBVV95cUxNemtLbW5qM3pMV3EzXzV2X3JzRE53RkZxcUpOcV9qU2Y5RHczazFMYUVyS205YVZxYlNVQ1NtSGFHUXl6b2V2eVc3MmxsdFFHS2ptcThfcnNuQTVmcGUwZWtycDZiNV8xcTAzSTJ0NjFINkpiNjVFT2hLNnpReFE3YmtTYmpxRHRDMU9SczRfOVlwejZJTHZranFDVjNTOWg1WWRWcTVoNHZxeUtKcUJ4Vzl5NnRLZWNTLWxXZTlCS1RsTkZ3VERwaFE5Wk43Y0FvU1JJU1Btc3pNSmNuZ2dOcEhKNVkyNFZTV1pEVXdpMUw0akI5ZEtPMWdpckhUUlVyYmduUm5rbG1rUF9TYzQwYS1GTFI0VTJZcnEyVWhQVWI3MXhOaVpwMF9FOVRib1dqQ2lKQjQzdzJoYURKZE5zdHEyZURZYmd0TDFHS25NeEdKMGNRZGVua29qUVRLWDR5SjVIdkZkazJGeVgyZEh4V3l6b2RvWFlOSXRiYXhhUWNSM2pld3BYWTJ5cUJWVHZFTEFEUTVGSmVGZw?oc=5
-- **Source:** 日本取引所グループ
-- **Published:** 2026-11-13T19:11:14+00:00
-
-## Bulgaria vs Iceland Prediction, Betting Tips, Lineups & Odds | 13 Nov 2026 - Sportsgambler
-
-- **URL:** https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVGFqRWY1OUstSFRsMGJqRWJSTXlOZUQ2RjFOMlpiU2J5cVNUYmJ4NTU4bVIyVHUyeHZmVjIwWndtTFhJeWtvSXU2SEJ4UURtVy1WWjVERDJQUllNV3FUYzRKV21PNjN3b1pyWWJYNWo3a0Z3WlhYRnh0aGF5QmdmS0s4Z1EydDd5cENBYWJhaGhuMGFBYW94WHcyT0drM0tpTnhIWTE5Y3VRN1k?oc=5
-- **Source:** Sportsgambler
-- **Published:** 2026-11-13T19:07:17+00:00
-
-## ＋＋[ＤＩＲＥＣＴ－ＴＶ] Bulgaria vs Iceland match en direct Live| 7 novembre 2026 - 日本取引所グループ
-
-- **URL:** https://news.google.com/rss/articles/CBMiwgJBVV95cUxQQVRFdnVWLXFVOFdQZE91U20zbk1ydHZuYm1qOXY1amZpdW5RRnpwcnUwSDNfWDV6NjBsdXVCNlRrN042MzlNTl92UWoyY0drd2oxa1J6SVAxbVJJWlk1eHZsQjZnUEZ2SkwxUHVQVlQtR1Vabm56dHJGQWg0b21BaFJCQ1FnOXJGRWJBeExaS3FvaEJYZmR4V3Ewb0x5a0hBXzFrakFEeHVsa1BGQ1NacDNlVFZtbzBEeEk0Ql83LWN6ckxydXVCTVZ0cG5ORHhzZXhMdC1BdURIWTJyZ2VOX3BzRG5fbXk4TTZNVklSY0ZYOExZR0dlOTBjQlFZejJhd04zVlNpQUl1R3JucmNJVGtZUFZNTWpFdFJiTlM5a1FJMGFoVWtOV0xxSUFsdkdkMnB0M25HQUFhWTE0d0tIWkt3?oc=5
-- **Source:** 日本取引所グループ
-- **Published:** 2026-11-13T18:50:10+00:00
-
-## ++[𝐃𝐈𝐑𝐄𝐂𝐓-𝐓𝐕] Bulgaria - Iceland ＥＮ ＤＩＲＥＣＴ Ｓｔｒｅａｍｉｎｇ| ７ ｎｏｖｅｍｂｒｅ ２０２６ - 日本取引所グループ
-
-- **URL:** https://news.google.com/rss/articles/CBMiugJBVV95cUxNZXV3OFJsVnVISF9JYTdDSjN3ZzMzRDdFQ09GM2VrX2FSX1p4SU52Uk1UMWhDaUpKamdhUWxuWmI1QkFnTGxZa1djdmpsRTloNVNUUnlOdkMtUUxITW43UGN0VWw4V2ZZS0F4QVFtSjRrRjIwUHNtZFlkRC1MMTJLQ0p0eF9IT3I1NHp5MklPcTg1b1FlalEwNEtkWW5Fb3FPN2FtZGdLQ0xJU1kxT1JtN0JLZTJPbnJHRUFmVTVPb0ZFNzVuZEk2Vm5YOVVkS09Vdloza202cHdaZF80dERzaGFZbC1JdzRvZmRkMERVMkRSTWFlOXlYckhMdnEyRFZXeE9uYlVUTTgyd2o4ZDVZbmIxR2lUMk9xeWxzMVlkVWhWWkR2blV4QUNxcExBRk9WSjRDck1IZDNiQQ?oc=5
-- **Source:** 日本取引所グループ
-- **Published:** 2026-11-13T18:50:09+00:00
-
-## Bulgaria vs Iceland Lineups | UEFA Nations League · 13 Nov 2026 - YSscores
-
-- **URL:** https://news.google.com/rss/articles/CBMib0FVX3lxTFBQb18yaXFfWHFuSm1wNGFtUG5zbnFmVzRXbThiVFZ6T09YZnduTzdRb3MteUk0SFYwU1RBRXU5VlFkWXF6eHB2akxEaGJGYUh4alk2bFBBa2dpQ08xVlctYVhvNTBhbGNESUdqOEZNcw?oc=5
-- **Source:** YSscores
-- **Published:** 2026-11-13T18:34:06+00:00

@@ -1,8 +1,26 @@
 # NewsWatch — fusion energy News
 
-_Last updated: 2026-11-14T00:43:08.524393+00:00 · 50 articles_
+_Last updated: 2026-11-14T11:14:55.016411+00:00 · 50 articles_
 
 ---
+
+## The 330-tonne magnet built to cage a 150-million-degree plasma - Interesting Engineering
+
+- **URL:** https://news.google.com/rss/articles/CBMipwFBVV95cUxPQkNJYmpyanNrZi14TUpuTjFDbi01M3ZINEhsWU5rWm91R2o4SGpOUWd1NHoyWG5GYnJKMEg4TlRoenRnNUNqMmxxeFlJclBDV2MtZGZvYmJTNVNKa0NNRXFQNmF2eHhjMHpTWmFsRkFkTFVXYllTU0MzTlFWaVViT3RGYi1abkh5TnRWMTd5NGYxZHNmUHBtdkhHcVBRSzl4MGNVZ09wYw?oc=5
+- **Source:** Interesting Engineering
+- **Published:** 2026-11-14T08:22:24+00:00
+
+## IAEA World Fusion Outlook 2026 says fusion industry needs a further US$80 billion in private capital - Green Building Africa
+
+- **URL:** https://news.google.com/rss/articles/CBMi1AFBVV95cUxOLXRpbjdhWUxHdXNiMlJwa21RYWF1dnRtZ1ZuSFJnQmI3TWZma3hZU29Wcy1tRW1UVk1ySDRIWTJhdWp0LUlLbXMxdUhvRGVBcGwwckQzbUplZjg2bWRaSjZlZVhYaDlUdldEaHh2akNCR0lFTUtwQ3FXWG5EU1J5WFlRSy04bVZISjZlSmd3cjNVT2JKR0hMVnJJTEkxVjFqdmNPZnROZk5menFjQnBlczR3WUR6TnBXNi1FY1AzSkNpWVpZUVNrLUJQMFhVbWZBNTE3Ug?oc=5
+- **Source:** Green Building Africa
+- **Published:** 2026-11-14T02:44:40+00:00
+
+## In my upcoming budget, I'm proposing $10 million for the Northwest Advanced Clean Energy Park to support thousands of good-paying jobs and unlock billions in private investment. We as a state can make big things happen with strategic investments. This wi - Facebook
+
+- **URL:** https://news.google.com/rss/articles/CBMi2AFBVV95cUxNTVBBM21IVGNkZ2RfTW9lTXBDWk9zSUxScVpRZHVUMEd2MW90TjFIVWFTWkI2QVpZYnRDYk4ydmJoVmR1VDJkWmFfR2NNbU95bWppd3VWdGY2a2k5aUtpempzZDZxX2lkUzZrdDBvUUphQ3Rod1hZbS1aOVg1LTAwM002V3BSSmZuQ0lqdHkwODE4STk2bWdqcjdUdTgzVFZQUTI3TDE3UGlsZlBPX1NyUjdNamdJQVNOV0YySDBXcVJBUDNJNUV4b05nZ3BaYl9yYjlFb3lYVl8?oc=5
+- **Source:** Facebook
+- **Published:** 2026-11-14T00:53:55+00:00
 
 ## Gov. Ferguson seeks $10M to help develop Eastern Wash. clean-energy hub - GeekWire
 
@@ -285,21 +303,3 @@ _Last updated: 2026-11-14T00:43:08.524393+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTFE1bHFLemN3OElhdTZqR3pzUjN6ZFh4a19NdUpZNmhjTmlEUW9IeEdIXzhkTkJSbHFYb0c4eVRSLTRQZkViMks4cm0xOWg0QjM3T2cwMWUza2RlVVhJQS10RHUyaXNQb200SThyQnBGdnlsbF9qSzR4WUlSWkZjYW5ESFluMFptVVlhUWlkOUg3MUZiek5icXFwWWR6RU1GQTZ4SFg2T2pBdw?oc=5
 - **Source:** Bioengineer.org
 - **Published:** 2026-11-12T04:02:58+00:00
-
-## Fusion's Next Race Is Over Superconducting Tape, Not Plasma - Yahoo Finance
-
-- **URL:** https://news.google.com/rss/articles/CBMimwFBVV95cUxOX011ejBQZ1A0VVozS0pQajlCcFhDRWo3ZlozNEc4WTBJYzNfQWRRRnY4U05UVDh2a3dxSlBOaTJvYlFHckpLMWdHUERoQXZOLU9YSFlDUEgyOGlEM3ozd21TQWxEY3hSQUYwajNJT0RIVk52V1RlY0x3dDJJdWN2NVA0QmFHN0R1UDZkZE5HekVvTlY1cTRQanlEYw?oc=5
-- **Source:** Yahoo Finance
-- **Published:** 2026-11-11T23:00:00+00:00
-
-## Green Laser Improves Gold Additive Manufacturing Efficiency - Bioengineer.org
-
-- **URL:** https://news.google.com/rss/articles/CBMijAFBVV95cUxOT29ob2JDSzZPdmY5ZmRpRHBidDdCYnBGYjRWX3Y1c3dzLXJVbDRtQzBiN0U4bUhEUm1mamZmYVZtY1JVX1RSOTE2ajBhdlBxeURZNWlnZE5qbm4zWnd6QkIyZnUzTzFqWG8ySFhlRWJJWkZTdTF5ZGVXak5aaTViUVBuUjZDRGVIajVJaA?oc=5
-- **Source:** Bioengineer.org
-- **Published:** 2026-11-11T22:27:51+00:00
-
-## In Cadarache, France, a tokamak held plasma steady for 1,337 seconds on a February morning, and that twenty two minute run pushed fusion's endurance record up by 25 percent - Energies Media
-
-- **URL:** https://news.google.com/rss/articles/CBMiekFVX3lxTFBCN1Q0emV2ME0yV2dXTHM1UHFBRS0zN0JYRVdVaW93aWJwZmVacUtoMjlfSVdfcXhXTlVpeHp2ajE4akVWcHpLb2VDMENTUzVyVTdXTEUwckR0MDBPOGdKeVVqSEg0UFYycHBvQzdxX2J1bDJNV0NrNk1R?oc=5
-- **Source:** Energies Media
-- **Published:** 2026-11-11T16:50:00+00:00
