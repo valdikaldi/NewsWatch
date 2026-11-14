@@ -1,8 +1,26 @@
 # NewsWatch — Apple News
 
-_Last updated: 2026-11-13T19:18:02.590904+00:00 · 50 articles_
+_Last updated: 2026-11-14T00:43:07.014667+00:00 · 50 articles_
 
 ---
+
+## Epic Games adds to legal lineup for Supreme Court showdown with Apple - Reuters
+
+- **URL:** https://news.google.com/rss/articles/CBMitgFBVV95cUxNX1BoNzlRTGsxelZvc2xWZ0tnVERRbjNUeTh5ZGZUdS1LSmN6TTdkc3FTQWJNUllZUXRxQXl0aEg4MVR3b0xHdnp2TnZEVnlLaTNtb2d6LVV1NF9TRE1iaDNoNzJGT2oyUkhqYlZhUE00RGZJdzFKVThPWHVuaW5WSXVMSVEzOV96dXZ5bXF4bnZiR2tLY2laeUlYUlVOTFY2YUt1WTdYNXI3MWROQTV2b2Y3MlpMZw?oc=5
+- **Source:** Reuters
+- **Published:** 2026-11-13T21:43:43+00:00
+
+## Apple shares hit new all-time intraday and closing highs - MacDailyNews
+
+- **URL:** https://news.google.com/rss/articles/CBMinAFBVV95cUxOS3YteW1ZN3NfcjNpR3dJOWRqTEU4aWVpckpmUFBYRWFXTk1IMzl5WFUxc0VOZUFzNFNlRjNfajBLTXdaYzhtLUJvR0JqRUF3VG5RN1JKVW5vbE9QcG5faWpVdVFJTkhIZmlZZUR5WUVYeW1iTWFyTXN4VVNSYnB2akRqMjBLakFfSHhsYUluZGYwTHRzOFN3bkRheUXSAaIBQVVfeXFMTjFmdC14bWFldF9NWGZvQkI2QWxqai00RzFLT2VGM0E4VlRsZEZrT09nbVRTWEw2NE1UQ215U2Rkbm5zU3l2dnp5aWR1VUFTZ09ZcmhzSVczZzU5SUJwVjZFM1oydUE2c1dNai03TjktVVRNVHFDUnNWSXFsTW5hTnVsVGhCOUk4c3FZbndCMXE5MkpSbDNUSVVtX1JqUTlid19n?oc=5
+- **Source:** MacDailyNews
+- **Published:** 2026-11-13T21:11:59+00:00
+
+## Apple stock stands out as Big Tech tumbles. Here's what's working - USA Today
+
+- **URL:** https://news.google.com/rss/articles/CBMitgFBVV95cUxNRENVVXo5di0yWWlNUHljT3dqWEtfeDhWT1hHdklaWU9rOHRlVmZCMkF6aV9JTk9JSFFNQW1hRXdtX2NESS1zSjgzaFpiWHl6NUx3RTFFTjl5OVZZYVhzakRWcnhxSmd4Y09zSEltTUVBNVdybzJLZjl0UmY2Y1ItLTJZeUVqdDhCMGxJUllWd0xwczdMYWtuaERRdEcxQTJ0ZFRCNEZKZnBjdHFVWG13cnZlY2M1QQ?oc=5
+- **Source:** USA Today
+- **Published:** 2026-11-13T20:11:00+00:00
 
 ## Nvidia Without Huang Has It Harder Than Apple Without Jobs, DA Davidson Says - Yahoo! Finance Canada
 
@@ -283,23 +301,5 @@ _Last updated: 2026-11-13T19:18:02.590904+00:00 · 50 articles_
 ## Apple Inc. $AAPL Stock Sold by Parthenon LLC - MarketBeat
 
 - **URL:** https://news.google.com/rss/articles/CBMipgFBVV95cUxPZGpId0xSSmtFY3FYa2VtX2xYb3NZYXlUS0NBVTVYbGdsWmppcnR2VjhRaHp3Q1g2NkJkY2xwUGQ4ZjVtVkJrMU9pSmVaZkxDY2JHYW1rWWxxQ2ZJT0FRYU52bWNxT3NpTERXamhKbjV0QXAzSk8wR1VfSEhQM2JPLUE5bmMtN2ZaazZRZDI1a3JudG1qR3RHZUM5QkJkQTZLVXRyMlp3?oc=5
-- **Source:** MarketBeat
-- **Published:** 2026-11-12T09:42:14+00:00
-
-## XXI Wealth LLC Purchases 3,073 Shares of Apple Inc. $AAPL - MarketBeat
-
-- **URL:** https://news.google.com/rss/articles/CBMitgFBVV95cUxQenFIbkVaSEd6LWwta1gxYjRXN1JlQ2pTYjlIdkQ5bldhckpySWFQaG4wVzRaX0RfYjA1UTViaUJsM2VEZjJHLXFBb1FHQmNTeDR1VUFoc3NFV0hVaXU2LWZ4OUNXbzVFYWFDX3B6ck16Sks0RUt3a0gxT1AwU0NhR0FMeE5yTXd1TlR6ZlhmZWtmWFVCRDkyWXBDdmc1ZnAwNmZUdlY5YVJBemNENWU4Z1VLejk0dw?oc=5
-- **Source:** MarketBeat
-- **Published:** 2026-11-12T09:42:14+00:00
-
-## Royal Fund Management LLC Buys 1,744 Shares of Apple Inc. $AAPL - MarketBeat
-
-- **URL:** https://news.google.com/rss/articles/CBMivgFBVV95cUxQTlNMd3d3eEp4TnluT1FjVi00S1ZiVm12aEtJd3VjQW4tT0xBVXdSUnlGa3lhRUMyWW1FX1k4bzI4eUwxVEg4UmlsaV9kVjNjWl93dExCY2FycXN2V3B4LXpQaGFqZU5uUEZGdWZ2X21kYjl6RmtSY0Y4NUI4ZFBOcU9kSEdGejQxMG1UdnVCdVFBeXdiWWxfUF9wVHdUOU5NM0JFMC1lNF9lazJaa1FudlFYZDV1YkZqbWZVQkRB?oc=5
-- **Source:** MarketBeat
-- **Published:** 2026-11-12T09:42:14+00:00
-
-## Apple Inc. $AAPL Holdings Lowered by Insight Advisors LLC PA - MarketBeat
-
-- **URL:** https://news.google.com/rss/articles/CBMiuwFBVV95cUxQQ21YLU0yNGlCWWJqNjdxSVVZcjR6ZHdaM3Y0Yy1OWnlnc3BmYWNSeGxhcGlJcWlwMUlEUUdJeUxST0hVOTk2Y3JVUlJlV3RFOWFPNUNMOHpIZVlSWU9HcktvcUdwNDhUTVBhMExya05FR3JWNXBia3BSZlVSUFpzcEN3WE9qZ1VraFFzd3o2TzhEWTdTWGk1TU1rMVY3dTZOYlA3XzluaWVSeTFBcUZYMmFVajJoVGRIckdZ?oc=5
 - **Source:** MarketBeat
 - **Published:** 2026-11-12T09:42:14+00:00

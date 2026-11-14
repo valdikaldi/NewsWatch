@@ -1,8 +1,50 @@
 # NewsWatch — fusion energy News
 
-_Last updated: 2026-11-13T19:18:03.841225+00:00 · 50 articles_
+_Last updated: 2026-11-14T00:43:08.524393+00:00 · 50 articles_
 
 ---
+
+## Gov. Ferguson seeks $10M to help develop Eastern Wash. clean-energy hub - GeekWire
+
+- **URL:** https://news.google.com/rss/articles/CBMioAFBVV95cUxNem1GUFdwQ2J2dGxmemtNdk9pMjhlVzlvTFlyOVZzTFBiWHRNdk92a1JxdVVYZWdrVk5kNjVxT0pSaEhPZ3lVeEJHbURod0NSZWxVR2pJbU1nVnFpVkJWdkhVX2hGbC0xZ1czcTRpa2FCZElqUjgxM0VBdlFjQWJzSTFYTFZIUHpOclVXLUR4NjFYbXBiWDRPTHZzeG81SjdU?oc=5
+- **Source:** GeekWire
+- **Published:** 2026-11-14T00:35:00+00:00
+
+## AECL & CNL Announce Funding Endowment to Establish Research Chair for Centre for Fusion Energy - The Manila Times
+
+- **URL:** https://news.google.com/rss/articles/CBMi-gFBVV95cUxOUnl2VE5LU3BHVWtWN0RDQnhmS09ubkZmNUxoTVFhXzhZMl9aLVdhbVZCUWR5QWgwNGVpcTQwRllVWU5STEZWYzNSdlJKQ1JiaV9saFdPelp4UGt0cFpVZWdDdTBlOWlnMjdJS0ZtMldudnRqaGVaS0Q3aDgtMGI1eTVfWjlkSms0YWhZZ0xpT1MzeXZYYVNjU0NQTXZKdGtoV0RuV3YwOW9tczE3WF9haXJaT1N2ZE5ST1gxRmQ5bHdldjVzMmRVaWZNMVo2aElpZ0x3X3N1M1A5ci1Ea0d6YmFwSXhtZmc3cl9RV2huQUZSNG1FTXVWREVB0gH_AUFVX3lxTE4yaXBkR3hOcVI1ZUR3a1Njd0lDZy1fTGVMY3FRRnozQkZuSUpPNmpuSlVOVlNuRmx6LWR5YVdfTTR1X2N3S1NRcGtEX0dKOUVMeFA5dkdIc21fWkZORC0teGQzVGRTS2hXa2s3cnA4eS1FNDlnLURTLXRsNmhoMTBPWWtQUkZsSW5kS1JWUlJRRnpUSm9nNlZZeTFsOTI1WFphcE5rSUJpRWpEcWhUb0dERlJfa1Bway1lM2czbVVzaEM4S0FfODdJTVNLUlNRNnFuOFBJX2dDejdtMkdXZm5sMVRLRWN1ZFJHWDFQdDA4b1pfYjVGcDVoUS15WU5lZw?oc=5
+- **Source:** The Manila Times
+- **Published:** 2026-11-13T22:21:21+00:00
+
+## IAEA maps future of global fusion - Nuclear Engineering International
+
+- **URL:** https://news.google.com/rss/articles/CBMidkFVX3lxTE5Iem9oRzFNOGNpa2JRdXY1cHZlN3VwNDZfSnVDQzdaY2NBdW9XcmtIa0xza2pSbnhLOEd0NXNZTTBObEFPOWpoaDdCNVVnRWh1N3VaTmM0aFYwZGhac0tqQ0lwQktXY0xFaGt5RnhidlZVT0s4M2c?oc=5
+- **Source:** Nuclear Engineering International
+- **Published:** 2026-11-13T21:34:30+00:00
+
+## American Fusion Q3FY26 Results: Net loss $1.44M, no revenue - scanx.trade
+
+- **URL:** https://news.google.com/rss/articles/CBMiswFBVV95cUxQNDdfTmlNbTJFZ3lDMTlFQ2diM2VwaURnVmRieGo4SWY3RHB5OF9mb1NPamFWLW1rakNCbi1FRFdhXy04UW9YeE91enpNRHBRZlJ0c0M4Y216NnlmUy1EYm94bHI1d0FSVzJib0pwdTFMVGxlWEpKR3ZxeTNIenJDS0VQX3hMSklxMmVsWGU4N3drSTc3dm5INGRuSkE5UEtrR21rd2tWRGRLX2hOUFVaQ1c4Zw?oc=5
+- **Source:** scanx.trade
+- **Published:** 2026-11-13T21:26:47+00:00
+
+## American Fusion Inc. (OTCQB: AMFN) Reports Third Quarter 2026 Results and $1.55 Million in Year-To-Date Financing - GlobeNewswire
+
+- **URL:** https://news.google.com/rss/articles/CBMijAJBVV95cUxQaXA3ZE5IbWlxODdpcElCRk12aFBOR0ZGdm1lU3BJdmFEeDhGa3MtUXJCMzFidWVBV1B2dF9kS01td3pZTkEwWDl0WG15clQ3d2lKa21rOHFGbE1HaEl3eENEWm5KREU3Q2p6bzZlRENNOVNBN043QW1XRURiT29MQU5vYk5qRENMQmFGd2pyQ3ZzOXRkTkF0cEkxaktqSkkxVkl4WGxERTBfUGZHd3NOYUNfa3BtMUF4WWVrSzNZNmlUZ2pJT2VLbzJpcGpDVkhJdnpXOXZXdmRoaWVUcUpDNnNkY0puVm1pSC1YTTFSckhweElPUDNRaEpQd3FlYnBsUFd2WHZRNGVsUTVk?oc=5
+- **Source:** GlobeNewswire
+- **Published:** 2026-11-13T21:00:00+00:00
+
+## Neural Network Estimates Tritium Release Activation Energy in Lithium Titanate Pebbles - Bioengineer.org
+
+- **URL:** https://news.google.com/rss/articles/CBMisAFBVV95cUxOWFFwZDFvVGRDajVjUUkwYU1oV1lfSVdUOHFXaVdSN1hCWEk0NXZuMnhhdzZkbGxXLTVyNGdtMEtQZWR5MkJmZWVmOVRyZUZ2RHZXcm1FQ09PQ05JcjdMY2JOVVJ1NHBobWR0aElGV1phbnpjVXZoME9EOHg2MlIwYmVOdFFqUU5mSExzX1JKb1RDSlBoWFZnQUFRMlRna3QwbFdDQ3h5dHF6Zjc4UnZkdQ?oc=5
+- **Source:** Bioengineer.org
+- **Published:** 2026-11-13T20:52:57+00:00
+
+## Ontario and Canada Select the University of Toronto as Host for Province’s First Fusion Energy Research Chair - Today's Northumberland
+
+- **URL:** https://news.google.com/rss/articles/CBMi7AFBVV95cUxNVWk1LWltZVBMN1MwU282TlFraGc0VFdoVUk2S2lWMVJQWmtZU0dESk9xdm5od05wdWcwZml4TnJHRG5sZkxLWngtY2xrV3ZPS1JZSTY1eHRHQ3pIVDgteE85akhsQ2RNcFBwRjRaTFVNeUxXcmU0VWl0MHZUR0FOLW9KbmtRYWxDVGVUclV5Y3JSUlZrN3JDbVFxOUpPTDhHejJ5STIyVlNLM2JSS3RTS2JYbDgtcUJ0V3FJWkpnTFhYNEtacVV6ZXBNUERxYU1wVjJhREktTkZoWE93NVNuOUpYb3hOV3E5a3ljVg?oc=5
+- **Source:** Today's Northumberland
+- **Published:** 2026-11-13T20:17:51+00:00
 
 ## What Could Be Revealed When General Fusion Group Ltd. (NASDAQ:GFUZ) Publishes Its Q3 2026 Update on November 16, 2026? - Kalkine
 
@@ -261,45 +303,3 @@ _Last updated: 2026-11-13T19:18:03.841225+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMiekFVX3lxTFBCN1Q0emV2ME0yV2dXTHM1UHFBRS0zN0JYRVdVaW93aWJwZmVacUtoMjlfSVdfcXhXTlVpeHp2ajE4akVWcHpLb2VDMENTUzVyVTdXTEUwckR0MDBPOGdKeVVqSEg0UFYycHBvQzdxX2J1bDJNV0NrNk1R?oc=5
 - **Source:** Energies Media
 - **Published:** 2026-11-11T16:50:00+00:00
-
-## Eni Pledges £11 Bn Investment in UK Energy Sector Through 2030 - Egypt Oil & Gas
-
-- **URL:** https://news.google.com/rss/articles/CBMilwFBVV95cUxPX3ZLY2ZvY2NTbUNqeGh6cjZUcHpBdThyWnNFSW5hWFAtMzBJaTE1Z1hoT1l3R0NSdm8zX05fSGZIWnhXck5uSVV0b3cwSFJZT3QxZTJrbVRJR2VnRnNKNUM4R3EtSlVad0tLWC1jR05IdmYwLUZQR0FIQmhMTDVVOUxuVTh0OUowejhPRkpVZHJXb00wVkpr?oc=5
-- **Source:** Egypt Oil & Gas
-- **Published:** 2026-11-11T15:42:57+00:00
-
-## NRC issues construction permit for Dow/X-energy Long Mott project - American Nuclear Society
-
-- **URL:** https://news.google.com/rss/articles/CBMipAFBVV95cUxOUjczdS1DdVp1QklhRXVpMzNMcHZCdlQ5Q1BPQWFVVkl3NWdDdlRRTXQwbUt6anJRMWxwMXJuT3pmYnVhRm5uc2JRUmV2VmVfSE43WlFSWERfcUtGS1d3NkgxQ1k1ZDdUMXpvSVNDQVc0bk1aamZsbTkxMXFPa3Y5RnN6dkNURmVEWDdGVTBRdHQwU0s5RDVRRDYwOHh2Y2tfQWxDZw?oc=5
-- **Source:** American Nuclear Society
-- **Published:** 2026-11-11T15:00:12+00:00
-
-## SOUTHWEST USA: Brick by Brick, Artisans Build a Business in Tucson - Site Selection Magazine
-
-- **URL:** https://news.google.com/rss/articles/CBMilgFBVV95cUxNYmJYNmVmbjZpblN0emdPVUNhTnk1LVEwcVJJUVpneWNLLTFhX19TOFZicExPMVNDNHd1cHZuX2FqZDRXcDJiMUdVOWtIaUlqSXR1V1VvR2RkNVRqazRFaGRha1VQTVFZN0NWcDgwdkR5clBxeXltWlZvZ3RwYUxjVDJqNGt3eWM4cjZBaXlDdHVmT2pGSlE?oc=5
-- **Source:** Site Selection Magazine
-- **Published:** 2026-11-11T14:47:50+00:00
-
-## Pokémon GO Wild Area 2026 Full Guide: Raids, Mighty Pokémon & GPS Changer - Root-Nation.com
-
-- **URL:** https://news.google.com/rss/articles/CBMixgFBVV95cUxPSWdYckpmN2hMODIzTEVjZjVLb2d0Y0Z1aUkxZVN2Z0VWczdZUTVLbFgtRjF4Q3NYVUkwWS03WGRGUmVWbDFmQkdvaXRTcjVMX1hYNk1UWXJjMVhfa2JDWnloNGV1NlRIWDFlUE1JUHZFN3Y0SkJnVFJOaE9peVlfOFRiOWdJOHVUdmlIRGtldXBoYmRRNFdjVlV1ZGJOOEJXVlZTTEdSX2dKakRvdXg5d1NiRHhvZ0FhbFd5SDNzMGt3Z3k5V2c?oc=5
-- **Source:** Root-Nation.com
-- **Published:** 2026-11-11T14:05:21+00:00
-
-## Mysterious Bright Structure Near Black Hole Explained - Mirage News
-
-- **URL:** https://news.google.com/rss/articles/CBMihgFBVV95cUxPR2hTOUVpYXlXMXUteE5acUdneVpFTkZRblZTdUpJdDVwOFVQRm4tY2ZGQU5VTS1qLUFMTXM4UDU5OU5JQTR6dEVodEt4Wm56aUhCdHVBNGRyWHM4OE5FNjNMWHdWUDBSSk45aS1QZnJGTU1FMzBzZGFQazBDYW15QWlPcG1EZw?oc=5
-- **Source:** Mirage News
-- **Published:** 2026-11-11T13:06:00+00:00
-
-## The Energy Transition | UK advances clean power with reform bill, electricity regulation and fusion research - Osborne Clarke
-
-- **URL:** https://news.google.com/rss/articles/CBMixAFBVV95cUxQeDFTbW15aHViUUk1bTg4Q1Y2MXplbE54WVZTZks0YlBQRkxBZ0cyYVBaU0NGeVVQVjNNNFZ4cDY3MUVXOThvM0RtcUF2eDhldkMtZUZkRjdUSnBnTE5YeEpGNk5jZHJfUTdGbzU4ZzBHcnpHc05kSHVFcTJjYUQ1ZVRxVTBvcU9abllBUnVqeUlURzB0WWdFempGLWhZeEgtTng4eE9vd1hKRDdleHhNZHJCejlVbjNHajV3VW90X3d1ZDdL?oc=5
-- **Source:** Osborne Clarke
-- **Published:** 2026-11-11T12:07:50+00:00
-
-## My Skeptical Grad Student Take On Unlock Stable Energy: A Reality Check On The Future Of Power [tlhBCIwO97Y] - WRMJ RADIO
-
-- **URL:** https://news.google.com/rss/articles/CBMiUEFVX3lxTE5ET2w4R3Q1VzJfc2Q2NGJtYTJnZkpiZWJBbFZ6blJvbmw5NkhDWTY1ZGlLWmcxZ3FORS1HVVZTdkdkZUwwclllbHZoa0JRdlZN?oc=5
-- **Source:** WRMJ RADIO
-- **Published:** 2026-11-11T11:39:51+00:00
