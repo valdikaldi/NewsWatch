@@ -1,8 +1,20 @@
 # NewsWatch — fusion energy News
 
-_Last updated: 2026-11-14T17:43:43.853212+00:00 · 50 articles_
+_Last updated: 2026-11-14T22:02:06.954846+00:00 · 50 articles_
 
 ---
+
+## General Fusion Group (Nasdaq:GFUZ) - Stock Analysis - Simply Wall St
+
+- **URL:** https://news.google.com/rss/articles/CBMihAFBVV95cUxPdHR5cUNXNkJpN3BjYnEwVEU4QUxJcndiN0F4T09mQ3lWdzY5ZmlFRVpHUFVfb2Z4b3cxQWRMMlhEajB6MTgzcTZGNU9XSnlxcWQ5TGJaOTR6dFBic1ZLcjlQRGJtclI3ZDdOS3IzdUtzdmlCVkFXNC03Um1KUll5QTN2TXc?oc=5
+- **Source:** Simply Wall St
+- **Published:** 2026-11-14T20:01:49+00:00
+
+## NASA Expands Nuclear Power Plans for the Moon and Mars - Neutron Bytes
+
+- **URL:** https://news.google.com/rss/articles/CBMinAFBVV95cUxNX0ZFM0VuUjBUUk8yV1VaVDBPbHB6T3poRXBjNUtQTF9tQXNoQnlSc2pyWGpaSTNxZ3VsZDRQX0ppa0FYX19SM0pTZVVrVnNpWnlIcU9BeTJTX3FwOVUydkE4bUZRVGdzclRzejVVcnVRQ0JpVWh0NXNOV2xZRzlJN2pmZGZjSlllMlpXbTh3bDR6ejZkV1FvOEY0V0g?oc=5
+- **Source:** Neutron Bytes
+- **Published:** 2026-11-14T19:08:27+00:00
 
 ## New to The Street Show #780 Premieres Tonight on Bloomberg Television with Robo.ai, American Fusion, Stewards Investment Capital and FreeCast - Corsicana Daily Sun
 
@@ -291,15 +303,3 @@ _Last updated: 2026-11-14T17:43:43.853212+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMimgJBVV95cUxQZjRvYzhKcGp4bFZ5bFl6LThORDNqcjZhbDhlSDRVd3lFaVZFWTVLYURJcVI0RzJDam1MbTRZa1REcWk5ZEkxUFJsdGpjV3MwLWNzQlh4c3IzMHctQkd1UlRPNHhzdGRHSDZreEN1ZndGdW1seDF6Mk5vLVQtSm5LTVRaTTF2MWhVbjdqU1YxRGREMzdjczc5cXI2bTlQUmJrekZ3Z3o4clM3Q25Mc1BGNk5IMnFUN2YwSlhsd0tCSGR3YjVrY242SFFvNENEeHl1RkpSYU8xQUQwWDBCN1B0NXdpNlhZX0JyUlJUT3dEUlMwYmQ2VFByMExSSEVuY1ZrVnYwVDB5Tk1WSjVGMUVINzYwbjVvWkF0bVE?oc=5
 - **Source:** Trending Now Infrastructure
 - **Published:** 2026-11-12T08:18:34+00:00
-
-## Pakistan Collects Rs220 Billion Petroleum Levy in Two Months - NewzTodays
-
-- **URL:** https://news.google.com/rss/articles/CBMijAFBVV95cUxQczkwUTkzclR6UGlmLTkwODlyNEl5UFdadXB5RWpmb09LVnNDS1hhZE5kSkQ0anh6UTNFcENmNzRQZm9hQlV5NnhHaVBEanpuVjk5YTdXcXpFSmc5SmFPVU84Rl9ZNW1CeC12bGc2QWRlRjQ3NXgyRnU4ZGxTNGpHSlNiUExHeXVUSXg5cw?oc=5
-- **Source:** NewzTodays
-- **Published:** 2026-11-12T07:49:09+00:00
-
-## California Refinery Closures Impact Sable Offshore Oil - NewzTodays
-
-- **URL:** https://news.google.com/rss/articles/CBMihgFBVV95cUxNWEJEbDJQdklKN0V0dkctWWxUTGZKa2lIWWc4S21acHh6NWcwSWtnUnF1RXJETU9UUDV2TFpRdkFZdG9rZHlzM2prYzlrUzhvTnhsWWpRWnBmYWhUVHJ0Yy1TZm1nbExWOEVvS1BUM3lvbl9Pb1FKTTdHODV4V2FQVTlzeW5GQQ?oc=5
-- **Source:** NewzTodays
-- **Published:** 2026-11-12T07:02:01+00:00

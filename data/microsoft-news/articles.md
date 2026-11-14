@@ -1,8 +1,62 @@
 # NewsWatch — Microsoft News
 
-_Last updated: 2026-11-14T17:43:43.012623+00:00 · 50 articles_
+_Last updated: 2026-11-14T22:02:06.174182+00:00 · 50 articles_
 
 ---
+
+## Outlook went down, then air traffic systems. It’s been a bad week of outages. - The Washington Post
+
+- **URL:** https://news.google.com/rss/articles/CBMitwFBVV95cUxPb1d3VFZ3Z0JMZkQxdXB3S2oxbmhMWDZDRUM2X1hHMWljOVhoV28wQ1VkMkZIMFBuRWl6MWFMSEY1OUNjN3dYQ2V4NHZfWnA5Qm9EMEdJaERlN0hrRFdWeHpoZUR4emF1TXhlSDFsS3d0VVBXTElaTklCa19hZlBCZlJnSjJPV1BmeUpJbEI5MjhvZDE2YWRDVlZDQnZxbjhyZndySF9wOU12dW9fOGRXaHdxZzZwUVE?oc=5
+- **Source:** The Washington Post
+- **Published:** 2026-11-14T21:45:35+00:00
+
+## Microsoft services fully restored after global disruptions - The Hill
+
+- **URL:** https://news.google.com/rss/articles/CBMiqAFBVV95cUxQM01adi05T1FWTGJmNVNsa01HekdoeU5rOHVxU2I3Unl0Q2FUWkdINGZNN3dGR2VtRDdPbzdJSERCTGRtaTNtcU5vckE4UEpZaGVYTS1SX3Q3cWJUcXNZTWZTSHB0RXY3VHdIYnEybWR6UmNoZUJEOFJSTVppYTM5Zk81akdsV0ZoTVZCUFNCYkd1N2ttWU5TZVFZQzh1VDNxbFY4WjdkNHLSAa4BQVVfeXFMT0NZNF9hWmdNVU80RE5mQzk1eW45WDJhUDBqclRMUG5UckoxZ2NzcEwwT25yYzM5Z2NaVEpfRk53azFnNkZJSzFyZHBUV3ZzQi1WZDlxTHpWMGRDc3ZMOE1VNldfSjlMbGI3bzYtYmw4WU1lQjFmVFotTlFGUkhsUHgyY0NvYlBKWE5GUGstRnhxc3RYUFZaVjdPRlNwZkMxTWVUbzUzdFpjY3dhMndR?oc=5
+- **Source:** The Hill
+- **Published:** 2026-11-14T21:39:00+00:00
+
+## Emirates Pokes Fun At US’ Aviation Disaster From Ground Stop & Microsoft Outage - Simple Flying
+
+- **URL:** https://news.google.com/rss/articles/CBMimgFBVV95cUxNUU84V3lpV3NzZ19YbndTb3I1RGJtU1V6eExMaWlvUFpyZVVOaE9oV1pVMG05dVQ3NmwxLWhGVXp6bi1MOUNiWnFwZ2Jabm0zWXoycG5IR1V0SnNYcHEtNng0akhPek4xNGpXMllDMGxyc2RYdmV5S2xoLXZucHZmWnFxQ0ZaVFVZd0U5bTBKMVFDRjZpZlA2d2ZR?oc=5
+- **Source:** Simple Flying
+- **Published:** 2026-11-14T20:10:27+00:00
+
+## Give your Mac or PC Microsoft Office Home 2024 for a one-time $104 payment - Seattle Post-Intelligencer
+
+- **URL:** https://news.google.com/rss/articles/CBMilgFBVV95cUxNLWhkS2hOS1cxRkgzczVnYzNDbGNqSllmYnFFaHJjakJiR2s2dFhmcmg3bmlpeThLWFk0Rl9lOEhvc0o4RkZ6VVB2UUo3MHBjTUtQVjhMaGJVZjBCaU41ejZKX3BRY3lYVHlZWjRYbWFrQXN0b3c4NUdqS2VwYXg3ZEZfQXExWXItbzRQQ1p1RTAyREY5NUE?oc=5
+- **Source:** Seattle Post-Intelligencer
+- **Published:** 2026-11-14T19:38:55+00:00
+
+## Microsoft outage disrupts email-based pool chlorine monitoring, leaving hotel guests injured - Notebookcheck
+
+- **URL:** https://news.google.com/rss/articles/CBMi0gFBVV95cUxQSlBzYWFjWFd6NDdpb1JpUFQ0U3ZwOUpCeDhTd0tnM2g5alhtTVJDQmVMaDN2ZlFrVk1oUDdCV2pBVUtqT0hUeEVURDRiVWlYNkFfLTdRRjM0RV90QlExZzg0amFSWFB6MVFnU19hd3FBRnVSNnJJN1kxUFh0SmVQUndRUkVuNXY0Y1RxUjdPcmR5TkhqVWVPTnlQWmx3NVF0UE55Q2t5ejJZaUZZbGNRQk1sS3JhckVEVjA1aEFNZGxxRGFZOTUydXNYY1VNVWpyUXc?oc=5
+- **Source:** Notebookcheck
+- **Published:** 2026-11-14T19:23:00+00:00
+
+## ‘I hope this email finds you’: Microsoft declares outage over as the world digs out of its inbox - GeekWire
+
+- **URL:** https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSHZ0eG5kcWJxVUFHSV94eDM1TTNsRFprbXgxQzlHRzNpZmgxRUV3eWEtTGIxUDNMeHlxbDJmWXE4aTdPTm5ORFVhRS10YktldjllUzhsNE5ROHA3cWc5TzRURzN6SVJrWHlXeWtzVm45cTBVQk9wYkVQSU8tMGNkcFZ2bGQ1TkdrSVdENlMwRE9PNXpueWlxQVdGaExWNWJyRW1lLU5SN1ZIbVBLT3hveUNSeGx6blljVGIxSTVaTDJmZw?oc=5
+- **Source:** GeekWire
+- **Published:** 2026-11-14T18:35:00+00:00
+
+## Microsoft and Novo Nordisk Unveil Agent for Enhanced Clinical Data Analysis - Small Business Trends
+
+- **URL:** https://news.google.com/rss/articles/CBMipgFBVV95cUxPVDZpenYxY01EemlvcmtGSEZPZHdNUkF5WC1nMlQ2cE4zalZNNDdYTXNwczI5UnlVTzAxZGRsT0gyVXhOQkZhdWpmTElmY2FNWG9xS0oybTFBN2NuT2gyUWpRWXRVcVRKVDR3ODgxTTd5Z2Q0WFdkTzVIcGNDMlJ5QkFud0x1dHlNQzNybzgxeWl2RTRyM1VvNEx0TEdDLUpDckhzbWxR?oc=5
+- **Source:** Small Business Trends
+- **Published:** 2026-11-14T18:07:00+00:00
+
+## Cam Ward 2 TDs vs. Bengals | Film Review powered by Microsoft Surface - Tennessee Titans
+
+- **URL:** https://news.google.com/rss/articles/CBMipwFBVV95cUxNREVKd1AtWC01UmR6NDZ3Z1ZzbjhVR2RIWGpVVlFMMkxSM2FUVjJUcUZDMkdSUjBwRXZVcVhBOGNjeTF1WlZpSFNQTTUxbnFzQzNEMHhVdmo3WVNZVHI0T0lNdlMzT2luOFhfQ0NfNkJjQWU4YlBxTU1WdW0zNVE2Sl9YSEZCbm15MWNxS0FMWEp5N3BqRklKUENydDMxeTZVTDZsaWtHcw?oc=5
+- **Source:** Tennessee Titans
+- **Published:** 2026-11-14T18:04:55+00:00
+
+## Microsoft releases emergency patch for Windows activation errors - BetaNews
+
+- **URL:** https://news.google.com/rss/articles/CBMimgFBVV95cUxQMk9TSGpFZk5ub3hNYUJoV3BEQzZwYVN2UDdpa3hhVUJtclV6UDRLaktnQ3VWSG9rUXdOa0loTXdwTDhYTGJxemRuWUVYOW5JSjQ3TzB0NXpnZVVwUkhZV0l6U0ZMbTl0S0Q0eWdscXVIOFVNZmNjaE9LQTBaczYtczk2VUZPSFJUSGFfZnc0ejAtaUNMMVZKZkR3?oc=5
+- **Source:** BetaNews
+- **Published:** 2026-11-14T18:04:49+00:00
 
 ## Workday Suffers Massive Outage 1 Day After Microsoft Faced Similar Disruption - People.com
 
@@ -249,57 +303,3 @@ _Last updated: 2026-11-14T17:43:43.012623+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMinwFBVV95cUxOTHVldWNnWFNWMUl0R1pTN1ZhVmlnMU9MTk9sbGw4WHBORlJpd3VXbFlwNzdYY3REUHRtX01oMzU0eDVBdm9sSW9HRHo0QmJFT2dSRnBDMmVDd3k1X0dmMWlxSWhkeFE5M2dHQXNac0FHQlBFQUc1cVVjX09JX3g0R0FPOVJURDVrWGdsQnl5WG1uSjNGaHFBXzFPS25qNmPSAaQBQVVfeXFMUGtTUUJSbGFHQlVWdk5TSk5yOW94N0RiLXhPSS1jTzVvY2lMUVczenEzTEZCVEI5YUJUTWxDcHhQbmw4TmxIZWFjZDdseUpzeVFRU1VkazZaZ1N5QlJvRmFOTFBRQWdsdUlIQnlSbjgzaDEtZGJMN3RvSUdqV3lYX0xTVExqQ21LWHdibjZjS1YwYWdYSGdqamd3VmptWmlBbHVpNDY?oc=5
 - **Source:** The Times of Israel
 - **Published:** 2026-11-14T10:18:45+00:00
-
-## Nvidia, Alphabet, Microsoft, and Micron Are All Buying Anthropic’s IPO. Should You Buy Too? - The Motley Fool
-
-- **URL:** https://news.google.com/rss/articles/CBMipwFBVV95cUxQbFVxMm44bG1IQmd4ZE5ObVNpLTJHQVcweHc4T2R3TExkUFV2OFVGOEF0T09URGVWOTNJZXJIUWJKNmFtNVB2dGdaVXo5cjg5Ni1FU3htNHlldFZ4bW16ZVBhRU9iZHdjeEZMeTBzYVUtQWZ6T3ZSYm5oVGR4RjFaSndobHhZQVotNHZjVlMtc3A0NnVZcXlUNWRUOG8ybWpHbkczZjJESQ?oc=5
-- **Source:** The Motley Fool
-- **Published:** 2026-11-14T10:02:00+00:00
-
-## Get Microsoft Office for life on one PC for just $25 - Mashable
-
-- **URL:** https://news.google.com/rss/articles/CBMihgFBVV95cUxNemFDUDlOTzhzdS10cUt1NjkzaXoyd3luNVM1MDRKcXZKT2tfa1g3NXluYzZneDI1US0yU3R5cmFMa21OeUw4SGUwclZmQWw0RmRsYkpGWEZ3QS1Hc3NfdUxBMWQ3cUhKRjdBS3pUUFFhNmZSQzlZTks1cWdYb0MyNmJmSHpZdw?oc=5
-- **Source:** Mashable
-- **Published:** 2026-11-14T10:00:00+00:00
-
-## Microsoft Service Restored After Widespread Outage, Company Says - WSJ
-
-- **URL:** https://news.google.com/rss/articles/CBMifkFVX3lxTE9SZmZCcS1rWDBlU1EtNTRYbFY4TE00cEVObWk3ak9jcnNsaWtabW83MjNuemxSUk1WWXZ5Q2VubUtCZ2Y5YnZkN2dNR3htVEhHUkpPbjNuczc0VmpDb1dIZ0Z3TVFaTW43Z1hrc00tTWFQQ0M5cFd4SUd6TG1ldw?oc=5
-- **Source:** WSJ
-- **Published:** 2026-11-14T09:56:00+00:00
-
-## 23 best reactions to Microsoft global outage impacting millions of users - Indy100
-
-- **URL:** https://news.google.com/rss/articles/CBMigAFBVV95cUxNSmRlMEt1MkNhYlZFak9aTFZfeWVmLXBMSmhHRGtTUnhzVEp3OVNEVDZqbW5DbVlMM0Z1Z2MwQW5ycHlaLU96dGhLeXVleHdoNWFzQWxTOVF3T3FJbEdGRGludnVFTVNZbmduQnctZ2ZQdnNadUpiRDZJN2wzcXVzbQ?oc=5
-- **Source:** Indy100
-- **Published:** 2026-11-14T09:53:15+00:00
-
-## Microsoft has an 'email warning' for its Outlook and Teams users after 24-hour-plus outage; says: Do not - The Times of India
-
-- **URL:** https://news.google.com/rss/articles/CBMikgJBVV95cUxNemhGTGYtc3BhcndxeTN0eUVpa2ZUNk4tNkd1SU1ib2hZSTlVZG1fMVNZMDF4Z3Vya0o0eDFDMzQzazBQT25tUjNKbEg3aG84RXNXQ0s0alZHanRwQWJ1V1RacjhMTU12WmNaLUUxOTNVc0J3M3c5T3pJTWNZYUktZ3B4eEtkRFlfR2JGQkUxdERRTUdVU3NNZnE5emJMNEdHdzJHeVpVbUYwU1BwLVpleWJUWFFlUl95WlpvS0dUTDZhUlVTSjNqTHVCNm1VTG5pLVpsSk5VX2h5RGFxbGx2Qk52ZnU3aW5qMERIY0NFUlN0Y2ZMQmxlbnFwWWZQYnhvUGFOMmQyQW5YTkVuOG0wRFFR0gGXAkFVX3lxTE9iZXlSRmlZQjc3dUlQX2RNQXNsZUxkcjFBOWI0NWFpR3BKQ0xFa3ZJRDA5aTlDdGxTcXFpQk5wODVCOFJuWVhoZERGd2RZenFqSGRqYkVaSFBaRm1QWjhvZXg2RTRBaF9uc0JsU0Q2SDNjTmRiVWJyUEticl9yX0E4c1l1dXJNTFMyTzlvRF9BeTVEQXMwMzNUblVoZGtGMFgwYmZRRnBYLUtyS2E5Wk0tVmFBUk1ZY0EwUHVjeHB2eEllc0NueFJaX2UxLXBGaTY3UW1BbnQtWGlfU0dqWWFzRjBfWlZRcDNGS2FicFd4anF2VjE1S29FQlZRc2FUMHdWMTY4VktPakdiSkdmdC1VeUFicFg2RQ?oc=5
-- **Source:** The Times of India
-- **Published:** 2026-11-14T09:45:00+00:00
-
-## Microsoft says services fully restored after hourslong global outage - Ottumwa Courier
-
-- **URL:** https://news.google.com/rss/articles/CBMi_AFBVV95cUxNRkdQc1pEQXNyX1BOY21BcjlhNEpiRmdaRUVxSWNtMFdodjR1c1NzVHZfdFVuc0o1UGdGSkprdUFYVm16UVdFZnlSaXcxaWptU3kzOHJCTmRBNDlTZnJPWk9TZ2tTenVnbk5hcE5ZRDQyZmVnTlRzZXBlRktxZnRVdzRKZ25RWnMwVUxHdS1tSXV1OUpQVjRtRXUtV0l6ZGVKWmJnR2ZtRzhsa3JrVmViYlNseFJGS2NJb2tZMUlybkFoLWc0OFlpaG9nNl9fM0hMaUV5c1Y3Q1BsbXlXYy0zZjR1UWoxT2U5RlR1OXptSHFkbWZwTFZ6LXBpUG4?oc=5
-- **Source:** Ottumwa Courier
-- **Published:** 2026-11-14T09:21:17+00:00
-
-## Microsoft says services fully restored after hourslong global outage - WV News
-
-- **URL:** https://news.google.com/rss/articles/CBMi6AFBVV95cUxNeE1QWDRWM1FDY1NJbGhBc0hCblpPUThEWUltNTZhNVhuRzEteWZxSC1PUG1BTV9JeHNqUGdKY2J3NG1mSnlSQmk3ZnlkSGVTamNEU0dDN3VRNEIwTWpPZXpEV2ZPYVkzd1VZdUg2RnNqR0xuc0hNMnFMMjdtZWFKOUlfMFdCQVhWWDBnZnBXa0ZBWks2X0JjdEFsUXBLLUVxTUtwbFlDSG4yVXVmbXc4Q3I4WDJYX2duN1AzU0FJNk5LeWR3VWF0c05JU243RGpnNG0ybjl3ZDJGZzUxT290MzNBTVZ1OGJQ?oc=5
-- **Source:** WV News
-- **Published:** 2026-11-14T09:21:17+00:00
-
-## Microsoft says services fully restored after hourslong global outage - WRAL
-
-- **URL:** https://news.google.com/rss/articles/CBMipwFBVV95cUxOVTA4X2xWM0E3VkZ4M25CYVFGb09IYlg0aDdGNmd0U2hZVUJXX1Y1UEM1UVZ3UDlmRVA4NGR6WHBPQTFiYjE1VHl4NFJrQWpQMUdBMDY0eE0zcXgwQlVlZWNlMnphOHh3M1JobWNRQ0FaZ0k4Wmg0ZXEwbXh0WkdJcDJGUjZHQi1YM2ozMlNhZ2djMlVRcnNidjNJcDB5aHpEOF9Lamhyaw?oc=5
-- **Source:** WRAL
-- **Published:** 2026-11-14T09:17:35+00:00
-
-## Microsoft says services fully restored after hourslong global outage - Bozeman Daily Chronicle
-
-- **URL:** https://news.google.com/rss/articles/CBMi_wFBVV95cUxQaXo0dTA5T2xaeWpncUM4ZklWODZYVzJOZi1jaE9zT2otVm4wUXRxQUVoZTVrblV5dWVRSFZyRW9oU2Yzcjd6SXhjbXFvbzNlNFhPMHVLd1psT1RVSi12MG9qTmg4MkZEV3hJU0JnYzk4TFdiSl9kMzJPb1lfS1RCcDc5Mlk3UEg2TlFiTHlFekgwRXFobUFlWmZBMmZQRkxZQkZDakJjOGY0b01xZTBQczk2REJJdi1iekZscUduRmUzYkxoWlZfQjZSNjIxelRlaFREN2Z4VG1ZYXFndDdPa2VrbzE4YTRxNjR0WkNTUWlwblhwR0xvYlIteVUyZFE?oc=5
-- **Source:** Bozeman Daily Chronicle
-- **Published:** 2026-11-14T09:12:00+00:00
