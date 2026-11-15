@@ -1,8 +1,32 @@
 # NewsWatch — fusion energy News
 
-_Last updated: 2026-11-15T18:33:39.454891+00:00 · 50 articles_
+_Last updated: 2026-11-15T23:47:53.582145+00:00 · 50 articles_
 
 ---
+
+## NVIDIA, SKT & Rebellions Sovereign AI NVLink Plan - CASRAI
+
+- **URL:** https://news.google.com/rss/articles/CBMijAFBVV95cUxQdlN5ekpVNDNYMGgyZGFYYnV5V2h5bVFCS1ZVN0NWRUFoQXBDTjZLUkwwQ3dCNXJHY01lYjdGNFZyUHNSSlNVNnRZVG9QQVVMZzNYVWNLOUQtUWppNjQycHRZRWIwQlVBLTVVU29YSkR0Vk5SbjJBbWYtRTVRVENvY0xXYzFLREFVOFM0Sg?oc=5
+- **Source:** CASRAI
+- **Published:** 2026-11-15T22:53:42+00:00
+
+## Asia Is Building 73% of the World's New Nuclear Capacity - Crude Oil Prices Today | OilPrice.com
+
+- **URL:** https://news.google.com/rss/articles/CBMiuAFBVV95cUxPeW5veTlMd0FSUGVneDA3Wm1DRS1rNVBQVXRTeF9Ra1NlazFYejFJcnRIZXdxaFR0cUVRTEpRbldKLUZOQTR0TFRQMGxINkZHQU9lOWFaNEV2NGZod3BLV2o1VEoybEg3U21XRWh0QmJCQThnYS02NnhzLTd0V3lQNmkwaUtFWWd2YVUwdE5Pd1FkblVpSEk4VTc2NEpnSEphQlkwSzExUnFTTExXeEdVMVdBWWdJRXp60gG4AUFVX3lxTE95bm95OUx3QVJQZWd4MDdabUNFLWs1UFBVdFN4X1FrU2VrMVh6MUlydEhld3FoVHRxRVFMSlFuV0otRk5BNHRMVFAwbEg2RkdBT2U5YVo0RXY0Zmh3cEtXajVUSjJsSDdTbVdFaHRCYkJBOGdhLTY2eHMtN3RXeVA2aTBpS0VZZ3ZhVTB0Tk93UWRuVWlISThVNzY0SmdISmFCWTBLMTFScVNMTFd4R1UxV0FZZ0lFeno?oc=5
+- **Source:** Crude Oil Prices Today | OilPrice.com
+- **Published:** 2026-11-15T22:00:00+00:00
+
+## DRAGON BALL SUPER CARD GAME FUSION WORLD Start Deck "THE PRINCE OF SAIYAN" - SNKRDUNK
+
+- **URL:** https://news.google.com/rss/articles/CBMiV0FVX3lxTE8xbmt0Y1MyMFR1ODFJOXBQa01VSGpIczZGWGF4eXpKX2tJMkRyWVRTbk9XeXpiVTIzMC1GVFlBSERjeEZQSnl6X2ZEVlB2Qm4tSGt3ZlZkSQ?oc=5
+- **Source:** SNKRDUNK
+- **Published:** 2026-11-15T21:37:39+00:00
+
+## Proxima Fusion and Kyoto Fusioneering sign MoU to develop plasma heating and fuel cycle technologies for commercial fusion plants - Energies Media
+
+- **URL:** https://news.google.com/rss/articles/CBMickFVX3lxTFB1R01WaDhGMTlnMDIyNGVFcEg1UGNxSUFDazNWYUxZOUFmbnpNR1lEWWR5Q2huUnllakc3dGY4amx4NjRWeXY0YkFGQnVYeW04ckd4eEEzNExQRG9wa0NBZ3JJSFBUWkdDOWh0bHhWRnlIdw?oc=5
+- **Source:** Energies Media
+- **Published:** 2026-11-15T19:15:27+00:00
 
 ## Iran to launch first fully indigenous nuclear fusion system - Mehr News Agency
 
@@ -279,27 +303,3 @@ _Last updated: 2026-11-15T18:33:39.454891+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMiSkFVX3lxTE9mcERsUGlOUWZ3c21wWmNLc3p2YzJKWFVaSmhKSXR4am01cjhWb08zWHQ2VFI4UEZuSEduLXNQS2lCX3g1OE5VS1Rn?oc=5
 - **Source:** وكالة الأنباء السعودية
 - **Published:** 2026-11-12T17:03:49+00:00
-
-## Exascale Fusion Simulation Team Named Finalist for 2026 Gordon Bell Prize - HPCwire
-
-- **URL:** https://news.google.com/rss/articles/CBMisAFBVV95cUxPUndzSXo3Y0NMSTIyTTd3cTZCY09oRkx3VjNXc0tWOXJsSnA2MERpb0VpSEVMakRQREhVRkU2Q1Bsc0tscEhEOHdHN01vdUFtNnkzWUlranFtNzJqZkNaRDNoX0RzcVZoOHg3Nk9CN0V5WElqWGJ4SlpMRW9IQldVbVo5RGtfQ3RPa1NGSjIxSkFUdGFRamU0SHdNb0MzSlk2bDY5ZzdCN2F6c3l1VGtETQ?oc=5
-- **Source:** HPCwire
-- **Published:** 2026-11-12T16:36:48+00:00
-
-## Bids invited for construction of UK prototype fusion plant - World Nuclear News
-
-- **URL:** https://news.google.com/rss/articles/CBMinwFBVV95cUxPWkc0OGFCMVRNemMySGdPSjZTRUQtSDJlUlVkY1l2UVVaYjN5TmtWb2stNUctVTRVXzN3aFJzd0VXLXAwcElrLUE2ZHptWGdvNkotaDgybHpqNmRzNXBWZk05a3dfUTEwTUdJb1ZTU2hLaDFtdlZkOWhFZ2FYN2hVQjIxUHJqWGQ3UmpBTTlodm9BMjFKd01zQTh1eWczNEE?oc=5
-- **Source:** World Nuclear News
-- **Published:** 2026-11-12T16:20:09+00:00
-
-## Advanced nuclear test reactor unlocks full clearance for core hardware trials - Interesting Engineering
-
-- **URL:** https://news.google.com/rss/articles/CBMiiwFBVV95cUxQQmxTaGZiampET3JsUXd6TlRNNWFLY0dvTXVxSkhMYUFRX2x4cjB3YlFHQS1STFdXd3pTMHo4VUVGWWVlTUx1RXRsVHBUSWcyOTZkdDNCbDk5V1libkEwTzFMeVRrbmxMVkFkazdRZDZkRGR0T09RSDFvWEhzS0w4Qjl1aUVraW9ySlJR?oc=5
-- **Source:** Interesting Engineering
-- **Published:** 2026-11-12T14:16:00+00:00
-
-## AGORACOM Launches AI Powered American Fusion Verified Forum For Civilized Shareholder Discussion And Direct Management Engagement - The Manila Times
-
-- **URL:** https://news.google.com/rss/articles/CBMiqwJBVV95cUxOSUtsbXJZLXpQS3ZjTjBoOWFiMlRLYlJCV3VnR3dyTDY0OGFJRlZPdWo4VDQ3Njh2RGxEMEF6Sk5maXdsY1cxT3U0UHV1WFN2SGpBdzRaTDdSMTREQzhlZkpzdS10WFFrQ1lTUjIzZGZIbHN0Y1F4VS1ITEp1R0RWM2ZtVzM0RkxGbVk5Ul8zWlZxRHJnRThMWV9yT1RuSDFyZlZvY1lIVUltZ0JGR3FzcXpSZTMzT0E3Z1VSNHZYSkMyM3VnWVBrMGJQY3Bldy1sdXVUNVdqMm4tazB6RzJzWFp3TmlfalhhcFF3ZkpWQ0JESUw3eWg0WVBsWEdkc3ZCR0gwVUFXY2YxX1Q4aElJbUxaMFp3dk9vYnlWZFVoZ3NkZDh0UW1DaGpJRdIBsAJBVV95cUxPYUJ4UF95Wk1TMENDUFBsSW1NX05PZjNWeTVTV1VnM3RhRWtpMVpHVU1pYlhraG5ZbWxyd282OUNKUWlpRFJETEFVT0ZLYXRkTUhxdHBXeWFzNnU5OWtfSFI4WUZZR3hDYXRjajBfa3ZtWmMyS1QxeUZGT0M3YldBQ0x0WVV1Z0N3UllzX2w1OXVKd1FYcGFLWGl2bHFBa0pidFczeHl3Vk52ZkF5Wm5rRGljMkRRQ3VZMS1kcWRsd3A0NV93ai1Wb3V6ME1Rem50d1MySWN4T1pQN1k2Vy0tcWRNUU1DaUtEN0t4d203Z1JVVi1zbUhKTzA4N3l3dzZ1eGZtQ1ZSaGs4Q1A4azEyQl9uOGNpbFZFWjd6ZGtLRDA5V21aSEVzVW92NFdidlAy?oc=5
-- **Source:** The Manila Times
-- **Published:** 2026-11-12T13:49:54+00:00

@@ -1,8 +1,32 @@
 # NewsWatch — Iceland News
 
-_Last updated: 2026-11-15T18:33:39.126456+00:00 · 50 articles_
+_Last updated: 2026-11-15T23:47:53.283471+00:00 · 50 articles_
 
 ---
+
+## Iceland vs Luxembourg prediction and betting tips 16 November 2026 - Dailysports
+
+- **URL:** https://news.google.com/rss/articles/CBMiqgFBVV95cUxNOHFkdkZTWHNpY2VsRnU0ZlBfOFVaRnBrb1E3LUQwQ2c1dldxVVNKcUxxWldidEktM0dsLTZLYi14cEVwVGRONUR0UFpkb2dYZ3l0TUZ3TmdaZ3hqMW1FVDRFWGpGQTBMY3lFRmpSNld2Z2FkNjZTX2Yxc3dhY1R6Mlk1dTB3UDZ0dkhqdDRTZGxSUHFMbVgxOUdVQ0p1OHZsS0ZWZzRfaC1rdw?oc=5
+- **Source:** Dailysports
+- **Published:** 2026-11-15T23:39:00+00:00
+
+## Iceland - Luxembourg: betting tip (cf 1.85) and bets on the Nations League match on November 16, 2026 - Liontips
+
+- **URL:** https://news.google.com/rss/articles/CBMizgFBVV95cUxNand1RVc5bHRLWTRtWGZzYVQwbjBoRVNVNzctcjNxUUQtM3NFc0FNTGh0TGRrMjdTa2ZvQkxuSF9DNHgwLTRyeU9tejlMd0Y3Qkx4VTRrTnRieW9rM3VuUE9sdUJOMU52dmV1Ty02QkxaYUpjRVVEVHg0cmJRUGRMSkRIV3ZzUHlKWi1yNXloQVo4ZGxyXzlubmVUbGg0RFNLMnZ3SmkwamZnaDByMG9ram5TOWYtTktudzJzY19DU3lrUzRObWQyUzB0dkExQQ?oc=5
+- **Source:** Liontips
+- **Published:** 2026-11-15T21:08:53+00:00
+
+## Iceland vs Luxembourg predictions and betting tips: leaders to seal promotion in style - Squawka
+
+- **URL:** https://news.google.com/rss/articles/CBMingFBVV95cUxQVHRwYkduVjFQV3U2Y1dvaTRlYklXUXl0bkhjd3prRW5GdzgzLUlGU0t6REpRVi1YVXBKaEljVFJYN1FpbzZrRkRhRW5BY2t3dmVTNEs0LU5zdWxvc3NfdTF1ZVo1ajVPc05WblB6dEZNNERxdm9rTzVlV2JCdDJkZi1UQ1FIcG1DZ3ZXMkR4ZFhiU2dBdDBKa2pZY0x5UQ?oc=5
+- **Source:** Squawka
+- **Published:** 2026-11-15T19:59:22+00:00
+
+## What to Do This Week | Arthouse Films, Poetry and Other Events - Iceland Review
+
+- **URL:** https://news.google.com/rss/articles/CBMimwFBVV95cUxNT1A2ZTQxRVpFT1poSlVLa0pvUnpsaXlNWmFMUVk0UUJYSm1mRXJRVF9iWkNpQ1R5MWVkUW5Ld0FYZ19mTWJDWEVOM1VDUHZXVHBheTlmb2tKQ3FGU25zVkp1MWFSbWM4N3pJOXRYUXVSOGNNOE5odTdEV1MtbGd1MWFDdjQ4cHlJVkp5OHN0anpjd2VvcHNoaUxPVQ?oc=5
+- **Source:** Iceland Review
+- **Published:** 2026-11-15T18:52:35+00:00
 
 ## Watch Iceland vs. Luxembourg live today: Who is broadcasting the match on TV and via live stream? - Goal.com
 
@@ -279,27 +303,3 @@ _Last updated: 2026-11-15T18:33:39.126456+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMioAFBVV95cUxONDJkMjRCYUlRR1BzdENiR3BNcXZWQ0dubWxieEJlaDVRNlNCY1FNYWNqUzJiVmVDTVlpVUJqYUdfTlFUTnp4ZEtidVBXZUF6ZzBkODAwWU9Sd0x1VG91VkJ1ck52WTNpbGt1NjREelVDZS1aSFZPSWhpdmFvbF9xYnRuYkkzYlR2bG5KM0paSlJaTTd1bjcwRmJXeUw3aFhW?oc=5
 - **Source:** Legit News
 - **Published:** 2026-11-14T09:02:29+00:00
-
-## Macron’s awkward embrace with Iceland PM Kristrún Frostadóttir goes viral – What happened? - شبكة تواصل الإخبارية
-
-- **URL:** https://news.google.com/rss/articles/CBMiU0FVX3lxTE5qMUIwaDY3MWEyUHAxNTRsWEJXSTZRMUNGdXRBWm56cHZMLXJ2eVNMdHhtU25SLXFJT0dJbV9rdE1Jc0p4d2xUNDVycXIxOGFqME9J?oc=5
-- **Source:** شبكة تواصل الإخبارية
-- **Published:** 2026-11-14T08:42:56+00:00
-
-## Macron’s awkward embrace with Iceland PM Kristrún Frostadóttir goes viral – What happened? - WION
-
-- **URL:** https://news.google.com/rss/articles/CBMizwFBVV95cUxQSUdrQnZKZlJLU0hYNjhzdFFGdi03SHlvQ2xaNWJEUVhKNlFsTFFPLWpGVmFjdDVKamFlT3R6NjVjTUtZdktBLTdDSm55V0lESm5rWTBkSDNFclpENWJGN0o3TVI5WFFySTF5OG5RSG44RU1ZWHNqOFczVXNFdDV2SDhxa3E0NnVXOVM5VUNtTkZrY2VEQzJQRDBqNmtyYW9XS3BLSjRCbTN0UU5LVTBJU2JVaGduYlVaTFphcXlWSmNXcVJKeEljQVM1X2JObWPSAdQBQVVfeXFMT1M0YVBoUEN0WlFSczBIV2V4Yi1KNHRZRlg0NXc1MVpzeGR3dUxvdVJZMDVtYmI1LXZwRHJIbUxBb3p0RUw1a2R6d1M3MHRXbVBnYVJXd1NWamNQbVhHNHhIQzNEZFJiZFFZUFdwMW44bVRLYjlQM213dkdhQTZNeXBEUVNXdG1MNm45c0ZLWFVNSHQwaTlDYnVVX0t3bVRMdWdrQU9na1h6OE93M01pLWg2dW5tcmxjamNkWGliME56aU55OC1wNzgxSVdxdnVsYzAtZ0c?oc=5
-- **Source:** WION
-- **Published:** 2026-11-14T08:37:00+00:00
-
-## Beið margar klukkustundir í flugvél - RÚV.is
-
-- **URL:** https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZmJlaXJZZUlvTnEwVFJvZGpobFctTEVQeDUxTWZHT1ZmQ2dpQmFfV3dmUkNFcVladHRMMkRnRFdsLTMtWkpUWk5TbkNDSGdFTWNzeG1GOV82LXppSmRBc0g3bms3RlcwMjFCZFF1b2RZclg5MXRPYW96aUlULUh5MFFiZ0dOMjVnQkow?oc=5
-- **Source:** RÚV.is
-- **Published:** 2026-11-14T08:14:00+00:00
-
-## Euro Truck Simulator 2 Breaks Player Record After Iceland and Coaches DLC Launch - BoxThisLap
-
-- **URL:** https://news.google.com/rss/articles/CBMidEFVX3lxTFBQQXBIX0NLZWJuUjYyRHUtTWdQeTdLcTNqcHlBZ25sWTE2aTBNYnY1R2dXUG9mUW1qLTFpM21mZS1aWnQ1VTNsa1hWTWtwUmlSQTdVbEtKUGVZd0hWT0RPWFA0STJsWWRDYzJmdWVadTItcHA5?oc=5
-- **Source:** BoxThisLap
-- **Published:** 2026-11-14T07:58:25+00:00
