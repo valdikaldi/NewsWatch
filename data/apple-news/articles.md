@@ -1,8 +1,26 @@
 # NewsWatch — Apple News
 
-_Last updated: 2026-11-14T22:02:05.639783+00:00 · 50 articles_
+_Last updated: 2026-11-15T11:47:37.891139+00:00 · 50 articles_
 
 ---
+
+## Nvidia's Biggest Challenge After Jensen Huang? Finding Another Leader With His 'Sense Of Urgency,' Says Gene Munster - TradingView
+
+- **URL:** https://news.google.com/rss/articles/CBMigwJBVV95cUxNRzBTMkRlMUFGVFFFTXZwSUhWbUtZclF3UnhWODRwWTJDM3lnNndodTVzZ0ZCekdRQUp5TzhTOVF4N1ozaTVsRHpSY3lpZGJPMmhSSUxraGszanhqNmZ2NGs0bmFXMElrSEdPVTAyOEVkRzNJZVdqcTQ1RlZpRHFEVllfLUZCWENBQnI2N2tkYldBdDFBUTBHVzBZNUxvM21zbmFHNjN6cWkwRHptY0xKcExZUEV1N1VMajNmMWdiWWQ3QU5hRlpTcHBpZ3V3WjA3dXloUzljYzN3ckFvQXViQmJBUE9DeVA3YkM1N2ZNTGRfaGliZllya3pVOV9lck9vV2xJ?oc=5
+- **Source:** TradingView
+- **Published:** 2026-11-15T07:16:54+00:00
+
+## Nvidia's Jensen Huang Is 'Irreplaceable' And Worth $1 Trillion To The Story, Says Dan Ives Amid Support From Elon Musk, Gavin Baker And Others - TradingView
+
+- **URL:** https://news.google.com/rss/articles/CBMipAJBVV95cUxNdDdfWkFBVWtpNExDOE9pb0tjbmVoeU1UN01oR0Y2dHY4R3BQa09KRkdtVjNVU0lnaHFua1pQMlNjdHAtS2RvTGlBNlJxU1NGenkxNERwdWE4akFUakpNRk8zckRmSjZTTkVETkZtTklmWGRfbG5pUUc5VDZCZTI3eWFEdFlJblJUTXdwZWdqR2s4MXVDZkloRnRuTG1LeF9NOUk5UDVyTmdhblIxY09WeU9FOUk2TDl2RUxpdG1BcDFmb1VNanJGS0hkMkgtNUhrMGRiX1FrOEdzWTNxYmdkYThkQWZobS1ENFlOcWVZN1ZjNGV5REZ2MDdaOUxjQXFuTnZYNnBSRzJCU0JtbU5JajM5Z1VpdjhlU2lfcl9tUFM2NDlJ?oc=5
+- **Source:** TradingView
+- **Published:** 2026-11-15T06:39:00+00:00
+
+## Evercore explains why Apple has the right assets to win the personal agents race - Investing.com
+
+- **URL:** https://news.google.com/rss/articles/CBMi0wFBVV95cUxOenpRVGNkY3djdmZuQ3pDbGVHNnozcWZnbGFxdHI2c2QtTzlFUUNKM08xMW1LUHFxbjhUVWI3cHNPNERYeFhMbF9qVkpyR1dNdWg1RURDX2JYSFJ6aGx3V3dOYngzaHZqYXdyc01fWkkwbmU3VDFLdzBsNVhOOVJYQmpISGM0S0ZQQkludkl1SHljUzhRQUk1aGliSHY3TXNkcnl0SkRxcVpOX2NoSzA1aGlpZmtqMElkbGRXTGs5aldrbUdtaVAwLXRMWjNFbGRzTzU0?oc=5
+- **Source:** Investing.com
+- **Published:** 2026-11-15T01:39:22+00:00
 
 ## Apple: The Business Got Better, The Stock Got Much More Expensive (NASDAQ:AAPL) - Seeking Alpha
 
@@ -285,21 +303,3 @@ _Last updated: 2026-11-14T22:02:05.639783+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMi1AFBVV95cUxPRjhFb29HZjhhT0p1R1R5ejl6RHpGbWJaajl5c29VYWxLUUR0VUZDTU5UMnM5aXJLVnhTYmhJVWVVTFh6Q0RQc3JVTER6TllxZ3ZUNlRraW5TRDNoWGVYbjZVSS03eDI3aWI2bzBYN3h3MlZvM2JxSmJXdVRHY25DNk5acXVtaThwSGdRNDI1cFF6OVVTUk5yT2xEdjJiX1VhNVBMUDA4b3U4QVdlcTN5RlhzZWpBY1EwSXVoUFVEZk9xQXgtNjJtZVJqa2RkNXNUM1l3OdIB4gFBVV95cUxPVDRjT2I0OUwta0dHNE1iVWpKSng5TzZKSmNXU0QzZE9xczRLN2YzcEhUaVA4MjBDNmJpaGl0Q0huNHo0Um5RamtFR1Z0QW5uRnlsMURTWXBxUFRJOHRDdkdjSi1fS1FiaUxPcjhROERWMUY4LWJyZHJEY3Y0VXdORlhMQkY2WUppUzQ0dURBbG1OZTRSOF9CajdvX3B0RkhHdmZNYzFpOGFHaWc5R0dqZW05TFhTQkJwXzUyd2VRcmdoN2o3Rk1UX2hncGoxWlJEaUY2T1BtTTE2WEJwdWhzeUZB?oc=5
 - **Source:** The New Indian Express
 - **Published:** 2026-11-12T16:52:23+00:00
-
-## Trump says ex Apple CEO Cook is 'a legend,' should replace Huang at Nvidia - The Korea Times
-
-- **URL:** https://news.google.com/rss/articles/CBMitgFBVV95cUxOMWlTeUxCMW1DRll5dlR2ci1IaWpzc2VJQ3RXaGRKWF9YRnBSN1Rrc1o1dG9UWV8yOVhoUkM4aERQV2Q5dWkwVnI5T2JMUEowT0lDenZ4VU5fV2EyeUZvdDN0Z0xBcGg2VTdhSlNyTUZXV2xLNDNyRUZVNmduVXFoU0hEcHdiS3lKdVNyWUlVMVVYV3RvaXdxU05tTlB5aC1JTDN2azAyYjZrNXN5MjhvNTRGdy1fQdIBuwFBVV95cUxQNF9xaWpfU2pzeHBhVDhuVFhpRXA2alNZZ3ZwYlEwZTAwY3pQRjZNU1RZeW5BWTk4bG45OXJEel9UN19VTlhyaDdfZC1aeXRkYlh2QlpoVG1CTHRJdTV4UmpfaEZfZnFHSnZ0SU1qWmtUTlozZ3dtZDdfSzh1VTNLQ0IzUFZ6VlQ1ZVhVTEZrdGZMR0NKa3hLd2ItaDdPX0VzNTJGaWlhUExyLUhnLXE2S1g0cWNPZTNZZmg0?oc=5
-- **Source:** The Korea Times
-- **Published:** 2026-11-12T16:16:00+00:00
-
-## Donald Trump calls for former Apple CEO Tim Cook to replace Jensen Huang after scandal - The Jerusalem Post
-
-- **URL:** https://news.google.com/rss/articles/CBMibEFVX3lxTE8xVWViMk5pZDVGRVNxSG14TDVya2NYVll3aU1USGpLQm5pVzJKZDRkSV9FQ1R2RzRTTjVfd3k5aEhwQjdneEpSQ3JxMmZQMDNnMzV1c0swMWtEci1WNmdLd3h0RHM2UV9tWURBVw?oc=5
-- **Source:** The Jerusalem Post
-- **Published:** 2026-11-12T16:10:45+00:00
-
-## Trump endorses former Apple CEO Tim Cook to replace Jensen Huang as Nvidia CEO: ‘A legend replaces a legend’ - Livemint
-
-- **URL:** https://news.google.com/rss/articles/CBMi6wFBVV95cUxQZmZ3U2l5RDV4MVBobUoxR2lGd2k5UDFtcVI5d0M4UzNPbVdNQzJzZG8wTlV4NXdzZGxfQ0ZXamtpN25XQkpqR1o0SkNGMmQyOE9sN2hRSnZNcDZVc25EYU11NEM2ZHV6Z0k3STVoQmU4RkJwMS1PNVhZZmprN3N2cUdPT0RsbU9hbzJFSVYwZEQtZzRrVzlGZVZTY2hxRkZESXQ0NU5nbEVMTHp4RU5pVjNHS0pzMENsbVVDX21Zb3Q2Z3F6cTd6ZERneWpSVXB3dTY3eTF5UUJIRDl6YzVMR0hBRVJYQ1ZITVBV0gHwAUFVX3lxTE9lUVh5OU9BZ0w5ZVNCQUplYzVVU0dEV2VZMU9yR1dLVVZESkgzckw1dEh4UEV0UmYyN3dITm5OM0hZV1VpeGpVNl80X2ZRV1ZIZl9jdW1jemhSTmVTYW1Hei0wV1hfbFowMkxmUUR6UldRQlFGRElla3EwbFVLY3RNSWFWY010OTB5amJwUFhJMm5lTEtKeWY3SnJXcnp0OUdWeWdBX0FoUk9ISEFvZUtKN0d0bVRCV0dtQ2JGQnZDS0ttM2k2R1R0MXotcE5ocVJac2FLQU5qRkcxWFRxNnExVnZGandUTTZjTXhseC12RQ?oc=5
-- **Source:** Livemint
-- **Published:** 2026-11-12T15:55:47+00:00

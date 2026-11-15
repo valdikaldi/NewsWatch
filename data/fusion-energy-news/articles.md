@@ -1,8 +1,56 @@
 # NewsWatch — fusion energy News
 
-_Last updated: 2026-11-14T22:02:06.954846+00:00 · 50 articles_
+_Last updated: 2026-11-15T11:47:43.784036+00:00 · 50 articles_
 
 ---
+
+## Fusion, LN4's single-seater partner, announces its entry into Formula E - www.autohebdof1.com
+
+- **URL:** https://news.google.com/rss/articles/CBMixwFBVV95cUxORXQ2bmhSNUNaaHdXcWRValY3RjVpNkpBdmxJaDF3QmN3TmFmTHc1Qm9Fd1E5QjhOcTUtVTRyMjRUNkl4RG54ck41a2F6dFY3aVI2UjJxamlEYU1CcUpsS09Mb2hZM3dRcWJxQkphOHV2dGdQMmtMZUtLS2dpRlIyUVI0eEJoVkNwVDJFMlVpUGpUY2tFUS1lLUpBZVhHdUJGenNqbmR0anB0SS01clBMNDNhSnlLRUc1NFZ1QlpKLV9ma3QtMzhv?oc=5
+- **Source:** www.autohebdof1.com
+- **Published:** 2026-11-15T11:22:15+00:00
+
+## Mei Yonghong: Winning the Technology Contest of the Century - The East is Read
+
+- **URL:** https://news.google.com/rss/articles/CBMickFVX3lxTFBGZFNfYk9BVGF4dzRvZUZUdUpqUTA2a1dVVW9kTVo2S2N4ckRxYUMzTkRyVUh3SHFBYzJzT2ZZYm0tY0dHUmpJRzV3RVJKLXluTzZOR0lNQjU5WmtHVDIwVnM4SFE5QXFnd2x3WXg3T0x0UQ?oc=5
+- **Source:** The East is Read
+- **Published:** 2026-11-15T07:45:07+00:00
+
+## Fusion launches defense-tech fund with $2M startup backing - The Jerusalem Post
+
+- **URL:** https://news.google.com/rss/articles/CBMiY0FVX3lxTE5oVnZELUNHbzVxajk2X3F3YkJxMmpWaE9GR3RIc2ZTUWdoOXFNSW81NlNnRmx6dFlsSGdERDZuUmkwS05mVVNDaGtsbjgyM0RaWllnQmJmdFU2dXhQV2NlSlFZbw?oc=5
+- **Source:** The Jerusalem Post
+- **Published:** 2026-11-15T07:14:35+00:00
+
+## Trump Media Earnings Call Highlights Growth and Merger Plans - TipRanks
+
+- **URL:** https://news.google.com/rss/articles/CBMisgFBVV95cUxON05xekQtM2ZfMmhjLVNvbUVhdWJybVJOZ01FU1gxZXNZTTZnRjlMOWJrMS1KQmxLbHc1OTRsMVhlSzFxd0lRTXhnUnd3amhDRUtEcjBveXZnZ3p2S2d4aE0zQ2VpR0NtbE1Jalh4cjk5RDJyVVAzekxCQkp4WEZVOWtSaFpHMi1MMmRULUlSSlJlNmhXUkVBdGV1bWlxVURvRnVXdXloYVRqVG5KS2tqS05B?oc=5
+- **Source:** TipRanks
+- **Published:** 2026-11-15T04:38:50+00:00
+
+## Pokémon GO Wild Area 2026: Raids, Mighty Pokémon & Bonuses - MMOEXP
+
+- **URL:** https://news.google.com/rss/articles/CBMingFBVV95cUxNeXNVRlZEeEg5aDBmWVJ3elNQNHlwU2RfSWZibF9qSG1UN1NWUEJvUG04YVdMMG5md0JtWXVtcDFfaEFtbkpvMkdQOGk2TE5UMXF1c3ZZak5YY0dNWWJJRzVlaHpoUUV1SnhTc1gzdUQ1aUVjelJmNm5kcnlsbkJWVm10STlFblBlMkZtS1dWbG9udGl0cm9tRnBMOUZEUQ?oc=5
+- **Source:** MMOEXP
+- **Published:** 2026-11-15T02:58:01+00:00
+
+## OpenStar to develop the first divertor for a dipolar fusion reactor - Foro3D
+
+- **URL:** https://news.google.com/rss/articles/CBMisgFBVV95cUxNSGpxNjdwUFZ5Ui01SFdRRE95VnFCbHF4aWNOM3ZYNmJkc08tNEdEX0dJU0tTTDBWb2NpaERjOTFnZ2JxaUlld1hxclNJNXE3YnJGOWxYRE53bmNjTGw4VnpDbGVLUkNVNFJTY3dTTEVoQ09hLWdKa3BSMmNRUUpyZnlHOWxuMldIWDlsUnlkd0tSYll6ZmNuY1VwVHRlZDFIZTBXZ3JzMXV3VEJyX0lMS3p3?oc=5
+- **Source:** Foro3D
+- **Published:** 2026-11-15T01:24:09+00:00
+
+## Rotor Returns To Los Alamos To Power Critical Science - Los Alamos Daily Post
+
+- **URL:** https://news.google.com/rss/articles/CBMi1AFBVV95cUxOTnAteVJFRFVQYVF4QzhNR1JoMWRGX0VGa0xqeVVPRXhJQU5BV3JJZ0tJTmJhMEYxVU9IVUYtWF81VW9hcGJMYXBJeWNqV3J0dklkZzI0RFBTMVh5ZEFLN1E1dU9ONEQtTks0SDlEZm9ZNnBHZG80bkFac01YZ1dxcFpLODNHY0E5ZklBeExqMWg3OGVzVWx2UmhGektQekJZZWZYdGc1ZXJVbEs3VVJZYjN1VWJGSjhMdnJyWkdkQmxJN3FSOWt5cC1FNjRWNUdMSmdvZg?oc=5
+- **Source:** Los Alamos Daily Post
+- **Published:** 2026-11-14T22:32:00+00:00
+
+## A place to connect, compete and belong: Cowan Recreation Centre at RBJ Schlegel Park officially opens doors to the community - Digital Journal
+
+- **URL:** https://news.google.com/rss/articles/CBMipgFBVV95cUxPVTU4aDRqZ1d6SGFkWWlQb1Zld3pSNkJrOW1lcDB1eno5RlJibmVRWDB5aElseXhuZVlRT09pS19ydTFGMWN0bkJMb19vN0FLR3FEcm5FM05VeDQwaFc2c3NJRmd4Y01uOXZCbjl6b010VWtzaWF4Z0c1em91aUU0T3VWUXgyZ1A0bEZyTm5lSVVMbWRvd3RWYUkzZjdWa09ZQVF6Vmh3?oc=5
+- **Source:** Digital Journal
+- **Published:** 2026-11-14T22:16:06+00:00
 
 ## General Fusion Group (Nasdaq:GFUZ) - Stock Analysis - Simply Wall St
 
@@ -255,51 +303,3 @@ _Last updated: 2026-11-14T22:02:06.954846+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMihAFBVV95cUxQcDZlazByX3Y0Y01mcV9BdmYwdzRkMzJOT2c4bkZnSk9RamZpRnRGV2RmbmtsaFZiQzduMl9FcXptQXFYUGp5eU00MTFLWERMZkpUc25MVHREVnhLTG9ocFl1aFZ1Z3FHUWhhSmRJMG5sdFlwcmNocEhKbVo1ZVBIeGJ0dHA?oc=5
 - **Source:** Interesting Engineering
 - **Published:** 2026-11-12T12:51:00+00:00
-
-## UKAEA installs 12-tonne component to boost UK fusion heating power - PES Media
-
-- **URL:** https://news.google.com/rss/articles/CBMilgFBVV95cUxNU3JudzVlenlVTTNYTHZJTWlqNG56dW9IWXoxZ2VhOS1VRVA2a2o5X0pTQWtSZDJEY0dCU0JNUldrQ3VMWXE1YzdnSzR4cjFoTGRDWkR3WnRJQnNKWGRPSXlOSkdkMllrb1FBVWxMeWJHTng3bXVLMlR0YzFIWGlVdDc4eHR1NjB6Skw3aTFlTDAzM0hWZUE?oc=5
-- **Source:** PES Media
-- **Published:** 2026-11-12T12:13:40+00:00
-
-## Fuse will not build SMRs or fusion until it makes $1B a year in free cash flow, says CEO Alan Chang - Dealroom
-
-- **URL:** https://news.google.com/rss/articles/CBMiywFBVV95cUxQSlB5RUZDNzl4bWJ0WTlIOHpHYTA0aEtIODUtcHJzVFM3UnNXeUZ2UnVzRTZYSXZ6anR2TF9LdTRiYzJON3N5Mk11YUpmX1Y0LU40NXk2c1NfNlVEVlJFZ3BBZWh4bHU4NHZOQkt4RmprcjhEU1lXS1VaRFllaFZ0WWw3Z2lzaU9LeWNhNVhwMXU1Z3BTVU5IRDdUM2h6YVNDU21Yal95SFRGWndrUURwa2h1NHIwR2lIWGI2ZHdpN2dHQ1dSWUxKb1BmQQ?oc=5
-- **Source:** Dealroom
-- **Published:** 2026-11-12T11:49:44+00:00
-
-## UK fusion engineering partner programme tendered - Partnerships Bulletin
-
-- **URL:** https://news.google.com/rss/articles/CBMiowFBVV95cUxQcE5ETUY2bTkwcFpyVktqS3V4WF9PUHE3RGtySGxad3hPSS10VGpuWVIzTDhPU1BZQUpqWEFuWk9lNFhoR2RKX05kQkxWQ0sxTlBGWXAtV2JmUEtKaXQxUmlQME5QRmpwRl9DeTI1M1hTMGpJZW15S191UHA3VVpoWDdxZkpkMFdvOTgyRkxlNzZENW5VMmlLNnIzYTFDS056a0p3?oc=5
-- **Source:** Partnerships Bulletin
-- **Published:** 2026-11-12T11:42:27+00:00
-
-## China Pushes to Lead Global Gas Turbine Market Amid AI Boom - NewzTodays
-
-- **URL:** https://news.google.com/rss/articles/CBMiiwFBVV95cUxOQm12TmdsZWppTUk4WVRrTHRsYjFFVEs0V2FDVlNxUlBXUlY1eW1XVXJUSGU0OTM1WnlfVmpPSWg3T3dlalVxdVlpZEFodUxmRkZqY1FxaFJOa2NYd0lUQnM2ZkhBbTVfSmRyWHJzeXJUQUtCRjdoUm5fRlRoeEpyT3g0ZzUwWHM3US1Z?oc=5
-- **Source:** NewzTodays
-- **Published:** 2026-11-12T11:39:09+00:00
-
-## £115m fusion plant contracts up for grabs - Construction News
-
-- **URL:** https://news.google.com/rss/articles/CBMingFBVV95cUxNc3N2RTlMXzZ3VWw2VlI2UTZCX2F5QTcwdGZ3ZEJ1c083bVZwQXFTaDZmbmlrSWMwakdUREt4MW4yelVMT1pSVEhRa3JrNlMxYWQ2MHRvMUFYOWZ5TWM0eDMwYUthVVFBSThzZ2p2SGtWNW9pMldiWFkyS2Y1dVpaUVg3Zy1fRnl5TzBhQmsxdUxwSXE4WUVWc3RkVFFTdw?oc=5
-- **Source:** Construction News
-- **Published:** 2026-11-12T10:41:15+00:00
-
-## RWE (XTRA:RWE) Is Backing A €140 Million Fusion Materials Plant - Yahoo Finance Singapore
-
-- **URL:** https://news.google.com/rss/articles/CBMifkFVX3lxTFAzcDlabzJBakpHOVFzZjNTQkZnMzlvUllsNGRhUWZERnl0cmhUc2tlYWlKdFJaaGlVLWdydncyYkd2cXZydUhTZk9PUzFIRF9ySHVvenh0aXM1VUVtZzctUTVTdTJjUzhlc0EtSHVHLTJ6b20waFU5YkZKMGRoUQ?oc=5
-- **Source:** Yahoo Finance Singapore
-- **Published:** 2026-11-12T10:14:53+00:00
-
-## hi-octane price lowered by PSO across Pakistan cities - NewzTodays
-
-- **URL:** https://news.google.com/rss/articles/CBMifEFVX3lxTE9SSUFzUV9SM3Y2LUJqc0xSLW1VNHVMM2pDckVCODRoNlBmRWVTZTNJVVc5enI2MXVTWjdEQWZDSjNfN0dhY0tZU1BXRXBTUlpCcUFEMVNPbWVIOVNPMDlnMXl0OE1QTjQ4bG5NSTFOU1pWR3RqZlNUOU9oVUY?oc=5
-- **Source:** NewzTodays
-- **Published:** 2026-11-12T08:38:56+00:00
-
-## Tenders opened for nuclear fusion programme - Trending Now Infrastructure
-
-- **URL:** https://news.google.com/rss/articles/CBMimgJBVV95cUxQZjRvYzhKcGp4bFZ5bFl6LThORDNqcjZhbDhlSDRVd3lFaVZFWTVLYURJcVI0RzJDam1MbTRZa1REcWk5ZEkxUFJsdGpjV3MwLWNzQlh4c3IzMHctQkd1UlRPNHhzdGRHSDZreEN1ZndGdW1seDF6Mk5vLVQtSm5LTVRaTTF2MWhVbjdqU1YxRGREMzdjczc5cXI2bTlQUmJrekZ3Z3o4clM3Q25Mc1BGNk5IMnFUN2YwSlhsd0tCSGR3YjVrY242SFFvNENEeHl1RkpSYU8xQUQwWDBCN1B0NXdpNlhZX0JyUlJUT3dEUlMwYmQ2VFByMExSSEVuY1ZrVnYwVDB5Tk1WSjVGMUVINzYwbjVvWkF0bVE?oc=5
-- **Source:** Trending Now Infrastructure
-- **Published:** 2026-11-12T08:18:34+00:00
