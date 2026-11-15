@@ -1,8 +1,62 @@
 # NewsWatch — Apple News
 
-_Last updated: 2026-11-15T11:47:37.891139+00:00 · 50 articles_
+_Last updated: 2026-11-15T18:33:38.246306+00:00 · 50 articles_
 
 ---
+
+## ‘Bond King’ Jeffrey Gundlach Is "Not Interested in Buying Stocks." His Warning Points to 10 Years of Losses - 24/7 Wall St.
+
+- **URL:** https://news.google.com/rss/articles/CBMi3wFBVV95cUxPRnlndVdTVjZvUEgxeVRFckJNUkxkaElCanJ2VzE4aDN5bkIzelQyWExUTWRrcG13SHZLcnVQeDlQc2lvLTVjZVZPa3VlUlRVYWZyUEM2dXlISWdIUWlJN2pvMmgtZEZKamhJbjJfX3lkdk51MXROYy1QRURwLXNRUVNBREVfai00cFhKQTVtS3htT2dCeGJJbXlxVXJIcVY3dzVESTFRbmwxZk9iTDlVYmNSZ20zMzlTQUtTam9BaXRoUnNILXAtVEY3bTM0Tml6WFhoYUY2STJDOXZ5Qmkw?oc=5
+- **Source:** 24/7 Wall St.
+- **Published:** 2026-11-15T17:12:00+00:00
+
+## Apple Inc. $AAPL Stock Bought by Norris Perne & French LLP MI - MarketBeat
+
+- **URL:** https://news.google.com/rss/articles/CBMiugFBVV95cUxNclN3a2VMNERXcE9vS2RWa3ktd25JZzRIMWE1eUhpa2RtRjFqUzduekRDWnlvOVRfMXZsMGxxOWFNbE8xLVBxZDYwTWtMSHRJTXgtcmwxaXIzb2xEekZMNHU2VW5aWFdQaGc5VGpVRXowcHUzLWJVRm5wcmpOajdwS2NLQkFpNVQwbHc4WEZJUlNTOW4yVXFNNnJIOUlKd3pjSzI1NDRoMW0ySFVaeHRPRWdYcGhJVEVHNGc?oc=5
+- **Source:** MarketBeat
+- **Published:** 2026-11-15T16:30:42+00:00
+
+## Apple Inc. $AAPL Shares Sold by Steinberganna Wealth Management - MarketBeat
+
+- **URL:** https://news.google.com/rss/articles/CBMivwFBVV95cUxQOTdzbXB6ck0xQXlVVldINGdEZ01QYkJieXU5cmUwdWo0dnlISGlzdVN2YXNJZ0tYbDhiRTlhUEo5XzN6dmU5RkxkcHVsV09WdmNQdWQ2bDJjU2g5NVVpV3M2eDk1cF9vY2lJZEpjTjF4OHk5czh5Y2JQc2xNOUpxbXN3dmsxVjQ5YkJYRUdmUXdiLUo0cEZKV1N6bWJEV0JTU19lVXVkLTVOYzlPcldXQkZxaDFrNzF2WnBwMGFoRQ?oc=5
+- **Source:** MarketBeat
+- **Published:** 2026-11-15T16:30:42+00:00
+
+## Apple Inc. $AAPL Stock: Yardley Wealth Management LLC Boosts Position - MarketBeat
+
+- **URL:** https://news.google.com/rss/articles/CBMixgFBVV95cUxNOWs0M1ZxTmdlTEZJd2FvWDUzTjVJeG9ETGJkeDAxUjluaGh0TkUxamNDYkRCdGlJRUpWOVp5Q1ZkMVlCb0hKVVpON0d2ZHFCNWpPU2tPbjc1Tkd5dlRVbFlFaXF2Yk5GNEVKX3VkUjFfQWJWZ0dBZzluVGJUcXVZc2FpSzZDckFvREp4MEtXNWs4T05EMjI0OVlsSWlDOU9mMWwtVlZrbEZ0YjdWSmRyRDZ6TDlCek1VY3p5emdyeTVSVkxpcGc?oc=5
+- **Source:** MarketBeat
+- **Published:** 2026-11-15T16:30:40+00:00
+
+## Apple Inc. $AAPL Shares Sold by Provident Investment Management Inc. - MarketBeat
+
+- **URL:** https://news.google.com/rss/articles/CBMixAFBVV95cUxOZmhxb2VnVFlEQS11RkpvTWsxNXBac0s2S3pkZ2RaYnBhYl9YQ2tvdThHR0NsVExhaEFfMUNmbEU5c0d2bHEtYngzbEhLTnlvTUJqT1FkeGZyS1ExekFHZV9ma0RBdFltYmtYeUh2R1dFRXVudDdYekd6amFIOHhNVnd0YkdwcWN2Y2lXU180YjRpWlZyX2dFa0Z1ZWpqZTNRSTNfdnB4ZGU5Y3dmQ2dacFhOQUh3Wm50cExqdnpzOWpEYzdl?oc=5
+- **Source:** MarketBeat
+- **Published:** 2026-11-15T16:30:39+00:00
+
+## Apple Inc. $AAPL Stock Position Boosted by BG Investment Services LLC - MarketBeat
+
+- **URL:** https://news.google.com/rss/articles/CBMixwFBVV95cUxOZTVsX3VDRnJuQ2tZVHpQTkRwTDFySUlGazBxX3lVX3lDOXU3LUJGcjNYR0ZjbnVfckN1SUJDVFFfdnU5eWwxMUlzZG5SVHZ5TmFLa2tWdmtnSFFEeHFiOEVLaEg2UVBwTzJEWDlGRjd0eDdmSC1BTWZMYk96TFZLaXdvTHhNU0ZDcTZTbFczXzBGQlpKX3F5WXhzT2xyYjZqdkJyMDZBelhlNm9VZGg5U0Y4Y2J0Y0F1NUIxX2R3LTFVNmxLV19J?oc=5
+- **Source:** MarketBeat
+- **Published:** 2026-11-15T15:10:16+00:00
+
+## Apple Inc. $AAPL Stock Sold by Guardian Investment Management - MarketBeat
+
+- **URL:** https://news.google.com/rss/articles/CBMivAFBVV95cUxPakJISlpWcU1NODBMcThSOHBUR0J4a1ZLNWQ1enhreUxZYW9BeEptMWtPRUwySDlSVEU4YmJsa1FQTC1vbllFTVllMWZjOTUxYXJfeFdjbGdzaFlTRDlaV1hzbzNYdXVlSE5Qb2lQNER5ZWhvTllJNTRYTGNERkt5cjRMbFFjNk9CdGpMZEgyaHc2cVRHUndQN2IwOGtKanZUVE1xb0RwcmtCU2t4VlF6M1NGZTZZa0c4R3VyeQ?oc=5
+- **Source:** MarketBeat
+- **Published:** 2026-11-15T15:10:15+00:00
+
+## 40,581 Apple Inc. $AAPL Shares Bought by Bernardo Wealth Planning LLC - MarketBeat
+
+- **URL:** https://news.google.com/rss/articles/CBMixgFBVV95cUxNc0pKazZ2REp1SF8yam9OUVBzNl82M1o5a29lQ19TYkczV3NyZGxfR0JEaGF4WTYwNE1XQUhpcjJzamtidV9hTkZhUktxNGFwNkJzYjMwVUpwTUh4eG4taS1RZDBDV2dKbW9QbllRMzZJWTIzNGpiUWtXQmxpWG1aM183b0FkcjVhVWV6a2VndlN0RC00ajR5VUNEenFKenZxbzVkRWg3TWxZR0taZFphdG9yZmYweVhJeDZTRm4ycHhQSmlrQWc?oc=5
+- **Source:** MarketBeat
+- **Published:** 2026-11-15T15:10:15+00:00
+
+## Apple Roundup: Apple, Nvidia Leadership Shake-Up and Tim Cook CEO Speculation - Apple (NASDAQ:AAPL) - Benzinga
+
+- **URL:** https://news.google.com/rss/articles/CBMirAFBVV95cUxQZnZDREZuVHdFZUt1NFQ0VmxUbmFIU1hkeUdvdmlYeXBuaURrektUc2wwU3VkLUh6TjEtNGFZZWpxSmpjd2JwQzdMMlN2OE1FdVEydU1jVUJ5UzlNY3BRc0czMTNNS3MwbGhJcWdWWjZZUkFVSkxIUFI0NldVNmxRWnlELW9oOVJHamotODM4UVFMWHFQcDBWSVdaX1BabElBaVdMbkhPZVM3S3Ry?oc=5
+- **Source:** Benzinga
+- **Published:** 2026-11-15T12:01:05+00:00
 
 ## Nvidia's Biggest Challenge After Jensen Huang? Finding Another Leader With His 'Sense Of Urgency,' Says Gene Munster - TradingView
 
@@ -249,57 +303,3 @@ _Last updated: 2026-11-15T11:47:37.891139+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMipgFBVV95cUxQcHRXVDVYR0JzOWZEd2RQM2ZIYkRfeWlZZmtxSkVqUDV4cFFZLUVQZWRyZHpMcUVmM3Bwc2JMMHRTc0ZDUDdmdHN6VXpPMk5reFpXYnJ6OWZCbnIzcFdWN2kzNUJ0R1lxWndzZVpCNGNaWmxhYjFjc2FrMllWNV8xSjE4UXNTb0tpYmRjMmhqZXowbFBwOEdBR0VZTXdLU29QVHRsWm13?oc=5
 - **Source:** Stock Titan
 - **Published:** 2026-11-12T23:58:43+00:00
-
-## Apple: Deserves Costco's Multiple (Rating Upgrade) (NASDAQ:AAPL) - Seeking Alpha
-
-- **URL:** https://news.google.com/rss/articles/CBMikAFBVV95cUxNX1Q3Q0ppRGVaRnZnZmo0ekF1V3FUZkh0YTEwVXhYX2REUGIteGNjaTl2a2szb21zQkd3eEdMOHdlYlhhNFMzeVlIbWQwbFk1VFdHckxmQW9qcExZSlQ2S1UtTGJleWZEQ28yRHF5OGZUbVZQOGs3UHRtT3pVSDNVSTZzdVVicEFkV0VhOXBMczA?oc=5
-- **Source:** Seeking Alpha
-- **Published:** 2026-11-12T22:20:01+00:00
-
-## Apple AAPL Record Quarter Results and Holiday Success Outlook - RS Web Solutions
-
-- **URL:** https://news.google.com/rss/articles/CBMiqwFBVV95cUxPM3JFUkdwY2NJQVpZTkVTZVIyalFoWVRZa1RoYjZUazFoRzR3MXhQTnBHZFR6QWVfb29sVk1Ba0d5YW1EU2d6TlVjQWpTWkNRclRhLTBadVVIRDFiSHpxZC1PYzhCaGJsU2gyTEdXVW9tSzFpVlVqdFZmM2lzajVEX0tBcGdibDRMNFRfX0ZoZnp3S2dFTHdrMUhBTlhKZGM0a1JYYjRhVmJJajA?oc=5
-- **Source:** RS Web Solutions
-- **Published:** 2026-11-12T20:00:00+00:00
-
-## Apple Inc. (AAPL) Stock Price, News, Quote & History - Yahoo! Finance Canada
-
-- **URL:** https://news.google.com/rss/articles/CBMiUkFVX3lxTE5TSWlVaERqVVBsb2hTVzZaa3l2bkpRTGZVT0lzaGo2TDNNRzVKMkttcFRXV2U1T1RDLVBLNktsRmxVcTNtbXpmTGFLUHdsT3VmR1E?oc=5
-- **Source:** Yahoo! Finance Canada
-- **Published:** 2026-11-12T18:44:49+00:00
-
-## What Is Going on With Apple Stock on Thursday? - Yahoo Finance Singapore
-
-- **URL:** https://news.google.com/rss/articles/CBMigAFBVV95cUxOZ29tN1pHRTEtd1J0OEtlX0JMb1lSbWtfejdnUi0zZTBQUWJGMVdpcDA1R2RhUnJoN3FHNjRid1g2em0wbVduaVdkTklrVHpqNGEwcE5hM21oMzZPQ1R2SGM1N0U0ZnpaYWtsUUpCOWVtT1U1YU1oU0ZYMzE0V2MtWA?oc=5
-- **Source:** Yahoo Finance Singapore
-- **Published:** 2026-11-12T18:27:39+00:00
-
-## Can Nvidia Pull A Tim Cook? Apple's Post-Jobs Performance Offers Clues - Benzinga
-
-- **URL:** https://news.google.com/rss/articles/CBMipgFBVV95cUxOZHU4YUNwMUZqN1Z4SjBWQU9FRGRLSTVVVzhnQ0NJYlRwMXZOeUlNSkdvbXl6YzdhaFEzT2VrTUZjSzI4bThxaUEzdWVpd09xM1pHOHdldm5fZEZkUjZDN0pZak5vY014YmwzNEo2akJHNXhBODR0NXFudDBYT1M5aU1idW9zSzlHMDNBNDRWU0tIT0JoY2h1a1dYYm1sMFZFUEYxWUlB?oc=5
-- **Source:** Benzinga
-- **Published:** 2026-11-12T18:22:01+00:00
-
-## Nasdaq 100 Turns Green Despite Nvidia's 5% Drop on Huang Exit: Stock Market Today - Benzinga
-
-- **URL:** https://news.google.com/rss/articles/CBMisgFBVV95cUxQN1NMSDRycDltOFB1TzMwVVFscXVaNnp4Y0RvM2E2TVdldm1RbEJFTWFYNmozampaaW9GbDVhRndTNWJ6T0RfbGJrMjUtcVRGYmpUUHZDNDlxRGxTaEtzQ2hnME9vVkpQWGJ3RnJlWEZhcDUxZkhZUS02TUJkNFRYMDNRUVRoSWhnd3FuN3dWSi10WkNkcEFUM19pYk56eG02enRKYUt1c2N5LUtnTWpRN0FR?oc=5
-- **Source:** Benzinga
-- **Published:** 2026-11-12T18:16:23+00:00
-
-## Drama Notable Only By Its Absence: Why Investors Love Apple (NASDAQ:AAPL) - Seeking Alpha
-
-- **URL:** https://news.google.com/rss/articles/CBMioAFBVV95cUxNWDQtTm5fUUhEZ1R2UnlWV3NrZnF0alhzalJBWFloTG5ucFJRZldRdTc5T2p2ZUI1X0Q5U0JlcHF3VEtWOFRFUnlDSzR2cTlER09HQWNUX2gwTWRtS2ZXLXQtNEJ2a1hGOXhsb0ZQS2l3MmNpeF81U3hmLW0zMnBoWUtLT29KUGI2YTJBdDJZZkZOOEthYXFhamYzSUJseTcw?oc=5
-- **Source:** Seeking Alpha
-- **Published:** 2026-11-12T17:06:09+00:00
-
-## PayPal's Venmo Grows in Q3: Can Rising Monetization Fuel Earnings? - TradingView
-
-- **URL:** https://news.google.com/rss/articles/CBMivAFBVV95cUxQOVJQWnAxQkx0RHlnR2NxREg2WFBkOWFkWE1TZ3NpYVUtM2NvWHFLbDNKV0xpVE9DeUN4eGNnMU1GVU1rT2l3RmlST0tQajBYZUVhN1JOVHM4dkRZQkJhT05iV0xoVnNFQ0NYaXUyNUxJb2YzX054X1Uyd1o4Y0xLUE5tSC1SZTh1a2t1SlJrMjVQSS01dXppNThPRHdpM3lDcXRRRG1xWmZ5RkRqZXhnUVZYTy1CN2I5UjNOag?oc=5
-- **Source:** TradingView
-- **Published:** 2026-11-12T17:01:00+00:00
-
-## 'Legend replaces Legend': Trump calls for Apple ex-CEO Tim Cook to replace Huang at Nvidia - The New Indian Express
-
-- **URL:** https://news.google.com/rss/articles/CBMi1AFBVV95cUxPRjhFb29HZjhhT0p1R1R5ejl6RHpGbWJaajl5c29VYWxLUUR0VUZDTU5UMnM5aXJLVnhTYmhJVWVVTFh6Q0RQc3JVTER6TllxZ3ZUNlRraW5TRDNoWGVYbjZVSS03eDI3aWI2bzBYN3h3MlZvM2JxSmJXdVRHY25DNk5acXVtaThwSGdRNDI1cFF6OVVTUk5yT2xEdjJiX1VhNVBMUDA4b3U4QVdlcTN5RlhzZWpBY1EwSXVoUFVEZk9xQXgtNjJtZVJqa2RkNXNUM1l3OdIB4gFBVV95cUxPVDRjT2I0OUwta0dHNE1iVWpKSng5TzZKSmNXU0QzZE9xczRLN2YzcEhUaVA4MjBDNmJpaGl0Q0huNHo0Um5RamtFR1Z0QW5uRnlsMURTWXBxUFRJOHRDdkdjSi1fS1FiaUxPcjhROERWMUY4LWJyZHJEY3Y0VXdORlhMQkY2WUppUzQ0dURBbG1OZTRSOF9CajdvX3B0RkhHdmZNYzFpOGFHaWc5R0dqZW05TFhTQkJwXzUyd2VRcmdoN2o3Rk1UX2hncGoxWlJEaUY2T1BtTTE2WEJwdWhzeUZB?oc=5
-- **Source:** The New Indian Express
-- **Published:** 2026-11-12T16:52:23+00:00

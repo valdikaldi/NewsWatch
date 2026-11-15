@@ -1,8 +1,38 @@
 # NewsWatch — fusion energy News
 
-_Last updated: 2026-11-15T11:47:43.784036+00:00 · 50 articles_
+_Last updated: 2026-11-15T18:33:39.454891+00:00 · 50 articles_
 
 ---
+
+## Iran to launch first fully indigenous nuclear fusion system - Mehr News Agency
+
+- **URL:** https://news.google.com/rss/articles/CBMimwFBVV95cUxNRDhPbkJBZXE0NjVUcGFsak1KRnk0Wkl5X3I0cEtwZVF6QlJIa2dLY2x3WmJEeVVWMThzNUhkNUpPTnJlQi1TTmJMWUFFdHhJVTk0WTZyM2xHSzhtci04MDRobDBNbHVaamFYVlQxY1N4X0VLVVBvVzZycFBTQ1VGd2NteXVadHJwd0JLYzNBZzZLeVdrMVhKM0tzUQ?oc=5
+- **Source:** Mehr News Agency
+- **Published:** 2026-11-15T17:49:00+00:00
+
+## Iran prepares to commission first fully indigenous nuclear fusion system - Tehran Times
+
+- **URL:** https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWFNDSnRYSDB3aFlueTBCNUVDY2NDR1Q0Nk9UZ3A2MHNrTExuZEVJZTJMN2ozak5CQXJHSVJUZVdsVDBYOGlyNlphb2hieFBJX0Z6Qkg1bWpwWWhJaGVXa3UwWS1ZWHk1SHczVWZGUjYzbGYyT3dVQkZaY2lSLVpXUGw0WTVOTlJoVy15Rl82YUlQWWE4UnpaV09nem9NdDlrVWFBOE1qTmc?oc=5
+- **Source:** Tehran Times
+- **Published:** 2026-11-15T17:44:48+00:00
+
+## Tehran announces operation of first Iranian nuclear fusion system with local technology - وكالة سبأ
+
+- **URL:** https://news.google.com/rss/articles/CBMiU0FVX3lxTFBGcVV5eGhkS3E3WFd4amtPNkhsYXQwaFptdE5iVnNwRnBabk1OdS1NaUJUYVBEeVNsQlk3dm9oZUtyWmxqak9mY1RDRFlmSW9qQlIw?oc=5
+- **Source:** وكالة سبأ
+- **Published:** 2026-11-15T15:58:21+00:00
+
+## Israeli VC fund Fusion launches defense tech program with up to $2 million in startup funding - Ynetnews
+
+- **URL:** https://news.google.com/rss/articles/CBMiYkFVX3lxTFAtQzB5Sm13VUpTc2JRbjBtVllQWmJ3XzUtUWVnQWZLWnNydTh0WVJESDNhN1pkNGFNenR3LUZmYnN0WTZ0MEt1MkhTSmZSUTBnTk1UVF91SGpzVy14eS02N0tB?oc=5
+- **Source:** Ynetnews
+- **Published:** 2026-11-15T13:24:05+00:00
+
+## How Are Strong Steel Prices and Record Shipments Lifting Profit at NUE (NYSE:NUE)? - Kalkine Media
+
+- **URL:** https://news.google.com/rss/articles/CBMiygFBVV95cUxQcEh0UXZxT2pmb0JsaFo3ZEZsUFd3QVJlTl9HYnJDMVpFQTlZWFhBV2RTNzR6WVcxV2J2ekFUcmxDVHVuakh2QXpvX29QT2lBdjREaWc5N1p6VXJraVVVemQxTUszUEI0Y1Z5VUJhbzZkcmp1TVcwWmd2UHRnejVqWXA0S3dJY3N5b0ZKRmp2bENvZlA5c0lqY19yWXBYQ0puUnNuYnYxTWRCaGlLS3pLZnRPemtrX1JWMVVrVVRhWDdkdWdURndCcXRB?oc=5
+- **Source:** Kalkine Media
+- **Published:** 2026-11-15T12:17:00+00:00
 
 ## Fusion, LN4's single-seater partner, announces its entry into Formula E - www.autohebdof1.com
 
@@ -273,33 +303,3 @@ _Last updated: 2026-11-15T11:47:43.784036+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMiqwJBVV95cUxOSUtsbXJZLXpQS3ZjTjBoOWFiMlRLYlJCV3VnR3dyTDY0OGFJRlZPdWo4VDQ3Njh2RGxEMEF6Sk5maXdsY1cxT3U0UHV1WFN2SGpBdzRaTDdSMTREQzhlZkpzdS10WFFrQ1lTUjIzZGZIbHN0Y1F4VS1ITEp1R0RWM2ZtVzM0RkxGbVk5Ul8zWlZxRHJnRThMWV9yT1RuSDFyZlZvY1lIVUltZ0JGR3FzcXpSZTMzT0E3Z1VSNHZYSkMyM3VnWVBrMGJQY3Bldy1sdXVUNVdqMm4tazB6RzJzWFp3TmlfalhhcFF3ZkpWQ0JESUw3eWg0WVBsWEdkc3ZCR0gwVUFXY2YxX1Q4aElJbUxaMFp3dk9vYnlWZFVoZ3NkZDh0UW1DaGpJRdIBsAJBVV95cUxPYUJ4UF95Wk1TMENDUFBsSW1NX05PZjNWeTVTV1VnM3RhRWtpMVpHVU1pYlhraG5ZbWxyd282OUNKUWlpRFJETEFVT0ZLYXRkTUhxdHBXeWFzNnU5OWtfSFI4WUZZR3hDYXRjajBfa3ZtWmMyS1QxeUZGT0M3YldBQ0x0WVV1Z0N3UllzX2w1OXVKd1FYcGFLWGl2bHFBa0pidFczeHl3Vk52ZkF5Wm5rRGljMkRRQ3VZMS1kcWRsd3A0NV93ai1Wb3V6ME1Rem50d1MySWN4T1pQN1k2Vy0tcWRNUU1DaUtEN0t4d203Z1JVVi1zbUhKTzA4N3l3dzZ1eGZtQ1ZSaGs4Q1A4azEyQl9uOGNpbFZFWjd6ZGtLRDA5V21aSEVzVW92NFdidlAy?oc=5
 - **Source:** The Manila Times
 - **Published:** 2026-11-12T13:49:54+00:00
-
-## AGORACOM launches AI-powered verified forum for... - Pluang
-
-- **URL:** https://news.google.com/rss/articles/CBMijAFBVV95cUxOODY5SUNZRTJXUWJWR0pSbmRRRldoX1F1SXpVd3lEV1pZXzhydUoyV0t1d1NMWDNYRlVZbmZFTXVrVlE0S0k4YjFoWlVHd0dGRFc4M2k5QmVVYjFMMlJvcEpsVS1ERXhxUnFBTDNJMzhxZDlhcTlodlhOMi1xM0NNU01BREE3UldvMUcwRg?oc=5
-- **Source:** Pluang
-- **Published:** 2026-11-12T13:45:13+00:00
-
-## U.S. Statement – World Fusion Energy Group – November 2026 - U.S. Mission to International Organizations in Vienna (.gov)
-
-- **URL:** https://news.google.com/rss/articles/CBMiiwFBVV95cUxQTnZtX2FkS3FGVk1WUC1PeDB0N0tHbnN2Z1dYZDUzQ0c4aFpFOFdHQVRuVmsxRkNIcUZ4STdCSnEtYk5TZDU5V2dtLWNfd3ptRkVGTDByYkREbHBLaFl6NUJFaFRfdklEWVhmRktrQ1JPUGpsZFdHVk45OVhOSGJkZVBibUpHbWlRalZn?oc=5
-- **Source:** U.S. Mission to International Organizations in Vienna (.gov)
-- **Published:** 2026-11-12T13:44:06+00:00
-
-## Fusion Is In ‘Crucial Transitional Phase’, Says IAEA Report - NucNet
-
-- **URL:** https://news.google.com/rss/articles/CBMimgFBVV95cUxPdnZVNTYwUXVtVVN2NWxTdkVOdVpPc0doaW1PMTV0Ulp6bldqQ01OY2VybnpYYld6MHVBVnRnMllYcExZS1FQUGotRmVIdlR3Q0VjWTNwQWlLOFBtMlBqQVFiOVlMSkxNM3hFUzhoMV9uTnF0MG9iZGRoLVhobUxjcWxKMjRoZ2l4SUZkVTh2SFFMYVpJNlgwNVd3?oc=5
-- **Source:** NucNet
-- **Published:** 2026-11-12T13:33:39+00:00
-
-## Community town hall on Thursday to discuss energy issues - WTVR.com
-
-- **URL:** https://news.google.com/rss/articles/CBMihAFBVV95cUxNd3NGWFBXSzU3WnEydXhyZzlwSEFzaWdBLVMtemVmZDNXOXhQTXFlSW1HRmM0V0kydGt5QmNYTjRxSWhhOHo1dDh1d3NfZTN6WU10TEQwQ243ai1yNjBnX2tkOE9aNnNDNTJWUlNLNVhVeldzVlNsVTZrZ0FaeksyRDJSaW4?oc=5
-- **Source:** WTVR.com
-- **Published:** 2026-11-12T13:11:16+00:00
-
-## Nuclear fusion reactor exhaust heat gets world’s first levitated dipole divertor tech - Interesting Engineering
-
-- **URL:** https://news.google.com/rss/articles/CBMihAFBVV95cUxQcDZlazByX3Y0Y01mcV9BdmYwdzRkMzJOT2c4bkZnSk9RamZpRnRGV2RmbmtsaFZiQzduMl9FcXptQXFYUGp5eU00MTFLWERMZkpUc25MVHREVnhLTG9ocFl1aFZ1Z3FHUWhhSmRJMG5sdFlwcmNocEhKbVo1ZVBIeGJ0dHA?oc=5
-- **Source:** Interesting Engineering
-- **Published:** 2026-11-12T12:51:00+00:00

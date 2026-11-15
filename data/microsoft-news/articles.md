@@ -1,8 +1,284 @@
 # NewsWatch — Microsoft News
 
-_Last updated: 2026-11-15T11:47:40.047052+00:00 · 50 articles_
+_Last updated: 2026-11-15T18:33:38.773838+00:00 · 50 articles_
 
 ---
+
+## “I don’t even know why we still have Phone Dialer”: Microsoft exec admits Windows 11 still ships a Windows 95 app for modems nobody uses - Windows Latest
+
+- **URL:** https://news.google.com/rss/articles/CBMihAJBVV95cUxOY2FJRUJpcFJybG81Rm9fSU1LSXdSZC1seXphbnRnU21jR0hSQWRlVTRvUVFIYVpLS0F2UGtvOE1ydXhnb244YlV0TmRPcFB4dUhVa2k0cFVTcWI1YjZMUW9MQ2lDR3o1WHdsMlBFbFo5UUZnR0QzZldVLTVmcl9ibklDamVWNnc2YnVISFI4RGZQSWpmMUQyLTBleXRTaWJZeXQtLW9TRC16Sk1PRG1LellNa1dQNGQyVnFRTE5hVnBTRFkybDlZUGZiaVhRTU1Jc0RMdVZQQzdVMXlQcXhGYU1mSDgyU0FjV3pCX2pHZjFzRHNJaUxSZVVKZjJ3OVBPU0JwOQ?oc=5
+- **Source:** Windows Latest
+- **Published:** 2026-11-15T18:29:28+00:00
+
+## Microsoft services restored after lengthy outage - Your Sunset Country
+
+- **URL:** https://news.google.com/rss/articles/CBMioAFBVV95cUxNRk1xQVJfd3V0MEZrdGl6QUtHTHQ5YXJ5dzFQcmJwUC1yZmtHNUZzaUxXUlhkTklSVTRYdHNiMEZxOV9BUlZNS3pHNmlZV01TRFZ2NnNIdmlUdTVYMzY3b0ptblNRVEdVbnhMZG1SbURoN1dGM2hmeGJ5YnYzZlFKTFdRZWlzVzJva00wSDBiSExOQWRSSTNPNUxZS2ktTHQ1?oc=5
+- **Source:** Your Sunset Country
+- **Published:** 2026-11-15T18:13:13+00:00
+
+## Fake Microsoft outage emails threaten to delete your mail in 24 hours - Pasquale Pillitteri
+
+- **URL:** https://news.google.com/rss/articles/CBMipAFBVV95cUxNSXU5eENvZlE4cDJZNWZVXzhtVGR6RHRlSU5uREMxQzlMSVl3OExTSkZ3OTgxdlpEY1RUZnRvbzFHSG95WEFIQlNDOHBOTzlCaFcyR1R5X3hJdUx4NU5ZWnJuLWNDUk1FTVY5azdkNjVrS0Q3Mkt1T1FBN2M1ZUctUmhWa18zeHhWMWZHV1A4M3NMcFdRRnN1SUNLQVd4UERfbFhYUw?oc=5
+- **Source:** Pasquale Pillitteri
+- **Published:** 2026-11-15T18:05:42+00:00
+
+## COP31: AI Offers African Farmers Lifeline as Climate Change Threatens Harvests – Microsoft - Real Broadcasting Network
+
+- **URL:** https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZUhoREgwUmJHZXZ1Vlg3U3lKMW5GdWM2RURwcFJuN2V0dU5KMWlzVjlRRVNnY1NMeHZDbUdhS0xwT3pyZk4tT3MyQkxVeU9PdVZGYTBmVWdkcWNOSFY1b19iMThGVU1nM1FLamViWk1JVG1lU2VKLTh2cHVPTmYySFg0dUVhRnFkMVB1MUVzQ2lhUjVtNHdCVmstM3N3NHpieXFSOWQ0Tk11Y3FoWmdBVF9WclQyVFFkSllCeWtZNlNzVmM?oc=5
+- **Source:** Real Broadcasting Network
+- **Published:** 2026-11-15T17:48:08+00:00
+
+## Penn High School senior takes data center concerns to Microsoft - 95.3 MNC
+
+- **URL:** https://news.google.com/rss/articles/CBMinwFBVV95cUxOd0tPbVN5U0hCV21VT3VXTTZyZ241VzRRMzdHZ2xycW01ejdRSVg5V2FIUmVzd3BmNThwUmEzT3JZcmgyMkticDVzYXpsSy0ySjFaLS1RZXpDbmxJaFViYjZRUHVJU0dOM0k3LXZhUmk4eFVPZ2xDUFQtWFgzcWluVHA1dWctTjFacHlmMG9qUmNpbkpwVmctbEhDNGNhOW8?oc=5
+- **Source:** 95.3 MNC
+- **Published:** 2026-11-15T17:00:03+00:00
+
+## GTA 6 on Xbox Series S: Is Microsoft's Budget Console worth it? - The Times of India
+
+- **URL:** https://news.google.com/rss/articles/CBMi2AFBVV95cUxPTllCN01IaEhOa3gzZVlpcVdYa2ZRT2RPQjI3YXBtVlRQbHhhMHR6WTE2Mjk1RGJ1REZPbE9yWjdGZWhpd0JwejhaQ0p3RlNybUdNMkhKb0U3Qm9wRzE3V3Q4Um1CQ29WLUdtVW1sdjhpRlgzaGwzQ0JhbGd5eHkyOUtzeU9VYXBPM3oxTDFrTndaeDdyUk4td2ZQdW9kbzU4SnlEYkZzYlg0TnVhSVV0cDJFdC03bnRZZDdoZTRyck53ZFFOdlBUMVhTaHNXdGVrSWFtVHd2Q2zSAd4BQVVfeXFMT1NhazdqTDhXcFZid21KbVA1ZTc2X2Y2QW9wemZVMkdPQmlrS3JZdWliaXRhanBqWHNYZWtfZjQzLXhKWlZMQVQwMkhjaS1NVld2VXBnY2Q3VjFCVEd6b19sWkMwQVoycW1PaENkLVdyYkFlSXRGWGFtOEZCT1A5Ml9MUXl5elQxeDRKeUhITldKYzJ5U2txWmcxR1Njd0FfUFAzOThKMHRjcU1uS0swdHVsNFY4U3psZWNHbGlEbWkyai1xOHZaV25OczRQUkk0emY1aGd6RXEyUzBOSGFB?oc=5
+- **Source:** The Times of India
+- **Published:** 2026-11-15T16:58:00+00:00
+
+## Park Says Microsoft Outage Blocked Its Pool Alarm; 15 Hurt - FourWeekMBA
+
+- **URL:** https://news.google.com/rss/articles/CBMijgFBVV95cUxOTkVOMDVrX25FVHdrLTJscHJXZW5DSzR1cHpmRUVvYmd5UklqbnNFVWpPLTJkdWFNY3ZmQzRURlhlNmRycmEtZVU3UkpvYzlBd21RVkN5a2xfUFJLaHR6VWFMOXk5S083d1MtR1B2LWU5T2FTQndKU2Zld2pkZHdOeDM2YnktY2xjcXctdWx3?oc=5
+- **Source:** FourWeekMBA
+- **Published:** 2026-11-15T16:54:19+00:00
+
+## Remembering Microsoft’s original Xbox at 25 – and six of the best Xbox games still worth playing today - Stuff
+
+- **URL:** https://news.google.com/rss/articles/CBMiygFBVV95cUxPWEMtYzZITFVNMmwzZEUxVkVGR3NaRDhzSUpiUDB3Sk9iVVE0UUxUb1M5cTdDZVdXN3VEbUt6ZG5XQTNBZjg1YjZxeFFtTGVIeTRROGs4Mms4WDRubXNXdHpwTXg5bWlYOWFuTVVvbVVlRGh6UUxSbWprZWhRRWRiRS1NaE8zckJxUWJYTXBkMjNyWGtobkE5dHE2Y1hWMFFSZDR0R1BubzZnVGZBdUZwZlVaWWVfY0daTXNzNTBHakEzUFJQdnR1Zk9B?oc=5
+- **Source:** Stuff
+- **Published:** 2026-11-15T16:51:20+00:00
+
+## Community pharmacy response to Microsoft outage shows value to NHS - Pharmacy Business
+
+- **URL:** https://news.google.com/rss/articles/CBMilwFBVV95cUxNdnFFYjZYbnI3OTJhQ1pSOG1kblg5Qk1SNmNqbU1kb1lxVWs3Xy1wWllKM2ttbC1yc2x1aXcyMlE2RE15ZV9iWENpSHRaZDBpNmRXcXpZVUt3b3FYWmgyVEN3Ul9XQmVRQ3VaQ0xpOTJPbEFITWI2SHFYQ2UxM18wZWlYZzgyV0VFZUZCVG9MeWt5OFVnQ2Rr?oc=5
+- **Source:** Pharmacy Business
+- **Published:** 2026-11-15T16:36:15+00:00
+
+## Microsoft outage revives Europe’s tech sovereignty push, Politico says - The Next Web
+
+- **URL:** https://news.google.com/rss/articles/CBMinAFBVV95cUxNY3hXSy1nclRpM3JCeDlQbnBYWG1VSlIyckk2RUgyWXRsdEhoMWE2TTdQeG8ySWJ2TWZWNUVVc3VRNy1ONTVJM0dsVzFDb3ZQYWd1eGs5dFF5R2s1UHNNamtVYWNZcHUyTG43a0RSWElhY0thTjFNb0JIQ0NLSngyM3Y3QUJQM1g3d09jTFdPWHVGZk96cnNoYllZUzI?oc=5
+- **Source:** The Next Web
+- **Published:** 2026-11-15T16:26:09+00:00
+
+## The Next Wave: Microsoft’s outage showed Africa’s banks had no real plan B - TechCabal
+
+- **URL:** https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTjUwMzA1UEZiSW5TeS1zMklzZzBJY2hUWkxETG1QRnFyMHItRTFwNVJpSkc4VzNJbERuVUNIeWRUZF9RSTRYTmNUSDhKX2wtYW45Q2xDbHZYMGZGUTFIcGIzalJ0ams3ZElMSlExYVlwNHBnQjRfUDNWRE9ueEI5cjBOQlBObmVCdVl6TGFxSEd0RW5vaWw2YWRSeDlEX1M5aDd5Ukota1E?oc=5
+- **Source:** TechCabal
+- **Published:** 2026-11-15T16:13:40+00:00
+
+## Microsoft 365 SLA Math: A Full-Day Outage Means 96.7% Uptime - FourWeekMBA
+
+- **URL:** https://news.google.com/rss/articles/CBMijwFBVV95cUxOMGczRzdDc1RYZGJ2STM3Ukg5MjI1N3VDN0pVeEhaN1VhTTdvWkdSOGxXWERHZy1HNlZGYWxFQTBSUG51QVFFY3hmLXU2S2Nja1k1cmhJaEQ3MVNVUTNPM1Zkc2V2X1hVM3praURPT2JUZ1pWcG0yQWVLbXBFM093TUJjRklocEMzd2NJcXhBUQ?oc=5
+- **Source:** FourWeekMBA
+- **Published:** 2026-11-15T16:08:08+00:00
+
+## Microsoft says services ‘restored,’ outage over - Taipei Times
+
+- **URL:** https://news.google.com/rss/articles/CBMidkFVX3lxTE5UeTc2emNHak1OQXhYdWpiMDJlcDdUaXRMUGxOX2MwS1d3cTVldGtuOWlLUU1DSHh3RnF0MmFBTHlSeFpuU1BvRk1MVWdnUGhmYkRZd0g2NjdvWElCRmtzR19XaWgzWGFCV0pEX2tyX1dJVzdJZnc?oc=5
+- **Source:** Taipei Times
+- **Published:** 2026-11-15T16:00:00+00:00
+
+## Microsoft 365 Outage Leaves 15 German Hotel Guests Sickened by Chlorine Gas as Email Alerts Failed - BigGo Finance
+
+- **URL:** https://news.google.com/rss/articles/CBMidkFVX3lxTFAyRktlbkFHcWgzTUl6Ul9nOVRldGhoenNxWlhuMUhTLWZwYkZ2RUkzNmRGVmgyR1ExWm03LXpfTnFOZVFMeDJaanEyNm10eUVQZ0tGUXRTRVhOTm51bUpudVdHWUI2ZGd2Y1FqYVNHMEFGNG90QUE?oc=5
+- **Source:** BigGo Finance
+- **Published:** 2026-11-15T15:55:00+00:00
+
+## Fake AI event invites target Microsoft and Google logins - Fox News
+
+- **URL:** https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTG1IS0FLZEJISm5IdDB5SHZDaWdrNjBhRkhHMUVyMGJZbExnZWhoRUltc19aWGJIU3VXb19JeWlSWndmQW9haDBRMXZwazUwWjFuYU9jNUJMdkNyRHp6NWJWaVpmRy1jc2s2R2RBQlNSeUFFVDBTUTRiWFNNQlUyMmVyeUcyM3Zk0gGOAUFVX3lxTFBVUzNEcmtkSUI0czVna2YwVEJJbERvTTNfVEVNZllpamxoUi1xYlpQYTdOcDZkRjZhRGVjNDN2U3JxQVhhTGhQZE9PcEZsOGk0b2N6Vk1aeXFXWVlXbnJNWHE1TzRBUnZkVEd1b0Q4TkJQRGxQVWRleGdRV0dvM01yRHVFcjBPV2V5LUd5enc?oc=5
+- **Source:** Fox News
+- **Published:** 2026-11-15T15:51:15+00:00
+
+## Microsoft restores services after outage as CSA warns of phishing scams - Pulse Ghana
+
+- **URL:** https://news.google.com/rss/articles/CBMivwFBVV95cUxPamNhcnJTMWh4V01xaERoRGQ3QWVMMk43cUIxeF95ZFVOTnpsWVRnTUJDLU9XdC1Wd0t2bmxSV3pzU1FaSkRpSWc1N3Bwa3hCdVAyMTVIU1htaU11c19HeXF2VUVzTUc3N0ZFQlVHRFYzOWdjM2o2eDN5M1NvZE9JM1hkbGxTcVdCaGIza3JTd0NjVnZPY2lGb0NPT2J3ZjdSNWZkZktKRXlaaGI4MWl2Rk9PR3RxUU5DcU85TFAyNA?oc=5
+- **Source:** Pulse Ghana
+- **Published:** 2026-11-15T15:46:18+00:00
+
+## Microsoft 365 outage leads to chlorine gas poisoning of 15 hotel guests — email warning system fails, 40 first responders deployed for triage, four taken to hospital - Tom's Hardware
+
+- **URL:** https://news.google.com/rss/articles/CBMitwJBVV95cUxPNUtBYWlURV9kUWtiR2FoOVdHZGtDRXIxQTBDejk2cDhLQVZxTFpGN21uS1ZuZXRNTW41QUc2Y1o3YUphV2NkbWJwV3RRMUZMdlhPMGlMQkRjeDFqTlphRnhwalpEMFdDYV9QMXV6UHU2REJleEJHcFdOVGZ2Y0lUYlZ2d01seHF3UFhaTndVUzRxTUVCQ1AtdWZ5OWY0bnVsNlJUQU1GZ0dfSVVQNjgyZ2lfXzNxMEVkYXBlQ0hQWjJtUnRjOG5mUDNzYUJTbWtuVE5jTjdqdzRrVnliVnBJQnlkRUxDaU1YLTJJdkkzNm41QzB5RVlDcC1jMWpHZHpLd0VKR19RdlV0OFp3am4xRU9rdU95bUUyTGdkY1cwTWFKN0gzR1lZVXFoN2JudE9UUlJzeERpQQ?oc=5
+- **Source:** Tom's Hardware
+- **Published:** 2026-11-15T15:41:13+00:00
+
+## Microsoft Ignite Conference Highlights Copilot Growth Metrics - Intellectia AI
+
+- **URL:** https://news.google.com/rss/articles/CBMimwFBVV95cUxPOERiSW1YUVItdzBDLUIxTk9MR2dmd2FVSG1QNXJmN09oN2sxYm5IUzdyWEtxUm5UUnhjNTk5b2dRMUl5UE9ERGdqQ2U5enhxamhSbGU3VlpMeVl4S2ZBSWtjTVdzRG5aQlpuODJobkFiNkxmdXFrWjhiVmpiRzI5emJwZjhWR1JGYnhzbWxfSEZsdHpXU2tySWpmcw?oc=5
+- **Source:** Intellectia AI
+- **Published:** 2026-11-15T15:39:42+00:00
+
+## Business News: Microsoft server issues and Nvidia CEO resigns - Global News
+
+- **URL:** https://news.google.com/rss/articles/CBMinwFBVV95cUxONVlDTHdQc2FzSDlUOWxwLUVObVRjU2JKNHBacGpVaDcxR1pucURqSmhQalRncnRId1NoMVVkWmZDOUUyZVRXSDQ3RUU5YVFsclRoYlp6RHlLNUlMUHZWM1k2T3pPcXM5YTZQOGgtWUlwbWkxVmdHRkxmQ2lBbzg4WGFGSjN5clk5MnpjNlA1OW1GblJBSWFjRWU2SFhfSGs?oc=5
+- **Source:** Global News
+- **Published:** 2026-11-15T15:33:35+00:00
+
+## A unique Echo flight controller for Microsoft Flight Simulator has been unveiled for Xbox. - GameGPU
+
+- **URL:** https://news.google.com/rss/articles/CBMiyAFBVV95cUxPQXJQcW13b1JKYkxLWVY3YkxNZV9hWFVxSGxJTnhEN2IyYTV1Q3IxOW9xa0RGekUtVm90U0R6UFRDMjR3TE5keHl6TTVfY3BIUy1XODBNOXJsMDZnSU9Rb0l4LW4yMENzaHdHN3ZSLUhRak0zOGRocE5tSGtuOFlNUGdmWEthRUY2LU5FNmpDVk1Oa1d2a19fYk9jUlFYRi00RVROWkZKYU9SWjBqck42blh1Z2RneFlUX1hhRGRCQzhZQ25nVmNYSg?oc=5
+- **Source:** GameGPU
+- **Published:** 2026-11-15T15:27:07+00:00
+
+## Microsoft services restored after global outage disrupts Outlook, Teams and Copilot - cbs19.tv
+
+- **URL:** https://news.google.com/rss/articles/CBMi8wFBVV95cUxNQ2psWmJIZ05zQk1kSVBVbm1tWjhSTnV0OWFZUzBLYnFGcnZ1dFF0WWJid2l0enl6Z0MwWUk4Tnl2eGpER1BDMGczZDNoNGM5SFdQWlRZNDYxY3d3TEkxTkVnNVd4OW9XVG5wUlYxRVBQeXZyZ1dKeS1CSk04Rll3MGlMV2xJem5SWkg4VTAwMmF4UVJWcW8tLW9HUWpHQjF6MjNSMXRjaGR5V3lFVlRmSmp5bzRESl81NExrVE1STWY3YVNpU0J4NHUxdjloYWEtQ2VWQUYyQkVKakRreDMwd2ZUWUpjbjExSFltSjU4N3hiMHM?oc=5
+- **Source:** cbs19.tv
+- **Published:** 2026-11-15T15:25:03+00:00
+
+## Microsoft Outage - TelegraphHerald.com
+
+- **URL:** https://news.google.com/rss/articles/CBMilgFBVV95cUxNVk43cGtHSTEtMkJvVksyMC1UencxcW9LcGEyZ3VTbXc0WkM1bzhLbmc4SWdtcXRZUTIycFYxSnMzX0RMcTd3eWpZLVVrWm1LN3J0MjRUR2dKRC14YlhNeGlEMHF6VEp1RlhldTU1YlREQTRxV2NTS0tiOU5id0xJeTdXOXFNZXNrZktkN2k4TUtxN1VCVUE?oc=5
+- **Source:** TelegraphHerald.com
+- **Published:** 2026-11-15T15:15:31+00:00
+
+## Xbox at 25: The Incredible Highs and Shocking Lows From Across Microsoft’s Wild Quarter-Century - IGN
+
+- **URL:** https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZ0RMRHZMTlRFNk5PLTVjTF9hWGF6OUdBN1JKbVJCQWE2V1R3UzlsUlJmQ0N0YXhPTzE1NERpOTlFaFU2dDVydlY2a1FHQkF6NEJqc2pPeFlBWW80MEQ4MEhoLXpjdEFIMk0yaVFzRjhRS050T19fVWJvVmY3Z3RGc2lITmZzcHcwUXlxNl8yZGNoVEtNQlc0NEtxX0otQWdlemJpY1FUX1Y?oc=5
+- **Source:** IGN
+- **Published:** 2026-11-15T15:15:00+00:00
+
+## Microsoft Restores Services Following Global Outage - صحيفة مال
+
+- **URL:** https://news.google.com/rss/articles/CBMibEFVX3lxTFA0RG50aWFMaXFfSjg5VHFMeHI5ZUxUdjZkVTI2cHBxZGZyUkxia3pIN2JxNTBUSm11MjhBZFJYQ3llLS02Z0dQMFI1WC1YYjJKby1kLWU2aW1NZkVPVVMzQXE5Um9BQjFCTHZqTg?oc=5
+- **Source:** صحيفة مال
+- **Published:** 2026-11-15T15:13:46+00:00
+
+## 3 Outages, 46 Hours in Two Days: Microsoft, Workday, the FAA - FourWeekMBA
+
+- **URL:** https://news.google.com/rss/articles/CBMijAFBVV95cUxQdGRudjFpT2tONVkySk0xSHBENEhnUTVhM0FmaDZFbEJJd2FzV3p3NnZoZW56WklrdFNFRDdqbTFMSlE4eWN0U2ZndWhUVjJGRUhWSVlTckRvVWYxUDdBQ0hMVDhESGNkV0M4TTQ2SVpCbEhyR1NGR3lILWVpNUl2OFZTQkc4THdxc1pzQg?oc=5
+- **Source:** FourWeekMBA
+- **Published:** 2026-11-15T15:07:59+00:00
+
+## Microsoft Opens Ignite With Copilot Seat Count Still a Mystery and Morgan Stanley Betting on $650 - BigGo Finance
+
+- **URL:** https://news.google.com/rss/articles/CBMidkFVX3lxTE55VHU1emMtOWR3bWM0Yk85UUlRYXFtcVE0Mm5HeFVVNDBjSDQyNzRTempJcW9ndVZJcXFoU2xNd3RCY2J4OFB3S1Q3ck1adG5xalJvTEpYOE9DVEMwaGs2bUQxTGZwVFpZUVU3UXB5QWJTMzFBamc?oc=5
+- **Source:** BigGo Finance
+- **Published:** 2026-11-15T15:05:00+00:00
+
+## The Microsoft outage means no incessant email chimes or message pings, but still we stayed online - Fairbanks Daily News-Miner
+
+- **URL:** https://news.google.com/rss/articles/CBMi-AFBVV95cUxNLVItUGltRGVsbl9aU08wTXAzU0RObW82QTRIQnpDX0JEcHQ4Mk14RnlWenBaX1BUSVgwdlVYcXlZV0M4dXFCQXpkOTdzcEppTHNUcXhoSTgyenlhc2FjVFJGQlBKNl9kMkxzODNMUE5iMUQ0WWh2VnMtUmtCVjZVNFZWam1NWGhrcnhuUXZjcGFrbVR2LW5SRG13WWg2MUVBcUNsY19Rdnhvb2JwLVNaTmZzRHo5d2I2ZGZJUmxGNDIzRlg5eTZST0h3OGphQ1JRX0IzcmRRTEsxR0NnLXBtOXlBTnN4dUZpSjdlamNCX1JaTnVMMDE1Mw?oc=5
+- **Source:** Fairbanks Daily News-Miner
+- **Published:** 2026-11-15T15:00:00+00:00
+
+## Could everything be broken? Grounded jets, Microsoft outage, AI chaos make some wonder - The Tribune-Democrat
+
+- **URL:** https://news.google.com/rss/articles/CBMi9AFBVV95cUxQVFBGeGZOOWc4THZNaWl5cWNsZkV2RjJnZmYxQ1BCQ1JoVk1meGxDQklzdlhPSzZNSl8zQlJucEtrOVM4ckdEa2ZlMS1QTFJOd2tmTHpueGdaMmJwQ0wxWGZIa2NEdUo1UVFhbXhZbUlpVjQzREFUZVgyVWpFOVBtVW5UQnFRV3hCNUJ0dGtGRnllNi1rWnZBUFJTd0xlaWVLQmJCOWZjRTMzeE8tY0EyeEVSeS1EcXJPSkkzdEs2MlF6OW04N2tjSGhxU3lFWHBuT016NzBacm9haFdOYUY2YU94VldhYkg0QVJNQ2dBcFlZM1pm?oc=5
+- **Source:** The Tribune-Democrat
+- **Published:** 2026-11-15T15:00:00+00:00
+
+## Form 4 Microsoft Corporation For: 15 November By Investing.com - Investing.com Nigeria
+
+- **URL:** https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUFNtcHJqeVdoU2ZLQjhqRGVpMEY2RmhLQk4yZ2E3UXMzWlI2UXlKWHh2TTVqdVhlVW1KUzc2ODZ4MEtwdFE1Z1hLekVUYldlRDE4Tjk3SGltNTllRF9WUk52UlE4dVlPSnVleUNhajJRTUpTdGNiMFo4Y0s3MFBrd05SRHpDMmdFR0tBeS1vN3ZFQW52djdSOWtGdWlXVm9lZ1R2QzdPR2M?oc=5
+- **Source:** Investing.com Nigeria
+- **Published:** 2026-11-15T14:34:44+00:00
+
+## Could you survive without Microsoft? Inside the costs of digital dependence - Cyprus Mail
+
+- **URL:** https://news.google.com/rss/articles/CBMirgFBVV95cUxPblgwOTMxRGZ4b29VV3NrbC1pX3N2elRDQ291WklzRFl5R2JDODd2VGRIRVgzcnhoOWcyb05FandWQTRzWHpTeGxMbG1teWJ2WkljclBzSXYzNjZVcW9qNllYcmlSd0QzaFM4SzQ0Yl9DemdfeURyZWlZMVNBNTdJeXFvR3N5ZmxreGhVc3B4cTROQmR1ZVEyM1dWNVJOVUdDajZMVklpcTZDMHJVVWc?oc=5
+- **Source:** Cyprus Mail
+- **Published:** 2026-11-15T14:29:29+00:00
+
+## Microsoft outage, flight disruptions expose infrastructure risks (MSFT:NASDAQ) - Seeking Alpha
+
+- **URL:** https://news.google.com/rss/articles/CBMiowFBVV95cUxQcnh3eVNkYmhSZ0JpVmZHWnEyQy01RzlwNGhkSnZPYmdiakZTbDBRQWlMc0JGTThGYlc1V2lRbHQzMUgxSmdsT1V4ZjFpWGV1VXd6dkI4bmR5OTBmMldlUk40c0UxbTkteUpDUllFUjFaZnN1bXhvbDE1NWJHa0FLSEtkVll3ZnJaU1hOTmJuQ1BhUHJPRXoxN2M2NHJ2cm80Njhz?oc=5
+- **Source:** Seeking Alpha
+- **Published:** 2026-11-15T14:21:57+00:00
+
+## How Investors May Respond To Microsoft (MSFT) Global 365 Outage - Simply Wall St
+
+- **URL:** https://news.google.com/rss/articles/CBMixwFBVV95cUxNTks1aUt5SWx6NlVwRXB0RnFIQzlKZ1M4cFVrdjk2ZERfRzZwUXRLR25WNkFENXlFdzJ5T2p6NmNNWWdGUzFPSmdiSGVCckwwdUIzZDA3b3UydS0wSmZ5V3VqbjRMbG51RjJGa2lnRXh2NnZkM2pDdDNKWVQzOVQ4cXRyaXVkM3ZQYXRPSU9SYVV1WHlSSzFkMnlJUEhxak5yS2UzUVV0eVBkbGRGTUdJZjRETEtoWnZ1SEYwTmFQLTEwQjdCRTdF0gHMAUFVX3lxTFBlNnV3X25sTW9uOWs0Z3JoSW1DZzk0cGNGeGp5RlppTGI1M2VXZ01vVVlDNUFVRWJXMXRCeWJ0Wk15a2VkWUZCVGttUFA5VERzMWdaQVF6SVVIY3d6d0c2bEtiQjl1aVQwR2NydzdfYUExbnRzNWlyV3dPdkdBMkQwVTRYdHJ1VS1rWEd4a3BzS0hFSWpEeGxKczJZQVNjZDAzUjhDSzJ2bURPeTlBOU1DM2ZiV0NsbzJPMXJrTzBkQ1NFdTdzSWxja2wtZw?oc=5
+- **Source:** Simply Wall St
+- **Published:** 2026-11-15T14:17:56+00:00
+
+## 1TB Microsoft Surface Pro (2026) with OLED display drops by a whopping $451 on Amazon - PhoneArena
+
+- **URL:** https://news.google.com/rss/articles/CBMigwFBVV95cUxQUWp0UWh1bUZuNnRrckJYTFpuRkc3QzJSZDJWNkF0SGlNNnhUMHZfemtJV0l0U1pfMjkzNi1NRDd4Q0xaUXVFRGlKT01NbS00SEtqY0FjYUJybzA1NjlRaXA5MW1EQ2RKTjRFREhfSjdaT1AwREJSTlB4bEdIdHh3bkpZSQ?oc=5
+- **Source:** PhoneArena
+- **Published:** 2026-11-15T14:05:19+00:00
+
+## Microsoft Ignite Starts Nov. 17. Will Microsoft Update Its Paid Copilot Seat Count? - Yahoo Finance
+
+- **URL:** https://news.google.com/rss/articles/CBMimgFBVV95cUxPNHJzWFJVdWN5THdobUlmWFdXd3V6YzNZSnFIaHJKODJpaGVwN2owcVZFV0R5cjV1dHoxSDBlclpqRlhDRkNxYUI5bm1OUVZqQm5HUzRuNVVUTWtMMWIxUXZMUVo4dURYVk5UQTBYb2hvUHlROHN3amZiRHh0YUpIV1E3N3UydW1hTEU3bzdSeFJRdXRGNUtJSlVR?oc=5
+- **Source:** Yahoo Finance
+- **Published:** 2026-11-15T14:03:01+00:00
+
+## Microsoft (MSFT) Draws $4.9M in Unusual Call Activity. Here's What Else the Smart Money Is Doing - Moomoo
+
+- **URL:** https://news.google.com/rss/articles/CBMirgFBVV95cUxNMkRlTXJhSS1YQWxyOE5FVk9vN0RTbFBwNU1MMnpuYXFOdnpNTFVLM1RHblJLaGZ1RU1qaXJrcGwwQWJOU3pQX1ZpTm5wZXBXYWlFSkxqZUJicktSUGNrcDZ6NW8zV0prSHVhZHNOeUVUbmFQeVV3OUlCZWdKb0t4ZUwxRkJiek9OajFFdkZ4aEhnSHhlbFk1WGE3Q0ViRW05eHBDUFdRa2VySUF6N1E?oc=5
+- **Source:** Moomoo
+- **Published:** 2026-11-15T14:00:40+00:00
+
+## Jensen Huang Exits Nvidia, Musk’s SpaceX Gets a Big Bet and Microsoft’s Outage Spreads: This Week In Tech - Benzinga
+
+- **URL:** https://news.google.com/rss/articles/CBMikAFBVV95cUxNeHNUSS1pZVl1UGExb1BPdWhYaUE3RFp4YnBnakp3NHFWa1FaLVI3b1ZUSXh6Yy0yU25KWFZfMFNIbkd2elBYQUFYREM1MUhReVBTclo3SDZXYlN4OE5KZ0ZNSHpJQWdGcGh3Vk1va0RYbDROWW9DejhIOHRSbzdQdUxmSWZMaklBX3hjdWdoOW8?oc=5
+- **Source:** Benzinga
+- **Published:** 2026-11-15T14:00:21+00:00
+
+## Tech tip: How to keep working with Microsoft Publisher documents after support ends - The Seattle Times
+
+- **URL:** https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOE9oZnVZVU9Od3lTRG5sVmhvSVduRWlSV09HQUZlc1QxNXRMSlNKVVJiVlBnOExESFB4TU1lRGsyTFh1RDFSVTh5NkJVX2t0Ym9RMkFPY1I1c2ExVklMSmt0ZUFWZFhjSnZNNzAxeFBRcDRSX3V1dFJISE1vRm5pck85bW1KeHdPQ2ZwTnhaczhIZVQ4MVFZSk95WnBVX2V6d0p0OUxRSHZIenM?oc=5
+- **Source:** The Seattle Times
+- **Published:** 2026-11-15T14:00:05+00:00
+
+## Microsoft 365 spent a day proving why people keep calling it ‘Microsoft 364’ - Windows Central
+
+- **URL:** https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQ2hLalE5a2dEc0s4Tm5XTjZUZzV3LXFkblJyeXhoQThPVGh3Z25Sc09XMkpBa1Q2X29Mb1pjY0F1SWF6NC1nR0VQdXR4cGJwbThUb0FYeEc2cjV4dW8xd1dCRG9WUmZxbzlCTkFuNnNXeU9GcmJ6TXhWeUd2cGx6eWhhU1J1aDhycDJYUnZ4LTJCc3RkMjhEV2M5Y2N1bXJsV0IyeTBaYjFQWWlpLUNpQkZsZ3RHNDhQQzM3ZzZJeXJBdw?oc=5
+- **Source:** Windows Central
+- **Published:** 2026-11-15T14:00:00+00:00
+
+## Consumer Tech (Nov 9-13): Jensen Resigns From Nvidia Amid Affair Controvery, Microsoft Faces Massive Outa - Benzinga
+
+- **URL:** https://news.google.com/rss/articles/CBMi8wFBVV95cUxOd1JYdERieG1KY3ZtbDJHR1FhVUh0YVdqNzFIdWE1Z3FOai1xUWw2aFVPbFZ4VmNDLTRqQ3JvRHdRVE9HYnBhZFdUSzdXU2RUUW1hNlNMVENNNmNTNkwwU1VfSDFReGdlNm9ETUs5LUdaclFlRmhNTklJWms1c1Z5UXotamhIOWt6M3JEZmNmSnRJa3d5RHU5cXlUY0ZVTjBEeHpiM054LVhGdGoyaDVaZXBpVGdfS1FlS1NGSnpTUlpaMUVGMUpBbE1GcmZJSmxyV3FrSVVjTkxjM1d0MFlQbG9lSHZtV2FmMld5OUp4M0lwWkk?oc=5
+- **Source:** Benzinga
+- **Published:** 2026-11-15T13:58:56+00:00
+
+## Microsoft Ignite kicks off Nov. 17 with Copilot expected to take center stage - Crypto Briefing
+
+- **URL:** https://news.google.com/rss/articles/CBMic0FVX3lxTE9XNDRFalNuQlA2d2dFZlkwMmNKamdjMjg2ZjU0ZUZNNl8zZzhDX2ZOVVZXV01Eb181M2VINDNmYjB2aFM2LWZfNnJhenB5UjFQZVozVUNFTFhzWjJleFNRODFhSlAyVmozd0hkSDFpcU1URFk?oc=5
+- **Source:** Crypto Briefing
+- **Published:** 2026-11-15T13:46:46+00:00
+
+## Microsoft Ignite Starts Nov. 17. Will Microsoft Update Its Paid Copilot Seat Count? - The Motley Fool
+
+- **URL:** https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdlBJMGRieWdXY3ZYdHJ4WVhhWjlPTWtkN0RrUGNZZVkzUFVGaGtvckpNV3FaS3FYajdrYkE1amlHQ2gtMm10UGo5MFVNM1pqb2VDb0F4aTl6UGhHeldlTEhfejMyOFZ6ZUNhYkpPZTl3WElyNUhldTBxNWFyNjNUazJ2Zm9lWllLeUhtMXFDeUlDd2otaThJNWlDRS1CU0JwN2t6a2hfRXV3Q3o1cENqMVlwcFpLWDBRTmNmZFVFWkM?oc=5
+- **Source:** The Motley Fool
+- **Published:** 2026-11-15T13:43:00+00:00
+
+## 7 Best Things About the Original Xbox That Aren't Halo, Ranked - Polygon.com
+
+- **URL:** https://news.google.com/rss/articles/CBMid0FVX3lxTE5Ic3FRdjdQOG1qQ2hjTENHTjNJUDRxMkg3OVdxLUo5M21ZM0V0aHZVWlhGUWJDTEhBNkdMbElVVEJFX0dfWHFmSF9OQmRiR1VySVNIS0xXeHF6YUJjS05aM1F6Nm80TjlBQ2Y3RENuejlGdXpIZUw4?oc=5
+- **Source:** Polygon.com
+- **Published:** 2026-11-15T13:00:18+00:00
+
+## What the Microsoft crash reveals about enterprise vulnerability - Business Day
+
+- **URL:** https://news.google.com/rss/articles/CBMi0AFBVV95cUxNVkVHTmUwYzZPRGh5VXAwcWJEWnJ6Nm1HX3lFNHRmdTZ0cWFXRFQzMENNSDJDY19ZTzdKbGx0dFRURng4RzhXSnE3dlhfWk15dnBUUzg2cG54bnZPTWIySFN0YlBuWWNCWHVObGg3dEx4eF94eXBSckl6d2M4MlNnVEgwTmtfd0xvcS1OaC1FaHZuSmpNTjRxcHNfczVhLURUWDczZVhvbHJ4Q0pHSHdPRFR1cXZ1QmQtdEhpcVJYb0t4Z1JDOFFRVWZtcjQ5SVEz?oc=5
+- **Source:** Business Day
+- **Published:** 2026-11-15T12:47:43+00:00
+
+## Microsoft and KT Revolutionize Network Monitoring with Advanced AI System - Small Business Trends
+
+- **URL:** https://news.google.com/rss/articles/CBMiowFBVV95cUxNT3pxMUlSZHFXcGE0b2tQbEQybHRib3NyYmpFdkVKT1ctTkpiTVRHYUdaM0lxYThIWXZTMUJ0cVdWUTNxX2NXaWc5eWpqV0dWTkZuUVRRRjVESGg5OHo5dWpYenBaWFdLYzVCdWF2emE0TGpMcHFSZndwcDZkZnAzZ2ZSYW5aRzhueTFHdTRheThEVVBFbjVOMVYyZ3lSb0Q5eHU0?oc=5
+- **Source:** Small Business Trends
+- **Published:** 2026-11-15T12:18:00+00:00
+
+## Microsoft executives panicked over Grand Theft Auto VI's performance on Xbox Series S ahead of release. - GameGPU
+
+- **URL:** https://news.google.com/rss/articles/CBMi0gFBVV95cUxQcWJVNHh6N01KdEduUlZWU0M0WllSRHdFUGYwZm04bnk1Y2x2b2pGbHFlLVgzVW10Y2NIOWlpaUpCOWRQbnFyczFLVWh1S3ZoeW9QRHI3Yzg1OFlKYU5tT3hTb0RlMmV4MDBWM1hDcWtBZXNlakZLMVRrNEQzQ2NnYUNQWXVaTHhIMHVuUUhtRUhlWWV3T3NKckxrR0JySGItMDZjbXJQMFVOMGtzdlMwTktUMGNrSk5ZZ2l3dlYtRVZnRmJRNUpCYi1scjlaLVNhVlE?oc=5
+- **Source:** GameGPU
+- **Published:** 2026-11-15T11:59:54+00:00
+
+## Want to Invest in Top Growth Stocks Like Amazon, Apple, and Microsoft but Avoid Nvidia? Consider This Low-Cost Vanguard ETF That’s Up 24.8% This Year. - Yahoo Finance
+
+- **URL:** https://news.google.com/rss/articles/CBMimgFBVV95cUxQcmhrc016aHFEMGZNbDhPS2RHSGZma215dUtkQnN4Z3E5Nk1CSmM4OVlNLVRaWEdyNkJ0VWwxSTAtMG1LUXh3ejh3bUhaZU5HM2lfNEhoRzExbGZJWUVGSnRvU1kzQlMwTWNCa0ZaTDhQRlhhX2VPdkJkakd0d1dMaFZ2ejhmYlBYWDI3UXNxbVNPTjJQbVUxTVhn?oc=5
+- **Source:** Yahoo Finance
+- **Published:** 2026-11-15T11:50:02+00:00
 
 ## I brought back WordPad on Windows 11, and it beats the AI-stuffed Notepad Microsoft wants you to use instead - Windows Latest
 
@@ -27,279 +303,3 @@ _Last updated: 2026-11-15T11:47:40.047052+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMilAFBVV95cUxObnJBa0lfdXZqWU9QU01jM1IyNzNYbGh3TDBJX0Vib25EYlJGODhVQ09zWTZsNVVOYVpzanN2SUdNSDlXeWtjalFma25nbjUzOWhkRF9Mb1Aza3drcENXS1ZOaWNIUVBBS0gyNTdvTURUb0FWaVlCWjhza3pkNGtOWGN4Z1lyRTg5OXV1a0c4c3QwSmFs?oc=5
 - **Source:** Share Talk
 - **Published:** 2026-11-15T11:27:02+00:00
-
-## The Global Microsoft Outage Is A Reminder Why Diversification Is Important - DollarsAndSense.sg
-
-- **URL:** https://news.google.com/rss/articles/CBMipAFBVV95cUxNd0s4TnlDV0Fuek55LUxOa183RFNJaW1ZQjJ1R2FNRFNMNV94LWFhRkx3UTVtM1hkQWhlaU91RWh2Z3pfZTI4R1RGT0pzeHlqTk9hbkxUb0llbmtFc1F2VFJuMzhnNXVaYWFucGZfX2hvY0w3cWFqS1R1bFA2dFRXNFhwMVZqMlBqa21COVpxUEltZ1pDaGhBMllxOXhPdjhDR0Q1MQ?oc=5
-- **Source:** DollarsAndSense.sg
-- **Published:** 2026-11-15T11:12:28+00:00
-
-## Why India escaped the global Microsoft 365 disruption and how to develop lasting cyber resilience - ET Government
-
-- **URL:** https://news.google.com/rss/articles/CBMi8gFBVV95cUxOcVBfREU1a09iRTRPbjRkMHhQU0hDU3Y2c2VYMTJpZ1hKbWd1SWFVWW9WcmNGd1NvNF94eno4Tkh4Nkc2MzBscVI0SlQ5VF9Wa1BKemFpaTVxYUNfWFMzTV9xOEF6bXJKTHVfWUx6MWV1bzl4TWd0blNoM3ZGZlpvLUR1cnpKU2xkNzJ3OHo2WUFsak1EdVpLVzdHeEpidlNoN3cxUTNRVlZBQU1yaU1SZXY0OE93UktlcDB6TWJxMC16SF9wNVUyUi1iOTcwRkxPSWJFYlgzS0ltbTZPOExVWUhuM2RHbG04VUxXY0lqdkxUd9IB9gFBVV95cUxNRzBLblBxMC0yTHgzdlN3OExUcEJTWC1ERnJ2ZUJ3WHozZ0h6bVlVUzlERi1NT2FNbXUwQnhyd1NhcWQ4NWw4NGo5b2hBdmVvaWtPT3huUmpBcXhMcDJBbm1UdF9LLVRrdm9jOW5kM2pObE5oYWx0eVhiQzkyRUtoYXh3amE5V215WVQwMXZQMFJLVEVqWUNZLTRuYzhXYVdoMlVDYXJoVXR4NDRCbzFKTEl3SlFpUWhnM195T2FFQXBpYXhENXUxRnlLam14NlBSWEZYMklnOGo2eUsxRDdXQWVHT3ZrNnhfUFJ5eDV2SVd4ME1FaXc?oc=5
-- **Source:** ET Government
-- **Published:** 2026-11-15T11:01:37+00:00
-
-## Editorial: An Outlook outage brings pain for Microsoft, chaos and relief for users - Chicago Tribune
-
-- **URL:** https://news.google.com/rss/articles/CBMiwAFBVV95cUxQWjNzWmhna3VaaHZ2RFQ3bEtUSmZuempWbXgyWTdDMzFuMUpJQllDY3BkYjFTaGRuMmF0ZHkzVThLbUkyX0xTVUYtd0xCWk1Sd3kza1VZdFpEdEo1d0FidHlwNlRmckZIeHdSMzJhVzBtWlNyaWFjbTZSNE1QVXpRcjJhVk0zZUpFQlkySVVKMGF4RFBwNkNheWJCWFZyeUlaMG92QjMzbG5XNS12eXNOX2VSaVVxdkZIS0RTUnVaeDg?oc=5
-- **Source:** Chicago Tribune
-- **Published:** 2026-11-15T11:00:48+00:00
-
-## The original Xbox was released 25 years ago today — Microsoft’s Pentium III and Nvidia GPU-powered console did surprisingly well in a PS2-dominated era - Tom's Hardware
-
-- **URL:** https://news.google.com/rss/articles/CBMinwJBVV95cUxQM0VZSWJvcHk0a3ZRYmdDaWFfNkI4b2gxS1FaXzhGRVlJME4yUmYzbmhmRHRPS3RMRVo1NGdzbU55aEhZai1BMHgyWVdWNjlTRWplQjVfZW5qOWpqNmV1YmY5RVFKRzNaVkFHOFEtampJUmcxdW5NN1VDMTZSOVpZbG5HdkNSWVNkRWhMak9IQjJqWjA4dEN5S3FnNnVoTV9ubXI5OHRhWGpJemV1ZDZOMF9mTktVQXFWSDFVdUJscUwtT0todUVnZmNxam00RlJERGkzNmlwNDl0dGFvMmVDcGk4RGRVQjAydU11RVh2Q2dnTGxwSlhkVVBnLURLbm5tMzBzWHZST29QXy1uWlIzbHYyZW12NjBJeGZpQ3lSMA?oc=5
-- **Source:** Tom's Hardware
-- **Published:** 2026-11-15T11:00:00+00:00
-
-## Is NZ prepared? Microsoft outage exposes cyber vulnerabilities - 1News
-
-- **URL:** https://news.google.com/rss/articles/CBMingFBVV95cUxQQ1g5QzVlX1lQZHJXRjN5dmhxNWFILUR3WnpjYkZIOWZvSmUzSkplOTBCQ2QyYlRtSjVJRzJiNnk5ek5FbGM1anhyVE1SS0swV3ZzQy10clVDSnJBeXA0Q2lKUmZuSGlrVG5PdEkxeHhpTXBpZG82U01JN2JaTTNCSnFOVW0ybVNya3BiLWJZdERZLXJZOHo0WlNyVWc1dw?oc=5
-- **Source:** 1News
-- **Published:** 2026-11-15T10:35:13+00:00
-
-## Microsoft Outage exposes critical risks of shared Digital Infrastructure - Indian Newslink
-
-- **URL:** https://news.google.com/rss/articles/CBMiqAFBVV95cUxPM056Sk1qRXNLdTBzWGJfZ1FyejZ2akU0V0o4cC1fSG9TSGJIU0VtUFEwR0VJT01aY0RnUElzV2RQRnFDS0lZT1YxeTFBNXhwSkxLbWt1ME1NSlE4dVlsSTJKWmJHM2JRQl9GVTBNZy0wMUZFdk5SaG42YmZsUVR6b2M3ZWtJTXJQV1FTd1R0Qld4UmQ3S2Z2WWRqWlVtclJucFNNMUJ3NW8?oc=5
-- **Source:** Indian Newslink
-- **Published:** 2026-11-15T10:27:44+00:00
-
-## Microsoft discovers AI can’t keep e-mail going. Workers rejoice - BusinessWorld Online
-
-- **URL:** https://news.google.com/rss/articles/CBMitgFBVV95cUxOZ3ZqTFAtOWhUVkZrNEMybFgzQm1KODdSSm5SNzBYU2RQUTFUVnZHXzBHRWViX3Q3SEdyRWVXZmNIXzZsNTk4TFVZcVlxSW5iTHB5QWk5a0pyd09tZzFIM0dPdUotZlRkbVFJZDNxUUtNWFM2YzkyajF0TV9MYnluVGlLX3V5MnNzaFdtcDdZWWduMmVVYk82elJmWWgtVmRvN1RRNE1TTTlKMVpwU2MyZGpva0VsQQ?oc=5
-- **Source:** BusinessWorld Online
-- **Published:** 2026-11-15T10:26:20+00:00
-
-## Microsoft outage losses could be covered by insurance - lawyer - 1News
-
-- **URL:** https://news.google.com/rss/articles/CBMinAFBVV95cUxQY3JuQTRHSWtONVNnMDlHWFJ5Nk5BNVNlY2dtdm9XLVBvNkZFQkFDdldKV2F3X2NnMnJzVjJLSUk4T1pDSmRHb19XcG9iWmtDWTJuMi00NjlyaHJieUlsOHEzclp4OHNFTGVId2lhbUNxbmU1ZF9DeG5CbllQM0QwWnNJVFVHV2IydVVaWE5fRWhGZmpiYVN1d1c5VlI?oc=5
-- **Source:** 1News
-- **Published:** 2026-11-15T10:11:04+00:00
-
-## 5 Immediate Lessons From the Global Microsoft Outage - GovTech
-
-- **URL:** https://news.google.com/rss/articles/CBMirAFBVV95cUxNS0tZTGM2WXJ2bER0amxyZ19hRGZjcmJFUUlwWktpM3JnNVlWaS10Q0RBSGoxLXR1Uk5UNzZUcjcyOWVwbEFVTkJmSEN3Q3ZJelRRWWZCekJZRHNxU3VDR3ZqQTg4NFQyUjFjMFIydVZULVVPNEFJcTlsUkdZNVVOSk1mREQyT3BLellyX0o2T2djR1ZSOEVMOG13TEF0RHMzRTZESXAxMXlXYl83?oc=5
-- **Source:** GovTech
-- **Published:** 2026-11-15T10:02:14+00:00
-
-## When Tech ‘Upgrades’ Go Awry - The New York Times
-
-- **URL:** https://news.google.com/rss/articles/CBMikwFBVV95cUxPdlRxel9hZWtiTmd6OWV3OHRCZjhpUS1Obm1adXlGcWVnaDlRMi1mcmpuT2xlNUNxbXhJVnMxdXdFMmxnLUZIdFNkZk5uOU5NamEtSGxsMUktaGFlWXZ1Mk9BdmZveDZHcnk3LWVwdDNHeF9XcnUwZGFrelJCTlIwYjFYU1c5TGdTbmJmQ0RVXzNHdWM?oc=5
-- **Source:** The New York Times
-- **Published:** 2026-11-15T10:02:05+00:00
-
-## Watch: What caused the global Microsoft outage, and how it affected millions across the world - The Hindu
-
-- **URL:** https://news.google.com/rss/articles/CBMi2wFBVV95cUxPcGpRMG1lYlVfcGM5blozbjNiTnJGV05DUERCc0FMWVFpSlhuWEtkNjV1T0dUdzJvQTVGSzRVVFkyV0FHQUxpdXFlUDJjUlZsVVd4dTVrVnY5aWRreUZ1LU9MWXZQcEtmSW5STFhYcmNyWlFyZjJYVFV6MlMydG9OTzBlVVA1cEJtSncxLTBqMjNscjkzdkFGYjJ1cVppdmZVNWZpd2NPNlRQSkQ1RW1mYVJtNmpnLXAteVM5azRIWXlWdzA5anE3MFZrWjF0TmNZTTE2VEJQZmRLSEE?oc=5
-- **Source:** The Hindu
-- **Published:** 2026-11-15T09:49:27+00:00
-
-## Microsoft 365 outage in UAE: How businesses can claim refunds and service credits - Gulf News
-
-- **URL:** https://news.google.com/rss/articles/CBMilwFBVV95cUxPX2lHTXpISVJ3bFprb3ZiUXA4alFHSjNyMTFIOFllaEpxdERuWnVSazZlaWJaZnpQeUxRWTlMb25Ba1NVN29xVm9XUkVLYTNqdGlLSlNUUzAxQzF0T2xfcnJzYXlQZVVhblplQWhIVUZHVExzMDhNTXBQVkVobHpkWlF3QWtwSWRyMGY4SWQ3aENlV3lRaVBr0gGnAUFVX3lxTFBWaXVISW9CUmdVcmJVSjNiZGtSb3BWWVZ4T0xWV09TLXNDVGV5OV9oSF93cGZFZ1FTa0t6akQ4SDJXZFB5Y2o4by1JQWlnQXRyZGw0cVp6LW9HUjNUODhuRVBhWWxVTkE4SThMVjMyRlctOTJHM2s5TFI3bks5UWhzLXBOMkpNcVBRYWh2MWxMZm9QM01wMFB6SklMNVF6dzhCNXJ6WUlj?oc=5
-- **Source:** Gulf News
-- **Published:** 2026-11-15T09:35:45+00:00
-
-## Biocon's Mazumdar-Shaw Urges India Inc to Back Zoho as Microsoft Outage Fallout Widens - BigGo Finance
-
-- **URL:** https://news.google.com/rss/articles/CBMidkFVX3lxTE5SSHVPYjIyVWpiUUt1NVNCWnNqaUU0V0xrQWtPOUh6eWQxc0FoNHlmaDZqeFAtejF5NzBlcjNRd2tSdjhCNXVWaDZOSWpLalpwYnFPLUlDaExUWWJLd3JmV3ZvZzA5R1gxNVk4V0FENDVuc2lMWUE?oc=5
-- **Source:** BigGo Finance
-- **Published:** 2026-11-15T08:55:00+00:00
-
-## Founderz AI Wins 2026 Microsoft Partner of the Year Award in Training Services Category - TMX Newsfile
-
-- **URL:** https://news.google.com/rss/articles/CBMiywFBVV95cUxOTnZPam05VGpkU2VHQTRTYkJvZUs4QldyQUMwdmlFM2FNRVdnMWlTLXJYWW5fMjFER1h3Y296RzhadlE5azd1NnE3alZ2Y1EtcmF2a2diREp5cnJSMklENUFmcjZ5NUZzSmpYcDFNaDhBeXFxcVF0RnpDNDV6dTFMbzFjTkpublYwckdvOGN3WFJSbnhjbWlDbkh0SWVkWjNnUnRiMVYwbkU2T2V0RERwTHd6dl9QNXFQa3YzX01LV05VZTI3aXlLMXZJRQ?oc=5
-- **Source:** TMX Newsfile
-- **Published:** 2026-11-15T08:36:00+00:00
-
-## Should Microsoft AI Partnership Require Action From AvePoint Stock Investors? - Simply Wall St
-
-- **URL:** https://news.google.com/rss/articles/CBMixgFBVV95cUxObTV0bjEyTUt1Tm1fQUdBajdyV29sTXMyTEppX1c4V1E4SkNnVFV4LWluU2xvcWNOVllndFQzMzB1Y2g1Nmt3Ny1hMjdYUmM4Nm9ZUUpNRHpEWFRPQmtPSkJnMXNfaS04RE1zNXcxeVVmVjk1ckNOZnNCOFo1bUVIMGJfN2xBUno0SnZ6a3MxRTF5MXFkZTZibHhfbUJOS0l5UVFnaTNNRUxBSmE0cnR2OGpTRkhvV3dnQlR0dW9Bb0lyRTM3TXfSAcsBQVVfeXFMTk0zR1FoME9MSUFaNm83cmNIcUpWMWFJTlpsVUYxdXZ0RzBLMmRXekNDaVY3U1NMcGg4ODBGbTRuckFTVTZ3b0Q5RjFreDlpYklXVE45bDRKeU5KRVhVcGcyLWotcy1fTGVyZ2pYOEZnVkVSMzA0WTlpZGNMbVFFOXBWaTN4MjhtRy0tbThjZFhTdnpIb2RoUjZlTzVXZ0tjZHE5em1iMGRFTFpmMGVzYkFZRm9kRHM4eWFJX1IzRkNXazFybnp0Y29NTkE?oc=5
-- **Source:** Simply Wall St
-- **Published:** 2026-11-15T08:35:31+00:00
-
-## Kiran Mazumdar-Shaw sees Zoho opportunity after Microsoft outage - Storyboard18
-
-- **URL:** https://news.google.com/rss/articles/CBMizAFBVV95cUxNdTdiWEhIQkhGMnpoS1l2RTVqU3lSZHlvUmNOVUZ4MHBqRloxazVHTU9pS2RObzlLblRkUkxBM2k4SzR0VFo5b2g3SWVHU05OOTFqUEdlTG1MRU56c25jTXIwYXpNZDV6ZjJMMFZwZE9CZUdtaDdmUXZIcy1SQWFzejVZS2FlWExNLVdVcnhKQkRTMjJRcURKZWtqWkd0UEJlZGFJc2gyZ2R0emN3ckw4SmxiNjJZcm9mYlB1c2NRazRtWjh3MGdTbTMtRTfSAcwBQVVfeXFMTXU3YlhISEJIRjJ6aEtZdkU1alN5UmR5b1JjTlVGeDBwakZaMWs1R01PaUtkTm85S25UZFJMQTNpOEs0dFRaOW9oN0llR1NOTjkxalBHZUxtTEVOenNuY01yMGF6TWQ1emYyTDBWcGRPQmVHbWg3ZlF2SHMtUkFhc3o1WUthZVhMTS1XVXJ4SkJEUzIyUXFESmVralpHdFBCZWRhSXNoMmdkdHpjd3JMOEpsYjYyWXJvZmJQdXNjUWs0bVo4dzBnU20zLUU3?oc=5
-- **Source:** Storyboard18
-- **Published:** 2026-11-15T08:31:02+00:00
-
-## Microsoft Service Restored After Widespread Outage, Company Says - WSJ
-
-- **URL:** https://news.google.com/rss/articles/CBMifkFVX3lxTE9SZmZCcS1rWDBlU1EtNTRYbFY4TE00cEVObWk3ak9jcnNsaWtabW83MjNuemxSUk1WWXZ5Q2VubUtCZ2Y5YnZkN2dNR3htVEhHUkpPbjNuczc0VmpDb1dIZ0Z3TVFaTW43Z1hrc00tTWFQQ0M5cFd4SUd6TG1ldw?oc=5
-- **Source:** WSJ
-- **Published:** 2026-11-15T08:27:43+00:00
-
-## John Langford leaves Microsoft as AI Frontiers shuts down - Pasquale Pillitteri
-
-- **URL:** https://news.google.com/rss/articles/CBMilgFBVV95cUxNOHVybkpTTzR4VW1mdHJEY1BrSGdEWWZNR1FNU3BIZ1pMOHRTNDhqcnd4cS1sVExnS2VjVFBuZW9YRVh6ZDhobW5HTU1xY3JoeW9qQU1iSTVwSU9XdjR1V3I5dTZEdDlDZFU2WEg5dU1zWi1lMXAydk5XeUxtQkJqVW9BUmtXWGxwS19MSi0xeDlWQkthWVE?oc=5
-- **Source:** Pasquale Pillitteri
-- **Published:** 2026-11-15T08:09:59+00:00
-
-## The Week Everything Broke: Microsoft, Workday and the FAA - UC Today
-
-- **URL:** https://news.google.com/rss/articles/CBMie0FVX3lxTE9QYU1zN2ZsZk9lOF9uYVJ6NE5UX1FQdGd5cmtYNXVlYUxOWWxoWXJiRXNXa2lxaGIwT3F6NG5RS3NFU0QwcFliWG5jUUNTOURobzdWZU1QT0xFaFVIWTg2NmZUa3hYbHJycDNpNE9HWUhEOElSend3R1d0Yw?oc=5
-- **Source:** UC Today
-- **Published:** 2026-11-15T07:23:09+00:00
-
-## The Microsoft outage offers three lessons. Disrupting what works isn’t one of them - The Indian Express
-
-- **URL:** https://news.google.com/rss/articles/CBMi1wFBVV95cUxQNVlCS2N3Z3RlWGppZVcxVFF5MnkzdHFaQlpYSG9lTnN2azdIbEdRblp5a21pcmM1Z2RKOGRaWVNnT2lTeWZNMUJGc0ZsaXpZVHZ6MUZqbGZsVnJOa3M5QzhrNGM4X3RnNUZrX0VmYm1ZVnhrRUJxb0xXMjZ0SzYyN3BPYVZfZ1pvSmZWTzk0b2dCVnlPN3NRUDluRXdSLVJLMkhIcFZkRDJFXzNtMmFkcE52SmM5Wk5xak9QLW9uLUhTUHlmbGIxd0hoNXlzR2FjZzlUOEM1SdIB3gFBVV95cUxPaTIyNnVYLThwWVFSWHhNdlYtbWlnUjBROVB4cU1JLWMyd21iWU1ZNTIwbEI2bG1ZQkxnTUgzNllYUVNkTE1NUFdWWmlrUFVsc2pEUVNDSlFyVUN5SE13TFlSYllsaV9uNUdndjRITVdFN0RUX1IzNDROc1p2cHJKYjhtQm9DRWd2SzVwX2xJcTh4LWNzYXlwSVJtSTVFMF9FdURfRldTU3VOWHV3eGg1U1k3RzNEeXpBRDlocXVaNE9uZnZ0QTJWR0llR2RZSGZ4ZmZaSkhQVFBNVzFad3c?oc=5
-- **Source:** The Indian Express
-- **Published:** 2026-11-15T07:18:22+00:00
-
-## Microsoft reports broad recovery after network-related outage, rules out cyberattack - DQ
-
-- **URL:** https://news.google.com/rss/articles/CBMihgFBVV95cUxQdmhNY0d6eTVDbU13amtZRkp3Nm9GY3BoVFRLbU1uNU9UZWxlNThBT2pkckN3cTFQZ0lUc2JTa2lCWW9ZSnJmRVpnXzZYeVhfSU1DWXlRak94S3lQNVJrVjlWRUVrLTN4Y1FLNmF1dkcxRl8xUjJZRnd1NFlYdWRBSTVMLUliZ9IBhgFBVV95cUxQdmhNY0d6eTVDbU13amtZRkp3Nm9GY3BoVFRLbU1uNU9UZWxlNThBT2pkckN3cTFQZ0lUc2JTa2lCWW9ZSnJmRVpnXzZYeVhfSU1DWXlRak94S3lQNVJrVjlWRUVrLTN4Y1FLNmF1dkcxRl8xUjJZRnd1NFlYdWRBSTVMLUliZw?oc=5
-- **Source:** DQ
-- **Published:** 2026-11-15T07:08:02+00:00
-
-## Nvidia and Microsoft meltdowns show us all that we must be more resilient in our everyday lives, says HAMISH MCRAE - This is Money
-
-- **URL:** https://news.google.com/rss/articles/CBMi0AFBVV95cUxQaUttMjV2SllEZ2V0Y2V3OFFaSEN5b29vcjhKemNyS3BDdjR6YzdkTTVLTFJqWmVqNlljZlRrSHoxeDJLNTItb2JtV3Z2T3U1MmZid0ItQU81VXgwOFNxNk5yWkRVanlxYlVncWw3dVRrTGlNeXN3Wk1FVXFtdGVqR2JvX1B0b3NQX0lXTHIzbW9DdUU1S1M0Q2xYdXhkeVJ5QnVQY0l0V3l5TTFidDdtWWVpMFJNVDVuOXNCZlZMYnJXTTVCV3NEUjNmRXBYa0RV0gHWAUFVX3lxTE5PY0tZMnVaUlNEQVpqQllGdGNHUTEyUUJiRUxkdnoxY2k1NHR3Y1VHcEhLWmVPMWVnLUdqclIyUEFBS09ST2lhbV9VeWtHV25kZDIyMFFyOEtYVVBaUVBSbmMyVi1YYnllWmZZTE9jeEZfcXBhS3lZVW40QWpxdVBDVWNQQk5sbnFwU0VxbkJDWG5PRFJ3SFdYVEV5SzRRY0xuYk5DcmxvTTV5ZldwNHJzWTFPLUFQQXkwOV9TTDBhYTlYNGdEbENwaDhCUW1tVGtBZ21UbUE?oc=5
-- **Source:** This is Money
-- **Published:** 2026-11-15T07:00:53+00:00
-
-## Could everything be broken? Grounded jets, Microsoft outage, AI chaos make some wonder - ABC News - Breaking News, Latest News and Videos
-
-- **URL:** https://news.google.com/rss/articles/CBMimgFBVV95cUxQeU5Va0lrTWw0ZTR3Nk5kcG1UNl9MRzkzWm15UnE2ZWRGRXM3VnVBWmZKdDI5c2F3b19GMGVjVzhYdERQSlcxVmNpRktNLVYySndUYkFFRUVIOFlkT1hvSkNtRkY3eWY2dDNYZk96cENVQ00tVDlQSDlYNmlCTFl4YkpVV2JoV1dFRXZQWE5VT3ZiQWs3c3FMZlpR0gGfAUFVX3lxTE1CT1dpT3VfX01UWXdDbjB1clRjN0tXMEktMHgxYXBuRnFJSUNCTTFUN2FkRUZZdjVBbVYxdHVleXJMZXdVSmotcWRIMmNVMmpXNENEWG5xNFpNS3d5d2xDVFRLUUM2Tm4zb1EtSExVcWpQcE5TMkRHV3JxRzJIZDJZY0pqTzhaT2ZsYmJSYjBkaXNVZVNwM2puX1JZMVRZSQ?oc=5
-- **Source:** ABC News - Breaking News, Latest News and Videos
-- **Published:** 2026-11-15T06:38:57+00:00
-
-## John Langford quits Microsoft after AI Frontiers research group is disbanded - Moneycontrol.com
-
-- **URL:** https://news.google.com/rss/articles/CBMi1AFBVV95cUxPSkNUY2Z2ZDAyd3NaMFNpTEZLenYtNHh0Mk1FZlhHWjhPVVpPUnpPVDRZS3d1amFGR21jOWk0QXRDMHlrcnhxcUpUWUxQT1FIUDRIVmhuRGstaGh1XzA4a3FTdVh2S1NQVkJBZ01LM1RtdVJCcW8zRjdUQ3N4aV9sX2FlZUtQX1lZMUFNQTJHLWZjZ29fbHdRSjMwSFlWUWdSOHVnQTAzNk1GLTlaYlJ1VHF6YjRTRjc1N1FOcEZVS214d0FydWc5X3pGRk9HZVNiRmh3TdIB2gFBVV95cUxOVmNyRTFJbjhIbDdKTVFOTDBJM29Tclg3ajlkZklNM1Z5Q2J6cnZrM1k0OW1oUWhKb21XeUNiX1JPbHdtRFZYZzNrb1pHUXpNMkRmdGxNUXlaVEl0V1kwQXBJZ1JZWGF6RU5Gd0N3TWdrdno5U051Z2pYMG11T0FzTmNXdVYzekJxaHhDcms4WWt3QWJrYzB5MjdhZU1WTjZkZE5uOEpxdXUtY3cxakxMYWJWU3dKR0pVUFVEc0dJVkl1UGlPa1NhYk1qTlV1RC1sNnpqUHE0a2pUZw?oc=5
-- **Source:** Moneycontrol.com
-- **Published:** 2026-11-15T06:33:14+00:00
-
-## Bowen Yang Makes Surprise ‘SNL’ Appearance as Jensen Huang as John Mulaney Pokes at FAA Ground Stop and Microsoft Outage in Cold Open - The Hollywood Reporter
-
-- **URL:** https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRE5PRTZuWW1PNlF6M3dXYUl4OUdscHlTMlQ0YU84NTBkNldCcXhlUzA4UnFybzFoWG9QeXFaakxfZXpRZjNyT3B5UFJaOVl3Yk15NVdhU3o4N3hYQ053dnRZUmtheXFIbGExS2I4M3VjMm5UZlF3cmItdFZCM0tHcHpKb2F0S25qVHppMWRVSWlxRHMyMWhEN2otTlBYUnJDbTl5dUFvTklYZw?oc=5
-- **Source:** The Hollywood Reporter
-- **Published:** 2026-11-15T06:28:20+00:00
-
-## Microsoft Outage Disrupts Global Services for Over 24 Hours - 조선일보
-
-- **URL:** https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRDRoZFpTSDA3eFMxMEVYQnA4RkxJYS1OM0tZVlJLbl83bW9ub3h4M3R3THNXcGVoNHBCX0N6Y1NDYi1CcEtGaGVqRF9ZODRCMHBlaHZ4V0ZsSThKQ3FvdFlndS1sUXRkN1Bva0dDeEpadlc4ai1BVS1wS3l2RF9mVFAtMVpkaU5x?oc=5
-- **Source:** 조선일보
-- **Published:** 2026-11-15T06:25:26+00:00
-
-## Could you survive without Microsoft? - Jamaica Gleaner
-
-- **URL:** https://news.google.com/rss/articles/CBMilwFBVV95cUxOYm1uQ0Ztekxqd0VXa2xrVjVvNDZQT2FWSzNTX3FXVTRrUWM0elJzM2VRR3VvVmZtV0NXNUZlZXBBVHRVM25DRmxCUTFRQVZ1MEJYR25jNWNsRzRqbkZtS3Q3MEJrcmhtZnVzTlFJTE1wWVIxTVRBOTh6LWI2VWdHY3J1ekgwQlNmaWdXUklJZEVlUlpkbzRn?oc=5
-- **Source:** Jamaica Gleaner
-- **Published:** 2026-11-15T06:10:38+00:00
-
-## Microsoft has suffered a global outage. A tech expert explains what went wrong - The News Minute
-
-- **URL:** https://news.google.com/rss/articles/CBMisgFBVV95cUxOMGFfbFFGUEVGNUNySkFPbUstSThRRFNiZmpxN2tQSGF0YlVSUHlDN3FVMWhiYlA4Y1dxR0h6clU0UlhaSlk0clROWGRic3NzX1RwU2VTbzVkbEVYdGNQUDhFbWNVZ2RQSzg5dFV4X0ZMVGg4TkV6cF81WTV1VG5ZUDdKNEpXSUNITVozdnNST0RTdHFLclNGbU1wcDlCVEtxSHpvYXhYRXpvVjMwckNBUWRn0gG_AUFVX3lxTE9fU2Z5MklBTC04ZERzbnhJWU4wS2twaU5UYjlCQ01CUUM5YmtEdXAxU0tBUDZwMjZGaE5JcWxIYThtVTNJYmYxSUxMZ0VnOU5aMVd6RG5fUVp6Rnh6Z2MwWW9MS0tYSkJ6Tl8xZEt0dkp1MjZnZFoxcXlwUkZjXzkzTjNXaWxPM053Q0JYNUdiM1dPaEh5bG1jRnJYVkQ4eU1RcjM5SW13VXhLMTl3QzEyY2NLX2s4NUQxbkNWd0Nr?oc=5
-- **Source:** The News Minute
-- **Published:** 2026-11-15T05:59:13+00:00
-
-## Microsoft may owe you money for 36-hour Outlook outage, here is how to claim it - India Today
-
-- **URL:** https://news.google.com/rss/articles/CBMi3gFBVV95cUxOTUFDNmFrZlY0UUZERFhGeUgtLUlMLWNtN2h6MTZDMVJ1d3V5eHlZSE9iUXVsTjl0RE9DTWY0cTlRdjlBbTFCVVNMdkZxcF9tY2pNRGlGa0ZoWVBsRDE3V0VCaDdLRjY4MTAzaEtIcURzMkJGMVJIMTF4Tl9JdE5rUnJhMjg2NmEwS2NiVk5PXzBpY0U0UUJIUGRsdHRfU1VsRXhCUmR4SVVqQnVyYXlzSjNiT09VYl9FV3c3NF9rb1FISzVaczItc2ZRdjhkWjJST2hqcWFxLUg4ZWMya2fSAeMBQVVfeXFMTVlXSi1LLXZfM0RNdm96dnVTaGJpb2VCQkRxckZXd09qTmIxYURLQkg1cVk2a19HVkp4Um9NRk0yX2ROVHF3ZTE3NkEtSHdJSUg3VmlPVzZXTHN4emhvMzRkbFdsc2JYcVR3WXQ5aFpfNEdXSUl6U0RaX1g1Qm1pNVhvM3FoUmJESEs5Nk1uZ0dfWkJHWmhYU0pyamVtSG9Wbjd4TGZtd053aTRvUlFwUXJUbXd6LWJaN0E5Q0lvWkdYaVBVWTNaRXJGNmVJRDJDVzY4RHczYlJWVFdXTEhZR2o2YkE?oc=5
-- **Source:** India Today
-- **Published:** 2026-11-15T05:54:07+00:00
-
-## Could everything be broken? Grounded jets, Microsoft outage, AI chaos make some wonder - Richmond Register
-
-- **URL:** https://news.google.com/rss/articles/CBMiigJBVV95cUxNaG1HazZMSzJpVTVkbkNzdy1Mc1V5VTZDOTdoZWxBaVo2dXFsN3g1Qi1jRDNVT21KNFBZZHhMRWZyYlJPd1hPOFJlTjJKbGJ4VE04WF91bXB2ZkQzODZZbjBlUGVNVFBsYzVDLVJmb05zRkhSMmh5T25LNlZ4cFNzTmkzSzhRNElFcURJTmFpZ1RTd0NUSzNBX3ZqdmNxOHJGRlM0c29nUS1IWWdmZjZvcWNrdnRMdjZjM3BvQUFCNnRnZU80VkJMLTFZT2h4LWZnTElLblR4WjM5elJxWDZqYzctWVJIVkp5VmR3UjZ0SDVXYUdUUUtqYm9pT05hcGQ1VDh1M2FFMFBGUQ?oc=5
-- **Source:** Richmond Register
-- **Published:** 2026-11-15T05:38:36+00:00
-
-## Microsoft (MSFT) Outage: What the Options Flow and Dark Pools Show - Moomoo
-
-- **URL:** https://news.google.com/rss/articles/CBMisgFBVV95cUxQaXRKXzh1OUNONzE4MGt5dXZEdEpTMUhLSFpmNTE3bUVsRGgyUGJ2OXJfQ05BVlZXLXJ2OTBzRDdCUFkxZl9Ub2xfUUYtYTZaeGk2LUpvenZYdmM5bG5ZdXBMOUdpSG5QOWk0MEJYYXNZTy1KS2VVa2hUOVRNcUpqVWYyRVF2M0JKWE92U2ZzcDI3YkxBbmF5QmZOT1JlbjhEei1xR2d3RU1RMmQtUUpaTm1R?oc=5
-- **Source:** Moomoo
-- **Published:** 2026-11-15T05:33:59+00:00
-
-## North Judson police warn of fake Microsoft emails tied to server issues - WSBT
-
-- **URL:** https://news.google.com/rss/articles/CBMioAFBVV95cUxPRUlEbEYySXEyazRHSmNLWDBOaW1HYUdZYkNMdkVnMXY4UDZZS3ZLRXMzczBVZll2UjVqLVc2N0RwSWc5aWVGZ2dSVm9lZHp2OE9vbldGR1IwQ0w2dWxrTFdSdnlkeVBaajdXTHFBOGdUMHpNNFpudmpzSEhtWFYxQ2NWeVJuYWU4RWliblZWVTlPYzkyTC1wa205VGNrbTQy?oc=5
-- **Source:** WSBT
-- **Published:** 2026-11-15T04:34:58+00:00
-
-## AI Debt Risks Mount: Why Borrowing by Meta, Alphabet, Microsoft and Oracle Worries Investors - TradingKey
-
-- **URL:** https://news.google.com/rss/articles/CBMi4wFBVV95cUxNaEpPZzJXdWZGekJuTVJaclVjbm9oaUJZZ1U2aVJzenZyVU4yM081TzdQZUoxTXhydldqV0l4ZzItZzBCR3lkZm1hcFEtTFo1bmVvbnphdnAybUpKTDFRYlpuZUpNNjNjb0UzaUUwMmJtTjQ4X1lpeGotbzZtdjRkYzNvZGluN2ZSWWU4dXBySnZ0Umt2d0FDY0JKdUZLVjdZdXE4VHdDSWIwNmF5ZnFVUnV6YUZtXzA1dmxLMzVTTlYteTZQalhpZUdiN1BCX2prVTQ3SEthZW05RUpSajBYOFMyUQ?oc=5
-- **Source:** TradingKey
-- **Published:** 2026-11-15T04:04:03+00:00
-
-## Microsoft Ignite Is Next Week. Here's What It Needs to Prove About Windows and AI - PCMag Middle East
-
-- **URL:** https://news.google.com/rss/articles/CBMi0AFBVV95cUxPdFFFWWFJRFNJWlBxSjE1cHdPaV9uOGp0SWh5WWlnbEl4MXl1andsZ01ReUJkMzAzQllQeDIzQWE2aWpacjNHaUk4NWtHbkk4eTh1WFFxd1BWR2xUT2V3YXExQWZEQkZnVzk1Ung0U1doVHF0UkZUa1R3ZzJqZ0k2VXl6QjRBdFNES0pndWtVSmFOSWE3bkhRY1BkZi1iN2ZzanE2SXktbmdENFp4ZmlTV2JmelcyNnY1WHgxdV95ZjJ4dXc3NHB1NnFfMVZRRktQ?oc=5
-- **Source:** PCMag Middle East
-- **Published:** 2026-11-15T03:39:46+00:00
-
-## Microsoft restores 365 services globally after disruption; warns of phishing campaign exploiting outage - Times of Oman
-
-- **URL:** https://news.google.com/rss/articles/CBMi2AFBVV95cUxPektWMTJOWkdnQXZnbmFJb0VUNVMtX0JDVW5MbTNTWURKeU5DSF9mcDFTS3lnRS0zYXFzREZVQkJXRWZNeHZpOVB4UGFsZHdiZEh4RHE1dlBPR2h5LU1zdXJYNFdqeURQZ2ZuMkVzbWxJY3NDQXdySXA4LWN5akE0ZmZ5VGQ1cGtaWk5SaWtuN3J0N1ZxT1liZ1BPaDJaQ0FXOG1vc2ZaOUd0V2tXMzBfR042Ui1MTXBZaFRpRUF6VVV5U1oyUjAxLTJsODhHS2xRTkt6X2pWQUE?oc=5
-- **Source:** Times of Oman
-- **Published:** 2026-11-15T02:53:00+00:00
-
-## Season 3 of 'The Pitt' Coincides with Microsoft's Major Outage on Nov. 12, 2026 - AOL.com
-
-- **URL:** https://news.google.com/rss/articles/CBMihAFBVV95cUxQWHNmSVVxYVprdFRjeE9kSmhUS2VtNXJ3VTRkcGpabjlqVk1OQjViYmdyLTA1SC1CaXhaQjJXUUZVN0Z1T0I3Rk9WTmtKbkhKOFBOSzVMSEdJRC15dlRkOG5ZVTMtYjVjVVdQd2lvcFNXck1za3JVNjJVQUxBbzFFNkdJMjQ?oc=5
-- **Source:** AOL.com
-- **Published:** 2026-11-15T02:52:00+00:00
-
-## Microsoft snag impact or AI hacking attempt? Aviation experts join debate on US flight chaos - The New Indian Express
-
-- **URL:** https://news.google.com/rss/articles/CBMi6gFBVV95cUxQZURkaDhhX3ZNR2hLeVNMZnF0SkM5M1NjMXZEaXJkU0dHTGl4TDRFTVZtQmhkcUhyTFFidlVJYVpHaVFiekVaQlplVTlIbktCLWxOdEZRZVhXR3FGSVZFN0lRQWJGSE5vbUphUWVWWGkzVUV6cmdUMFZrMHE2OWdscWFROGwzem9Cd3JhSXQyNlhXVUktUGw5SW80Qjd3MW9LWmNrdGtRZ0tSZFZGNnpZUkxSUUlJaFRXWWt4aHZLTDhxMjkzRTZUWTJqTjNHbmdpOVZsNWJmem80VUVTY2FFbmlhY01kOUNvUlHSAfcBQVVfeXFMTldMclNJSU1lalZvdTdrbnJzakd5S3UxdmVKRUpWMzZJT0tIT0lyMTQ2X2RSM2tqTnRYaGNDZzZ1ZEg3bnA1NnF4VVlrcXppbWdlY25BWGJSYW91QkhMMmZuekEtZzFDSDdxZnBjN096QnpRWGpTREthcHQxYjhnXzl2Yjh3b3NrT0NxNExaNUVUazBmYXBROFhwQjdWU2FNSkxqeElCQ0Frc1R5N2M5WTROdjBZUnNua0FVSENqOThqY2dkZ0xOUjlBNWU3WlQtbFItaUpEM2ZCVkF0Yk80T29rWWhVWGVKV0lWQnBJNXhGblNEM0xfVQ?oc=5
-- **Source:** The New Indian Express
-- **Published:** 2026-11-15T02:50:50+00:00
-
-## Government email services fully restored; Microsoft says outage unrelated to cybersecurity - 联合早报
-
-- **URL:** https://news.google.com/rss/articles/CBMi2wFBVV95cUxPSFhCN2JaVDlqQzU1NWE0dlIzelQ4Rk1ZQ1FOWGlKUWhsWTdIYWNwZ05HdGxnSGVkR2ZZOVNBaWxPdDZXdGprNFFIVjNuOUpaOV9nQ2FkWDFUR3VFU3pDQUZrM2xNZVR1OWMxZ21Gam9lMEprY3lGazh1THA4OTllYTNJTFZod1ZqMEp1OXJKYUtnYjRCdWJ2eG5GRjBRRzlYd3JkblBmd1N3ZkdpUVZjblBRYmhOM2R2OTE4aTJSWkpQM3R5ZThyOTRVVXF0MUpXWktjX004cHFWeUk?oc=5
-- **Source:** 联合早报
-- **Published:** 2026-11-15T02:46:42+00:00
-
-## Microsoft Confirms November Windows Updates Cause Activation Error 0x80041008 and Printing Failures - gHacks
-
-- **URL:** https://news.google.com/rss/articles/CBMizwFBVV95cUxPamJNYXZUS0pQeU5UdlZ1ejQ4bGQyODUwcFhhRVBnU0QwRFh1b1Azam1Vdk9hSFNCeXo0Wk14TV9CRzA3SW9fdTV5NWR0VXRTOVI4QXVNazdVUER2UDRjcUM5bGxjMngyaDktTEk2UjFGTzVkM2FYbzVGTEVfMVkxM1BjTDUyZ0FTNXVDSVhIVnhqOEtHVlhpeHpDOGtzT0RzaHYxVTRNNzc0SWdPdlNFUDJfT0xxUXlEOXNsdl9DTU9LcGJpQWVNTnZWS0E4LXM?oc=5
-- **Source:** gHacks
-- **Published:** 2026-11-15T02:23:17+00:00
-
-## 25 Years of Xbox: Looking Back at Microsoft’s Gaming Legacy - Men's Journal
-
-- **URL:** https://news.google.com/rss/articles/CBMiigFBVV95cUxNOVJqaTRjOG9aV05wQ1gtWWdINk1QaXZVaWo4SlBhSE1tdGVKUHlVbDNLbW43UHVEU2pHYjhONjF2LWdQbkRnbzJUeVgyUERuVVdzRkJVLTgxUmV0NEhrZHRsMGxvVzQyVmFGNUVTYVhkQUcxWDZLOFJ1ZVI0bXBFZGJPLVVjRUVpR0E?oc=5
-- **Source:** Men's Journal
-- **Published:** 2026-11-15T01:46:00+00:00
-
-## Microsoft announces service ‘restored,’ global outage over - Malay Mail
-
-- **URL:** https://news.google.com/rss/articles/CBMirwFBVV95cUxOOEVOZkJlWFdLNUl1QnVTdk82ZDBaTDUxMkNQdFpVSkFjLTdqRXpQeTlpQ0NGMmNrZ0N0Y2ljbjItWExBMEx3VWZLWjRycHlQT0hPZlpUNno5eS1OUFBya0xtVkY0WE9FckdGVmJySEowSGhCZ2FQdnJHVG9IaEZDZEJfa0F5NVNxZEFvLWIxN3NnWVgtMTFDSXZBY29zYXdkSTBJU01Eam5iR0pENU9J0gG0AUFVX3lxTE80UFNOOHRXbzVhZW9mWm1TVzRHM2FUclRlTS11WnV4aFNZMFk1b0h1OGdRNm13OTYxTkNnRFFES3A1R01NMkFSbllKM1pJWTZFOFlyRFE4WW9xOFE1WE1zbDZSeUcxbUdrTjR6Q0tjUW9yZjZfZE9NT1FXUDFCeTkwWUdSU2pZdlNENDdEQm9scUwtNlNTQno1YTdQX2VibmRWVDFoNjBPczBPRE1ZN1NzU1gtag?oc=5
-- **Source:** Malay Mail
-- **Published:** 2026-11-15T01:24:52+00:00
-
-## Microsoft says services fully restored worldwide - 联合早报
-
-- **URL:** https://news.google.com/rss/articles/CBMivAFBVV95cUxOalY4SFQ5LTg0Vm8zbXlJTlRQMlVpQUJRZkJsQkN4VXItaUp6Zl9SUjJQTUowODBKYnl1d293SGU0SU5FUGRNNXVwUWxKX2h4UWM1SU9vbkhuc1l0OEVuNXk1bEVEUkF5eUZHNGp3Uy1YY0JaM1JqTVhlcWR0YTVqYl9hdDlXbWo1QTFtandFQm42TGJlMkpGRGMwTFNTOWNPQTczRFdpWUFVNW53cWdrTkJXQXA5RHIwRVRCRQ?oc=5
-- **Source:** 联合早报
-- **Published:** 2026-11-15T01:15:07+00:00
-
-## Japan's Fax Machines Save the Day as Microsoft 365 Goes Down - TechPowerUp
-
-- **URL:** https://news.google.com/rss/articles/CBMimgFBVV95cUxQSnNteE9XNVV6WGROM2R6bDEwYlF3YlpzWmtIek1NYVJjbzVwOXk5V0k1LXdPWU1NZWc4UzVyUGM4RmhpdzMydUVJZDluaFNBS3k5RTlDeHRYY21oNUxsbWp6cVVwbklkVTgtT3lpWVd1eTlwc2czbmo1UGRVbmlGV0hxajdPako0RHBtUmZnaUQ0SVVCYlc1d1BR0gGfAUFVX3lxTE9WUXl0dTZfUEVKbTJ1MlE2RjJ0aGVEQWlUclRTanJnYkJ0VFVoU0EyMXJXeHFWRVRYVzVoUUpNc25mcU5TNVNtUVNGNnQ5a3owNVdCb1BIXzdBR3pEZ3U4dnFDUVFOcHl6bDRDWUN0OTR6S1VPX2F6TS03Nm1LRWJscVY2alU3TnkyZHZJTEpDSmp3X1RvWFBiUDBtNmVUSQ?oc=5
-- **Source:** TechPowerUp
-- **Published:** 2026-11-15T01:12:01+00:00
-
-## ‘Radio silence’: Australian businesses left counting the cost of Microsoft outage - Nine.com.au
-
-- **URL:** https://news.google.com/rss/articles/CBMi1wFBVV95cUxPM0NsdmZiNDlENDNVUzhsZ2IwaWxVRnJaN3N5OXEyeVpmdmtCcUF2SzZYVU5hZUpyU2hZQjlVZEZjcVQzOGZnQXJNcldIWE1CUm1ZNG5hZ2NCbURreEx1WTBhX1k3Zk50enBQaUJ5UjNya1pmdGZxVk1za1UtQi1HTzlWaFY0WDlZdjFwMHVqd2hRa2tQSXVkanVOTjJ0UUFoQWtpYjlUbVdDb29wdWUyYWx6T1NmdnBELUdhVlVFZEd6ci1KTXZveE9UMkY4TUpmOTJEbmdObw?oc=5
-- **Source:** Nine.com.au
-- **Published:** 2026-11-15T00:52:22+00:00
-
-## Microsoft Outage Leads to Chlorine Poisoning at Hotel Pool - hi-Tech.ua
-
-- **URL:** https://news.google.com/rss/articles/CBMiiAFBVV95cUxNU0U5OE4wSWEzMk5ldTVTODVLS0FYT2xMUFpJY3VXNVhuSFhDVXBBU2lvaDBVMm1jdC1fTVJ6aXFDY2xWOTM0RGdOVU9XUG0wOGNPdE84M3RHaG9ubkk2Y01QU0FaamZHN0RNMHlBSmZSVW1GU2NJdENRdG5CUkxnc21qQ2R3UjZw?oc=5
-- **Source:** hi-Tech.ua
-- **Published:** 2026-11-15T00:49:49+00:00
-
-## Microsoft announces service 'restored,' global outage over - CGTN
-
-- **URL:** https://news.google.com/rss/articles/CBMisgFBVV95cUxQN2VuQzNwYTcxRk5TZnAzSmY0cjBsM05PYTZUMHpIZmhWMWtNekdjaExLcm0xZUloamZzenVwOTJGOGU1YXZaRlpaX01vV01LbG8tS0NIVjFrMzJKd1l6UTFqZTlWQTZ1SDc2YlZvb29Pa3doY3lvQlBrUWFLZ0xCUURPSW1UZTVvdi1sM1pBNTZoaGEtblZudHFaTkpRa3pKRkNlek9xMFAyVEtjYXZKN0dR?oc=5
-- **Source:** CGTN
-- **Published:** 2026-11-15T00:46:04+00:00

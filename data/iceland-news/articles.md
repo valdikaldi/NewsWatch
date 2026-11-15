@@ -1,8 +1,56 @@
 # NewsWatch — Iceland News
 
-_Last updated: 2026-11-15T11:47:41.961853+00:00 · 50 articles_
+_Last updated: 2026-11-15T18:33:39.126456+00:00 · 50 articles_
 
 ---
+
+## Watch Iceland vs. Luxembourg live today: Who is broadcasting the match on TV and via live stream? - Goal.com
+
+- **URL:** https://news.google.com/rss/articles/CBMirgFBVV95cUxPRmlnbFhKbllaa1h4TV9NTTRCMmRYUTd2SkllT3V6Y29qS2lYNVNfYU4tdWo5VTNHX2FuU1F3WVlKbkZuQ0d3eUMzeHo3cDh1T2ctMW5ySWRpcE9uS2FMYnlJaHF0VWd0S2IwZXhXVkJlYWxOaGYySlJJSzloTkJpamlscjlnZWJSb0VpSEVQdTdoNmRtWWRsQ01ubXNEeUlWcDNVN25QdUZyUkdJWkE?oc=5
+- **Source:** Goal.com
+- **Published:** 2026-11-15T18:10:51+00:00
+
+## Iceland vs Luxembourg Prediction: The hosts conceded just one goal in the cycle - Telecom Asia Sport
+
+- **URL:** https://news.google.com/rss/articles/CBMizgFBVV95cUxOdndZSFdtRWl6SlpvSTVlNHV0WllkYUNwaUVJcTFXUEl1aEx3RjI3TTQ2eUNhNUtQY2psSmV4TDNnb1Y1TXhSZndocUxSbWVnNGMzaUVvMm9sdjN0TmZRQTBWbTZZLUVjTGtmbG8waTdlVFBWVnZ6aGtUZFZQMmptWDZtbjYtaWMtcnlLR05YZE5sNDVTVWtEM0F4dnJIVjA1eGtXeThJdDFlMG1ob21hWUR5cDQ0UzZXZzA1dW93OUhWTjFTaDNudk9rRlh3QQ?oc=5
+- **Source:** Telecom Asia Sport
+- **Published:** 2026-11-15T17:34:43+00:00
+
+## Temi Otedola hints at first child with Mr Eazi - The Guardian Nigeria News
+
+- **URL:** https://news.google.com/rss/articles/CBMijwFBVV95cUxNM2Y5SzM4YWRGZDlyRGluZWtCbno1em5Nakd5OWlhMUdoaHhVRTVacDBVek9OaWUyRG5TMDRKUEtKRHNfUzc1YUNWS1lBaUc0LVE5YU90UnJURnFDc3Iyekp5Wi1XSGF0cV9ac0Y0ZlVxVkY1RGxGZ2JoTEtoQl9MdHE0cVAyNXlLdE1odVdWSQ?oc=5
+- **Source:** The Guardian Nigeria News
+- **Published:** 2026-11-15T16:15:37+00:00
+
+## Grandfather, father and son: The incredible Gudjohnsen dynasty rewriting Iceland's football history - Nogomania
+
+- **URL:** https://news.google.com/rss/articles/CBMixgFBVV95cUxPdDJPanF0cHEyYXlmaFZfTXVWNWpBeWlJY1dqSFQwMWRkOHpxS0ZVb2V2TDloYjZOLTBJRTZSQkg3NE90aWlpLUhFcHRvMkkwYVJ4OWVHUGxNc0hrempvX0Fjc052aElxWlRTRjFSbWNwQURmWW5wTkFlWG9HTHhZN0lISTFSUlZrYXB2T0t0bEVmNF9HMUh2d04wdmhWdEVONTVMektzd2xoU1Vfc1R5dWdKb0kzZExXUjZJaGs3RG1LTm9PS1E?oc=5
+- **Source:** Nogomania
+- **Published:** 2026-11-15T15:52:56+00:00
+
+## Greece U21 v Iceland U21 Odds - FanDuel Sportsbook
+
+- **URL:** https://news.google.com/rss/articles/CBMinAFBVV95cUxPUzVSQnVxZm52cWdOOGJNRXNNbThCd0FCWlh3UEhaMzVEYVNIc0FDQTZGUTd6MkhVTTJpdXYyaE1zdTdIWjlOWFJLVkZMN0hSdlNpeTQwVVBYSzBfODEtNV8zQkdySUFHR2hiSVRKNEp3UExNOTNvZ09Ud0NrSXo5aFI3dVV5OF9jb2FvTkZQN2VtSEVjVXhxM3JUbTE?oc=5
+- **Source:** FanDuel Sportsbook
+- **Published:** 2026-11-15T15:51:03+00:00
+
+## Iceland v Luxembourg Odds - FanDuel Sportsbook
+
+- **URL:** https://news.google.com/rss/articles/CBMikwFBVV95cUxQbjVqN0tDWHpwVUM3QWRldG92UnA2N2Z6cllyQkRoOFZDbkpnMG5BdWloQ2k2R0FBSDZZNTJuNnctNkppdUxSMUtpUkFBWllwSE03VTNDM183ZmlOcVF0ancwZW9QNENPT2gzNThJVU5SSGJYZnh2QzlabnV0ZmZGbGNaaXE0RDNuUXpWeHZVeDZ0T1E?oc=5
+- **Source:** FanDuel Sportsbook
+- **Published:** 2026-11-15T15:51:02+00:00
+
+## Rescuers Dig More Than 120 Sheep Out of Snow Near Blönduós - Iceland Review
+
+- **URL:** https://news.google.com/rss/articles/CBMihgFBVV95cUxNUVIxZ3pYZUl0YzVQZVJGOTBNSDRCdkFqbmFpcnBMc0ZFNWNmRlR5eWwwc0d2dXlyaGlTVHpmV0JldmlSTnh6Y0hXekRWdU9iRXNNRHo3b3FobmhzTUVoT25QMUtLejljM2p4MHJRZUhFMGp0ZHRMQlRRbkxVa1E5bkkxc2JUdw?oc=5
+- **Source:** Iceland Review
+- **Published:** 2026-11-15T15:00:00+00:00
+
+## “Preferably without being boring to death and ridiculously expensive” - Iceland Monitor
+
+- **URL:** https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMGZzQWNBZlV3bk1uYXNZTmVFRnd4ZVoxN1h0WGpLcFR1RTA3U2E2X1Y1Sy12OURldk5LS3FPa21FblQ3enktR2Exd2pNRjZwVS02M1B2YWhVWXVJY3F3Y2pFSlVDeXFIV1diRjZRMkpHRTUwaE16aUNvNmRaUl9TU2lEUDVzNmtxcThDek5WUExGWDZ5OXNmRFg2ZU9XbFJZOGR1VWhZVmQ3eWxRUU1pZzdkR1U3YU5BazFN?oc=5
+- **Source:** Iceland Monitor
+- **Published:** 2026-11-15T12:53:00+00:00
 
 ## Iceland’s Job Market Cools as 34,000 Need More Work - Iceland Review
 
@@ -255,51 +303,3 @@ _Last updated: 2026-11-15T11:47:41.961853+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMidEFVX3lxTFBQQXBIX0NLZWJuUjYyRHUtTWdQeTdLcTNqcHlBZ25sWTE2aTBNYnY1R2dXUG9mUW1qLTFpM21mZS1aWnQ1VTNsa1hWTWtwUmlSQTdVbEtKUGVZd0hWT0RPWFA0STJsWWRDYzJmdWVadTItcHA5?oc=5
 - **Source:** BoxThisLap
 - **Published:** 2026-11-14T07:58:25+00:00
-
-## Blue Lagoon Share Offer Draws ISK 15.3 Billion - Iceland Review
-
-- **URL:** https://news.google.com/rss/articles/CBMihgFBVV95cUxNOEJTM3FEWlVXTmlwdnBRdTdOWUpvNGRrUDRIS21oSk5iVTZrbG1QaXNIX2Nnem4zemVrcXhYTUJ5ZU5MSUNpM0dpbTFpWjhLT0JjV2ZDdjlJaFpWejM0dkdQSVYzdHZPeG9PanBnaHVMMm5paHcyLXNVTmtqNUJVTzBSdUhNUQ?oc=5
-- **Source:** Iceland Review
-- **Published:** 2026-11-14T07:00:00+00:00
-
-## I've just eaten Iceland’s £30 Christmas dinner in a box - 3 words sum it up - Daily Express
-
-- **URL:** https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZFBQc1Q5a2o5YkpRdGJ3a1pKQjRlYnVSaklwTktiZWloMTNrRlJ3VlZ4M3BxLWU5QUlsbHVic0ZmVjVQUzV1Z3ZMc3Utal9uNlpJcm5qeFdDbXVwNXM5ODdfb2VSTHRmN0lHVWhaNGdJeURnZjVBVU9BOXAtWmZ0NWd1Vk5ESFBlRUtr0gGQAUFVX3lxTE53Yjh3bExCcVk3MVJQMUIxRTB6bWFMa3d2X1lGMHJSMjFWQTMxR0JBMFFWWHJ2SHh3NW9FNC1pZF8yY2ExWVJ4a19mRGVRcDBzMVBsdkxBRW9xcW82bWhBVEpoc1BPUDk2ODZFNm5QRDNfcHJTRGs0U3JVUk45a1luRDNfeXIxWUFjZlZXWVdtSg?oc=5
-- **Source:** Daily Express
-- **Published:** 2026-11-14T07:00:00+00:00
-
-## Macron's viral hug moment with Iceland's leader steals spotlight at Dublin meeting - Bol News
-
-- **URL:** https://news.google.com/rss/articles/CBMirwFBVV95cUxOX0c4VS1hbmFMRU5lanU3dW1hTlhWVXpxWnBwbFV2Zl95d2NseFRxcG9TMF9Zb29qem5UVFZGa0J2Nmp3RDFCNnlrOHZJRkFuVHB1VGREVW1WR1kyQS1qVDB3eWxtdU1YU2FQUFI5OGVnNE9DeWdjT2ZhdklBTnk0NzdESEg2dklXWV96bHBGVUZBZ2dvYlNMcGVVNm01UnZUMENJOHJIYVRDNzhSMG84?oc=5
-- **Source:** Bol News
-- **Published:** 2026-11-14T06:54:16+00:00
-
-## Coventry School Committee Approves 2028 Iceland Science Trip - Uprise RI
-
-- **URL:** https://news.google.com/rss/articles/CBMiqgFBVV95cUxQaDNWUFY1U0R4bkZ4SnJuRnJWODB2bVBEUTB1a0xBZFBpbFZNMDRoZUFXLVMtWDQ3aHhLa1p1RlhHN19UV3RMRG93UFQ5MU1zTkFSUWFJYTNTdlBUS3Bma3hwNGpuWlhuSy1JZmVwSGJxVlEzdDc1SkN2RmN1UTNaRjV5UGJteVNsS2k2Q0FRYy1tYkU4NERYdzAzWUJFWmtha29IaDkzb184UQ?oc=5
-- **Source:** Uprise RI
-- **Published:** 2026-11-14T05:54:18+00:00
-
-## Brick man wins big on ‘Wheel of Fortune.’ Here’s how much he took home - Asbury Park Press
-
-- **URL:** https://news.google.com/rss/articles/CBMiywFBVV95cUxNZXJmMXU1emcwVjRtQ2xUXzBjcGJlclVYbzdjNjdZcktld2JCWkpJdGtYWjUyWDd1U3dHcTl0SndnUUdFS3l2Z3RncVpXdXpROVYwTjBVaFBiZ2dud1FoejlOem1EM0N2ZVdDQUY1THFPZkJmbVl1ckFsVXBRd3cwaU5FVDV1TV9JYkhlZ3ZjSHFMZUY4T2FLTzhNWUpKZ0s2YngyMVFLQTBJakZLUHBWOVprX2J3c1lXMmpvTHNteVlkMHVZTTRWN3c5NA?oc=5
-- **Source:** Asbury Park Press
-- **Published:** 2026-11-14T05:23:00+00:00
-
-## 2026/27 Nations League top scorers: Harry Kane leads Michael Olise - UEFA.com
-
-- **URL:** https://news.google.com/rss/articles/CBMi2gFBVV95cUxOUnZ1YWVrQ0NKY3VDSnlLQVN0Y254OU9lZmRlRW9wcVhuRDY2Uy1GQ0Z4MUQzSHZ3QldUU0loUEtwNlo3S1pObmM1ZUllVVd5d0trb2I2aHBDQ0VJSS1LR3AwUG8td3FYV1dwZ3NFQjd6c3V3RGdyd1dWMm9vMUl5dkhVNERkdlo4c2tzdXpzQTFCVGFRMTc2elZFRnUtX2lNWG9INXJOWUtHeXdaaXpXZElmbE5TMlczODFGVTNCbjRfT2oteGE5MklaQ0FFRUMyNGJ3UlZGYk1MZw?oc=5
-- **Source:** UEFA.com
-- **Published:** 2026-11-14T05:00:49+00:00
-
-## Eurostat Updates EXT_LT_INTERCC Trade Dataset for Iceland, Liechtenstein and Norway - News and Statistics - IndexBox
-
-- **URL:** https://news.google.com/rss/articles/CBMiqAFBVV95cUxPb3BaTTZoc3FKMWZqbUgxUnpPZjZzT1FWUl9zUE9kbUhnZVI3ZHZVeTA3enE1QUJWZVRmOFZYbmgtY1FSZTdpTFRNOU5JbzZvZ1hhZjVMdGU5VEFubHVDeVhXTUI2bUNpNkZJYkw0UElfR1hwekM5bE54MTV0dlJIWGdwV3Etd2dESmtuSnRhY1hRcmFPa1kwVmU0V1I5VDR5VjZKR0RTb18?oc=5
-- **Source:** IndexBox
-- **Published:** 2026-11-13T22:50:27+00:00
-
-## Macron wanted to hug, the Prime Minister of Iceland pulled back! Those moments on camera - Haberler.com
-
-- **URL:** https://news.google.com/rss/articles/CBMiigFBVV95cUxQbUJMb3JLSmtGbGdHaGZrcnRfYklmalR5M09OWjlBaDZONmF6OV9PNlhvTmZDcjI5dlBoT0N1OW9paVNRSjBDRXFGMnNsYUV5N1NlbFprX1dKU1U3dGRfQ1diYTNGREE3SmtOdVVGV2xYQTJoczhzc09BRHpFd3pCX1JEMGV2YU5Venc?oc=5
-- **Source:** Haberler.com
-- **Published:** 2026-11-13T22:16:04+00:00
