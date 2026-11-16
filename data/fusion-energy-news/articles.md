@@ -1,8 +1,134 @@
 # NewsWatch — fusion energy News
 
-_Last updated: 2026-11-15T23:47:53.582145+00:00 · 50 articles_
+_Last updated: 2026-11-16T12:29:00.994139+00:00 · 50 articles_
 
 ---
+
+## Iran’s Next Big Surprise For The West: A Homegrown Fusion Reactor | Details - Livemint
+
+- **URL:** https://news.google.com/rss/articles/CBMiwAFBVV95cUxNYjVCSV8xMkFYdW1hdWVBYkdVMVBMb3JhLVlQeFBTMkRuTHBaNG9UbWVIUC10SDhMYkM3OTFtVzlhdm1kWVJ1M2FJSFYzemVpeXlpdlNlcXdnMTd6ZHhzNTdsNy1DbHZlVVJBOFVkUEhfa0V1UUsyeHBMTkI1a1NHdE9KUHczTEg1SnFNZnUzRnVKYjh0ZFBrWXdFOTJQM0JJdFdTTTIwZlNUTVlRR1dkOU1lVU9Ud2dOU1hwWXZHa1jSAcYBQVVfeXFMTWNEbnR2VHhSbTZub09oUGNwZWZldHZ2VFdtbUVRd0NkdHdmZU04dmh3cWNPcWVPaFY3WFQtcVNqRmw1YTJtZXhidGJEaFdLYXF0bDBLTTJYOVVzbnloeG1Hb0RZUWNPQlp4WDVrNENYRm9iQ0RIRE5xZG9BaTZBRmREQU9zLWowaFRuODFKTGxUbUdCRjBNeVd0NlI0MGFQVjd2clNhNlN6YlJBa2ROREZYbG5qVGVITGwtZTJkN1ktYnVNT09R?oc=5
+- **Source:** Livemint
+- **Published:** 2026-11-16T12:21:32+00:00
+
+## Plural Raises €1B to Back European AI, Robotics and Deep-Tech Startups - AI Insider
+
+- **URL:** https://news.google.com/rss/articles/CBMiqwFBVV95cUxPeGtTdEZselpOZmxLWnJ0cG44ek9LcGNDN2FLVGxNOWxXNFF6VVg0VHlyWWpxNVRpQXJLY0NMVVAtZ0owczVxYlYtcHBDSVY1Q0lCM2ZQb1JuTFVPZnhoY3hCaURHWnVEMlh0QjJzY1hxeWt6NVh0QWRybmlMTVo2dFM3MnJUSHlZMVExbFQ0NEFxSUNhYWMtbHVZOGRrU054aHBSQTBETm5zM3M?oc=5
+- **Source:** AI Insider
+- **Published:** 2026-11-16T11:40:51+00:00
+
+## Iranian Tokamak: Iran Developing First Domestically Built Nuclear Fusion Reactor - Construction Review
+
+- **URL:** https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbDBjTENYUnpqRjVobnlFenB3N1hWVEtYUFhtZ1BTZzNLeHhXM1Y2LUx0RzdVX2ZkbjdobVhrLUxxU1dzWkpGcXR4R0U5QUVSejhXQXk3SGFRZ2I5RU43V3E1WXRVd2R4ZW5kRDJ5TG5mNW9yb1RWOE52Wm54b2tnUEdPMDVrSXZzMGp5LWk1aEliWHdIQ2lMX2ZBdlJoYk5WQXBoNkFHcnd2cVJPZlE1bGpKX1BwZHZx?oc=5
+- **Source:** Construction Review
+- **Published:** 2026-11-16T10:55:32+00:00
+
+## Freemelt manufactures tungsten components for qualification at the ITER fusion reactor - 3Druck.com
+
+- **URL:** https://news.google.com/rss/articles/CBMiyAFBVV95cUxObGJua29OUm5rdzk4V1VaSVdCTjNJaVZ1VmUtaW5zMGpBX19hRnZydmZ3VVZxWTI5Y3UzVlUtcmY5VW1wcjFhODBYQVhsdkxOdHdWelRBSGZHZ3FRb2VwRGlhMTFWTWQ3VHg2U0VSR0U2Q3ZXYnRIWnBjWUI3cmZDUnAtVkFkSmplSnR4cnhDNzFWTVFQc2pwZUZGZWZkRkZEczBFOEMwZVc5eGpxRXlPUmpHSFhUcFNTNDBIeGFmSmxHdmo3bUV4Yg?oc=5
+- **Source:** 3Druck.com
+- **Published:** 2026-11-16T09:48:03+00:00
+
+## Plural Raises €1bn to Back the Frontier Founders Building a New Europe - Via TT
+
+- **URL:** https://news.google.com/rss/articles/CBMi2gFBVV95cUxPSkQxSWZCTlNYaExuTF9vdE83aHBTbDhKLWQ3bk05TlYxRnM4NHIzcTliWFRUR1lRX3lqTTdLTFdCaWs1THljRThCU0pTNUEtZ3h5bjVrZ1NKeWt0RUJoTW9QeVRWQjAwX3Q5eUJENFpIQlR0bWdqTU1wQWE3anduUGhWeW1kX3pOQk8yeTkxYklPSVctTFJNQ28wbVdQZVluNWY3NXNEV3ltbW45cWdOTUhWY21RVHpxY2Q1TnVXUXRJTC1ydG9UNU9YUUJNUTZ1VE9henpMRGFSQQ?oc=5
+- **Source:** Via TT
+- **Published:** 2026-11-16T09:00:00+00:00
+
+## France Launches National Plan to Accelerate Solar Thermal Deployment by 2030 - energynews.pro
+
+- **URL:** https://news.google.com/rss/articles/CBMipAFBVV95cUxPWEZUWFUzeS1GUmZ2dzhhSlphX25JaEtPQjJXX0lNakpJbWhvdUpOVGgwdV80TkFpYmdFWWVvUWhvak1Jdm56dGUwZ1BWUW5yTU0yOTRvN0JtZ2RqWUxDd0NyNEFoUXpjdzRnUk5wSlVYMS00V3cyeElHaFBkWXFnUmthSWlWcnliUGNnU0pkMHBwU1ZCT3NtNU42ckFVZWhGeEc3eg?oc=5
+- **Source:** energynews.pro
+- **Published:** 2026-11-16T08:34:29+00:00
+
+## Plural raises €1 billion to back frontier founders “capable of building Europe’s first trillion-dollar company” - EU-Startups
+
+- **URL:** https://news.google.com/rss/articles/CBMi3gFBVV95cUxOVW14ZHVtSExZbk1hRk9mU2NWZ1ZsbDUxTGViVTlGSHpIWTVCMWhLVURTclFNZF8xQUxRNHhnUjVnNU02RWRxWHVUNm9PdmVsTVhrTWhVdXE1akxQUHFoemVGa3Zxa05DRlFyUFJ1c1ZseTdISzR3RUQ5cmgxZ05wTGJPVEZfQ2F5ZDZvWk43N1l0Q2hzVmpDWkcwdk5vOWpjVF9VcHZ3eVVaMlJhWUduQWxiZ2ZFMFlpR1NGVGpGN0hCcTZBbTlkMk53TU1vZjRuSnRaU0RqdkVFUDU5R2c?oc=5
+- **Source:** EU-Startups
+- **Published:** 2026-11-16T08:31:24+00:00
+
+## IEA Expects Global Oil Supply Surplus to Return in Fourth Quarter 2026 - energynews.pro
+
+- **URL:** https://news.google.com/rss/articles/CBMinAFBVV95cUxOYWtuNVpROGlsNHZCVU1VbFhlWjZQVUNxMjY2SWNxbUNYMlVSWTVkYjQ5NVZvc1hkRUdDNmtfWGRxc25IN1FITVJpVGdpS1Q4eHNtQ2U3elk5ZXpQRExlRWpiNjAxeHpaRFIxZmdUbmpaRFdpY3dJYjQ2RWhOVE5xQlNYbjRtUFhldGNZVmphRUFJM3BRZ0xrcDdVdWM?oc=5
+- **Source:** energynews.pro
+- **Published:** 2026-11-16T08:04:25+00:00
+
+## Plural raises fresh €1bn fund to back ‘non-obvious companies’ - Sifted
+
+- **URL:** https://news.google.com/rss/articles/CBMiW0FVX3lxTFA0ZDltS284UlRRMG82d3NxRFZucHFWam5EYm94Yl9pNFR4VTdaZWxHV3Znc3FNN05vZGV2REl4NnNfRXZRVnBEVi1CM25sZklRWi1SbzFpS1dLbUE?oc=5
+- **Source:** Sifted
+- **Published:** 2026-11-16T06:53:29+00:00
+
+## Alberta Surface Rights Federation Urges Landowners to Resist New Oil Projects - energynews.pro
+
+- **URL:** https://news.google.com/rss/articles/CBMipgFBVV95cUxQUzN1NzVmOFk3RFR2S2U4eTc4bjRsSXVBWjB6VnJRQWdsMUw2VmROb3dpV0VyY1U5RzlEZlZvSG0tWEZnOTE1QzVvVnNWOUVSRmpYMnEtdC11eHV1SUx4OFEwcmlOSndUbTk5VnRaMkdscTlFTDJmNFQ4UzZFQWpDYUlrUzdkbGRhTWJpZzMtaHR2ZlFqWHRzMGNRUi1nM29fVm5kc2xn?oc=5
+- **Source:** energynews.pro
+- **Published:** 2026-11-16T06:49:46+00:00
+
+## Kosmos Awards Subsea7 the Subsea Tieback Linking Tiberius Field to Lucius Platform - energynews.pro
+
+- **URL:** https://news.google.com/rss/articles/CBMirAFBVV95cUxNMVZ3Qm4zMVZwOVpuME9jX3Z4YVBxMEdOUWNwR09SallFN1hidFhTLW5YcGVYbzJMWUxlQThrZDh4YndtVk0tY1hJZTBiMmpNT1FveER0VS1sOHF2VVBsalF6dUc5S0R1YTFELURvZ3VwMmF5QU81bHlnUWM4SHhWeHc2eU5NQTFfQVBYdEhlTHpnUmFXOTBoSDlBRkJlaU1mcFdkS0RtLTZlRnZt?oc=5
+- **Source:** energynews.pro
+- **Published:** 2026-11-16T06:34:31+00:00
+
+## High Arctic Energy Services to be acquired by Newport Capital for about $20.2 million - energynews.pro
+
+- **URL:** https://news.google.com/rss/articles/CBMirgFBVV95cUxPRWJRODMtaDVWS0Y5Q19vMkhUT2F4bjc4VmhVN3NGejZjMGNMNUc4OTBfdnRRdGEzbUwtaU9oUjBEOGFWUmZYbXd4MWdXT21FVkpYUmlNSEg2TGRrX3pPcDV4dHlCdjJoRGJXR1IwaF81b3FFem1XSzRIVkY3ODhDTFdPV1ZYNWNJWDRwanUwRW5LUTMxLTN4LTFQdHJxQ0ZqQ1hnazFadWNpUGpZWkE?oc=5
+- **Source:** energynews.pro
+- **Published:** 2026-11-16T06:19:34+00:00
+
+## Plural targets €1B for its third fund to back European frontier tech - Dealroom
+
+- **URL:** https://news.google.com/rss/articles/CBMiowFBVV95cUxORXotbDhkWFdUUG5GNEEwYjVXUTIyb19NTmdXdU5JYVdSTFpGalljYWt4dGxGNXNaYXB0cXFWZDFST3owZGhJN3ZHc0JvbHJBVFdTa3ZDMlNDazVTUEUySXVDSHJCa0M2c3ZCZ1Z5N00yME85eFpmMVhBU0loMVkzVmZod19pUHZ1V3FyVzNBYlhReHAyd1M4eFpfM1F1VlotQV9J?oc=5
+- **Source:** Dealroom
+- **Published:** 2026-11-16T05:59:50+00:00
+
+## Iran Announces New Breakthrough in Nuclear Fusion Technology - Caspian Post
+
+- **URL:** https://news.google.com/rss/articles/CBMikwFBVV95cUxOTGpQYzF5ay1sbkVFVWptV2hxTFVlUDJlSTVTbUdER0Qwb19ZMFM5R3F3aU01S21wQkpXRzZTMEszSTRzcFFTLWxHYlF5SkxETFhJYnVuWGQxQWVMWXZNTXIxZ1lveWE1cXFJVVZ5TUpSZlYtZF9KcFE3dUhyNHYzcVhRY1JmcXRjeVBSWkFhSHE5S2s?oc=5
+- **Source:** Caspian Post
+- **Published:** 2026-11-16T05:49:08+00:00
+
+## Qair inaugurates 20 MW green hydrogen plant at Port-la-Nouvelle in the Aude - energynews.pro
+
+- **URL:** https://news.google.com/rss/articles/CBMiowFBVV95cUxNMnZScmJjVlJWSHN1aUV0dVp3ektJVE5CY1BTcWlrT3ExblM0ZTItV0FvTDlOOW9ZZE1OYzFRemFnc25fRElOUVRTWWlQaHh2NXp0UHpXZkdtcUx5ZEd2NGlhNEpxV0JyVGhPU2ItLUllWmRVZ3JHc1J4SE9IX3JrWUFmTGtyZ0lUdTZUX3hPN3JwRXlFV3JWejBtZ0ttRFVYeTNv?oc=5
+- **Source:** energynews.pro
+- **Published:** 2026-11-16T05:34:43+00:00
+
+## Plural locks down €1B for its third fund to back European startups building ‘frontier’ tech - Resilience Media
+
+- **URL:** https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTkJsOTNfOENGckFMaHhKMEhpcW9wRUkzTlZxZHAtcDdvQjhRejZTdVJUTzFJMTBOOGh3UHNUNC1tTG1uZ0tiYk9xWHVmMlJENjRQVUhKNmRtdmRQZmhKcjljcm56V1o4S1h5VHFHcjVGWGUyT0JjY194SGNaUXFOU19zc0Q2V0ZNZkpaTWxqamlfeGpPcWx3dTBQanE2Qk1MSFdLdFNPNUxGczJhV1Y0a3FpX3hEeGxx?oc=5
+- **Source:** Resilience Media
+- **Published:** 2026-11-16T05:28:49+00:00
+
+## Government of Ontario - Ontario and Canada Select the University of Toronto as Host for Province's First Fusion Energy Research Chair - Education News Canada
+
+- **URL:** https://news.google.com/rss/articles/CBMimwJBVV95cUxOaUd5V1hadTNKX0pYc05pWG90WkFOTXNER09hME1EYTd3dUdNVjl2SjlWTVRqRHQycERIUHJjbHlsTDdiVTB4dDNaRFJlbVc1cWNRbkxoSU5jblBjeTdoYzVFWG1QVTRvLXM2X1ZGS2xyYVQ0NG5KYXF4QWxOTDk0bV92MlpkWlI2VDlCOTQyYi1tRzJXT1FHODlqOEdaZ0ZTSHFMSmkyWERiZVVvVHRsOTh6djQwRHprcHpKX1l2TGV0TW9WUFdiMnBNb1RuMEViRkZGX2VWRWd4blFQTTM0N090UFlSM1Q2QXJvZDVjcEVqdmloeUhmNVlJbmVvSTJKZnFDVjNfMm5IM2Q5Nlgtb2pkbUF3ZlhCU0g0?oc=5
+- **Source:** Education News Canada
+- **Published:** 2026-11-16T05:27:54+00:00
+
+## Key PPPL Staff Working on Genesis Mission Efforts Honored with Secretary of Energy Achievement Award - Newswise
+
+- **URL:** https://news.google.com/rss/articles/CBMizwFBVV95cUxPV21RNTdqb0JncllXbjZhYW1xbU1hdVlBdzlFVDNzZmhkcHhXNE5KWUd2WngxU3pFUWRfZ3l5TEIwenlMMlZWZmxhZl90MXZteGZBSEFPRGFseDJMRVNRVWtDd3FhT1BSYnpuQ0hLNmlQTlZQbmZsakZKR2RTczJ2U0s3SFVraEFrR193blFsdTg5S2J6amRwcWdCcjczd29fRDgwMGo3d3gxWnllN0pQc0VYS2xMdGpkMEIxT0ZERThhZW5YWmxvenNkMTVPQ3PSAc8BQVVfeXFMT1dtUTU3am9CZ3JZV242YWFtcW1NYXVZQXc5RVQzc2ZoZHB4VzROSllHdlp4MVN6RVFkX2d5eUxCMHp5TDJWVmZsYWZfdDF2bXhmQUhBT0RhbHgyTEVTUVVrQ3dxYU9QUmJ6bkNISzZpUE5WUG5mbGpGSkdkU3MydlNLN0hVa2hBa0dfd25RbHU4OUtiempkcHFnQnI3M3dvX0Q4MDBqN3d4MVp5ZTdKUHNFWEtsTHRqZDBCMU9GREU4YWVuWFpsb3pzZDE1T0Nz?oc=5
+- **Source:** Newswise
+- **Published:** 2026-11-16T05:05:00+00:00
+
+## A Brief History Of Cold Fusion. In March 1989, two electrochemists at… | by Tim Ventura | Nov, 2026 - Medium
+
+- **URL:** https://news.google.com/rss/articles/CBMif0FVX3lxTFBocTdyekliYmltaTR3alN0Wm9DRl9QNDdlNE1PY3VHMmM3NHVoclZsRGI5c0RLeDBDMVRkVFZwTnMxcWplcFpHVFBTWDl0enVNMkl1REtlX3lvdENxbldzb21fWGoxMUpPWXo5eDVyLV9Wb3BKN3NlcFdfeUxJLUE?oc=5
+- **Source:** Medium
+- **Published:** 2026-11-16T03:03:35+00:00
+
+## Iran developing first domestically built nuclear fusion reactor: state media - Gulf News
+
+- **URL:** https://news.google.com/rss/articles/CBMiuwFBVV95cUxQLXRycmpSMDZ1R2c2REViNEM0SFRzdFFOUGlKZXVDNkJ3X1h4Y081dWdVYmlkZUxZOGlvMGZ0SXlQLUV6U3lQbFBqNmp4ME1JUWRxTE16aEt6U2xoVi0zMEFEOTdaSzZvTU5Vak9RX2hOU0ZPekdLTUhScjh0RXI2RVNJRkNDcmN4eHd1T1NwODlVaXMwSlBUdERJYkVjdU53ZjRlWkZrdl9Db0g4UGMzVTZKNkduQjgwa01V0gHOAUFVX3lxTE5QTkctMTl5Z0pvMEZVcUhoUF9KMFpOd1k0cnA1S0ZTQlhjaVd5ZXljeW1qR2Nxd0xmUWZrelVXVzV2aEw2VkhJYWNCTEtxQXpXb3pfLUlCVDhHd1lXc0o5ZUxoNWc0dHhwY25hNTFxbTFsaTI2ZmRveHlnckxDcU9sbk4zZzkzT1h2bS10TVV1Y184WDVGQS1kU2xyUlo5WXZkZVdLei1HQ1g2akJpdC0tQUhBMFNtcGhZMG1PUkpCbThWQ2ZkSzFJUkZHazlB?oc=5
+- **Source:** Gulf News
+- **Published:** 2026-11-16T00:30:50+00:00
+
+## Freemelt wins Alsymex order to make tungsten subassemblies for ITER qualification - VoxelMatters
+
+- **URL:** https://news.google.com/rss/articles/CBMisAFBVV95cUxPWjVJeVFPbHdYZkl4bThkR3lNRjU3S0FQanI5TGhMRUtWd3g1Q2pCbGl4WUpSckNIU0hIZGx3YndsZzNYYVNDV1FwNUgtY3hrLVVvSGF1OG5LWGNpVWdlTkdZc1E5bW9UX1FVNTNLUGU1RGZCU3pUNUJmMnlTeXJBSHFoaE5ZQWNDeVlwaUx4bWY0Z3NZazJtSGl6T19WckhoOHNtaXB6cV9sWU01TVNkUdIBtgFBVV95cUxOeUxzOWJVU1BZYUlLXzJRN3lKbm9ydklJUlV0NnhIRm9WaVBPNmRTUVRPSTNucE1EOElKd1ZhT3ZHQ0dtendYeHdwczFhMkMtWUY1VGpKNDBrR2xtanFzZ1I1U1RWcEplSXNvWjNETEY5cTJLRWNiZl95Qk9ZNkc3S0NrTjdIVnRDTlJ6ZUdZRkZhNi1SMXpSUEdzOV8wVzdDVFdsTm5CUHlGWXdnNzBacWRpY3FTdw?oc=5
+- **Source:** VoxelMatters
+- **Published:** 2026-11-15T23:56:34+00:00
 
 ## NVIDIA, SKT & Rebellions Sovereign AI NVLink Plan - CASRAI
 
@@ -177,129 +303,3 @@ _Last updated: 2026-11-15T23:47:53.582145+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMiswFBVV95cUxQNDdfTmlNbTJFZ3lDMTlFQ2diM2VwaURnVmRieGo4SWY3RHB5OF9mb1NPamFWLW1rakNCbi1FRFdhXy04UW9YeE91enpNRHBRZlJ0c0M4Y216NnlmUy1EYm94bHI1d0FSVzJib0pwdTFMVGxlWEpKR3ZxeTNIenJDS0VQX3hMSklxMmVsWGU4N3drSTc3dm5INGRuSkE5UEtrR21rd2tWRGRLX2hOUFVaQ1c4Zw?oc=5
 - **Source:** scanx.trade
 - **Published:** 2026-11-13T21:26:47+00:00
-
-## American Fusion Inc. (OTCQB: AMFN) Reports Third Quarter 2026 Results and $1.55 Million in Year-To-Date Financing - GlobeNewswire
-
-- **URL:** https://news.google.com/rss/articles/CBMijAJBVV95cUxQaXA3ZE5IbWlxODdpcElCRk12aFBOR0ZGdm1lU3BJdmFEeDhGa3MtUXJCMzFidWVBV1B2dF9kS01td3pZTkEwWDl0WG15clQ3d2lKa21rOHFGbE1HaEl3eENEWm5KREU3Q2p6bzZlRENNOVNBN043QW1XRURiT29MQU5vYk5qRENMQmFGd2pyQ3ZzOXRkTkF0cEkxaktqSkkxVkl4WGxERTBfUGZHd3NOYUNfa3BtMUF4WWVrSzNZNmlUZ2pJT2VLbzJpcGpDVkhJdnpXOXZXdmRoaWVUcUpDNnNkY0puVm1pSC1YTTFSckhweElPUDNRaEpQd3FlYnBsUFd2WHZRNGVsUTVk?oc=5
-- **Source:** GlobeNewswire
-- **Published:** 2026-11-13T21:00:00+00:00
-
-## Neural Network Estimates Tritium Release Activation Energy in Lithium Titanate Pebbles - Bioengineer.org
-
-- **URL:** https://news.google.com/rss/articles/CBMisAFBVV95cUxOWFFwZDFvVGRDajVjUUkwYU1oV1lfSVdUOHFXaVdSN1hCWEk0NXZuMnhhdzZkbGxXLTVyNGdtMEtQZWR5MkJmZWVmOVRyZUZ2RHZXcm1FQ09PQ05JcjdMY2JOVVJ1NHBobWR0aElGV1phbnpjVXZoME9EOHg2MlIwYmVOdFFqUU5mSExzX1JKb1RDSlBoWFZnQUFRMlRna3QwbFdDQ3h5dHF6Zjc4UnZkdQ?oc=5
-- **Source:** Bioengineer.org
-- **Published:** 2026-11-13T20:52:57+00:00
-
-## Ontario and Canada Select the University of Toronto as Host for Province’s First Fusion Energy Research Chair - Today's Northumberland
-
-- **URL:** https://news.google.com/rss/articles/CBMi7AFBVV95cUxNVWk1LWltZVBMN1MwU282TlFraGc0VFdoVUk2S2lWMVJQWmtZU0dESk9xdm5od05wdWcwZml4TnJHRG5sZkxLWngtY2xrV3ZPS1JZSTY1eHRHQ3pIVDgteE85akhsQ2RNcFBwRjRaTFVNeUxXcmU0VWl0MHZUR0FOLW9KbmtRYWxDVGVUclV5Y3JSUlZrN3JDbVFxOUpPTDhHejJ5STIyVlNLM2JSS3RTS2JYbDgtcUJ0V3FJWkpnTFhYNEtacVV6ZXBNUERxYU1wVjJhREktTkZoWE93NVNuOUpYb3hOV3E5a3ljVg?oc=5
-- **Source:** Today's Northumberland
-- **Published:** 2026-11-13T20:17:51+00:00
-
-## What Could Be Revealed When General Fusion Group Ltd. (NASDAQ:GFUZ) Publishes Its Q3 2026 Update on November 16, 2026? - Kalkine
-
-- **URL:** https://news.google.com/rss/articles/CBMi4AFBVV95cUxQQnRLU1NnSmhDOE4zc1JxLWVUV0pIRUZGWWl1NUdxX2dvRkY4alAzaG1sUW9LM0lJZzR1RDJsN0FnM2YtRzhLSGRuQUc1R1dTZEg3UERPMllmUVpXT2xIcERMa1RZQWluX25KX3l2U282WWZKN0JBZEVEdnY0RzI5b2lDSUZMemIwQlB0bThNUTktRlFBdkVmUmMweG8zamtVNXV5cmFOQXVPS3IyR2x5MV91MWdHdWtMUnhyekdvUHNnZ0FoUkhqRmxsbWt4ZkloT0hDRmxtVUEtV1dUMGp0QQ?oc=5
-- **Source:** Kalkine
-- **Published:** 2026-11-13T17:55:00+00:00
-
-## Can Scientists Make Gold in a Lab? The Real Story - U.S. Gold Bureau
-
-- **URL:** https://news.google.com/rss/articles/CBMiaEFVX3lxTFBmZGJyZGVTS1hrTFdfQ1FkWldrSTlvb0M1Mk1nVGljS3o5UVBlbDZlSjVBWW5pUEU2V1lIQ00yakZYcDBnT0ZpMG0wWVNraHFUZ2o3T2EyMHdIc0psNHRHNnpocUJqWHZH?oc=5
-- **Source:** U.S. Gold Bureau
-- **Published:** 2026-11-13T17:12:11+00:00
-
-## IAEA publishes 2026 World Fusion Outlook - American Nuclear Society
-
-- **URL:** https://news.google.com/rss/articles/CBMihgFBVV95cUxPV0Q5bGNOa1BCbEYyRlNRemhTOVdWZjFDblpDOV9xRzhkNW1yUm10eV9JTjNmNVRMVUdYYWdWWmU1cmREaHVRTldsNHlib3p4Z0hnSUdoZFVETmhCeklhM2tvdXREeDhQV2dNdElnVnQ0dFd3ZlcxVEtVM0tXYnpZczhkem9IZw?oc=5
-- **Source:** American Nuclear Society
-- **Published:** 2026-11-13T14:39:14+00:00
-
-## Temporal Fusion Transformer Improves Power System State Prediction in Benchmark Simulation Study - Bioengineer.org
-
-- **URL:** https://news.google.com/rss/articles/CBMivgFBVV95cUxOZmh6dFVPdFdzWkFWZUNiUHFQTG5majZwYWtSd040dzI3QmQtTGN1TWt5MkNRaXY3RWJTNHhzR19FWENIOHZnMl9OeE5nRXE2bGo0SVhYSFQ4MmJUenNnMU9hNVJQRFJTZnVzSll4bDBSU3ZoOHFJN0xzanc4Ym1yYnJEVmtRT0VWRjJxQW5JZlYzZnpmMzZjeHZYd2duMzdKVE8tX1FZWjh2eXN1a2FDcS1tbjN5blplNldnS0xn?oc=5
-- **Source:** Bioengineer.org
-- **Published:** 2026-11-13T14:15:24+00:00
-
-## Russia Develops New Material to Protect Fusion Reactors From Extreme Heat - Frontier India
-
-- **URL:** https://news.google.com/rss/articles/CBMiogFBVV95cUxNZHVxSTdvcVRNLUFzRTJVOW9NYmhzLWNtWkJrMlljakV2WFY2VnRYc2JieFU0bTNFcHZOLVpvOXlnRzVzVjBScjkxM3JyX0ZXb25felRFcTR1X0VBTWYwMGJzNWdWOXl2azVmSFZBVmpRVjhyV045M1BhNmF1WEVIMF8xemNCNHROZmdJTGNnRW5rbm5fd1dJTzVUV3pyQVpDdnc?oc=5
-- **Source:** Frontier India
-- **Published:** 2026-11-13T13:32:00+00:00
-
-## Commonwealth Fusion’s CEO sees UAE primed for new energy tech - Semafor
-
-- **URL:** https://news.google.com/rss/articles/CBMipgFBVV95cUxPQUhIV1ZVRXJoN1hQQlZwNF9VcmpmM0U0MTBLV1RqY1ZqUUg0eWNyNEJ0OXdiY2tXTldDb1hLa194RlZXUG5YUkI0WlRTQ1RGRXFCdjY4ckYyZlJpN0RKelFRWGc0R0dialNUVE0tVTZvdU4yM1pkN21OUlBsTDlwTl9McWNKbi1ieE1tV0QyVnZnV0NRd3JWc2syS2t0dDVMZlZUU3dB?oc=5
-- **Source:** Semafor
-- **Published:** 2026-11-13T12:26:00+00:00
-
-## India's Big Ambition: An Artificial Sun By 2042 - NDTV
-
-- **URL:** https://news.google.com/rss/articles/CBMijwFBVV95cUxQOUFPUVFGNFR1SnNFdFBmS1pKaEFWMVhKZTdFU2RZY3A0QTVqZkV3YWljRWRGYk9PczQ4WHlKZnFqWEVMQVM3UVZNSnd6S2xqaUNwaFJrb29tdWhmSjJMYThCUTNEVE5Rd01keVVXd2h3ejBwTGVadGtvWHlTRXRZQTNmUkhZaXZtNGxFakdPb9IBlwFBVV95cUxOY0p5SGs4TURtbHJUQ1FpODZaVkRzQURtRV9Gb2tPNnlReEQyaW01SlJZUVhJcU9kQktlVm5Eck1oMncyNi04SS1iUTBJNXhON2lTTFRCSVZwQlFPNmRsLWlGNHAyVllDRldpTnViNGk0SnhDMjdiZVNqU3BkWFdGS3JMbWJ1R3ZJNWh6ZlFieDV2V2otWmtR?oc=5
-- **Source:** NDTV
-- **Published:** 2026-11-13T11:24:44+00:00
-
-## Eni Plans Nearly $15B Gross Investment in UK through 2030 - Rigzone
-
-- **URL:** https://news.google.com/rss/articles/CBMiswFBVV95cUxOMjQ4dE9UMC1JblNtd2JBemtDQ0xxY1V1bXJFRG0zeDU0RTVac2o1Y1pzVE5aM3l1QWFpX0RyU0hMamlOV1BCanZDSEYwZW5SQ2M2REVDOUx2LUFnV1pjaE5uT0NzOGVqU2VvZm54SW10NVBmSWdyRERoVnFOYndndXRUQTF2MW9nUUk4b3hsMmtoU2JxanA4a2lYRkU2cEcwaXBEMkpoNkRzbTJlcmtHRUVxZw?oc=5
-- **Source:** Rigzone
-- **Published:** 2026-11-13T10:53:00+00:00
-
-## Constellation Energy (CEG) Secures 270 MW Peak+ Deal And Expands Clean Power Role - Simply Wall St
-
-- **URL:** https://news.google.com/rss/articles/CBMi1gFBVV95cUxOLTlGMlF1TGdVVnFtTmpXNm5haHNjTmVnZkh5Rl85RTlzQjBaMFVERlpDVFkxbmF2V0EyUUNVbXV3eUV6TXhXOHVlcUJ0R0YyakRnUkFwVGc0RXFuUEl1OGZkcmI3VDJvMDRmbXFTV1FRUmhVdFl6ZDFrcFlyWndZaFBpV29IOFhOLXh0cTRnUkFjR2Y2dFFYbWxtdXdUVnVyRlRfemxjaUNoQzRaWHVvbTk3MTcycTF2ZElHTkFCblhHVC1QTFZIeDBBengtTTRsNkM0X253?oc=5
-- **Source:** Simply Wall St
-- **Published:** 2026-11-13T10:25:26+00:00
-
-## Blue Laser Fusion secures $35M to advance directed-energy defense systems - Evertiq
-
-- **URL:** https://news.google.com/rss/articles/CBMirAFBVV95cUxOcFRyVlZvdV9FZkxEQnktVVU3YlY0SDJCakJ6dFFWeFA0Ul9OV1oxVjhQZGIwcmFLZUNsdDBxNVZENXJ4MmZmNkJEU1NOeGpyQmRtTUM3NU9oR2duMUdBM0txSjNBRlEwZDQxczNwNmplZDZFNFE0SFZBUnNTTmVadXBiTTNYUnBNZjBPWHRTVTNZa2oyY2dyMGtsYzVFdUktTHRTUEhPQkFVZlRS?oc=5
-- **Source:** Evertiq
-- **Published:** 2026-11-13T09:00:00+00:00
-
-## Rolls-Royce Submarines Partners with INFINITY to Develop Advanced Manufacturing Capabilities in Derby - Machine Maker
-
-- **URL:** https://news.google.com/rss/articles/CBMi0AFBVV95cUxQNnlERzE2Qmh1ZGE2MWdKYTItemJ6cUVyVWItcnJKQUlFa24tVWNQcXdHakRaNzdnQzlMRXFHSFdCbW1KTDF3WU1GS0RsanhzUlU4SUEtUm9BbVJBZF85YTR6aWZaZTlzV0lmcmtLU0VvbXdCbmFTRDJoWUFjak4xem0wWVFlaVFyZVNsd0JONnkyS0FwX25WZmpXVjdHaExYV09LYzIzUmw2MEhfUHhpS3k5TDZYbG9BM05hRnFfZG1wNmxlM1ZHcDE1Rk5heVR6?oc=5
-- **Source:** Machine Maker
-- **Published:** 2026-11-13T07:57:36+00:00
-
-## Self-Heating Demonstrated in Unstable Plasma - Mirage News
-
-- **URL:** https://news.google.com/rss/articles/CBMihwFBVV95cUxQRE1LTk1nZUtObTVqNEhqVnhRX0t2d2dGU1lrT3ZWN1RDMEdQVmYyRVZuUV9PUU9ITGV0a2d2UVd0ZFp4cW82NEJSbEg0Sjg5Uk4yeXYtaWtFc3RpUm03c3R2UkVlZWRJclVZYmkxZUJ1RXpiQUxFZXVmRGt2WDlmOHdmN0RiTXc?oc=5
-- **Source:** Mirage News
-- **Published:** 2026-11-13T00:10:00+00:00
-
-## Energy, prosperity, emissions, and innovation: A decarbonization progress report - MIT News
-
-- **URL:** https://news.google.com/rss/articles/CBMiowFBVV95cUxPVVR5QjIxVVpKODZ3Z3AydElWeTlyaF8xV1lXcmlOOXZBaVRibWJSbTVUYlBWVFRla0pJdWZ4eVV0bTVfNGJHZnhkaGRnc3FwbGRJYnZpbGU0MkI2NFZmRWlQRG9aZkEyd2JqOFBrZ19DQmh6Vm5qd2ZyTEJSaDA3YUFFQjBSVlR0VkdHT1NZT0QxbS1sNjFQM3hLZzhkQkhNb3RV?oc=5
-- **Source:** MIT News
-- **Published:** 2026-11-12T21:30:00+00:00
-
-## STEP begins major procurements; First Light collaborates with U.K. laser facility - American Nuclear Society
-
-- **URL:** https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbHlnN05BYjU5ZTN4dW5RbW10VUlFTG14VHNudkpUX2xsbllHYktnbjA1U3pXQmZ3czh1amlqRXJlRnVUczdXUFB3ZjRTazRxM2JKemxYZm5GdG5VaGJVbzBGMXM4Vm90OUZUR2R4bDRjaFR0S3Jubk5BaHNxSTl3dTJTT2d3RHlBNk5rZnNxUjdPbzBNLVA1aTk2S3hoaFJLV1VaTkZHODV0NlYySlZzdFg5bEY1djBJ?oc=5
-- **Source:** American Nuclear Society
-- **Published:** 2026-11-12T21:24:15+00:00
-
-## UK Fusion Energy launches five tender lots for its STEP fusion plant - energynews.pro
-
-- **URL:** https://news.google.com/rss/articles/CBMimgFBVV95cUxOOE1iMEhXY1NueHlFTVBSbnRRSk9pZGU1R3RUZ05ERTgxeVB4djBSemRreFFtZGtlVThIdm14dXZKU2hXTWVlNHFLcGZzdkxjMDBIMDlsZURZMU5mb2x0SG1PNzJzbU1ZNHpZMkJUM3pRaUdaWEFfSGRlZFZlbEZfanNwRm4wQzhkWDBJM3BQZHhodklQeU5ReXRR?oc=5
-- **Source:** energynews.pro
-- **Published:** 2026-11-12T19:19:47+00:00
-
-## Turkey and China announce a memorandum of understanding on renewable energy - energynews.pro
-
-- **URL:** https://news.google.com/rss/articles/CBMiowFBVV95cUxNVXRBaGFKWG56a0hGUld3MVNjWDIxVEdMTGlmMWxPcERkM0N4WXVYVnc4WGxZSFB4Ukh0UmEzbzhpczU1bHhyaFhJandoSzI2aVF6XzJVOUlkMy1hRjRDalBSanZicEloakZ5ZkNHSXdib3lvQU82eWtRS0xOWlZrZUdTWm9CT2x4VXp3SC1wa09rakNQbXo4SkxoOEJGcnlCb1hF?oc=5
-- **Source:** energynews.pro
-- **Published:** 2026-11-12T18:34:40+00:00
-
-## UK Secretary of State for Energy Security and Net Zero Miatta Fahnbulleh meets Eni CEO Claudio Descalzi as company confirms £11 billion of gross investment in the UK - WebWire
-
-- **URL:** https://news.google.com/rss/articles/CBMiYEFVX3lxTE82MkVOb2lrRGloN0ZCaHJ5Y3FyMWFWdWFmb2RycF9LS0xnSTBjb3lDYzhicmdJQ1hHQ2w1R0NYcnRyMmJ0RlU3QWdLQUI4QjY3ZVVVY2U4Rll0UDlPVVRKcw?oc=5
-- **Source:** WebWire
-- **Published:** 2026-11-12T18:34:29+00:00
-
-## Saudi Arabia Participates in Third High-Level Meeting of IAEA World Fusion Energy Group in Vienna - وكالة الأنباء السعودية
-
-- **URL:** https://news.google.com/rss/articles/CBMiSkFVX3lxTE9mcERsUGlOUWZ3c21wWmNLc3p2YzJKWFVaSmhKSXR4am01cjhWb08zWHQ2VFI4UEZuSEduLXNQS2lCX3g1OE5VS1Rn?oc=5
-- **Source:** وكالة الأنباء السعودية
-- **Published:** 2026-11-12T17:03:49+00:00
