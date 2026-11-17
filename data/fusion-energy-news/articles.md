@@ -1,8 +1,38 @@
 # NewsWatch — fusion energy News
 
-_Last updated: 2026-11-17T12:49:35.241069+00:00 · 50 articles_
+_Last updated: 2026-11-17T22:03:42.648980+00:00 · 50 articles_
 
 ---
+
+## Black Holes and Their Mysterious Bright Structures Explained - Universe Today
+
+- **URL:** https://news.google.com/rss/articles/CBMioAFBVV95cUxOUEVqRW1JMnFlMzQ3MGd4bGNjT1lYVU9hRnctdXhkRXowUThPQW1yaFppX0tXRERoZUw1Nl9jOUhFX1d5ZE84eUtaNWFwcm8wMFNGMDdyUTlFWllRMlY5dWhkMUQ3VWtZNVdxM2RQTURHOGx6enpCdkFKaUlYa280ZkpKVnE4THJ5WWlDVV82TGZoc1prMVpMc1lrVHAxYUtm?oc=5
+- **Source:** Universe Today
+- **Published:** 2026-11-17T21:23:00+00:00
+
+## PPPL Scientists Showcase Work at Field's Largest Meeting - Mirage News
+
+- **URL:** https://news.google.com/rss/articles/CBMiiwFBVV95cUxQQlNWQ21kbmctNG9VVGxQNEd5VzV5am01Z3JmVDhNdlRsUGVtQ2k3ekdQWlJSQW9rSzFhOXpVd0E5MjJnNVBjNU1ESUlpWWhZSkVGYWZUeUFVTzhUQkhVc2FzRzY4aG54TWxydVJlTnUxT2Zoa1VXWUhLLXY3YWczeVJYMXdwa3NVOUlJ?oc=5
+- **Source:** Mirage News
+- **Published:** 2026-11-17T19:20:00+00:00
+
+## Watch Nuclear Scientist Answers Nuclear Physics Questions | Tech Support - WIRED
+
+- **URL:** https://news.google.com/rss/articles/CBMiekFVX3lxTE9mX1JFbG5hNF9BLUo5RkcwclpLWUxDeU0wQk1DSHJOeThDM2xiZ0VONWpRc1gwOXpadnludWIxTEFwakNoWkpraUswOGo1TGoycVJheW5zX0RjUGZwMzY0bEJoSm84aWR3QS0xclFqTUVhZ0VXZHVZWnd3?oc=5
+- **Source:** WIRED
+- **Published:** 2026-11-17T17:06:21+00:00
+
+## France launches roadmap for fusion energy development - World Nuclear News
+
+- **URL:** https://news.google.com/rss/articles/CBMimAFBVV95cUxPdWo3MFAwNXVtUkNISVl6NHI4eFBRUkM4ME1nN3FhMmhmeVNpLTBIalNxd0xBNDFFRHJTd3BRVm41TENsdUxIS3FIYkRPbnVWVHItWV95bEJGMGZrb3pDMzhXRXJnY08wVk5uUjBDTmNqNmhHU2pIcG5Tc3BWTVlfMVBxUk5UYWU4bVppZ2pJVHE4U1c5NVcxMw?oc=5
+- **Source:** World Nuclear News
+- **Published:** 2026-11-17T16:23:42+00:00
+
+## France Unveils 10-Year National Nuclear Fusion Strategy - NucNet
+
+- **URL:** https://news.google.com/rss/articles/CBMimAFBVV95cUxNeUM4WV9rUzZNS2gycE1VTDVnZE1LRDFJU0JPZGFjZ1pXcUc1bUJHNUtEdElWY3NOUzk1T2t3ZUNoS21RUmZGOU9rWkx2cnlWT0M5NXg2eW1UWkg5OFZmTXBzdWRTSU0zVFYzM1g2dDhKV1RDWnkzMmsxdmRvLV8zZldlWEZPM1pOMzU1LU1Ga09uUmJ0ckhYQw?oc=5
+- **Source:** NucNet
+- **Published:** 2026-11-17T13:30:29+00:00
 
 ## TAE Upgrades Norm Fusion Reactor to Support Commercial Development - News and Statistics - IndexBox
 
@@ -273,33 +303,3 @@ _Last updated: 2026-11-17T12:49:35.241069+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMisgFBVV95cUxON05xekQtM2ZfMmhjLVNvbUVhdWJybVJOZ01FU1gxZXNZTTZnRjlMOWJrMS1KQmxLbHc1OTRsMVhlSzFxd0lRTXhnUnd3amhDRUtEcjBveXZnZ3p2S2d4aE0zQ2VpR0NtbE1Jalh4cjk5RDJyVVAzekxCQkp4WEZVOWtSaFpHMi1MMmRULUlSSlJlNmhXUkVBdGV1bWlxVURvRnVXdXloYVRqVG5KS2tqS05B?oc=5
 - **Source:** TipRanks
 - **Published:** 2026-11-15T04:38:50+00:00
-
-## Pokémon GO Wild Area 2026: Raids, Mighty Pokémon & Bonuses - MMOEXP
-
-- **URL:** https://news.google.com/rss/articles/CBMingFBVV95cUxNeXNVRlZEeEg5aDBmWVJ3elNQNHlwU2RfSWZibF9qSG1UN1NWUEJvUG04YVdMMG5md0JtWXVtcDFfaEFtbkpvMkdQOGk2TE5UMXF1c3ZZak5YY0dNWWJJRzVlaHpoUUV1SnhTc1gzdUQ1aUVjelJmNm5kcnlsbkJWVm10STlFblBlMkZtS1dWbG9udGl0cm9tRnBMOUZEUQ?oc=5
-- **Source:** MMOEXP
-- **Published:** 2026-11-15T02:58:01+00:00
-
-## OpenStar to develop the first divertor for a dipolar fusion reactor - Foro3D
-
-- **URL:** https://news.google.com/rss/articles/CBMisgFBVV95cUxNSGpxNjdwUFZ5Ui01SFdRRE95VnFCbHF4aWNOM3ZYNmJkc08tNEdEX0dJU0tTTDBWb2NpaERjOTFnZ2JxaUlld1hxclNJNXE3YnJGOWxYRE53bmNjTGw4VnpDbGVLUkNVNFJTY3dTTEVoQ09hLWdKa3BSMmNRUUpyZnlHOWxuMldIWDlsUnlkd0tSYll6ZmNuY1VwVHRlZDFIZTBXZ3JzMXV3VEJyX0lMS3p3?oc=5
-- **Source:** Foro3D
-- **Published:** 2026-11-15T01:24:09+00:00
-
-## Rotor Returns To Los Alamos To Power Critical Science - Los Alamos Daily Post
-
-- **URL:** https://news.google.com/rss/articles/CBMi1AFBVV95cUxOTnAteVJFRFVQYVF4QzhNR1JoMWRGX0VGa0xqeVVPRXhJQU5BV3JJZ0tJTmJhMEYxVU9IVUYtWF81VW9hcGJMYXBJeWNqV3J0dklkZzI0RFBTMVh5ZEFLN1E1dU9ONEQtTks0SDlEZm9ZNnBHZG80bkFac01YZ1dxcFpLODNHY0E5ZklBeExqMWg3OGVzVWx2UmhGektQekJZZWZYdGc1ZXJVbEs3VVJZYjN1VWJGSjhMdnJyWkdkQmxJN3FSOWt5cC1FNjRWNUdMSmdvZg?oc=5
-- **Source:** Los Alamos Daily Post
-- **Published:** 2026-11-14T22:32:00+00:00
-
-## A place to connect, compete and belong: Cowan Recreation Centre at RBJ Schlegel Park officially opens doors to the community - Digital Journal
-
-- **URL:** https://news.google.com/rss/articles/CBMipgFBVV95cUxPVTU4aDRqZ1d6SGFkWWlQb1Zld3pSNkJrOW1lcDB1eno5RlJibmVRWDB5aElseXhuZVlRT09pS19ydTFGMWN0bkJMb19vN0FLR3FEcm5FM05VeDQwaFc2c3NJRmd4Y01uOXZCbjl6b010VWtzaWF4Z0c1em91aUU0T3VWUXgyZ1A0bEZyTm5lSVVMbWRvd3RWYUkzZjdWa09ZQVF6Vmh3?oc=5
-- **Source:** Digital Journal
-- **Published:** 2026-11-14T22:16:06+00:00
-
-## General Fusion Group (Nasdaq:GFUZ) - Stock Analysis - Simply Wall St
-
-- **URL:** https://news.google.com/rss/articles/CBMihAFBVV95cUxPdHR5cUNXNkJpN3BjYnEwVEU4QUxJcndiN0F4T09mQ3lWdzY5ZmlFRVpHUFVfb2Z4b3cxQWRMMlhEajB6MTgzcTZGNU9XSnlxcWQ5TGJaOTR6dFBic1ZLcjlQRGJtclI3ZDdOS3IzdUtzdmlCVkFXNC03Um1KUll5QTN2TXc?oc=5
-- **Source:** Simply Wall St
-- **Published:** 2026-11-14T20:01:49+00:00

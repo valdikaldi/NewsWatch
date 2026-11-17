@@ -1,305 +1,305 @@
 # NewsWatch — Microsoft News
 
-_Last updated: 2026-11-17T12:49:32.640193+00:00 · 50 articles_
+_Last updated: 2026-11-17T22:03:41.973399+00:00 · 50 articles_
 
 ---
 
-## Scammers are taking advantage after recent Microsoft outage, company warns - CBS News
+## Major Azure Updates for Enterprise IT Land at Microsoft Ignite - Redmondmag.com
 
-- **URL:** https://news.google.com/rss/articles/CBMiuAFBVV95cUxPOEgwZS1MNFRKbmVfbUdkOEIzblRxVTc0alZNVUZ6VzFGV0dVU1QyN2tEOUpfMWluVXJqTnRfRjdIZmV3UHBmTUhKRl9sSzJvWjd4a2ZOZG1JY2FYUUZ3WDh0Mnd2d2gxTDR4RDZTcXNxZlNzMGdQOGloRkN5RXJMcTRLLXNNb2N1NU1XLUIyeWFmWjZrR29lNUpmSV84Vkk0WkVYbVNWejdOUnRDV1doWW1ZbG5PTXNq?oc=5
-- **Source:** CBS News
-- **Published:** 2026-11-17T12:39:00+00:00
+- **URL:** https://news.google.com/rss/articles/CBMirwFBVV95cUxOR3dXUG5YYXltVGpIWHRzMktILVp3dTBjd1k2T1RROEgwcXNBUU9xQlliWndfbUdsVnVIcGo1Q2FMamtfRUpRc3FNVU0tVTdmRFVfLVN0Q3ctV25SNkhyTGdFTWthOGdRcjZDdDJDZFY1QkdkM0Vob2VZblZRX01PSVdZT3JYZ2NpdkZ2YTYwMXR2VzRpRHVBTGhUcjFpc3lINUhCcWFMeVM4ckpZY1NV?oc=5
+- **Source:** Redmondmag.com
+- **Published:** 2026-11-17T22:01:58+00:00
 
-## Technical glitches disrupt Microsoft, FAA, banks and United in one week - Audacy
+## Carenado Releases a Microsoft Flight Simulator Marketplace Exclusive: The DO228-200 - XBOX Wire
 
-- **URL:** https://news.google.com/rss/articles/CBMirAFBVV95cUxPaWVCN1gwNWZTQXNWUWtrTDVVRE9GeTBHSUVMeWVaVEpITVlVWEh4TlBIU28zY2swSUowNGV1ajNqSks2dWRhNERWdURzeDJ1TEtzNktqbkRCUlBVNDNjY2sxeV8tWmdiWmpKQlV0elQyWDJRdEEyOGZQeklKSENHZHhHZVhpMWZQYXZySi1GTDFVU0dNVEhyWWg2b2EtbEc1M2dtYVZkOE5ncThQ?oc=5
-- **Source:** Audacy
-- **Published:** 2026-11-17T12:27:00+00:00
+- **URL:** https://news.google.com/rss/articles/CBMivwFBVV95cUxPbzI3eTFQRTBjeVV5b3VKVG5BTU56aURrTzlTM1NwNEpvdmNVVVpLcHAta2prU2Zoa210TWpsRWNUWnhVa1NsSnJTb1hFWkc1U2Q3bXNFN2JTZ3dXdG5HVWM5ZktpV1FDOHN2MDRaTkwxSWRnWUQtUjRYVzZMVDV3QzBrSHhvaFI1MUpJT3lVRXZuUngyWUt5Sl9NQ0U2R0Mxak1Ec0pLZjZJQU14cjhGd0tMVWs0QWVNdlBhalVCQdIBxAFBVV95cUxNWHdONTJDdXlGNVBhVFhvSlp5cVVDQzVVd1ZkbUo3ZnN1MGtodGp1RUVicEpXV1hndUp1aUc3UHY3SmRnWS1IdV9yQlF5N2dodTlkbjFxYzk0ZEJKTHdXdEM4UDFBTWtscDZXZlZzdDRjeWlQeWo0UC1udGl0NGJZMlBYZVJCUUNOUjNreGpFZWw1SjhQM2hsQ19xTlY1MTQxckZJbFR2Zi1KZTYyc0RzTEVnYjFiSjdsYWtJY1VRNURnMGpH?oc=5
+- **Source:** XBOX Wire
+- **Published:** 2026-11-17T21:44:33+00:00
 
-## The Zacks Analyst Blog Highlights NVIDIA, Alphabet, Amazon and Microsoft - The Globe and Mail
+## Kanerika and Microsoft Sign MOU to Expand GTM on Legacy ETL Migration to Microsoft Fabric - The Des Moines Register
 
-- **URL:** https://news.google.com/rss/articles/CBMi6wFBVV95cUxPbHBnek1NSEdnMVdzOWREN1hSTl9ZUU8xVVZ0dUpRT0RlblRNelE1MzhzeV9oYUdsUEhNekRaQlhZbVhDVkN0RUpaQ0JyUmJQb3FWZVdjWGt2cTB2cVZtNWhxbGR3ekNtNXJIMkJ5dzFTUGtkOEhid1FDYkZGZG94VlFVYUl5dVMtZXVUbW9ZVVF3R01rS0RXZDBKRDNKRTdzZll5OUJGV2lBMUJRX0JQYzJMNFdVaC1ZWGFYTnIxZUlzekVhRXVyNmVsTDFRM1gyWVFNZFR4eWdzdFFfUkZzbHUxTW5SanNFOVhJ?oc=5
-- **Source:** The Globe and Mail
-- **Published:** 2026-11-17T12:23:06+00:00
+- **URL:** https://news.google.com/rss/articles/CBMi5gFBVV95cUxNUm5mNzJsRFl0WVZJTnZoRTVjRWhjalU2aHFsTzFUOEN5NmcxUmZzOENMRnZWTTFfc21YeWhtbmkzWGl6U3BzSGRPRXR1TE1YcV9JdE5fSl9La0MxNC1Td1NaOEJTZkJ2dFFLRnBhUEE2cmI2X193dHkxSWswVk4zT29wc1Z4ckRrbVJJalRzVEVEN2tjR1daQUYtcmJiaUJQTlZvalloUDBaZ0l2WDV0ejZBVDR5aVp4WFlvN1g3VmVYVmx2VlBLd2hIaFlyY1kwc2kwdGpHdmRrWlprMUVqSGNDTU5jUQ?oc=5
+- **Source:** The Des Moines Register
+- **Published:** 2026-11-17T21:42:30+00:00
 
-## LiberNT Aims To Recreate Windows 11 Without Microsoft, Offering An Open-Source Alternative That Even Supports Linux Apps - Wccftech
+## Air travel, Microsoft, banking: Why are our IT systems failing? - NPR
 
-- **URL:** https://news.google.com/rss/articles/CBMi2AFBVV95cUxOQ3BuTGlyaDJTRTlPUHN5SE9FNVRkNlZWM2tyYWo0bXV3elFSdENpelBJY2FYbG9NVll3OVU3eUUxOUI1UW5oTUlYSGtVMkxmcDhCa1E1S054dDBWUnBxSEFBVHZSV2dJQ3ljVC1vWnZyclR6cHZuN0Q1RmJ1enpqY0FqX29acFZFb040UktUeWh1aEtNSzh2Q2JOTjRhU2Z4cjB4OHZpWXJTWlBZX1BwYi1POURmR3RDcHRuM3VGcWFUMFN5a0c0bTZPQWVpRVM5RzBUTnNaeW_SAd4BQVVfeXFMT1l5cF84QzJpTERLZDluZHFxbmVSbHg3TEV6UEd1SlhmTVBiZFlRQllQVVJEbnNyQjZYenNVa3ZfSHBaQnlENnptY2YySEY5TUc0d0hSMjVzUUVjQlVGZXhUSFFwM3Rsa1hha2tzVHZuY0hGaFNTY1Y0V01veHVIeG93TEVIVExvUEktUnhWcW5ub0t4U3Zra3pJRFpEVjlqQ01POGlsY1Y1eUVHcThTODJRazI3Ym1NUVk5UHQ1WWpNeExCb0txamZnVHBvaFFhS0NjenlQWmJvRERGVTV3?oc=5
-- **Source:** Wccftech
-- **Published:** 2026-11-17T12:07:11+00:00
+- **URL:** https://news.google.com/rss/articles/CBMipwFBVV95cUxPc096enRuYjc0TktSSGpnV3F3T0lucjBmTlBCS042THVCckxqN1MxM3JjcHdaMnlobW95aTJhTTJSY3hYNkdPbWhtVXd0T3hqU2ZTVlBSX2M0U2VNcDZHOXRUTUpZZXlvdGt5Z1h6YS1OcFd0WHItb3VxaDJ6WGtJUTlmc0YwWU9hQ1UyMVpqUEpHMEVhRkFJVGx0TGUwRXRPc0NZZ2pXTQ?oc=5
+- **Source:** NPR
+- **Published:** 2026-11-17T21:40:41+00:00
 
-## Outages at banks, airlines, Microsoft raise security concerns - WCVB
+## Microsoft to add three Meta AI models to Foundry - Breakingthenews.net
 
-- **URL:** https://news.google.com/rss/articles/CBMingFBVV95cUxQdWJPWEFuMlhPaHl3cGROdDdXR1M2clUtMGw0MWRoYXJDSzc5NTRkN1UyRTZRNW12QUMxQndaSjRpcHVjbmRzWE1DemV6WU00Rzg3NEUyMTJvenhvR0xNQ1hlQVp5dnZZVlZDM3ZKWHZSc0k5QkJPRDdBaGwxSUptb2pXMnhyT0U0NnBCQ2pqTWxneFQ0RmNMcmdybkFTUQ?oc=5
-- **Source:** WCVB
-- **Published:** 2026-11-17T12:01:00+00:00
+- **URL:** https://news.google.com/rss/articles/CBMimAFBVV95cUxPRm5VWFFSS1NhZWxaWG1ZSmVzSENrV05yblU4SjVNUDNUYXRvX3VxUjNmUHZ1NFJ5cVE2YjNBa2NXcmd6WXFPYjlUdFIzejNGWmhIZmZGMUowN1JGM242T2d2VEdaMU84QmJ5Zmk2ZmpWaUFCRlQ5UjNaZnB1cXlVelNrNVZpTC1fZFlFNk91SHpFNms2ZVlzZA?oc=5
+- **Source:** Breakingthenews.net
+- **Published:** 2026-11-17T21:36:00+00:00
 
-## AI Agents in Bond Market Arrive With a Stealthy Microsoft Trade - Bloomberg.com
+## Microsoft AI chief says compute isn't a bottleneck — for now - Yahoo Finance
 
-- **URL:** https://news.google.com/rss/articles/CBMitAFBVV95cUxQRDE1Y1FPaVcyOWNoSXNJZ2JCVmE2LXNVemhTaVhVNlctMVFFUG5YU2pDcTN2N3ZSZWNwVWcyOE5PVFlsMzRDZTMtMEFoZHE1cWJqaHp0Tm5oTDdHTDVLOHF0Tm8xc1RfaVFQSVlnSWdDMUNhZ3pLWGxHR3JNOXhWRDlkZDFwdnREVTlIbWx5TjRtMzlIUnU2ek9BQlpEUWE1dEVOMHlKci02ZDktbllDT3BIb3I?oc=5
-- **Source:** Bloomberg.com
-- **Published:** 2026-11-17T12:00:07+00:00
-
-## Microsoft, Workday, and the Hidden Fragility of the Digital Supply Chain - ARC Advisory Group
-
-- **URL:** https://news.google.com/rss/articles/CBMiiwFBVV95cUxQQnRsZ2hkOVlHQUx3MWdaRjVZLVJyZUNfZTNjLVd2S1BwWWZoYlJQU1Q2TGhvLXVGenIwOTA5OFM0WHhCYm9YYTN3SHA4UTdsbUd2V1hLLTNqcHRmdDVhc3pIaWozdlBHUk44NU9VbktWdHVSd1gtOV96bmpXLU5NTl94UG11TlBiNmZZ?oc=5
-- **Source:** ARC Advisory Group
-- **Published:** 2026-11-17T12:00:00+00:00
-
-## After Microsoft offers buyouts to 60,000 employees, CEO Satya Nadella explains the decision; says: I wish - The Times of India
-
-- **URL:** https://news.google.com/rss/articles/CBMitgJBVV95cUxNVW0wQ1k1dmt2aXd2U0xPRjUzRVlGeldYbXdqc2ZQb1FaNl9lWUZqblpyTUFwU1cxN3c0alNmTkRKM29tQWFRVnZVZ1pkNHYxV3l5b0lHMXg4QkFWaWJFclhrMTJKM2ktMlFwUEZZTllUSlg1TjdJT1BNcFRfa3BpbXV5bWxBcjMwRmpTY01QQVdLanYxTWRKSDZuM0tYeWRidUotTkw1c09pS2ROZWFzZzBsYmJxRmFhSWF5ZVY3NE50NmFVSUNnLVFBcjBwMDJZRnAxQmlRblhkQ2JVYWNtQmtEYTZVay13SmtfVFBRcmtkcTVGTk1rM1BVMWxFWWJCdG1ZRENBbGxnTm5PVzNQaC1qX3MxX1h5VXlpU2Nid0hIMWtBMDA5dVFnZ3pZM3BsbW5BTVhR0gG7AkFVX3lxTE44bzk4ZHlGT3Q1YWZKUFExRXprNVJ1V19KdXRmYzBnQTFDNWJtLTJnZDB0VHdub3N6M3ZtTDlRR2FEV1l4VUpibGhwa2pQN0RTaGljcmVKeUJ4UC1ySmVZRTctOTUyZmNpYnJ5ZUtZN0xqOVJib1lDTTMtUHV1R0I3d2ZtSWV6cVdJay1PSHY1enBnenZQNmtPZHAzSE5rZzhWaG5iQm0ydkVfajFPdFRPY0RlanB2TTU0RnRXemxKX2pnNkpKZWZJY1drT0JYTzhuQXpTTUdVZ0dWQUxncmJkOFhiZWF5TjVId2FJT0g3Qk1uVm1BbmJqa0oydEJSM0QxbHhwQkMwZ2pwdUFOYXI5WG9kanRWeGZ0alo3U2dVRnVWb2duTi04aTA4bTBGSm51SDEyQlZTMnpucw?oc=5
-- **Source:** The Times of India
-- **Published:** 2026-11-17T11:51:00+00:00
-
-## Microsoft Releases .NET 11: C# 15 Union Types, Native AOT CLI Host, and CoreCLR by Default in MAUI - infoq.com
-
-- **URL:** https://news.google.com/rss/articles/CBMiY0FVX3lxTE5OZEw5T0tGSFBNVFd5Ymk4T3lUYlJla21uM2UydGVlMWhYM2tOV0Z1dGxlMFdSNWphcDB4SzY0eHV3UGZCZGd5dEd0WVQyb3I4ZXRvY1h4cXc3R1hvcEg1QW1Idw?oc=5
-- **Source:** infoq.com
-- **Published:** 2026-11-17T11:50:16+00:00
-
-## Bernstein Maintains Microsoft(MSFT.US) With Buy Rating, Raises Target Price to $722 - Moomoo
-
-- **URL:** https://news.google.com/rss/articles/CBMitwFBVV95cUxNUzZHSjhXallicmUwZVJ4TW41T2ZBTmZhMnlKVTlRb2txd3JTVVJOS2FqOFU2dDVSRWhqMzQtOFVuVkJvWFM1MFR1NTBFcE91WmVIVkoweXpBRXNsMlBTMFVhZzB3c1VzRkozZU5wR1hoV1NCOFdzaWREYVVzNDhYZi1GODdTY1gxME4xWGN2SWFlUUdkX25ncXVETnRFWUJzVDU5RlJQRktiSmF1OXcydjRQT3lkMTQ?oc=5
-- **Source:** Moomoo
-- **Published:** 2026-11-17T11:35:29+00:00
-
-## Nadella Says Microsoft's Buyout Offer Hands Staff the Wheel as AI Redraws 200,000 Jobs - BigGo Finance
-
-- **URL:** https://news.google.com/rss/articles/CBMidkFVX3lxTFB1UHFzUG5YeWh4TkNHdWlPbUh2cXg3U2NvQkJkRUo0WWVSN3hHeC1kcERQN2k5Ynp4OGlRU3BBNXRFdFE2Tmp6QlhEdVBJV05McjhEcVA2Y3lkYy1CRHA4dFdMT3hBdGhYWFNrRnBvZkhHcThBbGc?oc=5
-- **Source:** BigGo Finance
-- **Published:** 2026-11-17T11:35:00+00:00
-
-## Editorial cartoon: Microsoft Outlook freeze - Dallas News
-
-- **URL:** https://news.google.com/rss/articles/CBMirgFBVV95cUxPOXNaNWZNcDNieEVOWVBNaDdsVVFkQmhEWUN0SldJdEYtejlIbDJ6LUFlUGswUDlSeFk3RFVPTURiTWpPaWtiX005UlM1QzFjVV9ob3FjODBfQ0VkWk5zM3lLYkZCNVI1aWt5NjZkalJ5RTJNemRKa05MeU1JeUFKMi1NMEhmVWNRUjVtX1NVZTFIOEctcTZLMzRkY01nRU9wemJqYU8wNVlUTGMyZnc?oc=5
-- **Source:** Dallas News
-- **Published:** 2026-11-17T11:28:36+00:00
-
-## Microsoft testing Remote Lock for lost or stolen Windows devices - BleepingComputer
-
-- **URL:** https://news.google.com/rss/articles/CBMiswFBVV95cUxNaWUxNzNJRl9WY2h6eUhyS2VCaVdMb3ItYXkwbU9GOWtQVm5ITC1lai12T2prVkFXWTJ1a1J1NVo3dENTUkdCTDBZS012RmlpVFEybTk0VXBXNEg2ZmhXX2FsYVUzOUhBa0pvOXNEZnJSVkNaOWYyZ3JlUlNfdEFZem5MSXJuWVJVYk5zd0hQbFJVbUxUYmp5Yjd3WkFpQks3ak9OODZZcE5tTmNtQzFyZ3VaSdIBuAFBVV95cUxOV1FaNDZLalJUckNoX2x3RXdVMUZLREZCN2tpODZCaW0zTkYyc0kxSXV1ZjhYN1FoeEFoTjRxQklLakh1QWlIU1J6WkVsOEhRZy1vVHpUdW10ZlJSUUVjMnZ1V3ZQNm5RT09RaC02T2dlYmZRTXlDeE5aRWI2aUJCUC1ia3NIZ0JIOTBrSUF4NG1aUXE3VklXcHVhZzc5MGlsa2JoR1k5SUVUdUpqZmV6U2lZXzFrTVl3?oc=5
-- **Source:** BleepingComputer
-- **Published:** 2026-11-17T11:19:51+00:00
-
-## Concerns after technology outages impact banking, air travel, Microsoft - Yahoo
-
-- **URL:** https://news.google.com/rss/articles/CBMinAFBVV95cUxOOUdDZXQyTlZXbEplSG80b0xHVnNfQ2lSTHN6LTh5SkxTLUM1YXYxMWgtbHEyd2lBa3gybE5kMFd2NGRXOFpkVVEwY2NKVTZvZWdlLWFVMmtmMThRUGtDanZld3RXaUlkd0dDR0RLQlZEbUVDSGZBbFVieS1tcU5PUTVhVWZzSEctWTV5anR5ZVFWMktSV2w3c0E4SjM?oc=5
-- **Source:** Yahoo
-- **Published:** 2026-11-17T11:11:22+00:00
-
-## Microsoft Expands Haivision Deployment to Support More Than 600 Live Events a Year - Commercial Integrator
-
-- **URL:** https://news.google.com/rss/articles/CBMizAFBVV95cUxPamw1dzZDdl9GUVdPOHRfOE1PekxjMDh0d3dfQjYyM0ZNU0EyZVpxQ2JEaHM3ZVBtOVRXYzNPb3IweXRHY1o2SEQ1LWF0dERvY2lPTFZhNUVTNVU4QktBYWtVU1ppUk51TGlKeUZQeGpxVmdmb2JRU0hNOFJ1aVpScjhISU9OZWxRbWZ4WHl6VlB5YjVqQ1l3NnVHZ2F5VHlWODFpamlYTmJCbWRUWUEwai1RTU9VUGJfR1VzaFNzYnlQV040cFk3dGJHY24?oc=5
-- **Source:** Commercial Integrator
-- **Published:** 2026-11-17T11:10:25+00:00
-
-## Up to 99% of UK civil servants rely on Microsoft for comms, minister admits - The Register
-
-- **URL:** https://news.google.com/rss/articles/CBMiyAFBVV95cUxOYjJJZHhGb2pTODZIYUxBV2U1WWU2bGlOakx4RlVrRVZDMTdKR0dWaFhBYzkwUGVsWnJCUEdkNlNXeUxvVUFLcE1SemFXWDdCa1NKLWVXTG8zaEFTN1BXVklSUU1tRFlMcE1kTGU1UElZdHFmZEtFYW9rbzYyYkhrNkJfM2dsWW1UZHFRdndyQUlDTXRER2VtRHZwTG1xbzk2a25NQkp0UHY1RXgxZ3FPTWVDYmdOZUstWEtqczBLYTVmeVd3cmpLMA?oc=5
-- **Source:** The Register
-- **Published:** 2026-11-17T11:09:31+00:00
-
-## Hackers exploit Microsoft 365 outage to launch credential phishing campaign - Computerworld
-
-- **URL:** https://news.google.com/rss/articles/CBMixAFBVV95cUxQaXhkZEN4NmgyMnMyeWJ1TGdwT1NSam54emd6UnlhTm41X3hORmJGam5PLVg1eHM3Vm52VjdYOUY0R2tHMXZpX2RHSndNYl9SdjZiN2NoNlhMaHhRTy1uY05keVZCTUU5Z3hkWE1qWEtaUWhRN1EyMk9obVJUREtjNEEzX19HYTl0X3ZERVNPdmdJTDFnUkhvOXlhZTVWZWdUYkpieVRKOTJiWmlUWDVmd3RyYXRhY0s1aUUxaUoybDlFaGdR?oc=5
-- **Source:** Computerworld
-- **Published:** 2026-11-17T11:08:12+00:00
-
-## Microsoft’s 365 outage traced to undetected software bug, gateway failover, and traffic surges - SDxCentral
-
-- **URL:** https://news.google.com/rss/articles/CBMiwgFBVV95cUxPUHVUZXJCbXUwdnEwM3loMVR3S1BRdlMwc0FzUks4ZEd4aThEcnpJbnRaOFFvVzZfYWdEODM4c0puYjV1cjVqM3E3SGY4WEU4UTBxWERvWXM5eWdfOWZkc2lPUktSREhqTGdHZHNpTWRFcktNczhKMmZ6T2JHdTZka1ByNllHWHJWR1U5azI1UmhUMklQZ29sX2FvS2M1MHpPZWRmQjhmeEszS0tIWjZQaEdJYndRSUw1eHNHZm9sX3NMZw?oc=5
-- **Source:** SDxCentral
-- **Published:** 2026-11-17T11:07:38+00:00
-
-## Microsoft’s longest outage in years is finally over. Here’s what went wrong - Yahoo Tech
-
-- **URL:** https://news.google.com/rss/articles/CBMinAFBVV95cUxNRV9GTzZVSHpnMjdycFI0WTJBcENGcElhVGs5ckk0Y0p0V3RhaFdmN0NUQ1czeEp4RFRRSGctLTVLbjhjS0VBQkJjWVlpQjlzSzRJNGJ2ZVpfU3haVkhGSkVhS1FOeDZkc3dibXdLMGlSbWFjZUhSQkdpSEhqWWwxcy1tNXZwQ1pJNDVhVHVKQWRlMERpdWZKUlV1Y0c?oc=5
-- **Source:** Yahoo Tech
-- **Published:** 2026-11-17T11:01:29+00:00
-
-## HR reacts: Lessons learned from the Microsoft outage - HR Magazine
-
-- **URL:** https://news.google.com/rss/articles/CBMimAFBVV95cUxOLVkyMkJobHFyVkpaRl9ULUZnWmVralBmTU1IRGU1NEgycmxGVUpBSmFSNm9MV2Zmck92Mnc4LTMyOU53bXFYLWg4ak1rdmFybEtvOUNPaU9PM0s3MmZXYXA0NUpnajFtRWhBQVpHYktEd1I4eE9BcnFVRkZjSGR3dmF2cHpUYmdFeWZjVUVNMkFMR2I5MVRZWg?oc=5
-- **Source:** HR Magazine
-- **Published:** 2026-11-17T11:01:00+00:00
-
-## Microsoft reveals three causes behind global Microsoft 365 outage - Computing UK
-
-- **URL:** https://news.google.com/rss/articles/CBMikAFBVV95cUxQSXNLa193NTg1eC0xcUdhWVQ2MVp2Nk1RR2owOWpjVDFBeS1QQlprYlhHWFJXVnd2clBkS2JaOXVndjN3clFCV2pJVlloeGM4cXBibGhVZmxxWXF6aEZsTmNocC1SZzZjSzFXX1l5SlpoaHBEN3hqQUkxWWtvNE42MFlBaW1kcHBJMjBXYzB4SWw?oc=5
-- **Source:** Computing UK
-- **Published:** 2026-11-17T10:41:19+00:00
-
-## Microsoft Explains Cause of Outlook and Teams Outage - TechRepublic
-
-- **URL:** https://news.google.com/rss/articles/CBMimwFBVV95cUxNT0xsbUVuUzdwcHNobXdvNkhMNk1OOE9LQ09HcGx3OUllUGd5SnpzMW9HSkZXVXBwUWNralltVl9LUXJSTExiRWl5V3l0N3c3UGJGQXpLQzZqZ2RmYldnODlBTy04cFFsWXZYc1VyNks5cVN6NldRVTROYVEzTzB3VTZ3Zk8wQkdFWjhMME5MQkdqeTFGWHhsaTh5QQ?oc=5
-- **Source:** TechRepublic
-- **Published:** 2026-11-17T10:29:13+00:00
-
-## Thread AI Joins the Microsoft for Startups Pegasus Program to Deliver its AI Workflow Orchestration Platform on Microsoft Marketplace - AiThority
-
-- **URL:** https://news.google.com/rss/articles/CBMigwJBVV95cUxNckRxUzI5aHAyYXpsSmQ4aXRtVVZlM2JReEN6UmFjVFVtRHhsMHRvTkZKR1hMc28xVzVEU1QtUUxORVRKaHJZOHB3R0R4VlZNODdWVmNiYVZkS0gtdHlmNWppLV94azZhd3hwRXJEY2l0MXFRNzZsZHllek1ZTmdRcVRaQ0hZMEsxRGo1cmNQdHY0anZTTWIwM3FPNGt3VGtBWWh5RExJdU11Y2RubUdPOW5JdFFGUUtqMkFSTTZHcnNtQXNmSldaVU1WVlZsQTZDNjJHeFF4cXRJUGpRQjI2cVRiQmthRE5pX0VfZEc0VkxRbjdrOUZFSGdpYVZOdEhrWnh3?oc=5
-- **Source:** AiThority
-- **Published:** 2026-11-17T10:23:26+00:00
-
-## What Microsoft’s outage reveals about the economics of prevention - CIO
-
-- **URL:** https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZXV6NjBlTnkyUVh2V0J0UEFOZ2dNemg1akRIQ1lHS0VRZER6S0lPQnNGVnh2cm00OEFjMlhvS3U2Z1pjR3dHU2xYSjBpaV9SZUVnVlkxQnpqbVNGV1hLV0MtSE5NV1JxTnBXZXYxSGR5eUdGWkdMY0Y4RTdUMWN4QWFKTFl5aG01WkZpbUNSQ3MtTml2eHIyQUJlaGhTTmZrWmNVd1AtRmg?oc=5
-- **Source:** CIO
-- **Published:** 2026-11-17T10:08:38+00:00
-
-## Bug From July Caused Hours-Long Microsoft Outage - Silicon UK
-
-- **URL:** https://news.google.com/rss/articles/CBMiekFVX3lxTE03eW5kbmpidy1NQXNEakJILUZIcEk1dVFkcUhsb2RnZVJmRjlmRDN4ZUN1bEhKb3ZxU2htdDdaMzJSeS1WeXd1YlVOTHNqYXlXRVBXVFVYTGV4WWFqcGYtejFyRHZEN1pYRkdJV3dPbC1vUGx1VGlLY2lB?oc=5
-- **Source:** Silicon UK
-- **Published:** 2026-11-17T10:04:52+00:00
-
-## ALSO and Intermedia form joint venture to expand Microsoft cloud opportunities in the US - Technology Record
-
-- **URL:** https://news.google.com/rss/articles/CBMiyAFBVV95cUxOWXFYcFg0UnRCSDhQRnp5ZEd5RTJBM2theUpuVWQwYVRnRVRyQ0txeFA5OEsweUt0aVJ1VW9LTk5JVzVOMXJrS2s1WGg0U2lMLXpMTkY4VUlacHRyLXZqWjIxT0xQQ29jYlV1WHk5TnZxMElIVjdZN1VBdWdXYTk2S2pkZnVnZTM4NV9fLTl4VzJ3WjRwN3BkamwzRVdGUjRZOEw0TUloUW5TelVoTXJyUmFfUHVKNko3MzlHOFVkaWZJa3QteUMydg?oc=5
-- **Source:** Technology Record
-- **Published:** 2026-11-17T10:02:32+00:00
-
-## Microsoft 365 outage phishing targets user logins - Cybernews
-
-- **URL:** https://news.google.com/rss/articles/CBMiY0FVX3lxTE9lZDVUaDVXOFlveU40T3NvNzNocUJKaF9FT1B2YWZ0WTNRdENUaElQdF96dlZTYld6MnRqWEZueThNbl82aWhjb1Vka0dTTGRvN3NHM3pXMDBBdHVnelBYdlJiOA?oc=5
-- **Source:** Cybernews
-- **Published:** 2026-11-17T09:48:31+00:00
-
-## Microsoft's SideWinder Strategic Commander was a failed attempt to reimagine RTS controls. 23 years later, why are some players still using it? - Rock Paper Shotgun
-
-- **URL:** https://news.google.com/rss/articles/CBMiggJBVV95cUxOeDd5Z1ZEZ2cwbVdsU1ZBTXZmR0p1bnhBT0hLNnpDcWppUDJGQ0Rsb3c4aEdHd3VRckstOFoxY0tvd1F3bDA0dkZKTWZDMURMY25GaHV3bk0xcUJIWDY5NUxRdkx2c3NGeFRCeTBTYThJbThyREVCdHZxSXBRMHpubzY5aDJpOHBUak9jLUhSeTBDdF9TVmJXM25PVUJjLUdBLXpWYjFzTGlYd191M3RmOVlOclRCWG4xZXZHTjJTanFiWTNFVi1XSTBIOFFUM19ieDRlRE15anZpUWExRUpnZ3B4MG9hbWJzYkMzbmpDcC1aTndJYTZYNzBDdVJrdVg1ckE?oc=5
-- **Source:** Rock Paper Shotgun
-- **Published:** 2026-11-17T09:31:20+00:00
-
-## Concerns after technology outages impact banking, air travel, Microsoft - PIX11
-
-- **URL:** https://news.google.com/rss/articles/CBMipgFBVV95cUxPSHA4UHlkYzZvUEJpc2Z4THJQY085eWlMZjNZcDM1M2xlN3NiQ2w0QS1vcWIxb0t2VjRiSjdWQ2xTWjAyMXpaNy1PRWphaEVYRmRSb1lFc1dyNVVpZXQwTEwxZWhGN2duYWVZTU9kYjdGUUZfSzMybkRybU1xeEt2SjBxeXJfXy05QVB1TU81blJFUjdIYS1EbzVXUzRSbGxpdElNeDFB?oc=5
-- **Source:** PIX11
-- **Published:** 2026-11-17T09:27:10+00:00
-
-## Microsoft to Unveil Azure System to Cut AI Agent Costs at Ignite - TradingView
-
-- **URL:** https://news.google.com/rss/articles/CBMixgFBVV95cUxNWE5iaDNHQV9uM2xwSmltYkdtTGk2OFNXTkU5aEM5MTVNMTlvUDI4VThaNHlpbENxX1pWVkhCMENYV0tGUDRua1JXM2JYYUlQbDdHRG5aclNEQkpQZ0NIMkFROWE4TGpMWmM3ZmtfOGZDTVBnejBYVzIzLTJRRmlRSTZBOGZaelY0OUpISG56TUd6ZXlYZi1VTUNULW9tSzdWZ1RmTkJsZUFYVDFPLVdjbFNDWVVqYmJlV0xyb3VOOXh3QmZSQXc?oc=5
-- **Source:** TradingView
-- **Published:** 2026-11-17T09:23:39+00:00
-
-## Cohesity expands Microsoft backup & AI data access - IT Brief UK
-
-- **URL:** https://news.google.com/rss/articles/CBMiggFBVV95cUxQYVV2dXpLZTFmMVpSSFNWd3dxMkpydElhV1R0S09VZ0tadFoweXpaNVJ5OHhlOXRILWJHSjhOUHhiTWk0NFowVy02c2sySXdKYjlXWDlKeC0tZVNqWERDNFZpM0tEUk41VzNlSVJFQWdlSTBMckRxRGRvYVV1ZnBweVJn?oc=5
-- **Source:** IT Brief UK
-- **Published:** 2026-11-17T09:15:00+00:00
-
-## Microsoft Traces Exchange Online Outage to a July Bug - UC Today
-
-- **URL:** https://news.google.com/rss/articles/CBMicEFVX3lxTE8zd2RnNUY1ajdZa1I3eHhudk5YWHRUcjNRMV9DUzdFTG8wOVlLWHFWQjRyRG90YlBlQlp2U2ZVTlNRYkdVWUZQQ282RjRWR0lQcGcxbHNzYy0zVHgxOUZ0eXQ5M241STlTM1NwR0pLU0w?oc=5
-- **Source:** UC Today
-- **Published:** 2026-11-17T09:03:04+00:00
-
-## Microsoft’s outage should terrify every enterprise - InfoWorld
-
-- **URL:** https://news.google.com/rss/articles/CBMinAFBVV95cUxQU19Mcm5vMXpBZUtjY01WdHRnMWhWeEh4Nl9LdGpJQV9PUHJrem1rWnFrR2dUZ3k5X25KSDdOamk1RGdmREJSTExEY2h0dnBLT0E3VGtwbEh6aVhsSGNPRGZDZ2FfaEkxYW1xaFRpaC16cmdtQk9nVU1xSFVTRWluRUZMUGJ0TlJBZHFLVFEtNDJuVUVmYkV2YllDU0s?oc=5
-- **Source:** InfoWorld
-- **Published:** 2026-11-17T09:02:50+00:00
-
-## Microsoft (MSFT.US) Ignite kicks off today! The monetization of Copilot and returns on AI computing power take center stage. Can the enterprise AI flywheel deliver on its promise? - Moomoo
-
-- **URL:** https://news.google.com/rss/articles/CBMisAFBVV95cUxPNUhES0FPc2FwdU9TQzNtRVpxRk1zTmwxRDh1c0RzbGpud1dPbkVqQVRBMlBZRk43SzRsRFpKSWdfclhMYl8yREtXeWZMRDc5ekcxckhKRXdwakhMR0dHcWk3bnRPTDMyY2QxSG4tRDZRemt3ZGZkZDg3eWNNckt0R1NLZFNFREp3QjFkTjZRVEN5Ty1rSlpYMzdKYUlsUmc4NDllTlVXODZzMDFxWk9HUQ?oc=5
-- **Source:** Moomoo
-- **Published:** 2026-11-17T09:01:04+00:00
-
-## Is Cerebras Stock Still a Buy After Its Microsoft Deal? - Yahoo Finance
-
-- **URL:** https://news.google.com/rss/articles/CBMioAFBVV95cUxPSDhZX3lZZUlJOGt3b0VEdG04ZEk0RF93dlV3UEJXMmlvOURXVVYyY2JpZmxGcDdJX1UzX1lhWnp3YWl0ZGx4Vkt6eWNLMHM2dnN4OG85THNVd1FDZ2lKNHF5VEhmaVA1d3ZucmRnM1FrSXp2S0wyMmtyNU83XzNGbXJheVY5Yzh6RUxnVEpocTJEamlDQ2xaU1hGVVByNFY5?oc=5
+- **URL:** https://news.google.com/rss/articles/CBMiqAFBVV95cUxOYnphYnZQN2xhOEJhVXR1ZTJZZ1RITmxMVklnY01iSnViMkd5S2VRUkpvektMNk1zbHZpeUlnWGJIbjJVLXgyTWp1NEdLVWdOeTVnbnc2WGowaXZHdHlqZzM1ZjNUMWlyQ0RLVllaTHFhM1VleHBRM0RBejhldXpKUFBYcEt1TXpDc3JXNmNpYU1hYjkwSlF3cGhmLUhJQjRnQTNnTWRMUmo?oc=5
 - **Source:** Yahoo Finance
-- **Published:** 2026-11-17T09:01:02+00:00
+- **Published:** 2026-11-17T21:31:57+00:00
 
-## Microsoft outage cause revealed: It was a perfect storm of problems - Mashable
+## Microsoft launches Autopilot, a personal agent for Copilot - TestingCatalog AI News
 
-- **URL:** https://news.google.com/rss/articles/CBMiaEFVX3lxTE5aOXNncW9QdWVtZ3RXTHF5VnFncFJTcXptUWtGX0V6azdmcXZVQjBienJMdzJydEdseXhVZHZRcExPbS0xUXlCcXhyX2RDOUZOd0h3bEhwU1hiNF9hc0FNdTZLSkJGUVpz?oc=5
-- **Source:** Mashable
-- **Published:** 2026-11-17T08:59:56+00:00
+- **URL:** https://news.google.com/rss/articles/CBMikwFBVV95cUxPSEJqVzJ6N1N5RC1rWkxRWG8zLW9wUHZpOC04am1nSXNsWDlVUmhJMlZGNFBiR2tBNDNfNGxJNEpTbU1uVjdyVV9nN01Ma1AybnM1YnltbkNhOW5Rd2pfQzRwNWx1NFNWeDJUVWZZaGdsSjZEM2EyLThyaGhMMHVKRXI2VXcwRXNNYkhycHlpT2VHYmM?oc=5
+- **Source:** TestingCatalog AI News
+- **Published:** 2026-11-17T21:27:58+00:00
 
-## Microsoft 365 outage: Company blames a 'triple' failure for 24-hour-plus global Outlook disruption; Micro - The Times of India
+## Apple joins a parade of technology hiccups in recent days - AP News
 
-- **URL:** https://news.google.com/rss/articles/CBMi2gJBVV95cUxNLURCLXdiYTh6SHIta1ZPUUN4TEkyQmE4M3hjWmtsazQ5UV92Q3lkUmtIUkgwd2Z5LTJKZnFXQVpYWnpSdzRuRGJpZGxWMUdYNE9HM0hqUk9KdkYwaUNWY19wNVR0eENSd1lhajNha3JoOTVhLVBDSFFreGtsRTFacnNDM3BkREtOeHgtR285Vk9HUnUzNmJianZRU25vb0l0V0U3aGZIT3BJU20tWXNiWjZhdW4xd3ZXWl9IMmctMVpmVUZlbUd0Yk5jeWFva19SampUVDRpUU5BUWtveFZwOTk5eVZlQjNQYzk4SVd1X1l1R1F4RXNfYmF1MEt2OHZ1OUEwMkNnSGdaSVBPeFVtRy05OGdGeVhzWFFDVkpud1pTeFlwMl9wbUpwNkVnOWk1THUyV0kwbFZ1WWp5VnVsOTJtOHhHMUljZUp6bkVVb01fOHB5ZXRPYmRB0gHfAkFVX3lxTE1EVEk0aFctNzlGVUgycnFoajQ5MGdUeVpXaTEyZmFsUHhSVkl2cDNqWWZVQ0dYUlZCdkRQdWEyUlB6WWNyQ0xrTmI5bEk1eEFSVnNoY2JsY0ZSSDl1T2ludklFUXd4aVRaR3lUcXptZGE3aGpSQTdQLWpabDBURjZneHFXUlpEWmVIQXY0SV9lMkVUeVdpMzgxdGc2TmE5dTFJU3ZXNWJNRVY3VTFWWVU4akp3YTl4ZDBQLWE0Xy1mNDBrX2ZVV1pJUXhCOXluaVFIQjFFancteHFpUEI4V3lKdzdUZnNjSGNFWjhWWTdLcmUwTWhwRnB1c29PNDV3azZLVUd2N0ZvMWE4ZlNHSThrLUQtWEtzeVN4TTRxVlMxQWd4Rm9SQXdsbks4a3U1V2hJa3hFVExsdUluT0ZUZTQwSU44UDh3RkpBdGtIZXFsMlNBOVF1dzAySDF5VTB2bw?oc=5
-- **Source:** The Times of India
-- **Published:** 2026-11-17T08:52:00+00:00
+- **URL:** https://news.google.com/rss/articles/CBMimAFBVV95cUxQakk2WVQzLV9va3RKcUZGLVBicnpLNlB1UzVjN2hzUUJNelRENjNLOGh2SGtZaXNvX3VtSkIwbk9qSy1QcEljaTJEWjhGVkhkbW5jcGRvY1BGbHdUOWMtZ3JzVEdXYU84elpkZ3RkTVVTSS1DMUN4bDRtNWkxd29ncFNaakV0LUlOV0hvSURmR184QlBrQ2t5Sg?oc=5
+- **Source:** AP News
+- **Published:** 2026-11-17T21:15:00+00:00
 
-## Is Cerebras Stock Still a Buy After Its Microsoft Deal? - The Motley Fool
+## Microsoft Launches AI Transparency Initiative to Secure Enterprise Agents - Security Today
 
-- **URL:** https://news.google.com/rss/articles/CBMingFBVV95cUxQSUVBSVJoVkVROUZtZURSNUxNdXJoenVaWFVhdDRsd2dmSXVfZzBwaDlRcnd4NDNYdFE5amRXMko4RDRxaW5WNTNsNnBVT0VuVHprYnZGTUlGVEp4QTRJVTdqXzVjTW5UYXNITlJ3UUxCNjlmMmZQODRhdms5bkJLWmFyMnF4cnZDXzhESVM3TmVfLTg5b0tqMS1KeS1LUQ?oc=5
-- **Source:** The Motley Fool
-- **Published:** 2026-11-17T08:41:00+00:00
+- **URL:** https://news.google.com/rss/articles/CBMiwgFBVV95cUxQMkhLMWZwNVhkb3dZMEZMLUZMMUcxMlhJaVV4Yjh0WFVTWmx6bElORWcwTFBiSlRmWTNnVmFuQ3ZSd2h1WDczazY3MmpEZ2szTUV1WDFaVnpQVno0Rmg2SDlVZV84VXUxZklDUWdIZ19sbGFFWGFGUjBxdkVpT3VkMGdKVm4wVW9YRDVMZ1ZVekIyc2VCY0ZUX0NCOUwwOHZuS28waHdmbzZ1SGppY29HbEVBdmdNM1pla1hMVFBRV0d0UQ?oc=5
+- **Source:** Security Today
+- **Published:** 2026-11-17T21:12:56+00:00
 
-## This Microsoft Office and Windows 11 Pro lifetime license bundle just dropped to $22 - PCWorld
+## Microsoft Outage Chaos Exposes The Risks Of Relying On One Cloud Provider - Forbes
 
-- **URL:** https://news.google.com/rss/articles/CBMixwFBVV95cUxOemphdzBGSzQxUWhhY1hVa1hFem5HSUpSMktxZm5fVldFT3J2aE9meExlWUplaWtRTU40OF9NM0hKbVktYlljWmhpTWwtYzJVRjBVZ3E0VkhEVDlVcy1sV1RkeHJZQ3p6ZTFyS0hINHNOLVpCaWs3V2dqZG1vVUk5eUhwQnZRRWJSSWhHd0t4SDEzcTR4M3EyaC1sMnpWSmZKZGlGYTg0X3Y4TGRxeHFVekR3RmVCa2FDZURGRGlHQjEwQUtVUk9Z?oc=5
-- **Source:** PCWorld
-- **Published:** 2026-11-17T08:16:01+00:00
+- **URL:** https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZnpIOFhXdzVxenFUYmF1anpLbmpPeEV6aVFQbTlrOHVKUTlaTjRLYXB1NXRXMTl5ZnRFRHFXYUxvYklOTnBoeUxQamM5aW44Sks0TWhkY1l6WFlkZGZsOGRSeHp1a2xoU3JhTVBOZFprVHVYbEtjLTBScTNZZEYwYW5vbTV3aTNJTW00N0R2aFpfLTg4Y0dNYUNXM2NnS0ZyakJXUmUtV3lHMVFiQ2JkWi1YbUJJWUx6SHA4?oc=5
+- **Source:** Forbes
+- **Published:** 2026-11-17T21:12:40+00:00
 
-## Microsoft outage exposes global reliance on core tech providers - The Irish Times
+## Boston 25 News. . First Microsoft…then a nationwide ground stop…Now online banking disruptions…💻✈️🏦 Are we prepared when systems fail? Full story @boston25 #Cybersecurity #Technology #BackupSystems #boston25 - Facebook
 
-- **URL:** https://news.google.com/rss/articles/CBMisAFBVV95cUxNLUNfWmNVTXM4N0tJbGZrSVpJMG1hMHo4dlQ1RlNxeWgzRXNpQm9hVDBRb0JHbDNWeEhTTHJORF9zYlgyTnMycGphaGQwN1BneUtFWjhTQzM2ZFBiYzZLTjRXaFdKbkVPeExLTVBxMHRsOVFGRHZ3bE1YRmg0dl9Nd21MR210WXNXeldhYlg3SzJkTUxfbEdaZ2haMDVRRG5UbkIxbVZSalNIdDhKZW1zdg?oc=5
-- **Source:** The Irish Times
-- **Published:** 2026-11-17T07:53:58+00:00
+- **URL:** https://news.google.com/rss/articles/CBMisAFBVV95cUxORkY2Nnd2RHpuRks4RURRZEVPQ3c2bjMtdjlFV3dkcjl1VlppS2p0MzdzcXNYV3FTNFBDcENwMV8wWmZlSlhnM1FQNXNjZndLTWJTQkZ0N0lfN09wSTlJXzVNLTgyZW5XSWdFSGlMUnhIRG9kOTgyZHRjdXNyWTFzSXpqemhpbEdXTC12ZkNVcFFGMWZzblpTbmYtRnpiZEJKS1dwS3FaTUFsS1ZKc2JXcg?oc=5
+- **Source:** Facebook
+- **Published:** 2026-11-17T21:11:06+00:00
 
-## Microsoft Outage Disrupts Services Worldwide - Investing.com
+## Are Microsoft, FAA and bank failures connected? What we know about tech outages - MassLive
 
-- **URL:** https://news.google.com/rss/articles/CBMikwFBVV95cUxQa2hBVUthQUhJSHluaHZYb3hxMkQ0QTJiZWMzVk5lM3JEdEJTd3gzd1h0TmNZa3RtR3hIV1JUZnlBWnNPczhnclg4TkN4ZnRjZ01iSk9WbzQyclh3Um1IMThuZXczaUgxOE9FT1Y2b0hQSmNWblR6MzY0Skp4cXRYTk03OHQzV1JzZk41bTZrcTB3OHM?oc=5
+- **URL:** https://news.google.com/rss/articles/CBMivAFBVV95cUxQbWdfTTdwenROLUJiMnd3cUU2bmtkYUJlYlNIVGt4Z0JDZHcxbkpINlJ6QUxQT0E5V0JQeU11UHc0aTdaNGJ0Y1pKUDBiNVJSVUZSY05GWURLZHJZSzN6bk1KMVFLb3ZIXzJOcUFPU1hvdGZuZnR3Z3k0UEJhMlVkYkRHSThtQTg2Y0txdF9SdGlqTXQxMTg5RGI2X0Q3S0hsTGJpTm9sWTNfM2szOGVCZ1pVa0plN3o5ZXpSd9IB0AFBVV95cUxPaGJ2aURDUEtwS2xzTENCa216Q09PTV9FaDBXSDJCLUZIMzVJTmM5bTFQVDk5SVdObU5HWUwzM0dZZlFPTlJ6R0sxQVl4cHZaQnVodHhyT3hRTnczcVZYYmRXN245NEdCY3lxaF84NWxlenowXzNMcHV1Qzl3QzViYlNDWWpkazkwbFJlLUhZNmVEWEpnaFhqSXpJRHlzaXczMVF5OExjLW1LLURKQXFvc1NzRENLTC1VRUJIUXAwdV8tR3RVSkhXamVyZmNhOWtf?oc=5
+- **Source:** MassLive
+- **Published:** 2026-11-17T21:07:00+00:00
+
+## Microsoft’s Mega Outage Reportedly Caused 15 Hotel Guests to Be Poisoned - Futurism
+
+- **URL:** https://news.google.com/rss/articles/CBMiggFBVV95cUxOdHhJdFlTbTNRdVFjT0g4QzBLOGZTVk5FVEhkMkxTUDhEWHdsd3RoU1p4eTBxTFo1WS15cl9CVFhNMk9DbW1sWnV0QlFuZXhXaTE1QkRDTC1EZWJHa0txMmgyNlVfTy0xQ2NtYUd6NWFmYW5kYS1zOTBwTmdfWWVMczNn?oc=5
+- **Source:** Futurism
+- **Published:** 2026-11-17T20:48:20+00:00
+
+## Microsoft Releases Copilot SDK 2.0 for Enterprise AI Agents - Visual Studio Magazine
+
+- **URL:** https://news.google.com/rss/articles/CBMiuAFBVV95cUxPemZnQmkwb2lDOGVFaVRZYzJ6TUNpR1ktd2p1bWVIOEI0LU1ja0VNWFFsdG1Oak52ZWRHNjM5Y2cxOWlLbWVHNzllZjl2TzhCakpXdjRsOHB6QXNGUnp1MlZUamRsY05qMFZJVmJwV3kzaWhDT2tpYlJjYUptZDNUYjRBWnJubFQ0ZVA0X2lfT1Qya2tncmwxaUtMbW9ibGpNclRHcWhWeWF3S3VMQmdPcjBUZTJXZWJV?oc=5
+- **Source:** Visual Studio Magazine
+- **Published:** 2026-11-17T20:46:20+00:00
+
+## Ignite 2026: Microsoft's Copilot story for Dynamics 365, Salesforce evolves for partnership, competition - MSDynamicsWorld.com
+
+- **URL:** https://news.google.com/rss/articles/CBMixAFBVV95cUxQV1lPUXZTMHkzZEYzMEI4YnFGdVVkSkctMG9WdDhMaEk4bmxyUWo3ZUVyeWRHaDhYVFctdlk4Z2xjZkZJMTFzQVZuUFJvcXlCQVFvMFEtcExoc2V3b05ncTZQaVFnRm9YSkpiM2huYUlZcDVVMGdkbEVJenNNOFlmVzFwZmFkQWZPdmN3M25haFliUndXSEVEQjhlMVR3dlJfb0lZeU9FNVVFdld3VzlFNmhSelpiNGdCR2w5SWozUFZlaERq?oc=5
+- **Source:** MSDynamicsWorld.com
+- **Published:** 2026-11-17T20:42:38+00:00
+
+## Microsoft Went Dark. A Truck Maker’s Earnings Call Blinked. Car Dealers Mostly Shrugged. - Yahoo Autos
+
+- **URL:** https://news.google.com/rss/articles/CBMipAFBVV95cUxPVGNYM2Q5eXVHd1N5Rk81alpWLXk4U2V2MHVHLXlpR01rNG1iUGxuLVRfQkowZXcya1h6Rl9BQjFsLUdkT2JYSmRJMXJ6MExveEFTSTZaSUo4MmxCRjRKdmswWV9VelQtckg2T1FUdmhEUU5RTVFidFc3d1hOXzdoVjZZWS1ySG9DMkRreVZRNnRlU0xSN1ZUM3pPLTN4cXRxd0hPWA?oc=5
+- **Source:** Yahoo Autos
+- **Published:** 2026-11-17T20:42:32+00:00
+
+## Microsoft Previews Windows Server 2028 for Hybrid AI - Petri IT Knowledgebase
+
+- **URL:** https://news.google.com/rss/articles/CBMiaEFVX3lxTFBORG8xTEtNdC1VYkpMbWFfdEdGQmJpQlk1R2U0c240RWoxd1JkWG5rVWRPX2NBNlpsaHRhVzREMGpTYk9zX2dYcnRla09UU0tpbVJCbXdJaXRVTUZ6bFp4NVliTGliZ09L?oc=5
+- **Source:** Petri IT Knowledgebase
+- **Published:** 2026-11-17T20:41:25+00:00
+
+## Microsoft Ignite 2026 Puts Enterprise AI Infrastructure at Center of Nadella's Vision - Redmondmag.com
+
+- **URL:** https://news.google.com/rss/articles/CBMiswFBVV95cUxOQzVwNl8wckRXeDBiTnZQYXp4U0VudG5yT0VxUFdkYVYwYUl0NUtCV20yVlY2SVZUQmhHZXpwcjRaZGVsMzN6aC0xdS1PQURvbl83bS04S0JDOWVjOHBmaGFIYmFpTFI5anlIME5OdkJ6YmNfeUxuLW8ya3dpUDR4enI4ZEhqVEIzeFYxaVNBMldreTdTN3F1MklkQlhkLXBrUGwwZlprU3ROV0ZVYnpqRHpFNA?oc=5
+- **Source:** Redmondmag.com
+- **Published:** 2026-11-17T20:38:40+00:00
+
+## Widespread outages hit banks, air travel, the NSA and Apple, disrupting seemingly everything - CNBC
+
+- **URL:** https://news.google.com/rss/articles/CBMifkFVX3lxTFBrenZzS2J3U01hMzZWdnc1QUdyQ3NfMnQ1cjZydFF0emRKMzRMeVk2U3Q2TzNMbGtJc010MGV0YUg3ejYwa3VIWjdMY295WGtISm9VdnV1NHc1SVpoc0M3TjlCcG1pNmY1VENUVHhoODhrbjVOZ0VyWm53RUR2d9IBgwFBVV95cUxNd1lWUk5QV2pLblVYcjdTTEVFU21ENnpvT1o1WWlCMi1ZSkxJUmhuekxtQ2ladnlBWkdqeDRQN2lQRUVKY0hOa01CX01RWDZvejY1bWg4M2ZEWnBLUGlUc3d3cVNvQmVUSXh4SEh4UXpwZURLcXBzOHZndlctTG5iWklEMA?oc=5
+- **Source:** CNBC
+- **Published:** 2026-11-17T20:35:00+00:00
+
+## Microsoft's AI pitch at Ignite: Cheaper models as business 'token spend is going through the roof' - Yahoo Finance
+
+- **URL:** https://news.google.com/rss/articles/CBMi2wFBVV95cUxOVnVRWHhtMFBjdG5GNnFzekIwRkc5V1BDR2ROdTVDVzdCVkd1Zy1EcE9IVzBJWGZDWTl4V3RZNElnMVJUd2JfSnVjNVlJZG1vT3ZESGRGS0JMNzdKLTJlM2tMSTNsaEg2TkhmV1hPWmxYREtSNnBaSXV1ekJGc2RtV3c0MUFtd2FXdEdVbUpVc282VEdZRW5Mai1NTGpMbUVSM1NUaXlDYnM1dHUtd1JVYlEzeVFISUs4ekVUZ1Q1X2MyM0hvaTl4UE9VUlA2ZUlQUDNJYW5oYzA5UkE?oc=5
+- **Source:** Yahoo Finance
+- **Published:** 2026-11-17T20:34:33+00:00
+
+## Microsoft trades lower as U.S. considers ban on Chinese optical hardware, challenging AI supply chain - Traders Union
+
+- **URL:** https://news.google.com/rss/articles/CBMiggFBVV95cUxPaVZ2dmMyNDJjbUpkOVRTUDdPSlVkRzFHMTlVVktfTjhPRldNRkRDVWVVak9DYUdPa29TYUNBbnVkZklQT1kzcGhsRGdsM2tzMlRkaW9QOGRVSGJCRkRxOWVvai00U3FKbG5aOHF0d3hBY3RzYXdIYVVkNjczS0NjbkxR?oc=5
+- **Source:** Traders Union
+- **Published:** 2026-11-17T20:33:31+00:00
+
+## Microsoft Ignite 2026: Frontier AI and trust take center stage - MSDynamicsWorld.com
+
+- **URL:** https://news.google.com/rss/articles/CBMimwFBVV95cUxOZjV0ZVo4NUFJQktGdk1Mek9pUnBXaHJHSFlJRUNDS3NvbUdKMGhQdTVsRXNHRmoySnJxWUlBZG0wbFNJQURGY0ZmRXhJT1FUd2FfVjdyclpjQnlvc1NhdFRvZU02MDdueHY2Y1ZTYjZ5NVlsUDI1bzJMbVhrN1ZGMFdZTUV3UkRjdS1BOUNoVVp0VWxSek00SlpUQQ?oc=5
+- **Source:** MSDynamicsWorld.com
+- **Published:** 2026-11-17T20:27:40+00:00
+
+## Microsoft’s “Next Leg” Is Charging 500 Million Office Users More, Says RBC Analyst - Yahoo Finance
+
+- **URL:** https://news.google.com/rss/articles/CBMinAFBVV95cUxPdkZWaGl2UzgwcjBkYzVXUDM1Mk9YR29nVWhuM09KVnZsNTdTX0tBY0cxUG1hTWFteDlOaHdyWHVncTE4WkVJSS11SmpmTzJDeWdTLUhUM3NadFBhVHNSdHBJaDhqdGxGRXZkLVYtTHZiMlI2cTc4S2ZHY1M4WXMyd2cwUy1yMmQxbEFwVGEzemZfZlQwZVF3b2U2ZjM?oc=5
+- **Source:** Yahoo Finance
+- **Published:** 2026-11-17T20:26:03+00:00
+
+## Microsoft outage blamed on technical failures, as scammers launch phishing attacks - WPEC
+
+- **URL:** https://news.google.com/rss/articles/CBMi5wJBVV95cUxNMDBIdEUxWXBFOTNZWVVBTV92b3dNV1I1V2NkYVlLRTlhYW5VT2VnaGJScENmdFlqckhiYjhiV2tLemtjX2hrNzlUcDNtaHVod1hzS2JBR1hBUm1tbk5ZaGtHSzRVNUtZcWNpbTh2NmZPaHNSYlhySjRoTkJRVGNaTGVxN05PU1hiLUhOeWZrRm1OcV9ubi1LTXFTMjQ2VVQ3OFVHR0hVdUFHc1dXVkk3MUMzejJZc0Vvck5XUTdCM3BEazRFcC1MOFFQNXpmLUpaU2lORWtUQ292U3pYNjZEMmFoRHFLUDZFRWE1Yk02ZWFWbVkzenZzMWZtVWc5Q3hJMHNfLVNDLTlCcTJnN3l0anlmS0JMWlE1ZVRhLTNGcTh4cG9CNTBET2EtSTlaUnEtWGNQQ00zc2EyOUVwWV9ZVGxlOWctTHlkTW45WHhwMXhBUjlRTTI4Wl95cURUVS1nMktQMjh4Yw?oc=5
+- **Source:** WPEC
+- **Published:** 2026-11-17T20:13:51+00:00
+
+## Why does everything keep going down? Every major U.S. tech outage in November - Cleveland.com
+
+- **URL:** https://news.google.com/rss/articles/CBMiugFBVV95cUxNaDV6MHNCQm5FcmloXzZQZEJiWlRLMzg1YVFHaHcyMVBpTTdRR0dNd05PVUJsMTV6NjlacFR6cVJyUkhJeEEzQ1NiNmpHWWtZZUhvaG1SMGs4WURSTFpuOG51aHRmaU5HcldSZXJWMXVpXzdBeWExMUpiZHg4N09lek11cHB6MkR4NVFEaEExV05QQjlPZTFoNDFEMFd0QTlSYnlkbVFZOFpZT0xaeHlfTzRWUjgtZl9YUFHSAc4BQVVfeXFMUEtXWmlHT19xTXY5bWg4VFZJLTlZMXVkbnFyYkd2RXpjbUJiT1pWRnBIOWUxMHpRbVBzZ3YtMGpTLXVnWFo5OC1RVmwyT0o2bi1YbnVwclNmeV9odk5ma3R3eGN0ZjJXdjVsTnUwNDlrZGQtdXl0LVRWME5ZbHN5U0lfbkpEcWZCelE2R2NWaFRmMk1NVnFFMFZ0V1ZFZ1VZOENUZkhHaHh6d2RKUUZNMWZTUFpBZnMtb3VhOUQtcEtLaG4zOEtSVk11ZlNocWc?oc=5
+- **Source:** Cleveland.com
+- **Published:** 2026-11-17T20:08:00+00:00
+
+## Microsoft rolls out new first-party models and updates to agentic AI continuous improvement - SiliconANGLE
+
+- **URL:** https://news.google.com/rss/articles/CBMixwFBVV95cUxON3lVTnFtTmg5NUxyZVd5eTRfQk9ScWhTWklJMzNuZ1BWU3ZBa2JrZk8wUDIyMWJ5cEYzYldUMzEzdGhmTU5iRm0xWHdHRjFId3h3TDVJRkJtZ2ZlRE05NGczaENKT3VqemxjWmN5M3ZTTFpXSEtBbXNpUlM0MU5hdjVoVXZ4aUctN2pRM0dSNFZuZ1N5aFpzMEFMLWdILVh5VmczVmpWZzBwcmljdmtmbDBuNmtFTHNuamZZamtJQ3I3Y2xaS2tF?oc=5
+- **Source:** SiliconANGLE
+- **Published:** 2026-11-17T20:05:00+00:00
+
+## BNY and Microsoft complete first AI agent-negotiated Treasury trade - Investing.com
+
+- **URL:** https://news.google.com/rss/articles/CBMixwFBVV95cUxNQ0hxRGxjMTAzdDRsTTVVRnhqdXpZM19CTDRLbGNmR0txS1VXaDVzbGxwTXFsNzhnZ2wtTzlfMEh0bXhwaEJia0h6MHJBUGgyLVNEOU56d1ZtT3p1WVRnOC13bjlhWnRFU3NHWGQwQUdlY21lamhEbE9HcUthclJxTlYyZkQ3YkctS3BDX2I3eVNjXzlNSEU4NE5YdFc4eDJYemJfSmJjZkFFU2lPSFFJQjdFcGFONkxpbE5vV1V3Q1g4cFdQekZV?oc=5
 - **Source:** Investing.com
-- **Published:** 2026-11-17T07:39:52+00:00
+- **Published:** 2026-11-17T20:00:15+00:00
 
-## City of Anna Maria feels Microsoft pinch - The Anna Maria Islander
+## Microsoft’s Satya Nadella praises Jensen Huang, says return as CEO is ‘up to the Nvidia board’ - Fortune
 
-- **URL:** https://news.google.com/rss/articles/CBMif0FVX3lxTE1jekhEY29ERDQyTjE4UmEtM2EwU0ttR00yUG1DcVd2ZjZVNDlEengzemc4enJCSDI3U3RpSjBKeS03MXpxVWRWbGNtVWQ0Rk1VMFJ3ZGpONDNhYUhBczJmM3g3TGdWMHdHT0JoN1YtdjA0RDNtRU9BRFdqYnBFYk0?oc=5
-- **Source:** The Anna Maria Islander
-- **Published:** 2026-11-17T07:05:33+00:00
+- **URL:** https://news.google.com/rss/articles/CBMi5gFBVV95cUxQM3hQcmp5dXFNdGJ0QXpoamFyLWp4RnlRMWpQbklaVkEybXE4b09XNG5HQ1VKSEtGMXYyaEZfTk1fYmZQR21JRGs1S1laSWZPLXVVWElwVVBrd3NteTREZUtFeTNvdzRWZ19ydjdtWW5zYXhwYnRZb3dPOW84VU5IdW9oSWpLVFFNeWE2TWRTb19IY1RjV2VxS1FxcTBKTm5HNDZ1NjVPQzZOMm5YYXR1UjlEQ0hvRC1sbEZDd2hNczRINU1uWmlDQi1XUkRGV0ZjWEZBVDQyaUVZM1NCMzlIekY1MXdwUQ?oc=5
+- **Source:** Fortune
+- **Published:** 2026-11-17T19:58:00+00:00
 
-## South West organisations contemplate Microsoft outage effects - BBC
+## Microsoft Expands Windows Security for AI and Enterprise IT - Petri IT Knowledgebase
 
-- **URL:** https://news.google.com/rss/articles/CBMiW0FVX3lxTE1CMWUxNmFHcUhHUUxlelZJc3lLazByZ2xBSWFrQlZCYkxoc2dQZW1YODhqNDdkaUdfNmRZUTE2dklTR3ZLdzd0NnJTczB1QzZzc2VOWmdwRFlyS0k?oc=5
-- **Source:** BBC
-- **Published:** 2026-11-17T06:10:07+00:00
+- **URL:** https://news.google.com/rss/articles/CBMib0FVX3lxTFAxRm9BeFp4bVdMQ1lfSTBsQ21fc3NWQ0llV0lEbmNhazJCbDZpZEx0QWVrbGE5WExTeVduTThLSmxPYkRDV1lnaU0tU3RNa0xXLU5SZkZ0b0l2akN3dlU1bzB3eUcwT2xxbm92amY5QQ?oc=5
+- **Source:** Petri IT Knowledgebase
+- **Published:** 2026-11-17T19:57:54+00:00
 
-## Microsoft gives admins one policy to manage Windows patches and fixes for PCs that won’t boot - Help Net Security
+## Microsoft jabs at OpenAI and Anthropic, touting cheaper, customizable AI models of its own - GeekWire
 
-- **URL:** https://news.google.com/rss/articles/CBMihwFBVV95cUxNV2hSaGtIRFBBSEF3MFU5VTE1V3M3dThFSTY2em9xcllKX2xfMWZ0VjlGZ0xBUzg4cjNfNmNkMDF0LWloZEJCWm1ubTcwVW9kejlRNkZxRmV5bkx4SnRsUjY0ZHF3VGJhS3ZXeGxuXzJZV0NWMDBUbEc4Wm8zUS1lYS1Ia3hOT1E?oc=5
-- **Source:** Help Net Security
-- **Published:** 2026-11-17T06:00:48+00:00
+- **URL:** https://news.google.com/rss/articles/CBMiuwFBVV95cUxQX0pCVkNJTDc2MENyM3Y1Q0hJRzRyQkg3U2NxVGp1eXRzd2RsM1JNa1BlSkxQckZuSFVLZk1lMmZwdHJPN00xTWVQZi1rUURyTnQzNTlISXhVX1RMalNPMXhZLVpWVXc5eVQzcmZSYlVrY2psVERzN1MzMzY3TElCbUFNWkhBS1dSeklnOGVMVkdSSnVjeUxMUGxmbWFhOGlWWVN4SEtwQ2RhRUFUVG9mNF93UC1XQjczcnBR?oc=5
+- **Source:** GeekWire
+- **Published:** 2026-11-17T19:57:51+00:00
 
-## Microsoft Global Outage Root Cause - Coinpedia
+## Runtime: Microsoft wants to be the safe house for enterprise AI - www.thestack.technology
 
-- **URL:** https://news.google.com/rss/articles/CBMif0FVX3lxTFA1MG5QWkNnM1BDd0hWOEJlRzU0SklLeWlac0FPb3hXS21PaV8yRXJuem9IWnlXZS16MXZwOGQzdWduVWk4NlpRRE80ajdRN0pNYWY5LUpJMDJvak5oNkJ1aEJpUWJBOWRNRGFLQnh2eXFUem05ZWZBOHdTXzV4anfSAYQBQVVfeXFMT2RoMXBfNHFSbnJxVFl2YWJ5bFIybXlYMXZNVjRyTlpZb3ZjeWJmQnM4YWppa2V1SWVpODZwOS0zWjc0aXhVSEd3RzZ3TzQ5V1hvZkRjODJkTTMwTHRVWmduTTB6Nk44bzNsbFJRVkZyLVlDZ1EzaVpBXzFoMExQci1hQzgx?oc=5
-- **Source:** Coinpedia
-- **Published:** 2026-11-17T05:52:09+00:00
+- **URL:** https://news.google.com/rss/articles/CBMimwFBVV95cUxNSHBkN1NHaVp3S1dzNlZGZnpZVVFLdWR4MUMzSXR2UWRMV0l5YjkxWXJmbGZaSzc3dm5DMGRaN0swdEVFeUZUV0hURnJ6dm9aTDljZ05SYmcxbzk2VTVkM0g4cS1yUFNnVFpFRzlhcEF5dHpqSHpQcU13eWNCUDlBZS1TX0hETXhLOW1DZTFQOF9GSWszaG5TV1ZXbw?oc=5
+- **Source:** www.thestack.technology
+- **Published:** 2026-11-17T19:57:13+00:00
 
-## Microsoft explains what caused last week’s Outlook outage - WFMZ.com
+## Billionaire Daniel Loeb Swaps Amazon for Meta, Nvidia and Microsoft in Q3 — Meta Now Third Point's Top Holding - TradingView
 
-- **URL:** https://news.google.com/rss/articles/CBMi3AFBVV95cUxQaFBZWkJneXFwdVJqQ3dYQ0xNN2tPXzVSNElOTVFSUVQ5aWRHVkZvZ0dsY0drMklLTnM2NzVVdkl3bmg0THJmOFByLU1PUV9MTEVDanVZUHR3SmFqQ2Z5d3hkcXB5bUotRUJsYVVxbTlXSC1KcXk5cmQzQlVDZk85dzVFeER4ZWl1eFhabmktOWVYU21YRnhmYzFkQU14MnAyMjVPaHNFVlZVN0l3blhBODNXcjJlRDd6Mk5CYkFkTmZjOXZLWnp3SVdXNm9YTDhwdU9HNTVBZldBWllP?oc=5
-- **Source:** WFMZ.com
-- **Published:** 2026-11-17T05:35:00+00:00
+- **URL:** https://news.google.com/rss/articles/CBMi-gFBVV95cUxQM0pPa0lwQmxzVFFDcHJIbzFCNGU4ZV9QV1VSMS04dmYydVh0ckF1eHprcHh1LVhIWkloa0Z5aU1CRXJrOGFicUR1NnVqc2hKU2trZG1TOTJ0d1dkSzEwMDZ1bmltLTkwejBrYV9OeGhYbkw1M1lyYUlRWUJCVHlCc3JCMGtPRVB2WGV6OWNtdVdOMGtfd2g1LTBPODdHZXY5SFZvVDJ5SjBJcUxIOV95SU1oU0sxS0F1aHdLazQ1eml4d3c1LV9mcmphY0VjU1RSQXNaVUpMSjVoUDF1N2h6UGlTamlHN2hkSGhxYURGMXRFLWRYUU5feXl3?oc=5
+- **Source:** TradingView
+- **Published:** 2026-11-17T19:53:55+00:00
 
-## Months-old bug behind global Microsoft 365 outage, executive says - Human Resources Director
+## Gmail and Apple’s apps suffer outages days after major Microsoft disruptions - The Guardian
 
-- **URL:** https://news.google.com/rss/articles/CBMixAFBVV95cUxQb2t1dTNzaUJsRnlZX0dWM3RmWUJTLWJGR1JScGZycmpUcmpyaU9HN1NpYmx5eVFialVtcFVndVNzTmNBUVR0RDhIMXgxbUp1M3lxS3lnS3VEb0RQdkxyYUtzX0VUZ0FrNTFCTjlIeU1PaHVRY1FkQzhQdWVmNkVpa0hHQXQ1UktWN05yeF9aZy1YaU0tLUMxZ0JUVnU5U3U3RnMtcGpWMEhINkpNZHdIbVZFQlJySVR6OUt3eEJ2UVNFV3o3?oc=5
-- **Source:** Human Resources Director
-- **Published:** 2026-11-17T05:28:24+00:00
+- **URL:** https://news.google.com/rss/articles/CBMijwFBVV95cUxNUWoydEpabXFiMXdIc21GLTJaczltUEpQUHJvc0JLcDVGSThuRVZSYW82X2tWT29XUzUyejBaVkFEZUVkX05TMzZ3elhOS1d1VFBuMHpfQmU0SC1uNG1WRXJVNFlVY2FtazlpU0E3LVhhalBGbVNyemVPb2VJdkZHdXVFMm9BbExWNlJZcVlLcw?oc=5
+- **Source:** The Guardian
+- **Published:** 2026-11-17T19:45:00+00:00
 
-## Ohio State University and Microsoft partner to expand AI and cloud capabilities across healthcare - DOTmed
+## Microsoft to Let Customers Customize Its AI Models’ ‘Weights’ - The Information
 
-- **URL:** https://news.google.com/rss/articles/CBMiUEFVX3lxTE5PZVZIRkFQWjBtb3FNRVBIaU40WkhhdEstU2NmalJXYUUycHJ6cG10eHhzVXBaNTYtNjVodGpJRXFpbWFwWGd4NGNVWEJzUFJm?oc=5
-- **Source:** DOTmed
-- **Published:** 2026-11-17T05:12:15+00:00
+- **URL:** https://news.google.com/rss/articles/CBMilwFBVV95cUxNcUdmOVo3dXJQNWY3QTJfNWk0WEVnUTgtTzI3SU5YbUxGNDlWd1lsS3VxNTZKb1F5Q2hyelNHMUhaWV9JMWtTTC1WZEFNTUR1X3JtaE5KTjZOYWVPT3JMUlA0ZHhOMUE2NGhkRGl3bjZVeFQ4N3lveXBqNUNGTlIzOHdjdHlRdFNHV2xQb0FpUl80aTlHeHhz?oc=5
+- **Source:** The Information
+- **Published:** 2026-11-17T19:40:00+00:00
 
-## Microsoft, flights, now banks: Back-to-back outages leave some people on edge - FOX 11 Los Angeles
+## Microsoft AI Releases MAI Code 2 and MAI Code 2 Flash for Enterprises - Unite.AI
 
-- **URL:** https://news.google.com/rss/articles/CBMihgFBVV95cUxNUHgybU85ZFBkeE9XcEVuQmtOX2tyN1ZwTEJNcjhVak5waDFlcWp3ZVRpSVVJUFIySDZEeEtocW1leXY2QWtQWlF1bmFCM3g2THNSRE5oV29lVXVHWExBS1BFMDhidU9SeHNnTkpxXzNjbjJ5T3lzeS1IWG9TOU5HSlBTczNMZw?oc=5
-- **Source:** FOX 11 Los Angeles
-- **Published:** 2026-11-17T04:31:16+00:00
+- **URL:** https://news.google.com/rss/articles/CBMilgFBVV95cUxNZkcwN2Rjcjh1alFjeE9mU0tra0NETFU2ckNfQ1YxVHhOdjUzWmFGSjNvZ1NWYnRMUmExUzExWmEyUEoyU08wdTB1ZWF0YWJDc2RubTB5VXZUQkJ0TklFZGdzbkhfN0Fwd1hFRDNzVmtwVjFUMDhCeHpSSmdGVDd6eE1IaGtZWWEyU2RNYkdfMnh0d3Z6MGc?oc=5
+- **Source:** Unite.AI
+- **Published:** 2026-11-17T19:37:03+00:00
 
-## Major tech outages with Microsoft, FAA, and banking systems expose digital vulnerabilities - ABC11 News
+## Zenity Expands AI Agent Security Coverage Across the Microsoft Ecosystem - Yahoo! Finance Canada
 
-- **URL:** https://news.google.com/rss/articles/CBMisgFBVV95cUxQQzJHS2QzU0hpbnd5aFRXNzdacDZFWUxjSjhxSzMtY2xBeDVQeGNCZzdEeEd3UkNlNnNTaFFPUG1wcmw0LWo5ODg5cUVxQ3d6Y0xuZ2k5dVV0eVh0NFVMMmdxS3BmN1Z6eFJNQ2ZMRE1sMzQ0VzlFZFVISDN5S2NpTmdzYVltN08tODBXanpKZS01cXNzMjJtbTZ1b3RjcEVhcUJaenlzVl9OV3BuejZKdVhR0gG3AUFVX3lxTE5EaHZRSWRvLUNfMmwyYUx5OGtYOUYyV0JNVkJJY00xMFFhelliX2V5ejd5Q3QwY19fRTh3UVZlRGdlTWQyMEp4WURvanI1OEtLNkV3dHA0MndNMW5JYjVUWWFMWEt6TEtMcmVyM3c4VFdMRmpIQkpUWTcwN01ETzNVZkFmN0lNUVBST0ZuZWZUakxCSlF6T3NXVTdMbFNEYmtmMHJDZUNkV0wySWlzdzQzUkltYk05QQ?oc=5
-- **Source:** ABC11 News
-- **Published:** 2026-11-17T04:30:18+00:00
+- **URL:** https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZXdoZ2ZrSTVYMVRlVUYxVzhFR2toNTkzOHJIZFBpd29EOGt1WHFXSks0b0tOU2RmZ0poWmozZDdTZ09Rbkt2b1drMUF0VEZvVzNvVnFwQUZsbVN2ZnBxUUgyblBLa2U0eEljbm1Oc0o0ZUxxMzRIR0V3NVVvc1hsZXRQYi0wNElI?oc=5
+- **Source:** Yahoo! Finance Canada
+- **Published:** 2026-11-17T19:35:00+00:00
+
+## Why Apple is down in a week of outages from Microsoft to Chase - Yahoo Finance
+
+- **URL:** https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdEUtVFNUUnlmNlZfdS16TnNIaVpxaHEzY3F6VUVlZnZkZnVrOUttdlFmTEdnWExQbjlkQzlKQ0I0UW9iR2x4TENvVENYQUhfY1pYNDBKNnlFSHJoYk9lQ1V0bXRXcnRpem9uQUZjdE9QTVU5czl6RFpWbEtlUHhTajRtQl9XYjlEMGY5VjE0OTBXams1ajBzSklGUUZRMWZnWlNzUk4ySG9SbS03a0RRRERGQnQxcUFwQ2tj?oc=5
+- **Source:** Yahoo Finance
+- **Published:** 2026-11-17T19:34:24+00:00
+
+## Atlan and Microsoft Collaborate to Extend OneLake Governance Across the Data Estate - Yahoo Finance
+
+- **URL:** https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYTBsZWRUZEpCVWUwWDNxaHBMdTAxSHlrMDVOQlNjRHJILWJScGtHRGxOdVU3RkJoRlZ1LVN6UndlUUk0Q3YzNzVZODNUR0d0NnQ3VVBYb1hURTVNZHZYOGotWm1Kc0NlZFFzSHNfZHpSQjc1OXhTbE9SMVBqcmZiSlVHaXdRQTc1TDdiNmhFOWJVcF84S1NtOEE4VkxTSXphZkhrUjh5cGhpdw?oc=5
+- **Source:** Yahoo Finance
+- **Published:** 2026-11-17T19:31:00+00:00
+
+## Microsoft Ignite 2026: Top Azure Announcements for Enterprise IT - Virtualization Review
+
+- **URL:** https://news.google.com/rss/articles/CBMivgFBVV95cUxPMjB0Vk5UdkhfRkdNQTVWVVFMckowd0FVOElwaW85aTVNbldvTENYMXF5dEd6WjdONEVrYkRKTkFtcVJVUV9ZbWJNY3Fuelh2SExSMDgzY3hVREJhbWpWRkdCSTVlVjduOWQ1M0w0Vkp1MWw4T044YlZxcTduNURtWDcwR2c5LWNKOTVMMWNOd183c1hiOWVNYWhqdGxiRDU4TDgtdThDWnV6clQzcEhUWlFoTVpCZXY5UDV2Zm1R?oc=5
+- **Source:** Virtualization Review
+- **Published:** 2026-11-17T19:26:21+00:00
+
+## FAA, Microsoft, banks: Why it feels like everything keeps breaking - USA Today
+
+- **URL:** https://news.google.com/rss/articles/CBMiogFBVV95cUxNWGlOa3VFSE1MZnl5dlR1TzE2YnN3TjAzRHgxVWZEMVYtSDV2dmRWZnVuY1doc2JfbnhGRnhoQzBKS1I5VmlRVXRwLU45aGxKNUVaTXdfVGtOcU83T3VxV1NaWWphMWZqbXlya183REctRkFpRksxZmxSTXUyUl9ZV1ZMNGduOEI5Nm9MX3BzR05oZ1g1RlhJdGYwVERDVTk1ZVE?oc=5
+- **Source:** USA Today
+- **Published:** 2026-11-17T19:25:00+00:00
+
+## Microsoft Ignite 2026: Nadella Says ‘We Have Work To Do’ After Massive Outage - CRN
+
+- **URL:** https://news.google.com/rss/articles/CBMisgFBVV95cUxQbjNqRXVINjlkS2c4Z09JMHlpWVlfc1dJUmF1cktkUTZnbjZ4dEt6d3RYS0pUTF9VWXBfZ3RvbGR6VUw4ZjBsZm1CbDkyR2NOaFZLLVh6ZGUtNDV1ZXJqQzlVcFZSZnBYVlFaRVQ2c1pfaHMyNzRNNkhMRnozZ0dTVXgyYXNQcEhYN3FBTXBnSkxIVVljRURaUGsxeUxiLUVFamppNFA5ZTVUZ3ViN1Z0cHZR?oc=5
+- **Source:** CRN
+- **Published:** 2026-11-17T19:25:00+00:00
+
+## Microsoft Stock Falls Amid Sector Weakness and Outages - Benzinga
+
+- **URL:** https://news.google.com/rss/articles/CBMitgFBVV95cUxQU2lsc3FrLXo4S1lodE02VFdNc3RlbGY5a2NTTTVjVmtPRDhic3FfME5UQmc3cWhVSWVjbFY0RlBpZ2dTUGMyX2J2N2hQSnBScjhFMjdrMUFXVzNjYldjcExQeEJvYkpEazUxQ3djbU9POXRpWjJpbjd3c3NqeGpKR0QxY0lod3JvdXd4QUFiQ2JmVXRaMmt2cUt4Z2dlNlloYTBpOE55RE40SUlmbG81WFplY1dfQQ?oc=5
+- **Source:** Benzinga
+- **Published:** 2026-11-17T19:24:07+00:00
+
+## When Microsoft went down, the phone picked up the slack - TechTarget
+
+- **URL:** https://news.google.com/rss/articles/CBMimgFBVV95cUxOcWR1X1lULWRlUFNjam1KamNRamxDZGkzYzFJeENnem4tS3ZPUXNWNzdDSm45YmtFaThfQjAyRUM1YzFaMVFGLUdJT1FGT0FuQUU3QmJBWHlqV2JhcnNkU3QwLXotVm9pQjJWckZzVmtocmw0MUVxVk9EOS1iYW15NEpJNlk2ZXZ6R2ZCOFhkRmp3OVR3bUNhUW9B?oc=5
+- **Source:** TechTarget
+- **Published:** 2026-11-17T19:19:39+00:00
+
+## Microsoft and Salesforce Launch Copilotforce at Ignite - CX Today
+
+- **URL:** https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMzdfX0NxZzRFT0ZUa1dUd3JjNU5FX29kTzMtTkFSTlNaUFZmbVFLanRHdHUtQzQ1SUotWXIzN0FwbEgzeEVvZTNvNWIwRlJiam53SXQ4ODFtOTN2OUcyaF92SlU1VU5wV2FMTmFTUEE2UHB2MmF0d1F5N0VnR3lqSkEzNE1mNXg0ajE0NGNsYWZCb29Kb2V1aWxBdmlHSWM1TXFKYUpseEc3eFk?oc=5
+- **Source:** CX Today
+- **Published:** 2026-11-17T19:18:11+00:00
+
+## Ignite 2026: Microsoft Makes Copilot the Center of the Office Experience - Petri IT Knowledgebase
+
+- **URL:** https://news.google.com/rss/articles/CBMiY0FVX3lxTE81d0Q1UEtUb1VtVnQ1cUcxOExzUGpkYktOdlU4SVZNQlRwa3k5bkJGbkpOQ3dja1J1VkxwQTF2Y3A5U3lnanhrTXpNTnRQT0hYZ1NEQVZ2VFY4UU80bFI5VW9Vcw?oc=5
+- **Source:** Petri IT Knowledgebase
+- **Published:** 2026-11-17T19:17:59+00:00
+
+## Microsoft launches seven MAI models at Ignite 2026 - TestingCatalog AI News
+
+- **URL:** https://news.google.com/rss/articles/CBMiigFBVV95cUxQSFdLdjk4UTFqbjZ6Y0tTZkJOOEZ5aTJwTFF2Ul9wOWw3UmQ1amdRNW1YSmIzLThFZHI4Zm12Q1BTb3N1SEFFMUdqUzViN0ZzYUtXY00weVJlTTRwRmxhc2xFdm9BYm9BbUJYR1Z4UE1vNHlTSXRzUXlVWHgwWXNoX0tla3BfVlgzT0E?oc=5
+- **Source:** TestingCatalog AI News
+- **Published:** 2026-11-17T19:17:29+00:00
+
+## Microsoft Work IQ Moves From Understanding Work to Doing It - UC Today
+
+- **URL:** https://news.google.com/rss/articles/CBMisgFBVV95cUxPNXpXLXp6MG94NFcyWFNuR0M4b3Y2SnhIU3Z1T1lOdF9HQUY3cndJa3hBMHB4aTFsdUUxTmFFOHk1Z1k0Q1FNUTJsc3psSXl3SUxTUkNQUnREV25IeklLS1JYTFQxcWotQzZVd0VkOVhieGxoQVpuRDkyajJIUHRFb3FSMFREdGpiNGlEa1RTcmZPRDNmTjJRbjBuS3Z2RDVXTDFkWExXZFhlRnQ0c0hiT1Nn?oc=5
+- **Source:** UC Today
+- **Published:** 2026-11-17T19:15:18+00:00
+
+## Microsoft’s new coding model promises near-Opus performance at 5% of the cost - The New Stack
+
+- **URL:** https://news.google.com/rss/articles/CBMiV0FVX3lxTE93ZDh2eWZPSWtQNFYtbElmc1d4QldxakZSaVVnaDlSaGw5c2ZfT3BxaWdpalJJdHB2Z2J1UUpOUjE3bVNrb2pobnRSZVZWa1NsbXNRRlkyVQ?oc=5
+- **Source:** The New Stack
+- **Published:** 2026-11-17T19:15:10+00:00
+
+## Ignite 2026: Microsoft Advances Windows 11 Security for AI and Agents - Thurrott.com
+
+- **URL:** https://news.google.com/rss/articles/CBMiuwFBVV95cUxOa0FqbktnLUhVSmNYTEEwME9jaXBEeUdSWU1vanl1bnE5V1paUEM0WjVySjZFMHA1QW5vUDcxc3VSSDF5QU1TZnpCLWFkRzhiYVo5R293dW1pYnNKWW1lM3FnU0c3czltTS1zT0oxU29BamVGc1RCM0hGS2N2SHpjSm81QUNxU0xDdjBtWmhIM2V2QUxqRTljbHlsRkdZWFlPakJBVl9BTzV4V2ZmMTlvM1NiZ3Vpcy1CRlRv?oc=5
+- **Source:** Thurrott.com
+- **Published:** 2026-11-17T19:14:52+00:00
+
+## People in the US: share your views on the recent flight disruption and Microsoft outage - The Guardian
+
+- **URL:** https://news.google.com/rss/articles/CBMi0AFBVV95cUxQYnNUMmVJbzBZb2t2bHZVeFd0YkdSZTZNa1EtNG5vZGV4c1FNVVBrOHhCVXZkRGtVaVVXQkxVVHY3SFROZi1BbkxEVFI2VFpvQnp3TTE3Q3BQakcwMXR6TlBfMEowOE5ZYlQ2ZjBvMzFQbE1jRzFFZWdZdmxudThodkVvaENlNjFzZVZGOERDZmFpTEhoTXluZHF4WFlNX1ZFa0E2el9TVGZPLVFsbXRSbHhNeDRUQzR2cGdiS0VadXZ2c1pQcjZHMEY2RjZrUG5p?oc=5
+- **Source:** The Guardian
+- **Published:** 2026-11-17T19:13:00+00:00

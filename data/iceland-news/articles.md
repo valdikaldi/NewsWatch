@@ -1,8 +1,86 @@
 # NewsWatch — Iceland News
 
-_Last updated: 2026-11-17T12:49:33.944582+00:00 · 50 articles_
+_Last updated: 2026-11-17T22:03:42.337915+00:00 · 50 articles_
 
 ---
+
+## As gentrification culls Reykjavik’s venues, Iceland Airwaves gives local music a stage - Mixmag
+
+- **URL:** https://news.google.com/rss/articles/CBMivwFBVV95cUxPLW44TFVFdmdaUkFqWWd3eGIxaUluMXVvQkRaY0JBWm00cTlaM0RLV04zTlpZd1d6VDEwd3c2dmhMQjQ4Z0JKejl1cmJwQTNJRHZja05XSVRDZWs4WnF2NERLRGtlTC1hdU9IRnlhaTVOQlBKZm5YdGxlSERtVWJaZ1ZxZzA3WXQyaEFRQXU4Z1BYajJYdk1PSktlNXdVWFFnX1BKRGZKQUdVRWpuejNudjNQRnpPLWN1a3hiVDV4Yw?oc=5
+- **Source:** Mixmag
+- **Published:** 2026-11-17T19:00:52+00:00
+
+## Parents suspected of giving underage daughter away in marriage - Iceland Monitor
+
+- **URL:** https://news.google.com/rss/articles/CBMipgFBVV95cUxPSHdOV0ZLM0VFajZNZ2g3aTRuY0dlMEh1cGpMallRUmI3dEpqc2VJdmlUMENRZHNjYVhYVWZRREd3OGZTVmoydE5jQUx2eXJISkdsbnFnLTVXTklROE5oeHd6cy14clBrLXo2VHZxRnE5ZG0zeURKRm1udElNQ1hDTXA5Ulc5UzJ5SEdRYlI5ekVXUV9PWlllQy14aENMUXhRMkZCYy13?oc=5
+- **Source:** Iceland Monitor
+- **Published:** 2026-11-17T18:57:00+00:00
+
+## Comments Closed For Residency Regulation: Justice Minister Promotes Immigration Theories On Alt Right Podcast - The Reykjavík Grapevine
+
+- **URL:** https://news.google.com/rss/articles/CBMi3wFBVV95cUxQa0RIMkQ4VjhOSFc0ZjYyUV85N1pTaHp4ZFFqMlRaZ2RmMFVrczZzMEZoVVpEaU9PWUZfRVk1QS1oTWJNVTUyN3o5LWQyUkREUmZpRmxCR3pJX21KS1JUbjNJSXJUeWFJb2JpcHFFRzRlaTBYMEYxSkNZUDd5cVY3LUlLaElIVDg4S3dBQ1ZrWnptM1NkVHBOVm5kUkNWLU9mbmNiZjFaTklpMWNUWGtjNG45RC0zaEV0QnliTWJSZjgzcE4zWkV1MzRTR0NCTlhaOG1Ham91N3dhZmRKcUxr?oc=5
+- **Source:** The Reykjavík Grapevine
+- **Published:** 2026-11-17T18:48:26+00:00
+
+## MP Leaves Government, Sheep Digging, Blue Lagoon Public & Pending Deportations - The Reykjavík Grapevine
+
+- **URL:** https://news.google.com/rss/articles/CBMiwgFBVV95cUxPWG1yc2pQTzRoM1VaODJsUlBLbWZOMVZsVURNUURvZmZiczk4V3NsVGVVTUR4a2M1TEVHbFNyYXM1MXAtZ245QkVPR2RsY2V0YXRjeUZTVGF6MUFNeEtsMkZmZGlGMEtfVzVkNF9kdjRLOGFTTmcwRnBGaXRLWkxZWURnV2dzZjF1NTlwajJIUUxJR2ZDZ2NxMUlqVm1JTW1aVVVoTXNxQTVyREQ1eFlIbG1tcko1dTZjcVRoRU9ORnA4Zw?oc=5
+- **Source:** The Reykjavík Grapevine
+- **Published:** 2026-11-17T17:44:09+00:00
+
+## Taxing the Golden Circle: We Should Know Better! - Iceland Review
+
+- **URL:** https://news.google.com/rss/articles/CBMic0FVX3lxTE1JMlJUR3ZZQ2xMc0E4ZS1hYWNyai15eUsybkllTllQTkdQdUlOMXA2SVJ3VHJ5eWxmcXV5ampjS3I2dDBGR2p2cEQ1S2NuWEliZ0JpRU1qNlJYVFJiSVpPZF9UWnZkbHR2OS1VazlNVWF0dlk?oc=5
+- **Source:** Iceland Review
+- **Published:** 2026-11-17T17:19:15+00:00
+
+## Outside the Usual Bubble: Discovering Hringbrautin - Iceland Review
+
+- **URL:** https://news.google.com/rss/articles/CBMiogFBVV95cUxQdVY0RTJFVy1sQjcwdkFObFZ3XzdHc2pCVE4zMXJ2aXpXLXYwNUpDdlJzeU5VMnBRcmU0U3VzNklaVWpVUlBTRjdpUWgyRmRRQlpXakxGQ2VuTmNkRXNmb0NlYjlJby1PNndWS0M3NnZVeGE1Sk96dEZrNzRCb01paVBNVmlRUHJJOG40MDA5WUpTQktNS1FGODU4NU1kV1BGU1E?oc=5
+- **Source:** Iceland Review
+- **Published:** 2026-11-17T16:28:18+00:00
+
+## Wolfheart Release 'Ravenstone' Music Video Filmed in Iceland, Announce New Melodic Death Metal Album for 2027 - Rockum
+
+- **URL:** https://news.google.com/rss/articles/CBMi3wFBVV95cUxOWEVxSUxEZDdnOUVuTlUzakxGQmNxNnRGaHpnWDZNWXRXazNmOXFlVHFBTTZyOS1aeC0tcjJQUEpwOExfZVFqTVdQUG15X1VIa2ZQRjVQY0ZvdnJ0WU5uR2FGMEx4RFdyc3lOUnloV1czR1FDaGRxaHo0MnpKeVdxZmdjZ3BKUENjbzdJWWVDQzY4R0hMUGwyZXh5cEdMaGIxcHNmSkkyWXdmREY1VkVha1lVVEo4TXpQSkFILUtuMzI0UFNQb2VBaGN4aGNqTTRpOXFaejJyYWM0SGR4RGtz?oc=5
+- **Source:** Rockum
+- **Published:** 2026-11-17T15:54:05+00:00
+
+## Vilhelm Þorsteinsson Breaks Free During Severe Icelandic Storm - The Fishing Daily
+
+- **URL:** https://news.google.com/rss/articles/CBMiwgFBVV95cUxPc2VGUVZNck1wSUZEeDJuakJfd24yZTRZblBnNlFJOFpJaWV3c05abWdGMWloTlJUVW1jQTNWdmZ6S3llRzlNeU5wWDVmRV9FTkNqd3pOcUlRMy1ZVk5CSkYxME13SGdRaFZqR2NTQzZFNk1jWEx0cnlrZkJJUy1vc3lMZE5yX2ItQXVKMG5BQ2xPSXBVNVNnUTdtVmhVTW1UUEtVM05fZ3RIMVNhcWNBZW1OV1EzVzJFOHpEU0ZGdTRIQQ?oc=5
+- **Source:** The Fishing Daily
+- **Published:** 2026-11-17T14:21:09+00:00
+
+## Korda Networks taps Pioneer Consulting for Iceland-Scotland submarine cable project - Consultancy.eu
+
+- **URL:** https://news.google.com/rss/articles/CBMiwwFBVV95cUxQRXhvS0xteWgyOWVHSWxEbUZFVmxlX3l5Q1JZNEdLS2phV1FJOFhUM212ZnNTWEZFeGpiRG9naUpqNDc4MDFhSmRYZ0xicFM4WDlydlF4Wlg5VDdPYzY0bWJoanNoaWxPWmVBejItMXBYWng5Rk5hekFHNUZMVGNUeXJEdlplVXVjMHdINDMzOUdiRmVNSi1SLXQtam5ZeG9ySDZya1VfV3VJdnltcnZVTExocXZCVlYyQ3lQcGpUU3BLeDDSAcMBQVVfeXFMUEV4b0tMbXloMjllR0lsRG1GRVZsZV95eUNSWTRHS0tqYVdRSThYVDNtdmZzU1hGRXhqYkRvZ2lKajQ3ODAxYUpkWGdMYnBTOFg5cnZReFpYOVQ3T2M2NG1iaGpzaGlsT1plQXoyLTFwWFp4OUZOYXpBRzVGTFRjVHlyRHZaZVV1YzB3SDQzMzlHYkZlTUotUi10LWpuWXhvckg2cmtVX1d1SXZ5bXJ2VUxMaHF2QlZWMkN5UHBqVFNwS3gw?oc=5
+- **Source:** Consultancy.eu
+- **Published:** 2026-11-17T14:08:10+00:00
+
+## 75% of journalists have experienced harassment or hostility - mbl.is
+
+- **URL:** https://news.google.com/rss/articles/CBMisAFBVV95cUxOdGxPdFlQTWtSLWRwazRJeUFtN1FlbVVMeTFIdUF4T1FuZjkzUHVQQUszRy1vaGRrV3Y1ZEd0RHRIbm5RSzBSUkxNQTJubWE3TXRHbGRSTTVtZl9lQzdESkNwcnZFanF6RTExU0lEWVk1UTFkbFl2bTlxV1IxUFRBZ1RLMDdFVlRWUUVxd1NlUlY0b3RVQVlLdmJwMjhWM2NpM3Q1cDBnNnM1dFpjbTNoSA?oc=5
+- **Source:** mbl.is
+- **Published:** 2026-11-17T14:00:00+00:00
+
+## Forecasts - Veðurstofa Íslands
+
+- **URL:** https://news.google.com/rss/articles/CBMiS0FVX3lxTFAzUG5pVVFwTlZQN2p4RkUxSDBxUE85VWRXLUdHNVg2Uld2eUxBNUkwRGcxNmxpY1gySDhrS3JYZU1mQWF0LW55a0lmSQ?oc=5
+- **Source:** Veðurstofa Íslands
+- **Published:** 2026-11-17T13:31:39+00:00
+
+## Veðurstofa Íslands - Veðurstofa Íslands
+
+- **URL:** https://news.google.com/rss/articles/CBMiPEFVX3lxTE8zdk9WTXUwY3NRTHdmTTNHVXZIWW1ZYV9PSUJEU0xfQUw5aHJXR2dPd0xCdFFmMmxHQkY0Zw?oc=5
+- **Source:** Veðurstofa Íslands
+- **Published:** 2026-11-17T13:09:29+00:00
+
+## Iceland Rises to Nations League B as Aron Einar Bows Out - Iceland Review
+
+- **URL:** https://news.google.com/rss/articles/CBMilAFBVV95cUxQNDQyQl9rWHcwbzg1eFFyWVE1NzFsN3V4Zm9oSHh3S1BsRzNiZmFKVElLaFZlVTBzNXo3eGxhLWFVOVY0cktDTTRQOXY0REVjOU9MaXkzV3NDd3RaYWVIZ2NYMlVyTkd2RkFTcWQwTEpLaDd0Y2VKVWhrS2c2d0lUc09rS1NwT01ZM1FMRTR4UlJ3WVg4?oc=5
+- **Source:** Iceland Review
+- **Published:** 2026-11-17T13:00:36+00:00
 
 ## Iceland Lists Items Ghanaians and Other Foreigners Cannot Bring Into the Country - Yen News
 
@@ -225,81 +303,3 @@ _Last updated: 2026-11-17T12:49:33.944582+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTTBGNEVYNDJfSmlILVktRkZLdTBjc0FwUm5BYXg1djBIVEppOW91Q01sZTNhR3hTc2o4NzVpMVkwWDh3bzlQUldHbXlQU2IwWHAxQUs0eEI1Qm9uZzNLb0p6d2x2SXFRcDlCSm5vYXpod01ScUlZSzVnLUFZTDRTRFNDRGNQZFROWDFMSUNjeUhyYXljMVlpckMwaUpjYVQ0ZElfR2RCQjhMVG5EdWh3OXg3b2wtcjJKY1Bj?oc=5
 - **Source:** CGTN
 - **Published:** 2026-11-16T09:45:36+00:00
-
-## Foo Fighters announce 2027 European and UK Take Cover Tour - Chaoszine
-
-- **URL:** https://news.google.com/rss/articles/CBMiogFBVV95cUxOSFZXbkQ4VktacUxzUW1kQ3RjeVRYbHI3Tk9HRzFGbW9JVGN2NVAyT25sV1hPam5UWHdUZ2NVS3JqWlljQlBOY3Bhc2RnOWI4bjFlSHNadHZuNmZGbDdmak1EU0NoWFJrNkxaSWo1eUE0X2I2Q1JTcjVqbklWSUdXaUJGa2R3N1ZiTXpoWUR2bVIxY0N0M2FkcWREMGtQOW04a0E?oc=5
-- **Source:** Chaoszine
-- **Published:** 2026-11-16T09:13:25+00:00
-
-## Iceland vs Luxembourg Live Stream: How to Watch UEFA Nations League (Nov. 16, 2026) - Fubo
-
-- **URL:** https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZVJ6RS1rbWZwc1BiWmJQdUdyZHRJQ0xSVFg3OThzd21Vc1RseFV6TmNKN183dkd4Um5hM09mY1F3XzlkYml6a2JHcnZGRTluQTlHaVhuV0YzQmhzR2JSSWJUNG9MRHVOQ2o0eTV4THN1cl9QTmF0dTAyWDgzOU5wOHlQejV5cWg4QzV4UGhVdm9RNWJVdTJEQVVSQVlBX2FWSGlxMkhncVdud2kwejNicUw3T2NTLWVQc20wQjkwbkphUQ?oc=5
-- **Source:** Fubo
-- **Published:** 2026-11-16T08:37:30+00:00
-
-## UEFA Nations League: Iceland vs Luxembourg with English commentary at 6.00 pm - RTL Today
-
-- **URL:** https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbWVsV1F3WThXRmI3TkVnREtGOEIxcEM2TzFYZTRQMllIbEFQdlpydko2eXZJcjItWGotc1J0TWFGWHB1V1pPaUJmdV9jalI4ZEM0b09odFdjejFRdm5LREtRSDhqMHB2eUNKZjJ2T2RyUER2dkVSZXI2Ym15Y3JnVWJJMU84ZDFmMEotOFhaMzVOY2VaMWRfNEpPbmJSUE5KQTlXSkN2TW5IUVU?oc=5
-- **Source:** RTL Today
-- **Published:** 2026-11-16T07:46:05+00:00
-
-## Iceland Plans Tougher Traffic Laws to Rein In Dangerous Speeding - Iceland Review
-
-- **URL:** https://news.google.com/rss/articles/CBMilgFBVV95cUxNVy1uLU1wajF1dThWeDdERFJRaVBRNDZqOWNTbjF1WGkweEoyYk9fSGVOa3NBcnp5VTNDQkZ4Q2p5MEJXVHl0c0d6TW5MUG55cTJBQmVDanZ6NVktU0p6MU5RUjdLcHhJclN4YllsUV9QTmliU0lTdDFaWnBOcVpQa3lVallycFRnXzIwMWh3bU5BZWZYM2c?oc=5
-- **Source:** Iceland Review
-- **Published:** 2026-11-16T07:00:00+00:00
-
-## Iceland FA and former Stoke City players lead tributes to Gudjon Thordarson - The Sentinel
-
-- **URL:** https://news.google.com/rss/articles/CBMiqgFBVV95cUxQS3Y5REVySG5GSTB6eUlfelNPbDlVbEhTLWphR3c0cHk1ellJcWtvSDlmRjk2azYza0Vick12ZUJvSDJ6bW1iSGNGbndNNTFwUktWZl82bUFYWF9HYlA0REtyMmFDZWRwbHA0cEljdGdLWDl4ZnFNZFptOXAwc0E3S1RXV0x0OEZUNTNzOWdFUVE4Y2dCX0NzNUw5MTFyenlYc19JVGNQT3pMdw?oc=5
-- **Source:** The Sentinel
-- **Published:** 2026-11-16T07:00:00+00:00
-
-## Drones assess Laugardalslaug maintenance needs - RÚV.is
-
-- **URL:** https://news.google.com/rss/articles/CBMilgFBVV95cUxOUE9QR0dQeDJxY2tzUGc0a2RGMWg5bklyU2tTYzNGYjItZVVDYlU5dTl6NzQ1R1JteXU4NXJILWVfUXNjU1dUM3MzYlNnVkowN0VJRS1KcW84YnBQcERKbDlxdGRXMTJwUDV3czdTci1aWUUxc2RtMjRwSUFMM2FxMmg0STV4aGxRb1MxaDBTSlBXVGpsS0E?oc=5
-- **Source:** RÚV.is
-- **Published:** 2026-11-16T06:40:00+00:00
-
-## Iceland vs Luxembourg Prediction, 9/1 Bet Builder Tips - Betfred Insights
-
-- **URL:** https://news.google.com/rss/articles/CBMirAFBVV95cUxNbzRjZmllRWtvUVo0QUh6QnUyem12VUF4Tkh2S2wxWVZMWlNVaDEySGVwTFF5MU5VemVEYml2c3RibTlpMG4yeklObXdqRlpVb1FXOEhpNWh4aUYxN3MxWHV0S3dKWnNhb2pOeGxfZ3lkajdvNlRoWW03UWJuaEFOSGhyc0NSMGVkM3YzYnA2VDBEMzlmeEpTTXlnODRTOTZWRzNLUjdLeFhkWENw?oc=5
-- **Source:** Betfred Insights
-- **Published:** 2026-11-16T06:33:58+00:00
-
-## Gagnaveita Hornafjarðar to be sold - RÚV.is
-
-- **URL:** https://news.google.com/rss/articles/CBMihwFBVV95cUxQeDd3WXNaTXFmaFNKUDl1dWRKeVRLZFVxdk40WFhjRUFLUGtGazUydWxzSktZN3doSHExN2dHc2RrMXoyYnNaZEJkWXFaZWFrQkJtQVllZEtrV05PNk9zSGlYcnlmanl1c20yVTdWbnVVb2FVTmNVZ001S19GSW9SdkZVVUV6YXc?oc=5
-- **Source:** RÚV.is
-- **Published:** 2026-11-16T06:19:00+00:00
-
-## Drillers recovered 98% of the core, versus about 50% or less in earlier Iceland drilling. - Stock Titan
-
-- **URL:** https://news.google.com/rss/articles/CBMiwAFBVV95cUxNMVZRdGdoVW9Oajg3TXZUU1dCT0ZxT0VYc2c2alhjaUVPWHZXYUxTeU1jLVhzNU0xdGlEcDV0MUVOSUNscUpLRHpXU1JraHR4NGhidk9oanRSOVBWSmdHT05BRFlnODllZGNPUHU5QVZDVEhhcllpT1dCampyQWZScW14dlNseGNTS2Z6TFVnRU5kY0hQM295cUtCRUhuNndnYzMxN0ViVG81Vy1FdkxiZkFjbk9jSlVjcDVJc2dZRU4?oc=5
-- **Source:** Stock Titan
-- **Published:** 2026-11-16T06:00:00+00:00
-
-## Hjalmar Stefansson - Iceland - Player profile - FIBA U20 European Championship - Division B | FIBA Basketball Events - FIBA
-
-- **URL:** https://news.google.com/rss/articles/CBMiwgFBVV95cUxONm8xQ2pIX3doM0lzSnlmU2ZhTDRoSWMzckZzai1yMkpfRDlZTmQ1SGFPWi1yeW9lNTlkcWluc2d3QjdwVW1hVktIdkZUc3pIclU1LUZxSkE5Q3lRR2RsR3pnN2J4eV9EY0lKd0JOcTdWODZSekdzTk45WFBfZ1dQejRpNGRNZWRZYjRWYTFHckxVUXRTeHNKbFJqandRaFNMNWxZVkpQMWQtNS1yZVNvSnBJWGlKMkRxamNoU2N2eEMtZw?oc=5
-- **Source:** FIBA
-- **Published:** 2026-11-16T05:10:12+00:00
-
-## Greece vs. Iceland (16 Nov, 2026) Live Score - ESPN
-
-- **URL:** https://news.google.com/rss/articles/CBMihwFBVV95cUxQX3ZGNXJ3X2xkbVBwRmZkeGxPUVVwY1dTazZfLXA0QkFzZXFLOXg2dDdiWXJMdmhjZGlTTFFkV0UxS3NrbUlEZ1hhbWxiXzVxT2ZqN2tkWWsyMjZ0ZVpjT3pTNnBmdjBocEtLRDlyTE5YTEZZYkNmNHFjdDFISFl3U2lJRDlXYm8?oc=5
-- **Source:** ESPN
-- **Published:** 2026-11-16T04:56:54+00:00
-
-## Scotland’s Crystelle Lake, Iceland’s Dagur Kari Olafsson win all-around gold at Northern Europeans - International Gymnast Magazine Online
-
-- **URL:** https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSF8zR0JTRzEtaEdOZWtzTFZ2cTRWOWxjeXV4bERPUExPa0ZSOXltczZfZGctc1lWM085eXVUQmNWdmpkSENPTF91VnNkU1c1d2ZONG9RaUVlYkJPOFozTmxKV0poZnBDUGZxZEJRMXpQQ1hnX0FHbWFYcUNxUWwyVld1a096MXNxTFZ2SVRSWE1ZNkllcXJPMG1vbG4zc1o0SUt6bXRmLVIzcEJQXzhlUW1weURnOWJ3R21kS2Q0MEdzUlk5V2V3Mg?oc=5
-- **Source:** International Gymnast Magazine Online
-- **Published:** 2026-11-16T02:34:59+00:00
-
-## LESSONS FROM REYKJAVIK - OrissaPOST
-
-- **URL:** https://news.google.com/rss/articles/CBMiX0FVX3lxTFBRS3NZQU9BRzFGcnpzZXlLd09nX0lwcF81ZEFDWWpZQVI3dzBHak9ZaHNnTDZtbkpWSHh0bjNXTDBQVVZOS09UZ3ZpcWxDVHRWcFBvcG1KcS1NNEFYR0dR0gFfQVVfeXFMUFFLc1lBT0FHMUZyenNleUt3T2dfSXBwXzVkQUNZallBUjd3MEdqT1loc2dMNm1uSlZIeHRuM1dMMFBVVk5LT1RndmlxbENUdFZwUG9wbUpxLU00QVhHR1E?oc=5
-- **Source:** OrissaPOST
-- **Published:** 2026-11-16T02:18:03+00:00
