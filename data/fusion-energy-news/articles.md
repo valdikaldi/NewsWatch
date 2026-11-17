@@ -1,8 +1,74 @@
 # NewsWatch — fusion energy News
 
-_Last updated: 2026-11-16T23:14:39.251052+00:00 · 50 articles_
+_Last updated: 2026-11-17T12:49:35.241069+00:00 · 50 articles_
 
 ---
+
+## TAE Upgrades Norm Fusion Reactor to Support Commercial Development - News and Statistics - IndexBox
+
+- **URL:** https://news.google.com/rss/articles/CBMirwFBVV95cUxQd2VsXzltQUFhVnpnVW5mLXJQWnBYRVNxWGhUdWdvTHRIZFRSZWdFb083UTZHSTdDdlBwcFdZWlRhZWVMYlZ6Z0lNMlZ2RzJmSEhoVkNtZjVGZVZvZmlJQXRWTVVyWVpQbVpIczJVRGpSX1o1aUg4RDlNREJ4VF9wRUhLa3FzX2NWeFQ1SHY3cmozREJGdHNGbC01bENXdWxHMDdLWmNwN3pKclNYeWNJ?oc=5
+- **Source:** IndexBox
+- **Published:** 2026-11-17T12:00:58+00:00
+
+## TAE Technologies Upgrades Norm Fusion Reactor to Underpin Commercial Development - StreetInsider
+
+- **URL:** https://news.google.com/rss/articles/CBMi0AFBVV95cUxPQThXUGh6bkozcnZYcjFmRFRWWWlGQkxqa3JnTndiNU9nSXh4cVB2RWw4aXctdFRxMzdiLXNrcm85ZmVOcXpPdlN3WmVocUVRZjY2N2tDcFhNYXlubUV3ak9pekVHN0NKVUhmZEVicmNCSEZVcEZDamhUSWtVaklyTkxLWVpRWFhLSXZ4TjBtVHQ3MzhLeGlBaGJZbGFpRkw0NE10eG9wcWJpVU9ZbFZGNXpEYjlHTTlCaVVCbTU3Z2ZtSUhoLXlYVV9pdkFqNTZG?oc=5
+- **Source:** StreetInsider
+- **Published:** 2026-11-17T11:32:27+00:00
+
+## First Light Fusion and STFC’s CLF partner on FLARE fast ignition - ADS Advance
+
+- **URL:** https://news.google.com/rss/articles/CBMijwFBVV95cUxQR1RqSTREZ0dUanBHS1NLdEtURlhLNlNzck50NklINlhObkVON1J0bTlFZEpOWHYtWWN4cWhMOTdJTWI1RC16UkdtcnBXa2prOENkOFpMT3BBNnZVZHRCTjJiekxVY3hjQlJWTi1JdDFLSEFRSW4zeERNbktKdTBoV3NaYzc3c3p5eWJrNXNndw?oc=5
+- **Source:** ADS Advance
+- **Published:** 2026-11-17T11:27:00+00:00
+
+## France Sets 2035 Target for Technologies Needed for a European Pilot Fusion Plant - energynews.pro
+
+- **URL:** https://news.google.com/rss/articles/CBMiqwFBVV95cUxQV1BIdmlCQktQWmhCb1Z1VWIwSGpvYVZTMTlON3B3M0dWazd3QW94MW9fU05BaTJoeU93aVN6clFYbmJFSmVsNXhlZzBBU1JxRmViRkVrenU5M3k2UjhROW1jSG9HSzlaUGZRQXpaUlphc1E0bzRFM0NMczYzOXNJaDhZVDI1Z1BYMlQtOU0wZldJSml2dGUyZHczUmR4NDRiZ1lxZ0VGZFJmb00?oc=5
+- **Source:** energynews.pro
+- **Published:** 2026-11-17T09:00:48+00:00
+
+## Commonwealth Fusion Systems targets 400 MW commercial fusion plant in early 2030s - Zawya
+
+- **URL:** https://news.google.com/rss/articles/CBMiwAFBVV95cUxPYjEwMVBoWTBiWnludUFqcVRxOG9ycEpRTkhVYXloQ1dOUXNVQlVOUU42ZTQ0cE02ZzdMUko4c0IyRWd1YTNVaTI5WlZuaV94UkNBWXlTdnZySUdWa3FZQ1M3X2dXVUV5ZWlGaHo4Y090Y2hkVGU3MFRrQkJoenMxNlZYMzlIZ01HTUN6ZVAyTVUxNTVtdXY0VVZxX3pWQVcwLXNqOEFGbFZJYnZ1Y0Y2cGhhSktnZUYzVXNmQjFGY3k?oc=5
+- **Source:** Zawya
+- **Published:** 2026-11-17T08:35:00+00:00
+
+## [Science Bulletin] KASI hosts public ‘Space Academy’ lecture on dark matter - DongA Science
+
+- **URL:** https://news.google.com/rss/articles/CBMiVEFVX3lxTE1Td2dFQy0yUHF5czBxTzQ2NEdxTGRDOHRsMzlGQWxFV1NUaTRqdUNfR2ZGWHRQSkZzbDVFRDZSc2dFSmV6aENiaXdILXVUeHpSVWVrZw?oc=5
+- **Source:** DongA Science
+- **Published:** 2026-11-17T08:10:00+00:00
+
+## Iran’s First Fusion Reactor Is Almost Ready: What Has Tehran Actually Built? - Frontier India
+
+- **URL:** https://news.google.com/rss/articles/CBMiogFBVV95cUxPWTNkbEFYNjhyNzhaTmJfaFNwR3NzZVdIN3RUT3ZNejN0RXcxenMyVXJaLVhucUlDVzEwMXR5enlPTFNSMVZCQm1PTXNmOU5uRXVETFlfamtYbHhXZGp5OVhBeHpld1ltNEhlSnIwV0hka3FWTWZkazNYRlNHM2hHalBVN2VPcnRMN1R6eFhaamFDenR5dmtQeFM4eXowRzdmQVE?oc=5
+- **Source:** Frontier India
+- **Published:** 2026-11-17T07:38:39+00:00
+
+## Iran Claims It Will Soon Activate a Homemade Nuclear Fusion System - Breitbart News
+
+- **URL:** https://news.google.com/rss/articles/CBMitwFBVV95cUxPZTIzVExRem0yQjVIS0xMc3BwS3RMLVJ5LVdJNVowb2RyMWdnM2R6S0J1cC1PZ194Ul9oUzg2OUlVNVhXeVAzY1lFUTluX0hvZnhKdUtmWThLNElOeHZIMHg3cW81TlBhTlZOdjJtRV8yaW1jLV9CcS1ENlpoSUk1am1zVFUxek9vZW9WbmZ3bkhROUJBNGg4MnlLOHRtM2o4Y0FzZUFDLUdfX1Ntemd0RTJWb1hhU2M?oc=5
+- **Source:** Breitbart News
+- **Published:** 2026-11-17T01:26:32+00:00
+
+## Small-Cap Growth Virtual Investor Conference to Connect Investors with 23 Companies on November 18-19 - citybuzz -
+
+- **URL:** https://news.google.com/rss/articles/CBMi0wFBVV95cUxPTjNrWmtPM2pYaVIteEc2V2JOM3lWWEVJSUVxSGMxZTNMUllYdmU1X0x1MVpZYXJZLWVVWEhOS2p0c0JfdWJzR01ZV1luZjlfOUY0ZE51QmtQM2w1cV92OGNPaWRzQ3MwMUpXRVVhSGhjc2IzNG0xSmVtVEpxcURMTVNpZTl5XzRhM1hzRHFjR3RnVjFTOGM2MjFJNEJDOUJreEpkODlTSVB2a2NTcUwwbllpR1A3UUxPNUhPVlBZenYtaFFrSGE5ek9SVEpjUF9hdlI0?oc=5
+- **Source:** citybuzz -
+- **Published:** 2026-11-17T01:00:26+00:00
+
+## Ranked: The Countries Building the Most Nuclear Power – Visual Capitalist - EnergyNow.com
+
+- **URL:** https://news.google.com/rss/articles/CBMiowFBVV95cUxNdEt5SDJ1Y3UwcUxhYUZ6dTFsQkFoQ1QyRVQ4R3IwSk9lcHZyTThvUXVnT2xaUmg4dVFSZjhBUkdrbUdCbXNLVzlWdDlYbEpPX1BDU2dwVEF4aFFsakJ5Y2hWV2pVSkJEcTZRZnJoOGc5TU0wdE1hYll1Q3dIM1RXM281a3l2WUxvOG5YZ29wNDR4bC1YWExVdFJfTjVwLUEzd3c4?oc=5
+- **Source:** EnergyNow.com
+- **Published:** 2026-11-16T23:44:20+00:00
+
+## Earnings call transcript: General Fusion posts wider Q3 2026 loss as cash holds - Investing.com
+
+- **URL:** https://news.google.com/rss/articles/CBMizwFBVV95cUxNZ2ZfVTZDVm1nV2ltX3hjSml0M01VWWVFWXctbU1kczZWVFRGYW5iVl9MNS1KRkx2ZXNoa1h3Uklod1loQk5odW9QWlRTQWVkM1lkc0RNckZFdl9PWmJSQ1dmbXZfNjFiSll4S1dzT1gxNmJjT3d4ZWxna3BVU29NRUJOb2ZxTTVKcGVvZUI1d3EtTGhWSzFNYlpXdlVoZHN5b2w1dWh0UHFvaDQ3MGFlRUxCS2lsTFFkb3BGLTduZmQwMWw4bEVmLXdUSHN5S0E?oc=5
+- **Source:** Investing.com
+- **Published:** 2026-11-16T23:16:38+00:00
 
 ## Iran’s Next Big Surprise For The West: A Homegrown Fusion Reactor | Details - Livemint
 
@@ -237,69 +303,3 @@ _Last updated: 2026-11-16T23:14:39.251052+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMihAFBVV95cUxPdHR5cUNXNkJpN3BjYnEwVEU4QUxJcndiN0F4T09mQ3lWdzY5ZmlFRVpHUFVfb2Z4b3cxQWRMMlhEajB6MTgzcTZGNU9XSnlxcWQ5TGJaOTR6dFBic1ZLcjlQRGJtclI3ZDdOS3IzdUtzdmlCVkFXNC03Um1KUll5QTN2TXc?oc=5
 - **Source:** Simply Wall St
 - **Published:** 2026-11-14T20:01:49+00:00
-
-## NASA Expands Nuclear Power Plans for the Moon and Mars - Neutron Bytes
-
-- **URL:** https://news.google.com/rss/articles/CBMinAFBVV95cUxNX0ZFM0VuUjBUUk8yV1VaVDBPbHB6T3poRXBjNUtQTF9tQXNoQnlSc2pyWGpaSTNxZ3VsZDRQX0ppa0FYX19SM0pTZVVrVnNpWnlIcU9BeTJTX3FwOVUydkE4bUZRVGdzclRzejVVcnVRQ0JpVWh0NXNOV2xZRzlJN2pmZGZjSlllMlpXbTh3bDR6ejZkV1FvOEY0V0g?oc=5
-- **Source:** Neutron Bytes
-- **Published:** 2026-11-14T19:08:27+00:00
-
-## New to The Street Show #780 Premieres Tonight on Bloomberg Television with Robo.ai, American Fusion, Stewards Investment Capital and FreeCast - Corsicana Daily Sun
-
-- **URL:** https://news.google.com/rss/articles/CBMikAJBVV95cUxPMVdZQkwzQmI2Y0FnNkE2YlI3ZVZrTFdsekhVVGxCbXFJbjVEaFJ2YXZWSWEzMV9GY1pYM1ZZRHVnaHdjZl83SUlXcGp2ZVB2QkZYS2xfdm9IZUhvN3FnRFdvN09vcHFHeWxBY0ZMQTQ1Mi1oS3ZPSXlnYmgzc01MclBvOENiSU9KM05JMnQ0VnZVNEZpYjZIbU9zWGoxbUN2OTd4RFpjenNFdVZjRS00UURWUDdrOHdrRHJrU2w3YUM2WDRjbEx0MUNoUW9JVl9IUGViNzZVRWpCWVllTGs0elJFZmlHTkZWZHE1U1RWbUc1bDMtTkhFQzZTYnhlWnhHeVNFdGpRT3BRd09ReU5tXw?oc=5
-- **Source:** Corsicana Daily Sun
-- **Published:** 2026-11-14T17:22:01+00:00
-
-## New to The Street Show #780 Premieres Tonight on Bloomberg Television with Robo.ai, American Fusion, Stewards Investment Capital and FreeCast - Yahoo Finance
-
-- **URL:** https://news.google.com/rss/articles/CBMingFBVV95cUxOT2hlcWppa0hEdldfNEdtd3pSR1M1OWdQdThfdG5lRGpIcTJOMFp5bUFpSWxfTWVMTG5EbnppalJCLWtvd1h2NEhUVkJhY3MzWmV4VmdwTE9pSDFmcmQ5SUI5RVpkcGRmdzQ3ZkdsMTR2QU1HVTVnQ1lHZzdZTTlmeFNaUU1DcVM3R0xyby1fME9BNUcyNTZtTW5NRXZOZw?oc=5
-- **Source:** Yahoo Finance
-- **Published:** 2026-11-14T17:18:00+00:00
-
-## IAEA World Fusion Outlook 2026: AI and $80B Gap - CASRAI
-
-- **URL:** https://news.google.com/rss/articles/CBMiggFBVV95cUxOdXBYZW1nOWR1cDVuNjQyVWZiX3lOcXBOejdLcmtuRXMydEp1eVlwM3JVdlpJUUhVWlo2ODRuWmp3Wk5Id0paVFdrMGQtaUdrNnp3UnlUcVhhYXVfX0x4Y0pCVFN2SFRqQjRnSHMySm0xSnI2R0s5R1AtV3I2Smx0V2FB?oc=5
-- **Source:** CASRAI
-- **Published:** 2026-11-14T13:43:27+00:00
-
-## The 330-tonne magnet built to cage a 150-million-degree plasma - Interesting Engineering
-
-- **URL:** https://news.google.com/rss/articles/CBMipwFBVV95cUxPQkNJYmpyanNrZi14TUpuTjFDbi01M3ZINEhsWU5rWm91R2o4SGpOUWd1NHoyWG5GYnJKMEg4TlRoenRnNUNqMmxxeFlJclBDV2MtZGZvYmJTNVNKa0NNRXFQNmF2eHhjMHpTWmFsRkFkTFVXYllTU0MzTlFWaVViT3RGYi1abkh5TnRWMTd5NGYxZHNmUHBtdkhHcVBRSzl4MGNVZ09wYw?oc=5
-- **Source:** Interesting Engineering
-- **Published:** 2026-11-14T08:22:24+00:00
-
-## IAEA World Fusion Outlook 2026 says fusion industry needs a further US$80 billion in private capital - Green Building Africa
-
-- **URL:** https://news.google.com/rss/articles/CBMi1AFBVV95cUxOLXRpbjdhWUxHdXNiMlJwa21RYWF1dnRtZ1ZuSFJnQmI3TWZma3hZU29Wcy1tRW1UVk1ySDRIWTJhdWp0LUlLbXMxdUhvRGVBcGwwckQzbUplZjg2bWRaSjZlZVhYaDlUdldEaHh2akNCR0lFTUtwQ3FXWG5EU1J5WFlRSy04bVZISjZlSmd3cjNVT2JKR0hMVnJJTEkxVjFqdmNPZnROZk5menFjQnBlczR3WUR6TnBXNi1FY1AzSkNpWVpZUVNrLUJQMFhVbWZBNTE3Ug?oc=5
-- **Source:** Green Building Africa
-- **Published:** 2026-11-14T02:44:40+00:00
-
-## In my upcoming budget, I'm proposing $10 million for the Northwest Advanced Clean Energy Park to support thousands of good-paying jobs and unlock billions in private investment. We as a state can make big things happen with strategic investments. This wi - Facebook
-
-- **URL:** https://news.google.com/rss/articles/CBMi2AFBVV95cUxNTVBBM21IVGNkZ2RfTW9lTXBDWk9zSUxScVpRZHVUMEd2MW90TjFIVWFTWkI2QVpZYnRDYk4ydmJoVmR1VDJkWmFfR2NNbU95bWppd3VWdGY2a2k5aUtpempzZDZxX2lkUzZrdDBvUUphQ3Rod1hZbS1aOVg1LTAwM002V3BSSmZuQ0lqdHkwODE4STk2bWdqcjdUdTgzVFZQUTI3TDE3UGlsZlBPX1NyUjdNamdJQVNOV0YySDBXcVJBUDNJNUV4b05nZ3BaYl9yYjlFb3lYVl8?oc=5
-- **Source:** Facebook
-- **Published:** 2026-11-14T00:53:55+00:00
-
-## Gov. Ferguson seeks $10M to help develop Eastern Wash. clean-energy hub - GeekWire
-
-- **URL:** https://news.google.com/rss/articles/CBMioAFBVV95cUxNem1GUFdwQ2J2dGxmemtNdk9pMjhlVzlvTFlyOVZzTFBiWHRNdk92a1JxdVVYZWdrVk5kNjVxT0pSaEhPZ3lVeEJHbURod0NSZWxVR2pJbU1nVnFpVkJWdkhVX2hGbC0xZ1czcTRpa2FCZElqUjgxM0VBdlFjQWJzSTFYTFZIUHpOclVXLUR4NjFYbXBiWDRPTHZzeG81SjdU?oc=5
-- **Source:** GeekWire
-- **Published:** 2026-11-14T00:35:00+00:00
-
-## AECL & CNL Announce Funding Endowment to Establish Research Chair for Centre for Fusion Energy - The Manila Times
-
-- **URL:** https://news.google.com/rss/articles/CBMi-gFBVV95cUxOUnl2VE5LU3BHVWtWN0RDQnhmS09ubkZmNUxoTVFhXzhZMl9aLVdhbVZCUWR5QWgwNGVpcTQwRllVWU5STEZWYzNSdlJKQ1JiaV9saFdPelp4UGt0cFpVZWdDdTBlOWlnMjdJS0ZtMldudnRqaGVaS0Q3aDgtMGI1eTVfWjlkSms0YWhZZ0xpT1MzeXZYYVNjU0NQTXZKdGtoV0RuV3YwOW9tczE3WF9haXJaT1N2ZE5ST1gxRmQ5bHdldjVzMmRVaWZNMVo2aElpZ0x3X3N1M1A5ci1Ea0d6YmFwSXhtZmc3cl9RV2huQUZSNG1FTXVWREVB0gH_AUFVX3lxTE4yaXBkR3hOcVI1ZUR3a1Njd0lDZy1fTGVMY3FRRnozQkZuSUpPNmpuSlVOVlNuRmx6LWR5YVdfTTR1X2N3S1NRcGtEX0dKOUVMeFA5dkdIc21fWkZORC0teGQzVGRTS2hXa2s3cnA4eS1FNDlnLURTLXRsNmhoMTBPWWtQUkZsSW5kS1JWUlJRRnpUSm9nNlZZeTFsOTI1WFphcE5rSUJpRWpEcWhUb0dERlJfa1Bway1lM2czbVVzaEM4S0FfODdJTVNLUlNRNnFuOFBJX2dDejdtMkdXZm5sMVRLRWN1ZFJHWDFQdDA4b1pfYjVGcDVoUS15WU5lZw?oc=5
-- **Source:** The Manila Times
-- **Published:** 2026-11-13T22:21:21+00:00
-
-## IAEA maps future of global fusion - Nuclear Engineering International
-
-- **URL:** https://news.google.com/rss/articles/CBMidkFVX3lxTE5Iem9oRzFNOGNpa2JRdXY1cHZlN3VwNDZfSnVDQzdaY2NBdW9XcmtIa0xza2pSbnhLOEd0NXNZTTBObEFPOWpoaDdCNVVnRWh1N3VaTmM0aFYwZGhac0tqQ0lwQktXY0xFaGt5RnhidlZVT0s4M2c?oc=5
-- **Source:** Nuclear Engineering International
-- **Published:** 2026-11-13T21:34:30+00:00
-
-## American Fusion Q3FY26 Results: Net loss $1.44M, no revenue - scanx.trade
-
-- **URL:** https://news.google.com/rss/articles/CBMiswFBVV95cUxQNDdfTmlNbTJFZ3lDMTlFQ2diM2VwaURnVmRieGo4SWY3RHB5OF9mb1NPamFWLW1rakNCbi1FRFdhXy04UW9YeE91enpNRHBRZlJ0c0M4Y216NnlmUy1EYm94bHI1d0FSVzJib0pwdTFMVGxlWEpKR3ZxeTNIenJDS0VQX3hMSklxMmVsWGU4N3drSTc3dm5INGRuSkE5UEtrR21rd2tWRGRLX2hOUFVaQ1c4Zw?oc=5
-- **Source:** scanx.trade
-- **Published:** 2026-11-13T21:26:47+00:00
