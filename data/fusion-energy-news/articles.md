@@ -1,8 +1,74 @@
 # NewsWatch — fusion energy News
 
-_Last updated: 2026-11-18T12:42:32.359441+00:00 · 50 articles_
+_Last updated: 2026-11-18T21:43:02.818870+00:00 · 50 articles_
 
 ---
+
+## CLF and First Light Fusion Team Up on Ignition - CASRAI
+
+- **URL:** https://news.google.com/rss/articles/CBMikAFBVV95cUxOWUVCYm5fTlpocHd4QXpJN19OU0QtV0VzQm1kVW8yd3B5V3RsVFp2T0VjRWI2YVc2X001RUNka0hvYW5GWmZveGxtN1NNMmNMZm5DU2VFbGxCcFFWc1V6UXFiOUZ2VXZZZ0N5eS11Wk41YkhmdXdDUUhzSjd6UmZjT1FRWkNQaDBsamJIakQ3Qng?oc=5
+- **Source:** CASRAI
+- **Published:** 2026-11-18T20:45:10+00:00
+
+## France Announces National Fusion Energy Strategy - Fusion Industry Association
+
+- **URL:** https://news.google.com/rss/articles/CBMilgFBVV95cUxQSHRsVEplVWsxSmFEYy1yU0h1blgydVBBVXlsN1RDOERGVzNIcTJYUkZ0VGctYTQ0YmVvVVljdkJ6TExWY2lYeGpPUFZIYmZ4NTdCUXRBZlBMWFRxQ0Y5MUFNY2xIR1JjZXZxOHVDT05tUVFacFJBUmRHbkxObGl0ajBnTHE0OTBrY0ZxMUoxaG5tRHcwN3c?oc=5
+- **Source:** Fusion Industry Association
+- **Published:** 2026-11-18T20:24:42+00:00
+
+## France’s Nuclear Report Puts Six Reactors at €84 Billion - JournalArta
+
+- **URL:** https://news.google.com/rss/articles/CBMimgFBVV95cUxNTURxV1A0WHhFQ3p6XzlPSDVFQ0REQjl5YzZhWUJXc1BKT25ZUi1NN2JGQnkxUG9VMWxmc1VRUXd1aHI5eGZqNHpYYWJ2cXNYVUJQQnJhV1I4VDNZeTMxS3RyZXBIN1VUd1dQdmxrTnYyUWFzeDFyRDJmTFJEdElMZDQzYnJxR2JkcGZqNUYyWDRiTDV5WG1rUVN3?oc=5
+- **Source:** JournalArta
+- **Published:** 2026-11-18T20:17:59+00:00
+
+## France releases report on nuclear project financing, announces 10-year fusion strategy - American Nuclear Society
+
+- **URL:** https://news.google.com/rss/articles/CBMiwAFBVV95cUxNY01UOHFUcHJtdGtEcGI3cFVId0pNMDAxVmRQNE9LRENmSm5weENpa1JvRjlYQ2dmbzBNS0pIRkRnTURMNlpydGRVOUVnWGpxNktPbDh0ZlRoUmtzS0lnbS0wNG1KN2syaFJRMGdlbEp3RjlWcTltTVhuanp5SnBCZWwzNVJya1JkMlhkTE1xSHUwNHoxbThLQjc2NE1GYjVVLXpnX3M3c3FwSXk0c3hQYjNPOGFEWHZWNmtEZ2JBWGo?oc=5
+- **Source:** American Nuclear Society
+- **Published:** 2026-11-18T18:48:15+00:00
+
+## Realta Fusion lands up to $15 million in state incentives for $800 million project at former Oscar Mayer plant in Madison - VernonReporter
+
+- **URL:** https://news.google.com/rss/articles/CBMi4AFBVV95cUxOd0ZkeDl3SUVuNHNoa0VsdFJOVHNkVVhmejZnTW9KTklUYlpJNnhISWhESF9BNGg1Q0l1STVrNG9PSkVTT2VuY1d0ekFicUIydDN0bUQxajVmQlZXNWo3LXpFMEpSQVdEcURPOHZKSTdmQ3NjMHc0bFJEcFpwYjdZcXd3VHhXZ1JuRmhyajdUVDlqZzVQdk9haU1ST0IybUtqRnFEVFU2NGhEWHZKTTBXRmx1NnRNWFk1NkpucWxhOXp5V0ZfczhEQnczQ1pzNExjQWI5VkxFMjJsbm4xSXc2aQ?oc=5
+- **Source:** VernonReporter
+- **Published:** 2026-11-18T17:56:13+00:00
+
+## Madison fusion company receives $15 million in state tax credits - Milwaukee Journal Sentinel
+
+- **URL:** https://news.google.com/rss/articles/CBMivgFBVV95cUxQaUxUeEdjTVNNSjlySzlLTmFJaWlYM3JVWDNFZ3A4OEFMNUxkVDAtWTRjMmpKbVloSURqTFZyOWxTcEZZQWdtSzZXaGxYR1VXV3RvYktGNFdseGN3ZUJidmhuLTJUQklmYWxBYWNOQVV5VktmX3RUWFB0RHpzdFdvZnhrbVA1Q0QzSUs4UWFldEVzUUdqVm1GX3B4b1NYQktGN2tCbmdJQzFMenZkbXdmRDNBZEFybl9FcnloWnRn?oc=5
+- **Source:** Milwaukee Journal Sentinel
+- **Published:** 2026-11-18T17:22:00+00:00
+
+## Tehran's new atomic leap: Iran claims breakthrough with its first nuclear fusion system | GRAVITAS - WION
+
+- **URL:** https://news.google.com/rss/articles/CBMizgFBVV95cUxQYk43Z0ZZSll3TDFqcnl1SlRucVBRMGp6MzR4SEdzR1UyVktJOFp6ZHc5VWVJaDdJX3NocHpTU0g3SktxMUJ6T2ZEdlZFSHNpS0NreGdSQlJPNmNhMVo4bjQ0eW9NVVVOaEh1NU5sb3pjSEJ0RjNVRkY5WV85azk4ZmJGaHdaNnRLeWpITEVtMmN4dkJKb1FFdW1hMFBobXJFaUwtTzREeExJY1NfdXBueEtPZXhZdXVWS0Z1dFN5SFhQUXlBWUdWOFY2WWlTUdIB0wFBVV95cUxObFZzZklKb2Z0RC1IN0hxWGhpbFdfZThlSkYwZGZ2QVlxQTRzYkVpZnkyeEUzRnhSMHJlOGY1aDZLY2R1MjZOQndsZGlaWjc3MmdFbXp2NXVXMkY3ejN0MkluaEpickRHN1BQNjN1eXNaZjFsOHI5M2o1bWdEd3NuNGZLSm9MZmhsR3pKTFk0c082dG9FaHJvN3FBSEpsenl1MDVDTXhWOUtoam1FOEtyWk42b2R6cHN5Y19XLWk1eVgtLXlMUFRkTTlnY0Q0alctY2U0?oc=5
+- **Source:** WION
+- **Published:** 2026-11-18T17:02:00+00:00
+
+## Realta Fusion to receive up to $15M in state tax credits - WPR
+
+- **URL:** https://news.google.com/rss/articles/CBMilwFBVV95cUxPeDd3dnZCVE9vaXpkekwxUElnZk5nVWFjeGZqdUZXdTJrZnZuSERoQlRiNFdJUGJGR1dZd2I1QThpek9tR2hLbFZZRmlOd3RQNkdVVV9yVUNNX05ZOTk4YzVYQmxSdzhrc0xVSWo1Nlh2TVM1SVFpM1NNaUxfTHJxQ3d3SGN6UHZibkZnZC11Q0lSWHNHSjgw?oc=5
+- **Source:** WPR
+- **Published:** 2026-11-18T16:21:31+00:00
+
+## Realta Fusion to receive up to $15M in state incentives - In Business Madison
+
+- **URL:** https://news.google.com/rss/articles/CBMigwFBVV95cUxNZmVvMGJJcGdMYVNIZFl5MjZPSFNQYnppZ3lQcGNLaktJckxwMGtUVGxNRFVCU2Fjb0F6WWxabi1zejlzWmd6SGtvWHRXb0xVSVJGN2RZYVhUcFB1RlV5MUUxSjdUUXdCdTB4eGJYTE5aMDBFc29Hc2VmVUwtSXJYUERPSQ?oc=5
+- **Source:** In Business Madison
+- **Published:** 2026-11-18T15:14:06+00:00
+
+## Gov. Evers offers $15 Million in incentives for Realta Fusion’s relocation - WSAW
+
+- **URL:** https://news.google.com/rss/articles/CBMingFBVV95cUxNZXUxbmNSNEkxTHFkdTVCcjBqajJrUGdsbUNlbC1ZeFI1VTd3T3BmR3JYblRqRVZnQ25aYXFiR25IalI2UXo1MEFYckp2NTdNd1hkWGMzVzA1bUMtOXRWN1lQUDJGSTBsNGU2czNRODJ0cUQ5Q2RpYlEyMkdZbjJrR0x3ZUY1WHNyUGZoSDJmOXVtcks1dGVRc09oZmd5UQ?oc=5
+- **Source:** WSAW
+- **Published:** 2026-11-18T14:27:00+00:00
+
+## State gives $15M in tax incentives for fusion energy facility - WKOW
+
+- **URL:** https://news.google.com/rss/articles/CBMi0gFBVV95cUxOcDVCOWNhdlFiZXB4dXp2S29WXzQ4MllTNUJRWE1mbzRTelcwUDNnY0tqYmNhZDBfNU5uMEF6M0pQcERSaGxKYlZzcDRpa2hVSkxieWcyZkRqSlhWd2lnbEhIckREOGx2OUhmZHRKRU1mZHJEaHdjYnYyUzRrc3FTZXYyVElFZzhJdHNyX3dzMDgyTWd1ZVNuOUR6T3MyWFlpb1BaSUJUeUhLVU1OTUYxZnlUR1lVRUxWWlBmMTNveS1odXdoSEdDY0pKemNWOFFqVlE?oc=5
+- **Source:** WKOW
+- **Published:** 2026-11-18T14:20:00+00:00
 
 ## Helical Fusion Awarded Up to JPY 19.2 Billion in Japanese Government Funding to Accelerate Commercial Fusion Power - Business Wire
 
@@ -237,69 +303,3 @@ _Last updated: 2026-11-18T12:42:32.359441+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMiW0FVX3lxTFA0ZDltS284UlRRMG82d3NxRFZucHFWam5EYm94Yl9pNFR4VTdaZWxHV3Znc3FNN05vZGV2REl4NnNfRXZRVnBEVi1CM25sZklRWi1SbzFpS1dLbUE?oc=5
 - **Source:** Sifted
 - **Published:** 2026-11-16T06:53:29+00:00
-
-## Alberta Surface Rights Federation Urges Landowners to Resist New Oil Projects - energynews.pro
-
-- **URL:** https://news.google.com/rss/articles/CBMipgFBVV95cUxQUzN1NzVmOFk3RFR2S2U4eTc4bjRsSXVBWjB6VnJRQWdsMUw2VmROb3dpV0VyY1U5RzlEZlZvSG0tWEZnOTE1QzVvVnNWOUVSRmpYMnEtdC11eHV1SUx4OFEwcmlOSndUbTk5VnRaMkdscTlFTDJmNFQ4UzZFQWpDYUlrUzdkbGRhTWJpZzMtaHR2ZlFqWHRzMGNRUi1nM29fVm5kc2xn?oc=5
-- **Source:** energynews.pro
-- **Published:** 2026-11-16T06:49:46+00:00
-
-## Kosmos Awards Subsea7 the Subsea Tieback Linking Tiberius Field to Lucius Platform - energynews.pro
-
-- **URL:** https://news.google.com/rss/articles/CBMirAFBVV95cUxNMVZ3Qm4zMVZwOVpuME9jX3Z4YVBxMEdOUWNwR09SallFN1hidFhTLW5YcGVYbzJMWUxlQThrZDh4YndtVk0tY1hJZTBiMmpNT1FveER0VS1sOHF2VVBsalF6dUc5S0R1YTFELURvZ3VwMmF5QU81bHlnUWM4SHhWeHc2eU5NQTFfQVBYdEhlTHpnUmFXOTBoSDlBRkJlaU1mcFdkS0RtLTZlRnZt?oc=5
-- **Source:** energynews.pro
-- **Published:** 2026-11-16T06:34:31+00:00
-
-## High Arctic Energy Services to be acquired by Newport Capital for about $20.2 million - energynews.pro
-
-- **URL:** https://news.google.com/rss/articles/CBMirgFBVV95cUxPRWJRODMtaDVWS0Y5Q19vMkhUT2F4bjc4VmhVN3NGejZjMGNMNUc4OTBfdnRRdGEzbUwtaU9oUjBEOGFWUmZYbXd4MWdXT21FVkpYUmlNSEg2TGRrX3pPcDV4dHlCdjJoRGJXR1IwaF81b3FFem1XSzRIVkY3ODhDTFdPV1ZYNWNJWDRwanUwRW5LUTMxLTN4LTFQdHJxQ0ZqQ1hnazFadWNpUGpZWkE?oc=5
-- **Source:** energynews.pro
-- **Published:** 2026-11-16T06:19:34+00:00
-
-## Plural targets €1B for its third fund to back European frontier tech - Dealroom
-
-- **URL:** https://news.google.com/rss/articles/CBMiowFBVV95cUxORXotbDhkWFdUUG5GNEEwYjVXUTIyb19NTmdXdU5JYVdSTFpGalljYWt4dGxGNXNaYXB0cXFWZDFST3owZGhJN3ZHc0JvbHJBVFdTa3ZDMlNDazVTUEUySXVDSHJCa0M2c3ZCZ1Z5N00yME85eFpmMVhBU0loMVkzVmZod19pUHZ1V3FyVzNBYlhReHAyd1M4eFpfM1F1VlotQV9J?oc=5
-- **Source:** Dealroom
-- **Published:** 2026-11-16T05:59:50+00:00
-
-## Iran Announces New Breakthrough in Nuclear Fusion Technology - Caspian Post
-
-- **URL:** https://news.google.com/rss/articles/CBMikwFBVV95cUxOTGpQYzF5ay1sbkVFVWptV2hxTFVlUDJlSTVTbUdER0Qwb19ZMFM5R3F3aU01S21wQkpXRzZTMEszSTRzcFFTLWxHYlF5SkxETFhJYnVuWGQxQWVMWXZNTXIxZ1lveWE1cXFJVVZ5TUpSZlYtZF9KcFE3dUhyNHYzcVhRY1JmcXRjeVBSWkFhSHE5S2s?oc=5
-- **Source:** Caspian Post
-- **Published:** 2026-11-16T05:49:08+00:00
-
-## Qair inaugurates 20 MW green hydrogen plant at Port-la-Nouvelle in the Aude - energynews.pro
-
-- **URL:** https://news.google.com/rss/articles/CBMiowFBVV95cUxNMnZScmJjVlJWSHN1aUV0dVp3ektJVE5CY1BTcWlrT3ExblM0ZTItV0FvTDlOOW9ZZE1OYzFRemFnc25fRElOUVRTWWlQaHh2NXp0UHpXZkdtcUx5ZEd2NGlhNEpxV0JyVGhPU2ItLUllWmRVZ3JHc1J4SE9IX3JrWUFmTGtyZ0lUdTZUX3hPN3JwRXlFV3JWejBtZ0ttRFVYeTNv?oc=5
-- **Source:** energynews.pro
-- **Published:** 2026-11-16T05:34:43+00:00
-
-## Plural locks down €1B for its third fund to back European startups building ‘frontier’ tech - Resilience Media
-
-- **URL:** https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTkJsOTNfOENGckFMaHhKMEhpcW9wRUkzTlZxZHAtcDdvQjhRejZTdVJUTzFJMTBOOGh3UHNUNC1tTG1uZ0tiYk9xWHVmMlJENjRQVUhKNmRtdmRQZmhKcjljcm56V1o4S1h5VHFHcjVGWGUyT0JjY194SGNaUXFOU19zc0Q2V0ZNZkpaTWxqamlfeGpPcWx3dTBQanE2Qk1MSFdLdFNPNUxGczJhV1Y0a3FpX3hEeGxx?oc=5
-- **Source:** Resilience Media
-- **Published:** 2026-11-16T05:28:49+00:00
-
-## Government of Ontario - Ontario and Canada Select the University of Toronto as Host for Province's First Fusion Energy Research Chair - Education News Canada
-
-- **URL:** https://news.google.com/rss/articles/CBMimwJBVV95cUxOaUd5V1hadTNKX0pYc05pWG90WkFOTXNER09hME1EYTd3dUdNVjl2SjlWTVRqRHQycERIUHJjbHlsTDdiVTB4dDNaRFJlbVc1cWNRbkxoSU5jblBjeTdoYzVFWG1QVTRvLXM2X1ZGS2xyYVQ0NG5KYXF4QWxOTDk0bV92MlpkWlI2VDlCOTQyYi1tRzJXT1FHODlqOEdaZ0ZTSHFMSmkyWERiZVVvVHRsOTh6djQwRHprcHpKX1l2TGV0TW9WUFdiMnBNb1RuMEViRkZGX2VWRWd4blFQTTM0N090UFlSM1Q2QXJvZDVjcEVqdmloeUhmNVlJbmVvSTJKZnFDVjNfMm5IM2Q5Nlgtb2pkbUF3ZlhCU0g0?oc=5
-- **Source:** Education News Canada
-- **Published:** 2026-11-16T05:27:54+00:00
-
-## Key PPPL Staff Working on Genesis Mission Efforts Honored with Secretary of Energy Achievement Award - Newswise
-
-- **URL:** https://news.google.com/rss/articles/CBMizwFBVV95cUxPV21RNTdqb0JncllXbjZhYW1xbU1hdVlBdzlFVDNzZmhkcHhXNE5KWUd2WngxU3pFUWRfZ3l5TEIwenlMMlZWZmxhZl90MXZteGZBSEFPRGFseDJMRVNRVWtDd3FhT1BSYnpuQ0hLNmlQTlZQbmZsakZKR2RTczJ2U0s3SFVraEFrR193blFsdTg5S2J6amRwcWdCcjczd29fRDgwMGo3d3gxWnllN0pQc0VYS2xMdGpkMEIxT0ZERThhZW5YWmxvenNkMTVPQ3PSAc8BQVVfeXFMT1dtUTU3am9CZ3JZV242YWFtcW1NYXVZQXc5RVQzc2ZoZHB4VzROSllHdlp4MVN6RVFkX2d5eUxCMHp5TDJWVmZsYWZfdDF2bXhmQUhBT0RhbHgyTEVTUVVrQ3dxYU9QUmJ6bkNISzZpUE5WUG5mbGpGSkdkU3MydlNLN0hVa2hBa0dfd25RbHU4OUtiempkcHFnQnI3M3dvX0Q4MDBqN3d4MVp5ZTdKUHNFWEtsTHRqZDBCMU9GREU4YWVuWFpsb3pzZDE1T0Nz?oc=5
-- **Source:** Newswise
-- **Published:** 2026-11-16T05:05:00+00:00
-
-## A Brief History Of Cold Fusion. In March 1989, two electrochemists at… | by Tim Ventura | Nov, 2026 - Medium
-
-- **URL:** https://news.google.com/rss/articles/CBMif0FVX3lxTFBocTdyekliYmltaTR3alN0Wm9DRl9QNDdlNE1PY3VHMmM3NHVoclZsRGI5c0RLeDBDMVRkVFZwTnMxcWplcFpHVFBTWDl0enVNMkl1REtlX3lvdENxbldzb21fWGoxMUpPWXo5eDVyLV9Wb3BKN3NlcFdfeUxJLUE?oc=5
-- **Source:** Medium
-- **Published:** 2026-11-16T03:03:35+00:00
-
-## Iran developing first domestically built nuclear fusion reactor: state media - Gulf News
-
-- **URL:** https://news.google.com/rss/articles/CBMiuwFBVV95cUxQLXRycmpSMDZ1R2c2REViNEM0SFRzdFFOUGlKZXVDNkJ3X1h4Y081dWdVYmlkZUxZOGlvMGZ0SXlQLUV6U3lQbFBqNmp4ME1JUWRxTE16aEt6U2xoVi0zMEFEOTdaSzZvTU5Vak9RX2hOU0ZPekdLTUhScjh0RXI2RVNJRkNDcmN4eHd1T1NwODlVaXMwSlBUdERJYkVjdU53ZjRlWkZrdl9Db0g4UGMzVTZKNkduQjgwa01V0gHOAUFVX3lxTE5QTkctMTl5Z0pvMEZVcUhoUF9KMFpOd1k0cnA1S0ZTQlhjaVd5ZXljeW1qR2Nxd0xmUWZrelVXVzV2aEw2VkhJYWNCTEtxQXpXb3pfLUlCVDhHd1lXc0o5ZUxoNWc0dHhwY25hNTFxbTFsaTI2ZmRveHlnckxDcU9sbk4zZzkzT1h2bS10TVV1Y184WDVGQS1kU2xyUlo5WXZkZVdLei1HQ1g2akJpdC0tQUhBMFNtcGhZMG1PUkpCbThWQ2ZkSzFJUkZHazlB?oc=5
-- **Source:** Gulf News
-- **Published:** 2026-11-16T00:30:50+00:00

@@ -1,8 +1,26 @@
 # NewsWatch — Apple News
 
-_Last updated: 2026-11-18T12:42:30.957072+00:00 · 50 articles_
+_Last updated: 2026-11-18T21:42:57.582582+00:00 · 50 articles_
 
 ---
+
+## Goldman Sachs Forecasts 2.8% Global GDP Growth in 2027; Apple Inc (AAPL) Shows Modest Overvaluation - GuruFocus
+
+- **URL:** https://news.google.com/rss/articles/CBMizgFBVV95cUxPUl82UmJjN1c3b3h3NUVYLVB2WXNlYXhtWW1zdjN1X0xmeXRKVXVlRzVxbTNHU0VPLUdLREZVYmNEaVpWdW9DaER1UHI4WnB3R0VlS0RRaHk5dWZnb0t4Z2lEc0pzMzBudHJINW00MDdIVzRoeWpwYmVuVU9JVGQyOVVwYkN2V1FOS001NUEyc0FEVk94MlJvdmJ5Q0c1bGZiNDI0azdCZ3BESzFRT1ZhZHNUdkhYZ3J6M3RGNGlDQ2I4STVCQ1h5ajI1WHBJZw?oc=5
+- **Source:** GuruFocus
+- **Published:** 2026-11-18T20:18:14+00:00
+
+## Apple Short Interest Climbs After Fourth-Quarter Earnings - Benzinga
+
+- **URL:** https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUWJ5VmFYMmV1bWV6TXhBVjVycElualVNSTJuRTZ5aEtjc1p2ZnM3d1ZpWm1QUTNGNVhpSnp5WXJKWkFfU0xDWDM0OHNHOWxuZXdQbFZLeUhucERyZUdPT3pIMGYtUjhHRTBpYVQ2X1lXQmg2ZFJobGhOS0plVzlvaFJpMVJpRUkxVHY4cUVSNVdWTG5Db3dQT21ETkZFdnBzSGFEYWVyRGtUZ21JSmdnQ1UyVHJJd3huRjdiMFVyNVg?oc=5
+- **Source:** Benzinga
+- **Published:** 2026-11-18T15:00:16+00:00
+
+## Apple Stock Near All-Time Highs: Former Chairman Files to Cash Out $32 Million - Benzinga
+
+- **URL:** https://news.google.com/rss/articles/CBMi3gFBVV95cUxNQW9vQjk5Uy1zcWpFbmtiVENwTU1HLVJaN3Yzd0pucF9qU1IyYVBCV2dGTlYwOGhTcjNMay15djhoT3VSZDlxUFNINnY3NFhTaVphNUNZT1hyZ1VPd2VWMlhoMlVOOGxKUXVldXBCODh2UmFkeE5Vd1FBV1VJR0hobFVMbVVZdm5lOVhZaXNQNU9mYWZTUEE1OWdKcFlrOER4Wjg0cWRleUpPUU5fYl92MUNLSGlLV3BlOE1Vbl9ORHFQSVY4Sk9EOFA3dmNudExTcHBPa0prOWV3VXU3TEE?oc=5
+- **Source:** Benzinga
+- **Published:** 2026-11-18T14:23:39+00:00
 
 ## Apple Is the Only Magnificent Seven Stock Near a Record - 24/7 Wall St.
 
@@ -285,21 +303,3 @@ _Last updated: 2026-11-18T12:42:30.957072+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMimgFBVV95cUxQMF91OEtEdm1ua0tjQ01uQ0ZkeS1SV0ZvUVFoQXA4Q3p4TmxkUnFIQWU4WVRVbWxfRWRZak1DaDVwd0xsVnNPeUxKMzVlcTdQQkpDOS1SdUN6ck5YUC0zWmZrR0ZoY3JwTFppLXZCb2ZYcllrbFFoTjczVDNhQkZ6RHY4QWw3bmZxRVdxWElTWUlyZUg2RHFsMFFB0gGfAUFVX3lxTE1OM3VDWmNKandTRHdlZDVKbFJpd1MyNTMtQ2VYck51NXNEek5nWm1nbDV1aHRGSFktVG94cDJuZUhfOHVWSjFRWHF5MzAzeG1MQzN6MF9iRkQxS3FyZ2lldTFqbTFNZjJmZ0NmMXR1VmlKSFR5ZHQ4Z01FZ0xLR1hTUWtwbXBFU3RiazVMTW5QMk9Bd0N5MDUtT1BmQ1loSQ?oc=5
 - **Source:** Tribune Online
 - **Published:** 2026-11-17T10:48:26+00:00
-
-## Apple Watch’s New AI Features Hear Your Conversations But Miss the Point - Bloomberg.com
-
-- **URL:** https://news.google.com/rss/articles/CBMisAFBVV95cUxPNDJkb0JWekFjWDVtUFBXZDJsdGY5OTYwb1JhdzRZQ2RNb2tWMV9UdXQ3cEE0dWN5SEhNckU0aV9mSUNpeWtpR0wydjJRSHpUcHdzUnh4c28xMTQxU0U2Q3hnWmg5dTU3elVtcHh6aU5XbnNUYzFvWE44YzhTWnlpVjZxTk5FSzl0bDFjcklpclBpWDVCXzhKQ2Q2X1pGQ3hWYlpwbFZSdUxqckRncTEwZg?oc=5
-- **Source:** Bloomberg.com
-- **Published:** 2026-11-17T10:45:01+00:00
-
-## Apple To Face Paris Trial Over IPhone Repair Restrictions - Dataconomy
-
-- **URL:** https://news.google.com/rss/articles/CBMilwFBVV95cUxPb05MczBuc0I5TG1makMxVjA2UEZEOVNranhIVlZfVDNFaGlxYkpmOG9FdGl5QVV4eV90STkyaE4yaHhfWXl2NmRqQjd5eDdkYjJzamNIMmV5QU5hVUlYUExIbHRQR244THo5eGluaFNIOHFPWkJQVzR6UGg1TWE0XzE3ZURDV2xlRmdyRU1XT0d0VFJVVWQ4?oc=5
-- **Source:** Dataconomy
-- **Published:** 2026-11-17T09:56:39+00:00
-
-## Leo Wealth LLC Makes New Investment in Apple Inc. $AAPL - MarketBeat
-
-- **URL:** https://news.google.com/rss/articles/CBMitAFBVV95cUxPY3poeElXWW5lbGw3TTRfdlpESVhILUtBalU5RTB3eTR0ZXBrcFg0djNDc0NnV0VHSGpfM3VxaXV5Y3pSUjJ3RkcweTM2eFp3cnZQS2JvTnJwemZ4UzNvNDBZUUVkVGwzYzNLUnZZZEZTTVdhRlBoaFBwaWpLdWhOck5HWkgxdnpmdC15YWh4QnRWTlp0cWJHOGZ4N1VMNFJPM3lMSVl1SnBiekMwalFIMy1WZl8?oc=5
-- **Source:** MarketBeat
-- **Published:** 2026-11-17T09:47:13+00:00
