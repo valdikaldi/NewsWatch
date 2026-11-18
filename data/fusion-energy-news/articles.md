@@ -1,8 +1,92 @@
 # NewsWatch — fusion energy News
 
-_Last updated: 2026-11-17T22:03:42.648980+00:00 · 50 articles_
+_Last updated: 2026-11-18T12:42:32.359441+00:00 · 50 articles_
 
 ---
+
+## Helical Fusion Awarded Up to JPY 19.2 Billion in Japanese Government Funding to Accelerate Commercial Fusion Power - Business Wire
+
+- **URL:** https://news.google.com/rss/articles/CBMigAJBVV95cUxNc2VRMzNEVEo4YWg1Zy1xQUY5ZFc1dy11UTV1OURtdHN6RUYxNUtIR0t6TnBZVUxLUUFKb2dPZVJGZXI1Zk5nZWthUWVKZ1VrLTctRkE3dFlJUjhMZ1pqZXhqZm5SNWx6bC1lcW9RdmZnYzM0WEFGeUktcEtUcjFsLWwxWThTNG5KUC02LWRxbjhWMFhRakx4QmgyS1VhT2gzb3Z1ejY0RENYdnpXZ3YybF9kRkU5STlwV2tuWGYzQlVTaTMxUDdLMlg0NmlScDJZdUR5UkpwVFptRTZmaS1YZERZZ3FkZlVzeS1zdjNPanBnR2NuVVhxRWZxVU1VYk9Z?oc=5
+- **Source:** Business Wire
+- **Published:** 2026-11-18T12:36:00+00:00
+
+## Estonia’s Plural Raises €1B to Back European Deep Tech - The Recursive
+
+- **URL:** https://news.google.com/rss/articles/CBMivwFBVV95cUxOU0psWk9XYkN5dUE5T01yeERia012Szg2c0tDRHhKcUZMM0xHVzNyWlBNUE5QQnpqUnlUODNQbW95UTRCSXVFenVnaTBTXzBSZjRhU0x2Vm1NSDBPY3ctLUxEdEpiS2xKMXptOVpNU2VCTzRQQjBNSkVXc2xYSVY2bEduZzVHQUYtbnhqV1pOejlteHNWSFQ4UVJlTmJYdXVRVExmeTB2WDNFUkJFTTdTLThZVS1PWmRkbGY2UjRQOA?oc=5
+- **Source:** The Recursive
+- **Published:** 2026-11-18T12:01:48+00:00
+
+## redalpine, backer of Proxima Fusion, closes USD 250 million fund, sees UAE as natural partner for European deeptech - The National Law Review
+
+- **URL:** https://news.google.com/rss/articles/CBMitwFBVV95cUxNSkJKWW5zZ0YtdDF2dEFXcUxpNTZmeDNOZTAyZXdHcTVhY1IxZDVMQU1vUEF3SjUzbnZIaERjWTlTSjEwcnJ5bHpkSlJsVFlpNjVORVgtN3FxQU1lYW80OXlPQWJ3RlR6LVl0QW0yT0VaVERmQ1liMlR1MDBWTkRZUmo5WXFjczF3d1ZReEx2N3JFaW9BbDRwdU1QOXFTa1FMbE83WU9iZk9kNnRQRkdXSWFRejNHclk?oc=5
+- **Source:** The National Law Review
+- **Published:** 2026-11-18T12:01:45+00:00
+
+## France sets out 10-year nuclear fusion roadmap - Innovation News Network
+
+- **URL:** https://news.google.com/rss/articles/CBMilgFBVV95cUxNWHhPOWVZbFJScmg5WHFQdDhHS3FsS2Y2SFl6MXRRZjVrOHYtUDkwdk5zN3h3NEVqZXFVYmpueURtQmdDMWhmMzFRMHJVOXdoclZtbl9Fa2ZfQjBHTHBfa205T2g1UENvNkp0V1FlVnpXVVdoR21yQnlpcEdoOTNJS1B4RWh2VzNGZnJRMlZWR0VadzVFcmc?oc=5
+- **Source:** Innovation News Network
+- **Published:** 2026-11-18T11:34:19+00:00
+
+## Central Laser Facility partners with First Light Fusion - UKRI – UK Research and Innovation
+
+- **URL:** https://news.google.com/rss/articles/CBMiigFBVV95cUxQU0R5a1RTRXd3ZUxNNkp5WC1IVVQzM0ZMZ18wOGlkYTdsTzExLUhfLVhCMXdyOUpNc095b1NJMmxianVsUHV3X0N3aVloU3dnSzVrVUZKTUVGR2h1akJaVDljTEh6ZE9teFBidVd0QUQzMnNTejZpelBnSzMwTHZkWWIxT2QxVEtnQmc?oc=5
+- **Source:** UKRI – UK Research and Innovation
+- **Published:** 2026-11-18T11:32:01+00:00
+
+## A burst of plasma energy reveals how fusion reactors may heat their fuel - Tech Explorist
+
+- **URL:** https://news.google.com/rss/articles/CBMilgFBVV95cUxNNkt4VHdzWS01QVMwUkdnUmJuWVRETlZTUzBxTFV6QU41OEZBZHBPVy1OeVgzUDk0VTFqLTNQWTlmZ0dGWTgtdXo4X2dfYndjb29oV19ES0dRSmZ0ODBTQ0tLaVdFMkhidWlWVk8yNnhuSUJVM2NhMjljdVVpT1NvRlFCZjhwcFNyYk1hQ3VaeWo1UjMtalE?oc=5
+- **Source:** Tech Explorist
+- **Published:** 2026-11-18T11:19:13+00:00
+
+## Fusion power is about to start working, says Bob Mumgaard - The Economist
+
+- **URL:** https://news.google.com/rss/articles/CBMirgFBVV95cUxOVjRZOV82dXdob1lFWDFDX3VyU2JMRXBQWVBfdWZhbXhDZF95MzZEZVBRTmM4QUJxd3NKUUw5cVl4clBwX01sb3VjSG1xcEhNN2xJS2d5NHd4UTVZaWZ0WGk5b1dlckRiMjc2dkFtLWpXZ29NcVlmUktMZUhycXhmVlYtUU5xNm5fRTdPdE5wQjRBaXlMUXlKOHd3TzRqVkpFT1VGTHlCZmI3dHNna2c?oc=5
+- **Source:** The Economist
+- **Published:** 2026-11-18T10:09:13+00:00
+
+## Helion Microsoft Fusion Deal: 50 MW by 2028? - shattered.io
+
+- **URL:** https://news.google.com/rss/articles/CBMieEFVX3lxTE1LZEVrZkRpU2hlc3lPb0FubmRuVzQwS1A5TkZ2VGdEclU3V1hlQWNuSlk0eU4xYXVpNVR0ZjVpWnhCOGxEcC1zNXpYSFctY2hGUU02cUxxTVpsZndvR2xuNDM0c3dpSGJtX1k4blAyR3l2cjZzcHJVMw?oc=5
+- **Source:** shattered.io
+- **Published:** 2026-11-18T10:04:32+00:00
+
+## How science diplomacy is strengthening US-Italy tech ties - Decode39
+
+- **URL:** https://news.google.com/rss/articles/CBMijgFBVV95cUxOY1lrX0VYVzZtZWR0eTRMMEhVbHlsblYxaV9oRlJnLWxEd2JsZXB1cWNZWlZMcHVQUjRUdkpLaHhUazdRVXJaSTdua0w2djlTWDEyLUtBaE5qV3J6am1haFVEOVh0dGJtQTJKejRFLWw0dmRENWthNTROdHJCenVsdHVaRDJ5cGVoSkh2OThn?oc=5
+- **Source:** Decode39
+- **Published:** 2026-11-18T09:54:43+00:00
+
+## Fusion Power by 2028? Helion’s Microsoft Deal Meets the Physics - Technology Org
+
+- **URL:** https://news.google.com/rss/articles/CBMigAFBVV95cUxNOHdRYlVuQXQ2bVRyTmE0c0I1UTZvWWVIZDM2T1g1ZzRvTXMxZENLR3lEUUwzVWtuYnF2TkZRRW91bnFXNzBHVkVWeFdRX2o5T0Q3Y3FicjJsdE9GQzlENEpyZ1FoTDB6eWdEeVB5TWFEZ3NMVWhERGZSMjRUaVFyRw?oc=5
+- **Source:** Technology Org
+- **Published:** 2026-11-18T09:33:18+00:00
+
+## University Launches Clean Energy Innovation Centre - Mirage News
+
+- **URL:** https://news.google.com/rss/articles/CBMihgFBVV95cUxQWjFDM1Z4M2V1MHIxLXhkV2F1ZURJbWZDNVJSWUI5Y3hlMHpJNUpNY0RtUHZoUWJhQlpHeWJwaExFcTlibXVPZXMwQjU3NVJMMUQ3TFZJa1luQXBTMWVJdnFlMmNtNmFrQnZtUzJnOE04bGVTb1lxYXh0NEpULV9xN1pJRU9SZw?oc=5
+- **Source:** Mirage News
+- **Published:** 2026-11-18T09:26:00+00:00
+
+## Japan grants Helical Fusion up to $120M for stellarator power demo - Dealroom
+
+- **URL:** https://news.google.com/rss/articles/CBMioAFBVV95cUxQWlViMXFZWG1wb1RJa3RaVm1JT25pVGRscE9xYjNDNHBxN1ZxRG9FT2QwM21EVVdzVmt2MGN5dkc4MG1Obkc5RVd2NXVVdlNNSGQxMXBub2NQT2E3TllDRGFNR2Z1OG1qT1VZTnRVLW1ESl91Y3dkOURtU1kwbWtqbWxuUW1ZYnZjVzVMT1dfVkwxT1pjZm1TU2RyRXhrWVFy?oc=5
+- **Source:** Dealroom
+- **Published:** 2026-11-18T07:46:51+00:00
+
+## American Fusion Inc. (OTC: AMFN) Share Price, AMFN Stock News, AMFN Share Price & Updates - kalkine.ca
+
+- **URL:** https://news.google.com/rss/articles/CBMiTEFVX3lxTE8tODJBdXRWdzR5T2ptZ2pnNVp1VGNsdTllakMtc3NpTHNoeDJhdnVBYWlVaF9lZGhiajUzbWswS25oUUV2OG1yMnZuX0c?oc=5
+- **Source:** kalkine.ca
+- **Published:** 2026-11-18T07:22:24+00:00
+
+## AMD Lux Supercomputer Opens With 4,032 Instinct MI355X GPUs - KLGadgetGuy
+
+- **URL:** https://news.google.com/rss/articles/CBMifEFVX3lxTE80ZWc1VGdTQjBqQTlIOWxwRVlzMGtFNkpNWERPb2M0cGZiRk83RjV0cWZlSV9idTQySnJxemhOMVFlRnhocWxLWUEyNjM2SzNkRmJZaUMyU2t2U3ZGWkpIcmg1dFBIOFJYN1g5bHlFaG5hM1kxeUtUX2ZEVDc?oc=5
+- **Source:** KLGadgetGuy
+- **Published:** 2026-11-18T05:18:11+00:00
 
 ## Black Holes and Their Mysterious Bright Structures Explained - Universe Today
 
@@ -219,87 +303,3 @@ _Last updated: 2026-11-17T22:03:42.648980+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMiuwFBVV95cUxQLXRycmpSMDZ1R2c2REViNEM0SFRzdFFOUGlKZXVDNkJ3X1h4Y081dWdVYmlkZUxZOGlvMGZ0SXlQLUV6U3lQbFBqNmp4ME1JUWRxTE16aEt6U2xoVi0zMEFEOTdaSzZvTU5Vak9RX2hOU0ZPekdLTUhScjh0RXI2RVNJRkNDcmN4eHd1T1NwODlVaXMwSlBUdERJYkVjdU53ZjRlWkZrdl9Db0g4UGMzVTZKNkduQjgwa01V0gHOAUFVX3lxTE5QTkctMTl5Z0pvMEZVcUhoUF9KMFpOd1k0cnA1S0ZTQlhjaVd5ZXljeW1qR2Nxd0xmUWZrelVXVzV2aEw2VkhJYWNCTEtxQXpXb3pfLUlCVDhHd1lXc0o5ZUxoNWc0dHhwY25hNTFxbTFsaTI2ZmRveHlnckxDcU9sbk4zZzkzT1h2bS10TVV1Y184WDVGQS1kU2xyUlo5WXZkZVdLei1HQ1g2akJpdC0tQUhBMFNtcGhZMG1PUkpCbThWQ2ZkSzFJUkZHazlB?oc=5
 - **Source:** Gulf News
 - **Published:** 2026-11-16T00:30:50+00:00
-
-## Freemelt wins Alsymex order to make tungsten subassemblies for ITER qualification - VoxelMatters
-
-- **URL:** https://news.google.com/rss/articles/CBMisAFBVV95cUxPWjVJeVFPbHdYZkl4bThkR3lNRjU3S0FQanI5TGhMRUtWd3g1Q2pCbGl4WUpSckNIU0hIZGx3YndsZzNYYVNDV1FwNUgtY3hrLVVvSGF1OG5LWGNpVWdlTkdZc1E5bW9UX1FVNTNLUGU1RGZCU3pUNUJmMnlTeXJBSHFoaE5ZQWNDeVlwaUx4bWY0Z3NZazJtSGl6T19WckhoOHNtaXB6cV9sWU01TVNkUdIBtgFBVV95cUxOeUxzOWJVU1BZYUlLXzJRN3lKbm9ydklJUlV0NnhIRm9WaVBPNmRTUVRPSTNucE1EOElKd1ZhT3ZHQ0dtendYeHdwczFhMkMtWUY1VGpKNDBrR2xtanFzZ1I1U1RWcEplSXNvWjNETEY5cTJLRWNiZl95Qk9ZNkc3S0NrTjdIVnRDTlJ6ZUdZRkZhNi1SMXpSUEdzOV8wVzdDVFdsTm5CUHlGWXdnNzBacWRpY3FTdw?oc=5
-- **Source:** VoxelMatters
-- **Published:** 2026-11-15T23:56:34+00:00
-
-## NVIDIA, SKT & Rebellions Sovereign AI NVLink Plan - CASRAI
-
-- **URL:** https://news.google.com/rss/articles/CBMijAFBVV95cUxQdlN5ekpVNDNYMGgyZGFYYnV5V2h5bVFCS1ZVN0NWRUFoQXBDTjZLUkwwQ3dCNXJHY01lYjdGNFZyUHNSSlNVNnRZVG9QQVVMZzNYVWNLOUQtUWppNjQycHRZRWIwQlVBLTVVU29YSkR0Vk5SbjJBbWYtRTVRVENvY0xXYzFLREFVOFM0Sg?oc=5
-- **Source:** CASRAI
-- **Published:** 2026-11-15T22:53:42+00:00
-
-## Asia Is Building 73% of the World's New Nuclear Capacity - Crude Oil Prices Today | OilPrice.com
-
-- **URL:** https://news.google.com/rss/articles/CBMiuAFBVV95cUxPeW5veTlMd0FSUGVneDA3Wm1DRS1rNVBQVXRTeF9Ra1NlazFYejFJcnRIZXdxaFR0cUVRTEpRbldKLUZOQTR0TFRQMGxINkZHQU9lOWFaNEV2NGZod3BLV2o1VEoybEg3U21XRWh0QmJCQThnYS02NnhzLTd0V3lQNmkwaUtFWWd2YVUwdE5Pd1FkblVpSEk4VTc2NEpnSEphQlkwSzExUnFTTExXeEdVMVdBWWdJRXp60gG4AUFVX3lxTE95bm95OUx3QVJQZWd4MDdabUNFLWs1UFBVdFN4X1FrU2VrMVh6MUlydEhld3FoVHRxRVFMSlFuV0otRk5BNHRMVFAwbEg2RkdBT2U5YVo0RXY0Zmh3cEtXajVUSjJsSDdTbVdFaHRCYkJBOGdhLTY2eHMtN3RXeVA2aTBpS0VZZ3ZhVTB0Tk93UWRuVWlISThVNzY0SmdISmFCWTBLMTFScVNMTFd4R1UxV0FZZ0lFeno?oc=5
-- **Source:** Crude Oil Prices Today | OilPrice.com
-- **Published:** 2026-11-15T22:00:00+00:00
-
-## DRAGON BALL SUPER CARD GAME FUSION WORLD Start Deck "THE PRINCE OF SAIYAN" - SNKRDUNK
-
-- **URL:** https://news.google.com/rss/articles/CBMiV0FVX3lxTE8xbmt0Y1MyMFR1ODFJOXBQa01VSGpIczZGWGF4eXpKX2tJMkRyWVRTbk9XeXpiVTIzMC1GVFlBSERjeEZQSnl6X2ZEVlB2Qm4tSGt3ZlZkSQ?oc=5
-- **Source:** SNKRDUNK
-- **Published:** 2026-11-15T21:37:39+00:00
-
-## Proxima Fusion and Kyoto Fusioneering sign MoU to develop plasma heating and fuel cycle technologies for commercial fusion plants - Energies Media
-
-- **URL:** https://news.google.com/rss/articles/CBMickFVX3lxTFB1R01WaDhGMTlnMDIyNGVFcEg1UGNxSUFDazNWYUxZOUFmbnpNR1lEWWR5Q2huUnllakc3dGY4amx4NjRWeXY0YkFGQnVYeW04ckd4eEEzNExQRG9wa0NBZ3JJSFBUWkdDOWh0bHhWRnlIdw?oc=5
-- **Source:** Energies Media
-- **Published:** 2026-11-15T19:15:27+00:00
-
-## Iran to launch first fully indigenous nuclear fusion system - Mehr News Agency
-
-- **URL:** https://news.google.com/rss/articles/CBMimwFBVV95cUxNRDhPbkJBZXE0NjVUcGFsak1KRnk0Wkl5X3I0cEtwZVF6QlJIa2dLY2x3WmJEeVVWMThzNUhkNUpPTnJlQi1TTmJMWUFFdHhJVTk0WTZyM2xHSzhtci04MDRobDBNbHVaamFYVlQxY1N4X0VLVVBvVzZycFBTQ1VGd2NteXVadHJwd0JLYzNBZzZLeVdrMVhKM0tzUQ?oc=5
-- **Source:** Mehr News Agency
-- **Published:** 2026-11-15T17:49:00+00:00
-
-## Iran prepares to commission first fully indigenous nuclear fusion system - Tehran Times
-
-- **URL:** https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWFNDSnRYSDB3aFlueTBCNUVDY2NDR1Q0Nk9UZ3A2MHNrTExuZEVJZTJMN2ozak5CQXJHSVJUZVdsVDBYOGlyNlphb2hieFBJX0Z6Qkg1bWpwWWhJaGVXa3UwWS1ZWHk1SHczVWZGUjYzbGYyT3dVQkZaY2lSLVpXUGw0WTVOTlJoVy15Rl82YUlQWWE4UnpaV09nem9NdDlrVWFBOE1qTmc?oc=5
-- **Source:** Tehran Times
-- **Published:** 2026-11-15T17:44:48+00:00
-
-## Tehran announces operation of first Iranian nuclear fusion system with local technology - وكالة سبأ
-
-- **URL:** https://news.google.com/rss/articles/CBMiU0FVX3lxTFBGcVV5eGhkS3E3WFd4amtPNkhsYXQwaFptdE5iVnNwRnBabk1OdS1NaUJUYVBEeVNsQlk3dm9oZUtyWmxqak9mY1RDRFlmSW9qQlIw?oc=5
-- **Source:** وكالة سبأ
-- **Published:** 2026-11-15T15:58:21+00:00
-
-## Israeli VC fund Fusion launches defense tech program with up to $2 million in startup funding - Ynetnews
-
-- **URL:** https://news.google.com/rss/articles/CBMiYkFVX3lxTFAtQzB5Sm13VUpTc2JRbjBtVllQWmJ3XzUtUWVnQWZLWnNydTh0WVJESDNhN1pkNGFNenR3LUZmYnN0WTZ0MEt1MkhTSmZSUTBnTk1UVF91SGpzVy14eS02N0tB?oc=5
-- **Source:** Ynetnews
-- **Published:** 2026-11-15T13:24:05+00:00
-
-## How Are Strong Steel Prices and Record Shipments Lifting Profit at NUE (NYSE:NUE)? - Kalkine Media
-
-- **URL:** https://news.google.com/rss/articles/CBMiygFBVV95cUxQcEh0UXZxT2pmb0JsaFo3ZEZsUFd3QVJlTl9HYnJDMVpFQTlZWFhBV2RTNzR6WVcxV2J2ekFUcmxDVHVuakh2QXpvX29QT2lBdjREaWc5N1p6VXJraVVVemQxTUszUEI0Y1Z5VUJhbzZkcmp1TVcwWmd2UHRnejVqWXA0S3dJY3N5b0ZKRmp2bENvZlA5c0lqY19yWXBYQ0puUnNuYnYxTWRCaGlLS3pLZnRPemtrX1JWMVVrVVRhWDdkdWdURndCcXRB?oc=5
-- **Source:** Kalkine Media
-- **Published:** 2026-11-15T12:17:00+00:00
-
-## Fusion, LN4's single-seater partner, announces its entry into Formula E - www.autohebdof1.com
-
-- **URL:** https://news.google.com/rss/articles/CBMixwFBVV95cUxORXQ2bmhSNUNaaHdXcWRValY3RjVpNkpBdmxJaDF3QmN3TmFmTHc1Qm9Fd1E5QjhOcTUtVTRyMjRUNkl4RG54ck41a2F6dFY3aVI2UjJxamlEYU1CcUpsS09Mb2hZM3dRcWJxQkphOHV2dGdQMmtMZUtLS2dpRlIyUVI0eEJoVkNwVDJFMlVpUGpUY2tFUS1lLUpBZVhHdUJGenNqbmR0anB0SS01clBMNDNhSnlLRUc1NFZ1QlpKLV9ma3QtMzhv?oc=5
-- **Source:** www.autohebdof1.com
-- **Published:** 2026-11-15T11:22:15+00:00
-
-## Mei Yonghong: Winning the Technology Contest of the Century - The East is Read
-
-- **URL:** https://news.google.com/rss/articles/CBMickFVX3lxTFBGZFNfYk9BVGF4dzRvZUZUdUpqUTA2a1dVVW9kTVo2S2N4ckRxYUMzTkRyVUh3SHFBYzJzT2ZZYm0tY0dHUmpJRzV3RVJKLXluTzZOR0lNQjU5WmtHVDIwVnM4SFE5QXFnd2x3WXg3T0x0UQ?oc=5
-- **Source:** The East is Read
-- **Published:** 2026-11-15T07:45:07+00:00
-
-## Fusion launches defense-tech fund with $2M startup backing - The Jerusalem Post
-
-- **URL:** https://news.google.com/rss/articles/CBMiY0FVX3lxTE5oVnZELUNHbzVxajk2X3F3YkJxMmpWaE9GR3RIc2ZTUWdoOXFNSW81NlNnRmx6dFlsSGdERDZuUmkwS05mVVNDaGtsbjgyM0RaWllnQmJmdFU2dXhQV2NlSlFZbw?oc=5
-- **Source:** The Jerusalem Post
-- **Published:** 2026-11-15T07:14:35+00:00
-
-## Trump Media Earnings Call Highlights Growth and Merger Plans - TipRanks
-
-- **URL:** https://news.google.com/rss/articles/CBMisgFBVV95cUxON05xekQtM2ZfMmhjLVNvbUVhdWJybVJOZ01FU1gxZXNZTTZnRjlMOWJrMS1KQmxLbHc1OTRsMVhlSzFxd0lRTXhnUnd3amhDRUtEcjBveXZnZ3p2S2d4aE0zQ2VpR0NtbE1Jalh4cjk5RDJyVVAzekxCQkp4WEZVOWtSaFpHMi1MMmRULUlSSlJlNmhXUkVBdGV1bWlxVURvRnVXdXloYVRqVG5KS2tqS05B?oc=5
-- **Source:** TipRanks
-- **Published:** 2026-11-15T04:38:50+00:00

@@ -1,8 +1,140 @@
 # NewsWatch — Apple News
 
-_Last updated: 2026-11-17T22:03:41.424026+00:00 · 50 articles_
+_Last updated: 2026-11-18T12:42:30.957072+00:00 · 50 articles_
 
 ---
+
+## Apple Is the Only Magnificent Seven Stock Near a Record - 24/7 Wall St.
+
+- **URL:** https://news.google.com/rss/articles/CBMioAFBVV95cUxNOFhtSDQzZUEwRjhSbUwwTDFBX0FjQXROTTJBWlNFNWJiY2oyX2t0RFhwSS1fZ0F0RjBDcFMwc1dRTkZUOGJldVUzN2lrU2Y4cEt2OU5TNmk1RWNCUkp0WXhXRWF1ZW5RU1NoU0poQmE0RUxMd3EtbzlRQ1lGckZGSlJDX2dWRERNcEhWdWduQnlmd3hOWXJ6a1FKRVBNMjI4?oc=5
+- **Source:** 24/7 Wall St.
+- **Published:** 2026-11-18T12:22:00+00:00
+
+## Apple Inc. (AAPL) Stock Price, News, Quote & History - Yahoo! Finance Canada
+
+- **URL:** https://news.google.com/rss/articles/CBMiUkFVX3lxTE5TSWlVaERqVVBsb2hTVzZaa3l2bkpRTGZVT0lzaGo2TDNNRzVKMkttcFRXV2U1T1RDLVBLNktsRmxVcTNtbXpmTGFLUHdsT3VmR1E?oc=5
+- **Source:** Yahoo! Finance Canada
+- **Published:** 2026-11-18T10:56:29+00:00
+
+## ‘Steve Jobs Ruined Everything With the iPhone:' Palmer Luckey Blames Apple’s Simplified Design for Killin - Benzinga
+
+- **URL:** https://news.google.com/rss/articles/CBMilgJBVV95cUxPdmMxWU9lQlA3UFAxdFhfa1NWZHFhOUluWHU1OXlCVnQ1Um00TnpZNE82emFTaHlkUm1RandPR1NRbUxWRTloM25BSlZyekRhaTF6NWloaGk1ZndrWWxWN0VZZERfLW1ITTMwbmJKczF4a0NpTmFjVlZMSHViTVp1OXpWMHdSbWIyelR5aGZyTWhROE5VWVNhc1l5M2VPYjdzak9pMlZqaS1iRE5OQWVqMDlUYUo4NU9XV0tLZURxa0dCT2pBUElEZXNBdVlTR25LSUdxYUpzMUVzZndtcUZSU19CTEtCRXZYQWtmaXVscmgxbkFna2NzaUhKYURxbTVHNE1DYWgwZG5qaDIxeThWNk52YWhBZw?oc=5
+- **Source:** Benzinga
+- **Published:** 2026-11-18T10:39:52+00:00
+
+## Apple Inc. $AAPL Stock: Oppenheimer & Co. Inc. Trims Position - MarketBeat
+
+- **URL:** https://news.google.com/rss/articles/CBMitgFBVV95cUxOeUU0RC0tVVQ1SzdhdE1nNWI1WjJUcDlUaml1akNnaHhuVjJPS1BsMFVuc2xLOS1tbjJwWEtuTDdhRGtJVWNlbWJsRllmcjVhT2ZtUmg3aE9naW1LMXUzZ3hGOXZ1a3o1NW1lbHhHbWJPd3hwQjVpaDhQeHhhelVlYV95U21Dcl9SUGxLX1hCNVhKUjJVV3NnMTVrMkVGcE9wU0xzWXBSeEtpcnhkTEVFcHN3cmkzUQ?oc=5
+- **Source:** MarketBeat
+- **Published:** 2026-11-18T09:39:42+00:00
+
+## Apple Inc. $AAPL Position Increased by Park Avenue Securities LLC - MarketBeat
+
+- **URL:** https://news.google.com/rss/articles/CBMiwgFBVV95cUxQejNqNTRwYUNVamVGX2Z1bGJpNEJGZS1lNnh1VzZRX3k4WXBTWkFscmVyQkJJNHpHWUZsZ29LZV9mNHU5N2RyeUpDUkEyX0ZEdFI3Z19Sakhmbl9jVVNaSF9Pb3BnMGRXNFp5YzdWZDF6UTBVVlBhMUJlQmFfUG10czZ2Ui14YUlVNXhfV2J0NmhLd0ZsS2JIc2tnZk1OeWhzZ2JWMHpZZEI1ajZEenluX29EY1dUMERrV3poanQzZHptUQ?oc=5
+- **Source:** MarketBeat
+- **Published:** 2026-11-18T09:39:42+00:00
+
+## 23,213 Apple Inc. $AAPL Shares Sold by WealthCare Asset Management LLC - MarketBeat
+
+- **URL:** https://news.google.com/rss/articles/CBMixwFBVV95cUxOQkJEZDVKQmFIcFJyZ0Z1cThJdWxfZlc4NXpQUVRjZDVwZWpmdDF1dXp4WTd0c1RFZW9zZU9ZbldLZXF0dXlkdDJ1eHdJbTFkYkdrbnlrRnBHMjZJaVNXSkcxSEFrSXhWUG5Rd1lRQ0VvSW5Jb0E1eEZiU1VjU0x1RkpTczBxWTF1WFBtcUplbGpxUGVDczRhVTBCMzJkaTBXcmJ4ZWFsb29jR2tyRmMyTkVQaDZiV2VKQmRzZXVxU0tHLUJFTnZr?oc=5
+- **Source:** MarketBeat
+- **Published:** 2026-11-18T09:37:55+00:00
+
+## Apple Inc. $AAPL Stock Bought by National Wealth Management Group LLC - MarketBeat
+
+- **URL:** https://news.google.com/rss/articles/CBMixwFBVV95cUxNR19kSmVxQ3JibURYdHJJeFRnZmE2VVFRa0YzaHdMQmFNUzVyRVVPWnE0bDNOME5VY3ZEVHd5dDZZLVpiSkcxVjRsYzZ4TkpuZnpsUXdBNmppcmo1YV9sc3BDWUtJZFNmWW9IS3ZZVnpmWFFzUWRWRll0TUxCOFJyMUc0OWczT3h1RDhCcTdnSWRra09maVBGTmowY3dORmdQWVpNaVBMdDh6eDlITXl3RFg4a1NTczhxc0VTOG1DNkszOFdWMEdZ?oc=5
+- **Source:** MarketBeat
+- **Published:** 2026-11-18T09:37:55+00:00
+
+## 2,700 Apple Inc. $AAPL Shares Sold by Maxi Investments CY Ltd - MarketBeat
+
+- **URL:** https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbWp0UWY4VThGa0VyQ2ZWdjd0QkZkYndIS0x3RjVzb1llcm13SURxNFVIdzZHeVA0eko5aDhhX01BaWFldEFXclBReHRDWnJ0YnhpOWloUFU4cmRCSXU1NE9GZW5ZYlpUREZGbThSelVnQlJ1OW95cXAtbmh2bG9fVGkwTkxIaEFOT2xyWEY5eGFRWk14RGdPU0VfWnhsVHRCM2JmalF2Y01URXpTRlpBWlVxRTV0dXV4YXVJ?oc=5
+- **Source:** MarketBeat
+- **Published:** 2026-11-18T09:37:51+00:00
+
+## Apple Inc. $AAPL Stock: Verdence Capital Advisors LLC Grows Stake - MarketBeat
+
+- **URL:** https://news.google.com/rss/articles/CBMiwAFBVV95cUxOa1ZYYkVzTFZQNHVZd3QybFM1U3RnM0Utc25GS3JNV1M2VThHWVM0SE15bjVpVWdVTW1fV0EyZ1d3TU01Q200Nmg2Wkc2QlFCVGpQbzlzeTM2V1I4M3ZHRk9FOUxReVFGN0pJbW92NGREZW9Qb3BVR29OdnNJcnlsWkROSF8yVTVfVm1TdU1qeUtFbEEyY19JWTFvVzZvRnY4a0JEQkhQUExWSUVtUjZYNUVmX19TVGZwZU9rQUp3MUg?oc=5
+- **Source:** MarketBeat
+- **Published:** 2026-11-18T09:35:58+00:00
+
+## Apple Inc. $AAPL Stock Acquired by Cahaba Wealth Management Inc. - MarketBeat
+
+- **URL:** https://news.google.com/rss/articles/CBMivwFBVV95cUxPOGZHbmhaUEFsYkRqS1FlM2pzNDNPb2pueWVkT1V3bU5rY3lJbVRLUjVWX1hUTXg3Zm12MDIxelNhT3FYTVVhOWhQRFo1N1JMbWlGekI0TThQNUdlSkFrWEo0T0FMSjlqVEl2bndyV3BEcng1a2IzbkJsWTdzVDRGVFFwVjAtTmRaSDRZekptaWRkSHFUNXhxZTdncGwtUkxGa1E1LV82VXZUUTVzRklZS0FudUszVlBReE1rUnJMYw?oc=5
+- **Source:** MarketBeat
+- **Published:** 2026-11-18T08:35:20+00:00
+
+## Apple Inc. $AAPL Shares Sold by Arthur M. Cohen & Associates LLC - MarketBeat
+
+- **URL:** https://news.google.com/rss/articles/CBMivAFBVV95cUxNUEtiekdZMUJmOGZWZm1BdHFkYWtucEYyaU55UVg5alhpT3RiWGJUZk9tbVlZTnUwNElyVFU0TnFWenI0SlA5bHlYLUlWN2dTNVZIODBveUhUUERpdDljcXB0SFNBRHRHNUV5cF9QTUY3SXB2LVQxS1lIRk4xeFRzbTAtbmF0cUxjN1pSRDYtTVl4cVVJbXhMenhyY0dxN2w0X2t1X1BEVVM4MzRPSlVtMTdCVmd0VXcxa2hmQw?oc=5
+- **Source:** MarketBeat
+- **Published:** 2026-11-18T08:15:20+00:00
+
+## Technical Analysis of APPLE INC. (BACKPACK:AAPLUSD.P) - TradingView
+
+- **URL:** https://news.google.com/rss/articles/CBMigAFBVV95cUxOX25pNGxpNW5KRmt2UWFlQTR6OTFxTGpKNTg0NzltWHd1aVJ3elZ4X1RDbFJ2RU1oTkdiV2pPb0E5RmFFZzc0bFVuZllGdmhPN2g5V3JtSi1FeEJKZG5LY1BCZERncU5LaWplUUcwOTM4T3J3QUN5THIyb2FRdmhTbw?oc=5
+- **Source:** TradingView
+- **Published:** 2026-11-18T06:37:54+00:00
+
+## Form 4 Apple Inc For: 17 November By Investing.com - Investing.com Australia
+
+- **URL:** https://news.google.com/rss/articles/CBMimAFBVV95cUxQbnVjMFdHbzljYzdHZ3lJd0Q4S0FqVm5MZ2ExSFZNLUlIRjNwcVd6c0FCVGdWTlIzQ0N3bExaOUdfWkkwd2k4aGk3WENtendzZTFHTTdUZWxvbl9uUnhvRW5GU1NCVnhPdHBjc2swNG5MdDd0cWhYUjlZcHpnTHh0X2RiM3pnWld4endEd1cxNmhlam9FeGM1WA?oc=5
+- **Source:** Investing.com Australia
+- **Published:** 2026-11-18T06:03:53+00:00
+
+## Apple updates app store pricing across multiple countries, introduces new California tax rules - Seeking Alpha
+
+- **URL:** https://news.google.com/rss/articles/CBMiywFBVV95cUxQNW4yb1NFai1nR3RoRlg0QThXbnpkRTlTQ1BrWG51Wmhrd3dCRnpUWWVSNG55c2k2anJTMUJDNnlSbks2WEpxWk0welhkSzZicklodTdMT0dOSWRqSTNVNjM5WjBYVUkySzJ5Tzh5clJ6b1JxNm9YTkdqRlBYcnN6bV9MTC1taUR5QXd1Y29VRnhCanhnNjhaMHZsWjcyczVVOHpoWWlRMWM4STZHaU94OVpCUXpkV0NkRzhLX2NvZU9JQnNFZ0QzMmhTQQ?oc=5
+- **Source:** Seeking Alpha
+- **Published:** 2026-11-18T04:47:38+00:00
+
+## Is Apple down? Company says 'internal update' behind outages on services like iCloud - WBFF
+
+- **URL:** https://news.google.com/rss/articles/CBMi2wJBVV95cUxPS2d2NzMwLUZKaGJSWUh5S3pJeVVraDY1Y3RTOVJSUEJqQU9hT0pDTVcxNVI2RWJRWlRhSHVkajVselpjUExEQ0E3WFJ5dVNnNE1YckwwWXN1OVJLMzl1WjdyNUxNdDdURzZoZFRXVnhLTFBLVHoyZXJxNEVYQ2xmSHI2NFhEZW45TVpDVGMwdFdsR1NHbjZhZ0NxRlZ4eERGR1lDLXljR1BqQWQ0MzlWaF9TYUl2R20wOFFNb3paYk9aYjNLMGdxWllsM2dtc1g4U1Bpb0NfZXF6MF9ncFNBc1dqSHBoU1J1clZ3Q3JmMkZEbU9hM3hzUjF6S29nNWtvVWJUNGtWbGNoeTl0ZHNJakNONmpUT0Jma3B1RFN3eUhFSzYtN055LVdpVVZBaVFEc0lVeWswUG9tSjJLLVQ4RkwtQVVSdjh2ODNzY3AwZkJtc18wZHJHZVRjUQ?oc=5
+- **Source:** WBFF
+- **Published:** 2026-11-18T03:51:29+00:00
+
+## Apple Internal System Update Triggers Widespread Outage; App Store, Cloud Services and Payments Briefly Disrupted - BigGo Finance
+
+- **URL:** https://news.google.com/rss/articles/CBMidkFVX3lxTE54QzdBS2NONi1Bb2JldEgwZXAteDQ4dExsWDJDR1p5dW1pTEx4c2pKVjlsNXlkY2JsaC1UVFh3MkRwaTdVTHBGbWxLdUpYVDdzTXZ6REJHVGkzNXBMMm9QYUh2QTVFaDZHbHFuZ0I1Z0x2TC14N2c?oc=5
+- **Source:** BigGo Finance
+- **Published:** 2026-11-18T02:35:00+00:00
+
+## Apple to face trial in 2027 in France over alleged planned obsolescence: report - The Malaysian Reserve
+
+- **URL:** https://news.google.com/rss/articles/CBMivwFBVV95cUxNZ3RZV0pRRG9XQ0RtMlhBZzVCdjdZV24wQjlfZEQzUXV3eUFuRGY5MHhSYWJuYnFSbUlObGEzVmtVOExSS0o1aERCUnZnc1MyREJZcnpOVW96YUtBLUlLMjZmdU9md1FOUFNIWjJyTFlUc3preDkyZ1Z1RzAyaTg3Q2FEWXRlSVRySl9fU2hPVmV0LTdSaHppa1dMQmwya19Lc0hrbkRMaGRURUk3UzFZZzdhaXlaVnpfeHVSX1R5NA?oc=5
+- **Source:** The Malaysian Reserve
+- **Published:** 2026-11-18T01:52:24+00:00
+
+## Apple outage: iPhone maker rules out cyberattack, says most systems restored after internal update caused disruption - Livemint
+
+- **URL:** https://news.google.com/rss/articles/CBMijAJBVV95cUxOR3ZZZWtsbzNxdkZJUlAxcmpLX0RRZEs0dGZLTXYzNTYxOWFidmx2Zy1Wa2V0aE1PRFVldHJla2VQMDhTYk9OWTJpVXB2enNkRWVNTzhKQldpVUpiR2ZOUXlLUnZZR0ZhOUhpWTVvMXo4SzVkMFljbWs0ZEpuVlhRajlsR0ZQcm05a3MzOGhFdEIzakVHVU94M0hRR043eUVsNDJyV2FyYWtCbmw1ZUJMX3loSklwXzhibnlGaGpZNXBmM0VpblZUWkhyaGVRRWVDLU9BYU10MHoxdUFtcE1pb1UxM01PRGwtM3ZyMzRQSWZ3WlZvMDNZdEdxakZnaFlKQTVjWFY1SzlqcmNl0gGSAkFVX3lxTE95Sk9vUWdjNVQ1VlFtRzhUWFllZlIwQk45U2lWN0dIQXJIM3RNWlpUQmwyaVpoUmtOcUZjbC1TTjdHQ0pzVWVyMHY5aEFMekhtaE1HS1pKa3hJT2NGNm9fSC0zUXZCZmE0NFg1M2xWaEZsdmgxUjVINXhOQWdPdGY1TmhPeVVnbndObk5fd3I0RHdfLW85TzRzalNwalZaTjhFX0hPNC0wZEliT3M3NlVTUXZKdnRxcTdNcDA4YkFvbUZWemltX25jdXFsbDJLYmF5eDA0OHlCbUVUMGxNVjdPaXhDZHF5SnNXTUt0SGp1dXZ4R21lelRaV0U2VWtOQzhTQmtiR0hRYWcyRXdsZkZYTXc?oc=5
+- **Source:** Livemint
+- **Published:** 2026-11-18T01:21:59+00:00
+
+## Popular websites compromised in bid to steal crypto, target iPhone users - The Standard (HK)
+
+- **URL:** https://news.google.com/rss/articles/CBMiwAFBVV95cUxPUjI5V1A1ZXk1XzI1MVo1UG5kQlNVQWJjZTQxNVM1LU04OG0tTDFDOFBaNndtNERhYlFyNS0ybkZJekJxRUo4Q2JORTliZklVRHhSX1hiTlpyeGFfWFptUkJyYVhaMDVfdFZtQm1DSlJvcDlucm9pOGttZUVZcUxXejhzVG5ZaFlNSDlCXzJBUzkyS2R4amlRc2YyNVJWbHFDOWFYYm96ZTFxN21DRzRhZW5UaDFIMzlUYy12VnlOUzk?oc=5
+- **Source:** The Standard (HK)
+- **Published:** 2026-11-18T01:15:23+00:00
+
+## Is Apple down? Company says 'internal update' behind outages on services like iCloud - KATU
+
+- **URL:** https://news.google.com/rss/articles/CBMiuwJBVV95cUxOanZBdW5INFNBZGxZNTB3aUYzNkRDYkM4MTh3dFVwMTViQUtyVUVIa1lhUlJKNGZ3eU5WM2s0aUlVdVpyY2RlYkRDZm5WanpZWnNkY205SDBjWTFCZkdyOFBPczJmLXc2Z1NxMTRlV0ZORzFsNUU5MDg3bVRyNjZkS3ZaUFNFTC1zdTY4cHI5ekpRZ2Z4N0Jyai10WlEyYjFlMVpwWmZ3YkpIQ1VaNmNfLU13bk9ZVjNDdnhaSEVNaXVuZHZpc3k5VWo2OVZpNFozMEN2eFZiWGM2UkFvOXZKYTkydWpvZWlnLWRaRGM4NU1VUTV6bFY5c1JNazhFS25iR0ozVHVFUjNjenRNVlppZk0xOU8zNlhsSlpfb2t2YXhJUTVYelMzWW5Yd0FLMGYyOEpzWU1VaEVVT2M?oc=5
+- **Source:** KATU
+- **Published:** 2026-11-18T00:30:09+00:00
+
+## Apple Blames Internal Update for Outages Hitting App Store, iCloud and Retail Systems - BigGo Finance
+
+- **URL:** https://news.google.com/rss/articles/CBMidkFVX3lxTE5sd1JTSWpWRlNCV2Vya1lqRWhZeVF2ZVF4OEVMcUoxVW5tak80LU9YM0txOGtsY0VvazNndUxDT3VUdF9VTm05bjBJR3Y5UlFxN1ZNV1dZMWx1bm9SZkZYcDYxNkJIRUF2UXVvM0x3YXZXQVM3Smc?oc=5
+- **Source:** BigGo Finance
+- **Published:** 2026-11-17T23:05:00+00:00
+
+## Apple works to restore services after outage caused by internal update - Reuters
+
+- **URL:** https://news.google.com/rss/articles/CBMixwFBVV95cUxOYVJuYnNwMGtjY1NfY01rbXdSVTVnOFdaak1sd1ZkbXpPZzFuWjlOcTJNVUplNDJZLUVxeGZtaXlGZlg1UjFkY2Z5Um5Td19tS2pUZmZKNFlEb0QxVUwyekt2UnRPRlJUT3hRM3FhQWp2MDJRVGI4U1hfeWlpeGlBdFJyTG1rei1yNXJqbnF5LV9vQ3FwYVloZjVhZ1hfVWUzV0RlQVpRc3I3emJwU1lFZEduaUZSS1k5anRlN2lDQkQ0SFI0QkVz?oc=5
+- **Source:** Reuters
+- **Published:** 2026-11-17T22:55:19+00:00
 
 ## APPLE INC: 3 OUTAGES HAVE BEEN RESOLVED TODAY - Moomoo
 
@@ -171,135 +303,3 @@ _Last updated: 2026-11-17T22:03:41.424026+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMitAFBVV95cUxPY3poeElXWW5lbGw3TTRfdlpESVhILUtBalU5RTB3eTR0ZXBrcFg0djNDc0NnV0VHSGpfM3VxaXV5Y3pSUjJ3RkcweTM2eFp3cnZQS2JvTnJwemZ4UzNvNDBZUUVkVGwzYzNLUnZZZEZTTVdhRlBoaFBwaWpLdWhOck5HWkgxdnpmdC15YWh4QnRWTlp0cWJHOGZ4N1VMNFJPM3lMSVl1SnBiekMwalFIMy1WZl8?oc=5
 - **Source:** MarketBeat
 - **Published:** 2026-11-17T09:47:13+00:00
-
-## Apple Inc. $AAPL Stock: Patton Albertson Miller Group LLC Reduces Stake - MarketBeat
-
-- **URL:** https://news.google.com/rss/articles/CBMiyAFBVV95cUxPWG1xRGdvdk1TNWc1UDdHWG5ScnZBSTQ4LVRFX085Z1E4bVpUcG94YXNUbHM3QTR5UUZnT3RSRnk2aWhkWWRBdmdjWkhtNE1RWnh1VTB4VkF3VGFyQ2JfSWw2MGN4SWNFeTdfRXV0eHg2emZieTBEWHFweHVOZTZFcE81eVQ5dDljcVVoNTZCM3ZxYWF4MUQyU1RpenFpVllpUHlpcEx3MGlEWWFNVjFfM0pQX281WG16dkNKY2trc3hiZFZuaktjbA?oc=5
-- **Source:** MarketBeat
-- **Published:** 2026-11-17T09:47:13+00:00
-
-## Apple Inc. $AAPL Stock Sold by Loring Wolcott & Coolidge Fiduciary Advisors LLP MA - MarketBeat
-
-- **URL:** https://news.google.com/rss/articles/CBMi1gFBVV95cUxNSVpRTXc5WDRsakZNVk9xLTRpYlptUXZJblQzcDhWS1JpdTFoSnB5eVJUZm1HRFdKQWdtOC0zTFVwdDVtam5vQU54N2tYUFlwSzZHRmhZODBXZ1psREZlbTVBbGlKVGVIdXFfblcyOFVQWDEwMFl4aWZaMkNsNTJ3bnJ3MWJmQ1NJc2FpSV9LUEdYVk5IUmhMOVJSLUpVQ0VuaVpHOW1jU3o1Nm9HNGZIM3FQWks0N2pRUzRKMG11UHhUeE5uTjFvUS11dUNLZUl3LWU1Yll3?oc=5
-- **Source:** MarketBeat
-- **Published:** 2026-11-17T09:47:13+00:00
-
-## Apple Inc. $AAPL Stock: VUB Generali dochodkova spravcovska spolocnost a.s. Lowers Position - MarketBeat
-
-- **URL:** https://news.google.com/rss/articles/CBMi4AFBVV95cUxOTVFJM0JrLU1tcUZLaDU4NkN1NlBucUlIaW5KZ1htblFsMVM4alRENmYtSmV0MHhnZFFDNW5mLWx3R0MxQ191YkJPZjFaV0FCLUg2V1puZEJDRlVwVWhKX3ZJRmRObE54Z3dHVVAwcVBnakNsWUUwY2VwVl9WaXp0M0JJdGZwVlE4NFlhcUcwZXlQWUhvR29oalZ0TG1PcmNFTVBEUVYtRFNLYmdmZXZVampPM1EtRmlZYzNyM29DY05aWE5pLWMwTmxpNHZZX2lSR0ZsbjdBYXdjVnhvcFNhUQ?oc=5
-- **Source:** MarketBeat
-- **Published:** 2026-11-17T09:47:13+00:00
-
-## Level Wealth Management LLC Buys 2,056 Shares of Apple Inc. $AAPL - MarketBeat
-
-- **URL:** https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZ0Y5S0JMM0pUWkhWX0tBU0dQbUZUdmlTOTNYY002cnZKcHQwZXp6RC1mWUJGa3pXelJpc0JvdTNMeG5KcjZEQjNtcXB4TXY5dExOMGM5UHp1M2EyLUh5NXZFQjkwZ1VPLUZkSjlYbU5uMFdRUW9iYlczdjVJaWUtYkZnb1cwVm1IeUFIQ05paW8zeWl6ek56YXE4aFhLQ1J0MGlyTm03akVxX0o2SVU2U0g4aUtUVUppd2dwd004VWo?oc=5
-- **Source:** MarketBeat
-- **Published:** 2026-11-17T09:47:12+00:00
-
-## Apple Inc. $AAPL Stock Acquired by Sunesis Advisors LLC - MarketBeat
-
-- **URL:** https://news.google.com/rss/articles/CBMitAFBVV95cUxPY1V2dU9TeHN5OV8yNllZS0RPeVNYd1cxeW5nWk5vV2loMm9oRjRoOFpJaEZPNFFfS3AyN3F3N1VvQkVHcW91Z0lwczlXdGw5RHA1MzVSanpNUTNIYlVzX21uNnRBb2lUcExIZGNWWEFKUC1ESDFPb3ZQVWtNYjgzWU40OXdHVlRSYWdvYWJqRXVxN1RRY1BneDMtaG85QnR1dGlsVTRhNi1DR3dfNzVQdzNPNVM?oc=5
-- **Source:** MarketBeat
-- **Published:** 2026-11-17T09:47:12+00:00
-
-## Plimoth Trust Co. LLC Buys 49,720 Shares of Apple Inc. $AAPL - MarketBeat
-
-- **URL:** https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVE12cjFHUkpWc3ZCSDF1Sk05TDBJRFpISmpGZU1fdkFGR0FmRVNmd1VsU2o4bWpnWklwMHFDel95WDdBN0R4dlNtS1ByUUhWb0FlUGFHcEtxQ0tfWG5nVE9jUDdwV09pQzJqMkkxZ2VCMlRWYms3NVBmSkY0cVd2S2ppMlZ5b1V0M0hDZk5xVk1UbGRGallBdmhuaWV5ekh1SkZOencwQjhzODdTN0xhWlhOdm51Skto?oc=5
-- **Source:** MarketBeat
-- **Published:** 2026-11-17T09:47:12+00:00
-
-## Apple Inc. $AAPL Shares Acquired by Noesis Capital Mangement Corp - MarketBeat
-
-- **URL:** https://news.google.com/rss/articles/CBMiwgFBVV95cUxQV080a1h0VURZLXlUNkx2c25KZ21DZjEzZjgxWDZZU2I0YXVZX09ydFpyYnd0dG41TV9ISHRjdkV1RFZDSk5oR3lqZVJmREVQVTlFU281djdiQmFPS19naW1NOTJBb0lydmRuRWJXZEQ4QmNqNGhjcm5iTjUtQjZlS3VmbFJYclctLTNDRWluM3F6ZTB4bUxZeWo1d04zeEJ1SHFHeHo1eG95Rmp6UUxLcV8zWGpYZ0NyWVFWZHZVVmNadw?oc=5
-- **Source:** MarketBeat
-- **Published:** 2026-11-17T09:47:12+00:00
-
-## Apple Inc. $AAPL Shares Sold by IVC Wealth Advisors LLC - MarketBeat
-
-- **URL:** https://news.google.com/rss/articles/CBMitAFBVV95cUxPeGtqbkkzOU82SHZUQlFhQmdYQWVOQ0ZHbXFaelNtYjRWZmNmVGxfMWlIcWNYRkRUbDZTWTBHZm1wWjNtaEg5dnYwcFlVTE9uVlVkVjE1YkxnbXlKZmFfME9tMHo1MGZLMFBpNmlxYzhuSVNDazlEeXNCMXhvT29SeUlMNV9QT3cyZ0lBLVJ2c3hYa2NtV1RIcV8xTkxQR0N2RW45UTBmdUxhcEpObHZHbWFqdzI?oc=5
-- **Source:** MarketBeat
-- **Published:** 2026-11-17T09:47:12+00:00
-
-## France to put Apple on trial over alleged iPhone repair restrictions - Latest news from Azerbaijan
-
-- **URL:** https://news.google.com/rss/articles/CBMikwFBVV95cUxPRnlPazlZV21mSExSMU0takFla1I1TU5mamFRZzhYbGQ3WmticzQ1bkNQMm1PTUZSVndOdHRyR1luNnhRTXRyalFrMkRaLU9vZC15TzdHYlpBSVU4SkFZYnFxZ29JbUZKaWtNNzhBVXNiMmhTTTZRRXlobFZVUGVqdDIxSjdSelo0dGJlZlNvc2tnMDQ?oc=5
-- **Source:** Latest news from Azerbaijan
-- **Published:** 2026-11-17T09:26:14+00:00
-
-## Apple Inc. $AAPL Stock Sold by B.O.S.S. Retirement Advisors LLC - MarketBeat
-
-- **URL:** https://news.google.com/rss/articles/CBMiugFBVV95cUxOdU5mOHNySXJMdGZnbDFJY2llUzBXS2J5OWVBS0licnFRYVBiaFhwTVEyX3Z3bzZTMUxFUWhjMXMyQkRTVjFFc3pheE9pMS1DNmxRNWYySDVzS3hyTjVFRVpKaGt3X2lBek9RQlN2ZUlyVm9kQWg1Y3IzMmc2LUVrN1FHSmZWMXFFNG9yVTV0TzExblBQTDFwWE1IODhzN3lGU3F1bWhRUXUySHNBcGhlemVUY21ELURTdEE?oc=5
-- **Source:** MarketBeat
-- **Published:** 2026-11-17T08:40:53+00:00
-
-## Apple Inc. $AAPL Stake Cut by Davidson Kahn Capital Management LLC - MarketBeat
-
-- **URL:** https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbmhfb2lrekpLdFVpa3IzenB0cmxqVGxNYmVONFNiSXNYMXpBdTAtR253dHJaYzRMLTJMZTJ5NUUyZjRlT2xwU29YY2x5MWt1eTdKdFJ5NkItT1NOMjNrS0Nfbi1sQWQ3cng2ZzQzM0RoZGdEZHBPMHU4dlJhV05EX0toUGFpU3l4bTAxdU1RdjlNNjM2OWczTDlGZkVyVmRBZGY1aWphLWd0T0lnYzMxbDMxRkdXRGx3Z2hxZ0pMcVNZRnM?oc=5
-- **Source:** MarketBeat
-- **Published:** 2026-11-17T08:36:50+00:00
-
-## apricus wealth LLC Purchases 5,330 Shares of Apple Inc. $AAPL - MarketBeat
-
-- **URL:** https://news.google.com/rss/articles/CBMiuwFBVV95cUxOYy02WWhWR09NVE9RNnNnRk5xdnkwNGhrTVlnM3NrQ0dKaHI0RUdMbk9VdjJ3UzFoVk9jb2xGM08wX3B0bllCR0pSbVhaX0hsNkJScXFKQWN5MllOTExYYXNVdnp0S2dqeDBMRVBTSWJmWFNkeWtSajl1LXFMQjFsS1NMREV3eHZJX1pZY0kwZVRTYXBkRXhIQVFJT1FKZDE5bXVsaW5vakwxdV9iVVNRTjl4bmVGY2txUEU4?oc=5
-- **Source:** MarketBeat
-- **Published:** 2026-11-17T08:21:07+00:00
-
-## Key facts: Apple plans 2027 glasses; JS targets Apple; Fugman leads Pay - TradingView
-
-- **URL:** https://news.google.com/rss/articles/CBMiygFBVV95cUxPTUtmMHM0SzZ1dTBDY1BwQVlTWXZDZUl6bGJsUWdGMXFkNVJfdXlDMzdUWE1QNVdtTHVUSjd1bk5SdFJZdjcyRFZYVG9ublVIMjBNNEVBUzlnZ3J3c3JkNW9lUDVYSnA0c1B6aDNRVEFINUFxU2lBUzRnUWNOV3dCT0N3V081VWNyeFlkV1NQZU4yZmF5eWlCOEN3VWpVcFBsa3hxelJXM3lHNUloYXNlSENMTkFFcms4ZmRNM3hYVi1DaXMyV2Myem9n?oc=5
-- **Source:** TradingView
-- **Published:** 2026-11-17T08:00:00+00:00
-
-## Apple faces Paris trial over alleged planned obsolescence of iPhones: source - ABS-CBN
-
-- **URL:** https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZEZBSDFaaENSakkwRy1nYjZWbUw0TkM0X1l0OHZjbTRGVEc3R3RNSzRCaUMtX1kxN21GVjBwZTR2Y1BUXzk5blpnaEtqeENva0c1dHRTNjF0UXRFVVRrLXA0eV9ELWlRQ280N1phd0F5Wk13akRJTXJ5aV9qbGdLM3RyMmRoY2NqTDN3TEE3eWFEUldTcE93bkZxRFVXaW85dEx5bUl5dWJBNjJRVXh1OHhudDN5b1M3eFljMzVnQ0FrNDNHdTFOMw?oc=5
-- **Source:** ABS-CBN
-- **Published:** 2026-11-17T07:49:58+00:00
-
-## Apple to face trial in France over alleged iPhone repair restrictions - TheReport.live
-
-- **URL:** https://news.google.com/rss/articles/CBMisgFBVV95cUxQS051OHZlLU1uU0VxVVd0Z2Y5SGFNaGllVTVsQXh2MkZ6ZmJUeDBmSTZIU3pCY3JoaE16M1N0QjU1WE1ZX0FDYnlGY21VSUVrRVJGa2wyUTdGN2tzcVNVYlVNdVk1OE14bEFXZ3NNeURxZUtmZDdTUGJkVE05c0dVX3dZVWFacEFQejZ2WFByd1ljYTBMWVRWRS1PQTRfWV81STM2ZWxacFlkUTdFd3F3NjFn?oc=5
-- **Source:** TheReport.live
-- **Published:** 2026-11-17T06:34:52+00:00
-
-## Apple Names 26-Year Veteran Corey Fugman To Run Apple Pay and Wallet As Jennifer Bailey Exits: Report - Benzinga
-
-- **URL:** https://news.google.com/rss/articles/CBMiywFBVV95cUxOR2ltUVF6cUFyQjdVVGZHdWZHSGRzQnhYS29wMjNxR3hickFaQzFQUmZZYUd5enN1OVpuVUlCcndKZ25NV3R3aDVzNmd3TUlMSldKenJJcjRIRzVYRWFLdC11OU42SExOWjhrUmN6M3BidWxTT1RGd25VNEwwY25Fc0YwNmNPak1zSHZFVUZYd3piVHFEOGNrVjMxM19DZ1g2NHljNXpfQjY0Qjl0LWpucVdqVWpYWGQxdnFxYllZQmswWExVZ1RPeGdpcw?oc=5
-- **Source:** Benzinga
-- **Published:** 2026-11-17T05:04:28+00:00
-
-## Popular websites subverted in bid to steal crypto, target iPhone users - Reuters
-
-- **URL:** https://news.google.com/rss/articles/CBMitwFBVV95cUxPTS1sYjJVSFJKSWN4SHY1S3g4aDJwdmd1SXp0YTY5aDJUNF9PS08zR29LWkVzVXk2d2tXZFh0dm9QRVNxc2xXYzczdWpXYmYwTmgwUDZfSFhBRE1XT3JHQnpNZERDdU5yMy16dDdVa1hYTVBqa0xGbTVPNkJBZTlIWmc4cldZaTI2QnpoaWo3NUxOb3FXQmZQck0yQzYzMVJ5MTROcFdTUGU4b0pmLUZ2Y3V3LVVJaEU?oc=5
-- **Source:** Reuters
-- **Published:** 2026-11-17T04:53:00+00:00
-
-## Apple adds camera-based face unlock to iPhone Duo, addressing key drawback - Business Standard
-
-- **URL:** https://news.google.com/rss/articles/CBMi4gFBVV95cUxOcDh5Qmg0T2owa0V1Q1M3UndRQWtXMnp0WHJpaVNGd1BoYWN3MkYzMm91NkRrbjdmRVpoYTFuaHRHU1VadHFBbm9xM19JQmMzRXd1MXViRnEzNmxaM1FyWkJkVXRYOVJXVjZZWUdySXZGbXNZNm4ybXVaR0VLMFFaQjlUdjZzbEhsTGVITDFaX1NiMEZMTS05TVpXMHprTkRfVXpqWHNQMFdXNkhKQmxReGJpWVJ0WkRWUzg0THFhV0ZoM2VJdUh5S1NYb2xlZkpsSnhCZEo1MFd1a1M2SjJIMnhn0gHnAUFVX3lxTE85cWdTNHc2Y1V3TXlCcC15aWJaZjRPUVdVbHFVVjRVT3hZcEdSRzd5Y09iTExDOFZoUF9hZXdyUXozeU5wX1N4RmpwWGlYb09RazRsRXJSNXhibkNRdDVjcWltUndNNDhpekdKVkRwWHFxMmxBM2paLVJsX0lORlJTVEJpVzZpbEVGUEZhUzV5OTlkeEt6LWxKMG55N1liZlVXZV9SdHI0VXc1YW5DTkhPWmZGYlV3aDl6X1dLVlRjcnRUMnEzRWJqeS1UM1VqVjBCbkQ2azhES253bktZd3pXYTNTd2h1bw?oc=5
-- **Source:** Business Standard
-- **Published:** 2026-11-17T04:42:23+00:00
-
-## Gene Munster Says Nvidia Could Follow Apple's Multiple Path - NVIDIA (NASDAQ:NVDA) - Benzinga
-
-- **URL:** https://news.google.com/rss/articles/CBMixAFBVV95cUxPd0ppZUtCR3ZBQnFqT1pkM1FrY2w2VGk5ZWNhUFhzbzNuSnV2LXBOTzNGUWFLaFc4NGp1elF5N2NyMHh6NkxrRmJ0ejRJTllSM0l5X2tZMDJWVmJDZGIwUHpxYWVPN3FoV0FyQXo0N1BaTWNFZlZhaG1WRUhmVTQ4UjZyeXZuTHBXVzA3bUlWa0l1Q0F3NjBhY1lyMlJKa2pHeWhEQ1cwZDRKcWtWOVR1Rmc3ZXdVdDVlX0tVdk01eElUeW8y?oc=5
-- **Source:** Benzinga
-- **Published:** 2026-11-17T03:23:55+00:00
-
-## Apple launches an AI health tool as part of a research study - Sandhills Express
-
-- **URL:** https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbVpzNXhBaHA2MURrcV9aaUtXYkFiV25GRTNkNkg0MHZqMjc4UV95dG9lbFp0cHJOVWdJWWhNdGhnc2pHdjNvZ3hjbU5vR1YyTWtEazlmWnp6ZVN0bzFicVEtTG5CU3ZRR2J6blJEeHdhOGlOcnNjbjdQVXZad0dFNXc3ZTVld3NWWnFMT0RMRDhkMkpHOEFXZWpKOVVlQXBPOERFRkVEMnpuMnRZM1ZPVkNtVU5sT0th?oc=5
-- **Source:** Sandhills Express
-- **Published:** 2026-11-16T11:50:14+00:00
-
-## Apple Inc. $AAPL Stock: Madrona Financial Services LLC Grows Position - MarketBeat
-
-- **URL:** https://news.google.com/rss/articles/CBMixgFBVV95cUxOUFFyczJsdGRYS1VSSURaY3BRNDdDVHVHMm56bWw4dTloWmVZSGpFU2ItLTRCdjljZ2xucGR1dHc1WVdxWWg2bUJwS2t3V2xFYmtDTEYwS2FjZ01VLUxYYy0yMkRLNG9WdElxby1PS2Zmb3VFZFkwRWZsaDUxWlFBbDZHek1Pa0o1aTB4R25XNVdIalVpY19hZkF5MDRFaE91U1BSYl9wbWJpQjlpSlUtX04tYjByX2Nxd2VUTzUxM2I1R2VUV0E?oc=5
-- **Source:** MarketBeat
-- **Published:** 2026-11-16T11:41:52+00:00
-
-## Apple Inc. $AAPL Stock Acquired by One Wealth Capital Management LLC - MarketBeat
-
-- **URL:** https://news.google.com/rss/articles/CBMixgFBVV95cUxNMmszLVZpbk1hTFowUEJDOURpTDBNVzV0V0dDaVI3SzUyU1dIU2pUUzU1NDJrSXhMd2V2TXlnTThqdmVOMWg1enlPajJYNkhsVENFOHBDUDU1MzROYWtFdHdMNDEyUEl2dFJqXzh1d21wTlZGSTBpZ1hVUS1TVEg1bjJTSnA2b1c0dnhmSXpneTQwRDBpcDRnbk5uUVdqeTdCdm9CT21zUFJfdWd3TUpBcFNGNkZyeXVwRTlwcWVJSjBiWmV0TVE?oc=5
-- **Source:** MarketBeat
-- **Published:** 2026-11-16T11:41:52+00:00
