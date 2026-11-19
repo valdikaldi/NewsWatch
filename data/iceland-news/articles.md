@@ -1,8 +1,122 @@
 # NewsWatch — Iceland News
 
-_Last updated: 2026-11-19T12:34:19.303219+00:00 · 50 articles_
+_Last updated: 2026-11-19T21:59:03.298857+00:00 · 50 articles_
 
 ---
+
+## Glacier Melting Rates in Iceland: An Analysis of 135 Years of Data - Guide to Iceland
+
+- **URL:** https://news.google.com/rss/articles/CBMiekFVX3lxTE8xaEp4MWduQkJkVHZjeHpjemQycnc5UFFxb0VFNnFQMXg4X3BUSTRnWUk0X1BHcUVYTW16c205YUlmRVhzdTJ1bWVmSXFkY0doRlk1cWlrNU5fTHQ0aVJXT2wyNldVdHVTQjllYmY5eDhUWkdpTzB5Mm5R?oc=5
+- **Source:** Guide to Iceland
+- **Published:** 2026-11-19T20:10:04+00:00
+
+## Where to Find Whales in Iceland: Sighting Rates by Harbor and Month - Guide to Iceland
+
+- **URL:** https://news.google.com/rss/articles/CBMieEFVX3lxTFBOcUVDeTB4Yld1VGZlNm15UmY0XzdpZTN0TTJESkxlbjAzWkhRcmh4bHcxbVE4R0pDQVRPel9vRlI1QXBNZ1lUSG9uZTNzXzJNeUxzeGJBRkNkWnNmZnR2d2JnU0lwUFlpUlZSNzVQWnFtLTRjQ2VDZQ?oc=5
+- **Source:** Guide to Iceland
+- **Published:** 2026-11-19T19:55:55+00:00
+
+## Study of the Best Golden Circle Tour Operators in Iceland - Guide to Iceland
+
+- **URL:** https://news.google.com/rss/articles/CBMioAFBVV95cUxQX19FejV1VWVrTklwZUhxNlFtNXpRWmhmOGotNnM1eVdIcUhVVDhMRjYwelVhd3A0cVh0WjhWeldRWHZVa0Q0eFZSVWtwLWJReFdPZVMxbkhjZjZiS3kybS0yeVZ4ZWhTbV83RkxscTNOOUlOaV92S09LMVZDeVh2RE9hd3dPMl9TSVluZTBqU2JpcWpkRHZCazk3bl9iSFI1?oc=5
+- **Source:** Guide to Iceland
+- **Published:** 2026-11-19T19:48:41+00:00
+
+## Behind the Scenes: Gulfstream Air-to-Air Filming in Iceland – G800, G700, G600, & G500 - Aviation International News
+
+- **URL:** https://news.google.com/rss/articles/CBMitAFBVV95cUxNU1ZwVGZhdXhsTjZvdEN1ckpiMlQyQmJVRG5yRFNIdTc0a3A1VHBGSWJudnBrcnRFRE9qaWwzLWdiVDJ0SVMwWXVQblBsTlBZVnVDbG1XUmJZY0ZRT1AxMVU2WjdvVTZjUEZ3bHNid3F6Q2FnV25QaXhyaFVkdm5YNmNINzdNODZlczBHRmRRQTFfVmREcWc2d2o3U1E1MEZNUjlwZ1FSMVhUeHgyeE1QMkxzWWM?oc=5
+- **Source:** Aviation International News
+- **Published:** 2026-11-19T19:30:52+00:00
+
+## EU to extend CBAM to Norway and Iceland from 2027 - EUROMETAL
+
+- **URL:** https://news.google.com/rss/articles/CBMifEFVX3lxTE5WSWZhUDFGV3NRbkJhUm5HcmFhVThBR2lubmNCb1lXYU9EYVhUYzk3dmtKcm9KYnR2aHJsMlZLa3FGVHVaMkR3RjJPb0djRXVHSThDRHZnUGtIQy1pa0hQVXpYWW9CcmcyTjlRNFRLVlM0YVlma2pxU1NwalM?oc=5
+- **Source:** EUROMETAL
+- **Published:** 2026-11-19T18:08:04+00:00
+
+## 'Dune: Part Three' Expands Its Universe, From the Liwa Desert to the Volcanic Shores of Iceland - Condé Nast Traveler
+
+- **URL:** https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUVJIdDV5Q2l5SW11LWducFRMU05HemlHMG5RZnNkYnFHU2xSd2dzSnV2SzU4WDliLTNGMzF3WkFnUjhnRnAzYVowR3hKWWoxWlpfTTEzOWtrcEJqMXB0MV9VX0VVLVFmSjJTbnpWSDhTS2F0OXYwOVh2bFZneERyeUs1MDZpMEF0SnBiNGtwSjVCRk1wNmtESDdoUmlJdlVMREVHTFBqb1lzWDJKNFN5LVRzY2VmT2lRVDhzQ2ZPX051UQ?oc=5
+- **Source:** Condé Nast Traveler
+- **Published:** 2026-11-19T17:49:03+00:00
+
+## Improved profit for Iceland-based aquaculture supplier Hampiðjan - Fishfarming expert
+
+- **URL:** https://news.google.com/rss/articles/CBMi2AFBVV95cUxOaF9PVEZRbDB4SnR0SWh0TG9pSzlQQW9EQ2RZZ3JTQklyWXUtN0NabkpUc2xuc0swMnZhSjZKYlBUZ25uWEcydWptTzBjR3dXQ0owYUtIdkJzNXNEME9IV0NKdDVJT00wa3AyS0xVRk5RbGxhVGNRMEpBenhHM3pwREtnR3lSQk9lMm5sQmdNRnZ1WEN2alNXeFAzLXk4MTZhUDJnMFlTeFJ5dnltNFR3LTY0emNrSUVJVFM0WVF5cHJDNFI1eHFYajBSeDZ6T2pmX3VfTkRVekE?oc=5
+- **Source:** Fishfarming expert
+- **Published:** 2026-11-19T17:06:58+00:00
+
+## The Seattle DJ Who Exported Iceland To The World With KEXP: Kevin Cole and Peter Hilgendorf On Radio-Heart - The Reykjavík Grapevine
+
+- **URL:** https://news.google.com/rss/articles/CBMi6wFBVV95cUxPX2FQSDRkT2xnaG9QbzgwRW4tN0VISlRNSXVKNFZUZ0ZzQnJQNkZCdlQ5YURPWVAteVVudGplWWVMTWhDNG9Sd2J3OUhmTEtsMU5iRFJVbl96TVRaeDh0YzVGU1gzRFBERHJEajF2YndpM05xckNrbEtyTkJrOW9nWlZLaGl5M0l0MFpZd1dUYjJseVNmZmEtWDRVY2g0ZERsclV0dXo1elFLV0ludlpOSVNVUGs1M25fczctZ2E0dGxpd3ZlMmYxSldLRDZCeFhJUV9fR1J2cUdpeWx3T2Q3ak0zS2NCUUFraWJN?oc=5
+- **Source:** The Reykjavík Grapevine
+- **Published:** 2026-11-19T16:50:27+00:00
+
+## This Glacier-Fed Fissure Is One of the Best Places in the World to Snorkel—and It Has Some of the Clearest Water on Earth - Yahoo
+
+- **URL:** https://news.google.com/rss/articles/CBMilwFBVV95cUxPc1NWNTJWc2hjZXFtZ1ZMaC1sZFFsMjBOMzhYanp2OVcyalZIZzc0RDJMNUo1Zy02WUVDWEwtQTg4TERoTWM1OXlRb01Ubl9IdVBNZWNoRHNmR3phd2VVZmJPTzRGRl9YQi14VmNBTk5wUGRtU3J1bXhzOFdtM1NZVlVKOWlfbmlocEZITDlSbHlYaG5fcGs0?oc=5
+- **Source:** Yahoo
+- **Published:** 2026-11-19T16:20:00+00:00
+
+## Veðurstofa Íslands - Veðurstofa Íslands
+
+- **URL:** https://news.google.com/rss/articles/CBMiPEFVX3lxTE8zdk9WTXUwY3NRTHdmTTNHVXZIWW1ZYV9PSUJEU0xfQUw5aHJXR2dPd0xCdFFmMmxHQkY0Zw?oc=5
+- **Source:** Veðurstofa Íslands
+- **Published:** 2026-11-19T15:56:53+00:00
+
+## Kissing reportedly only part of the story - Iceland Monitor
+
+- **URL:** https://news.google.com/rss/articles/CBMimAFBVV95cUxQeGVrUE5xREo0cEtkcXFmaGdPT214d2VQeGtPaFdvWnFfZVY4anVRd3lab0c2ZmdTZUdzQm90cWc2SGpGY3FmUE1BTXdPaGlvLWxueGpOZXBvd2o3b2dVcDExb245U2VGVllmWkpwbXpfaXJoTEZ2WERZa0JXSmlCYU9qQVI5SklERnFVTnUzSmQ4WFlkLVNnaw?oc=5
+- **Source:** Iceland Monitor
+- **Published:** 2026-11-19T15:04:00+00:00
+
+## Iceland’s Nature Fee: The Right Idea, Too Narrowly Designed - Iceland Review
+
+- **URL:** https://news.google.com/rss/articles/CBMid0FVX3lxTE96N0pvQkxuVndrTTNXZVpHMWVpaVRkVUJVcjJDRHktb08xUmU1X3dwc3V4UDBRMGlFUTluTXZMT2d3cmxBQ3ZoZlNyeTBXQm94eVV4TlhKRGVGWVBianJpS1FCTE55cjZrbENHZnB1bEpWbU1lUHU0?oc=5
+- **Source:** Iceland Review
+- **Published:** 2026-11-19T14:30:40+00:00
+
+## Rock Music Menu: Scaled-down Iceland Airwaves festival hits the right notes - Delco Times
+
+- **URL:** https://news.google.com/rss/articles/CBMiswFBVV95cUxOTGZfVW01ajJHLVdXRl9Dem4wQ0RseVZKUFFkZHY2SmpRRGhSVHNGaGtlRzVVZGRxbmVRZDdBTmwzX2h6TmNZOVNhS0Y3Z2xDQjlYZ1FyNGdsNDNjVFZxUzJmalh6VmdZQU9PVGg3RDNYME9LWjZDaV9GazBkVWZNb0RlNFowNXhNcC1Lc0VIQ2hSbHlab21YNjd0YWtqN1dQRnlia3ZZdUpoSnFMRHlGQVhhWQ?oc=5
+- **Source:** Delco Times
+- **Published:** 2026-11-19T14:30:15+00:00
+
+## Former Icelandic prime minister: Small states must redefine the AI race - ERR
+
+- **URL:** https://news.google.com/rss/articles/CBMiowFBVV95cUxQc3h0RWRha1BPV3ZBQVIxa1F3SGlvYlFDYWVDTEpEM0NmeDhmQ1hWbHpJckVNWXBGVFVLWEdROUFZWjVqeE9Ed05WVXc3MDNfVUdZZ1BXU05iQmhfTWdHNWV1V0VlWFh5MkE1dXF2NHUzLXlacF9jcGVhYWRidGxZQk1nYVl4Zks1NG10cEtiRlFqRnRnQlJ2MXJBN2U0aU1hV0FV?oc=5
+- **Source:** ERR
+- **Published:** 2026-11-19T14:26:00+00:00
+
+## Aidan Zamiri Takes Timothée Chalamet from Edge of Icelandic Cliffs to Pages of Vanity Fair — LBB - LBB - Little Black Book
+
+- **URL:** https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNDQ1MktGcjYzOEF6Ti1kSW9qY1JLRldZUFE3X2M2QzBIaE5mQUcyNVNUV21kcFRLQlpOUU5IUTZHaXpCX0FNVVg0TXp1aGp6R25ncUNtT2RuOHZGTDFESWZkT0NqbjVuREhIUG56TTNmbGVQMXV3ZDd3TmQ4VGRWSnBPTmp6Uno4NzZRQkgzV1BnbWxyWjVoWDVRd1lyRnlWNTVjUnhsdjY4WDVyTmd5UE9sbDhpXzEw?oc=5
+- **Source:** LBB - Little Black Book
+- **Published:** 2026-11-19T14:09:51+00:00
+
+## Newington Library To Host Iceland Photography Presentation - Patch
+
+- **URL:** https://news.google.com/rss/articles/CBMimwFBVV95cUxPWXNxdFdRQkJRQ2JybWxycml3TDB3TmJ0NGJYN1hoSU1VNHlQeU1WQnUxdDJidXRaUUF4d1dMbnJOY1ZfcVd5ZTJBekFBRGdPdGtrazA0dVRPckt0Sm9LTExMUk1IZGdjV2cycE1Ta2hkME1vb3hSV3BKZ1JydXhJdVo1VlBGNzVhTVAzOXl0aklnenFKTVFtWmZjWdIBsAFBVV95cUxNVzlndDk3UzlUR1NUbnNXVjVPV2dLWXpILThBa2tHYVUxS1BxQTNoaGlIVXZjRG0wTHNIbm1KOTJQRW5tYWdyX0ZVekdHcVZIRklUcWVPRUlUZXBmT3F5VDliOFZtS281UGpEOHVPWVZKcjlOSWxab0ZtdGpJd3Z5d1JCQWhzWDQ4SFg3WFFUWHJpTDlJWVhmaFl2WXBOQ1JMc0FxeWFoWksyZWRNeEtKbA?oc=5
+- **Source:** Patch
+- **Published:** 2026-11-19T14:01:38+00:00
+
+## Protest Of Non-EEA Tuition Invokes Academic And Humanitarian Risks - The Reykjavík Grapevine
+
+- **URL:** https://news.google.com/rss/articles/CBMipwFBVV95cUxOTU5kRUluc21YNXdaX01jbE5mcHhOTGZ4eVBSVzhRQmNUWnZRSzd2MkJlbl9ydERzSkFIaHU1VEJ6d0hpQTJBeUpTQlZ2V3k2Q3FiQ3owTVlKcUhVREhmdEQ5TzhkTHNlUzRObFZsR0FPcndPVjlFeUpwVHl5Yml4R0dBMGx0SG5GS2JScWhnNXhwanFsZHplNGdkOXdUYWJLdTRsUnU0Yw?oc=5
+- **Source:** The Reykjavík Grapevine
+- **Published:** 2026-11-19T13:55:06+00:00
+
+## Eimskip deploys Iceland’s first electric reach stacker to cut terminal emissions - Breakbulk.News
+
+- **URL:** https://news.google.com/rss/articles/CBMipgFBVV95cUxQa1hWU1lDWFJmbVFLZ1hHV0FJZUY3bUJqS1J1VVhpRm1lT1F1cTNZc1VuWjNNYXZscXYzR2dnQURoYnFtOHdBZmxYeHdsX005UlF0NGljLXBQZFRPdkh2SExWaXZUN1cxck91UEZxSTNHLTNtX2x3Y0JoQXh6QUhnVkNyNjRiQi1CMHYzUW9FWUlVXzEzeUtZWkRmNFNEb1JBQkxzaDl3?oc=5
+- **Source:** Breakbulk.News
+- **Published:** 2026-11-19T13:54:11+00:00
+
+## OECD Meets Iceland: Let’s Talk Trade - Iceland Review
+
+- **URL:** https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcmItSEdrS1dvU0RCMWwtTlhYNjUzYUNfbWpnOUZ3N0l2T1FwZFFnbHBsZVJ1QlZ1TUFKTnd5UWxGb3dZZnAyMWJQdjdhb3pSZTVtdFF2aWhrcEdmeTkwZGdpYXcwb0hLYjJQY1dONHFGZkE0VGRGMzZGTmVfY1MtZzFZaXM0bDI3?oc=5
+- **Source:** Iceland Review
+- **Published:** 2026-11-19T13:00:34+00:00
 
 ## EU extends Carbon Border Adjustment Mechanism to Iceland and Norway from 2027 - INSIGHT EU MONITORING
 
@@ -189,117 +303,3 @@ _Last updated: 2026-11-19T12:34:19.303219+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMiqAFBVV95cUxOX25udVJNVE00S0ptMXBoMVV5Wk80M0JNMkg5R3ZTUTZUTXlPVVhwa1lqSmhUTzRIWTFJVG5mNlB4V1MwSldEeG4tX2dPWnU2R0c4RlYzNGpiMjBFVXUzdUpuUjVvOE03T0RlTEFNbHBUdm4xOVh2OW5Pcnp4RjNBbWtMS1JTTnozSkhDTzFzcllVYjFGRnVkY21lejl6MHg0aUdzYU1XUEI?oc=5
 - **Source:** RÚV.is
 - **Published:** 2026-11-18T13:40:00+00:00
-
-## 1,823 Responses Challenge Iceland Permit Income Rules - Iceland Review
-
-- **URL:** https://news.google.com/rss/articles/CBMilgFBVV95cUxQU1JWUUQzajZYcXctaXVVb3ZyREhmaEJZeHdXRTd1NS1zTkNlVjhROFRtV3NoTmhOOWFfQUl5RmEteDlvb1ZIM1gzRkJremRidkxiWldOWmN5WTRKS2dpZU5xLUI1bDNlcFp1YmhpaHNjTk9rbGtmMUE0dWVMVS1ySXhTQlRuSWhuZUZtaXl1NnJzcC1rcGc?oc=5
-- **Source:** Iceland Review
-- **Published:** 2026-11-18T13:30:59+00:00
-
-## Cool off at the Polar Ice Bar with Iceland Air on George Street - The Edinburgh Reporter
-
-- **URL:** https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdGpCSXFMZ2NRdFhlVG96ZV9vSzlwa0FUUmttSDVMcHNVM2JjNWdGMEJhbVlrcmVuS0xvV3lrNEZ1UkpXOWtBXzJ3VnREM2t5OHliY1o4WjBIbGxRdW9tZU9iNGMzZnlOMERqeEVvTURxVDJieXlOVmFGZjVuX1pkSUdGUHdZb1E1UzAxVk9GVndDaUh3UEsxNks1OXNWTHViLUt4c1R0RXJET28?oc=5
-- **Source:** The Edinburgh Reporter
-- **Published:** 2026-11-18T12:48:36+00:00
-
-## He Has No Enemies: Vinland Saga Author Spent 5 Hours Signing for 500 Fans, Meeting Each One - FandomWire
-
-- **URL:** https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQWhtRExYZHl2S3ROZ1hQSEtUWTNtaGcyMjJNcXNZbzYyU0dNUzdnc1pKZnBwQWEtNkFfUzEtQVYyU01qN2otV1BPSDEzcElLYThmbEgtWG94NFFyZFlJRHFrZElGTWhLNXF4U0pVVld6RzN4aHRvRWs4VVdWM2V6dXBIRGNHajVoVnFF?oc=5
-- **Source:** FandomWire
-- **Published:** 2026-11-18T12:37:23+00:00
-
-## Under a Spell: Akureyri Experiences a Drop in Hot-Water Reserves - Iceland Review
-
-- **URL:** https://news.google.com/rss/articles/CBMihAFBVV95cUxNdmY1cnM1XzhJXzR3eTZkc25VRHRjcTlneUpDam15OV9nZmVQM1RHanZiZDRLWGVMN3dQcExxcUxzVEc4NFJoVm5zMDZQRFM5Y21id291WjZ4V3NqZ3Q2NE9rNU1jOE9MY0MxS3FiSTFCbDFzX2czU2xoZlNsbGNCMHF1a0U?oc=5
-- **Source:** Iceland Review
-- **Published:** 2026-11-18T12:00:27+00:00
-
-## Ling auction prices in Iceland fall in week 46 as record highs fade - Undercurrent News
-
-- **URL:** https://news.google.com/rss/articles/CBMisgFBVV95cUxQMEhrWTlEQkFZSEhwMTRoLXRzdV9OMTBnZ242SkQ3bUVScGZNcHJ5OU16V0NIekNxUDBldkc3QlFncDB3ZGd5RVJ6cGwxNk81TGdFdTFoNmlVUHRBMWVjTWFGV1hOMjROWmFPVDlUdFpjTU5jT2JhdGxUNVB2Sm9kRWtpSHJUdW0xLVkwQThTaFVZMnA1S3h1YnA3ZFF4cmNyeWhnTEIwZkxfM05JcjJDcGRn?oc=5
-- **Source:** Undercurrent News
-- **Published:** 2026-11-18T11:25:00+00:00
-
-## National Arena contractor in financial trouble - Iceland Monitor
-
-- **URL:** https://news.google.com/rss/articles/CBMitAFBVV95cUxNOVd6RHJEejlya0o0RUwzMnowYVBWWFA5N1hPM3Ixc2JjWTNwUDFSWEVZUkZLYTEybDRock05Qzd0VVhnVzZfaUdlcVA2ZWxrWnk4R2hFdE54UzB5dEdmb2txQ1VxVUtBLWQ2cHp4S1AtekFLLVBGalZVQV9rSXdveEFBY00xT1JKMGxhX3RUSVdiNWthSjc3eUZiSWlnY0p6Z0NjTjVlYXhUSFY2RjBXNElXeEQ?oc=5
-- **Source:** Iceland Monitor
-- **Published:** 2026-11-18T10:36:00+00:00
-
-## This Photographer Shows What Iceland’s Glacial Rivers Look Like From Above, And It’s Breathtaking (20 Pics) - Bored Panda
-
-- **URL:** https://news.google.com/rss/articles/CBMigwFBVV95cUxQbmpjR3ctYzNZVzRoemtoVXRuQjJ1SFlEN2hQa1BDU2Vpd2NXVzVfdkV0cENCMV9aYTc3bmIzNUJHOHBfNXcyajlCR2Q3dW5xdUVSbGg5UkZhVEtlcl9mUGo5OHQtbDE0VE00SkEyMUVsbWswLU1NX0NMREE4NjZ5UHVSNA?oc=5
-- **Source:** Bored Panda
-- **Published:** 2026-11-18T10:25:16+00:00
-
-## Private Label Food Manufacturers Iceland: 2026 Guide - Grocery Trade News
-
-- **URL:** https://news.google.com/rss/articles/CBMieEFVX3lxTE5nTTRvWFhZR0t2UkFQZ3YyVkY0dk5naklGNGo4ZFYwV1BCTXg3WHFHSmI1UUhfZG1kZ3ROYUwzNjlhd21fbFdQZkFyVjd1cDh6OFRhQkZhbUtKendveGlyV2FZYlFzWUliT1JGTWplZTM3clFYTlptUg?oc=5
-- **Source:** Grocery Trade News
-- **Published:** 2026-11-18T10:03:38+00:00
-
-## Where was The Odyssey filmed? (with maps) - The Worldwide Guide To Movie Locations
-
-- **URL:** https://news.google.com/rss/articles/CBMiXEFVX3lxTFBwdkNrYUs1R0h4X1ozWmt0NkNOcnl5RVRNXzNIcWZ1YmNyaGNvWHNKYVRyZlJQWV9haWV0cC12S2x1TU1QUWllbUEzLWg3cEhpc2p3VTliVFZoSHpn?oc=5
-- **Source:** The Worldwide Guide To Movie Locations
-- **Published:** 2026-11-18T09:43:48+00:00
-
-## Injured Snowmobiler Airlifted from Langjökull Glacier - Iceland Review
-
-- **URL:** https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSkhiNmNFNDZSejhwcXZYd0ZLc0xQaDBBNGUxMWFuSmN1bGFsVmVBQTZ1Nlo1R0d3V2VQQXREUGItSXRORXplVmwtbl9Pc0Z6YzZfWUF2NGM1ZUV6OGhsaTNIdHd6SVYwUUFaYmJ1NlAyZ1JuSVcwUlBDcE4zeW9qQXdOd0xLQzFZ?oc=5
-- **Source:** Iceland Review
-- **Published:** 2026-11-18T09:30:31+00:00
-
-## ECCO took CULTED to Iceland to put its winter footwear to the test - Culted
-
-- **URL:** https://news.google.com/rss/articles/CBMimwFBVV95cUxOUHdQZERWZmUyelVIZGpONmh4cS1tUTQycUlsRkxhUndocnlxMnRQN3FtWGZPN0JTX1FUM0NRalZueTUyclFlRi1iU3VHc2FHZERwYnBuTFVscTJ6TTgyRmF2SmU4MUY5X3R6ZERhU1lKRFhkV3ZtQmR4Yk9HSWdKNk9uOVMtbW5vN2FDc1g2UmtZT2hNaW5GYW1hQQ?oc=5
-- **Source:** Culted
-- **Published:** 2026-11-18T09:30:00+00:00
-
-## Iceland Holds Key Rate at 8%, Signals No Rush to Start Cuts - Bloomberg.com
-
-- **URL:** https://news.google.com/rss/articles/CBMirwFBVV95cUxQakkzUGNzMFFnaEhERzlqcGRsWnY2bU8yNS1KLTFLX3ZZNDJXQWJaSDhkcjZwWkJPQmI3QlJJczVLTmlYM0p0Q1RXT3NDZ0hrLTRESlJKdGk4RVdsclNpS3FoeDdfVnJSUHFyb3NxWl80YkotMkdsNWZHNDlJRHNyT1BCTVRNWWgwdXh3UTQwSDdjN3Z2N2JlQ1FRUkNra19nNnJ5UmIwWmhsUEpkRVhB?oc=5
-- **Source:** Bloomberg.com
-- **Published:** 2026-11-18T09:02:37+00:00
-
-## Iceland central bank keeps policy rate unchanged at 8.00% - TradingView
-
-- **URL:** https://news.google.com/rss/articles/CBMixAFBVV95cUxObmttbW5FRUlYUDIwN0JldUxPekxCOEZoeXRrSkJ5aDRlRWVMb3Y4dmlTd1NEeml6Qk54ZkZ4M3RINnNyYVNNcXY0Mk1UTWVUcC1kelBYbmVYQmE4M3gwazUtNXhfUUFkVjlHczdCckh2SjVoVjZKLXhfSk1mWVVtUUNmWjRLeER1akFNaWw3WmcweW43VHVSb2VueFlvbVg0SmRjZEsxTDljNDJESXV2bmNZZUxEem9kdEJLNkZXSS1zc081?oc=5
-- **Source:** TradingView
-- **Published:** 2026-11-18T08:32:41+00:00
-
-## Temporary lane restriction at Borgartún - RÚV.is
-
-- **URL:** https://news.google.com/rss/articles/CBMijAFBVV95cUxQMW5WMjRMVGNybk9uSHVnQVNqN1pDTXdmaVUxaHRnYmZ6OGYydTJfWi0xU2IwREFfVWFZWG1xbmxXUjZWNjlTcnhqQ0pUU015VlN3X0NCZ25WY0FxY0hyclNCWGl3OFprTlROSUcwVjVxaHFKNDhzSElsUWdzQ0IxbEVMQzlReUdoSmVEZA?oc=5
-- **Source:** RÚV.is
-- **Published:** 2026-11-18T08:04:00+00:00
-
-## Icelandic Composer Anna Thorvaldsdottir Wins Second Ivor Novello Award - Iceland Review
-
-- **URL:** https://news.google.com/rss/articles/CBMihwFBVV95cUxPSE1PWWtFcWpneVlkOXhVSDdXQzdtWUxHZWpMb2tkeE41WDkzbVBpS1dOSFpJSWhOY0M4RHM4TWoxdFlPdWQ1cDF2ZDc1SDRqVG5DNGFZcTZNa1BqMzVTZVNaLUh1NUhWR3ZiUm9tdE05UC1YQ2kzcGtSR3dfYWNTWnI0Sl9CLVU?oc=5
-- **Source:** Iceland Review
-- **Published:** 2026-11-18T07:00:00+00:00
-
-## Mould found throughout unfinished hotel - RÚV.is
-
-- **URL:** https://news.google.com/rss/articles/CBMijgFBVV95cUxNeTBGS3JpZURkTjJsN0haNVVQUGlKdU1DSGcwQVY2UHBOMjFKaWN1MGhkTVU3ZU8tdmRrVlNYSDAwMXVfUFJBSEwwcy0xdTFPSzl6b2pvd0FBUVV6N0ZzaTlTejFNYnhPQzBiQmJmd1JoRWx0ZXhIUFhiZ2FPLXdEaklvUVcwLXh3TUlkeGZ3?oc=5
-- **Source:** RÚV.is
-- **Published:** 2026-11-18T06:54:00+00:00
-
-## Iceland Supermarket Chains 2026: 10 Banners Compared - Grocery Trade News
-
-- **URL:** https://news.google.com/rss/articles/CBMibEFVX3lxTE1DdGFRb09KU28wZkE4SkI0LUV4VUpiaTcyLWtHR3YwamZqVlNwMmdrbzY3OXpHWUVOMGpYcHAtQXFVcHRDdlhJbE52VnhjLTFMQ2hMOWpsZXd0VmpDcXcxMXh1b1Y2cFJzSzQzNA?oc=5
-- **Source:** Grocery Trade News
-- **Published:** 2026-11-18T06:00:32+00:00
-
-## Moriyasu leaves mixed legacy as loss ends era for Japanese football - Reuters
-
-- **URL:** https://news.google.com/rss/articles/CBMirwFBVV95cUxORXB0RDFxaVVjcVB1ZG1salRBdldvS2k1QVRWTnFMczd4Nl9SY1lURkM2TnNfQVNFRnBhc0VlSmJhYWdGdzB3NnBlT3Y0ZTdqSERVYVVYaDJZaUZ5Z3RWOEpnWE1HQUlEZTFoNnRqQlVOb3BXa003dE9nR1NOM0FTWE4zQV8zQXZfVFMtTnpWVnd6TkZ2Rjh6cXVzOENFd01ZYWN3dmVEUzBKSE5Nak9R?oc=5
-- **Source:** Reuters
-- **Published:** 2026-11-18T05:32:00+00:00
-
-## Country diary: Thrilling views of Iceland’s humpbacks, (perhaps) lured in by Céline Dion | Claire Stares - The Guardian
-
-- **URL:** https://news.google.com/rss/articles/CBMi0AFBVV95cUxNb2lvV0V1ZFd5WlVoRGlxZHRXUlJHSGdvQXhfT0E0QThCOWdocXNiOVo0ZWwzUHZDcEhQZlNLRWU2cFBWRkF2RUNPaGdwLUNKTTRmSjhNZzBVOUMzaXNfaEhCX0hVWV9qcnlic1dEaTMyc2E0dlM1bndGMEVvOFBFeDJUY01FTlphdTc2dVBCbzZud0FfNDhhRGRwd0RBRGlwaUhqSEY3VjY4eWhaNmVLbEV5eWNNSTlPSmIwZ0JKSlpYbms0SzBNREViZTJvYXNP?oc=5
-- **Source:** The Guardian
-- **Published:** 2026-11-18T05:30:00+00:00

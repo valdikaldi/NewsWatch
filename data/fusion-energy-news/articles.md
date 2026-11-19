@@ -1,8 +1,74 @@
 # NewsWatch — fusion energy News
 
-_Last updated: 2026-11-19T12:34:24.497182+00:00 · 50 articles_
+_Last updated: 2026-11-19T21:59:04.769445+00:00 · 50 articles_
 
 ---
+
+## General Fusion at Small Cap Growth Virtual Conference: path to fusion power - Investing.com UK
+
+- **URL:** https://news.google.com/rss/articles/CBMi0AFBVV95cUxPSW9HZXhiT3hra3lUM29KRk1fOUh4WVpJM08xakp1NWdoWFlRSy1UbEZHbnhLZm93VTRCRnpVZExSeE1hT0tWdjR4TDRhTXUybjlycHhRaGtVXzJWYWd1M2Z4ZnpaZFhDbUtsWFJpR1BPZUN0cUVTMmxvWWt6aDdVVzhJZm1SamJ1Yk1sbmZrRDlQZXlvajFnX1lsY0N6eEUyT19yaGN2R2EySlRVRlQ1Tk1sLVZCWDJnRXk4eVNtOWJLZnVwWDNDejc2ME5YcFRs?oc=5
+- **Source:** Investing.com UK
+- **Published:** 2026-11-19T19:42:00+00:00
+
+## General Fusion CEO on progress, capital discipline, turning science into business - Investing.com Nigeria
+
+- **URL:** https://news.google.com/rss/articles/CBMi0AFBVV95cUxPa2FWQXR0aWlRODZPY3FXUm9mVTdGY1g5TFlpQnZlZXFLYVZCYnpsSEVRdG9OcXdQLWotMnNBaGpRbW9YOVV5bS0yNjdXVS1LR05rdF9vbWhIejhLSExhX0dRamprSml6ZjBZSjJ2YVdCYkVxWVZGTTdRTkE3SmxNbndqN3c0LWpGa1dJZ3ducW91Z2lZYW9MdWgwNmRQdWJ3aEdOZ1RwbUl3N0RkNXdUTzVtVUYwUWhNRUlMdnBvMUE3S3BWU0ZBZTBpbWVJSm83?oc=5
+- **Source:** Investing.com Nigeria
+- **Published:** 2026-11-19T18:22:30+00:00
+
+## Cold Fusion & The Hype Cycle - Medium
+
+- **URL:** https://news.google.com/rss/articles/CBMiekFVX3lxTE54bmlCd2tqc0c3Rk9Pb1lFZGxaclphdDhkU1ZVR2VtTHktcGxDZmpoMTctNFdwbXpySWdHMjdTQUFkbUpST1F3OGFIQTA2em5HUHZacUlzcDQyQkYtdGFtb2oxdWx0ZW1XbURyMTUySnRnc0JFSmZidVNR?oc=5
+- **Source:** Medium
+- **Published:** 2026-11-19T17:52:07+00:00
+
+## Fusion Innovation Bootcamp: Addressing workforce needs with unique educational opportunities - American Nuclear Society
+
+- **URL:** https://news.google.com/rss/articles/CBMiygFBVV95cUxQaVY4TzlaVXpUN0RfLXRSbU9SRURmS2pQUFFVR1Jzem5WUHhaMk5wT1pxWG9ZQ1ZxazF3aFBOMjBma2Y5b24zd0lxR3k2TzRhUUpzSWtDeXYweWJNeG9peU5BQnVuZHZKNTg0OVFGRHpFaW8yRUtGd2RnZVVHd1c0cjJicmgzVlBDQUFRMEtJaEgtbHEyOEpGWnBkU1NMSE1ndFhRSlNqZXdnMEpoNFNld3RhV3dZNHNfdnRyWC1zbUkxSXJab0xNdUVn?oc=5
+- **Source:** American Nuclear Society
+- **Published:** 2026-11-19T17:48:07+00:00
+
+## Metamorphic AM connects computational design and simulation with Morphé and ChopMesh at Formnext 2026 - 3D Printing Industry
+
+- **URL:** https://news.google.com/rss/articles/CBMi3gFBVV95cUxOQmxWZTNoQ2YtSkN1UFNwUnNQbl9EaDI4cWVhU2M5RjNiY3VHbExTcXQzblBWdHlUZzJjdXdkVkx6ZmlNVEpCdTJaUTVUYUZwRE91c2pLMjZ2YU1tVUhUUEtZU1lDWjlRbnZuWWVUS1otenc2X2lmOXFSOWF2ZnlfSG5ZSXZZV25qNURHYUNNQ1prSDBpbmpiZzFwQjN0U010RDB1aFlycGhnckN1NlU0TWNXS1hSb3hyQlJleW1Qb3l0d3E1NDFLdE9iV3NQUXhTaXluN0tCNDhBb3NybXc?oc=5
+- **Source:** 3D Printing Industry
+- **Published:** 2026-11-19T16:50:49+00:00
+
+## Fusion Fuel (HTOO) Eyes Venezuelan Energy Investments Amid Chall - GuruFocus
+
+- **URL:** https://news.google.com/rss/articles/CBMiugFBVV95cUxPZkplcFVDT0xsdDhCV0dtZWJMRlRWNGZ6d1prWVAxc0xOTmhkR3pTOTBDWHF1YTR5VlJOdTd3djZ6QU5UazJ6eGt3alZLa3R1MVlEVVAzdUliWTAyNlpVYjhtYzJiRUxsV2ZyZ1dHLXlhZlNaQWJid0VSMlVBM0RuVHJxVEwyMU16YWdBV2hHckYxaU81MnFVcnBkSlRNZFBPRXY0dEZSSXR3X29WSzlUVFdlWUxISUdLTUE?oc=5
+- **Source:** GuruFocus
+- **Published:** 2026-11-19T15:48:28+00:00
+
+## Fusion Fuel Green Announces Evaluation of Venezuelan Energy Investments - TipRanks
+
+- **URL:** https://news.google.com/rss/articles/CBMiwAFBVV95cUxOam1xUG8xYWRGNGQ1bTI0dUNHSlh5QVVnd19HRWdTNFl0TmpTS05nVmlNQ3JMZW9kS3M4RC1CbnRmVlZQdG9VWnFydEFoa2lCWVh6TjNmWDJQa2Y1N0YtMURKN0pzN05qMU5OcWFQVHlROWZCSjhzUmNoUzVnci1QUV9XeWRQTVh2R3dHVUFpWHhKMTlVTnQtOWxPQVF1c2NJcUZXaWQ5TWRLbVhRbFI1eFFuUXY1Ni1fWFVHNlpyRGY?oc=5
+- **Source:** TipRanks
+- **Published:** 2026-11-19T14:37:51+00:00
+
+## Fusion Fuel to evaluate Venezuela energy and natural resources investments - TipRanks
+
+- **URL:** https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRTlwN1hjY19QZ1A0RmlTS1NZd0VCYnZidWg0MUhsUlA2MXBjWXpTV0hRdktBanBEdnhFbmdLRmVTV25va29MWnN1Q0VtMGJnWnhrMHZZQzJ6SHF6bVVhdlQteUJBeEJOb2x3WXRESTBzUGJFekxhWUlSUkJYNjlZeERvVGJZeHZYVGQwVEtkTjJ1T2FRRHZhcHMwbVlrV3ZaQ2FIbF9mbDVpQ0JQcndtNjJKSl8yY2VSZ0RtZ2RCNXNUUQ?oc=5
+- **Source:** TipRanks
+- **Published:** 2026-11-19T14:21:03+00:00
+
+## Powering New Mexico's Next Economy: Why targeted capital will unleash our advanced energy potential - New Mexico Political Report
+
+- **URL:** https://news.google.com/rss/articles/CBMi1gFBVV95cUxQenFzWmcwTUJIRGliWnBvMU9peVJVLTNDdDZzNjlRNDNjVnlILXNJem90VU5tazVkSG1mX0taMDRpSDVLZGRDRVp2WXNSV0lfTHU3Z2NWQVVWVi1IakZaVlJFWHdEcU5tZnZwY3ptWWJJRnJ3QjZBWC1NZ3c5empKYWRwcFVMYkkxaG1WZ2hEeDJWMHB5elhzYzhJNTZtUkZuUnY3emt6S1gtdVVlMDlEM3ZySWstS3NaaERyTFBPNU9KQWdkcUVMSW1RYjM4UDRmRjdUU2Zn?oc=5
+- **Source:** New Mexico Political Report
+- **Published:** 2026-11-19T12:55:23+00:00
+
+## Fusion Fuel to Evaluate Investment Opportunities in Venezuela’s Energy and Natural Resources Sectors - The Manila Times
+
+- **URL:** https://news.google.com/rss/articles/CBMigwJBVV95cUxQQmxpQTNOaTZkWjNjNkx1NE5fRlY4Vy1kS3ItQWI3ZlpMbUNOdVJHZ1JaMmRrbFhwX2wxMloxdVN0bVhOQ2ROVjlUXzRYOTVuNUFLSzJ4emkyX0dDWGl3ai1FYzEzaVptaFlKUGJiZnRnOFdTNVRKdWgyQXZVWlFsMFZSMUkzOGt0eE5IMHdmaE1ISTNRV0NzZndSSjNqRHBaZHpSRERUWkpZR2laTTl4TEpISzNjdGpZMl9HUWdSTnhWRGdzNVhKQ3hUUTN2eHhybjFPc2QzbHRXM0VvMTdQb3hnS3RsNE5BTzdFUW1YMnU2Mng5NmdjdkdXWW5JTnl1VFVr0gGIAkFVX3lxTE1ST0Z5a0h4NHkwcFlRWEE3RzBXWldxZklUdFZ0SFNscG1GcWw1RWlxZlp5b3pxNElFWGVNYjFIVFl1T0lhOTJuc2xDTnJsNnhoanA2NW4ybGItTkdGdnY1N1VhY05uQnRvSG1BS0laUTBaQzdEYWVWLUdGeW9WRTZ4cDliN3BiQWlfNGNvN09qRldMaENxcGM3V2FvRGZYc0xPRmxHVjVKOTFlZzNaczJEZWJielF6ZDdHakxRbmE2RjJ6TDRIdkRCUW5iVmFpTnZhMExSdTJ0V0c4dmVBY3ZoUTJIMGNEa2l1RDFNaEMwZ29QOWhkdTk0MzFOSkRpX1RTZTRrTWpqdQ?oc=5
+- **Source:** The Manila Times
+- **Published:** 2026-11-19T12:55:04+00:00
+
+## Fusion Fuel eyes Venezuela energy investments amid regulatory shifts - StreetInsider
+
+- **URL:** https://news.google.com/rss/articles/CBMixgFBVV95cUxOOERscEVBRkFmX095RnYwTnFXZ0VQY2NBNGZMV3h2WEVwRThXRGF0YkhCWTV4X1ZrYTg2WXlJeDA4TlViV0ZVckNId2hVMGxrdG5WVGFJVFJUa29QV0I2ZGY3a1B1R2VMNGVGc19RRDJ6aEV1MGR0YTJleE1TVlZBakVJYzRTV05zdVFMZjFiakYxUDFOZUVUZ3hBeU84dUtnNW81QXRKVVZ6QXNfMGd6YmFSazN2eVBDam5DZWRfUmFaNGlpeFE?oc=5
+- **Source:** StreetInsider
+- **Published:** 2026-11-19T12:54:21+00:00
 
 ## UK Laser Lab Joins First Light Fusion to Model Unproven Fuel Heating Behind 1,000x Gain Claim - Tech Times
 
@@ -237,69 +303,3 @@ _Last updated: 2026-11-19T12:34:24.497182+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMiogFBVV95cUxPWTNkbEFYNjhyNzhaTmJfaFNwR3NzZVdIN3RUT3ZNejN0RXcxenMyVXJaLVhucUlDVzEwMXR5enlPTFNSMVZCQm1PTXNmOU5uRXVETFlfamtYbHhXZGp5OVhBeHpld1ltNEhlSnIwV0hka3FWTWZkazNYRlNHM2hHalBVN2VPcnRMN1R6eFhaamFDenR5dmtQeFM4eXowRzdmQVE?oc=5
 - **Source:** Frontier India
 - **Published:** 2026-11-17T07:38:39+00:00
-
-## Iran Claims It Will Soon Activate a Homemade Nuclear Fusion System - Breitbart News
-
-- **URL:** https://news.google.com/rss/articles/CBMitwFBVV95cUxPZTIzVExRem0yQjVIS0xMc3BwS3RMLVJ5LVdJNVowb2RyMWdnM2R6S0J1cC1PZ194Ul9oUzg2OUlVNVhXeVAzY1lFUTluX0hvZnhKdUtmWThLNElOeHZIMHg3cW81TlBhTlZOdjJtRV8yaW1jLV9CcS1ENlpoSUk1am1zVFUxek9vZW9WbmZ3bkhROUJBNGg4MnlLOHRtM2o4Y0FzZUFDLUdfX1Ntemd0RTJWb1hhU2M?oc=5
-- **Source:** Breitbart News
-- **Published:** 2026-11-17T01:26:32+00:00
-
-## Small-Cap Growth Virtual Investor Conference to Connect Investors with 23 Companies on November 18-19 - citybuzz -
-
-- **URL:** https://news.google.com/rss/articles/CBMi0wFBVV95cUxPTjNrWmtPM2pYaVIteEc2V2JOM3lWWEVJSUVxSGMxZTNMUllYdmU1X0x1MVpZYXJZLWVVWEhOS2p0c0JfdWJzR01ZV1luZjlfOUY0ZE51QmtQM2w1cV92OGNPaWRzQ3MwMUpXRVVhSGhjc2IzNG0xSmVtVEpxcURMTVNpZTl5XzRhM1hzRHFjR3RnVjFTOGM2MjFJNEJDOUJreEpkODlTSVB2a2NTcUwwbllpR1A3UUxPNUhPVlBZenYtaFFrSGE5ek9SVEpjUF9hdlI0?oc=5
-- **Source:** citybuzz -
-- **Published:** 2026-11-17T01:00:26+00:00
-
-## Ranked: The Countries Building the Most Nuclear Power – Visual Capitalist - EnergyNow.com
-
-- **URL:** https://news.google.com/rss/articles/CBMiowFBVV95cUxNdEt5SDJ1Y3UwcUxhYUZ6dTFsQkFoQ1QyRVQ4R3IwSk9lcHZyTThvUXVnT2xaUmg4dVFSZjhBUkdrbUdCbXNLVzlWdDlYbEpPX1BDU2dwVEF4aFFsakJ5Y2hWV2pVSkJEcTZRZnJoOGc5TU0wdE1hYll1Q3dIM1RXM281a3l2WUxvOG5YZ29wNDR4bC1YWExVdFJfTjVwLUEzd3c4?oc=5
-- **Source:** EnergyNow.com
-- **Published:** 2026-11-16T23:44:20+00:00
-
-## Earnings call transcript: General Fusion posts wider Q3 2026 loss as cash holds - Investing.com
-
-- **URL:** https://news.google.com/rss/articles/CBMizwFBVV95cUxNZ2ZfVTZDVm1nV2ltX3hjSml0M01VWWVFWXctbU1kczZWVFRGYW5iVl9MNS1KRkx2ZXNoa1h3Uklod1loQk5odW9QWlRTQWVkM1lkc0RNckZFdl9PWmJSQ1dmbXZfNjFiSll4S1dzT1gxNmJjT3d4ZWxna3BVU29NRUJOb2ZxTTVKcGVvZUI1d3EtTGhWSzFNYlpXdlVoZHN5b2w1dWh0UHFvaDQ3MGFlRUxCS2lsTFFkb3BGLTduZmQwMWw4bEVmLXdUSHN5S0E?oc=5
-- **Source:** Investing.com
-- **Published:** 2026-11-16T23:16:38+00:00
-
-## Iran’s Next Big Surprise For The West: A Homegrown Fusion Reactor | Details - Livemint
-
-- **URL:** https://news.google.com/rss/articles/CBMiwAFBVV95cUxNYjVCSV8xMkFYdW1hdWVBYkdVMVBMb3JhLVlQeFBTMkRuTHBaNG9UbWVIUC10SDhMYkM3OTFtVzlhdm1kWVJ1M2FJSFYzemVpeXlpdlNlcXdnMTd6ZHhzNTdsNy1DbHZlVVJBOFVkUEhfa0V1UUsyeHBMTkI1a1NHdE9KUHczTEg1SnFNZnUzRnVKYjh0ZFBrWXdFOTJQM0JJdFdTTTIwZlNUTVlRR1dkOU1lVU9Ud2dOU1hwWXZHa1jSAcYBQVVfeXFMTWNEbnR2VHhSbTZub09oUGNwZWZldHZ2VFdtbUVRd0NkdHdmZU04dmh3cWNPcWVPaFY3WFQtcVNqRmw1YTJtZXhidGJEaFdLYXF0bDBLTTJYOVVzbnloeG1Hb0RZUWNPQlp4WDVrNENYRm9iQ0RIRE5xZG9BaTZBRmREQU9zLWowaFRuODFKTGxUbUdCRjBNeVd0NlI0MGFQVjd2clNhNlN6YlJBa2ROREZYbG5qVGVITGwtZTJkN1ktYnVNT09R?oc=5
-- **Source:** Livemint
-- **Published:** 2026-11-16T12:21:32+00:00
-
-## Plural Raises €1B to Back European AI, Robotics and Deep-Tech Startups - AI Insider
-
-- **URL:** https://news.google.com/rss/articles/CBMiqwFBVV95cUxPeGtTdEZselpOZmxLWnJ0cG44ek9LcGNDN2FLVGxNOWxXNFF6VVg0VHlyWWpxNVRpQXJLY0NMVVAtZ0owczVxYlYtcHBDSVY1Q0lCM2ZQb1JuTFVPZnhoY3hCaURHWnVEMlh0QjJzY1hxeWt6NVh0QWRybmlMTVo2dFM3MnJUSHlZMVExbFQ0NEFxSUNhYWMtbHVZOGRrU054aHBSQTBETm5zM3M?oc=5
-- **Source:** AI Insider
-- **Published:** 2026-11-16T11:40:51+00:00
-
-## Iranian Tokamak: Iran Developing First Domestically Built Nuclear Fusion Reactor - Construction Review
-
-- **URL:** https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbDBjTENYUnpqRjVobnlFenB3N1hWVEtYUFhtZ1BTZzNLeHhXM1Y2LUx0RzdVX2ZkbjdobVhrLUxxU1dzWkpGcXR4R0U5QUVSejhXQXk3SGFRZ2I5RU43V3E1WXRVd2R4ZW5kRDJ5TG5mNW9yb1RWOE52Wm54b2tnUEdPMDVrSXZzMGp5LWk1aEliWHdIQ2lMX2ZBdlJoYk5WQXBoNkFHcnd2cVJPZlE1bGpKX1BwZHZx?oc=5
-- **Source:** Construction Review
-- **Published:** 2026-11-16T10:55:32+00:00
-
-## Freemelt manufactures tungsten components for qualification at the ITER fusion reactor - 3Druck.com
-
-- **URL:** https://news.google.com/rss/articles/CBMiyAFBVV95cUxObGJua29OUm5rdzk4V1VaSVdCTjNJaVZ1VmUtaW5zMGpBX19hRnZydmZ3VVZxWTI5Y3UzVlUtcmY5VW1wcjFhODBYQVhsdkxOdHdWelRBSGZHZ3FRb2VwRGlhMTFWTWQ3VHg2U0VSR0U2Q3ZXYnRIWnBjWUI3cmZDUnAtVkFkSmplSnR4cnhDNzFWTVFQc2pwZUZGZWZkRkZEczBFOEMwZVc5eGpxRXlPUmpHSFhUcFNTNDBIeGFmSmxHdmo3bUV4Yg?oc=5
-- **Source:** 3Druck.com
-- **Published:** 2026-11-16T09:48:03+00:00
-
-## Plural Raises €1bn to Back the Frontier Founders Building a New Europe - Via TT
-
-- **URL:** https://news.google.com/rss/articles/CBMi2gFBVV95cUxPSkQxSWZCTlNYaExuTF9vdE83aHBTbDhKLWQ3bk05TlYxRnM4NHIzcTliWFRUR1lRX3lqTTdLTFdCaWs1THljRThCU0pTNUEtZ3h5bjVrZ1NKeWt0RUJoTW9QeVRWQjAwX3Q5eUJENFpIQlR0bWdqTU1wQWE3anduUGhWeW1kX3pOQk8yeTkxYklPSVctTFJNQ28wbVdQZVluNWY3NXNEV3ltbW45cWdOTUhWY21RVHpxY2Q1TnVXUXRJTC1ydG9UNU9YUUJNUTZ1VE9henpMRGFSQQ?oc=5
-- **Source:** Via TT
-- **Published:** 2026-11-16T09:00:00+00:00
-
-## France Launches National Plan to Accelerate Solar Thermal Deployment by 2030 - energynews.pro
-
-- **URL:** https://news.google.com/rss/articles/CBMipAFBVV95cUxPWEZUWFUzeS1GUmZ2dzhhSlphX25JaEtPQjJXX0lNakpJbWhvdUpOVGgwdV80TkFpYmdFWWVvUWhvak1Jdm56dGUwZ1BWUW5yTU0yOTRvN0JtZ2RqWUxDd0NyNEFoUXpjdzRnUk5wSlVYMS00V3cyeElHaFBkWXFnUmthSWlWcnliUGNnU0pkMHBwU1ZCT3NtNU42ckFVZWhGeEc3eg?oc=5
-- **Source:** energynews.pro
-- **Published:** 2026-11-16T08:34:29+00:00
-
-## Plural raises €1 billion to back frontier founders “capable of building Europe’s first trillion-dollar company” - EU-Startups
-
-- **URL:** https://news.google.com/rss/articles/CBMi3gFBVV95cUxOVW14ZHVtSExZbk1hRk9mU2NWZ1ZsbDUxTGViVTlGSHpIWTVCMWhLVURTclFNZF8xQUxRNHhnUjVnNU02RWRxWHVUNm9PdmVsTVhrTWhVdXE1akxQUHFoemVGa3Zxa05DRlFyUFJ1c1ZseTdISzR3RUQ5cmgxZ05wTGJPVEZfQ2F5ZDZvWk43N1l0Q2hzVmpDWkcwdk5vOWpjVF9VcHZ3eVVaMlJhWUduQWxiZ2ZFMFlpR1NGVGpGN0hCcTZBbTlkMk53TU1vZjRuSnRaU0RqdkVFUDU5R2c?oc=5
-- **Source:** EU-Startups
-- **Published:** 2026-11-16T08:31:24+00:00

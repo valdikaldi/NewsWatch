@@ -1,8 +1,116 @@
 # NewsWatch — Apple News
 
-_Last updated: 2026-11-19T12:34:05.191053+00:00 · 50 articles_
+_Last updated: 2026-11-19T21:58:59.314071+00:00 · 50 articles_
 
 ---
+
+## Apple Is Working on AI Agent for Device Control, Apps, Browsing and Coding - Bloomberg.com
+
+- **URL:** https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQzRPX3FrZlMybjdvY2FJVWhVOHU5M2lTTGNPazZYUW0zVlA3ZkVRcWxERk9XM2FvXzgzVDVUaTYwTzVzOXg0TGQtN25fOE9aeTRtUXhqTGE2Q01zQ21iTUg1dmFTNGZQRV9hTDVBV3BjWW4tUzYxXzBVTzA1UzkyOEtySVhfbWZlbmRXSFd1bVZLZElzSThUMmlQVnAyOHJIWUs0YTBNVTBIM29HV2ZieUtzQ1d0SDVIVTA2VTRTYk4?oc=5
+- **Source:** Bloomberg.com
+- **Published:** 2026-11-19T21:44:56+00:00
+
+## Apple Inc. (AAPL) Stock Forecasts - Yahoo! Finance Canada
+
+- **URL:** https://news.google.com/rss/articles/CBMinAFBVV95cUxNdU8tRldqdmpDd25GOFFjMDR3dWxITTNPSDFtNGVkVWJNdjRreFR6SUZkbEN4QkpJX3FfaWNxVnpKTk1SUnlaank2X2JUMmtiYUlNWXhtTzdZdk42YURGSFZXdnZZV2FzaU1iMHo3Vjd1WWNHMExqeWdUY093clpaYjBVRFFJckVYU3lGbUtQYWNqcDVBemtsRWNvenQ?oc=5
+- **Source:** Yahoo! Finance Canada
+- **Published:** 2026-11-19T20:11:37+00:00
+
+## Apple’s Executive in Charge of the iPhone’s Camera App Has Left - Bloomberg.com
+
+- **URL:** https://news.google.com/rss/articles/CBMixgFBVV95cUxOOHV6WENacjFMTmhuQXM4bXlBeXlQWVNQVzd5QlA0Wjg5cEVTRjlWdmJBVk1nT0F4XzB0Q0xhRnRkTjZpc0lOOWxaTHZFZGtVOHVGVUF5cG9PWkF1bVY0UzV4U2xEVExZU2szU3EzT2dkOGNsbDJnZWVHVVRWUlZadldfSzR6VGtYS05PTXFKdnJXdjV3S0ZpN3FFNzhzUmg1S2NheHUzOS0xZFFaNXpkMWJHQURydmczcVV5Xy1Ud09ZY3BCSnc?oc=5
+- **Source:** Bloomberg.com
+- **Published:** 2026-11-19T20:01:51+00:00
+
+## Apple Black Friday 2026 Offers Up to $300 in Gift Cards on Eligible Purchases - AppleMagazine - AppleMagazine
+
+- **URL:** https://news.google.com/rss/articles/CBMic0FVX3lxTE5yT2lJQUlpU1BvRmZqNVdIOEoxRWJTMjJGc053QTUwdHRXZVdoWjBKWWp5TVE2ZWtTWjZLZWl4MWRIN3AzTTNJOHVxRF9KSHJNbHVhWXlsUjdlUFlVQ3FZMjV5d2ZJR3IzdHBTdEJTRE1neU3SAXNBVV95cUxOck9pSUFJaVNQb0ZmajVXSDhKMUViUzIyRnNOd0E1MHR0V2VXaFowSllqeU1RNmVrU1o2S2VpeDFkSDdwM00zSTh1cURfSkhyTWx1YVl5bFI3ZVBZVUNxWTI1eXdmSUdyM3RwU3RCU0RNZ3lN?oc=5
+- **Source:** AppleMagazine
+- **Published:** 2026-11-19T19:57:30+00:00
+
+## UK Court Rules for Apple in User Data Fight with Government - Bloomberg.com
+
+- **URL:** https://news.google.com/rss/articles/CBMirwFBVV95cUxPdjkxMENVbWNKc0tQZWluMnpDdl9zeDJvblllcFpkcENYaVNENm14OW41YzA3REU3NHgxb1M1QjdUQjhzbWxVTmNKQ0EtbGNDUk4wclMzM2xfampGRUdCUk1qdF95anVfN01BcGZjeGFiV2dZaXJsTDlSYzJUeHB1RXBIQWdzbWRpZVJ3ekZ1MThRSEVHaWk5aHNrN3hRRFdQRFVVS2FBX3lteHhGbGQ4?oc=5
+- **Source:** Bloomberg.com
+- **Published:** 2026-11-19T19:18:23+00:00
+
+## Google’s Gemini Can Now Control Mac Devices on Users’ Behalf - Bloomberg.com
+
+- **URL:** https://news.google.com/rss/articles/CBMirwFBVV95cUxNVndRY201NGljOFg4cFVWVGxmYzBMTDN1c0hfTlkzM2trRnpkdXhsYTU5UmNjc25TU2hTUlNKQ2xOS2hJTHNQdGE5VFFMamZTLWNfYkI2NkNkQ2RDbGdvWmI0YzN3ajF3Nko0TDJ6TjhzeEdQNFpua0JNOXZfSHhqMXVHVlZTaUNObW5kVi1FeFdoTDVSbDdfNzB5bTktWWpQVWNOa0JwVFB4dW5YTHdz?oc=5
+- **Source:** Bloomberg.com
+- **Published:** 2026-11-19T18:55:31+00:00
+
+## Apple Camera Software Chief Jon McCormack Retires; No Direct Replacement Named - BigGo Finance
+
+- **URL:** https://news.google.com/rss/articles/CBMidkFVX3lxTE83VHJGNGRzOWhMeW8tclhnSUVYR1FYb1VoZi1PN0RKakZ0LXpVaFhXSmlrTTUyaEhwVlJnMzVVdlZZbGJ1cDdSQ1dFY2NxWkFfM2F0d0ZYVmZMYXU3eXBuRU9qRS1VOEI1Y1dnSkotcU1aRHg2bFE?oc=5
+- **Source:** BigGo Finance
+- **Published:** 2026-11-19T18:55:00+00:00
+
+## UK tribunal confirms government order demanding access to Apple data - Reuters
+
+- **URL:** https://news.google.com/rss/articles/CBMixAFBVV95cUxQenZpeUVpaFZLYklnRUUyX1M2WUFiLUE1VFNSQmZLWHdmaDB2a2Q1WXBOeDliUExJbzZ0eVFPLVJ2ekNKRVhBSFVSRXo4d2RxRG1XMjAzTkI3SjNmRGFGMVptQXQ4UFI3VklnanpvaEpXQnlYN0RxMHJXVGpXNWJMZnZDRWFRX0ZGQWNJT2xIdl9OUlpMci1FVUdMYnRORktIQjR4WmdGWWpUTnFBclBqbkdCYTZvMnNIY3FpN1RSdEFiQ2Rm?oc=5
+- **Source:** Reuters
+- **Published:** 2026-11-19T18:38:26+00:00
+
+## UK Court Confirms Government Demand for Access to Apple’s Encrypted Data - PYMNTS.com
+
+- **URL:** https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWGhQQzEta2hoaE5vOWI3MFE0SVpCNVg3eW1SdldxTkpTa25KUWhRSWdUc2tMaktfaXozbnBQb056clhmdmFmU094aDFXTGZ1aWJoRHlEVzlWb0lMaFNSWlI1RzMzckN4bjFoM2d6Z1U4UFlvWDVnc1BsalkxekRUS2JELWZlTEFHZzZoTGZwQ011T3B5UnVob1B1SHJnSlhLajVSZUJVZmI?oc=5
+- **Source:** PYMNTS.com
+- **Published:** 2026-11-19T18:13:20+00:00
+
+## Services Franchise and Installed Base Anchor Apple’s (AAPL) Durable Earnings Growth - Yahoo Finance
+
+- **URL:** https://news.google.com/rss/articles/CBMiqgFBVV95cUxPU05ZM0hXWHV5dklpM3lCUzhua21IQ3JZOHRTNVFTNkI4bEVlTTY1TVhyNWdYUERDMW1VSXRjZkRMOVotU1FTQWo4Z0dWV21QTU5tb3NKSlI2cVFiLWhHNkJHWFpLeHYwd3FKQUgwOU9GdnFMaS1pVHhmUWhSbnh0MDYzbWpOZkxxbGNMLXJuZGYtWW15WEZRTVdGTGU0cE9iY294Q3F0cUtoUQ?oc=5
+- **Source:** Yahoo Finance
+- **Published:** 2026-11-19T16:22:00+00:00
+
+## Apple's Next Margin Defense Could Be Hiding in Your Wallet - NewsBreak: Local News & Alerts
+
+- **URL:** https://news.google.com/rss/articles/CBMiuwFBVV95cUxON2N6QUN3aVFwRWtOci1nYkt4bXhma3l2ckExMTItb3FLMUlJTjF5a01aUXJha0I0TGw2VEhzek1rbHVzSmQzeW1IWkpDSWt6SDZRQUF5dXM5YzBnb19PcmY2R0tkenlZS0Jud3JTWkR5d2tjVktqcXlNeXVkMXJ6NlVYaTlwR2VBSUprNjRpQUdzZ2lPdE85QUNxeV9wdzJ6THppbEFWbHZHUkNGMWdJa2JweVA4M0xKS3hz?oc=5
+- **Source:** NewsBreak: Local News & Alerts
+- **Published:** 2026-11-19T15:19:40+00:00
+
+## Apple ordered by UK government to maintain access to encrypted customer data (AAPL:NASDAQ) - Seeking Alpha
+
+- **URL:** https://news.google.com/rss/articles/CBMitAFBVV95cUxPTTl5N2pkamI5ZXJhal8yd1d1SktKUzhOckNybkJWRS1XbFJiRzJ2ZnJrMUxlXzBMNjRDbWV5RnZ5aG1kLXozTFNZUG1HSHhoblQtQnlkdVdaV0YwNkd2SzBnV2ZKeG9abS1zY1pGV21KaGNCQ2xRNWJuUmVQS2o3VGJWUzBhN0pYMW9oRUZuMXFLeXFwWWNZdF80b3p5M29NdWFUd2FoVkJMRC10NWRjeFJlU2E?oc=5
+- **Source:** Seeking Alpha
+- **Published:** 2026-11-19T15:17:37+00:00
+
+## Arthur Levinson Sells $32M Of Apple Stock Near 52-Week High - Benzinga
+
+- **URL:** https://news.google.com/rss/articles/CBMixgFBVV95cUxPa3dmdzhPcTRMZ2t1bHctRHp6UnNIcFNNTTlpdkFRSzlweDgtRFFHS0VGR3VLUnRfc0xCdHJ3SUVYU3RQTEFITkNNRFYtZVFaSjJlX2JrWjNBR0l3WkxZdHc2UTlqaG5DMkVpUVhtNmhTd1p2RWRDcVdxR3ByTEdfay1zUHh1OVIwdlI4Zmhxd0VsdE5rMzd1aHhjc3QyQTREUzdaNGQ0UUxjb2ttN0RSZnhsb3gzeEZSbHdHV3VRbFBvcmlTRUE?oc=5
+- **Source:** Benzinga
+- **Published:** 2026-11-19T15:05:20+00:00
+
+## Apple Inc v Secretary of State for the Home Department - Blackstone Chambers
+
+- **URL:** https://news.google.com/rss/articles/CBMimwFBVV95cUxQTzh2c3l5RjU1bl9vTHc0cnNuX0hGR1dBSDNBeE1kNDg4TVJ6ZDBUekFCclRyZENmRG96aURaS1BGb0xnRXY2eUJ1LVRpQlVJTUxCRU9aZ0xPR2hETmdDU1RpaUUtUnhVeFJTbWFOS05lXzk0OEJDSDRZQ0Q1YmdZdngxM19hS1Jwc3FoX1RKcXZLV1dGRk5LVjRncw?oc=5
+- **Source:** Blackstone Chambers
+- **Published:** 2026-11-19T14:12:43+00:00
+
+## Apple Music Radio hits 50M listeners as audio competition intensifies (AAPL:NASDAQ) - Seeking Alpha
+
+- **URL:** https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZG1iYzZKN2piZlZQOUthcnBZb3hYTlpwM3hXRjk4YmU1eWRVQ1o5T1MwVERqRjRXV20wZWUtNVpnN0VITzFrUkI0MzhxbEUxU3RkbzUxaV9BTFdMSFVTOENGdU1ZYTNIMGFfRW5OUkRVamEzeDFzT1V4T0VzWUpNaDVnWTdHYjN6UzVkVEhEX0VJWmdreEJ2YlVTWktZWTRwdk1YWFduRk56TXc?oc=5
+- **Source:** Seeking Alpha
+- **Published:** 2026-11-19T14:12:42+00:00
+
+## Form 4 Apple Inc For: 19 November By Investing.com - Investing.com Australia
+
+- **URL:** https://news.google.com/rss/articles/CBMimAFBVV95cUxNR0pTU0QtUkgyWnlLUUJCWE9zVVdBZzJTckthYTNpOTBHUUFmQmVIV0EyVC0xTkZsODFJZF9zOVhzeUFHeGNRNlJOci11ZzlKZXZFV3NCTXRZeEYya2VMTkVOYks0dk5oMlliTmFNZ1Y2SzgzaTdoMFRMMjJqb2lYdjdhRU9tSm8tYUdwUnhWaUxITk4ybTdQdQ?oc=5
+- **Source:** Investing.com Australia
+- **Published:** 2026-11-19T14:04:30+00:00
+
+## Why Microsoft’s Stickier Revenue Gives It the Edge Over Apple Heading Into 2027 - 24/7 Wall St.
+
+- **URL:** https://news.google.com/rss/articles/CBMivwFBVV95cUxORE1lTFhCdEFOQ0trV1BwVG15VWIyeWIzcFZJajRwYUp0dTFUVThkZFEtWE15OEdrWU1BLUdFVFgxbmF3dEhnLUdZdTJWdjg4ZUZBRGY5dEw4VFlqd2pCc01BU3JIYS1qdnpvQm9SLUdWYy1fUW1xQWcyMDNYWVdBelFKeC1zUDdwWnh6aE1XR0JteXNtR0ZEVnFWZWZ3TWVVLTUzM1kzVGtITDFZb3A3YktoOEk2Zmh5bUdvSU5kNA?oc=5
+- **Source:** 24/7 Wall St.
+- **Published:** 2026-11-19T13:45:00+00:00
+
+## UK has imposed an order demanding access to Apple data, UK tribunal says - Yahoo
+
+- **URL:** https://news.google.com/rss/articles/CBMilAFBVV95cUxQai1fYUc0dDNfVWVhQTY2bGgxNk1wczlBVDJkSUJSTEdTdjFrd1FBOXpMY3NEN0I2dW5rdE1oZVJQZFVkQ1FLUFNMSGdHempxOXVrdFB1UjFya3VfYURSaWRXS3hyZHgycG03bTN3V0JUZkEwankydndfZWFOcDVPVFowRm1xMHdveUpIVW02UFlmazUw?oc=5
+- **Source:** Yahoo
+- **Published:** 2026-11-19T13:25:35+00:00
 
 ## Apple Pay, iCloud, other Apple services hit by outages after bank disruptions - Times West Virginian
 
@@ -195,111 +303,3 @@ _Last updated: 2026-11-19T12:34:05.191053+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMi_wFBVV95cUxQOUFXRDJqX3lfRTN6aHE0R1RKdG9ud1d2VEZqc1hxTjNyLWZpdG9vR0pibi1nU3hHNXplUzR5SmlINndkYjlOQzB1QXJzNkx2eEJieTU4Nzc5NGpZb3ZRTndJSjRBVE5fNi1yd1h3eVZYUEx2MlAtMVA1Tk5kb1FYVENvYzNiU05qb0RLS19Cc2lsa01SNUxSaUFJN0hVXzRCQThMcXRpSHB2TGhndzJaR2xFN0lDX1RwMTdmdVlxa211Y1RHSV92ZF90X1R6VUx2V3NsNnJaMXQyX1BCLXJkN2VweVFidjJ0NmZVcUtqTU8teDAtQnlkMl9Wak1NeGc?oc=5
 - **Source:** The Lufkin Daily News
 - **Published:** 2026-11-17T20:43:23+00:00
-
-## Is Apple down? Company says 'internal update' behind outages on services like iCloud - WZTV
-
-- **URL:** https://news.google.com/rss/articles/CBMivAJBVV95cUxORWVSYm1NbFJuNTAzcmdwTEVneXoyN3p5RHNOblpRejcyd2tNUGhaNkc2NjRvczg5Y0pIaHRqX1hpYk1oSnFPWkFleUVvN1dHajJ4V3JBUVRHWkF1bmJLNWVNd013cC1xd2VqSGlzSFREWHRvM1B4MDBPUTc2ZUZsbm9ORlh4WWFxanM0UTV1VHYxakhxWWZUSHdwOWZwUE9Ud19GR3E1NHJLZlVJQ3g4NklFTzhTSEN5cmxVZDBJZGlfdGJ5aFpDVmtJRkFhTVBDT1ctZldaV1Z4VGt0YmNodGRtSnliTUVrV2t0MHRQQ3F5dXM1akdvRUd6ZTRVbFNYeTNJN21YQ1VySEhHREFlYmJFemQ0T183THhBa3VjeXZpX3FqcDEzQVlOOEtlUVRDSzZSUDFqeHhxa2t3?oc=5
-- **Source:** WZTV
-- **Published:** 2026-11-17T20:15:39+00:00
-
-## Apple Works to Fix Systems After Update Caused Internal, Retail and iCloud Outages - Bloomberg.com
-
-- **URL:** https://news.google.com/rss/articles/CBMirAFBVV95cUxNX3NQTl9iV3NGVTJLVmZEeDNrQmQ5MDJKZTBPUkgwc1p2MFNqSDNScDJzUXJlZXhJVVV4LXNKaFk0QUFLNl9uZWNhZ3U0ZDBLcHYyNWlIb0w2TGJ3dlY4dGpMdnB4ZlE0ZGpCNnZyRFhkNXh2Tk83LWtpQzh2THRhUmxCekFPdTB1dUlRcEVmN1JHaGJBRDhFbGhMWDFmeHlGZ2t6eUFteE1QaUo2?oc=5
-- **Source:** Bloomberg.com
-- **Published:** 2026-11-17T20:07:44+00:00
-
-## Apple Pay Outage Cuts Off Instant Crypto Buying as Apple Services Fail - BigGo Finance
-
-- **URL:** https://news.google.com/rss/articles/CBMidkFVX3lxTE5POXVYQ3lqOGltRFo1RUpsVVpQWWdPSWtGLVZUcEtXZ3RxeXIxbzdyOExLU2JUY2pIRTJNYl8yTUdQZ1AzRXFPcm1RUGdPVm9DV3pYLUloNW5zMGdSTlVpOTJER2NoX0tfMHhTTFppdGEzNjc2QVE?oc=5
-- **Source:** BigGo Finance
-- **Published:** 2026-11-17T20:05:00+00:00
-
-## Form 4 Apple Inc For: 17 November By Investing.com - Investing.com India
-
-- **URL:** https://news.google.com/rss/articles/CBMimAFBVV95cUxNc2lnUmdtX2ZiYUcwZmc2N2RyZENDNFJUZVdDSDJXTDRKazFaUlNFN2VUN2trdHFQbDlCczJESVAwaWJVUXJHTDhmRjl6ODRucmlWa1paU0VlOG11aEw1QVBSR211OWdZNmlFVS1pekhjdjJiUFR3bWIybnZKMld3RG5nMnpfNGZVc2RWbWpwdnlUMmtjaVl5dA?oc=5
-- **Source:** Investing.com India
-- **Published:** 2026-11-17T19:36:30+00:00
-
-## Apple outages hit iCloud, Apple Pay and more services - Action News Now
-
-- **URL:** https://news.google.com/rss/articles/CBMi4wFBVV95cUxQNG5fNmJxU3c5SlNnSzFUUDVfaEN0XzhYSElnNmJISnZtSk1Sdk0tYmdDT1NDWmlXVk1ZZGxFZ2tHUTdXblhGVllIY2VKejBSSDF6VUZ3Z1JHeVMzNVlLM2lqWHdHNG5aa0RkVjBLTF9uSUNLdmxnMUhEVUxGQzBZREdGRURFUWhXUFdneldpV2RFeThhR0JDYnZHWTZ6MFVQcnV5VU8zcVJHSXhOQU9XZFU5ZHZOZXFHZC0yY1dlckt6QVU2OXlER0U3V3oydjVUYm9PTTlOcVNPS01YUmg2bGFMMA?oc=5
-- **Source:** Action News Now
-- **Published:** 2026-11-17T19:27:00+00:00
-
-## Apple users report issues with iCloud and Apple Pay - Nonstop Local News
-
-- **URL:** https://news.google.com/rss/articles/CBMi3gFBVV95cUxQQ2Mydkt3dnc2aXBuTjlqbDRYY3p1ZWM2SUNiY1dMZ3lyNW1HRzVKMGhadThacHliZ2M4SWNEWVA3UjJoclNEamNJeXU3eVBya0ZMLW9BZ2JrRjBKWTFlOTRnY21zWTgwMFJFdUw3MlJuc0diREM3a0JSQ2ExUU1qQ1V6a242VjA1OU1QMV8xeTFZSWJvT185WFlfZzVPOUNaaXEwMTBjQURUYWthckJQOEEyYmc3aFBLSGlXcFQ2cnpTTi0tNVZ3T2hpeWFTWFdrRndISE1nbUVUMWwtUFE?oc=5
-- **Source:** Nonstop Local News
-- **Published:** 2026-11-17T19:21:00+00:00
-
-## Is Apple down? Company confirms iCloud issues as users report Apple Pay, App Store outages - WSET
-
-- **URL:** https://news.google.com/rss/articles/CBMiuwJBVV95cUxNdTFzRTNNcFo2SXd5TXVFQldHd2JwbE9LdXVmWGxuVTNQNTFXaUFMVVUwYmZyYzljV0VzallYTjBneVNUdmtsa0x0c2JSRDF3SU9aTTdRYWpkMXVxYmpRdXcwU05fTXlTS0pSWGNSbXpiRnBBMHg5Y0Q4NmE1aWhuMkk5azRQY0x6SWNCOXRINzVLaU15RHAxM2NrV0l6ZkptQ19WNEV2Zk5kbm92WnVHaEtZWkltdDV6LUw1SjBTbVUtVUd2dWlmRTFpWDViRkxtZDNoMjJLQlFxMkR1ZWtnc3FDMDBSYlA3cEZKOEtWR2ZsbllPQlBnRjRYZ1NVYUJObUVtYWZ3aXl0bmNCWFk3bEdfaTIzUXE1cG9ZLUVmZHMzZVNkWUx4V3BtNUM0VTdvcFNjSXBRZ3l2cUE?oc=5
-- **Source:** WSET
-- **Published:** 2026-11-17T19:02:39+00:00
-
-## Apple reports outages for multiple services - NBC10 Philadelphia
-
-- **URL:** https://news.google.com/rss/articles/CBMimgFBVV95cUxPZUlKRjItOTdLNHZCRlc1YzBnX3Ewbng1ZzNDVG5HNlVpbk1UeUVZZXkwcllJY2V3LS1UTG9uVGpaVmMzak9tVkQ1cG9nVmVLMkFyQXg1cllGQ2duVW84R1JKMlNia2puTnlNOEk4X2ZpNEx3bEJsLWN6ZFItNTFnbWp6aWxWM3FUVmVmcVFuXzRDOVA5Y28xdmFB0gGiAUFVX3lxTFA5MURsSmFZRS15S3BUcVhvWHlTTHNuRmpWZk05LUVONndaS2ZfNERZMEVTNHRrc1BSVnNFOGFJVnVDTVFpY0xTdmZnQ1dNY2lEQmR4VjFWZElHM2lNa1l2WnJSSUlOMzZtd2QtOENZUzFRVUlTVkNWNENsQ2JOOWVWSnZPZ2YtWlRMYU94S0RsLWpRTFR5VFFPMURjRVJYSW4tZw?oc=5
-- **Source:** NBC10 Philadelphia
-- **Published:** 2026-11-17T18:19:42+00:00
-
-## Can AT&T's New Apple Device Deals Strengthen Its Subscriber Growth? - TradingView
-
-- **URL:** https://news.google.com/rss/articles/CBMivwFBVV95cUxOd2FTRVJaSXNuMjc4cWNJd3UtODdNSkhZeVBZOGl5RTNaMkhiVTlSSU5sNkJXb0tnTGhHNmJuYmhaVDVZMnZqSjZCbXBhRDB2Z2NNUVZQS0NZZnFsLXdqNHcyMHltRlFZNzJNSk52NVROOXNjdW1vY1N1X202cEVhOHhDOVVvRUtYMVJYVE1UdWlzVDlPTHZEWHZSTGxEV3ViWFF0SHdsVlpfeExiVExJNjQycGIzMG9abktMOWUzZw?oc=5
-- **Source:** TradingView
-- **Published:** 2026-11-17T17:57:39+00:00
-
-## AAPL vs GOOGL - Quantisnow
-
-- **URL:** https://news.google.com/rss/articles/CBMiXEFVX3lxTE4zd2ZENzY3U183Rll3T09GZVRRMWtVa2Q0b2FxQUpXd2VjMXVoazJ2c1Rza1I5TGFwRUdLcThrNEN1LUh1Y2tzMDRMVXZJUzJnU3NXcFF0aVdvMFZU?oc=5
-- **Source:** Quantisnow
-- **Published:** 2026-11-17T17:13:14+00:00
-
-## Apple Faces iPhone Security Concerns as Cyberattack Targets 178 Organizations - TradingView
-
-- **URL:** https://news.google.com/rss/articles/CBMi0wFBVV95cUxPYV91UVplQXlSdVltV2RDdVlJeFR6M19xVFduQVVNeU5MbGhJenNLOWtaT285SF9GTUU5MWpyZnllTUprMEFnSGdGRVJqYm4zOWdYRmNSV1loUTV0ZUlyNU9YVlRaUklDajNWLXNTM3p0QkNwWnFlakpucXZjMEhFOVh1dDFwSFVsNGF4UGZuSExUNFhRYWtZZFZpOHp4SzNxTnpLMlBBUFRESDRrSUhvZndHY0Q2TXpYVHFIZXBGNk96QldWNDczem1hT3ZrMzN6c3Q0?oc=5
-- **Source:** TradingView
-- **Published:** 2026-11-17T16:34:53+00:00
-
-## Apple moves towards rare long-term Samsung memory deal as AI boom tightens supply - Proactive financial news
-
-- **URL:** https://news.google.com/rss/articles/CBMi5wFBVV95cUxOekw3dHpSQUFqQVBhMzJST1RmWE5yOUlvY0V2ZXNFTlRmSmN6TERQQUxlMzhuSVFLT0IycTZJemxZRmFpdEQzaVVOc3QwT09BYlZ5ejVxWU1XYTFtSmJDLUhHSHhsSWJSYmxHYm4xU00wSGNBeXF4a3hiZWlWWmJEWGRUbjVNMmt1S0g5OFByYzdmQjZqWGFGblhkZ19TY01mVmgwRUEyUHVCcGFCVENHdW9mWlBkVlBWMDNtZ3ltaGZfSUI4ajJ0WlZsTmdyMkxQU0RwVGszcmVvWG5mdWVwMDlvNUlaT1k?oc=5
-- **Source:** Proactive financial news
-- **Published:** 2026-11-17T16:00:00+00:00
-
-## Apple Inc. : Bernstein reiterates its Buy rating - marketscreener.com
-
-- **URL:** https://news.google.com/rss/articles/CBMinwFBVV95cUxNWHNmTWtQRWhoVTZFS29WcDd5VUV6ZzU3UTFueFJyMWFINzBJVERvZmkyM2pIY09ZczRnUElHd3V1TlA0NUpXMnhjODdXbDRMWndRSFBnTkRscVVrdjZDU3hmc21RR2NYdERmTlZhRlRYOHhhLXgyNlVRYkhieGRpc21HeGR4WkNsZ1VIdEtjVkNuWTZZbkRONHkyMVltZTg?oc=5
-- **Source:** marketscreener.com
-- **Published:** 2026-11-17T14:38:59+00:00
-
-## Apple’s AirPods Pro 3 just got a huge early Black Friday price cut - USA Today
-
-- **URL:** https://news.google.com/rss/articles/CBMi4AFBVV95cUxQejZTUjFMMDFTa2FmVG5UQkU0UXBkZzJPWks3VS1oMVh3aUxmT19jR2dRR2ctQzlvQ1kzWW0zNGtOdU8yNmFwa0wwX2JmODR1cHNLbi1IYVdVdThHOTItNWZCTW85cWE5YzgyVFo0VkhGa2hUNzhMMUo3VUJGM2U3TklhVlNiX1pJcDVSZ1VQZlZHVVNPelZ0QVpja1o2TURycF92aDYwd0dJaWMzQWp2ZTBMc1RTNUhCX1pQRW5YQ0dXMXlTYzhOS0Z1Z25EbVJRRXNmNHFseC1sc3prS055bA?oc=5
-- **Source:** USA Today
-- **Published:** 2026-11-17T14:21:00+00:00
-
-## AAPL: Apple defined, key history, primary product lineup - 9to5Mac
-
-- **URL:** https://news.google.com/rss/articles/CBMiR0FVX3lxTE5YT25nRDV2WDBrbkJNcGEtUTVaMXUwRUZiQjFPWURPanYxM0RaRE9yblZHZFJMbmpWT2FmaXhCanlyWFNwM2ZF?oc=5
-- **Source:** 9to5Mac
-- **Published:** 2026-11-17T13:12:23+00:00
-
-## Apple to stand trial in June 2027 for ‘planned obsolescence’ of some iPhone models - MacTech.com
-
-- **URL:** https://news.google.com/rss/articles/CBMitwFBVV95cUxOYTZxcEQ5TjBGbmdRTFZIMmVkenJuRUxLSXBJeWFQUHdUUG05OEdZeFVtcWI2djZjS0Y0WHlTVGlHeE81V3JxYS15M1JFNEpKdWZ0TTR3dEtRMDQtaDFyUkpEUWVKU05PYUM2TFo4dS1LQVFOcExoWEtMLXVjQ3BBR2Q2bzlvVTRPbURWQ2duUEVFOHQxMWM5UlZfTmxfcTEwZEtHRmFyal9pOFdpTHVmdnZJeTNPYU0?oc=5
-- **Source:** MacTech.com
-- **Published:** 2026-11-17T13:03:47+00:00
-
-## Apple launches an AI health tool as part of a research study - Rural Radio Network
-
-- **URL:** https://news.google.com/rss/articles/CBMisAFBVV95cUxNRDAwTXZUMmtOSkJUQmh0WmIzU1h6WW9xN1ZiUi04cFQzTVEzYUJ2VDBlSmVPMlBMT0tjaFNFWVg4dEZpY3NYN3lxS0xoRnhoQkJVbXJYVE50bkNPNjRjZ3hsZl9IVXR3ZWtGUnZkVnVwcEhGeC1fTHdOUGZmdDJ0UjlwemNsdC0zeXZ3dlRDdlQ5bmpTU0VKYkRTT09obE54RmVfUjJ2STVYcHhkMmNiXw?oc=5
-- **Source:** Rural Radio Network
-- **Published:** 2026-11-17T11:23:24+00:00
-
-## Apple faces French trial over alleged planned obsolescence of iPhones — source - The Manila Times
-
-- **URL:** https://news.google.com/rss/articles/CBMiyAFBVV95cUxOWkJfQklvaWJNZDNQdG1hd0Z3RnZDWUREbVdZcTl5MEpnUmtXZDlMTHBSZUVSSkRHZUJ0U2hSOXN4TXVMNUxZaVZVZnI3dl9kYjJyM0pTcmxEaDhJMjAyUHo0ODFxd29zZV82dE94UllwdTR4dFVuTmR0cDdHcmh5TDJGaEFmVFJySXNKaWM0ZUdGSzBCSDZXZEVTUTB6ZG1wZ1VmSVMwS2VneFdlbWVyZ2RmSnFKb2lJdUQ1Z2lDbFdfeU54SVl6NdIBzgFBVV95cUxONzhJYzB2R2N3bWZES21NMllCbnV4WjJGZlZoNzJwREI0RmEtLUlmMHJuaTZlMTFtMXRBQk1weVQzaDJrd0tKVFF0UWtEVldkVTdNX2t0QkJvemJsazJYQzNlSXdLUk5Xa3NSTHoyM2pNalVKOTdXNWppMFpoQWJIOXA5NVdpcEFaZDZ1LVhnTTNKY0ZnOHRtQ0RFQ2lZcGphWVF1UC12N1BKVXpHRHRQZkRUQWZsZGVUNUhTeUxjQWJZY2hpNWQtc2lEYnNCdw?oc=5
-- **Source:** The Manila Times
-- **Published:** 2026-11-17T11:11:00+00:00
