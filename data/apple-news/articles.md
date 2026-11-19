@@ -1,8 +1,26 @@
 # NewsWatch — Apple News
 
-_Last updated: 2026-11-18T21:42:57.582582+00:00 · 50 articles_
+_Last updated: 2026-11-19T02:57:04.402760+00:00 · 50 articles_
 
 ---
+
+## Apple Pay, iCloud, other Apple services hit by outages after bank disruptions - Times West Virginian
+
+- **URL:** https://news.google.com/rss/articles/CBMi9gFBVV95cUxONmFHa3g1V1J4ZGdwMUhKUWdQSE1sUU1lU0VlZkxBczRXLVJkd1lPS0IwclVUZkVxVEdlanBHR1Vwa19rSVZnbjk2cGVCMnpCRkNnd2RDcWNlTWhEWElKU2U0UTZoQ0JVLTR4a25FUFJuSFFuM09RMm5lRjEyNjFrN0JRLTF6TDNFMWw2MlRGYm55Z0o5TUpIT1JEaFNrbUh1ZGpxckNNa3ktMzRSYlFYV1pjR3FRYUo1cUN3aTJtdnh4djV6cEpLcS1ueDdJZ3J6ZWFXQzVEQmxSV05wNmJ3WUlxUTFXaHpQVDQxWFF2TFhIX19xWlE?oc=5
+- **Source:** Times West Virginian
+- **Published:** 2026-11-19T01:00:00+00:00
+
+## Form 4 Apple Inc: Arthur D. Levinson (Director) For: 16 November - Investing.com UK
+
+- **URL:** https://news.google.com/rss/articles/CBMivAFBVV95cUxQLV81aXl4d2lHY0NFVkpaSHlWeXFpWGg5QU82VmFORWFGNTBjbzZOT1pwVGFaUDVLUEpfcDE3bFZWUC1CV21GVjlzS0N5NldTbUxDWWxUNHoycnZnaWZ5MVA1MEpuclhhZEh0dHcyS0Y5WU5MRnlXN1kwazNrbUZ3RjR3dHFPaTlyY29pbFRnalBtdTZKZE5WcmdVTTAxX08tMlA3bVZvUUFoaGUyT0lMVkNuVklUQnA5MVdfMw?oc=5
+- **Source:** Investing.com UK
+- **Published:** 2026-11-19T00:20:00+00:00
+
+## An Apple (AAPL) director gave away 50,000 shares the same day he sold stock. - Stock Titan
+
+- **URL:** https://news.google.com/rss/articles/CBMipgFBVV95cUxPeXo2bXM2UVlsdURDYTdkaUx1U1YyOFBtRzhmSnhYaFdSZVhQR0ZZeGE3cWNaWTU4dWNNdUVSd0FpU1VaYkc5U09iaWhlSmV1ZDRDa19nWWRONklwT1BuSFY0Z2dZeUFkclNQSVlMN3RjOXpfY3BhZUZUUno1RnRBVkxjUk5yX21xOU9WMmtGOVYyRkUzdGhXT2d5TzZQQzZMSzF4NUhB?oc=5
+- **Source:** Stock Titan
+- **Published:** 2026-11-18T23:30:40+00:00
 
 ## Goldman Sachs Forecasts 2.8% Global GDP Growth in 2027; Apple Inc (AAPL) Shows Modest Overvaluation - GuruFocus
 
@@ -285,21 +303,3 @@ _Last updated: 2026-11-18T21:42:57.582582+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMiyAFBVV95cUxOWkJfQklvaWJNZDNQdG1hd0Z3RnZDWUREbVdZcTl5MEpnUmtXZDlMTHBSZUVSSkRHZUJ0U2hSOXN4TXVMNUxZaVZVZnI3dl9kYjJyM0pTcmxEaDhJMjAyUHo0ODFxd29zZV82dE94UllwdTR4dFVuTmR0cDdHcmh5TDJGaEFmVFJySXNKaWM0ZUdGSzBCSDZXZEVTUTB6ZG1wZ1VmSVMwS2VneFdlbWVyZ2RmSnFKb2lJdUQ1Z2lDbFdfeU54SVl6NdIBzgFBVV95cUxONzhJYzB2R2N3bWZES21NMllCbnV4WjJGZlZoNzJwREI0RmEtLUlmMHJuaTZlMTFtMXRBQk1weVQzaDJrd0tKVFF0UWtEVldkVTdNX2t0QkJvemJsazJYQzNlSXdLUk5Xa3NSTHoyM2pNalVKOTdXNWppMFpoQWJIOXA5NVdpcEFaZDZ1LVhnTTNKY0ZnOHRtQ0RFQ2lZcGphWVF1UC12N1BKVXpHRHRQZkRUQWZsZGVUNUhTeUxjQWJZY2hpNWQtc2lEYnNCdw?oc=5
 - **Source:** The Manila Times
 - **Published:** 2026-11-17T11:11:00+00:00
-
-## Apple to stand trial in France over iPhone repair restrictions: report (AAPL:NASDAQ) - Seeking Alpha
-
-- **URL:** https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZ0xRQ0RCX3RmbzdqVjRpTzAwSFZ0bTRGeTlCUzh5QXRpSlZRT0NWT3Y5YmhFU1AtdHA1ZmM1eGxDczBsdVFNUDYyd085VVJPaHFCRGZPZlZMWDZFX3hQM0p4M1UyQlZOYnlfRGY1eFNnbHFDSWdtUkN6TWE2R2VjQjlIZ09GODAxcDBmRVNUVTI1ME9xMks3WUo1U19nZ1I0ZEJQXzJ1R3VkRlU?oc=5
-- **Source:** Seeking Alpha
-- **Published:** 2026-11-17T11:04:26+00:00
-
-## Ken Griffin Dumps SpaceX, Amazon; Buys ARKK and Bets Big on Marvell - Benzinga
-
-- **URL:** https://news.google.com/rss/articles/CBMiwwFBVV95cUxPaFgtQTI1bnYtYzNXa0lHM3JCWHhaeW03SUczSEdqV2FRd0tlMDM1aDh4YnBrbG5RZjNpSjdtTGdnREVGb3VqMTBFcEM2WHd0c3d4dGFwSUIwLUhBV3RzVnlDTjZmbXBVampKN0VVeG8yUlMxTVY1bkVfZllrVWxQOEVKUF9ZSExQV0JSZDFXTlpkSjh4bnRQajZaZktSY0tSQi1SRzdkVlBiNHVFRkdOU1k2M240eVYxcUZXbE1QYl95clE?oc=5
-- **Source:** Benzinga
-- **Published:** 2026-11-17T10:56:10+00:00
-
-## Apple faces legal battle over alleged iPhone planned obsolescence - Tribune Online
-
-- **URL:** https://news.google.com/rss/articles/CBMimgFBVV95cUxQMF91OEtEdm1ua0tjQ01uQ0ZkeS1SV0ZvUVFoQXA4Q3p4TmxkUnFIQWU4WVRVbWxfRWRZak1DaDVwd0xsVnNPeUxKMzVlcTdQQkpDOS1SdUN6ck5YUC0zWmZrR0ZoY3JwTFppLXZCb2ZYcllrbFFoTjczVDNhQkZ6RHY4QWw3bmZxRVdxWElTWUlyZUg2RHFsMFFB0gGfAUFVX3lxTE1OM3VDWmNKandTRHdlZDVKbFJpd1MyNTMtQ2VYck51NXNEek5nWm1nbDV1aHRGSFktVG94cDJuZUhfOHVWSjFRWHF5MzAzeG1MQzN6MF9iRkQxS3FyZ2lldTFqbTFNZjJmZ0NmMXR1VmlKSFR5ZHQ4Z01FZ0xLR1hTUWtwbXBFU3RiazVMTW5QMk9Bd0N5MDUtT1BmQ1loSQ?oc=5
-- **Source:** Tribune Online
-- **Published:** 2026-11-17T10:48:26+00:00

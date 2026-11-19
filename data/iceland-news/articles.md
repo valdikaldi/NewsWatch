@@ -1,8 +1,44 @@
 # NewsWatch — Iceland News
 
-_Last updated: 2026-11-18T21:43:01.169470+00:00 · 50 articles_
+_Last updated: 2026-11-19T02:57:05.337776+00:00 · 50 articles_
 
 ---
+
+## EU extends Carbon Border Adjustment Mechanism to Iceland and Norway from 2027 - INSIGHT EU MONITORING
+
+- **URL:** https://news.google.com/rss/articles/CBMi3AFBVV95cUxQT0l0U1BFa3h2dWFWNHJBRVV6SEJDLUFFMThsZ09JSVRJQl81a2Z3d0RCZjJVZElTN1RObGl2UzdnY09DQlNDcmVZaG10aUc3OVJOeDRQYWM2RWFZMzRZTnY0TmxDNGhxbFdkMlRNOFhEMDdsYmhlSWFOWGF3d0RzU0gwZHRzQXhKLW1pVi1RQUlBNGkyQl9lU0xuMGgtTU5xVzVoV3R0RG1INTY4ZGRwN201dkZCLUFCeUxtSXdaRk94OExxZUQtVHRKU3ZTdm9nTnFLT2hhQjE4RDFB?oc=5
+- **Source:** INSIGHT EU MONITORING
+- **Published:** 2026-11-19T01:14:31+00:00
+
+## Honiton charity given £5,000 as shop closures increase demand for transport - Midweek Herald
+
+- **URL:** https://news.google.com/rss/articles/CBMipAFBVV95cUxQQzF5bHRob2VBS3NSYnhsd3VIZXJla09yZkttRUFBN2xhYU1Oek04bFdWZ1FJbVJqVmQxbWZGbElNYTRmQTdnaFdzVzE4YmhwcWZUWkl2ak5GUTA2NDYxbkVWNGtOd1FtN25IQXpXYlByOFI5SUZSZ3BLSVV6RE8zOWdNTzEtNW5KYU5sSjdUYXhoZ0czQkZidnVLZnBVZlN6WHk2NQ?oc=5
+- **Source:** Midweek Herald
+- **Published:** 2026-11-19T00:30:00+00:00
+
+## Discover the film locations for Supergirl (2026), around the Cairngorms in the Scottish Highlands and in Iceland. - The Worldwide Guide To Movie Locations
+
+- **URL:** https://news.google.com/rss/articles/CBMiZkFVX3lxTE1USUEwakZRMEFZQ09IMEw1eFVfdVBtRUhDZ3dJaWhlNlUtelFfQ1B4OXN2UVhTY0V5SzJpSmNJNXB3UFVlZE1UZ3hwVmJ5ZVk3bzRkVXE3aWxkREhEQVpHWVdvMFV0Zw?oc=5
+- **Source:** The Worldwide Guide To Movie Locations
+- **Published:** 2026-11-18T23:46:02+00:00
+
+## Hikers Follow A Dog In Iceland — And She Leads Them To A Breathtaking Waterfall - The Dodo
+
+- **URL:** https://news.google.com/rss/articles/CBMisgFBVV95cUxNUHdEeVhHYnhYd2UteWczekF2ZGg4QUVLdElJS2psdWxVQ01OWlY4eW1sZWpQWEYyblhXay1XVjJvT0VwcHJad1hHTEhqWVhqR1BJNEFKWG5LWnk4azNCdG1mcXhyNHRWY3lBSVk2MTlTRm5ZX01XTUJ1UEJSY3JaV3B4MDhndjl3aVk2T2dBWUtZM3IwSnZWeUtodnRrUkdDbURJRTRKeUt0eTRMUzFxdzFB?oc=5
+- **Source:** The Dodo
+- **Published:** 2026-11-18T23:17:45+00:00
+
+## Icelandair and aircraft maintenance engineers sign collective agreement - Iceland Monitor
+
+- **URL:** https://news.google.com/rss/articles/CBMipgFBVV95cUxNRU5taVRTdHlvZi1wY2xhZ2FweDBFRjh3TE9GazBKR2JlWDlCLTBreS1ONXpNRVZua2daeWlZejNpNHEtY0xvM1VqYk9td0tldUhjbklUQU1hcUJHdjFjY2lKQ2w5YnZUVWh4Qk42UV94UGhraEZicFZOYkI1WjZaZ0M2LUFvd0hKZGZPZGI3RXNyT3J6a2RkMXZOWE43UUI1NzJVZUR3?oc=5
+- **Source:** Iceland Monitor
+- **Published:** 2026-11-18T23:04:00+00:00
+
+## Best Glacier Hiking Tour Operators in Iceland According to Booking Data and Verified Reviews - Guide to Iceland
+
+- **URL:** https://news.google.com/rss/articles/CBMiiwFBVV95cUxPaEt1b3lna291WHk5cHJlaUU0NTJrNEhJaWNxaXpxN0xJTXZMTUxENUxQZzEwclUzS0VLaHJQbmlpbVJUdGFLbkI2V2ZkRDNJRmFaQUdlSFZkYnM5Z0FZLW5VcElpSU45VG9EcVhSZXhlU3lsMUhybXBVb29rX1lCUEYxcWxtVFhWOWlr?oc=5
+- **Source:** Guide to Iceland
+- **Published:** 2026-11-18T22:57:50+00:00
 
 ## Flight From Tenerife To Iceland Diverts To Shannon With Ill Passenger - Clare FM
 
@@ -267,39 +303,3 @@ _Last updated: 2026-11-18T21:43:01.169470+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMi0AFBVV95cUxNb2lvV0V1ZFd5WlVoRGlxZHRXUlJHSGdvQXhfT0E0QThCOWdocXNiOVo0ZWwzUHZDcEhQZlNLRWU2cFBWRkF2RUNPaGdwLUNKTTRmSjhNZzBVOUMzaXNfaEhCX0hVWV9qcnlic1dEaTMyc2E0dlM1bndGMEVvOFBFeDJUY01FTlphdTc2dVBCbzZud0FfNDhhRGRwd0RBRGlwaUhqSEY3VjY4eWhaNmVLbEV5eWNNSTlPSmIwZ0JKSlpYbms0SzBNREViZTJvYXNP?oc=5
 - **Source:** The Guardian
 - **Published:** 2026-11-18T05:30:00+00:00
-
-## Dynelectro 250 kW SOEC Achieves 38.60 kWh/kg H2 in Iceland Review - News and Statistics - IndexBox
-
-- **URL:** https://news.google.com/rss/articles/CBMirgFBVV95cUxNbG5nUHladWVpdVZqREwtVGxzVnZMdW5rdmprYV9JTDM4TEU2OFJWTmt6aUFBaGJpb3JmQl82VUpWSGFJNEpJblpEdDMyMGk5SUp5ZWFDS1l2LUdCblZKa3VTM0FLN2xTREIwRmdncHdQY2thZmhWWHA4bkpROGFReXVSMmlKNFpBeVdPcldNaWRjdmd0OGFtMzVNblowQ3hwNS1HQjg5Yzc4TnZRb0E?oc=5
-- **Source:** IndexBox
-- **Published:** 2026-11-18T04:51:28+00:00
-
-## Iceland vs Azerbaijan live scores, head to head, schedule, predictions and stats - Sofascore
-
-- **URL:** https://news.google.com/rss/articles/CBMie0FVX3lxTE16V3hsRXhGYUp6S0tzeXhVNWlPeXcwSTNkQjZsUF9zUDhaemp4dVc4SmwxdDREeGFqV0N5eE1ReFJCRzVaM3RDZ3NjUHM4eUJTZmdRUC16bFRIZ0U4SkhqbG51T2NBb1RoNW1NVTR5aklYNGJoLUxyLWgyQQ?oc=5
-- **Source:** Sofascore
-- **Published:** 2026-11-18T04:40:28+00:00
-
-## Dynelectro’s SOEC Unit in Iceland delivers 86% LHV electrical efficiency at System Level with no stack degradation measurable, 3rd-party review confirms - Hydrogen Central
-
-- **URL:** https://news.google.com/rss/articles/CBMiiwJBVV95cUxNM2Q5RGpDWDVVMzRURmJfY25sRVZwMmRrZ3FVQ3U1aHZ0ckxWWEdkTmlpTWswZ044eHJLZFNDODk1NzlxeDd6T2tmY2RCYXRSN1JwWGtLZkZjVHZzSWNaeEY5V1NsYXE5em9EQWt3dW1vbk5JNk9xOFluRVJ4c19jaV9fVVZWeTBaZzdLbGpsQ0FwZjNUUGdEZEczVnBDLWRzTWhKUGlNN21aWUtUdUVHQV9HdlRXWmVzWWhSTFVvdk1LaGtSVmRtaEgzbDlHN2tQVEo4RC1fVHBqYnVMYVJIX0w3dGFNS09GekotX1ZpdkJ6aFlOcUVqcElOYkFRT1R2ZVFmaklUYmxUOXM?oc=5
-- **Source:** Hydrogen Central
-- **Published:** 2026-11-18T04:21:28+00:00
-
-## Hong Ling and Nick Teo take an Iceland babymoon, flying 18 hours with “Princess Teo” to see the northern lights - 联合早报
-
-- **URL:** https://news.google.com/rss/articles/CBMi0gFBVV95cUxPTUx1VnF1cDR5RmxuZ1ZVTTZDbUVGYlBvcDdhZEVLMWJtc1VZWGlDTS05eUZBUWlMZ1Q1MGUtWm43V2RfMG5GZ2J3ZGVLOW5vTTNoRFZyaWRjaW94ZG1wbXNMSVU4dmxrdmp5VDlIeDFmRUZlREw5clFWeUpSVzhSZ2t4Wk5iLVpTSmdPNlB0WjhqbG9feE1rSm5pVXVsejRLVFhkQnhVc21CUFBMS0tZVnV3c1daczVxQTZzUnpocUM0YXhOX20zR2VWQjVMcnRDcEE?oc=5
-- **Source:** 联合早报
-- **Published:** 2026-11-17T23:54:57+00:00
-
-## Syntholene CEO touts geothermal well as source of 'unlimited' fuel, but Iceland plant has made only hydrogen - Mezha.net
-
-- **URL:** https://news.google.com/rss/articles/CBMihgFBVV95cUxNTGtEUXpoY28yalpyNmdVZXREY0JYWV8ydVNVeDcwOHl3Z3RQYnVobERNTS1MVng5UUduRVRKdUI0OEZvTU5rZTY3MnE3S1RNb2J1aXNuRjRZWGsyUjl4VVN6cXZTVDN1VEtEbVVyMDNob0IxSmZDcVVHMXlKbm1JaFBDZ0FvUQ?oc=5
-- **Source:** Mezha.net
-- **Published:** 2026-11-17T23:44:51+00:00
-
-## 'Oil wells that never run dry': Syntholene's CEO says one geothermal borehole can make unlimited jet fuel — but the company's Iceland plant has only made hydrogen so far - TechRadar
-
-- **URL:** https://news.google.com/rss/articles/CBMinAJBVV95cUxPTnNrSGJmRGg1cjR6d3lGZzFqclktUEdMMXpQZ2pOLVh2dlpldlIxZERxXzZ3bEdIZXJkVHgxV0FPb0NLZkE0eUdJVi1TYnVQSEJva3N2R2l3NWo3bU5RREZPZ2dIZWpETG1BU1AwZXhrWVJ4V1RsNEJqWGV4NURSYVhac1RVUkJtTGhpcEdwaGdZSjFxUkZwTG5Vc2RxU01rU04xZURFWU13UG5neWVLQjU5cGFFRkdDSVlZX0c1NlRnTXVFaEhDendsX2pNQ2J6VUlsY1ZEZkxsNGMtMVBIaTljT2o4STZrMEJRQ1pHaGJscF82ZTRmb3RGZ2czOXk4TERKQ3hPYWJkdXBBV2NuU1dkMlR5V1l5cmNrRQ?oc=5
-- **Source:** TechRadar
-- **Published:** 2026-11-17T23:25:00+00:00

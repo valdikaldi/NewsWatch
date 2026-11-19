@@ -1,8 +1,20 @@
 # NewsWatch — fusion energy News
 
-_Last updated: 2026-11-18T21:43:02.818870+00:00 · 50 articles_
+_Last updated: 2026-11-19T02:57:05.708220+00:00 · 50 articles_
 
 ---
+
+## UK Laser Lab Joins First Light Fusion to Model Unproven Fuel Heating Behind 1,000x Gain Claim - Tech Times
+
+- **URL:** https://news.google.com/rss/articles/CBMi3AFBVV95cUxOSWN5VzJQN3U2bkN4QThFZEpoSHF5VGduTWIzaC1PYzVJamROSEoxNTRqclZQMmFTaFNISWJWa2I3cGhvaWlWTGdaWkZoNFl4QWxab1JpM0JoMHVidVU5Y3BkbEh3dk1KQzNPQXhyZUZJTC1Zc0I4ZDUzWEQwTElHMjFZU3BSbW9XUVRDbmlTdWo1cWlYTDF1dFJlclI3X3E2dWE0S1lOa1dFMkpzQlM3RUxFWEdSZmJsWnAxN0xVVGhqdGdycWlWckNhcVl2cTFBdlk0NDgteVNTSG9k?oc=5
+- **Source:** Tech Times
+- **Published:** 2026-11-18T22:26:36+00:00
+
+## Singapore told to seek head start in race for fusion power - Asian Business Review
+
+- **URL:** https://news.google.com/rss/articles/CBMimAFBVV95cUxNOHA5VFB4bF9OdDFoTnpnVkJ3bDRCajhpRm53d1pRajhhRjQzUjBzbGtjVWdfZW5QeTRrS0UydTJJS1hBaVV1QXoxNExkNDZ1VUl2VGk0b3E4Zk5tRWgyTFlRNkNnaGNCNUJPQk9NazVEWjVMSjBUYlJscTF4OVRoenlQdjdtYXBIZ0VhWW51VFBjNlo2aExVYw?oc=5
+- **Source:** Asian Business Review
+- **Published:** 2026-11-18T22:00:00+00:00
 
 ## CLF and First Light Fusion Team Up on Ignition - CASRAI
 
@@ -291,15 +303,3 @@ _Last updated: 2026-11-18T21:43:02.818870+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMi3gFBVV95cUxOVW14ZHVtSExZbk1hRk9mU2NWZ1ZsbDUxTGViVTlGSHpIWTVCMWhLVURTclFNZF8xQUxRNHhnUjVnNU02RWRxWHVUNm9PdmVsTVhrTWhVdXE1akxQUHFoemVGa3Zxa05DRlFyUFJ1c1ZseTdISzR3RUQ5cmgxZ05wTGJPVEZfQ2F5ZDZvWk43N1l0Q2hzVmpDWkcwdk5vOWpjVF9VcHZ3eVVaMlJhWUduQWxiZ2ZFMFlpR1NGVGpGN0hCcTZBbTlkMk53TU1vZjRuSnRaU0RqdkVFUDU5R2c?oc=5
 - **Source:** EU-Startups
 - **Published:** 2026-11-16T08:31:24+00:00
-
-## IEA Expects Global Oil Supply Surplus to Return in Fourth Quarter 2026 - energynews.pro
-
-- **URL:** https://news.google.com/rss/articles/CBMinAFBVV95cUxOYWtuNVpROGlsNHZCVU1VbFhlWjZQVUNxMjY2SWNxbUNYMlVSWTVkYjQ5NVZvc1hkRUdDNmtfWGRxc25IN1FITVJpVGdpS1Q4eHNtQ2U3elk5ZXpQRExlRWpiNjAxeHpaRFIxZmdUbmpaRFdpY3dJYjQ2RWhOVE5xQlNYbjRtUFhldGNZVmphRUFJM3BRZ0xrcDdVdWM?oc=5
-- **Source:** energynews.pro
-- **Published:** 2026-11-16T08:04:25+00:00
-
-## Plural raises fresh €1bn fund to back ‘non-obvious companies’ - Sifted
-
-- **URL:** https://news.google.com/rss/articles/CBMiW0FVX3lxTFA0ZDltS284UlRRMG82d3NxRFZucHFWam5EYm94Yl9pNFR4VTdaZWxHV3Znc3FNN05vZGV2REl4NnNfRXZRVnBEVi1CM25sZklRWi1SbzFpS1dLbUE?oc=5
-- **Source:** Sifted
-- **Published:** 2026-11-16T06:53:29+00:00
