@@ -1,8 +1,44 @@
 # NewsWatch — fusion energy News
 
-_Last updated: 2026-11-20T02:58:30.860165+00:00 · 50 articles_
+_Last updated: 2026-11-20T12:33:07.401742+00:00 · 50 articles_
 
 ---
+
+## INFINITY partners with AtkinsRéalis to help shape development of advanced tech campus in Derby - Love Business East Midlands
+
+- **URL:** https://news.google.com/rss/articles/CBMi-gFBVV95cUxPUzc3NzhweXJiLTVnREVGMGxCYlZLZXQzWkNVd2RCRUItSEpiWXljOFJmZnctaTBoV2Z1am40YWJXWW5rSXBZRlphOWRsYU9xemp0TUViUl9vSjZsVXJ6WFBWR1dBNnB2ZU12Y1RBTjBLR19pX2dsaG1Od2tZNHUxMHRNTk9RU0pEbnJtX3RGcldISDVPNnAyR0NYMFVWamY4WE90MEN4QjJZVW0zVHVMQ0F6NEVxaHdLLTJvX28xRW9adEU5VnJHbzdqOFlkOHctUXM3UDFEcXZLUHg0NzdtUlRBcEc3cGZQcWRFMUdLMGQ1dWc0cmhvS0V3?oc=5
+- **Source:** Love Business East Midlands
+- **Published:** 2026-11-20T09:02:34+00:00
+
+## Is commercial nuclear fusion no longer science fiction? - The Student Life
+
+- **URL:** https://news.google.com/rss/articles/CBMiggFBVV95cUxPRFQ0NjRqYS1uVkRxUzNwRnU5ck5aVmQxcURUUVctckZ1ZFJzX3R1NG9zamFVbEtmUnFlX0NFZFJSYnVLOVhKQU14RktjUjQ0MUxLTTQ2WGVxUnpELXhUSTRyei1ZTHZjVUh3eDVxa0RHby02MGkySkthSHVpdFhUYndn0gGCAUFVX3lxTE9EVDQ2NGphLW5WRHFTM3BGdTlyTlpWZDFxRFRRVy1yRnVkUnNfdHU0b3NqYVVsS2ZScWVfQ0VkUlJidUs5WEpBTXhGS2NSNDQxTEtNNDZYZXFSekQteFRJNHJ6LVlMdmNVSHd4NXFrREdvLTYwaTJKS2FIdWl0WFRid2c?oc=5
+- **Source:** The Student Life
+- **Published:** 2026-11-20T08:18:17+00:00
+
+## Nuclear’s role in Europe’s net zero energy targets - Innovation News Network
+
+- **URL:** https://news.google.com/rss/articles/CBMimAFBVV95cUxQbktDbkdoaXFaNThuNURtamtHRGhoLVdIZUNjTU1zSEpDUzhlVzR1eGl0YjBkc3RSOVItaEVuSzdGODIwS0VSOUpwcXhlcHc0QW9wV2F3WlcyMTVsaURuMER0N3VuQ1JBay1VM2lXVEUtck9aZGg0MVpvNGJJVms4TWVZNGxBZEJhMFhQc0E4aGxqc0tGRjRFbQ?oc=5
+- **Source:** Innovation News Network
+- **Published:** 2026-11-20T06:57:24+00:00
+
+## Solving 40-year Puzzle In Fusion Energy - Mirage News
+
+- **URL:** https://news.google.com/rss/articles/CBMigAFBVV95cUxQa096b2tLSFAySEpuSlAxTXdXVE4yUXhfQ0VfMzFTUTRWU1c1dTFkcXZQTWU4a3E0allJbHR4ZmNCaE1VTmdqSWdES1hkNGo1azJSLVRhZ1FvYk1Td1dRYnBKSTNsNHUtSWp6V0xMUFg5OXlPb1RiSHF3OXlZTnRRTQ?oc=5
+- **Source:** Mirage News
+- **Published:** 2026-11-20T06:14:00+00:00
+
+## Startup Proposes Fusion Reactor That Turns Mercury Into Gold - Wisevoter
+
+- **URL:** https://news.google.com/rss/articles/CBMijwFBVV95cUxNNDdxbXRUTk9xb3JqX0VWZVQtN25SQ015bktqa3JFN3RpT0ZjdXZJN0ZjZTlfdE4wdXRNWnBVci0wN2pYdWlqZXU5YzV6X3YyVlZZWWt1ZEcxQ01DZjdpeWlOd0FNUi15MlZnelU2WHJCamtOVWdWOTE0MlJidFAzZHBlWC1LU0tLRUViblR1QQ?oc=5
+- **Source:** Wisevoter
+- **Published:** 2026-11-20T05:54:50+00:00
+
+## General Fusion Group (Nasdaq:GFUZ) - Stock Analysis - Simply Wall St
+
+- **URL:** https://news.google.com/rss/articles/CBMihAFBVV95cUxPdHR5cUNXNkJpN3BjYnEwVEU4QUxJcndiN0F4T09mQ3lWdzY5ZmlFRVpHUFVfb2Z4b3cxQWRMMlhEajB6MTgzcTZGNU9XSnlxcWQ5TGJaOTR6dFBic1ZLcjlQRGJtclI3ZDdOS3IzdUtzdmlCVkFXNC03Um1KUll5QTN2TXc?oc=5
+- **Source:** Simply Wall St
+- **Published:** 2026-11-20T05:34:54+00:00
 
 ## Grouped Moth-Flame Optimization Framework Enhances Autonomic Cloud Task Scheduling in Simulations - Bioengineer.org
 
@@ -267,39 +303,3 @@ _Last updated: 2026-11-20T02:58:30.860165+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMioAFBVV95cUxOUEVqRW1JMnFlMzQ3MGd4bGNjT1lYVU9hRnctdXhkRXowUThPQW1yaFppX0tXRERoZUw1Nl9jOUhFX1d5ZE84eUtaNWFwcm8wMFNGMDdyUTlFWllRMlY5dWhkMUQ3VWtZNVdxM2RQTURHOGx6enpCdkFKaUlYa280ZkpKVnE4THJ5WWlDVV82TGZoc1prMVpMc1lrVHAxYUtm?oc=5
 - **Source:** Universe Today
 - **Published:** 2026-11-17T21:23:00+00:00
-
-## PPPL Scientists Showcase Work at Field's Largest Meeting - Mirage News
-
-- **URL:** https://news.google.com/rss/articles/CBMiiwFBVV95cUxQQlNWQ21kbmctNG9VVGxQNEd5VzV5am01Z3JmVDhNdlRsUGVtQ2k3ekdQWlJSQW9rSzFhOXpVd0E5MjJnNVBjNU1ESUlpWWhZSkVGYWZUeUFVTzhUQkhVc2FzRzY4aG54TWxydVJlTnUxT2Zoa1VXWUhLLXY3YWczeVJYMXdwa3NVOUlJ?oc=5
-- **Source:** Mirage News
-- **Published:** 2026-11-17T19:20:00+00:00
-
-## Watch Nuclear Scientist Answers Nuclear Physics Questions | Tech Support - WIRED
-
-- **URL:** https://news.google.com/rss/articles/CBMiekFVX3lxTE9mX1JFbG5hNF9BLUo5RkcwclpLWUxDeU0wQk1DSHJOeThDM2xiZ0VONWpRc1gwOXpadnludWIxTEFwakNoWkpraUswOGo1TGoycVJheW5zX0RjUGZwMzY0bEJoSm84aWR3QS0xclFqTUVhZ0VXZHVZWnd3?oc=5
-- **Source:** WIRED
-- **Published:** 2026-11-17T17:06:21+00:00
-
-## France launches roadmap for fusion energy development - World Nuclear News
-
-- **URL:** https://news.google.com/rss/articles/CBMimAFBVV95cUxPdWo3MFAwNXVtUkNISVl6NHI4eFBRUkM4ME1nN3FhMmhmeVNpLTBIalNxd0xBNDFFRHJTd3BRVm41TENsdUxIS3FIYkRPbnVWVHItWV95bEJGMGZrb3pDMzhXRXJnY08wVk5uUjBDTmNqNmhHU2pIcG5Tc3BWTVlfMVBxUk5UYWU4bVppZ2pJVHE4U1c5NVcxMw?oc=5
-- **Source:** World Nuclear News
-- **Published:** 2026-11-17T16:23:42+00:00
-
-## France Unveils 10-Year National Nuclear Fusion Strategy - NucNet
-
-- **URL:** https://news.google.com/rss/articles/CBMimAFBVV95cUxNeUM4WV9rUzZNS2gycE1VTDVnZE1LRDFJU0JPZGFjZ1pXcUc1bUJHNUtEdElWY3NOUzk1T2t3ZUNoS21RUmZGOU9rWkx2cnlWT0M5NXg2eW1UWkg5OFZmTXBzdWRTSU0zVFYzM1g2dDhKV1RDWnkzMmsxdmRvLV8zZldlWEZPM1pOMzU1LU1Ga09uUmJ0ckhYQw?oc=5
-- **Source:** NucNet
-- **Published:** 2026-11-17T13:30:29+00:00
-
-## TAE Upgrades Norm Fusion Reactor to Support Commercial Development - News and Statistics - IndexBox
-
-- **URL:** https://news.google.com/rss/articles/CBMirwFBVV95cUxQd2VsXzltQUFhVnpnVW5mLXJQWnBYRVNxWGhUdWdvTHRIZFRSZWdFb083UTZHSTdDdlBwcFdZWlRhZWVMYlZ6Z0lNMlZ2RzJmSEhoVkNtZjVGZVZvZmlJQXRWTVVyWVpQbVpIczJVRGpSX1o1aUg4RDlNREJ4VF9wRUhLa3FzX2NWeFQ1SHY3cmozREJGdHNGbC01bENXdWxHMDdLWmNwN3pKclNYeWNJ?oc=5
-- **Source:** IndexBox
-- **Published:** 2026-11-17T12:00:58+00:00
-
-## TAE Technologies Upgrades Norm Fusion Reactor to Underpin Commercial Development - StreetInsider
-
-- **URL:** https://news.google.com/rss/articles/CBMi0AFBVV95cUxPQThXUGh6bkozcnZYcjFmRFRWWWlGQkxqa3JnTndiNU9nSXh4cVB2RWw4aXctdFRxMzdiLXNrcm85ZmVOcXpPdlN3WmVocUVRZjY2N2tDcFhNYXlubUV3ak9pekVHN0NKVUhmZEVicmNCSEZVcEZDamhUSWtVaklyTkxLWVpRWFhLSXZ4TjBtVHQ3MzhLeGlBaGJZbGFpRkw0NE10eG9wcWJpVU9ZbFZGNXpEYjlHTTlCaVVCbTU3Z2ZtSUhoLXlYVV9pdkFqNTZG?oc=5
-- **Source:** StreetInsider
-- **Published:** 2026-11-17T11:32:27+00:00
