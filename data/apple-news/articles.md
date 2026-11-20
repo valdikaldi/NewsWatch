@@ -1,8 +1,50 @@
 # NewsWatch — Apple News
 
-_Last updated: 2026-11-19T21:58:59.314071+00:00 · 50 articles_
+_Last updated: 2026-11-20T02:58:29.590686+00:00 · 50 articles_
 
 ---
+
+## Form 4 Apple Inc: Jennifer Newstead (SVP, GC and Government Affairs) For: 17 November By Investing.com - Investing.com South Africa
+
+- **URL:** https://news.google.com/rss/articles/CBMi2AFBVV95cUxQbGFUX1JzOFVEUXd2ZWR4bVVTZl9ybUx4TzRBTE5IMXRyS1g1UW1WYkUyc25fZzRZNWRJRzY3aWV0YXhmT3dDa1dQSEFrNW5zYzNNcmxfVklkYU9LMUtuNk5wQ2ZXeTNzZjJodFVkXzdtSVlIZTZHTzN2TzV0M3hNbWRVUWNpZlNVWS1jZXVYOURqMjNueEdNQlE3SkRBQkZXaHNCSkRjVWlPOUNvMnduczYzVGRlNVBhZFd5RGZpazc4bnZxeExUWVhLYXMtZk81aWUyeGVsd0w?oc=5
+- **Source:** Investing.com South Africa
+- **Published:** 2026-11-20T01:34:48+00:00
+
+## Anthropic Shares Drop Post-Market on Apple’s AI Agent Plans - Bloomberg.com
+
+- **URL:** https://news.google.com/rss/articles/CBMirwFBVV95cUxNU05IcE5RazNyajNodmVGbEJxU0g5U3FPc2IzMFlfdVdSbkxsUWRFYkxpc0JpOWxQNnVZSGlEVWpHSklHMGwyRzRmdjZXUFVYWDdxdTIwbmRGUVk0WGZ6RnB3MHFhSS1YR3VJSVUxeUtlcktQY1NDbUVWNXpfOVpXREFYY3k5bXpnMjEwM2drWTdMQldwWEFFVG9BX2cySUdmUUNOcFFURVNIa2dZal84?oc=5
+- **Source:** Bloomberg.com
+- **Published:** 2026-11-20T00:40:00+00:00
+
+## An Apple Agent Is Something to Fear for AI Rivals - Bloomberg.com
+
+- **URL:** https://news.google.com/rss/articles/CBMipgFBVV95cUxPcUJtbUhFMEZPLTE3R2ZadFlwR3l2QndSUEYwN0FGSy1NNnJSNW9YalBDSTlRMW03UHBkNUdsNVJJekZxeGF2R1B2dEJrVUZVNGpQSXQ5clp2TVlEWXlNQ2gtcmJ5UjVQaHFuOWxOMk95ZHFoUjhLTkRQdGlCTS1GVGN4c192YnBubFpVVkhTaWEtNmpxVWZaSUxubWJmSlctMDdzYlp3?oc=5
+- **Source:** Bloomberg.com
+- **Published:** 2026-11-20T00:06:00+00:00
+
+## Form 4 Apple Inc. For: Nov 17 Filed by: Newstead Jennifer - StreetInsider
+
+- **URL:** https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWk0ydmM3c1ljQXB5TVluSWx2M2ZrY1N0ZU04LS1uc3dOOVhjSXhaaGJtNFhaR2x4UUhpRzRzT1haUXpxM2hWbDlVLU82MmJLclI4b0ppLWlQOHhQcXNWNUhHd2k2ZEZBQS15MFNYX09CNnNIU3F6SnQ1R3ROM2p2MWllU3N0MmtlQ2NaQUVNSzRMZ2E5eUh0VEwyaEE2bmVOTXVZQWJRamV4eTFSRVV2OUxTTGo2T19F?oc=5
+- **Source:** StreetInsider
+- **Published:** 2026-11-19T23:31:19+00:00
+
+## Under a preset trading plan, Apple (AAPL) executive Jennifer Newstead sold 2,398 shares. - Stock Titan
+
+- **URL:** https://news.google.com/rss/articles/CBMipgFBVV95cUxPOEpTUWU1NllkbjhjLUdseE9JT0d2RVhqN3RlQUloR2thQ0gwOXRiS1FtVk4yVUVZQ0h5NmRteDN1bXJNdjlaWi1YejRhZm92TFMzMF9SRjA2U0t1UTI1ZkRIMkpObldOS0lWT3RhOHhOMXJWYk9UeTBEX2t5Q0poVHRIektvMjdMc2dFa0wxdjFzTzdrUVN4OWNPWVluMkNCNDFtV0Rn?oc=5
+- **Source:** Stock Titan
+- **Published:** 2026-11-19T23:30:57+00:00
+
+## Anthropic Stock Slips as Apple Aims to Develop AI Agent - Benzinga
+
+- **URL:** https://news.google.com/rss/articles/CBMitwFBVV95cUxNcUZENmZXV1lqRENHczFUemdrNk9fSTA0VnNmLTI3dDd5SXdyUjJPM0FVTm5acEFnUlVESDRoWEt5NzVUbVNsYjU3aEdzR2p5NkFDWUJTbzlNRzlqeUFmN0RVb2dzbEFuRmloeDRhUDNzdG9hLTdmVzlLcnNJRkVLaDFaQUJhQmZuYVRzbk15WWZCNVRXQ3VpVU5ta1YzTDFXM1h0cDRKME1mWXZmWmk1TmZuWTFPNDA?oc=5
+- **Source:** Benzinga
+- **Published:** 2026-11-19T22:13:26+00:00
+
+## Apple works on agent to counter OpenAI, Anthropic and Meta: report - Seeking Alpha
+
+- **URL:** https://news.google.com/rss/articles/CBMipAFBVV95cUxQZml5cjgyS3dTMzBwSi16OGpzM2lwS2xQc2o4c0xvTmk5SGZtTjMyU25qN1c4LU1mVTB0MVd4cXZwQS1sUGFZZmRrM24yS2FsTW1nUmM2Z2ktUVBtelNERk1fdXIxRGMxZGYtaER3XzJjbnZZWGlFdjU4VDhHaGs3bk1UdHdOd2hpdDdDUTh1NFduUkc3RlpFUXlJeXhPUVd3OEdBUQ?oc=5
+- **Source:** Seeking Alpha
+- **Published:** 2026-11-19T22:00:13+00:00
 
 ## Apple Is Working on AI Agent for Device Control, Apps, Browsing and Coding - Bloomberg.com
 
@@ -261,45 +303,3 @@ _Last updated: 2026-11-19T21:58:59.314071+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMiwAFBVV95cUxPUjI5V1A1ZXk1XzI1MVo1UG5kQlNVQWJjZTQxNVM1LU04OG0tTDFDOFBaNndtNERhYlFyNS0ybkZJekJxRUo4Q2JORTliZklVRHhSX1hiTlpyeGFfWFptUkJyYVhaMDVfdFZtQm1DSlJvcDlucm9pOGttZUVZcUxXejhzVG5ZaFlNSDlCXzJBUzkyS2R4amlRc2YyNVJWbHFDOWFYYm96ZTFxN21DRzRhZW5UaDFIMzlUYy12VnlOUzk?oc=5
 - **Source:** The Standard (HK)
 - **Published:** 2026-11-18T01:15:23+00:00
-
-## Is Apple down? Company says 'internal update' behind outages on services like iCloud - KATU
-
-- **URL:** https://news.google.com/rss/articles/CBMiuwJBVV95cUxOanZBdW5INFNBZGxZNTB3aUYzNkRDYkM4MTh3dFVwMTViQUtyVUVIa1lhUlJKNGZ3eU5WM2s0aUlVdVpyY2RlYkRDZm5WanpZWnNkY205SDBjWTFCZkdyOFBPczJmLXc2Z1NxMTRlV0ZORzFsNUU5MDg3bVRyNjZkS3ZaUFNFTC1zdTY4cHI5ekpRZ2Z4N0Jyai10WlEyYjFlMVpwWmZ3YkpIQ1VaNmNfLU13bk9ZVjNDdnhaSEVNaXVuZHZpc3k5VWo2OVZpNFozMEN2eFZiWGM2UkFvOXZKYTkydWpvZWlnLWRaRGM4NU1VUTV6bFY5c1JNazhFS25iR0ozVHVFUjNjenRNVlppZk0xOU8zNlhsSlpfb2t2YXhJUTVYelMzWW5Yd0FLMGYyOEpzWU1VaEVVT2M?oc=5
-- **Source:** KATU
-- **Published:** 2026-11-18T00:30:09+00:00
-
-## Apple Blames Internal Update for Outages Hitting App Store, iCloud and Retail Systems - BigGo Finance
-
-- **URL:** https://news.google.com/rss/articles/CBMidkFVX3lxTE5sd1JTSWpWRlNCV2Vya1lqRWhZeVF2ZVF4OEVMcUoxVW5tak80LU9YM0txOGtsY0VvazNndUxDT3VUdF9VTm05bjBJR3Y5UlFxN1ZNV1dZMWx1bm9SZkZYcDYxNkJIRUF2UXVvM0x3YXZXQVM3Smc?oc=5
-- **Source:** BigGo Finance
-- **Published:** 2026-11-17T23:05:00+00:00
-
-## Apple works to restore services after outage caused by internal update - Reuters
-
-- **URL:** https://news.google.com/rss/articles/CBMixwFBVV95cUxOYVJuYnNwMGtjY1NfY01rbXdSVTVnOFdaak1sd1ZkbXpPZzFuWjlOcTJNVUplNDJZLUVxeGZtaXlGZlg1UjFkY2Z5Um5Td19tS2pUZmZKNFlEb0QxVUwyekt2UnRPRlJUT3hRM3FhQWp2MDJRVGI4U1hfeWlpeGlBdFJyTG1rei1yNXJqbnF5LV9vQ3FwYVloZjVhZ1hfVWUzV0RlQVpRc3I3emJwU1lFZEduaUZSS1k5anRlN2lDQkQ0SFI0QkVz?oc=5
-- **Source:** Reuters
-- **Published:** 2026-11-17T22:55:19+00:00
-
-## APPLE INC: 3 OUTAGES HAVE BEEN RESOLVED TODAY - Moomoo
-
-- **URL:** https://news.google.com/rss/articles/CBMikwFBVV95cUxPcUd1akhhemdObHgxMHhJcGlxMGxncFU2ZXhnb3ZWREgtNVpQYXhBcmlXTXFyWmE0Y2Y2OTFnTUhUeTMxRC1mUk85MXJNRlN3VjFkWDd4R3VlcnRpWUQwcExmN2ZtRmtWWTdJeUJoYjVVT3E0bEtJX0JudUZiLWJOazgzUTRsWnZnT2RoVWJXMTlRbkU?oc=5
-- **Source:** Moomoo
-- **Published:** 2026-11-17T21:15:37+00:00
-
-## Some Apple services restored after outage - USA Today
-
-- **URL:** https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUThycDdKR05TZEhCTDZIaWxmNTdqeWt2a2hxdFVKeGxpUXFJdmJDSDZ6YU9iTmRWSGI0MkxJR1pWa216UVNydF9NdUdmd3g3LUlibEFfZnFyR2E0dHV1NHVkVjFDTGpkdkl4OWsxeDNXZW5lQ0FfR0lzaFVkNnl4NWtTbHlIRzRY?oc=5
-- **Source:** USA Today
-- **Published:** 2026-11-17T21:14:00+00:00
-
-## Apple works to restore services after outage caused by internal update - Virginia Business
-
-- **URL:** https://news.google.com/rss/articles/CBMihAFBVV95cUxNUV91bUs3ai1VVU5sTWdLbUI0eXAwazRJNE9paUpKMFBmNFJRWWJiY1ZYb29RaUZXekVpNVBCLU9zNUNRT1dnWHRFVXpJWHNiOTVYUG15b0NIb1pzYWN5S2dlNE83aXdlelFRUUtqMzg5M2ptQndFbXFDM1hMaTBZQmhzX3c?oc=5
-- **Source:** Virginia Business
-- **Published:** 2026-11-17T21:00:48+00:00
-
-## Apple works to restore services after outage caused by internal update - The Lufkin Daily News
-
-- **URL:** https://news.google.com/rss/articles/CBMi_wFBVV95cUxQOUFXRDJqX3lfRTN6aHE0R1RKdG9ud1d2VEZqc1hxTjNyLWZpdG9vR0pibi1nU3hHNXplUzR5SmlINndkYjlOQzB1QXJzNkx2eEJieTU4Nzc5NGpZb3ZRTndJSjRBVE5fNi1yd1h3eVZYUEx2MlAtMVA1Tk5kb1FYVENvYzNiU05qb0RLS19Cc2lsa01SNUxSaUFJN0hVXzRCQThMcXRpSHB2TGhndzJaR2xFN0lDX1RwMTdmdVlxa211Y1RHSV92ZF90X1R6VUx2V3NsNnJaMXQyX1BCLXJkN2VweVFidjJ0NmZVcUtqTU8teDAtQnlkMl9Wak1NeGc?oc=5
-- **Source:** The Lufkin Daily News
-- **Published:** 2026-11-17T20:43:23+00:00

@@ -1,8 +1,38 @@
 # NewsWatch — fusion energy News
 
-_Last updated: 2026-11-19T21:59:04.769445+00:00 · 50 articles_
+_Last updated: 2026-11-20T02:58:30.860165+00:00 · 50 articles_
 
 ---
+
+## Grouped Moth-Flame Optimization Framework Enhances Autonomic Cloud Task Scheduling in Simulations - Bioengineer.org
+
+- **URL:** https://news.google.com/rss/articles/CBMivwFBVV95cUxOX2xUNTJBY2thcHRycldLRElnQl9rRkQ1ckU1Sk1vM0xxSV9nNVVVV3lOYzEzMnd0eU1xT3hITXQ5TkNDMDR2ZE5kNnFFazQtTEg3bEctbzVXS3NBMlBQbmJ5RVNRWEhLNmdkTHpBN3RjUnNtZTQ5S2YwMlFaVUhYRWFDbzdtQW1CSWNLbG14YmVIb2ExU3gtNklGOGMyZVNtODUyMk1ZTkxOU09DazJMUExLdTdzWGh3UEY3VTQ4bw?oc=5
+- **Source:** Bioengineer.org
+- **Published:** 2026-11-20T00:56:50+00:00
+
+## News by CNBC TV18 on TradingView, 2026-11-20 — cnbctv:3db467594094b:0 - TradingView
+
+- **URL:** https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5LWDg5SUdrY0I2TmtjSlppdDFGQjVpXzZGNlRMdVF4UTZBTGVYT0hlcHE4endVTmNCSlVUb01mQkpmSDhnR3BSb25xMWNfNWVEVjRpTkpIeDYyaVR6eXFnUVdVdDlsTTQ?oc=5
+- **Source:** TradingView
+- **Published:** 2026-11-20T00:01:00+00:00
+
+## Nuclea Energy adds Moltex assets to nuclear portfolio - Mining.com
+
+- **URL:** https://news.google.com/rss/articles/CBMigwFBVV95cUxNY0FkUFBrX1B4THZ5M090anVpc0x4ekE1RXllRy1ib243SDFESEJVYXJiV3JHeHM1ODlSMWtmNlpaQ0ZrczZUQmoxQVp1MEdWcGFZYmpBbVZlU1R1QkhTby1Fako5cUlRRVpTeVNPNlR3Q3lDZTVkbXVGOXlpc21HT0pYUQ?oc=5
+- **Source:** Mining.com
+- **Published:** 2026-11-19T23:31:15+00:00
+
+## The Strongest Fusion Warrior in Dragon Ball History Finally Returns 29 Years Later - FandomWire
+
+- **URL:** https://news.google.com/rss/articles/CBMiZkFVX3lxTE1nRFduTEpOVzhDOXZLdEgyS0lBRW8zREJmejNwSno1REV1dzJyV0hvMVktOVUxVm9ObUw5Z0FTM3BuZ1ItVFRlMG11QUQtbjZIREdfQ3Vsd1ZDaWctenRlckdkb2ptUQ?oc=5
+- **Source:** FandomWire
+- **Published:** 2026-11-19T22:32:00+00:00
+
+## Perma-Pipe Expands India Coating Business as MENA Orders Rise - Hart Energy
+
+- **URL:** https://news.google.com/rss/articles/CBMirwFBVV95cUxNOXREWm0wVkFoMFV3TkhEOFdla0xRZ1lWSUp1QW16VGk3UUFPcUhTajdTV1Z4alV1UWNWVUJhUUtXbldHT2J3MmpHS190c1VySWR6ZmpOMXJ1WVRZQmtMNnlyWFU4YmdLRHJtWDM5R2RiU2xRR3RTSWxjN01CYjVaU2d4cWx6NDBYWVo5c3k3UncxczhUdkhNb2RnTWgzTzliYUV6Z1prMWJtUmFkZkN3?oc=5
+- **Source:** Hart Energy
+- **Published:** 2026-11-19T22:29:16+00:00
 
 ## General Fusion at Small Cap Growth Virtual Conference: path to fusion power - Investing.com UK
 
@@ -273,33 +303,3 @@ _Last updated: 2026-11-19T21:59:04.769445+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMi0AFBVV95cUxPQThXUGh6bkozcnZYcjFmRFRWWWlGQkxqa3JnTndiNU9nSXh4cVB2RWw4aXctdFRxMzdiLXNrcm85ZmVOcXpPdlN3WmVocUVRZjY2N2tDcFhNYXlubUV3ak9pekVHN0NKVUhmZEVicmNCSEZVcEZDamhUSWtVaklyTkxLWVpRWFhLSXZ4TjBtVHQ3MzhLeGlBaGJZbGFpRkw0NE10eG9wcWJpVU9ZbFZGNXpEYjlHTTlCaVVCbTU3Z2ZtSUhoLXlYVV9pdkFqNTZG?oc=5
 - **Source:** StreetInsider
 - **Published:** 2026-11-17T11:32:27+00:00
-
-## First Light Fusion and STFC’s CLF partner on FLARE fast ignition - ADS Advance
-
-- **URL:** https://news.google.com/rss/articles/CBMijwFBVV95cUxQR1RqSTREZ0dUanBHS1NLdEtURlhLNlNzck50NklINlhObkVON1J0bTlFZEpOWHYtWWN4cWhMOTdJTWI1RC16UkdtcnBXa2prOENkOFpMT3BBNnZVZHRCTjJiekxVY3hjQlJWTi1JdDFLSEFRSW4zeERNbktKdTBoV3NaYzc3c3p5eWJrNXNndw?oc=5
-- **Source:** ADS Advance
-- **Published:** 2026-11-17T11:27:00+00:00
-
-## France Sets 2035 Target for Technologies Needed for a European Pilot Fusion Plant - energynews.pro
-
-- **URL:** https://news.google.com/rss/articles/CBMiqwFBVV95cUxQV1BIdmlCQktQWmhCb1Z1VWIwSGpvYVZTMTlON3B3M0dWazd3QW94MW9fU05BaTJoeU93aVN6clFYbmJFSmVsNXhlZzBBU1JxRmViRkVrenU5M3k2UjhROW1jSG9HSzlaUGZRQXpaUlphc1E0bzRFM0NMczYzOXNJaDhZVDI1Z1BYMlQtOU0wZldJSml2dGUyZHczUmR4NDRiZ1lxZ0VGZFJmb00?oc=5
-- **Source:** energynews.pro
-- **Published:** 2026-11-17T09:00:48+00:00
-
-## Commonwealth Fusion Systems targets 400 MW commercial fusion plant in early 2030s - Zawya
-
-- **URL:** https://news.google.com/rss/articles/CBMiwAFBVV95cUxPYjEwMVBoWTBiWnludUFqcVRxOG9ycEpRTkhVYXloQ1dOUXNVQlVOUU42ZTQ0cE02ZzdMUko4c0IyRWd1YTNVaTI5WlZuaV94UkNBWXlTdnZySUdWa3FZQ1M3X2dXVUV5ZWlGaHo4Y090Y2hkVGU3MFRrQkJoenMxNlZYMzlIZ01HTUN6ZVAyTVUxNTVtdXY0VVZxX3pWQVcwLXNqOEFGbFZJYnZ1Y0Y2cGhhSktnZUYzVXNmQjFGY3k?oc=5
-- **Source:** Zawya
-- **Published:** 2026-11-17T08:35:00+00:00
-
-## [Science Bulletin] KASI hosts public ‘Space Academy’ lecture on dark matter - DongA Science
-
-- **URL:** https://news.google.com/rss/articles/CBMiVEFVX3lxTE1Td2dFQy0yUHF5czBxTzQ2NEdxTGRDOHRsMzlGQWxFV1NUaTRqdUNfR2ZGWHRQSkZzbDVFRDZSc2dFSmV6aENiaXdILXVUeHpSVWVrZw?oc=5
-- **Source:** DongA Science
-- **Published:** 2026-11-17T08:10:00+00:00
-
-## Iran’s First Fusion Reactor Is Almost Ready: What Has Tehran Actually Built? - Frontier India
-
-- **URL:** https://news.google.com/rss/articles/CBMiogFBVV95cUxPWTNkbEFYNjhyNzhaTmJfaFNwR3NzZVdIN3RUT3ZNejN0RXcxenMyVXJaLVhucUlDVzEwMXR5enlPTFNSMVZCQm1PTXNmOU5uRXVETFlfamtYbHhXZGp5OVhBeHpld1ltNEhlSnIwV0hka3FWTWZkazNYRlNHM2hHalBVN2VPcnRMN1R6eFhaamFDenR5dmtQeFM4eXowRzdmQVE?oc=5
-- **Source:** Frontier India
-- **Published:** 2026-11-17T07:38:39+00:00

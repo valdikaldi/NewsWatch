@@ -1,8 +1,44 @@
 # NewsWatch — Iceland News
 
-_Last updated: 2026-11-19T21:59:03.298857+00:00 · 50 articles_
+_Last updated: 2026-11-20T02:58:30.355977+00:00 · 50 articles_
 
 ---
+
+## Watch Iceland vs Luxembourg - TOD
+
+- **URL:** https://news.google.com/rss/articles/CBMinAFBVV95cUxNOGFQazlkT0JBajZhOExLeWpYZTlIenQ3akFLMnlJWFNrWm5qSWNIcDhQWDEyQlFvVHhFZDRUcDRwejZPUUR6Y2N3ODFBdFItaDc1dUtrRnF5US1sMUhZOGVKSGlwa2xOZ1BFd2dnR2VJRWFRelJ2b2FrTEZiUWk0Q21DYmhFMlFRc1YtdzRQaDQxMmFscDhHcUZYaHA?oc=5
+- **Source:** TOD
+- **Published:** 2026-11-20T02:26:35+00:00
+
+## Svalbard or Iceland? How to Match Your Client to the Right Arctic Expedition Cruise - Travel Pulse
+
+- **URL:** https://news.google.com/rss/articles/CBMiwAFBVV95cUxQRk1KNHQyRERsbTVCWkh1b0FocFNKRnhUUG9SVHp3eXlyaTJqeXhsYndWUTB2Z0Y1Z3lrRXNHdWI1ZGRtYUZYTG1SNHk4VklHSHpsSm1DLVp0ODRYdnVRWWpWY3Jla0JlUGo2STZGcmpBeUZMaEtGcVZIYlNfSWVGcEFmR1RSeXJ5RkFfZkZ0NEVuc01ocG1lUVM2R3FoVGNWQnl2Yi1FbWRGVkVVZWtkYlNHQVltV2dFUmV6aWFiY2E?oc=5
+- **Source:** Travel Pulse
+- **Published:** 2026-11-20T01:00:00+00:00
+
+## The Windiest and Least Windy Months in Iceland: A 26-Year Wind Study - Guide to Iceland
+
+- **URL:** https://news.google.com/rss/articles/CBMicEFVX3lxTFBLRVdIVHpNMkppY3RlVXVURndXYnkxT3RDQWt0cVFmTEVSSmZuaEVpVHRrRWNGSmdpQ2sxdFR4UlNycExVdHlDdlFqYVd3NE45Zm5MWUpxOHhSam1IUHUzUU9LQXV5OS1tUXJNUkFzQVI?oc=5
+- **Source:** Guide to Iceland
+- **Published:** 2026-11-19T23:56:09+00:00
+
+## The Rainiest and Driest Months in Iceland: A 26-Year Rainfall Study - Guide to Iceland
+
+- **URL:** https://news.google.com/rss/articles/CBMicEFVX3lxTE5ueHlJRVpLUG11TWRWRDZWTjNxRGU3WHE3dFpqd1BQTzBiWnQ0THd1TXJRRGRrdllHeWNJX3UwaGFBZGxmYWczNFMxVGtPU3I3TWlxbV9CQ2dSS0RrMU0tcDlIb294YnpMUmxSYmc2cEo?oc=5
+- **Source:** Guide to Iceland
+- **Published:** 2026-11-19T23:29:34+00:00
+
+## Iceland expertise to strengthen aquaculture - The Hans India
+
+- **URL:** https://news.google.com/rss/articles/CBMimwFBVV95cUxQMTM4blRWbzZRNFFBdTV0OUN6MTNLN2ttQV9qQWt3Y2ZIRWY4STUwdXM4SGFJYkpBVG5HS0t6S2lnZ1JldE9jUFJsQS1mOWJOSXFxeUxhTWhqd2QyTzZ0NDNPTzhyaTAxZ18tTXZvVXJjd3NHdXpJMHd5TkFhT05hQTZYM2ZHSDBrQnRsdGlSUnVxVTFIb05fMktOb9IBoAFBVV95cUxPODVnZzkyQWpSTGVQWGh4MUtKYUlGZTkwUFVRMndrV0p3RjhNZ0dZV2NFZGdmQ096Nk1ZRkVldERLX0pIaFJOM2QwU3h5eUZYVVBfV2FVSnh4X3lWWk41SXNtMVF5aEExVXZwT0g5UjAxdnRyNWJ3bWxfeUI1UjFwZ0NaYjdYME1tamg4ajRqYnJUY0hsMXRIdmZmRlJJQ1lz?oc=5
+- **Source:** The Hans India
+- **Published:** 2026-11-19T23:28:54+00:00
+
+## Weak mag. 2.6 earthquake - Iceland: 15.0 km W of Skjaldbreið on Thursday, Nov 19, 2026, at 10:44 pm (Reykjavik time) - Volcano Discovery
+
+- **URL:** https://news.google.com/rss/articles/CBMiwAFBVV95cUxNMHN1dG5Mbkp6MHpTLVhWdGkzZWtQUE1XNXBmbl9qOWZhOVZYMW00WjFEZnhONEljTDhQaVNhQ0V2d3NGSTdJVWVfZXdzNDBvYjlYemZqd2lGc3lKWDZwRi1sRXotN2NpeERZdC1XTkxCaml5WmhpbnNCS2VDeVdfc1FDM1MyQjBvTXo1NG9IbC0zZk9rMUZ4NmM0R1FEeHV5NmtueU1CUXJHRjc3SXdsa3ZhXzVxcmNoVnotbHpvcG0?oc=5
+- **Source:** Volcano Discovery
+- **Published:** 2026-11-19T22:53:00+00:00
 
 ## Glacier Melting Rates in Iceland: An Analysis of 135 Years of Data - Guide to Iceland
 
@@ -267,39 +303,3 @@ _Last updated: 2026-11-19T21:59:03.298857+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMisgFBVV95cUxQekZtS0dsbHhyY2EyLXNqR2x0NE1ibzI3am5PQVB2WXBsV09XZ2tMalQ1aWF0V240OVAxb2NyeUlkRkNUS3FocWlBdnMxa3YwNGNfUXk0YjJ4NlpBSnJHWm14YjVfZWRwMFNXMXFQckRYLXhlVkxQM0RWV3loLWFaaHFFRVY2M29HemFkZEZFbXRCWTFOVXZtYTBUMmNMSlRIR3BvMFgtb3RhNjhkalRRSWdR?oc=5
 - **Source:** Eunews
 - **Published:** 2026-11-18T15:48:51+00:00
-
-## Iceland DLC brings record number of players to Euro Truck Simulator 2 - IceNews - Daily News
-
-- **URL:** https://news.google.com/rss/articles/CBMiogFBVV95cUxNUlRkYVdET3lESlh3NllUb0gtd09DTlZ6aDVNLWZIODlMSnhEcF9FQnFJWFBkVG9zVjN3b2htdjczUGQwWmFKdThJWTZXR2RRbm1aUERUZlZhc0xUOGYxc3pySkhrS2xKaFZLWkQ0cXBtdzUwWWJjY2pJZ2daQ0JYZDRyR01lU0FjLUlWaU1tYnVxNF8zMjBxRGlYemEzRl92Zmc?oc=5
-- **Source:** IceNews - Daily News
-- **Published:** 2026-11-18T15:25:40+00:00
-
-## Hopes inflation can be brought down without causing further damage - Iceland Monitor
-
-- **URL:** https://news.google.com/rss/articles/CBMiuwFBVV95cUxQS1Y5Ty1JR0U5WGgtTlB6VXJBUW5ZSDNtdjZ2anlNRjIzcklOQU5PSU5fSjlEVXh6YmZ5eFF6TFpZNXZEalhfVER2TFBTZ20wVVdvdHJPdHluaU5ObzhHTC1MVllOZ0RNSzJTb0pFVlROYmdISEFFbVlINlJSeWJ6N0RZZGZMQzhaSXdXTFBGS3YxZ0lnT1ViZlUtN2V4b0MtM3N5aDNsekJ2VkxOcVFiMktyNDZUVUxrMzlZ?oc=5
-- **Source:** Iceland Monitor
-- **Published:** 2026-11-18T15:25:00+00:00
-
-## Study of the Best South Coast Tour Operators in Iceland - Guide to Iceland
-
-- **URL:** https://news.google.com/rss/articles/CBMingFBVV95cUxOY3doVENFSE9NNHhNQkFBc2tZY1JnbjNsRUJXQU5qYWlyd0R2UFBPd0IwLWU5S00xeENLTGdTdjl3enFLWE1lUmJwNm9JVnJTalZld18tN0w4NThkQ1JKM3NrLXBiTEc1SGNJOXV3a21ud1NvZHNpcWRYVzhxWDBCNE9jS1RkWnNjMV9Ic1Rsd2JMRVZvRHJHeG1rU3ZYUQ?oc=5
-- **Source:** Guide to Iceland
-- **Published:** 2026-11-18T15:20:18+00:00
-
-## The EU adds Iceland and Norway to the carbon adjustment for imported products - Demócrata
-
-- **URL:** https://news.google.com/rss/articles/CBMitAFBVV95cUxNOHFYOEhpa2JZOTRIeThIMFVKUHduQkNTc19PTV9oREU0SFdxUFBUVDJrVDF3WG8xajJIZ2pxNWNyTENETUNWd2FZUDlTNnQ3OEtQMWplMTFERFpIcnNOUlRva0JHenRSakZrVnRxMnNmRHV0WnZoRUZpRW1PM0tIVWd6NDNrUHBVQ2gzWG93enRwWTQ2azRpcjhmb2dwWXptS25JN2J0STcwVEpOUXRoYnBaWk3SAboBQVVfeXFMTnBpNGI4clVKbTJEQkNoWl9HckJJd0pfUmVrUTFNZmtUd1NCQ1ZBd19IcExvNkJBT3UzWU4zYlk5b0hzWVBtQi1sSElkMUs2a2hxZDl2aDR5YmpvNVJHUEcwY3dRWlBLX28tTTBfR0NNbkhKREhNaVRmZVE3T2p1YTF0cVJlNDNTam5wd3VKXzBpcUJ4UXFJNzZxTXd3WVNtQWY4UjFWbVp5d0FFbkFhNlVRLUUzMDduRzJR?oc=5
-- **Source:** Demócrata
-- **Published:** 2026-11-18T14:38:52+00:00
-
-## Iceland, Norway join EU’s carbon border tax scheme - Montel News
-
-- **URL:** https://news.google.com/rss/articles/CBMiswFBVV95cUxNT00ycEplejJ0SFhPcTh2b2hGSURYMTZfNTZ4TldjT01RMXdIZVcxelp0ZmJfS1gyRzBfSDMyOGQwWGZKbkJ3UVhyTllEWEhERWlsQTRVQnYtaGxfeXNYWm1HZ3g4dUVSelA1eS1uSnpxSC1TZlp5cGxlcl9WbllLemFqN3JlbXhnekNndVhfQjJBUGlWcHRRZGJ2YU00ZHdoMEMtbXhZRzBHQ3R3TWRnSkJ5WQ?oc=5
-- **Source:** Montel News
-- **Published:** 2026-11-18T14:30:16+00:00
-
-## Several suspects following fatal Breiðamerkurjökull accident - RÚV.is
-
-- **URL:** https://news.google.com/rss/articles/CBMiqAFBVV95cUxOX25udVJNVE00S0ptMXBoMVV5Wk80M0JNMkg5R3ZTUTZUTXlPVVhwa1lqSmhUTzRIWTFJVG5mNlB4V1MwSldEeG4tX2dPWnU2R0c4RlYzNGpiMjBFVXUzdUpuUjVvOE03T0RlTEFNbHBUdm4xOVh2OW5Pcnp4RjNBbWtMS1JTTnozSkhDTzFzcllVYjFGRnVkY21lejl6MHg0aUdzYU1XUEI?oc=5
-- **Source:** RÚV.is
-- **Published:** 2026-11-18T13:40:00+00:00
