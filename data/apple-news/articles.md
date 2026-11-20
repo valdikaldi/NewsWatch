@@ -1,8 +1,50 @@
 # NewsWatch — Apple News
 
-_Last updated: 2026-11-20T12:33:06.198664+00:00 · 50 articles_
+_Last updated: 2026-11-20T21:41:49.314641+00:00 · 50 articles_
 
 ---
+
+## Apple Plans an AI Agent to Rival Meta's Muse - TradingView
+
+- **URL:** https://news.google.com/rss/articles/CBMipwFBVV95cUxNYjhNWG1uQldwRVRXTkpQS2hFYk80UDVWbG16N0N6SldZdUd5MUZrSGpmN3RKUWdiaC0wS21qVjIxemlEWDRFcnVkYTBiR1U0ZDQ3eUgzbC10MGtBNS01emdZT1VwRTlMUDBVWk0tM2U0enFVZmVFR2Z5bVQ1N3BUcDNCMWFkQ19oQUdEd3NITnd4YWhxY1gyX1VGcWljQ0F2Sm14SlNNWQ?oc=5
+- **Source:** TradingView
+- **Published:** 2026-11-20T18:13:09+00:00
+
+## Everpure Short Interest Falls From October Peak - Benzinga
+
+- **URL:** https://news.google.com/rss/articles/CBMiswFBVV95cUxON1FhV2VTYjBocFZjSF9pWnYzdjJhdlFVR09pY19meGFzTDFMdURmUGVkekg1V0VsV1c2R2JPNWZQUFU5eWRmUDY1WXJYQWs4QzFQOW9VYzZmT3F3dm5kVEQ0cUlhMng0WWZEcXV1WWdlVlBfb0xNUFZOUkE0X3pZSmlYSzVZTE9JVER1TWxKOTYtQnNFMXBIX2F2QTlxOW1hMkFLVkNxRnlrMnJsT01YdXQyaw?oc=5
+- **Source:** Benzinga
+- **Published:** 2026-11-20T17:00:20+00:00
+
+## Underweighting Apple (AAPL) Detracts from the Fund’s Relative Quarterly Returns - Yahoo Finance
+
+- **URL:** https://news.google.com/rss/articles/CBMipwFBVV95cUxOanN5NkxIaGg1MUFyeDBBV3VlOTRFb3U5dEQxZDFEWXlwWEdsUlhxQnRVV2pVaE1XbTduWWY1T0g0dEUteGpHdTQ1NldUa3hKQlRZY2l1TjJrZmQ2VXNBMFJjZlFwdl9qQXV2QkliY29YNU93TGVoU3pvNTFHVmZTWTBxMGNsVDJlZHhDZXN6MURzLUFINnBtMkthdXlBcURHOWVsYnA5dw?oc=5
+- **Source:** Yahoo Finance
+- **Published:** 2026-11-20T16:52:11+00:00
+
+## Apple in spotlight as UBS weighs in on iPhone Duo wait times (AAPL:NASDAQ) - Seeking Alpha
+
+- **URL:** https://news.google.com/rss/articles/CBMinwFBVV95cUxQZHE1cmxldmtMaUVHX29JbGJ2TGNZSGt4X1ZRUjFRWDd2NXB4cEdROVB3SEU4OGw2LW9HdnMxVUtuQ3lMb29tcmxpTDJ5dmJJR3pFWExxOWJHdUE0VWUwcjd6VkYxVW9hX2pqWThKSF9wT1k1aU1rSDVUUV9KNkpmUmxLMWdBemN2OE8zZWVRVHJxWXJmUE01ZVNpTk9mYm8?oc=5
+- **Source:** Seeking Alpha
+- **Published:** 2026-11-20T16:38:59+00:00
+
+## Apple develops AI agent to control apps, browse web and write code - Proactive financial news
+
+- **URL:** https://news.google.com/rss/articles/CBMi0gFBVV95cUxQQ0MyOTYwaXBfX2ktZGFBaHhPQUViYjBISkNiTzlCeGl5VXFPaGZNX05DSGdGelZ6S1RUZjdiUzY0NzJzNmx6REtYTWNrUGhCb0g1a1d3WEpJYVg4MUZRNGhJYlMydzQwRDh3a3hXZ0tkRFFNRjBxZ25kT3lKWjFFdVl6bjd6djVINU13TTBCY3IzM1RvTU8za0tpWWVPd25vMnhXbW9IYnNFTXBqUmZlQ2x0LVE4b0RGb3dNdDhXeU5MUi00ODNuOWZGNHpSV0hZbGc?oc=5
+- **Source:** Proactive financial news
+- **Published:** 2026-11-20T16:07:00+00:00
+
+## Apple CEO Tim Cook is stepping down, John Ternus set to replace him - ABC News - Breaking News, Latest News and Videos
+
+- **URL:** https://news.google.com/rss/articles/CBMijgFBVV95cUxOTXg5VFBDbk1xMmlfZEdLVW1sOW5pOUd5ZWY5NWtFbzFwQmpDMzQ3c1lrVjhyVEVpZmhuZmh5X0VHeVVNV1d5d3VWTi1jazI5QjRoRkFrMTd1TnJER0lkS05hTGR4WTQyNUFNeDBOMkRBRFhPNlFkQ2tNbDdJUGdJc0lVTWVQbWo3OW56OFdn0gGTAUFVX3lxTE9Zbjg0dnVYX2NodkpINTY0UXJaNGdlYUp5MXNFcTJ2c3ZRQW5lVE5rX1Z6dEtYUVJBdjdJRmVsMjJtN21MVWhlZFBveE9SYmJMeDM5VTRfQWUyejNTYnY3RlBBdjd0OWgwOXRwaWtEN0x1Y0czWXhuRlJSWVlQUy11LXE1TDNrUTAzZlFRWGw0OG5zaw?oc=5
+- **Source:** ABC News - Breaking News, Latest News and Videos
+- **Published:** 2026-11-20T14:54:17+00:00
+
+## Apple AI Agent Job Listing Reveals Ambitious Plans for App Control and Coding - AppleMagazine
+
+- **URL:** https://news.google.com/rss/articles/CBMibkFVX3lxTFBEU2lhUzlWT2tEZUxsekNKa0xOc25mbExuRTN3NEx5OFFUUjJsVjhfb1A2SlBpeFNZYnZlTVJkcE0tU0N6aFhORnByNlZnMWhOVXI1SmJnck0wSERzdC1EOUk0NlNBREloNVlUYlJn?oc=5
+- **Source:** AppleMagazine
+- **Published:** 2026-11-20T14:27:08+00:00
 
 ## Who is Jon McCormack? The Apple executive who helped shape your iPhone camera and draws the line on AI photography - Livemint
 
@@ -261,45 +303,3 @@ _Last updated: 2026-11-20T12:33:06.198664+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMiuwFBVV95cUxON2N6QUN3aVFwRWtOci1nYkt4bXhma3l2ckExMTItb3FLMUlJTjF5a01aUXJha0I0TGw2VEhzek1rbHVzSmQzeW1IWkpDSWt6SDZRQUF5dXM5YzBnb19PcmY2R0tkenlZS0Jud3JTWkR5d2tjVktqcXlNeXVkMXJ6NlVYaTlwR2VBSUprNjRpQUdzZ2lPdE85QUNxeV9wdzJ6THppbEFWbHZHUkNGMWdJa2JweVA4M0xKS3hz?oc=5
 - **Source:** NewsBreak: Local News & Alerts
 - **Published:** 2026-11-19T15:19:40+00:00
-
-## Apple ordered by UK government to maintain access to encrypted customer data (AAPL:NASDAQ) - Seeking Alpha
-
-- **URL:** https://news.google.com/rss/articles/CBMitAFBVV95cUxPTTl5N2pkamI5ZXJhal8yd1d1SktKUzhOckNybkJWRS1XbFJiRzJ2ZnJrMUxlXzBMNjRDbWV5RnZ5aG1kLXozTFNZUG1HSHhoblQtQnlkdVdaV0YwNkd2SzBnV2ZKeG9abS1zY1pGV21KaGNCQ2xRNWJuUmVQS2o3VGJWUzBhN0pYMW9oRUZuMXFLeXFwWWNZdF80b3p5M29NdWFUd2FoVkJMRC10NWRjeFJlU2E?oc=5
-- **Source:** Seeking Alpha
-- **Published:** 2026-11-19T15:17:37+00:00
-
-## Arthur Levinson Sells $32M Of Apple Stock Near 52-Week High - Benzinga
-
-- **URL:** https://news.google.com/rss/articles/CBMixgFBVV95cUxPa3dmdzhPcTRMZ2t1bHctRHp6UnNIcFNNTTlpdkFRSzlweDgtRFFHS0VGR3VLUnRfc0xCdHJ3SUVYU3RQTEFITkNNRFYtZVFaSjJlX2JrWjNBR0l3WkxZdHc2UTlqaG5DMkVpUVhtNmhTd1p2RWRDcVdxR3ByTEdfay1zUHh1OVIwdlI4Zmhxd0VsdE5rMzd1aHhjc3QyQTREUzdaNGQ0UUxjb2ttN0RSZnhsb3gzeEZSbHdHV3VRbFBvcmlTRUE?oc=5
-- **Source:** Benzinga
-- **Published:** 2026-11-19T15:05:20+00:00
-
-## Apple Inc v Secretary of State for the Home Department - Blackstone Chambers
-
-- **URL:** https://news.google.com/rss/articles/CBMimwFBVV95cUxQTzh2c3l5RjU1bl9vTHc0cnNuX0hGR1dBSDNBeE1kNDg4TVJ6ZDBUekFCclRyZENmRG96aURaS1BGb0xnRXY2eUJ1LVRpQlVJTUxCRU9aZ0xPR2hETmdDU1RpaUUtUnhVeFJTbWFOS05lXzk0OEJDSDRZQ0Q1YmdZdngxM19hS1Jwc3FoX1RKcXZLV1dGRk5LVjRncw?oc=5
-- **Source:** Blackstone Chambers
-- **Published:** 2026-11-19T14:12:43+00:00
-
-## Apple Music Radio hits 50M listeners as audio competition intensifies (AAPL:NASDAQ) - Seeking Alpha
-
-- **URL:** https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZG1iYzZKN2piZlZQOUthcnBZb3hYTlpwM3hXRjk4YmU1eWRVQ1o5T1MwVERqRjRXV20wZWUtNVpnN0VITzFrUkI0MzhxbEUxU3RkbzUxaV9BTFdMSFVTOENGdU1ZYTNIMGFfRW5OUkRVamEzeDFzT1V4T0VzWUpNaDVnWTdHYjN6UzVkVEhEX0VJWmdreEJ2YlVTWktZWTRwdk1YWFduRk56TXc?oc=5
-- **Source:** Seeking Alpha
-- **Published:** 2026-11-19T14:12:42+00:00
-
-## Form 4 Apple Inc For: 19 November By Investing.com - Investing.com Australia
-
-- **URL:** https://news.google.com/rss/articles/CBMimAFBVV95cUxNR0pTU0QtUkgyWnlLUUJCWE9zVVdBZzJTckthYTNpOTBHUUFmQmVIV0EyVC0xTkZsODFJZF9zOVhzeUFHeGNRNlJOci11ZzlKZXZFV3NCTXRZeEYya2VMTkVOYks0dk5oMlliTmFNZ1Y2SzgzaTdoMFRMMjJqb2lYdjdhRU9tSm8tYUdwUnhWaUxITk4ybTdQdQ?oc=5
-- **Source:** Investing.com Australia
-- **Published:** 2026-11-19T14:04:30+00:00
-
-## Why Microsoft’s Stickier Revenue Gives It the Edge Over Apple Heading Into 2027 - 24/7 Wall St.
-
-- **URL:** https://news.google.com/rss/articles/CBMivwFBVV95cUxORE1lTFhCdEFOQ0trV1BwVG15VWIyeWIzcFZJajRwYUp0dTFUVThkZFEtWE15OEdrWU1BLUdFVFgxbmF3dEhnLUdZdTJWdjg4ZUZBRGY5dEw4VFlqd2pCc01BU3JIYS1qdnpvQm9SLUdWYy1fUW1xQWcyMDNYWVdBelFKeC1zUDdwWnh6aE1XR0JteXNtR0ZEVnFWZWZ3TWVVLTUzM1kzVGtITDFZb3A3YktoOEk2Zmh5bUdvSU5kNA?oc=5
-- **Source:** 24/7 Wall St.
-- **Published:** 2026-11-19T13:45:00+00:00
-
-## UK has imposed an order demanding access to Apple data, UK tribunal says - Yahoo
-
-- **URL:** https://news.google.com/rss/articles/CBMilAFBVV95cUxQai1fYUc0dDNfVWVhQTY2bGgxNk1wczlBVDJkSUJSTEdTdjFrd1FBOXpMY3NEN0I2dW5rdE1oZVJQZFVkQ1FLUFNMSGdHempxOXVrdFB1UjFya3VfYURSaWRXS3hyZHgycG03bTN3V0JUZkEwankydndfZWFOcDVPVFowRm1xMHdveUpIVW02UFlmazUw?oc=5
-- **Source:** Yahoo
-- **Published:** 2026-11-19T13:25:35+00:00
