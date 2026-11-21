@@ -1,8 +1,26 @@
 # NewsWatch — Apple News
 
-_Last updated: 2026-11-20T21:41:49.314641+00:00 · 50 articles_
+_Last updated: 2026-11-21T02:59:36.470643+00:00 · 50 articles_
 
 ---
+
+## Apple (AAPL) Grows at 12% and Trades at 37 Times Earnings. Is It Worth It? - Insider Monkey
+
+- **URL:** https://news.google.com/rss/articles/CBMiswFBVV95cUxPb3NDX1dqaEV1cWM0TXZhbEZsS3BWY3pXVHk5b09jYXVOUEV0cG1OR05LOEpnU0g5NkxhMVRKclRJSjVLb2pfSURidDVWN3NJN3ZfWTE0d2c2QkN3Ykc5N3doNkFCM0t0WVRHS0tEdl9hRjBUdEV5anRGUnJRWUl0dV9VRUhpTlhuSkJOVzNQZ0M1b2xRME9xYlphT2NpakxKTGJnWFk0Y1lhcDA0NmJMZWFEdw?oc=5
+- **Source:** Insider Monkey
+- **Published:** 2026-11-21T01:13:27+00:00
+
+## Cognition AI Eyes $75 Billion Valuation Amidst Apple Inc (AAPL) Market Strength - GuruFocus
+
+- **URL:** https://news.google.com/rss/articles/CBMitgFBVV95cUxPemxjNWlhX2tta0V5RldQbnFyQkZqcUI1UFlqUGdPNDNqdTZaRFM3ckVTNFFlUEc4azRidFlXcVltemh4M3EzakFLOEFWaW81TFNXQ2U3WFpxUmJ0RGtCRkhFWVd1b0NJX2dRT0NHNnNUWnBqQ3JCVS1PUFBhVHgyZE9uTm02YmhmVXZCTjZjbzhSS2RZU3hONUx5Z1ltMl82ZDFnN2RTQk1HUl90NVZ4RjdsTnlWUQ?oc=5
+- **Source:** GuruFocus
+- **Published:** 2026-11-20T23:05:26+00:00
+
+## Royal Bank of Canada Launches 5-Year Market Linked Securities Tied to Apple Inc. Stock, Maturing December 2031 - Kalkine Media
+
+- **URL:** https://news.google.com/rss/articles/CBMi6wFBVV95cUxQSFpGT3pBdzR2M3pvbzhoUzFZdGtfLW81WWpuNnRpVTQtc3VySVd4YzV3Z3VOam01akFldmhRemNVTUdIZm1wM0JTT1dCQVVCNjFrMUM5cXkwREV4aEZVaDhsblZnZzFnN2tKeGExOGg5X0dyYW5USWs3NkhPeXd3MEVaaHhvQk1HRGNBQXhwSG9sQndRU3pqMzRuTFd3YWdrelRHWWk3R0hMcVZycExBM052Y1l4WmZoUVJBRFAweHQxeXBESXVuY2NrUFU1ek9XeG44cEMtaGJSSWhnX0xxNnpwV0sySTV3R3BR?oc=5
+- **Source:** Kalkine Media
+- **Published:** 2026-11-20T22:20:04+00:00
 
 ## Apple Plans an AI Agent to Rival Meta's Muse - TradingView
 
@@ -285,21 +303,3 @@ _Last updated: 2026-11-20T21:41:49.314641+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMixAFBVV95cUxQenZpeUVpaFZLYklnRUUyX1M2WUFiLUE1VFNSQmZLWHdmaDB2a2Q1WXBOeDliUExJbzZ0eVFPLVJ2ekNKRVhBSFVSRXo4d2RxRG1XMjAzTkI3SjNmRGFGMVptQXQ4UFI3VklnanpvaEpXQnlYN0RxMHJXVGpXNWJMZnZDRWFRX0ZGQWNJT2xIdl9OUlpMci1FVUdMYnRORktIQjR4WmdGWWpUTnFBclBqbkdCYTZvMnNIY3FpN1RSdEFiQ2Rm?oc=5
 - **Source:** Reuters
 - **Published:** 2026-11-19T18:38:26+00:00
-
-## UK Court Confirms Government Demand for Access to Apple’s Encrypted Data - PYMNTS.com
-
-- **URL:** https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWGhQQzEta2hoaE5vOWI3MFE0SVpCNVg3eW1SdldxTkpTa25KUWhRSWdUc2tMaktfaXozbnBQb056clhmdmFmU094aDFXTGZ1aWJoRHlEVzlWb0lMaFNSWlI1RzMzckN4bjFoM2d6Z1U4UFlvWDVnc1BsalkxekRUS2JELWZlTEFHZzZoTGZwQ011T3B5UnVob1B1SHJnSlhLajVSZUJVZmI?oc=5
-- **Source:** PYMNTS.com
-- **Published:** 2026-11-19T18:13:20+00:00
-
-## Services Franchise and Installed Base Anchor Apple’s (AAPL) Durable Earnings Growth - Yahoo Finance
-
-- **URL:** https://news.google.com/rss/articles/CBMiqgFBVV95cUxPU05ZM0hXWHV5dklpM3lCUzhua21IQ3JZOHRTNVFTNkI4bEVlTTY1TVhyNWdYUERDMW1VSXRjZkRMOVotU1FTQWo4Z0dWV21QTU5tb3NKSlI2cVFiLWhHNkJHWFpLeHYwd3FKQUgwOU9GdnFMaS1pVHhmUWhSbnh0MDYzbWpOZkxxbGNMLXJuZGYtWW15WEZRTVdGTGU0cE9iY294Q3F0cUtoUQ?oc=5
-- **Source:** Yahoo Finance
-- **Published:** 2026-11-19T16:22:00+00:00
-
-## Apple's Next Margin Defense Could Be Hiding in Your Wallet - NewsBreak: Local News & Alerts
-
-- **URL:** https://news.google.com/rss/articles/CBMiuwFBVV95cUxON2N6QUN3aVFwRWtOci1nYkt4bXhma3l2ckExMTItb3FLMUlJTjF5a01aUXJha0I0TGw2VEhzek1rbHVzSmQzeW1IWkpDSWt6SDZRQUF5dXM5YzBnb19PcmY2R0tkenlZS0Jud3JTWkR5d2tjVktqcXlNeXVkMXJ6NlVYaTlwR2VBSUprNjRpQUdzZ2lPdE85QUNxeV9wdzJ6THppbEFWbHZHUkNGMWdJa2JweVA4M0xKS3hz?oc=5
-- **Source:** NewsBreak: Local News & Alerts
-- **Published:** 2026-11-19T15:19:40+00:00

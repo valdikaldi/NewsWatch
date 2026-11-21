@@ -1,8 +1,26 @@
 # NewsWatch — fusion energy News
 
-_Last updated: 2026-11-20T21:41:52.368449+00:00 · 50 articles_
+_Last updated: 2026-11-21T02:59:39.698365+00:00 · 50 articles_
 
 ---
+
+## Pacific Fusion Gets NM's First Tritium License in Albuquerque - Hoodline
+
+- **URL:** https://news.google.com/rss/articles/CBMiwwFBVV95cUxQOVphNVo4NG9Gb2ZMSDhiWTdKbGNINmpoVXVLc1EwWUFYQTlHX01sV2V3ckRZb2xXN25iVndpRzBnN2Fqa0lGMkVvRU56NzdYTmtMZjRyY2FHRXdZcVYzbkZraHJtdk1BSTRBMy1DdGVPS294N2haaHFBazgxR2pUZUZsSEphOHpEWnpIWjVQTzhZS2FsMGdxX3kwQnN1eFpEZ3RUSVZvaTFtSDRIeWgxRHc2Y2x0M2FRdk5UaHdWQzdUWHc?oc=5
+- **Source:** Hoodline
+- **Published:** 2026-11-21T00:57:56+00:00
+
+## Nuclear Fission and Fusion Trajectories Illuminate the Future of Artificial Intelligence - Bioengineer.org
+
+- **URL:** https://news.google.com/rss/articles/CBMiswFBVV95cUxPV0s0aHdkbnFxX1c0Q3l4SGladWZIeHdMZGYzZzNUM2lCTEpab01kVFAyN29aV3lvTzZYX2pscU9TR2ZJZG5uSXJ4cS1FSTFobElBQkhIaUo3Q1VOdjNDb0ItU0dhX0U0ekQyLTRjdFJubUJhdnFiM2xIdlJ0S1ZWR1BmaXlNZXJoOFRkYTIzNGwtMGpQcFhuanNXOVN5MHlnb3VKeEZ2cEFienBORGRUbE1yNA?oc=5
+- **Source:** Bioengineer.org
+- **Published:** 2026-11-20T23:56:44+00:00
+
+## Madison's growing Realta Fusion energy company taps new CEO - Milwaukee Journal Sentinel
+
+- **URL:** https://news.google.com/rss/articles/CBMi0AFBVV95cUxNajZCaHEwbjM5NHN0aVRZOF9feG5SY3JXU3czS0tQd2xYNjVqWm15dkd0YlJac1JZYUxQOWljS1ltTC12UEVpME5fWmR1c1ZJMHZKM0lmeWVLN0ZKSDdxanhvVmJLNGpScmVCZ3JJZmdxRThMMVJON2VMQmZKRmFiVFlLNlp5WHN6ejlIa2ZoaExnbktPM3dYM3lyNXF5V05PV0RDclo4V1lpRHVKdVFwdTBva2Z2aFZSVVIxQk02eWhwWHI4UF9LX1p3MzRBRXpL?oc=5
+- **Source:** Milwaukee Journal Sentinel
+- **Published:** 2026-11-20T22:10:00+00:00
 
 ## U.S., Germany Hold Sixth Science Cooperation Meeting - Mirage News
 
@@ -285,21 +303,3 @@ _Last updated: 2026-11-20T21:41:52.368449+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRTlwN1hjY19QZ1A0RmlTS1NZd0VCYnZidWg0MUhsUlA2MXBjWXpTV0hRdktBanBEdnhFbmdLRmVTV25va29MWnN1Q0VtMGJnWnhrMHZZQzJ6SHF6bVVhdlQteUJBeEJOb2x3WXRESTBzUGJFekxhWUlSUkJYNjlZeERvVGJZeHZYVGQwVEtkTjJ1T2FRRHZhcHMwbVlrV3ZaQ2FIbF9mbDVpQ0JQcndtNjJKSl8yY2VSZ0RtZ2RCNXNUUQ?oc=5
 - **Source:** TipRanks
 - **Published:** 2026-11-19T14:21:03+00:00
-
-## Powering New Mexico's Next Economy: Why targeted capital will unleash our advanced energy potential - New Mexico Political Report
-
-- **URL:** https://news.google.com/rss/articles/CBMi1gFBVV95cUxQenFzWmcwTUJIRGliWnBvMU9peVJVLTNDdDZzNjlRNDNjVnlILXNJem90VU5tazVkSG1mX0taMDRpSDVLZGRDRVp2WXNSV0lfTHU3Z2NWQVVWVi1IakZaVlJFWHdEcU5tZnZwY3ptWWJJRnJ3QjZBWC1NZ3c5empKYWRwcFVMYkkxaG1WZ2hEeDJWMHB5elhzYzhJNTZtUkZuUnY3emt6S1gtdVVlMDlEM3ZySWstS3NaaERyTFBPNU9KQWdkcUVMSW1RYjM4UDRmRjdUU2Zn?oc=5
-- **Source:** New Mexico Political Report
-- **Published:** 2026-11-19T12:55:23+00:00
-
-## Fusion Fuel to Evaluate Investment Opportunities in Venezuela’s Energy and Natural Resources Sectors - The Manila Times
-
-- **URL:** https://news.google.com/rss/articles/CBMigwJBVV95cUxQQmxpQTNOaTZkWjNjNkx1NE5fRlY4Vy1kS3ItQWI3ZlpMbUNOdVJHZ1JaMmRrbFhwX2wxMloxdVN0bVhOQ2ROVjlUXzRYOTVuNUFLSzJ4emkyX0dDWGl3ai1FYzEzaVptaFlKUGJiZnRnOFdTNVRKdWgyQXZVWlFsMFZSMUkzOGt0eE5IMHdmaE1ISTNRV0NzZndSSjNqRHBaZHpSRERUWkpZR2laTTl4TEpISzNjdGpZMl9HUWdSTnhWRGdzNVhKQ3hUUTN2eHhybjFPc2QzbHRXM0VvMTdQb3hnS3RsNE5BTzdFUW1YMnU2Mng5NmdjdkdXWW5JTnl1VFVr0gGIAkFVX3lxTE1ST0Z5a0h4NHkwcFlRWEE3RzBXWldxZklUdFZ0SFNscG1GcWw1RWlxZlp5b3pxNElFWGVNYjFIVFl1T0lhOTJuc2xDTnJsNnhoanA2NW4ybGItTkdGdnY1N1VhY05uQnRvSG1BS0laUTBaQzdEYWVWLUdGeW9WRTZ4cDliN3BiQWlfNGNvN09qRldMaENxcGM3V2FvRGZYc0xPRmxHVjVKOTFlZzNaczJEZWJielF6ZDdHakxRbmE2RjJ6TDRIdkRCUW5iVmFpTnZhMExSdTJ0V0c4dmVBY3ZoUTJIMGNEa2l1RDFNaEMwZ29QOWhkdTk0MzFOSkRpX1RTZTRrTWpqdQ?oc=5
-- **Source:** The Manila Times
-- **Published:** 2026-11-19T12:55:04+00:00
-
-## Fusion Fuel eyes Venezuela energy investments amid regulatory shifts - StreetInsider
-
-- **URL:** https://news.google.com/rss/articles/CBMixgFBVV95cUxOOERscEVBRkFmX095RnYwTnFXZ0VQY2NBNGZMV3h2WEVwRThXRGF0YkhCWTV4X1ZrYTg2WXlJeDA4TlViV0ZVckNId2hVMGxrdG5WVGFJVFJUa29QV0I2ZGY3a1B1R2VMNGVGc19RRDJ6aEV1MGR0YTJleE1TVlZBakVJYzRTV05zdVFMZjFiakYxUDFOZUVUZ3hBeU84dUtnNW81QXRKVVZ6QXNfMGd6YmFSazN2eVBDam5DZWRfUmFaNGlpeFE?oc=5
-- **Source:** StreetInsider
-- **Published:** 2026-11-19T12:54:21+00:00

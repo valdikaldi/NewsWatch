@@ -1,8 +1,98 @@
 # NewsWatch — Microsoft News
 
-_Last updated: 2026-11-20T21:41:49.841716+00:00 · 50 articles_
+_Last updated: 2026-11-21T02:59:37.707088+00:00 · 50 articles_
 
 ---
+
+## I tried Windows 11’s new Search and love it, so of course Microsoft will stuff Copilot into it - How-To Geek
+
+- **URL:** https://news.google.com/rss/articles/CBMioAFBVV95cUxOWXk4VmJZNFNMbWFuNnpDemswSVZrV1hENUdXZTFSaU9ORnctcXFGWmtaMnFJWUJneGJSbEtzY1dzY3QyZFZUX3VpelE2TkFnQUFYeGZhZHZtVEtiRGpnaUFvY3lFRjJ0QTZCSVhuMWE3RngtRVhHWnlMVFFJUE9iNmJFVno5R1J2dERrcTc2a3JHTGp2ZTR3NC1PaEJOYzNn?oc=5
+- **Source:** How-To Geek
+- **Published:** 2026-11-21T01:00:00+00:00
+
+## Dell, Microsoft target enterprise AI inference with Nvidia HGX B300 - TechTarget
+
+- **URL:** https://news.google.com/rss/articles/CBMiqgFBVV95cUxOYWZCaDNFekdQTkdKUEtoWDJ0cHFoQVhTVGIwU0UzWGxxTlVaaVZhU19pUlJoaFh4STRxWHYzOXFEbGFVMmJWTE5NME1iY2hieDdack1HWGJ6MTIzN0dnb0NlUjd6bGlldmJYaVRVVHZtZGhjSVlOX0VENlUyb1M0Wm90Mzc2Y0t0ZktuMW5FWl8tWnl4dWpkU3FjQTdCcV9DZTN3QlhOc1I4UQ?oc=5
+- **Source:** TechTarget
+- **Published:** 2026-11-21T00:57:37+00:00
+
+## Microsoft fixes windows 11 passkey bug affecting android devices - SC Media
+
+- **URL:** https://news.google.com/rss/articles/CBMimgFBVV95cUxPbHNGWEREY3hHY1VfQ21hZzJ0RFdjUlVkTmhNMmxhV2xkWHdsSVR3dC01T0tUUi12UmNMQkJhMGxHaEw4RWtmcjVHQi1iR3BqY1JrTmJRdXV2M0RVNldoS0FxOThweEl3T0xSX2N2QVN3anpSNExBUTlfQUhGODZCN2NrZU1IbVo0ZGE5cWhPUWJaeHdZYlRXWlln?oc=5
+- **Source:** SC Media
+- **Published:** 2026-11-21T00:46:26+00:00
+
+## Ochsner Health confirms data breach in Microsoft system - KLFY.com
+
+- **URL:** https://news.google.com/rss/articles/CBMiogFBVV95cUxOaDRQSnFUal9zaDdQODJSdDMxVW5jS2hBYi12YXFyOTlBQmltYTYzN09ZQlo0Nk5IdzVZbTEwSnkzZlN4T3ZMeDhXaXQ5Qk94b09YZ1cyVWVLZFNQVV80V3VOdDJVeTQ4cG54a3otVk5ZMW9Ud0hrQlZvWTJ0eFR4X2t6OGZKNm52ajdEcHVaR2VlQmZCc0tGVm1FMjMwbVJ0X2fSAacBQVVfeXFMUF9JanlGWHZSTWRRQldVODNzaElYMVhJNjdtVmxVQld0ZnRCOVBVWUlFSGYwXzNWY3VGbld5cThyWFBDNVV5NWw5RzBjNU04MHNDLW5rUngzY01qS19uZjFKMnVBb204Q0dxN3BiWnRWdWRVUWgyX2pHLS1wWm9zTHZwem9SQklMZkN3QlRweEd3alpVZmtCVEdQamVjMEVjajhPcUxWd0U?oc=5
+- **Source:** KLFY.com
+- **Published:** 2026-11-21T00:40:40+00:00
+
+## Ochsner Health confirms data breach in Microsoft system - KLFY.com
+
+- **URL:** https://news.google.com/rss/articles/CBMilwFBVV95cUxOYkE2cUNzZ2JSOWNWdWdsaUl0OEV0YU16WHg3TXhKeldCY2xyODBxdUZveVZad2h4R2V6M0daZkxBUk9Tc3FiUXoxUDB5dVc2V0NtamM4RXJXNDFoNXFUSDRFc1Vhb1hXUFlnQVB0UEd6UHZDMG5DaDlUTk9JZ3RhYXJWNGJESTRtWnpEY3kzSjBWSWNycVhJ?oc=5
+- **Source:** KLFY.com
+- **Published:** 2026-11-21T00:35:34+00:00
+
+## Mets Owner Steve Cohen's Fund Dumped Nearly All of Its AMD and Bet $1 Billion That Microsoft Is the Safer AI Stock. AMD Has Fallen 31% Since - 24/7 Wall St.
+
+- **URL:** https://news.google.com/rss/articles/CBMijAJBVV95cUxQWmQ1U290NUcwdVRzcWRXTVd4c3ZLNDJ6ZndmeDQwSXA5X3RVOVJpcXVFQXA1YzZsUV94ZWpBUl9GRERWQUd0TjdiNDVienEtYlhnX1pJMUQ4NmlJZ1dscDZ0R3E4aGo4Vnl2OExnOFNqbXVlMjhPUmNPaGttY3dSNUJZUVhfUEtwakdZSHJtQ2FyNTNDNndhNnZWS0xYaXVoM3NvSXFMbVJJeExSM1E5Y0ZaeUh6NWRYVTJoWFZVUElfcUdISW5vUGk2ekhtZGc4Ym9PbVhGNVlXOW5PNVVXTnExM2RPZjF2VF9QNjVTREVseVhQMDVzdVRsZFUwalNFd05fN29IZ3pWOEJX?oc=5
+- **Source:** 24/7 Wall St.
+- **Published:** 2026-11-20T23:47:00+00:00
+
+## Microsoft’s latest PC Assist feature wants to sneak Bing in as your default search engine - MakeUseOf
+
+- **URL:** https://news.google.com/rss/articles/CBMirgFBVV95cUxPTUNKek5jUFJVZmFiNy1BVGs1bzlGWnZIOEVFbE5RTzh2RGtXZTV5djFqaWIyN0dpbUdGR0Z5dXVnMFBhSFhsQ1MtMDhmSllrSjh6YmR1YzNwX0Rlc3B6OWxxdXJ5WjgzMHp3azU4MlJPWWktT3hZMC1XVVBJWnFla00zRnBYYW5mQkEydzBUWjBseEQtOVgzeUlhcXFsbnFXSEZwd0M2Uy0wS0hxc0E?oc=5
+- **Source:** MakeUseOf
+- **Published:** 2026-11-20T23:35:10+00:00
+
+## Microsoft outage cause revealed: It was a perfect storm of problems - Mashable
+
+- **URL:** https://news.google.com/rss/articles/CBMiaEFVX3lxTE5aOXNncW9QdWVtZ3RXTHF5VnFncFJTcXptUWtGX0V6azdmcXZVQjBienJMdzJydEdseXhVZHZRcExPbS0xUXlCcXhyX2RDOUZOd0h3bEhwU1hiNF9hc0FNdTZLSkJGUVpz?oc=5
+- **Source:** Mashable
+- **Published:** 2026-11-20T23:34:55+00:00
+
+## Microsoft outage: Does Microsoft owe you money? What to know. - Mashable
+
+- **URL:** https://news.google.com/rss/articles/CBMickFVX3lxTFBKOUVfMTNXLTFIX21qMU05N3ZzdDV5bi05bnBvc190ZUpiR0RhWWEwSUtaZVpiMEhDVzVfUXFGTDl3NVpNTHNTM3dvYzI3QWJOS2RYNzljLWdJZzI3SnBtamFqUW40b21qdE1kN1RKUFhidw?oc=5
+- **Source:** Mashable
+- **Published:** 2026-11-20T23:34:28+00:00
+
+## International Business Machines (IBM) Opens Lightwell Access On Microsoft Marketplace, Is It Still Undervalued? - Yahoo Finance
+
+- **URL:** https://news.google.com/rss/articles/CBMiqgFBVV95cUxPR0o0d2p1MHU3bzBCOXJ3c3BUeXItcmJZeDRVX1Boa1FuS2JOQzlYTUMyeEhFZ0RiSTg1UWF5bXpqUnRKZHFaQTNaSlF1UklYZGE1ZkpqMG5OTjBmZzctRUQ3NGVNTDFSUXRTYkdnRlpLcXRDcFk5dEw4TFZ5Q1BiWnBlX1RnVGZIQ0NaTG93X2VJMi13ZENMVGVHQlpFSnhVR2JPOFliZXB1Zw?oc=5
+- **Source:** Yahoo Finance
+- **Published:** 2026-11-20T23:14:52+00:00
+
+## This Day in History: Microsoft launches Windows - WHSV
+
+- **URL:** https://news.google.com/rss/articles/CBMiggFBVV95cUxQREU4UHBVM2Q4MGMzY2ZhQ0tOSEl4NGVsTld4MWtib0xuU21qRnVkWjJxM0d5OXFQTldhamF0dGxPQWZJRWxDYnY1SEVfMktXamxyaFc3TEI5QzZ0MHIteHR5UWFSMk9iSnR5X1RlN1E3M2o3Mng4RTFYcXprVnFWbFp30gGWAUFVX3lxTFB5aTlpOUI0WXFnbUdjNUZOb0tOa0ZZNlJQZVZ2NER3YUVzWEVFQUh0eXNMeVlaRGkwWklsM0tuSk9hVFgxWnZDUmFLNWlLU2VJUi04eWs3a1V6bXFiMTBXX0tQbHVMYWxQaGk2Q1NvSmlncGxmWElyQTYxS0RDZTBCS0NRZ0pUbHJoQWpRei1lUHcyR2c4Zw?oc=5
+- **Source:** WHSV
+- **Published:** 2026-11-20T23:12:00+00:00
+
+## Microsoft adds controls for third-party and local AI agents in Agent 365 - Superpower Daily
+
+- **URL:** https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdXZqZnQzQWdxM09GejZRcmRueVJVM1h5d2h2b2tQMXNaX200alVsQWxTcUJNREFWVmIyYklYQ0NtcEJ1b1VmSzEtUnFMNjFZNzlWeWFqRjJzc004aWNaQ3I4dThDNXI2enJNTy1BNEZmQ3Nhd19SbWJ4N091b1VLS3l6bGhRODVScWI3ZV84SW1hTEFLc2RoVTQtSUFQRmZRbmthQnFMR25iQQ?oc=5
+- **Source:** Superpower Daily
+- **Published:** 2026-11-20T22:49:38+00:00
+
+## Citrix DaaS to Double Virtual Desktops per Microsoft Azure Subscription and Add Private AI Data Protection - VMblog
+
+- **URL:** https://news.google.com/rss/articles/CBMiywFBVV95cUxOckl2MS15SjRpbllFVFNOZWFBUnI4dWpCSEwzYkN2c2pQS2ZueUpvcDNMQUJEb21XZGpvTmFjTktOOXFvTHlyVHNUeG1DbTJOT2pSajlvWm40NVlDNm5va0RYQXBVM1g3WHp4aTlTVjRCSl9OUktUenJ0dTY1U1ZIZHBKV1VVTGVSWm80OGxiOWN4WlF1UnM1cUl4QlpCYm1rNGNWRUZpcDFoaU5mbzVkdjJTM3NsejIyd0xKQW9odWJhR0k1Z0VWcURRdw?oc=5
+- **Source:** VMblog
+- **Published:** 2026-11-20T22:20:23+00:00
+
+## This Day in History: First version of Microsoft Windows released in 1985 - WSMV
+
+- **URL:** https://news.google.com/rss/articles/CBMiowFBVV95cUxQdVVkMHJVNGJhd1RtYVpPZTV2YlNiUlhRamdpWWlqLWFDUUdiQjhBRm5CLWUtMzJyMlJqb0t2YWdWTFNCbDczaFp1TEI4XzNzcHhWak5WYzFUQWZZNkxiTnNhVldUQVR1cDI2TGtUVTQxYUJ5S3JJY0s1VE9KdHJyWmpLZmVqLXBNV2kwbTlrRXRTMU81QW1jZkFYT0kyLXlkS0V3?oc=5
+- **Source:** WSMV
+- **Published:** 2026-11-20T22:09:00+00:00
+
+## Microsoft ‘To Do’ users make a big to-do over popular task app’s pending retirement - GeekWire
+
+- **URL:** https://news.google.com/rss/articles/CBMipgFBVV95cUxPZzB3Q2ljZjREUXUxNnBVcmhDc0trRkdoZG1tT0lnanRoZHl2cUdteG1BLTNuOFVyQ0RYbjd3SU9fY29VRlRrLWVkbzBHWV9tbGtoNENjNl83TGlNdlhuTlh0QVk3QUJ3MDlNajVoQTY0OWRHeDd2UjdteEZoZ3pBNE1TdTBVSTZ4bzhaUlkyVkVFdWVQTnJYOWdFdTFnSS01V0w3OWF3?oc=5
+- **Source:** GeekWire
+- **Published:** 2026-11-20T22:06:40+00:00
 
 ## ‘It has to be done’: Microsoft CEO explains why the company asked 60K workers to quit. How to know when to accept a buyout offer or turn it down - MoneyWise.com
 
@@ -213,93 +303,3 @@ _Last updated: 2026-11-20T21:41:49.841716+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMipAFBVV95cUxOcmFyc1MyblA0Rzc1N2tUX1ByQktNRmxseXI5dEVfSVJWOUluQXZrVkwyUnNSeU9mc0ZzVWFVUXBrRWdrSUNDYTJuSG0ycmpjU3NaMDV0Nmp0dDM0MUE3eU1NV05CbC1vZDZBLVkxajN2XzBFRFV3TFFyZklDWXZOakxCWmNveGRSaGlDMEV6cUR1Njd5SldSNHE3N1JtMllGZnp3MdIBqgFBVV95cUxPemtxclVsVlh5WHJwenVYd2oyeHpqQWRIRTRrYzd0TXBNNnc4OFltcS1KWmtXZVVNSFV2Yklwb2piTk9vWXpiQ25QMktJRmZKSkJOVXdvV3pNNkE1bWpPZ0pXRGFhSC1iYjRLNVNpeHF0RWZuUVRzRHZZZGZBOURZTWdmTjlKdVZZYlVSdXlkWEZIMG5oSE9UVExDbXFjeEthRGQ5ek53eEp4Zw?oc=5
 - **Source:** TechPowerUp
 - **Published:** 2026-11-20T17:51:54+00:00
-
-## Microsoft Investigates Reports of Attachment Issues in New Outlook - marketscreener.com
-
-- **URL:** https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUk5qcm1ObHAzaUlQNlhOVmlFSU1Md1ZMSkdBaVJIdXBIMDdzN0lpbGsyeENEQmZFX2tpQ1BNZXFIWDZNcERMNENZbWx0c1dLbzVnQ19YTWc2YjhaS3pMREJJZWVKY1lXMFljSFFCRHpVT3ZPZEdyUVVJOVF5WFNsMmN4bTU3Y2tUZlhraXRjd3M4TDFKNVpPSzB2SVQ2ZEFjeEtOZVhEWGtPUkRyQW1wQlh4aHpzWFY0djNj?oc=5
-- **Source:** marketscreener.com
-- **Published:** 2026-11-20T17:49:55+00:00
-
-## You're on Your Own, Microsoft To Do Users - ExtremeTech
-
-- **URL:** https://news.google.com/rss/articles/CBMigwFBVV95cUxNakc5SkVxM1NEUXR3UHhGUXI5azBxX1NwX0p2NFRzWGxiVDFvSWU1Z1c4V2FuaG1kV2piYXBmTlNaRUp1NnVHZ1ZPOTMtdkRsRTdReFp4UXlFSDAyOVNuc1RMTXJLY2N0dmZ3bmU2Q0NIeERIUDlqMXB5SjVDak4yclNGaw?oc=5
-- **Source:** ExtremeTech
-- **Published:** 2026-11-20T17:45:43+00:00
-
-## [Updated] Microsoft Will Retire its To Do App in June 2027 - Thurrott.com
-
-- **URL:** https://news.google.com/rss/articles/CBMikwFBVV95cUxNcDd6WU9ieGtLTTlLQ0xtSDFXU05WRFljV3ZrUzZ5M2ZPMWcyY1BidzlDUXFIQm1aWjM0elJxQ19vMjRXQ2x3NFh6SWU3Y1NqbmQ0d0JjNm05U0NEdzNxRVNtWkxFSGZlTlNRaDExdFRaMUU0T29sY25XMjBCdUV2RUxnZklBbjUtMGJTU216YWpHdDQ?oc=5
-- **Source:** Thurrott.com
-- **Published:** 2026-11-20T17:45:00+00:00
-
-## Microsoft Stocks Fall 1.97% as Anthropic Debut Spotlights $47.2 Billion Azure Pact - TradingView
-
-- **URL:** https://news.google.com/rss/articles/CBMi1wFBVV95cUxQVW9VajJSdzR3UnRjbnFoQ2Z1dkdtVnI1QkZMcmoyRk1rLS1xajZZVVJ2c2xnOFNMTXl1OTJSVVBULWQ0b2RjV3VOVEt0amU0LWU4MXNrQ2xEb2tUX2NfVVZzOFpncFhKT1I4V1lLcGt0NkY2cWFOZjk3Z0dmT2FvWnVIMDdmdjVHcmJBTHN0VS0wbndQa3lvcVBDazRlTGs1QnotSjJ0MG9ZYXFqZ0M3aG1wSkhqZkJXdm1TaHd1TVRYUnVrSkpsbGhqVk01UWtsbjFKdnpfdw?oc=5
-- **Source:** TradingView
-- **Published:** 2026-11-20T17:42:56+00:00
-
-## Microsoft's Copilot strategy offers path to enterprise AI growth, says Bank of America - Proactive financial news
-
-- **URL:** https://news.google.com/rss/articles/CBMi7AFBVV95cUxOZDcyMjZLS055cVcydXB0MUxGTkkzeVhmMjJGSkVTMEhwZjVfQWp5aHJmR0Qxbk82UGpWZnBTVUJqRDR1ejBsMVUtTE9KdkRZVjBwOGZpWl81LU40LVNwcmFwclFQRXBlVncwak84SjB2c1JOa2h0eXNCdno2Rkx0NGxWSWNFS0VWUHF0U0tSbUtSRmI3RVZYbEZlRGhCWXpEeHM1R3hURTdIQ0JYUW1SSS1XSkE2NHNFSVdCRV9kM0l5c2UxQ0s1Q0ZfZnpXLWxZTWZmamZPS0tfM0FSU1RqZU4wNU16c0JnOUN2SA?oc=5
-- **Source:** Proactive financial news
-- **Published:** 2026-11-20T17:36:00+00:00
-
-## AI News for the Week of November 20; Updates from Microsoft, Salesforce, Slingshot & More - Solutions Review
-
-- **URL:** https://news.google.com/rss/articles/CBMiswFBVV95cUxQX21DaXk5NktvQmJVaTdVWGxXNjFObExKV3dwN0FjNTN3YVZFamI0QXN3UTBVX1c2bEdqZWZpWU5CWC1lLW9pQUJ6R2FPU2czS0VIcmtNMWZNYWdxaTNxMTgtaTByUXJkenN0WW9yVG5hanpyUlhGUExrZG5fOXZZdDM5bDVKbWE2VHExODlSQll0d3FRMVdqVUxYcXNjY1lFMkNjVnJSREZyYjVEUm9BMFNVaw?oc=5
-- **Source:** Solutions Review
-- **Published:** 2026-11-20T17:34:38+00:00
-
-## Microsoft develops lockdown mode for edge browser to enhance security - SC Media
-
-- **URL:** https://news.google.com/rss/articles/CBMioAFBVV95cUxNaXlzb0VvamFQQ1lSU3RiTVlOM2J2SWxiRy1qRXRBQktCSTJHX0pobGZETV9kS19nT3Y4TzlOYzNHTTNoVDlkc0FuUy1zaElDWk1ZSGFQa2VPR1FuVnp2bW03WTY0U1A5YmtrOXhwajN0ckJyRUVYb25OZ2wzS2h2WUYwemNsdXRzcVJpczFsYUdoekR1MnJIWUk5S1dVcDhi?oc=5
-- **Source:** SC Media
-- **Published:** 2026-11-20T17:33:03+00:00
-
-## How the surge in AI-discovered bugs is straining Microsoft security and threatening tech stability - GeekWire
-
-- **URL:** https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZVN0ZWRVQkZucVY1ejVkQmVJZ0c2bmJpb1I2NEFGMVowOWNpMWozVVdZX19nRVgxbXF6QjRtYXhvXzZwai1KRlNDZU1ja0FGalBGUGV6MGxYelVYdlhKS05UR1ZXMXNDS2cwSk11NF92VFdFcjFGeDFqNEM2SEFTMGJ2YTZJeU9vbW1rY1JSY2tLQ1lNa3FUX3EtU2E5UTA5MVlVbGZfWkFWZmxOVjA5aE5PMHBXU2hrNUVuNldJaVROQnNLek90dA?oc=5
-- **Source:** GeekWire
-- **Published:** 2026-11-20T17:25:22+00:00
-
-## NVIDIA and Microsoft Expand Azure’s Vera Rubin Preview and Foundry’s Nemotron Lineup - HPCwire
-
-- **URL:** https://news.google.com/rss/articles/CBMivAFBVV95cUxPWmlSS3hfN2pPWkVBbDNkbnpwSEVub2lvbVNjSVc4UWZicE5hamRqVEQ4dUxYSGhZZW9NRmhZVHh5bUp1cTl2SmxfZFBMbWZNZUpYemdVblJoQ0stU3E0VkYtSGRZQUFha0JDczhaVWxKanpkOG4yQ0xuN2NMYS1ncGN1bHhhT1NlYzdlLUoyVURvWklPbmpkcmp4YTR1Nk5YNHRSQ3RfM2ZFRzlvMmxTM25Selk2dWhTNmtYZQ?oc=5
-- **Source:** HPCwire
-- **Published:** 2026-11-20T17:18:26+00:00
-
-## Intel Wins Microsoft AI Chip Business as Foundry Turnaround Faces New Test - TradingView
-
-- **URL:** https://news.google.com/rss/articles/CBMizwFBVV95cUxOY2NRRmlxay1vNktiSVFZZTdRdWdBLUF2Tm04VUNIMC1jZXRHZVB3SHQxV2ZYaE5qa25jT1BjR2h0T19kZngxTjNIS2lrVFVmeE83aGJGaG1HREhpVFlqMHczdDhoUHh0cXlLRzVNbEphS2N6TVhHQ2xpa3FHM2cyS01SaFVfaUV5VVQ5Rk1UN2kzcFh5MnNhV3ZuMmxzSm1JM1FFQVJLZGl6clRCYTFZNUdvYUV5Qjk2SFFCMFA4dXI5NGp6ejFRYk91eDBQcWM?oc=5
-- **Source:** TradingView
-- **Published:** 2026-11-20T17:17:06+00:00
-
-## Norway says cyberattack on Equinor targeted Microsoft vulnerability - marketscreener.com
-
-- **URL:** https://news.google.com/rss/articles/CBMivAFBVV95cUxNWXQxVGVRZ29RVXZJeTRQZHU0SUxFZkRVQkZ5dVlnOEI0UldBelVSQU1TWWxhX0hJbm1qUG5FTHFmMmc2Zm1MUmZ0MmtEbkljYmZ0bjRvT20xZ2NiMU5XRkxfUXp3NHVnTDh6bWMwWVNHRDc2REZmV19SbGFLLW9HMkRKaU9sNzhMaERsOTluRWoza0hZR3I4ZnNCaXNWRktRRFowdFhBeW01UjhYSndvNnBJMjkzZHg2Qm5IcQ?oc=5
-- **Source:** marketscreener.com
-- **Published:** 2026-11-20T17:15:50+00:00
-
-## Can INTC Capitalize on AI Growth Through Its Expanded Microsoft Deal? - The Globe and Mail
-
-- **URL:** https://news.google.com/rss/articles/CBMi6AFBVV95cUxOSDlqZWtWSUotc29ueEp1QUVWSVV2dlgzcmQ4TkxWRDlnZzVRN1hnOHlVb1RubU54V043dWRNakVDakJaM094dHdhYTVoZVVlamV1TTF3SXNJcGs3YWFCZUlkcE1xbmpKbGY3WnhIcE1rcWQ0OUY2d3I4U1UyVUxxQU9fQjh3emFxRUlhTFdVdHJUcm40bzZ2Vi1aZm02LUNiYmF0VVR3RzB4T1dGV0tIMzBGT3FqcGJ6ODNpNks2aTRrRXlJRmhqOXpzcVVZRnpVVjFCRWQzVzNYMWh1Tm9XOWN3TTR1d2xW?oc=5
-- **Source:** The Globe and Mail
-- **Published:** 2026-11-20T17:10:23+00:00
-
-## Microsoft files for 316.7-acre data center campus in Mecklenburg County, Virginia - Data Center Dynamics
-
-- **URL:** https://news.google.com/rss/articles/CBMiwAFBVV95cUxNazdDbGgzcEluZ1paWEZhYzdaUjNKLXVsaE1VbXM3QWtPNjRLS2RYVHBvc2FwZnR1dkFaVVdRN3VBT2NxYUJuZFZwSTFhVWZSVDZpeWc1dlFhcGZaYkl0VUlRbTZ4MTF4WVVfVGJYNHJFMjdiRzJYZTZfRnNMT1pOUTFDTUlHRVJ5TUw2Uk9yamFDdGlZbjRUamVZTjVjRmwxRjNENld4R1dTMG8yVUEzQTAwdXktd3F4YjE1RThodEw?oc=5
-- **Source:** Data Center Dynamics
-- **Published:** 2026-11-20T17:08:23+00:00
-
-## Microsoft is killing To Do by June 2027, here's how to save your lists - MakeUseOf
-
-- **URL:** https://news.google.com/rss/articles/CBMigAFBVV95cUxQMGtrdDlwZEdkMGRPUElibkx1MGhFZUM0VEMzalhTaFlSQVU3WENZcEZIZ09MbnZ0SDl2N2NkWEN2NEo4VjJqYVpwbjk2RWZINnJyNzVVSVNMMGJCbTRDcy01QnZRSjc5b05oNlRDbUw3U0h2ZXBpeWtzSEtQMmxqeg?oc=5
-- **Source:** MakeUseOf
-- **Published:** 2026-11-20T17:05:43+00:00
-
-## Danaher, Microsoft Build Open AI Agent Platform for Lab Instruments - BigGo Finance
-
-- **URL:** https://news.google.com/rss/articles/CBMidkFVX3lxTE04X1I2bl9fQnFjUVJhbDZTMFA5U1dPTzdia21ZQWxSVTZMVm90cXVZV2tLNlE0VEw1Zl90dG02MjNMZzlqQmhrZlIxUWdISzhEZ1FTdXk4UmtVTjZ0SnBEOVNSWVozVzZqN1dYZGFCb3JCN291eUE?oc=5
-- **Source:** BigGo Finance
-- **Published:** 2026-11-20T17:05:00+00:00

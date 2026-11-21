@@ -1,8 +1,32 @@
 # NewsWatch — Iceland News
 
-_Last updated: 2026-11-20T21:41:50.241486+00:00 · 50 articles_
+_Last updated: 2026-11-21T02:59:38.725237+00:00 · 50 articles_
 
 ---
+
+## The Cheapest Time To Visit Iceland: A Study of 350,249 Bookings - Guide to Iceland
+
+- **URL:** https://news.google.com/rss/articles/CBMif0FVX3lxTE1iRUhvbTE5RUhpQTliRlcxV1cwRlZhamhhUjJLeDV2VTB1LVRtcjBMSGpDR2I2SzNKQVdUZm8tYzVJbG4tS1YtNkxEbkJRSGo3RzhybTg0T2N4Z3VRclJIcGVUWWM4T3VkeG16bXlqRmhGNFhobGtXVHZvaTMzaUU?oc=5
+- **Source:** Guide to Iceland
+- **Published:** 2026-11-21T00:13:16+00:00
+
+## Veðurstofa Íslands | Icelandic Meteorological Office - Veðurstofa Íslands
+
+- **URL:** https://news.google.com/rss/articles/CBMiPEFVX3lxTE8zdk9WTXUwY3NRTHdmTTNHVXZIWW1ZYV9PSUJEU0xfQUw5aHJXR2dPd0xCdFFmMmxHQkY0Zw?oc=5
+- **Source:** Veðurstofa Íslands
+- **Published:** 2026-11-21T00:03:41+00:00
+
+## Who Gets Through the Door After You? An Alexandria Leader Asks in Iceland - The Zebra
+
+- **URL:** https://news.google.com/rss/articles/CBMihAFBVV95cUxNdEtJNEp6VkJJcEJuMzl1cEJ4TVNPVWRGV2JENldiZml1Q0g1LTJBa1V0YVRwTVh6MEQ3enVaWFVPc2VXbFZ3d0Z4OE9MaEdZWmZJaHBzbWFGc01GbFA0REtWdWY4Uk5TWE9ZeU9PQVE5N1QzTlJYMkhESWJhcTByOHpXclA?oc=5
+- **Source:** The Zebra
+- **Published:** 2026-11-20T22:41:22+00:00
+
+## Iceland activates its first industrial wind farm with 120 MW - Foro3D
+
+- **URL:** https://news.google.com/rss/articles/CBMipgFBVV95cUxPVDFaWFBXU3ZsajRoc0VZb2NJb3diallHVWFIbmp2TEtZbWozaGl2dHprODFYZExlNVI5X2dTMmlOMVdOcjRlZGQ4bGUtck1pTXh4LVpJQm9JVmExcWkzNk9qbkhTREV5RWFVQVZaLTJwbzBhX2tfOU5hSDdoLTNfWTFXSjd3SXlyRGthNDVPZmZERHB0dEM4N2RQNDQwYkNrTHkyWmFB?oc=5
+- **Source:** Foro3D
+- **Published:** 2026-11-20T21:43:43+00:00
 
 ## Skaftafellsjökull Glacier: Visiting Iceland’s Easy Glacier View - https://www.thetraveler.org/
 
@@ -279,27 +303,3 @@ _Last updated: 2026-11-20T21:41:50.241486+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMicEFVX3lxTFBLRVdIVHpNMkppY3RlVXVURndXYnkxT3RDQWt0cVFmTEVSSmZuaEVpVHRrRWNGSmdpQ2sxdFR4UlNycExVdHlDdlFqYVd3NE45Zm5MWUpxOHhSam1IUHUzUU9LQXV5OS1tUXJNUkFzQVI?oc=5
 - **Source:** Guide to Iceland
 - **Published:** 2026-11-19T23:56:09+00:00
-
-## The Rainiest and Driest Months in Iceland: A 26-Year Rainfall Study - Guide to Iceland
-
-- **URL:** https://news.google.com/rss/articles/CBMicEFVX3lxTE5ueHlJRVpLUG11TWRWRDZWTjNxRGU3WHE3dFpqd1BQTzBiWnQ0THd1TXJRRGRrdllHeWNJX3UwaGFBZGxmYWczNFMxVGtPU3I3TWlxbV9CQ2dSS0RrMU0tcDlIb294YnpMUmxSYmc2cEo?oc=5
-- **Source:** Guide to Iceland
-- **Published:** 2026-11-19T23:29:34+00:00
-
-## Iceland expertise to strengthen aquaculture - The Hans India
-
-- **URL:** https://news.google.com/rss/articles/CBMimwFBVV95cUxQMTM4blRWbzZRNFFBdTV0OUN6MTNLN2ttQV9qQWt3Y2ZIRWY4STUwdXM4SGFJYkpBVG5HS0t6S2lnZ1JldE9jUFJsQS1mOWJOSXFxeUxhTWhqd2QyTzZ0NDNPTzhyaTAxZ18tTXZvVXJjd3NHdXpJMHd5TkFhT05hQTZYM2ZHSDBrQnRsdGlSUnVxVTFIb05fMktOb9IBoAFBVV95cUxPODVnZzkyQWpSTGVQWGh4MUtKYUlGZTkwUFVRMndrV0p3RjhNZ0dZV2NFZGdmQ096Nk1ZRkVldERLX0pIaFJOM2QwU3h5eUZYVVBfV2FVSnh4X3lWWk41SXNtMVF5aEExVXZwT0g5UjAxdnRyNWJ3bWxfeUI1UjFwZ0NaYjdYME1tamg4ajRqYnJUY0hsMXRIdmZmRlJJQ1lz?oc=5
-- **Source:** The Hans India
-- **Published:** 2026-11-19T23:28:54+00:00
-
-## Weak mag. 2.6 earthquake - Iceland: 15.0 km W of Skjaldbreið on Thursday, Nov 19, 2026, at 10:44 pm (Reykjavik time) - Volcano Discovery
-
-- **URL:** https://news.google.com/rss/articles/CBMiwAFBVV95cUxNMHN1dG5Mbkp6MHpTLVhWdGkzZWtQUE1XNXBmbl9qOWZhOVZYMW00WjFEZnhONEljTDhQaVNhQ0V2d3NGSTdJVWVfZXdzNDBvYjlYemZqd2lGc3lKWDZwRi1sRXotN2NpeERZdC1XTkxCaml5WmhpbnNCS2VDeVdfc1FDM1MyQjBvTXo1NG9IbC0zZk9rMUZ4NmM0R1FEeHV5NmtueU1CUXJHRjc3SXdsa3ZhXzVxcmNoVnotbHpvcG0?oc=5
-- **Source:** Volcano Discovery
-- **Published:** 2026-11-19T22:53:00+00:00
-
-## Glacier Melting Rates in Iceland: An Analysis of 135 Years of Data - Guide to Iceland
-
-- **URL:** https://news.google.com/rss/articles/CBMiekFVX3lxTE8xaEp4MWduQkJkVHZjeHpjemQycnc5UFFxb0VFNnFQMXg4X3BUSTRnWUk0X1BHcUVYTW16c205YUlmRVhzdTJ1bWVmSXFkY0doRlk1cWlrNU5fTHQ0aVJXT2wyNldVdHVTQjllYmY5eDhUWkdpTzB5Mm5R?oc=5
-- **Source:** Guide to Iceland
-- **Published:** 2026-11-19T20:10:04+00:00
