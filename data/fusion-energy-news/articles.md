@@ -1,8 +1,26 @@
 # NewsWatch — fusion energy News
 
-_Last updated: 2026-11-21T02:59:39.698365+00:00 · 50 articles_
+_Last updated: 2026-11-21T12:12:34.146041+00:00 · 50 articles_
 
 ---
+
+## Fusion Fuel Green PLC (HTOO) stock price, news, quote and history - Yahoo Finance UK
+
+- **URL:** https://news.google.com/rss/articles/CBMiUkFVX3lxTE9reS1XNmV1VzlMaEVuZHdKazdwTWR5QjhSTHNlWm02VTVCVjhNNlVlall2QzlkcldUVVhCVW4zR1U4ZU5aeERzdDlsTnRYTEpvQUE?oc=5
+- **Source:** Yahoo Finance UK
+- **Published:** 2026-11-21T10:59:41+00:00
+
+## Optimal Processing Window Minimizes Defects in 3D-Printed FeMnAlNi Shape Memory Alloys - Bioengineer.org
+
+- **URL:** https://news.google.com/rss/articles/CBMisAFBVV95cUxNZ2VxdjRQV1RQaS10dm1Nd0xiT0k2T3NkSHNvVFpNSkNESFVWcU5yVFlJR1hVcnhNbVNlcF9IMGg0QzV3ZS0ycTV6cVhHdzlMODBwa3pJUjVHRmQ5SWpOWGY0MFNsRWJQdXQyVEhMZnVpa3RIeWQzdW92Q1gtYkVsTkZCaWlYbDBlQ2puTU14RHBfekJfazZDOExMMGpORWxsX0FVY3FuU19iR3FvT1JUeg?oc=5
+- **Source:** Bioengineer.org
+- **Published:** 2026-11-21T07:07:30+00:00
+
+## Battery patents: Solid-state filings surpass lithium-ion to hit record high - pv magazine Global
+
+- **URL:** https://news.google.com/rss/articles/CBMitAFBVV95cUxOVnFtRzR2WHU2UUM3ZzlZWHZwOWRtdFpGU0dUSWd5Q051VHZvaWx1X3FONEZLUzJFZk1jYTMyX2VvTllGdG14d21IV0hhZXM1NVpTU2JmVUhTWXJfRTlkYllObHVZWVlVN2dJaTFpcTJZeTJUN19BdlJSaDJnVXNGLUxwX1RGX3RBbDZpem8xeXd4cDdOZ015dlRoLW9ZWnJrY3VWS21ScVdCZ1haWDlIVk9rWnE?oc=5
+- **Source:** pv magazine Global
+- **Published:** 2026-11-21T07:04:49+00:00
 
 ## Pacific Fusion Gets NM's First Tritium License in Albuquerque - Hoodline
 
@@ -285,21 +303,3 @@ _Last updated: 2026-11-21T02:59:39.698365+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMi3gFBVV95cUxOQmxWZTNoQ2YtSkN1UFNwUnNQbl9EaDI4cWVhU2M5RjNiY3VHbExTcXQzblBWdHlUZzJjdXdkVkx6ZmlNVEpCdTJaUTVUYUZwRE91c2pLMjZ2YU1tVUhUUEtZU1lDWjlRbnZuWWVUS1otenc2X2lmOXFSOWF2ZnlfSG5ZSXZZV25qNURHYUNNQ1prSDBpbmpiZzFwQjN0U010RDB1aFlycGhnckN1NlU0TWNXS1hSb3hyQlJleW1Qb3l0d3E1NDFLdE9iV3NQUXhTaXluN0tCNDhBb3NybXc?oc=5
 - **Source:** 3D Printing Industry
 - **Published:** 2026-11-19T16:50:49+00:00
-
-## Fusion Fuel (HTOO) Eyes Venezuelan Energy Investments Amid Chall - GuruFocus
-
-- **URL:** https://news.google.com/rss/articles/CBMiugFBVV95cUxPZkplcFVDT0xsdDhCV0dtZWJMRlRWNGZ6d1prWVAxc0xOTmhkR3pTOTBDWHF1YTR5VlJOdTd3djZ6QU5UazJ6eGt3alZLa3R1MVlEVVAzdUliWTAyNlpVYjhtYzJiRUxsV2ZyZ1dHLXlhZlNaQWJid0VSMlVBM0RuVHJxVEwyMU16YWdBV2hHckYxaU81MnFVcnBkSlRNZFBPRXY0dEZSSXR3X29WSzlUVFdlWUxISUdLTUE?oc=5
-- **Source:** GuruFocus
-- **Published:** 2026-11-19T15:48:28+00:00
-
-## Fusion Fuel Green Announces Evaluation of Venezuelan Energy Investments - TipRanks
-
-- **URL:** https://news.google.com/rss/articles/CBMiwAFBVV95cUxOam1xUG8xYWRGNGQ1bTI0dUNHSlh5QVVnd19HRWdTNFl0TmpTS05nVmlNQ3JMZW9kS3M4RC1CbnRmVlZQdG9VWnFydEFoa2lCWVh6TjNmWDJQa2Y1N0YtMURKN0pzN05qMU5OcWFQVHlROWZCSjhzUmNoUzVnci1QUV9XeWRQTVh2R3dHVUFpWHhKMTlVTnQtOWxPQVF1c2NJcUZXaWQ5TWRLbVhRbFI1eFFuUXY1Ni1fWFVHNlpyRGY?oc=5
-- **Source:** TipRanks
-- **Published:** 2026-11-19T14:37:51+00:00
-
-## Fusion Fuel to evaluate Venezuela energy and natural resources investments - TipRanks
-
-- **URL:** https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRTlwN1hjY19QZ1A0RmlTS1NZd0VCYnZidWg0MUhsUlA2MXBjWXpTV0hRdktBanBEdnhFbmdLRmVTV25va29MWnN1Q0VtMGJnWnhrMHZZQzJ6SHF6bVVhdlQteUJBeEJOb2x3WXRESTBzUGJFekxhWUlSUkJYNjlZeERvVGJZeHZYVGQwVEtkTjJ1T2FRRHZhcHMwbVlrV3ZaQ2FIbF9mbDVpQ0JQcndtNjJKSl8yY2VSZ0RtZ2RCNXNUUQ?oc=5
-- **Source:** TipRanks
-- **Published:** 2026-11-19T14:21:03+00:00
