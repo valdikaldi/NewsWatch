@@ -1,6 +1,6 @@
 # NewsWatch — Iceland News
 
-_Last updated: 2026-11-21T20:23:42.762883+00:00 · 50 articles_
+_Last updated: 2026-11-22T01:56:08.740709+00:00 · 50 articles_
 
 ---
 

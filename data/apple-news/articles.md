@@ -1,8 +1,14 @@
 # NewsWatch — Apple News
 
-_Last updated: 2026-11-21T20:23:27.394102+00:00 · 50 articles_
+_Last updated: 2026-11-22T01:56:07.873973+00:00 · 50 articles_
 
 ---
+
+## Apple’s Shocking Evidence Against OpenAI: 5 Defendants - shattered.io
+
+- **URL:** https://news.google.com/rss/articles/CBMijwFBVV95cUxOdU5LSW5JU3pZZU9seWFteFpVUlUzU2hWV2hqSkVDX0xGSDJxMmpUbEFpU2JtcTJyeXB4a3ZJbE1OVzlaQmU0d2k4cV9md3lsT1hSYldkelVlTGJPVmtwc25RNnRTaFFCS3huSXdkMnR0Mk9ZemFJLVNneEZyVEJ5NWpXTFZoV2hmRERuVDZMSQ?oc=5
+- **Source:** shattered.io
+- **Published:** 2026-11-22T00:14:23+00:00
 
 ## 5,349 Apple Inc. $AAPL Shares Acquired by Sage Rhino Capital LLC - MarketBeat
 
@@ -297,9 +303,3 @@ _Last updated: 2026-11-21T20:23:27.394102+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMi2AFBVV95cUxQbGFUX1JzOFVEUXd2ZWR4bVVTZl9ybUx4TzRBTE5IMXRyS1g1UW1WYkUyc25fZzRZNWRJRzY3aWV0YXhmT3dDa1dQSEFrNW5zYzNNcmxfVklkYU9LMUtuNk5wQ2ZXeTNzZjJodFVkXzdtSVlIZTZHTzN2TzV0M3hNbWRVUWNpZlNVWS1jZXVYOURqMjNueEdNQlE3SkRBQkZXaHNCSkRjVWlPOUNvMnduczYzVGRlNVBhZFd5RGZpazc4bnZxeExUWVhLYXMtZk81aWUyeGVsd0w?oc=5
 - **Source:** Investing.com South Africa
 - **Published:** 2026-11-20T01:34:48+00:00
-
-## Anthropic Shares Drop Post-Market on Apple’s AI Agent Plans - Bloomberg.com
-
-- **URL:** https://news.google.com/rss/articles/CBMirwFBVV95cUxNU05IcE5RazNyajNodmVGbEJxU0g5U3FPc2IzMFlfdVdSbkxsUWRFYkxpc0JpOWxQNnVZSGlEVWpHSklHMGwyRzRmdjZXUFVYWDdxdTIwbmRGUVk0WGZ6RnB3MHFhSS1YR3VJSVUxeUtlcktQY1NDbUVWNXpfOVpXREFYY3k5bXpnMjEwM2drWTdMQldwWEFFVG9BX2cySUdmUUNOcFFURVNIa2dZal84?oc=5
-- **Source:** Bloomberg.com
-- **Published:** 2026-11-20T00:40:00+00:00

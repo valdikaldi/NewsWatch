@@ -1,8 +1,20 @@
 # NewsWatch — fusion energy News
 
-_Last updated: 2026-11-21T20:23:50.806680+00:00 · 50 articles_
+_Last updated: 2026-11-22T01:56:09.054843+00:00 · 50 articles_
 
 ---
+
+## Realta Fusion lands up to $15 million in state incentives for $800 million project at former Oscar Mayer plant in Madison - VernonReporter
+
+- **URL:** https://news.google.com/rss/articles/CBMi4AFBVV95cUxOd0ZkeDl3SUVuNHNoa0VsdFJOVHNkVVhmejZnTW9KTklUYlpJNnhISWhESF9BNGg1Q0l1STVrNG9PSkVTT2VuY1d0ekFicUIydDN0bUQxajVmQlZXNWo3LXpFMEpSQVdEcURPOHZKSTdmQ3NjMHc0bFJEcFpwYjdZcXd3VHhXZ1JuRmhyajdUVDlqZzVQdk9haU1ST0IybUtqRnFEVFU2NGhEWHZKTTBXRmx1NnRNWFk1NkpucWxhOXp5V0ZfczhEQnczQ1pzNExjQWI5VkxFMjJsbm4xSXc2aQ?oc=5
+- **Source:** VernonReporter
+- **Published:** 2026-11-21T20:56:15+00:00
+
+## DOE Argonne National Laboratory Simulations Model Fusion Reactor Blanket At Record Detail - Quantum Zeitgeist
+
+- **URL:** https://news.google.com/rss/articles/CBMiekFVX3lxTE9WMFNwWm1uSUhFdUpjZVdvcjBUWS1yVC1TYzUwZXlpYUNvMUd0cjVXTTBhbUl6VEZicmEyWGxEZUdWdUgzYWFjZ3FGVVNTb0tOSE4ySm9OTk1ERV9abXJoQkNnWm4zX0hMMkF5QWxnZHBGQXo4T1BwamdB?oc=5
+- **Source:** Quantum Zeitgeist
+- **Published:** 2026-11-21T20:39:09+00:00
 
 ## Fusion Fuel Green PLC (HTOO) stock price, news, quote and history - Yahoo Finance UK
 
@@ -291,15 +303,3 @@ _Last updated: 2026-11-21T20:23:50.806680+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMiekFVX3lxTE54bmlCd2tqc0c3Rk9Pb1lFZGxaclphdDhkU1ZVR2VtTHktcGxDZmpoMTctNFdwbXpySWdHMjdTQUFkbUpST1F3OGFIQTA2em5HUHZacUlzcDQyQkYtdGFtb2oxdWx0ZW1XbURyMTUySnRnc0JFSmZidVNR?oc=5
 - **Source:** Medium
 - **Published:** 2026-11-19T17:52:07+00:00
-
-## Fusion Innovation Bootcamp: Addressing workforce needs with unique educational opportunities - American Nuclear Society
-
-- **URL:** https://news.google.com/rss/articles/CBMiygFBVV95cUxQaVY4TzlaVXpUN0RfLXRSbU9SRURmS2pQUFFVR1Jzem5WUHhaMk5wT1pxWG9ZQ1ZxazF3aFBOMjBma2Y5b24zd0lxR3k2TzRhUUpzSWtDeXYweWJNeG9peU5BQnVuZHZKNTg0OVFGRHpFaW8yRUtGd2RnZVVHd1c0cjJicmgzVlBDQUFRMEtJaEgtbHEyOEpGWnBkU1NMSE1ndFhRSlNqZXdnMEpoNFNld3RhV3dZNHNfdnRyWC1zbUkxSXJab0xNdUVn?oc=5
-- **Source:** American Nuclear Society
-- **Published:** 2026-11-19T17:48:07+00:00
-
-## Metamorphic AM connects computational design and simulation with Morphé and ChopMesh at Formnext 2026 - 3D Printing Industry
-
-- **URL:** https://news.google.com/rss/articles/CBMi3gFBVV95cUxOQmxWZTNoQ2YtSkN1UFNwUnNQbl9EaDI4cWVhU2M5RjNiY3VHbExTcXQzblBWdHlUZzJjdXdkVkx6ZmlNVEpCdTJaUTVUYUZwRE91c2pLMjZ2YU1tVUhUUEtZU1lDWjlRbnZuWWVUS1otenc2X2lmOXFSOWF2ZnlfSG5ZSXZZV25qNURHYUNNQ1prSDBpbmpiZzFwQjN0U010RDB1aFlycGhnckN1NlU0TWNXS1hSb3hyQlJleW1Qb3l0d3E1NDFLdE9iV3NQUXhTaXluN0tCNDhBb3NybXc?oc=5
-- **Source:** 3D Printing Industry
-- **Published:** 2026-11-19T16:50:49+00:00
