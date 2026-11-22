@@ -1,8 +1,122 @@
 # NewsWatch — Iceland News
 
-_Last updated: 2026-11-22T12:19:31.728601+00:00 · 50 articles_
+_Last updated: 2026-11-22T20:36:02.947588+00:00 · 50 articles_
 
 ---
+
+## Iceland’s Christmas Book Flood Takes Over Harpa - Iceland Review
+
+- **URL:** https://news.google.com/rss/articles/CBMiekFVX3lxTE5lc0QxSGg0SGVFVFI5VVBhQkNXaVV1aEZQel95WktLMlI5ZFR5LWhucEhjV3ExOUhXbXY0TDBIOWJWRUktSE8tUjhJSHFKZlc0Uno4LXhTTjBSTm5lcFVkMzkzZFFocm0wMmpiWC16NHNKSHZVbl90U3d3?oc=5
+- **Source:** Iceland Review
+- **Published:** 2026-11-22T19:30:00+00:00
+
+## Nscale needs a US license to keep giving ByteDance access to Nvidia GPUs - MLQ.ai
+
+- **URL:** https://news.google.com/rss/articles/CBMimAFBVV95cUxOTWdHb0VOQVF6ZjZaV2k1MXBpeTZ2QTNibWJTZ3NGOXpoX1BYWmpockVNTFg0TlRhNzgwY0k4UVdnaW5XdXNzTzdUV1FrQnV4SWVuMUVmZEFleXdEYTV2czlNaVBiYXhZSFdJVl9TcHN0R1Foc2lrQzcwOS1VZ1BQZFN3dzd3QkFfUG5DNWszNVcwc09lVHRqZA?oc=5
+- **Source:** MLQ.ai
+- **Published:** 2026-11-22T18:02:35+00:00
+
+## What Language Does VYRMA Sing In? Old Norse and Icelandic Explained - RouteNote
+
+- **URL:** https://news.google.com/rss/articles/CBMimwFBVV95cUxPM3Y1ajJmUHVzSmRxNlFVOGt4bklHNURqcW9iSVQ1S1R6eml1UjRvNUM0SWZna3JfQmo3TVo0XzFjQmJQY0ZIeXhmUFVRcnVhdVNlUXcwWmN6bW90SzcwY2Rsd1BEVFEwdEFYNWlmbC1CSVpLS0RGRV9GVXhiQ3Bwd0lqRnp2VG1CNW0wWUh4Rm1CRHZzR3Rvb1JaOA?oc=5
+- **Source:** RouteNote
+- **Published:** 2026-11-22T17:20:00+00:00
+
+## Jet bridges closed at Keflavík Airport overnight due to weather - mbl.is
+
+- **URL:** https://news.google.com/rss/articles/CBMimwFBVV95cUxNaFdmNDloejIyZHFaWEhPQzIzYlVaSVFuY1AwUHFKZ1dwRXZ3YTZURV9vT0VYSjUwa2lJcFpfY05DZmJPWTF5dG8yU0tEdFZvaTRIeFdZRGdtelJCZk5MZ29rU2luTXpyMGYwdHhMdUVQbTd3S3JPZEhDUzdWYnN1NFlSSkt5Sy1hVlIxb253LUlTRlUxNkt1WHhwbw?oc=5
+- **Source:** mbl.is
+- **Published:** 2026-11-22T17:15:00+00:00
+
+## What to Do This Week | Christmas Clay Market and Other Events - Iceland Review
+
+- **URL:** https://news.google.com/rss/articles/CBMimwFBVV95cUxQczJjOGJNSHk4dXZ3OEhrUi1CemVTMDdsWEJKLWF5ZnBoOXVQTnBmeGhweEpHSEdSQmVVRVYzZEgwNl9RNEZXQktVY1huUURxTkZ4OGlkN3lHSFBtMWtnOHFtbmhHSjBwZ3g0cVpjc2YySndMc0NfUGU4XzFXZ25NOUF6c0p2cVpWbW5jMGJFVWJqNzFLN2RESzhHZw?oc=5
+- **Source:** Iceland Review
+- **Published:** 2026-11-22T17:00:51+00:00
+
+## Queer Guided Tour | Leaky Bodies: Shared Worlds - The Reykjavík Grapevine
+
+- **URL:** https://news.google.com/rss/articles/CBMifEFVX3lxTE9JZVIwWUdGb2lXZDdYbWRfMFZNOU1KcDVhVlFUUHdrWVJJOHpzQjlpb2dtNkcteE9lTkJvOXdteEs2WE43amdSWHNaRHNaZlNGTFVJbDB0MkdBNkN3R2xwbzhzY2xkQkdmblRuSUVHeWpuaTdDYlFGdERCRWs?oc=5
+- **Source:** The Reykjavík Grapevine
+- **Published:** 2026-11-22T16:57:11+00:00
+
+## Flour Recall Expanded Across Iceland Over Mycotoxin Levels - Iceland Review
+
+- **URL:** https://news.google.com/rss/articles/CBMie0FVX3lxTE1MQ3VaVjU3UE1oLTRyNERnRGNzYldCWWx3TDRSYTZYYVdsWW9JS3p4WjB2RUdmaVFLNlhXNWZ5VlI0Y19YcHA5MzNyX1dVSVhzbVhnU2dBNVVBVTNITjRFU2E3UVI4TEtUNWZwcmhMLUpkX1lSWmd2TWtiYw?oc=5
+- **Source:** Iceland Review
+- **Published:** 2026-11-22T16:30:00+00:00
+
+## Sitting by Archie2022 - ePHOTOzine
+
+- **URL:** https://news.google.com/rss/articles/CBMiXkFVX3lxTFBCZERDaXp5Z3pMUlZFZ3dGdTM1S2hiN1JRejk3QUlNOFZpNVFfQmQ1YU91bEN0MThWZ2dJVmhJMnZXMHM4NHlhVDAwSVNYemxGampEaXNlZ09peEdnbFE?oc=5
+- **Source:** ePHOTOzine
+- **Published:** 2026-11-22T15:51:05+00:00
+
+## 10 high street shops in Hertfordshire we've loved and lost - Welwyn Hatfield Times
+
+- **URL:** https://news.google.com/rss/articles/CBMijwFBVV95cUxNWDBGZkdJWGcybUstcV8zTnk4MWZLczJsLURFUk9nUENHS3hhR0pYRjFfc1R6R2JkVTFZTy1pQk13NDZPODhnQ0xVWm5vTGM3VzgyMkFWN0dFbDM3ekM3dTM5UWFSUkNKRnRfMXNJUkVYZTJxREc5Z2tIdFA1TTBUNG1tQU81NGRsTExpNjVjdw?oc=5
+- **Source:** Welwyn Hatfield Times
+- **Published:** 2026-11-22T15:34:02+00:00
+
+## Salsa Party at Árbæjarlaug Swimming Pool - The Reykjavík Grapevine
+
+- **URL:** https://news.google.com/rss/articles/CBMieEFVX3lxTE5hMXh5SExnNW9uZFIwd19oMk4ySkx0ZzFYWDRDQWZycE1MZnE5MzFqYWY3MC0tYnlkUjlFYTV1QjBDWmxwb2F0VEplZ3V1QkhpQVNBS1p0QmFuMnY3SmwxUXJwWjJ1cmxBc2lSZzZGTmJTNDJsQzNoXw?oc=5
+- **Source:** The Reykjavík Grapevine
+- **Published:** 2026-11-22T15:12:13+00:00
+
+## Iceland Seeks to Revive International Urban Rescue Team - Iceland Review
+
+- **URL:** https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVkZmeVpqZDdsdVNTdjhaUEZ2XzRRaDIyR3pIUlVpemJkZXNRLWQ3Z2liTlpad01yeDdDSFRMaGs1RnVrRWdZZ2k2Z2V0eG5HSENKb3N3eFluX3RvOFlaRjJBRUhQNGdwN2pLSUdVRDN6QmhRdGJzYXRVTFoxOUZLV3VYRS12RWFiSlJB?oc=5
+- **Source:** Iceland Review
+- **Published:** 2026-11-22T15:00:00+00:00
+
+## Icelandic mist by Sandgatepete - ePHOTOzine
+
+- **URL:** https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1yalFabmk5ajJCVXhOdUh2OVpEa1FsNTZISjVlcFBSUFpHMk5RQnJIMVQ2dmFpbl9LdTZWVjdmcFo0cHo3dW8wUDNSY3BZLWsxZEduaVM3cXQ0VWxmckc4bWl4bGpoNDg?oc=5
+- **Source:** ePHOTOzine
+- **Published:** 2026-11-22T14:45:55+00:00
+
+## Iceland, Arkanes by Sandgatepete - ePHOTOzine
+
+- **URL:** https://news.google.com/rss/articles/CBMiakFVX3lxTE0zREhtdTBVcjg3WGMwWDM4TXhqTFN1N3paZ2JZdU5zdWNXVDZlQ0VIZFhHb2NoTEF4OWxqYjF3QU8zbjhyaldZeWMxRzdEVGpSc0VaN3lIeTFjSWU3LWozTlcweW5vcnlJd3c?oc=5
+- **Source:** ePHOTOzine
+- **Published:** 2026-11-22T14:45:53+00:00
+
+## Discover the film locations for Supergirl (2026), around the Cairngorms in the Scottish Highlands and in Iceland. - The Worldwide Guide To Movie Locations
+
+- **URL:** https://news.google.com/rss/articles/CBMiZkFVX3lxTE1USUEwakZRMEFZQ09IMEw1eFVfdVBtRUhDZ3dJaWhlNlUtelFfQ1B4OXN2UVhTY0V5SzJpSmNJNXB3UFVlZE1UZ3hwVmJ5ZVk3bzRkVXE3aWxkREhEQVpHWVdvMFV0Zw?oc=5
+- **Source:** The Worldwide Guide To Movie Locations
+- **Published:** 2026-11-22T14:06:01+00:00
+
+## Europe’s thermal pools and open-air saunas with a view - Aposto
+
+- **URL:** https://news.google.com/rss/articles/CBMijwFBVV95cUxQRllBMFNmcnVLTWdoaTZHcW1zMHJITkFRNW1uTVZSYnZLT1VKaTVvRHNpZXZpN2FkRWlaT0YtNVVZazFJWGRJMU5DaV9sbFIxalF5RUZfdFdHSHZLV3VqbEt2c2ZMelFlV254VjFicmo5T3hJYWNGMVkxQXc1eVU2emdxQnZFOUJSXy14bHZ5QQ?oc=5
+- **Source:** Aposto
+- **Published:** 2026-11-22T13:48:16+00:00
+
+## Kambanes - Veðurstofa Íslands
+
+- **URL:** https://news.google.com/rss/articles/CBMiWEFVX3lxTE1BMFNtb0pRRG5iQS1wNG1MQ3haOU1XNkhiZDZOUm0tcXh3eE1XbDYzUkNQUjBrQUxKQUJqQ2pRc2d4Wl9Fei1XbDczZV9MSmZmbVdMbnBFeHo?oc=5
+- **Source:** Veðurstofa Íslands
+- **Published:** 2026-11-22T13:36:15+00:00
+
+## Iceland Plans Merger of Natural-History Institutions - Iceland Review
+
+- **URL:** https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNEVtZmdlcE50S0QyOVhTc1JLbkpXUllrcjc1d2cxZHZ5OS16TEpPSGJXR0lhSlVJalRlS0lFSGU5alN1Q0htaWpCVGlGb0VFWnFPenhKLXNJQWlkSE9HdHJaMVhuVFVLQW95cjRRdDlsM3ZHaVI5eldQc3VESG1OTS1LM1R1RWRZdmlj?oc=5
+- **Source:** Iceland Review
+- **Published:** 2026-11-22T13:30:00+00:00
+
+## NATO emergency talks on tap as US commander assess defenses after Russian missiles hit Poland - Stars and Stripes
+
+- **URL:** https://news.google.com/rss/articles/CBMilwFBVV95cUxNdFpwYmxfXzFYT3hfeDA4bGxTenBPZEIzekJzbUI0N2lyY0xsQ1BsR24wZDFHb05NWnJMcEVUNE0zN1JlbURKdmpFV0tmNkZjM1MxRk5HUW1Na0R2VGZxVHBXWnNLQlVrMzhfZTRUVktXYVh6dzMtV29uazNIOGQwWGVEVmdyRWFMZXRTQ3hiVExnMmFEYjBj?oc=5
+- **Source:** Stars and Stripes
+- **Published:** 2026-11-22T13:01:11+00:00
+
+## Storm Damage Reported as Strong Winds Batter Reykjavík Area - Iceland Review
+
+- **URL:** https://news.google.com/rss/articles/CBMihwFBVV95cUxQWHQxNlpheF9KQ2V5aXVQc25WYTZtQVJHQ2NqcEJicExxMVo1bm90aTBWdzl1NDc5cHNhWmFIazZIQzlVM3hyZ1R0VDBZZkNBV3JYQVlTQ0lKTDRYQS02VTluRzlaVmhzVmdzbjZYYVo3cU1LYXZrRWFudXN2Q2dkYjBmbnRrM2c?oc=5
+- **Source:** Iceland Review
+- **Published:** 2026-11-22T12:38:09+00:00
 
 ## Husband's unusual request turns into heartwarming homecoming - Iceland Monitor
 
@@ -189,117 +303,3 @@ _Last updated: 2026-11-22T12:19:31.728601+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMiiwFBVV95cUxOQWNrZ2dobG10RHM2MUxQV0pjWVVTaGg2V3BHUFc1eHhmVHJrWGYzSjVCeWRYeG5Id0dBeG1nVHFnZlNvUFhHYzRQc3AtNnZCYXFsWGZnSUhxbjdiLXRLb1pMRkFubFk0R2JjWG96ZnMzeHR2UXpzcjZPRUZPUFJsYUd4Wkd1eGx2aS1B?oc=5
 - **Source:** Iceland Review
 - **Published:** 2026-11-20T20:00:17+00:00
-
-## I tried Iceland's Christmas food menu - one tasty £4.50 item stood out - Liverpool Echo
-
-- **URL:** https://news.google.com/rss/articles/CBMiogFBVV95cUxPTm5Ycmx2czFvcjBBRGZfLTFSR192dkNGWDlfaFpBa0ZtTnA4cEg0R1VSS2ZzLWVKUXdPSG5ETnItNE9LcEtfcjItdy1BeWQzNVotWVdtaTloYmNLWEFWU3QyYkFFeXd0WXR0OE14bUgtcE5VLXFIT19UMDRSZjIzNzF5TS1BSlU1S1pWVEVWbWphZEpfUm50dVphVm1IV0N6dVHSAacBQVVfeXFMT3pEZmtNNndsVHB6MjUxRTR3cFVFd0FRUVFQeVoyb2ZNMlpmZFA0MHJFRHRqdmtBai1nWlFRenV2cVhzbWdfeS1QaEtSalNUNVE5RDBzR3FvdTZOZjZ4b0xUZ0tDaGhhUjM0UmFPeGFOUUc0WTYwVG15NEUtOFhtSTJHVTY1Z01vZWhfTE04cjd5cUdGREZoWUhBX2xKN2k3OFNyS1pUYjg?oc=5
-- **Source:** Liverpool Echo
-- **Published:** 2026-11-20T19:22:00+00:00
-
-## Iceland eyes Amaravati’s global capital dream - The Hans India
-
-- **URL:** https://news.google.com/rss/articles/CBMipgFBVV95cUxQaWQtZUp2YlJVTHlGUWRQQ1F2UHVHNnRTc3VJX3BjOG1mV2I2cFk1SmhXOGlxR1Vxa25WekZ4RWItekoyMkc5SEJ4dWJlaFR0VjdsVU9rT3R0c250Rk1VemVzc1VzVFM3eWpLRlcwNGFJT1NHSmhhS1k0eFJJNWtGSFVRVHZUazVaaWxYTG56WFFwNjYxa1JaWmVHYzUydUVpYzRVV2hB0gGrAUFVX3lxTE5uX012Y21xSzI0Z3pQQjV1NUMxWURsQ3ZPWlhfSUR3RTJOalBTTWNzUl9JWnlUZlAzS3JMTlk4bFdaZ1BaTVg1d3RJMVY5ZUVlaUFDZGM3NHBPNW9CbzJxcjNocDMxeW9lUjA5aW9mejNuMUtGc2REblNhMG5jalctY2dLdUJSenUyZ0xzMHhIa3dSNDRxNHVSVjJEa2NqY0tra2xtcVE5Sy0xRQ?oc=5
-- **Source:** The Hans India
-- **Published:** 2026-11-20T19:14:33+00:00
-
-## Forecasts - Veðurstofa Íslands
-
-- **URL:** https://news.google.com/rss/articles/CBMiS0FVX3lxTFAzUG5pVVFwTlZQN2p4RkUxSDBxUE85VWRXLUdHNVg2Uld2eUxBNUkwRGcxNmxpY1gySDhrS3JYZU1mQWF0LW55a0lmSQ?oc=5
-- **Source:** Veðurstofa Íslands
-- **Published:** 2026-11-20T19:06:40+00:00
-
-## Kika Nazareth back for Portugal women’s crunch World Cup playoff against Iceland - portugoal.net
-
-- **URL:** https://news.google.com/rss/articles/CBMitAFBVV95cUxOMTlEdEVES1kyRzBLZzFJTmM4THdoUEV1Njl0V3NCYWs0RnVmOXAyN0RBajFhNEw0Z0RJVnM4SXRBeU5OWFFIalBmam9OM1A1TVNGUV9wTktDcmpvWDhVSHE3QVBZQklGWkRnU2J4dFFibFZ6bkRTRXZQbUFqcWxLbUdHYk9tazR4TlJMMUZtbFBBcTkzdVlRY2NuSVpQRTNMNlhDeVVPa2thVzRycWt0OGtIYl8?oc=5
-- **Source:** portugoal.net
-- **Published:** 2026-11-20T18:49:46+00:00
-
-## Apple TV Finally Lets Iceland Stay In - Iceland Review
-
-- **URL:** https://news.google.com/rss/articles/CBMifEFVX3lxTFB4Q0tSd1E1ZnpBTXQ2aWIyN3VUd19zS0IyQkpGVG5hTXN5WUk0SkhmMW13LXZwTzFOU2JCX19oU0NCMFJjZlotSjh2QlREMmkxYmlwUWl1V3diemlhM3F4clRmZDY5ekFoSDRJaGZ6V3p4Y2dySERpQVprdzg?oc=5
-- **Source:** Iceland Review
-- **Published:** 2026-11-20T18:39:10+00:00
-
-## Family welcomes development: No search conducted at likely location - mbl.is
-
-- **URL:** https://news.google.com/rss/articles/CBMirAFBVV95cUxQQmtiWmJnUThaUzJFZE53d3RjUy1PSklNakQ3eEpyRk41UkR2SnVVVlcxd3JDSEtaQ3BHRmlYMFVweHRRakw3Wm03MFBBOG5IRHhyN3QzZVl3WDNGN0hQY2YtNjYtUHNZY29BX1EtUE1yc2gzZzdXVml3d1ZESXhrMjFBS2gwd1h2eldLV3VQQXhZSDR0LVE5NjBfbUo0WldVLXBNclNMSFJyTjkw?oc=5
-- **Source:** mbl.is
-- **Published:** 2026-11-20T16:59:00+00:00
-
-## Iceland Seafood Internat hf falls 2.22% in Friday's session - Global Banking & Finance Review
-
-- **URL:** https://news.google.com/rss/articles/CBMimwFBVV95cUxPaHFOeUp5cmxNcVhaMi0tNUZtZWg4bTBuRjdJZDNsQkM3YjBJQXFqLUpERnZ0X1lwMDMyX2RyWmdrMjhMaUQtYzQ4anZuSmhadmtxS0xIVXFtdkRXVEtVNlVGZDl4QlZRaWRXMnNtdmFvT3pfN1BUWHRqN0ZqUkUzY3hDTUZCbnNvSFMySlYxdDFRLVBCd1RHOWxFbw?oc=5
-- **Source:** Global Banking & Finance Review
-- **Published:** 2026-11-20T16:41:30+00:00
-
-## “Elma” Brings Icelandic Crime Fiction to the International Market - Señal News - Senal News
-
-- **URL:** https://news.google.com/rss/articles/CBMiogFBVV95cUxPd1NFNjAtUFIwRzFwRnVmdHlTNTB4bDFBcTJIMkpmdTVHVmhkdlNWSVlrQ0FfbDcwbnhpNDZrUmxkOTdOM0Q0d1NJT3cxdl9TUlByOGhQbEFPLURESDc0bHBtVmVWVmd1TE1kWFo0b19nYmhtN3Nfem9aa0xqSVRmRVZSYWx0QWEwalJPT3dEanZDNXFmejlROEVjakVqMVBWU3fSAacBQVVfeXFMTXhkZzl3eFJ4Q01vWnFfMVhrYjV3SG94ZkF5Q25OR3pKNTROT0l0UkpfSGNtODdJSXJ2MWstcmIwcTVPMExaZVBZT2d4Y2RuMGJBa0xNZWJnNlZiazIxRklvYVlaN3lPdXVuQVVUTHFTT0c4eHRoRWs0SkFnc09uT2FFS1hBUFJkQ1BrdmRCYlVoZnRvR3Zxb1poMkx6dFhKa3RIYW5RSXc?oc=5
-- **Source:** Senal News
-- **Published:** 2026-11-20T16:32:25+00:00
-
-## Minor mag. 1.7 earthquake - 11.8 km NE of Grímsey on Friday, Nov 20, 2026, at 04:08 pm (Reykjavik time) - Volcano Discovery
-
-- **URL:** https://news.google.com/rss/articles/CBMivAFBVV95cUxOUjF1OWcxaVJGUTIxUGRaWm1ZU2lWQ1c5cDFmQnNDNHNNU2M5ZXp5TXhkT2VDVnNHN2EyWUZ1dDJoQVc3b21Rcy1qLXhMcFQ1dFlONVU4aVZIOVg0RHFYZTVjR0NTNXJ3aXpZQmhRRXNVcnd5Tm50MTVwMGRvM3Q4SzNxcVVmV1llVVc2VlJTUFU2SnVCY0RMUVpocHB5a2hrQ0lucHJpdTFnRkRhZkNWbnFTb1BFcDNIRUNfOA?oc=5
-- **Source:** Volcano Discovery
-- **Published:** 2026-11-20T16:20:26+00:00
-
-## Klappir hf.: Proposed Delisting from Nasdaq First North Growth Market Iceland - TradingView
-
-- **URL:** https://news.google.com/rss/articles/CBMi2AFBVV95cUxPZGJaLVA2LXMyckJTTmwzclNEMVYtV0FITnctWU9MQUs4X25HV3BqNXJOZEdTeEIwLWFLT3NvN29DeEV2dGVIQjlDVnhOeHNKMGpZcVVQQlpaRTZWNmw3MWt4TTVmUlVkSWpCcnk1QkQ5dEZPdldFVDltVVVXY0NHbVdYNGg2VC1VZWxxaGdzZW1Ua2wtdUR5Z2Z2ZVFiWHJTVXIwSklGNTlVTHQxV3FacDZORGJUUlNLNGoyVnJodHdORWx5YXVKSWJLdUM0eG02UmN4ZFBrYko?oc=5
-- **Source:** TradingView
-- **Published:** 2026-11-20T16:18:00+00:00
-
-## Iceland weighs spring shooting permits for Whooper Swans - Rare Bird Alert
-
-- **URL:** https://news.google.com/rss/articles/CBMipwFBVV95cUxQZWJCZXZBeWF4RFFfMklwWTBqT2Q5ZlQ4a203S1B0SXN2WEQ0dWozYkdzZ0lLdUY4ZHFINWJoQmJleDdRMWd4VjF2aF96bkF4azBjM2FaSFNmWWRMMU9haFFSdmtvSGFJbVB0UU1DQXNYMm1EbXlZcGpwdllNLTA0dnM3a19CSGxpRFNSeHlqRnFFUE9nYkhmamlHbnI5XzI0WUNqUkJkWQ?oc=5
-- **Source:** Rare Bird Alert
-- **Published:** 2026-11-20T15:14:20+00:00
-
-## Veðurstofa Íslands - Veðurstofa Íslands
-
-- **URL:** https://news.google.com/rss/articles/CBMibEFVX3lxTFBBc3pMdUNZblhUbmJBUFNIQk9PWWY4SW56ZHhYNlhFcE9zUi1oc2k3M0dMcHdCTW1KUVBxcTQ3VGItMW90YUgtMWdnTVFhVjFIcEt1LUpfb3VUSUNTbzhMT2IyNkhKR0ZtdGkzZA?oc=5
-- **Source:** Veðurstofa Íslands
-- **Published:** 2026-11-20T14:56:20+00:00
-
-## Flour recalled over mycotoxin contamination - RÚV.is
-
-- **URL:** https://news.google.com/rss/articles/CBMikwFBVV95cUxNQ1RnX2JlTHhxR1FTTVp6Tzh0cHoyam9vaUxOb3RqbUtNbExrZ1NoUWdPN2t3aGs2MXhBbWdqNGxfeHVTWGRZR1gyUUVZejBEbEIzTXdJZkltSjhfTnJIVVVWSnRVOVdzc2tNSk82eXZlVVk1ZlFjOHExVjRWZm5Wa2V2Mzdocld2U2JKbG11bEJrOGM?oc=5
-- **Source:** RÚV.is
-- **Published:** 2026-11-20T14:29:00+00:00
-
-## Between Reykjavík and Berlin: Two New Albums by Viktor Orri Árnason - Iceland Review
-
-- **URL:** https://news.google.com/rss/articles/CBMiiAFBVV95cUxOR1hrYi1VZ0lBMUtyRGFXcm83Q09aSk1BbjZDVG9mT2RZQ0tnUDM1bGRMRHo4SnRyWUYxVDhvQUk4TS1XOEZtdHR6cGNXVWJENTJ4bXlLMHNfQWtpTFN5dmtjWl9fY3Raank3eUNvR3A2RW0tSFRsQlB4SzNQem55TE5MUENIVm85?oc=5
-- **Source:** Iceland Review
-- **Published:** 2026-11-20T14:00:31+00:00
-
-## Best and Worst Months To Visit Iceland: A 26-Year Weather Study - Guide to Iceland
-
-- **URL:** https://news.google.com/rss/articles/CBMilAFBVV95cUxNOEQwLTBnZlNhV1E2TjY1b2N0ZFFsQmNpSUt6aVV2VWowQmY0MndfVlAzWk1vQ05zbUhPZjVxTERicGhEV2R1YThvU0pwLWRGd1hBajZHN2ZDZWdxWUNOZWZ1SUx5TU84SnN6TDFqUkp1MnRxa3htSzlyYWd0SVlBUHFjdFhlYWY3YTJKT2FpZ0JLcEp3?oc=5
-- **Source:** Guide to Iceland
-- **Published:** 2026-11-20T12:52:10+00:00
-
-## Milestone for Icelandic tourism industry - Iceland Monitor
-
-- **URL:** https://news.google.com/rss/articles/CBMilwFBVV95cUxQWUpiZGlMQlQ1RF9yUEg0TFNkOV96QnN5NUdTUktHRE1kS19GNTZValdtc3A2Zm1FUzE0REpPVzF4ZTZyYlgtVFl4azhHWkV6QjBibVRzOVdqb29TTkZxTnFIYW1SVzhGNUpvbElXODFTQXlKcnd5MjZob0pqTzR4VTQwTHlCME9rYXRMTERwcHF5SW56eWR3?oc=5
-- **Source:** Iceland Monitor
-- **Published:** 2026-11-20T12:09:00+00:00
-
-## In Iceland, Ali Wong Listened to Björk’s Jazz Album and Covered Herself in Silica - Condé Nast Traveler
-
-- **URL:** https://news.google.com/rss/articles/CBMisgFBVV95cUxPMEp3cWdwdFpOS2oxa1lEZV9OeTh1NXNSbHc4V3pBTklHTVJ0eUZ4UWh1S3Fpbk1TQ29QR3dkeHlGZFNWdzg0cl9jTlJEOW5yUFRlOFlQT1RXLVNOMm8zSjJzZHdDN0FadGZOZUpMSnlsY0lHb3BrcU9NS1U1WV9KNEtVbEVVc08zeWtPc3pITUpYYkRjUjFRTzAzRGtEdXg2QTdhRjY4Uk1TNi1pTnB4Mmdn?oc=5
-- **Source:** Condé Nast Traveler
-- **Published:** 2026-11-20T12:00:00+00:00
-
-## EODMU 8 strengthens interoperability with Allies during Northern Challenge 2026 - U.S. Naval Forces Europe (.mil)
-
-- **URL:** https://news.google.com/rss/articles/CBMi0wFBVV95cUxPaVBOZm1ob0txWGFHbkItRnIyWHAzQnpXdEYybVA4R3A3M1FVTlk4RU5UaDJtNU81YXdRN2R1VEFtRER0bnVNbEtjN05RclpOLS1DakJMZ0RqWDhiTWlETVlSOEpPUEduSDB5VUY1WE1QUDg5eFM2RENjeGFhcjRhdl9kWHd6LXFmR2FRejNnRXlrZGVSRURYYXhrSXFsRVdOR0pLaHByZVlMOTBNY1Ewc0FDYVJmRC0zUkhxZ1MxQTc0anVzR2t1T1MxTE96OUZ0dnpZ?oc=5
-- **Source:** U.S. Naval Forces Europe (.mil)
-- **Published:** 2026-11-20T11:41:55+00:00
-
-## Icelandair Pilots Postpone Indefinite Strike By Three Weeks After Mediation Talks - aviationtoday.in
-
-- **URL:** https://news.google.com/rss/articles/CBMiygFBVV95cUxPZWoyMVF4LUE4OVFIS2ZQSFAzZUZScmh4eEUwWHZmMjF3RjdEb2xwMUsxYV8yWWNRTXMtRHV2bjdYMDJ4STFNX0Vpc2lmOE9KWlJoNFgtckpLS2pFYll3d2tqNERZb1lrVkhxZnhiUUlQVXBjUndZQXBYRTVpM2djbE40RU96VF9HTXhMNVdJdDlfU2NKcU1aVFFReEUtSy1CbmNpNVNPQmlkWjdJSXZuWnhod3VZVV91T082TTJJM0EtbFJfdEY0T1lB?oc=5
-- **Source:** aviationtoday.in
-- **Published:** 2026-11-20T11:09:32+00:00

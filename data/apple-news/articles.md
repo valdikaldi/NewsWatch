@@ -1,8 +1,20 @@
 # NewsWatch — Apple News
 
-_Last updated: 2026-11-22T12:19:27.853219+00:00 · 50 articles_
+_Last updated: 2026-11-22T20:36:02.004198+00:00 · 50 articles_
 
 ---
+
+## Apple Inc (AAPL) Stock Price Today: $342.56 - Pluang
+
+- **URL:** https://news.google.com/rss/articles/CBMiWkFVX3lxTFBNZmlSajVkQjRjcDZSYkZmaDY3MDJMMENMVmo0cWRaZTdKZHl3M3BHTjFoNHF6VTVZcno3WEh2ZVJUcUFqRFM1ZTNqY0lHbmVJWFFUbEhFLWxYQQ?oc=5
+- **Source:** Pluang
+- **Published:** 2026-11-22T17:15:48+00:00
+
+## Apple AirPods Pro 3 just dropped to $169.99 for Black Friday - USA Today
+
+- **URL:** https://news.google.com/rss/articles/CBMiywFBVV95cUxPNjJrVDBDX1NVZlJwaXpmZklEY0JvcnNOTl9MbGE2VDFuQXhYTkVIUWpJa2QtM1l3NEZrNlpiSEJSd1ZTZjNJTmtuZUh0dUVIZTZJMzZES3JadU1mMVRhNkJ1ak82MjVYX2o5cnlRZkF0bHlpX01MNV91cEtXejEwYjlSaDQ1cXdPZGxiREw0c1VCSVFHeWVHazFPZ3FBeEFuWEJJU1ZVdGlmazY2YVU0WlZ0ZEFPN2RlMmNrNWFpYUp4UkhIUzBTaVg1dw?oc=5
+- **Source:** USA Today
+- **Published:** 2026-11-22T16:23:00+00:00
 
 ## Apple Weekly Recap: Palmer Luckey Criticism, Leadership Changes, Insider Selling and AI Rivalry - Apple - Benzinga
 
@@ -291,15 +303,3 @@ _Last updated: 2026-11-22T12:19:27.853219+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMitwFBVV95cUxNRUdRbDdWYnBKT243QUIybW9xNXhpNnowTlBlcks1OHc0T19fMmZER3c4LUROTUFZT21lT0ZEcWxyLTNId1dNSWQtdkFhRlI4WnRmNGxRY2xWMmNROFlYOHdYcWtONjNhWjdfTVctZjlQRDlCS2tObU5TVjE3TC10QUVaQkZjNEhtdENLa1QxRnZLZDhUTUQ2ZVYtZjViXzVDNnNrMzd1WmxqYnpjSHdPVy12OEtSM1k?oc=5
 - **Source:** MarketBeat
 - **Published:** 2026-11-20T09:59:45+00:00
-
-## Apple Inc. $AAPL Stake Cut by Parametrica Management Ltd - MarketBeat
-
-- **URL:** https://news.google.com/rss/articles/CBMitgFBVV95cUxOLWN4TGtzYmxDUDNOZGVJYV9mZUJibkRfMm5zT0dPMGYtQUZKZmYwSkI1NkxVTlZETVhpeEJlYlRNaFFYSHdXLWxiYVhGMHFnaTNpa3JrT3RaczB2OXc4VXpxSktWbWNUX0ZwaUVlZUtST3VRTDB4RkluemFvTUpfdnlCU0hqbTdGLXIzUkUxa1EyOVNUWklSU1czd3lNaWhiVnZhUldRbDFzVHFjZWpnem9jd1ppQQ?oc=5
-- **Source:** MarketBeat
-- **Published:** 2026-11-20T09:59:44+00:00
-
-## Apple Inc. $AAPL Stock: Sigma Investment Counselors Inc. Boosts Position - MarketBeat
-
-- **URL:** https://news.google.com/rss/articles/CBMiyAFBVV95cUxQRWcwd1lMQWoyMHlna3JZVmhkMmt5VktsMWRpbWw3ajVUMURRSjRrOXpsTHc3WmdnR2tOdk42UG1yQ3NzUTZuOVc2VENkU3FzeE52QjdNVzdhSzVHSXRQcWFuT1Q3N3JkZUE5U3VlSXBmQ2t6ZWZ4RUFvSksyaTFiQ0NoRE5NeGhmT1EtQld5VlFlX3AwSV9hY1VkTDc2bk14a0RhOGwzWkdUQlVUYk9iQ181UjhFaUhra19ZUUdCSVJxRTRTb05sMQ?oc=5
-- **Source:** MarketBeat
-- **Published:** 2026-11-20T09:59:44+00:00

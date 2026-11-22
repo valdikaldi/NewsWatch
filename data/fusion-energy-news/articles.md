@@ -1,8 +1,68 @@
 # NewsWatch — fusion energy News
 
-_Last updated: 2026-11-22T12:19:33.873542+00:00 · 50 articles_
+_Last updated: 2026-11-22T20:36:03.290655+00:00 · 50 articles_
 
 ---
+
+## For the first time in 17 years, the world failed to reach a consensus on climate change. - Vietnam.vn
+
+- **URL:** https://news.google.com/rss/articles/CBMinAFBVV95cUxOTDRUVEhRWjM4LU8wVkk3ZlZtTFNQcmU1dWFFXzZzbjh4VDNITnprTEkyY1U5SVlyZDBxWkl1RmZyck5mYTQxNGVUaDRsZUZPZWFSazhLVU5PODBkZVB4WFUyZXp3NXI3VlV6M2RZRnVqWTFucHBOMHRscnhSN0dnQXZ6UkxtZi13NzNZZGRqRGpITktMTWlyR2hPMko?oc=5
+- **Source:** Vietnam.vn
+- **Published:** 2026-11-22T19:57:08+00:00
+
+## South Korea launches funeral services for pets. - Vietnam.vn
+
+- **URL:** https://news.google.com/rss/articles/CBMif0FVX3lxTE5oUGZLb0x1ZGQwRXBSRWNpRHhfVTF2UlVZSkxFdUlZUW1LNFRPR0xUX0tNOFRRTi1rOUI5UjhQdWRpc1laaF9lcy1RVk0wbng5S3FpQVhMOWRhTjluM0U0bVBiT2lxMzVvSF9CNXYya3dSLWRENkFMZDA3LU1EdWM?oc=5
+- **Source:** Vietnam.vn
+- **Published:** 2026-11-22T18:05:42+00:00
+
+## Google Backs Superhot Geothermal in 50 MW Oregon Power Deal - Crude Oil Prices Today | OilPrice.com
+
+- **URL:** https://news.google.com/rss/articles/CBMisAFBVV95cUxPVHVEcU1fZl80SEtGUHkwRmY2dEdIWVBiMXk5Q0NfVTBnYUh5b2tNZVRIbnRfeXc5aWc0Nlg3WEJFeF9yUFgzT0RjR09majhLak53bEh2N19UbG1vWlNXUWxOZk16ekJiUldWaGlhQV9jTjZKM2VZbERJVG9QSmsyZVd4WkpfZUFQWjU3cERrV1BZWWVLQWV3LXk4djd1dWItaWlseU94V0gxdkJIZzZSNdIBsAFBVV95cUxPVHVEcU1fZl80SEtGUHkwRmY2dEdIWVBiMXk5Q0NfVTBnYUh5b2tNZVRIbnRfeXc5aWc0Nlg3WEJFeF9yUFgzT0RjR09majhLak53bEh2N19UbG1vWlNXUWxOZk16ekJiUldWaGlhQV9jTjZKM2VZbERJVG9QSmsyZVd4WkpfZUFQWjU3cERrV1BZWWVLQWV3LXk4djd1dWItaWlseU94V0gxdkJIZzZSNQ?oc=5
+- **Source:** Crude Oil Prices Today | OilPrice.com
+- **Published:** 2026-11-22T18:00:00+00:00
+
+## Indonesia: Confectionery factory fire leaves at least 3 dead. - Vietnam.vn
+
+- **URL:** https://news.google.com/rss/articles/CBMijAFBVV95cUxPSTU1RS14bmNsRXdzcUc2WTRnTVZ4Wk05UG1GVXNFMGt0d2dPbVlsbktEamdSTnlPR0RjXzZsVzJGcHpVdzFsQ2JZZUpYVjRjdDQ4UVF3T3dYUGY5dEctbHJDTTNyd0VFNDFyajlHRzRONEpsa0VzR0ZJQ3M5aEFGNExrTG1wYkRpcVB3cg?oc=5
+- **Source:** Vietnam.vn
+- **Published:** 2026-11-22T17:55:00+00:00
+
+## Mysterious flying lizard-like creatures spotted near the US-Mexico border? - Vietnam.vn
+
+- **URL:** https://news.google.com/rss/articles/CBMimAFBVV95cUxPYTdfQ0Ixc2oyQUtmbWpNaEdVc0szdXZFNGQ1WWNmMXR2Z2hLNG5obWdyOUdDYlBlRHI4cU9zZHVub2IwOUFTRmJoa0YxYmF1UHVfb2dvUHFYNUN3YUJFTUF2eXY4ZTJtdS1od3p6ZXktSldrbFVXNzc4djFmTjRrWEhtZzdLTW45RHdfWGZuN1JNMXZrR2wtYg?oc=5
+- **Source:** Vietnam.vn
+- **Published:** 2026-11-22T17:18:22+00:00
+
+## COP31 failed to reach a final agreement. - Vietnam.vn
+
+- **URL:** https://news.google.com/rss/articles/CBMidkFVX3lxTE5ZWWlLM0lab2tLeUwtWHlKMnozdzdIdHI0NzExVlRHTmo0S0FfcVdzcEtVbDdxaThIYTNtTXBRaXh3enQxTnlvTjBwT2E4c2h6LUwyNzY3cS1CcThKdi1aSUVfYjVCcDRic1ZaS01MSGVSNkRhZEE?oc=5
+- **Source:** Vietnam.vn
+- **Published:** 2026-11-22T16:05:21+00:00
+
+## Russia expects to bring fusion energy into application from the 2050s. - Vietnam.vn
+
+- **URL:** https://news.google.com/rss/articles/CBMimgFBVV95cUxQNEt0SnkzR0RmRVRkOFozbXpiWTRvWjZfY05abzhUTFFVcVl6M09YR2ZBZ1Fyc2o2R0szVEhITkY3WXRzSzRDcmVuN0lCa21hZlRyRUFvQ3RlNU5nMEdZc2NYamNDUTJ0ckRScWVJbmIwYS1vSmh3ZmZqWXVjdHdDU1dOZFVJOXdmajBfRk9IS3k3R3FKdWFIUzlR?oc=5
+- **Source:** Vietnam.vn
+- **Published:** 2026-11-22T16:02:02+00:00
+
+## The secret to India's rise as a chess powerhouse. - Vietnam.vn
+
+- **URL:** https://news.google.com/rss/articles/CBMiggFBVV95cUxQSVpMeUhyZnpQVXhma2lfSGsyZWxhNkttQU9HN2xMbkF5bVlrSmpfZXp6OWdUSlhwRnlHQ05uUC13SjZ6Z2EzVlY3SGZ4cVpxZzJqT2c3Wk5MSE1RNG1sYUNISDBwYWJNWE4zN3JmQnNQcGJxdWhxU0dqRUkxREh0dUpn?oc=5
+- **Source:** Vietnam.vn
+- **Published:** 2026-11-22T13:15:54+00:00
+
+## Powering New Mexico's next economy: Why targeted capital will unleash our advanced energy potential - Rio Rancho Observer Home
+
+- **URL:** https://news.google.com/rss/articles/CBMi1wFBVV95cUxNbnpuZTkwNkUybDhXS0hLd1NvUDJFdnJxQmNZV0VtQjI2S3dnbDNDMDBsQjAwb25FS1NnMlgzcnc0aUdjMDlCQ0ljSTlJUjNhek1FVF9OaDVjTTRPdFAzclZILWItbF9aeVNVTVRSODdXd0l0R3RYWEFRa0o2bTFOd2NNYU4xUU00UmlBRTVta2NhVHRTUHczbGx4Q2NYZjlkMTU5aFRCNUJBTHl3TXF5Q2laUGxWT2tHQ3pPZ2pmWGdZdWZINU9oaDQ5NTVRWDVHeHhMUEpTbw?oc=5
+- **Source:** Rio Rancho Observer Home
+- **Published:** 2026-11-22T13:00:00+00:00
+
+## Report urges Türkiye to enhance tech capacity for fusion power | Daily Sabah - Daily Sabah
+
+- **URL:** https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQ2lHcEhKRmNzazRVdF9MLTRNQ285OUlyZk5pTVh4dUxrVHBzRU9vZ3d6c3UxbENmSmNDcEJnZjhSM3hvTVphbU0wQWd2NzJYTU5JSXhxSVBscEJCS01WWEtHN2xuNlNMUzB6VmtxVkFiRHNoSHlVdm9CMnlwOUs1dU1vZFdxb0pYTGJ4NTlMdUVDZkxUWFdBdUFUVzA0aDhVNU1oZmFjMUl6WUHSAasBQVVfeXFMTUNpR3BISkZjc2s0VXRfTC00TUNvOTlJcmZOaU1YeHVMa1Rwc0VPb2d3enN1MWxDZkpjQ3BCZ2Y4UjN4b01aYW1NMEFndjcyWE1OSUl4cUlQbHBCQktNVlhLRzdsbjZTTFMwelZrcVZBYkRzaEh5VXZvQjJ5cDlLNXVNb2RXcW9KWExieDU5THVFQ2ZMVFhXQXVBVFcwNGg4VTVNaGZhYzFJellB?oc=5
+- **Source:** Daily Sabah
+- **Published:** 2026-11-22T12:22:00+00:00
 
 ## Rosatom: Russia Remains Leader in Development of Thermonuclear Fusion - وكالة سبأ
 
@@ -243,63 +303,3 @@ _Last updated: 2026-11-22T12:19:33.873542+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMiywFBVV95cUxOVVVUNWp5eDNfcXpRRmVJTnNFVEFhaUlaREdoMGppaTFPSGV4dHNUNXpTd0dwU1hEemhjZ2lpakV5Vzl4bHFVbE1MVV9JSWFLWUpUTlh1N3g5bll2RGxueXE3Vl9YVklnVlRRRURXcXVQaXJ1ZGhCeGs0T2kxS0pscnRBeDNuQWlmWUxLZ0RVV252eFZCV2VPaTdRUGgySGw4Vy1yY0Z0bDlOOEJwdjBGbXlTRzRyU2J5Q29lQ1piRG1oZ2xPY25VajdpRQ?oc=5
 - **Source:** The City University of New York
 - **Published:** 2026-11-20T12:40:19+00:00
-
-## ‘We’re leading the world’: 5 things to know about Trump’s ‘Super Intelligence’ push - The Financial Express
-
-- **URL:** https://news.google.com/rss/articles/CBMi0wFBVV95cUxPbVpQV1psRTNDbzJjWHYxQmxCb2h1R1htSGNIMFN3elZLdjZKSlV2Y3o2SjVVTUhnUTNEd3RUUnJKMnR5QnZwSW1SejRNeFd6RFdkajQ4dVhtREwwblZsQ2FKMjZzWjNoMDVMQUlpRHg4T0Z1dGNGMDZRTHg4YTk3TklMZHpzcmcwRjJmdWoxT1NXZDc5aUVvZkpKSExFaUlwOU9XeVNJTDUwYVhzS1EtNENKWG05ZUZaRE9yZXYzRzhZYjJzNlBsc3B2M2dvNjNqRE1n0gHaAUFVX3lxTFA5TFBWTXhiRUZ2VDh2bUNSeWVSSXViUkpQZW55U3FEMXBORThkV0xMZjFfUy0yX0J3VE41S2YyaU9SakpOc3Q3YWEtNjN4djNGSkVzM2lNYnJrc0Nuc1pBbGhHWnRsNzQtSG1Edkl1LURtc3V6YUZaZ2JvTVExczBfaVhiOXA1eF9Rb3ZFTUhKYjlTY1RKcEVJdVJOYzExOXhieER4NWdLakt3eFl2X2ZFb3d6d2V5d3dyaG9oNHdzQ0E1b2lyNExUVHhEdmhQNVRWUVNXRE1MWkFB?oc=5
-- **Source:** The Financial Express
-- **Published:** 2026-11-20T12:39:50+00:00
-
-## INFINITY partners with AtkinsRéalis to help shape development of advanced tech campus in Derby - Love Business East Midlands
-
-- **URL:** https://news.google.com/rss/articles/CBMi-gFBVV95cUxPUzc3NzhweXJiLTVnREVGMGxCYlZLZXQzWkNVd2RCRUItSEpiWXljOFJmZnctaTBoV2Z1am40YWJXWW5rSXBZRlphOWRsYU9xemp0TUViUl9vSjZsVXJ6WFBWR1dBNnB2ZU12Y1RBTjBLR19pX2dsaG1Od2tZNHUxMHRNTk9RU0pEbnJtX3RGcldISDVPNnAyR0NYMFVWamY4WE90MEN4QjJZVW0zVHVMQ0F6NEVxaHdLLTJvX28xRW9adEU5VnJHbzdqOFlkOHctUXM3UDFEcXZLUHg0NzdtUlRBcEc3cGZQcWRFMUdLMGQ1dWc0cmhvS0V3?oc=5
-- **Source:** Love Business East Midlands
-- **Published:** 2026-11-20T09:02:34+00:00
-
-## Is commercial nuclear fusion no longer science fiction? - The Student Life
-
-- **URL:** https://news.google.com/rss/articles/CBMiggFBVV95cUxPRFQ0NjRqYS1uVkRxUzNwRnU5ck5aVmQxcURUUVctckZ1ZFJzX3R1NG9zamFVbEtmUnFlX0NFZFJSYnVLOVhKQU14RktjUjQ0MUxLTTQ2WGVxUnpELXhUSTRyei1ZTHZjVUh3eDVxa0RHby02MGkySkthSHVpdFhUYndn0gGCAUFVX3lxTE9EVDQ2NGphLW5WRHFTM3BGdTlyTlpWZDFxRFRRVy1yRnVkUnNfdHU0b3NqYVVsS2ZScWVfQ0VkUlJidUs5WEpBTXhGS2NSNDQxTEtNNDZYZXFSekQteFRJNHJ6LVlMdmNVSHd4NXFrREdvLTYwaTJKS2FIdWl0WFRid2c?oc=5
-- **Source:** The Student Life
-- **Published:** 2026-11-20T08:18:17+00:00
-
-## Nuclear’s role in Europe’s net zero energy targets - Innovation News Network
-
-- **URL:** https://news.google.com/rss/articles/CBMimAFBVV95cUxQbktDbkdoaXFaNThuNURtamtHRGhoLVdIZUNjTU1zSEpDUzhlVzR1eGl0YjBkc3RSOVItaEVuSzdGODIwS0VSOUpwcXhlcHc0QW9wV2F3WlcyMTVsaURuMER0N3VuQ1JBay1VM2lXVEUtck9aZGg0MVpvNGJJVms4TWVZNGxBZEJhMFhQc0E4aGxqc0tGRjRFbQ?oc=5
-- **Source:** Innovation News Network
-- **Published:** 2026-11-20T06:57:24+00:00
-
-## Solving 40-year Puzzle In Fusion Energy - Mirage News
-
-- **URL:** https://news.google.com/rss/articles/CBMigAFBVV95cUxQa096b2tLSFAySEpuSlAxTXdXVE4yUXhfQ0VfMzFTUTRWU1c1dTFkcXZQTWU4a3E0allJbHR4ZmNCaE1VTmdqSWdES1hkNGo1azJSLVRhZ1FvYk1Td1dRYnBKSTNsNHUtSWp6V0xMUFg5OXlPb1RiSHF3OXlZTnRRTQ?oc=5
-- **Source:** Mirage News
-- **Published:** 2026-11-20T06:14:00+00:00
-
-## Startup Proposes Fusion Reactor That Turns Mercury Into Gold - Wisevoter
-
-- **URL:** https://news.google.com/rss/articles/CBMijwFBVV95cUxNNDdxbXRUTk9xb3JqX0VWZVQtN25SQ015bktqa3JFN3RpT0ZjdXZJN0ZjZTlfdE4wdXRNWnBVci0wN2pYdWlqZXU5YzV6X3YyVlZZWWt1ZEcxQ01DZjdpeWlOd0FNUi15MlZnelU2WHJCamtOVWdWOTE0MlJidFAzZHBlWC1LU0tLRUViblR1QQ?oc=5
-- **Source:** Wisevoter
-- **Published:** 2026-11-20T05:54:50+00:00
-
-## General Fusion Group (Nasdaq:GFUZ) - Stock Analysis - Simply Wall St
-
-- **URL:** https://news.google.com/rss/articles/CBMihAFBVV95cUxPdHR5cUNXNkJpN3BjYnEwVEU4QUxJcndiN0F4T09mQ3lWdzY5ZmlFRVpHUFVfb2Z4b3cxQWRMMlhEajB6MTgzcTZGNU9XSnlxcWQ5TGJaOTR6dFBic1ZLcjlQRGJtclI3ZDdOS3IzdUtzdmlCVkFXNC03Um1KUll5QTN2TXc?oc=5
-- **Source:** Simply Wall St
-- **Published:** 2026-11-20T05:34:54+00:00
-
-## Grouped Moth-Flame Optimization Framework Enhances Autonomic Cloud Task Scheduling in Simulations - Bioengineer.org
-
-- **URL:** https://news.google.com/rss/articles/CBMivwFBVV95cUxOX2xUNTJBY2thcHRycldLRElnQl9rRkQ1ckU1Sk1vM0xxSV9nNVVVV3lOYzEzMnd0eU1xT3hITXQ5TkNDMDR2ZE5kNnFFazQtTEg3bEctbzVXS3NBMlBQbmJ5RVNRWEhLNmdkTHpBN3RjUnNtZTQ5S2YwMlFaVUhYRWFDbzdtQW1CSWNLbG14YmVIb2ExU3gtNklGOGMyZVNtODUyMk1ZTkxOU09DazJMUExLdTdzWGh3UEY3VTQ4bw?oc=5
-- **Source:** Bioengineer.org
-- **Published:** 2026-11-20T00:56:50+00:00
-
-## News by CNBC TV18 on TradingView, 2026-11-20 — cnbctv:3db467594094b:0 - TradingView
-
-- **URL:** https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5LWDg5SUdrY0I2TmtjSlppdDFGQjVpXzZGNlRMdVF4UTZBTGVYT0hlcHE4endVTmNCSlVUb01mQkpmSDhnR3BSb25xMWNfNWVEVjRpTkpIeDYyaVR6eXFnUVdVdDlsTTQ?oc=5
-- **Source:** TradingView
-- **Published:** 2026-11-20T00:01:00+00:00
-
-## Nuclea Energy adds Moltex assets to nuclear portfolio - Mining.com
-
-- **URL:** https://news.google.com/rss/articles/CBMigwFBVV95cUxNY0FkUFBrX1B4THZ5M090anVpc0x4ekE1RXllRy1ib243SDFESEJVYXJiV3JHeHM1ODlSMWtmNlpaQ0ZrczZUQmoxQVp1MEdWcGFZYmpBbVZlU1R1QkhTby1Fako5cUlRRVpTeVNPNlR3Q3lDZTVkbXVGOXlpc21HT0pYUQ?oc=5
-- **Source:** Mining.com
-- **Published:** 2026-11-19T23:31:15+00:00
