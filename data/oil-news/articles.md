@@ -1,8 +1,296 @@
 # NewsWatch — Oil News
 
-_Last updated: 2026-11-22T01:56:09.623098+00:00 · 50 articles_
+_Last updated: 2026-11-22T12:19:35.287963+00:00 · 50 articles_
 
 ---
+
+## Over the past week, the defense forces struck eight Russian oil infrastructure facilities - UA.NEWS
+
+- **URL:** https://news.google.com/rss/articles/CBMipgFBVV95cUxOeXBRTGZGdzNIQ1RiTnFHU3czbThFTGN0NnlWcE1DN3U0di1VMWFMV1VGcGtkdzlOSGNialplV2J6QkZBTnNtYk9IXzh4U2JxQXRXMUNaNUQ1VkdtSkZjTUFYWUZGUzdOaGlIS3ZQdTFyeFlvYk4xVVVIc0hNdTllWHk3dVlQdVp2dkNud2pMcjJITjUyQ0tmMUxtQ0tSQkNRQmtwenVB?oc=5
+- **Source:** UA.NEWS
+- **Published:** 2026-11-22T12:00:57+00:00
+
+## Ukraine's Defence Forces strike eight Russian oil infrastructure facilities in one week - Ukrinform
+
+- **URL:** https://news.google.com/rss/articles/CBMi0gFBVV95cUxOM3NsU1FOLVNnb2FGWXR3cDlZTTJhcFBxUDFZamgwVDUxeHlWV0dKR2tBYXlxWm03TFhhYmhMVHpBbG9UV2g5Z01uanU0NWlGc19zN3I4QzJpb29XTUxvbW9SYTRuQ1h3UDR5a2pXSEczemtCci05Q25iWUtqYmlsN2JnMGJ4ZUdSX1FzV2JicHpBczBxei05RFVCTDNpN3JBb0FpQ081aHRxaDZIc1VLZTJBT3VlLUhRc1hvTkV1dmJ2MG95cG15aVk4R1FpY2hiTHfSAdcBQVVfeXFMTjY2T2FLclp5b2lDek9XNi1YaUZDakJ3V0lzY09ld0QxeVQtSm1HVkNMYUVFbUh2eWpidTVZY0JLam5lVjVwc2w5WWdIMHBVZzFsTmxZZzhBd1psSzY3M3BBRjdYTnYxLXBPMkM0empYTEx1MnZVNW93T2tMbFJ4RjRIWkdwM2JMVU1sckM1RE03X0tUS2d6NDAtZHpDN1k2NkNHc0NnRTF2MU1PUXZiSXpYc202OV8xYm9tLVFoQlRvMHAxd3BPTE8zR2Q3VWNZeUM3Smw1WEU?oc=5
+- **Source:** Ukrinform
+- **Published:** 2026-11-22T11:57:00+00:00
+
+## From Turkish oil wrestling to Saudi falconry — Ethnosport brings ancient traditions to Riyadh - Arab News
+
+- **URL:** https://news.google.com/rss/articles/CBMiygFBVV95cUxQMmExYk03OUliQXctSHd4NTBQbkhkLU9XVmxZcm9DanRpVFdxOFdFZ0ZmMG15UVhMcnByMF9GU2FNMFJNVVhKYVU2NHF5OFRNdDdmd2hHYVBuRFlaM0FVS3pqRWxaMDFLYjBCcjFSZnN3V0ZpRTA4YjBEYk1nNW5Cc2pvSXNCQXFYY3VleTVHLUxvQlRtbzBid2F1cmVhMnU5SkwteTBhdkNHMWVrVkwtV0JwYW04TlEyYWFsMEJid3Q1VjFoMTBxTFd3?oc=5
+- **Source:** Arab News
+- **Published:** 2026-11-22T11:47:12+00:00
+
+## New Texas Railroad Commission member wants faster oil, gas permits - Marshall News Messenger
+
+- **URL:** https://news.google.com/rss/articles/CBMisAFBVV95cUxNRXNzYWxHc1phY09uR3M5RmxMS0k4cXE3YU5scTUycTJxVllsalV6WlRfQm5YX1RYV201bFpQekZLa0c4Q0xEMU9pOUJRbDg0ZV9aMWhPUFNBdEl2R2JjZXJ2X2h3MU5qMFkySnJyTE9qUFR6VnBzbmxnejJ4UndOeWd0dXBSZmFqRHozbDFmTzZWRDlsVVQ1b3hDaHFDMjZrX1R3cG93bzhyT2dxUm9UNA?oc=5
+- **Source:** Marshall News Messenger
+- **Published:** 2026-11-22T11:44:33+00:00
+
+## Oil Companies Reap Windfall Profits From Iran War - Deccan Chronicle
+
+- **URL:** https://news.google.com/rss/articles/CBMinwFBVV95cUxQd3d1b01DdFBxUm9VS3ZYMDI3WjAyZElsQ3RwR1d1ZVZKSWduMWVmT1ZCZEowVkg0MGp0Q2NOVERqVk1rQWtubmhoZVFqNE0wTjBEd1l1TERLc0txUjRoX1BMTTAxckZyS0NFczJncWZBdjFOd2ZmYTNHRVJvMG5tOTFEUThsWmVRTXhUUWlTNWk0QnNmc3FBRWNjanFlUjDSAaQBQVVfeXFMTVpuUFFZdTNxVGJpQXl2WmZ3NkM0Rkl1ZHN1SnBpSE1vdDM0cnR6RDVxbWtXdmplU0hfVmtkWjYyRnlpb2ZXMEN3U2dFNjVOODJLNTV0cXhlekVaNDBnS0xQdXlWVHpqS1B0NXpiTmVIbUNBNGx4UmZ1UUFlX2tVbUJTeXdGdEdnQ013bG85RU91ZVVXQVpxbUVvNVl3OWpnQjl2MXc?oc=5
+- **Source:** Deccan Chronicle
+- **Published:** 2026-11-22T11:38:45+00:00
+
+## Iranian researchers develop ultrasonic technology for fuel oil desulfurization - Tehran Times
+
+- **URL:** https://news.google.com/rss/articles/CBMipAFBVV95cUxObE5yWlpKMUU3aDJEWFNMM29pNUFNVW1IWDBKYjFhRHJxYnVsWi1UVzBDRWpGZG1NZHBMRWtuZ2FraDRVNU0zODJYbFJNTEd6ak1kN1FPVVgxOFIzYWh0YnhGeEV4cFhVSFYtbzJrdXgtVE01VnBlblBPd2swLXBXSS1wdkhoelh4amVqaGYteHBNNGhHd1ZIQlctOGdxNzhiOHk1ZQ?oc=5
+- **Source:** Tehran Times
+- **Published:** 2026-11-22T11:33:47+00:00
+
+## Kurdish leaders reject Baghdad’s demands on borders, oil, disputed territories: Source - Rudaw
+
+- **URL:** https://news.google.com/rss/articles/CBMiakFVX3lxTFAzV3Y1dGsxV183dTQtdzFwSGJPWmg3eEhZWDMtMjlKMFl2UzAzX2dYQTZ5UHlud2cyTnotRnY5RFROaTJaRkd1WUpIUENOc1hsZHBTaG45WTRhLW1lZmdaMHRSTS1xUzZqUmc?oc=5
+- **Source:** Rudaw
+- **Published:** 2026-11-22T11:13:25+00:00
+
+## Iran strikes 3 oil tankers as it shows off new missile launchers - Salina Post
+
+- **URL:** https://news.google.com/rss/articles/CBMic0FVX3lxTE9JcUhmWnpZZ18xZlhzSGRMbm9Pckx6b0NaZTJDdFVzaG1TMHJCNDN6eW1CY1hkYnJkM1RPYVRORHJqSkFyTGNkc0ZSb2ZLYUhrYlYzX2N1X2dxeEN5TGlaY3dLeTNBSlh0Q1k4STZLLVlLR2M?oc=5
+- **Source:** Salina Post
+- **Published:** 2026-11-22T11:10:52+00:00
+
+## Valmore Confirms Natural Gas Price Adjustment for AlexFert - Egypt Oil & Gas
+
+- **URL:** https://news.google.com/rss/articles/CBMikwFBVV95cUxNa3JPSkFPWi1vLTNGNmV5T2w1WXJLQjJOOE0zVm11bGxLMlcyb1RlcnBuNWNfaDZkR0tpWVlzUTVHMTZMWXE4NWp5U0FxcEhSVmJSWkttcUVQMHVEVGRjRDZaTUxjeXdBQUJsWXBuQ0NmemxDdEt4U3hlai1WU0FlYlZibGpzVHlNRDRWMHVFd2cxRWs?oc=5
+- **Source:** Egypt Oil & Gas
+- **Published:** 2026-11-22T10:58:06+00:00
+
+## Bahrain says Iran struck industrial site as tankers hit in Hormuz - Arab News
+
+- **URL:** https://news.google.com/rss/articles/CBMirwFBVV95cUxQNnJaT0hHdUU1SkhzbENpTjFRUjFpeEJWazBDX1JPdFdNU1RPRzI4ZmpLYlpJdkdFYlEtRmRyWU0wSU04UlJ1Y29IYjdKamJEbTc4dlNpSEFiUVdmRkdsX01SUnRDNEVaVFl1MDk4UTZBNU9vMEFJdVRyanNvTngwUldDckR6dUUwMFVuaFVtSloyZldiMEJENHZOUTktTzFPTXI5dU53R0J5QW9LYm1J?oc=5
+- **Source:** Arab News
+- **Published:** 2026-11-22T10:54:39+00:00
+
+## Oil Lamp Theater Presents “It’s A Wonderful Life: A Live Radio Play” - Choose Chicago
+
+- **URL:** https://news.google.com/rss/articles/CBMitAFBVV95cUxQWXFlOVFPRDUwbDJPVmlYeklLcmx3NGczTTFNZnVnb1NJTTFUSVF1MVV5M3k2Z3JiRHU0ckNTWERTUDNXZXd5ZkprZTBlNERlMy0yVnF2dEVoN2RVQ2dkd01rR0t3M0lfRzZaMFJPLVVkTGw3WkdHUlowQ2txdDZVS1RyV1pmNG05bDJmTzB6LXBrYUM2X3V0MDlnT0dYLV9aaHBPTHlwTi1pbVJGRlprQlM0cjA?oc=5
+- **Source:** Choose Chicago
+- **Published:** 2026-11-22T10:16:05+00:00
+
+## Iran's high-stakes gamble: breaking the US naval blockade to force a swift endgame - Ynetnews
+
+- **URL:** https://news.google.com/rss/articles/CBMibkFVX3lxTE1JOVRoYUNVZVJDcERjLXExdHcyQ2x1bXVycWs5Zl9ZUTAteXZDNEFfbU02LUVHN0Fyb0VqSFVvM1RiSzlocnE1eE8xMUJWWm5yNEFmWkdiQzRBRzhGdml1Qk5UVEhBS2RjUFJONi1R?oc=5
+- **Source:** Ynetnews
+- **Published:** 2026-11-22T10:04:33+00:00
+
+## Huge pollution verdict against Exxon may open the door to new legal battles in Louisiana - The Shreveport-Bossier City Advocate
+
+- **URL:** https://news.google.com/rss/articles/CBMi3gFBVV95cUxNeENmWkVub094YkFQa0tSeHhnelV4djJ6bFk5NmxJRWlZREUzZlVZbWhfZm5zdDJQN3FySGJTRWx0R0xnTDBrQk1PME1TYTVHZU9taEEzRmRJTnM4bVBiQTRZOU1aU3pHQV9Cby1KN21aVThSM0lyZWV4cnV6RXpMdnNMM2EzTzJHcW4tQnJJY0dMMlo0MU51amZkX25SWnFlU0ZOSHlRVW4zQXhSU1lPZi1XVGl0c1BUX2dHWFI0M1dVd1NfRW1MTFNtMkphSXZPYko5UEoyVURZNXh4ZGc?oc=5
+- **Source:** The Shreveport-Bossier City Advocate
+- **Published:** 2026-11-22T10:00:00+00:00
+
+## CalMatters Commentary: Californians paying for oil industry’s risky Plan B: burying carbon dioxide - Daily Republic
+
+- **URL:** https://news.google.com/rss/articles/CBMikgJBVV95cUxQS0E0TU8wMlVDakRUSHVMRjI5d3lENnlJOW03bVIzcUZvXzNSOGQxMGxBWFZKVHRaeVVtcmpidDBNRExOSlNKbWhBZXFscXFzdWZpcFYtX3JQWXBKeW1GaFlSY3NWLWlTdkZtRm0wWHlZcXptWkpYMkN1SWpnLXBJZXpUZXQ2RlpWNkZXOWtmamo2VWRNVmdTeXpWdDVLZXExOS01THBzYUE0RnBnRmNDamxIaW5tR0cyTVpYa1dsUjVDSEFSeUw5NS1qcF9VMTB2UEl5TktzYmJ0dlkxRmJPbFBXTUFfRkpMelJkWF9YRzNVaXR4WHYxU0tmdWJvc2sybzJMU3NSb0FVdGx1MGtrZThn?oc=5
+- **Source:** Daily Republic
+- **Published:** 2026-11-22T10:00:00+00:00
+
+## Russia, Saudi Arabia and Australia named biggest fossil fuel exporters of CO2 as study traces global warm - The Times of India
+
+- **URL:** https://news.google.com/rss/articles/CBMi6AJBVV95cUxQUW1neW1jbmV5Z1dhUWpiZUVCWV93YTllblpSeXM3bERITTBqc1c3eDZuUFBTQXE1QjBaQ0l2ODgydGhONWh6TW9LNjZmTlZkSEhhT0pqV2FFY21mV0JHeDgyYWE4c0M2NU80RGJpM2lyQWRqdXFCRFNWRmhjdFlKWTdUbDNtQ1RKNXpOaktSR2Q0Q0Y4dlpmQnV1bzRxcmpxdWNZaWdMMm9wS0tjMU1UWnp1S0Q3ZkdXd05sVFFfdTZuU2RPaG1YcmtPRDhoWlctS3gxajZLejRrTnZReTN1WjRuTEVzLXZpM3NBckxWVElON2lrb1NPWmVkOE80Zm5yTGxBdW5YRGc4VGhYMlZKdWhVbDNTaXdJcm4xaWhHZ0JoVUF1eWF6UlRncXFsRGhLZWtqX3UxRWVJSWhQN3pOYUJ5TnNPem5XMWNlb2t3RHZqWkFvdXFaT01OZDdBamdIRmVzaG82bXPSAe4CQVVfeXFMTjZnUVcyVTlleFF5emppUWZCb254NkJJRGJKM0h2bTgzZk5YT2hiUXJ1REN5LVBmU2pvSUVuTF9SekRFZnFYandSN0ZiNkNVcUVsSnpMRlZYZWpPNXNhMHFpVmwyZjNoTUgzWENFc1FLMF9fQU9VM1lWQmtwT01ZWk5Ea0FCLXNNU1liQTdBTFdTOURxcUdHeDhyTGZ4MmtDU2I2RktRSl8wU2owNEI0cmV6TzJZSWVZVDl5MURTV0pGcm1OV01ER3lIRkJuY2FZUUUxQ0ZYOGhUWWRRUElDWFgwZm54WWdxUHJGd1NKazFiM1ZlRTAza0t2R3JDSjRGNjNhZmVrNWprVElJc196NTNsVGdRNHR3RnEtM0ZKeFN3akdiRUhNRVZURXpVaEpZaXNrdDVTMHJiU20wU21oWmViVndpZW1ENDVocEdqNmdsX05jMUowQUlnanhZbDdJaTVxc3ROTE9fM1R0OGhR?oc=5
+- **Source:** The Times of India
+- **Published:** 2026-11-22T10:00:00+00:00
+
+## New COP31 draft Cover Decision would be gift to fossil fuel industry - Oil Change International
+
+- **URL:** https://news.google.com/rss/articles/CBMinAFBVV95cUxOMTNwM1cwNFN2WEhQNmhScW9aRmgtd0Myb01PakRxUE5uTXF3dzgyMEl2T20xWjhSQzdLZEloMC1RNGlSeXNVNWhleEtfTVhRRTNEZXhpM3VjREJZY3NxZ0Q2Y0lPTHNPenM0cVQ1M0tsbnpBSjVfX1E4Ym15dE50Z25JNG5QY1hjTmZrb2I0ZGIxcHpVck45UzFPZWU?oc=5
+- **Source:** Oil Change International
+- **Published:** 2026-11-22T09:56:15+00:00
+
+## Tracker says Iranian tanker reported in Strait of Hormuz is fake - Euronews.com
+
+- **URL:** https://news.google.com/rss/articles/CBMixAFBVV95cUxNaVRCYVIyR0tZVjg3NE9uV0ZCaWdIR0p1bzE5OE13U2E5blhjdjk1eHdMTnp2N1ZoZ1BMOUt1X0tORVptaWhnamdUdHd2NkxoendrbURLVXc3c3J4b3MyOFNVWTNCR0F0WWV1aUZyUEVtcDZydzAtMmJldnNTSnl6ajNUN0FPTmpCR2JCM1NxQ1FiRGxxUXdMWV83ZkcxOFVwZlhERS1JZjhXOXk1RzhXYk8yNm1MWnpQTFZBbmhVMlhxR1d2?oc=5
+- **Source:** Euronews.com
+- **Published:** 2026-11-22T09:54:50+00:00
+
+## FPI flows, crude oil, global trends to dictate market movement in holiday-shortened week - Rediff
+
+- **URL:** https://news.google.com/rss/articles/CBMiywFBVV95cUxOb1ROTlA3bWFwVXllT3NuQWlQZFcxOHdCNmI0OHA0M2FuTkhfckFxNXJfbGR5aW5QRjgxWnJ0eDNmS2g5bVRaWFVMRHdUYjZiSzJhcUJmOS1ncVZ4YUc0WWJkbldnNFVuODhwRXduZG1BSW9RZHVFRVJJS09wVVRlSTV0b3pzeUM3NnZhV2YyaW1yNE0tVUhFOXlkYldtbWRLdVF3WURzU2xVUVJnVnZjQVJMbmZiRWw5UzJmYUUtR3RHVkxuT0ZqWjIyNA?oc=5
+- **Source:** Rediff
+- **Published:** 2026-11-22T09:50:22+00:00
+
+## Kuwait’s AA- rating holds firm despite oil export disruptions, S&P says - Arab News
+
+- **URL:** https://news.google.com/rss/articles/CBMirAFBVV95cUxNek1fQld0S2t0cjR6NWJXUzNsLTdmOEZ5ZUQtT1dBQW1PY1g3dDNGVkRlYzdwaUVjandOTE5HajUyRF9mMXRicjdCU1pJNEUyVUhEQmZ5LWN6UWkzblFhQk8yVF9ZNE00M0RVNXB1SHhSbkxQeG9TNFdQblRxcWZvT1M4NlJCMlFhWVhDeEZVVHJBOUxVSVJ5enRDcjJVaC1EQ1NIV2o3RmhOaGxk?oc=5
+- **Source:** Arab News
+- **Published:** 2026-11-22T09:40:27+00:00
+
+## Are oil companies profiting from the Iran war? Experts explain - ABC News - Breaking News, Latest News and Videos
+
+- **URL:** https://news.google.com/rss/articles/CBMinAFBVV95cUxNUV9YajZLcHUxLVFKVzBCLW41WS1vUGNuankwUmtqMWhRVEFLY3pxZmVCN3dMNUpIZlViQnR1dDVRazdxdExGelJnbjZfWFNVVEM4Q01KZjV3ZEM3UElMd3Z3bm52Nl9yck9FNWhBWXBLMGJMZ3ZhR1dNMmpyUFZqQWhHaDduNk9hWGxmaDY5ZlJiYzVQcnlRNEhXbjXSAaIBQVVfeXFMTjR2MEhxN0ROWG5zR0FWbGdCMHptdG5UVG10dmZwVE94S2xEdzdJeVJEeDBTaXNGbk4yWEF3bnIzUENPSzZJcnZoRzhJQUFRMk45VTB2aWVhMEdoa0ZlWExDcklnU0hpdkgya0hCLXczOU01aTEzci1Qb1pFY0hMMTJ4cVhabDRSM3dPU0xkc3RKV3B5RG9ZYl8wbkEyQVVYaDJB?oc=5
+- **Source:** ABC News - Breaking News, Latest News and Videos
+- **Published:** 2026-11-22T09:32:58+00:00
+
+## Ukrainian Defense Forces attack Russian oil refineries, oil depots and the Druzhba hub - Mezha.net
+
+- **URL:** https://news.google.com/rss/articles/CBMiiwFBVV95cUxPTGY1X3F5VzFGU2xEdDRFN3hQYmoyYnlFR0dXdzg0TS1obUMycEt0Q1RVOHlVY1VyZW5aZE10dzRJc3lLemFlamFxeEtCWmZFdTkzemptQ18tTjNETXc1c0liOTJQcTVJbGM4bEh4bmtYQUVfczZsd3R0S0FNRndVVVlqbERGZ2NHYktn?oc=5
+- **Source:** Mezha.net
+- **Published:** 2026-11-22T09:28:02+00:00
+
+## From oil depots in the city of Azov to the Druzhba oil hub: striking at the economic foundations of russian military supply - Міністерство оборони України
+
+- **URL:** https://news.google.com/rss/articles/CBMihgFBVV95cUxOcXhjemQ1TXp1Yy16NldtNjFtN3p4bjFMMXJFWFlGNEs1QWZlRlNPZUpPT2tEbTJySzliRFFwVzhFempXZXNTNnpOUm5QYmhHUDRoek5DM25lM2F5THZkQjctSFRNUVFRMVB4a0dDSnVGTnBGSFNvU3dhLTRjMEtvSlVvMF9Sdw?oc=5
+- **Source:** Міністерство оборони України
+- **Published:** 2026-11-22T09:16:00+00:00
+
+## This ‘Miracle Potion’ Gets ‘20-Year-Old’ Sweat, Oil, and Wine Stains Out in the First Wash — I’ve Been Using It for Years - Food & Wine
+
+- **URL:** https://news.google.com/rss/articles/CBMijwFBVV95cUxQbzBmSW5yVWFYeGlpUkhjbE52VnlUVTgtYkNPV0gxVHpGcndCbFRsUUJVVW5Zd0ZCSkdNcElUdGE1VUhmeksxbEZNUDYyUmcwcjJrRHlteDFWbHBzMzJQSmoxYUd3Q0pMaFg4T0E2MVFUR1UtUmlMRFdhRHRyLWYyWmoxU2ktd3ZIQ2xTRHp4QQ?oc=5
+- **Source:** Food & Wine
+- **Published:** 2026-11-22T09:00:00+00:00
+
+## How the Alberta government could fill a new pipeline with royalties paid in oil - CBC
+
+- **URL:** https://news.google.com/rss/articles/CBMipwFBVV95cUxNaDVMLVhFN3VuMG4zZFZJNkQtby0zNUJrRjcxaVVOemt2VHdlWDFCVnF6Qzc3OFZKanhJU0lYSDlISVBaZFFNUi0wWTNtWmduRmtnWEhGYXlBU2p5aGExUXlESlVCdkFSLTVoa2N0WHdRRVUyc21DQTNLY3VVOUlFc2hkLWZzMTlQWWhwcjRfX1lvaXg4R1ZTM3Z2T0FiUlB5TjBGTVBnbw?oc=5
+- **Source:** CBC
+- **Published:** 2026-11-22T09:00:00+00:00
+
+## Reality check: Trump's Venezuela oil deal may have little immediate impact on US gas prices - ABC News - Breaking News, Latest News and Videos
+
+- **URL:** https://news.google.com/rss/articles/CBMipwFBVV95cUxQVGxlT2YyYzQyRUFyTzc4a25QeXRzTHpQV0tTR05YZkZYWl9wd1JUT1Mwb1lJeTBNM2ItVjMwRlRtdDZLOVVCMG5CVWhkMjJCT3B6OHhQWkRDdWRLZUQ3Z2lPZGowaDhNNU9YWjhjdlpiekctM0tpb2JkbnZIQy1qV051Yk1VWmtPdmc4Y29NYUcwUFRFaUlubmUtZWtfc3Y5dzF3bmhHa9IBrAFBVV95cUxQM1hWaXRCS3NTUmd6UFY3MmpRajRiNkZuRkFwZ2ZrVTFYWjQybnF0WFpvbUd5cmw5VzNKU2k0TUI0X2luSllDZFozT2p3dmlFb0hyT2JELU1HSzVZRFVFc3RQOTR4WXNvZWRZQmxsTy1wM09TSng4dlk4TWM5WGtVR04xVWR3VTdPSDdxalNLYzFhMzY2ajRGV0FxY2xjdC1fR0M4LU1hRzVYbkUz?oc=5
+- **Source:** ABC News - Breaking News, Latest News and Videos
+- **Published:** 2026-11-22T08:51:26+00:00
+
+## Who Will Produce Africa’s Next Million Barrels? - Africa Oil+Gas Report
+
+- **URL:** https://news.google.com/rss/articles/CBMingFBVV95cUxQMTY4eW5BU0NDZDZLM1EzUzhWV2xBYjZXU2FvTTJUUk1rTzROSERfTFotVWpHMlN5Z3VTTDdLUWJkWHV2bEIyMS11cDJ4YVZVby1VWVpNSE1pMVJmUGJMdldfSm1faGpDeWVoRzlTd0xsb2g2ZzdWVHpFX3p2QUkwQ1pUNHdoMWJ3NXFLU0k1WTB6aFd4c0NlVHp6SFZBdw?oc=5
+- **Source:** Africa Oil+Gas Report
+- **Published:** 2026-11-22T08:41:46+00:00
+
+## This Olive Oil Gift Set Just Made Oprah’s Favorite Things List — I’m About to Give It to Everyone I Know - Food & Wine
+
+- **URL:** https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWTNtV1Bxblc2WWJXX183Z1NWWFhSR3VsY25pWnZ2cURrOXhYZEt6YXpvZGlubTdzUTFTOTZXV1RscW92MjlqdEF0UnpMcW9ocWpBX0ExWE1oMmthcWI5U3o2YVRYRy1ZT2JmY0FUX1Z3V1RFU3NCMTE3SFlnLWpOa0xhM3puZVZGT193eXFoRlF6VmVxY2JTdFdlRGx2c1RZOERLSXZHN2c?oc=5
+- **Source:** Food & Wine
+- **Published:** 2026-11-22T08:30:00+00:00
+
+## In a UK road-surface trial, sunflower-oil capsules mixed into asphalt reduced stone loss by about 26% aft - The Times of India
+
+- **URL:** https://news.google.com/rss/articles/CBMizgJBVV95cUxNNnNHVEljWGZjaWpfNmZaRFB1WWxvbUdCaUpJVGVydGtYX0JsVVB0d0dtRWRseElkWEJPNFljcjVleXRVTnhWNUxvYnNQVnZvdEFpUmlEcU1oVjRLZHlMd1Bna20zU3FqOXF6cFhiblE2QlJ6cF9uTE9uR0Ztc0QxVkluRVlSeXIzQUJYOE9rUHZZbkJ6UUpubkFWZlVfd2JOUnA0bTlGNy1icmIyUjRmV0FBMnZOd1Yyd1dMZFpNZ0NZWmVnQWVHT3VESFZ2c0xMZWNtTUhvUE1oVXRjdkZqRTh0VTh1a0RWTTRVU25FZ01VeVYwbGIzdVg5eUV2QW92UmtxWUI5VjZCRHk0cWJyRHIwVzlDQk0zZll3VmNWSmtsWXpXbmxmMURXOWM4YmVuUW13WmNjT1ByVlJRWE5qZE03dDcwVXJYNUdmUU9B0gHTAkFVX3lxTFBkNHRuOFI2LUItRUg2MjFMZ2lxb2tDLUlXZFcyX3oyX2pRMTc5bzZJdG93ZzdiVHhzYnlaWHRuYjZXUHlVQmFTUTdaWHFGZTdyb3o4SVFJRTlzVlN3blZpbjNPNnk1RW1IcmRnQ3QtU1ZoN1Axa3VNbGNhYzUzWmVsZzVrMHV1LTQxQ2dPOHhOck9McEtuX3Nma1pjRmI3c3ZnMFZ2N3dWVDNNQXd2UDZENjdZemFKZ1hvZFdVREN1QUlkcHpxRWpiaXZLUXZKeDI3dndPNHY1dU5Wb0FSWjI4VXI4azFnSllScTN1d04wd1p4WVhUUXA2MDBfY1luSlNiQmtSVE1TWjF2SUgzb3NFRjJoZ0FHUEdkcVRNMmtRMXd0aU1vcmFyLVk5TkdQRXVfT0MxWTUxT0NiUHAweVhpMThpS0ctRnh3eG1KeTR4d0I4cw?oc=5
+- **Source:** The Times of India
+- **Published:** 2026-11-22T08:20:00+00:00
+
+## Where do Iraq's oil smuggling problems originate, and how are they working to stop them? - analysis - The Jerusalem Post
+
+- **URL:** https://news.google.com/rss/articles/CBMiakFVX3lxTFBBX0JZcXVsVXdTZnFGNmhxMnVUNi1ZcTUyLXdIaGYtUVQzSjBkOGk1TmJpbmVIQ1ktTkNrcXliZEoyN3h0aGRhLTFBU0dIYUEtUWQ2ZnNCV1YyaEhUdzI0cWFGRkNPaXg0YUE?oc=5
+- **Source:** The Jerusalem Post
+- **Published:** 2026-11-22T07:59:21+00:00
+
+## ExxonMobil-led group approves $4 billion Angola oil project as Block 15 makes 21st discovery, with production-sharing deal extended to 2037 - Business Insider Africa
+
+- **URL:** https://news.google.com/rss/articles/CBMi1gFBVV95cUxPMXliSnJpMnlCcGE5bUFFUlNPdXpXVy1KU0VITkhkMmpobGVlVmdnckRRenVteFZIQmhPYTcyUWVkUlVjQUZobWFvdXFmLTFYaEsxYTFkazV6TUdzcTJjZ3ZtUlRhTmpyOW15V2E2QW1acGc0aUV2MTExMHpZZHRNQnM1SkxaN1V2Q1RjMXBMMURuSjZ4Y3ZmMFFOY2FMU1ZyYk5iQ0xIcDBMUWFOMnZPb2VuUTctM2YzOWFiV2huU3dVRFRvUFh3V3dmUFpsZHRrdW94RU53?oc=5
+- **Source:** Business Insider Africa
+- **Published:** 2026-11-22T07:43:03+00:00
+
+## Oil pipeline blockade so far cost Libya nearly $31M: National Oil Corporation - Anadolu Ajansı
+
+- **URL:** https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUXpXcV9GamlVcTlXbnJkNmc1UnI1TzBnNmN5cEliV3RuSm82UzRCX0hxMkQxMWY1eXB4VUZRSUptWUxrelE5dEtCdFdybVJmYmFFd2RrWEpwTFY4Y1FCX0pxSDVpQ2tHRlJQOVlfcjkwVTNDWFZCQ0FmQ0lINFVFbWpMYVZ6Q3BUNWlySjRialB6WjBqVEhzOGxITGZTMTJxcGs0ajlvOEFxSEIwR1JEVngwb092X2sx0gHAAUFVX3lxTE9yYUx4ank2czV5NDFTbG9BbGlFbTN2OVRkdENGT0xsVzFtcTFBeVYxR3VZa0dqVHMzRUx2NTRQMWpoNHFtX2JqbXhpVk95dkxUaVp1N2xhTS1tcThtZmx2akhoOVU0QmFJemUzclhzSFFIbEF3SGNXQ2RUQWxPeThrUXpwNkhuX3RSVUFzMjI4LWx5aUQ1NGJTOUh4LXdkZjV3RlhMZFJWN1daNWxrSmEzeVVNaXhnc0VfZC15OEZoUA?oc=5
+- **Source:** Anadolu Ajansı
+- **Published:** 2026-11-22T07:37:21+00:00
+
+## Türkiye’s Oruc Reis Begins Offshore Seismic Survey Campaign in Pakistan - Egypt Oil & Gas
+
+- **URL:** https://news.google.com/rss/articles/CBMiowFBVV95cUxNbW5sVHJGUGp0WUNqWmk3TUNlTDVSOWJSNFk3c0U0d2tOaFZ3Wjk3SkdRX0NRcXZRWU9KeWR3VkZXMk84SUNYcmZzSGpaaFY1VDFwczN3ZFJSVVFFaXlxRnBxZ2Z4UmFxcEtRZDdXWTlVQkxFV3JUYndNUkx3WnRVcEtYTVFyVzlWcW9iMzdhWkpsV3k2VWpsVTJjZkQ5RHhDQjhF?oc=5
+- **Source:** Egypt Oil & Gas
+- **Published:** 2026-11-22T07:32:08+00:00
+
+## War, latest news. Eisenkot condemns the arson attacks in the West Bank: ‘Jewish terrorism’. Ben Gvir attacks him - Il Sole 24 ORE
+
+- **URL:** https://news.google.com/rss/articles/CBMitgFBVV95cUxNcjZYRHVpbUdTVVlVTDNNX010cWJDY2FvT0FCTHQySVZibUstMWt0T1dOblQ0S25PNVBCRHFZUGVqcFBrWFdqN21pVmJkVUUyUUxRRTZVSWFQNHNpOHpIOHc2akszMkdFZDIySGZNaURRUUFHM0liM1o1OG9jN0lxeWtJczBFd3BuMS1QczRqQVltZzg4VzBGczlvTXJBZUZZMkl1ek81b2Z1WW5pZjJrUG8tZW1EUQ?oc=5
+- **Source:** Il Sole 24 ORE
+- **Published:** 2026-11-22T07:22:14+00:00
+
+## EIA Annual Energy Outlook: NEMS Model & Data Guide - CASRAI
+
+- **URL:** https://news.google.com/rss/articles/CBMiYEFVX3lxTFA0czZWTkhBSi14WUV3OGhwVE51VF9JdVRqamxndjhvTjlDT3BOdS1DeTNIQXFDbUttNkU4T3Jzc0UzVmhrSUpyMXBrWXZmVEpiWGhUclZjY0cwN1d0a1RtVg?oc=5
+- **Source:** CASRAI
+- **Published:** 2026-11-22T07:17:47+00:00
+
+## Protest period closed on oil and gas lease sale that include parcels on Roan Plateau - The Grand Junction Daily Sentinel
+
+- **URL:** https://news.google.com/rss/articles/CBMikAJBVV95cUxNeVhoQ29kNkwtem8xMHhmT01xTlpOaXgzUXk4Q2JEdWxObG1mbGxJVXhDOHVScHlQeGE1TTk1M2R4TmZkdHhIakJtME1BZVp1Nmt6TEFVMHNEVWlJVWN6bjZlN3l1T1dZTk8zX0tYbGdnaUNEcVo4blRaTHhreVI3U1VNVEh2THdpeFMzUWpXWVRPYVlFeFF6Wm9wLVJxNjFXOFVzU2tlZVI1UE5hMzlHeTRFR3Awb1RGT1g4Q2dUNV9wU29mcXJhNjIzWm5DOGYwZjBfRkhvTDBuZFVjWHFqOUMzY25FOGpQYlNzdjFvWmc1N2FkTGpqUGVFYS1pUW9SUVpidUdPSDJmLW01YURzSNIBlgJBVV95cUxOSDZmT3RyRjdQYnFmS1dMYUg5M2sxeHJWLVlESnVHSEhsVG1LYlJXZEVTSFB4ak05dHpiVk1CTTl4SmxVb04zejhNNEltb0N2V05VMjg2WWRHTXFoRXFnWWFGUFFkSHE0VzZuTjFRWTlMd2hGYW1qLTBHcWwxZzdLVmlycnJXNElXdHJZa2g2LU02RGNhMXNSTWh3MXNKZWNwVFY2VzJpaUduLTlRc2J3cy00bkdpU1l5THJ1WkNSbEhsZzN6YWVCUGVldi1IZEc4S2J5NENGV3BUWVZpV1ZKVVhoQ3NLUjA4UTFPczZJclB4cURDaU1FZlowalllQnEtdVRaVWVFZUE4N2d0SGtsNUMzZFpKQQ?oc=5
+- **Source:** The Grand Junction Daily Sentinel
+- **Published:** 2026-11-22T07:15:00+00:00
+
+## Iraqi police take control of 3 checkpoints in Jurf al-Sakhar after oil-smuggling probe - A News
+
+- **URL:** https://news.google.com/rss/articles/CBMizwFBVV95cUxQUGZ6TnhOZjlaNlBxX3FDRl9hRGtoZ3RlRGdXRmVORWtKekdEQVp6QVZIaUQwVG5hUTMySkdrclBqbG5zTWVpVnpSMDZzQ3FBRjBwVFlHZ0NBNWZ3cHEtT1hDc3FrVUVqaWItMXEyRFBiWlR3TFd2QXMzbERGOUUwZzR3Y05rT3J2VmlEVVQxcFR6VUJkb3EwblRPSUJYZFBTcnVjLW9YNnVFbmdSSFRydm50cV9Pa2NmUzhVdmlzWUdIV2lyZkpHcDdsME5BeHPSAdQBQVVfeXFMUDNmMVBKYVA2U00zN25NNDFLVmhWZHRzeTNTWFJ1TWd4cGV3NVZLSy13bVZLTHBBbkxVMzQ4YXhmNzliNDlqUFB4SjFINnpBSlFtRTJsLVRkV0cxQmNvVU5OZ2M1b1dpOTBQdXlDSEQxVmtKdDBhZm41eW1iX2ZHSkszclJQN0JqZ3FDdGZKVnFBcFBXbl9yNEVvVXdweW83cFloXzBPSFctem5ONFpvdTgyOTY0MWFFaTZ3cDJlZ21Rd1pxRjN0OUY3Rkc2WUJzUjFidmg?oc=5
+- **Source:** A News
+- **Published:** 2026-11-22T07:11:52+00:00
+
+## EIA Weekly Petroleum Status Report: Data Guide - CASRAI
+
+- **URL:** https://news.google.com/rss/articles/CBMibEFVX3lxTE80SzZ2bXJvWDJIQ0pQMHdxT0xhS0cxMDRJTHM2WmkySndGbUVTZEpFSDFYVVlTclB1QVpaSmhpNl96SVhGdTM2YW5mYmpHNmtHZnkyOVVnSXdydHVjU2c4MkpBOFBFWnMxcW1HeQ?oc=5
+- **Source:** CASRAI
+- **Published:** 2026-11-22T07:03:50+00:00
+
+## Learn how cooking oil in Neyland Stadium is recycled - Knoxville News Sentinel
+
+- **URL:** https://news.google.com/rss/articles/CBMiuwFBVV95cUxQS3ZNdlpYWEpuX3hMdXpaVEw1Tk5jb3lzbzRyZmRxUVY4c1lnRS1WdjNLYzdUVGhqM0Vhd3puTnpaZjR3QmhKcGFVa2NRU1lPSExzYmhXY19sX2ozQThpdTVoMGlGQVRDVlRlZncwejVzOUk0akZNakEzZFoxUWN6WGl0S01jZmVHV3RIODhlMF9ubXZDNWdGWktPX2R4NWJaSWEycXlvMGdVS3NoaWIzQ0w0R2FQa2stdXJN?oc=5
+- **Source:** Knoxville News Sentinel
+- **Published:** 2026-11-22T07:01:32+00:00
+
+## EIA Short-Term Energy Outlook: Model & Data Guide - CASRAI
+
+- **URL:** https://news.google.com/rss/articles/CBMiZkFVX3lxTE5yRVFRZzltT2xGRjdwSThnNTFZNXdCaXd1Y1FNUHhfNDJNLUF1MkFPYmRPQ1hUeTZlTHpXQm9vcVhyRzA5VFpUcmlCYlJmT0FqVGlTS3RodlVvbmZaZEVWNFFtZ0lCdw?oc=5
+- **Source:** CASRAI
+- **Published:** 2026-11-22T06:51:42+00:00
+
+## COP31: New draft declaration makes no mention of oil or gas - Yahoo
+
+- **URL:** https://news.google.com/rss/articles/CBMilgFBVV95cUxPS0IxRUtReV9idDh3Ri1EV0hjcmlEUkFNMFVOdFRHT0t2Z1BXWVd1WWpvckpXNkxiMGZsbXRPd0Q4VlBJNjR0MXh1VkFFOEVfNUhHQTZ0S3U3YW05a2VmcVRmYWFjTGIzWTI3UUNheVhGOUlrcEJvclR2MGhsVDduM1J4NVJ5NHdZQndYMzhCWXNaMjVFM1E?oc=5
+- **Source:** Yahoo
+- **Published:** 2026-11-22T06:33:00+00:00
+
+## World in Brief: Mexico catches a drug kingpin; Iran attacks oil tankers - The Economist
+
+- **URL:** https://news.google.com/rss/articles/CBMilwFBVV95cUxOSG1jbFhyckdQbm5Ham9hVEg5Z3VXZlJXbE5MSVE3SmtWcjVyMzdrTjh0am9MaGxhQmEyaWJ2MjU4QV9tdVJrMUsteWlZNnpVcENGc2gzRGhISmQxbnk2dm1GUUtiSHBjdENDM1M2WnNoZXFzaUxkaEp1cHVJNTZJT3dIWk1PYm5KU1czZTlWbHVlbUlNTjBV?oc=5
+- **Source:** The Economist
+- **Published:** 2026-11-22T05:20:01+00:00
+
+## Oman Oil Marketing Receives Award To Supply Fuel To Government Vehicles For Two Years - TradingView
+
+- **URL:** https://news.google.com/rss/articles/CBMi6wFBVV95cUxOSW9Cck0wZzhCaUlmQTVoVU5YQ0dHR1p1RFBQMkZPWGhiODRNeTF0Vy1TcXZiRDkzb05yeFdnbHFFWG1GSzhEWlJaZkwtT2p5V0JTZG9MMUlBVkgtSzZPQ2lkdVk0QjNuSEd2bWlBcUVtdmxQR3paejd2aEdCc2ZDM0puTXJHcndYaElGS19vZll5TXBCZ1RCcy1pY1BQWk9UdEdxM2dYRE03eHVpNmo3Z0s3dU5rY0ZFWUxYbGUxME8zUngtcUtYUDdTWEZlZmRaR2FpVnlqNlRMS2VlRXV6S09FVXc0dmZkWi1j?oc=5
+- **Source:** TradingView
+- **Published:** 2026-11-22T04:50:00+00:00
+
+## 🇺🇸🇮🇷 Coincidence? Four oil producers drifted away from the petrodollar, and all four saw their leaders taken out or targeted. Frank Giustra points to Saddam threatening to sell oil in euros, Gaddafi pushing a gold backed dinar, and Venezuela and Iran selling - X
+
+- **URL:** https://news.google.com/rss/articles/CBMibEFVX3lxTE5xcFk4bVpER3V1Mzk2a2EybEttNkVzRnFqdkszRmhwQllaN2M2b3o3V1I3eWcwWmY0bG1tSG9OTU52WE5sTWx4R2RISW5ERmc2ejlGRVQxOXVKaHBvRTQxUmFDUUVrWThOWUU3bg?oc=5
+- **Source:** X
+- **Published:** 2026-11-22T04:43:17+00:00
+
+## Hurricanes Suffer Third Straight Home Loss, Fall 4-3 to Oil Kings - Canadian Hockey League
+
+- **URL:** https://news.google.com/rss/articles/CBMipAFBVV95cUxPb0VEUm9IRnktSDJraGprdUs3OGNMT09qTGRROTdJSUNCNzVFN3JOWDB1QjVpak4wOWxuODdSRm1MdVIwQUxzUXduVnc3TDlWSTJ5ZjdtRmlIbEpfVHVVeTFweUZKN3Yzc1FOZVQydXQwMlJMUzRscjIyREdMLXhndndPdTJiU0xZanlHbzhhM05DcDZvWklraDAzYU42ZHJ1XzNJYg?oc=5
+- **Source:** Canadian Hockey League
+- **Published:** 2026-11-22T04:20:18+00:00
+
+## Replay: Home - 2026 Edmon. CAC vs Oil Kings | Nov 21 @ 7 PM - FloHockey
+
+- **URL:** https://news.google.com/rss/articles/CBMijgFBVV95cUxQUGNIM2w3Y3NwZnk1cDd6aUtfRWVlT1JPLUlCZGxuT1lCQ3lrckJNbDcxblBFQWlzNUlGOFNLeU1RWVdub0RUSG8wN1k5blFDc184ZmplRDhUT2lqN1llekRYVGVnZEl6M2tycy1iS3B0X2dDZUZPM2hBQ09OclhNRXBnX19aRm5XY2xzOG5B?oc=5
+- **Source:** FloHockey
+- **Published:** 2026-11-22T04:18:13+00:00
+
+## North Slope Borough sues state to stop planned expansion of tax break for oil firms - Fairbanks Daily News-Miner
+
+- **URL:** https://news.google.com/rss/articles/CBMi8AFBVV95cUxPR0VKNmhJSlNxQmhubGNjd2k0VTZ0ODZUa0FBN0Zhc2N3VW1lOXRzS2ZNZzRqSFlacU1CY25leXN1aDBGWm82dFExWnpQcUxoREpOdE9rbXZ1WVN5aW1aTmJrblNVX2xzUGxxSzlycHJZbGI4aUluMkFqRlU1UHoyZW5DNWRXY3M2NW5GNWN6U0xBemtkZlNjSGRJT0RtMGtYUmNfMTVvX0RTUjVRNjdOOUd6a0VJRlN4aU1PYmpXMWJpYk9TWjFCVzVIVy00TlluRUhuN3R6TkZkbmtPMTA1UnZDREdmZEluRjVRQ2had0g?oc=5
+- **Source:** Fairbanks Daily News-Miner
+- **Published:** 2026-11-22T03:51:00+00:00
+
+## Your Sunday, Nov. 22 Guide: Five things to do in the Oil City - Oil City News
+
+- **URL:** https://news.google.com/rss/articles/CBMirAFBVV95cUxOS3ZQRkpaMFp2TU56LVl6d3ZKd3lGYVRwcDhHWUZsQklZRHFhb1BoYk9HaVBzRmE5VmlLTmFvNHdGelN0MmJEUnVOVHdjYk5tVXo0ZG01cDI3dTROdmpBX1FjallmdTZmdG5LbVg5NDNOdzdXUWFvbVhnYmpmT0NOdHpBeEVMVVdqMjd1Xzd2eFJUZUVRTTRXanBjcEdhZkFrRHNjZWF2aURKWEs1?oc=5
+- **Source:** Oil City News
+- **Published:** 2026-11-22T03:45:22+00:00
+
+## Naturally Aspirated, Highway Miles, Regular Oil Changes: What Almost Every Million Mile Car Has In Common - CarBuzz
+
+- **URL:** https://news.google.com/rss/articles/CBMiY0FVX3lxTE1YdVpuZjlJVUtOazZleVdTYktmNFRSUTh5M085RndINW0xdXAzcnFGclIzSXBKeWJjZXAyWE04X0hOMTVvTDZvbFV0NkpoaHVVUnUzWG1xQW5LeDBYNmVTemxjQQ?oc=5
+- **Source:** CarBuzz
+- **Published:** 2026-11-22T03:03:00+00:00
 
 ## These 12 Italian Olive Oils Will Outshine Your Go-To Brand - Tasting Table
 
@@ -15,291 +303,3 @@ _Last updated: 2026-11-22T01:56:09.623098+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMi3wFBVV95cUxQQXVBVUZlOEVDWHduY0JXQWM4dTg0dmFhTVZ1VmR5R0RUVUtkNlF1NDJYeEZfZTZmVndFQUp4c0dKa21hM0NSMDhjWE9nQmdJRndIQ205dnVJQnQxbERWa1RwbHpwRE01LU1zc01oOF9wLTA2QmJtTlNjbEtxaUUtNUJxU1pDX3c1dmxIdV9RSmxZZV9XS251LWgwOUtFYllSYU1NYmYxZGJreW5GbUFHSGFQbTREZ0FlbkJPVWFOQ3JEVUhJQVJ0cDdEOEZPZEtScXBydDdyZ0FNelB5RHFn?oc=5
 - **Source:** New York Post
 - **Published:** 2026-11-22T00:52:00+00:00
-
-## Replay: Home - 2026 KC vs Oil Kings U13 | Nov 21 @ 1 PM - FloHockey
-
-- **URL:** https://news.google.com/rss/articles/CBMijgFBVV95cUxON3RUQWZGdGpXczNQOS1VaVNBNldmUFdrSUI4QmlIMVNTWE5paE9EMW5aQ3VUZ2VISnRjVzUxVmtGVU9NZjZ3em9NUEE2cWlYRjk5VHo0LXZLOGNQanU5bEVfV1RIYmkwbGdyLUhDVGVDSnhxZjM5bExFY0tSQ1ViazlBWHJiTkluX3VkbG5R?oc=5
-- **Source:** FloHockey
-- **Published:** 2026-11-22T00:44:45+00:00
-
-## John William Upham, Governor John Penn Inspecting th… (1805) by John William Upham - For Sale - Artsy
-
-- **URL:** https://news.google.com/rss/articles/CBMiywFBVV95cUxQeUtnWlUtVERha3RwRXI3OGs2cnJGYjVaM2tFYUlVd1JBRDlET3VBcEMwb0FCTFRHblg1R3lKeldBZ3RPbjJXdUFVVGFyU0I1aHZJdkREVWo4a3pESkpkS0ZkVy1RUEhsREpjYjNiRHRUbElQYjNIMXhhRDA1Y0s0YWUtU1V3VnFLb0RqeUpHZURWZUkyQXdQWk4xakQtWTJZN3QtVU5BRnhDRFFCNmFSWXBBLUFRdzdBdlNJQnQtV2VxdWFNdFRIeHgtUQ?oc=5
-- **Source:** Artsy
-- **Published:** 2026-11-22T00:21:38+00:00
-
-## Pieter Aertsen (1507–1575) and assistant - Artsy
-
-- **URL:** https://news.google.com/rss/articles/CBMi0gFBVV95cUxQVnVlTXhrSWQxTW8wWmVsS1pHX2pHZWtvNkhBMmJjUGpxQTBIUWlNbW95Y0JyelpsLVdWU1J1bmNhQ0xCb3k4Slp0VEpwZ2d1TUh4eXQ4bE83WVRVR2pDZGZNVVN2QnRFY2dkcWlnZmEyb0xBRlZWMDdvNlY0bm1iRU4tczBiRnB5aE5YX0JFcDZ2S01sZjdtV3hyWEZKazMwUzdfT3dkVlllYURKWDZMbFQ3aUgzdVhFcUQ1NkpYR0EwbXNuLWpRQXQ3dVRlN0ZQTVE?oc=5
-- **Source:** Artsy
-- **Published:** 2026-11-22T00:21:38+00:00
-
-## AI Boom Forces Massive Investment in Power Grids Worldwide - Crude Oil Prices Today | OilPrice.com
-
-- **URL:** https://news.google.com/rss/articles/CBMiowFBVV95cUxOcXU3b01MbHF5Yy1QV2NEb3docHJoT2pzTGJSNzBVb3lIejRIMmF3NWU3N0JxMTd4S0czXzhqbUhERUViSUxMUFAxZmthOFM0ejJnYU1ZYnRHLWNwRWMxazV1MUdjbGVEendtcU5yNktxSkw3TGFFWWRsdkE2OXhjTzYyZEpTUTVpeDNsQlBVQVJQMUx0M1FobXgxLTJtb3hieWhZ0gGoAUFVX3lxTE9MbTNUd3lDeWxFUDcwNDR4U1hRZGZ0RWxkV09LNHM4Zkh0X0VXbzRwNklsVzU2RV9nVjJpaUFFakVzb3BMTU5RdV8tWlN4a2FxbWpLTklaMjlaWVVHMnEtT1drNndjTmVySWZwNy0tRnRQdG9ST1Y2Nzg4b1FvQXlXQmR6VnlkRmJ0YjE3YmxvMktyUzFHRHM3b2pLSGk3Qk84VC1yZHI5Uw?oc=5
-- **Source:** Crude Oil Prices Today | OilPrice.com
-- **Published:** 2026-11-22T00:00:00+00:00
-
-## Stanley Grimm, Assembling Convoy P.Q. Hvalfjörður, O… (Completed in 1955) by Stanley Grimm - For Sale - Artsy
-
-- **URL:** https://news.google.com/rss/articles/CBMirAFBVV95cUxNZ1Y0NkZUekVkZG94ZUtyLUM5eHJ6S050WjRRWFB4WktsRWlnYk1xb090b1dKSkViVDZqUWFldlhoZ1dxalBTejVEMjFyVVhkTUtXMVFUODdiT0FLX1RhWG1pczIwa29pTDRfdVhJOUVTQnV0ZHhiWjlxU2pBY3lIZTRzdW5PckhNeFRvOFJqM2VGY0hDN3BzdXFNTk1yaXYxVnVwN1cwcG9tS2RW?oc=5
-- **Source:** Artsy
-- **Published:** 2026-11-21T23:37:56+00:00
-
-## US sanctions Iranian oil traders, regime insiders selling dwindling reserves - JNS.org
-
-- **URL:** https://news.google.com/rss/articles/CBMirgFBVV95cUxQTlp6ZzNwN2FPdDZRdl80ZWtkcGZtQUhsNkoxRHdCMDFPdXdNTzAyVVNDT2NIUjRaQWlXdnptMElwVGVqVFlEVFR4eFg4aXZzUC1RN2FIV2FDd0RrSHl3WVRBcndfaWhqSy13a3Y0cGhzMURNc2lzeFdRRzlNVlJ1NWdQZjJIdU5kcjJjS3pPSi1QVUlYbzQydnBDb0lxcDNaZHYzWE1GVVBZa0NSWlE?oc=5
-- **Source:** JNS.org
-- **Published:** 2026-11-21T23:32:46+00:00
-
-## Put To The Test, Those Special Engine Cleaning Oils Do Some Lifting - Jalopnik
-
-- **URL:** https://news.google.com/rss/articles/CBMifkFVX3lxTE1ZVHNISXNFNk9wM3pMUFdqMmsxNmdzWGszWlk4N3RVelhxeC1yN1BvdXA5QUxhQXkzT3NSeVFYaWY0V0VKZDRSTEU1VEtYOWpXWU9sXzlGVTdrdzRIUmNLMlBNWWpoSmFXVkVwQkd0TXFjbmx4VFJUXy01YzE3Zw?oc=5
-- **Source:** Jalopnik
-- **Published:** 2026-11-21T23:25:00+00:00
-
-## Jim Cramer Says the Fed “Doesn’t Need to Do More Than 25” - 24/7 Wall St.
-
-- **URL:** https://news.google.com/rss/articles/CBMinwFBVV95cUxOSnRVdWJGajFMTzBtc0Vwd21lempYaWpSczkzeWFhUVVSWUdqMmR2eGgwRUhZeWhnRlhQLUJINm1ESkVJVFhWdjRZLV9HaFJoNW4zaUtUZHZXdGVfcHdwN3p6V0VUNlBtdHJNb1Zmb1gwZE9lT1E0NXl5cjMxQ0g2clUxcnZobHh6UmwwVU5kX1ZoOVRYQlpCTUhBVW9WLWc?oc=5
-- **Source:** 24/7 Wall St.
-- **Published:** 2026-11-21T23:07:00+00:00
-
-## Replay: Home - 2026 Oil Kings vs Lancers | Nov 21 @ 2 PM - FloHockey
-
-- **URL:** https://news.google.com/rss/articles/CBMijgFBVV95cUxOOGRWNWtRSEc1aEQyamhUc1JCaV9lN0VBSXdOOVlUSGFpRDJtcXoyQktQQ2Voa0piNnc5ZmxESWFkMW5CdmxmaFdpc3JnWWMybnI3UHlkSE9XcVRqQlpKTmZwN1Jjb2VodlZGUlVTeTZORFE5QkRKOENPanNDRjFJcmJaOWJhZXl2bHJJeGd3?oc=5
-- **Source:** FloHockey
-- **Published:** 2026-11-21T22:49:29+00:00
-
-## Libya loses $30.8 million as armed group blocks oil pipeline for over 20 days - Arab News
-
-- **URL:** https://news.google.com/rss/articles/CBMivAFBVV95cUxOV3dCT18xVGNjNTRhN3M2aTBzbDNCaG9FbmxxcWNoMmNscHJoYl9NdFpmaE1pT0lQTnczdEFFS2FSdTRpdFNVTmFHWmJsMGNGNy1nTTJQZHlEVTQzSmdyaVFrMUt3ck5tRE1nS0pnaEEzVWhmVDlBYzNmSG1Ccl9zQlhlZEVIQ2ZscmdjZmFIckgxcW1vLUpUaktmUG1rR1pmaUNpZ25iRi1CU3ZYZVJxaUJLbmpMbTU0TGVpUA?oc=5
-- **Source:** Arab News
-- **Published:** 2026-11-21T22:47:03+00:00
-
-## Pennsylvania Weekly Oil & Gas Compliance Snapshot - Nov. 7 to 20 - PA Environment Digest Blog
-
-- **URL:** https://news.google.com/rss/articles/CBMiowFBVV95cUxNbFhxeWloSE9wNDNTUk1McUJ2M3dLSloycTJJTEZqS3N5Vm9na2hzVXJiQzFDbnRwbTJNMHJwTlZIWEoyaEtaSGZJYm4wX29KQmJQOHRnWmtMZmlmTlFmcXdqUjJrUTJzelY2Vlg2QkhRTWlmOXZtNnhTZ0RZbXZjaGZGTmhpc3M4ajFJNFpXd21XU0VicEhEaHFfbnNuWWxOLThF?oc=5
-- **Source:** PA Environment Digest Blog
-- **Published:** 2026-11-21T22:34:16+00:00
-
-## Alec Walker Arts & Crafts Madonna, Child and Saints … (ca. 1900) by Alec George Walker - For Sale - Artsy
-
-- **URL:** https://news.google.com/rss/articles/CBMitgFBVV95cUxQNV81U3lXZGkxTDlsSThzZDFKUFhjS2F4UWQ0ZzM5bGxjbHQya25yM1p4Mk5SLThLN0dKNzd4WTV1bUh3azVQcWtyNW1ZY0MtTjFjUUwzX2F0Ql94N3BxemJtdUFSSEV5d1NTbUNVZEItcDg2V3NJWUtyLW13TDM2ZTgzanJxOGJ6MVRBMVBGVmZnUThyV3NvSllzeWhkQ1RHNVdhUTdfYUtnVlU1Q09rUXplb1ZMZw?oc=5
-- **Source:** Artsy
-- **Published:** 2026-11-21T22:23:03+00:00
-
-## Marion Mroz Oil on Canvas Portrait of a Gentleman in… (1943) by Marian Mroz - For Sale - Artsy
-
-- **URL:** https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNVhTTGVORWljRHFLdW4yS3Q3cV9JVURSWkFhSnNfMUJxU3ZkSFpXOTM5VWNoeVJ6Nm1NTDNESUVfT2J4WmM4QjVGeDdLQnlIeXhxeXp6NnkxTHJ0Tl9pR0RMU041TE8zbGtLS0tfeXZ5WmhucjhPTThHVFdxY3RwQ0JlYklNMEJva2M5TUQ1LUlmOHgtLTRKRFhaZk5zR2NtcXVxZDVieUlFZw?oc=5
-- **Source:** Artsy
-- **Published:** 2026-11-21T22:23:02+00:00
-
-## Philip Villamil Portrait of a Spanish Fighting Bull … (Mid 19th Century) by Philip Villamil - For Sale - Artsy
-
-- **URL:** https://news.google.com/rss/articles/CBMirwFBVV95cUxNUnFpQ0FuZU5Jb3Q4RDBWNFlvay00UGk2VVh2SnZSb2JYME9GUGU3N2Z5R01jaDRjdTVDSFZfRDNqbDZpMFlUOEg5SV9zYzVJNmlFUXVYbnNaaFVrdzEySUsyMm9XSlk4WXpBTUVOMlVudXF3dEE0ZlAyRnlKT3BoZ2MzWlhrVjA5WDFLeFE2XzF3VXZoMlNmUU50TUdNMnhid21tblVaSmUzVnREZHVv?oc=5
-- **Source:** Artsy
-- **Published:** 2026-11-21T22:23:01+00:00
-
-## Circle of Sir Edwin Landseer, Napoleonic Cuirassier War Horse, Oil Painting , ca. 1870 - Artsy
-
-- **URL:** https://news.google.com/rss/articles/CBMi1AFBVV95cUxNblZadDEwVHU5eXV1SUNVSERidnlkNmN1MHdyQVlhRzFkbmpVQklENmpEZE9Ra29nalprTjJUVG9NWkZJSGpNdXZTOXk0QmVxc3RnYURvQmdaRVphNVg1T0JyUHFPOFRSVVBham91Y1p6X20tdUVocGxqY0pOWkFJOWVvWkk2RHNJUkV6Ym82SV9kV1p0dWpORFpoQUJTTVlBYllPanhTc05zSVFxS2h3b0Rabng0TzNZUE1QOGZ5c0NsV0JLaVFGNERad2tBbkpkNmkyNQ?oc=5
-- **Source:** Artsy
-- **Published:** 2026-11-21T22:23:01+00:00
-
-## William Fitz (1850–1900), The Ardent Gardener, Frame… (Late 19th century) by William Fitz - For Sale - Artsy
-
-- **URL:** https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMnBSTHR1ZmVBdk9SWkZpNTRnbFVaaVNlYVhzdUQ5SHVUcFhfUkFuLTRZR2dHMjVrX1lvR1FkNGE2QU5GS3dYNlcxckJDRkh5MnhrN3RrVFFPYWlDblowM0tTdk1GeGNPc2szckNVQWFIRVdUbnhUb0hZMFVjRlF1MzdiQjlZbWk2NzVyZzFHWmcwNk0wXzFOSDR2Tk9XV1dBZC1JRmRXd192Zw?oc=5
-- **Source:** Artsy
-- **Published:** 2026-11-21T22:22:59+00:00
-
-## George Gascoyne Oil Portrait of Hilda Riding Her Pony with Jack Russell , 1892 - Artsy
-
-- **URL:** https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNkl4eVllQUQ2dHBFeXBTTU5XRGVPTUR5ZllOQ3lWV0ZjUUdSc2tlQUtwNE12YXhwbnl4SThLdkVHS1ZLSEhwMi10VXI4d2tpYUxNTDBLYm5yNEl5VGlhUGdMZlFMbExqdDU1YlhHY1YyWXVJbDhXUU9CQmdGME1FM2lmM3Q1bUgxbW02eWFvZ2F6Tm04MVJsV09CcFQ2X1ZXNmgyQU1ZZTFlX3lYbE56X0lPQ1dsZlZN?oc=5
-- **Source:** Artsy
-- **Published:** 2026-11-21T22:22:58+00:00
-
-## Circle of Sir Edwin Landseer, A Terrier at Its Kenne… (19th century) by Circle of Sir Edwin Henry Landseer - For Sale - Artsy
-
-- **URL:** https://news.google.com/rss/articles/CBMiywFBVV95cUxQQm5DaXhOakxPeGxYZGNHRUhESDFwUGxTSW5oUTRYN3pwSmpKU193cXN3YmdOaEVtMEQ3cUoyQ05UMVV0Q3FPS3NVcGJQU0hHbXdUTlBOc1hxM0owSTN1djJzdlFyMFJRQlJBOHRPMjY0N2VXelhuUWRzWjhNWGxhSU9US3NjWndObHBPSnNaZndzTy1aYm1KUmNNZlVDWHE3VGc4VVhaTnk3SlVoQ2FIVGt4SjBJX3JBUHk1YjE3a0tMb3dXeF9EMlZnOA?oc=5
-- **Source:** Artsy
-- **Published:** 2026-11-21T22:22:58+00:00
-
-## Frances Mabel Hollams, Oil on Panel Portrait of 'Sucre', a Standard Poodle , Early 20th century - Artsy
-
-- **URL:** https://news.google.com/rss/articles/CBMivwFBVV95cUxPMXgzQ0szRmk1b0paeTZWRGptaXVVVWYxVG41djFiWWRHR2syYVNxXzMwdG9UaXhNNnAtdkRobVFmRGFpbm1xbUhoX3pMSzVXSG8zbXlhVXQwS1owd0s4UmNXWE9YZ0NuaUNaZXQzd1ZxUDgwVFFiM0ZvRmFtTDNtMFh2R015VVJTdkh0aXJwM2tDQU15ckVnVHJjbURRMFI1amdtREw0d3JyODRDS05WWUJLOVc3eUY0aDlIcEltTQ?oc=5
-- **Source:** Artsy
-- **Published:** 2026-11-21T22:22:57+00:00
-
-## Shafaq News..Oil smuggling drains $2B from Iraq annually - شفق نيوز
-
-- **URL:** https://news.google.com/rss/articles/CBMiggFBVV95cUxPOTZvZEU0eW5nYmxzZGR2T3ZEM1QtV0lmbk4xZ2dMTEJjb0dhQUhRV21TaDhuWlhDZGhzOWxyNFd5azZ2NFpGdUNpLXMzV0NOMTdndWZxbFBtc0FlUHFZMTRfcVN2VHFVQXBQN1FHaDE1YkhPRzVsemJhZm95aWVzV0Rn?oc=5
-- **Source:** شفق نيوز
-- **Published:** 2026-11-21T22:07:15+00:00
-
-## Egypt partners with Weatherford to revive 100 inactive oil wells using AI - TradeArabia
-
-- **URL:** https://news.google.com/rss/articles/CBMiswFBVV95cUxQS3ZNdlAtWkpxNTZtclpmcXEzUG5UaTg2ZXhQcmkwZXl0UjA3U1hLZEZqQmhBa0Npc1dWRERDVlZJTXpVNE1LLXRHZGtHMGY0UWFTWTNxVXhJWk1ZWERtSlNKQVRabXdvenNDOXp1eFRzWmhTU2dvUXM0dXFlUk5rNmhSbDRobjBjTUxHVkFWOVBXdDNvclZTZW9wRlN1WERRX0xDS2ZVUjRzUmZueGtPd09HRQ?oc=5
-- **Source:** TradeArabia
-- **Published:** 2026-11-21T21:59:05+00:00
-
-## Portrait of General Henry Ireton, Attributed to Robe… (17th Century) by Attributed to Walker Evans - For Sale - Artsy
-
-- **URL:** https://news.google.com/rss/articles/CBMiywFBVV95cUxQcVlEaExNTlNINEY2aF9vZ1ViVWNMZk4zbk5PWlNCLWJ2NGxHOXRscnQ0ZGdEckxjRTVsSmlrQlBQdURuc3FRQl9Ia09sZmVyOW02c2VJM3hVTnE3WlUtbVFfc0xlaEF5VnFaR0RMUFBRNFBRdFVReDd2MFNfbzhmRUNMYUtrc0FKc1Q2Y2UwTXV2R2Fta0JKQWQ2RDVtR3c3STN5X2ducDd2NUFyVDNORndtTXFEbEVRRXk0ZWFTRmI3VXo2YndDcFkxVQ?oc=5
-- **Source:** Artsy
-- **Published:** 2026-11-21T21:56:46+00:00
-
-## Circle of Sir Godfrey Kneller, Portrait of Anthony L… (late 17th century) by Circle of Godfrey Kneller - For Sale - Artsy
-
-- **URL:** https://news.google.com/rss/articles/CBMi2wFBVV95cUxORl8wSl9OMlVSWmxZaVZRODROcF9tQ24zMU5oQTFnQTVXVzBvVnp2bzZnQ3J0cHAyYjVORFZvcmZ6aVZWUm1zZGVLcWZLZ1NoWkRVd2V2b3htbUo4T3R5ZmNreTBKYkJnT1NINWYzNm9yeXBQbVR0Y3lzSDBvcVVTUk9JMXdaNjlJVG04a3hBR1lkbklvb1dTRE01NGc3TElEY29EbzFwRTdiN0JCMmpVaXI3NG8yTGVsc1M0QmZsRllJbXNjd25NMTNxdkRuTko0UzE0d3BoQllwcEk?oc=5
-- **Source:** Artsy
-- **Published:** 2026-11-21T21:56:46+00:00
-
-## Olivier LeMay, HMS Artois Demasting Révolutionnaire,… (1794) by Olivier LeMay - For Sale - Artsy
-
-- **URL:** https://news.google.com/rss/articles/CBMitAFBVV95cUxNNklydDZNNlg5Q21KRE9VQVhoZjFvUnZGQ2xOemoxMXMxLWNTNXFqeVl3cHExWnEyQjFBaVdSeDdvNzd1R1hvOE8za2VxT3p2VjV2ckdsY21KbzVDd0c5cXdFUXhRUjZWWUJtX25HdTBvdWI4WnlyVThRV25rUG5SUU0wakhlUEpPWC1CUlZRZDBKNV9ITXNPQ1E5N2dVOUxVdVpNa1E2emJKYUVHVUF4TXJCdGo?oc=5
-- **Source:** Artsy
-- **Published:** 2026-11-21T21:56:46+00:00
-
-## Egypt Signs Weatherford Deal to Revive 100 Idle Oil Wells - News and Statistics - IndexBox
-
-- **URL:** https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUkgyTmJ0cVM1ck9valQ4Wk1ybEltdXVWTlJhdkpaMDVjWjk2YUkyMGNIRjhmLUxoLWtaN1ZoRzFBdkVQaFZYMDR2NVNkb1FyUHViaVU3X1FpTWh3c0hiS1QxcU5YU1lYcmhSaE9pUTlwcm9KSHlrZU1NRnFzdzlEcVp5a3dvOVlhb3Z4U2lIQ0gwUTZzeGxGZEhQa1UySjJYa3ROTHo2R2Y?oc=5
-- **Source:** IndexBox
-- **Published:** 2026-11-21T21:40:46+00:00
-
-## Weekly Death Notices (11/14/26–11/21/26) - Oil City News
-
-- **URL:** https://news.google.com/rss/articles/CBMiigFBVV95cUxQbXZkaGVESEpqN3Ficm9PNDdQdTNXX2xMTWRIN0ZvU1h1NXNnTmdYRmI4Y2ZtZXJfcTQ2TEthQW9IbnUzaU12MzhGNVhPM0NhaGxaY084dG5iYjd5R2ItUmg3T2ZGVHYyNlM4bnUyQnQ1WFUxbmtRVm1qT3pmdlhfZUloU3IzdTB5SUE?oc=5
-- **Source:** Oil City News
-- **Published:** 2026-11-21T21:29:17+00:00
-
-## K Harris, Portrait of Corvette the Corgi, Framed Oil… (19th Century) by K Harris - For Sale - Artsy
-
-- **URL:** https://news.google.com/rss/articles/CBMioAFBVV95cUxQYTdGV3RBNlBNcFB4bzB0Z091SllydmcyT296dHUxV3Y5Ui1FWjZSaFpySmhjYk0xcm9pVFBvbXk0SlFMdUxfbUFfRjRUZXd2V0NIUV9yMlA5QzBQUDBGQjRaeXh1T1FJMzZ4QXB2cWtkZDE2UXJ3aVZESm0xX1I0NmpraGpjaFZFZ09EMlBhWkhkZkRtYjNpeWZaODV0TXQy?oc=5
-- **Source:** Artsy
-- **Published:** 2026-11-21T21:15:38+00:00
-
-## Japanese School Mystic Figures with Beaded Cord Oil … (ca. 1900) by Japanese School - For Sale - Artsy
-
-- **URL:** https://news.google.com/rss/articles/CBMiswFBVV95cUxOa2xOMjB2dVhrbDk4RGVyaTZUbFU3Q3Bwemt6Q0FITmp2RjY2QWdnQ2lIN2JQdjBsTjdianppUnE5by1CV3k2RE1BNFJmaDJhcHZrRENWTDNfa2pieVpTMGFSdWhGR0FmelJTcGMtLTZlN2oxWE1CZmpEMXVzWG1BQUMyWlpUajhVM2hLTjZWQTJmSWR5Y2p2U3YwVlFzSUdlbjZlaWxOLTBZWFFZSXI3VEVLOA?oc=5
-- **Source:** Artsy
-- **Published:** 2026-11-21T21:15:38+00:00
-
-## William Page Atkinson Wells, 'Goose Girl', Oil on Canvas in Carved Frame , Late 19th century - Artsy
-
-- **URL:** https://news.google.com/rss/articles/CBMiygFBVV95cUxPZTdjTFNFNkRaMC1JRTlEcFVnN081SEgyWnF0U0RHWXZ4aEJDYVExbGZZU2Z0VVNId1Y5RTlnNWpsaGRabl9mTGtQaWhqNGUxd2tLMVhhRHRiZk5RUWhic1EzZWNqZ2FRa1BpVXFHVkdkMEotZWRra3dqcDhIMEVoMkg0dENGcjdaNFAydlZKMExPSHp4eEloRzZ1SnU1QVR1ZjJqWE1zRTNjekwtM3g1TW1qZmNnM190SkViU3VxT2VlMG1UaWJIdjBR?oc=5
-- **Source:** Artsy
-- **Published:** 2026-11-21T21:15:38+00:00
-
-## English School, Portrait of Two Pekingese Dogs 'Jip … (ca. 1900) by English School - For Sale - Artsy
-
-- **URL:** https://news.google.com/rss/articles/CBMivAFBVV95cUxOQlc0bGR2a3A1bEFMN3AwSng5MzkzTmc1UDlvSk12ZnByTFJTVlBpc0drT3ZfTi1TcG9mNTl2d1A2Wl9uZWpnbjM1bEt5UU1SSnh6S0dSbG8xTWlLZ1J5WTk4VzRnQ1U3cF9ObW5sUW41bXZweHhiXzZjdDBzMi1UVmhVVnh2bFF6Rzd1bVpEVnVIU0RkYXBTaF95SU4tOHZLdWstZ0h4M3EweUZIWjNVdVBXQllCMW1jaEg5Mg?oc=5
-- **Source:** Artsy
-- **Published:** 2026-11-21T21:15:38+00:00
-
-## Joseph Farquharson (1846–1935), Study of a White Cow… (ca. 1900) by Joseph Farquharson - For Sale - Artsy
-
-- **URL:** https://news.google.com/rss/articles/CBMiwgFBVV95cUxNa2NlTkZ3UmhSMXJYMmI5andMTGMtZUZhdDVFNU53YVJ0WlFKLWc2bVRQTk1CQ0VXcVlMWlh5UzB4YVZHYVNjMmJRWGJyTXoyWExHMUYxR1hydXd5WTJrazF2bHQtb21zZUpZM0MxcWNIUGp5WVVzODdSZTdfTUd4aW5RNTQzVXN3STR0T1VaQ2pTZWI5NzQyaXRHb1N4eTVYUFlvVE5xVWtqYjRXbW5uVmRFZUE2ekNXRy05SjZkZGw2QQ?oc=5
-- **Source:** Artsy
-- **Published:** 2026-11-21T21:15:38+00:00
-
-## Lusignano De Cuppis, View of San Nicolò, Sardinia, Oil Painting , 19th century - Artsy
-
-- **URL:** https://news.google.com/rss/articles/CBMirwFBVV95cUxOQmRoQlhPenNWMk5KRnIwSmN0QUd6WjhuTEhVWWx2ckZ1cTNYdjduMElZS09oVVlfSkdJSkxBZFd2RURDTlRQWGM5Z2dpNXVZa2EyZTcyc0lGNUZZRmN1cVRsaHhJSWFvUkhJZW5kbFhhVDFJZVVjM0dZTE5VNkRKcDV0WnZBWnQwbzl0NzN1aEhrTmE3S0dvanVFaHBFZnN3bUF4aXhDWWtGcEN0WXAw?oc=5
-- **Source:** Artsy
-- **Published:** 2026-11-21T21:15:38+00:00
-
-## James Elder Christie Oil Painting Robinson Crusoe Gi… (1886) by James Elder - For Sale - Artsy
-
-- **URL:** https://news.google.com/rss/articles/CBMipAFBVV95cUxPTU5aT0lQeWg0SGt2bl96TjVJcXFsOTc3QTBfWGFGYVBSbDZoRnA2dWlNRTJWa1ZHaFFYRlAyelNtRXNxcWUyRmRFbVd1dXVqVmlmZE5XaERpUllXZGhHVGwyamljeC1VVTJkcTlBR3VmVy12QVRJNm9ITnpQUmhvTEh1aDE0cUpheHNWWnIwdmJSMGZZaTJFZXI5R0dkRHA0eEYtTQ?oc=5
-- **Source:** Artsy
-- **Published:** 2026-11-21T21:15:37+00:00
-
-## Oil Tankers Hit Near Strait of Hormuz as Farm Energy Risks Rise - AgroLatam
-
-- **URL:** https://news.google.com/rss/articles/CBMioAFBVV95cUxQN2M4TWlQTVJRSFZkdTB3WEdLblQ3MU5lUXE1aWdHcFVOXzhFQ1ZBcC1PM0tSaGVDSjcwUW92RWl1anpnMHAwTXV5MmExaE9PZkZmb2p4MExTYnA0TElJYVRzSkdGdWdMbmFuaHpOZi1sQTZlZXdYMGd6ckhYZVZzWnJrVERWM0RpcFQ3ZndHb3JHS0lvX0sxcmlGQkktU0pa?oc=5
-- **Source:** AgroLatam
-- **Published:** 2026-11-21T21:09:04+00:00
-
-## Iraq Refers Oil Smuggling Case to Judiciary as Security Forces Deploy in Jurf al-Sakhar - ASHARQ AL-AWSAT English
-
-- **URL:** https://news.google.com/rss/articles/CBMiwgFBVV95cUxPM0JHNmZNN25tSUQySHNEVnhCOEh6TjRHTkRNY0s2b25ZN1FDbmpMMUdoRFExNkplQ2VjNEpKUG5QQmhHcUZxSDVHZWQ2bzRTazZmWjlzUnNzdDZuMTMzMnhPT3dEWkd0QXh4R3hnYWNHMUJSZnBVT2FtdEp4M1l0blZYQWhZVVJ1a0hHd0NrRnZaMk5XYkxJUXdUdFQ2R3JuSlhFWF9vSXIxUU05cUU1ZkFHbzEzX201SDVZOEpsNVdiUQ?oc=5
-- **Source:** ASHARQ AL-AWSAT English
-- **Published:** 2026-11-21T20:58:36+00:00
-
-## Iran Readies Blockade Run As Oil Prices Log Third Weekly Loss - Benzinga
-
-- **URL:** https://news.google.com/rss/articles/CBMi0wFBVV95cUxOa3pUQTVlN2JEekZ4dDhCZU9HUVJXSjh0S0dMd1lVNlQtRFVDblJzbVpveTZUUFJ0U3hCTDFOa294ZHRSUjBoSTlQdTlSYVNSOXNGc0QtLW1WWlI5X21JaUd0R0dyVGpOZkpvR2pMMGppZHpQU3JLcnpxNHpzT0M3dlgzSDMzNzRXYmpUNFdTejRqRTZqSjFqVkNpeWJ3TFBDc3JQN09uNmhPdUlQQU01bkJLMEw4SlFpQTFiMDhNZ05Ub1NlU0d2d3FXWC1kX0xMRllj?oc=5
-- **Source:** Benzinga
-- **Published:** 2026-11-21T20:46:11+00:00
-
-## Oil Tanker Catches Fire After Striking Naval Mine in Eastern Strait of Hormuz - WANA News Agency
-
-- **URL:** https://news.google.com/rss/articles/CBMingFBVV95cUxNSnlmaEhQZ2JDZUxqNUp4dFQyWkE3YlRXSmFxdEp1aWI0WXE3c19UTkQtTEpWeTBWbEI5TWE4R3E5TjFPYVc0ZFVsSUd2ZHFZVW12bWhVQ3EyZWdQZlBOQVY0V0FEWTNIR29xMktCdGhqRWZpTms0N0xINFBVNFZnal9BM1d3WnlobnpxeWIwRC1UZTJ6Y2U0cFg3VE01UQ?oc=5
-- **Source:** WANA News Agency
-- **Published:** 2026-11-21T12:11:19+00:00
-
-## Texas oil has always relied on Republicans. What will the blue wave do? - Houston Chronicle
-
-- **URL:** https://news.google.com/rss/articles/CBMitwFBVV95cUxQYjJVTVFaOTh2X0Q3Tk9UbHBjMVBIWDBoTGNoRkVfYWF5a0V2bjlSMVpubm5JX251X294UEtxNTl5Y3V3ZmxxMHF5RmgzUnpIU2wzZ2QtSVFXaEpoTWNrcHZodERCVnhoNzJwY08tNlh6ZDFyelVBR0cxNktOb3h3SV9pQ3p6Y2lnOXRNOWh2TllFMld0RmhUWlY2S0dtUlZwOXNRV0RXWUJqUXhQQnZDdTdWVHVEWHc?oc=5
-- **Source:** Houston Chronicle
-- **Published:** 2026-11-21T12:06:15+00:00
-
-## Middle East War Threat to U.S. Oil Supplies, says Wirth | A LOOK BACK - Colorado Politics
-
-- **URL:** https://news.google.com/rss/articles/CBMirwFBVV95cUxPSThGa1ZTWjU0WlQ0N2ZJeDVHMHhBV2xuWkhpZjZKLVNZQ1ZsVXY4eVNfa1VvR2ZETFhXMFZRZWszMy1hWmFYU2VIa3ZMZFRUb0hTS2tjNmFlYUxmaUpsNC1xQXdMOWM4U3VzWEtTdUdiRFRuby1vSlFEZWpGTGhFT1FJY0o5Y0RrVGJJSnFzeDBlTy1fM2NWWXMzdzFrLWtsRU4waHZTZDRlWk02RkxB?oc=5
-- **Source:** Colorado Politics
-- **Published:** 2026-11-21T12:00:00+00:00
-
-## Shafaq News..Three officers detained in Najaf oil smuggling investigation - شفق نيوز
-
-- **URL:** https://news.google.com/rss/articles/CBMilAFBVV95cUxPQVBDTUl2dkQ3M0JCYXFTYW9NVHZ0WEladk1xTkltSW1kNktTLTVnbzFrNDdRVDQ2YUtWeEVtVjRnWEpvbFgwUmVlNU5KLVFxT3BiUVFTbmdrcmNiaVdrT1p4bjd6TnBsYkJoRjlFazNJdl9BOEVSV0lSTWIxaXJOVHNiNVpHOTVta0EyMU10bmJqNWEw?oc=5
-- **Source:** شفق نيوز
-- **Published:** 2026-11-21T11:41:58+00:00
-
-## Live - US, Israel weigh strikes, Bessent says Iran may never be paid for oil already sold - Iran International
-
-- **URL:** https://news.google.com/rss/articles/CBMiXkFVX3lxTE1QSGNMZThLWmFoay1wNWFqWEZVdjRnOVAtQ2RmSFJVallkTWFxWE5oVWlXUF93MHByYlYyWWFMZEpTdEJkT2hpWm9GblNFdGpnU1lpaGF5Rl9RcFlMX1E?oc=5
-- **Source:** Iran International
-- **Published:** 2026-11-21T11:36:11+00:00
-
-## Edible Oil Research Shifts Toward Quality Design and Nutritional Evaluation - Bioengineer.org
-
-- **URL:** https://news.google.com/rss/articles/CBMiogFBVV95cUxQZUpzWWNNMUtMeGN0VDdZdXZFWWk1RWFzZTQwWUZPRndLNHhDWlVoNlJjSFJQUlBMdUVZR3BYS1lUcC1Qa25aWmR3Sl94N3VBZVRIRTBMbFNxU185WUVlUkRMSlU0bU1FaDBnQTRlUjRfVzRaVXJTSkRjMXlwTVN3cXNrSUJ3ZnNoM1B6UUVabXZqQXZnNVozUENLd1NJSWphNHc?oc=5
-- **Source:** Bioengineer.org
-- **Published:** 2026-11-21T11:32:45+00:00
-
-## IRGC Navy Says Oil Tanker Exploded After Striking Naval Mines Near Oman’s Khasab Port: 6 outlets compared - NewsCord
-
-- **URL:** https://news.google.com/rss/articles/CBMi6AFBVV95cUxPMTVjbF9zUV9GY09EVWllbmJGVjJMbVZibTFjMWt6d01iUFhUMVZkNFNuVkFrX2FYQ1V2cC1XOGMyUmFWcTF3cUl3dnEtd3EzT3JkbEo0VzdNVUlWNjczQ2ZPd0Y4ZzVqaTRwTm44UTZVek9FMXZsbEZsVVpHRmk4ckEtUURKRzFNWF91eVprUXlpM00zbEUzUXgwdC1qWXRuZE0wUkxkeG81Y2hQdGpjcm1MUUp3WkJBMkRwR2g3cklNam5GZl8yX0tXNk5oTFFwaEFmd25GVHNkbXMyTlZBdmRSR3QwZHhk?oc=5
-- **Source:** NewsCord
-- **Published:** 2026-11-21T11:23:44+00:00
-
-## Strait of Hormuz attacks have increased to highest level since Iran war began - ABC News - Breaking News, Latest News and Videos
-
-- **URL:** https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWHRGNHdBbkpIa3IyWTlmV2l5aDVwZ0pLUE1WRzhIVjRqM3p4c3ZsSWNtaVo4YnU4WHBwbUREbzJoX1VzeENVb0xFclVKaW9HY2lVb2lxRnFzWUhNb3RvTDlPYjRfUTVWOUU1dHJ4b2lfZGNPV3h0SGZfdEJLX3NacWxLam1QV1pnb08xRVFDei1OaFZIQXduTmJjbkNqYXFuaGk4a3p4OE5YR0HSAbABQVVfeXFMT3JyZk0yRTFISFBvWF9WMnZrUnp2NHBtMG9pRHo2OUlfaHd0QkZOWmEwWjJLMHJMdlMxal9WQ0lfU1pyd0RLejdCaEtWS2tGUGoyN0ZDVFJOWUZoR3RBQjBsUS1RV2xWcGlVSWNsd3c5aTR5a0dMWkUtMWtVeV95ajVhMkJBc0FrdVo3OWlmVUlPY2tLRU5VWmwtQzRKTXktQnBYVHpSN2k1U2xwUDJVdHU?oc=5
-- **Source:** ABC News - Breaking News, Latest News and Videos
-- **Published:** 2026-11-21T11:18:44+00:00
-
-## What Happens to Your Body When You Take Oregano Oil - Yahoo Health
-
-- **URL:** https://news.google.com/rss/articles/CBMilwFBVV95cUxONUxPaGUzNldoMVc0NWRaTHBmNzhhTHRnUnRmNjRNN2NEejNJeHUxcENwcUpwRGlRRDJRTUxfZTIyaXFqWU8tRXlkeDNOSW1WOUh1VTZwQXhlS3NOQm5mMEVIcm5VWmhqRUpONGxQNXBab05ncUZwLUFUd1ZIX3N3dXB5Wk1uQTZJeEJETXpNeFBqbE9WaVU0?oc=5
-- **Source:** Yahoo Health
-- **Published:** 2026-11-21T11:00:00+00:00
-
-## Oil Lamp Theater Presents “It’s A Wonderful Life: A Live Radio Play” - Choose Chicago
-
-- **URL:** https://news.google.com/rss/articles/CBMisgFBVV95cUxOM2RUMHlJZm1nNjVpNUZJRmhKLVI1RlNaYm9nNFN4NW1mSHdQeU8xSzZESjIyUVZ5WWV0bThLcExTNUhvUXI5Zkk0Z2ZDY3QxMFlBTjRFcWppTDluOXJtODF6WVF6ck12eHFlNHJvZTlZWThUTkhqWXdKNUVuSFNGZ1E3N1M1d1ptLVVYR0s2Tk1VV21UNkhGclplX1ZpMXd6ZkFCeTRKU0pwd21UUGlDY1FB?oc=5
-- **Source:** Choose Chicago
-- **Published:** 2026-11-21T10:39:49+00:00
-
-## Uncle Sam wants to turn some offshore energy gear into artificial reefs - Chron
-
-- **URL:** https://news.google.com/rss/articles/CBMingFBVV95cUxOcVZmQm1mbVBCVlJPQnRnaTZWczhwRi15QUFjRFA5TW13S1lrZTZtcHl2OXVndFNnTWR0NlNHbVZXejhkLWF4cXVHTE9uTWNsTGxjQTZfZHBIdnVFX01kU0VhNjh3NFZucHdpQVBHdEFoTzVWSGxJR3JkSTU2Wk1tSXVHSlBlMzd3NXBaQlFHRWdXQk5vTG5ycGlXRmRJdw?oc=5
-- **Source:** Chron
-- **Published:** 2026-11-21T10:34:52+00:00
-
-## OIL PRICE ROLLBACK! ⛽️ Motorists should expect a sigh of relief next week as another round of pump price rollback might be implemented. Read more: https://www.gmanetwork.com/news/money/economy/1010298/up-to-p3-liter-diesel-p2-90-liter-gasoline-r - Facebook
-
-- **URL:** https://news.google.com/rss/articles/CBMi3gFBVV95cUxPNHZMY1NYNFd3OHp6MUpBVlRKekk2Rl82bjRpWHAtZ3lHcXdLMXN0MXVWMld2QWpSRWJ1WEpyT0ZNOGh3SlRyVXo1cHZDdzNWdW84eEpqUGhUbDE2RlZ0UEZxYWI1WnFGdVFuelo1enNXeGJXai03bDdRbHZNZlVnWldLcVROY3cwMTdWNkNvNGx6MGdXdHVNems4cnc3U09VTmpyZi1GYnRSTzd5X2lPOEdxZ2trbG9kbk9fOWxDYWNNYVczVkxMSUtoMklqVENRY0xVUHFyQXg5b1ZiMmc?oc=5
-- **Source:** Facebook
-- **Published:** 2026-11-21T10:30:02+00:00

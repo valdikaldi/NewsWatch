@@ -1,8 +1,80 @@
 # NewsWatch — Iceland News
 
-_Last updated: 2026-11-22T01:56:08.740709+00:00 · 50 articles_
+_Last updated: 2026-11-22T12:19:31.728601+00:00 · 50 articles_
 
 ---
+
+## Husband's unusual request turns into heartwarming homecoming - Iceland Monitor
+
+- **URL:** https://news.google.com/rss/articles/CBMipgFBVV95cUxQbkVldlhvVklFVzNBTGtTZ1NsWVlnbkN5ZjRyVGJodVpVcjNrTDQzTTZCM2J2T0lXeUlXWHJzX2VOOXpuZjlTT3oxaU9UWTUyQ3JKeGhUSXk4NzVBSE93RFRNSWw5R1ZjdFlMcl9hTC1vRFN5Z0VHeklfa0dMSEpaUWRDUGFGaVNINnNINndFc1ZXZkpjQmhsdGZ4emNSTVZlcjZnRnN3?oc=5
+- **Source:** Iceland Monitor
+- **Published:** 2026-11-22T10:00:00+00:00
+
+## How to Reach Selfoss Waterfall in North Iceland - https://www.thetraveler.org/
+
+- **URL:** https://news.google.com/rss/articles/CBMiggFBVV95cUxOVUNPSG9Wd29UUmRzY1RQQjF2cGUxZUFrZi00U1pjd3BiX0szMDVmRDR5anRSUy0tUWVVRFQ2X3lZR0twQk1zakdocHdYaTV0UV9SeWEwRU5uZUtYNlBrbEV3NmRndy1maUtsM1RwdEIzZTdmVi1TTE5SMzJ2ajltaHpB?oc=5
+- **Source:** https://www.thetraveler.org/
+- **Published:** 2026-11-22T09:30:26+00:00
+
+## Top 7 Must-Do Things on Your Iceland Trip - Luxury Travel Magazine
+
+- **URL:** https://news.google.com/rss/articles/CBMilAFBVV95cUxNcWFUc0RWT24tMGdhWkVINllOcGtlT2V6R1lpNC00X05JVE5HMVM5N0p3UUtOZ2N2Sk5zUHJrdnhGSHk5cmxodmh0T3dWT1ZZcm1OWkdCTUZjam1pMllBZ2UxYm9BaGNuWVY2UjU1SnJHb3BiTTk4ZmM3bTlCU0stbXh1VS05X2E2bUF3b0E0YVRubWdF?oc=5
+- **Source:** Luxury Travel Magazine
+- **Published:** 2026-11-22T09:07:27+00:00
+
+## Visiting Iceland in February for the Northern Lights - Luxury Travel Magazine
+
+- **URL:** https://news.google.com/rss/articles/CBMipgFBVV95cUxOb200b0VEMEo1cnBZUDZRU1lTbnFVOFFHa2djZHBOa0k3bU94LTNlLVlmNFZMcUNkcnA3elJvTWNlcVNRQ1BFMDJRMEZCdlk2WlhWYk5Ld2JPTEdZQWpUNy1GcHNSbEI3Mm1Zd090OWk3Zk4xYVJXN1BDcnZYQXNhNUZpTldrZW1tT2x1bmJOeEpyRFNFb2UyRHFwbm84eTMteV9keExR?oc=5
+- **Source:** Luxury Travel Magazine
+- **Published:** 2026-11-22T09:07:27+00:00
+
+## Top 8 Essential Tips for Renting an RV in Iceland - Luxury Travel Magazine
+
+- **URL:** https://news.google.com/rss/articles/CBMinwFBVV95cUxNNjlpSERwVThiMXlpQ1FmZWNhSnhvMXMzal9jN1E5LUZDVzNNeVkwZThEYmY2VGptVjh1eXM3VTBvczhNU0hsenpSdWtYU3NMOF9MbzNxdnJXLXJJdnh3UnkxUzNmLXJwa20yTUpGMnE2WFN5dm44MDloeFF1bGFXSlFjQVZkMGdVTHIzejV1Vlh6ZVBmOTk0eXQzSklUTnc?oc=5
+- **Source:** Luxury Travel Magazine
+- **Published:** 2026-11-22T09:07:27+00:00
+
+## AP CM Chandrababu gives directions to party leaders on panchayat elections - The Hans India
+
+- **URL:** https://news.google.com/rss/articles/CBMiygFBVV95cUxQVFI5VGFJUEUxamp2WVlKaU5qYWM1anR0b21LWExsdEZCNjZkMVBqNkdCVjloakp6NkFyYmxvOVFmV2JjYzlXWVR0bnF6TzdkVnNnZGtjTndGd1dKUE0wSEExMi02QWJhM19nUlZYN1pLZ2hTekdJUzE4ZTlCTl8zaTFReDY5VUVMTFJtNFdKU3h6aGxmWEFyenFHYnFHa2VZTVVOYnRQRHJqOXY5VDV3ZWNXNWwzc05IdXVVSVpQcTJVLXU3clBUNnRR0gHKAUFVX3lxTFBUUjlUYUlQRTFqanZZWUppTmphYzVqdHRvbUtYTGx0RkI2NmQxUGo2R0JWOWhqSno2QXJibG85UWZXYmNjOVdZVHRucXpPN2RWc2dka2NOd0Z3V0pQTTBIQTEyLTZBYmEzX2dSVlg3WktnaFN6R0lTMThlOUJOXzNpMVF4NjlVRUxMUm00V0pTeHpobGZYQXJ6cUdicUdrZVlNVU5idFBEcmo5djlUNXdlY1c1bDNzTkh1dVVJWlBxMlUtdTdyUFQ2dFE?oc=5
+- **Source:** The Hans India
+- **Published:** 2026-11-22T09:02:47+00:00
+
+## Iceland Presses for Faster Fossil-Fuel Shift at COP31 - Iceland Review
+
+- **URL:** https://news.google.com/rss/articles/CBMigwFBVV95cUxQM1JHeE53OVRfN1RCVzFVMW5yOS1NM3E3Qk5tSmRWaDRqam1aZHFiTGVpMTRZdWpSUTdtUzZWMVRjZDVHcDFfcmFadS1VTV9VZnl1QVVQeVpwWlNtM0VHYXE5U0VOcFBYeGx2bjk1czlBbVN0OXJnajRLTE9sSWJZeVkxdw?oc=5
+- **Source:** Iceland Review
+- **Published:** 2026-11-22T07:00:00+00:00
+
+## Where to Stay Near Selfoss & Dettifoss in North Iceland - https://www.thetraveler.org/
+
+- **URL:** https://news.google.com/rss/articles/CBMiigFBVV95cUxNSVQ0Y0d3aEh6STFhTmdxVHgtaU1sNUdnRXM1eUVsSkhHYkpkZXQ5a21PT3J0YWJ1bzVBclYza0o3ZUctNVloN0pEalE4d1R1ZXd4WnJpVmszNDRXSG1iR0tNMl9ONExxemdsRzR6Z0lkRFFYOWs0LXM0Ymk1aGFvUnFEakVxYW5GOHc?oc=5
+- **Source:** https://www.thetraveler.org/
+- **Published:** 2026-11-22T06:30:26+00:00
+
+## Top 13 Best Hiking Pants for Iceland You Can’t Miss - Cape Fear Investigative Services
+
+- **URL:** https://news.google.com/rss/articles/CBMickFVX3lxTE93ZUE3RmVBLTE1OEZ6cmxSMHhxODhaSmNoSXlDNzFiUThSWVZBUGlWXzd2TmlxVzBKRmE5enFhUGc4TXdJRjhqSUQ1aHFxMnJaeGxQc0tLbl8wYzhpSTV2a1J4LVdrTUFxY2E4c0ZVM0hfdw?oc=5
+- **Source:** Cape Fear Investigative Services
+- **Published:** 2026-11-22T05:55:30+00:00
+
+## Minor mag. 0.5 earthquake - Iceland: 3.9 km ENE of Krýsuvík on Sunday, Nov 22, 2026, at 05:05 am (Reykjavik time) - Volcano Discovery
+
+- **URL:** https://news.google.com/rss/articles/CBMivAFBVV95cUxOX2swaFNOZ0hBU2pFYldWMTNWUDhiVC1JUFc5b1piS1MzOGxtWFZ1ZmRwWjktYjg5STRKYUJUYVBKdzhQRUdxVWFjcTVfcnd3X3NRekFmRmV0MU5zU01FUC1TZ251a2V4UTNpMHVMREVtMXFlY3NHdFFIc2VnQl9pbzFST1V4dFB3TjlTUTM5enQ4WU9mSGl4QnUtdFRXV1pqMXIwZVFLQlcxUDByQ0NhZjE2Qk5WOW03TVB4aA?oc=5
+- **Source:** Volcano Discovery
+- **Published:** 2026-11-22T05:14:00+00:00
+
+## I compared Quality Street, Celebrations and Heroes — one has most chocolates - Liverpool Echo
+
+- **URL:** https://news.google.com/rss/articles/CBMiogFBVV95cUxOTUt6NGd4MXZIVEt2cklKbzlwY0NlQUswX1NHT256eUVKNnRYSmtRWnNLZTVpTldsYVNza0E3OW5TaWhUMGV4S2MyN3lpNFk0R0dJZ1JPTTgyLU4tY1pOcy1uVTFNeElkOTNWUDZtMGZBUzNweVhHME5xbjlLcFJuRDJQS1RnMlZWLW1OZU9NQjlfUDZFcUVHT1RlSlpjRndaSEE?oc=5
+- **Source:** Liverpool Echo
+- **Published:** 2026-11-22T04:00:00+00:00
+
+## Selfoss Waterfall in North Iceland: Complete 2026 Guide - https://www.thetraveler.org/
+
+- **URL:** https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUzZXUzN1OF9RRmk5VVVTUDZwR3pxYi0zSWhFS2lkdkZjcUVkaG1nZ2FCWG9oaWxJVG1XLTdsVmtMOExJSzBCU3dOZE1tM1BTMzlvMW5QSFdYbWN3SzVfR2tjS2kyRUpJVHp1WXNQZDhNRU9KdWJvWWRCSGowV1FtWTZRX1M3LTNPeVhB?oc=5
+- **Source:** https://www.thetraveler.org/
+- **Published:** 2026-11-22T03:30:15+00:00
 
 ## Iceland sets duration of oral test for foreigners applying for citizenship - Legit News
 
@@ -231,75 +303,3 @@ _Last updated: 2026-11-22T01:56:08.740709+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMiygFBVV95cUxPZWoyMVF4LUE4OVFIS2ZQSFAzZUZScmh4eEUwWHZmMjF3RjdEb2xwMUsxYV8yWWNRTXMtRHV2bjdYMDJ4STFNX0Vpc2lmOE9KWlJoNFgtckpLS2pFYll3d2tqNERZb1lrVkhxZnhiUUlQVXBjUndZQXBYRTVpM2djbE40RU96VF9HTXhMNVdJdDlfU2NKcU1aVFFReEUtSy1CbmNpNVNPQmlkWjdJSXZuWnhod3VZVV91T082TTJJM0EtbFJfdEY0T1lB?oc=5
 - **Source:** aviationtoday.in
 - **Published:** 2026-11-20T11:09:32+00:00
-
-## FORMULA OFFROAD ICELAND VIDEO: The Best Rollover Highlights from the 2026 Season Are Right Here! Check Out The Flips, Rolls, And Flying! - BangShift.com
-
-- **URL:** https://news.google.com/rss/articles/CBMimwJBVV95cUxOSFdkMzNGbFFUOVF2WWNYNlFsaThZMHJLYXRqTjR6WkRJdjl0dmt6TmF1VjVKVmtPem1mYjJBTkZiLXBtdWdMWXowTXFXUnU5QlZsQW4wZ1FwQVdMc0RwdVd2MlVUQlg0THFLQ3ozdi1KTktLQXdrdlJZa3BwamJzbGVVbEtqN1dqaGdMdk9lNHJrS3doaXl4SFNnVjZ0UjRmSEV0Rmpvclc0LWhPTlZqaG1TM05JSUpLbFlSM203VEVCUzlTa3FDSk5MSGt2VDBPWWpGejZnTnJxcE41eVBaT0ozZ0Q5NWY5MG5BUDB5VW1NcWp4RUxkeWtKTFFndWxPaVl4aFpLOHBIMmkzM3BJS0s0Q3FWVVJLUGtV?oc=5
-- **Source:** BangShift.com
-- **Published:** 2026-11-20T11:07:17+00:00
-
-## Nigeria and 9 Other Top Countries With the Most Asylum Applications in Iceland - Legit News
-
-- **URL:** https://news.google.com/rss/articles/CBMikAFBVV95cUxQZXlGX3RvNHM2QnBBRkNXdW14eE9keUtTTnB3RGlNZ25YbXgxcTVPalMtOU8yWVJEOHVVb0NlQmZiOFZGUTBzVlhCRmNKcFliWEM5NW92R1VCQUo2NGp5ZGdycVJpOWpUNWRaSTcxRkg1bnJnc3FoZEREZHBMMm51b1VuOVRETkt5dVN4SEgtYkg?oc=5
-- **Source:** Legit News
-- **Published:** 2026-11-20T10:01:20+00:00
-
-## Iceland Petrol Prices Lag Behind Global Market Decline - Iceland Review
-
-- **URL:** https://news.google.com/rss/articles/CBMiiAFBVV95cUxONXVjNHEtblU0UV8yZ3ZwbFVMcG1MdUZEcC14clVzamctWXJVLXAxOGZialRTbjRLZ1dqazVhZ2JUMlozTVBmSzg1dzMxazZ0cjdsM3NnR01FMTV3a1lEUUpmMDh0Q1VOTjdhc2hoV0hKQWxxcGRndVAtUEtlVVQ4Szl0TEctUXdy?oc=5
-- **Source:** Iceland Review
-- **Published:** 2026-11-20T10:00:13+00:00
-
-## Vinland Saga Creator Makoto Yukimura Visits Iceland, Meets 26th-Generation Descendant of Thorfinn - IGN India
-
-- **URL:** https://news.google.com/rss/articles/CBMi0AFBVV95cUxOejkzUk40dFo1MkFES19rbkJ6Y3hNc3Y2X0ZCSUx0OWotd014cVJZc3JVVGxGNXRQTERYeEhPTUQ1LTQ5TXFLWGZ3bnBJZ21aT05FaHI2Wm82LUFFUDl6OEdMY3BPZDkzRkI4ekxRdkNnQkZGUFlQSlVyelVON1FPMVVJTk1WQXN5UExpY3ZkVTJzNTkzeWlHZFhabjNXZnFNRHBRcXptZmNsV1pUMUNPc1FjR3hxUGNDb2VhN2FvVDF3dVNRckdjcm0zcVNBdEJ3?oc=5
-- **Source:** IGN India
-- **Published:** 2026-11-20T09:30:14+00:00
-
-## Five fantastic jobs available near Kingston: Iceland, Building Imagination and more - Kingston Nub News
-
-- **URL:** https://news.google.com/rss/articles/CBMizgFBVV95cUxOdlpsemhEZnZJWnlmUVJiZG00dTVsRDJMazhIaXhTU1hqbV8zalZrMGdaTWUybjIzSU96cGs3WkI3MEp2djRGOFRtZ1p2U09WcGFFYWhNTmFQd29NWkFieUkxX212U1dpTmtLdUF4RzJWZEQtbzhCZWxMNEFGNnVwa0xzSmQtUG45a2FlX3NVckFtdmE0MHBjdmpqZmZ3ZkdMZTlLWkxIVzJ6elM0Y0xwMHA0U1p0YlJMNHBSdzFBUllsMWZEd1k0WnpQZF9Idw?oc=5
-- **Source:** Kingston Nub News
-- **Published:** 2026-11-20T08:52:18+00:00
-
-## Blue Lagoon Raises $110 Million in Iceland IPO Ahead of Nasdaq Debut - www.tokenpost.com
-
-- **URL:** https://news.google.com/rss/articles/CBMiWEFVX3lxTFA3VkZtdHVqa2hpdXJKakhaM1F4VUlhM0JvMWJld2I0SVBYbzRLMTlCRGdzRmFzVjE3QXdqLThGSi02SlRoZ1hrNi16a0JrSThFMjdVTFNfUDc?oc=5
-- **Source:** www.tokenpost.com
-- **Published:** 2026-11-20T07:51:54+00:00
-
-## Blue Lagoon raises ISK 14.3bn ahead of Nasdaq Iceland debut - streamlinefeed.co.ke
-
-- **URL:** https://news.google.com/rss/articles/CBMilwFBVV95cUxPX25ONjAtRk1hWTNPZ09JMk12MDRqeHY5XzJoWjg4UER3eWtmWjRINERmZ0JxUlJGaUNLVE51LXJwTUZuMEpiNDlVeEhsdF8teDNMakxtcnBlR3dvY2k1NGlldmp0U1BKSWt5NzZxNFZVS2Y5SXBFVmJzUzBld0VvRzNfTHYxTVpBdS0xTXdWV1daaTlKQk9z?oc=5
-- **Source:** streamlinefeed.co.ke
-- **Published:** 2026-11-20T07:50:25+00:00
-
-## Weak mag. 2.5 earthquake - Iceland: 6.4 km E of Goðabunga on Friday, Nov 20, 2026, at 07:41 am (Reykjavik time) - Volcano Discovery
-
-- **URL:** https://news.google.com/rss/articles/CBMivAFBVV95cUxPbVVsbzUwTGpYS1NQaTZyZlpvRHVLZnZyYTBFN0RYRFdQZTMxamhUczBrZmpRQ1hyckt5Wjg5Q1FBSUhBQkJNSHIzb2w3MU9lMTJDd3RoN21SX1RfSUtld18wWEFvTm1mbE1IRXZlQjJHWVRZa1NrZXNsUGFKdkZkWEdXSFBWeFB6a1E3LTZnWXJGOFEwYTN0eHg2c29NWThTX3dPaUlXNUdUdDZ0ZlJMYng2UVI0eGNWTHlyZw?oc=5
-- **Source:** Volcano Discovery
-- **Published:** 2026-11-20T07:43:03+00:00
-
-## Icelandair Pilots Postpone Charter-Flight Strike Until December 11 - Iceland Review
-
-- **URL:** https://news.google.com/rss/articles/CBMilgFBVV95cUxQLXRjUVFBcU1uMDdCVW94Wm1EVmxnRW90VHd2emxlMlhOU3daSktJZ1B1VU0wZnBRcENsZE9nZUZqSGZZaHNJdkN0emk3OHNmcG9LS3hrYnVxcmo0RTh2RF9YVF8zX0ZnX2VIVWprZDNyUnlTZkFzcnZiTUdrbEJ0czBnYlBlMmwtZHRkREhEMWpkNHFXc2c?oc=5
-- **Source:** Iceland Review
-- **Published:** 2026-11-20T07:00:00+00:00
-
-## Blue Lagoon raises $110 million in Nasdaq Iceland IPO - Traders Union
-
-- **URL:** https://news.google.com/rss/articles/CBMiiAFBVV95cUxPV1ZIbGhWdDh1eFcyMFlSU01fcEVxRjdNUTB2Rzh0dnhBY1ZiODNSWXZ6NUFqVzRWRnAzSlZwQjliMWVGY3ZOS3o4czBrSnc1RHhtTDA5V1dKajM2eEpseDlpMXZUWEdBdlJhaTBGS2dXbEdsM2EzYXh6WjNmYl9RbEMxdGhURFZ6?oc=5
-- **Source:** Traders Union
-- **Published:** 2026-11-20T06:24:24+00:00
-
-## Iceland's Blue Lagoon spa operator lists on Nas... - Pluang
-
-- **URL:** https://news.google.com/rss/articles/CBMiigFBVV95cUxOQmx5ZVZTaHJNdVY4dFNMVVVHYV96ZmI2SmIyZE9VUmZsT2ozYmVpN1RUcDlkRTV5Skt6cGZKd0gtUno0emg4MTN5OWFmZlpLZmx4cEMtcTlXZ2dxWkhKVlhfdmJ6NkVWSS1kRkVXMUpxcEUyclJEam9kajZtTFJsVF9iOWhBMUM1N0E?oc=5
-- **Source:** Pluang
-- **Published:** 2026-11-20T06:23:52+00:00
-
-## Economist optimistic over inflation fall - RÚV.is
-
-- **URL:** https://news.google.com/rss/articles/CBMijwFBVV95cUxQcmlBMGRDRUpKaWpPUnVJWG1JSEpKUTlFcDJuVjdMcTdIWTluSHZnR2hQS2dmbnpRbVhQZk15TWk4bEZfaWNpeDd3dTlMakRjdHFteHBrWm1sRThOcl9pM3UxMkhpaFJPR2RsNGlLT29sN1M1Wlc2Ym5WU0ZuZlR4SDc0S3BlTm1ITHBNa1U1VQ?oc=5
-- **Source:** RÚV.is
-- **Published:** 2026-11-20T06:10:00+00:00

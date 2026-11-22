@@ -1,8 +1,38 @@
 # NewsWatch — fusion energy News
 
-_Last updated: 2026-11-22T01:56:09.054843+00:00 · 50 articles_
+_Last updated: 2026-11-22T12:19:33.873542+00:00 · 50 articles_
 
 ---
+
+## Rosatom: Russia Remains Leader in Development of Thermonuclear Fusion - وكالة سبأ
+
+- **URL:** https://news.google.com/rss/articles/CBMiT0FVX3lxTE1EMnNaVENOaWQwRWpuYjNxcTRneURWTWRMSGpSVlFLSlZoMEhoTFFDTUxydXFiYWkteGtKb19kZG9Wc1JjWFdyWVMxMEcyMXc?oc=5
+- **Source:** وكالة سبأ
+- **Published:** 2026-11-22T11:55:54+00:00
+
+## The race for fusion: Inside the leading companies - Interesting Engineering
+
+- **URL:** https://news.google.com/rss/articles/CBMilAFBVV95cUxNOE8ya09KUFJVSEhLV0FXWGlTdkRaSFBFT2F3QmtKdjItb3FFZmJTWjgyVEQwUjFMZk56QUVTSURwVXNMQlVaSF9qRmJob3BfLUVWcmpwamRmWjM3STYzYmhxSU1sM3U0eWdvRFBBZEpQOHQybXRqMTU4UjVHc2FBSTAzUDRmVGQyRDZacWp0UG9CUVQx?oc=5
+- **Source:** Interesting Engineering
+- **Published:** 2026-11-22T06:55:00+00:00
+
+## India, Russia & five other international partners mark 20th anniversary of ITER in France - The Economic Times
+
+- **URL:** https://news.google.com/rss/articles/CBMi5gFBVV95cUxQS2FZYTZGWV9GNUxwbWFFU2t1Njg2aWNIdGh0dW1MYXhZdkhTcjBhYngzdzdnUUdNRy1fOFpwTHlwS0tLOVpoWUlvZXlPTWVfOVZZb1NJUmdKOER2T3B1cDJiTjlIV2IzNm82NEcyQTFTSTZYY0M4WHFvcF9LUlJMS0VCNER3VWxyQ0ZEdlg1X2VDbzhMUmQ4TWE3U2hCZ1ZiMzJ6elVOSDRhaTU5RnpjZmlnaFV0akhtUHF2OGFZazRRRHhqUktrRFgzSkJ0VmUtanB0VVRDRFZIT0k3WXNyUGZsQnN3Z9IB6wFBVV95cUxOV2dNYkNSNzNnaENSUUxuQnFjaWQ3MW54TVAxUDBfMTNDZHBjbGpDSnVydjNsVUExOXdZX1hlSnBpSFkwM1NTelZ2aGhPeS1yVGZSTVNlc203aU5UckZCVk01Z0oyYzNtWFdpWmJIWThuaVpNZm9KaGFhSUUwekR1bGVkU1I1TkRIalZoRlNTbWd3UEM1MkdrOFZmV2ExT2FRdzdMUE5MR3NZVXBTV29kRXZqNUNyLXdyeUtmTnBfVGlhT21TMm5adE9laEVuTkhEZkQ4QS02T2tDX1VIRDdwZGZwT2gxckRQeVAw?oc=5
+- **Source:** The Economic Times
+- **Published:** 2026-11-22T05:50:26+00:00
+
+## US and Germany Hold Sixth Joint Committee Meeting on Science Cooperation and Research Security - CASRAI
+
+- **URL:** https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZDlwbHdxMGxRczM3SDF3dEJjYXAxRTF6UDZmWFdOMDJ4eXgwMEtsT213M2c5RmRNb0dZQ2N2UE1HY3hIRDJHRkJxWjRHdzgxaVFCOGxTeHR3UHBjcU1rNnc0RlR6Qk0zcjFnQVQyUERQYW45Q1pJdmlUSmdCX3JsYzZ6Z0U3enU5Tlc3UnBQNXBvMDkyUXJHWjdEUVF0TjcyQTB1Qks5TWs0QQ?oc=5
+- **Source:** CASRAI
+- **Published:** 2026-11-22T03:52:29+00:00
+
+## Capturing And Mineralizing Atmospheric Carbon Dioxide - Hackaday
+
+- **URL:** https://news.google.com/rss/articles/CBMijwFBVV95cUxNUFY3dmlHcUFlRU5qdjBqdk03MUl4S2Z4QmxpY2FlYjhZTUd3dXVZOUgxSWlsT2V4LTdiSG0tdWJUdV9Gb2x1bGlLdWVzZ3loUjhmQkVlWVAzVmxkc3VVbVVwRTNJeTlXanZLYVRUc2hoUDFUeFRCWTJGVkFvZnQ5TlRLQ2twemlSMTlENFA0Yw?oc=5
+- **Source:** Hackaday
+- **Published:** 2026-11-22T03:00:00+00:00
 
 ## Realta Fusion lands up to $15 million in state incentives for $800 million project at former Oscar Mayer plant in Madison - VernonReporter
 
@@ -273,33 +303,3 @@ _Last updated: 2026-11-22T01:56:09.054843+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMigwFBVV95cUxNY0FkUFBrX1B4THZ5M090anVpc0x4ekE1RXllRy1ib243SDFESEJVYXJiV3JHeHM1ODlSMWtmNlpaQ0ZrczZUQmoxQVp1MEdWcGFZYmpBbVZlU1R1QkhTby1Fako5cUlRRVpTeVNPNlR3Q3lDZTVkbXVGOXlpc21HT0pYUQ?oc=5
 - **Source:** Mining.com
 - **Published:** 2026-11-19T23:31:15+00:00
-
-## The Strongest Fusion Warrior in Dragon Ball History Finally Returns 29 Years Later - FandomWire
-
-- **URL:** https://news.google.com/rss/articles/CBMiZkFVX3lxTE1nRFduTEpOVzhDOXZLdEgyS0lBRW8zREJmejNwSno1REV1dzJyV0hvMVktOVUxVm9ObUw5Z0FTM3BuZ1ItVFRlMG11QUQtbjZIREdfQ3Vsd1ZDaWctenRlckdkb2ptUQ?oc=5
-- **Source:** FandomWire
-- **Published:** 2026-11-19T22:32:00+00:00
-
-## Perma-Pipe Expands India Coating Business as MENA Orders Rise - Hart Energy
-
-- **URL:** https://news.google.com/rss/articles/CBMirwFBVV95cUxNOXREWm0wVkFoMFV3TkhEOFdla0xRZ1lWSUp1QW16VGk3UUFPcUhTajdTV1Z4alV1UWNWVUJhUUtXbldHT2J3MmpHS190c1VySWR6ZmpOMXJ1WVRZQmtMNnlyWFU4YmdLRHJtWDM5R2RiU2xRR3RTSWxjN01CYjVaU2d4cWx6NDBYWVo5c3k3UncxczhUdkhNb2RnTWgzTzliYUV6Z1prMWJtUmFkZkN3?oc=5
-- **Source:** Hart Energy
-- **Published:** 2026-11-19T22:29:16+00:00
-
-## General Fusion at Small Cap Growth Virtual Conference: path to fusion power - Investing.com UK
-
-- **URL:** https://news.google.com/rss/articles/CBMi0AFBVV95cUxPSW9HZXhiT3hra3lUM29KRk1fOUh4WVpJM08xakp1NWdoWFlRSy1UbEZHbnhLZm93VTRCRnpVZExSeE1hT0tWdjR4TDRhTXUybjlycHhRaGtVXzJWYWd1M2Z4ZnpaZFhDbUtsWFJpR1BPZUN0cUVTMmxvWWt6aDdVVzhJZm1SamJ1Yk1sbmZrRDlQZXlvajFnX1lsY0N6eEUyT19yaGN2R2EySlRVRlQ1Tk1sLVZCWDJnRXk4eVNtOWJLZnVwWDNDejc2ME5YcFRs?oc=5
-- **Source:** Investing.com UK
-- **Published:** 2026-11-19T19:42:00+00:00
-
-## General Fusion CEO on progress, capital discipline, turning science into business - Investing.com Nigeria
-
-- **URL:** https://news.google.com/rss/articles/CBMi0AFBVV95cUxPa2FWQXR0aWlRODZPY3FXUm9mVTdGY1g5TFlpQnZlZXFLYVZCYnpsSEVRdG9OcXdQLWotMnNBaGpRbW9YOVV5bS0yNjdXVS1LR05rdF9vbWhIejhLSExhX0dRamprSml6ZjBZSjJ2YVdCYkVxWVZGTTdRTkE3SmxNbndqN3c0LWpGa1dJZ3ducW91Z2lZYW9MdWgwNmRQdWJ3aEdOZ1RwbUl3N0RkNXdUTzVtVUYwUWhNRUlMdnBvMUE3S3BWU0ZBZTBpbWVJSm83?oc=5
-- **Source:** Investing.com Nigeria
-- **Published:** 2026-11-19T18:22:30+00:00
-
-## Cold Fusion & The Hype Cycle - Medium
-
-- **URL:** https://news.google.com/rss/articles/CBMiekFVX3lxTE54bmlCd2tqc0c3Rk9Pb1lFZGxaclphdDhkU1ZVR2VtTHktcGxDZmpoMTctNFdwbXpySWdHMjdTQUFkbUpST1F3OGFIQTA2em5HUHZacUlzcDQyQkYtdGFtb2oxdWx0ZW1XbURyMTUySnRnc0JFSmZidVNR?oc=5
-- **Source:** Medium
-- **Published:** 2026-11-19T17:52:07+00:00
