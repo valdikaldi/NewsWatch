@@ -1,8 +1,26 @@
 # NewsWatch — Iceland News
 
-_Last updated: 2026-11-22T20:36:02.947588+00:00 · 50 articles_
+_Last updated: 2026-11-23T02:20:03.847027+00:00 · 50 articles_
 
 ---
+
+## Eimskip stock: ISK 2.5 billion bond auction completed - ad-hoc-news.de
+
+- **URL:** https://news.google.com/rss/articles/CBMisAFBVV95cUxNV3hQcGM0cjdEelp4Z1d6akFoQVMwaDVPNlltbjhtU2w0eWgzMS1UWGIyVWtRa1lhU19sbTdMMmt5emlSNHRCbjZFR0p5Z1BmbHUwbkc5S2x3M1BrYzA4bjI2S0pESVdvbnJHbERmZ2hPQy1SbGlFc0NNeXVtNUxCM3c4aDI3M19kdFFMREZ6dTZGSmtQRklSQUp0aGRVcnp6RThtWldVWGRnTFVaTmVXcw?oc=5
+- **Source:** ad-hoc-news.de
+- **Published:** 2026-11-23T00:35:26+00:00
+
+## Íslandsbanki stock: Bank announced ISK covered bond auction - ad-hoc-news.de
+
+- **URL:** https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbmdPUndyOFNSczEycTk4UVJ4ZDZzT3otX2JXazJacUZpeVNOUzhNNGsxSy03VGFQOXR3d2tvN1RJMkl5bjNIWm9oeEVPQVNJWE1rdENfeEdHYWZOZnFYMVVpWGlKVWNWWFNKeGZ4Qkgya2l2VXphSkVCOTZBeVJSdHkwTW1Qc1lmVUNiS1ZzczFBR2tlbU9qeUVEU1ZiNmNqYjJ6TlJscVg0MzhkSnYwVnlhazdtUThi?oc=5
+- **Source:** ad-hoc-news.de
+- **Published:** 2026-11-23T00:23:55+00:00
+
+## Best Time to Visit Svartifoss for Hiking and Photography - https://www.thetraveler.org/
+
+- **URL:** https://news.google.com/rss/articles/CBMijgFBVV95cUxNNlc2ZzdYWTRvRGZneDZtNkZjbTRENWswQmtWbUF1RzBVNVdGamxfbDQzbHUyelRnMWR2bC1zd1lsUFoybTFzY2JnVWhIRWw1eHQyYmJxUUZGc3hDd0VDYjNWVlFYNGt5MDU2ME96RlBFVVJaU1FQOUFubXl0YzJJSFZLOVF2SENJSFB2WmZn?oc=5
+- **Source:** https://www.thetraveler.org/
+- **Published:** 2026-11-22T21:30:29+00:00
 
 ## Iceland’s Christmas Book Flood Takes Over Harpa - Iceland Review
 
@@ -285,21 +303,3 @@ _Last updated: 2026-11-22T20:36:02.947588+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMipgFBVV95cUxPVDFaWFBXU3ZsajRoc0VZb2NJb3diallHVWFIbmp2TEtZbWozaGl2dHprODFYZExlNVI5X2dTMmlOMVdOcjRlZGQ4bGUtck1pTXh4LVpJQm9JVmExcWkzNk9qbkhTREV5RWFVQVZaLTJwbzBhX2tfOU5hSDdoLTNfWTFXSjd3SXlyRGthNDVPZmZERHB0dEM4N2RQNDQwYkNrTHkyWmFB?oc=5
 - **Source:** Foro3D
 - **Published:** 2026-11-20T21:43:43+00:00
-
-## Skaftafellsjökull Glacier: Visiting Iceland’s Easy Glacier View - https://www.thetraveler.org/
-
-- **URL:** https://news.google.com/rss/articles/CBMilAFBVV95cUxQWVhKbFRKMUJkanZfXzN4NUFSZ3UzWDkxSUloQm1SaG85VVlkRlRiQ2RHalc1NFI5TzN0UjFrd1YzQTFDa0FDaGdTY1lJU0dzcllJX2sydXVhYldXVURMODZTcFJ2UUJiYjNFX0pVMEQySDc5NXdPTE8yNmZtalQ3ZFh6Q3FxdnZZWlFWQlNMOGU3UEVE?oc=5
-- **Source:** https://www.thetraveler.org/
-- **Published:** 2026-11-20T21:14:50+00:00
-
-## AP, Iceland firm sign pact to develop Bhimavaram aqua cluster - The Hans India
-
-- **URL:** https://news.google.com/rss/articles/CBMiuwFBVV95cUxNWFQ2VTItOVE1SzA1ZjBkejYwb0NGVEdUY010S3hvemxsZG44WVlkOEdyTjZqWTZMb3FGeFZKMkg0OU1TSDBKVFliTHJaYnBtOXp1XzlHbndHTWo1SmdlNlRBOUNIaXhrX2ZOV20yNjJrT2ZIOUlFWjVOdmtlWTVRZy1xb2VIYVhlMlZjTTNINGFVQlhJc2M2ZWZzdlVuNGtrS1J1X01VaS1HVW5KNi04cmFjRlBwNEhGV2VN0gHAAUFVX3lxTE42ZXJVWHJRX0hfVTI0UGxDSUpmcWtUSE5hQlg1dVM0ZmVBY2pMWFVROWpkMlVpQmxVeU0tV3g4cUY0WkVxa2dpUk5rdjk2TGlSNzdmMjF5dWFIUk5XZC1wX2pQQ3hQaVMtcXUzaHRlV2J2bWkxeXozbzRmR2hXa0psaU9FZ01IbVcyeEk0Y2ZybUY4Y0dUVjRnTzVjYTdZOUkyZ3YyUDNkbnJnS1dOU0JOTXl0U0k5bERzM0dUTlMtSg?oc=5
-- **Source:** The Hans India
-- **Published:** 2026-11-20T20:43:01+00:00
-
-## GeoSilica Wins Iceland Energy Innovation Award - Iceland Review
-
-- **URL:** https://news.google.com/rss/articles/CBMiiwFBVV95cUxOQWNrZ2dobG10RHM2MUxQV0pjWVVTaGg2V3BHUFc1eHhmVHJrWGYzSjVCeWRYeG5Id0dBeG1nVHFnZlNvUFhHYzRQc3AtNnZCYXFsWGZnSUhxbjdiLXRLb1pMRkFubFk0R2JjWG96ZnMzeHR2UXpzcjZPRUZPUFJsYUd4Wkd1eGx2aS1B?oc=5
-- **Source:** Iceland Review
-- **Published:** 2026-11-20T20:00:17+00:00

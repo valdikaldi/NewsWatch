@@ -1,8 +1,122 @@
 # NewsWatch — Microsoft News
 
-_Last updated: 2026-11-22T20:36:02.532292+00:00 · 50 articles_
+_Last updated: 2026-11-23T02:20:03.519872+00:00 · 50 articles_
 
 ---
+
+## iCatalyst launches aiCatalyst AI unit with new lead - Australia
+
+- **URL:** https://news.google.com/rss/articles/CBMijwFBVV95cUxOTlpac1BxRzNPcGtra2xVeDRqanBUeXI2WWNnWVJrZnBrTVBoeVU3YzZfQXZHYzhmVWM4MW5jRWR3Z3g1dHU4UWVIY0ZSTkc2MVN0UUp4YTJhRVRsZnhPaFVRX1hkb0tUbllaM1NmMkdScms0aTZlOVZGM200UVVaMFJvYlptdVRQZllCd0labw?oc=5
+- **Source:** Australia
+- **Published:** 2026-11-23T01:51:39+00:00
+
+## Microsoft, Google turn to Intel EMIB as CSPs seek alternatives to TSMC CoWoS - digitimes
+
+- **URL:** https://news.google.com/rss/articles/CBMijAFBVV95cUxONElwbFRYeVpObXcxUHg2cTdHWEpSWWxIV2JlR0l3c1NTVXJScnh4OWZFSzZBWUl6aDlvYjQyXzg3TTZ3Q0RSbXNlVnloNENwTUdiX29pV2xMLU5WZl9kMmh3d0U4NGNkQm12TmFPSHd6MmNQNHBfSGFwOVoydlBLRzJDdDA3RTk2RHlZeg?oc=5
+- **Source:** digitimes
+- **Published:** 2026-11-23T01:50:47+00:00
+
+## 32-bit apps' days are numbered as Microsoft strips support bit by bit, starting with Windows Server 2028, but Windows 11 is safe for now - Windows Latest
+
+- **URL:** https://news.google.com/rss/articles/CBMihgJBVV95cUxOLWRYdEVVeGkyM0hIeFg3MjRRYXFxX1hLU2NrNFRmRkstWXdrZWhDbVRLUks3SHVHNUZZZjA1UHhSUm1KdmVVNHJkMVNOSWZINHp4d3VlXzBpamRGSUx6QWdKYVlHSVZOUUVVVGQ3aHBlelp1TUFyYWpTYm1JaU92ejhxYl9RQ0M2VDMxNkJFTkt3S3ZDSnExQU5fc3FxN3BzYlA2aWhsdG9uZm94WVF5Tk1YSEh1UGlReXFVeVAtZkY4anVCbmFfNVVBekd4VU5KaF8xWHRQT3NRLTRGUzlRZmsxOVlkMzlFc1M5OGgtZUVvbnRhdVJESmo4UlR6cDBLY20xVWp3?oc=5
+- **Source:** Windows Latest
+- **Published:** 2026-11-23T01:42:18+00:00
+
+## Security products start moving out of the Windows kernel - Risky Business Newsletters
+
+- **URL:** https://news.google.com/rss/articles/CBMimwFBVV95cUxPX3hUOWpmaWJyZk1NbXdRY2QtblhxV2xCZDRXVGFlX05oNnI2a2c3TGx6RUZ1SHVHQ1p0dFFXcldPaUxYc01NNFFsUTE4SHo2NlNWeXdwZXBMZmVOeWpjc2VQazBxdHh0TzNjMDJuZEV3enl3ZTIwMTI2bkVxMW9ZbXh5Y21SRnRVRGZYWG9fOTFKZXdJeTNxNGQwRQ?oc=5
+- **Source:** Risky Business Newsletters
+- **Published:** 2026-11-23T01:38:02+00:00
+
+## Microsoft unveils Copilot Workspaces, new AI models and Azure plans at Ignite - EdTech Innovation Hub
+
+- **URL:** https://news.google.com/rss/articles/CBMiuAFBVV95cUxOWFVVSWNSNVloczlpVURrcHBfUElVZUkwaWV2TGgxNEs4QTFBMlZyVndUT3YzYTdLZ3NUTV9zTHlwenRvTGZFeXFsT0tYbkgycHpXMTh4VHR6RnVqbFlTdm1vOWo0MDVWcUxrcHVReHpMakdqUENTVTNrUDljOE04TG5NTC1WTC1hbVJFYmZwZWVCZEtyY01kSGlTRzFYV3dRMkM4NTNVTl9sbVZ3VUYza0lMWjJ2RHMy?oc=5
+- **Source:** EdTech Innovation Hub
+- **Published:** 2026-11-23T01:17:56+00:00
+
+## Microsoft’s RDMA over USB4 will make running local AI models on multiple Windows 11 machines a lot easier - XDA
+
+- **URL:** https://news.google.com/rss/articles/CBMiugFBVV95cUxNQ05lRFVLSm9fZWdQZ25STWVJRHBDSnJ2WUVlWVBCWS1rTzlibnJmdW56NU1SblVrX1d2bHFIUXgwZzhHQnNLNmc0THpwdHV4VjBWd3hYUzBtMDI2T1pIUWhBMVJ6cElRTWg2Vzhvb2UxSGtzZ093N3l0MUc3ek44aWI3b1F3TVV5ME52cjZHSHFRRkNvVnlhbGRHamxlQTBiR2IxS2NKQzJCakdubUN5NjhrdHNwN3VlT1E?oc=5
+- **Source:** XDA
+- **Published:** 2026-11-23T01:11:00+00:00
+
+## Activision Filing Describes NPCs That Learn How to React From Your Voice Chat - TechPowerUp
+
+- **URL:** https://news.google.com/rss/articles/CBMisgFBVV95cUxORkEyMEZwVjVSWThPMVJZdmN6dXBHeTRSV3RXbWRYT2tHVVpzREZZOFFXeDZQbFcxOVB3c0ZYZ0x2S1dVZ2VudF9jLUh3X01LZzcyNkRtQWxrbUx3bGlyTGpaMk93Zm1sdGRibEkwcTcxUkhmOE5VWkxZdGlQTHRIVjVRSWRNXy1vVXJBMDhBZDVEWlV4Ukk0RGJPOUx4MzdZNVRWN21hSWZKWTJmLXRISlFB0gG3AUFVX3lxTE9LQk12cU81eS1QeWUxTVhhTXJRS1RJcFhyUEFrSlRLZ3pxRS1URldwX1pXVHFXcFVBREJYWGJxWkZUaGRNMm1ZZ1NET3lDVzYwenUxRndjVzlqaWIzZktPTVV1bmxfX3RfTm0yT2FnU2NaaG05Y0N5WTVSQXJzR2N5SFhrUkpmbldpRWdVRVJSMTI5aXA5cWRPUE1TUG1CdVJTTC1CMElxQ21DbEN2enpNNVhVU0dMMA?oc=5
+- **Source:** TechPowerUp
+- **Published:** 2026-11-23T00:47:55+00:00
+
+## 8 Windows Apps You Should Probably Remove From Your PC - Yahoo Tech
+
+- **URL:** https://news.google.com/rss/articles/CBMiigFBVV95cUxPZHk3c091RWdCYjYxcDBRUFBjS0hoN25Tb1hhcjNVTTJyZnFiMEdVMUE5ck5OMllQbVgzS3ZLX2tvMW9mMWExVmFCZ3NXalY3OFhocE9HdG9xLTF1bno1RGRoZ0ZtUFlYZkpTbnRKYnBBd19aZEhQWGtacXkwQUMyMjlOZEJLejRBbGc?oc=5
+- **Source:** Yahoo Tech
+- **Published:** 2026-11-23T00:15:00+00:00
+
+## 'Is This All Just Coincidence?': Inside the Unprecedented Wave of Global Digital Outages - news.sbs.co.kr
+
+- **URL:** https://news.google.com/rss/articles/CBMibkFVX3lxTE5oSkE2bjB0bm5kSFBCSXhGR1ZZbzU3UHo2Z2pJb29raGN5WXhXeExyZlVYU1FJMUpMeXdDYk1qZXNiV01GUDlHTEpXQkhxeG1KU2R0QTJhZzVVY2EteFdHZ2FaaVhQSUY3czk0ek1n?oc=5
+- **Source:** news.sbs.co.kr
+- **Published:** 2026-11-23T00:03:24+00:00
+
+## Microsoft CEO Nadella Says Nvidia's Huang Is 'One of a Kind but Not God,' Pours Cold Water on Founder's Return Talk - BigGo Finance
+
+- **URL:** https://news.google.com/rss/articles/CBMidkFVX3lxTE93S2Z5MGxGNVFpTzk0WDdCUnFOeF9sczRubEFvUk42OEtOUVNxQlpiXzJVMzlUYmxzSU95MzVJV0d3dk1BbmUyYUxrOUdidkpmYWdxTHkwVjZNX1FHTmlHOWswckFhZTdrSDlBOVQxSWR4TGxtQ3c?oc=5
+- **Source:** BigGo Finance
+- **Published:** 2026-11-22T23:35:00+00:00
+
+## iCatalyst launches aiCatalyst business unit and appoints Quintin de Klerk to lead AI practice - iTWire
+
+- **URL:** https://news.google.com/rss/articles/CBMi1wFBVV95cUxNRkMtUzZ0UVpXVm5LbnFuNmFCRU9IT1NRa2g5bmczTG5UbXF3VjM0clRVcFU4T09PWkZVamQyY1hZd3pSNmN6dzhMS2VkNEstRXJMazVRb1A2cTNobHpwNGpobDNndkkxLWg2cW1HTl92bzJfeVUwWF9RSE02cHBtZnpuM19CZEswRFVIb0dwVnYzOG5XNnZfcjNjWTFibXNnY1EtLTZfczQ0N0Y2cWx2Y29sMmhtdmI3ZTVrMzItUkxRMTBJVnJzVkMyYXByWWRfQkw0QXhNMA?oc=5
+- **Source:** iTWire
+- **Published:** 2026-11-22T23:24:02+00:00
+
+## "The thing that hit us": Satya Nadella admits VS Code faded in six months after a decade on top because of Claude Code, and some developers say they've stopped opening it - Windows Latest
+
+- **URL:** https://news.google.com/rss/articles/CBMisAJBVV95cUxOY3JUOWNKeGJJdnAzaFI5RkRLd3BiRE9NeFRQNG0zbnpRdEVUZEZTZlJjZFFfclhJaDFOZEJKMWVtT3ZuUkg5ZndnMHpfbWIyNVVwRk1BcnRMem8wNmFtSFR6TEw5RnZIZGg3YlVZM0E2TzVCNm5PNVZpR3JJYnQtNWJldXJXLWJnQzQ0TUhFaUlIRGRnZW9mV2ZuZ3BHNzNHeEJaSE1nYnJXbWxKeVVUX2NTbVdkSm9vWTFWYWlkZk4wbXI2a2dyY2NQbXctbGlMbnFacXQ5cnk5R1FQdDZCSVdMWGI4VzVKaEMwMVJ6dmg0b1BzakRJNURFRFIxOGFkVFFVYWRIT3d6eW1ad2QxSFRTOUFPWFR2VTZJdmJxX2ZKOEZOV0ZlcVB4cXhWM2Nr?oc=5
+- **Source:** Windows Latest
+- **Published:** 2026-11-22T22:30:10+00:00
+
+## One broken Wi-Fi driver can still blue-screen your entire Windows 11 PC, and Microsoft is fixing it by moving Wi-Fi drivers out of Windows' core in 2027 - Windows Latest
+
+- **URL:** https://news.google.com/rss/articles/CBMinAJBVV95cUxORHhlWFNVMTd2WFFSVkRMaGY2Y0xSM1FpR1J4YkEwRF83ektYeFFUMnhoZlVEOVdzM2dLYWNVNFpETVFQQ2pzT0dWT1RTTXZub2NoWVQzMm9yWFZObHBDRTlwUlFaTlpMeTNGRkN4SUFrdVNRX1dEa015WDduQ3Z1djRJTFpZbm5EU0ZaNjJmbHpxenFtc0lRTHhGV051aVV2c2tyQUxBRDktc2xwUFlweXBwZlpGLS1RZWphVWVraXFJRGhUYmc1RTh1dElheHV3VlJqMzFPNWZ1d0U5ZWV4VDF3QkJjR3ZCRmdpWTRXNG1RaF9ldG9aNDd4eXhWaGpjclFyamRtOWdHbm9Sa3J3akxPUXhfVEd6OWRIbQ?oc=5
+- **Source:** Windows Latest
+- **Published:** 2026-11-22T22:15:29+00:00
+
+## Microsoft's New People Widget on Windows 11 Can Show Contacts From WhatsApp and Other Apps - Thurrott.com
+
+- **URL:** https://news.google.com/rss/articles/CBMiyAFBVV95cUxPUG1aSFN3ZV92czQ4S3FWQkg1c1A5Mzh6MzA5V0dIZUxocDlVTVk4LVVfVC00alNqQTZoX0hSY0xtNTNlN2hRUjNMVl8yd3Izcm83d2lncmhhNzM3cmFYTTBrQ1VabXJxSzlpR1QxNkdaS0hJazZwcGtuR0oxNHAzX19PcUItNndjYldCYmNyZHVaRXZBcV9MTWVkVGtkLW1TQU4tVTNnX0tfWldwZTEyRFNvTXlKUTQtc3FUdVNsMUNWcE5uRzlpaA?oc=5
+- **Source:** Thurrott.com
+- **Published:** 2026-11-22T21:59:20+00:00
+
+## Microsoft’s CFO admits she joined the tech giant without even knowing her salary—and then missed her first day of work - Fortune
+
+- **URL:** https://news.google.com/rss/articles/CBMirAFBVV95cUxPaUZyeEEwS2VjTlFuaURmS1MxeHc1TnExMlA5a2RhZGpyeUw4M3VTazBodm1UMXdFUGE4YmxpZWxXZjgwem1xWjNkRzlMUkhrMWlDWnVzNHVpQlJpV3BPYTA2NlQzaVRhVUNWN3hSV3BObUhmQzRGQVRvRjB6VDlHTWlHSHVNOHJmQnRSUXA5YnF0N09mOHdicndZY3FMbEpkdHVYU2ZhcVkzN0pv?oc=5
+- **Source:** Fortune
+- **Published:** 2026-11-22T21:52:51+00:00
+
+## Gadali named Microsoft global finalist for aged care AI - IT Brief Australia
+
+- **URL:** https://news.google.com/rss/articles/CBMijAFBVV95cUxOcXZ3cjE2UlRzdU8wZ0liSl9BWkl4Q0o5LVVFa0VSZmNxVXhtYk8yaWVmWVgwa1g1cDlsNkpLbm9RWVYwM3dQU2RRTDRYVkJNX1N1d2dwc3BvR2JieE1fZlNPUmo4WjNZY0FPMWJDaFZ0TG0zMUZwQnVOSWdqbVVVLWU0d0JreXdqTEFQYQ?oc=5
+- **Source:** IT Brief Australia
+- **Published:** 2026-11-22T21:30:00+00:00
+
+## Microsoft President Warns of More Tech Outages in Coming Months - Newsweek
+
+- **URL:** https://news.google.com/rss/articles/CBMingFBVV95cUxOa19EX0szUDlDYm1fbElCUEYzQUpDZlBKeGxMUHhKYzE2V3NzZmVvTFl5V19XLUMwWkhiLU9YczFuNnZ6SUFPNkR5ZzM2dzRrVkdMMENJaUNlWlA1bXl2QXBmZVhidVdvUmdvSkVMbkdXa2ZseHhyNTFzbUQ1REhpaUVNSG9rZU5xZThPTGs1RlFQRlc0XzlVYXRnY1UyUQ?oc=5
+- **Source:** Newsweek
+- **Published:** 2026-11-22T21:18:00+00:00
+
+## 15% of parents already cut college savings after Microsoft AI CEO told a mom 'probably not' to bother saving - Yahoo Finance
+
+- **URL:** https://news.google.com/rss/articles/CBMimgFBVV95cUxPOUpoQW1jS3RDMm9vVjZxUHQyVU94Z2xFUUE2VjlsX0xhM0xFYXRaV0dlY2ttM1JfRGRJRU5TYmxIZjUyUk1SUlBEbGwwSVl0b2hjY3RXaEtQcWNjQkQtdnc3YVN3R1dYVDYzanl4ZnNHS0cwWmUtdFo5TlFtR2w0N21USWdIWGFqS1dKTW94V0NpdTFpVHUwTG5B?oc=5
+- **Source:** Yahoo Finance
+- **Published:** 2026-11-22T21:15:00+00:00
+
+## Bessent and Microsoft Warn of AI-Driven Outage Risks - Demokratis.co.id
+
+- **URL:** https://news.google.com/rss/articles/CBMiaEFVX3lxTFBmdnBObEtfOTkwZFExTktWZzlRZVNEdFlia2pMa1JQS1hoMG1ZaGVJTmhDeUwtV0p3Sy11UTk0ZVV5Q0k3UFpTTFdkb1htcl9kTmZBdjNoUmpBZHkyemRhQVZ6LTllNXEx?oc=5
+- **Source:** Demokratis.co.id
+- **Published:** 2026-11-22T20:41:00+00:00
 
 ## 17-year-old Windows 7 gets unofficial DirectX 12 and Vulkan 1.4 support - Mezha.net
 
@@ -189,117 +303,3 @@ _Last updated: 2026-11-22T20:36:02.532292+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMi8gFBVV95cUxQcGFRTFhuaktIT0Jubi0wWnMxVjFaNngyZU0xeV90LU5Bd0g3NFNvdFZvWTQybnFEay1CWXMyMmtYR2k1QWFEcVF2YTFhRGI4a0REakJ3OWZ5akdzWDRWY21Ja0dHTDc5OS1QVHV4QUg0Q2F1TzdrOE53YWlfN1pwNzlKdUVJOGNEWlJ4MlZKaTIyTXJBczdsTTlTa0Y5RnlWZGpPaE0zdXB6d1hRdWhXXzVoYTlFOTZ2eEFnVXpNRS1YOW02bzhWLTVhTDNSQzAzN1B0RkRJdXZlRHBLcGJCYVU5TXVEQ1M2TGZoN0ViUk5nQdIB9wFBVV95cUxPS3owRFRhME5HZEFqdzBxYWR0NGtDTF84N2dySldPcVdoMTJia2RiVE9TaFJVM1hwbjJUUHlqS2FBLURRcm5yU00wbV9kWXprVlpPZTR2ZEt5dTJfbjZ0c3B2dkcxc1pVcjVBTFpqMURfb0pmMXVxb0tyNHhRVF9qMjRaUFBkb3BfVDJ0ZzQxbjRaMFhhdlJFNkpVOGFxbFhfeHlLQzhXdkJ2NUZZUXlwb3hMSWRzeGhFa1RQVTk4V1lndko2cUNuc05aVjFNekxOYkNpNE1SbUVJV1V4ZWJkLWFOTzRpTjlnQXRPNG52UU1haWtYWjRn?oc=5
 - **Source:** Business Standard
 - **Published:** 2026-11-22T16:27:13+00:00
-
-## Director of National Intelligence Jay Clayton warns Americans of 'bumps in the road' after tech outages - CNBC
-
-- **URL:** https://news.google.com/rss/articles/CBMikgFBVV95cUxPc0UyZUdJbmJyV3E2MkFmMjlaVU43ZXItWDZNd2JtdVFKcGEwMlNENHpLdWJ0dGlqNk5iTXhvc0xXRkI5TVhzSHg3bTFTdzN6MkNkT1pnRktNRWFFazZCTkQ2dlNrZGhjTGI4cWxKaDhKbTg3R2dSbXE2N19aU2plcktMUGFNYmpqLVdkbkVLU3ZDd9IBlwFBVV95cUxQRmQ4Rjd1WnZHMVZWb1BKNTYwWFdzV1JRWWY3SllzSm5EOG5yZjlvNmhma0JEUWhJbHIwNkxHUGZfTTZqUHVQV0ZyR0JfQmx5VFNVR29OaTByQ1VhS3hmVFdNUkJlUmlnbElzSDNXc3Y1VjNkdm9nUTVOTUtYdUNsWHdNajJ5eGhPZVB1Uk5QMmZ4VzV1Q3Fj?oc=5
-- **Source:** CNBC
-- **Published:** 2026-11-22T16:17:53+00:00
-
-## Business can't be usual as tech outages pinch, firms reassess risks - Business Standard
-
-- **URL:** https://news.google.com/rss/articles/CBMi2AFBVV95cUxORmloU0pCWXAwM1dGeU1mLWVIWGN0ZFdYZk1nNVM5ZEJ1SXJTMkphcTFEeTMyYlg0SlhXbUJBSGtrV0phdm1BbGw3Mjd0UEJGVjdRbVVrWlJveVh2SGx3NEVTcGg3X2h2QTJvazB1cnVQTWFpcDlQeVBoR0c4Nml6UTQxb1NnZHVXVkprRGNCN3dwRnl0VDcyT25iWG1ZcTYtRy1EZlRNV2VmeVdRdDJLRXdFa2NHLTRKTDNnQUFvZWVFMUJ4NkdLdExRRnJvMEYwcElmNUpjNC3SAd4BQVVfeXFMT1VGTEpkd2piR1FnQmxqeGRtYXJ3NGx5Y29ZLUdwVTNUck1WUEJIOHFsZFdfT3JFT3Zyd3RNb0RZTVlvVEtfZUkyUUlBV1NWYk5PLUk0QURsZWk2cFhrQ0ZYaTJBM1pZZHctRUZmbnJxdkx1ZDFMU1ZUWGpDMHNGRWVZdGlLN3RDVmpXdXl0QTRoN0NtekhxMTNBNE4tRllLRFNFSVdrc1BYNUhuUHp5VkdVLVl4M1Z6Ym5JRUc4cXA1dUpvNjRxem1jQjRhc0xNUGYySm9LNjFibjI2aGlR?oc=5
-- **Source:** Business Standard
-- **Published:** 2026-11-22T16:17:52+00:00
-
-## Is Microsoft (MSFT) Building A Bigger AI Role In Scientific Labs? - Yahoo Finance
-
-- **URL:** https://news.google.com/rss/articles/CBMingFBVV95cUxPYTRGV2RmdGtPVllVU2I0UGlEZ2V0V3NEcm5XQlBTc1Uxa2FMNHUzajNpbVd6aWktS25BTFVOZzBPLVU0R2xUem5jNWNsT1k4OEVoYl9mVUM1emZETXBET0tpQnByWUNYZ3VWUVNOaWxmVEZZT0IxdjVObzVtSmlUWjJYOVNxVWU1YmhlQ1dRN3hqLWpIQmpiTDZJbkdFZw?oc=5
-- **Source:** Yahoo Finance
-- **Published:** 2026-11-22T16:07:15+00:00
-
-## Microsoft outage poses hard questions for Kiwi companies - National Business Review
-
-- **URL:** https://news.google.com/rss/articles/CBMikwFBVV95cUxQYTJLdHhGYWxwV0JNUnYycF9LeU80MFcyZWUwb0o5YllManRNeUNDREllRldyNGEta2RvY05xNG1FY1J3bEhaMXU4QnlVSDczNnp0OG5GSmpQQXg5Yl9vQ0dMRlN6dzBRTVg4aVJOeVBTektUcFFVc3ZIY08tY2JLVGxkaUFyalViZG5FSHJnclBjZnM?oc=5
-- **Source:** National Business Review
-- **Published:** 2026-11-22T16:01:25+00:00
-
-## Microsoft's Brad Smith on recent outages, including his own company's - CBS News
-
-- **URL:** https://news.google.com/rss/articles/CBMingFBVV95cUxPZlRzRk9EMU9vcXYwSFllV2tmMjJTTi1IRVp3Qkd6SjBGZHFOR1FqY3JjRkZ2dWt6RzZVZm4zdXFDa0ZvWUttcmljRE5pQUlzT2t4NERuamtmd1hQS3JudlcyTjBJSm5fMjZ6MjljYmtiT2M4cXd3ZzNxLWlHUEdWZnFrRVV1RWMycExBYXU1ODJzREVZREdVWkhNNDZ2QQ?oc=5
-- **Source:** CBS News
-- **Published:** 2026-11-22T16:00:00+00:00
-
-## Microsoft Patent Explores Swappable Thumbstick Modules for Xbox Controllers - Game News Plus
-
-- **URL:** https://news.google.com/rss/articles/CBMisgFBVV95cUxOMzlBUGRNMThvRm56RkNwbFdXb0N4Tjc5MDNaX0VoMzRQekk5b01kNHJZc196b2xjT3F5Y3JubjdSQWRLY0tIOFlxbHBIN1RPcUd1eS1OYXJmVS1vM2hHMHVBRTdhQXVmM0sxZHZKaVVPRkR6eldtRngteUVoQVREMlZoUXBXeDBNM2pBX2U3S2hLdEFFQkFiOXFWc3pIMUdFUjdoRFM1OTh3MTI2VmNXb05R?oc=5
-- **Source:** Game News Plus
-- **Published:** 2026-11-22T15:49:17+00:00
-
-## Microsoft Patent Filing Targets Easier Thumbstick Swaps - TechPowerUp
-
-- **URL:** https://news.google.com/rss/articles/CBMilAFBVV95cUxNOVpwTkZIR0llREV6SVRXQm9mQXBoclhuVnJtSjE2ZUZsNkRyNFMyV1ZnZDdQZHR0U2ppWWtKS1ktSjNBUHQ5U2lDZGFZWDJLTTJnNVVVQzRMdm9iTlVuY3M3WGJmLVJiT3BXaU9BNHpnQndnZWEtcEVHM0NKZVZZUU9pQmNzN1NSSmtTOURSVlNtN3pE0gGaAUFVX3lxTE1WRmViOXh0VnBlSnJmbVBjVXdnMWFhYTUtVy1HRVFacnVUWlByNlhBa2xSUmdIQVdyYjlkMHY2anEwMUdKaUlBRl9UV2RjbDVKWjNxa3dGOElDaWtmeTB1SFhKb3hLQ29WUFliRXJSbGlGT0xCV1AzaFgyc0dHSzAzLUo2OXE0QVdZd2pmU21PMVQ2bC00QjIteFE?oc=5
-- **Source:** TechPowerUp
-- **Published:** 2026-11-22T15:42:54+00:00
-
-## Bing Opens AI Overviews to Ads in Every Market Except China - https://www.thekeyword.co/
-
-- **URL:** https://news.google.com/rss/articles/CBMiYkFVX3lxTFBhTUxibWFwSWZ1RDVZZG95cTNpOFo0UFpoclB3M3pJc1hVRkNjQnpOblZ1Q2hHYnk2Q2hpUDVnbW1LRmoxY3pfcUV4ZXk0Qks5NzFaNUc1UXVWcjFWMVZNTjFn?oc=5
-- **Source:** https://www.thekeyword.co/
-- **Published:** 2026-11-22T15:37:00+00:00
-
-## Gears of War: E-Day skipped PlayStation and still lost only to Call of Duty in October - Windows Central
-
-- **URL:** https://news.google.com/rss/articles/CBMi0AFBVV95cUxQY1JTMVdQZ3JlVHdvYmJUN2Rsd014ck1Md1dtX2dmNWlMd2tXeFp6T0Q1WGNxeXhhaTBMa0ZsZ2MyV21OZW52OTh4TTM4Smx0UzBodVZ1NEo4OTNVSmJRcHR1VU42Rlctbm0yMjRIQ1I2ZTA4endQTk0zUmRaWXl2REREY0s5VHdMRThWek51cVpjX193MUU3amtCSHRiT01LT09jZXo3T0hWbV9YaWdvdmhyTENtMFRZeElfanVLbmJMUXp5aklLLTRKSmpUNDRX?oc=5
-- **Source:** Windows Central
-- **Published:** 2026-11-22T15:16:58+00:00
-
-## Etzioni on AI: The outage conspiracy theories are wrong — our rush to patch and upgrade is the culprit - GeekWire
-
-- **URL:** https://news.google.com/rss/articles/CBMiygFBVV95cUxPUERnU0pLbEVUMkl1dmc1Q0dWWjhWV0k0Q2Q2bjBxMDZsQ0hNN3N3Sk5TNGNUVGljemFHNnh1TDhLYjhBWnhhalMwQzFwR09wb09OeHBlWUg0R3NqTGItLTl5OExKa2Q1T0d1U3RxUjduX0luRkEwWGJEYUEwNlRhRFRUSE1STGMzZG4xRWVwQUZ0cGd6emg1WlVhbWlvWDVzcEhRRjUzSjQtd3lRa053d192NEVNb1pPMFR5SzZKYmUyOEViQmI2bjV3?oc=5
-- **Source:** GeekWire
-- **Published:** 2026-11-22T15:04:53+00:00
-
-## Windows 11 is getting a security checkup that tells you exactly what protections your PC is missing - Windows Central
-
-- **URL:** https://news.google.com/rss/articles/CBMi4gFBVV95cUxNeTFIQXpEU1ZfdHR0cjZJYTU5alRMcmxKZUlPQjBXWXE5X1c2dWZhMFNqc3hiU05Sa0Rwc3ViVkpZX3N4dDBRSHRubndQQWxGblpVdlplbUhOY1IwdXRzWDM3SXZ1cU1tWDdQeVVfUS1IWUZXVXZQemZjUGljS3Fxdkd6LTAxdUk3bkFGN3VHM0tPZDB1bndqNVpuempOeDhBeWd2QU0zeC1zOXZiQXRnVFlPUVFQMk5fazhKTk4zVm15U19fUEstNzhBREtjNzJYcktwRElmbUY4akp5dC1MRWJR?oc=5
-- **Source:** Windows Central
-- **Published:** 2026-11-22T14:52:35+00:00
-
-## Threat Intelligence Platforms: 6 Compared, 2 Free - shattered.io
-
-- **URL:** https://news.google.com/rss/articles/CBMitAFBVV95cUxNODVZR3NpYmRqeTlsbkpqMGhnRENoTEYtNThQNDg0WXc0MUR1SE9DNjBEQjVrQlFBNXlPQmtnMDgtbmc2eHJyckpyV3ZmVnFCcUdyZUMtYmVPWkpDNVQzdncxVml2UW1ac0JGckRoNUZneGNiZzR4X2poODYwQV9qWnBmRlRkTTQxWU1VT2dvRk9KY09LcUNvUFF6dG93M1ZaQTJ4dWl4ZHFPeWpveGtxWXp3dlY?oc=5
-- **Source:** shattered.io
-- **Published:** 2026-11-22T14:29:24+00:00
-
-## Microsoft Ignite 2026 puts AI agents at the centre of enterprise computing - Tech Critter
-
-- **URL:** https://news.google.com/rss/articles/CBMic0FVX3lxTE5OVHBMdDlZTHJGMlJLUThkSEFfYThDYzB2Nm04Y2pmeFhqdlpFbHQtMmJpMjlRQ1g4YkZybEFyMXpwanFtNWJkUXNQdldKWGhUQ3VLXzNTQnZ6eEoxT3I2X1VVc3hVOHkyanM3dVFmbmxNMmc?oc=5
-- **Source:** Tech Critter
-- **Published:** 2026-11-22T14:11:33+00:00
-
-## Microsoft Unveils Custom AI Models, Empowering Businesses with Control - Small Business Trends
-
-- **URL:** https://news.google.com/rss/articles/CBMingFBVV95cUxPQkwtRm1YSVl1dHUzZVJlTjl5c0dNdzZWdFFtenp5NzRKV3poSk5NUG1acUZiT011OFlLdmdSV3R1SU55VnRNaDRZRG1GSHlVSHhPTjMwT0tQWUJJWUpxQW1qNjl2T1NoS1hxbFpIcXVOclNEZUJzaHpPTTZ3bFIzZkhvMmFpanpTeGFJQmVqYV96LVZvQU5kMUdyVDFoUQ?oc=5
-- **Source:** Small Business Trends
-- **Published:** 2026-11-22T14:09:00+00:00
-
-## Microsoft spent years building a consumer ecosystem. Now it keeps tearing pieces of it down. - Windows Central
-
-- **URL:** https://news.google.com/rss/articles/CBMizwFBVV95cUxOWHBqT1czOEhENHpQaEhiNElHcXdGRUFFNEtsY2lUUWpUSlk3VFg5V2pfb0s3OVZzLXU5X1JHMzZwU3FhTGFwVEl6Qm9nSkQ1dGt3b2F3amMzaFRCRVlDR0JxUXMybFlOaUV4SzNZdm9PU1g2M3V2REtYV21nWUMwZTl5b2JnOEJFNlNBTkswTEhoSVRzcThEenJ1TUJJMVNSVzRWM1oyeld6TEhyanN4cm84LWlCMXlNWlZnV0VBbEM3NW5zQ3dULWs3OFIxYTQ?oc=5
-- **Source:** Windows Central
-- **Published:** 2026-11-22T14:00:00+00:00
-
-## Tech outages are piling up, and AI is raising the stakes. Could this be the new normal? - ABC7 WWSB
-
-- **URL:** https://news.google.com/rss/articles/CBMisAFBVV95cUxQMXlGRDl6ZG9aUF9zcXBqU2RWclJpd3pCUDg1RkMyVFZyUlZZMlpPRFlROExPV25heDljM2F2alBkNEtPYlBsV0R0QlRVNjhhMkh1eEhKT3pLeUZPbTdtMTVTOTQ2R2tVeUdKN2R3WmtSaHZlNEpqU2hCVS1Hczc3TW1ISlJxMm1oMjlZLVNOVDFoek9GTjR6azIzTS1sN3JXdmpiNnY0NW15RmpQQVFwU9IBxAFBVV95cUxNbW44bV9RQlBqUzVHQkd2SnJxTEVPWm1zOU5vRDRBNHJlT3F3N2hJN1hOVHl2T2dKS3NXSWNFdnNnQ244clROV3gydG9hR2s4M3ZhQ2xrYzdIS1lKUllmWUtlb3VOZmNGZmt1OGI3Y3VPaTJIaDhkR3dseGNjSWZIRHRhdm00TnJvTGhqdjR0QzJfWEJzcngyRGpwSkVCSEZWVmxUeUF6RDZfZXN1dVdiVjhEZUc5eHZ1ZGw1VTNORFlKZ1Vx?oc=5
-- **Source:** ABC7 WWSB
-- **Published:** 2026-11-22T13:31:00+00:00
-
-## Microsoft is killing To Do, and Wunderlist users will have to relive the same disappointment - Yahoo Tech
-
-- **URL:** https://news.google.com/rss/articles/CBMimAFBVV95cUxNa0o5VGF5VXFBSWlyU3hmZ1RPNDEtZmZzUHBTenNGd2lraDdsT3Qxc216OHVreUtDTVlTUXNxVXJpOEd1ZUJ6Y3M2LW5qRUNMNGRkLU9qN0FnNzF6SHcxVXVNVjkzekRfYWp4TUJxX1pvd0R6MUtnbGpmM3JxazNaNk14M2U4bEpuSDUwcEZ2Vkx5UHgzZ3E1OA?oc=5
-- **Source:** Yahoo Tech
-- **Published:** 2026-11-22T13:05:44+00:00
-
-## Microsoft Legend of the Week: Randy Logan - Philadelphia Eagles
-
-- **URL:** https://news.google.com/rss/articles/CBMiwwFBVV95cUxOa3pYc0hvczB0Tk1zaFFrV04wVVJQTzJEUVRobjF2Y1FkdUxtLXFmVTM4dXNURHlsME9fZmMxb1VWcFdRZWhPYk4zS2tuLXItTTl4RkR4SkFQMTZxVjVCdGVrSVplNDhYMHVBa0hxaWs1RnRqNnBybFpHV1BxYUpyMHA2bExqeUJwLWw3RDBYQU5Hd1QxSjBPRF9nLWU2WGpsVG8xd0N1aFc0NDJESFlUc0d0WXdCdzl3TDlLSkh4YUlWaTg?oc=5
-- **Source:** Philadelphia Eagles
-- **Published:** 2026-11-22T12:56:39+00:00
-
-## Microsoft executive laid off after 24-year stint while training techies how to use AI - Moneycontrol.com
-
-- **URL:** https://news.google.com/rss/articles/CBMi2wFBVV95cUxQcXEzMzBIM3FFT0Jyd21OeFo1WEx0UloyNHpBNl9jODFCeEUxSlliVTdiMDhlTjBhSXJYTDVuY19UUDl1dThyeThQNVh3OXlaWmVLSzNCTVBuN0ptaGxzWVVpUUdXdFF4Um1TMS1mSUg1VmN2N0ZnUWhTUm5YUU55Slh6QnRpZHJHZVVkRTlKVG9OeVVYay1PNTNlbHRnVGV2UURWdDB6X2N0eEc3eXdLWWRqVmxSd3lkUEJkeU5fS2xHMWxnZHpWQlJ2cTk3TFR2Y0JqU0pqQWhuY0HSAeABQVVfeXFMTU04WlJIMVdUaHVtV3dCUWhvLUJoQzRGUzBxeHViTnZ6R203MkpnNVc2b2ZnWDFOOW5ia2N0R1lKeW5oRXFrZVF3dXdIX3NlVU4zMjlFZ3RwTG1BT2FvNm9LYTl6RHV6enNWVWxkZFMtby16eGUzejRnbDdhczNWUWtJWlQ3cm96NzdOUmdvZkVFOXRIMU9hcC1NenNKNG1CN1NmTW9HWWhlbDZLajk1a3ZUUUYzMWJWbUlqbmJMQjFaV0VOYnNkSG9oZzJkRm5ta01mc08weWJScDljVWdNdGI?oc=5
-- **Source:** Moneycontrol.com
-- **Published:** 2026-11-22T12:32:29+00:00

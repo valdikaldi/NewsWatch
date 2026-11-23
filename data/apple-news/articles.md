@@ -1,8 +1,14 @@
 # NewsWatch — Apple News
 
-_Last updated: 2026-11-22T20:36:02.004198+00:00 · 50 articles_
+_Last updated: 2026-11-23T02:20:03.044761+00:00 · 50 articles_
 
 ---
+
+## Apple iPhone 18 India Launch Date, Price, Specs, and Features - RS Web Solutions
+
+- **URL:** https://news.google.com/rss/articles/CBMinAJBVV95cUxOZXpvUkNkYTl4bl9NX3ZWcnpEUGJ5VTdQeEVWc1YzTWFvMzRGYnBnV3dkWUNYX3I2XzYyRHBnbld1Z0xQOEZtUmpJZ0tRUHFkaHhNSV9VZWZTd2x0dXdNSm91WXZFanVaSVNrOU1TNFpRMVZ2NzFGbkYxeklFSHEwU3dHaEdxMDBvRng5YWFpSTlLVkxabmhhdXByUDdFeHZJTDNnVnJiX2R0TXB6MmRMcC1PMHBfbXhOeDZfMzU0QUI0WGxLUE5JdzZCYW5CN0N5dXVISVdsU1BhdTZlcUFTQ3Awd0d5TjRXcmFNZUE2OXhpMHpQZkxnVk1VUGdnS3drWVQ0ODFZTGxOakVEdUtDN0hkN3R5Y1NjVmU4ZA?oc=5
+- **Source:** RS Web Solutions
+- **Published:** 2026-11-22T21:00:00+00:00
 
 ## Apple Inc (AAPL) Stock Price Today: $342.56 - Pluang
 
@@ -295,11 +301,5 @@ _Last updated: 2026-11-22T20:36:02.004198+00:00 · 50 articles_
 ## Apple Inc. $AAPL Stock Sold by Vantage Investment Partners LLC - MarketBeat
 
 - **URL:** https://news.google.com/rss/articles/CBMivgFBVV95cUxQaFRNa09TMjFnc1NfT1kyR3hjQzFIZTlIVFFHSWJrbHdyZ0VqRVFfREJvS0VpNjVER0d5ZE9qd1lCMjgxenpuZnBoUGpZZWJVU1lUendJWUlPbnNyUzU3NS0xTmRLUEMtY1RXRldiYVRJTG5wakdYNTV1TUxvMnFUdnRXb2dYU3RsV3g1b2ZCUTQ3bnpWQjEzTXpMUG9aM09pM1RQVzRzTFZLTFExODZQZ25acGN4dFlZR040dlNR?oc=5
-- **Source:** MarketBeat
-- **Published:** 2026-11-20T09:59:45+00:00
-
-## Apple Inc. $AAPL Stock Sold by Laurel Wealth Advisors LLC - MarketBeat
-
-- **URL:** https://news.google.com/rss/articles/CBMitwFBVV95cUxNRUdRbDdWYnBKT243QUIybW9xNXhpNnowTlBlcks1OHc0T19fMmZER3c4LUROTUFZT21lT0ZEcWxyLTNId1dNSWQtdkFhRlI4WnRmNGxRY2xWMmNROFlYOHdYcWtONjNhWjdfTVctZjlQRDlCS2tObU5TVjE3TC10QUVaQkZjNEhtdENLa1QxRnZLZDhUTUQ2ZVYtZjViXzVDNnNrMzd1WmxqYnpjSHdPVy12OEtSM1k?oc=5
 - **Source:** MarketBeat
 - **Published:** 2026-11-20T09:59:45+00:00

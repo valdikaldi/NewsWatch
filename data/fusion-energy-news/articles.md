@@ -1,8 +1,14 @@
 # NewsWatch — fusion energy News
 
-_Last updated: 2026-11-22T20:36:03.290655+00:00 · 50 articles_
+_Last updated: 2026-11-23T02:20:04.141846+00:00 · 50 articles_
 
 ---
+
+## A singular focus on neutrons - MIT NSE
+
+- **URL:** https://news.google.com/rss/articles/CBMiXkFVX3lxTE50MWUxYzFJRTJnSVhxdll1LU92d0tQSERQMHR0aUVIVGZTalFVTHRQRmY3enhkdUllYzByRndNY2lNYkhMR0xZN3o0bUZZREJabW90bTB3M0J0aDhJQUE?oc=5
+- **Source:** MIT NSE
+- **Published:** 2026-11-23T02:02:18+00:00
 
 ## For the first time in 17 years, the world failed to reach a consensus on climate change. - Vietnam.vn
 
@@ -297,9 +303,3 @@ _Last updated: 2026-11-22T20:36:03.290655+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMijwFBVV95cUxNeS1QUEdkOFdEaG1IazAyQURMR2lFaV9zX0c1SmVrM1I4S3RXdkdUaHRXcDRCX2pPa0swMDZnekVlMVlTUVVWTDJPVFViaEZPdUY1YTUtWl96d19VSWFEYUo2MmRnQ3NDXzBGR0V5SC1BbVR0Rms1TkhsbU5PTmJKZHRDbHhOQk41TjlrOUJYbw?oc=5
 - **Source:** American Nuclear Society
 - **Published:** 2026-11-20T14:37:54+00:00
-
-## USDOE to delay atom smasher and speed up AI, quantum computing, and fusion projects - The City University of New York
-
-- **URL:** https://news.google.com/rss/articles/CBMiywFBVV95cUxOVVVUNWp5eDNfcXpRRmVJTnNFVEFhaUlaREdoMGppaTFPSGV4dHNUNXpTd0dwU1hEemhjZ2lpakV5Vzl4bHFVbE1MVV9JSWFLWUpUTlh1N3g5bll2RGxueXE3Vl9YVklnVlRRRURXcXVQaXJ1ZGhCeGs0T2kxS0pscnRBeDNuQWlmWUxLZ0RVV252eFZCV2VPaTdRUGgySGw4Vy1yY0Z0bDlOOEJwdjBGbXlTRzRyU2J5Q29lQ1piRG1oZ2xPY25VajdpRQ?oc=5
-- **Source:** The City University of New York
-- **Published:** 2026-11-20T12:40:19+00:00
