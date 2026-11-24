@@ -1,8 +1,134 @@
 # NewsWatch — Iceland News
 
-_Last updated: 2026-11-24T02:46:19.316052+00:00 · 50 articles_
+_Last updated: 2026-11-24T14:37:06.441465+00:00 · 50 articles_
 
 ---
+
+## Ministry Will Revise Contested Residence-Permit Income Rules - Iceland Review
+
+- **URL:** https://news.google.com/rss/articles/CBMihwFBVV95cUxNRmx6N0Z2SVNNOEhZTjF3SlpoaTFqSHJSaWVqSVFGWWxTQ0FCaE5MTHRuMFhJSE81QjVDT2ppdGlSeUszZF9ZbzZuSEhJSUVJaFNpemVSdWhzNmZMYlRORndMZXJEdERaX0Mxc0FWTzVVc2s5Nk1vRE1wSnFMTTBJQ1pwdDF6MDg?oc=5
+- **Source:** Iceland Review
+- **Published:** 2026-11-24T14:00:00+00:00
+
+## Retirement Savings Not Keeping Up With Inflation? Iceland Offers One Answer - The Daily Economy
+
+- **URL:** https://news.google.com/rss/articles/CBMisAFBVV95cUxON2RRdEFHbElPTlJTZXVXRHprUDhuZVdiMlJ0emtPcWhFemdUb3JIWUdyT3d3WWEzM042YnYxLXAwb3E1bXM4Y2hJbU16Tm1qUWFaQ0RMZmhoY0wteEtnVzRSU2U4dGQyYjhKNWQ0c2hDdHRfSVBvX2Z0el9oTW9DY2c2U1k4RUg5RkFRUlZYSTRMaHdab1FvbWZqNmxoYXMybElsc01yeTcwbWZIRGRVNA?oc=5
+- **Source:** The Daily Economy
+- **Published:** 2026-11-24T13:55:00+00:00
+
+## SWANS: Freyr Alexandersson reported to be leading contender for job - Swansea Bay News
+
+- **URL:** https://news.google.com/rss/articles/CBMimgFBVV95cUxQNzl0VGo5Q3FVaTJJbmJwdmJjRWc4RzBGcUVsSnR3T1o3d2FIcjYxbDYtSE1NUWVHTmEwbXNlNlhTVXY5UTQzTV9PSzBsT0JDeXl6ZGNGdmtJNzk3SDdHb01hanZGZ2MzQjNPWHlJMjRueTBHVFpWUjRzSWhHQjMtZzE5MUdqUF9oMDRtcm1ScFhDUDRtNkJjakRn?oc=5
+- **Source:** Swansea Bay News
+- **Published:** 2026-11-24T13:32:45+00:00
+
+## Thunder and lightning strike South Iceland - mbl.is
+
+- **URL:** https://news.google.com/rss/articles/CBMijwFBVV95cUxQWmRwRzdzY0h5YWRnSEJJS004TVF0WXJPSVVXSkVGR2w5bzM1UzNubGVkSUY3aFBvTXR3dVFaaDEyQ3pOZWVaYzFBQlBWT05qNXVaT1M3ejJSWGJBeTNHQWtqQkE0YzRKX2FBNG44ZTl2NU9VY0ItQkQwdDN1dUtOSWxRYk9ETXNKRlZaSFlObw?oc=5
+- **Source:** mbl.is
+- **Published:** 2026-11-24T13:30:00+00:00
+
+## Royal Return: Burger King to Re-Open in Iceland by 2032 - Iceland Review
+
+- **URL:** https://news.google.com/rss/articles/CBMilAFBVV95cUxNMlRBYnpvSFEtYm1RWFNvX1NYM3cyaHo5WDZnd3g5cU5rVzY5SXAtWnJfRnBSemd4MTByV0lGOFlpd3FzekR6REN4WXlKSUdBQlg3d213QzhtWldITlpsNDc2cW53bms0ZUE3S3BsZmJxcjUtV0ZMakloMUw3UlVqVEpWRDlRR09IR1hSSUJNMXFmQ2ZD?oc=5
+- **Source:** Iceland Review
+- **Published:** 2026-11-24T12:57:33+00:00
+
+## Can Selfoss Actually Be Any Good? Editor Accepts Offer. - Iceland Review
+
+- **URL:** https://news.google.com/rss/articles/CBMiigFBVV95cUxNaXpEQXZwU2xwSmlFZDk5SU1WcS1tWWlWWnZGOW8zY1RZRXJvQXNpeXJfWTkyTlFtYk9nbHFneGZxWm5pUGRkWDVHM2tJZ1VSeGxvbTZiU0NpRlBnT0JVU3VBWDNvMlpvVkhpY3draUpQYTktcFlRMmRXSTZNdWxXSE5GSUtsdVNRdnc?oc=5
+- **Source:** Iceland Review
+- **Published:** 2026-11-24T11:24:24+00:00
+
+## Passengers aboard Iceland flight bypass passport check in major error - The Independent
+
+- **URL:** https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNkYwRnhfc25PT2xYRjY2T2QtYmVYQ0tZTU1aa2tLazdIQmFiaXJKU1MyaHJUckl4dy1Sa05HeklxemJyVFkwdXVVd0xGLXkzcXZ1RGNqZ0k0UnVKQ21yWk1QbmRLSUFwQXQtaVNfbE5xbDFGNmliVmhqbWVUMGx1Q2ZFZ3BHRFJFa0RfdXBVbFJpMy1haFVoU2kxUW5PY25TeEFDMHdmU1g?oc=5
+- **Source:** The Independent
+- **Published:** 2026-11-24T11:10:00+00:00
+
+## Norway and Iceland bring aluminium imports under CBAM from January 2027, setting 50t threshold - AL Circle
+
+- **URL:** https://news.google.com/rss/articles/CBMiygFBVV95cUxQTmFabUhSYzBGX1d0czEyNVZQLXlDZEZ2UDhCeHBLMUVsRk42VU1MSldOcHNISXBOY3pkNDhUWlFHU2hIRElIbmQ5RmwwdU9HcXczTHlnSlpBeFBXNUlQck9ySjlXalZOQzBib2pPNk9FdG5zc1VfeGNLQ0oxRWpRS2M5RlJzWEQxU09DU0ZnZ2w0RGwtNVRFT3MxTS1WcndQbk1qWWVmN1RPUkE2alJ3RHJUc0dPZ1BfVkJwRi1OYXJWbHp5S0hoWmtB?oc=5
+- **Source:** AL Circle
+- **Published:** 2026-11-24T11:08:08+00:00
+
+## Iceland flight skips passport checks at Edinburgh Airport - The Independent
+
+- **URL:** https://news.google.com/rss/articles/CBMitwFBVV95cUxQLTZXSnNHOTVoU3NfczZjcDFrVzRmN2RoX3liUEpacWYtU2Zpa3l4T3hJS0J3eGtfZDZpTURhNHJsYnJPNTllbFc1X01FaE5MQWZDbUloSTNrOThpcjhjeVpFZ3VOU1dfSV85SElHNlJyWGtITkd4QVFqMjl6U1h6MzRBRWMzeTlPVUJLeEVZcEVpMjFwOVhxZFFiUEFLZS1xSjhmXzE4YkFLTkRCNTh1M01nQkllU2c?oc=5
+- **Source:** The Independent
+- **Published:** 2026-11-24T10:49:00+00:00
+
+## Study of the Best Self-Drive Tour Companies in Iceland - Guide to Iceland
+
+- **URL:** https://news.google.com/rss/articles/CBMinAFBVV95cUxONTRxLUlfYVcyOTloQzN1cFFYZm1nNEMwTEtNZng2UVdjQU9NTXBIUlplSU8weklQeG5fZHJxVUE3S2w1cTlRR0Y2Z1piTlhCUUxoWW81YW5ReGdtNVFrYmswSFdsT1dRSjF1WG5Iel85cnZJdGU5ci1QRS15NmdGem8tdzNob0VLNkktaUdDN3YxV1c3anhBZ01yZ1A?oc=5
+- **Source:** Guide to Iceland
+- **Published:** 2026-11-24T10:44:06+00:00
+
+## Visiting Holuhraun Lava Field Safely in Iceland’s Highlands - www.thetraveler.org
+
+- **URL:** https://news.google.com/rss/articles/CBMikAFBVV95cUxQYllWVXdndnF5MlBaQm9jMlhRVlBndE16c2RlYTlBRzRNV3FpNmxKOEJTSEVieGo2aW1PWHROTkVIb1JsN2tZZFRFWmNtQ0VDcjdER1BCUXBsamhScEJ4a2d2a2c2MHJVbEtSZVlNandacWhaVV9HdDBva1B4aGRjaS1JZ25EcWNfNmdxekZzRTY?oc=5
+- **Source:** www.thetraveler.org
+- **Published:** 2026-11-24T10:12:01+00:00
+
+## Deeside-based Iceland’s charity gives Christmas vouchers to almost 600 families of seriously ill children - Deeside.com
+
+- **URL:** https://news.google.com/rss/articles/CBMiyAFBVV95cUxORGNIQWtGaURQX281OEVxUmtKNHl2dTNfeEVyd0dCQVJFd29Ga2wxODEzbFU0a25CSjFEQ2tqVmRLSXVyUFpCSk9YNWVEOGxQelRxdVV4LVR4MFRCd0RpRXN1X2ZsenZWdWdTdUZTQXJSRnl6YlNlQ2RXMFAyMmZySXgzM0VjZG1jR2RxNXBhN1VDV1dLXy1Bb3l0TEhOeFY0dzJsa1FtWUVfQTFYTVdGR0RqWGdyNFpqc25fY0xibmJlY1NYX0duWQ?oc=5
+- **Source:** Deeside.com
+- **Published:** 2026-11-24T09:42:18+00:00
+
+## Tjörneshreppur: solar panels for all? - RÚV.is
+
+- **URL:** https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSjhpWHR4aWdLX0RPcHVVdFUtUk91QVcydnhQZ2FwdjlkeEU4WGxnQ21aRVEwYmZ1dFM0Ql9pakwzUUZmWURMY2E4bkkwcGVMb0hqNE40M2oySTdybGY2WlhIb3YzdTE1RU9mekNUMzd6TkVwalZlUkxiMGxBMEkzWC1ybTRCcko0?oc=5
+- **Source:** RÚV.is
+- **Published:** 2026-11-24T09:15:00+00:00
+
+## Former Eurovision hopeful takes to the Miss Universe stage for Iceland - Aussievision
+
+- **URL:** https://news.google.com/rss/articles/CBMipwFBVV95cUxNSGgydmkwQkF1a1Q0VTZvR2F4Sk03dFZXT1dSeTlmbVE4NG1sRFM4Qm5oclFVVDRTMFNqSTNrRjNXdjMyaXhzS1BuSHU1VnJmdXMxcWlQQmNtX3M1ZGdyOXcwSXM3bENyOHdPb3ZueWdnQTg1TlVfdTJKTHlQdDIya1JGZEQwa29NMFNva09UR0IzdmVHckVERTNIdVh1R0MwNHJ1X2NHVQ?oc=5
+- **Source:** Aussievision
+- **Published:** 2026-11-24T08:42:36+00:00
+
+## Weak mag. 2.3 earthquake - Iceland: 23.6 km S of Kolbeinsey on Tuesday, Nov 24, 2026, at 07:10 am (Reykjavik time) - Volcano Discovery
+
+- **URL:** https://news.google.com/rss/articles/CBMivwFBVV95cUxNTHNGZXRFenNmSDlEMElaQWItSktsM3VwdWJFczV6eHJIM2piNUY4YWkybGhLbjdfQlhwRUw4TmhJSDBlYi1KcFNKYjdUUDlMR3Z5c0NzcTc3aUo1aU03c1F4REk2WUVzZHJPcTducjhXanhKd1J5RG84bU1yWnhIMXVfaXVxRmNhNDEtamdRb1BaMmJIUjBoOTh5aXNxSk1wcFRzal91QV9CMmpiTTh0OWJkX1ZqU1VVT2stMExmMA?oc=5
+- **Source:** Volcano Discovery
+- **Published:** 2026-11-24T08:02:21+00:00
+
+## Northern chill hits this year’s Bilbao BBK Live festival as Sweden’s Lykke Li and Iceland’s Of Monster and Men join British headliners alt-J, The XX and Bonobo - Olive Press News Spain
+
+- **URL:** https://news.google.com/rss/articles/CBMinAFBVV95cUxNdy02XzgzaFBxOHAxZTVNRG9yME5GT1F2ZDg5dHdoNjhxb0JQaFRxbjBOMUNLZVFtSWZQdnczVVB0aG8wV2FhNjJfaElGb3IwTDlyZTFpUnZpTW9od2s3SndfVlVhN252eHlDTnROa1BsTjVqVElKQ1ozQ0tabWFDWWZPMGYtSlVoX2o1UFR4eXFhRWFicTQ4UmdHRGU?oc=5
+- **Source:** Olive Press News Spain
+- **Published:** 2026-11-24T07:15:00+00:00
+
+## Theo Paphitis and bosses of Ikea, The Entertainer, Iceland and more join LIVE line-up - Retail Week
+
+- **URL:** https://news.google.com/rss/articles/CBMizwFBVV95cUxQM25hSXRfUEp0V3NLLWVkWUpqWkVEM1c4TnBFVUNQSnJwaW80RWtEdmt5VjA4S19WREpvOUxLY215ZG5hYkhILVZKN3lsZGowanRLRHZHampDZ01HN1g4TmEzVUdjV0Z4V0FWRmFSNjdRV0ZmTmV0ZHlxV0p6RGpYYUhyU3pwUW9Xb3NYY3NUMUlFMldGTkR3cGNEa3VXS2g3TG1TWVJ6QmI2Q19CcFV6TXFtNmRwYUJ6QVhHTFNDMW5IUmI3OFdiTEVXcmF5SEU?oc=5
+- **Source:** Retail Week
+- **Published:** 2026-11-24T07:13:23+00:00
+
+## Weak mag. 2.5 earthquake - 40.8 km NW of Grímsey on Tuesday, Nov 24, 2026, at 07:11 am (Reykjavik time) - Volcano Discovery
+
+- **URL:** https://news.google.com/rss/articles/CBMivAFBVV95cUxOY3dDeUp6Qk5aYVVCVExheDJWUmJpTWg3bUcyU0xCWUJmd2xQd2hKaTJ6WFhZOWhBWEFkcTBRcEdpVUEwQkZzOWgtdENlUThmWXllWXpidUl4Rk5UNVN6QzBUZU9lNUNwek1JbkltQ3JHa05fdVQ1ekxvV2Y4dmpkdlNOdmU1UGtJWGk0WFdqakl2QnB4bHF6MHVNaUtnOW1kRzQ5cXphRUtmN01iZUM2TldLcmRfWlFIelliVQ?oc=5
+- **Source:** Volcano Discovery
+- **Published:** 2026-11-24T07:01:19+00:00
+
+## Iceland’s Fuel Prices Face a Fresh Competition Check - Iceland Review
+
+- **URL:** https://news.google.com/rss/articles/CBMijAFBVV95cUxOd0hhNXZraHhBMmVBdlRXMlJ2R2FIdjJ3T2doRy0xRFRMcndralBmRWFUZGZ5VlZCQmR5Z1hYVUowWUFHczJtWlZKMzA3aV9rTGd3SDVNXzltOWw4OGo3bTBfZjgzU0xWWnZ3SWNqR21oWTcxUnZfMFA4YVFXcGptME13ektVVG1IQUpPYw?oc=5
+- **Source:** Iceland Review
+- **Published:** 2026-11-24T07:00:00+00:00
+
+## Weak mag. 2.1 earthquake - 7.1 km S of Landmannalaugar on Tuesday, Nov 24, 2026, at 03:49 am (Reykjavik time) - Volcano Discovery
+
+- **URL:** https://news.google.com/rss/articles/CBMixwFBVV95cUxQcEJVZ3kzWFlTYzNYQ2p2bnNVSEVjNS0zNDZHQktEX2hXOEtaSFppNWsyWmdFVlpsdmZjZVlrMUk2UnBNdjdfdVljT0dNUFBXdHNrX09GV1VBamNHWDBXeUR0OGE4NnZIaDdjLWk4dDYwN1RrRXR1aldLTGx5RlRsZFB6MEZrZUJFMEM1R0p1aTVRYmlGTkZaVVE4ejFoeHlNcUxhWmNKb3d1ajhGRWlmdFZnaExJS0JGV3FRcHFjeEhCN09NbU5N?oc=5
+- **Source:** Volcano Discovery
+- **Published:** 2026-11-24T04:16:14+00:00
+
+## Skaftafellsjökull S1 Trail: Practical Guide to Iceland’s Glacier Walk - https://www.thetraveler.org/
+
+- **URL:** https://news.google.com/rss/articles/CBMinAFBVV95cUxOV25seV9zOW0wVGpRaUFhV3poLWl5b0tDZGVvZE84Vm9tZ0FwdU5wb3VjYmI1LVZaaE52RWh1TnlHbTF1YlFDNzlMNkkzVXFray1fMnE5ZGhtazBBaE41Mk41bkwyWUFMZEZFRnRnaHVxM3pDYXphTVJEMEtBbkp0RENDcUJCeHRMRnNhdlJwYWRBQ01UZzc1MEdZQy0?oc=5
+- **Source:** https://www.thetraveler.org/
+- **Published:** 2026-11-24T04:10:38+00:00
 
 ## Opposition unites against advancing Protocol 35 bill - Iceland Monitor
 
@@ -177,129 +303,3 @@ _Last updated: 2026-11-24T02:46:19.316052+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMimAFBVV95cUxOTWdHb0VOQVF6ZjZaV2k1MXBpeTZ2QTNibWJTZ3NGOXpoX1BYWmpockVNTFg0TlRhNzgwY0k4UVdnaW5XdXNzTzdUV1FrQnV4SWVuMUVmZEFleXdEYTV2czlNaVBiYXhZSFdJVl9TcHN0R1Foc2lrQzcwOS1VZ1BQZFN3dzd3QkFfUG5DNWszNVcwc09lVHRqZA?oc=5
 - **Source:** MLQ.ai
 - **Published:** 2026-11-22T18:02:35+00:00
-
-## What Language Does VYRMA Sing In? Old Norse and Icelandic Explained - RouteNote
-
-- **URL:** https://news.google.com/rss/articles/CBMimwFBVV95cUxPM3Y1ajJmUHVzSmRxNlFVOGt4bklHNURqcW9iSVQ1S1R6eml1UjRvNUM0SWZna3JfQmo3TVo0XzFjQmJQY0ZIeXhmUFVRcnVhdVNlUXcwWmN6bW90SzcwY2Rsd1BEVFEwdEFYNWlmbC1CSVpLS0RGRV9GVXhiQ3Bwd0lqRnp2VG1CNW0wWUh4Rm1CRHZzR3Rvb1JaOA?oc=5
-- **Source:** RouteNote
-- **Published:** 2026-11-22T17:20:00+00:00
-
-## Jet bridges closed at Keflavík Airport overnight due to weather - mbl.is
-
-- **URL:** https://news.google.com/rss/articles/CBMimwFBVV95cUxNaFdmNDloejIyZHFaWEhPQzIzYlVaSVFuY1AwUHFKZ1dwRXZ3YTZURV9vT0VYSjUwa2lJcFpfY05DZmJPWTF5dG8yU0tEdFZvaTRIeFdZRGdtelJCZk5MZ29rU2luTXpyMGYwdHhMdUVQbTd3S3JPZEhDUzdWYnN1NFlSSkt5Sy1hVlIxb253LUlTRlUxNkt1WHhwbw?oc=5
-- **Source:** mbl.is
-- **Published:** 2026-11-22T17:15:00+00:00
-
-## What to Do This Week | Christmas Clay Market and Other Events - Iceland Review
-
-- **URL:** https://news.google.com/rss/articles/CBMimwFBVV95cUxQczJjOGJNSHk4dXZ3OEhrUi1CemVTMDdsWEJKLWF5ZnBoOXVQTnBmeGhweEpHSEdSQmVVRVYzZEgwNl9RNEZXQktVY1huUURxTkZ4OGlkN3lHSFBtMWtnOHFtbmhHSjBwZ3g0cVpjc2YySndMc0NfUGU4XzFXZ25NOUF6c0p2cVpWbW5jMGJFVWJqNzFLN2RESzhHZw?oc=5
-- **Source:** Iceland Review
-- **Published:** 2026-11-22T17:00:51+00:00
-
-## Queer Guided Tour | Leaky Bodies: Shared Worlds - The Reykjavík Grapevine
-
-- **URL:** https://news.google.com/rss/articles/CBMifEFVX3lxTE9JZVIwWUdGb2lXZDdYbWRfMFZNOU1KcDVhVlFUUHdrWVJJOHpzQjlpb2dtNkcteE9lTkJvOXdteEs2WE43amdSWHNaRHNaZlNGTFVJbDB0MkdBNkN3R2xwbzhzY2xkQkdmblRuSUVHeWpuaTdDYlFGdERCRWs?oc=5
-- **Source:** The Reykjavík Grapevine
-- **Published:** 2026-11-22T16:57:11+00:00
-
-## Flour Recall Expanded Across Iceland Over Mycotoxin Levels - Iceland Review
-
-- **URL:** https://news.google.com/rss/articles/CBMie0FVX3lxTE1MQ3VaVjU3UE1oLTRyNERnRGNzYldCWWx3TDRSYTZYYVdsWW9JS3p4WjB2RUdmaVFLNlhXNWZ5VlI0Y19YcHA5MzNyX1dVSVhzbVhnU2dBNVVBVTNITjRFU2E3UVI4TEtUNWZwcmhMLUpkX1lSWmd2TWtiYw?oc=5
-- **Source:** Iceland Review
-- **Published:** 2026-11-22T16:30:00+00:00
-
-## Sitting by Archie2022 - ePHOTOzine
-
-- **URL:** https://news.google.com/rss/articles/CBMiXkFVX3lxTFBCZERDaXp5Z3pMUlZFZ3dGdTM1S2hiN1JRejk3QUlNOFZpNVFfQmQ1YU91bEN0MThWZ2dJVmhJMnZXMHM4NHlhVDAwSVNYemxGampEaXNlZ09peEdnbFE?oc=5
-- **Source:** ePHOTOzine
-- **Published:** 2026-11-22T15:51:05+00:00
-
-## 10 high street shops in Hertfordshire we've loved and lost - Welwyn Hatfield Times
-
-- **URL:** https://news.google.com/rss/articles/CBMijwFBVV95cUxNWDBGZkdJWGcybUstcV8zTnk4MWZLczJsLURFUk9nUENHS3hhR0pYRjFfc1R6R2JkVTFZTy1pQk13NDZPODhnQ0xVWm5vTGM3VzgyMkFWN0dFbDM3ekM3dTM5UWFSUkNKRnRfMXNJUkVYZTJxREc5Z2tIdFA1TTBUNG1tQU81NGRsTExpNjVjdw?oc=5
-- **Source:** Welwyn Hatfield Times
-- **Published:** 2026-11-22T15:34:02+00:00
-
-## Salsa Party at Árbæjarlaug Swimming Pool - The Reykjavík Grapevine
-
-- **URL:** https://news.google.com/rss/articles/CBMieEFVX3lxTE5hMXh5SExnNW9uZFIwd19oMk4ySkx0ZzFYWDRDQWZycE1MZnE5MzFqYWY3MC0tYnlkUjlFYTV1QjBDWmxwb2F0VEplZ3V1QkhpQVNBS1p0QmFuMnY3SmwxUXJwWjJ1cmxBc2lSZzZGTmJTNDJsQzNoXw?oc=5
-- **Source:** The Reykjavík Grapevine
-- **Published:** 2026-11-22T15:12:13+00:00
-
-## Iceland Seeks to Revive International Urban Rescue Team - Iceland Review
-
-- **URL:** https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVkZmeVpqZDdsdVNTdjhaUEZ2XzRRaDIyR3pIUlVpemJkZXNRLWQ3Z2liTlpad01yeDdDSFRMaGs1RnVrRWdZZ2k2Z2V0eG5HSENKb3N3eFluX3RvOFlaRjJBRUhQNGdwN2pLSUdVRDN6QmhRdGJzYXRVTFoxOUZLV3VYRS12RWFiSlJB?oc=5
-- **Source:** Iceland Review
-- **Published:** 2026-11-22T15:00:00+00:00
-
-## Icelandic mist by Sandgatepete - ePHOTOzine
-
-- **URL:** https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1yalFabmk5ajJCVXhOdUh2OVpEa1FsNTZISjVlcFBSUFpHMk5RQnJIMVQ2dmFpbl9LdTZWVjdmcFo0cHo3dW8wUDNSY3BZLWsxZEduaVM3cXQ0VWxmckc4bWl4bGpoNDg?oc=5
-- **Source:** ePHOTOzine
-- **Published:** 2026-11-22T14:45:55+00:00
-
-## Iceland, Arkanes by Sandgatepete - ePHOTOzine
-
-- **URL:** https://news.google.com/rss/articles/CBMiakFVX3lxTE0zREhtdTBVcjg3WGMwWDM4TXhqTFN1N3paZ2JZdU5zdWNXVDZlQ0VIZFhHb2NoTEF4OWxqYjF3QU8zbjhyaldZeWMxRzdEVGpSc0VaN3lIeTFjSWU3LWozTlcweW5vcnlJd3c?oc=5
-- **Source:** ePHOTOzine
-- **Published:** 2026-11-22T14:45:53+00:00
-
-## Discover the film locations for Supergirl (2026), around the Cairngorms in the Scottish Highlands and in Iceland. - The Worldwide Guide To Movie Locations
-
-- **URL:** https://news.google.com/rss/articles/CBMiZkFVX3lxTE1USUEwakZRMEFZQ09IMEw1eFVfdVBtRUhDZ3dJaWhlNlUtelFfQ1B4OXN2UVhTY0V5SzJpSmNJNXB3UFVlZE1UZ3hwVmJ5ZVk3bzRkVXE3aWxkREhEQVpHWVdvMFV0Zw?oc=5
-- **Source:** The Worldwide Guide To Movie Locations
-- **Published:** 2026-11-22T14:06:01+00:00
-
-## Europe’s thermal pools and open-air saunas with a view - Aposto
-
-- **URL:** https://news.google.com/rss/articles/CBMijwFBVV95cUxQRllBMFNmcnVLTWdoaTZHcW1zMHJITkFRNW1uTVZSYnZLT1VKaTVvRHNpZXZpN2FkRWlaT0YtNVVZazFJWGRJMU5DaV9sbFIxalF5RUZfdFdHSHZLV3VqbEt2c2ZMelFlV254VjFicmo5T3hJYWNGMVkxQXc1eVU2emdxQnZFOUJSXy14bHZ5QQ?oc=5
-- **Source:** Aposto
-- **Published:** 2026-11-22T13:48:16+00:00
-
-## Kambanes - Veðurstofa Íslands
-
-- **URL:** https://news.google.com/rss/articles/CBMiWEFVX3lxTE1BMFNtb0pRRG5iQS1wNG1MQ3haOU1XNkhiZDZOUm0tcXh3eE1XbDYzUkNQUjBrQUxKQUJqQ2pRc2d4Wl9Fei1XbDczZV9MSmZmbVdMbnBFeHo?oc=5
-- **Source:** Veðurstofa Íslands
-- **Published:** 2026-11-22T13:36:15+00:00
-
-## Iceland Plans Merger of Natural-History Institutions - Iceland Review
-
-- **URL:** https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNEVtZmdlcE50S0QyOVhTc1JLbkpXUllrcjc1d2cxZHZ5OS16TEpPSGJXR0lhSlVJalRlS0lFSGU5alN1Q0htaWpCVGlGb0VFWnFPenhKLXNJQWlkSE9HdHJaMVhuVFVLQW95cjRRdDlsM3ZHaVI5eldQc3VESG1OTS1LM1R1RWRZdmlj?oc=5
-- **Source:** Iceland Review
-- **Published:** 2026-11-22T13:30:00+00:00
-
-## NATO emergency talks on tap as US commander assess defenses after Russian missiles hit Poland - Stars and Stripes
-
-- **URL:** https://news.google.com/rss/articles/CBMilwFBVV95cUxNdFpwYmxfXzFYT3hfeDA4bGxTenBPZEIzekJzbUI0N2lyY0xsQ1BsR24wZDFHb05NWnJMcEVUNE0zN1JlbURKdmpFV0tmNkZjM1MxRk5HUW1Na0R2VGZxVHBXWnNLQlVrMzhfZTRUVktXYVh6dzMtV29uazNIOGQwWGVEVmdyRWFMZXRTQ3hiVExnMmFEYjBj?oc=5
-- **Source:** Stars and Stripes
-- **Published:** 2026-11-22T13:01:11+00:00
-
-## Storm Damage Reported as Strong Winds Batter Reykjavík Area - Iceland Review
-
-- **URL:** https://news.google.com/rss/articles/CBMihwFBVV95cUxQWHQxNlpheF9KQ2V5aXVQc25WYTZtQVJHQ2NqcEJicExxMVo1bm90aTBWdzl1NDc5cHNhWmFIazZIQzlVM3hyZ1R0VDBZZkNBV3JYQVlTQ0lKTDRYQS02VTluRzlaVmhzVmdzbjZYYVo3cU1LYXZrRWFudXN2Q2dkYjBmbnRrM2c?oc=5
-- **Source:** Iceland Review
-- **Published:** 2026-11-22T12:38:09+00:00
-
-## Husband's unusual request turns into heartwarming homecoming - Iceland Monitor
-
-- **URL:** https://news.google.com/rss/articles/CBMipgFBVV95cUxQbkVldlhvVklFVzNBTGtTZ1NsWVlnbkN5ZjRyVGJodVpVcjNrTDQzTTZCM2J2T0lXeUlXWHJzX2VOOXpuZjlTT3oxaU9UWTUyQ3JKeGhUSXk4NzVBSE93RFRNSWw5R1ZjdFlMcl9hTC1vRFN5Z0VHeklfa0dMSEpaUWRDUGFGaVNINnNINndFc1ZXZkpjQmhsdGZ4emNSTVZlcjZnRnN3?oc=5
-- **Source:** Iceland Monitor
-- **Published:** 2026-11-22T10:00:00+00:00
-
-## How to Reach Selfoss Waterfall in North Iceland - https://www.thetraveler.org/
-
-- **URL:** https://news.google.com/rss/articles/CBMiggFBVV95cUxOVUNPSG9Wd29UUmRzY1RQQjF2cGUxZUFrZi00U1pjd3BiX0szMDVmRDR5anRSUy0tUWVVRFQ2X3lZR0twQk1zakdocHdYaTV0UV9SeWEwRU5uZUtYNlBrbEV3NmRndy1maUtsM1RwdEIzZTdmVi1TTE5SMzJ2ajltaHpB?oc=5
-- **Source:** https://www.thetraveler.org/
-- **Published:** 2026-11-22T09:30:26+00:00
-
-## Top 7 Must-Do Things on Your Iceland Trip - Luxury Travel Magazine
-
-- **URL:** https://news.google.com/rss/articles/CBMilAFBVV95cUxNcWFUc0RWT24tMGdhWkVINllOcGtlT2V6R1lpNC00X05JVE5HMVM5N0p3UUtOZ2N2Sk5zUHJrdnhGSHk5cmxodmh0T3dWT1ZZcm1OWkdCTUZjam1pMllBZ2UxYm9BaGNuWVY2UjU1SnJHb3BiTTk4ZmM3bTlCU0stbXh1VS05X2E2bUF3b0E0YVRubWdF?oc=5
-- **Source:** Luxury Travel Magazine
-- **Published:** 2026-11-22T09:07:27+00:00
-
-## Visiting Iceland in February for the Northern Lights - Luxury Travel Magazine
-
-- **URL:** https://news.google.com/rss/articles/CBMipgFBVV95cUxOb200b0VEMEo1cnBZUDZRU1lTbnFVOFFHa2djZHBOa0k3bU94LTNlLVlmNFZMcUNkcnA3elJvTWNlcVNRQ1BFMDJRMEZCdlk2WlhWYk5Ld2JPTEdZQWpUNy1GcHNSbEI3Mm1Zd090OWk3Zk4xYVJXN1BDcnZYQXNhNUZpTldrZW1tT2x1bmJOeEpyRFNFb2UyRHFwbm84eTMteV9keExR?oc=5
-- **Source:** Luxury Travel Magazine
-- **Published:** 2026-11-22T09:07:27+00:00
