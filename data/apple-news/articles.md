@@ -1,8 +1,44 @@
 # NewsWatch — Apple News
 
-_Last updated: 2026-11-25T13:57:30.562841+00:00 · 50 articles_
+_Last updated: 2026-11-25T23:00:00.198633+00:00 · 50 articles_
 
 ---
+
+## Price to earnings forward of Apple Inc. – FWB:APC - TradingView
+
+- **URL:** https://news.google.com/rss/articles/CBMinAFBVV95cUxONkN1eXZNN3IzVTliOFNicXVaa1F1ZktJVk55bEdzWnZZVXpyMEdHTFM1UFRqY1JabDFCTDdXMGo4NVgzT2lDY29HaWp0MVJRM3NNS2pIckFmOVEwM3BTYlpzd3NIc3E2NWhNS3BrV3VhZGJHbzUtd2d2Q2EwQXdBOVJTMk81U1o5a3VHS0gzc2VyV2FHbGZrSGNNdEU?oc=5
+- **Source:** TradingView
+- **Published:** 2026-11-25T19:03:14+00:00
+
+## Apple: Great Company, Terrible Price (NASDAQ:AAPL) - Seeking Alpha
+
+- **URL:** https://news.google.com/rss/articles/CBMigAFBVV95cUxPVnJldG14QVcxVlBlS19EV0pNaTZTRDM4RzlnaTRwd3lqYmNuZ1R0WmZzSjlVZndlMnRlNFdJeXBfSW9NLURKbm1ab212U1YtWDlJWkQ3ZXpzazR1Q2k3Wk1TeXBUVFRWQWRPeVkwWnV4SUNqdy14bDNxNHB5cndGMA?oc=5
+- **Source:** Seeking Alpha
+- **Published:** 2026-11-25T18:49:47+00:00
+
+## Apple Stock Is Trending Today: What's Going On? - Benzinga
+
+- **URL:** https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYmRlRUZPZmhGNTd6NW9Lb2JPSFdJZUFyR1NqUGxuY2NpTGZvYzdTaDJoaEFmMGNjUXVwRExPak42RWttUUd5OURabUNPR0dhaDVvX0N6VEJzM2l5M3ZCOFIxSUtINDJSb2FYSVhwMmk2VkNNTDZWRF8wdWJvMkJmVUFtRVNLY0NDMTV1WHFiVlRFcUlUbTdYUzZyS1ZhVkl5WTBGdXgxclE?oc=5
+- **Source:** Benzinga
+- **Published:** 2026-11-25T18:40:57+00:00
+
+## StayTouch vs NameDrop: An Indian entrepreneur's patent battle with Apple - Business Standard
+
+- **URL:** https://news.google.com/rss/articles/CBMi3gFBVV95cUxNNUZwLW00VDJVV016ckxnTVNteU0zVklTYld1QTJ3S1ZMNzE0Q3RuOG5KMHFmVi1vQWVHVEJFN3lTTHZydTdyalFsWGdrWGhPZTF6RXlKbmNUeFZ1ZW1yWUhfTWZqLURrRTNxaFRvVGtpVTJDdEk2MHZ3d3BZWlVqSWI4WmJGWm1IZnZWTTlDXzdaS256ZS1nQW84eEVMQTlQSkJEeGpvUXd6UXktczRQYnZUXzN1MHBEd2Q3VnNUbjBCekpEYWM4U1RUT0Q5S1RJdloyWFY4Y19HUG04UXfSAeMBQVVfeXFMUHdBR3ZaRHR3VkRQVnd4MUZOcFBDRXBoV2hqc25zYmtzZWJyNEVxMXM4NDJVVVl1N0tHdF90WDlPLUMxRFdTLUc2MFlTcjVrdFdUb0MwQlozaEdhU2pkN2pmQ2hueUVBQ01IYThRNHhqR09hUm5MQ1g0TVhZU2JJWE5Oc2N3VDF2dy1ObnZnMjdiVGFFZHRIcEpZeDJ6TWhSWEo3aGVYZG92ajdLZkpQX3BVRzN2TWNtTlNQUlFrc3pyMW1GZnlIMzY1Y2RpZEg3ZGdRQWtoaV9pYTRDQlFYekU5d2M?oc=5
+- **Source:** Business Standard
+- **Published:** 2026-11-25T17:16:41+00:00
+
+## The Zacks Analyst Blog Highlights Apple, Philip Morris, Intel and Crimson Wine - Yahoo Finance Australia
+
+- **URL:** https://news.google.com/rss/articles/CBMijAFBVV95cUxPX3hOZU0zdzZMb1N6MXhwcmdSSXJya3pMZmhlYVBWSFJMcXA4dmgwdVlJNUhKZjZIaGdXZnNSSERjeGtXX2NRUHVyQ0g4aHFJSFBQamFLbDlqb1BOV3BnYlh0dU9aQWIyd2RvSmtLbkZTTEVkQ3g1UjV4ZThadEtlOWJmd2haUkd5UzIwVw?oc=5
+- **Source:** Yahoo Finance Australia
+- **Published:** 2026-11-25T15:25:00+00:00
+
+## Core PCE Price Index Rises 3.3% YoY in October, Apple Inc (AAPL) Shows Modest Overvaluation - GuruFocus
+
+- **URL:** https://news.google.com/rss/articles/CBMiwwFBVV95cUxPekhHMm9rV2hlbFJFMFV1SURZal90OXR3MHFfQzN6bnY1MjVVVTkySkVvTWlQSkJkTG1pMmt2cXVBNV95U0lFUW51Qmx5bk1kbV90RnB2Rjd0OXpyc0N2aU9zWjl1ZWl1eVU2a3ROQ3A1WERRanhMZnNQT2lmWTkzcHlMYmVVLUk3YldJWGpSZDZOZTJRVndHaGJRZ09XVFdEMGNEbDdzRURhaHUtcDJlV2dRVkFHa2Q0M0tPWmFqdDdYNVE?oc=5
+- **Source:** GuruFocus
+- **Published:** 2026-11-25T14:03:06+00:00
 
 ## Apple: $136 Billion Of Free Cash Flow Without The AI CapEx Bill (NASDAQ:AAPL) - Seeking Alpha
 
@@ -267,39 +303,3 @@ _Last updated: 2026-11-25T13:57:30.562841+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMivwFBVV95cUxQZmhvUGxyOVc0RmZfTWlYNkk4cEgwZW5xOHFNTThzNWhTTlItQmxFQ1p0QVRWc3RwaVpia1lwWTh1ZFJkaFBLbUhUa3MtVENVWWpLWFBoanNiWGFPdDlCTkw4ZDl5YlQzZXNYdFFiaS1iODhpMkxEX3pzZzd2NU92T3FmUFgtTzRIM25Sd3BfOVFmLW9yQjdNanB5THFaRlFieHF4TmY3Q2U5MUx2WmpUaHFxNFZUWFNENWVaaThRaw?oc=5
 - **Source:** MarketBeat
 - **Published:** 2026-11-24T09:59:42+00:00
-
-## Apple Inc. $AAPL Stock: Moss Adams Wealth Advisors LLC Cuts Position - MarketBeat
-
-- **URL:** https://news.google.com/rss/articles/CBMixAFBVV95cUxNZ1BZMldHMWlfNG43bmhLQkhHMnl4alBvQWU5UTltVlNHNVk0dHFFOVFwbUVlbkllYlBKNGJ3NVN2T05ic0RRLVZPTnBYekY1NHNqek11NFJteHVBSW1OcGNad0JKVGwzRFpGRWp6ejZsMDJFT1JzdndBTFF6R1ViVS1uLTR2d1I1ajU4bVFlSTFwRUM1cFhNUVhldzdiQllGYldJNkZ3dTF2MUdyOWJidU1fTF90bVhtQzRYLUpMT2tQWm8w?oc=5
-- **Source:** MarketBeat
-- **Published:** 2026-11-24T09:59:42+00:00
-
-## Apple Inc. $AAPL Stock Bought by Investment Partners LTD. - MarketBeat
-
-- **URL:** https://news.google.com/rss/articles/CBMitgFBVV95cUxNV0MyNHFRQXdJLXFlX0p2SGxBYnJvM3hueDNPV1Vha0tTZzhIbUNldnJPZUN6cUxHa2hnN29QbldsMWtMTlVYSVVHczkzNGM1Q1pWN1FaQXNTeDZ2TVNlckIxR3gyTDJJNzA2Skd4czNJZGFFaGNGRUdDdlczR3pGTk5XUi11dFM1bUJ6U1RvM1hSVm9mMHhQNWdURDctSzg5VjRvS001dXQwM3hjSjY3S3h0OEpldw?oc=5
-- **Source:** MarketBeat
-- **Published:** 2026-11-24T09:59:41+00:00
-
-## Apple Inc. $AAPL Shares Acquired by Stevens Capital Partners - MarketBeat
-
-- **URL:** https://news.google.com/rss/articles/CBMiuwFBVV95cUxQWVZRY1UyelZYU25jcjJxekxDYmF2UkxobW9BclQ3NjJDUGpORnpHWG81VllpMkZjaHAzSExJeXVTY1hVcmhpUnQ1eWdHcU94R3drTkdWUkhpWXNUQW1OU1FOVURTUzRaX2doTC1tNF9uWVdNd21pWm9oV3hzSllzZ1FmN043X0pyU05ZUllja0lCQXgzaDEtOE15bTBSSVpsdEg1U0dBOHVKZXhFdW41LTVPZ1NyVzRPdVBv?oc=5
-- **Source:** MarketBeat
-- **Published:** 2026-11-24T09:59:41+00:00
-
-## Profund Advisors LLC Sells 39,900 Shares of Apple Inc. $AAPL - MarketBeat
-
-- **URL:** https://news.google.com/rss/articles/CBMiugFBVV95cUxQb1JCVGhqenc5X2dLS0xrWUxXWGoxMFZBWVhTbE5iX1lteF83cW5HZ2htME40TzZEc1o4ZXZZZWRlbWtkekx5V1RkZzZ2N0o3aENNN1FkS1JFYjFjVkUwb1FqMnVGU05acklsYnIxZGVEQUNRWFlwNmRFdmF2dDl0WW5GWDVwUVVJd3MxdGY4QUU4WnpEUUlzR3VfQmZqdDl5ejhPV3RKYVpBRW1Cek9iX05XY29DTmFmY1E?oc=5
-- **Source:** MarketBeat
-- **Published:** 2026-11-24T09:59:41+00:00
-
-## Sumitomo Mitsui Trust Group Inc. Sells 945,518 Shares of Apple Inc. $AAPL - MarketBeat
-
-- **URL:** https://news.google.com/rss/articles/CBMiygFBVV95cUxPWHB5dWZndlluNk9JSUszNFFwZEo5dHM5Z3R4aFl3dENleVVZQUlRb1ZPdEZrUngxdnNONERWUlJXSlllRGlQYWVWUkkzUlNnTHhjUUFHZDJId1UwVzNPZHF0MkM2SXF6Yy1IQmJmQ19hVkkzUV9QQ2RYOHIyU2dXV2Q1Yk5LOUJvZmMyOUh2ZnRvdHFELUF5dDItRTAxc1VZTlBpUkdYaWZHM3AtX2pOWTM3c0NQa2pzTV9qaUJ0RDhJMm1ZYjBoNXdR?oc=5
-- **Source:** MarketBeat
-- **Published:** 2026-11-24T09:59:41+00:00
-
-## Mirae Asset Global Investments Co. Ltd. Makes New $2.84 Billion Investment in Apple Inc. $AAPL - MarketBeat
-
-- **URL:** https://news.google.com/rss/articles/CBMi4wFBVV95cUxNcmE1cS1fVmdNRGN4WXVfM0V2M0tKR2VDdVhrcjFRTU5UNGZBWGdVZFV1Tm9QTll4NUZnYnd6ZGhfbUhlelNCVkQ5cFBiMmtRcmxpSVEtd3NiMXFjSHZiVnZ4V0dMbG5BUlhicWphSEZUZllBaVFZNVdJMEZ5UkUwNmRCRWtnLTNUaGUyOEhySy0ya2ZRRmpUMzI2UmowS2xpc3poZ3lhMzU0OV9ndTBiQ1FkWDJxcnNReWN5eWpXcmw2bE9KM0dUY0J5amttbkhnREZnUmYxNmU1dTFuZDdiLU1Mdw?oc=5
-- **Source:** MarketBeat
-- **Published:** 2026-11-24T09:59:41+00:00
