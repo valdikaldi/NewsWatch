@@ -1,8 +1,38 @@
 # NewsWatch — Apple News
 
-_Last updated: 2026-11-24T14:37:02.730863+00:00 · 50 articles_
+_Last updated: 2026-11-25T00:24:30.817141+00:00 · 50 articles_
 
 ---
+
+## Hawaii Rep. Ed Case Adds Apple Stake Again as Quarterly Dividend Buys Hit 11 Straight - BigGo Finance
+
+- **URL:** https://news.google.com/rss/articles/CBMidkFVX3lxTE1Ka2tiY2k4SU11MWFURkZzT0xIWWtPU3lyMGR0NURnOFVJaktFcUV4anAtOWc1Sm1aSDd4ZUhOXzgtQ2l2TmdtbEJXV0dFZWRva0hPWWVJZkdQU3NPbksxRmZqektYV1BsUERncHJ0S2ZrTU5WVkE?oc=5
+- **Source:** BigGo Finance
+- **Published:** 2026-11-24T23:55:00+00:00
+
+## Congressman Buys Apple Stock Again, How Dividend Reinvestments Add Up - Apple (NASDAQ:AAPL) - Benzinga
+
+- **URL:** https://news.google.com/rss/articles/CBMiygFBVV95cUxOX1ZhWXFaNGw1dGZBS0NVc3ZwcGg1Q3hESUVHQUdENDA1bzlleVp0NTVOX3NWNERLbzBmNkZ4R1k4ZkNqa3dkTndneVc3azNvNUN4S1JnOWxTcFg0TUk3WDNwZHhRVEhsMWNyczNvQ1Ezd3daRDVDSzFEcVRTaWo0RWMzSlN1ckRDalcxLXhvYUZVSXFTbUhBZjRHaDRzTS1xMUx4YTVXLXZkX3ZOSGd3WFNpdnFhSElpTlR2Zm5kSDVESk5Fd1dtTWJn?oc=5
+- **Source:** Benzinga
+- **Published:** 2026-11-24T23:34:40+00:00
+
+## Apple Inc. (AAPL) Delivered Strong Results: Why Investors Are Watching Its Next Move Closely - Yahoo Finance
+
+- **URL:** https://news.google.com/rss/articles/CBMinAFBVV95cUxPLTlCTmhMLXRPNjhlZnU1Q2Z0V3VwR3FTR0haUlBObWNOWjdWM3luWnhwWWNfNnhxVXlrT1kwMlVpdEYySEFMMkxTbi1sR0Nza19XS2tQUjFkWHQ4V3dzT1VIQTFyVzRPU2RZd2Q1N2hENkxuN09TU3llRWRjMVZCZGNlbzFOXzBJbDZ0QXlQbHZfLUoybUl3N2VDQlU?oc=5
+- **Source:** Yahoo Finance
+- **Published:** 2026-11-24T16:56:45+00:00
+
+## Apple Faces Opposition From 32 US States in Supreme Court App Store Dispute - PYMNTS.com
+
+- **URL:** https://news.google.com/rss/articles/CBMirgFBVV95cUxOTG5QSENFUzVmVFRrNjgtZEUyU0lUWi1rS041cHpVMHBrYnBBdTZXUWJsWEM2T0VONG5ZRGVjOXBWTFRjWDFUYkRqWEVkZ2U2bFVTUjFmNUpLMjVYZFU1ZFFLTklMS1BvTzV2UGRWVGZyenpXWU1BT2E0OTJPR2NrMmVvMm1hbUVPMnVtejhuaGt4YlYzS2VzSXBGYmJMT0NkYXJnYXRTMWtMbzZfa3c?oc=5
+- **Source:** PYMNTS.com
+- **Published:** 2026-11-24T16:20:45+00:00
+
+## Apple Inc. (AAPL) Stock Forecasts - Yahoo! Finance Canada
+
+- **URL:** https://news.google.com/rss/articles/CBMikwFBVV95cUxQM2R3Y3NRUEFBVWRSX2t0bTdlV2IzeHo1aGVuZTV1dVVSdFB3X2REZWJKWXFONnlyT3hGUlpGQXlKNUlXZ25tclVramgwSlV1TXlqMUNRVkxvZGdtNUFrWG96VkhieU9iSjJyeUFfUXF3LUszZWtWbGU4ZnpzWjViU0JrenQzYXkzWEhfTjMxNFB3UW8?oc=5
+- **Source:** Yahoo! Finance Canada
+- **Published:** 2026-11-24T15:29:48+00:00
 
 ## Gold Bounces Back as a North Carolina E-Waste Plant Is Designed for About 40,000 Gold Equivalent Ounces a Year - The Globe and Mail
 
@@ -273,33 +303,3 @@ _Last updated: 2026-11-24T14:37:02.730863+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQVktUUt6aDBRX0Z6S1NxajRPb0lxQmo0QUI3bzNMSWtpamtDVEVNbks1QlRaMDF0Sld5dmFDTF94WkNhLXo1QTcyWC15TF9KRWVYbEFrc3U5VnZQN0VoVHpNek1ldjZhOU04Z2RjOVF2NHUxMFBxOU4tQUdyVTlCQXZYb3NVX0RXQWlfeVBDeC1hSmVyMjdacldQWms4YWt0SVo5X2U3WkROYjVnUXdFREZjbllaWkZT?oc=5
 - **Source:** MarketBeat
 - **Published:** 2026-11-23T09:39:47+00:00
-
-## Apple Inc. $AAPL Shares Sold by International Assets Investment Management LLC - MarketBeat
-
-- **URL:** https://news.google.com/rss/articles/CBMi0wFBVV95cUxQQUxyWnkwaE9xLVJRb1JETzlhbEJUWEFxZGlLUUxuSi1MOWlmS2ExeC1IaDlDSzNZdWtTUjRzX1VYVDV4dW9VV2dhR3RwSURfR00zRThfNVpseEExbzgxZkdUUl92VWk1czRZMWNIb0NDR0J5cTdwTXIwSkI3VncwUjNBLThteVQ2OFZYYTVMUUdYUHBfb3YxQ0ZFY1o0b1hodmxNb09KNXJsdmJZMklxajlTekdTTFZxQ28yc0JTMWdHeWVUM09VMF85WnVudGZkdTNV?oc=5
-- **Source:** MarketBeat
-- **Published:** 2026-11-23T09:39:45+00:00
-
-## Apple Inc. $AAPL Stock: Fusion Capital LLC Lowers Position - MarketBeat
-
-- **URL:** https://news.google.com/rss/articles/CBMitwFBVV95cUxOWHJxTnpUaE9ESXZ5dHpwSzVERkJ0WUJLZ2lQUmdpRlhKZDVVTXJyemJRZGFnbDhDTm5KWVZGU2xaWS1Xb0NDZTRCUmI2ZlhWaE5kZl9DeFlhTlBIUGdsTjQ3R2RzQzVQNGhlWGNIdElHcjNLQjdjWGpoa0Joa1FVSzcxTmptY1M5MTBnTnc3NTJKSl9OMzZNc1pjUmFQSUJfOHVWcXNuT2NnbFFGOWZoWDdQM1VzQjA?oc=5
-- **Source:** MarketBeat
-- **Published:** 2026-11-23T08:31:17+00:00
-
-## 2,232 Apple Inc. $AAPL Shares Sold by Heritage Wealth Management Inc. - MarketBeat
-
-- **URL:** https://news.google.com/rss/articles/CBMixAFBVV95cUxOb09lWVpPNFgxSWl1UGVRakZ6aFJYTUxJYU5hSGxPSXhneVVqZENyc1YtUmg3clBmMlFkU1V3aVAtY2ZTZDB2VllFQzRZVzVYTV9yLTRCd3ZJYUh5c1JGczVjUW9TNVFxWFhJNGhScS1tVHF5YXpuMXNfUjAtTExub3pic1hoR2JKRmd2VDJlQjJxMGdRYTF0VXlGSG5Dc0kyYks2N0hOdWw0NTVkT2hfUDN5bmtRUjM4Rk1LRkd6NTVYd3dt?oc=5
-- **Source:** MarketBeat
-- **Published:** 2026-11-23T08:29:26+00:00
-
-## Apple Inc. $AAPL Stock Acquired by CFC Planning Co LLC - MarketBeat
-
-- **URL:** https://news.google.com/rss/articles/CBMiswFBVV95cUxPa0E0Rzk0Nl9rejYyMU83aFc1YmNVZ0Y1UjlBN1JBTV9pSEY3cVZ5bW1iRmZOSGNrNU91dHBhTEU5S2hHdEZ0cllLNnc1Vk4tRGJWOE5TNHU1ajExUlJWVkhKU01odkVJd0lza0JzRlpxWHp3dVdzZVJsUHJUNVJfd3oxNWlOZktfVWhhNjJOS2VwWHZKQmZnZHBmVFBuZDdEMWtlQmdyWEJrMW45MHY5YU13MA?oc=5
-- **Source:** MarketBeat
-- **Published:** 2026-11-23T08:29:24+00:00
-
-## Apple Inc. $AAPL Stock Sold by Greenup Street Wealth Management LLC - MarketBeat
-
-- **URL:** https://news.google.com/rss/articles/CBMixAFBVV95cUxONXUwcmZGclJ2ZU5SSlQyM1dWd0VxN3otamhJSHBHSEZyWUJsSzFxTDAzSnNxTG5qbmZWY1dmM25QLXZidzFVSEJGcFp3b2lPR0I1QU9qbmEyaklqMEp1YW5UT2U5djZjcDJYcUluSVNuX09fRjFoWF9CMldoeEJ2QlZERXp0SmpZbHdvZzVWYUhSWmhia0ZtSWE3dS11aUZqQmZwcl9tMGVtOEJ1V1RmekwwM052eVdJWWZKSGVSSTk4YzVO?oc=5
-- **Source:** MarketBeat
-- **Published:** 2026-11-23T08:28:48+00:00

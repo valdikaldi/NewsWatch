@@ -1,8 +1,86 @@
 # NewsWatch — Iceland News
 
-_Last updated: 2026-11-24T14:37:06.441465+00:00 · 50 articles_
+_Last updated: 2026-11-25T00:24:31.755841+00:00 · 50 articles_
 
 ---
+
+## Minor mag. 1.9 earthquake - Iceland: 11.8 km NNW of Álftavatn on Tuesday, Nov 24, 2026, at 11:53 pm (Reykjavik time) - Volcano Discovery
+
+- **URL:** https://news.google.com/rss/articles/CBMiwAFBVV95cUxONjJ4SHBnNVhoeWlJaHNjYk1hSjhZMFk0S1BFYmkyb0RvU2ZsWkUzd3RzTVlBVl9TMk9naU1qb3ktNlpBQ0xKWWtkNG42bVBUcEd0VUFyV3hUZ0tGNThodkw0dy1RWFBfaFJEUXRFTDlRa0RoLUdXRFZIMFdaZnZtQ09ibUxmdXpSZjN1MHpBbkRhYThRMUhTYjlhVEVzNGpNbXd4cjNBNWR6STEtRUxpZXBIa2hHRVItdGFRVUtqOTE?oc=5
+- **Source:** Volcano Discovery
+- **Published:** 2026-11-24T23:59:30+00:00
+
+## Veðurstofa Íslands - Veðurstofa Íslands
+
+- **URL:** https://news.google.com/rss/articles/CBMimAFBVV95cUxObk5DYno5RzVJNXpPZHlzd1lKZFd4Vld0YnYta1BMTDMwMUJnVlptem96S29Kdnh4SUlfd2NKNzRuV2dpRkRMbmJhbjM1VWNIOFE0N3RGdm1yaHppNnJfeEpxenpDTVVGUERnVlFoekF2LWFBNzg0THlPTlJIRWUzeTEtd1NTQjVOcE1IM1ZYcm0yMXdMUWNjRA?oc=5
+- **Source:** Veðurstofa Íslands
+- **Published:** 2026-11-24T22:15:57+00:00
+
+## Grímsvötn Volcano: Iceland’s Hidden Subglacial Giant - https://www.thetraveler.org/
+
+- **URL:** https://news.google.com/rss/articles/CBMihgFBVV95cUxQeFJYd2NLdUVhX0VidC1SZEJyVDJ6QlVseF9Ca3M1aW5MUV9HR0k2NFN4NHFGWTlrTE9zNHVfWXpuUEl1Y3RwWURzSG1xZ3gtTWRvanNITG85N1EzUUVtSUdXYTBmV0pSb3p0NklxVFJlRFMwNDdMOVJoMzRsWDNCQTVJbGNWQQ?oc=5
+- **Source:** https://www.thetraveler.org/
+- **Published:** 2026-11-24T22:10:46+00:00
+
+## Iceland Expands CAR T Cell Therapy Access for Rural Patients - www.suaralandak.co.id
+
+- **URL:** https://news.google.com/rss/articles/CBMiakFVX3lxTE9fd0pvZGJOVE5XMXQteWo5d3BWaTlIVTI5SjZwcDNXZkJ6RTB4UVJDSUlxeXRjTVl3bnAtTVNQZHFUTGg5WmlYVUFkM1gtZG83cnNZeXlLcTNxME03MGwyTEJWbHZqRFM4OVE?oc=5
+- **Source:** www.suaralandak.co.id
+- **Published:** 2026-11-24T21:50:00+00:00
+
+## Study of the Best South Coast Tour Operators in Iceland - Guide to Iceland
+
+- **URL:** https://news.google.com/rss/articles/CBMingFBVV95cUxOY3doVENFSE9NNHhNQkFBc2tZY1JnbjNsRUJXQU5qYWlyd0R2UFBPd0IwLWU5S00xeENLTGdTdjl3enFLWE1lUmJwNm9JVnJTalZld18tN0w4NThkQ1JKM3NrLXBiTEc1SGNJOXV3a21ud1NvZHNpcWRYVzhxWDBCNE9jS1RkWnNjMV9Ic1Rsd2JMRVZvRHJHeG1rU3ZYUQ?oc=5
+- **Source:** Guide to Iceland
+- **Published:** 2026-11-24T20:11:18+00:00
+
+## Iceland Opens Grid-Expansion Environmental Review - Iceland Review
+
+- **URL:** https://news.google.com/rss/articles/CBMihgFBVV95cUxPWHhHbmhjY3JUNDEzUzc1OWVTV2l0YkJ3d2pwYmNqSy1ZVG9DV1cyUFNMal9UaDI1WGR2dnRDUE9WLW41d2JtSjFZcnZlSzFEMnM3bWpBOWlDYllVaUMxQXRBU1BQWnpGVTRDRUpSb2FlU3hiM0lvUjBMVTZxbWlQNjBaRndxdw?oc=5
+- **Source:** Iceland Review
+- **Published:** 2026-11-24T19:30:00+00:00
+
+## Iceland’s President Wants Us to Rethink Power - Georgetown University
+
+- **URL:** https://news.google.com/rss/articles/CBMijgFBVV95cUxNY0R2MWgtdUsxbWpVZDhfVGhhdFE3MUZCQktta3ZfMDBuVVVRYTB3ZFNjUEYwQXRteE1tV1N5RWFGbzNfeFhVV3JSaGdBTG5vNFB1MWJEbUY0VTVHczNBTXQ5aVA4QzFlNnE0MWRyTlJ0c2YzNjZUWGh1VnV2LURqS1IzRWZVOUtyRWNlNTFB?oc=5
+- **Source:** Georgetown University
+- **Published:** 2026-11-24T17:14:31+00:00
+
+## Icelandic Books Find New Readers Across Europe - Iceland Review
+
+- **URL:** https://news.google.com/rss/articles/CBMiggFBVV95cUxPcHpBZlMtQkN2ZDI0TzdncTJQZkVLT2xrS0xLRVcwNEc0Unc3UFZGM0dxYUpmR0VJWVJXcE9XUDAwbUZvSHI0V0R5Njdrazl1ZDRiRnVucS1RdXZ1TXR3dUxfWWtLY0xKdnFiUmhoU0hKV1dvcjh3aEVsZFF2QWJ6US1B?oc=5
+- **Source:** Iceland Review
+- **Published:** 2026-11-24T16:30:00+00:00
+
+## Weak mag. 2.3 earthquake - 13.9 km SSW of Eiríksjökull on Tuesday, Nov 24, 2026, at 03:10 pm (Reykjavik time) - Volcano Discovery
+
+- **URL:** https://news.google.com/rss/articles/CBMixgFBVV95cUxOUElQYm85WC1TZ1ZXWjBqOWpqd25ab1ZqR3luWFdaLVU3Y0s0OGowbDVIMjlNNUFKUXMzVnJLeV9FWFRTNWhLeElWeW1qbkpIdTJWUUpvZmk0eHNHZjVQenk2aFVJX095Q2hyRHJPdlN2ZXBFa0x2Q1l1SUJ2ZDBuNENLLV9PVmt1X3B3cUhzaUJHaUpsZ2h2Zmo4UE9FbTdHQkZHS09UMjh5Vk9zUGFQR1Nra0xWR1U5eGFsYnU5YTJmZWxDbFE?oc=5
+- **Source:** Volcano Discovery
+- **Published:** 2026-11-24T15:30:42+00:00
+
+## "I'm down several million krónur" - mbl.is
+
+- **URL:** https://news.google.com/rss/articles/CBMigAFBVV95cUxPOE5DX2QzZ1V1VlRYRkNnaDExcURiNGtNNE1UbWN0bG8wZFNqZkVXRWRHaWVXTUs4OF9jTlJQNHM4WlBfNW14T29rTHhPeDdaOXMtazhfZjAtM09DVzVMSjNtRzJ6R1NkUjVCbUhOcWgzX0ktUUhnT0pFeXUyX2YySA?oc=5
+- **Source:** mbl.is
+- **Published:** 2026-11-24T15:27:00+00:00
+
+## Iceland’s Blue Lagoon shares fall in market debut - IceNews - Daily News
+
+- **URL:** https://news.google.com/rss/articles/CBMihgFBVV95cUxOTGp2dzJ4NkptQzBDNVlHNTJFSlF3eG1pVmdWMHlNbUhGMDRaU3VLdXl5c3NWSmR1VGlUVHBManlETUdXOUtHMXh5YnY1MjB4NTdhWDdUcFg2U2JkYjQ1RlVVU3B1bVJaQUJqdl9FeTYwRmJHckExSVdDXzZsazB1SHhvclZVdw?oc=5
+- **Source:** IceNews - Daily News
+- **Published:** 2026-11-24T15:23:51+00:00
+
+## Study of the Best Golden Circle Tour Operators in Iceland - Guide to Iceland
+
+- **URL:** https://news.google.com/rss/articles/CBMioAFBVV95cUxQX19FejV1VWVrTklwZUhxNlFtNXpRWmhmOGotNnM1eVdIcUhVVDhMRjYwelVhd3A0cVh0WjhWeldRWHZVa0Q0eFZSVWtwLWJReFdPZVMxbkhjZjZiS3kybS0yeVZ4ZWhTbV83RkxscTNOOUlOaV92S09LMVZDeVh2RE9hd3dPMl9TSVluZTBqU2JpcWpkRHZCazk3bl9iSFI1?oc=5
+- **Source:** Guide to Iceland
+- **Published:** 2026-11-24T15:11:55+00:00
+
+## Danish-Icelandic Partnership Deepens Iceland’s Ocean Research - Iceland Review
+
+- **URL:** https://news.google.com/rss/articles/CBMihgFBVV95cUxQX182VjQyQjc4NUpDSWlxbHJLRnQ0T3FXSHdzTWhwWFhZcDZkYmwzNTB2MzZmQnJtT0R0NnNuVGdPMWFkYUpDc1llM29yck96a19LX2pDVnd1U2hSRVRxMXdSU1NpY3Z5VGg4bHBwWkdreEE4aGtmckFJeXQ2TzRzNXNrYnhsQQ?oc=5
+- **Source:** Iceland Review
+- **Published:** 2026-11-24T15:00:00+00:00
 
 ## Ministry Will Revise Contested Residence-Permit Income Rules - Iceland Review
 
@@ -225,81 +303,3 @@ _Last updated: 2026-11-24T14:37:06.441465+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMixAFBVV95cUxNbC02WG1BR2R5MUVmdlR1bU1KRlFlcFo4aE4yOVp6NDhpVDdLN2ZvR25fZUUyRk5SMmJ1cW1yYjQwRXpINTN6Wm9SWEFvOU9zaE5GcWJ2N0VvMmhhNjNwcG1vUlltR18zNlN5OXc4aE5JVjFhTHFFWEh0cHIxT1ZLeWZzQ2lnYkRSSzRQdVlwcW9DQXYxTUYtTTdFdVNZcGZCYmFmRFBkMzRaYzB4MmFWSV9ONnU2RHF5T05rOHFFek5zY1h2?oc=5
 - **Source:** TradingView
 - **Published:** 2026-11-23T06:39:00+00:00
-
-## Capital on festive hay hunt - RÚV.is
-
-- **URL:** https://news.google.com/rss/articles/CBMifEFVX3lxTE9mVkxXYUl1LWVjcFQzNlVrSnBOOWtzWDlxNDhXMmE3cjFXTzRCWWJjRFQtYVoxd2NtRnRVSVdyekIyTGNPTkloRFZhWUFreTBOUmhGNlBJQVBTekctYTBvVXZEbUZGdHl2R2xEa0g4M3cyb0tWR0pGQ1dINGI?oc=5
-- **Source:** RÚV.is
-- **Published:** 2026-11-23T06:35:00+00:00
-
-## Reykjavík - Forecast - Veðurstofa Íslands
-
-- **URL:** https://news.google.com/rss/articles/CBMiTkFVX3lxTE9OcU5UZXVBLTdGZVpMU2pyR2dJbS0zekhaeC1iRTBtS1ZaMXMtQU4zMzU5aXVlUTFieG0tNFAyYTB2TTJmdER0YWQzazJEZw?oc=5
-- **Source:** Veðurstofa Íslands
-- **Published:** 2026-11-23T06:20:09+00:00
-
-## Norway and Iceland Join CBAM: What Importers Must Do Before 1 January 2027 - Global Advisory Experts
-
-- **URL:** https://news.google.com/rss/articles/CBMijgFBVV95cUxNZmJldXpVQ2themxSZGQ0cHNWNTVxTUN4aW0xYVBJUmRnajJUYUtpdHVFMlJ0MmJLN0VxV0cyaW1oU2h4MC16Mi0yNnMzRnl5MVM0Z0VIbkJqY0dkTmxpd0V6R0pfUnFiSEppM3ZNZTZyYnVmcUprb1NPdlFvSkRQaXpqcTJzeGZWcHhxakN3?oc=5
-- **Source:** Global Advisory Experts
-- **Published:** 2026-11-23T04:57:40+00:00
-
-## Where to See the Mid‑Atlantic Ridge in Iceland - https://www.thetraveler.org/
-
-- **URL:** https://news.google.com/rss/articles/CBMigAFBVV95cUxNSkRWc1hjUDZSZnJOUEhQcGprQUl1MGF2QWplNDg1NllHMnlyRktmSzFMWFlzek9wXzF0RUJzRU1rVWtxaWZ4Rm53QTBMYVA3dTVkVkZTV1lEYTkwSktBcE9WWXRWTkFiUGJOdldWRjB5NUVjRmRZUTdlMnZyN1R6dw?oc=5
-- **Source:** https://www.thetraveler.org/
-- **Published:** 2026-11-23T04:10:29+00:00
-
-## Eimskip in Iceland orders its third Konecranes Gottwald ESP.8 Mobile Harbor Crane - Cyprus Shipping News
-
-- **URL:** https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZlQ5WjlfR2hMOGh5TGR1VzF2MlBNNUp6b215S2tIdVVVT0tKUDBtekNrd0xHcDRzRDMzRWlKSXdieWZ1Y3psZkx2Uk1mcEQ5MW9HZW10RVJ5LW02MXl3eXkyUXdnQmJrRGMzZGtXZDNzZEJFQzRDNVRiT0xlZUF4Y2ZoX3VrYVZKVEI1Q25qY2FkdkMtVXhPOWVVN0dfcENHSjNfUzJfelprb0VSelVfaVZFWl9aZnEtRnhGd3dibTJHQQ?oc=5
-- **Source:** Cyprus Shipping News
-- **Published:** 2026-11-23T03:31:16+00:00
-
-## The EU is taking the lead on reducing Arctic Black Carbon. Will Canada, Iceland and Norway Join In? - Cyprus Shipping News
-
-- **URL:** https://news.google.com/rss/articles/CBMi1gFBVV95cUxNMmlraEdFbjktR1Z0Ry03MGNsclZJWnJ0V3lXNmFyTFROMnBkcU5QeUtHdmVYV0tJdmRueGdCeFpESFZCQ0RhNHlDVHBDLTVZOHp4RElPMTZURmhCRDYta1g1LWtVc2ZEeUFMeWI3WWN6bWRhTWNNSkRDOGlSajh2UjRSeE1ac3VoSGZwTWlTcjVHQjk0UnB1bW9CaTFXUTVnYUwyS3JvUDB1ckhNTVR0cEx4WWpwdGUxcDVDMVZDZzRYcHFOeU92Vy1RcWlHUl8yUUItRmZ3?oc=5
-- **Source:** Cyprus Shipping News
-- **Published:** 2026-11-23T03:31:16+00:00
-
-## Egilsstaðir - Miðbær - Forecast - Veðurstofa Íslands
-
-- **URL:** https://news.google.com/rss/articles/CBMiUkFVX3lxTE9VQkNBNkY3Rm9NYi1VTXB1NnRjUlpVVjZseGp0dE9MZUVCTTJWRWU5MW9Jak9nTzA2SDRQX2I3S1hpTU9KMHdKLUhsU1FCa0Yyb2c?oc=5
-- **Source:** Veðurstofa Íslands
-- **Published:** 2026-11-23T03:02:51+00:00
-
-## Minor mag. 1.8 earthquake - Iceland: 25.8 km SE of Grímsey on Monday, Nov 23, 2026, at 02:04 am (Reykjavik time) - Volcano Discovery
-
-- **URL:** https://news.google.com/rss/articles/CBMivAFBVV95cUxPYU1XWm5QdFlSc2pLSThhMDFyLWlnRG9HMTNQU21jdElxcExTa2VZdndzalllTXh3YXFFQXRMZ2xiWm8tV0F6QjVIOHUtNlROdGVXdDByYWZTSGw4Q1dnNmJUREhwUXlHLUxTSXI1ZThPLUFtN2w0azZDdlM4bDhvaFVnaFNVam9aWWJZaURVRjRrMW52dnRUb1lsRjRuM3RIalhfVlJRTnJjMGVlRE8xNlZFckVoX01uTVl2RQ?oc=5
-- **Source:** Volcano Discovery
-- **Published:** 2026-11-23T02:21:09+00:00
-
-## Eimskip stock: ISK 2.5 billion bond auction completed - ad-hoc-news.de
-
-- **URL:** https://news.google.com/rss/articles/CBMisAFBVV95cUxNV3hQcGM0cjdEelp4Z1d6akFoQVMwaDVPNlltbjhtU2w0eWgzMS1UWGIyVWtRa1lhU19sbTdMMmt5emlSNHRCbjZFR0p5Z1BmbHUwbkc5S2x3M1BrYzA4bjI2S0pESVdvbnJHbERmZ2hPQy1SbGlFc0NNeXVtNUxCM3c4aDI3M19kdFFMREZ6dTZGSmtQRklSQUp0aGRVcnp6RThtWldVWGRnTFVaTmVXcw?oc=5
-- **Source:** ad-hoc-news.de
-- **Published:** 2026-11-23T00:35:26+00:00
-
-## Íslandsbanki stock: Bank announced ISK covered bond auction - ad-hoc-news.de
-
-- **URL:** https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbmdPUndyOFNSczEycTk4UVJ4ZDZzT3otX2JXazJacUZpeVNOUzhNNGsxSy03VGFQOXR3d2tvN1RJMkl5bjNIWm9oeEVPQVNJWE1rdENfeEdHYWZOZnFYMVVpWGlKVWNWWFNKeGZ4Qkgya2l2VXphSkVCOTZBeVJSdHkwTW1Qc1lmVUNiS1ZzczFBR2tlbU9qeUVEU1ZiNmNqYjJ6TlJscVg0MzhkSnYwVnlhazdtUThi?oc=5
-- **Source:** ad-hoc-news.de
-- **Published:** 2026-11-23T00:23:55+00:00
-
-## Best Time to Visit Svartifoss for Hiking and Photography - https://www.thetraveler.org/
-
-- **URL:** https://news.google.com/rss/articles/CBMijgFBVV95cUxNNlc2ZzdYWTRvRGZneDZtNkZjbTRENWswQmtWbUF1RzBVNVdGamxfbDQzbHUyelRnMWR2bC1zd1lsUFoybTFzY2JnVWhIRWw1eHQyYmJxUUZGc3hDd0VDYjNWVlFYNGt5MDU2ME96RlBFVVJaU1FQOUFubXl0YzJJSFZLOVF2SENJSFB2WmZn?oc=5
-- **Source:** https://www.thetraveler.org/
-- **Published:** 2026-11-22T21:30:29+00:00
-
-## Iceland’s Christmas Book Flood Takes Over Harpa - Iceland Review
-
-- **URL:** https://news.google.com/rss/articles/CBMiekFVX3lxTE5lc0QxSGg0SGVFVFI5VVBhQkNXaVV1aEZQel95WktLMlI5ZFR5LWhucEhjV3ExOUhXbXY0TDBIOWJWRUktSE8tUjhJSHFKZlc0Uno4LXhTTjBSTm5lcFVkMzkzZFFocm0wMmpiWC16NHNKSHZVbl90U3d3?oc=5
-- **Source:** Iceland Review
-- **Published:** 2026-11-22T19:30:00+00:00
-
-## Nscale needs a US license to keep giving ByteDance access to Nvidia GPUs - MLQ.ai
-
-- **URL:** https://news.google.com/rss/articles/CBMimAFBVV95cUxOTWdHb0VOQVF6ZjZaV2k1MXBpeTZ2QTNibWJTZ3NGOXpoX1BYWmpockVNTFg0TlRhNzgwY0k4UVdnaW5XdXNzTzdUV1FrQnV4SWVuMUVmZEFleXdEYTV2czlNaVBiYXhZSFdJVl9TcHN0R1Foc2lrQzcwOS1VZ1BQZFN3dzd3QkFfUG5DNWszNVcwc09lVHRqZA?oc=5
-- **Source:** MLQ.ai
-- **Published:** 2026-11-22T18:02:35+00:00
