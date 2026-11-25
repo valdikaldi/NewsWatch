@@ -1,305 +1,305 @@
 # NewsWatch — Microsoft News
 
-_Last updated: 2026-11-25T00:24:31.398891+00:00 · 50 articles_
+_Last updated: 2026-11-25T13:57:31.093680+00:00 · 50 articles_
 
 ---
 
-## 5 ways to set up a CRM for Microsoft Teams and give reps time back - News Channel 3-12
+## Microsoft's "Code Red" outage: 10 enterprise risk lessons from a 24-hour cloud failure - qz.com
 
-- **URL:** https://news.google.com/rss/articles/CBMiugFBVV95cUxQd0kxWE5uNi1fekpiUzdvVkJhLU93elB1cll4WjhYZ21JOVVVbEZBV3BfeE5hc2hSQUc2MUFlMG9iTy1yUi1tMUVVMmE0ejdaR2NkcElOVnkxRFYtNEdqT0taYzBoZ2pZa2N6OE8ySmgxWF95NGdYVlJ4VXlwNzJFdDAwM1F3SW9YWlJUR1gzakFnOWE1N1JBQUs2VWFXVWt4YkxsYXVpY21DRTBTSm9RejRwTVlhTGZwMnc?oc=5
-- **Source:** News Channel 3-12
-- **Published:** 2026-11-25T00:15:31+00:00
+- **URL:** https://news.google.com/rss/articles/CBMiXEFVX3lxTFB2ZzBuRFFVQnFjekppUDRQZ3dpOUhVSEdmaUxQVk5rLUV5ejl0RFh2Tl9abFdZZEd3Nk5jWVA1V0dzZGt1TVhEd2JwcEo0ek9JbDhKWVY5Z2RDZlFl?oc=5
+- **Source:** qz.com
+- **Published:** 2026-11-25T13:37:39+00:00
 
-## Microsoft (NASDAQ: MSFT) Stock Price Sits 11% Below Record Highs Despite Monday's Nvidia-Driven Tech Rally - Foreign Policy Journal
+## Ignite Wrapped: The Real CX Launch Was a Billing Model, Not an Agent - CX Today
 
-- **URL:** https://news.google.com/rss/articles/CBMi5AFBVV95cUxQWk9fMnlSS3RJREZlVExGelNuS0JSNm50Y2EzWHNMNDlMWDNRdV80OXdqRnFNMmJUcEJ5X2VRMDk5Ml82VGs1UUVHalpuYXFDU2lTOVBsU0Y3bUNXV0RuTk5nOVRoajlManhuLVV0eUR4eW5Qai1HY3lGRFBKZnhkRGpRSkdYY2Z5UWRXZUlidWhEajU4MnVuU0ExcjlaQjdIekJkcE9vNm16R0ZkUEpPSTJERi1rXzhMaGJtM1J2d3MzVzZFSmxUY0xMVnpPZ2xOcDdpaDFFQWRwVGdRZzZZbEFoYXo?oc=5
-- **Source:** Foreign Policy Journal
-- **Published:** 2026-11-24T23:50:00+00:00
+- **URL:** https://news.google.com/rss/articles/CBMigAFBVV95cUxNQk5fYlRLX3lUSUw1bXM2Z01jMTNxVmVSb2JDNjRRRkdSbG9PU2lMUnF5M09jRlNINi1keDJDdjh6bkFCZlhNMlhwRkp0dWhFcGhEQ05mVU5rYUxKTHdZWW8tOXQyYWYtbE1lampnNExoZmRrckFFWENfb1dQRkxEWA?oc=5
+- **Source:** CX Today
+- **Published:** 2026-11-25T13:32:32+00:00
 
-## Microsoft declares internal Code Red after nearly 24-hour Microsoft 365 outage - SiliconANGLE
+## Former CTO of AI at Microsoft and Ex-VP of Amazon AI joins Industrility to advance Agentic Industrial AI - AiThority
 
-- **URL:** https://news.google.com/rss/articles/CBMitgFBVV95cUxQNmNER3pHQmhqdE41Qkx0U2NjcjVjRG51RGxpZFk1U0ZJOU9OT3ZuQTlKaW1za005Rm9KNkZiZ3BZUjF2NTFOM29YQWI3MFo2MXFHU2htUHNqN0RlZ25nMVF4Q0dZTkwyMnEtaEY3anNObmYyQU9kNURuV1lqY21rZThLVmVDMXlLeTdxR3picjF4clRMTXgwTzJ2SXZvcEFjNURlSjVfQXhCSG5tcjJBZkRrUmo5UQ?oc=5
-- **Source:** SiliconANGLE
-- **Published:** 2026-11-24T23:44:00+00:00
+- **URL:** https://news.google.com/rss/articles/CBMi3AFBVV95cUxNWlNHRG1QU3dQSWZ2TC1GMXRiQk1KclRhc1hVS1lQTlFLb19SRWV5S2I5WURSRXVoa1U5eVRmQjlJWEd2emhWTVdXOVdENzRKYXBoanlzeVlzbnZiMWE3MUxPYXNtbnk5RXZKeWhMU3otZjE3cTdvRlBjWVFZMkkwUGdFeHNhVDczY2VqdFFybTIyNkxUbGh6U3ptNEpPMFJ2WDBucm5mRi1WbThtOGxEWTRKa3ozYkk2YVplUXFiLTB1YmllNzl1dTRxMGFET0R2eHp4Nk1IT0JKYnFL?oc=5
+- **Source:** AiThority
+- **Published:** 2026-11-25T13:31:08+00:00
 
-## Microsoft Declares Code Red After 24-Hour Global Microsoft 365 Outage: 16 outlets compared - NewsCord
+## How to remove Copilot AI from Windows 11 completely – in 6 steps - ZDNET
 
-- **URL:** https://news.google.com/rss/articles/CBMi2wFBVV95cUxNWVdUQlZIeEJ0dXhxbVNIOEpqVlRZSXF1UXNKMzRmN1U1ODJwX3ZLVU1vRV9YNWkwd3NsY2J5TzZheERhQi1FcTUzOVk3RG1kWVN5M0lvMUJxWGFkd1VYRUhGY1hZaFQ1SVhqT0MzSS1wWEVYM3BwWXB5Ukp6bU9ZVGJnR3ltVDNITXVaZmNORnZnUEpBbWZhYm5ibEp0SGg1MlBHNGFBWUtPcVNmTHFxSWdxYy1GQW1sczRfdW9HVkg4Sk82ZEd4QkM2VTVHRmlJYk9rNnkyMS13anc?oc=5
-- **Source:** NewsCord
-- **Published:** 2026-11-24T23:19:35+00:00
+- **URL:** https://news.google.com/rss/articles/CBMigAFBVV95cUxPNDBabllVcEp0WEk2MUMzeWU1UnJ4VV9qR2tVSTMydVJjNHRVMmJzN3pjR0h4bFNHSWJYVXNmTl9Zb2FVSDhfMnBIS085N2Y5cXNUNlNhRWlyelE3cXMtak1hTUJySmZjYTY1RUJ3a3dPeHJ4QVFUd3lTdDhhZGtpaA?oc=5
+- **Source:** ZDNET
+- **Published:** 2026-11-25T13:30:00+00:00
 
-## Microsoft admits nearly 900MB of your Windows 11 PC's RAM was being quietly eaten by its own apps like Defender, OneDrive, and Microsoft 365, and it's freed it up - Windows Latest
+## Yahoo CEO Bets on AI Search Comeback After 17 Years of Relying on Microsoft, Sets Sights on Google: 'We O - Benzinga
 
-- **URL:** https://news.google.com/rss/articles/CBMipgJBVV95cUxOT1Rxcm1DOUNkcDU2SFpocFNxZ1BkZnJLb3VfNTNzZ2ExTlQwWnp4aVA5bkpvNWdSV1dDMjdxczFZYzRfbXQ4RW1wVmtGaXA4OU5IcEliejlvOHc1UlZ2MUtjbjB0N29aZEVmbHg1UUtpdGc3MEQ2eXFBMHhoOWlSdEFwdmF5WEdGaEtILW1pT2pseUJPMWMxcTZYaElfQkl0Sk9jc1d4d2dkRl9zSS1qZTlGQzV3SUNSdVl3QjI2N3hpQWpXSXNWUTRfZ3NoampoNmVacDd5ZGtDV1VaU05QakZtTzNueDhja3JrdjkwRWRjZjFOVHRIblhXd3NiRmFqbkV4ZTJmUVFaTk8tUG5GWmhHLXp5T1pVVU5hQV9SSUFtT2x1dXc?oc=5
-- **Source:** Windows Latest
-- **Published:** 2026-11-24T22:55:17+00:00
+- **URL:** https://news.google.com/rss/articles/CBMigwJBVV95cUxNZFNSaGRHV2o4SDlaTnBhUTZRa3U5Y3lPYUhDZkV3aGM4cU5aV2J6TWlvSVlrTk1OaTBUUm1EcXlKcDhxYzQtbXE4NlM2QjlyZnJRRXFUZHdrUk1FaUdlWW9NQ21HbG0tS1hocngyUy1wbkl4SkE1clNWbTdIVXB2b3NYZDFpTUdtS1RsaGw3cDdZTExseklKSldXRW45VWp5NDJjZWp0WnF6SnFJYjc1a1owRWZEUjl6S0ZmdERaSGJjRmx0U0JNU0hRQzJDYmx6NHdFVXhTMWQyeHN6LUtVaWl4MzI1eEVyUEVhVFF5WkNmNU43d1NPbkpSVjVhT3l6WEg0?oc=5
+- **Source:** Benzinga
+- **Published:** 2026-11-25T13:29:08+00:00
 
-## Maverick Medical AI Surfaces CodeAgent within Microsoft Radiology Reporting Solutions to Reduce Physician Rework - mykxlg.com
+## Microsoft outage: 10 lessons from a nearly 24-hour failure across 70 countries - qz.com
 
-- **URL:** https://news.google.com/rss/articles/CBMivAJBVV95cUxNTXdKZkFMMkk4ajJZUzdiRXQtWVQzWDBDR29ic3Q4RmRobEtzNzc2SXJkRzRJRU1Zc2FybWdYSUhScExTWE1pQ1owNFRrSVQ1aVJ1c0ZPU1hONW1HeFNpNGtaV0N6a0lFUEVyc0JpTEUtUzQxaWM2dkZzRGVySGVtMk44LWl4MzFMc2hFcnJlbVN3WkNacEJETmVNSE1sNHpZcE9CRGd0Q1BQRzY1VU91bXp1WkxWM0dvR2VWSVJzNzhBZGVaLXNpTDlmdmdEWmFSWk9VdDVUd2czdWRfVzJXdnh6ZlgtVExiZGJ6dThkUVdIZXh2c0xYaTdjM1lIVkJRRTgydWlPcFcyQ2JqeWNlR3dhRmlwMkdoMV90NW9UUThWQ09NRmVKODBKbVdscHNrS0N6aGYtQWM3V0Zo?oc=5
-- **Source:** mykxlg.com
-- **Published:** 2026-11-24T22:54:00+00:00
+- **URL:** https://news.google.com/rss/articles/CBMiXEFVX3lxTE95dElzenkyeVV6dkdnamJ1ZEtWS3VLUDhTUkZ3Y1BHaEYxODFJZnFBOFg3VHBQSXpqc3hzaEpVVGxqelE3NVNmVjhqay1ZOUd5cmRtQ1JOYTBrNk1y?oc=5
+- **Source:** qz.com
+- **Published:** 2026-11-25T13:23:33+00:00
 
-## Microsoft goes ‘Code Red’ on its response after industry-wide outages left customers in the dark - Washington Examiner
+## Bill Gates, Microsoft cofounder: “The transition to this new era of AI will be one of the most turbulent periods in human history” - El Cronista
 
-- **URL:** https://news.google.com/rss/articles/CBMiqAFBVV95cUxQOGdzUnhRd0daR3FuZDBsTDBTR0t2RndnbTNIMnBpeVVkZ2twVFpBS1loWm93YVVYUFB4X2oxd1NOVXZVRk9CLVhsb0RaZHBVSWdTOW9ZLVdyVUpQc0NjQWRDWG1aVjhhWFNwRHN4UlJOZWExSHJpSk1ubENzOUxYS2pHTUJraE4xb19XZ2UxalZmaExEaFFoc29kTkRDS19QT3BHRklHeUU?oc=5
-- **Source:** Washington Examiner
-- **Published:** 2026-11-24T22:52:53+00:00
+- **URL:** https://news.google.com/rss/articles/CBMi8wFBVV95cUxNRlhKSEZ3NWh3aXpxRHFCdWFCUVBtNi1TUW0wQk1od3JMZVpYLW5rRzBJTDNWbUxGaVpiM3Nib2lfV2xRN3dqUTJHWW9GZXVzYXNZckdmV01vRjdYQXlObEtQbXBrZ0Y5VjBEQ0YxdUxXNW92T0xjUkpybFl6WU5laFdkVmRpMmhzbnhxNllCdmljaXhSb2l6dFBUendvS1JaQ1VCVURYOFJjc3JEamZieFdyMXFldnhHQ043M1pPYlZSMmVOZEV1alJkemZfRzlCZkVhZm1sYnppNENiR1dWc0hITFh1U1A4RmVqa3ZJTm5JTG8?oc=5
+- **Source:** El Cronista
+- **Published:** 2026-11-25T13:11:36+00:00
 
-## Microsoft's November outage exposed an engineering “fog of war” - Mezha.net
+## Microsoft cuts over 860 MB of RAM from Windows 11's own apps - Notebookcheck
 
-- **URL:** https://news.google.com/rss/articles/CBMijwFBVV95cUxNZXNXcmF4S3pZaFJDWUItWHNBUGxuRklJVk9DMjNEYXJBYUxXNHVoTXJxZXpsN2w2eU56dHRQX2FyMEVudmxvcUE3bzR5X2MxclhDdzVKMHp6YXBSV0l2S2xkQUcwTjBpUEFQUEZhUGhzY3U3bDZUc1JqUTJpZWNXZER3S1J5TEdNcUFNSFI4UQ?oc=5
-- **Source:** Mezha.net
-- **Published:** 2026-11-24T22:49:38+00:00
+- **URL:** https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUGZhLW1XbHhsbC1Zc0JSbEtrRHlSTjRNcTQxTU02OTFYR3g4TUdYeVpnQlI5M2liajh6eWVic3QxaU5fWjFUcmVJWVFRT0p0Nk1XSWhvVlBvMlFGMEVPbHo2RGRPLUZLZjNfTjRkRzRMZWZLMVVXQkExdUMtVWNnTUdUT0gxTjNwNkRCeVhfTWM4S1JPbGt4OUF4dG8wYlNTOXgxbW43Nnk?oc=5
+- **Source:** Notebookcheck
+- **Published:** 2026-11-25T13:02:00+00:00
 
-## Pinterest expands advertiser access through Microsoft Advertising - Yahoo Finance
+## Microsoft is killing its To Do app. Here are your alternatives - PCWorld
 
-- **URL:** https://news.google.com/rss/articles/CBMiswFBVV95cUxPTmF6VnRoeWxNZjFYNTJWOHZ2TWtFTkw0b0RNTlJ5a1dYbG82UjBTWC0xREtDX2hOdnBEMWhUUk1WSm1DV1I1NHgxczZyQW41bWctaG44WG9YOTJJYWlrZzg4aXZPRG0wTTNDVGxrZUNnYnBwbS1KZ3lJYWVpOERZSFg1ZVJxODgzN05yZVk4SUxKZ043TUVRLUtJOU5DdWROR2M5RlhXMTNVTE1meFctOENRdw?oc=5
+- **URL:** https://news.google.com/rss/articles/CBMiowFBVV95cUxONnVMT1hZNzllb1ZkWkoydGpuS2tPWHNkdUQtMlgyT09aVjJCcWFkcmVha3E2ZHlDWnVITHZhQU03bjY1ZEJGR2QxM0pLZHZzdWJlY1RmS01IazVQc0QxT0ZiQVBweEJDeVYzQmlSWTFOMjk0amtjTHFTbnVRcWN1MWhCMHVqM20xdDV3VkJ1WXVQS3czUGd5MkxlT2pxTlh4TjZV?oc=5
+- **Source:** PCWorld
+- **Published:** 2026-11-25T13:00:22+00:00
+
+## Microsoft Overhauls Its Outage Response Plan After Major Outlook Problems - PCMag UK
+
+- **URL:** https://news.google.com/rss/articles/CBMitgFBVV95cUxNZUVIS1phVWhiUUx1SE1Cd2VVT2ZPVno5eHVJMmp1MkxJUzA1bGRJUzRaVkNqaEtEUlFTc0xXdmphWXpmUkFEeER5NGMwaW4yb3FpdXB3b3hwWFgyblJ6V2YzMHJDazVUdkFtT3U1S1p3NThGYWtXSUh5T1RvVnVRSTBJeTV1MU1VNDlDNW9na3pjWlM1UnM5UjlJWHFHVjJ2bTFvalQtamFRVlBsc1hLMVd1R3Axdw?oc=5
+- **Source:** PCMag UK
+- **Published:** 2026-11-25T12:49:25+00:00
+
+## We Watched Microsoft's CCI Demo. The Call Landed on the Avaya Desktop - CX Today
+
+- **URL:** https://news.google.com/rss/articles/CBMikAFBVV95cUxQTGRzcmxjQVFoZHNfcUdUbnFzT1AxYmdYSy1SMnpiVWN2X2JPbmVPamZ6YTZHNVVFa2dVeG9sR2FoYmxuZ1ZmY1BMNG1udzdQZWxfZmVha2dsZUZHbFUxVExJclU5eGtuX1VUOG83LVoxd0VXVEM2ZW1HQjdRMzEtd0l2YTRSWnR1VG55MHdrN0k?oc=5
+- **Source:** CX Today
+- **Published:** 2026-11-25T12:46:53+00:00
+
+## Is Microsoft Stock Worth Owning as AI Capex Weighs on Free Cash Flow? - Yahoo Finance
+
+- **URL:** https://news.google.com/rss/articles/CBMinAFBVV95cUxNWUpydHZSTWFQNzdjd3htbEhldHBMSXUtaDZ0eEZKbDZhdG1WUE05ejRxTjJyOG1oSW9leWhpSC1BV19XLTZCQXhXS1ZEbFNteEx3MGFub2xlOTJDZFpnbnVTZnp6empIenFPemxQWFh2VHQyNW5jb0NxNXJWaUZ5MHVUVDVuWW9xbExXR0dSaFEtZ2lCbHN1UE5ORkk?oc=5
 - **Source:** Yahoo Finance
-- **Published:** 2026-11-24T22:45:18+00:00
+- **Published:** 2026-11-25T12:40:00+00:00
 
-## Microsoft's historic cloud outage exposed an engineering “fog of war” - Ars Technica
+## Microsoft study links outdated docs to 38% more token use in one coding-agent test - Superpower Daily
 
-- **URL:** https://news.google.com/rss/articles/CBMiqwFBVV95cUxQd3N2cjRYc2MyZTh4cGdIbjB4a2dac0h2VG5TN21RdllmQjdhNHg2UWNsRVNpaGUyUmFibjkwT1JEOWx2WE5QTmtXYUk2SXR3Y2VsQ3NBRFYzOUlIOXp3cHZYV0pabktqQlBnaUttQlFZcVlMMU90SGphZjJuREVsSnBLZEJBd0tuY0VFY0lKRU1feUVpMm5pa2FrcnRrMTZrYjlpbjA1aldzRDg?oc=5
-- **Source:** Ars Technica
-- **Published:** 2026-11-24T22:36:28+00:00
+- **URL:** https://news.google.com/rss/articles/CBMitgFBVV95cUxOQkUtZjBIYnBSZXVoSnVhY1BCYVlMWElkb2hRTHpIMkluRl91SjdveXA5Rmh3ckk3SDYyaEZJS29GTUkzckxSOC1fYzlHV2h4UmJqLXptOWxvT1dnMzdFeUt3TVVYQTNBa2s0UUd0OHYwdTQxX1oxeHVyWmtNRnZ6dDNWa1RWLVJfazZhXy1vZU9UM1Rjc1ZoejBiQ2ptNFNVTVNKWWY1bmZqa2hQT0YwcXViX3oyZw?oc=5
+- **Source:** Superpower Daily
+- **Published:** 2026-11-25T12:36:01+00:00
 
-## Microsoft declares 'Code Red' after cloud outage disrupts services - Ticker News
+## Microsoft 365 Backup stretches recovery window to ten years - The Register
 
-- **URL:** https://news.google.com/rss/articles/CBMiigFBVV95cUxNUW9FR1VVa3hibTJWYVZQXzlfTVBTTlJfQVJXd2xyc3ZyU2k4R3kxWDFPYWJTM0lDYkd6aFc1bU5IbWNYbUswTHRpR3pJOHhFN3lLSkNKd25FR3RHQ3Z2MllOV0d1LUdJcko5SldwVUV3MW5KeHVoSERzNWEzb1BtWDdQTXJtN2dxdkE?oc=5
-- **Source:** Ticker News
-- **Published:** 2026-11-24T22:12:50+00:00
+- **URL:** https://news.google.com/rss/articles/CBMisAFBVV95cUxQYkJ6dWd5X19xQ085MF9PT1NfSXFoY2lDcVFCRFgycXRhMFhFQy1ZdU9Hd1hzd2xTSmZhaXpreVc3cncya0JkSzA0b2V1ZGp5bnE3MFJfV3VfNXJfMU16VktQaVc2d0VRRE5vdjlnYzQwdUlfUS1HVDdxVHJXV3hYdzJBT2ktLWV1TVZnSWpwaTZxWUh4akU1Z0dFNWlEMFhoaS1id00zV2hfajNLMHp5aA?oc=5
+- **Source:** The Register
+- **Published:** 2026-11-25T12:35:00+00:00
 
-## Microsoft Sets Goal of One-Hour Fixes After Email Outage - PYMNTS.com
+## Microsoft Ignite Roundup: Agents Got Names, the Dial Tone Got Skipped - UC Today
 
-- **URL:** https://news.google.com/rss/articles/CBMinAFBVV95cUxPbUp5V3N0QmlZdjBhTHc4NzYwZ1YtV2xpZEoyUzliS25CRE1VYk9uSDcyeXI3akVHd1VwMzJyOUE2YmVmMlpLYmZpcTQ4cEF5cElENXdqM0lhTlpZZHJ0ZGVxbDR2UjlEbU9weE12X19fWkI5NThGZE90Ym9zR2RIbFlncENKTDJDRDF4NGZYREdCX2cyb2prdnZncDg?oc=5
-- **Source:** PYMNTS.com
-- **Published:** 2026-11-24T21:50:02+00:00
+- **URL:** https://news.google.com/rss/articles/CBMikAFBVV95cUxPLW1oVHZwdDV6T25jT2dFUHRHX3NneWFqY1hyYl9HWFFiZFdwZXpvTXROT2lzWm9OZW5YQ3NTZG5kUDNGZlc5RmVUM0lnanVmeEcydTVwWXVWMTZEN3d0Unh3WlJvU01fNWlZZWVZMURycTNEMkczVmRPTlpxTTAzSGFVQ19CNWs5MHRVV3R2M1E?oc=5
+- **Source:** UC Today
+- **Published:** 2026-11-25T12:32:49+00:00
 
-## Microsoft issues ‘Code Red’ alert to staff after mass 24-hour outage - Nine.com.au
+## Microsoft declares a Code Red in response to worst ever outage - 9to5Mac
 
-- **URL:** https://news.google.com/rss/articles/CBMipwFBVV95cUxORm9NUFZsRnRHRDdvOG5wZmpjSU9LZ3VYaTZLek1tTFNGaVI4eHdNSktJMHlfbVpyRlU5SWQ1a3ZWLXRsa2tGZTZkS2lVYzRRRkRGZFNmem4xWG9wNzJNWjZQZzVaRVBJdlNsbmd6VDYzN2FWX1Y2cl9sRWNqUjAtUTNnOFR4MDRXRTZlR0tzNWlmT3pkWGE5VFE3cktxWkhDYm5yTExXbw?oc=5
-- **Source:** Nine.com.au
-- **Published:** 2026-11-24T21:44:30+00:00
+- **URL:** https://news.google.com/rss/articles/CBMimgFBVV95cUxQZldteGMtQlpaWjdGQXNVX3hLaEV0LWE5VmtjQWlXYnAyNE1CeW1TaXpDSVdGQjlveUxDbmtGLXh4TjV6Z1ptQmVUNFlSR0FfS1VveVQ0X3JLM204akhyUEVPQnhENWN1Ung2WkpPMGNCeUw1X1JDSFJOTFBEaHgxbEdac2lQSHVhc2pMcG5KM3dZbjAyWHc1QnN3?oc=5
+- **Source:** 9to5Mac
+- **Published:** 2026-11-25T12:23:00+00:00
 
-## Microsoft Beefs Up Community Relations Staff in Wisconsin With Racine Woman - WGTD
+## Microsoft Brings Maintenance Windows to Intune-Managed Windows Devices - Petri IT Knowledgebase
 
-- **URL:** https://news.google.com/rss/articles/CBMilAFBVV95cUxQMjAzR2VEUW5FNERnQnVXRno5b09sc0ZtRVdwMjQyTzFqOEplNlVsRW1iM3NFUGxkcFVfaFFBYjczNHRraWdvNDlmRm5LOC1fcWtydkNOd2g4YnluNDVvcVkzcnVVNzJzNGpoQmNVUGZKaUtNa0ZkRmZDaWhkWm92NEVfWTlKQnZMY00waGpGUDAzVEVM?oc=5
-- **Source:** WGTD
-- **Published:** 2026-11-24T21:32:37+00:00
+- **URL:** https://news.google.com/rss/articles/CBMiZkFVX3lxTE5aenBzaFdzUS1LTThFLXhrYTJtUHVjcWN3SlJoLTJoYWxseFZUSktlUFZHZG56bll0S25RZmdDNWhPa0R4VlVfSVZRRjJSQU1NODBaZ2k1OGtaaG9Sd3lmdFExaXVodw?oc=5
+- **Source:** Petri IT Knowledgebase
+- **Published:** 2026-11-25T12:20:23+00:00
 
-## Microsoft Fixes Azure Flaws Exploited by Bad Actors to Steal Secrets - Security Boulevard
+## Microsoft’s reported ‘Code Red’ follows a day-long outage—and 11 very busy Teams chats - Digg
 
-- **URL:** https://news.google.com/rss/articles/CBMiqwFBVV95cUxNaVRia2dkVkpNSlY4V25qb3Jmc2JzMHF2dG9VSGU2dm14ek9jelZrUVlLUUU1SHd3ZHlFMXh0S1VlTGdtUzlLeHFDUWZGc1hUczFiWHh6S1FwdWV6QXlNVTJ3cWVucDFKQnBKZm1ycTljN2xLbXNZZVB5OV83NUR1czAtc0RmTmprVUJSOERIb1k3R3VUWS1NdDF6YTcyRWZYVE9NdDRJcE1FZ0U?oc=5
-- **Source:** Security Boulevard
-- **Published:** 2026-11-24T21:22:30+00:00
+- **URL:** https://news.google.com/rss/articles/CBMiREFVX3lxTE9ETENqTjFXZmdza09CalpfZDBDOS1fdFJLamwyUU03VTFqUk90cDBST0hrZm1vcFZFVWZVOU9ldVNCUWhq?oc=5
+- **Source:** Digg
+- **Published:** 2026-11-25T12:17:47+00:00
 
-## Microsoft declares Code Red after historic 24-hour outage exposes system flaws - Interesting Engineering
+## Microsoft Stock And 2 AI Software Leaders For Productivity Focused Investors - Yahoo! Finance Canada
 
-- **URL:** https://news.google.com/rss/articles/CBMingFBVV95cUxPUFh6dU1vdkFLVk9fM2ZWMmVTazIxTEZWYjR0alhGTnZWYjhmUmcwQTFOek9Rckh4b3BRZ25ZQUR6ZHVzWF9ZMXI2OGRCNGktOFA2dGNZbUdfYWdIVng3LTFoN0NEd3VRSV8wZ1NyNHU4NU5WVGNUbUx2MC03VkRURzJONTMtTjR0bEVsd1dXeFF2UmEyX2E1N1ZzWWtvZw?oc=5
-- **Source:** Interesting Engineering
-- **Published:** 2026-11-24T21:22:00+00:00
+- **URL:** https://news.google.com/rss/articles/CBMihAFBVV95cUxPN2tUQnM5QmV2LVVha2x0ODRkMTBSdGQ4aGd0bzl6ZjNKSDlad0ZQeDhTcXBHUmhSX0NlNGd3RVJHVEoySVlVaVRNWUpsWjM4Y3V5Ym0xTG5XMEFRUnNTRi11QnJlaVdiQVlDeURGVHJwb3BRT3B4LXBKSFVFQjNySTRxLXM?oc=5
+- **Source:** Yahoo! Finance Canada
+- **Published:** 2026-11-25T12:14:19+00:00
 
-## Microsoft’s Code Red Exposes a Bigger Cloud Risk for Crypto - Coinpedia
+## Microsoft Declares Code Red After 24-Hour Global Outage - TradingView
 
-- **URL:** https://news.google.com/rss/articles/CBMijwFBVV95cUxQd1dwa3Y0b2VQWHZTZUpTc05mczN6bWRkTVp2RmwzNjdOOGp2eDdzNG1sd29CNW12QnVBUGVmRk40NHNjYWd3czZhVFdySTljdjNpU2NBV1pJNFE2MnB3T1pJT2thR1E0R25oekQ2T3RrMlJ5N2RHT1RaSm90QmYzdG1BY2Fwd095cW9pcXU2Y9IBxgFBVV95cUxQalBHcnJRa0FEWUhLdGpZb0JxNUo2SUg2X1VYeWgyalZZRTVTU3RQQTl5clQ5TExDZ0RaX05hYXdVYXY5YVFpM0RNeTVQMHVmZjdpbjFGNUxXeTFkTHJNZmEwcldDXzcteWhzT2dGZUJ3S3pQZ1dzVXVnakR0Um5FYmhTeDFUZDdIMUxXY1FreHBGekpFdXdmc3YtNzNvMXJ3VDdPWUtVMXhWZmFibW41NmZDVVpDajc1eHU3aGd1UlhocERGX2c?oc=5
-- **Source:** Coinpedia
-- **Published:** 2026-11-24T21:19:43+00:00
+- **URL:** https://news.google.com/rss/articles/CBMitgFBVV95cUxNOFBybWRNY1JDVjZtSFc4Y2I3WUU0ckk1NFNuczYyMjhrY08yckVFOWkxLUZMSHVzY0U0enN3MVFqcFc4b2dEZnBGLVJfcXpzZ21JV0VZc3l2Nm4yZXdGWDQ5MXZIcHk4d2RYS0JBanpWUzVYckpXdnBGeGZXY1F0VmU1Q2ZTeFVxRkN0Z1AwengxVU53dGM3SjRjekQ4WFhoSHlUd3l2ZTF5Smxwd0dHaUF5WklpQQ?oc=5
+- **Source:** TradingView
+- **Published:** 2026-11-25T12:12:15+00:00
 
-## 8 Hot Data Storage Products From Microsoft Ignite 2026: AI, Azure, Cyber Resilience - CRN
+## Why The AA Relies on Microsoft AI for Vehicle Diagnostics - AI Magazine
 
-- **URL:** https://news.google.com/rss/articles/CBMiugFBVV95cUxQT1FsOTNmV3ljWVA5MVpraW94LVBBNjltN0V4OVFlaGsxQ3hJVnc5b1R4SFN5RkRkWUdacGVsdXVqR1pOclMxNXJSM0hodWp3SWVEYjJOTUZYYjg4cHlXbzBkdVZiUUNJSVFYS2JrR1o4V3ZlQVdTaVBxZUNTS2MtVmQ3Y1pGdG5leDNuc3JPbTQ1aVEzYzlNeVZNV2xQYVBxN1NLYnduU2RpYzFWendsMmIzempCTVpUV1E?oc=5
-- **Source:** CRN
-- **Published:** 2026-11-24T21:10:00+00:00
+- **URL:** https://news.google.com/rss/articles/CBMijgFBVV95cUxNYlBodlV6d211SGVNdTRqRVliSWFLVVk2alNtUHh0WHhJRlY5ZklLRWdoQjNDRG9ZVFpfODI3YUdRSElyemdnVHpFV0s2QWVocFFoSkx3WXJJdUpyMmctTS0zSDR5NXVZNTJDNjlYQ3htdmVQSlU5YldiY1NHM2IxYTh5MmZzdUt0VGhEVjln?oc=5
+- **Source:** AI Magazine
+- **Published:** 2026-11-25T12:02:02+00:00
 
-## Microsoft (MSFT) Is One of the Safest Ways to Own AI - Yahoo Finance
+## I tested 10 Excel functions I'd never used before, and these 5 were surprisingly useful - How-To Geek
 
-- **URL:** https://news.google.com/rss/articles/CBMimgFBVV95cUxOTGFBVVdNRFBFZE9EWTZDR2tLMFNwTXNEbnMycHhqOElxTnRwYzNjdUxRTlRjVGhLR25QRUxvTUdVNlFlOEhWc2JKZFI3Y3JoN3hIS1hHN25CY0s5RFhpeHE3bGN5LWg3c0VVN0ZhUVRBSk5ZbjRBaEtBS2pIVGtHUlV6a0J0Qy1KOFhJS2xCMXJ1elpScUMtcGVn?oc=5
-- **Source:** Yahoo Finance
-- **Published:** 2026-11-24T21:06:00+00:00
-
-## Global Microsoft outage affects university students - The Charger Bulletin
-
-- **URL:** https://news.google.com/rss/articles/CBMihwFBVV95cUxPU2NnMTA1dGZGZmZad1JlR18xWndSRXpQWTc4S3I4enNlcHJ5eVNmXzZIYnRJTjA1UmFTTk85N1NEQmVCOTlscndGNF9nZ0luWHFLbkZzLVVvbXpQaFlUeFlQcVdjcEQyMEJkNVJGbUZmcmFuYmRWV1Mybnd1eEVEcWJLTUZRLWc?oc=5
-- **Source:** The Charger Bulletin
-- **Published:** 2026-11-24T21:00:50+00:00
-
-## Microsoft Ignite 2026: Is Your Enterprise Ready to Let AI Agents Act? - Bain & Company
-
-- **URL:** https://news.google.com/rss/articles/CBMiYkFVX3lxTE5mM2pReXVoWnZPY1U0eG5DZHdmMVF4NDVYSE9DaGQzeVQzMWVYTmJYc0NYVkU0cW1oZ2NFcnFoVEZXLXhaX1k4bVZneXRVa2NfRUktVksxaGdhWUxRX3JwWl93?oc=5
-- **Source:** Bain & Company
-- **Published:** 2026-11-24T20:48:29+00:00
-
-## Microsoft quietly unbundles Copilot from Microsoft 365 - LinkedIn
-
-- **URL:** https://news.google.com/rss/articles/CBMilAFBVV95cUxPNjl2U21hbXFzTkdCQllfUktQdDVjTlZrcXFsM0ZYMmRmRG1RZ2R1dXNnVy1TT2tPMGF2WktqR2ltTkFIZk5XZm14SVY4UGs0cDFWRDZtWTlvNVNWb290SU8yQURQUFp4TU4wZ1NNcVJHRmhtbDI0aGV1akNMd2J5N2M1YTdCZGc2SG9KM1BxeEVoallt?oc=5
-- **Source:** LinkedIn
-- **Published:** 2026-11-24T20:38:40+00:00
-
-## Is Microsoft the Best Big Tech Stock to Buy Now? - The Globe and Mail
-
-- **URL:** https://news.google.com/rss/articles/CBMiywFBVV95cUxQVjB6bHJqNmdNYmFzbFE2TDdRWUNyS3g5RjhNbVZxdGFNYkg1Q0Z5NDVwSFdaRGpLVEprQUg2R1hySnlXNHF5THJIODV0ajRZY1ZoX2c3TXNpUklheGtmcDZBblAwTk9OQXZRZWFfZ0tNdE15RlNFVmxsSTU4UXFjSGtaN0pvSWpLb1ZFVGNrcVoydDVPRmVUaWhmLXhCdExRdUpmNGZQVmxZX3hfUkpHYzBpanR1RGkxbEd1cDhudWpPR0J6QXhIR2cxTQ?oc=5
-- **Source:** The Globe and Mail
-- **Published:** 2026-11-24T20:38:13+00:00
-
-## Microsoft 365 ‘Code Red’: What the Company Wants to Fix After the Outage - TechRepublic
-
-- **URL:** https://news.google.com/rss/articles/CBMiiAFBVV95cUxOR2VxNlRfdmV6UFphelRNMFhUSnhhOUJkTTF6UTNXWTRxbER2RmVJMXpVaGpTU1dIa0hCajh6cWhQd3lSVzRzU1hLbmRZRG53c2pwZ2wtaV9QWFJZZEZPU0JnemkzQUJKNGkxOG9YQ29JaWNQdUZLNk5McWd4QnJ5cG01TG42M0Zv?oc=5
-- **Source:** TechRepublic
-- **Published:** 2026-11-24T20:36:42+00:00
-
-## Microsoft Code Red: Global Microsoft 365 outage exposes cloud infrastructure failures - Beinsure
-
-- **URL:** https://news.google.com/rss/articles/CBMia0FVX3lxTE5BRWNrdU5IYW9kYjMwdzA3LWpWSEh4azhKUE5sV0ZQLTgxTVpYWi02NmxGeW5mSmlKV0xoUjVOYnhMbDMyZFlZalZfcjdoaU9BRURHQVZlNXBNS0lBT1luby1zQ2NnaHhZSXlV?oc=5
-- **Source:** Beinsure
-- **Published:** 2026-11-24T20:33:26+00:00
-
-## Microsoft Shares Edge Higher as Xbox Helix Reportedly Shifts Back to a Traditional Console - BigGo Finance
-
-- **URL:** https://news.google.com/rss/articles/CBMidkFVX3lxTE1VYVQtRG5qaGJuOGRlZVdZR0NZZTFwUllCTFpDdGxwRnU1dnRGTUNDMWxpUXJwQXJZVDM3WXB6TGxFT2ZuVk5kUmxyVm45OTNrekpIcF9RMGlFVkhtRHRhM2VkOWFCaFdhOW12LUNUMDNOb1Z5dHc?oc=5
-- **Source:** BigGo Finance
-- **Published:** 2026-11-24T20:25:00+00:00
-
-## Microsoft Declares 'Code Red' After Major Global Service Outage - Dayton’s New Country 103.9
-
-- **URL:** https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRkN0WURNSUh6VWtjUFkyZHd2YjVVeW13dWdwdFE4RjBIV0ZtTDJwNEdhUkVnd0I2YWxRUXdyMWRXdWpwY2FsWTlER25FTVpiZzZVYWpoUjBIelBYU3N0MS1BS3RNUzlsVlkzZ3NMa0EwUTdrZDUtemFBdVVHVkFSQjJfZkVfZDhyS2FnTWtxcVY1aXZQaFhUWFFDU0dzZnZ0SlRVdXFwVHA5Q0VRQk5uWDFNTWJkRk9O?oc=5
-- **Source:** Dayton’s New Country 103.9
-- **Published:** 2026-11-24T20:24:00+00:00
-
-## Microsoft Declares 'Code Red' After Major Global Service Outage - 93.7 KRQ
-
-- **URL:** https://news.google.com/rss/articles/CBMipwFBVV95cUxQM3RIUll3R2toaVQ5SXVSZU5EekEyYUZuZ3pmQWZkaEFqdGxuTFBuU25YaS1WbVJYYWI1ckNqeHZDTlMyUlFOc3BfcnhLa0VPQVFnN0pwZFUxRmFETUc2MnpGeVRqUnFESHVpc2VpOWJQMjJIYWJVbXJlaERFaEc3Tzg0N0w0Q0htdk5lZGhveklyUW9yb3dtQVVoSTEtS2VoWXJMaUlXcw?oc=5
-- **Source:** 93.7 KRQ
-- **Published:** 2026-11-24T20:24:00+00:00
-
-## Microsoft overhauling how it responds to service failures - KING5.com
-
-- **URL:** https://news.google.com/rss/articles/CBMiywFBVV95cUxPY21vU0tCOEk5ZDJEMzRJM19EeUNYYW8zUUQzUzQ3amE3VTNqSnFwNWhkUXlQSzNUNmNiSlZsdFltSFM1el9zN2ZkOVo5aWFoamZpLU44Mk9qbExLYlRmeEhoNUFmZm9LYmQwX2pxZ0dIejMzTWpzdkdhbWU2N3h2ak5CYmxMT3BWdllGOFRlc0t6VldiVjJSSmhwckI0RTAzTTlWT3RfTVNHSE42VFNZQ3VDTG5KRmJmNUlqZG0zMjlmU2V4ZlBlRXYyVQ?oc=5
-- **Source:** KING5.com
-- **Published:** 2026-11-24T20:15:00+00:00
-
-## Microsoft declares 'Code Red' after historic outage, interna... - New Hampshire Union Leader
-
-- **URL:** https://news.google.com/rss/articles/CBMi0AFBVV95cUxPek1QbWtwYmt6ZEFqeFlkcC02S1hEWVktR1FIa0tDZEp4bDBoUThZekhfLWpBOXdMTUVuenQtYjRyeE9aM3FBX2Z6Y2dURzB3cEtfZDdSVnJPSWJBX3hrZDA1bjRWS09GUFBDaXhGYXZiSjVkeEZMblJ0MDA3UUFKYUJCdFdyaGZsLUI5bU9xYmd0b3BjUmVXS3ZaTkt2ZHJUMnpNX2dlLXpjd19CNDBOeE5kLTRELUV6RVNHbzlhakd4cVpFM1d6QklSeEZCT25W?oc=5
-- **Source:** New Hampshire Union Leader
-- **Published:** 2026-11-24T20:11:30+00:00
-
-## Microsoft declared a "code red." Here's what that actually means - Newsweek
-
-- **URL:** https://news.google.com/rss/articles/CBMif0FVX3lxTFAzS19Hekp3a2JhaHZ3a040Tld1dU1oOVBQT3JhVzlBbkFKckV0QmM1NWFWQTVCakVYNWpUQU5qZGRyaWNKVFZmOXFLaWo4OFlBUG9YNnpKYlpXNUV1VlF0RUNXNWtxUmZXMUhoX3pyYnlMR3VSc0xTMzdhMkpSRlU?oc=5
-- **Source:** Newsweek
-- **Published:** 2026-11-24T20:11:00+00:00
-
-## Microsoft reports Entra Connect Health metadata exposure - Field Effect
-
-- **URL:** https://news.google.com/rss/articles/CBMibkFVX3lxTE41VWo2ZW8xQmtLSVBCaUJEcFRYUHZRNi0xMGJPQVd6MGEzdTZKMlI1eGhiYzU0RktJTE1mNGRlSXA3MWhwVTVLYUhtUDZzTjFqeGp3SF80dWpFa211eU9nMDItTmwtRDRrREpXMEtB?oc=5
-- **Source:** Field Effect
-- **Published:** 2026-11-24T19:52:30+00:00
-
-## Microsoft Declares ‘Code Red’ After Massive 365 Outage - The Daily Beast
-
-- **URL:** https://news.google.com/rss/articles/CBMiigFBVV95cUxPZE81S004NlNPWVpjUTNxc3FYQ3p2bHo0VlhmRElTTzdSTGFWZjhYUTU5UldDMm1iYmU0SWdBVVJrVkdrTTIzem94UzN2OUhiR3BfMG1ZVGRiSHVSM0lzUXNQd0RNek1icU5tOU8wWjl6Nng1bmhBSkFNd1l2bVB5Ym5WeGNvOVNpUWc?oc=5
-- **Source:** The Daily Beast
-- **Published:** 2026-11-24T19:51:11+00:00
-
-## Is Microsoft the Best Big Tech Stock to Buy Now? - Yahoo Finance
-
-- **URL:** https://news.google.com/rss/articles/CBMimgFBVV95cUxPcjhKMnNGQnhSYlRPRy10eDFubkxRTnNoc0piNG9CWldtZFdPeFczNnhISDJYSnNkbmVVMjZNbzQzaFRQZHEzQWtXZlBUYjJJZlEtUk9DMTh5Zm1yb2RRZmNhQzdzTVBaMkF6emFKNTZZZDgyd1NMTmF1cmRfWEVmXzVIY0Vha1pnOG8xczVPdzZ6ZlE3TXUzTUpB?oc=5
-- **Source:** Yahoo Finance
-- **Published:** 2026-11-24T19:50:02+00:00
-
-## Microsoft declares 'Code Red' after historic service outage - Fox News
-
-- **URL:** https://news.google.com/rss/articles/CBMihAFBVV95cUxNbW9wWFhnQm14VndiZmlkZGJEYUpCdS1QcWdEYUx2ckk3Tm03eG9Xdk1mZFRDcHpjcXFFanJvUjNKaVBabHVfX0drZTlMX1V6ZXp1cml4UUpnUDFadjBHZkRzWjQ5TkNhTTBaMFVvT000bllTUEhybkdCWGt1UmxMRVF5TGHSAYoBQVVfeXFMT1ZtQUhlWnlVQjVvVEh5UnM4bGNmTFJQZ2wyN2xxUTlQMXZtUzdwX1ZZR1g1OTEzX0U1a2Ytc0dKcHJ4YlY3N19VTjFBSy10VTFzRk0xbHFyNkxrUU1ZS0sxYmdGTE03MmtUbWt3WWs1bVIwVGFvck04WFFKQmNrN0dJS0IwYjBuR0p3?oc=5
-- **Source:** Fox News
-- **Published:** 2026-11-24T19:47:52+00:00
-
-## Microsoft Code Red: Email Outages Meet EOIR’s 10-Day Deadlines - immigration-analytics.com
-
-- **URL:** https://news.google.com/rss/articles/CBMihgFBVV95cUxPWFB3OGJvMGhsWmJDMFRfSlJibnlDeDZ4X1duZzZIVkJCTjJsTnVac2dpZ2UxNGZIaUppZ1VKR3U2UHhDNUNHMWw0dFFLd0lKODFyQm9Fb2hjNUNHSklCeElqUVRia3hYM3Y0dldvN3VSdktGNFdtUGxKUkZVWWZaM18zZXdrQQ?oc=5
-- **Source:** immigration-analytics.com
-- **Published:** 2026-11-24T19:45:00+00:00
-
-## Cloud infrastructure overhaul supports Microsoft amid enterprise trust concerns - Traders Union
-
-- **URL:** https://news.google.com/rss/articles/CBMijwFBVV95cUxNZ1B2YVRPYlZ2QnRzRzRkdDcwclpISGJObnB1eXFTYS15dWlSSkROS1U2d01pNXpsTzZKZVlYSFBiRVR5ZlNrbkVVZU5zbUlsbGRjaXZxZ0xaUVhZVGU4aG9PeXpPbnpKOEduOTBkRlcxMnJDYlgxWUl4UGRqdmd3S183NTlBUHVQS2xXekhvMA?oc=5
-- **Source:** Traders Union
-- **Published:** 2026-11-24T19:42:28+00:00
-
-## Microsoft declares a code red in the middle of a 'Patchpocalypse' - Yahoo Finance
-
-- **URL:** https://news.google.com/rss/articles/CBMivAFBVV95cUxNZkFDRTB4YVJvZmdsWlkydmdSakxwTTdjU3k3dTZxY0hXdDdLWVcxSDFYWWdrbnpiWjl5ZmNMcjF5UzVTaFNkRmk0RmJhTFcwMFNfeTVkb09OcXVfelRMN2VSbzN2TTc4eDAxR0l2NUJVUkJPWUFCZmFkSXE5RndxYXFCSHExOUYxZDdDdzg1MWFSd1Q1STRhZ2tmR2U4a2FLanRtWDhuZmJ5dUdjVFMtd2tKajFSN2lnLUw1MA?oc=5
-- **Source:** Yahoo Finance
-- **Published:** 2026-11-24T19:37:40+00:00
-
-## Could Anthropic's Claude Sheets Really Threaten Microsoft 365? - The Motley Fool
-
-- **URL:** https://news.google.com/rss/articles/CBMipwFBVV95cUxPWHNEVG01NV9LeTRMZVBkUHRKZXJhTG9DRTFrWmI2RVBHbFc1cGlSRGV2bG1qU2VqRzVuVzFxR2FzTEQxcEd4ektabXhRQk80Y2ZqWW1KeGlXTzF4ZVB3MVduRjRpclFLWlB5WG9wYnBBRDRBcmdOMWx5NXc4ckNSV2x5VzJqa3IxQTdiQ2xlLUVDV1lISlYzTFdWRnVwQ2did2pWTUUzOA?oc=5
-- **Source:** The Motley Fool
-- **Published:** 2026-11-24T19:35:02+00:00
-
-## Microsoft Flight Simulator Announces a Marketplace Exclusive: The iniBuilds Global Jet - XBOX Wire
-
-- **URL:** https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZUd6T1NqVHNSWnpseGpZa1NubUVDalMyUHpXeDJwVVItb1J2UTN5Y3JyaDdGNDZyZFlXTWlucTE0dWRVTlYxRThEQ2JybnhKd0hUR3RHbGFTaEkzWHlYSHY0OEVMU2FwYmxvcWRCTTdYRVhrVjNsZUg2UHJxY1JJX3ViNmhRNXo0NG9HU0FDaUtlMVBXUHBjaUVUVi1FSVU5RUw4MG8xeDVzX1JOZGRvMGk5b252aXRRQkdSWHFCTnpkRVHSAcgBQVVfeXFMTXZScU1fSWd1ZlZ6SGw3eGstM0FfNDdPczY3bDZycXpLa3U5TlFxMFozNUIyalJlaTB2OVU5S2xnc2RSX1NmX1lwaWVvUGxYeVNRWUxJdzk5SVpKVGE2WE9hd01mUGVaNHdobDFZLWR5a1pQRjBBSmZPc3VwUWVydmJrdFhCekpSSGJUalV1WXRFNjAweEQxOHJ0Z0pudFhHamVsQlVLZl9lQ212a0d5d3dDU2xBN1VQRFI2eXNCS1d6MnJ1SDNDQmY?oc=5
-- **Source:** XBOX Wire
-- **Published:** 2026-11-24T19:34:09+00:00
-
-## Microsoft hits Code Red and promises quicker recovery from outages - How-To Geek
-
-- **URL:** https://news.google.com/rss/articles/CBMikgFBVV95cUxOd0l0NmxtOVpkcy10NWFtbkl3RldfVlJYNTY1ZmNXN3Y2QXBTem5ITHZCVWtDYXJCRWMxeFdyOXRzSW1Ea1VOeWd3NnZWWDc3bUxRNDIwSmtDWHpLbl9lY2ljOUZoVlFCVDNSRU1TTFdxcjVGQ09yZDVJd2tlRjdjMWctTzVLV05TNnl3U1M2V1RrQQ?oc=5
+- **URL:** https://news.google.com/rss/articles/CBMigwFBVV95cUxOdnFsLV9EZTlfQS1uTmZXNkR5QlpXWFVWSlhyMEhwajdWMEkwblZXVHRHWmk0VjlpNFgtVEF6eXM3dXoxcGliOTlJRXRIdE1kNXNLOHRsMTNZTGUwR0QwcmNyZ1BETF9aUUpqdTFKQm5FNmlGellBOXhWMl9LdjN1QUxwcw?oc=5
 - **Source:** How-To Geek
-- **Published:** 2026-11-24T19:33:15+00:00
+- **Published:** 2026-11-25T12:00:15+00:00
 
-## Microsoft initiates ‘Code Red’ after most disruptive outage in company’s history: report - New York Post
+## Cyber firm claims Microsoft refused to remove malware-infected app from store - IT Pro
 
-- **URL:** https://news.google.com/rss/articles/CBMiwgFBVV95cUxNMkl0RDF5OVNtWi1kM2JQWjlQaUJ1Z3FpUzdVOXRmTlhTcE1zOWIyMVEwdW5PcHIzbDVZTEFYc1FTc0pmVGI0OW9aNGZuczZMNUZNbEJjRkhDRUdrbVRyQWZtLS1GMVdPQjhQRF92TmlLZXlwQXZQNTdkR3N6bTZueHhjWlB6RGp1UnZ6V21iU0RvdHJxN0tieHdjX3gtaE1HbnhkaDYwVkd3eVN2ZHQtOEFoT2VLNnBpdlRlMDAtWjhmUQ?oc=5
-- **Source:** New York Post
-- **Published:** 2026-11-24T19:32:00+00:00
+- **URL:** https://news.google.com/rss/articles/CBMiwgFBVV95cUxPR2xoY2l5Q0RlbElxcHMzSE43NmxxYmhNdVI0RlFtdjhBNXZkS2s3MXY4WjB6eG9Ja19iNjY5cDVMdGo3aGpKNGNic3huNUt1b21Wb19wZkVrUkxnVDI5X29nc3FaWVMyWHc4RGEwUVRrZHhDbmVWSEd2S3BaSHRobENpRTJDSXhtbmV0NVVrNFI1MW5LZGV1X05UajBKRHVfVnQ0TlluVElpdEMwUWhBZ1hEOXhqb2ZXX3JKeXlaLVBZUQ?oc=5
+- **Source:** IT Pro
+- **Published:** 2026-11-25T11:50:44+00:00
 
-## Microsoft initiaties ‘Code Red’ after most disruptive outage in company’s history: report - New York Post
+## Microsoft Declares "Code Red" After 24-Hour-Long Outage - 80 Level
 
-- **URL:** https://news.google.com/rss/articles/CBMi9wFBVV95cUxPdjlSYjRjT3I2YlV6cXB6aEZDbjdrYlRQSUlKM2Ixc1htYmcwNFpfMUtZTG1Pd2hVU1RmWGxtMGVzZ0dOQ0JWWDBKMXl1a21Mbjg5RDlKYW5hT2NjNHBtLWVHaEJ5RVNjdTJkaXM3c2hWZlVxWENvSzJhV3pRUnF1dlZ3Ql92SURwYkdxVlZXeldwT21iMjRmZUhlTnh1MHhiX2F2bkl4ems4V2VQYlFOQVNXX0xmQ2E5X2FtdnR5M2lsNWNfSXFCN0NINTdMc1JYVjJpbGlCblQ5NkZKaVpKV21lMWRMajZJRHBZRlpjTW5MVVBzd2VN?oc=5
-- **Source:** New York Post
-- **Published:** 2026-11-24T19:32:00+00:00
+- **URL:** https://news.google.com/rss/articles/CBMiggFBVV95cUxNemN4aHJhelk0LVJrSkw1N0F3Z05NYnJVLXhrWEpYRXgxTTRZT0R3aGJZWTVjSmdmQWIwa2g0bElTOFlCcWV0SjBteTc1ZXlrS3pzWXhWTTEteVdHcW1idlg3S0VDMnBTWDdNVWQwbzMwZWJUWTliVEV2dU9pNFVVOUJ3?oc=5
+- **Source:** 80 Level
+- **Published:** 2026-11-25T11:50:35+00:00
 
-## Microsoft Flight Simulator Announces a Marketplace Exclusive: The iniBuilds Global Jet - Microsoft Flight Simulator
+## Windows 11 freed up nearly 900MB of RAM thanks to optimizations for Defender, OneDrive, and Microsoft 365. - GameGPU
 
-- **URL:** https://news.google.com/rss/articles/CBMiY0FVX3lxTE82SWtaMGV3VE1WdG5ncGdBNGNPMzFLUlFjUV90WHNnb2Y2RG93QlNPWjl3M2lQbVcwbm9VR09QaW03TDNENG9SRFJvcjUzZERKb1FnZ1k3bVZVbWpZMjZMUGM3aw?oc=5
-- **Source:** Microsoft Flight Simulator
-- **Published:** 2026-11-24T19:03:10+00:00
+- **URL:** https://news.google.com/rss/articles/CBMi4wFBVV95cUxQdFdiZVlwbm5WaTBsNFVvMERHelE4MzVmMTlLbThMaTVHU1pjcUY4WGs2V3h4TXJvX1FWeklfMUFCSTJFSTZMRXRZZm03NVV5c3JRRl8zX3FDQ1Nhc05OZ18wd3JnbnRlbkpiSzZnS2sxTjRSSmtnRTB6clQ5bXBnNzR2RXJoUlF3X2hLUl9NcGNGal9vaUZpUmNhZ3ZVVGFmTXhTY041VW11MU1KLXZBREVIa3pucEY0UGxzbUFKNWczVEpwbUtMemM4MmZPSlN5bEpYUEFaaTBDUUxjbnBmR2NGVQ?oc=5
+- **Source:** GameGPU
+- **Published:** 2026-11-25T11:46:50+00:00
 
-## Microsoft Declares 'Code Red' as Memos Reveal a 'Fog of War' During the Outlook Outage - Yahoo Tech
+## IBM and Microsoft expand Azure Compute Fleet integration - Yahoo Finance
 
-- **URL:** https://news.google.com/rss/articles/CBMilgFBVV95cUxORkw5ZW5PejVzN0JiSXFiMjBUMHVZbk5oc1RDSzZDV3NYY0k3eVZKRmtZUFhWV3ppVzJDdjcxR3ZZclRiUkM3Qy1hNXpBb05UUTFJblRyR1h2ajI1Wk1xYlplc1piNGRIVzlWRGE4LUtzN2tnWE84UzJuSXNhRzlnWWF4MnNud0l3Ti1YdFp6cFU4OFIzNEE?oc=5
-- **Source:** Yahoo Tech
-- **Published:** 2026-11-24T19:02:40+00:00
+- **URL:** https://news.google.com/rss/articles/CBMihwFBVV95cUxQNHVOaThMTjZtTE13Sl9iWk00QldFQ0ROd2lTWDNscnRyNG5TMEJ2RVNTRVNzeWtSWFNkWG96QURab1hSdV9zYi1GamtoMzRrRlluV1Q3U3ptN0t1VjBkOFl3YmFTb0VESGgyQXRDYkx6WEN3aWJWbU13MlFQNVMwcmFzOW5RV0k?oc=5
+- **Source:** Yahoo Finance
+- **Published:** 2026-11-25T11:43:37+00:00
 
-## Stop paying for Microsoft 365: Get Office 2024 Pro Plus for $40 - 828 News Now
+## What caused the Microsoft 365 outage? Brad Smith explains - NeoTeo
 
-- **URL:** https://news.google.com/rss/articles/CBMioAFBVV95cUxQT3VTSnUyemtSSXhPUEZiSUxjNzREU0ptZzZ6MXl4MS1iUWxxSjJ1Xy1pWDJJRWxuNGhVak5aekNOeFYwS2FjVVFLa2lqQ2dGQmViMVNydnhMNVdxblRlT0ZnTEVaNHI0SjUtZlBLWkdYakNwbGo5d1hUNzRTOEtDVHR5TExIWnRBM1pHaU9WQ29SLXc1VkdwZWI0Yk9TWXVu?oc=5
-- **Source:** 828 News Now
-- **Published:** 2026-11-24T18:42:35+00:00
+- **URL:** https://news.google.com/rss/articles/CBMiigFBVV95cUxQMFlpa1UtQ1BOYW1OV0xQY3RVVGdfNU1zbzdQZkRBZDFYVEZWZ2hPamtCUklBZGJxX2JQbXU4NHJ4ZWRUVXBMTjNWM3pzTVJ4eXVDMlJkcmhWT0U1MzhMUFkwbE4wV3ZHSERSaTZHalE3aUZ4UERodG1DUVozalo0ZkhtTU41eWNsWGc?oc=5
+- **Source:** NeoTeo
+- **Published:** 2026-11-25T11:34:24+00:00
 
-## Microsoft declared an internal 'Code Red' after its worst-ever email outage - Quartz
+## Microsoft outage: Code Red declared after 24-hour failure - DNE Africa
 
-- **URL:** https://news.google.com/rss/articles/CBMia0FVX3lxTE5fMThzbkZoTTVqZ0psb0VjVXBDN1ZIVHRJbkhadmI1aDVPdnFTV3ZpVS1MMEwyVlBSMExtd3liZndTM3pnY01fZG5Uem53Qmkxd1pmMnNtMFAxS3JZNEs2NUhhRDl1QXlSaVpv?oc=5
-- **Source:** Quartz
-- **Published:** 2026-11-24T18:34:06+00:00
+- **URL:** https://news.google.com/rss/articles/CBMibEFVX3lxTE9od1lxVHN0SzBVUFNqa21lYkZFbGdvMElQdzJ5OWNtUTZjSkVIU0dsSHV3ZG5yOHZWa3ZJZEswOWozWnJXZWlqZ19LUVRVU1JLcjctczgzcUZBc2xCMHlhTXpxTEg0dno2ejktcw?oc=5
+- **Source:** DNE Africa
+- **Published:** 2026-11-25T11:33:00+00:00
 
-## Microsoft is putting more AI security tools inside Teams - Windows Central
+## Microsoft declares Code Red after Microsoft 365 outage, targets one-hour recovery for global outages - ForkLog
 
-- **URL:** https://news.google.com/rss/articles/CBMiyAFBVV95cUxPRngyY1VBNDZzYkpLYmVLc0poMHN5a2JndjFnbEVvRFlxUi1rTHozaDZOZVZQdDR6SDBhLTd6QTlPVUtrMDNsbmw0NTNNRmFsMF95NlVsZ0ZucDBHQWlEV3kzdzRNRVU5TG9RaU9uWFoyQllKZGVUTFpHMTVBb05OS19xV1d6eVREcktpcS1zaVFUZEZaUHN5c25FdGJLamoyaXUxM0N4MGcxNF9XZjFjRmY2cFlWZ09BU0lvUUJmaUNfQVBhc2kxTg?oc=5
-- **Source:** Windows Central
-- **Published:** 2026-11-24T18:33:38+00:00
+- **URL:** https://news.google.com/rss/articles/CBMiwAFBVV95cUxPY3R6VEpSc1Q2Y0hJdVg1d1BMU0d1Vk9vS0JSdEVFdUNscVM5blUtbWVJMUJUV1FpU2RwVDZtMzF0dEowZmhxR0dKbFlPajUyVXdDdkU0V1VHR1E5Y2hnc2ZfUXJneGpIRURvMExKMmg2OHI0dl94WkJUdVJXb0czWjdtTGxGR2NkZVJfY2s5T3NnbUp6dEZ1Snp0Y085SUhOcnBuc2lYNDdWUEVPMVhhNk5iaHl5LThYTHczR1F1TGw?oc=5
+- **Source:** ForkLog
+- **Published:** 2026-11-25T11:26:19+00:00
 
-## Microsoft Outlook outage impacts governments, courts, hospitals and universities - ABC News - Breaking News, Latest News and Videos
+## Microsoft fixes Microsoft 365 bug blocking access to Office apps - BleepingComputer
 
-- **URL:** https://news.google.com/rss/articles/CBMivgFBVV95cUxPSk9KQ3dqNXpnb3pSWl92bU9QUkFGeTFwQzRzV19mY3c4TzJ6Y25XSHJVc040SDNkcGNJMURzRFUxSnhzcW1SV3AtNm8xXzBiMnZEQnhmcEg1endZY1hvMmNnUlhTYUw4bmFabXpDb2pDODJqYXBNSGdsdVppcXVuUjl2RWNHNDc2bGFLUE5SUkl2RG5RZV84dUFUamN1ZkdVRFdlUVBEd19SbHpiMERwWk4tR0Z4eTJ2ZXpWcUdn0gHDAUFVX3lxTFA5Q1pQWV9nZU9CcmhNTFNhaGhNQ2oyVFBybTcxZlhLSnlUeVMyckMxUlJuNW5lb3oxZDhfal9NVVJKS3VWZ0k5aC1rSG5PdGpHc0Y3N21pSGhtRnVOeDd6STlvWGZPRDVVUElNT05jczVpMFlaaGJrNDQ5RWhjbnlta1g5UllPYmdzU0tYYXFUazZuUm5KYWJKdnhuTXF0SmJTdzk0V0J0ZE5GUzlqLVljbXZZUnk0V2I0cFNaS1JrOUx2SQ?oc=5
-- **Source:** ABC News - Breaking News, Latest News and Videos
-- **Published:** 2026-11-24T18:30:43+00:00
+- **URL:** https://news.google.com/rss/articles/CBMivwFBVV95cUxQWWRBM3VHMkNieTBmb1VfNGhzQ3h3b1NDZU1WTDI5ZklCVTQtTXB0Vks2UXd6UFhFS2VvZVNzdV9uSlZuazJYMk55WE9VZXlNamYtUXpmdDFmbjZoRmpPZk1RQVFlOXh0YWpObFRHX0ZfVl9kN09VYV9ZVGZ2aXczMWlwQi1ubl9uYVEtN2lOaHlNVEdNWXBvdWJPaldZTW5pd0FUSFhSNnFmS25LZ2ZIZUplSFJFNWxBMkJqcUlWY9IBxAFBVV95cUxOWHdBaWxwbWdMSlFUYXBZT2UzT3VCeFMtR1NSZUxCb2lhN1plVW5lajM3QUI2TGIyLVZBR2s0bWFmMnNfVFBBWXZSR0NPZGhuQTZQcXhIZm9mdlpmaEJ2MTl6T0EtSEl1bTRrSXZtMFVEUVBDZWVpUlBCbkVvZUJ3Slc3YzM1OTh2a0JINnA5cVBzSHJ3U2VWaVhjVTBmM1E3b3ZiZkkxOEFPY1BwS0VWRklsdmFJcjZNQlJpbHI0RVkyTHpI?oc=5
+- **Source:** BleepingComputer
+- **Published:** 2026-11-25T11:16:32+00:00
 
-## Microsoft Declares ‘Code Red’ After Historic 365 Outage - Yahoo Tech
+## Microsoft declares “Code Red” after huge Outlook outage - The Verge
 
-- **URL:** https://news.google.com/rss/articles/CBMimgFBVV95cUxNTTBJMnJtNUdrM1RvWHNvN2g0WmFkVG1rVGVjeEFzMGZUX2l6cGRSV2VMVDA5Ry1sRWJSbnFacWhnY2VfTlU3RzNjRzlfRFIyUHBoM3dwN1N1b3ZpZlRkTDVRZWlQWlhkT09xdDZ1ZzhiSjV3SWYzamlJUnhHdTZTdnhWZ0ZOdFh6VndUQmZNdXRnWWhSOEhtQW9n?oc=5
-- **Source:** Yahoo Tech
-- **Published:** 2026-11-24T18:30:09+00:00
+- **URL:** https://news.google.com/rss/articles/CBMie0FVX3lxTFBuZ3V4djdZdnFvWXFyZGVFNEYxTTBybmRvMVB2VlRQV3NjWGJaUm9jamtUSHpCYXhiN0VXMFdyOHdycmdWZGQ4ak1abUtBOWc1QUZzMU5IWVptcmY4U1NEM1NFcGdYUUlrLXFFdWN0OHRadWNORDc2cnZpQQ?oc=5
+- **Source:** The Verge
+- **Published:** 2026-11-25T11:12:42+00:00
+
+## Why the Blue Tsunami may help Microsoft - Computerworld
+
+- **URL:** https://news.google.com/rss/articles/CBMilAFBVV95cUxOeWFUbDUySXc0aXZCSlJ1ZUNMaTdzNHVUV3Q0ODhYVVhfUW5IVkFueHZGSkd0LXRRcUxLTXFtNDlETE8yZDBHZ2NpRm8tMU9XMmJYdjM0YWptTTdUNkxuRzEwclAwM1hndm8xaG5YdFFDdnJSVWp0X2ZfQTlsUE15SVg1MFJhZmdMYU1XMFFrVVpER1ox?oc=5
+- **Source:** Computerworld
+- **Published:** 2026-11-25T11:03:59+00:00
+
+## Microsoft Updates Ad Campaign Management API 11/25/2026 - MediaPost
+
+- **URL:** https://news.google.com/rss/articles/CBMiugFBVV95cUxPRjdCcUNRRGZrb1BVdWtwc2FjZEUzanc5YWllQ0N0LWtBSnFFdGs0R0JWREJpd0JVVE9YZnBwNGhDdlNyMzktVTBIRE1Eb2laNGFjOEt4a2pPZHVjSUN4N2F0WEdBSlR3SFVhWllnUF9meWVDLXNYY0dSTG9xTWFnWmlTbTA3LVEzQ3hyazF2WjNkNncyeEtrdGxVT3Fmd0FJN3U2aFdVVE5DWmtiYWJuMWNtWXJJa1phR2c?oc=5
+- **Source:** MediaPost
+- **Published:** 2026-11-25T11:03:40+00:00
+
+## Microsoft’s AI Push for Post-Quantum Security - eWeek
+
+- **URL:** https://news.google.com/rss/articles/CBMif0FVX3lxTE9mdG9GYmpEdmExUE54MWdFZEp1dHFFSmNadW9CSDJaNjBSd2h4YU9KSmMzTGxpX3IzOVJNcWZYelBTSzQxNzJraE5ZSkpaaElIMzA4WmxfZXpYQzVxZkdqWEw5Vld0UVJrQmlleUhaVWZBS01oOW1FR0U0bFRfUUk?oc=5
+- **Source:** eWeek
+- **Published:** 2026-11-25T11:01:20+00:00
+
+## Hundreds of Fixes Every Month Won’t Save Us: Microsoft Predicts New Large-Scale Technology Outages - Root-Nation.com
+
+- **URL:** https://news.google.com/rss/articles/CBMiqAFBVV95cUxQLUJSUUFSczdNSTJ1cmJ3YlB0OFo5SnBuVS1TQ2ptS2V6T3ItallCaGg1ZXdlcEFpMERmUlhmeGJzdjk2TDFDYUMxbjgwSzNVb2QxTTRqLUpkSWpqSGtHUTIyc0ZkVmdMMTI2ekgxUFl1RFBkOHlNMTJnUVdEN2dtYjctX05IcmRXYVJ4bHVqa21kNmRFWnl5aFozeE9nRF90aHYyY1ZFdEI?oc=5
+- **Source:** Root-Nation.com
+- **Published:** 2026-11-25T10:38:37+00:00
+
+## Donald Trump wants US companies to build data centres at home, Microsoft’s Brad Smith points to… - The Times of India
+
+- **URL:** https://news.google.com/rss/articles/CBMihwJBVV95cUxOWGVSQlVqYTJNVHhkY1FFTFROWnVZQ1pUcUpNVlBXUjYxREFwdlZfV0luRDJjcjNGUWw3Z084bWZhVkNXaTlVYU43OFNSMUlDMGdadmtMckdNekRWN0pCczlSeWQ3NmJVYkRPdy1Xa0hZYWVGT1IxSjRlLVFxNWxZcjI0eDAyUHdRNkJfaHd5UFltNUVQc0FPUHpHZEk3UFVkU3BLRXlSbTF2SVpSZDg1bVh5QWNHSzRsLXBlMTdEY2pyMUQ4REFrNEVWQVdkWi1LNHBzX0tVLXlsMTJ5UUxNN0lNQVBFT3hfZVI4UDBEaEx2QWVXMG5hWC1ISlJTeXZnWmEwVjhNTdIBjAJBVV95cUxOMEs4U3dxekpMaGhiay1teTRicU1UeFZzWTljMFF1alV1blJqRFFtdXJMSnN2WS1oUjRSa2s4My13S2ZqZWdJOTlrZV84bUtqMEUxYVpMdXVmOTRTd2NfM1l5b1dRX3V0ZHVHcFFUNEgtaW9VbmlCWHBIdFBsMDRnZVZtWWFPWkZCWUxmZjB0YVlpN1QweHVkUjF5Xzc2b3lyNUNUUGhzRXFYUWtXYVc4ZUsxX1Vtek1fYVNvZnB2UWtvUWVSZjlwcDJJOUZJa2FELWZlcnNwMkgxT0Z1clZQWUJfNGwtWU1YUTFSUzZJTU52T3otUU1USXVfa3N5RTBtWU9OT2tabG13dTR3?oc=5
+- **Source:** The Times of India
+- **Published:** 2026-11-25T10:19:00+00:00
+
+## You Can Now Play Pokémon Fire Red Inside Microsoft Excel - Retro Dodo
+
+- **URL:** https://news.google.com/rss/articles/CBMihgFBVV95cUxQc0Fkb0xWUWxSMDJOM1NoOFNlREVHTDY1NmtXdWU4S2oyT3k4Zk5xcXZJekhZZG9sUFZKM0pxaHZCUUJnZmdiLXBSWThzVEJOYVZtekVHMGdyUWI4VFFNQmNYVl9PYUQwd1NvTUxFQ1I5bUZjMEVNZ1VrQlVMcmZHemdIRkNFUQ?oc=5
+- **Source:** Retro Dodo
+- **Published:** 2026-11-25T10:16:01+00:00
+
+## Microsoft declares ‘Code Red’ after disruptive global outage - Silicon Republic
+
+- **URL:** https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSTdfNDVzU2lMMTVaUkFXM2lsUnVHVFpHWU43U21lbHJISDZ0SWtBOVNLaTF3ZUw1ZnJoWXg4WXEtZGM1MTlhRDlPdzlGaDAxVkstNjJiLWh2OFJmcFV5QTh1VEJ0WWFHMGNvTU9Cc0kzMlVlazk3TzFKRFZQTG1tOEpmZDZsaUJYMFlfcXVwUlpmTVMzQk5FNlphcE5RVHZlUVNvQ09vTWZLQ0U?oc=5
+- **Source:** Silicon Republic
+- **Published:** 2026-11-25T10:15:35+00:00
+
+## European search API staan fills gap left by Google and Microsoft - IO+
+
+- **URL:** https://news.google.com/rss/articles/CBMilgFBVV95cUxQMWZWQzE3LUNPekc4TUttMG9raEdadUN3VGh3VzQ2V3Z4UkdwdjlYYkRZZkdsLWRMZFB2RzlxMmZNalFKeGxqU3dNeHc4MFJ3N3VGLVo3RkJuTkx6NmFqY2NfLUVMODY0YWRCWTRLRmFBdDN5UDZRcW4zeThXTUpkbWRFclk2VnFfZGFHSjREbFhXaDlGUkE?oc=5
+- **Source:** IO+
+- **Published:** 2026-11-25T10:12:11+00:00
+
+## Surface RTX Spark Dev Box is a 128 GB desktop for local AI - Tbreak UAE
+
+- **URL:** https://news.google.com/rss/articles/CBMiYEFVX3lxTE01UlBkZ2RWYjFWeWtaNFJvMENVY2FCUXh3VUgzUDQyRm8tNGEwT1M5SXc3N2JSOFd2b25ib21LRzQxVHRqb3YzbXVMRzFSZ3p0WlhlVGtkTnpOUXVIaUFHSA?oc=5
+- **Source:** Tbreak UAE
+- **Published:** 2026-11-25T10:04:00+00:00
+
+## Microsoft Declares ‘Code Red’ After Lengthy Outage - Silicon UK
+
+- **URL:** https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdDdwSDcyWDlBaE1wcFFkTm1yQlZYMlFmdUdDaEIzZWVaM2RIX05vNTFla1dqYlV1NmFNcUEwMDZsazVvTVNETEE0cFlsWkxGNmlWRjFWN0lKamJQZXdpMDBsTWQxaDRMQ2FFSXV1d2VscjdrXzZ5WWFFZy1JZVVaVEszLW8zU0V5?oc=5
+- **Source:** Silicon UK
+- **Published:** 2026-11-25T10:00:46+00:00
+
+## Microsoft Declares Code Red After Its Worst Exchange Online Outage, Memos Show - Technology Org
+
+- **URL:** https://news.google.com/rss/articles/CBMipAFBVV95cUxPV3FaVXNjeEtuMmVORkJWWk1YaEJKTnR0VG41ZkF6cl84c0IyZUlYS29SVGdrVnR6SnZheWRKV2tOVUViVEhCSzNndlkzUHBRMWZJZ3VjWmZhM0s2OUVTaDlKT0RuSU5kbEJSYTVkT3M5cjE4M2YwQlI0eG1RejViN19CczdIRkZiRkhGRndPUEFBSE1ZOHZiMm1ZZGlVSUpvV3o2TA?oc=5
+- **Source:** Technology Org
+- **Published:** 2026-11-25T09:46:00+00:00
+
+## Small Changes, Big Legal Questions: Microsoft Updates Its Data Protection Addendum - payment.technology.law.
+
+- **URL:** https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbF9EUEdrNThOVVcxVXkyQVR4aFItc2VRcWJ4VkRrRk5kZnZUUzdkSWVUM0N1RkpXalBqdHFRcWlRU0JtbHRpSmRyM1QzTHFaMEtLdTNObUFRamc4c19jcFN5UUIzWmxoY080RU1VVmJPbEtQY0YxN3dvYnRpbE5HMk82VnBzLU9NalRIT1NNZUh6Tm8yOTA4MVVETExnZE92dzRBTmFZX25ZcFU?oc=5
+- **Source:** payment.technology.law.
+- **Published:** 2026-11-25T09:40:23+00:00
+
+## Microsoft confirms authentication issues after November updates - Mezha.net
+
+- **URL:** https://news.google.com/rss/articles/CBMilwFBVV95cUxOdmxhRktfMEhmMGg2T2tqeldGakxacmRKaGhOT25rTzJ0Si1qZGlnaDlMVHVLNm1ZR1RvUkE5b3NYVkh4WS0xempKUjYtaE5IS0t6N0RXcTVtUjFRZ1JZbG1NZTNXZThELUF4VVd0dkVZMkpkeDZUZy1rN2hWaXBmdDFIeVp4NGFNdmdUQTZDVGpoMjRod0VB?oc=5
+- **Source:** Mezha.net
+- **Published:** 2026-11-25T09:09:41+00:00
+
+## Microsoft confirms authentication issues after November updates - BleepingComputer
+
+- **URL:** https://news.google.com/rss/articles/CBMisgFBVV95cUxQYi1qUnJjSDE3LVdTUXpnNl85enhWNHJNS0lWZ2pkU0dKaUh1ZVl1LWdaZkN3ZGxyeGxpYlRRZGhtUWJBc3RmTlpISHZ0cTMyT3FicFVZd3ZKTkhFdTBzaWlleXdMSXlIalg0cUEzVDhpSUs3OThZNlRJNHhaUzJ5cVRZNE1xSXkzWDR0Q1lWMDlfWjFFOUlOWEdVNkpJUy1HZk5Yc2hISFVGMUxOczdSXzJ30gG3AUFVX3lxTE9SdFFONV9SNm51VEg4bC01U2d3ZVBfRmJUV0UtSVJtYVdJUjAxNXRfeVhla2RycDZHZ0s2VXBkbVVFOTk3SFFMRFBZbjZLR3N0QU1EbWpZVENWc0Nza2k0VU9DQjUyTjZwblE0eHlzRk1nUTdITEtpcm9rOU5ja1BZd3NLOXhWVk5MZXRVSUpzZlkxSWE3dEhuZ24waGFyYVl4Ym5HZS03akhpdEdvMVlXYmlGOVhYYw?oc=5
+- **Source:** BleepingComputer
+- **Published:** 2026-11-25T09:02:57+00:00
+
+## Danaher and Microsoft to build AI agents into laboratory instruments - Labmate Online
+
+- **URL:** https://news.google.com/rss/articles/CBMi3AFBVV95cUxQMWJyTFoxYTFwSnBtcHhsYlFGcS1kdUpackY4U0lRQ2d5Q0NfcEFGVEMtZjQzYTkwODV3eC1XbmVTVkJpbEpaWDhXWnpaMFRYcldwQmNLOHN5TFA2T0xac0dDSkdETm5hcV9Ebjl6a0tzYnMyalJIRnBiaG8xeENMU18wM0JKUkZBTkE3WkxOb1VOdEx0OGdFUWNsQkFMLWNGWW1mNDBXaVBVTm0xZ2FyS0RMaWNqTWZfcDI5NzFYU2lMVXlxRGpKS3owZ3Vya1I5bzdKLW96UlQ0QVhL?oc=5
+- **Source:** Labmate Online
+- **Published:** 2026-11-25T09:01:01+00:00
+
+## Intel Wins Microsoft Packaging Order but Hits '35% Yield' Wall in Bid to Enter Google TPU Supply Chain - BigGo Finance
+
+- **URL:** https://news.google.com/rss/articles/CBMidkFVX3lxTE5OcjQ4MlJ4V2EwcDBMY2pyU0djRUxmMmtJS1JzZWNtWmFOWDNOaTVTUjZJMHRnRGhmdXJWRVJBVjRPMnVEX0FKdXZxdnZKWVhoTFRfdWRlNkxVbkUwMmNPTTFDRzlvZ1pLazlpOXphLUVuVG9IWFE?oc=5
+- **Source:** BigGo Finance
+- **Published:** 2026-11-25T08:56:00+00:00
+
+## Microsoft declares code red following historic outage - Techzine Global
+
+- **URL:** https://news.google.com/rss/articles/CBMioAFBVV95cUxQbXRNVzJHZW9NbDdVLVhGR1otSHp6RlFUYjUxci0zN1FsRy15Z2dLZGxVS1p4LWJhUVllUGh4S0p0Z1VKMHpzSXhnUG5PNzR3Zkw0NFdfOXp0cmM3bDF3OVZYS2hzUGdYQW5PZVphSG1MZ0psdXM2RUNmWlJQWXBvTDNDaVZlVnp3VHg4SGhyQ2EyWE1xdUhMT0UyS201d281?oc=5
+- **Source:** Techzine Global
+- **Published:** 2026-11-25T08:36:14+00:00
+
+## Microsoft declares ‘Code Red’ after 24-hour outage disrupts services - Free Press Kashmir
+
+- **URL:** https://news.google.com/rss/articles/CBMisgFBVV95cUxNeXYwUHlUa0dRRzVuUzV1RklWRmJjdDFCVnNaRnBLbXZWOC12WDdMdGx3SUhFTjRObFg1YXJLLTlna3E3WTRjeVVpZVJhVHZYRmtKaVBvSmsxdFZTVkpHWldDVFZCN3ljSGkyT3dwbVRaWFFPeXRySmxXc3o0dWRBOVJvT3g5X1lURlRsSGw1MjFvckthZ280M3dvUHJseEQ5WmRTSm9LS0x0bXFURklwT2JR0gGyAUFVX3lxTE15djBQeVRrR1FHNW5TNXVGSVZGYmN0MUJWc1pGcEttdlY4LXZYN0x0bHdJSEVONE5sWDVhckstOWdrcTdZNGN5VWllUmFUdlhGa0ppUG9KazF0VlNWSkdaV0NUVkI3eWNIaTJPd3BtVFpYUU95dHJKbFdzejR1ZEE5Um9PeDlfWVRGVGxIbDUyMW9yS2FnbzQzd29Qcmx4RDlaZFNKb0tLTHRtcVRGSXBPYlE?oc=5
+- **Source:** Free Press Kashmir
+- **Published:** 2026-11-25T08:31:07+00:00
+
+## Microsoft Declares ‘Code Red’ After Historic Outage, Internal Memos Show - Arise News
+
+- **URL:** https://news.google.com/rss/articles/CBMilgFBVV95cUxQN1ZqNlZ5VndKR0duVEM5bFdqcjRLUi00eEJYRFlTRndQYWZ0VF83NzZNTzQxa1o2ckZnNmhxc3RUblBuVDg5SDJpbGppWklHaFRkSll6d0V2US1mTHBNSUZLUzl4MEkxNnFFSERJOEthZGZDMThhOVpDT1FMb3l1aVo1SUF5M28xNDN5SVRjWjNVVFByNHc?oc=5
+- **Source:** Arise News
+- **Published:** 2026-11-25T08:09:51+00:00
