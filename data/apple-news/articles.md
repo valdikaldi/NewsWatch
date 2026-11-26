@@ -1,8 +1,74 @@
 # NewsWatch — Apple News
 
-_Last updated: 2026-11-26T13:35:56.789993+00:00 · 50 articles_
+_Last updated: 2026-11-26T22:50:14.343920+00:00 · 50 articles_
 
 ---
+
+## AAPL: Apple defined, key history, primary product lineup - 9to5Mac
+
+- **URL:** https://news.google.com/rss/articles/CBMiR0FVX3lxTE5YT25nRDV2WDBrbkJNcGEtUTVaMXUwRUZiQjFPWURPanYxM0RaRE9yblZHZFJMbmpWT2FmaXhCanlyWFNwM2ZF?oc=5
+- **Source:** 9to5Mac
+- **Published:** 2026-11-26T21:09:13+00:00
+
+## Diluted net income available to common stockholders of Apple Inc. – GPW:AAPL_C - TradingView
+
+- **URL:** https://news.google.com/rss/articles/CBMimgFBVV95cUxQejVHYnhESWtzWTRldV9pTUhXNS1tcHpERTRSM1pmWmUxbkdMbzJyYVY2aUd0b19WQl9hXzdneXdlWTRSVnZrS1JlS3Z1VGZpeEhYQnRWcFpJQkVqdC1Fcm5NQXhGV25tX1k1NEdKcjd3Sl9uOXYxOWMxZll5dWdaS1NQTzZlUWhrNUM4Q05pM2J6Z1NCVEdiN2JR?oc=5
+- **Source:** TradingView
+- **Published:** 2026-11-26T20:37:14+00:00
+
+## Thanksgiving Shopping Is Going Mobile. Apple and Amazon Could Benefit From a $4.4 Billion Trend - Benzinga
+
+- **URL:** https://news.google.com/rss/articles/CBMiogFBVV95cUxPV0dYaEhheDlCQVBKVHN0bk9WazFteHZNUGgzcjlaUjh2aVZtMlBVM3RrNGwyVTdPV0p2c2NHMkduWVZ1WmdvWlhfTHd2a1NnX195TV80UEE3dmRRNkFrWHVHcnhhVnBzek5aVkNZZVNqdUJQQVFDWVpmcE5OXy01VENzLTRqNmhBSWtVOHE2cWxTRWVuYUVGbmUtNG9xTDZfcmc?oc=5
+- **Source:** Benzinga
+- **Published:** 2026-11-26T19:45:05+00:00
+
+## Cash flow from operating activities of Apple Inc. – GPW:AAPL_C - TradingView
+
+- **URL:** https://news.google.com/rss/articles/CBMinAFBVV95cUxQZ1VZQl9JTTZyem5EYTNyNnVNWlZqQy1sazZtUUxxOTNQM0l3M3N4YkV1WUNyYlZ0UTU0M2djZFJIWFVTZUk2Uy15UWdBQVpjZ194U1hjRFBXazNfeGxFRHVsUTFDTGU5MTJXaVFYbWF4elk5NWVOMXhNYTh1a0ZhUzB5TFNUd2duT0V2bVFUdkk1MjJOSUpOVmJ2ZTg?oc=5
+- **Source:** TradingView
+- **Published:** 2026-11-26T18:32:06+00:00
+
+## Apple, Exxon and Lowe’s Are Rewarding Shareholders Beyond Their Regular Dividends - 24/7 Wall St.
+
+- **URL:** https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNUpUYVFxQWNQdld1aTJCLUZROUVhOG5FT1dyX1c3eVoyNkF5OFBnV2ttNmNMakhlTXVKUU5QYnpRM0R3cmNZaktVWVhjTDhuZUp0MG5ySmgwMzlmaXBUMy1yWjY3MTVnQU85SHhEMXVlLVpiN3BYb3ZoZ19BVC1OTWQxRVpCQnpDajV2OTZmNk8yVVQzaTYyV1E0U0N4RUFlV0s1ZGliVk10dnQ1eTlKdzFVXzFpRW5NaEZGbG1pYlY?oc=5
+- **Source:** 24/7 Wall St.
+- **Published:** 2026-11-26T17:07:00+00:00
+
+## Total assets of Apple Inc. – GPW:AAPL_C - TradingView
+
+- **URL:** https://news.google.com/rss/articles/CBMijgFBVV95cUxQREJZQ1R0YlpGcXBBV211Wnd6OWVQM05Lbld3QXVXR3N2eHpYVllpd09vTHBqN3JKdzRaYU1ERFlGWEszUGY3V2NrcDFNSTI3U1V0eDV1QTRLc05pVE9YWFB6RkJBTmIwV3RQQzgyeXM1S0xGcnVCZVlEdVg2NjRobUE2U2k3eEZ2dTZnSC1R?oc=5
+- **Source:** TradingView
+- **Published:** 2026-11-26T17:02:06+00:00
+
+## Cost of goods sold of Apple Inc. – GPW:AAPL_C - TradingView
+
+- **URL:** https://news.google.com/rss/articles/CBMikwFBVV95cUxNZ1g3T2h6aXlGN0hTTnluX2ZYYTlEeEtuTWd0eS1kYW1tU3FwaU8talZNTEotVldyOUlvT0d6TktWSDRwcUtCTl9tMDBIeTJ4R1B3YUdaZmJHdmZIYXFvQTliZlZPd3FQX29kYlpZU1BYWHdMSlVkNFpzeGxiS05GdVdIMHI1Y3ZsWW9zMWdabDhzUDQ?oc=5
+- **Source:** TradingView
+- **Published:** 2026-11-26T16:13:58+00:00
+
+## Can VZ's New Apple Deals and Loyalty Benefits Drive Subscriber Growth? - TradingView
+
+- **URL:** https://news.google.com/rss/articles/CBMiwwFBVV95cUxQNnVVMzVYcHFLVWZobE9nc095b2REMGxFeXJKcXlzRUlfTWNLVUhUazZob0ZQQ2xtdVY5TjF2SldxbHcyTm1PVWxrNHlVOUtjcHZ3QlNxYUdOY0REUGFlT1U4YllTMHV4OWV4QVZJUTdxOFh2NUpXVEJ0T2FxMXlXT1gxRlBzNTB5RGhDUXVqQ0xzbVpoaGRYWmNXSDNVN1p0RHhuMG5NaHRoTnZ5SjFHMWpyRkNvQi1EWWtHUWlMVFZlbUk?oc=5
+- **Source:** TradingView
+- **Published:** 2026-11-26T15:26:00+00:00
+
+## If You Invest $1,000 in Apple Today, Here’s What It Could Be Worth by 2029 - 24/7 Wall St.
+
+- **URL:** https://news.google.com/rss/articles/CBMitAFBVV95cUxPOHY3MXhYUHluSlVHSjRfOC1OLVd1b1E5NlU2Ym5NVGFETlRqRjJtamppcGs1R2JRRE9JZkp4VnBNckgtc0drYVhfQkZ1OG5kVEJzRXhJYnNjSlF2X3UxWDlTYzI4MmZXTkZjVklKTzBrYl84RldMUWRhTGtBTzlxakh5Mnc1T25fbXBRdnp4NElPMWtFeU50akhLVm80UzZ1QUhJMjRKdFMtMGVKTnBMNlJSUFo?oc=5
+- **Source:** 24/7 Wall St.
+- **Published:** 2026-11-26T15:03:00+00:00
+
+## Netflix vs. Apple: Which Streaming Stock Has an Edge Right Now? - TradingView
+
+- **URL:** https://news.google.com/rss/articles/CBMitwFBVV95cUxNd0ZMQjFnSjZsMEVzdjlMcVF6WE5jeTRMQWt6Zkh0NXRveV9LeDBXbS11Njc3VFJ1QVJqMFBlWDRWV2JJUnFfMWFwYXBoY3RsR193YkdYM0RKQkNPc0ZxZGFvM1VsbU9QRlZUQWNOSmZYWUlLek9FTXFKQjZHc2pxSjdwMTdMdHJ0dGJWM2V6bktNSUFzUkt3MzdVSFo5X2hld3ZjNjBqejNzRzNudm40M0g5RFZWWmc?oc=5
+- **Source:** TradingView
+- **Published:** 2026-11-26T14:21:00+00:00
+
+## Apple Faces $40 Million Fine for Misleading iPhone 16 Buyers Over AI Features That Took Years To Arrive - www.techtimes.co.uk
+
+- **URL:** https://news.google.com/rss/articles/CBMie0FVX3lxTFA4ZjVua1ROU2kxQ1A3N283WEpEU1g2NEpqNmFOOFZrbUZjNjY4OVpWeU52T3lESTdBbF85YTVaRDVnUkNfVncyWmxYcVZGSHpEemFVYVl3SnE5ZDZKNzBLaE9TQmpmcF8taV83TmpIMVRnYThjOTU4Y05rQQ?oc=5
+- **Source:** www.techtimes.co.uk
+- **Published:** 2026-11-26T14:08:57+00:00
 
 ## Apple: Not A Great Place To Hide From The Tech Wreck - Seeking Alpha
 
@@ -237,69 +303,3 @@ _Last updated: 2026-11-26T13:35:56.789993+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMixAFBVV95cUxOdExFNWNiOEVaRE9yaDdEMWRIX1VBSkZEVUdsT1JpTzhieHZLeW9NYUpvaks3R1pwMTg5VnR1MzlZVW10Q2l4WlFMXzl2TW05dEExamh4UGdhSl9rTUpJQm95SUFhSWJVOXBXdXJLZTZXbkQwT1RvODl1VVNMeDhvcjNkdzFyNUt2UHE1RUNJMGZiWjhjVVhGQ0sxQ2xxUVNKMGVUajdKbDZnRlBGZzV6VDh0Z29pbW44WVRRREVIdGJSZHVZ?oc=5
 - **Source:** MarketBeat
 - **Published:** 2026-11-25T09:30:26+00:00
-
-## TSG Advice Partners LLC Purchases 66,653 Shares of Apple Inc. $AAPL - MarketBeat
-
-- **URL:** https://news.google.com/rss/articles/CBMiwwFBVV95cUxQVURXc2pJaE9LMGx6OF8xZzZCVVczcWtUV3l0UnVFN0RKX3RTTjctR1VjWXhlUC1SUHY4Rnd1YVdkVi1FTTJWTm54em5VMVNSRk9QeVJJaDBudUIwMlN0UTc2clVQbXpwS0lyVVExSENKVFJ6eVVqdWM2WEgwM0dFamxqbXhFdmRkZ09iN1ZOOC1qbjFVV2JtOGV1dzZ3b3JrWUI4VFlOeTU4SG11OERSMTRiai1rU09ZdDkxbWZpYjFLbjQ?oc=5
-- **Source:** MarketBeat
-- **Published:** 2026-11-25T09:30:26+00:00
-
-## Apple Inc. $AAPL Stock: Trek Financial LLC Trims Position - MarketBeat
-
-- **URL:** https://news.google.com/rss/articles/CBMitgFBVV95cUxQMURLZmdNNVVjcW8yRzl0N1A5WFpfbGVNdm5sQzVHNkw0TmMwY1lEQXUwUXpJUkZLZWU3dTFtcnkwel9Jc3lHRTdRMC03T0RleDBONXFycmVyTW9wcXQ0N1ZteXRSU2VMV1E0R1R0Zk4ybk5CR1R6TFRSRmxmSk5vQUZuMnlYdjAxbUljSU1BTlhYX1c1ZkdWanpjMWMyV2VZWWRuc2VnX0VFSFFtS2VJblJaRUNVdw?oc=5
-- **Source:** MarketBeat
-- **Published:** 2026-11-25T09:30:26+00:00
-
-## Apple Inc. $AAPL Stock: Greenleaf Trust Reduces Stake - MarketBeat
-
-- **URL:** https://news.google.com/rss/articles/CBMisAFBVV95cUxPNF9oS1JPeE8yTDVTNVpFQk9JRzY5bHgwMHZCLUJNU080VHNuSU15RkluWVJtbVNuMkNldlZMVnZ4UWJPX3JGRWxlbDZRMXdUOVZuTi1hVy1OdEN6WEpQQ2hNbWJ5V0piQ21KVy1wZVd3d1RmZXNnNnVjdHJIdkQ1cmE4TnFrdkxBS2ItMzF4LUx2NlZQdWxiVnFEdml2VWxWMHg0X1UwbHFKUE1DdXpObA?oc=5
-- **Source:** MarketBeat
-- **Published:** 2026-11-25T09:30:25+00:00
-
-## Apple Inc. $AAPL Stock Purchased by One Way Holdings LLC - MarketBeat
-
-- **URL:** https://news.google.com/rss/articles/CBMitgFBVV95cUxPbmlUcHp3RmVRODJuRVBwX2VIeWhyOTJuazNWSjF4V0UyNUNMcmVWNTJXT1IzRlEtUm5xNW1ycnEwc3RXN2hzQXhpWmp3bV9zZ0xRb2xKa2l6MnVua0pvUTV3aHdpOUpmTmg1UGxxUnR6MEZjRnkxTWV3WUE4Ul9oQkJtTDF3ckJVM0FWVDdQanVsVU91RnhzT184UWx3UlMtVkJiOGJqeFJUZHVJVEg3aWlRUVNwdw?oc=5
-- **Source:** MarketBeat
-- **Published:** 2026-11-25T09:30:25+00:00
-
-## 1,922 Apple Inc. $AAPL Shares Purchased by Traynor Capital Management Inc. - MarketBeat
-
-- **URL:** https://news.google.com/rss/articles/CBMiywFBVV95cUxOTUpxUHJnYndOTVVheGUyS1hqNWZHWFpjdUxQRE5qSWVXU09QSDNuMlJzTWxUU3dyVlJpakxGNW80U0RqTnhnUkFwTVc5bmZMY3kxSUlwb3RVVmNqbjNGQXJFR1cxbEFhYU9aQUVPSVZLOERKenlFdTZSaE5feDRkSE1ULUJ4UFVUM1QwNk52MG1IaWNLVnEta05WME1QYk5PSVhvWjJoSDhYV2NXNktXNTdSeDNBeWRoYnQzbXk3WHdCVzdwUUR5bW9hbw?oc=5
-- **Source:** MarketBeat
-- **Published:** 2026-11-25T09:30:25+00:00
-
-## Apple Inc. $AAPL Shares Acquired by Nippon Life Global Investors Americas Inc. - MarketBeat
-
-- **URL:** https://news.google.com/rss/articles/CBMi0gFBVV95cUxNWnp0Q280eG9IcnQwbGtlS3o3WlY3MUZuV2Z3UlgwTmZPdElxYmh0RUNlMV9pY0dURGEyWkE3ODEzTnZPZDctYmJBWU1zYThwQUZvOVhqZmd6R2V0VUt2M0g3bjlyZFBPSHh3UjV1RlBpS2pfYUNPcU9SOGpaRE9ienFaenVnZUktbG4ta1ZxRlhaTERpZnBrWHJLQnFPRk1OdmZESmI5NU4wYnlVeHZNWnp4cFZtTk9obHlxRnVIc1pFYlpwY2hObi1aczM4LUctNXc?oc=5
-- **Source:** MarketBeat
-- **Published:** 2026-11-25T09:30:25+00:00
-
-## 37,135 Apple Inc. $AAPL Shares Sold by Heritage Investors Management Corp - MarketBeat
-
-- **URL:** https://news.google.com/rss/articles/CBMiywFBVV95cUxPS0FfbG5XRUVKRDVVSWRUaG5xTTE4ek9nbzlpN05LaGhxaVFZV0dHMGl4M1RHa0pCUmI5Vm5oZU9lVFpPSFUtcHBjQnZUZ01qNUNvd3lLWkZzRkdWdjBEY21LNk1DYnN0VVB5dnVwTllVeWdVR3pXMmNMVnZMbC0tdmJFaU50a0JYZ1dqZmx5Qy1pWHA3SlJHOXJKVzVDQXFtY0FmTTgzYjM0ME5XUGFHV2ptRUF5TXEwYmVMbWtrd0E5NndncXkzSnRLZw?oc=5
-- **Source:** MarketBeat
-- **Published:** 2026-11-25T09:30:25+00:00
-
-## Apple Inc. $AAPL Stock Holdings Cut by MeadowBrook Investment Advisors LLC - MarketBeat
-
-- **URL:** https://news.google.com/rss/articles/CBMizgFBVV95cUxQWENxVXkzVUxNYlBXWjkxbWVBRktNQWwwTHJKT0x3OHVMdEFxZGNiTnV1S1R3eDlxcDhlZF9yRHRySUp0cWVMWS1Bcm5qWWY3M0YyTm5KaFFOZWV2dGx3ZEJZQ1VMTjEwZTZwU2U2cm1YVC10X29STFNjbmxScU5DRVpCeXhwbDA0amRfTTdNcmctY3FhbGp4U19hd3B0d09ZNWtJaS1BV3p1eFR3VGdYUFp0Vm1RdFJTcDZfU3FaME1jQkw1THlqMmJURU1Qdw?oc=5
-- **Source:** MarketBeat
-- **Published:** 2026-11-25T09:30:25+00:00
-
-## Nala cuts ribbon on 99.2-MW Apple-contracted wind farm in Romania - Renewables Now
-
-- **URL:** https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZFRSWktrZVNKNGFrRDloamhUWjhpZm9leFhEUVlKaVlaZ08yVHdBU0ROWkJsU3BndUE5alJBYWR1NGtvRGVEenQ1bHBJd3Z2bWpmWWJTT1I5ck9DMVpHZGNvUk9CaG1YZG5zRklZY3VtdVRGeVJ3MWFPQ0doQnlrR2NGS0FGRGNTaXU5NUs1MXpyMlVFTVRCaWsyLXNzZmpSU3laLVM5YTc?oc=5
-- **Source:** Renewables Now
-- **Published:** 2026-11-25T09:00:02+00:00
-
-## Apple Inc. (AAPL) stock price, news, quote and history - Yahoo Finance Singapore
-
-- **URL:** https://news.google.com/rss/articles/CBMiUkFVX3lxTE5pbUxLdFVNSjJfVjFOUm9UYmFBYUVBRmV5Q3FJU3lfblNtbVNvZjI4N1hEdlVtTnBMYWRCMi0wUTVTUGdxMUhDb0plLWlmcWdqMEE?oc=5
-- **Source:** Yahoo Finance Singapore
-- **Published:** 2026-11-25T08:57:28+00:00
-
-## Apple Earnings Date: When Does Apple Report Earnings? Time, Results History and Stock Reaction - MEXC
-
-- **URL:** https://news.google.com/rss/articles/CBMigAFBVV95cUxOUnFlQWRjLURnVTVWX0l5dU00STdtd3NtdnFaTHpNenBvSWtmcXVqX3BUYnZLa0Y1UmVaa3BUaS1zWm5KZ3FDOXF5NDdmM3RLWG1uWDhnRWhDVDdQczFtS09yUGtfSjlNdDRBaUo2Y1htZU9mTVdkcWVoZVBWVzc0YQ?oc=5
-- **Source:** MEXC
-- **Published:** 2026-11-25T08:49:23+00:00

@@ -1,8 +1,56 @@
 # NewsWatch — fusion energy News
 
-_Last updated: 2026-11-26T13:35:58.264689+00:00 · 50 articles_
+_Last updated: 2026-11-26T22:50:15.648175+00:00 · 50 articles_
 
 ---
+
+## Munich Fusion Startup Starforge Raises €6.6M Pre-Seed to Mass-Produce Reactors in Factories - Wowtale
+
+- **URL:** https://news.google.com/rss/articles/CBMiU0FVX3lxTFBQVnJVMWxVYks4R3o2YkxpWWpna2hoZ0FWaTcwRHhXMmprMDBMT0lnU0VDZ0lwV2pDanlvYTFWYTJ5UklELXN3ZHdGenhVQ0FuRW0w?oc=5
+- **Source:** Wowtale
+- **Published:** 2026-11-26T21:22:48+00:00
+
+## Pacific Fusion granted radioactive materials license for fusion facility - The Business Journals
+
+- **URL:** https://news.google.com/rss/articles/CBMiqAFBVV95cUxPS25oSGRDNjRlMjB6MnlKdC10YXN4Y0ZITFRUMXg4RnRIOGpRdWtCQTdqa0ZEOGFUVENVZXpaNEdReFQwWFdUdEFMdTRyMUswUEs5UG41MkZaZUxPeEhnWUVMTGpwck5UN0NLbmZ6cC1SVmJubFljWXh1c21JZ0NZcHVwTW1pZGhVSFlkS0ZwbFBibXJsZkxmcTFVZHRMcGpPbExyRW50UDQ?oc=5
+- **Source:** The Business Journals
+- **Published:** 2026-11-26T19:00:00+00:00
+
+## 100 million laser bars: Germany launches project to power laser-driven fusion plants - Yahoo Tech
+
+- **URL:** https://news.google.com/rss/articles/CBMijgFBVV95cUxONVVORHBCUWhPMVVfOU1UY1JpX3lkRkxBS01ZRW5qVWo1aGZzSWRlWnFKTGd0SEV6emgzeUNXSEhQNXhraUJTenJydnVGWG10aXNNOEdqdTFXb2JZMHN2c1pIN2hVS1ptN014YmhxbWt2aHNxMXBlYVMzbUZxQTZDcDJEbVJYTkFsMFZleTlB?oc=5
+- **Source:** Yahoo Tech
+- **Published:** 2026-11-26T18:47:24+00:00
+
+## Fusion Startup Starforge Wants to Sell Reactors, Not Electricity - Business Model Analyst
+
+- **URL:** https://news.google.com/rss/articles/CBMihwFBVV95cUxONkg4NVNjdWJoWXlhOEhfcDBSTGJjMmZYVTE4bDBnYjFpQlBycGd5V0xrTjNKQUlQRXVkMXF6ZFFjQ3l0eEd5WVREcUM0cFp0OVZ3VUh2a0VkeEZqTDhzT1B6ZXNpeDF1RUkzSndFZHQ3LWt5c3Q2eG5NZl95c2hqZEpwQl9OUUU?oc=5
+- **Source:** Business Model Analyst
+- **Published:** 2026-11-26T17:17:33+00:00
+
+## Japan’s Nuclear Restart Programme Hits Snag With Delay At Kashiwazaki Kariwa-7 - NucNet
+
+- **URL:** https://news.google.com/rss/articles/CBMitwFBVV95cUxQSkFFek03WFQ5elRibWhtRkZGS1hTZ2VSZDVzTlJ6QUd6STlZaE1FN3Nwc2w0T09GeUpXSm5mTmJQa2ZSTzBkdkh6dERpQ3I1LUp3YlRXTWRLQ3Z4TTFOcmxFSWFUM2dvTGNmYXFwdE9CdmxBdlAtM0h2b0FMRnUwR2hGSnVKR0ZqbVdkbGVGVzFmeTludmlVSlpGYXR2VUhCVy1ud0ZSaERyQnFoWS0yMFpES2RENkk?oc=5
+- **Source:** NucNet
+- **Published:** 2026-11-26T15:35:54+00:00
+
+## Top Cleantech And Energy Startups In Sweden To Watch In 2027 - TechRound
+
+- **URL:** https://news.google.com/rss/articles/CBMilAFBVV95cUxOQ2w4Q2RCaGJkaUpwS1F1WXdGalBkRDVjLUcwSmNxdGNkekRxdmhEQTZLY2R3bmRIU2pYZ1h3bTVsZTFDZG9rbXlESzZIV0tPWWNfNmdhRHVfeDhhai1kXzgyNlBQY1Ewd01vQ0kyODJQcGdObWlRZWtrQlBPdEJob19kTHMtNnZqWjF0OHo5QVE1bzFI?oc=5
+- **Source:** TechRound
+- **Published:** 2026-11-26T14:40:47+00:00
+
+## Japan's METI awards Kyoto Fusioneering-led consortium up to JPY 23.3 billion for tokamak fusion power demonstration - Energies Media
+
+- **URL:** https://news.google.com/rss/articles/CBMickFVX3lxTFB2QzlvbVlRMXcxOHFyVmJOd3dYX0RRVnQ4c1ZtdzM1cEdnTUlWaXZSWE1GSjdvZkh4LXc2NDJSZHpKQk9TLTBkNGIwQVZaRENsWkpnLW1MWFFYcFpfZXpaTno2NjluWkw5bDFHSF9TLWg0UQ?oc=5
+- **Source:** Energies Media
+- **Published:** 2026-11-26T14:37:20+00:00
+
+## Will the Democrats defend US science against Trump? - Science|Business
+
+- **URL:** https://news.google.com/rss/articles/CBMihgFBVV95cUxNeElLWWdIeE0za2NJWlNWQ1g2V29LNWlqbGVXSUlYckNlandodDhQYzM1UDBJcll5WlpRUk5sczF5YU1kS0tnbnptdktFRHZ6Q21jbEpEV0Y4R054LXJ0LVVPNGJiaWlRd1BFWmNtZlFVYlJ1cHgtNS1zVnFzNGx5VHRiR3NZQQ?oc=5
+- **Source:** Science|Business
+- **Published:** 2026-11-26T13:43:43+00:00
 
 ## Soviet A-bomb birthplace to help Uzbekistan build small nuclear plants - Kursiv Media Узбекистан
 
@@ -255,51 +303,3 @@ _Last updated: 2026-11-26T13:35:58.264689+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMimgFBVV95cUxNV216SzJzVEZ2OGEzZUpaUWU0eHhiMTBucW5oLTFSYnVDbi1LNVBCT0h6Q3UxeEU3UHBJNUxaZVpRdUtJVFBWNVRnV0NLTlQyWDhYZF8xZ2tXdXpDLXd3TG4zYXp6MzVGVmpNUnJITk45bUozMzRTRjdXQTBmYUpfQjczN1RVTjUxa0tlZlNNb2N5dVplQ3I5NjFR0gGaAUFVX3lxTE1XbXpLMnNURnY4YTNlSlpRZTR4eGIxMG5xbmgtMVJidUNuLUs1UEJPSHpDdTF4RTdQcEk1TFplWlF1S0lUUFY1VGdXQ0tOVDJYOFhkXzFna1d1ekMtd3dMbjNhenozNUZWak1SckhOTjltSjMzNFNGN1dBMGZhSl9CNzM3VFVONTFrS2VmU01vY3l1WmVDcjk2MVE?oc=5
 - **Source:** The Hill
 - **Published:** 2026-11-25T20:21:30+00:00
-
-## Wildcats, Fusion ready for the challenge of upcoming hockey season - Pierce County Journal
-
-- **URL:** https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZjI4MFV5NkkxM3k3Mlh0VTE1eTZ3QkFEOEoxamdkdi1DYXlobG9SS2ZXOGNRb1hiVDFVSDNNNTNnNnZqYU9WRXNEdTA5M2paSE5YSjFEdENPM2Uxc1NYdkFOYnI3S1hwZkJmQ3BBbEo2SER5QXBKTlJISTF3YXZJU2lYdTBkaDBZdV9OYzVZUFl5RGVxQi1GSGc3TE5XckVyMFZ6NnlrN0YwcmhZVEhKWEtXa0p0ZXRl?oc=5
-- **Source:** Pierce County Journal
-- **Published:** 2026-11-25T19:43:00+00:00
-
-## Lessons from our climate tech podcast - LinkedIn
-
-- **URL:** https://news.google.com/rss/articles/CBMiiwFBVV95cUxQU1RweU1KVFZTc01IN3RiZmJhUEtHWFVFN2o2WWJuN055R3QzNnJzTDFLdHFacFBYdWtXZnpPckxnc1FHWW9wMXotOWFjY1ZKcUl0dUEwRzRwR0w2dUxSR1hpNk9SWWNvREJxVUtFRC1id05qbUZjVnZldDYxLUpvSGg3NDBNQkVmRFpr?oc=5
-- **Source:** LinkedIn
-- **Published:** 2026-11-25T19:03:17+00:00
-
-## ESA has released the first images of a deliberately dented asteroid - Euronews.com
-
-- **URL:** https://news.google.com/rss/articles/CBMiugFBVV95cUxQSjVKSXI2bDZsWE9Pbnhoa3VOMkM4dUN4VTFjakhHMHIxbVJsUnJtS2sza3F2bmFZZkpLbHBldDBCRnZPdHhfNFZTZXVBZEFOSHBEcF9vLV9QMTVCZ2Qxa0hoUkhCQURfZlg2dEdQeHlsNFlaMk1FQl9NWExmbVdfdFo1OFI2a3VGQks2b3RQekREWTh2TFFsZjI1RkNBTnFCaVpvcEktaEtMWHRoTTR3U3JPeWpPTW5WOUE?oc=5
-- **Source:** Euronews.com
-- **Published:** 2026-11-25T17:30:10+00:00
-
-## Karen Nyberg returns to UND to honor first Astronaut Scholar - University of North Dakota
-
-- **URL:** https://news.google.com/rss/articles/CBMimwFBVV95cUxNREtuNmZLU0ZmS1VpYklndDUzZERMaTA1ZU1wejVwOE1LTXFuTDJKNTZDb2t6NlRVSjdnMlFVbTJTUldwRk5uZ0NZNXoyanFCYndsekpMZ3JBRTk3cXZ5UEQyazJsM3NuYkQwM1pnckdndUhMZ3JBaUQ3dHZ6bWRwenFwR2stUzhIdUo3b1puc0NjM0pNRHdsYzBrRQ?oc=5
-- **Source:** University of North Dakota
-- **Published:** 2026-11-25T17:03:46+00:00
-
-## FIA Convening Government and Industry on UK Market Framework for Fusion - Fusion Industry Association
-
-- **URL:** https://news.google.com/rss/articles/CBMitAFBVV95cUxPNUdyeS1jZTVBNXVnV3ZRRHZ5Y0lCd2RTVk1ORVU2Wl9EaGdia2Q4QjFsYUpTcktnV0hlbVBrdUMyNjBWdjhCbGFHTkt3SGpSeFJ1dUxRU192Wi11SDlpY09KNWI1WnE0WHFTV19vZjFVZWhfbTVMM2ROU0JycEY5T25Xd3RWaU05NVFTWnpXdVF1VnJGcWdHdzZOMjRpd3g2bURJYjN3U3lDSFlDUjhHUlVQUnA?oc=5
-- **Source:** Fusion Industry Association
-- **Published:** 2026-11-25T16:59:05+00:00
-
-## Voyager 1 Stops Sending Data, Reaches One Light-Day From Earth - Hackaday
-
-- **URL:** https://news.google.com/rss/articles/CBMimgFBVV95cUxPN095aGVFcUlIWmxpZ2JuTFlhaU5sUWNOcER2dkczNGtqcnFWeXNzel9FbTF1Z1llRHJtTkIxNTY2a1JOS1RCZ0o3MjQ2c29MN2JMV2diMHJIOVZLemNvMGY4ZFdpQkp1akdjV0M3NzYycEE5TUFsaFUwUE1CT0RyUGZVSnE0MmVaekE2aGJtVkFNTnk2c3VuQVFR?oc=5
-- **Source:** Hackaday
-- **Published:** 2026-11-25T16:30:00+00:00
-
-## Rosatom puts ITER reactor readiness at 85 percent - Foro3D
-
-- **URL:** https://news.google.com/rss/articles/CBMisAFBVV95cUxNYXllZ0ktRml1X29DV2p2ZXRmbnV3X0M4WkpBc3dzWU9iS1pKb3haS0cxOEt5eTZyeC1keGVERDVEWXlTWG4xY2ZyS2N3SnphYWs0TVk0a1J1RnVQLVI0dHU2TG5RLVluWGNNSFZnNDZXNkUyaEZtajJTaXQtTEV3aTV3dkdBdDh3UVExWUpuWDRNRTBtVHU3RzdObkF1b1l1TVJCNGVXMm9EYXRNVUp3eA?oc=5
-- **Source:** Foro3D
-- **Published:** 2026-11-25T15:35:12+00:00
-
-## Genesis Mission assembles Avengers to accelerate American science - Fermilab (.gov)
-
-- **URL:** https://news.google.com/rss/articles/CBMimwFBVV95cUxQZjlFbDF6ZGszVU5NanZtRHZYWktFSDRlbXpDczVBZEZ2QUcyVEhrcGYyU1hSX1cwN2xIVVhJam5VM1ZycGJsNFNvU2pvZzI3WEdMZG9Ia3ZieF96dUp6Yng2ZFVreGc1OUpKYU8xczZfYnhJV3BCMzZCRGhvUXBYWnMyMUtObk5VUDVMNVQ1SEhXdGFybmZKemlXNA?oc=5
-- **Source:** Fermilab (.gov)
-- **Published:** 2026-11-25T15:32:22+00:00
