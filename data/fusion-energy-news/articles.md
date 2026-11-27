@@ -1,8 +1,92 @@
 # NewsWatch — fusion energy News
 
-_Last updated: 2026-11-27T13:31:54.668404+00:00 · 50 articles_
+_Last updated: 2026-11-27T22:30:26.536548+00:00 · 50 articles_
 
 ---
+
+## New Music Friday: Show Dem Camp, Bhadboi OML, Zlatan lead fresh releases - Olorisupergal
+
+- **URL:** https://news.google.com/rss/articles/CBMinAFBVV95cUxNRlVGdFVDM256M0paeWxWYnBWcEI2dkpiM09Ed0ZUcXRYeWpmRUVUWUxVQ21uLWJGdUVITHBNWWhyRXQ2cW5BbjhiUmFyaTExbzBHLUJPS2xLWW9ZcF9FYnJnc3UzbHpWRl9sQlAwNFlNTEp2Vy0za0FHMWIwQzZ2b09VUUJ5OEpSOUxFRzVzczk0eDVSdktiVUlXRE8?oc=5
+- **Source:** Olorisupergal
+- **Published:** 2026-11-27T21:43:18+00:00
+
+## Trump Media stock drops 35% in a month, eyes $4 support ahead of key merger vote. - Pluang
+
+- **URL:** https://news.google.com/rss/articles/CBMimgFBVV95cUxNZGc2WnhJREw3Qnl5bnNOUFJ4ODJKX3kyX1NtZWY0a2hYTEhmMjdhY0xkQkFBdnJjNDkyaTFWcjJEWXkyQnJTOFZuVnN3TDR3QzVST2hPa0tzVW9yRkVnVmFFUmhhUGFuNVBkcEZkcXh2U0tlcHFSdldGcDh5aXo3b3hUZFNPUHp6SVhsaE9EUzVsaHJuVjdUYVFR?oc=5
+- **Source:** Pluang
+- **Published:** 2026-11-27T18:26:33+00:00
+
+## Trump Media Is Still Down 35% in a Month. Is $4 the Permanent Floor or a Hard Ceiling for DJT Stock? - Yahoo Finance
+
+- **URL:** https://news.google.com/rss/articles/CBMilAFBVV95cUxOcGJwdUY2aXRERnBWcS1MNFJBX0ZVZjQzeVBCdFpBcVQ3WExSNkNSYmZreXpNZ0NrT3NPLUl6VnpzOTFEczZVOGtsV250dVNtTlJLRFlaaWlsYnVfZVNBT2RJX1hfb2o5WG15ZFlCLXpPLTFoeVZsYm5NcjRKZmZLZ05BeUZjMWtEcWwteFk4TmVsVVB4?oc=5
+- **Source:** Yahoo Finance
+- **Published:** 2026-11-27T18:07:31+00:00
+
+## Trump Media Is Still Down 35% in a Month. Is $4 the Permanent Floor or a Hard Ceiling for DJT Stock? - 24/7 Wall St.
+
+- **URL:** https://news.google.com/rss/articles/CBMi1wFBVV95cUxQZ0ptTWd5WFhBOEVpSHF0SkM0M0FqYlhPYzc4dDFUaTJBalMtWlgyZk9wWWJmUjNpQ2Q1TUhoclJ4cDA5WGRLQVJtNll2RU4wSlhjNkRoaXFCSW44QlBWYnRINTktbVJvbUZEaTYzN0F2TGtuMzJrM0VLYlRFVWJfeEh1cVRwb0VfMUx5OWkxbTh6RFNlQ005TFE3cWc1NTh1U3VNV0lFR3FHRWY4VWxPVDctZ1NQM0xEQXNBa05iNVJmMUM1c1c0TTFCODk4RExMV2tmS0lpNA?oc=5
+- **Source:** 24/7 Wall St.
+- **Published:** 2026-11-27T18:07:00+00:00
+
+## Resummation Increases Gluon Fusion ZH Production Cross Section by 21 Percent - Bioengineer.org
+
+- **URL:** https://news.google.com/rss/articles/CBMiowFBVV95cUxPSk9NUWxadXN2a1I5RmJOUEVadFVHT0ZESW13Qk1NMklDOVJ5VmtnUnpJM2ZtMjEwNFhkSkg0RGJLUTF2Sm1tcWg5emdyY0thaTF1dUQtMG5RVFprY0pYZExGNExjSTlwbmo3blk3QkpkQTlVVkRmY2JqSGV0WW9tN2c5NFFZellfWVlIb2Fxc2lNY19LTjc0UTNDNnE2VUtrQXVB?oc=5
+- **Source:** Bioengineer.org
+- **Published:** 2026-11-27T17:52:15+00:00
+
+## Quantum-Enhanced Transformer Predicts Long-Term Wind Farm Losses From Climate Variability - Bioengineer.org
+
+- **URL:** https://news.google.com/rss/articles/CBMitAFBVV95cUxObmNBYjczNFZNdk1GaGowc3hMZkNuc05ldjZVY1lwLXNRSUdpOE4xeVBURnduTE1HM2tQZGctUlh3UGxZUjF1ekp2aTJPLUtDNFFIU1VyUmNlZS1LVklBZmZIM3NWWjdHVEhtamFmMUlESmlPNTRzMWZMTW9uSUhHeEJ4NEVlcTNrNF9EU2t3RnFlRkM0NXpIWkl6ejRjVzFDVmNoSXVEbEZzOEpxdVdMdTFza0w?oc=5
+- **Source:** Bioengineer.org
+- **Published:** 2026-11-27T16:52:14+00:00
+
+## Two 525-foot cooling towers holding 62,000 tons of concrete came down in 45 seconds at a shut-down German nuclear plant, and a 400-megawatt battery of more than 200 containers is now going up on its old grid connection, due to switch on next year - Autonocion
+
+- **URL:** https://news.google.com/rss/articles/CBMifEFVX3lxTE1qY2NFWnZGYXVOSkpXb3VDbnVFZTJDdHlMQk9OTnlBWk05RldyLVB1MHgyR09vSzFaZ2Zwck1WdDVaNkhYT0dGSnVHaWZlMzJENXBudFVKUVd3X1o1Zi1nVmc5a3NtWmdEUzY3T2t3ZkRjalhDMUdNeTNLR1g?oc=5
+- **Source:** Autonocion
+- **Published:** 2026-11-27T16:50:00+00:00
+
+## Minister invited Euan Blair to BlackRock meeting as his firm sought investment - openDemocracy
+
+- **URL:** https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNHVRcXVNOGlIWEJTZEhNLU00RndmUnZ3Z010cmVOdjZjdU52ZFVYczlobFYyR0RTWm9JTW50ejZPWXI4bGRyUXRfT2tHdXBKTGR2bktJeTdscy0tWW9ZREVEY1Rib1A5UFczVDdvb1FNMmw3MHBqT1hlMUlwcmE4dE5aLTh4dzQ4Nk0wZ1Z1S1FzcjhkVndzTTZIbmY0c3gyR1JPVEpiaXVBRTV2QkVoenFRWHVZQVFzTGt3?oc=5
+- **Source:** openDemocracy
+- **Published:** 2026-11-27T16:48:32+00:00
+
+## Keto Apple Cider Vinegar Gummies News: What's Real in 2026 - Comité Asesor de Vacunas de la AEP
+
+- **URL:** https://news.google.com/rss/articles/CBMi8gFBVV95cUxOVXJyV2U4dWNqbUZ4Z3Y0YTVYaUZXRHNMVU9wZWotRHktSEpyYlBXdF9YT2dhc1Y4cm9kRk5DVFdUVmRxVHA2YTZkclN1Ump6ZkNOUlM0dXJVcXJZeHRsdVllUDBjV2tLUVJGRUVnVTZqMjd1dGtuWWNDczJfWDBvamFMRzFxdzhGVmVjRmFXTFFOZThtY1k2ZXVGSGRJaVRWVWNTemdYcEdSZkFsTGVnYlFEdWVGNWFvRlozY18zQnlFZVhIVkJPRDBmc0RmeVh3SFowSUREMG5MZTZteWdaVnhwM3RjLWRMTEhPRm85SHQ0Zw?oc=5
+- **Source:** Comité Asesor de Vacunas de la AEP
+- **Published:** 2026-11-27T16:23:55+00:00
+
+## Rosatom Delivers First Fuel Load For China’s Tianwan-8 Nuclear Plant - NucNet
+
+- **URL:** https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQ2hndlRhSkl5M3VjcmpkVkpGNGVhdjZrUURiSzJPLVp6OG5DMkpQbHE0NnNQa0lvWHBPczhQM29tS0xZX1ZXV2plQUZNTFZ4RmFwelJVSXUydlI5eXpWNnhpWlJVa2ZwaVJvQU9TMHk1b2VLd0d4VDMyMGRXdExkd2MySWFmSjRlVjg3Y0FsRkc4RDg0NHF4eGxQVDlGVS1xU1VIVlNmRXVpZw?oc=5
+- **Source:** NucNet
+- **Published:** 2026-11-27T15:01:14+00:00
+
+## Unlocking the power of plasma physics - Innovation News Network
+
+- **URL:** https://news.google.com/rss/articles/CBMiigFBVV95cUxONFg1dWJBQWthRDVJbkdoMGE2b0JTWDUwNC1ud0p6LXZROWdLY3N6S2lDZ2thNXVTQTZaeVZLaDljLW0yTzlUZk9NYnFSYVVydUI5b09ZaUZtcl9mUmlPc0RDRW1VTmlvZ01iWm45dFdGU3RDekxpVEUxdzl3NlBWZDZVU1hOcDdCekE?oc=5
+- **Source:** Innovation News Network
+- **Published:** 2026-11-27T14:33:49+00:00
+
+## Huawei Plans to Double Solar Team in Mexico Amid Rising Demand - Mexico Business News
+
+- **URL:** https://news.google.com/rss/articles/CBMinAFBVV95cUxQekRYaDFFZXduLTdDSkdZWWNXUVpxbUl6U1JyVG9vM2JNdUNCRktscF80Z2dQNHVYZ1BEX3FyRk9LbnlWSTZZdkcxX2lwYWowMFFfbktiLU90N182WHhWR1VnOXNSXzBTWXNjXzdIckFEbU1zWjlhY3FZTTRwUmFhcXExZUw4ZUUxZE1LbnltdGVNYVdPVkpLQ0x0cU4?oc=5
+- **Source:** Mexico Business News
+- **Published:** 2026-11-27T14:31:37+00:00
+
+## Munich's Starforge raises $7.22M to mass-produce fusion reactors - Dealroom
+
+- **URL:** https://news.google.com/rss/articles/CBMingFBVV95cUxOQjIwUGFjbWF5NXotQkVqd2lSekRXVW5qVmpBdkwwRDR6XzhzNlYwUnREWVhkNlJrQjNDQlpsbWpsR1JENTVUM0dPNng5RTJGaHpULWJ3a012UHVIYU5qajhjcEF4NlIwMzNhS0lSS0pUdllhOTl5LVlRMWhkejlRT0hsdzVhVE5kVmg3eHdBSGwwVjVVQ29rTDBJaG53UQ?oc=5
+- **Source:** Dealroom
+- **Published:** 2026-11-27T13:46:49+00:00
+
+## A tight squeeze - ITER
+
+- **URL:** https://news.google.com/rss/articles/CBMiWEFVX3lxTE41S1FfNHVwSk0yNFUzT3ZxMjBmV1R4aUs5RTRPSjRiV0tnX3J5c0tSTk1TV2Z2QldweDd4bHpJYnBsd0YtR2FaNHJfYzFlS25kWnl4V2VqM08?oc=5
+- **Source:** ITER
+- **Published:** 2026-11-27T13:36:26+00:00
 
 ## UKAEA Fusion R&D Commercial Procurement Guidance - CASRAI
 
@@ -219,87 +303,3 @@ _Last updated: 2026-11-27T13:31:54.668404+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMiugFBVV95cUxQOGxQUHRXbmtWX25nUldFTkJPc0lucGYyTTBCc042Vk01SWtUSUllcU10SFk4OUhDdDRCcm52RDF2Sl9EOGpISWJhcF9PSjU2dGJtMlFJdmhtV0VYTHBGTDB4QTNXeFk5NjhvZEluVlV0c2hjZUVyRHltdUpQaVJCa0NBTkVxRHEyZDRaZGhNWG8zTW9BN0YxeDJmUlJqZWNVblAzR2FjQWMwNlhJX09fSDVnWENKekx5Ync?oc=5
 - **Source:** energynews.pro
 - **Published:** 2026-11-26T10:33:49+00:00
-
-## President Lee: "Key Economic Indicators Setting Historic Milestones... Must Accelerate '7 Seed Projects'" - news.sbs.co.kr
-
-- **URL:** https://news.google.com/rss/articles/CBMibkFVX3lxTE5RV1BiY1hTUkhLSlJmUl9seXMxX1JoWGJkS2VnMXJwWVdkaGVOWkFGcnV0WUZxWHBaMEhsWnVFY0MzdWlTR01HWjlMZ19PMnNHQUdsMThqU3hRYnM5dEI5OXlCeHNSZEQ2TEtuMWxB?oc=5
-- **Source:** news.sbs.co.kr
-- **Published:** 2026-11-26T10:18:59+00:00
-
-## Next Hydrogen and H2 Manufacturing team up to sell integrated hydrogen systems - energynews.pro
-
-- **URL:** https://news.google.com/rss/articles/CBMipwFBVV95cUxPbEZUd184ZVFvb2pzVUJqTlY3el9UX2ZRcWZITUxqX1RIWUNqeUhLclVURnhJQjV3aUdqQXVqcHM1enY5M3ZrQlNxOU9WQnVtVU5hT1RmM2lsM0NTOExQbll6czdtSFdHS3otdTlPakJubXBRNXQ1OVFzTnpYTjRaUzJ1aXV5amR6Y2R2Yks4R1hOWGxMcTRCUEhSVXdRM1prSHcwNDExNA?oc=5
-- **Source:** energynews.pro
-- **Published:** 2026-11-26T10:18:44+00:00
-
-## Three German manufacturers produce the first radial plate for Proxima Fusion's stellarator - energynews.pro
-
-- **URL:** https://news.google.com/rss/articles/CBMitgFBVV95cUxPN01rQjBBM1lPa0xDZW43eXJsbjRlYU5PYnFSbC1pX3d1V3h1WVdBYkJueFY1RzNhRXJ3eks5MHhUR0tTZk14ZzBYa0xxUFdoX0N6Q1hOMklubkpoX0VlWTNZN3pfUE1PRFQtT1ZNZ25VcUZiVjhUWHcwd1Bja0ZjUkdfMUFwMnZZdjdPd2Z0dGQwUGVScDNoYVZXcFVBbGtjb0lfbkFNUlg2VTBESTNXNlN6Rjg4UQ?oc=5
-- **Source:** energynews.pro
-- **Published:** 2026-11-26T10:03:40+00:00
-
-## Equinor cuts 2026 production growth guidance back to around 3% - energynews.pro
-
-- **URL:** https://news.google.com/rss/articles/CBMikAFBVV95cUxPdk93Z0s4anNiendtcU45bjJBLVdzVnNPbWMxMUwzMlJ0XzRXb1liQV9UbGt2NC1qNWxrM2pHbFRWQjhoQmZrdlUyWTJCRk9HejdfVGtuWG5FenpxbDFua1gzek1GMEQ4d1lwZHdCSXJuSDBuaGhlMExGV2l6cDZ0LU1Rd1MxLURLRXVQNXl0Wjc?oc=5
-- **Source:** energynews.pro
-- **Published:** 2026-11-26T09:48:32+00:00
-
-## PPC to buy Enegan for €330 million in move into Italy's market - energynews.pro
-
-- **URL:** https://news.google.com/rss/articles/CBMijwFBVV95cUxPR1JKcmx3Z3lFWTFzQUQ0V2JqTEd4UUYwazJKaTQ5RE9sd3oyOXllNFQ4VDM0cHgwdXZYaG9mV3N6N3BvdVpoOFNrVXdhYTRwUG5nV3cxYjljZ2pRRktDZzFzZHJkdXRaNVhZV3VhdGZ0VG9UMlI3VjdZZkJscDhoamhnOVVWRE5uQWJ3ZFQ5cw?oc=5
-- **Source:** energynews.pro
-- **Published:** 2026-11-26T09:33:31+00:00
-
-## Diode lasers for laser-induced fusion: FBH and PTB lay the foundations for their qualification - idw - Informationsdienst Wissenschaft
-
-- **URL:** https://news.google.com/rss/articles/CBMiS0FVX3lxTE1aZFZBRE1kNUFnU1p4NklmUmN3R29QdnNzTHl5VzZnc3d0U2QwQ1NMZE4zMHYyTnFSck9md3VEOW0xQW03bXdtbmcwaw?oc=5
-- **Source:** idw - Informationsdienst Wissenschaft
-- **Published:** 2026-11-26T08:20:00+00:00
-
-## President Lee Jae Myung has ordered speed battles for "seven seed projects" such as SMR, nuclear fus.. - 매일경제
-
-- **URL:** https://news.google.com/rss/articles/CBMiU0FVX3lxTE43VzBiQWtmTVdKZUFPSXAtdU11LXRHYTZFY19xa3NXanluV2ZuQlFrNlhJMFNuWTh1UWc1SW5SdUhXSUJ6NFFXcWFtcWZyeWt2ZERZ?oc=5
-- **Source:** 매일경제
-- **Published:** 2026-11-26T07:06:46+00:00
-
-## Asymmetric Medical Image Fusion Architecture Improves Brain Scan Fidelity and Detail Preservation - Bioengineer.org
-
-- **URL:** https://news.google.com/rss/articles/CBMivwFBVV95cUxQbk90RWN4d25SMkhUWVNQRTRPUGthbEx4eVQtaUhoRzR3ampzVlh1M0dPVGxfZnVFampodVVNVkVocW92bDlKTTBhcTFQeWdHaGhPa1ZReEVUdVpXYWJhUmJiVURoVjV5azNVaER1MUx0TjQ0ek5XSV81V2owM1o2dlFMS1UwanFfbDUwSUxwQ3pWQ2JNMjhtWEZkZXV5Tk5iUWYybnhNdXlvaXJDbkRRNi1VcEd1SnVuYnZtNVI1UQ?oc=5
-- **Source:** Bioengineer.org
-- **Published:** 2026-11-26T06:47:16+00:00
-
-## Lee calls for accelerating '7 Seeds' project to gain edge in future industries - Yonhap News Agency
-
-- **URL:** https://news.google.com/rss/articles/CBMiWkFVX3lxTE44cWF4Rm9Lckp1NTlzT3h5c29fTXhNTUhlbTFGZ2xJN1FKb0VIelhOYnFUN2owTHRKNjBrSUF2VFMtaFBaZ05lNERhNDFjejdOaXA0UTZGdG1OUQ?oc=5
-- **Source:** Yonhap News Agency
-- **Published:** 2026-11-26T06:22:20+00:00
-
-## President Lee: "Key Economic Indicators Mark Historic Milestones... 7 SEED Projects Must Pick Up Pace" - news.sbs.co.kr
-
-- **URL:** https://news.google.com/rss/articles/CBMibkFVX3lxTFBzTW5oNXJRRlJzTVJzampLQ2VjY0syelVPQk1zOUlqcDJsZ3JFNnVPeW5ITVpEUzJNYlhLc1lEekRTOFlTeUd6WGVNYnA2U3hRMzBlcDEtaFJacFhvUllkQS1fQUcwYmVGNl9DZzJn?oc=5
-- **Source:** news.sbs.co.kr
-- **Published:** 2026-11-26T06:21:47+00:00
-
-## President Lee: “Seven SEED Projects Must Pick Up Speed...The World Is in a Race for Future Tech Dominance” - 파이낸셜뉴스
-
-- **URL:** https://news.google.com/rss/articles/CBMiWEFVX3lxTFBBX3RhWGt0Y043Ml9xTVVpWUM1VElkMDFkRW9GNTdQWDh2OGRwMlhtTGJCSTdwQmhlMWZENUdNLVQ1Rzh5Si1xNTlybVRpd21PSnJWNHVTWjI?oc=5
-- **Source:** 파이낸셜뉴스
-- **Published:** 2026-11-26T05:58:47+00:00
-
-## The Workroom is Wellington’s soft furnishings expert – WellingtonNZ - Visit Wellington
-
-- **URL:** https://news.google.com/rss/articles/CBMijwFBVV95cUxOZjJaTWlhQkt0NGFLeTR6c0J6MnpDcVdJVE5ZdVVBU1ZUUnFkUnRfc0hZN3RHdkxpX1RmRUNHZUU2SUlwdjNBQ0dSakFudW5JUU5PdXNTcUc0V0ZtdHE5emh2b0tQcDRFVTEtWExscWR0bUs3azJWcjZkN2trWk1xYmtJMFVUN2pQUVVTWTNkYw?oc=5
-- **Source:** Visit Wellington
-- **Published:** 2026-11-26T05:43:22+00:00
-
-## Samsung C&T joins project to build Korea’s next-gen fusion reactor - mkbn.mk.co.kr
-
-- **URL:** https://news.google.com/rss/articles/CBMiVkFVX3lxTFA0MGlWQVMwek94SG9wSVNfcXFjTE1nR1NkNHhmZVpHa3F2TWpmZkRtdVlBTHdYeFhBQ0lTdmk1SklFbGlLdzJub0ZIUzgtakpQZm5Xc0NR?oc=5
-- **Source:** mkbn.mk.co.kr
-- **Published:** 2026-11-26T05:34:37+00:00
-
-## Porous multicomponent nitride cathodes enable long cycling in lithium-carbon dioxide batteries - Bioengineer.org
-
-- **URL:** https://news.google.com/rss/articles/CBMiuwFBVV95cUxNWjNqWU0xWUFSRXpBRzJkUlZKUGl0dm9pQUcwNS15THM5U1RHUFd6cXdPdUtVbVdUcXdNeUNDdmVuRGI3ME4ya29oOTVEbjNReWhPaVlRTEE4Q3VaNDJlcXNhZ1hSYkFpb21DSUtudXdiN1JJcUV2VEluUmp3ZTNfUXdWLUJtbXdqazltX2F5R2k0TEY4akdzcWRRQzkyWGJsUmZ5VjV1MEFoSHZQNThzampBekFMSENuSENN?oc=5
-- **Source:** Bioengineer.org
-- **Published:** 2026-11-26T05:00:27+00:00

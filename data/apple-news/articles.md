@@ -1,8 +1,62 @@
 # NewsWatch — Apple News
 
-_Last updated: 2026-11-27T13:31:50.909827+00:00 · 50 articles_
+_Last updated: 2026-11-27T22:30:24.522213+00:00 · 50 articles_
 
 ---
+
+## OpenAI sues Apple for 'stealing trade secrets' - Breakingthenews.net
+
+- **URL:** https://news.google.com/rss/articles/CBMilgFBVV95cUxPWE9tUlhiQ2lMUVJMeTd1alFiZE5NNDZYOXRLLUpxdGlvZjE4ZU81dzNaZzZhMEo5UU8wcmNXNVdsczQ5ZnZVdkttaUh1QndrLVV2ZEt5Y0l1Zng5Yy1RWFAwV3JSa3V2emgyRlVPZGNPT2NucHM5dWFlZ0g2WVpCcThrUlZ6amxRUmx0TVdaRUgwUGtsd1E?oc=5
+- **Source:** Breakingthenews.net
+- **Published:** 2026-11-27T18:32:00+00:00
+
+## An Apple (AAPL) officer’s trust plans another share sale after grossing $19.2M on Nov. 25. - Stock Titan
+
+- **URL:** https://news.google.com/rss/articles/CBMijwFBVV95cUxOMzN5QV9wOGttd1BWV1N1WUVHbzVDZWwtdWFsMjZkc2RCUTVSQmxmVDRHZmRmNjM2TzFPRGtlMDlfeDdVYWtpODRXY3B5U0kwVk5zLXNwMmJJaVBocG9lNEFTMWhudWh4TTJyUkJWcUdqakdManItWl82c3JGeHZYRmFvMlg3RFZ1MTMybTRCNA?oc=5
+- **Source:** Stock Titan
+- **Published:** 2026-11-27T18:07:10+00:00
+
+## CPI | Chile Targets Apple With $80 Million Antitrust Fine Over App Store Restrictions - PYMNTS.com
+
+- **URL:** https://news.google.com/rss/articles/CBMisgFBVV95cUxQYkNScEpYVXpIbkNXU0I0ZTlIUDdaNG1mNDBuc0FwbW82MXpES3Jzb3BvTzJmWERqdS1PNHIwaWg0ZUVHQV9UVHZkUXh0eHJqSmpYS2Vjd3N0Y2ItcnNnbjhWcDg2S0ppSF9JbEZPZEhvSG9EZGwzVDQ5MXZ1bjR1RXJ0anBPblQ5ejVwelg5WlA4bXZlSGpzb3lqbmNLdjFjNV85YXNDZ3VlMEtfNXA5SzhB?oc=5
+- **Source:** PYMNTS.com
+- **Published:** 2026-11-27T17:13:08+00:00
+
+## Apple US Smartphone Share Hits 57% as Android Rivals Struggle - AppleMagazine - AppleMagazine
+
+- **URL:** https://news.google.com/rss/articles/CBMibEFVX3lxTE9rc2M4QTQxUGthODVZeWZaMXRyM0NuWjYtT3ZfTlR6NWxHS2pjZWd5LXRDZlNOOTFtYl84Ui1vOVFqWFZUYW1hc0oyc3dDRm9mSGFDYUNhY1dDUThPSnN2eEsyc0pIRUJKVTZYeNIBckFVX3lxTE5GLXVTZHF6X3pYWVRnbEdvQVZYUWl1Qk9GcXhGWXdsS1htUkNoX2EzSU5qN3FfbWE4NklFZTB0cEc3U2JCeGNDTDJGQm4zRlJIaXM3aHhSdzUwVWkwNjJZSTRXYlVubkxfNWZPZkhMckx1UQ?oc=5
+- **Source:** AppleMagazine
+- **Published:** 2026-11-27T16:21:09+00:00
+
+## Is Apple (NASDAQ:AAPL) Worth A Closer Look Now? - Kalkine Media
+
+- **URL:** https://news.google.com/rss/articles/CBMikAFBVV95cUxNeXpvUWN6QjJtdzhVdklnam1EZmtiZ2FFWEpHNThZU21aejZSa0pZSWNtMDY2S2lUbmRwSldZZTVpejRMRGx0MHcwWDljX3pseXZHTEpwSFBucjVCbDYwYjc0RzZNN19VTHlCSTZGM3lVWG05ZzBaUVozcHJtLVNEdGFyRWNQOGFNZ1R1WlViVTU?oc=5
+- **Source:** Kalkine Media
+- **Published:** 2026-11-27T16:10:00+00:00
+
+## Apple Takes Bigger Bite Of US Smartphone Market - Apple (NASDAQ:AAPL) - Benzinga
+
+- **URL:** https://news.google.com/rss/articles/CBMi2gFBVV95cUxPRlNHMDNhLXJpX0xrbkFTMmNJd1B3bGVJS3BVTXR5UXRrRVlmNHZoWG11eXR5Q01OWEJrN3Z5ckowek5QY0JHcnZPTnNKd0lFQUhNeXgyUC1RSTMyY0R1eFNtb3RDaHNqUVc1d1ltSDl4cHMtRGRhZ3BaOVd2dlJLcVluNDRKZTZRQVlmS001dFJiN1R0LUNMaHYzT1BQNVBEVkZqa2lkaDhFWVRydEIyeU5JNjBtNUhSZ29HM3BNVTZNVXlvVnd3SHFTMTdZZVo0S1JnR2tNRnNOZw?oc=5
+- **Source:** Benzinga
+- **Published:** 2026-11-27T15:46:05+00:00
+
+## Apple: The Mispricing Of The Market's AI Hedge (NASDAQ:AAPL) - Seeking Alpha
+
+- **URL:** https://news.google.com/rss/articles/CBMijgFBVV95cUxPaFA3a0FPQUUybWRiS2ZBdE9iU3ptTUxoZzB5YnpiajVyaDktbVVMLTM1MXNzRDlGbnhkWld1T2RKQ0FzczcwaVQ5NzY0eW9FVm5hS3VucUNhR2E4Um1pX1J4dmNXXzNOTk5MTVNMZ3pQNjVzOU04Y25MVmFGSW4tcFlqLVRjUVVSZTdaa2Jn?oc=5
+- **Source:** Seeking Alpha
+- **Published:** 2026-11-27T15:17:30+00:00
+
+## Chile's antitrust authority seeks $80 million Apple fine over iOS - Reuters
+
+- **URL:** https://news.google.com/rss/articles/CBMitwFBVV95cUxQdkFMQmZOY0xINFg4c2ZMVEFDaG9VT0NvVjlKNXJYTWpmRDFYaTlESE50aEd5Q2RaRkg0OEZjdGlMYkpPQTFGRXcxYkZUVnFZS0IwaWV3eS02Z2lBWk96b0tvUlh3aGFlYTRrNW1iSV9XQjdFMi1FaUZ4M2ctUXNuMWN3ZTN4NDhYb1kzMmJSaU1rZUxxbUI1Q1MtazhFU1RnV0FQRTR5U2ZNQWJLTjFuUmgwVlFfc00?oc=5
+- **Source:** Reuters
+- **Published:** 2026-11-27T14:33:48+00:00
+
+## Apple Now Ships 57% of U.S. Smartphones as Memory Costs Crush Cheap Android Phones - 24/7 Wall St.
+
+- **URL:** https://news.google.com/rss/articles/CBMiwgFBVV95cUxPb3BWVS1fck1oUmtVSWNwWF9xZjlXRkpPV2VnRDJjMm1UUjB5M2E2SWlBN0ZpS3lUQlNtQmNLdnl3ZU1iQ1RySkJRdG9EUXM5dllYd1RQcS1nRDJCbEt1UTUzUUZZd2hZSEoyZ3lyQUdSMVl1ek9jelRMWWRlNHZrUFJKRkVLRk9aS214SUdnam16a2JDYWdrUkROTTRHeW1Qc0ZkNW5uSnpHTzYxMlZqUlJ1cVdERVc3QWd1WFM5Sy04Zw?oc=5
+- **Source:** 24/7 Wall St.
+- **Published:** 2026-11-27T13:37:00+00:00
 
 ## AAPL: Apple defined, key history, primary product lineup - 9to5Mac
 
@@ -249,57 +303,3 @@ _Last updated: 2026-11-27T13:31:50.909827+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMiwwFBVV95cUxPekhHMm9rV2hlbFJFMFV1SURZal90OXR3MHFfQzN6bnY1MjVVVTkySkVvTWlQSkJkTG1pMmt2cXVBNV95U0lFUW51Qmx5bk1kbV90RnB2Rjd0OXpyc0N2aU9zWjl1ZWl1eVU2a3ROQ3A1WERRanhMZnNQT2lmWTkzcHlMYmVVLUk3YldJWGpSZDZOZTJRVndHaGJRZ09XVFdEMGNEbDdzRURhaHUtcDJlV2dRVkFHa2Q0M0tPWmFqdDdYNVE?oc=5
 - **Source:** GuruFocus
 - **Published:** 2026-11-25T14:03:06+00:00
-
-## Apple: $136 Billion Of Free Cash Flow Without The AI CapEx Bill (NASDAQ:AAPL) - Seeking Alpha
-
-- **URL:** https://news.google.com/rss/articles/CBMipAFBVV95cUxPTGhlNjVzYXh4MXk0NlRMNnpKMGhmMDJKYXJ3a1FRbzhFZ08zZzJvN3ZhZGVTN05wWnpILV9lX0M2ZFAyWTFEb3ZpTFJVTVJ4OHRjZklzcS1Xd29nUHlxQVFXUVcwUHRQR2wwRW5oTk1OM2JOTUhLenJ1NjJ6VDkybEhEZi1FSlBkd3pJaDAyZUp0bkFFTDVmbVJ2ejNnaEN1Skw3bQ?oc=5
-- **Source:** Seeking Alpha
-- **Published:** 2026-11-25T13:30:00+00:00
-
-## Private Equity Tunes In to India’s Music Boom Beyond Bollywood - Bloomberg
-
-- **URL:** https://news.google.com/rss/articles/CBMitwFBVV95cUxNQXhJWlo4TVdJTndqby1tUklQVFhLX2xNRVV1bmtsejI4OHdCbGs1YmZYVk9IcDd0eklzUVJCdEpGMnJoZElDOVl0Sk9wTzhEZE9LQzh5NVpwLXhwa2MwU3FVQ1J1MWVKMHhFXzlqSjNoeENXM19Bdzlsb25DTzJMSXFQRDN2NXJFWGNDSlFFcGpiWlFZd2JRTFhnNVRRWDBoNHZETl9IQXhwU19pdlh4cE83Si1abGM?oc=5
-- **Source:** Bloomberg
-- **Published:** 2026-11-25T12:42:17+00:00
-
-## The Gadgets Our Tech Reviewers Would Actually Give as Gifts - Bloomberg
-
-- **URL:** https://news.google.com/rss/articles/CBMitwFBVV95cUxNWHhSS2Y2RHBFOVl0STNXc1kzeHRLU0hIZkl3Q2R0ZmZ6VVdrQUdPMDB4ODBLUWJxM2tIZ2s4dEd5Zzd5b0cwZm9uTVJaUmpGSV9iV0FMeEhOSFNaNE5tSDE4YzVtVUs3c2JpMmZ5Vk1lSXhOSlhRc2k4cWZOcGp1XzVMbTctN0txa3FTd2hzWHhBZzdSd2x1M0ZnbkJpQloxdU83WVp1WWQtR3VFTnJBS1NWalRQUFk?oc=5
-- **Source:** Bloomberg
-- **Published:** 2026-11-25T12:30:02+00:00
-
-## Apple spent nearly $903B on share buybacks unde... - Pluang
-
-- **URL:** https://news.google.com/rss/articles/CBMijAFBVV95cUxNbmkzSURVZkk3RTUwNnlDNGI0THo2OHdOQkd2Rl9rc09ydVkzRVEwbERlN2tVRXlYZG9JT0h1Q1Z1Mk9nelpiM0ppeU40YmI3aEI5TjNNY2hyVTdKa2NjdXFyU09laVlEV2JsVnVSTmFGQXRJODV3ZDMzSmxRMVVJNWNXcU5qN1prd2ZkeQ?oc=5
-- **Source:** Pluang
-- **Published:** 2026-11-25T10:24:21+00:00
-
-## Principal Equity Premium Income ETF's Apple Inc(AAPL) Holding History - GuruFocus
-
-- **URL:** https://news.google.com/rss/articles/CBMikwFBVV95cUxOUmN2a0I5YVVFc1gxZl9ITHVoZlBYVktidkt2eUw2SXVsRERpNHJTemk5Y0lOd1pTWG5Yczg1dlN0YTRQandJRVA5bUZSSXJmdFV0c2ktcGZ4SW9ZS3BwcGF6cGpISmEtbnhtTzhtTHBxVXNxclVEdnBLeGV5VV9wSXpBazlvWjZaUmdNNzBUU2RZTVU?oc=5
-- **Source:** GuruFocus
-- **Published:** 2026-11-25T09:38:17+00:00
-
-## Apple Inc. $AAPL Stock: Welch Group LLC Reduces Stake - MarketBeat
-
-- **URL:** https://news.google.com/rss/articles/CBMisAFBVV95cUxOYVdnNTNMMGw2R1JZSjJFTEE3MWU5emIxMnhNOG1ycE92bE83YlNmb2FjZDN4bDU1allWQ2tYUndkamtOamMyWUFQNFN3U3RlbTJMR2llb3JmRWJhN1Ria0lqU2lPMnd6UW1mOVcyV2xRalJWM2Q4cmZhUXpKeDJsZy1sQXA0a1RwcjQ0RC1fVFlwX202dU9tMkFQazBzNG9qZFFDTFpmb0tyT1lfMGh0bA?oc=5
-- **Source:** MarketBeat
-- **Published:** 2026-11-25T09:30:26+00:00
-
-## Provident Trust Co. Sells 5,600 Shares of Apple Inc. $AAPL - MarketBeat
-
-- **URL:** https://news.google.com/rss/articles/CBMitgFBVV95cUxQd25ZUUtXMkstLU5Cam5WYnc3RDVIZGtNZ0hzSHNzekRGaW5QcjlCczVQX1ducHUybG9XQTI5b053Z0ItUHBtcnFucVU0b1laeHRpUFFTekdYSzlKR0ZVWUJnWWtrRm9EUjdVczcxb2tUUUl0a3hfRTcwejRsU0JiOWZueDZDNkh2eGFsUVYtcTRBMWhlZHpLcURqUUU2M1hMbGtxcVlodEJyYWtFeTJCck1yNjZUZw?oc=5
-- **Source:** MarketBeat
-- **Published:** 2026-11-25T09:30:26+00:00
-
-## Apple Inc. $AAPL Position Raised by Virtue Capital Management LLC - MarketBeat
-
-- **URL:** https://news.google.com/rss/articles/CBMiwgFBVV95cUxPMHFQcWhlRUlfcjUwNTl4Z281ZGRQRG1JU3V1Ykh5N3ZRT3Q5bmFRNlRPVDdONFg3US1qUTJzR0VxdkNZVnV4d09GRlpHeEozcThVMkFKTkQySDloWUlQNHMyMUo3Yy14U3B1aTI1NTduTGRfNUFUbm9udTJwNlZReThXd3BxUkQyeklpZG9IRUFUMUQ3TDg4a3ByUGdjVThuRk5YRmoxSHh1UF80WTNOYkROQnRFaS0yd1lYTUNneFN4UQ?oc=5
-- **Source:** MarketBeat
-- **Published:** 2026-11-25T09:30:26+00:00
-
-## Apple Inc. $AAPL Position Lifted by Woodmont Investment Counsel LLC - MarketBeat
-
-- **URL:** https://news.google.com/rss/articles/CBMixAFBVV95cUxOdExFNWNiOEVaRE9yaDdEMWRIX1VBSkZEVUdsT1JpTzhieHZLeW9NYUpvaks3R1pwMTg5VnR1MzlZVW10Q2l4WlFMXzl2TW05dEExamh4UGdhSl9rTUpJQm95SUFhSWJVOXBXdXJLZTZXbkQwT1RvODl1VVNMeDhvcjNkdzFyNUt2UHE1RUNJMGZiWjhjVVhGQ0sxQ2xxUVNKMGVUajdKbDZnRlBGZzV6VDh0Z29pbW44WVRRREVIdGJSZHVZ?oc=5
-- **Source:** MarketBeat
-- **Published:** 2026-11-25T09:30:26+00:00

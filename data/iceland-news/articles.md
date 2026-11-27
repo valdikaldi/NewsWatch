@@ -1,8 +1,146 @@
 # NewsWatch — Iceland News
 
-_Last updated: 2026-11-27T13:31:53.733851+00:00 · 50 articles_
+_Last updated: 2026-11-27T22:30:25.913588+00:00 · 50 articles_
 
 ---
+
+## Hyatt Centric Reykjavík opens bookings for April 2027 - Travelling for Business
+
+- **URL:** https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTGpCVFVxOW44emFleVpodnFUeko5b3dhRGxaNFMwb3l5eWRySmlONjVXRFEtVlVyX0ZIeG93Y3owcnM0Q25GUGNXanZlTkQ5OF9aRWxGRldFblZwWHZSUXEyNnFqa1RzSnJlUkFyX0ZCelZLdmQtRHJlRmJXT1RxdDRRQXhmM2hZWE8xSG00WUJ3WG16cDNqNGt4cUpiZmJrRHZnNnlPY3RjQQ?oc=5
+- **Source:** Travelling for Business
+- **Published:** 2026-11-27T21:56:15+00:00
+
+## Former Iceland Goalkeeper Ingvar Jonsson Dies at 37 - cwibc.co.id
+
+- **URL:** https://news.google.com/rss/articles/CBMiXkFVX3lxTFBaWGFvNDRGTThVWkUzaDFGcWFSbkw2TGF4NEJqR0JxNjhnaGJXMHlhNU1KcFV4WlZuaTMxUlZ6ZDhSNndqVlNDZy1xSkVObjRTX3RzMExqcWJUVG5xd0E?oc=5
+- **Source:** cwibc.co.id
+- **Published:** 2026-11-27T21:18:00+00:00
+
+## Painful loss at a young age: cancer ends Iceland goalkeeper's journey - Goal.com
+
+- **URL:** https://news.google.com/rss/articles/CBMivAFBVV95cUxPUENUb0RQQWtkOENheTVVcHF1MGYxM01SWDVpQmIxWWZtWkg2d3dkRlRXNUd2LXFNQkt5NUZWV2FrRTcwdURBOHlYaURSYXRTR1dEZ3Z4Yk94NzRKWTZZSzR5bl9Yd2hESUg1ZHU1SURMclY5NDJoVVFpUXFtWU1OMlhCdHhjbzhPWGgtay1VZzlLUnFpLW1NVEk1UFVPSEdhNnBFM2x4SU1HSTFDQURzeGdaZXM0VWUyRlMzNg?oc=5
+- **Source:** Goal.com
+- **Published:** 2026-11-27T21:12:43+00:00
+
+## Ingvar Jonsson: Iceland Euro 2016 squad member dead at 37 - The Independent
+
+- **URL:** https://news.google.com/rss/articles/CBMijwFBVV95cUxNY0RRT1U4dktMZFF1b0VJdkxRYlNja0tVeXhkSGU0TjdNQjF0ZS1meGNSRnJpSjRLLUdxdnBONlJZMVZQVHlkcjZTbFlzaVZkSU9lZVVjREl4dndTZzNIdjhRVWpIRTNxRVNyQXJpa2JXazVqSE4xdnlQMkQ1YWM1TjVBNTBVQ1YxX2lRNUtRZw?oc=5
+- **Source:** The Independent
+- **Published:** 2026-11-27T19:28:00+00:00
+
+## A Bucket-List Trip To Sky Lagoon In Iceland - Chatelaine
+
+- **URL:** https://news.google.com/rss/articles/CBMifEFVX3lxTE80ZzhHMk1lWU1xMzZlZEN3X19kWGU0Q29BX3RPaG92WURzYzdfZC1nbFhEOWV3eWVXbEEtZGdwVldNbHFVVHJUUmZyTDlQTm9MWGJnaURzaVR6VkI4QmVGbG5hakpMeDlScUwxR1BkNzZoc0k0WklkMEdDRk8?oc=5
+- **Source:** Chatelaine
+- **Published:** 2026-11-27T19:08:19+00:00
+
+## Former Iceland goalkeeper Ingvar Jonsson dies at 37 after battle with cancer - A News
+
+- **URL:** https://news.google.com/rss/articles/CBMiugFBVV95cUxQVm5NSTVGeHF5NnJ0NGgtZlgxUWRGZ2FlMFYwa0pHSm1yeUpHZnM3akNaZjZTWER3TE5yM3A2STM3R1FfbWFEdERVSW5VLS1lVE1nQ0Eydy1sMGh6TmF0UTNQcDBuaGhob042R1R0QlBuemsybWRRRVhSWXgwQmxRMl9Sb2tRRnhHTFE2OTJ5Q3lHajBxQ1ZBRXpZQldvcVk3bG9UMFJSamUzT1U5YUFYd3dvOXZ4QlZpOEE?oc=5
+- **Source:** A News
+- **Published:** 2026-11-27T19:08:15+00:00
+
+## Mechanicy lotniczy odrzucają układ zbiorowy - RÚV.is
+
+- **URL:** https://news.google.com/rss/articles/CBMikAFBVV95cUxPd2otcG5ZclFpUWk3LUZOVmdTWU5wdDIwYVVJb0JJSy16eXVmRy1INVNid05aZTV4dXl4MklBRURHQnhYQlhVNl8wa2E5NE1OeUh0ZDBDS01vRHh3Q2JuUzF6SHRuYUY2X3BVRXBIQkRBVksyci1zNzhick9vOUp2ZWduSFdBakRMSHRQWWQzOUI?oc=5
+- **Source:** RÚV.is
+- **Published:** 2026-11-27T18:54:04+00:00
+
+## Is Iceland a Nordic or Scandinavian Country? - Guide to Iceland
+
+- **URL:** https://news.google.com/rss/articles/CBMif0FVX3lxTFBkTjFaWTFNTjc1aUNXRE9aczBZZ2tEQTI3TW91X0xDM1hkOTJGSzBBQXg1VENKNENuUE9rSDJVNXRVT0R1S1JyZjlxdnJjQmxnOGhNRW93aHJfd25LRk01RmcwOFhxQTg4VEZvVl9HUGd6R3hra1FROHA0VEk4VkE?oc=5
+- **Source:** Guide to Iceland
+- **Published:** 2026-11-27T18:20:07+00:00
+
+## Forecasts | Icelandic Meteorological Office - Veðurstofa Íslands
+
+- **URL:** https://news.google.com/rss/articles/CBMiS0FVX3lxTFAzUG5pVVFwTlZQN2p4RkUxSDBxUE85VWRXLUdHNVg2Uld2eUxBNUkwRGcxNmxpY1gySDhrS3JYZU1mQWF0LW55a0lmSQ?oc=5
+- **Source:** Veðurstofa Íslands
+- **Published:** 2026-11-27T17:25:25+00:00
+
+## benjamin-franklin-laki-volcanic-haze-1783 - The Watchers - Watching the world evolve and transform
+
+- **URL:** https://news.google.com/rss/articles/CBMi_AFBVV95cUxPcmxwbk53eENnTEEwSG1rV2cxcVRsOW5MQi1pVzhoUWZkdGxUR0xCRGpfSnZtM0dkOHN5QmtycHI5eFJIQ2NLSnIycjFUdEN4cFVLbkc4X2Nhd19QSHA4SGNOSDlDMmV5aTJ5TXZ1NGtOS1daMjhQQk9RdGQteG5HWFV0dXI3NF9KVHhia0ZBZUdOQnJHdXl5UnRGS2RmMjFla0VFNXBQeUlfU2JVa1VCT0p2cFpfNzk1ekVmdGdJaDF3ejlJZ09rYWpmS1BHSVMtODdpblRwYVhseUNER0wzTHNNYlFmNkRRbVd2T3FFaVJZZjZ4M2NnQ1VpUko?oc=5
+- **Source:** The Watchers - Watching the world evolve and transform
+- **Published:** 2026-11-27T16:52:28+00:00
+
+## Popular Plumstead supermarket FINALLY reopens after major makeover - London Now
+
+- **URL:** https://news.google.com/rss/articles/CBMinAFBVV95cUxQM3RjX21rOHZOUTB0ckZpMUxMOWJQc2V6SmdIQlEwSWlwb2puSnNKX0lMcGxqaU14cWtHMDNNckFkTzJIZllaVnlmNDd3R2Y5UW13N0kxaTNVbmdDQXl2amJzTmxkd0s2YlF4NzRKRm5TcE0xc1VMcTh5T3RSNm5qQVUwYUlvSFZDc3JzZUFLVlF4cUM0ZWs3WENXal8?oc=5
+- **Source:** London Now
+- **Published:** 2026-11-27T16:51:23+00:00
+
+## Iceland gives staff 26% discount for whole of January after energy bill rise - Retail Week
+
+- **URL:** https://news.google.com/rss/articles/CBMixgFBVV95cUxQbmh2WTMwcXhMUWJDM3J4ZDQtczY0NHBEOWoxcDBXWGxKYlQ3cWxzSmVjMUdWdXJaRzk1RkQydGZuR1dtb05ENmNjcXpDRVBRYVdnR2FsdnFKVE02aDBoSUNaQ3I4WWVXb01vdG1hX0lrV0lTS01OOVBTMUxlYWQtLU5paENuM2daODlIYTJaZWlOZXhIWUY2WDR4UjdBMW1LSDd6Q3M2VUlUc190UmFXSnRZYmpZcVVjR1FrX3VPdlRubDh6WUE?oc=5
+- **Source:** Retail Week
+- **Published:** 2026-11-27T16:46:57+00:00
+
+## Scientists unveil the secrets of Iceland's spectacular lava fountains that pulse like a heartbeat - ZME Science
+
+- **URL:** https://news.google.com/rss/articles/CBMimAFBVV95cUxONnRSYjlWZ0ZQeDd6b1BSajdjV3R6OHoxQlNPTmxpdEE3SEFTVmJmTXpVckJkYlVGek40by1CYjFpZktLTk1EeHp1VFpVRHlQMUk5bi1YQ3dxLWlIa3MzVmozSGZnZmQ5ek5hUGx6d2lHTXNWbTFSbWJWSGlaLXBTZVJRNlpRR2s0cXpuV1dNel9HVnM1eENrNg?oc=5
+- **Source:** ZME Science
+- **Published:** 2026-11-27T16:21:45+00:00
+
+## Watch Iceland vs Luxembourg - TOD
+
+- **URL:** https://news.google.com/rss/articles/CBMinAFBVV95cUxNOGFQazlkT0JBajZhOExLeWpYZTlIenQ3akFLMnlJWFNrWm5qSWNIcDhQWDEyQlFvVHhFZDRUcDRwejZPUUR6Y2N3ODFBdFItaDc1dUtrRnF5US1sMUhZOGVKSGlwa2xOZ1BFd2dnR2VJRWFRelJ2b2FrTEZiUWk0Q21DYmhFMlFRc1YtdzRQaDQxMmFscDhHcUZYaHA?oc=5
+- **Source:** TOD
+- **Published:** 2026-11-27T16:15:18+00:00
+
+## Plumstead supermarket welcomes customers back after major makeover - London Now
+
+- **URL:** https://news.google.com/rss/articles/CBMimwFBVV95cUxQOXhSeFZCaHVRTUxvSURkQUJHV2ZEX3hoWkx2dmFqTFRuZF9od1hmbFM1Z0hlOHItSVhXa2xzcGpkSHo1eUlzTmRaVEVvRGFlNGpKUU04QnJDZ2pIWDVsdXd5bnQ2OTBhQzhXQXN4OV9nTi0wcE84ZHo2Sk9ZUlBscVdWRS00WlJnREE0cWdYRUZXY00tOHZXX3ExQQ?oc=5
+- **Source:** London Now
+- **Published:** 2026-11-27T16:00:00+00:00
+
+## Reykjavík's computer systems under intensive monitoring - Iceland Monitor
+
+- **URL:** https://news.google.com/rss/articles/CBMiuwFBVV95cUxPckxGNVFhWDMwc1BXRF9qOFpKT0V5X0oxX1NkQWdNdmJKR1lQMXBLdzZ6RWdxdlJBclh6T0NJRzVFNnBQT0Y4MFlPZUxWMTZaUjVlUU5IdDJlNWhyanZ0VW1wMmFjWHZSS0NsNzd3YWtrQ01iY2t6cENmV1YtM0dvdEd1cjFnNktJY3BrOFR1Q1Zub29HM3ZZZjdYaXVQeDlSamVZVGx6bFFWemktOHV4Wk1LcTg4VUFlNUc4?oc=5
+- **Source:** Iceland Monitor
+- **Published:** 2026-11-27T15:52:00+00:00
+
+## Minor mag. 0.7 earthquake - 3.1 km ESE of Bláfjallaskáli on Friday, Nov 27, 2026, at 01:17 pm (Reykjavik time) - Volcano Discovery
+
+- **URL:** https://news.google.com/rss/articles/CBMixgFBVV95cUxQOWo3QVBPWkZUREN2YVItMjdyV3RDbld1MUFJektZNGx2MlVuM1o5TE9nRzRpUVhxN24wVE1rdkRoVlJ0Y1R1Z0ltOWh2bW9VZUhLVkFoa1FCSy1lRGV0Ri1MbDdpazQ2SDhVRzNGdTR2NGhWeGYyVE8zWG1rLWF4SlFGbndNYXRJWnh6Z2x0NmxkOHpSVG9KMFc3SkNGblZSaGNYSVhVcHp0c18weDRQVXB1RVNjVE5kczRzZ29IZnNjOWdEWkE?oc=5
+- **Source:** Volcano Discovery
+- **Published:** 2026-11-27T15:06:39+00:00
+
+## Iceland's Ingvar Jonsson dies: goalkeeper was part of Euro 2016 run - LiveScore
+
+- **URL:** https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUzdqY3FYakgzT041dWpFbk85dnNVMEZET29URllzUmNXOXQzeVpaeEdWSk9tMEtZdng3NmFfMWV6b0k4SEVfR2tYZGlDelNrRVZ4alJGZ2hUU3NmVHNxOEU0aTNaRWI4WE94LW1Gak9LQUtoX3FQTG9jY0dNbTVFMGVOSDc2T0lpc2t3ak9Edkc3Si00VE9rVURnYUF6LVJUNHZKenQ0Yk5wOVkxcDBIaDk3SDJhMGFXdURZ?oc=5
+- **Source:** LiveScore
+- **Published:** 2026-11-27T15:00:44+00:00
+
+## Iceland Prices Fall 0.54% as Airfares Drop - Iceland Review
+
+- **URL:** https://news.google.com/rss/articles/CBMihAFBVV95cUxObWx2ZGM0WW8xenAtSE15MEJMdGE0V2plS201TXNuUFJEN0hqbUJNOVJya0MxbGUzTUVtUHE5ekRjYkktNk5mSWJvdFpJX3VXSUg5QWp4WFJpcHhlRjlwZkxvOUdYNjBHZkhXcnpiT3hDTEhXQ1RlMXNFeEpDa3FPNGZsTXY?oc=5
+- **Source:** Iceland Review
+- **Published:** 2026-11-27T15:00:42+00:00
+
+## Ex-Iceland goalkeeper Ingvar Jonsson who was part of Euro 2016 squad that stunned England dies aged 37 - The Independent
+
+- **URL:** https://news.google.com/rss/articles/CBMinAFBVV95cUxPa3piRDhOUFZZWVhlLTUxZWI0bzdJTU5oYzhKcUxNQ2RKWXVrWFdPTERMd2RxTFhFVGRUQVBtNzJOYl9qWERFR0Iwdzl4dXNHM19iWHFKTmRVYmdRTm9yNkNBYzRmTlkwd1lDMHBnRFBYclpyTFpTWk9YRThGWE9IZWlCd2ZVbVVGMHJZNGtOMkgyRXpPdFJ3aXgxWkY?oc=5
+- **Source:** The Independent
+- **Published:** 2026-11-27T14:55:00+00:00
+
+## Iceland and the European Union: A Complete Guide to the 2026 Referendum - Guide to Iceland
+
+- **URL:** https://news.google.com/rss/articles/CBMifEFVX3lxTE05SnNCSEo2ZVo1cTYyMldhQ1ZDdnp2YTdnc1BXT1lsRDZNVUwyenFBZEp6VWx4RVR2TlFPMVVtWnF0d2FWMWJ2b1hvUGNwWW5rQWtvWUZBZmJ3emZoaGtjSUxiakdxNzRBV3gzWW14aU5HdlZBNVpoemNhRXg?oc=5
+- **Source:** Guide to Iceland
+- **Published:** 2026-11-27T13:52:58+00:00
+
+## Speaker of Iceland's Parliament meets Qatari Ambassador - The Peninsula Qatar
+
+- **URL:** https://news.google.com/rss/articles/CBMipgFBVV95cUxPZ2lzRWNFVTcyMzI4NkZSdUs1UGdIR3FFLVdHMGRuYkFyMTBDNVZIWTd3ZGZ1OHl5ZFlBSmdhOTQxQnY5STkyZkJqa1ZNaHVzWWtja082ZElBaUZ0TFhXbVVrNGNTaXFacG4zR2ZKSHVoR3VCeWhUNVlRVVRfanhkZUJDZ25mVG5aUHZNUXNtRGlfajhKWFVsb1dvV2hFMENNMnNRT1ZB?oc=5
+- **Source:** The Peninsula Qatar
+- **Published:** 2026-11-27T13:42:29+00:00
+
+## Ingvar Jonsson, Iceland goalkeeper from historic Euro 2016 squad, dies - Mathrubhumi English
+
+- **URL:** https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVlFKVVFSczVOOXZ3bG51bE5MSm5XTmtRZHk4bkVlVHdlWGV5anJ0N2pTOTZwSzF4MTdGYW96RWc2N2hneTVKdFlSOVRHa2o0Qk1Cd3FpY3lzVEVoSS1XTTVlLVlhcXFqNVpsNVpYVHR5Q0dkVmxQaU1nUTl1Zk5URktuRV80cXUxNWtlN01XdHh2TkdfbWtpWkRzS2paWENKeF8ycHM0TkJ1UdIBrwFBVV95cUxQMnZBZHdrNEoyWHJDNXlzdUR3dDNIOE9tSHZEbEdCdmxoZjZrNnhxUzIzWUg1UXhYZk1qWFp2VzdLVG1QZTVrTkhBaXJqbVJ3SENwcVRDYmdEQmNXak1PS2s5YXl2elNrQUNzSmMySWZ4WEhCb1MtempxRmhETGg3MVliVkl6RjI5LUVwNmdTOWtKVE5rWkZvU0RjVDJDVkdHZHFrQXBFOFJDdkpQbnQw?oc=5
+- **Source:** Mathrubhumi English
+- **Published:** 2026-11-27T13:39:27+00:00
 
 ## Former Iceland goalkeeper Ingvar Jónsson, who was part of Euro 2016 squad, dies at age 37 - Houston Chronicle
 
@@ -165,141 +303,3 @@ _Last updated: 2026-11-27T13:31:53.733851+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMiqgFBVV95cUxNU2k3MWNUaW5KS01HOFM1bWJzYWxWOHgxaTg1WjM2OGVDbm1wVWpqY0VGdFowM1pETFlROGtuY2g2dWUwaTFCM1hVdm04bUowZnZCcGJDV2N6MFJhSnBtc01rZlk4NUVZNzdsVXlPQk92NmJKVHVIcG5tcy0wbVV5QmFobUI0OVdFamtsMEFyYUEwQmU3Skc2QXZsNF9wOGdia1J3THJfMldOdw?oc=5
 - **Source:** Web In Travel
 - **Published:** 2026-11-27T07:40:27+00:00
-
-## UNHCR Iceland Fact Sheet, September 2026 - ReliefWeb
-
-- **URL:** https://news.google.com/rss/articles/CBMiggFBVV95cUxQUVgybWFJblZiTDg2TlJFY2FLMldpSDJNZ1d4X19HSEtpdnFLd1lmN0c1TmtCQnVGWXIwclZnaGNZdnJSd090TzVGRkM0Wk5GQU5INENnbmhUUmc1UlVhcl9vVVRIZHl6VEM0ZXg0b0xhY3FVakVZVFpDcU1xMm1jdHB3?oc=5
-- **Source:** ReliefWeb
-- **Published:** 2026-11-27T07:35:53+00:00
-
-## Icelandic salmon opens new seafood import gateway in southern China - Salmon Business
-
-- **URL:** https://news.google.com/rss/articles/CBMioAFBVV95cUxQUzdJVGU4UFVUZ0pkamZ3S0VrT0lSQzFBN0dyeFl0aFJBbXpac2J6NE82dWtBLWIwUlRuMXgzMnlpS3RfNm4zQlA0dUp6UTE5TmxQbmNYaWhUWHhuaG52WWlfaUdMa25oVjQwc1J2YlJCdFFrWWZhWmY5Zl84QnhfWTduemJnc2Vpem1HQ0tfZ0JhdWpvc1FYZkl6cUhCbUVn?oc=5
-- **Source:** Salmon Business
-- **Published:** 2026-11-27T07:14:04+00:00
-
-## Iceland loses Euro 2016 goalkeeper Ingvar Jónsson at just 37 - Lente Desportiva
-
-- **URL:** https://news.google.com/rss/articles/CBMikwFBVV95cUxQQk0yWU9MS3ByNmg2aFNIeDF4SGhvcDVhS3FqUWtoTGh1ZlhjTnRKaEVNb0RNR0duYng1ck9FWE9kZG9yZUUwOFhBcFp6b2RqMzJxbE5Pd0QyWVhHdHNlaHN6U2haWUl0RTdkU2k1YmF6NkVyYW1zVkNtNkx1TTJuZnFzSVFVM1E1ZzV3UmtJXzdFQWc?oc=5
-- **Source:** Lente Desportiva
-- **Published:** 2026-11-27T07:13:33+00:00
-
-## Weak mag. 2.1 earthquake - 6.1 km ENE of Hveragerði on Friday, Nov 27, 2026, at 06:56 am (Reykjavik time) - Volcano Discovery
-
-- **URL:** https://news.google.com/rss/articles/CBMiwAFBVV95cUxQX1NVNlZkaUJyZDdiWV84S0piU2pSR3c5clNvWkwwUEtNcXJQQ1AtNnJfSFcwUXVnUkREb04tZWx3cVJCYVV6LWllbEdvdGRLemd3OEFKcWZrbzI4U3dEWnYydE0wTjBzamNtX2VlTEVSS2JReGRIdWJ1M3Nkb0xVMHlqUGwzQWtCaEdKaUhfSFE3QVdleTJIeW5EUWJ2T01KSnIzRnE5MlJwcklHc2t3VHMzSmtmbnRESmNfc19Cems?oc=5
-- **Source:** Volcano Discovery
-- **Published:** 2026-11-27T07:11:31+00:00
-
-## Weak mag. 2.1 earthquake - Iceland: 15.1 km W of Hekla on Friday, Nov 27, 2026, at 04:14 am (Reykjavik time) - Volcano Discovery
-
-- **URL:** https://news.google.com/rss/articles/CBMiuAFBVV95cUxPYVU4QVNKQkdibjRsV1RNN2FtWjNBZjVDbTNRSWNIUTFlTWl5SUFuMzRodDZubE9DU1Q4VDd1Z2JRMjlfMWoxaDBFZWNyc2FvY0xIZGxJRFpQcUsweW85UnJJZ1lsdk12NnREdXQ2SWIzQmJiVndoYlNKZjZVRnpjbFBuR1NkSEN2S1RwaURscFNwQXBweUJoYnE3d0N0bHNfVHdmYk5fUW5YLXNGNEtXbmVPNHhLUTg5?oc=5
-- **Source:** Volcano Discovery
-- **Published:** 2026-11-27T07:05:38+00:00
-
-## President of Iceland receives credentials of Qatar’s Ambassador - The Peninsula Qatar
-
-- **URL:** https://news.google.com/rss/articles/CBMisAFBVV95cUxOTDJIRnhUamRJOWFrci1NNVZrZE85aHpJUjB3TjRBRUJjeldLWG1LQ1ZRUTh3cjlfamgzUjA5eFRYbTc4TjYweUszRDRWeHV3RzNucGtYU2wxbHBWbjU0RUNWVlluczhNaFZacXFXdVF0YnBLYmVRZmZCclQ5NTFmaUpuLVZRNXg2ZGdyaUN3V2JmeE9lNlZHWDFDbDZUNHBxSkIyYlhXeFoxYlk4dTItVw?oc=5
-- **Source:** The Peninsula Qatar
-- **Published:** 2026-11-27T07:00:12+00:00
-
-## Gales, 10-Metre Waves and Ferry Cancellations Hit Iceland - Iceland Review
-
-- **URL:** https://news.google.com/rss/articles/CBMilwFBVV95cUxOaGFTT19RblFHbld4cHM4QUljU0dQMzUyMk9rUUN3dHpURWd2c2pVOGNEc1h3blVFWWdndk5lQ0lXSTJ1ZVkwZktEUHBJTFBuN1RLandPVzBvQ1poQTZQS29aVTN1SzU1Q0pVd3JTWFpTN280ckgwOWE0ZHZObTlCVDNPNjZSYUxudnNuUXJwajlmU1lybURr?oc=5
-- **Source:** Iceland Review
-- **Published:** 2026-11-27T07:00:00+00:00
-
-## Yellow weather warnings into Friday - RÚV.is
-
-- **URL:** https://news.google.com/rss/articles/CBMihwFBVV95cUxOSFhpMGh5WnFVOWk2M01JZmNtdGRHc1ZfTkI1Q3NjbnY5Y1pfeVB4NWFIYVZIMFk5bzg4eXM1LVZ5RzV2UzNHSnFoRFBGaEYtdERsX29qQjRDQlhvZXZtNGxnVjVBenoyYnljWTB6T055d0h6MjZqS0xPZXlycDVMMmk3OHJidTQ?oc=5
-- **Source:** RÚV.is
-- **Published:** 2026-11-27T06:33:00+00:00
-
-## Crew of Jökull did 'exactly the right thing' by grouping together in sea - RÚV.is
-
-- **URL:** https://news.google.com/rss/articles/CBMitgFBVV95cUxONF9Wb0Rna3hFdkJaYTFMcTVHcVFORkUxQUlTLU9rRFFkVTdycWloVS1NNmFYWWJtbGxaRWtpZUhkYUpmX0NwX0xCSXl5andBQy1UTFVVRGo1RVIxb0dibFFTcmIwVjU4aHhXeEFXUnNhS1lDZThqSU9sd2dyRlNiMFdQSTdJenVta1cxYWtuaHNSbERwZ0pPNjZmRklMYVQ1QVFVQXE1LTRBQ3NwbU9IcmNjYmc1dw?oc=5
-- **Source:** RÚV.is
-- **Published:** 2026-11-27T05:57:00+00:00
-
-## Saved the whales - The Monthly
-
-- **URL:** https://news.google.com/rss/articles/CBMijgFBVV95cUxQcDM1YVdpVEJYWWVXLWtJYUNNMC16SW5sYnQzczYyZnY5NF9JZWUta1dPVWJ2ZzFUTkVhUmF1aFJwcW1XQkRuM0NPZXUzcWV1RU5lQnNDclVvcHliTVFZUHplQkVJWl9HYnFjNS04LVQ2OFpTWXoydVR5dTliaGV0SERBUmc0V1ZWMEpLMHh3?oc=5
-- **Source:** The Monthly
-- **Published:** 2026-11-27T03:24:48+00:00
-
-## Three dead after fishing vessel sinks off eastern Iceland - Baird Maritime
-
-- **URL:** https://news.google.com/rss/articles/CBMimAFBVV95cUxQd2plQVZnWXg4M2lIbFJZREliMGhQd01fRVprNlc1b1BCVlBRekJCOW1JVU5qS0JVMHNoaG5nRVNhRy1XS1Qwdmp5aWxRWHlmcUFOdTFYU3ZFRlNiSExUN1NNSEV0d2d4VGYwVk5sY3dVakV5QmVzUTN6RkVjZnd4ZW1mUkZGMlZBajR2Z3JPNzZmRDFQZGZON9IBpgFBVV95cUxPd251WGUzbXBkZ2JyX09IakRUVkJYRlFMQzZxbG1sVzBQWTdtSkM5ZzhwVThvYnVxd0duYWFoNlhTN3JUbHd0aWRUcGpDZWVTekZxanhxNGlvT3FLZVZaN0diZ3hORnNaLTB1Q3ZYTDdWa2dZRlFfNE1XYkJvaUhSYmFBeUFBVnBIMGd1Z2ItRkhtTzVtQnFqSWE3akNrSEQ2UTdSQ29n?oc=5
-- **Source:** Baird Maritime
-- **Published:** 2026-11-27T03:17:36+00:00
-
-## Seyðisfjörður - Forecast | Icelandic Meteorological Office - Veðurstofa Íslands
-
-- **URL:** https://news.google.com/rss/articles/CBMiUkFVX3lxTE5WMC1zcHRMUFdlTDRDdlRTR3lSWEpoQnhERl9iQkVZRU9VWldMZENCRzRyaEI3UGR6SXR5elhROGJiaTk3SHk4aTZJS2ZaZkpCUmc?oc=5
-- **Source:** Veðurstofa Íslands
-- **Published:** 2026-11-27T00:59:08+00:00
-
-## Discover the film locations for Supergirl (2026), around the Cairngorms in the Scottish Highlands and in Iceland. - The Worldwide Guide To Movie Locations
-
-- **URL:** https://news.google.com/rss/articles/CBMiZkFVX3lxTE1USUEwakZRMEFZQ09IMEw1eFVfdVBtRUhDZ3dJaWhlNlUtelFfQ1B4OXN2UVhTY0V5SzJpSmNJNXB3UFVlZE1UZ3hwVmJ5ZVk3bzRkVXE3aWxkREhEQVpHWVdvMFV0Zw?oc=5
-- **Source:** The Worldwide Guide To Movie Locations
-- **Published:** 2026-11-27T00:29:13+00:00
-
-## Fishing vessel sinks off Iceland, killing three - Macau Business
-
-- **URL:** https://news.google.com/rss/articles/CBMifkFVX3lxTFBmSjV2NXJtS0hHeWZoUDJzR3FSRTJmcDRvbmRlaVYyUnFUdzBweWRFRmI3UmpXZXhkbTcyd2FHQ0Q2TlR5clRnWlZWRWlqTDJUQ3MtOWExMEtmR19ySWdDLWlaUVFFUzRFaEs0VXFXN1IxWG5zbkxPcFN3S3d6dw?oc=5
-- **Source:** Macau Business
-- **Published:** 2026-11-27T00:00:17+00:00
-
-## Iceland Goalkeeper Who Was Part of Euro 2016 Team That Beat England Dies Aged 37 - GiveMeSport
-
-- **URL:** https://news.google.com/rss/articles/CBMikAFBVV95cUxOTXFhNWJkbjdyZV80VHdibHpnNTZvZENldi13eDRzY0FPX1VockM0THFlcUxoTzlKcmJGWlRMWXJBYWE0TzgzQWJzV2U1UXl3SlJUVnRLRlRRT1FoaVBIbTFENHZudjlkMktGaFozWmJ0dGpaRWZOY2VqelhNdjQ5X0YydFd3cWJHRGlBZ2t4M1E?oc=5
-- **Source:** GiveMeSport
-- **Published:** 2026-11-26T23:23:22+00:00
-
-## Iceland Has Deadliest Maritime Accident in Decades as Fishing Vessel Sinks - The Maritime Executive
-
-- **URL:** https://news.google.com/rss/articles/CBMiswFBVV95cUxNcmdLbXQ2Q1lVdjhpYWRMMHhwTUh2RXJMcUFCdlRkc0s3N2VFWFZ5cmstTFM2ZWpEWkhqQ0RJRjdZbmN3NXlVR2JCckw4Tkd5OWt6anEwb3VuYlF2VERzeHlKMFJFMVJPRzFCTm1fVmhnOHZaekNXSUtjVlUzVmtVRW00THozTEV0cXV3aS1FZkdiX1p1Y05lMGpFTEhCUXFCQzMxRGJoaldXbjFldjl4LWk0Yw?oc=5
-- **Source:** The Maritime Executive
-- **Published:** 2026-11-26T23:11:58+00:00
-
-## Reykjavik, Iceland (2006) - IMDb
-
-- **URL:** https://news.google.com/rss/articles/CBMic0FVX3lxTE93TWxYbFRlVy10TWNFT0dUSWlKaXQ3S0ZZbkxmYVBZdmJpT0o2cXVjMVg4R2ZaMlpnNmNuRTZZQTJpMWwycnNsSG45TTRGMHd5WGI0clVKVjlUcG8ydTlsMmdmcy00R29NaUlERW15dy1ndWc?oc=5
-- **Source:** IMDb
-- **Published:** 2026-11-26T22:56:04+00:00
-
-## How Will EnWave (TSXV:ENW) Expand Its Icelandic Commercial Network? - Kalkine Media
-
-- **URL:** https://news.google.com/rss/articles/CBMirgFBVV95cUxNenl3NHRxMkxIV0x2NUpVczdXNlVxZTM5YWJ0eWJmS0ZMVkhVR0lwcGwyUXI2UE9Pb2RqaEkwOUdBX29aSUpIbVE5WGpHeUlidEJ0S05Day12b2o1QmJZR0R1RWYyR21wVTBHSG54cFRkTVpVOFNybUpmbUlGV084elFSZFFiVVN5enpwU3l6TW5iN0pJRFpqZEJodVk0R3NxZDcwdmdfN3NrbXBXaGc?oc=5
-- **Source:** Kalkine Media
-- **Published:** 2026-11-26T22:51:00+00:00
-
-## Turbines east of Iceland's Þjórsá river now generate 120 megawatts without a single new power line, and the country's hydropower grid gained a third energy source for the first time in sixty years - Energies Media
-
-- **URL:** https://news.google.com/rss/articles/CBMiakFVX3lxTE9MWEd5NnVqUE5wbHF0cm5MdTBjTGo5ZVczZGpDZlBFdlVjQ2piSDZwa05aU1ZWY1pJWnlUZ0huSDhFQzRTZGRMMEVtTlQxMzZ4YlFINzFyRUJiWkc0RzdEYUxzeTF6V2VfMkE?oc=5
-- **Source:** Energies Media
-- **Published:** 2026-11-26T20:50:00+00:00
-
-## A Sag Harbor Whaler’s Icelandic Adventures Explored in Lecture - 27east
-
-- **URL:** https://news.google.com/rss/articles/CBMingFBVV95cUxNeDFvUnd3Vy1BZWpTRjhoR0d3ZWlLakJiTEZid0R1Q05mWGRnLWZ2V2ZJQkJpa2drakNXWVc4NXlwWGcyejBoRFZMVEFRWklxdURPZkdjT1ZDcDRuV0VLVUhFb0JBV1pBR2VrNm50SXNnemRBZXJ2SHd0WmYxeW5IMFptbDdwYmsxMmU2Z3hDLUJyaDZNaUtUYlk5VEdhUQ?oc=5
-- **Source:** 27east
-- **Published:** 2026-11-26T20:17:00+00:00
-
-## How Did Jökull’s Crew Survive Hours in the Sea? - Iceland Review
-
-- **URL:** https://news.google.com/rss/articles/CBMigwFBVV95cUxNVVJCRmNXVzNzaE84RjZFNzVaWkxJT3MzOW9kSnEyemRYTnBjdHZha1lsTEE3d1F6c2tpS3EzUXZnTW14NUtuamEwQmpQVWQ4eG4xZlhrMkg5UVpJOERvUzdxUkNkcjNvY1VGc3VPUlV1Ri05MXZ0VlNxQTNBZU5nU21Faw?oc=5
-- **Source:** Iceland Review
-- **Published:** 2026-11-26T20:04:35+00:00
-
-## Iceland Strengthens Coast Guard and Police Response Capacity - Iceland Review
-
-- **URL:** https://news.google.com/rss/articles/CBMihwFBVV95cUxOUUVwZmpwVjgwcmZWTXBZTkRNb0tVTWJLQlRCd3p5RjAtSnZVNEpKSEsyN0pEZEZpNzlGUWVOejN4UnBwRXNkUzVnbEJuM3dMSXVObEtWWTVkWVZXV0htVGxueHRZT2ZoMU1sMTFLeDdSU2hqWE9KMEVleXVKcHo0bnRmYmJ4d0E?oc=5
-- **Source:** Iceland Review
-- **Published:** 2026-11-26T19:00:12+00:00
-
-## Iceland goalkeeper Ingvar Jonsson dies aged 37 a decade after iconic England upset - Daily Express
-
-- **URL:** https://news.google.com/rss/articles/CBMimwFBVV95cUxQMHNON0d3aGpjaUlEYU0tLS1idFhkUEF4ajU5SkFOSE14ZlNuZ0lkT1pLTGdiX2J2ci0zb2NsMmRfZm9RenZEaS1kMUxCbDJZQTNwbGxmUmd3TF9WRUdMSTJySUtLTGExdG9OZnpFSUNqRVNNZEtXMS1YWlBUSDc0YUIwMGJaVzNqT0VEQ05vd1BhcEFtYjd3RU4tWdIBoAFBVV95cUxNNEVndFRoUFVIelZUMkhjUS0zOFBDX3JSU2wxanlPeVBBX1lMc0tkaFBYbE1ZbnpldjBQRVZLbjJjaHAwX04xMWtXWDRLM0xQTVFvcWFpRUJsakdQNUFobW1QZy1QSzIwMkR2WlJrb1JRS283bkFuVTFCcHVpV3Jvc0N5dnlXUHBVaExQeXZ4R3VVaU13MmhMZTh0Y0ZXNDl1?oc=5
-- **Source:** Daily Express
-- **Published:** 2026-11-26T18:57:51+00:00

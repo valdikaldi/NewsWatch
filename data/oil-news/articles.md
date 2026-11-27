@@ -1,305 +1,305 @@
 # NewsWatch — Oil News
 
-_Last updated: 2026-11-27T13:31:55.695863+00:00 · 50 articles_
+_Last updated: 2026-11-27T22:30:27.122061+00:00 · 50 articles_
 
 ---
 
-## Former BP chair tops this week's oil and gas appointments - Upstream Online
+## Canada's Trans Mountain to gauge shipping interest by early January in oil pipeline expansion - Reuters
 
-- **URL:** https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMkZzUTdOb2haZEVUb3ZkOEZaWmpQYnZka0JzMHltaGFsNDN5QXJWU2tWMXVhOXhGOVdLcHo1UF9jRmtxM25PcXl1ejN0ZThieGFZS29sa1kzeVhfQWJzbGpvVzJPZEl3VnAwUll5Q2RIT3VOYXZUYktpeUVOeTBwb0xEMmdoWnY4bHB4UDFSODBTVUE2bGZKM0tXUEpNZjFzT1RMQ0NCS1FSQQ?oc=5
-- **Source:** Upstream Online
-- **Published:** 2026-11-26T22:39:11+00:00
+- **URL:** https://news.google.com/rss/articles/CBMixwFBVV95cUxPS2tfT0JGX2Y5MGs1MGxfOVgwVFF4WXlRUFl5Wk8zNS1IeDBpVURTWWc2TTExTkd1eVNSYXZ0X3NrMnNiVENRRm0zNEx4Q05nTkk1dDRrMl91R18tSVRtRF9XdjhFMkw2OS1pdkVHeWw3WUdtZmdrWUc0MHNtcEFDQV82RWtwZUx1NGpVUnFuRU9PMGd0eWNaLXlDQzFRdTdaYVhsemQ4eVZaZUpxN2VJV2p4ZktwUmFBTG43bG81djRMeDdac0dN?oc=5
+- **Source:** Reuters
+- **Published:** 2026-11-27T21:52:13+00:00
 
-## WHO chief urges US to lift Cuba oil blockade - Semafor
+## Desert Shrub Kernel Oil Ameliorates Cognitive Deficits in Aging Mouse Model - Bioengineer.org
 
-- **URL:** https://news.google.com/rss/articles/CBMikAFBVV95cUxOQ1h2RFFRWFNad2xnVGZ2NjRLS2VOM1R5Zmt6SW1RTDlySTBHOTlleXd4TFRzdDJKNGFrQzlfZUVJTDc0bXZQTWZoNUtTaU1WbFB2NlBLbGVCSUVUeDdCMzQybGFpdTM3X204RzlKQkl1VERiYTVjOF9lTFk3Y0J3dU5Yd3p2YTR2QzlkZmhYbXg?oc=5
-- **Source:** Semafor
-- **Published:** 2026-11-26T22:34:00+00:00
-
-## Oil price surge expected to flip Alberta's projected $9.4B deficit into $8.5B surplus - CBC
-
-- **URL:** https://news.google.com/rss/articles/CBMif0FVX3lxTFBsTTdJZ1FjSWxTTl9UNE1sbkVTMERhek8yTWFoX2toNkt6QjBia0JMN3ZCODI0bEQ5dEhXaFUwQmlBc2hMbkl2bEN4RTV4UXc3Q0g4QXFyZXRvdlRIMlFkSUc2WnJQVmZoLXpPSkV0X0tpT09UbXNsUElOVUN1Mms?oc=5
-- **Source:** CBC
-- **Published:** 2026-11-26T22:17:39+00:00
-
-## Annual Turkey Trot 5K sets attendance record - Oil City News
-
-- **URL:** https://news.google.com/rss/articles/CBMikAFBVV95cUxQZ1didGRqMWpxaHotcDZncmg5NWxuRG5LUkpVdVlrRE9PZnFQbDBQc1JnSWlSa0IxX0RhUW1SVkIzbmU3ZXRwUW0wZmlEenRPSW9XbFpscUtQaVhKM2VJRllwYm9IUnBGQVdyMVU4YlgwZ1lfRnZPNlk0TDdWeHA5N3JUeUNxREVsT21rWGFwUEk?oc=5
-- **Source:** Oil City News
-- **Published:** 2026-11-26T22:01:18+00:00
-
-## The Next Big Clean Energy Bet Borrows Its Drilling Tech From Big Oil - Crude Oil Prices Today | OilPrice.com
-
-- **URL:** https://news.google.com/rss/articles/CBMitwFBVV95cUxOWkdaTkpBRFp0cDVhdDUzemR4dXMzWUNUcjJLclcwWU9wMnlFMjBPbXN3QWVSdDZ1dEZPNUpWcWxJWkdhSXdRa3VnVkRCZWwzSUdmU1B4d0xyc24tY0N3dlFaNFp5NGRyelhINmtqdGdXd2ZGWlBEdVVpMEhwdTl5NmhqYV9WZUlSd0tJQUNkY2lkWVBadE5hMUMzdmhXNmo4WmZGRl9NcU9pMnktanVEWE5sNVBQNjDSAbwBQVVfeXFMTjJXZkVKaGM3TUNaNWVvamJ1R0tjRXlFOHlteVFNdWt2bkxkdzJrZDdIV25VZmZweEdJYjBtNC1OdFU5U3NzdU8yZjRDMWdZUUp4YXJ2OWpmOU00LUxUYUx1SFFlWjJsQ0J3dGFhd2xJN0xZVS1MN2RNOWMwbG1STDE2ZktqS0VvMXBGblNJZTg2Y1Y3dXFLTVlLVHNWeDBySDVrUE9FQVVfTnR6YkVrbTRUeGQ1dllFeVZZbm0?oc=5
-- **Source:** Crude Oil Prices Today | OilPrice.com
-- **Published:** 2026-11-26T22:00:00+00:00
-
-## Asian Stock Futures Signal Gains, Oil Climbs Again: Markets Wrap - Bloomberg
-
-- **URL:** https://news.google.com/rss/articles/CBMiswFBVV95cUxPd2ZFa0FGcTRjb19HbGxhWGxZc05LTXQ2WUJDTTQzc2hYNGVrbE5GQWtlcERpWGdVZmptNEFUM0ltY0ZobVhoaVo1Qzl4ZTFuNlBDSXFNaG9ETXFDOGdYSGppVVh1cW10TFJ5RG9sVVNYZmUzMHk2VlROMG9yVDM3UzRtM1VSbXlaYWlSN01McUlncVljREZvOGY5UzZaSjc3R3MzdWJUOF9oS3ZLU2c3bmV0MA?oc=5
-- **Source:** Bloomberg
-- **Published:** 2026-11-26T21:59:57+00:00
-
-## Natural Gas, WTI Oil, Brent Oil Forecasts – Oil Rallies As Iranian Drones Kill Italian Workers In Kuwait - FXEmpire
-
-- **URL:** https://news.google.com/rss/articles/CBMi5gFBVV95cUxPTGlPbkc1cktPdG0zblhvT3lFSXFlVlp0Q2tMSTlNTG9OdXNzb1h2Uk16X29wcGZ4MEw3UXdYeUEyTFA4enBabDhRaFFRZjRnT2pEU2tsZW5wRjBBdWxldUo4bVdGM0NjZ1hLaEk5R2RxWXJldjFVQ0NMQXBTVndMSTM2b2Y2TXlJSnQxdWFIZ3ozUTV5Q2dVLWFoUkUxMWlTRHlvS0ctWnV3TXdtU1p6RnRyREtsRnMyTzNYbEg5aVNBWVlKakg1czJ3ZkpwMDFTd1R2dENOX0J1SjkwQUNidzFLb3dZUQ?oc=5
-- **Source:** FXEmpire
-- **Published:** 2026-11-26T21:29:47+00:00
-
-## Thousands protest in Irbil as Baghdad moves to seize Kurdish oil and border control - Japan Today
-
-- **URL:** https://news.google.com/rss/articles/CBMivgFBVV95cUxNOFc5ZXJxMTQ4SlRwaW9DZGZXMTJZQmFmR2NRSi02WUg5c0Z5b2pxd3BrSEttOHllQWprdGp2QnUzRVJLVzJyMWVaaFN3UzN0Tkh3dGJVbktZSjNtR2l3M3d0Z0tqMFFnSFVqWmcwRlRvc2tubEFQMUp4cHEtMVprdGpmSWY5MzZSbk8wYnI5bkR0S0NsaFVkRm5nSkNoUl9sVm5HVEhZVWhBUUdzcEhkcURrMUhSazlfRVV0UFJR?oc=5
-- **Source:** Japan Today
-- **Published:** 2026-11-26T21:25:06+00:00
-
-## China Imports Syrian Oil as Iranian Supplies Are Disrupted - Enab Baladi - Enab Baladi
-
-- **URL:** https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQWlwOTNMZzZ4STFyY0pCdzh5bFU5NXZUaHBfMXBvampWd3M3MlQ0R2FmdnlpWmdZcl9Tb2ZEZ1gyU2Q2aUlXOHNtUktEaFFOUkx4RmxfVnVvdHNIUDFsYUhzVXU1QU45Rjdrcm81by16YWw0TjVIci1aNTQwcWF4OE9RdjU1UDBDdXlfTWhJVHg3cGI2R3hWcUxJbmt0MVhDWXlqU2pSY0M4NEHSAbABQVVfeXFMUGpmaEk3eUtudHVhTEdKV3ppTmJ6ZjYwcGZHZ3dUYjZvNWkwTlYwYTR2LUNLRW1zdE82dWE2Q2p5OXdLeU5rNDBPRUpHWURUVUk1aGNVbUFuNlBmTjhBbVJnY1c1S29VTExlTEZWVnA4LWtfaUVNVVppaHNDS2ZyaEZVaHhYclhlVzFscjV4cjhjam1PdlNPVllFRFk3XzNEZ0JWc3VzQTZSelpVOXhVUzM?oc=5
-- **Source:** Enab Baladi
-- **Published:** 2026-11-26T21:19:40+00:00
-
-## 7 Ways to Save Money on Heating Oil This Winter - Kiplinger
-
-- **URL:** https://news.google.com/rss/articles/CBMikgFBVV95cUxNeGxVcy01ejByTmwwSzBlajF6SHpFZmdjZjlOYXJFakQwemN6MlNEY2VfWXRfc0hkd3dxY2hVcVA4R1dkSjU0ODlPTTBITS10b2puaFpwZUpERDZvUUpnVF8xNGExQ1pfOV9rNXhjdURWSHJIR3F3VnpRaDdzQU9vcExyalVGWmtfbU16MU9IV2ZGUQ?oc=5
-- **Source:** Kiplinger
-- **Published:** 2026-11-26T21:00:00+00:00
-
-## PEMEX JVs, SAT Fuel Audits, Amigo LNG: The Week in Oil & Gas - Mexico Business News
-
-- **URL:** https://news.google.com/rss/articles/CBMilgFBVV95cUxPazFLd1NOWjU5MV9IcWVwa01iVkZCNGJWLTc0aXBzOGZXdURkeFUxSF9PMHpVMTduZkVSa0JDU2ZwX0RFYnJVakdRTjAyVmcxN2h2S3lkdFNHNWVlcmRBU1N5MzJQZm9RQk9uLUhVeno5QXNwLS1kTFAwdWdjT0syMnBYQ2c5cl9iUDc4bll2bmlQall4MFE?oc=5
-- **Source:** Mexico Business News
-- **Published:** 2026-11-26T20:27:04+00:00
-
-## Carbon Dioxide and Nitrogen Pressurization Selectively Alter Post-Salt and Pre-Salt Oil Emulsions - Bioengineer.org
-
-- **URL:** https://news.google.com/rss/articles/CBMivwFBVV95cUxQMktzMnM4aV92blM5Sk9UZHpTdy14UkMtcWtJN2o2MlhMRXZhNzZnNTBSaXo5ekl5SUpLdmNHeDVZTXd5MUpKNmpRWk5nbzg5THRLZHRZTWllcmNoRjdmcjJ3T1BVbFVOZXVlb1J2Y1lHeUdUT3RNWmU1U1pFeWV1MFRxaDJjdkFlZFlaUEFtbDJsd2RhTk83WkJxaF90OC1yU29pT3cybHBCWGhxcTg3Q21ZdTdrdHprYTI3bVBYRQ?oc=5
+- **URL:** https://news.google.com/rss/articles/CBMiogFBVV95cUxPUHhkbEFvNE5zQndjNW9IYzBFd1NsUWVqaWYzalpjOVAyYlRYXzdBUm84R3NCUUdiUFJoX2lQMHpNQWUzRGJoaXpQQU5DSU1IZ251LVlZRVdvXy0tc1lPaUo5cmhkOGNMcDdMdjJvSVN4NEh0UUVMRnlscUp6X0ExQVJyTWhyLURwUDBTTG1LSy1vQjlDbVFnLV8xVnNWaGhwQkE?oc=5
 - **Source:** Bioengineer.org
-- **Published:** 2026-11-26T19:58:07+00:00
+- **Published:** 2026-11-27T21:37:18+00:00
 
-## Manuka Essential Oil Suppresses Key Metabolic Genes in Trichoplusia ni Larvae - Bioengineer.org
+## Oil Palm Has Replaced Illegal Coca on 40,000 Hectares in Peru, Says Ocho Sur CFO - The Courier-Journal
 
-- **URL:** https://news.google.com/rss/articles/CBMipAFBVV95cUxNYlVVUWNyaXNSbXBzWkZxcnp6aFNwUXk0MTk2cUNjLUJuRzl3ZEZzZlRsVzVkSEFUSnB0Q0FHSDRyYzJnck55dXVZdWhVRTZlQXFoQnJBSklWaVVYNUpNbTlmWm80eEZzNlI1V0JKWHV2dWFCUXlseHl2NzJxRVdHejRQbHEtcHBDOVZSYlZrdEtWemV5OC1LbW4zdzMwN0pOSi1Bcw?oc=5
+- **URL:** https://news.google.com/rss/articles/CBMi1AFBVV95cUxQSGhheHV1a3doVUxqUXJYMVBRZ0NkNXVnaDhZNzlNem9POTVLSEJKYy1XWHZQTm1XZ29RNk5JdURsTjlXcXRkYU8yZDI2SWJCMXg5d2JKYjR3VFVCSEhSM1FCMXFTTlNkQ3c3QTNqUnFtbXRlQTlPT0F0bndqdXFnMWw3Um9GZTFLU2NHc2NJV3Fldnd2S1B3Q1lOX1V0dUh1OXlrNG1EZVIwTkhzS3h2b2tMZE45MUQ2ODJ0ekp3SHAzTWFCNkkxVVFVcHcwNDNNbEluRQ?oc=5
+- **Source:** The Courier-Journal
+- **Published:** 2026-11-27T21:22:05+00:00
+
+## Changing Your Oil Every 3,000 Miles Costs £648 Over 36,000 Miles At Budget Prices And £1,356 At A Garage, And One Audi Dealer Wants £290 For A Single Change - NewsBreak: Local News & Alerts
+
+- **URL:** https://news.google.com/rss/articles/CBMiwgJBVV95cUxQM0ZESWxKN3VyR3hwUnFmeDk2WHI0X0F2ZmMyU19XUEZRWXJFVmlfdzdpdl8zUWRDUG9feUtsRl9rbDB5cFBVVURwd1AtUWVfTGRCVml3dTE3Z1N0X2RZUW1hNFNLbGtXeXpqcVNDdFNQY3dQMzJuUXl6bHZvN2pzV1Z3Z3JqVFR6UWhRdEczbF9yOTktQnVvUDEtSXBDeTlweXE2WmRGbXkxeVNCb2F1QkdtLTVkYWN3T3R3a2Y3Rk5TZGVNQUxYLUdRWHlEcGdtUjNoZ0ZLbWdnQmJRclNyamdOeUIzOWR1QVdRRDA4eUZXalNDUnVha19Ca1NOSmxTdXJmdnNueDVjcEE0SG03aGxhOEc0YllwU3ljeWM3aEpmQzdoU05mLTdfaEVmNHQ1WHhpcmROM2JqVmFzYjhWM2x3?oc=5
+- **Source:** NewsBreak: Local News & Alerts
+- **Published:** 2026-11-27T21:21:25+00:00
+
+## Oil Swings with Rising ME Attacks in Focus - Rigzone
+
+- **URL:** https://news.google.com/rss/articles/CBMipwFBVV95cUxNQkNNSE5WMWtjMGlZa3dYNFNpdmR2eTRtZy1lSkdETFZhT1FmVXhqOThWcXB4aF9DaUx4ZGUxVEhfNW1Ic1RJaEo0eXFWM3pVMjBvSDlELXBGZGtoRjRMQ2FmbDZSSGl2RnBMV0hTU0hPajlCVGVkcFR3OGtjX2d1X1MwLVVWN0tkQzRHdTl3eURKbGxZUmJJY25hOFA5SEZ1VFlYYTVMTQ?oc=5
+- **Source:** Rigzone
+- **Published:** 2026-11-27T21:16:00+00:00
+
+## Offboard Artificial Intelligence Guides Low Cost Drone for Oil Palm Pollination - Bioengineer.org
+
+- **URL:** https://news.google.com/rss/articles/CBMipwFBVV95cUxQNUxDd3BjV05wQ3VERnFscjN4Q1lJQTY4MGVTZEFkSjdob1FxOUtybV9aWDN4VDhvWFNMcGQ4VlN3dG5UVFk1aC1MVHZrVGcxTDdBc20wZVpRWjl2Ym1WZEZJVHR2dnN2bGxXaWZnVzhGeDNoTjZ6aGVxc21OSTFySGM1OUpEUEhvNGxBQzdyR0tlTFZmdFBLR29STlR1UXc2YUs2UlBtNA?oc=5
 - **Source:** Bioengineer.org
-- **Published:** 2026-11-26T19:52:30+00:00
+- **Published:** 2026-11-27T21:12:46+00:00
 
-## At Least 4 Tanks Damaged at Subkhankulovo Oil Transfer Station in Bashkortostan, 2 Still Burning - Мілітарний
+## From used cooking oil to fuel: Chile's Enap enters SAF arena - BNamericas
 
-- **URL:** https://news.google.com/rss/articles/CBMikAFBVV95cUxObUFNeURoUldqcG1RbGY0UjZHOWhrNXhGQUhKT0tOSnVXdnVyNmRRNXZvMTBWV3BJTFpuUEZDS1hFVWg2WlJNbl9sZ1FzLXYxOEhNYnk2TzNwNTNlcV9iMkxkN280TzNDU3kxOG9UQXp6bGcwemcwTFp0dF9oVFlHM3g3VDJmczQ4d1NFN1BZcHU?oc=5
-- **Source:** Мілітарний
-- **Published:** 2026-11-26T19:48:49+00:00
-
-## US billionaire signs deal for Russian oil giant’s $16 billion global portfolio with energy interests in five African countries - Business Insider Africa
-
-- **URL:** https://news.google.com/rss/articles/CBMi1gFBVV95cUxPZ1Juc0lYSnFSc0pfRnJ0eXRRNjJLZjVwYkduOGIzWUpSZ040enFYaXNuZFVwSzY4YkdNM1o4Y29XY2VQczNSRkhSaDU3VmpkeWhNMW4xY2c1VVpldzRLUXFpeEllMThHeVlmSVhxbUI3bk5FdTlXTXN6TmxWNXBqX2xLeDVvRXp0eXRLYzNEY09QMGVBM1M1cHZLeGRRQndmSFBpZnZybld1RUJkVFI3cVZ2dkZ6cERQOV80dkUtckdqckJpRVdJdFNNU0FOYTYwZ1FBR1R3?oc=5
-- **Source:** Business Insider Africa
-- **Published:** 2026-11-26T19:43:00+00:00
-
-## Despite market disruptions, is an oil glut on the way? - Marketplace.org
-
-- **URL:** https://news.google.com/rss/articles/CBMiiwFBVV95cUxQdXA5UTk5UFpIc2pxUWo3SmNiVTlFd0JNblJSTV8xRTBKQ3RNM1RHckR1ZnpHamFmSHQ2TW83VXNNNG5QM19yN0ozalRXalBHME5VMEJxSVZvalZFN0ZXQldOTXpFMngxY2RYeTk2aDYzY3hwOXkxbVZhdmRHQW83Y2F0RExFTXVtMFBJ?oc=5
-- **Source:** Marketplace.org
-- **Published:** 2026-11-26T19:06:00+00:00
-
-## Colombia's largest independent oil producer seeks local stock listing - BNamericas
-
-- **URL:** https://news.google.com/rss/articles/CBMipgFBVV95cUxOanVlVUk1VUNIS0NVNEFDazJGZWN3V3dlWC1UX3IwVkxYVzlfS2ZJZzVJNkFxT2VvbWZBOE5FamFqOFBIMEpPWFFWeFQ5YXhFZGFKWDFCYVlWUzRaRS1CQU1Lb216WG42T292RWNRMC0xSERwUmctWW4yWVBINkM2TUpuREJMczE0bkI2ZWZ4RWUtS1daTXRPN0RXVUJvSFJqalhLSGhR?oc=5
+- **URL:** https://news.google.com/rss/articles/CBMimAFBVV95cUxNSUNrVnFjMkM0M1YyYUtLZzQwd0l6R0twUU9ZMDA0b205WVFNUGhyNFRFbU9mZVdEM2Q0NGpBbHRJbzFWOVBrNW1BY1FPTS1Yd3F0WnVFYU91OGJQTUE2R2lJQzF1OEppR2xwZlA3R2hQZmtYeDZBMGtnQVZqMDkxYlpQa3ZWbV93XzI4Z3o0NXVQWUlkVjVlVQ?oc=5
 - **Source:** BNamericas
-- **Published:** 2026-11-26T19:04:28+00:00
+- **Published:** 2026-11-27T21:11:15+00:00
 
-## Never Use Olive Oil for This One Dish - Simply Recipes
+## Alberta Raises Projected Surplus to $6B as Oil Surges - Rigzone
 
-- **URL:** https://news.google.com/rss/articles/CBMia0FVX3lxTE96Q25RNEtqMGFHV2FnOFBtUmpncGVKc2NmMEhWLUxKODBSb0c1NWJCMWJQdWNpbmFnNmROTmYtcWJ2emFmSGc2Mi1kOXJQZGJLUnN2ODNaNG1IREVWcHRBTGhRSkNqUlRlRU9j?oc=5
-- **Source:** Simply Recipes
-- **Published:** 2026-11-26T19:02:00+00:00
+- **URL:** https://news.google.com/rss/articles/CBMitAFBVV95cUxPRzFIOE5ZNXROTktkcHcwdXVNT0N0bmw5N0FzbElwMjFsYWxjSFNJaWhZQ2kzT2FDTGRnWTQwT09hSnMtREVDRzZDU1FwNUFwa1FJR1I0NnJHTU9nNzZPN3NQZ0VYUlh3VnVMTEtNdkZ0Wk5nbHVxbU5YWTA1YUxhMU0tN19EbGxoS3BOaWRHbzd5eDFUQ3FxM0ZMNkFMMnRfeDJWUTlEMGFKdzk2LVN0Z3dsNTQ?oc=5
+- **Source:** Rigzone
+- **Published:** 2026-11-27T21:00:00+00:00
 
-## Why there’s oil on Persian Gulf beaches; France’s November celebration - NPR
+## Oil Futures Settle Lower Ahead of OPEC+ Policy Meeting - WSJ
 
-- **URL:** https://news.google.com/rss/articles/CBMisgFBVV95cUxQVVNCLUZLX0JlTFhqTXJ4MXBVbFNnaW1VSjJHXzFPMTJQaUZlTkIyR2JXSnBDLTNEY29qd2ZLYm9KeWdKMVFXMFlfREJxM1loNzczM3hoejZtYTZtaFktUy1paGlFeXF5MjJ5WnZQVjFiUkdJS25YQ3dKOWlrdDM2U2piVld6VEZtZU1VWnBPRGk0d0lLY0pXR29MRGlQM2g4SV9icmVzVm9aemtsTFBPQUFB?oc=5
-- **Source:** NPR
-- **Published:** 2026-11-26T19:00:00+00:00
+- **URL:** https://news.google.com/rss/articles/CBMivwFBVV95cUxPTlk0cWFXc1dCWFZnYlZPbnBBNGtndk1USE5BM3dhd1RYNzNZdkJiYlNxWmtsLVoxa3FSR0FmNkdKaEVsaVZjYnYwaHl3QjVUbnpLcFpfUDRyenNXMjVFOVNEY083SG9rSTBLeHd4ZENhb1hBc0gtS3kyYzRQUU8xM1duaG51WHZjRFhRcXh5Y1FrdEk3WTIyMXFhdGw3ZzliWjc3RkJDVGZYT252YXRZRTd2Y3RXY2wwbWVVNEREWQ?oc=5
+- **Source:** WSJ
+- **Published:** 2026-11-27T20:31:00+00:00
 
-## Alberta Raises Projected Surplus to $6 Billion as Oil Surges - Bloomberg
+## Oil tanker hits naval mine while attempting to transit Strait of Hormuz, IRGC says - report - The Jerusalem Post
 
-- **URL:** https://news.google.com/rss/articles/CBMirwFBVV95cUxNbmNyTXN3aVprWEZ0VjNoMXhXbXJNRlRFVnc3Mkt2bkVQR1hXdmRWZGx5WGRxeVMwdThzc0oyT0ZyTWVsbDZwanVhelR0Q0E4SXlkXzRMWG44bjRiSnQ0Q0RSN29Ca2twXzloUDdKVzVKMEFFaGYtTmdidE54WGhkQ0U4YlZZTGhmVXJDRmJXLTg2YkVaUkFQb0duREFwT2s4c0xoRDhiU1FPVlNfUnhZ?oc=5
-- **Source:** Bloomberg
-- **Published:** 2026-11-26T18:53:51+00:00
+- **URL:** https://news.google.com/rss/articles/CBMiakFVX3lxTE5lS203UndXM2Rmd3YtM0NoSjMwQTljUWJwc3JDcmNKRGRSRVJCNnNoaldHcTNRZ1dteC0tY3ZJNXd1ZVMtSjNURnZHUjBMdkt6cnhfMUhwbk1kd1o3MmVGWmF1UEZUWTNGOGc?oc=5
+- **Source:** The Jerusalem Post
+- **Published:** 2026-11-27T20:28:00+00:00
 
-## Worker killed, several others injured in attack on Saudi Arabia’s Jazan oil refinery - Anadolu Ajansı
+## Rapeseed oil demand grows in EU biofuel sector - Grainews
 
-- **URL:** https://news.google.com/rss/articles/CBMixwFBVV95cUxNUUR4cWwyQ0owU0hEaF83WndmcVhjclc0QWhGSGxHMlZUMS02LVRUemNUbTlpWUY5VmtWdE9DeGJmbTBMdTlZYzJPTEJ6T0d5T2o3OEZiZ1Rwc3p3UEtQM1BLMjZGSWtIQ1pTWjJlNUZnckNaQl9ZdUdYRVpROFc1aHByeW1VTjFOX1hyX2dYOWd5STlvWlBmWTB5cG92SGYwU3Eyd2JJRDhCM1RfVkNaNk1ZMFE0RFlzakgyZTIwcEthSnZTY1ZZ?oc=5
-- **Source:** Anadolu Ajansı
-- **Published:** 2026-11-26T18:46:42+00:00
+- **URL:** https://news.google.com/rss/articles/CBMigwFBVV95cUxOTVh4bWtyTFJwNGNLUVBXTThudnFsSDZuSlJwYmdpNjdfMXphZmlkdUlqZnQzU0hPX19nVmhOVXNzYnFlUFkwamMzZndkYkdoYU9aSVA5YVZrSWd5SnEteVhCSEd3WTNEQ1QyU2E0RE9GTVp2WFROTkNUWnN3Rm9fdWlXaw?oc=5
+- **Source:** Grainews
+- **Published:** 2026-11-27T20:20:32+00:00
 
-## Houthi attack targets Saudi oil refinery in Jazan: Coalition - Muslim Network TV
+## At least 9 injured by large explosion and fire at major oil facility in Bangkok - WHEC.com
 
-- **URL:** https://news.google.com/rss/articles/CBMikwFBVV95cUxQZDhmc3otMHlJRW9xSk42MDZ6cGMzQl9NNVVFcTNlMS1EODQ1TlBidGRueEpRR0NNUTl5M1c3c2R1b0lZVFZTVTZ4R01Jc3hQNklUMDJILUozdmxfclZKcmNPSHgxQWJydHpqNElIZm55QzBnVzNjTWFXajAzOGN3RXZnN2FzZmIzWFpMTXVuOENvM2M?oc=5
-- **Source:** Muslim Network TV
-- **Published:** 2026-11-26T18:45:00+00:00
+- **URL:** https://news.google.com/rss/articles/CBMiswFBVV95cUxNN2VLcE1zcC1IYWE4WExpMHhId2RuVUcxTXFESWtNRVYxUFQ1SXJuaUpxY3RxSWFMalV1cUV2dXQtNzRKb1hoX1JjLVBfbjR1RERRSFJSVjNZRFNGcXZuLUtFSTlFX2J0cmdtS1ZyNVB6emI4b0xZSEtpUWVUR01UX2ZJNEo3bnpXeWlNejZxMGVsYk02aTljdzU1UFVJU1RPeXhielhFQzM5bjVqUGxGdkFWOA?oc=5
+- **Source:** WHEC.com
+- **Published:** 2026-11-27T20:16:56+00:00
 
-## Brazil's Petrobras halts oil production in FPSO P-77 due to signs of fire - TradingView
+## Plains All American sees room for more Permian oil growth - Midland Reporter-Telegram
 
-- **URL:** https://news.google.com/rss/articles/CBMi2wFBVV95cUxQY0pMVUgxdFBoNGs5aDhYcFJjVkVkXzBjY25tSVhlZmxNa25lZUgxWGFZRk5JbVdxTjR6eGkxc2xRNU1zVHZ3aW00akpGVmNZcHR1cHV1VkxHbnU2aVBLRmswN19SX2hrZk41eFRoeVFrUnVwSWU4UlRiOGU4aUNoQ1BWb3hlc2g3elJUOFotekFRSjVGem5vQ1NLXzQ2eXJ5aHdWUUpjTjlOUm8wbFF6WDJ6VlBSM09NZEJuc1VHeC1YUGZwSFBrTWVOMFZwaldfSVZDWkZZa0lOQkk?oc=5
-- **Source:** TradingView
-- **Published:** 2026-11-26T18:28:19+00:00
+- **URL:** https://news.google.com/rss/articles/CBMinwFBVV95cUxObVh4cmVJMkE4OW02VG5wNHlhS0tpUmZpbjZ0MnpTTXBuWWJEallkOFlNRFh0Q19BTWZkaS1xdUtQNzRTSzg1UnZzX0Itek9tWmFFTVlUek1KQ3Nab3hsOTNLN1pjcHI0MVdGT3VYcWxGQlhCdjBGNXpyaF9lN1RHdVJhX3dDWGhrWG1KY29TVUdCMVVEZjJrUkN6UVJxYzQ?oc=5
+- **Source:** Midland Reporter-Telegram
+- **Published:** 2026-11-27T19:50:29+00:00
 
-## Bangkok oil refinery explosion injures at least 9, Thailand company monitoring air quality - Fox News
+## Oil, gas prices fall as Brent trims weekly gains ahead of OPEC+ meeting - Middle East Monitor
 
-- **URL:** https://news.google.com/rss/articles/CBMitwFBVV95cUxNWVJJbzVwNlJLWmI1SnlqeVgtOThOeFJqMzZUV2VLMUlaOU1PVHlYYi1nZTlfNGVsbU1wOEVHTlB5Uk1lNm5YZjJvVi1JTF9haFJzTC0wSHRWOEhjRFBud2tva2JxQTBCX1ZpQkN0US1qSmhqdG9RLUxxSzJ3U0FaWFBZR0pCVHkyUlN1QUc2UnhKbEpFVDA3UzVkNnRBbGdZU2ZuUlpoaFdEbjJGMmZLYmlRakZzZjDSAbwBQVVfeXFMUE1iM1poSGhmYThkdVhuajhwN2Q5UTM3Q2xmWDc3OVZEcmN0ZVk3eFFwNjVfR21CeXl3eEplMWlvSzNBdlFRNGtKeXR0NWtCVkhST0djMnk5TmM2aGpRXzFlVV91emw4bjlqTG5DVG04YjFrUnNvNVQwMmlrSzZtOHBzM21JcWxpQ3dOQmNkMDRrQ2FiRVlyYmJRclhpQW9xV28yaHFqQXpOcmFna2haWG9WYTRiNDhXVm00VW4?oc=5
-- **Source:** Fox News
-- **Published:** 2026-11-26T18:21:59+00:00
-
-## ExxonMobil Wins Two Lots In Brazil's PPSA Spot Oil Auction - TradingView
-
-- **URL:** https://news.google.com/rss/articles/CBMixwFBVV95cUxQRnp5OE42bThfOVloa0JxQzl4OXBMODZ5NTlMX2tLdHAxdHNKQzdIcFduQ0xSbzdTdldvNXVCeWZCWHoydFNPRy12aExiSmI1S2hlQ3pGY2FxUVp3Q3ViTEoyQkhZekVwNnRGbVU0LU84VjJxMkdheGpYMXU3SG1FR3dOYU5MdXNOOXdQM2JjTHlQdG5JeDBOMmlXbHF4d1htbFZjWVdQeUJRTjBUSVdaaEtkT2pQVVpVblFkUVE5X3VvNUlkQmNR?oc=5
-- **Source:** TradingView
-- **Published:** 2026-11-26T18:19:04+00:00
-
-## Oil prices rise after mine strikes on ships revive supply concerns - Euronext Markets: Real-time Stock Market Data | live
-
-- **URL:** https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZmRrU2JtNXB3SjNiMlJobXpFLU51NVotQi1uMjNLSklkeWR0NVRuMm9ycGI4b3V1ZHR4aVJoR1lGdHRZTlNselFZWTlFQ040TTRtbHZ6Y2Rneko0dmVEdnV5QW1fRDJkZzJLeHJ0WW80M1FVckd0MERDdTJDYU9qWWZzancxWFRCWi1ST3ZvT2hCTXRsZ1FsaGVQQzRMZUVLalpKZFpPRloxamc?oc=5
-- **Source:** Euronext Markets: Real-time Stock Market Data | live
-- **Published:** 2026-11-26T18:09:48+00:00
-
-## Explosion at Bangkok oil refinery sends giant black smoke plumes into Thai sky - Fox News
-
-- **URL:** https://news.google.com/rss/articles/CBMiVkFVX3lxTE82N0M3ZHIwN2dtbnUwZElJTGFhbTNXU19QVG1BR2ZsclUxaUhHOXRYOHNjMzkxMG1OQ21ORW82OTRoYng0SWFPaGlmUWd5TE1QN2ljUHJn?oc=5
-- **Source:** Fox News
-- **Published:** 2026-11-26T18:07:04+00:00
-
-## Explosion at Bangkok oil refinery injures 9 people - KXLY.com
-
-- **URL:** https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZzAwMWppWWFTMHk4YXFxRlU3RjJDVnBrR2V0TWFORy1QcG5qUGtDZC01NHVDaFVmRjVIYjY2eW0tNWdMOVpRbEtxY2xoVFR5QjhLTDVkUGg1Mi1LV1RiRnFVQkt5N1NrNU83amctNVV4MmszVmMwTjNZNW5VNTZORzJkU1g3OWw0UEtqeWk3TW01Z3FHSml6UWlKM2lkbC1qS0JiQlBlLTIxNmFzUS1xUnJValZKbUFTYW95bnRsbXl5b0k?oc=5
-- **Source:** KXLY.com
-- **Published:** 2026-11-26T18:05:00+00:00
-
-## Mixed Microbial Culture Enriched on Raw Cooking Oil Produces Biodegradable Biopolymers - Bioengineer.org
-
-- **URL:** https://news.google.com/rss/articles/CBMisAFBVV95cUxPYU9fOGYyWm0teVgyTEZiTWRiMkRRSEZReVpwcGJIWWJLWTNLNWw2VUZGQmp6QlFSSnBQTUluelpCekxyTTdYZUFDdGJYeVpFMjZhU00xMmhhamx0VzNlaXl4SG9BWmdjVjM1T2hCS3YxMktNeFlEYXBKYnd5X0k3Z3dsT3JxRjNaT21xcVJ4VUJ3TlRRclpJWjFHMjRqZjhJMFJMc1NSblh5YnBmN21IRg?oc=5
-- **Source:** Bioengineer.org
-- **Published:** 2026-11-26T18:01:39+00:00
-
-## Brazil's Vast courts oil producers to anchor US$520mn crude storage project - BNamericas
-
-- **URL:** https://news.google.com/rss/articles/CBMitAFBVV95cUxQNE9HQ2ZDR3NiNE5xUEhzZVJlQ0lISjRwdmRhLVJ2NlV5M3pkZF9RaVl6a2R4dDVYRTJVS3VYeXgwSkQ3YnVKM3ZsSkRDSncxMDRMSnVBSnpEWkhrX1ZmZWRXV1pVbVRkNGFSS3JmOTRlRVJTaDJBRnNRU2RDZ0JfVzhrcDI4bTNPZno3eHJtOGcwT3JZR0VnNnV0MGtWS1BBLXdSUTQyZklZSktTcXBiakpOdFI?oc=5
-- **Source:** BNamericas
-- **Published:** 2026-11-26T18:00:00+00:00
-
-## Supply fears lift global oil prices after Strait of Hormuz incidents - Baird Maritime
-
-- **URL:** https://news.google.com/rss/articles/CBMitgFBVV95cUxOMF9yaHJYdHRRcWppOUxnUzQtUVZpT2dSSWF2V24wclFENEg1anBRMEc3eWRQRFZLSDR0YmdTcUMyUWRhd3JJZDBUVkdmdXBpR1RJclg1OHRUTmpjblhZMUczbENTemVLOUFpRjEtclVzZlNrQjB4VTFFdmRtY05RaTZtQmZrN3NiUkc3VEtZWV9YWkc5MUFFX09VLWF0R3pldnZ6OTF1ZHNWaEhCZlpBMnF3U1Bad9IBwwFBVV95cUxQaUwtM2RpS0FMLXBoNENDZ0gxSXcyWWY1al81Rld3c2ZkUUlxMTdkb0xKLWw4S1Q4SlpHaklWUXpyRnMtWDVsNGh6Z0J2SXdOVjFfRTFzc0VfaC1WZ0VoelZRQl9NZU9aaG1ZZFgxSTVsckdRUmhrXzFaWkNmcTdhVzh4M2tPbkRqUFJCbDZIYWhGYk9CT1hGY001a3RCNlluUFJyLU1PNjA5OU0wOE1SUnU4Skt4eTNWbUxhTXdFaHFaSGc?oc=5
-- **Source:** Baird Maritime
-- **Published:** 2026-11-26T17:54:33+00:00
-
-## Drops of fuel oil were found on the beach in Anapa after the storm. - Caucasian Knot
-
-- **URL:** https://news.google.com/rss/articles/CBMiWEFVX3lxTE9XbUs4UzI2WGl0R2xtaGl3dWJXa3Z4MHVnaWdYUmNDc2dZVklsa1VwdlRRNmFCM0lLQ1ZFbnh5NGFxMzYtZzFHdVRuSmw0cEg2dXVsMXlDNWw?oc=5
-- **Source:** Caucasian Knot
-- **Published:** 2026-11-26T17:50:00+00:00
-
-## Spain races to stop oil spill after ship capsizes off Ibiza - Phys.org
-
-- **URL:** https://news.google.com/rss/articles/CBMickFVX3lxTFBOWnBZYkp3cHR2bUJmQ0Vrc3A4U2cxUllTLUpuYkd3T3NKNXZ6ZkZwTmpmVTFMcXY4aXA2QWthSHNxSi1veGJkX2lHaGdjV3pBeGhBNDc3SG5DX3IyTzJDVFhYNmxFd2FkckhJTjMyaTJ3dw?oc=5
-- **Source:** Phys.org
-- **Published:** 2026-11-26T16:40:04+00:00
-
-## Trans-Oil Warns of Going-Concern Risk Pending Debt Waiver - Bloomberg
-
-- **URL:** https://news.google.com/rss/articles/CBMirAFBVV95cUxPWEJwejVrMGl3QkU0RzU4UTZKbVhESHMyMUdOa241QUg1NHRhRmRsUnF4UkQyS2cxMjI4Sk9fS0hpdVk5VHNaeE1SX19GMFEzeDA4b0NPM2xRczNwU3lMX1hibFQwWmJYSmo3YkFMWERfNWhjQkdOSVVCWFF4eU52eGNWSllCMzQzOVRNTjg1a3YyNTJFTjBkQ2J2S0xfOXoxZ2JSTzBmZWJLRnBK?oc=5
-- **Source:** Bloomberg
-- **Published:** 2026-11-26T16:39:29+00:00
-
-## Lower Oil Loading Enhances Powdered Coconut Oil Stability and Digestion Control - Bioengineer.org
-
-- **URL:** https://news.google.com/rss/articles/CBMipwFBVV95cUxNX25KSDM4UjM0em5KckNnbUpDTGxQMVlLVXVqeWNaWlVzLW45RXIyNTFJVWNhdlYyblhBYkJqSExlU2k3cC1ZQ1RWdG9FOE5sZldlSUdUR1N5Rmk1NlZFMFF4YTVPYmU2UkR3QnNkMWNIb1VkQmdqbFc4eHU4amdEbVp0dG1GOXNidDhXbVFuMWh2RkxSVURDZnFOZG8zaWJVOUZxRTNBUQ?oc=5
-- **Source:** Bioengineer.org
-- **Published:** 2026-11-26T16:06:59+00:00
-
-## Turkey and Iraq close in on oil-for-construction deal to fund $16bn Development Road - Middle East Eye
-
-- **URL:** https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZkdzVk11OHdLcnRmTUVwM1pCLURxTFNjT1B2bWpSdVZqOTExb3FabmRVNzBTb0hxYS10RGNBbzc4cEFXQkZvV1BDZmVVY09RSE9IeFJBSUt5ZE5iY2VZYTl0Rlo4MkZxUFVDRjFwR0o0R2g3Y2hSRm5jSUpZcjhld3Z5WGlRYTNVb3gxZGl5UEVvUExDNmx5NjBRU3VLZ3JhOG1xSmM0eHg?oc=5
-- **Source:** Middle East Eye
-- **Published:** 2026-11-26T15:56:00+00:00
-
-## US fuel oil supply rises in November - https://www.engine.online/
-
-- **URL:** https://news.google.com/rss/articles/CBMifEFVX3lxTFBQb3M2WDBKSWt6Q1RneDBSQkJOM2hWYWJLM2Zhcnd6MHM5MEMwSTRhdGJvX29fWl8taFVvWDhrVDlWdlNhdWlsdFdQVnFmb0JyV0k2Tk1LLVFmVm9YVU9XWXVYV1FYVEVPNXlaYXcxNWxQSGhRdEhNUDNLMWY?oc=5
-- **Source:** https://www.engine.online/
-- **Published:** 2026-11-26T15:49:21+00:00
-
-## Girard Heating and Air Conditioning Completes Heat Pump Installation and Oil Heating Conversion in Westfield Home - USA Today
-
-- **URL:** https://news.google.com/rss/articles/CBMi-AFBVV95cUxNcENhUy1rekhfbVV3eHVOS0dhSnB1b2NyM1Vsbm5kSUhJV1Z6cEljVF9Vc1hqWEQzRlBkakZEQ1pTRDRFa01laUZJcUgyTnh1V3MtOGJ3bGRleWpvbUkzX2lvWlktUENUOTBXWkw5LWVTaWdBNDl5SFhvRmtSaFNrMWljaFpwTWVJaGw2Z2ZSWFdvQTRkcTY3TlBxRzNjNDFQdGN5YURtbkZ6WW8wSmJneVBpRUhsRVl3Mkpuay11dFNhUnhYTTh0WGlBSWprVTA4TUFCSms2VjZ6VEEtSlRURnRHMGlma3p2eUJQOVdPX1lqeXB5bDZ5TQ?oc=5
-- **Source:** USA Today
-- **Published:** 2026-11-26T15:44:06+00:00
-
-## Houthi attack targets oil refinery in southwestern Saudi Arabia: Coalition - Middle East Monitor
-
-- **URL:** https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSDRtbmd0dkVXbU5qRjFhRXJfWElrMGZsSHBzTVpJUkhCaUJ5akVjbVZYQkVhbE82X3BzRkpMZWRzNS1Gck9YUF96NjBxTkJjR3pvU1JBQnN4V0pnMERKdGtYaU9PNlJTSFRXNmJDMktvR2h5YlJSS3FMUVR4RWlVYVBvMWJHdF96dUFCUDJFRnpraTRiNkFqaFU1VExVY1cxYk10QkZrQWlvSk9uREdmRExvUVJ5blZv0gG-AUFVX3lxTE9sc25oeUhiSUZhcTFnbWNuU1NXQlZZRmh3MXN3Q2YxLWRoQlpqTXFrZUZ5MzZ5RFlva1oxRUxBSkFiZGM0TmVsdmI3VEZ2aG1TVXNlS1BCZGRGS3VuR042LXN5dVpKczFpVkFXaEN0QWZ0MnFUT2NHMldBWUR2TkN5ZmplOGxjUmNrcTExQlRzLW5GRzFoVGVQWWFSU2h6YW9LdzliUVN4LXlRSVY4NTdxVXVTS3hqNjNIR0dkTlE?oc=5
+- **URL:** https://news.google.com/rss/articles/CBMiswFBVV95cUxNa2s1Z0U2UnRIRTBMcllWZlZxakRlZGl4T09kdnRrLUs4bjdZclJVRXY2NlN4UHlHOWJyZ29aUndRXzdFX3JGSmNHNHduTkw4VHhVWFFsVXlsWjExMnB6cUJSM2FpS190aFhlLV83NkxITG45NU5DeG5zY1RKdWRaeXdlcWxiZXVZNnNhOTZ6ZVNqOGhKcFJSMlA3UUpiaTQ2VDMzVUFXbFY1WmdMY0JCdjhBa9IBuAFBVV95cUxOUEdqZXNrTW1WMEFNdVZxRnVDQWNKOThNRXZUcEFxTVh1MXp6RmZhTWJmV0owanFrQVl0ZXRzd1V5Z0loSEp2eUIyMVJBMy15ZUYtZ1I3U0FuUXptQWsteXFOUFU3NnBXWkN0MHltVUpQXzVENVNoQ3RoUGRqd0hhd1MtN3NvaWxrUjBVMVd4bWJ5OEVMQVBSRHR2VjlPdDNmV3V6bWNGbjlXSGhYcWZTeGxkb1J2OGFK?oc=5
 - **Source:** Middle East Monitor
-- **Published:** 2026-11-26T15:29:00+00:00
+- **Published:** 2026-11-27T19:50:00+00:00
 
-## Chip exports surpass oil and gas for first time, Deutsche Bank analysis finds - Superpower Daily
+## European oil and gas firms likely downplayed energy crisis profits, study finds - Phys.org
 
-- **URL:** https://news.google.com/rss/articles/CBMirwFBVV95cUxQWHNlMUtoNUV0T0dXYWZYS0dJQ3BCTFVocU1jYjlXd1Bkd0NkS3Nrc19leHllMlZ3bllhbDAxSmpFZ01Ia2lHb3I2WW5UdTYwWVJidkdyYklCcFQ2Nm5CeVNZMjFWSkF6R2ZrejlTODN5dHZOU2tiTXJiRlROa3ZyXzFZeXZHQnZFTmJpUmlHU1pxX3ZVM01RcG0zemlYZW0xaEtENWdCbUNoOElxaGtr?oc=5
-- **Source:** Superpower Daily
-- **Published:** 2026-11-26T15:21:44+00:00
+- **URL:** https://news.google.com/rss/articles/CBMid0FVX3lxTE9hTXVidDM1Q2V4WkRQX25vdENGRl9jcklLRndxYWoySVpmT3REVzZ3STM1a0RxZUtKVUNqR1M4Tm9rNmZzdXZ1elBkNFdjaXU3RzRXQzBreTRObExDb0QxdkZNM1VEZlRHRUNVVTBmY2ZZNGRsOEpR?oc=5
+- **Source:** Phys.org
+- **Published:** 2026-11-27T19:40:01+00:00
 
-## Peppermint Oil May Lower Blood Pressure, New Study Says - Men's Fitness
+## Your Friday, Nov. 27 Guide: Five things to do in the Oil City - Oil City News
 
-- **URL:** https://news.google.com/rss/articles/CBMikAFBVV95cUxNNFBBZms3VV9vUlF3b1F0a3ZUWjhCSVVkNVNHSURGMTB2V0lGdENSTXZON29YcENCbjU4UHJaNkZjZER5TVdmUnpFdzYzWVNTUV9fbDV2bmhHajJCZWhDcFFPbUlLUXlaLW5NbERBOXktWDJRWnh1eEZmQjI4R0xjcEZMNWczNnNoZy04bTdhd2I?oc=5
-- **Source:** Men's Fitness
-- **Published:** 2026-11-26T15:20:46+00:00
-
-## (OPINION) Plenty to be thankful for in Natrona County - Oil City News
-
-- **URL:** https://news.google.com/rss/articles/CBMilwFBVV95cUxOTk9EOFB3dldYMHRaT28wcDUwNGtSVVhqWE5DX01FdDgzVUIyY3plek1DX0E0VW1TdEFZeDd1VlIxTXl1OFpmS2N1SXV3dGNTN3c4TEJYbXFDUXpCYVdEUHRuQVVhd2FjWE9jSmFyd09WejBOeEZVUHpxemlvaXVJVFJ4V2FwMk5tYzlYVkxsZk5RX3JDdGtF?oc=5
+- **URL:** https://news.google.com/rss/articles/CBMirAFBVV95cUxNMHFxTzIteWRXckdodklmSjNwLWthNGtkbGxnZXdxcG1YaWxPNUQ2ejY5YkhmdlZkMlh4TmlncXJ0dUplTy1hRGhiUkh0cGV6d28xSlV4NUt2QkI4aUpJaGFnaTh5SHR6SHFmOFJkb3JJQzJ2enB2SWkwZkhGSEZEeGdMTzJibklxNUV0VVh4MTJBbGwzekJESjhXSVhQMHRMX3N1SVNBRkdRUXZ4?oc=5
 - **Source:** Oil City News
-- **Published:** 2026-11-26T15:15:00+00:00
+- **Published:** 2026-11-27T19:29:41+00:00
 
-## Iraqi court jails 11 for oil smuggling in nationwide crackdown - The National
+## Iraq oil smuggling clampdown threatens ties with Kurds, Iran - The New Arab
 
-- **URL:** https://news.google.com/rss/articles/CBMitwFBVV95cUxOanAwcThvSW1jRHZVT0pKUFpiRDNSV3pvbWxQd2lhbkhPOVZDWmxOY0x6TTY4YkFmZVIwZ0Zhb1J6bHQxakV5VEg4OHZIWURPWUZEUHFTSC0xZGdlRVBfYjRuWDJma3B6bE9nS1VzOHM1RGRuWWNzcFFKZ015djM5SUlxaXowQlhJZlZyQkRFd3hFclp1aTNpcER6Ry13Yl9RWUJnYXVJeTdnRUZYd0oxSC1OSlBjMUU?oc=5
-- **Source:** The National
-- **Published:** 2026-11-26T15:07:31+00:00
+- **URL:** https://news.google.com/rss/articles/CBMiiwFBVV95cUxOS0NmaTRlLTlHZnBPalZ4TG9wLW15Zm9GaG8yZGlWSDBXcEh6eVoxYllnTDRQY0laWFJ2MUFCVEhuUHJZMzg5bTktdkNyZ3ZuOTVQNHo2M0ZiUlBaOXU1WGVuNkxOZDZfMF9NZ0dES2JLdUg5enc5aUE4UGZFMlc4bHQ4ekdvcFNSSGxN?oc=5
+- **Source:** The New Arab
+- **Published:** 2026-11-27T19:24:31+00:00
 
-## Thursday: Major Oil & Gas Issues At DEP Meetings In December; PA Environment & Energy NewsClips: 11.26.26 - PA Environment Digest Blog
+## China Will Lead Global Oil Stockpiling in 2027: Energy Aspects - Energy Connects
 
-- **URL:** https://news.google.com/rss/articles/CBMikgFBVV95cUxQRE0xYkdISGdZU3Q0cUZKQjM5UV85UFVxdTI1QjFSWnFxR1RWM0g0aVplX0dib1RFQlJDVTljSGoya1hGXzZhT01kb0xheENab0NoRUVNRDJmMWp3dTQyNUZ0TkFyZVpqdnh5MS1XX2NfVDBockoxWVo2anVaNzFRRnhuSHdGVlV4bWlwVVZ1WGhYQQ?oc=5
-- **Source:** PA Environment Digest Blog
-- **Published:** 2026-11-26T15:04:00+00:00
+- **URL:** https://news.google.com/rss/articles/CBMitwFBVV95cUxNR1J4TWQ3RG1WMzljQUVYUlFzZk5aTl9FdE53SlE3Q2E2Umo2UjRjLXJuSV9Pa2g4TVpWc3ZialFxdGRWX2JJektzazNXWmtlMmZUOXBlbEt6YXVxWGNVMGZRWnZoM3psLTBwRWZsUTZDMGRaTllrb3RtS1UzY0JqbDV5VmNxWTBNbE03dEc2V0F1MmRVTlYzNml3Q1o1X0xhMEp2a2h1TUN6UHBrYkl5RXVTZGVUYTQ?oc=5
+- **Source:** Energy Connects
+- **Published:** 2026-11-27T19:20:31+00:00
 
-## Iranian Hardliners Call for Tanker Convoy to Defy U.S. Blockade - Crude Oil Prices Today | OilPrice.com
+## Oil Up For The Week But Down For The Month As Middle East Violence Challenges Glut Claims - Ship & Bunker
 
-- **URL:** https://news.google.com/rss/articles/CBMirgFBVV95cUxQbER0cXVZdF9MYjN2S1R5Y1RxaWc3clZNSFI0ZVVzLTNhQzZERDVjeTh2R3lfZWQwQzNmeXoxcGRDWGF1WVV2VFBEZkJGb3NDNFpBWWRITGJiY1NaM3N3YXd5cUF5cFZYLWpOc3pzZVFZRUdRYnpkeGVGdnhFWXBhakJ2NU9FUkU0NVhsbnk2Ty1ZcmxlWjQ5ZlZSZzFJRnltNmJmWTJoLVRhRFhrLWfSAbMBQVVfeXFMTWV1WEVhbzVGV3ZsTGp4cG1GWi0xOExtWnZscXhmdlVmM2YwZkpody1TQUpQSVBZRE1sZXBTMDd0YXdQbnJla3RxcG9zeGp4TDhtQVllZndaVlB4S3pEZFh1R1BRZHBRcU5ra1ZfY1FTOUR2cGxrcUxPQ0VhU1NicHplT3Y0TllCanB5bVhmUk92QUdIUVJXa2NWdlVUQXpJYTg3c1VGQ05rNk1mUE91SWFQYjQ?oc=5
+- **URL:** https://news.google.com/rss/articles/CBMizgFBVV95cUxOaDhiSkdNQktWRDJFejlfYWpfeUJBRXRRNEFmTFF5V3dfbDlXUjR4azBBeWtReHMyZTdiT1dLUWVuRHRiS3B4d3FKNXFtclFhSV9CemdWNFJ6LVNpQk15TmVSSHZtVy1BcGxQZExpM29yTUdBZlgycWlqb3kzd2cwZzMwR1VDdlozZHZPZWdzbDVMbzY5YzRRWDdpZ29tRHJGVzVMUWNXUl9XS1gwU1BIQmZnVkI1MzZlSU9fcGgxSlExX29YQnRBZTF2ajhuUQ?oc=5
+- **Source:** Ship & Bunker
+- **Published:** 2026-11-27T19:13:10+00:00
+
+## Houthi strikes hit Saudi oil sites as Saudi-led coalition attacks Yemen - WISH-TV
+
+- **URL:** https://news.google.com/rss/articles/CBMitAFBVV95cUxPRXlhNkxod1RoSmZhR0p0Zm9iV2VKYUM2Skl6UnQ4aVk3eFBaOHFlVzhiTjA4MFczTkFELUlzSHB5bklKUTVNUElZOEdSYzJhYXRQSmk1NlNzWGtkOVkzU25GdnNaUG92UWhiMU5SYS1NVTFSbFpZU0pwY3pPVnhLbU9SdVhOdzVjdS1WNlRMZ21IT0ZRUFhVRzVxRDJFcE5kbFh4VmpWTi1sU3hrTDdFZEQxY2M?oc=5
+- **Source:** WISH-TV
+- **Published:** 2026-11-27T19:12:00+00:00
+
+## Health and safety warnings are in place in Bangkok, Thailand, after an oil refinery explosion on November 26; follow official directives. - SafeAbroad
+
+- **URL:** https://news.google.com/rss/articles/CBMi_AFBVV95cUxPa2tlb0VZSGF4Q2lwdm5GNU1SX19jVW9BZmxsLTFmVDZ2UmNGX3JhUWVPNjlLcUJWbDlmY2tFYjc4UDN5MVVOcFViNW5WRkhtTHU2Mjl4dVkzbGJfQllTZGxoUFkzaEFKN3Z6SFNMMFczMElPM1VxM0o2TUlfOGtPcURGNmNYemYxNnRwMjVXNHQ2eVhOYUlfelhta0hIUzlpNmlPVU1FVXFnbVdUenoyR2o1aElSQXFJREVwX0J4VGZuS2MtaUc2N01BM29QbURZSWxRMFVZNlpQTzZEN3A1aWNqcDhtRlVHbWNUUHo2akFWQ1M5Q2dYQlYyVlo?oc=5
+- **Source:** SafeAbroad
+- **Published:** 2026-11-27T19:06:04+00:00
+
+## They are rising, but have not yet crossed the $100 mark — what is happening to oil prices - Українські Національні Новини (УНН)
+
+- **URL:** https://news.google.com/rss/articles/CBMitwFBVV95cUxNMDlJMlRmRXpzS0pRLU93aHAzVlhKajBGQUpnUkhjZ2QzX3p1ZVNvSTl3U2xmbzQ5NDlnME1lNnBpTVBVekNsNnNMMlF1Nkc1bldEMHhHLVYyTklRN29vckFxRVlsOTJ6bkdXLXRKdlFzb2hNdDNDSEJQczJyb0NudkU2MkdRaUF2TUhOenFTd2R3MGVyU2YxbEJOYnRUUlVFaGVoYXBNQXdiaDNPYURVR3RlY09GUWvSAbYBQVVfeXFMTXVpUlA5cnpEdGFXNFJObmwyMjRDUVdBOWIxWTdQRnZyNVZXNmROc0hiakNzWTZYVWRta3lMRWFTSjJZTTdRRmdoaGZnZFpLUUpLTW4yQmJqc2QtQ1Btc2JxTU9XUXFRM1BwYkxORXpjUGJZblhGRFhIZWtDcks0Z09XNGlWQVNwSDhIWFRsU0h5Z0U0YW94S3BWRUlJMFYzOGZrVExtTlVDSTlfMGZXRTJudHBuMnc?oc=5
+- **Source:** Українські Національні Новини (УНН)
+- **Published:** 2026-11-27T18:54:00+00:00
+
+## Natural Gas, WTI Oil, Brent Oil Forecasts – WTI Oil Pulls Back As Iraq Wants To Boost Production - FXEmpire
+
+- **URL:** https://news.google.com/rss/articles/CBMi2wFBVV95cUxNT1B2VzZRaXpYNzZzTjdKUHhZRGdyOThKMVA1NzB5dFJWOFF5VnlMcUh0UG0zOUVqSEpGTkw3T1FSY0Fua2VlbklTT0FQaEM3WWFqcXBZZzdyUnpyemdMN3FUUnZsNXQ4ZmN1bHlLQ2dkYm9VQ2I0NFQ2WGMwWG9PNlVLZTVraDJnVkY2dEM0M2RqU1J6b211ZEN4dS1IMURadkR2ZnE4eTBGdG0wU2JSeGJ0LXpFdHR6bzItT2FmYXdNOUxOd29JTGd6anF1VXQ1QWlDQ19KRlpEUW8?oc=5
+- **Source:** FXEmpire
+- **Published:** 2026-11-27T18:53:47+00:00
+
+## US urges Venezuela and Iraq to quit OPEC, seeking greater influence over global oil supplies - The American Bazaar
+
+- **URL:** https://news.google.com/rss/articles/CBMilwFBVV95cUxORFdDOEtvTk9UdklKN3NscGxvZjc3b002Qnl0NmlzN0V1RDdkN010MjFGUTM4ZVNBU2xCd0stTmpvdjZsVTUtZ3NvM3RVZTJfMFhDTVNzMVNqdFI3empqNjVOM09BX19xRGJfZkNsUUVGVjdyMktDdFlJejlDR2xPRU16RDMyOVNqSTVHZk1iUEQyMjgtSFdR?oc=5
+- **Source:** The American Bazaar
+- **Published:** 2026-11-27T18:53:15+00:00
+
+## The reasons behind the rebound in oil prices following three weeks of falls - Atalayar
+
+- **URL:** https://news.google.com/rss/articles/CBMi5AFBVV95cUxNWGd6dGFzdW9YZ3prWHk3ZFh2a2pBTUpvU055N1pkLVFob29GWTBsT19ON01KcGd3cjRiYTYySTBVRktfOEZvUXBDc24yZlc0Ulhfd3kwVjY3d3ZHNEd4QUc2S3JiQXFRd0x0RkhYUHdwZUV2SVh6cjBLazNiWFBwQVNlUmoxVF9xN2cxSUd3bGc3enJIakl0REk5M1JsUzlmYXA3bVhVaTBMaktaVWxTaWpOeFp6VWhyVXhoaW9SZlV6bGRSTUFlbUIybzRsaDh0dXI2WC1UWVhHXzE0VWFORUE2aVc?oc=5
+- **Source:** Atalayar
+- **Published:** 2026-11-27T18:32:41+00:00
+
+## Iraq foils attempt to smuggle 36,000 liters of crude oil in Kirkuk, authorities say - A News
+
+- **URL:** https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMEhpdU1UX0RraUwzS2tqMjk0c015ejFXN3NydUczaXZyYmFvc2hmY0lXV1NIeEVBemlZM1RoY0NWUVVGRzhvZFVwa1JlcEhJWFY4X1o3bk9ZbmxQN3dBR3l0Sk5tbUJabTZzam5oQ2xKVEMwRVZad1pSY2liOHctNHZiSVZlOUp2RHBwazh2ZWQxa3ptYUcyNl82Wmc0c1pCMDc5a2hldmRUVXlyaW9NX1VwUVFENHJHLVBfREphNHVvS0paOW55cA?oc=5
+- **Source:** A News
+- **Published:** 2026-11-27T18:28:46+00:00
+
+## Brazilian oil heads across the Pacific - ISI Markets
+
+- **URL:** https://news.google.com/rss/articles/CBMifkFVX3lxTE93Y1hmM0hlWHBQNWVsVmxYb0FzcEVfTXVMakxOZUxzNTBUanQ1X1pDc2dTWFh5UDYxTjE5dVg1WHdIcHZOT00xclZjZndvdC1vUjZDT25id3REeXAzQmRndUxxME5tYWhvSEtUZUp4V052N18yRXdkQmVQUHp3QQ?oc=5
+- **Source:** ISI Markets
+- **Published:** 2026-11-27T18:17:25+00:00
+
+## How Is ExxonMobil’s Stock Performance Compared to Other Oil & Gas Stocks - Barchart.com
+
+- **URL:** https://news.google.com/rss/articles/CBMiswFBVV95cUxPVTlBRkNQcElUWDBBbU44VjdVNnFvX0kwUDVPcHJHMVJOMEJhRk9NZTIzekVkZUUwWFpWeDNGMWFvWFlhNC0yWkk2MG91NmlqSWJKRFBId0tfSmdNVklPT3NRWmYyVGFDMGxzdWR5azdHTklrZy1FcjE0LW1iTmtnMC1pT3MyUnM0RWpJMDNqcjRUaGVzMVlXMVlJUUswZTFZTDlDcW1Oc1g5YkJNajhjQ21ydw?oc=5
+- **Source:** Barchart.com
+- **Published:** 2026-11-27T18:09:50+00:00
+
+## US-led consortium agrees to acquire assets from Russian oil company Lukoil - VernonReporter
+
+- **URL:** https://news.google.com/rss/articles/CBMipAFBVV95cUxOYkduQmRvM3pzalhsdjNDZXVsWW5xR1d0N3Qxa3VqWWRSbHRfb0tOaU5SNllwaUJMVjRMQWNpNzhHeXZneXF2cDVla2JwczRjaDRKNktrSHBESUdHUkNGWFlUTTdTWnFlMmxlWUtzd1hPRHpEdWIwWXpNbENLNlZUX05BZ0dqUTI5cEpFQjRmTm1KYWNBMzlUTVFZQU9MUVl0anRCWg?oc=5
+- **Source:** VernonReporter
+- **Published:** 2026-11-27T18:08:05+00:00
+
+## Trump backs Iraqi prime minister’s control over oil and arms resources - Washington Examiner
+
+- **URL:** https://news.google.com/rss/articles/CBMipwFBVV95cUxPSHFQbnpUZ3pnV0N5azBOWFpZdTQ5UFo5dXE2bm0wdnhJWmF6T2NPTTNxcThBcnFGTE1RZXloODZGRWllQ2xILXlMWGVDLUFscUVHMGJVb1lxaGZhTDJzVGxnUWVWVmJsQURFd09abWwxSEFGTFNNYUdnZTl6RmpWbnJ0VF8zd1lKSzFUVDNpeDN1blZpZ0pZdDdZei03MkFnaDBkRXR2dw?oc=5
+- **Source:** Washington Examiner
+- **Published:** 2026-11-27T18:00:49+00:00
+
+## Ukraine hit oil, military facilities across 11 Russian regions over past week, Zelensky says - The Kyiv Independent
+
+- **URL:** https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVVpWWDdFSmtkVkc5eDhnR1pLRHYwbTlad0NSUnZYTE1FdzU5OXk1SmY5SXZfRGZkRzhNQ1hfYnhicHRnSkdSZm15NU56WTNuamZjeFZVX1VSTFVDMER2UFl3b0ZXUEFITGhXclItM21sM0t1NTlZVTJxUngzY2ZJcVVNbU1ucWpHWXhKWFdselJ5bXpWMGlidlE2WkFJcGItZkpQZHpqRkIyRTNPUTllMlBIV0hidDNodUJv?oc=5
+- **Source:** The Kyiv Independent
+- **Published:** 2026-11-27T17:34:45+00:00
+
+## Trump Backs Ali Al-Zaidi’s Crackdown on Iraqi Oil Smuggling and State Weapons Control: how 15 outlets framed it - NewsCord
+
+- **URL:** https://news.google.com/rss/articles/CBMi6gFBVV95cUxNNXNVLUlVMEVQZm9hUkFjbFRxSGVzMm9abU9PcTlxZ0dxX1dPTW9OMlJCbk5BakpvaVEwRVllQVFaVXZNYkVDRE1CTmhvNWFuLVRJbGFrSWFqWUxXQ0YxNFNLYXJvQjlnSU9QOFpWR1lVaGh3X21BYmoxbmNoOTZFR190TWxrTGdvbTAydGs2ejhITmR4WWFpYi1BVjFEUVBlZTFRT1lJSE1aMGZFeWdBTFFjc3B0RndCT1BxbTRQLUR6UUZaNWR0SnlmaDQzc0NLWlY4WmI3OW1lUjNueUlpUXJyak90a05fdFE?oc=5
+- **Source:** NewsCord
+- **Published:** 2026-11-27T17:31:33+00:00
+
+## Natrona County Circuit Court initial appearances (11/24/26-11/25/26) - Oil City News
+
+- **URL:** https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSUZ0WUd6Umc4dWV5OWZ5SXI2Umd2NjdpU3ZkWUZveHk1VVhSRkJqTHdOc3g5ZUMxZzZhbzZzcllFUlJQdnV6NnNKYW9JS3N3UVhIa01ualN3ZVVaVXZmLTJNRWRkbUVSZjgxcElVQ01FcHdPY291MWNsNG5OeGxrSFlHN3ZHM0tvbnh3SE15bUR0MUdZWHcwQUVtOGlIQnl3VUVhSUlYR2I?oc=5
+- **Source:** Oil City News
+- **Published:** 2026-11-27T17:11:17+00:00
+
+## The Oil Glut Everyone Expected Is Looking Increasingly Elusive - Crude Oil Prices Today | OilPrice.com
+
+- **URL:** https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTmlxaEZTNjZ4UzhBWTFpc0Q0YUMteG9vMkw0LXVhaURmb0ttcTZKQ2g3aHhvdzNSLXVaN1ZROENuQ0M1eHJDb05xOWV3Z2RsVVJIQWpBSmtGa3ByU3VELW9MV1ZoM2IzT3F0TXZpWV9GQ3VWYzQ2NlRoYThRZWZUejhtbEhQc0s2ZGhmVHJEZ3dqV0RfVGp3RjBuejhWVGNHV3hlZHM5OUnSAa4BQVVfeXFMUFdRV0VfRXZFTjhuaXBSM2NJVUJyQnI5MFFMelJmWVA4a29jcXJ0U0tRdFptVTM5SDBuNnoyTm83UFBPZGc4bEl3el9xZEl6amFLVDdWY1ZOZ2VPWTg4YnVZUVhuUnhlVnBVZDhSVlBRQVRwYVJzS2dlb05WY0JYaXRzZkR4Z2xUUTlaY3hrLXcwSGwySmJSWkFGdFpMRTRsdHdLdGdzTzZ0UkRSYllB?oc=5
 - **Source:** Crude Oil Prices Today | OilPrice.com
-- **Published:** 2026-11-26T15:00:00+00:00
+- **Published:** 2026-11-27T17:04:00+00:00
 
-## Microwave extraction with isopropanol recovers moringa seed oil in minutes - Bioengineer.org
+## Environmental nod for US$80mn-plus project at Peru's top oil block - BNamericas
 
-- **URL:** https://news.google.com/rss/articles/CBMioAFBVV95cUxQTi1jbTBvUW5oMzh4Y0g1S2RNaTN1VVd4dzNKMkdpbkE5SVZzUXFxeldWLXVTSmNXYlZoZk02UVJfNzJvbDRFRHVGSDVoMWVxd2RXSGxKbU5tYU5PRk9mMUNpWGNQclZqWEc4c0ZKa2dmTDlpOWxuMjZFcmxwdFB4dDBTSlgzX0dxaVhBYl9Edmk2RTVhZ2o2QVR5Q3hfNFFX?oc=5
-- **Source:** Bioengineer.org
-- **Published:** 2026-11-26T14:51:14+00:00
+- **URL:** https://news.google.com/rss/articles/CBMioAFBVV95cUxOUkZwN1pOWG5fOWFQV0lYbEhGbUZQdWVyMGk1eW9Dd05hN0J2M2RaZDFNZHpVemJaMFRZY0FOSFNvY05zRmlLanFQSGVwbkNyLWFwTTVDeG83SVBXakFyX0RxcWF2ZFFrOUhlTFdnSVJuT2lUNFY1Ry1uQ1d0UWZKNVRhQkZicUVnVDVnak1YZGNjdXlkT3poaFRkU0FtN2c3?oc=5
+- **Source:** BNamericas
+- **Published:** 2026-11-27T17:03:45+00:00
 
-## What is fossilflation? How oil and gas shocks are making everyday life more expensive - Greenpeace
+## Finder, TIMOR GAP take FID on Kuda Tasi and Jahal oil project offshore Timor-Leste - World Oil
 
-- **URL:** https://news.google.com/rss/articles/CBMiqAFBVV95cUxNaUdwZzRoRGZqM3ZhdnhELXB5dHBkMzlabEotYmZ5YVVlNWd2Vi1zX1A2bldMQVJjTTZoQXM4VnVNUkNBaV9MbHRvQjF6Rm5KaUVfNE40di1HZHBLUzN5MWh3VjVRTjdyUlJwNk56T2xnLU9pdExQbjBxa3V3MDk3N2xlYjU4d0RaaU80ZWZUaDgtcDg4cHlnWml5eS1pblNlVG4ySGxkbG8?oc=5
-- **Source:** Greenpeace
-- **Published:** 2026-11-26T14:39:40+00:00
+- **URL:** https://news.google.com/rss/articles/CBMiwAFBVV95cUxNU0hSNnhkYnd6LTZ5dkhwazQ0OFJFWmdHb25FZjVrdXhjc2M3LXpqVk5pUXc0LUNZQVZiRFZfRTRUb3VNTjl6XzZmM1Z3WE9JQjJacnVYOGxoY3owUlM2aWl0VWxjdlVWUWZsV09Lb1JkaU1OdUFMVXlsdTVnV2hfZlVVc2VhWnlhZUFVRVpERm5kamkxbENXX2NDcGd2Vi10bkJhTzhVaFB1RXRPN285YmF4MGxDNlBXN085TVhvY2U?oc=5
+- **Source:** World Oil
+- **Published:** 2026-11-27T16:56:55+00:00
 
-## Lucas Oil offers winter protection for diesel engines, hydraulic equipment - High Plains Journal
+## CHARTED: Oil Trade Through the Strait of Hormuz by Country – Visual Capitalist - EnergyNow.com
 
-- **URL:** https://news.google.com/rss/articles/CBMib0FVX3lxTE1BQks2QXVpTExGWExjbkJVV3JtNVFBWjNSV2VlOGpHU2tuYTBJeXdOOGxkR1pNQk5PSlBSdFFvdmEtTnMzazJ0bU5Bc2dqd1ptdTRfNnpkRm1mVGxnRURGVmI4bjMwVVg2M1Q0TThRTQ?oc=5
-- **Source:** High Plains Journal
-- **Published:** 2026-11-26T14:33:50+00:00
+- **URL:** https://news.google.com/rss/articles/CBMiqgFBVV95cUxQeU1tdWFDbEwyc2R5ZEFYN3Y4Q3czZEZKX2ZMWUZWUjVDaHljOVZXY1dTX1h1LXFMSlNJcGtad1VURWhBaHFPWm5nNmY5YzJDX1B1RU1ISDFKWEs1US1TNkptS3lIYXVyWUZsdUM4OTFzRk8zOU1abWE5M3IwV0dtX2VqWlhBUW5mbERvOVVoU2EyR25PQk5qbk9PNXBfbmZ3NTFlR1hXVVZNUQ?oc=5
+- **Source:** EnergyNow.com
+- **Published:** 2026-11-27T16:51:19+00:00
 
-## Oil Refinery in Russia’s Krasnodar Territory Struck Again Amid Repairs in Overnight Ukrainian Blitz - Kyiv Post
+## Oil gains lift UAE stocks amid Gulf supply disruption fears - Kitco
 
-- **URL:** https://news.google.com/rss/articles/CBMiS0FVX3lxTE94cWpyeVpUdlVlOHlqNUN6eXBFWXVFT0dHcDBuLUdZbWVPVU1kRTRXMWlYUTVEWW5lbldSMnd3TWdIVEVUSFpoUlVtTQ?oc=5
-- **Source:** Kyiv Post
-- **Published:** 2026-11-26T14:31:30+00:00
+- **URL:** https://news.google.com/rss/articles/CBMirwFBVV95cUxNNjEzblZpQWxPd180bnkyckZfRDdlTVNzRnliTTI5S25JalROTkdOQXBmNjVRNU13Rnpta05aYWZtdGMxQV9yU0x0MGwyNUxTWmtDQ3J6Rl9ubENIR2R4OV8zNm5QdFVfYmZWWWhEMW5qN3VSeEdMeWZ5ZDRfQUE2MUdPaGc2SUd6d3RRckloOWszX0Q3N2J3YnNqbGZuZG1PQy1sUEJ5czJpTEJMUHNn?oc=5
+- **Source:** Kitco
+- **Published:** 2026-11-27T16:47:02+00:00
 
-## Oil Refining Profits Crash With Global Fuel Supply Rebounding - Bloomberg
+## Trump backs Iraqi PM’s oil smuggling crackdown - Al Jazeera
 
-- **URL:** https://news.google.com/rss/articles/CBMisgFBVV95cUxPaDVHN1JxdmF2Z1JaVjhkTmtXQWtMcU1mSjZxeU5rem1GQ1hpc0tycFBZX251Z3dReGJwTTRxQURhOHBaVFdDTmttcF9GU2xpYXE4T3BkcWVORVF5akR4UC12TnFwRzVob3JTVTlOdk10eS1wQThYODZFeWIwWDFpWUNSbk5qTy0wQXJJbG0wcWIyTmZvVk1USDBpMEFJMTRLaEJxMFl4d0pwQ0Z5Mzd1ajJ3?oc=5
-- **Source:** Bloomberg
-- **Published:** 2026-11-26T14:14:43+00:00
+- **URL:** https://news.google.com/rss/articles/CBMikAFBVV95cUxNZGU1clhRNmxGX0dvd0k1ZTJsZklqamN3NGxXRGx3TTJ5UzVrYW0xbFZjb3ZiUC0zWThpbUVubGFrSzdBcUNMT1l2cEJQSWZId3hpRGNFT3liZVlubElmUzZSYmtwSnpmZ2xKN2JlSWJ3YzVGbUNaRHZQRU1BZUppZ0ZvWm9oMWZmakhFUXJhSEXSAZYBQVVfeXFMT0NBOGJxZm4tUnFxSnNEOUNNZjlXbm1NY0I1bGdpdm9hVzVtQUxDaGJBZllqb2hBU2Vka1FxNENJUEkzM185b3praExOSEFnaDFKdl81WHVUZXQtZnlfWjJsRFZTVDdPcmxuNTliREdudzZ4a2MyWnkzZDRHbzRWRE1xMEswRTBfSnZVN0llSHVYZU5nRlBR?oc=5
+- **Source:** Al Jazeera
+- **Published:** 2026-11-27T16:40:17+00:00
+
+## Iraq in talks with OPEC for higher oil quota, minister says before OPEC+ meeting - Reuters
+
+- **URL:** https://news.google.com/rss/articles/CBMivgFBVV95cUxOdndaSmMtcnZ2OU41SkZNYnNtNlU5ZnRWTFlOamJLb0x6eHRhRHJuQkNMY1oybHlpOUFkRWdncURJcUc0eGZvM2JNZUc4SGdvZG0yeTJFY0llZWJUeGtMRzQxaHFZNmZ0OS1YWFloelk4eDBVenhkQlotREpzR2F1cFgxbkZaT18zRWtGbHd2aTZENWFDMmhKaU13WnpSQkhIaUZGTDZtMFkwa2ZxUjdpTkRfTXRZMkNUcW1FM3hn?oc=5
+- **Source:** Reuters
+- **Published:** 2026-11-27T16:37:43+00:00
+
+## Iraq in talks with OPEC for higher oil quota, minister says before OPEC+ meeting - The Lufkin Daily News
+
+- **URL:** https://news.google.com/rss/articles/CBMiigJBVV95cUxPUDBuaUV0ejBlLTEzb0ZBY3BJN3c2ZkRZT2lNdWtBaERYRVBnWVdaYUdVbWx5YUlndHFYdnh5TlAyMDZTdVMwcjF1X0E3bGg0WU9PNkk1QUZNZnEyUkZtTHMxZmN1SFZjbTNXVlRaWVNfNTNNV2ZmRWpNLUtUVmU0QTllcW9RcE50QW43X1FnSk0yTTQwaFo2Sml1NUp5VjVKVXREeFgzOVpzVkw1emx5R0g5ZlJvbDFHcXJIblZWSTlDbHhIeEg0Mno4REtIMkdubzZCa2RIekE2S1Y1NkJQa1FxV3V4MEtyZE5uY3ZBTEhBdFR6ejFJZ2lWT2UtbnhBVzFvRElMLVVMUQ?oc=5
+- **Source:** The Lufkin Daily News
+- **Published:** 2026-11-27T16:36:04+00:00
+
+## Schedule set for 2027 Permian Basin International Oil Show - Midland Reporter-Telegram
+
+- **URL:** https://news.google.com/rss/articles/CBMipgFBVV95cUxPX1VSUG9YcWprNlkxNXZjZkxMMXpPWkNVQnhoMmcza2liU0p6NnRicVZ3cDlkbWZYOHI0WU85cTNTUDR5b2hUWG0xNU15S3dNU2pnbXJaWlBERXc3bnQtUG5JaWZDTVYyZDhpNVpnVE5VVmpJM0hFUWhIWGxpT0ljNGVxZkVlbVB4WFBfUmpfSkltdjNkUkluMzg3U1Bfc0xRTVUzMDd3?oc=5
+- **Source:** Midland Reporter-Telegram
+- **Published:** 2026-11-27T16:35:21+00:00
+
+## Ukraine destroys concealed Russian army oil depot in Operation Hell-3 - Ukrinform
+
+- **URL:** https://news.google.com/rss/articles/CBMiugFBVV95cUxPMVRfWXVNMDcyQUpiZXh6SUZRanRyV3Y5YTgzVnlWYjNjd1JWcXV5aEx1V3k0YVVmN3pSa25lM1ZyNmFRRENwYXpvWmpXQ1NpSjd4WGRtcGhIVHNZZTdNNVNBajBFcF9QcGFIYjN0U2JQSDk1Vm9RQmtzcHNCZFExY2Z1OVdidTg3UUktaVRBcUdzc1RTVDlFUHpYcFUxMFB6cTlaVENydG5wLTRzaGp1ZFg1S2lQV19CbFHSAb8BQVVfeXFMT0pUc0hNejFUX0VDTnhnWTZBOGpnWEpHUGdwQlhIckNDcVRwSjVrTEtCRV9GNHdVZHVnc3BuRnQtTkhtSDZJVzVkY2RtRnR1dy1jM01DZTl4OU03alN6djVHLWQzRjJlMnQ2WHQ1TUg4c3N0Ukw3R2hoRjVPckdYN1RhZXgzV3BFS1NUSlBveGltNzdvUTBzVzgwN3Jmdm14WDA1SmQ5dndmcmZ3UlE5em1RNENkczBFaWE2Z0dGYU0?oc=5
+- **Source:** Ukrinform
+- **Published:** 2026-11-27T16:33:00+00:00
+
+## Oil Surge Pushes Indonesia to Mull First Subsidized Fuel Price Hike in Years - Crude Oil Prices Today | OilPrice.com
+
+- **URL:** https://news.google.com/rss/articles/CBMizAFBVV95cUxNNkV0b0JCYkgwOWxTV1FfY1BoQmtzYmJaUkxtOHh1ZjcyN1d6ejFWWVNib1hqZDdPUWxrWS1taW9WR0czV1B0X2J6amhjb1UtX280R2RGUzFodE8yMHg2RjZNNWpaX2V4SHRvNS01ZnZtM3lFd2RvVGJXU09mXzBkWWNTQUdHcGtFd2otWUdHUk5lZVlrVURVUzBMNzhaOTFsUmwxRURTMWhxQ3lLN1F2ZEozd0hVZllUaU9nb2Qzb29hQnM2ejNQcXFraTLSAdIBQVVfeXFMTUh6bDJwQmo0TUgwYjJGblVVXzY2SkdtNXZpRE5hanF1M281ZEdEYnVFV280OW02TjViUFVmX0hscnJLNkFac3lhdXh3dkZCa18yb1lQcWhpckl2TlhRLXFWY1hpUHNQbmtCU2Z1M2JfSi1MRnB6TVN6ZmN4enBsZEFhVy1nNVhad2NGcXY5UjZfZGVUYXdDZEpHX0NrSEZDdmhwcURpbWpaOGZKTnVMc2dhWEQzelVQSWg5amtCTno5LWZ2bXFvdDZwNlZ2MUI3ckJR?oc=5
+- **Source:** Crude Oil Prices Today | OilPrice.com
+- **Published:** 2026-11-27T16:30:00+00:00
+
+## A Group of Willow Creek Farmers Are Trying to Make Olives Humboldt County's Next Big Crop -- But First, They Need Your Help Figuring Out How Many Olive Trees Are Out There - Lost Coast Outpost
+
+- **URL:** https://news.google.com/rss/articles/CBMib0FVX3lxTE1UMHM4MS1mYmhiV3pya3RaLXdQWV94UGxXTHR1bW13Tkg0dWtLckhKRjZ4WEN4UUZUVW03OExqZWp5OVZHek5ocTJCRXp3V1VLT29IdFB3bk5heXJaNmNpWFRMWXhKRURzcWVDTGt6MA?oc=5
+- **Source:** Lost Coast Outpost
+- **Published:** 2026-11-27T16:00:00+00:00
+
+## USA Crude Oil Stocks Rise Week on Week - Rigzone
+
+- **URL:** https://news.google.com/rss/articles/CBMimwFBVV95cUxNNXJtTjM2bmFORlE2WEt0UE5DSDJsc2ktMFRtQU5MUjN5cnBibWc5UGNYd19VMi1iQnNyZDFFaXBlRFZrRGpyUkpuc3l4ZXBVU0NWX2RtWnRnbmluZVJSMWx2ZUdOMUE2SmpPSjIzanZYOXcwa1lGNVhtaGZ1Mi1hWmJGdDFUYTM3NVlSTi1abkxIT0dxVUNnamJvNA?oc=5
+- **Source:** Rigzone
+- **Published:** 2026-11-27T15:56:00+00:00
+
+## Oil on track for first weekly gain in November on supply fears - Yahoo Finance
+
+- **URL:** https://news.google.com/rss/articles/CBMihAFBVV95cUxOcVRsSWxjYzFlNVptaW9KdEdZMl93SDZLYVByRVdDUXRVNi1yUmRPMWZqZ20xZEE2dUxBUWpPUEtRZGQyN0hTT1pQTndybzhGOUJtbzdmeW82aVJiekNEWnl6M2UyUHA4NmRrWHBTcG03M19wcTg0VXJma0dJWHFJUDJHYVM?oc=5
+- **Source:** Yahoo Finance
+- **Published:** 2026-11-27T15:48:51+00:00
+
+## Trump backs Iraq's Al Zaidi as tensions rise with Kurds - The National
+
+- **URL:** https://news.google.com/rss/articles/CBMirgFBVV95cUxNYXRDSGNQZjhwU3pRVjNEa0o1SGV0U2psWWlTX1FDWWpnUmV4bkZjdEFxV2VoTFFoZWVZMzFBN19oT1kxbTZqQlNCX1B6c0Q1VkxkWW02SDZ5a2o0ZDlwVU5YbHNJUS01MEVLTXFQc0JCZndXTUF6UlRENDZvLUtPXzNNQnJZSHhLMzJqNXVXZWpHU3Z4MGdtYTBjRjZPRU12ajhHcFJqcEtxMlV4ZkE?oc=5
+- **Source:** The National
+- **Published:** 2026-11-27T15:36:41+00:00
+
+## Russia Expects Oil Production of 494 Mmt in 2026 - Egypt Oil & Gas
+
+- **URL:** https://news.google.com/rss/articles/CBMihgFBVV95cUxOX1lmMmdXTHhFaE1pdW5yRnY4QTIwdzAtMjliUkk4OFg4TDY3b1Zndkdsc1g3MkJMVzdjRVpuc29Oa0V3NlhVOWtaTzJYbzcyaEdGdkdqa2xRLUJJOFJUOGRxd0ZZbDBxMmJrMHNwVVczVll5THRhSld6aV9OTTRYZE1pZjU5UQ?oc=5
+- **Source:** Egypt Oil & Gas
+- **Published:** 2026-11-27T15:31:14+00:00
+
+## Saudi oil facility comes under attack again - VOV World
+
+- **URL:** https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdEdLOEczMFlxd0NKcmE1dmVBcU5icVVEUlI2V19CVmZ1UGxNNEZoX0lMd2VOQjQxdHYwcGU0UGxpb1ZldFhQdkFVZm92WXZka2hCTU5xdjNPTjBFZ0hPeGQ1TGt4TFNqMUpod2xMbmN1WDBmRnVNRDVnV2hpR3FCT0FYQ2FHeEZs?oc=5
+- **Source:** VOV World
+- **Published:** 2026-11-27T15:12:00+00:00
