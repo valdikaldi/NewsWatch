@@ -1,6 +1,6 @@
 # NewsWatch — Apple News
 
-_Last updated: 2026-11-26T22:50:14.343920+00:00 · 50 articles_
+_Last updated: 2026-11-27T13:31:50.909827+00:00 · 50 articles_
 
 ---
 

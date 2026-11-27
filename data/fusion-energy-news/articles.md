@@ -1,8 +1,86 @@
 # NewsWatch — fusion energy News
 
-_Last updated: 2026-11-26T22:50:15.648175+00:00 · 50 articles_
+_Last updated: 2026-11-27T13:31:54.668404+00:00 · 50 articles_
 
 ---
+
+## UKAEA Fusion R&D Commercial Procurement Guidance - CASRAI
+
+- **URL:** https://news.google.com/rss/articles/CBMimAFBVV95cUxNd0puRk14NEVIWkdPa0wySWtzeXNVX1piclY4NS11aWdOV0ppdFpWaUdiOGs4aHRpdHRaOURxWG1SSUFXQUlqN252NGxmT1RzVkl5ekhNUEt6Ym1Yc2lrQ2VUcndic2U5a05KLTJkRTV2MS1Ya3pfUWJQVEtvTnRZZWcycmgxXzdUeXYzdUdpSHdWQjhLbUpONA?oc=5
+- **Source:** CASRAI
+- **Published:** 2026-11-27T13:18:20+00:00
+
+## 'Outrageous' or Industry Standard? Trump Media Plans to Spend Up to $13 Million to Win Votes for TAE Fusi - Benzinga
+
+- **URL:** https://news.google.com/rss/articles/CBMi8wFBVV95cUxNSkZudzQtNF9KM0ptWXpRVmhpU21sTElQTjV1cklQSFpGYTMtbUYyOXVFb0thTnkzSmtpQlhyYUIxZ3BWOXpkMzNtdGFaeXNWSzRFWGs1X2laWlRfQlF5Z0Y3aVhhbzQ1bjJiaktCQlhRSUY4S2RUU21aY2czSWw1QzBqTW1HazRIWUdxZ1pnYVB2aTlpU2dNRTdmTDh0ZVdtTGJySk1Zd0h5OTVseGJobzRvQU8zVTBGTk15dm4zZGNfb0pkV0s1RDEyT3ljaGpLRHhuWmp5SzYtb0VlcFRVdTRsRXVLSTF2MTVOa1Zia3RzdXc?oc=5
+- **Source:** Benzinga
+- **Published:** 2026-11-27T12:26:07+00:00
+
+## Trump Media Expects $8 Million to $13 Million Solicitation Cost - www.tokenpost.com
+
+- **URL:** https://news.google.com/rss/articles/CBMiWEFVX3lxTE5EZlhybGlhUi1fY25zYl9hS1RDQUFoTkNkRWFEczk3VERLd1FfTExBZW1yNGxhaExyeXFkamp5RDVMZFpKX3VFNjJpUG9UZS1WYmRVTUhYVXY?oc=5
+- **Source:** www.tokenpost.com
+- **Published:** 2026-11-27T11:06:50+00:00
+
+## Trump Media to spend up to $13M courting shareholders for TAE merger approval - report - TradingView
+
+- **URL:** https://news.google.com/rss/articles/CBMi3wFBVV95cUxOOURrTy1PUTd6WmZCaDU5R3RvTmVVMHdfdHUzNFRvcGdlNjBpdjRYamNMWnBkdlM1cFZLVjNaMVVqdU9PNUlTSHIzUERnX0lyZzR0VF9DcVIzdkdvRG9KcEo1SjVWX3BVaF9sZ0kyLXctcThucV9rVGV1UzVLLV8zZ2JHMnRMYndLTzk0VmNsUUJoN0gyUm1PMUMzVG52V21TempRcU1tYm9vWFBBaHdQWkxORVNxU1YwM2lweE9DYWRqNmxSLV9BLTFBZE9xVXoxdFNkY0xVc0FkVnIxQ280?oc=5
+- **Source:** TradingView
+- **Published:** 2026-11-27T11:00:29+00:00
+
+## General Fusion Group (Nasdaq:GFUZ) - Stock Analysis - Simply Wall St
+
+- **URL:** https://news.google.com/rss/articles/CBMihAFBVV95cUxPdHR5cUNXNkJpN3BjYnEwVEU4QUxJcndiN0F4T09mQ3lWdzY5ZmlFRVpHUFVfb2Z4b3cxQWRMMlhEajB6MTgzcTZGNU9XSnlxcWQ5TGJaOTR6dFBic1ZLcjlQRGJtclI3ZDdOS3IzdUtzdmlCVkFXNC03Um1KUll5QTN2TXc?oc=5
+- **Source:** Simply Wall St
+- **Published:** 2026-11-27T09:41:49+00:00
+
+## Larmor mmWave Systems secures Venture Kick funding to power the future of fusion energy - Startupticker.ch
+
+- **URL:** https://news.google.com/rss/articles/CBMiwgFBVV95cUxPYU11LWNGYnQ2RWpRakNRa0k3clZvQlJNbGpqWWp2RUI1RG50dGZiUV8wTEJuZVJaTUxyUmtPQ1RXS0VOMG9nWkg3QzlzRWd4U3RUNzJsUUxBNWVZQm8xX2QxaDFUWWJCX1pRS0RUTW5PbEdidE9DdWxDXzNnekZCOXAzdGQtMFRxU18xdEo0X052ekFKWl9IRWtZTDY2bHJ1NFJkX3publNuMTZRRG56N1hmR2N5azI2RnZFdTZCamUxUQ?oc=5
+- **Source:** Startupticker.ch
+- **Published:** 2026-11-27T08:19:58+00:00
+
+## Nuclear unicorns gallop to meet rising AI energy demand - Enlit World
+
+- **URL:** https://news.google.com/rss/articles/CBMikAFBVV95cUxNZkplTFMwTjFobHBrVjlFQ3gzMldjLXNGLXF1dGdKWlNEdFZzalUwRnViT3lVN0pSYTRHT0tmX0lSQ2lkRHFvLUFjTGJoQU5UVmNudzZoMjNIUmx2c1ZCSnhpVHRjcjNCcjloRzI0anRXaXIyTEw2NHp4Y3FIUm9VMENJMk5XZlNjVW84QWhSblI?oc=5
+- **Source:** Enlit World
+- **Published:** 2026-11-27T07:58:45+00:00
+
+## [Science Bulletin] Korea AeroSpace Administration opens test site for crewed and uncrewed drones - DongA Science
+
+- **URL:** https://news.google.com/rss/articles/CBMiVEFVX3lxTE9IWUpYRUFpZ2x5Rk9KXzNUVWdxN3ZuVU5UYkNtb2lZVTlZSlQ5eFJ3NWRpRnQ2UUxleGZXQzV6OTlleHp5UVA2MWRaQ0VtWktQOTdMdw?oc=5
+- **Source:** DongA Science
+- **Published:** 2026-11-27T07:43:00+00:00
+
+## Strike attributed to Iran kills two Italian technicians in Kuwait - Howl.Link
+
+- **URL:** https://news.google.com/rss/articles/CBMiO0FVX3lxTE1zMzFFcjJLOFFPdDhvaVR3OG00bXJNSUdyTGFsdWZBX0FVTFdScWl4NjNwUlVyY1BKS1hr?oc=5
+- **Source:** Howl.Link
+- **Published:** 2026-11-27T06:34:51+00:00
+
+## DeepMind says Gemini 4 found leaner quantum circuits. The hardware still has catching up to do. - Digg
+
+- **URL:** https://news.google.com/rss/articles/CBMiQkFVX3lxTFBxX1N5c1FYMXhEMk5KaWRsN005YUNDbS1WUEgxalgxYVVxeEdsSDNnc0EySndsRm56SmhIbVNZNlMxUQ?oc=5
+- **Source:** Digg
+- **Published:** 2026-11-27T04:54:18+00:00
+
+## Johannes Amo-Aye: The Ghanaian Engineer Bringing Reliable Power to Rural Communities - Africa News Agency
+
+- **URL:** https://news.google.com/rss/articles/CBMitgFBVV95cUxQXzkyckU2cUR3SXhXTjFJMUl6ZDVlc3Z0aUQ5aWxOYm5QTVpyeVdqM1lFcUZQeGstQ3dNc2kwb1dBNVE1NGFtTDJiMUwwbnR5aTAyR2Z3WG1DalIycUIySFFvMHpUTXpPQVFPNlRDOXUwbVljODJROTRtTnc5aDJSazdKZTd3NTRZLXh0U3FlRXBHaDQ4VnI5SHlEZWpiYnVBcVVibDRCYWRXbURhbVdKZk9wQTV3dw?oc=5
+- **Source:** Africa News Agency
+- **Published:** 2026-11-27T04:44:59+00:00
+
+## Kyoto Fusioneering appoints former Idaho National Laboratory fusion lead Pattrick Calderoni as Director of Blanket Programs - Energies Media
+
+- **URL:** https://news.google.com/rss/articles/CBMifEFVX3lxTE5NZG5YMGRwR3R4Rm1fYTFzV1NWMGpUeUJIbFRRdkZaOEN1dHQ1NU9uVkRqNS1ZNGhwdzE0RXViS2dJbWo3ajZsc3dmX3BJNmdUZW1OSGNUOXhVdUc1bllXZHAxVno2MU1TeEZUR3BsZGdWSnZtRDlEbWMyVXM?oc=5
+- **Source:** Energies Media
+- **Published:** 2026-11-27T02:42:53+00:00
+
+## Cambridge Multiphysics named Best Clean Energy Simulation Technology Company 2026 – UK - Cambridge Network
+
+- **URL:** https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVVRwNkdXdnp6eU9SOWNoNGNwSzZON3d4ZHVaVHNBQ2Z2ejVvWU5NckV6TDJJTnFhWXNBcVJCc2dXSGhhN0JONi1McWRHWEVnRWZEbjIwanUxcElibzhndU0xTWdWaVNYdDBzN0hkT2tkczZFbzVxeG9IbXZsRmNOcFBNYllPVnREWkNVcF9qMF95eURKRG5zR0VMbXpPS3R5MlJJYTFkTFAzdGtQelFINnNvWGxITU92MENZaEVoNUxkUQ?oc=5
+- **Source:** Cambridge Network
+- **Published:** 2026-11-27T02:23:26+00:00
 
 ## Munich Fusion Startup Starforge Raises €6.6M Pre-Seed to Mass-Produce Reactors in Factories - Wowtale
 
@@ -225,81 +303,3 @@ _Last updated: 2026-11-26T22:50:15.648175+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMiuwFBVV95cUxNWjNqWU0xWUFSRXpBRzJkUlZKUGl0dm9pQUcwNS15THM5U1RHUFd6cXdPdUtVbVdUcXdNeUNDdmVuRGI3ME4ya29oOTVEbjNReWhPaVlRTEE4Q3VaNDJlcXNhZ1hSYkFpb21DSUtudXdiN1JJcUV2VEluUmp3ZTNfUXdWLUJtbXdqazltX2F5R2k0TEY4akdzcWRRQzkyWGJsUmZ5VjV1MEFoSHZQNThzampBekFMSENuSENN?oc=5
 - **Source:** Bioengineer.org
 - **Published:** 2026-11-26T05:00:27+00:00
-
-## Trump Media & Technology Group | Truth Social, DJT, History, & TAE - Britannica
-
-- **URL:** https://news.google.com/rss/articles/CBMic0FVX3lxTE5lT2dhSXRTdXhSaGh2djRnVUFnTUdVRlZzRzdxdXdjTElyMF9ZeWJUUG1kbWJIYUlpWkhJVTdoREJsWU9TaEdibjNIdE4wdjFwQTk4bmZaU2lNRm4tM1Z1M0trcFdhZ2kyM1ZDYWZwQmphRDg?oc=5
-- **Source:** Britannica
-- **Published:** 2026-11-26T03:38:13+00:00
-
-## World News, November 26th: Oil prices surge; US postpones Thanksgiving parade for the first time due to bad weather. - Vietnam.vn
-
-- **URL:** https://news.google.com/rss/articles/CBMiuAFBVV95cUxOaWN4dUxvaEk4WTJSN01mbHpTOXRuajdlS0g2NkFTMFdIdFg3d1R4b1VpVG5NRTM3N0JNQlVLaG1iTUNvZDJENWdILXMwaVN2VDloX1FyX1JwQnZNX2VLT0lTZFhxUUV3QnlGQ25NYmVfdmRCcWp3VGpFeGcway1TVmg3eXZMSjFteFpwU3VpU0RvQlBzUWZKSU1YZXphMTNITXR2NUJUenp4QXd6aFlPNEpZeXJMVDF0?oc=5
-- **Source:** Vietnam.vn
-- **Published:** 2026-11-26T02:48:07+00:00
-
-## Deep Tech Accelerator Blue Point Partners announced on the 26th that it will hold the first seminar - 매일경제
-
-- **URL:** https://news.google.com/rss/articles/CBMiS0FVX3lxTE96V3VrbG91RFQxMlRTWi1wV0pTSlZ0WlE0MmVDNklYOGhWTm1DdzhLM2hxYWxCc3VBS0ZoLVgwWWdkcFlJVTJnT25ONA?oc=5
-- **Source:** 매일경제
-- **Published:** 2026-11-26T00:58:20+00:00
-
-## DeepMind Says Gemini Cut a Quantum Circuit’s Estimated Resource Cost About 290-Fold - The Defiant
-
-- **URL:** https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdFR5bXBocV81UkdZV1NBUm95aEg4Yl9KcFlQMlJYVW1wTjZmdXRwbV9nUklCMVpFdVc2SE9WTmZxdGhqcGI4Qk5CNkNJSmpwNU50V1RyMDktMExvVml4UllORDk1Z2pISmd3RVhGdXZvM09wMmh5b3k2TXhSNHhXTHNhRjBTZzFWbENnZDdBZTF0NkY4RVhLR055ei14RzhtdVlQVzJsTmE1WUdXQ0tyVWZfWGU2YlBS?oc=5
-- **Source:** The Defiant
-- **Published:** 2026-11-26T00:33:49+00:00
-
-## Dual-Energy CT Reveals Trigeminal Nerve Material Composition Changes in Neuralgia - Bioengineer.org
-
-- **URL:** https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcU4wYVA2eWNZdktLYlVDV05ON3M5RkZCbTBRZkhlcldlZS1LajB0SzhENWYxR0dlejRsbi0zXzRkd0UtVjZhYTF2bGFQUDJrOUVpWnBVNHNZUk5PS1pTZXRsaThseW9ReHo3eEZxNkpya0d3OU1PYkFxVENTckdjODhneTJvbGphSW11c1B0WlhyY3JrU1VxZmVaTkt5TEZwREdiTi1hMmcwdw?oc=5
-- **Source:** Bioengineer.org
-- **Published:** 2026-11-26T00:18:42+00:00
-
-## Japan accelerates operation of world's largest fusion reactor - Laodong.vn
-
-- **URL:** https://news.google.com/rss/articles/CBMisgFBVV95cUxOTXl4dDR2VTc1VXNwSGdGZjNxODZFMWNpNk5wb0dKMUJfR1lEOGNjZjlNYmRTSk1ybXZQWHFqRW5VbjVqN3c2YmJRWEhralRWNE1hMFJ5LVNrT1ZHZGdlY1RXYXlSZ25KR0FLQWpUTGFfRThfb0RJZGZmQVJONV9LMWdNWVlzd0t0U0stcC12cS1yVUJndVlfWmcxZHduVVczSGZ0MUotTjBkcmt6eVk0N0Rn?oc=5
-- **Source:** Laodong.vn
-- **Published:** 2026-11-26T00:00:00+00:00
-
-## South Africa Eyeing SMRs to Supply 5.2 GW of Nuclear Capacity - Crude Oil Prices Today | OilPrice.com
-
-- **URL:** https://news.google.com/rss/articles/CBMiwAFBVV95cUxOR0pQN3hNalRlbVhFUmVFcjRrSGZvbkh4X01mdHZ5NFI0bUdRc1o1WGxyeUlqS0hCVHd4OUowV3Ffem1ZT3ZodTNLeHA4dllNSXdtVnpBc2dSV2NFaG9QWHNrZ2JkYS1CTS15eXdXa1F3ZlRzc1FxcDdjN09pYi1kVm5EbzRmcXF6enhhMlEtZzQtVHlzWEs4SDk4Rl9USzBoRWxpcTljVVpneEM4QlhsLXpoMm8yOFBEUGQySmVKc2rSAcABQVVfeXFMTkdKUDd4TWpUZW1YRVJlRXI0a0hmb25IeF9NZnR2eTRSNG1HUXNaNVhscnlJaktIQlR3eDlKMFdxX3ptWU92aHUzS3hwOHZZTUl3bVZ6QXNnUldjRWhvUFhza2diZGEtQk0teXl3V2tRd2ZUc3NRcXA3YzdPaWItZFZuRG80ZnFxenp4YTJRLWc0LVR5c1hLOEg5OEZfVEswaEVsaXE5Y1VaZ3hDOEJYbC16aDJvMjhQRFBkMkplSnNq?oc=5
-- **Source:** Crude Oil Prices Today | OilPrice.com
-- **Published:** 2026-11-26T00:00:00+00:00
-
-## Ruger - Do Nothing ft. Musa Keys & Young Stunna | MP3 Download - Voxtrendy
-
-- **URL:** https://news.google.com/rss/articles/CBMigAFBVV95cUxQMTZvZVhVVjhmeHhueU92Y2dnUXNUUG9uUzZfZnR5NHQ3ZXA3TjhhTC1nUGdKY29Ib2M2bDBWSXIzR0djVDZzV2N4VVZiUUtqcUdraFVYNHh2WFV3MUY5OExXVV8tQnFvOEhrTDRYNG9OdlE1YnNLQWpVanBxQmpXRQ?oc=5
-- **Source:** Voxtrendy
-- **Published:** 2026-11-26T00:00:00+00:00
-
-## LeoStayTrill - Till The Wheels Fall Off Ft. Shoday | MP3 Download - Voxtrendy
-
-- **URL:** https://news.google.com/rss/articles/CBMihwFBVV95cUxQU3dwSzY0eXBmQzRGZXQ0N2lzOTlac2hWaTRBaUFBVE1RdEgtWFZJdktMZ1Bfa2UwWG85Tnh1MVVfMDZFUEJ4anVUZ0JBZWYzNFdVMks4azBtN29TRk8yelpRaU8talJvWkVCSWlpU0JKQzg1QndnZVF0YmVnWDB0NnFkSDV3c00?oc=5
-- **Source:** Voxtrendy
-- **Published:** 2026-11-26T00:00:00+00:00
-
-## AratheJay – CHRISTO DISCO (Album) - TrendyHipHop
-
-- **URL:** https://news.google.com/rss/articles/CBMidkFVX3lxTE8xZDgwVE1INDZic251cHlscHY5cEs5ZE03YWU2TDRGemtLbVJFaVhuZDc2LXZoNzcxTmlUai11Y1lEYWlPV3BhRkNvZ2haendXZ0hHRS1SaW5sWG5SaGtCbGdPNHljSE1pVFZlYTBJcHBJcDd4WEE?oc=5
-- **Source:** TrendyHipHop
-- **Published:** 2026-11-26T00:00:00+00:00
-
-## Catching the USA Market by Surprise — A New American Path from Sand to Solar Cell - The Daily Tribune News
-
-- **URL:** https://news.google.com/rss/articles/CBMimgJBVV95cUxPNGd5UUhJdHhWNVp2YXJ5LXU0QVdBSklpcFlfSjJiLWpLSHBnVzN3QmZ6eXdYSmhkWDg5NkRvZlhwdkwybHU2NE1teE5NSjI5Vk9PZFF5VlV1dVVvY1RWendqMzZHQUZzVjNVaFBXZXNsOVcwQ1dwRTBqMjhDNjdNc1B6cGUxb0dYSFp4LWRIc21LZEFBUkNsQWxrbnY3cXQ3bHV0N1gzN2cwbXZ5RVUyUUloaUo5alc5V3JBc0pRUHQ0dXA5NUcwUndNR1JNeWZrUkQ0cm9rR1JQOU1SeFRCcVpwN1dJZzVzTEhYODhaeWVKVW4wU01mLXRGdXQ3ZUZmbUNYQWJNX01yUjBOV01qR29FLXBOTkpLckE?oc=5
-- **Source:** The Daily Tribune News
-- **Published:** 2026-11-25T23:12:18+00:00
-
-## Primate Foraging Simulations Show Food Clumping and Spacing Mask Group Costs - Bioengineer.org
-
-- **URL:** https://news.google.com/rss/articles/CBMiowFBVV95cUxPc2JzUHVVZWJJM1k5ZEhpTDlPQ0NPN2llZWJQUEZPWjFWMmpnVjQ3V25PUHl1V2NrbFZCSWRfMXJLaFZyNUlXdUxSSmpYeTNCUTRBZVU4T0VBaF9iTF9MSlVIRmUwdFhWelVIT08zSVV6ZGRpb042dGNOT3BrQTFsRGxhR2VhZlk3V0lLVXRBYW8wS3hMQjhuVG1TUWk0ei1UWEFR?oc=5
-- **Source:** Bioengineer.org
-- **Published:** 2026-11-25T21:27:56+00:00
-
-## FCC approves SpaceX’s plan to launch up to 1 million data centers into space - The Hill
-
-- **URL:** https://news.google.com/rss/articles/CBMimgFBVV95cUxNV216SzJzVEZ2OGEzZUpaUWU0eHhiMTBucW5oLTFSYnVDbi1LNVBCT0h6Q3UxeEU3UHBJNUxaZVpRdUtJVFBWNVRnV0NLTlQyWDhYZF8xZ2tXdXpDLXd3TG4zYXp6MzVGVmpNUnJITk45bUozMzRTRjdXQTBmYUpfQjczN1RVTjUxa0tlZlNNb2N5dVplQ3I5NjFR0gGaAUFVX3lxTE1XbXpLMnNURnY4YTNlSlpRZTR4eGIxMG5xbmgtMVJidUNuLUs1UEJPSHpDdTF4RTdQcEk1TFplWlF1S0lUUFY1VGdXQ0tOVDJYOFhkXzFna1d1ekMtd3dMbjNhenozNUZWak1SckhOTjltSjMzNFNGN1dBMGZhSl9CNzM3VFVONTFrS2VmU01vY3l1WmVDcjk2MVE?oc=5
-- **Source:** The Hill
-- **Published:** 2026-11-25T20:21:30+00:00

@@ -1,305 +1,305 @@
 # NewsWatch — Microsoft News
 
-_Last updated: 2026-11-26T22:50:14.829241+00:00 · 50 articles_
+_Last updated: 2026-11-27T13:31:52.204173+00:00 · 50 articles_
 
 ---
 
-## Microsoft's Github posts message celebrating efforts to port PlayStation 5 version of Grand Theft Auto 6 to PC, then quickly deletes it - PC Gamer
+## Microsoft Says It Is Continuing Efforts to Reduce Memory Usage by Windows 11, Especially for 8GB and 16GB Systems - The FPS Review
 
-- **URL:** https://news.google.com/rss/articles/CBMi9wFBVV95cUxNeGszeFM0OEJpSUtXLUdack00bFR1UGdDVGZTQVZkcTFjclQxWG44cEhGT293bmlha211S2N0TV95WlJaaDJ1ei0zRFgxVGU4R1JxS2VRTm8zSm5BTWd4eHVXQm5zT3E1UXZOZE9EMVhrLU4yUVFnYjk1dzFnczhfdE1FWUdyamtyQnl1WWp2M1JWRDFsRjJCc2V2WlRpZTJEbGZZeFFaRXRpX2VjZG5nOTZBa05wc3JWT1ozQ1Fub21HY3dLQUx3S0hiR3A1UzgxRFJhQWtQbDJldDlWdG92dVRtaEVhMGZkWWxodXFhZ2xxS2t3Ykg4?oc=5
-- **Source:** PC Gamer
-- **Published:** 2026-11-26T22:29:06+00:00
+- **URL:** https://news.google.com/rss/articles/CBMi6AFBVV95cUxQNVpmWkdyYi10S3JFMkhUMU1qNjVVN1NGSnA3bmZzSkRBU2xYVzZoRGN5MlFZOG5OTUVtNFF1R1dlcWItcU5tVzFRUlg4ZkYtenRVaFVzWkctSjF5YTNRTnZfb1JsRFBkMVdkTkViZExsZDgyRGtXeGdKd2FzTWk1MkJoTDk0VE5WdGJSNGVST0FYLUhWcEJXN0FVZFpXcDNUVUM5QlFJbUViZjFNa3NaQzNZeUdOUGN4eDg4cXVxWW5mOVZGZVAzZF82WVpxRXczTDVxbTl6QWFWZXBBb3JHWjNFTWgtTVJh?oc=5
+- **Source:** The FPS Review
+- **Published:** 2026-11-27T13:19:46+00:00
 
-## Microsoft declares 'Code Red' in wake of global outage - Cyber Daily
+## Hackers Breach US Air Force Cloud Platform Powered by Microsoft, Amazon, Oracle, Alphabet - marketscreener.com
 
-- **URL:** https://news.google.com/rss/articles/CBMikwFBVV95cUxPQTBGNWREVFFpQnNmeDVITEp2NEtmLWNJQW90clRvRjJNYTVWNGZkczdWQWFlcVdiblR0dW9NeVl3c0FNTVpzUjlwMnJhYWpQa19iX2dMMXpMN2N1YXljRTlVMkxidVhuQlczbjE0VUZ3c0NYb0dCNGVyaFVxTDVaUGRhSExrdjY1TjNsSUhtazR4bTQ?oc=5
-- **Source:** Cyber Daily
-- **Published:** 2026-11-26T22:20:12+00:00
+- **URL:** https://news.google.com/rss/articles/CBMi1gFBVV95cUxQOGxVVzZuNW9md2VTTHU1NEVXTDhqRGFTMkc4dlFsVDhPM2FMQ3JrMjZ2RnhsSnpfS2J1RXo2MERzNFg1TXQxbzhiclFCNkhnUjlMQnBjUDRLQUVOMm0xUUZOcHZ4d2ViMUZCNUlnRHNucjg4V2VWQ2VWUjhST05FOV95YXVBeVhBMkNyRnFacEhDRnNPOVI1SjFQdnJST3pZUmNJeG5WeWx2aEhmTEF2cW4tVWg5YjZoMTI5eXFKR0J5S3p3Ry1hRy1fVnZBMW9nNXRGd3FB?oc=5
+- **Source:** marketscreener.com
+- **Published:** 2026-11-27T12:33:47+00:00
 
-## Tech Stock Sell-Off: Down 13%, Is Microsoft a Buy Now? - AOL.com
+## I managed to snag a Surface Pro and its keyboard for just $899 this Black Friday — here's where you need to look - Windows Central
 
-- **URL:** https://news.google.com/rss/articles/CBMid0FVX3lxTE0zZ3NXeGJVV1ZFMTVyQzZPNmRtS0JHWk9RNnNiNWtQZTQwUVVUelh6QXhwM3dwdHF0ckVBdHg2eUZrSHJlVVNXV25HdU16VUNEUnJEWFFTRURNUkhGRng0R2liTUxSbFFieUtFZDJ0T3A4VUxUNjBz?oc=5
-- **Source:** AOL.com
-- **Published:** 2026-11-26T22:20:02+00:00
+- **URL:** https://news.google.com/rss/articles/CBMi8AFBVV95cUxPMkY2ZTFoamZQcUUtWUtBWFhVbXFETVZPd0NLNnVpMWlCMjNFR0g3TEJGd0h1M0dCLWdRd1k0aGJKWk5UVlpUcmp3b0pKOW9JNWpyVVphWmtxUmkzSU14MGlEc1k1Yll4aW5URVY1ZXkxZ0NMdDg2Mk82Q00xVll0NEdjU3dYSnBNTy1GcWJsb3VlcmpUYmRwdHZqWDJ4TTFYcVV1dDFWTm5MaXFFMC1lemEtVnkxeFFOTG5yTmcyQmx3UHdlcmtIbnpHQnhfVkJmellrZV9ZUFJjb3BlOVY2b2FueklKZms0OEJKNmQ1WEc?oc=5
+- **Source:** Windows Central
+- **Published:** 2026-11-27T12:30:00+00:00
 
-## ‘Why have they not been doing this all along?’ Expert on Microsoft’s Code Red - Global News
+## Fed Blames High Stock Prices Partly on “Enthusiasm for Super Intelligence.” Microsoft Has More to Lose Than Nvidia - TIKR.com
 
-- **URL:** https://news.google.com/rss/articles/CBMie0FVX3lxTE9PbjhiaFVOWkZ1Vmw5Mi1Ob0FlcDh4amNaX1dfUDVhTXMtTWpFT2RrcE1LRElSSHc2akJubnZLcWZwdGkyenVZLS1aWWI1RVRyRHFxSEJybkVyWUY0OGhGczdCekdlZjBPODYteDR3cW5CWC1nQkEycFhGSQ?oc=5
-- **Source:** Global News
-- **Published:** 2026-11-26T22:12:03+00:00
+- **URL:** https://news.google.com/rss/articles/CBMiigJBVV95cUxPd1JGV0c0VExfUEZsYmdCNnVUMWZRVmFfT1RoYl9BTXp5ZG1nWjlha1RjUWh2a0drUVZmNWptakdJSWJHUjJRM3V5WXJsd2RmYmpfUE1iUDQ5bmtUMXNyVkZnd2hnblNteVNfU1ZXRjRzQ05rM19LMnBrQUFGUU1FcW13ZkxDTWRxdnpKTXR6cE9yUjFUMHIxVGpRYnF1eTV0TG9uREtIZ0VFa21XOVBCelVHS2xobDBVZmxsQmZGNzRVUHRNQ2tVQUdtUlpXZnV2NHNSdzRGcVFZR0tYbWVMYTdXd19tN2Jnak9INXZScnM5ZDBMb09SQ0xzVWlTNTRQeEc1WlBoMkc1dw?oc=5
+- **Source:** TIKR.com
+- **Published:** 2026-11-27T12:12:09+00:00
 
-## I tried replacing Microsoft Office apps with ArtCraft apps, and I'm not buying the hype yet - How-To Geek
+## Cloud Outage Might Change Microsoft (MSFT) Stock Narrative - Simply Wall St
 
-- **URL:** https://news.google.com/rss/articles/CBMitwFBVV95cUxQaDVFb1JENUpmd0hFMzZ2YkFKMVRBUFBxM21rQzBKbkM0bzJZRS1NSktremhBT2FvSm9NbEpmZnlocmNnbVBoTFBWaS1mS0hhMWVCdWZlR0Q2bWhLREg2ZFlQNnhfeE56Mkp4QTVDeHRfNTZBdFZKeTlKLVBaaDJSOUtJUk1EWEF0azhVVGRCTUI4ZU9ZNHhTWElCRTdONFY1U05lcTVJbnY0eEVldkVVTmx4QnFVVXM?oc=5
+- **URL:** https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZWFuWEYxZnpmZ0h5aTE4TGpqZ1VwV2ZxRE9LSnNiYmRIY21nMFhKTWRlLVZabF9SVDBLT3VRc3p5cVNZMmFjVFBkLTF3UERQaWhUUktLV2QwazVHUHBuMk9qUU00UDM5MjdYNlRDVl8yQWVicE02R0NPbnYwWUFCMWRCN2Vzd0FKbG5YUG5yXzRla0NoMVF0NjBoNEp4NlFoQVI4WnMtMmVVVGZ6a2tmOFRzTW1ZeGY5UlA4SkVFX0J6UdIBxwFBVV95cUxQYXNEWnh3XzhqWl9sLVhaekhvbjNsWnM1WHZUSzk1aHBubjR1ZEN4b21oaGNTejgzY3RHTzNmZ3ZrTGUyQWR4TmxXOXp4Zzl2RVNBWTB6VTIwWmc5V1YyZkd0cU0yUEFtam5FTWtlLS03blY0QXRLajJnQ1ZmcE12dU1SNEt6ckFVSi02S2pTZ2hfWUlnb3FYbmh1eEpCQkUtbGNPYUZvRzRRYXoxU0NzZjZ2VmNlejIzUFVzQ1R6YjJ3a1RfbVcw?oc=5
+- **Source:** Simply Wall St
+- **Published:** 2026-11-27T12:12:04+00:00
+
+## Copilot Has Ads From Microsoft Advertising - Search Engine Roundtable
+
+- **URL:** https://news.google.com/rss/articles/CBMiggFBVV95cUxPbmhVWUwzYTVMdVpQX0FidEVRN0RKeXhfS3ItSEpMRzNXYVdvZ0d1UTI3TWhQM19OS0o4VHBfS1ZmM2pkb09mX1IzTjVzNDhld2pxTndqaHZ3MmNQR0NpRHpVRUxpV19qdE0tRDZsdzdzeFhmSnhNWVp1Y0RaX1dlOEN3?oc=5
+- **Source:** Search Engine Roundtable
+- **Published:** 2026-11-27T12:05:00+00:00
+
+## Can Microsoft Stock Sustain Margins as AI Data Center Spending Climbs? - Yahoo Finance
+
+- **URL:** https://news.google.com/rss/articles/CBMioAFBVV95cUxOM21CS0tVOW14amJHYmpEdlFHbEEtVDc4MzROeGVXSzR1OGRCVjJfOUh1ZDFYVzVLdDNVLUJnNjRnUU1ZVjRjSTNCS2lGM2tXMktPNzdvSVR0VEw0RDJTYW13SVZtS0p0bF9tWkM1bVlqUkxjMDJMSXhpb3lia2oyY2Q1aTRDTndYWFVZemNmcXhhc083QlNEdFQtZkZWLVhl?oc=5
+- **Source:** Yahoo Finance
+- **Published:** 2026-11-27T12:03:00+00:00
+
+## I use Excel all day, and these 3 functions save me the most time - How-To Geek
+
+- **URL:** https://news.google.com/rss/articles/CBMihgFBVV95cUxPcDhhcVNrcVZkNDZHN3JRd1hkZWpyc2ZIbXZSX3R4bVVPYjM4Yms2ZXNyamNiOGVLcHd1SFVrTzlXbVhtVHN0VUNJNXhDc0tnZzhXMDFkQ0VnU2xPczRlZGtPNEtuX3BtMVg4b0lKaE4xY0RYZ0RJcVg0dnZSLWo0X2cyY1hLZw?oc=5
 - **Source:** How-To Geek
-- **Published:** 2026-11-26T22:00:15+00:00
+- **Published:** 2026-11-27T12:00:16+00:00
 
-## Japan’s JERA is in talks with Amazon, Microsoft and Google over the AI power crunch - Crypto Briefing
+## This Black Friday doorbuster gets Office Pro 2021 onto your PC for $22.97, no subscription required - WTHR
 
-- **URL:** https://news.google.com/rss/articles/CBMieEFVX3lxTE9vZXRuLVZTUFFvME9GN3ZBMmdTRElhRkpKTUptOTFUTUhhS0hkcEhWLVljTV95ODZOUmhyREpHQXVOVk9uaDlFWmo3amVqalkyVjhlQWM4ZzdIOWRmR3pnc0J0a1ZWVUliQTRxbTRrRjJZLTFkTUJsbQ?oc=5
-- **Source:** Crypto Briefing
-- **Published:** 2026-11-26T22:00:15+00:00
+- **URL:** https://news.google.com/rss/articles/CBMirAJBVV95cUxQOTFuamd3dFhLMWJXeldTSlJwN2V5ZVgwRkJSMFVqeHAtcFRCbTNaVkViMUIzTEQ0U2xJNHI2bUtwcUdVTkxld1VqUU5SeVBIX3lRYVAzTThOWENGVmlCbnpZdkUxdWN1OVVtZHZWRzl6Y19PV1hCYWRkTTlkWmhsQWsxNDB1SEV6b3F0akk4dnJ1bEJHZEQ4bk81T0x6YzlHYmJ0Z3hlcUNTRFVxRUhFMHdNcGluWFBLcTlfWkNNeFZJMnlJVnhIQ19Mb1lXRWtUS0h6QmdSUElUUWRfelBONzJJWW52QzdkbEdjOFRJRlZrQzBVWFluSmxncXpjYUdLTXNlWWV5SFVVbloxa2xhd3JNZGY3TG9kREk4cEdnMndlWnhuc1dFXzZuUFE?oc=5
+- **Source:** WTHR
+- **Published:** 2026-11-27T12:00:00+00:00
 
-## JERA in talks with Amazon, Microsoft, Google for AI data centers near power plants - Crypto Briefing
+## Iranian state media releases AI video threatening attacks on Amazon, Microsoft, SpaceX headquarters - New York Post
 
-- **URL:** https://news.google.com/rss/articles/CBMirAFBVV95cUxOMG04VjdqTnc0bmZjLUw4V1dGTUpoNkljMVZwc2pHdGIySFN5OXN3NGhuaWlEOEZqWWxGTkRhTXZISTVlVjlYdDFqRGo0SUdiUUF4MzZtOFJPU1V1bmROM2JVZXRGSEN1Y2EzZ0wxMzlodThVSlpCSG01Tzk3M0k3T2s3ZC1sb29vbE16eE5CalM3ZjNGM3FYWVZHSlc3WHN0Q2xhbGhjZ1NTbHVz?oc=5
-- **Source:** Crypto Briefing
-- **Published:** 2026-11-26T22:00:10+00:00
+- **URL:** https://news.google.com/rss/articles/CBMi0AFBVV95cUxPdDFhaEg3YllBUGIzdVlQRzNFaDhyOFdqNEkxcHRqdlBJbTEwU0hpMkZQQVg3UDhtdlppZTlJN3ZwZGhmb191MXRoTW9FRnVZOEhEMTlzdm5SSElvUkpPaVZjMUQ0MmFIVlE4elhZN0x0cnZ1UHBNcjNWWmhzamlFOHJuMHFpazExRzk3QkJsekRZbFpTaGhtYWFMWHpUUW96NHdZRmljVGdJS0JpSU5rUVJJenpzcWxQTWVxaHo2R2ZCazFLQjY0QjVRVjlIZUt3?oc=5
+- **Source:** New York Post
+- **Published:** 2026-11-27T11:53:00+00:00
 
-## Tech Stock Sell-Off: Down 13%, Is Microsoft a Buy Now? - The Motley Fool
+## Microsoft Store App Found Delivering Vinci RAT Capable of Remote System Control - The Hacker News
 
-- **URL:** https://news.google.com/rss/articles/CBMimAFBVV95cUxPSm5hNmFZaVZaZUdpenlUNnV2bmtQTThONkpRdjIzZGFsM1dmd2hyVFVVVHVfSTBvbVJRWUpaNmxSSmFLQ2hUcHpOODN3ZU8tMmNtMm9LNlpRanVKRUl5YzgwWnlXZG1yUWktbFQzUXBlelN5ajh3Yk1HdzFvSWRSeUZBTzJOVlpkYlZoY3NVZXhUTlZmRlNtUw?oc=5
-- **Source:** The Motley Fool
-- **Published:** 2026-11-26T22:00:02+00:00
+- **URL:** https://news.google.com/rss/articles/CBMigAFBVV95cUxNbTFUaHNzaTM0YzN3MnRwNGR0dGJfcjBtSUpJdlROTzBsM1QzOFRjMkJBQkRZUUhNZXgxOXBLcVFLUTc4Mk5LNnl3Vk1jSmx4RFZQbmFLT2szX1c1N2JwUHlNcXA1bFljaXlvc1BUQzFlOF91LUp6N2lHZGY5VkFZeg?oc=5
+- **Source:** The Hacker News
+- **Published:** 2026-11-27T11:49:00+00:00
 
-## Someone built a Microsoft Office alternative for decades-old Atari computers, and it's delightfully retro - XDA
+## Windows Server 2028 will remove the WSUS server role - Mezha.net
 
-- **URL:** https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUmR6ZW1uTXY2N1R3aUV6cm4tX2ZFWHRTMnVBZkxQWGxxbHpFTG5naGJzaDZXelRKVGlCVDhwY25sVUZuSk5UMTJxUmxCbFNFV1NYdlFYZWlmVW5jR3BBZklRVUUwWUFoUDFRSVR2azdDbmZCbEdHZ0NLenllazZ6dm1lVUhGUlJhUjU5Z2pFWUN5QUdxRDZSZUZmZXhqT2JQN1FrSlRwZWdEdw?oc=5
-- **Source:** XDA
-- **Published:** 2026-11-26T21:46:49+00:00
-
-## Microsoft's Copilot "Vision" Lets Users Talk to AI Via Screen Sharing, Now Generally Available - BigGo Finance
-
-- **URL:** https://news.google.com/rss/articles/CBMidkFVX3lxTE1neWt1SU9ldmtDWVBudXRTSUZyeXk0NGoxMXE1MlBzX2NFRDFYTTZlNXRzUHRnVENhRWxnZlR3WFAyTXdoSWVaSVplZDktLUdWa1ZDY2tvbTN0ME1kc3ZKeEQ1LUM1T1dBbGd6RlliWU0ySnRoV0E?oc=5
-- **Source:** BigGo Finance
-- **Published:** 2026-11-26T21:37:53+00:00
-
-## GitHub's AnyPS5 Post Sparks Double Standard Debate - Windows Central
-
-- **URL:** https://news.google.com/rss/articles/CBMi2wFBVV95cUxQVWxaUFZleGxITWhrZ1dSRm9ma1FjY2V2OVo1S0d6YWpTVVpIZGRiUDI1b0x0SDlEYVN5ZmVDVS1rOVJFSE90ZjM1dUFOZS1jVFpUMFZyV2ttc3d0TTNkZTh4SmJ4eHNEZ1BPZWdrVkpQUEJTYVNiT0pBN3pKSW9ta2kwVXVaNWdscDJEZ1ZWOWhxSDF1Yktkb0xhTmc0ZmhaZ3RrMGk1ZEtzaElSdWpKX0ZtTThiTnkyS0lDMkxkcXAzSlRQWmlGYXptLW5qTkhhNHA4MDJ5SnFDYUE?oc=5
-- **Source:** Windows Central
-- **Published:** 2026-11-26T20:55:04+00:00
-
-## The Lenovo Yoga Slim 7x is the one laptop I'd actually buy this Black Friday - Windows Central
-
-- **URL:** https://news.google.com/rss/articles/CBMizgFBVV95cUxOc0RvYTlNVUJJdXFLT25MdVZYQzdsTHhTV2pXeS11UUlJODVUcVVWOTZBVmFaN3cwNzJvdFp3bldlZGRXZ3N0ZDk2MzJvUXQwbVZ3ZzRqYnpsb0RXWFN2S1E2SElOSWc2WGgyZGY0NEV1M3BEbUF4RXMxWWpSUlZ5S1RjcXQ4aU8tTDktNEJXOGl0Q3JxOFItLTNIUGNiYWhwZmhxd083QUw3UWFvSUNKVFVtcHNoRGZEYWtFMTNxMmxoTGRFSDFiTjQ2d3JVdw?oc=5
-- **Source:** Windows Central
-- **Published:** 2026-11-26T20:08:46+00:00
-
-## Fake Snipping Tool site led to Microsoft Store backdoor - BetaNews
-
-- **URL:** https://news.google.com/rss/articles/CBMifkFVX3lxTE50a01JQ0ZfY01nZUNiRkxrNkdnVENkSUFleDktcWxNTEh4NkNBNUt5ei1BblEwU1RXdnRJbnBIYjlFd2hBX2ZlV2NlOUlmY0xma0VLeEktbzdqTE9TYWpIWXRnbDlFb29aMlZ4SmszNzgwT3BiemhEMEsyRnBJQQ?oc=5
-- **Source:** BetaNews
-- **Published:** 2026-11-26T19:45:42+00:00
-
-## Microsoft Links China, North Korea Hackers to ARTEX - The Defiant
-
-- **URL:** https://news.google.com/rss/articles/CBMijAFBVV95cUxNd0NHNUNCTmZfRkVaSFl2MXltc3JGZldMWkNGc09Hd3VQQnJGbG0ySjlMVFZJODRjU0kyVHhpc3hWYWJzSVFJdUgwa0hfdHNqdVozS3ZadTd3R3VoVHo4SFVfRUZiY084clRBdkR3enlOSk14SlNteXJHMmdRRGtHNHh5QmJBYnZLQjAwSg?oc=5
-- **Source:** The Defiant
-- **Published:** 2026-11-26T19:27:22+00:00
-
-## Microsoft says Xbox will link its brand more closely to games in 2027 - Mezha.net
-
-- **URL:** https://news.google.com/rss/articles/CBMihAFBVV95cUxPWmloYkZ6LS1WSVY4ZWx0QjE0YzRrTm5LTjBoR2NQQWxKeXhkcFVBb0hWVG04QncwTUZJQkIyV3hXSnVqXzRhTVFrbzZlYUEyNldDMVZiRFJxYncxR0pwcElwZWtEYTg5YzItVUg4WGtoLWZ1NnNLUFNobHhLY1I4MHNKbnQ?oc=5
+- **URL:** https://news.google.com/rss/articles/CBMihAFBVV95cUxOQklrcHYwa1JhNHA3RlFGSjQ2MDc5ZXBJNXBCZlVlcTdMVUd3ZXRMZkt2MF9QUmhCeERvVHJPcWRQZ1IyOW8wallkc0ZuOW1ENEg0M3pIVG5CNkQ2b2tqODA5bTV4R19PWG5Manhic01TckQxUUtLcUdxMWU5a0lsR2dKYi0?oc=5
 - **Source:** Mezha.net
-- **Published:** 2026-11-26T19:09:33+00:00
+- **Published:** 2026-11-27T11:32:05+00:00
 
-## Microsoft: Salt Typhoon’s ARTEX wins access ‘in a matter of minutes’ - The Next Web
+## "Does changing where games run cross a legal line?" Microsoft-owned Github ask in now-deleted post celebrating GTA 6's effect on PC port-focused PS5 emulator - Rock Paper Shotgun
 
-- **URL:** https://news.google.com/rss/articles/CBMiigFBVV95cUxORDdGVXBROXNZSm1DVUtxUEExVWFWOXNqbmpnMk53UE5QTk9lN1ctbjdSNVRSN1pQb2hBODVwZDhJV3dXWGpEblhpRVp3ODkxOG5pM0JOalBadHRuRUFGSlJNRUkxbzVlQVk4b0k2V1FEYzZKT1kyNk8wRjR2Y01EdVhKSllQV1pBUFE?oc=5
-- **Source:** The Next Web
-- **Published:** 2026-11-26T19:08:47+00:00
+- **URL:** https://news.google.com/rss/articles/CBMilAJBVV95cUxNSGhCbHFXZW5zOFpZM0l4bEQxMkNVMng5NzVJVVNNWF9ySC1OZ1RuUHVqSUlzTl81cHlscGk3aDROaTFtV3RtMGt6X2lhREUzenhlSnNVdzVpR0ZLNTI1V1gyNFFvOFYzdWk3NU5IZGlwaEdzQjFZS0MxQlRuX3lKNDhFNjJQTDAtam1GRWFyekxRTnF6N3FGdHpJeUE5d29EY2pMS2Z4S2liSXBGd0cyWUhsME5hb1JjSk9xTERZUUtlNEdza2pZOERCLW5NdERpcDFPUERMcHh4ZE5vYnVSMGE3dzFWaS1FUHczVTY3SnhKdmFiczJRQmJ1UzdDVjNMaHhlRl96Qnc3MmJ4dk9zeEtMY08?oc=5
+- **Source:** Rock Paper Shotgun
+- **Published:** 2026-11-27T11:27:40+00:00
 
-## Microsoft: Hackers in China, N Korea using ARTEX AI tool to break into global tech systems - The Register
+## Microsoft removes WSUS server role in Windows Server 2028 - BleepingComputer
 
-- **URL:** https://news.google.com/rss/articles/CBMi3AFBVV95cUxQeFhBRE5ZTEh1OGZkcENTNXUxOGpCZ1hxbHJrYmRlSDhUSjE2X3VYaFIwMndRMUJKbm01R3NKOGptZ3dNc0FkdkJ0X0lOcndEdmlqYkwwZnZxS0NvRUxMRUh0aXlnYXpxeEhFdEYtdF9xZjA4R3NsaXdsUlpVMzQyYzlWX3lRRE05UndIbHJJYnJ2TW5qeGQ2bTNXV1hQekNROEF5MF9YTG5tMHlQQkhmQkE4X2tqT0RpeUhKMXZIMUF2RDZ2VWZheGx3anpZX0ZhZ0QwZlFSTUpyN0xE?oc=5
-- **Source:** The Register
-- **Published:** 2026-11-26T19:04:00+00:00
+- **URL:** https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbDZsSHlDVW9GVm9Cb1M0VWQtbUd1ZzRsWVg2YllRRllyNjdMRGFZZFM1c3ZEZTBTelZLVS1WNWlqcnpISEpjd21fVmYtQlpCQ3lMTlphOVlEUDZFV1lXbjR4d3Zycm00eHFab3FlU2FPR2xxVk42Z1M0c1VnTzh2bnZaQzBrZVByTE52WklIMzR5enowTnlscnUzSGl3ZXNHU3gwSVJyTFNPd9IBrwFBVV95cUxNZGlabzBpVS1nQURCVlNVZS15WnZLSjl0Ti1KVmV1eG54bWVPRVhVS3llVFhnb1pZbEFnWUV2N2d5NTBfNEtZcDExdjBUMWt3dFFTR3k1SFgyelBPUjJoLUx3Z0NqNlR6RlZpU2RvbXNfOXZIQXpmRllyYWJVZHJoSUVZeVlwaENDSzQxakFxa0dBRVlrUmt3SUtRNGNhRlpsSVlnbUZ4S0hHQWhaYXlN?oc=5
+- **Source:** BleepingComputer
+- **Published:** 2026-11-27T11:18:36+00:00
 
-## “I want to empower kids to dream big”: Caleb Williams’ Foundation, Microsoft, and Best Buy came together - The Times of India
+## $599 for a whole Surface Laptop this Black Friday? You better believe it - Windows Central
 
-- **URL:** https://news.google.com/rss/articles/CBMitwJBVV95cUxNNklBZjlqazdoeThMZDNXRlZ4eG16SGpSNVZGZ3A0QkJzMjNkcnM3bkVBYmY4Y1Q1SXZvY0o2RmF6X0lzbTNxcVRHOVFZNjhBUDRTQTBNem5VSEdldkVuQlpfWEtNd3NVVTNUY0U2OU5QaDQ0S004blk5eHI1WG1Ndld3VlJKdWdWV2tTVVg1YmlMakFqeV9WeFYySXREVkluak9xZVJBOU4yRDhfbWszWkEzT2pDVVNMMExIM0dIM0R2QURxSG1ZV2JMNDlqZDVtcFY3ZEJKS3Bud08yN295d09vUU93aFJmWnVNQTM2SjRQTmRnZnRHY2hXck9BRzBrUlhka1JLR0NqZUc3U1RlTDNYcUtyYzNod2J0dmlGTlE1NnlGdlVabmNJRDAta0lrNnFWbThFZ9IBvAJBVV95cUxONkppYnJIS3JIa19iYW01Y1VYVnBHYUZfREU4WVhqYjNDWkNvSDQzY2h0aGRoUWRBOHBlNmwwczdyYW1hZmFfdjMzUHdWc2t3VnFJQU9FdTA3a0VoX2NKLVhJUHRlWk42RFI0eXBNOWNzQThKS0dTcm14dFZhSTA3ZWlmN2ZyX3Awczd3TjVwVEc5RXlWYktZeTdLLVI3WUpSbjE5aVVJLVpnX2Rra0Jfa2NiVGVsRk9HRzlhNDRKcUZka1czQmxFRUMzMTFTcWlrczBsY1BqSXVCcS1SaUFfdjBqdDFkaUYwZVNQb3NiRGxWb1Vsd1hSaWhMcEJXb2QtZ2hPRWFEYm4waVJldmc2ZTJBTWphUXlaaVdiMGlFOVZLZDBVZlZVdFJxclV1RmVGTmlaeTF1cmZqVUQ2?oc=5
-- **Source:** The Times of India
-- **Published:** 2026-11-26T19:02:00+00:00
-
-## Microsoft will link the Xbox brand against first-party games harder in 2027 - Windows Central
-
-- **URL:** https://news.google.com/rss/articles/CBMiugFBVV95cUxQbVNUSzdSU1B1ZXhzY2tzaUV3aEg3YWl3RnhBS3Y3aUxCV3QzOGswWURIR05XaWNKY3lKYnhkcC1zeGVrYWVpX1lDZEFlUnhHZXZOU01TVzZhWGdpQzUwZjMyLUNieUkzZ25nYm5vWnNDZ1pKaFRUQ2RPYUlubi1mS0N1cFFHNGdzeWJKbGV2T2daNkRXUko4SGk1UmZITlc4V3l6aGVXdTlFRjRxLW1TVjROeFBfclNmbXc?oc=5
+- **URL:** https://news.google.com/rss/articles/CBMirwFBVV95cUxNNmN1VEdwcWhHUnEyQXNsNVNyWjVlQTZGX0VNbTVaRktQUmtIbl9RZUtVZ2NBczk3VFh4S3h6b2dOTlNVVnZxV3pnelhwSWJuNGFvNW9lcFFzLTA1UWFTS3doZ3Q4Q0RsZ3hhaXViNFRNMU5Sd3FrVEtUSzVTb0EwdDhGcVo3LWhkclB2eEJHOFRkV19OckZtQVNoN0s3RnoxVkpZV2pLODFYdElHcTlB?oc=5
 - **Source:** Windows Central
-- **Published:** 2026-11-26T18:57:00+00:00
+- **Published:** 2026-11-27T11:15:00+00:00
 
-## LibreOffice 26.8 is the closest I've come to replacing Microsoft Office - How-To Geek
+## Ooredoo Qatar rolls out Microsoft Copilot to entire workforce - Telecompaper
 
-- **URL:** https://news.google.com/rss/articles/CBMijgFBVV95cUxPZzAteG9DS1ZhTlVLS1RVS3R5aHE0YXRCMVp3UlZ6b0tfWUdKckZodWZ1WDBUTFFYME1jSVFTVUVwWVBqZUpKWXNiUTAwLTFoRURrdF9SZHlLLUtBMGtEakhCbHJhQjBpZ1ZZU0prMWVpQnlBSGVoYXlBUkwzWnFmWTE2MVYtdkZBX016eUJ3?oc=5
-- **Source:** How-To Geek
-- **Published:** 2026-11-26T18:30:15+00:00
+- **URL:** https://news.google.com/rss/articles/CBMipwFBVV95cUxQMjUtMF9WelRyY3NIZFhHZkNlTzQxSnNZT2c3MDc1MDF4bnlpZjQxVG5vM25JNnVST1lZeEEwUTZFYXV5bzE4bjNRVUxpc2NRbHJvLWlfQlY2aUxqeGlKYjhFbDNMdl9PS1NHdzNYUGtLRXJSTU5zb1FGRXFSZHM3cVNJUlJYNW43SmtoS04wcFlLX0E1QjVTdGNFNDlDRnhDbDFQYWtOUQ?oc=5
+- **Source:** Telecompaper
+- **Published:** 2026-11-27T11:11:46+00:00
 
-## Microsoft AI CEO Mustafa Suleyman dismisses fears of an AI chip glut - Crypto Briefing
+## Microsoft Outlook outage impacts governments, courts, hospitals and universities - ABC News - Breaking News, Latest News and Videos
 
-- **URL:** https://news.google.com/rss/articles/CBMiggFBVV95cUxOTWczd2k4Mm5XbkhJZVlFbEJYbmZsWjlHcDBlYUdibzNkU25POWpmOUh2NVhrQ19xSGtESGRsR05CVlFpZzMzcnhHN2M1djRmRWRpUVIwMHJELXRVLUM5UmlTT1hSeWN2a3JVY1U1OVQtcTdlc3ppRUhybVQ3WXpyN29B?oc=5
-- **Source:** Crypto Briefing
-- **Published:** 2026-11-26T17:55:53+00:00
+- **URL:** https://news.google.com/rss/articles/CBMivgFBVV95cUxPSk9KQ3dqNXpnb3pSWl92bU9QUkFGeTFwQzRzV19mY3c4TzJ6Y25XSHJVc040SDNkcGNJMURzRFUxSnhzcW1SV3AtNm8xXzBiMnZEQnhmcEg1endZY1hvMmNnUlhTYUw4bmFabXpDb2pDODJqYXBNSGdsdVppcXVuUjl2RWNHNDc2bGFLUE5SUkl2RG5RZV84dUFUamN1ZkdVRFdlUVBEd19SbHpiMERwWk4tR0Z4eTJ2ZXpWcUdn0gHDAUFVX3lxTFA5Q1pQWV9nZU9CcmhNTFNhaGhNQ2oyVFBybTcxZlhLSnlUeVMyckMxUlJuNW5lb3oxZDhfal9NVVJKS3VWZ0k5aC1rSG5PdGpHc0Y3N21pSGhtRnVOeDd6STlvWGZPRDVVUElNT05jczVpMFlaaGJrNDQ5RWhjbnlta1g5UllPYmdzU0tYYXFUazZuUm5KYWJKdnhuTXF0SmJTdzk0V0J0ZE5GUzlqLVljbXZZUnk0V2I0cFNaS1JrOUx2SQ?oc=5
+- **Source:** ABC News - Breaking News, Latest News and Videos
+- **Published:** 2026-11-27T11:08:19+00:00
 
-## Forrester Blames Decades of Technical Debt for String of US Outages, Dismisses Cyberattack Theories - BigGo Finance
+## Chinese and North Korean state hackers add ARTEX AI framework to their arsenal - Help Net Security
 
-- **URL:** https://news.google.com/rss/articles/CBMidkFVX3lxTE5leGNoUXlrZnBzek9NaDJuSFFGZ2xxSkpGNk9JN1ZhMGlFS0NYdUw3dFlRcFBSWWdsTTA5QlFGRy0xa0tsTUc0SEdlZ29qdlJpN2U4MG9ib3g5WHZEU3I3OHU0eVduOU15RmpsbUFEOUNpOUg1bWc?oc=5
-- **Source:** BigGo Finance
-- **Published:** 2026-11-26T17:55:00+00:00
+- **URL:** https://news.google.com/rss/articles/CBMipAFBVV95cUxNZmFIZkQ5YXhaTnd3RURxdDlkUG1OM3JaOE1uNlJ0TUxiX1lUaEFzMkNCNHdZQkZtbm41WU84SlN6azNEVEowRWsxdmlwZFVjQ1NvSF9zX1NNdFJoLWFLc184anhWc0dQLXhaaGtScHBCZEZkVzhER1FpaFItQVllZ05YTWQ2RzhZcWV4YW5aUlRVM240SXFZZmotdE5NWjJFR3Z1bg?oc=5
+- **Source:** Help Net Security
+- **Published:** 2026-11-27T11:06:57+00:00
 
-## Videoloft adds Google SSO and Microsoft passkey - Security Journal UK
+## Microsoft ships emergency hotpatch to stop Windows Server 2025 crashes - MLQ.ai
 
-- **URL:** https://news.google.com/rss/articles/CBMie0FVX3lxTFB3YmVCMEg1d2Z3bGtjanVWTTFSSU1qY3lmV1dYMjBJV1RXckdiLXV1bEhQejlnOS1yNzZhWE9GRG80UVkzWHRVLXZxXzkxcDVFUjlobVFoVGF6S0p6VHJ1ZUFPUEJFYXVCa3E2WEluRHI5WURFSm15aVViaw?oc=5
-- **Source:** Security Journal UK
-- **Published:** 2026-11-26T17:47:28+00:00
+- **URL:** https://news.google.com/rss/articles/CBMilgFBVV95cUxQNzRiVGd6NGRqd3dGbnhoZ2xFVW9sSHQ1b294TFVXSm5xVngyalFlLTAzMHFqb3EyemFVZ1VYZ0FZSXNPSUl5R3VYaXZOcVVDT3V1ZVJvZXR5MjJQZ0tBc3ZVRnI3X2h0UnF0dVdXOWJOZ3M2OVQyaEh2WV9CTHgyZG9KY2E1TGptWjAwT3JxVEMyYncyOWc?oc=5
+- **Source:** MLQ.ai
+- **Published:** 2026-11-27T11:04:47+00:00
 
-## Dow Jones AI Stocks: Nvidia, Microsoft, Amazon and the Future of the Dow - CryptoRank
+## Allstate Outage: Can’t Pay Your Bill? Here’s What Happens to Your Coverage - TechRepublic
 
-- **URL:** https://news.google.com/rss/articles/CBMiqwFBVV95cUxQd0dDRUxNRHZ5UDVGekZRbjVMdHJqSThwbFBLY09UQW9fVFNTdjRXVjl1bUV5bFN5WFdSaWlZNm5idGM4ZWNfY2E3eTZjUEE4aWkyT1RPaUFZNXh0NS1DOUNoaHZkbFBEQ05ic2txYm1TalBwOUpwc3Y5LU9aWXV1cHF2OFdZMUgxRVNrVUpfT082dmF4Rk9wb1dvU0V3SDdXZTZweHQxdmFOdW8?oc=5
-- **Source:** CryptoRank
-- **Published:** 2026-11-26T17:21:26+00:00
+- **URL:** https://news.google.com/rss/articles/CBMigAFBVV95cUxOTDh3bHB4SjIyOG53MDBPUnE1Vlg4VW5wSENaNjZpYk0zVlkycGR3dk95S0dUa1RjeWl5LV96T2NZS1R3bDhqYmlsNU5CRHRZT01lTEVKNmxDZFJqTF9LbEhEa2ltbHp4QUZOQkNBOHBMOHFXYlJKY3BFOFhWYk9XQw?oc=5
+- **Source:** TechRepublic
+- **Published:** 2026-11-27T10:38:10+00:00
 
-## Microsoft’s 13.8-inch Surface Laptop with Snapdragon X Elite is nearly $470 off at Amazon - MIXED News
+## Bill Gates, businessman: “The person who comes up with a brilliant idea is not usually the most suitable to turn it into a business” - MARCA
 
-- **URL:** https://news.google.com/rss/articles/CBMijAFBVV95cUxNZ0tEOTQyd0Q2a3FSVXNYNnQ0ZXFoRDlGdm5rRi1YcEZpSDNKcl94YU1MdGpYS3FZTTc0ZFNIek1OWHJWQ3RHZ3Z2LVpuYkFYWDViT09UVHlpNG92Ync0Z1N3c2FYSHNTZHVQaWNrRkRXQkFITGtTU0NPNzdVeU5nazhvMkdmQTRxcThraA?oc=5
-- **Source:** MIXED News
-- **Published:** 2026-11-26T17:18:24+00:00
+- **URL:** https://news.google.com/rss/articles/CBMijAJBVV95cUxNVDlEeGRBRXFZam41SUZVNk9vbGJmMFJIU29TNS1jekx2VWh2LWtMMzVyWGwyY2hQNHBqRjAyM3ljRlBlZTBzTVNQSWF4dS02aGpjS1hXdGg3RDNkOUNhdGVyTXJIclBxRktnYzgyNnRrT3NQbzZkY3RPTjhiSmgtNVMyRWQ0T1I4ck1tUFl5OTYtT2o1THRSZnFnbjhpN3h2MGdBVTZZVXJKek1iRmRkZi1GZUVPLVI3N3VyUVJqaEkwWEVNUWF6amgtS21kbDM0SWZULU9PckxnV2Z6OGxLSzIxeVBrZ1ZnelEwUmtJbXQyTC1WVzJKa2g3RzRqRmdWWHpGX2dFa2pyYnBi0gGMAkFVX3lxTE1UOUR4ZEFFcVlqbjVJRlU2T29sYmYwUkhTb1M1LWN6THZVaHYta0wzNXJYbDJjaFA0cGpGMDIzeWNGUGVlMHNNU1BJYXh1LTZoamNLWFd0aDdEM2Q5Q2F0ZXJNckhyUHFGS2djODI2dGtPc1BvNmRjdE9OOGJKaC01UzJFZDRPUjhyTW1QWXk5Ni1PajVMdFJmcWduOGk3eHYwZ0FVNllVckp6TWJGZGRmLUZlRU8tUjc3dXJRUmpoSTBYRU1RYXpqaC1LbWRsMzRJZlQtT09yTGdXZno4bEtLMjF5UGtnVmd6UTBSa0ltdDJMLVZXMkpraDdHNGpGZ1ZYekZfZ0VranJicGI?oc=5
+- **Source:** MARCA
+- **Published:** 2026-11-27T10:25:49+00:00
 
-## Dow Jones AI Stocks: Nvidia, Microsoft, Amazon and the Future of the Dow - Coinpaper
+## Microsoft gives AI agents more autonomy in VS Code - Techzine Global
 
-- **URL:** https://news.google.com/rss/articles/CBMingFBVV95cUxOWHRlS0VSb01ULTlZQy1jTXFUOUtIaG1pQldaNDEwWHhtbi13ZkpOWE5TVTF6NDRra1I0TG8yS2Fyc2hNZ0tLQVRKVDBjMExKNlB6RmE2ek82dHhSQ2RyMU9VaGtkWWNZZzVwMHVmeS1GTlZVb2lVNFVIYnRDd0EwM0V2cHVfNERSMGwwM2lXbVlHazRvd3ZMY3RGMGZaZw?oc=5
-- **Source:** Coinpaper
-- **Published:** 2026-11-26T17:05:54+00:00
+- **URL:** https://news.google.com/rss/articles/CBMimgFBVV95cUxPcWFKbmJ4SGlKak5GS2pmTC0taW5zUDBDQ2dBT2piM25OWVd3SjRFNk1oNnd2Q29fMlZ6Z2hZMGxTdWQ3amdWbFdNbW9ZSUNSWi1qdVFVTkVKTkljV0RQRFlZVGZqYWFJMXJZYzMxcFNleHJCZXRQazhtbTFZb0pmTWU4ZnZfblNLZkx4NDhVMHpCc2tYWnRobUdB?oc=5
+- **Source:** Techzine Global
+- **Published:** 2026-11-27T10:23:30+00:00
 
-## 'Happy GTA VImas!' — Microsoft-Owned GitHub Stuns Followers as It Celebrates AnyPS5 Repo in Now-Deleted Tweet - IGN
+## Nvidia reinstates Jensen Huang and Microsoft launches ads in AI Overviews: Latest industry moves - Performance Marketing World
 
-- **URL:** https://news.google.com/rss/articles/CBMieEFVX3lxTFBubmZvUlQyaVIyb0N0QWJLX1lkY2dOa1daZTVaUThhNjNadlQ1VGxwSnVNZUdwbDZFQ25MZVE1RkhDQnp3clRxNGtQTnpvQm1WZ0pfemRPWEZzWnhYZWx6Nkw0UVFQMWUzNWxSYkdFS0FQYVBBR2JfLQ?oc=5
-- **Source:** IGN
-- **Published:** 2026-11-26T16:59:39+00:00
+- **URL:** https://news.google.com/rss/articles/CBMi3wFBVV95cUxQdzJpWjN5ZXFldE9TMUxuTHVWMDdtQldrYmZkeFcwS01sLUxGY29pSl9kQlNGUkt2d1JzNWhwUFlfU0pjZDBqVGpmUWJodzVxNFp6eGFiUTVTMzM0RXRxaVNCeE0xYmxBZ3pzMHlMeE5zY1ZnMVBwc3Z5MHVtUXlTZ0trZlB5YXNpZU1SVVdWeTJkS0dRTEJkM2lJYk8zU0lsLTFyU1l0LTIzWm9ESkhQVlYxRXNySGhnWUZoRWsxeWQxQWRuLVY5VHhjM29ndnR5R3NRbWJ6ek93YUJlMWlz?oc=5
+- **Source:** Performance Marketing World
+- **Published:** 2026-11-27T10:04:28+00:00
 
-## Microsoft 365 has taken some hits lately, but this Black Friday deal is hard to ignore - Windows Central
+## Windows 11 Pro is Only $10 in This Massive Black Friday Sale - PCMag
 
-- **URL:** https://news.google.com/rss/articles/CBMi1wFBVV95cUxOQTBNcFNSQTNCeFRYWERPVDI1U1dwREdRM0FHN2I4cTdKNWFSZmV3ZHJqbjg5aVBlYmY2MVdNMG9PN1pBNlhLcTlRRTRwdWxNX3hCMEU0bkF0LTRnNTF2Z3Z1NmhKTXZ6Qm1QeTlTQkRZbU1WOVVianI2bWdOb3hCOVZwNUp4OG1SQVJ5VlpTZVpoUS16c0JaQlVDYU5XLUtOR2x3WDJRdGVfVUxONGQxbEk5UzhteFdWWkxJU2Y4RGJZbjlCMFVvTEZJeGt2ZXY1SUVNa1JVVQ?oc=5
-- **Source:** Windows Central
-- **Published:** 2026-11-26T16:56:48+00:00
+- **URL:** https://news.google.com/rss/articles/CBMikAFBVV95cUxPMlUxQXllSFlJZExnME03S3pKUUdNT2sxWFlEdTRSQTlUaWhoUFdiZmhQeXppcWUtU2pWdXV6SVBIUmdGQkVwS3hZdDZTZWtHbTdtbURnY3ZLQUNqOVF5UkNsMkg1eXI2WVBwYXEwXzU2eDN6TVAwajNDb3FkZVpFM3pSOXFXX3NWcmZBSnNFZVQ?oc=5
+- **Source:** PCMag
+- **Published:** 2026-11-27T10:00:07+00:00
 
-## Bolt and Microsoft bring free AI training to South African drivers - Superpower Daily
+## Black Friday deal: Get the Office apps you know and love for $39.97 - Mashable
 
-- **URL:** https://news.google.com/rss/articles/CBMiogFBVV95cUxNTkxKUFZ6SmtYdW5wUmZzdWFmQ3ZSMVRLSy1tWWk4eEJwLTdUa25wRUsyMTR3ckp6UDJJMng1Y19hNnRhU0FTbHNJLXVXN1ZKYkVoRHVYNURRd3pRX0VOeVQtZHUzTHhnNEtKSDltUmkybzFtNF9ra2tBVlotRWZudlF2eUlpeGpzNEM0MEhLQ04yYjBwUVU1SmVDdVRsM2dFb0E?oc=5
-- **Source:** Superpower Daily
-- **Published:** 2026-11-26T16:45:46+00:00
+- **URL:** https://news.google.com/rss/articles/CBMifEFVX3lxTE9BSHFMbk5FSk9Jb3lFOHk0RmswS0hubTdlNERpS2tvc19LelVlYjlKZWw4VFZNbjJDWTl1ZHZFcjVGTkhlcl9laTREQkM5WmgwdjBDVHVEZWhLeDhSRzR0ay03TlJ4X25DZER3bGgzTGZ3TldvNkd6RVMxSXQ?oc=5
+- **Source:** Mashable
+- **Published:** 2026-11-27T10:00:00+00:00
 
-## If You Invested $100 In Microsoft Stock 20 Years Ago, You Would Have This Much Today - Benzinga
+## DARPA is assessing Microsoft's controversial quantum computing technology. What will happen if the Majorana 2 platform is vindicated? - Live Science
 
-- **URL:** https://news.google.com/rss/articles/CBMiuwFBVV95cUxNYW5ONklROXhtNHpzb1k3UERjYXVWNWJkV205eW9hYnNsVWFzRFpOSmQxY2ctYktPRHBzcmhIdXJWZjRXUGY5WU93b0E2UjFPakNZTHVnclNISHVBSVJHaTEzWW92aEdleHgyQ09PSkxaam10Y2pBbm5EQ1ZnaVpoMjZ4WWVnOEhBTUQzZVFWRVNFbEtWZDBRMThUWG00NnBOVkE3N205ZlNYRzktRG5BbUV5YlMwVzhqaldV?oc=5
-- **Source:** Benzinga
-- **Published:** 2026-11-26T16:45:24+00:00
+- **URL:** https://news.google.com/rss/articles/CBMiiAJBVV95cUxPYi1zaEdDU0FjcXhlVlg2OEdYb2xnbWkyZkh6U0ZSNUNHazVRSHZEVW9BMjdOOXZPOFloVFNBN3BYY29QQ2k4aXllSVlzUXZkWTNvVGlGd3pwcVZPUG5IcHNxZ3lIbU9wcmtsamRmc3kyejBfdkFDeVdHZ0tpVzZFSFVUUHpxUkxFaUNLTGV5aU0wY3lIbXVjYjlTVnVQN0tVOHRReElTVzRoaWc1emlJOHZVZUJZeG1iODIwdWZyMHBldmRlWjNJYnBWX2N2NnN3ZDZoNmQ2MW5PU19RYWhXSDBDamkwaUZRejJOTGJBX2Y3enlkM0VvWUZlQk91NlNlbGpKOEJaM3k?oc=5
+- **Source:** Live Science
+- **Published:** 2026-11-27T10:00:00+00:00
 
-## Microsoft confirms November Windows updates break NTLM sign-ins - Notebookcheck
+## November Windows Updates Can Break Some Work App Logins, Microsoft Warns - TechRepublic
 
-- **URL:** https://news.google.com/rss/articles/CBMirAFBVV95cUxNU0hHcFByMjMyUUNjM3lyZXV1ZzRmTlVrd1p5YkdzUkhVN3JOVDdNZEp5TndOZUZ1amxDdVFXVHlMVjhNQ1dRR1dMT252MEYzczVLckRiNkhTd1o0TGdkdVB4VWpzV19JWVYzdllMdWtFeWVCcGdqS0hjVTg2bWNyNmtTRVNlV0ZvR18yY1BQV3ppQ25tNmtrbTdidGZqd2dnSUtMUXM0LWZKZDdy?oc=5
-- **Source:** Notebookcheck
-- **Published:** 2026-11-26T16:29:00+00:00
+- **URL:** https://news.google.com/rss/articles/CBMihwFBVV95cUxOczhpY3FVd0poLUtnM2tPc25BUjRwdmZWT2JwWUFhN3c4QW8yekRfUHBsS3RWOVJjdFMzX1NGMmh0N2VIVkg4UTA1dm50SUVXa1Nmb3B2YlhJOXFWaXJrZDYwenI4cWJTbTRmT2RmMlhicVdqcHB4SGNEczRiX3hxdnBuT3FieWM?oc=5
+- **Source:** TechRepublic
+- **Published:** 2026-11-27T09:54:10+00:00
 
-## Microsoft simplifies app installations via Winget with interactive package selection - BetaNews
+## Microsoft Confirms Global Outage Was Caused By One Of The Kids Downloading Link_Park_Numb.MP3 - The Betoota Advocate
 
-- **URL:** https://news.google.com/rss/articles/CBMiggFBVV95cUxNZl9kN1JGb2x0Szl3NFlJSHFEYXI1SHU5N3dIOF9laVlFVDRXX3d6SFVFNHpQVjdkQjhOak4zS0dpMllmMEtic0FhNVRLTTMxbEEyWmg3akRCejc2anJNR1kweVBQcDFEQVAxa09KZXQxWWNDdlgwTW1CQUJpVGRfb3B3?oc=5
-- **Source:** BetaNews
-- **Published:** 2026-11-26T16:17:48+00:00
+- **URL:** https://news.google.com/rss/articles/CBMixAFBVV95cUxPZWtiR003LU9FRVdCeG9WVzRPVVQya3BYQkxhVXFGcVVpTXZiTWhZZmNMSDFjZ0pzTzViWktxNndsbGlWTVg5NmNIQ0t2LW9MSm5HU3p5Y0FvS1hpYjZhN05ZWGZqVVdmcGEzX1NQRWdETHNQandmaXB3Si1YRVBzcDF2ekhvS0NVdUtkQ3IyczN3dXRSLTdKZVdrZ2JwNmg1aXVuZk44bno4N2tqY0xYSUNWdzdqajk1MndJQmo0NkVUcnlR?oc=5
+- **Source:** The Betoota Advocate
+- **Published:** 2026-11-27T09:46:04+00:00
 
-## 乐智课堂 - تنزيل وتثبيت على Windows | Microsoft Store مجاناً - Microsoft
+## The new graduate headcount slots at big tech companies are being prioritized for teams with AI budgets. - 36Kr
 
-- **URL:** https://news.google.com/rss/articles/CBMiiwFBVV95cUxPM0E5NmVQNVdPYm5jMW93czZhZVoyYnVLcW1FalhWaFB6UFRXcExKZnpQOVdNdnJSUUtWVFZGc1ozb05SM2VaSjBJTTJKV2hwcURwcE5JMlYyUU9JeUJZRlIwT1FVT0d2OUFaZzhraEtQZFlPUUFiWVNJQzVpQ1QxLVVpd3RndWRWSHZv?oc=5
-- **Source:** Microsoft
-- **Published:** 2026-11-26T16:13:53+00:00
+- **URL:** https://news.google.com/rss/articles/CBMiU0FVX3lxTE1veE9qdW9vdTcyNUhhS3g2ZHlSUGY3SWJWdkxwcnNBa3NNX0JqRkluSll5LVZCeHd1OHdVdHZvQkItbnZPNjVHcjJnV215bUstRFh3?oc=5
+- **Source:** 36Kr
+- **Published:** 2026-11-27T09:41:23+00:00
 
-## JW Media Player 音视频播放器 - تنزيل وتثبيت على Windows | Microsoft Store مجاناً - Microsoft
+## Windows Server 2025 KB5138318 – Fix for Hotpatch Crash - Meteora Web
 
-- **URL:** https://news.google.com/rss/articles/CBMiuAFBVV95cUxNU01rX3phQ2prX2FtSGFEZlp2aVZaOEpYVWVmNGZhRnJNZUxJX005Nk9GVWpOT0tTWHN5cmYxYlFtdTZUZERwNTNRTU9nTnhscUNBUy1yRFVIS3h2Y0NEeFlSTUttV2lvOVB4WGk4M01HX2g5NENEaDZxYi16d190M2NOSGhtbWU5UGtabUdiSzlMM2hoZ0Y0ZnN1NThwSjVyaXdNQjZrYTJITVdJQ0lXWmxfeWpfYmJP?oc=5
-- **Source:** Microsoft
-- **Published:** 2026-11-26T16:13:53+00:00
+- **URL:** https://news.google.com/rss/articles/CBMihgFBVV95cUxNN3VlQTh6S3pIOF9RUmN1b2pFZEVQLUpsMHMybFZROEowT0xPdktfbnQwc3lueC0zbWs1RDJpa0lzajhDWEVQQkdvOHRPWUFlRk92bWRDc04yaDhqeS1ESW1BbWRYT2d2TEM0Sk5RblJCQW5zOF9sWnNETlRFVVk2andLWmVzUQ?oc=5
+- **Source:** Meteora Web
+- **Published:** 2026-11-27T09:26:32+00:00
 
-## IBM and Microsoft expand collaboration for compute-intensive workload orchestration on Azure - IBM
+## Microsoft releases emergency hotpatch for Windows Server crashes - Mezha.net
 
-- **URL:** https://news.google.com/rss/articles/CBMi0gFBVV95cUxQNmJpUGlyU0xoRXRWeC13Z3Vtd1hFWTRxV1Z2NnNKeXBtblhRTXNEMlVEQmVkalVYeHdYZG80XzNQdjNFdi1yS2V6ZnBSQ2JaOXB3R1NORGZ5UzVsZEtTYmhrWUJjNDJZVHRMOGRwRml4dnZYYV9qUFVVcXZFZURNcW1Eamt4cXdPeGJnbXVyelNLS3hWSDJzZ3J3Vmh5T1VhanJtcUdIRm5JQ2dQclJsRHlvRHNLTFNkR0lCNmswaXdOdGd6Yzk3THJCMUxSdnpJUWc?oc=5
-- **Source:** IBM
-- **Published:** 2026-11-26T16:06:22+00:00
+- **URL:** https://news.google.com/rss/articles/CBMikAFBVV95cUxNZk5aWndVRFBVSHVwUlYzajFRVUdyX2RoY1J4eHBBckdYQjBBYjJ0Sy1UOHoxR0xkOTYtMkd4Y3hicExWMkgyWHdvXzhSQ3dBS25hQmUyMUVrZ1M3LXNXSENkUF9MZVdUNUJ5SUpUYkFtX1BhdXJ1elk1UHZVRWp2MHRHZ3BWeWZRbnotZjNqRXo?oc=5
+- **Source:** Mezha.net
+- **Published:** 2026-11-27T09:25:31+00:00
 
-## Cyviz AS Announces Agreement With Microsoft Corporation For Envisioning Theater Delivery At Zurich Innovation Hub - www.marketscreener.com
+## Keep your favorite Microsoft Office apps on your Mac for life - Mashable
 
-- **URL:** https://news.google.com/rss/articles/CBMi6AFBVV95cUxNNzBDUXVUQUxCVU1hWnY3VEd3d3pNaWpOTHhqWlA3T0p1OVZiRTVodG0teTBkelY5d2JxbHdiZWtJQ2pjSjNNcmhRcnNLSG1XTGRLTG1iRlk1QXhzTm5IMXhaTU9JSWNUQmllTXE2S1JWb3RJMTJYVVB5R2NJZVJvQV9WeDQzNl93ZGQ1RUkyalFheERUb2JOU3JrbzBZMDNKdFdqTlNGMjdvZU1UX194QVkwdklIeWZ1QUZkMkJkUVlkcHRTbnMtbHE4a2pEUm9oaE5xdmpoR242LXA4UXFZMTU0S3JDMmxR?oc=5
+- **URL:** https://news.google.com/rss/articles/CBMiggFBVV95cUxNWENuaXVQTFNmMUU5TDNyeUt3WGhxM19yRTdNY3kwN0pxZlJEVWhHNkdxaFhtTkZrQkxjeFVrSVdXbVFiclNIek1LN0xhaklHeHE4UXVXRXBnT2NmeE9sVEpIcDBaMXBOYkpsX3RhN0c1dDViNUkyTWZPcHFwRkItVnl3?oc=5
+- **Source:** Mashable
+- **Published:** 2026-11-27T09:23:26+00:00
+
+## Microsoft 365 & Copilot Security: Why Enterprises Need VPNs - theoptimist.news
+
+- **URL:** https://news.google.com/rss/articles/CBMieEFVX3lxTFBJc28tWEk5WVkzaVltRkRncTVrZ0tlWktsdlNQU2tOQjM4ZUU5Zk4yZTNENWhFV0dXUk43NlBvendpaV95LUhmM1BTY19QaFczYk5sMndsaEc4WDViMUpfNy1EUERDanduZDQxdlZiWlhqQU1Da2V2Nw?oc=5
+- **Source:** theoptimist.news
+- **Published:** 2026-11-27T09:10:58+00:00
+
+## Is Microsoft (MSFT) Fully Valued Following Its Atos Sovereign Cloud Deal? - Yahoo Finance
+
+- **URL:** https://news.google.com/rss/articles/CBMipAFBVV95cUxQVTVmbXRKdzFpSEhTX2FUcmctRU5oVVN6WkRqeHFnTjVoc2hwaDJ3LTBETmtibG43aENaN1B3QlA3ajRYQVBmNEVRems0M2I0c1ZkU2MxQW9aVlZraXNHQWluV0hEdmVmbDFXb2hEX1BzQ3dWOGZOMVhxcUxTN2pRUEt6b1ZSRUlMNVk2Mi1mQ2EybmphdXRVZG1xRmd6cmZPck1CZg?oc=5
+- **Source:** Yahoo Finance
+- **Published:** 2026-11-27T09:09:39+00:00
+
+## Microsoft pushes emergency hotpatch to fix Windows Server crashes - BleepingComputer
+
+- **URL:** https://news.google.com/rss/articles/CBMivgFBVV95cUxNZUZSQWE4VXFMd01DVW43Y1FCNTVFalJHRGNvMTMwakR2LWw0NUxSNldySVEtUXB0eGk3cXVGMWZiREtLeER1Zmtub3o4MFJzSXBtb0NQMVhPVjBESEpfU2VFZ1c5NngtRjJIZnJsb2toczhodjduWTYyOTJXeHM1eUpqSHRTdWpjZ3FfWWdGdDM3SEYyeGxFWnNSTlpRSHJiVThRbnBnNjEtaVZFbmxBLXNkcmhuYUctWVdFWTBR0gHDAUFVX3lxTFA4MmVKWHJrZ1gxVFgtMDBfeFdPSHpkTTBndFNiVUVhejNabmJkS2JWMVJ2Mk5VUzJRLTU3RjJ2SWdQTEhaeDRJSFdyQnBpalczbll6TXNid3NSTlB2aGN2a3NfY1ZtakVSMGdkcDlzbUVXQ0JUSWJhcEZZZjVVWV8weW8yQnFXT3dVUDZ3aVh3MFRnTGRIRFUtOW1pQ3d5ekJSV1BPcUpQTTJiSDFONHk2TFBzX1Q3cmQtYTM0b1FtYVg4bw?oc=5
+- **Source:** BleepingComputer
+- **Published:** 2026-11-27T09:08:16+00:00
+
+## Microsoft’s Agent 365 tackles multicloud AI governance - InfoWorld
+
+- **URL:** https://news.google.com/rss/articles/CBMiogFBVV95cUxPV3kzSU15OTJwVXQ3TXhsRjZhTm1KbFhhQ2R5Wjdicl94VEtfZ2RENEFDa0tvS1poZ0VSYjBfMkQzb1YzTXFLLXNwN21qQnJJajY4aGJZLWd2VG11RWlFTnQ5S1NPblNzOVExaF80WlJkT1lyc1BGOXBndVQyZ25RQUIyOEEtNF9RcDNJQ2x3NDZ0cVgyMzdfdGFhU0U1YmRwamc?oc=5
+- **Source:** InfoWorld
+- **Published:** 2026-11-27T09:02:06+00:00
+
+## Microsoft (EQX Tokenized Stock) Price: EQMSFT/USD Live Price Chart, Market Cap & News Today - Coingecko
+
+- **URL:** https://news.google.com/rss/articles/CBMickFVX3lxTE53TnhScFVBNGw2NThqZUk1VEZJLXZnNVoxcTFhZnY4NFFoeWZXcWxSX19iM243S2JCdlJOWEF3dXBWY1VORGc0cEYtYVM0SjRCaHlaS3BOdDlZOGJGMlIxcVJBeEc5bGxORTRZRlgwVE5HZw?oc=5
+- **Source:** Coingecko
+- **Published:** 2026-11-27T08:57:12+00:00
+
+## No Windows 12 yet: Windows boss says Microsoft must prove its AI is useful to "earn permission," after users pushed back on Copilot in Windows 11 - Windows Latest
+
+- **URL:** https://news.google.com/rss/articles/CBMikAJBVV95cUxQX0RteGhSQk1mVktNRTk1bjdYOElQaEVqRm9SR2J5cktVTzYwRXNmUWNvWWVMRXhiYzlneS02d0VvdmRCWUxlVUVLckJtakJLQWN5UVVlS1hERnFVVlFySXZUNUxHZ2VIcFVKdWN5UFVnd3JMaE1lR0RaamdtbnB1MUVZVDFxMHItZ2c2MDFlRHcxS19nOEhJOVcyTVJEdDVRSFZQVHhyWEZvLTFDeXhsbVM1ZlVuUzB5Ykp6bjhoSXJodTZZS3J4eWtEQUlyVVd2Nlc2eEp4dkpnbXlWMk1UMF9Gd1N6c2JKWUU5MG9PSjdfUkJfdGhBVmE5SGIwV2QyTFREVUxCNlVoQlF4c2UwQQ?oc=5
+- **Source:** Windows Latest
+- **Published:** 2026-11-27T08:45:25+00:00
+
+## Satya Nadella Puts Microsoft Reorganization Before Hiring - Bitcoin Foundation
+
+- **URL:** https://news.google.com/rss/articles/CBMiswFBVV95cUxOTkhnNjdUV0xzUGszUE4wM09UUGJiWFFHZGltM2gtTXdvdUpKaklrMFlGcnhTbmJyNDlnb1h5aTVjNVlISnROdmVUT2R5Z3kzSDdSRlBQN3d5NHBjTTBsNXRySHJJOEdKREVLVHVmbEZvLWl4ek1HU2pLV1I1MklUVDNkOWtaMlBBaVZ4QnEzNkpPRjhCei1ZR04zZjVxYkdVUnQxbVZ0N1N5VWlaa0ozX3ZJQQ?oc=5
+- **Source:** Bitcoin Foundation
+- **Published:** 2026-11-27T08:42:52+00:00
+
+## Microsoft is deprecating a network client it added to Windows 31 years ago - XDA
+
+- **URL:** https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRGMwaEx1T0NTYnFYcmpNa1ZiVVhQcDRqT2ZFS09kdUUtbzQ0LW1GSTlQX2wxZUFBUFlYSVJjSkx2NlJJam5NUDJvVndtaWFZMGtWS2Q5bEpqR0UzaTNudDBiN0lVeGNselpZai1SX2Z2NzYweFVNclVxd21ZMW5WS05tYjZSaEtjV2VuMERSbkJBYndRS3FJMmw5cm8zcHdHT3N2Q1NvSHRlUQ?oc=5
+- **Source:** XDA
+- **Published:** 2026-11-27T08:37:33+00:00
+
+## Vinci RAT Abuses Microsoft Store for Malware Delivery - SOC Prime
+
+- **URL:** https://news.google.com/rss/articles/CBMigAFBVV95cUxQZG9fd1lxaG1WWWRuU0hYLWhDOGVMRURTaGRkZjZQU0g0LXN4OVBlZGR3THpVX1BOLTQxM0JqTHY3SldCcGpkcnBCQ2FZV2o1QVN3ZDZ4ZFVrXzBOOEZ2ZUJMVVM4U01KQW9VVlAtcGlFUWs2cDAyYXE1ZEcxQ0F5QQ?oc=5
+- **Source:** SOC Prime
+- **Published:** 2026-11-27T08:20:21+00:00
+
+## Give your Mac or PC the top Office apps while this 2024 license is $99.97 for Black Friday - Macworld
+
+- **URL:** https://news.google.com/rss/articles/CBMi0AFBVV95cUxPOFB0QW5QckpQTUEtb2o5Vi1DR1RDS1VxSGxHOXhSX29FTWM1cU5SWUVmcnBETjFCQ1R1N19SS24zT0twTFMtakV3Q0hOdV9ZRzVvQVhBaFlvWTJxdW1xemQxcXJ6bEFBUEZUbjdMMXhEQVNqZzU0bThBVmRDWFhGU1JCd2JHZ0w0dkpLcm4zc0dpdnFORUpxeTdRaG5CeU51WDVwNWRFa2VoN1RGQXFXa1pDVkplby1fRGg5UUZCb3NFS2VFdEVrVDF1Qy16UnBR?oc=5
+- **Source:** Macworld
+- **Published:** 2026-11-27T08:06:20+00:00
+
+## Microsoft May Abandon its Clean Energy Powered Data Centre Targets - EnergyNow.com
+
+- **URL:** https://news.google.com/rss/articles/CBMingFBVV95cUxNcFhpNlpmQTV4bzNWX2RCU1BWYXlkSjJlcW1UWTdSTlNxYnhwU2Qwa3N3a1lyRzV1Z3VZQ3AxeXBVQXB4TUMtWTlzb1hJamZtV29XU2tVdVM3Y0ppNEFWTVh1NjUtbmowYi1aYjhPN0hMUjhjR3R4ZDV2a2RySGRuT2VKZWJHa0NMei1mdjV0aDAwMUY2OFl0ZHdaam40dw?oc=5
+- **Source:** EnergyNow.com
+- **Published:** 2026-11-27T07:57:14+00:00
+
+## Cappelli’s Column: What Does a 60,000-person Buyout at Microsoft Mean? - HRO Today
+
+- **URL:** https://news.google.com/rss/articles/CBMisAFBVV95cUxQWFg1LVkxT2c1OXFyTmw2QVBQRkNsRTFhV1lMdGx1XzNhdktGUTFtRDh1aXdRdWhsSjNjblMwTmtFU1BSWmJyR2FaSllJdnkzeEd0TENqc1ZZOGZnOE5CYXlQWGVncWVFelg0NHRMODBhNmcxekdtdk1RSE9NLW5aSlhXbnlxVGlYWTB5bVBNbEx5aS1VR3ZIbHo5b3F3V2V0UHl0a1NrT3FERkVmcXp1NQ?oc=5
+- **Source:** HRO Today
+- **Published:** 2026-11-27T07:45:26+00:00
+
+## Austria Wants to Buy Up to €1.7 Billion in Microsoft Licenses - www.trendingtopics.eu
+
+- **URL:** https://news.google.com/rss/articles/CBMickFVX3lxTE1rcmQwcTBEdTRNbHIwQWluUnM4alVOSk5SYjU5UzJmLWRlSWxNRDktckVNalBMV2JzbHNjSWxGYnR0WkVLZHlSRmRLZi1pUGhkNzZZNVNKRFlYUE4wX0pYenRrNGdvM1ZvcVpoQWtLSW5kUQ?oc=5
+- **Source:** www.trendingtopics.eu
+- **Published:** 2026-11-27T07:33:35+00:00
+
+## Microsoft 365 companion apps are going away because they were taking up too much memory - XDA
+
+- **URL:** https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRlRpZWd1WU1VVzhrdXpaREN5OWtNSlV3aFVPWldkdUVJaUVkQ0tteC1pVGJZemVFVXF5Vy1YOG5FdnZIRlJUeEJ3VF9NZVB1V0dZR21aWTZqN1VCQzVNM0NfWk95SWdzNWMxTFVJalpvcGRYMk9pLWlsczBabjVnXzVCbmpacWdxYld2bTZ3d2hNbE1wdTd0R3VTbGJpX0V2NmN0NWlkVEtkT01MektNejdYM3N0Ni1QdjZn?oc=5
+- **Source:** XDA
+- **Published:** 2026-11-27T07:18:52+00:00
+
+## Cyviz to Develop Envisioning Theater for Microsoft's Zurich Facility - www.marketscreener.com
+
+- **URL:** https://news.google.com/rss/articles/CBMivgFBVV95cUxNTk03OUo4ZDd0dmNtd1M1TDljbGlFVDIwczJ6amd5dWU0ZmVnQ0FteWtNem9LRHFfNUJKdTBzcTRFZmlYVFkteHBVdl9PVEF2aDU5MVdQVVBPYkdHQzIyN2xkdUh0NDNjWGZxNkVYTTQwdFhFd0lKalVMNXFTc2xtcVVFUzNXVHhtTGRjYW93dU92bkxnVmJubmtwOVJYTHozSDBXN2UxdUVVYWlnSXYzcFFJMWltNWJQaDZKaS1R?oc=5
 - **Source:** www.marketscreener.com
-- **Published:** 2026-11-26T16:05:44+00:00
+- **Published:** 2026-11-27T07:13:39+00:00
 
-## Microsoft Declares Code Red Following Historic Microsoft 365 Outage - The Mac Observer
+## Microsoft Security Copilot pricing: what the SCU buys - OrcaRouter
 
-- **URL:** https://news.google.com/rss/articles/CBMiowFBVV95cUxQMi1xbWdYa04xS0h2dUdQOWVRbUoyWVVURVhybHpma0docUhmZjY4MV9KRGp3Q1gyVHNaMmxBbWtVR3lkMllic3Z0akNodVYyMDlsUFdwSzJWQlhnUVdKY0JmWlhvcUppWnp2c2FkQ2VrY2Q4M2p3cGY5VzB3SWdvdnVNenVtOHRFVDB3QWZCWTR2MmNmTkFCd1cyUWE3NDZLRGdv?oc=5
-- **Source:** The Mac Observer
-- **Published:** 2026-11-26T16:04:19+00:00
+- **URL:** https://news.google.com/rss/articles/CBMidkFVX3lxTE4xZnRWZWIwQkhiT254M0tucW9nd1VscFBncU9iemxtbzZNNU1fV3BtNHRsWnJwdzZNOFhlcWpTbkJlbW1LaGd4WDNYU180R3NJRUhuZXdLTUJWYUdNRmhGZFA0SEtKNnlmdEdORTdrQTk0UFcyWlE?oc=5
+- **Source:** OrcaRouter
+- **Published:** 2026-11-27T07:10:48+00:00
 
-## Microsoft signs cloud inference deal with Cerebras, adding a fourth AI compute path - Crypto Briefing
+## Ken Kutaragi says he wanted Microsoft to make Xbox - شبكة تواصل الإخبارية
 
-- **URL:** https://news.google.com/rss/articles/CBMifEFVX3lxTE5CZmN6cVdGdERmV0FycmJ3ZTZsSkRhNkEzaWR3Zk5halpoOEJXQkE1Um5XMzRKakw0OVlnR1hzN210RGJkMlhnUFBDbnlSdTNRbW93OVFiREhHazN3RnRLNHR4dl92NEsxajZESnIxTG1YQk9rX3NINWdrcVo?oc=5
-- **Source:** Crypto Briefing
-- **Published:** 2026-11-26T15:50:52+00:00
+- **URL:** https://news.google.com/rss/articles/CBMiU0FVX3lxTE02WTBnekFycEkxaFk2S2dENjhVZFVGcVJaRDBrTFE5Sm5jSDVOZEduQVc2MUNhajM4NVhCU3pmakJHWlF5OGJrQjRLQVYyaVJ4ZFh3?oc=5
+- **Source:** شبكة تواصل الإخبارية
+- **Published:** 2026-11-27T06:45:26+00:00
 
-## 3 Things to Watch After Microsoft’s Cerebras Deal - The Motley Fool
+## Microsoft Adds HorizonDB To Fabric - i-programmer.info
 
-- **URL:** https://news.google.com/rss/articles/CBMilwFBVV95cUxPUjFYbEYzY2ZqLUt1NVg3TFJCT095dUgtZFpLZFJYVEVOM2I1T3cyT2RWaS1RbHl5RTZNczI4UnZLc0RqSDBKbW5MM0FPd1FTY3V4dm5UN19mdWNpMXJrcUw3TFhONW1La1NyX1R2dDIwQm5IVmpHX0ROek85bnFZdFl4aVRzNW5HSXdOM25jU2I2LV9OR2cw?oc=5
-- **Source:** The Motley Fool
-- **Published:** 2026-11-26T15:44:10+00:00
-
-## Microsoft-Owned Github Deletes Unhinged Post Celebrating PlayStation 5 Emulator's Success Following Launch Of GTA 6 - Kotaku
-
-- **URL:** https://news.google.com/rss/articles/CBMimgFBVV95cUxNS1VOWkU3YUVoT1hDbWNmM3huNjA2dGNuS20zb3RGZnItOFNNN01RTXBJV0tSTEJiZWVVeENjd2ZxcUZ1NWlLMVplRV9iOGxSY2w3U2puWXcwakdacmZ4NDNDRW5KcnhJcS1Ka3RwNUNzLTBVekh4ZEhPWGM1X1lRQ3I0S09Zc1Z5RXJtRVd6NkdyV0FFeXllcHdn?oc=5
-- **Source:** Kotaku
-- **Published:** 2026-11-26T15:44:01+00:00
-
-## Microsoft Confirms November Windows Updates Break Some Sign-Ins and Shares a Registry Workaround - gHacks
-
-- **URL:** https://news.google.com/rss/articles/CBMiywFBVV95cUxNbzhtWWlQOVVVU01XYmJFQUhsb3dWYjIwRXpjeTNKUmpwQjdDZGJzaWNqUFpBbnJHWVREbGIyc0ZMdTF6Wk9yMEJaZEZBU0VrM1VTRXd2VWlrTlNmdDBiWTB6WEFQMUdueHRzS3FqUFFCRmtlUDB0VkxGS0o5TFNKdGNPYVFmbzAwYjRpZmozYTAxeFdzRUZrVExWQ20tM09uMzZiMWliSjNUdGhRWHphVURMZVJnUlJUZmdQX1h3bXFSTTk1UmxsTnlCOA?oc=5
-- **Source:** gHacks
-- **Published:** 2026-11-26T15:37:47+00:00
-
-## Microsoft is retiring its Microsoft 365 companion apps - Notebookcheck
-
-- **URL:** https://news.google.com/rss/articles/CBMioAFBVV95cUxNWGNOV2dOMmJScHcxM2dTZ0czWFdEanFzb0YwRlJjcW5QbkJ4b2hySzNhRmxBaFdHMHY0UlhPM1FFRmFqNllYRkFRamtaUExjODJuOXlrbTdKNXB0dFR1dVlWcXBFbC1iRU1TQkxqLXhTU0NWWk9YTklqUU9nOVdzWlQ0OVNiR1YyZy1uT2lUT3p1cTVVWk13QzZRV3loQ29h?oc=5
-- **Source:** Notebookcheck
-- **Published:** 2026-11-26T15:32:00+00:00
-
-## Microsoft confirms why it force-installed Microsoft 365 companion apps - Notebookcheck
-
-- **URL:** https://news.google.com/rss/articles/CBMitgFBVV95cUxQSVplLUIyTkdSTGFNSUx6bFBVSlYzdDdQVHdlQXJicXpIS2t2NmNsU0RaS1ZqR25XbE5qYTg0TmE1T1MtVG0yekJiM3daLXVXVy0wdHV6NkVDQVNlSDJlZlFaMC1FcXpiSi1uOTlyT1dzd2JrZmtrNFUxMmFuMUhRcWVLSUtNUnVDRFlXX2xmMWRCQkY5X3JDOTA2OXdpQzZWWHlKaVFlQlRhdC1TZ3VoMkFCMjFxZw?oc=5
-- **Source:** Notebookcheck
-- **Published:** 2026-11-26T15:32:00+00:00
-
-## Microsoft says Chinese and North Korean hacking groups are now actively using ARTEX in their attacks - TechRadar
-
-- **URL:** https://news.google.com/rss/articles/CBMi1gFBVV95cUxOLWZjQS1LeFF3VWdpbzdxdlowRldQUkxPTmhTSmJDLVRiWmhRMUl1bXUxOEQzMnBiTHNtNHlXSnNUcVVTTURlVGZnU1E2MDlJbi1QeTA5cVV0NW5rRG5zWXVoUGk2bzVsdVdYY0xYeGxHN1NBQkJZTzR1SFkyV2JkcnZQbWp3VlJFdDFyTnhPNXk1QWw4Z3lQelNsMEt3blhuZ2VLaXM4WVp2cHFHdWJHU3gwNjI4eEpxNl9hS19ZekNfbko2U09ZLWNpMEdmMnhqRGFVdmlR?oc=5
-- **Source:** TechRadar
-- **Published:** 2026-11-26T15:20:00+00:00
-
-## Ken Kutaragi Says His 'Secret Intention' Was for Microsoft to Make Xbox - VGChartz
-
-- **URL:** https://news.google.com/rss/articles/CBMirwFBVV95cUxNdWJSczgydlNVM0RmRGZJQUpsXzU0dVlER2wyTjFlMEtvMlFBSWNuUUpOZlJIM0VuUVpUZFRlSGdrVFN5a3B2MmZXcXFOUlJCdkFlcUgwQXFfWWhpaWFPS0hGUy1nNTZ1bXFWOC1LUUJUZE1ybk5NNXdJWnVYT1RPVTlmNjBtckRIbVlRUERmS3MxNTRWc05vYk53WEhSRXl4ckxTRmRnREEyVlVWWjZB?oc=5
-- **Source:** VGChartz
-- **Published:** 2026-11-26T15:17:09+00:00
-
-## Bolt teams up with Microsoft to put AI skills in the driver’s seat - Microsoft Source
-
-- **URL:** https://news.google.com/rss/articles/CBMi3gFBVV95cUxOai1ZVG15RVZONDhxTTN6LXlEMEJURkxuOXVCUlQ5bWRuRGRNR3N4UlZPS2FXejhNanA4eUxyNDlxdVRvX1VMdEJEalpYYVE0ODFIcEE5RHR5dGxJRGVhbG01bnJMQmtNMDc1cDFlMkVTUEdnU1ZzVXc1U0M2OTJoZHlXQm9IZ1piSTVFUzZGT1pONDkzanpTdm1jRE1yTXBlbzZ1a0dfVlVtWTlJWEtnZFZHcnlvMjR6WjV3anBvMlMwcWdXa1AzM3Fzcm5maWxMdFJVUFMxenlOMWRCc0E?oc=5
-- **Source:** Microsoft Source
-- **Published:** 2026-11-26T15:11:04+00:00
-
-## Microsoft hits ‘Code Red’ after global outage shakes its cloud empire - Yahoo Tech
-
-- **URL:** https://news.google.com/rss/articles/CBMikgFBVV95cUxOQmJ1QUNJa3NGUlhmdFF1ZXRnV01WMFdHNk9ZNzgtcmRQMXl3WnBHaG83RUVkTFVzVVlTdXFXWUF4M1JISHZnRUs0S1RENHZ3dURrTGdOMHZzSmowNVEwa1FrcEw3WHlHc0lMRWpqWWdDMFc3alh0UkRwRUdXOHY1Q1hHQ1FfZHhpX1Q0OUFxU2Vxdw?oc=5
-- **Source:** Yahoo Tech
-- **Published:** 2026-11-26T15:10:00+00:00
-
-## Microsoft fixes blank Office dialog box that blocked Word, Excel, and Outlook - Mezha
-
-- **URL:** https://news.google.com/rss/articles/CBMiZkFVX3lxTFBRTGhKTy1TbHYwUHZnaF9TSXJHdXNJOEhPaVNFYnJmN3BFYnY3LTJfcktpSnZBZjZyQ1lHSlNLSWtCbDNYVkRPV0lVbF8wSC1IWEVTUEJaN2ZoMkxiN2xQVE4yOGh6UdIBa0FVX3lxTE9Rbjk4SXZyX2g4dFF4OTNpMUdrNXdUYThNTXRnTUEyOFJVMGdvWG1DRGlVUm5EdFZCWHpHSTVnMW9qbmRBYk5vbTlrSVZOTmdBRU5kZHlONmRaNjAxTm9HUDFOZ1Z1V1UxdUdR?oc=5
-- **Source:** Mezha
-- **Published:** 2026-11-26T15:07:00+00:00
-
-## Microsoft is replacing Windows PowerShell after years of neglect - MakeUseOf
-
-- **URL:** https://news.google.com/rss/articles/CBMilgFBVV95cUxONlZpS3U3bm4wYUVOVkQ3c1l3NzRHOHJpbFU2ckppZHFVNDlJWG8wVHp6eGdDdlhtVldJaXhLV2c3M0R5UTd1R25jTktFY184Rk9GY2txVzkzbHJ6eElqbHJJeUpFak1qOVN0VzJLSWh0MG1mc1NfNGN1Y3ZwOFZleHJsNEkzRVRKRkNaNnBLYjB6Yk5ZNlE?oc=5
-- **Source:** MakeUseOf
-- **Published:** 2026-11-26T14:58:20+00:00
-
-## Versatile touchscreen Microsoft Surface laptop gets over a third off in Amazon Black Friday deal - PC Guide
-
-- **URL:** https://news.google.com/rss/articles/CBMixgFBVV95cUxQT2V1R1lBR21KTFFnUW5kV1dNOEYxNVJMMXpPV0tJd295TnRRb0ZKd1E2SWluOUxvblpqMlRqMUU3cUlVQ0Zsc3haVnVEY0NRYkRJRjRmTEw3ek5mNnBScFVlRlRQYUNINEFRNkV0dnozYUVZdV9Yd1Y2TmlLd2ljMno2ZTFQSS02SEVwLXNBeHc0d3gxdjRTdkkyY1ZNVTdSNndncHRBeG95UGRvOWpPOERYLXRlSks0eVY0NEdRY25zcTNiVWc?oc=5
-- **Source:** PC Guide
-- **Published:** 2026-11-26T14:57:19+00:00
+- **URL:** https://news.google.com/rss/articles/CBMinAFBVV95cUxQdDZmZkQ0SjFibUdNWGxqMEg0TWdkZGNFcFpzeXZlNG9yQ0RPeWcwMkJRVFpWbDNpOWFteG92clAydDRxR1JiclQyOHlxQlhUUWZDZjNtVEJqSFNHTkRHZl82Y3VhWDlRRndOWkRvMzFsd0J1RWxPTk51NzZNX2c0bmNMOVh2RjMzQUhEMjN3VFg0TXlQQlFIN3JHd3k?oc=5
+- **Source:** i-programmer.info
+- **Published:** 2026-11-27T06:27:17+00:00
