@@ -1,8 +1,98 @@
 # NewsWatch — fusion energy News
 
-_Last updated: 2026-11-27T22:30:26.536548+00:00 · 50 articles_
+_Last updated: 2026-11-28T12:44:58.396848+00:00 · 50 articles_
 
 ---
+
+## Inside the race for control of NASA’s Jet Propulsion Laboratory - Los Angeles Times
+
+- **URL:** https://news.google.com/rss/articles/CBMijAFBVV95cUxQeXBSRG90QTdDSFZvZl9UYUJoY2VaY0JiQ2Y5c3FyeUd4d3E4MW1uSmlpSTJob2NkOVhoelFhcWZDQTJseGUxazZtdFpqOU1yTHl6RThjaG5hYk9GQzlTYjdjcjVoNS1hRnpESjZRcjlnT2FHNTZZMDFsdXNMQ2xJNmlLWm80ZG9HVkZSeA?oc=5
+- **Source:** Los Angeles Times
+- **Published:** 2026-11-28T11:00:00+00:00
+
+## AI Captured More Than 90% of Third-Quarter Venture Growth - TOKENPOST
+
+- **URL:** https://news.google.com/rss/articles/CBMiWEFVX3lxTE5mTmxNY3p2YU1qdHhYdW5vbEZVaG9Ebl92bDRKOU8wcmJzMndtc0FpTVlqNjJfeHFKZTVrV2ZqOVIyQ21KSjNHSXlNLUVZWGg1QVR2Q2tHNG8?oc=5
+- **Source:** TOKENPOST
+- **Published:** 2026-11-28T10:14:18+00:00
+
+## Trump Media Plans $13 Million Shareholder Push - Wisevoter
+
+- **URL:** https://news.google.com/rss/articles/CBMiiAFBVV95cUxOaDBzcGZjWFZicmVLb1J5ZXJGaEFjV1U5RExEU2E4ZWZINTVqZjk4TG5XRC1CamZwZFRyR3IzSTNrTDdsTkw3MkFrM1JxWXkzUjFxLVEwZ1IxcnM2OVVzSDRTNEkwSXVpU1FOeEpXT0ZfTlUyYkVtbUhhYUhnTXNETFoyV2FqMHRS?oc=5
+- **Source:** Wisevoter
+- **Published:** 2026-11-28T10:06:31+00:00
+
+## XIM University celebrates a legacy of excellence, scientific innovation & global stewardship - ODISHA RAY
+
+- **URL:** https://news.google.com/rss/articles/CBMisgFBVV95cUxNcUdlLUs5T1pPTVRIYmM1Y01WSVlnUTcwa1Nla1ZvSFdPSjJEM2NNazhFZ1NSdllmY2NXU243Y2JScE5wNUpENmE4V1NpOTdCN1lZUUFya2dlV3VwT2xtTnRma0FQSXN6a3lYbm5SYXZUZGxuUHFuek1fYnpVamhGOTNPb09ya0VVZG9sSHU3UEdWR21VcWc2Z1lWNjdRWmFBdkJoNnVzdEdTYUx2QThROXJ3?oc=5
+- **Source:** ODISHA RAY
+- **Published:** 2026-11-28T08:24:52+00:00
+
+## Honghu Future Energy Co-founder & CEO Jiang Peng: AI Infra Underlying Infrastructure - Leverage Stellarator to Deliver Ultimate Energy for AI & Humanity | 36Kr 2026 WISE King of Business Summit - 36Kr
+
+- **URL:** https://news.google.com/rss/articles/CBMiU0FVX3lxTE9XNFc5X3NQeXZyS1A2M2VFQjBsYXAtZ0hET3JuVDhSWjl5Z09xcUdocjJCa24zZHYySjE3QnJOb0p1VWZfVTRVUzNxQWtiQncxUmRF?oc=5
+- **Source:** 36Kr
+- **Published:** 2026-11-28T06:52:20+00:00
+
+## ITER lowers its seventh 1,400-tonne reactor module with under 5 cm to spare - MLQ.ai
+
+- **URL:** https://news.google.com/rss/articles/CBMimwFBVV95cUxQUl9KeXF1eEs5enlxX25nM041TC1hNTI0ejhHekxUQUlncGEwQmFaR0hEVkV3SXpldmMzazM4Rl8tV3NncUlYRlRTc01oYXFLTkNVblgtSlFjM0JoajFsQW9XQ3VOVGhqaWtVMDNtU0hBdVhZT0VBemFpWTR3bFVoOGxUbDdWUERQcGNCd3dKZ1VMVVd3N2lSOTR3RQ?oc=5
+- **Source:** MLQ.ai
+- **Published:** 2026-11-28T06:25:59+00:00
+
+## KENTECH Dreams of Becoming the 'Lifeblood' of Honam Mega-Projects, Prepares to Emerge as a World-Class Energy Engineering University [On-the-Scene Report] - 파이낸셜뉴스
+
+- **URL:** https://news.google.com/rss/articles/CBMiWEFVX3lxTE5EeXhYbXpoQTRMcFVMc2x1bVAzZ01OczlJcko2alNVZDE4NzR6X3FoMXctVmFCay00QTFmM1EzQjd2Mk9kR1Y4ZFNaV0VHV1luakxaN1JGajk?oc=5
+- **Source:** 파이낸셜뉴스
+- **Published:** 2026-11-28T05:00:00+00:00
+
+## Science Diplomacy, another arena of increasingly contested multilateralism - Sciences Po
+
+- **URL:** https://news.google.com/rss/articles/CBMiswFBVV95cUxOdmsyNm5VZWZ2U2l0YzR1a09PXzFZZE1ZNDFDaTZ6bWZ6TXdLSjQ1ZGw3bi1zSWpxOUFKVXJZYlJPMTA3bmRoeFRRQVRvUkdOUkxnOUVuSnJPa05tN3JqNnh2WU5sMnd4eXhJTHl6RHpxYmk5ME8tajdoZ0ZWcW9uRy1ITGdqdk5qQmxLRUlHQTM4bEZCb2x0eGRQSmt2cmRhODFGV0ZfVWY0QndjZE5FaHV0UQ?oc=5
+- **Source:** Sciences Po
+- **Published:** 2026-11-28T03:13:33+00:00
+
+## 1,400-tonne ITER module clears 5 cm gaps in tightest tokamak lift yet - Interesting Engineering
+
+- **URL:** https://news.google.com/rss/articles/CBMinAFBVV95cUxOVDdrUFJLX21tZ0xTYWk0WnZ4X1E2Vms5LVFrSENSTVhQSkZZZnhHRE0yeWdrWWNnc0ozR0pQWU9SUXFDN1hMaGF2V3NFVlFDa0ZfUk1LM1R1dDFXcmxyV21hOEtWU1ZxM0ZwRGVIcHBWcmczTWxRZFdRcWRLTmFFQVN4RURqNmlHZkdjcFY3cXA4X3FzOEt3Qm9HdEo?oc=5
+- **Source:** Interesting Engineering
+- **Published:** 2026-11-28T02:29:00+00:00
+
+## Pennsylvania residents urged to ration heat after contractor damages gas main - The Cool Down
+
+- **URL:** https://news.google.com/rss/articles/CBMikgFBVV95cUxQSXZYLURXdkwtT3R1S3pLYllReF94RmN3bC1sWFhyS2Fidi1qS0ZfMTIxbVNOcFVkMUZOM1lMNGxwN2hQUnZKMEVJSy1aRm8tMUozWC1MSFZHMXJ3SEZ1ME9TNWlEY0s2WjJFUGQtYkRjTUxtVmRWNnREcno4V1VPcmVQbXVUaGZScmZtV3dvOHVzQQ?oc=5
+- **Source:** The Cool Down
+- **Published:** 2026-11-28T01:59:00+00:00
+
+## China's 'artificial sun' pushes plasma density 65% beyond a 40-year limit - Yahoo
+
+- **URL:** https://news.google.com/rss/articles/CBMimgFBVV95cUxQcDVxTFNDeXg2ZHM0WG5rWXIyS3FKcjNacXhmaDJuVVdYYTM2aTZKTXhleGxkTUNVMmNlZFY3SnFocm1SanFWd3ZJY1Zad3p1UDBLVjA1QlA2QzZHWkxsbVlHdjFIeGxkcHgzdDFHRXM0MVBYblh5N0lzYzkyMWZ5ZFlJMWZBRHQ3X3VicVhTMTF0TWVCX2xjemFR?oc=5
+- **Source:** Yahoo
+- **Published:** 2026-11-28T01:41:00+00:00
+
+## Backyard Power Tycoon codes for free Coins (November 2026) - GGRecon
+
+- **URL:** https://news.google.com/rss/articles/CBMilgFBVV95cUxPQnpzVUFxMjdzVmJIX3NnVHFDcnBrS3o5TmRoWXp2RkdvYUJWRjYzUE5iZWRsR3BILWtDaDFFbWZMczZjaEw4cEpLT0JMempYVmJ3TE1lZDZVdXh2N3czZXJBcURzY1B6Q0ZITEdlRUdxR2tPZXJveWFzWm5EdHJSS3kzeFZfd3RfU3pBTFpYbzU3eUlac3c?oc=5
+- **Source:** GGRecon
+- **Published:** 2026-11-28T00:53:57+00:00
+
+## Physicists Crack a 44-Year-Old Nuclear Fusion Mystery - SciTechDaily
+
+- **URL:** https://news.google.com/rss/articles/CBMihgFBVV95cUxOWkNLTEJwOUtRMDBXUkFHOTFRMzNFaXBvTGk4NkxVNHJoaEdBTlZLM2dPWHpFOHZqWkdaQTE0cDktZXpzRXhUTWZnWnE1MmNqUmhzS0liU1Z0WkI4ZkUzVG5Oc3p4VDJZSDkwcTVWT0tla09WX2hoQmo2Smp0VU56ajU5SnpDZw?oc=5
+- **Source:** SciTechDaily
+- **Published:** 2026-11-28T00:20:04+00:00
+
+## BigBear.ai vs. Rigetti Computing: Which Technology Stock Is a Better Buy for 2027? - The Globe and Mail
+
+- **URL:** https://news.google.com/rss/articles/CBMi-gFBVV95cUxQZ1l3d3F2d2Y3MjdMa2tPaXZTN2VyWVBHbGFEWGVLb3AyMVBsbWlMelFyRUNxMUlfR291cEZFZTFjdVhzdE5yZkE5Y1lkVUxqb1I0Vk5Na2V6bmowNzZpOHROZVRBc01VZldhRlFQcVlJOFFMTl9vTjZ2LUtnQTd0OGdpWnJZRnRWeDkyd25kbllySmY1WmlWc2h4RTRkeEpKNTJrSk1KRjRiNDZWLVJlNDRqSWZqOWxVRjA2VzdUaXZYYUVXQlplRVZkYmctRWtybzgza1o4UWRPbktObnBqS2pVejNWX3ZfQWh2aDAxNmQ0MGNFdzFDUDln?oc=5
+- **Source:** The Globe and Mail
+- **Published:** 2026-11-27T23:29:01+00:00
+
+## [PSA 10]Old Kai UC* [FB02-063](FUSION WORLD "Limited Pack MANGA Ver.01") - SNKRDUNK
+
+- **URL:** https://news.google.com/rss/articles/CBMiYEFVX3lxTE5CclpfVlExOEZtWi04NmV3bC1GX1BZNVY1S3hTbjduSDVYekxGd1hBZVRORU1WVk9LOGY1VUsweVk5V1NBVlhteEpkMDVOWkw0eTBiRzJBRV9Rck5FRnBPMQ?oc=5
+- **Source:** SNKRDUNK
+- **Published:** 2026-11-27T23:28:56+00:00
 
 ## New Music Friday: Show Dem Camp, Bhadboi OML, Zlatan lead fresh releases - Olorisupergal
 
@@ -213,93 +303,3 @@ _Last updated: 2026-11-27T22:30:26.536548+00:00 · 50 articles_
 - **URL:** https://news.google.com/rss/articles/CBMihgFBVV95cUxNeElLWWdIeE0za2NJWlNWQ1g2V29LNWlqbGVXSUlYckNlandodDhQYzM1UDBJcll5WlpRUk5sczF5YU1kS0tnbnptdktFRHZ6Q21jbEpEV0Y4R054LXJ0LVVPNGJiaWlRd1BFWmNtZlFVYlJ1cHgtNS1zVnFzNGx5VHRiR3NZQQ?oc=5
 - **Source:** Science|Business
 - **Published:** 2026-11-26T13:43:43+00:00
-
-## Soviet A-bomb birthplace to help Uzbekistan build small nuclear plants - Kursiv Media Узбекистан
-
-- **URL:** https://news.google.com/rss/articles/CBMiigFBVV95cUxQNHVBdWN4bDRaT3JHREc0RkRyeHY0SEg4a0M2aDBvSjNBNm5aWDhnTEJ4N24xX3RfMzZpaEZGVEduSVFsdWZkZzZTNUo0Z0YxWEhodXZYZzU3cTFweVlTTTV4eU9kc2lhTEpNc2xtbEl4anJUcV9aY2xEZWJZQS1tU0hyc1k5dGt6OVE?oc=5
-- **Source:** Kursiv Media Узбекистан
-- **Published:** 2026-11-26T13:32:18+00:00
-
-## With Powertrain-Chassis Integration, What Will Set Hybrid Systems Apart? - Gasgoo
-
-- **URL:** https://news.google.com/rss/articles/CBMizAFBVV95cUxQcGVnU29neXVRT01kVzZ6TGtyWEJ5YVFsOG5CRkF0YTY5ZUFKbGYybUEtUFhsV19VZ2ZvM1pRd0tYZE9FbV9rb3VwdVExUUZkUE1tVDVKaHZNZTV2d1phdFhDcnhYeFhtOW9Zbmc1UjJ5N3E2OWpNTVJmZ3FiMmhXOGhmaGN2MjlHRFFadS03UEE0TDBXUGV1Q3BJaE1ocWEwNHpRamZQTkRyal91akN1NldOaDdoVVRHNVIyNHowVk13bEVUV0VwN3RxLTk?oc=5
-- **Source:** Gasgoo
-- **Published:** 2026-11-26T13:17:53+00:00
-
-## Where Venture Capital Went in 2026 - insights4vc | Substack
-
-- **URL:** https://news.google.com/rss/articles/CBMieEFVX3lxTE1HNUhxMmo3QnN0a2ZZYTZDcjVsa0hYdWE5ejd5ZW1OX3dBZk81YmVtQV9mcEgtUldXM1hOWkZGZENjbzViNWNSU09Pd244VWVveWVyNGRLeUM5RGFrVm5FVVYxV2RZRWlNdkZNX3JiUEg0VTEwQWFIaA?oc=5
-- **Source:** insights4vc | Substack
-- **Published:** 2026-11-26T13:08:57+00:00
-
-## Ninh Thuan Nuclear Power Plant Timeline Delayed Past 2035 Under Revised Vietnam Energy Plan - Construction Review
-
-- **URL:** https://news.google.com/rss/articles/CBMiyAFBVV95cUxPUTJlT0JOSlNPS3BOcXh0MmpnLXJSempHY0xXV1BvUTJGNjd3Ul94RTZGMHpmNWFiVmdmMGo5RWF4MmF2eXNLSXEyaFcyTS1LYlE4N3RnMXRtUllsc1BMaHF6Q3BlWE9RV0toTXdIZ2ZUVFpMWkNQNjJaMHBhcElQemVaTFkybWpNOWsxVW1QYks0dy1ZdTFEUldkTVYwQTM2ZXZUT29ndVQ2cmViNjdVWEpWS1JqZFpsb2RrbjU0dXJuSzE3ejVNag?oc=5
-- **Source:** Construction Review
-- **Published:** 2026-11-26T12:53:41+00:00
-
-## ONE Nuclear Energy Explores Northern Iowa Locations for Proposed 1,000 MW Project Northern Pike - Construction Review
-
-- **URL:** https://news.google.com/rss/articles/CBMizAFBVV95cUxNekQxWHR0elRVWERDVGlEMnhGUWE4eTUyb2RhNUNWTGxJVkpGc2MzY295VWsxR2N0LUJwYjVrR1JFQXgwTVBjOUNtWW1OUHZMcUc0RjR3S3NzVFJzME04bHVMWllETVRrN3ozNExVLWNneEM2clVaRlJRNFJoUXJhYUNLSTNOR2RDSFlMSHJZb2hCU3hlRXVaSkFFbjBsdHNQOE9oSl9mNXMxUGFEdG1nQnB5RDFYc0gybE9jclJ0X2ZEOUZnZ1VRY1hHckY?oc=5
-- **Source:** Construction Review
-- **Published:** 2026-11-26T12:34:13+00:00
-
-## Wire Directed Energy Deposition Model Uncovers Offset Insensitivity and Absorption Minima - Bioengineer.org
-
-- **URL:** https://news.google.com/rss/articles/CBMitAFBVV95cUxPOWktM3NNcnRpYjJZZFNzZnlGaFJzd0plSGpWRDdVazctUF9zakxTQTRwSXRNYURqeVk0eFJjYlE4b2RyYks1YjJfc1VNNjFMSkNWbzdNb3FYcXJaUDRXbUdaSUctSlNKOXJpTDJwdE8ySm1XOERlem83MW1LWW9OQ3gwRWdsS0h5emRCd3ZDcnVXZFBSd0dFOE9TZkVCTmpxX2gyUEIzdllIT2I4RWdUUFFmdGw?oc=5
-- **Source:** Bioengineer.org
-- **Published:** 2026-11-26T12:27:12+00:00
-
-## Munich-based Starforge launches with €6.6 million to mass-produce compact nuclear fusion reactors - EU-Startups
-
-- **URL:** https://news.google.com/rss/articles/CBMizwFBVV95cUxNZmRodW1KYXFYNHJMQWY4d1F6cnE5a1hhY2NlRDRNYThWQ0hFMGJtN2VhU3VhSWxyVjJGWkJxWnk5QWdacjNlTTVYaFNLMWUwc1N0d0g3eFlYcDU0SnVOYTk4cndPdld6RmFTZlVsTGxIR0sxR3AzaUJrcUFZWlhqd3dVWXMyY2RnS2RaSGpfMFVBYUJMd2dLc2trMkZ5bW9sLXJ6UWR2endHbDR1UmFYUUxsLVBJNlM3U1g1d0p1U1EzU1pDbEVCMW1NVG5JLWM?oc=5
-- **Source:** EU-Startups
-- **Published:** 2026-11-26T12:14:34+00:00
-
-## Munich fusion startup Starforge raises €6.6M to build compact reactors on production lines - Tech Funding News
-
-- **URL:** https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTWFSMkU3QUE0ZE01eWlfUGNHUUI3dGRhLVY3VmVBS0ZrQ0l3NHNCa2xyMXZIUElUTlhaVHVJY21YbW5QSGd1eHl0Z1hKcV9UOUh4V2hpNXB0RWpyWDRwN21ScmpHcGJCMDlYZ2liWmtsZ18xZFEzZjNCc3JHMTVGUENfNHBNc1VNd0RSM2dRR0Y3U3Z0VTJ1ZlRXcUZtZmhmTTNjYm9WQVhJU21JSTZ1anUzemtGZ0U2U0Rv?oc=5
-- **Source:** Tech Funding News
-- **Published:** 2026-11-26T11:12:29+00:00
-
-## Exclusive: Starforge raises €6.6m to build nuclear fusion reactors at scale - Sifted
-
-- **URL:** https://news.google.com/rss/articles/CBMihwFBVV95cUxOUC0yNzR4UE12Rl9iU2JmbzJULVZ2c0FGRU5uUjRvWjRxR29Xd1lpNld5RTAxWk5obG1fckpzWmtIT0xsZjVqQVBRQ1pRZWRiMlNDR25JMXo0NnpZdVhaNHVsRXdSSmEyQktsTWFGZHRYWUR5eEVwaDdPd1h0V21QSzFTYW9vYjA?oc=5
-- **Source:** Sifted
-- **Published:** 2026-11-26T11:02:29+00:00
-
-## Madras Jazz Festival returns for its 14th edition with Tomasz Chyła Quintet and KIN to electrify Chennai - IndulgExpress
-
-- **URL:** https://news.google.com/rss/articles/CBMi-AFBVV95cUxQVHpvNklTa2c5TjYyN1FoanZKbGtQeEZQU056anNXXzdOYms0UUpmRjFNWG9Rd2pEcVAycEFzc01zdmNScWZqZnNnTjFlcW9vck9nRnVYMTJycGU3RjMtLWpqbk1FMFhNU1NCY096bTFrTlhDYTNVeFdZWDRiSXUyU3JTVkNlQ21iajl6SU5yc0Jjd1VIaE1OOFBwalhjXzZvbGdzZEY5Vl9HT1ZUcXZRY2xsM1pLeFd2NC1hLUd2T29wZ2c4bnJuVVRfaTc0QnhGMnplY0prQWtBUVlaZWt1OEJJaHkycXdwRWp1cDIwaW04U2RPQ19fYtIBhgJBVV95cUxPN25wOF92UnFubWFJRUJyVG90RnBhOUdHZklpQUtvOUFKaF9ETUFwS0FlM2lEeGJNWll3RWtmbEJta1ptMndHSzlqRVJyd2laeVZPUXVJeUlXMGJmaEVXNVVhdHQzX0RwZFhlWXA3QThoMDhCTkxBT0JQeXlLejlZMjVhMGdKSnpzem1JRV9aUWtTSHFTalBKZW5sbjl5MzNsUkd2bGp2eUVfQVc5ajE0SkdkOGRzUFpGMUpCenBXaXRTSFMzcnBGUlMyRlhKU1IwTm9LWUNEYlJ1VTVtRG0xMjROLXhPWE1ONzU4OEFrQ19fU1JEUU9jd3VDUnRuY2hjLUQyd05n?oc=5
-- **Source:** IndulgExpress
-- **Published:** 2026-11-26T11:00:33+00:00
-
-## Looking for a good deal on a Christmas tree? Try a national forest - Los Angeles Times
-
-- **URL:** https://news.google.com/rss/articles/CBMisgFBVV95cUxQVFYxSHhhR3NaSWYzVEE4NGxESmNBOS1VWnJHVGEzWmxrNFZzNndvZTFxU0tpb1VLMHhST1QzakdadVAzdlhXcVZfWnZtOXJUZjBEMU9malhLS3d0MzlBUHVXcFJlN0dCX2EyU1J3UHJHdXlYbWo3Z3pzbmlsYkZiZzlWcXA1eUFXMzJkQlJnYS0xdV9WQlBGR2phQnlVWUUyUVA1LVprUjdQT1E5REQzN0F3?oc=5
-- **Source:** Los Angeles Times
-- **Published:** 2026-11-26T11:00:00+00:00
-
-## US Ready For Key Milestone Towards Producing Haleu For Next-Generation Reactors - NucNet
-
-- **URL:** https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNlF2YzhlczQ5N1UxMnJwUDgyVmVZNlR3dlRuMmNyZllOczVidzJXMzJScnFRQm40d1lJMlhlYmM3M0xYVVgySHdlWk8ydGFCVDNENHg2T2FuelZULVRCS3RqeFpQYWRvR082VkplNWhycmJoeFlfTUJ6UzhBNVFXZnYtMFFfeEItVTNDekpOZEdoaHNhbUdRZmNxeE5xMlNQUzlFQXMxN3VJMWlSSWs3UG1CcjFlWm96?oc=5
-- **Source:** NucNet
-- **Published:** 2026-11-26T10:51:13+00:00
-
-## Proxima Fusion CEO calls out ‘short-termism’ amid AI boom - Sifted
-
-- **URL:** https://news.google.com/rss/articles/CBMif0FVX3lxTE1mbHd2QzhQNWoxb2NJWjRjVlFEUFUtMlh5SVZfZ0pRSDNRWC1DYmNyUUQ4alE1V2xLNkw4eDN3UjN4d3NoY1FiQVhYeld1OXlnT3NLaGU0bmk5NE9JSWM3SVBpRWE4Q05WT0Z1Q0t2VHJSWWo3MnFuUTJqSnE3eEU?oc=5
-- **Source:** Sifted
-- **Published:** 2026-11-26T10:50:43+00:00
-
-## TCL Zhonghuan raises the cap on its module sales to a related party - energynews.pro
-
-- **URL:** https://news.google.com/rss/articles/CBMimAFBVV95cUxOVkJWekRwb3IyaDkyaV96NWFsMXFQU2k0RE1GSkVmZW5waDUtcFlMVjFoNWNkQTh1UkpwamZnT3ZmQW9xUmtuS2x0WFhaYS1CaWR3X0RPRVhZNzZWVzhtSjF5M1B3am9jZ1YxcUpVZ3dTNmx5VmxGU2tITGx0M2FHRi15Vjh6RGs0ZEU3WnBpT1FOTURRQXJoYw?oc=5
-- **Source:** energynews.pro
-- **Published:** 2026-11-26T10:48:41+00:00
-
-## Liberia signs hydropower infrastructure agreement with Bea Mountain financed through offsets - energynews.pro
-
-- **URL:** https://news.google.com/rss/articles/CBMiugFBVV95cUxQOGxQUHRXbmtWX25nUldFTkJPc0lucGYyTTBCc042Vk01SWtUSUllcU10SFk4OUhDdDRCcm52RDF2Sl9EOGpISWJhcF9PSjU2dGJtMlFJdmhtV0VYTHBGTDB4QTNXeFk5NjhvZEluVlV0c2hjZUVyRHltdUpQaVJCa0NBTkVxRHEyZDRaZGhNWG8zTW9BN0YxeDJmUlJqZWNVblAzR2FjQWMwNlhJX09fSDVnWENKekx5Ync?oc=5
-- **Source:** energynews.pro
-- **Published:** 2026-11-26T10:33:49+00:00
